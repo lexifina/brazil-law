@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação cominatória c/c indenização por danos materiais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais são inadmissíveis em recurso especial.
+4. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por BRADESCO SAUDE S/A contra decisão assim ementada:
+RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação cominatória c/c indenização por danos materiais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais são inadmissíveis em recurso especial.
+4. Recurso especial não conhecido.
+Sustenta a agravantes que houve o devido prequestionamento da matéria, afirmando que "o debate em si, foi levado para apreciação da instância ordinária" (fl. 445, e-STJ).
+Alega que não há necessidade de reexame de fatos e provas, argumentando que "pretende discutir questão eminentemente jurídica: o reconhecimento de que o reajuste por faixa etária aplicado na apólice sub judice é absolutamente lícito e deve ser mantido, pois está em conformidade com as teses vinculantes firmadas pelo e. STJ em sede de recursos repetitivos (Temas 952 e 1016) (fls. 445-446, e-STJ).
+Acrescenta que "a diferença de apenas 0,01% não é suficiente para caracterizar como abusivo o reajuste, na medida em que as variações acumuladas entre as faixas etárias são, a bem da verdade, iguais, ou seja, 244,8%" (fl. 446, e-STJ).
+No mais, reitera os argumentos deduzidos nas razões do recurso especial para defender a ausência de abusividade no índice de reajuste aplicado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação cominatória c/c indenização por danos materiais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais são inadmissíveis em recurso especial.
+4. Agravo interno não provido.
+VOTO
+Sobre a incidência da súmula 211/STJ, verifica-se, da leitura das razões recursais, que a BRADESCO SAUDE S/A não demonstrou a alegada ocorrência do prequestionamento, insistindo em afirmar, abstrata e genericamente, que a matéria foi discutida pelo TJ/SP; vejamos:
+Falando sempre com o devido respeito e acatamento à sua ilustre prolatora, mas a r. decisão agravada incorreu em manifesto equívoco, pois a matéria fora devidamente prequestionada na instância ordinária.
+Como se sabe, o prequestionamento é, na realidade, a presença ou não da questão legal controvertida na decisão, para fins de cabimento do recurso especial ou extraordinário, o que não exige, necessariamente, a expressa menção à letra dos dispositivos de lei, como ilustra o precedente abaixo do e. STF, da lavra do eminente Ministro Sepúlveda Pertence:
+(..)
+No caso dos autos, ainda, a BRADESCO SAÚDE opôs embargos de declaração ao v. acórdão que deu parcial provimento ao recurso de apelação interposto pelo autor, aqui agravado, explicitando o propósito de que a e. Câmara se manifestasse sobre a matéria violada. 6. Não tendo o v. acórdão dos embargos de declaração dedicado uma linha sequer a respeito da matéria apresentada pela agravante, não há como se concordar com a r. decisão agravada, pois o debate em si, foi levado para apreciação da instância ordinária. 7. Ou seja, por todos os ângulos, mostra-se evidente que houve o devido prequestionamento capaz de ser conhecido o presente agravo, para dar provimento ao recurso especial interposto, não havendo que se considerar a incidência da súmula 211 deste e. Tribunal. (fls. 444-445, e-STJ)
+Com relação à incidência das súmulas 5 e 7/STJ, consta da decisão agravada que "alterar o decidido no acórdão impugnado, no que se refere à conclusão de que os reajustes contratados não atendem aos requisitos de validade previstos na RN 63/2003 da ANS, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais" (fl. 435, e-STJ).
+Com efeito, o TJ/SP, ao examinar a questão, decidiu:
+Como consta da própria fundamentação do julgado paradigma (REsp nº 1.568.244-RJ), no tocante aos contratos firmados a partir de 01/01/2004, hipótese que se amolda ao caso dos autos, à disciplina dos reajustes por faixa etária "incidem as regras da RN nº 63/2003 da ANS, que prescreve a observância: (i) de 10 (dez) faixas etárias, a última aos 59 anos; (ii) do valor fixado para a última faixa etária não poder ser superior a 6 (seis) vezes o previsto para a primeira; e (iii) da variação acumulada entre a sétima e décima faixas não poder ser superior à variação cumulada entre a primeira e sétima faixas". Na realização do cálculo, cabe frisar, quanto à primeira condição acima transcrita ("i"), que deve ser considerado o valor da mensalidade fixado para a primeira faixa, pois antes disso não há percentual aplicado. Assim, o valor da mensalidade da última faixa não pode ser superior a seis vezes o valor da mensalidade da primeira. No tocante à segunda condição ("ii"), precisa ser observado que a norma fala em variação acumulada e não somatória de percentuais.
+Deste modo, não cabe efetuar a mera soma dos percentuais previstos em contrato, mas sim verificar a variação da mensalidade (variação acumulada) da primeira à sétima faixas e da sétima à décima, para depois se verificar se a variação deste último período supera ou não a variação do primeiro.
+Frise-se que este é o correto modo de verificação da possível abusividade dos reajustes por mudança de faixa etária, conforme a tese 2 fixada no IRDR nº 11: "A interpretação correta do art. 3º, II, da Resolução nº 63/03, da ANS, é aquela que observa o sentido matemático da expressão "variação acumulada", referente ao aumento real de preço verificado em cada intervalo, devendo-se aplicar, para sua apuração, a respectiva fórmula matemática, estando incorreta a soma aritmética de percentuais de reajuste ou o cálculo de média dos percentuais aplicados em todas as faixas etárias."
+Como as partes não trouxeram os valores de todas as mensalidades e não seria razoável exigir isto, tendo em vista que a primeira faixa se refere ao período de 0 a 18 anos basta se aplicar valor hipotético de R$100,00 para a primeira mensalidade, e, depois disso, se aplicarem os índices previstos em contrato, comparando-se os valores das mensalidades (primeira condição) e os percentuais (segunda condição) encontrados.
+No caso em comento, o contrato prevê em sua cláusula 14 as faixas etárias em que incidirão os reajustes (de 0 a 18 anos, de 19 a 23 anos; de 24 a 28 anos; de 29 a 33 anos; de 34 a 38 anos; de 39 a 43 anos; de 44 a 48 anos; de 49 a 53 anos; de 54 a 58 anos; e acima de 59 anos). Portanto, verificadas dez faixas etárias e nove reajustes, um para cada mudança de faixa, como previsto na norma.
+Os reajustes contratados foram os seguintes, do primeiro ao último: 18,94% - 21,89% - 25,18% - 2,0% - 4,10% - 27,14% - 10,03% - 9,12% e 103,96% (fl. 51). Realizando-se o primeiro cálculo, confrontando-se os valores da primeira mensalidade (e não do percentual, que não existe) com o da última (e não o percentual aplicado), tem-se que este último é seis vezes maior que o primeiro, isto é, dentro dos limites legais, que admite até seis vezes mais.
+(..)
+Na sequência, na verificação da segunda condição, tem-se que a variação em percentual entre a primeira e a sétima faixa foi de:  (18,94/100) 1  x  (21,89/100) 1  x  (25,18/100) 1  x  (2,00/100) 1  x  (4,10/100) 1  x  (27,14/100) 1  = 244,87% Limite este que não foi observado na variação acumulada entre a sétima e a décima faixas  (10,03/100) 1  x  (9,12/100) 1  x  (103,96/100) 1  = 244,88%.
+Dessa forma, resta claro que os percentuais de reajuste por faixa etária efetivamente aplicados ao contrato firmado com o autor mostram-se abusivos, devendo ser reduzidos para percentuais em consonância com os limites traçados pela Resolução 63/03 da ANS.
+Nesse contexto, de rigor a reforma da r. sentença para decretar a parcial procedência da demanda, para o fim de afastar os reajustes por faixa etária aplicados ao contrato a partir dos 59 anos, sem, no entanto, declarar nula a cláusula que prevê tais reajustes.
+Deverá a ré restituir os valores pagos a maior pelo autor, devendo o percentual de reajuste por faixa etária ser apurado na fase de cumprimento de sentença, por meio de perícia atuarial., com devolução de valores de forma simples, considerada a prescrição trienal, com incidência de juros de mora a contar da citação. (fls. 377-380, e-STJ)
+Logo, não há como afastar, ne espécie, a incidência das súmulas 5 e 7/STJ.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
