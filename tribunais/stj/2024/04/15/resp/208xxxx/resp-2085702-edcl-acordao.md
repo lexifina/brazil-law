@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil (CPC), os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão, uma vez que a controvérsia foi examinada de forma satisfatória, mediante a apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. Os embargos de declaração não constituem instrumento adequado a rever entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CENTRO DE TRATAMENTO ONCOLÓGICO S/S contra o acórdão da minha relatoria assim ementado (fl. 321):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. INAPLICABILIDADE DO ENTEDIMENTO FIRMADO PELA SUPREMA CORTE NO TEMA 962. AGRAVO INTERNO DESPROVIDO.
+1. É pacífica a orientação desta Corte Superior de Justiça quanto à incidência da contribuição ao PIS e da COFINS sobre os valores decorrentes da aplicação da taxa Selic (juros e correção) na repetição. Isso porque as bases de cálculo dessas exações são compostas pelo total das receitas auferidas pela pessoa jurídica, independentemente da denominação ou classificação contábil.
+2. A tese firmada pela Suprema Corte no Tema 962, quanto à inconstitucionalidade da incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário, não interfere no entendimento acima, pois a natureza de danos emergentes conferida aos juros moratórios afeta apenas o conceito de renda (base de cálculo do IRPJ) e não o de receita (base de cálculo do PIS e da COFINS).
+3. Precedentes: AgInt no REsp 1.921.174/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022; e AgInt no REsp n. 1.908.789/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 28/6/2022.
+4. Agravo interno a que se nega provimento.
+A parte embargante alega, em síntese, que diversos dispositivos legais não foram mencionados no acórdão, ensejando omissão, e requer manifestação sobre os dispositivos para fins de prequestionamento (fls. 331/335).
+Não foi apresentada impugnação de acordo com a certidão de fl. 344.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil (CPC), os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão, uma vez que a controvérsia foi examinada de forma satisfatória, mediante a apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. Os embargos de declaração não constituem instrumento adequado a rever entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), os embargos de declaração são cabíveis contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia pronunciar-se o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão recorrido decidiu a controvérsia de forma clara e explícita nos seguintes termos (fl. 324):
+A questão debatida nos autos encontra-se pacificada no STJ, havendo precedentes de ambas as turmas que compõem a Seção de Direito Público quanto à incidência da contribuição ao PIS e da COFINS sobre os valores decorrentes da aplicação da taxa Selic (juros e correção) na repetição. Isso porque as bases de cálculo dessas exações são compostas pelo total das receitas auferidas pela pessoa jurídica, independentemente da denominação ou classificação contábil.
+Como se vê, a decisão embargada não padece de vício algum ou de erro material. A controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese.
+A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir o caso em questão, mas não se prestam os embargos de declaração para o fim de reexaminar os aspectos jurídicos anteriormente debatidos. Pretende, também, prequestionar uma série de normas infralegais.
+Concluo não ser necessário complementar a fundamentação assentada pela decisão embargada ante a ausência de máculas na prestação jurisdicional, razão pela qual não vislumbro contrariedade ao art. 1.022 do CPC.
+A esse respeito o Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+1. Nos Embargos de Declaração, a parte recorrente defende, em síntese: "no caso concreto, a impugnação do Município foi precisa, não-genérica, combatendo o fundamento da decisão agravada de forma específica. Como se percebe às fls. 501-508, no tópico 3 do agravo em recurso especial, o ente público impugnou com clareza as razões por meio das quais as teses jurídicas veiculadas nos tópicos III-B e III-C do recurso especial deveriam ser apreciadas, revelando a pretérita demonstração dos dispositivos de lei federal violados. Por conseguinte, a Súmula 182 não pode impedir o conhecimento parcial dos recursos (especial e agravo) do Município" 2. No acórdão embargado, consignou-se: "no Recurso Especial, o recorrente insurgiu-se contra três capítulos do acórdão do Tribunal a quo: a) o que fixou o valor da indenização pela desapropriação; b) o que definiu o percentual dos juros compensatórios; e c) o que estabeleceu o percentual dos honorários advocatícios sucumbenciais. O Tribunal de Justiça negou seguimento ao recurso, ante o óbice da Súmula 284/STF, pois não houve indicação precisa dos dispositivos legais considerados violados. No Agravo contra a referida decisão, o recorrente procurou demonstrar a indicação da legislação afrontada apenas em relação aos dois últimos capítulos do decisum. Contudo, omitiu-se a respeito da ausência de indicação do dispositivo legal na impugnação ao primeiro capítulo do acórdão recorrido, isto é, aquele que definiu o valor da indenização pela desapropriação. E, de fato, verifica-se que nenhum artigo de lei foi citado ou mesmo referido no tópico "III - A" do Recurso Especial".
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados. (EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021 - sem destaques no original.)
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
