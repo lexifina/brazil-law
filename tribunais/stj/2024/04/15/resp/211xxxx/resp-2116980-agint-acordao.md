@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS. ISENÇÃO.
+1. "O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual, em prestígio ao princípio da simetria, a isenção da parte autora do pagamento de honorários advocatícios, prevista no art. 18 da Lei n. 7.347/1985, deve ser estendida à parte ré, revelando-se cabível a condenação apenas diante da comprovação de má-fé" (AgInt no REsp n. 2.049.000/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 5/3/2024).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SINDICATO DOS TRA DO SERVICO PUBLICO FED NO EST DA BA contra decisão monocrática, de minha relatoria, assim ementada:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS. ISENÇÃO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA E NÃO COMPUTADA EM DOBRO PARA FINS DE APOSENTADORIA. PRESCRIÇÃO. DATA INICIAL. APOSENTAÇÃO. PRECEDENTES DO STJ. RECURSO ESPECIAL DA UNIÃO PROVIDO. RECURSO ESPECIAL DO SINDICATO NÃO PROVIDO.
+No presente recurso, sustenta-se que,
+a Terceira Turma, no julgamento do REsp 1.974.436/RJ (DJe 25/03/2022), também se manifestou pela não aplicação do princípio da simetria às ações civis públicas ajuizadas por associação privada, a fim de afastar a condenação do réu ao pagamento das custas e honorários advocatícios.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS. ISENÇÃO.
+1. "O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual, em prestígio ao princípio da simetria, a isenção da parte autora do pagamento de honorários advocatícios, prevista no art. 18 da Lei n. 7.347/1985, deve ser estendida à parte ré, revelando-se cabível a condenação apenas diante da comprovação de má-fé" (AgInt no REsp n. 2.049.000/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 5/3/2024).
+2. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Este Superior Tribunal de Justiça entende que não há condenação em honorários advocatícios na Ação Civil Pública, salvo em caso de comprovada má-fé. Cito recente precedente:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM AÇÃO CIVIL PÚBLICA. SIMETRIA. NÃO CABIMENTO. AUSÊNCIA DE MÁ-FÉ. INTELIGÊNCIA DO ART. 18 DA LEI 7.347/1985. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem examinou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual, em prestígio ao princípio da simetria, a isenção da parte autora do pagamento de honorários advocatícios, prevista no art. 18 da Lei n. 7.347/1985, deve ser estendida à parte ré, revelando-se cabível a condenação apenas diante da comprovação de má-fé.
+IV - In casu, rever a conclusão do tribunal de origem, que afastou a comprovação de má-fé, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+V - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.049.000/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+No mesmo sentido:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. TEMPO DE SERVIÇO PRESTADO SOB A ÉGIDE DA CLT. CONTAGEM PARA TODOS OS EFEITOS. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO. TERMO A QUO. DATA DA APOSENTADORIA. RECURSO SUBMETIDO AO REGIME PREVISTO NO ARTIGO 543-C DO CPC.
+1. A discussão dos autos visa definir o termo a quo da prescrição do direito de pleitear indenização referente a licença-prêmio não gozada por servidor público federal, ex-celetista, alçado à condição de estatutário por força da implantação do Regime Jurídico Único.
+2. Inicialmente, registro que a jurisprudência desta Corte consolidou o entendimento de que o tempo de serviço público federal prestado sob o pálio do extinto regime celetista deve ser computado para todos os efeitos, inclusive para anuênios e licença-prêmio por assiduidade, nos termos dos arts. 67 e 100, da Lei n. 8.112/90.
+Precedentes: AgRg no Ag 1.276.352/RS, Rel. Min. Laurita Vaz, Quinta Turma, DJe 18/10/10; AgRg no REsp 916.888/SC, Sexta Turma, Rel. Min. Celso Limongi (Desembargador Convocado do TJ/SP), DJe de 3/8/09;
+REsp 939.474/RS, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 2/2/09; AgRg no REsp 957.097/SP, Quinta Turma, Rel. Min. Laurita Vaz, Quinta Turma, DJe de 29/9/08.
+3. Quanto ao termo inicial, a jurisprudência desta Corte é uníssona no sentido de que a contagem da prescrição quinquenal relativa à conversão em pecúnia de licença-prêmio não gozada e nem utilizada como lapso temporal para a aposentadoria, tem como termo a quo a data em que ocorreu a aposentadoria do servidor público. Precedentes: RMS 32.102/DF, Rel. Min. Castro Meira, Segunda Turma, DJe 8/9/10; AgRg no Ag 1.253.294/RJ, Rel. Min. Hamilton Carvalhido, Primeira Turma, DJe 4/6/10; AgRg no REsp 810.617/SP, Rel. Min. Og Fernandes, Sexta Turma, DJe 1/3/10; MS 12.291/DF, Rel. Min. Haroldo Rodrigues (Desembargador convocado do TJ/CE), Terceira Seção, DJe 13/11/09; AgRg no RMS 27.796/DF, Rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe 2/3/09; AgRg no Ag 734.153/PE, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, DJ 15/5/06.
+4. Considerando que somente com a aposentadoria do servidor tem inicio o prazo prescricional do seu direito de pleitear a indenização referente à licença-prêmio não gozada, não há que falar em ocorrência da prescrição quinquenal no caso em análise, uma vez que entre a aposentadoria, ocorrida em 6/11/02, e a propositura da presente ação em 29/6/07, não houve o decurso do lapso de cinco anos.
+5. Recurso afetado à Seção, por ser representativo de controvérsia, submetido a regime do artigo 543-C do CPC e da Resolução 8/STJ.
+6. Recurso especial não provido.
+(REsp n. 1.254.456/PE, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 25/4/2012, DJe de 2/5/2012.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISPOSITIVOS CONSTITUCIONAIS. SUPOSTA PRETERIÇÃO. DESCABIMENTO DA ANÁLISE EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA E NÃO CONTADA EM DOBRO COMO TEMPO DE SERVIÇO. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO. TERMO INICIAL. CONCESSÃO DA APOSENTADORIA. AÇÃO CIVIL PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO DO RÉU. IMPOSSIBILIDADE SE NÃO CONFIGURADA A MÁ-FÉ.
+1. É deficiente a assertiva genérica de violação do art. 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal local e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF.
+2. A análise da relevância de dispositivos da Constituição Federal, ditos omitidos, para o julgamento da causa demandaria o exame das questões constitucionais a eles pertinentes, o que não é admitido em recurso especial. Precedentes.
+3. Conforme orientação estabelecida pela Primeira Seção do Superior Tribunal de Justiça no julgamento do REsp 1.254.456/PE, examinado pela sistemática do art. 543-C do CPC/1973, " ..  a contagem da prescrição quinquenal relativa à conversão em pecúnia de licença-prêmio não gozada tem como termo a quo a data em que ocorreu a aposentadoria do servidor público  .. ".
+4. O julgamento proferido pela Corte Especial no MS 17.406/DF não contraria aquela posição. O fundamento de que o prazo tem início somente com o registro da aposentadoria no Tribunal de Contas, por tratar-se de ato complexo, não foi acompanhado pela maioria dos Ministros, como se extrai das notas taquigráficas. Prevaleceu outro argumento, também da relatoria, no sentido de que a contagem iniciou-se após o reconhecimento do direito à conversão na seara administrativa, que, na específica hipótese dos autos, somente ocorreu após a aposentação e a homologação pelo TCU. Tinha-se, portanto, caso absolutamente peculiar.
+5. No julgamento dos EAREsp 962.250/SP, a Corte Especial definiu que, em obediência ao princípio da simetria, a previsão do art. 18 da Lei n. 7.347/1985 deve ser interpretada também em favor do requerido na ação civil pública, mesmo quando ajuizada por ente público distinto do Parquet ou por sindicato.
+6. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(REsp n. 1.833.259/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/2/2020, DJe de 2/3/2020.)
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
