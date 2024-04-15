@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado (fls. 315-316):
+APELAÇÃO CÍVEL  ADICIONAL DE INSALUBRIDADE  VINCULO NÃO EXERCIDO ININTERRUPTAMENTE  PERÍCIA INDICANDO QUE A EXPOSIÇÃO A AGENTES QUÍMICOS E BIOLÓGICOS OCORREU APENAS DE FORMA EVENTUAL  INSALUBRIDADE NÃO CONFIGURADA  RECURSO CONHECIDO E IMPROVIDO.
+1. Demonstração de que a recorrente exerceu o cargo de enfermeira de 18/09/2001 a 31/12/2002, o qual foi renovado, de 01/01/2003 a 31/12/2003. A recorrente somente foi contratada novamente para o mesmo cargo, de enfermeira, em 30/06/2006, ou seja, mais de 03 (três) anos depois, com vinculo que durou apenas 01 (um) ano e 01 (um) mês, com término em 25/07/2007. Após, a autora foi contratada novamente, em 12/01/2009, porém, para a função de diretora do departamento de vigilância em saúde, tendo sido demitida em 28/02/2011.
+2. Dentro do lapso temporal reconhecido como não prescrito pela decisão de fls. 77/18, a apelante apenas exerceu a função de enfermeira no período compreendido entre 10/06/2006 e 25/07/2007.
+3. Embora a legislação preveja a possibilidade de pagamento do referido adicional, há a necessidade de verificar se o trabalho é exercido com habitualidade em local insalubre, o que impõe a elaboração de laudo pericial que permita avaliar a existência e, em caso positivo, o grau da referida insalubridade.
+4. No caso concreto há prevalência das conclusões apuradas na perícia judicial, em detrimento da generalidade daquelas constantes no parecer administrativo, tendo em vista que àquelas denotam a realidade fática da parte autora.
+5. Ainda que o parecer administrativo tenha consignado a exposição da servidora a agentes químicos e biológicos, reconhecendo a existência de insalubridade em grau médio, a perícia judicial é conclusiva no sentido de que o trabalho não era exercido de forma habitual, conforme informações prestadas pela própria requerente.
+6. Desta forma, evidenciado pela perícia técnica judicial que a servidora não laborava em condições insalubres, em caráter habitual e permanente, como rege a legislação municipal, a concessão do adicional de insalubridade afrontaria o principio da legalidade da administração pública, razão pela qual, concessa maxima venia, compreendo que deve ser mantida a sentença de primeiro grau.
+7. Recurso conhecido e improvido.
+Os Embargos de Declaração foram rejeitados (fl. 367, e-STJ).
+Sustenta a parte agravante, em Recurso Especial, violação dos arts. 371 e 487 do CPC.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade negativo (fls. 406-410, e-STJ), o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 432-443, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 22.3.2024.
+Esta Corte perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão de inadmissibilidade, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe 30.11.2018. Nessa linha de raciocínio:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. EXECUÇÃO. ERRO DE CÁLCULO E ERRO DE DIREITO. COISA JULGADA. CRITÉRIOS UTILIZADOS NA LIQUIDAÇÃO DA SENTENÇA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. SÚMULA Nº 83/STJ. SÚMULA Nº 283/STF. AGRAVO IMPROVIDO.
+(..)
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC).
+3. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que reconheceu a preclusão decorrente da coisa julgada, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ. (..)
+6. A ausência de impugnação dos fundamentos do acórdão recorrido, mormente quanto à juntada de substabelecimento pela advogada, conferindo-lhe poderes, e à procrastinação do feito, suficiente para a aplicação da multa, enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+7. Agravo regimental não conhecido. (AgRg no AREsp 16.627/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 11/9/2012).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL. HORAS EXTRAS. DIFERENÇAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. A análise da controvérsia esbarra no óbice da Súmula 7/STJ, pois o Tribunal de origem, com base na análise de fatos e provas dos autos, concluiu pela inexistência de comprovação de horas extras trabalhadas.
+2. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 925.488/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/06/2017, DJe 14/06/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+(..) 3. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à agravante, na petição do seu Agravo Interno, impugnar especificamente os fundamentos da decisão agravada. Era indispensável que a agravante, analiticamente, contrastasse todas as conclusões da decisão combatida, especificamente.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ.
+5. No mesmo sentido: AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgRg no AREsp 807.252/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/10/2017, DJe 23/10/2017; AgInt no AREsp 1.003.118/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2017, DJe 24/10/2017; AgInt no PUIL 318/MS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2017, DJe 18/10/2017; AgInt no AREsp 973.101/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017; AgInt no REsp 1.685.023/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2017, DJe 16/10/2017; AgInt no AREsp 1.077.966/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+6. Agravo Interno não conhecido. (AgInt na Pet 10.274/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 22/11/2017, DJe 19/12/2017)
+No caso, o Tribunal de origem consignou o seguinte (fl. 408, e-STJ):
+Note-se que o acórdão assentou que ficou "evidenciado pela perícia técnica judicial que a servidora não laborava em condições insalubres, em caráter habitual e permanente, como rege a legislação municipal".
+Nesse contexto, ao que se depreende, o recurso não comporta admissão, pois o exame das proposições da recorrente sobre a "devida análise das circunstâncias do caso concreto" implica, obrigatoriamente, revolvimento do conjunto fático-probatório, o que é inviável na presente via, tendo em vista o óbice da Súmula 7, do Superior Tribunal de Justiça.
+Observa-se das razões do Agravo que a parte não impugnou especificamente a aplicação do entendimento da Súmula 7/STJ, pois apresentou argumentos genéricos em sentido contrário à decisão agravada.
+In casu, exige-se argumentar sobre como seria possível contrariar as conclusões do acórdão recorrido acerca da ausência de habitualidade do labor em condições insalubres sem que fosse necessário recorrer ao reexame das provas produzidas.
+Os fatos são aqui recebidos como estabelecidos pela Corte a quo, senhora da análise probatória. Se o exame da violação do dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o Apelo. Logo, a pretensão recursal não merece conhecimento ante a incidência, por analogia, da Súmula 182/STJ.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
