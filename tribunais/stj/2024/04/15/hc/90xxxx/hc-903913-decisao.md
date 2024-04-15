@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado:
+RECURSO EM SENTIDO ESTRITO - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - POSSIBILIDADE - GRAVIDADE CONCRETA DO CRIME - RISCO DE REITERAÇÃO DELITIVA - RISCO À ORDEM PÚBLICA - CUSTÓDIA CAUTELAR JUSTIFICADA - INSUFICIÊNCIA DAS MEDIDAS DIVERSAS DA PRISÃO.
+- Diante da gravidade concreta do delito, além de que o recorrido foi beneficiado recentemente com a liberdade provisória, a prisão preventiva se faz necessária para acautelar a ordem pública, em razão do risco de reiteração delitiva.
+- Preenchida a hipótese prevista pelo art. 313, I do CPP, visto que o cometimento do crime, em tese, faz com que a pena abstrata prevista para o tráfico ultrapasse o patamar de 04 (quatro) anos.
+- A concessão de liberdade provisória há menos de 06 (seis) meses indica que medidas cautelares diversas não são suficientes para acautelar a ordem pública.
+A defesa alega, em síntese, que "razão não socorre a decisão que hoje coloca em risco a liberdade do Paciente, primeiro porque o magistrado de 1º grau, quem efetivamente está na Comarca, sabe do grau de periculosidade ou não da cidade que representa, e se entende que se o Paciente, por ora, não está apto à prisão, não seria adequado que o Tribunal simplesmente a decrete. Ademais, embora solto, a audiência que estava designada para 09 de outubro de 2023 foi cancelada, não tendo sido outra designada" (e-STJ fl. 5).
+Ao final, requer a concessão da ordem para restituir a liberdade do paciente, com ou sem a imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Do voto condutor do acórdão atacado extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+No caso, verifica-se que o recorrido foi apreendido na posse de drogas, arma, munições e balança de precisão comumente utilizada no tráfico de drogas.
+Desse modo, a grande quantidade de drogas, arma e munições apreendidas e encontradas na posse de Emerson, denota a gravidade concreta do delito.
+Conjugado a este fato, em consulta ao PJ-e TJMG, constata-se que no dia 11/02/2023, autos n.5000698-59.2023.8.13.0362, o recorrido teria sido preso em flagrante em razão do suposto crime previsto no art. 33, da Lei 11.343/06. Nota-se que a prisão ocorreu no mesmo endereço e em condições semelhantes à prisão em flagrante destes autos.
+Logo, diante da gravidade concreta do delito e da constatação de que o recorrido foi beneficiado com a liberdade provisória em condições semelhantes às da prisão a que se refere este recurso, existem indícios concretos de que ele possa voltar a delinquir, tornando necessária a sua prisão preventiva a fim de resguardar a ordem pública.
+Salienta-se que o caso em voga se amolda à hipótese prevista pelo art. 313, I do CPP, uma vez que a pena abstrata prevista para o tráfico ultrapassa o patamar de 04 (quatro) anos.
+Necessário apontar que se mostra insuficiente a fixação de medidas cautelares diversas da prisão, visto que o recorrido já foi beneficiado com a liberdade provisória recentemente e voltou a ser preso pelo cometimento, em tese, do delito previsto pelo mesmo tipo penal.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu pela insuficiência das medidas cautelares diversas da prisão, sobretudo em razão da gravidade concreta do ilícito, que contou com a apreensão de quantidade e variedade não desprezível de entorpecentes (03 porções de maconha, pesando 38,18g; 02 porções grandes de cocaína, pesando 224,71g; 01 pedra de crack, pesando 24,88g; 02 pedras pequenas de crack, pesando 0,60g), uma arma, dezessete munições e uma balança de precisão, além do fato de o paciente já ter sido beneficiado com a soltura e, pouco tempo depois, ter voltado a ser preso em flagrante pela suposta prática do mesmo ilícito penal.
+Destaca-se, a inda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
