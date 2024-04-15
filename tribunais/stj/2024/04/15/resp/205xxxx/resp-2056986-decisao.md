@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SÃO PAULO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO. Hipótese em que a Fazenda Pública é a Autora e o particular é o Réu, devendo ser aplicado o prazo prescricional da lei civil, inclusive por ausência de regramento específico. Inaplicabilidade do artigo 1º, do Decreto nº 20.910/32. Prescrição. Ocorrência. A Pretensão reparatória por responsabilidade civil por acidente de trânsito prescreve em três anos, nos termos do inciso V, do § 3º do artigo 206 do Código Civil. Sentença reformada. RECURSO DO RÉU CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PROVIDO.
+Na origem, trata-se de ação de indenização por danos materiais ajuizada pela fazenda pública em decorrência de acidente de trânsito (colisão) causado pelo réu, ora recorrido, que tentava se evadir de abordagem policial.
+Noto, portanto, que a insurgência recursal envolve questão jurídica regida pelas normas do direito privado, estando inserida entre aquelas de competência da Segunda Seção desta Corte Superior, nos termos do art. 9º, caput, § 2º, III e XIV, do Regimento Interno do Superior Tribunal de Justiça, sendo esse o critério que define a distribuição interna de competência no âmbito deste Tribunal.
+Diante do exposto, declino da competência para a apreciação do recurso e determino a devolução dos autos à Secretaria Judiciária para a redistribuição do feito a uma das turmas que compõem a Segunda Seção, nos termos do art. 9º, caput, § 2º, III e XIV, do Regimento Interno desta Corte.
+Publique-se. Intimações necessárias.
+EMENTA
