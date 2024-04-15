@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. REGIME PRISIONAL INICIALMENTE FECHADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Ante a presença de diversas circunstâncias judicias negativas, o que resultou na fixação da pena-base acima do mínimo legal e de uma pena final superior a 4 anos de reclusão, deve ser mantido o regime prisional inicialmente fechado, nos termos do art. 33, §§ 2º e 3º, e 59 do Código Penal, bem como do art. 42 da Lei n. 11.343/2006. Precedentes.
+2. Na mesma esteira, fica vedada a substituição da pena privativa de liberdade por restritiva de direitos, ante a ausência do requisito objetivo previsto no art. 44 do Código Penal.
+3. Agravo regimental a que nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por HUGO MAXUEL MUNHOZ contra decisão de minha lavra, pela qual não conheci da impetração.
+Depreende-se dos autos que o juiz singular condenou o ora paciente, pela prática do delito previsto no art. 35 c/c art. 40, V, ambos da Lei n. 11.343/2006, às penas de 7 anos e 6 meses de reclusão, a ser cumprida em regime prisional inicial fechado, e 1.263 dias-multa.
+Irresignada, a defesa interpôs apelação criminal, na Corte de origem, que negou provimento ao recurso.
+No mandamus, o impetrante argumenta que o paciente sofre constrangimento ilegal, em razão da fração adotada para o cumprimento de pena, necessária à progressão de regime. Aponta que deve ser afastado o caráter hediondo do delito de associação para o tráfico, bem como deve ser aplicada a detração do tempo de prisão provisória.
+Insurge-se, ainda, contra a dosimetria da pena, asseverando que a pena-base foi exasperada por fundamentação inidônea.
+Aponta, ao final, que o paciente faz jus à fixação de regime prisional inicialmente mais brando, nos termos do entendimento previsto nos enunciados 718 e 71 da Súmula do STF, bem como à substituição da pena privativa de liberdade por restritiva de direitos.
+Ao final, requer, liminarmente, a fixação de regime prisional inicialmente semiaberto e, no mérito, seja a ordem concedida de ofício, reformando-se o acórdão atacado diante das ilegalidades acima aduzidas (e-STJ fl. 26).
+Ausente qualquer ilegalidade flagrante, com fundamento no art. 34, inciso XX, do RISTJ, não conheci do habeas corpus.
+No presente agravo regimental, a defesa reitera as razões apresentadas na inicial quanto à possibilidade de fixação de regime prisional inicialmente mais brando, asseverando que a condenação definitiva ocorreu no ano de 2018 e a prisão apenas foi concretizada no ano de 2024, e durante todo o período no qual permaneceu em liberdade, Hugo jamais voltou a delinqüir, o que demonstra que a fixação do regime prisional mais gravoso é desproporcional ao caso. Adiciona a defesa que não existe a necessidade de segregação de uma pessoa, que, apesar de ter integrado associação criminosa, no transcorrer de aproximados 15 anos não tenha voltado a delinqüir, a função ressocializadora e a reparadora, corolários da dignidade da pessoa, foram perfeita atingidas com o transcurso da lide criminal e suas conseqüências (e-STJ fl. 236/237).
+Ao final, requer o provimento do agravo regimental, para que seja aplicado regime prisional inicialmente mais brando.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. REGIME PRISIONAL INICIALMENTE FECHADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Ante a presença de diversas circunstâncias judicias negativas, o que resultou na fixação da pena-base acima do mínimo legal e de uma pena final superior a 4 anos de reclusão, deve ser mantido o regime prisional inicialmente fechado, nos termos do art. 33, §§ 2º e 3º, e 59 do Código Penal, bem como do art. 42 da Lei n. 11.343/2006. Precedentes.
+2. Na mesma esteira, fica vedada a substituição da pena privativa de liberdade por restritiva de direitos, ante a ausência do requisito objetivo previsto no art. 44 do Código Penal.
+3. Agravo regimental a que nega provimento.
+VOTO
+Não obstante os argumentos apresentados, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos, especialmente se considerado que, neste regimental, a defesa se insurge apenas contra a manutenção do regime prisional inicialmente mais gravoso.
+No que tange à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Na hipótese, a pena-base do paciente foi exasperada em considerando a valoração negativa da culpabilidade do agente, das circunstâncias do crime e da quantidade e natureza da droga apreendida.
+A conduta do paciente foi considerada particularmente reprovável por ser ele o responsável - na divisão de tarefas da associação criminosa - pela função de "batedor" de pista, ajudando também nos serviços gerais da empreitada criminosa (e-STJ fl. 193). Destacou-se, com remissão a elementos concretos dos autos, como a função exercida pelo paciente era essencial no desenvolvimento das atividades do grupo criminoso, o que autoriza a elevação da reprimenda.
+No desfavorecimento das circunstâncias do crime, as instâncias ordinárias anotaram que a associação criminosa integrada pelo paciente fazia uso de caminhões frigoríficos com paredes falsas para o transporte da droga, o que dificultava sobremaneira a atividade fiscalizatória da polícia. Como registrado na origem, o emprego de veículo especialmente preparado para o transporte de droga revela maior engenhosidade do modus operandi empregado e legitima a elevação da reprimenda.
+Quanto ao vetor da quantidade e da natureza do material entorpecente, a Corte local registrou que foram apreendidas quase cinco toneladas de maconha pertencente à associação criminosa integrada pelo paciente, o que também motivou adequadamente o incremento punitivo.
+Assim, ante a presença de diversas circunstâncias judicias negativas, inclusive no que se refere à grande quantidade de drogas apreendidas, o que resultou na fixação da pena-base acima do mínimo legal e de uma pena final superior a 4 anos de reclusão, deve ser mantido o fechado, nos termos do art. 33, §§ 2º e 3º, e 59 do Código Penal, bem como 42 da Lei n. 11.343/2006.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. MAUS ANTECEDENTES. REGIME FECHADO. PENA SUPERIOR A 4 ANOS DE RECLUSÃO E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como é cediço, a dosimetria da pena insere-se em um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Em se tratando de crime de tráfico de drogas, como ocorre in casu, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n.º 11.343/2006.
+3. No caso dos autos, ao contrário do que foi alegado pela defesa, a quantidade de drogas não foi utilizado como fundamento para aumentar a pena, apenas os maus antecedentes da paciente.
+4. Não há se falar em alteração do regime fechado. Isso porque a pena é superior a 4 anos de reclusão e as circunstâncias não são totalmente favoráveis, tanto que a pena-base foi fixada acima do mínimo legal. Dessa forma, nos termos do art. 33, § § 2º e 3º, do Código Penal, o regime fechado se mostra mais adequado.
+5. Agravo regimental não provido.
+(AgRg no HC n. 860.321/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME FECHADO. QUANTIDADE, VARIEDADE E NATUREZA DAS SUBSTÂNCIAS ENTORPECENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias negaram a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em face da quantidade da droga apreendida e das circunstâncias apuradas na instrução processual evidenciarem a dedicação do réu em atividades criminosas. Esse entendimento está em conformidade com a jurisprudência pacífica desta Corte e a sua reforma constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente exame de fatos e provas, inviável no rito eleito. Precedentes.
+2. A quantidade, variedade e natureza da droga apreendida constituem elementos idôneos no agravamento do regime prisional, nos termos do art. 42 da Lei n. 11.343/06.
+ ..
+4. Agravo regimental desprovido. (AgRg no HC 594.149/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 8/9/2020)
+ ..  REGIME INICIAL DE CUMPRIMENTO DA PENA. GRAVIDADE CONCRETA DO CRIME. QUANTIDADE E DIVERSIDADE DE ENTORPECENTE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MODO MAIS SEVERO JUSTIFICADO. AGRAVO DESPROVIDO.
+1. A teor da jurisprudência reiterada deste Sodalício, nos delitos previstos na Lei de Drogas, a escolha do regime inicial deve considerar, além dos requisitos previstos no art. 33, § 2º, do CP, as diretrizes do art. 42 da Lei n. 11.343/06, que prevê a preponderância da quantidade, nocividade e variedade do entorpecente apreendido na fixação da sanção.
+2. Na espécie, fixada a pena em patamar superior a 4 anos e inferior a 8 anos de reclusão, a imposição do modo prisional fechado se justifica pela gravidade concreta do crime, evidenciada a partir da quantidade e diversidade de drogas apreendidas, que, inclusive, ensejaram a fixação da sanção inicial acima do mínimo legal. Precedentes.
+3. Agravo desprovido. (AgRg no HC 547.291/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 16/3/2020)
+Mantida a pena privativa de liberdade do paciente em patamar que excede 4 anos de reclusão, fica inviável a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44 do Código Penal.
+Portanto, na espécie, as pretensões formuladas na presente impetração encontram óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se manifestamente improcedentes.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
