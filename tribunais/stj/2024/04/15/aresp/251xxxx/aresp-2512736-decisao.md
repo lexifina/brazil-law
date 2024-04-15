@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por D E S F contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - ERRO MÉDICO - RESPONSABILIDADE CIVIL OBJETIVA - NÃO DEMONSTRADO - AUSÊNCIA DE NEXO CAUSAL ENTRE A SUPOSTA AÇÃO ESTATAL E O EVENTO DANOSO - DEVER DE INDENIZAR AUSENTE - SENTENÇA MANTIDA.
+No caso em tela, tem-se que o conjunto probatório dos autos não demonstra, de forma suficiente, que as condutas e decisões dos agentes públicos sobre o trabalho de parte e o próprio parto são responsáveis pelos danos alegados pelo apelante, porquanto não comprovado o nexo causal entre este e a conduta dos referidos agentes públicos.
+Com efeito, não restou comprovado que as sequelas que o paciente apresenta ocorreram em decorrência de falha médica (fl. 425).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186, 927 e 944 do CC, sustentando a responsabilidade civil do ente público diante do dano causado ao autor em razão de erro médico, haja vista a demonstração, nos autos, do nexo de causalidade entre a conduta praticada pelo agente público e o dano sofrido, devendo o ente municipal ser condenado à reparação dos danos causados ao autor. Aduz a seguinte argumentação:
+No caso dos autos, percebam os eminentes Ministros desta Corte cidadã, com a expertise inquestionável que possuem, que no caso dos autos resta incontroversa a conduta do ente municipal, qual seja, o procedimento médico para realização do parto em que o autor foi trazido à luz, bem como os danos que este sofreu nesse contexto.
+A dúvida indevidamente suscitada pelos julgadores se dá quanto ao nexo de causalidade, pois tanto o julgador de primeira instância quanto o egrégio regional mineiro entenderam não configurado.
+No entanto, não é o que se confirma dos autos!
+O nexo causal, como se sabe, é a necessária relação de causa e efeito entre a conduta praticada pelo agente e o dano causado. Se esse nexo não existir, ou for rompido por algum fator, estará, por consequência, afastada a responsabilidade do Estado.
+Nesse contexto, restou confirmado nas entrelinhas dos trabalhos periciais elaborados, que não se pode negar a ocorrência de nexo causal entre o procedimento médico e os danos causados à saúde do recorrente.
+ ..
+Logo, não restando nenhum elemento capaz de afastar a responsabilidade civil discutida (caso fortuito, força maior ou ato exclusivo de terceiros), forçoso concluir que, diferentemente do que restou decidido até então, o nexo causal entre conduta e dano resta claramente configurado, resultando em imperativa condenação do ente municipal à reparação dos danos que foram causados (fls. 449- 451).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em tela, tem-se que o conjunto probatório dos autos não demonstra, de forma suficiente, que as condutas e decisões dos agentes públicos sobre o trabalho de parte e do próprio parto são responsáveis pelos danos alegados pelo apelante, porquanto não comprovado o nexo causal entre este e a conduta dos agentes públicos.
+Com efeito, não restou comprovado que as sequelas que a parte autora apresenta ocorreram em decorrência de suposta falha médica.
+Na hipótese dos autos, analisando-se o laudo pericial produzidos nos autos, em especial, as respostas aos quesitos formulados pelas partes, conclui-se que não se pode afirmar que houve, de fato, ocorrência de erro médico durante o trabalho de parto e o parto, propriamente dito.
+ ..
+Por todo o exposto, conclui-se que os autos não trazem dados concretos e completos a convencer da existência de algum ato ilícito, moldado em ação ou omissão dos profissionais que atenderam o paciente, com os requisitos que levem à responsabilidade civil indenizatória (fl. 430- 432, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
