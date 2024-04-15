@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado:
+DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO. SENTENÇA DE IMPROCEDÊNCIA ADIANTAMENTO A DEPOSITANTES. INCIDÊNCIA DO ISS. POSSIBILIDADE. ENUNCIADO DE Nº 424 DA SÚMULA DO STJ. LISTA ANEXA A LEI COMPLEMENTAR DE Nº 116/2003. TAXATIVIDADE. INTERPRETAÇÃO EXTENSIVA AOS SERVIÇOS CONGÊNERES. PRECEDENTES FIRMADOS EM SEDE DE JULGAMENTO NO REPETITIVO RESP 1111234/PR PELO STJ E EM SEDE DE REPERCUSSÃO GERAL NO RE 784439. ENQUADRAMENTO NO ITEM 15.08 DA LISTA ANEXA À LEI COMPLEMENTAR N. 116/03. MULTA FIXADA. CARÁTER CONFISCATÓRIO. INEXISTENTE. APLICAÇÃO ATÉ O LIMITE DE 100% (CEM POR CENTO) DO VALOR DO TRIBUTO DEVIDO. PRECEDENTE DO STF E DESTE TRIBUNAL. SENTENÇA MANTIDA. APELO NÃO PROVIDO.
+Os Embargos de Declaração foram rejeitados (fl. 2.480, e-STJ).
+Em seu Recurso Especial, o agravante aponta violação, em preliminar, dos arts. 489 e 1.022 do CPC e, no mérito, dos arts. 479, 489, § 1º, II a V, e 1.022, II, do CPC/2015; 110 do CTN; 1º da LC 116/2003; e 85, § 3º, do CPC. Sustenta:
+(..)
+Outrossim, foi omisso e não apresentou qualquer fundamento para refutar a tese de que a tarifa somente seria cobrada em razão da concessão de empréstimo.
+Manteve-se omisso quanto à questão referente ao levantamento de informações e análise de crédito que foi realizado pela própria instituição financeira que concedeu o empréstimo, não havendo distinção entre tomador e prestador de serviços, no caso.
+Além das questões referentes ao Adiantamento à Depositantes, restou omisso quanto ao limite da verba honorária, se recusou a verificar que os honorários de 15% fixados nos autos dos Embargos à Execução, ao se cumularem com os honorários da Execução Fiscal, irão ultrapassar o limite legal previsto no art. 85, §3º.
+Assim, não se verifica o enfrentamento pela E. Corte regional quanto à necessária e obrigatória análise da atividade tributada. O acórdão deixou de observar o fato gerador do ISS, o conceito de serviço, e a impossibilidade de tributação de atividades-meio. Deixou de observar, ainda, o limite legal para a fixação da verba honorária.
+Nesses pontos é que se revelam a preliminar de ofensa aos artigos 489, §1º, II, III, IV e V e 1.022, II, do Código de Processo Civil, uma vez que a matéria constou não apenas nos Embargos de Declaração, mas em todo o feito.
+Dessa forma, a desconsideração dos fundamentos adotados pelo Recorrente é suficiente para amparar o direito deduzido, traduzindo omissões justificadoras dos declaratórios, que não podem ficar ao desabrigo de atendimento, sob pena de ofensa grave aos preceitos informadores do devido processo legal, tutelados pelo Código, o que acarreta a nulidade do v. acordão recorrido.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de março de 2024.
+Preliminarmente, constata-se que não se configura a contrariedade aos arts. 489 e 1.022 do Código de Processo Civil. O Colegiado originário examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando os pontos relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca modificar o julgado ao asseverar que o Tribunal a quo não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem embasado, sem quaisquer dos vícios previstos no aludido dispositivo legal.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos Declaratórios, que servem ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados na origem, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito da oposição de Embargos Declaratórios, por não ter havido prequestionamento. Ante a ausência desse requisito indispensável, incide na espécie a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência desse requisito se não houver a emissão de juízo de valor sobre o tema.
+No mérito, quanto à possibilidade de se utilizar interpretação extensiva dos serviços bancários constantes da Lista Anexa à Lei Complementar 116/2003 e, para os fatos jurídicos que lhe são pretéritos, da Lista Anexa ao Decreto-lei 406/1968, imperioso pontuar que o Superior Tribunal de Justiça, no julgamento do REsp 1.111.234/PR sob a sistemática prevista no art. 543-C do CPC/1973 (vigente à época), afetado ao Tema 132, fixou a seguinte tese:
+TEMA 132, do STJ: É legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL n. 406/1968 e à LC n. 56/1987.
+Nota-se que a causa foi decidida com base no suporte fático-probatório dos autos, cujo revolvimento é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova, e o Recurso Especial não merece trânsito.
+Por fim, destaco que a apreciação da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada na análise do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1472530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/10/2014, DJe 31/10/2014).
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à afronta ao art. 1.022 do CPC e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
