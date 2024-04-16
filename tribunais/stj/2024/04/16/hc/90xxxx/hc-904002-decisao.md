@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  de  liminar,  impetrado em favor de ALTAIR CANTIZANO DE SANTANA  contra  acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo de Execução Penal nº 0000257-44.2023.8.26.0026.
+Depreende-se dos autos que o juízo da execução indeferiu o pedido de remição por estudos ao paciente, em decisão mantida pelo Tribunal estadual no julgamento do agravo de execução penal.
+Nesta via, a defesa aponta que o apenado faz jus à remição, uma vez que está comprovada a realização de curso profissionalizante, não sendo necessária a intermediação da autoridade penal para a obtenção da certificação.
+Requer liminarmente e no mérito, a concessão da remição.
+É  o  relatório.  DECIDO.
+Compulsando os autos, verifica-se que o objeto do presente writ caracteriza reiteração de pedido já apreciado no julgamento do HC 820.169, também impetrado em favor do ora paciente para questionamento do mesmo acórdão proferido no Agravo de Execução Penal nº 0000257-44.2023.8.26.0026, oportunidade em que foi denegado o habeas corpus. Destaquem-se os seguintes fundamentos daquele julgado :
+O art. 126, § 2º, da Lei de Execução Penal dispõe, ainda, sobre a necessidade de certificação pelas autoridades educacionais competentes dos cursos frequentados, por meio de documento idôneo, que cumpra os requisitos da Resolução 391 de 10/5/2021 do Conselho Nacional de Justiça.
+Na hipótese em análise, observa-se que o indeferimento da remição se deu por não comprovação dos critérios estabelecidos na legislação, tendo o Juízo da Vara das Execuções pontuado que, "o certificado pelo qual o sentenciado embasa seu pedido não possui certificação por Autoridades Educacionais, conforme exigido em lei, possuindo apenas certificação pelo próprio Diretor da Instituição" (fl. 46), assim como o Tribunal, ao confirmar o indeferimento, afirmou que os "certificados juntados não comprovam que a carga horária tenha sido cumprida pelo reeducando ou mesmo dividida da forma prevista na legislação, apenas vinculando uma estimativa de total de horas necessárias para o cumprimento de cada matéria do curso" (fl. 53).
+Como restou consignado pelas instâncias ordinárias, não há comprovação de que a instituição em que o curso foi realizado seria credenciada em rede educacional, porquanto não possui a certificação exigida no § 2º, do art. 126, da Lei de Execução Penal, assim como não comprova que a carga horária teria sido cumprida, não atendendo os requisitos legais e regulamentadores, conforme entendimento desta Corte de Justiça de que "a remição de pena pelo estudo somente é possível quando devidamente acompanhados de dados a respeito de carga diária de estudos, frequência escolar e métodos de avaliação empregados, além de haver habilitação da instituição para ministrar os cursos, nos termos do art. 126, § § 1.º e 2.º, da Lei de Execução Penal." (AgRg no HC n. 760.661/SP, Sexta Turma, Rel. Min. Laurita Vaz, julgado em 23/8/2022, DJe de 31/8/2022).
+Também nesse sentido:
+(..)
+Nesse compasso, a reforma das premissas estabelecidas pelas instâncias ordinárias, a fim de demonstrar o cumprimento dos requisitos legais necessários à concessão do benefício ao paciente, demandaria a análise do conjunto fático-probatório dos autos da execução, providência inviável, como amplamente consabido, na via estreita do habeas corpus, consoante pacífico entendimento desta Corte de justiça, em especial nos AgRg no HC n. 753.753/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), julgado em 14/2/2023, DJe de 17/2/2023; AgRg no REsp n. 1.962.704/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, julgado em 19/4/2022, DJe de 25/4/2022.
+Assim, estando as decisões em consonância com a legislação e jurisprudência desta Corte, não se verifica, portanto, qualquer ilegalidade passível de ser sanada pela via mandamental do habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
+Assim, a presente impetração evidencia o propósito de dupla apreciação por este Superior Tribunal de Justiça, dado que indica o não cabimento da insurgência em exame.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. ALEGAÇÕES DE DEFICIÊNCIA DE FUNDAMENTAÇÃO E AUSÊNCIA DE CONTEMPORANEIDADE. ANTERIOR IMPETRAÇÃO DO HC N. 795.657/SP. IDENTIDADE DE PARTES E CAUSA DE PEDIR. REITERAÇÃO DE PEDIDOS. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+(AgRg no HC n. 825.694/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 18/8/2023.)
+Nesse diapasão, tem incidência o art. 210 do RISTJ dispõe que: "quando o pedido for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente".
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
