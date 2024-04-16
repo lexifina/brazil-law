@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por DIRCE DOS SANTOS VIANA com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pela Quinta Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul (e-STJ, fl. 419):
+APELAÇÃO CÍVEL DA PARTE AUTORA - AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO/AUSÊNCIA DE EFETIVO PROVEITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - MANUTENÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ - ALTERAÇÃO DA VERDADE DOS FATOS - RELAÇÃO JURÍDICA ENTRE AS PARTES COMPROVADA - RECURSO CONHECIDO E IMPROVIDO.
+Tendo a parte autora alterado a verdade dos fatos, utilizando-se do processo para conseguir objetivo ilegal, consistente no seu enriquecimento ilícito, há de ser mantida a aplicação da pena por litigância de má-fé e no montante fixado na sentença recorrida.
+Não foram opostos os embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 426-438), a recorrente aponta violação aos arts. 79 e 80 do CPC/2015.
+Argumentou que não litiga de má-fé quem se utiliza do processo para ver reconhecido em juízo uma pretensão que acredita ser seu direito, mas sim aquele que busca auferir vantagem, alterando a verdade dos fatos com intenção dolosa.
+Alegou que não há que se falar em má-fé na hipótese dos autos, dada a ausência de comprovação de que a recorrente tenha alterado a verdade dos fatos, com intuito de induzir o juízo em erro, e causar prejuízo à recorrida.
+Não foram apresentadas as contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte de origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 465-472).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial, o qual não merece ser conhecido.
+De início, quanto à multa por litigância de má-fé, o Tribunal estadual assim fundamentou a decisão (e-STJ, fls. 421-423):
+Pois bem.
+No presente caso, a apelante busca a exclusão da multa por litigância de má-fé aplicada na sentença, contudo, tenho que razão não lhe assiste.
+Isso porque como bem salientado pelo magistrado a quo, há evidências de ter a apelante alterado a verdade dos fatos, utilizando-se do processo para conseguir objetivo ilegal, consistente no seu enriquecimento ilícito, porquanto restou demonstrada que a relação jurídica se efetivou entre as partes, inclusive, com a ciência da autora, que consolidou o contrato objeto dos autos (fls.108/116), além de se beneficiar dos valores contratados (fls.365/371).
+ ..
+Desse modo, ao contrário do alegado na inicial, é evidente que a parte autora se beneficiou do contrato de empréstimo consignado, livremente pactuado, não havendo qualquer indício de inexistência de relação jurídica.
+Demonstra-se, em verdade, a conduta maliciosa da apelante, ao propor a presente demanda, em evidente tentativa de locupletamento ilícito, sob a alegação inverídica de desconhecimento da procedência dos descontos realizados em seu benefício previdenciário, já que, quando dos documentos carreados aos autos, foi possível inferir que, possuía ciência inequívoca do contrato em questão, o qual originou a referida cobrança, e ainda, que se beneficiou dos valores advindos da referida contratação.
+ ..
+Dito isso, ante as peculiaridades da demanda e a alegação inverídica da parte autora, importa em alteração da verdade dos fatos e enseja a condenação das penas por litigância de má-fé, razão pela qual não merece ser afastada a condenação que lhe fora imposta na origem.
+Assim, reverter a conclusão da Corte local para acolher a pretensão recursal, quanto à inexistência de litigância de má-fé, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado devido à natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido (sem destaque no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. LITISPENDÊNCIA. REQUISITOS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO. INEXISTÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A configuração da litispendência reclama a constatação de identidade das partes, da causa de pedir e do pedido ("tríplice identidade") das ações em curso (artigo 301, § 1º, do CPC.2.
+A constatação acerca da existência ou não de litispendência, no caso, exige minuciosa análise de seus elementos configuradores - identidade de partes, da causa de pedir e do pedido -, esbarrando a pretensão recursal no óbice da Súmula 7 do STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em Lei não significa litigância de má-fé" (AGRG no RESP 995.539/SE, Terceira Turma, Relatora Ministra Nancy Andrighi, DJe de 12.12.2008).
+4. O Tribunal, contudo, entendeu que houve má-fé da parte, aplicável a hipótese do art. 80, II, do Código de Processo Civil, já que houve alteração da verdade dos fatos por parte da ora agravante ("Considera-se litigante de má-fé aquele que: (..) II - alterar a verdade dos fatos").
+5. Imiscuir-se na análise se houve ou não dolo processual - sob intento de modificar a conclusão do Tribunal de origem quanto à temática e à análise da eventual alteração dos fatos por parte da agravante - ensejaria reexame de matéria fático-probatória, vedado em sede de recurso especial, em decorrência da Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.271.147/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15.
+fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. "Nos termos da jurisprudência desta Corte, o prazo prescricional para a cobrança dos valores referentes aos aluguéis e aos débitos acessórios ao contrato de locação é o trienal. Precedentes da Terceira Turma. Precedentes. Incidência da Súmula nº 83 do STJ."(AgInt no AREsp n. 1.714.826/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/3/2021, DJe de 6/4/2021.). Incidência da Súmula 83/STJ.
+2.1 "O entendimento deste Tribunal Superior é de que a notificação extrajudicial não é hábil a interromper o prazo prescricional."(AgInt no AREsp n. 1.656.629/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/11/2021, DJe de 26/11/2021.). Incidência da Súmula 83/STJ.
+3. "A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte." (AgInt no REsp n. 1.984.081/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022.)
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt nos EDcl no AREsp n. 2.260.926/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) do valor atualizado da causa, observado o benefício da gratuidade (arts. 85, § 2º, e 98, § 3º, do CPC).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. MULTA POR LITIGÂNCIA DE MÁ-FÉ RECONHECIDA. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
