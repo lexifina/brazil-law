@@ -1,0 +1,11 @@
+DECISÃO
+ Trata-se  de  agravo  interno  interposto  por SCANIA LATIN AMERICA LTDA  contra  a decisão  monocrática de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região)  assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O TERÇO CONSTITUCIONAL DE FÉRIAS. ENTENDIMENTO FIRMADO NO TEMA 985/STF. APLICAÇÃO IMEDIATA. EMBARGOS DE DECLARAÇÃO REJEITADOS (fls. 1.607/1.611).
+Nas razões do agravo interno  (fls.  1.617/1.684),  requer a parte agravante o sobrestamento do caso em análise até o julgamento final dos embargos de declaração opostos no RE 1.072.085 (Tema 985 da Repercussão Geral), ou a submissão do feito à Turma julgadora.
+Impugnação não apresentada conforme certidão de fl. 1.689.
+ É  o  relatório.
+A matéria debatida nos autos, qual seja, a incidência da contribuição previdenciária patronal sobre o terço constitucional de férias, encontra-se pendente de definição no bojo dos embargos de declaração opostos o RE 1.072.485/PR (Tema 985), da relatoria do Ministro André Mendonça, que determinou a suspensão de todos os processos que versassem sobre esse tema até a modulação dos efeitos da decisão.
+Dessa forma, por medida de economia processual e para evitar decisões divergentes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos de temas similares em curso neste Tribunal devem aguardar, na Corte de origem, a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação nos termos dos arts. 1.039 e 1.040 do Código de Processo Civil (CPC). Somente após tal providê ncia, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Tribunal superior para a análise das questões jurídicas nele suscitadas e que não ficarem prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Diante do exposto, reconsidero a decisão de fls. 1.607/1.611 e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão referente aos embargos de declaração opostos no RE 1.072.485/PR, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimem-se.
+ EMENTA
