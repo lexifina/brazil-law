@@ -1,0 +1,29 @@
+DECISÃO
+ANDERSON COSTA DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0031759-39.2021.8.19.0002.
+A defesa busca a declaração de nulidade do acórdão proferido na referida apelação, ao argumento, em síntese, de que não haveria sido intimada quanto a inclusão do recurso na pauta de julgamento, a despeito de haver manifestado sua intenção de realizar sustentação oral.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+Infere-se dos autos que o paciente foi submetido a julgamento perante o Tribunal do Júri, oportunidade na qual foi absolvido. Inconformado, o Ministério Público interpôs recurso de apelação.
+O julgamento da referida insurgência foi, inicialmente, pautada para o dia 24/10/2023, em sessão virtual, tendo a defesa requerido a sustentação oral, motivo pelo qual o feito foi retirado de pauta e incluído na sessão presencial do mesmo dia, devidamente intimadas as partes.
+Em razão do afastamento do Desembargador Revisor, o julgamento foi, então, redesignado para a sessão do dia 31/10/2023, a ser realizada por videoconferência. No entanto, considerando o pedido de realização de sustentação oral por parte do advogado do apelado, em 25/10/2023, o feito foi novamente retirado de pauta e incluído na sessão ordinária (presencial) do dia 14/11/2023, com a devida intimação das partes (fls. 147-148).
+Ocorre que, por um equívoco da Secretaria da Segunda Câmara Criminal do Tribunal estadual, a apelação foi efetivamente julgada na sessão virtual inicialmente pautada - 24/11/2023 -, cujo término se deu em 31/10/2023, conforme certidão de fl. 149, cujo acórdão foi publicado no DJe do dia 1º/11/2023, com intimação eletrônica das partes (fls. 167-186).
+Não obstante, no dia 14/11/2023, na sessão ordinária (presencial), a insurgência foi novamente julgada, sem a presença do advogado do réu, que, cientificado da realização do julgamento virtual, acreditou que o processo não seria novamente submetido à apreciação do órgão colegiado em data posterior.
+Conforme posicionamento jurisprudencial desta Corte Superior, em homenagem ao art. 563 do CPP, não se declara a nulidade de ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte.
+Para a declaração de nulidade de determinado ato processual, deve haver a demonstração de eventual prejuízo concreto suportado pela parte. Não é suficiente a mera alegação da ausência de alguma formalidade, mormente quando se alcança a finalidade que lhe é intrínseca.
+Nesse sentido, prevalece na jurisprudência a conclusão de que, em matéria de nulidade, rege o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato.
+A propósito:
+ ..
+3. "Não se declara nulidade no processo se não resta comprovado o efetivo prejuízo, em obséquio ao princípio pas de nullité sans grief positivado no artigo 563 do Código de Processo Penal e consolidado no enunciado nº 523 da Súmula do Supremo Tribunal Federal" (AgRg no REsp n. 1.726.134/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/5/2018, DJe 4/6/2018, grifei).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 552.243/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 7/12/2020).
+ ..
+2. A jurisprudência deste Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. (AgRg no HC 527.449/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/8/2019, DJe 5/9/2019).
+3. Agravo regimental improvido.
+(AgRg no HC n. 573.794/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/9/2020).
+Todavia, no caso, verifico que a defesa se opôs ao julgamento virtual e pleiteou a realização de sustentação oral no bojo da Apelação Criminal n. 0031759-39.2021.8.19.0002 (fl. 140), o que foi deferido (fl. 141).
+Solicitadas informações específicas acerca do objeto desta impetração, os autos retornam a esta Corte com a confirmação, pelo Tribunal a quo, da intimação do advogado do então apelado acerca das datas designadas para o julgamento do recurso ora discutido. Entretanto, confirma, também, que o apelo ministerial foi julgado, primeiro, na sessão virtual iniciada no dia 24/10/2023, cujo término ocorreu em 31/10/2023 (fls. 149-165), com a devida intimação das partes, e, na sequência, na sessão presencial do dia 14/11/2024, situação que corrobora a alegação de nulidade.
+O prejuízo suportado pelo paciente é claro, uma vez que, embora previamente intimado da sessão de julgamento na qual lhe seria dada a oportunidade de sustentar oralmente - a ser realizada em 14/11/2023 -, a prévia submissão do recurso à turma julgadora na sessão virtual - de 24 a 31/10/2024 -, com a intimação das partes para ciência de seu resultado, gerou no causídico a convicção de que não seria, novamente, submetido à apreciação do órgão colegiado competente.
+Diante de tal cenário, outra solução não há, senão reconhecer que o equívoco da Secretaria da Segunda Câmara Criminal, que não retirou o processo da pauta da sessão virtual primeiramente designada (certidão de fl. 225), impossibilitou o pleno exercício do contraditório e da ampla defesa, garantias processuais asseguradas na Constituição Federal.
+À vista do exposto, concedo a ordem para anular o julgamento da Apelação Criminal n. 0031759-39.2021.8.19.0002 e determinar a renovação do ato, com prévia intimação da defesa constituída, assegurada a realização da sustentação oral pleiteada.
+Publique-se e intimem-se.
+EMENTA
