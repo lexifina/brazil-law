@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado, no plantão judiciário, contra decisão monocrática que indeferiu o pedido liminar em habeas corpus formulado na origem.
+O paciente foi preso em flagrante no dia 08.03.2024, depois convertida em preventiva, pela suposta prática do crime de tráfico de drogas, nos termos do art. 33, caput da Lei n. 11.343/06.
+A defesa alega, em síntese: a) "não foi apontado nenhum elemento concreto que atestasse a periculosidade do agente, não estando assim devidamente fundamentada a decisão de conversão. Tais argumentos se prestariam a justificar qualquer decretação de prisão preventiva." (e-STJ fl. 7); b) "réu primário, com bons antecedentes, sem nenhum antecedente criminal, que não se dedica à atividade criminosa, sem qualquer prova idônea de vínculo com organizações criminosas, ocupação lícitae residência fixa no distrito da culpa." (e-STJ fl. 7) ; e c) "a quantidade de entorpecentes supostamente encontrada com o paciente é pequena, qual seja, 100 g (cemgramas) de maconha e 07 g (sete gramas) de crack, sendo que na residência não foi encontrado nenhum apetrecho utilizado para o tráfico de drogas(balança de precisão, lista de contabilidade etc)" (e-STJ fl. 8).
+Ao final, requer a concessão da ordem para que seja "revogada a custódia cautelar e, no mérito, a confirmação da liminar pretendida" (e-STJ fl. 15).
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, suficiente para superar o óbice do referido enunciado sumular.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
