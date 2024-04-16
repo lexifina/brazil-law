@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se conflito de competência instaurado entre o JUÍZO DA 4ª VARA DO TRABALHO DE PORTO VELHO - RO, suscitante, e o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE PORTO VELHO - RO, suscitado.
+Ação: cobrança ajuizada por ROZILENE DOS SANTOS JARDIM DE LIMA em face do SINDICATO DOS POLICIAIS CIVIL DO ESTADO DE RONDÔNIA - SINSEPOL, sob a alegação de que teria prestado serviços de restaurante em prol do requerido, ao longo de mais de três anos, mas não recebeu o valor correspondente ao desempenho de sua atividade.
+Manifestação do Juízo Estadual: declinou da competência e determinou a remessa dos autos para a Justiça Laboral, por se tratar de demanda oriunda de relação de trabalho, nos termos do art. 114, VI, da CF.
+Manifestação do Justiça Laboral: suscitou o presente conflito negativo de competência, por entender que a prestação de serviços realizada pela autora não se enquadraria como relação de trabalho em sentido amplo.
+Parecer do MPF: opinou pela competência da justiça estadual.
+É O RELATÓRIO. DECIDO.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Observa-se, inicialmente, que a competência para julgamento da demanda é fixada a partir da causa de pedir e do pedido deduzidos em juízo, conforme definidos na petição inicial, na contestação e nos atos posteriores.
+Na hipótese, não se extrai da exordial causa de pedir envolvendo relação de trabalho. Deveras, narra a autora, na inicial, que teria fechado o restaurante do qual era proprietária para passar a prestar esses mesmos serviços na sede do sindicato demandado em favor dos policiais e familiares de policiais frequentadores do local, levando todos os seus equipamentos.
+Aduz que ficou acertado, verbalmente, que receberia a quantia referente às vendas das refeições servidas e, ainda, o valor de R$ 1.500,00 (mil e quinhentos reais) mensais, a título de complementação, quantias essas não honradas e, por isso, ajuizou ação pleiteando o seu recebimento.
+Como se observa, o fundamento do pedido diz respeito ao não pagamento do valor acordado oralmente e que se destinava a compor a renda a ser recebida por meio da prestação de serviços de restaurante na sede do demandado. Logo, a demanda se baseia em relação contratual (contrato verbal) regida pela legislação civil, tanto que embasada nos arts. 104, 111, 112 e 422, todos do Código Civil.
+Com efeito, não há nenhum direito trabalhista em discussão. Ao revés, extrai-se controvérsia de cunho eminentemente civil, decorrente de obrigação de natureza civil, inclusive sendo destacado pelo Juízo Laboral que não ficou demonstrada prestação de serviços que se enquadrasse em uma relação de trabalho em sentido amplo.
+A propósito, mutatis mutandis:
+CONFLITO DE COMPETÊNCIA - CONTRATO DE EMPREITADA - AÇÃO DE COBRANÇA C/C REPARAÇÃO POR DANOS MORAIS - RELAÇÃO DE NATUREZA EMINENTEMENTE CIVIL - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - CONFLITO CONHECIDO PARA DECLARAR COMPETENTE A JUSTIÇA COMUM.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca do exercício da jurisdição entre juízos vinculados a Tribunais diversos, nos termos do artigo 105, I, "d", da Constituição Federal.
+2. A competência para o julgamento da demanda é fixada em razão da natureza da causa, que é definida pelo pedido e pela causa de pedir deduzidos na exordial. Precedentes.
+3. Na hipótese dos autos, tendo em vista o pedido e a causa de pedir contidos na demanda, o primeiro correspondente ao recebimento do valor avençado em contrato de empreitada entabulado entre os ora interessados, e o segundo consistente na inadimplência do contratante-demandado, estes são elementos que atraem a competência da justiça comum estadual para processar e julgar a ação de cobrança em voga, porquanto não configurada a relação de trabalho. Precedentes específicos da Segunda Seção.
+4. Conflito conhecido para declarar a competência do r. juízo da 3ª Vara Cível do Foro Regional I - Santana/SP. (CC 197.329/SP, SEGUNDA SEÇÃO, DJe de 04/10/2023)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E DOTRABALHO. AÇÃO DE COBRANÇA. VALORES SUPOSTAMENTE DEVIDOS PELA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE EM AUTOMÓVEL DE PROPRIEDADE DO AUTOR. ÍNDOLE CIVIL DA DEMANDA. EMENDA CONSTITUCIONAL Nº 45/04. RELAÇÃO DE TRABALHO. NÃO CARACTERIZAÇÃO. COMPETÊNCIA. JUSTIÇA ESTADUAL.
+1. Mesmo com a ampliação da competência da Justiça do Trabalho em decorrência da alteração da expressão "relação de emprego" para "relação de trabalho", a Emenda Constitucional nº 45/04 não retirou a atribuição da Justiça estadual para processar e julgar ação alusiva a relações contratuais de caráter eminentemente civil, diversa da relação de trabalho.
+2. A competência ratione materiae define-se pela natureza jurídica da controvérsia, delimitada pelo pedido e pela causa de pedir.
+3. A presente ação de cobrança objetiva compelir o Município réu apagar diferenças contratuais, não adimplidas espontaneamente, decorrentes da prestação de serviços de transporte em veículo de propriedade do autor. Observa-se que não há, na petição inicial, qualquer pretensão de natureza trabalhista, como adicionais, férias, décimo terceiro ou FGTS, mas apenas o pagamento de duas parcelas de R$ 1.500,00 (mil e quinhentos reais) cada, tal como previsto no próprio contrato celebrado.
+4. Assim, não há relação de trabalho, no caso, mas simples obrigação de natureza civil, decorrente de contrato de prestação de serviços de transporte.
+5. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara Cível de Jaguarari/BA, o suscitante (CC 117.722/BA, PRIMEIRA SEÇÃO, DJe 2/12/2011)
+Assim, sobressai, na espécie, a incompetência da Justiça Laboral para o julgamento da demanda, impondo-se o reconhecimento da competência da Justiça Comum Estadual.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE PORTO VELHO - RO.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA NEGATIVO. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS DE RESTAURANTE. CAUSA DE PEDIR QUE NÃO ENVOLVE RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Compete à Justiça Comum Estadual julgar ação cuja causa de pedir não se refira a atos praticados no âmbito das relações trabalhista e processual trabalhista, como na hipótese.
+2. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE PORTO VELHO - RO.
