@@ -1,0 +1,30 @@
+DECISÃO
+Maria Rosa Marques Cruz interpõe agravo interno contra a decisão de fls. 569/571, proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial.
+Sustenta a agravante que impugnou os fundamentos da decisão que não admitiu o recurso especial.
+A parte agravada apresentou impugnação às fls. 590/594.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do recurso.
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 86 e 1.022 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 389):
+APELAÇÕES CÍVEIS - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - JUROS REMUNERATÓRIOS - PACTUAÇÃO SUPERIOR À TAXA MÉDIA DE MERCADO FIXADA PELO BANCO CENTRAL DO BRASIL - RESP Nº 1.061.530, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS - TAXA MÉDIA QUE SERVE DE MERO REFERENCIAL - PRESENÇA DE ABUSIVIDADE DA TAXA CONTRATADA QUE SUPERA O DOBRO DA MÉDIA - RESTITUIÇÃO SIMPLES DO INDÉBITO - DESNECESSIDADE DE FASE DE LIQUIDAÇÃO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS A SEREM ARBITRADOS POR EQUIDADE - RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS. I - Os juros remuneratórios devem ser considerados como abusivos sempre que destoarem consideravelmente da taxa média de mercado determinada pelo Banco Central do Brasil para o período (REsp 1.061.530/RS), como ocorreu na hipótese. II - Assiste razão à instituição financeira quanto ao pedido de redistribuição do ônus da sucumbência, ao considerar a proporção em que sucumbiu a parte autora em relação aos pedidos iniciais. III - Tratando-se de revisional de contrato de mútuo e simples incidência de novo percentual ao negócio pactuado, o montante é apurado mediante mero cálculo aritmético, nos termos do que dispõe o § 2º do art. 509/CPC, não enquadrando-se a discussão em nenhum dos incisos contidos no caput do dispositivo. IV - O pagamento em dobro de quantia cobrada indevidamente, de que tratam o art. 940 do Código Civil e o art. 42 do CDC, pressupõe a má-fé do credor, incabível no caso em comento. V - A pouca expressão econômica da indenização obtida, não pode servir de óbice à fixação dos honorários advocatícios em montante condigno, inclusive por tratar-se de atividade com relevância constitucional (art. 133/CF), devendo no caso concreto ser fixada por equidade (art. 85, §8º/CPC) VI - Recursos parcialmente providos.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 431/435).
+Sustenta a parte agravante que os pedidos principais que formulou na ação revisional foram julgados procedentes, razão pela qual deve ser afastada a sucumbência recíproca.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa ao art. 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que a Corte local entendeu que a distribuição dos ônus de sucumbência ocorreu de forma prop orcional ao decaimento das partes, assim discorrendo (fl. 433):
+(..)
+Não há falar em vício de contradição em relação a distribuição da verba honorária sucumbencial, porquanto constou no acórdão embargado o seguinte:
+"Por fim, requer a readequação da verba honorária sucumbencial arbitrada, nos termos do parágrafo único do art. 86 do CPC. Desta feita, proporcionalmente, deve se redistribuído o ônus da sucumbência, em conformidade com o art. 86 do CPC, na proporção de 70% em favor do procurador da parte autora, e 30% em favor do procurador do banco réu."
+Assim, a distribuição ocorreu proporcionalmente, conforme o êxito de cada uma das partes.
+(..)
+Com efeito, destaco que rever tal conclusão da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ. A propósito, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO DEMANDANTE.
+1. De acordo com a jurisprudência reiterada desta Corte, a aferição do percentual em que cada litigante foi vencedor e/ou vencido e a conclusão pela existência de sucumbência mínima ou recíproca das partes, demanda o revolvimento de matéria fática, impossível na presente via, conforme dispõe a Súmula 7 do STJ.
+1.2. O CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019). Incidência da Súmula 83/STJ.
+1.3. No caso em tela, a Corte de origem fixou a verba honorária em 14% do valor atualizado da condenação, montante que atende aos limites mínimo e máximo previstos na legislação de regência.
+2. Consoante jurisprudência desta Corte Superior, a fixação de honorários recursais, nos moldes do artigo 85, § 11, do CPC, independe do efetivo trabalho adicional do advogado da parte recorrida.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.039.754/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14.8.2023, DJe de 17.8.2023.) (destaquei)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiária da justiça gratuita.
+Intimem-se.
+EMENTA
