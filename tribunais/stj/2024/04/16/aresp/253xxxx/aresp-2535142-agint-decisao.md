@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA. (IMOBILIÁRIA) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação da incidência da Súmula nº 7 do STJ.
+Nas razões do presente inconformismo, alegou ter se insurgido contra os fundamentos do juízo de admissibilidade do recurso especial, bem como que a solução das questões controvertidas independe do reexame de provas.
+Não foi apresentada contraminuta.
+É o relatório.
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de, e-STJ, fls. 623/624, e passo ao exame do recurso especial que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, IMOBILIÁRIA alegou a violação dos arts. 489, § 1º, IV, do CPC; 876, 884 e 1.201 do CC; e 34, § 1º, da Lei nº 6.766/79, ao sustentar (1) omissão do acórdão recorrido acerca das questões suscitadas em embargos de declaração; e (2) o descabimento do pagamento de indenização por benfeitorias na hipótese em que a posse é de má-fé, e que a construção é clandestina e irregular, por não ter sido erigida de acordo com as normas da ABNT e com as regras de postura do município.
+Trata-se de ação de resolução de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com reintegração de posse e indenização por perdas e danos ajuizada por IMOBILIÁRIA contra EDSON CARDOSO DA SILVA e SANDRA REGINA DA SILVA, alegando inadimplemento dos réus em relação ao pagamento das parcelas acordadas entre as partes.
+(1) Da violação do art. 489, § 1º, IV, do CPC
+Nas razões do recurso especial, IMOBILIÁRIA sustentou, preliminarmente, omissão do acórdão recorrido em relação as questões suscitadas em embargos de declaração.
+Verifica-se que, apesar de apontar a negativa de prestação jurisdicional, a insurgente não indicou, precisamente, quais seriam os vícios perpetrados pela Corte estadual, ou seja, não especificou os pontos omissos ou contraditórios do aresto combatido, limitando-se a afirmar que o Tribunal local não teria apreciado os pontos invocados nas razões do seu apelo.
+Sendo assim, inviável a análise de violação ao referido dispositivo processual, pois a veiculação do inconformismo de forma genérica, sem a especificação dos pontos reputados omissos, obscuros ou contraditórios no julgamento do aresto combatido, inviabiliza a compreensão da controvérsia, atraindo, no particular, a incidência da Súmula nº 284 do STF.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO DEMONSTRADA. OCORRÊNCIA. DIREITO DE REGRESSO. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS. ENUNCIADO 284 DA SÚMULA. MULTA DO ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015. CARÁTER PROTELATÓRIO. INEXISTÊNCIA. AFASTAMENTO. PARCIAL PROVIMENTO.
+1. O agravante limitou-se a mencionar, genericamente, que houve omissão sem, contudo, esclarecer os pontos sobre os quais o Tribunal de origem foi omisso, atraindo o óbice do enunciado 284 da Súmula do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Não houve indicação dos dispositivos legais que teriam sido interpretados de forma divergente, o que faz incidir, no ponto, o enunciado 284 da Súmula do STF.
+4. Não identificado o caráter protelatório dos embargos de declaração ou o abuso da recorrente pela sua oposição, impõe-se o afastamento da multa processual, nos termos do enunciado 98 da Súmula do STJ.
+5. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 1.493.638/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 11/5/2020, DJe de 18/5/2020 - sem destaque no original.)
+(2) Da natureza da posse e da indenização por benfeitorias
+Por sua vez, IMOBILIÁRIA argumentou que é indevido o pagamento de indenização por benfeitorias na hipótese em que a posse é de má-fé, e que a construção é clandestina e irregular, por não ter sido erigida de acordo com as normas da ABNT e com as regras de postura do município.
+Todavia, conforme asseverou o Tribunal bandeirante, no caso:
+Considerando que os réus foram imitidos na posse do imóvel objeto do contrato "sub judice" e realizaram benfeitorias no lote de terreno, admissível a fixação de indenização pela fruição do bem.
+Quanto ao valor da indenização em comento, de rigor a condenação dos réus ao pagamento do percentual mensal de 0,5% do valor do contrato monetariamente corrigido, devido desde a mora dos réus (notificação judicial ou extrajudicial) até a efetiva desocupação.
+ ..
+Quanto às benfeitorias, em que pesem as alegações da parte recorrente, não restou comprovada a má-fé na ocupação. Isso porque a posse se deu em razão de contrato e seu inadimplemento não conduz ao reconhecimento automático de má-fé, como quer fazer crer a apelante.
+Por outro lado, não há indicação das benfeitorias que existem no terreno, apenas que se trataria de uma construção sem comprovação de regularização frente à prefeitura. A licença para construir é requisito imprescindível a qualquer obra realizada em terreno urbano e eventual construção realizada no imóvel pode, ainda, sequer estar apta à futura regularização. Tal ônus não pode ser imputado à requerente.
+Dessa forma, apenas fará jus à indenização com relação à eventual benfeitoria, se os réus comprovarem em sede de liquidação de sentença, a regularidade junto à prefeitura do imóvel, ou ao menos, a possibilidade de fazê-lo, devendo arcar com todos os custos nesta última hipótese. Somente assim farão jus à indenização da benfeitoria (e-STJ, fls. 546/548).
+Desse modo, a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame das circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+Nessas condições, em juízo de reconsideração, passando a nova análise da causa, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. PROMESSA DE COMPRA E VENDA DE IMÓVEL (LOTE URBANO NÃO EDIFICADO). AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. (1) VIOLAÇÃO DO ART. 489 DO CPC. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. (2) NATUREZA DA POSSE E INDENIZAÇÃO POR BENFEITORIAS. QUESTÃO SOLUCIONADA COM BASE NOS FATOS DA CAUSA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
