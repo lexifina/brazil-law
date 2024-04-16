@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SOCIEDADE HOSPITALAR SÃO MIGUEL DO OESTE LTDA., contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 15/12/2023.
+Concluso ao gabinete em: 21/03/2024.
+Ação: revisional ajuizada por SOCIEDADE HOSPITALAR SÃO MIGUEL DO OESTE LTDA em face de COOPERATIVA DE CRÉDITO UNICRED DESBRAVADORA LTDA.
+Sentença: julgou procedentes os pedidos iniciais para: a) reconhecer como abusiva a utilização do CDI como índice de correção monetária, devendo ser substituída pelo INPC, cujos efeitos devem retroagir à data da celebração da Cédula de Crédito Bancário, registrada sob o número 20.13300895; mantendo-se as demais previsões contratuais; b) determinar a compensação/devolução simples dos valores pagos a maior, com a incidência de juros de 1% ao mês, a contar da citação válida, com correção monetária pelo INPC a partir de cada pagamento indevido; c)confirmar integralmente a decisão que antecipou a tutela.
+Acórdão: conheceu da apelação da agravada e deu-lhe parcial provimento, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO(MÚTUO). SENTENÇA DE PROCEDÊNCIA. JUÍZO SINGULAR QUE DETERMINA A SUBSTITUIÇÃO DE CDI PELO INPC COMO ÍNDICE DE CORREÇÃO MONETÁRIA. INCONFORMISMO DA COOPERATIVA RÉ. CERCEAMENTO DE DEFESA. PARTE QUE OBJETIVA A ANULAÇÃO DA SENTENÇA EM VIRTUDE DA AUSÊNCIA DE DESPACHO SANEADOR NO FEITO. TESE AFASTADA. JUÍZO QUE INTIMOU AS PARTES PARA SE MANIFESTAREM A RESPEITO DAS PROVAS QUE PRETENDIAM PRODUZIR. ADEMAIS, PROCESSO INSTRUÍDO COM OS ELEMENTOS NECESSÁRIOS E SUFICIENTES À RESOLUÇÃO DA LIDE. AVENTADA A INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. REJEIÇÃO. NORMA PLENAMENTE APLICÁVEL ÀS RELAÇÕES MANTIDAS ENTRE COOPERATIVAS E COOPERADOS. COOPERATIVA DE CRÉDITO EQUIPARADA A INSTITUIÇÃO FINANCEIRA, A TEOR DO QUE ESTABELECEM OS ARTS. 18, § 1º, DA LEI N. 4.595/64 E 1ºDA LEI COMPLEMENTAR N. 130/09. PRECEDENTE (TJSC, AGRAVO DE INSTRUMENTO N.4028552-97.2019.8.24.0000, REL.ª DES.ª JANICE GOULART UBIALLI, QUARTA CÂMARA DEDIREITO COMERCIAL, J. 10-12-2019). ALEGADA A VALIDADE DA INCIDÊNCIA DO CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI) COMO ÍNDICE DE CORREÇÃO MONETÁRIA. ACOLHIMENTO. EXEGESE DA SÚMULA N.65 DESTE TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DO CDI COMO INDEXADOR DA ATUALIZAÇÃO MONETÁRIA EXPRESSAMENTE PREVISTA NO CONTRATO CELEBRADO ENTRE AS PARTES. PRECEDENTES (TJSC, APELAÇÃO CÍVEL N. 5002231-66.2022.8.24.0076, REL. DES. JOSÉ CARLOS CARSTENS KOHLER, QUARTA CÂMARA DEDIREITO COMERCIAL, J. 20-06-2023; TJSC, APELAÇÃO CÍVEL N. 0300428-30.2018.8.24.0002, REL.ª DES.ª JANICE GOULART UBIALLI, QUARTA CÂMARA DE DIREITOCOMERCIAL, J. 14-03-2023). DECISÃO MODIFICADA NO PARTICULAR. AFASTAMENTO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ IMPOSTA À PARTE RÉ POR OCASIÃODO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. AUSÊNCIA DE DOLO PROCESSUAL OU INTUITO PROTELATÓRIO. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. PROVIDÊNCIA NECESSÁRIA, DIANTE DO RESULTADO DO JULGAMENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, incisos I e II, do CPC e art. 51, IV, do CDC, além de dissídio jurisprudencial no tocante à incidência do CDI como fator de atualização monetária.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão decidiu, fundamentada e expressamente, acerca da validade do emprego da CDI como fator de correção monetária, pois expressamente previsto em contrato, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+Ademais, os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou o art. 51, IV, do CDC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do dissídio jurisprudencial
+Por fim, no que tange à suposta divergência jurisprudencial, nota-se que, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º, do CPC, e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo, para CONHECER parcialmente do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO, com fundamento no art. 932, IV, do CPC, bem como na Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ, fls. 381) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF.
+1. Ação revisional.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo
+analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
