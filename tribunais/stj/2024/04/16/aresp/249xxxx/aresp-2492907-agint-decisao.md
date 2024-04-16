@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  contra  decisão  da  Presidência  desta  Corte  Superior,  que,  aplicando  a  Súmula  182/STJ,  não  conheceu  do  agravo  em  recurso  especial,  por  entender  que  não  houve  impugnação  específica  aos  fundamentos  utilizados  no  juízo  de  admissibilidade.
+Em  suas  razões,  os  agravantes  sustentam  que  efetivamente  enfrentaram  todos  os  fundamentos  da  decisão  que  não  admitiu  seu  recurso  especial.
+Impugnação às fls. 238/250 e-STJ.
+Em  vista  do  alegado,  presente  a  dialeticidade  do  recurso,  reconsidero  a  decisão  agravada  e  passo  a  novo  exame  dos  autos.
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE AFASTA ALEGAÇÃO DE PRESCRIÇÃO EM RAZÃO DE DEMORA NA EFETIVAÇÃO DA CITAÇÃO. INSURGÊNCIA DOS EXECUTADOS. NÃO ACOLHIMENTO. PROVÁVEL CIÊNCIA DA AÇÃO EXECUTÓRIA INDEPENDE DA AUSÊNCIA DE CITAÇÃO. SUSCITAÇÃO DA PRESCRIÇÃO QUATRO ANOS APÓS A EFETIVAÇÃO DA CITAÇÃO DOS AGRAVANTES. OFENSA A BOA-FÉ E AO DEVER DE COOPERAÇÃO. ADEMAIS, NÃO EFETIVAÇÃO DA CITAÇÃO QUE DECORREU DE ERRO DO JUDICIÁRIO, QUE EXPEDIU CARTA PRECATÓRIA SEM CONSTAR A DILIGÊNCIA DE CITAÇÃO DOS AGRAVANTES, APENAS DOS DEMAIS EXECUTADOS. SÚMULA 106 DO STJ. IMPOSSIBILIDADE DE IMPUTAR AO EXEQUENTE TAL EQUÍVOCO. PRECEDENTES DESTA CÂMARA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO"
+Nas razões do recurso especial, as partes apontam, além de divergência jurisprudencial, violação aos arts. 489, § 1º, inciso V, 240 e 1.022 do Código de Processo Civil, s ustentando negativa de prestação jurisdicional e que a dívida executada está prescrita, não tendo que se falar em demora na citação por falha do Judiciário.
+Contrarrazões às fls. 187/197 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se pronunciou exaustivamente sobre a questão, não havendo omissão, mas apenas decisão contrária ao interesse da parte agravada, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+O Tribunal de origem ao analisar a controvérsia, com base na análise do contexto fático-probatório dos autos, concluiu que não há que se falar em prescrição no presente caso, uma vez que a demora na efetivação da citação se deu em virtude da morosidade dos mecanismos do Judiciário, não podendo se imputar ao exequente esta responsabilidade, conforme preceitua a Súmula 106/STJ.
+A pretensão de revisão desta conclusão esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. INEXISTÊNCIA. INÉRCIA DA PARTE AFASTADA. DEMORA DA CITAÇÃO ATRIBUÍDA AOS MECANISMOS DA JUSTIÇA. SÚMULA 106/STJ. VERIFICAÇÃO DOS ELEMENTOS FÁTICOS QUE LEVARAM À DEMORA DA CITAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É pacífico o entendimento de que a demora na citação, atribuída aos mecanismos inerentes ao funcionamento da Justiça, não acarreta a configuração da prescrição, por inércia do autor (Súmula 106 do STJ).
+2. "A verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 7/STJ" (REsp 1.102.431/RJ, PRIMEIRA SEÇÃO, Rel. Ministro LUIZ FUX, DJe de 1º/2/2010. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008).
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.179.758/SC, relator Ministro Raul Araújo, QUARTA TURMA, DJe de 7/6/2023.)
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
