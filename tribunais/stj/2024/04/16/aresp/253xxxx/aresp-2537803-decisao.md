@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interposto por LUIZ FERNANDO ADOLFO LIMA e ILK CONSTRUÇÕES E INCORPORAÇÕES LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 492-497) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 414):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE. NO CASO CONCRETO NÃO É CABÍVEL A FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM FAVOR DA PARTE EXECUTADA, POIS A EXTINÇÃO DO FEITO EXECUTIVO SE DEU PELA AUSÊNCIA DE BENS DO DEVEDOR. SENTENÇA REFORMADA UNÂNIME. RECURSO PROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 436):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALEGAÇÃO DE OMISSÃO. CASO DOS AUTOS EM QUE NÃO SE ENCONTRA CARACTERIZADA QUALQUER DAS HIPÓTESES PREVISTAS PELO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL.
+PRETENSÃO DE REEXAME DO MÉRITO RECURSAL. VIA PROCESSUAL INADEQUADA PARA TANTO. PREQUESTIONAMENTO. DESNECESSIDADE DE QUE O ÓRGÃO JULGADOR SE MANIFESTE EXPRESSAMENTE A RESPEITO DAS TESES E DISPOSITIVOS LEGAIS APONTADOS PELAS PARTES QUE NÃO SE MOSTREM CAPAZES DE INFIRMAR A CONCLUSÃO ADOTADA PELO MAGISTRADO.
+APLICABILIDADE DOS DISPOSITIVOS LEGAIS PREQUESTIONADOS, NA FORMA REQUERIDA PELA PARTE, QUE RESTOU IMPLICITAMENTE REPELIDA PELA FUNDAMENTAÇÃO DO JULGADO. INTELIGÊNCIA DO DISPOSTO NO ARTIGO 489, INCISO III, DO REGRAMENTO PROCESSUAL EM VIGOR.
+UNÂNIME. DESACOLHERAM OS EMBARGOS.
+Nas razões do recurso especial, os recorrentes alegaram, com fulcro na alínea a do permissivo constitucional, violação aos arts. 23 da Lei 8.906/1994; e 85, §§ 2º e 8º, 489, § 1º, IV e VI, e 1.022, II, do CPC/2015.
+Apontaram omissão e deficiência na fundamentação do aresto recorrido, afirmando que o Tribunal originário não se manifestou a respeito dos argumentos que atestam o direito do advogado ao recebimento dos honorários sucumbenciais "em caso de resistência à pretensão de extinção pela prescrição intercorrente (como no caso concreto)" (e-STJ, fl. 449).
+Sustentaram que, no julgamento da exceção de pré-executividade, considerando a resistência da parte exequente à declaração de prescrição intercorrente, o patrono da causa faz jus aos honorários sucumbenciais.
+Destacaram que, nesse caso, a verba honorária deve ser calculada com base no proveito econômico.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 492-497).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 506-516).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, a primeira tese defendida pelos recorrentes refere-se à existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o aresto recorrido apresenta suficiente fundamentação quando reconhece a impossibilidade de fixação dos honorários sucumbenciais em julgamento de exceção de pré-executividade, na qual é reconhecida a prescrição intercorrente da execução.
+Portanto, inexiste ofensa aos arts. 489 e 1.022 do CPC/2015.
+No que se refere ao arbitramento da verba honorária, o Tribunal originário assim se manifestou (e-STJ, fls. 410-412):
+A parte pretende o afastamento da fixação de honorários sucumbenciais em razão da extinção do processo executivo pela prescrição intercorrente, defendendo que a execução não teve êxito pela ausência de bens passíveis de penhora.
+ ..
+A parte executada apresentou incidente de exceção de pré-executividade (evento 26 ,EXCPRÉEX1), a qual foi acolhida ensejando a extinção da execução e tendo o juiz singular fixado honorários em favor do procurador das executadas.
+De acordo com o entendimento do Superior Tribunal de Justiça, quando o arquivamento ocorreu por não terem sido localizados bens passíveis de expropriação, o reconhecimento da prescrição intercorrente não resulta na atribuição dos ônus sucumbenciais à parte exequente, vejamos:
+ ..
+No caso em tela, analisando os autos do processo de primeiro grau, verifico que o fracasso na execução se deu, de fato, pela ausência de bens a serem penhorados. Dessa forma, levando em conta que a prescrição intercorrente ocorreu por não terem sido localizados bens passíveis de constrição, reformar a decisão apelada é medida que se impõe.
+De fato, o posicionamento adotado pela Corte local está em harmonia com a jurisprudência do Superior Tribunal de Justiça, a qual entende que, em caso de extinção da execução, por reconhecimento da prescrição intercorrente, é o princípio da causalidade que deve nortear o julgador para fins de verificar a responsabilidade pelo pagamento de honorários advocatícios e custas judiciais.
+Dessa forma, o reconhecimento da prescrição intercorrente, por ausência de localização de bens penhoráveis, não retira do executado a responsabilidade pelo pagamento dos honorários sucumbenciais.
+Efetivamente, a causa do ajuizamento da execução, seja por título judicial ou extrajudicial, é o inadimplemento do devedor. Desse modo, já tendo o exequente que suportar uma redução no seu patrimônio pela ausência de recebimento do crédito, o que o obrigou a propor a demanda em juízo, não pode ter ele que arcar com os ônus sucumbenciais do processo, apenas por não ter localizado o devedor ou bens passíveis de penhora durante o curso do prazo prescricional, sob pena de ser punido duplamente, consequência que, em observância ao princípio da causalidade, não pode ser atribuída a sua atuação.
+A propósito, confira-se o seguinte precedente da Segunda Seção desta Corte:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA PROIBIÇÃO DA REFORMA PARA PIOR.
+1. Cuida-se de agravo interno por meio do qual o executado, em razão da decretação da prescrição intercorrente, postula a fixação de honorários advocatícios com base no "proveito econômico obtido", isto é, o montante que deveria adimplir se a execução chegasse ao seu termo natural.
+2. Consoante a jurisprudência de ambas as Turmas que compõem esta 2ª Seção, a decretação da prescrição intercorrente por ausência de localização de bens penhoráveis não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. Precedentes.
+3. Hipótese dos autos em que, contudo, mostra-se inviável a imputação das verbas de sucumbência à parte executada, ante o princípio da vedação da reforma para pior (non reformatio in pejus).
+4. Agravo interno não provido.
+(AgInt nos EDcl nos EAREsp n. 957.460/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/2/2020, DJe de 20/2/2020.)
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. RECONHECIMENTO DA PRESCRIÇÃO. PRINCÍPIO DA CAUSALIDADE. INCIDÊNCIA. FIXAÇÃO DE HONORÁRIOS EM FAVOR DO EXECUTADO. IMPOSSIBILIDADE. PEDIDO DE MAJORAÇÃO. NÃO CABIMENTO. MANUTENÇÃO DA FIXAÇÃO POR EQUIDADE EM DECORRÊNCIA DO PRINCÍPIO DO NON REFORMATIO IN PEJUS. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo em vista que, no caso concreto, a extinção da execução ocorreu em virtude do reconhecimento da prescrição intercorrente, aplica-se o princípio da causalidade, em que sequer seria cabível a fixação de honorários advocatícios em desfavor do credor.
+2. Se, por um lado, não é possível afastar a condenação dos honorários advocatícios em observância à vedação do non reformatio in pejus, por outro, não cabe a discussão a respeito da majoração da referida verba.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.079.647/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SENTENÇA DE EXTINÇÃO POR PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS SUCUMBENCIAIS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DESTA CORTE. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "em caso de extinção da execução, a imposição de obrigação de pagamento de honorários advocatícios deve levar em conta tanto a regra geral da sucumbência quanto o princípio da causalidade. Não se justifica a imposição de sucumbência à parte exequente, que teve frustrada a pretensão de satisfação de seu crédito, em razão de prescrição. A parte devedora, ao deixar de cumprir a obrigação (pagar a dívida), deu causa ao ajuizamento da execução. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, a parte devedora, que deixou de satisfazer a obrigação -, não tendo relação com o motivo que ensejou a decretação da prescrição (inércia/desídia da parte credora)" (AgInt no REsp 1.959.952/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 12/8/2022).
+2. O acórdão estadual está em sintonia com a jurisprudência do STJ.
+Portanto, o apelo nobre encontra óbice na Súmula 83/STJ, aplicável tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.378.001/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Com efeito, nesse caso, aplica-se o disposto na Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE LOCALIZAÇÃO DE BENS DO DEVEDOR. HONORÁRIOS SUCUMBENCIAIS. NÃO CABIMENTO. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PRO VIMENTO AO RECURSO ESPECIAL.
