@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 282):
+ADMINISTRATIVO E PROCESSUAL CIVIL. ENTIDADE SINDICAL. VALOR DA CAUSA.
+Na impossibilidade de estabelecer um quantum exato para valor da causa, deve ser estimado aquele que mais se aproxima da vantagem patrimonial almejada. Em se tratando de ação coletiva proposta por entidade sindical, é praticamente impossível dimensionar, neste momento processual, o efetivo valor da causa ou o proveito econômico da ação, seja de forma individual para cada beneficiário ou coletiva para todos os substituídos, admitindo-se afixação do valor da causa por estimativa.
+Parcialmente providos os aclaratórios para fins de prequestionamento (e-STJ fls. 329/337).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 489, § 1º, e 1022, I e II, do CPC/2015, por negativa de prestação jurisdicional, e dos arts. 91, 291, 292 e 319, V, 321, caput e parágrafo único, e 485, I, do CPC/2015, alegando que os contornos da causa de pedir e dos pedidos da presente ação civil pública indubitavelmente permitem à parte autora apresentar um valor certo, determinado e com origens e elementos minimamente demonstrados, afastando, assim, a aleatoriedade do valor por ela atribuído.
+Depois de contra-arrazoado (e-STJ fls. 373/378), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de ausência de prequestionamento e incidência das Súmulas 7 e 83 do STJ (e-STJ fls. 381/387).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação dos fundamentos aludidos.
+Contraminuta às e-STJ fls. 419/424.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+De início, quanto à alegada ofensa aos arts. 489, § 1º, e 1022, I e II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há, necessariamente, ausência de manifestação. Não se deve confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp 2.084.089/RO, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 15/9/2022).
+No caso, a Corte de origem dirimiu a controvérsia nos seguintes termos (e-STJ fl. 290):
+No caso concreto, o mérito principal da demanda se refere à declaração da ilegalidade das Resoluções e a condenação dos réus ao pagamento dos créditos relativos à aplicação da TR sem o redutor sobre os saldos de FGTS da categoria do sindicato autor.
+Assim, seria praticamente impossível, neste momento processual, definir o efetivo valor da causa ou o proveito econômico da ação, seja de forma individual para cada beneficiário ou coletiva para todos os substituídos.
+É de ser reconhecida, portanto, a possibilidade de o valor da causa ser fixado mediante estimativa, aceitando-se, provisoriamente, o valor proposto na exordial pelo sindicato autor (R$ 60.000,00 - sessenta mil reais), eis que adequado aos precedentes desta Corte.
+Nesse passo, não se mostra possível o acertamento dessa questão nesta quadra recursal, pois demandaria reavaliar o conjunto fático-probatório da causa, a fim de apurar se seria possível, ou não, desde já, mensurar um valor patrimonial ou um proveito econômico aproximado a ser obtido com a demanda - justamente o que foi peremptoriamente negado pelo Tribunal a quo.
+De aplicar, à hipótese, a vedação contida na Súmula 7/STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO. Fica prejudicado o pedido de efeito suspensivo.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, §11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
+EMENTA
