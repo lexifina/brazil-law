@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Danilo Alves, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0004743-27.2015.8.26.0358).
+Narram os autos que o paciente havia sido condenado pela prática do crime de tráfico de drogas privilegiado (13 pedras de crack) à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, e 166 dias-multa. A pena privativa de liberdade foi substituída por duas restritivas de direitos (fls. 20/24).
+Contudo, o Tribunal a quo deu provimento ao apelo do Parquet, e afastou o privilégio, redimensionando a pena do paciente para 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa.
+Daí o presente mandamus, em que o impetrante alega, em síntese, que o tráfico privilegiado restou afastado unicamente pelo tipo de droga, comportamento social e ousadia do réu (ambos não ficaram claros), mesmo que o paciente na época dos fatos possuía bons antecedentes (fl. 9).
+Aduz que o paciente preenche todos os requisitos para aplicação da causa especial do § 4º do art. 33 da Lei n. 11.343/2006, inexistindo nos autos notícia ou qualquer outro elemento concreto de que integre organização criminosa ou de que se dedique às atividades criminosas (elementos inidôneos) - fl. 11.
+Por último, esclarece que não bastasse à ilegalidade quanto à ausência de fundamentação idônea para vedar a aplicação da causa de diminuição do §4º do artigo 33, o regime prisional restou fixado de forma mais gravosa do que demanda a pena, também sem qualquer fundamentação idônea (fl. 12).
+Requer seja concedida a ordem do presente writ liminarmente de ofício, a fim de que: i) Seja reconhecida a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo legal, tendo em vista o paciente preencher os requisitos legais para reconhecimento da benesse - Tráfico Privilegiado -, inclusive, o Ato Coator utilizou fundamentação inidônea (tipo de droga, comportamento social e ousadia do réu) para vedar a incidência da aludida causa de diminuição e, consequentemente, seja fixado o Regime Aberto para cumprimento da pena ou, alternativamente caso não seja aplicado o redutor em comento; (ii) Seja fixado o Regime Inicial Semiaberto, de acordo com a pena estabelecida ao Paciente e valendo-se de fundamentação adequada (fl. 18).
+Em consulta à página do Tribunal de Justiça de São Paulo, na internet, observa-se que a condenação transitou em julgado em 7/5/2018.
+É o relatório.
+Conforme relatado acima, este habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido, confira-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019.
+Contudo, in casu, observo a existência de ilegalidade manifesta apta à concessão da ordem de ofício.
+No caso dos autos, a Corte paulista afastou o benefício de tráfico de drogas privilegiado sob os seguintes fundamentos (fls. 28/30 - grifo nosso):
+ ..
+Ora, pela quantidade da substância entorpecente apreendida (13 pedras de crack), pela forma como ocorreu a apreensão, tudo demonstra que a droga se destinava ao fornecimento para o consumo de terceiros. Desta forma, não se pode desclassificara conduta para a figura do art. 28 da Lei n. 11.343/06.
+ ..
+Passa-se à dosimetria das penas.
+Na primeira fase, com base nas circunstâncias judiciais previstas no art. 59 do Código Penal, fixo sua pena-base no mínimo legal de 5 anos de reclusão e 500 dias-multa.
+Não merece acolhimento o pleito ministerial para majoração da pena-base, uma vez que a natureza do entorpecente será utilizada na terceira fase, não podendo ser considerada aqui, também, sob pena de incorrermos em imperdoável "bis in idem".
+Na segunda fase, inaplicável a atenuante da menoridade relativa, nos termos da Súmula 231 do STJ.
+Frise-se que o benefício previsto no § 4º, do artigo 33, daLei nº 11.343/06, por sua vez, não representa direito subjetivo do acusado. O legislador, ao adotar a expressão "poderão", quis demonstrar, com todas as letras, que se trata de mera faculdade do Juiz sentenciante, que, na dosimetria da pena, tem, obrigatoriamente, de seguir a diretriz prevista no artigo 42 da referida lei, que demonstra como a pena deve ser aplicada.
+Em outras palavras, se o legislador entendesse que a benesse acima mencionada era direito do réu, teria usado a palavra "deverão", oriunda do verbo "dever", que significa obrigação,necessidade, etc.
+Assim, como o texto do artigo 33, § 4º, da Lei de Tóxicos,está redigido que "as penas poderão ser reduzidas de um sexto a dois terços", não há qualquer dúvida que a concessão do benefício depende do livre arbítrio do Juiz, que, como já dissemos acima, tem de levar em consideração o artigo 59, caput, do Código Penal, e também o artigo 42, da Lei nº 11.343, de 23 de agosto de 2006.
+Desta forma, na terceira fase, tendo em vista o tipo de droga (crack), o comportamento social e a ousadia do réu, ele não faz jus à diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, mesmo que tenha bons antecedentes.
+Isto posto, afasto o redutor, resultando definitiva a penade 5 anos de reclusão e 500 dias-multa, no valor unitário mínimo.
+O regime prisional é o fechado.
+ ..
+Ocorre que o Magistrado de piso aplicou a minorante do tráfico de drogas na fração máxima por entender que, na terceira fase, incide o redutor previsto no artigo 33, § 4º, da L. 11.343/06, e considerando-se a diminuta extensão da infração, e a pequena quantidade de entorpecentes, lhe concedo o redutor legal no máximo previsto em lei, a saber, 2/3, finalizando a corporal em 1 ano e 8 meses, além do pagamento de 166 dias multa no mínimo legal o unitário, dimensão que se amolda à situação pessoal do réu que ostentava, por ocasião, menos de 21 anos de idade (fl. 23 - grifo nosso).
+E, continua o Juiz, a pena, nessa gradação, amolda-se às diretrizes do artigo 33, § 3º, do Código Penal, sob pena de supressão da mens legis inscrita no artigo 33, § 3º, da lei de drogas, até porque ao tempo do delito ora irrogado o réu não possuía antecedentes criminais. Incide o entendimento firmado pelo plenário do pretório excelso, no sentido de que o tráfico de entorpecentes na modalidade privilegiada não ostenta os contornos da hediondez. Não se perde de norte, nesse caso, que o plenário do Supremo Tribunal Federal exteriorizou o entendimento de que o tráfico de entorpecentes, na modalidade privilegiada, não é hediondo - (HC) 118533 (fl. 23).
+Pois bem. Não obstante aqueles que pensam em sentido contrário, entendo que a constatação da primariedade, dos bons antecedentes e da ausência dos indícios de participação do agente em organização criminosa já recomendaria a aplicação da referida benesse. Aliando-se a quantidade de droga apreendida (13 pedras de crack), à qual o Juiz da causa chamou de pequena quantidade, e o Tribunal de Justiça não refutou tal argumento, entendo ser cabível a causa de diminuição do tráfico de drogas no caso dos autos.
+Nesse sentido, a propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. TRÁFICO DE DROGAS. PRIVILEGIADORA. QUANTIDADE DE DROGAS TIDA POR INEXPRESSIVA. AÇÕES PENAIS EM CURSO. FUNDAMENTO INVÁLIDO PARA A NEGATIVA DO BENEFÍCIO.
+1. Ocorrendo o trânsito em julgado da condenação junto à instância ordinária, é indevida a impetração de habeas corpus diretamente no STJ. Contudo, é possível a concessão da ordem, ainda que de ofício, em casos de flagrante ilegalidade.
+2. A apreensão de quantidade de entorpecentes tida por inexpressiva não justifica o afastamento da causa de diminuição de pena do art. 33, §4º, da Lei n. 11.343/2006.
+3. Inquéritos policiais e/ou ações penais sem trânsito em julgado não obstam a incidência da minorante do tráfico privilegiado, em observância ao princípio constitucional da presunção de não culpabilidade.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 844.416/MG, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 16/11/2023 - grifo nosso).
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem a fim de restabelecer a sentença que aplicou ao paciente a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, condenando-o a 1 ano e 8 meses de reclusão, e 166 dias-multa, em regime inicial aberto, e substituindo a pena privativa de liberdade por duas restritivas de direitos.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SUCEDÂNEO DE REVISÃO CRIMINAL. PRESENÇA DE ILEGALIDADE MANIFESTA. DOSIMETRIA. MINORANTE DO TRÁFICO DE DROGAS AFASTADA PELO TRIBUNAL DE JUSTIÇA. FUNDAMENTAÇÃO INIDÔNEA. SENTENÇA QUE DEVE SER RESTABELECIDA.
+Habeas corpus não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
