@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por SEGUR Serviços e Recursos Humanos Ltda., em face do acórdão do Tribunal Superior do Trabalho assim ementado:
+
+    “RECURSO DE REVISTA. LEIS NºS 13.015/2014 E 13.467/2017. ADICIONAL DE INSALUBRIDADE. LIMPEZA DE BANHEIRO COLETIVO DE GRANDE CIRCULAÇÃO. ESTABELECIMENTO COMERCIAL. SÚMULA 448, II, DO TST. Esta Corte firmou o entendimento de que a higienização de instalações sanitárias de uso público ou coletivo de grande circulação, e a respectiva coleta de lixo, enseja o pagamento de adicional de insalubridade em grau máximo. Neste sentido, o item II da Súmula 448 do TST: ‘a higienização de instalações sanitárias de uso público ou coletivo de grande circulação, e a respectiva coleta de lixo, por não se equiparar à limpeza em residências e escritórios, enseja o pagamento de adicional de insalubridade em grau máximo, incidindo o disposto no Anexo 14 da NR-15 da Portaria do MTE nº 3.214/78 quanto à coleta e industrialização de lixo urbano’. Precedentes. Recurso de revista de que se conhece e a que se dá provimento.”
+
+    Na minuta, sustenta-se violação do art. 7º, XXVI, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que o Tribunal de origem inadmitiu o recurso extraordinário em virtude da incidência das Súmulas nº 279 e 636/STF.
+
+    Contudo, a parte recorrente não impugnou, nas razões do agravo, o fundamento referente à Súmula 636/STF, limitando-se a reiterar as razões de mérito apresentadas no apelo extremo. Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula nº 287/STF: “nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Anoto precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PROCESSO PENAL. PRESCRIÇÃO. ORGANIZAÇÃO CRIMINOSA, ROUBO MAJORADO, LATROCÍNIO TENTADO, DANO, RECEPTAÇÃO, INCÊNDIO, EXPLOSÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. DEMONSTRAÇÃO INSUFICIENTE DA PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO E DA DECISÃO MONOCRÁTICA DO RECURSO EXTRAORDINÁRIO COM AGRAVO: SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1470276 AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 06.03.2024)
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DE INADMISSÃO DO RECURSO EXTRAORDINÁRIO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ENUNCIADO N. 287 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. É inviável o agravo que deixa de atacar especificadamente os fundamentos da decisão de inadmissibilidade de recurso extraordinário. Incidência do enunciado n. 287 da Súmula do Supremo. 2. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 3. Agravo interno desprovido.” (ARE 1438315 AgR, Rel. Min. Nunes Marques, 2ª Turma, 08.03.2024)
+
+    Ademais, na hipótese, o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional aplicável e no conjunto fático-probatório dos autos, cuja análise ou reexame se revelam inviáveis em recurso extraordinário. Aplicação das Súmulas nº 279 e 636/STF: “para simples reexame de prova não cabe recurso extraordinário” e “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido:
+
+    “DIREITO DO TRABALHO. ALEGADA VIOLAÇÃO DO ART. 114, DA LEI MAIOR. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS Nº 282 E 356/STF. ADICIONAL DE INSALUBRIDADE. COLETA DE LIXO E LIMPEZA E HIGIENIZAÇÃO DE BANHEIROS. ACÓRDÃO COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO NÃO PROVIDO. [...] 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. [...] 5. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (ARE 1424329 AgR, Rel. Min. Rosa Weber (Presidente), Tribunal Pleno, DJe 28.06.2023)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE INSALUBRIDADE. REDUÇÃO. READAPTAÇÃO FUNCIONAL. ALTERAÇÃO DO GRAU DE INSALUBRIDADE. ARTIGO 93, INCISO IX, DA CONSTITUIÇÃO. VIOLAÇÃO. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O artigo 93, inciso IX, da Constituição Federal não determina que o órgão judicante se manifeste sobre todos os argumentos apresentados pelas partes, mas sim que ele explicite as razões que entendeu suficientes à formação de seu convencimento (AI 791.292-RG-QO, Plenário, Rel. Min. Gilmar Mendes, DJe de 13/8/2010, Tema 339 da Repercussão Geral). 2. O tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal não possui repercussão geral (ARE 748.371-RG, Plenário, Rel. Min. Gilmar Mendes, DJe de 1º/8/2013, Tema 660). 3. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional local, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmulas 279 e 280 do STF). 4. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 5. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1368685 AgR, Rel. MIn. Luiz Fux (Presidente), Tribunal Pleno, DJe 16.05.2022)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 16 de abril de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
