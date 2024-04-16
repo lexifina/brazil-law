@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGR AVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. PLEITO PELA DESCLASSIFICAÇÃO DO CRIME PARA A CONDUTA PREVISTA NO ART. 28 DA LEI N. 11.343/2006 IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES. AUSÊNCIA DE ILEGALIDADE.
+I - Não se conhece de habeas corpus impetrado contra acórdão com trânsito em julgado, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+II - No tocante à pretensão acerca da desclassificação da conduta de tráfico de entorpecentes para a conduta do artigo 28 da Lei n. 11.343/2006, as instâncias originárias consignaram que foi apreendida considerável quantidade de entorpecentes (38 g de cocaína e 4,9 g de maconha) dentro do estabelecimento prisional, a qual, somada aos depoimentos dos policiais penais, apontam para a intenção da agravante de lá comercializar as drogas ilícitas.
+III - O rito do habeas corpus não admite o revolvimento do conjunto fático-probatório.
+III - Não há ilegalidade na exasperação da pena-base, em 06 meses acima da pena mínima, em razão da apreensão de 44 trouxinhas de cocaína pesando, cerca de 38g e de 01 porção de maconha, pesando cerca de 4,90g, mormente quando inseridos os entorpecentes pela paciente no sistema prisional para serem difundidos intramuros.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GLEICE GOMES contra a decisão monocrática que não conheceu do habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Consta dos autos que a agravante foi condenada pelo Juízo da 4ª Vara Criminal da Comarca de Campo Grande, pelo delito do artigo 33, caput, combinado com o artigo 40, III, da Lei 11.343/06, às penas de 7 (sete) anos de reclusão, em regime inicial fechado, e multa pecuniária equivalente a 641 (seiscentos e quarenta e um) dias-multa, nos termos da sentença de fls. 22-29.
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 30-33, já transitado em julgado.
+No presente writ, a defesa requereu a concessão da ordem de modo a absolver a paciente por ausência de provas de autoria delitiva ou reclassificar a sua conduta para aquela capitulada no artigo 28, da Lei 11.343/2006, e, subsidiariamente, revisar a dosimetria da basilar.
+O habeas corpus não foi conhecido (fls. 250-254).
+Nas razões de recorrer, a agravante reitera os argumentos de mérito e defende que há ilegalidade flagrante, passível de ser extirpada pela via estreita do habeas corpus.
+Postula, assim, pela reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento, de modo que seja desclassificada a conduta da paciente para a infração penal do artigo 28 da Lei 11.343/2006 e, subsidiariamente, seja decotado o vetor da natureza e quantidade de drogas, com a consequente redução da pena-base (fls. 260-277).
+É o relatório.
+EMENTA
+AGR AVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. PLEITO PELA DESCLASSIFICAÇÃO DO CRIME PARA A CONDUTA PREVISTA NO ART. 28 DA LEI N. 11.343/2006 IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES. AUSÊNCIA DE ILEGALIDADE.
+I - Não se conhece de habeas corpus impetrado contra acórdão com trânsito em julgado, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+II - No tocante à pretensão acerca da desclassificação da conduta de tráfico de entorpecentes para a conduta do artigo 28 da Lei n. 11.343/2006, as instâncias originárias consignaram que foi apreendida considerável quantidade de entorpecentes (38 g de cocaína e 4,9 g de maconha) dentro do estabelecimento prisional, a qual, somada aos depoimentos dos policiais penais, apontam para a intenção da agravante de lá comercializar as drogas ilícitas.
+III - O rito do habeas corpus não admite o revolvimento do conjunto fático-probatório.
+III - Não há ilegalidade na exasperação da pena-base, em 06 meses acima da pena mínima, em razão da apreensão de 44 trouxinhas de cocaína pesando, cerca de 38g e de 01 porção de maconha, pesando cerca de 4,90g, mormente quando inseridos os entorpecentes pela paciente no sistema prisional para serem difundidos intramuros.
+Agravo regimental desprovido.
+VOTO
+Como relatado, a defesa verbera que há ilegalidade flagrante no acórdão impugnado, consistente na ausência de fundamentação idônea a ensejar a negativa à desclassificação da conduta para aquela capitulada no artigo 28, da Lei 11.343/2006, bem como para, subsidiariamente, ensejar a exasperação a basilar com fulcro na quantidade e na natureza dos entorpecentes.
+O acórdão combatido, ao apreciar a apelação criminal, assim fundamentou (fls. 30-33):
+" ..
+"Aliás, em que pese a apelante ter negado a prática delitiva, trazendo que desconhecia como a droga teria sido localizada em seus pertences pessoais, bem como não se trata de usuária de drogas, fato é que não trouxe qualquer elemento a corroborar a sua negativa de autoria.
+Ademais, as testemunhas Kilvia de Oliveira e Fabiano Manzoni, policiais penais responsáveis pela localização da droga, em juízo, foram uníssonos a narrarem que a droga foi localizada nos pertences pessoais da apelante, sendo que esta teria apresentado resistência à revista após o retorno do trabalho para pernoitar no estabelecimento penal.
+Oportuno destacar que os depoimentos dos policiais penais, quando harmônicos com os demais elementos de prova, são válidos e suficientes para ensejar a condenação, inexistindo fatos concretos que indiquem a intenção dos mesmos em prejudicar a acusada, não havendo motivos para colocar em dúvida a credibilidade de suas declarações.
+Portanto, considerando a quantidade considerável da droga apreendida (38 g de cocaína e 4,9 g de maconha), somada aos depoimentos dos policiais penais, apontam para a intenção da apelante de comercializar o entorpecente apreendido dentro do estabelecimento prisional. Portanto, mister se faz a manutenção da condenação pelo delito de tráfico de drogas, incidindo ainda a majorante do tráfico de drogas cometido em presídio, vez que, repita-se, o entorpecente foi apreendido dentro do estabelecimento penal, local em que seria disseminado pela apelante.
+Alternativamente, buscou a redução da pena-base, que restou fixada nos seguintes termos:
+A acusada não possui outras condenações com trânsito em julgado contra si além da que será considerada como reincidência, logo, devem ser considerados bons os antecedentes (Súmula 444 do STJ). Analisando a fixação da pena à luz do art. 42 da Lei de Drogas, tenho que as circunstâncias e consequências do crime são normais do tipo penal, não constando dos autos elementos para aferir a personalidade e a conduta social da acusada. Entretanto, entendo ser a importância entorpecente apreendida de quantidade considerável (38g de cocaína e 4,90g de maconha), de modo que fixo as penas-bases do delito acima do mínimo legal, ou seja, 05 (cinco) anos e 06 (seis) meses de reclusão e 530 (quinhentos e trinta) dias-multa.
+Observa-se que a pena-base foi fixada em 3 anos e 300 dias-multa acima do mínimo legal, porque as circunstâncias do crime foram julgadas desfavoráveis ao agente.
+Em que pesem os fundamentos contidos nas razões de apelação, as quantidades e diversidade de drogas apreendidas (38 g de cocaína e 4,9 g de maconha),justificam a exasperação da pena-base acima do mínimo legal, nos moldes do art. 42 da Lei nº11.343/06.
+Também, o quantum imposto em 6 meses acima do mínimo legal, mostrou-se proporcional e razoável. Aliás, deve ser destacado que o art. 42 da Lei de Drogas, prescreve que, dentre outras circunstâncias, a grande quantidade de droga, deve ser considerada com preponderância sobre as circunstâncias judiciais do art. 59 do CP.
+Com efeito, a pena-base deve ser mantida em 5 anos e 6 meses de reclusão e ao pagamento de 513 dias-multa."
+ .. ."
+Consoante assinalado na decisão agravada, o writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL já transitado em julgado.
+Diante dessa situação, não foi conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido" (AgRg no HC n. 561.185/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 16/03/2020).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido" (AgRg no HC n. 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019).
+ ..
+No que toca à tese de desclassificação do delito de tráfico de drogas para porte de drogas para o consumo próprio, constato que a Corte local apreciou as provas produzidas sob o crivo do contraditório e da ampla defesa, não apenas de forma aprofundada, mas devidamente fundamentada.
+Da moldura fática do acórdão, verifico que foi apreendida considerável quantidade de entorpecentes (38g de cocaína e 4,9g de maconha) dentro do estabelecimento prisional, a qual, somada aos depoimentos dos policiais penais, apontam para a intenção da agravante de lá comercializar as drogas ilícitas.
+Assim, para que a pretensão deduzida pudesse ser acolhida, seria imprescindível o revolvimento de todo o conjunto fático-probatório, cujo rito do habeas corpus e a jurisprudência do Superior Tribunal de Justiça não admitem.
+Nesse sentido:
+" ..
+1. No caso, o Tribunal de origem, no julgamento do recurso de apelação, após examinar os autos e todos os testemunhos e provas, concluiu que restaram suficientemente comprovadas a autoria e a materialidade dos atos infracionais. Não se verifica, primo oculi, improcedência da representação. Concluir o contrário demandaria o revolvimento fático-probatório, providência incabível na via estreita do habeas corpus, dado o seu rito célere e cognição sumária.
+ ..
+3 . Agravo regimental não provido" (AgRg no HC n. 787.236/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023).
+" ..
+- O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+ ..
+- Agravo regimental não provido" (AgRg no HC n. 782.347/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/11/2022).
+No que toca à exasperação da pena-base em 06 meses acima da pena mínima, patamar inferior ao prudencial de 1/6, não vislumbro ilegalidade flagrante.
+Isso porque a apreensão de 44 trouxinhas de cocaína pesando, cerca de 38g e de 01 porção de maconha, pesando cerca de 4,90g, constitui fundamentação idônea para tanto, obtida a partir de elementos concretamente extraídos dos autos, lembrando que a quantidade e variedade não são ínfimas, mormente quando inseridas pela paciente no sistema prisional para serem difundidas intramuros.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. QUANTIDADE E DIVERSIDADE DAS DROGAS. FUNDAMENTO IDÔNEO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como é cediço, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Em se tratando de crime de tráfico de drogas, como ocorre in casu, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei 11.343/2006
+3. No caso, as instâncias ordinárias, em conformidade com o art. 42 da Lei de Drogas, considerara, a quantidade e a diversidade das drogas apreendidas (129 g de cocaína e 26 g de maconha), para elevar a pena em 1/6 , o que não se mostra desproporcional. Cabe consignar que, com base no princípio do livre convencimento motivado, ainda que valorado um único vetor, considerada sua preponderância, o julgador poderá concluir pela necessidade de exasperação da pena-base em fração superior se considerar expressiva a quantidade da droga, sua diversidade e natureza (art. 42 da Lei n. 11.343/2006) (AgRg no HC 639.783/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 3/8/2021, DJe 6/8/2021).
+4. Agravo regimental não provido" (AgRg no HC n. 875.690/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/2/2024).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. QUANTIDADE E VARIEDADE DE DROGAS. EXASPERAÇÃO DA PENA-BASE EM 1/6 ACIMA DO MÍNIMO LEGAL. DOSIMETRIA DA PENA. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+II - O julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, pois isso está no âmbito da sua discricionariedade, embora ao fazê-lo deva fundamentar com elementos concretos da conduta do acusado.
+III - O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no artigo 59 do Código Penal, a quantidade, natureza e diversidade das substâncias ou dos produtos apreendidos, a personalidade e a conduta social do agente.
+IV - Cabe a este Tribunal apenas o controle de legalidade do critério eleito pela Corte local, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação concreta, não havendo nenhum ajuste a ser feito em relação à dosimetria da pena.
+V - O número de porções embaladas para venda (21 pedras de crack e 6 porções de cocaína) e a natureza da droga (cocaína e crack), além da porção de 51,27g de maconha, levam à conclusão de maior reprovabilidade da conduta em razão da variedade e não seu do seu peso individualmente considerado.
+VI - A exasperação da pena-base em fração prudencial de 1/6, a partir de fundamentação concreta e individualizada, guarda razão de proporcionalidade à conduta do agravante.
+Agravo regimental desprovido" (AgRg no HC n. 872.165/SC, Quinta Turma, de minha relatoria, DJe de 14/2/2024 ).
+Assim, não há nenhuma ilegalidade flagrante ou teratologia que viabilize a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal, devendo a decisão agravada ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
