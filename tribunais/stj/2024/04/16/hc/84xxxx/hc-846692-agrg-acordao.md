@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSO PENAL. AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  INDEFERIMENTO  DE  LIMINAR.  DECISÃO  FUNDAMENTADA.  RECURSO  INCABÍVEL.  AGRAVO  NÃO  CONHECIDO.
+1.  Nos termos do art. 258 do RISTJ, "a parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+2.  O deferimento de liminar exige exame aprofundado dos elementos constantes dos autos, apreciação que se dará devida e oportunamente quando do julgamento final.
+3.  Agravo  regimental  não  conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que indeferiu o pedido de liminar (e-STJ fls. 82-84).
+Inicialmente, o feito se refere a habeas corpus com pedido de liminar impetrado em favor de LAERCIO BAUER em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (HC 0809307-75.2023.8.14.0000).
+O paciente foi preso preventivamente e condenado à pena de 5 anos e 4 meses de reclusão em regime semiaberto, além do pagamento de 174 dias-multa, pela prática dos crimes descritos nos arts. 171, caput, 296, § 1º, e 288 do Código Penal e lhe foi negado o direito de recorrer em liberdade.
+A ordem impetrada na Corte de origem foi indeferida em decisão assim ementada (e-STJ, fls. 54-55):
+HABEAS CORPUS. ART. 171, 296, §1º, E 288 DO CPB. SENTENÇA CONDENATÓRIA. NEGATIVA DE RECORRER EM LIBERDADE. NULIDADE DA SENTENÇA POR VÍCIO INSANÁVEL QUANTO À FORMALIDADE ESSENCIAL RELATIVA À EXPEDIÇÃO DE DOCUMENTO EM LÍNGUA ESTRANGEIRA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ESTREITA DO WRIT. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA SEGREGAÇÃO CAUTELAR. IMPROCEDÊNCIA. GARANTIA DA ORDEM PÚBLICA. REGULAR ANDAMENTO DA INSTRUÇÃO CRIMINAL. GRAVIDADE CONCRETA DO CRIME. MEDIDAS CAUTELARES INSUFICIENTES. INCOMPATIBILIDADE ENTRE O REGIME SEMIABERTO E A PRISÃO CAUTELAR. IMPROCEDÊNCIA. PRECEDENTES DO STJ. ORDEM PARCIALMENTE CONHECIDA E DENEGADA. DECISÃO UNÂNIME.
+1. As alegações de nulidade da sentença por vício insanável quanto à formalidade essencial relativa à expedição de documento em língua estrangeira, e de não comprovação de autoria por parte do réu, não podem ser conhecidas, pois sua análise demandaria o exame aprofundado de provas, o que, como se sabe, é defeso em sede de Habeas Corpus, devendo ser enfrentadas em sede de apelação criminal, a qual, inclusive, já foi interposta.
+2. Da leitura da r. sentença exarada pelo Juízo a quo, verifica-se que não há qualquer constrangimento ilegal na decisão que negou ao paciente o direito de recorrer em liberdade, uma vez que, por ocasião de sua prolação, estavam presentes os requisitos ensejadores da decretação de sua custódia cautelar, não só em face da gravidade concreta do delito, em razão do modus operandi e de sua natureza, como também para o regular andamento da instrução criminal, eis que, conforme asseverado pelo magistrado a quo, "os crimes praticados pelos sentenciados ocorreram na internet, com a forte possibilidade de terem alcançado inúmeras pessoas, sendo necessário proteger a ordem pública. Além disso, há evidente conduta reiterada, pois, há informações de que as autoridades policiais por várias vezes conseguiram derrubar o site de leilão falso, surgindo com outro nome e em outra localidade."
+3. Insuficiente a aplicação de medidas cautelares diversas, até porque, no que diz respeito às qualidades pessoais do paciente, verifica-se que elas, por si sós, não são suficientes para a devolução de sua liberdade. Enunciado Sumular nº 08 do TJ/PA.4. A jurisprudência majoritária pátria converge no sentido de que a fixação, na sentença, do regime semiaberto para o cumprimento da pena, não é capaz, por si só, de autorizar que o réu recorra em liberdade, quando presentes os motivos que autorizam a sua custódia. Precedentes do STJ.5. ORDEM DENEGADA à unanimidade, nos termos do voto da Desembargadora Relatora.
+A liminar foi indeferida, nesta Corte, pelo então relator Min. João Batista Moreira (Desembargador convocado do TRF1), por entender que as alegações deduzidas confundiam-se com o próprio mérito da impetração (e-STJ, fls. 82-84).
+Contra a decisão que indeferiu a Liminar foi interposto o presente Agravo Regimental (e-STJ, fls. 120-126), requerendo que fosse reformada "decisão agravada, concedendo-se a medida liminar no sentido de se suspender os efeitos do mandado de prisão expedido, em virtude da flagrante ilegalidade e incompatibilidade da prisão preventiva com o regime semiaberto, ainda que mediante a fixação de medidas cautelares diversas da prisão".
+Parecer do Ministério Público Federal (e-STJ, fls. 137), pelo não conhecimento do writ, mas pela concessão de ordem de ofício para que o agravante aguardasse o julgamento do recurso pendente em estabelecimento compatível com o regime semiaberto.
+Requerimento da defesa do agravante para a inclusão do feito em sessão presencial (e-STJ, fl. 190).
+Alega o agravante: a) "a ilegalidade é flagrante e pode ser constatada de forma objetiva, haja vista a incompatibilidade do regime inicial semiaberto com a prisão preventiva decretada" (e-STJ fl. 122); b) possibilidade de substituição da prisão ante tempus por medidas cautelares diversas; e c) condições pessoais favoráveis.
+Requer provimento do agravo para que seja reformada a decisão que negou a liminar para revogar a prisão preventiva do paciente.
+Sem contrarrazões (e-STJ fls. 185-186).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  INDEFERIMENTO  DE  LIMINAR.  DECISÃO  FUNDAMENTADA.  RECURSO  INCABÍVEL.  AGRAVO  NÃO  CONHECIDO.
+1.  Nos termos do art. 258 do RISTJ, "a parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+2.  O deferimento de liminar exige exame aprofundado dos elementos constantes dos autos, apreciação que se dará devida e oportunamente quando do julgamento final.
+3.  Agravo  regimental  não  conhecido.
+VOTO
+O recurso é manifestamente incabível diante da vedação contida no art. 258 do Regimento Interno do Superior Tribunal de Justiça, posto tratar de agravo regimental interposto contra decisão que negou a liminar em sede de habeas corpus.
+Nos termos do citado dispositivo, "a parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DO PEDIDO LIMINAR. DESCABIMENTO DA INSURGÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Com efeito, é iterativa a jurisprudência desta Corte Superior de que não cabe agravo regimental contra decisão proferida em habeas corpus que, fundamentadamente defere ou indefere o pedido liminar.
+II - No caso, considerando as alegações expostas na inicial, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora. Ademais, observa-se que a pretensão se confunde com o mérito, motivo pelo qual ela deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Agravo regimental não conhecido.
+(AgRg no HC n. 848.812/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/9/2023, DJe de 12/9/2023.) Grifo acrescido.
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERE PEDIDO LIMINAR EM HABEAS CORPUS. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+1. Nos termos da orientação sedimenta da por esta Corte, é incabível agravo regimental contra decisão que, fundamentadamente, concede ou rejeita pedido de liminar em habeas corpus.
+2. Agravo regimental não conhecido.
+(AgRg no HC n. 848.357/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/10/2023, DJe de 19/10/2023.) Grifo acrescido.
+Outrossim, o deferimento da ordem exige exame aprofundado dos elementos constantes dos autos, que se dará devida e oportunamente quando do julgamento do mérito do writ.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
