@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS - contra a decisão da Presidência desta Corte Superior que não conheceu do agravo em recurso especial, em virtude da ausência de impugnação específica ao fundamento da decisão agravada (e-STJ, fls. 718-720).
+Nas razões do agravo interno, a agravante alega, em síntese, que houve a impugnação específica da Súmula n. 211/STJ, tendo demonstrado que foram devidamente prequestionadas as violações aos dispositivos elencados.
+Impugnação não apresentada (e-STJ, fl. 739).
+Brevemente relatado, decido.
+Tendo por plausíveis as alegações trazidas pela agravante no agravo interno, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão monocrática outrora proferida (e-STJ, fls. 718-720), conheço do agravo e passo ao exame do recurso especial interposto.
+Ora, nas razões do recurso especial, a recorrente alegou a ofensa ao art. 6º, §1º, da Lei Complementar n. 108/2001, e aos arts. 1º e 21, ambos da Lei Complementar n. 109/2001, sustentando, em síntese, que "não é possível ao recorrido valer-se de sua reserva de poupança para compensar o empréstimo que ele contraiu com a recorrente", justamente por ainda não ter implementado a condição para sua percepção, qual seja, o desligamento da patrocinadora" (e-STJ, fl. 655).
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 596-598; sem grifo no original):
+O presente recurso visa reexaminar a sentença que condenou o recorrido, empregado da Petrobras, a pagar à Fundação Petrobras de Seguridade Social - PETROS a quantia de R$ 6.310,03 (seis mil e trezentos e dez reais e três centavos), oriunda de contratos de empréstimos de nº. 673206 e 693718,bem como, em sede de reconvenção, determinou a compensação da dívida com crédito que o apelado possui, mas está na posse da PETROS.  ..
+Ora, a PETROS por duas vezes concordou com os termos propostos pelo recorrido na reconvenção e, a meu ver, não há como a apelante no seu recurso almejar alteração de algo com o qual anuiu no Juízo a quo, tendo em vista a configuração da preclusão lógica, evidenciando, portanto, a falta de interesse recursal.  ..
+Enfim, pelos argumentos postos, acolho a preliminar de não conhecimento do recurso de apelação cível, por ausência de interesse recursal, ficando prejudicada a apreciação das demais teses recursais.
+Com efeito, vislumbra-se que a irresignação da agravante não merece prosperar, haja vista que não houve a manifestação do Colegiado estadual acerca do art. 6º, §1º, da Lei Complementar n. 108/2001, e dos arts. 1º e 21, ambos da Lei Complementar n. 109/2001, tidos por violados, mesmo após a interposição de embargos declaratórios (e-STJ, fls. 607-616).
+Desse modo, verifica-se a incidência, na espécie, da Súmula n. 211/STJ, ante a falta do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao conhecimento recursal tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+Convém assinalar, por oportuno, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscite a violação ao art. 1.022 do mesmo diploma e a afronta ao citado dispositivo for reconhecida por este Tribunal Superior, o que não ocorreu no caso dos autos.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RITO ORDINÁRIO. ANULAÇÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. INOVAÇÃO RECURSAL. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N.º 211 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento (Súmula n.º 211 do STJ), admitindo-se o prequestionamento ficto somente na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.039.821/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Assim, melhor sorte não socorre à agravante.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, mediante juízo de retratação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. AÇÃO MONITÓRIA. COMPENSAÇÃO DE CRÉDITO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, EM JUÍZO DE RETRATAÇÃO.
