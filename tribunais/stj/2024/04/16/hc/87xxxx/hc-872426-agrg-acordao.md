@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT IMPETRADO MAIS DE CINCO ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO TEMPORAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - "A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+II - O presente writ foi impetrado mais de 05 anos após o trânsito em julgado da condenação, de modo que o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+III - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EBERSON DA SILVA PEREIRA contra a decisão monocrática que indeferiu liminarmente o habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento da revisão criminal n. 0014595-04.2023.8.26.0000.
+Consta dos autos que o agravante foi condenado pelo Juízo da 5ª Vara Criminal da Comarca de São José do Rio Preto às penas de 11 (onze) anos e 08 (oito) meses de reclusão, em regime inicial fechado, por incursão no artigo 33, caput, c/c artigo 40, V, da Lei n. 11.343/2006, nos termos da sentença de fls. 23-48.
+Interposta apelação criminal pela defesa, o Tribunal de origem deu parcial provimento ao recurso, para reduzir as penas para 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão, no regime inicial fechado, e pagamento de 777 (setecentos e setenta e sete) dias-multa, mantidos os demais termos da condenação, consoante o acórdão de fls. 49-59, julgado em 09 de abril de 2018.
+Operado o trânsito em julgado em 18 de agosto de 2018 (folha 07), a defesa propôs, em 18 de abril de 2023, revisão criminal perante a Corte local, que a indeferiu, nos temos do acórdão de fls. 60-67, com trânsito em julgado em 21 de novembro de 2023 para a acusação e em 26 de outubro de 2023 para a defesa.
+No presente writ, a defesa requereu a concessão da ordem de modo que a pena-base fosse conduzida ao mínimo legal, assim como, na terceira fase da dosimetria, fosse aplicada a causa especial de diminuição de pena do parágrafo 4º do artigo 33 da Lei 11.343/2006, com o consequente redimensionamento das penas.
+O habeas corpus foi indeferido liminarmente (fls. 71-74).
+Instrumento de mandato juntado aos autos (fls. 97-99).
+Nas razões de recorrer, o agravante reitera os argumentos de mérito e defende que há ilegalidade flagrante, passível de ser extirpada pela via estreita do habeas corpus.
+Postula, assim, pela reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu conhecimento e total provimento, de modo que a pena-base seja conduzida ao mínimo legal, assim como na terceira fase da dosimetria seja aplicada a causa especial de diminuição de pena do parágrafo 4º do artigo 33 da Lei n. 11.343/2006, com o consequente redimensionamento das penas (fls. 79-87).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT IMPETRADO MAIS DE CINCO ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO TEMPORAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - "A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+II - O presente writ foi impetrado mais de 05 anos após o trânsito em julgado da condenação, de modo que o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+III - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+VOTO
+Como relatado, a defesa sustenta que não há óbice à análise do mérito, em razão da existência de ilegalidade flagrante, consistente na negativa à fixação da pena-base no patamar mínimo legal, bem como a negativa ao reconhecimento da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/2006, despidas de fundamentação idônea.
+Consoante assinalado na decisão agravada, o acórdão combatido (fls. 60-67) indeferiu a revisão criminal, proposta mais de 05 anos após o trânsito em julgado da ação penal n. 0005815-16.2012.8.26.0306.
+Conforme relatado à folha 07, o trânsito em julgado do acórdão (fls. 49-59), que enfrentou a apelação criminal interposta pela defesa, ocorreu em 18 de agosto de 2018.
+O presente writ foi impetrado somente em 24 de novembro de 2023 (folha 01), isto é, mais de 05 anos após o trânsito em julgado da condenação.
+Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria , devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO. RECONHECIMENTO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos.
+2. "Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta. Na hipótese em exame, a sentença atacada no Tribunal de origem por meio do mandamus originário transitou em julgado em 21 de agosto de 2017, sem que a defesa tenha interposto apelação, recurso apropriado, nos termos do art. 416 do CPP, vindo o recorrente, após passados 3 anos, alegar a ocorrência de constrangimento ilegal" (RHC 97.329/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+3. Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica. Precedentes.
+4. Agravo regimental desprovido" (AgRg no HC n. 713. 708/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 04/04/2022).
+Nada obstante, não há no acórdão combatido nenhuma ilegalidade flagrante que autorize a concessão da ordem nos termos do artigo 654, parágrafo 2º, do Código de Processo Penal, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
