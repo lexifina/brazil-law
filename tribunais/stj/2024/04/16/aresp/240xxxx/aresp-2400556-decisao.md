@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo de DANILO VIEIRA DE SOUSA NEPOMUCENO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS - TJ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a, da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 0719927-56.2021.8.07.0016.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 160 do Código Penal Militar - CPM, à pena de 3 meses de detenção, em regime aberto (fls. 364/366).
+Recursos de apelação interpostos pela defesa e acusação foram conhecidos e desprovidos (fl. 457). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. PENAL MILITAR. DIFAMAÇÃO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA INJÚRIA. NÃO CABIMENTO. DESRESPEITO A SUPERIOR. CRIME CONFIGURADO.
+1. Inexistindo imputação de fato ofensivo à reputação de alguém, não está configurado o crime de difamação previsto no art. 215 do Código Penal Militar.
+2. As falas do acusado que, em tese, ofenderiam a honra subjetiva da vítima confundem-se com a imputação de desrespeito a superior, não devendo o mesmo fato ser objeto de dupla imputação delitiva. Assim, apesar de ser possível a emendatio libelli, esta não é cabível no presente caso, não devendo o crime de difamação ser desclassificado para o crime de injúria (art. 216 do CPM).
+3. O crime de desrespeito a superior (art. 160 do CPM) é configurado por palavras ou gestos que consistam em falta de consideração em relação ao superior, sendo necessário o seu cometimento na presença de outro militar. O referido tipo penal visa à tutela da disciplina e da hierarquia, que configuram a base institucional da Polícia Militar e devem ser mantidas em todas as circunstâncias pelos policiais militares em atividade ou na inatividade (art. 13, § 3º, do Estatuto da PM - Lei nº 7.289/84).
+4. O fato de os militares se encontrarem fora do ambiente militar é irrelevante, pois o respeito aos pilares básicos da hierarquia e da disciplina não é a ele restrito. Assim, o fato de as falas do acusado terem sido proferidas em um grupo de WhatsApp, de caráter supostamente informal, não impede a configuração do delito.
+5. As falas objeto da denúncia indicam uma postura hostil e desafiadora do acusado, que as proferiu com o intuito de enfrentar e menosprezar seu superior. Ademais, tendo o acusado continuado com as falas mesmo após o pedido da vítima de que as cessasse, fica evidente o dolo do acusado de desrespeitar seu superior hierárquico diante de outros militares.
+6. Recursos conhecidos e desprovidos" (fls. 444/445).
+Em sede de recurso especial (fls. 468/473), a defesa aponta violação ao art. 160 do Código Penal Militar - CPM, sustentando a impossibilidade de subsunção dos fatos ao tipo inscrito no mencionado dispositivo legal.
+Afirma que os dizeres que teriam sido proferidos pelo recorrente se deram em grupo de whatsapp, ambiente virtual caracterizado pela informalidade e descontração, em que os tratamentos, disciplina e hierarquia característicos da caserna eram dispensados e brincadeiras ocorriam com frequência. Salienta, ainda, que não eram vistas ou consideradas as graduações dos integrantes do grupo em questão.
+Conclui que a conduta praticada pelo recorrente não encontra subsunção possível ao referido tipo, seja pelas circunstâncias em que proferidos os dizeres, seja pela ausência de dolo.
+Requer seja provido o recurso especial para absolver o recorrente.
+Contrarrazões do MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS - MP (fls. 480/482).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 485/486).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 487/490).
+Contraminuta do Ministério Público (fl. 497).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo conhecimento e não provimento do agravo em recurso especial (fls. 514/516).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Acerca da suposta violação ao art. 160 do Código Penal Miliar - CPM, o TJ manteve a condenação do recorrente nos seguintes termos do voto do relator:
+"O apelante requer a reforma da sentença, a fim de que haja absolvição em relação ao crime do art. 160 do CPM, em cujo caput consta "Desrespeitar superior diante de outro militar".
+O referido crime é configurado por palavras ou gestos que consistam em falta de consideração em relação ao superior, sendo necessário o seu cometimento na presença de outro militar.
+O referido tipo penal visa à tutela da disciplina e da hierarquia, que configuram a base institucional da Polícia Militar e devem ser mantidas em todas as circunstâncias pelos policiais militares em atividade ou na inatividade (art. 13, § 3º, do Estatuto da PM - Lei nº 7.289/84).
+O fato de os militares se encontrarem fora do ambiente militar é irrelevante, pois o respeito aos pilares básicos da hierarquia e da disciplina não é a ele restrito.
+ ..
+Assim, o fato de as falas do acusado terem sido proferidas em um grupo de Whatsapp, de caráter supostamente informal, não impede a configuração do delito. No grupo de conversas do aplicativo, o fato de serem permitidas brincadeiras não poderia ser interpretado como um permissivo ao proferimento de falas de cunho desrespeitoso, mormente se dirigidas a superior hierárquico, diante de outros membros do grupo, também militares.
+Ademais, no referido grupo - composto exclusivamente por policiais militares do 15º BPM - também eram tratadas questões de trabalho, conforme afirmado pela vítima e por várias das testemunhas.
+A percepção das testemunhas acerca do teor ofensivo das mensagens é irrelevante. No entanto, verifica-se que a maioria delas afirma que as falas extrapolaram o tom de brincadeira normalmente admitido no grupo.
+Verifica-se que as falas - "Continua chamando os caras de covarde que vai vim até a PF"; "Não consegue segurar a língua. Acha que é famosão; "Na cama fazendo massagem nos caras é fácil pagar sapo"; "Para de arrotar Aqui. Bota a Farda e vem pra rua"; "Bota a farda, vem pra rua e sai dessa tua bolha de melindre."
+(SIC) - indicam uma postura hostil e desafiadora do acusado, que proferiu as referidas palavras com o intuito de enfrentar e menosprezar seu superior, que se sentiu desmoralizado perante seus pares e com a capacidade de comando da tropa prejudicada.
+Por fim, está evidente a intenção do acusado de desrespeitar seu superior hierárquico diante de outros militares, pois continuou com as falas mesmo após o pedido da vítima de que as cessasse.
+ ..
+Em conclusão, em virtude de as provas dos autos indicarem que o réu agiu com a intenção de desrespeitar seu superior hierárquico diante de outros militares, está configurado o tipo penal previsto no art. 160 do CPM, não havendo se falar em absolvição." (fls. 449/450)
+Extrai-se dos trechos acima que o Tribunal de origem, a partir da análise do acervo fático-probatório produzido nos autos, concluiu que, "em virtude de as provas dos autos indicarem que o réu agiu com a intenção de desrespeitar seu superior hierárquico diante de outros militares, está configurado o tipo penal previsto no art. 160 do CPM" (fl. 450), de modo que a pretensão recursal que objetiva a absolvição do acusado demandaria a ampla reanálise da moldura fática delineada nos autos, o que é vedado nesta via, conforme preconizado na Súmula n. 7 do Superior Tribunal de Justiça, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO MILITAR. ART. 303, CAPUT, DO CÓDIGO PENAL MILITAR, C.C. ART. 16 DO CÓDIGO PENAL. CONDENAÇÃO MANTIDA PELO TRIBUNAL RECORRIDO. PRETENSA ABSOLVIÇÃO PELO ART. 439, ALÍNEAS B E E, DO CÓDIGO DE PROCESSO PENAL MILITAR. AUSÊNCIA DE DOLO E FRAGILIDADE DO ACERVO PROBATÓRIO. INVERSÃO DO JULGADO. SÚMULA N.º 7/STJ. ATIPICIDADE MATERIAL DA CONDUTA DENUNCIADA. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA N.º 599/STJ. AFRONTA À OBJETIVIDADE JURÍDICA TUTELADA PELA NORMA. ÂMBITO MILITAR. AGRAVO REGIMENTAL DESPROVIDO.
+1. Acerca do pedido absolutório, as instâncias ordinárias, após exauriente reexame do delineamento fático e probatório coligido aos autos no carrear da instrução criminal, concluíram pela existência de elementos suficientes a fundamentar o decreto condenatório, inclusive no tocante à presença do elemento subjetivo do tipo, na forma do art. 303, caput, do Código Penal Militar.
+2. A desconstituição do julgado, por suposta negativa de vigência ao art. 439, alíneas b e e, do Código de Processo Penal Militar, não encontra guarida na via eleita, visto que seria necessário a esta Corte o revolvimento do contexto fático-probatório, providência incabível, conforme inteligência do enunciado n.º 7 da Súmula do STJ.
+3. Segundo entendimento sufragado pelo Superior Tribunal de Justiça, cristalizado na Súmula n.º 599/STJ, o "princípio da insignificância é inaplicável aos crimes contra a administração pública", sobretudo quando perpetrados no âmbito da Administração Castrense, cujos valores institucionais e o próprio funcionamento estão alicerçados aos rigores da disciplina, da hierarquia, da ordem e da moralidade administrativa. Nesse panorama, deflui-se que a alegação de atipicidade material da conduta denunciada, predicada pelo desvio temporário e não volitivo de produtos alimentícios avaliados na monta de R$250,00 (duzentos e cinquenta reais), não possui ressonância à jurisprudência desta Corte.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.450.696/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2019, DJe de 17/9/2019.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ARTIGO 163 DO CÓDIGO PENAL MILITAR. ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para alterar a conclusão a que chegaram as instâncias ordinárias, concluir pela ausência de dolo na conduta do agravante e decidir pela sua absolvição, demandaria, invariavelmente, o revolvimento do suporte fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 1.239.850/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/5/2018, DJe de 23/5/2018.)
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 3º do CPP, não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
