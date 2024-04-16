@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AGRAVO RETIDO. DECISÃO QUE INVERTEU O ÔNUS DA PROVA POR CONTA DA APLICAÇÃO DAS DISPOSIÇÕES CONSUMERISTAS. IRRESIGNAÇÃO MOTIVADA EM PRELIMINAR NO APELO. EXEGESE DO ART. 522, § 1º, DO CPC/1973. CONHECIMENTO POR FORÇA DA PARTE FINAL DO ART. 14 DO NOVEL CÓDIGO PROCESSUAL CIVIL. COOPERATIVA NO EXERCÍCIO DE ATIVIDADES BANCÁRIAS QUE SE EQUIPARA A INSTITUIÇÃO FINANCEIRA. INCIDÊNCIA DA SÚMULA 297 DO STJ. AGRAVO DESPROVIDO.
+SENTENÇA ULTRA PETITA. PEDIDO DE NULIDADE. DELIBERAÇÃO NA SENTENÇA SOBRE CORREÇÃO MONETÁRIA. ARGUIÇÃO DE NÃO ABORDAGEM NOS PEDIDOS. MATÉRIA COGENTE. ANÁLISE QUE INDEPENDE DE PEDIDO. PREFACIAL RECHAÇADA.
+MULTIPLICIDADE DE CHEQUES DEPOSITADOS PARA COMPENSAÇÃO. TÍTULOS EXECUTIVOS EXTRAJUDICIAIS. DEVOLUÇÃO DESPROVIDA DE CARIMBO NO VERSO INFORMANDO A MOTIVAÇÃO. VIOLAÇÃO AO ART. 38 DA CIRCULAR N. 3532 DO BACEN. ATO OMISSO QUE DESENCADEOU IMPOSSIBILIDADE DE PROTESTO DOS TÍTULOS E INTERPOSIÇÃO DE DEMANDA EXECUTIVA. PRECEDENTES JURISPRUDENCIAIS. ATO LESIVO A GERAR RESPONSABILIZAÇÃO. CONDENAÇÃO EM DANO MATERIAL MANTIDA. DANO MORAL. DEVOLUÇÃO INDEVIDA DOS CHEQUES. IMPOSSIBILIDADE TEMPORÁRIA DE ADIMPLEMENTO DO DÉBITO POR ATO DA RECORRENTE. ABALO PRESUMIDO. PEDIDO DERECONHECIMENTO DE CULPA CONCORRENTE. MATÉRIA NÃO SUSCITADA NO PRIMEIRO GRAU. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO NO PONTO. CONSECTÁRIOS LEGAIS. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E DOS JUROS DE MORA A CONTAR DA SENTENÇA. IMPOSSIBILIDADE. APLICAÇÃO DO TEMA 942 E DA SUMULA 54 E 362, TODAS DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA. APELO PARCIALMENTE CONHECIDO E DESPROVIDO"
+Opostos embargos de declaração, foram rejeitados.
+A parte aponta violação ao art. 1.022 Código de Processo Civil sustentando negativa de prestação jurisdicional.
+Sem contrarrazões.
+Juízo de admissibilidade proferido às fls. 398/399 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que tange à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil, sob o fundamento de que houve omissão do acórdão recorrido, vejo que não prospera seu recurso, pois não vejo deficiência de fundamentação alguma do acórdão recorrido quanto às matérias postas pela parte agravante.
+O acórdão abordou as questões apresentadas pela parte de forma suficiente a formar e demonstrar seu convencimento, de modo que não houve qualquer violação ao dispositivo do art. 1.022, II, CPC, tendo sido claro ao dispor que o procedimento adotado pelo agravante, de omitir a informação do motivo da devolução dos cheques, ocasionou prejuízos à parte agravada.
+Ademais, mesmo que o acórdão não tenha rebatido cada um dos argumentos de forma individualizada - como a parte agravante gostaria -, não há violação ao art. 1022, CPC/15 e, assim, deficiência de fundamentação, se o que se prolatou foi o suficiente para decidir de modo integral a controvérsia.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
