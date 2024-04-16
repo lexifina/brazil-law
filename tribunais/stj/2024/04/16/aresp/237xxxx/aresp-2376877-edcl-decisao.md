@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIZ CARLOS DE OLIVEIRA à decisão de fls. 256/257, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Porém, temos que o pagamento fora realizado em guia incorreta. Em ato contínuo o Tribunal "a quo" oportunizou o recolhimento em guia própria no prazo de 5 (cinco) dias
+ ..
+A publicação do r. despacho foi publicado no dia 12/09/2022, portanto, temos que o prazo vencia em 19/09/2022 dia em houve o recolhimento, conforme consta abaixo: (fl. 260).
+ ..
+Prazo para recolhimento 19/09/2022, assim, o documento de fls. e- STJ 235/237, comprova que o recolhimento se deu dentro do prazo por esse motivo é contraditória a decisão ora embargada (fl. 261).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista pedido de gratuidade de justiça.
+Contudo, o tribunal de origem entendeu que a hipossuficiência não restou comprovada pelos documentos anteriormente juntados e indeferiu o pedido, determinando que a parte recolhesse as custas, nos termos do despacho de fl. 226.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que apresentou o recolhimento em guia errada, referente à Secretaria da Fazenda e Planejamento do Estado de São Paulo (fls. 230/231).
+Novamente intimada no Tribunal de origem (fl. 232), não houve a devida regularização, tendo em vista que a parte apresentou guia de recolhimento preenchida equivocadamente no que se refere ao "Número do Processo que Consta no Acórdão Recorrido" (fl. 236), bem como comprovante de pagamento incompleto, onde não consta a sequência numé rica do código de barras (fl. 237).
+Desse modo, veja-se que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, nos processos recursais, o campo "Número do Processo que consta no Acórdão Recorrido" da GRU deverá ser preenchido com o número do processo no Tribunal de origem.
+No caso, a parte fez a indicação errônea desse número na guia de recolhimento das custas devidas ao STJ.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no REsp 1587322/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 28/11/2019; AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019; e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+Ademais, no que se refere ao comprovante de pagamento incompleto, o Superior Tribunal de Justiça "consolidou o entendimento de que os recursos dirigidos a esta Corte  ..  devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção". (AgInt no AREsp n. 953.081/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24/10/2016.
+Dessa forma, "não se conhece do recurso especial instruído com o comprovante de pagamento das custas processuais ilegível, pois impossível aferir a regularidade do preparo". (AgInt no AREsp n. 927.009/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 3/10/2016.)
+É também entendimento deste STJ que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Outrossim, registre-se que, de acordo com a jurisprudência desta Corte, é ônus da parte, que fizer uso do meio eletrônico, a responsabilidade pela transmissão correta dos documentos, cabendo-lhe fiscalizar o seu regular envio, não sendo possível a regularização posterior. Nesse sentido: AgInt nos EDcl no AREsp 1545561/SP, relator, Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020; AgInt no AREsp 1365437/SP, relator Ministro Marco Buzzi, Quarta Turma, Dje de 01/03/2019; AgInt no AREsp 1353879/PR, 29/04/2019; AgInt no AREsp 493.560/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 28/11/2018.
+Por todo o exposto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
