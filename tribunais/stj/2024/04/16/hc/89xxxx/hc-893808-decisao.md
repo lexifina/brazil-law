@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARIO DA SILVA JUNIOR no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 0007115-17.2024.8.16.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente, pela suposta prática do delito tipificado no art. 16 da Lei n. 10.826/2003 (e-STJ fls. 15/21).
+Impetrado habeas corpus com pedido liminar na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 22):
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGODE USO RESTRITO LEI Nº 10.826/03, ART. 16). PEDIDO DE CONCESSÃO DE PRISÃO DOMICILIAR, EM RAZÃO DO ESTADO DE SAÚDE DO PACIENTE. QUESTÃO NÃO ANALISADA PELO JUÍZO "A QUO". IMPOSSIBILIDADE DE APRECIAÇÃO POR ESTA CORTE, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. NÃO ADMISSÃO DO NESSE WRIT TOCANTE. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. CUSTÓDIA CAUTELAR FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA (ART. 312 DO CPP) E NA POSSIBILIDADE DE RECIDIVA. PACIENTE PRESO EM FLAGRANTE PORTANDO UMA PISTOLA .40, MUNICIADA, UM CARREGADOR COM 10 MUNIÇÕES, CONTABILIZANDO 21 MUNIÇÕES INTACTAS, EM ATO PREPARATÓRIO PARA A PRÁTICA DE NOVOS CRIMES. CONDIÇÕES PESSOAIS FAVORÁVEIS, POR SI SÓS, NÃO IMPEDEM A DECRETAÇÃO DA PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM PARCIALMENTE ADMITIDA E DENEGADA.
+Neste writ, a defesa alega ausência de fundamentação para a decretação e a manutenção da custódia.
+Ressalta que, no caso, não se encontram presentes os requisitos autorizadores da prisão, nos termos do art. 312 do CPP.
+Destaca as condições pessoais favoráveis do acusado, especialmente quanto aos antecedentes do paciente, e assere ser suficiente a aplicação de outras medidas cautelares, consoante o previsto no art. 319 do citado diploma processual.
+Aduz, ainda, a violação ao princípio da homogeneidade, visto que a pena máxima prevista para o delito de porte ilegal de arma de fogo é de 6 anos e, como o paciente é primário e possui bons antecedentes, caso venha a ser condenado, o regime prisional seria, no máximo, o semiaberto (e-STJ fl. 12).
+Por fim, alega que a saúde do acusado está debilitada, pois "recentemente sofreu um acidente  em razão  do qual foi necessária a colocação de pinos" (e-STJ fl. 12).
+Dessa forma, requer a revogação da prisão, ainda que mediante a imposição de medidas alternativas, com a expedição do competente alvará de soltura.
+Liminar indeferida (e-STJ fls. 64/65).
+Informações prestadas (e-STJ fls. 71/76 e 77/99).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 104/115).
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 18/19):
+A respeito da possibilidade de recidiva, aqui entendida como risco real e concreto de cometimento de novas infrações penais, acha-se evidente no caso em apreço, na medida em que o Flagranteado foi abordado pelos agentes policiais durante possíveis atos preparatórios de crimes de homicídio, consoante por si declarado à Autoridade Policial (mov. 1.13), corroborando denúncia anônima recebida pelos agentes policiais militares. Não obstante, o delito também se reveste de gravidade concreta, uma vez que consigo foram encontradas 21 munições calibre .40, alocadas em dois carregadores com 11 munições cada, e um pistola daquele mesmo calibre, em relação aos quais não possui, em tese, autorização do Poder Público para portar, revelando assim alto risco à incolumidade pública. Ou seja, a liberdade do Flagranteado representa risco à ordem pública por acentuada probabilidade de prática de novos crimes, uma vez que manifestou intenção de praticar homicídios na cidade de Assis Chateaubriand/PR, sendo abordado pelos agentes policiais em via pública quando portava arma de fogo e elevada quantidade de munições sem autorização para tanto.
+Ora, na medida em que existente o perigo à sociedade e à aplicação da Lei na liberdade irrestrita do Flagranteado, consoante acima fundamentado, mister cotejar as medidas cautelares dispostas na legislação a fim de que, sem quebrantamento das garantias constitucionais das quais é titular, seja fixada entre as tais a mais efetiva. (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, que foi surpreendido pelos policiais em via pública, portando pistola calibre .40 municiada, 2 carregadores com 11 munições cada e 21 munições calibre .40, sem autorização, em ato preparatório para a prática de novos crimes, já que havia manifestado intenção de praticar homicídios na cidade de Assis Chateaubriand/PR.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta e demonstram a necessidade da manutenção da segregação cautelar como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PERICULOSIDADE INDICADA PELA NATUREZA DAS ARMAS APREENDIDAS, A QUANTIDADE DE MUNIÇÕES ENCONTRADAS E O FATO DE O IMPUTADO CONSTAR COMO INVESTIGADO EM OUTRO PROCEDIMENTO POR CRIMES GRAVES (TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal decorrente da decisão que decretou a prisão preventiva do acusado.
+2. Hipótese em que o Magistrado singular indicou elementos concretos que denotam a periculosidade concreta do investigado, evidenciada pelo fato de que o imputado não só guardava em sua residência 1 (uma) pistola Glock 9mm, municiada, modificada com adição de seletor para disparos por rajada, (dois) carregadores de arma de fogo e 56 munições 9mm (fl. 168), como remunerava outro investigado para que guardasse 1 (uma) pistola 9mm Taurus; b) 2 (dois) carregadores; c) 36 (trinta e seis) munições 9mm; d) 4 munições .38 (fl. 168), além de constar como investigado em inquérito policial que apura a prática dos crimes de tráfico de drogas, associação para o mesmo fim e participação em organização criminosa.
+3. Agravo regimental improvido. (AgRg no HC n. 862.104/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. VIOLAÇÃO DE DOMICÍLIO. DENÚNCIA ANÔNIMA. DILIGÊNCIAS PRÉVIAS. AUSÊNCIA DE ILEGALIDADE. 2. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE E VARIEDADE DE ENTORPECENTES. MATERIAL BÉLICO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. A prisão preventiva encontra-se idoneamente fundamentada na garantia da ordem pública, haja vista a gravidade concreta do crime, revelada pelas circunstâncias do flagrante.  ..
+- Para além das drogas, foi encontrado considerável material bélico na residência da acusada - três cartuchos de calibre 22, dezesseis munições de calibre 38, uma arma de fogo de calibre 40, um silenciador, três cartuchos de calibre 12, dois carregadores de submetralhadora de calibre 40, vinte cartuchos desse mesmo calibre, uma munição de calibre 32 e seis cartuchos de calibre 9mm.
+3. Agravo regimental a que se nega provimento. (AgRg no RHC n. 181.099/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Confira-se:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Por fim, sobre a alegação de desproporcionalidade da custódia em relação ao regime e à pena que porventura vierem a ser aplicados, cumpre esclarecer que esta Corte tem jurisprudência pacífica quanto à impossibilidade de se realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença.
+Ao ensejo:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. VARIEDADE DE DROGA APREENDIDA. PENA EM PERSPECTIVA. IMPOSSIBILIDADE DE ANÁLISE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+ ..
+3. Não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal (precedentes).
+ ..  (RHC n. 119.600/MG, de minha relatoria, SEXTA TURMA, julgado em 5/5/2020, DJe 11/5/2020.)
+Ante todo o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
