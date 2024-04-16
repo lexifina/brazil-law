@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE BOM REPOUSO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que, em razão de intempestividade, não admitiu recurso especial.
+No presente agravo, a parte defende que o recurso é tempestivo, tendo em vista que "citou expressamente a Resolução n. 458/2004 do Tribunal de Justiça de Minas Gerais, que previu a suspensão dos prazos processuais" nos dias 20, 21 e 22 de fevereiro, em decorrência do feriado de carnaval (e-STJ fl. 427).
+Passo a decidir.
+A decisão agravada não merece retoques.
+Conforme jurisprudência desta Corte, os feriados e suspensões devem ser comprovados por meio de documento idôneo - aí incluídas as informações processuais disponibilizadas por meio da internet, na página eletrônica de Tribunal de Justiça ou de Tribunal Regional Federal, que ostentam natureza oficial (EAREsp 1.927.268/RJ, Relator Ministro RAUL ARAÚJO, Corte Especial, DJe 15/05/2023) -, no momento da interposição do recurso (AgInt nos EDcl no AREsp 1.419.338/SP, rel. Ministro Francisco Falcão, Segunda Turma, julgado em 1º/10/2019, Dje dee 03/10/2019; AgRg nos EDcl no REsp 1.819.067/SC, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/08/2019, Dje de 05/09/2019; AgInt no AREsp 1.158.537/SP, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 08/08/2018; AgInt nos EDcl no AREsp 1.421.854/RJ, rel. Ministro Marco Buzzi, Quarta Turma, DJe de 03/06/2019), o que não ocorreu no caso concreto.
+Além disso, a mera citação do ato normativo nas razões do agravo em recurso especial não supre a necessidade da juntada de documento oficial idôneo.
+A esse respeito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZOS NO TRIBUNAL LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTS. 1.003, § 6º, E 1.029, § 3º, DO CPC. ATESTADO MÉDICO. ENFERMIDADE DO ÚNICO PATRONO. AUSÊNCIA DE COMPROVAÇÃO. PRECEDENTES DO STJ.
+1. Considerando que o agravo em recurso especial foi interposto sob a égide do CPC e que não houve a comprovação da suspensão dos prazos no Tribunal local, quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+2. A mera citação do ato normativo nas razões do agravo em recurso especial não supre a necessidade da juntada de documento oficial idôneo. Precedentes.
+3. O pedido de devolução do prazo por motivo de doença do único patrono constituído depende da demonstração de justa causa relativa à impossibilidade total do exercício da profissão ou de substabelecer o mandato.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.336.298/RO, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Convém assinalar, por fim, que a Corte Especial do STJ, no julgamento do REsp 1.813.684/SP (DJe de 18/11/2019), reafirmou o entendimento segundo o qual é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso.
+Contudo, decidiu-se modular os efeitos da decisão, de modo que a tese firmada seja aplicada tão somente aos recursos interpostos após a publicação do acórdão respectivo. Ou seja, apenas para os recursos interpostos anteriormente àquele julgado, deve ser oportunizada à parte recorrente a possibilidade de regularização do pleito recursal (no toca apenas ao feriado de segunda-feira de carnaval), o que não é a hipótese dos presentes autos, visto que interposto o apelo raro em março/2023.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
