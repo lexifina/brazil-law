@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ITAÚ SEGUROS S.A. com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso (e-STJ, fls. 599-600):
+APELAÇÕES CÍVEIS - AÇÃO DE COBRANÇA DE SEGURO - PRELIMINAR CONTRARRECURSAL DA SEGURADORA DE DIALETICIDADE -AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA - OCORRÊNCIA - ILEGITIMIDADE RESPONSABILIDADE SOLIDÁRIA DA EMPRESA SUCESSORA PELOS PASSIVA - DÉBITOS DA EMPRESA CINDIDA - ILEGITIMIDADE ATIVA DOS AUTORES AFASTADA - SEGURO DE VIDA EM GRUPO - ÓBITO SEGURADO DURANTE AVIGÊNCIA DA APÓLICE - NEGATIVA DE COBERTURA - MORTE -ACIDENTAL COMPROVAÇÃO - INDENIZAÇÃO DEVIDA AOS BENEFICIÁRIOS NOS LIMITES DO CAPITAL ESTIPULADO NO CONTRATO - SENTENÇA MANTIDA - RECURSO DOS AUTORES NÃO CONHECIDO - APELO DA SEGURADORA DESPROVIDO.
+A parte deixou de impugnar especificamente o fundamento da sentença, de modo inviável, pois, o conhecimento do apelo, ante o descumprimento do ônus da .
+A empresa sucessora, em caso de cisão parcial, responde débitos da empresa cindida com relação ao patrimônio transferido.
+É parte legítima para ação de cobrança de seguro de vida apenas um dos beneficiários, ainda que exista pluralidade de beneficiários.
+Caracterizado o óbito do segurado, na hipótese, como morte acidental e evidenciada a cobertura de tal evento pelo contrato de seguro mencionado na exordial, imperiosa é a manutenção da sentença que condenou a seguradora ao pagamento da indenização.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou (e-STJ, fls. 657-663).
+Nas razões do recurso especial (e-STJ, fls. 686-698), o recorrente apontou violação aos arts. 485, VI, 489, §1º, IV, e 1.022, II, e parágrafo único, II, do CPC/2015; e ao art. 233, parágrafo único, da Lei n. 6.404/1976.
+Alegou que, embora opostos os embargos de declaração, o Tribunal de origem deixara de se manifestar sobre pontos importantes para o deslinde da controvérsia, notadamente o reconhecimento da ausência de responsabilidade da recorrente, limitando-se à rejeição genérica dos argumentos.
+Sustentou a ausência de legitimidade para figurar no polo passivo da demanda, na medida que houve a cisão parcial de seu patrimônio, de modo que a parcela cindida composta da carteira de seguros coletivos de pessoas, fora transferida à PRUDENTIAL DO BRASIL VIDA EM GRUPO S.A..
+Contrarrazões às fls. 712-731 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 735-741), o que ensejou a interposição do presente agravo (e-STJ, fls. 745-755).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, no que tange ao pretenso vício de omissão, cabe salientar que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, não se evidencia a existência do suposto vício arguido pelo agravante, pois o colegiado de origem, ainda que em sentido contrário à pretensão veiculada, pronunciou-se sobre as questões essenciais para o deslinde da controvérsia no acórdão da apelação.
+Veja-se (e-STJ, fl. 604):
+Em que pese às insurgências lançadas pela seguradora apelante, observa-se que a sentença deve se manter incólume.
+Com relação à preliminar de da seguradora sob o fundamento ilegalidade passiva houve a cisão parcial de seu patrimônio, de modo que a parcela cindida composta da carteira de seguros coletivos de pessoas, fora transferida à PRUDENTIAL DO BRASIL VIDA EM GRUPO S.A., de modo que esta que tem legitimada passiva, como bem sopesou o togado sentenciante "A alegação, entretanto, não procede, na medida em que mera cisão patrimonial parcial não exclui o dever indenizatório da empresa cindida, ao passo que há responsabilidade solidária de ambas quanto aos débitos havidos" (sic).
+Com efeito, o Superior Tribunal de Justiça consolidou sua jurisprudência no sentido de não ocorrer violação aos arts. 489 e 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade da decisão, quando o Tribunal de origem examina, de forma fundamentada, as questões fundamentais para o deslinde da controvérsia, ainda que contrariamente à pretensão manifestada pela parte; logo o resultado desfavorável não deve ser confundido com a violação aos dispositivos invocados.
+A propósito (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO NCPC. INEXISTÊNCIA. PENHORA. IMÓVEL INDIVISÍVEL. SUFICIÊNCIA DAS PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação do art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável à pretensão do recorrente, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.012.042/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de resolução contratual cumulada com pedido de indenização por danos morais e materiais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+ ..
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.175.639/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Registre-se, ainda, que a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Quanto aos arts. 485, VI, do CPC/2015 e 233, parágrafo único, da Lei n. 6.404/1976, nota-se que, não obstante a oposição dos embargos declaratórios, a Corte de origem não enfrentou a questão, deixando de cumprir o requisito indispensável do prequestionamento.
+Em verdade, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, e o seu descumprimento obsta o conhecimento do recurso especial pela incidência da Súmula n. 211/STJ.
+Confira-se (sem grifo no original):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. VIOLAÇÃO DE TEXTO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA N.º 518 DO STJ. BOA-FÉ. FRAUDE À EXECUÇÃO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DISPOSITIVOS DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N.º 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da Súmula n.º 518 do STJ, é inviável o conhecimento de eventual contrariedade a súmula, que, para os fins do art. 105, III, a, da CF, por não se enquadrar no conceito de lei federal.
+2. A alteração das conclusões do acórdão recorrido acerca da má-fé e da fraude à execução exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. A incidência da Súmula n.º 7 do STJ ao caso prejudica a análise do dissídio jurisprudencial, porquanto inexiste similitude fática entre as hipóteses em tela.
+4. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, não obstante a oposição de embargos declaratórios, porquanto ausente o indispensável prequestionamento. Incidência da Súmula n.º 211 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.406.703/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO. APELAÇÃO CÍVEL. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO DE VÍCIO DE OMISSÃO. INEXISTÊNCIA. 2. ILEGITIMIDADE PASSIVA. ART. 485, VI, DO CPC/2015 E ART. 233 DA LEI N. 6.404/1976. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
