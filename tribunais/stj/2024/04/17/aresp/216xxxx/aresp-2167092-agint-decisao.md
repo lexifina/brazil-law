@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA contra  a decisão  monocrática de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região)  de fls. 122/127 assim ementada:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PENHORA. SISTEMA BACENJUD. IBAMA. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. IMPENHORABILIDADE. 40 SALÁRIOS MÍNIMOS. ACÓRDÃO RECORRIDO DE ACORDO COM A ORIENTAÇÃO DO STJ. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 75/81).
+Nas razões do recurso especial, a parte ora agravante  aponta violação do art. 1.022, 835, I, 854, § 3º, I, e § 5º, 789 e 797 do Código de Processo Civil (CPC); e 7º, II, 9º, 10 e 11, I, da Lei 6830/1980. Defender que a questão relativa à impenhorabilidade com fundamento no inciso X do art. 833 do Código de Processo Civil (CPC) não pode ser presumida, tampouco reconhecida de ofício pelo juiz, porquanto é matéria eminentemente de defesa nos termos do art. 854, § 3º, I, e § 5º, do CPC (fls. 102/107).
+O recurso não foi admitido, o que ensejou a interposição de agravo em recurso especial.
+Às fls. 122/127, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) conheceu do agravo para negar provimento ao recurso especial por ausência de negativa de prestação jurisdicional, bem como ante o óbice da Súmula 83 do Superior Tribunal de Justiça (STJ).
+Contra a decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente reitera os argumentos suscitados no recurso especial, notadamente quanto à alegação de omissão por ausência de análise do reconhecimento de ofício da impenhorabilidade absoluta.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Ao solucionar a controvérsia, o Tribunal de origem negou provimento ao agravo de instrumento da parte recorrente, considerando a impenhorabilidade absoluta dos valores inferiores a quarenta salários mínimos depositados em caderneta de poupança.
+A Corte local, provocada por embargos de declaração (fls. 65/67), limitou-se a afastar a negativa de prestação jurisdicional, rejeitando os embargos de declaração, sem o exame do ponto tido como omisso, que é essencial à solução da controvérsia, afirmando que " n o caso, verifica-se que os aclaratórios opostos pela Autarquia buscam mera rediscussão do julgado com o nítido objetivo de modificá-lo, o que se mostra incompatível com a finalidade do presente recurso. Ademais, nos pontos levantados, o Acórdão foi prolatado de forma fundamentada, à luz da legislação pertinente e em conformidade com a jurisprudência" (fl. 80).
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação do art. 1.022, II, do Código de Processo Civil, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para anular o acórdão proferido nos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de sanar o vício apontado.
+Publique-se. Intimem-se.
+ EMENTA
