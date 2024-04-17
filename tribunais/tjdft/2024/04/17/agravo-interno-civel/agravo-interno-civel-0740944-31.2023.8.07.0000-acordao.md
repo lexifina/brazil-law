@@ -1,0 +1,416 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.AGRAVO INTERNO CÍVEL 0740944-31.2023.8.07.0000AGRAVANTE(S)DANIELA AIRES VILCHEZAGRAVADO(S)TOP SOL PISCINAS EIRELI - MERelatorDesembargador ALVARO CIARLINI
+Relator Designado Desembargador RENATO RODOVALHO SCUSSEL Acórdão Nº1845664
+
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO NÃO CONHECIDO. TEMPESTIVIDADE. CONTAGEM DE PRAZO. DUPLICIDADE DE INTIMAÇÕES. LEI Nº 11.419/2006. PRECEDENTE DO STJ. PORTAL ELETRÔNICO. PREVALÊNCIA. RECURSO CONHECIDO E PROVIDO.
+
+1. Nos termos do art. 5º, caput, da Lei 11.419/2006, “as intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico”.
+
+2. Em caso de duplicidade de intimações válidas, a parte não poderá ser prejudicada em razão de procedimento do poder judiciário que cause dúvida quanto ao termo inicial de contagem dos prazos. Precedente do STJ. EAREsp 1.663.952-RJ.
+
+3. O termo inicial prevalente na contagem dos prazos quando haja concomitância de intimações eletrônicas, uma pelo Portal Eletrônico e outra pelo Diário da Justiça Eletrônico, é o termo iniciado pela intimação realizada via Portal Eletrônico, ainda mais quando efetuada a intimação da mesma forma durante todo o trâmite processual.
+
+4. Recurso conhecido e provido para conhecer o Agravo de Instrumento interposto.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALVARO CIARLINI - Relator, RENATO RODOVALHO SCUSSEL - Relator Designado e 1º Vogal e FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal, sob a Presidência do Senhor Desembargador RENATO RODOVALHO SCUSSEL, em proferir a seguinte decisão: RECURSOS DE AGRAVO DE INSTRUMENTO E AGRAVO INTERNO CONHECIDOS, NOS TERMOS DO VOTO DO EMINENTE 1º VOGAL, DESEMBARGADOR RENATO SCUSSEL, QUE REDIGIRÁ O ACÓRDÃO. RETORNO DOS AUTOS AO RELATOR PARA MANIFESTAÇÃO QUANTO AO MÉRITO. MAIORIA. VENCIDO O EMINENTE RELATOR., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 17 de Abril de 2024
+
+Desembargador RENATO RODOVALHO SCUSSELPresidente e Relator Designado
+
+RELATÓRIO
+
+Trata-se de agravo interno (Id. 53757303) interposto por Daniela Aires Vilchez, patrocinada pelo Núcleo de Práticas Jurídicas do Centro Universitário UDF, contra a decisão referida no Id. 51771108, por meio da qual este Relator deixou de conhecer o recurso de agravo de instrumento manejado pela recorrente ao fundamento de intempestividade.
+
+Em suas razões recursais a recorrente sustenta, em síntese, que o recurso de agravo de instrumento interposto não pode ser considerado intempestivo pois deve prevalecer, para a finalidade de definição do termo inicial para a fluência do respectivo prazo recursal, a data de registro da ciência no sistema PJe a respeito da decisão proferida pelo Juízo singular, e não a data da sua publicação no DJe.
+
+Destaca a existência de entendimento sedimentado no Colendo Superior Tribunal de Justiça no sentido de que a data da intimação registrada no PJe prevalece em relação à veiculada no DJe nas hipóteses de duplicidade de intimações.
+
+Requer, assim, o provimento do agravo interno para que seja reformada a decisão agravada, com o subsequente conhecimento e processamento do agravo de instrumento interposto.
+
+A sociedade empresária Top Sol Piscinas Ltda ofereceu contrarrazões (Id. 53989661), oportunidade em que pugnou pelo não conhecimento ou pelo desprovimento do agravo interno, bem como pela aplicação de multa, em desfavor da recorrente, por litigância de má-fé diante da configuração da hipótese prevista no art. 80, inc. VII, do CPC.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALVARO CIARLINI - Relator
+No exercício do juízo de admissibilidade verifica-se que o agravo interno não reúne todos os requisitos necessários ao conhecimento e processamento, diante de sua manifesta intempestividade.
+
+É importante destacar que a decisão proferida por este Relator, que deixou de conhecer o recurso de agravo de instrumento interposto pela recorrente, foi disponibilizada no Diário da Justiça Eletrônico aos 28 de setembro de 2023, quinta-feira (Id. 51854448).
+
+Assim, considera-se publicada a decisão no primeiro dia útil subsequente, ou seja, 29 de setembro de 2023 (sexta-feira), e a fluência do prazo recursal iniciou-se, portanto, aos 2 de outubro de 2023 (segunda-feira), de acordo com o art. 224, §§ 2º e 3º do CPC. Por isso, o termo final para a interposição do respectivo recurso ocorreu aos 17 de novembro de 2023 (sexta-feira), diante da prerrogativa processual concernente ao prazo em dobro conferida aos escritórios de prática jurídica das faculdades de Direito (art. 186, § 3º, do CPC).
+
+Sucede que o agravo interno ora em exame foi interposto apenas no dia 23 de novembro de 2023 (Id. 53757303), ou seja, após o transcurso do prazo legal.
+
+Convém acrescentar que, independentemente do cadastro prévio da parte, eventual registro de ciência em momento posterior, efetuado por meio do sistema de consulta processual disponibilizado por este Egrégio Tribunal de Justiça (PJe), não tem o condão de alterar o termo inicial para a contagem do prazo recursal fixado a partir da publicação oficial (DJe) precedente.
+
+É indispensável, a respeito do tema ora em evidência, atentar-se à regra prevista cristalinamente no art. 60, caput, do Provimento nº 12/2017 da Corregedoria deste Egrégio Tribunal de Justiça, que regulamenta o processo judicial eletrônico no âmbito das unidades judiciais da primeira instância, assim redigido:
+
+“Art. 60. Será considerada realizada a intimação eletrônica na data em que o ato judicial for publicado no Diário da Justiça Eletrônico, na forma do artigo 45 deste Provimento ou, subsidiariamente, na data em que o intimando tiver inequívoca ciência quanto ao integral conteúdo da decisão em momento anterior à publicação.” (Ressalvam-se os grifos)
+
+Como reforço argumentativo, convém notar que o art. 4º, § 2º, da Lei nº 11.419/2006, que dispõe a respeito da informatização do processo judicial, estabelece que a publicação no Diário da Justiça eletrônico “substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal”.
+
+A propósito, examinem-se as seguintes ementas da lavra deste Egrégio Sodalício:
+
+“APELAÇÃO CÍVEL. CIVIL E PREVIDENCIÁRIO. PROCESSUAL CIVIL. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. INTEMPESTIVIDADE. DATA DA PUBLICAÇÃO NO DJE. PREVALÊNCIA. APELAÇÃO INTERPOSTA PELA ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR NÃO CONHECIDA. COMPLEMENTAÇÃO DE APOSENTADORIA. REVISÃO. POSSIBILIDADE. DESNECESSIDADE DA RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. JUROS DE MORA. CORREÇÃO MONETÁRIA. TERMO INICIAL. APELAÇÃO. RECURSO MANEJADO PELA BENEFICIÁRIA CONHECIDO E PROVIDO EM PARTE.
+
+1. Hipótese de interposição de apelação contra a sentença que julgou o pedido procedente.
+
+2. No exercício do juízo de admissibilidade verifica-se que a apelação não reúne todos os requisitos necessários ao seu conhecimento e processamento, diante de sua manifesta intempestividade.
+
+3. Independentemente do cadastro prévio da parte, o eventual registro da ciência em momento posterior, efetuado por meio do sistema de consulta processual disponibilizado por este Egrégio Tribunal de Justiça (PJe), não tem o condão de alterar o termo inicial para a contagem do prazo recursal fixado a partir da publicação oficial (DJe) precedente.
+
+4. De acordo com a regra prevista no art. art. 60, caput, do Provimento nº 12/2017 da Corregedoria da Justiça do Distrito Federal e dos Territórios, ‘será considerada realizada a intimação eletrônica na data em que o ato judicial for publicado no Diário da Justiça Eletrônico, na forma do artigo 45 deste Provimento ou, subsidiariamente, na data em que o intimando tiver inequívoca ciência quanto ao integral conteúdo da decisão em momento anterior à publicação’.
+
+5. O art. 4º, § 2º, da Lei nº 11.419/2006, que dispõe a respeito da informatização do processo judicial, estabelece que a publicação no Diário da Justiça eletrônico ‘substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal’.
+
+6. No caso concreto merece prevalecer, para a finalidade da verificação da tempestividade do recurso interposto pela Fundação dos Economiários Federais, a data da publicação no DJe, anterior ao registro de ciência efetuado por meio do sistema PJe. Recurso intempestivo. 6.1. Apelação interposta pela entidade de previdência complementar não conhecida.
+
+7. A questão submetida ao conhecimento deste Egrégio Tribunal de Justiça, quanto ao mais, consiste em saber qual deve ser o termo inicial para a fluência dos juros de mora e da correção monetária referente às parcelas vencidas de revisão do benefício previdenciário complementar examinado.
+
+8. A mora da entidade de previdência deve ser apurada a partir do momento em que demonstrou o inequívoco intento de não atender à manifestada vontade da beneficiária em receber as diferenças resultantes da utilização de percentuais diferenciados entre aposentados dos gêneros masculino e feminino.
+
+9. O art. 397, parágrafo único, do Código Civil, determina que os juros de mora devem ser aplicados desde a citação ou interpelação extrajudicial.
+
+10. Somente com a citação nos autos do presente processo que a devedora tomou ciência a respeito do teor da pretensão exercida pela credora, podendo ser aplicados os juros de mora a partir do ferido momento.
+
+11. A correção monetária tem o intuito de recompor o poder aquisitivo da moeda, em decorrência dos efeitos da inflação, razão pela qual deverá ser contada a partir da data da data do inadimplemento das parcelas referidas, ou seja, do momento em que as diferenças resultantes da utilização de percentuais diversos entre aposentados possam ser exigidas da apelada.]
+
+12. Apelação interposta pela beneficiária conhecida e provida em parte. Sentença parcialmente reformada.”
+
+(Acórdão nº 1767088, 07496840920228070001, Relator: ALVARO CIARLINI, 2ª Turma Cível, data de julgamento: 11/10/2023, publicado no DJE: 18/10/2023) (Ressalvam-se os grifos)
+
+“AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO. INTEMPESTIVIDADE. TERMO INICIAL. PROCESSO ELETRÔNICO. INTIMAÇÕES. MODALIDADES. PUBLICAÇÃO NO DIÁRIO DE JUSTIÇA ELETRÔNICO - DJE. REGRA. OUTROS MEIOS DE INTIMAÇÃO. PREVALÊNCIA. ART. 4º, § 2º, DA LEI 11.419/2006. ART. 5º DA MESMA LEI. INTIMAÇÃO NO PORTAL ELETRÔNICO. CIÊNCIA ELETRÔNICA. DISPENSA. POSSIBILIDADE. EXISTÊNCIA DE PUBLICAÇÃO NOS AUTOS. REGISTRO DE CIÊNCIA. IRRELEVÂNCIA. EXCEÇÕES. INSTITUIÇÕES COM PRERROGATIVA DE INTIMAÇÃO PESSOAL COM VISTA DOS AUTOS. MINISTÉRIO PÚBLICO. FAZENDA PÚBLICA DEFENSORIA PÚBLICA. PESSOAS FÍSICAS E PESSOAS JURÍDICAS DE DIREITO PRIVADO. TERMO INICIAL. REGULAMENTAÇÃO. ARTS. 43, 45, 46 E 60 DO PROVIMENTO 12 DE 17 DE AGOSTO DE 2017 DO TJDFT. INTIMAÇÃO. REALIZAÇÃO. PUBLICAÇÃO ELETRÔNICA. EXCEÇÃO. CIÊNCIA ANTERIOR AO ATO. PRAZO FINAL INDICADO PELO SISTEMA. CIÊNCIA REGISTRADA AUTOMATICAMENTE. FLUÊNCIA DO PRAZO. INDUÇÃO EM ERRO. INOCORRÊNCIA. PUBLICAÇÃO INDICADA COM DIA CERTO. AFERIÇÃO DO PRAZO. POSSIBILIDADE. RESPONSABILIDADE DAS PARTES. PRAZO INDICADO NO PJE. VINCULAÇÃO. INEXISTÊNCIA. MERA SUGESTÃO. INÍCIO DO PRAZO. DIA ÚTIL SUBSEQUENTE À PUBLICAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+
+1. No processo eletrônico, as citações, intimações e ciência dos demais atos processuais dar-se-ão também eletronicamente. Se as comunicações não forem possíveis por esse meio, ocorrerão por publicação oficial no próprio órgão. Subsidiariamente, se ambas as formas restarem impossibilitadas, as intimações poderão ser pessoais ou por carta registrada, em conformidade com os arts. 270, 272 e 273 do Código de Processo Civil - CPC.
+
+2. Nos termos dos arts. 4º e 5º da Lei 11.419/2006, duas são as formas principais de intimação eletrônica - publicação no DJe ou por ciência no próprio PJe. Logo, para que as intimações sejam efetivadas, a vista pessoal das partes é irrelevante, salvo as exceções previstas em lei. Isso porque, mesmo no PJe, a publicação dos despachos, decisões interlocutórias, o dispositivo das sentenças e a ementa dos acórdãos ocorre obrigatoriamente por meio eletrônico, no Diário de Justiça eletrônico - DJe, conforme determina o art. 205, § 3º, do Código de Processo Civil - CPC.
+
+3. Excepcionalmente, algumas instituições possuem a prerrogativa legal de intimação pessoal com vista dos autos: o Ministério Público, a Fazenda Pública e a Defensoria Pública, nos termos dos arts. 180, 183, caput, e § 1º, 186 e 270, parágrafo único, do CPC. Nesses casos específicos, a publicação no DJe é irrelevante - a intimação ou vista pessoais são exigidas pela legislação processual e dar-se-ão por mandado ou mediante consulta ao portal eletrônico específico para essa finalidade. Se a consulta não for realizada no prazo de 10 dias contados da data do envio da intimação, ela será automaticamente realizada após o término do decêndio (Lei 11.419/2006, 5º, caput, e §§ 1º a 3º).
+
+4. A lei possibilita a dispensa de intimação por meio do DJe, após o cadastro da pessoa jurídica no portal eletrônico próprio. Contudo, essa circunstância não impede a existência da publicação oficial nos autos. Salvo as exceções mencionadas, para pessoas físicas e pessoas jurídicas de direito privado registradas em portal próprio - as intimações ocorrem no órgão oficial, inclusive eletrônico.
+
+5. Por disposição expressa do art. 4º, § 2º, da Lei 11.419/2006, a publicação eletrônica prevalece sobre qualquer outro meio de intimação, para todos os fins legais. Considera-se publicado o ato após o primeiro dia útil seguinte ao da disponibilização da informação no DJe e os prazos processuais terão início no primeiro dia útil seguinte ao da publicação. A regra do art. 5º da lei não exclui a regra geral do art. 4º, § 1º, que é o meio principal de intimação no processo eletrônico. Logo, se houver intimação no DJe nos autos, sua publicação prevalece sobre quaisquer outras formas de intimação, salvo as que a própria lei exige intimação ou vista pessoais, o que não é o caso.
+
+6. O Provimento 12, de 17 de agosto de 2017 do Tribunal de Justiça do Distrito Federal e Territórios, que regulamenta o Processo Judicial Eletrônico nas unidades judiciais de primeira instância, determina que o Diário de Justiça Eletrônico é o meio oficial para a intimação das partes, salvo se, em momento anterior ao da publicação, houver demonstração de ciência inequívoca do teor da decisão, nos termos dos arts. 43, 45 e 60. Nesta situação, a ciência no sistema ou o seu registro automático só terão validade se forem anteriores à publicação oficial no DJe ou, obviamente, caso ela não exista nos autos eletrônicos; do contrário, são irrelevantes para a contagem do prazo. Se assim não for, admitir-se-á a possibilidade a manipulação do prazo processual pelas partes, bem como a inutilidade dos atos oficiais do juízo.
+
+7. Da análise do registro dos autos, a agravante não foi induzida em erro. A certidão de disponibilização da decisão havia consignado o exato dia da publicação no DJe (22/6/2023). Embora o sistema tivesse registrado, automaticamente, a ciência no dia 23/6/2023, pode-se verificar facilmente que o prazo já havia começado a fluir nesse mesmo dia.
+
+8. O Superior Tribunal de Justiça - STJ, em decisões recentes, firmou o entendimento de que a sugestão de prazo prevista no PJe é irrelevante para fins de contagem de prazo e fixação do termo final. A responsabilidade é do recorrente, o qual deve conferir e observar as publicações no processo eletrônico.
+
+9. Como consignado na decisão monocrática embargada, o não conhecimento do agravo de instrumento decorre do fato de que, a decisão agravada foi disponibilizada no dia 21/6/2023 nos próprios autos eletrônicos e publicada no DJe em 22/6/2023, quinta-feira. A contagem do prazo iniciou no dia 23/6/2023 (sexta-feira) e terminou em 13/7/2023 (quinta-feira). Contudo, o agravo foi interposto no dia 14/7/2021 (sexta-feira). O agravo de instrumento, portanto, é inadmissível.
+
+10. Agravo interno conhecido e não provido.”
+
+(Acórdão nº 1757009, 07283672120238070000, Relator: LEONARDO ROSCOE BESSA, 6ª Turma Cível, data de julgamento: 6/9/2023, publicado no DJE: 28/9/2023) (Ressalvam-se os grifos)
+
+“AGRAVO INTERNO EM APELAÇÃO CÍVEL. PROCESSO CIVIL. INTEMPESTIVIDADE RECURSAL. PUBLICAÇÃO NO DIÁRIO DE JUSTIÇA ELETRÔNICO. INTIMAÇÃO ELETRÔNICA POSTERIOR. LEI 11.419/2006. DUPLA INTIMAÇÃO.  PREVALÊNCIA DA PUBLICAÇÃO NO ÓRGÃO OFICIAL.
+
+1. Conforme preconiza o artigo 60 do Provimento nº 12/2017 da Corregedoria de Justiça deste eg. TJDFT, ‘será considerada realizada a intimação eletrônica na data em que o ato judicial for publicado no Diário de Justiça Eletrônico, na forma do artigo 45 deste Provimento ou, subsidiariamente, na data em que o intimando tiver inequívoca ciência quanto ao integral conteúdo da decisão em momento anterior à publicação’.
+
+2. Nesse sentido, o artigo 4º, §2º, da Lei nº 11.419/2006, estabelece que: ‘A publicação eletrônica na forma deste artigo substitui qualquer outro meio de publicação oficial, para quaisquer efeitos legais, à exceção dos casos em que, por lei, exigem intimação ou vista pessoal’.
+
+3. No particular, verifica-se que houve primeiramente a publicação da sentença no Diário de Justiça Eletrônico, e, posteriormente, a expedição de intimação eletrônica pelo sistema do PJe. Em tais hipóteses, deve prevalecer a ciência por meio da publicação em órgão oficial.
+
+4. Eventual registro de ciência da parte em momento posterior, realizado por meio do sistema de consulta processual desta Corte de Justiça - PJe, não altera a fluência do prazo recursal estabelecido com a publicação no DJe anterior.
+
+5. Agravo Interno conhecido e desprovido.”
+
+(Acórdão nº 1765768, 07027411320228070007, Relatora: ANA MARIA FERREIRA DA SILVA, 3ª Turma Cível, data de julgamento: 28/9/2023, publicado no DJE: 17/10/2023) (Ressalvam-se os grifos)
+
+“CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA DO RELATOR. APELAÇÃO CÍVEL NÃO CONHECIDA. INTEMPESTIVIDADE DO RECURSO. ART. 4º, §2º, DA LEI Nº 11.419/2006. PORTARIA CG 160/2017. DUPLICIDADE DE INTIMAÇÃO. DIÁRIO DE JUSTIÇA ELETRÔNICO E INTIMAÇÃO VIA SISTEMA ELETRÔNICO. PREVALÊNCIA DO ÓRGÃO OFICIAL, POIS OCORREU PRIMEIRO. ART. 60, PROVIMENTO Nº12/2017 TJDFT. DECISÃO MANTIDA.
+
+1. Em princípio, a intimação via sistema eletrônico dispensa a publicação por meio do Diário de Justiça, sendo as intimações feitas em portal próprio aos que se cadastrarem na forma do art. 2º e 5º, §1º, da Lei nº 11.419/2006. 1.1 O art. 4º, §2º, da Lei nº 11.419/2006, por sua vez, estatui que ‘a publicação eletrônica na forma deste artigo substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal.’
+
+2. A hipótese dos autos retrata a duplicidade de intimação, via Sistema Eletrônico e publicação por Diário de Justiça eletrônico. Nessa toada, considerando a legislação aplicada à espécie, a fim de se aferir o início da contagem do prazo recursal, conclui-se pela prevalência da intimação que ocorreu primeiro, no caso, a data da publicação no DJE, independentemente de a parte ser empresa cadastrada no Programa de Empresas Parceiras do TJDFT. Precedentes.
+
+3. O art. 60, do Provimento nº 12/2017, do Tribunal de Justiça do Distrito Federal e Territórios, que regulamenta o Processo Judicial Eletrônico, anuncia que ‘será considerada realizada a intimação eletrônica na data em que o ato judicial for publicado no Diário da Justiça Eletrônico, na forma do artigo 45 deste Provimento ou, subsidiariamente, na data em que o intimando tiver inequívoca ciência quanto ao integral conteúdo da decisão em momento anterior à publicação’.
+
+4. Recurso conhecido e não provido.”
+
+(Acórdão nº 1424148, 07023774220218070018, Relatora: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 18/5/2022, publicado no PJe: 27/5/2022) (Ressalvam-se os grifos)
+
+“DIREITO CIVIL E PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO. DUPLICIDADE DE INTIMAÇÃO. PUBLICAÇÃO NO DJE E CIÊNCIA VIA PJE. TERMO INICIAL PARA CONTAGEM DO PRAZO DE 15 DIAS. PREVALÊNCIA DA DATA DA PUBLICAÇÃO. ART. 60 DO PROVIMENTO 12 DO TJDFT. CAESB. DÍVIDA PRETÉRITA DE TERCEIROS. INSCRIÇÃO INDEVIDA POR PROTESTO REITERADA DE PESSOA FÍSICA. RESPONSABILIDADE OBJETIVA POR FALHA NO SERVIÇO PRESTADO AO CONSUMIDOR. DANO MORAL IN RE IPSA. PRESUNÇÃO. OCORRÊNCIA. OFENSA A DIREITO DA PERSONALIDADE. QUANTUM INDENIZATÓRIO MANTIDO. RAZOABILIDADE E PROPORCIONALIDADE. OBSERVÂNCIA AOS CRITÉRIOS PEDAGÓGICO, PREVENTIVO, COMPENSATÓRIO E PUNITIVO. RECURSO NÃO CONHECIDO DA CAESB. RECURSO CONHECIDO E DESPROVIDO DO AUTOR.
+
+1. A intimação por meio eletrônico dos litigantes cadastrados, em tese, dispensa a publicação no Diário de Justiça, considerando-se efetuada no dia da consulta eletrônica, nos termos dos artigos 2º e 5º, § 1º, ambos da Lei 11.419/2006. 1.2. Em circunstância de duplicidade de intimação, via publicação por DJE e ciência inequívoca, prevalece a data da publicação via DJe, salvo quando a ciência ocorrer antes da publicação. Art. 60 do Provimento n. 12 do TJDFT. 1.3. No caso, a publicação no DJe da intimação do agravante ocorreu antes do registro de sua ciência no sistema PJe, de modo que se impõe o reconhecimento do termo inicial para contagem do prazo recursal a data da publicação. Intempestivo o recurso da CAESB apresentado fora do prazo recursal, sendo, portanto, manifestamente inadmissível, conforme o disposto no art. 932, III, do Código de Processo Civil.
+
+2. Evidenciada a falha na prestação de serviços ao consumidor (art. 14, caput, CDC), a CAESB é objetivamente responsável pela inscrição indevida oriunda da ilicitude do protesto e da inscrição no cadastro de devedores inadimplentes por débitos pretéritos de contas de águas supostamente não pagas geradas por terceiros, sendo inclusive passível de gerar indenização proporcional ao prejuízo suportado por três protestos seguidos em Cartórios de Protesto e Títulos.
+
+3. O dano patrimonial ou extrapatrimonial, impõe a lei ao causador do dano o dever de indenizar a quem tenha prejudicado pela prática de ato ilícito. Assim, o art. 12, caput, do Código Civil, confere à vítima a possibilidade de exigir a cessação da ameaça a direito da personalidade e a requerer perdas e danos em caso de violação. Já o art. 927, caput, do mesmo diploma legal, define a responsabilização civil ao autor com base no ato ilícito. 3.1. O dano extrapatrimonial se manifesta, em regra, na dor física ou psíquica, na angústia extrema, no desgosto ou na humilhação do indivíduo, sendo esses estados resultado do dano sofrido. É sabido ainda que o direito não compensa qualquer padecimento, dor ou aflição, mas apenas aquilo que decorre da perda de um bem jurídico sobre o qual incidiria o interesse da vítima. 3.2. Evidente a situação constrangedora e embaraçosa que suportou o apelante, porquanto por três vezes seguidas, sendo os dois últimos registros bem próximos, viu o seu nome constantemente inscrito indevidamente em protesto e ter restrição junto aos órgãos de proteção ao crédito, a ponto de lhe ser negado a linha de crédito solicitada perante a CEF, e passar por problemas financeiros em sua empresa devido à sucessão de equívocos provocados pela omissão e desídia da CAESB. Circunstâncias que somadas demonstram a necessidade do reparo moral pela falta de compromisso para com o consumidor. 3.3. O dano moral decorrente de protesto indevido é presumido e dispensa a prova do prejuízo.
+
+4. Reparação patrimonial. Quantum. Proporcional se mostra o arbitramento feito pelo magistrado de primeira instância na quantificação dos danos morais. Critérios compensatório, preventivo, punitivo e pedagógico da condenação atendidos. Importância fixada em quantia suficiente e adequada a não propiciar enriquecimento sem causa.
+
+5. Alcançando uma das partes proveito econômico, devem os honorários de sucumbência ser arbitrados conforme disciplina posta na regra geral insculpida no art. 85, § 2º, do CPC, que prevê percentual mínimo de 10% e máximo de 20% a ser calculado sobre o valor da condenação. Caso concreto em que ausente suporte fático autorizador do arbitramento da verba honorária sucumbencial com base em juízo de equidade (art. 85, § 8º, do CPC).
+
+6. Recurso da CAESB não conhecido. Apelação do autor conhecida e desprovida. Honorários majorados.”
+
+(Acórdão nº 1771418, 07025079520228070018, Relatora: DIVA LUCY DE FARIA PEREIRA, 1ª Turma Cível, data de julgamento: 11/10/2023, publicado no DJE: 3/11/2023) (Ressalvam-se os grifos)
+
+“APELAÇÕES CÍVEIS. DIREITO PROCESSUAL CIVIL. INTEMPESTIVIDADE. PUBLICAÇÃO ANTERIOR. DIÁRIO DE JUSTIÇA ELETRÔNICO. PREVALÊNCIA SOBRE A INTIMAÇÃO VIA PJE. AGRAVO INTERNO. DECISÃO. TUTELA. URGÊNCIA. PLANO DE DESLIGAMENTO INCENTIVADO. NULIDADE. DANO MORAL. CONFIGURADO. ÔNUS DE SUCUMBÊNCIA.
+
+1. Nos termos do art. 4°, § 2°, da Lei 11.419/2006, que dispõe sobre a informatização do processo judicial, a publicação no DJe substitui qualquer outro meio de intimação, para qualquer efeito legal, ‘à exceção dos casos que, por lei, exigem intimação ou vista pessoal’. Sendo assim, se a publicação do ato no Diário de Justiça ocorrer primeiro que a intimação por meio eletrônico, prevalece aquela como termo inicial do prazo recursal.
+
+2. No que se refere ao agravo interno, constata-se que as alegações da agravante/requerida não tiveram o condão de elidir o risco de dano grave impingido à autora, que, em idade avançada e estado de saúde delicado, se viu desprovida do plano de saúde, em virtude de seu desligamento dos quadros da empresa nas circunstâncias demonstradas nos autos.
+
+3. Na hipótese, exsurge indubitável o dano moral suportado pela recorrente, em virtude da declaração de nulidade do termo de adesão ao programa de desligamento incentivado, e que deve ser reparado como forma de compensação pela lesão causada à sua esfera de direitos da personalidade.
+
+4. Consideradas as condições econômicas das partes, a extensão do dano, a necessidade de se coibir a reincidência e o princípio que repele o enriquecimento sem causa, tem-se como justa, razoável e proporcional a fixação da compensação, a título de danos morais no valor de R$ 10.000,00 (dez mil reais).
+
+5. Em observância ao disposto no art. 85 do CPC e à súmula 326 do STJ, as despesas processuais devem ser suportadas, em sua integralidade, pela requerida.
+
+6. Apelação cível da ré não conhecida. Agravo interno conhecido e desprovido. Apelação cível da autora conhecida e provida.”
+
+(Acórdão nº 1775302, 07052759120228070018, Relatora: LUCIMEIRE MARIA DA SILVA, 5ª Turma Cível, data de julgamento: 19/10/2023, publicado no PJe: 31/10/2023) (Ressalvam-se os grifos)
+
+“AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO. INTEMPESTIVIDADE RECONHECIDA. DUPLICIDADE INTIMAÇÃO. SISTEMA ELETRÔNICO. PUBLICAÇÃO PJE. LEI 11.419/06. PREVALÊNCIA. AGRAVO INTERNO DESPROVIDO.
+
+1. O art. 4º, §2º, da Lei n. 11.419/06, prevê que a publicação eletrônica substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal.
+
+2. A Portaria GPR 239 de 07/02/2019 prevê em seu art. 5º que a comunicação eletrônica dos atos processuais substitui qualquer outro meio de publicação oficial, à exceção dos casos previstos em lei.
+
+3. A intimação realizada por meio de publicação no DJe prevalece sobre qualquer outro meio de comunicação, conforme prevê a Lei n. 11.419/06, inclusive sobre a efetivada via Sistema PJe.
+
+4. Negou-se provimento ao recurso.”
+
+(Acórdão nº 1613766, 07136382420228070000, Relator: FABRÍCIO FONTOURA BEZERRA, 7ª Turma Cível, data de julgamento: 14/9/2022, publicado no DJE: 14/10/2022) (Ressalvam-se os grifos)
+
+“AGRAVO INTERNO. NÃO CONHECIMENTO DE RECURSO. INTEMPESTIVIDADE. AUSÊNCIA DE PRESSUPOSTO OBJETIVO. LEI Nº 11.419/2006. DUPLA INTIMAÇÃO. MANIFESTA INADMISSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+
+1. No caso, conforme exposto na decisão monocrática, o decisum foi disponibilizado em 8/6/2022, quarta-feira, e considerado publicado em 9/6/2022, quinta-feira. Portanto, o termo final deu-se em 1/7/2022, sexta-feira (artigo 224, § 3º do Código de Processo Civil). Logo, intempestivo o recurso, em razão de ter sido interposto apenas em 8/7/2022.
+
+2. Consoante estabelece o artigo 4º, §2º, da Lei nº 11.419/2006, a publicação eletrônica substitui qualquer outro meio de publicação oficial, com exceção dos casos que exigem intimação ou vista pessoal. Nas hipóteses em que ocorrem dupla intimação, ou seja, disponibilização em Diário de Justiça Eletrônico e expedição de intimação eletrônica, a publicação em órgão oficial prevalece, caso ocorra primeiro, como foi o caso dos autos.
+
+3. O recurso interposto após o transcurso do prazo legal é manifestamente inadmissível diante da ausência de um dos pressupostos objetivos, a tempestividade.
+
+4. Quando o agravo interno não traz fundamentos capazes de infirmar as conclusões da decisão atacada, não merece sucesso a irresignação do recorrente.
+
+5. AGRAVO INTERNO CONHECIDO E DESPROVIDO.”
+
+(Acórdão nº 1664714, 07127773520228070001, Relator: LUÍS GUSTAVO B. DE OLIVEIRA, 3ª Turma Cível, data de julgamento: 9/2/2023, publicado no DJE: 2/3/2023) (Ressalvam-se os grifos)
+
+“AGRAVO INTERNO. DECISÃO DE NÃO CONHECIMENTO DA APELAÇÃO. PRINCÍPIO DA VEDAÇÃO À DECISÃO SURPRESA. PRINCÍPIO PRESERVADO. INTEMPESTIVIDADE. MANIFESTA INADMISSIBILIDADE. DUPLA INTIMAÇÃO DA SENTENÇA. DJE. CIÊNCIA AUTOMÁTICA DO SISTEMA APÓS 10 DIAS CORRIDOS. ART. 5º, § 3º, LEI 11.419/06. DJE SUBSTITUI QUALQUER OUTRO MEIO DE PUBLICAÇÃO OFICIAL. PRECEDENTES. TJDFT. STJ. RECURSO IMPROVIDO.
+
+1. Agravo interno interposto contra decisão que não conheceu da apelação por intempestividade. 1.1. A agravante busca a reforma da decisão. Afirma em suma que, havendo intimação por meio eletrônico, não se considera feita a intimação pela imprensa oficial.
+
+2. Do princípio da vedação à decisão surpresa. 2.1. O art. 10 do CPC veda decisão, em todos os graus de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar. 2.2. A intempestividade, requisito extrínseco de admissibilidade, consiste em vício insanável. 2.3. STJ: (...). 1. "O 'fundamento' ao qual se refere o art. 10 do CPC/2015 é o fundamento jurídico - circunstância de  fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). (...) 2. Verificada a intempestividade do recurso, deve ser não conhecido, independente  de  intimação  da parte para se manifestar a respeito, inexistindo afronta ao art. 10 do CPC/15.” (AgInt no AREsp 1124598/SE, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJE: 12/12/2017). 2.4. Preliminar rejeitada.
+
+3. Trata-se da hipótese em que houve dupla intimação da parte para apelar, primeiro pela publicação da sentença no DJe e depois com a ciência da agravante gerada automaticamente pelo sistema após ‘10 (dez) dias corridos’, conforme disposto no art. 5º, § 3º, da Lei 11.419/06. 3.1. No caso dos autos, o início do prazo recursal ocorre na data de publicação no Diário de Justiça eletrônico, tendo em vista o disposto no art. 4º, §2º, da Lei 11.419/06, que dispõe sobre a informatização do processo judicial e que prevê que a publicação no DJe substitui qualquer outro meio de intimação, para qualquer efeito legal, ‘à exceção dos casos que, por lei, exigem intimação ou vista pessoal’. 3.2. Precedente desta Corte de Justiça: ‘(...) 1. A intimação realizada por meio de publicação no Diário de Justiça Eletrônico - DJe prevalece sobre qualquer outro meio de comunicação, conforme art. 4º, § 2º, da Lei 11.419/06, inclusive a intimação eletrônica, efetivada por meio do Sistema PJe, em data posterior. 2. Negou-se provimento ao agravo interno.’ (07046847120188070018, Relator: Sérgio Rocha, 4ª Turma Cível, DJE: 23/10/2020). 3.3. Precedente do STJ: ‘1. A Corte Especial deste Tribunal já sedimentou que, havendo intimação eletrônica e publicação da decisão no Diário da Justiça Eletrônico, prevalece a data desta última, pois, nos termos do art. 4º, § 2º, da Lei 11.419/2006, a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais’ (AgInt nos EAREsp. 1.015.548/RJ, Relator o Ministro Humberto Martins, DJe 22/8/2018). 2. Agravo interno desprovido.’ (STJ, 3ª Turma, AgInt no AREsp 1510427 / RJ, Rel. Min. Marco Aurélio Bellizze, DJe 28/10/2019).
+
+4. Agravo interno conhecido e desprovido.”
+
+(Acórdão nº 1341891, 07066894920208070001, Relator: JOÃO EGMONT, 2ª Turma Cível, data de julgamento: 19/5/2021, publicado no PJe: 8/6/2021) (Ressalvam-se os grifos)
+
+“PROCESSUAL CIVIL. APELAÇÃO. RECURSO. AUSÊNCIA DE REQUISITO DE ADMISSIBILIDADE. ART. 932. III DO CPC. INTEMPESTIVIDADE. ART. 224, §§ 2º e 3º, CPC. CIÊNCIA DO PATRONO. PJE. PORTARIA CONJUNTA 33 DO TJDFT. CONTAGEM DE PRAZO PROCESSUAL. OBRIGAÇÃO DO ADVOGADO. OBSERVAÇÃO DA LEGISLAÇÃO APLICÁVEL. RECURSO NÃO CONHECIDO.
+
+1. Para que o recurso seja conhecido, devem ser preenchidos os requisitos de admissibilidade, que podem ser divididos em intrínsecos (cabimento, legitimidade, interesse recursal, inexistência de fatos impeditivos ou extintivos) e extrínsecos (tempestividade, preparo, regularidade formal).
+
+2. A teor do que dispõe o artigo 932, III, do CPC, o relator não conhecerá de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+
+3. O art. 224, §§ 2º e 3º, do CPC, considera-se como sendo data de publicação o primeiro dia útil seguinte ao da disponibilização do ato no Diário de Justiça eletrônico, iniciando-se a contagem do prazo recursal no primeiro dia útil seguinte à publicação.
+
+4. Não socorre o apelante a alegação de haver constado outra data no sistema do PJe, pois referida falha não autoriza a interposição de recurso fora do prazo, uma vez que os registros constantes dos sistemas não têm o condão de alterar o prazo legal. Ademais, trata-se de obrigação do advogado da parte realizar a contagem dos prazos recursais em conformidade com a legislação pertinente.
+
+5. Recurso não conhecido.”
+
+(Acórdão nº 1300428, 07070839020198070001, Relator: CARLOS RODRIGUES, 1ª Turma Cível, data de julgamento: 18/11/2020, publicado no DJE: 27/11/2020) (Ressalvam-se os grifos)
+
+“APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. EMENDA À INICIAL. NÃO ATENDIMENTO. INTIMAÇÃO PELO DJE. CIÊNCIA ELETRÔNICA. ART. 4º, § 2º, LEI 11.419/06. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. INDEFERIMENTO DA PETIÇÃO INICIAL. ART. 485, I, CPC. INTIMAÇÃO PESSOAL DA PARTE. DESNECESSIDADE.
+
+Na forma do art. 4º, § 2º, da Lei 11.419/06, a publicação no DJe de decisão judicial que impõe à parte a realização de ato processual substitui qualquer outro meio de intimação, razão pela qual a publicação anterior à ciência eletrônica do advogado no portal do PJe prevalece para fins de contagem do prazo processual.
+
+É desnecessária a intimação pessoal, prevista no art. 485, § 1º, do CPC, às hipóteses de extinção do processo, sem resolução do mérito, em face do indeferimento da petição inicial.”
+
+(Acórdão nº 1148447, 07028851120188070012, Relatora: CARMELITA BRASIL, data de julgamento: 30/1/2019, publicado no DJE: 11/2/2019) (Ressalvam-se os grifos)
+
+“PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. DISPONIBILIZAÇÃO DA DECISÃO NO DIÁRIO DE JUSTIÇA. POSTERIOR CIÊNCIA PELO PJE. NÃO REABERTURA DE PRAZO.
+
+1. Nos termos do artigo 4º, §§ 3º e 4º, da Lei n.º 11.419/2006, que dispõe sobre a informatização do processo judicial e dá outras providências, considera-se como data da publicação o primeiro dia útil seguinte ao da disponibilização no Diário de Justiça Eletrônico, começando a fluir o prazo no primeiro dia útil seguinte ao considerado como data de publicação.
+
+2. Conforme entendimento jurisprudencial do Superior Tribunal de Justiça a publicação no Diário de Justiça eletrônico prevalece sobre qualquer outro meio de publicação oficial. Precedentes: EDcl no AgInt no AREsp 1229542/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/02/2019, DJe 28/02/2019; AgInt no AREsp 1448288/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/09/2019, DJe 05/09/2019.
+
+3. Segundo jurisprudência desta Corte de Justiça, a ciência posterior no sistema eletrônico após a publicação do ato processual no Diário de Justiça não dilata o prazo para a interposição de recurso.
+
+4. Recurso conhecido e desprovido.”
+
+(Acórdão nº 1648226, 07267730620228070000, Relatora: MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 1/12/2022, publicado no DJE: 16/12/2022) (Ressalvam-se os grifos)
+
+“EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. DUPLA INTIMAÇÃO. PREVALÊNCIA DA DATA DA PUBLICAÇÃO. INTEMPESTIVIDADE CONFIGURADA. NÃO CONHECIMENTO.
+
+1. Nos termos do art. 4º da Lei 11.419/2006, que dispõe acerca da informatização do processo judicial, a comunicação eletrônica dos atos processuais tem como regra geral a publicação no Diário de Justiça Eletrônico.
+
+2. Na hipótese de duplicidade de intimação, via publicação por DJE e ciência inequívoca, prevalece a data da publicação via DJE, exceto quando a ciência ocorrer antes da publicação (art. 60 do Provimento n. 12 do TJDFT).
+
+3. No caso, a publicação da intimação ocorreu antes da ciência inequívoca do agravado embargante, sendo o termo inicial para contagem do prazo recursal da data da publicação.
+
+4. São intempestivos, portanto, os embargos de declaração opostos após findo o prazo contabilizado a partir da publicação do acórdão no DJE, ainda que o sistema do PJE tenha registrado ciência da parte em data posterior, de modo que o não conhecimento do recurso é a medida que se impõe.
+
+5. Embargos de declaração não conhecidos.”
+
+(Acórdão nº 1646670, 07109473720228070000, Relator: JOÃO LUÍS FISCHER DIAS, 5ª Turma Cível, data de julgamento: 30/11/2022, publicado no DJE: 15/12/2022 (Ressalvam-se os grifos)
+
+É importante ressaltar ainda que o Colendo Superior Tribunal de Justiça firmou o entendimento no sentido de que o prazo indicado pelo sistema PJe, por se tratar de singela sugestão, não tem aptidão para alterar o termo final para a interposição do recurso, que deve ser definido de acordo com as regras processuais aplicáveis.
+
+A propósito, atente-se ao teor das seguintes ementas de julgado da lavra da Colenda Corte Superior:
+
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE RECURSO APÓS O TRANSCURSO DO PRAZO RECURSAL. INTEMPESTIVIDADE. PRAZO SUGERIDO PELO SISTEMA PJE. IRRELEVÂNCIA. ÔNUS DA PARTE.
+
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+
+2. A contagem dos prazos recursais tem previsão no CPC e legislação que regulamenta o processo judicial eletrônico, de modo que é ônus da parte diligenciar por sua correta observância.
+
+3. O prazo sugerido pelo sistema do PJE não exime a parte interessada de interpor o recurso no prazo legal, uma vez que não vincula o termo final do prazo à data sugerida nem dispensa a parte recorrente da confirmação. Precedentes.
+
+4. É intempestivo o recurso especial que é interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação do acórdão recorrido.
+
+5 . Agravo interno não provido.”
+
+(AgInt no AREsp 2219318, Relator: Ministro BENEDITO GONÇALVES, 1ª Turma, data de julgamento: 24/4/2023, publicado no DJe: 26/4/2023) (Ressalvam-se os grifos)
+
+“AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE DO RECURSO. PRAZO SUGERIDO PELO SISTEMA PJE. IRRELEVÂNCIA.
+
+1. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 219, caput, 994, VI, 1.003, § 5º, e 1.029, todos do Código de Processo Civil.
+
+2. O prazo sugerido pelo sistema do PJe não exime a parte interessada de interpor o recurso no prazo legal, uma vez que não vincula o termo final do prazo à data sugerida nem dispensa a parte recorrente da confirmação. Precedentes.
+
+3. Agravo interno a que se nega provimento.”
+
+(AgInt no REsp 1873396, Relatora: Ministra MARIA ISABEL GALLOTTI, 4ª Turma, data de julgamento: 14/2/2022, publicado no DJe: 17/2/2022) (Ressalvam-se os grifos)
+
+Assim, o agravo interno manejado pela recorrente revela-se intempestivo e não pode ser conhecido.
+
+Quanto ao mais, nos termos do art. 80 do CPC pode ser considerado como litigante de má-fé aquele que: a) deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso; b) alterar a verdade dos fatos; c) usar do processo para conseguir objetivo ilegal; d) opuser resistência injustificada ao andamento do processo; e) proceder de modo temerário em qualquer incidente ou ato do processo; f) provocar incidente manifestamente infundado; ou g) interpuser recurso com intuito manifestamente protelatório.
+
+No caso em análise, no entanto, a conduta da agravante não se ajusta a nenhuma das hipóteses aludidas.
+
+Aliás, o entendimento jurisprudencial consolidado neste Egrégio Tribunal de Justiça é no sentido de que a aplicação de multa por litigância de má-fé exige a demonstração clara do dolo, bem como o prejuízo à parte contrária, o que não ocorreu no caso em análise.
+
+A esse respeito examinem-se as seguintes ementas promanadas deste Egrégio Tribunal de Justiça:
+
+“DIREITO PROCESSUAL CIVIL. AÇÃO DE CONHECIMENTO. TUTELA DE URGÊNCIA. PLANTÃO. AGRAVO DE INSTRUMENTO. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. MULTA. DESCABIMENTO. CONDENAÇÃO AFASTADA. DECISÃO PARCIALMENTE REFORMADA.
+
+1 - Nos termos dos incisos do art. 80 do Código de Processo Civil, considera-se litigante de má-fé aquele que deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso, alterar a verdade dos fatos, usar do processo para conseguir objetivo ilegal, opuser resistência injustificada ao andamento do processo, proceder de modo temerário em qualquer incidente ou ato do processo, provocar incidente manifestamente infundado ou interpuser recurso com intuito manifestamente protelatório.
+
+2 - Inexistente a comprovação de dolo processual da parte, é descabida a aplicação de penalidade por litigância de má-fé. Agravo de Instrumento parcialmente provido.”
+
+(Acórdão 1408070, 07363573420218070000, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 16/3/2022, publicado no DJE: 29/3/2022)
+
+“PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS C/C PEDIDO DE RESPOSTA. PROTOCOLO DE CONTRARRAZÕES APÓS O HORÁRIO DE EXPEDIENTE. ENCAMINHAMENTO AO PLANTÃO JUDICIAL. EQUÍVOCO. IMPOSIÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ E ENVIO DE OFÍCIO À OAB/SP. DESCABIMENTO. MEDIDAS DESPROPORCIONAIS E DESARRAZOADAS. LITIGÂNCIA DE MÁ-FÉ. CONDUTAS ESTABELECIDAS NO ART. 80 DO CPC. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO PROVIDO. DECISÃO REFORMADA.
+
+1. O protocolo de petição de contrarrazões à apelação fora do horário de expediente e de esta ter sido encaminhada ao juiz plantonista não pode ser encarada como litigância de má-fé, que tem suas hipóteses bem delineadas no art. 80 do CPC. 1.1. Compete ao magistrado designado para o exercício do plantão averiguar se o pedido tem natureza urgente a demandar o exame e a decisão no período excepcional ou se deve ser encaminhado ao juiz natural.
+
+2. Não sendo o caso de litigância de má-fé, especialmente porque na espécie se tratava de protocolo de contrarrazões à apelação interposta pela parte contrária e a apelada restou integralmente vencedora na sentença, não deve ser imposta multa à parte, tampouco determinado o envio de ofício ao órgão de classe para eventual apuração de infração ética.
+
+3. Agravo de instrumento provido. Decisão reformada.”
+
+(Acórdão 1293368, 07011792420208079000, Relator: ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 14/10/2020, publicado no DJE: 4/11/2020)
+
+Feitas essas considerações, deixo de conhecer o recurso.
+
+É como voto.
+
+O Senhor Desembargador RENATO RODOVALHO SCUSSEL - Relator Designado e 1º Vogal
+
+Cuida-se de Agravo Interno interposto por DANIELA AIRES VILCHEZ contra a decisão monocrática de Id. 51771108, por intermédio da qual o Desembargador Relator deixou de conhecer o agravo de instrumento movido pela ora agravante ao fundamento de que, no exercício do juízo de admissibilidade, verificou-se manifesta intempestividade.
+
+O Desembargador Relator, em seu voto, deixou de conhecer o presente recurso, tendo em vista não estarem preenchidos todos os requisitos necessários ao seu conhecimento e processamento, diante de sua manifesta intempestividade.
+
+À vista disso, peço as mais respeitosas vênias ao Desembargador Relator, para apresentar meu entendimento divergente a respeito da temática que envolve o Agravo de Interno interposto.
+
+A controvérsia recursal cinge-se à análise do preenchimento dos requisitos de admissibilidade do recurso, particularmente a sua tempestividade, considerando a eventual concomitância de intimação eletrônica realizada por intermédio de Portal de Sistema Eletrônico disponibilizado pelo Tribunal (PJe) e a efetivada através do Diário de Justiça eletrônico (DJe).
+
+A respeito do assunto, adoto como entendimento a corrente jurisprudencial que defende que deva prevalecer a intimação realizada pelo Portal Eletrônico e que a intimação pela publicação em órgão oficial deve ser utilizada de forma subsidiária à intimação eletrônica, em face do disposto no art. 272 do CPC, in verbis: “Quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial”.
+
+Nesse sentido, considerando que o artigo 5º, caput, da Lei 11.419/2006 estabelece que:
+
+Art. 5º As intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico.
+
+E que, conforme a Portaria GC 160, de 11 de outubro de 2017, que regulamenta o cadastramento de empresas públicas e privadas para o recebimento de citações e intimações de forma eletrônica no âmbito da Justiça do Distrito Federal e dos Territórios:
+
+(...)
+
+Art. 2º Com exceção das microempresas e das empresas de pequeno porte, é obrigatório o cadastramento das empresas e entidades públicas e privadas nos sistemas de processo em autos eletrônicos, para efeito de recebimento de citações e intimações, as quais serão efetuadas preferencialmente por esse meio.
+
+(...)
+
+Art. 5º A comunicação eletrônica “via sistema” dos atos processuais substitui qualquer outro meio de publicação oficial, à exceção dos casos previstos em lei. (Grifou-se.)
+
+Tenho como inevitável a conclusão a qual chegou o Ministro Raul Araújo, eminente relator do precedente firmado pela Corte Especial do STJ nos Embargos de Divergência n. 1.663.952/RJ:
+
+Se a própria Lei do Processo Eletrônico criou essa forma de intimação, dispensando qualquer outra, e tornou este mecanismo hábil a promover, inclusive, as intimações pessoais dos entes que possuem tal prerrogativa, não há como afastar a conclusão de que esta regerá o prazo naturalmente em relação ao advogado que esteja cadastrado no sistema eletrônico. Há, pois, uma presunção de validade, que leva a exigir do Poder Judiciário comportamento condizente com os ditames legais e com a boa-fé processual.
+
+ Dessa forma, em caso de duplicidade de intimações válidas, a parte não poderá ser prejudicada em razão de procedimento do poder judiciário que cause dúvida quanto ao termo inicial de contagem dos prazos, ainda mais porque, nas palavras do Ministro Relator do EAREsp 1.663.952-RJ:
+
+Com efeito, levando-se em consideração os princípios da boa-fé processual, da confiança e da não surpresa, atinentes ao Direito Processual, deve a norma ser interpretada da forma mais favorável à parte, a fim de se evitar prejuízo na contagem dos prazos processuais.
+
+Afinal, "em se tratando de prazos, o intérprete, sempre que possível, deve orientar-se pela exegese mais liberal, atento às tendências do processo civil contemporâneo - calcado nos princípios da efetividade e da instrumentalidade - e à advertência da doutrina de que as sutilezas da lei nunca devem servir para impedir o exercício de um direito" (REsp 11.834/PB, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, julgado em 17/12/1991, DJ de 30/03/1992). (...)
+
+Como bem delineou o eminente Ministro Antonio Carlos, no voto acima reverenciado, o advogado que se cadastra no sistema eletrônico de intimação de um determinado Tribunal, devidamente previsto em lei e que dispensa outra forma de intimação, acaba depositando confiança no ato oficial do Judiciário para fins da contagem dos prazos processuais a que está submetido. Entender de forma diversa, efetivamente, é tornar inútil a moderna sistemática de notificação dos atos oficiais introduzida pela Lei do Processo Eletrônico.
+
+Desse modo, entende-se que sempre que a modalidade de intimação pelo Portal Eletrônico (art. 5º da Lei 11.419/2006) for prevista e aplicável em determinado Tribunal para os advogados devidamente cadastrados, deve esta prevalecer sobre a tradicional intimação pelo DJe.
+
+Na hipótese dos autos, verifica-se que o núcleo de práticas jurídicas que representa a parte recorrente efetuou o cadastramento no Sistema de Processo em Autos Eletrônicos (PJe), para efeito de recebimento de citações e intimações, conforme as disposições da Lei 11.419/2006 e da Portaria GC 160 deste Tribunal, habilitando-o a receber as intimações por meio do respectivo portal.
+
+Dessa maneira, em respeito aos princípios da boa-fé processual, da previsibilidade e da não surpresa, demonstra-se bastante razoável que todas as intimações referentes ao processo em apreço se deem da mesma forma, qual seja, pelo Portal Eletrônico, não se justificando a modificação ou a alternância da forma de intimação sem motivação.
+
+Assim, entendo que o termo inicial prevalente na contagem dos prazos quando haja concomitância de intimações eletrônicas, uma pelo Portal Eletrônico (PJe) e outra pelo Diário da Justiça Eletrônico (DJe), é o termo iniciado pela intimação realizada via Portal Eletrônico, ainda mais quando efetuada a intimação da mesma forma durante todo o trâmite processual.
+
+Nessa perspectiva, colaciono os seguintes julgados deste egrégio Tribunal de Justiça:
+
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. TEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. PARCEIRO DO PJE. TERMO INICIAL DO PRAZO. CIÊNCIA NO SISTEMA. OMISSÃO. ART. 1.022 DO CPC. EMBARGOS ACOLHIDOS. (...) 3. Razão assiste ao embargante quanto à omissão apontada no acórdão. Verifica-se que o Banco é cadastrado no Sistema PJe, portanto considerado empresa parceira, de modo que suas intimações ocorrem via sistema eletrônico. 3.1. Consoante precedente firmado pela Corte Especial do STJ nos Embargos de Divergência n. 1.663.952/RJ, em caso de dupla intimação, a data de registro da ciência do advogado no sistema virtual (intimação eletrônica) prevalece sobre a data de publicação do ato no Diário de Justiça Eletrônico. (...) 5. Embargos acolhidos para reconhecer a tempestividade do agravo de instrumento. (Acórdão 1677917, 07238986320228070000, Relator: João Egmont, 2ª Turma Cível, Data de Julgamento: 15/03/2023, Publicado no DJE: 31/03/2023. Grifou-se.)
+
+PROCESSUAL CIVIL. AGRAVO INTERNO. APELAÇÃO CÍVEL. TEMPESTIVIDADE. CONTAGEM DE PRAZO. DUPLICIDADE DE INTIMAÇÕES. Lei nº 11.419/2006. DIARIO DE JUSTIÇA ELETRONICO. PREVALENCIA. SÚMULA Nº 168/STJ. RECURSO CONHECIDA PARA REFORMA DA DECISÃO.   1. A tempestividade ou não da apelação depende do termo a ser considerado para fim da contagem do prazo para sua interposição.    2. A decisão monocrática recorrida entendeu que deveria ser considerada a publicação da decisão no DJe para a contagem do prazo, enquanto a parte interessada persegue o reconhecimento do prazo a partir da intimação eletrônica.    3. A questão foi tormentosa na jurisprudência, mas restou pacificada pelo Superior Tribunal de Justiça em sede de recurso repetitivo, quando se fixou a tese de que, havendo duplicidade de intimação na forma da Lei nº 11.419/2006 prevalecerá a intimação eletrônica.    4. Recurso conhecido e provido para conhecer a apelação interposta.   (Acórdão 1785141, 07073443220228070007, Relator Designado: Roberto Freitas Filho, 3ª Turma Cível, Data de Julgamento: 09/11/2023, Publicado no DJE: 07/12/2023. Grifou-se.)
+
+Nesse contexto, considero que deve ser afastada a intempestividade tanto do presente Agravo Interno quanto do Agravo de Instrumento, tendo em vista que a interposição dos recursos se deu de modo tempestivo, pelo que CONHEÇO DO AGRAVO INTERNO E DO AGRAVO DE INSTRUMENTO.
+
+E, ocorrendo a superação da questão preliminar, aguarde-se o pronunciamento do Desembargador Relator a respeito do mérito do Agravo de Instrumento.
+
+É como voto.
+
+O Senhor Desembargador FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal p{text-align: justify;}Nobres Julgadores,
+
+Rogo as mais respeitosas vênias ao entendimento do e. Relator Des. ÁLVARO CIARLINI para apresentar uma concepção jurídica diversa sobre o tema.
+A matéria controvertida centra-se na análise do preenchimento dos requisitos de admissibilidade dos recursos interpostos (agravo interno e agravo de instrumento), mais especificamente sua tempestividade.
+Sua Excelência nega conhecimento ao agravo interno e ao agravo de instrumento interpostos em razão de suposta intempestividade e pondera que [...] independentemente do cadastro prévio da parte, eventual registro de ciência em momento posterior, efetuado por meio do sistema de consulta processual disponibilizado por este Egrégio Tribunal de Justiça (PJe), não tem o condão de alterar o termo inicial para a contagem do prazo recursal fixado a partir da publicação oficial (DJe) precedente.
+Não obstante a consistente fundamentação jurídica externada pelo e. Relator, rogo as mais respeitosas vênias para apresentar entendimento jurídico diverso.
+De plano, registro que todos os prazos processuais da presente demanda (mesma a apresentação do presente agravo interno) até então foram contados da intimação eletrônica (Pje) da parte ré, ora agravante, incluindo a realização de intimação eletrônica (Pje) da decisão impugnada em sede de agravo de instrumento.
+Em relação ao agravo interno, em análise do andamento processual, consta intimação eletrônica da decisão monocrática do e. Relator (não conheceu o agravo de instrumento interposto pela suposta intempestividade) em 26 de setembro de 2023, cuja ciência foi registrada pelo Núcleo de Práticas Jurídicas – UDF, representante da agravante, no dia 6 de outubro de 2023 (prazo processual de 30 dias - considerada a dobra disposta no Código de Processo Civil, art. 186, §3º -  se encerrou no dia 23 de novembro de 2023). O agravo interno foi interposto, portanto, no último dia do prazo.
+O mesmo ocorre com o agravo de instrumento, em que consta intimação eletrônica da decisão guerreada em 4 de agosto de 2023, cuja ciência foi registrada pelo Núcleo de Práticas Jurídicas – UDF no dia 14 de agosto de 2023  (prazo processual de 30 dias - considerada a dobra disposta no Código de Processo Civil, art. 186, §3º - se encerrou no dia 26 de setembro de 2023).
+As intimações processuais ocorreram concretamente via sistema (PJe), e não pelo Diário de Justiça Eletrônico, por se tratar de parceiro cadastrado para o recebimento de citações e de intimações de forma eletrônica no âmbito da segunda instância da Justiça do Distrito Federal e Territórios, na forma do art. 270 do Código de Processo Civil e da Portaria GPR 239, de 7 fevereiro de 2019.
+No ponto, estabelece o art. 5º da Lei 11.419/2006 que as intimações serão feitas por meio eletrônico, em portal próprio às empresas e de entidades públicas e privadas cadastradas, dispensando-se a publicação no órgão oficial.
+Somado a isso, a Portaria GC 160, de 11 de outubro de 2017, regulamentou no âmbito deste Tribunal de Justiça o cadastramento obrigatório das empresas públicas e privadas para recebimento de citações e intimações eletrônicas, e estabeleceu em seu art. 5º que a comunicação eletrônica dos atos processuais substitui qualquer outro meio de publicação oficial, à exceção dos casos previstos em lei.
+Essa situação processual de obrigatoriedade do cadastramento das empresas públicas e privadas para fins de comunicação processual (recebimento de citação e intimação eletrônica c/c dispensa de publicação no órgão oficial) cria, em contrapartida, a obrigatoriedade ao Poder Judiciário de conferir predominância à intimação eletrônica realizada pelo PJe.
+Trata-se de uma via (comunicação processual) necessariamente de mão dupla (via PJe), em que se dessume a dispensabilidade (ou menor utilidade) da intimação, via DJe.
+A eventual concomitância de comunicações (DJe x PJe) provoca uma insegurança jurídica sobre o efetivo marco temporal à realização dos atos processuais, o que pode causar graves prejuízos.
+No cenário em que se deve conferir maior confiabilidade e preservação aos meios de intimação e contagem dos prazos processuais, não se visualiza justa causa para ser considerada a publicação no Diário de Justiça Eletrônico (DJe) como marco inicial para contagem do prazo de resposta, mas sim a intimação eletrônica, por meio do sistema PJe, a quem foi exigido o cadastro obrigatório exatamente a esse propósito (intimação/citação), sob pena de comprometer a própria utilidade desse mecanismo cibernético.
+Se tiver sido concorrentemente procedida a intimação (via DJe), há de prevalecer a intimação eletrônica (via PJe) para o parceiro obrigatoriamente cadastrado.
+Nesse sentido:
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AÇÃO DE CONHECIMENTO. SEGURO DE VIDA. INTEMPESTIVIDADE DO RECURSO DA SEGUNDA RÉ. PRAZO RECURSAL. PRAZO A PARTIR DA PUBLICAÇÃO. ART. 4º, §2º, DA LEI Nº 11.419/06. OMISSÃO QUANTO À PREVALÊNCIA DA INTIMAÇÃO PESSOAL SOBRE A PUBLICAÇÃO. ART. 5º, PARÁGRAFO PRIMEIRO, DA LEI Nº 11.419/2006. NECESSIDADE DE ESCLARECIMENTO. EMBARGOS ACOLHIDOS.   1. Trata-se de embargos de declaração opostos contra o acórdão, que por ausência do requisito de tempestividade, não conheceu da apelação interposta pelo embargante 1.1. Em suas razões, requer o acolhimento dos embargos, o que, no caso, ensejaria no conhecimento da apelação interposta, como tempestiva.  2. Nos termos do art. 1.022 do Código de Processo Civil, os embargos declaratórios têm por finalidade a eliminação de obscuridade, contradição e omissão existentes no julgado e, ainda, a correção de erro material.  3. O acórdão embargado não conheceu do apelo interposto pelo embargante, em razão da preclusão temporal, considerando a intimação por meio do Diário de Justiça Eletrônico.  4. A respeito do caso, de acordo com o precedente firmado pela Corte Especial do Superior Tribunal de Justiça, nos embargos de divergência n. 1.663.952/RJ, quando há dupla intimação, a data de registro da ciência do advogado no sistema virtual (intimação eletrônica) prevalece sobre a data de publicação do ato no Diário de Justiça. 4.1. Confira-se: "[...] Há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.  5. Desse modo, os embargos devem ser acolhidos para sanar a omissão do acórdão, de forma a considerar a prevalência da intimação eletrônica sobre a publicação no Diário da Justiça (DJE).  6. Embargos declaratórios acolhidos.
+(Acórdão 1778022, 07013365720228070001, Relator: JOÃO EGMONT, 2ª Turma Cível, data de julgamento: 25/10/2023, publicado no DJE: 13/11/2023.)
+
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. PRELIMINAR DE INTEMPESTIVIDADE E DESERÇÃO. INOCORRÊNCIA. VALOR INDEVIDAMENTE LEVANTADO. RESISTÊNCIA EM EFETUAR A RESTITUIÇÃO. LITIGÂNCIA DE MÁ-FÉ. CONFIGURADA. 1. Não há que se falar em intempestividade quando a parte está representada por núcleo de prática jurídica, devidamente cadastrada como parceira eletrônica, e é intimada via sistema. O prazo começa a correr a partir da sua intimação via sistema e não publicação do DJe. 2. Há dispensa legal do pagamento do preparo quando a parte é beneficiária da gratuidade de justiça e não consta informação acerca da sua revogação. 3. Para caracterizar a litigância de má-fé exige-se a presença do elemento subjetivo - dolo ou culpa grave - e outro objetivo, que consiste no prejuízo processual causado à parte adversa, bem como a presença de requisitos intrínsecos e extrínsecos da lei, quais sejam: a) que a conduta da parte se enquadre em uma das hipóteses do art. 80 do CPC; b) que não decorra do exercício do direito de defesa. 4. In casu, patente a resistência do agravante em prontamente restituir os valores levantados indevidamente, de modo que subsume-se a hipótese ao inciso IV do art. 80 do CPC. 5. Preliminares rejeitadas. Negou-se provimento ao agravo de instrumento. Agravo interno prejudicado.
+(Acórdão 1689973, 07295393220228070000, Relator: ARQUIBALDO CARNEIRO PORTELA,  8ª Turma Cível, data de julgamento: 18/4/2023, publicado no DJE: 28/4/2023.)
+
+  APELAÇÃO CÍVEL. ALIMENTOS. DESONERAÇÃO. PROLE COM FORMAÇÃO EM NÍVEL SUPERIOR CONCLUÍDA. INTEMPESTIVIDADE.  PRAZO EM DOBRO. CONSIDERADO. INTIMAÇÃO VIA PORTAL VIRTUAL. APLICAÇÃO DA LEI  DE PROCESSOS ELETRÔNICOS (ART. 5º, §3º). PRECEDENTES DO STJ.  RECURSO NÃO CONHECIDO. 1. Acórdão cassado para determinar o retorno a esta Corte, considerando jurisprudência que se firmou no Superior Tribunal de Justiça (STJ) acerca da preferência da intimação via portal virtual em relação àquela realizada via Dje. Nova análise considerando unicamente a intimação via portal eletrônico desta Corte.   2.  A consulta eletrônica da intimação do ato deve ocorrer em até dez dias corridos, contados da comunicação via sistema. Caso a consulta não seja implementada no prazo assinalado, considerar-se-á intimada a parte, de forma automática (art. 5º, §3º, da Lei 11.479/06). Previsão que se aplica às entidades que gozam da prerrogativa de intimação pessoal. Precedentes do STJ.   3. Uma vez que transcorridos quase 3 (três) meses desde a primeira intimação via portal judicial, resta inarredável o reconhecimento de falta de pressuposto objetivo de admissibilidade do recurso relativo à tempestividade (art. 1003, §5º, do Código de Ritos).   4. Apelação não conhecida.
+(Acórdão 1416732, 07025727420188070004, Relator: ROMEU GONZAGA NEIVA, 7ª Turma Cível, data de julgamento: 20/4/2022, publicado no DJE: 6/5/2022.)
+
+Confira-se a jurisprudência do Superior Tribunal de Justiça:
+
+DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.  1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.  2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.  3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.  Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.  4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial.  (EAREsp 1663952/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 19/05/2021, DJe 09/06/2021) (grifo nosso)
+
+Ressalto, por oportuno, a existência do Tema Repetitivo 1.180 do Superior Tribunal de Justiça, cuja questão a ser submetida a julgamento é a definição do “marco inicial do prazo recursal nos casos de intimação eletrônica e de publicação no Diário da Justiça eletrônico”, que ainda se encontra pendente de julgamento.
+Nesse quadro fático-jurídico, conheço do agravo interno e do agravo de instrumento interpostos, por sua tempestividade.
+Se superada a questão preliminar, aguardo manifestação do e. Relator sobre o mérito da questão principal, objeto do agravo de instrumento.
+É o voto.
+
+DECISÃO
+
+RECURSOS DE AGRAVO DE INSTRUMENTO E AGRAVO INTERNO CONHECIDOS, NOS TERMOS DO VOTO DO EMINENTE 1º VOGAL, DESEMBARGADOR RENATO SCUSSEL, QUE REDIGIRÁ O ACÓRDÃO. RETORNO DOS AUTOS AO RELATOR PARA MANIFESTAÇÃO QUANTO AO MÉRITO. MAIORIA. VENCIDO O EMINENTE RELATOR.
