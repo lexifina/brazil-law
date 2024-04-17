@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Luis da Silva Correa contra a decisão do Tribunal de Justiça de São Paulo, que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 1500416-17.2022.8.26.0617, assim ementado (fl. 254):
+Apelação - Furto simples - Art. 155, caput, do CP - Materialidade e autoria incontroversas - Pedido de absolvição pelo reconhecimento da atipicidade material da conduta - Insignificância não caracterizada - Valor do bem subtraído, isoladamente considerado, não impede a aplicação do princípio - Pedido não acolhido.
+Afastamento dos maus antecedentes - Período depurador não aplicável - Tese não albergada.
+Compensação entre a agravante da reincidência com a atenuante da confissão espontânea - Impossibilidade - Multirreincidência - Recrudescimento da pena de rigor.
+Desclassificação para a modalidade tentada - Desnecessidade de posse mansa e pacífica - Pedido não atendido.
+Redução da pena - correção de mero erro material.
+Modificação do regime carcerário inicial para o aberto - Impossibilidade - Circunstâncias judiciais desfavoráveis e reincidências - Inteligência do art. 33, §§ 2º e 3º, do CP - Alegação não acolhida.
+Recurso parcialmente provido.
+Nas razões do especial, apontou a Defensoria Pública violação dos arts. 386, III, do Código de Processo Penal e 155 do Código Penal, sustentando, em suma, a absolvição por atipicidade material da conduta, com aplicação do princípio da insignificância, tendo em vista a mínima ofensividade da conduta (fls. 276/284).
+Apresentadas contrarrazões (fls. 288/293), o recurso foi inadmitido na origem, por incidência das Súmulas 7 e 182/STJ (fls. 296/297).
+Daí o presente agravo (fls. 302/314). Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo, nos seguintes termos (fl. 296):
+AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INVIABILIDADE.
+1. De acordo com a jurisprudência do STF e do STJ, a reiteração da conduta criminosa impede a aplicação do princípio da insignificância, porque a reprovabilidade do comportamento seria agravada de modo significativo e estaria demonstrada a periculosidade do agente.
+2. Parecer pelo não provimento do agravo.
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões recursais.
+A pretensão recursal direciona-se ao reconhecimento da atipicidade da conduta, com aplicação do princípio da insignificância e consequente absolvição do ora agravante.
+A Corte de origem rejeitou a tese de atipicidade da conduta, afirmando não ser o caso de aplicação do princípio da insignificância, mediante os seguintes fundamentos (fls. 256/257 - grifo nosso):
+ ..  Quanto ao mérito recursal, tem-se que não há que se falar na aplicação do postulado da insignificância, pois de acordo com o entendimento dos tribunais superiores, somente deve ser aplicado para casos isolados, em que o valor do bem é ínfimo, atrelado a outros requisitos.
+O E. STF estabeleceu vetores para sua aplicação, quais sejam: (i) mínima ofensividade da conduta, (ii) nenhuma periculosidade social da ação, (iii) reduzido grau de reprovabilidade do comportamento e (iv) inexpressividade da lesão jurídica provocada.
+E no caso em tela não há como olvidar que o bem subtraído possua valor reduzido (R$ 40,00 cf. auto de avaliação à fl. 54), mas não há como considerá-lo quantia irrisória, bem como afirmar que a reprovabilidade da ação é ínfima a ponto de se considerar atípica a conduta.
+Em outras palavras, não basta ser de pequeno valor a coisa furtada para que se aplique tal princípio, sendo de rigor o preenchimento de todos os requisitos, o que não é o caso dos autos, já que o recorrente possui maus antecedentes e reincidências, o que demonstra que faz da prática delitiva seu meio de vida.
+Ademais, a conduta do réu prejudicou um número indeterminado de moradores.
+Neste sentido, vale menção ao entendimento do C. STJ:  ..
+De fato, a hipótese dos autos não se trata de situação que atrai a incidência excepcional do princípio da insignificância.
+A habitualidade criminosa do réu, representada na multirreincidência em crimes contra o patrimônio, associado ao fato de ter ele subtraído 100 metros de cabos elétricos, prejudicando um número indeterminado de moradores (fl. 257), denotam a acentuada reprovabilidade de sua conduta.
+Confiram-se: AgRg no AREsp n. 2.459.660/MA, Ministro Messod Azulay Neto, Quinta Turma, DJe 1º/12/2023; AgRg no HC n. 791.706/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/6/2023; HC n. 811.338/SP, de minha relatoria, Sexta Turma, DJe 4/5/2023; AgRg no AREsp n. 2.053.225/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022; AgRg no HC n. 709.569/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/2/2022; HC n. 716.883/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/3/2022; AgRg no HC n. 639.147/SP, Ministro João Otávio de Noronha, Quinta Turma, julgado em 22/6/2021, DJe 28/6/2021; e RHC n. 118.548/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/12/2019, DJe 13/12/2019.
+Não é outra a opinião do Subprocurador-Geral da República (fl. 338):
+ ..  14. No caso dos autos, não estão presentes os referidos requisitos, pois o réu é reincidente, sendo contumaz na prática de crimes. No ponto, constou do acórdão que: no caso em tela não há como olvidar que o bem subtraído possua valor reduzido (R$ 40,00 cf. auto de avaliação às fls. 54), mas não há como considerá-lo quantia irrisória, bem como afirmar que a reprovabilidade da ação é ínfima a ponto de se considerar atípica a conduta. Em outras palavras, não basta ser de pequeno valor a coisa furtada para que se aplique tal princípio, sendo de rigor o preenchimento de todos os requisitos, o que não é o caso dos autos, já que o recorrente possui maus antecedentes e reincidências, o que demonstra que faz da prática delitiva seu meio de vida. Ademais, a conduta do réu prejudicou um número indeterminado de moradores (fls. 256/257 e-STJ).
+15. Com efeito, o Superior Tribunal de Justiça se posiciona no sentido de que a reiteração da conduta criminosa, por agravar de modo significativo a reprovabilidade do comportamento, constitui óbice à aplicação do princípio da insignificância. Nesta diretriz, cito os seguintes precedentes:  ..
+Aliás, já decidiu este Superior Tribunal de Justiça: Inaplicável o princípio da insignificância diante de furto de cabos de telefonia, elétricos ou de internet, de propriedade de concessionárias prestadoras de serviço público, pois que a ação criminosa provoca considerável prejuízo à coletividade. Incidência da Súmula n. 83 do STJ (AgRg no AREsp n. 2.373.396/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 4/3/2024 - grifo nosso), o que também ocorreu na hipótese em tela. Na mesma linha, o AgRg no HC n. 835.652/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Tur ma, DJe 13/9/2023; o AgRg no HC n. 816.193/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2023, e o AgRg no HC n. 809.260/SP, Ministra Laurita Vaz, Sexta Turma, DJe 28/4/2023.
+É o caso, pois, de incidir a Súmula 568/STJ.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. SUBTRAÇÃO DE 100 METROS DE CABOS ELÉTRICOS. PRINCÍPIO DA INSIGNIFICÂNCIA. DESCABIMENTO. PARTICULARIDADES DO CASO. RÉU MULTIRREINCIDENTE EM CRIMES CONTRA O PATRIMÔNIO. MAUS ANTECEDENTES. PREJUÍZO À COLETIVIDADE. MAIOR REPROVABILIDADE DA CONDUTA. INCIDÊNCIA DA SÚMULA 568/STJ.
+Agravo conhecido para desprover o recurso especial.
