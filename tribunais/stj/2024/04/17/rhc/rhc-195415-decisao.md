@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 77):
+HABEAS CORPUS - CONSTRANGIMENTO ILEGAL - CONVERSÃO PARA PRISÃO DOMICLIAR - FALSIFICAÇÃO DE MOEDA, USO DE DOCUMENTO FALSO, ESTELIONATO E FURTO QUALIFICADO - NECESSIDADE DE COLOCAÇÃO DO PACIENTE EM PRISÃO DOMICILIAR, POR SER PORTADOR DE HIPERTENSÃO ARTERIAL - ORDEM DENEGADA. 1. Ao consultar o sistema INFOPEN observe-se que o Paciente tem recebido frequentemente acesso ao tratamento médico. 2. Considerando o abordado nos autos, bem como as complexidades do caso em questão, não há que se falar em necessidade de colocação do Paciente em prisão domiciliar, por ser portador de hipertensão arterial. Ordem denegada.
+O recorrente cumpre pena em regime fechado por furto qualificado, estelionato, falsificação de moeda e uso de documento falso. Requereu à origem a concessão de custódia domiciliar humanitária, mas não obteve êxito.
+Neste writ, alega não ter acesso ao devido tratamento médico cardiológico, do qual necessita por ser portador de hipertensão. Também assevera ser o único responsável pelos cuidados das filhas, uma delas autista, e a outra recentemente diagnosticada com ansiedade, depressão e transtorno de personalidade; a mãe, por sua vez, teria sido diagnosticada com depressão severa, "demonstrando assim sua incapacidade atual na criação das filhas" (fl. 132).
+Busca "a imediata conversão da pena cumprida atualmente em regime fechado para prisão domiciliar do paciente, sem prejuízo da fixação de outras medidas cautelares a critério do juízo" (fl. 137).
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+O pedido foi negado em primeira instância nos seguintes termos (fl. 21):
+No presente caso, o laudo médico acostado ao item 223.1 atestou que o apenado apresenta atualmente bom estado de saúde, realiza acompanhamento regular devido diagnóstico de Hipertensão Arterial Sistêmica, possuindo assistência por equipe multidisciplinar de saúde na unidade prisional.
+Portanto, considerando que a prisão domiciliar é uma medida excepcional, que deve ser concedida somente quando restar demonstrado que o Estado não possui condições de oferecer o tratamento adequado no interior do cárcere, resta claro que o apenado não se encaixa na hipótese pois não preenche os requisitos necessários para a concessão da benesse.
+No mesmo sentido, o acórdão consignou (fl. 79):
+A Defesa alega que as condições atuais do presídio não proporcionam ao detento, acesso a medicamentos e tratamento médico necessário para sua situação de saúde.
+Entretanto, assim como já explicado na decisão que indeferiu o pedido de liminar, em consulta ao sistema INFOPEN observe-se que o Paciente tem recebido frequentemente acesso a consultas e acompanhamento médico.
+Tanto é verdade, que podemos mencionar que na data de 21/09/2023 esteve em consulta com médico generalista e com nutricionista, na data de 22/09/2023 o Paciente esteve em consulta com médico de saúde mental, em 30/09/2023 esteve em escolta de saúde com destino à USSP(Unidade de Saúde do Sistema Prisional).
+Por outro lado, no que tange à alegação defensiva de que a filha do paciente é portadora do espectro autista, não há nos autos qualquer documentação que ateste ser o paciente Charles Augusto o único responsável pelos cuidados da infante.
+Dessa forma, considerando o abordado nos autos, bem como as complexidades do caso em questão, não há que se falar em necessidade de colocação do Paciente em prisão domiciliar.
+Ante o exposto, com amparo no parecer da douta Procuradoria-Geral de Justiça, denego a ordem.
+Como se vê, as instâncias ordinárias apontaram que, contrário ao que alega a defesa do recorrente, ele vem recebendo acompanhamento regular devido à sua patologia, "possuindo assistência por equipe multidisciplinar de saúde na unidade prisional", havendo laudo médico nos autos atestando seu bom estado de saúde.
+O Tribunal de Justiça indicou ainda não haver "qualquer documentação que ateste ser o paciente Charles Augusto o único responsável pelos cuidados da infante".
+Uma vez que as alegações fáticas não foram reconhecidas nas instâncias de origem, as quais são soberanas em análise de matéria fático-probatória, não cabe a esta Corte Superior infirmar seu convencimento - especialmente em sede de habeas corpus, via estreita que não permite dilação probatória. Ness e sentido: AgRg no HC n. 714.828/GO, exame relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/03/2022; AgRg no HC n. 729.295/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/03/2022; RHC n. 99.675/MG, relator Ministro Felix Fischer, Quinta Turma, DJe de 15/10/2018.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
