@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCIANA DOS SANTOS ROCHA à decisão de fls. 488/489, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Da respeitável decisão embargada, verifica-se que o recurso para destrancamento interposto foi julgado intempestivo.
+Porém, nesta isolada oportunidade, a decisão não andou bem, pois com todo o respeito, atenta contra a portaria de n. STJ/GP N. 1 DE 02 DE JANEIRO DE 2023, padecendo a r. decisão de obscuridade ou mesmo erro material, senão vejamos.
+A r. decisão tacada exigiu da recorrente que comprovasse ocorrência de feriado local, nomeadamente no que diz respeito ao "Corpus Christi", ocorrido em 08/06/2023.
+Ocorre que para efeitos do referida data, foi a mesma elevada a ponto facultativo ou feriado, por esta mesma Egrégia Corte Cidadã, conforme art. 1º, inciso, IV da citada portaria STJ/GP N. 1 DE 02 DE JANEIRO DE 2023: (fl. 493).
+ ..
+Tendo em vista assim, o fato de que o feriado de "Corpus Christi" operou em nível federal/nacional, não se pode tolher do cidadão Acesso à Justiça, pois objetivamente considerando, o referido dia não pode ser considerado dia útil (fl. 495).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Veja-se que, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Ressalte-se, ainda, que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 10.607/2002 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro. Como se percebe, o dia de Corpus Christi (Corpo de Cristo) não está previsto em nosso ordenamento jurídico no âmbito nacional. Nesse sentido: AgInt no AREsp 1867014/AM, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/08/2021; AgInt nos EDcl no REsp 1792664/RJ, relator Ministro Luis Felipe Salmão, Quarta Turma, DJe de 01/07/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
