@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo apresentado por PAULO LEITE JULIÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CERCEAMENTO DE DEFESA. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. MATÉRIA DE DIREITO. JULGAMENTO ANTECIPADO. ADMISSIBILIDADE. PRELIMINAR REJEITADA.
+EMBARGOS DE TERCEIRO. FRAUDE DE EXECUÇÃO. RECONHECIMENTO. ESCRITURA DE CESSÃO DE DIREITOS HEREDITÁRIOS, A TÍTULO ONEROSO, ENTRE IRMÃOS, LAVRADA APÓS A CITAÇÃO DO CEDENTE, EM AÇÃO EXECUTIVA. DISPENSA DE CERTIDÕES NEGATIVAS. ELEMENTOS PROBATÓRIOS QUE TRAZEM A PRESUNÇÃO DO "CONSILIUM FRAUDIS", VISANDO À REDUÇÃO ARTIFICIAL DO PATRIMÔNIO DO DEVEDOR, COM O INTUITO DE PREJUDICAR CREDORES. PRESUNÇÃO DE BOA-FÉ AFASTADA. INTELIGÊNCIA DO ARTIGO 792, IV, DO CPC E SÚMULA Nº 375, DO STJ. FRAUDE CARACTERIZADA. PRECEDENTE. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+RECURSO NÃO PROVIDO (fl. 845).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 369 do CPC, no que concerne à configuração do cerceamento de defesa, em razão de não ter sido oportunizada a produção de prova oral, trazendo a seguinte argumentação:
+In casu, seria extremamente necessária a produção de outras provas, conforme oportunamente especificado nos autos.
+Afinal, o acórdão inoportunizou fosse produzida a prova oral que serviria para comprovar, efetivamente, que não era de conhecimento de PAULO a crise econômica que afligia RICARDO.
+A produção da prova oral seria de extrema valia, outrossim, para comprovar que o Recorrente não tinha conhecimento da Ação de Execução em apenso, até porque a má-fé não pode ser presumida pelo simples fato de as partes do negócio jurídico serem parentes.
+A prova oral serviria, justamente, para comprovar a boa-fé do Recorrente quando da realização do negócio jurídico.
+ ..
+Assim, de se concluir que foi açodada a sentença e o acórdão, decaindo à nulidade, posto que não possibilitam ao Recorrente o direito de empregar os meios legais cabíveis à defesa para influir na convicção, o que não pode ser admitido (fls. 853/854).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 492 do CPC, no que concerne à ocorrência de julgamento extra petita relativamente ao pedido de "decl aração de ineficácia da cessão da conta da herança do executado Ricardo ao Recorrente", trazendo a seguinte argumentação:
+O acórdão afastou a tese de que a sentença seria extra petita, exposta em apelação, por entender que "o embargado peticionou, ventilando acerca do conluio e da fraude de execução praticada pelos herdeiros, fatos estes apreciados pelo juízo singular".
+Ocorre que, salvo melhor juízo, em nenhum momento o Recorrido pretendeu a declaração da ineficácia da cessão herança do executado Ricardo ao Recorrente Paulo.
+ ..
+Assim, ao a sentença reconhecer a fraude à execução e declarar a ineficácia da cessão da conta da herança do executado Ricardo ao Apelante Paulo perante o Recorrido - o que foi ratificado como legítimo pelo v. acórdão - decai à expressa violação ao disposto no art. 492 do Código de Processo Civil, in verbis:
+ ..
+Afinal, se o Recorrido NÃO PEDIU a declaração de ineficácia da cessão da conta da herança do executado Ricardo ao Recorrente, de forma alguma a sentença o acórdão poderiam, de ofício, conceder referida "benesse" ao Recorrido (fls. 854/855).
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 792, IV, do CPC, no que concerne ao afastamento da má-fé da parte recorrente em razão da ausência dos requisitos para a fraude à execução, trazendo a seguinte argumentação:
+Pelos entendimentos emanados pelo v. acórdão há clara violação ao disposto no art. 792, IV, do Código de Processo Civil.
+Isso porque não há qualquer prova nos autos de que o Recorrente tinha conhecimento da ação em apenso ou de outras ações capazes de levar o executado à insolvência.
+O fato de se tratar de pessoas de mesma família não pode fazer presumir tal situação fática. A má-fé não pode ser presumida pelo simples fato de as partes do negócio jurídico serem parentes.
+Presume-se a má-fé quando há registro de penhora, ou da existência da demanda, ou indisponibilidade de bens no CPF do executado, o que faz o cessionário conhecedor da execução e de constrição sobre o cedente capaz de leva-lo à insolvência. Por decorrência lógica, presume-se, também, a boa-fé quando inexiste tal registro de indisponibilidade.
+E no caso, não havia qualquer registro de penhora, registro de existência da demanda ou indisponibilidade de bens no CPF de Ricardo, presumindo-se, por conseguinte, a boa-fé do Recorrente quando da realização do negócio jurídico.
+Além do mais, impende destacar não se trata o caso de fraude à execução relativa à transação imobiliária, mas sim de cessão de direitos hereditários, o que torna plenamente dispensável a apresentação de certidões negativas, sobretudo por ter o próprio Tabelionato de Notas realizado busca em nome do cedente (RICARDO AUGUSTO JULIÃO) na central de indisponibilidade de bens a qual, aliás, obteve o resultado "negativo":
+ ..
+O v. acórdão, paradoxalmente, impede a produção de provas (especialmente a oral), mas considera que a ausência de comprovação do pagamento (realizado em espécie) é ponto relevante para justificar a fraude a execução.
+ ..
+Portanto, inexistindo prova da má-fé do Recorrente ou dos demais requisitos para caracterização da fraude, pelos fatos e fundamentos acima expressos, não há que se determinar a fraude de execução como entendeu o v. acórdão, em clara afronta ao disposto pelo art. 792, IV, do Código de Processo Civil (fls. 856/863).
+É, no essencial, o relatório. Decido.
+Quanto a todas as controvérsias, o Tribunal de origem se manifestou nos seguintes termos:
+De início, ressalto que não houve o aventado cerceamento de defesa, pois a prova documental ofertada dispensava dilação probatória, inclusive a de natureza oral de herdeiro participante da cessão de direitos hereditários, que nada poderia acrescentar aos documentos juntados pelas parte.
+E a sentença não é extra petita, porquanto o embargado peticionou, ventilando acerca do conluio e da fraude de execução praticada pelos herdeiros, fatos estes apreciados pelo juízo singular.
+A digna magistrada a quo, acertadamente, julgou improcedentes os embargos de terceiro opostos pelo apelante (feitos nºs: 1030700-98.2021.8.26.0100 e 1114352-47.2020.8.26.0100), este último em apenso em virtude de conexão por envolver as mesmas partes, causa de pedir e pedido (fls. 788, último §; fls. 789, 3º e 4º §§).
+Destacou a sentença:
+"(..), não há como se afastar a conclusão pela má-fé do cessionário embargante, irmão do executado, que supostamente adquiriu os direitos do executado sobre o inventário, mediante valor de R$ 100.850,00, em Escritura de Cessão de 23.09.2015 (fls. 102/109), em data muito posterior ao ajuizamento da ação executiva iniciada em 2013, negócio jurídico firmado com o nítido intuito de esvaziamento do patrimônio do executado. E, tratando-se de irmão do executado, não há como reconhecer a boa-fé do cessionário embargante.
+(..).
+(..), no organograma indicado pelo próprio embargante em fl. 05, apresentado pelo embargado nos autos principais, indica claramente que a herança da de cujus foi dividida igualmente aos seus quatro irmãos, na cota de 25% pra Oswaldo, Maury, Adail e Nelson. O percentual que coube à Maury foi dividido entre seus herdeiros, restando 6,25% para Vera Lúcia, Ricardo, Luciano e Paulo.
+Desta forma, não há como negar que o objeto da cessão correspondeu mesmo a 6,25% da totalidade da herança da de cujus (  de  do total), restando afastadas por completo as alegações do embargante". (destaque original)
+Sem razão o apelante.
+Com efeito, foi lavrada, em 23.9.2015, escritura de cessão de direitos hereditários, a título oneroso (fls. 125/144), cujo valor da cessão foi de R$. 100.850,00, entre os irmãos herdeiros, na qual o executado, cessionário, cedeu a seu irmão, ora embargante, os direitos, conforme cláusula abaixo descrita (fls. 129):
+ ..
+Contudo, o executado cedente dos direitos hereditários, Ricardo, tinha conhecimento de que já pendia demanda executiva contra ele (processo nº 1050630-83.2013.8.26.0100), pois se deu por citado, em 22.1.2014, quando ajuizou os embargos à execução, já que a cessão dos direitos ocorreu em 23.9.2015, conforme acima explicitado.
+Portanto, restou configurada a fraude à execução, pois o cedente sabia da ação executória, que estava em curso contra si, tanto que se defendeu, na via adequada, aplicando-se, ao caso dos autos, o disposto no art. 792, IV, do Código de Processo Civil, que diz que a alienação de bem é considerada fraude à execução: "quando, ao tempo da alienação ou da oneração, tramitava contra o devedor ação capaz de reduzi-lo à insolvência".
+Some-se a isso o fato de não haver prova do alegado pagamento pelo cessionário, embargante, da quantia indicada no instrument o, também descrito na cláusula supramencionada, em que se afirmou ter ocorrido a quitação, anteriormente à lavratura da cessão.
+E a dispensa expressa do embargante, tocante às certidões negativas (fls. 130, item "SÉTIMO "DAS DECLARAÇÕES DO CESSIONÁRIO""), na cessão de direitos hereditários, não lhe aproveita, pois como já se decidiu, "só se pode considerar, objetivamente, de boa-fé, o comprador que toma mínimas cautelas para a segurança jurídica da sua aquisição." (REsp. 655000/SP, Recurso Especial 2004/0050454-3, Ministra NANCY ANDRIGHI, j. em 23.8.2007).
+Tais circunstâncias indicam, efetivamente, o consilium fraudis na cessão dos direitos entre os herdeiros, como concluiu a douta julgadora.
+ ..
+Assim, aplica-se à hipótese dos autos, a Súmula nº 375 do C. Superior Tribunal de Justiça prevê que "o reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova da má-fé do terceiro adquirente". (grifei).
+Logo, não agiu o embargante com a boa-fé exigível nas circunstâncias dos autos, a fim de afastar a fraude de execução decretada (fls. 846/848).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
