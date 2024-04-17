@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de WILSON BARBOSA (ou WILSON BARBOZA), em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO ante o julgamento proferido no Agravo em Execução Penal n. 0006162-64.2023.8.26.0047.
+Requer-se, em liminar e no mérito, a concessão do livramento condicional ao paciente (PEC n. 7001151-47.2014.8.26.0047).
+Para tanto, argumenta-se, em síntese, que o paciente atingiu o requisito temporal para o livramento condicional em 4/5/2022, possui bom comportamento carcerário devidamente atestado pelo diretor da unidade prisional e não cometeu faltas disciplinares nos últimos doze meses (fl. 4).
+É o relatório.
+A ilegalidade passível de justificar a impetração de habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+No caso, a fuga do paciente, no curso da execução da pena privativa de liberdade, ocorrida em 14/10/2019, serviu, na origem, como fator para considerar a ausência do pressuposto subjetivo necessário para o livramento condicional. E a interpretação dada pela Corte a quo acerca da situação do paciente não revela nenhum constrangimento ilegal, in verbis (fl. 212 - grifo nosso):
+ ..
+Em que pese ter o sentenciado cumprido o tempo para alcançar o benefício pretendido, de fato, não satisfaz o requisito subjetivo.
+Extrai-se dos autos que o agravante resgata pena de 16 anos e 4 meses pela prática dos crimes de tentativa de homicídio duplamente qualificado, com término do cumprimento de pena previsto somente para 13.10.2027 (fl. 25). Ainda, registra em seu histórico prisional o cometimento de uma falta disciplinar de natureza grave, ocorrida em 14.10.2019 (fuga), sendo recapturado em 1º.11.2019.
+Sabidamente, não basta o bom comportamento carcerário, que não pode ser confundido com aptidão ou adaptação e, muito menos, serve como índice fiel de sua readaptação social, para preencher o requisito subjetivo indispensável ao livramento condicional.
+Para o sentenciado que cometeu crime grave e registra cometimento de falta grave, há de se ter cautela ao conceder o livramento condicional.
+ ..
+O acórdão impugnado está de acordo com a jurisprudência pacífica do Superior Tribunal de Justiça sobre o tema.
+O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+A norma anterior já previa a necessidade de comportamento satisfatório durante o resgate da pena para o deferimento do livramento condicional. A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo, não se aplicando limite temporal à análise desse pressuposto. Com efeito, segundo nossos julgados, deve ser analisado todo o período de execução, a fim de se averiguar o mérito do apenado, e a eventual circunstância de o paciente já haver se reabilitado, pela passagem do tempo ou pela aplicação de sanção, desde o cometimento das sobreditas faltas, não impedindo que se invoque o histórico de infrações praticadas no curso da execução penal.
+Nesse sentido, entre inúmeros outros, confiram-se estes precedentes: HC n. 612.296/MG, Ministro Sebastião Reis Júnior, Sexta Turma, DJe 26/10/2020; AgRg no HC n. 624.403/RS, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020; AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020; AgRg no HC n. 613.683/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/2/2021; AgRg no HC n. 619.682/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/12/2020; e HC n. 623.157/SP, Ministro Felix Fischer, Quinta Turma, DJe 15/12/2020.
+Ademais, o afastamento dos fundamentos utilizados quanto ao mérito subjetivo do paciente, para concluir ter ele demonstrado assimilação à terapêutica penal, demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83 DO CP. NOVA REDAÇÃO DADA PELA LEI ANTICRIME. REQUISITO SUBJETIVO. FALTA DISCIPLINAR DE NATUREZA GRAVE. TRANSCURSO DE MAIS DE 12 MESES DA OCORRÊNCIA. IRRELEVÂNCIA. NECESSIDADE DE COMPORTAMENTO SATISFATÓRIO DURANTE O RESGATE DA PENA. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
