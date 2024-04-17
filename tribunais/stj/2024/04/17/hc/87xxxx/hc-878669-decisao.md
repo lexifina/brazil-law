@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de ENDREWS ORCAY FERREIRA, apontando como autoridade coatora TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Extrai-se dos autos que o paciente foi condenado às penas de 6 anos, 6 meses e 22 dias de reclusão, em regime inicial fechado, além de pagamento de 655 dias-multa, em virtude da prática do delito tipificado no art. 33, caput , da Lei n. 11.343/2006 (tráfico de drogas), tendo sido negado o direito de recorrer em liberdade, mantendo-se a custód ia cautelar anteriormente decretada.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, que deu parcial provimento ao recurso para redimensionar a pena imposta para 5 anos e 10 meses de reclusão, em regime inicial fechado, além de 583 dias-multa, nos termos do acórdão assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS (art. 33, caput, Lei 11.343/06). Sentença condenatória. Irresignação da defesa. Nulidades aventadas que devem ser afastadas. Sentença devidamente motivada. Mandado de busca e apreensão válido a autorizar a diligência que encontrou drogas na residência do réu e motivou sua prisão em flagrante. Extração de dados do celular do réu autorizada judicialmente, não sendo necessária atuação de perito para tal. Prova pericial requerida pela defesa e não aportada nos autos que se mostrou desnecessária. Autoria e materialidade comprovadas. Depoimentos das testemunhas e prova documental que apontam para a condenação. Ausência de comprovação de fonte lícita para as receitas do réu que permite o perdimento dos veículos encontrados em sua residência. Dosimetria. Quantidade e natureza da droga apreendida que não justifica, in casu, a majoração da pena-base. Precedentes. Reincidência bem reconhecida a justificar o aumento de 1/6 da pena. Regime inicial fechado, dada a reincidência. Pena redimensionada. Sentença reformada em parte. Recurso parcialmente provido" (fls. 1012/1013).
+Opostos embargos de declaração, foram acolhidos para anular o acórdão e determinar o prosseguimento do feito, com remessa dos autos à mesa para realização de novo julgamento, nos termos do acórdão de fls. 34/37, que restou assim ementado:
+"EMBARGOS DE DECLARAÇÃO. Julgamento virtual efetivado a despeito de oposição tempestiva do embargante, que manifestou seu intuito de acompanhar o julgamento e sustentar suas razões. Hipótese de dano processual decorrente de lesão dos princípios do contraditório e da ampla defesa. Nulidade reconhecida, para anular o acórdão, a fim de que o julgamento da apelação ocorra em sessão telepresencial. Embargos acolhidos" (fl. 35).
+Posteriormente, fora impetrado habeas corpus, tendo sido proferida decisão monocrática na origem deixando de conhecer a ordem e declinando a competência para este Tribunal Superior (fls. 1273/1275).
+No presente writ, o impetrante sustenta que o paciente estaria acautelado há mais de 2 anos em razão da morosidade estatal para dar seguimento aos atos processuais.
+Alega que até a presente data ainda não fora marcado o novo julgamento do recurso de apelação, a ponto de restar configurado excesso de prazo na formação da culpa.
+Argumenta que a defesa não deu causa à morosidade processual.
+Ressalta a suficiência da aplicação das medidas cautelares diversas ao cárcere.
+Pugna, em liminar e no mérito, pelo relaxamento da prisão, mediante aplicação das medidas cautelares menos gravosas.
+Indeferido o pedido de liminar (fls. 1287/1289) e prestadas as informações solicitadas (fls. 1295/1296, 1358/1359); o Ministério Público Federal opinou pelo parcial conhecimento do writ e, nesta extensão, pela sua prejudicialidade (fl. 1363/1366).
+É o relatório.
+Decido.
+Com efeito, a alegação de excesso de prazo no julgamento da apelação está superada.
+Isso porque de acordo com as informações prestadas às fls. 1295/1296 , verifica-se que, em 09/11/2023, sobreveio o novo julgamento da Apelação Criminal n.1501833-25.2021.8.26.0266, tendo o Órgão Colegiado dado parcial provimento ao apelo defensivo para reduzir a reprimenda do paciente para 5 anos e 10 meses de reclusão e pagamento de 583 dias multa. Consta, ainda, que a defesa opôs embargos de declaração, os quais foram rejeitados em 27/11/2023, ensejando a interposição de recurso especial, o qual foi remetido a este Sodalício para apreciação.
+Pelo exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
