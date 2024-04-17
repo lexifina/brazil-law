@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por SÉRGIO LUIZ RINALDI, em face de decisão que não admitiu recurso especial (fls. 713-714, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 640-646, e-STJ):
+APELAÇÃO CÍVEL. SEGURO AGRÍCOLA. CULTURA DE MILHO SAFRINHA. LAVOURA ATINGIDA POR GRANIZO E GEADA. CONTROVÉRSIA ACERCA DA EXTENSÃO DOS DANOS. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DO AUTOR. PRELIMINAR. ARGUIÇÃO DE NULIDADE DA SENTENÇA. CONJUNTO PROBATÓRIO EXPRESSAMENTE VALORADO. RESPEITO AO ÔNUS DA PROVA DEFINIDO NO SANEAMENTO. NULIDADE AFASTADA. MÉRITO. SEGURO DE ÁREA DE CULTURA, E NÃO DE PRODUTIVIDADE. SEGURADORA QUE CONFECCIONOU DOIS LAUDOS TÉCNICOS POR PROFISSIONAIS HABILITADOS. INSPEÇÕES . PREJUÍZO DA ÁREA DE CULTIVO IN LOCO CORRESPONDENTE À FRANQUIA CONTRATADA. PROVA TESTEMUNHAL INSUFICIENTE PARA AFASTAR AS CONCLUSÕES DOS LAUDOS TÉCNICOS. SEGURADORA QUE SE DESINCUMBIU DO ÔNUS PROBATÓRIO. INDENIZAÇÃO INDEVIDA. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração (fls. 650-651, e-STJ), esses foram rejeitados (fls. 666-669, e-STJ).
+Nas razões do recurso especial (fls. 673-691, e-STJ), o recorrente aponta violação aos seguintes artigos:
+(i) 1022 e 489 do CPC/2015, na medida em que o acórdão recorrido seria omisso em relação à forma de apresentação das provas que legitimariam o julgado, bem como quanto à interpretação do contrato no que toca ao objeto do seguro;
+(ii) 47 do CDC e 422 e 423 do CC/02, pois é devido o pagamento da indenização;
+Contrarrazões às fls. 697-711, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, com amparo na inexistência de negativa de prestação jurisdicional e incidência do óbice da Súmula 284/STF.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem expressamente se manifestou acerca da higidez das provas que instruem os autos, as quais contradizem a pretensão do ora recorrente. Veja-se (fls. 667-669, e-STJ):
+Entretanto, nota-se que a parte embargante não demonstra, no âmbito da decisão, qualquer vício de omissão, obscuridade, contradição ou erro material, conforme exige o artigo 1.022 doCPC.5.
+Com efeito, no acórdão restou expressamente consignado que do conjunto probatório não é possível inferir que os danos às culturas foram superiores aos apurados pela seguradora, veja-se:
+"17. De referidas disposições resta claro que o bem segurado em questão é a área de cultura de milho, e não a respectiva produtividade, tal como pretende o recorrente, inclusive porque consta expressamente na proposta de seguro a especificação da área de cultura apenas, e não a produtividade mínima garantida(mov. 1.13).
+18. Tem-se que nos dias 4 (quatro) e 05/07/2019 ocorreu chuva de granizo seguida de geada na plantação de milho do autor, sinistro notificado imediatamente à seguradora (mov. 36.6).
+19. A indenização securitária foi negada sob o fundamento de que os danos apurados não ultrapassam a franquia contratada (mov. 1.17), contudo, invocando suposto defeito na confecção dos laudos de vistoria, alega o apelante que os danos foram subdimensionados.
+20. Para demonstrar os fatos o autor apresentou, junto à inicial, relatório de entrega de milho (mov. 1.18) e demonstrativo da produção média esperada para a região de plantio extraído do IBGE (mov. 1.20).
+21. Em audiência de instrução e julgamento, a testemunha Mário Eduardo Teixeira(mov. 192.3), engenheiro agrônomo, disse acompanhar o plantio do autor e que esteve presente na área logo após o evento danoso, asserindo que a perda de produtividade na lavoura em razão da geada teria sido de aproximadamente 50% (cinquenta por cento) e que os seus vizinhos sofreram danos semelhantes. Informou não ter acompanhado as perícias realizadas pela seguradora.
+23. O informante Jair dos Santos Costa (mov. 192.1) afirmou ser primo e vizinho do autor e corroborou a perda da produção em razão dos fatos.
+24. As testemunhas Vicente Junior de Souza Maldonado (mov. 192.5), e Sílvia Francisco Pedroso (mov. 192.4), engenheiros agrônomos responsáveis pela confecção dos laudos de vistoria, bem como o preposto da seguradora (mov.192.2), corroboraram a acuidade das inspeções realizadas.
+25. A seguradora apresentou junto à contestação, dentre outros documentos, dois laudos técnicos de vistoria, confeccionados por distintos engenheiros agrônomos, os quais concluíram igualmente pela ocorrência de danos à monta de 5% (cinco porcento) por granizo em uma das áreas e de 20% (vinte por cento) por geada em duas áreas (mov. 1.15 e 1.16): (..) 26. Dito isso, do conjunto documental se constata não ser possível verificar a ocorrência dos danos tais como alegados pelo apelante, uma vez que do relatório de entrega de milho acostado não se pode aferir que a produção ali consignada ér elativa à área segurada ou à sua totalidade, nem que houve perda decorrente do sinistro.
+27. Já a prova oral produzida, embora a expertise da testemunha Mário EduardoTeixeira, não caracteriza prova técnica hábil a contestar os laudos apresentados pela seguradora, confeccionados por profissionais habilitados em duas oportunidades através de inspeção no local do cultivo, cuja metodologia foi narrada em audiência (mov. 192.4 e 192.5).
+28. Note-se, nesse contexto, que cabia à seguradora a comprovação da inocorrência dos danos, ônus do qual se desincumbiu (art. 373, II, do CPC).
+29. Isso porque restou apurado que o prejuízo ocorrido à área de plantio corresponde à franquia contratada para o seguro, a qual é de pagamento obrigatório, de modo que não há prejuízo a ser indenizado pela seguradora, conforme cláusula 17.2.2 do contrato, acima colacionada".
+6. Ou seja, se concluiu fundamentadamente por inexistirem elementos nos autos capazes de desconstituir os laudos apresentados pela seguradora, de modo que esta se desincumbiu do ônus probatório de demonstrar os fatos impeditivos do direito do embargante, conforme distribuição do ônus por ocasião do saneamento (mov. 50.1).7.
+Por fim, esclareça-se que a tese aventada pelo embargante de que a interpretação literal da cláusula 17.2.2 do contrato lhe dá o direito à indenização resulta em paradoxo, uma vez que a franquia é de pagamento obrigatório e, se a indenização for em montante idêntico ao da franquia, o embargante desembolsará o mesmo que valor que receberá.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO A DELIBERAÇÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO.
+INSURGÊNCIA DO EXEQUENTE.
+1. Violação ao artigo 535 do CPC/73, atual 1.022 do NCPC, não configurada. Acórdão desta Corte Superior que analisou detidamente todos os pontos necessários ao deslinde da controvérsia. Recurso dotado de caráter meramente infringente.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+2. De igual modo, não prospera a alegada afronta aos artigos 47 do CDC e 422 e 423 do CC/02.
+Da leitura do acórdão recorrido, nota-se que o Tribunal local, à luz dos elementos de prova que instruem os autos, bem como das previsões contratuais consignou ser descabida a indenização securitária.
+No ponto, relevante a menção ao seguinte trecho do aresto impugnado (fls. 643-646, e-STJ):
+14. Dessume-se dos autos que a relação securitária entre as partes (seguro agrícola), a validade da apólice e a ocorrência do sinistro são incontroversas, sendo que a incidência do Código de Defesa do Consumidor e a inversão do ônus da prova foram definidas no saneamento (mov. 50.1), pontos dos quais não há insurgência recursal.
+15. Da apólice acostada se verifica a existência de cobertura para o risco "granizo"relativamente ao bem segurado de cultura de grãos "milho safrinha", em três áreas de plantio, até o limite de R$ 90.860,00 (noventa mil, oitocentos e sessenta reais), R$ 14.762,00 (quatorze mil, setecentos e sessenta e dois reais) e R$ 26.620,00 (vinte e seis mil, seiscentos e vinte reais - mov. 36.12), respectivamente, com franquia de 10% (dez por cento) para o risco "granizo" e de 20% (vinte por cento) para o risco "geada" (mov. 1.13).
+(..)
+28. Note-se, nesse contexto, que cabia à seguradora a comprovação da inocorrência dos danos, ônus do qual se desincumbiu (art. 373, II, do CPC).
+29. Isso porque restou apurado que o prejuízo ocorrido à área de plantio corresponde à franquia contratada para o seguro, a qual é de pagamento obrigatório, de modo que não há prejuízo a ser indenizado pela seguradora, conforme cláusula 17.2.2 do contrato, acima colacionada.
+Nesse contexto, entende-se que o acolhimento da pretensão recursal demandaria a revisão da premissa acima disposta. Para tanto, todavia, é imprescindível o revolvimento de matéria probatória, providência vedada na presente instância recursal, nos termos das Súmulas 5 e 7 do STJ.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
