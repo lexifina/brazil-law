@@ -1,0 +1,85 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO INTERNO CÍVEL 0701263-20.2024.8.07.0000AGRAVANTE(S)DANIEL HENRIQUE SANTANA PINTOAGRAVADO(S)BANCO DO BRASIL S/ARelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1849877
+
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE BUSCA E APREENSÃO. MEDIDA LIMINAR DE BUSCA E APREENSÃO DO VEÍCULO OFERECIDO EM GARANTIA. DEFERIMENTO. OBRIGADO FIDUCIÁRIO. INSURGÊNCIA RECURSAL. ALEGAÇÃO DE NÃO CONSTITUIÇÃO REGULAR EM MORA.  CASSAÇÃO DO PROVIMENTO ANTECIPATÓRIO. ARGUIÇÃO. INEFICÁCIA DA NOTIFICAÇÃO EXTRAJUDICIAL. PRESSUPOSTO PROCESSUAL AUSENTE. QUESTÃO NÃO SUSCITADA PERANTE O JUÍZO DE ORIGEM. MATÉRIA ATINADA COM AS TESES DE DEFESA AINDA NÃO EXAMINADA PELO JUIZ DA CAUSA. SUPRESSÃO DE INSTÂNCIA. EXAME. IMPOSSIBILIDADE. RECURSO MANIFESTAMENTE INADMISSÍVEL. SEGUIMENTO NEGADO. AGRAVO INTERNO DESPROVIDO.
+
+1.        O efeito devolutivo próprio dos recursos está municiado com poder para devolver ao exame da instância superior tão somente e exclusivamente as matérias efetivamente resolvidas pela instância inferior, obstando que, ainda não formulada ou pendente de pronunciamento, a questão não pode ser devolvida a reexame, porque inexistente provimento recorrível e porque não pode o órgão revisor se manifestar acerca de matéria ainda não resolvida na instância originária, sob pena de suprimir grau de jurisdição e vulnerar o devido processo legal.
+
+2.        O recurso, conquanto instrumento inerente ao devido processo legal, pois orientado pelo princípio do duplo grau de jurisdição, está sujeito a pressupostos objetivos e subjetivos de admissibilidade de natureza genérica, dentre os quais se destacam o cabimento, adequação e regularidade, no ambiente objetivo, e o interesse recursal, no ambiente subjetivo, que tem como premissas a subsistência de provimento afetando a parte e que a matéria submetida a reexame já tenha sido debatida originalmente, como forma de ser assegurado o duplo grau de jurisdição.
+
+3.        Estando a ação de busca e apreensão devidamente aparelhada na forma da lei que lhe é própria, pois evidenciado o liame contratual estabelecido entre as partes, a garantia fiduciária contratada e a constituição do obrigado fiduciário em mora via de notificação formal, restam por aperfeiçoados os pressupostos necessários para deferimento da medida liminar de busca e apreensão do bem oferecido em garantia, e, conquanto assegurado ao obrigado ampla defesa, as teses defensivas que exorbitam os aspectos formais de sua constituição em mora devem ser formuladas em ambiente de contestação, não podendo ser deduzidas em sede de agravo interposto em face da decisão concessiva da liminar, pois encerram matérias ainda não debatidas nem resolvidas pelo juiz da causa, pressuposto para que seja exercitado o direito ao recurso.
+
+4.        Agravo interno conhecido e desprovido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: CONHECER DO AGRAVO INTERNO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 25 de Abril de 2024
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de agravo interno interposto por Daniel Henrique Santana Pinto em face do provimento unipessoal que, reputando-o manifestamente inadmissível, negara conhecimento ao agravo de instrumento que originalmente aviara em desafio à decisão que, no bojo da ação de busca e apreensão manejada em seu desfavor pelo agravado – Banco do Brasil S/A –, reputando demonstrados os pressupostos necessários, deferira a liminar de busca e apreensão do veículo que faz o objeto da ação, realizando a inclusão de restrição do automóvel via sistema Renajud.
+
+O decisório unipessoal ora agravado, a seu turno, negara conhecimento ao agravo sob o fundamento de que a pretensão efetivamente formulada no recurso ainda não fora formulada e apreciada pelo Juízo a quo, não subsistindo decisão passível de ser agravada. De sua parte, objetiva o agravante a reconsideração do decisório singular ou a sujeição do agravo à apreciação do órgão colegiado de forma a ser conhecido e provido, reformando-se a decisão originariamente agravada, determinando-se a suspensão da ordem de busca e apreensão e o indeferimento da petição inicial da ação subjacente.
+
+Como fundamentos da pretensão reformatória, renovando o aduzido originariamente, argumentara, em suma, que o recurso cabível contra decisão que deferira a liminar “é o agravo de instrumento, mesmo tratando-se de ação de busca e apreensão e matéria não foi debatida anteriormente pelo juízo a quo”[1], motivando a interposição de agravo em face da referida decisão. Consignara que, sendo a matéria agravada urgente, a espera pela efetivação da busca e apreensão para apresentação de contestação conferiria grave risco de perecimento do direito, razão pela qual postulara o deferimento para fins de cassar a medida liminar outrora deferida nos autos subjacentes com a posterior extinção do processo.
+
+O agravado, conquanto regularmente intimado, deixara transcorrer o prazo para apresentar contrarrazões ao recurso[2].
+
+É o relatório.
+
+[1] ID Num. 55988163
+
+[2] - ID Num. 56884223.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+Cabível, tempestivo, isento de preparo e subscrito por advogado devidamente constituído, suprindo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço do agravo interno nos moldes adiante alinhados.
+
+Cuida-se de agravo interno interposto por Daniel Henrique Santana Pinto em face do provimento unipessoal que, reputando-o manifestamente inadmissível, negara conhecimento ao agravo de instrumento que originalmente aviara em desafio à decisão que, no bojo da ação de busca e apreensão manejada em seu desfavor pelo agravado – Banco do Brasil S/A –, reputando demonstrados os pressupostos necessários, deferira a liminar de busca e apreensão do veículo que faz o objeto da ação, realizando a inclusão de restrição do automóvel via sistema Renajud.
+
+O decisório unipessoal ora agravado, a seu turno, negara conhecimento ao agravo sob o fundamento de que a pretensão efetivamente formulada no recurso ainda não fora formulada e apreciada pelo Juízo a quo, não subsistindo decisão passível de ser agravada. De sua parte, objetiva o agravante a reconsideração do decisório singular ou a sujeição do agravo à apreciação do órgão colegiado de forma a ser conhecido e provido, reformando-se a decisão originariamente agravada, determinando-se a suspensão da ordem de busca e apreensão e o indeferimento da petição inicial da ação subjacente.
+
+Conquanto patente o inconformismo do agravante com a decisão que deferira a medida liminar de busca e apreensão do veículo que faz o objeto da ação que é promovida em seu desfavor, o agravo de instrumento que originariamente aviara não merecera ser conhecido ante a evidência de que não ultrapassa pressuposto objetivo de admissibilidade. Consoante se afere do alinhado, a decisão nomeada pelo agravante como agravada é aquela que deferira a medida liminar reclamada pelo agravado, sobejando patente, ademais, que, conquanto tenha comparecido aos autos da ação de busca e apreensão subjacente, direcionando sua insurgência contra a legitimidade de notificação extrajudicial que aparelhara a pretensão, aludidas alegações ainda não foram apreciadas pelo juiz da causa.
+
+Sob essa realidade, deflui inexorável que os vícios que o agravante imputara à petição inicial, decorrentes da ausência de pressuposto de procedibilidade da ação de busca e apreensão manejada pelo agravado em seu desfavor, não foram ainda objeto de deliberação pelo ilustrado juiz da causa. Conseguintemente, em não tendo o provimento agravado resolvido as questões formuladas e subsistindo pedido destinado ao exame do formulado endereçado ao juiz da causa, o agravo de instrumento carece de objeto, restando inviabilizado o conhecimento da matéria formulada por não transpor pressuposto indispensável à sua constituição e desenvolvimento válido e regular.
+
+Deve ser frisado que as teses formuladas, em suma, são questões atinadas com matéria passível de ser alegada em contestação, não se afigurando viável que o debate sobre o formulado seja transposto para o ambiente recursal sem prévio exame pelo juiz da causa. De ser ressaltado, ademais, que, formalmente, a ação principal está devidamente aparelhada, consubstanciando as alegações pertinentes à inexistência de mora e ausência de pressuposto processual, portanto, defesas indiretas a serem deduzidas na via apropriada. A matéria deduzida, portanto, inova o trânsito processual, não podendo ser conhecida.
+
+Como é consabido, o recurso é o instrumento processual destinado a resguardar às partes o direito de submeterem ao órgão recursal o reexame das questões resolvidas pela instância inferior, consubstanciando-se, pois, na forma de materialização do princípio do duplo grau de jurisdição que usufrui da condição de dogma constitucional. Como está destinado a viabilizar o reexame de questão já resolvida, o aviamento de todo e qualquer recurso tem como pressuposto genético a existência de pronunciamento judicial acerca da matéria que faz seu objeto. O efeito devolutivo próprio dos recursos está municiado com poder para devolver ao exame da instância superior o exame tão-somente e exclusivamente das matérias efetivamente resolvidas pela instância inferior. Existindo questão pendente de pronunciamento, não se afigura, por conseguinte, viável a interposição do recurso, porque carente de objeto e não pode o órgão revisor se manifestar acerca de matéria ainda não resolvida na instância originária.
+
+Alinhados esses parâmetros afere-se que, em não tendo sido ainda apreciadas as questões formuladas pelo agravante, inexoravelmente ainda não há pronunciamento, positivo ou negativo, acerca da afirmação dos vícios denunciados, ficando patente que o agravo de instrumento ressente-se de objeto e de viabilidade. Conforme acentuado, o princípio do duplo grau de jurisdição, se se qualifica como garantia e direito assegurado à parte, deve se conformar com o devido processo legal, ensejando a ilação de que somente pode ser exercitado após ter sido a questão resolvida pela instância inferior. Ou seja, somente após ter o órgão jurisdicional a quo se manifestado sobre a questão é que poderá ser devolvida à reapreciação do órgão revisor.
+
+Como corolário dessas circunstâncias emerge, então, a certeza de que, se a pretensão formulada pelo agravante ainda não fora examinada, não subsiste decisão passível de ser sujeitada a revisão, nem está o órgão recursal municiado com lastro para, desconsiderando o princípio do duplo grau de jurisdição, substituir o Juízo a quo e, apreciando a pretensão, deferi-la, concedendo provimento jurisdicional que ainda não lhe havia sido outorgado ou negado. Se assim procedesse, o órgão revisor incorreria em nítida supressão de instância e invasão de competência, resolvendo questão que originariamente, em subserviência, inclusive, ao princípio do Juízo natural, deve ser solvida pelo Juízo da causa e somente após seu pronunciamento é passível de ser submetida ao seu reexame. Esse é o entendimento que se encontra há muito estratificado pela jurisprudência, consoante testificam os arestos adiante ementados:
+
+“AGRAVO REGIMENTAL. NEGATIVA DE SEGUIMENTO À RECLAMAÇÃO. I - É desprovido de cunho decisório o despacho que deixa para apreciar antecipação de tutela após eventual resposta. Ademais, sob pena de supressão de instância, não pode a providência liminar ser apreciada pelo órgão recursal se ainda não resolvida pelo juízo a quo. II - Agravo regimental conhecido e improvido. Unânime.” (TJDF, 1ª Turma Cível, Agravo Regimental na Reclamação nº 20060020152471 RCL DF, Reg. Int. Proces. 264523, relatora Desembargadora Vera Andrighi, data da decisão: 07/02/2007, publicada no Diário da Justiça de 01/03/2007, pág. 70)
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. AUSÊNCIA DE PRONUNCIAMENTO JUDICIAL. RECURSO DESCABIDO. I. A omissão judicial em face de pedido de antecipação dos efeitos da tutela, por representar denegação de resposta jurisdicional a pleito emergencial legalmente previsto, pode ser combatida por meio de agravo de instrumento. II. Inexistindo pronunciamento judicial sobre a antecipação dos efeitos da tutela, não é juridicamente viável, em sede recursal, o exame dos seus pressupostos legais, sob pena de supressão de instância. III. Recurso não conhecido.” (TJDF, 6ª Turma Cível, Agravo de Instrumento nº 20070020060627 AGI DF, Reg. Int. Proces. 286401, relator Desembargador James Eduardo Oliveira, data da decisão: 12/09/2007, publicada no Diário da Justiça de 13/11/2007, pág. 139)
+
+“PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CITAÇÃO EDITAL. POSSIBILIDADE. ANTECIPAÇÃO DE TUTELA. NÃO-APRECIAÇÃO PELO JUIZ SINGULAR. SUPRESSÃO DE INSTÂNCIA. IMPROVIMENTO. 1. Quanto à citação por edital, logicamente, a responsabilidade pela informação de que não se conhece o atual paradeiro da agravada, é toda ela da parte autora, pois, se com essa diretiva, for a demandada citada por edital, provando-se que aquela sabia do paradeiro desta, assumirá os ônus pela anulação da relação processual defeituosa. 2. No que pertine ao pedido de antecipação dos efeitos da tutela, referida pretensão não restou ainda apreciada em primeiro grau, pois trata-se de providência que pode tornar-se irreversível e, o que é pior, segundo certidão imobiliária, a agravada já alienou para inúmeras outras pessoas diversas frações do terreno, e, assim, a meu sentir, talvez seja necessária formação de litisconsórcio necessário passivo, lógico, a depender da interpretação dos fatos pela ilustre autoridade judiciária de primeiro grau.” (TJDF, 2ª Turma Cível, Agravo de Instrumento nº 20020020070322 AGI DF, Reg. Int. Proces. 165165, relator Desembargador Silvanio Barbosa dos Santos, data da decisão: 07/10/2002, publicada no Diário da Justiça de 12/03/2003, pág. 63)
+
+Desse modo, deve o agravante instar o Juízo da ação de busca e apreensão a analisar os vícios que debita à petição inicial que formulara, se viável essa postulação em caráter incidental, e não no bojo de eventual contestação, não sobejando possível resolver a pretensão nessa sede recursal. Registre-se, por oportuno, que o provimento agravado não tolhe do agravante o direito ao recurso que o assiste, afinando-se, ao invés, com os regramentos procedimentais que paramentam o devido processo legal. É que o recurso, conquanto inerente ao devido processo legal, está sujeito a pressupostos objetivos e subjetivos de admissibilidade de natureza genérica, dentre os quais se destacam, o cabimento, adequação e regularidade, no ambiente intrínseco, e o interesse recursal, no ambiente extrínseco, que tem como premissas a subsistência de provimento afetando a parte e que a matéria submetida a reexame já tenha sido debatida originalmente, como forma de ser assegurado o duplo grau de jurisdição.
+
+No caso, conforme pontuado, as questões suscitadas pelo agravante, em suma, pretendendo a infirmação da qualificação de sua mora, ainda não foram objeto de decisão pelo juiz da causa. No ambiente de delibação preliminar, em se tratando de busca e apreensão, o juiz da causa atinara apenas para os pressupostos legalmente estabelecidos para aviamento da ação e postulação da liminar, que se fazem presentes. A desconstituição da mora formalmente comprovada, portando, é matéria que comporta suscitação em ambiente de contestação, e, somente após ser resolvida, é que poderá ser devolvida a reexame. O agravo de instrumento, portanto, é manifestamente inadmissível, em razão de veicular matéria ainda não resolvida.
+
+Alinhavados esses argumentos e afigurando-se despiciendo serem alinhadas quaisquer outras considerações ante a constatação de que, ainda não apreciada a pretensão efetivamente formulada pelo agravante, não subsiste decisão passível de ser agravada, nem pode o órgão revisor substituir o Juízo da causa e, examinando-a, acolhê-la ou rejeitá-la, afere-se que o agravo é manifestamente inadmissível e improcedente, pois carente de objeto e destinado a ensejar o pronunciamento do órgão revisional acerca de questão ainda não resolvida na instância originária, devendo, então, ser liminarmente rejeitado, como efetivamente o fora, consoante autoriza o artigo 932, inc. III, do estatuto processual vigente.
+
+Esteado nos argumentos alinhavados, conheço do agravo interno e nego-lhe provimento. Custas pelo agravante.
+
+É como voto.
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO AGRAVO INTERNO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME
