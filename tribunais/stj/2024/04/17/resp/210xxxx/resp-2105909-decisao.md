@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ADÃO CARDOSO RIBEIRO, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa à condenação por danos morais.
+O Tribunal de origem negou provimento ao recurso de apelação da parte recorrente nos termos da seguinte ementa (fl. 281):
+Ação de revisão contratual c. c. indenização por danos morais. Contrato de empréstimo consignado. R. sentença de parcial procedência. Apelo só do autor, que persegue a procedência total da demanda, com condenação do réu ao pagamento de indenização por danos morais e arbitramento de honorários sucumbenciais nos moldes do artigo 85, §2º,do Código de Processo Civil. Em que pese ter sido reconhecida a existência de "diferença mínima" entre os valores cobrados a título de juros remuneratórios e aqueles arbitrados na r. sentença, não são vislumbrados, na espécie, danos morais. Honorários advocatícios bem arbitrados de forma equitativa. Recurso desprovido.
+Embargos de declaração rejeitados (fls. 308-314).
+No recurso especial, alega o recorrente afronta aos arts. 1º, III, 6º e 7º, IV, da Constituição Federal, e 11, 12 e 187 do Código Civil, ao defender que faz jus à reparação por danos morais decorrente de alegada abusividade da parte recorrida por desconto indevido mensal no seu benefício previdenciário.
+Sustenta, também, ofensa ao art. 85, §§ 2º, 8º e 8º-A do Código de Processo Civil, sob a alegação de que os honorários sucumbenciais, apesar de arbitrados por equidade, não remuneram o trabalho desempenhado pelo advogado e desestimulam a defesa de causas de pequeno/médio valor. Aduz que a fixação da verba honorária por apreciação equitativa somente é permitida nas hipóteses excepcionais.
+Suscita, outrossim, divergência jurisprudencial com arestos desta Corte.
+Apresentadas contrarrazões ao recurso especial (fls. 651-665), sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 1084-1086).
+É, no essencial, o relatório
+Não merece prosperar o recurso.
+De início, consigne-se inviável a apreciação das alegações da parte recorrente, considerando que a Corte de origem, ao entender que não ficou configurado dano moral reparável, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fl. 284):
+Com efeito, com todo respeito, no caso em tela, não são vislumbrados os propalados gravames morais.
+Além de ter sido reconhecida a existência de um excesso ínfimo quanto ao custo efetivo praticado nos contratos em tela, certo que não se demonstrou tenha o consumidor sofrido qualquer mácula à sua honra, imagem ou dignidade a embasar a pretensa indenização.
+Ademais, a mera cobrança de taxa de juros em patamar pouco superior ao limite normativo, por si só, não basta para a configuração do dever de indenizar.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTENTE. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, o que é inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.791/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022.)
+Outrossim, igualmente inviável a apreciação das alegações da parte recorrente quanto à verba honorária, porquanto a Corte de origem, ao entender que não ficou configurado dano moral reparável, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 284-285):
+Melhor sorte não assiste ao autor no que toca à verba honorária.
+Considerando-se que fora o autor vencedor apenas na parte revisional, seria aplicável o disposto no artigo 86,caput, do Código de Processo Civil. Todavia, tendo-se em conta a ausência de recurso do réu e a impossibilidade de reformatio in pejus, resta concluir que, ante o reconhecimento da existência de pequeno excesso de cobrança de taxa de juros, o proveito econômico obtido pelo autor fora ínfimo, com o que se tem que acertada a aplicação do disposto no § 8º, do Código de Processo Civil, não havendo que se falar, ao revés do que defende o recorrente, de arbitramento com base no valor da causa, que englobava o pleito indenizatório, no qual ficara vencido.
+Tem-se, pois, com todo respeito, que não vieram aos autos elementos competentes a autorizar a pretensa reforma, sendo de rigor a preservação da r. sentença.
+Observa-se que inaplicável o disposto no § 11, do sobre dito artigo 85, posto que o acionante não fora condenado em honorários sucumbenciais na origem.
+Assim, também para rever tal entendimento, a eventualmente ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. SENTENÇA PROLATADA NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973. PRINCÍPIO TEMPUS REGIT ACTUM. APLICAÇÃO DA EQUIDADE. POSSIBILIDADE. CARÁTER IRRISÓRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo jurisprudência do Superior Tribunal de Justiça, a sentença é o marco temporal para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, de maneira que é indiferente a data do ajuizamento da ação e a data do julgamento dos recursos eventualmente interpostos. Hipótese em que a sentença foi proferida ainda na vigência do Código de Processo Civil de 1973, aplicando-se, portanto, as regras nele previstas.
+2. A aplicação de critério de equidade no cálculo da verba honorária não está atrelada aos percentuais fixados pelo art. 20, § 3º, do CPC/1973.
+3. Não cabe, em julgamento de recurso especial, analisar o possível caráter irrisório no valor atribuído aos honorários sucumbenciais, dada a incidência da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.210.087/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Por fim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido. (AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, conheço em parte do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
