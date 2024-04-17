@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado por Anésio Saturno com fundamento no art. 105, III, c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.178):
+DIREITO ADMINISTRATIVO. SFH. COBERTURA SECURITÁRIA. VÍCIOS DE CONSTRUÇÃO. INTERESSE PROCESSUAL. CONTRATO DE FINANCIAMENTO LIQUIDADO.
+1. Havendo a comprovação da existência de apólice de seguro do ramo público, com cobertura pelo FCVS, fica caracterizada a legitimidade da CEF para figurar no polo passivo da demanda.
+2. O contrato de seguro tem vigência simultânea com o contrato de mútuo. Assim, uma vez extinto este, automaticamente é extinto aquele que o acompanha.
+Opostos embargos declaratórios, foram parcialmente providos, apenas para fins de prequestionamento (fls. 1.211/1.215).
+A parte recorrente aponta divergência jurisprudencial, sustentando, em resumo: (I) a ausência de interesse da CAIXA na demanda, de modo que a competência para julgamento da ação é da Justiça estadual; e (II) que a "quitação do imóvel não obsta o direito da Recorrente pleitear a indenização securitária, uma vez que o fato objeto da cobertura (danos no imóvel) são decorrentes de vício de construção, o que nega a solidez garantida, a qual ocorreu durante a vigência do contrato" (fl. 1.235).
+Decisão de admissibilidade proferida às fls. 1.722/1.724 , por meio da qual foi negado seguimento ao reclamo quanto à matéria de que trata o Tema 1.011/STF, ao tempo em que restou admitido sobre o conteúdo recursal restante.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, acerca da matéria remane scente trazida à discussão, cumpre dizer que se encontra pendente de análise no âmbito deste Sodalício, sob a sistemática dos recursos repetitivos, a seguinte questão jurídica: "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" (Tema 1.039).
+A proposta de afetação foi acolhida pela Segunda Seção do STJ, em acórdão assim ementado:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. AÇÃO DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO. CONTRATO QUITADO.
+1. Delimitação da controvérsia: "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação."
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp n. 1.799.288/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 3/12/2019, DJe de 9/12/2019)
+Note-se que, em sessão realizada aos 7/3/2024, a Segunda Seção, acolhendo questão de ordem suscitada no bojo do REsp 1.799.288/PR, afetou o julgamento do Tema 1.039 à Corte Especial.
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese por este STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+A propósito, confiram-se os seguintes acórdãos: EDcl no AgRg no REsp n. 1.510.988/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; EDcl no AgInt no REsp n. 1.922.773/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023; e EDcl nos EDcl no AgInt no AREsp n. 1.750.982/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2023, DJe de 15/6/2023.
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de ad missibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+ANTE O EXPOSTO, julgo prejudicado o recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça sobre o tema recursal, na sistemática dos recursos repetitivos (Tema 1.039).
+Publique-se.
+ EMENTA
