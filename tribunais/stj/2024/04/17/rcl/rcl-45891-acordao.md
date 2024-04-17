@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros Corte Especial, por unanimidade, julgar procedente a reclamação, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior e Joel Ilan Paciornik votaram com a Sra. Ministra Relatora.
+Ausentes, justificadamente, os Srs. Ministros Og Fernandes, Luis Felipe Salomão e Maria Isabel Gallotti. Convocado o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+RECLAMAÇÃO AJUIZADA PELA UNIÃO PARA GARANTIR A AUTORIDADE DE DECISÃO DO STJ. ACÓRDÃO DA CORTE ESPECIAL QUE ESTIPULOU A INVIABILIDADE DA CONCESSÃO DE MEDIDA LIMINAR DEFERITÓRIA DE INGRESSO DE ESTRANGEIROS NO BRASIL, À MÍNGUA DE VISTO, EXCETO QUANDO HAJA (A) O ESGOTAMENTO DAS POSSIBILIDADES ADMINISTRATIVAS; E (B) A ADOÇÃO PRÉVIA DAS MEDIDAS INSTRUTÓRIAS DE INFORMAÇÃO VIÁVEIS, INCLUSIVE PERÍCIA SOCIAL NO BRASIL. DECISÃO DA ORIGEM QUE DESPREZOU ESSAS CONDICIONANTES. PROCEDÊNCIA DA RECLAMAÇÃO.
+RELATÓRIO
+Trata-se de Reclamação ajuizada pela União, com pedido liminar, visando a garantir a autoridade da decisão proferida pela Corte Especial do STJ no julgamento da SLS 3.092/SC.
+Diz a União que a Corte Especial do STJ definiu como condições inarredáveis para o deferimento de medidas liminares nas ações que versem sobre o ingresso de haitianos no Brasil que haja, cumulativamente:
+(a) o esgotamento das possibilidades administrativas; e
+(b) a adoção prévia das medidas instrutórias de informação viáveis, inclusive perícia social no Brasil.
+3. Descumprimento dessas prescrições que poderá ensejar a propositura de Reclamação para a preservação da autoridade da decisão do Superior Tribunal de Justiça, e, eventualmente, de Reclamação Disciplinar perante os órgãos correcionais contra os recalcitrantes.
+Não obstante, o Juízo da 1.ª Vara Cível Federal de São Paulo teria determinado que a União cumprisse a tutela antecipada deferida no processo 5004013-62.2023.4.03.6100, nos seguintes termos:
+Ante o exposto, DEFIRO O PEDIDO DE TUTELA DE URGÊNCIA para autorizar o ingresso, em território nacional, sem a necessidade de visto de: Edmondo Dubois, portador do passaporte nºR10300658 Saskiya Dorah Dubois portadora do passaporte nºR10818025 e Eddyson Dubois, portador do passaporte nº R100900195.
+Desse modo, sustenta que o decisum impugnado fere frontalmente a autoridade da mencionada decisão proferida pelo Superior Tribunal de Justiça. Requer, pois, "a) seja julgada procedente a presente reclamação para cassar, reformar (artigo 992 do CPC) e sustar de imediato (artigo 993 do CPC) os efeitos da decisão que contraria frontalmente a ordem emanada pela Corte Especial do Superior Tribunal de justiça, para que se alinhe aos preceitos estabelecidos; b) a requisição de informações da autoridade cujo ato foi impugnado, que deverão ser prestadas no prazo de 10 (dez) dais (artigo 989, inciso I, do CPC); c) a suspensão do processo ou do ato impugnado, de modo a evitar dano irreparável, considerando o caráter satisfativo da liminar (artigo 989, inciso II, do CPC); d) a citação dos beneficiários da decisão impugnada".
+A liminar foi deferida (fls. 206-208).
+O magistrado reclamado prestou informações, que foram juntadas nas fls. 217-222 e-STJ. Nelas, alegou que a decisão por ele proferida foi pautada "por princípios e preceitos constitucionais" e que teve análise individualizada.
+Frustradas as tentativas de citação pessoal, os beneficiários da decisão impugnada foram citados por edital (fls. 273-274 e-STJ).
+O Ministério Público Federal manifestou-se às fls. 279-283 e-STJ, opinando procedência do pedido.
+EMENTA
+RECLAMAÇÃO AJUIZADA PELA UNIÃO PARA GARANTIR A AUTORIDADE DE DECISÃO DO STJ. ACÓRDÃO DA CORTE ESPECIAL QUE ESTIPULOU A INVIABILIDADE DA CONCESSÃO DE MEDIDA LIMINAR DEFERITÓRIA DE INGRESSO DE ESTRANGEIROS NO BRASIL, À MÍNGUA DE VISTO, EXCETO QUANDO HAJA (A) O ESGOTAMENTO DAS POSSIBILIDADES ADMINISTRATIVAS; E (B) A ADOÇÃO PRÉVIA DAS MEDIDAS INSTRUTÓRIAS DE INFORMAÇÃO VIÁVEIS, INCLUSIVE PERÍCIA SOCIAL NO BRASIL. DECISÃO DA ORIGEM QUE DESPREZOU ESSAS CONDICIONANTES. PROCEDÊNCIA DA RECLAMAÇÃO.
+VOTO
+Conforme explicitado na decisão que deferiu a medida liminar, o Acórdão da Corte Especial apontado como desrespeitado consignou:
+À vista dessas considerações, dou provimento aos Agravos Internos para reformar a decisão objurgada e reestabelecer as liminares de origem, cabendo às instâncias inferiores exigir, em todos os casos, o esgotamento das possibilidades administrativas e a adoção prévia das medidas instrutórias de informação viáveis, inclusive perícia social no Brasil, que defina se é o caso de reunião familiar, para só então deliberarem sobre a concessão ou não das liminares.
+O comando contido na parte dispositiva do julgamento da SLS 3.092/SC foi inequívoco ao estipular, de forma cogente e imperativa, que as instâncias inferiores devem exigir, antes do eventual deferimento de medidas liminares, cumulativamente, que haja (a) o esgotamento das possibilidades administrativas; e (b) a adoção prévia das medidas instrutórias de informação viáveis, inclusive perícia social no Brasil.
+A autoridade desse julgado estende-se a toda e qualquer ação em trâmite no país em que se discuta a entrada de cidadãos haitianos no Brasil e ele surte efeitos até o trânsito em julgado da causa de origem.
+O acórdão lançado nos Embargos Declaratórios na mesma SLS alertou, ainda, que "descumprimento dessas prescrições ensejará a propositura de Reclamação, para preservar a autoridade da decisão do Superior Tribunal de Justiça, e, eventualmente, de Reclamação Disciplinar perante os órgãos correcionais contra os recalcitrantes".
+Conforme noticiado pela União, o Juízo reclamado desprezou as condicionantes fixadas no Acórdão da Corte Especial do STJ e concedeu tutela antecipada de urgência, independentemente de qualquer providência, tal como pode ser visto na decisão de fls. 8-16. Não houve perícia social prévia à decisão e não foram esgotadas as possibilidades administrativas.
+O artigo 187 do Regimento Interno do STJ estipula:
+Art. 187. Para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária.
+É o caso, diante da necessidade de garantir a autoridade da decisão da Corte Especial do STJ. O ato impugnado, ao determinar o ingresso de estrangeiro, independentemente de visto, desrespeitou diretamente o mencionado provimento do STJ.
+Neste caso específico, o magistrado, como dito, fez tábula rasa do acórdão da Corte Especial e, com base em prova eminentemente documental, deferiu a medida liminar, em cristalina afronta à proibição vigente.
+Não houve prévia perícia social e tampouco o esgotamento das possibilidades administrativas.
+Pelo exposto, voto pela procedência da Reclamação, para cassar a decisão exorbitante do julgado da Corte Especial na SLS 3.092/SC, confirmando-se a liminar antes deferida.
+É o Voto.
