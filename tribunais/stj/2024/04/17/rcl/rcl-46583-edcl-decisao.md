@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MUNICÍPIO DE BELO HORIZONTE de decisão de minha relatoria que julgou procedente a reclamação ajuizada por ISABEL ALICE DE ANDRADE E SANTOS, nos seguintes termos (fl. 475):
+ ..
+ANTE O EXPOSTO, julgo procedente a reclamação para anular o decisório reclamado e demais atos processuais praticados após a interposição do pedido de uniformização em tela. Via de consequência,determino à autoridade reclamada que promova o processamento do incidente, intimando a parte recorrida para respondê-lo e, após, remeta os autos a este Pretório. Condeno o MUNICÍPIO DE BELO HORIZONTE ao pagamento de honorários advocatícios de sucumbência, fixados em 10% (dez por cento) sobre o valor atribuído à causa, na forma do art. 85, § 4º, III, do CPC.
+Sustenta a existência de contradição e erro material no decisum.
+A contradição reside no fato de que, em se tratando de ação de natureza constitucional, a reclamação não admite a condenação em honorários advocatícios de sucumbência, citando, nesse sentido, julgados do STF: Rcl 33.269-AgRsegundo; Rcl 44511 AgRED; Rcl 39.143 ED-AgR; Rcl 30.226 AgR; Rcl 16.418 AgR-ED.
+Já o erro material refere-se à condenação ao pagamento de honorários advocatícios de sucumbência não ter sido estendida ao DER/MG e ao ESTADO DE MINAS GERAIS, vez que também foram regularmente citados.
+Requer, assim, o acolhimento dos aclaratório.
+Impugnação à fl. 495.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignadas no decisum hostilizado que, "na forma da jurisprudência do STJ, uma vez aperfeiçoada a relação processual na reclamação, são cabíveis honorários sucumbenciais para as Reclamações ajuizadas na vigência do Código de Processo Civil de 2015 (STJ, EDcl na Rcl 39.884/AL, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 30/11/2022). No mesmo sentido: STJ, AgInt nos EDcl na Rcl 41.149/PE, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/09/2022; AgInt no REsp 2.017.139/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 24/05/2023" (AgInt nos EDcl na Rcl n. 45.065/PR, relatora Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe de 21/12/2023.).
+A propósito, cito ainda o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMACÃO. RELAÇÃO PROCESSUAL CONCRETIZADA. CABIMENTO DE HONORÁRIOS. PRECEDENTES. PROVIMENTO NEGADO.
+1. O entendimento jurisprudencial deste Superior Tribunal é no sentido de que, uma vez aperfeiçoada a relação processual na reclamação, são cabíveis honorários sucumbenciais para as reclamações ajuizadas na vigência do Código de Processo Civil de 2015.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl na Rcl n. 45.370/PR, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA SEÇÃO, DJe de 21/3/2024.)
+Por sua vez, observa-se que efetivamente procede o inconformismo da parte embargante no que se refere à sucumbência dos coreclamados ESTADO DE MINAS GERAIS e DER/MG, porquanto efetivamente foram citados (fl. 436 e 447).
+A propósito, o seguinte julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REMUNERAÇÃO POR PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. CITAÇÃO VÁLIDA. ANGULARIZAÇÃO DA RELAÇÃO PROCESSUAL. REVELIA. AUSÊNCIA DE CONTESTAÇÃO. PRETENSÃO RESISTIDA. VERIFICADA. INEXISTÊNCIA DE SATISFAÇÃO DA PRETENSÃO. LIDE. INTERESSE PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE.
+1. Ação de cobrança, ajuizada em 24/4/2019, da qual foi extraído o presente recurso especial, interposto em 24/3/2022 e concluso ao gabinete em 3/10/2022.
+2. O propósito recursal consiste em decidir se a ausência de contestação, com a consequente decretação de revelia, impede a condenação do réu revel sucumbente em honorários advocatícios.
+3. Nos termos do art. 238 do CPC/15, a citação é o ato pelo qual são convocados o réu, o executado ou o interessado para integrar a relação processual. A partir da citação, portanto, entende-se que o réu está ciente da existência do processo e, apto a exercer seus direitos, faculdades, ônus e deveres, integra a relação processual, angularizando-a (art. 238 do CPC/15).
+4. A revelia corresponde ao estado decorrente da ausência jurídica de contestação e pressupõe um comportamento omissivo por parte do demandado. São dois os pressupostos para o seu reconhecimento: a citação válida e a ausência de defesa no prazo legal.
+5. No plano material, a revelia gera presunção de veracidade dos fatos apresentados na inicial (art. 344 do CPC/15). Há precedentes desta Corte no sentido de que referida presunção é relativa e que não importa em procedência compulsória do pedido, sobretudo quando os elementos probatórios constantes nos autos conduzirem à conclusão diversa ou não forem suficientes para formar o convencimento do juiz.
+6. Revelia não se confunde com pretensão não resistida. Isso porque, a resistência à pretensão decorre tanto da apresentação de contestação quanto da não satisfação do interesse alheio qualificado.
+7. Embora o réu revel não conteste, formalmente, a pretensão autoral, também não a satisfaz. Logo, subsistindo o interesse do autor/recorrente na demanda, tem-se por verificada a resistência.
+8. Ocorre a sucumbência do réu revel quando este, integralizado ao processo, não apresenta contestação e, posteriormente, o demandante se consagra vencedor em razão do mérito de suas alegações e provas.
+Mesmo que não aplicado o princípio da sucumbência, possível a incidência do princípio da causalidade, uma vez que o revel, ao não satisfazer a pretensão autoral reconhecida, deu causa à propositura da demanda ou à instauração do incidente processual, devendo responder pelos honorários daí decorrentes.
+9. Hipótese em que o acórdão recorrido (I) reconheceu a citação válida e a revelia do recorrido; (II) julgou parcialmente procedente a pretensão autoral, a fim de condenar o recorrido/revel ao pagamento de custas processuais e de remuneração pela prestação de serviços educacionais; e (III) deixou de arbitrar honorários sucumbenciais sob os seguintes fundamentos (a) não restou angularizada a relação processual; (b) não houve pretensão resistida diante da ausência de contestação; e (c) ausente patrono do recorrido/revel, descabe a condenação em honorários ao advogado do recorrente.
+10. Recurso especial conhecido e provido para reformar parcialmente o acórdão estadual e condenar o recorrido ao pagamento de honorários sucumbenciais em favor do patrono do recorrente, arbitrados em 15% sobre o valor da condenação.
+(REsp n. 2.030.892/MG, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 1/12/2022.)
+ANTE O EXPOSTO, acolho parcialmente os aclaratórios para condenar o MUNICÍPIO DE BELO HORIZONTE, o ESTADO DE MINAS GERAIS e o DEPARTAMENTO DE ESTARDAS DE RODAGEM DO ESTADO DE MINAS GERAIS - DER/MG ao pagamento de honorários advocatícios de sucumbência, fixados em 10% (dez por cento) sobre o valor atribuído à causa, na forma do art. 85, § 4º, III, do CPC, a serem rateados em partes iguais para cada sucumbente.
+Publique-se.
+EMENTA
