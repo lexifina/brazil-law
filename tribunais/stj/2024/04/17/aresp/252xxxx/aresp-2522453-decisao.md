@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MINERACAO PARAGOMINAS S.A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/09/2023.
+Concluso ao gabinete em: 18/03/2024.
+Ação: de cobrança c/c obrigação de fazer ajuizada por INFRALINK SERVIÇOS DE INFRA-ESTRUTURA EMPRESARIAL LTDA, em face da agravante, fundada em contrato de prestação de serviços de manutenção civil, elétrica e hidráulica firmado entre as partes.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE PROCEDIMENTO COMUM. PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO CIVIL, ELÉTRICA E HIDRÁULICA DE EDIFICAÇÕES SITUADAS NAS DEPENDÊNCIAS DA RÉ. PEDIDO DE COBRANÇA, EM CÚMULO SUBSIDIÁRIO COM RESSARCIMENTO DE TRIBUTOS REFERENTES À EMISSÃO DE NOTAS FISCAIS. SENTENÇA DE IMRPOCEDÊNCIA. IRRESIGNAÇÃO. PRELIMINAR DE NULIDADE DO JULGADO, POR CERCEAMENTO DE DEFESA (ART. 5º, LV, DA CONSTITUIÇÃO DA REPÚBLICA). ACOLHIMENTO. INDEFERIMENTO DA PROVA PERICIAL CONTÁBIL NA PRÓPRIA SENTENÇA. CONTRADIÇÃO COM ANTERIOR DECISÃO SANEADORA, NA QUAL ESSA MESMÍSSIMA PROVA, REQUERIDA PELA AUTORA, ORA APELANTE, JÁ HAVIA SIDO DEFERIDA, AO ASSERTO DA IMPRESCINDIBILIDADE PARA O CORRETO DESLINDE DO FEITO. A PRODUÇÃO DE PROVAS RELEVANTES MATERIALIZA O DIREITO DE AMPLA DEFESA, CLARAMENTE CERCEADO. JURISPRUDÊNCIA DESTA E. CORTE DE JUSTIÇA. RECURSO CONHECIDO E PROVIDO. (fl. 1424, e-STJ)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 82, 95 e 1022 CPC, bem como dissídio jurisprudencial. Afirma que houve negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem deixou de se manifestar sobre matérias essenciais ao deslinde da controvérsia, em que pese ter oposto o devido recurso integrativo. Sustenta, ainda, que o ônus de custear os honorários periciais é da parte que requereu a produção da prova pericial. Aduz que a prova somente não foi produzida pela ausência de pagamento dos honorários periciais devidos pela recorrida, configurando a preclusão probatória.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões e contradições do Tribunal de origem residem na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, quedou-se silente no que concerne às teses trazidas pela parte agravante, quais sejam: i) o juízo de primeiro grau deferiu a realização de perícia; ii) a perícia somente não foi realizada por desídia do agravado, que foi intimado para depositar os honorários periciais e não o fez, inviabilizando a produção da prova; iii) ocorre a preclusão do direito à produção da prova pericial quando a parte a requer mas não efetua o depósito da remuneração do perito.
+Da análise do processo, constata-se que o Tribunal, ao julgar os embargos de declaração, se limitou a reportar aos termos do acordão recorrido, sem, contudo, enfrentar/pronunciar sobre às teses acima mencionadas.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca dos pontos anteriormente elencados. No mesmo sentido: AgInt no AgInt no REsp 1.911.324/MT, Quarta Turma, DJe de 23/09/2021, REsp 1.872.264/RJ, Terceira Turma, DJe de 05/4/2022.
+Logo, merece parcial provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, a fim de anular o acórdão recorrido e determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre a tese acima assinalada e deduzida nos embargos de declaração de fls. 1.438/1.442, e-STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÕES APTAS, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de cobrança.
+2. Caracteriza-se a ofensa ao art. 1022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e provido.
