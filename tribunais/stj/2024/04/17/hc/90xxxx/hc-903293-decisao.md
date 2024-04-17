@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Erich Dias dos Santos Figueiredo - cumprindo pena privativa de liberdade de 13 anos e 2 meses de reclusão, atualmente em regime fechado, por tráfico de drogas e integrar organização criminosa - atacando-se o acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 95/100 - Agravo Interno Criminal n. 2338445-77.2023.8.26.0000/50000) que manteve a decisão monocrática de indeferimento liminar da impetração originária (ao fundamento de se tratar de reiteração de writ anteriormente impetrado - fls. 82/85), não comporta processamento.
+Com efeito, busca a impetração o restabelecimento de decisão concessiva de progressão de regime - cassando a regressão de regime determinada pelo Juízo da execução penal, após alteração no cálculo de pena do paciente (fls. 27/28 - Execução da Pena n. 0004321-41.2021.8.26.0520, da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 9ª RAJ da comarca de São José dos Campos/SP) -, aos argumentos de irretroatividade da norma penal, assentando que o Paciente fora submetido e sofreu a regressão de seu regime de cumprimento de pena, diante de uma decisão cuja a ilegalidade decorre da aplicação retroativa de norma de direito material em prejuízo do réu (fl. 12), e ofensa ao princípio do sistema acusatório.
+Juntada aos autos cópia do acórdão do HC n. 2228295-29.2023.8.26.0000 (fls. 109/114).
+Entretanto, da análise dos autos, não demonstrado o constrangimento ilegal arguido, pois as alegações mandamentais nem sequer foram analisadas pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Ademais, tem-se que a retificação do cálculo de penas foi realizada pois, anteriormente, tinha-se utilizado a fração de 1/6 para progressão para o crime hediondo de integrar organização criminosa (fls. 31 e 114), diferentemente do alegado no presente writ.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. ALEGAÇÕES DE IRRETROATIVIDADE DA NORMA PENAL E OFENSA AO PRINCÍPIO DO SISTEMA ACUSATÓRIO. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
