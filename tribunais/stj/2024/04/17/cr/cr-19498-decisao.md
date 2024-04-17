@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se  de  carta  rogatória  por meio da qual a Procuradoria-Geral da República de El Salvador, valendo-se de ato de cooperação jurídica internacional, solicita medida cautelar consistente na averbação de penhora em registro de imóvel situado no Brasil, cujos proprietários são os interessados HUGO ALFREDO BARRIENTOS CLARÁ e LETÍCIA MARIA PORTILLO DE BARRIENTOS (fl. 50).
+Os autos foram encaminhados ao Ministério Público Federal, que opinou pela concessão do exequatur, com contraditório diferido, para que "o juízo da Justiça Federal competente promova os atos de constrição solicitados pela Justiça Rogante.
+Decido.
+A justiça estrangeira apresenta esta carta rogatória e requer cautelarmente a averbação de penhora, com o objetivo de garantir o bem e evitar a pluralidade de alienações. Requer ainda a confidencialidade da medida, com a finalidade de impedir obstáculos ao seu cumprimento (fls. 44-52).
+O pedido é apresentado com amparo na Convenção Interamericana sobre Assistência Mútua em Matéria Penal da Organização dos Estados Americanos, da qual o Brasil e o país rogante são signatários.
+Em seu art. 5, tal regramento estabelece que "A assistência será prestada, embora o fato que der origem a esta não seja punível segundo a legislação do Estado requerido. Quando o pedido de assistência referir-se às seguintes medidas: a) embargo e seqüestro de bens; (..)"
+O art. 6 dispõe que "Para os efeitos desta Convenção, o fato que der origem ao pedido deve ser punível com pena de um ano ou mais de prisão no Estado requerente."
+Por fim, o art. 7, alínea "d", determina que a assistência prevista, em feitos que tramitam na esfera penal, compreenderá entre outros atos "execução de embargos e sequestros de bens, congelamento de ativos e assistência em procedimentos relativos ao confisco".
+Pois bem, do acervo documental juntado aos autos, verifica-se que os interessados estão sendo processados em razão da suposta prática de crimes de corrupção, especificamente de peculato e lavagem de dinheiro e ativos (fl. 99). As vantagens indevidamente obtidas em decorrência desses supostos ilícitos teriam possibilitado a obtenção de diversos bens e capitais, todos listados pela justiça rogante na decisão acostada às fls. 98-135.
+Dentre os imóveis elencados, destaca-se um situado no Estado do Rio de Janeiro, adquirido em 12/5/2014, apontado como aumento patrimonial injustificado de seus titulares (fl. 121).
+À fl. 48 destes autos, a justiça rogante aponta as penas aplicadas a cada delito, que superam em muito o patamar mínimo estabelecido no artigo 6 da Convenção Interamericana. Ademais, os crimes de peculato e lavagem de ativos têm correspondentes na legislação brasileira, atendendo à previsão expressa no documento internacional.
+Por fim, visando impedir que o prévio desfazimento dos bens por parte dos envolvidos, ora interessados, a natureza acautelatória da medida justificaria a aplicação do contraditório diferido. Com efeito, o art. 216-Q, § 1º, do RISTJ e o art. 962, § 2º, do Código de Processo Civil garantem que a medida solicitada por carta rogatória poderá ser realizada sem oitiva prévia do interessado, desde que garantido o contraditório posterior, quando sua intimação prévia puder resultar na ineficiência da cooperação internacional.
+Nessa linha de intelecção, o objeto da presente carta rogatória não atenta contra os requisitos legais (ofensa à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos e inteligência da decisão), razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Assim, remeta-se a comissão à Justiça Federal, Seção Judiciária do Estado do Rio de Janeiro, para as providências cabíveis.
+Cumpra-se em 30 (trinta) dias.
+Após, devolvam-se os autos ao STJ para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se.
+EMENTA
