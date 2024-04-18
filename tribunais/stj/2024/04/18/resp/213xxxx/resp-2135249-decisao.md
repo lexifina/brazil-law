@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE LUIZ MARINI e outro (JOSE e outro), com fundamento no art. 105, III, alíneas a e c, da CF, em oposição ao acórdão proferido pelo Tribunal de Justiça de São Paulo (TJSP), relator LUIZ ANTONIO DE GODOY, assim ementado:
+COMPROMISSO DE COMPRA E VENDA Rescisão por incapacidade financeira dos autores Sentença que negou a fixação de taxa de fruição Insurgência das rés somente quanto a esse ponto Irrelevância da ausência de edificação no imóvel Fundamento da indenização que consiste na privação de uso, dano autônomo sofrido pela vendedora Sentença reformada para o fim de fixar taxa de fruição em 0,5% sobre o valor atualizado do contrato por cada mês do período de posse Recurso provido (e-STJ, fl. 119).
+Nas razões do presente recurso, JOSE e outro alegaram violação dos arts. 884, 885 e 1.196, todos do CC, bem como dissídio jurisprudencial, afirmando que descabido o pagamento de taxa de fruição de imóvel não edificado.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+Taxa de fruição
+O Tribunal bandeirante entendeu ser cabível a indenização da taxa de fruição, assim se pronunciando:
+Na sentença, entendeu-se ser descabida referida taxa, nos seguintes termos: "Sabe-se que como efeito natural da rescisão contratual, que determina a reposição das partes ao estado anterior, tem-se necessário a apuração de eventual apuração de valores de indenização pelo usufruto do bem, devida em razão da privação do uso do imóvel pelo compromissário vendedor durante todo o período de posse pelo comprador. Acontece que, no presente caso, por se tratar de um terreno, inexiste qualquer indicativo de que o imóvel possua benfeitorias, ou de que a parte autora tenha dele ocupado. Dessa forma, não sendo demonstrada a existência de benfeitorias no imóvel vendido ou ocupação pelos autores de forma a justificar a fixação de valores de indenização pelo usufruto do bem, entendo que o pedido deve ser indeferido (..)" (fls. 90).
+Respeitada a posição do magistrado a quo, entende-se que a sentença comporta reforma neste ponto.
+Sobre o tema, vale lembrar que "o arbitramento de indenização por perdas e danos relativos à ocupação do imóvel não se confunde com a retenção dos valores pagos. Trata-se de danos com origens diversas. A retenção de parte dos pagamentos se destina a compensar as despesas do negócio, identificando-se com o dano emergente. A taxa de ocupação, de outra parte, indeniza lucros cessantes consistentes no quanto a vendedora razoavelmente auferiria, caso usasse ou locasse o imóvel a terceiros, no período em que os devedores inadimplentes o ocupavam. Não é relevante o fato de o imóvel consistir de terreno vazio, pois o fundamento da indenização é a privação de uso, dano autônomo sofrido pela vendedora. Admissível, pois, cumular ambas as indenizações" (Apelação Cível nº 1012187-43.2022.8.26.0037; 1ª Câmara de Direito Privado do TJSP, v.un.; Rel. Francisco Loureiro, em 16/05/2023).
+Em suma, a ausência de edificação não representa óbice à fixação da taxa de fruição, tendo em vista que o bem permaneceu disponível aos autores (e-STJ, fl. 120 - com destaque no original).
+A conclusão adotada na origem, encontra-se em dissonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que inviável a cobrança de taxa de fruição no caso de lote não edificado, em razão da efetiva ausência de utilização do bem. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO. MERA IMISSÃO NA POSSE. INDENIZAÇÃO INDEVIDA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, "não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem" (AgInt no REsp 1.896.690/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.897.785/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/10/2021, DJe de 14/10/2021)
+Nessas condições, DOU PROVIMENTO ao recurso especial para determinar que seja retirada da condenação o valor referente à taxa de fruição do imóvel, nos termos da jurisprudência deste Superior Tribunal de Justiça.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO PELO COMPRADOR. TAXA DE FRUIÇÃO DO IMÓVEL. LOTE NÃO EDIFICADO. NÃO CABIMENTO. ACÓRDÃO EM DESARMONIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
