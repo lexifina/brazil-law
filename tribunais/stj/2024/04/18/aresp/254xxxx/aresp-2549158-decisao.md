@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NEUZA DA CRUZ SILVEIRA contra decisão que i nadmitiu recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação Cível n. 1.0000.23.107486-5/001) assim ementado (fl. 388):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS - CERCEAMENTO DE DEFESA -INOCORRÊNCIA - LITIGÂNCIA DE MÁ-FÉ DA DEMANDANTE -TIPIFICAÇÃO - MANUTENÇÃO DA MULTA ARBITRADA NO PRIMEIRO GRAU - REDUÇÃO DO QUANTUM - CABIMENTO.
+-Não se há de falar em cerceamento de defesa quando o MM. Juiz prolata Despacho Saneador, delimitando as questões de fato sobre as quais recairia a atividade probatória, tampouco por ausência da consecução da perícia na via original do Instrumento questionado, se o Experta testa a possibilidade de consecução do seu trabalho sobre a cópia, consignando a suficiência da documentação constante do feito para a apuração dos elementos necessários à sua conclusão.
+-" ..  é preciso repensar o processo à luz dos mais basilares cânones do próprio direito, não para frustrar o regular exercício dos direitos fundamentais pelo litigante sério e probo, mas para refrear aqueles que abusam dos direitos fundamentais por mero capricho, por espírito emulativo, por dolo ou que, em ações ou incidentes temerários, veiculem pretensões ou defesas frívolas, aptas a tornar o processo um simulacro de processo".(STJ -Recurso Especial nº 1.817.845).
+-Constatando-se que a Autora alterou a verdade dos fatos, tentando usar o processo para conseguir o objetivo ilegal de se furtar ao pagamento da dívida contraída junto ao Réu, remanesce caracterizada a litigância de má-fé pela Requerente, nos termos do art. 80, do CPC, devendo ser mantida a sua condenação ao pagamento da multa prevista no art. 81, do Digesto Processual Civil, mas por valor proporcional à conjuntura dos autos.
+Nas razões do recurso especial (fls. 412-428), a recorrente aponta, além de dissídio jurisprudencial, negativa de vigência aos arts. 80, 81, 355, 357 e 373 do CPC, à Instrução Normativa INSS/PRES n. 28, bem como ao art. 5º, XXXV, da CF.
+Assevera o recorrente, em síntese, ser necessária prova pericial sobre o contrato original e que deve ser afastada a multa de litigância de má-fé imposta.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 435-444.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Mediante análise dos autos, verifica-se que a decisão que inadmitiu o recurso especial adotou como fundamento a incidência da Súmula n. 7 do STJ quanto aos seguintes temas do recurso especial: a) desnecessária que a perícia requerida fosse realizada no documento original; b) a Turma Julgadora entendeu ainda comprovada a litigância de má-fé.
+Entretanto, a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar o óbice sumular supramencionado, no que diz respeito à desnecessidade de que a perícia requerida fosse realizada no documento original.
+Com efeito, não indicou, de forma concreta e específica, circunstâncias que afastassem, para a verificação das violações indicadas, a necessidade de reanálise de elementos probatórios considerados para a resolução da controvérsia.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.
+Ressalte-se que, no presente caso, nenhuma das alegações apresentadas no agravo em recurso especial constitui impugnação específica da aplicação das Súmula n. 7 do STJ, quanto à desnecessidade de que a perícia requerida fosse realizada no documento original.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR , em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 12%, percentual arbitrado na instância de origem, para 14% sobre o valor da causa, observada a sucumbência recíproca.
+Publique-se. Intimem-se.
+EMENTA
