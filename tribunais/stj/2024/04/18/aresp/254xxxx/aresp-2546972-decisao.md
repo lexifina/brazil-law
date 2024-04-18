@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por POSTO BIQUINHA GASOLINA E LUBRIFICANTES LTDA. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que o agravante ajuizou ação de cobrança, julgada procedente.
+Interposta apelação pela ora agravada, a Trigésima Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 227):
+APELAÇÃO. AÇÃO DE COBRANÇA. COMPRA E VENDA DE COMBUSTÍVEIS. Pretensão procedente em primeiro grau. Inconformismo. CERCEAMENTO DE DEFESA. Inocorrência. Princípio do livre convencimento motivado. Os elementos de prova constantes nos autos que são suficientes para a adequada composição da lide. A abertura da fase de instrução não se mostra pertinente, especialmente para produção de prova técnica de informática, pois não é possível assegurar que o equipamento utilizado ainda pode ser periciado e que a perícia pode, em tese, esclarecer aspectos relevantes para composição da lide, considerando-se que os fatos se deram há certo tempo. Ademais, a apelante relegou a produção da prova à conveniência do Magistrado, de modo que a alegação de que a prova é imprescindível se mostra contraditória. Preliminar rejeitada. VALIDADE DO PAGAMENTO. BOLETO FRAUDADO. A responsabilidade pelo pagamento de boleto adulterado não pode ser atribuída à recorrente, na medida em que o erro foi justificável e a atuação do estelionatário se deu no ambiente digital do credor. O boleto foi enviado por e-mail, como de costume há anos, e indicava o recorrido como sacador/avalista. Terceiros estelionatários invadiram o sistema do recorrido e alteraram os dados dos boletos que foram enviados aos clientes. Pagamento válido. Sentença reformada. Inversão dos ônus sucumbenciais. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente alegou, além da existência de divergência jurisprudencial, violação do art. 290 do Código Civil.
+Sustentou, em síntese, que a inexigibilidade do crédito e o erro de pagamento não se sustentam, tendo em conta a ausência de notificação da cessão de crédito.
+Contrarrazões às fls. 251-259 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 274-281 (e-STJ).
+Brevemente relatado, decido.
+Na espécie, a Corte de origem, soberana na análise dos elementos fáticos e probatórios dos autos, concluiu pela validade do pagamento, sob os seguintes fundamentos (e-STJ, fls. 230-232):
+É incontroverso que a apelante realizou o pagamento da dívida utilizando-se boleto fraudado, adulterado por terceiro estelionatário; ou seja, o crédito não se reverteu em prol do credor.
+No entanto, a responsabilidade pelo erro no pagamento não pode ser atribuída à recorrente, na medida em que o erro foi justificável e a atuação do estelionatário se deu no ambiente digital do apelado.
+A apelante adquiria combustíveis do posto recorrido há muitos anos e sempre recebia os boletos de cobrança por e-mail. Além do documento, que vinha em anexo, o credor enviava-lhe relatório descritivo do consumo, no corpo da correspondência.
+No dia 02.05.22, a ré recebeu o e-mail e realizou o pagamento utilizando o boleto enviado pelo autor, na data aprazada.
+Segundo o documento, o valor pago seria creditado no Banco Original, e não no Itaú, como de costume; e se daria em favor da empresa DISTRIBUIDORA DE G E DA M EIRELI, e não do apelado.
+No entanto, tais alterações não tinham o condão de despertar dúvidas na apelante. O boleto foi recebido pelo e-mail, como de costume, e com valor idêntico ao relatório. Além disso, o posto apelado, qualificado por seu correto CNPJ, figurava como "sacador avalista" (fls. 53).
+Nesse diapasão, o equívoco é totalmente justificável, na medida em que, aparentemente, o apelado havia cedido seu crédito.
+Pelo que se depreende, terceiros estelionatários invadiram o sistema do recorrido e alteraram os dados dos boletos que foram enviados aos clientes.
+A esse respeito, no final do mês de maio, o apelado enviou e-mail para todos os seus clientes, com a seguinte advertência:
+Prezados clientes! Fiquem atentos com os recebimentos de boletos. Caso recebam em nome do Posto Biquinha, boletos que não sejam emitidos pelo banco Itaú. Não façam o pagamento. Qualquer dúvida, entrem em contato pelo whatsapp (16)991072895. Fico à disposição para maiores esclarecimentos. Atenciosamente Juscélia Posto (fls. 61/64).
+Por sua vez, a recorrente demonstrou que, naquele mês de maio, recebeu outros boletos por e-mail e nenhum deles fora alterado (fls. 133/142).
+Ademais, apresentou declaração de técnico analista de sistemas e relatório de detecção de vírus atestando que o equipamento não fora atingido por malwares no ano de 2022 (fls. 143/144 e 170/173).
+Consigno que a relação havida entre as partes se submete aos ditames do Código de Defesa do Consumidor, pois, dados os preceitos legais (artigos 2º e 3º), o autor se enquadra no conceito legal de fornecedor, ao passo que a ré é destinatária final dos combustíveis adquiridos.
+Sob este enfoque, em razão do farto conjunto probatório apresentado pela recorrente, é certo que competia ao recorrido comprovar que a alteração do boleto não ocorreu em seu ambiente digital, responsável pela emissão dos boletos, mas no equipamento da recorrente, em razão de sua desídia.
+Porém, o apelado nada demonstrou. Não há provas de que seu sistema não fora invadido ou de que o boleto foi alterado após seu envio à recorrente.
+Anote-se que, além de ter enviado mensagem a todos os clientes alertando-os acerca da fraude, o credor passou a enviar os boletos de cobrança por meio do WhatsApp.
+Em sendo assim, considerando que o próprio credor enviou o boleto fraudado ao devedor e que o pagamento feito a terceiro se justificou pelo fato de o apelado ter figurado como sacador/avalista, é caso de se julgar improcedente o pedido de cobrança.
+Ainda sobre o tema, extrai-se o seguinte excerto dos embargos de declaração (e-STJ, fl. 240):
+O fato de o antivírus ter sido instalado um mês após o recebimento do e-mail não demonstra que o equipamento do devedor havia sido invadido. Ao realizar a varredura, o programa não detectou nenhum malware.
+Conforme constou, "o recorrido apresentou declaração de técnico analista de sistemas e relatório de detecção de vírus atestando que o equipamento não fora atingido por malwares no ano de 2022 (fls. 143/144 e 170/173)". (g.n.)
+Quanto à cessão, verifica-se que a aparente transferência do crédito foi apenas um argumento utilizado para afastar a cobrança.
+Além disso, pesou em desfavor do embargante o fato de o boleto ter sido remetido via e-mail, pelo endereço do credor, como de costume; a ausência de malwares no computador do embargado; a advertência enviada a todos os clientes; o pagamento regular dos demais boletos recebidos pelo devedor, naquele mês; e a ausência de provas de que o sistema do credor não fora invadido.
+Desse modo, observa-se que o acórdão recorrido deu solução à controvérsia por meio de minuciosa análise do contexto fático-probatório que guarnece os autos.
+A pretensa questão federal submetida a esta Corte não tem como ser aqui aferida, porquanto chegar a uma conclusão contrária demanda o reexame das mesmas provas produzidas, fazendo um verdadeiro rejulgamento da causa, como se o STJ fosse uma terceira instância revisora e o especial pudesse ser transmudado em uma apelação da apelação.
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Ademais, não se revela cognoscível a irresignação deduzida pela alínea c do permissivo constitucional, porquanto o recorrente não demonstrou o dissídio nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Isso porque a demonstração da divergência exige a realização do cotejo analítico, com o confronto entre trechos, tanto do acórdão recorrido quanto da decisão apontada como divergente, o que não foi feito na espécie.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DOS VENCIMENTOS. REGRA GERAL. POSSIBILIDADE DE FLEXIBILIZAÇÃO. PRESERVAÇÃO DA DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+1. A jurisprudência desta Corte se firmou no sentido de que a regra geral de impenhorabilidade de salários e demais vencimentos (art.649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1.582.475/MG, Corte Especial, DJe 16/10/2018).
+2. A aferição de percentual razoável para penhora, com o respeito à dignidade do devedor e de sua família, foi examinada pela Corte de origem a partir dos fatos e provas colacionados aos autos, de modo que sua revisão é incabível na estreita via do recurso especial, nos termos da Súmula 7/STJ.
+3. Na hipótese em exame, o dissídio jurisprudencial não foi demonstrado, uma vez que a parte recorrente se limitou a citar acórdãos trazidos como paradigmas, sem realizar o necessário cotejo analítico, em desatenção ao disposto na legislação processual pátria e no Regimento Interno do Superior Tribunal de Justiça.
+4. Agravo interno não provido
+(AgInt no REsp n. 2.012.583/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 1% (um por cento) do valor fixado.
+Fiquem as partes cientificadas de que a insistênci124 injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA DE COMBUSTÍVEIS. VALIDADE DO PAGAMENTO. ANÁLISE DOS ELEMENTOS PROBATÓRIOS SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
