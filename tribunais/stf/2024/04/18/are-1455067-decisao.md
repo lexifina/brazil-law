@@ -1,0 +1,53 @@
+Trata-se de recursos extraordinários com agravos interpostos contra acórdão assim ementado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ALMEJADA INVALIDAÇÃO DE DISPOSITIVOS LEGAIS CONTIDOS NAS LEIS COMPLEMENTARES MUNICIPAIS NºS. 149/2015 E 153/2015, QUE DISPÕEM SOBRE A ORGANIZAÇÃO DO SISTEMA DE SERVIÇO PÚBLICO DE TRANSPORTE COLETIVO DO MUNICÍPIO DE NATAL/RN. PRELIMINAR DE NÃO CONHECIMENTO DA AÇÃO, SUSCITADA PELA RELATORA, QUANTO AO ART. 2º E § 1º, DO ART. 11, AMBOS DA LEI COMPLEMENTAR Nº 153/2015. ACOLHIMENTO. PRIMEIRO DISPOSITIVO QUE NÃO PODE SER OBJETO DE ANÁLISE POR CARECER DE FORÇA NORMATIVA. SEGUNDA REGRA EXPRESSAMENTE REVOGADA POR NORMA POSTERIOR. AUSÊNCIA DE INTERESSE PROCESSUAL CONFIGURADA. MÉRITO. INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO FEDERAL DO INCISO IX, DO ART. 50 DA LEI COMPLEMENTAR Nº 149/2015 PARA EXCLUIR DAS RESTRIÇÕES LEGAIS O CÃO GUIA. CONDICIONAMENTO DO PROCESSO LICITATÓRIO À PRÉVIA PERMISSÃO DO LEGISLATIVO E IMPOSIÇÃO DE DETERMINADAS CARACTERÍSTICAS AOS VEÍCULOS. INCONSTITUCIONALIDADE. AFRONTA AO PRINCÍPIO DA SEPARAÇÃO DAS FUNÇÕES. REGRAS QUE VERSAM SOBRE A JORNADA DE TRABALHO DE MOTORISTAS E COBRADORES. INCONSTITUCIONALIDADE FORMAL. COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE DIREITO DO TRABALHO E CONDIÇÕES PARA O EXERCÍCIO DE PROFISSÕES. DISPOSITIVOS LEGAIS QUE TRANSMITEM AOS HERDEIROS DOS PERMISSIONÁRIOS FALECIDOS A EXPLORAÇÃO DO SERVIÇO CONTRATADO. INCONSTITUCIONALIDADE. COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE DIREITO CIVIL. AFRONTA AO PRINCÍPIO LICITATÓRIO. AÇÃO CONHECIDA E, NESSA EXTENSÃO, JULGADA PARCIALMENTE PROCEDENTE” (documento eletrônico 16, pp. 1-2).
+
+    Os embargos de declaração que se seguiram foram rejeitados (documento eletrônico 26).
+
+     A Câmara de Municipal de Natal e a sua Mesa Diretora, fundadas no art. 102, III, a, da Constituição Federal, alegam, em suma, ofensa aos arts. 29, XI; 31; 49 e 125, § 2º, da Constituição (documento eletrônico 30).
+
+    O Prefeito do Município de Natal, com base no art. 102, III, a, b, c e d, da Constituição Federal, alega a violação dos arts. 2º e 22, I e XVI, da Constituição (documento eletrônico 32).
+
+    Em 14/9/2023, determinei a vista dos autos à Procuradoria-Geral da República (documento eletrônico 62). O Ministério Público Federal opinou “[...] pelo desprovimento do recurso extraordinário interposto pela Câmara Municipal de Natal e sua Mesa Diretora e pelo provimento parcial do recurso extraordinário interposto pelo Prefeito Municipal de Natal”. Confira-se, a propósito, a ementa do parecer ministerial:
+
+    “AGRAVOS EM RECURSOS EXTRAORDINÁRIOS. AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA PARA IMPUGNAR DISPOSITIVOS DAS LEIS COMPLEMENTARES MUNICIPAIS NºS 149/2015 E 153/2015. PEDIDO JULGADO PARCIALMENTE PELO PLENO DO TJRN. RECURSOS EXTRAORDINÁRIOS DO PREFEITO DO MUNICÍPIO DE NATAL E DA CÂMARA MUNICIPAL DE NATAL. INEXISTENCIA DO ÓBICE APONTADO NA DECISÃO IMPUGNADA. PARECER PELO PROVIMENTO DOS AGRAVOS PARA QUE SEJAM CONHECIDOS OS RECURSOS E, NO MÉRITO , PELO DESPROVIMENTO DO RECURSO EXTRAORDINÁRIO DA CÂMARA MUNICIPAL DE NATAL E PELO PROVIMENTO PARCIAL DO RECURSO EXTRAORDINÁRIO DO PREFEITO MUNICIPAL DA NATAL” (doc. 64).
+
+    É o relatório necessário. Decido.
+
+    Passo a apreciar, primeiramente o recurso extraordinário interposto pela Câmara de Municipal de Natal e a sua Mesa Diretora e, fazendo-o, verifico que não lhes assiste razão.
+
+    Isso porque, à exceção do art. 125, § 2º, da Constituição Federal, os demais dispositivos constitucionais arguidos pelas recorrentes não foram prequestionados. Assim, consoante a Súmula 282/STF, é inadmissível o recurso extraordinário, visto que a questão constitucional suscitada não foi apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, cito o ARE 1.455.834 AgR/SP, de minha relatoria, Primeira Turma, DJe 26/10/2023, cuja ementa segue transcrita:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NECESSIDADE DO REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 279/STF. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inviável o recurso extraordinário cuja questão constitucional nele arguida não tiver sido prequestionada. Incidência da Súmula 282/STF. Ademais, a tardia alegação de ofensa à Constituição, apenas deduzida extraordinário, o reexame do conjunto fático-probatório constante dos autos. III - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação da legislação infraconstitucional que fundamenta o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. IV - Agravo regimental, a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (grifei)
+
+    Com o mesmo entendimento, menciono julgado da Segunda Turma do Supremo Tribunal Federal:
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS CONSTITUCIONAIS SUPOSTAMENTE VIOLADOS. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO ANTE O PRESCRITO NO ENUNCIADO N. 282 DA SÚMULA DO SUPREMO. 1. A alegação tardia, em embargos de declaração, de ofensa ao Texto Constitucional não supre o prequestionamento da matéria, atraindo o óbice do enunciado n. 282 da Súmula do Supremo. 2. Agravo interno desprovido.” (ARE 1.400.860 AgR/DF, Rel. Min. Nunes Marques, DJe 13/9/2023 — grifei).
+
+    Ademais, quanto ao mérito, melhor sorte não assiste às recorrentes pois, como concluiu o a Procuradoria-Geral da República, afigurou-se a
+
+     “[...] invasão na competência legislativa da União sobre direito do trabalho, sobre condições para o exercício de profissões e sobre direito civil, ferindo os parâmetros estabelecidos pela Constituição Federal e que são de observância obrigatória pelos demais entes federativos” (documento eletrônico 64, pp. 20-21).
+
+    Nesse sentido refiro a ADI 4.820/AP, de relatoria do Ministro Dias Toffoli, Tribunal Pleno, DJ 3/12/2018:
+
+    “Constitucional. Decretação de feriado religioso por lei estadual. Lei nº 1.696/2012 do Amapá. Competência privativa da União para legislar sobre Direito do Trabalho. Lei federal que dispõe sobre feriados. Inconstitucionalidade da norma. 1. A Lei nº 1.696/2012 do Estado do Amapá, ao instituir um feriado religioso estadual, usurpou a competência da União para legislar sobre direito do trabalho, uma vez que “implícito ao poder privativo da União de legislar sobre direito do trabalho está o de decretar feriados civis, mediante lei federal ordinária, por envolver tal iniciativa consequências nas relações empregatícias e salariais” (ADI nº 3.069/DF, Relatora a Ministra Ellen Gracie, Tribunal Pleno, DJ de 16/12/05). 2. No exercício de sua competência para legislar sobre o tema, a União promulgou a Lei nº 9.093/1995, que estabelece que os Estados-membros somente poderão decretar como feriado a “data magna” de criação da unidade estadual. 3. O valor histórico, cultural e religioso da data não é argumento apto a justificar invasão da competência privativa da União para dispor sobre feriados, mantida a possibilidade de reconhecimento estadual como data comemorativa local. 4. Procedência do pedido inicial para se declarar a inconstitucionalidade da Lei nº 1.696/2012 do Estado do Amapá”.
+
+    Em igual sentido o RE 1.342.739 AgR/MA, rel. Min. Dias Toffoli, 1ª Turma, DJe 15/8/2022; ADI 3.069/DF, rel. Min. Ellen Gracie, Tribunal Pleno, DJ 16/12/2005, ADI 3.940/RO, rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 3/7/2020; e ADI 6.133/RJ, rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 6/7/2020.
+
+    Quanto ao recurso extraordinário interposto pelo Prefeito do Município de Natal, entendo que ele comporta parcial provimento pela alínea a do inciso III do art. 102 da Constituição Federal.
+
+    Isso porque a jurisprudência do Supremo Tribunal Federal entende haver uma indevida e ilegítima interferência de um Poder sobre o outro, quando a lei impõe a indicação de membro do Poder Legislativo para compor estrutura do Poder Executivo:
+
+    “Ação direta de inconstitucionalidade. Emenda Constitucional nº 24 do Estado de Alagoas. Alteração na composição do Conselho Estadual de Educação. Indicação de representante pela Assembleia Legislativa. Vício de iniciativa. Inconstitucionalidade formal. 1. A ação direta foi proposta em face da Emenda Constitucional nº 24/02 do Estado de Alagoas, a qual dispôs sobre a organização e a estruturação do Conselho Estadual de Educação, órgão integrante da Administração Pública que desempenha funções administrativas afetas ao Poder Executivo, conferindo à Assembleia Legislativa o direito de indicar um representante seu para fazer parte do Conselho. 2. A disciplina normativa pertinente ao processo de criação, estruturação e definição das atribuições dos órgãos e entidades integrantes da Administração Pública estadual, ainda que por meio de emenda constitucional, revela matéria que se insere, por sua natureza, entre as de iniciativa exclusiva do chefe do Poder Executivo local, pelo que disposto no art. 61, § 1º, inciso II, alínea “e”, da Constituição Federal. Precedentes. 3. A EC nº 24/02 do Estado de Alagoas incide também em afronta ao princípio da separação dos Poderes. Ao impor a indicação pelo Poder Legislativo estadual de um representante seu no Conselho Estadual de Educação, cria modelo de contrapeso que não guarda similitude com os parâmetros da Constituição Federal. Resulta, portanto, em interferência ilegítima de um Poder sobre o outro, caracterizando manifesta intromissão na função confiada ao chefe do Poder Executivo de exercer a direção superior e dispor sobre a organização e o funcionamento da Administração Pública. 4. Ação direta julgada procedente” (ADI 2.654/AL, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 9/10/2014).
+
+    Posto isso, nego provimento ao recurso extraordinário interposto pela Câmara de Municipal de Natal e a sua Mesa Diretora (documento eletrônico 30) (art. 932 do CPC).
+
+    Conheço do recurso extraordinário do Prefeito do Município de Natal, pela alínea a e dou-lhe parcial provimento para reconhecer a contrariedade aos arts. 2º e 61, § 1º, II, da Constituição Federal e, como corolário, reformar parcialmente o acórdão recorrido para declarar a inconstitucionalidade da alínea b do inciso XI do art. 5º da Lei Complementar do Município de Natal-RN 149/2015 (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 18 de abril de 2024.
+
+Ministro Cristiano Zanin
+
+Relator
