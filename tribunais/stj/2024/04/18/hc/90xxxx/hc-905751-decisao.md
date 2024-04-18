@@ -1,0 +1,11 @@
+DECISÃO
+MICHEL DA CRUZ DE OLIVEIRA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0015230-43.2024.8.19.0000, em que não foi conhecido o writ.
+Consoante destacado no acórdão em questão, "pugna, em sede de liminar, pela reformar da decisão a quo, para cassar a decisão da VEP, para que seja reavaliado o pleito  de trabalho extramuros  do paciente com motivação idônea. No mérito, requer a confirmação dos efeitos da liminar" (fl. 85).
+Todavia, no acórdão impugnado, salientou a Corte de origem que "o pleito de cassação / reforma da decisão que indeferiu o pleito do benefício de trabalho extramuros deve ser analisado mediante o exame das provas pré-constituídas, não havendo dúvidas acerca da manifesta impropriedade da via eleita" (fl. 89).
+Dessa forma, pondera-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância. A esse respeito:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+Ademais, urge consignar ser " i ncabível sua utilização como sucedâneo de agravo em execução, mormente no caso em que interposto o recurso próprio na instância a quo" (AgRg no HC n. 619.808/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 20/11/2020.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
