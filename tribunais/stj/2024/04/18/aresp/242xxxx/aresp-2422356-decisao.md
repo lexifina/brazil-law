@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 776):
+PREVIDENCIÁRIO. DEVOLUÇÃO DE VALORES RECEBIDOS INDEVIDAMENTE. MÁ-FÉ COMPROVADA.
+Evidenciada a má-fé da segurada, é devida a restituição dos valores pagos indevidamente a título de aposentadoria por tempo de contribuição.
+Opostos embargos de declaração, foram rejeitados (fl. 799)
+Aponta o recorrente, nas razões do apelo especial, violação aos arts. 1.022, II, do CPC, 406 do CC, 37-A da Lei 10.522/02 c/c art. 61 da Lei 9.460/96 sustentando, além de negativa de prestação jurisdicional, "o ressarcimento dos valores despendidos com o acréscimo de juros moratórios no percentual de 6% ao ano e INPC desde a data dos saques até janeiro de 2003 (mês da vigência do Código Civil de 2002). Após esta data, requer seja aplicada a taxa SELIC. Evidentemente, aplicando-se a SELIC não se cogita de correção monetária, conquanto tal índice contemple a correção do valor da moeda e, também, os juros" (fl. 808).
+Alega que, "Tratando-se de indenização por ato ilícito, a correção monetária e os juros demora devem ser aplicados a partir do evento danoso ou do efetivo prejuízo, vale dizer, no caso, da data de cada saque realizado, a teor das Súmulas 43 e 54 do STJ e artigo 398do Código Civil de 2002" (fl. 808).
+Aduz que, "Quanto ao percentual de juros a ser aplicado, a teor do que dispõe o art.406 do Código Civil, devem ser de 6% ao ano até janeiro de 2003 (mês da vigência do Código Civil de 2002). Já os vencidos após esta data serão os previstos no artigo 406, ou seja, taxa SELIC" (fl. 808).
+Afirma que, "em decorrência do art. 37-A da Lei 10522/2002 e do art. 61 da Lei9430/96, os créditos do INSS não pagos no prazo previsto na legislação em vigor, decorrentes do recebimento indevido de benefício previdenciário, passaram a sofrer a incidência dos acréscimos de juros e multa de mora na forma aplicável aos tributos federais" (fl. 809).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, o Tribunal de origem, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls.796/797):
+Desse modo, não conheço dos embargos do INSS no ponto em que requer a incidência de juros de mora a partir do evento danoso, por ausência de interesse, uma vez que as razões estão na mesma linha do julgado.
+De outro norte, a pretensão de aplicação da taxa SELIC antes de 09-12-2021 não prospera, já que as parcelas em cobrança não possuem natureza de crédito tributário, de modo que não cabe a utilização da SELIC, incidindo, na hipótese, os mesmos índices que o INSS utiliza para a atualização de seus débitos em relação aos segurados.
+(..).
+No entanto, há omissão no acórdão quanto aos juros e correção monetária referentes aos períodos anteriores aos fixados no acórdão, que passo a suprir.
+A atualização monetária das parcelas vencidas deve observar o IGP-DI de 01-05-1996 a 10-08-2006 (art. 10 da Lei n.º 9.711/98, combinado com o art. 20, §§ 5º e 6º, da Lei n.º 8.880/94), cabendo a incidência, desde o evento danoso, de juros de mora de 1% ao mês, até 28-06-2009. Os demais índices permanecem tal como estipulados no acórdão.
+O recorrente, no entanto, nas razões do Recurso Especial, limitou-se a defender que "em decorrência do art. 37-A da Lei 10522/2002 e do art. 61 da Lei 9430/96, os créditos do INSS não pagos no prazo previsto na legislação em vigor, decorrentes do recebimento indevido de benefício previdenciário, passaram a sofrer a incidência dos acréscimos de juros e multa de mora na forma aplicável aos tributos federais" . Não cuidou de impugnar, especificamente, o fundamento do acórdão que serviu de base para afastar a incidência da taxa selic, segundo o qual, "as parcelas em cobrança não possuem natureza de crédito tributário, de modo que não cabe a utilização da SELIC, incidindo, na hipótese, os mesmos índices que o INSS utiliza para a atualização de seus débitos em relação aos segurados", o que, por si só, mantém incólume o julgado combatido.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Logo, sendo o fundamento suficiente para manter o julgado, a irresignação esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+ANTE O EXPOSTO, nego provimento ao presente agravo.
+Publique-se.
+EMENTA
