@@ -1,0 +1,20 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe agravo regimental contra decisão de fls. 180-182, por meio da qual dei provimento ao recurso em habeas corpus.
+Em suas razões, o Parquet federal sustenta que deve ser aplicada interpretação restritiva ao Decreto n. 11.302/2022, porquanto "o concurso a que se referem os parágrafos únicos dos arts. 5º e 11 é a multiplicidade de condenações, sendo indiferente a forma pela qual ocorreram" (fl. 196).
+Menciona julgado do Supremo Tribunal Federal no sentido de sua tese - SL n. 1.698 MC/RS.
+Requer a reconsideração da decisão impugnada e, subsidiariamente, o provimento do agravo regimental, a fim de que seja cassado o decisum que concedeu a ordem de habeas corpus.
+Decido.
+Exerço o juízo de reconsideração.
+Nos autos da SL n. 1.698/RS, em julgamento realizado em 21/2/2024, o Plenário do Supremo Tribunal Federal, por unanimidade, determinou a suspensão imediata das ordens concedidas pelo STJ nos habeas corpus n. 870.883/RS, 872.808/RS, 875.168/RS e 875.774/RS, nos termos do voto do relator, Ministro Luís Roberto Barroso.
+No intuito de preservar a segurança jurídica em torno da interpretação dada ao art. 11, parágrafo único, do Decreto n. 11.302/2022, o órgão de instância máxima assinalou a impossibilidade da concessão do indulto quando, realizada a unificação de penas, restar o cumprimento da reprimenda referente aos crimes impeditivos para a concessão do benefício, listados no art. 7º do referido decreto.
+No caso dos autos, o paciente cumpre penas pelas práticas dos delitos de furto, receptação, homicídio, lesão corporal e tráfico de drogas.
+A Corte de origem, manteve a decisão do Juízo das execuções que indeferiu o pedido de indulto formulado com base no Decreto n. 11.302/2022 em favor do ora insurgente, nos termos da seguinte ementa (fl. 160):
+HABEAS CORPUS - EXECUÇÃO PENAL - CONCESSÃO DE INDULTO - IMPOSSIBILIDADE - AUSÊNCIA DOS REQUISITOS NECESSÁRIOS. Em que pese o habeas corpus não ser a via adequada para a discussão de matérias afetas à execução penal, tendo o Superior Tribunal de Justiça determinado seu exame, deve-se conhecer do writ. Ausentes os requisitos necessários para a concessão do indulto não há que se falar em extinção da pena em razão da benesse.
+O entendimento adotado pelo Tribunal de Justiça está em consonância com o precedente do Pleno do STF e suas razões de decidir, razão pela qual é incabível a concessão da ordem.
+O art. 5º, XLVI, da CF estabelece que a lei regulará a individualização da pena, o que também ocorre na fase da execução, para fins de declaração do indulto e de outros benefícios. Nos termos do art. 11, parágrafo único, do Decreto Presidencial n. 11.302/2022, "não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º".
+O art. 69 do CP assinala que, quando o agente pratica dois ou mais crimes, aplicam-se cumulativamente as penas. Não existem as exigências de mesmo contexto fático, unidade de desígnios ou similares condições de tempo em lugar. Assim como ocorre na continuidade delitiva, não é necessária a afirmação fática na sentença. Também na fase de execução, a prática de vários crimes pelo mesmo agente pode ser verificada, com a unificação das penas, caracterizada a situação do concurso material de crimes.
+Portanto, observada a interpretação do Plenário do STF, restabeleço minha antiga compreensão, anterior ao julgamento do AgRg no HC n. 856.053/SC, de que, em caso de condenações em processos diversos, é imprescindível o integral cumprimento das penas dos crimes impeditivos para se permitir o indulto das reprimendas relativas aos demais delitos.
+À vista de exposto, em juízo de retratação, torno sem efeito a decisão agravada e nego provimento ao recurso em habeas corpus.
+Comunique-se o inteiro teor dessa decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
