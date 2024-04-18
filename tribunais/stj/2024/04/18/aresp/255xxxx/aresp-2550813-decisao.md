@@ -1,0 +1,33 @@
+DECISÃO
+EMERSON LEANDRO QUINTINO ANACLETO agrava de decisão que inadmitiu seu recurs o especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1505346-81.2022.8.26.0228.
+O agravante foi condenado, pela prática do crime previsto no art. 155, § 4º, I, c/c o art. 14, II, do Código Penal, à sanção de 9 meses e 10 dias de reclusão, em regime aberto, a pena privativa de liberdade foi substituída por restritiva de direitos, o que foi mantido em grau recursal.
+Nas razões do especial, a defesa apontou violação do art. 386, III, do Código de Processo Penal, sob o argumento de atipicidade da conduta, dadas a ausência de prejuízos às vítimas, a inexistência de obtenção de vantagem ilícita e, principalmente, a realização apenas dos atos preparatórios, razão por que requereu a absolvição do réu.
+Apresentadas as contrarrazões, o recurso não foi admitido na origem, o que deu causa à interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (fls. 473-474).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais comporta conhecimento. Passo ao exame do especial.
+O Tribunal de origem assim dirimiu a controvérsia (fls. 466-467, grifei):
+Já os policiais militares Guilherme Augusto e Guilherme Fonseca testemunharam nos autos que realizavam patrulhamento de rotina, quando se depararam com um caminhão "atravessado" na frente do imóvel onde se deram os fatos, com uma placa dobrada e outra tampada, bem como com quatro homens no local, dois deles quebrando o cadeado do portão desse imóvel. Assim, abordaram e revistaram os quatro e nada de ilícito foi encontrado, mas os indivíduos deram versões diversas, uma no sentido de que tentavam entrar ali licitamente e com autorização da empresa vítima e outra no sentido de que realmente pretendiam furtar objetos para que depois os venderem pela internet. Nesse ínterim, chegou ao local a representante da empresa vítima e negou haver autorização para que o réu, funcionário terceirizado dessa empresa, adentrasse.
+ ..
+Resta claro que não estamos falando de meros atos preparatórios como quer fazer crer a defesa. Emerson já havia iniciado a execução do furto, pois os laudos de fls. fls. 173-180 e 195-202 bem apontaram que "um dos cadeados apresentava danos com marcas de atrição", e que "as duas câmeras externas na face anterior do imóvel encontravam-se com seus cabos desconectados".
+Assim, também não se pode dizer que nenhum prejuízo tenha gerado a empresa vítima. Os atos de Emerson ultrapassaram e muito meros atos preparatórios, pois ele literalmente iniciou a prática do furto e, ainda, nisso contou mesmo com terceiros que desconheciam a prática ilícita.
+Emerson já prestava serviços na empresa vítima e, valendo-se disso, tentou praticar o crime de furto aqui em julgamento, iniciando a execução da rapina dos bens.
+No caso, entendo que o réu, embora se haja dirigido ao estabelecimento comercial, não entrou no recinto, uma vez que foi prontamente impedido pelos policiais que realizavam o patrulhamento da região, de modo a não iniciar a prática do furto. O fato de os criminosos tentarem violar o cadeado da entrada e haverem desligado as câmeras externas de segurança caracterizam meros atos preparatórios.
+Portanto, o acórdão combatido evidencia que o entendimento aplicado pelo Tribunal de origem não se alinha ao desta Corte Superior, que, em julgado proferido pela Terceira Seção, adotou a teoria objetivo-formal para a separação entre atos preparatórios e atos de execução, a qual exig e, para a configuração da tentativa, que haja o início da prática do núcleo do tipo penal.
+Nesse sentido:
+PENAL. ROUBO CIRCUNSTANCIADO. TENTATIVA. TEORIA OBJETIVO-FORMAL. INÍCIO DA PRÁTICA DO NÚCLEO DO TIPO. NECESSIDADE. QUEBRA DE CADEADO E FECHADURA DA CASA DA VÍTIMA. ATOS MERAMENTE PREPARATÓRIOS. AGRAVO CONHECIDO. RECURSO ESPECIAL ADMITIDO, PORÉM IMPROVIDO.
+1. A despeito da vagueza do art. 14, II, do CP, e da controvérsia doutrinária sobre a matéria, aplica-se o mesmo raciocínio já desenvolvido pela Terceira Seção deste Tribunal (CC 56.209/MA), por meio do qual se deduz a adoção da teoria objetivo-formal para a separação entre atos preparatórios e atos de execução, exigindo-se para a configuração da tentativa que haja início da prática do núcleo do tipo penal.
+2. O rompimento de cadeado e a destruição de fechadura de portas da casa da vítima, com o intuito de, mediante uso de arma de fogo, efetuar subtração patrimonial da residência, configuram meros atos preparatórios que impedem a condenação por tentativa de roubo circunstanciado.
+3. Agravo conhecido, para admitir o recurso especial, mas negando-lhe provimento.
+(AREsp n. 974.254/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021, grifei)
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. IDEALIZAÇÃO DE ROUBO DE AGÊNCIA DOS CORREIOS. COGITAÇÃO E ATOS PREPARATÓRIOS. TENTATIVA. INEXISTÊNCIA. INCIDÊNCIA APENAS DO ART. 14 DO ESTATUTO DO DESARMAMENTO.
+1. Nos termos do art. 14, inciso II, do Código Penal, só há tentativa quando, iniciada a conduta delituosa, o crime não se consuma por fatores alheios à intenção do agente.
+2. Na hipótese em tela, não se verificou qualquer ato de execução, mas somente a cogitação e os atos preparatórios dos acusados que confessaram a intenção de roubar determinada agência dos correios.
+Descabida, pois, a imputação do crime de roubo idealizado.
+3. A conduta preparatória de portar ilegalmente arma de fogo de uso permitido subsume-se ao art. 14 da Lei n.º 10.826/2003, evidenciando a competência da Justiça Estadual.
+4. Conflito conhecido para declarar competente o Juízo de Direito da 3ª Vara de Bacabal/MA.
+(CC n. 56.209/MA, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/12/2005, DJ de 6/2/2006, p. 196, destaquei)
+Feitas essas considerações, concluo que o acusado nem mesmo iniciou a conduta descrita no mencionado tipo penal, além de não haver indicadores objetivos da prática dos núcleos típicos. Portanto, não houve tentativa, cuja caracterização depende da existência, nesta ordem, do dolo, do início da execução e da não consumação por circunstâncias alheias à vontade do agente - art. 14, II, do CP. Pelo que consta, o recorrente limitou-se a atos preparatórios, o que denota a atipicidade dos fatos.
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial a fim de, com fundamento no art. 386, III, do CPP, absolver o réu do crime tipificado no art. 155, § 4º, I, c/c o art. 14, II, do Códig o Penal.
+Publique-se e intimem-se.
+EMENTA
