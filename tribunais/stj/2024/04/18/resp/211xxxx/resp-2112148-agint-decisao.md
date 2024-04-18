@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra a decisão que não conheceu do recurso especial (e-STJ fls. 367/370).
+Em suas razões (e-STJ fls. 374/386), a agravante alega que
+"(..)
+A discussão não gira em torno de definir se o tratamento prescrito pelo médico assistente da Recorrida é ou não pertinente, ou mesmo se é ou não de urgência, ou mesmo se o contrato cobre ou não cobre atendimento de urgência. Não há qualquer controvérsia em relação a isso. A celeuma reside no fato de que o referido tratamento não consta do rol taxativo da ANS e, por esta razão, não teria cobertura. Se o tratamento não tem cobertura, é irrelevante o caráter de urgência" (e-STJ fl. 376).
+Afirma ser irrelevante se o tratamento é ou não de urgência, motivo pelo qual não há falar em incidência da Súmula nº 283/STF.
+Sustenta que as Súmulas nºs 5 e 7/STJ também são inaplicáveis ao caso, visto que a discussão dos autos, referente à obrigatoriedade de fornecer medicamento domiciliar que não consta do rol da Agência Nacional de Saúde Suplementar - ANS, é matéria unicamente de direito.
+Ao final, requer a reconsideração da decisão atacada ou a submissão do feito ao órgão colegiado.
+Devidamente intimada, a parte contrária não ofereceu impugnação (e-STJ fl. 391).
+É o relatório.
+DECIDO.
+A insurgência merece prosperar.
+Em melhor exame da controvérsia, observa-se que assiste razão à agravante, reconsiderando-se a decisão proferida e passando-se a um novo exame do recurso especial.
+No apelo nobre, a recorrente alega a violação dos artigos 10, VI e § 4º, da Lei nº 9.656/1998, 4º, III, da Lei nº 9.961/2000, 421, caput e parágrafo único, do Código Civil e 85, § 8º, do Código de Processo Civil, ao argumento de que o medicamento de uso domiciliar pretendido pela parte autora - bomba infusora de insulina e seus insumos para tratamento de diabetes tipo I - não possui cobertura obrigatória e não consta do rol da ANS.
+De fato, a jurisprudência desta Corte Superior é firme no sentido de que os medicamentos receitados por médicos para uso doméstico e adquiridos comumente em farmácias não estão, em regra, cobertos pelos planos de saúde, porquanto a obrigatoriedade de custeio dos fármacos, na Saúde Suplementar, se dá durante a internação hospitalar (abrangido o home care), na quimioterapia oncológica ambulatorial, na hipótese de antineoplásicos orais para uso domiciliar (e correlacionados) e naqueles relativos a procedimentos listados no Rol da ANS.
+Além disso, esta Corte Superior entende que a bomba infusora de insulina é equipamento de uso domiciliar, de modo que a pretensão da recorrida está fora das hipóteses de home care ou de terapia antineoplásica.
+Em sentido análogo, os seguintes precedentes:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. INSUMOS PARA BOMBA INFUSORA DE INSULINA. TRATAMENO DOMICILIAR. EXCLUSÃO DO PLANO DE REFERÊNCIA. ART. 10, INCISO VI, DA LEI 9.656/1998. INOBRIGATORIEDADE DE COBERTURA. JULGADOS DE AMBAS AS TURMAS DE DIREITO PRIVADO DESTA CORTE SUPERIOR. SUPERVENIÊNCIA DA LEI 14.454/2022. ALEGAÇÃO DE ROL EXEMPLIFICATIVO. AUSÊNCIA DE ALTERAÇÃO DO ART. 10, INCISO VI, DA LEI 9.656/1998. MANUTENÇÃO DA EXCLUSÃO DE COBERTURA.
+1. Controvérsia pertinente à obrigatoriedade de cobertura de bomba infusora de insulina (e insumos) para controle de glicemia de paciente diagnosticado com diabetes mellitus tipo 1 em ambiente domiciliar.
+2. Ausência de obrigatoriedade de cobertura de tratamento domiciliar, salvo nas hipóteses de "home care" ou de terapia antineoplásica. Exegese do art. 10, inciso VI, da Lei 9.656/1998, consoante julgados recentes desta Corte Superior.
+3. Julgado específico desta TURMA acerca da ausência de obrigatoriedade de cobertura de bomba de insulina, por se tratar de equipamento de uso domiciliar.
+4. Ausência de alteração da força normativa do já citado art. 10, inciso VI, da Lei 9.656/1998 ante a superveniência da Lei 14.454/2022, de modo que a tese do rol exemplificativo não infirma a conclusão pela ausência de obrigatoriedade de cobertura da bomba de insulina.
+5. AGRAVO INTERNO DESPROVIDO."
+(AgInt nos EDcl no REsp 1.987.778/SC, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Nos termos da jurisprudência desta Corte, é lícita a exclusão da cobertura, nos contratos de plano de saúde, de medicamento de uso domiciliar que não se enquadre como antineoplástico oral, nem como medicação assistida (home care). Precedentes.
+2. Agravo interno desprovido."
+(AgInt no AREsp 2.058.484/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022).
+"AGRAVO INTERNO. PLANO DE SAÚDE. INSULINA. MEDICAMENTO DE USO DOMICILIAR, ADQUIRIDO EM FARMÁCIA COMUM. NÃO ENQUADRAMENTO COMO ANTINEOPLÁSICO, COMO MEDICAÇÃO ASSISTIDA (HOME CARE) NEM ESTÁ ENTRE OS INCLUÍDOS NO ROL DA ANS PARA ESSE FIM. COBERTURA LEGAL OBRIGATÓRIA. INEXISTÊNCIA. ENTENDIMENTO PACIFICADO NO ÂMBITO DO STJ. PRECEDENTES DAS DUAS TURMAS DE DIREITO PRIVADO.
+1. Como bem ponderado pela Corte local, "a bomba infusora de insulina é aparelho que pode ser facilmente adquirido em farmácias", sendo, pois, tecnicamente medicamento de uso domiciliar. Com efeito, como assentado pela Terceira Turma, é "lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp n. 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021)
+2. "Domiciliar, de acordo com a lei, refere-se a ambiente que, necessariamente, contrapõe-se a ambulatorial e a hospitalar, com o que se exclui da cobertura legal o fornecimento de medicamentos que, mesmo prescritos pelos profissionais da saúde e ministrados sob sua recomendação e responsabilidade, devam ser utilizados fora de ambulatório ou hospital" (REsp 1883654/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2021, DJe 02/08/2021).
+Portanto, os medicamentos receitados por médicos para uso doméstico e adquiridos/aplicados comumente em farmácias não estão, em regra, cobertos pelos planos de saúde (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/04/2021, DJe 04/05/2021).
+3. Por um lado, como ponderado em recente recurso repetitivo julgado pela Segunda Seção, REsp n. 1.755.866/SP, relator Ministro Marco Buzzi, a universalização da cobertura não pode ser imposta de modo completo e sem limites ao setor privado, porquanto, nos termos dos arts. 199 da Constituição Federal e 4º da Lei n. 8.080/1990, a assistência à saúde de iniciativa privada é exercida em caráter complementar, sendo certo que a previsão dos riscos cobertos, assim como a exclusão de outros, é inerente aos contratos. Por outro lado, a saúde suplementar cumpre propósitos traçados em regras legais e infralegais. Assim sendo, não se limita ao tratamento de enfermidades, mas também atua na relevante prevenção, não estando o Judiciário legitimado e aparelhado para interferir, em violação da tripartição de Poderes, nas políticas públicas. Precedente.
+4. Agravo interno não provido."
+(AgInt no REsp 1.973.853/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022 - grifou-se).
+Ante o exposto, reconsidero a decisão de fls. 367/370 (e-STJ), a fim de dar provimento ao recurso especial para julgar improcedentes os pedidos formulados na petição inicial.
+Consequentemente, inverto os ônus de sucumbência, fixando os honorários advocatícios em 10% (dez por cento) sobre o valor da causa, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
