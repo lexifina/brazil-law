@@ -1,0 +1,15 @@
+DECISÃO
+KATIA REGINA DOS REIS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500860-88.2019.8.26.0024.
+Consta dos autos que a ré foi condenada à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial semiaberto (com substituição por restritivas de direitos), mais multa, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+A defesa requer, em síntese, a fixação do regime inicial aberto e, sob o argumento de que a pena-base foi fixada no mínimo legal.
+Decido.
+O Juízo singular - em decisão mantida pela Corte estadual - aplicou o regime inicial semiaberto, mas substituiu a reprimenda por restritivas de direitos, nos seguintes termos (fl. 21, grifei):
+O regime inicial, tendo em vista a gravidade do crime (vide artigos 5º, XLIII e LI, 144, II e 243, parágrafo único, da Constituição da República, parâmetro de interpretação das demais normas), inclusive em concreto (já que houve tentativa de ingresso em unidade prisional, circunstância que obrigatoriamente altera a pena mínima - art. 33, § 3º, do CP), a primariedade da ré e a quantidade de pena deve ser o semiaberto.
+Viável a excepcional substituição da pena privativa de liberdade, por reprimenda restritiva de direitos, consistente em: 1) prestação de serviços à comunidade, a critério do juízo da execução e 2) prestação pecuniária consistente em três salários mínimos, a serem pagos a entidade indicada pelo juízo da execução, além da pena de multa de 194 dias-multa, de recolhimento obrigatório.
+Na hipótese, observo que, embora o Juiz de direito haja mencionado a existência da causa de aumento do art. 40, III, da Lei de Drogas, para justificar a fixação do regime inicial semiaberto, a gravidade concreta da conduta imputada (a acusada tentou ingressar na penitenciária com 33 g de maconha escondidos nas vestes íntimas) não é expressiva a ponto de justificar o agravamento do regime prisional.
+Ademais, a pena-base foi fixada no mínimo legal, o que impõe a fixação do regime mais brando, nos termos do quanto decidido pelo Supremo Tribunal Federal na Súmula Vinculante n. 59 do STF, no sentido de que "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c, e do art. 44, ambos do Código Penal".
+Assim, condenada a ré a pena de 1 ano, 11 meses e 10 dias de reclusão pela prática do delito previsto no art. 33, § 4º, da Lei de Drogas e fixada a pena-base no mínimo legal, deve, nos termos da mencionada súmula, ser estabelecido o regime inicial aberto.
+À vista do exposto, concedo a ordem, in limine, para fixar o regime aberto para o cumprimento da pena, mantida a substituição da pena privativa de liberdade por duas restritivas de direitos.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
