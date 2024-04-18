@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OLAVO EMANUEL MOTTA contra a decisão que inadmitiu o recurso especial pelas seguintes razões: a) ausência de demonstração da alegada vulneração dos arts. 4º da Lei 1.060/1950 e 98 do CPC; b) incidência da Súmula n. 7 do STJ; e c) ausência de similitude fática entre o acórdão recorrido e os paradigmas colacionados.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto contra acórdão assim ementado (fl. 566):
+APELAÇÃO Ação de inexigibilidade de débito c. c anulação de protesto e indenização por danos morais. Cheque. Alegação de pagamento sem devolução da cártula. Sentença de parcial procedência.
+ASSISTÊNCIA JUDICIÁRIA. Pedido do corréu (Olavo) no apelo. Interposição sem preparo. Recurso conhecido no ponto para exame do benefício nesta instância como preliminar prejudicial. Pessoa física. Ausência de comprovação de impossibilidade de arcar com as custas e despesas processuais. Benefício negado. Prazo de 5 dias para o recolhimento do preparo, sob pena de deserção.
+Nas razões do recurso especial, a recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 98 do CPC e 4º da Lei n. 1.060/1950, defendendo o benefício da gratuidade judiciária em seu favor.
+Sustenta que preenche os requisitos legais para a concessão da gratuidade da justiça.
+Argumenta ainda que o julgado recorrido diverge do entendimento do STJ sobre a concessão do referido benefício.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões não foram apresentadas.
+O recurso especial foi inadmitido na origem (fls. 614-616).
+É o relatório. Decido.
+Verifica-se que o Tribunal de origem, instância soberana na análise das provas, concluiu que a parte recorrente não comprovara o preenchimento dos pressupostos necessários à concessão da benesse legal da gratuidade de justiça. Confira-se trecho do acórdão (fls. 568-569):
+Nesse passo, a lei 1.060/50 estabelece uma presunção que favorece o requerente da gratuidade que, no entanto, não é absoluta. Tal presunção, repetida no art. 99, § Y do nCPC, possui ressalva no § 2º do mesmo dispositivo legal, no sentido de que havendo elementos em sentido contrário, pode o magistrado solicitar comprovação da situação do requerente.
+Ainda que assim não fosse, a jurisprudência, por vezes, tem concedido a benesse com base tão somente na declaração da parte interessada, mas não se pode olvidar que, na presença de elementos de convicção fortes o suficiente para infirmar a presunção de necessidade, pode o magistrado exigir prova dessa condição e, se o caso, negar a isenção do pagamento das custas processuais.
+ ..
+Foi peticionado para juntada de documentos consistentes em: cópia parcial da carteira de trabalho, não sendo possível verificar último registro (fls. 476/477); cópia parcial da declaração de imposto de renda 2019/2020, onde não consta sequer a conta bancária adiante comprovada (fls. 478/486); novamente a declaração de hipossuficiência (fls. 487); conta de energia elétrica (fls.488); conta de telefonia celular (fls. 489); correspondência bancária de declaração de rendimentos ativos em 2020 (fls. 490/491); extrato bancário, onde se nota resgate de investimentos (fls. 492) e cópia parcial da declaração de imposto de renda 2020/2021, onde não consta sequer a conta bancária cujo extrato foi acostado, bem como debêntures (fls. 493/4501).
+Nesse passo, ainda que tenham sido juntados diversos documentos, não foram acostados nos termos determinados às fls. 472, bem como, não comprovam dívidas, despesas mensais ordinárias, eventuais dependentes e insuficiência econômica.
+Dessa forma, não restou comprovada a alegação de dificuldade financeira, nem a impossibilidade de arcar com as despesas processuais, de modo que indefiro o pleito de justiça gratuita.
+Nesse contexto, rever os fundamentos adotados pela instância ordinária em relação à gratuidade de justiça demandaria a reavaliação do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial, em face da Súmula n. 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO DA JUSTIÇA GRATUITA. LEI Nº 1.060/50. DECLARAÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA. PRESUNÇÃO RELATIVA. CONTRAPROVA. ÔNUS DO IMPUGNANTE. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Conforme entendimento do Superior Tribunal de Justiça, a declaração de hipossuficiência econômica firmada pelo requerente da assistência judiciária ostenta presunção relativa, cabendo à parte adversa, na impugnação ao benefício, demonstrar que o postulante da gratuidade possui capacidade para custear as despesas processuais.
+2. No caso concreto, o Tribunal de origem afirmou que os documentos apresentados pelo impugnante (Estado do Acre) não se revelaram hábeis para demonstrar a existência de patrimônio líquido da parte solicitante, que fosse capaz de suportar os custos processuais da lide. Assim, a revisão das conclusões da Corte local demandaria o reexame de matéria fático-probatória, providência incompatível no âmbito do recurso especial, conforme o teor da Súmula 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 419.104/AC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/8/2017, DJe de 30/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO. ACÓRDÃO RECORRIDO BASEADO EM PREMISSAS FÁTICAS E PROBATÓRIAS DOS AUTOS. REVISÃO INVIÁVEL. SÚMULA N. 7/STJ. DEMAIS DISPOSITIVOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É assente na jurisprudência do Superior Tribunal de Justiça que a simples declaração de hipossuficiência da pessoa natural, ainda que dotada de presunção iuris tantum, é suficiente ao deferimento do pedido de gratuidade de justiça, quando não ilidida por outros elementos dos autos.
+2. Consoante a conclusão adotada no acórdão recorrido, observa-se que a presunção relativa foi afastada diante das peculiaridades do caso, de forma que a decisão sobre o indeferimento do benefício se deu no contexto do conjunto fático-probatório deste processo. Súmula n. 7/STJ.
+3. A ausência do efetivo debate no acórdão recorrido acerca da matéria formulada nas razões do recurso especial caracteriza ausência do indispensável prequestionamento, a ensejar a inadmissão do apelo extremo no ponto, nos termos da Súmula 211/STJ.
+4. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.224.600/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
