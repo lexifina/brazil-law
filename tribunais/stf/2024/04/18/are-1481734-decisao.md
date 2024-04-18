@@ -1,0 +1,51 @@
+Trata-se de recurso extraordinário com agravo interposto contra acórdão assim ementado:
+
+    “AGRAVOS DE INSTRUMENTO. DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA EM FASE DE CUMPRIMENTO DE SENTENÇA HOMOLOGATÓRIA DE ACORDO FIRMADO ENTRE O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, O MUNICÍPIO DO RIO DE JANEIRO E A COMPANHIA DE DESENVOLVIMENTO DA REGIÃO DO PORTO DO RIO DE JANEIRO – CEDURP. FORMAÇÃO DA COISA JULGADA. COMPROMISSO NO SENTIDO DE CLIMATIZAR TODA FROTA DE ÔNIBUS DA CIDADE ATÉ 31/12/2016. MORA DE MAIS DE DOIS ANOS NO CUMPRIMENTO DA OBRIGAÇÃO ASSUMIDA. ELEMENTOS DOS AUTOS QUE COMPROVAM QUE OS INCREMENTOS TARIFÁRIOS DEVIDAMENTE RECOLHIDOS DESDE 2014 ASSOCIADOS À RENOVAÇÃO OBRIGATÓRIA DA FROTA PELO ATINGIMENTO DA IDADE LIMITE DOS VEÍCULOS, CONFORME CONTRATUALMENTE PREVISTOS, FORAM SUFICIENTES A VIABILIZAR O ATINGIMENTO DA META DE CLIMATIZAÇÃO. CONCESSÃO DE SERVIÇOS PÚBLICOS. OMISSÃO DO PODER CONCEDENTE NO QUE SE REFERE À OBRIGAÇÃO DE FISCALIZAÇÃO PERMANENTE DA PRESTAÇÃO DO SERVIÇO. ARTIGO 175 DA CONSTITUIÇÃO FEDERAL E ARTIGO 29, I, II E III, DA LEI 8987/1995. DECISÃO AGRAVADA QUE DETERMINOU AO EXMO. SR. PREFEITO E À EXMA. SRA. SECRETARIA MUNICIPAL DE TRANSPORTES QUE PROVIDENCIEM A DECRETAÇÃO DE INTERVENÇÃO NOS CONTRATOS DE CONCESSÃO DE TRANSPORTE MUNICIPAL POR ÔNIBUS COM VISTAS A PERMITIR A PRÁTICA DOS ATOS NECESSÁRIOS À CLIMATIZAÇÃO INTEGRAL DA FROTA, COM ADEQUAÇÃO DA PRESTAÇÃO DO SERVIÇO. ARTIGOS 6º, §1º, E 32 DA LEI 8.987/95 E 536 DO CPC. MEDIDA QUE SE REVELA PROPORCIONAL E ADEQUADA ÀS PARTICULARIDADES DO CASO CONCRETO. CONTROLE DE LEGALIDADE DA GESTÃO PÚBLICA. INXISTÊNCIA DE OFENSA À SEPARAÇÃO DE PODERES, NEM DE LESÃO À ORDEM JURÍDICA. REMUNERAÇÃO DO INTERVENTOR QUE DEVE SER CUSTEADA PELO MUNICÍPIO DO RIO DE JANEIRO, EM OBSERVÂNCIA AO PRINCÍPIO DA CAUSALIDADE. DECISÃO AGRAVA PARCIALMENTE REFORMADA. AGRAVO DE INSTRUMENTO 1: RECURSO A QUE SE DÁ PARCIAL PROVIMENTO, JULGANDO-SE PREJUDICADOS OS EMBARGOS DECLARATÓRIOS. AGRAVO DE INSTRUMENTO 2: RECURSO A QUE SE NEGA PROVIMENTO. AGRAVO DE INSTRUMENTO 3: RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.” (documento eletrônico 4, pp. 1-2)
+
+    O recorrente, fundado no art. 102, III, a, da Constituição Federal, alega, em suma, afronta aos art. 1°; 2°; 5°, XXXV; 167, I e II; e 165 da mesma Carta, sob o argumento de que:
+
+    “não estarmos diante de fiscalização pelo Poder Judiciário da atuação do Poder Executivo, mas de ordem judicial a substituir a decisão do gestor pela do juiz. Decisão para realização de ato eminentemente de gestão pelo Judiciário em substituição ao Executivo.” (documento eletrônico 15, p. 10)
+
+    A pretensão recursal não merece acolhida.
+
+    Observo que o Tribunal de Justiça do Estado do Rio de Janeiro concluiu que:
+
+    “[...] considerada a postura passiva do ente municipal frente a inadequação do serviço prestado e o descumprimento pelas concessionárias das metas de climatização da frota previstas no Decreto Municipal n. 38.279/2014 e no título judicial objeto da execução, escorreita a decisão agravada ao determinar que o Poder Concedente providencie a decretação da intervenção do contrato de concessão com vistas à adequação do serviço, em observância ao disposto nos artigos 6º, §1º, 29, I, II e III, e 32 da Lei de regência (Lei 8.987/1995) e, ainda, no artigo 536 e §1º do CPC [...]” (documento eletrônico 4, p. 34-35)
+
+    Posteriormente, ao rejeitar os embargos declaratórios opostos pelo Município do Rio de Janeiro, aquele Tribunal assinalou:
+
+    “[...] constatada a inadequação na prestação do serviço pelo Poder Concedente, poderá ser determinada a intervenção na concessão, com vistas a assegurar a sua adequação aos interesses dos usuários, bem como o fiel cumprimento das normas contratuais, regulamentares e legais pertinentes (artigo 32 da Lei 8.987/1995).
+
+    In casu, não obstante a notoriedade do fato - por várias vezes noticiado nos meios de comunicação e compartilhada por qualquer usuário - incontroversa a inadequação do serviço de transporte de passageiros por ônibus na cidade do Rio de Janeiro no que se refere à ausência de climatização, sendo pertinente, no ponto, transcrever trecho da decisão agravada na qual o douto Julgador indica os elucidativos esclarecimentos prestados em audiência especial pelo perito José Luiz Xavier Pacheco (CRM nº 52-22418-6):
+
+    ‘Segundo o perito, dentre os efeitos nocivos à saúde dos usuários, sobremaneira potencializados pela submissão, por períodos prolongados de tempo, a cargas térmicas excessivas, estão a possibilidade de agravamento ou aumento da predisposição à manifestação de doenças cardiovasculares, bem como de doenças próprias do sistema nervoso central, além do estresse que compromete a atividade laborativa do cidadão e do trabalhador, em especial, do motorista, que tem a responsabilidade primária de conduzir o veículo de forma a preservar a integridade física dos usuários (cf. IE nº 6825/6826).
+
+    Com efeito, a submissão a elevadíssimas cargas térmicas, no mais das vezes no interior de veículos superlotados, em viagens diárias que podem durar horas a fio, expõe de forma abusiva a saúde da enorme massa de usuários do serviço público de transporte de passageiros por ônibus (SPPO) no Município do Rio de Janeiro. Definitivamente, um serviço fornecido nesses moldes não satisfaz condições mínimas de ‘segurança’, ‘atualidade’ e muito menos ‘cortesia’’.
+
+    Registre-se que, apesar de ciente da inadequação do serviço, passados mais de dois anos do termo final (31/12/2016) ajustado para climatização total da frota nos autos na Ação Civil Pública originária, o Poder Concedente pouco fez para obrigar os Consórcios a adequar o serviço, sendo impositivo o reconhecimento da sua condescendência para com as empresas Agravantes.
+
+    [...]
+
+    Ao contrário do que alega o embargante, inexiste ‘intervenção híbrida’ ou ‘intervenção judicial-administrativa’, e sim uma decisão que determinou ao Exmo. Sr. Prefeito e à Exma. Sra. Secretaria Municipal de Transportes que providenciem a decretação de intervenção nos contratos de concessão de transporte municipal por ônibus com vistas a permitir a prática dos atos necessários à climatização integral da frota, com adequação da prestação do serviço.” (documento eletrônico 10, pp. 7-8)
+
+    Nesse contexto, para dissentir das conclusões do acórdão impugnado acerca dos motivos ensejadores da política pública ora em exame e da adequação das providências determinadas pelo Poder Judiciário, seria necessário o reexame do conjunto-fático probatório dos autos, o que é vedado pela Súmula 279/STF. Com essa orientação, sobre idêntica controvérsia, cito o ARE 1.363.737 AgR/RJ, da relatoria do Ministro Luís Roberto Barroso, cuja ementa segue transcrita:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SÚMULAS 279 E 280/STF. 1. Para dissentir do entendimento do Tribunal de origem e chegar às conclusões pretendidas pelo recorrente, seria necessário o reexame do acervo fático-probatório dos autos e da legislação infraconstitucional aplicada ao caso, o que não é possível em recurso extraordinário, nos termos das Súmulas 279 e 280/STF. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985). 3. Agravo a que se nega provimento.” (DJe 9/5/2022)
+
+    No mesmo sentido, menciono as seguintes decisões:
+
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. DIREITOS DA CRIANÇA E DO ADOLESCENTE. FECHAMENTO DE UNIDADE SOCIOEDUCATIVA. INTERVENÇÃO EXCEPCIONAL DO PODER JUDICIÁRIO NA IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS: TEMA 220 DA REPERCUSSÃO GERAL. ANÁLISE DA ADEQUAÇÃO DA MEDIDA IMPOSTA. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO.” (ARE 1.448.604 AgR/BA, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 11/10/2023 — grifei)
+
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INTERVENÇÃO DO PODER JUDICIÁRIO EM POLÍTICAS PÚBLICAS. EXCEPCIONALIDADE. CASOS DE INÉRCIA E DESÍDIA DO PODER PÚBLICO NA CONCRETIZAÇÃO DOS DIREITOS SOCIAIS DOS ADMINISTRADOS. VERIFICAÇÃO DA HIPÓTESE NO FEITO. MEDIDA JUDICIAL PROPORCIONAL. REEXAME DE FATOS E PROVAS: ÓBICE DO ENUNCIADO Nº 279 DA SÚMULA DO STF. 1. O Tribunal de origem, com fundamento nos pressupostos fáticos dos autos, asseverou, no caso, a necessidade de garantia de transporte escolar contínuo, seguro e adequado aos alunos da rede municipal de Ponte Alta do Tocantins/TO, dado o quadro de penúria do serviço na localidade. 2. Impossibilidade da análise de matéria fático-probatória no campo extraordinário. Incidência do óbice do enunciado nº 279 da Súmula do STF. 3. Agravo regimental ao qual se nega provimento.” (ARE 1.391.457 AgR/TO, Rel. Min. André Mendonça, Segunda Turma, DJe 4/3/2024 — grifei)
+
+    “Ementa: Agravo regimental em recurso extraordinário com agravo. Direito constitucional e administrativo. Intervenção do Poder Judiciário em políticas públicas. Direito à vida e à segurança no trânsito. Omissão injustificável do poder público. Excepcionalidade. Possibilidade. Não ocorrência de violação do princípio da separação dos poderes. Precedentes. 1. O acórdão recorrido encontra amparo na orientação jurisprudencial firmada na Suprema Corte de que o Poder Judiciário, em situações excepcionais, pode determinar que a administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes. 2. Para se chegar à conclusão pretendida pela parte agravante, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso extraordinário, atraindo a incidência da Súmula nº 279 do STF. 3. Agravo regimental não provido.” (ARE 1.395.509 AgR/CE, Rel. Min. Dias Toffoli, Primeira Turma, DJe 19/12/2022 — grifei)
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 18 de abril de 2024.
+
+Ministro Cristiano Zanin
+
+Relator
