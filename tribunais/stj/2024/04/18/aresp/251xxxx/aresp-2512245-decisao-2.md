@@ -1,0 +1,23 @@
+DECISÃO
+LUIS FELIPE PELLEGRINE agrava da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação Criminal n. 1500356-29.2018.8.26.0538/50000).
+Consta dos autos que o ora agravante foi condenado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais multa.
+Nas razões do recurso especial, a defesa alega que não foi comprovada a prática do delito, motivo pelo qual pugna pela absolvição do recorrente.
+Ademais, aponta violação do art. 33, § 4º, da Lei n. 11.343/2006 pois considera que o réu preenche os requisitos para a aplicação do benefício, e, consequentemente, para a fixação de regime inicial menos gravoso.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com fulcro nos óbices processuais das Súmulas n. 7 do STJ e 283 do STF, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo e não conhecimento do especial (fls. 1.290-1.302).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Controvérsia relativa ao pleito absolutório
+Quanto à tese recursal da absolvição da conduta, verifico que o recorrente deixou de indicar precisamente, no recurso especial, os dispositivos legais que haveriam sido violados, pois não particularizou o inciso, o parágrafo ou a alínea sobre a qual recairia a referida ofensa. Assim, incide a Súmula n. 284 do STF.
+Ademais, entendo que rever o posicionamento adotado pelas instancias ordinárias, nos termos pretendidos demandaria imprescindível revolvimento do acervo fático-probatório delineado nos autos, o que é vedado em recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+II. Violação do art. 33, § 4º, da Lei n. 11.343/2006
+Conforme relatado, a defesa considera que a fundamentação usada pela Corte Estadual para negar a aplicação da minorante é inidôneo, pois baseia-se exclusivamente na quantidade de entorpecentes, já considerada na primeira fase, o que aduz configurar bis in idem.
+Entretanto, o Tribunal Estadual afastou a causa de diminuição de pena sob as seguintes razões (fl. 1.004):
+Inaplicável, no caso, a causa de diminuição prevista no artigo 33, § 4º, da Lei de Drogas, pois, a despeito da primariedadedos corréus CAÍQUE, BRUNO, FERNANDO e LUÍS FELIPE, evidente que eles traficavam juntos e foram detidos com elevada quantidade e variedade de drogas (72 porções e 01 "tablete" demaconha, pesando 522,72 gramas, 13 "pedras" de crack, pesando 2,58 gramas, e 23 porções de cocaína, pesando 17,85 gramas), além de dinheiro, balança de precisão e duzentos e trinta e cinco saquinhos plásticos (fls. 60/61), circunstâncias que evidenciam a sua dedicação à mercancia ilícita, não podendo receber penas idênticas à daquele que porta quantidade mínima de tóxico, destinado à entrega ao consumo de terceiros.
+Verifico, portanto, que na espécie incide o óbice da Súmula n. 283 do STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja a presença de petrechos, dinheiro e embalagens para fracionamento da droga, que indicam a dedicação à atividade ilícita.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles""(AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018)
+Ademais, entendo que rever o posicionamento adotado pelas instâncias ordinárias, nos termos pretendidos pela defesa demandaria imprescindível revolvimento do acervo fático-probatório delineado nos autos, o que é vedado em recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+III. Dispositivo
+À vista do exposto, com fundamento nos arts. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
