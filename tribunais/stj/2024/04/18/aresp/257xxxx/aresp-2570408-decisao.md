@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUANDERSON ROZENO DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que não admitiu seu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal.
+Verifica-se dos autos que o agravante foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, à reprimenda de 5 anos de reclusão, em regime semiaberto, por ter sido apreendido com 4,5g (quatro gramas e cinco decigramas) de cocaína.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso.
+No recurso especial, a defesa requer o reconhecimento da minorante do tráfico privilegiado.
+Alega que "não há como concluir o requisito habitualidade ou dedicação à atividade criminosa, sustentados apenas simplesmente com trechos aleatórios descritos em conversas de WhatsApp" (e-STJ fl. 267).
+Requer seja reconhecida incidência da causa especial de diminuição de pena, bem como fixado regime aberto e substituída a pena privativa de liberdade.
+Contrarrazões apresentadas.
+O Ministério Público opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da dosimetria da pena, o Tribunal de origem assim consignou (e-STJ fls. 238/239):
+Na hipótese dos autos, o Senteciante, ao afastar a aplicação da minorante em tela, utilizou os seguintes fundamentos
+"Quanto ao reconhecimento do tráfico privilegiado: Consta no inquérito policial relatório de acesso a dados onde constam conversar ligadas ao tráfico (evento 43 do IP). Vejamos alguns: 1.1.2) Em 10 de novembro de 2017 Genivan enviou uma mensagem perguntando a Luanderson sobre "os corres" e Luanderson responde que se ele souber de "corre" é para avisar; 1.1.3) Em 11 de maio de 2018 Luanderson pergunta para enivan se está tendo brau (termo utilizado para se referir a maconha; 1.1.4) Luanderson se comunica com Remysson dizendo que aquele dia será bom "Nus Corre", termo comumente utilizado para se referir a venda de substâncias entorpecentes; 1.1.5) Em 05 de junho Luanderson avisa para Remyson que já tem "100 conto de pó lá esperando ele"; 1.1.6) O acusado Luanderson pergunta a Remysson se o mesmo "tem pó ou não tem" e relatou que tinha uma pessoa para comprar com o dinheiro na mão. Assim, é possível verificar que o Acusado se dedicava à atividades criminosas, inclusive com variedade de fornecedores de substâncias entorpecentes. Tal situação inviabiliza o reconhecimento do tráfico privilegiado".
+Restando comprovado nos autos a dedicação do acusado às atividades criminosas, conforme constatado pelo Magistrado, condição atestada pelos diálogos telefônicos, mostra-se inviável o reconhecimento do tráfico privilegiado, nos moldes postulados pela defesa.
+Como se pode inferir do relatório e do trecho acima transcrito, a conclusão pela dedicação à atividade criminosa foi assentada em fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas.
+Tenho, ainda, que o total de entorpecente apreendido - 4,5g (quatro gramas e cinco decigramas) de cocaína - também não se revela expressivo o suficiente para justificar o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, mormente no caso de réu primário e sem antecedentes criminais.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021, grifei).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o recálculo da pena.
+Dessa forma, mantida a pena-base n o mínimo legal e reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, a pena do agravante deve ser reduzida para 1 ano e 8 meses de reclusão e 187 dias-multa.
+Assim, diante do novo quantum da reprimenda, o agravante faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, preenchidos os pressupostos previstos no art. 44 do Código Penal, é cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, nos termos acima deduzidos.
+Publique-se. Intimem-se.
+EMENTA
