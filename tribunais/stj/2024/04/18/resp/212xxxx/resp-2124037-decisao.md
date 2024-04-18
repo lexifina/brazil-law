@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 82):
+Processual Civil. Agravo de instrumento. Cumprimento de sentença . Decisão interlocutória que indeferiu uso do Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos  SNIPER  . Não integração técnica d ess a Corte Regional à referida ferramenta de pesquisa . Mantid a da decisão. Recurso improvido.
+1. Agravo de Instrumento contra decisão, proferida nos autos do processo de origem  pje. 0002951-05.2009.4.05.8300 , que indeferiu pedido de consulta ao Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos  SNIPER , do Conselho Nacional de Justiça (CNJ), pois se trata de programa piloto, que ainda não foi disponibilizado no âmbito da Justiça Federal da 5ª Região.
+2. A agravante movimenta cumprimento de sentença com pretensão ao recebimento de honorários advocatícios inadimplidos pela agravada, decorrente da condenação consubstanciada no processo judicial pje. 0002951-05.2009.4.05.8300.
+3. A matéria posta em debate consiste no pedido de utilização do SNIPER  Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos , o insucesso na penhora de bens e nas consultas via BACENJUD, RENAJUD, CNIB e INFOJUD.
+4. Sem razão o agravante, pois, no tocante ao uso do SNIPER (ferramenta de pesquisa patrimonial, que centraliza e cruza informações de diversas bases de dados abertas e fechadas), conforme disposto pelo CNJ, apenas os Tribunais já integrados ao PDPJ (Plataforma Digital do Poder Judiciário) poderão acessar o instrumento.
+5. Em consulta ao Painel de monitoramento de integração dos Tribunais à Plataforma - PDPJ-Br, não houve, ainda, a integração total desta corte Regional , o que impossibilita a utilização da ferramenta. Nesse ponto, a decisão recorrida deve ser mantida, uma vez que fundamentou especificamente a impossibilidade de utilização da referida ferramenta.
+6. Precedente da Quarta Turma: pje. 0812473-37.2022.4.05.0000, AGTR., Manoel de Oliveira Erhardt, julgamento em 13 de abril de 2023.
+7. Recurso improvido.
+A parte recorrente aponta violação aos arts. 6º, 139, IV, 772 e 774. II e III, do CPC. Sustenta que a hipótese autoriza a utilização do Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos (SNIPER), a fim de localizar bens e direitos do executado. Ressalta que cabe ao magistrado o determinar "todas as diligências lícitas que se mostrarem aptas à máxima eficiência do processo." (fl. 106), não havendo justificativa para inviabilizar a "integração do Tribunal ao sistema de busca de patrimônio da recorrida." (fl. 106).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao dirimir a controvérsia, a Corte Regional consignou (fl. 81):
+A matéria posta em debate consiste no pedido de utilização do SNIPER  Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos  , o insucesso na penhora de bens e nas consultas via BACENJUD, RENAJUD, CNIB e INFOJUD.
+Sem razão o agravante, pois, no tocante ao uso do SNIPER (ferramenta de pesquisa patrimonial, que centraliza e cruza informações de diversas bases de dados abertas e fechadas), conforme disposto pelo CNJ, apenas os Tribunais já integrados ao PDPJ (Plataforma Digital do Poder Judiciário) poderão acessar o instrumento.
+Em consulta ao Painel de monitoramento de integração dos Tribunais à Plataforma - PDPJ-Br, não houve, ainda, a integração total desta corte Regional , o que impossibilita a utilização da ferramenta. Nesse ponto, a decisão recorrida deve ser mantida, uma vez que fundamentou especificamente a impossibilidade de utilização da r eferida ferramenta.
+Verifica-se que a instância a quo rejeitou o pleito de utilização da ferramenta SNIPER com base na ausência de implementação do sistema. Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir a possibilidade técnica de utilização d a aludida ferramenta, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
