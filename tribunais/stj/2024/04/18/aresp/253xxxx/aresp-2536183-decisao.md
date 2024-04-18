@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. ACIDENTE COM ÔNIBUS - ATROPELAMENTO. MORTE. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. REPARAÇÃO DE DANOS MORAIS E MATERIAIS. POSSIBILIDADE. RESPONSABILIDADE OBJETIVA DE CONCESSIONÁRIA DE TRANSPORTE PÚBLICO. DEDUÇÃO DO SEGURO DPVAT. SÚMULA 246 DO STJ. NECESSIDADE DE COMPROVAÇÃO DE QUE A PARTE RECEBEU VERBA SECURITÁRIA. NÃO COMPROVADO. NEGAR PROVIMENTO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 8º do CPC; 944 do CC, no que concerne à redução do valor fixado a título indenizatório, em atenção aos princípios da razoabilidade e proporcionalidade, trazendo a seguinte argumentação:
+Doutos Ministros, não é admissível um dano moral desta monta, qual seja, o valor de R$80.000,00, ao arrepio de provas precárias trazidas aos autos. Trata-se de condenação absolutamente desproporcional.
+Ora Exas., revela-se patente a conclusão de que o valor fixado na r. acórdão recorrido a título de danos morais, está em pleno descompasso com os princípios da razoabilidade e proporcionalidade, que devem fixação do quantum indenizatório.
+Conforme se depreende da leitura do artigo 8º do CPC de 2015, deve ser observada o princípio da proporcionalidade e razoabilidade ao aplicar o ordenamento jurídico. Tal dispositivo, com a devida vênia, foi ofendido na decisão ora recorrida (fl. 446).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No que tange aos danos morais, da mesma forma não deve ser reformada a r. sentença, pois o valor de R$80.000,00 (oitenta mil reais) é proporcional à capacidade econômica do réu e ao dano suportado pela vítima (fl. 394).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
