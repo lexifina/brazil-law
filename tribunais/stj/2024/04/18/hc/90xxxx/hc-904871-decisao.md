@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu o pedido liminar em habeas corpus formulado na origem.
+Imputa-se ao paciente a prática do crime de descaminho (artigo 334 do Código Penal).
+O Juízo Federal da Subseção Judiciária de Guaíra/PR concedeu a liberdade provisória mediante imposição de fiança no valor de R$ 80.000,00 (oitenta mil reais).
+A defesa alega , em síntese: a) "os pacientes, não possuem condições financeiras de arcar com os valores propostos, sendo totalmente exorbitante" (e-STJ fl. 5); b) "a manutenção do valor da fiança (R$80.000,00 oitenta mil reais), se mostra ABSOLUTAMENTE DESNECESSÁRIA, tanto pelos fatos narrados acima, quanto pelo fato de que o Paciente não tem nenhuma pretensão em deixar de se apresentar durante a instrução criminal ou para prestar quaisquer esclarecimentos adicionais" (e-STJ fl. 7); e c) possível adoção de medidas cautelares diversas.
+Ao final, requer a concessão da ordem para que "seja concedida a presente ordem de habeas corpus em favor do Paciente, em caráter liminar, independentemente das informações da autoridade coatora, para colocá-lo em liberdade, em razão da alarmante violação ao seu direito de ir e vir, que está, neste caso, condicionado à sua situação econômica, expedindo-se o competente alvará de soltura" (e-STJ fls. 13-14). Subsidiariamente, "pede seja o mesmo reduzido para cinco por cento (5%) do montante atualmente arbitrado, possibilitando ao paciente efetivação de seus direitos" (e-STJ fl. 14 ).
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, suficiente para superar o óbice do referido enunciado sumular.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
