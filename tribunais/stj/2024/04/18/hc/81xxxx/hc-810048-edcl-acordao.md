@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. INGRESSO DOMICILIAR. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. INVESTIGAÇÃO PRÉVIA. FUNDAMENTAÇÃO CONCRETA. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DE VÍCIOS INTRÍNSECOS. ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DA CAUSA. PRECEDENTE.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Marcio da Silva Nogueira contra acórdão proferido pela Sexta Turma deste Superior Tribunal de Justiça, assim ementado (fl. 82):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. INGRESSO DOMICILIAR. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. INVESTIGAÇÃO PRÉVIA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravo regimental improvido.
+Nesses embargos sustenta não ter constado no v. Acórdão ora embargado o necessário distinguish ou overruling que separam os precedentes invocados do presente caso, em que se limitou, o magistrado, a deferir o avanço sobre as garantias individuais de cidadão em um único parágrafo e sem qualquer acréscimo pessoal: "os motivos alegados pela Autoridade Policial são suficientes para ser determinada a busca e apreensão" (fl. 95).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. INGRESSO DOMICILIAR. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. INVESTIGAÇÃO PRÉVIA. FUNDAMENTAÇÃO CONCRETA. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DE VÍCIOS INTRÍNSECOS. ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DA CAUSA. PRECEDENTE.
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos devem ser conhecidos, já que reúnem os requisitos de admissibilidade.
+No mérito, entendo não assistir razão ao embargante.
+Pretende pois, o ora embargante apenas rediscutir a causa. Tal medida não é cabível em embargos de declaração. Os embargos somente podem ser utilizados quando, na decisão, houver obscuridade, contradição ou omissão acerca de ponto sobre o qual devia se pronunciar o Juiz ou Tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+Sobre o tema, destaca-se ainda:
+PENAL E PROCESSUAL PENAL. PETIÇÃO RECEBIDA COMO EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na hipótese, nenhum vício é indicado no v. acórdão que julgou os primeiros aclaratórios, pretendendo o embargante, pela segunda vez, reiterando seus argumentos, a rediscussão de matéria já apreciada, em virtude de mera irresignação decorrente do não conhecimento de seu recurso especial. (Precedentes). Embargos de declaração rejeitados.
+(PET nos EREsp n. 1.622.169/MG, Ministro Felix Fischer, Terceira Seção, DJe 1º/8/2018).
+De mais a mais, conforme destaquei na decisão ora embargada, o mandado de busca e apreensão encontra-se devidamente fundamentado; destacando o magistrado de piso que a medida cautelar se justificava em face de investigações prévias, cujo relatório instruiu a representação feita pela autoridade policial para o deferimento da medida cautela.
+Por fim, nem sequer seria cabível eventual pedido de "distinguishing" ou "overruling", pois o julgado invocado pela Defesa não se caracteriza como precedente qualificado, tampouco possui caráter vinculante, de modo que não é apto a desconstituir ou enfraquecer o entendimento aqui exposto, sobretudo tendo em vista o princípio da persuasão racional ou livre convencimento motivado.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. COMETIMENTO DE NOVO DELITO APÓS A CONCESSÃO DE LIBERDADE PROVISÓRIA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE DA MEDIDA. NÃO OCORRÊNCIA. TESE DE ACRÉSCIMO DE FUNDAMENTOS NA DECISÃO RECORRIDA AFASTADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. CITAÇÃO DE PRECEDENTE NÃO VINCULANTE E SEM IDENTIDADE FÁTICA COM A CAUSA EM QUESTÃO. AGRAVO DESPROVIDO.
+1. No caso, o Agravante, em liberdade provisória desde 18/02/2019, supostamente cometeu novo delito de tráfico de drogas no dia 08/11/2020, sendo a sua prisão restabelecida no dia 23/02/2021, em razão da reiteração delitiva, de modo que a medida extrema encontra-se devidamente justificada e o período de tempo decorrido até a nova decretação da prisão não se mostra excessivo a ponto de implicar o esvaziamento do periculum libertatis.
+2. O fato de o Acusado ter sido preso em flagrante pela suposta prática de novo crime pode ensejar a revogação da liberdade provisória anteriormente concedida, ainda que, pelo delito mais recente, o Réu responda em liberdade.
+3. Afasta-se a alegação de que as informações prestadas nestes autos se prestaram à complementação dos fundamentos da custódia, na medida em que " é  legítimo que o Tribunal, no julgamento do habeas corpus, especifique as circunstâncias já expostas pelo Juízo de origem no decreto de prisão preventiva, o que não se confunde com a vedada prática de acréscimo de fundamentos" (AgRg no RHC n. 155.837/CE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/11/2021, DJe de 25/11/2021).
+4. A suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre, in casu.
+5. Inviável a aplicação de medidas cautelares diversas da prisão, pois o risco de reiteração delitiva demonstra serem insuficientes para acautelar a ordem pública.
+6. Além de não haver identidade fática entre o precedente citado pelo Agravante e o cenário analisado nestes autos, nem sequer seria cabível eventual pedido de "distinguishing" ou "overruling", pois o julgado invocado pela Defesa não se caracteriza como precedente qualificado, tampouco possui caráter vinculante, de modo que não é apto a desconstituir ou enfraquecer o entendimento aqui exposto, sobretudo tendo em vista o princípio da persuasão racional ou livre convencimento motivado.
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 151.917/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Ante o exposto, rejeito os embargos de declaração.
