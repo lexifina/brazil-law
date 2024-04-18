@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de divergência manejados por AVIVAR ALIMENTOS S.A. contra acórdão da eg. Terceira Turma, tendo como Relator o e. Ministro Humberto Martins. A ementa está assim redigida:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC. ART. 996 DO CPC. ILEGITIMIDADE RECURSAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. A legitimidade para recorrer constitui requisito de admissibilidade dos recursos, não se podendo conhecer de recurso interposto por quem não seja parte. (art. 996 do CPC)
+3. Nos termos da jurisprudência pacífica desta corte, a legitimidade para recorrer (assim como o interesse processual) constitui requisito de admissibilidade dos recursos, razão pela qual não se revelam cognoscíveis os embargos de declaração opostos por quem não seja parte vencida ou terceiro prejudicado. Prejudicado.
+4. Os embargos de declaração não conhecidos não causam a interrupção dos prazos para os demais recursos.
+Depreende-se dos autos que a NUTRIMINAS REFEIÇÕES LTDA., ora embargada, ajuizou ação declaratória c.c. indenizatória contra ANTONIO CARLOS VASCONCELOS COSTA, ora interessado (fls. 1-36), a qual foi julgada parcialmente procedente (fls. 606-611), contra o quê se voltou a embargada por meio dos embargos de declaração de fls. 617-621, que foram rejeitados (fls. 678-679).
+O interessado e a ora embargante interpuseram recursos de apelação, tendo a e. 10.ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais/MG negado conhecimento ao apelo do réu e da ora embargante, e dado parcial provimento ao recurso da ora embargada (fls. 879-904). Insatisfeitos, o réu-interessado e a embargante opuseram embargos de declaração, que foram rejeitados (fls. 1006-1021).
+Ainda irresignada, a ora insurgente interpôs o recurso especial de fls. 1023-1042, ao qual foi negado provimento por decisão da lavra do Ministro Humberto Martins (fls. 1153-1160). Insatisfeita, a embargante interpôs o agravo interno de fls. 1164-1171, ao qual foi negado provimento por acórdão que recebeu a ementa acima transcrita (fls. 1277-1285).
+Nas razões dos embargos de divergência em análise, o embargante indica como paradigmas, os seguintes julgados: EAREsp n. 175.648/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 24/10/2016, DJe de 4/11/2016 e REsp n. 869.366/PR, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 17/6/2010, DJe de 30/6/2010.
+Em síntese, aduz a embargante que "(..) no acórdão embargado decidiu-se por reconhecer a intempestividade do recurso de apelação, ficando prejudicada a análise das demais questões de mérito, sob fundamento de que os embargos de declaração que precedeu a apelação não foram conhecidos por ilegitimidade e, portanto, não teriam efeitos interruptivos.". Por outro lado, sustenta que "(..) de forma diametralmente oposta, no acórdão paradigma, a solução foi reconhecer a tempestividade recursal, afastando a tese de intempestividade do recurso, pois os embargos de declaração somente não interrompem os prazos de novos recursos nas situações listadas no acórdão paradigma."
+Afirma que "(..) a parte recorrente não pode ser prejudicada por uma irregularidade a que não deu causa e a intempestividade do recurso da parte contrária em vez de agravar a situação processual desta, está agravando a situação processual da recorrente.".
+Pediu, assim, o provimento do apelo recursal (fls. 1291-1297).
+Decisão da lavra do Ministro Benedito Gonçalves indeferiu liminarmente os embargos, quanto ao paradigma da Corte Especial (fls. 1344-1346).
+Impugnação foi juntada às fls. 1359-1370.
+O Ministério Público Federal opinou pelo não conhecimento dos embargos de divergência (fls. 1374-1378).
+É o relatório.
+Decisão.
+A irresignação recursal não merece prosperar.
+1. Inicialmente, merece relevo o fato de que, não obstante a embargante ter trazido aresto paradigmático oriundo do mesmo órgão julgador do acórdão embargado, verifica-se in casu a hipótese prevista no §3.º do art. 1.043 do CPC, tendo em vista que a composição do referido órgão julgador se encontra alterada em mais da metade de seus membros.
+Todavia, cumpre ressaltar que, nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+Nesse contexto, registra-se que a jurisprudência do Superior Tribunal de Justiça é pacífica quanto à imperiosa necessidade de confrontação analítica dos arestos entre os quais se alega existir conflito de tese jurídica, o que não se desincumbiu o ora insurgente.
+Confiram-se: AgRg nos EREsp 1.196.175/ES, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, julgado em 02/05/2012, DJe 15/05/2012; AgInt nos EAREsp 971.729/PR, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 31/10/2017; AgInt nos EREsp 1.321.606/MS, Rel. Min. Moura Ribeiro, DJe de 15/05/2017; AgRg nos EAREsp 739. 649/SP, Rel. Min. Luis Felipe Salomão, Dje de 05/11/2015.
+Com efeito, na hipótese dos autos, verifica-se, pela exame do caderno processual, que a embargante se descuidou em proceder ao confronto dos arestos nos termos legais.
+2. Do exposto, com fundamento art. 266-C, do RISTJ c/c Súmula 568/STJ, nega-se provimento aos embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
