@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GENI LOURDES GELAIN ROTTA E OUTRO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/2/2024.
+Concluso ao gabinete em: 9/4/2024.
+Ação: Prestação de contas ajuizada pelos agravantes em face de Safeweb Segurança da Informação Ltda e Outro.
+Sentença: julgou procedente a ação na segunda fase, a fim de declarar a existência de saldo credor em favor dos autores no total de R$753.905,63 (setecentos e cinquenta e três mil, novecentos e cinco reais e sessenta e três centavos), correspondente ao valor efetivamente devido a título de lucros com a amortização das importâncias já pagas, valor atualizado pelo IGP-M até 30/06/2021 (Evento 194 - LAUDO1 - pág. 20), e acrescidos de juros de mora de 1% ao mês, calculados sobre as importâncias consideradas pelo especialista para apuração da soma relativa ao crédito, e computados desde a data de cada balanço do exercício em que não foram distribuídos os lucros (artigo 397 do Código Civil) (fl. 1.784).
+Acórdão: deu parcial provimento à apelação interposta pelos agravados, conforme ementa a seguir (fls. 2.094-2.095):
+APELAÇÃO CÍVEL. RECURSO ADESIVO. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. SOCIEDADE EMPRESÁRIA. DISTINÇÃO ENTRE HAVERES E DIVIDENDOS EM RETIRADA DE SÓCIO. REGIME DE TRIBUTAÇÃO E REGIME CONTÁBIL. LUCROS SONEGADOS. ÔNUS DA PROVA.PERÍCIA CONTÁBIL. JUROS MORATÓRIOS.
+Questões não conhecidas de parte à parte Está preclusa a questão preliminar de ausência de interesse na presente prestação de contas, em razão da outorga de quitação pelos demandantes quando da retirada da sociedade, porque a matéria já foi tratada quando do julgamento da primeira fase da prestação de contas, que reconheceu o direito à prestação de contas e o dever de prestá-las.
+Deixa-se de conhecer as alegações de alteração do índice de correção monetária adotado pela sentença e do seu termo inicial, por se tratar de alegações, feitas em caráter genérico e desprovidas da comprovação técnica do proveito econômico capaz que justificar a pretendida alteração. Para tanto exige-se a apresentação de cálculo para se aferir a diferença entre o valor segundo a sentença e o pretendido na apelação.
+Também se deixa de conhecer do pedido de restituição dos valores dispendidos com a contratação de assistente técnico, porque a parte demandante deixou de apresentar a questão ao juízo competente, a quem incumbe conhecê-la e decidi-la antes do atual recurso além de deixar de apresentar o valor cujo ressarcimento pretende a título de despesas com seu assistente técnico, caracterizando-se, assim também, alegação, desprovida demonstração ou prova do proveito econômico pretendido e justificadora do seu não conhecimento.
+Questões de mérito de ambas as partes As partes demandantes, como sócios retirantes da sociedade empresária, demonstraram a existência de dividendos deixados de distribuir à época em que eram sócios da sociedade empresária demandada, mediante, principalmente, o laudo pericial contábil, ao qual se aliam outros elementos reconstituídos por ambas as partes.
+A quitação outorgada pelos sócios retirantes, conforme seus próprios termos, diz respeito aos haveres, distintos dos dividendos, objeto da atual ação de prestação de contas.
+Os conceitos de lucro presumido e dividendos existentes, mas sonegados, também se distinguem. O lucro presumido utiliza-se como regime de tributação do imposto de renda da pessoa jurídica, situação jurídica que insuscetível de elidir a existência de lucro real, se existente.
+Demonstrada a existência de dividendos sem distribuição aos sócios retirantes e quantificados no laudo do perito nomeado pelo juízo, os juros de mora contam-se da citação da parte demandada na primeira fase da ação de prestação de contas.
+Inexiste litigância de má-fé processual por parte dos demandados, que exercitaram defesa sem tipicidade de nenhuma das situações que justificam o reconhecimento da má-fé processual. A realização do negócio em si diferencia-se da defesa em juízo.
+Os honorários de sucumbência arbitram-se conforme os critérios legais, que se ajustam às circunstâncias do caso, o percentual médio diante do valor expressivo da condenação.
+APELAÇÃO E RECURSO ADESIVO CONHECIDOS EM PARTE E, NA PARTE CONHECIDA, COM PARCIAL PROVIMENTO DA APELAÇÃO DA DEMANDADA E SEM PROVIMENTO AO RECURSO ADESIVO DA DEMANDANTE.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 389, 394, 397 e 398 do Código Civil, e 1.022 do CPC. Além de negativa de prestação jurisdicional, sustenta que o "termo inicial dos juros seja, sucessivamente: i. A data em que os lucros deveriam ter sido distribuídos (final do respectivo exercício, como definido pela sentença); ii. A data em que as contas deveriam ter sido prestadas (120 dias após findo o respectivo exercício - art. 1.078 do Código Civil); iii. A data do recebimento da notificação extrajudicial, pois neste momento constituídos inegavelmente em mora os recorridos adesivos" (fl. 2.201).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do termo inicial dos juros de mora na responsabilidade contratual (Súmula 568/STJ)
+A Corte de origem, ao adotar o entendimento que, nas situações de responsabilidade contratual, tal como a hipótese dos autos, o termo inicial dos juros moratórios é partir da data da citação, adotou entendimento em consonância com a jurisprudência do STJ, no sentido de que os juros de mora, em ação de prestação de contas, decorrente do descumprimento de contrato, contam-se da citação.
+Nesse sentido: AgInt no REsp n. 2.034.103/SP, Terceira Turma, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.396.400/RS, Quarta Turma, DJe de 31/3/2023.
+Dessa forma, quanto ao ponto mencionado, o acórdão recorrido não merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. JUROS DE MORA. TERMO INICIAL. CITAÇÃO.
+1. Ação de Prestação de contas.
+2. Conforme o entendimento do Superior Tribunal de Justiça, os juros de mora, em ação de prestação de contas, decorrente do descumprimento de contrato, contam-se da citação. Precedentes.
+3. Agravo conhecido. Recurso especial não provido.
