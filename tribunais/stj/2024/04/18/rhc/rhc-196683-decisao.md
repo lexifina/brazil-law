@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por VITOR SILVA PINHEIRO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada pela suposta prática do delito de associação para o tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 73-82).
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Recorrente, aduzindo ausência de fundamentação para a segregação cautelar.
+Argumenta que:
+"Ora, o paciente é tecnicamente primário, de bons antecedentes, possui ocupação lícita e fixa,, é um homem idôneo.
+Outrossim, possui residência e domicílio fixo na comarca da culpa, exerce sua atividade laboral de forma totalmente lícita, ostentando bons testemunhos e boa convivência social por onde quer que passe, e não possui nenhuma ligação ou envolvimento, com a conduta de associação para o tráfico, possui uma filha de apenas 02 anos de idade totalmente dependente do pai, além do que, sua esposa se encontra atualmente grávida e sem recursos, sendo de extrema necessidade que o provedor da família se faça presente neste âmbito" (fl. 107).
+Sustenta ausência de indícios de autoria.
+Requer a revogação da segregação cautelar.
+É o relatório. DECIDO.
+Pretende o Recorrente o reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a sua prisão cautelar.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente em razão da gravidade concreta da conduta e do risco de reiteração criminosa.
+No ponto, consta no acórdão hostilizado:
+"Assim, observa-se que há nas decisões judiciais indicação de fatos concretos que levam à conclusão de que a prisão preventiva do paciente se mostra imprescindível, especialmente em razão da presença de prova da materialidade do fato, indícios de autoria e descrição da gravidade concreta das condutas supostamente perpetradas, que sugerem o possível envolvimento do paciente em atividade criminosa destinada ao comércio de entorpecentes, aparentemente envolvendo 26 pessoas, havendo interceptação telefônica que aponta, em tese, a ligação do paciente com os possíveis líderes da organização criminosa. Além disso, foi destacada a sua periculosidade, ante a reiteração criminosa, já que o paciente é reincidente em crime da mesma natureza" (fl. 79).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo"" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos auto s elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+No que tange à alegação acerca de que o Recorrente possui filho menor, que depende dos seus cuidados, verifica-se que a questão não foi apreciada no acórdão hostilizado; e tal fato inviabiliza a análise da matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+"Por outro lado, especificamente, no que se refere à asserção acerca de que a Agravante possui filho menor, que depende dos seus cuidados, bem como no que concerne ao pleito de reconhecimento da ocorrência de excesso de prazo, posto que, conforme ressaltado, a ora Agravante se encontra "presa há quase 11 meses sem qualquer julgamento", verifico que tais questões não foram enfrentadas pela eg. Corte de origem no v. acórdão (habeas corpus n. 1.0000.22.263533-6/000); e tal fato inviabiliza o exame da matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (AgRg no HC n. 788.184/MG, Quinta Turma, de minha relatoria, DJe de 31/3/2023).
+No mais, de acordo com a jurisprudência desta Corte, a perscrutação acerca de fragilidade probatória, mormente, no que tange à ausência de indícios de autoria, demanda o revolvimento de matéria fático-probatória, inviável na presente via:
+"digressões sobre a justa causa para a ação penal, imiscuindo-se no exame das teses de fragilidade probatória e de ausência de indícios de autoria e materialidade, demandam inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via augusta do recurso ordinário em habeas corpus, devendo, pois, ser avaliada a quaestio pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório" (RHC 56.155/MT, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 24/5/2017).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
