@@ -1,0 +1,770 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+1ª CÂMARA CÍVEL
+
+EMBARGOS DE DECLARAÇÃO N
+A APELAÇÃO CÍVEL
+N.º
+0000072-55.2015.8.08.0036
+
+EMBARGA
+NTE
+:
+
+RAFAEL BISPO MASSINI
+
+EMBARG
+A
+DO:
+COLOR VISÃO DO BRASIL ACRÍLICA LTDA.
+
+RELATORA: DESª. MARIANNE JÚDICE DE MATTOS
+
+ACÓRDÃO
+
+EMENTA
+: EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. OMISSÃO. VÍCIO INEXISTENTE. REDISCUSSÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DA DECISÃO SEM PORMENORIZAÇÃO DE TODOS OS ARGUMENTOS APRESENTADOS. RECURSO IMPROVIDO.
+
+1. O Embargos de Declaração é recurso de fundamentação vinculada e, ausentes as hipóteses previstas no artigo 1.022 do Código de Processo Civil, a sua rejeição é medida que se impõe.
+
+2. O
+decisum
+objurgado não padece de omissão e, da simples leitura das razões, identifica-se o manifesto propósito de rediscussão do julgado, na medida em que pretende a parte Embargante nova análise das teses já enfrentadas.
+
+3
+.
+
+No âmbito
+Excelso Supremo Tribunal Federal
+encontra sedimentada a tese de que
+o órgão julgador
+deve fundamentar suas decisões e acórdãos, ainda que sucintamente, porém,
+não possui obrigação de rebater pormenorizadamente todos os argumentos expedidos pelas partes.
+
+4. Recurso conhecido e desprovido.
+
+Vistos
+relatados e discutidos os presentes autos, acordam os Desembargadores componentes da Primeira Câmara Cível do Egrégio Tribunal de Justiça do Estado do Espírito Santo,
+à unanimidade, negar provimento ao recurso.
+
+Vitória/ES, 05 de março de 2024.
+
+RELATORA
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e não acolher os Embargos de Declaração, nos termos do voto da Relatora.
+
+Órgão julgador vencedor
+: 025 - Gabinete Desª. MARIANNE JUDICE DE MATTOS
+
+Composição de julgamento: 026 - Gabinete Desª. MARIANNE JUDICE DE MATTOS - MARIANNE JUDICE DE MATTOS - Relator / 012 - Gabinete Desª. JANETE VARGAS SIMÕES - JANETE VARGAS SIMOES - Vogal / 016 - Gabinete Des. EWERTON SCHWAB PINTO JÚNIOR - EWERTON SCHWAB PINTO JUNIOR - Vogal
+VOTOS VOGAIS
+012 - Gabinete Desª. JANETE VARGAS SIMÕES - JANETE VARGAS SIMOES (Vogal)
+Proferir voto escrito para acompanhar
+016 - Gabinete Des. EWERTON SCHWAB PINTO JÚNIOR - EWERTON SCHWAB PINTO JUNIOR (Vogal)
+Acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+DATA DA SESSÃO: 19/09/2023
+
+R E L A T Ó R I O
+
+O SR. DESEMBARGADOR EWERTON SCHWAB PINTO JÚNIOR (RELATOR):-
+Trata-se de recursos interpostos por Rafael Bispo Massini e pela empresa Color Visão do Brasil Indústria Acrílica Ltda (Colormaq), em face da r. sentença proferida pelo MM. Juiz de Direito da Vara Única de Muqui/ES que, em ação indenizatória ajuizada, julgou parcialmente procedentes os pedidos autorais, condenando a empresa ao pagamento de (i) indenização por danos morais no valor de R$ 50.000,00 (cinquenta mil reais); (ii) ao pensionamento mensal na base de 1/4 (um quarto) do salário-mínimo, a partir da data do óbito (28/03/2013) até a data em que a parte autora completar 25 (vinte e cinco) anos, devendo ser observado o valor do salário-mínimo em vigor em cada ano, cujas parcelas vencidas desde o ato ilícito deverão ser pagas de uma só vez, incidindo juros legais da data do acidente; (iii) indenização por dano estético no valor de R$ 50.000,00 (cinquenta mil reais), a ser devidamente atualizada a partir da publicação desta sentença; (iv) ao pagamento de pensão mensal vitalícia no importe de 30% de um salário-mínimo, desde a data do acidente; (v) ao pagamento das custas processuais e honorários advocatícios, em 10% (dez por cento) sobre o valor da condenação, a teor do artigo 85, § 2º, do Código de Processo Civil.
+
+Nas razões recursais apresentadas, o apelante Rafael Bispo Massini, sustenta, em síntese, a necessidade de reforma da r. sentença, requerendo a majoração dos valores fixados a título de indenização por danos morais, danos físicos, bem como os honorários sucumbenciais
+
+A empresa Color Visão do Brasil Indústria Acrílica Ltda (Colormaq), devidamente intimada, não apresentou as contrarrazões.
+
+Apelação da empresa Color Visão do Brasil Indústria Acrílica Ltda (Colormaq), porém, devidamente intimada (ID 5618141) para depositar em dobro o valor do preparo, esta não o fez.
+
+Contrarrazões apresentadas por Rafael Bispo Massini (ID 5132498).
+
+É o relatório.
+
+Peço dia para julgamento em conjunto com os recursos de nº 0000101-08.2015.8.08.0036, 0000311-59.2015.8.08.0036, 0000099-38.2015.8.08.0036, 0000100-23.2015.8.08.0036.
+
+*
+
+O SR. ADVOGADO LUIZ CLAUDIO ALLEMAND:-
+
+Senhor Presidente, eminentes Desembargadores; trata-se de um acidente automobilístico entre um caminhão e um EcoSport, com óbito da passageira do EcoSport.
+
+A sentença não valorou a prova dos autos, o motorista do caminhão com alcoolemia abaixo de 0,2 gramas de álcool por litro, não comprometendo a atenção, isso através de laudo pericial. Depoimento pessoal do motorista do EcoSport que estava trafegando acima de 60 quilômetros, velocidade máxima da via, confirmado por depoimento testemunhal e por laudo técnico.
+
+Valor das indenizações por dano moral, 50 mil reais por pessoa, no total de 250 mil reais. Mais valor da indenização por dano estético para o Sr. Rafael Bispo Massini, de 50 mil reais, também acima do que o Tribunal de Justiça do Espírito Santo vem aplicando na sua jurisprudência. Houve uma condenação de pensionamento vitalício
+extra petita
+.
+
+Respeitosamente, qual é o direito? Não há culpa exclusiva do motorista, conforme testemunha, conforme a própria manifestação do condutor do EcoSport e conforme laudo apresentado, ambos estão errados. Culpa concorrente.
+
+O valor da indenização por danos morais e por dano estético está acima do que é praticado na jurisprudência do Tribunal de Justiça do Estado do Espírito Santo. E no processo, como disse, relatado no problema, há um pedido de condenação de pensionamento, há um deferimento de um pensionamento vitalício que não foi solicitado, não foi requerido, desta forma,
+extra petita
+. Qual é o pedido? A modificação da sentença, em razão da culpa concorrente dos motoristas e a redução da indenização. Dois, a redução do valor da indenização e danos morais e danos estéticos pela jurisprudência dominante do Tribunal de Justiça do Espírito Santo. Três, excluir a condenação do apelante no pagamento de uma pensão vitalícia por estar fora do pedido,
+extra petita
+.
+
+A empresa não se opõe, em momento algum se opôs, a cumprir com a sua responsabilidade, mas apenas requer que seja aplicada a jurisprudência da casa, que seja observada a culpa concorrente e que seja afastada a condenação
+extra petita
+. Muito obrigado.
+
+*
+
+O SR. ADVOGADO KAIO FERNANDES ARPINI:-
+
+Senhor Presidente, eminentes Desembargadores; vou rememorar os fatos aqui de forma breve. São cinco processos movidos contra a empresa Colormaq, nome fantasia. Um dos autores dessas ações é o Sr. Adriano Massini Batista que estava conduzindo o seu veículo, saindo de Muqui, de onde é natural, com destino a Porto Seguro, onde mora a família da sua esposa.
+
+Ao passar no trevo de Pinheiros, um caminhão da Colormaq, dirigido por um de seus funcionários, atravessou a pista, simplesmente não parou no trevo e invadiu a preferencial. Meu cliente tentou frear, não foi suficiente, acabou colidindo na parte traseira, na parte final da carroceria e a esposa dele se resumiu a um monte de carne jogada no chão. O filho dele, Rafael, de 16 anos, hoje é um jovem incapacitado permanentemente, a filha dele na época de 6 anos viu aquilo tudo; obviamente os filhos carregam até hoje traumas psicológicos, e foi isso que aconteceu resumidamente.
+
+Peço licença para discordar da empresa quando diz aqui que ofereceu todo o suporte que era necessários, isso nunca aconteceu. A empresa nunca procurou a família para perguntar se precisava de algum tipo de assistência e só veio acontecer na ação quando por meio de um liminar conseguimos uma pensão.
+
+O processo se arrastou por 7 anos até ser julgado, muitas diligências foram realizadas, perícias, oitivas, fora do Estado e ao final uma sentença condenando a empresa ao pagamento de R$ 50 mil de dano moral para cada requerente, e mais R$ 50 mil no caso do Rafael, que é um jovem de 16 anos que hoje se encontra permanentemente incapacitado.
+
+O nosso recurso consiste exatamente em pleitear a majoração dessas indenizações, bem como o percentual de honorário que foi fixado em 10%.
+
+Todos sabem que não é fácil a tarefa de valorar o dano moral, o que a doutrina diz ser naturalmente intangível e não vendável, então é difícil. Mas com o tempo a jurisprudência e a doutrina foram criando alguns critérios para facilitar a atividade judicante e tratarei dos principais, fazendo um link com os fatos que temos no processo e com as provas.
+
+Primeiro deles é a extensão do dano. O dano, nesse caso, não se tem nenhuma dúvida que sua extensão é a maior possível. A gente está falando aqui de três filhos, que muito jovens perderam a mãe de 41 anos; e de um jovem que jamais vai poder exercer com plenitude suas capacidades.
+
+O grau de culpa, e talvez esse critério seja o mais grave. Temos um motorista que se diz profissional, que confessou e fez o teste de alcoolemia que deu positivo. Invadiu a via preferencial sem observar se a pista estava livre e tanto o boletim de ocorrência da Polícia Rodoviária Federal quanto a declaração de testemunha que vinha logo atrás do carro do Sr. Adriano atestam que o caminhão invadiu a preferencial, que o local tem ampla visibilidade para ambos os lados. O Sr. Marcelo, que foi uma das testemunhas ouvidas, afirma que vinha atrás e que Adriano não estava em alta velocidade, e que não tem dúvidas que o caminhão não parou no trevo.
+
+Falamos da extensão do dano, do grau de culpa, condição econômica do agente. Trata-se de uma empresa que a referência no setor dela, que é de eletrodomésticos. Além da sede que é em São Paulo, tem parques industriais em vários estados. É uma empresa que, só a Matriz, tem um capital social de mais de 17 milhões.
+
+Estamos falando de uma empresa que, segundo notícia veiculada no site diário de Pernambuco, em uma entrevista que foi feita com o fundador da empresa, afirmando que, em 2018, faturou 650 milhões de reais. E para 2019, planejava um investimento de 100 milhões para aumento da sua capacidade de produção. Em contrapartida falamos de uma indenização de 50 mil reais.
+
+Outro critério é o caráter punitivo da condenação, fica muito claro que uma condenação de 50 mil reais para uma empresa que fatura mais de meio bilhão por ano, esse critério nunca vai ser atendido com uma indenização de 50 mil reais.
+
+Desde a inicial foram apresentados arestos jurisprudenciais, demonstrando que valores fixados em casos semelhantes estão muito além desses 50 mil reais. Peço licença para ler uma pequena parte do voto do então ministro Paulo de Tarso Sanseverino: a indenização por danos morais em caso de morte da vítima vem sendo arbitrada por essa corte entre 300 e 500 salários mínimos, com o que se deve reputar como ínfimo o montante global de 55 mil reais, equivalente a 100 salários mínimos vigente à época do fato. Nesse caso, falava-se de uma indenização que foi fixada em 100 salários mínimos e que já foi considerada o ínfimo pela STJ.
+
+No nosso caso, que é de 50 mil reais, se a gente converter para o salário atual, não chega a 50 salários. Ficou bem demonstrado que a indenização de 50 mil reais, num caso desse, não atinge ao seu objetivo.
+
+Passo agora para os honorários, fixados em 10%. O art. 85 traz os critérios a serem observados para fixação de honorário, que vai de 10 % a 20 % do valor da causa, da condenação do proveito econômico.
+
+O primeiro desses critérios é o grau de zelo do profissional. Preciso deixar a modéstia de lado, porque preciso falar em primeira pessoa, se observarem bem o processo, verão que o trabalho foi realmente bem realizado, petições bem fundamentadas, muitas diligências realizadas, oitivas de testemunhas em vários lugares, análise de laudo pericial e tudo mais que podia ser feito.
+
+O lugar de prestação de serviço. O meu escritório fica em Cachoeiro de Itapemirim, o serviço foi prestado em Muqui, além de outras tantas diligências fora de Cachoeiro, de Muqui e também do Estado do Espírito Santo.
+
+A natureza e a importância da causa. Como disse, isso não se trata de um simples acidente de trânsito. Falamos de uma família que acabou, de danos que não serão reparáveis, independente do valor da indenização. Não se trata de uma ação simples, é de uma complexidade e um envolvimento sentimental muito grande.
+
+O trabalho realizado pelo advogado e o tempo exigido para o seu serviço. Hoje esse processo já está com oito anos, e até o seu trânsito provavelmente vai chegar próximo aos dez anos. Levou mais de sete anos para ser sentenciado. Só fazendo um comparativo, honorários de 10 % são fixados de forma inicial em uma ação de execução que normalmente guarda muito menos complexidade do que um processo desse.
+
+Fica a nossa irresignação e o nosso pedido de reforma da sentença para a majoração dos valores de indenização para os patamares que são entendíveis como razoáveis pelo STJ e também que seja o majorado percentual de honorários. Muito obrigado.
+
+*
+
+RETORNO DOS AUTOS
+
+O SR. DESEMBARGADOR EWERTON SCHWAB PINTO JÚNIOR (RELATOR):-
+
+Senhor Presidente, respeitosamente, peço o retorno dos autos.
+
+*
+
+cmv*
+
+CONTINUAÇÃO DO JULGAMENTO: 26/09/2023
+
+V O T O
+
+RETORNO DOS AUTOS
+
+Preliminar, de ofício, de não conhecimento do recurso interposto por Color Visão do Brasil Indústria Acrílica LTDA - Deserção
+
+O SR. DESEMBARGADOR EWERTON SCHWAB PINTO JÚNIOR (RELATOR):-
+
+Em relação ao recurso de apelação interposto por Color Visão do Brasil Indústria Acrílica LTDA, proferi despacho (ID 5618141) determinando a sua intimação para que promovesse o recolhimento em dobro do preparo, ante a ausência de comprovação do efetivo pagamento.
+
+No referido despacho destaquei que o apelante tão somente juntou o documento de fls. 338v, que se refere à comprovação de transferência via PIX para o próprio autor da ação, Rafael Bispo Massini, o qual não se presta para a comprovação do preparo.
+
+No entanto, apesar de devidamente intimado, o apelante não se manifestou. Assim, imperiosa a aplicação do art. 1.007,
+caput
+, do CPC.
+
+Pelas razões expostas, suscito, de ofício, de preliminar de não conhecimento do recurso interposto por Color Visão do Brasil Indústria Acrílica LTDA, por deserção.
+
+Com fulcro no artigo 85, § 11, do Código de Processo Civil,
+MAJORO
+os honorários advocatícios para 20% (vinte por cento).
+
+É como voto.
+
+*
+
+V O T O
+
+Do recurso interposto por Rafael Bispo Massini
+
+O SR. DESEMBARGADOR EWERTON SCHWAB PINTO JÚNIOR (RELATOR):-
+
+Na origem, Rafael Bispo Massini ajuizou ação de responsabilidade civil c/c pedido de indenização por danos morais e materiais contra a empresa proprietária do caminhão que colidiu com a traseira do veículo conduzido por seu genitor, ocasionando o falecimento de sua genitora.
+
+Após regular tramitação do feito, sobreveio sentença julgando parcialmente procedentes os pedidos autorais, condenando a empresa ao pagamento de
+(i)
+indenização por danos morais no valor de R$ 50.000,00 (cinquenta mil reais);
+(ii)
+ao pensionamento mensal na base de 1/4 (um quarto) do salário-mínimo, a partir da data do óbito (28/03/2013) até a data em que a parte autora completar 25 (vinte e cinco) anos, devendo ser observado o valor do salário-mínimo em vigor em cada ano, cujas parcelas vencidas desde o ato ilícito deverão ser pagas de uma só vez, incidindo juros legais da data do acidente;
+(iii)
+indenização por dano estético no valor de R$ 50.000,00 (cinquenta mil reais), a ser devidamente atualizada a partir da publicação desta sentença;
+(iv)
+ao pagamento de pensão mensal vitalícia no importe de 30% de um salário-mínimo, desde a data do acidente.
+(v)
+ao pagamento das custas processuais e honorários advocatícios, em 10% (dez por cento) sobre o valor da condenação, a teor do artigo 85, § 2º, do Código de Processo Civil.
+
+Pois bem.
+
+De preliminar, de ofício, de nulidade de parte da sentença – Julgamento
+Extra petita
+
+Ao que se vê dos autos, o requerente Rafael Bispo Massini formulou pedido expresso de pensionamento mensal na proporção de 1⁄4 do salário-mínimo por mês até a data em que ele completasse 25 anos, em virtude do falecimento de sua genitora.
+
+Contudo, a sentença, além de condenar Color Visão do Brasil Indústria Acrílica LTDA ao pagamento do pensionamento mensal, também a condenou ao pagamento de pensão vitalícia no percentual de 30% do salário-mínimo, em razão da perda parcial da capacidade laborativa do requerente.
+
+Assim, ao condenar a requerida ao pagamento de pensão vitalícia, em razão da perda parcial da capacidade laborativa do requerente, agiu com desacerto o magistrado de primeiro grau. Isso porque, ao julgar a demanda, o juiz deve se ater aos limites dos pedidos formulados na petição inicial, por força do princípio da congruência, previsto no art. 492,
+caput
+, do CPC.
+
+Nas palavras de Daniel Amorim Assumpção Neves, “
+o juiz não pode conceder diferente ou a mais do que for pedido pelo autor. Trata-se do princípio da congruência, também conhecido como princípio da correlação ou da adstrição. O dispositivo legal, entretanto, é incompleto, porque
+os limites da sentença devem respeitar não só o pedido, mas também a causa de pedir e os sujeitos que participam do processo.
+
+É nula a sentença que concede a mais ou diferente do que foi perdido, como também há nulidade na sentença fundada em causa de pedir não narrada pelo autor, na sentença que atinge terceiros que não participaram do processo ou que não julga a demanda relativamente a certos demandantes.
+” (Manual de direito processual civil – 6. ed. rev. Atual. E ampl. - Rio de Janeiro: Forense; São Paulo: MÉTODO, 2014).
+
+Nesse sentido, convém salientar que o Superior Tribunal de Justiça decidiu que, em nome do princípio da economia processual, é possível
+adequação aos limites do pedido
+nos casos em que a sentença for
+extra petita
+.
+
+Por oportuno, cito o julgado proferido pela 6ª Turma do STJ quando do julgamento do REsp 263.829/SP:
+
+PROCESSUAL CIVIL. SENTENÇA ULTRA PETITA. NULIDADE. DECRETAÇÃO EX OFFICIO. POSSIBILIDADE. ECONOMIA PROCESSUAL. ADEQUAÇÃO AOS LIMITES DO PEDIDO. 1. A sentença ultra petita é nula, e por se tratar de nulidade absoluta, pode ser decretada de ofício. Contudo, em nome do princípio da economia processual, quando possível, a
+decisão deve ser anulada apenas na parte que extrapola o pedido formulado
+. Precedente. 2. Recurso especial conhecido em parte. (...)”.
+
+Logo, flagrante a ocorrência de
+error in procedendo
+, decorrente de decisão
+extra petita
+, deve ser anulado o capítulo da sentença referente ao pensionamento vitalício, por força do princípio da economia processual.
+
+Assim, declaro, de ofício, a nulidade parcial da sentença, a fim de decotar o capítulo relativo à condenação por pensão vitalícia no percentual de 30% do salário-mínimo.
+
+É como voto.
+
+*
+
+V O T O
+
+Do mérito do recurso
+
+O SR. DESEMBARGADOR EWERTON SCHWAB PINTO JÚNIOR (RELATOR):-
+
+Em sua apelação, Rafael Bispo Massini requer a majoração dos valores fixados a título de reparação por danos morais, danos físicos e honorários sucumbenciais.
+
+Em relação ao
+quantum
+arbitrado a título de reparação por danos morais, o C. STJ admite, em caráter excepcional, a sua alteração caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+
+No caso concreto, o dano moral decorreu do sofrimento e transtornos decorrentes do acidente de trânsito narrado nos autos, notadamente pela perda prematura e traumática da genitora do apelante, que, à época do acidente, tinha 40 anos de idade.
+
+Muito embora seja impossível mensurar os danos sofridos pelo apelante, que foi privado do convívio com sua genitora com apenas 16 (dezesseis) anos de idade, entendo que o valor fixado pelo magistrado de primeiro grau (R$ 50.000,00) não observou os princípios da razoabilidade e da proporcionalidade, a gravidade da lesão, a intensidade da culpa do agente e a condição socioeconômica das partes.
+
+Assim, considerando as particularidades do caso concreto e observando os critérios para a fixação do dano moral, entendo prudente majorar o valor arbitrado para R$ 150.000,00 (cento e cinquenta mil reais).
+
+O apelante pretende, ainda, a majoração do valor arbitrado a título de danos estéticos para R$ 100.000,00 (cem mil reais), diante da sequela irreversível com a perda parcial, incompleta e moderada da capacidade funcional do braço direito, em decorrência do acidente de trânsito.
+
+A indenização por dano estético deve ser arbitrada segundo os critérios da razoabilidade e proporcionalidade e observando a finalidade do instituto. Nesse passo, entendo que o valor arbitrado pelo magistrado de primeiro grau (R$ 50.000,00) observou tais critérios, razão pela qual deve ser mantido.
+
+Por fim, apesar de o apelante requerer a majoração do valor arbitrado a título de honorários advocatícios, entendo que o percentual de 10% (dez por cento) sobre o valor da condenação observou os critérios estabelecidos no § 2º, do art. 85, do CPC.
+
+Do exposto, conheço e
+dou parcial provimento
+ao recurso interposto por Rafael Bispo Massini, a fim de majorar a indenização por danos morais para R$ 150.000,00 (cento e cinquenta mil reais).
+
+É como voto.
+
+*
+
+V O T O
+
+O SR. DESEMBARGADOR JÚLIO CÉSAR COSTA DE OLIVEIRA:-
+
+Acompanho o voto do Eminente Relator.
+
+*
+
+V I S T A
+
+A SRA. DESEMBARGADORA MARIANNE JÚDICE DE MATTOS:-
+
+Eminente Presidente respeitosamente peço vista dos autos.
+
+*
+
+tnsr*
+
+SESSÃO DIA: 03/10/2023
+
+V O T O
+
+(PEDIDO DE VISTA)
+
+A SRA. DESEMBARGADORA MARIANNE JÚDICE DE MATTOS:-
+
+Eminentes Desembargadores, pedi vista dos autos com o objetivo de examinar com acuidade as questões objeto destes autos, o que passo a fazer.
+
+Inicialmente, entendo que decidiu com acerto o Em. Des. Relator ao não conhecer do apelo da empresa Color Visão do Brasil Indústria Acrílica Ltda, dada a sua deserção, assim como ao anular parcialmente a sentença quanto ao arbitramento de pensão vitalícia, dada a existência do vício
+extra petita
+.
+
+De plano, calha salientar que decidiu com acerto o Em. Des. Relator ao reconhecer o dever de indenizar da empresa apelante/apelada, uma vez que a conduta do seu preposto, ao cruzar a rodovia sem a prudência necessária e dirigir o caminhão sob a influência de álcool, contribuíram sobremaneira para a ocorrência do acidente.
+
+Isso pode ser constatado por meio do exame dos elementos de probatórios, dentre eles, o Boletim de Acidente de Trânsito carreado às fls. 19/28, o qual aponta como sendo culpado pelo acidente de trânsito o veículo guiado pelo empregado da apelante/apelada, o qual cruzou a via preferencial repentinamente e sem a devida sinalização, momento em que o condutor do veículo onde estavam as vítimas acionou os freios, mas não foi possível evitar o acidente.
+
+Como prova disso, faço questão de citar trecho do referido documento:
+
+Ao chegar ao Km 37,2 da Br 101 encontrou os vestígios do acidente tipo colisão transversal em que V1, caminhão M. Bens Atego 2426 C. Fechada placa FGP 9555, cruzou a via sem observar a preferência dos veículos que transitavam na via principal, BR 101, e foi colidido transversalmente em sua traseira por V2, Ford Ecosport placa JOY 2120, que seguia na BR 101. 0 condutor de V1 encontrava-se sob efeito de álcool ou substância análoga.
+
+Demais disso, as provas orais produzidas demonstram que quando o veículo das vítimas se aproximou do local o caminhão estava ocupando a pista de rolamento, não havendo indícios de que aquele seguia em alta velocidade, o que comprova que não era possível evitar a colisão, como se vê de fls. 284 e 290/291.
+
+Além do mais, ainda que durante as oitivas judicias (mídias digitais constantes dos autos nº 0000099-38.2015.8.08.0036) os condutores do veículo onde estavam as vítimas e de um terceiro que seguia logo atrás tenham afirmado que não era possível precisar a velocidade empreendida no dia dos fatos, somente afirmando que era menor que 80 km/h, talvez entre 75 km/h e 80 km/h, saliento que isso, por si só, não é suficiente para afastar a responsabilidade da pessoa jurídica apelante/apelada, mesmo que a velocidade máxima permitida para o local fosse de 60 km/h.
+
+Isso porque, a dinâmica dos fatos, reforçada pela narrativa das testemunhas presentes no local, deixam evidente que a conduta do preposto da recorrente/recorrida foi a única causa para acidente, pois ele realizou a travessia da pista sem observar as cautelas necessárias para o lugar e o momento da manobra e, ignorando o grande fluxo de veículos que trafegavam na via, eis que o dia dos fatos era uma sexta-feira de carnaval, atravessou o caminhão completamente na pista de rolamento impossibilitando qualquer manobra de desvio por outros condutores, ainda que pelo acostamento, de modo a tornar inevitável a ocorrência do acidente.
+
+Um questionamento deve ser feito, Em. Pares. Era possível que os condutores que seguiam pela via desviassem de um caminhão que obstruía completamente os 2 (dois) sentidos da rodovia federal? A resposta que se extrai dos próprios elementos dos autos é clara. Não!
+
+O próprio Código de Trânsito Brasileiro, ao tratar da situação em exame é claro ao prever que:
+
+Art. 34. O condutor que queira executar uma manobra deverá certificar-se de que pode executá-la sem perigo para os demais usuários da via que o seguem, precedem ou vão cruzar com ele, considerando sua posição, sua direção e sua velocidade.
+
+E mais. Não estou aqui a afirmar que somente o fato de o preposto da recorrente/recorrida ter consumido bebida alcoólica antes do acidente foi capaz de dar causa ao acidente. Na realidade, como narrado acima, os elementos probatórios foram capazes de demonstrar que a sua conduta ao atravessar a pista sem as cautelas necessárias e obstruí-la completamente com o caminhão é que tornam evidente a sua responsabilidade pelo acidente.
+
+Assim, estão presentes os requisitos para a responsabilização civil, não existindo causas excludentes de responsabilidade ou mesmo culpa concorrente do condutor do veículo atingido.
+
+Dito isso, quanto aos danos estéticos, da mesma maneira, sigo o entendimento do Em. Des. Relator.
+
+Não desconheço o nexo causal das lesões sofridas pelo recorrente/recorrido e o acidente causado pelo preposto da empresa recorrida/recorrente e nem mesmo seu montante, uma vez que, como bem registrado no laudo pericial de fls. 244/247:
+
+[...] Membros superiores: Cicatrizes atróficas em axila, braço e ante braço direito; Restrição dos movimentos do punho direito com redução força motora da mão; Ligeira hipotrofia massa muscular mão direita; Movimentos de apreensão e de
+
+pinçamento preservados.
+
+[...]
+
+As sequelas estão consolidadas, são irreversíveis e resultam na perda parcial incompleta moderada da capacidade funcional da mão direita e estão associadas a dano estético devido as cicatrizes atróficas diversas no membro superior direito, classificadas como de grau moderado (3/7), em uma escala de 1 a 7 se considerados, topografia, sexo e realidade funcional.
+
+A incapacidade é parcial e permanente e restringe a capacidade laboral do Autor para atividades que não exijam grande esforço físico ou plena habilidade bimanual.
+
+Segundo circular SUSEP 029 de 20/12/1991 Art. 5, parágrafo primeiro as
+
+sequelas: "
+Perda incompleta da capacidade funcional de uma das mãos em grau médio
+" se traduz em redução da capacidade no percentual igual a 30% (trinta por cento).
+
+Ocorre que, num exame de proporcionalidade e razoabilidade, entendo como adequado o importe fixado em R$ 50.000,00 (cinquenta mil reais) na primeira instância, deixando de promover qualquer outra alteração em razão do não conhecimento do recurso da empresa apelante/apelada.
+
+No mais, quanto aos danos morais, em especial o seu
+quantum debeatur
+, peço vênia para divergir do entendimento do Em. Des. Ewerton Schwab Pinto Júnior.
+
+Saliento que pela corrente doutrinária prevalecente, o dano moral pode ser conceituado como uma lesão a direitos da personalidade que atinge o ofendido como pessoa, não atingindo seu patrimônio corpóreo, tendo previsão legal no art. 5º da Constituição Federal, nos arts. 11 a 21 do Código Civil e em diversos outros dispositivos do ordenamento pátrio, em rol exemplificativo.
+
+Com relação à sua quantificação, o sistema jurídico brasileiro adotou o critério de arbitramento, também conhecido como sistema aberto ou livre, por meio do qual, ao arbitrar a indenização por dano moral, deve o magistrado defini-lo no
+quantum
+mais adequado para o caso concreto, sempre considerando a extensão do dano, as condições socioeconômicas e culturais dos envolvidos, as condições psicológicas das partes e o grau de culpa do agente, de terceiro ou da vítima.
+
+Com o objetivo de evitar subjetivismos diante da aplicação do sistema aberto ou livre, o Colendo STJ vem adotando o método bifásico de arbitramento dos danos morais (AgInt no AREsp n. 2.141.882/SP, Rel. Min.
+MARCO AURÉLIO BELLIZZE
+, Terceira Turma, DJe 24/11/2022), o qual é constituído de 2 (duas) fases:
+Na primeira
+, cabe ao juiz fixar um valor básico da indenização de acordo com o interesse jurídico lesado e em conformidade com a jurisprudência consolidada sobre o tema.
+Na segunda
+, ocorrerá a fixação definitiva da indenização levando em conta as peculiaridades do caso concreto.
+
+Seguindo esta ideia, observo que ao fixar o importe indenizatório em R$ 150.000,00 (cento e cinquenta mil reais), com a devida vênia, entendo que não merece frutificar o entendimento do Em. Relator, Des. Ewerton Schwab Pinto Júnior.
+
+Na hipótese, é muito importante que se diga que a morte de uma mãe de família merece toda a atenção do Poder Judiciário, dada a relevância não somente dos fatos, como do grau de responsabilidade da empresa recorrente/recorrida.
+
+De plano, destaco que a finalidade principal da indenização por danos morais não é punir aquele que deu causa à ofensa aos direitos da personalidade da vítima, mas sim recompor o patrimônio do lesado.
+
+Não desconheço que a teoria do desestímulo ou teoria do
+punitive damages
+vem ganhando força em nossa Justiça. Porém, sua adoção sem as cautelas que o caso requer pode gerar ainda mais consequências negativas do que o próprio dano a ser indenizado.
+
+Exatamente por isso, valendo-me dos parâmetros anteriormente citados, entendo que o arbitramento da indenização por danos morais no importe estabelecido na instância
+a quo
+de R$ 50.000,00 (cinquenta mil reais) se mostra razoável e proporcional ao caso concreto.
+
+Exatamente neste rumo, vem seguindo a jurisprudência do Colendo Superior Tribunal de Justiça: AgInt no REsp n. 2.006.801/MG, Rel. Min.
+GURGEL DE FARIA
+, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023 e AREsp n. 598.512/PR, Rel. Min.
+HERMAN BENJAMIN
+, Segunda Turma, julgado em 24/11/2020, DJe de 18/12/2020.
+
+Por tais fundamentos, pedindo vênia ao Em. Relator, Des. Ewerton Schwab Pinto Júnior, entendo por bem em
+NEGAR PROVIMENTO
+ao recurso de
+Rafael Bispo Massini, não havendo que se falar em majoração da verba honorária
+.
+
+É como voto.
+
+*
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA (PRESIDENTE):-
+
+Neste caso teremos julgamento estendido e indago a eminente Desembargadora Janete Vargas Simões se tem condições de voto.
+
+*
+
+O SR. ADVOGADO JOSÉ GERALDO PINTO JÚNIOR:-
+
+Pela ordem. Tendo em vista o julgamento estendido, caberia, no caso, a sustentação oral?
+
+*
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA (PRESIDENTE):-
+
+Cabe sim.
+
+*
+
+O SR. ADVOGADO JOSÉ GERALDO PINTO JÚNIOR:-
+
+Gostaria de fazê-la.
+
+*
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA (PRESIDENTE):-
+
+Vossa Excelência está com a palavra.
+
+*
+
+O SR. ADVOGADO JOSÉ GERALDO PINTO JÚNIOR:-
+
+Boa tarde excelentíssimos Desembargador Relator; excelentíssimo Desembargador Presidente; excelentíssimas Desembargadoras, douto representante do Ministério Público; advogados e advogadas presentes e serventuários.
+
+A questão, como se põe, entendemos da mesma forma que o voto divergente da Desembargadora Marianne, uma vez que o aumento da condenação e dano moral se deu em 200% (duzentos por cento) do valor. São cinco ações, em que pese a morte da mãe de três dos autores, esposa de um dos autores e filha de um dos autores. São cinco processos, sendo cinco condenações.
+
+A condenação de R$ 150.000,00 (cento e cinquenta mil reais) chegaria a um dano moral a ser suportado pela empresa de R$ 750.000,00 (setecentos e cinquenta mim reais) isso em valores históricos, há dez anos, que seriam ainda computados juros e correção monetária. É uma penalização, a nosso ver, que foge à razoabilidade, inclusive à proporcionalidade.
+
+Entendemos que a manutenção da sentença na condenação de R$ 50.000,00 (cinquenta mil reais) para cada um dos autores é bastante, tanto para o suporte com relação à perda da genitora, esposa e filha, tanto quanto para a aplicação de uma pena à apelante/apelada, a empresa. Mais do que isso, seria agravar por demais sua condenação, mais do que entendemos como devido. É o que tenho a sustentar.
+
+*
+
+V I S T A
+
+A SRA. DESEMBARGADORA JANETE VARGAS SIMÕES:-
+
+Eminente Presidente, respeitosamente peço vista dos autos.
+
+*
+
+tnsr*
+
+CONTINUAÇÃO DO JULGAMENTO: 10/10/2023
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA (PRESIDENTE):-
+
+Este processo está em Técnica de Julgamento e por tal motivo concedo a palavra ao nobre advogado, caso queira se manifestar novamente.
+
+*
+
+O SR. ADVOGADO KAIO FERNANDES ARPINI:-
+
+Senhor Presidente, eminentes Desembargadores; o presente caso trata de cinco processos referentes ao mesmo acidente. De forma bem resumida, uma das partes seguia com sua família de Muqui, sentido a Porto Seguro e quando passava pelo Trevo de Pinheiros um caminhão, que estava no Trevo, não parou, cruzou a BR, acabando num trágico acidente em que o filho, que é o Rafael e um dos requerentes, ficou permanentemente incapacitado aos 18 anos. A Sra. Alda, mãe do Rafael, do Davi e da Maria Eduarda, veio a óbito naquele acidente.
+
+São cinco processos que tratam desse mesmo acidente. Enfim, naquela ocasião foi constatado pela PRF, e tem um croqui no processo, que o caminhão teria invadido o preferencial, que o motorista confessou ter ingerido bebida alcoólica, foi feito o teste do bafometro, que confirmou. Temos também uma testemunha ocular, que é o Sr. Marcelo, que vinha imediatamente atrás do carro da família e afirma que o Sr. Adriano não estava em alta velocidade, que o caminhão invadiu o preferencial sem parar e analisar, tomar as cautelas devidas, que se o caminhão tivesse parado, não teria ocorrido o acidente e que o local tem ampla visibilidade para ambos os lados de pelo menos dois quilômetros.
+
+Ajuizamos essas demandas na comarca de Muqui e a juíza de piso entendeu pela fixação de uma indenização de 50 mil reais para cada um dos requerentes e mais 50 mil reais, no caso do Rafael, pelo dano corporal e a incapacidade que sofreu.
+
+Apelamos por dois pontos, o primeiro deles é quanto à indenização pelos danos morais, a indenização dos danos corporais e também quanto aos honorários, que na sentença foi fixado em 10%. Tratarei de cada um desses pontos.
+
+A indenização por danos morais, sabemos que não se trata de uma tarefa fácil. A lei, muito embora garanta essa indenização, não traz os critérios bem definidos de como se aplicar de forma justa essa previsão da indenização. A jurisprudência e a doutrina, ao longo do tempo, consolidaram alguns critérios de forma a balizar e alcançar indenizações razoáveis e vou tratar de cada um deles, trazendo aqui os elementos do processo.
+
+O primeiro deles é a extensão do dano. Nesse caso falamos de uma família que acabou com um acidente, todos vivem hoje traumas psicológicos, o Rafael, um trauma físico, que impossibilita para inúmeras atividades um jovem, filhos que não vão conviver mais com a mãe, um viúvo que hoje também tem problemas psicológicos, então temos um dano aqui de grande extensão.
+
+O grau de culpa do agente seria um outro critério e aqui temos uma culpa no grau máximo. Tem-se um caminhoneiro que se diz um motorista profissional, que ingeriu bebida alcoólica, invadiu uma preferencial e acabou com essa família.
+
+Um outro critério que temos para balizar as demandas de indenização é a condição econômica do agente e aqui merece especial atenção, pois falamos de uma empresa que talvez seja maior dela a nível nacional, no setor, que tem um capital social que obviamente não corresponde ao patrimônio, mas enfim, é um capital social registrado de R$ 17 bilhões, é uma empresa que segundo a matéria publicada no site diário de Pernambuco em 2018 teria faturado mais de R$ 650 milhões, ou seja, mais de meio bilhão. É uma empresa com poder econômico muito grande.
+
+Outro critério que deve ser bem analisado é que as indenizações devem ser fixadas para cobrir a lesão, obviamente, mas também devem ostentar um caráter punitivo de forma a desestimular que condutas semelhantes ocorram, de forma a estimular que, no caso, a empresa promova campanha de conscientização dentro da própria corporação que não mantém os seus quadros funcionários com esse perfil e obviamente uma empresa que fatura isso no ano de 2018, uma média mensal aproximada de R $ 55 milhões, uma indenização de R$ 50 mil jamais vai alcançar um caráter punitivo.
+
+Desde a propositura da ação, desde a inicial e depois em réplica, depois em alegações finais e também na apelação, trouxemos vários julgados da STJ de casos semelhantes em que tem sido definido como indenização justa e razoável em casos análogos, algo em torno de 300 e 500 salários mínimos, como assevera o ministro Luiz Felipe Salomão, no agravo interno 1167316.
+
+Pois a indenização por danos morais, em ação de reparação de danos, para o caso de morte de cônjuge, ascendente e descendente, em primeiro grau, deverá ser equivalente a 500 salários mínimos. O valor atribuído pelo STJ que, em casos análogos de ação de indenização de genitores por morte de filho, fixa a indenização por danos morais em quantia equivalente a 500 salários mínimos para cada genitor. Então, uma indenização de R$ 50 mil, que vale apenas um décimo do que seria entendido como razoável pelo STJ, Tribunal responsável pela uniformização de nossa jurisprudência infraconstitucional.
+
+Da mesma forma, as apelações dizem respeito aos honorários, que em primeiro grau foram fixados em 10%. A gente está falando de um processo que levou mais de sete anos para ser sentenciado, hoje já conta com mais de oito anos, até o trânsito julgado certamente vai alcançar uns dez anos. É um processo que demandou inúmeras diligências, oitiva de testemunha em comarcas distantes, perícia, enfim, tudo que poderia ser feito na fase de instrução. A título de exemplo, os honorários de 10 % são fixados de forma inicial em uma ação de execução, que guarda muito menos complexidade do que um processo como esse.
+
+Então, a gente recorre também quanto aos honorários e também, em relação à indenização do Rafael, autor de um dos processos, no que diz respeito aos danos corporais, que o mesmo sofreu com acidente, também pedimos uma majoração.
+
+Trago a previsão do parágrafo 2º do artigo 942 do CPC, que trata da técnica de julgamento ampliado, seu parágrafo 2º diz que os julgadores que tiverem votado poderão rever seus votos por ocasião do prosseguimento do julgamento. Embora o ilustre relator já tenha votado tivemos também o voto de divergência e invoco esse parágrafo 2º do artigo 942 para, se possível, seja revisto, apesar do voto condutor já ter majorado o quantum indenizatório, entendemos que ainda está distante dos parâmetros fixados pelo STJ, e por isso solicitamos, dentro das possibilidades, a revisão. Muito obrigado.
+
+*
+
+V O T O
+
+(PEDIDO DE VISTA)
+
+A SRA. DESEMBARGADORA JANETE VARGAS SIMÕES:-
+
+Rememoro aos eminentes pares que a hipótese cuida de apelações cíveis interpostas contra sentença proferida pela Juíza de Direito da Vara Única de Muqui/ES que, apreciando Ação de Compensação por Danos Morais e Estéticos c/c Pedido de Pensão e tutela de urgência ajuizada por Adriano Massini Batista, julgou procedentes os pedidos autorais para condenar
+“[...]a empresa requerida COLOR VISÃO DO BRASIL INDÚSTRIA ACRÍLICA LTDA (COLORMAQ) a pagar ao autor: 1 - Pensionamento mensal na base de 1/4 (um quarto) do salário-mínimo, a partir da data do óbito (28/03/2013) até a data em que o autor completar 25 (vinte e cinco) anos, confirmando a tutela de urgência concedida nestes autos;[...]
+2 -
+a quantia de R$50.000,00 (cinquenta mil reais), a título de danos estéticos [...] e ao pagamento de pensão mensal vitalícia, no importe de 30% de um salário-mínimo[...]”
+, bem como
+“[...]3 - a quantia de R$50.000,00 (cinquenta mil reais), a título de danos morais[...]”.
+
+O eminente Relator entendeu por bem não conhecer do apelo de Color Visão do Brasil Indústria Acrílica Ltda (Colormaq) e prover o recurso de Rafael Bispo Massini
+“[...]a fim de majorar a indenização por danos morais para R$ 150.000,00 (cento e cinquenta mil reais)”
+, no que foi acompanhado pelo eminente Desembargador Júlio Cesar Costa de Oliveira.
+
+Em sequência, a eminente Desembargadora Marianne Júdice de Mattos inaugurou a divergência e acompanhou o eminente relator para
+“[...]não conhecer do apelo da empresa Color Visão do Brasil Indústria Acrílica Ltda, dada a sua deserção, assim como ao anular parcialmente a sentença quanto ao arbitramento de pensão vitalícia, dada a existência do vício extra petita[...]”
+, mas dele divergiu para manter o valor da indenização por danos morais em R$50.000,00 (cinquenta mil reais), nos moldes fixados pela sentença.
+
+Diante do julgamento não unânime vieram-me os autos com vistas, para fins do art. 30, RITJES c/c art. 942, CPC, e consigno, de logo, com a devida vênia ao eminente Relator, que da análise dos autos chego às mesmas conclusões externadas pela eminente Desembargadora Marianne Júdice de Mattos, no sentido de que as provas dos autos demonstraram que o preposto da demandada Color Visão do Brasil Indústria Acrílica Ltda (Colormaq), além de ter consumido bebida alcoólica antes do evento danoso,
+“[...]sua conduta ao atravessar a pista sem as cautelas necessárias e obstruí-la completamente com o caminhão é que tornam evidente a sua responsabilidade pelo acidente[...]”,
+bem como que
+“[...]o arbitramento da indenização por danos morais no importe estabelecido na instância a quo de R$50.000,00 (cinquenta mil reais) se mostra razoável e proporcional ao caso concreto[...]”
+, tal como entendeu o Magistrado singular.
+
+Pelo exposto, renovando vênias ao eminente Relator, acompanho integralmente o pronunciamento externado pela eminente Desembargadora Marianne Júdice de Mattos, para não conhecer do apelo de Color Visão do Brasil Indústria Acrílica Ltda (Colormaq) e negar provimento ao recurso de Rafael Bispo Massini.
+
+É como voto.
+
+*
+
+VISTA
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA:-
+
+Eminentes Pares, respeitosamente, peço vista dos autos.
+
+*
+
+cmv*
+
+CONTINUAÇÃO DO JULGAMENTO: 24/10/2023
+
+V O T O
+
+VISTA
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA:-
+
+Pedi vista dos autos para melhor examinar a controvérsia ora posta sob julgamento, no que pertine ao
+quantum
+a ser fixado a título de dano moral em razão de acidente de trânsito que vitimou a mãe do Autor, RAFAEL BISPO MASSINI, uma vez que restou reconhecida a responsabilidade civil da Ré (COLOR VISÃO DO BRASIL INDÚSTRIA ACRÍLICA LIMITADA).
+
+Pedindo
+vênia,
+desde logo
+,
+ao eminente Relator, Desembargador Ewerton Schwab Pinto Júnior (no que já foi acompanhado pelo eminente Desembargador Júlio César Costa de Oliveira), cheguei às mesmas conclusões manifestadas no voto divergente proferido pela eminente Desembargadora Marianne Júdice de Mattos (que também já foi acompanhada pela eminente Desembargadora Janete Vargas Simões), por entender que o
+quantum
+fixado a título de dano moral pelo Juízo
+a quo
+– R$ 50.000,00 (cinquenta mil reais) - atende aos parâmetros de razoabilidade e de proporcionalidade, considerando as circunstâncias do caso concreto.
+
+Destarte, e pedindo
+vênia
+ao eminente Relator, Desembargador Ewerton Schwab Pinto Júnior, acompanho o voto divergente apresentado pela eminente Desembargadora Marianne Júdice de Mattos para negar provimento ao recurso de RAFAEL BISPO MASSINI, bem como não conhecer do recurso de apelação de COLOR VISÃO DO BRASIL INDÚSTRIA ACRÍLICA LIMITADA em razão de sua deserção, e, de ofício, anular, parcialmente, a sentença hostilizada para dela (sentença hostilizada) decotar o arbitramento de pensão vitalícia, por se cuidar de julgamento
+extra petita.
+
+*
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+EMBARGOS DE DECLARAÇÃO N
+A APELAÇÃO CÍVEL
+N.º
+0000072-55.2015.8.08.0036
+
+EMBARGA
+NTE
+:
+
+RAFAEL BISPO MASSINI
+
+EMBARG
+A
+DO:
+COLOR VISÃO DO BRASIL ACRÍLICA LTDA.
+
+RELATORA: DESª. MARIANNE JÚDICE DE MATTOS
+
+VOTO
+
+Conforme relatado, t
+rata-se de
+Embargos de Declaração
+
+oposto por
+RAFAEL BISPO MASSINI
+
+contra v. acórdão (id.
+6458389
+), que, nos autos d
+a Apelação Cível
+,
+por maioria
+de votos, negou provimento ao recurso
+por ele
+interposto
+contra
+COLOR VISÃO DO BRASIL ACRÍLICA LTDA
+.
+
+Em suas razões
+(id.
+6888004
+),
+o
+E
+mbargante
+
+sustenta
+
+a existência do vício de
+omissão
+ante a suposta ausência de fundamentação no entendimento que firmou o
+quantum
+indenizatório
+. Afirma, ainda, que
+a fixação dos honorários sucumbenciais no patamar de 10% é desarrazoada
+.
+Ao final,
+suscita o prequestionamento.
+
+De início, calha frisar que os embargos de declaração são recurso de fundamentação vinculada, de modo que, na forma do artigo 1.022, do Código de Processo Civil, o seu cabimento está adstrito às hipóteses de obscuridade, contradição, omissão ou erro material na decisão judicial.
+
+Apesar da argumentação trazida
+pel
+o
+
+E
+mbargante,
+ao analisar breve trecho do voto componente do acórdão embargado, possível concluir que as questões devolvidas por ele foram devidamente enfrentadas e decididas no acórdão recorrido.
+
+Como prova disso,
+no tocante a suposta omissão no tópico
+referente ao
+quantum
+indenizatório
+dos danos morais,
+vale citar alguns trechos do acórdão
+objeto deste recurso
+(
+id.
+
+6050773
+)
+:
+
+“
+[...]
+Com relação à sua quantificação, o sistema jurídico brasileiro adotou o critério de arbitramento, também conhecido como sistema aberto ou livre, por meio do qual, ao arbitrar a indenização por dano moral, deve o magistrado defini-lo no
+quantum
+mais adequado para o caso concreto, sempre considerando a extensão do dano, as condições socioeconômicas e culturais dos envolvidos, as condições psicológicas das partes e o grau de culpa do agente, de terceiro ou da vítima.
+
+Com o objetivo de evitar subjetivismos diante da aplicação do sistema aberto ou livre, o Colendo STJ vem adotando o método bifásico de arbitramento dos danos morais (AgInt no AREsp n. 2.141.882/SP, Rel. Min.
+MARCO AURÉLIO BELLIZZE
+, Terceira Turma, DJe 24/11/2022), o qual é constituído de 2 (duas) fases: Na primeira, cabe ao juiz fixar um valor básico da indenização de acordo com o interesse jurídico lesado e em conformidade com a jurisprudência consolidada sobre o tema. Na segunda, ocorrerá a fixação definitiva da indenização levando em conta as peculiaridades do caso concreto.
+
+Seguindo esta ideia, observo que ao fixar o importe indenizatório em R$ 150.000,00 (cento e cinquenta mil reais), com a devida vênia, entendo que não merece frutificar o entendimento do Em. Relator, Des. Ewerton Schwab Pinto Júnior.
+
+Na hipótese, é muito importante que se diga que a morte de uma mãe de família merece toda a atenção do Poder Judiciário, dada a relevância não somente dos fatos, como do grau de responsabilidade da empresa recorrente/recorrida.
+
+De plano, destaco que a finalidade principal da indenização por danos morais não é punir aquele que deu causa à ofensa aos direitos da personalidade da vítima, mas sim recompor o patrimônio do lesado.
+
+Não desconheço que a teoria do desestímulo ou teoria do
+punitive damages
+vem ganhando força em nossa Justiça. Porém, sua adoção sem as cautelas que o caso requer pode gerar ainda mais consequências negativas do que o próprio dano a ser indenizado.
+
+Exatamente por isso, valendo-me dos parâmetros anteriormente citados, entendo que o arbitramento da indenização por danos morais no importe estabelecido na instância
+a quo
+de R$ 50.000,00 (cinquenta mil reais) se mostra razoável e proporcional ao caso concreto.
+
+Exatamente neste rumo, vem seguindo a jurisprudência do Colendo Superior Tribunal de Justiça: AgInt no REsp n. 2.006.801/MG, Rel. Min.
+GURGEL DE FARIA
+, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023 e AREsp n. 598.512/PR, Rel. Min.
+HERMAN BENJAMIN
+, Segunda Turma, julgado em 24/11/2020, DJe de 18/12/2020.
+”
+
+De igual maneira, no acórdão vergastado não se verifica omissão no tocante
+aos honorários sucumbenciai
+s, vejamos
+(id.
+6458389
+):
+
+Vot
+o do relator:
+“[...]
+Por fim, apesar de o apelante requerer a majoração do valor arbitrado a título de honorários advocatícios, entendo que o percentual de 10% (dez por cento) sobre o valor da condenação observou os critérios estabelecidos no § 2º, do art. 85, do CPC
+[...]”
+
+Voto divergente: “[...]
+
+Por tais fundamentos, pedindo vênia ao Em. Relator, Des. Ewerton Schwab Pinto Júnior, entendo por bem em
+NEGAR PROVIMENTO
+ao recurso de
+Rafael Bispo Massini, não havendo que se falar em majoração da verba honorária
+.”
+
+De mais a mais, saliento que o órgão julgador deve fundamentar seus acórdãos, ainda que sucintamente, porém, não possui obrigação de rebater pormenorizadamente todos os argumentos expedidos pelas partes, devendo enfrentar a demanda com observância nas questões relevantes à sua resolução.
+
+Assim, o
+julgamento está em conformidade com
+a
+tese fixada pelo Excelso Supremo Tribunal Federal sob a sistemática da repercussão geral
+:
+
+TEMA 339:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+
+Na mesma linha segue o entendimento do Superior Tribunal de Justiça, pelo qual “o
+julgador não é obrigado a se manifestar acerca de todos os pontos levantados pelas partes, mas apenas quanto àqueles que foram suficientes para a formação de seu juízo de convencimento”
+. (STJ. EDcl no REsp 1318851/BA, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 19/08/2014, DJe 26/08/2014).
+
+Com base em tudo isso, forçoso reconhecer que o objetivo da parte Embargante é rediscutir o mérito recursal, sob o argumento de que houve omissão deste Órgão Julgador, o que não se revela possível.
+
+Por fim, d
+estaco que, de acordo com o artigo 1.025 do C
+ódigo de Processo Civil, os pontos suscitados pela parte embargante passam a ser considerados prequestionados, mesmo que os embargos de declaração opostos nesta instância estadual tenham sido inadmitidos ou rejeitados, desde que a Corte Superior entenda pela existência dos vícios estampados no artigo 1.022 do mesmo
+Codex
+.
+
+Feitas estas considerações,
+CONHEÇO
+do recurso, mas, no mérito,
+NEGO-LHE PROVIMENTO
+.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+
+Sessão: 05/03/2024
+
+Des. Ewerton Schwab Pinto Júnior:
+acompanhar
+.
+
+Sessão de 05/3/2024.
+
+Voto: Acompanhar a relatora.
+
+Voto vogal Des.ª Janete Vargas Simões
