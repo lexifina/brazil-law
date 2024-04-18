@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA ÚNICA CRIMINAL DE CRATEÚS - CE suscita conflito de competência, em execução penal, diante do JUÍZO FEDERAL DA 22ª VARA DE CRATEÚS - SJ/CE.
+A controvérsia estabeelcida neste incidente processual se cinge a saber qual o juízo competente (federal ou estadual) para dar início ao processo executivo de réu, condenado pela Justiça Federal ao cumprimento de pena em regime fechado, mas que ainda não estaria submetido à estabelecimento prisional estadual, visto que não cumprido o mandado de prisão e, portanto, não iniciada efetivamente a execcução penal.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Única Criminal de Crateús - CE, ora suscitante (fls. 217-220).
+Decido.
+De início, registro a orientação desta Corte de que " a inda que o preso esteja foragido, e que a sentença penal condenatória não tenha transitado em julgado, compete ao juízo estadual da comarca do respectivo presídio onde o réu deverá cumprir a pena, proceder à execução da mesma" (CC n. 30.680/SC, relator Ministro José Arnaldo da Fonseca, Terceira Seção, julgado em 8/8/2001, DJ 8/10/2001, destaquei).
+No caso, embora o condenado ainda não esteja preso (o mandado de prisão não foi cumprido), nada impede que uma vez realizada a prisão seja expedida guia de recolhimento para execução da pena, cujo acompanhamento deverá ser realizado pelo Juízo estadual, conforme a jurisprudência consolidada no enunciado da Súmula n. 192 do STJ.
+Logo, a pendência da captura do réu não serve de óbice para que o acompanhamento da execução, após sua prisão obviamente, seja iniciada imediatamente pelo Juízo estadual, visto que o estabelecimento prsional a ser cumprida a pena está sujeito à Administração Estadual, até mesmo para que avalie, se for o caso, eventual benefício decorrente de possível prisão provisória ocorrida no curso do processo e, até mesmo o pedido de prisão domiciliar formulado pela defesa.
+No particular, precisa a afirmação do Ministério Público Federal, quando pontuou que "independentemente da expedição de guia derecolhimento para execução provisória, o acompanhamento da execução da pena imposta ao condenado deve ser realizado pelo Juízo Estadual, e não pelo Juízo Federal" (fl. 220).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única Criminal de Crateús - CE, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
