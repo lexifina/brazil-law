@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA PARA EXTINGUIR CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DA PARTE APELANTE DE QUE O TERMO DE TRANSAÇÃO CELEBRADO NA EXECUÇÃO NÃO ENGLOBAVA VERBA HONORÁRIA JÁ DECIDIDA EM SENTENÇA TRANSITADA EM JULGADO NA AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DA DÍVIDA, QUE JUNTAMENTE COM A EXECUÇÃO E OS EMBARGOS A ELA OPOSTOS COMPUNHAM O QUESTIONAMENTO DO DÉBITO EXEQUENDO. INTERPRETAÇÃO COM A SENTENÇA, DE QUE O TERMO DE TRANSAÇÃO ENVOLVIA AS TRÊS DEMANDAS, NO QUE RESPEITA AOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+RECURSO DESPROVIDO.
+Argumenta a parte recorrente, em síntese, que, "não obstante o Termo de Suspensão da Execução, na sua literalidade, ter tratado exclusivamente das verbas de sucumbência relacionadas ao processo de execução, o Tribunal a quo, por meio de incabível interpretação ampliativa, considerou, equivocadamente, que o aludido Termo de Suspensão teria o "escopo de pôr fim ao litígio de maneira global", valendo-se, para tanto, dos arts. 112 e 113 do Código Civil, dispositivos legais manifestamente inaplicáveis à hipótese presente. Realmente, a interpretação ampliativa, incorretamente utilizada pelo v. acórdão, terminou por negar vigência à legislação federal, notadamente aos arts. 114 e 843 do Código Civil e, ainda, ao Art. 24, §4º, da Lei Federal n.º 8.906/1994 (Estatuto da OAB)".
+Assim decidiu a Corte de origem acerca do tema controvertido, in verbis:
+Muito embora celebrado no bojo do processo de execução e referindo-se aos termos e expressões do processo de execução, entendo que a transação de fls. 104/107 refere-se às três demandas, quais sejam, à execução do termo de rescisão de contrato e confissão de dívida, aos embargos à execução e à ação declaratória de inexigibilidade da dívida, visto que as três contam com um único objetivo, qual seja, a exigibilidade pelo credor e a oposição pelo devedor da mesma dívida originária da mesma relação jurídica.
+O fato de ter sido anteriormente proferida sentença de julgamento de improcedência da ação declaratória com trânsito em julgado, inclusive com referência à decisão monocrática extintiva pelo reconhecimento da perda de objeto do recurso então interposto, sob a minha relatoria, não afeta essa conclusão, visto que o Termo de Suspensão tem evidente escopo de pôr fim ao litígio de maneira global.
+Repita-se, o ponto central da transação foi a extinção do litígio envolvendo as três demandas, não sendo cabível a interpretação de que não tendo sido feita alusão expressa à solução autônoma na ação declaratória esta não estaria englobada no acordo, visto que o objeto era inerente.
+Pela ótica do devedor, fácil antever que se estava resolvendo toda a questão e não deixando pontas soltas que ainda poderiam envolver cobranças autônomas, salientando-se que em toda transação as partes fazem concessões mútuas com vistas à extinção da controvérsia central(CC, artigo 840), não sendo de se estranhar, por conseguinte, que o acordo cingia-se a montantes e a honorários referentes à execução.
+De se conferir o enunciado do artigo 112 do Código Civil no sentido de que:
+"Nas declarações de vontade se atenderá mais à intenção nelas consubstanciada do que ao sentido literal da linguagem",
+bem como, o quanto disposto no artigo 113 do mesmo diploma, com as alterações introduzidas pela Lei nº 13.874 de 2019:
+Art. 113. Os negócios jurídicos devem ser interpretados conforme a boa-fé e os usos do lugar de sua celebração.
+§ 1º A interpretação do negócio jurídico deve lhe atribuir o sentido que: (Incluído pela Lei nº 13.874, de 2019)
+(..)
+III - corresponder à boa-fé; (Incluído pela Lei nº 13.874, de 2019)
+(..)
+V - corresponder a qual seria a razoável negociação das partes sobre a questão discutida, inferida das demais disposições do negócio e da racionalidade econômica das partes, consideradas as informações disponíveis no momento de sua celebração. (Incluído pela Lei nº 13.874, de 2019)
+Concluo com a sentença:
+".. Assim, imperioso concluir que os mencionados honorários sucumbenciais se referem à condenação sucumbencial havida no julgamento da ação declaratória de inexigibilidade, uma vez que, ausente condenação sucumbencial nos autos da ação de execução de título extrajudicial e tendo o acordo sido firmado em 25.03.2021(fls. 107) - portanto após a condenação sucumbencial (em01.09.2020 fls. 47) - o que se reconhece no item 3.5 é o valor dos honorários sucumbenciais nos quais fora condenada a executada quando do julgamento conjuntos das ações conexas" (fls. 207).
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao recurso especial. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
