@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por RESIDENCIAL VIVENDA DO BOSQUE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO INTERPOSIÇÃO CONTRA DECISÃO QUE INDEFERIU PEDIDO DE PENHORA MENSAL DE PERCENTUAL DO SALÁRIO RECEBIDO PELA EXECUTADA. IMPENHORABILIDADE DE SALÁRIOS, NOS TERMOS (LO ARTIGO 833, IV, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PROVA (LE QUE OS RENDIMENTOS DA EXECUTADA EXCEDAM CINQÜENTA SALÁRIOS-MÍNIMOS, CONDIÇÃO À APLICAÇÃO DO PARÁGRAFO 2O DO REFERIDO DISPOSITIVO LEGAL. CASO, ADEMAIS, QUE NÃO CORRESPONDE A CRÉDITO DECORRENTE (LE PRESTAÇÃO ALIMENTÍCIA. INAPLICABILIDADE DA EXCEÇÃO TRATADA NO ARTIGO 833, PARÁGRAFO 2º,DO CÓDIGO DE PROCESSO CIVIL. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 833, IV e § 2º, do CPC, no que concerne à possibilidade de penhora de percentual de verba salarial, eis que a medida não comprometerá a subsistência digna do devedor e de sua família, trazendo a seguinte argumentação:
+Analisando detidamente o acórdão da 33ª Câmara de Direito Privado do TJSP, nota-se o entendimento pelo descabimento da penhora na situação em que se discute débito não alimentar e cujos rendimentos auferidos pela devedora sejam inferiores a 50 salários mínimos, não se permitindo a flexibilização da lei.
+Entrementes, o entendimento do TJSP contraria claramente jurisprudência do STJ, bem como indev idamente chancela o "calote", pois, ainda que em condições de pagamento, sem prejuízo à dignidade da pessoa humana, a RECORRIDA não seria compelido a satisfazer o c rédito.
+Justamente para evitar situações como esta que o Superior Tribunal de Justiça decidiu ser excepcionalmente possível penhorar verba salarial..
+ ..
+No caso discuti do neste recurso especial, a RECORRIDA, mesmo com a penhora no percentual de 30% sobre sua remuneração, ainda assim terá um padrão de vida acima da média das famílias brasileiras.
+Isso porque, considerando o recebimento mensal de R$ 6.942,28 (Ref. 2022) , mesmo com a penhora de 30%, ainda terá à disposição da RECORRIDA o equivalente a 3,68 salários mínimos (R$ 4.857,60). (fls. 62-63).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Todavia, no caso concreto, nada há nos autos que demonstre que a agravada perceba valores excedentes a cinquenta salários-mínimos mensais, aliás, valores acima da média da remuneração nacional.
+Não é só, pois o crédito executado decorre de título executivo judicial formado em decorrência, e como um desdobramento, da ação de exigir contas, ou seja, também não há qualquer demonstração de que o crédito se refira a prestação alimentícia.
+Portanto, não se extrai qualquer situação, no caso concreto, para excepcionar ou relativizar, como se preferir, a regra geral da impenhorabilidade dos salários, rejeitando-se a ventilada inobservância aos julgados proferidos pela Corte Superior, por não possuírem efeito vinculante (fls. 55-56).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
