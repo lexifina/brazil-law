@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Marcos Roberto Santos de Oliveira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0006926-16.2023.8.26.0026).
+Consta dos autos que, em 23/8/2023, o Juízo da Vara de Execuções Criminais da comarca de Bauru/SP - DEECRIM 3ª RAJ, no PEC n. 0016260-73.2016.8.26.0041, n. 0000192-17.2018.8.26.0158, n. 0001550-88.2019.8.26.0026, n. 0007818-50.2018.8.26.0041 e n. 0008799-90.2019.8.26.0026, deferiu o pedido de progressão ao regime aberto formulado em favor do paciente e em seguida concedeu a prisão albergue domiciliar (fls. 22/24).
+O Tribunal paulista deu provimento ao recurso ministerial em 25/3/2024, para cassar a decisão do magistrado singular e determinar a realização do exame criminológico (fls. 25/31).
+Daí a presente impetração, em que se alega constrangimento ilegal em razão da ausência de fundamentação do acórdão combatido e pelo fato de o paciente preencher os requisitos necessários para obter a progressão ao regime aberto, sem a necessidade de realização do exame criminológico.
+Requer-se, liminarmente e no mérito, seja deferido ao paciente a progressão ao regime aberto, mesmo com determinação de realização do exame criminológico.
+Os autos vieram a mim conclusos por prevenção de Turma (HC n. 730.075/SP).
+É o relatório.
+É certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a apelação criminal, a recurso especial, a agravo em execução, recurso em sentido estrito, tampouco deve vir como sucedâneo de revisão criminal.
+A ilegalidade passível de justificar a impetração desse remédio constitucional deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão em fatos e provas da ação penal ou exijam dilação probatória, inclusive no que diz respeito à execução penal.
+Pela rápida leitura do acórdão impugnado, verifica-se que a determinação da submissão do paciente ao exame criminológico teve como base, entre outros fatores, fatos ocorridos durante a execução penal (fl. 30 - grifo nosso):
+ ..
+Ademais, de acordo com a Súmula nº 439, do Superior Tribunal de Justiça, "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". No mesmo sentido a Súmula Vinculante nº 26.
+Outrossim, no caso em apreço, além da gravidade dos fatos imputados ao sentenciado, dois praticados com violência ou grave ameaça contra pessoa, verifica-se que, durante o cumprimento das penas respectivas, cometeu novo delito no curso do regime aberto além de ter sido preso em flagrante quando estava no regime aberto, o que demonstra ainda mais a necessidade de realização da aludida perícia.
+Assim, a realização do exame criminológico é recomendável antes da concessão da progressão, devendo o sentenciado retornar ao regime no qual se encontrava, onde deverá aguardar a realização do laudo pericial, uma vez que a progressão se deu sem a verificação do requisito subjetivo, o que não poderia ocorrer.
+Ora, o histórico carcerário conturbado (prática de novo crime durante o cumprimento do regime aberto) é motivo suficiente por si só para justificar a necessidade da perícia em questão. Sobre o tema, entre outros, AgRg no HC n. 805.754/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/5/2023 e este, pela ementa:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO REQUISITO SUBJETIVO. SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO DEVIDAMENTE FUNDAMENTADA. ELEMENTOS CONCRETOS. HISTÓRICO PENAL CONTURBADO. PRÁTICA DE NOVO DELITO NO GOZO DO BENEFÍCIO DO LIVRAMENTO CONDICIONAL ANTERIORMENTE DEFERIDO. 1. A nova redação dada ao art. 112 da Lei n. 7.210/1984, pela Lei n. 10.792/2003, suprimiu a realização de exame criminológico como expediente obrigatório para aferição do requisito subjetivo para fins de progressão de regime, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+2. Contudo, o magistrado de primeiro grau, ou mesmo o Tribunal, diante das circunstâncias do caso concreto, pode determinar a realização de exame criminológico para a comprovação do mérito do apenado para fins de progressão de regime prisional.
+3. De acordo com a Súmula 439/STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+4. Na questão em análise, as instâncias ordinárias lograram fundamentar a necessidade do exame criminológico, invocando elementos concretos dos autos, sobretudo que o paciente registra a prática de novo delito durante o período de livramento condicional no curso da execução, o que demonstra acentuada periculosidade, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+5. Habeas corpus denegado.
+(HC n. 357.789/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2017).
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. AFERIÇÃO DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. FATOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA. HISTÓRICO PENAL CONTURBADO. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
