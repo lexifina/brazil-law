@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por LATICINIOS BELA VISTA LTDA., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 152):
+TUTELA CAUTELAR EM CARÁTER ANTECEDENTE. Pedido de liminar de sustação de protesto e vedação de negativação do nome. Indeferimento da tutela. Citação da ré que apresentou contestação e reconvenção. Sentença de improcedência da ação e de extinção do pedido reconvencional sem apreciação do mérito, com base no art. 485, IV do CPC. Pretensão do réu reconvinte de reforma. DESCABIMENTO: Ausência de formulação do pedido principal, nos termos do art. 310 do CPC. Impossibilidade de apresentação de reconvenção em processo cautelar. Sentença mantida. HONORÁRIOS ADVOCATÍCIOS. Insurgência da ré reconvinte contra a condenação em honorários da tutela cautelar e na reconvenção Pretende a readequação dos honorários advocatícios fixados na cautelar e na reconvenção. CABIMENTO EM PARTE: É cabível a majoração, por equidade, dos honorários advocatícios fixados na tutela cautelar, com base no art. 85, §8º do CPC,contudo, não é possível a redução dos honorários advocatícios fixados na reconvenção, que devem atender ao disposto no art. 85, § 2º do CPC. Sentença reformada em parte. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 159-168), a agravante alegou violação aos arts. 85, §§ 2º e 8º, 310, 327, I, § 1º e § 2º, 343 do CPC/2015.
+Sustentou, em síntese, que "impertinente a prematura extinção da reconvenção sem resolver seu mérito ao fundamento de incompatibilidade de rito. Isso pura e simplesmente pela inexistência de previsão legal nesse sentido, explica-se: a norma instrumental civil nada prevê expressamente quanto a exigibilidade de compatibilidade de ritos para admissão de pedido reconvencional" (e-STJ, fls. 162-163).
+Defendeu que "o pleito cautelar foi indeferido o que não constitui empecilho ao pedido principal, o que, igualmente de consequência, acarretaria a apreciação da reconvenção" (e-STJ, fl. 165).
+Asseverou que a decisão deve adequar, proporcionalmente e equitativamente o valor atribuído aos honorários sucumbenciais na reconvenção.
+Contrarrazões não apresentadas (e-STJ, fl. 172).
+O recurso especial teve seguimento negado em parte e foi parcialmente inadmitido, sendo interposto apenas o presente agravo em recurso especial (e-STJ, fls. 178-185).
+Contraminuta não apresentada (e-STJ, fl. 188).
+Brevemente relatado, decido.
+Conforme acima salientado, em parte foi negado seguimento ao recurso especial, nos termos do art. 1.030, b, do CPC/2015, haja vista que a questão relativa à fixação dos honorários advocatícios por equidade foi decidida na Corte estadual em conformidade com precedente firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo (Tema 1.076).
+Assim, não merece conhecimento o presente agravo nesse ponto.
+Isso porque se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Corte no julgamento do AREsp n. 959.991/RS, desta relatoria, julgado em 16/8/2016 e publicado em 26/8/2016.
+Nesse sentido, dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instância a quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Nesse sentido (sem destaque no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO (ART. 1.042, DO CPC/15) PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos do art. 1.030, I, "b", do CPC/15, não cabe a interposição de recurso ao STJ para impugnar ato decisório que denega seguimento ao recurso especial, sob o fundamento de estar o acórdão recorrido em consonância com o entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+ ..
+(AgInt no AREsp 1.917.218/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO CUMULADA COM REVISIONAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA284/STF. IMPUGNAÇÃO POR MEIO DE AGRAVO INTERNO. AUSÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de consignação em pagamento cumulada com revisional.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I, b, § 2º, c/c o art. 1.021 do CPC/15).
+ ..
+(AgInt no AREsp 1.895.566/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Ademais, no que toca ao capítulo do recurso em que a agravante alega que não há incompatibilidade entre os ritos, verifica-se que os dispositivos de lei apontados como violados não possuem comando normativo apto para infirmar os fundamentos do acórdão recorrido, de modo que incide o óbice da Súmula 284 STF.
+Isso porque, nem o magistrado de primeiro grau nem o acórdão recorrido entenderam ser caso de aplicação do parágrafo único do art. 305 do CPC, uma vez que o pedido apresentado na inicial teve nítido intuito cautelar não se confundindo com a hipótese de tutela antecipada, bem como é incontroverso que não houve indicação do pedido principal (ou de tutela final) na petição inicial.
+Sendo assim, não é caso de verificação de incompatibilidade de ritos, mas sim pelo fato de que não foi apresentado pedido principal na hipótese dos autos. Veja-se (e-STJ, fls. 154-156 - sem destaque no original):
+A apelada ajuizou "procedimento de tutela cautelar requerida em caráter antecedente com pedido de liminar" pleiteando a concessão de tutela antecipada de urgência para determinar a sustação dos efeitos do protesto e a vedação à inscrição do seu nome nos órgãos de proteção ao crédito.
+A decisão de fl. 33 indeferiu a tutela pleiteada,determinando a citação da ré, bem como a conclusão dos autos para análise da emenda da inicial ou extinção do processo.
+A autora emendou a inicial a fls. 36/37, 40/41 e 45/48, apenas para incluir ao pedido outros protestos.
+A ré apresentou, a fls. 49/56, contestação e pedido reconvencional.
+Depreende-se da certidão de fl. 109 que a autora reconvinda não se manifestou sobre a contestação e a reconvenção, bem como deixou de especificar provas, conforme determinação de fl. 102.
+Na sequência, foi proferida a r. sentença recorrida.
+O art. 308 do CPC estabelece que "efetivada a tutela cautelar,o pedido principal terá de ser formulado pelo autor no prazo de 30 (trinta) dias, caso em que será apresentado nos mesmos autos em que deduzido o pedido de tutela cautelar, não dependendo do adiantamento de novas custas processuais" (g.n.).
+E o art. 310 do CPC ressalta que "o indeferimento da tutela cautelar não obsta a que a parte formule o pedido principal, nem influi no julgamento desse, salvo se o motivo do indeferimento for o reconhecimento de decadência ou de prescrição" (g.n.).
+Por sua vez, o art. 343 do CPC dispõe que "na contestação, é lícito ao réu propor reconvenção para manifestar pretensão própria, conexa com a ação principal ou com o fundamento da defesa".
+Entretanto, como visto, não houve apresentação do pedido principal, restando apenas o pedido cautelar antecedente.
+Ocorre que não cabe reconvenção no processo cautelar antecedente.
+Haveria possibilidade de formulação de pedido reconvencional por ocasião da resposta ao pedido principal, que,contudo, não foi efetivado nos autos. Não existe nos autos pedido principal para o devido prosseguimento do processo pelo rito ordinário.
+(..)
+Assim, diante da inexistência de pedido principal, é descabido o conhecimento do pedido reconvencional formulado pela apelante.
+Desse modo, o acórdão recorrido decidiu em conformidade com o entendimento desta Corte de que "Desatendido o prazo legal, a medida cautelar concedida perderá a sua eficácia (art. 309, I, do CPC/2015) e o procedimento de tutela cautelar antecedente será extinto sem exame do mérito" (REsp n. 2.066.868/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 26/6/2023).
+Além disso, quanto à violação ao art. 327 do CPC/2015, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem.
+Ante o exposto, conheço parcialmente do agravo para, nessa extensão, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. TUTELA CAUTELAR ANTECEDENTE. AUSENTE O PEDIDO PRINCIPAL. RECONVENÇÃO. NÃO CABIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. MATÉRIA EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE SUPERIOR. ART. 327 NÃO PREQUESTIONADO. SÚMULA 211/STJ. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
