@@ -1,0 +1,36 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 21-22 (e-STJ).
+CRISTIANO SANTOS DE ALMEIDA foi condenado a cumprir a pena de 01 ano, 11 meses e 10 dias de reclusão, em regime inicial fechado, e a pagar o valor correspondente a 18 dias-multa em seu mínimo unitário, por infração ao disposto no artigo 155, "caput", do Código Penal.
+Inconformado o réu apela, buscando a redução da pena e a fixação de regime prisional mais brando.
+Recurso bem processado, com resposta.
+A Procuradoria de Justiça opinou pelo desprovimento do apelo.
+Insurge-se o impetrante em face do seguinte acórdão (e-STJ Fl. 21) :
+Apelação da Defesa - Furto simples - Provas suficientes à condenação -- Confissão do réu nas duas fases da persecução penal- Consistentes declarações da representante da vítima - Condenação mantida - Pena-base estabelecida acima do mínimo legal com fundamento nos maus antecedentes - Compensação parcial entre as circunstâncias agravante da multirreincidência específica e atenuante da confissão espontânea, mantido o acréscimo da pena em 2/3 - Regime inicial fechado adequado à vida pregressa do apelante - Inviabilidade da substituição das penas privativas de liberdade por penas restritivas de direitos - Recurso de apelação desprovido.
+Afirma, em suma, equívoco na dosimetria da pena.
+Postula a readequação dos parâmetros utilizados para o estabelecimento da reprimenda.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.). Grifos acrescidos.
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+É cediça a jurisprudência deste Superior Tribunal de Justiça no sentido de que "(..) A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade. (..)" (HC 595958 / SP, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/08/2020, DATA DA PUBLICAÇÃO/FONTE DJe 24/08/2020)
+Ou seja, a revisão da dosimetria em sede de "habeas corpus" "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+Afirma a impetração, de saída, "em se tratando de condenações distintas, o reconhecimento, concomitantemente, de maus-antecedentes e reincidência, configura bis in idem". (e-STJ Fl.7)
+Contudo, "É assente nesta Corte a possibilidade de utilização de diferentes condenações para caracterização simultânea de reincidência e maus antecedentes, desde que não haja concomitante adoção de um mesmo fato gerador para efeito de maus antecedentes e reincidência, sem que isso configure bis in idem. (AgRg no HC n. 715.063/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/5/2022)." (AgRg no HC 732603 / SP, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 16/08/2022, DATA DA PUBLICAÇÃO/FONTE DJe 22/08/2022)
+Inexiste, portanto, ilegalidade a ser reparada no particular, sendo certo que a reanálise d as frações utilizadas demanda inviável dilação probatória no "writ".
+Por fim, a impetração aponta ilicitude no estabelecimento do regime inicial de cumprimento de pena.
+Há de se relembrar, quanto ao tema, que "(..) Em relação ao regime inicial de cumprimento de pena, certo é que, desde o julgamento do HC n. 111.840/ES, Rel. Min. Dias Toffoli, DJe de 17/12/2013, pelo STF, que declarou a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/90, com redação dada pela Lei n. 11.464/07, o Tribunal da Cidadania firmou entendimento de que o julgador deve observar o disposto no art. 33, §§ 2º e 3º, do Código Penal, quando da fixação do regime inicial de cumprimento da pena privativa de liberdade, independentemente de o crime ser hediondo ou equiparado. (..)" (AgRg no HC 839735 / SP, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 05/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 11/12/2023)
+No caso concreto, o estabelecimento do regime inicial repousou nas seguintes considerações (e-STJ Fl.25):
+Por derradeiro, o regime fechado para o início do cumprimento de penas fica mantido, até mesmo porque adequado à vida pregressa do apelante.
+Conquanto não se desconheça o teor da Súmula n. 269 do Superior Tribunal de Justiça, as circunstâncias judiciais são desfavoráveis ao réu, cujas condenações anteriores não bastaram a que se emendasse.
+No caso concreto, a pena do paciente restou totalizada em 01 ano, 11 meses e 10 dias de reclusão não foi arbitrada no mínimo legal, a indicar a existência de circunstâncias judiciais desabonadoras.
+Observa-se, ademais, o apontamento de multirreincidência, inclusive específica, durante a segunda etapa do arbitramento da pena, de modo que "Embora a pena aplicada seja inferior a 4 anos, a reincidência e o registro de maus antecedentes justificam a aplicação do regime inicial fechado, não incidindo, na espécie, o teor da Súmula n. 269 do STJ. " (AgRg no AgRg nos EDcl nos EDcl no AREsp 2240802 / SC, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 05/09/2023, DATA DA PUBLICAÇÃO/FONTE DJe 11/09/2023)
+Ante  o  exposto,  não conheço do "habeas corpus".
+Publique-se . Intimem-se.
+Ciência ao Ministério Público Federal.
+EMENTA
