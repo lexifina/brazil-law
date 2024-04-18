@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO ITAÚCARD S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 115):
+APELAÇÃO CÍVEL Interposição contra sentença, que julgou extinta, sem resolução do mérito, com fundamento no artigo 485, I e VI, do Código de Processo Civil, ação de busca e apreensão. Alienação fiduciária. Mora não caracterizada. Aplicação da Súmula n.º 72 do Superior Tribunal de Justiça. Sentença mantida.
+Rejeitados os embargos de declaração opostos (fls. 125-131).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 2º, § 2º, e 3º, DL n. 911/1969, sustentando que deve ser considerada válida a notificação expedida no endereço contratado, para constituição em mora do devedor.
+Alega que, nos termos do Tema Repetitivo 1.132, para a comprovação da mora nos contratos garantidos por alienação fiduciária, seria suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no contrato.
+Sem contrarrazões ao recurso especial. Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 147-149), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+No mérito, o acórdão recorrido está divergente da atual jurisprudência do STJ.
+A controvérsia versada neste recurso especial diz respeito aos requisitos necessários para comprovação da mora em ação de busca e apreensão decorrente de inadimplemento em contrato de financiamento garantido por alienação fiduciária.
+Nos termos do art. 2º, § 2º, do Decreto-Lei n. 911/1969, a mora nos contratos de alienação fiduciária "decorrerá do simples vencimento no prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+Essa questão de direito foi afetada à Segunda Seção como representativa de controvérsia e julgada sob o rito do art. 1.036 do Código de Processo Civil, em 9/8/2023, conforme acórdãos proferidos nos Recursos Especiais n. 1.951.888/RS e 1.951.662/RS, fixando-se a seguinte tese:
+Tema 1.132: Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+No referido julgamento, prevaleceu a tese proposta pelo Ministro João Otávio de Noronha, segundo a qual a formalidade que a lei exige do credor para ajuizamento da ação de busca e apreensão é, tão somente, a prova do envio da notificação, via postal e com aviso de recebimento, ao endereço do devedor indicado no contrato, sendo desnecessária a prova do recebimento.
+Dessa forma, comprovado o envio:
+ ..  não cabe perquirir se a notificação será recebida pelo próprio devedor ou por terceiros, porque essa situação é mero desdobramento do ato, já que a formalidade exigida pela lei é a prova do envio ao endereço constante do contrato. Assim, se o devedor pretender eximir-se do recebimento da notificação e, para tanto, ausentar-se, isso é igualmente indiferente.
+Na mesma linha, não é exigível que o credor se desdobre para localizar o novo endereço do devedor. Ao contrário, cabe ao devedor que mudar de endereço informar a alteração ao credor.
+Isso se dá porque, ao formalizar um contrato com garantia da alienação fiduciária, já tem o devedor plena consciência das regras e das consequências do não pagamento. Inclusive, ao dar a garantia, ele já sabe que, até o final do contrato, deixa de ter a efetiva propriedade do bem, pois transfere ao credor fiduciário, durante a vigência do contrato, a propriedade e até mesmo o direito de tomar posse do bem, caso ocorra o inadimplemento da obrigação.
+ ..
+Essa conclusão abarca como consectário lógico situações outras igualmente submetidas à apreciação deste Tribunal, tais como quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato.
+No caso em análise, o Tribunal a quo manteve a sentença que extinguiu a ação de busca e apreensão, sem resolução do mérito, considerando ineficaz, para comprovação da mora, a notificação enviada pelo recorrente ao endereço do recorrido indicado no contrato, por ter retornado com a informação "ausente", conforme se extrai do seguinte excerto (fls. 116-117 ):
+No caso dos autos, o autor juntou com a inicial a notificação extrajudicial. Porém, nela constou a seguinte informação: "destinatário não procurado", conforme o aviso de recebimento de fls. 29.
+Concedida oportunidade por parte do MM. Juiz às fls. 41/42, para que o autor juntasse aos autos a documentação probatória da notificação prévia e pessoal da devedora, sobreveio decurso do prazo para tal.
+Note-se, não se trata sequer daqueles casos em que constatado que o devedor mudou do endereço ou que a notificação tenha sido entregue no endereço fornecido em contrato a alguém que porventura lá se encontrava. Há que se considerar, portanto, que a notificação não foi entregue à devedora, assim, forçoso concluir-se, com base na presente fundamentação, que não restaram preenchidos os requisitos estampados pelo artigo 2º, § 2º, do Decreto-Lei nº 911/69,para comprovação da mora.
+Nesse cenário, verifica-se que o acórdão recorrido está contrário à orientação firmada no Tema 1.132/STJ.
+No mesmo sentido, citam-se as seguintes decisões monocráticas: REsp n. 2.126.813, relator Min. João Otávio de Noronha, DJe de 12/2/2024 e AREsp n. 2.451.617, relatora Ministra Nancy Andrigui, DJe de 11/9/2023.
+Ante o exposto conheço do agravo para dar provimento ao recurso especial nos termos da fundamentação acima expendida.
+Publique-se. Intimem-se.
+EMENTA
