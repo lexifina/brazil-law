@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por RENATO ARCANJO MOREIRA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (e-STJ, fls. 312-322).
+Em suas razões recursais, a parte recorrente aponta violação do art. 163, parágrafo único, III, do Código Penal. Aduz para tanto, em síntese, que "é necessária uma especial finalidade por parte de quem dolosamente danifica coisa alheia consubstanciada na intenção específica de causar prejuízo à vítima (animus nocendi)" (e-STJ, fl. 339), circunstância não demonstrada nos autos. Afirma ser atípica a conduta imputada, ao que requer a absolvição.
+Com contrarrazões (e-STJ, fls. 373-386), o recurso especial foi inadmitido na origem (e-STJ, fls. 389-390), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso (e-STJ, fls. 433-436).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Ao afastar a tese absolutória, o Tribunal de origem o fez nos seguintes termos:
+"No caso concreto o deslinde compatibilizou-se com o conjunto probatório.
+O conteúdo ideológico das provas produzidas à luz do contraditório e da ampla defesa reveste-se de inafastável veracidade, prevalecendo dialeticamente sobre os argumentos expendidos nas razões recursais.
+A realidade do delito de dano qualificado resulta de prova firme e harmônica, consistente sobretudo no Boletim de Ocorrência (fls. 08/13), no laudo pericial de fls. 88/92 ("CONSTATAÇÃO DE DANOS NAS DEPENDÊNCIAS DO 31º DISTRITO POLICIAL"), bem como nos depoimentos dos policiais militares Marcos Alves da Silva e Fernanda Lais de Freitas (fls. 03, 04 e mídia digital).
+ .. .
+Fazem eco a seu testemunho os de Fernanda Lais, citada colega de farda que participou da diligência (fls. 04 e mídia digital).
+Cumpre anotar que o referido laudo pericial atestou a "quebra de um vidro da janela de uma sala no interior do Distrito Policial. A disposição dos estilhaços constatada indicava que o vidro foi quebrado de fora para dentro" (fls. 88/92).
+Anote-se ainda que Renato, silente na fase inquisitiva (fls. 07) e revel em Juízo (fls. 208), desperdiçou por completo a oportunidade de explicar o comportamento inquinado.
+Como se vê, não resta a mais pálida dúvida acerca da responsabilidade criminal que cabe ao apelante:- a condenação pelo delito que foi objeto de impugnação realmente exsurgia como medida de rigor" (e-STJ, fls. 317-319).
+De acordo com o entendimento desta Corte Superior "para a caracterização do crime tipificado no art. 163, parágrafo único, III, do Código Penal, é imprescindível o dolo específico de destruir, inutilizar ou deteriorar coisa alheia, ou seja, a vontade do agente deve ser voltada a causar prejuízo patrimonial ao dono da coisa, pois, deve haver o animus nocendi" (AgRg no REsp n. 1.722.060/PE, relator. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 2/8/2018, DJe 13/8/2018).
+No caso, as instâncias ordinárias concluíram restar devidamente caracterizado o ilícito, na medida em que o réu, após ser algemado em uma barra de ferro no interior da unidade prisional, chutou o vidro da Delegacia de Polícia com intenção de danificá-lo, restando devidamente caracterizado o "animus nocendi". Desse modo, a alteração do julgado, tal como pleiteado pela defesa, demandaria o reexame do acervo fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ. A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DANO QUALIFICADO. DOLO ESPECÍFICO. EXIGÊNCIA LEGAL. CONSTATAÇÃO NA ORIGEM. REEXAME PROBATÓRIO. INVIABILIDADE.
+1. Na linha da jurisprudência do Superior Tribunal de Justiça, para que se possa falar em crime de dano qualificado contra patrimônio da União, Estado ou Município, mister se faz a comprovação do elemento subjetivo do delito, qual seja, o "animus nocendi", caracterizado pela vontade de causar prejuízo ou dano ao patrimônio público, o que se verifica na espécie, pois o paciente destruiu o patrimônio em momento de descontrole, não tendo sido mencionada na sentença ou no acórdão a vontade de empreender fuga.
+2. Constatando as instâncias ordinárias que comprovada a caracterização do delito de dano qualificado, bem como a vontade livre e voluntária de danificar o patrimônio público, inviável a análise por esta Corte, pois, para se chegar a conclusão diversa, seria necessário o reexame do conjunto fático-probatório, o que é incabível na via estreita do habeas corpus.
+3. Agravo regimental improvido".
+(AgRg no HC n. 755.215/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DANO QUALIFICADO. DOLO ESPECÍFICO. EXIGÊNCIA LEGAL. CONSTATAÇÃO NA ORIGEM. REEXAME PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE EM RESTRITIVA DE DIREITOS. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O princípio da insignificância é inaplicável aos crimes contra a administração pública.
+III - In casu, as instâncias de origem demonstraram, com dados empíricos e incontroversos, a presença do elemento subjetivo específico, qual seja, o animus nocendi, que consiste na vontade deliberada do paciente em causar prejuízo ao patrimônio alheio.
+Segundo consta nos autos, o paciente provocou o dano no vidro como forma de externar sua insatisfação com o atendimento. Nesse diapasão, inexiste flagrante ilegalidade a ser sanada pelo writ, eis que as instâncias de origem demonstraram, com as provas testemunhais, a atuação dirigida à produção de prejuízo ao patrimônio do município. Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+IV - Nos limites cognitivos do habeas corpus, inexiste manifesta desproporcionalidade ou flagrante ilegalidade perpetrada pela autoridade coatora, a ponto de ensejar a concessão da ordem de ofício, de modo que, considerando que o crime de dano já estabelece a pena de multa, a medida restritiva de direito se mostra adequada ao presente caso.
+Agravo regimental desprovido".
+(AgRg no HC n. 676.181/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
