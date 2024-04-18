@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 6º do Código de Processo Civil; 421 do Código Civil; e 51, IV, do Código de Defesa do Consumidor. O acórdão recorrido está retratado na seguinte ementa (fl. 201):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO POR TÍTULO EXECUTIVO EXTRAJUDICIAL. EMPRÉSTIMO CONSIGNADO. TÍTULO GARANTIDO POR SEGURO PRESTAMISTA. POSTERIOR INCAPACIDADE PARA OS ATOS DA VIDA CIVIL. NECESSIDADE DE ACIONAR A COBERTURA DO SEGURO, JUNTO À SEGURADORA, COMPROVANDO SITUAÇÃO COBERTA PELO SEGURO CONTRATADO. IMPROCEDÊNCIA DOS EMBARGOS.
+1. O seguro prestamista tem coberturas expressamente contratadas, cujas condições gerais e particulares podem variar de acordo com a apólice.
+2. Para ter acesso a cobertura é necessário que o segurado ou seu representante acione a companhia seguradora, comprovando situação coberta pelo seguro contratado, para somente então ser imposta a obrigação de pagamento do empréstimo à empresa seguradora.
+3. O Embargante não comprovou os fatos constitutivos do seu direito, devendo ser julgados improcedentes os presentes embargos.
+4. PROVIMENTO AO RECURSO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 237):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. 1. Assiste parcial razão ao Embargante, devendo ser reconhecido a omissão, na forma do art. 1.022, inciso II do CPC. 2. Deve ser reconhecida a condição suspensiva de exigibilidade das verbas sucumbenciais, considerando que a parte ré beneficiária de gratuidade de justiça. 3. No mais, longe de se pretender aclarar qualquer obscuridade, omissão ou esclarecer contradição eventualmente existente, busca o Embargante a modificação do julgado a partir do reexame da matéria já apreciada, pela ótica que entendem ser a mais correta. 4. EMBARGOS DE DECLARAÇÃO PARCIALMENTE PROVIDOS.
+Sustenta a parte agravante, em síntese, que "o título executivo extrajudicial é inexigível em face da Recorrente, devendo ser cobrado o valor devido após a interdição da embargante à Cia seguradora que, neste caso, coincide com o Embargado/Recorrido, uma vez que integrante do mesmo Grupo Econômico, conforme o contrato de seguro estipulado entre as partes" (fl. 259).
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem entendeu que a agravante não comprovou os fatos constitutivos do seu direito, razão pela qual julgou improcedentes os pedidos constantes dos embargos à execução, conforme se extrai dos seguintes trechos (fls. 204/205):
+(..)
+No caso em análise, não há discussão acerca da incapacidade permanente da autora para os atos de natureza patrimonial superveniente à assinatura do contrato, nem acerca da contratação do seguro prestamista.
+Contudo, o seguro prestamista tem coberturas expressamente contratadas, cujas condições gerais e particulares podem variar de acordo com a apólice. As cláusulas detalham variações nos tipos de coberturas, nos prazos de vigência, nas faixas etárias, etc. O contrato de seguro estabelece, ainda, as exclusões de determinados riscos.
+Com efeito, para ter acesso a cobertura é necessário a constatação de quadro clínico de incapacidade, por meio da abertura do sinistro junto a seguradora que, após os trâmites administrativos, realiza o pagamento do valor do empréstimo nos termos do contrato prestamista. Frise-se que, para acionar a cobertura do seguro prestamista é preciso que o próprio segurado, quem contratou o seguro, ou seu representante legal busque a companhia seguradora, levando todos os documentos solicitados para comprovar a contratação do seguro e o sinistro.
+Em que pese o seguro prestamista ser contratado diretamente com a instituição financeira na qual o consumidor pretende obter o empréstimo, o responsável por fornecer o seguro prestamista e por efetuar, junto a banco, a quitação da dívida do consumidor nas hipóteses predeterminadas de sinistro é uma companhia de seguros. Assim, caberia ao segurado ou seu representante, como já pontuado, acionar à companhia seguradora, comprovando situação coberta pelo seguro contratado, para somente então ser imposta a obrigação de pagamento do empréstimo à empresa seguradora.
+Nesse sentido, entendo que o Embargante não comprovou os fatos constitutivos do seu direito, devendo ser julgados improcedentes os presentes embargos. A sentença, portanto, merece reforma.
+Diante do exposto, voto no sentido de conhecer e DAR PROVIMENTO ao recurso, reformando a sentença para julgar improcedente os embargos à execução.
+(..)
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiária da justiça gratuita.
+Intimem-se.
+EMENTA
