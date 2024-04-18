@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MELQUISEDEQUE ALVES DOS SANTOS, com fundamento na alínea "a" do permissivo constitucional TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (e-STJ, fls. 443-4613):
+"PROCESSO PENAL. PENAL. RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. HOMICÍDIO QUALIFICADO. IMPRONÚNCIA. IMPOSSIBILIDADE. MATERIALIDADE COMPROVADA. INDÍCIOS DE AUTORIA. PRINCÍPIO DO INDUBIO PRO SOCIETATE. DESCLASSIFICAÇÃO. QUALIFICADORAS. INCUMBÊNCIA DO JÚRI. SENTENÇA MANTIDA.
+1. Para que o juiz pronuncie o acusado, basta a indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, nos termos do art.413, § 1º, do Código de Processo Penal.
+2. Ao contrário do que sustenta a defesa, nessa fase, prevalece o princípio do in dubio pro societate e não do in dubio pro reo. Assim, a decisão acerca da absolvição ou desclassificação, bem como de apreciação das qualificadoras, incumbe ao Júri.
+3. Baseando-se a sentença na prova inequívoca da materialidade dos delitos e e mindícios de autoria, fulcrados nos depoimentos colhidos na fase inquisitorial e judicial, em especial, nas declarações das testemunhas, as quais apontam o recorrente como um dos autores dos golpes de faca que lesionaram a vítima com animus necandi, deve a questão ser submetida ao juízo competente (Tribunal doJúri) para o exame e acolhimento das teses da acusação ou da defesa.
+3.1. Nesse momento processual do "judicium causae", não se deve aprofundar no exame das provas e muito menos realizar qualquer juízo de valor que possa induzir o arbítrio doConselho.
+4. Recurso desprovido."
+Nas suas alegações de recurso, o recorrente alega infração ao art. 121, § 2º, incisos II, III e IV, do CP, e ao art. 414 do CPP. Solicita a despronúncia ou, alternativamente, que o crime seja reclassificado para homicídio simples, eliminando-se as qualificadoras relacionadas ao uso de motivo fútil, meio cruel e meios que limitaram a defesa do ofendido.
+Com contrarrazões (e-STJ, fls. 487-489), o recurso especial foi inadmitido na origem (e-STJ, fls. 462-484), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do agravo em recurso especial (e-STJ, fls. 535-537).
+É o relatório.
+Decido.
+A decisão que inadmitiu o recurso especial na origem pautou-se no seguinte fundamento: incidência da Súmula 7 do STJ. Todavia, a parte ora agravante não combate o referido motivo .
+Sobre a aplicação da Súmula 7/STJ, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não ocorreu no caso em análise. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182/STJ. PENAL E PROCESSUAL PENAL. FURTO SIMPLES NA MODALIDADE TENTADA. MINUTA DE AGRAVO QUE NÃO INFIRMA DE FORMA ESPECIFICA E CONCRETA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. IMPUGNAÇÃO GENÉRICA. SÚMULA N. 83/STJ. APLICÁVEL AOS RECURSOS INTERPOSTOS COM BASE NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO INADMITIDO. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp 1789363/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. MERA REITERAÇÃO DOS ARGUMENTOS JÁ EXAMINADOS. SÚMULA N. 182/STJ. TRÁFICO INTERNACIONAL DE ENTORPECENTES. RÉ FLAGRADA COM 2KG DE COCAÍNA NO AEROPORTO INTERNACIONAL DE SÃO PAULO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RECORRENTE SEM RESIDÊNCIA OU VÍNCULO LABORAL NO BRASIL. MÃE DE 2 FILHOS MENORES QUE MORAM COM O PAI NO EXTERIOR (GEÓRGIA). IMPOSSIBILIDADE DA CONCESSÃO DE PRISÃO DOMICILIAR. PORTADORA DE DIABETES. COVID-19. ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). PENA MÍNIMA SUPERIOR A 4 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+11. Agravo regimental não conhecido".
+(AgRg no RHC 128.660/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/08/2020, DJe 24/08/2020)
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo, o qual não supera o juízo de admissibilidade.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
