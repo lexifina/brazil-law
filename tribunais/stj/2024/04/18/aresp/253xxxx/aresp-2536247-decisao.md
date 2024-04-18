@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 1.355/1.356).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.263):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE RECEBIMENTO DE NOTAS FISCAIS/CONTAS DE ENERGIA E DE FATURAS DE EMISSÃO E RECEBIMENTO DE SEGUNDA VIA DE NOTAS/CONTAS DE ENERGIA - SENTENÇA DE EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - INDEFERIMENTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA RÉ - RECURSO INTERPOSTO PELA PARTE AUTORA - AUSÊNCIA DE REPASSE DOS VALORES ARRECADADOS - APROPRIAÇÃO DE VALORES - ATO ILÍCITO CONFIGURADO - DESVIO DE FINALIDADE DA PESSOA JURÍDICA - REQUISITOS DO ART. 50 DO CÓDIGO CIVIL PRESENTES - SENTENÇA CASSADA - RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 1.303/1.316), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação do art. 50 do CC/2002, alegando que "o contrato que embasa a ação monitória decorre de relação jurídica celebrada entre duas pessoas jurídicas, tratando-se, portanto, de relação jurídica civil-empresarial  ..  no entanto, sequer é narrado, no pedido de desconsideração da personalidade jurídica, a eventual existência de desvio de finalidade ou de confusão patrimonial  ..  o acórdão recorrido, ao dar provimento ao recurso de apelação da COPEL, e deferir a desconsideração da personalidade jurídica em face da Recorrente, fundamentou-se tão somente com base na inadimplência contratual" (e-STJ fls. 1.309/1.310).
+Foram oferecidas contrarrazões (e-STJ fls. 1.340/1.352).
+No agravo (e-STJ fls. 1.365/1.380), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.398/1.412).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 1.267):
+Na presente hipótese, extrai-se dos autos que, de fato, restou incontroverso que a Apelada descumpriu seu dever contratual e não repassou os valores arrecadados à Apelante, mediante as alegações de "altíssimo índice de perda de caixa", "pagamentos efetuados com cheques em fundo", "furtos", entre outros (mov. 116.1), não acolhidos pelo juízo a quo.
+Por outro lado, a ausência do repasse, por certo, causa lesão à Apelante, além de configurar ato ilícito, conforme inclusive dispõe o Parágrafo Terceiro da Cláusula Terceira do Contrato de Arrecadação firmado (mov.1.3, fls. 5):
+(..)
+Assim sendo, tem-se como configurado o abuso de direito consubstanciado em desvio de finalidade, nos termos do artigo 50 do Código Civil, hipótese em que é autorizada a desconsideração da personalidade jurídica, para que a obrigação decorrente da presente demanda alcance o patrimônio pessoal da sócia-administradora da VIOTO & DUARTE LTDA., qual seja, a Sra. Camilla de Souza Vioto Prado.
+Conforme entendimento do STJ, "a desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de mera insolvência" (AgInt no AREsp n. 2.264.229/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DOS REQUISITOS LEGAIS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. FALTA DE PERTINÊNCIA TEMÁTICA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+2. Segundo a jurisprudência desta Corte, "a desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de dissolução irregular ou de insolvência. (..).
+A inexistência ou não localização de bens da pessoa jurídica não é condição para a instauração do procedimento que objetiva a desconsideração, por não ser sequer requisito para aquela declaração, já que imprescindível a demonstração específica da prática objetiva de desvio de finalidade ou de confusão patrimonial" (AgInt no REsp n. 1.812.292/RO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/5/2020, DJe de 21/5/2020).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que não foi demonstrada a presença dos requisitos autorizadores da desconsideração da personalidade jurídica. Entender de modo contrário demandaria nova análise dos elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+(..)
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.972.452/PR, de minha relatoria, Quarta Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Havendo entendimento dominante acerca do tema, aplica-se a Súmula n. 568 do STJ.
+Ademais, modificar o acórdão impug nado quanto à conclusão de que foram comprovados os requisitos para a desconsideração da personalidade jurídica, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
