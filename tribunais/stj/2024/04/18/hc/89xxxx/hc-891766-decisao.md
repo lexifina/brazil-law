@@ -1,0 +1,18 @@
+DECISÃO
+ANDRÉ LUIZ DOS SANTOS, condenado a 7 anos, 8 meses e 16 dias de reclusão, em regime fechado, por roubo triplamente majorado, alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+A defesa pede a absolvição. Alega que a condenação foi baseada em reconhecimento extrajudicial "que não pode ser considerado seguro" (fl. 4), pois o ato não observou as cautelas mínimas do art. 226 do CP e a memória do ofendido ficou sujeita a distorção em razão de prisão em flagrante posterior do réu. Alternativamente, se insurge contra a exasperação da pena na terceira fase da dosimetria.
+O MPF opinou pela denegação da ordem.
+Decido.
+A defesa deixou de provocar o Tribunal de Justiça a deliberar sobre eventual nulidade do reconhecimento pessoal por desconformidade ao procedimento do art. 226 do CPP. No acórdão, não houve discussão sobre o tema nem se discutiu a contaminação da memória da vítima. Cumpre destacar, ainda, que não há registro de embargos de declaração para ventilar a matéria.
+Por tal motivo, inexiste causa decidida sobre a matéria no acórdão recorrido, que manteve a sentença, por considerar que "a autoria delitiva, igualmente, é inconteste, tendo em vista as declarações prestadas pela vítima Levi José da Silva e pelas testemunhas Leandro Emerick e Carlos Alberto Velcic" (fl. 24). É impossível reconhecer, de ofício, manifesta ilegalidade no aresto, que nem sequer tratou das alegações da defesa.
+Portanto, "como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal" (AgRg no HC n. 836.117/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023).
+De rigor o não conhecimento do habeas corpus, no ponto.
+Quanto à dosimetria, o pronunciamento do Tribunal diverge do disposto na Súmula n. 443 do STJ. O "aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Na hipótese, a sentença, mantida em segundo grau, salientou o seguinte (fl. 17):
+Levando-se em conta que ele agiu em concurso de agentes, que utilizou arma de fogo e ainda restringiu a liberdade da vítima, aumento a pena em cinco doze avos, o que perfaz sete anos, oito meses e dezesseis dias de reclusão e dezessete dias- multa, pena essa que torno definitiva.
+Foi considerado somente o critério numérico e não podia o Tribunal, em recurso exclusivo da defesa, corrigir o vício de motivação do ato judicial.
+A ausência de argumentação apta a justificar o incremento da reprimenda evidencia constrangimento ilegal diante do preconizado pelo enunciado sumular. Assim, considerada a data do crime, reduzo a fração utilizada na terceiria fase da dosimetria para 1/3.
+Tendo em vista a fixação da pena-base em 4 anos e 8 meses de reclusão, e 11 dias-multa, a reincidência do réu (aumento da reprimenda em mais 1/6) e, por fim, a incidência da fração de 1/3 em virtude de três causas de aumento, a pena definitiva do paciente fica reduzida para 7 anos, 3 meses e 3 dias de reclusão, e 16 dias-multa.
+À vista do exposto, conheço em parte o habeas corpus e, nesta extensão, concedo a ordem somente para corrigir a ilegalidade na terceira fase da dosimetria reduzir a pena do paciente para 7 anos, 3 meses e 3 dias de reclusão, e 16 dias-multa.
+Publique-se e intimem-se.
+EMENTA
