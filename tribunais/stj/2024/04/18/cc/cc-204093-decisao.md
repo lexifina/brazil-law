@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA ÚNICA DE SÃO LOURENÇO DO OESTE - SC suscita conflito de competência diante do JUÍZO DE DIREITO DA UNIDADE REGIONALIZADA DE PLANTÃO JUDICIÁRIO DE PATO BRANCO - PR.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juizo competente para a adoção de eventual medida judicial que se faça necessária em autos de prisão em flagrante, ocorrida no Paraná, mas decorrente do cumprimento de mandado de busca e apreensão deferido em autos que tramitam na Vara Única da Comarca de São Lourenço do Oeste - SC.
+Oouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Única de São Lourenço do Oeste - SC, ora suscitante (fls. 47-55).
+Decido.
+Estou de acordo com o Ministério Público Federal. Muito embora o Juízo susictante afirme que não houve o oferecimento de denúncia contra o investigado Henrique Vargas, preso em flagrante no Paraná, e que a conexão instrumental foi afastada pelo Ministério Público, outra é a conclusão que se extrai dos autos.
+Deveras, a inexistência de denúncia contra o referido indivíduo não significa que não haja conexão, visto que sua prisão em flagrante ocorreu, ao menos aparentemente, quando já avançadas as investigações que se davam em Santa Catarina.
+Além disso, os próprios termos de depoimento colhidos pela autoridade policial relatam que o mandado de busca e apreensão foi dirigido à residência de Henrique Vargas de Andrade e que "verificou-see o envolvimento de outros indivíduos com a traficância, como fornecedores e recebedores do entorpecente" (fl. 15). E ainda: " d entre eles estava uma pessoa identificada como "Henrique", que teria vínculos com traficantes de São Lourenço" (fl. 15).
+Some-se a isso o fato de que o Juízo suscitante "determinou a prática de atos preliminares à ação penal, tendo em vista a expedição demandado de busca e apreensão, o qual restou cumprido na Comarca de PatoBranco/PR, quando, também, restou preso em flagrante o referido investigado" (fl. 51).
+Todas essas circunstâncias fezem crer, ao menos neste momento em que se encontra a situação de Henrique Vargas, que a competência para a adoção de eventual medida judicial cabe ao Juízo suscitante. Nesse sentido os arestos indicados pelo Parquet Federal: CC n. 191.497/CE, relatora Ministra Laurita Vaz,Terceira Seção, julgado em 14/12/2022, DJe de 19/12/2022 e CC n. 199.283, Ministro Antônio SaldanhaPalheiro, DJe de 10/10/2023.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única de São Lourenço do Oeste - SC, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
