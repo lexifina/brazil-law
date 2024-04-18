@@ -1,0 +1,33 @@
+DECISÃO
+NUBIUS ANJOS DA SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia (Apelação Criminal n. 0510640-65.2015.8.05.0001).
+Nas razões do recurso especial, a defesa aponta violação do art. 386, VII, do Código de Processo Penal, bem como art. 157, § 2º-A, I, do Código Penal. Argumenta que não há provas suficientes para embasar a condenação do réu pelo delito de roubo circunstanciado, razão pela qual pretende a sua absolvição. Subsidiariamente pleiteia o decote do emprego de arma de fogo, uma vez que a arma não foi apreendida e periciada.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão de inadmissibilidade recursal, razão pela qual deve ser conhecido.
+Consta dos autos que o ora agravante foi condenado, pelo delito de roubo circunstanciado, à pena de 5 anos e 4 meses de reclusão, em regime semiaberto, mais multa.
+A Corte estadual negou provimento ao apelo defensivo e confirmou a condenação do réu. Sobre a suficiência probatória, o acórdão registrou (fls. 320-322):
+Ab initio, compulsando detidamente os fólios, constata-se que a autoria e a materialidade delitivas revelam-se incontestes, devendo ser afastada a irresignação da Defesa, uma vez que o decisio obliterado encontra respaldo no arcabouço probatório colacionado.
+ ..
+Ocorre que não apenas as declarações da vítima, mas também a prova testemunhal produzida, apresenta-se como importante elemento de convicção. Nesse sentido, os policiais Luís Alberto Oliveira de Jesus Júnior e Carlos Augusto Conceição Souza, responsáveis pela prisão do Apelante narraram, em juízo, como ocorreu a operação:
+ ..
+Importa consignar, ao contrário do que alegado pela Defesa, as declarações da vítimaainda que prestadas apenas em sede policial são suficientes para sustentar um decretocondenatório, se existentes nos autos outros elementos de provas hábeis à condenação, osquais, inclusive, foram produzidos sob a garantia do contraditório, como in casu.
+Apesar de a vítima não ter sido ouvida em juízo, por não ter sido localizada, ouvida na delegacia, no dia do fato, esta declarou a mesma versão que restou comprovada na instrução processual pelos depoimentos dos agentes policiais, estando, portanto, a prova produzida no inquérito em harmonia com a prova verifica em juízo.
+ ..
+No que tange à autoria, os elementos circunstanciais que envolvem o caso demonstram a efetiva participação do recorrente no crime.
+De outro lado, considerando o depoimento de policiais pode servir de referência ao juiz na verificação da materialidade e autoria delitivas, podendo funcionar como meio probatório válido para fundamentar a condenação, mormente quando colhido em juízo, com a observância do contraditório, e em harmonia com os demais elementos de prova existentes nos autos, forçosa a manutenção da condenação quanto ao crime que lhe fora imputado.
+Pelos trechos acima transcritos, constato que as instâncias antecedentes, após minuciosa análise do acervo fático-probatório carreado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do agravante pelo crime que lhe foi imputado, notadamente pela prova oral produzida ao longo da instrução.
+Especificamente sobre o depoimento dos policiais, o acórdão está em consonância com a jurisprudência deste Tribunal Superior que entende que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso. Precedentes" (HC n. 471.082/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 23/10/2018, DJe de 30/10/2018).
+Portanto, para alterar tal conclusão, como pugna o recurso especial, seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado nesta esfera, a teor da Súmula n. 7 do Superior Tribunal de Justiça. Ilustrativamente:
+ ..
+1. Afastar a condenação imposta pela instância antecedente, a fim de absolver os recorrentes por insuficiência de provas de autoria, demanda o reexame do caderno fático-probatório dos autos, o que é vedado conforme Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Recurso especial parcialmente conhecido e, nesta extensão, parcialmente provido, para reduzir as penas dos recorrentes pelo crime de roubo.
+(REsp n. 1.202.111/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 31/3/2016).
+Sobre a configuração da majorante, o Juiz de primeiro grau concluiu: "em que pese não ter sido apreendida a arma de fogo para perícia ou reconhecimento, é pacífico o entendimento jurisprudencial de que o reconhecimento da causa de aumento prevista no art. 157, § 2º,I, do Código Penal, prescinde da apreensão e da realização de perícia na arma, desde que provado o seu uso no roubo por outros meios de prova, aqui corroborada pelas declarações da vítima em sede inquisitorial e corroborada pelas testemunhas de acusação" (fl. 225).
+Nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento do EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, são prescindíveis a apreensão e a realização de perícia na arma usada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova.
+Vale dizer, nos casos em que não forem possíveis a apreensão e a perícia da arma para a prova do seu efetivo potencial de lesividade, como na hipótese, é devida a incidência da majorante quando existirem nos autos elementos de prova que confirmem o seu uso na prática do delito, exatamente como consignado no acórdão, que destacou a prova oral produzida.
+Assim, comprovado o emprego de arma pela prova oral colhida durante a instrução do feito, não há que falar em decote da majorante, haja vista que o Tribunal estadual está em consonância com a jurisprudência desta Corte Superior sobre o tema.
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
