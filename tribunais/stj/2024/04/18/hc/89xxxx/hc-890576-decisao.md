@@ -1,0 +1,13 @@
+DECISÃO
+DOUGLAS CORDEIRO SANTOSO, apenado do regime semiaberto, alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Busca o restabelecimento do livramento condicional, pois falta grave antiga (4/4/2019) não justifica o indeferimento do benefício, uma vez que não praticou outras infrações e readquiriu o bom comportamento carcerário.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Para a concessão do livramento condicional, o reeducando deve preencher tanto o requisito de natureza objetiva (lapso temporal) quanto o subjetivo, em especial, "bom comportamento durante a execução da pena", nos termos do art. 83 do CP.
+O reeducando do regime semiaberto não tem direito claro e objetivo à antecipação direta de liberdade, pois registra a prática de falta disciplinar grave.
+Conforme a tese fixada pela Terceira Seção no Tema Repetitivo n. 1.161, in verbis: "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante a execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+Segundo os julgados desta Corte, a "inclusão da alínea "b" no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, não significa que a ausência de falta grave no período de doze meses seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções" (AgRg no HC n. 730.327/RS, relatora Ministra Laurita Vaz, 6ª T., DJe de 2/12/2022).
+A "análise do bom comportamento do apenado enquanto requisito do livramento condicional (art. 83, III, "a", do CP) deve considerar todo seu histórico prisional" (AgRg no REsp n. 2.017.532/TO, rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/10/2022).
+Por se tratar de benefício mais amplo, de antecipação da liberdade, "não se aplica limite temporal para aferição de requisito subjetivo com escopo na concessão do livramento condicional, que deve necessariamente considerar todo o período da execução da pena, o que obsta a concessão do referido benefício ao recorrido (AgRg no REsp n. 1.961.829/MG, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe 19/11/2021)" (AgRg no REsp 1947037/DF, Rel. Ministro Sebastião Reis Júnior, 6ª T. , DJe 3/3/2022).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
