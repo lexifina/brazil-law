@@ -1,0 +1,16 @@
+DECISÃO
+ODILON CORDOBAL VIANA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0001090-55.2018.8.24.0006.
+Consta dos autos que o réu foi condenado a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, § 4º, c/c o art. 40, V, da Lei n. 11.343/2006.
+A defesa argumenta que houve bis in idem na consideração da quantidade de drogas tanto para exasperar a pena-base quanto para modular a fração de diminuição da pena na terceira fase da dosimetria.
+Decido.
+O Tribunal de origem não analisou a tese defensiva ora apresentada relativa à fração da incidência da minorante do tráfico, porque a apelação pleiteava apenas a absolvição do réu, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Não está inaugurada, nesse particular, a competência desta Corte para o processamento do habeas corpus. Deveras, "o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+Quanto à almejada modificação do regime, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso dos autos, o modo mais gravoso foi fixado ao réu, pois "ainda que a pena imposta não ultrapasse o importe de 08 (oito) anos de reclusão, o regime inicial de cumprimento de pena não pode ser estabelecido no semiaberto, porquanto o apelante ostenta uma circunstância judicial negativa (circunstâncias do crime) que, a teor do § 3.º do artigo 33 do Código Penal deve ser avaliada na imposição do regime" (fls. 225-226).
+Assim, concluo não haver violação do art. 33, § 2º, do Código Penal, sendo correta a aplicação do regime inicial fechado.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
