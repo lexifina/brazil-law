@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL FERREIRA DE SOUZA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2059685-64.2024.8.26.0000).
+Consta dos autos que o paciente foi condenado, pela prática do crime de tráfico de drogas, em virtude da apreensão de "60 microtubos tipo eppendorf contendo cocaína, com peso líquido de 23,13g  vinte e três gramas e treze centigramas , 27 invólucros plásticos contendo Cannabis sativa L., droga popularmente conhecida como maconha, com peso líquido de 27,94g  vinte e sete gramas e noventa e quatro centigramas , e 15 invólucros plásticos fechados por pressão contendo crack, com peso líquido de 1,4g  um grama e quatro decigramas " (e-STJ fl. 13), à pena de 2 anos e 6 meses de reclusão, em regime semiaberto.
+Inconformada, a defesa impetrou, no Tribunal de origem, prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fl. 20):
+HABEAS CORPUS. TRÁFICO DE DROGAS. FIXAÇÃO DO REGIME SEMIABERTO. TRÂNSITO EM JULGADO. VIA INADEQUADA. NÃO CONHECIMENTO DA IMPETRAÇÃO.
+1. Insurgência contra sentença condenatória, já transitada em julgado.
+2. Via inadequada para satisfação do pedido. Inadmissível a utilização do "habeas corpus" em substituição à Revisão Criminal.
+3. Não conhecimento da impetração.
+Requer a defesa, na presente impetração (e-STJ fls. 15/16):
+a concessão da ordem, em caráter liminar, para que seja reconhecido o direito da paciente a fixação de regime inicial aberto para o cumprimento da pena privativa de liberdade imposta, bem como haja a substituição da pena privativa de liberdade pela restritiva de direitos, conforme art. 44, Código Penal.
+É, em síntese, o relatório. Decido.
+De início, vejo que o Tribunal de origem não conheceu do habeas corpus lá impetrado, deixando de apreciar o mérito do writ ao fundamento de que seria substitutivo de revisão criminal (e-STJ fls. 19/21).
+Diante desse cenário, ante a falta de manifestação do colegiado local no acórdão ora juntado acerca das matérias objeto deste habeas corpus, evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+Todavia, verifico a existência de flagrante ilegalidade a atrair a concessão da ordem de ofício. Senão, vejamos.
+Preliminarmente, no momento da fixação da reprimenda dos crimes abarcados pela Lei n. 11.343/2006, o julgador deve valorar, com preponderância sobre as demais circunstâncias judiciais, a natureza e a quantidade da droga, de acordo com o que dispõe o art. 42 da referida lei.
+No caso, quanto à elevação da pena-base relativa ao delito de tráfico, assentaram as instâncias ordinárias que o aumento estaria justificado na quantidade e natureza do entorpecente apreendido.
+Todavia tenho que a quantidade não é significativa e, por isso, não tem força para justificar o aumento da pena-base.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. INVIABILIDADE. CONDENAÇÃO FUNDAMENTADA IDONEAMENTE. DOSIMETRIA. PENA-BASE. ANTECEDENTES. CONDENAÇÕES ANTERIORES. ART. 28 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. SÚMULA N. 444 DO STJ. QUANTIDADE E NATUREZA DA DROGA. MINORANTE. TRÁFICO PRIVILEGIADO. NÃO RECONHECIMENTO. HABITUALIDADE CRIMINOSA. REGIME INICIAL. SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PERDIMENTO DE BENS. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. É incabível a absolvição do réu, por esta Corte Superior, com fundamento na insuficiência probatória, se os juízos antecedentes apontaram, fundamentadamente, elementos concretos acerca da existência de autoria e materialidade do crime, colhidos sob o crivo do contraditório, a fim de subsidiar a condenação. Para entender de forma diversa, seria necessário reexaminar o conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+2. As condenações transitadas em julgado pelo crime do art. 28 da Lei n. 11.343/2006 não podem ser utilizadas para fundamentar os maus antecedentes do sentenciado. Precedentes. Constitui, igualmente, fundamentação inidônea para sopesar negativamente essa vetorial do art. 59 do CP a utilização de condenações não transitadas em julgado, nos termos da Súmula n. 444 do STJ.
+3. Não obstante a natureza do entorpecente apreendido seja adotada de alto poder viciante, se a quantidade apreendida foi inexpressiva, no caso ora analisado - 2,56 g de crack -, mostra-se manifestamente desproporcional sopesar tais circunstâncias para justificar a exasperação da pena-base. Do contrário, qualquer agente que fosse apreendido com cocaína, ainda que com uma porção com peso de 1 g, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+4. É idôneo o argumento despendido pela Corte local para não aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas consistente na habitualidade do réu na traficância, conforme demonstrado pelos fatos e pelas provas dos autos.
+5. Uma vez fixada a sanção definitiva acima de 4 anos e abaixo de 8 anos, se a única motivação adotada pelas instâncias de origem para fixar o modo mais gravoso de cumprimento de pena eram as circunstâncias judiciais desfavoráveis, ao serem elas afastadas, deve ser estabelecido o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+6. Não há como conhecer da pretensão recursal que visa ao reexame do perdimento de bens confiscados, em razão da sua utilização para o tráfico de drogas, por esbarrar no óbice da Súmula n. 7 deste Superior Tribunal. Precedente.
+7. Agravo regimental parcialmente provido, apenas para redimensionar a pena do agravante para 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa.
+(AgRg no AgRg no AREsp 1605930/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2020, DJe 13/05/2020, grifei.)
+Ainda, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006. Com efeito, a quantidade e natureza do material tóxico somente poderão justificar o afastamento/modulação do benefício de forma supletiva e quando o contexto em que se deu a sua apreensão evidenciar a dedicação à atividade criminosa.
+No caso, o Tribunal de origem, em contrariedade a tal precedente, utilizou indevidamente a quantidade de droga para afastar a benesse, incorrendo, inclusive, em bis in idem, já que tal circunstância já havia sido utilizada na primeira fase da dosimetria. Outrossim, como dito alhures, a quantidade, em que pese à variedade, não é suficiente sequer à modulação da minorante.
+Fixadas essas balizas, passo à dosimetria da pena.
+Na primeira fase, a pena-base fica no mínimo legal de 5 anos de reclusão.
+Na segunda etapa, não se altera, mesmo presente as atenuantes da confissão e menoridade relativa, em obediência à Súmula n. 231/STJ.
+Na terceira fase, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, tornando a reprimenda definitiva em 1 ano e 8 meses de reclusão.
+Estabeleço o regime aberto para início de desconto da reprimenda e mantenho a substituição da pena por restritivas de direitos conforme definidas na sentença condenatória, considerando-se o quantum de pena fixado, a primariedade da paciente e a inexistência de circunstâncias judiciais desfavoráveis.
+Este o quadro, indefiro liminarmente o presente habeas corpus. Concedo, todavia, a ordem, de ofício, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
