@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto por MAURA MARIA DA SILVA e OUTROS contra a decisão monocrática que indeferiu o pedido de extinção do presente pedido de tutela provisória.
+O pedido de tutela provisória formulado por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS foi deferido para os seguintes fins: i) suspender o cumprimento provisório de sentença e ii) determinar o sobrestamento do feito, mantendo-se os autos no Tribunal de origem, até o julgamento da repercussão geral da matéria constitucional versada no RE nº 827.996/DF (e-STJ fl. 3.119-3.125).
+Em virtude do julgamento do RE nº 827.996 pelo STF (Tema nº 1011), os ora agravantes apresentaram requerimento pleiteando fosse declarada a extinção do presente feito a fim de que o Tribunal de origem pudesse proceder à aplicação da tese fixada pela Corte Suprema, dando ensejo à formação do presente expediente avulso.
+Tal pleito foi indeferido ao fundamento de que a tutela deferida não impedia a Corte de origem de proceder ao juízo de conformidade do acórdão recorrido à tese firmada no julgamento da repercussão geral, nos moldes do art. 1.040 do Código de Processo Civil de 2015 (e-STJ fls. 117-118 do expediente avulso).
+Sobrevieram embargos de declaração (e-STJ fls. 120-128), nos quais se afirmou que o Tribunal de Justiça do Estado de Pernambuco já havia realizado o juízo de conformidade do Tema nº 1.011/STF no caso concreto, mas o prosseguimento do feito teria ficado obstado em virtude da existência da decisão proferida neste pedido de tutela provisória.
+Na decisão que rejeitou os mencionados aclaratórios (e-STJ fls. 380-381 do expediente avulso), fez-se esclarecer que, com a propositura do presente pedido de tutela provisória, SUL AMERICA COMPANHIA NACIONAL DE SEGUROS visou à atribuição de efeito suspensivo a agravo em recurso especial interposto contra acórdão proferido no julgamento da Apelação nº 0008975-40.2013.8.17.1090, cabendo aos ora agravantes, portanto, diligenciar para que o Tribunal de origem procedesse ao juízo de conformidade do Tema nº 1.011/STF nos autos da referida apelação.
+Inconformados, os agravantes interpuseram o presente agravo interno insistindo na extinção do presente feito, haja vista o desaparecimento da causa de sobrestamento determinada quando do deferimento da tutela cautelar.
+É o relatório.
+DECIDO.
+Assiste razão aos agravantes.
+Já tendo ocorrido o julgamento da repercussão geral da matéria constitucional versada no RE nº 827.996/DF, e dos subsequentes embargos de declaração, e já tendo sido certificado, inclusive, o trânsito em julgado do acórdão, nada mais impede que o Tribunal de Justiça do Estado de Pernambuco proceda ao juízo de conformidade do acórdão proferido no julgamento da Apelação nº 0008975-40.2013.8.17.1090 à tese firmada no julgamento do Tema nº 1.011/STF, nos moldes do art. 1.040 do Código de Processo Civil, e determine, se não for o caso de declinar da competência para a Justiça Federal, o prosseguimento do feito principal e do correspondente pedido de cumprimento provisório de sentença.
+Assim, restando esvaziado o objeto do presente pedido de tutela provisória, exercendo o juízo de retratação facultado pelo art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 117-118 (e-STJ) para declarar a extinção do processo.
+Publique-se.
+Intimem-se.
+EMENTA
