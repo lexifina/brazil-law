@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado por Rafael Centenaro Panisson & Cia Ltda, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 145):
+TRIBUTÁRIO. PIS/COFINS. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. VENDA DE CIGARROS. BASE DE CÁLCULO DAS OPERAÇÕES INFERIOR À PRESUMIDA. ILEGITIMIDADE DOSUBSTITUÍDO TRIBUTÁRIO.
+Na venda de cigarros, o comerciante varejista, na condição de substituído tributário, não tem legitimidade para postular a restituição do PIS/COFINS recolhido pelo substituto quando o preço de venda for inferior ao tabelado.
+A parte recorrente aponta dissídio jurisprudencial e violação aos arts. 165 do CTN; 62 da Lei nº 11.196/2005; 3º da LC 70/1991; 150, §7, da CF. Sustenta, em resumo, que "considerando que a base de cálculo dos tributos em comento é maior do que a praticada no momento da venda, devida a restituição da diferença nos termos do Recurso Extraordinário nº 596.832" (fls. 161/162).
+Contrarrazões apresentadas às fls. 202/211.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, cumpre destacar que em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 150, §7º, da Constituição Federal.
+Adiante, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, (i) "Os fabricantes é que estão obrigados a apurar e recolher as contribuições, com base nos preços de venda informados à fiscalização e divulgados ao público, na forma prevista em lei  .. Se o comerciante varejista decidir vender o produto por preço inferior, isto não lhe confere o direito à restituição do PIS/COFINS porque o contribuinte é o fabricante, importador ou comerciante atacadista" (fl. 143) esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Por fim, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+Além disso, a parte recorrente indica como paradigma da divergência jurisprudencial acórdão do TRF da 4ª Região. Assim, não pode ser conhecido o recurso especial, uma vez que aplicável o disposto na Súmula 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" .
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
