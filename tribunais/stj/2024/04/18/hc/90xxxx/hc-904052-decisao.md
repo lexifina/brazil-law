@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VITOR HUGO GONCALVES DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC 5234462-09.2024.8.09.0110).
+O paciente está preso preventivamente pela suposta prática do crime de homicídio qualificado na forma do art. 121, § 2º, II e IV, c/c art. 29, ambos do Código Penal.
+A defesa alega: a) que houve cerceamento de defesa pela juntada de prova pela acusação no dia da audiência, contendo centenas de áudios, de forma a dificultar o exercício do direito de ampla defesa; b) que resta evidente a negativa de autoria no caso em tela; c) que as condições pessoais do paciente são favoráveis; d) que ausentes os pressupostos previstos no art. 312 do CPP para a decretação da prisão preventiva; e) que a decisão que decretou a prisão é genérica; f) cabíveis na hipótese medidas cautelares diversas da prisão.
+Requer, liminar e definitivamente, concessão da ordem para que seja deferida a liberdade provisória do paciente, com ou sem a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Na presente hipótese, a defesa impetrou habeas corpus perante o Tribunal de origem, todavia, este não foi conhecido pelo relator, pelo fato de tratar de hipótese de reiteração de HC anteriormente impetrado naquela Corte, sem fato novo a lastrear o pedido (e-STJ fl. 32-35).
+A propósito, confira-se (e-STJ fl. 34-35):
+In casu, vislumbro, de plano, questão impeditiva ao conhecimento da impetração. Isso porque, conforme bem pontuado no parecer ministerial de cúpula, verifico que os argumentos apresentados pela Impetrante sobre a inexistência de provas suficientes a respeito do liame subjetivo entre o paciente e o corréu; negativa de autoria e ausência de materialidade delitiva; ausência dos fundamentos e requisitos válidos da segregação cautelar, previstos nos arts. 312 e 313, ambos do CPP; bons predicados pessoais (residência fixa e labor lícito) e possibilidade de substituição da prisão por medidas cautelares alternativas, previstas no art. 319 do Código de Processo Penal, já foram apreciadas por esta Corte, no julgamento do HC nº 5628040-84.2023.8.09.0110, ocasião em que conhecida parcialmente do mandamus e, na extensão, denegada a ordem impetrada
+Em suas razões, todavia, a defesa não se desincumbiu do ônus de apontar a ilegalidade da decisão colacionada às fls. 32-35, limitando-se a argumentar sobre o mérito da decisão que decretou a prisão e a necessidade do deferimento da liberdade provisória.
+Havendo decisão de relator no Tribunal de Origem que nega seguimento a habeas corpus de forma monocrática, se impõe ao impetrante, antes de impetrar o mandamus no STJ, interpor agravo regimental para possibilitar a análise do caso pelo colegiado, sob pena de não conhecimento. É o caso dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO ESGOTAMENTO DE JURISDIÇÃO. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTADA. HISTÓRICO PRISIONAL CONTURBADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691/STF). (AgRg no HC 285.647/CE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 25/8/2014; HC 284.999/SP Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/10/2014).
+2. O enunciado aplica-se também à hipótese em que o habeas corpus é inadmitido, indeferido ou não conhecido por decisão singular do relator, a qual deveria ter sido impugnada por agravo regimental, que devolveria a questão ao colegiado competente.
+3. O histórico prisional conturbado do apenado afasta a constatação do requisito subjetivo apto à concessão do livramento condicional e fundamenta a determinação do pedido de exame criminológico.
+4. Agravo regimental não provido.
+(AgRg no HC n. 733.786/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.) (g.n.)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
