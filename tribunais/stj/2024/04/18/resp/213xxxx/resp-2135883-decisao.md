@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE MATINHOS contra o acórdão assim ementado, in verbis:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VALORES DEVIDOS PELO MUNICÍPIO À COOPERATIVA. DETERMINAÇÃO DE EXPEDIÇÃO DE PRECATÓRIO DESCUMPRIDADIVERSAS VEZES. AUSENTE CONDUTA ESPERADA DA EXEQUENTE. ABANDONO DE CAUSA E PRESCRIÇÃO NÃO CONFIGURADOS.
+a) Trata-se Execução de Sentença, por meio da qual a Cooperativa busca o pagamento de valores pelo Município.
+b) Verifica-se que, desde 2011, apresentados os cálculos pela COOPERATIVA-Exequente, com a concordância do MUNICÍPIO-Executado, foram proferidas 4 (quatro) decisões determinando o pagamento e a requisição de precatório, sem cumprimento.
+c) Não havia conduta esperada da Exequente, que já apresentou o valor devido, do qual concordou o Executado, e aguarda o cumprimento da decisão há mais de dez anos.
+d) Não há que se atribuir à Exequente a responsabilidade pelo atraso na demanda, senão ao Juízo agravado, motivo pelo qual não é caso de prescrição ou abandono.
+2) AGRAVO DE INSTRUMENTO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa de 0,5% prevista no art. 1.026, § 2º, do CPC.
+Inicialmente, em seu recurso especial, o recorrente suscitou contrariedade ao art. 1.022, II, do CPC, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca dos dispositivos legais invocados como violados.
+Em seguida, ainda em suas razões de insurgência, o recorrente aponta como violado o art. 1.026, § 2º, do CPC, sustentando, em síntese, que os embargos de declaração opostos tiveram objetivo de prequestionamento, o que afastaria o intuito protelatório e a multa aplicada.
+Contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pelo recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples legação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 e 515, § 1º, E 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - O recurso especial possui fundamentação vinculada, não constituindo instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+IV - Esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual é cabível a conversão dos créditos relativos ao empréstimo compulsório sobre energia elétrica em ações pelo valor patrimonial, e não pelo de mercado, sendo legítimo o critério de fixação do valor da ação no momento de sua conversão (art. 3º do Decreto-lei n. 1.512/76 e no art. 4º da Lei n. 7.181/83).
+V - A possibilidade de a Eletrobrás converter os créditos de empréstimo compulsório em ações tem amparo em expressa autorização legal, sendo, portanto, incabível falar em abuso de direito.
+VI - A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de trechos dos julgados.
+VII - Recurso especial conhecido em parte e improvido.
+(REsp n. 1.274.167/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2016, DJe 9/11/2016.)
+Por fim, não é cabível a imposição da multa prevista no art. 1.026 do CPC/2015 em razão da mera rejeição dos embargos de declaração, sendo necessária a configuração da manifesta improcedência do recurso a autorizar a sua aplicação, o que não ocorreu no caso em apreço. In verbis:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO. OCORRÊNCIA. NÃO APLICAÇÃO DO ENTENDIMENTO CONSOLIDADO NO JULGAMENTO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.336.026/PE. TEMA 880. MODULAÇÃO DOS EFEITOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. OMISSÕES E CONTRADIÇÃO. INEXISTÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - Inaplicabilidade à hipótese do entendimento firmado pela Primeira Seção desta Corte, em precedente submetido ao rito do art. 1.036 do Código de Processo Civil de 2015 (Tema 880).
+III - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração no tocante às alegadas omissões e contradição.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 em razão do mero improvimento dos Embargos de Declaração, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 1301935/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 05/11/2019, DJe 29/11/2019)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REMOÇÃO DE INVENTARIANTE. OMISSÃO. VÍCIO NÃO CORRIGIDO NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÃO RELATIVA AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 1026, § 2º, DO NCPC. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal Estadual não se manifestou sobre ponto que pode influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornarem para que o tema seja analisado e solvido.
+3. É descabida a multa fixada quando opostos embargos declaratórios logo na primeira oportunidade, não podendo ser considerados protelatórios, diante do nítido caráter de prequestionamento.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp 1464934/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, I e III, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, dou-lhe provimento apenas para determinar a exclusão da multa processual aplicada.
+Publique-se. Intimem-se.
+EMENTA
