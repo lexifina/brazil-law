@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Francisco Adecio de Sousa Feijo contra o acórdão proferido pelo Tribunal de Justiça do Ceará (fls. 26/31 - HC n. 0621229-85.2024.8.06.0000) -, em que se alega excesso de prazo para análise do pedido de retirada de m onitoração eletrônica em primeiro grau (Autos n. 8000001-27.2021.8.06.0111, da 1ª Vara da comarca de Cascavel/CE) -, não comporta seguimento.
+Com efeito, busca o recurso a imediata retirada da tornozeleira eletrônica do recorrente (fl. 45), ao argumento de excesso de prazo para análise da pretensão em primeiro grau.
+Solicitadas informações, foram prestadas pelo Juízo de Direito da 1ª Vara da comarca de Camocim/CE (fls. 64/65).
+Da análise dos autos, tem-se que não demonstrada a culpa do Judiciário na eventual mora processual - especialmente porque consta diversos ofícios informando sobre supostas violações à monitoração eletrônica, confira-se: seq. 115.1, de 08/12/2022; seq. 118, de 16/12/2022; seq. 119, de 22/12/2022; seq. 121, de 16/01/2023; seq. 122, de 18/01/2023; seq. 129, de 17/03/2023; seq. 130, de 30/03/2023; seq. 131, de 02/05/2023; seq. 132, de 05/05/2023; seq. 133, de 08/05/2023; seq. 134, de 16/05/2023; seq. 136, de 26/06/2023 (fl. 26), e já foi designada audiência de justificação para 3/5/2024 (fl. 65) -, porquanto o prazo de tramitação não traduz de plano violação dos princípios da razoabilidade e da proporcionalidade, balizas de aferição da razoável duração do processo.
+Em razão disso, nego seguimento a recurso com recomendação ao Juízo de Direito da 1ª Vara da comarca de Camocim/CE para que empregue celeridade na análise do pedido de retirada de monitoração eletrônica nos Autos n. 8000001-27.2021.8.06.0111.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. RECURSO EM HABEAS CORPUS. MONITORAÇÃO ELETRÔNICA. PEDIDO DE RETIRADA EM PRIMEIRO GRAU. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A ANÁLISE DO PEDIDO. TRÂMITE REGULAR. AUSÊNCIA DE DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+Recuso a que se nega seguimento c om recomendação.
