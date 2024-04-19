@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS X S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/10/2023.
+Concluso ao gabinete em: 12/04/2024.
+Ação: embargos à execução, opostos por AMANDA CORREA FONTOURA, em face de BANCO DO BRASIL S/A.
+Sentença: julgou procedentes os embargos à execução, com fundamento no art. 487, I, do CPC e, via de consequência, julgou extinta a execução nº 5006505-57.2016.8.13.0701. Assim, condenou o FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS (FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CRÉDITOS NÃO-PADRONIZADOS I) ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor da condenação.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível - Embargos à execução - Aplicação do artigo 90, § 4º, do CPC - Reconhecimento do pedido - Ocorrência não verificada. Nos termos do artigo 90, § 4º, do CPC, proferida a sentença com base em reconhecimento do réu acerca da procedência do pedido, os honorários serão reduzidos pela metade. Na presente hipótese, o apelante combateu ativamente a pretensão buscada pela aqui apelada, sendo necessária, inclusive a produção de prova pericial, o que desnatura requisito essencial de aplicabilidade do referido dispositivo legal. V. V. Se a apelante anuiu ao pedido da embargante de extinção da execução - eis que concordou com o afastamento da apelada do polo passivo da execução - numa aceitação, mesmo que tácita do pedido da autora dos embargos, deve-se reduzir o valor da verba honorária sucumbencial devida pela apelante, para a metade, ou seja, 5% sobre o valor da condenação, nos termos do parágrafo 4, do art. 90, do CPC." (e-STJ fl. 778)
+Recurso especial: alega violação dos arts. 85, §§ 2º, 11, 90, § 4º, CPC, sustentando que: i) o fato de ter sido apresentada impugnação aos embargos, não pode ser enxergado como resistência à pretensão da recorrida, porquanto era dever da recorrente, consoante o encargo processual da impugnação específica que lhe incumbia naquele momento, promover sua defesa no lapso temporal oportuno; e, ii) o fato de a recorrente não manifestar sua concordância desde o primeiro momento, não implica o automático afastamento do benefício concedido pela lei processualista; e, iii) a recorrida não tentou solucionar o conflito de forma administrativa, já que nunca foi repassado à recorrente a contestação da dívida; e, iv) não é razoável que a recorrente seja condenada exclusivamente no ônus sucumbencial e, ainda, que este tenha sido majorado em grau recursal, sem que tenha havido qualquer oposição ao pleito da recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "não há nos autos comportamento expresso da agravante no sentido de reconhecer a procedência do pedido da agravada, o que impossibilitaria a aplicação do disposto no art. 90, § 4º, CPC", bem como de que "a todo momento, a agravante combateu ativamente a pretensão buscada pela agravada", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa. (e-STJ fl. 783) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de embargos à execução.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
