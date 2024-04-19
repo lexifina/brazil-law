@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo a decisão que não conheceu do agravo em recurso especial, diante do reconhecimento da deserção e da incidência da Súmula n. 187 do STJ.
+O acórdão recorrido recebeu a seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. Nos termos da jurisprudência desta Corte, deve ser reconhecida a deserção do recurso (Súmula 187/STJ), quando a parte recorrente, mesmo devidamente intimada, deixa de regularizar o preparo no prazo concedido.
+1.1. A ausência de comprovação do pagamento das custas, no ato da interposição do recurso, impõe o dever de recolhimento em dobro, sob pena de deserção (art. 1.007, § 4º, do CPC/15). 1.2. A comprovação em momento posterior, ainda que antes da intimação para recolhimento em dobro, não afasta a referida obrigação. 1.3. Intimada, já no âmbito deste STJ, a complementar as custas, a parte deixou transcorrer in albis o prazo.
+2. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional ao não se permitir o prosseguimento e o exame das razões do recurso especial, subtraindo da apreciação do Poder Judiciário lesão ou ameaça a direito.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma suficiente, os fundamentos da conclusão alcançada no julgado recorrido, que não conheceu do recurso dirigido a esta Corte Superior, o que inviabiliza o exame pretendido pela parte recorrente, relacionado às questões de mérito submetidas ao STJ.
+Confira-se o seguinte trecho do referido acórdão (fls. 680-681 - destaques no original):
+1. Na presente hipótese, a recorrente, ao interpor o recurso especial, apresentou apenas as guias de recolhimento de custas, deixando de anexar os respectivos comprovantes de pagamento (fls. 410-411 e-STJ).
+No âmbito da admissibilidade perante a Corte de origem, foi constatada a irregularidade, certificando-se o recolhimento das custas devidas àquele Tribunal, bem como a impossibilidade de atestar o recolhimento das custas devidas ao STJ (fl. 495 e-STJ).
+A parte foi intimada para comprovar o recolhimento (fl. 497 e-STJ), sobrevindo apresentação do comprovante de fls. 500 e-STJ, na forma simples.
+Recebidos os autos neste STJ, certificou-se que o preparo restava irregular, pois "não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro" (fl. 580 e-STJ).
+Assim, diante do equívoco do Judiciário, concedeu-se novo prazo à parte (fl. 580 e 582 e-STJ), para complementação das custas (recolhimento em dobro).
+O prazo, todavia, transcorreu in albis (fl. 584 e-STJ).
+ ..
+1.2. Ressalta-se, ainda, que a alegação de que o preparo foi recolhido no prazo recursal não afasta o referido óbice, pois é dever da parte comprovar o pagamento no ato de interposição do recurso, conforme expressa disposição do artigo 1.007 do CPC/15.
+Neste sentido: AgInt nos EAREsp n. 2.270.887/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 17/10/2023, DJe de 19/10/2023; AgInt no AREsp n. 2.380.943/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 2.367.620/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.
+Na hipótese, o recurso foi interposto em 27/10/2022 (fl. 450 e-STJ).
+A comprovação do recolhimento, na forma simples, chegou aos autos somente em 20 de janeiro de 2023 (fls. 495-496 e-STJ), em relação às custas locais; e, 09 de fevereiro de 2023 (fl. 500 e-STJ), quanto ao valor devido a este STJ.
+Além da comprovação extemporânea, os documentos referidos demonstram que o efetivo pagamento foi realizado somente em 07/11/2022 - ou seja, após a interposição do recurso especial.
+De todo irrelevante que o pagamento tenha sido efetuado, supostamente, no prazo recursal, seja porque é dever da parte comprovar o recolhimento no ato de interposição, seja porque a interposição do recurso esgota o direito de praticar o ato, não havendo falar em continuidade do prazo após a interposição.
+Logo, reitera-se, era de fato devido o recolhimento em dobro, conforme assentado quando do recebimento dos autos nesta Corte Superior.
+1.3. Assim, não tendo sido regularizado o preparo no prazo concedido à parte, inafastável a deserção do recurso, atraindo a incidência da Súmula 187/STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Quanto às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Dito de outra forma, quando o Superior Tribunal de Justiça não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que dispõem sobre tais requisitos.
+Isso é o que ficou definido no Tema n. 181 do STF, no qual a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+Vale esclarecer que o entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nos casos em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Por fim, registro a existência de publicação produzida pela Secretaria de Comunicação Social do Superior Tribunal de Justiça sobre a análise dos recursos extraordinários interpostos contra julgados do STJ, conteúdo de eventual interesse das partes, disponível para acesso por meio do QR Code a seguir:
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Observando os princípios da cooperação e da celeridade, anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC e adequado para impugnação das decisões de inadmissão), conforme previsão do § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
