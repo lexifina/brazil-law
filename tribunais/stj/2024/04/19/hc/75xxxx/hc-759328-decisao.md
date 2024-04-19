@@ -1,0 +1,33 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 421 (e-STJ).
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+"Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade." (HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+No entanto, cabe conceder ordem de ofício em caso de flagrante ilegalidade do ato impugnado. Com essas premissas, não verifico aqui a ocorrência de flagrante ilegalidade, que reclama a concessão, ex officio, da ordem.
+A defesa sustenta que o Ministério Público utilizou do silêncio em desfavor do paciente. Sustenta que a acusação assim se manifestou na sessão plenária do Tribunal do Júri:
+FALA DO MP EM PLENÁRIO: (audio em pen-drive encartadonos autos) usando como argumento de autoridade referênciaao silêncio do réu na primeira fase:MP aos 2h:15min;50sec "..
+Ele foi ouvido senhores na frente do Juiz.. e na frente do juiz..
+e aqui, eu não posso.. vejam bem, o que eu vou falar é caráter informati-vo mas eu não posso depreciar o que acontece se manter em silencio é um direito constitucional..
+então eu não posso falar assim.. (02h:16min;10sec) ahh.. ficou em silêncio.. quem é inocente brada pela verdade quer falar o que aconteceu!! não posso fazer qualquer comentário desse.. porque eu violaria a lei e seria anulado esteplenário.. MP aos 02h:16min:31sec "..
+ele falou o seguinte: em interrogatório judicial o reu invocou seu direito constitucional ao silencio nada dizendo sobre a acusação de co-metimento de crime. então na frente do juiz ele falou: eunão vou falar nada.. (..) " (SIC)
+A Corte local afastou a nulidade, nos seguintes termos:
+"Pois bem.
+A alegação de nulidade do julgamento formulada pela Defesa não merece prosperar.
+O inciso II, do artigo 478 do Código de Processo Penal, veda o uso do silêncio do acusado em seu prejuízo, o que efetivamente não aconteceu no presente caso, pois tal fato não foi usado como elemento de convicção em desfavor do réu.
+Ademais, vale anotar que "Embora a opçãopelo silêncio derive de previsão constitucional, ele não inviabiliza o convencimento judicial no sentido desfavorável ao réu, pois a reaçãonormal do inocente é proclamar, com insistência e ênfase, a suainocência não reservar-se para prestar esclarecimentos apenas emJuízo"(Ap. 107141/5, Taubaté, rel. Renato Nalini, TACRIM/SP, j. em20.10.97).
+(..)
+Ressalta-se, ainda, não ter sido apontado emque consistiu eventual prejuízo visto que a disciplina normativa dasnulidades no sistema jurídico brasileiro rege-se pelo princípiosegundo o qual "nenhum ato será declarado nulo, se da nulidade nãoresultar prejuízo para a acusação ou para a defesa" (artigo 563 do Código de Processo Penal). Esse postulado básico - pas de nullitésans grief- tem por finalidade rejeitar o excesso de formalismo, desdeque não tenha causado prejuízo concreto para quaisquer das partescomo,a priori, é o caso dos autos.
+(..)
+O mesmo ocorre em relação à decisão de pronúncia que, inclusive, foi entregue a todos os jurados apósprestarem compromisso, e à folha de antecedentes, peça, aliás,constante nos autos e que poderia, inclusive, ser acessada pelosjurados caso houvesse necessidade."
+Entendo que houve menção ao silência por parte do Ministério Público, de maneira breve, contudo não houve a exploração do tema a ponto de influir nos jurados, uma vez que a defesa demonstra que a fala ocorreu em apenas uma oportunidade.
+O Superiro Tribunal de Justiça possui entendimento de que a nulidade por violação do direito ao silêncio do acusado, somente ocorre quando o tema é amplam ente explorado pela acusação. Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, II, DO CÓDIGO PENAL - CP. 1. VIOLAÇÃO CONSTITUCIONAL. ANÁLISE DESCABIDA. 2. VIOLAÇÃO AO ART. 478, II, DO CÓDIGO DE PROCESSO PENAL - CPP. MENÇÃO AO SILÊNCIO DO RÉU EM SEU PREJUÍZO NÃO CONSTATADA. 3. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do entendimento consolidado no âmbito desta eg. Corte Superior, é incabível a verificação de eventual violação a princípios ou a dispositivos de extração constitucional, em sede de recurso especial ou de seus respectivos recursos, ainda que para fins de prequestionamento, por importar expressa violação a competência constitucional atribuída ao Pretório Supremo Tribunal Federal (AgRg no AREsp 1625379/SE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/5/2020).
+2. A menção ao silêncio do acusado, em seu prejuízo, no Plenário do Tribunal do Júri, é procedimento vedado pelo art. 478, II, do Código de Processo Penal. No entanto, a mera referência ao silêncio do acusado, sem a exploração do tema, não enseja a nulidade. Na hipótese, não é possível extrair dos elementos constantes dos autos se houve ou não a exploração, pela acusação em plenário, do silêncio do réu em seu desfavor (HC n. 355.000/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/8/2019) (AgRg no AREsp 1558779/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 19/12/2019).
+2.1. No caso concreto, não se extrai do acórdão recorrido e da ata de julgamento, que a assistente da acusação fez menção ao silêncio do réu em seu prejuízo.
+3 . Agravo regimental desprovido.
+(AgRg no AREsp n. 1.665.572/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/11/2020, DJe de 27/11/2020.)
+A análise dos excertos transcritos não permite concluir, de plano, pela ocorrência de ilegalidade flagrante decorrente da referdida nulidade e para chegar a conclusão diferente da Corte local.
+Ante o exposto, não conheço do habeas corpus.
+EMENTA
