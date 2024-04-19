@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por F2 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. (F2 EMPREENDIMENTOS) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar, em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, F2 EMPREENDIMENTOS alegou, a par de divergência jurisprudencial, a violação dos arts. 418 e 419 do CC, ao sustentar (1) a cobrança da taxa de fruição no percentual de 1% ao mês, nos termos do contrato; (2) a necessidade de majoração do percentual de retenção para 25% das parcelas pagas; (3) a possibilidade de retenção das arras; e (4) que ante o decaimento em parte substancial dos pedidos, e em observância ao princípio da causalidade, respondam os recorridos, exclusivamente, pelas custas e honorários advocatícios.
+(1) Da taxa de fruição
+A questão foi analisada no julgamento do recurso especial que foi interposto, concomitantemente, pelos compromissários compradores, CESARIO IOSHIDA e EUNICE MIRANDA DA SILVEIRA, o qual foi parcialmente provido, para afastar a cobrança da taxa de ocupação, porque em dissonância com a jurisprudência desta Corte Superior sobre a matéria.
+Desse modo, fica prejudicado o exame da pretensão de majoração do referido valor no presente recurso, pela perda do objeto.
+(2) Do percentual de retenção dos valores pagos
+Sobre a matéria, a eg. Segunda Seção desta Corte, no julgamento do REsp nº 1.723.519/SP, concluiu pela possibilidade da rescisão de contratos de promessa de compra e venda de imóvel por interesse exclusivo dos adquirentes, mesmo em contratos firmados antes da vigência da Lei nº 13.786/2018, como no caso.
+Na ocasião foi destacado que, em casos tais, deve prevalecer o percentual de retenção de 25% dos valores pagos pelos adquirentes, reputando referido índice como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato.
+A propósito, veja-se a ementa do julgado:
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI 13.786/2018. INCORPORAÇÃO IMOBILIÁRIA. DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO AO PROMISSÁRIO COMPRADOR DOS VALORES PAGOS COM A RETENÇÃO DE 25% POR PARTE DA VENDEDORA. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTE FIRMADO EM JULGAMENTO DE RECURSO REPETITIVO.
+1. A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ).
+2. Hipótese em que, ausente qualquer peculiaridade, na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+3. Nos termos da jurisprudência desta Corte, firmada pela Segunda Seção em julgamento submetido ao rito dos recursos repetitivos, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão" (REsp 1.740.911/DF, DJe 22.8.2019).
+4. Recurso especial parcialmente provido.
+(REsp nº 1.723.519/SP, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado aos 28/8/2019, DJe de 2/10/2019.)
+Na espécie, tendo sido fixado pelas instâncias ordinárias o valor de retenção em 20%, ou seja, aquém do parâmetro estabelecido neste Sodalício para casos tais, merece reparo o acórdão recorrido no ponto, pois se encontra em dissonância com a jurisprudência desta Corte.
+Incide, à espécie, o comando da Súmula nº 568 do STJ, segundo a qual, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+(3) Da retenção das arras
+Segundo a jurisprudência do STJ, "as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no REsp nº 1.893.412/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 7/12/2020, DJe de 11/12/2020).
+Nesse sentido, confiram-se, ainda, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CAUTELAR ANTECEDENTE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1 . Não se constata a alegada violação aos artigos 489 e 1.022 do CPC/15, porquanto os argumentos expostos pela parte foram apreciados, com fundamentação clara, coerente e suficiente pelo órgão julgador.
+2. "A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ)" (REsp 1723519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe 02/10/2019).
+3. Consoante jurisprudência desta Corte Superior, as arras confirmatórias não podem ser objeto de retenção na resolução de contrato de compra e venda por culpa do comprador. Incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp nº 1.878.652/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado aos 22/11/2021, DJe de 24/11/2021 - sem destaque no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. DISTRATO. DEVOLUÇÃO DOS VALORES PAGOS. RETENÇÃO FIXADA EM 20%. POSSIBILIDADE. PRECEDENTES. 3. ARRAS CONFIRMATÓRIAS. INÍCIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. Diante das especificidades do caso concreto, o Tribunal de origem concluiu que a redução do percentual de retenção ao patamar de 20% dos valores pagos seria suficiente para indenizar os prejuízos suportados devido ao desfazimento do negócio - percentual que encontra-se dentro dos parâmetros definidos pela jurisprudência desta Corte Superior, o que atrai a incidência da Súmula 83/STJ.
+3. Nos termos da jurisprudência desta Corte, não é possível a retenção das arras confirmatórias. Aplicação da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp nº 1.862.712/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 10/8/2020, DJe de 17/8/2020.)
+Incide, à hipótese, o comando da Súmula nº 83 do STJ.
+(4) Da redistribuição dos ônus sucumbenciais
+Por sua vez, defendeu a necessidade de redistribuição dos ônus sucumbenciais, considerando o decaimento dos autores em parte substancial dos pedidos, bem como em observância ao princípio da causalidade.
+Todavia, é inviável a revisão acerca da proporção de sucumbência cabível aos litigantes. Nos termos da jurisprudência desta Corte, a apreciação do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula nº 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO MÉDICO. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. DANO MORAL. NÃO CONFIGURAÇÃO. SÚMULA
+Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CONTEXTO FÁTICO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão firmada pelo tribunal de origem acerca da falta de demonstração da ocorrência de abalo moral passível de indenização demandaria a análise de fatos e provas dos a
+utos, procedimento inviável em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido
+de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp nº 1.915.778/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 13/12/2021, DJe de 16/12/2021.)
+Nessas condições, CONHEÇO do agravo de F2 EMPREENDIMENTOS para DAR PARCIAL PROVIMENTO ao recurso especial , a fim de reformar o acórdão e fixar o percentual de retenção em 25% dos valores pagos pelos autores, ficando mantida a distribuição dos ônus sucumbenciais, assim como fixada na origem.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL (LOTE URBANO NÃO EDIFICADO). DISTRATO POR INICIATIVA DOS ADQUIRENTES. (1) MAJORAÇÃO DO VALOR DA CONDENAÇÃO A TÍTULO DE TAXA DE FRUIÇÃO. QUESTÃO PREJUDICADA. (2) RETENÇÃO DE 25% DO VALOR TOTAL. JURISPRUDÊNCIA SEDIMENTADA NA SEGUNDA SEÇÃO. SÚMULA Nº 568 DO STJ. (3) ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 83 DO STJ. (4) REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DE F2 EMPREENDIMENTOS PARCIALMENTE PROVIDO.
