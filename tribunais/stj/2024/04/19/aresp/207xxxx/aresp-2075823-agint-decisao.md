@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE NITEROI contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fl. 315):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ITBI. EDIFICAÇÃO POSTERIOR À AQUISIÇÃO. IMPOSSIBILIDADE. SÚMULA 470/STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. DIALETICIDADE RECURSAL. AUSÊNCIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Os embargos de declaração opostos na origem foram desprovidos (fls. 240/245).
+Nas razões do seu recurso especial, a parte ora agravante alegou ofensa ao art. 1.022 do Código de Processo Civil (CPC), bem como que foi dada incorreta aplicação ao art. 1.010, II, do CPC, defendendo que o recurso de apelação por ela apresentado não padecia de deficiência formal.
+A parte adversa não apresentou contrarrazões consoante certificado à fl. 269.
+O recurso não foi admitido, o que ensejou a interposição de agravo em recurso especial.
+Às fls. 315/320, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) conheceu do agravo para não conhecer do recurso especial.
+Contra a decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente defende a inaplicabilidade das Súmulas 7 do Superior Tribunal de Justiça (STJ) e 283 do Supremo Tribunal Federal (STF), alegando a admissibilidade do recurso de apelação, argumentando que foram atacados todos os fundamentos da sentença.
+Não foi apresentada impugnação (fl. 333).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Ao solucionar a controvérsia, o Tribunal de origem apresentou a seguinte fundamentação:
+Na realidade, o principal fundamento para o acolhimento parcial do pedido foi a inclusão, pela municipalidade, da construção operada pela recorrida após a aquisição do imóvel o qual consistia, até então, em terreno não edificado.
+O critério adotado pelo apelante afronta inequivocamente o verbete sumular STF nº 470, nos seguintes termos:
+Súmula n.º 470/STF - O imposto de transmissão "inter vivos" não incide sobre a construção, ou parte dela, realizada, inequivocamente, pelo promitente comprador, mas sobre o valor do que tiver sido construído antes da promessa de venda.
+Entendeu também o magistrado que, por se tratar de compra de terreno, não de imóvel na planta, não cabe a aplicação do art. 29, parágrafo único, da Lei nº 4.591/64.
+Por outro lado, a parte ré, ao interpor o recurso, não impugnou suficientemente os fundamentos para a reforma da sentença, restringindo-se a copiar os argumentos de sua contestação.
+Imprescindível, para ser alcançada a reforma ora pretendida, a impugnação específica dos motivos determinantes da decisão questionada, expondo-se de forma articulada e argumentativa as razões que justificariam a prolação de decisão em sentido diverso.
+Verifico que inexiste a alegada violação do art. 1.022 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ademais, como visto, do recurso de apelação não se conheceu por ausência de impugnação suficiente ao principal fundamento para o acolhimento do pedido inicial da parte ora agravada, qual seja, o de que a construção operada pela recorrida foi efetivada após a aquisição do imóvel, que consistia, há época da transmissão, em terreno não edificado.
+A conclusão adotada está em conformidade com a jurisprudência do Superior Tribunal de Justiça, segundo a qual "a ausência de combate a fundamentos determinantes do julgado recorrido conduz ao não conhecimento do apelo" (AgInt no REsp 1.813.456/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/11/2019, DJe de 27/11/2019.)
+No mesmo, cito o seguinte precedente:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. APELAÇÃO NÃO CONHECIDA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. PRINCÍPIO DA DIALETICIDADE NÃO OBSERVADO.
+1. No caso, observa-se que o Colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+2. O acórdão recorrido adotou solução em consonância com o entendimento firmado no âmbito desta Corte de Justiça, segundo o qual, "embora a mera reprodução da petição inicial nas razões de apelação não enseja, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015" (AgInt no REsp 1.735.914/TO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 14/8/2018).
+3. Agravo interno não provido. (AgInt no AREsp n. 2.380.058/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Além disso, dissentir das conclusões do acórdão recorrido para atestar que o recurso de apelação atendeu ao princípio da dialeticidade, com a devida impugnação de fundamento suficiente da sentença, implicaria, a toda evidência, necessário revolvimento de matéria fática, o que é vedado em recurso especial pelo óbice da Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. APELAÇÃO. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. EMBARGOS DE DECLARAÇÃO. INTENTO PROTELATÓRIO. MULTA. APLICAÇÃO MANTIDA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, alguns capítulos da decisão ora agravada (Súmulas 284 do STF e 83 do STJ).
+3. O Tribunal estadual assentou que houve inobservância do princípio da dialeticidade na interposição do recurso de apelação, pois a parte autora, ora agravante, não se desincumbiu do ônus processual de impugnar especificamente os fundamentos da sentença.
+4. Entender "o contrário do que ficou expressamente consignado no acórdão recorrido - ausência de impugnação dos fundamentos da sentença -, a fim de acatar o argumento da recorrente, demanda reexame do suporte probatório dos autos, o que é vedado na via do Recurso Especial, nos termos da Súmula 7 do STJ." (REsp n. 2.002.973/TO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/8/2022, DJe de 06/09/2022).
+5. Esta Corte entende que a tentativa de "alterar os fundamentos da decisão embargada, com vistas a obter decisão mais favorável aos seus interesses, demonstra o intuito procrastinatório da parte", o que enseja a multa prevista no art. 1.026, § 2º, do Código de Processo Civil/2015 (AgInt no REsp 1688455/DF, rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 06/12/2017), pelo que, no caso concreto, deve ser mantida a multa aplicada na instância de origem.
+6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no REsp n. 2.021.569/PA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
