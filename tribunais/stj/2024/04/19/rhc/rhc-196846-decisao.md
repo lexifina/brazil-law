@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por WESLEY DA COSTA DE PAULO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO - HC 5000336-80.2024.8.08.0000.
+Extrai-se dos autos que o recorrente foi pronunciado pela suposta prática dos delitos tipificados no o art. 121, § 2º, incisos I e IV do Código Penal e art. 121, §2º, incisos II e IV, art. 14, inciso II, ambos do Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu do denegou a ordem, nos termos do acórdão de fls. 142-150 (e-STJ)
+Nesta sede, o recorrente alega, em síntese, que a pronúncia encontra-se baseada apenas em elementos do inquérito policial, na medida em que a vítima Kamila, não confirmou seu depoimento em juízo.
+Sustenta violação dos arts. 155 e 413 do CPP e do art. 93, IX, da Constituição da República.
+Requer a concessão do provimento recursal, inclusive liminarmente, para que seja impronunciado.
+A liminar foi indeferida (e-STJ, fl. ).
+Prestadas as informações (e-STJ, fls.), o Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. ).
+É o relatório.
+Decido.
+Inicialmente, cumpre ressaltar que a "decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019). É "plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC 607.055/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 16/12/2020).
+Nesse sentido, ainda:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIMES DE PECULATO, CONCUSSÃO E ASSOCIAÇÃO CRIMINOSA, VIOLAÇÃO DE DOMICÍLIO EM CONCURSO MATERIAL. RECURSO ORDINÁRIO DESPROVIDO MONOCRATICAMENTE PELO RELATOR. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE OFENSA. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. NULIDADE DA CERTIDÃO DE TRÂNSITO EM JULGADO. APONTADO VÍCIO NA INTIMAÇÃO DA SENTENÇA CONDENATÓRIA NÃO RECONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Importante gizar que a prolação de decisão monocrática pelo Ministro relator está autorizada não apenas pelo Regimento Interno do Superior Tribunal de Justiça, mas também pelo art. 932 do Código de Processo Civil de 2015. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+Ademais, este Superior Tribunal de Justiça, em tempos de PANDEMIA (COVID-19), tem adotado diversas medidas para garantir a efetiva prestação jurisdicional e o respeito ao princípio da celeridade processual, sem que isso implique violação ao devido processo legal ou cause prejuízo a qualquer das partes.
+2. O relator no Superior Tribunal de Justiça está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ). (AgRg no HC 594.635/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 16/03/2021, DJe 19/03/2021) .
+3. Lado outro, a prolação de decisão unilateral pelo Relator não fere o princípio da colegialidade, tampouco caracteriza cerceamento de defesa diante na não viabilidade da sustentação oral quando solicitada. Ora, a adoção da atual sistemática de julgamentos, seja da forma monocrática, quando o caso, seja da forma virtual; além de encontrar respaldo legal, mostra-se necessária nesse momento de Pandemia pela qual passamos e que exige distanciamento social como protocolo de segurança sanitária, visando a não propagação do vírus.
+Importante gizar, outrossim, que os temas a serem destacados na sustentação oral, bem como o enfoque da teses que busca a parte em sua requerida oratória, permanecem viabilizados através da apresentação de memoriais a todos os membros do órgão colegiado, afastando, assim, qualquer prejuízo a parte.
+4. Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral. (AgRg no HC 647.128/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/04/2021, DJe 19/04/2021)
+5. De outro vértice, no caso, conforme se extrai da sentença penal condenatória, os recorrentes responderam a todo o processo em liberdade, sendo-lhes garantido o direito de recorrer soltos, contudo, não houve a interposição de recurso, certificando-se, então, o trânsito em julgado das condenações. Nesse viés, tratando-se de réus soltos, assevero que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a obrigatoriedade de intimação pessoal do acusado para tomar ciência da sentença somente ocorre se este estiver preso, podendo ser dirigida unicamente ao patrocinador da defesa, pela imprensa oficial, na hipótese de réu solto, segundo prevê o art. 392, incisos I e II, c.c. o art. 370, parágrafo único, ambos do Diploma Processual Penal, pois satisfaz a garantia do contraditório e da ampla defesa (RHC 45.336/SP, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 22/4/2014, DJe de 30/4/2014).
+6. Destaco ainda,  c onsoante a jurisprudência do Superior Tribunal de Justiça e nos termos do art. 392, II, do Código de Processo Penal, não há se falar em constrangimento ilegal pela ausência de intimação pessoal do réu quanto ao teor da sentença condenatória quando respondeu ao processo em liberdade, mostrando-se suficiente a intimação do defensor constituído por meio de imprensa oficial, como ocorreu na hipótese. (AgRg no HC 588.801/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 4/8/2020, DJe de 10/8/2020) 7. Agravo regimental desprovido.
+(AgRg no RHC 145.451/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/04/2021, DJe 03/05/2021; sem grifos no original.)
+Da análise dos autos, verifica-se, inicialmente, que a questão trazida nos autos não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"(..).
+2. Em relação ao pleito de relaxamento da custódia após a anulação da sentença em acórdão de apelação, o exame por esta Corte de matéria não decidida pelo Tribunal de Justiça enseja indevida supressão de instância.
+(..).
+(AgRg no HC 773.723/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+"(..).
+2. O pleito de progressão de regime não foi objeto de debate pelo Tribunal de origem, o que evidencia a impossibilidade de conhecimento da impetração por este Sodalício, sob pena de supressão de instância. Precedentes.
+(..).
+(AgRg no HC 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+Demais disso, observa-se que o acórdão atacado entendeu que o habeas corpus não é a via cabível para impugnar a decisão de pronúncia, mas sim o recurso em sentido estrito. O recorrente, por sua vez, nesta sede, repisa que a pronúncia é nula.
+Assim, verifica-se que o recurso não merece conhecimento, na medida em que o recorrente não impugnou os fundamentos do acórdão atacado.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. ABANDONO DO PROCESSO. MULTA DO ART. 265 DO CPP. NÃO COMPARECIMENTO. SÚMULA 283/STF, POR ANALOGIA. AGRAVO DESPROVIDO.
+1. "A Súmula n. 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (STJ, AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 1º/8/2012).
+2. Ademais, ainda que, na interpretação dos advogados, a data não lhes parecesse compatível com os atos normativos do Tribunal de origem, eles deveriam se insurgir, tempestiva e adequadamente (pela via própria), contra a designação. Frise-se que eles foram devidamente intimados, mas se omitiram. Na data ajustada, apenas não compareceram à sessão de julgamento.
+3. Sobre a multa em questão, note-se que a desídia também se enquadra no conceito de abandono da norma prevista no art. 265 do CPP. Precedentes.
+4. Agravo desprovido."
+(AgRg no RMS n. 67.993/PB, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS ADOTADOS PELO ACÓRDÃO RECORRIDO. RECURSO ORDINÁRIO EM HABEAS CORPUS NÃO CONHECIDO.
+I - Não se conhece do apelo ordinário em habeas corpus se, nas razões recursais, não se ataca os fundamentos adotados pelo acórdão recorrido (Precedentes do STJ).
+II - "Não se conhece do recurso ordinário quando o recorrente deixa de impugnar os fundamentos do acórdão recorrido, limitando-se a requerer nova análise da questão. Precedentes". (RHC n. 30.055/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 29/3/2012).
+III - Parecer do d. Ministério Público Federal no mesmo sentido.
+Recurso ordinário não conhecido.
+(RHC n. 55.419/BA, relator Ministro Felix Fischer, Quinta Turma, julgado em 23/2/2016, DJe de 29/2/2016.)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
