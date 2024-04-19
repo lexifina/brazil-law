@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Cristian da Silva Castro, representado pela Defensoria Pública da São Paulo, contra a decisão que não admitiu recurso especial apresentado, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 1509810-37.2021.8.26.0050, que proveu o recurso ministerial para reconhecer as qualificadoras, agravar a pena e recrudescer o regime prisional.
+Aponta o agravante, no especial, violação dos arts. 33, § 3º, e 59 do Código Penal, almejando o abrandamento do regime de cumprimento da pena.
+A Subprocuradoria-Geral da República opinou pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial, a insurgência também é admissível, contudo, no mérito, não merece acolhida.
+O Tribunal de Justiça bandeirante fixou o regime mais gravoso destacando que, apesar de o total da pena imposta não superar o previsto no art. 33, § 2º, alínea "a", do Código Penal, mantenho fixado o regime fechado, somando-se ao quantum de pena alcançado a presença de maus antecedentes e a condição de reincidente do acusado, o que faz despontar a periculosidade do agente e recomendar, de conseguinte, a imposição do regime prisional mais gravoso para o início do desconto da pena corporal, como sinal de maior reprovabilidade de sua conduta (fl. 206 - grifo nosso).
+Com efeito, embora a reprimenda privativa de liberdade tenha sido estabelecida em patamar igual ou inferior a 4 anos de reclusão, tendo em conta que pena-base foi fixada acima do mínimo legal e diante da reincidência, não há falar em ilegalidade na estipulação do regime inicial fechado.
+Nesse sentido, colaciono julgados de ambas as Turmas que compõem a Terceira Seção:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE. FUNDAMENTAÇÃO INIDÔNEA CONDUTA SOCIAL. MOTIVAÇÃO ADEQUADA PARA INCREMENTO DA REPRIMENDA. CIRCUNSTÂNCIAS DO CRIME. MAIOR GRAVIDADE DA CONDUTA EVIDENCIADA. MAUS ANTECEDENTES CONFIGURADOS. CONFISSÃO ESPONTÂNEA INFORMAL. MANIFESTAÇÃO NÃO UTILIZADA PARA EMBASAR A CONDENAÇÃO. IMPOSSIBILIDADE DE INCIDÊNCIA DA ATENUANTE. REGIME PRISIONAL FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA INFERIOR A 4 ANOS DE RECLUSÃO. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL. REINCIDÊNCIA. SÚMULA 269/STJ. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Código Penal, é possível a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+11. Em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstâncias judiciais desfavoráveis, não há falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Estatuto Repressor. Inteligência, a contrario sensu, da Súmula 269/STJ.
+12. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda do paciente para 3 anos e 8 meses de reclusão, mais 17 dias- multa, mantido o regime prisional fechado para o início do cumprimento da reprimenda.
+(HC n. 453.042/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/8/2018 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. EXASPERAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. DECISÃO FUNDAMENTADA. MANUTENÇÃO DO REGIME FECHADO. RÉU REINCIDENTE COM A PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. INAPLICABILIDADE DA SÚMULA N. 269 DO STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta à certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Na espécie, está correto o aumento da pena-base diante dos maus antecedentes do sentenciado, pois existem condenações definitivas, anteriores à data do fato em análise, diferentes da condenação utilizada na segunda etapa do cálculo da sanção para a configuração da reincidência.
+3. Não se observa a existência de constrangimento ilegal na manutenção do regime fechado para o início do cumprimento da sanção aplicada, pois, embora a pena imposta ao paciente seja inferior a 4 (quatro) anos de reclusão, sua condição de reincidente, somada à análise desfavorável das circunstâncias judiciais, impede a aplicação do disposto na Súmula n. 269 desta Corte. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 335.819/MS, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 5/4/2018 - grifo nosso).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO DUPLAMENTE QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E ESCALADA. REGIME MAIS GRAVOSO FUNDADO NA PENA-BASE ACIMA DO MÍNIMO E REINCIDÊNCIA. POSSIBILIDADE. ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ.
+Agravo conhecido para negar provimento ao recurso especial.
