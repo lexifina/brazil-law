@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Trata-se de habeas corpus impetrado pelo Advogado Bryan Rodrigues, em favor da paciente ROSANGELA POSSAMAI, no qual aduz sofrer ilegal constrangimento da parte do Exmo. Desembargador Relator da impetração manejada perante o E. Tribunal de Justiça do Rio Grande do Sul, que indeferiu a liminar no Habeas Corpus n. 5052903-77.2024.8.21.7000.
+Sustenta que a paciente se encontra presa preventivamente desde 09/02/2024, pela suposta prática dos crimes de furto e incêndio, sem que para tanto estejam presentes os requisitos autorizados da medida cautelar.
+Ressalta os predicados pessoais da paciente.
+Ao final pugna pela superação do óbice da Súmula n. 691/STF e a concessão, em caráter liminar e no mérito, da revogação da prisão preventiva, com ou sem a imposição de medidas assecuratórias de natureza diversa.
+É caso de indeferimento liminar do habeas corpus.
+Como é cediço, não cabe a este Superior Tribunal de Justiça conhecer de habeas corpus que tenha sido impetrado contra decisão liminar por Desembargador, estando sua competência prevista no artigo 105, inciso I, alínea c, da Constituição da República, o que só se admitiria excepcionalmente, em caso de constrangimento ilegal patente.
+Nesse sentido é o entendimento jurisprudencial pacífico e sumulado sob o enunciado de súmula nº 691 do C. Supremo Tribunal Federal ("Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar").
+Ainda é nesse sentido que se mantém a jurisprudência deste e. Sodalício. Por todos, confira-se trecho irreprochável da ementa de um desses v. Acórdãos de referência: "Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente. Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF" (AgRg no RHC n. 192.760/RS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, v.u.).
+No caso concreto, a liminar foi indeferida com a indicação de fundamentos, a princípio, adequados e suficientes para a manutenção do cárcere. Com efeito, assim decidiu o Exmo. Desembargador indigitado como autoridade coatora:
+"Isso porque a decisão que decretou a prisão preventiva da paciente, bem como a que manteve a medida, ambas de lavra do douto Juiz de Direito, Dr. Antonio Luiz Pereira Rosa, encontram-se motivadas, em observância ao disposto no artigo 93, inciso IX, da Constituição Federal, como se pode constatar ao processo 5000316-70.2024.8.21.0051/RS, evento 17, DOC1 e ao evento 43, DOC1.
+Dessa foi ia, a decisão combatida visa a proteção da comunidade e do ofendido, não se verificando qualquer violação ao princípio da presunção de inocência, uma vez que devidamente fundamentadas e legalmente amparadas.
+Com efeito, encontram-se presentes os requisitos do artigo 312 do CPP para a decretação da prisão cautelar, havendo indícios suficientes de autoria e prova da materialidade dos delitos.
+No caso em tela, foi registrada, na data de 29.01.2024, Ocorrência Policial (nº 325/2024/151030) dando conta da prática dos delitos de furto e incêndio doloso em estabelecimento comercial localizado na cidade de Garibaldi/RS.
+Ao prestar depoimento em sede policial, o proprietário do local indicou possíveis suspeitos. Durante as investigações realizadas pela Polícia Civil, foi possível identificar, por meio das imagens das câmeras de monitoramento do local, o trajeto percorrido pelo veículo supostamente utilizado na prática dos delitos.
+Diante das provas colhidas, foi expedido Mandado de Busca e Apreensão a ser cumprido na residência do suspeito J.C.Z.D.S. - evento 3, DESPADEC1.
+Quando do cumprimento do MBA, foram apreendidos os objetos descritos no Auto de Apreensão e evento 10, ACOR6.
+Na ocasião, o suspeito foi interrogado pela Autoridade Policial, tendo confessado a prática delitiva. Informou, ainda, que praticou o crime a mando da ora paciente.
+Segundo as declarações, R.P. teria inicialmente solicitado a execução da vítima, seu ex-companheiro. Todavia, diante da recusa do interrogado, a paciente teria oferecido a quantia de R$ 10.000,00 (dez mil reais) para que fosse incendiado o estabelecimento comercial do ofendido.
+ ..
+No mais, destaco que a tese defensiva - negativa de autoria - depende de análise aprofundada, que não encontra espaço na estreita via do habeas corpus, que exige prova pré-constituída." (fls. 43-44).
+Desta feita, não percebo manifesto constrangimento ilegal a ser sanado em superação excepcional da barreira da súmula 691, sem prejuízo de exame do caso em novo habeas corpus impetrado depois da manifestação do colegiado prevento na Corte Estadual.
+Assim, indefiro liminarmente o habeas corpus, com fulcro na Súmula nº 691 do STF e no art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
