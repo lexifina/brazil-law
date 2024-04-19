@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por KUNIKO SHIGUEHARA KIMURA E OUTROS em face de decisão que não conheceu do recurso, por falta de impugnação específica aos fundamentos da decisão de inadmissibilidade.
+Os ora embargantes, com fulcro nos arts. 1.022, II, e 489, § 1º, IV, do CPC/2015, alegam que a r. decisão embargada está maculada por omissões, já que não levou em consideração que no Agravo em Recurso Especial foram impugnados TODOS os argumentos pertinentes de forma específica  .. " (fl. 608), afirmando: (i) ter demonstrado a violação dos dispositivos processuais em tópicos específicos; (ii) que sobre a matéria constitucional foi interposto RE; (iii) comprovada a realização do cotejo analítico do dissídio em matéria infraconstitucional em tópico específico; (iv) quanto à Súmula 280/STF, que a discussão não tem como objeto reanálise de direito local, mas sim de matéria infraconstitucional violada, em tópico específico; (v) demonstrada a não incidência do óbice da Súmula 7/STJ, por o REsp não ter como objetivo reanálise fática, em tópico específico.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, a decisão ora embargada não conheceu do AREsp por falta de impugnação específica à decisão de inadmissibilidade quanto aos seguintes fundamentos adotados sobre: (i) violação de normas constitucionais; (ii) Súmula 7/STJ; e (iii) Súmula 280/STF.
+Ocorre que os ora embargantes, insurgindo-se de forma genérica contra o não conhecimento do AREsp, alegam omissão generalizada de todas as alegações, sem demonstrar de forma clara e objetiva o ponto acoimado de vício - o que configura deficiência da fundamentação recursal, não permitindo a exata compreensão da controvérsia. Aplicação do óbice da Súmula 284/STF.
+A toda evidência, no presente caso, os embargantes, não conformados com o resultado a seu desfavor, buscam , de forma transversa, o rejulgamento da causa recursal. Contudo, vale lembrar que o escopo do recurso dos embargos é integrar a decisão embargada, aperfeiçoando a prestação jurisdicional, mediante complementação ou esclarecimento, devendo os argumentos de natureza impugnativa ser arguidos na via recursal adequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. EMBARGOS REJEITADOS.
