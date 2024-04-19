@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão assim ementado:
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. RUÍDO. APOSENTADORIA ESPECIAL. CONVERSÃO DE ATIVIDADE COMUM EM ESPECIAL. IMPOSSIBILIDADE. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS. HONORÁRIOS ADVOCATÍCIOS. REMESSA A QUO. OFICIAL. NÃO CONHECIMENTO.
+I - No que se refere à conversão do tempo de serviço especial em comum, a jurisprudência é pacífica no sentido de que deve ser aplicada a lei vigente à época em que exercido o trabalho, à luz do princípio tempus regit actum.
+II - Em se tratando do agente nocivo ruído, a atividade deve ser considerada especial se exposta a ruídos acima de 85 dB, nos termos do Decreto nº 53.831/64. No entanto, após 5/3/97, o limite foi elevado para 90 dB conforme Decreto nº 2.172. A partir de 19/11/03, o referido limite foi reduzido para 85 dB, nos termos do Decreto nº 4.882/03.
+III - A documentação apresentada permite o reconhecimento da atividade especial do período pleiteado em parte.
+IV - Não merece prosperar o pedido de conversão de atividade comum em especial, tendo em vista que o requerimento de aposentadoria especial deu-se na vigência da Lei nº 9.032, de 28/4/95, que inseriu o §5º ao art. 57 da Lei nº 8.213/91, suprimindo a possibilidade de tal conversão.
+V - Com relação à aposentadoria especial, não houve o cumprimento dos requisitos previstos no art. 57 da Lei nº 8.213/91.
+VI - No tocante à aposentadoria por tempo de contribuição, a parte autora cumpriu os requisitos legais necessários à obtenção do benefício.
+VII - A matéria referente ao termo inicial de concessão do benefício deverá ser apreciada no momento do cumprimento de sentença, tendo em vista que a questão será objeto de análise pelo C. Superior Tribunal de Justiça (Tema nº 1.124): "Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária."
+VIII - A correção monetária deve incidir desde a data do vencimento de cada prestação e os juros moratórios a partir da citação, momento da constituição do réu em mora. Com relação aos índices de atualização monetária e taxa de juros, devem ser observados os posicionamentos firmados na Repercussão Geral no Recurso Extraordinário nº 870.947 (Tema 810) e no Recurso Especial Repetitivo nº 1.492.221 (Tema 905), adotando-se, dessa forma, o IPCA-E nos processos relativos a benefício assistencial e o INPC nos feitos previdenciários. A taxa de juros deve incidir de acordo com a remuneração das cadernetas de poupança (art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09), conforme determinado na Repercussão Geral no Recurso Extraordinário nº 870.947 (Tema 810) e no Recurso Especial Repetitivo nº 1.492.221 (Tema 905). A partir de 9/12/21, data da publicação da Emenda Constitucional nº 113, de 8/12/21, deve ser observado o disposto em seu art. 3º: "Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente."
+IX - A verba honorária fixada à razão de 10% sobre o valor da condenação remunera condignamente o serviço profissional prestado, nos termos do art. 85 do CPC/15 e precedentes desta Oitava Turma. A base de cálculo da verba honorária deverá ser fixada no momento do cumprimento de sentença, tendo em vista que o C. Superior Tribunal de Justiça afetou os Recursos Especiais nºs. 1.883.715/SP, 1.883.722/SP, 1.884.091/SP e 1.880.529/SP (Tema nº 1.105) para uniformizar a questão referente à "Definição acerca da incidência, ou não, da Súmula 111/STJ, ou mesmo quanto à necessidade de seu cancelamento, após a vigência do CPC/2015 (art. 85), no que tange à fixação de honorários advocatícios nas ações previdenciárias."
+X - Na hipótese de a parte autora estar recebendo aposentadoria, auxílio-doença ou abono de permanência em serviço, deve ser facultado ao demandante a percepção do benefício mais vantajoso, sendo vedado o recebimento conjunto, nos termos do art. 124 da Lei nº 8.213/91.
+XI - O valor da condenação não excede a 1.000 (um mil) salários mínimos, motivo pelo qual a R. sentença não está sujeita ao duplo grau obrigatório.
+XII - Agravo retido não conhecido. Apelação do INSS improvida. Apelação do autor parcialmente provida. Remessa oficial não conhecida.
+Os Embargos de Declaração foram rejeitados.
+O INSS aponta violação dos arts. 11, 489, II, § 1º, IV, e 1.022, II, parágrafo único, II, do Código de Processo Civil; 31 da Lei 3.807/1960 c/c Decreto 53.831/1964; 60 do Regulamento dos Benefícios da Previdência Social (Decreto 83.080/1979); e 57, §§ 3º, 4º e 5º, e 58, § 1º, da Lei 8.213/1991. Argumenta que a atividade na lavoura da cana-de-açúcar não pode ser enquadrada por categoria profissional como agropecuária, e não houve comprovação da exposição a agentes nocivos, sendo inviável o reconhecimento da especialidade por mera presunção de nocividade
+Contrarrazões às fls. 544-550.
+A Presidente da Comissão Gestora de Precedentes, Ministra Assusete Magalhães, menciona que a questão central do recurso é semelhante à Controvérsia 526/STJ, sob minha relatoria, indicando a possibilidade de que o Recurso possa complementar a referida controvérsia. Determina o encaminhamento dos autos ao Ministério Público Federal para avaliar a admissibilidade do Recurso Especial como Representativo da Controvérsia, nos termos do art. 256-B, II, do RISTJ (fls. 581-582).
+O MPF emitiu parecer às fls. 592-598.
+É o relatório.
+Decido.
+Os autos foram recebidos no Gabinete em 12 de março de 2024.
+O Tribunal de origem consignou:
+9) Período(s): 09/03/1987 a 07/05/1987
+Empresa: Marchesan Implementos e Máquinas Agrícolas "Tatu" S/A
+Atividades/funções: auxiliar geral
+Agente(s) nocivo(s): ruído de 90 db (a)Enquadramento legal: Código 1.1.6 do Decreto nº 53.831/64 (acima de 80 decibéis), Decreto nº2.172/97 (acima de 90 decibéis) e Decreto nº 4.882/03 (acima de 85 decibéis).
+Provas: Perfil Profissiográfico Previdenciário - PPP emitido em 02/02/2014 (id 104295617 p.19/20) e laudo técnico (id 104295617 p. 21/28)
+(..)
+15) Período(s): 16/03/1993 a 30/11/1996
+Empresa: Agropecuária Gino Bellodi Ltda /Usina Santa Adélia
+Atividades/funções: trabalhador agrícola
+Agente(s) nocivo(s): Enquadramento por categoria profissional até 28/04/1995. Produtosquímicos (defensivos agrícolas), poeira e ruído de 89,2 db (a)Enquadramento legal: código 2.2.1 do Anexo do Decreto nº 53.831/64. Código 1.1.6 do Decretonº 53.831/64 (acima de 80 decibéis), Decreto nº 2.172/97 (acima de 90 decibéis) e Decreto nº4.882/03 (acima de 85 decibéis).
+Provas: formulário emitido em 29/12/2003 (id 104295617 p. 08); laudo técnico (id 104295617 p.09/13) e declaração do empregador (id 104295617 p. 07)
+É evidente que para modificar o entendimento firmado no acórdão recorrido seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, providência vedada na via especial conforme Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de negativa de prestação jurisdicional, incidência da Súmula 7 do STJ e ausência de demonstração do dissídio jurisprudencial invocado. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido. (AgInt no AREsp n. 2.054.503/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.)
+O recorrente, ao forçar a adequação do presente REsp às suas razões recursais, não enfrentou devidamente os fundamentos específicos da decisão da instância originária, fazendo alegações genéricas. Tal omissão configura deficiência de fundamentação, o que, por analogia, atrai a incidência da Súmula 284/STF. Nessa linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+VII. Com relação ao ponto do Recurso Especial em que a parte autora sustentou que "a alegação de tríplice identidade entre esta ação e o Mandado de Segurança pretérito não deve subsistir. No caso em discussão, os fundamentos das demandas são outros, ou seja, não há de se falar em coisa julgada, na medida em que não há identidade de causa de pedir. Embora tratem-se do mesmo auto de lançamento, as causas de pedir são diversas. No Mandado de Segurança houve o pedido da imunidade tributária art. 155, § 2º, inc. X, "a", da CF/88", constata-se flagrante deficiência na fundamentação recursal. Afinal, sem indicar contrariedade aos dispositivos do CPC que disciplinam o instituto da coisa julgada, insurgiu-se a parte autora, sob alegada violação ao art. 3º, II, da Lei Complementar 87/96, contra os fundamentos da decisão anteriormente transitada em julgado, que foi respeitada neste processo em face dos efeitos preclusivos da coisa julgada. Nesse contexto, efetivamente incide, na espécie, por analogia, o óbice da Súmula 284 do STF, pois o citado dispositivo da Lei Kandir não possui comando normativo capaz de infirmar o fundamento do acórdão recorrido alusivo à ocorrência de coisa julgada.
+(..)
+IX. Agravo interno improvido.
+(AgInt no AREsp n. 2.127.450/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 27/4/2023.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. LEI FEDERAL. OFENSA. ARGUIÇÃO GENÉRICA. SÚMULA 284 DO STF. INCAPACIDADE LABORATIVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme ressaltado na decisão agravada, não é possível conhecer do Recurso Especial no que tange aos arts. 371, 473, II e IV, 475 e 479 do Código de Processo Civil/2015, uma vez que as razões recursais não explicitam de forma clara e direta como os citados dispositivos legais teriam sido violados pelo Tribunal de origem.
+Portanto, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal.
+2. Quanto à incapacidade laborativa alegada pela parte recorrente, o Tribunal de origem decidiu a controvérsia nos seguintes termos (fls. 327-328, e-STJ): "(..) Concluo que a parte autora não logrou infirmar as conclusões periciais, com elementos objetivos a evidenciar o desacerto do parecer do perito judicial. Destarte, ausente a comprovação de incapacidade laborativa da parte autora, deve ser mantida a sentença de improcedência".
+3. De fato, a modificação do julgado, nos moldes pretendidos, depende do reexame dos elementos de convicção postos no processo, o que encontra óbice na Súmula 7 do STJ.
+(..)
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.931.611/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/12/2021.)
+Diante do exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Cumpre advertir à parte que a eventual interposição de recurso contra o presente decisum, qualificado como manifestamente inadmissível, protelatório ou desprovido de fundamento, ensejará a incidência das sanções previstas nos artigos 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil, podendo resultar, inclusive, em imposição de multa .
+Comunique-se à NUGEP que o Recurso Especial selecionado não é adequado como Representativo de Controvérsia.
+Publique-se.
+Intimem-se.
+EMENTA
