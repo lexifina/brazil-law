@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de origem sob o pálio da seguinte ementa:
+APELAÇÃO RESPONSABILIDADE CIVIL. HOMICÍDIO. AUSÊNCIA OUFALHA OU OMISSÃO DOS SERVIÇOS DE SEGURANÇA PÚBLICA.1.-É SUBJETIVA A RESPONSABILIDADE CIVIL DA ADMINISTRAÇÃO PÚBLICA EM RAZÃO DOS DANOS DECORRENTES DE OMISSÃO GENÉRICA, NECESSÁRIO O EXAME DA CULPA - STF, RE 369.820.2.- A PROVA PRODUZIDA REVELA QUE O HOMICÍDIO FOI COMETIDO POR TERCEIROS - PROVAVELEMENTE EM DISPUTA POR PONTOS DETRÁFICO.3.- INEXISTENTE COMPROVAÇÃO DE CONDUTA OMISSIVA QUE POSSA SER IMPUTADA AO ESTADO, A INSEGURANÇA É VIVENCIADA EMTODAS AS PARTES DO TERRITÓRIO ESTADUAL.3.- NÃO SE REVELA CRÍVEL QUE O ESTADO TENHA QUE RESPONDERPELA INDENIZAÇÃO, POIS SE TRANSFORMARIA EM VERDADEIRO SEGURADOR UNIVERSAL.
+APELO NÃO PROVIDO.
+O Recurso Especial (fls. 376-395) combatia aresto da Corte a quo com fundamento em ofensa ao art. 37, § 6º, da CF e aos arts. 186 e 927 do CC, vindicando o pagamento de indenização pelo dano sofrido.
+Contrarrazões apresentadas às fls. 410-416.
+Decisão pela inadmissibilidade do Recurso Especial às fls. 422-425.
+A parte agravante pleiteia, em suma:
+Assim, como defendido no Recurso Especial, a decisão recorrida na origem infringe o disposto nos Arts. 186 e 927 do CCB e Art. 37, §6º, da Constituição Federal, bem como contraria jurisprudência oriunda do Tribunal do Rio de janeiro, por sua 20ª Câmara Cível, da relatoria do Des. MARCO ANTONIO IBRAHIM, devendo ser admitido o Recurso Especial interposto pelos Agravantes.
+Destarte, a reforma da decisão nos termos do Recurso Especial é medida que se impõe, para os fins de reconhecer a responsabilidade Estatal e, via de consequência, a procedência da açãoindenizatória.4. DOS PEDIDOS: Ante o exposto, requer o Agravante o seguinte: a)O recebimento e o processamento do presente Agravo; b)Seja o Agravado intimado a se manifestar, querendo; c)Seja dado TOTAL PROVIMENTO ao presente Agravo em Recurso Especial, para os fins de revisar a decisão que não admitiu o Recurso Especial interposto pelos ora Agravantes, sendo determinado o seu recebimento e o devido processamento, para, ao final, ser julgado totalmente procedente, reconhecendo-se a responsabilidade do Poder Público e o dever indenizatório; e, d)Por fim, requer a determinação da inversão dos ônus sucumbenciais.
+Contraminuta às fls. 451-455.
+Parecer do MPF às fls. 469-475.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.3.2024.
+Cuida-se de inconformismo contra decisum do Tribunal de origem que não admitiu o Recurso Especial, sob o fundamento de impossibilidade de análise de dispositivo constitucional, incidência da Súmula 7/STJ.
+O Agravo é tempestivo e combateu todos os argumentos da decisão de inadmissibilidade do Tribunal a quo, razão pela qual merece conhecimento. Dessa feita, passa-se a analisar o Recurso Especial.
+A irresignação não merece prosperar.
+Primeiramente, não cabe o Recurso Especial para enfrentamento da alegação de violação a dispositivos constitucionais, in casu, o art. 37, § 6º, da CF, haja vista que tal matéria é da competência exclusiva do STF, devendo, portanto, ser objeto de recurso próprio, dirigido àquela Corte.
+Nesse sentido, "o STJ possui entendimento consolidado quanto à impossibilidade de análise de ofensa a dispositivos e princípios constitucionais em sede de Recurso Especial, sob pena de usurpação da competência do STF no âmbito do recurso extraordinário" (AgInt no AREsp 1.861.098/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe 17/12/2021). A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE VÍCIOS. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC/2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para os presentes embargos de declaração.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração.
+III - Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+IV - A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015, a teor do disposto na Súmula 98 desta Corte Superior.
+V - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.831.805/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/3/2020, DJe de 26/3/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ARTIGO DE LEI FEDERAL. INDICAÇÃO. AUSÊNCIA. DISPOSITIVO CONSTITUCIONAL E DE LEI LOCAL. VIOLAÇÃO. EXAME. INADEQUAÇÃO. DECADÊNCIA. CONTAGEM.
+FRAUDE. VERIFICAÇÃO. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2, sessão de 09/03/2016).
+2. O Superior Tribunal de Justiça entende que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado implica deficiência na fundamentação do recurso especial (Súmula 284 do STF).
+3. O recurso especial não se presta para o exame de eventual violação de dispositivos constitucionais ou de lei local.
+4. A conformidade do entendimento adotado no acórdão recorrido com a jurisprudência desta Corte Superior, segundo a qual aplica-se o art.
+173, I, do CTN à contagem de decadência para o lançamento de ofício, quando o contribuinte não declara oportunamente o tributo devido, atrai o óbice de conhecimento estampado na Súmula 83 do STJ.
+5. A revisão do acórdão recorrido quanto à inexistência de prova acerca da fraude supostamente praticada pelo contribuinte pressupõe reexame de prova, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.082.206/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 12/3/2020).
+Por outra via, incide na Súmula 7/STJ, a tentativa de alterar o quadro fático para reverter o resultado do julgado e comprovar a responsabilidade administrativa.
+O órgão julgador decidiu a matéria após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que o reexame é vedado em Recurso Especial, pois encontra óbice na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". Para corroborar a presente constatação, citam-se os fundamentos adotados no acórdão:
+A circunstância da região onde ocorreu o evento ser região violenta, não significa, isoladamente que o Estado passe a responder por todos os crimes ocorridos naquela região. No caso presente, onde existe trágicas consequências, não existe como imputar responsabilidade ao poder público. A morte decorreu de fato de terceiro rompendo o nexo de causalidade. O fato ocorrido, lamentável, triste em todos os aspectos, não poderia ter sido evitado pelo poder público. Revela a prova que um terceiro, na condução de um veículo, efetuou disparos que atingiram a vítima. A conduta deste terceiro, com certeza, não poderia ser evitada pelo Estado. A ideia que uma maior presença do Estado poderia inibir a conduta é subjetiva - não se consegue concluir que uma eventual maior presença do Estado, naquele momento, evitaria o crime. Ademais, importante salientar, que crimes são cometidos em todas as partes do território. Eventual condenação no caso presente acarretaria a transformação do Estado em segurador universal -ocasionando, por obvio, prejuízos a todos.
+Os fatos são aqui recebidos como estabelecidos pelo Tribunal a quo, senhor da análise probatória. E, se a violação do dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o Recurso Especial.
+Outrossim, inadmissível o Recurso Especial pelo dissídio jurisprudencial, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exige reexame do material fático-probatório dos autos. Incidência da Súmula 7/STJ.
+Entende o STJ: "Os mesmos óbices impostos à admissão do Recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c" (AgInt nos EDcl no AREsp 1.152.431/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 11/5/2023). Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O tema concernente à definição da base de cálculo da Cofins foi decidido pelo Tribunal de origem com fundamentação de cunho eminentemente constitucional, sendo defeso o exame por este Tribunal, sob pena de usurpação da competência da Suprema Corte.
+2. Consoante jurisprudência do Superior Tribunal de Justiça, a análise da violação do art. 110 do CTN, por reproduzir princípio encartado em norma da Constituição Federal, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.251.683/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/4/2021, DJe de 19/4/2021.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Inviável o conhecimento do recurso especial na hipótese em que, embora o recorrente aponte ofensa à legislação federal, o inconformismo funda-se, em verdade, na análise de ato normativo infralegal (Provimento nº 2.203/2014 do CSM), porquanto o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise do referido instrumento, pretensão insuscetível de ser apreciada em recurso especial, por não se enquadrar no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Conforme Súmula Administrativa 7/STJ, condeno a parte recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
