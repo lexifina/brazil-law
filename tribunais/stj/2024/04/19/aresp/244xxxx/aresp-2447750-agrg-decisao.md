@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MAICON DOUGLAS LARA DOS SANTOS, fls. 359/365, contra a decisão da MINISTRA PRESIDENTE do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ que, com base nos arts. 21-E, V, e 253, parágrafo único, I, ambos do Regimento Interno do STJ - RISTJ, não conheceu do seu agravo em recurso especial, eis que não impugnado o fundamento da decisão de inadmissibilidade do recurso especial proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (fls. 350/351).
+No presente regimental, a Defesa alega que houve específica impugnação da decisão que negou seguimento ao recurso especial, de forma clara e eficiente, no tocante à apontada incidência da Súmula n. 83 do STJ.
+Pretende a reconsideração da decisão e o provimento do recurso especial.
+O MINISTÉRIO PÚBLICO FEDERAL - MPF apresentou parecer, pugnando pelo desprovimento do agravo regimental (fls. 379/383).
+É o relatório.
+Decido.
+O agravo regimental merece ser provido.
+A decisão agravada não conheceu do agravo em recurso especial porque nele o agravante deixou de impugnar especificamente o óbice da Súmula n. 83 do STJ (fl. 350/351). Contudo, na petição de agravo em recurso especial (fls. 333/338), verifica-se que o agravante impugnou de forma suficiente o óbice invocado pelo TJMG.
+Com estas considerações, reconsidero a decisão agravada, com fundamento no art. 258, § 3º, do Regimento Interno do STJ, para conhecer do agravo em recurso especial, eis que também atendidos os demais pressupostos de admissibilidade.
+Passo à análise do recurso especial.
+Consta dos autos que o recorrente foi condenado às penas de 7 anos e 11 meses de reclusão, em regime inicial fechado, e ao pagamento de 790 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas).
+O recurso de apelação interposto pela defesa foi parcialmente provido, por maioria, para reduzir a pena-base, resultando a reprimenda em 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e pagamento de 680 dias-multa (fl. 475). O acórdão recorrido ficou assim ementado:
+"APELAÇÃO CRIMINAL TRÁFICO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA EFETIVAMENTE COMPROVADAS - RECONHECIMENTO DA INIMPUTABILIDADE OU SEMI-IMPUTABILIDADE DO RÉU NÃO CABIMENTO - REDUÇÃO DA PENA-BASE, VIABILIDADE - OBSERVÂNCIA AOS PRINCIPIOS DA RAZOABILIDADE E PROPORCIONALIDADE - AGRAVANTE DA REINCIDÊNCIA - FRAÇÃO DE AUMENTO - REDUÇÃO - POSSIBILIDADE - ISENÇÃO DE CUSTAS PROCESSUAIS - SUSPENSÃO DA EXIGIBILIDADE DO PAGAMENTO - JUÍZO DA EXECUÇÃO. Comprovadas a materialidade e a autoria delitivas, e inexistindo causas de exclusão da ilicitude ou da culpabilidade, deve ser mantida a condenação do agente pela prática do delito de tráfico ilícito de drogas. Apurado nos autos que o acusado apresentava, ao tempo do crime, capacidade normal de entendimento e determinação em relação aos fatos descritos na denúncia, não há falar-se em aplicação do disposto no art. 45 ou 46 da Lei nº 11.343/06. A fixação da pena-base é ato de discricionariedade vinculada ao limite estabelecido pelo legislador, cabendo ao julgador a análise das circunstâncias judiciais através do livre convencimento motivado. Embora deva ser mantida a desfavorabilidade da vetorial dos antecedentes, eis que devidamente fundamentada à luz do caso concreto, impõe-se a redução da pena-base, a fim de que sejam observados os princípios, da razoabilidade e da proporcionalidade. Diante do silêncio legislativo sobre os patamares utilizados para o aumento da reprimenda pela agravante da reincidência, os tribunais superiores orientam pela observância dos princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime quando de sua fixação. Hipótese em que o aumento operado na sentença mostrou-se excessivo, comportando redução. Em observância à declaração de inconstitucionalidade formal do art. 10, inciso II, da Lei Estadual n. 14.939/2003 pelo Órgão Especial deste Tribunal, não é possível a isenção das custas processuais. Eventual suspensão da exigibilidade do pagamento das custas processuais deve ser examinada pelo Juízo da Execução Penal.
+V.V.: EMENTA: APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - REDUÇÃO DAS PENAS-BASE - NÃO CABIMENTO - REPRIMENDAS ESTABELECIDAS CONFORME OS CRITÉRIOS LEGAIS. Faz parte do juízo de discricionariedade do magistrado sentenciante, após a escorreita análise das circunstâncias judiciais do art. 59 do CP e do referencial do art. 42 da Lei de Tóxicos, fixar o quantum das penas-base, observando-se os princípios da proporcionalidíde e da razoabilidade" (fl. 252).
+Os embargos de declaração opostos foram rejeitados, estando assim ementado:
+"EMBARGOS DE DECLARAÇÃO - OMISSÃO - INOCORRÊNCIA - RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA - NÃO CABIMENTO. Os embargos de declaração têm como função específica integrar o julgado, suprindo, ambiguidades, obscuridades, contradições ou omissões que estejam a afetar a clareza do decisum proferido. A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio. (Súmula 630 do STJ)" (fl. 298).
+Em sede de recurso especial (fls. 306/315), a Defesa apontou violação ao art. 65, III, "a", do CP e à Súmula n. 630 do STJ.
+Aduz que ainda que a confissão seja parcial, é circunstância que sempre atenua a pena.
+Alega que o art. 65, III, do CP não faz qualquer ressalva no tocante à maneira como proferida.
+Sustenta que "o STJ editou nova súmula em flagrante descompasso com o Código Penal e CRFB/88" (fl. 313).
+Requer a aplicação da atenuante da confissão espontânea.
+Contrarrazões do M INISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS às fls. 320/324.
+O recurso não enseja provimento.
+O Tribunal de origem negou a aplicação da atenuante da confissão, nos seguintes termos do voto do relator:
+"Analisando as razões do recurso de apelação, verifica-se que a matéria ora questionada - incidência da atenuante da confissão -, não foi objeto de inconformismo por parte da defesa, tratando-se, evidentemente, de inovação.
+Ainda que assim não fosse, no caso, não prospera a pretensão do acusado de aplicação da referida atenuante.
+Como sabido, desde que o agente confesse ou admita o seu envolvimento na prática criminosa, a atenuante deve incidir. Todavia, faz-se necessário que aquele admita ser o autor ou um dos autores da prática que lhe está sendo imputada, de nada adiantando admitir o cometimento de infração diversa.
+ ..
+Na espécie, em ambas as oportunidades em que foi ouvido, o acusado negou a prática do delito. De fato, constou no acórdão:
+ ..
+Como visto, sob o crivo do contraditório, o acusado assumiu a propriedade da droga, mas alegou que era somente para seu consumo pessoal, de modo que, nos termos do enunciado da Súmula 630 do STJ, não é cabível o reconhecimento da atenuante da confissão:
+"A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio."
+ ..
+Desta feita, considerando que o réu não admitiu a autoria do crime de tráfico, inviável o reconhecimento da atenuante da confissão espontânea." (fls. 300/303).
+Extrai-se dos trechos acima que TJMG deixou de reconhecer a atenuante da confissão espontânea, porque o acusado, ao ser ouvido na fase judicial, negou a traficância de drogas, admitindo apenas a posse e a propriedade da droga encontrada com ele para uso próprio.
+Tal entendimento está alinhado com a jurisprudência desta Corte, inclusive sumulada por meio do Enunciado n. 630 da Súmula do STJ.
+No mesmo sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. REVISÃO DE DOSIMETRIA DE CONDENAÇÃO TRANSITADA EM JULGADO. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. IMPOSSIBILIDADE DE RECONHECIMENTO EX OFFICIO DA CONFISSÃO ESPONTÂNEA QUANTO AO CRIME DE TRÁFICO DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça"(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+2. Prevê o verbete n. 630 da Súmula desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".
+3. Agravo regimental desprovido.
+(AgRg nos EDcl nos EDcl no HC n. 773.655/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. INVIABILIDADE. SÚMULA 630/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI. PACIENTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. REGIME FECHADO. PENA SUPERIOR A 4 ANOS. PENA-BASE ACIMA DO MÍNIMO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da Súmula n. 630 desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio."
+ ..
+(AgRg no HC n. 868.350/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5/12/2023.)
+Ante o exposto, dou provimento ao agravo regimental, para conhecer do agravo em recurso especial, conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique -se. Intimem-se.
+ EMENTA
