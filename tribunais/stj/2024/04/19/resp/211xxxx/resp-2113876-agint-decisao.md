@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto contra a decisão que conheceu e parte e negou provimento ao Recurso Especial, fundamentada na ausência de omissão, na incidência das Súmulas ns. 7/STJ e 211/STJ, na aplicação do entendimento desta Corte segundo o qual, no procedimento administrativo, a intimação por edital é medida de exceção e só deve ser realizada quando forem infrutíferas as tentativas ordinárias de dar ciência das decisões administrativas aos interessados - mormente quando foi fornecido endereço certo pela parte - sob pena de cerceamento de defesa e ofensa ao contraditório, corolários constitucionais do princípio do devido processo legal, e na impossibilidade de se conhecer o Recurso Especial pela alínea c do permissivo constitucional.
+Sustenta o Agravante, em síntese, a inaplicabilidade dos referidos óbices.
+Defende que "os embargos de declaração foram rejeitados, mantendo-se omissão no acórdão, o que ensejou a interposição de recurso especial asseverando a violação do artigo 1.022 do CPC, a fim de que esse col. STJ venha a reconhecer a omissão e aplique o disposto no artigo 1.025 do CPC" (fl. 1.085e).
+Aponta que "há o devido prequestionamento, quer pela aplicação do artigo 1.025 do CPC, quer porque a matéria fora debatida, ainda que sem analisar os dispositivos" (fl. 1.086e).
+Afirma que "Para julgar o recurso especial não há necessidade de reanálise do suporte fático probatório, pois o recurso assevera a desnecessidade de notificação pessoal, independentemente de haver ou não endereço nos autos, pois a legislação dispensa. Desta forma, não há aplicação do enunciado da Súmula nº 07 desse Superior Tribunal de Justiça" (fl. 1.087e).
+Alega que "Não há, portanto, conflito entre a norma que determina a intimação por edital para apresentar alegações finais e a Lei 9.784, de 1999. Ainda que houvesse, a norma específica deve prevalecer" (fl. 1.092e).
+Argumenta, ainda, que "há divergência entre as Turmas especificamente sobre o art. 122 do Decreto 6.514, de 2008. É possível, ainda, apontar para divergência entre esses dois julgados específicos e a Súmula 355 dessa Corte e o REsp 1.046.376/DF, julgado sob o rito dos recursos repetitivos, que firmaram a tese da subsidiariedade da Lei 9.784, de 1999, em relação às normas processuais administrativas específicas" (fl. 1.095e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 1.102e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o r egime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, a fim de que, oportunamente, o recurso seja novamente analisado.
+Posto isso, nos termos do § 2º do art. 1.021 do Código de Processo Civil, RECONSIDERO a decisão de fls. 1.064/1.079e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 1.083/1.096e, DETERMINO o retorno dos autos à conclusão, para oportuno julgamento do Recurso Especial.
+Publique-se e intime-se.
+EMENTA
