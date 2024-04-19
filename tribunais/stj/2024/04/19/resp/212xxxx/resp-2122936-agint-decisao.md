@@ -1,0 +1,13 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto contra a decisão que conheceu em parte e negou provimento ao Recurso Especial.
+O Agravante sustenta, em síntese, equívoco na decisão questionada, requerendo o provimento do recurso, a fim de que seja reformada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 1.114/1.119e.
+Feito o breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Em juízo de retratação, consoante o disposto no art. 1.021, § 2º, do mesmo diploma normativo, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor a reconsideração, a fim de que o recurso seja, novamente, analisado.
+A questão jurídica objeto do presente recurso diz respeito à tema afetado como repetitivo - Tema n. 1229/STJ - "Definir se é cabível a condenação ao pagamento de honorários advocatícios na exceção de pré-executividade acolhida para extinguir a execução fiscal, ante o reconhecimento da prescrição intercorrente, prevista no art. 40 da Lei n. 6.830/1980. -, com determinação de sobrestamento.
+Posto isso, nos termos do art. 1.021, § 2º, do CPC/2015, reconsidero a decisão de fls. 1091/1096e, restando, por conseguinte, prejudicado o Agravo Interno de fls. 1100/1104e, e DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos referentes ao Tema acima identificad o, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Prejudicado o exame do recurso especial.
+Publique-se. Intime-se.
+EMENTA
