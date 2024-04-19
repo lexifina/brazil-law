@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA (art. 105, III, "a", da Constituição da República) e Agravo contra inadmissão de Recurso Especial de Menegotti Máquinas e Equipamentos Ltda. "Em Recuperação Judicial" (art. 105, III, "c", da Constituição da República), ambos os Recursos interpostos contra acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EMPRESA EMRECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS EXECUTIVOS. BLOQUEIO DE ATIVOS FINANCEIROS. SISBAJUD. MEDIDA CABÍVEL. ART. 6º, §7º-B, DA LEI Nº 11.101, DE 2005. RENAJUD. INFOJUD. NÃO CABIMENTO.
+Os Embargos de Declaração foram rejeitados às fls. 80-84, e-STJ.
+Em seu Recurso Especial, o IBAMA indica violação do art. 1.022, II, do CPC/2015, em razão de negativa de prestação jurisdicional. No mérito, sustenta afronta aos arts. 139, 154, 301, 797 e 835 do CPC/2015; e ao art. 10 da Lei 6.830/1980.
+Menegotti Máquinas e Equipamentos Ltda. "Em Recuperação Judicial", por sua vez, aponta dissídio jurisprudencial.
+Contrarrazões apresentadas às fls. 140-144 e 146-147, e-STJ.
+Quanto ao Recurso de Menegotti Máquinas e Equipamentos Ltda "Em Recuperação Judicial", houve juízo negativo de admissibilidade na instância de origem, o que deu ensejo à interposição de Agravo em Recurso Especial.
+O Ministério Público Federal emitiu parecer, às fls. 181-186, e-STJ, opinando pelo provimento do Recurso Especial do IBAMA, prejudicado o Agravo de Menegotti Máquinas e Equipamentos Ltda. "Em Recuperação Judicial".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.7.2023.
+1. Recurso Especial do IBAMA
+Quanto à suposta ofensa ao art. 1022, II, do CPC/2015, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente. Nessa esteira, atenta-se para os seguintes trechos da decisão recorrida (fl. 52, e-STJ):
+(..)
+Nessas condições, impõe-se reformar a decisão agravada para determinar apenas que, na origem, seja utilizado o sistema Sisbajud para bloqueio de ativos financeiros da executada.
+Por outro lado, se é certo que a execução desenvolve-se no interesse do credor e que o Juízo deve utilizar os instrumentos criados para agilizar a satisfação do crédito, também é certo que a prática dos atos judiciais deve ser racionalizada, do que se extrai não haver direito subjetivo do exequente a que os sistemas de consulta sejam acessados constantemente pelo magistrado. Enfim, o simples transcurso do tempo desde as últimas consultas ao Renajud e Infojud não fundamenta o pedido, já que o registro de veículos e declaração de bens na declaração de ajuste do IRPF não representa situação tão volátil como o depósito de ativos em instituição financeira, que foi o fundamento para a edição da Súmula 81 deste TRF4.
+Em conclusão, cabe reformar a decisão agravada apenas para que se proceda ao bloqueio de ativos financeiros via sistema Sisbajud.
+(..)
+Percebe-se, portanto, que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, não havendo que se falar em ausência de fundamentação ou negativa de prestação jurisdicional.
+No mérito, o Recurso Especial não possui condições de admissibilidade.
+Conforme se extrai dos trechos acima transcritos, a Corte Regional autorizou o acesso ao Sisbajud, mas negou a renovação da consulta ao Renajud e ao Infojud com base na compreensão de que - diferentemente do que ocorre com o depósito de ativos em instituição financeira - "o registro de veículos e a declaração de bens na declaração de ajuste do IRPF não representa situação tão volátil", sendo certo que "o simples transcurso do tempo desde as últimas consultas ao Renajud e Infojud não fundamenta o pedido" (de renovação).
+Tal fundamento não foi impugnado pelo recorrente, atraindo o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Agravo em Recurso Especial de Menegotti Máquinas e Equipamentos Ltda. "Em Recuperação Judicial"
+Da análise da insurgência, conclui-se que a parte interessada não impugnou especificamente o fundamento empregado pela decisão de inadmissibilidade.
+Sobre esse ponto, cumpre ressaltar que, na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que o recorrente impugna apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à parte não impugnada. A isso acrescentam-se as disposições do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015, não se conhecendo de AREsp que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade.
+In casu, a Corte de origem não conheceu do Recurso Especial em razão da Súmula 83/STJ, amparando-se, para tanto, nos precedentes formados no AgInt no REsp 1.981.865/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29.4.2022; AgInt no CC 181.302/PE, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe 18.3.2022; no AgInt no CC 182.741/SC, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, DJe 18.2.2022; e no AgInt no CC 182.059/PE, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe 21.2.2022 (fls. 152-155, e-STJ).
+Compulsando as seis páginas do Agravo em Recurso Especial (fls. 163-168, e-STJ), observa-se que a recorrente deixou de atacar especificamente o referido óbice.
+É cediço que, de acordo a jurisprudência desta Corte, a efetiva impugnação da incidência da Súmula 83/STJ exige indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, por adequado confronto analítico, que o entendimento jurisprudencial do STJ é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pela Corte a quo.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA O REGULAR PROCESSAMENTO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária em que se pleiteia indenização por danos materiais e morais em razão do valor ínfimo encontrado em conta do PASEP, sob a alegação de diversas retiradas indevidas da referida conta. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi anulada determinando o retorno dos autos ao Juízo de origem para o regular processamento. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 83/STJ e na deficiência de cotejo analítico. Entretanto, a parte agravante deixou de impugnar especificamente o óbice referente à ocorrência da Súmula n. 83/STJ.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - No caso em que foi aplicado o Enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+(AgInt no AREsp 1.849.058/PE, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 13/08/2021)
+Na espécie, a recorrente se limitou a fazer menção a um dos precedentes constantes da decisão de inadmissibilidade, ignorando os demais.
+Por outro lado, a jurisprudência desta Corte corrobora a incidência da Súmula 182/STJ quando a impugnação é realizada de forma genérica, como no presente caso.
+Nessa linha:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de indenização por dano moral contra o Município de São José do Rio Preto e outro, objetivando o recebimento de 150 (cento e cinquenta) salários-mínimos, acrescidos de correção monetária e juros de mora. Na sentença o pedido foi julgado parcialmente procedente para condenar o Município de São José do Rio Preto ao pagamento de R$ 165.000,00 (cento e sessenta e cinco mil re ais), (valor correspondente a cento e cinquenta salários-mínimos) a título de indenização por morais e acrescidos de juros desde o evento danoso (Súmula n. 54/STJ). No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 2063004/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 21.9.2022)
+3. Conclusão
+Diante do exposto, conheço parcialmente do Recurso Especial do IBAMA para, nessa extensão, negar-lhe provimento e não conheço do Agravo em Recurso Especial de Menegotti Máquinas e Equipamentos Ltda. "Em Recuperação Judicial".
+Publique-se.
+Intimem-se.
+EMENTA
