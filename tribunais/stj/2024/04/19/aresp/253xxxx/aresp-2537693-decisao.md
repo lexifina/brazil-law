@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por SUELI DE LIMA GELAMOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo interno contra decisão monocrática que não conheceu de recurso de apelação por ser inadmissível. Decisão mantida. Recurso desprovido (fl. 557).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e divergência de interpretação dos arts. 833, IV, do CPC; e 2º, § 2º, da Lei n. 10.820/2003, no que concerne à impossibilidade de desconto de empréstimo sobre os proventos de aposentadoria superior a 30% da remuneração, em razão de seu caráter alimentar, trazendo a seguinte argumentação:
+Contudo, é neste ponto que, "data venia", reside o equívoco do v. Acórdão ora atacado, por não reconhecer que a limitação dos débitos consignados e renegociações que foram lançados na folha de pagamento e na conta corrente do consumidor, DEVEM SOFRER A LIMITAÇÃO DE 30% SOBRE OS PROVENTOS DE APOSENTADORIA, conforme lhe assegura o art. 833, Inciso IV do Código de Processo Civil combinado com o inciso I do §2º do artigo 2º da Lei Federal nº 10.820/2003, em pleno vigor.
+O empréstimo consignado tem seu regramento ditado na Lei Federal nº 10.820/2003, e, especificamente em seu artigo 2º, §2º, inciso I, expressamente determina que o desconto maior que se pode realizar em folha de pagamento deve corresponder a 30% da remuneração recebida pelo devedor.
+ ..
+No caso, deve ser considerado o caráter alimentar do salário/pensão ou Aposentadoria, que é imune à constrição. Ainda que tenha sido conferida pela Recorrente autorização para débito em conta ou desconto direto em folha de pagamento, deve ser levado em consideração que vários foram os empréstimos contraídos e o Banco igualmente contribui para a situação ora verificada, na medida em que liberou importâncias em favor da Recorrente que, se debitadas ao mesmo tempo, consomem a maior parte de seu salário, nada restando para que atendesse suas necessidades básicas.
+ ..
+Como é notório e consabido, É ABSOLUTAMENTE IMPENHORÁVEL os proventos salários, remunerações e no caso específico LIMITADOS A 30%, como se depreende do disposto no art. 7º, inciso X, da CF/88, combinado com o art. 833, inciso IV, do CPC , que assim dispõem:
+ ..
+Ainda que realizados em conta corrente, os descontos realizados pela instituição financeira se submetem a este limite, pois as verbas depositadas em numerário pertencente ao mutuário não perdem a natureza alimentar, não podendo ser objeto de débitos automáticos que superem aquele limite, ainda que pactuados. (fls. 468/472).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Como se vê, não houve impugnação específica da r. sentença. Não há uma linha sequer dedicada a demonstrar estar em vigor o contrato de empréstimo com desconto em conta corrente, tendo sido consignado em sentença que o único desconto mencionado no valor de R$ 699,12 foi estornado, inexistindo prova do mesmo desconto nos meses subsequentes.
+Assim, verifica-se das razões recursais da autora, que não houve impugnação à sentença. Ao recorrer, a parte deve demonstrar o desacerto do entendimento do Juízo a quo, rebatendo as questões contra a qual se insurge dentro dos limites daquilo que foi decidido. Portanto, não impugna especificadamente o decidido.
+ ..
+Deste modo, é o recurso inadmissível, não podendo ser conhecido..
+Nada trouxe em sede de agravo interno capaz de ilidir tal decisão fundamentada (fls. 560/561).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
