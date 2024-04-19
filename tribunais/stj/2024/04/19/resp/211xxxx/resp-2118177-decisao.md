@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se recurso especial interposto por ATTILA ILGA STREFLING - ESPÓLIO, ALVERI STREFLING, CURT STREFLING, ROSMARI STREFLING, UDO STREFLING e VANDERLEI STREFLING, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 05/09/2023.
+Concluso ao gabinete em: 21/02/2023.
+Ação: de inventário dos bens deixados por ATTILA ILGA STREFLING, cuja abertura foi requerida por GERTON STREFLING e ROSANE STREFLING, filhos da de cujus e ora recorridos.
+Decisão interlocutória: indeferiu o pedido de suspensão do feito por 30 (trinta) dias, formulado pela parte ora recorrente, tendo em vista que o processo se encontraria paralisado e com vários pedidos de dilação. Ademais, intimou a inventariante para prestar contas da administração do espólio aos demais herdeiros, especialmente em relação à empresa Agropecuária Porto Alegre, e a apresentar a certidão de quitação do ITCMD, sob pena de remoção do encargo.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos ora recorrentes, nos termos da seguinte ementa (e-STJ fl. 1.670):
+"AGRAVO DE INSTRUMENTO. PEDIDO DE DILAÇÃO DE PRAZO. IMPOSSIBILIDADE. PEDIDO DE DILAÇÃO DE PRAZO PARA CONTINUIDADE DAS TRATATIVAS DE CONCILIAÇÃO EXTRAJUDICIAL NOS AUTOS DE INVENTÁRIO. IMPOSSIBILIDADE. PREVALÊNICA DOS PRECEITOS DO PARÁGRAFO ÚNICO DO ARTIGO 139 DO CÓDIGO DE PROCESSO CIVIL - CPC.
+1. Por expressa previsão do parágrafo único do art. 139, do CPC, não é possível deferir a dilação de prazo quando formula subsequentes pedidos de dilação de prazo (durante 06 meses), e por fim ainda formula requerimento após o encerramento do prazo assinalado para cumprimento de ato processual.
+AGRAVO DE INSTRUMENTO A QUE SE NEGA PROVIMENTO."
+Embargos de Declaração: opostos pelos ora recorrentes foram rejeitados.
+Recurso especial: alegam, além da existência de dissídio jurisprudencial, violação dos arts. 3º, 7º, 8º, 139, VI, parágrafo único, 489, §1º e incisos, 1.022, I, do CPC; e 93, IX, da CF, sustentando que: (i) a Corte de origem teria sido omissa e incorrido em negativa de prestação jurisdicional ao proferir decisão que indeferiu a dilação de prazo requerida de modo não fundamentado; (ii) o TJ/TO não teria considerado que o prazo ainda não havia decorrido, uma vez que a oposição de embargos de declaração teria interrompido o seu decurso; (iii) a dilação de prazos tem por escopo adequar o procedimento às necessidades do conflito, devendo ser observado o dever de cooperação pelo julgador.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Renato Brill de Góes, deixou de se manifestar sobre o mérito do recurso, requerendo o prosseguimento do feito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC/15 quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 2/3/2018).
+No particular, as razões recursais tecidas acerca da suposta violação dos arts. 489 e 1.022 do CPC/15 residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios, não se manifestou acerca do argumento de que o prazo ainda não havia finalizado, tendo em vista que a oposição de embargos de declaração teria interrompido o seu decurso.
+Da análise do processo, constata-se que, de fato, o Tribunal de origem não analisou tal alegação, em que pese tenha sido devidamente suscitada nos embargos de declaração opostos pela parte recorrente.
+Não se pode olvidar, nesse contexto, que o conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, delineando de forma adequada os fatos que alicerçam a demanda, permitindo, desse modo, que esta Corte Superior aprecie a controvérsia sem esbarrar nos óbices das Súmulas 5 e 7 do STJ.
+Recusando-se a Corte de origem a se manifestar sobre a questão federal, fica obstaculizado o acesso à instância especial, cabendo à parte vencida invocar, como na hipótese dos autos, a infringência ao art. 1.022 do CPC/15, a fim de anular o acórdão recorrido, para que o Tribunal a quo supra os vícios existentes. Nesse sentido: REsp 769.831/SP, DJe 27.11.2009; e REsp 242.128/SP, DJ 18.09.2000.
+Importa consignar que a questão é relevante para o futuro deslinde da controvérsia no âmbito do Superior Tribunal de Justiça, pois, caso a Corte estadual confirme a decisão outrora expendida, delineando o enquadramento fático da matéria, a questão apontada integrará o mérito propriamente dito do recurso especial, suscetível de apreciação por esta Corte Superior.
+Assim, observada a jurisprudência desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanada a omissão acima referida. Prejudicadas as demais teses recursais.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO ACERCA DE QUESTÃO RELEVANTE PARA A INTEGRAL SOLUÇÃO DA CONTROVÉRSIA.
+1. Ação de inventário.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão relevante para a integral resolução da controvérsia posta.
+3. Recurso especial conhecido e provido.
