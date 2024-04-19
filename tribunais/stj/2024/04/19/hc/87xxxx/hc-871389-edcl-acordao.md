@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DA INSTÂNCIA. ENTENDIMENTO QUE PREVALECE NOS PROCESSOS DE COMPETÊNCIA ORIGINÁRIA DO TRIBUNAL DE ORIGEM. OMISSÃO. AUSÊNCIA DE VÍCIO. QUESTÃO EXPRESSAMENTE APRECIADA. MERO INCONFORMISMO.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso.
+2. Não há omissão no acórdão embargado, pois que a questão foi decidida clara e fundamentadamente, em conformidade com a jurisprudência desta Corte Superior, no sentido de se considerar que, inexistindo manifestação do órgão colegiado sobre as teses manejadas no mandamus, fica esta Corte Superior impedida de pronunciar-se sobre os temas, vedada a supressão de instância. O entendimento prevalece mesmo nos processos de competência originária do Tribunal de origem.
+3. Não se prestam os embargos de declaração à livre rediscussão do aresto recorrido a fim de alterar entendimento jurisprudencial, irresignação que, em verdade, revela mero inconformismo com o resultado do julgamento.
+4 . Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão da Sexta Turma que foi assim ementado (fl. 482):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. MATÉRIA DE MÉRITO NÃO APRECIADA PELA CORTE LOCAL. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Uníssona a jurisprudência desta Corte Superior no sentido de que o habeas corpus aqui impetrado somente será analisado quando exaurida a instância ordinária.
+2. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, § 2º, CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus de ofício, opção exclusiva do relator, não pode se valer do reexame das provas.
+3. Agravo regimental improvido.
+Sustenta o embargante a existência de omissão no julgado a respeito de fundamentação apresentada nas razões do agravo regimental posta no sentido de que, "estando os autos de origem tramitando perante o c. Órgão Especial do e. TJSP, não existe previsão regimental de impetração de habeas corpus para ser julgado por àquele e. Órgão Especial e c. Tribunal, o que necessita ser diretamente enfrentado por este c. STJ" (fls. 496-497).
+Aduz ainda haver "relevante fato novo" pois impetrou o competente habeas corpus perante o TJSP, autuado sob o n. 2070285-47.2024.8.26.0000, com o mesmo fundamento do writ aqui apresentado, justamente para instar o Tribunal de origem a eventualmente se pronunciar quanto ao constrangimento ilegal combatido no presente caso, conforme cópia da inicial anexa, sendo que o processamento foi indeferido.
+Defende o cabimento da apresentação de fato novo que pode influenciar no resultado da lide nos embargos de declaração.
+Requer o acolhimento dos embargos, a fim de que seja sanada a omissão apontada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DA INSTÂNCIA. ENTENDIMENTO QUE PREVALECE NOS PROCESSOS DE COMPETÊNCIA ORIGINÁRIA DO TRIBUNAL DE ORIGEM. OMISSÃO. AUSÊNCIA DE VÍCIO. QUESTÃO EXPRESSAMENTE APRECIADA. MERO INCONFORMISMO.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso.
+2. Não há omissão no acórdão embargado, pois que a questão foi decidida clara e fundamentadamente, em conformidade com a jurisprudência desta Corte Superior, no sentido de se considerar que, inexistindo manifestação do órgão colegiado sobre as teses manejadas no mandamus, fica esta Corte Superior impedida de pronunciar-se sobre os temas, vedada a supressão de instância. O entendimento prevalece mesmo nos processos de competência originária do Tribunal de origem.
+3. Não se prestam os embargos de declaração à livre rediscussão do aresto recorrido a fim de alterar entendimento jurisprudencial, irresignação que, em verdade, revela mero inconformismo com o resultado do julgamento.
+4 . Embargos de declaração rejeitados.
+VOTO
+Conforme relatado, busca o embargante seja sanada suposta omissão quanto à conclusão, deste Tribunal, de não esgotamento da instância ordinária a inviabilizar o processamento do writ.
+O acórdão ora embargado está assim fundamentado (fls. 486-487):
+Constata-se pois que foi impetrado habeas corpus no STJ contra decisão monocrática de relator do Órgão Especial do Tribunal de Justiça do Estado de São Paulo que, em ação penal ordinária, ratificando o recebimento de denúncia, determinou a adoção de medidas, visando dar continuidade à instrução processual.
+A análise do writ não se faz possível.
+Com efeito, uníssona a jurisprudência desta Corte Superior no sentido de que o habeas corpus aqui impetrado somente será analisado quando exaurida a instância ordinária, o que não ocorreu no caso concreto.
+Inexistindo manifestação do órgão colegiado sobre as teses manejadas no mandamus, fica esta Corte Superior impedida de pronunciar-se sobre os temas, vedada a supressão de instância. O entendimento prevalece mesmo nos processos de competência originária do Tribunal de origem. No mesmo sentido, além dos já citados julgados, menciono ainda:
+RECONSIDERAÇÃO DE DECISÃO TERMINATIVA. PEDIDO RECEBIDO COMO AGRAVO REGIMENTAL. VIABILIDADE. PENDÊNCIA DE JULGAMENTO O AGRAVO REGIMENTAL INTERPOSTO NA ORIGEM. NÃO CONHECIMENTO DO WRIT. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. RECURSO NÃO PROVIDO.
+1. Consoante a firme jurisprudência desta Corte Superior, em observância aos princípios da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, admite-se como agravo regimental a impugnação que, apresentada dentro do quinquídio legal, tenha o nítido intento de reverter decisão unipessoal de cunho terminativo.
+2. Pendente de julgamento o agravo regimental originalmente interposto contra decisão de Desembargador relator em feito no âmbito de competência originária, não pode o afastamento da paciente de cargo público ser, simultaneamente, objeto de análise por esta Corte Superior.
+3. A defesa é livre para estabelecer suas estratégias, mas forçoso é dizer que lhe cabe arcar com o ônus de suas opções, sem prejuízo futuro de exame mais acurado da insurgência, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+4. Pedido de reconsideração recebido como agravo regimental. Recurso não provido. (RCD no HC n. 512.220/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/6/2019, DJe de 13/6/2019.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES. PRISÃO PREVENTIVA DECRETADA POR RELATOR. DECISÃO MONOCRÁTICA. NÃO ESGOTAMENTO DE INSTÂNCIA. PEDIDO DE RECONSIDERAÇÃO. ACRÉSCIMO DE FUNDAMENTOS. FATOS NOVOS. PERDA DA COMPETÊNCIA ORIGINÁRIA DO TRIBUNAL A QUO. AUTOS REMETIDOS AO JUÍZO DE 1º GRAU. RATIFICAÇÃO DA IMPOSSIBILIDADE DE ANÁLISE. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de origem, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF. (HC 407.033/AP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/06/2018, DJe 01/08/2018).
+2. A baixa dos autos pela perda da função pública apenas reforça a falta de competência desta Corte para apreciar os pedidos do writ.
+3. Agravo regimental improvido, com recomendação de célere exame pelo órgão julgador competente do pleito de substituição da prisão preventiva por domiciliar. (AgRg no HC n. 493.441/PB, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 15/5/2019.)
+Ademais, quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, § 2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus de ofício, opção exclusiva do relator, não pode se valer do reexame das provas.
+Ante o exposto, nego provimento ao agravo regimental.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão.
+Não há se falar em vício de omissão no acórdão embargado. A questão foi decidida clara e fundamentadamente, em conformidade com a jurisprudência desta Corte Superior, no sentido de se considerar que, inexistindo manifestação do órgão colegiado sobre as teses manejadas no mandamus, fica esta Corte Superior impedida de pronunciar-se sobre os temas, vedada a supressão de instância. O entendimento prevalece mesmo nos processos de competência originária do Tribunal de origem, a teor dos precedentes acima transcritos.
+Ademais, não há se falar em "relevante fato novo" suficiente para justificar a alteração do entendimento acima, atentando-se ao fato alegado de que o Tribunal de origem indeferiu o processamento de habeas corpus ali impetrado, questão diversa à conclusão de não exaurimento da instância.
+Não há vício integrativo no acórdão embargado, não se prestando os embargos de declaração à livre rediscussão do aresto embargado, tanto mais que revelam, em essência, mero inconformismo com o resultado do julgamento.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
