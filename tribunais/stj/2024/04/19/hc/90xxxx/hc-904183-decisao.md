@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de ALLAN JORGE LOPES VALENTE , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO  (HC 0024203-84.2024.8.19.0000).
+O paciente foi condenado à pena de 10 anos e 6 meses de reclusão, em regime fechado, e ao pagamento de 24 dias-multa, pela prática do delito previsto no art. 157, § 2º, II, e § 2º-A, I, por 3 vezes, do Código Penal, oportunidade em que decretada sua prisão preventiva.
+A defesa impetrou prévio writ na origem, tendo sido indeferida a pretensão sumária ali visada.
+A defesa alega: a) ausência dos requisitos autorizadores da medida extrema previstos no art. 312 do Código de Processo Penal; b) "quando um réu permanece solto durante toda a instrução criminal, o mero fato de ter sido proferida uma sentença condenatória não justifica o seu encarceramento cautelar por si só" (e-STJ fl. 6); c) gravidade abstrata do crime não autoriza decretação da prisão preventiva; e d) "aquele que respondeu solto à ação penal assim deve permanecer após a condenação em primeira instância, se ausentes novos elementos que justifiquem a alteração de sua situação" (e-STJ fl. 8).
+Requer, liminar e definitivamente, deferimento da ordem para revogar a prisão preventiva, com ou sem imposição de medidas cautelares diversas.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 11-13 ):
+Incialmente, se examina a decisão coatora, na forma da sentença proferida pela origem em 13.03.2024 (Pasta 000213, da ação originária nº. 0287833-98.2022.8.19.0001):
+"Nos termos do artigo 387, parágrafo 1º do Código de Processo Penal, entendo que o réu não poderá aguardar em liberdade a tramitação de eventual recurso que venha a interpor desta decisão, eis que presentes os requisitos do art. 312 do CPP, sendo conveniente para assegurar a aplicação da lei penal, tendo em vista o tempo de pena aplicada, bem como a garantia da ordem pública, diante da natureza do crime, cometido com violência e que teve a participação de outro agente. EXPEÇA-SE MANDADO DE PRISÃO".
+Ante os destaques acima efetuados, ao contrário do alegado pelos Impetrantes, verifica-se que, embora suscintamente, a autoridade coatora lançou os fundamentos pelos quais entendeu pela decretação da prisão preventiva do Paciente.
+Por oportuno se fazer observar que a FAC do réu aponta 03 anotações com trânsito em julgado, conforme esclarecimentos prestados pela origem em fls. 211 dos autos principais, conforme se reproduz o seguinte excerto:
+(..)
+As informações supra, a princípio, se mostram como contraditórias com a afirmação da presente mandamental de ter o Paciente, já condenado a 3 (três) penas restritivas de liberdade anteriormente julgadas, ter respondido em liberdade o processo atual, decorrente de crime cometido com violência, emprego de arma de fogo e em concurso de agentes.
+Lado outro, o presente mandamus veio instruído com a denúncia, a qual continha requerimento de decretação de prisão preventiva do Paciente, assim como o recebimento daquela, pelo d. juízo de origem, tendo o mesmo deixado de se pronunciar acerca da mesma (cf. Anexos, fls. 22 e 23).
+Presume-se, consequentemente, que a liberdade do Paciente ao longo do presente feito decorreu do acima exposto, eis que nada foi demonstrado, documentalmente, no sentido de que, expressamente, o d. juízo de instrução tivesse se pronunciado a respeito do tema (indeferimento do pedido de prisão preventiva).
+Ademais, tem-se que a liminar em habeas corpus é medida excepcional, a ser concedida quando o ato de constrangimento ilegal seja manifesto, ou seja, diante de flagrante teratologia da decisão proferida, a caracterizar irrazoabilidade e abuso de poder.
+E como a princípio não se divisa, no presente estágio, qualquer dessas hipóteses, INDEFIRO A LIMINAR vindicada.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
