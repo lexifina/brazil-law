@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDO HENRIQUE DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ACIDENTÁRIA - CONDIÇÕES AGRESSIVAS - LER/DORT NA COLUNA VERTEBRAL - ACIDENTE TÍPICO - LESÃO EM MEMBRO SUPERIOR ESQUERDO - BENEFÍCIO ACIDENTÁRIO - SENTENÇA DE IMPROCEDÊNCIA - IRRESIGNAÇÃO DO AUTOR DESCABIMENTO LAUDO NÃO COMBATIDO CIENTIFICAMENTE - BENEFÍCIO INDEVIDO NA ESPÉCIE - PRELIMINAR REJEITADA - SENTENÇA MANTIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 477, § 2º, II, e 480 do CPC, no que concerne à nulidade do acórdão recorrido, por cerceamento de defesa, uma vez que houve homologação de laudo pericial e indeferimento de nova perícia sem que os peritos tenham cumprido com o dever de esclarecer os pontos divergentes suscitados no parecer do assistente técnico, trazendo a seguinte argumentação:
+Especificamente sobre a nulidade pelo cerceamento de defesa ocorrido na origem, colhe-se do v. acórdão recorrido não só a transcrição do artigo 477, §2º, inciso II do Código de Processo Civil, como também um debate alongado sobre toda a matéria que envolve a produção de prova pericial.
+Em que pese o inegável saber jurídico do ilustre relator do acórdão, não se trata de mero inconformismo quanto aos fundamentos utilizados pelos peritos na formação dos laudos judiciais, o qual determinou desfavorável a presente ação.
+ ..
+Salienta-se que os laudos periciais tivessem esclarecimentos acerca dos pontos de vistas contrários dos assistentes técnicos, fato que não ocorreu durante a fase de instrução processual, tendo o juiz de primeiro grau julgado sem sanar as dúvidas apresentadas.
+Vejam que o laudo médico pericial constata-se que o perito sequer se manifestou acerca da impugnação feita pelo assistente técnico do Autor as fls. 342/351.
+No parecer emitido pelo assistente técnico Dr. Celso de Sousa Araújo, o mesmo informa que o Autor apresenta perda de força muscular da mão esquerda, conforme laudo cinesiofuncional.
+Portanto, os documentos apresentados aos autos são cristalinos em comprovar que a perícia não restou suficientemente esclarecida.
+Vejam Excelências que os peritos foram intimados para apresentarem os esclarecimentos acerca das divergências dos laudos periciais e dos pareceres apresentados pelos assistentes técnicos, nos termos do artigo 473, §2º, inciso II do Código de Processo Civil e os peritos não cumpriram com o que a lei determinou.
+Assim, os laudos emitidos pelos assistentes técnicos do Recorrente não foram valorados pelos peritos judiciais, conforme determina o artigo 477, §2º, inciso II do Código de Processo Civil, motivo pelo qual há necessidade de explicitação das referidas provas.
+ ..
+Desse modo, por divergir dos pareceres dos assistentes técnicos e dos documentos que comprovam plenamente os tratamentos realizados pelo Recorrente e por esse vício não ter sido sanado ao longo da instrução processual, os laudos médicos realizados por peritos de confiança do juízo devem ser considerados nulos.
+Foram apresentadas impugnação total aos laudos judiciais, as quais não foram avaliadas, sendo os peritos omissos ao serem questionados sobre as divergências, não esclarecendo as dúvidas apresentadas pelo Recorrente, mais uma vez descumprindo o artigo 477, §2º, inciso II do Código de Processo Civil.
+Ademais, insta salientar que também não houve observância ao artigo 480 do Código de Processo Civil, por não ter determinado nova perícia, mesmo a matéria suscitada no processo não ter sido devidamente esclarecida.
+ ..
+Sendo assim, é nítido que houve homologação de laudo pericial e indeferimento de nova perícia sem que os pontos suscitados no parecer do assistente técnico houvessem sido enfrentados, violando nitidamente os artigos 477, §2º, inciso II e artigo 480 do Código de Processo Civil (fls. 453-456).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
