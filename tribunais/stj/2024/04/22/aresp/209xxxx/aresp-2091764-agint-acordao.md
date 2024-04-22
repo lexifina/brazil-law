@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DO TÍTULO JUDICIAL. LEGITIMIDADE ATIVA. SINDICATO SUBSTITUTO. OMISSÃO PELO TRIBUNAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem não dirimiu a matéria submetida à sua apreciação em sede de embargos de declaração, restando omisso o acórdão que julgou a apelação e deixou de enfrentar aspecto necessário ao integral deslinde da controvérsia, atraindo, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pelo ESTADO DO MARANHÃO contra  a  decisão  que, em juízo de retratação,  conheceu  do  agravo  em  recurso  especial,  para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe provimento, em razão da verificação de omissão no acórdão dos embargos de declaração julgados pelo Tribunal (violação ao art. 1.022  do  CPC/2015). Assim, foi determinado o retorno dos autos para o enfrentamento específico da alegação de que a parte exequente, ora agravada, constaria expressamente da lista de substituídos pelo sindicato (SINTSEP) entre os servidores que tiveram seus vencimentos apurados pela Contadoria Judicial, o que teria já transitado em julgado com a homologação daqueles cálculos em fase de liquidação de sentença.
+Argumenta  a  parte agravante,  em  síntese,  que "os aclaratórios manejados pela Agravada tinham nítido caráter de rediscutir o mérito da demanda" e que "o reconhecimento da ilegitimidade é matéria de ordem pública e pode ser realizado em qualquer grau de jurisdição" (fl. 522).
+Defende, ainda, que o recurso especial da parte adversa nem sequer poderia ter sido conhecido, por incidência da Súmula 126/STJ, uma vez que o acórdão que a considerou ilegítima a propor o cumprimento de sentença, o fez com base em fundamentação infraconstitucional e constitucional (da unidade sindical, art. 8º, II, da CF/1988), "cada um desses por si sós capazes de manter o julgado" (fl. 522) e não houve a interposição de recurso extraordinário.
+Aduz não haver ofensa ao art. 508 do CPC/2015, nos seguintes termos:
+Não se trata aqui de discutir no cumprimento de sentença a legitimidade do SINTSEP para o processo de conhecimento (esta discussão sim estaria vedada em razão da coisa julgada), mas sim a ilegitimidade daqueles servidores que não eram substituídos pelo SINTSEP, em razão da vinculação a sindicato diverso, e que, portanto, não foram abrangidos pela coisa julgada.
+O debate aqui travado diz respeito ao alcance subjetivo da coisa julgada coletiva, que, claramente, não poderia atingir os servidores que não eram substituídos pelo ente coletivo que foi autor do processo de coletivo. E esta matéria, nos processos coletivos, é aferida caso acaso, no cumprimento de sentença (fl. 523).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DO TÍTULO JUDICIAL. LEGITIMIDADE ATIVA. SINDICATO SUBSTITUTO. OMISSÃO PELO TRIBUNAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem não dirimiu a matéria submetida à sua apreciação em sede de embargos de declaração, restando omisso o acórdão que julgou a apelação e deixou de enfrentar aspecto necessário ao integral deslinde da controvérsia, atraindo, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada, torna incólume o entendimento nela firmado.
+Quanto à alegada violação ao art. 1.022 do CPC/2015, verifica-se que a Corte de origem, de fato, não dirimiu a questão sob a abordagem tratada pela parte agravada, no sentido de ter expressamente constado da decisão que homologou os cálculos na fase de liquidação de sentença o que, em tese, pode alterar a conclusão do julgado quanto à sua (i) legitimidade para a execução dos valores devidos aos representados pelo SINTSEP.
+Assim, embora tenha analisado a questão com base na unidade sindical com relação ao território, não refutou (nem acolheu) a tese da então embargante, ora agravada, incorrendo no vício de omissão previsto no art. 1.022 do CPC/2015.
+Nesse sentido, a decisão agravada, ao se retratar quanto ao conhecimento do recurso especial, expressamente dispôs:
+houve omissão no acórdão combatido quanto a um dos temas apontados, qual seja, a alegação de que há coisa julgada material acerca da questão da legitimidade ativa, tendo em vista que a decisão que homologou os cálculos de liquidação, os quais teriam incluído a ora exequente, transitou em julgado.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a parte deve vincular a interposição do recurso especial à tese de violação do art. 1.022 do CPC/2015, quando, mesmo após a oposição de embargos declaratórios, o Tribunal local mantém-se em não decidir questões que lhe foram submetidas a julgamento a tempo e modo oportunos, por força do princípio tantum devolutum quantum appellatum, ou, ainda, quando persista desconhecendo omissão ou contradição arguida como existente na decisão (fl. 514).
+Sem adentrar no mérito da questão, isto é, se a decisão homologatória de fato incluiu a servidora exequente, ou se essa homologação produz efeitos quanto a ela, inclusive se há coisa julgada nesse ponto (o que mesmo incabível por esta Corte), fato é que, ao opor os embargos de declaração do acórdão que julgou seu recurso de apelação, a questão por si especificamente posta a julgamento não foi enfrentada.
+Inalterável, portanto, a determinação de retorno dos autos para a devida apreciação do ponto, por verificação de ofensa ao art. 1.022, II, do CPC/2015 .
+Isso posto, nego provimento ao recurso.
