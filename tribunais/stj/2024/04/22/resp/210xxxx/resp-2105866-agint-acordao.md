@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IRREGULARIDADE DE REPRESENTAÇÃO. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR NÃO ATENDIDA. ART. 76, § 2º, DO CPC/2015. RECURSO INEXISTENTE. SÚMULA 115/STJ. ART. 1.017, § 5º, DO CPC/2015. INAPLICÁVEL NO ÂMBITO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A não apresentação da procuração, mesmo após abertura de prazo para regularização processual, acarreta o não conhecimento do Recurso (art. 76, § 2º, I, do CPC/2015).
+2. A procuração juntada em outro processo, conexo ou incidental, não apensado, não produz efeito em favor do recorrente no âmbito desta Corte Superior.
+3. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao Recurso Especial ou ao Agravo em Recurso Especial, especialmente quando caracterizada a inércia após a intimação para regularização.
+4. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto de decisão proferida pela Presidência do Superior Tribunal de Justiça (fls. 178-179, e-STJ) que não conheceu do Recurso Especial, por irregularidade na representação processual.
+A parte agravante aduz, em suma (fls. 184-190):
+7. Após subir ao STJ, a Secretária Judiciária, às fls. e-stj. fls. 130, lavrou "Certidão para Saneamento de Óbices", intimando-se os recorrentes "a realizar, no prazo de 5 dias, a regularização da representação processual, nos termos do art. 76 c/c art. 932, parágrafo único, do Código de Processo Civil."
+8. Em e-stj. fls.137/140, 141/144 e 145/177, os agravantes informaram que a referida certidão estava equivocada, vez que já havia cadeia de procuração e de substabelecimentos nos autos principais e no cumprimento de sentença. Por ocasião das manifestações, os agravantes juntaram todos os documentos que comprovavam a ausência do aludido vício, colacionando a contestação seguida da procuração e as demais petições juntando os substabelecimentos.
+9. Em seguida, foi proferida decisão monocrática por esta Presidência, na qual se alegou a incidência da súmula 115/STJ, razão pela qual o recurso especial não foi conhecido nos termos do art. 21-E,V, do Regimento Interno do Superior Tribunal de Justiça.
+10. Tal decisão não merece prosperar, tendo em vista que os agravantes sempre estiveram representados por advogados nos autos, não havendo o alegado vício de ausência de regularização processual.
+(..)
+14. A bem da verdade, a Secretária Judiciária deste e. STJ se olvidou de compulsar tanto o processo de conhecimento quanto o de cumprimento de sentença para certificar a existência dos instrumentos de mandato, analisando apenas e tão somente os autos do agravo de instrumento do qual exsurgiu o recurso especial que não foi conhecido. Por óbvio, a procuração e os substabelecimentos não estariam juntados no referido agravo de instrumento, até porque dispensáveis em razão dos autos eletrônicos (CPC: Art. 1.017, § 5º).
+15. Assim, este e. sodalício cometeu alguns equívocos. O primeiro diz respeito à lavratura de "Certidão para Saneamento de Óbice". O feito sempre esteve regularizado com procuração e substabelecimentos, não havendo nenhum vício a ser corrigido, razão pela qual essa certidão sequer deveria existir. O segundo equívoco concerne à decisão, ora impugnada, que considerou extemporâneas as petições e-stj fls. 137/140, 141/144 e 145/177. Ora, tais petições nunca poderiam ser consideradas intempestivas, haja vista que não se prestaram à regularização processual (até porque o processo sempre esteve regularizado), mas apenas e tão somente a informar a relação de advogados habilitados e as páginas em que estavam a procuração e os substabelecimentos.
+(..)
+22. Por fim, com o objetivo de facilitar à Vossa Excelência o manuseio dos autos, os agravantes rememoram que:
+i) o substabelecimento ao subscritor do recurso especial foi protocolizado em 01/10/2021, constando nas folhas de nºs 182/183 dos autos do cumprimento de sentença, processo nº 0003142-46.2020.8.26.0152 que tramita na 1ª Vara Cível do foro de Cotia/SP, sendo que tais documentos foram carreados aos autos deste recurso especial em e-stj fls. 138/139 e e-stj. fls. 142/143. (doc.03-fls.182/183 do cumprimento de sentença);
+ii) a procuração aos advogados Osvaldo Monteiro e Luana Cazoto de Carmargo Davino foi protocolizada em 15/05/2019, constando na folha de nº 226 dos autos principais, processo de conhecimento nº 1013242-14.2018.8.26.0152 que tramitou na 01ª Vara Cível do Foro de Cotia, sendo que tal documento foi carreado aos autos deste recurso especial em e-stj-fls. 170. (doc. 01 - fls. 226 dos autos principais);
+iii) o substabelecimento ao antigo patrono, Marcel Muscat foi protocolizado em 28/07/2020, constando nas folhas de nºs 28/29 dos autos do cumprimento de sentença, processo nº 0003142-46.2020.8.26.0152 que tramita na 1ª Vara Cível do foro de Cotia/SP, sendo que tais documentos foram carreados aos autos deste recurso especial em e-stj fls. 171/172. (doc. 02 - fls. 28/29 do cumprimento de sentença);
+Pleiteia a reconsideração da decisão agravada ou a submissão do feito ao Colegiado.
+Impugnação às fls. 198-199, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IRREGULARIDADE DE REPRESENTAÇÃO. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR NÃO ATENDIDA. ART. 76, § 2º, DO CPC/2015. RECURSO INEXISTENTE. SÚMULA 115/STJ. ART. 1.017, § 5º, DO CPC/2015. INAPLICÁVEL NO ÂMBITO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A não apresentação da procuração, mesmo após abertura de prazo para regularização processual, acarreta o não conhecimento do Recurso (art. 76, § 2º, I, do CPC/2015).
+2. A procuração juntada em outro processo, conexo ou incidental, não apensado, não produz efeito em favor do recorrente no âmbito desta Corte Superior.
+3. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao Recurso Especial ou ao Agravo em Recurso Especial, especialmente quando caracterizada a inércia após a intimação para regularização.
+4. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 14 de março de 2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme consignado na decisão recorrida (fl. 250, e-STJ):
+Mediante análise do recurso de IRONCILDES PAULO DALTRO BARRETO, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao Dr. Marcio Medeiros Bastos, subscritor do recurso especial.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a petição de fls. 231/233, trazida aos autos em razão da certidão oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Com efeito, o Especial foi protocolado em 3.5.2023, na vigência do CPC/2015, tendo sido possibilitada a regularização da representação processual do advogado Marcio Medeiros Bastos, signatário da referida petição (fls. 224 e 226, e-STJ).
+No entanto, constata-se que, apesar da intimação para o saneamento da irregularidade, a determinação não foi cumprida no prazo assinalado, conforme certidão à fl. 229, e-STJ.
+Assim, incide o disposto no art. 76, § 2º, I, do CPC/2015, segundo o qual não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+Nesse sentido, cito:
+(..) A não apresentação da procuração, mesmo após abertura de prazo para regularização processual, acarreta o não conhecimento do Recurso. (..)
+(AgInt no AREsp n. 1.935.018/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/1/2024.)
+(..) III. No caso, a decisão ora combatida foi publicada na vigência do CPC/2015. Portanto, o presente Agravo interno deve ser analisado à luz do novo CPC. (..). Por sua vez, o art. 932, parágrafo único, do mesmo Diploma Processual dispõe que, "antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível". V. Intimada a regularizar a sua representação processual, nos termos do art. 932, parágrafo único, do CPC vigente, a parte agravante deixou transcorrer in albis o prazo para tal. VI. Diante da ausência de correção do vício apontado - apesar de intimada a parte recorrente para tanto -, incide, no caso, a Súmula 115/STJ. Nesse sentido: STJ, AgInt no AREsp 902.090/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 21/09/2016; AgInt no AREsp 821.748/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 10/08/2016. VII. Agravo interno não conhecido, por subscrito por advogado sem procuração ou regular substabelecimento, conforme certidão constante dos autos.
+(AgInt no AREsp n. 2.261.129/DF, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 31/8/2023.)
+Ademais, a procuração juntada em outro processo, conexo ou incidental, não apensado, não produz efeito em favor do recorrente no âmbito desta Corte Superior, haja vista que a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao Recurso Especial ou ao Agravo em Recurso Especial, especialmente quando caracterizada a inércia após a intimação para regularização.
+Confiram-se, a propósito, os seguintes precedentes:
+(..) A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente no Superior Tribunal de Justiça. (..) A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao Recurso Especial ou ao Agravo em Recurso Especial, especialmente quando caracterizada a inércia após a intimação para regularização. (..)
+(AgInt no AREsp n. 2.003.191/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DA INSURGÊNCIA. POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR RESTRITA AO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DO AGRAVO E DO APELO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. JUNTADA DA PROCURAÇÃO. ÔNUS DO RECORRENTE. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DESPROVIDO.
+(..)
+5. Interposto recurso por advogado sem procuração dos autos, dele não se pode conhecer, nos termos dos arts. 76, § 2º, I, c/c 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado.
+6. A jurisprudência desta Corte Superior é pacífica no sentido de que, não constando a procuração no agravo de instrumento, compete à parte insurgente, no momento da interposição do apelo especial, providenciar o traslado do instrumento ou juntar nova procuração.
+7. Ainda que se considerasse a má-formação do agravo de instrumento, é certo que nada impedia que a ora recorrente, ao interpor o agravo e o recurso especial, juntasse o respectivo instrumento de mandato, providência que não tomou, nem mesmo após ter-lhe sido assinalado prazo para a regularização da representação processual.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.009.249/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ADVOGADO SUBSCRITOR DO AGRAVO EM RECURSO ESPECIAL SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA. APLICAÇÃO DO DISPOSTO NO ART. 76, § 2º, DO NCPC. PRECLUSÃO TEMPORAL. OCORRÊNCIA. NECESSIDADE DE TRASLADO DA PROCURAÇÃO DE PROCESSO CONEXO OU INCIDENTAL. AGRAVO INTERNO NÃO PROVIDO.
+(..) 2. Conforme o disposto no art. 76, § 2º, I, do NCPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+3. A procuração ou o substabelecimento apresentados a destempo não podem ser conhecidos, pois foram protocolizados fora do prazo assinalado, ocorrendo a preclusão temporal da prática.
+4. A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior.
+5. Esta Corte de Justiça já assentou o entendimento de que a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento" (AgInt nos EDcl no AREsp 1.704.046/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 1º/3/2021, DJe 3/3/2021).
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.067.521/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 8/6/2022.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, suficientemente fundamentada e em consonância com jurisprudência pacífica do STJ, não há prover o Agravo Interno que contra ela se insurge.
+Ante o exposto, nega-se provimento ao Agravo Interno.
+É o voto.
