@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra acórdão proferido pela col. Quarta Turma do STJ (e-STJ, fls. 1.223-1.236), nos termos da seguinte ementa:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. REFLEXO DAS HORAS EXTRAS RECONHECIDAS PELA JUSTIÇA DO TRABALHO. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. COMPENSAÇÃO ENTRE VALORES DEVIDOS E VALORES A SEREM VERTIDOS. POSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos das teses fixadas para o Tema 955 dos Recursos Repetitivos, em modulação de efeitos da decisão, nas demandas ajuizadas na Justiça comum até a data daquele julgamento, "admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso" (REsp 1.312.736/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe de 16/08/2018).
+2. A recomposição da reserva matemática, todavia, pode ser objeto de compensação entre os valores a serem vertidos com aqueles a serem recebidos pela revisão do benefício (EREsp 1.557.698/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 28/08/2018).
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido."
+Em suas razões recursais, a parte embargante alega omissão e obscuridade do acórdão embargado, por desconsideração da necessidade de prévia recomposição da reserva matemática a cargo do participante para o incremento do benefício previdenciário em decorrência do reconhecimento das horas extras, nos termos dos precedentes que firmaram as teses dos Temas 955 e 1.021 dos Recursos Repetitivos.
+Aduz que, como as teses firmadas não trataram sobre o arbitramento de honorários de sucumbência, sua aplicação gera apenas o reconhecimento de um direito, o qual poderá não ser exercido em cumprimento de sentença, ante a necessidade da onerosa recomposição da reserva matemática. Assevera que, "nesta hipótese, ainda que não exercesse o direito exercido judicialmente, a parte adversa já teria recebido honorários sucumbenciais arbitrados na fase de conhecimento, a despeito de não fazer jus a qualquer valor, o que configuraria flagrante enriquecimento sem causa".
+Impugnação apresentada às fls. 1.269-1.270 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de questão ou ponto sobre o qual se devia pronunciar o órgão julgador, de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022).
+É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide em decorrência do mero descontentamento da parte com o resultado obtido.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO CARACTERIZADA. ERRO MATERIAL. CORREÇÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC. É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não se verifica omissão quando o acórdão embargado emite tese sobre os questionamentos levantados pela parte.
+3. No caso, houve apenas erro de digitação, visto que, em vez de constar a incidência da Súmula 735 do STF, o acórdão recorrido consignou a aplicação da "Súmula 735 do STJ".
+4. Embargos de declaração parcialmente acolhidos, apenas para sanar erro material."
+(EDcl no AgInt no AREsp n. 2.307.944/BA, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 9/11/2023)
+"CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FINANCIAMENTO SOB AS REGRAS DO SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VÍCIOS CONSTRUTIVOS. ALEGAÇÃO DA NECESSIDADE DE INTERVENÇÃO DA CEF NO FEITO COMO LITISCONSORTE ASSISTENCIAL. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA N.º 211 DO STJ. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. (..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.327.667/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 3/11/2023)
+No caso dos autos, o acórdão embargado não contém nenhum vício, sendo suficiente a transcrição dos seguintes excertos do acórdão recorrido, para demonstrar a insubsistência das alegações recursais e evitar indesejável tautologia (e-STJ, fls. 1.225-1.236):
+"RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra decisão monocrática desta relatoria (e-STJ, fls. 1.175-1.181), que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões recursais, a parte agravante reitera a inviabilidade de compensação dos valores que devem ser aportados pelo participante a título de recomposição prévia e integral da reserva matemática, por aqueles referentes às diferenças a serem implementadas nos complementos de aposentadoria, consistentes em mera expectativa de direito.
+Defende o afastamento da sua sucumbência, sem que haja a incidência dos óbices das Súmulas 7 e 83 do STJ, pois o acórdão recorrido extrapolou a aplicação das teses firmadas para os Temas 955 e 1.021 dos Recursos Repetitivos, que não versaram sobre o arbitramento de honorários de sucumbência, mas apenas sobre o reconhecimento de um direito que pode não ser exercido, por estar condicionado à onerosa recomposição da reserva matemática a cargo do participante.
+Assevera não ter dado causa à revisão posterior dos benefícios e que a manutenção da decisão agravada implicará enriquecimento sem causa.
+(..)
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+As razões recursais são insuficientes para modificar a decisão agravada, a qual deve ser confirmada.
+A Segunda Seção desta Corte, por ocasião do julgamento do REsp 1.312.736/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 08/08/2018, DJe de 16/08/2018, fixou as seguintes teses para o Tema 955 dos Recursos Repetitivos, sobre a possibilidade de inclusão, no cálculo do benefício complementar de previdência privada, de horas extraordinárias reconhecidas pela Justiça do Trabalho:
+"a) A concessão do benefício de previdência complementar tem como pressuposto a prévia formação de reserva matemática, de forma a evitar o desequilíbrio atuarial dos planos. Em tais condições, quando já concedido o benefício de complementação de aposentadoria por entidade fechada de previdência privada, é inviável a inclusão dos reflexos das verbas remuneratórias (horas extras) reconhecidas pela Justiça do Trabalho nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria.
+b) Os eventuais prejuízos causados ao participante ou ao assistido que não puderam contribuir ao fundo na época apropriada ante o ato ilícito do empregador poderão ser reparados por meio de ação judicial a ser proposta contra a empresa ex-empregadora na Justiça do Trabalho.
+c) Modulação dos efeitos da decisão (art. 927, § 3º, do CPC/2005): nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso.
+d) Nas reclamações trabalhistas em que o ex-empregador tiver sido condenado a recompor a reserva matemática, e sendo inviável a revisão da renda mensal inicial da aposentadoria complementar, os valores correspondentes a tal recomposição devem ser entregues ao participante ou assistido a título de reparação, evitando-se, igualmente, o enriquecimento sem causa da entidade fechada de previdência complementar."
+Nos termos da modulação temporal do supracitado Tema 955, a ausência de prévio custeio não impede a revisão de benefício estabelecido em montante inferior pela supressão de verba remuneratória, que deveria ter integrado sua base de cálculo à época. Devem ser apurados em liquidação de sentença o novo valor do benefício e a correspondente recomposição da reserva matemática, condição necessária para a percepção do reflexo patrimonial.
+Entretanto, a aludida recomposição pode ser efetuada pela metade daquilo que seria devido, no caso de recolhimento apenas da contribuição a cargo do participante ou do patrocinador, bem como pela compensação entre os valores a serem vertidos com aqueles a serem recebidos pela revisão do benefício.
+A propósito:
+(..)
+Por fim, no tocante à pretensão de revisão ou afastamento do ônus da sucumbência, com base na inexistência ou decaimento mínimo relativamente à inclusão de verba no benefício, não prospera o recurso.
+(..)
+No caso dos autos, sem adentrar o exame do decaimento das partes, como visto inviável, observa-se que, ao final, houve sucumbência da parte agravante, sendo devida a condenação ao pagamento de honorários advocatícios, pois resistiu à pretensão de obtenção do reflexo patrimonial oriundo do reconhecimento do direito à verba remuneratória, horas extras habituais, apontando óbice à recomposição extemporânea da reserva matemática, em contrariedade às teses firmadas para os Temas 955 e 1.021 dos Recursos Repetitivos.
+Desse modo, a sucumbência foi corretamente fixada com base na conclusão pela derrota, mesmo que parcial, na ação, por imposição legal do art. 85 do CPC/2015, em conformidade com a jurisprudência desta Corte, em vez da aplicação das teses firmadas para os aludidos recursos repetitivos, utilizadas para o julgamento da causa."
+Desse modo, os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir matéria devidament e apreciada, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos declaratórios.
+É como voto.
