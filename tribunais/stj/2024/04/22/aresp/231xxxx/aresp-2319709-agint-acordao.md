@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta, clara e fundamentadamente, acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que os agravantes não poderiam ser considerados possuidores, tendo em vista que em sua posse não haveria a presença do animus domini. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 2.544/2.566) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante aponta omissões do acórdão e afirma que haveria ofensa ao art. 1.022 do CPC/2015. Considera inaplicável a Súmula n. 7 do STJ, argumentando que não haveria "qualquer necessidade de rever provas, e se insista não trata de aplicação da lei contrária aos interesses do recorrente, mas sim inobservância da aplicação da própria Lei, já que a decisão se opõe expressa e frontalmente às regras dos artigos 1.196 e 1.200 a 1.203 do Código Civil  ..  a decisão monocrática está perpetrando, concessa maxima venia, uma das maiores ilegalidades e injustiças que já se viu em processo civil, impondo perdimento de bem imóvel àqueles que não tinham nenhuma responsabilidade ou obrigação com o processo alheio e que não fizeram parte da referida demanda" (e-STJ fl. 2.558).
+Aduz ainda que a decisão violou os arts. 182 e 1.245 do CC/2002 e que "a posse adquirida por escritura pública de venda e compra levada a registro nos exatos termos que termina a Lei (artigo 1.245 CC), logo a posse foi mantida com este caráter até meados de 2019, quando os recorrentes tomaram pé da existência do processo" (e-STJ fl. 2.553).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação, requerendo a majoração dos honorários advocatícios e a imposição de multa por litigância de má-fé (e-STJ fls. 2.571/2.584).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta, clara e fundamentadamente, acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que os agravantes não poderiam ser considerados possuidores, tendo em vista que em sua posse não haveria a presença do animus domini. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 2.536/2.540):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal.
+O acórdão recorrido está assim ementado (e-STJ fl. 2.420):
+Apelação cível. Embargos de terceiro. Penhora incidente sobre imóvel decretada em ação autônoma, sem participação dos embargantes. Pretensão de manutenção na posse do imóvel, sob alegação de usucapião. Sentença de procedência parcial, para manter os embargantes na posse do imóvel objeto da lide.
+Justiça gratuita aos embargados-apelantes. Deferimento. Documentos juntados demonstram que os embargados não possuem condições financeiras elevadas. Benesse já concedida em sede de cumprimento provisório de sentença. Inexistentes nos autos quaisquer elementos que desconstituam a presunção de hipossuficiência.
+Coisa julgada. Presença dos requisitos autorizado para o reconhecimento do usucapião não decidida em sede de impugnação ao cumprimento provisório de sentença. Questão remetida a ação autônoma. Possibilidade de arguição de usucapião como matéria de defesa em sede de embargos de terceiro.
+Cerceamento de defesa não configuração. Aplicação dos artigos 370 e 371 do CPC. Dilação probatória desnecessária. Provas já produzidas suficientes para justa solução do litígio.
+Mérito. Reconhecida a nulidade do negócio jurídico originário. Contrato firmado entre os embargantes e embargados prevalece até o ano de 2002 quando do ajuizamento da ação de nulidade. Efeito "ex tunc" da decisão que declara a nulidade do negócio jurídico. Evidente a intenção dos embargados em retomar a posse do imóvel. Posse da parte embargante tornou-se precária, a partir da propositura da ação de nulidade. Falta do preenchimento dos requisitos da usucapião. Não inclusão dos embargantes na ação de nulidade não impede que essa seja decretada. Eventuais prejuízos devem ser resolvidos por ação autônoma indenizatória.
+Sucumbência imposta integralmente aos embargantes.
+Resultado. Justiça gratuita deferida. Preliminares rejeitadas. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.245/2.249).
+Nas razões do recurso especial (e-STJ fls. 2.440/2.470), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022, II, do CPC/2015, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matérias dos embargos de declaração,
+(ii) arts. 182, última parte, 1.196, 1.200, 1.201, caput e parágrafo único, 1.202 e 1.203 do CC/2002 e 341 do CPC/2015, por entender que "diz-se precária a posse quando o possuidor recebe a coisa com a obrigação de restituí-la e, contrariando e descumprindo o pacto, deixa de devolvê-la ao proprietário, ou possuidor legítimo. Neste caso o vício inicia no momento em que o possuidor se recusa a devolver o bem. Os recorrentes, como bem observado, não tiveram participação na demanda anulatória de modo que os efeitos daquela decisão não podem e não deveriam ser a eles opostos, este é o axioma legal" (e-STJ fl. 2.460). Menciona o seguinte (e-STJ fl. 2.455):
+De tudo se extrai de forma clara e sem maiores dificuldades a vulneração das regras legais acima indicadas, posto que o acórdão é diretamente contrário às regras legais, pois considera como injusta posse justa, considera de má-fé, posse estribada em compra e venda lícita, considera precária, posse decorrente de escritura pública levada a registro.
+E, ainda mais, considera os efeitos ex tunc em prejuízo daqueles que NÃO deram causa às mazelas tratadas nos autos principais, deixando de dar vigência também à regra do artigo 182, última parte do Código Civil.
+A decisão está em desacordo com as regras legais indicadas.
+Diz a regra inserta no artigo 182 do Código Civil que anulando-se o negócio restituir-se-á as partes ao estado anterior, e, não sendo possível serão indenizadas. Ora, no caso dos autos, resta evidente que o negócio jurídico posterior já tinha gerado efeitos irreversíveis, com o envolvimento de terceiros de boa-fé, de modo que a indenização deveria ocorrer entre as partes do processo principal.
+(..)
+Toda a solução da questão dos autos está na Lei, mas a LEI NÃO FOI OBSERVADA.
+Todo o processo está eivado de erro grave. É inexplicável, incompreensível os erros contidos no acórdão.
+Como se sabe a nulidade do negócio só pode atingir terceiro quando este teve participação no ato nulo.
+NO CASO DOS AUTOS OS TERCEIROS NÃO PARTICIPARAM DO ATO QUE FOI ANULADO.
+Em suma, são estes os pedidos recursais (e-STJ fl. 2.469):
+Diante do exposto, requer seja recebido, processado e remetido ao Superior Tribunal de Justiça que conhecendo dará TOTAL PROVIMENTO AO RECURSO, para o fim de reformar a decisão proferida, nos termos das razões expendidas e na forma das regras insertas no artigo 105, III, "a", da Constituição Federal, para impedir a manutenção de decisão contrária as regras legais, por ser providência de Direito e de Justiça.
+Foram oferecidas contrarrazões (e-STJ fls. 2.475/2.484).
+No agravo (e-STJ fls. 2.490/2.500), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 2.514/2.524).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+O TJSP, ao analisar as provas, entendeu que (e-STJ fls. 2.422/2.424):
+Analisando os autos, verifica-se que, por escritura pública no ano de 1995, o falecido Matheus Difeo Filho transmitiu o imóvel aqui em litígio para Adriana Goulart e Flávio Luiz. Posteriormente, no ano de1997, o imóvel foi vendido a Wladimer Schapowal casado com Otavina Ribeiro (fls. 36), ocorrendo a adjudicação do imóvel a esta última após o falecimento do seu esposo (fls. 37).
+No entanto, no ano de 2002 o primitivo vendedor Matheus Difeo Filho e a ora embargada Denise ingressaram com ação de anulação de atos jurídicos contra Abrão Pess Issa, Adriana Goulart e Flávio Luiz. A pretensão inicial foi julgada procedente por V. Acórdão proferido por esta Corte de Justiça (fls. 300/318). Posteriormente, foi determinado o cancelamento dos registros referentes aos negócios jurídicos aludidos acima na matrícula do imóvel (fls. 646).
+Dessa forma, reconhecida a nulidade do negócio jurídico, não houve a compra e venda que transmudasse o animus da posse da parte embargante sobre o imóvel litigioso, sendo certo que ninguém pode mudar, por si mesmo, a causa da posse. Assim, referido contrato prevalece, ante a declaração de nulidade do negócio jurídico até o ano de 2002 quando do ajuizamento da ação de nulidade.
+Assim, restou inequívoca a intenção dos embargados em retomar a posse do imóvel, motivo pelo qual a posse da parte embargante tornou-se precária, a partir da propositura da ação de nulidade, qualidade que se estende até hoje.
+A decisão declaratória de nulidade do negócio jurídico possui eficácia ex tunc e, portanto, não há que se falar no preenchimento dos requisitos da usucapião.
+Na lição de Caio Mário da Silva Pereira, "usucapião é a aquisição da propriedade ou outro direito real pelo decurso do tempo estabelecido e com observância dos requisitos instituídos por lei" (in Instituições de Direito Civil, vol. IV, p. 138, ed. Forense, 2004).
+Assim, os embargantes não podem ser considerados possuidores, pois sua posse não há a presença do animus dominie estando ausente possead usucapionem, não se encontram presentes os requisitos necessários a procedência dos embargos de terceiro para manter os embargantes na posse do imóvel.
+No mais, importante anotar que a não inclusão dos embargantes na ação de nulidade não impede que essa seja decretada, por se tratar de negócio jurídico nulo, devendo eventuais prejuízos ser resolvidos por ação de perdas e danos (fls.316- Apelação nº 9160683-77.2008.8.26.0000 decisão proferida na ação anulatória).
+Em virtude da alteração do resultado do julgamento, o ônus da sucumbência deve ser arcado integralmente pela parte embargante, arbitrados os honorários advocatícios da parte contrária em 15% do valor atualizado da causa.
+Finalizando, as demais questões arguidas pelas partes ficam prejudicadas, segundo orientação do Superior Tribunal de Justiça, perfilha da pela Ministra Diva Malerbi, no julgamento dos EDcl no MS21.315/DF, proferido em 08/06/2016, já na vigência CPC/2015:"o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão (..),sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".
+Na hipótese de apresentação de embargos de declaração contra o presente Acórdão, ficam as partes intimadas a se manifestar, no próprio recurso, a respeito de eventual oposição ao julgamento virtual, nos termos do art. 1º da Resolução n.º 549/2011, com a redação alterada pela Resolução nº 772/2017 do Órgão Especial deste E. Tribunal de Justiça, entendendo-se o silêncio como concordância.
+A Corte local concluiu que "os embargantes não podem ser considerados possuidores, pois sua posse não há a presença do animus dominie estando ausente possead usucapionem, não se encontram presentes os requisitos necessários a procedência dos embargos de terceiro para manter os embargantes na posse do imóvel". A alteração do decidido implicaria inadequada reavaliação do suporte fático-probatório dos autos, atraindo a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Na verdade, sob o pretexto de sanar supostos vícios, a parte demonstra inconformismo com as conclusões do Tribunal de origem. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+O Tribunal de orige m consignou expressamente que "os embargantes não podem ser considerados possuidores, pois sua posse não há a presença do animus dominie", concluindo que (e-STJ fl. 2.423):
+Dessa forma, reconhecida a nulidade do negócio jurídico, não houve a compra e venda que transmudasse o animus da posse da parte embargante sobre o imóvel litigioso, sendo certo que ninguém pode mudar, por si mesmo, a causa da posse. Assim, referido contrato prevalece, ante a declaração de nulidade do negócio jurídico até o ano de 2002 quando do ajuizamen to da ação de nulidade.
+Para que se acolha a pretensão, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Por fim, a questão referente aos arts. 182 e 1.245 do CC/2002 não foi alegada no recurso especial. Assim, o tema constitui indevida inovação recursal, circunstância que impede o exame da matéria nesta oportunidade.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Indefiro o pedido da parte agravada de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Por fim, segundo a jurisprudência do STJ, "não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno" (AgInt nos EDcl no REsp n. 1.772.480/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/7/2019, DJe 6/8/2019).
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
