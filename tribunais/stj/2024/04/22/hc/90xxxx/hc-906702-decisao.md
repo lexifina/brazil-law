@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUIS GUSTAVO ROMERO LOPES em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 21-24).
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente.
+Aponta ausência de fundamentação para segregação cautelar.
+Requer:
+"a concessão da medida liminar para que o paciente LUIS GUSTAVO ROMERO LOPES, possa aguardar o julgamento em liberdade pelos exaustivos argumentos supra, COMA IMPOSIÇ ÃO DAS MEDIDAS CAUTELARES DO ARTIGO 319 CPP, bem como seja expedido com extrema urgência o competente ALVARÁ DE SOLTURA CLAUSULADO, bem como os ofícios necessário se, após as informações prestadas, Requer seja definitivamente concedida a ordem, e confirmando-se a liminar, como medida da mais lídima e cristalina JUSTIÇA" (fl. 16).
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerada a gravidade concreta da conduta, haja vista a quantidade e a natureza da droga apreendida, no contexto da traficância, "162 gramas de crack, em 308 porções"; não se olvidando o risco de reiteração criminosa.
+N o ponto, consta na decisão do Juízo de primeiro grau:
+"O estado de flagrância decorre da notícia da apreensão do material ilícito (162 gramas de crack, em 308 porções, além de R$1234,00, em dinheiro), em poder do autuado.  .. Não há, ainda, comprovante de ocupação lícita, tampouco de domicílio certo, anotando-se que o detido estava na posse de expressiva quantia de drogas e dinheiro, em via pública e em plena luz do dia, a indicar a mercancia de entorpecentes. Ao que consta, avistado em local suspeito, tentou desvencilhar-se da verificação policial. Note-se, outrossim, que o custodiado é possível reincidente específico, com pena recém cumprida (fls. 21/22)" (fl. 25).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+"No caso, observa-se que a prisão cautelar está fundamentada na necessidade de garantia da ordem pública, haja vista a gravidade concreta da conduta, pois a quantidade e natureza da droga apreendida demonstram um maior envolvimento do paciente com a suposta traficância, uma vez que, em seu poder, foram apreendidos 70g de crack - o que lhe permitiria o fracionamento de até 350 porções da droga - visto que 1g de crack pode ser fracionado em até 5 pedras" (AgRg no HC n. 746.426/PE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2022).
+"Caso em que a prisão preventiva foi decretada para garantia da ordem pública, em razão da expressiva quantidade de droga apreendida e de sua natureza nociva - 115,43 gramas de crack" (AgRg no HC n. 698.042/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 25/10/2021).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
