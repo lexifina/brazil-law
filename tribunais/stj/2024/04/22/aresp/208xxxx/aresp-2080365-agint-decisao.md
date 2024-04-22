@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por CLAUDIO MORAES COSTA contra a decisão da Presidência do Superior Tribunal de Justiça (STJ) de fls. 273/276.
+O recurso especial foi interposto, com fundamento no art. 105,  inciso III,  alínea c,  da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fls. 126/127):
+PROCESSO CIVIL. APELAÇÃO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. VENDA DE VEÍCULO. NÃO COMUNICAÇÃO E TRANSFERÊNCIA JUNTO AO DETRAN. INOBSERVÂNCIA DA REGRA CONSTANTE NO ART. 134 DO CTB. OBRIGAÇÃO DO ALIENANTE. INCIDÊNCIA DE RESPONSABILIDADE SOLIDÁRIA. OBRIGAÇÃO PELA DÍVIDA TRIBUTÁRIA (IPVA) E ADMINISTRATIVA (MULTAS). SENTENÇA MANTIDA.
+I - In casu, ao contrário do que defende o recorrente, a regra constante no artigo 134 do CTB, somente pode ser "mitigada", quando comprovada a realização de comunicação da transferência da propriedade perante o respectivo órgão de trânsito dentro do prazo legal (30dias), condição essa, que o apelante confessa não ter realizado.
+II - Com efeito, para que restasse configurada a inexistência da relação jurídico-tributária e/ou administrativa, o alienante (apelante) deveria ter comprovado que comunicou ao órgão de trânsito a venda do veículo, sob pena de persistir a sua responsabilidade solidária pelas penalidades e demais obrigações decorrentes da relação de propriedade do veículo, mormente, no que se refere ao IPVA.
+III - Frisa-se, que diante da proposição de venda do veículo descrito na inicial, o recorrente não colacionou nenhum documento que demonstrasse, de forma concreta o momento em que o veículo teria sido supostamente alienado, a ponto de permitir em tese, a aplicação do enunciado constante da Súmula 585 do STJ, de onde a fotografia de procuração outorgando poderes para a Sra. Marli Brasil não se equivale ao respectivo DUT (Documento Único de Transferência), para os fins de transferência do veículo, sendo inobservado dessa forma o ônus probatório constante do artigo 373, inciso I do CPC.
+IV - Apelo conhecido e desprovido.
+Em seu recurso especial, o agravante sustenta violação ao art. 134 do Código de Trânsito Brasileiro, haja vista o dissídio jurisprudencial existente sobre a matéria. Para tanto, aduz que não se pode cogitar de responsabilização solidária pelos débitos decorrentes de IPVA, tendo em vista que já não mais seria o dono do automóvel.
+A parte adversa apresentou contrarrazões (fls. 158/194).
+O recurso não foi admitido, razão por que foi apresentado agravo em recurso especial.
+Às fls. 273/276, a Presidência do STJ conheceu do agravo para não conhecer do recurso especial, ante a ausência de similitude fática entre os julgados confrontados.
+Contra a decisão foi interposto o agravo interno ora examinado, no qual o recorrente, em suma, alega que os acórdãos pelos quais embasou o dissídio jurisprudencial suscitado versam sobre a mesma questão de direito.
+Às fls. 315/320 foi apresentada a impugnação.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Conquanto se verifique a existência de semelhança entre o que foi decidido pelo acórdão hostilizado e os julgados desta Corte, trazidos como paradigma, o recurso não comporta conhecimento.
+Sobre a controvérsia posta, o Tribunal de Justiça do Estado do Maranhão se pronunciou da seguinte forma (fl. 129):
+"Frisa-se, que diante da proposição de venda do veículo descrito na inicial, o recorrente não colacionou nenhum documento que demonstrasse, de forma concreta o momento em que o veículo teria sido supostamente alienado, a ponto de permitir em tese, a aplicação do enunciado constante da Súmula 5851 do STJ, de onde a fotografia de procuração outorgando poderes para a Sra. Marli Brasil não se equivale ao respectivo DUT(Documento Único de Transferência), para os fins de transferência do veículo, sendo inobservado dessa forma o ônus probatório constante do artigo 373, inciso I do CPC."
+Ficou assentado que não houve comprovação de que o agravante de fato não seria mais o proprietário do veículo. Para dissentir dessa conclusão, seria imprescindível que se analisasse as peculiaridades do caso, para que se verificasse se o agravante não exerce mais a condição de proprietário.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. INFRAÇÕES DE TRÂNSITO. ALIENANTE. RESPONSABILIDADE SOLIDÁRIA PROVA DA TRANSFERÊNCIA DO BEM. AUSÊNCIA. REEXAME. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. Apesar da aquisição do domínio de bem móvel efetivar-se pela simples tradição (art. 1.267 do CC/02), a transferência plena da propriedade dos veículos automotores, seja perante o Estado, seja perante terceiro, exige a transcrição do título aquisitivo no órgão executivo de trânsito.
+3. Enquanto não houver a comunicação prevista no art. 134 do CTB ou a expedição de novo certificado de registro, a titularidade do veículo permanecerá em nome da pessoa que constar na base de dados do DETRAN, a qual poderá responder solidariamente pelas infrações que recaírem sobre o bem.
+4. O Superior Tribunal de Justiça tem mitigado o alcance do referido dispositivo quando ficar comprovado nos autos a efetiva transferência da propriedade do veículo, em momento anterior aos fatos geradores das infrações de trânsito, ainda que não comunicada a transação à administração pública.
+5. Hipótese em que o Tribunal de origem, adstrito às circunstâncias fáticas da causa, não acolheu a tese de negativa da propriedade da motocicleta sub judice, em razão de a autora ter imputado a responsabilidade das infrações a terceiros sem identificá-los, tampouco apresentando documento para comprovar a tradição do bem.
+6. A alteração do julgado nos termos pretendidos, inclusive quanto à amplitude do pedido formulado na exordial, implicaria o reexame do conjunto fático-probatório dos autos, o que é inadmissível em sede de recurso especial, em face da Súmula 7 do STJ.
+7. Agravo interno desprovido. (AgInt no AREsp n. 1.128.309/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/5/2018, DJe de 11/6/2018.)
+Ante o exposto, reconsiderando a decisão de fls. 273/276, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
