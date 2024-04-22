@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de ação de homologação de decisão estrangeira promovida por BULK TRADING SA em face de TVD CORP, COMERCIO DE MINERAIS, COSMETIC & FOODS, IMPORTACAO E EXPORTACAO LTDA, tendo por objeto sentença arbitral proferida pelo Tribunal Arbitral de Londres, Reino Unido.
+Citada a empresa requerida por via postal (fls. 863-864), a parte deixou de apresentar a contestação no prazo legal (fl. 865).
+Na sequência, a Defensoria Púbica da União foi constituída como curadora especial e não se opôs ao pedido (fl. 878).
+Com vista dos autos, o Ministério Público Federal manifestou-se de forma favorável à homologação (fls. 888-890).
+É o relatório.
+Decido.
+Para ser homologada no Brasil, a sentença estrangeira deve reunir os seguintes requisitos: a) ter sido proferida por autoridade competente; b) ter sido precedida de citação regular, ainda que verificada a revelia; c) ser eficaz no país em que foi proferida; d) não ofender a coisa julgada brasileira; e) não conter manifesta ofensa à soberania nacional, à ordem pública, à dignidade da pessoa humana nem aos bons costumes (artigos 963 do CPC, 17 da LINDB e 216-C a 216-F do RISTJ); e f) estar acompanhada de tradução oficial e de chancela consular ou apostila, salvo disposição que as dispense prevista em tratado.
+Os documentos necessários à pretensão foram devidamente apresentados.
+De fato, consta dos autos: duas cópias da convenção de arbitragem (com assinaturas e cargos distintos representando a empresa ora requerente), relativas ao mesmo contrato celebrado em 11/5/2020 (fls. 146-155 e 901-910), com a certidão notarial da segunda cópia da convenção (fl. 900), a apostila decorrente (fl. 900) e a tradução oficial da primeira cópia da convenção de arbitragem (fls. 156-177), acompanhada das traduções oficiais da certidão e da apostila relativas à segunda cópia da convenção de arbitragem (fls. 912-915); a citação positiva da empresa requerida por via postal, com aviso de recebimento (fls. 863-864) e o decurso de prazo para a apresentação da contestação (fl. 865), juntamente com a subsequente constituição da Defensoria Pública da União como curadora especial, que não se opôs ao pleito (fls. 867 e 878); a sentença arbitral estrangeira de 7/2/2022, proferida por autoridade competente (fls. 675-745), juntamente com a apostila (fl. 674) e a tradução por profissional juramentado no Brasil (fls. 750-809 e 747-748), além da comprovação do trânsito em julgado, de modo a dar eficácia à decisão (fl. 673) e a tradução oficial (fls. 746-747); a decisão ádvena de adendo datada de 25/3/2022 (fls. 813-829), com a apostila (fl. 812) e a tradução oficial (fls. 831-832 e 834-846), acompanhado da comprovação do trânsito em julgado, de modo a dar eficácia à decisão (fl. 811) e a tradução oficial (fls. 830-831).
+Dessarte, a pretensão preenche os requisitos legais e regimentais.
+Ante o exposto, consoante o artigo 216-A do RISTJ, homologo o título arbitral estrangeiro, bem como a decisão ádvena de adendo.
+Expeça-se a carta de sentença.
+Publique-se.
+EMENTA
