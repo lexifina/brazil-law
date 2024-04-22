@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL) contra decisão que não admitiu seu apelo nobre.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, AMIL alegou a violação dos arts. 1.022 do NCPC e 537 e 884 do CC, ao sustentar que (1) o Tribunal de origem não se pronunciou sobre o pedido de revisão do valor das astreintes; (2) a multa deve ser reduzida.
+Pois bem !
+(1) Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, AMIL alegou a violação do art. 1.022, do NCPC por entender que o Tribunal de origem não se pronunciou sobre o pedido de revisão do valor das astreintes.
+Contudo, verifica-se que o TJSP se pronunciou sobre os temas consignando o seguinte:
+A questão devolvida ao conhecimento do Tribunal neste Agravo versa, em poucas palavras, sobre a legalidade de decisão interlocutória que impôs à operadora de saúde a obrigação de arcar com a incidência de astreintes à razão de R$ 50 mil reais, decorrente de descumprimento da ordem judicial proferida no processo de origem.
+À vista das circunstâncias do caso concreto, andou bem a MMª. Magistrada de Primeira Instância ao reconhecer o descumprimento de ordem judicial e imposição da multa anteriormente fixada.
+Não impressiona o singelo argumento de que cumpriu a decisão agravada ao simplesmente autorizar a compra e entrega do medicamento, sem prova cabal desse fato.
+Como bem observou a D. Magistrada, "os documentos de fls. 117/118 e 120 dos autos da fase de conhecimento indicam que a executada teve ciência acerca da decisão que concedeu a tutela de urgência no dia 21.12.2020 e que autorizou o fornecimento em 23.12.2020. Entretanto, sobreveio a informação de que somente em 04.12.2021 é que a ré viabilizou a entrega e aplicação do medicamento, e não há prova em contrário que infirme tal alegação. Não há sequer demonstração do que foi alegado pela executada em impugnação sobre a alegada dificuldade na aquisição do medicamento, cujo fornecimento foi imposto em sentença".
+Realmente, os documentos de fls. 117/118 e 120 indicam, sem dúvidas, que a ré Amil foi cientificada da ordem judicial, limitando-se a enviar e-mail para a autora comunicando suposta autorização.
+Ocorre que a operadora, mesmo intimada para explicações a respeito do cumprimento da liminar, conforme ordem judicial (fls.131) após manifestação do Ministério Público também observando o descumprimento da ordem judicial (fls. 129/130), limitou-se, em resposta, a dizer singelamente deu cumprimento à liminar, mas sem prova efetiva da data em que isso ocorreu.
+Em outras palavras, parece claro que o cumprimento da liminar envolve, evidentemente, medidas concretas para aquisição e entrega da medicação e não simplesmente a expedição de Token digital para atendimento. Mais especificamente, demonstração de que, nas 48 horas fixadas pelo Juízo a quo, foi marcada a data para aplicação do medicamento, em lugar certo e sabido, o que não ocorreu.
+A ordem judicial foi específica para que a autora recebesse a medicação em 48 horas e não simplesmente para que a operadora autorizasse a compra do remédio em tal prazo.
+Prevalece, portanto, a tese de descumprimento da ordem afirmada pela autora, que, inclusive, encontrou óbices para receber a quimioterapia, conforme relatado nos autos (fls. 152/154).
+No caso concreto é possível verificar que a operadora sempre esteve ciente da obrigação de custear o medicamento e da multa em caso de descumprimento.
+Sabido que a função das astreintes é vencer a obstinação do devedor ao cumprimento da obrigação, incidindo a partir da ciência do obrigado e da sua recalcitrância.
+Nesse sentido, o montante da multa deve ter expressão econômica suficiente para causar no espírito do obrigado a convicção de que o cumprimento da ordem é mais vantajoso e razoável.
+Compulsando os autos de primeira instância, verifica-se que houve descumprimento inequívoco da obrigação de cobertura do tratamento almejado pela autora, no prazo de 48h conforme decisão judicial.
+A renitência da operadora de saúde foi tamanha, a ponto de levar o Juízo a quo a proferir diversas outras decisões e até mesmo intervenção do Ministério Público, na tentativa de averiguar o cumprimento da obrigação imposta.
+A única certeza que se tem, portanto, é que a aplicação do medicamento de que tanto necessitada a autora, ocorreu 12 dias após a liminar.
+Cabia à operadora de saúde demonstrar de forma clara e objetiva que cumpriu a decisão anteriormente, e desse ônus não se desincumbiu.
+Escuda-se a agravante em argumentos genéricos, mas não gasta uma linha sequer nas razões de Agravo para dizer o que era esperado. Em outras palavras, não demonstrou que atendeu o comando de forma completa.
+Diante de tal cenário, impossível acolher o pedido principal formulado mas razões de Agravo, qual seja, afastar a incidência de multa processual. Isso porque, repito, houve manifesto descumprimento de decisão judicial.
+Resta apreciar a razoabilidade da incidência de multa à razão de R$ 50 mil reais.
+A meu sentir, a renitência da agravante justifica a manutenção da execução das astreintes no patamar fixado na origem.
+Salta aos olhos que o exequente sofre de gravíssimas patologias, conforme relatórios médicos acostados aos autos pelo ora agravado.
+Era texto expresso do artigo 461, § 6º, do CPC/1973: "o juiz poderá, de ofício, modificar o valor ou a periodicidade da multa, caso verifique que se tornou insuficiente ou excessiva".
+O CPC/2015 apresenta norma de conteúdo semelhante no art. 537, § 1º. Vejamos:
+"§ 1º O juiz poderá, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que:
+I - se tornou insuficiente ou excessiva;
+II - o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento."
+Assentou o C. Superior Tribunal de Justiça, em mais de uma oportunidade, que "a multa poderá, mesmo depois de transitada em julgado a sentença, ser modificada, para mais ou para menos, conforme seja insuficiente ou excessiva. O dispositivo indica que o valor das astreintes não faz coisa julgada material, pois pode ser revista mediante a verificação de insuficiência ou excessividade. O excesso a que chegou a multa justifica a redução" (REsp 705.914, Rel. Min. Gomes de Barros). No mesmo sentido: REsp 793.914, Rel. Min. Asfor Rocha; REsp 914389-RJ, Rel. Min. José Delgado, j. 10/04/2007, entre dezenas de outros.
+Pode e deve a multa ser ajustada a qualquer tempo pelo juiz, para mais ou para menos, por não tem caráter reparatório, mas apenas intimidatório, tendo como objetivo a obtenção adequada e proporcional da tutela específica (Cássio Scarpinella Bueno. Código de Processo Civil Interpretado, diversos autores coordenados por Antonio Carlos Marcato, Atlas, p. 1.412).
+No caso em tela, duramente reprovável o comportamento da operadora de saúde, que apresentou resistência ao cumprimento de ordem judicial, imprimindo a conta-gotas o processo de aplicação do remédio, não obstante a notícia de gravidade de saúde da parte contrária.
+A quantia, reduzida para R$ 50 mil reais, embora elevada, se presta a demonstrar que o Tribunal reprova com veemência a conduta da devedora, mas sem onerá-la de modo desproporcional.
+À vista das circunstâncias do caso concreto, a multa processual de R$ 50 mil reais cumpre a função de sanção pelo descumprimento da determinação judicial e se mostra suficiente para punir a renitência da executada.
+Não se ressentem de ilegalidade as decisões atacadas, razão por que fica mantida (e-STJ, fls. 38/42, em destaques no original.).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Afasta-se, portanto, a alegada violação.
+(2) Do valor das astreintes
+Esta Corte Superior, sensível a situações em que é manifesta a superveniência de valor excessivo resultante, em maior parcela das vezes, da reiteração no descumprimento da obrigação imposta, passou a viabilizar a revisão da multa diária em recurso especial, nos casos em que se atingissem valores evidentemente exagerados, importando em enriquecimento sem causa, ou ínfimos, insuficientes para manter a carga coercitiva da ordem judicial.
+Contudo, a Terceira Turma é uníssona no sentido de que a razoabilidade e a proporcionalidade das astreintes deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor.
+A propósito:
+RECURSOS ESPECIAIS. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VALORES BLOQUEADOS. BACEN-JUD. TRANSFERÊNCIA. ORDEM JUDICIAL. DESCUMPRIMENTO. MULTA COMINATÓRIA. VALOR. REDUÇÃO. IMPOSSIBILIDADE. RAZOABILIDADE E PROPORCIONALIDADE. PRINCÍPIOS RESPEITADOS. TETO. FIXAÇÃO. EXCEPCIONALIDADE.
+ ..
+3. Para a apuração da razoabilidade e da proporcionalidade das astreintes, não é recomendável se utilizar apenas do critério comparativo entre o valor da obrigação principal e a soma total obtida com o descumprimento da medida coercitiva, sendo mais adequado, em regra, o cotejamento ponderado entre o valor diário da multa no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante.
+4. Razoabilidade e proporcionalidade da multa cominatória aplicada em virtude do descumprimento, por 280 (duzentos e oitenta) dias, da ordem judicial de transferência de numerário bloqueado via BacenJus.
+5. A exigibilidade da multa aplicada é a exceção que somente se torna impositiva na hipótese de recalcitrância da parte, de modo que, para nela não incidir, basta que se dê fiel cumprimento à ordem judicial.
+6. Tendo sido a multa cominatória estipulada em valor proporcional à obrigação imposta, não é possível reduzi-la alegando a expressividade da quantia final apurada se isso resultou da recalcitrância da parte em promover o cumprimento da ordem judicial. Precedentes.
+ ..
+10. Admitir que a multa fixada em decorrência do descumprimento de uma ordem de transferência de numerário seja, em toda e qualquer hipótese, limitada ao valor da obrigação é conferir à instituição financeira livre arbítrio para decidir o que melhor atende aos seus interesses.
+11. O destinatário da ordem judicial deve ter em mente a certeza de que eventual desobediência lhe trará consequências mais gravosas que o próprio cumprimento da ordem, e não a expectativa de redução ou de limitação da multa a ele imposta, sob pena de tornar inócuo o instituto processual e de violar o direito fundamental à efetividade da tutela jurisdicional.
+12. Recurso especial de AUREO HOEFLING DE JESUS provido.
+13. Recurso especial do BANCO SANTANDER parcialmente provido.
+(REsp 1.840.693/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 26/5/2020, DJe 29/5/2020 - sem destaque no original)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO NCPC. INOCORRÊNCIA. ASTREINTES. RAZOABILIDADE. PROPORCIONALIDADE. EXORBITÂNCIA CONFIGURADA. REVISÃO DOS VALORES. POSSIBILIDADE. PRECLUSÃO E COISA JULGADA. INEXISTÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Constou na decisão agravada que a Terceira Turma desta Corte, no julgamento do REsp nº 1.475.157/SC, de relatoria do Ministro MARCO AURÉLIO BELLIZZE, firmou entendimento de que a apuração da razoabilidade e da proporcionalidade do valor da multa diária deve ser verificada no momento de sua fixação em relação ao da obrigação principal, uma vez que a redução do montante total a título de astreintes, quando superior ao valor da obrigação principal, acaba por prestigiar a conduta de recalcitrância do devedor em cumprir as decisões judiciais, bem como estimula a interposição de recursos com esse fim a esta Corte, em total desprestígio da atividade jurisdicional das instância ordinárias. Possibilidade de redução da multa diária.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnad o, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido
+(AgInt nos EDcl no AREsp 1.492.548/SP, de minha relatoria, Terceira Turma, j. em 23/3/2020, DJe 25/3/2020 - sem destaque no original)
+Por tais razões, modificar o entendimento do TJSP no que se refere a razoabilidade do valor da multa cominatória ensejaria incursão no substrato fático-probatório dos autos, procedimento vedado, nesta instância recursal, em virtude da incidência da Súmula nº 7 do STJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. 1. AUSÊNCIA DE DEMONSTRAÇÃO DE CUMPRIMENTO DA DECISÃO COMINATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. 2. REDUÇÃO DO VALOR DAS ASTREINTES. NÃO CABIMENTO. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. A modificação da conclusão delineada no acórdão recorrido - de que houve o cumprimento da sentença que impôs à recorrente condenação em obrigação de fazer - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+2. A jurisprudência desta Casa é iterativa no sentido de que a decisão que comina a multa não preclui nem faz coisa julgada material. Assim, é possível a modificação do valor dessa sanção até mesmo de ofício, a qualquer tempo, inclusive na fase de execução, quando irrisório ou exorbitante.
+3. Para se verificar se o valor da multa cominatória é exorbitante ou irrisório, ou seja, se está fora do patamar de proporcionalidade e de razoabilidade, deve-se considerar o quantum da multa diária no momento da sua fixação em vez de comparar o seu total alcançado com a integralidade da obrigação principal, tendo em vista que este critério prestigiaria a conduta de recalcitrância do devedor em cumprir a decisão judicial, além de estimular a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio à atividade jurisdicional das instâncias ordinárias.
+4. No caso em estudo, o TJSP manteve a decisão singular que reduziu a penalidade diária para R$ 700,00 (setecentos reais) ante as peculiaridades do caso - não cumprimento da ordem judicial que determinou à operadora do plano de saúde a manutenção da beneficiária em hospital na Baixada Santista apto a atender às necessidades médicas e de internação. Assim sendo, não verificada a desproporcionalidade alegada, a redução das astreintes, após a manutenção pela Corte a quo da minoração efetuada pelo Juízo de primeiro grau com base nas vicissitudes do presente feito, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.189.031/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 10/4/2018, DJe 16/4/2018 - sem destaques no original)
+Assim, é inviável o conhecimento do recurso especial em face da jurisprudência do STJ e da Súmula nº 7 desta Corte Superior quanto ao valor das astreintes.
+Nessas condições, CONHEÇO do agravo para CONHECER, EM PARTE, do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. ASTREINTES. VALOR. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
