@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto por THIAGO APARECIDO CHAVES DOS ANJOS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1520138-74.2021.8.26.0228.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado nos arts. 157, § 2º, II, V e § 2º-A, I; e 329, § 1º, todos do Código Penal - CP, às penas de 21 anos, 6 meses e 6 dias de reclusão, em regime inicial fechado, e 360 dias-multa (fl. 284).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 396).
+Em sede de recurso especial (fls. 404/449), a defesa apontou violação aos arts. 226, e 386, VII, ambos do Código de Processo Penal - CPP; e 157, § 2º, V; 14, II; 59, caput; 65, III, "d"; 70, caput; e 33, §2º, "b", todos do CP, porque o TJ manteve a condenação fixada na sentença.
+Sustenta o agravante , preliminarmente, nulidade do feito em decorrência de vício ocorrido no reconhecimento pessoal na fase investigativa, por não terem sido observadas as regras contidas no art. 226, do CPP.
+Assevera que "(i) o acusado não foi colocado ao lado de outras pessoas que com ele tivessem qualquer semelhança, além de (ii) não ter sido feito auto pormenorizado de reconhecimento (incisos II e IV, respectivamente, do art. 226 do CPP)" (fl. 412), devendo, em razão disso, ser reconhecida a nulidade dos reconhecimentos pessoais realizados pelas vítimas Antônio dos Santos Aleixo e Iago Alves da Costa, e, consequentemente, desentranhados dos autos.
+No mérito, pugna pela absolvição em razão da insuficiência probatória, em conformidade com o art. 386, VII, do CPP, argumentando que somente uma vítima fez o reconhecimento do agravante como autor do ilícito, e que os depoimentos das demais vítimas apresentam inconsistências e fragilidades, tendo o recorrente, ainda, negado a autoria dos delitos.
+Defende que deve ser reconhecido o delito de roubo circunstanciado na forma tentada, tendo em vista que o agravante não teve a posse tranquila da res furtiva, imprescindível para a configuração deste crime.
+Aduz que deve ser afastada a causa especial de aumento do emprego de arma de fogo, uma vez que não foi comprovada a potencialidade lesiva do armamento apreendido por meio da realização de perícia técnica.
+Expõe a ocorrência de bis in idem relativamente ao concurso formal de delitos, que foi valorado negativamente em mais de uma fase da dosimetria - como maus antecedentes, na primeira fase, e como reincidência, na segunda fase -, devendo a condenação ser reformada nesse ponto.
+Argui que, no caso concreto, não há falar-se em concurso formal de delitos, haja vista que "a simples pluralidade de vítimas, quando uno o dolo - tudo se deu no mesmo instante e local, as vítima foram conjuntamente rendidas - s.m.j., não induz ao reconhecimento da hipótese do artigo 70, do Código Penal" (fl. 440).
+Arrazoa que deve ser realizada nova análise dosimétrica, de modo, a fixar a pena-base no mínimo legal diante da inexistência de circunstâncias judiciais negativas.
+E, por fim, defende seja modificado o regime inicial de cumprimento de pena para ao intermediário em razão da inexistência de circunstâncias judiciais negativas.
+Requer, em síntese: i) a declaração de nulidade do feito por violação às regras do art. 226, do CPP; ii) a absolvição do agravante ao fundamento da insuficiência de provas, nos termos do art. 386, VII, do CPP; subsidiariamente, iii) o reconhecimento do roubo na modalidade tentada; iv) a realização de nova análise dosimétrica com vistas a fixar a pena-base no mínimo legal diante da inexistência de circunstâncias judiciais negativas, bem como para afastar a causa de aumento especial relativa ao emprego de arma de fogo no delito de roubo em função da não realização de perícia técnica no armamento; v) o reconhecimento de crime único, afastando-se, assim, a elevação da pena em razão do concurso formal de crimes; e vi) a fixação do regime inicial semiaberto.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 500/518).
+O recurso especial foi inadmitido no TJ em razão dos óbices das Súmulas ns. 7 e 83, desta Corte, e 284, do Supremo Tribunal Federal - STF, além do art. 1030, I, "b", do Código de Processo Civil - CPC e 638 do CPP (fls. 534/536).
+Em agravo em recurso especial às fls. 551/558.
+Contraminuta do Ministério Público (fls. 561/575).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos.
+Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento, ou, caso conhecido, pelo desprovimento do recurso especial, porém manifestou-se favoravelmente à concessão de habeas corpus, de ofício, para que a pena seja revisada (fls. 594/605).
+É o relatório.
+Decido.
+De início, observa-se que o TJ negou seguimento ao apelo nobre quanto ao Tema n. 916 do Superior Tribunal de Justiça - STJ, com lastro no art. 1.030, I, "b", do CPC. Em relação a esse ponto da decisão, caberia à defesa interpor agravo interno na Corte a quo, nos termos do § 2º do mesmo dispositivo legal, o que não foi feito. Desse modo, não conheço do recurso no tocante ao Tema n. 916 do STJ.
+Na hipótese, o recurso especial foi inadmitido no TJ em razão dos óbices das Súmulas ns. 7 e 83, desta Corte, e 284, do STF (fls. 534/536). Denota-se que o agravante impugnou somente o óbice representado pela súmula 7, deste STJ, tendo silenciado quanto aos demais indicados na decisão agravada.
+Este Tribunal Superior possui entendimento consolidado no sentido da necessidade de impugnação específica, concreta e pormenorizada dos fundamentos da decisão agravada, sob pena de vê-los mantidos.
+Dessarte, aplicável, no caso concreto, por analogia, o teor da Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+No mesmo sentido, o art. 932, III, do CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte, dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUN DAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. Na modalidade do recurso previsto no art. 1.042 do CPC, "é inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes". Precedente da Corte Especial do STJ.
+2. A decisão que não admitiu o recurso especial assentou o óbice da Súmula 7 do STJ. No respectivo agravo, contudo, a parte limitou-se a arguir, genericamente, desnecessidade de reexame de matéria fático-probatória para exame da pretensão meritória.
+3. Esta Corte Superior pacificou entendimento de que a ausência de efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+4. Agravo desprovido.
+(AgRg no AREsp n. 2.202.802/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. APELO RARO. INADMISSÃO. ÓBICES DAS SÚMULAS N. 07 DO STJ, 283 E 284 DO STF. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É necessário a impugnação específica, concreta e pormenorizada dos fundamentos da decisão contra a qual se insurge o recorrente, sob pena de vê-los mantidos, conforme previsão do art. 932, inciso III, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal, em consonância com a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. É vedado à parte sanar os vícios de impugnação à decisão agravada de origem em sede de agravo regimental, em razão do instituto da preclusão.3. Agravo regimental não conhecido.
+(AgRg no AREsp 1998402/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/3/2022, DJe 21/3/2022.)
+Ante o exposto, com fundamento no art. 932, III, do CPC, e no art. 253, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
