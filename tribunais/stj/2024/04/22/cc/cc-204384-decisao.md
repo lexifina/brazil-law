@@ -1,0 +1,10 @@
+DECISÃO
+Inviável processar o conflito negativo de competência suscitado por Iziel Gomes do Amaral em face do Juízo de Direito da Vara de Inquéritos de Belo Horizonte/MG e do Juízo Federal da 3ª Vara Criminal de Belo Horizonte - SJ/MG.
+Ora, conforme o art. 114 do Código de Processo Penal, o conflito negativo de competência caracteriza-se quando duas ou mais autoridades judiciárias consideram-se incompetentes para conhecer do mesmo fato criminoso (AgRg no CC n. 198.460/MS, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Terceira Seção, julgado em 31/10/2023, DJe 7/11/2023).
+No caso, apenas a segunda peça colacionada (fls. 17/22) indica com exatidão a natureza da imputação investigada em sede federal - apuração da suposta prática do crime de documento falso (falsidade ideológica), em detrimento da Justiça Trabalhista, o qual encontra correspondência no art. 299 c/c art. 304 do Código Penal (fl. 19) -, sendo certo que dela não se extrai nenhuma manifestação negativa de competência; a primeira decisão (fl. 15), nada diz acerca da natureza da imputação ali referida, consubstanciando mero despacho declinatório da competência em favor da Justiça Federal, no qual o Juízo estadual alude e acolhe o conteúdo de parecer ministerial (não juntado), sendo, pois, inapta a fundar conclusão no sentido da existência de conflito negativo de competência, sobretudo considerando o conteúdo da segunda peça que, como frisado anteriormente, não indica manifestação negativa de competência.
+Em suma, considerando que as peças colacionadas não permitem concluir no sentido da existência de decisões negativas dos Juízos envolvidos para processar fato idêntico, não há falar em conflito nos moldes preconizados na norma processual.
+Em face do exposto, não conheço do conflito (art. 34, XVIII, a, do RISTJ).
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. PEÇAS COLACIONADAS INAPTAS A FUNDAR A CONCLUSÃO NO SENTIDO DA EXISTÊNCIA DE DECISÕES NEGATIVAS DOS JUÍZES SUSCITADOS PARA PROCESSAR FATO IDÊNTICO. PRESSUPOSTO PROCESSUAL (ART. 114 DO CPP) NÃO PREENCHIDO.
+Conflito não conhecido.
