@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GUSTAVO BONAZZA MENEZES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500505-18.2021.8.26.0571).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, por infração ao disposto no art. 33, caput, da Lei n. 11.343/2006.
+Interposto recurso de apelação, a Corte estadual negou provimento ao apelo.
+No presente writ, o impetrante argumenta que o apenado faz jus ao redutor do tráfico privilegiado, tendo em vista preencher todos os requisitos objetivos e subjetivos para a concessão da benesse, não constituindo fundamentação idônea para afastá-lo a existência de ação penal em curso.
+Requer, assim, a concessão da ordem para que seja aplicada a figura do tráfico privilegiado em favor do paciente.
+O pedido liminar foi indeferido às fls. 274-275.
+Informações prestadas às fls. 342-343.
+O Ministério Público Federal, às fls. 383-393.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração o reconhecimento da figura do tráfico privilegiado em favor do paciente.
+Sobre a controvérsia, o acórdão impugnado assim se pronunciou (fls. 228-230):
+"Realmente descabida a aplicação da causa de redução de pena prevista no artigo 33, § 4º, da Lei de Drogas, já que não pode Gustavo ser considerado como traficante ocasional, uma vez que, levando-se em conta as circunstâncias do delito, ficou suficientemente demonstrado que ele se dedicava à atividade criminosa. Importante ressaltar que o apelante Gustavo, em suas informações sobre a vida pregressa, declarou-se desempregado (fls. 14), de forma que não haveria razão ou condição econômica para manter guardada a quantidade e variedade de entorpecente apreendido e, ainda que em caráter provisório, outrora fora condenado por crime de tráfico de drogas, sinalizando, assim, que se dedicava e fazia do exercício da traficância seu meio de subsistência.
+Nesta esteira, certo é que, para a aplicação da causa de diminuição de pena prevista no § 4º do artigo 33 da Lei nº 11.343/06, é indispensável que o réu seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+Não resta dúvida de que tal causa de diminuição de pena é de ser aplicada apenas àquele que tenha praticado o delito de maneira isolada, como um pequeno deslize em sua vida, ainda que penalmente punível.
+Aqueles que fazem do tráfico de drogas um meio de vida, mesmo que não tragam em sua folha de antecedentes condenações por outros crimes, não fazem jus ao benefício.
+A causa de redução deve ser aplicada em caráter excepcional, em situações específicas, quando não houver dúvidas de que os envolvidos vieram a cometer o ato como um desvio de conduta, e não de modo contumaz e habitual como no caso dos autos, onde se verificou que Gustavo certamente se dedica à atividade criminosa.
+Não prospera a argumentação defensiva no sentido de que o apelante Gustavo teria agido respaldado pela inexigibilidade de conduta diversa, pois o fato de estar imerso em dívidas com traficante não pode ser acolhida como justificativa plausível, visto não configurar a excludente de antijuridicidade ou culpabilidade perseguida.
+fase judicial, que realizava a ilícita mercancia por se sentir ameaçado, não é o bastante para a configuração do que disposto no artigo 22 do Código Penal. O apelante Gustavo conhecia a pessoa que o teria, em tese, ameaçado. Melhor solução seria o registro dos fatos diante das Autoridades competentes, sem se envolver com práticas ilícitas.
+Relevante mencionar, ainda, que eventuais dificuldades econômicas e materiais, a qualquer título, não autorizam a prática de delitos. Caso contrário, estar-se-ia implantado o caos social ,autorizando-se a prática de variados crimes. "É impossível aceitar-se a tese do estado de necessidade se o réu podia superar esta circunstância, passando a desenvolver trabalho lícito e honesto, pois a discriminante só pode ser reconhecida em face da presença de perigo atual e inexigibilidade de sacrifício do bem ameaçado, sendo certo que a hipossuficiência e as dificuldades financeiras nunca podem justificar a prática de delitos contra o patrimônio, já que se assim fosse, estaria justificada e legitimada a maioria dos furtos e roubos que ocorrem no Brasil, país pobre e subdesenvolvido" (RJTACRIM 37/143)."
+Com efeito, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do Superior Tribunal de Justiça, prevista no artigo 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+Na hipótese em apreço, o presente writ foi impetrado contra acórdão do Tribunal de origem já transitado em julgado (consulta ao sítio do Tribunal a quo). Diante dessa situação, não deve ser conhecido o presente habeas corpus, porquanto fora manejado como substitutivo de revisão criminal.
+Anoto que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Nessa linha:
+" ..  como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido"
+ .. " (HC 288.978/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Rel. para acórdão Min. Rogerio Schietti Cruz, DJe 21/5/2018).
+" ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ .. " (AgRg no HC n. 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019).
+" ..
+3. É inviável o conhecimento do mandamus ora em exame, pois restou manejado como substitutivo de revisão criminal. Note-se que, "como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido" (HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/3/2018, DJe 21/5/2018).
+4. Nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+5. Com o advento do trânsito em julgado da sentença condenatória, após o exame dos sucessivos recursos defensivos, compete à defesa, caso entenda cabível e se o desejar, ajuizar revisão criminal no Tribunal de Justiça, com vistas à revisão do julgado.
+ .. " (AgRg no HC n. 751.787/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/4/2023).
+Cito, também, a orientação do Supremo Tribunal Federal: AgRg no HC n. 134.691/RJ, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 1º/8/2018; AgRg no HC n. 144.323/SP, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 30/8/2017; e HC n. 199.284/SP, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 16/8/2021.
+Demais a mais, "a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/10/2021).
+De todo modo, não verifico, na moldura fática do acórdão impugnado, nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
