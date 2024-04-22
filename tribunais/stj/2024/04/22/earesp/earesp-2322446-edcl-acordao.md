@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PROGRAMA DE PARTICIPAÇÃO NOS LUCROS E RESULTADOS. AUSÊNCIA DOS REQUISITOS LEGAIS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. NÃO CABIMENTO.
+1. O decisum embargado concluiu expressamente: a) "Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte e consideradas desnecessárias pelo juízo, desde que devidamente justificado, como na hipótese dos autos" (fl. 8.101, e-STJ); e b) "a solução dos temas não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ em grau recursal" (fl. 8.108, e-STJ).
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PROGRAMA DE PARTICIPAÇÃO NOS LUCROS E RESULTADOS. AUSÊNCIA DOS REQUISITOS LEGAIS. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS NA VIA ESPECIAL. NÃO CABIMENTO. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte e consideradas desnecessárias pelo juízo, desde que devidamente justificado, como na hipótese dos autos. Nesse sentido: AgInt no AREsp 2.032.252/AP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 1º.12.2022; AgInt no AREsp 2.061.471/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 13.12.2022.
+3. O Tribunal originário, soberano na apreciação das circunstâncias fáticas e probatórias da causa, consignou: "Conforme analisado, verificamos que a empresa incluiu indistintamente sob as rubricas 1350 e 1351 valores pagos em conformidade com o seu PLR e valores pagos a título de prêmios e bonificações a seus empregados. A distinção dos valores somente foi possível após a apresentação por parte da empresa da relação dos valores pagos a título de PLR de forma individualizada. 61) Tendo em vista as considerações acima, o pagamento de prêmios e bonificações por parte da empresa, ainda que sob a denominação de PLR, caracteriza-se como fato gerador de contribuições previdenciárias, pois não se enquadra nas disposições da Lei 10.101/00 e não figura entre as parcelas não integrantes da base de incidência de contribuição previdenciária, previstas no art. 28, § 9º, da Lei 8.212/91. Esses valores foram incluídos em Folha de Pagamento, mas não foram considerados pela empresa como parcela integrante do salário-de contribuição à Previdência Social e não foram declarados na Guia de Recolhimento do FGTS e Informações à Previdência Social - GFIP. (..) Nos termos do julgado, o que se concluiu é que os planos de Incentivo de Curto Prazo-ICP"s não cumpriram os requisitos da Lei nº 10.101, de 2000, independentemente da possibilidade, em tese, de o plano estabelecer metas distintas aos diferentes cargos ocupados pelos empregados, pois, no caso concreto, verificou-se que não havia correlação entre os ICP"s e o acordo coletivo celebrado com o sindicato de trabalhadores, pelos diversos motivos elencados no acórdão" (fls. 7.726-7.737, e-STJ).
+4. Afasta-se a ideia de simples valoração da prova, já que a Corte regional decidiu pela legitimidade da execução e pela validade das exações com base no suporte fático-probatório dos autos, cuja revisão é inviável no Superior Tribunal de Justiça ante a incidência da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. Agravo Interno não provido.
+Nos Aclaratórios, a embargante afirma que houve omissão. Sustenta, em suma (fls. 8.114-8.130, e-STJ):
+Entretanto, com a devida vênia, o v. acórdão incorreu em omissão referente à própria jurisprudência dessa E. Corte Superior, mormente referente ao fato de que: 1) resta configurado o cerceamento de defesa quando, a despeito de pedido de produção probatória, o magistrado julga de forma antecipada o pedido desfavoravelmente à parte, com fundamento na ausência de provas; 2) a matéria sub judice já foi analisada em outra oportunidade por essa E. Corte Superior, o que demonstra que os fundamentos alinhavados no Recurso Especial da Embargante guardam matéria eminentemente jurídica, passível de conhecimento, o que, por si só, afasta o óbice da Súmula nº 7.
+(..)
+Ora, as questões discutidas no presente feito são eminentemente de direito, uma vez que exigem tão somente o cotejo entre a legislação federal, à luz da jurisprudência desse E. STJ, e o decidido pelo E. Tribunal a quo, motivo pelo qual não há razões para a incidência da Súmula nº 7.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PROGRAMA DE PARTICIPAÇÃO NOS LUCROS E RESULTADOS. AUSÊNCIA DOS REQUISITOS LEGAIS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. NÃO CABIMENTO.
+1. O decisum embargado concluiu expressamente: a) "Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte e consideradas desnecessárias pelo juízo, desde que devidamente justificado, como na hipótese dos autos" (fl. 8.101, e-STJ); e b) "a solução dos temas não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ em grau recursal" (fl. 8.108, e-STJ).
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+VOTO
+Os autos foram recebidos neste Gabinete em 5.3.2024.
+A irresignação não m erece acolhida, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+O decisum embargado concluiu expressamente: a) "Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte e consideradas desnecessárias pelo juízo, desde que devidamente justificado, como na hipótese dos autos" (fl. 8.101, e-STJ); e b) "a solução dos temas não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ em grau recursal" (fl. 8.108, e-STJ).
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 650.536/RJ, Rel. Ministro Raul Araújo, Corte Especial, DJe 5/11/2021)
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
