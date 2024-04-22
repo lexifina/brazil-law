@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 96, de 19 de abril de 2024
+Assunto: Contribuição para o PIS/Pasep
+EXCLUSÃO DO ICMS DESTACADO NAS NOTAS FISCAIS DA BASE DE CÁLCULO DE INCIDÊNCIA DA CONTRIBUIÇÃO. REGIME ESPECIAL DE TRIBUTAÇÃO DO ICMS. APLICAÇÃO DE PERCENTUAL FIXO SOBRE A RECEITA BRUTA AUFERIDA. POSSIBILIDADE.
+O ICMS destacado nos documentos fiscais não integra a base de cálculo de incidência da Contribuição para o PIS/Pasep, ainda quando for apurado mediante a aplicação de percentual fixo sobre a receita bruta auferida, com vedação ao aproveitamento de quaisquer créditos do imposto, em sistemática especial de tributação instituída pela legislação estadual substitutiva do regime normal de apuração.
+Dispositivos legais: Decreto-Lei nº 1.598, de 1977, art. 12; Lei nº 9.718, de 1998, arts. 1º a 3º; Lei nº 10.522, de 2002, arts. 19, inciso VI, alínea "a" , e 19-A, inciso III, § 1º; Lei nº 10.637, de 2002, art. 1º, §§ 1º a 3º, inciso XIV; Medida Provisória nº 1.159, de 2023; Instrução Normativa RFB nº 2.121, de 2022, art. 25, incisos I e II, § 3º, e art. 26, inciso XII, parágrafo único; Pareceres SEI/PGFN nº 7.698/2021/ME e nº 14.483/2021/ME; Convênio ICMS nº 91, de 2012; Decreto Estadual nº 51.597, de 2007; Portaria CAT nº 31, de 2001.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+EXCLUSÃO DO ICMS DESTACADO NAS NOTAS FISCAIS DA BASE DE CÁLCULO DE INCIDÊNCIA DA CONTRIBUIÇÃO. REGIME ESPECIAL DE TRIBUTAÇÃO DO ICMS. APLICAÇÃO DE PERCENTUAL FIXO SOBRE A RECEITA BRUTA AUFERIDA. POSSIBILIDADE.
+O ICMS destacado nos documentos fiscais não integra a base de cálculo de incidência da Cofins, ainda quando for apurado mediante a aplicação de percentual fixo sobre a receita bruta auferida, com vedação ao aproveitamento de quaisquer créditos do imposto, em sistemática especial de tributação instituída pela legislação estadual substitutiva do regime normal de apuração.
+Dispositivos legais: Decreto-Lei nº 1.598, de 1977, art. 12; Lei nº 9.718, de 1998, arts. 1º a 3º; Lei nº 10.522, de 2002, arts. 19, inciso VI, alínea "a" , e 19-A, inciso III, § 1º; Lei nº 10.833, de 2003, art. 1º, §§ 1º a 3º, inciso XIII; Medida Provisória nº 1.159, de 2023; Instrução Normativa RFB nº 2.121, de 2022, art. 25, incisos I e II, § 3º, e art. 26, inciso XII, parágrafo único; Pareceres SEI/PGFN nº 7.698/2021/ME e nº 14.483/2021/ME; Convênio ICMS nº 91, de 2012; Decreto Estadual nº 51.597, de 2007; Portaria CAT nº 31, de 2001.
+[arquivo anexo: SC Cosit nº 96-2024.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
