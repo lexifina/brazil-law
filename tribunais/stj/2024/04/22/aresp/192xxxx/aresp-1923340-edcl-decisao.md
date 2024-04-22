@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos por SANDOVAL LOBO CARDOSO contra decisão que rejeitou embargos declaratórios, contudo, declarou extinta a punibilidade pelo implemento da prescrição da pretensão punitiva.
+Nas razões deste recurso, a Defesa aduz a ocorrência de eiva na decisão embargada, porquanto não declarado o momento prescritivo, cujos efeitos importam para o fim de tornar nulo o decisum que restaurou a condenação, porquanto posterior à data da extinção da punibilidade (14/6/2022).
+Pugna pelo acolhimento dos embargos para que seja sanada a suposta imperfeição apontada neste inconformismo, atribuindo-se-lhes efeitos infringentes. Alternativamente, pugna pelo recebimento da insurgência como agravo regimental.
+É o relatório. DECIDO.
+Como esclarecido na decisão de fls. 2353-2356, são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Na hipótese, não vislumbro qualquer vício no decisum que rejeitou os embargos e declarou a extinção da punibilidade.
+Como é cediço, a extinção da punibilidade pelo implemento da prescrição da pretensão punitiva, seja na modalidade retroativa ou intercorrente, anula os efeitos penais e extrapenais da condenação, de modo que a declaração extintiva, por sua natureza e consequentemente, repercute nas referidas searas.
+Com efeito, ""A Corte Especial deste Sodalício, por ocasião do julgamento da APn 688/RO, relatora para o acórdão a Ministra Maria Thereza de Assis Moura, DJe 4/4/2013, entendeu que a extinção da punibilidade do agente, pelo reconhecimento da prescrição da pretensão punitiva, anula os efeitos penais e extrapenais da condenação, seja na modalidade intercorrente seja na modalidade retroativa, afastando o interesse recursal que objetive a absolvição. Precedentes STJ e STF" (AgRg no AREsp 1.073.627/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/6/2017, DJe 1/8/2017)" (AgRg na Rcl n. 35.251/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 11/3/2020, DJe de 18/3/2020).
+Assim, evidencia-se que a decisão embargada não padece de qualquer vício, porquanto examinou fundamentadamente a irresignação trazido à análise, não podendo ser considerado nulo o decisum tão somente porque contrário aos interesses do insurgente.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APONTADA OMISSÃO. AUSÊNCIA DE DECLARAÇÃO DO TEMPO DE PRESCRIÇÃO. NÃO OCORRÊNCIA. EXTINÇÃO DA PUNIBILIDADE PELO IMPLEMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EFEITOS PENAIS E EXTRAPENAIS. REEXAME DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
