@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. POR OFENSA A DIREITO LOCAL NÃO CABE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280/STF, POR ANALOGIA. ALEGADA VIOLAÇÃO AO ART. 1º DO DECRETO 20.910/1932.
+1.  Ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal, aplicável, por analogia, o óbice previsto na Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+2. Não foi cumprido o requisito do necessário exame, pelo acórdão recorrido, dos dispositivos de lei federal tidos por violados, incidindo no caso, por analogia, o óbice das Súmulas n. 282 e 356/STF.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  pelo ESTADO DO MARANHÃO  contra  a  decisão  que  conheceu  do  agravo  para deixar de conhecer do recurso especial, haja vista a incidência das Súmulas 280/STF, 282/STF e 356/STF.
+Argumenta  a  parte agravante,  em  síntese,  que foi adequadamente prequestionada a ofensa aos dispositivos de lei federal tidos por violados e que "resta incontroverso que as normas locais em questão efetivaram a reestruturação da carreira do magistério público. Ocorre que, em que pese assim ter concluído, o tribunal de origem deixou de aplicar, no caso, o precedente firmado, pelo C. Supremo Tribunal Federal, no RE 561.836/RN, sem expor as razões de eventual distinção" (fl. 662).
+Por fim, a parte agravante pugna pela reconsideração da decisão agravada ou provimento, pelo Colegiado, do agravo interno.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. POR OFENSA A DIREITO LOCAL NÃO CABE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280/STF, POR ANALOGIA. ALEGADA VIOLAÇÃO AO ART. 1º DO DECRETO 20.910/1932.
+1.  Ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal, aplicável, por analogia, o óbice previsto na Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+2. Não foi cumprido o requisito do necessário exame, pelo acórdão recorrido, dos dispositivos de lei federal tidos por violados, incidindo no caso, por analogia, o óbice das Súmulas n. 282 e 356/STF.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Com efeito, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal (no caso dos autos, os arts. 926 e 927 do CPC/2015 e 1º do Decreto n. 20.910/1932), aplicável, por analogia, o óbice previsto na Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO DISTRITAL. ADICIONAL POR TEMPO DE SERVIÇO. CONTAGEM DE PERÍODO ANTERIOR NO SERVIÇO PÚBLICO FEDERAL. IMPOSSIBILIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança impetrado por servidor público contra ato atribuído ao Secretário de Estado de Justiça e Cidadania do Distrito Federal, objetivando o recebimento de adicional por tempo de serviço. O Tribunal de Justiça do Distrito Federal denegou a segurança, ficando consignado que o tempo de exercício anterior no serviço público federal não é contabilizado em posterior ingresso no serviço público distrital para fins de concessão de adicional por tempo de serviço, não havendo direito líquido e certo à pretensão posta no mandamus. Agravo interno interposto contra decisão que negou provimento ao recurso ordinário.
+II - A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+III - No mesmo sentido, o Superior Tribunal de Justiça tem sedimentado há anos sua jurisprudência a respeito do tema no sentido de que o tempo de exercício anterior no serviço público federal não é contabilizado em posterior ingresso no serviço público distrital para fins de concessão de adicional por tempo de serviço. Nesse sentido: AgInt no RMS n. 32.559/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/6/2018, DJe de 27/6/2018.
+AgRg no AREsp n. 95.301/DF, relator Ministro Francisco Falcão, Primeira Turma, julgado em 17/5/2012, DJe de 25/5/2012. AgRg no RMS n. 21.188/DF, relator Ministro Jorge Mussi, Quinta Turma, julgado em 29/4/2010, DJe de 24/5/2010.
+IV - Não se conhece da alegação de violação de dispositivos constitucionais, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+V - Agravo interno improvido (AgInt no RMS n. 72.196/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Ademais, Na jurisprudência desta Corte, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentad o pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, o art. 1º do Decreto 20.910/1932 não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, as Súmulas 282/STF e 356/STF, por analogia.
+Isso posto, nego provimento ao recurso.
