@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RUDIS LEONARDO DA SILVA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 66-73).
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente.
+Aponta ausência de fundamentação para segregação cautelar.
+Defende a imposição de prisão domiciliar ao Paciente.
+Aduz que:
+"Possível inclusive tutelar a liberdade mediante arbitramento de fiança tutelar o statis liberttis como enfoque de medidas cautelares cumulativas como a TORNOZELEIRA ELETRÔNICA, devendo ser cassada a DECRETAÇÃO DA PRISÃO PREVENTIVA diante da prevalência do interesse das CRIANÇAS MENORES aos riscos apontados à Ordem Pública com necessidades especiais e cuidados indicados por laudo de AUTISMO, somado a gravidade das doenças que acometem o Paciente CRÔNICAS DE MEDICAÇÃO CONTROLADA.
+Como visto uma das crianças precisa de cuidados especiais por ser AUTISTA, estando praticamente 02 (dois) meses de prisão cautelar com muitas dificuldade, inclusive na fala que antes jamais teve, seu pai lhe faz muita falta:" (fl. 12).
+Requer:
+"concessão da ordem em sede liminar e a manutenção da decisão no julgamento de mérito, frente completa ausência de fundamentação idônea, e diante do fato de ao reverso dos fundamentos da prisão cautelar, trata-se de ínfima quantidade de droga, e necessário individualização da conduta, doença, filhas gêmeas de tenra idade e outra que precisa de cuidados especiais, Paciente com doenças crônicas, endereço certo, advogado constituído -RISCO DE VIDA, sem alimentação adequada e não fornecimento de medicamento de uso controlado. Pela Revogação da Prisão Preventiva" (fls. 61-62).
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o risco de reiteração criminosa.
+No ponto, consta no acórdão hostilizado:
+"consigna-se que o paciente já restou condenado por condutas análogas ao do presente processo de origem (Evento 4 dos autos n. 5002249-38.2024.8.24.0005), o que evidencia o descaso do paciente com a ordem jurídica, justificando a manutenção da prisão preventiva" (fl. 70).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Por outro lado, no que concerne ao pleito de imposição de prisão domiciliar ao Paciente em virtude de possuir filhos menores, que dependem dos seus cuidados; tenho que a negativa de substituição da prisão preventiva por domiciliar está devidamente justificada:
+"Ademais, não há maiores informações nos autos acerca da imprescindibilidade da presença do paciente junto aos filhos menores, tampouco que não estejam recebendo os cuidados próprios da idade" (fl. 71).
+Na hipótese, conforme se depreende dos autos, embora o Paciente afirme ser responsável por sua prole, não se demonstrou a imprescindibilidade aos cuidados dos menores.
+Ademais, cumpre consignar que a inversão do que restou decidido pelas instâncias ordinárias quanto à ausência de prova convincente da imprescindibilidade do Paciente aos cuidados dos menores pelos quais alega ser responsável, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das condições subjetivas alegadas pelo o ora Paciente. Nesse sentido:
+"O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental" (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023).
+Quanto ao pleito de imposição de prisão domiciliar ao Paciente, em razão de se encontrar com a saúde debilitada, não verifico flagrante ilegalidade a ser sanada pela presente via, pois não restou demonstrada a impossibilidade de o estabelecimento prisional dispensar, ao ora Paciente, os cuidados necessários:
+"Da mesma forma, não há elementos que comprovem que o paciente não esteja, dentro da unidade prisional, recebendo tratamento médico adequado para as doenças graves que afirma ser portador" (fl. 71).
+Sobre o tema:
+"3. Com efeito, nos termos do art. 318, II, do Código de Processo Penal, a prisão domiciliar poderá ser concedida quando o acusado ou o indiciado estiver "extremamente debilitado por motivo de doença grave". Na mesma direção, o parágrafo único do referido dispositivo determina que seja apresentada prova idônea da situação. Desse modo, não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional. Precedentes. - No presente caso, não restou comprovado que o agravante não possa receber no estabelecimento prisional em que se encontra, os cuidados necessários para sua saúde" (AgRg no RHC n. 194.892/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024).
+Ante o exposto, den ego a ordem.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
