@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MANOEL CÂNDIDO CALDEIRA contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso (Mandado de Segurança n. 1005469-95.2021.811.0000) assim ementado (fl. 281):
+AGRAVO INTERNO - MANDADO DE SEGURANÇA - AÇÃO DE EXECUÇÃO PARA ENTREGA DE COISA CONVERTIDA PARA QUANTIA CERTA - ATO JUDICIAL DE DEFERIU A ADJUDICAÇÃO DO IMÓVEL URBANO PENHORADO E BAIXA DO REGISTRO DE COMPROMISSO DE COMPRA E VENDA FIRMADO COM O IMPETRANTE - TERCEIRO INTERESSADO - AUSÊNCIA DE INTIMAÇÃO DOS ATOS PRATICADOS - APLICAÇÃO DA SÚMULA 202 - DECISÃO QUE EXTINGUIU DE PLANO O MANDAMUS REFORMADA - URGÊNCIA E PERIGO DA DEMORA VERIFICADOS - LIMINAR CONCEDIDA - RECURSO PROVIDO.
+De acordo com a Súmula 202 do Superior Tribunal de Justiça, "a impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso".
+A incidência do aludido verbete contempla "tão somente aquele que não teve condições de tomar ciência da decisão que lhe prejudicou, ficando impossibilitado de se utilizar do recurso cabível", pois a "condição de terceiro pressupõe o desconhecimento e ausência de manifestação no processo"(STJ - RMS: 50858 DF 2016/0112764-3, Relator: Ministro GURGEL DE FARIA, Data de Julgamento: 21/02/2017, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 03/03/2017), sendo essa a hipótese dos autos, visto que o impetrante, ora agravante, não teve a oportunidade de impugnar o ato judicial.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta ofensa aos arts. 593 e 615-A do Código de Processo Civil de 1973, argumentando que a promessa de compra e venda realizada em 1995 pela executada configurou fraude à execução, tendo em vista que em 1993 já havia ocorrido a averbação premonitória da execução na matrícula do imóvel adjudicado. Desse modo, a promessa de compra e venda seria ineficaz com relação ao exequente, ora recorrente, em razão da publicidade e do efeito erga omnes que possui o registro da execução na matrícula do imóvel.
+Alega que o art. 792, § 4º, do CPC/73 não exigia a intimação do promitente comprador do imóvel em fraude à execução para opor embargos de terceiro, o que reforça a tese de que a averbação premonitória da execução na matrícula do imóvel era suficiente para implicar na sua ineficácia.
+Acrescenta que os arts. 876, § 5º, e 889 do CPC/2015 não garantem direito de preferência aos promitentes compradores, devendo prevalecer a ineficácia da promessa de compra e venda em face do exequente.
+Sustenta também violação aos arts. 476 do CC/2002 (correspondente ao art. 1.092 do CC/2016, vigente à época do contrato) e 1.418 do CC/2002, aduzindo a ausência de direito líquido e certo do impetrante à aquisição do imóvel, uma vez que não cumpriu com as obrigações que lhe competiam no respectivo contrato de compra e venda.
+Argumenta acerca da ausência de nulidade da adjudicação e ofensa ao princípio da instrumentalidade das formas (arts. 188 e 277 do CPC/2015), asseverando que a intimação do recorrido sobre o ato expropriatório era desnecessária, uma vez que ele tinha ciência da execução desde a pactuação da promessa de compra e venda em 1994.
+Pugna pela atualização do valor da causa para o mesmo valor da exe cução, qual seja, o de R$ 1.801.600,00.
+Contrarrazões às fls. 1.658-1.679.
+É o relatório. Decido.
+O recurso não merece prosperar, pois as matérias referentes aos arts. 593 e 615-A, 792, § 4º, do Código de Processo Civil de 1973, arts. 188 e 277 do Código de Processo Civil de 2015, arts. 476 e 1.418 do Código Civil de 2002 e art. 1.092 do Código Civil de 1916 não foram objeto de análise pelo acórdão recorrido, carecendo, portanto, do indispensável prequestionamento. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Ademais, o acórdão atacado fundamentou-se no art. 804, § 1º, do Código de Processo Civil, que dispõe que "a alienação de bem objeto de promessa de compra e venda ou de cessão registrada será ineficaz em relação ao promitente comprador ou ao cessionário não intimado", de acordo com o entendimento do STJ sobre a matéria, confira-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA E ARREMATAÇÃO. USUFRUTUÁRIO. INTIMAÇÃO. NECESSIDADE. NULIDADE DE ALGIBEIRA. DEVER DE LEALDADE E BOA-FÉ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Em regra, é necessária a intimação do terceiro titular de direito real (v.g. usufrutuário) acerca da penhora e da alienação judicial do bem gravado com tal direito, na forma dos arts. 799, II, e 889, III, do CPC/2015.
+3. Hipótese, contudo, em que o vício indicado pela parte recorrente configura a denominada "nulidade de algibeira", que deve ser rechaçada por esta Corte Superior em virtude do dever imposto a todos aqueles que participam do processo, de proceder com lealdade e boa-fé.
+4. Recurso especial não provido. (REsp n. 2.000.959/SP, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/10/2022, DJe de 13/10/2022.)
+Incide no caso, pois, o disposto na Súmula n. 83 do STJ.
+Ante o e xposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
