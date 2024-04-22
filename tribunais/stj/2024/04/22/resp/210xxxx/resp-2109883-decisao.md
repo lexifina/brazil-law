@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" da Constituição da República, contra acórdão do Tribunal Regional Federal da 3º Região assim ementado:
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. RUÍDO. CALOR. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS. REMESSA OFICIAL. INEXISTÊNCIA.
+I- No que se refere à conversão do tempo de serviço especial em comum, a jurisprudência é pacífica no sentido de que deve ser aplicada a lei vigente à época em que exercido o trabalho, à luz do princípio tempus regit actum.
+II- Em se tratando do agente nocivo ruído, a atividade deve ser considerada especial se exposta a ruídos acima de 90 dB, nos termos do Decreto nº 53.831/64. No entanto, após 5/3/97, o limite foi elevado para 85 dB, conforme Decreto nº 2.172. A partir de 19/11/03, o referido limite foi reduzido para 85 dB, nos termos do Decreto nº 4.882/03.
+III- A documentação apresentada permite o reconhecimento da atividade especial em parte do período pleiteado.
+IV- No tocante à aposentadoria por tempo de contribuição, a parte autora cumpriu os requisitos legais necessários à obtenção do benefício.
+V- O termo inicial da concessão do benefício deve ser fixado na data do pedido na esfera administrativa, nos termos do art. 54 c/c art. 49, inc. II, da Lei nº 8.213/91.
+VI- A correção monetária deve incidir desde a data do vencimento de cada prestação e os juros moratórios a partir da citação, momento da constituição do réu em mora. Com relação aos índices de atualização monetária e taxa de juros, devem ser observados os posicionamentos firmados na Repercussão Geral no Recurso Extraordinário nº 870.947 (Tema 810) e no Recurso Especial Repetitivo nº 1.492.221 (Tema 905), adotando-se, dessa forma, o IPCA-E nos processos relativos a benefício assistencial e o INPC nos feitos previdenciários. Quadra ressaltar haver constado expressamente do voto do Recurso Repetitivo que "a adoção do INPC não configura afronta ao que foi decidido pelo Supremo Tribunal Federal, em sede de repercussão geral (RE 870.947/SE). Isso porque, naquela ocasião, determinou-se a aplicação do IPCA-E para fins de correção monetária de benefício de prestação continuada (BPC), o qual se trata de benefício de natureza assistencial, previsto na Lei 8.742/93. Assim, é imperioso concluir que o INPC, previsto no art. 41-A da Lei 8.213/91, abrange apenas a correção monetária dos benefícios de natureza previdenciária." Outrossim, como bem observou o E. Desembargador Federal João Batista Pinto Silveira: "Importante ter presente, para a adequada compreensão do eventual impacto sobre os créditos dos segurados, que os índices em referência - INPC e IPCA-E - tiveram variação próxima no período de julho de 2009 (data em que começou a vigorar a TR) e até setembro de 2019, quando julgados os embargos de declaração no RE 870947 pelo STF (IPCA-E: 76,77%; INPC: 75,11%), de forma que a adoção de um ou outro índice nas decisões judiciais já proferidas não produzirá diferenças significativas sobre o valor da condenação." (TRF-4ª Região, AI nº 5035720-27.2019.4.04.0000/PR, 6ª Turma, v.u., j. 16/10/19). A taxa de juros deve incidir de acordo com a remuneração das cadernetas de poupança (art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09), conforme determinado na Repercussão Geral no Recurso Extraordinário nº 870.947 (Tema 810) e no Recurso Especial Repetitivo nº 1.492.221 (Tema 905). A partir de 9/12/21, data da publicação da Emenda Constitucional nº 113, de 8/12/21, deve ser observado o disposto em seu art. 3º: "Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente."
+VII- Na hipótese de a parte autora estar recebendo aposentadoria, auxílio-doença ou abono de permanência em serviço, deve ser facultado ao demandante a percepção do benefício mais vantajoso, sendo vedado o recebimento conjunto, nos termos do art. 124 da Lei nº 8.213/91.
+VIII- O valor da condenação não excede a 1.000 (um mil) salários mínimos, motivo pelo qual a R. sentença não está sujeita ao duplo grau obrigatório.
+IX- Apelação do INSS parcialmente provida. Recurso adesivo parcialmente provido.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente afirma (fls. 569-576) que houve ofensa aos arts. 489, II, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC; 31 da Lei 3.807/1960 c/c Decreto 53.831/1964; 60 do Regulamento dos Benefícios da Previdência Social (Decreto 83080/79); e 57, §§ 3º, 4º e 5º, e 58, § 1º, da Lei 8.213/1991.
+Contrarrazões às fls. 580-582.
+O juízo de admissibilidade negativo (fls. 584-585) deu ensejo à interposição do presente Agravo (fls. 587-591).
+Às fls. 604-605, a Presidente da Comissão Gestora de Precedentes, Ministra Assusete Magalhães, menciona que a questão central do Recurso é semelhante à Controvérsia 526/STJ, sob minha relatoria, indicando a possibilidade de que ele possa complementar a referida controvérsia. Determina a conversão do AREsp em REsp e o encaminhamento dos autos ao Ministério Público Federal para avaliar sua admissibilidade como Representativo da Controvérsia, nos termos do art. 256-B, II, do RISTJ.
+O Ministério Público Federal emitiu parecer às fls. 619-623.
+Manifestação do INSS (fls. 635-644), discordando que o Apelo seja admitido como Representativo de Controvérsia.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.3.2024.
+O Tribunal de origem consignou:
+2) Período:1/10/99 a 7/7/06.
+Empresa: Indústria Cerâmica Céspedes Ltda.
+Atividades/funções: operário
+calor de IBUTG 34,8 ºC (em atividade moderada).
+Agente(s) nocivo(s): código 2.0.4 dos Decretos nº 2.172/97 e nº 3.048/99.
+Enquadramento legal: CTPS (ID: Num. 11459722 - Pág. 13). Laudo Pericial (ID: Num. 11459833 - Pág. 1/14), datado de Provas:18/6/18.
+A via especial não se destina a revisar fatos e provas do processo, mas apenas a verificar a correta aplicação da lei federal. Dessa forma, ela não funciona como uma terceira instância de julgamento.
+Para afastar o entendimento a que chegou a Corte regional é necessário revolver o acervo fático-probatório dos autos, inviável na via especial por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de negativa de prestação jurisdicional, incidência da Súmula 7 do STJ e ausência de demonstração do dissídio jurisprudencial invocado. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.054.503/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.)
+Registre-se que o recorrente, ao forçar a adequação do presente Apelo às suas razões recursais, não enfrentou devidamente os fundamentos específicos da decisão da instância originária, fazendo alegações genéricas. Tal omissão configura deficiência de fundamentação, fazendo incidir, por analogia, a Súmula 284/STF. Nessa linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..) VII. Com relação ao ponto do Recurso Especial em que a parte autora sustentou que "a alegação de tríplice identidade entre esta ação e o Mandado de Segurança pretérito não deve subsistir. No caso em discussão, os fundamentos das demandas são outros, ou seja, não há de se falar em coisa julgada, na medida em que não há identidade de causa de pedir. Embora tratem-se do mesmo auto de lançamento, as causas de pedir são diversas. No Mandado de Segurança houve o pedido da imunidade tributária art. 155, § 2º, inc. X, "a", da CF/88", constata-se flagrante deficiência na fundamentação recursal. Afinal, sem indicar contrariedade aos dispositivos do CPC que disciplinam o instituto da coisa julgada, insurgiu-se a parte autora, sob alegada violação ao art. 3º, II, da Lei Complementar 87/96, contra os fundamentos da decisão anteriormente transitada em julgado, que foi respeitada neste processo em face dos efeitos preclusivos da coisa julgada. Nesse contexto, efetivamente incide, na espécie, por analogia, o óbice da Súmula 284 do STF, pois o citado dispositivo da Lei Kandir não possui comando normativo capaz de infirmar o fundamento do acórdão recorrido alusivo à ocorrência de coisa julgada.
+(..)
+IX. Agravo interno improvido.
+(AgInt no AREsp n. 2.127.450/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 27/4/2023.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. LEI FEDERAL. OFENSA. ARGUIÇÃO GENÉRICA. SÚMULA 284 DO STF. INCAPACIDADE LABORATIVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme ressaltado na decisão agravada, não é possível conhecer do Recurso Especial no que tange aos arts. 371, 473, II e IV, 475 e 479 do Código de Processo Civil/2015, uma vez que as razões recursais não explicitam de forma clara e direta como os citados dispositivos legais teriam sido violados pelo Tribunal de origem.
+Portanto, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal.
+2. Quanto à incapacidade laborativa alegada pela parte recorrente, o Tribunal de origem decidiu a controvérsia nos seguintes termos (fls. 327-328, e-STJ): "(..) Concluo que a parte autora não logrou infirmar as conclusões periciais, com elementos objetivos a evidenciar o desacerto do parecer do perito judicial. Destarte, ausente a comprovação de incapacidade laborativa da parte autora, deve ser mantida a sentença de improcedência".
+3. De fato, a modificação do julgado, nos moldes pretendidos, depende do reexame dos elementos de convicção postos no processo, o que encontra óbice na Súmula 7 do STJ.
+(..)
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.931.611/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/12/2021.)
+Diante do exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Cumpre advertir à parte que a eventual interposição de recurso contra o presente decisum, qualificado como manifestamente inadmissível, protelatório ou desprovido de fundamento, ensejará a incidência das sanções previstas nos artigos 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil, podendo resultar, inclusive, em imposição de multa.
+Comunique-se à NUGEP que o REsp selecionado não é adequado como representativo de controvérsia.
+Publique-se. Intimem-se.
+EMENTA
