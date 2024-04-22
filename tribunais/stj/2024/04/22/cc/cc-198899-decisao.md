@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado por MONOLUX CONSTRUÇÕES CIVIS LTDA. em que figuram como suscitados o Juízo Federal da 1ª Vara de Maringá (SJPR) e o Juízo de Direito da 1ª Vara Cível de Paranavaí (PR), visando definir a competência para processar e julgar ação de indenização de danos morais e materiais ajuizada por Maria José Pires em razão de vícios de construção em imóvel adquirido pelo Programa Minha Casa, Minha Vida, no Conjunto Francisco Luis Assis, em Paranavaí.
+O Juízo da 1ª Vara Cível de Paranavaí, no qual foi proposta a ação, declinou a competência à Justiça Federal ao fundamento de ser obrigatório o litisconsórcio passivo com a CEF.
+Após receber os autos, o Juízo da 1ª Vara Federal de Maringá entendeu tratar-se de litisconsórcio facultativo e declarou a ilegitimidade passiva da CEF e a incompetência da Justiça Federal (fl. 40).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito e, no mérito, pela competência do Juízo de Direito da 1ª Vara Cível de Paranavaí (fls. 205-208).
+É o relatório. Decido.
+É assente no STJ o entendimento de que compete à Justiça Federal decidir a respeito da exclusão de ente federal da relação processual, de modo a definir a competência para o julgamento da causa, descabendo novo exame da questão pela Justiça comum estadual.
+Nesse sentido, os seguintes enunciados:
+Súmula n. 150 do STJ: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública."
+Súmula n. 224 do STJ: "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito."
+Súmula n. 254 do STJ: "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual."
+A propósito, confiram-se ainda os seguintes precedentes: AgRg no CC n. 122.649/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 22/8/2012, DJe de 28/8/2012; AgRg no CC n. 107.692/TO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/9/2011, DJe de 20/9/2011; AgRg no CC n. 109.096/SC, relator Ministro Cesar Asfor Rocha, Primeira Seção, julgado em 25/5/2011, DJe de 10/6/2011.
+No presente caso, convém ressaltar que a Justiça Federal, ao analisar a causa, concluiu que não ficara configurado requisito necessário referente ao legítimo interesse jurídico da Caixa Econômica Federal para a causa, elemento suficiente para afastar a sua competência.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. SFH. SEGURO. AÇÃO INDENIZATÓRIA. CAIXA ECONÔMICA FEDERAL. INTERESSE. INTERVENÇÃO. LIMITES E CONDIÇÕES. INCIDENTE DE PROCESSO REPETITIVO. ART. 543-C DO CPC.
+1. Nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide como assistente simples somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09 - e nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66).
+2. Ainda que compreendido no mencionado lapso temporal, ausente a vinculação do contrato ao FCVS (apólices privadas, ramo 68), a CEF carece de interesse jurídico a justificar sua intervenção na lide.
+3. O ingresso da CEF na lide somente será possível a partir do momento em que a instituição financeira provar documentalmente o seu interesse jurídico, mediante demonstração não apenas da existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, colhendo o processo no estado em que este se encontrar no instante em que houver a efetiva comprovação desse interesse, sem anulação de nenhum ato anterior.
+4. Evidenciada desídia ou conveniência na demonstração tardia do seu interesse jurídico de intervir na lide como assistente, não poderá a CEF se beneficiar da faculdade prevista no art. 55, I, do CPC.
+5. Na hipótese específica dos autos, tendo o Tribunal Estadual concluído pela ausência de vinculação dos contratos de seguro ao FCVS, inexiste interesse jurídico da CEF para integrar a lide.6. Embargos de declaração parcialmente acolhidos, com efeitos infringentes. (EDcl nos EDcl no REsp n. 1.091.393/SC, relatora Ministra Maria Isabel Gallotti, relatora para o acórdão Ministra Nancy Andrighi, Segunda Seção, julgado em 10/10/2012, DJe de 14/12/2012.)
+Ante o exposto, com fundamento no art. 120, parágrafo único, do CPC, conheço do conflito e declaro competente o Juízo de Direito da 1ª Vara Cível de Paranavaí (PR).
+Comunique-se aos Juízos envolvidos sobre a presente decisão.
+Publique-se. Intimem-se.
+EMENTA
