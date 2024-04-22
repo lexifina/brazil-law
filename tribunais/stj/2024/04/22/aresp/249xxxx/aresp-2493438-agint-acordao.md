@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE CADEIA COMPLETA DE SUBSTABELECIMENTO/PROCURAÇÃO. INTIMAÇÃO PARA REGULARIZAR. DESCUMPRIMENTO. SÚMULA 115/STJ. DESERÇÃO. GRATUIDADE DA JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Intimada para sanar o vício, nos moldes do art. 932, parágrafo único, do CPC/2015, a agravante não juntou aos autos a procuração originária e respectiva cadeia completa de substabelecimento de poderes ao subscritor do recurso especial e do agravo em recurso especial, o que impede seu conhecimento.
+2. O recurso dirigido à instância superior desacompanhado de procuração, ou em que a cadeia de substabelecimentos mostra-se incompleta, é inexistente, à luz do disposto na Súmula 115 do STJ.
+3. "A parte que não comprova o preparo no momento da interposição do recurso deve ser intimada, nos termos do art. 1.007, §§ 2º e 4º, do CPC, para a regularização do vício. Intimada, a parte deve demonstrar, no prazo designado: (i) ser beneficiária da gratuidade da justiça ao tempo da interposição, (ii) ter comprovado o preparo no momento do protocolo do recurso, ou (iii) o recolhimento na forma determinada na intimação. Mesmo após a intimação para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo no prazo assinalado, o que atrai a Súmula n. 187 do STJ" (AgInt no REsp 1.978.398/RN, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2022, DJe de 3/11/2022).
+4. Na espécie, a parte recorrente, ao interpor o recurso especial, não comprovou o deferimento do benefício da gratuidade da justiça, nem juntou à petição as guias de recolhimento do respectivo preparo.
+5. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por TILCE RODRIGUES MAFRA, contra decisão proferida pela em. Ministra Presidente do STJ, às fls. 174/175, que não conheceu do recurso, em razão da ausência de recolhimento de preparo e em decorrência da ausência de juntada da cadeia de procuração que confere poderes ao procurador subscritor do recurso.
+Nas razões do agravo interno, defende a regularidade da representação, afirmando que "nos autos principais (1002304-14.2021.8.26.0003) em fls 204, foi juntada a procuração sem qualquer revogação, o que comprova a vigência da procuração, que foi dada ao patrono da demanda" (fl. 191).
+Em relação ao preparo, afirma que é beneficiária da justiça gratuita (fl. 190).
+Não foi apresentada impugnação (fl. 197).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE CADEIA COMPLETA DE SUBSTABELECIMENTO/PROCURAÇÃO. INTIMAÇÃO PARA REGULARIZAR. DESCUMPRIMENTO. SÚMULA 115/STJ. DESERÇÃO. GRATUIDADE DA JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Intimada para sanar o vício, nos moldes do art. 932, parágrafo único, do CPC/2015, a agravante não juntou aos autos a procuração originária e respectiva cadeia completa de substabelecimento de poderes ao subscritor do recurso especial e do agravo em recurso especial, o que impede seu conhecimento.
+2. O recurso dirigido à instância superior desacompanhado de procuração, ou em que a cadeia de substabelecimentos mostra-se incompleta, é inexistente, à luz do disposto na Súmula 115 do STJ.
+3. "A parte que não comprova o preparo no momento da interposição do recurso deve ser intimada, nos termos do art. 1.007, §§ 2º e 4º, do CPC, para a regularização do vício. Intimada, a parte deve demonstrar, no prazo designado: (i) ser beneficiária da gratuidade da justiça ao tempo da interposição, (ii) ter comprovado o preparo no momento do protocolo do recurso, ou (iii) o recolhimento na forma determinada na intimação. Mesmo após a intimação para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo no prazo assinalado, o que atrai a Súmula n. 187 do STJ" (AgInt no REsp 1.978.398/RN, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2022, DJe de 3/11/2022).
+4. Na espécie, a parte recorrente, ao interpor o recurso especial, não comprovou o deferimento do benefício da gratuidade da justiça, nem juntou à petição as guias de recolhimento do respectivo preparo.
+5. Agravo interno improvido.
+VOTO
+A presente irresignação não merece prosperar, devendo ser mantida a decisão proferida pela em. Ministra Presidente do STJ.
+Na análise dos autos, constata-se que, no momento da interposição do recurso especial e do agravo em recurso especial, a parte agravante não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao advogado subscritor dos recursos.
+Nesse contexto, verifica-se, realmente, que o subscritor dos recursos não possui poderes para representar a parte recorrente, tendo em vista a falta da procuração originária e respectiva cadeia de substabelecimento.
+Intimada para regularizar o feito (fl. 164) nos moldes do art. 932, parágrafo único, do CPC/2015, a parte agravante não se manifestou, deixando de regularizar a cadeia de substabelecimentos que conferem poderes ao Dr. Julio Cesar Sanchez., que é o subscritor do recurso especial e do agravo em recurso especial.
+Diante do descumprimento da determinação prevista no art. 76, c/c o art. 932, parágrafo único, do CPC/2015, incide, na espécie, a Súmula 115/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADVOGADO SUBSCRITOR DO AGRAVO EM RECURSO ESPECIAL SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA. APLICAÇÃO DO DISPOSTO NO ART. 76, § 2º, DO NCPC. PETICIONAMENTO ELETRÔNICO. SUBSCRITOR DA PEÇA. NECESSIDADE DE REGULARIZAÇÃO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N.º 115 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme o disposto no art. 76, § 2º, I, do NCPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+2. A jurisprudência do STJ consolidou o entendimento de que a assinatura eletrônica é a forma de identificação inequívoca do signatário, e a opção pela utilização do meio eletrônico de peticionamento implica a vinculação do advogado titular do certificado digital ao documento chancelado, que será considerado, para todos os efeitos, o subscritor da peça, não tendo valor eventual nome grafado de outro advogado que venha a constar da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração. Precedentes.
+3. A ausência de procurações e/ou cadeia completa de substabelecimento de poderes ao advogado titular do certificado digital, que subscreveu eletronicamente a petição recursal, impossibilita o conhecimento do recurso, pois torna inexistente o recurso dirigido à esta instância superior à luz da Súmula n.º 115 do STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.323.873/BA, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/8/2023, DJe de 24/8/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL. SÚMULA N. 115 DO STJ. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. QUINTA-FEIRA ANTECEDENTE À SEXTA-FEIRA DA PAIXÃO. JUSTIÇA ESTADUAL. LEI N. 5.010/1966, ART. 62. INAPLICABILIDADE. INTEMPESTIVIDADE. MAJORAÇÃO DOS HONORÁRIOS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Na hipótese de recurso interposto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015.
+2. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula n. 115 do STJ).
+(..)
+7. Agravo interno desprovido."
+(AgInt no AREsp n. 2.256.841/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 29/5/2023, DJe de 1/6/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA PARTE AGRAVADA.
+1. Os recursos dirigidos à instância superior desacompanhados de procuração ou em que a cadeia de substabelecimentos está incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ.
+1.1. Na vigência do CPC/73, é inviável a concessão de prazo suplementar para regularização da representação processual.
+Precedentes.
+2. "A jurisprudência do Superior Tribunal de Justiça dispõe no sentido de que não cabe a esta Casa aferir a correta formação do agravo de instrumento interposto na origem, no intuito de verificar a responsabilidade da parte agravante, ora agravada, pela juntada da procuração do advogado da parte adversa, consoante preconiza o art. 525, I do CPC/73, tendo em vista que tal alegação deveria ter sido deduzida no momento processual oportuno. Ainda que aquele agravo de instrumento tenha sido mal formado, poderia a parte ora recorrente, ao interpor o recurso especial, juntar o respectivo instrumento de mandato a fim de sanar o vício, o que não o fez. A ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n. 115/STJ."
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 858.711/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/5/2023, DJe de 1/6/2023)
+Ressalta-se que a tese, no sentido de que a procuração encontrava-se nos autos originários , é insuficiente para impedir a incidência da Súmula 115/STJ, porquanto fora aberta a possibilidade de regularizar o feito à agravante, o que não ocorreu diante da inércia de colacionar a procuração originária.
+Em relação ao preparo, esta Corte Superior entende que "A parte que não comprova o preparo no momento da interposição do recurso deve ser intimada, nos termos do art. 1.007, §§ 2º e 4º, do CPC, para a regularização do vício. Intimada, a parte deve demonstrar, no prazo designado: (i) ser beneficiária da gratuidade da justiça ao tempo da interposição, (ii) ter comprovado o preparo no momento do protocolo do recurso, ou (iii) o recolhimento na forma determinada na intimação" (AgInt no REsp 1.978.398/RN, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2022, DJe de 3/11/2022).
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DA JUSTIÇA GRATUITA E DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA N. 187 DO STJ.
+1. É insuficiente a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer cópia integral dos respectivos autos ou certidão comprobatória do Tribunal de origem desse deferimento.
+2. Quando a parte, após regularmente intimada, não comprova, no prazo assinado, o recolhimento do preparo na forma devida ou o deferimento da gratuidade de justiça na origem, o recurso especial é considerado deserto. Incidência da Súmula n. 187/STJ.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.213.319/SP, Relator MinistrO HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 23/10/2023, DJe de 25/10/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADO VÍCIO DE INTIMAÇÃO. NULIDADE DE ALGIBEIRA. REJEIÇÃO. AUSÊNCIA DE RECOLHIMENTO DO PREPARO. PRÉVIA INTIMAÇÃO. DESERÇÃO. SÚMULA 187/STJ. INTEMPESTIVIDADE. MANEJO DE EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO PARA O AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+1. A ausência de intimação deve ser alegada na primeira oportunidade em que a parte tem de se manifestar nos autos, uma vez que a suscitação tardia da nulidade, somente após a ciência do resultado desfavorável, configura a chamada Nulidade de Algibeira.
+2. Se, após a intimação para regularização do preparo, a parte não comprova a concessão do benefício da gratuidade de justiça nem efetua o recolhimento em dobro das custas, de rigor a aplicação do disposto do enunciado n. 187 da Súmula do Superior Tribunal de Justiça.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.322.059/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 2/10/2023, DJe de 4/10/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AUTOS DE AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA NO ROSTO DOS AUTOS. CONCURSO DE CREDORES. LIMITAÇÃO DE CRÉDITOS TRABALHISTAS. DESERÇÃO. GRATUIDADE DA JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. "A parte que não comprova o preparo no momento da interposição do recurso deve ser intimada, nos termos do art. 1.007, §§ 2º e 4º, do CPC, para a regularização do vício. Intimada, a parte deve demonstrar, no prazo designado: (i) ser beneficiária da gratuidade da justiça ao tempo da interposição, (ii) ter comprovado o preparo no momento do protocolo do recurso, ou (iii) o recolhimento na forma determinada na intimação. Mesmo após a intimação para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo no prazo assinalado, o que atrai a Súmula n. 187 do STJ" (AgInt no REsp 1.978.398/RN, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/10/2022, DJe de 3/11/2022).
+2. Na espécie, a recorrente, ao interpor o recurso especial, não comprovou o deferimento do benefício da gratuidade da justiça, nem juntou à petição as guias de recolhimento do respectivo preparo.
+Intimada para corrigir o vício, explicou que o referido benefício havia sido deferido nos autos de reclamação trabalhista, feito distinto da execução no âmbito da qual se discute a limitação de créditos ante o concurso de credores.
+3. Agravo interno improvido."
+(AgInt no REsp n. 2.045.057/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/8/2023, DJe de 1/9/2023)
+Na espécie, a parte recorrente não comprovou o deferimento do benefício da gratuidade da justiça, nem ju ntou à petição as guias de recolhimento do respectivo preparo.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
