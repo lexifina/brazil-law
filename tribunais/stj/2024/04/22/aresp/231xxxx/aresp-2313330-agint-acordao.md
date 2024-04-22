@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RECONVENÇÃO. PEDIDO DE GRATUIDADE DA JUSTIÇA. ART. 98 DO CPC. CRITÉRIOS. SOBRESTAMENTO DO FEITO. MATÉRIA AFETADA SOB O RITO DOS RECURSOS REPETITIVOS. TEMA N.º 1.178 DO STJ. RETORNO DOS AUTOS À ORIGEM. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. A matéria referente ao art. 98 do CPC foi devidamente prequestionada e a análise do feito, da forma como trazida no apelo nobre, não necessita do reexame fático-probatório do feito. Assim, deve ser ultrapassado o juízo de admissibilidade do recurso especial.
+2. O Tema Repetitivo n.º 1.178 do Superior Tribunal de Justiça tem a mesma questão objeto do presente recurso especial (definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, ambos do CPC). Inclusive, há determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CRESIO MENDES DE CASTRO (CRESIO) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA AFETADA SOB O RITO DOS RECURSOS REPETITIVOS. TEMA 1.178. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM (e-STJ, fl. 541)
+Nas razões do presente inconformismo, CRESIO afirmou que (1) não se deveria sequer ter conhecido do recurso especial, tendo em conta que não houve o prequestionamento do art. 98 do CPC e a matéria encontra óbice na Súmula n.º 7 do STJ; e (2) não ultrapassado o juízo de admissibilidade, não há que se falar em sobrestamento do feito (e-STJ, fls. 573/600).
+Foi apresentada impugnação (e-STJ, fls. 604/605) .
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RECONVENÇÃO. PEDIDO DE GRATUIDADE DA JUSTIÇA. ART. 98 DO CPC. CRITÉRIOS. SOBRESTAMENTO DO FEITO. MATÉRIA AFETADA SOB O RITO DOS RECURSOS REPETITIVOS. TEMA N.º 1.178 DO STJ. RETORNO DOS AUTOS À ORIGEM. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. A matéria referente ao art. 98 do CPC foi devidamente prequestionada e a análise do feito, da forma como trazida no apelo nobre, não necessita do reexame fático-probatório do feito. Assim, deve ser ultrapassado o juízo de admissibilidade do recurso especial.
+2. O Tema Repetitivo n.º 1.178 do Superior Tribunal de Justiça tem a mesma questão objeto do presente recurso especial (definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, ambos do CPC). Inclusive, há determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O presente agravo interno não merece prosperar.
+As razões expostas na petição ora em análise não justificam a alteração do julgamento proferido na decisão agravada.
+(1) Do juízo de admissibilidade
+Em que pese o reforço argumentativo, a matéria referente ao art. 98 do CPC foi devidamente prequestionada e, ao contrário do que afirmado por CRESIO, a análise do feito não necessita do reexame fático-probatório do feito.
+A propósito, veja-se o seguinte trecho do acórdão recorrido:
+Inicialmente, não constato qualquer fato capaz de atrair o juízo de retratação, razão pela qual mantenho o entendimento apresentado na decisão agravada.
+É que, conforme relatado na decisão recorrida, a Lei 1.060/50, que estabelece normas para a concessão de assistência judiciária gratuita aos hipossuficientes, dispõe em seu art. 4º:
+A parte gozará dos benefícios da assistência judiciária, mediante simples afirmação, na própria petição inicial, de que não estar em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou de sua família.
+Sobre o mesmo tema, determina o artigo 98 da Lei 13.105/2015:
+A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.
+Entretanto, a referida presunção de miséria não é absoluta, pois, no caso concreto, compete ao Magistrado, na busca da verdade real, analisar a existência de indícios atualizados da capacidade financeira da parte requerente para pagar as custas processuais e honorários advocatícios, e determinar que se comprove a hipossuficiência.
+Deste modo, revela-se imprescindível, para o deferimento dos efeitos da justiça gratuita, que a parte requerente comprove a atual insuficiência de recursos para custear as despesas processuais, a fim de que lhe seja concedida a gratuidade judiciária (e-STJ, fls. 418/423 - sem destaques no original).
+Nesse panorama, deve ser ultrapassado o juízo de admissibilidade do apelo nobre.
+(2) Da suspensão do feito em razão do Tema n.º 1.178 do STJ
+No julgamento do recurso especial, foi decidido que é necessário o retorno dos autos ao Tribunal mineiro, nos seguintes termos:
+Trata-se de agravo interno interposto por CARLOS AUGUSTO GONTIJO (CARLOS) contra decisão de relatoria do Ministro Presidente desta Corte, que conheceu do agravo e não conheceu do recurso especial anteriormente manejado em virtude da falta de prequestionamento.
+Nas razões do presente inconformismo, defendeu que o art. 98 do NCPC foi devidamente prequestionado e pugnou pelo deferimento da assistência judiciária gratuita ou, subsidiariamente, pela suspensão do recurso especial até o julgamento do Tema Repetitivo 1178 do STJ.
+É o relatório.
+DECIDO.
+Deveras, razão assiste à agravante, motivo pelo qual reconsidero a decisão agravada e, em nova análise, conheço do agravo para, então, apreciar o recurso especial.
+Nas razões do recurso especial, CARLOS sustentou a violação do art. 98 do NCPC ao defender, no que concerne à necessidade de concessão do benefício da gratuidade de justiça, é inviável a utilização apenas de parâmetros objetivos (renda de 3 salários-mínimos) como critério para aferição da hipossuficiência financeira.
+Cumpre pontuar que, o Tema Repetitivo n. 1178 do Superior Tribunal de Justiça tem a mesma questão objeto do presente recurso especial (definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil). Inclusive, há determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+Nesse contexto, a afetação de recurso especial como representativo da controvérsia demanda ao Tribunal Estadual a suspensão de recursos interpostos que abordem idêntica questão, até o julgamento definitivo da controvérsia.
+Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do CPC (art. 5º, inciso III, da Resolução nº 8/2008 da Presidência do STJ).
+Nesse sentido, veja-se precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+ .. .
+3. Ademais, se o Ministro Relator admite o recurso especial como representativo da controvérsia e determina a suspensão dos demais recursos (como ocorre no caso dos autos), comunicando a decisão aos Tribunais de segundo grau, não se revela adequado que seja admitido ou inadmitido recurso especial no qual se discuta questão idêntica, antes do pronunciamento definitivo do Superior Tribunal de Justiça (art. 543-C, §§ 1º e 2º, c/c o art. 2º da Resolução 8/2008 do STJ).
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 17/5/2012, DJe 23/5/2012)
+Nessas condições, DETERMINO a devolução do processo ao TJMG, com a devida baixa nesta Corte, para que permaneça suspenso até a publicação do acórdão representativo da controvérsia, nos termos do art. 256-L, I, do RISTJ, observando-se, logo após, o expediente previsto nos arts. 1.040 e 1.041, ambos do NCPC (e-STJ, fls. 541/543 ).
+Correta a conclusão acima reproduzida, pois, conforme o já devidamente explicitado, a discussão acerca dos parâmetros objetivos para a aferição da hipossuficiência financeira foi afetada, nos termos do seguinte acórdão:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA REPETITIVA. PROPOSTA DE AFETAÇÃO. GRATUIDADE DE JUSTIÇA. PESSOA NATURAL. HIPOSSUFICIÊNCIA. (I)LEGITIMIDADE DA AFERIÇÃO MEDIANTE CRITÉRIOS E PARÂMETROS OBJETIVOS.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos: Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil.
+2. Afetam-se em conjunto os seguintes processos: REsp n. 1.988.687/RJ, REsp n. 1.988.697/RJ e REsp n. 1.988.686/RJ, todos aptos, em princípio, para a análise da controvérsia.
+3. Proposta de afetação submetida e acolhida
+(ProAfR no REsp n. 1.988.686/RJ, relator Ministro Og Fernandes, Corte Especial, julgado em 6/12/2022, DJe de 20/12/2022 - sem destaque no original)
+Dessa forma, demonstrada a necessidade de sobrestamento do feito, também no que se refere aos critérios para aferição do direito à gratuidade da justiça.
+Portanto, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
