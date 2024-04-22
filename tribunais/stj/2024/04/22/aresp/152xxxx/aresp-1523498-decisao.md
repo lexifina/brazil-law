@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial da FAZENDA DO ESTADO DE SÃO PAULO, no qual se insurgira contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO .
+A questão debatida nos autos, qual seja, a "possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes", encontra-se com repercussão geral reconhecida pelo Supremo Tribunal Federal (RE 1.412.069/PR - Tema 1.255).
+Dessa forma, por medida de economia processual e para evitar decisões divergentes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos de temas similares em curso neste Tribunal devem aguardar na Corte de origem a solução do recurso extraordinário afetado , viabilizando, assim, o juízo de conformação nos termos dos arts. 1.039 e 1.040 do Código de Processo Civil (CPC) . Somente após tal providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Tribunal Superior para a análise das questões jurídicas nele suscitadas e que não ficarem prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Em razão da necessidade de remessa dos autos à origem, fica prejudicado o julgamento do recurso da parte ora agravada.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimem-se.
+EMENTA
