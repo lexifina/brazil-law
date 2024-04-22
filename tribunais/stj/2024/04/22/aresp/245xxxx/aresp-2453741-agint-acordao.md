@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AFRONTA AO ART. 124 DA LEI 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça, ao interpretar o art. 1.025 do NCPC, concluiu que "a admissão de prequestionamento fi cto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+3. Agravo interno provido. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCELO LUIZ LEVINZON contra decisão de relatoria do em. Ministro Presidente (fls. 546/547), que não conheceu do agravo devido à ausência de impugnação específica dos óbices contidos na decisão de admissibilidade do recurso especial.
+Nas razões do agravo interno, alega-se que "não há que se falar em similitude fática, na medida em que o recurso especial foi interposto apenas com fundamento na alínea a, III, do artigo 105 da CF e não na alínea "c" (fl. 522).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+A parte agravada apresentou impugnação às fls. 565/579.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AFRONTA AO ART. 124 DA LEI 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça, ao interpretar o art. 1.025 do NCPC, concluiu que "a admissão de prequestionamento fi cto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+3. Agravo interno provido. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo interno merece ser provido para reconsiderar a decisão agravada, na medida em que o agravo em recurso especial impugnou especificamente os óbices contidos na decisão de admissibilidade do recurso especial.
+Passa-se a novo exame do feito.
+Trata-se de agravo em recurso especial interposto por MARCELO LUIZ LEVINZON contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fl. 434):
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO. IMPENHORABILIDADE. VALOR ABAIXO DE 40 SALÁRIOS MÍNIMOS. Cuida-se de recurso contra decisão que acolheu em parte a impugnação à execução. Bloqueio de R$ R$ 8.435,44, nas contas do executado. Reconhecimento da impenhorabilidade em primeiro grau, somente da quantia de R$ 7.896,04 mantendo-se o bloqueio do restante do montante. As quantias de valores até 40 salários mínimos depositados em aplicações financeiras com caráter de investimento, incluindo-se a poupança (e pequenos investimentos) vinculada a conta corrente, na forma do artigo 833, X do Código de Processo Civil. Penhora que atingiu valores que correspondente a saldo remanescente da remuneração recebida no mês anterior. Ausência de prova de desvirtuamento. Crédito executado que não possui natureza alimentar. Assim, a penhora pretendida coloca sob risco a subsistência do agravante e de sua familia. Jurisprudência do STJ. Precedentes desta Turma Julgadora.
+DECISÃO REFORMADA. AGRAVO PROVIDO."
+Opostos embargos de declaração, foram rejeitados às fls. 463/467.
+Nas razões do recurso especial, aponta ofensa ao art. 124 da Lei 11.101/2005. Para tanto, sustenta, em síntese, que, "no caso dos autos, os antigos fiadores jamais poderiam ser compelidos a pagar os juros, pois ao se sub-rogarem e exigirem o pagamento da massa falida, não poderão cobrar os acréscimos em regresso, pelo comando do artigo 124 da lei 11.101/2005" (fl. 448).
+Da análise dos autos, verifica-se que a Corte de origem não se manifestou acerca do comando normativo previsto no artigo 124 da Lei 11.101/2005, nem houve alegação de ofensa ao artigo 1.022 do CPC/20 15 em sede de recurso especial.
+Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+É como voto.
