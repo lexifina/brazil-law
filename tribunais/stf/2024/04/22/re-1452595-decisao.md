@@ -1,0 +1,75 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. MODULAÇÃO TEMPORAL DE EFEITOS DESDE 15.3.2017, RESSALVADOS OS PROCEDIMENTOS E AS AÇÕES JUDICIAIS EM CURSO. FATO GERADOR OCORRIDO ATÉ 15.3.2017. COBRANÇA. POSSIBILIDADE. MODULAÇÃO NO RECURSO EXTRAORDINÁRIO N. 574.706-RG (TEMA 69). TEMA 1.279 DA REPERCUSSÃO GERAL: REAFIRMAÇÃO DE JURISPRUDÊNCIA. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quinta Região:
+
+    “TRIBUTÁRIO. ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. INCONSTITUCIONALIDADE. PRECEDENTE DO STF EM SEDE DE REPERCUSSÃO GERAL (TEMA 69). RESTITUIÇÃO DO INDÉBITO ATRAVÉS DE COMPENSAÇÃO TRIBUTÁRIA. 1. Apelação interposta Empresa em face de sentença que julgou improcedente a Ação Declaratória c/c Repetição de Indébito ajuizada com o fito de excluir o ICMS das bases de cálculo do PIS e da COFINS. 2. Sentença que se encontra em desacordo com o que foi decidido pelo STF, em sede de Repercussão Geral, no julgamento do RE 574.706/PR (Tema 69), no qual foi firmada a seguinte tese: ‘O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS’ - Tema 69/STF. 3. Não prospera a fundamentação de que com a entrada em vigor da Lei nº 12.973/14, que conferiu nova redação às leis reguladoras das contribuições ao PIS e à COFINS, o entendimento firmado pelo STF, no Tema 69, não seria mais aplicável. A nova legislação não tem o condão de alterar a tese do Pretório Excelso no sentido de que o ICMS não deve compor a base de cálculo do PIS e da COFINS, uma vez que o imposto estadual não pode ser abrangido pelo conceito de faturamento pois nunca chega a ingressar efetivamente no patrimônio do contribuinte - o destinatário do valor correspondente ao ICMS será sempre a Fazenda Pública. 4. Direito da contribuinte à exclusão dos valores relativos ao ICMS, da base de cálculo do PIS e da COFINS, assim como à compensação dos valores pagos indevidamente nos últimos cinco anos, com atualização monetária mediante a aplicação da taxa Selic, não podendo ser cumulada com qualquer outro índice, seja de correção monetária, seja de juros, uma vez que a referida taxa já engloba ambos os acréscimos, com fulcro na Lei nº 9.250/95. 5. No que tange à compensação tributária, o Superior Tribunal de Justiça firmou o entendimento, em seara de Recurso Representativo de Controvérsia, que deve ser considerado o regime jurídico vigente à época do ajuizamento da demanda, ressalvando-se o direito do contribuinte de compensar o crédito tributário pelas normas posteriores na via administrativa (REsp nº 1.137.738/SP, Relator Ministro Luiz Fux, Primeira Seção, in DJe 1º/2/2010). 6. Tendo a presente ação sido ajuizada em 06/10/2017, pode ser autorizada a compensação nos moldes preconizados pelo art. 74, da Lei nº 9.430/96, com as alterações levadas a efeito pelas Leis n 10.637/02, os 10.833/03 e 11.051/2004, 11.941/2009, 12.844/2013 e 13.097/2015, sendo admitida a compensação através de declaração do próprio contribuinte, entre quaisquer tributos e contribuições administrados pela Secretaria da Receita Federal, sujeita à ulterior homologação pelo Fisco, com exceção daquelas elencadas no §3º do referido dispositivo legal, que expressamente enumerou os valores que não podem ser objeto de compensação. Observância ao art. 170-A, do CTN, que veda a compensação antes do trânsito em julgado. 7. Apelação provida. Inversão do ônus da sucumbência. Honorários a cargo da Fazenda Nacional. Como não é possível mensurar o valor do proveito econômico obtido, arbitro os honorários no percentual de 10% sobre o valor atualizado da causa, nos moldes previstos no inciso III, do parágrafo 4º, c/c parágrafos 2º e 3º, do art. 85, do CPC/2015” (fls. 2-3, e-doc. 9).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 13).
+
+    2. A recorrente alega ter o Tribunal de origem contrariado a al. b do inc. I do art. 195 da Constituição da República.
+
+    Anota que “permitir a exclusão da base de cálculo da COFINS de parcelas como o ICMS implica criar hipótese judicial de exclusão de base de cálculo, sem qualquer previsão legal (legislar positivamente). Ou seja, seria criar nova forma de isenção, em afronta ao disposto nos art. 97 e art. 111 do Código Tributário Nacional e no art. 150, §6º da Constituição” (fl. 17, e-doc. 16).
+
+    Enfatiza que “o acórdão recorrido, ao excluir o ICMS da base de cálculo da COFINS, incorreu em manifesta afronta ao artigo 195, I, ‘b’, da CF/88, por interpretá-lo erroneamente, motivo pelo qual se mostra imperiosa a sua reforma” (fl. 17, e-doc. 16).
+
+    Pede “o provimento do presente recurso para que seja reformado o acórdão regional, para corrigir a violação ao art. 195, I, ‘b’, da Constituição Federal, reconhecendo a legitimidade da inclusão do ICMS na base de cálculo do PIS e da COFINS” (fl. 17, e-doc. 16).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    3. Razão jurídica assiste, em parte, à recorrente.
+
+    4. Em 10.7.2023, a presidência do Tribunal Regional Federal da Quinta Região admitiu o recurso extraordinário, com a seguinte fundamentação:
+
+    “A então Presidência deste Tribunal admitiu como representativo de controvérsia o recurso extraordinário interposto pela Fazenda Nacional nos autos do PJe 0800791-45.2021.4.05.8302, envolvendo a seguinte controvérsia:
+
+    ‘Considerando-se a modulação dos efeitos da tese firmada pelo STF no julgamento do Tema 69, tratando-se de demanda ajuizada após 15/03/2017, os pagamentos indevidos realizados após esse marco temporal, mas relativos a fatos geradores anteriores a essa data, devem ou não ser computados no cálculo da repetição do indébito para fins de ressarcimento ou compensação decorrentes da exclusão do ICMS da base de cálculo do PIS e da COFINS?’
+
+      Em 16 de dezembro de 2022, a Presidência do Supremo Tribunal Federal - STF, entendendo não ser o caso de submeter, de imediato, a controvérsia acima ao Plenário para análise de repercussão geral, afastou a autuação do supracitado apelo extremo como representativo de controvérsia e determinou a sua distribuição normal a um dos integrantes daquela Corte Suprema, sendo autuado como RE 1413879/PE.
+
+    Distribuído tal recurso ao Ministro Roberto Barroso, este deu-lhe provimento monocraticamente, com base no artigo 932, V, do CPC/2015, e no artigo 21, § 2º, do RI/STF, ‘para considerar válidas todas as obrigações tributárias surgidas até 15 de março de 2017’, encontrando-se aquele feito (RE 1413879/PE) na contagem de prazo recursal.
+
+    A despeito de ter sido julgado o mérito do aludido recurso pelo STF, com aparente solução da controvérsia retratada acima, não se pode deixar de considerar que a decisão proferida no RE 1413879/PE não possui eficácia vinculante, tendo em vista, repita-se, o fato de que tal recurso não foi autuado naquela Corte Suprema como representativo de controvérsia, muito menos submetido à análise de repercussão geral pelo Plenário do STF.
+
+    Assim, não se mostra possível a aplicação, no caso concreto, da sistemática prevista nos artigos 1.030 ou 1.040 do CPC/2015 quanto ao decidido pelo STF no RE 1413879/PE.
+
+    O que se constata, na verdade, é a necessidade de subida de outros recursos extraordinários àquele Pretório Excelso, tratando da mesma controvérsia, a fim de que a questão posta em debate seja também analisada por outros Ministros daquele Tribunal Superior e, quem sabe, submetida à análise de repercussão geral pelo Plenário, diante não só da evidente multiplicidade de recursos sobre o tema no âmbito deste TRF5, com nítida relevância do ponto de vista econômico e jurídico, como também em face da atual impossibilidade desta Corte Regional extrair da tese firmada no Tema 69/STF solução para o caso concreto, envolvendo discussão sobre a limitação temporal do cálculo do indébito.
+
+      Diante dessas considerações, tendo a parte recorrente apontado suposta ofensa ao art. 195, I, ‘b’,da CF/88, estando preenchidos todos os requisitos de admissibilidade, ADMITO o recurso extraordinário da Fazenda Nacional” (e-doc. 36).
+
+    No julgamento do Recurso Extraordinário n. 574.706, de minha relatoria, este Supremo Tribunal fixou a tese de que “o ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins”. O julgado tem a seguinte ementa:
+
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DEFINIÇÃO DE FATURAMENTO. APURAÇÃO ESCRITURAL DO ICMS E REGIME DE NÃO CUMULATIVIDADE. RECURSO PROVIDO. 1. Inviável a apuração do ICMS tomando-se cada mercadoria ou serviço e a correspondente cadeia, adota-se o sistema de apuração contábil. O montante de ICMS a recolher é apurado mês a mês, considerando-se o total de créditos decorrentes de aquisições e o total de débitos gerados nas saídas de mercadorias ou serviços: análise contábil ou escritural do ICMS. 2. A análise jurídica do princípio da não cumulatividade aplicado ao ICMS há de atentar ao disposto no art. 155, § 2º, inc. I, da Constituição da República, cumprindo-se o princípio da não cumulatividade a cada operação. 3. O regime da não cumulatividade impõe concluir, conquanto se tenha a escrituração da parcela ainda a se compensar do ICMS, não se incluir todo ele na definição de faturamento aproveitado por este Supremo Tribunal Federal. O ICMS não compõe a base de cálculo para incidência do PIS e da COFINS. 3. Se o art. 3º, § 2º, inc. I, in fine, da Lei n. 9.718/1998 excluiu da base de cálculo daquelas contribuições sociais o ICMS transferido integralmente para os Estados, deve ser enfatizado que não há como se excluir a transferência parcial decorrente do regime de não cumulatividade em determinado momento da dinâmica das operações. 4. Recurso provido para excluir o ICMS da base de cálculo da contribuição ao PIS e da COFINS” (DJe 2.10.2017).
+
+    5. Em 13.5.2021, este Supremo Tribunal acolheu parcialmente os embargos de declaração opostos pela União no Recurso Extraordinário n. 574.706, de minha relatoria, “para modular os efeitos do julgado cuja produção haverá de se dar após 15.3.2017 – data em que julgado o RE n. 574.706 e fixada a tese com repercussão geral ‘O ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS’ –, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento” (ata de julgamento publicada no DJe de 14.5.2021).
+
+    Na espécie vertente, como relatado no acórdão recorrido, a ação ordinária foi ajuizada pela empresa contribuinte em 6.10.2017 (e-doc. 2), momento posterior ao estipulado na modulação de efeitos do Tema 69 da repercussão geral.
+
+    6. A questão posta neste recurso refere-se à modulação dos efeitos da decisão proferida no Recurso Extraordinário n. 574.706, se hígido e, portanto, exigível o tributo que tenha fato gerador anterior a 15.3.2017.
+
+    Na sessão virtual de 1º.9.2023 a 11.9.2023, a Primeira Turma deste Supremo Tribunal assentou ser “contrária ao paradigma do Tema 69 da repercussão geral qualquer exegese que exclua o ICMS da base de cálculo do PIS e da COFINS em relação aos fatos geradores ocorridos antes de 15.03.2017, com as ressalvas já assinaladas no julgado paradigma. No caso em exame, a ação foi ajuizada após 15.03.2017, devendo, portanto, submeter-se à modulação estabelecida no RE 574.706-ED” (RE n. 1.444.662-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 21.9.2023).
+
+    Na sessão virtual de 15.9.2023 a 22.9.2023, essa orientação jurisprudencial foi reafirmada pelo Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 1.452.421-RG, Tema 1.279, Relatora a Ministra Rosa Weber, ao reconhecer a repercussão geral da controvérsia constitucional e fixar a tese de que, “em vista da modulação de efeitos no RE 574.706/PR, não se viabiliza o pedido de repetição do indébito ou de compensação do tributo declarado inconstitucional, se o fato gerador do tributo ocorreu antes do marco temporal fixado pelo Supremo Tribunal Federal, ressalvadas as ações judiciais e os procedimentos administrativos protocolados até 15.3.2017” (DJe 29.9.2023).
+
+    Ao manifestar-se sobre a repercussão geral, a Ministra Rosa Weber ressaltou:
+
+    “Como se vê, foi assentada a modulação de efeitos por este Supremo Tribunal Federal ao exame dos embargos de declaração no recurso extraordinário com repercussão geral reconhecida. No entanto, conforme salientado pela Presidência do Tribunal Regional Federal da 5ª Região ao analisar a admissibilidade deste apelo extremo, subsiste questionamento quanto à eficácia temporal para a aplicação da tese firmada, na hipótese de lançamento, recolhimento ou pagamento do PIS e da COFINS com o ICMS na sua base de cálculo, após 15.3.2017, mas relativo a fato gerador ocorrido anteriormente.
+
+    Uma leitura inicial e pouco atenta do acórdão desta Suprema Corte no RE 574.706-ED/PR tem gerado controvérsia jurisprudencial. No entanto, o voto da Ministra Cármen Lúcia, seguido pela maioria dos integrantes do Plenário, quanto ao específico ponto da modulação de efeitos, se mostra extremamente claro e preciso. Sua Excelência, invocando decisum desta Casa ao julgamento do RE 593.849/MG, Tema 201, Rel. Min. Edson Fachin, Tribunal Pleno, j. 19.10.2016, DJe 05.4.2017, destacou fragmento de voto do Ministro Roberto Barroso proferido em referida oportunidade, no sentido da necessidade de modulação de efeitos, para estabelecer que a nova interpretação deste STF somente deveria ter eficácia em relação aos fatos geradores ocorridos após tal decisão.
+
+    Em outros termos, inequivocamente, a modulação tal como proposta pela Ministra Cármen Lúcia, fixa que a tese firmada no RE 574.706/PR, Tema 69, somente produz efeitos aos fatos geradores ocorridos após 15.3.2017, ressalvadas ações judiciais e procedimentos administrativos protocolados até referida data. Nessa linha, ao decidir idêntica controvérsia no RE 1.413.879/PE, o Ministro Roberto Barroso, afirmou, conforme acima explicitado, que a modulação de efeitos do RE 574.706/PR levou em consideração o fato gerador”.
+
+    Com relação aos fatos geradores ocorridos antes de 15.3.2017, o julgado do Tribunal de origem diverge, nesse item, da jurisprudência do Supremo Tribunal Federal, em especial da modulação dos efeitos da decisão proferida no Tema 69 da repercussão geral, que foi reafirmada no Tema 1.279 da repercussão geral.
+
+    7. Pelo exposto, dou parcial provimento ao recurso extraordinário (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal) apenas para, nos termos da jurisprudência deste Supremo Tribunal, considerar válidas as obrigações tributárias cujos fatos geradores tenham ocorrido até 15.3.2017, nas ações ajuizadas após esta data, invertidos, neste ponto, os ônus de sucumbência.
+
+    Publique-se
+
+    Brasília, 22 de abril de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
