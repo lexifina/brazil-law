@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. EXECUÇÃO FISCAL. INFRAÇÃO COMETIDA APÓS A ALIENAÇÃO DE VEÍCULO. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. DEVER DE COMUNICAÇÃO. ART. 134 DO CTB.
+1. Nos termos da orientação firmada no âmbito desta Corte de Justiça, no caso de alienação de veículo, a parte alienante deve comunicar a transferência de propriedade do bem ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por NILFRAL DE TERESÓPOLIS COMERCIAL LTDA. EPP desafiando decisão pela qual dei provimento ao recurso especial da Agência Nacional de Transportes Terrestres, por entender que a parte alienante do veículo deve comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito.
+Em suas razões, a parte agravante sustenta que "considerando que o crédito em execução é referente à multa por infração administrativa constituída em 04/02/2016, verifica-se que a aplicação da jurisprudência é no sentido de que o art. 134 do CTB tem sua interpretação mitigada" (fl. 199).
+A parte agravada não apresentou impugnação (fl. 209).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. EXECUÇÃO FISCAL. INFRAÇÃO COMETIDA APÓS A ALIENAÇÃO DE VEÍCULO. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. DEVER DE COMUNICAÇÃO. ART. 134 DO CTB.
+1. Nos termos da orientação firmada no âmbito desta Corte de Justiça, no caso de alienação de veículo, a parte alienante deve comunicar a transferência de propriedade do bem ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não prospera.
+Com efeito, observa-se dos autos que a decisão agravada, adotando o entendimento desta Corte de Justiça segundo o qual a parte alienante do veículo deve comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, decidiu pelo provimento do recurso especial, em ordem a determinar o regular processamento da execução fiscal. Nessa linha:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ALIENAÇÃO DE VEÍCULO. INFRAÇÕES DE TRÂNSITO. RESPONSABILIDADE SOLIDÁRIA DO ANTIGO PROPRIETÁRIO. ART. 134 DO CTB. AGRAVO INTERNO NÃO PROVIDO.
+1. A Primeira Seção desta Corte, por ocasião do julgamento do PUIL 1.556/SP, firmou orientação no sentido de que "a responsabilidade solidária do ex-proprietário, prevista no art. 134 do CTB, somente pode ser mitigada na hipótese da Súmula 585 do STJ: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação".
+2. Esta Corte entendeu que, no caso de alienação de veículo, a parte alienante deve comunicar a transferência de propriedade do bem ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.078.565/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ALIENAÇÃO DE VEÍCULO. DÉBITOS VINCULADOS AO BEM. RESPONSABILIDADE SOLIDÁRIA. DEVER DO ALIENANTE DE INFORMAR, AO DETRAN, A TRANSFERÊNCIA DA PROPRIEDADE DO BEM. ART. 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. ACÓRDÃO DE 2º GRAU EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Ação Anulatória c/c Obrigação de Fazer ajuizada pela parte ora agravante, em face da Agência Nacional de Transportes Terrestres - ANTT, com o objetivo de obter a anulação dos autos de infração de trânsito e exclusão dos registros das multas impostas. O Tribunal de origem manteve a sentença, que julgara procedente a demanda, sob o fundamento de que "é de se presumir que após o ato de compra e venda houve a tradição do veículo a seu novo proprietário e, considerando as infrações são posteriores a data da venda do veículo, escorreita a r. sentença que anulou os autos de infração e as correspondentes multas".
+III. O acórdão recorrido encontra-se em dissonância com a orientação firmada pela Primeira Seção do STJ, que, no julgamento do PUIL 3.248/SP, consolidou entendimento sobre o tema, no sentido de que "a não comunicação acerca da transferência de propriedade do veículo ao órgão competente atrai a responsabilidade solidária do alienante por eventuais infrações de trânsito, consoante a inteligência do art. 134 do Código de Trânsito Brasileiro" (STJ, AgInt no PUIL 3.248/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 31/03/2023). No mesmo sentido: STJ, AgInt no REsp 2.013.787/MS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/03/2023; AgInt no AREsp 1.753.941/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 16/03/2022; AgInt no REsp 1.410.369/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 03/03/2021.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 2.277.297/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Nota-se, portanto, que o Superior Tribunal de Justiça, ao firmar a jurisprudência acima declinada, limitou-se a esclarecer o teor de norma legal, a fim de solucionar a controvérsia em torno da existência de responsabilidade solidária do alienante por eventuais infrações de trânsito quando ausente a comunicação acerca da transferência de propriedade do veículo ao órgão competente.
+Desse modo, não há qualquer óbice a que tal entendimento seja, desde logo, aplicado ao caso dos autos, sendo irrelevante a informação de que a infração administrativa fora constituída em momento no qual a jurisprudência era no sentido de que o art. 134 do CTB deveria ter sua interpretação mitigada. Isso porque a mera alteração jurisprudencial, por si só, não tem o condão de ofender dos princípios da segurança jurídica, da boa-fé e da garantia do acesso à justiça. A esse respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IMPUGNAÇÃO INTEMPESTIVA DE DÉBITO TRIBUTÁRIO NA VIA ADMINISTRATIVA. SUSPENSÃO DO PRAZO PRESCRICIONAL.
+ARTS. 151, III, E 174, DO CTN.
+1. O Superior Tribunal de Justiça, atualmente, tem entendimento firme no sentido de que o recurso administrativo, mesmo quando interposto intempestivamente, suspende a exigibilidade do crédito tributário, bem como o curso do prazo prescricional, que somente volta a fluir da notificação do contribuinte acerca do trânsito em julgado da decisão administrativa. Precedentes.
+2. A Primeira Seção firmou entendimento de que eventual "alteração jurisprudencial, por si só, não ofende os princípios da segurança jurídica, não sendo o caso de modulação de efeitos porquanto não houve declaração de inconstitucionalidade de lei" (EDcl nos EDcl no REsp 1.060.210/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 8/9/2014). No mesmo sentido: EDcl nos EREsp 1.134.957/SP, Rel. Ministro Francisco Falcão, Corte Especial, DJe 6/6/2017; AgInt nos EREsp 1.281.431/MG, Rel. Ministro Humberto Martins, Corte Especial, DJe 27/10/2017: AgRg no REsp 1.348.902/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 19/12/2014.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.394.912/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/4/2019, DJe de 4/4/2019.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
