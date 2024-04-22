@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO VOLKSW AGEN S.A. contra decisão que inadmitiu recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/10/2023.
+Concluso ao gabinete em: 02/04/2024.
+Ação: de busca e apreensão de veículo, ajuizada pelo recorrente em desfavor de MAURA SANTANA DOS SANTOS, devido ao inadimplemento de contrato de financiamento com cláusula de alienação fiduciária em garantia.
+Sentença: indeferiu a petição inicial e julgou extinto o processo, sem resolução do mérito, em razão da ausência de comprovação da constituição do devedor em mora.
+Acórdão: negou provimento à apelação do agravante, nos termos da seguinte ementa (e-STJ Fls. 99/100):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. SENTENÇA DE EXTINÇÃO DOFEITO SEM RESOLUÇÃO DO MÉRITO. NOTIFICAÇÃOEXTRAJUDICIAL NÃO ENTREGUE AO DEVEDOR. MOTIVO: "DESTINATÁRIO DESCONHECIDO". AUSÊNCIADE PROTESTO DO TÍTULO. CONSTITUIÇÃO EM MORANÃO COMPROVADA. CONDIÇÃO ESPECÍFICA DEPROCEDIBILIDADE DA AÇÃO NÃO ATENDIDA. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇAMANTIDA.
+I - Trata-se de recurso de apelação, interposto pela parte autora, em face da sentença que extinguiu a ação de busca e apreensão, sem resolução do mérito, por ausência de pressuposto de constituição e de desenvolvimento válido do processo;
+II - Nos termos do 3º do Decreto-Lei n.º 911/69 e da Súmula n.º 72 do STJ, a constituição em mora do devedor é requisito indispensável para o ajuizamento da ação de busca e apreensão fundada em alienação fiduciária;
+III - Embora o art. 2º, § 2º, do Decreto Lei n.º 911/69 não exija, para a constituição em mora, a assinatura do próprio destinatário, a notificação extrajudicial deve ser efetivamente entregue no endereço do devedor, de modo a cientificá-lo, possibilitando-lhe, assim, adimplir o débito e garantir a manutenção do bem em sua posse, o que não ocorreu na hipótese dos autos;
+IV - Destarte, considerando a invalidade da notificação extrajudicial juntada à peça vestibular, somada à ausência de protesto do título, tem-se que a instituição credora não logrou êxito em comprovar a constituição em mora do devedor fiduciante (condição da ação de busca e apreensão), tornando-se imperiosa a manutenção da sentença que extinguiu o feito sem resolução do mérito;
+V - Recurso conhecido e não provido. Sentença mantida.
+Recurso especial: alega violação do artigo 2º, §2º, do Decreto-Lei 911/69, bem como dissídio jurisprudencial. Sustenta, em síntese, que o acórdão recorrido violou o referido dispositivo ao decidir que a notificação enviada à recorrida era inválida, mesmo reconhecendo que a notificação foi enviada no endereço indicado no contrato e que não foi recebida devido a recorrida ser desconhecida no local.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da constituição em mora do devedor em ação de busca e apreensão fundada em contrato garantido com alienação fiduciária
+O Tribunal de origem, ao afastar o atendimento dos requisitos para comprovação da mora do devedor, fundamentou que:
+"Destarte, a constituição em mora que, inicialmente, comprovar-se-ia com o mero descumprimento da obrigação, deverá ser consubstanciada em notificação extrajudicial que será enviada ao endereço do inadimplente, possibilitando-lhe, assim, adimplir o débito e garantir a manutenção do bem em sua posse, sendo dispensável que este pessoalmente assine a aludida missiva.
+No caso em voga, verifico que a instituição financeira credora enviou notificação extrajudicial ao endereço fornecido pela parte ré no pacto.
+Ora, nos casos em que a missiva enviada pela instituição bancária sequer tenha sido recebida no endereço de destino - mesmo sendo aquele informado no instrumento contratual -, a indispensável demonstração da mora do devedor não estará satisfeita, o que cria um óbice ao processamento da ação de busca e apreensão.
+Malgrado o art. 2º, § 2º, do Decreto Lei n.º 911/69 não exija, para a constituição em mora, a assinatura do próprio destinatário, a notificação extrajudicial deve ser efetivamente entregue no endereço do devedor, de modo a cientificá-lo, oque não ocorreu na hipótese dos autos.
+Nesse panorama, caberia à credora, após restar infrutífera a entrega da notificação extrajudicial no endereço declinado no contrato, empreender maiores diligências no sentido de localizar o recorrido e constitui-lo em mora.
+Ressalte-se que o ordenamento jurídico coloca à disposição do credor fiduciário outros mecanismos de constituição do devedor em mora, como, por exemplo, o protesto do título que materializa a dívida em Tabelionato do domicílio ou da praça de pagamento constante do contrato.
+Considerando a invalidade da notificação extrajudicial juntada à exordial, somada à ausência de protesto do título, tem-se que a credora fiduciária não logrou êxito em demonstrar a constituição em mora da devedora fiduciante, que é condição da ação de busca e apreensão (pressuposto de constituição e de desenvolvimento válido e regular do processo), tornando-se imperiosa a manutenção da sentença de extinção do feito sem resolução do mérito." (e-STJ Fls. 119/121)
+Essa decisão, todavia, diverge do entendimento do STJ no sentido de que "em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros". Nesse sentido: REsp n. 1.951.662/RS, Segunda Seção, DJe de 20/10/2023.
+Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para anular o acórdão recorrido e determinar a devolução dos autos ao juízo de origem a fim de que se processe a ação de busca e apreensão.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC, em razão do provimento do apelo especial (EDcl no AgInt no REsp 1573573/RJ, Terceira Turma, DJe de 08/05/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Ação de busca e apreensão.
+2. Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Agravo conhecido. Recurso especial conhecido e provido.
