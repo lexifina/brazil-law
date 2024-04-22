@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão de fls. 76-79, de minha relatoria.
+O embargante sustenta a ocorrência de erro material pois a pretensão posta no writ é diversa daquela foi objeto da decisão ora embargada.
+Requer seja sanado o vício de modo a se acolher os embargos de declaração para que se pronuncie sobre o pedido formulado no writ.
+É o relatório.
+Decido.
+Cumpre consignar, desde logo, que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado, nos efeitos infringentes.
+No caso, após percuciente análise dos autos, constato que há erro material a ser sanado, pelo que passo à nova análise do quanto alegado pelo impetrante.
+Com efeito, verifica-se que o caso dos autos trata de habeas corpus com pedido de liminar impetrado contra acórdão assim ementado (fl. 11):
+AGRAVO EM EXECUÇÃO - INDULTO NATALINO - DECRETO PRESIDENCIAL Nº 11.302/2022 - RECURSO ALMEJANDO O DEFERIMENTO DO BENEFÍCIO - NÃO ACOLHIMENTO. PENAS UNIFICADAS QUE SUPERAM CINCO ANOS. AUSÊNCIA DE REQUISITO OBJETIVO. AFRONTA AO ARTIGO 11º DO DECRETO Nº 11.302/2022. RECURSO NÃO PROVIDO.
+Consta dos autos que o juízo da execução indeferiu o pedido de indulto formulado pela defesa do ora embargante com base no Decreto Presidencial n. 11.302/2022 nos autos n. 7000724-24.2006.8.26.0114.
+Inconformada, a defesa interpôs agravo em execução perante o Tribunal de origem, que foi improvido nos termos da ementa acima transcrita.
+Sustenta a defesa que os crimes sobre os quais cabem indulto não foram cometidos em concurso com nenhum dos crimes impeditivos do art. 7º.
+Alega, ainda, que "A referência a "concurso" de crimes deve ser interpretada como sendo aquela descrita nos artigos 69 e 70, do Código Penal, isto é, nas hipóteses em que o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, bem como nas situações em que o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não" (fls. 6-7).
+Requer a concessão da ordem para que seja concedido o indulto.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+O acórdão impugnado, no que importa ao caso, está assim fundamentado (fls. 13-14):
+Na espécie, verifica-se que o Decreto Presidencial n.º 11.302/2022 determina a unificação das penas correspondentes a infrações diversas e veda, de forma explícita, a concessão da benesse para crime não impeditivo enquanto não estiver cumprida a pena por um dos crimes impeditivos elencados no seu artigo 7º, dentre os quais, aqueles considerados hediondos ou a eles equiparados (artigo 11).
+In casu, o agravante cumpre penas em razão de condenações diversas, que, unificadas, ultrapassam 05 (cinco) anos, circunstância proibida pelo Decreto nº 11.302/2022.
+ ..
+Ademais, o sentenciado ainda cumpre pena por crime impeditivo, o que igualmente inviabiliza a concessão do indulto.
+Assim, entendo não cumpridas as exigências legais para o usufruto do Indulto Natalino do ano de 2022.
+O Tribunal de origem considerou não preenchido o requisito previsto no artigo 5º do Decreto n. 11.302/2022, pois concluiu que o sentenciado cumpre penas corporais unificadas que superam o limite máximo previsto de 5 anos.
+Acerca do tema, "" a  jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro Felix Fischer, Quinta Turma, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra Laurita Vaz, Sexta Turma, Dje 10/04/2019)" (AgRg no HC 623.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/03/2021)" (AgRg no REsp n. 1.960.472/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 16/12/2021.)" (AgRg no HC n. 824.862/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/8/2023, DJe de 28/8/2023).
+Assim, a partir da interpretação restritiva supracitada, a Terceira Seção/STJ, nos autos do AgRg no HC n. 856.053/SC, firmou o entendimento de que "no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos", o que possibilita a concessão de indulto para os crimes que preenchem os requisitos legais previstos no Decreto n. 11.302/2022, quando cometidos em contextos fáticos distintos, como ocorre no presente caso. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido. (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+Dessa forma, acolho os embargos de declaração para sanar erro material, tornando sem efeito a decisão anteriormente proferida (fls. 76-79), de modo a conceder o habeas corpus, tão somente para determinar o retorno dos autos ao juízo da execução, para nova análise, afastando-se o impedimento relativo à existência do concurso de crimes cometidos em contextos diversos.
+Publique-se.
+Intimem-se.
+EMENTA
