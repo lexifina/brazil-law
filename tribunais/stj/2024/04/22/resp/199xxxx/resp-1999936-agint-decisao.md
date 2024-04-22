@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por SUELI ROSA DA CRUZ DO NASCIMENTO contra  a  decisão  de minha relatoria que reconsiderou parcialmente decisão anterior para não conhecer do recurso especial (fls. 871/872).
+A questão de batida nos autos, qual seja, a "Definição do termo inicial dos juros moratórios no caso de demanda em que se pleiteia reparação moral decorrente de mau cheiro oriundo da atividade de prestação de serviço público de tratamento de esgoto", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.221/STJ), do REsp 2.090.538/PR e do REsp 2.094.611/PR de relatoria do Ministro Sérgio Kukina.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
