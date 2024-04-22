@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. DANOS MORAIS. RESTITUIÇÃO INTEGRAL. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Cuida-se de ação de rescisão de contrato de compra e venda de bem imóvel cumulada com devolução de quantias pagas, suspensão de pagamentos e indenização por danos morais e lucros cessantes.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+3. O acórdão embargado, de maneira clara e fundamentada, entendeu que as partes embargantes não impugnaram de forma efetiva a Súmula n. 83/STJ, pois não apresentaram precedentes contemporâneos que demonstrem a alteração do entendimento, razão pela qual se mostra correta a aplicação da Súmula n. 182/STJ.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por MAXIMO CONSTRUTORA E INCORPORADORA EM RECUPERACAO JUDICIAL LTDA, LAGOA GRANDE PARTICIPACOES LTDA e S.P.E - MAXIMO DUETTO INCORPORADORA LTDA EM RECUPERACAO JUDICIAL contra acórdão da Terceira Turma do STJ (fls. 845-853) que manteve decisão monocrática proferida pela Ministra Maria Thereza de Assis Moura, por meio da qual não conheceu do agravo em recurso especial (fls. 806-808).
+O acórdão ora embargado foi proferido com a seguinte ementa (fl. 845):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. DANOS MORAIS. RESTITUIÇÃO INTEGRAL. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Cuida-se de ação de rescisão de contrato de compra e venda de bem imóvel cumulada com devolução de quantias pagas, suspensão de pagamentos e indenização por danos morais e lucros cessantes.
+2. O recurso especial interposto foi inadmitido com fundamento na incidência da Súmula n. 83/STJ.
+3. Incide o óbice da Súmula n. 182/STJ quando a decisão recorrida aplica o entendimento da Súmula n. 83/STJ ao caso concreto, e a parte recorrente deixa de comprovar que o precedente nela indicado não se aplica à espécie e não traz julgados contemporâneos ou supervenientes ao referido na decisão, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou que a divergência é atual (AgInt no REsp n. 1.881.480/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022).
+Agravo interno improvido.
+Sustentam as partes embargantes que (fl. 862-863):
+ ..  não restou clara a ideia estampada no julgado ora recorrido pois, conforme demonstrado no Agravo em Recurso Especial, ao contrário do decidido, o recurso rejeitado demonstrou a clara e adequada fundamentação acerca dos requisitos para sua admissão, ante o dissídio jurisprudencial evidente no acórdão recorrido, para que o TJ-GO passe a adotar o entendimento do TJ-RS e do próprio STJ, com relação a ausência de comprovação dos lucros cessantes.
+ ..
+15. Em assim sendo, restou obscuro o Acórdão proferido por esta Corte, pois não houve sequer a análise do dissídio jurisprudencial apontado, qual seja, o entendimento firmado pelo TJ-GO divergir do adotado por outros Tribunais (TJRS, TJMG, TJSP e STJ) no tocante a ausência de comprovação dos lucros cessantes e, consequentemente, a sua condenação indevida, bem como ao direito de as recorrentes reterem 25% (vinte e cinco por cento) dos valores efetivamente pagos pela recorrida e, por último, com relação a legalidade da comissão de corretagem no caso concreto, pontos esses que foram escorreitamente narrado nas razões do recurso interposto.
+Requerem, ao final, o acolhimento dos embargos declaratórios.
+A parte embargada, instada a manifestar-se, silenciou (fl. 868).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. DANOS MORAIS. RESTITUIÇÃO INTEGRAL. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Cuida-se de ação de rescisão de contrato de compra e venda de bem imóvel cumulada com devolução de quantias pagas, suspensão de pagamentos e indenização por danos morais e lucros cessantes.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+3. O acórdão embargado, de maneira clara e fundamentada, entendeu que as partes embargantes não impugnaram de forma efetiva a Súmula n. 83/STJ, pois não apresentaram precedentes contemporâneos que demonstrem a alteração do entendimento, razão pela qual se mostra correta a aplicação da Súmula n. 182/STJ.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Em síntese, cuida-se de ação de rescisão de contrato de compra e venda de bem imóvel cumulada com devolução de quantias pagas, suspensão de pagamentos e indenização por danos morais e lucros cessantes interposta por FLAMBOYANT INCORPORADORA LTDA. contra MAXIMO CONSTRUTORA E INCORPORADORA EM RECUPERACAO JUDICIAL LTDA., LAGOA GRANDE PARTICIPACOES LTDA. e S.P.E - MAXIMO DUETTO INCORPORADORA LTDA. EM RECUPERACAO JUDICIAL.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Verifica-se que o acórdão embargado consignou que as embargantes não se desincumbiram, no agravo em recurso especial, de impugnar a Súmula n. 83/STJ quanto à restituição integral dos valores desembolsados pelo promitente comprador nas hipóteses de resolução do contrato de compra e venda de bem imóvel por culpa exclusiva do promitente vendedor, conforme trecho a seguir transcrito (fl. 850):
+Percebe-se que as partes agravantes não impugnaram o referido enunciado sumular, pois não apresentaram, no agravo em recurso especial, precedentes relativos à controvérsia recursal que atendam aos requisitos de contemporaneidade ou superveniência em relação aos indicados na decisão de inadmissibilidade. A ausência de impugnação efetiva à Súmula n. 83/STJ impede o conhecimento do recurso.
+Para afastar a aplicação da Súmula n. 83/STJ, as partes embargantes deveriam ter apresentado precedentes desta Corte que demonstrassem ser outro o entendimento jurisprudencial ou ter realizado distinção entre os casos, o que não foi feito.
+Ademais, cumpre destacar que o recurso especial nem sequer ultrapassou a barreira da admissibilidade, razão pela qual não há que se falar em omissão ou obscuridade do acórdão recorrido pelo não enfrentamento do mérito recursal, no que se refere ao dissídio jurisprudencial.
+Na verdade, as partes embargantes não se conformam com o não conhecimento do agravo em recurso especial e, ainda neste momento, pleiteiam novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa. A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS.1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa. 2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c. 3. Embargos de declaração rejeitados.(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
