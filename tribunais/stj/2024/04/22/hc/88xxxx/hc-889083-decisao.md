@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por LUIZ FAGNER GOMES SANTOS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, prolatado no julgamento do HC n. 1022153-27.2023.8.11.0000.
+Extrai-se dos autos que o paciente está preso preventivamente, por força de decisão proferida no bojo da "Operação Ativo Oculto", em virtude da suposta prática dos delitos tipificados no art. 2º, caput, e § 3º, da Lei n. 12.850/2013 e art. 1º, § 4º, da Lei n. 9.613/1998 (integrar organização criminosa e ocultação de capitais, na forma majorada).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, cuja Segunda Câmara Criminal, em 8/11/2023, denegou a ordem nos termos do acórdão de fls. 180/184, que restou assim ementado:
+"HABEAS CORPUS. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA (ART. 2º, CAPUT E § 3º DA LEI 12.850/13) E LAVAGEM DE CAPITAIS (ART. 1º, § 4º DA LEI 9.613/98). INSUFICIÊNCIA DE FUNDAMENTAÇÃO. DESCABIMENTO. PRISÃO PREVENTIVA. MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA, GARANTIA DA ORDEM PÚBLICA, EM RAZÃO DO PACIENTE EXERCER LIDERANÇA NA ORGANIZAÇÃO CRIMINOSA. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE. AÇÃO MANDAMENTAL QUE NÃO COMPORTA DILAÇÃO OU PRODUÇÃO PROBATÓRIA. ORDEM DENEGADA.
+1. Em suma, o decreto prisional expõe, de modo claro e suficiente, os motivos da prisão cautelar (art. 93, IX da Constituição Federal de 1988), justificando inteiramente o isolamento do paciente no "raio 08" da penitenciária central do Estado, em razão das investigações terem apontado indícios suficientes de que o beneficiário não só integra organização criminosa "comando vermelho", como também exerce possivelmente forma de liderança nela, expondo sobremaneira sua periculosidade, além, é claro, de seus diversos antecedentes criminais - ou seja, se houver excesso, não é na decisão da autoridade judiciária, mas sim na administração carcerária. Assim, não há dúvida que a prisão preventiva está adequadamente motivada, com base em elementos concretos da ação penal (art. 2º e 6º da Portaria 20/2023/SAAP/GAB/SESP e art. 52, § 1º, I e II da Lei de Execução Penal).
+2. "Diversamente do que conclui o recorrente, a jurisprudência desta Suprema Corte veda, em sede de habeas corpus, não só a dilação probatória como também a revaloração de fatos e provas, notadamente em fase incipiente da ação penal, em que sequer terminou a instrução processual. Precedentes." (..) (HC 177328 AgR, rel. Edson Fachin, Segunda Turma, julgado em 19/10/2021, publicado em 23/11/2021)." (fls. 180/181).
+A defesa aduz a ilegalidade da imposição da prisão preventiva asseverando, em síntese: a) a falta indícios suficientes de autoria e de prova da materialidade dos delitos imputados; b) a inidoneidade da fundamentação evocada para decretar e manter a prisão preventiva, por carência de demonstração dos pressupostos e requisitos dispostos no art. 312 do Código de Processo Penal; c) a inviabilidade da utilização de condenações e antecedentes para justificar a custódia cautelar; d) a presença de condições pessoais favoráveis, indicativas da desnecessidade da segregação cautelar; e e) a inexistência de irregularidade na aquisição de patrimônio pelo paciente (fls. 3/92).
+Requer, assim, a concessão da ordem a fim de deferir liberdade provisória ao paciente, mesmo que aplicadas, cumulativamente, medidas cautelares menos gravosas.
+A liminar foi indeferida por decisão de fls. 341/344.
+As informações foram prestadas às fls. 381/541 e 544/547.
+É o relatório.
+Decido.
+A irresignação encontra-se prejudicada.
+Com efeito, consta das informações de fls. 544/547 que foi revogada a prisão preventiva decretada contra o ora paciente, com a expedição do respectivo alvará de soltura em 24/4/24.
+Ante o exposto, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimem-se.
+ EMENTA
