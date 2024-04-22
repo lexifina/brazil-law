@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. IMPETRAÇÃO INDEFERIDA LIMINARMENTE PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. REVOGAÇÃO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INCOMPATIBILIDADE DA MANUTENÇÃO DA PRISÃO CAUTELAR COM O REGIME FIXADO NA SENTENÇA. MATÉRIAS JÁ ANALISADAS NO HC N. 890.110 - SE. MERA REITERAÇÃO.
+1. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. A referida súmula somente pode ser superada em hipóteses de flagrante constrangimento ilegal, teratologia ou constatação de falta de razoabilidade.
+3. As questões referentes à ausência de fundamentação idônea a justificar a decretação da prisão cautelar e a incompatibilidade da manutenção da prisão preventiva, com o regime fixado na sentença, já foram analisadas, sendo mera reiteração da pretensão trazida no HC n. 890.110 - SE, processo conexo a este, cujo pedido foi indeferido.
+4. Assente nesta Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Presidência que indeferiu liminarmente o habeas corpus (fls. 112-115).
+Consta dos autos que o agravante foi condenado às penas de 7 anos e 11 meses de reclusão, no regime semiaberto, além do pagamento de 20 dias-multa, pela prática do delito capitulado no art. 157, § 2º, II e § 2º-A, I, na forma do art. 69, todos do Código Penal, bem como 3 meses de detenção, em regime aberto, em razão da prática do crime previsto no art. 307 do CP, sendo-lhe negado o direito de apelar em liberdade.
+No presente agravo, sustenta o insurgente que deve ser superado o óbice da Súmula n. 691/STF, tendo em vista a ausência de fundamentação idônea do juízo sentenciante que negou ao agravante o direito de recorrer em liberdade, "somente discorrendo acerca da necessidade de assegurar a lei penal, a possibilidade de reiteração delitiva e o cometimento do delito em concurso de agentes" (fl. 122), baseando-se no modus operandi do crime praticado.
+Argumenta que "a manutenção da prisão preventiva, em ambiente fechado, viola o regime prisional fixado na sentença penal condenatória", a qual fixou o semiaberto.
+Assim, almeja a revogação da prisão preventiva ou a substituição pelas medidas alternativas previstas no art. 319 do Código de Processo Penal.
+Requer a reconsideração da decisão agravada ou a submissão do recurso ao colegiado para que seja concedida a ordem vindicada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. IMPETRAÇÃO INDEFERIDA LIMINARMENTE PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. REVOGAÇÃO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INCOMPATIBILIDADE DA MANUTENÇÃO DA PRISÃO CAUTELAR COM O REGIME FIXADO NA SENTENÇA. MATÉRIAS JÁ ANALISADAS NO HC N. 890.110 - SE. MERA REITERAÇÃO.
+1. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. A referida súmula somente pode ser superada em hipóteses de flagrante constrangimento ilegal, teratologia ou constatação de falta de razoabilidade.
+3. As questões referentes à ausência de fundamentação idônea a justificar a decretação da prisão cautelar e a incompatibilidade da manutenção da prisão preventiva, com o regime fixado na sentença, já foram analisadas, sendo mera reiteração da pretensão trazida no HC n. 890.110 - SE, processo conexo a este, cujo pedido foi indeferido.
+4. Assente nesta Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+5. Agravo regimental improvido.
+VOTO
+Verifica-se que a presente impetração foi ajuizada contra decisão que indeferiu pleito liminar. Dessa forma, incide sobre a matéria o enunciado 691 da Súmula do Supremo Tribunal Federal - STF, o que inviabiliza o conhecimento do writ.
+Ressalte-se que a referida súmula somente pode ser superada em hipóteses de flagrante constrangimento ilegal, o que não se verifica nos presentes autos. Com efeito, a Presidência desta Corte indeferiu o pedido liminar do feito destacando o seguinte, in verbis (fls. 112-115):
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Em especial quanto à tese de ausência de fundamentação da prisão, não há flagrante ilegalidade pois a manutenção da segregação cautelar na sentença condenatória não exige a existência de fatos novos, mas apenas a indicação de que os motivos que ensejaram a decretação da prisão preventiva ainda se encontram presentes (AgRg no HC n. 801.662/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 6/3/2023; AgRg no HC n. 736.957/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/8/2022; AgRg no HC n. 789.167/PE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/3/2023; AgRg no RHC n. 172.521/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 9/3/2023; AgRg no RHC n. 170.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/12/2022).
+Ademais, compulsando os autos, verifica-se que a prisão tem por base elementos concretos que indicam a gravidade do crime tendo em vista o modus operandi empregado na prática do delito, em especial por ter sido cometido "mediante concurso de agentes e com emprego de arma fogo." (fl. 100).
+Em relação à contemporaneidade dos motivos que ensejaram a prisão preventiva, não há flagrante ilegalidade, pois, segundo julgados do STJ, seu exame leva em conta não apenas o tempo entre os fatos e a segregação processual, mas também a necessidade e a presença dos requisitos da prisão no momento da sua decretação, sendo que a gravidade concreta do delito impede o esgotamento do periculum libertatis apenas pelo decurso do tempo (AgRg no RHC n. 169.803/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/2/2023; AgRg no HC n. 707.562/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/3/2022; AgRg no HC n. 789.691/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/2/2023; AgRg no HC n. 775.563/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/12/2022; HC n. 741.498/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022).
+Por fim, quanto à tese de ilegalidade da segregação processual em razão da incompatibilidade entre a prisão preventiva e o regime semiaberto fixado na sentença condenatória não há teratologia nas decisões de origem porque, no caso dos autos, em princípio, já foi determinada a adequação da segregação cautelar com as regras próprias desse regime (fl. 101).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+As questões referentes à ausência de fundamentação idônea a justificar a decretação da prisão cautelar e a incompatibilidade da manutenção da prisão preventiva, com o regime fixado na sentença, já foram analisadas, sendo mera reiteração da pretensão trazida no HC n. 890.110 - SE, processo conexo a este, cujo pedido foi indeferido.
+Assente nesta Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017). Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDOS EM OUTRAS IMPETRAÇÕES NESTE STJ (HC n. 688.168/S, HC n. 777.295/SP E HC n. 857.664/SP). MÉRITO AMPLAMENTE ANALISADO NO PRIMEIRO WRIT (INVASÃO DE DOMICÍLIO). INDEFERIMENTO LIMINAR PELA RELATORIA ANTERIOR. SÚMULA N. 182/STJ. AGRAVO CONHECIDO E DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, o agravante e seus comparsas foram presos em flagrante e condenados pelo crime de tráfico de drogas, o que resultou na apreensão de cerca de um quilo de cocaína.
+III - Nesta Corte, o presente habeas corpus foi indeferido liminarmente pela Em. Relatoria anterior, pois não passou de uma reiteração de pedidos no HC n. 688.168/S, no HC n. 777.295/SP e no HC n. 857.664/SP, tendo sido o mérito aqui posto (violação de domicílio) amplamente analisado na primeira impetração.
+IV - Assente neste STJ que não se conhece de habeas corpus (e do seu recurso) que objetiva a simples reiteração de pedido analisado em momento anterior na mesma Corte. Precedentes.
+V - No mais, os argumentos lançados atraem a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental conhecido e desprovido.
+(AgRg no HC n. 777.969/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Não se vislumbra, portanto, pelo que ora se divisa, motivo para conclusão diversa, melhor cabendo o exame da pretensão do agravante no julgamento de mérito pelo colegiado da Corte a quo, juiz n atural da causa, assim inclusive garantindo-se a necessária segurança jurídica.
+A decisão agravada deve ser mantida, não havendo ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF, pelo que nego provimento ao agravo regimental.
+É o voto.
