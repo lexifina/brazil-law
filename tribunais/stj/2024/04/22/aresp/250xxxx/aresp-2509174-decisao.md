@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/09/2023.
+Concluso ao gabinete em: 17/04/2024.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC em face do BANCO DO BRASIL, julgada procedente para condenar a instituição financeira a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Decisão interlocutória: deferiu o "pedido de penhora on line, a título de valor remanescente, nas contas do Banco do Brasil, no valor de R$ 965.126,71 (novecentos sessenta e cinco mil cento e vinte e seis reais e setenta e um centavos)" (e-STJ, fl. 376).
+Acórdão: deu provimento ao agravo de instrumento da Instituição bancária (agravante) para reconhecer a incompetência do TJ/AL, determinando a remessa do cumprimento de sentença ao TJ/SP para que execução retorne seu regular trâmite naquele juízo.
+Embargos de Declaração: opostos pelos agravados foram acolhidos para reconhecer a competência do TJ/AL para o julgamento do cumprimento de sentença decorrente de sentença coletiva, nos termos da seguinte ementa (e-STJ, fl. 555):
+"EMBARGOS DEDECLARAÇÃO EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OMISSÃO. OMISSÃO NÃO CONFIGURADA. RECONHECIMENTO, DE OFÍCIO, DO ERRO MATERIAL. CORREÇÃO DE ERRO DE PREMISSA EQUIVOCADO QUANDO DO JULGAMENTO DO RECURSO DEAGRAVO DE INSTRUMENTO. INTELIGÊNCIA DO ART. 1.022 DO CPC. ENTENDIMENTO QUE CONSAGRA O DEVER DE GARANTIR A ESTABILIDADE DA JURISPRUDÊNCIA DESTACORTE DE JUSTIÇA. INTELIGÊNCIA DO ART. 926 DO CPC. COMPETÊNCIA DESTA CORTE DE JUSTIÇA PARA O JULGAMENTO DO CUMPRIMENTO DE SENTENÇA PARA FINS DE APURAÇÃO DO VALOR DEVIDO, A TÍTULO DE EXPURGOS INFLACIONÁRIOS, PROPOSTA PELO INCPP. PRECEDENTES DO STJ E DESTA CORTE DE JUSTIÇA. RECURSO CONHECIDO E ACOLHIDO. ACOLHIMENTO PORMAIORIA DE VOTOS."
+Recurso especial: alega violação dos arts. 98, § 2º, II e 101, I, do Código de Defesa do Consumidor; 509, II e o Art. 523 do Código de Processo Civil; 5º XXXVI, da Constituição da República, além de dissídio jurisprudencial. Sustenta, em síntese, a incompetência territorial do TJ/AL para o julgamento da demanda; o excesso de execução; a apuração dos cálculos por perícia contábil, com apresentação de cálculos pelo recorrente.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pelo recorrente em seu recurso especial quanto aos arts. 509 e 523 do CPC (apuração dos cálculos por perícia co ntábil e excesso de execução), não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Da Súmula 568 do STJ
+O Superior Tribunal de Justiça detém o posicionamento, no sentido de que, a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal (REsp 1391198/RS, 2º Seção, DJe 02/09/2014).
+Aplica-se, portanto, a Súmula 568 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. AÇÃO CIVIL PÚBLICA EM FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ.
+1. Ação civil pública, em fase de cumprimento individual de sentença, na qual se discute expurgos inflacionários.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. O acórdão recorrido que adota a orientação de acordo com a jurisprudência do STJ não merece reforma.
+6. Agravo conhecido. Recurso especial não conhecido.
