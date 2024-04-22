@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL.  DECISÃO  AGRAVADA.  FUNDAMENTOS.  IMPUGNAÇÃO  ESPECÍFICA.  AUSÊNCIA.
+1.  Nos  termos  do  que  dispõem  o  art.  1.021,  §  1º,  do  CPC/2015  e  a  Súmula  182  do  STJ,  a  parte  deve  infirmar,  nas  razões  do  agravo  interno,  os  fundamentos  da  decisão  impugnada,  sob  pena  de  não  ser  conhecido  o  seu  recurso.
+2.  Hipótese  em  que  o  recorrente  não  se  desincumbiu  do  ônus  de  impugnar,  de  forma  clara  e  objetiva,  os  motivos  da  decisão  ora  agravada.
+3.  O  causídico  subscritor  do  recurso  ultrapassou  os  limites  razoáveis  da  discussão  da  causa,  com  o  uso  de  expressões  exageradas  e  ofensivas  aos  desembargadores  do  Tribunal  de  origem,  sem  motivo  plausível,  apresentando  narrativas  totalmente  dissociadas  da  controvérsia.
+3.  Agravo  interno  não  conhecido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SAMIR  NUCCI  E  MAURÍCIO  NUCCI  (EM  CAUSA  PRÓPRIA)  contra  decisão  da  Presidente  desta  Corte  de  Justiça,  proferida  às  e-STJ  fls.  2124/2125,  em que  não  conheceu  do  agravo  em  recurso  especial,  em  face  da  ausência  de  impugnação  específica  dos  fundamentos  da  decisão  agravada,  notadamente  a  incidência  da  Súmula  284  do  STF.
+A  parte  agravante  reitera  os  argumentos  expendidos  nos  recursos  anteriores,  apontando  atos  de  perseguição  contra  a  sua  família  e  os  que  representa  nos  autos,  supostamente  praticados  pelo  juiz  da  causa  e  por  desembargadores  do  Tribunal  de  Justiça  de  São  Paulo,  visto  que  estariam  agindo  com  abuso  de  poder,  requerendo,  em  suma (e-STJ fls. 2.230/2.231):
+A)  que  encaminhe  o  processo  para  o  Doutor  Ferreira,  porque  existe  a  prevenção,  continência  matéria  principal  a  hierarquia  dos  Magistrados  e  Conexão  matéria  de  fundo,  ou  seja,  matéria  sobre  a  perseguição  que  ocorre  no  Egrégio  TJ;
+B)  Que  Vossa  Excelência  abra  o  arquivo  no  Egrégio  TJ-SP,  observe  o  extrato  Vossa  Excelência  ficara  surpreso,  porque  não  ocorreu  julgamentos  no  colegiado,  somente  monocráticos,  sessão  virtual  não  houve  é  uma  farsa,  não  ocorreu  intimação  do  advogado  em  nenhuma  sessão;
+C)  Que  Vossa  Excelência,  para  efeito  de  prova,  Oficie  o  setor  administrativo  do  Egrégio  STJ,  observar  quantas  guias  recolhidas  de  Recurso  em  Mandado  de  Segurança  ou  Ordinário,  Recurso  Especial,  nos  últimos  02  (dois)  anos,  CPF  USADO  PARA  RECOLHIMENTO  086.747.538/25,  O  SISTEMA  É  BOM,  PORQUE  NESSAS  GUIAS  EXISTEM  O  NUMERO  DO  PROCESSO  NA  ORIGEM.  ALGUNS  DESSES  PROCESSOS  NO  TJ-SP  DESAPARECERAM,  O  MOMENTO  É  GRAVE.  DEPOIS  OFICIAR  O  TJ-SP  PEDIR  ESCLARECIMENTOS  PELOS  FATOS  GRAVES;
+D)  Vossa  Excelência  pode  observar  que  cada  Desembargador  faz  seu  regulamento,  não  existe  mais  um  Regimento  Interno  como  antes,  o  Regimento  interno  anterior  estava  completo,  mas  o  atual  é  mínimo,  então  as  infrações  que  acontece  atualmente  não  há  como  combater,  esclarecendo  que  no  anterior  existia  o  recurso  cabível  ou  a  Ação  Cabível  contra  os  Desembargadores  mal  intencionados;
+E)  Que  Vossa  Excelência  no  final  defira,  de  procedência  a  todos  os  Recursos  juntados  e  Oficie  o  Doutor  Presidente  do  Egrégio  TJ-SP  para  que  coloque  em  vigência  o  Regimento  Interno  Anterior,  ali  está  como  agir  contra  os  Desembargadores,  porque  cada  um  tem  seu  regulamento.
+F)  Comunico  ao  Doutor  Presidente  que  será  enviada  a  presente  petição  para  o  Doutor  Ferreira,  tomar  as  providencias  cabíveis,  abrir  o  presente  arquivo,  porque  como  disse  acima,  existe  a  prevenção,  continência  e  conexão,  matérias  principal  e  de  fundo.
+Às e-STJ fls. 2.226/2.231, os recorrentes interpuseram novo agravo interno, no mesmo dia, às 19:04:32 , reiterando os argumentos anteriormente expendidos.
+Decorrido  o  prazo  legal,  o  agravado  não  apresentou  impugnação  (e-STJ  fls.  2328).
+A Vice-Presidência indeferiu o pedido de suspensão do julgamento do feito (e-STJ fls. 2571/2572). Houve pedido de reconsideração (e-STJ fls. 2.674/2.688), bem como de tutela provisória (e-STJ fls. 2.690/2.725), tendo sido ambos indeferidos às e-STJ fls. 2.726/2.729.
+Com fulcro no art. 276, § 1º, do RISTJ, não reconheci a exceção de suspeição apresentada por SAMIR NUCCI e MAURÍCIO NUCCI contra esta relatoria, tendo sido a petição desentranhada dos presentes autos e autuada como ExSusp 242/DF.
+O eminente Ministro Og Fernandes, relator da ExSusp 242/DF, não reconheceu a suspeição suscitada, com fundamento no § 1º do art. 276 do RISTJ, tendo a decisão transitado em julgado (e-STJ fl. 2.914).
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  DECISÃO  AGRAVADA.  FUNDAMENTOS.  IMPUGNAÇÃO  ESPECÍFICA.  AUSÊNCIA.
+1.  Nos  termos  do  que  dispõem  o  art.  1.021,  §  1º,  do  CPC/2015  e  a  Súmula  182  do  STJ,  a  parte  deve  infirmar,  nas  razões  do  agravo  interno,  os  fundamentos  da  decisão  impugnada,  sob  pena  de  não  ser  conhecido  o  seu  recurso.
+2.  Hipótese  em  que  o  recorrente  não  se  desincumbiu  do  ônus  de  impugnar,  de  forma  clara  e  objetiva,  os  motivos  da  decisão  ora  agravada.
+3.  O  causídico  subscritor  do  recurso  ultrapassou  os  limites  razoáveis  da  discussão  da  causa,  com  o  uso  de  expressões  exageradas  e  ofensivas  aos  desembargadores  do  Tribunal  de  origem,  sem  motivo  plausível,  apresentando  narrativas  totalmente  dissociadas  da  controvérsia.
+3.  Agravo  interno  não  conhecido.
+VOTO
+De  início,  considerando  os  parâmetros  estabelecidos  pela  Corte  Especial  do  STJ,  no  julgamento  do  EREsp  1  .424.404/SP  (rel.  Ministra  LUIS  FELIPE  SALOMÃO,  julgado  em  20/10/2021,  DJe  17/1  1/2021),  para  a  aplicação  da  Súmula  182  do  STJ  no  tocante  aos  agravos  internos  manejados  contra  decisões  proferidas  em  recurso  especial  ou  em  agravo  em  recurso  especial,  tem-se  o  seguinte:
+a)  incide  o  verbete  quando:  i)  o  único  ou  todos  os  capítulos  da  decisão  agravada  não  foi  ou  não  foram  impugnados;  ii)  não  houver  a  impugnação  de  todos  os  fundamentos  adotados  na  análise  de  determinado  capítulo  autônomo  (ou seja,  ausência  de  ataque  a  fundamento  capaz,  por  si  só,  de  manter  a  conclusão  alcançada  na  decisão  agravada);
+b)  não  se  aplica  o  óbice  sumular  no  caso  em  que  houver  vários  capítulos  autônomos  e  a  parte  agravante  não  se  insurgir  contra  algum  deles,  pois  isso  acarreta  apenas  a  preclusão  da  matéria  não  impugnada,  devendo  ser  analisado  o  que  remanesceu.
+Dito  isso,  vê-se  que,  na  hipótese  dos  autos,  o  agravo  interno  não  merece  ser  conhecido.
+No  caso,  o  agravo  em  recurso  especial  não  foi  conhecido  por  ausência  de  impugnação  específica  ao  fundamento  da  decisão  de  inadmissibilidade  do  apelo  nobre,  qual  seja,  a  aplicação  da  Súmula  284  do  STF.
+Da  leitura  das  razões  do  agravo  interno  observa-se  que  a  parte  agravante  deixou  de  atacar  o  único  fundamento  da  decisão  ora  agravada  (a  incidência,  por  analogia,  da  Súmula  182 do STJ),  limitando-se  a  apresentar  narrativa  confusa  e  absolutamente  dissociada  do  que  foi  decidido  pela  Presidência  desta  Corte.
+Na  realidade,  o  causídico  subscritor  do  recurso  ultrapassou  os  limites  razoáveis  da  discussão  da  causa,  com  o  uso  de  expressões  exageradas  e  ofensivas  aos  desembargadores  do  Tribunal  de  origem,  sem  motivo  plausível,  apresentando  motivações  totalmente  desconexas  da  controvérsia.
+Desse  modo,  forçosa  se  apresenta  a  observância  do  contido  no  art.  1.021,  § 1º,  do  Código  de  Processo  Civil  de  2015  e  na  Súmula  182  do  STJ.
+Oficie-se  a  Seção  da  Ordem  dos  Advogados  a  que  está  vinculado  o  representante  processual  (Dr.  MAURÍCIO  NUCCI),  para  o  fim  de  apuração  de  eventual  infração  disciplinar  do  causídico,  nos  termos  do  art.  77,  § 6º,  do  CPC/2015.
+Ante  o  exposto,  NAO  CONHEÇO  do  agravo  interno.
+E  como  voto.
