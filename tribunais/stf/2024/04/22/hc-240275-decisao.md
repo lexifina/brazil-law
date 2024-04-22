@@ -1,0 +1,84 @@
+DECISÃO
+
+HABEAS CORPUS. CONSTITUCIONAL. ESTELIONATO. PRISÃO FUNDAMENTADA. PRETENSÃO DE CONCESSÃO DE PRISÃO DOMICILIAR À PACIENTE. MATÉRIA NÃO EXAMINADA NO SUPERIOR TRIBUNAL DE JUSTIÇA. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+    Relatório
+
+    1. Habeas corpus, com requerimento de medida liminar, impetrado, em 19.4.2024, por Luis Gustavo da Silva Pereira, advogado, em benefício de Taisa Vicente, contra julgado da Quinta Turma do Superior Tribunal de Justiça, pelo qual, em 15.4.2024, desprovido o Agravo Regimental no Habeas Corpus n. 892.471, Relator o Ministro Ribeiro Dantas, do Superior Tribunal de Justiça:
+
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+
+    1. A prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando presentes prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do acusado. Ademais, quando da prolação da sentença, o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar.
+
+    2. No caso, a custódia cautelar da agravante está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois ela seria reincidente, além de possuir outras duas condenações recentes, também por delitos contra o patrimônio.
+
+    3. Ademais, a agravante teria permanecido foragida durante o curso do processo, circunstância que também autoriza a prisão preventiva, tendo em vista que sua liberdade colocaria em risco a aplicação da lei penal.
+
+    4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade da agravante indica que a ordem pública não estaria acautelada com sua soltura.
+
+    5. Agravo regimental não provido”.
+
+    2. O impetrante questiona a decisão judicial. Alega ausência de fundamentação idônea para a prisão cautelar, falta dos requisitos do art. 312 do Código de Processo Penal e inexistência de elementos concretos a justificá-la.
+
+    Afirma ser possível a substituição da prisão cautelar da paciente por medidas cautelares diversas, pois ela seria primária, com bons antecedentes, teria residência fixa e trabalho lícito.
+
+    Estes os requerimentos e o pedido:
+
+    “(…) requer-se seja distribuído e autuado o presente ‘writ’ e DEFERIDA ‘inaudita altera pars’ LIMINAR, a fim de ser o Paciente posto imediatamente em LIBERDADE PROVISÓRIA, restituindo a liberdade da Paciente com a consequente revogação da prisão preventiva, concedendo o direito da Paciente recorrer em liberdade, substituindo-lhe por medidas cautelares alternativas à prisão nos moldes do artigo 319, do Código de Processo Penal, ou que seja concedida a prisão domiciliar nos termos do Artigo 318 do mesmo diploma legal retro.
+
+    (...) que CONCEDA À PACIENTE, como escudo de proteção, a ordem de habeas corpus, para o fim de lhe conceder a REVOGAÇÃO DE SUA PRISÃO PREVENTIVA, com a aplicação das medidas cautelares articuladas no artigo 319, DO CÓDIGO DE PROCESSO PENAL. Caso ainda não for o entendimento de Vossa Excelência, requer-se a substituição da prisão preventiva pela prisão domiciliar, nos termos do artigo 318, inciso V, do Código de Processo Penal, respaldado pela decisão proferida pelo STF em HC nº 143.641/SP. Subsidiariamente, caso assim não se entenda, requer-se a observação das demais medidas cautelares previstas no artigo 319 do mesmo diploma. expedindo em consequência o respectivo ALVARÁ DE SOLTURA”.
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    3. O pedido apresentado pelo impetrante é manifestamente contrário à jurisprudência deste Supremo Tribunal.
+
+    4. Tem-se na denúncia que a paciente, “em 20 de junho de 2016, agindo em concurso com mais duas pessoas não identificadas, obteve, em proveito próprio e de seus comparsas, vantagem ilícita no valor de R$ 5.000,00 (cinco mil reais), em prejuízo da idosa Divanir Mendes Marques, que contava com 68 anos de idade à época do delito. Segundo apurações, a paciente e uma mulher desconhecida, utilizando-se dos nomes falsos ‘Camila’ e ‘Maria’, abordaram a vítima e lhe exibiram um papel, afirmando ser um bilhete de loteria, cujo valor era de R$ 1.300.000,00 (um milhão e trezentos mil reais). A paciente telefonou, diante da vítima, para a suposta agência bancária, momento em que a Sra. Divanir pôde escutar um terceiro criminoso confirmando a existência do prêmio. A indiciada e sua comparsa solicitaram a ajuda da idosa para resgatar o bilhete, pois a recompensariam com R$ 50.000,00 (cinquenta mil reais), mas antes, exigiram que a vítima adiantasse a quantia de R$ 5.000,00 (cinco mil reais) como garantia, o que foi feito. Ato contínuo, as criminosas se deslocaram até a suposta agência bancária, em um veículo de cor branca e, lá chegando, pediram que a idosa descesse do veículo, alegando que o estacionariam adiante. Assim que Divanir desceu do carro, as criminosas fugiram do local, levando consigo o dinheiro da vítima e seus objetos pessoais (fls. 1/3 dos autos principais). Compulsando os autos, verifica-se que a sentenciada permaneceu foragida, fazendo-se necessária sua citação por edital, com determinação de suspensão do processo e da prescrição, nos termos do art. 366 do CPP (fls. 178 dos autos principais)”.
+
+    A paciente “não foi encontrada pessoalmente, decretando-se sua prisão preventiva para garantia da ordem pública em 19/12/2017 (fls. 135/136), efetuando-se sua citação por edital (fl. 175), houve a determinação de suspensão do processo, nos termos do artigo 366 do CPP, em data de 21/11/2018 (fls. 178), houve o comparecimento espontâneo por intermédio de procurador constituído, com poderes específicos (fls. 349/350 e 406/407), revogando-se os efeitos da suspensão em 09/06/2021 (fls. 360), apresentada resposta à acusação (fls. 370/375), não sendo caso de absolvição sumária, designou-se audiência de instrução e julgamento (fl. 456), realizando-se a oitiva da vítima e, em seguida, a ré foi interrogada”.
+
+    A paciente permaneceu foragida e foi presa em flagrante por outra prática delitiva, o que possibilitou o cumprimento do mandado de prisão que estava pendente relativo à ação penal objeto da presente impetração.
+
+    5. Em 14.12.2023, o juízo da Segunda Vara Criminal e da Infância e Juventude da comarca de Votuporanga/SP condenou a paciente pela prática do delito de estelionato às penas de um ano e nove meses de reclusão e dezoito dias-multa.
+
+    Foi fixado o regime inicial fechado e negado o direito de recorrer em liberdade, sendo mantida a prisão cautelar da paciente: “(...) Em relação ao regime inicial de cumprimento de pena, não obstante o quantum da pena aplicada, observadas as regras do artigo 59 do Código Penal, tem-se que a conduta da ré foi altamente reprovável e censurável. Ademais, sua prisão preventiva foi decretada em outro feito (fls. 507/508). A ré ainda possui condenações recentes nos autos de nº 0002546- 92.2013.8.26.0189 e 0002673-23.2011.8.26.0311, por cometimento de crimes contra o patrimônio, conforme pesquisa eletrônica realizada neste ato, denotando culpabilidade acentuada, devendo receber repressão adequada e a altura da conduta, impondo que a intensidade inicial do regime de cumprimento de pena seja o regime fechado, pois as circunstâncias pessoais da agente devem ser consideradas para sua fixação, nos termos do artigo 33, § 2º, ‘c’, e § 3º, do Código Penal, sendo inviável a substituição da pena corporal por restritiva de direitos, diante da personalidade desvirtuada da ré, dos seus maus antecedentes e reincidência. Nego à ré o direito de apelar em liberdade, seja em virtude da fundamentação acima externada, bem como para evitar condutas reiteradas da mesma espécie, seja também em virtude do período em que a ré ficou foragida, não só em relação ao presente feito mas em outras acusações a ela imputadas, evidenciando o risco de sua liberdade à aplicação da lei penal”.
+
+    6. A prisão cautelar da paciente foi mantida em segunda instância pela Nona Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, ao denegar a ordem no Habeas Corpus n. 2000215-05.2024.8.26.0000 em 22.2.2024: “(…) No que concerne à permanência da ora paciente na prisão enquanto aguarda o julgamento de seu recurso, inexiste, pois, qualquer ilegalidade, mesmo porque permaneceu foragida até ser presa em flagrante por outro fato. A medida não seria razoável, apenas se a sentenciada tivesse respondido à instrução criminal em liberdade, sem qualquer alteração posterior de sua situação fática”.
+
+    7. Esse julgado foi mantido pela Quinta Turma do Superior Tribunal de Justiça, nos seguintes termos do acórdão objeto da presente impetração: “(…) Como se vê, a custódia cautelar da agravante está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois ela seria reincidente, além de possuir outras duas condenações recentes, também por delitos contra o patrimônio. (...) Ademais, a agravante teria permanecido foragida durante o curso do processo, circunstância que também autoriza a prisão preventiva, tendo em vista que sua liberdade colocaria em risco a aplicação da lei penal. Outrossim, é inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade da agravante indica que a ordem pública não estaria acautelada com sua soltura”.
+
+    8. Pelo que se tem demonstrado nestes autos, além da necessidade de se resguardar a aplicação da lei penal, pois a paciente permaneceu foragida durante o curso do processo na origem, vindo a ser cumprido o mandado de prisão apenas em razão da sua prisão em flagrante por outro delito, a prisão cautelar justifica-se pela periculosidade da paciente e gravidade concreta da conduta a ela imputada. A paciente, acusada da prática de estelionato contra idoso, tem “condenações recentes nos autos de nº 0002546-92.2013.8.26.0189 e 0002673-23.2011.8.26.0311, por cometimento de crimes contra o patrimônio, (...) denotando culpabilidade acentuada”.
+
+    Diferente do alegado na presente impetração, não se demonstra, na espécie, ausência dos requisitos do art. 312 do Código de Processo Penal.
+
+    Pelas circunstâncias do ato praticado e considerados os dados apresentados nas instâncias antecedentes, adotou-se fundamentação idônea para decretar-se a prisão e não se aplicar medida cautelar diversa. A constrição da liberdade da paciente harmoniza-se com a jurisprudência deste Supremo Tribunal, no sentido de a periculosidade do agente, evidenciada pela necessidade de se evitar reiteração delitiva e pelo modus operandi,ser motivo idôneo para a custódia cautelar. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ESTELIONATO. PRISÃO PREVENTIVA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 173.042-AgR, de minha relatoria, DJe 22.10.2019).
+
+    “Penal e processual penal. Agravo regimental em habeas corpus. Estelionato contra idoso. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal. 1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que inexiste violação ao princípio da colegialidade na utilização, pelo Ministro Relator, das faculdades previstas no art. 21, § 1º, do RI/STF. Precedentes. 2. O entendimento do Supremo Tribunal Federal é firme no sentido de que a gravidade concreta do crime e a fundada probabilidade de reiteração criminosa constituem fundamentação idônea para a decretação da custódia preventiva. Precedentes. 3. Hipótese em que ‘o crime em tese praticado se revela de especial e concreta gravidade, especialmente se considerado o concurso de pessoas, que supostamente se associaram para a prática do delito de estelionato, contra vítima idosa’. Ademais, ‘o paciente ostenta diversos registros criminais em comarcas paulistas’. 4. O art. 580 do Código de Processo Penal estabelece que, no ‘caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros’. No caso, contudo, tal como assentou o Superior Tribunal de Justiça, ‘a prisão preventiva da corré foi revogada, mediante o cumprimento de condições, por ela ser mãe de menor de 12 anos de idade (...), não se evidenciando semelhança fático-processual, nos termos do art. 580 do CPP’. 5. Agravo regimental a que se nega provimento” (HC n. 229.176-AgR, Relator o Ministro Luís Roberto Barroso, DJe 25.8.2023).
+
+    9. As instâncias antecedentes consideraram o conjunto probatório para concluir demonstrados os indícios de autoria da prática delituosa e os requisitos para prisão cautelar.
+
+    Para rever os pressupostos da custódia preventiva na forma adotada pelas instâncias antecedentes e, se fosse o caso, acolher as alegações da impetrante, seria necessário reexaminar os fatos e as provas dos autos, ao que não se presta o habeas corpus.
+
+    10. Quanto ao pedido deduzido na inicial de concessão de prisão domiciliar à paciente, porque o quadro subsumiria à decisão proferida por este Supremo Tribunal no julgamento do Habeas Corpus coletivo n. 143.641, trata-se de matéria não apreciada pela Quinta Turma do Superior Tribunal de Justiça na decisão agora posta em discussão.
+
+    É firme a jurisprudência deste Supremo Tribunal no sentido da impossibilidade de atuação jurisdicional quando a decisão impugnada no habeas corpus não tenha cuidado da matéria objeto do pedido apresentado na nova ação, sob pena de supressão de instância. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. PROCESSO PENAL. CRIME EM LICITAÇÃO. ART. 90 DA LEI N. 8.666/1993. COMPETÊNCIA. MATÉRIA NÃO EXAMINADA NO HABEAS CORPUS IMPETRADO NO SUPERIOR TRIBUNAL DE JUSTIÇA: INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. REEXAME DE PROVAS. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA NAS DECISÕES DAS INSTÂNCIAS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (RHC n. 224.710-AgR, de minha relatoria, DJe 5.5.2023).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. EXTORSÃO COM RESTRIÇÃO DE LIBERDADE DA VÍTIMA, CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. BUSCA E APREENSÃO DETERMINADA PELO JUÍZO DE ORIGEM. ACESSO A DADOS DE APARELHOS CEULARES PELA POLÍCIA CIVIL. POSSIBILIDADE. EVENTUAL RECONHECIMENTO DE NULIDADE DAS PROVAS INSUFICIENTE A INFIRMAR A SENTENÇA CONDENATÓRIA. MATÉRIAS NÃO EXAMINADAS PELAS INSTÂNCIAS ANTECEDENTES. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 200.793-AgR, de minha relatoria, DJe 2.6.2021).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO AGRAVADA EM HARMONIA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE QUE ORIENTA A MATÉRIA SOB EXAME. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA SOBRE A MATÉRIA DE FUNDO DA IMPETRAÇÃO.REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO AO QUAL SE NEGA PROVIMENTO. I - A decisão ora atacada não merece reforma ou qualquer correção, pois os seus fundamentos harmonizam-se estritamente com a jurisprudência desta Suprema Corte que orienta a matéria em questão. II –A orientação jurisprudencial deste Supremo Tribunal é firme no sentido de que, ‘[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância’ (HC 119.600-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma). III - O presente recurso mostra-se inviável, pois contém apenas a reiteração dos argumentos de defesa anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões decisórias por mim proferidas. IV - Agravo ao qual se nega provimento” (HC n. 186.069-AgR, Relator o Ministro Ricardo Lewandowski, DJe 11.3.2021).
+
+    11. Pela jurisprudência do Supremo Tribunal Federal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental”
+(HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+
+    12. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+    Publique-se.
+
+    Brasília, 22 de abril de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
