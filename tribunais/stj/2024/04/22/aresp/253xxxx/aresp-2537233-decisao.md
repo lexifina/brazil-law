@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTOPROVISÓRIO DE SENTENÇA. AÇÃO DE COBRANÇA. RECURSO PROVIDO.
+Embargos de Declaração não acolhidos às fls. 94-100.
+Recurso Especial às fls. 102-129.
+Contrarrazões às fls. 151-190.
+Decisão pela inadmissibilidade do Recurso Especial às fls. 191-194.
+A agravante pleiteia:
+(..)
+E mais, tratando-se de impugnação ao cumprimento de sentença, tendo o Executado depositado de movo voluntário e tempestivo o montante perseguido, a imposição de verba honorária estaria condicionada ao montante controvertido, se rejeitada a impugnação.
+Logo, a r. decisão agravada cita jurisprudência que a contraria, distorcendo o entendimento desta Superior Corte e aplicando-o em sentido exatamente oposto. IV-DA CONCLUSÃO
+Do exposto, requer seja provido o presente agravo provido, determinando-se subida dos autos principais para o julgamento do recurso especial, na forma do artigo 1.042 do Novo Código de Processo Civil, e artigo 253 do Regimento Interno desse E. Tribunal, para que seja desde logo conhecido e provido o recurso especial, como medida do mais lídimo direito e Justiça.
+Contraminuta às fls. 216-234.
+Parecer do MPF pelo "não conhecimento do Agravo em Recurso Especial às fls. 256-258.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.4.2024.
+O Recurso Especial foi inadmitido por não ter havido violação ao art. 1.022 do CPC/2015 no aresto impugnado e por incidência das Súmulas 7 e 83/STJ.
+O Agravo é tempestivo e nele foram refutados todos os motivos que ensejaram a inadmissão do Recurso, razão pela qual merece conhecimento. Dessa feita, passo a analisar o Recurso Especial.
+A recorrente alega malferimento dos arts. 139, I, 489, § 1º, IV e V, 520, caput, IV e § 3º, 523, caput e §§ 1º e 2º, e 1.022, I e II, do CPC.
+A irresignação não merece prosperar.
+Inicialmente, constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Colegiado originário julgou integralmente a lide, ainda que de modo oposto à pretensão da recorrente, e solucionou a controvérsia em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, uma a uma, todas as alegações trazidas pelas partes em defesa da sua tese. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nessa esteira: AgInt no REsp 1.588.052/MG, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10.11.2017; e REsp 1.512.535/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9.11.2015.
+Portanto, "inexiste afronta ao art. 489, § 1º, do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo" (Aglnt no AREsp 1.143.888/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 24/10/2017).
+Os aclaratórios foram assim rejeitados:
+EMBARGOS DE DECLARAÇÃO. Inexistência de omissão, contradição, obscuridade ou erro material. Impossibilidade de rediscussão da matéria em embargos de declaração.
+EMBARGOS REJEITADOS.
+Como se verifica de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses da parte ora recorrente. Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, decorrentes da ausência de exame dos temas trazidos à tutela jurisdicional no momento processual oportuno. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PIS E COFINS. TAXA SELIC. BASE DE CÁLCULO. INCLUSÃO.
+1. A legislação processual (art. 932 do CPC/2015, c/c o art. 255, § 4º, do RISTJ, e Súmula n. 568/STJ) permite ao Ministro relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. Deve-se ressaltar que o acórdão recorrido não incorreu em omissão ou contradição, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte agravante. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+3. Esta Corte de Justiça possui o entendimento de que a base de cálculo do PIS e da Cofins é composta pelo total das receitas auferidas no mês pela pessoa jurídica, independentemente de denominação ou classificação contábil, o que inclui os valores corrigidos pela taxa Selic (correção e juros).
+4 . Agravo interno a que se nega provimento. (AgInt no REsp 1.946.628/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 28/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/15. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL. ANÁLISE VEDADA NESTA VIA RECURSAL.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Afasta-se, igualmente, a alegada afronta ao artigo 489 do CPC/2015, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Quanto aos arts. 110 do CTN; 3º, §1º, da Lei 9.718/98; 2º da Lei Complementar 70/91 e 3º da Lei 9.715/98, tem-se que"o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à COFINS é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial" (REsp 1.278.769/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/12/2012).
+6.Agravo interno não provido. (AgInt no REsp 1.859.197/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/5/2022.)
+Incide na Súmula 7/STJ, a tentativa de alterar o quadro fático para modificar os critérios que determinaram, no caso, a pertinência e a base de cálculo da multa e dos honorários advocatícios.
+A Câmara julgadora decidiu a matéria após percuciente avaliação do acervo documental relacionado dos autos, cuja revolvimento é vedado em Recurso Especial pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Para corroborar a presente constatação, cito trecho do julgado:
+Pretensão de aplicação da penalidade prevista no § 1º do art. 523 do CPC. Possibilidade. Depósito do valor executado em caráter de garantia do juízo, para oferta de impugnação. Garantia do juízo que não configura efetivo pagamento voluntário do débito. Aplicação do art. 523, § 1º, do CPC.
+Os fatos são aqui recebidos conforme estabelecidos pelo Tribunal a quo, ao qual compete apreciar o conjunto de provas dos autos. E, se a contrariedade ao dispositivo legal invocado perpassa pela necessidade de fixar premissa diversa da que consta do decisum combatido, inviável o apelo nobre.
+Igualmente inadmissível o Recurso Especial pelo dissídio jurisprudencial, na medida em que apurar a similitude entre os paradigmas apresentados e os fundamentos do acórdão recorrido exigiria revolvimento do material fático-probatório dos autos. Novamente, aplica-se a Súmula 7/STJ.
+Entende esta Corte Superior que "os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c" (AgInt nos EDcl no AREsp 1.152.431/RS, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 11.5.2023). Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O tema concernente à definição da base de cálculo da Cofins foi decidido pelo Tribunal de origem com fundamentação de cunho eminentemente constitucional, sendo defeso o exame por este Tribunal, sob pena de usurpação da competência da Suprema Corte.
+2. Consoante jurisprudência do Superior Tribunal de Justiça, a análise da violação do art. 110 do CTN, por reproduzir princípio encartado em norma da Constituição Federal, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1.251.683/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 19/4/2021.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Inviável o conhecimento do recurso especial na hipótese em que, embora o recorrente aponte ofensa à legislação federal, o inconformismo funda-se, em verdade, na análise de ato normativo infralegal (Provimento nº 2.203/2014 do CSM), porquanto o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise do referido instrumento, pretensão insuscetível de ser apreciada em recurso especial, por não se enquadrar no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido. (AgInt no AREsp 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 25/3/2021.)
+Ademais, verifica-se que a causa foi decidida de acordo com a diretriz deste Tribunal Superior - ou seja, favorável à imposição de multa e honorários advocatícios em cumprimento provisório de sentença. Nessa linha: AgInt no AREsp 1.271.636/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20.11.2018; AgInt na PET no AREsp 1.057.682/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19.10.2017; e AgInt no REsp 1.822.625/RJ, Rel. Ministro Marco Aurélio Bellizze, DJe de 13.52020.
+Dessa maneira, aplica-se à espécie o enunciado da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalte-se que o entendimento pacificado no âmbito do STJ é de admitir a aplicação da Súmula 83/STJ aos Recursos Especiais interpostos com fulcro na alínea "a" do aludido permissivo constitucional (AgRg no AREsp 354.886/PI, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 11.5.2016).
+Por fim, a incidência da Súmula 83/STJ obsta a apreciação do Recurso pela alínea "c" e torna prejudicada a verificação do dissídio jurisprudencial, conforme sinaliza a jurisprudência do STJ (AgInt no AREsp 828.816/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21.9.2016).
+Diante do exposto, conheço do Agravo para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Consubstanciado o disposto na Súmula Administrativa 7/STJ, condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
