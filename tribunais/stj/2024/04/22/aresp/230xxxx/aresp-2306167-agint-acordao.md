@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO QUE NÃO ATACA, DE FORMA ESPECÍFICA, FUNDAMENTO DA DECISÃO AGRAVADA.
+1. Não se conhece do agravo interno quando este deixa de atacar, especificamente, fundamento da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CERES DOS SANTOS RAMOS contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+No presente recurso, sustenta-se que,
+tendo em vista o V. Acórdão evento 449, que julgou improcedente, provavelmente por equívoco, julgou de forma monocrática o Agravo Interno evento 449 como se Agravo fosse, requerer o chamamento do feito à ordem para que o referido Agravo Interno seja julgado pelo Colegiado dessa Egrégia Turma.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO QUE NÃO ATACA, DE FORMA ESPECÍFICA, FUNDAMENTO DA DECISÃO AGRAVADA.
+1. Não se conhece do agravo interno quando este deixa de atacar, especificamente, fundamento da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+Dessume-se das razões recursais que a parte agravante não cuidou de impugnar fundamento adotado na decisão combatida.
+Após a decisão monocrática da Presidência desta Corte Superior ter sido tornada sem efeito (cf. abaixo), vieram-me os autos conclusos para novo julgamento do AREsp 2306167/RJ (fl. 628).
+DECISÃO
+Cuida-se de agravo interno interposto por CERES DOS SANTOS RAMOS contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, alega, em síntese, que, por meio do agravo em recurso especial, houve o rebatimento de todos os fundamentos lançados na decisão que não admitiu o recurso especial.
+A parte agravada foi devidamente intimada para apresentar impugnação.
+É, no essencial, o relatório. Decido.
+Tendo em vista as razões lançadas pelo ora agravante em sua peça recursal, torno sem efeito a decisão agravada e, com fundamento no § 2º do art. 21-E do Regimento Interno do Superior Tribunal de Justiça, determino a distribuição dos autos.
+Publique-se. Intimem-se.
+Brasília, 19 de julho de 2023.
+MINISTRA MARIA THEREZA DE ASSIS MOURA
+Presidente
+Por decisão monocrática, neguei provimento ao agravo em recurso especial, reafirmando a decisão preliminar de inadmissibilidade da origem. Transcrevo trecho do julgado (fls. 638/640):
+O conhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata aqui de discussão sobre o resultado jurídico da aplicação de normas federais (quaestio iuris), senão da revisão das premissas subjacentes (quaestio facti).
+Cediço é que "o chamado erro na valoração ou valorização das provas somente pode ser o erro de direito quanto ao valor da prova abstratamente considerado." Se "o julgado local, apreciando o poder de convicção  da prova , conclua (bem ou mal) sobre estar provado, ou não, um fato, aí não se tem ofensa ao direito federal: pode ocorrer ofensa (se mal jugada a causa) ao direito da parte" (cf. RE 84699, Rel. p/ Acórdão RODRIGUES ALCKMIN, Primeira Turma, DJ 03/06/1977, pp 3645).
+O pedido de revaloração, em caso tal, deve conter, necessariamente, a demonstração de duas coisas: (a) o quadro fático, tal como delineado no decisum objurgado (ou seja, a apresentação da quaestio facti tal como interpretada, bem ou mal, pela Corte a quo); (b) o resultado jurídico resultante de má aplicação do direito federal (a apresentação da quaestio iuris). O pedido genérico de valoração das provas (ou de simples afastamento da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial") constitui defeito grave de fundamentação recursal, que leva ao não conhecimento da matéria arguida.
+Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAREsp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo, adverte Araken de Assis (in Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+O feito está em ordem.
+A parte, por equívoco, entende que o agravo interno de fls. 603/618, deveria ser novamente apreciado, embora tenha sido expressamente acolhido para anular a decisão que não conheceu do agravo em recurso especial. Transcrevo trecho deste agravo interno (fl. 628):
+CERES DOS SANTOS RAMOS, devidamente qualificada nos autos da Apelação Cível em epígrafe, que move em face da UNIÃO-ADVOCACIA GERAL DA UNIÃO, vem, respeitosa e tempestivamente perante V. Exª por seu advogado devidamente constituído, tendo em vista o V. Acórdão evento 449, que julgou improcedente, provavelmente por equívoco, julgou de forma monocrática o Agravo Interno evento 449 como se Agravo fosse, requerer o chamamento do feito à ordem para que o referido Agravo Interno seja julgado pelo Colegiado dessa Egrégia Turma.
+Competia a parte expor as razões pela qual entende que a decisão de fls. 638/640, de minha relatoria, deveria ser reformada, e não pedir novo julgamento do agravo interno (fls. 603/618) interposto contra decisão monocrática da Presidência desta Corte já tornada sem efeito (fl. 628).
+O Código de Ritos é expresso no sentido de que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada (art. 1.021, § 1º, do CPC/2015).
+Apesar de o agravo interno ter sido erigido sobre o inconformismo da parte, agravada com o decisum monocrático, o recurso ao Colegiado deve cumprir, além dos requisitos formais, o princípio da dialeticidade, sob pena de não conhecimento. Isso significa dizer que não pode assentar o agravo interno em consideração jurídicas absolutamente estranhas ao julgamento: o recurso deve ser redigido de forma a impugnar todos os fundamentos da decisão que são suficientes para mantê-la (v.g. o teor da Súmula nº 182/STJ).
+No escólio de Nelson Nery Júnior:
+As razões do recurso são elemento indispensável a que o tribunal, para o qual se dirige, possa julgar o mérito do recurso, ponderando-as em confronto com os motivos da decisão recorrida. A sua falta acarreta o não conhecimento. Tendo em vista que o recurso visa, precipuamente, modificar ou anular a decisão considerada injusta ou ilegal, é necessária a apresentação das razões pelas quais se aponta a ilegalidade ou injustiça da referida decisão judicial. Sem as razões seria impossível formar-se o contraditório, pois o recorrido não saberia o que rebater; nem seria viável, ainda, delinear-se o âmbito de devolutividade do recurso, já que o efeito devolutivo tem a aptidão para devolver ao reconhecimento do tribunal somente a matéria impugnada (in: Teoria Geral dos Recursos - Princípios Fundamentais. Revista dos Tribunais, 4ª ed., fls. 148/149).
+Ainda que assim não fosse, as razões do agravo interno anterior, que versam sobre o mesmo tema, não são suficientes para a reforma da decisão agravada.
+Está naquele recurso:
+ ..  houve relacionamento afetivo público, de convivência contínua e duradoura, com vontade das partes de constituir família, bem como as provas testemunhais que relatam o convívio do casal. O Recurso Especial foi inadmitido com fundamento na SÚMULA 7, mas o recurso NÃO foi interposto para reexame de provas, o que é vetado pelo STJ, e sim, para a necessária revalorização das mesmas, o que é amplamente aceito sem que o ato caracterize reexame, em caso de valoração inadequada pelo V. Acórdão, como no caso em tela.
+A premissa dos autos é de que
+considerando a análise casuística do caso vertente, o acórdão foi claro ao afirmar que não obstante a alegação de que teria convivido more uxorio com o falecido militar, Sr. Juan Barberá, não ficou caracterizada a residência em comum do casal, uma vez que inexistem nos autos quaisquer documentos em nome da embargante com referência ao mesmo endereço do de cujus. O julgado consignou, ainda, que a embargante deveria ter juntado documentos no sentido de se apresentar à sociedade como uma verdadeira família com o instituidor, o que não se desincumbiu de fazer, sendo certo que a concessão de pensão à companheira não designada requer um lastro probatório robusto, não sendo suficiente juízo de probabilidade, evitando-se, assim, equívocos que possam onerar ilegalmente a União (fl. 500).
+É cediço que, se "o julgado local, apreciando o poder de convicção  da prova , conclua (bem ou mal) sobre estar provado, ou não, um fato, aí não se tem ofensa ao direito federal: pode ocorrer ofensa (se mal jugada a causa) ao direito da parte" (cf. RE 84699, Rel. p/ Acórdão RODRIGUES ALCKMIN, Primeira Turma, DJ 03/06/1977, pp 3645).
+Para que seja afastado o juízo de incidência da Súmula nº 7/STJ, o pedido deve conter, necessariamente, a demonstração de duas coisas: (a) o quadro fático, tal como delineado no decisum objurgado (ou seja, a apresentação da quaestio facti tal como interpretada, bem ou mal, pela Corte a quo); (b) o resultado jurídico resultante de má aplicação do direito federal (a apresentação da quaestio iuris); o que não foi realizado.
+O pedido genérico de valoração das provas (ou de simples afastamento da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial") constitui defeito grave de fundamentação recursal, que leva ao não conhecimento da matéria arguida.
+Sobre a matéria, cf.:
+No que tange à Súmula 7 do STJ, destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos. É de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório (AgInt no AREsp n. 2.004.337/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 30/8/2022).
+Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 1.919.119/MG, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 30/9/2022).
+Com essas considerações, não conheço do agravo interno.
+É como voto.
