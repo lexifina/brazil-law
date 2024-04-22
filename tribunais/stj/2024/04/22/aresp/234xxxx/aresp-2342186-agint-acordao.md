@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DEFICIÊNCIA.  FUNDAMENTAÇÃO.  RECURSO.  AUSÊNCIA.  INDICAÇÃO.  CONSTITUIÇÃO  FEDERAL.  SÚMULA  Nº  284/STF.
+1.  Nos  termos  da  jurisprudência  desta  Corte,  a  falta  de  indicação  do  dispositivo  constitucional  que  fundamenta  o  recurso  especial  caracteriza  deficiência  de  fundamentação  que  impede  o  seu  conhecimento  por  incidência  da  Súmula  nº  284/STF.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  RIBEIRÃO  GOLF  EMPREENDIMENTOS  IMOBILIÁRIOS  SPE  LTDA.  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  da  aplicação  da  Súmula  nº  284/STF.
+Naquela  oportunidade,  ressaltou-se  que  " (..)  não  houve  a  indicação  do  permissivo  constitucional  autorizador  do  recurso  especial"  (fl.  237,  e-STJ  ).
+Nas  presentes  razões  ,  o  agravante  alega  que,
+"(..)
+Desde  o  recurso  especial,  houve  a  indicação  dos  artigos  da  lei  que  foram  violados  (arts.  805,  parágrafo  único,  835,  §  2º,  e  848,  parágrafo  único,  todos  do  Código  de  Processo  Civil),  bem  como,  no  preâmbulo,  constou  a  fundamentação  de  cabimento  do  recurso  especial  manejado.
+O  que  se  mostra  é  que  está  ocorrendo,  data  máxima  vênia,  excesso  de  formalismo  em  detrimento  da  necessidade  de  reapreciação  da  matéria  de  direito,  devidamente  exposta  no  recurso  especial"  (fl.  250,  e-STJ ).
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DEFICIÊNCIA.  FUNDAMENTAÇÃO.  RECURSO.  AUSÊNCIA.  INDICAÇÃO.  CONSTITUIÇÃO  FEDERAL.  SÚMULA  Nº  284/STF.
+1.  Nos  termos  da  jurisprudência  desta  Corte,  a  falta  de  indicação  do  dispositivo  constitucional  que  fundamenta  o  recurso  especial  caracteriza  deficiência  de  fundamentação  que  impede  o  seu  conhecimento  por  incidência  da  Súmula  nº  284/STF.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Na  hipótese,  a  Presidência  desta  Corte  Superior  não  conheceu  do  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  284/STF ,  haja  vista  a  ausência  de  indicação  do  dispositivo  constitucional.
+De  fato,  a  agravante  não  indicou  o  dispositivo  constitucional  nem  a  alínea  do  respectivo  inciso  em  que  estaria  fundado  o  recurso  especial,  o  que  inviabiliza  a  admissão  do  recurso  devido  ao  óbice  da  Súmula  nº  284/STF.
+Nos  termos  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  a  falta  de  indicação  do  dispositivo  constitucional  que  fundamenta  o  recurso  especial  caracteriza  deficiência  de  fundamentação  que  impede  o  seu  conhecimento,  atraindo  a  aplicação  ,  por  analogia,  da  Súmula  nº  284/STF.
+Confiram-se:
+"AGRAVO  REGIMENTAL  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INCIDÊNCIA  POR  ANALOGIA  DO  ENUNCIADO  284  DA  SÚMULA  DO  STF.  AUSÊNCIA  DE  INDICAÇÃO  DO  DISPOSITIVO  CONSTITUCIONAL  AUTORIZADOR  DO  RECURSO  ESPECIAL.  AGRAVO  INTERNO  INTERPOSTO  NA  CORTE  LOCAL  CONTRA  DECISÃO  COLEGIADA.  RECURSO  MANIFESTAMENTE  INCABÍVEL.  INTEMPESTIVIDADE  DE  TODOS  OS  RECURSOS  SUBSEQUENTES.
+1.  Incidência  do  óbice  da  Súmula  n.  284/STF,  uma  vez  que  não  houve  a  indicação  do  permissivo  constitucional  autorizador  do  recurso  especial.
+2.  "A  interposição  de  agravo  interno  contra  julgamento  colegiado  é  considerada  erro  grosseiro,  pois  o  referido  meio  de  impugnação  destina-se  unicamente  a  combater  decisões  proferidas  monocraticamente  pelo  relator,  na  forma  do  art.  1.021  do  CPC/15"  (AgInt  no  AREsp  n.  2.023.937/PA,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  23/5/2022,  DJe  25/5/2022.)
+3.  A  interposição  de  recurso  manifestamente  inadmissível  não  interrompe  nem  suspende  o  prazo  para  a  interposição  de  outros  recursos,  de  modo  que  não  apenas  o  recurso  especial,  mas  todos  os  recursos  subsequentes,  incluindo  este  agravo  regimental,  são  intempestivos.
+4.  Agravo  regimental  não  conhecido."
+(AgRg  nos  EDcl  no  AREsp  2.392.555/MG,  Relator  Ministro  JESUÍNO  RISSATO  -  Desembargador  Convocado  do  TJDFT  -,  Sexta  Turma,  julgado  em  17/10/2023,  DJe  de  20/10/2023  -  grifou-se  ).
+"AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DECISÃO  DE  ADMISSIBILIDADE.  AUSÊNCIA  DE  PARTICULARIZAÇÃO  DA  ALÍNEA  EM  QUE  SE  FUNDA  A  INTERPOSIÇÃO.  NÃO  ESPECIFICAÇÃO  DOS  DISPOSITIVOS  LEGAIS  EVENTUALMENTE  VIOLADOS.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  APLICAÇÃO  DA  SÚMULA  284  DO  STF.  DECISÃO  MANTIDA.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  orienta  que,  na  interposição  do  recurso  especial,  com  fundamento  no  art.  105,  inciso  III,  da  Constituição  Federal,  é  preciso  particularizar  a  alínea  do  dispositivo  constitucional  em  que  está  fundado  o  recurso.
+2.  A  falta  desse  pressuposto  configura  deficiência  de  fundamentação,  inviabilizando  o  conhecimento  do  recurso  especial,  ante  a  incidência  da  Súmula  284  do  STF  por  analogia.  Precedentes.
+3.  Agravo  interno  a  que  se  nega  provimento."
+(AgInt  no  AREsp  1.817.491/RJ,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  21/2/2022,  DJe  de  25/2/2022  -  grifou-se).
+"PROCESSUAL  CIVIL.  PREVIDENCIÁRIO.  APOSENTADORIA  POR  INVALIDEZ.  INDEFERIMENTO.  DEFICIÊNCIA  RECURSAL.  AUSÊNCIA  EM  APONTAR  O  PERMISSIVO  CONSTITUCIONAL  E  OS  DISPOSITIVOS  LEGAIS  VIOLADOS.  APLICAÇÃO  DA  SÚMULA  N.  284  DO  STF.  INCAPACIDADE  LABORATIVA.  PRETENSÃO  DE  REEXAME  FÁTICO-PROBATÓRIO.  APLICAÇÃO  DA  SÚMULA  N.  7  DO  STJ.
+I  -  Na  origem,  trata-se  de  ação  ajuizada  contra  o  INSS  objetivando  a  concessão  de  auxílio-doença,  auxílio-acidente  ou  aposentadoria  por  invalidez.  Na  sentença,  julgou-se  improcedente  o  pedido.  No  Tribunal  a  quo,  a  sentença  foi  mantida.  Esta  Corte  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+II  -  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que  a  competência  do  Superior  Tribunal  de  Justiça,  na  via  do  recurso  especial,  encontra-se  vinculada  à  interpretação  e  à  uniformização  do  direito  infraconstitucional  federal.
+III  -  Impõe-se  não  apenas  a  correta  indicação  dos  dispositivos  legais  federais  supostamente  contrariados  pelo  Tribunal  a  quo,  mas  também  a  delimitação  da  violação  da  matéria  insculpida  nos  regramentos  indicados,  para  que,  assim,  seja  viabilizado  o  necessário  confronto  interpretativo  e,  consequentemente,  o  cumprimento  da  incumbência  constitucional  revelada  com  a  uniformização  do  direito  infraconstitucional  sob  exame.
+IV  -  Na  espécie,  incide  o  óbice  da  Súmula  n.  284/STF,  uma  vez  que  não  houve  a  indicação  do  permissivo  constitucional  autorizador  do  recurso  especial,  aplicando-se,  por  conseguinte,  a  referida  súmula:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+V  -  Conforme  disposto  no  art.  1.029,  II,  do  CPC/2015,  a  petição  do  recurso  especial  deve  conter  a  "demonstração  do  cabimento  do  recurso  interposto".
+VI  -  A  parte  recorrente  deve  evidenciar  de  forma  explícita  e  específica  que  seu  recurso  está  fundamentado  no  art.  105,  III,  da  Constituição  Federal,  e  quais  são  as  alíneas  desse  permissivo  constitucional  que  servem  de  base  para  a  sua  interposição.
+VII  -  Esse  entendimento  possui  respaldo  em  recente  julgado  da  Corte  Superior  de  Justiça:  (AgInt  no  AREsp  n.  1.479.509/SP,  relator  Ministro  Francisco  Falcão,  Segunda  Turma,  DJe  de  22/11/2019,  AgInt  no  AREsp  n.  1.824.850/MG,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  turma,  DJe  de  21/6/2021;  AgInt  no  AREsp  n.  1.776.348/SP,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  DJe  de  11/06/2021.
+VIII  -  Incide  o  óbice  da  Súmula  n.  284/STF,  uma  vez  que  a  parte  recorrente  deixou  de  indicar  precisamente  os  dispositivos  legais  que  teriam  sido  violados,  ressaltando  que  a  mera  citação  de  artigo  de  lei  na  peça  recursal  não  supre  a  exigência  constitucional.  Aplicável,  por  conseguinte,  o  enunciado  da  citada  súmula.  Nesse  sentido:  (AgInt  no  AREsp  n.  1.684.101/MA,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  DJe  de  26/8/2020,  AgInt  no  ARESP  n.  1.611.260/RS,  relator  Ministro  Gurgel  de  Faria,  Primeira  Turma,  DJe  de  26/6/2020  (..).
+(..)
+XII  -  Agravo  interno  improvido."
+(AgInt  no  AREsp  1.915.818/SP,  Relator  Ministro  FRANCISCO  FALCÃO,  Segunda  Turma,  julgado  em  14/2/2022,  DJe  de  16/2/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  SÚMULA  284/STF.  APLICAÇÃO  ANALÓGICA.  CABIMENTO.  AUSÊNCIA  DE  INDICAÇÃO  DA  ALÍNEA  DO  PERMISSIVO  CONSTITUCIONAL  EM  QUE  SE  FUNDA  O  RECURSO.  SÚMULA  284/STF.  FALTA  DE  APONTAMENTO  DO  DISPOSITIVO  LEGAL  VIOLADO  OU  OBJETO  DE  INTERPRETAÇÃO  DISSONANTE.  SÚMULA  284/STF.  DIVERGÊNCIA  NOTÓRIA.  NÃO  OCORRÊNCIA.  DANOS  MORAIS.  EXORBITÂNCIA  NÃO  EVIDENCIADA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  AGRAVO  DESPROVIDO.
+1.  É  plenamente  cabível  a  aplicação  analógica,  por  esta  Corte  Superior,  do  enunciado  n.  284  da  Súmula  do  Supremo  Tribunal  Federal.
+2.  A  recorrente  não  indicou,  no  apelo  especial,  a  alínea  do  dispositivo  constitucional  na  qual  se  fundamenta  o  reclamo,  circunstância  que  impede  o  seu  conhecimento,  segundo  o  teor  do  verbete  sumular  n.  284/STF.
+3.  Para  o  cabimento  do  recurso  especial,  é  imprescindível  que  sejam  apontados,  de  forma  clara,  os  preceitos  legais  objeto  de  ofensa  ou  interpretação  dissentânea,  sob  pena  de  inadmissão.  Incidência  do  enunciado  n.  284  da  Súmula  da  Suprema  Corte.
+4.  A  divergência  jurisprudencial  apontada  não  é  notória,  razão  pela  qual  não  há  falar  em  flexibilização  da  exigência  de  indicação  do  dispositivo  legal  objeto  de  interpretação  dissonante.
+5.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  se  firmou  no  sentido  de  que  a  alteração  do  valor  estabelecido  pelas  instâncias  ordinárias,  a  título  de  danos  morais,  só  é  possível  quando  o  referido  montante  tiver  sido  fixado  em  patamar  irrisório  ou  excessivo.
+6.  No  feito  em  análise,  a  quantia  indenizatória  não  pode  ser  considerada  exorbitante  ,  de  modo  que  a  sua  revisão  demandaria  o  reexame  de  fatos  e  provas,  providência  vedada  na  via  eleita,  ante  a  incidência  do  enunciado  n.  7  da  Súmula  do  STJ.
+7.  Agravo  interno  desprovido."
+ (AgInt  no  AREsp  1.824.850/MG,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  15/6/2021,  DJe  de  21/6/2021  -  grifou-se).
+
+Assim,  as  razões  do  presente  recurso  não  são  suficientes  para  reformar  a  decisão  atacada ,  que  merece  ser  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
