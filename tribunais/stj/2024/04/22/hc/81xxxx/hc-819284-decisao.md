@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Matheus Alan dos Santos Bernardo, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro no julgamento da Apelação Criminal n. 0226759-43.2022.8.19.0001.
+Consta dos autos que o Juízo de primeiro grau absolveu o paciente do delito tipificado no art. 14 da Lei n. 10.826/2003 (sic), na forma do art. 386, III, do Código de Processo Penal - CPP, e condenou-o à pena de 5 anos e 4 meses de reclusão, em regime inicial fechado, e pagamento de 1.028 dias-multa, pela prática do crime previsto no art. 35, c/c o art. 40, VI, ambos da Lei n. 11.343/2006. Foi apreendido um fuzil AK47, calibre 7.62, com número de série suprimido (fl. 255).
+A Corte de origem, por maioria de votos, absolveu o paciente em relação ao delito de associação para o tráfico de entorpecentes e condenou-o à pena de 3 anos e 10 meses de reclusão, em regime aberto, e pagamento de 10 dias multa, pela prática do crime de posse de arma de fogo de uso restrito com numeração suprimida. A pena privativa de liberdade foi substituída por duas restritivas de direitos. O acórdão restou assim ementado (fls. 449/450):
+APELAÇÃO CRIMINAL. CONDENAÇÃO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. RECURSO DEFENSIVO SUSCITANDO NULIDADES E PLEITEANDO A ABSOLVIÇÃODO ACUSADO.
+O acusado foi preso do lado de fora da residência, após tentativa de fugir do local. Ademais, a abordagem se deu em situação flagrancial, decorrente de fundada suspeita quando o réu empreendeu fuga assim que os policiais chegaram ao local. Acrescente-se ainda que a narrativa da própria testemunha de defesa dá conta de que o fuzil e o rádio transmissor foram apreendidos na rua, de modo que não há que se falar em violação de domicílio. Afastada a preliminar de nulidade processual.
+A preliminar de nulidade da sentença por violação à garantia da não autoincriminação também não merece prosperar. O juízo sentenciante não utilizou o silêncio do acusado como valoração negativa para fundamentar a condenação.
+Quanto ao crime de associação para o tráfico, não há prova da estabilidade e permanência do vínculo associativo para a condenação.
+Contudo, resta o delito autônomo do art. 16, § 1º, IV da Lei 10.826/03, uma vez que denúncia traz a narrativa da posse ou porte de arma de fogo e munições de uso restrito. A materialidade e autoria restaram comprovadas pelo auto de prisão em flagrante e pelos laudos periciais, além dos depoimentos prestados em sede policial e judicial. Laudo de arma de fogo e munições que comprovaram a potencialidade lesiva. Depoimento dos policiais militares que corroboram a narrativa da denúncia.
+Reclassificação do crime que se impõe. Redimensionamento da pena que se acomoda em 03 anos de reclusão e 10 dias-multa em regime aberto com conversão em duas restritivas de direitos a saber: prestação de serviços comunitários e limitação de fim de semana, com condições a serem impostas pelo juízo da execução. Sentença que se reforma para absolver o acusado pelo crime do art. 35 da Lei 11.343/06 e reclassificação para o art. 16, § 1º, III e IV da Lei 10.826/03 com o recálculo da pena na forma supramencionada.
+PROVIMENTO PARCIAL DO RECURSO.
+Neste writ, a defesa sustenta as seguintes questões: a) interpretação do silêncio do paciente em seu prejuízo na sentença condenatória; b) violação de domicílio; e c) desconsideração da prova pericial técnica papiloscópica, que concluiu pela ausência de fragmentos que pudessem levar a identificação das digitais do réu.
+Requer seja reconhecida a nulidade das provas e, assim, absolvido o paciente.
+Foram prestadas informações às fls. 502/505 e 506/509.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 513/514).
+É o relatório.
+O presente writ é substitutivo de recurso próprio, e é certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. RÉU SOLTO. PROCESSUAL PENAL E LEGISLAÇÃO EXTRAVAGANTE. POSSE DE ARMA DE FOGO DE US O RESTRITO COM NUMERAÇÃO SUPRIMIDA. NULIDADE. INTERPRETAÇÃO DO SILÊNCIO DO RÉU EM SEU PREJUÍZO E DESCONSIDERAÇÃO DA PROVA PERICIAL TÉCNICA PAPILOSCÓPICA. ILICITUDE DE PROVAS. VIOLAÇÃO DE DOMICÍLIO. PLEITO DE ABSOLVIÇÃO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
