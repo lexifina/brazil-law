@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. REQUISITOS LEGAIS. NÃO CUMPRIMENTO DA CARÊNCIA. REEXAME DO CONTEXTO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o acórdão vergastado consignou: a) "(..) extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se foi cumprido o tempo suficiente para a concessão do benefício, bem como o que consta de outros autos, o que não se admite ante o óbice da Súmula 7/STJ"; b) "Cumpre salientar que o decisum atacado asseverou que a improcedência do pedido não se restringiu à mera ausência de prova material, mas, sim, à presença de conjunto probatório que contradiz as alegações de exercício de trabalho campesino na qualidade de segurada especial. A modificação desse entendimento também é obstada pelo disposto na referida Súmula."
+2. Com efeito, o acórdão vergastado foi claro ao estabelecer que o decisum atacado asseverou que a improcedência do pedido não se restringiu à mera ausência de prova material, mas, sim, à presença de conjunto probatório que contradiz as alegações de exercício de trabalho campesino na qualidade de segurada especial, razão pela qual a modificação desse entendimento é obstada pelo disposto na Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ também impede o exame da divergência jurisprudencial, inviabilizando o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional .
+4. A controvérsia foi solucionada de forma a responder a todos os argumentos trazidos pela parte embargante, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+5. Embargos de Declaração rejeitados.
+RELATÓRIO
+Cuida-se de Embargos de Declaração opostos em razão de decisão que negou provimento ao Agravo Interno.
+A parte embargante sustenta, em suma:
+(..)
+Uma detida análise do acórdão oriundo do Eg. TRF da 4ª Região permite verificar que, com efeito, não houve análise do conjunto fático-probatório dos autos, justamente em razão da conclusão pela existência de coisa julgada.
+Logo, pede-se, com o devido acato, que este douto Colegiado observe o seguinte trecho do v. acórdão regional: "Entretanto, apesar de tais documentos apresentados referirem o exercício de atividade rural, não restaria tempo suficiente para a concessão do benefício, eis que os anos anteriores não podem ser rediscutidos em razão da existência de coisa julgada".
+Em outros termos, a Turma Regional concluiu que não haveria tempo suficiente para a concessão da aposentadoria rural, mesmo que fossem considerados os documentos apresentados com o novo requerimento administrativo, em razão da existência de coisa julgada (inviabilidade de discussão quanto aos anos anteriores).
+É somente essa a omissão que se pretende sanar, inexistindo qualquer intuito de reforma do v. acórdão embargado pela via dos embargos de declaração, eis que esta não é a via adequada para tanto.
+Conforme aduzido no agravo interno interposto pela Autora, o Eg. Tribunal Regional Federal da 4ª Região, apesar de ser a última instância competente para a análise do acervo probatório, não adentrou na discussão, uma vez que o julgamento se fundamentou na aplicação do instituto da coisa julgada! Reitere-se, o Eg. TRF registrou que "Entretanto, apesar de tais documentos apresentados referirem o exercício de atividade rural, não restaria tempo suficiente para a concessão do benefício, eis que os anos anteriores não podem ser rediscutidos em razão da existência de coisa julgada".
+Assim, o que se pleiteia é o saneamento da omissão acima apontada para que se reconheça a inaplicabilidade da Súmula 7/STJ ao caso concreto, determinando-se o retorno dos autos para que a Eg. Turma Regional promova análise de mérito. Isso porque, no caso, há violação ao art. 505, inciso I, do CPC, na medida em que o Eg. TRF refutou o caráter continuado inerente às relações jurídicas de cunho previdenciário. De fato, a legislação processual assenta expressamente que a modificação dos contornos das relações jurídicas de cunho continuado possibilita o julgamento de questões relativas a uma mesma lide.
+(..)
+Pleiteia o acolhimento dos Embargos de Declaração com efeitos infringentes.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. REQUISITOS LEGAIS. NÃO CUMPRIMENTO DA CARÊNCIA. REEXAME DO CONTEXTO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o acórdão vergastado consignou: a) "(..) extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se foi cumprido o tempo suficiente para a concessão do benefício, bem como o que consta de outros autos, o que não se admite ante o óbice da Súmula 7/STJ"; b) "Cumpre salientar que o decisum atacado asseverou que a improcedência do pedido não se restringiu à mera ausência de prova material, mas, sim, à presença de conjunto probatório que contradiz as alegações de exercício de trabalho campesino na qualidade de segurada especial. A modificação desse entendimento também é obstada pelo disposto na referida Súmula."
+2. Com efeito, o acórdão vergastado foi claro ao estabelecer que o decisum atacado asseverou que a improcedência do pedido não se restringiu à mera ausência de prova material, mas, sim, à presença de conjunto probatório que contradiz as alegações de exercício de trabalho campesino na qualidade de segurada especial, razão pela qual a modificação desse entendimento é obstada pelo disposto na Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ também impede o exame da divergência jurisprudencial, inviabilizando o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional .
+4. A controvérsia foi solucionada de forma a responder a todos os argumentos trazidos pela parte embargante, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+5. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Os autos foram recebidos neste Gabinete em 6.3.2024.
+Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando nenhuma das hipóteses do art. 1.022 do CPC/2015.
+Com efeito, o acórdão vergastado foi claro ao estabelecer que o decisum atacado asseverou que a improcedência do pedido não se restringiu à mera ausência de prova material, mas, sim, à presença de conjunto probatório que contradiz as alegações de exercício de trabalho campesino na qualidade de segurada especial, razão pela qual a modificação desse entendimento é obstada pelo disposto na Súmula 7/STJ.
+Portanto, a controvérsia foi solucionada de forma a responder a todos os argumentos trazidos pela parte embargante, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+Por tudo isso, rejeito os Embargos de Declaração.
+É como voto.
