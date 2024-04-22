@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por ZULMIRA DOS SANTOS SILVA contra o acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR IDADE. CONTRATO DE TRABALHO REGISTRADO EM CTPS. NÃO ANOTADO NO CNIS. AUSÊNCIA DA VIOLAÇÃO DO ART. 1.022 DO CPC. PRESTAÇÃO JURISDICIONAL SUFICIENTE E FUNDAMENTADA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À DISPOSITIVO LEGAL. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. O TERMO INICIAL DO BENEFÍCIO. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REEXAME DA MATÉRIA FÁTICO PROBATÓRIA. SÚMULA N. 7/STJ.
+1. Os Embargos de Declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade ou contradição. Não se prestam, contudo, a revisar entendimento materializado de forma clara, coerente e congruente, como no caso dos autos. afastada a alegação de violação do art. 1.022 do CPC.
+2. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Precedentes.
+3. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284/STF.
+4. Quanto à alegada violação dos arts. 49, inciso I, "b", 54, parágrafo único, e 103, todos da Lei n. 8.213/1991, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência do STJ no sentido de que os efeitos financeiros da concessão ou revisão dos benefícios previdenciários de aposentadoria especial ou por tempo de contribuição devem ser fixados na data do requerimento administrativo, momento em que o segurado já preenchia os requisitos para a concessão do benefício, pouco importando se, na data do requerimento, o feito tenha sido adequadamente instruído. Incidência da Súmula n. 83/STJ.
+5. Por outro lado, para alterar a conclusão a que chegaram as instâncias ordinárias quanto à data da implementação dos requisitos e carência, demandaria o necessário enfrentamento da matéria fático-probatória a atrair o óbice da Súmula n. 7 do STJ. Precedentes.
+Agravo interno improvido (fls. 651-652).
+A parte embargante sustenta, em síntese, que:
+Ao contrário do refutado na r. decisão embargada, o v. acórdão recorrido adotou fundamentação contrária a jurisprudência firmada no citado precedente REsp nº 1.745.509 - SP, Primeira Turma Ministro Napoleão Nunes Maia Filho, julgado 11/06/2019, DJe 14/06/2019, que consolidou compreensão favorável a tese de retroação dos efeitos financeiros da DIB de 06/12/2016 (data de entrada do requerimento) para quando a recorrente completou 60 anos de idade em 10/09/2016, ou na falta daquele a condenação do INSS a pagar os últimos 05 anos, pois tal retardo não retira direito previdenciário já incorporado ao patrimônio jurídico da segurada (fl. 675).
+Conclui que:
+ ..
+não prevalece os fundamentos expendidos no v. acórdão embargado de que não seria possível a retroação dos efeitos financeiros da DIB de 06/12/2016 (data de entrada do requerimento) para quando a recorrente completou 60 anos de idade em 10/09/2016, ou na falta daquele a condenação do INSS a pagar os últimos 05 anos, sob o prisma de que revisitar a questão em testilha de direito não depende do reexame de matéria fática, o que é o suficiente para afastar o óbice da súmula nº 7/STJ (fl. 677).
+No seu entendimento:
+ ..
+a questão jurídica referente ao termo inicial dos efeitos financeiros dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo, foi submetida ao regime dos precedentes qualificados vinculantes pelo Superior Tribunal de Justiça Tema nº 1124, ou seja, a matéria não está pacificada, logo não há que falar na incidência da súmula nº 83/STJ (fl. 679).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do CPC/2015 dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser improvido, constando, expressamente, que:
+Conforme consignado na decisão agravada, da detida análise dos autos, não se verifica a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou todas as questões levadas ao seu conhecimento.
+ ..
+O órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Dos trechos acima transcritos, extrai-se ter a instância de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+ ..
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+Com relação à alegada ofensa ao art. 493 do CPC, não há como se afastar o óbice da Súmula n. 284/STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", uma vez que a parte recorrente deixou de demonstrar objetivamente como o acórdão recorrido teria incorrido em sua violação. É sabido que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+ ..
+Quanto à alegada violação dos arts. 49, inciso I, "b", 54, parágrafo único, e 103, todos da Lei n. 8.213/1991, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência do STJ no sentido de que os efeitos financeiros da concessão ou revisão dos benefícios previdenciários de aposentadoria especial ou por tempo de contribuição devem ser fixados na data do requerimento administrativo, momento em que o segurado já preenchia os requisitos para a concessão do benefício, pouco importando se, na data do requerimento, o feito tenha sido adequadamente instruído.
+ ..
+Desse modo, incide o enunciado da Súmula n. 83/STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". E o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea "a" do permissivo constitucional.
+Verifica-se, ainda, que a parte agravante, em inobservância ao princípio da dialeticidade, não se desincumbiu de impugnar de forma objetiva a aplicação do referido óbice sumular. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a incidência da Súmula n. 83 do STJ quanto ao termo inicial dos efeitos financeiros da concessão ou revisão dos benefícios previdenciários de aposentadoria especial ou por tempo de contribuição.
+A jurisprudência desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada ou que os precedentes indicados na decisão recorrida são inaplicáveis, o que não aconteceu no presente caso.
+ ..
+No caso, tanto a sentença quanto o acórdão recorrido foram categóricos ao afirmar que a data do primeiro requerimento administrativo foi em 6/12/2016, data, então, fixada como termo inicial do benefício previdenciário.
+A recorrente pretende alterar o termo inicial do benefício para 10/9/2016, data em que a requerida completou 60 anos de idade e, segundo alega, quando já havia alcançado a carência, ou alternativamente, a condenação do INSS a pagar os últimos 5 anos.
+Contudo, para alterar a conclusão a que chegaram as instâncias ordinárias quanto à data da implementação dos requisitos e carência, demandaria o necessário enfrentamento da matéria fático-probatória a atrair o óbice da Súmula n. 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial". (fls. 658-665).
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
