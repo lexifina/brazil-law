@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/04/2024 a 22/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015. INEXISTÊNCIA. SUPOSTA OFENSA AOS ARTS. 36 E 42, V, DA LEI 6.435/1977; E 102 E 114 DA LEI 8.213/1991. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação aos arts. 1.022 e 489 do CPC/2015
+2. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o Enunciado 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por MARGARETH ROCHA CASADO DE LIMA contra  a  decisão  que  conheceu  do  agravo  para não conhecer do recurso especial, pela ausência de ofensa aos arts. 489 e 1.022 do CPC/2015 e pela incidência da Súmula 211/STJ.
+Argumenta  a  parte agravante,  em  síntese,  que "persiste a omissão do Acórdão de origem, pois deveria ter examinado e decidido a questão da nulidade da liberação das contribuições da Agravante ao Fundo Coletivo, aplicação do artigo 489, §1º , inciso IV e artigo 1.022, inciso II" (fl. 578).
+Sustenta, ainda, que (fl. 580):
+O Ilustre Relator ou a Colenda Turma pode considerar a aplicação do prequestionamento ficto previsto no art. 1.025 do CPC/15, uma vez que a Agravante fez a oposição dos embargos de declaração na origem e indicou a violação do artigo 1.022 do CPC/15 no Recurso Especial, assim como requereu no Recurso Especial a anulação do Acórdão do Tribunal de origem e a determinação do retorno dos autos à origem para sanar as omissões apontadas nos embargos de declaração.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015. INEXISTÊNCIA. SUPOSTA OFENSA AOS ARTS. 36 E 42, V, DA LEI 6.435/1977; E 102 E 114 DA LEI 8.213/1991. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação aos arts. 1.022 e 489 do CPC/2015
+2. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o Enunciado 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação aos arts. 1.022 e 489 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material.
+A propósito:
+Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016 " (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Ademais, na forma da jurisprudência desta Corte, ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o Enunciado 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No caso, a questão relativa à suposta ofensa aos arts. 36 e 42, V, da Lei 6.435/1977; e 102 e 114 da Lei 8.213/1991, nos moldes delineados pela parte recorrente, não foi objeto de análise pelo Tribunal de origem, sendo ausente, portanto, o requisito do prequestionamento.
+Nesse mesmo sentido:
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF" (AgInt no AREsp n. 1.624.032/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/12/2023, DJe de 11/12/2023).
+Isso posto, nego provimento ao recurso.
