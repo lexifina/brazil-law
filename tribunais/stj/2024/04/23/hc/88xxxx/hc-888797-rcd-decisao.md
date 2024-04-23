@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por TALISSON DE ABREU, de decisão na qual indeferi liminarmente o habeas corpus (e-STJ, fls. 451-453).
+O requerente alega que "está no semiaberto deste novembro de 2023, mais continua em regime fechado, por não conseguir emprego, para poder sair para trabalhar durante o dia e de todo sabido que a Lei de Execuções Penais visa à reintegração progressiva do sentenciado na sociedade." (e-STJ, fl. 456)
+Sustenta que "a situação específica dos autos enseja ao paciente o direito de cumprir a sua pena em regime semiaberto domiciliar, porquanto oriundo de comarca diversa, não possuindo vínculos com a comarca de Para de Minas-MG, que fica 890 KM de Campos Gerais - MG, de modo que inviável que obtenha emprego que lhe possibilite a concessão de trabalho externo." (e-STJ, fl. 455-456)
+Requer, assim, a reconsideração da decisão, a fim de conceder habeas corpus de ofício para cassar o acórdão do Tribunal de origem e determinar ao relator que reaprecie o writ originário, como entender de direito.
+É o relatório.
+Decido.
+O pedido não merece ser acolhido.
+Conforme bem destacado na decisão atacada, é inviável a aferição do constrangimento ilegal sofrido pelo requerente, porquanto a matéria objeto deste mandamus não foi apreciada pelo Tribunal Estadual, pela impossibilidade de manuseio do habeas corpus como sucedâneo recursal e pela ausência de apreciação da matéria também pelo magistrado da execução (e-STJ, fls. 17-18):
+"Ora, no caso dos autos o MM. Juiz de Direito da Vara de Execuções Penais da Comarca de Pará de Minas, Antônio Fortes de Padua Neto, informou que:
+"(..) O paciente Talisson de Abreu ostenta condenação total à pena de 23 (vinte e três) anos, 07 (sete) meses e 28 (vinte e oito) dias, atualmente em regime semiaberto, em razão da existência de 02 (dois) títulos condenatórios, pelos crimes do artigo 33, caput, e do artigo 35, caput, ambos da Lei nº 11.343, de 2006, e do artigo 157, § 2º, incisos I e II, do Código Penal. 4. Em relação à argumentação do paciente no Habeas Corpus impetrado, destaco que o processo de execução de pena foi recentemente remetido a este juízo de execução penal em razão da progressão de regime deferida pelo Juízo de Execução Penal da Comarca de Formiga -MG. Ocorre que, nos termos do despacho de mov. 364.1, foi verificado por este juízo de execução penal que o processo foi remetido com incidentes pendentes, já que não houve a decisão acerca da falta grave (movs. 55.1-2, 155.1-2 e 284.1-2) o que obsta a análise de eventual pedido de saídas temporárias por ausência do requisito subjetivo ou em razão de eventual regressão de regime para o meio fechado. Ademais, tampouco há a prévia manifestação do Parquet acerca do benefício de saídas temporárias após a remessa do processo a este juízo de execução penal. (..) (documento de ordem 22)"
+Ademais, a Corte de origem ressaltou ainda que não foi demonstrado qualquer situação de constrangimento ilegal, flagrante nulidade ou teratologia possibilitando a concessão da ordem de ofício.
+Ante o exposto, indefiro o pedido de reconsideração.
+Publique-se. Intimem-se.
+EMENTA
