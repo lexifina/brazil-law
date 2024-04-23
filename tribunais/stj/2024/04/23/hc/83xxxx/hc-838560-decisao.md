@@ -1,0 +1,40 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de e-STJ fl. 44:
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de YURI GUILHERME BUENO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado à pena de 01 ano e 08 meses de reclusão, em regime inicial semiaberto, posteriormente substituída por duas restritivas de direitos, e ao pagamento de 166 dias-multa, pela prática do delito previsto no art. 33, § 4º, da Lei n. 11.343/2006. As partes não recorreram, tendo o trânsito em julgado da condenação ocorrido em 05/08/2022.
+A impetrante sustenta a ilegalidade da condenação, diante da insignificância da conduta atribuída ao paciente, em razão da ínfima quantidade de entorpecente apreendido (quatro porções de maconha, pesando, aproximadamente, 40,2 gramas).
+Desta forma, defende a possibilidade de aplicação do princípio da insignificância e reconhecimento da atipicidade material da conduta.
+O pedido liminar foi indeferido pelo Min. João Batista (Desembargador Convocado do TRF1) às e-STJ fls. 44/45.
+As informações foram prestadas às e-STJ fls. 51/53 e 54/87.
+Em parecer, o Ministério Público Federal opinou pelo não conhecimento da impetração, por supressão de instância (e-STJ fls. 91/93).
+É o relatório.
+Decido.
+Inicialmente, conforme consta das informações prestadas a condenação do paciente transitou em julgado (e-STJ fl. 52).
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. QUANTIDADE E NATUREZA DE DROGAS. REGIME DEVIDAMENTE FUNDAMENTADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão das circunstâncias apuradas na instrução processual. Ficou evidenciado que o paciente se dedicava à atividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto, demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. A quantidade e a natureza da droga demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+4. Habeas corpus não conhecido.
+(HC n. 643.197/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/5/2021, DJe de 14/5/2021 - grifei)
+Diante do trânsito em julgado da condenação do paciente, a impetração é substitutiva de revisão criminal.
+No entanto, em observância aos princípios da eficiência, celeridade e utilidade pública do processo, visando tutelar o bem jurídico da liberdade do paciente, passo à análise, de ofício, de eventual teratologia, ilegalidade ou abuso de poder.
+No entanto, é o caso de não conhecimento da impetração.
+Analisando o acórdão recorrido verifiquei que a Corte estadual não adentrou no mérito da impetração, limitando-se a discorrer acerca da impropriedade da via eleita, nos termos do seguinte excerto (e-STJ fl. 37):
+A soberana autoridade da matéria já transitada em julgada, resguardada pelo princípio da segurança jurídica, não pode ser desconstituída na via estreita do remédio heroico constitucional, máxime pelo rito célere e sumário.
+Destarte, a cognição do habeas corpus não comporta o exame de questões que, para seu deslinde, necessitam de análise aprofundada do conjunto fático probatório, o que é próprio do processo de conhecimento. Esta egrégia Corte Bandeirante e os Tribunais Superiores não têm mais admitido a impetração do writ como sucedâneo da revisão criminal, sob o risco de grave banalização do intuito heroico do remédio constitucional.
+Nem na sentença condenatória a matéria foi agitada, conforme relatório abaixo transcrito (e-STJ fl. 14):
+De sua vez, a Defesa requereu a improcedência da ação penal (TJSP - 7ª Câmara de Direito Criminal - Habeas Corpus Criminal n. 2257842-55.2019.8.26.0000, da 3ª Vara Judicial da Comarca de Bebedouro - Rel. Des. REINALDO CINTRA TORRES DE CARVALHO, V.U., j. 25/01/2020), argumentando que não existe prova suficiente para a condenação (art. 386 do CPP); em ordem sucessiva, a desclassificação para o disposto nos arts. 28,caput, e 33, § 3º, da LD; na hipótese de condenação, a aplicação da pena com observância das circunstâncias atenuantes e causas de diminuição de pena previstas em lei (fls. 188/209).
+A questão meritória apontada pela defesa (necessidade de reconhecimento da insignificância da conduta imputada ao paciente) não foi enfrentada em nenhum momento pelo Tribunal de origem, o que impede a atuação desta Corte Superior, sob pena de indevida supressão de instância (já que configura a impetração per saltum) e inversão das regras de competência previstas na arquitetura constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS. ANÁLISE DE PROVAS. VIA INADEQUADA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE OFÍCIO DE ORDEM DE HABEAS CORPUS. OPÇÃO EXCLUSIVA DO RELATOR.
+1. O Tribunal de origem, com apoio na prova dos autos, em especial depoimentos testemunhais colhidos sob o crivo do contraditório, concluiu pela legalidade da pronúncia, uma vez que verificou indícios suficientes nesse sentido, inclusive indicando ser inconteste a materialidade, motivo pelo qual é aplicável o princípio do in dubio pro societate.
+2. "Sobre os indícios de autoria da prática do crime imputado ao Agravante, segundo estabelece o art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor". (AgRg no HC n. 819.544/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+3. Tendo as instâncias de origem concluído no sentido de que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia, para se acolher a alegação de insuficiência probatória seria necessário o revolvimento fático-probatório, vedado em habeas corpus. Precedentes.
+4. No tocante ao alegado excesso de prazo da prisão decretada, verifica-se que a questão não foi analisada no acórdão recorrido. Desse modo, não debatida a questão pela Corte a quo, impedido fica o Superior Tribunal de Justiça de apreciar a matéria, sob pena de se incorrer em indevida supressão de instância.
+5. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, §2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus, de ofício, é opção exclusiva do relator.
+6. Agravo regimental improvido. (AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 13/11/2023, DJe de 16/11/2023) (destaquei).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
