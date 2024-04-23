@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL PENAL. PROPOSTA DE AFETAÇÃO RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. LESÃO AO BEM JURÍDICO TUTELADO. ADMISSÃO COMO REPRESENTATIVO DA CONTROVÉRSIA. AFETAÇÃO DO JULGAMENTO À TERCEIRA SEÇÃO.
+1. Delimitação da controvérsia: definição da natureza do crime previsto no art. 14 da Lei 10.826/2003 como de mera conduta e de perigo abstrato.
+2. Afetação do recurso especial ao rito do art. 1.036 e seguintes do Código de Processo Civil, e do art. 256 e seguintes do Regimento Interno do STJ.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, afetar o processo ao rito dos recursos repetitivos (RISTJ, art. 257-C) e, por unanimidade, não suspender a tramitação de processos, conforme proposta do Sr. Ministro Relator.
+A Sra. Ministra Daniela Teixeira e os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de recurso especial interposto por LUCAS FONSECA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios.
+O recorrente foi condenado como incurso nas sanções do art. 14, caput, da Lei n. 10.826/03, à pena de 2 (dois) anos de reclusão, em regime aberto, e 10 (dez) dias-multa (fls. 263-268).
+O Tribunal de origem negou provimento à apelação em que a defesa requeria, em síntese, a absolvição por atipicidade material da conduta, uma vez que não teria ocorrido comprovação de efetiva lesão à incolumidade pública, bem jurídico tutelado pelo tipo penal que lhe foi imputado (fls. 380-390).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 14, caput, da Lei n. 10.826/03; art. 386, inciso III, do Código de Processo Penal; art. 41 da Lei n. 11.343/06; art. 3º-A da Lei n. 12.850/13; art. 8º, parágrafo único, da Lei n. 8.072/90; art. 16, parágrafo único, da Lei n. 8.137/90; art. 25, § 2º, da Lei n. 7.492/86; e art. 159, § 4º, do Código Penal (fls. 413-424).
+O recurso foi inadmitido na origem com fundamento nas Súmulas n. 7 e 83, STJ (fls. 448-451).
+Em vista disso, a defesa interpôs agravo em recurso especial (fls. 460-477).
+No Superior Tribunal de Justiça, a Ministra Assusete Magalhães, então Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, deu provimento ao agravo, determinou a sua conversão em recurso especial e o qualificou como representativo da seguinte controvérsia: se o crime previsto no art. 14 da Lei 10.826/2003 é de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta (fls. 499-500).
+O Ministério Público do Distrito Federal e Territórios se manifestou favoravelmente à afetação do recurso (fl. 510).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. PROPOSTA DE AFETAÇÃO RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. LESÃO AO BEM JURÍDICO TUTELADO. ADMISSÃO COMO REPRESENTATIVO DA CONTROVÉRSIA. AFETAÇÃO DO JULGAMENTO À TERCEIRA SEÇÃO.
+1. Delimitação da controvérsia: definição da natureza do crime previsto no art. 14 da Lei 10.826/2003 como de mera conduta e de perigo abstrato.
+2. Afetação do recurso especial ao rito do art. 1.036 e seguintes do Código de Processo Civil, e do art. 256 e seguintes do Regimento Interno do STJ.
+VOTO
+Verifico que foram preenchidos os requisitos legais e regimentais para afetação do presente recurso especial ao procedimento qualificado dos repetitivos.
+Nos termos do art. 1.036, caput, e § 6º, do Código de Processo Civil, sempre que houver multiplicidade de recursos especiais com fundamento em idêntica questão de direito, que contenham abrangente argumentação e discussão a respeito da questão a ser decidida, haverá afetação para julgamento conforme as disposições do Regimento Interno do Superior Tribunal de Justiça.
+O Regimento Interno desta Corte, por sua vez, estabelece, em seu art. 257-A, § 1º, os seguintes requisitos, in verbis:
+"§ 1º Para a afetação ou admissão eletrônica, os Ministros deverão observar, entre outros requisitos, se o processo veicula matéria de competência do STJ, se preenche os pressupostos recursais genéricos e específicos, se não possui vício grave que impeça o seu conhecimento e, no caso da afetação do recurso à sistemática dos repetitivos, se possui multiplicidade de processos com idêntica questão de direito ou potencial de multiplicidade."
+O recorrente alega violação, entre outros dispositivos, ao art. 14 da Lei n. 10.826/03, ao argumento de que, ao manter a sua condenação pelo delito de porte ilegal de arma de fogo de uso permitido, o Tribunal de origem não teria considerado a ausência de lesão à incolumidade pública, bem jurídico tutelado pelo referido tipo penal. Sustenta, nesse sentido, a atipicidade da conduta, uma vez que a comprovação de lesão ao bem jurídico tutelado seria imprescindível para a configuração do crime.
+Assim, é possível observar que a controvérsia apresentada no recurso especial possui argumentação adequada e está inserida no âmbito de competência do Superior Tribunal de Justiça.
+Ademais, o recurso especial atende aos pressupostos genéricos e específicos de admissibilidade, uma vez que foi dado provimento ao ARESP interposto contra a decisão que o inadmitiu na origem.
+Com relação à multiplicidade de processos com idêntica questão de direito, cumpre transcrever trecho elucidativo do despacho da então Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, a Ministra Assusete Magalhães (fls. 519-520):
+"No entanto, a despeito do posicionamento consolidado por ambas as Turmas de Direito Penal da Corte, é possível observar, como no caso destes autos, que a questão se mantém controversa nas instâncias de origem, ensejando a interposição de recursos especiais e de habeas corpus perante o STJ.
+Para comprovar esse comportamento e o requisito de multiplicidade da questão jurídica, registro que, em consulta à base de jurisprudência desse Tribunal Superior, foram localizados, pelo menos, 13 acórdãos e 261 decisões monocráticas versando sobre a matéria em comento."
+Portanto, atendidos os requisitos legais e regimentais exigidos, entendo que a matéria deve ser submetida ao rito qualificado do recurso especial repetitivo, tendo em vista a sua relevância jurídica e a necessidade de se conferir maior racionalidade e coerência no julgamento do tema.
+Registro, ainda, a desnecessidade da suspensão prevista no art. 1.037 do Código de Processo Penal, visto que já existe orientação consolidada das Turmas da Terceira Seção acerca do tema e porque eventual atraso no julgamento poderia revelar prejuízo aos jurisdicionados.
+Por outro lado, como bem destacou a então Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, conquanto continuem chegando a esta Corte recursos especiais e agravos em recurso especial sobre a temática em comento, "esses processos ficarão impedidos de ser julgados no Superior Tribunal, por força do decidido no EAREsp 380.796/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 17/12/2018" (fl. 521).
+Ante o exposto, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil e dos arts. 256 a 256-X do Regimento Interno do Superior Tribunal de Justiça, proponho a afetação do julgamento do presente recurso especial à Terceira Seção, com a adoção das seguintes providências:
+a) delimitação da controvérsia nos seguintes termos: definição da natureza do crime previsto n o art. 14 da Lei 10.826/2003 como de mera conduta e de perigo abstrato;
+b) envio de cópia do inteiro teor do acórdão proferido nestes autos aos Ministros integrantes da Terceira Seção do Superior Tribunal d e Justiça;
+c) comunicação aos tribunais de justiça e aos tribunais regionais federais para que tomem conhecimento do acórdão proferido nestes autos, com a observação de que não apliquem o disposto na parte final do § 1º do art. 1.036 do Código de Processo Civil e no art. 256-L do RISTJ (suspensão do trâmite dos processos pendentes);
+d) expedição de ofício à Defensoria Pública da União para facultar a participação na condição de amicus curiae;
+e) após, nova vista ao Ministério Público Federal pelo prazo 15 dias, nos termos do art. 256-M do RISTJ.
+É como voto.
