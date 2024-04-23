@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 19):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO - DIREITO DE RECORRER EM LIBERDADE NÃO RECONHECIDO - PEDIDO DE REVOGAÇAO DA MEDIDA CAUTELAR INDEFERIDO - DECISÕES FUNDAMENTADAS - MÉTODO PER RELATIONEM - PERMANÊNCIA DOS FUNDAMENTOS E PRESSUPOSTOS DA PRISÃO PREVENTIVA - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA PARA OBSTAR A CONSTRIÇÃO CAUTELAR - EXCESSO DE PRAZO - REGRAMENTO ESPECÍFICO QUANTO AO TEMPO PARA JULGAMENTO DE RÉU PRONUNCIADO - RELAXAMENTO DA PRISÃO - INVIABILIDADE. 1. Desde que mantidas as condições que ditaram a decisão acautelatória anterior, é desnecessária uma pretensa e tautológica repetição de fundamentos já expostos reduzidos a um mesmo conteúdo motivacional, o qual pode ser validamente invocado à guisa de fundamentação per relationem (ou aliunde). 2. Condições pessoais favoráveis, por si, não são suficientes para inibir a custódia cautelar. 3. O prazo para a formação da culpa não pode constituir-se numa simples soma aritmética dos prazos processuais, devendo ser cotejado com as particularidades do caso concreto, à luz dos princípios da razoabilidade e proporcionalidade. 4. Prolatada a sentença de pronúncia fica, em regra, superada a alegação de constrangimento ilegal por excesso de prazo para o encerramento da instrução criminal, nos termos da Súmula nº 21 do Superior Tribunal de Justiça, havendo regência de regras específicas para o caso de mora à designação do julgamento.
+V.V. 1. A prisão cautelar é medida excepcional, que somente deverá ocorrer se comprovada sua real necessidade, que, no caso em tela, não restou devidamente demonstrada. 2. Possível à aplicação de outras medidas cautelares, a prisão deve ser evitada. 3. Ordem concedida em parte.
+Consta dos autos que o paciente foi pronunciado pela suposta prática do crime previsto no art. 121, caput, do Código Penal.
+No presente writ, sustenta a defesa que não estão presentes os requisitos do art. 312 do Código de Processo Penal e que o decreto prisional carece de fundamentação idônea.
+Ressalta que o acusado ostenta condições pessoais favoráveis.
+Alega possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que com a imposição de medidas cautelares.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pela defesa.
+Na hipótese, o impetrante não colacionou aos autos a cópia da decisão que decretou a prisão preventiva (mas apenas da decisão de pronúncia, que manteve a constrição cautelar), de forma que a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no H C 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido.
+(AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
