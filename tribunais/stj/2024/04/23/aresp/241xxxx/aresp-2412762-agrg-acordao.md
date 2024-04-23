@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Daniela Teixeira e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. ALEGADA NULIDADE NA SESSÃO DE JULGAMENTO. TESTEMUNHAS RESIDENTES EM COMARCA DIVERSA. ART. 155 DO CPP E DOSIMETRIA DA PENA-BASE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TENTATIVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "As testemunhas que residem em comarca diversa do local de julgamento estão desobrigadas de comparecer à sessão plenária. Nesse contexto, sua presença no julgamento pelo Tribunal do Júri é ônus das partes, inexistindo ilegalidade na decisão de dispensa proferida pelo Juízo a quo" (AgRg no REsp n. 1.966.376/SP, relator Ministr o Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 17/11/2022).
+2. A Corte local não se manifestou sobre as teses defensivas referentes ao art. 155 do CPP e à valoração negativa de circunstâncias judiciais. Incidência da Súmula 211/STJ.
+3. A pretensão de modificar a minorante da fração da tentativa esbarra na Súmula 7/STJ, pois seria necessário reexaminar os fatos e provas da causa para analisar quão perto o recorrente chegou de concluir o iter criminis dos homicídios.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCÉRGIO SOARES DE OLIVEIRA contra decisão monocrática que não conheceu do recurso especial (e-STJ, fls. 4.403-4.406).
+A parte agravante aduz, em síntese, que: (I) não incidiria ao caso a Súmula 7/STJ, pois "a simples menção aos fatos perquiridos no decorrer da persecução penal não implica na alegada pretensão de reexame de matéria fático probatória" (e-STJ, fl. 4.417); e (II) toda a matéria estaria prequestionada, o que afastaria a incidência da Súmula 211/STJ.
+Pede, ao final, o provimento deste agravo regimental, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. ALEGADA NULIDADE NA SESSÃO DE JULGAMENTO. TESTEMUNHAS RESIDENTES EM COMARCA DIVERSA. ART. 155 DO CPP E DOSIMETRIA DA PENA-BASE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TENTATIVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "As testemunhas que residem em comarca diversa do local de julgamento estão desobrigadas de comparecer à sessão plenária. Nesse contexto, sua presença no julgamento pelo Tribunal do Júri é ônus das partes, inexistindo ilegalidade na decisão de dispensa proferida pelo Juízo a quo" (AgRg no REsp n. 1.966.376/SP, relator Ministr o Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 17/11/2022).
+2. A Corte local não se manifestou sobre as teses defensivas referentes ao art. 155 do CPP e à valoração negativa de circunstâncias judiciais. Incidência da Súmula 211/STJ.
+3. A pretensão de modificar a minorante da fração da tentativa esbarra na Súmula 7/STJ, pois seria necessário reexaminar os fatos e provas da causa para analisar quão perto o recorrente chegou de concluir o iter criminis dos homicídios.
+4. Agravo regimental desprovido.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Como se constatou quando do julgamento monocrático, a alegada nulidade por cerceamento de defesa é improcedente, pois as testemunhas que residem em comarca diversa do local do julgamento estão desobrigadas de comparecer à sessão plenária, cabendo à defesa diligenciar seu comparecimento. Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLENÁRIO ANULADO. INOVAÇÃO NO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. TESTEMUNHA QUE RESIDE EM COMARCA DISTINTA. INEXIGIBILIDADE DE COMPARECIMENTO À SESSÃO PLENÁRIA. ÔNUS DAS PARTES. REDAÇÃO DOS QUESITOS. OBSERVÂNCIA DO ART. 482, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL. DOSIMETRIA DA PENA. JUÍZO DE DISCRICIONARIEDADE VINCULADA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS JUDICIAIS. FUNDAMENTAÇÃO IDÔNEA. ATENUANTE INOMINADA. AUSÊNCIA DE COMETIMENTO DE NOVOS DELITOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. As testemunhas que residem em comarca diversa do local de julgamento estão desobrigadas de comparecer à sessão plenária. Nesse contexto, sua presença no julgamento pelo Tribunal do Júri é ônus das partes, inexistindo ilegalidade na decisão de dispensa proferida pelo Juízo a quo.
+ ..
+7. Agravo regimental não provido".
+(AgRg no REsp n. 1.966.376/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 17/11/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NULIDADE POR FALTA DE INTIMAÇÃO DE TESTEMUNHA. NÃO OCORRÊNCIA. NULIDADE POR AUSÊNCIA DE TESTEMUNHA DEVIDAMENTE INTIMADA NA SESSÃO PLENÁRIA. A PRESENÇA DE TESTEMUNHAS RESIDENTES EM COMARCA DIVERSA DO LOCAL DO JULGAMENTO É UMA FACULDADE. EXCESSO NA QUESITAÇÃO. PRECLUSÃO. QUESITO REDIGIDO DE ACORDO COM OS ARTS. 482 E 483 DO CPP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há que se falar em nulidade do julgamento por falta de intimação de testemunhas quando consta dos autos que as aludidas testemunhas foram devidamente intimadas.
+2. Regularmente citada, a testemunha que reside em comarca diversa do local do julgamento não está obrigada a comparecer à sessão plenária. Precedentes.
+3. As nulidades do julgamento em plenário, audiência, ou sessão do Tribunal devem ser atacadas logo após sua ocorrência, sob pena de preclusão, consoante determina o art. 571, V e VIII, do Código de Processo Penal. É indispensável que a irresignação da parte esteja consignada na ata de julgamento.
+4. Uma vez que a defesa deixou de se manifestar quanto ao assunto em momento oportuno, a alegação de excesso na formulação do segundo quesito foi alcançada pela preclusão.
+5. De qualquer sorte, não há que se falar em erro apto a causar perplexidade aos jurados, pois o segundo questionamento dirigido ao Júri foi redigido de maneira simples, clara, com menção à participação do acusado na empreitada criminosa, tudo nos termos dos arts. 482 e 483, ambos do CPP.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 1.331.274/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2021, DJe de 30/4/2021, grifou-se)
+Embora remanesça a possibilidade em tese de inquirição das testemunhas por videoconferência (art. 222, § 3º, do CPP), as instâncias ordinárias constataram que o juízo de origem não tinha condições técnicas de promovê-la, de modo que a inversão do julgado no ponto esbarra na Súmula 7/STJ. Sobre essa questão, aliás, a defesa nada diz no recurso especial ou no agravo regimental, tendo simplesmente ignorado a conclusão do Judiciário local sobre a impossibilidade de ouvida remota das testemunhas.
+Não há prequestionamento da tese de que a condenação repousaria apenas em elementos do inquérito. Com efeito, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria, nem há no aresto a especificação de quais testemunhos foram prestados em juízo ou na etapa extrajudicial. Semelhantemente, a Corte de origem não se manifestou especificamente sobre a valoração negativa das circunstâncias judiciais, na primeira etapa da dosimetria da pena (o que também impacta a fixação da fração de exasperação do crime continuado).
+Os trechos do acórdão recorrido agora indicados no agravo regimental (e-STJ, fls. 4.423-4.424 e 4.428-4.429) somente corroboram tal conclusão, já que não trazem nenhum pronunciamento do TJ/SP sobre a origem das provas (o inquérito ou o processo judicial) que sustentam o veredito condenatório, muito menos sobre os fundamentos da negativação de cada circunstância judicial do art. 59 do CP.
+Em relação a tais temas, portanto, incide a Súmula 211/STJ. Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não demonstrou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local e julgar os temas de mérito do recurso especial diretamente neste STJ. Nesse sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido".
+(AgRg no REsp 1902294/SP, de minha relatoria, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Destaco que, ao contrário do que diz a defesa às fls. 4.419-4.421 e 4.422-4.423 (e-STJ), o conhecimento de tais temas não foi obstado pela Súmula 7/STJ, mas sim pela falta de prequestionamento. Os argumentos do agravo regimental encontram-se, então, dissociados do que efetivamente se analisou no julgamento monocrático no ponto.
+Finalmente, a pretensão de que a minorante da tentativa incida na fração de um 2/3 (ao invés do quantum de 1/3 aplicado na or i gem) encontra óbice na Súmula 7/STJ, pois seria necessário reexaminar os fatos e provas da causa para analisar quão perto o recorrente chegou de concluir o iter criminis dos homicídios. A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. DESCLASSIFICAÇÃO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. TENTATIVA. FRAÇÃO MÁXIMA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Em relação à tentativa, o Código Penal, em seu art. 14, inciso II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição (HC n. 502.584/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 6/6/2019, DJe 11/6/2019).
+4. No presente caso, o Juízo sentenciante aplicou a redução pela tentativa em 1/3, tendo em vista o iter criminis percorrido pelo agente, decisão esta mantida pela Corte de origem. Ora, rever tal conclusão, como requer a parte recorrente, no sentido da aplicação da fração de 2/3, em relação à tentativa, demandaria o revolvimento de matéria fático-probatória dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula 7/STJ.
+ ..
+6. Agravo regimental não provido".
+(AgRg no AgRg no AREsp 1710516/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 13/10/2020)
+A argumentação defensiva das fls. 4.421-4.422 (e-STJ) nem sequer apresenta algum precedente desta Corte Superior em sentido contrário, o que apenas confirma que a aplicação da Súmula 7/STJ se deu em sintonia com a jurisprudência dominante.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
