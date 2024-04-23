@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ SÉRGIO DE OLIVEIRA SILVA contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ, fls. 457-458):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. IMPROCEDÊNCIA. PRELIMINAR. VÍCIO . EXTRA PETITA ACOLHIMENTO. SENTENÇA NULA. CAUSA MADURA. APLICAÇÃO DO ART. 1.013, §3º DO CÓDIGO DE PROCESSO CIVIL DE 2015. JULGAMENTO IMEDIATO. JUROS SOBRE TARIFAS DECLARADAS ILEGAIS EM AÇÃO ANTERIOR. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO DECENAL RECONHECIDA. AÇÃO FUNDADA EM RELAÇÃO CONTRATUAL. INCIDÊNCIA DA REGRA GERAL. ART. 205 DO CÓDIGO CIVIL. PRAZO DE DEZ ANOS. MARCO INICIAL. DATA DA ASSINATURA DO CONTRATO. AJUIZAMENTO DA AÇÃO APÓS O TRANSCURSO DO PRAZO PRESCRICIONAL. IMPROCEDÊNCIA DA DEMANDA.
+- O ordenamento jurídico pátrio consagrou o princípio da congruência segundo o qual a decisão judicial deverá ter estrita relação com as pretensões do autor estabelecidas na inicial. A sua inobservância, geralmente, gera decisões extra, ultra ou citra petita.
+- Considera-se sentença extra petita aquela que concede provimento de mérito diverso do pretendido na inicial.
+- In casu, do cotejo da exordial com o conteúdo da decisão de primeira instância, verifica-se que o juiz sentenciante acabou por fundamentar a sua decisão em pedido diverso daquele requerido pela parte autora no bojo da petição inicial, proferindo, portanto, sentença eivada por vício de julgamento extra petita.
+- O legislador processual civil inovou na ordem jurídica, estabelecendo um novo modo de proceder para os Tribunais de Justiça, objetivando maior celeridade processual. Assim, para as hipóteses de sentenças cujo julgamento não é congruente com o pedido ou a causa de pedir, o Código de Processo Civil de 2015, ao disciplinar o efeito devolutivo do recurso de apelação, no §3º do art.1.013, atribui o dever de o Tribunal decidir desde logo o mérito da demanda, quando esta estiver em condições de imediato julgamento.
+- Conforme entendimento jurisprudencial pacificado, o prazo prescricional aplicável às ações revisionais de contrato bancário é o geral, preceituado pelo artigo 205 do Código Civil, ou seja, de 10 (dez) anos, pois fundadas em direito pessoal, a contar da data da assinatura do contrato.
+- Considerando que, entre a data da assinatura da avença e o momento do ajuizamento da ação, já transcorreram mais de 10 anos, há de ser reconhecida a prescrição da pretensão autoral, extinguindo-se o processo com resolução do mérito, nos termos do artigo 487, inciso II do CPC/2015.
+No recurso especial, alegou o recorrente a ofensa ao art. 205 do Código Civil, sustentando, em síntese, que não há falar em prescrição, haja vista a aplicação do prazo prescricional decenal, cujo termo inicial é a data de vencimento da última parcela do contrato de financiamento.
+Contrarrazões apresentadas às fls. 548-555 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente à interposição de agravo.
+Brevemente relatado, decido.
+A controvérsia refere-se, em síntese, a ocorrência, ou não, da prescrição no caso vertente.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 464-466):
+Como é sabido, a temática prescricional é bastante discutida no âmbito da doutrina e analisada pela jurisprudência pátria, sendo certo que sua interpretação apresenta minúcias e complexidades peculiares às próprias bases principiológicas que fundamentam a existência desse mecanismo processual.
+Dentro dessa seara, é entendimento firmado no ordenamento jurídico que a prescrição é o prazo estabelecido pela lei para o exercício do direito de ação, com vistas a limitar os abusos que a prática desse pilar do direito processual pode acarretar, trazendo a insegurança nas relações jurídicas, bem como podendo resultar na eterna sujeição de um indivíduo perante outro, pela possibilidade do ajuizamento de demanda na busca ad aeternum de uma pretensão legítima, porém, ocorrida há bastante tempo.
+Assim, observa-se que o instituto da prescrição tem sua relevância no ordenamento jurídico nacional, sendo uma medida salutar para impedir a inércia do credor, a fim de que situações indefinidas não se eternizem, abalando o princípio da segurança jurídica.
+Nesse contexto, conforme entendimento pacificado na jurisprudência pátria, o prazo prescricional aplicável ao caso é o geral, preceituado pelo artigo 205 do Código Civil, ou seja, de 10 anos a contar da data da assinatura do contrato.
+( )
+Na hipótese vertente, há que se cogitar o decurso do prazo prescricional decenal, tendo em vista que o contrato foi firmado em 31.03.2011 (evento nº14947406) e a ação judicial somente foi ajuizada em 30.04.2021.
+Nesses termos, indubitável que a pretensão da parte autora se encontra fulminada pela prescrição, uma vez decorridos mais de 10 (dez) anos da assinatura da avença, resultando na impossibilidade de manejo do direito subjetivo em face da promovida, razão pela qual não merece reforma a decisão proferida pelo juízo a quo.
+Com efeito, segundo a jurisprudência desta Corte Superior, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+Confiram-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. ÓBICE DA SÚMULA N. 83/STJ.
+De acordo com a jurisprudência desta corte, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Incidência da Súmula n. 83/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.386.595/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIO CUMULADA COM REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TERMO INICIAL DO PRAZO PRESCRICIONAL. DATA DA ASSINATURA DO CONTRATO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. O termo inicial do prazo prescricional, no qual o mutuário pretende rever cláusulas de contrato de empréstimo pessoal, é a data da assinatura do contrato.
+2.1 "A jurisprudência desta Corte é firme em determinar que o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato" (REsp n. 1.996.052/RS, Rel Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 19/5/2022).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.124.449/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA AUTORA.
+1. Violação aos artigos 489 e 1.022 do CPC não configurada.
+Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão ou obscuridade. Precedentes.
+2. Nos termos do entendimento jurisprudencial do STJ, deve-se considerar como termo inicial do prazo prescricional, nas ações de revisão de contrato bancário, a data da assinatura do contrato.
+Incidência da Súmula 83 do STJ.
+3 . Agravo interno desprovido.
+(AgInt no REsp n. 2.051.063/PB, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Na espécie, portanto, vislumbra-se que a irresignação do agravante não merece acolhida, uma vez que o acórdão recorrido, ao concluir que "a pretensão da parte autora se encontra fulminada pela prescrição, uma vez decorridos mais de 10 (dez) anos da assinatura da avença, resultando na impossibilidade de manejo do direito subjetivo em face da promovida" (e-STJ, fl. 466), está em consonância com o entendimento supracitado deste Superior Tribunal.
+Dessa forma, percebe-se que não merece reparo o acórdão recorrido, sendo de rigor a incidência da Súmula n. 83 do STJ.
+Ademais, destaca-se que, afastar a conclusão do acórdão quanto à ocorrência da prescrição, ensejaria a reinterpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, providências que esbarram no óbice constante das Súmulas n. 5 e 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. CONTRATO DE FINANCIAMENTO BANCÁRIO. REVISÃO DE CLÁUSULAS. PRESCRIÇÃO DECENAL. OCORRÊNCIA. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
