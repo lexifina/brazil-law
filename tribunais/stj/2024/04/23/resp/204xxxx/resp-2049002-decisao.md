@@ -1,0 +1,9 @@
+DECISÃO
+Na sessão eletrônica de afetação do dia 03.04.2024 a 09.04.2024, este STJ submeteu à Primeira Seção o TEMA /STJ através dos seguintes recursos repetitivos: REsp. n. 1.976.618/RJ e REsp. n. 1.995.220/RJ. Neles se discute a "possibilidade de se estender o creditamento de IPI previsto no art. 11, da Lei n. 9.779/99 também para os produtos finais não tributados (NT), imunes, previstos no art. 155, §3º, da CF/88".
+A abrangência da suspensão envolveu a determinação de suspensão da tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão delimitada e tramitem no território nacional. Aplicando-se o art. 1.037, II, do CPC/2015.
+A admissão de recurso especial como repetitivo impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Assim, por razões de economia processual, TORNO SEM EFEITOS A DECISÃO DE e-STJ fls. 471/473 e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o exame do recurso especial e/ou agravo ocorra após exercido o juízo de retratação ou declarado prejudicado o recurso, na forma do art. 1.039 do CPC/2015.
+Observo também que após publicado o acórdão relativo ao recurso repetitivo o respectivo recurso especial deverá: 1) ter seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça (art. 1.040, I, do CPC/2015); (ou) 2) ser novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça (art. 1.040, II, do CPC/2015).
+Prejudicados os embargos de declaração de e-STJ fls. 475/483 e o agravo interno de e-STJ fls. 487/503.
+Publique-se. Intimem-se.
+EMENTA
