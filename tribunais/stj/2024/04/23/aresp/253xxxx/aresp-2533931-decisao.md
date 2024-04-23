@@ -1,0 +1,26 @@
+DECISÃO
+Na origem, trata-se de ação civil pública, objetivando a condenação da ré ao pagamento de indenização por danos morais difusos no valor de R$ 4.000,00 (quatro mil reais), mediante depósito em favor do Fundo Municipal do Idoso. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido. O valor da causa foi fixado em R$ 4.000,00 (quatro mil reais).
+O recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+AÇÃO CIVIL PÚBLICA - DANO MORAL COLETIVO
+Pretensão a condenação da ré ao pagamento de indenização, por dano moral coletivo, por estacionar veículo em vaga reservada a idosos. Procedência. Mera infração de trânsito não configura transgressão de grande magnitude, capaz de provocar intensos sofrimentos e graves perturbações na ordem social. Dano moral difuso não caracterizado. Precedentes. Sentença reformada.
+Recurso provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Segundo consta, em 22.03.19 a ré teria estacionado seu veículo em vaga reservada a idosos (fl. 20).
+Narrou o Ministério Público ser, esse tipo de irregularidade, frequente em Ribeirão Preto, gerando abalo na ordem social. Com sua infração, o réu contribuiu com esse estado de coisas. Daí o dever de pagar indenização, por dano moral coletivo, em valor não inferior a R$ 4.000,00 (fls. 01/06).
+ ..
+No presente caso, não configurado dano moral coletivo, o qual somente se caracteriza em situações de transgressões de grande magnitude, capazes de provocar intensos sofrimentos e graves perturbações na ordem extrapatrimonial da coletividade atingida, gerando, com isso, severa intranquilidade social.
+Logo, a mera infringência a norma de trânsito não é suficiente para sua caracterização.
+ ..
+Assim, suficientes as penalidades impostas pelo Código de Trânsito Brasileiro multa e remoção do veículo (art. 180, inciso XX).
+Mera infração de trânsito individual não tem o condão de provocar intenso sofrimento à coletividade dos portadores de deficiência do Município. Não há falarem grave transgressão apta a provocar intranquilidade social.
+Ademais, descabido responsabilizar a ré pelas demais infrações de trânsito similares praticadas no Município.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
