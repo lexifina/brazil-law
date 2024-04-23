@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar interposto em benefício de PEDRO LINDBERG DELFINO DE SOUSA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (HC n. 0813289-68.2021.8.14.0000).
+Depreende-se dos autos que o paciente foi condenado à pena de 6 anos, 26 meses e 20 dias de reclusão, em regime inicial semiaberto, pela prática do crime de roubo circunstanciado (art. 157, § 2º, incisos I e II do Código Penal). Na ocasião, foi mantida a prisão preventiva do réu.
+Impetrado prévio writ na origem, a ordem foi denegada, nos termos da ementa de e-STJ fl. 49:
+EMENTA: HABEAS CORPUS. ART. 157, §2º, INCISOS I E II DO CPB. ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS LEGAIS DA PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. INCOMPATIBILIDADE ENTRE O REGIME SEMIABERTO E A PRISÃO CAUTELAR. IMPROCEDÊNCIA. PRECEDENTES DO STJ. ORDEM PARCIALMENTE CONHECIDA E DENEGADA. DECISÃO UNÂNIME.
+1. Verifica-se que a alegação do impetrante relativa à ausência dos requisitos legais da custódia preventiva já fora objeto de outro Habeas Corpus anteriormente impetrado perante esta Egrégia Seção de Direito Penal. Assim, por se tratar este pleito de matéria devidamente analisada e julgada, sem apresentação, pela defesa, de qualquer fato novo a justificar a modificação da decisão anterior, deixo de tecer maiores comentários e juízo de valor sobre o tema enfocado, vez que consiste em reiteração de pedido em sede de Habeas Corpus, e não conheço da referida argumentação.
+2. A jurisprudência majoritária também converge no sentido de que a fixação, na sentença, do regime semiaberto para o cumprimento da pena, não é capaz, por si só, de autorizar que o réu recorra em liberdade, quando presentes os motivos que autorizam a sua custódia. Precedentes do STJ.
+3. ORDEM PARCIALMENTE CONHECIDA E DENEGADA à unanimidade, nos termos do voto da Desembargadora Relatora.
+Daí o presente writ, no qual sustenta a defesa constrangimento ilegal decorrente da negativa do recurso em liberdade. Argumenta a incompatibilidade da prisão preventiva com a fixação do regime semiaberto na sentença penal condenatória.
+Afirma que, "ao negar ao paciente condenado a pena com regime inicial semiaberto o direito de recorrer em liberdade constitui patente violação ao PRINCÍPIO CONSTITUCIONAL IMPLÍCITO DA PROPORCIONALIDADE, do qual se extrai o PRINCÍPIO DA HOMOGENEIDADE DAS MEDIDAS CAUTELARES, o qual, registre-se, já vem expressamente recebendo guarida pelo Código de Processo Penal nos arts. 283, § 1º, e 313, I, com a redação conferida pela Lei 12.403/11" (e-STJ fls. 9/10), revelando-se mais gravosa a prisão preventiva do que a própria condenação imposta ao paciente, que poderia ser executada em casa de albergado.
+Assevera a existência de flagrante violação ao princípio da homogeneidade, ante o fato de que a medida cautelar é eivada de ilegalidade por ser mais grave do que a pena aplicada ao final do processo, e ao princípio da presunção de inocência, notadamente porque não se sabe, ainda, qual o resultado advirá do recurso de apelação interposto contra a sentença que negou ao paciente o direito de recorrer em liberdade.
+Insurge-se, também, contra os fundamentos da prisão preventiva do paciente, ao argumento de que a sentença se valeu de motivação genérica para a decretação do enclausuramento cautelar, sem explicar de que forma a liberdade do paciente colocaria em risco a ordem pública, devendo prevalecer o direito do paciente de recorrer em liberdade frente à ausência dos requisitos legais da prisão preventiva.
+Subsidiariamente, destaca a suficiência das medidas cautelares diversas da prisão.
+Diante dessas considerações, pugna, liminarmente, pela revogação da prisão preventiva, que se revela incompatível com o regime semiaberto fixado na sentença. No mérito, requer o reconhecimento do direito do paciente de permanecer em liberdade até o trânsito em julgado da condenação ou, subsidiariamente, a substituição d a prisão preventiva por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+Liminar indeferida às e-STJ fls. 438/441.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação do writ (e-STJ fls. 529).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência do julgamento do apelo defensivo e a baixa definitiva do processo, de modo que não há mais falar em prisão preventiva, mas sim em efetivo cumprimento de pena.
+Portanto, esvaziado está o objeto deste writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
