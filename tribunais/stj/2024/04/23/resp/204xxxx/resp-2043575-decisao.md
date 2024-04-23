@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE ARAPOTI, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (e-STJ fl. 60):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINA A APLICAÇÃO DO IPCA-E POR TODO O PERÍODO. POSSIBILIDADE. INCIDÊNCIA DA CORREÇÃO MONETÁRIA COM BASE NA TR. INCONSTITUCIONALIDADE DECLARADA PELO SUPREMO TRIBUNAL FEDERAL (TEMA 810), PROFERIDO EM SEDE DE REPERCUSSÃO GERAL,ANTES DO TRÂNSITO EM JULGADO DA SENTENÇA EXEQUENDA. POSSIBILIDADE DE ALTERAÇÃO DOS CRITÉRIOS ESTABELECIDOS. INOCORRÊNCIA DE OFENSA À COISA JULGADA. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 503 e 508 do CPC/2015, sustentando que o índice de correção monetária fixado em sentença ou acórdão transitado em julgado não pode ser modificado em sede de cumprimento de sentença, sendo inaplicável o entendimento superveniente exarado pelo STJ e pelo STF, "pois o superveniente julgamento de inconstitucionalidade de determinado dispositivo legal pelo STF não tem o condão de modificar os critérios já fixados no título executivo judicial" (e-STJ fl. 82).
+Contrarrazões às e-STJ fls. 99/107.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 112/113.
+Decisão desta relatoria, determinando o retorno dos autos à origem para que aguardassem o julgamento do Tema 1.170 do STF e, após a sua publicação, para que fossem tomadas as providências do art. 1.040 do CPC/2015 (e-STJ fls. 164/166).
+A Corte local devolveu os autos para a análise desta Corte, tendo em vista a divergência interpretativa acerca da possibilidade de alteração dos índices de juros de mora e de correção monetária.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Extrai-se do acórdão recorrido o seguinte (e-STJ fls. 62/65):
+ ..
+Com efeito, extrai-se dos autos que o agravado ajuizou cumprimento individual da sentença proferida na ação coletiva nº 0001141-36.2016.8.16.0046, contra o Município de Arapoti.
+Consta no dispositivo da sentença executada, o seguinte:
+ ..
+No tocante as diferenças, estas deverão ser acrescidas de juros moratórios, calculados com base no índice oficial de juros aplicados à 9.494/99 caderneta de poupança, nos termos da regra do art. 1º-F da Lei, sendo que antes de 30.06.2009 devem incidir os juros moratórios de 0,5% ao mês; correção monetária pela TR, no período compreendido entre 13.12.2009 e 25.03.2015 e, após 25.03.2015, a correção monetária deve ser feita pelo IPCA-E (AgInt na ExeMS 4.149/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 22/02/2017, DJe 02/03/2017). CONDENO o requerido ao pagamento das custas processuais e honorários advocatícios, os quais fixo em R$ 2.000,00 (dois mil reais) nos termos do aritgo 85, § 8º, do Código de Processo Civil.
+Publique-se. Registre-se. Intimem-se.
+ ..
+Em sede de reexame necessário, a sentença foi alterada, em parte, por esta 2ª CC, conforme se verifica a seguir:
+"..Em conclusão, em sede de reexame necessário, voto por manter a r. sentença no que esta declarou o direito dos servidores do Município de Arapoti que realizam atividades penosas e perigosas ou trabalham com habitualidade em locais insalubres ao recebimento do adicional sobre o vencimento do cargo, bem como condenou o Município ao pagamento das diferenças oriundas do pagamento a menor dos adicionais, modificando-a, apenas, no que toca ao índice de correção monetária aplicável após o período de 25/03/2015, que deve ser a TR, bem como consignando que não incidirão juros de mora contra a Fazenda Pública no período de graça constitucional..".
+Constata-se que a sentença exequenda transitou em julgado em 24 de maio de 2019, quando já havia sido declarada, pelo Supremo Tribunal Federal, a inconstitucionalidade parcial do art. 1-F da Lei nº 9.494/1997, no tocante à atualização monetária das condenações impostas à Fazenda Pública pelo Índice Oficial de Remuneração Básica da Caderneta de Poupança (TR), ao julgar o RE nº 870.947/SE (Tema 810), em 20.9.2017, sem modulação de efeitos.
+ ..
+Ainda os artigos 525, § 12 e § 14, e 535, § 5º, § 7º, do Código de Processo Civil/2015, trazem previsão expressa da possibilidade tanto do executado quanto da Fazenda Pública de invocarem a "inexequibilidade do título ou inexigibilidade da obrigação", em cumprimento de sentença, fundada em lei declarada inconstitucional pelo Supremo Tribunal Federal, desde que "anterior ao trânsito em julgado da decisão exequenda".
+Em atenção à paridade de tratamento das partes no processo, insculpida no art. 7º Código de Processo Civil/2015, não se pode impor óbice ao exequente de se valer do mesmo direito.
+ ..
+A matéria já foi analisada pelo Supremo Tribunal Federal ao decidir que: "Para o reconhecimento do vício de inconstitucionalidade qualificado exige-se que o julgamento do STF, que declara a norma constitucional ou inconstitucional, tenha sido realizado em data anterior ao trânsito em julgado da sentença exequenda. 5. Recurso extraordinário a que se nega provimento". (STF, Tribunal Pleno, RE 611.503/SP, Red. p/ Ac. Min. Edson Fachin, j. 20.08.2018).
+Conclui-se, pois, que com a decisão do STF no RE nº 870.947/SE (Tema 810), o art. 1-F da Lei nº 9.494/1997, teve a inconstitucionalidade parcial declarada desde o seu nascimento, no tocante à atualização monetária das condenações impostas à Fazenda Pública, devendo a tese ser aplicada ao caso, com o afastamento da TR e adoção do IPCA-E para todo o período, não se podendo invocar a ocorrência da coisa julgada. (Grifos acrescidos).
+Registre-se, pela leitura do acórdão ora recorrido, que tanto a Lei n. 11.960/2009 quanto a declaração de inconstitucionalidade perpetrada pelo Tema 880 do STF são anteriores ao trânsito em julgado do título exequendo, que fixou a TR como índice de correção monetária.
+Observo, portanto, que o apelo nobre apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, uma vez que o recurso especial sustenta que "o superveniente julgamento de inconstitucionalidade de determinado dispositivo legal pelo STF não tem o condão de modificar os critérios já fixados no título executivo judicial" (e-STJ fl. 82), circunstância atrativa do óbice contido na Súmula 284 do STF. Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+(..)
+3. Nas razões do Recurso Especial, a parte deixou de atacar os fundamentos adotados pela Corte regional para decidir a controvérsia no que tange ao arbitramento de honorários advocatícios, limitando-se a sustentar que este deveria ser aplicado sobre o valor da causa, e não sobre o da condenação. Nesse contexto, tendo a parte recorrente se limitado a manifestar seu inconformismo com o resultado que lhe foi desfavorável, apresentando fundamento deficiente, com razões recursais dissociadas da fundamentação do acórdão objurgado, têm incidência, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.860.013/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/06/2020, DJe 21/08/2020).
+Nesse sentido, em hipótese semelhante: REsp n. 2.025.273/PR, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 15/04/2024.
+Convém registrar, por fim, que "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
