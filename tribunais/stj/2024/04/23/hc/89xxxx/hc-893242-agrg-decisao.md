@@ -1,0 +1,20 @@
+DECISÃO
+FAGNER OLIVEIRA DOS SANTOS agrava da decisão de fls 43-45.
+Em juízo de reconsideração, permito o processamento do habeas corpus, pois o Tribunal de Justiça, em acórdão, se manifestou sobre a matéria controvertida.
+Nas razões de pedir, a defesa do paciente requer a extensão dos efeitos da decisão que revogou a prisão preventiva dos corréus. Pede a retirada do monitoramento eletrônico do pronunciado.
+Decido
+O paciente foi pronunciado por organização criminosa. Em 9/82022, no HC n. 823.046/RS, sua prisão preventiva foi substituída por comparecimento periódico em juízo, proibição de manter contato com os corréus, proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a instrução e monitoração eletrônica.
+O Juiz de primeiro grau concedeu liberdade provisória a DIOGO DUTRA CACHOEIRA, CRISTIANO RODRIGUES VIEIRA e ALEX COSTA DE VARGAS, mediante apresentação mensal em juízo, proibição de se ausentar da Comarca e recolhimento domiciliar no período noturno, inclusive em finais de semana, feriados e dias de folga.
+A defesa fez o pedido de retirada do monitoramento, com fundamento no direito de extensão. Em decisão mantida em segundo grau, o Magistrado assim deliberou sobre a controvérsia (fl. 36):
+Quanto ao monitoramento eletrônico, tendo este sido aplicado pelo STJ, quando da análise da prisão cautelar, verifica-se que levadas em conta as circunstâncias pessoais de cada acusado.
+Registro que a decisão deste Juízo, em relação aos acusados DIOGO DUTRA CACHOEIRA, CRISTIANO RODRIGUES VIEIRA e ALEX COSTA DE VARGAS (evento316, DESPADEC1), foi proferida de acordo com as suas condições pessoais, que não se comunicam aos acusados FAGNER OLIVEIRA DOS SANTOS e FABIO ALEXANDRE CARDOSO. Diante de tal situação, não há falar em extensão do tratamento dispensado a estes réus aos ora requerentes.
+É de difícil compreensão o interesse em pedir a extensão da decisão de primeiro grau, pois a medida aplicada pelo STJ permite que o réu se movimento livremente. Em geral, o recolhimento domiciliar noturno (aplicado aos outros pronunciados), impõe restrições mais severas à liberdade do que o monitoramento eletrônico.
+De todo modo, não preclui o poder do Juiz natural da causa, de reexame cautelar das exigências do caso concreto e, em decisão, o monitoramento foi mantido porque o acusado ostenta, "conforme consta na certidão de antecedentes criminais (fls. 27/33do evento 4, PROCJUDIC70), condenação transitada em julgado por tráfico de drogas, associação para o tráfico (001/2.11.0091864-5) e posse ilegal de arma de fogo (001/2.12.0083698-5). Além disso, possui condenação ainda não transitada em julgado pelo delito de homicídio qualificado (50313220320148210001). Outrossim, responde a outras ações penais por homicídio (5004577-49.2015.8.21.0001) e posse ilegal de arma de fogo(5000432-05.2023.8.21.0086)" (fl. 37).
+Os inúmeros registros criminais denotam que é suficiente e adequada a manutenção da monitoração eletrônica para garantir a ordem pública e evitar a reiteração delitiva.
+A defesa não comprovou que os corréus ostentam os mesmos apontamentos de reincidência e ações penais em curso, por crimes da mesma gravidade.
+Sem a devida instrução do habeas corpus (certidão de antecedentes dos corréus e do paciente), a extensão não pode ser deferida, principalmente porque resultaria em submissão do réu a cautelar mais severa (recolhimento domiciliar noturno em vez de monitoração eletrônica).
+Inexiste comprovação inequívoca de "identidade fático-processual entre as situações de Corréus" e de inexistência de "qualquer circunstância de caráter exclusivamente pessoal que justifique diferenciação" (PExt no RHC n. 181.841/CE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+Assim, "não demonstrada a equivalência de situação fático-processual entre o agravante e o corréu,  ..  impossível a pretendida extensão dos efeitos da decisão, nos termos do art. 580 do CPP" (AgRg no AREsp n. 2.157.056/CE, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe de 9/3/2023).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
