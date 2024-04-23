@@ -1,0 +1,15 @@
+DECISÃO
+ALEX HERON GOMES DA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido na Revisão Criminal n. 2048274-24.2024.8.26.0000.
+A defesa pede a absolvição do réu, porque a organização criminal, porque a condenação está fundamentada em elementos colhidos no inquérito policial, o que viola o art. 155 do CPP. Afirma que "não se pode admitir é que meros papeis, cuja autoria da inscrição não é possível identificar, sirvam de substrato para uma condenação" (fl. 9).
+Decido.
+O habeas corpus (art. 5º, LXVIII, da Constituição Federal), é ação mandamental, célere, destinada a proteger a liberdade de locomoção contra coação ilegal e requer, para sua concessão, prova pré-constituída e inequívoca do direito alegado, robusta o suficiente para convencer o juiz da procedência das alegações.
+É possível o avanço para a solução monocrática da impetração, pois o acórdão recorrido observou a jurisprudência desta Corte, de não cabimento da revisão criminal quando utilizada como nova apelação, sem que estejam caracterizadas as hipóteses do art. 621 do CPP
+No caso, a alegação de condenação contrária ao art. 155 do CPP não se sustenta. Basta a leitura do acórdão recorrido para verificar que o réu foi responsabilizado por integrar organização criminosa em razão de "fichas cadastrais apreendidas e que, inclusive, foram reproduzidas na própria denúncia" (fl. 20).
+Existiu, expressamente, indicação de prova reproduzida perante o juiz, submetida ao devido contraditório, para fundamentar a condenação.
+A defesa, em verdade, busca impugnar a prova documental, mas o Tribunal especificou que, em "cada uma das fichas, aliás, constam nome completo, número de matrícula (que coincide com a matrícula no SAP) e últimos 3 estabelecimentos prisionais em que os réus estiveram detidos (chamadas por eles de faculdades), informações coincidentes com as encontradas nos cadastros oficiais, inclusive no sistema Intinfo deste Tribunal" (fl. 20).
+Adicionalmente, o Tribunal de Justiça salientou que "no cadastro de ALEX HERON consta que ele é integrante do PCC (fls. 95), informação que vai ao encontro do boletim da ocorrência em que ele afirmou ser liderança do PCC" (fl. 22).
+O Tribunal de origem deixou de conhecer a ação revisional, porque "a via rescisória criminal não se presta como instrumento processual para rediscussão ou reanálise de provas ou de qualquer outro tema, transformada em verdadeira segunda apelação" (fl. 61).
+Também a teor dos julgados desta Corte, "a ação revisional é de cabimento vinculado e restrito, não se valendo à reanálise global dos fatos e provas dos autos, porquanto não se trata de segunda apelação. A bem da verdade, os argumentos trazidos pela defesa, longe de se enquadrarem nas hipóteses autorizativas da revisão criminal, estampadas nos incisos do art. 621 do CPP, buscam um reexame geral da condenação" (AgRg no AREsp n. 2.267.393/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
