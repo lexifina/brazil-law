@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ANDERSON DA SILVA GORTE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferido no HC n. 5009289-86.2024.8.24.0000/SC.
+Consta dos autos que o juízo da execução penal indeferiu a progressão de regime do recorrente, considerando que a execução da pena privativa de liberdade estaria suspensa desde 4/2/2021, em razão de prisão preventiva decretada em outra ação penal, conforme se extrai dos seguintes trechos:
+" ..  Analisando detidamente os autos verifico, contudo, que o sentenciado encontra-se preso pelos autos n. 0012036-84.2019.8.16.0035, desde de 02/04/2020, razão pela qual o PEC foi suspenso por decisão prolatada em 04/02/2021 (sequencial 1.16.).
+Desse modo, suspenso o cumprimento da pena e a prescrição, inviável a análise do pedido de progressão.
+Ante o exposto:
+- DECLARO remidos 44 dias de pena, nos termos do art. 126 da LEP.
+- INDEFIRO a progressão de regime prisional em favor de ANDERSON DA SILVA GORTE, do fechado para o semiaberto, considerando que o sentenciado encontra-se preso pelos autos n. 0012036-84.2019.8.16.0035, estando o presente PEC suspenso.  .. " (fl. 122)
+Revogada a referida prisão preventiva, o juízo da execução não expediu alvará de soltura, determinando o retorno do cumprimento da pena a partir da data de expedição do mandado (28/11/2023), in verbis:
+"Trata-se de pedido de soltura, baseado em alvará de soltura emitida nos autos 0012034-17.2019.8.16.0035 (Seq. 119.1).
+O Ministério Público manifestou-se desfavorável.
+DECIDO.
+Ciente do alvará notificado (Seq. 119.2), contudo, executa-se no presente PEC a condenação referente aos autos 5001900-422.2020.8.24.0048, de Balneário de Piçarras (Seq. 1.1), em regime inicial fechado, ou seja, prisão diversa daquela pela qual livrado solto.
+Assim, eventual soltura em outro processo, que inclusive não consta a integra, diz respeito a eventual substituição daquele cárcere pelas cautelares ali impostas, mas em nada afetam a presente prisão, que é decorrente de uma condenação.
+Desta forma, levanta-se a suspensão do cumprimento da pena, reiniciando o cumprimento do PEC a partir da expedição daquele mandado - 28/11/2023 (Seq. 119.2), inclusão já realizada por este Gabinete.
+Observe-se, outrossim, que não consta no alvará que seria caso de absolvição, mas sim de substituição de prisão preventiva por cautelares, de modo que o período de suspensão deve permanecer.
+Retomando o cumprimento da pena, verifica-se que o requisito objetivo para o benefício será em 29/08/2026, de modo que indefiro a soltura, por inexistir qualquer benefício com requisito preenchido." (fl. 134)
+Inconformada, a defesa impetrou o writ originário, o qual não foi conhecido em acórdão assim ementado:
+"HABEAS CORPUS. CABIMENTO. INDEFERIMENTO DE PROGRESSÃO DE REGIME. SUBSTITUIÇÃO AO RECURSO CABÍVEL. DECISÃO EM EXECUÇÃO PENAL.
+Não se conhece de habeas corpus impetrado em face de decisão proferida nos autos de execução penal que indeferiu pedido de progressão de regime porque existente recurso próprio para a impugnação de tal comando judicial.
+WRIT NÃO CONHECIDO." (fl. 166)
+O recorrente afirma que, segundo a jurisprudência desta Corte, o termo inicial do prazo para progressão de regime é a data da última prisão, no caso, a prisão em flagrante ocorrida em 19/3/2020. Ressalta ter permanecido preso durante todo o processo, não se mostrando correta a exclusão do período de duração de prisão preventiva decretada em outro feito.
+Sustenta, ainda, que a existência de flagrante ilegalidade ao direito de locomoção justifica a análise da matéria em habeas corpus, ao contrário do que entendeu o Tribunal de origem, sobretudo porque a defesa não interpôs agravo de execução penal contra a decisão de primeiro grau.
+Requer, pois, a alteração da data-base para o dia 19/3/2020 e a concessão da progressão de regime.
+Indeferido o pedido liminar (fls. 198/200) e prestadas as informações pela autoridade coatora (fls. 206/209 e 210/350), o Ministério Público Federal - MPF opinou pelo não conhecimento do recurso (fls. 355/357).
+É o relatório.
+Decido.
+O Tribunal de origem denegou a impetração, sem a análise do mérito, mediante a seguinte fundamentação:
+"Buscam os Impetrantes a reforma de decisão dos autos da Execução da Pena 50051326220208240048, na parcela em que indeferiu pedido de progressão de regime.
+O habeas corpus, porém, não é o meio adequado de impugnar decisão proferida nos autos de execução da pena, e não é admitido para tal finalidade (TJSC, HC 4030273-84.2019.8.24.0000, Rel. Des. Luiz Neri Oliveira de Souza, j. 7.11.19; H C 4030102-30.2019.8.24.0000, Rel. Des. Alexandred"Ivanenko, j. 24.10.19; H C 4029403-39.2019.8.24.0000, Rel. Des. Carlos Alberto Civinski, j.17.10.19; HC 4004980-20.2016.8.24.0000, Rel. Des. José Inacio Schaefer, j. 1º.11.16; HC 4008358-81.2016.8.24.0000, Rel. Des. José Everaldo Silva, j. 27.10.16; HC 1000670-22.2016.8.24.0000, Rel. Des. Leopoldo Augusto Brüggemann, j. 5.7.16; e HC 2015.077216-9, deste relator, j. 24.11.15).
+Não há, ademais, ilegalidade que autorize o uso da via inadequada, pois "mostra-se correta a decisão do juiz a quo que suspendeu o cumprimento de pena diante da superveniência de prisão preventiva decretada em outro processo criminal, ante a incompatibilidade das segregações" (TJSC,Rec. de Ag. 0009814-80.2016.8.24.0018, Rel. Des. Roberto Lucas Pacheco, j. 20.4.17)."
+Na hipótese, o Tribunal a quo olvidou-se de considerar o destaque dado pelo Juízo da Execução, no sentido de que a prisão preventiva decretada nos Autos n. 0012034-17.2019.8.16.0035 foi revogada.
+Considerando as alegações expostas na inicial e a impossibilidade de análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância, razoável determinar que o Tribunal de origem analise o feito de modo a verificar a existência de eventual constrangimento ilegal que possa justificar a concessão da ordem de ofício
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO PRISIONAL. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A questão relativa à apontada ilegalidade da decisão que indeferiu pedido de progressão prisional não foi analisada pelo Tribunal de origem, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+2. O fundamento de que remédio constitucional não pode ser utilizado como substitutivo do agravo em execução não tem o condão de subtrair do órgão julgador a verificação quanto à existência de manifesto erro na decisão do Juiz da VEC. A tese de que a decisão proferida pelo Juízo de origem não possuiria fundamentação idônea para indeferir a progressão prisional não demanda análise de provas e está relacionada a direito de locomoção.
+3. Se for verificada a não interposição do agravo em execução, o remédio constitucional é o único instrumento de que dispõe o apenado para sanar eventual ilegalidade do decisum originário que indeferiu o referido benefício. Negativa de prestação jurisdicional reconhecida.
+4. Agravo regimental não provido. Habeas corpus concedido de ofício para determinar ao Tribunal de Justiça do Estado de São Paulo que aprecie, como entender de direito, uma vez verificada a não interposição de agravo em execução, se existe patente ilegalidade na decisão do Juiz da VEC.
+(AgRg no HC n. 718.847/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/2/2022, DJe de 21/2/2022.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. PACIENTE CONDENADO À PENA CORPORAL DE 5 ANOS DE RECLUSÃO, EM REGIME FECHADO. PLEITOS DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO E DE ABRANDAMENTO DO REGIME PRISIONAL NÃO APRECIADOS NA IMPETRAÇÃO ORIGINÁRIA. DEVOLUÇÃO À CORTE DE ORIGEM. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Uma vez que a Corte local deixou de enfrentar, no writ lá impetrado, a possibilidade de fixação de regime prisional mais brando, por não ser o habeas corpus a via adequada para tal exame, não pode este Superior Tribunal de Justiça analisar o tema, sob pena de indevida supressão de instância.
+- Por outro lado, a jurisprudência desta Corte entende cabível a impetração de habeas corpus sempre que a ilegalidade suscitada influenciar a liberdade de locomoção do indivíduo, o que ocorre nos autos. Nessas hipóteses, a solução cinge-se em determinar que o Tribunal de origem aprecie, como entender de direito, o mérito do habeas corpus originário, ofertando a devida prestação jurisdicional.
+- Habeas corpus não conhecido. Ordem concedida de ofício, determinando que o Tribunal local enfrente o mérito do habeas corpus n. 2015.089982-9, decidindo como entender de direito.
+(HC 347.886/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/6/2016.)
+PROCESSUAL PENAL. HABEAS CORPUS. INTERRUPÇÃO DE PRAZO PARA OBTENÇÃO DE BENEFÍCIOS. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE VERIFICAÇÃO DE EVENTUAL COAÇÃO ILEGAL NA ORIGEM. MANIFESTA ILEGALIDADE EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O acórdão do Tribunal de origem não conheceu do writ, sob o fundamento da impossibilidade de se analisar, pela via estreita do habeas corpus, o preenchimento dos requisitos para a concessão dos benefícios do livramento condicional e da progressão de regime .
+2. Segundo reiterada jurisprudência dos Tribunais Superiores, embora não se admita a impetração de habeas corpus substitutivo do recurso próprio, é imprescindível a verificação da existência de eventual coação ilegal imposta ao paciente, que justifique a concessão da ordem, de ofício, no mandamus originário. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Tribunal a quo analise o mérito da impetração originária.
+(HC 300.454/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 25/5/2016.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso, apenas para determinar que o Tribunal de origem, dentro dos limites do habeas corpus, analise as alegações deduzidas na inicial verificando a possibilidade da concessão da ordem de ofício.
+Publique-se. Intimem-se.
+EMENTA
