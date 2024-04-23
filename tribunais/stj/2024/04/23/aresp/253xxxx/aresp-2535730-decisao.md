@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança objetivando que o imposto sobre transmissão causa mortis e doação (ITCMD) e emolumentos incidentes no imóvel a eles transferido fossem calculados com base no valor venal para efeito de imposto sobre a propriedade predial e territorial urban. Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi reformada para afastar a determinação de utilização do valor venal do imóvel para efeito de IPTU no cálculo de emolumentos cartorários, certo não ser a autoridade apontada coatora parte legítima em relação a esse pedido. O valor da causa foi fixado em R$ 71.928,74 .
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO E REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. SENTENÇA PELA QUAL CONCEDIDA A ORDEM A FIM DE QUE O IMPOSTO SOBRE TRANSMISSÃO "CAUSA MORTIS" E DOAÇÃO (ITCMD) EM RELAÇÃO AO IMÓVEL TRANSMITIDO AOS AUTORES SEJA CALCULADO SOBRE O VALOR VENAL DESSE BEM PARA EFEITO DE IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA (IPTU) . INADMISSIBILIDADE DA ALTERAÇÃO DA BASE DE CÁLCULO DO PRIMEIRO DESSES IMPOSTOS MEDIANTE DECRETO OU MERA INTERPRETAÇÃO DA LEGISLAÇÃO, HAJA VISTA OFENSA AO PRINCÍPIO DA LEGALIDADE. MAJORAÇÃO DE TRIBUTO QUE SOMENTE PODE SER EMPREENDIDA MEDIANTE LEI.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A propósito, conforme supra exposto, trata-se de mandado de segurança objetivado por Antonio Marco Greco, José Greco, Rosa Greco Onias e Vicente Greco contra ato do Secretário da Fazenda do Estado de São Paulo para que o imposto sobre transmissão causa mortis e doação (ITCMD) e emolumentos incidentes no imóvel a eles transferido fossem calculados com base no valor venal para efeito de imposto sobre a propriedade predial e territorial urbana.
+ ..
+É que, como assinalado, base de cálculo do ITCMD é o valor venal fixado para lançamento do IPTU.
+ ..
+Logo, dada a prescindibilidade de maiores esclarecimentos, não se reconhece a necessidade de utilização da técnica do arbitramento prevista no artigo 11 da Lei 10.705/20001, considerado ainda o risco da existência de valores diversos a título de valor venal do imóvel.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
