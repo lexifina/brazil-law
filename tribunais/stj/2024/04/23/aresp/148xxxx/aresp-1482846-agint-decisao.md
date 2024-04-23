@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  por  PAULO ANSELMO DA SILVA e MARIA DA GRAÇA ANSELMO DA SILVA,  contra  a  decisão  da Presidência do Superior Tribunal de Justiça  (fls.  1.072/1.073 e-STJ)  que não conheceu do agravo em recurso especial por intempestividade do recurso.
+Nas  presentes  razões  (fls.  1.076/1.085 e-STJ),  os agravantes alegam, em síntese, que, dia 12.02.2018 foi segunda de carnaval. Ponderam que " a  contagem, assim, de 15 (quinze) dias úteis, a partir de 14.02.2018, faz com que o prazo fatal se dê no dia 07.03.2018, exatamente o dia em que interposto o especial, conforme a própria r. decisão agravada enuncia" (fl. 1.082 e-STJ).
+Buscam, ao final, o reconhecimento da tempestividade do recurso especial, com o exame de mérito das razões recursais.
+A  parte  contrária apresentou impugnação  (fls. 1.090/1.103 e-STJ)  .
+É  o  relatório.
+DECIDO.
+A decisão agravada merece ser reconsiderada.
+A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do REsp nº 1.813.684/SP e da questão de ordem que lhe seguiu, reafirmou o entendimento de que o feriado local deve ser comprovado no ato da interposição do respectivo recurso (Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, julgado em 2/10/2019, DJe 18/11/2019), devendo ser observada, exclusivamente em relação ao feriado da segunda-feira de Carnaval, a modulação dos efeitos dessa decisão, nos termos do art. 927, § 3º, do CPC/2015, a fim de que a interpretação consolidada sobre o tema seja aplicada somente após a publicação do acórdão respectivo, ocorrida em 18/11/2019.
+Conforme se infere da certidão de fl. 956 (e-STJ), a decisão de rejeição dos embargos de declaração foi disponibilizada em 09/02/2018, sexta-feira, sendo sua publicação realizada no primeiro dia útil subsequente. Dia 12/02/2018 foi segunda-feira de Carnaval. Assim, diante da modulação dos efeitos firmada no precedente supracitado, considera-se publicada a decisão em 14/02/2018 e a data final para interposição do recurso especial em 07.03.2018, razão pela qual confirmada a tempestividade do recurso.
+Assim, exercendo o juízo de retratação facultado pelo art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça, deve ser reconsiderada a decisão agravada (fls. 1.072/1.073 e-STJ). Assim, passa-se ao exame do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial (fls. 1.032/1.046 e-STJ). O apelo extremo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PRESTAÇÃO DE SERVIÇOS MÉDICO-HOPITALARES  COBRANÇA  Esposa de paciente . que firma contrato de prestação de serviços, assumindo responsabilidade principal e solidária pelos serviços prestados pelo hospital  Legitimidade de parte passiva manifesta  Alegação de vício de consentimento  Descabimento  Serviços efetivamente prestados e discriminados, assim, como os procedimentos realizados e medicamentos e materiais utilizados  Impugnação genérica  Inadmissibilidade  Ação procedente  Recurso desprovido, com observação" (fl. 938 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 950/955 e-STJ).
+No recurso especial, os recorrentes alegam violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 489, §1º, art. 1.022, I e II, e 1.023, II, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(ii) art. 397, caput e parágrafo único, do Código Civil - porque é pressuposto da cobrança o inadimplemento da dívida, sendo que as despesas não eram líquidas no momento da internação. Afirmaram, ainda, a ausência de ato de constituição em mora, pois acreditavam que as despesas eram cobertas pelo plano de saúde.
+(iii) art. 422 do Código Civil - porquanto não foi observada a boa-fé na contratação, na medida em que os recorrentes acreditavam que as despesas se encontravam dentre aquelas contidas na cobertura securitária.
+Requerem, ao final, o provimento do recurso para reconhecer a nulidade da decisão, extinguir a ação sem julgamento de mérito ou julgar improcedentes os pedidos iniciais.
+Contrarrazões às fls. 989/1.000 (e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não comporta acolhimento.
+Inicialmente, em relação às alegadas omissões e deficiência de fundamentação da decisão recorrida, registra-se que o Tribunal de origem se pronunciou acerca dos pontos levantados pelos recorrentes, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Ainda, deficiente a fundamentação recursal quanto à alegação de violação do art. 1.023, II, do Código de Processo Civil, tendo em que inexistente o referido inciso, não tendo a parte recorrente especificado de que forma o dispositivo teria sido contrariado pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+No mesmo sentido, nota-se que os argumentos apresentados pelos recorrentes para demonstrar a violação dos arts. 397, caput e parágrafo único, e 422 do Código Civil estão dissociados dos fundamentos do aresto combatido.
+O acórdão recorrido reconheceu a regularidade da contratação, na qual conta cláusula de responsabilidade dos contratantes em caso de negativa de pagamento pela seguradora, bem como as especificações quanto à tabela de preço operada pelo hospital demandado. Ademais, a decisão recorrida refere a ausência de vício de consentimento e a não oponibilidade de exceções ao cumprimento das obrigações contratuais em razão de eventual responsabilidade do plano de saúde.
+Nas razões do apelo nobre, os recorrentes defenderam à ausência de liquidez da dívida, sua não constituição em mora e a falta de boa-fé na condução da contratação.
+Assim, as razões apresentadas no especial deixaram de impugnar especificamente as bases firmadas na Corte local, discutindo questões alheias à reforma do julgado.
+Desse modo, aplica-se, por analogia, o óbice da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. RAZÕES DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente o recurso especial quando suas razões estão dissociadas dos fundamentos do acórdão impugnado, o que atrai, por analogia, a incidência da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+(..)
+5. Agravo interno desprovido."
+(AgInt no AREsp 2.156.599/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OFENSA A TESE REPETITIVA. CONVERSÃO DA EXECUÇÃO EM AÇÃO DE CONHECIMENTO. RAZÕES DISSOCIADAS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 283 E 284/STF. EMENDA À INICIAL. COMPLEMENTAÇÃO DE DOCUMENTAÇÃO. NÃO ALTERAÇÃO DO PEDIDO OU DA CAUSA DE PEDIR. POSSIBILIDADE. PRECEDENTES. INEXIGIBILIDADE DO TÍTULO. APRECIAÇÃO POSTERGADA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal de origem se manifestado expressamente e com adequada fundamentação, ainda que em sentido oposto ao pretendido pela agravante, sobre a alegada nulidade da execução devido à existência de decisões que impedem qualquer pagamento à autora, não há violação ao art. 1.022 do CPC/2015, nem negativa de prestação jurisdicional.
+2. A apresentação de razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem configura deficiência da fundamentação recursal e atrai a incidência da Súmula 284/STF.
+(..)
+7. Agravo interno desprovido."
+(AgInt no REsp 1.844.790/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023 - grifou-se)
+Por fim, a inversão do julgado sobre eventual afastamento ou ausência de responsabilidade contratual encontra óbice nas Súmulas nºs 5 e 7/STJ.
+Ante o exposto, reconsidero a decisão de fls. 1.072/1.073, para conhecer do agravo, a fim de conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelos ora recorrentes, devem ser majorados para R$ 12.000,00 (doze mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
