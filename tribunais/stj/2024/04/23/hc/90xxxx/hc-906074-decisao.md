@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Cristiano de Aquino Santos - condenado como incurso no crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006) - contra ato coator do Tribunal de Justiça de Sergipe (Apelação criminal n. 202100338780), não comporta conhecimento.
+Busca a impetração a aplicação do art. 33, § 4º, da Lei n. 11.343/2006 no seu patamar máximo de 2/3, com a consequente alteração do regime inicial de cumprimento de pena, tendo em vista que o Paciente é réu primário, de bons antecedentes, não se dedicava a atividade criminosa, nem integrava organização criminosa, não sendo fundamento hábil para denegação da aplicação do redutor máximo previsto no 33, § 4º, da lei n. 11.343/2006 (fl. 10). Aponta, ainda, que o regime inicial fechado foi determinado exclusivamente com fundamentado no § 1º do art. 2º da Lei dos Crimes Hediondos.
+Entretanto, em consulta ao portal eletrônico do Tribunal de origem, verifiquei que a condenação do paciente já é definitiva, ante o trânsito da ação penal. O writ, portanto, é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, inclusive porque, no caso, os temas relacionados com a causa de diminuição de pena e com o regime inicial nem sequer foram objeto de insurgência e debate no Tribunal a quo, circunstância que, por si só, obsta o exame da questão por esta Corte, ante a supressão de instância verificada.
+Afora isso, na sentença condenatória, o Magistrado apontou expressamente a existência de antecedentes, circunstância que, a princípio, impede a incidência da minorante e justifica o regime mais gravoso.
+Em face do exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. CAUSA DE DIMINUIÇÃO DE PENA E REGIME INICIAL. TEMAS NÃO DEBATIDOS NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Habeas corpus não conhecido.
