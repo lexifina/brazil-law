@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, a parte autora, em 26/4/2016, ajuizou ação ordinária com valor da causa atribuído em R$ 169.108,00 (cento e sessenta e nove mil e cento e oito reais), objetivando a nulidade do ato administrativo que o excluiu do concurso para admissão ao Curso de Formação de Oficiais (CFO/2016).
+O juízo de 1º grau julgou procedente o pedido para condenar o ente público a garantir definitivamente a permanência, frequência, formatura e promoção do autor no Curso de Formação de Oficiais da PMMG do ano de 2016, em inteira igualdade de condiç ões com os demais colegas, sem sofrer qualquer prejuízo ou restrição.
+Sem interposição de recurso voluntário, o Relator, monocraticamente, não conheceu do reexame necessário por considerar que o proveito econômico da condenação seria inferior ao teto estabelecido pelo art. 496 do CPC/2015.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, julgando o Agravo interno interposto, manteve o decisum, restando o acórdão assim ementado, in verbis:
+AGRAVO INTERNO - AÇÃO ORDINÁRIA - VALOR INFERIOR A 500 SALÁRIOS-MÍNIMOS - REMESSA NECESSÁRIA - NÃO CONHECIMENTO - INTELIGÊNCIA DO ART. 496, §3º, II, DO CPC/2015 - MANUTENÇÃO DA DECISÃO - RECURSO DESPROVIDO. 1. Quando o julgador estiver diante de elementos que lhe proporcionem segurança para aferir que a condenação imposta à Fazenda Pública Estadual não será superior a 500 salários-mínimos (art. 496, §3º, II, do CPC/2015), revela-se afrontosa aos princípios constitucionais da efetividade da jurisdição e do tempo de duração razoável do processo, a remessa oficial, uma vez que deve haver limites para a proteção do interesse da Fazenda Pública. 2. Decisão mantida. 3. Recurso desprovido.
+No presente recurso especial, o recorrente aponta violação ao art. 496 do CPC/2015. Sustenta, em síntese, que tratando-se de sentença ilíquida, não há como mensurar o valor exato controvertido discutido na lide, dessa forma, se impõe o reexame necessário, como regra geral.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Como se não bastasse, de acordo com a iterativa jurisprudência do colendo Superior Tribunal de Justiça, o valor da causa deve ser utilizado como parâmetro para fins de subsunção do feito ao art. 496, § 3o, II do CPC/2015.
+Nesse sentido, confira-se:
+(..)
+Portanto, considerando que o valor da causa, R$169.108,00, é inferior ao patamar estabelecido pelo legislador ordinário, não há razão para a submissão da sentença à remessa necessária.
+A guisa de remate, deve ser ressaltado que a orientação da Súmula nº 490 do STJ não se aplica às sentenças ilíquidas a partir dos novos parâmetros definidos no art. 496 do CPC/2015, que dispensa do duplo grau obrigatório as sentenças contra o Estado e suas autarquias cujo valor da condenação ou do proveito econômico seja inferior a quinhentos salários-mínimos.
+Nesse contexto, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA. ACÓRDÃO FUNDAMENTADO NO ACERVO FÁTICO DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação ajuizada pela parte ora agravada, objetivando o "pagamento do 1/3 (terço) de férias do ano de 2012, bem como das férias proporcionais acrescidas de 1/3 dos meses trabalhados no ano de 2013 (6/12 avos), de forma indenizada, tudo com incidência de juros de mora e correção monetária". Julgada parcialmente procedente a demanda, recorreu o réu, restando mantida a sentença, pelo Tribunal local. Daí a interposição do presente Recurso Especial.
+III. Não se olvida que, consoante o enunciado de Súmula 490 deste Corte: "A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários-mínimos, não se aplica a sentenças ilíquidas".
+IV. Lado outro, "esta Corte, após vigência do novo estatuto processual, tem firmado entendimento de que a elevação do limite para conhecimento da remessa necessária significa uma opção pela preponderância dos princípios da eficiência e da celeridade, e não obstante a aparente iliquidez das condenações, se houver possibilidade de aferição por simples cálculos aritméticos, forçoso reconhecimento que se trata de verdadeira hipótese de dispensa de reexame" (STJ, AgInt no REsp 1.916.025/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 21/03/2022).
+V. No caso, o Tribunal de origem, à luz das provas, rejeitou a pretensão autoral, ao fundamento de que "não há que falar em remessa necessária no presente caso, eis que resta evidente que as verbas discutidas são inferiores a 500 (quinhentos) salários-mínimos, a teor do art. 496, § 39, inc. II, do NCPC, tendo em vista que a lide trata apenas do terço constitucional das férias relativas aos anos de 2012 e 2013".
+VI. Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ. Precedentes do STJ.
+VII. Agravo interno improvido.
+(AgInt no AgInt no REsp n. 1.856.701/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 30/10/2023, DJe de 6/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REMESSA NECESSÁRIA. OBRIGATORIEDADE. SENTENÇA ILÍQUIDA. OBRIGAÇÃO DE FAZER. ALTERAÇÃO DAS CONCLUSÕES DA CORTE DE ORIGEM. SÚMULA N. 7/STJ.
+1. A controvérsia está em saber se, no caso dos autos, deve ou não haver o reexame obrigatório da sentença.
+2. O enunciado 61 da Súmula do TRF da 2ª Região ("Há remessa necessária nos casos de sentenças ilíquidas e condenatórias, de obrigação de fazer ou de não fazer, nos termos do art. 496, inciso I e § 3º, do Código de Processo Civil de 2015"), utilizado como fundamento do acórdão recorrido, não destoa do entendimento jurisprudencial sumulado do STJ - Súmula 490/STJ ("A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas") .
+3. A Corte de origem, levando em conta os pedidos autorais e o possível proveito econômico da lide, expressamente considerou que se trata de obrigação de fazer e de sentença ilíquida, procedendo ao reexame necessário da sentença, nos moldes legais.
+4. O apelo especial é recurso de fundamentação vinculada e está adstrito às hipóteses de infringência ao direito federal infraconstitucional, não se prestando ao reexame de fatos e provas.
+A pretensão da recorrente exige análise do acervo fático-probatório dos autos, o que seria necessário para se modificar as conclusões do aresto impugnado quanto à iliquidez da sentença. Inafastável o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.594.962/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/12/2022, DJe de 12/12/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
