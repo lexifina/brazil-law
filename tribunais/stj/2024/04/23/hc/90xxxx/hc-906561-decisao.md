@@ -1,0 +1,11 @@
+DECISÃO
+FRANCIWALISON SOUSA DOS SANTOS alega sofrer constrangimento ilegal em decorrência do acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n.
+Neste habeas corpus, a defesa busca a anulação do acórdão impugnado e, em consequência, o restabelecimento da sentença que desclassificou o o crime de roubo para o delito de furto.
+Decido.
+O Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, considera que " a  existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção" (HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020, grifei).
+Na espécie, o acórdão de apelação - ora apontado como ato coator - foi prolatado em 25/3/2024 e, de acordo com andamento processual disponível na página eletrônica do Tribunal estadual, foram opostos em bargos de declaração pela defesa do paciente, em 17/4/2024. Dessa forma, o remédio constitucional não pode ser conhecido porque impetrado simultaneamente aos aclaratórios opostos contra o acórdão da apelação criminal. Identifico tumulto, além de ofensa ao sistema recursal e às competências do Poder Judiciário.
+Aplica-se ao caso a compreensão de que "não se admite a tramitação simultânea de recursos (ou ações autônomas de impugnação) e de habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 826.186/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 21/8/2023).
+Logo, qualquer pronunciamento imediato quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão do sistema recursal e da essência do remédio heroico, bem como o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+À vista do exposto, nos termos do art. 210, do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
