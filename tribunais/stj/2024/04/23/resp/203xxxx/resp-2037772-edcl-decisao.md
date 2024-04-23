@@ -1,0 +1,11 @@
+DECISÃO
+Examina-se embargos de declaração opostos por JOSÉ AURÉLIO VALPORTO DE SÁ JUNIOR contra decisão unipessoal que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma referente ao Tema 1.255/STF, relacionado à possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do CPC) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes.
+Em suas razões recursais, afirmam os embargantes que a decisão embargada teria sido omissa, pois seria necessária a realização do distinguishing entre o precedente paradigma e a hipótese dos autos, sob alegação de que o recurso especial versa exclusivamente sob re a razoabilidade do acórdão recorrido ao fixar do valor da caução prevista no art. 246, § 1º, alínea "b", da Lei das S.A. adotando como base os encargos estabelecidos pelo § 2º do mesmo dispositivo (fl. 480).
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos da jurisprudência desta Corte Superior, é irrecorrível a decisão do Relator que determina a devolução do processo ao Tribunal de origem para que se aguarde o julgamento do recurso representativo da controvérsia, na medida em que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes. Nesse sentido: AgInt no AREsp 2.147.730/RS, 3ª Turma, DJe de 7/12/2022; AgInt nos EDcl no AREsp 2.078.889/PR, 4ª Turma, DJe de 15/9/2022; AgInt no REsp 1.941.205/RJ, 4ª Turma, DJe de 15/12/2021; AgInt nos EDcl no REsp 1.788.767/SC, 3ª Turma, DJe 25/3/2020.
+Forte nessas razões, NÃO CONHEÇO dos embargos de declaração, advertindo a parte embargante, desde já, que a insistência no manejo deste recurso ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM. IRRECORRIBILIDADE.
+1. É irrecorrível a decisão que determina o retorno dos autos à origem, a fim de que permaneçam suspensos até o julgamento do tema repetitivo, por não gerar nenhum prejuízo para a parte. Precedentes.
+2. Embargos de declaração não conhecidos.
