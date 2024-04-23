@@ -1,0 +1,11 @@
+DECISÃO
+PAULO LAÉRCIO BASTOS GOMES alega sofrer constrangimento ilegal decorrente da decisão proferida pelo Tribunal de Justiça do Estado do Ceará no HC n. 0634960-85.2023.8.06.0000.
+A defesa postula a extensão dos feitos da decisão que substituiu a prisão preventiva do corréu LUIZ ALBERTO BASTOS GOMES por cautelares diversas.
+Decido.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Na hipótese, o Tribunal estadual registrou que, "embora ambos corréus fossem sócios, o ora paciente seria o gestor administrativo e contábil da sociedade, de modo que suas funções seriam mais complexas e determinantes para o crescimento exponencial das supostas operações ilícitas, oriundas do consórcio com organização criminosa. Outrossim, o Juízo apontado como coator, acompanhando parecer ministerial, ressaltou-lhe a relevância do papel exercido na empreitada criminosa além da gravidade dos fatos imputados na inicial acusatória".
+Assim, não há prova pré-constituída acerca da similitude fática entre a situação dos corréus que, de acordo com a instância ordinária, possuíam distintos papéis na organização criminosa, razão pela qual não é possível deferir o pedido de extensão.
+Saliento, ainda, que não é possível infirmar as premissas assentadas pelo Tribunal estadual sem o revolvimento fático-probatório dos autos, o que é obstado pela Súmula n. 7 do STJ e pela natureza e limitação cognitiva do writ. Deveras, "os Tribunais Superiores resolvem questões de direito e não questões de fato e prova" (AgRg no AREsp n. 586.754/DF, Rel. MinistroNewton Trisotto(Desembargador convocado do TJ/SC), 5ª T., DJe 22/4/2015). Por esse motivo, "cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte" (AgRg no AREsp n. 304.675/SC, Rel. Ministra Maria Thereza de Assis Moura,6ª T., DJe 9/5/2013).
+À vista do exposto, nego provimento ao recurso em habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
