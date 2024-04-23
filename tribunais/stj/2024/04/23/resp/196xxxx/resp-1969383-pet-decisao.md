@@ -1,0 +1,7 @@
+DECISÃO
+Na sessão do dia 13.12.2023, este STJ julgou em sua Primeira Seção, sob a relatoria do Min. Gurgel de Faria, o TEMA 1.125/STJ através dos seguintes recursos repetitivos: REsp. n. 1.958.265/SP e REsp. n. 1.896.678/RS. Neles foi definida a seguinte tese: "O ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído no regime de substituição tributária progressiva".
+A admissão e/ou julgamento de recurso especial como repetitivo impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Assim, por razões de economia processual, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o exame do recurso especial e/ou agravo ocorra após exercido o juízo de retratação ou declarado prejudicado o recurso, na forma do art. 1.039 do CPC/2015.
+Observo também que após publicado o acórdão relativo ao recurso repetitivo o respectivo recurso especial deverá: 1) ter seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça (art. 1.040, I, do CPC/2015); (ou) 2) ser novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça (art. 1.040, II, do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
