@@ -1,0 +1,8 @@
+DECISÃO
+Na sessão eletrônica de afetação do dia 21.02.2024 ao dia 27.02.2024, este STJ submeteu à Primeira Seção o TEMA n. 1.239/STJ através dos seguintes recursos repetitivos: REsps. 2.093.050 / AM; REsp 2093052 / AM. Neles se discute a seguinte tese controvertida "definir se o PIS e a COFINS incidem sobre as receitas decorrentes de vendas de mercadorias de origem nacional, realizadas a pessoas físicas situadas dentro da área abrangida pela Zona Franca de Manaus".
+A abrangência da suspensão envolveu a determinação de suspensão da tramitação de todos os recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito.
+A admissão de recurso especial como repetitivo impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Assim, por razões de economia processual, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o exame do recurso especial e/ou agravo ocorra após exercido o juízo de retratação ou declarado prejudicado o recurso, na forma do art. 1.039 do CPC/2015.
+Observo também que após publicado o acórdão relativo ao recurso repetitivo o respectivo recurso especial deverá: 1) ter seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça (art. 1.040, I, do CPC/2015); (ou) 2) ser novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça (art. 1.040, II, do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
