@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de MARCIO MARJOTE DE SOUZA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do Agravo em Execução n. 4001702-44.2023.8.16.0014.
+Extrai-se dos autos que o juízo da execução indeferiu o pedido de indulto formulado pelo paciente, conforme decisão de fls. 27 /28.
+Irresignada, a defesa interpôs agravo em execução, ao qual o Tribunal de origem negou provimento nos termos do acórdão que restou assim ementado:
+"RECURSO DE AGRAVO EM EXECUÇÃO PENAL - DECISÃO QUE INDEFERIU O PEDIDO DE INDULTO PREVISTO NO DECRETO Nº 11.302/2022 - INSURGÊNCIA DA DEFESA - ALEGADA NECESSIDADE DE ANÁLISE ISOLADA DE CADA CONDENAÇÃO PARA CONCESSÃO DO INDULTO - NÃO ACOLHIMENTO - REEDUCANDO QUE NÃOCUMPRIU REQUISITO OBJETIVO EXIGIDO À CONCESSÃO DO AGRAVANTE CONDENADO PELA PRÁTICA DO CRIME INDULTO -DE TORTURA E FURTO SIMPLES - CRIME IMPEDITIVO À CONCESSÃO DE INDULTO - NÃO CUMPRIMENTO INTEGRAL DA PENA CORRESPONDENTE À CONDENAÇÃO PELO CRIME IMPEDITIVO DE TORTURA - APLICAÇÃO DO ART. 11, PARÁGRAFO ÚNICO, DO DECRETO PRESIDENCIAL - CONCURSO DE CRIMES, PREVISTO NO ARTIGO 11, QUE SE REFERE AO CONCURSO DE CRIMES INSERTOS NO PROCESSO DE EXECUÇÃO E NÃO APENAS AQUELE VERIFICADO NO PROCESSO DE CONHECIMENTO -DECISÃO ESCORREITA. RECURSO CONHECIDO E NÃO PROVIDO" (fl. 56).
+No presente writ, a defesa sustenta que o paciente preenche todos os requisitos necessários à concessão do indulto com fundamento no Decreto n. 11.302/2022, considerando que o óbice previsto no art. 11, parágrafo único, do referido diploma, diz respeito apenas ao concurso de crimes objetos de uma só ação penal.
+Requer, em liminar e no mérito, a concessão do indulto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O art. 11 do Decreto n. 11.302/2022 consigna o seguinte:
+"Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022, nos termos do disposto no art. 111 da Lei nº 7.210, de 11 de julho de 1984.
+Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º."
+A Terceira Seção desta Corte, instada a manifestar-se no julgamento do AgRg no HC n. 856.053/SC firmou entendimento no sentido de que a exigência de cumprimento integral da pena por crime impeditivo do indulto, contida no art. 11, parágrafo único, Decreto n. 11.302/2022, somente se aplica aos crimes objetos de concurso material ou formal, não se aplicando aos casos de simples somatório ou unificação das penas.
+A propósito, confira-se o teor da ementa do referido julgado.
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido.
+(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 14/11/2023)
+Evidente, portanto, o constrangimento ilegal. Contudo, inviável o reconhecimento de plano, por esta Corte Superior, do benefício pleiteado ante a necessidade de análise aprofundada da adequação dos demais requisitos estabelecidos no ato do Presidente da República.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Contudo, concedo liminarmente a ordem, de ofício, para determinar que o Juízo das Execuções prossiga na análise do pedido de indulto com amparo no Decreto n. 11.302/2022, sem considerar como impeditiva a pena ainda não integralmente cumprida por crimes que não foram praticados em concurso formal ou material com o delito ora em análise.
+Publique-se.
+Intimem-se.
+ EMENTA
