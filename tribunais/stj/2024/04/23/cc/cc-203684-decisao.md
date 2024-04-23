@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por PDG CONSTRUTORA LTDA. - EM RECUPERAÇÃO JUDICIAL no qual aponta como suscitados o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP e o JUÍZO DA 2ª VARA DO TRABALHO DE SÃO BERNARDO DO CAMPO - SP.
+A parte suscitante defende a existência de conflito de competência argumentando que (fls. 3-12):
+Trata-se de Conflito de Competência suscitado em razão da determinação do prosseguimento da execução na Justiça do Trabalho.
+O D. Juízo da 2ª Vara do Trabalho de São Bernardo do Campo, nos autos da Reclamação Trabalhista n. 1000574-30.2022.5.02.0462, proposta por Wesley Lopes Ferreira, determinou o prosseguimento da Execução e a intimação da Suscitante para pagamento.
+ ..
+Assim, a expedição de mandado de pesquisa patrimonial é nitidamente indevida, acarretando diversos prejuízos à Suscitante que busca o soerguimento financeiro e empresarial através do processo de Recuperação Judicial.
+ ..
+Vale lembrar, que o crédito decorrente da relação trabalhista em questão é de natureza concursal, pré-existente a decretação da Recuperação Judicial.
+ ..
+Destarte, requer que o presente conflito de competência seja julgado procedente, para que seja reconhecida as determinações e a competência exclusiva do Juízo da Recuperação Judicial pelos atos de execução e constrição contra o patrimônio da Suscitante, determinando-se a notificação do Juízo da 2ª Vara do Trabalho de São Bernardo do Campo, determinando a imediata suspensão da execução trabalhista e qualquer ordem de bloqueio/medida constritiva.
+Por meio da decisão de fls. 531-533, deferi o pedido de liminar para suspender, até a definitiva solução do presente conflito, os atos executórios promovidos contra o patrimônio da empresa suscitante, bem como designei o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP para decidir acerca das medidas urgentes.
+Informações prestadas pelo JUÍZO DA 2ª VARA DO TRABALHO DE SÃO BERNARDO DO CAMPO - SP às fls. 539-545 e pelo JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP às fls. 547-553 .
+Parecer do MPF às fls. 555-558 opinando pela competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP.
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, tanto sob a égide do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO POSITIVO DE COMPETÊNCIA. FALÊNCIA. EXECUÇÃO TRABALHISTA. GOL LINHAS AEREAS. VARIG. COMPETÊNCIA DO JUÍZO FALIMENTAR. - PRECEDENTES DO STJ. SÚMULA 59/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo (AgInt no CC 173.626/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 28/09/2021, DJe 01/10/2021).
+3. Agravo interno não provido.
+(AgInt nos EDcl no CC n. 178.118/RJ, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe de 3/3/2022, grifei.)
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, em razão do recebimento da apelação com efeito suspensivo, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA.
+1. Nos termos da jurisprudência deste STJ, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo recuperacional para decidir sobre atos constritivos realizados contra a recuperanda.
+2. Ainda, de acordo com a tese definida no Tema Repetitivo n. 1.151/STJ, "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador".
+4. No caso, o Juízo da execução trabalhista determinou a intimação da recuperanda para o pagamento do débito, sob pena de penhora, violando, assim, a competência do Juízo da recuperação judicial.
+5. Por fim, não há se falar em incidência da Súmula n. 59/STJ, pois, tratando-se de matéria de competência absoluta, como, na espécie, "(..) no âmbito dos processos judiciais que tratam de falência e recuperação judicial, inexiste prazo estipulado em lei para a interposição de conflito de competência, o qual pode ser manejado a qualquer momento, nas hipóteses em que juízo incompetente passa a deliberar sobre o patrimônio da empresa falida/recuperanda" (AgInt nos EDcl no CC 165.415/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 27/11/2019, DJe de 2/12/2019.).
+Manutenção da decisão agravada.
+Agravo interno improvido.
+(AgInt no CC n. 192.559/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 15/8/2023, DJe de 18/8/2023, grifei.)
+Na espécie, verifica-se que o JUÍZO DA 2ª VARA DO TRABALHO DE SÃO BERNARDO DO CAMPO - SP determinou o pagamento do valor discriminado no mandado, sob pena de prosseguimento de atos executórios (fls. 30-31), violando, assim, a competência do Juízo R ecuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP para quaisquer exames relativos a pagamento de débitos da suscitante e constrição dos seus patrimônios.
+Os valores eventualmente constritos pelo JUÍZO DA 2ª VARA DO TRABALHO DE SÃO BERNARDO DO CAMPO - SP deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
+1. Os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, tanto sob a égide do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal. Precedentes.
+2. Enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo recuperacional para decidir sobre atos constritivos realizados contra a recuperanda. Precedentes.
+Conflito de competência conhecido para declarar a competência do Juízo recuperacional.
