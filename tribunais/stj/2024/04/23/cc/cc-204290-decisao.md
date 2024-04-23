@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito de negativo de competência suscitado pelo Juízo de Direito da 2ª Vara de Cerro Largo/RS em desfavor do Juízo Federal da 1ª Vara de Santo Ângelo - SJ/RS, extraído dos autos da ação ajuizada, originariamente, contra o Estado do Rio Grande do Sul, objetivando o fornecimento do medicamento OMALIZUMBE - XOLAIR, que não integra a lista do SUS.
+A inicial foi distribuída no Juízo Estadual, com deferimento da tutela de urgência postulada, sobreveio notícia de que o TJRS proferiu decisão a qual culminou na inclusão da União no polo passivo através de emenda à inicial e declinação da competência para processar e julgar a pretensão em favor da Justiça Federal.
+O Juízo Federal, por sua vez, devolveu os autos, ao argumento de que, tratando-se de medicamento não padronizado no âmbito do SUS e que já fora proferida sentença na Justiça Estadual, devem os autos permanecerem na Justiça Estadual, nos termos do que foi decidido pelo STF no Tema 1.234.
+Com o retorno dos autos ao Juízo Estadual, este suscitou o presente conflito, consignando que "Como se percebe, a decisão de 2º Grau que entendeu pela necessidade da União compor o polo passivo não foi acatada pelo Juízo Federal. Dar tramitação a demanda, sem outras considerações, implicaria desconhecer a decisão de 2º Grau, sendo certo que o Juízo Federal de 1º Grau não é revisor das decisões do Tribunal de Justiça. Em sendo assim, entendo necessário suscitar o conflito de competência, contudo, considerando que o próprio Tribunal de Justiça determinou fossem mantidos os comandos liminares, em razão da condição do direito fundamental envolvido, nada obsta que seja dado prosseguimento a eventual execução do julgado, dando guarida ao direito fundamental à saúde e a prioridade absoluta que é assegurada, constitucionalmente as crianças e adolescentes." (e-STJ fl. 6).
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo a Justiça Estadual a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Publique-se. Intimem-se.
+EMENTA
