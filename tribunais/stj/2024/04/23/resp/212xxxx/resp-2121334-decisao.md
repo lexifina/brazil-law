@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Edílio Francisco Bicalho e Edmar das Dores da Silva contra os acórdãos de fls. 439-445 e 492-498 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementados:
+APELAÇÃO - ANULAÇÃO DE NEGÓCIO JURÍDICO - ESCRITURA PÚBLICA DE COMPRA E VENDA - DECADÊNCIA - PRAZO LEGAL -INOBSERVÂNCIA. 1. A ação anulatória de escritura pública de compra e venda de bem imóvel se sujeita ao prazo decadencial de 4 (quatro) anos fixado na alínea "b" do § 9º do artigo 178 do Código Civil de 1.916. 2. Exaurido o prazo legal quando do ajuizamento da ação, deve ser mantida a extinção do feito, com resolução de mérito.
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONTRADIÇÃO -OBSCURIDADE - ERRO MATERIAL - INEXISTÊNCIA - REJEIÇÃO. Devem ser rejeitados os embargos de declaração opostos contra a decisão judicial que não possui as omissões, contradições, obscuridades e erros materiais apontados.
+Nas razões do recurso especial (e-STJ, fls. 506-523), apontam os insurgentes a existência de violação dos arts. 114, 115, I, 371, 373, I e II, 385, 1.022 do CPC/2015; 166, I a VII, 167, § 1º, I, II e III, 168, parágrafo único, 169, 171, I e II, 549 e 1.846 do CC/2002; e 178, § 9º, V, b, do CC/1916. Sustenta, em síntese: i) ocorrência de negativa de prestação jurisdicional; ii) inaplicabilidade da prescrição, porquanto o ato é nulo; e iii) existência de litisconsórcio passivo necessário.
+Contrarrazões às fls. 542-555 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 565-567 ), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Primeiramente, trata o recurso d a ocorrência de negativa de prestação jurisdicional. Defendem os recorrentes que o Tribunal de origem foi omisso sobre os seguintes pontos: o negócio é nulo por simulação, logo, inaplicável a prescrição; a prova do momento em que os recorrentes tiveram conhecimento do negócio jurídico seria feita através da prova indeferida.
+Observa-se que, de fato, a Corte local não se manifestou sobre tais argumentos e, embora os recorrentes tenham provocado o Tribunal estadual através dos aclaratórios (e-STJ, fls. 453-456), este permaneceu silente, conforme se nota da ementa acima colacionada.
+Com efeito, inarredável a conclusão de ofensa ao art. 1.022 do Código de Processo Civil de 2015, haja vista que, independentemente do acerto ou não da tese invocada, ela deveria ter sido objeto de análise pela Corte de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+A análise das demais teses recursais se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, dou provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. ANULAÇÃO DE NEGÓCIO JURÍDICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA. ANÁLISE DAS DEMAIS TESES PREJUDICADA. RECURSO ESPECIAL PROVIDO.
