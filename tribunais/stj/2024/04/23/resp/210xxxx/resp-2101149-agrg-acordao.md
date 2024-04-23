@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DO ART. 90 DA LEI N. 8.666/93. DOSIMETRIA. ART. 59 DO CP. CULPABILIDADE. DELITO COMETIDO PELO CHEFE DO EXECUTIVO MUNICIPAL. FUNDAMENTO IDÔNEO. RECURSO NÃO PROVIDO.
+1. Praticado o delito de fraude em licitação enquanto exercia o cargo de Prefeito Municipal, considera-se idônea a m ajoração da pena-base (ut, AgRg no AREsp n. 1.123.893/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 29/11/2017.)
+2. Agravo regimental não provido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por Ivan Reis da Silva contra decisão de e-STJ fls. 2.649/2.654, de minha relatoria, em que dei parcial provimento ao recurso especial interposto pelo Ministério Público do Estado do Paraná para aumentar a pena do agravante em razão da avaliação desfavorável do vetor judicial da culpabilidade.
+A defesa alega que em "em momento algum a fundamentação indicada no acórdão para afastar a culpabilidade reside na condição de prefeito do recorrente." (e-STJ fl. 2.671). Sustenta que "a motivação do julgado foi no sentido de que o simples fato do recorrente ser Prefeito, isso não tornaria o caso concreto mais reprovável, ou seja, o "fato do acusado ser Prefeito do Município, visto que apesar de reprováveis, não são suficientes para influir na pena-base." (e-STJ fl. 2.671)
+Objetiva, assim, a reconsideração da decisão agravada ou a remessa do feito à apreciação da Turma, a fim de que o agravo seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DO ART. 90 DA LEI N. 8.666/93. DOSIMETRIA. ART. 59 DO CP. CULPABILIDADE. DELITO COMETIDO PELO CHEFE DO EXECUTIVO MUNICIPAL. FUNDAMENTO IDÔNEO. RECURSO NÃO PROVIDO.
+1. Praticado o delito de fraude em licitação enquanto exercia o cargo de Prefeito Municipal, considera-se idônea a m ajoração da pena-base (ut, AgRg no AREsp n. 1.123.893/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 29/11/2017.)
+2. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Quanto à violação do art. 59 do CP, o TJPR assim se pronunciou:
+A culpabilidade, como circunstância judicial na primeira fase de fixação da pena, é conceituada como "maior ou menor reprovabilidade da conduta, de acordo com as condições pessoais do agente e das" (Estefan, André. Direito Penal Esquematizado: parte geral. São Paulo: Saraiva, características do crime2012, pag. 533).
+No caso concreto, os argumentos apresentados pelo sentenciante não denotam maior reprovabilidade a justificar a exasperação da pena-base, pelo fato do acusado ser Prefeito do Município, visto que apesar de reprováveis, não são suficientes para influir na pena-base.
+Isto posto, afasta-se o aumento realizado, restando a pena fixada em 02 (dois) anos de reclusão e 10 (dez)dias-multa.
+O entendimento do TJPR, no ponto, destoa da jurisprudência desta Corte, firme no sentido de que o crime previsto no art. 90 da Lei n. 8.666/1993 classifica-se como comum, não se exigindo, assim, do sujeito ativo nenhuma qualidade em específico, de forma que a condição do prefeito do recorrente, autoriza a exasperação da pena basilar. Confira-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIMES DE LICITAÇÃO PRATICADOS PELO PREFEITO E VICE-PREFEITO. MAJORAÇÃO DA PENA BASE. CULPABILIDADE ACENTUADA EM RAZÃO DO CARGO QUE OS ACUSADOS OCUPAVAM. FUNDAMENTO IDÔNEO. PRECEDENTES. EXECUÇÃO PROVISÓRIA DA PENA. NOVO ENTENDIMENTO DA SUPREMA CORTE NO JULGAMENTO ADC N. 43, 44 E 54 DO SUPREMO TRIBUNAL FEDERAL - STF. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. "A jurisprudência deste Tribunal Superior firmou-se no sentido de que o crime previsto no art. 90 da Lei n. 8.666/1993 classifica-se como comum, não se exigindo, assim, do sujeito ativo nenhuma qualidade em específico. 2. Mostra-se idônea a valoração negativa do vetor da culpabilidade pelo fato de o agente exercer o cargo de Chefe do Poder Executivo Municipal, ocupação que demanda exercício com efetivas lisura e ética, inexistentes in casu" (AgRg no REsp 1795894/PB, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/3/2019, DJe 8/4/2019).
+3. O Plenário da Suprema Corte, ao concluir o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, modificou seu posicionamento, por 6 votos a 5, no sentido de não ser possível a execução da pena pelo simples exaurimento recursal perante as instâncias ordinárias, retornando o entendimento de que deve prevalecer a presunção de inocência até o trânsito em julgado da condenação.
+No julgado, a Suprema Corte ressaltou que a decisão não significa a soltura imediata de todos presos custodiados após o julgamento em segunda instância sem o trânsito em julgado da condenação. Restou consignado que, a situação de cada encarcerado deveria ser revista caso a caso, podendo ser mantida nos casos em que o acusado tenha sido segregado no curso do processo diante da presença dos requisitos ensejadores da prisão cautelar, previstos no art. 312 do Código de Processo Penal - CPP.
+4. A prisão do paciente foi decretada exclusivamente em decorrência dos julgados anteriores da Suprema Corte, que restaram superados com o julgamento do mérito das ADCs n. 43, 44 e 54, razão pela qual entendo que deve ser concedida a ordem, de ofício, para assegurar-lhe o direto de aguardar o trânsito em julgado da condenação em liberdade, resguardada a possibilidade de decretação da nova segregação antecipada com base em decisão devidamente fundamentada e com base nos requisitos ensejadores da custódia cautelar previstos no art. 312 do Código de Processo Penal 5. Habeas Corpus não conhecido. Ordem concedida, de ofício, para assegurar ao paciente o direito de aguardar em liberdade o trânsito em julgado da condenação, ressalvada a possibilidade de decretação de nova prisão por decisão devidamente fundamentada. (HC n. 454.611/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/11/2019, DJe de 26/11/2019.)
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PREFEITO. FRAUDE EM LICITAÇÃO E DESVIO DE VERBA PÚBLICA. ABSOLVIÇÃO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+Reconhecida a materialidade e a autoria do delito, a pretensão de ser absolvido em recurso especial esbarra no óbice da Súmula 7/STJ. DOSIMETRIA DA PENA. ARTIGO 90 DA LEI 8.666/93. EXASPERAÇÃO DA PENA-BASE DIANTE DO EXERCÍCIO DO CARGO DE PREFEITO. IDONEIDADE DO FUNDAMENTO. RECURSO IMPROVIDO.
+1. Praticado o delito de fraude em licitação enquanto exercia o cargo de Prefeito Municipal, considera-se idônea a majoração da pena-base.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 1.123.893/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 29/11/2017.)
+Apesar do esforço argumentativo da defesa, como já acima consignado, o delito do art. 90 da Lei n. 8.666/1993 classifica-se como comum, de forma que a sua prática pelo Chefe do Executivo local, por si, autoriza a elevação da pena basilar.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
