@@ -1,0 +1,30 @@
+DECISÃO
+Na origem, trata-se de ação monitória ante o não pagamento de faturas no prazo estabelecido em contrato. Na sentença, julgou-se o pedido parcialmente procedente. No Tribunal a quo, a sentença foi reformada para constituir o título executivo judicial no valor original. O valor da causa foi fixado em R$ 47.040,21 .
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITORIA PROPOSTA EM FACE DO MUNICÍPIO DE LAGUNA. CONTRATO DE LOCAÇÃO DE VEÍCULOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES. CONTROVÉRSIA SOBRE A PRESTAÇÃO DO SERVIÇO. CONTRATO QUE PREVÊ A LOCAÇÃO DE DOZE VEÍCULOS. COBRANÇA RELATIVA AO ALUGUEL DE DEZ AUTOMÓVEIS, CORROBORADA PELA PROVA DOCUMENTAL. AUSÊNCIA DE ELEMENTOS PROBATÓRIOS A INDICAR O DESCUMPRIMENTO CONTRATUAL ÔNUS DA PARTE RÉ. CONTRAPRESTAÇÃO DEVIDA. RECURSO DA PARTE AUTORA CONHECIDO E PROVIDO. RECLAMO DO MUNICÍPIO CONHECIDO E DESPROVIDO. REDISTRIBUIÇÃO DOS ÔNUS DA SUCUMBÊNCIA. HONORÁRIOS RECURSAIS ARBITRADOS.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A parte autora discriminou dez veículos que teriam ficado na posse do Município dezembro de 2020,informando inclusive a qual órgão teria servido, consoante se infere da fatura nº 545 (evento 1, FATURA5, 1G). Acostou ainda os respectivos termos de entrega (evento 1, ANEXO49 ao ANEXO61, 1G), exceto quanto ao sveículos Kia/Sportage e Fiat/Argo, consoante destacou o magistrado sentenciante.
+Apesar disso, o conjunto probatório indica que os automóveis Kia/Sportage e Fiat/Argo também foram locados pelo Município em dezembro de 2020. Como dito, o contrato administrativo previa a locação de doze veículos, de modo que a cobrança referente a dez automóveis revela-se até mesmo inferior ao contratado.
+Ademais, tanto o Kia/Sportage e quanto o Fiat/Argo estavam lotados no Gabinete do Prefeito, consoante informado pela parte autora. Assim, caso tais veículos não tivessem sido entregues, o Município poderia ter refutado essa alegação por meio de consulta ao referido órgão. Limitou-se, contudo, a sustentar a insuficiência da prova produzida pela parte autora. Observa-se, portanto, que a pretensão autoral condiz com os termos contratuais e com os demais elementos probatórios.
+ ..
+Nesse contexto, tem-se que a contraprestação pelos serviços executados deve ser paga pelo Município, ressalvada a possibilidade de exigir a emissão de notas fiscais em procedimento próprio, como ressaltado na sentença. Mesmo porque a municipalidade já havia pagado pelos serviços por quase dois anos sem a emissão de notas fiscais, revelando comportamento contraditório.
+Portanto, a ausência de notas fiscais não constitui empecilho ao pagamento dos valores cobrados.
+ ..
+Como se vê, a cláusula contratual em destaque determinava a devolução dos veículos nas mesmas condições em que foram entregues, inclusive de limpeza, salvo as deteriorações naturais decorrentes do uso regular, conforme preceitua o art. 569, IV, do Código Civil.
+No ato de devolução, foram apontadas as avarias a serem consertadas e a necessidade de limpeza, consoante se observa nos termos de entrega/conferência (evento 1, ANEXO49 ao ANEXO61, 1G). Em caso de divergência, a municipalidade deveria ter se manifestado na ocasião.
+Quanto aos orçamentos (evento 1, ANEXO20 ao ANEXO33, 1G), verifica-se que estes também foram apresentados ao Município de Laguna por meio de ofícios (evento 1, OFIC34 ao OFIC48, 1G). Não se tem notícia nos autos de questionamentos a respeitos dos orçamentos em alusão.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (arts. 2º, caput, parágrafo único, I, da Lei 9.784/99; 54, caput, e 55, III e XI da Lei 8.666/93), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca do art. 569, IV, do Código Civil, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
