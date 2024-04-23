@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OI S.A. - EM RECUPERACAO JUDICIAL (OI) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF,  OI  alegou violação dos seguintes dispositivos legais (1) arts. 489, § 1º, IV, e 1.022, II, do CPC, por reputar que o acórdão recorrido teria se quedado omisso quanto aos artigos tidos por vulnerados e as teses de que todos os créditos decorrentes de fatos geradores ocorridos antes do pedido de recuperação judicial estariam sujeitos aos efeitos do processo recuperacional, independentemente de terem sido habilitados ou não, devendo respeitar o limite da atualização monetária até a propositura da ação de soerguimento, bem como ser pagos na forma do plano aprovado e homologado; e (2) arts. 9º, II, 49, 59 e 126 da Lei nº 11.101/05, ao sustentar  a  submissão  do  crédito  aos  efeitos  da  recuperação  judicial,  porquanto já existente por ocasião da data do pleito de soerguimento,  de  modo  que  a  atualização  monetária  dos  valores  deve  se  dar  somente  até  a  data  do  pedido  recuperacional, eis que a homologação do plano acarreta a novação dos créditos anteriores ao citado marco. Por fim, indicou dissenso pretoriano, tendo por paradigmas julgados do STJ.
+(1)  Da  alegada  omissão  do  acórdão  recorrido
+ OI  alegou que o acórdão recorrido teria se quedado omisso quanto aos artigos tidos por vulnerados e as teses de que todos os créditos decorrentes de fatos geradores ocorridos antes do pedido de recuperação judicial estariam sujeitos aos efeitos do processo recuperacional, independentemente de terem sido habilitados ou não, devendo respeitar o limite da atualização monetária até a propositura da ação de soerguimento, bem como ser pagos na forma do plano aprovado e homologado.
+De fato, o Tribunal gaúcho, apesar de provocado por embargos de declaração, não se pronunciou sobre o tema destacado, tendo se restringido a assentar que não é obrigatória a habilitação do crédito e que o processo deve ser suspenso enquanto perdurar a recuperação judicial, sem tecer nota adicional sobre o regime legal dos créditos concursais e também a incidência de correção monetária.
+Assim, em face da relevância das questões suscitadas, revela-se necessário o debate acerca dos pontos destacados nas razões recursais, de modo que a prestação jurisdicional seja dada de forma completa.
+Nesse sentido, confiram-se os seguintes precedentes desta Corte:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PROVA PERICIAL. MOMENTO DE IMPUGNAÇÃO AO PERITO. PRECLUSÃO. NÃO OCORRÊNCIA. DISCUSSÃO ACERCA DA QUALIDADE TÉCNICO/CIENTÍFICA DO LAUDO PERICIAL. IMPUGNAÇÃO APÓS A ELABORAÇÃO DOS TRABALHOS PERICIAIS. POSSIBILIDADE (CPC, ART. 424, I). OMISSÕES RELEVANTES NO JULGADO (CPC, ART. 535). OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(..)
+8. Constatando-se violação ao art. 535, II, do CPC, por omissões acerca de questões nevrálgicas para a completa prestação jurisdicional, deve-se anular o v. acórdão recorrido para que, novamente, sejam julgados os embargos de declaração, sanando-se as omissões existentes e relevantes.
+9. Recurso especial parcialmente provido.
+(REsp nº 1.175.317/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe de 26/3/2014).
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 535 DO CPC CONFIGURADA. OMISSÕES NO ACÓRDÃO RECORRIDO. RETORNO DOS AUTOS PARA EXAME DE TEMA ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+1. Quando os temas suscitados nos embargos de declaração são indispensáveis ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tais questões, mister a anulação do acórdão para que outro seja proferido, ante a contrariedade ao artigo 535 do Código de Processo Civil.
+2. Agravo regimental não provido.
+(AgRg no AREsp nº 207.443/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 18/12/2012)
+É medida de rigor, portanto, o retorno dos autos ao TJRS para que seja sanado o vício quanto a sustentação de omissão sobre as teses de que os créditos decorrentes de fatos geradores ocorridos antes do pedido de recuperação judicial estariam sujeitos aos efeitos do processo recuperacional, independentemente de terem sido habilitados ou não, devendo respeitar o limite da atualização monetária até a propositura da ação de soerguimento, bem como ser pagos na forma do plano aprovado e homologado, estando prejudicada a análise das demais matérias objeto do presente.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, determinando que o TJRS proceda a novo julgamento dos embargos de declaração, com suprimento das omissões apontadas.
+Por  oportuno,  previno  que  a  interposição  de  recurso  contra  est  a  decisão,  se  declarado  manifestamente  inadmissível,  protelatório  ou  improcedente,  poderá  acarretar  condenação  às  penalidades  fixadas  nos  arts.  1.021,  §  4º,  ou  1.026,  §  2º,  ambos  do  NCPC.
+Publique-se.  Intimem-se.
+EMENTA
+PROCESSUAL  CIVIL  E  COMERCIAL.  AGRAVO EM RECURSO  ESPECIAL .  AÇÃO  DE  IN ADIMPLEMENTO  CONTRATUAL.  CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. FASE  DE  CUMPRIMENTO  DE  SENTENÇA.  RECUPERAÇÃO  JUDICIAL.  ARTS. 489 E 1.022 DO CPC. OMISSÃO. VIOLAÇÃO DOS DISPOSITIVOS. CONFIGURAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
