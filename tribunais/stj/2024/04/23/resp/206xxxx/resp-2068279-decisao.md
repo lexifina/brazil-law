@@ -1,0 +1,17 @@
+DECISÃO
+Na origem, Cristiane Meire Souza da Silva impetrou mandado de segurança contra ato reputado ilegal imputado à Pró-Reitora da Universidade do Gurupi - UNIRG, pleiteando, em suma, a admissão no processo de revalidação e emissão de parecer quanto ao direito à revalidação simplificada, de acordo com a Resolução n. 03/2016, do Conselho Nacional da Educação.
+A sentença concedeu a segurança, declarando a desnecessidade de intervenção do Ministério Público no feito e reconhecendo a consolidação da situação fática, ante o lapso temporal transcorrido desde a concessão da tutela em liminar (fls. 217-221).
+O Tribunal de Justiça do Estado do Tocantins manteve a sentença (fls. 252-255).
+O Ministério Público do Estado do Tocantins interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, suscitando a violação dos arts. 6º,§ 1º e § 2º, do Decreto-Lei n. 4.657/1942; art. 53, V, da Lei n. 9.394/1996; o art. 1º e 12, caput, da Lei n. 12.016/2009; art. 1º e 2º, §§3º e 4º, da Lei n. 13.959/2019; e arts. 178, 279, e 489, §1º, II, IV e VI, do CPC.
+Alegou, em síntese, que o caso concreto não comporta a aplicação da Teoria do Fato Consumado, pois se trata de situação fática que decorreu diretamente de provimento jurisdicional precário, o que, por natureza, é modificável pela prestação jurisdicional definitiva.
+Sustentou, ainda, a ofensa a dispositivo constitucional que garante a autonomia didático-científica, bem como a artigos da Lei de Diretrizes e Bases da Educação que conferem a discricionariedade à Universidade Pública em adotar o procedimento simplificado de Revalidação de Diplomas de Graduação obtidos no exterior.
+No Superior Tribunal de Justiça, a insurgência do Ministério Público do Estado do Tocantins foi parcialmente conhecida e, nessa parte, provida, a fim de afastar a teoria do fato consumado (fls. 591-600).
+Após julgamento de agravo interno, a decisão foi mantida (fls. 694-695).
+Por meio da petição de fls. 713-715, Cristiane Meire Souza da Silva postulou a homologação de acordo firmado com a Fundação UNIRG.
+Narra, em síntese, que a referida Universidade publicou no dia 10 de outubro de 2023 a Resolução 59/2023/CONSUP/UNIRG, na qual propõe composição entre as partes, e institui critérios e procedimentos para viabilizar o procedimento para celebração de acordo com revalidandos do Processo de Revalidação Simplificada (subjudice), vinculados à Nota Técnica n. 01/2022 da Universidade de Gurupi Unirg.
+Instado, o Ministério Público do Estado do Tocantins manifestou-se: "pela homologação do acordo entabulado entre as partes, nos termos do art. 932, I, do CPC, a para que surta seus efeitos jurídicos e legais e, por conseguinte, pela prejudicialidade do Recurso Especial interposto, bem como da própria Remessa Necessária de n.0012494-17.2021.827.2722." (fls. 724-728).
+Ocorre que, tendo em vista a decisão monocrática de fls. 591-600, que concedeu parcial provimento ao recurso especial interposto pelo Parquet estadual, mantida após apreciação de agravo interno (fls. 694-695), constata-se que inexistem providências a serem tomadas acerca do pedido, em razão do exaurimento da prestação jurisdicional nesta Corte .
+Ante o exposto, após o decurso do prazo recursal, determino à Coordenadoria que certifique o trânsito em julgado e providencie a devolução dos autos à origem, para eventual homologação dos termos da autocomposição noticiada.
+Publique-se.
+Intimem-se.
+EMENTA
