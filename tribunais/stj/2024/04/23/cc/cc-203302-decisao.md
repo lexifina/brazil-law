@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado por Juízo Federal da 2ª Vara de Araçatuba - SJ/SP, tendo por suscitado Juízo de Direito da 4ª Vara de Penápolis - SP.
+Na origem, o juízo suscitado declinou da competência aduzindo que "em casos em que não há recolhimento de contribuições sociais, quando há interesse da União, a apuração de eventual crime cometido é de competência da Justiça Federal, nos termos do artigo 109, IV, da Constituição Federal." (e-STJ Fl. 324)
+O juízo suscitante, a seu turno, afirma que "que não houve apropriação indébita de verbas públicas federais ou de contribuições sociais/FGTS, mas sim de valores pertencentes à própria Prefeitura do Município de Penápolis, que foram repassados à Associação Hospitalar Beneficente do Brasil (AHBB) para recolhimento de FGTS e de contribuições sociais, devidos pela Santa Casa de Misericórdia de Penápolis, bem como a equipar a UTI da Santa Casa." (e-STJ Fl. 343), consignando, ainda, que "não há que se falar em crime de apropriação indébita previdenciária, uma vez que o delito não se consumou, pois não houve a constituição do crédito tributário no âmbito administrativo, sendo o fato, portanto, atípico." (e-STJ FL. 343)
+O Ministério Público Federal promove a competência do suscitado. (e-STJ Fl. 349/355)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A competência criminal da Justiça Federal possui natureza absoluta, encontrando previsão constitucional no art. 109, IV a X da CRFB/88, "verbis":
+Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral;
+V - os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente;
+V-A as causas relativas a direitos humanos a que se refere o § 5º deste artigo; (Incluído pela Emenda Constitucional nº 45, de 2004)
+VI - os crimes contra a organização do trabalho e, nos casos determinados por lei, contra o sistema financeiro e a ordem econômico-financeira;
+VII - os habeas corpus , em matéria criminal de sua competência ou quando o constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição;
+VIII - os mandados de segurança e os habeas data contra ato de autoridade federal, excetuados os casos de competência dos tribunais federais;
+IX - os crimes cometidos a bordo de navios ou aeronaves, ressalvada a competência da Justiça Militar;
+X - os crimes de ingresso ou permanência irregular de estrangeiro, a execução de carta rogatória, após o "exequatur", e de sentença estrangeira, após a homologação, as causas referentes à nacionalidade, inclusive a respectiva opção, e à naturalização;
+Nas hipóteses elencadas no inciso IV, ressalvadas as exceções expressas no texto da lei, restringe-se a competência especializada às hipóteses em que haja ofensa direta a "(..) bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas (..)".
+No presente feito, observa-se que, embora o suposto delito de apropriação indébita envolva valores repassados pelo Município à Associação, destinados ao recolhimento de FGTS e de contribuições sociais, não há nos autos qualquer elemento de demonstre eventual apropriação indébita de verbas públicas federais ou de contribuições sociais, conforme bem destacado pelo Ministério Público Federal em seu parecer de fls. 349-355 (e-STJ).
+Ao contrário, verifica-se que as verbas pertenciam à Prefeitura do Município de Penápolis, transferidas à Associação por autorização de lei municipal, sem qualquer indicação de se tratarem de verbas federais, incidindo, por analogia, o disposto na Súmula 209/STJ, a qual prevê que "Compete à Justiça Estadual processar e julgar prefeito por desvio de verba transferida e incorporada ao patrimônio municipal".
+Outrossim, nos termos da jurisprudência do STJ firmada em julgamento de recurso repetitivo (Tema 1.166), "O crime de apropriação indébita previdenciária, previsto no art. 168-A, § 1.º, inciso I, do Código Penal, possui natureza de delito material, que só se consuma com a constituição definitiva, na via administrativa, do crédito tributário, consoante o disposto na Súmula Vinculante n. 24 do Supremo Tribunal Federal."
+Na espécie, não há qualquer informação acerca da constituição definitiva do crédito tributário que pudesse configurar o crime de apropriação indébita previdenciária (art. 168-A do CP).
+Dessa forma, não demonstrada a ocorrência de lesão direta a bens, serviços ou interesse da União, deve ser reconhecida a competência do juízo estadual para o processamento do inquérito policial.
+Ante o exposto, CO NHEÇO do conflito para DECLARAR a competência do Juízo de Direito da 4ª Vara de Penápolis - SP, o Suscitado, para processar o Inquérito Policial nº 2318555-80.2021.050217.
+Publique-se. Intimem-se.
+EMENTA
