@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, trata-se de ação de rito comum ajuizada por EDINEIDE MARQUES DE SENA DA ROCHA E OUTROS contra COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA - COELBA, pleiteando indenização por danos materiais e morais. Na sentença, julgou-se procedente o pedido, para determinar a ré o pagamento de R$ 385.000,00 (trezentos e oitenta e cinco mil reais) a título de danos morais. No Tribunal a quo, a sentença foi mantida. O valor da causa não foi informado.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. MORTE POR ELETROCUSSÃO. CONCESSIONÁRIA DE SERVIÇOS PÚBLICOS. RESPONSABILIDADE OBJETIVA. CONDENAÇÃO EM DANOS MORAIS NO VALOR DE RS 385.000,00 (TREZENTOS E OITENTA E CINCO MIL REAIS), A SER DIVIDIDO ENTRE OS AUTORES - OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE INCONFORMISMO - DENUNCIAÇÃO À LIDE DA SEGURADORA - INDEFERIMENTO PELO JUÍZO DE PRIMEIRO GRAU NÃO IMPUGNADO TEMPESTIVAMENTE - PRECLUSÃO - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Com efeito, é pacífico na jurisprudência pátria o entendimento de que as empresas concessionárias de serviços públicos respondem, objetivamente, pelos danos causados a terceiros, consoante se infere dos seguintes arestos, in verbis:
+ ..
+Este posicionamento, ao qual me filio, decorre da aplicação do Código de Defesa do Consumidor às relações jurídicas havidas entre as Concessionárias de Serviços Públicos e os usuários de tais serviços, mostrando-se adequada a subsunção dos fatos narrados na exordial à norma extraída do artigo 22, da Lei nº 8.078/90, in litteris:
+ ..
+Pois bem. Verifica-se, da análise do acervo probatório produzido nos autos, especificamente do laudo pericial elaborado pela Secretaria de Segurança Pública (Id 24706068,fls. 33/34 e 35) e tantos outros documentos que atestam ter a vítima sofrido choque elétrico.
+Da narrativa fática, colhe-se que o fio de alta tensão estava caído ao chão - fato corroborado pelo preposto da concessionária que, em seu depoimento (Id ), diz "não saber precisar o motivo que ocasionou o rompimento da fiação; (..) que apenas um dos fios foi rompido(..)".
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, (art. 186, 884, 927 do CC/2002 e art. 373 do CPC/2015) verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
