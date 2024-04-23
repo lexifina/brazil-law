@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de FRANCISCO WILNER LOPES LIMA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do HC n. 2265154-44.2023.8.26.0000.
+Extrai-se dos autos que o Juízo da 4ª Vara Criminal da Comarca de São Paulo/SP decretou a prisão preventiva do paciente, denunciado pela suposta prática do delito tipificado no art. 157, caput, do Código Penal (roubo), no bojo dos autos n. 0001284-97.2017.8.26.0050.
+Irresignada, a Defensoria Pública do Estado de São Paulo impetrou habeas corpus perante o Tribunal de origem alegando, em suma, a ilegalidade de procedimento de reconhecimento pessoal, em virtude da inobservância das diretrizes previstas no art. 226 do Código de Processo Penal. Asseriu, também, que a prisão preventiva foi decretada em decisão carente de fundamentação idônea. Todavia, a Décima Sexta Câmara de Direito Criminal do TJSP, à unanimidade, denegou a ordem nos termos do acórdão de fls. 8/13, que restou assim ementado:
+"Habeas Corpus. Roubo simples. Reconhecimento pessoal realizado sem observância do rito previsto no artigo 226 do Código de Processo Penal. Arguição de nulidade da prova. Pedido de trancamento da ação penal e revogação da prisão preventiva. Nulidade não reconhecida. Procedimento válido para reconhecimento do acusado. Investigação policial e confissão extrajudicial. Presença de provas da materialidade delitiva e de suficientes indícios de autoria. Inicial acusatória que bem descreve o fato criminoso e todas as suas circunstâncias. Suficiência para o recebimento da denúncia. Necessidade de garantia da ordem pública e garantia de aplicação da lei penal. Fundamentos válidos para a manutenção da prisão preventiva. Constrangimento ilegal não verificado. Ordem denegada." (fl. 12).
+No presente writ a Defensoria Pública afirma a ilegalidade do decreto prisional, porquanto fundamentado, tão somente, na gravidade abstrata do delito imputado.
+Assevera que o acórdão impugnado não justificou a manutenção da ordem prisional.
+Aduz as condições pessoais favoráveis do paciente, notadamente a primariedade e os bons antecedentes.
+Requer, em liminar e no mérito, a concessão da ordem para determinar a confecção de contramandado de prisão em desfavor do paciente, mesmo que aplicadas, se o caso, medidas cautelares alternativas em cumulação.
+A liminar foi indeferida (fls. 114/116) e as informações foram prestadas (fls. 122/123). O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 128/134).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Busca-se, nos presentes autos, a revogação da prisão preventiva do paciente.
+No que tange aos motivos da custódia cautelar e à imposição de medidas cautelares, de se destacar que o acórdão impugnado (fls. 8/13) não conheceu da impetração originária, por se tratar de reiteração de writ anterior, qual seja, o HC n. 027292-33.2017.8.26.0000.
+Nesse contexto, considerando que as questões aqui trazidas não foram debatidas no acórdão ora impugnado, fica impossibilitado o conhecimento do presente recurso quanto aos temas que não foram efetivamente deliberados pela Corte a quo.
+Não há falar, ainda, em análise de ofício das alegações aqui colacionadas, tendo em vista que o mandamus não veio instruído com cópia do acórdão no qual a Corte de origem teria analisado as matérias.
+Isso porque, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. "Constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ" (AgRg no HC 278.141/SP, Rel. Ministra ASSUSETE MAGALHÃES, Sexta Turma, julgado em 22/10/2013, DJe 25/11/2013).
+3. A alegação de excesso de prazo para a formação da culpa não foi analisada pelo Tribunal de origem, sequer foi arguida nas razões dos dois habeas corpus precedentes impetrados na origem, circunstância que impede o Superior Tribunal de Justiça de apreciar diretamente a matéria, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de Configurar indevida supressão de instância.
+4. Habeas corpus não conhecido
+(HC 321.025/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/08/2015).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
