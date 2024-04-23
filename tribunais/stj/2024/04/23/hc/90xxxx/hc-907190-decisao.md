@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WESLEY LOPES GUERRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal nº 2054222-44.2024.8.26.0000).
+Consta dos autos que o paciente teve contra si expedido mandado de busca e apreensão para a sua residência, em razão de suposto envolvimento com a prática de tráfico de drogas.
+Daí o presente habeas corpus, no qual a defesa busca a declaração de nulidade, tendo em vista a expedição de mandado de busca e apreensão sem a realização de diligências prévias.
+Requer, inclusive liminarmente, cassar a decisão a quo para se reconhecer a ilegalidade das provas obtidas. Tudo a ser confirmado no mérito.
+É o relatório. DECIDO.
+Conforme consta, a defesa espera a declaração de nulidade, tendo em vista a expedição de mandado de busca e apreensão sem a realização de diligências prévias.
+Do contrário, a Corte de origem consignou que havia relatório policial sobre os fatos supostamente envolvendo o paciente, inclusive, que a existência de olheiros no local ensejaria dificuldades a campanas policiais, demonstrando também a essencialidade da medida.
+In verbis (fls. 10-17):
+"Para a melhor elucidação do caso em análise, colaciono a r. decisão (fls. 19/20): "Consta dos autos que o Setor de Investigações elaborou relatório informando que a pessoa de WESLEY (..) estaria envolvido com o tráfico de drogas, comercializando entorpecentes e os armazenando em sua residência. Informaram ainda que referida pessoa, quando percebe a presença de policiais em sua casa acaba fugindo para imóveis Vizinhos. Afirma que o local se encontra rodeado de olheiros o que dificulta a tomada de campanhas e afins, sendo rua pacata que desperta a atenção do tráfico qualquer movimentação atípica (fls. 1/6). Para que seja proferida determinação judicial de busca e apreensão domiciliar, devem estar presentes os requisitos do art. 240, § 1º, do CPP. (..) Diante do exposto, os elementos coligidos pela Polícia Civil demonstram indícios reveladores da ocorrência de ilícito penal, sendo imprescindível a busca na residência do(s) suspeito(s) para descobrir objetos necessários à prova da infração e para colher elementos de convicção. Sendo assim, com fulcro no artigo 240, do Código de Processo Penal, defiro a expedição do competente mandado de busca e apreensão, observando-se, porém, as garantias constitucionais estampadas no artigo 5º da Constituição Federal, no(s) seguinte(s) (..)".
+No mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do hab eas corpus (e do seu recurso) para a análise de teses que demandem a necessidade de incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJ e de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Portanto, o pedido não comporta guarida.
+Ante o exposto, denego o habeas corpus.
+Abra-se vista ao MPF.
+Publique-se. Intime-se.
+EMENTA
