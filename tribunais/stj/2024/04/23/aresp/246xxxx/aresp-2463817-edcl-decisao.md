@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HERMOZA FESTAS E EVENTOS LTDA. à decisão proferida por este signatário, nos termos da seguinte ementa (e-STJ, fl. 578):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PARCIALMENTE PROCEDENTES. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. DESERÇÃODO RECURSOESPECIAL. INDEFERIMENTO DE GRATUIDADE DE JUSTIÇA. RECOLHIMENTO DO PREPARO NÃO EFETUADO, APESAR DE REGULARMENTE INTIMADA PARA TANTO. SÚMULA 187/STJ. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões, sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Em especial, aponta não ter sido analisado seu pedido de concessão de gratuidade de justiça trazido nas razões do recurso especial apresentado.
+Impugnação às fls. 596-603 (e-STJ).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou contradição a ser sanada, portanto inexistentes os requisitos para cabimento dos presentes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+A decisão monocrática embargada dirimiu a questão com base em fundamentação sólida, sem omissões ou contradições, porquanto esclareceu a controvérsia, apontando fundamentação consistente, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorre nos autos.
+Ilustrativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COISA JULGADA. PRECUSÃO. OMISSÃO E CONTRADIÇÃO NÃO CONFIGURADAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do diploma processual, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+2. Para oposição dos embargos, considera-se contraditória a decisão quando há incompatibilidade lógica entre os seus fundamentos, reciprocamente considerados ou entre os seus fundamentos e as conclusões expostas na parte dispositiva. Contradição, assim, é a antinomia interna, a ausência de relação lógica e coerente entre os fundamentos adotados como ratio decidendi e o próprio dispositivo da decisão, ou entre os próprios fundamentos (EDcl no AgInt no AREsp n. 2063745 / RJ).
+3. Embargos de declaração rejeitados(EDcl no REsp n. 2.046.349/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Não viola os arts. 489 e 1.022 do Có digo de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp n. 2.208.219/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/3/2024, DJe de 18/3/2024.)
+Dito isso, cabe rememorar que a ora embargante, em desfavor do acórdão proferido pelo TJRS interpôs recurso especial (fls. 450-462, e-STJ), o qual não foi admitido (fls. 535-537, e-STJ), ensejando a interposição do agravo em recurso especial (fls. 546-558, e-STJ), do qual se conheceu para não conhecer do recurso especial (fls. 578-584, e-STJ).
+Nas razões do recurso especial, a recorrente alegou:
+(i) fazer jus à concessão da gratuidade de justiça, por não possuir condições financeiras de arcar com as despesas processuais; e
+(ii) estar configurada a negativa de prestação jurisdicional ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão recorrida.
+Na decisão embargada, reconheceu-se que: a) não configurada a apontada usurpação de competência; b) não ter havido a alegada violação dos arts. 489 e 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas, de forma fundamentada; c) aplicação da Súmula 211/STJ por falta de prequestionamento dos artigos de lei tidos por violados; e d) incidência da Súmula 7/STJ para revisão das conclusões do acórdão recorrido, acerca da configuração da deserção do recurso especial, em virtude do indeferimento do pedido de gratuidade de justiça e, apesar de regularmente intimada, a parte não ter recolhido o preparo necessário.
+Sendo assim , ainda que a solução tenha sido contrária à pretensão da ora insurgente, não se pode negar ter havido efetivo enfrentamento e resposta aos pontos controvertidos.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PARCIALMENTE PROCEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
