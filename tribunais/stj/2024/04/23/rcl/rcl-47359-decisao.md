@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada por Embras Empresa Brasileira de Sistemas Limitada, com fundamento no artigo 988, I, II e III, do CPC/2015, contra decisão proferida pelo Exmo. Sr. Ministro Teodoro Silva Santos no bojo do AREsp n. 1.775.489/SP, que não conheceu de petição intitulada de "Recurso Especial" apresentada pela ora reclamante contra acórdão proferido pela Segunda Turma desta Corte Superior que rejeitou os embargos de declaração, bem como em face de sentença que julgou procedente os pedidos formulados na ação de improbidade administrativa (processo digital n. 1000695-48.2017.8.26.0516), condenando a ora reclamante pela prática dos atos ímprobos previstos nos arts. 10, caput, e 11, da Lei n. 8.429/92, em sua redação original (e-STJ fls. 24-42).
+Sustenta que as regras da Lei n. 14.230/2021 devem ser aplicadas, imediatamente, ao caso vertente, por se tratar de norma de direito público, somado ao fato de que os requeridos não agiram com dolo, sendo, portanto, relevante a preservação da competência do STF, à luz do que decidido no Tema n. 1199.
+Pugna pela concessão de liminar para reformar e sustar de imediato os efeitos do acórdão que contraria frontalmente o Tema n. 1.199/STF, e, ao final, seja provida a reclamação, para julgar improcedente a ação civil pública por ato de improbidade administrativa (e-STJ fls. 11-12).
+É o relatório. Passo a decidir.
+O instituto da reclamação dirigida ao Superior Tribunal de Justiça está previsto no art. 105, I, "f", da CF/1988, sendo cabível para a preservação da competência e a garantia da autoridade das decisões desta Corte.
+O Código de Processo Civil dispôs a respeito da legitimidade e cabimento da reclamação no seu art. 988, verbis:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+Nesta Corte Superior, a reclamação está disciplinada no art. 187 e seguintes do Regimento Interno.
+No caso concreto, entretanto, verifica-se que a presente reclamação não se enquadra em qualquer das hipóteses acima delineadas pois, como relatado, objetiva a reclamante a cassação de: (a) decisão proferida pelo Exmo. Sr. Ministro Teodoro Silva Santos no bojo do AREsp n. 1.775.489/SP, que não conheceu de petição denominada de "Recurso Especial" apresentada pela ora reclamante contra acórdão proferido pela Segunda Turma desta Corte Superior que rejeitou os embargos de declaração, em virtude de caracterizar erro grosseiro a interposição de apelo especial contra acórdão proferido pelo STJ (e-STJ fls. 43-44); e (b) sentença que julgou procedente os pedidos formulados na ação de improbidade administrativa (processo digital n. 1000695-48.2017.8.26.0516), condenando a ora reclamante pela prática dos atos ímprobos previstos nos arts. 10, caput, e 11, da Le i n. 8.429/92, em sua redação original (e-STJ fls. 24-42).
+Desse modo, a presente reclamação é manifestamente incabível, pois está sendo utilizada como sucedâneo recursal, providência essa não admitida pelo nosso ordenamento.
+A esse respeito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. RECLAMAÇÃO. ALEGAÇÃO DE DIVERGÊNCIA COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 988 DO CPC. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE.
+I - A reclamação não é instrumento útil para adequar as decisões reclamadas aos julgados do STJ, conforme se dessume do art. 988, do CPC/2015, com a redação dada pela Lei n. 13.256/2016.
+II - Observa-se que a hipótese apresentada pelo reclamante, qual seja, inconformidade da decisão reclamada com a jurisprudência do Superior Tribunal de Justiça, não se encontra elencada dentre as situações que viabilize a apresentação da reclamatória, não sendo possível a utilização da via como sucedâneo recursal para discutir o teor da decisão reclamada. Nesse sentido, confiram-se: AgInt na Rcl 31.875/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016 e AgInt na Rcl 32.343/MG, Relator Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 08/11/2016.
+III - Agravo interno improvido (AgInt na Rcl 36.014/PE, relator Ministro Francisco Falcão, Primeira Seção, DJe 3/10/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NA RECLAMAÇÃO. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE SERVIÇO. CÔMPUTO DE TEMPO RURAL. UTILIZAÇÃO DO INSTRUMENTO PROCESSUAL COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravante pretende ver observado em seu caso o Recurso Especial Repetitivo 1.348.633/SP, para fins de reconhecimento de tempo rural entre 18/10/1970 a 31/12/1973, com a consequente concessão de aposentadoria por tempo de serviço.
+2. No caso, embora observado, não foi aplicado o Recurso Especial Repetitivo 1.348.633/SP, porque concluiu o Tribunal a quo, reclamado, que a prova testemunhal não é segura, nem robusta para acolhimento de todo o período rural que se pretende reconhecer.
+3. A decisão agravada deve ser mantida pelos seus próprios fundamentos, pois a reclamação está sendo utilizada como verdadeiro sucedâneo recursal, prática vedada pela jurisprudência do STJ.
+4. Agravo interno não provido (AgInt na Rcl 33.772/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe 4/10/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. PRESERVAÇÃO DA JURISPRUDÊNCIA DESTA CORTE. SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A Reclamação prevista no art. 105, I, f, da Constituição da República, bem como nos arts. 988 do Código de Processo Civil, e 187 do RISTJ, destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido (AgInt na Rcl 32.352/RS, relatora Ministra Regina Helena Costa, Primeira Seção, DJe 3/5/2017).
+Ante o exposto, não conheço da reclamação (artigo 34, XVIII, "a", do RISTJ). Prejudicado o pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. RECLAM AÇÃO NÃO CONHECIDA.
