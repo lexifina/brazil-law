@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ANA PAULA DIAS MIRANDA, com fundamento na alínea c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fls. 247-249):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE REVISÃOCONTRATUAL.
+1. Diante da orientação fixada pelo Superior Tribunal de Justiça no julgamento do Recurso Especial nº. 1.061.530, submetido ao regime dos recursos repetitivos (Tema36 do STJ), mostra-se vedado ao juízo a revisão ex officio de cláusulas inscritas nos contratos bancários. Aplicação da Súmula nº. 381 da Corte Superior.
+2. Os negócios jurídicos bancários estão sujeitos às normas inscritas no CDC (Súmula n. 297 do STJ), com consequente relativização do ato jurídico perfeito e do princípio pacta sunt servanda.
+3. Os juros remuneratórios são abusivos quando pactuados em índice consideravelmente superior à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data da contratação (STJ, REsp nº. 1.061.530/RS, Temas 24 a 27).
+4. Não há falar em inconstitucionalidade da Medida Provisória nº. 2.170-36/2001, conforme definido pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº. 592.377/RS, submetido ao regime da Repercussão Geral (Tema 33do STF).
+5. Mostra-se lícita a capitalização de juros em periodicidade inferior à anual quando expressamente pactuada em contrato celebrado após a vigência da Medida Provisória nº. 2.170-36/2001, mostrando-se suficiente a indicação de juros anuais superiores ao duodécuplo do seu índice mensal (STJ, REsp nº. 973.827/RS, Temas 246 e 247; Súmula nº. 541).
+6. Segundo a orientação fixada pelo Superior Tribunal de Justiça no julgamento dos Recursos Especiais nº. 1.058.114/RS e 1.063.343/RS (Tema 52 do STJ), mostra-se lícita a cobrança da comissão de permanência em caso de inadimplemento, desde que expressamente pactuada, de forma isolada e sem cumulação com qualquer outro encargo moratório, limitado seu montante na forma da Súmula n. 472 do Egrégio STJ.
+7. Revelam-se adequados os juros moratórios de 1% ao mês, pactuados em conformidade com o artigo 406 do Código Civil, combinado com o artigo 161, § 1º, do CTN. Orientação fixada pelo STJ no julgamento do Recurso Especial nº.1.061.530/RS (Tema 30 do STJ).
+8. Não há falar em redução da multa contratual, pois prevista em índice idêntico àquele previsto no artigo 52, § 1º, do CDC.
+9. Mostra-se lícita a cobrança da tarifa de cadastro nos contratos bancários celebrados após abril de 2008, limitado seu montante à média de mercado divulgada pelo Banco Central do Brasil para a data da contratação (STJ, REsp nº. 1.251.331/RS. Temas 618a 620).
+10. São regulares as cláusulas que preveem o ressarcimento de despesas com o registro do contrato, a avaliação do bem financiado e a prestação de serviços por terceiros, desde que expressamente pactuadas e demonstrada a efetiva prestação de tais serviços (STJ, REsp nº. 1.578.553/SP, Tema 958).
+11. O Superior Tribunal de Justiça reconheceu a regularidade da cobrança do IOF deforma parcelada (REsp nº. 1.251.331/RS, Tema 621).
+12. A cláusula que impõe ao devedor o pagamento de honorários advocatícios para a fase administrativa de cobrança afronta o disposto no artigo 51, inciso XII, do CDC.
+13. Nos termos definidos pelo STJ no julgamento do Resp nº. 1.639.320/SP (Tema972), a estipulação de seguro prestamista (ou de proteção financeira), em contratos bancários, deve garantir ao consumidor, além da opção de contratar ou não o seguro, a possibilidade de escolher a instituição com a qual contratar, sob pena de configurar venda casada, prática abusiva nos termos do art. 39, inc. I, do CDC.
+14. O Custo Efetivo Total (CET) apresenta tão somente caráter informativo ao consumidor quanto aos encargos incidentes sobre o financiamento, não se tratando de índice remuneratório, razão pela qual não há falar em seu afastamento.
+15. A compensação de valores e a repetição de indébito dependem da revisão - total ou parcial - das cláusulas pactuadas entre os litigantes.
+16. A descaracterização da mora debendi decorre da abusividade dos encargos remuneratórios pactuados para o período de normalidade contratual (juros remuneratórios e sua capitalização (STJ, REsp nº. 1.061.530/RS, Temas 28 e 29).
+17. A vedação à inscrição do nome do consumidor nos cadastros de restrição ao crédito, sua manutenção na posse do bem financiado e a autorização para depósito de valores em juízo estão diretamente ligados à descaracterização da mora debendi.
+18. Ônus sucumbenciais invertidos e redimensionados, vedada sua compensação (CPC, art. 85, § 14), e suspensa a exigibilidade dos encargos devidos pela parte consumidora, em face do benefício da gratuidade de justiça.
+19. Majorada a verba honorária devida ao procurador da instituição financeira (CPC, art. 85, § 11), suspensa sua exigibilidade em virtude do benefício da gratuidade de justiça.
+20. Em face das peculiaridades do caso sob comento, vai mantida a distribuição dos ônus sucumbenciais fixada na sentença.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 276-279).
+Em suas razões de recurso especial (e-STJ, fls. 285-297), a agravante alegou violação aos arts. 51, § 1º, III, do CDC, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a abusividade referente à aplicação dos juros contratuais, que foram fixados acima da taxa média de mercado divulgada pelo Banco Central do Brasil.
+Foram apresentadas contrarrazões (e-STJ, fls. 338-349).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 376-381).
+Brevemente relatado, decido.
+Analisando o teor do contrato e os elementos fático-probatórios constantes nos autos, estabeleceu o julgado que não haveria a suscitada abusividade na taxa de juros remuneratórios.
+Veja-se (e-STJ, fls. 243-244):
+No caso sob comento, os juros remuneratórios foram pactuados em 27,52% ao ano, conforme o contrato juntado na instância de origem (Evento32, ANEXO2), índice pouco superior à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data da contratação (21,59% ao ano em junho de 2021), não se podendo falar em sua abusividade.
+Por sua vez, mostra-se regular - segundo definido pelo Superior Tribunal de Justiça no julgamento do Recurso Especial nº. 973.827/RS, também submetido ao regime dos recursos repetitivos (Temas 246 e 247 do STJ) - a capitalização de juros em periodicidade inferior à anual quando expressamente pactuada, mostrando-se suficiente, para tal mister, a indicação de taxa anual superior ao duodécuplo do seu índice mensal, nos seguintes termos:
+(..)
+Assim, verificando-se que os juros anuais (27,52%) superam o duodécuplo da sua taxa mensal (2,05%), conforme descrito no contrato firmado entre os litigantes (Evento32, ANEXO2), vai mantida a capitalização de juros na forma pactuada.
+Essas ponderações foram extraídas da análise de fatos, provas e termos contratuais, a atrair a aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+Consoante este Tribunal Superior, mesmo que fosse o caso de a taxa contratual estar um pouco acima da média de mercado apurada pelo Bacen, tal fato, por si só, não ocasiona a estipulação de abusividade, com a anulação da previsão com base no art. 51 do CDC.
+A propósito:
+RECURSO ESPECIAL. AÇÃO COLETIVA DE CONSUMO. CONTRATO BANCÁRIO. ALEGAÇÃO DE OFENSA AOS ARTS. 11, 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. INADEQUAÇÃO DA VIA ELEITA. CARÊNCIA DE AÇÃO. SENTENÇA COLETIVA. LIMITAÇÃO DO JUROS REMUNERATÓRIOS À TAXA MÉDIA DE MERCADO, ACRESCIDA DE UM QUINTO. NÃO CABIMENTO. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS. ABUSIVIDADE. AFERIÇÃO EM CADA CASO CONCRETO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. De acordo com a orientação adotada no julgamento do REsp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+3. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+4. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato; o valor e o prazo do financiamento; as fontes de renda do cliente; as garantias ofertadas; a existência de prévio relacionamento do cliente com a instituição financeira; análise do perfil de risco de crédito do tomador; a forma de pagamento da operação, entre outros aspectos.
+5. Inexistência de interesse individual homogêneo a ser tutelado por meio de ação coletiva, o que conduz à extinção do processo sem exame do mérito por inadequação da via eleita.
+6. Recurso especial provido.
+(REsp n. 1.821.182/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2022, DJe de 29/6/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da causa, observada eventual gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE ABUSIVIDADE DA TAXA DE JUROS CONTRATADA. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
