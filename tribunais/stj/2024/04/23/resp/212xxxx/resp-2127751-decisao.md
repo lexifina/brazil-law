@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 266):
+APELAÇÃO - Obrigação de fazer - Prestação de serviço público - Fornecimento de medicamento - Procedência Obrigação de fornecimento do medicamento pelo Estado - Incidência dos artigos 196 da Constituição Federal e 219 da Constitu ição Estadual - Jurisprudência dominante estabelece dever inarredável do Poder Público - Preenchimento dos requisitos do Tema nº 106/STJ - Pretendida a aplicabilidade do Tema nº 793 do E. Supremo Tribunal Federal- Inadmissibilidade - Recente admissão do IAC nº 14 do STJ, no qual foi determinada a abstenção por parte dos juízos estaduais de proferir decisões declinando da competência em razão da inclusão da União no polo passivo nas demandas que versam sobre a solidariedade dos entes públicos no direito à Saúde, cujo entendimento se coaduna com aquele adotado pelo STF na liminar concedida no RE 1366243 (Tema de RG 1234) - Designada a competência da Justiça Estadual para analisar, provisoriamente, as medidas urgentes necessárias - Sentença reformada minimamente, apenas para acrescentar a apresentação da receita médica atualizada a cada 6 meses - Recurso provido, em parte.
+O recorrente alega violação do artigo 85, §8º, do CPC/2015, ao argumento de que a Corte de origem não poderia ter fixado os honorários sucumbenciais sobre o valor da causa, pelo proveito econômico da ação ser inestimável, o que imporia seu arbitramento por equidade.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 316-321.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão não merece prosperar.
+No que diz respeito ao artigo 85, §8º, do CPC/2015, e a tese a ele vinculada, acerca do arbitramento dos honorários sucumbenciais por equidade, pelo suposto proveito econômico da ação ser inestimável, verifica-se que não houve juízo de valor por parte da Corte de origem sobre o tema, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que o recorrente sequer opôs embargos de declaração na origem, a fim de sanar eventual vício relativo à aplicação do aludido dispositivo legal.
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. EQUIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
