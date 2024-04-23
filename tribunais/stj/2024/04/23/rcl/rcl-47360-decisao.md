@@ -1,0 +1,11 @@
+DECISÃO
+MARCIO ARAUJO DE SOUZA ajuíza reclamação contra a decisão do Juízo da 1ª Vara Criminal Especializada da Comarca da Capital do Estado do Rio de Janeiro, que determinou, nos autos da Ação Penal n. 0189941-92.2022.8.19.0001, a apresentação das alegações finais antes de ser apresentado olaudo pericial oficial sobre avalidade das provas digitais emprestadas da Ação Penal n. 0309589-37.2020.8.19.0001, objeto da ordem de suspensão desta Corte no HC n. 818.176/RJ.
+Entretanto, embora o reclamante afirme a existência de conexão dos referidos processos penais, fato é que a ordem de habeas corpus emanada por este Superior foi dirigida, como reconhece o requerente, à Ação Penal n. 0309589-37.2020.8.19.0001 e não à Ação Penal n. 0189941-92.2022.8.19.0001.
+Ainda que haja o compartilhamento de provas, isso não significa que eventual decisão proferida em um dos processos deva afetar automaticamente o curso do outro. Há que se avaliar, em cada caso, a pertinência das provas ou da providência processual determinada.
+Assim, tal como ocorreu na Ação Penal n. 0309589-37.2020.8.19.0001, a defesa deve valer-se dos instrumentos processuais pertinentes para a avaliação dessa questão. Deveras, "é inadmissível sua utilização, portanto, como sucedâneo recursal" (AgRg na Rcl n. 41.217/DF, relator Ministro Rogerio Schietti, Terceira Seção, DJe 19/4/2021).
+Realço, por oportuno, que a reclamação constitui o instrumento processual adequado para garantir a autoridade das decisões aqui proferidas, conforme expressa previsão constitucional (art. 105, I, "f").
+Todavia, é necessário dizer que ela deve vir atrelada à existência de processo subjetivo, isto é, da existência de controvérsia estabelecida em torno da tutela de direito subjetivo em processo específico examinado por esta Corte, em que uma das partes que figurem na mesma lide (interessada) acaba por ser prejudicada pelo não cumprimento de decisum deste Tribunal Superior favorável à parte que ajuizou a reclamação (v. g., AgInt na Rcl n. 28.688/RJ, Rel. Ministro Marco Aurélio Bellizze, DJe 29/8/2016), situação que não ocorreu na espécie.
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço in limine desta reclamação.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
