@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 18/04/2024 a 24/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO DA CORTE DE ORIGEM QUE NEGA SEGUIMENTO A RECURSO ESPECIAL FUNDAMENTADA SOMENTE NO ART. 1.030, I, DO CPC. AGRAVO EM RECURSO ESPECIAL. USURPAÇÃO DE COMPETÊNCIA. RECLAMAÇÃO. AUSÊNCIA DE INTERESSE PROCESSUAL. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A Reclamação pretende trazer o Agravo em Recurso Especial interposto contra julgado que negou seguimento ao recurso especial com fundamento, tão somente, no art. 1.030, I, do CPC.
+III - Em que pese, a princípio, caracterizada a usurpação de competência, carece a Reclamante do necessário interesse de agir pela ausência de probabilidade de êxito recursal. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por JOELLESON DA SILVA LEMOS contra a decisão que não admitiu a Reclamação, fundamentada na impossibilidade de uso da reclamação quando o Agravo em Recurso Especial, obstado na origem, é manifestamente incabível.
+Sustenta o Agravante, em síntese (fls. 1.321/1.324e):
+É que a decisão reclamada negou seguimento ao Recurso Especial do particular sob o argumento de que "inobstante o acórdão guerreado tenha reconhecido a possibilidade de arguição da prescrição na via da exceção de pré-executividade, na hipótese dos autos a discussão demanda dilação probatória, evidenciando assim a inadequação da via eleita". Ao final, conclui que para rever o entendimento consignado no acórdão recorrido, seria imprescindível o revolvimento do arcabouço fático, cujo propósito esbarraria no óbice da Súmula 07 deste STJ, que veda o reexame de provas, utilizando como paradigma justamente o recurso repetitivo n. 1.104.900/ES.
+ ..
+Por assim ser, houve usurpação da competência deste E. STJ pelo Tribunal a quo, atraindo a aplicação do art. 988, inciso I e §1º do CPC, que determina:
+ ..
+Dessa forma, é cabível a reclamação para preservar a competência deste E. STJ para analisar matéria de índole infraconstitucional, sendo incabível que o Tribunal a quo tenha se arvorado de tal competência sob o fundamento de que seria imprescindível o revolvimento do arcabouço fático.
+ ..
+Ora, não há falar que a presente reclamação foi utilizada como sucedâneo recursal, isso porque restou plenamente demonstrado que o objetivo da ora Agravante é, justamente, preservar a competência deste E. STJ, bem como garantir a aplicação dos precedentes firmados por esta Colenda Corte, o que denota evidente violação ao dispositivo constitucional supramencionado.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 1.330e).
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO DA CORTE DE ORIGEM QUE NEGA SEGUIMENTO A RECURSO ESPECIAL FUNDAMENTADA SOMENTE NO ART. 1.030, I, DO CPC. AGRAVO EM RECURSO ESPECIAL. USURPAÇÃO DE COMPETÊNCIA. RECLAMAÇÃO. AUSÊNCIA DE INTERESSE PROCESSUAL. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A Reclamação pretende trazer o Agravo em Recurso Especial interposto contra julgado que negou seguimento ao recurso especial com fundamento, tão somente, no art. 1.030, I, do CPC.
+III - Em que pese, a princípio, caracterizada a usurpação de competência, carece a Reclamante do necessário interesse de agir pela ausência de probabilidade de êxito recursal. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à Agravante.
+A Reclamação prevista no art. 105, I, f, da Constituição da República, bem como nos arts. 988 do Código de Processo Civil e 187 do RISTJ, constitui ação constitucional destinada a garantir a autoridade das decisões do Superior Tribunal de Justiça ou à preservação de sua competência, sendo cabível em face de decisões de autoridades administrativas e judiciais (v. g. Rcl 3.506/ES, 1ª S., Rel. p/ Acórdão Min. LUIZ FUX, DJe de 30.06.2010; Rcl 2.559/ES, Corte Especial, Rel. Min. Barros Monteiro, DJe de 05.05.2008).
+In casu, a Reclamante requer seja julgada procedente a presente Reclamação, para o fim de ser cassado o acórdão proferido pelo TRF/3, que negou provimento ao agravo interno interposto em face da decisão que inadmitiu o Recurso Especial do particular, de modo que seja preservada a competência deste STJ.
+A reclamação (art. 105, I, f, da CR) destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte Superior ou, ainda, como sucedâneo recursal.
+Acrescente-se que, a competência para examinar o agravo interno interposto contra decisão da Vice-Presidência do tribunal de origem, que nega seguimento a recurso especial fundamentada em recurso repetitivo, é exclusiva do Colegiado da Corte a qua, não havendo falar em usurpação de competência deste Superior Tribunal.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. DISCUSSÃO ACERCA DE EQUÍVOCO NA APLICAÇÃO DE TESE FIRMADA EM RECURSO REPETITIVO. IMPOSSIBILIDADE. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II A reclamação, prevista no art. 105, I, f, da Constituição da República, destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte Superior ou, ainda, como sucedâneo recursal.
+III Segundo entendimento consagrado nesta Corte Superior, a decisão mediante a qual o recurso especial tem seguimento negado com fundamento no art. 543-C, § 7º, do Código de Processo Civil de 1973, está sujeita tão somente ao agravo interno no tribunal de origem.
+IV In casu, incabível o ajuizamento de reclamação para discutir eventual equívoco na aplicação de tese firmada em recurso repetitivo ao caso concreto pelos tribunais de justiças e regionais.
+V Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI Agravo Interno improvido.
+(AgInt na Rcl 41.197/PE, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 29/06/2021, DJe 01/07/2021)
+Corroborando tal compreensão, a Corte Especial, no julgamento da Rcl n. 36.476/SP, consolidou o entendimento segundo o qual, uma vez uniformizado o direito em sede de recurso repetitivo, cabe aos juízes e tribunais locais a incumbência da aplicação individualizada da tese jurídica ao caso concreto, subsunção essa passível de revisão tão somente na via recursal ordinária, até, eventualmente, culminar na apreciação do agravo interno pelo tribunal a quo (Corte Especial Rcl 36.476/SP, Rel. Min. Nancy Andrighi, j. 5.2.2020, Dje. 6.3.2020).
+Ressalte-se que, quando do julgamento do AREsp n. 1.668.170/SP, restou determinado o retorno dos autos ao tribunal de origem, a fim de que o agravo interno fosse examinado por aquela Corte.
+Assim, revela-se incabível falar em usurpação de competência, pretendendo, a Reclamante, a rigor, utilizar a via da reclamação como vedado sucedâneo recursal, para rever decisão desfavorável.
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016 - destaque meu).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno .
