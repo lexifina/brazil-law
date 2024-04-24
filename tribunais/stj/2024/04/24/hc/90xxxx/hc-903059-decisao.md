@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim relatado (fls. 44-45):
+Trata-se de apelação criminal, interposta por Welington Gabriel Borges Mariano, contra a r. sentença de fls. 148/153 (publicada aos 15.08.2022 fl. 166), cujo relatório se adota, que o condenou como incurso no artigo 33, "caput", da Lei nº 11.343/06, a 05 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa, no mínimo legal.
+Inconformado, apela o réu, em busca da absolvição por insuficiência de provas ou, subsidiariamente, a desclassificação para a conduta do artigo 28 da Lei 11343/06. Postula, ainda, a diminuição da pena, reconhecendo-se a confissão e aplicando-se o redutor previsto no§ 4º do artigo 33 da Lei 11.343/06. Por fim, requer o abrandamento do regime prisional, a substituição da pena privativa de liberdade por restritivas de direitos e a concessão do direito de recorrer em liberdade(fls. 187/198).
+Contra-arrazoado o recurso (fls. 202/203), o parecer da douta Procuradoria de Justiça é pelo improvimento (fls. 214/221).
+É o relatório.
+Consta dos autos que o paciente foi condenado por infração ao art. 33, caput, da Lei n. 11.343/2006, à pena privativa de liberdade de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa.
+Inconformada, a defesa interpôs recurso de apelação perante a Corte de origem, que foi improvido.
+A impetrante sustenta que "Negar a aplicação do redutor  art. 33, § 4º, da Lei n. 11.343/06 , preenchidos os requisitos legais, com base na quantidade e variedade das drogas encontradas é negar vigência ao comando legal" (fl. 4).
+Sustenta ainda que, em caso de reconhecimento da minorante, caberá o regime aberto e a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Subsidiariamente, pleiteia o abrandamento do regime prisional.
+Requer, em suma, a aplicação do redutor do § 4º do art. 33 da Lei n. 11.343/2006, a fixação do regime inicial aberto e, por fim, a substituição da pena privativa de liberdade por restritiva de direitos. Subsidiariamente, acaso não reconhecida a minorante, pretende o abrandamento do regime prisional.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus.
+Acerca da aplicação do redutor do tráfico, a Corte local teceu as seguintes considerações (fl. 53):
+Outrossim, inobstante as ponderações da d. defesa, não era mesmo caso de aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, pois a mens legis ao instituir o referido redutor foi beneficiar o criminoso ocasional, que agiu de modo excepcional, não sendo este o caso dos autos, pois a expressiva quantidade de droga apreendida (1 tijolo contendo 364,06g de maconha), bem como as demais circunstâncias do caso concreto, consoante bem consignou o Magistrado de primeiro grau ("..o quadro analisado ainda deixou patente não ter se tratado de um tráfico isolado, meramente ocasional ou incipiente a que visa enfocado benefício legal (lembrando que o réu possui dois processos  1500104-50.2021 e 1500605-04.2021  em andamento por imputações específicas, inclusive estava em liberdade provisória  fls. 33 )" (sic) e, ainda, pelo fato de o apelante registrar histórico de atos infracionais equiparados a tráfico de drogas (cf. fls. 33/35) indicam que Wellington não agiu de modo isolado, casual, demonstrando, ao contrário, seu envolvimento habitual com a atividade criminosa.
+Como se vê, a minorante não foi negada apenas em razão do volume de droga apreendida em poder do réu, mas principalmente pela existência de histórico de atos infracionais equiparados a tráfico de drogas.
+A Terceira Seção, por ocasião do julgamento do EREsp 1.916.596/SP, na sessão de 8/9/2021, adotou o entendimento intermediário de que o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei 11.343/2006, mediante fundamentação que aponte "a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração".
+No caso, consoante assinalado pelas instâncias ordinárias, o paciente ostenta histórico de atos infracionais análogos ao crime de tráfico de drogas, bem como extrai-se dos autos que o crime em apuração foi cometido menos de 1 mês após ter o paciente completado 19 anos (fl. 15), o que revela a razoável proximidade temporal entre os atos infracionais e o crime em análise.
+O regime prisional não comporta modificação, porquanto a pena-base, consoante já analisado no HC n. 798.898/SP, foi justificadamente fixada acima do mínimo legal.
+Assim, nos termos do art. 33, § 3º, do CP, outro regime, que não o fechado, é incabível no caso dos autos.
+Não se verifica, portanto, nenhuma flagrante ilegalidade, porquanto as conclusões alcançadas pelas instâncias de origem harmonizam-se com a atual jurisprudência desta Corte.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
