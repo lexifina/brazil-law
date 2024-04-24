@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal de 1988) interposto contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA FAZENDA PÚBLICA. DECISÃO INTERLOCUTÓRIA QUE ACOLHEU IMPUGNAÇÃO À EXECUÇÃO POR SUPOSTO EXCESSO DE EXECUÇÃO. FIXAÇÃO DA TAXA REFERENCIAL (TR) COMO INDEXADOR DE JUROS E CORREÇÃO MONETÁRIA, CONFORME JÁ DISPOSTO EM SENTENÇA COM TRÂNSITO EM JULGADO. AGRAVANTE BUSCA A SUBSTITUIÇÃO DA TR PELO ÍNDICE IPCA-E. PLEITO POSTERIOR DE AFASTAMENTO DO ÍNDICE DE CORREÇÃO MONETÁRIA PELA TR EM RAZÃO DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DA UTILIZAÇÃO DA TR COMO INDEXADOR (RE 870947 - TEMA 810). POSSIBILIDADE. INSTRUMENTALIDADE DAS FORMAS E EFETIVIDADE DAS DECISÕES JUDICIAIS. PARTE CREDORA QUE NÃO DEVE SUPORTAR O PREJUÍZO PELA APLICAÇÃO DE ÍNDICE INCONSTITUCIONAL. RECURSO CONHECIDO E PROVIDO.
+Nas razões recursais (fls. 242-260), o Estado do Paraná alega violação dos arts. 7º, 489, § 1º, IV, 502, 503, 535, III, §§ 5º e 7º, 927, III, e 1.022, I e II, parágrafo único, I e II, do CPC e 1º-F da Lei 9.494/1997.
+Contrarrazões às fls. 279-305, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.4.2024.
+Inicialmente, afasto o alegado vício de fundamentação ou deficiência na prestação jurisdicional. O fato de o Tribunal a quo haver decidido a lide de forma contrária à tese defendida, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de Embargos de Declaração. O simples descontentamento da parte com o julgado não tem o condão de torná-los cabíveis.
+O órgão julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento. Nesse sentido: AgInt no REsp 1.75.7501/SC, Rel. Min. Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 14/8/2018; REsp 1.486.330/PR, Rel. Min. Og Fernandes, Segunda Turma, DJe 24/2/2015.
+Quanto ao mérito, o Estado defende que deve prevalecer o índice de correção monetária fixado em decisão transitada em julgado, não podendo haver modificação no curso da Execução.
+A controvérsia foi decidida nos seguintes termos:
+Assim, neste momento executivo, insurge-se a parte agravante para ver aplicada aos créditos que lhe são devidos, o índice de correção monetária IPCA-E em substituição ao índice TR anteriormente fixado em sentença já transitada em julgado e mantida pela decisão interlocutória de mov. 42.1/autos originários já em fase de execução.
+Destarte, não se pode olvidar que a correção monetária e os juros demora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação, alteração ou a modificação de seu termo inicial não configura julgamento extra petita, nem reformatio in pejus, consoante a jurisprudência consolidada do STJ (p. ex.:STJ, 4ª Turma,i) AgInt nos EDcl no AREsp 1661519/SP, Rel. Min. ANTONIO CARLOSFERREIRA, j.21/02/2022, D Je 25/02/2022; e3ª Turma, AgInt no AgInt noii) AREsp n.1.379.692/SP, Rel. Min. MARCOAURÉLIO BELLIZZE, j. 2/12/2019, DJe 5/12/2019)
+Dito isso, não obstante a fixação anterior através de título judicial, entendo pela impossibilidade de se prolongar aplicação de índice declarado inconstitucional e que, indubitavelmente, não reflete a real desvalorização da moeda e impõe prejuízo ao exequente que busca a satisfação de seu crédito através de longos anos de litígio.
+(..)
+Isto posto, pela instrumentalidade das formas e efetividade das decisões judiciais, dou integral provimento ao Agravo de Instrumento, para o fim substituir o índice de correção monetária e de juros demora do título executivo de TR, declarado inconstitucional, para o IPCA-E, nos termos da fundamentação.
+Observo que o decisum está em harmonia com a atual jurisprudência do Supremo Tribunal Federal sobre a matéria - RE 1.317.982 (Tema 1.170) -, o qual firmou a seguinte tese: "É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado."
+Cito o Voto condutor proferido pelo em. Ministro Nunes Marques (grifei):
+Ora, os juros, nos termos do art. 322, § 1º, do Código de Processo Civil, são consectários legais da obrigação a ser cumprida. Em virtude da natureza processual, devem ser regulados ante a observância da legislação vigente à época da incidência, o que decorre do princípio da aplicação geral e imediata das leis (Lei de Introdução às Normas do Direito Brasileiro, art. 6º).
+Por serem os juros moratórios efeitos continuados do ato, a pretensão de recebimento acaba por renovar-se todo mês. Logo, ausente ofensa à coisa julgada, porquanto não há desconstituição do título judicial exequendo, mas apenas aplicação de normas supervenientes cujos efeitos imediatos alcançam situações jurídicas pendentes, tudo de acordo com o princípio tempus regit actum.
+(..)
+Dessa forma, o trânsito em julgado de sentença que tenha fixado determinado percentual de juros moratórios não impede posterior modificação, como no presente caso, em que se requer a aplicação da Lei n. 11.960/2009, objeto da tese firmada no âmbito do RE 870.947 - Tema n. 810 da repercussão geral.
+Não obstante o julgado se refira ao índice de juros moratórios, o raciocínio é plenamente aplicável à correção monetária. A propósito, cito decisão da própria Corte Suprema:
+No julgamento do RE 1.317.982/ES, Tema 1.170 da repercussão geral, este Tribunal firmou compreensão no sentido de que o trânsito em julgado de decisão de mérito, mesmo que fixado índice específico para juros moratórios, não impede a incidência de legislação superveniente ou entendimento jurisprudencial do STF ulterior. Confira-se, por oportuno, a ementa do paradigma:
+(..)
+Embora a tese fixada pela Corte verse, expressamente, apenas sobre os juros moratórios, entendo que a ratio decidendi do paradigma de repercussão geral é igualmente aplicável à correção monetária. É o que se extrai do voto do Ministro Nunes Marques, Relator:
+(..)
+Vê-se, pois, que toda a fundamentação exposta no julgamento do Tema 1.170 da repercussão geral evidencia a sua aplicabilidade tanto para os juros moratórios quanto para correção monetárias. Até mesmo os precedentes citados para amparar a conclusão da Corte dispõem a respeito das duas questões.
+(RE 1.428.047/PR, Relator o Ministro Gilmar Mendes, DJe de 4/4/2024)
+Ante o exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
