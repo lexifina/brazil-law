@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALLAN CHIQUITO DEL PASCOA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000618-38.2021.8.26.0218).
+O julgado foi assim ementado (fl. 208):
+RECURSOS DE APELAÇÃO INTERPOSTOS CONTRAR. SENTENÇA PELA QUAL FOI JULGADO EXTINTO CUMPRIMENTO DE SENTENÇA, ANTE O RECONHECIMENTO DA NULIDADE DA CITAÇÃO POR CARTA NO PROCESSO DE CONHECIMENTO,UMA VEZ QUE RECEBIDA EM NOME DE TERCEIROESTRANHO A LIDE ALEGAÇÃO DE INCORREÇÃO PEDIDO DE REFORMA - CITAÇÃO POSTAL PESSOA FÍSICA APLICAÇÃO DO ARTIGO 248, §1º, DO CÓDIGO DE PROCESSO CIVIL AO CASO DOSAUTOS CITAÇÃO QUE DEVE SE DAR NA PESSOA DO DEMANDADO CARTA CITATÓRIA RECEBIDAPOR TERCEIRA PESSOA, ESTRANHA À LIDECITAÇÃO NULA PRECEDENTES NESSE SENTIDO ACERTO DA R. DECISÃO - RECURSO DO BANCONÃO PROVIDO.
+RECURSO DO EXECUTADO - PEDIDO DE CONDENAÇÃO DA CASA BANCÁRIA AO PAGAMENTO DOS ÔNUS DE CORRENTES DA SUCUMBÊNCIA - INDEVIDA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS- MARCHA PROCEDIMENTAL RESTABELECIDA PARTIR DO MOMENTO EM QUE DEVERIA SER APRESENTADA DEFESA, DE MODO QUE NÃO SE TEM PRESENTE CONFIGURAÇÃO DE NENHUMA DAS HIPÓTESES DE EXTINÇÃO PREVISTAS NO ARTIGO 924 DO CÓDIGODE PROCESSO CIVIL - ACERTO DA R. DECISÃO - RECURSO DO EXCUTADO NÃO PROVIDO.
+Os dois embargos de declaração opostos foram rejeitados (fls. 267-273 e 541-547).
+No recurso especial, o recorrente aponta violação do art. 85, § 2º, do CPC.
+Sustenta, em síntese, que "a Impugnação ao Cumprimento de Sentença foi acolhida (fls. 130/132), a fim de reconhecer a invalidade/inexistência da citação do Sr. Alan na Ação Monitória n.º 1001665-98.2019.8.26.0218 e EXTINGUIR a execução em apreço" e "ao extinguir o Cumprimento de Sentença (n.º0000618-38.2021.8.26.0218), deixou o I. Magistrado de reverter os honorários advocatícios fixados inicialmente no cumprimento de sentença, em prol do executado, destoando nitidamente da legislação processual expressa, da posição jurisprudencial e doutrinária pacificada sobre o tema, razão do presente apelo" (fl. 219).
+Requer o provimento do recurso "para que sejam fixados os honorários advocatícios no percentual de 10% a 20% sobre o valor dado à causa, considerando, inclusive, a majoração legal dos honorários na fase recursal" (fl. 226).
+As contrarrazões foram apresentadas às fls. 551-560.
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade recursal, passo ao exame do apelo extremo.
+Entende o recorrente que, havendo a extinção cumprimento de sentença, é cabível a fixação de honorários sucumbenciais.
+O Tribunal de origem negou provimento à apelação da parte ora recorrente, quanto à fixação de honorários sucumbenciais, nos seguintes termos (fl. 213, destaquei):
+Ultrapassado o tema central da discussão, e bem apreciando agora os reclamos do ocupante do polo passivo em relação a definição da verba honorária, é de se dizer que razão igualmente não assista a seus reclamos assim apresentados, isso porque o acolhimento da impugnação ao cumprimento de sentença, conforme apresentada pelo devedor inconformado, não implicou em efetiva extinção da demanda que contra ele foi proposta, sendo certo, por outro lado, que apenas teve por objetivo o reconhecimento da nulidade da citação promovida nos autos, com determinação do restabelecimento regular marcha procedimental a partir do momento em que deveria o demandado apresentar resposta, aspectos esses que impossibilitam a efetiva condenação da casa de valores no que toca a arcar com os denominados encargos de sucumbência, mormente porque a demanda monitória proposta prosseguirá até seus ulteriores termos, o que deve se verificar nos exatos limites em que inicialmente apresentada, daí porque não se possa falar em condenação da parte contrária ao pagamento de Honorários Advocatícios decorrentes das sucumbência.
+Como visto acima, a Corte a quo, soberana na análise do arcabouço fático-probatório dos autos, concluiu, de forma fundamentada, não estarem presentes os pressupostos para fixação dos honorários de sucumbência, em especial, extinção da demanda.
+Come feito, o entendimento firmado no julgamento do REsp 1.134.186/RS, sob a sistemática dos recursos repetitivos, fixou a tese de que é possível o arbitramento de honorários advocatícios, no cumprimento de sentença, nos casos de acolhimento, ainda que parcial, da impugnação quando resultar na extinção do procedimento executivo ou na redução do montante executado.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL REPETITIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. Para efeitos do art. 543-C do CPC:
+1.1. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp. n.º 940.274/MS).
+1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC.
+2. Recurso especial provido. (REsp 1134186/RS, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 01/08/2011, DJe 21/10/2011.)
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. IMPUGNAÇÃO PARCIALMENTE ACOLHIDA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O Tribunal de origem decidiu em consonância com a Jurisprudência desta Corte Superior, que possui firme o entendimento no sentido de que são devidos honorários advocatícios ao executado/ impugnante quando o acolhimento da impugnação do cumprimento de sentença resulte em extinção do procedimento executivo ou redução do montante executado, o que, segundo o acórdão recorrido, ocorreu no presente caso. Precedentes.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.679.816/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/5/2021, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANUTENÇÃO DO ACÓRDÃO RECORRIDO. FUNDAMENTO DIVERSO DO APRESENTADO PELO TRIBUNAL DE ORIGEM. APLICAÇÃO DO DIREITO AO CASO. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO. PRETENSÃO RECURSAL NÃO ACOLHIDA. DECISÃO MANTIDA.
+ ..
+2. De acordo com a jurisprudência do STJ, a fixação dos honorários em favor do executado/impugnante apenas é possível quando o acolhimento da impugnação ao cumprimento de sentença resultar na extinção do procedimento executivo ou na redução do montante executado, e não quando a impugnação é acolhida apenas para a liberação de penhora sobre bens dos executados.
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1727091/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 02/09/2019, DJe de 05/09/2019.)
+Assim, o Tribunal de origem decidiu em consonância com a atual jurisprudência do STJ, o que atrai a incidência da Súmula n. 83 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
