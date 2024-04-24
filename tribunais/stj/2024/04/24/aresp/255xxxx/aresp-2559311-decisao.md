@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PALOMA RIBEIRO DA SILVA MACEDO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que não admitiu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 932/936, in verbis:
+O MINISTÉRIO PÚBLICO FEDERAL, por meio de sua Subprocuradora-Geral da República, opina pelo desprovimento do agravo em referência (fls. 899/906), uma vez que o recurso especial refreado, efetivamente, não reúne as necessárias condições de admissibilidade, conforme apontado na decisão ora hostilizada (fls.
+888/890), que deve ser mantida por seus próprios e jurídicos fundamentos.
+PALOMA RIBEIRO DA SILVA MACEDO foi definitivamente condenada às penas de 8 (oito) anos de reclusão, em regime fechado, e 1.200 (mil e duzentos) dias-multa, em razão das práticas delitivas capituladas nos artigos 33, caput, e artigo 35, ambos da Lei 11.343/06.
+Visando o abrandamento do regime prisional, a defesa propôs Revisão Criminal, tendo o Tribunal de Justiça do Estado do Tocantins negado provimento ao recurso, em acórdão assim ementado (fl. 773):
+PENAL. PROCESSUAL PENAL. REVISÃO CRIMINAL. AÇÃO PENAL. TRÁFICO E ASSOCIAÇÃO AO TRÁFICO DE DROGAS. REGIME INICIAL DE CUMPRIMENTO DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. ALTERAÇÃO DA COISA JULGADA. MEDIDA EXCEPCIONAL. AÇÃO CONDICIONADA À PRESENÇA DAS HIPÓTESES DO ART. 621 DO CPP. PRESSUPOSTOS NÃO ATENDIDOS. ERROR IN JUDICANDO. NÃO EVIDENCIADO. PRECEDENTES. IMPROCEDÊNCIA.
+1. Dada a excepcionalidade da alteração da coisa julgada, para que haja a sua desconstituição mostra-se imperioso que se comprove de forma cabal e veemente a injustiça do provimento revisado, sendo defeso protestar contra a condenação de forma genérica, sem trazer qualquer fato, argumento ou prova novos.
+2. Correta a fixação de regime inicial fechado, ainda que a pena tenha sido fixada em 8 anos de reclusão, se fundamentada na existência de circunstâncias judiciais desfavoráveis, nos termos do § 3º do art. 33 do Código Penal. Precedentes.
+3. A existência de outras ações penais e condenação com trânsito em julgado posterior ao fato são situações que ensejam maus antecedentes e, por conseguinte, autorizam a fixação de regime prisional mais gravoso.
+A defesa interpôs, com base na alínea "a" do permissivo constitucional, RECURSO ESPECIAL (fls. 794/805) alegando violação ao artigo 621, I, do Código de Processo Penal, bem como ao art. 33, § 2º, "b", do Código Penal, requereu o abrandamento do regime prisional.
+Todavia, a Desembargadora Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado do Tocantins, com base na Súmula n.º 83/STJ, acertadamente, inadmitiu o apelo nobre (fls. 888/890).
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Acerca da dosimetria da pena, o Tribunal de origem assim consignou (e-STJ fls. 774/775):
+No caso concreto, ainda que o juízo a quo tenha fundamentado a fixação do regime inicial fechado nos termos do § 2º, "a", do artigo 33 do Código Penal, assim como na reincidência, vê-se que, realmente, a Revisionanda responde a outras ações penais, ostentando, inclusive, condenação criminal, verificando-se correta a conclusão do juízo de primeiro grau. Nos eventos evento 11, CERT2 e evento 13, CERTANTCRIM3 consta que a Revisionanda possui em seu desfavor 3 (três) ações penais em andamento, sendo que em uma delas há condenação, com trânsito em julgado posterior a data do fato (processo 0005339-60.2021.8.27.2722/TO, evento 94, CERT1).
+Ainda que não possa ser considerada reincidente, a Revisionanda não ostenta bons antecedentes, o que autoriza a fixação do regime mais gravoso, mesmo que a pena tenha sido fixada em 8 (oito) anos de reclusão.
+Da análise do trecho transcrito, tenho que o entendimento adotado pela Corte originária não destoa da jurisprudência firmada neste Tribunal Superior segundo a qual "a  condenação  definitiva  por  fato  anterior  ao  crime  descrito  na  denúncia,  com  trânsito  em  julgado  posterior  à  data  do  ilícito  de  que  ora  se  cuida,  embora  não  configure  a  agravante  da  reincidência,  pode  caracterizar  maus  antecedentes  .. "  (AgRg  no  HC  n.  607.497/SC,  relator  Ministro  Rogério  Schietti  Cruz,  Sexta  Turma,  julgado  em  22/9/2020,  DJe  30/9/2020).
+É digno de nota que a mudança da conclusão alcançada no acórdão impugnado, no caso, exigiria, inevitavelmente, o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal de origem é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial .
+Publique-se. Intimem-se.
+EMENTA
