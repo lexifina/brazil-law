@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 18/04/2024 a 24/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENUMERADOS NO ART. 1.022 DO CPC. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação, nas razões dos embargos de declaração, de quaisquer dos vícios enumerados no art. 1.022 do Código de Processo Civil (CPC) implica o não conhecimento do recurso, pois descumpridos os requisitos previstos no art. 1.023 do mesmo diploma legal.
+2. Os segundos embargos de declaração devem apontar vícios contidos na decisão que apreciou os primeiros embargos de declaração, conforme entendimento desta Corte Superior.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL  contra acórdão da PRIMEIRA SEÇÃO, de minha relatoria, assim ementado (fl. 1.071):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA EMRECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Constata-se que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+Em suas razões, a parte embargante insiste no argumento de que houve omissão do julgado por não ter apreciado as alegações do agravo interno, que foram devidamente reiteradas nos embargos de declaração anteriores, quais sejam: a) embora o acórdão embargado não tenha conhecido do recurso especial, houve, na verdade, apreciação do seu mérito, não sendo o caso de indeferimento liminar dos embargos de divergência; b) possibilidade de se admitir os embargos de divergência em caráter excepcional, especialmente nos casos em que houver dissonância com o entendimento atual do Superior Tribunal de Justiça a respeito do assunto.
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+Não foi apresentada impugnação de acordo com a certidão de fl. 1.099.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENUMERADOS NO ART. 1.022 DO CPC. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação, nas razões dos embargos de declaração, de quaisquer dos vícios enumerados no art. 1.022 do Código de Processo Civil (CPC) implica o não conhecimento do recurso, pois descumpridos os requisitos previstos no art. 1.023 do mesmo diploma legal.
+2. Os segundos embargos de declaração devem apontar vícios contidos na decisão que apreciou os primeiros embargos de declaração, conforme entendimento desta Corte Superior.
+3. Embargos de declaração não conhecidos.
+VOTO
+De acordo com o disposto no art. 1.022 do Código de Processo Civil (CPC), são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+Na presente hipótese, o acórdão embargado concluiu pela ausência de vícios de omissão, contradição ou obscuridade no acórdão proferido no julgamento do agravo interno, que claramente manteve a decisão que indeferiu liminarmente os embargos de divergência, nos seguintes termos (fl. 1.075) :
+No presente caso, o acórdão embargado foi claro ao manter a decisão que indeferiu liminarmente os embargos de divergência, uma vez que os julgados confrontados apresentaram diferentes graus de cognição, isto é, um deles conhecendo da controvérsia pelo mérito e o outro, não. Veja-se (fls. 1.037/1.038):
+Segundo entendimento da Corte Especial do STJ, é vedada a utilização dos embargos de divergência para refutar a aplicação de regra técnica de admissibilidade do recurso especial, tendo em vista que o inciso II do art. 1.043 do CPC/2015, que previa essa possibilidade, foi revogado pela Lei 13.256/2016. Os embargos de divergência não são cabíveis quando os julgados confrontados apresentam distintos graus de cognição, isto é, um deles conhecendo da controvérsia pelo mérito, e o outro não. Nesse sentido, cito o seguinte julgado:
+ ..
+Nesse sentido é a orientação consolidada na Súmula 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Na hipótese dos autos, deve ser mantida a decisão agravada que indeferiu liminarmente os embargos de divergência, tendo em vista que o acórdão embargado não conheceu do recurso de agravo interno, deixando de apreciar o mérito da controvérsia. Veja-se:
+Todavia, verifica-se que o agravante em suas razões não impugnou o segundo e o terceiro fundamento da decisão agravada, além de trazer argumentos genéricos quanto ao primeiro fundamento.
+Com efeito, nos termos do artigo 1.021, § 1º, do CPC/2015, cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada, sendo insuficiente, para tanto, alegações genéricas de não aplicabilidade do óbice invocado.
+ ..
+Ante o exposto, não conheço do agravo interno (fls. 801/802).
+Nesse contexto, é inviável o cabimento dos presentes embargos de divergência.
+Constato, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+Nos segundos embargos de declaração, a parte embargante reitera os argumentos lançados no recurso anterior, deixando de demonstrar que o acórdão embargado padece de algum dos vícios previstos na norma processual.
+Os segundos embargos de declaração deveriam apontar vícios contidos no aresto que apreciou os primeiros embargos de declaração, conforme entendimento desta Corte Superior. A propósito:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO. MODULAÇÃO DE EFEITOS DA DECISÃO QUE NEGOU PROVIMENTO AOS EMBARGOS DE DIVERGÊNCIA. ART. 927, § 3º, DO CPC. QUESTÃO NÃO SUSCITADA NOS PRIMEIROS EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. RECURSO DE CARÁTER INFRINGENTE E PROCRASTINATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC. MAJORAÇÃO DE HONORÁRIOS. ART. 85, § 11, DO CPC. HONORÁRIOS NÃO DEVIDOS NA ORIGEM. EMBARGOS DE DECLARAÇÃO. NÃO CABIMENTO. PRECEDENTES.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter-se pronunciado o julgador, ou até mesmo quando se incorrentes as condutas descritas no artigo 489, parágrafo 1º, que configuraram carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. Os segundos embargos de declaração são servis para se veicular vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, porquanto o prazo para a respectiva impugnação extinguiu-se por força da preclusão consumativa. Precedentes.
+3. Na espécie, não obstante o fato de a embargante argumentar que os primeiros embargos de declaração aludiram ao tema da segurança jurídica e da mutação da jurisprudência, verifica-se que a argumentação desenvolvida nos anteriores aclaratórios revelou intuito notadamente infringente - a fim de se fazer prevalecer entendimento adotado em precedente da Corte Especial em 2011, à luz do disposto no parágrafo 4º do art. 927 do Código de Processo Civil -, e não com o escopo de provocar a manifestação desta Corte Superior sobre a modulação de efeitos a que alude o parágrafo 3º do art. 927 do Código de Processo Civil.
+4. O recurso mostra-se manifestamente inadmissível e protelatório, a ensejar a forçosa aplicação da multa prevista no artigo 1.026, § 2º, do CPC.
+5. Esta Corte Superior tem concluído que o aumento da verba honorária em sede recursal, com base no art. 85, § 11, do CPC, reclama o preenchimento cumulativo de alguns requisitos, afastando-se a majoração prevista no citado dispositivo legal nas hipóteses em que os honorários advocatícios não sejam devidos desde a origem no processo, bem como em sede de embargos de declaração.
+6. Na espécie, não se revela cabível a majoração dos honorários advocatícios, porquanto não houve, na origem, a fixação de honorários advocatícios por força da rejeição da exceção de pré-executividade - mesmo porque se revelaria incabível, na forma da jurisprudência deste Superior Tribunal -, bem como por envolver o julgamento de embargos de declaração oferecidos pela parte que teve seu recurso não provido.
+7. Embargos de declaração rejeitados, com aplicação de multa. (EDcl nos EDcl nos EAg n. 884.487/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/12/2017, DJe de 20/2/2018.)
+Portanto, é de rigor o não conhecimento dos embargos de declaração ora examinados, já que a ausência de indicação, nas suas razões, de quaisquer dos vícios enumerados no art. 1.022 do CPC implica o não conhecimento do recurso, pois descumpridos os requisitos do art. 1.023 do CPC. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INDICAÇÃO DE VÍCIOS. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que os embargantes utilizam-se do recurso integrativo para manifestar seu inconformismo, não havendo sequer indicação de algum dos vícios previstos no dispositivo supramencionado.
+3. Embargos de declaração não conhecidos. (EDcl no AgInt no AREsp n. 1.744.130/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe de 12/4/2022.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL, NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE IMPOSIÇÃO DE MULTA.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 15/03/2017). Em igual sentido: STJ, EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017.
+III. No caso, os Embargos de Declaração não podem ser conhecidos, pois a parte embargante não aponta omissão, contradição, obscuridade ou erro material existentes no acórdão embargado, demonstrando mero inconformismo com as conclusões do decisum.
+IV. Embargos de Declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de Declaratórios. (EDcl no AgInt no AREsp n. 1.871.797/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/4/2022, DJe de 7/4/2022.)
+Pelas razões expostas, não conheço dos embargos de declaração.
+É o voto.
