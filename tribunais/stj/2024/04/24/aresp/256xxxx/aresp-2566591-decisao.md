@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANTONIO GOMES DOS SANTOS contra decisão que inadmitiu recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão (Apelação n. 0807191-69.2022.8.10.0024).
+O julgado foi assim ementado (fl. 264):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO FRAUDULENTO. VALIDADE DO NEGÓCIO FIRMADO. CONTRATO ASSINADO. RECEBIMENTO DO VALOR. AUSÊNCIA DE FALHA NA PRESTAÇÃO DOS SERVIÇOS. INEXISTÊNCIA DO DEVER DE REPARAÇÃO. IMPROCEDÊNCIA MANTIDA. APELO DESPROVIDO.
+I. A parte apelante não se desincumbiu do ônus de demonstrar a falha na prestação de serviço, já que recebeu o montante objeto do contrato bancário, colacionado aos autos devidamente assinado, conforme prescrição legal.
+II. Não havendo falha na prestação dos serviços, não há falar em dever de reparação.
+III. Apelo desprovido em desacordo com o parecer ministerial.
+Nas razões do recurso especial, o agravante aponta violação dos arts. 428 I, 429, II, e 436 do CPC e 169 do CC.
+Sustenta, em síntese, que o acórdão recorrido violou os dispositivos apontados ao atestar a validade de contrato firmado com analfabeto sem comprovação de autenticidade de assinatura na cópia do contrato (assinatura eletrônica), logo o contrato discutido seria nulo de pleno direito.
+Requer o provimento do recurso.
+Contrarrazões (fls. 283-296).
+É o relatório. Decido.
+O recurso não merece prosperar.
+No que tange aos dispositivos tidos p or violados, por consequência, suas teses, registre-se que o prequestionamento significa a prévia manifestação do Tribunal de origem, com emissão de juízo de valor, acerca das matérias referentes aos dispositivos de lei federal apontados como violados. Trata-se de pressuposto recursal indispensável para o acesso à instância especial.
+Com efeito, a ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e da Súmula n. 356 do STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+Com efeito, esta Corte considera preenchido o requisito do prequestionamento quando o Tribunal a quo efetivamente debate acerca da matéria inserta no dispositivo de lei federal, ainda que não mencionado explicitamente seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Trata-se do chamado prequestionamento implícito.
+Por sua vez, o Superior Tribunal de Justiça também admite o chamado prequestionamento ficto nos termos do art. 1.025 do CPC, exigindo que, opostos embargos de declaração na origem, seja constatada a existência de vício do art. 1.022 do CPC, devidamente apontada nas razões do recurso especial (AgInt no AREsp n. 1.984.895/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no AREsp n. 1.646.573/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022; e AgInt nos EDcl no AREsp n. 2.151.655/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022).
+Acrescente-se que somente a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da Corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do CPC, desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, situação que autoriza o STJ a reconhecer o vício e, superando a supressão de instância, analisar o pedido.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PEDIDO DE DEVOLUÇÃO DE CAPITAL APORTADO EM EMPRESA AO ARGUMENTO DE FRAUDE. OFENSA ATRAVÉS DE MENSAGENS PARTICULAR DE WHATSAPP PARA OUTREM. ÔNUS DA PROVA. ART. 373, I DO CPC/2015. DANOS NÃO PROVADOS. FALTA DE PREQUESTIONAMENTO. ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211 do STJ).
+2. ""A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória. Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.989.881/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA CONHECER EM PARTE DO APELO EXTREMO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO. INSURGÊNCIA DA PARTE RÉ.
+1. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa.
+Precedentes.
+2. A ausência de enfrentamento da matéria inserta nos dispositivos apontados como violados pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282 do STF.
+2.1. O prequestionamento ficto, invocado pela agravante, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, pois somente dessa forma o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022, destaquei.)
+No caso, a ausência de debate das matérias relativas aos dispositivos legais apontados como violados e a ausência de oposição de embargos de declaração obstam o conhecimento do apelo extremo devido à falta de prequestionamento.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Por fim, nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
