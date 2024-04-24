@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por EMPREENDIMENTOS IMOBILIARIOS AGUA LIMPA LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/07/2023.
+Concluso ao gabinete em: 15/04/2024.
+Ação: de obrigação de fazer c/c indenização por danos morais e materiais ajuizada por CLAUDIO JOSE COSTA FERREIRA e ROSIELE RODRIGUES FERREIRA em desfavor da agravante em decorrência de atraso na entrega de infraestrutura de loteamento em contrato de compra e venda de terreno.
+Sentença: julgou extinta a ação sem resolução de mérito, e julgou parcialmente procedentes os pedidos remanescentes, condenando a parte recorrente a restituição aos recorridos dos valores pagos de IPTU e aluguel, bem como ao pagamento da indenização por danos morais no valor de R$ 7.500,00.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa (e-STJ Fl. 270):
+Obrigação de fazer c/c indenização por danos morais e materiais. Contrato de venda e compra de lote de terreno. Ilegitimidade ativa do Autor acolhida. Mora da Ré, pela entrega do empreendimento no prazo contratual ajustado, que restou evidenciada. Dano material pretendido que caracterizada no emergente e que restou demonstrado. Indenização devida pelo período de mora. IPTU que somente é devido pelo comprador a partir da entrega do imóvel a ele. Valores adimplidos antes da entrega devem ser restituídos. Dano moral também caracterizado e arbitrado em R$ 7.500,00,mantido, diante do longo período de atraso na entrega do imóvel (mais de 36 meses). Sucumbência mantida como prevalente à Ré, mas sem majoração. Preliminar de ilegitimidade ativa do coautor acolhida e, no mérito, não provido o apelo.
+Embargos de Declaração: opostos pela parte embargante, foram rejeitados.
+Recurso especial: alega violação dos arts. 186 e 927 do Código Civil, bem como dissídio jurisprudencial.
+Sustenta que, no caso dos autos, não cabe indenização por danos morais, ao argumento de que "O mero atraso na conclusão de obras não é capaz de causar danos ao direito de personalidade dos compradores, como à honra, dignidade, ou imagem, bem como situação vexatória pública." (e-STJ Fl. 295), assim como, aponta dissonância jurisprudencial com o entendimento de outros Tribunais e com o desta Corte, considerando o Tema 939/STJ.
+Insurge-se, também, contra a indenização por danos materiais, no tocante aos gastos com aluguéis no período de atraso na conclusão das obras, apontando igualmente a dissonância do acórdão recorrido com o entendimento de outros Tribunais.
+Por fim, pugna pelo efeito suspensivo do recurso e pelo provimento do mérito para afastar a condenação por indenização de danos morais e materiais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do efeito suspensivo
+A concessão do pretendido efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo a recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, a agravante não apresentou fundamentos aptos a embasar a tutela requerida. Com efeito, não foi indicado nenhum prejuízo que, concretamente, possa advir da demora no julgamento do recurso especial.
+Assim, indefiro a tutela provisória requerida.
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o seguinte fundamento utilizado pelo TJ/SP (e-STJ Fl. 274):
+" ..  À hipótese aplica-se o enunciado da Súmula 161, desse TJSP: "Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram "res interalios acta" em relação ao compromissário adquirente".
+As prorrogações de prazo, concedidas pelo Poder Público Municipal à Ré, para conclusão das obras, não interferem no quanto pactuado entre as partes. Importante lembrar que o contrato, uma vez celebrado em obediência aos requisitos legais, faz lei entre as partes e deve ser cumprido por ambas."
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Do reexame de fatos e provas
+Ademais, o Tribunal de origem, após analisar o acervo fático-probatório dos autos, concluiu que:
+"Quanto à indenização por danos materiais, enuncie-se que a Autora não pleiteou lucros cessantes, que na hipótese seriam incabíveis, mas danos emergentes, pois teve inviabilizado o início da construção no lote de terreno, em razão da não entrega do bem no prazo contratual ajustado. Desse modo, o ressarcimento pretendido pela Autora, pelos gastos de locação, durante o período de mora deve ser admitido, por ser caracterizado como dano emergente e que restou demonstrado.
+Aqui não cabe considerar qualquer período diferente daquele indicado como de mora da Ré, para o fim de ser apurado o valor do dano material, considerado que a matéria deduzida no apelo constitui em inovação recursal e não comporta ser conhecida. Ademais, o prazo de construção indicado no apelo da Ré é meramente especulativo e não pode ser aqui considerado, à míngua de elementos seguros a permitir a adoção do prazo indicado como de realização da construção.
+ ..
+No mais, verificado o longo período de atraso na entregado imóvel pela Ré, tem-se igualmente por caracterizados os danos morais perseguidos, pois a situação reportada na ação extrapolou os limites do mero inadimplemento contratual, pois, em decorrência da culpa exclusiva da Ré, a entrega se fez quando já decorridos mais de trinta e seis meses da data prevista para a entrega do empreendimento. O dissabor experimentado pela Autora, diante da expectativa frustrada, é apto a caracterizar o dano moral ressarcível, até como forma de compelir a Ré a não reincidir nessa prática."(e-STJ Fl.. 275)-g.n.
+Alterar o decidido no acórdão impugnado, no que se refere a configuração dos danos morais e materiais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio jurisprudencial e atrai a incidência, por analogia, da Súmula 284 do STF. Nesse sentido: AgInt no REsp 1.957.278/DF, 1ª Turma, DJe 20/09/2023; AgInt no REsp 1.566.341/SP, 4ª Turma, DJe 21/06/2023; e AgInt no AgInt no AgInt no AREsp 1.731.772/SC, 3ª Turma, DJe 24/10/2022.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ Fl. 195) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O PERICULUM IN MORA E O FUMUS BONI JURIS. AUSÊNCIA DE PERICULUM IN MORA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DISSÍDIO PREJUDICADO.
+1. Ação de obrigação de fazer c/c indenização por danos morais e materiais.
+2. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial; para tanto, porém, é necessária a caracterização do fumus boni juris e a demonstração do periculum in mora, que, sob um juízo perfunctório, não está configurado na espécie.
+3.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7 . Agravo conhecido. Recurso especial não conhecido.
