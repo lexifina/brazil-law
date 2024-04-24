@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TERRAS AL SPE RIO BRANCO EMPREENDIMENTOS IMOBILIARIOS LTDA. e B. P. EMPREENDIMENTOS SPE EIRELI contra decisão que inadmitiu recurso especial pelos seguintes fundamentos: a) incidência da Súmula n. 5 do STJ (arts. 104 e 422 do Código Civil); b) deficiência na fundamentação recursal (dies a quo dos juros); c) impossibilidade de alegação de violação à súmula; d) incidência da Súmula n. 282 e 356 do STF (arts. 985, I e II, e 927, III, do Código de Processo Civil e art. 34 do Código Tributário Nacional); e e) ausência de demonstração do cotejo analítico entre os acórdãos confrontados.
+A parte agravante alega que a questão é eminentemente de direito e que não envolve interpretação de cláusulas contratuais, pois demonstraram os motivos pelos quais não houve descumprimento contratual apto a ensejar a rescisão do contrato.
+Afirma que "a matéria apresentada em sede de recurso especial encontra-se devidamente prequestionada" (fl. 620).
+Requer o conhecimento e o provimento do agravo em recurso especial para que seja admitido o recurso especial.
+As contrarrazões não foram apresentadas.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a parte agravante deixou de impugnar especificamente: a) deficiência na fundamentação recursal (dies a quo dos juros); b) impossibilidade de alegação de violação da súmula; c) incidência da Súmula n. 282 e 356 do STF (arts. 985, I e II, e 927, III, do Código de Processo Civil e art. 34 do Código Tributário Nacional); e d) ausência de demonstração do cotejo analítico entre os acórdãos confrontados.
+Não se conhece de agravo em recurso especial que não tenha refutado especificamente todos os fundamentos da decisão recorrida.
+Caberia à parte agravante afastar o fundamento da decisão agravada acerca da aplicação das Súmulas n. 282 e 356 do STJ, comprovando o prequestionamento da matéria abordada nos arts. 985, I e II, e 927, III, do Código de Processo Civil e art. 34 do Código Tributário Nacional, o que não ocorreu.
+Além disso, não houve qualquer rebatimento quanto à deficiência na fundamentação recursal e na demonstração do cotejo analítico e à impossibilidade de alegação de violação à súmula.
+Conforme jurisprudência pacífica desta Corte, os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgInt nos EREsp n. 1.841.540/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2022, DJe de 16/9/2022).
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
