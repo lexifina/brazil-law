@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pelo Departamento Estadual de Trânsito - DETRAN/MA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 197):
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE RESSARCIMENTO. DANOS MATERIAIS POR FURTO EM ESTACIONAMENTO DO DETRAN. APLICAÇÃO DO ART. 37, § 6". DA CONSTITUIÇÃO FEDERAL. RESPONSABILIDADE CIVIL DO ESTADO. FALHA NO SERVIÇO. DANOS MATERIAIS E MORAIS DEVIDOS. SENTENÇA MANTIDA. APELO IMPROVIDO.
+I - ""Deve assumir a guarda e responsabilidade do veículo quando este ingressa em área de estacionamento pertencente a estabelecimento público, apenas, quando dotado de vigilância especializada para esse fim"" (Resp I081532/SC, Rei. Ministro Luiz Fux, Primeira Turma, j. em 10.03.2009).
+II - No presente caso, caracterizado o furto no estacionamento da autarquia estadual apelante. ainda que sob vigilância armada, entende-se cabível a pretensão do autor, ora apelado, quanto ao direito ao dano material e moral, uma vez que restou comprovado nos autos o prejuízo sofrido, haja vista.
+Apelo parcialmente provido. Sem interesse ministerial.
+Opostos embargos declaratórios, foram rejeitados (fls. 241/267).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 485, VI, do CPC. Sustenta, em síntese, que não tem legitimidade para figurar no polo passivo da ação pois, na hipótese, "não foi o Detran o responsável pelas avarias verificadas na moto sob análise, por configurar o presente feito caso de fato atribuível a terceiro. O DETRAN apenas apreendeu o veículo por detectar irregularidades gravíssimas, tais como falta de registro e emplacamento, e desse modo, não pode ser punida esta Autarquia por fazer cumprir a legislação pertinente." (fl. 279).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao dirimir a controvérsia, a Corte Estadual consignou (fls. 199/200):
+Inicialmente, cumpre ressaltar não merecer guarida a preliminar de ilegitimidade ad causam, na medida em que, para além dos argumentos genéricos e inconsistentes, será analisada conjuntamente com o mérito porque com este se confunde.
+Consoante relatado, o presente recurso se insurge contra a sentença prolatada pelo Juízo de Direito da 2ª Vara Cível da Comarca de Bacabal/MA, que julgou parcialmente procedente os pedidos contidos na inicial para condenar o Apelante ao pagamento do valor de R$5.713,00 (cinco mil setecentos e treze reais) a título de indenização por danos materiais e o valor R$10.000.00 (dez mil reais) a título de danos morais.
+O recurso deve ser parcialmente provido. Explico.
+Em regra, a responsabilidade civil da parte ré. pessoa jurídica de direito público, é regida pelo disposto no art. 37, § 6º, da Constituição Federal, que assim dispõe:
+(..)
+Esse dispositivo incorporou ao ordenamento jurídico a teoria do risco administrativo, segundo a qual o Poder Público é responsável pelos danos suportados pelo particular, independentemente da verificação de falta do serviço ou de culpa de determinado agente público.
+Assim, em relação à responsabilidade de entidades públicas por furtos ocorridos em seus estacionamentos, há unanimidade na Jurisprudência. Nesses casos, tem-se decidido que a pessoa jurídica de direito público "deve assumir a guarda e responsabilidade do veículo quando este ingressa em área de estacionamento pertencente a estabelecimento público, apenas, quando dotado de vigilância especializada para esse fim" (Resp. 1081532/SC, Rei. Ministro Luiz Fux, Primeira Turma, j. em 10.03.2009).
+Foi o que se deu no presente caso, em que resta evidenciada a constatação de segurança armada contratada pelo Apelante, conforme se extrai da peça contestatória (ti. 49), restando comprovada responsabilidade em ressarcir os danos materiais causados ao Apelado, nos termos do que dispõe a jurisprudência citada.
+Verifica-se que a instância a quo assentou a legitimidade da parte agravante para responder pelos danos alegados pela parte autora com base em fundamento eminentemente constitucional, matéria insuscetível de ser analisada em sede de recurso especial.
+Ademais, a instância a quo considerou as peculiaridades fáticas do caso concreto, de modo que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de afastar a legitimidade passiva da agravante, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previst o na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. IMPLANTE DE PRÓTESES MAMÁRIAS. ASSIMETRIA ACENTUADA. LEGITIMIDADE PASSIVA E CARACTERIZAÇÃO DA RESPONSABILIDADE CIVIL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, não há violação aos limites objetivos da causa - julgamento extra petita - quando o Tribunal, adstrito às circunstâncias fáticas e aos pedidos das partes, procede à subsunção normativa dos fatos, ainda que adotando fundamentos jurídicos diversos dos esposados pelas partes. Aplicação dos princípios mihi factum dabo tibi ius e jura novit curia, segundo os quais, dados os fatos da causa, cabe ao juiz dizer o direito.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu pela condenação dos ora agravantes ao pagamento de indenização por danos materiais e morais, decorrentes de cirurgia plástica, fixando a indenização a título de danos morais em R$ 15.000,00, valor que não se mostra exorbitante.
+3. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.729.734/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
