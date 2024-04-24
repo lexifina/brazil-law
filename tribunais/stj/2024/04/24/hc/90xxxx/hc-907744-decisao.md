@@ -1,0 +1,16 @@
+DECISÃO
+ISMAEL HARTMANN e LUIS FELIPE ALVES DA ROSA alegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Habeas Corpus n. 5389243-78.2023.8.21.7000.
+A defesa requer, em liminar e no mérito, a revogação da prisão preventiva decretada em desfavor dos pacientes. Sustenta, em síntese, a ausência de autoria delitiva.
+Decido.
+Em relação à ausência de autoria delitiva, observo ser inviável, nos estreitos limites desta via, fazer incursão vertical em matéria fático-probatória e delimitar com precisão a exata dinâmica dos eventos delituosos em apuração ou mesmo concluir pela inexistência de qualquer responsabilidade penal do agente, salvo em hipótese de demonstração de plano, ictu oculi, o que não é o caso dos autos.
+A apuração aprofundada da veracidade das imputações feitas aos pacientes deve ser feita na instrução criminal.
+Por ora, são bastantes, para os fins da prisão cautelar, os sinais de participação delitiva, os quais têm suporte indiciário, lastreado nas provas e nos elementos de informação mencionados pelas instâncias ordinárias.
+No que concerne ao pedido de revogação da custódia cautelar, registro que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas nas instâncias ordinárias para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o juiz de primeiro grau registrou que a prisão "mostra-se necessária para impedir a reiteração delitiva e para causar o enfraquecimento do braço da organização criminosa. Note-se que se permanecerem soltos, os investigados representam risco concreto à vida da vítima, sendo lícito cogitar nova tentativa de matá-lo, em cumprimento à ordem de Alex. Além disso, o modo de agir, consistente em sequestro e abertura de cova para enterrar o corpo, demonstra a periculosidade social dos agentes. Ou seja, a liberdade dos representados oferece risco à ordem pública."
+De acordo com o Tribunal estadual, trata-se "de violência praticada contra indivíduo que supostamente decidiu não mais participar da atividade criminosa desenvolvida no âmbito da facção "Bala na Cara". Nessecenário, demonstrada está a necessidade de acautelar a ordem pública e garantir a segurança da vítima sobrevivente através da medida extrema".
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva dos acusados. Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
