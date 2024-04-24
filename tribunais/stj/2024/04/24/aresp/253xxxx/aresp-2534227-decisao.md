@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por José Nogueira Tapety Neto contra decisão da Vice-Presidência do Tribunal Regional Federal da 1ª Região que não admitiu o recurso especial com base na incidência das Súmulas 284 do STF e 7 do STJ.
+A parte agravante sustenta, em resumo, que "ocorre que, no caso sob testilha, é prescindível a necessidade de reexame de prova. Os fatos são incontestes. In casu, consoante já aventado alhures, a despeito do reconhecimento da prescrição, permitiu-se a continuidade do processo apenas em face do pedido de ressarcimento. Todavia, uma vez reconhecida a prescrição da pretensão de condenação por ato de improbidade administrativa não se afigura juridicamente possível o prosseguimento da ação de improbidade para buscar tão somente o ressarcimento do dano ao erário, devendo ser o mesmo objeto de ação autônoma.  ..  Percebe-se, portanto, que não se trata de hipótese em que se necessite reexame de prova. Os fatos são incontestes, razão pela qual se demonstram preenchidos os requisitos necessários à admissibilidade do presente Recurso. Inobstante, resta evidente, no seio do Recurso ora interposto, quais os dispositivos de lei federal se encontram violados." (fl. 792).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência das Súmula 284/STF e 7/STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
