@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE MARIA PINHEIRO DO NASCIMENTO contra decisão que inadmitiu recurso especial com fundamento na ausência violação dos arts. 489, 927 § 1º, e 1.022, I e II, do CPC e na incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão (Apelação n. 0800538-21.2022.8.10.0131).
+O julgado foi assim ementado (fl. 186):
+PROCESSO CIVIL. COBRANÇA DE ANUIDADE DE CARTÃO DE CRÉDITO. AUSÊNCIA DESOLICITAÇÃO E UTILIZAÇÃO. 1º APELAÇÃO PARCIALMENTE PROVIDA E 2 APELAÇÃODESPROVIDA.
+I. A instituição financeira não se desincumbiu do ônus de demonstrar fato impeditivo, modificativo ou extintivo do direito do autor (art. 373, II, do CPC), eis que não juntou aos autos nenhum documento comprobatório que demonstrasse a informação prévia e expressa da cobrança das tarifas, ou seja, sua espécie e valor.
+II. O Banco não anexou ao processo o contrato de referente a cobrança realizada, para que fosse corroborada a legalidade da cobrança da tarifa bancária.
+III. Uma vez provada a abusividade da cobrança de anuidade de cartão de crédito, que não fora solicitado, nem utilizado por parte do consumidor, é dever da instituição financeira reparar o dano sofrido, independentemente de prova do prejuízo, pois a lesão é in re ipsa.
+IV. A fixação do dano moral deve pautar-se segundo parâmetros de razoabilidade e proporcionalidade, levando em consideração a conduta do lesante, a condição socioeconômica das partes e a gravidade do dano.
+V. 1º Apelo parcialmente provido e 2º Apelo desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 221-236).
+Nas razões do recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos seguintes artigos: a) 489, § 1º, IV e VI, 927, § 1º, 1.022, II, parágrafo único, I e II, do CPC, alegando omissão no acórdão recorrido e negativa de prestação jurisdicional; e b) 398 do CC, defendendo a incidência dos juros de mora, referentes aos danos materiais, a partir do evento danoso, haja vista a responsabilidade de natureza extracontratual demonstrada no caso concreto.
+Defende a anulação do acórdão recorrido, por negativa de prestação jurisdicional, determinando-se o retorno dos autos ao Tribunal a quo para novo julgamento dos embargos de declaração.
+Pugna pela fixação dos juros de mora a partir do evento danoso.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Afasta-se a alegada ofensa aos arts. 489, 927 e 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Em relação ao artigo 398 do CC, o Tribunal de origem manteve o entendimento lançado na sentença, qual seja, de que os juros de mora de 1% ao mês se daria a contar da citação.
+Assim, não há falar em omissão no acórdão recorrido, porquanto "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+Em relação ao termo inicial dos juros de mora, o entendimento adotado no acórdão recorrido encontra amparo na jurisprudência desta Corte.
+Conforme exposto na origem, verifica-se que o dano moral decorreu da relação contratual preexistente entre as partes, em que houve cobrança indevida de tarifa a título de anuidade de cartão de crédito.
+Conclui-se, portanto, a pré-existência de um vínculo contratual anterior entre as partes, uma vez que o recorrente é correntista do recorrido, de modo que a natureza jurídica da responsabilidade civil, no presente caso, é de ordem contratual, a ensejar o termo inicial dos juros de mora a partir da sentença.
+O fato do serviço bancário que originou a cobrança indevida não ter sido contratado pelo recorrente não modifica o desfecho do caso, pois tais descontos são desdobramentos da relação relativa à abertura de conta corrente, ou seja, relação contratual.
+Com efeito, o Superior Tribunal de Justiça tem entendimento de que, ante a pretensão de restituição de valores indevidamente descontados do correntista por falha na prestação de serviço bancário, os juros moratórios incidem desde a citação, por se tratar de responsabilidade contratual.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. COBRANÇA INDEVIDA DE ANUIDADE DE CARTÃO DE CRÉDITO NÃO SOLICITADO PELO CORRENTISTA. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. TERMO INICIAL DOS JUROS DE MORA INCIDENTES SOBRE A INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO CONTRATUAL. JUROS DEVIDOS A PARTIR DA SENTENÇA. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. O dano moral, na hipótese dos autos, decorreu da relação contratual preexistente entre as partes, em que houve cobrança, na conta corrente do recorrente, de tarifa oriunda de serviço bancário não solicitado de cartão de crédito, de modo que o termo inicial dos juros de mora é a citação. Precedentes.
+3. Agravo interno não provido. (AgInt no REsp n. 2.041.063/MA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COBRANÇA INDEVIDA PELA INSTITUIÇÃO FINANCEIRA EM CONTA CORRENTE. TERMO INICIAL DOS JUROS DE MORA PARA INDENIZAÇÃO POR DANOS MORAIS. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. TERMO INICIAL DOS JUROS DE MORA PARA A INDENIZAÇÃO POR DANOS MATERIAIS. CITAÇÃO. RELAÇÃO CONTRATUAL. SÚMULA 83 DO STJ. AGRAVO INTERNO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Cabe ao recorrente, em sua petição de agravo interno, impugnar especificamente os fundamentos da decisão agravada (art. 1.021, § 1º, do CPC).
+2. No presente caso, a indenização por danos materiais é decorrente de responsabilidade contratual, contando-se os juros de mora a partir da citação. Precedentes.
+3. Agravo interno conhecido em parte e não provido. (AgInt nos EDcl no REsp n. 1.982.034/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COBRANÇA INDEVIDA PELA INSTITUIÇÃO FINANCEIRA EM CONTA CORRENTE. TERMO INICIAL DOS JUROS DE MORA PARA INDENIZAÇÃO POR DANOS MORAIS. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. TERMO INICIAL DOS JUROS DE MORA PARA A INDENIZAÇÃO POR DANOS MATERIAIS. CITAÇÃO. RELAÇÃO CONTRATUAL. SÚMULA 83 DO STJ. AGRAVO INTERNO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Cabe ao recorrente, em sua petição de agravo interno, impugnar especificamente os fundamentos da decisão agravada (art. 1.021, § 1º, do CPC).
+2. No presente caso, a indenização por danos materiais é decorrente de responsabilidade contratual, contando-se os juros de mora a partir da citação. Precedentes.
+3. Agravo interno conhecido em parte e não provido. (AgInt nos EDcl no REsp n. 1.982.034/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO. INSCRIÇÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. VIOLAÇÃO AOS ARTS. 489, § 1º, IV, V, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. DANO MORAL. VALOR RAZOÁVEL. JUROS DE MORA. INCIDÊNCIA DA SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$4.000,00 (quatro mil reais) não se mostra irrisório nem desproporcional aos danos sofridos pelo agravado, que, conforme mencionado pelas instâncias ordinárias, foi inscrito em órgãos de restrição ao crédito de forma indevida.
+3. O termo inicial para a incidência dos juros de mora, no caso de responsabilidade contratual, é a citação. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.476.719/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/8/2021, DJe de 1/10/2021.)
+Assim, incide no caso a Súmula n. 83 do STJ.
+Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do recurso pela alínea a do permissivo constitucional.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
