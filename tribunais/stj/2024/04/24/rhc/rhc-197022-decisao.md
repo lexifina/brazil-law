@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JUAREZ DE OLIVEIRA E SILVA FILHO e MAURICIANO VITAL GOMES CAVALCANTE contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO no julgamento do HC n. 1046001-55.2023.4.01.0000.
+Extrai-se dos autos que os recorrentes foram denunciados por terem supostamente praticado os delitos tipificados nos arts. 180, § 1º, e 299, do Código Penal (receptação e falsidade ideológica) e no art. 2º, § 4º, inciso III, da Lei n. 12.850/2013 (organização criminosa).
+A pedido do Ministério Público, o juízo singular, quando do recebimento da denúncia, fixou medidas cautelares alternativas consistentes em: comparecimento bimestral em juízo, proibição de contato com os demais acusados, suspensão do exercício de atividades econômicas que envolvam compra, venda, intermediação ou extração de ouro e monitoração eletrônica (fls. 1147/1180).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"PROCESSO PENAL. HABEAS CORPUS. AGRAVO INTERNO. EXTRAÇÃO ILEGAL DE MINÉRIOS. ORGANIZAÇÃO CRIMINOSA. REVOGAÇÃO DE MEDIDAS CAUTELARES. NÃO CABIMENTO. SOLIDEZ DA FUNDAMENTAÇÃO. NECESSIDADE DE MANUTENÇÃO DA MEDIDA CAUTELAR. UTILIZAÇÃO DA PESSOA JURÍDICA PARA "LAVAGEM" DO MINÉRIO. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE. ORDEM DENEGADA. AGRAVO INTERNO PREJUDICADO.
+1. Os acusados, ora pacientes, são inseridos, notadamente, no bojo de três das séries de fatos associados à organização criminosa objeto da persecução, quais sejam: a de falsidade ideológica perante a Agência Nacional de Mineração (ANM) para fins de recolhimento da Compensação Financeira pela Exploração Mineral (CFEM); a da receptação qualificada de ouro pela OM DTVM, associada à falsidade ideológica; da organização criminosa majorada.
+2. Pacientes incursos nas condutas delitivas descritas no artigo 299, caput, c/c os artigos 29,caput e 71, todos do Código Penal, por pelo menos 07 vezes - primeira série de fatos; no artigo180, § 1º, c/c os artigos 29, caput e artigo 71, todos do Código Penal, por pelo menos 188 vezes -quarta série de fatos; e no artigo 2º, §4º, III, da Lei nº 12.850/13, c/c o artigo 29, caput, do Código Penal - oitava série de fatos.
+3. Notadamente no que se refere aos ora pacientes, ao analisar as medidas cautelares diversas da prisão pleiteadas pelo Ministério Público Federal, o magistrado destacou a utilização abusiva da pessoa jurídica OM DTVM para fins de "esquentar" ou "legalizar" o minério de origem ilícita, colacionou o fundamento ministerial de que tais medidas são necessárias "para impedir a reiteração criminosa dos principais responsáveis pelas atividades da organização criminosa desarticulada através das "Operações Kukuanaland e Bullion", e fundamentou o seu deferimento na constatação da observância dos pressupostos legais.
+4. O juiz da primeira instância se amparou na necessidade de sigilo das investigações, com diligências ainda em andamento, as quais restariam prejudicadas, ante a existência de perigo da ineficácia.
+5. A simples alegação da presença das condições pessoais favoráveis à concessão da ordem: residência fixa, ocupação lícita, primariedade e laços familiares, por si só, não se afigura suficiente para a revogação da medida combatida, ainda mais quando não comprovada cabalmente nos autos.
+6. Ordem de habeas corpus denegada.
+7. Agravo interno prejudicado" (fls. 7676/7677).
+No presente recurso, a defesa alega ausência de indícios suficientes de autoria delitiva, afirmando que os recorrentes teriam sido induzidos a erro, e ressalta a presunção de boa-fé do comprador de ouro, conforme a Lei n. 12.844/2013, vigente à época dos fatos. Destaca que um dos corréus teria agido sem consentimento dos recorrentes.
+Pondera falta de contemporaneidade das medidas cautelares - impostas em setembro de 2023 -, uma vez que a última compra efetuada pelos réus ocorreu em dezembro de 2022, após o que nenhum fato novo teria sido praticado. Aponta ofensa ao art. 315, § 1º, do Código de Processo Penal.
+Sustenta que não evidenciada a necessidade ou adequação das medidas, cuja imposição não teria sido devidamente fundamentada.
+Defende a desproporcionalidade da suspensão de atividade econômica, bem como do uso de tornozeleira eletrônica.
+Destaca as condições pessoais favoráveis dos recorrentes , como primariedade.
+Requer, liminarmente, a suspensão da decisão que decretou as medidas cautelares ou do monitoramento eletrônico e suspensão de atividade econômicas, até o julgamento definitivo deste reclamo. No mérito, pugna pela revogação total ou parcial das medidas alternativas.
+É o relatório.
+Decido.
+O presente reclamo traz pedido idêntico ao formulado no HC 897.023/MT, cuja liminar foi indeferida em decisão proferida no dia 12/3/2024, e se encontra em processamento. Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
