@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de LUCIGLEIDE MENDES SANTOS, condenada, em 17/10/2018, como incursa nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, inicialmente, em regime semiaberto, além de 500 dias-multa. Na sentença, foi negado à ré o direito de apelar em liberdade (Processo n. 201820100485 ou n. 0021808-61.2018.8.25.0001, da 1ª Vara Criminal da comarca de Aracaju/SE).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SERGIPE, que, em 21/2/2019, negou provimento à Apelação n. 201800332574, conforme esta ementa (fl. 42):
+APELAÇÃO CRIMINAL - CRIME DE TRÁFICO DE ENTORPECENTES (ART. 33, DA LEI 11.343/2006) - RECURSO EXCLUSIVO DA DEFESA - PLEITO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, §4º, DA LEI DE DROGAS - INACOLHIMENTO - CIRCUNSTÂNCIAS, QUANTIDADE E NATUREZA DA DROGA QUE INDICAM QUE A ACUSADA SE DEDICAVA A ATIVIDADE CRIMINOSA - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+Requer-se, em liminar e no mérito, a concessão da ordem para reduzir a pena da paciente, aplicando os benefícios do § 4º do art. 33 da Lei de Drogas, no máximo ou pela metade, e alterando o regime para o aberto, convertendo a pena privativa de liberdade.
+Para tanto, alega-se que não existe nenhum elemento comprobatório nos autos que confirme que a ré se dedica a atividade criminosa (fl. 7).
+O pedido liminar foi indeferido (fls. 50/51).
+O Tribunal estadual prestou informações (fls. 56/67).
+O Ministério Público Federal emitiu parecer pela incidência da minorante na fração de 1/2, a fixação do regime aberto e a substituição da privativa de liberdade (fls. 69/72).
+A fim de verificar a eventual incidência da Súmula 695/STF, foram solicitadas informações sobre a eventual extinção da punibilidade da ora paciente pelo cumprimento daquela pena. O Juízo de Direito noticiou que, no PEC n. 0002261- 71.2018.8.25.0086, a ré cumpre as penas de 5 anos (Processo n. 0021808-61.2018.8.25.0001) e de 6 anos e 15 dias (Processo n. 0016072-28.2019.8.25.0001). A soma das reprimendas resultou em 11 anos e 15 dias de reclusão a ser cumprida em regime inicial fechado. A condenada foi beneficiada com a remição de 75 dias, o requisito objetivo para a progressão de regime está previsto para o dia 13/10/2024 e o termo final de cumprimento de pena para 4/4/2029.
+É o relatório.
+Este writ não tem cabimento.
+Primeiro, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, é cediço que não cabe ampla análise de fatos e provas nos autos de habeas corpus, de cognição sumária, o que torna totalmente inadmissível a análise do pedido de afastamento da conclusão de que a paciente se dedicava à atividade criminosa.
+A despeito da quantidade de droga apreendida, outros elementos foram considerados para afastar o tráfico privilegiado, como as circunstâncias em que se deu a prisão em flagrante. A paciente confessou a prática delitiva, foram apreendidos petrechos utilizados comumente no comércio de drogas: 1 balança de precisão, 1 rolo de plástico filme, pedaços maiores e menores de drogas embaladas para venda. De acordo com as instâncias ordinárias, não se tratava de traficante ocasional.
+Por essas razões, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. DEDICAÇÃO À ATIVIDADE CRIMINOSA. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. INADMISSIBILIDADE.
+Writ não conhecido.
