@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, o qual negou provimento ao agravo interno de Maria Cleonice Silva de Lima, mantendo decisão monocrática que não conheceu da apelação interposta, tendo em vista que "não houve a regularização processual determinada, em que pese a devida intimação, no prazo estabelecido" (fl. 1.858).
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO INTERNO. REPRESENTAÇÃO PROCESSUAL DETERMINADA. DEVIDA INTIMAÇÃO NO PRAZO ESTABELECIDO. AUSÊNCIA DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. ARTIGOS 76 E 932 DO CÓDIGO DE PROCESSO CIVIL.
+1 . Trata-se de agravo interno oposto por MARIA CLEONICE SILVA DE LIMA contra Decisão Monocrática (Evento 133, JFRJ) que não conheceu a apelação interposta tendo em vista que "não houve a regularização processual determinada, em que pese a devida intimação, no prazo estabelecido". A comprovação da regularidade da representação processual encontra-se disciplinada nos artigos 76 e 932 do Código de Processo Civil.
+2 - Nessas hipóteses, é imprescindível a intimação da parte recorrente para que possa sanar os vícios de admissibilidade. Contudo, o inciso I, § 2o, art. 76 do CPC estabelece que, descumprida a determinação em fase recursal perante tribunal, o relator não conhecerá do recurso, se a providência couber ao recorrente.
+3 - In casu, verifico que foram empreendidas inúmeras diligências para sanar o vício processual identificado, mantendo-se a agravante inerte, o que enseja o não conhecimento do recurso.
+4 Negado provimento ao agravo interno.
+Não foram opostos embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 76, caput e § 2º, e 932 do CPC e do art. 655 do Código Civil.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Sobre a alegada violação do art. 655 do Código Civil e do art. 76, caput, do CPC, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos referidos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência do Enunciado Sumular n. 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ademais, é cediço que o requisito do prequestionamento é exigido por esta Corte Superior inclusive nas matérias de ordem pública.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. TRANSFERÊNCIA DE ATIVOS DE ILUMINAÇÃO PÚBLICA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. FALTA DE INTERESSE DE AGIR E INÉPCIA DA INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA RECURSAL DO STF. NÃO CABIMENTO DO APELO NOBRE POR EVENTUAL VIOLAÇÃO DE NORMAS INFRALEGAIS. PRESENÇA DOS REQUISITOS PARA FIXAÇÃO DOS HONORÁRIOS RECURSAIS, EM RAZÃO DO NÃO CONHECIMENTO DO RECURSO ESPECIAL, NA DECISÃO MONOCRÁTICA AGRAVADA. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+2. Não houve prequestionamento dos dispositivos legais atinentes às teses de inépcia da inicial e incongruência entre seus fundamentos e pedidos. A jurisprudência desta Corte considera que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+3. É importante reiterar que não pode ser admitido o prequestionamento ficto das referidas teses, pois, ao tratar da violação do art. 1.022 do Código Fux, o Recurso Especial não discorreu sobre eventual omissão do acórdão recorrido quanto a elas. Julgados: AgInt no AREsp. 1.017.912/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 16.8.2017; REsp. 1.639.314/MG, Rel. Min. NANCY ANDRIGHI, DJe 10.4.2017.
+4. O requisito do prequestionamento é exigido por este STJ inclusive para as matérias de ordem pública. Julgados: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017.
+(..)
+8. Agravo Interno da Concessionária a que se nega provimento.
+(AgInt no AREsp 1661808/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. TERMO INICIAL. JUROS MORATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VALOR DA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve apreciação pelo Tribunal de origem sobre a tese de que os juros moratórios deveriam incidir desde o evento danoso e não desde a citação, o que impossibilita o julgamento do recurso nesse aspecto, por ausência de prequestionamento. Outrossim, eventual omissão sequer foi suscitada pela ora recorrente por meio de embargos declaratórios, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF. Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Acrescente-se que a jurisprudência do STJ é no sentido de que, inclusive em relação às matérias de ordem pública, é indispensável o prequestionamento para o conhecimento do recurso especial.
+(..)
+3. Agravo interno não provido.
+(AgInt no REsp 1800628/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Quanto à apontada violação aos arts. 76, § 2º, e 932 do CPC, verifica-se que o Recorrente deixou de explicitar os motivos pelos quais consideraria violados os dispositivos apontados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
