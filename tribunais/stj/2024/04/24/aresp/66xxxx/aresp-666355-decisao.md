@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por Valdeci Jonas, contra decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. APÓLICE PÚBLICA "RAMO 66". SALDO DEVEDOR COM GARANTIA DO FCVS (FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS). INTERESSE JURÍDICO. INTERVENÇÃO DA CAIXA ECONÔMICA FEDERAL.COMPETÊNCIA DA JUSTIÇA FEDERAL. SENTENÇA ANULADA.
+AGRAVO RETIDO PROVIDO.
+APELAÇÕES 1 E 2 PREJUDICADAS.
+O cerne recursal reside na discussão acerca da competência da Justiça Estadual ou Justiça Federal nos casos em que há indicação do possível interesse da Caixa Econômica Federal em intervir na lide, nas ações de indenização securitária fundada em contratos vinculados ao Sistema Financeiro da Habitação - SFH e eventual comprometimento do Fundo de Compensação de Variações Salariais - FCVS.
+Inadmitido o Recurso Especial, com fundamento na deserção, foi interposto o presente Agravo.
+É o relatório. Decido.
+A irresignação não merece conhecimento.
+De início, é esta a letra da decisão ora combatida, transcrita no que interessa à espécie:
+VALDECI JONAS -E OUTROS protocolizaram em data de12.02.2014, recurso especial, dizendo na petição introdutória que são" beneficiários da assistência judiciária gratuita" (fls. 780). De qualquer forma, não recolheu as custas processuais/recursais que compõem o preparo do recurso.
+Acontece que em data anterior à interposição deste recurso, a Corte Especial do Superior Tribunal de justiça manifestou-se no sentido de que há necessidade de renovação do pedido de assistência judiciária gratuita quando da interposição do recurso especial, independentemente, de ter sido concedido anteriormente. E mais: a renovação desse pedido não pode ser feita no bojo do recurso especial, mas em petição avulsa, como prevê o art. 60 da Lei nº.1.060/1950.
+Assim manifestou-se a Corte Especial do STJ: "Cumpre ressaltar que essa compreensão não afronta o disposto no art. 9 da Lei n 9 1.060, porquanto é bem verdade que o benefício compreende todos os atos do processo, assim como também é certo que a gratuidade de justiça é um benefício momentâneo dependente de uma situação provisória, podendo ser requerido a qualquer tempo e enquanto perdurar o processo, ou, se o caso, decair quando a parte não mais detenha a condição de hipossuficiência. Daí a necessidade de renovação do pedido quando do manejo recursal." (trecho do voto da Ministra MARIA THEREZA DE ASSIS MOURA, Relatora do AgRg nos Embargos de Divergência em Agravo em Recurso Especial n 321.732/RS, publicado no Die 23/10/2013).
+Todavia, pela simples leitura das razões do Agravo em Recurso Especial, observa-se que a parte agravante deixou de infirmar, especifica e fundamentadamente, o referido fundamento do decisum, qual seja, a declaração de deserção do recurso, aplicada pela ausência de renovação do pedido do benefício de gratuidade.
+Com efeito, no presente recurso, o recorrente apenas registra que a assistência judiciária foi deferida pelo magistrado de primeiro grau.
+Assim, novamente, não houve a observância da dialeticidade recursal, motivo pelo qual carece o presente recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial.
+De fato, "a mera reiteração das razões recursais sem a impugnação específica de todos os fundamentos da decisão agravada inviabiliza o exame do recurso" (STJ, AgInt nos EAREsp 1.157.501/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, DJe de 22/08/2019).
+Não por outro motivo, o novo Código de Processo Civil ratificou tal entendimento, conforme se depreende do seu art. 932, III:
+"Art. 932. Incumbe ao relator:
+(..)
+III. não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na mesma senda, o Regimento Interno do STJ - na redação dada pela Emenda Regimental 22/2016 - assim dispõe:
+"Art. 34. São atribuições do relator:
+(..)
+a) não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida".
+"Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. Parágrafo único.
+Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo inadmissível,
+prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Com razão, na forma da jurisprudência do STJ, "não se mostra suficiente mera alegação genérica sobre as razões que levaram à inadmissão do recurso especial, para que se alcance a pretendida reforma do decisum atacado" (STJ, AgRg do AREsp 392.653/PB, Rel, Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 03/02/2014).
+Em igual sentido: STJ, AgInt no AgInt no AREsp 1.036.117/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 14/05/2018; AgRg no AREsp 1.690.985/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 23/06/2020; EDcl no AgRg no AREsp 1.561.813/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 13/03/2020.
+Registre-se, ainda, que tal entendimento restou consolidado, pela Corte Especial do STJ, em 19/09/2018, no julgamento dos EAREsp 701.404/SC, EAREsp 746.775/PR e EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Relator para os acórdãos o Ministro LUIS FELIPE SALOMÃO, DJe de 30/11/2018).
+Na ocasião, restou consignado que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (STJ, EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018).
+Corroborando esse entendimento, confiram-se também os seguintes precedentes, que refletem o entendimento atual e consolidado, no âmbito da Corte Especial do STJ e dos Órgãos julgadores que compõem a Primeira Seção deste Tribunal: AgRg nos EAREsp 1.642.060/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, DJe de 16/09/2020; AgInt no AREsp 1.579.338/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 01/07/2020; AgInt nos EDcl no AREsp 1.693.577/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/11/2020.
+Portanto, a ausência de impugnação específica, ainda que a um só dos fundamentos da decisão que inadmitiu o Recurso Especial, induz o não conhecimento total do Agravo em Recurso Especial, na forma da pacífica jurisprudência do STJ.
+No caso, deixando de infirmar especifica e fundamentadamente a deserção, o recurso não ultrapassa a admissibilidade.
+Em obter dictum, convém consignar que a decisão agravada não merece reparos, tendo em vista que está em consonância com o entendimento desta Corte, firmado à luz do CPC/1973, aplicável na hipótese. A propósito, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS JUDICIAIS. DESERÇÃO CONFIGURADA.
+1. Verifica-se que o Recurso Especial não foi instruído com a guia de custas e o respectivo comprovante de pagamento. Com efeito, na interposição de Recurso Especial, a comprovação do preparo deve ser feita no ato de interposição do recurso, conforme determina o art. 511 do Código de Processo Civil.
+2. O recorrente que for beneficiário da justiça gratuita deve fazer prova da benesse, no momento da interposição do recurso. Isso porque, se "o art. 511, caput, do CPC estabelece que "no ato de interposição do recurso o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção", o recorrente deve, mutatis mutandis, fazer prova da dispensabilidade de seu recolhimento, quando beneficiário da justiça gratuita. Afinal, o preparo, ou mesmo a sua dispensa, constitui requisito de admissibilidade do recurso, pelo que sua falta implica em negativa de seguimento. O que não se admite, evidentemente, é que o relator do recurso busque suprir essa falta do recorrente, identificando no processo se o recorrente faz jus à benesse legal ou não, uma vez que não é sua essa tarefa" (AgRg nos EAREsp 188.231/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 19.8.2013).
+3. Ademais, o art. 511, § 2º, do Código de Processo Civil somente é aplicável na hipótese de recolhimento a menor, e não quando inexiste o pagamento. Precedentes.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1533508/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/11/2015.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AUSÊNCIA DE PREPARO. DESERÇÃO. SÚMULA 187/STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor do disposto no art. 511 do CPC, compete ao recorrente comprovar o respectivo preparo no ato de interposição do recurso, mediante a apresentação do comprovante de pagamento, o que não ocorreu no caso dos autos.
+2. Apesar da parte agravante alegar que litiga sob o pálio da assistência judiciária gratuita, não há nos presentes autos qualquer decisão que comprove a concessão do benefício.
+3. Incide ao caso, a Súmula 187/STJ, in verbis: É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos.
+4. A jurisprudência desta Corte é no sentido de que a intimação para a complementação do preparo só é admitida quando recolhido o valor de forma insuficiente. No caso concreto, não se trata de insuficiência de preparo, e sim de ausência de comprovação do recolhimento das custas judiciais.
+5. O STJ possui entendimento no sentido de que não lhe cabe, na via especial, a análise de violação aos dispositivos constitucionais, ainda que com o objetivo de prequestionamento visando à interposição do apelo extraordinário, sob pena de haver usurpação de competência do Supremo Tribunal Federal.
+6. Agravo regimental não provido.
+(AgRg no AREsp 605.269/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 13/04/2015.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Publique-se. Intimem-se.
+EMENTA
