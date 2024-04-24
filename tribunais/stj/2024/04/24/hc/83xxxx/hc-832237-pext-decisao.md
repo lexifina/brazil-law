@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de extensão apresentado por Jose Paulino dos Santos Neto para que lhe sejam estendidos os efeitos da decisão de minha lavra, na qual concedi parcialmente a ordem de habeas corpus em favor do corréu Joelson Soares dos Santos em 9/4/2024 (fls. 142/146).
+Alega-se, em suma, similitude da situação fático-processual do requerente e do corréu.
+O Ministério Público Federal manifesta-se pelo indeferimento do pedido de extensão (fl. 167).
+É o relatório.
+Cinge-se a controvérsia a saber se o requerente se encontra ou não na mesma situação fático-processual do corréu Joelson Soares dos Santos, em favor de quem reconheci a nulidade das provas obtidas mediante a busca e apreensão domiciliar (e consectários).
+No ponto, consignei que o ingresso forçado na casa onde foi encontrado o corréu foi lastreado exclusivamente: a) em denúncias anônimas acerca da prática do delito; e b) na descoberta de chaves da casa no bolso do requerente, submetido à prévia busca pessoal em via pública, dada a apreensão de entorpecentes em medidor de energia elétrica em imóvel abandonado.
+Nesse panorama, em que a diligência teria se iniciado a partir da apreensão de drogas em imóvel abandonado, atribuídas aos acusados, realizada durante um procedimento de busca e apreensão promovido enquanto o requerente se encontrava em via pública, considerei inválido o ingresso em domicílio. Isso porque o contexto fático narrado não corrobora a conclusão inarredável de que na residência se praticava o crime de tráfico de drogas.
+Assim, declarei a nulidade das provas obtidas a partir do ingresso dos policiais na casa do corréu. No entanto, considerando que o acervo probatório presente nos autos não está composto exclusivamente pela prova declarada ilícita e suas derivações, havendo apreensão prévia de drogas em imóvel abandonado e busca pessoal no requerente, anulei a condenação, determinando ao Juízo de origem que, após desentranhar a prova ilícita e as dela derivadas, realize um novo julgamento da ação penal.
+Ora, do que se colhe da denúncia (fls. 66/68) e da sentença condenatória (fls. 14/22), a materialidade do crime de tráfico de drogas imputado ao requerente e ao corréu foi estabelecida também a partir da apreensão de drogas no domicílio, prova essa tida como ilícita conforme decisão às fls. 142/146.
+Cabe, desse modo, a teor do princípio da isonomia e do art. 580 do Código de Processo Penal, deferir o pedido de extensão de julgado benéfico obtido por um deles.
+Ante o exposto, defiro o pedido de extensão, formulado na Petição n. 273601/2024 - fls. 152/154 , a fim de estender os efeitos da decisão ao requerente, para: a) declarar a nulidade das provas obtidas mediante a busca e apreensão domiciliar realizada ilegalmente, bem como as provas delas decorrentes; b) cassar o acórdão impugnado, o acórdão confirmatório e a sentença condenatória; c) determinar ao Juízo de origem que desentranhe as provas ora declaradas ilícitas dos autos e promova novo julgamento da ação penal, conforme entender de direito; e d) determinar a soltura do requerente, até nova manifestação do Juízo de primeiro grau, salvo se por outro motivo estiver preso.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Publique-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DA PROVA. IDENTIDADE FÁTICO-PROCESSUAL CONSTATADA. EXTENSÃO DOS EFEITOS QUE SE IMPÕE.
+Pedido de extensão deferido.
