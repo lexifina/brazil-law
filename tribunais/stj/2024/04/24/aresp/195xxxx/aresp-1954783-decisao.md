@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BERKLEY INTERNATIONAL DO BRASIL SEGUROS S.A. (BERKLEY), pretendendo a reforma da decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Minas Gerais (TJMG), assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - PRESCRIÇÃO - NÃO OCORRÊNCIA -PRAZO ÂNUO (ALÍNEA "B", DO §1º, DO ART. 206, DO CÓDIGO CIVIL) QUE FOI SUSPENSO COM O PEDIDO DE PAGAMENTO EXTRAJUDICIAL -INTELIGÊNCIA DA SÚMULA Nº 229, DO COL. SUPERIOR TRIBUNAL DE JUSTIÇA - MANUTENÇÃO DA DECISÃO DE PRIMEIRA INSTÂNCIA. - Nos termos da Súmula nº 229, do Col. STJ, "o pedido de pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão". (e-STJ, fl. 2.088)
+Os embargos de declaração opostos por BERKLEY foram rejeitados com aplicação de multa (e-STJ, fls. 2.187/2.196).
+Irresignada, BERKLEY interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 132, caput, e §3º, e 206, §1º, II, "b", do CC; e 374, II e III, 1.022, I e II, e 1.026, § 2º, do CPC, afirmando que (1) houve contradição porque o Des. Relator  .. , num primeiro momento, entendeu que o sinistro teria ocorrido em 15/02/20162 para depois sustentar que ele teria ocorrido em 17/02/2016 (e-STJ, fl. 2.220) (2) a própria parte recorrida confessou que o sinistro se deu em 15/2/2016, termo inicial para cômputo da prescrição da pretensão (e-STJ, fl. 2.212), o que corrobora com seu entendimento de que prescrita a reivindicação (3) a multa aplicada nos embargos deve ser afastada.
+O recurso não foi admitido pelo Tribunal estadual.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) contradição
+Verifica-se que devidamente esclarecidas as razões de decidir pelo TJMG, não se configurando a alegada contradição. Confira-se:
+ ..  conforme foi consignado por esta Eg. Turma Julgadora no Aresto impugnado, em 15/02/2016, a Construtora Interessada informou à Embargante a impossibilidade de continuidade das obras, mencionando que, contudo, tal evento somente efetivamente se concretizaria na "quarta-feira", isto é, em 17/02/2016 (cód. 54, daqueles autos).
+Acrescente-se que, ainda que se tomasse a afirmação da Recorrida de que o sinistro se desenvolveu "entre os dias 15/02/2016 e 16/02/2016" como confissão, é certo que houve desenvolvimento de atividade probatória acerca de tal termo inicial, de modo que, a partir dos elementos carreados nos autos, esta Col. Câmara Julgadora alcançou a conclusão acima mencionada. Ora, a circunstância de os fatos incontroversos prescindirem de prova (inciso III, do art. 374, do CPC) não impede que essa seja produzida, sendo que, diante de sua realização, assim como se sucedeu na hipótese, compete ao Magistrado formar a sua convicção a partir da integralidade dos elementos carreados ao feito.
+ ..
+Ao demais, mesmo que se utilizasse o dia 16/02/2016 como sendo a data do sinistro, o fenômeno da prescrição não teria se concretizado, porquanto, em 17/02/2016, a Embargada acionou a Seguradora Recorrente, suspendendo o transcurso do prazo ânuo (alínea "b", do §1º, do art. 206, do Código Civil - Súmula nº 229, do STJ) até 19/06/2017 (data de negativa administrativa da Recorrente - cód. 02, do Agravo Interno nº 1.0000.18.100080-3/003), ocasião em que o referido interstício legal, do qual não havia transcorrido nem sequer um dia, voltou ao seu curso.
+Logo, o tema reiterado neste Recurso foi amplamente examinado no julgamento guerreado, circunstância que evidencia o manifesto propósito da Embargante em rediscutir o ponto, diante da sua não concordância com o entendimento alcançado no Aresto rechaçado. (e-STJ, fls. 2.189/2.191)
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, não caracterizada violação aos arts. 489 e/ou 1.022 do CPC. Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022)
+Afasta-se, portanto, a alegada violação.
+(2) prescrição
+O Tribunal de origem, ao julgar o agravo de instrumento, entendeu que não prescrita a pretensão, assim se pronunciando:
+Em relação ao primeiro ponto, registro que, em reunião ocorrida em 15/02/2016, a Construtora Interessada informou à Agravante a impossibilidade de continuidade das obras, mencionado que, contudo, tal evento efetivamente se concretizaria na "quarta-feira", isto é, em 17/02/2016 (cód. 54). Vejamos:
+"Entregue notificação sobre os descumprimentos contratuais por parte da CIAP, o Sr. Hamilton informou que não tem condições de dar continuidade à execução do contrato de construção de casas no Residencial Bouganville. Diante da informação acima, a Anglo American questionou quais as providências que serão tomadas pela CIAP para quitação de todas suas dívidas, oportunidade em que o Sr. Hamilton informou que não tem condições financeiras de honrá-las (alimentação apenas até quarta-feira, hospedagem, salários, etc.). Considerando o compromisso a CIAP em se reunir em CMD com os funcionários no dia 16 de fevereiro de 2016, amanhã, o Sr. Hamilton informou que reprogramou para o dia 17 de fevereiro de 2016, próxima quarta-feira, comprometendo-se a comparecer e explicar a situação aos empregados, bem como procedimentos que entende deve cumprir, explicitar a dificuldade financeira da CIAP e impossibilidade de honrar com seus compromissos, inclusive os trabalhistas. Entregará os avisos prévios aos empregados, a princípio indenizados, bem como obterá o transporte de retorno destes empregados às suas cidades de origem, encerrando os contratos de locação de imóveis para os funcionários." (Destacamos).
+Ocorre que, conforme o documento colacionado sob o cód. 112, juntado ao feito pela própria Seguradora, a ora Agravada lhe acionou administrativamente, justamente, em 17/02/2016, informando a ocorrência do sinistro:
+ ..
+Então, na mencionada data houve a suspensão do interstício legal outorgado ao exercício de ação, nos termos da Súmula nº 229, do Col. Superior Tribunal de Justiça:
+ ..
+A resposta negativa da Recorrente (cód. 112) somente foi recebida pela Autora em 19/06/2017 (conforme documento de cód. 02, do Agravo Interno nº 1.0000.18.100080-3/003, o qual foi objeto de contraditório - cód. 05, daquele Regimental), ocasião em que o prazo prescricional, do qual não havia transcorrido nem sequer um dia, uma vez que, se repita, a comunicação à Agravante acerca do sinistro se deu logo no início do prazo (códs. 112), voltou ao seu curso.
+Logo, considerando que a demanda foi ajuizada em 19/06/2018 (cód. 01), mostra-se escorreito o r. pronunciamento judicial de origem (cód. 12). (e-STJ, fls. 2.092/2.093)
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ. Na mesma direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CÉDULA DE PRODUTO RURAL VINCULADA A SEGURO AUTOMÁTICO DE PENHOR RURAL. PRESCRIÇÃO AFASTADA. TERMO INICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COBERTURA SECURITÁRIA. EXCLUSÃO DE COBERTURA DE LAVOURA EM PÉ. ABUSIVIDADE. AUSÊNCIA DE INFORMAÇÃO AO SEGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Alterar a conclusão alcançada pelo Tribunal de Justiça (no sentido de que não houve a decorrência do prazo prescricional, diante da falta de comprovação do recebimento da negativa da seguradora e da data efetiva em que o segurado teve ciência inequívoca do sinistro) demandaria reexame fático-probatório, vedado no âmbito do recurso especial por força da Súmula 7/STJ.
+2. De igual forma, derruir o entendimento do colegiado estadual - de que, além de não haver a comprovação de que o segurado teve ciência da cláusula que excluía da cobertura securitária a lavoura em pé, tal dispositivo seria abusivo e violaria a boa-fé objetiva - encontra óbice nas Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.017.167/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022)
+É certo que, nos termos do art. 206, §1º, II, B, do CC, o seguro-garantia prescreve em um ano a partir da ciência inequívoca do sinistro.
+No caso em análise, correta a conclusão do Tribunal de origem pois, embora tenha havido a comunicação, em 15.2.2016, de que as obras seriam abandonadas, o sinistro (abandono) somente se deu em 17.2.2016 sendo descabido, dessa forma, considerar a ciência do sinistro antes da data do próprio evento gerador da obrigação securitária.
+Acrescente-se que, nos termos da jurisprudência desta Corte, não se conta o dia do início do prazo prescricional, incluindo-se o último dia e, na contagem por anos, o prazo prescricional finda no dia de igual número do de início, ou no dia seguinte em falta da exata correspondência (artigo 132, § 3º, do Código Civil). Nessa direção:
+DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. PRESCRIÇÃO INEXISTENTE. APLICAÇÃO DE TAXA SELIC.
+1. A contagem do prazo prescricional deve considerar o sistema adotado pelo CPC: não se conta o dia do início do seu curso e inclui-se o último. Em conseqüência: a contagem do prazo quinquenal faz-se por anos, contados do dia do início (considerando o dia útil seguinte) e o dia do mês correspondente do ano em que se findar.
+ ..
+5. Recurso conhecido e parcialmente provido para determinar, unicamente, que a taxa Selic seja aplicada, a partir da citação inicial, a título de correção monetária e juros.
+(REsp n. 825.915/MS, relator Ministro José Delgado, Primeira Turma, julgado em 22/4/2008, DJe de 21/5/2008)
+Dessa maneira, não sendo contado o dia do sinistro, mesmo dia em que houve a ciência do segurado e a comunicação à seguradora e considerando a regra da contagem dos prazos em anos, não há que se falar em prescrição da pretensão, pois a negativa da seguradora deu-se em 26/06/2017 e a demanda foi ajuizada em 19/06/2018.
+(3) multa do art. 1.026 do CPC
+Quanto ao tema, esta Corte firmou o entendimento de que é descabida a multa prevista no art. 1.026 do CPC, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração.
+Nesse sentido, é o enunciado da Súmula nº 98 desta Corte, in verbis:
+Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório.
+Nesse sentido, a jurisprudência desta eg. Corte Superior:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. VIOLAÇÃO DE SÚMULA E RESOLUÇÃO NORMATIVA. NÃO CABIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. PLANO DE SAÚDE COLETIVO. EXONERAÇÃO DO EMPREGADO. AUSÊNCIA DE OPÇÃO, NO PRAZO REGULAMENTAR, POR MANTER A CONDIÇÃO DE BENEFICIÁRIO. EXTINÇÃO DO VÍNCULO COM A OPERADORA. POSSIBILIDADE. DIREITO DO EX-EMPREGADO AO EXERCÍCIO DA PORTABILIDADE DE CARÊNCIAS. DEVER DE COMUNICAÇÃO DA OPERADORA.
+ ..
+8. Afasta-se a multa do art. 1.026, § 2º, do CPC/2015 quando não se caracteriza o intento protelatório na oposição dos embargos de declaração.
+9. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.979.120/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/5/2022, DJe de 13/5/2022)
+Dessa forma, e tendo em vista que a multa do art. 1.026 do CPC, deve ser aplicada com temperamentos, afasto a multa imposta pelo Tribunal Estadual quando do julgamento dos embargos de declaração.
+Nessas condições, CONHEÇO o agravo para CONHECER EM PARTE o recurso especial e DAR-LHE PARCIAL PROVIMENTO, tão somente para afastar a multa prevista no art. 1.026, § 2º, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. SEGURO-GARANTIA. CONTRADIÇÃO. NÃO OCORRÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. SINISTRO. DATA. CIÊNCIA DO SEGURADO. DATA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. SUSPENSÃO DE PRAZO. SÚMULA 229/STJ. CONTAGEM. SISTEMA ADOTADO PELO CPC. PRECEDENTE. MULTA ART. 1.026 DO CPC. AFASTAMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E PARCIALMENTE PROVIDO.
