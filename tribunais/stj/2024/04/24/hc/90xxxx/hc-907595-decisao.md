@@ -1,0 +1,24 @@
+DECISÃO
+MARCOS DIAS ALVES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à apelação da defesa e, por conseguinte, manteve inalterada a reprimenda de 10 anos e 8 meses de reclusão, em regime fechado, mais multa, imposta pela prática do delito de tráfico de drogas.
+Neste writ, pretende a defesa, em síntese, a concessão da ordem para que seja reduzida a pena-base ao mínimo legal, bem como seja aplicada a reincidência em menor fração.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juiz sentenciante fixou a pena-base do acusado em 8 anos de reclusão e 800 dias-multa pela quantidade e natureza da droga apreendida e pelos maus antecedentes.
+O Tribunal de origem manteve a majoração da pena-base do acusado em razão da "natureza da droga comercializada pelos réus, cocaína na forma de "crack", substância de reconhecido potencial tóxico, causadora de nefastos problemas ao meio social" e a "quantidade apreendida  que  também é expressiva, considerada a particular forma de consumo dessa substância" (fl. 325).
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora a natureza da droga constitua, de fato, circunstância preponderante a ser sopesada na dosimetria da pena, considero que a quantidade apreendida em poder do paciente - 7,69 g de crack - não foi expressiva, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas essa circunstância para justificar a exasperação da pena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou com cocaína, ainda que com uma porção com peso de 5 g, por exemplo, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+Diante de tais considerações, porque verificada a inadequação da análise parcial das circunstâncias judiciais (natureza e quantidade da droga) e, porque remanesce os antecedentes, deve o writ ser concedido, a fim de reduzir a pena-base de 8 anos de reclusão e 800 dias-multa para 6 anos de reclusão e pagamento de 600 dias-multa.
+II. Fração de aumento pela reincidência
+Nesse ponto, não deve ser conhecido o habeas corpus. Isso porque o pedido de redução do quantum de aumento pela reincidência não foi de verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância.
+Esclareço, ainda, que a jurisprudência desta Corte possui o entendimento de que "é dispensável, para comprovação da reincidência, folha de antecedentes criminais, bastando, para fins aplicação da agravante do art. 61, I, do Código Penal, consulta a meios eletrônicos oficiais" (HC n. 322.296/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 8/2/2017).
+III. Nova dosimetria
+Estabelecida a pena-base em 6 anos de reclusão e 600 dias-multa. Na segunda etapa, ausentes atenuantes, mantenho o aumento em 1/3 pela reincidência, o que totaliza 8 anos de reclusão e 800 dias-multa. Na terceira fase, não há causas de aumento ou de diminuição, pelo que torno a reprimenda definitiva em 8 anos de reclusão e 800 dias-multa, mantido o regime fechado em razão do quantum da reprimenda e dos maus antecedentes.
+IV. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, concedo a ordem, a fim de reduzir a pena-base imposta e tornar a reprimenda definitiva em 8 anos de reclusão e 800 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+Publique-se e intimem-se.
+EMENTA
