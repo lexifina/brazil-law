@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Execuções Penais da Comarca de Itajaí/SC, o suscitante, em face do Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios da Comarca de Foz do Iguaçu/PR, o suscitado.
+O núcleo da controvérsia consiste em identificar o Juízo competente para realizar a audiência de custódia de EDERSON JOÃO SOARES DE OLIVEIRA, ora interessado, que cumpria pena em regime semiaberto, em razão de recaptura em Foz do Iguaçu/PR.
+O Juízo suscitado se recusou a realizar a audiência de custódia e declinou da competência aos seguintes fundamentos:
+"Consoante estabelece o artigo 13, parágrafo único, da Resolução nº 213/2015 do Conselho Nacional de Justiça, a audiência de custódia deverá ser realizada pela autoridade judicial que determinou a expedição da ordem de custódia.
+Ainda, e por outro lado, a Resolução nº 144/2015 do Órgão Especial do E. Tribunal de Justiça do Estado do Paraná, alterada pela Resolução nº 341-OE, igualmente estabelece que "as audiências de custódia decorrentes de prisões cautelares judiciais (preventivas, temporárias) ou definitivas, serão realizadas pelo magistrado que expediu a ordem de prisão, conforme previsto no art. 287 do CPP e no art. 13 da Resolução 213 do CNJ".
+Outrossim, conforme regulamentação da CGJ/PR, as audiências de custódia devem ser feitas preferencialmente presenciais, e levando-se em conta que, por questões de segurança, as audiências de custódia em Foz do Iguaçu são feitas de forma virtual (especialmente as decorrentes de mandado de prisão), determino a revogação da designação de audiência de custódia e a devolução da Carta Precatória para cumprimento pelo d. Juízo competente, em atenção, inclusive, ao disposto no artigo 287 do CPP.
+Ainda, na aba de competência da Corregedoria dos Presídios, instaure-se incidente de recambiamento do sentenciado ao Estado de origem, oficiando-se o Coordenador Regional Administrativo do DEPPEN de Foz do Iguaçu, via projudi, para adotar as providências necessárias ao recambiamento do sentenciado ao local de origem, competente para a execução da pena, no prazo de 15 dias.
+Diligências necessárias." (fl. 4)
+De outro lado, o Juízo suscitante também invocou o teor da Resolução 213 do CNJ, bem como precedente da lavra da ilustre Ministra Laurita Vaz, proferida no CC n. 168.522/PR, DJe de 17/12/2019.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior de Justiça firmou o entendimento de que a audiência de custódia, no caso de mandado de prisão cumprido fora do âmbito territorial do Juízo que a determinou, deve ser realizada pelo Juízo da localidade em que ocorreu a prisão. A propósito, confira-se:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. MANDADO DE PRISÃO PREVENTIVA. CUMPRIMENTO EM UNIDADE JURISDICIONAL DIVERSA. AUDIÊNCIA DE CUSTÓDIA. REALIZAÇÃO. COMPETÊNCIA. JUÍZO DA LOCALIDADE EM QUE EFETIVADA A PRISÃO. REALIZAÇÃO POR MEIO DE VIDEOCONFERÊNCIA PELO JUÍZO ORDENADOR DA PRISÃO. DESCABIMENTO. PREVISÃO LEGAL. INEXISTÊNCIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITANTE.
+1. A audiência de custódia, no caso de mandado de prisão preventiva cumprido fora do âmbito territorial da jurisdição do Juízo que a determinou, deve ser efetivada por meio da condução do preso à autoridade judicial competente na localidade em que ocorreu a prisão. Não se admite, por ausência de previsão legal, a sua realização por meio de videoconferência, ainda que pelo Juízo que decretou a custódia cautelar.
+2. Conflito conhecido para declarar competente o Juízo Federal da Vara da Seção Judiciária do Paraná, o Suscitante.
+(CC n. 168.522/PR, relatora Ministra Laurita Vaz, Terceira Seção, DJe de 17/12/2019.)
+No mesmo sentido, vejam-se as seguintes decisões monocráticas: CC n. 202.949, Ministro Reynaldo Soares da Fonseca, DJe de 07/03/2024; CC n. 199.264, Ministro Antonio Saldanha Palheiro, DJe de 07/11/2023; CC n. 198.752, de minha relatoria, DJe de 26/09/2023 e CC n. 198.454, Ministro Sebastião Reis Júnior, DJe de 01/08/2023.
+No caso dos autos, é incontroverso que o interessado foi preso em Foz do Iguaçu/PR, em cumprimento ao Mandado de Prisão n. 5019344-36.2020.8.24.0033.01.0001-12(fl. 21) expedido pelo Juízo de Direito da Vara de Execuções Penais da Comarca de Itajaí/SC (fl. 7).
+Portanto, considerando-se a jurisprudência acerca do tema, bem como a urgência do caso, com fundamento no art. 34, inciso XXII, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, conheço do conflito para julgar que compete ao Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios da Comarca de Foz do Iguaçu/PR a realização da audiência de custódia , caso ainda não tenha sido efetuada.
+Frise-se que, na hipótese de o custodiado já ter sido transferido para a comarca do Juízo que determinou a prisão, é desnecessário seu retorno para a renovação da audiência de custódia perante o Juízo do local no qual foi efetivada a prisão.
+Comunique-se, com urgência, os Juízos envolvidos no presente incidente.
+Publique-se.
+Intime-se o Ministério Público Federal.
+EMENTA
