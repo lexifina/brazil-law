@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Francisco Vieira da Silva contra o acórdão da Quarta Turma do Superior Tribunal de Justiça, relatado pelo Ministro Antonio Carlos Ferreira, assim ementado (fls. 1.787/1.796):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+Após o julgamento do agravo interno, foram opostos embargos de declaração. Em acórdão de fls. 1.821/1.827, a Quarta Turma do STJ rejeitou os embargos por ausência dos vícios previstos no art. 1.022 do CPC.
+Nos presentes embargos de divergência, sustenta a embargante (fls. 1.833/1.856) que o acórdão embargado divergiu de precedentes desta Corte em três distintos pontos, quais sejam: (i) admissibilidade do agravo interno (art. 1.021 do CPC) silente sobre o capítulo autônomo e independente da decisão monocrática que não conhece da divergência jurisprudencial apresentada no recurso especial (fundamentada na alínea "c" do permissivo constitucional); (ii) a forma da correta impugnação ao óbice da Súmula n. 83/STJ; e (iii) admissibilidade de apelação interposta contra ato judicial denominado "sentença", expressamente proferido com esteio no art. 487, inc. I, do CPC e que fixa honorários de sucumbência.
+Aduz, ainda, que deve ser mitigada a força da Súmula 315 do STJ, em decorrência do decidido no EAREsp n. 624.073/SP.
+Com relação ao primeiro tópico é apontado como paradigma o EREsp n. 1.424.404/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 17/11/2021.
+A segunda irresignação foi confrontada com o AgInt no AREsp n. 2.383.098/RJ, Ministro Mauro Campbell Marques, Segunda Turma, DJe 4/10/2023.
+Por fim, o último ponto objeto do recurso foi cotejado com o REsp n. 1.963.966/SP, Ministra Nancy Andrighi, Terceira Turma, DJe 5/5/2022.
+Assim, requer o conhecimento e o provimento do recurso.
+É o relatório.
+Os embargos de divergência não ultrapassam o juízo de admissibilidade.
+Mediante exame dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182 do STJ, tendo em vista que a parte não impugnou de modo satisfatório o óbice da Súmula 83 do STJ e da Súmula 284 do STF. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula 315 desta Corte Superior: Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Todos os pontos suscitados foram rechaçados sem o devido exame meritório, conforme se depreende do voto do Relator (fls. 1.794/1.795):
+O pedido de aplicação da fungibilidade constitui inovação recursal, por falta de arguição oportuna no especial (e-STJ fls. 1.580/1.588).
+É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+
+O entendimento da Corte local, sobre o cabimento do agravo de instrumento contra a decisão de primeira instância que acolheu parcialmente a exceção de pré-executividade da contraparte, sem, contudo, extinguir a execução, foi mantido com base na Súmula n. 83/STJ e ante a inaptidão da divergência interpretativa (Súmula n. 284/STF), por ausência de cotejo analítico e de indicação das normas objeto de interpretação divergente. (grifo nosso)
+Consoante se observa do acórdão embargado, mostra-se inequívoca a incidência do óbice da Súmula 315/STJ, na medida em que não examinou o mérito do recurso especial nos pontos recorridos, a obstar a admissibilidade dos embargos de divergência, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1º, do RISTJ, e do art. 1.043 do Código de Processo Civil. Nesse diapasão: AgInt nos EAREsp n. 1.441.916/SC, Ministro Og Fernandes, Corte Especial, DJe 26/8/2020; AgRg nos EREsp n. 1.803.437/SC, Ministro Herman Benjamin, Corte Especial, DJe 17/6/2020; e AgInt nos EAREsp n. 1.022.112/SP, Ministro Humberto Martins, Corte Especial, DJe 4/4/2018.
+Apesar do esforço argumentativo do embargante, a pretensão é do reexame dos critérios de admissibilidade. Isso porque não há discussão de tese jurídica, mas da avaliação se no caso concreto houve o acerto da aplicação do óbice pelo órgão fracionário.
+É firme o entendimento no âmbito da Corte Especial do STJ, no sentido de que não cabe a oposição de embargos de divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial. Ilustrativamente: AgInt nos EAREsp n. 1.883.018/RJ, Ministro Mauro Campbell Marques, Corte Especial, DJe 17/11/2023; AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp n. 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; e AgRg nos EAREsp n. 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Caso tenham sido anteriormente fixados, majoro os honorários recursais em desfavor da embargante para 20% (vinte por cento) sobre o valor arbitrado na origem, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se for o caso, os limites percentuais previstos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão de gratuidade de justiça.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. INADMISSIBILIDADE.
+Embargos de divergência indeferidos liminarmente.
