@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/02/2024.
+Concluso ao gabinete em: 14/04/2024.
+Ação: de indenização por danos morais c/c pedido de antecipa ção de tutela, ajuizada por JULIO CESAR DA SILVA MEDINA em face de PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO, em razão da inscrição indevida de seu nome em banco de dados de proteção ao crédito.
+Sentença: julgou procedente o pedido, para condenar PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO ao pagamento da quantia de R$ 6.000,00 a título de compensação por danos morais.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. SUBCLASSE RESPONSABILIDADE CIVIL. AÇÃODE INDENIZAÇÃO POR DANOS MORAIS. DESCUMPRIMENTO DEACORDO JUDICIAL HOMOLOGADO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO COM BASE NA LEI 6.024/74. DESCABIMENTO. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. DESCUMPRIMENTODE DECISÃO JUDICIAL. MANUTENÇÃO INDEVIDA DE INSCRIÇÃONO SCR DO BACEN. DANOS MORAIS. CABIMENTO. QUANTUM QUENÃO COMPORTA REDUÇÃO. PERCENTUAL DA VERBA HONORÁRIADE SUCUMBÊNCIA MANTIDA.
+1. SUSPENSÃO. Há de ser indeferido o requerimento de suspensão do feito em razão da liquidação extrajudicial da instituição financeira ré, pois consoante reiterado entendimento do Colendo STJ, "o comando previsto no art. 18 da Lei 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e à liquidez do crédito" (AgInt no AREsp n. 2.310.365/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/9/2023, DJe de12/9/2023.).
+2. GRATUIDADE. O debate sobre a possibilidade de extensão do benefício da gratuidade às pessoas jurídicas há muito se encontra superado pela jurisprudência. Nesse sentido a Súmula 481 do STJ. Todavia, por se tratar de permissivo excepcional, é exigida sempre a comprovação da incapacidade financeira alegada. O fato de a apelante encontrar-se em liquidação extrajudicial, por si só, não impõe a concessão do benefício. Embora esteja claro o comprometimento patrimonial da apelante em razão dessa condição, não aportaram aos autos provas suficientes a comprovar que não tenha capital de giro capaz de cobrir o pagamento das custas processuais, que, para o porte da instituição financeira, não são elevadas, tanto é que o preparo da apelação foi realizado.
+3. MÉRITO. A jurisprudência dominante considera que o Sistema de Informações de Créditos (SCR) do Banco Central possui natureza de cadastro restritivo de crédito pelo que, em tese, é possível reconhecer o direito a indenização por danos morais em caso de inclusão indevida em dito cadastro.3.1. No caso, o ator ajuizara contra a ré ação revisional de contratos bancários que foi julgada parcialmente procedente, tendo sido mantida indevidamente anotação em nome do demandante no SCR do BACEN, razão pela qual cabível a condenação da ré ao pagamento de indenização por danos morais ao autor.3.2. Para os casos de dano moral por inscrição indevida esse Colegiado tem adotado o valor de R$ 10.000,00 como parâmetro, quando ausente circunstâncias aptas a justificar uma oscilação para baixo ou para cima. Fixado em sentença quantum indenizatório em valor inferior, não prospera a pretensão da ré de redução de referido valor.
+4. Quanto aos honorários advocatícios de sucumbência em favor dos procuradores do autor arbitrados na origem em 10% sobre o valor da condenação, não comportam redução, considerando-se que fixados no patamar mínimo previsto no art. 85, § 2º, doNCPC.5. Sentença de procedência dos pedidos mantida. (e-STJ Fls. 295/296)
+Recurso especial: alega dissídio jurisprudencial quanto ao valor da compensação por danos morais, que reputa exorbitante.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do recolhimento do preparo e do pedido de gratuidade de justiça
+O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+Nesse sentido: AgInt no ARESP 2313216/RS, Quarta Turma, DJe 08/09/2023 e AgInt no AREsp 1.563.316/DF, Terceira Turma, DJe de 19/2/2020.
+Na espécie, houve o recolhimento das custas recursais e, por conseguinte, a análise do pedido de gratuidade de justiça fica prejudicada.
+- Do pedido de revisão do valor da compensação por danos morais
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida, em sede de recurso especial, quando a quantia estipulada for irrisória ou exorbitante, o que não está caracterizado neste processo.
+Salvo essas excepcionais hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Não bastasse, é certo que a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (valor da compensação por danos morais), impede o conhecimento da insurgência veiculada tanto pela alínea "a" como pela alínea "c" do art. 105, III, da Constituição da República.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ Fls. 293) para 17%, observada eventual concessão da gratuidade de justiça.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. DANOS MORAIS. REVISÃO DO VALOR FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória c/c pedido de compensação por danos morais.
+2. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
