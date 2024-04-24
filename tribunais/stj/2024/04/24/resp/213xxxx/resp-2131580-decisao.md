@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+RECURSO EM SENTIDO ESTRITO -IRRESIGNAÇÃO MINISTERIAL -TRÁFICO DE DROGAS -REJEIÇÃO DA DENÚNCIA PELA NULIDADE DA BUSCA PESSOAL PROCEDIDA -INOCORRÊNCIA -FUNDADA SUSPEITA CARACTERIZADA -RECEBIMENTO DA INICIAL ACUSATÓRIA -NECESSIDADE -RECURSO PROVIDO. No caso dos autos, a abordagem ocorreu com base em circunstâncias concretas e precisas, pautadas em elementos objetivos, não sendo possível afirmar que houve nulidade no procedimento de busca pessoal. Observância aos arts. 240 § 2º e art.244 do Código de Processo Penal. Recebimento da denúncia necessário. (e-STJ fl. 239)
+A defesa aponta a violação dos arts. 157, caput e § 1º, 240, § 2º e 244 do CPP, alegando, em síntese, a nulidade da busca pessoal realizada em razão do nervosismo do recorrente. Pede o restabelecimento da decisão que rejeitou a denúncia.
+Contrarrazões às e-STJ fls. 297/300.
+Admitido o recurso, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 319/322.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Os elementos existentes nos autos informam que o TJMG deu provimento ao recurso em sentido estrito interposto pelo Ministério Público, determinando o retorno dos autos à jurisdição de primeiro grau para regular prosseguimento da ação.
+A defesa se insurge contra essa decisão alegando que a busca pessoal não respeitou as hipóteses legalmente previstas, ressaltando que o nervosismo do agente não autoriza a diligência.
+Sem razão, porquanto a abordagem, como se extrai do acórdão recorrido (e-STJ fl. 243) , se deu pela presença dos seguintes fatores concomitantes: (i) o acusado já era conhecido por abordagens anteriores (ii) estava em ponto de venda de entorpecentes e (iii) ficou extremamente nervoso ao notar a presença policial.
+Vê-se que o cenário acima descrito e que ensejou a abordagem policial vai muito além do nervosismo alegado pela defesa, mas apoia-se em situação que, de maneira induvidosa, requer a diligente ação policial.
+Aliás, esta Corte decidiu recentemente que não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso (ut, AgRg no HC n. 822.922/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2023).
+Ainda nesse sentido, o recente julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. NULIDADE DA BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA. PEDIDO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA USO DE DROGAS. IMPOSSIBILIDADE DE CONHECIMENTO DO PEDIDO DENTRO DOS ESTREITOS LIMITES DA VIA ELEITA. DESCONSTITUIÇÃO DA CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE REEXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 240, § 2º, do Código de Processo Penal -CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de drogas, objetos ou papéis que constituam corpo de delito.
+2. "O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional. 4. Fugir ao avistar viatura, pulando muros, gesticular como quem segura algo na cintura e reagir de modo próprio e conhecido pela ciência aplicada à atividade policial, objetivamente, justifica a busca pessoal em via pública" (RHC 229514 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 2/10/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20/10/2023 PUBLIC 23/10/2023).
+3. A abordagem dos policiais somente ocorreu em razão de atitude suspeita do paciente, o qual, ao avistar a viatura, demonstrou muito nervosismo enquanto andava de bicicleta com um grande volume na cintura. Suspeita confirmada, uma vez que foram encontrados em poder do paciente 80 buchas de maconha e 8 pedras de crack.
+4. Nesse contexto, a partir da leitura dos autos, verifica-se que foi constatada a existência de indícios prévios da prática da traficância, a autorizar a atuação policial, não havendo falar em nulidade da busca pessoal.
+5. O acolhimento do pleito de absolvição ou de desclassificação da conduta demandaria o revolvimento fático-probatório, providência inviável em sede habeas corpus.
+6. Agravo regimental desprovido. (AgRg no HC n. 844.904/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/4/2024.)
+Ante o exposto, com fundamento no art. 932, inciso IV, alínea "a", do CPC c/c o art. 255, § 4º, inciso II, do RISTJ, e na Súmula 568/STJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
