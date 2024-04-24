@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Recurso em habeas corpus, sem pedido liminar, interposto em favor de RONALDO ALMEIDA CORREIA contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2187601-18.2023.8.26.00000).
+Consta dos autos que o recorrente teve sua prisão preventiva decretada em 6/11/2014, pela suposta prática de homicídio qualificado, vindo a ser o mandado cumprido em 3/9/20222, ficando o processo suspenso nos termos do artigo 366 do CPP, nesse interim.
+No writ originário, a defesa afirmou que o paciente está sofrendo constrangimento ilegal em razão do excesso de prazo para o encerramento da instrução criminal. O Tribunal a quo julgou prejudicado o writ, com recomendação, para que fosse proferida a decisão, assim que possível. Eis a ementa (e-STJ fl. 500):
+Habeas Corpus. Homicídio qualificado. Excesso de prazo. Alegação não verificada. Instrução encerrada. Alegações finais já oferecidas pela acusação. Inteligência da Súmulanº 52 do STJ. Ordem prejudicada, com recomendação.
+Na presente oportunidade, a defesa reafirma a tese de excesso de prazo na formação da culpa, asseverando que apesar de ter sido proferida a decisão de pronúncia, até a presente data não foi julgado o Recurso em Sentido Estrito impetrado contra aquela decisão.
+Assevera, também, a ausência de fundamentos para a manutenção da prisão preventiva.
+Assim, pede, em liminar e no mérito, a revogação da prisão preventiva.
+Não houve pedido liminar. O Ministério Público Federal, previamente ouvido, manifestou-se pelo não provimento do recurso (e-STJ fls. 532/535). As informações foram prestadas (e-STJ fls. 543/547) e (e-STJ fls. 553/564).
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque o tema sobre o excesso de prazo no julgamento do Recurso em Sentido Estrito, não foi levado ao conhecimento do Tribunal de origem, para apreciação. Da mesma forma, os fundamentos da prisão preventiva não foram objeto de análise pela Corte estadual.
+Assim, fica impedido o exame direto por esta Corte, por configurar indevida supressão de instância. Como é cediço, "Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância." (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 6/4/2017, DJe 20/4/2017).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC n. 111.935, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009, Relator p/ Acórdão: Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Relator Ministro MARCO AURÉLIO, Primeira Turma, julgado em 5/8/2020, DJe 25/9/2020).
+Por outro lado, ao fornecer as informações solicitadas, o Tribunal de origem, informou que o Recurso em Sentido Estrito, interposto pela defesa do recorrente, contra a decisão de pronúncia, foi incluído em pauta da sessão de julgamento marcada para o dia 13/5/2024 (e-STJ fl.553).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao recurso.
+Intimem-se.
+EMENTA
