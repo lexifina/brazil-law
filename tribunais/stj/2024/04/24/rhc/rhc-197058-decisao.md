@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARCIEL FRANCISCO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba (HC n. 0809965-38.2024.8.15.0000).
+Infere-se dos autos que o recorrente foi preso em flagrante em 13/2/2024, custódia convertida em preventiva, por suposta infração ao art. 33, caput, da Lei n. 11.343/2006 e ao art. 19 da Lei de Contravenções Penais.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos da seguinte ementa (e-STJ fl. 188):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.
+REITERAÇÃO DE FUNDAMENTOS DE OUTRO REMÉDIO, COM MESMA CAUSA DE PEDIR E PEDIDO. ÓBICE DO ART. 252 DO RITJ/PB. NÃO CONHECIMENTO DA ORDEM.
+  O teor do art. 252 do regimento interno do tribunal de justiça, é de se não conhecer a ordem mandamental, quando se traduz apenas na mera repetição de fundamentos apresentados em writ anteriormente impetrado em favor do paciente.
+Nas razões do presente recurso, a defesa alega, em síntese, que embora o Tribunal a quo tenha entendido que se tratava de mera reiteração de pedido, "não há óbice para o julgamento da ordem de Habeas Corpus nº 0809965-38.2024.8.15.0000, tendo em vista que o writ é destinado a combater a decisão que manteve a prisão cautelar do recorrente" (e-STJ fl. 195). No ponto destaca que "houve fato novo, haja vista que o juízo a quo da Comarca de Alagoa Nova-PB decidiu pela manutenção da prisão cautelar ao indeferir pedido de revogação de prisão preventiva no dia 30/03/2024" (e-STJ fl. 195).
+No mérito, sustenta não estarem presentes os requisitos autorizadores da medida constritiva cautelar, asseverando que o recorrente é primário e o magistrado se valeu de processos findos em que o réu foi absolvido para justificar a aplicação da medida extrema.
+Defende ser suficiente, no caso, a aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do recorrente.
+É o relatório. Decido.
+De plano, verifica-se que não houve pronunciamento por parte da Corte de origem a respeito dos fundamentos do decreto prisional no acórdão ora impugnado, por se tratar de mera reiteração de impetração anterior.
+Como é cediço, a ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Não se pode descurar, por fim, que admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir.
+Nessa linha de entendimento, inviável a manifestação desta Corte sobre o pedido formulado no presente recurso, sob pena de indevida supressão de instância.
+Por outro lado, conforme salientou o Tribunal de origem, "embora o impetrante se refira a decisão posterior, prolatada pelo juízo da Vara Única de Alagoa Nova, ele ataca a decisão do juízo plantonista do Grupo 2, que em audiência de custódia converteu a prisão em flagrante em preventiva. Inclusive a própria autoridade apontada como coatora manteve a prisão pelos mesmos fundamentos, aduzindo que os motivos que a ensejaram permanecem os mesmos" (e-STJ fls. 189/190).
+E conclui que se verifica "a mera repetição da causa de pedir e do pedido em Habeas Corpus, sem indicar nenhum fato novo, devendo a presente ação não ser conhecida" (e-STJ fl. 190), afirmando inclusive que a defesa lançou mão de petição idêntica.
+Assim, a Corte Estadual agiu em conformidade com o entendimento deste Superior Tribunal de Justiça, senão vejamos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDOS DESDE A ORIGEM. AQUI, PLEITOS DEFENSIVOS EM INDEVIDA SUPRESSÃO DE INSTÂNCIA. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, não constatada nenhuma flagrante ilegalidade, de plano, pois, conforme já esclarecido na decisão agravada, o d.
+Relator no eg. Tribunal a quo indeferiu liminarmente o pleito, porquanto não passou de mera reiteração de pedidos de outro já analisado na origem. De toda forma, inexistindo pronunciamento colegiado pelo eg. Tribunal, impossibilitada está a apreciação da matéria por esta eg. Corte Superior, haja vista a indevida supressão de instância. Sendo assim, não obstante a mera reiteração de pedidos, a indevida supressão de instância também obsta a presente impetração.
+III - Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+IV - O col. Pretório Excelso é igualmente firme no sentido de que, verbis: "Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Hipótese, portanto, de habeas corpus em substituição ao agravo regimental" (AgRg no HC n. 130.240, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 16/12/2015).
+V - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido. (AgRg no HC n. 671.519/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADO R CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 19/10/2021, DJe 03/11/2021)
+Ante o exposto, nego seguimento ao presente recurso.
+Intimem-se.
+EMENTA
