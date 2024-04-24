@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PETIÇÃO INICIAL. ENDEREÇO DO RÉU INDICADO DE FORMA INSUFICIENTE PARA O APERFEIÇOAMENTO DO ATO CITATÓRIO. INTIMAÇÃO PARA EMENDA NÃO CUMPRIDA PELO EXEQUENTE. EXTINÇÃO DO PROCESSO. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Os Embargos de Declaração foram rejeitados nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. PETIÇÃO INICIAL. ENDEREÇO DO RÉU INDICADO DE FORMA INSUFICIENTE PARA O APERFEIÇOAMENTO DO ATO CITATÓRIO. INTIMAÇÃO PARA EMENDA NÃO CUMPRIDA PELO EXEQUENTE. EXTINÇÃO DO PROCESSO. ALEGAÇÃO DE OMISSÃO, INOCORRÊNCIA. AUSÊNCIA DE QUALQUER DAS HIPÓTESES DO ART. 1.022, DO CPC. EMBARGOS DE DECLARAÇÃO NÃO ACOLHIDOS.
+A parte recorrente alega violação dos arts. 489, § 1º, IV, e 1.022 do CPC
+Não foram apresentadas Contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.4.2024.
+No que concerne à contrariedade aos arts. 489 e 1.022 do CPC, o acórdão impugnado incorreu em omissão.
+Os pontos suscitados como omitidos tanto nos Embargos de Declaração como no Recurso Especial da municipalidade são, em tese, relevantes para o deslinde da controvérsia. Por sua vez, a Corte local manteve-se silente quanto a eles no julgamento dos Aclaratórios.
+Cito trecho do REsp na parte que fundamenta a infringência aos mencionados dispositivos legais:
+Com data máxima vênia, a Ilma. Desa. Relatora partiu de premissa equivocada ao proferir o voto condutor, pois a informação de que "Após a citação da devedora por oficial de justiça se revelar infrutífera", não se coaduna com os autos, tendo em vista que sequer houve despacho determinando a citação, tão pouco a tentativa de citação da recorrida.
+O recorrente distribuição a ação executiva em 16/12/2019, o juízo de origem proferiu despacho determinando a intimação pessoal do recorrente para emendar a inicial em 13/03/2020 e proferiu sentença - sem sequer determinar a citação da recorrida - em 30/07/2020.
+Verifica-se, portanto, que o juízo de origem extinguiu o processo com menos de 1 (um) ano de tramitação, violando frontalmente os princípios da eficiência e efetividade processual.
+Ademais, não se deve tratar duração razoável como sinônimo de celeridade. Fredie Didier afirma que "Não existe um princípio da celeridade. O processo não tem de ser rápido/célere: o processo deve demorar o tempo necessário e adequado à solução do caso submetido ao órgão jurisdicional".
+Importa esclarecer que o recorrente quedou-se inerte, tendo em vista que na petição inicial, bem como na Certidão de Dívida Ativa - CDA, informou o endereço completo constante no cadastro municipal, ou seja, o endereço informado pela própria recorrida.
+Nesse sentido, vislumbra-se a ausência da fundamentação do acórdão recorrido, pois o que inviabilizou o desenvolvimento válido e regular do processo, foi a ausência de despacho determinando a citação da recorrida no endereço indicado, Caberia ao Juízo de piso determinar a citação da executada ora recorrida e caso essa não tivesse a sua finalidade atingida, determinaria ao Município que tomasse as providências cabíveis no prazo legal, não podendo a MM. Juíza, presumir que aquele endereço se encontrava "incompleto", sem sequer haver tentativa de citação.
+Registra-se, inclusive, que o próprio Tribunal de Justiça do Estado de Estado da Bahia, em casos idênticos ao dos autos, entendeu que não agiu com acerto o juízo a quo ao extinguir o feito sem resolução do mérito com base no art. 485, IV, do CPC, visto que o Município de Luís Eduardo Magalhães apresentou o endereço corretamente, como se observa nas ementas abaixo transcritas: (fls. 141-142, e-STJ)
+Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos EDcl.
+Diante do exposto, dou provimento ao Recurso Especial e determino o retorno dos autos ao Tribunal a quo para que este, em novo julgamento dos Embargos de Declaração, aprecie na integralidade as seguintes alegações: a) "os requisitos do art. 319 do CPC, foram obedecidos, pois, era o único endereço constante no cadastro municipal e estava completo, não tendo sido crível o despacho de emendar a inicial para informar um endereço completo antes mesmo de se ter uma prova cabal de que aquele informado pela municipalidade não atingiria a finalidade" (fl. 144); b) "sequer foi determinada a citação por qualquer meio, portanto, a conclusão de o endereço apresentado estar incompleto é completamente equivocada" (fl. 144); c) "ausência de nulidade processual face ao preenchimento dos pressupostos válidos ao regular andamento do feito, tendo em vista que a inicial está em perfeita consonância com o art. 319 do CPC" (fls. 145-146); e d) "o que inviabilizou o desenvolvimento válido e regular do processo, foi a ausência de despacho determinando a citação da recorrida no endereço indicado" (fl. 142).
+Publique-se.
+Intimem-se.
+EMENTA
