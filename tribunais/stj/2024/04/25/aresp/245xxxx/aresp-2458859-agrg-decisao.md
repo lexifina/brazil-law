@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JUAN CARLOS DA CUNHA contra a decisão de fls. 857/858, da Presidência desta Corte, que não conheceu do recurso especial ante a incidência, por analogia, da Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+Em suas razões recursais, a defesa afirma, em síntese, que em suas razões atacou especificamente o fundamento relativo à Súmula n. 7 do STJ, afirmando não ser o caso de aplicação do referido enunciado.
+Requer a reconsideração da decisão agravada ou a apresentação do feito em mesa, a fim de que a Turma dê provimento ao agravo e ao recurso especial.
+O Ministério Público Federal - MPF opinou pelo não conhecimento do agravo regimental (fls. 891/894).
+É o relatório.
+Decido.
+O agravo regimental merece provimento para que a decisão atacada seja reconsiderada.
+O decisum agravado deixou de conhecer o recurso especial sob o entendimento de que o agravante não teria impugnado a incidência da Súmula n. 7/STJ no caso em tela. No entanto, do corpo do agravo infere-se impugnação suficiente ao referido fundamento às fls. 828/832.
+Assim, atendidos os requisitos de admissibilidade e impugnado o fundamento da decisão que inadmitiu o apelo especial, conheço do agravo.
+Passo à análise do recurso especial.
+Consta dos autos que o agravante foi absolvido em primeiro grau.
+Recurso de apelação interposto pelo Parquet foi provido para condenar o agravante pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), à pena de 6 anos, 3 meses e 27 dias de reclusão, em regime inicial fechado, e 632 dias-multa (fl. 763). O acórdão ficou assim ementado:
+"Recurso do Ministério Público
+EMENTA - APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS (ART. 33 DA LEI N.º 11.343/06) - PLEITO PELA CONDENAÇÃO DE JUAN CARLOS DA CUNHA - DEPOIMENTO DE POLICIAIS (ART. 202 DO CPP) - CONFIRMAÇÃO EM JUÍZO - COERÊNCIA COM OUTROS ELEMENTOS DE PROVA - CONDENAÇÃO IMPOSITIVA. PROVIMENTO.
+I - Restando comprovada a participação do apelado na prática de tráfico de drogas através das declarações dos policiais, em ambas as fases, confirmadas por outros elementos seguros, constantes dos autos, impositiva a condenação pela prática do delito do artigo 33, da Lei n.º 11.343/06.
+II - Recurso provido, com o parecer." (fl. 743)
+Em sede de recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, (fls. 300/307), a defesa apontou violação ao art. 386, VII, do Código de Processo Penal, aduzindo a insuficiência de provas para a manutenção da condenação do agravante pelo crime de tráfico de drogas. Alegou que a inexistência de provas suficientes da autoria delitiva impõe a absolvição do agravante, em observância ao princípio do in dubio pro reo.
+Requereu a absolvição.
+É o relatório.
+Decido.
+O TJMS condenou o agravante pelo crime de tráfico de drogas nos seguintes termos do voto do relator:
+"O Ministério Público postula a condenação do acusado Juan Carlos pela prática do crime de tráfico, previsto no art. 33, caput, da Lei n.º 11.343/06, enquanto o apelante Leandro Mendes postula por sua absolvição em relação ao referido delito.
+ ..
+Eis o que consta da denúncia (f. 1/6):
+"Fato I: (..) que, em data que não se pode precisar, nesta Capital, os denunciados LEANDRO MENDES GARCIA e JUAN CARLOS DA CUNHA associaram-se para a prática de tráfico de drogas, pois, em conjunto praticavam o armazenamento e comércio de entorpecentes, sem autorização e em desacordo com determinação legal ou regulamentar, nesta Capital.
+Fato II: (..) que, no dia 7 de dezembro de 2021, por volta das 10h, no imóvel situado na Rua Piraputanga, n. 2400, Bairro Jardim Noroeste, nesta Capital, os denunciados LEANDRO MENDES GARCIA e JUAN CARLOS DA CUNHA foram surpreendidos e presos em flagrante mantendo em depósito, para fins de comércio, 8 (oito) envelopes, 19 (dezenove) papelotes e 01 (uma) pedra de substância entorpecente análoga à COCAÍNA, pesando 60g (sessenta gramas), (..), sem autorização e em desacordo com determinação legal ou regulamentar, além 04 (quatro) aparelhos celulares, 02 (dois) cartões de banco, 01 (uma) motocicleta YAMAHA /YS150 FAZER ED, vermelha, placas 000-1454 e a quantia de R$ 5.909,00 (cinco mil novecentos e nove reais) em notas trocadas, indicativos de traficância (..).
+Segundo restou apurado a Polícia Civil recebeu denúncia anônima via 181, informando sobre um possível ponto de vendas de drogas, realizado em um local em que na frente seria uma Conveniência e nos fundos, uma "boca de fumo", então, após campana no endereço supracitado, os policiais avistaram um homem saindo em atitude suspeita, que ao avistar os policiais, tentou fugir e se desfazer de uma porção de droga, todavia, foi abordado e identificado como Cleger Rodrigo da Silva Nunes, sendo encontrada uma porção de substância análoga à COCAÍNA, pesando 1,20g (um grama e vinte decigramas), cf. Laudo Preliminar de Constatação de Natureza e Quantidade de Droga n. 2128/2021 (pp. 49/51), cf. Auto de Apreensão de pp. 57/58, que admitiu ter adquirido naquele instante, de "um rapaz moreno", chamado JUAN CARLOS DA CUNHA, pagando-lhe o valor de R$20,00 (vinte reais).
+Além disso, o usuário revelou que já havia comprado entorpecentes outras vezes, no mesmo local, da pessoa de LEANDRO.
+Ato contínuo, em face do conjunto fático probatório, os policiais realizaram a incursão no imóvel, onde encontraram JUAN CARLOS DA CUNHA, o qual foi flagrado com uma meia preta na mão, cujo interior possuía 10 (dez) porções de COCAÍNA, prontas para mercancia.
+No mesmo imóvel estava a pessoa de Kássia, esposa de LEANDRO, sendo encontrado, no quarto do casal, dentro da gaveta do guarda roupas outras 18 (dezoito) porções de substância entorpecente análoga à COCAÍNA, que totalizaram 60g (sessenta gramas), cf. Laudo Preliminar de Constatação de Natureza e Quantidade de Droga n 2130/2021 (pp. 53/55), além 04 (quatro) aparelhos celulares, 02 (dois) cartões de banco, 01 (uma) motocicleta YAMAHA /YS150 FAZER ED, vermelha, placas 000-1454, sendo também localizada, no armário do casal, a quantia de R$ 5.909,00 (cinco mil novecentos e nove reais) em notas trocadas, indicativos de traficância (..).
+Nesse ínterim, LEANDRO MENDES GARCIA chegou na residência, mas negou a traficância, alegando ser apenas usuário de entorpecentes, todavia, enquanto ainda estavam no imóvel, os policiais se depararam com outros três indivíduos, identificados como Heliton Garcia Mendes, Enivaldo da Silva de Arruda e Thiago Rosa Francisco, os quais revelaram terem ido ao local para comprar drogas com LEANDRO e JUAN, revelando que os denunciados praticavam a mercancia de drogas em conjunto".
+Dá análise dos autos, verifica-se a presença de elementos de prova seguros e suficientes que apontam Leandro e Juan Carlos como envolvidos na prática do delito previsto no art. 33, caput, da Lei n.º 11.343/06, de modo a justificar seja mantida a condenação do primeiro e a reforma da sentença em relação ao segundo, para o fim de condená-lo também pela referida conduta.
+ ..
+Com efeito, em que pese a negativa de ambos os acusados, os demais elementos de provas colhidos no decorrer da instrução conduzem à certeza de que eles, de fato, exerciam o tráfico de drogas no endereço descrito na denúncia.
+Os policiais foram unânimes quanto à exposição dos fatos, partindo de denúncias, e depois pela comprovação presencial no local onde era comercializada a droga, tanto que flagraram usuários indo até o local adquirir entorpecentes, bem assim na apreensão de certa quantidade da substância, ou seja, vários papelotes de cocaína, além de objetos e valores, os quais, segundo consta, estavam guardados em lugares distintos e em notas trocadas.
+Ademais, os próprios usuários que lá compareceram no momento da diligência realizada pela polícia afirmaram que era comum adquirir entorpecentes de Leandro, enquanto outros também diziam que já teriam adquirido de Juan Carlos.
+Aliás, o primeiro usuário abordado, o que estava de bicicleta, disse aos policiais que teria acabado de comprar uma porção de cocaína de Juan. O policial Max afirmou que com Juan foi encontrada uma meia contendo com porções da substância.
+E mais, segundo o policial Telmo, Juan já teria dito que seria o responsável pela venda de entorpecentes enquanto Leandro estivesse fora da casa.
+Além disso, razão alguma haveria para Juan afirmar, em Juízo, que havia comparecido à residência de Leandro por apenas duas vezes, se não fosse na tentativa de ocultar sua participação, posto que o próprio Leandro afirma que Juan trabalhava na obra em sua conveniência há cerca de 3 a 4 meses, direto.
+Ademais, não se vê justificativa alguma para que uma conveniência atenda a seus clientes pelos fundos, conforme afirmou Juan.
+E mais, constata-se sérias incongruências entre as declarações de Leandro na fase judicial, e os termos de sua defesa técnica, posto que o mesmo, em Juízo, negou a existência de drogas em sua casa, ao contrário do que havia declarado na delegacia (f. 31), onde assumiu a propriedade da substância apreendida, afirmando destinar-se ao próprio consumo.
+Ou assume que havia drogas em sua casa, destinadas ao próprio uso, ou firma posição em sentido contrário, negando a existência das mesmas. O que não pode é ora afirmar uma coisa, ora outra.
+Juan, a seu turno, também na fase policial (f. 40/41), embora tenha negado o tráfico, disse que teria vendido uma porção a um usuário a R$ 20,00, durante a ausência de Leandro, circunstância que esclarece a razão de as pessoas serem atendidas pelos fundos do estabelecimento.
+ ..
+Como se pode constatar, três usuários afirmaram que sempre que pretendiam adquirir entorpecentes procuravam Leandro, pois sua residência era conhecida como ponto de venda de drogas, e o quarto afirmou que também sempre compra com Leandro, mas, que às vezes, adquire de Juan Carlos. Ou seja, ambos (Leandro e Juan) exercem o tráfico.
+Ainda que não tenham sido inquiridos na fase judicial, como é normal nesta espécie de delito diante da insegurança que graça tais pessoas pelas ruas diante da violência exercida pelo tráfico, suas declarações restaram confirmadas sob o crivo do contraditório pelos agentes públicos.
+Portanto, ao contrário do que alega a defesa, nenhuma dúvida há quanto à prática do tráfico exercido por Leandro e Juan, e isso foi possível extrair especialmente da prova testemunhal, circunstância que torna desnecessária a realização de perícia no aparelho celular, como sugerido pela defesa, já que inexiste hierarquia entre os meios de prova, cabendo à autoridade policial realizar aquelas necessárias à elucidação dos fatos.
+ ..
+De tal maneira, restou configurada a prática do delito pelo qual foram acusados.
+ ..
+De tal maneira, diante das provas já examinadas e restando comprovado o efetivo envolvimento do acusado JUAN CARLOS DA CUNHA, impositiva sua condenação nas sanções do art. 33, caput, da Lei n.º 11.343/06." (fls. 749/757)
+Tem-se no trecho acima, que o TJMS, analisando os elementos probatórios coligidos nos autos, apresentou fundamentação concreta para a condenação do agravante pelo crime de tráfico de drogas, eis que comprovadas a autoria e materialidade delitivas do réu, notadamente porque foi preso em flagrante mantendo em depósito 8 envelopes, 19 papelotes e 1 pedra de substância entorpecente análoga à cocaína, pesando aproximadamente 60 g, além de objetos e valores guardados em lugares distintos e em notas trocadas. Destacou, ainda, a Corte de origem que "os próprios usuários que lá compareceram no momento da diligência realizada pela polícia afirmaram que era comum adquirir entorpecentes de Leandro, enquanto outros também diziam que já teriam adquirido de Juan Carlos " (fl. 753).
+A revisão do entendimento firmado pelo Tribunal a quo, no sentido de absolver o agravante por insuficiência de provas, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182, STJ. PRETENSÃO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. SÚMULA N. 7, STJ. REEXAME DE FATOS E PROVAS. AFASTAMENTO DA VALORAÇÃO DA QUANTIDADE DE ENTORPECENTES NA PRIMEIRA FASE DA DOSIMETRIA. IMPOSSIBILIDADE. QUANTIDADE RELEVANTE DE DROGAS. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83, STJ. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+ ..
+II - A pretensão esbarra, ainda, no óbice da Sumula n. 7, STJ, não cabendo a esta Corte Superior reexaminar o conjunto fático-probatório dos autos, por ser inviável nesta via estreita.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.364.703/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.)
+Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão agravada, conhecer do agravo e do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
