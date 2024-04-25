@@ -1,0 +1,33 @@
+DECISÃO
+Na origem trata-se de "ação declaratória de inexigibilidade de débito prescrito" ajuizada por ROSA NAILDA GALVÃO DA SILVA em desfavor de CLARO S/A alegando que era cliente da requerida e que "no ano de 2014 deixou de cumprir seus pagamentos devido a um momento delicado financeiramente que vivia em sua vida e como ficou desempregado deixou de o honrar com o compromisso." (fl. 2)
+Embora reconheça a existência de uma dívida no valor de R$ 472,30 (quatrocentos e setenta e dois reais e trinta centavos), tal dívida estaria prescrita, não sendo passível de cobrança.
+Requer, ao final, a declaração de prescrição, com base no artigo 206, § 5º, I, do Código Civil, bem como seja determinado que cessem todos os atos de cobrança, sob pena de imposição de multa diária.
+Na sentença o pedido foi julgado improcedente, tendo a parte autora sido condenada ao pagamento de honorários advocatícios, fixados em 10% sobre o valor atualizado da causa, ficando a exigibilidade suspensa em razão dos benefícios da justiça gratuita (art. 98, § 3º, CPC). (fls. 136-142)
+No Tribunal de Justiça do Estado de Mato Grosso do Sul, por maioria, deu-se parcial provimento ao recurso de apelação, em acórdão que restou assim ementado (fl. 173):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÍVIDA - PRESCRIÇÃO DO DIREITO DE AÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO EM SI - DÍVIDA NÃO AFETADA NO PLANO DE EXISTÊNCIA - INSERÇÃO EM CADASTRO DENOMINADO "SERASA LIMPA NOME", CUJA FUNÇÃO É INFORMAR AO CONSUMIDOR NELE CADASTRADO ESPONTANEAMENTE DA EXISTÊNCIA DE DÉBITOS PASSÍVEIS DE NEGOCIAÇÃO - REGISTRO RESTRITO QUE NÃO SE CONFUNDE COM ANOTAÇÃO PÚBLICA DE INADIMPLÊNCIA - POSSIBILIDADE, ENTRETANTO, DE ACOLHER O PEDIDO DECLARATÓRIO PURO DE OCORRÊNCIA DA PRESCRIÇÃO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I - O fato de a dívida estar prescrita não a torna inexistente e pode ser objeto de cobrança. A prescrição alcança tão somente o direito de ação da credora em exigir judicialmente o pagamento do débito contraído pela parte autora.
+II - O portal "Serasa Limpa Nome" cuida-se de ferramenta criada para interação entre os credores e devedores. Não se trata de cadastro de inadimplentes, e sim, de plataforma de tentativa de negociação de dívida existente, não havendo que se falar em meio coercitivo de cobrança e consequentemente, em indenização por danos morais.
+III - A prescrição extingue o direito à pretensão, isto é, retira a possibilidade de utilização de processo judicial para sua satisfação, não implicando, entretanto, em extinção pura e simples do direito patrimonial. Sentença reformada tão somente para declarar a prescrição do débito, fato incontroverso, sem alteração de sucumbência.
+Contra a referida decisão acima transcrita, a parte interpõe recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, no qual aponta violação do art. 206, § 5º, I, do Código Civil, e do art. 43, § 5º, do CDC.
+Apresentadas contrarrazões às fls. 261-266.
+Juízo positivo de admissibilidade na origem (fls. 268-278 ).
+Vieram os autos a este Superior Tribunal de Justiça e foram distribuídos a Segunda Turma, cabendo-me a relatoria.
+É o relatório.
+O caput do art. 9º do RISTJ prevê que a competência das Seções e Turmas será fixada em razão da natureza da relação jurídica litigiosa, descrevendo, ainda, em seus parágrafos, as matérias atribuídas a cada uma das Seções desta Corte.
+Em seu § 2º, inciso III, o dispositivo em destaque estabelece que compete à Segunda Seção processar e julgar os feitos relativos à responsabilidade civil, salvo quando se tratar de responsabilidade civil do Estado.
+Dessa forma, nas ações em comento, nas quais a causa de pedir esteja relacionada tão somente com o direito privado, a competência será sempre da Segunda Seção.
+A controvérsia travada nos presentes autos, relacionada a ação declaratória de inexigibilidade de débito decorrente de contrato de telefonia, insere-se exatamente no disposto no art. 9º, §2º, III, do RISTJ.
+Confira-se o seguinte julgado:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PRESCRITO. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. MANUTENÇÃO DO ACÓRDÃO ESTADUAL.
+1. Ação de conhecimento, por meio da qual se pretende o reconhecimento da prescrição, bem como a declaração judicial de inexigibilidade do débito, ajuizada em 4/8/2021, da qual foi extraído o presente recurso especial, interposto em 26/9/2022 e concluso ao gabinete em 3/8/2023.
+2. O propósito recursal consiste em decidir se o reconhecimento da prescrição impede a cobrança extrajudicial do débito.
+3. Inovando em relação à ordem jurídica anterior, o art. 189 do Código Civil de 2002 estabelece, expressamente, que o alvo da prescrição é a pretensão, instituto de direito material, compreendido como o poder de exigir um comportamento positivo ou negativo da outra parte da relação jurídica.
+4. A pretensão não se confunde com o direito subjetivo, categoria estática, que ganha contornos de dinamicidade com o surgimento da pretensão. Como consequência, é possível a existência de direito subjetivo sem pretensão ou com pretensão paralisada.
+5. A pretensão se submete ao princípio da indiferença das vias, podendo ser exercida tanto judicial, quanto extrajudicialmente. Ao cobrar extrajudicialmente o devedor, o credor está, efetivamente, exercendo sua pretensão, ainda que fora do processo.
+6. Se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada em razão da prescrição, não será mais possível exigir o referido comportamento do devedor, ou seja, não será mais possível cobrar a dívida. Logo, o reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito.
+7. Hipótese em que as instâncias ordinárias consignaram ser incontroversa a prescrição da pretensão do credor, devendo-se concluir pela impossibilidade de cobrança do débito, judicial ou extrajudicialmente, impondo-se a manutenção do acórdão recorrido.
+8. Recurso especial conhecido e desprovido.
+(REsp n. 2.088.100/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023.)
+Ainda, em casos como tais: AgInt no REsp n. 1.926.474/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023; AgInt no AREsp n. 1.728.279/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023.
+Ante o exposto, distribuam-se os autos a uma das Turmas que compõem a Segunda Seção.
+EMENTA
