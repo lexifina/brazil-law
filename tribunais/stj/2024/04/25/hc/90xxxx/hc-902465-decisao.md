@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão que negou provimento ao agravo regimental interposto pelo paciente, cujo voto condutor assim concluiu:
+ .. . Ao que consta, atentando ao princípio da dignidade da pessoa humana, o Diploma Material adotou sistema gradual para o resgate das reprimendas como forma de retribuição ao ilícito praticado, mas reduzindo o bem jurídico consistente na liberdade, cujo fim é combater a reiteração criminosa. Assim, instituiu política criminal de estímulos aos condenados, visando sua reinserção gradativa ao convívio social, desde que observadas às normas estabelecidas durante o resgate da pena, com o intuito de promoção a regime menos severo até atingir a liberdade plena.
+ .. .
+Esta a intenção com a regra da detração prevista no artigo 42 do Código Penal, que permite o abatimento do tempo de prisão provisória no Brasil ou no estrangeiro da privativa de liberdade.
+ ..
+A divergência gira em torno da fórmula de cálculo aplicada pelo julgador singular ao se efetuar, no futuro, abatimento da carcerária, não se tratando, à época da decisão, de primeira concessão do benefício.
+Em concreto, iniciado o resgate da reprimenda em regime fechado no dia 15-06-2016, o agravante progrediu para o regime semiaberto em 14-09-2017, data do preenchimento do requisito objetivo. Teve homologada falta grave, operada a unificação em28-09-2018, retornou ao regime fechado. Em 05-07-2021 foi beneficiado novamente com a progressão ao regime intermediário, sobrevindo nova unificação e regressão ao regime mais gravoso em 22-06-2022.
+Ora, como o reeducando já foi beneficiado com a progressão em duas oportunidades, o cálculo passe a ser regido pelo saldo remanescente de pena e a data-base aquela em que implementado o requisito objetivo, o abatimento devendo se dar sobre a pena total.
+Com efeito, agiu com acerto o magistrado de piso, visto que, tratando-se da terceira concessão de progressão, em caso de eventual detração, deve ser abatida da pena total após o cálculo do requisito objetivo para progressão, este por sua vez obtido a partir do montante condenatório imposto e com data-base que remonte ao início de cumprimento da expiação.
+ ..
+Daí porque não há falar em reforma do decisum, o qual proporcionou o necessário ajuste no sistema informático, de modo a evitar o cômputo indevido do tempo de detração, dessa forma assegurando correção aritmética e ajustando as configurações do software à situação fático-jurídica do preso.
+Quanto à remição, indiscutível que deverão os dias remidos serem considerados como pena efetivamente cumprida, e o momento de seu lançamento será quando efetivamente assim forem declarados, independente do período aquisitivo  ..  (e-STJ fls. 11-14).
+O paciente cumpre pena privativa de liberdade de 21 anos e 1 mês de reclusão, pela prática de quatro crimes de roubo (art. 157 do CP).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois os períodos de detração e remição teriam sido descontados sobre a totalidade da pena e não sobre a fração para progressão de regime.
+Ao final, requer a concessão da ordem para que seja retificada a guia de cálculo com o desconto da remição após o cálculo da fração necessária da progressão de regime e consequente inclusão do paciente no regime semiaberto.
+Em que pese a impetrante não tenha juntado a decisão do Magistrado de primeira instância, é possível colher desta decisão que "a detração e a remição são computados como pena efetivamente cumprida e os cálculos de progressão e livramento serão gerados a partir da pena remanescente pelo SEEU, de forma automática" (Disponível em https://seeu-consulta-pub.pje.jus.br/seeu/arquivo.do _tj=c31c048f2b62f2b26f58bee8f5c13ec7fc090928dd6fb76968bbb76cc7ecf6bab8f43a5f142aa4f8).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
