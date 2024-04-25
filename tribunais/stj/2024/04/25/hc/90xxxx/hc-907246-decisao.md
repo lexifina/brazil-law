@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de AGUINALDO DA COSTA COELHO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2102028-75.2024.8.26.0000).
+Depreende-se dos autos que o Juízo de primeira instância determinou a realização de exame criminológico, a fim de analisar o pedido defensivo de progressão de regime ao paciente.
+Impetrado habeas corpus na origem, o pleito emergencial foi indeferido.
+Daí o presente writ, no qual a defesa requer "seja afastada a necessidade de realização do exame criminológico, permitindo que o juízo da execução analise imediatamente o pedido de progressão ao regime semiaberto" (e-STJ fl. 15).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus ante decisão que indefere liminar em idêntica via, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do Supremo Tribunal Federal).
+Todavia, na espécie, num juízo perfunctório, parece-me estar evidenciada situação apta a excepcionar a incidência do referido enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Acerca da controvérsia, consta da decisão de primeira instância o seguinte (e-STJ fl. 18):
+Em que pese a manifestação Ministerial, tratando-se de apenado com longa pena a cumprir (até 2029) e que cometeu crime com violência extremada em face da pessoa (tentativa de homicídio qualificada), entendo por necessária a realização do exame criminológico, a fim de se aferir a presença do requisito subjetivo indispensável ao pleito, que não se resume, a toda evidência, ao mero comportamento carcerário.
+ ..
+Embora a realização do exame criminológico, a teor do art. 96 da LEP, não seja indispensável para instruir incidente da execução criminal, ainda constitui importante instrumento da execução penal, principalmente em caso como o presente.
+Conforme o teor do art. 112 da Lei de Execução Penal, para que o reeducando faça jus ao benefício da progressão de regime, é necessário o preenchimento de requisitos objetivo e subjetivo.
+No que tange ao requisito subjetivo, de acordo com o aludido dispositivo legal, ele é aferido por meio de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+No entanto, não é vedado o indeferimento do benefício quando, a despeito de o reeducando apresentar atestado de bom comportamento carcerário, o magistrado entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado, levando em consideração fatos ocorridos durante a execução penal - v.g. o cometimento de faltas graves.
+Nesse sentido, confira-se:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. LIVRAMENTO CONDICIONAL. EXAME CRIMINOLÓGICO. GRAVIDADE DOS DELITOS PRATICADOS. LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA 439/STJ E SÚMULA VINCULANTE 26. CONSTRANGIMENTO ILEGAL PRESENTE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Com as inovações trazidas pela Lei n. 10.792/03, alterando a redação do art. 112 da Lei n. 7.210/84, afastou-se a exigência de exame criminológico para fins de progressão de regime. Nada obstante, este Superior Tribunal de Justiça firmou entendimento de que o Magistrado de 1º Grau, ou mesmo o Tribunal de origem, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento acerca do merecimento do apenado, desde que por decisão fundamentada. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+III - In casu, o eg. Tribunal de origem determinou a realização do exame criminológico para aferir o mérito para progressão do regime prisional, com base na longa pena a cumprir e na gravidade do delito cometido.
+IV - Os fundamentos utilizados, portanto, não se mostram idôneos para afastar a presença do requisito subjetivo e determinar a realização do exame criminológico. Para tanto, o Julgador deve indicar elementos concretos extraídos da execução da pena, consoante entendimento firmado por esta Corte Superior de Justiça. Precedentes.
+Habeas corpus não conhecido, concedo, todavia, a ordem de ofício, para cassar o v. acórdão proferido no writ n. 2244449-98.2018.8.26.0000, e determinar ao Juízo da Vara de Execuções Criminais da Comarca de Presidente Prudente/SP que novamente analise a possibilidade de concessão do livramento condicional, afastando a fundamentação anteriormente adotada, nos termos do disposto na Súmula n. 439/STJ e Súmula Vinculante n. 26/STF.
+(HC 485.469/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/04/2019, DJe 22/04/2019)
+No caso, o Juízo de primeira instância, ao indeferir o pedido de progressão de regime, não logrou fundamentar a negativa, deixando de invocar elementos concretos, levando em conta apenas a gravidade do delito praticado.
+Dessa forma, não havendo efetiva demonstração de demérito que justifique a denegação da progressão de regime e diante da informação de que o paciente ostenta atestado de bom comportamento carcerário, deve ser reconhecido o constrangimento ilegal.
+Diante dessas considerações, concedo a ordem liminarmente para determinar que o Juízo de primeira instância proceda à análise do requisito subjetivo para a progressão de regime somente com base em elementos relativos à execução da pena, independentemente da realização do exame criminológico .
+Publique-se. Intimem-se.
+EMENTA
