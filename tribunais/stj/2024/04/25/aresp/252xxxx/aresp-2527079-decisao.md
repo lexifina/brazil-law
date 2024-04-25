@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por R. R. TRATORES LTDA. contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 115):
+RESPONSABILIDADE CIVIL - Indenização - Danos morais - Protesto indevido de titulo já pago com os consectários da mora - Reconhecido o direito à reparação, alinhada aos parâmetros comumente adotados pela Turim Julgadora para casos da mesma natureza - Recurso provido - Sentença reformada.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 128-131).
+Nas razões do recurso especial (e-STJ, fls. 275-298), o recorrente apontou violação aos arts. 186 e 188, I, do CC; 26 da Lei 9.492/1997; 330, I, 332, 396 e 397 do CPC/1973; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, cerceamento de defesa pelo julgamento antecipado da lide, sem a produção da prova testemunhal requerida para comprovar os fatos narrados na contestação, notadamente quanto à entrega dos documentos necessários à baixa do protesto.
+Defendeu que não praticou ato ilícito, tendo em vista que o encaminhamento do título para protesto após o inadimplemento do autor agiu em exercício regular de direito; além da responsabilidade do devedor em proceder ao cancelamento do protesto após o pagamento da dívida vencida diretamente ao credor.
+Pleiteou, assim, o afastamento da condenação ao pagamento de danos morais.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Convém observar que é caso de aplicação do Enunciado Administrativo n. 2, aprovado pelo Plenário desta Casa em 9/3/2016, que disciplina: "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Com efeito, não configurado o alegado cerceamento de defesa, pois, nos termos do art. 330, I, do CPC/1973, é facultado ao juízo proferir sentença, desde que não haja necessidade de produzir provas em audiência. O art. 131 do CPC/1973, que trata do princípio da livre persuasão racional, estabelece que cabe ao magistrado avaliar as provas requeridas e rejeitar aquelas que protelariam o andamento do processo, em desrespeito ao princípio da celeridade processual.
+Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRESCRIÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. VIOLAÇÃO DO ART. 53 DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULA 282/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. A Corte Especial, no julgamento dos EREsp 1.281.594/SP, concluiu que, nas pretensões relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 do CC/2002), que prevê dez anos de prazo prescricional.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 282 do Supremo Tribunal Federal.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.889.950/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/5/2021, DJe de 30/6/2021.)
+Consta do acórdão recorrido (e-STJ, fls. 267-268, sem grifo no original):
+Inocorreu o alegado cerceamento de defesa em razão do julgamento antecipado da lide.
+Tendo em vista os princípios do livre convencimento e da discricionariedade, o magistrado não é obrigado a deferir provas que não entender necessárias ao deslinde do caso, até porque, se para a formação de seu convencimento, aquelas já constantes dos autos forem suficientes, prescindível se tornam àquelas requeridas pelas partes.
+Ademais, o embargante, no momento em que contestou a lide, deveria ter trazido aos autos os documentos essenciais à comprovação de suas alegações e que infirmariam o direito alegado pelo autor na inicial, mas o assim não procedeu. Se desrespeita o princípio da concentração da defesa (arts. 396 e 397, CPC), sequer fazendo início de prova documental que dê embasamento a sua alegação, de que o autor efetuou pagamento das duplicatas em atraso diretamente ao credor e que recebeu os documentos necessários à baixa do protesto tempestivamente, não pode, agora, pretender a anulação do v. aresto.
+Não se reconhece, portanto, a nulidade invocada.
+Dessa forma, a revisão das conclusões a que chegou o Colegiado estadual reclama a incursão no contexto fático-probatório dos autos, providência inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+Em relação ao protesto indevido da duplicada, o colegiado estadual consignou o seguinte (e-STJ, fls. 115-116, sem grifo no original):
+O autor não nega ter quitado o título com atraso, mas quando o fez, pagou os consectários da mora e diretamente ao banco emissor da duplicata (fls.14).
+Destarte, o protesto do título após seu pagamento (fls. 58/59), acrescido consectários mora, além de irregular gera o direito de indenização ao autor.
+E em sendo irregular o protesto, a comunicação e pedido de cancelamento por parte do, autor é o que basta, pois não era dele a obrigação de levantar o apontamento, mas sim de quem o fez de forma irregular.
+Nesse passo, não se pode considerar a sua culpa pelo evento danoso.
+Cabe destacar, ainda, o seguinte excerto do voto dos aclaratórios (e-STJ, fls. 268-269):
+Quanto à regularidade do protesto do título, mais uma vez o réu insiste em alegações destituídas de substrato fático.
+Alega que o autor quitou as duplicatas após a data de vencimento e diretamente a ele, ao invés de quitar o título na instituição financeira, sendo certo que os títulos já tinham sido levados a protesto e que lhe forneceu todos os documentos necessários à baixa. Afirma, ainda, que o autor perdeu tais documentos, vindo a lhe procurar e solicitar emissão de novo recibo de quitação após o efetivo protesto.
+Tais fatos contrariam as provas dos autos e foram impugnados pelo autor. A este último seria impossível fazer prova do não recebimento dos documentos necessários à baixa do protesto, posto que inexistente a prova negativa em nosso ordenamento jurídico.
+Já ao réu cabia ter sido diligente e guardado cópia do recibo que diz ter entregado ao autor e trazido aos autos tal documento, como dito acima, no momento em que apresentou sua contestação.
+Se assim não procedeu, não pode imputar ao autor sua incúria e nem mesmo fugir à responsabilidade de indenizar por protesto que restou, sim, indevido.
+Quanto ao pagamento, o autor fez prova de que efetuou o pagamento cinco dias antes de o título ser protestado (fls. 58/59), tempo suficiente para o credor notificar a instituição financeira a respeito da quitação e evitar o protesto de título pago.
+Portanto, tratando-se de protesto indevido cabe ao credor proceder à baixa do registro desabonador, além de gerar dano moral presumido, conforme jurisprudência desta Corte Superior.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM INDENIZATÓRIA. TÍTULO DE CRÉDITO, DUPLICATA. ENDOSSANTE. ENDOSSATÁRIO. AFASTADA BOA-FÉ. MANUTENÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. RESPONSABILIDADE SOLIDÁRIA. LITISCONSÓRCIO PASSIVO NECESSÁRIO. NÃO COMPROVADO. RELAÇÃO DE CONSUMO. FACULDADE DO CONSUMIDOR.
+(..)
+6. Mesmo havendo regular inscrição do nome do devedor em cadastro de órgão de proteção ao crédito, após o integral pagamento da dívida, incumbe ao credor requerer a exclusão do registro desabonador, no prazo de 5 (cinco) dias úteis, a contar do primeiro dia útil subsequente à completa disponibilização do numerário necessário à quitação do débito vencido. Precedentes.
+(..)
+9. Recurso especial desprovido, com majoração de honorários.
+(REsp n. 2.069.003/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+Precedentes.
+1.1. Esta Corte possui entendimento no sentido de que, independentemente de se tratar de protesto indevido ou de manutenção irregular de protesto, incumbe ao credor proceder à baixa do registro desabonador, bem assim que a lesão extrapatrimonial decorrente de protesto indevido de título se configura in re ipsa, prescindindo de prova. Incidência da Súmula 83/STJ.
+1.2. A Corte Estadual, com base no conjunto fático e probatório dos autos, concluiu pela ilegitimidade do protesto, de maneira que a alteração de tal conclusão demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7/STJ.
+2. A revisão da indenização por dano moral apenas é possível na hipótese de o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe reexaminar o valor fixado a título de indenização, uma vez que tal análise demanda incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7 desta Corte. Precedentes.
+2.1. A incidência do referido óbice impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa. Precedentes. 3. Nos termos do entendimento deste Tribunal Superior, rever os critérios utilizados para a fixação da multa por descumprimento de obrigação judicial, a fim de reduzir o seu valor, implica no revolvimento da matéria fático-probatória, o que é vedado pela Súmula 7/STJ. Precedentes.
+4. O conhecimento da divergência jurisprudencial exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, sob pena de incidência, por analogia, do teor da Súmula 284 do STF, por deficiência de fundamentação. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.275.494/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2019, DJe de 4/10/2019, sem grifo no original.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS POR PROTESTO INDEVIDO DE DUPLICATA PAGA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. PROTESTO INDEVIDO DE TÍTULO. BAIXA. RESPONSABILIDADE DO CREDOR. ACÓRDÃO EM PERFEITA CONSONÂNCIA COM A JURISPRUDENCIAL DESTA CORTE. DANO MORAL PRESUMIDO. SÚMULAS 7 E 83/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
