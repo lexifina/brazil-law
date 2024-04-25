@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por JORGE ALEXANDRE ESTRADA em face de decisão do TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+POLICIAL MILITAR - AÇÃO ORDINÁRIA - PEDIDO DE ANULAÇÃO DO ATO DE DEMISSÃO DO AUTOR DAS FILEIRAS DA POLÍCIA MILITAR - SENTENÇA QUE RECONHECEU A OCORRÊNCIA DA PRESCRIÇÃO QUINQUENAL - APELO BUSCANDO A REFORMA DA DECISÃO DE PRIMEIRO GRAU - PUNIÇÃO APLICADA HÁ MAIS DE VINTE ANOS - ALEGAÇÃODE NÃO INCIDÊNCIA DA PRESCRIÇÃO CONTRA CRIMESPRATICADOS CONTRA A HUMANIDADE - INEXISTÊNCIA DE QUALQUER PROVA A DEMONSTRAR A PRÁTICA DE AFRONTA A DIREITO FUNDAMENTAL - ARTIGO 1º DO DECRETO Nº 20.910/32 - PRESCRIÇÃO QUINQUENAL RECONHECIDA - RECURSO DE APELAÇÃO QUE NÃO COMPORTA PROVIMENTO. O prazo para propositura de ação de reintegração de policial militar é de 5 (cinco) anos, a contar do ato de exclusão, nos termos do Decreto n. 20.910/32, mesmo na hipótese de ato nulo, conforme pacífica jurisprudência dos Tribunais Superiores.
+Embargos de declaração rejeitados.
+A decisão agravada negou seguimento ao especial sob a compreensão de que a questão federal suscitada não estaria prequestionada.
+Contra tal compreensão sobreveio o presente agravo.
+É o relatório. Decido.
+O recurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais.
+Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+Sob esse aspecto, não se conhece do recurso especial em que haja (a) "citação genérica de dispositivo de lei tido como violado" (AgInt no REsp n. 1.308.906/SP, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe de 30/6/2022), no qual (b) impossível identificar se os dispositivos foram ou não colacionados meramente a título argumentativo (cf. AgInt no REsp. 1.615.830/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/06/2018; AgInt no AREsp n. 1.890.951/SP, rel. Min. MANOEL ERHARDT (Desembargador Convocado do Trf5), PRIMEIRA TURMA, DJe de 23/6/2022). De forma correlata, (c) "a mera citação de precedentes nas razões recursais não caracteriza dissídio jurisprudencial" (AgInt no AREsp n. 2.024.013/MS, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17/6/2022).
+Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
