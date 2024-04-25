@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAN MARI NO EMPREENDIMENTOS IMOBILIARIOS LTDA, com fundamento no art. 105, inciso III, alínea a , da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A questão debatida nos autos, qual seja, "definir se há responsabilidade tributária solidária e legitimidade passiva do credor fiduciário na execução fiscal em que se cobra IPTU de imóvel objeto de contrato de alienação fiduciária", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos Recursos Especiais 1.949.182/SP, 1.959.212/SP, 1.982.001/SP, sob o rito dos recursos repetitivos (Tema 1.158/STJ).
+Quando da afetação, determinou-se a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Publicado o acórdão paradigma, caberá ao Tribunal a quo realizar eventual juízo de conformação nos termos do art. 1.040 do CPC ao que vier a ser decidido no recurso representativo de controvérsia.
+Somente após realizada essa providência, com o consequente esgotamento da instância ordinária, é que o recurso especial deverá ser remetido ao Superior Tribunal de Justiça para exame das matérias não prejudicadas pelo eventual juízo de conformação, conforme prevê o § 2º do art. 1.041 do CPC.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo código.
+Publique-se. Intimações necessárias.
+EMENTA
