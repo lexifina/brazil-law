@@ -1,0 +1,22 @@
+DECISÃO
+JESUINO RODRIGUES DE SOUZA DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 1504397-54.2022.8.26.0132.
+Consta dos autos que o paciente foi condenado pela prática do crime de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, seja reconhecida a atenuante da confissão espontânea, bem como fixado o regime inicial semiaberto de cumprimento de pena.
+Decido.
+I. Atenuante da confissão espontânea
+Quanto ao pretendido reconhecimento da atenuante da confissão espontânea, certo é que este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Exemplificativamente: HC n. 358.679/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 31/8/2016.
+Confira-se, ainda, o disposto na Súmula n. 545 desta Corte Superior: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+No entanto, verifico que, no caso, as instâncias ordinárias, em nenhum momento, fizeram menção às declarações prestadas pelo réu para concluir pela sua condenação no tocante ao crime de tráfico de drogas. Ao contrário, o Juiz sentenciante consignou que, em juízo, o paciente "disse que não e traficante e trabalhava na usina. Os policiais acabaram com a sua vida. O local é ponto de venda de droga. Era viciado em crack" (fl. 23).
+Na sequência, novamente fez menção ao fato de que "o réu negou em juízo que estaria traficando e afirmou que os policiais armaram a situação de traficância contra ele, pois estava no local para comprar drogas e não para traficar". Em seguida, ponderou que "Essa alegação do réu não merece prosperar, pois não comprovou a suposta perseguição a ele, pelos policiais. Como bem observado pelo Ministério Público, o réu foi abordado dias depois também por crime de tráfico, por policiais diferentes" (fl. 23).
+Na mesma linha argumentativa, destacou a Corte estadual: "Em Juízo sob o crivo do contraditório, o ora sentenciado negou os fatos, admitindo, contudo, ser viciado em cocaína, sob a forma de "crack". Alegou, no mais, ter sido coagido pelos Policiais Militares. Sua versão restou, todavia, isolada no conjunto probatório dos autos" (fl. 34).
+Assim, uma vez que os depoimentos prestados pelo paciente não foram utilizados para a formação do convencimento dos julgadores - que, conforme visto, se valeram dos demais elementos fático-probatórios colacionados aos autos para concluir pela condenação -, não identifico o apontado constrangimento ilegal de que estaria sendo vítima nesse ponto.
+Ainda que assim não fosse, não há como se olvidar que, consoante o enunciado na Súmula n. 630 do STJ: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio."
+No caso, conforme visto, o acusado não confessou que estaria traficando drogas - mas, tão somente, admitiu que as substâncias entorpecentes seriam para consumo próprio -, circunstância que reforça a impossibilidade de que seja reconhecida, em seu favor, a atenuante prevista no art. 65, III, "d", do CP.
+Diante de tais considerações, deve ser mantida inalterada a reprimenda a ele imposta.
+II. Regime inicial de cumprimento de pena
+No que tange ao regime de cumprimento de pena, também não identifico nenhuma ilegalidade manifesta de que estaria sendo vítima o acusado. Isso porque, embora haja sido definitivamente condenado a reprimenda inferior a 8 anos de reclusão, verifico que o Juiz sentenciante fundamentou a imposição do regime inicial fechado no fato de ele possuir maus antecedentes (circunstância que, inclusive, ensejou a fixação da pena-base acima do mínimo legal), elemento que, de fato, evidencia ser o modo inicial fechado o mais adequado para a prevenção e a repressão do delito praticado, ex vi do disposto no art. 33, § 2º, "a", e § 3º, do CP.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
