@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial, interposto por NOGAROLI MADERO CONTAINER COMERCIO DE ALIMENTOS LTDA e OUTRAS, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO , assim ementado:
+TRIBUTÁRIO. PROGRAMA DE RETOMADA DO SETOR DE EVENTOS. PERSE. L 14.148/2021. ALÍQUOTA ZERO. IRPJ, CSLL, PIS E COFINS. EXIGÊNCIA DE INSCRIÇÃO NO CADASTUR. PORTARIAS DO MINISTÉRIO DO TURISMO. RESTAURANTES, CAFETERIAS, BARES E SIMILARES.
+As turmas de matéria tributária deste Tribunal Regional Federal da Quarta Região mantêm jurisprudência indicando que os restaurantes, cafeterias, bares e similares que não constavam no CADASTUR como prestadores de serviços turísticos ao tempo da publicação da L 14.148/2021 não podem se enquadrar no PERSE para beneficiar-se da redução das alíquotas do IRPJ, CSLL, PIS-PASEP e COFINS prevista na L 14.148/2021 (fl. 230).
+Os embargos de declaração opostos foram rejeitados.
+A parte recorrente aponta violação aos arts. 489, § 1º, IV, 493 e 1.022, I e II, do CPC; arts. 2º, § 2º, e 4º da Lei 11.148/2021; arts. 21 e 22 da Lei 11.711/2008; arts. 7º, 9º, I, 97, II, e 99 do CTN.
+Sustenta, de início, a existência de omissões e obscuridades no acórdão recorrido. Assevera, de outra parte, em síntese, que a Portaria ME n. 7.163/2021 criou limitações ilegais ao benefício previsto na Lei n. 14.148/2021 (Programa Emergencial de Retomada do Setor de Eventos - PERSE), violando o princípio da legalidade. Explicita que o acórdão recorrido "viola a hierarquia das normas, na medida em que a Lei n.º 11.771/2008 não obriga os bares e restaurantes a se inscreverem o CADASTUR e a Lei nº 14.148/2021 não restringe o benefício a contribuintes que já estavam cadastrados no Ministério do Turismo quando da publicação da lei" (fl. 295).
+Apresentadas as contrarrazões, o recurso foi admitido pelo Tribunal de origem.
+É o relatório.
+Decido.
+A irresignação não ultrapassa a admissibilidade.
+Inicialmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, motivo pelo qual não há como considerar a existência de omissão quanto aos pontos suscitados nos embargos de declaração pela ora agravante.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, e § único, do CPC/2015.
+No mais, embora a parte recorrente alegue violação de normas infraconstitucionais, o exame do recurso demanda a interpretação de norma que não se enquadra no conceito de lei federal (Portaria ME n. 7.163/2021).
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PODER DE POLÍCIA. POSSIBILIDADE DE DELEGAÇÃO. CONTROVÉRSIA QUE EXIGE ANÁLISE DA PORTARIA N. 213/2007 DO INMETRO. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. IMPOSSIBILIDADE. EXISTÊNCIA DE DELEGAÇÃO DA ATIVIDADE DE POLÍCIA. SÚMULA 7/STJ.
+1. A conclusão do acórdão de origem está fundamentada, essencialmente, no conteúdo disposto na Portaria n. 213/2007 do Inmetro. Dessa forma, o exame do especial requer a interpretação da referida portaria, o que é inviável na via eleita, tendo em vista que esse ato normativo não se enquadra no conceito de tratado ou lei federal de que cuida o art. 105, III, "a", da CF/1988.
+2. Para afastar o entendimento a que chegou a instância ordinária, de modo a albergar as peculiaridades do caso e verificar a pretensão recursal a fim de considerar a inexistência de delegação de atividade inerente ao poder de polícia, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos. A providência mostra-se inviável em recurso especial, conforme entendimento assentado na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento (AgInt no REsp n. 1.419.566/CE, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/9/2020, DJe de 29/9/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. INSTITUIÇÃO DE ENSINO SUPERIOR. EXPEDIÇÃO DE DOCUMENTOS CONCERNENTES À VIDA ACADÊMICA DO ALUNO. COBRANÇA. ALEGAÇÃO DE OFENSA AOS ARTS. 1º, § 5º, DA LEI N. 9.870/99, 39, V, E 51, IV, DO CDC. NECESSIDADE DE INTERPRETAR ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE TRATADO OU LEI FEDERAL.
+1. Em que pese ter a parte recorrente alegado ofensa aos arts. 1º, § 5º, da Lei n. 9.870/99; 39, V, e 51, IV, do CDC, verifica-se que o exame da controvérsia, tal como enfrentada pela Corte de origem, demanda a interpretação da Portaria Normativa n. 40/2007 do MEC e do Parecer CNE/CES n. 164/2009, atos normativos estes que não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. Agravo interno desprovido (AgInt no REsp n. 1.490.498/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/8/2018, DJe de 23/8/2018).
+Por fim, "é vedado o exame da alegação de violação do art. 97 do Código Tributário Nacional (CTN) pelo Superior Tribunal de Justiça (STJ) por ser esse dispositivo mera reprodução de preceito constitucional (art. 150, I, da Constituição Federal), que trata do princípio da legalidade tributária)" (AgInt no REsp n. 1.717.406/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
