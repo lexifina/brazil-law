@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso em mandado de segurança, interposto por NAGIB ANTAR E OUTROS, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Mandado de Segurança. Precatório. Juros moratórios em continuação. Moratória constitucional. Inadimplemento de parcelas.
+Juízo de retratação.
+Excluem-se os juros no período da moratória constitucional, sendo possível o seu cômputo em caso de inadimplemento das parcelas previstas para o pagamento. A contagem deve ocorrer a partir do inadimplemento de cada parcela, não sendo admissível retroagir-se para a data da abertura da moratória.
+Segurança denegada.
+A parte recorrente alega, em síntese, a incompetência do Tribunal de origem "para determinar a exclusão do cômputo dos juros moratórios e compensatórios em continuação e alterar os índices de correção monetária no pagamento de precatórios" (fl. 360). Afirmam "que seria inviável o exercício do juízo de retratação em sede do recurso extraordinário interposto pelo Município de São Paulo contra decisão proferida no exercício da função administrativa do Presidente do Tribunal, obstado seu seguimento em razão dos Enunciados de Súmulas nºs 311/STJ e 733/STF" (fl. 402).
+O MUNICÍPIO DE SÃO PAULO apresentou contrarrazões.
+Parecer do Ministério Público Federal pelo não provimento do recurso.
+É o relatório.
+Decido.
+De início, ao contrário do que afirma a parte recorrente, não há ilegalidade no ato do Presidente do Tribunal de origem de excluir os juros moratórios e compensatórios em continuação incidentes no precatório em comento.
+Além disso, a parte recorrente não sustenta exclusão indevida; tão somente combate a exclusão.
+Conforme pontuado pelo Parquet Federal, o "Superior Tribunal de Justiça possui entendimento no sentido de que o Presidente de Tribunal de Justiça local tem competência para corrigir erro de cálculo, nos termos do disposto no art. 1º-E da Lei 9.494/97,incluído pela Medida Provisória 2.180-35/2001, em que se lhe permite, de ofício ou a requerimento das partes, proceder à revisão das contas elaboradas para aferir o valor dos precatórios antes de seu pagamento ao credor" (fl. 402).
+A propósito:
+CONSTITUCIONAL E ADMINISTRATIVO. PRECATÓRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO DO PRESIDENTE DO TRIBUNAL NO PROCESSAMENTO DE PRECATÓRIOS. POSSIBILIDADE. SEQUESTRO DE RECURSOS FINANCEIROS. INCIDÊNCIA DE JUROS MORATÓRIOS. PAGAMENTO QUE NÃO DESRESPEITOU O PRAZO PREVISTO NA CONSTITUIÇÃO. NÃO CARACTERIZAÇÃO DA MORA. JUROS COMPENSATÓRIOS EM CONTINUAÇÃO.
+1. O Presidente do Tribunal local é competente para corrigir erro de cálculo, nos termos do disposto no art. 1º- E da Lei 9.494/97, incluído pela Medida Provisória 2.180-35/2001, em que se lhe permite, de ofício ou a requerimento das partes, proceder à revisão das contas elaboradas para aferir o valor dos precatórios antes de seu pagamento ao credor.
+2. Consoante reiterada jurisprudência do STJ, no tocante à incidência de juros de mora na atualização de precatório complementar, a Primeira Turma do Supremo Tribunal Federal, ao julgar, em 17.9.2002, o Recurso Extraordinário n. 305.186/SP, Rel. Min. Ilmar Galvão, publicado no DJ 18.10.2002, Seção I, pág. 49, decidiu não serem devidos os juros moratórios no período compreendido entre a data de expedição e a do efetivo pagamento de precatório judicial, no prazo constitucionalmente estabelecido, à vista da não-caracterização, na espécie, de inadimplemento por parte do Poder Público.
+3.No tocante aos juros compensatórios devidos em continuação, o mandado de segurança erige-se contra decisão do Presidente do Tribunal local, que, em sede de pedido de sequestro de verbas municipais, para fins de satisfação de crédito relativo ao terceiro décimo de precatório, submetido ao parcelamento previsto na Emenda Constitucional nº 30, de 13 de setembro de 2000, determinou a exclusão de juros em continuação (moratórios e compensatórios) no período da moratória, indevidamente incluídos pelo Departamento de Precatórios do Tribunal de Justiça do Estado de São Paulo - DEPRE.
+(..) (RMS n. 30.268/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/2/2011, DJe de 4/3/2011).
+No mesmo sentido, são as decisões monocráticas: REsp n. 2.014.671, Ministra Assusete Magalhães, DJe de 28/02/2023, PET no RMS n. 48.403, Ministra Regina Helena Costa, DJe de 18/10/2021.
+Outrossim, ao apreciar o feito, o Tribunal de origem, em juízo de retratação, consignou o seguinte:
+Excluem-se, portanto, os juros no período da moratória constitucional, tornando-se possível, porém, o seu cômputo em caso de inadimplemento por parte da fazenda pública devedora em relação às parcelas previstas para o pagamento. (..)
+Desse modo, os juros moratórios devem ser contados em relação a cada parcela inadimplida, a partir de seu vencimento, excluindo-se da base de cálculo os juros moratórios antes computados, para evitar-se a capitalização (fl. 342).
+Sendo assim, o julgado atacado não destoa da orientação jurisprudencial do STJ e STF, quanto à não incidência de juros moratórios durante o prazo constitucional, conforme se depreende do item 2 da ementa supratranscrita.
+Por fim, ainda cabe destacar que, neste caso, não incidem os enunciados sumulares (311/STJ e 733/STJ) aventados pelo recorrente. Nos moldes registrados no parecer do Ministério Público Federal , estes autos versam sobre mandado de segurança, portanto, decisão recorrível. E mais, "consequentemente, possível ao órgão colegiado, em juízo de retratação, consoante previsto pelo art. 543-B, § 3º, do CPC, em sede do recurso extraordinário obstado, denegar a segurança, conformando seu entendimento ao do Supremo Tribunal Federal" (fl. 405).
+Isso posto, com fundamento no art. 34, XVIII, b, do RISTJ e na Súmula 568/STJ, nego provimento ao presente Recurso Ordinário.
+Intimem-se.
+EMENTA
