@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual o CONSELHO REGIONAL DE ENFERMAGEM DO RIO DE JANEIRO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 199/202):
+APELAÇÃO. EXIBIÇÃO DE DOCUMENTOS. COREN-RJ. PRONTUÁRIO MÉDICO. DEVER DE SIGILO. EXCEÇÕES NÃO COMPROVADAS. MANUTENÇÃO DA SENTENÇA.
+1. Apelação interposta em face de sentença que, nos autos da ação de procedimento comum, julgou improcedente o pedido, na forma do art. 487, I, do CPC.
+2. A controvérsia recursal consiste na análise do direito da recorrente, Conselho Profissional, de obter cópia de prontuário médico para fins de fiscalização, sem autorização de paciente, tendo em vista o seu caráter sigiloso assegurado pelo disposto no art. 5º, inciso X, da CRFB/88.
+3. O prontuário médico, segundo a Resolução CFM nº 1.638/2002, consiste no documento elaborado por equipe multiprofissional de saúde onde consta a história do paciente enquanto internado em hospital ou similar, que detalha os procedimentos realizados e a evolução do mesmo.
+4. De acordo com o Código de Ética Médica (Res. 1.931/2009), arts. 89 e 90, é vedado ao médico liberar cópias do prontuário sob sua guarda, salvo quando autorizado pelo paciente, em sua própria defesa, ou quando requisitado judicialmente. O direito ao sigilo também encontra-se positivado na Constituição da República (CRFB/88), em seu art. 5º, inciso X, cuja norma garante a inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas.
+5. Muito embora o sigilo não seja absoluto, em vista dos documentos apresentados, o Conselho apelante não demonstrou nenhum indício de irregularidade e/ou interesse coletivo para ter acesso aos documentos sigilosos solicitados. A denúncia que o recorrente afirma ter recebido da paciente, sequer foi juntada aos autos.
+6. Não configurada nenhuma das hipóteses de exceção previstas no Código de Ética Médica - Res.1.931/2009 (motivo justo; autorização expressa do próprio paciente; ordem judicial; defesa própria) a justificar a invasão à privacidade da paciente mediante acesso aos seus prontuários médicos. A ausência de demonstração de justa causa para acesso ao prontuário médico da paciente também afasta a alegação de poder de polícia do Conselho Profissional, previsto na Lei nº 5.905/73. Precedente: TRF2, 6ª Turma Especializada, AC 5046559-91.2019.4.02.5101, Rel. Des. Fed. GUILHERME COUTO DE CASTRO, DJF2R 20.5.2020.
+7. Considerando a existência de condenação em honorários advocatícios na origem, bem como o não provimento do recurso interposto, cabível a fixação de honorários recursais no montante de 1% (um por cento), que serão somados aos honorários advocatícios anteriormente arbitrados.
+8. Apelação não provida.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 2º e 15, II e V, da Lei 5.905/1973, argumentando, em síntese, que exigir a prévia autorização do paciente para que o Conselho possa fiscalizar a assistência de enfermagem prestada e registrada nos documentos oficiais significa esvaziar o seu poder de polícia e inviabilizar o exercício de sua atividade fiscalizatória.
+A parte adversa apresentou contrarrazões (fls. 273/293).
+O recurso não foi admitido na origem (fls. 341/342), razão da interposição do recurso ora examinado.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+No mérito recursal, o Tribunal de origem assim se manifestou sobre o tema: "Nessa linha de raciocínio, a r. sentença merece ser mantida pelos próprios fundamentos, pois o caso em comento não configura nenhuma das hipóteses de exceção prevista no Código de Ética Médica - Res.1.931/2009 (motivo justo; autorização expressa do próprio paciente; ordem judicial; defesa própria) a justificar a invasão à privacidade da paciente mediante acesso aos seus prontuários médicos" (fl. 200).
+Verifico que a lide foi solucionada com fundamento na Resolução 1.931/2009 (Código de Ética Médica).
+Consoante pacífica jurisprudência desta Corte Superior, o conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal, deve ser considerado em seu sentido estrito, sendo inadmissível o recurso especial contra decisão fundada em ato normativo infralegal.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FILHA DE MILITAR. REINCLUSÃO EM FUNDO DE SAÚDE DA AERONÁUTICA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES.
+ ..
+III - Conforme entende a jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+ ..
+V - Agravo interno improvido. (AgInt no REsp n. 1.865.474/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/2/2021, DJe de 12/2/2021 - sem destaques no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INSTRUÇÃO NORMATIVA. ANÁLISE. INVIABILIDADE. IMPOSTO DE RENDA RETIDO NA FONTE (IRRF). NEGOCIAÇÃO DE ORTN"S ANTES DO VENCIMENTO. DISCIPLINA DE INCIDÊNCIA. INAPLICABILIDADE.
+ ..
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+ ..
+6. Recurso especial conhecido em parte e, nessa extensão, provido, a fim de restabelecer os efeitos da sentença. (REsp n. 1.404.038/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe de 29/6/2020 - sem destaques no original.)
+Ainda que superado tal óbice, desconstituir as premissas do acórdão recorrido de que "a denúncia que o recorrente afirma ter recebido da paciente, sequer foi juntada aos autos" e de que, "sendo a denunciante a principal interessada na investigação de eventual imprudência, negligência, imperícia em face dos profissionais da enfermagem infrato res, bastava que a mesma solicitasse os seus próprios prontuários à Casa de Saúde" (fl. 200) implicaria, necessariamente, o reexame dos fatos e das provas carreados aos autos, providência inviável na via especial, ante o óbice da Súmula 7/STJ. Precedentes: AgInt no AREsp 2.075.895/RN, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/5/2022, DJe 1º/6/2022; AgInt no AREsp 1.896,363/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/3/2022, DJe 31/3/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
