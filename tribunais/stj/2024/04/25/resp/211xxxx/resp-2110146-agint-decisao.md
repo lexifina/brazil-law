@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto contra a decisão que, com fundamento nos arts. 932, III,do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, não conheceu do Recurso Especial da parte autora.
+Sustenta a Agravante, em síntese, violação ao art. 1.022 do CPC, porquanto o tribunal de origem foi omisso na análise das alegações apresentadas.
+Alega não ser necessário o revolvimento do acervo probatório, mas sim, dar a devida prestação jurisdicional ao presente caso, reconhecendo a regularidade formal do processo.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 913e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil, verifica-se o desacerto das mencionadas decisões, razão pela qual de rigor a reconsideração.
+Verifico que o deslinde da presente controvérsia diz respeito à discussão de tema afetado ao rito dos recursos especiais repetitivos desta Corte, em sessão da Primeira Seção, nos Recursos Especiais 2.082.395/SP e 2.098.629/SP, com determinação da suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou nesta Corte Superior, sobre a seguinte tese: "(in)admissibilidade de recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício previdenciário por incapacidade (aposentadoria por invalidez, auxílio-doença ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente)". (ProAfR no REsp n. 2.082.395/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 9/4/2024, DJe de 12/4/2024).
+Nesse contexto, esta Corte adota a orientação no sentido de se determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia, em observância ao princípio da economia processual e à própria finalidade da sistemática dos repetitivos, consoante acórdão assim ementado:
+PROCESSUAL CIVIL. ATUALIZAÇÃO MONETÁRIA DAS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. ARTIGO 1o-F DA LEI 9.494/1997. LEI 11.960/2009. MATÉRIA AFETADA À PRIMEIRA SEÇÃO DO STJ PELO RITO DO ARTIGO 543-C CPC. SOBRESTAMENTO. NECESSIDADE.
+1. Recurso especial que contém discussão a respeito da forma de atualização monetária das condenações impostas à Fazenda Pública, nos termos do artigo 1o-F da Lei 9.494/1997, com as alterações previstas na Lei 11.960/2009.
+2. Ocorre que a matéria foi afetada à Primeira Seção do STJ pelo rito do artigo 543-C do CPC/73 (REsp 1.495.144/RS, 1.495.146/MG e 1.492.221/PR, Rel. Ministro Mauro Campbell Marques, DJe 11/11/2014), bem assim é objeto do RE 870.947/SE, Rel. Ministro Luiz Fux, no qual foi reconhecida a existência de repercussão geral.
+3. Assim, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade da Lei 11.672/2008, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos modificativos.
+(EDcl nos EDcl no AREsp 575.964/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 24/06/2016).
+Posto isso, nos termos do § 2º do art. 1.021 do Código de Processo Civil, RECONSIDERO a decisão de fls. 869/881e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 889/907e, e, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, o procedimento previsto no art. 1.040 do Código de Processo Civil.
+Publique-se e intimem-se.
+EMENTA
