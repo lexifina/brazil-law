@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SÉRGIO HABIB, contra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 02/04/2024.
+Concluso ao gabinete em: 22/04/2024.
+Ação: de despejo por falta de pagamento cumulada com cobrança de aluguéis, ajuizada por ADMINISTRADORA PMV LTDA em desfavor de EPC DISTRIBUIDORA DE VEÍCULOS LTDA (locatária) e de fiadores SÉRGIO HABIB e SRR EMPREENDIMENTOS IMOBILIÁRIOS LTDA (fiadores).
+Sentença: decretou a extinção da pretensão de despejo, sem exame do mérito, e, no mérito, julgou procedentes os pedidos iniciais para: a) resolver o contrato de locação firmado entre as partes; b) condenar requeridas, em solidariedade passiva, ao pagamento dos aluguéis e acessórios vencidos e não pagos, decorrentes do contrato de locação ora resolvido, a partir do mês de outubro de 2017, até a data da efetiva desocupação (19/10/2018), devidamente acrescidos de correção monetária e juros moratórios, estes no patamar de 1% (um por cento) ao mês, ambos a contar dos respectivos vencimentos, por se tratar de mora "ex re", bem como da multa contratual, no importe de 10% (dez por cento).
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+"APELAÇÃO. DIREITO PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CONTINUIDADE DAS AÇÕES DE CONHECIMENTO QUE POSSAM RESULTAR EM UM TÍTULO EXECUTIVO. CITAÇÃO VÁLIDA DE DEVEDOR SOLIDÁRIO. INTERRUPÇÃO DA PRESCRIÇÃO. FIADOR RESPONDE SOLIDARIAMENTE COM O LOCATÁRIO.
+1. O artigo 6º, §1º da Lei 11.101/2005 prevê que independentemente de processo de recuperação judicial, devem ter continuidade as ações de conhecimento que possam resultar em um título executivo inclusive com relação a fiadores do contrato de locação.
+2. A citação válida de um dos devedores solidários interrompe a prescrição em relação aos demais.
+3. O fiador responde solidariamente com o locatário pelo cumprimento de todas as obrigações previstas no contrato de locação, responsabilidade que, à míngua de disposição contratual diversa, se estende até a efetiva devolução do imóvel, especialmente quanto ao pagamento do aluguel e outros encargos não pagos pelo locatário.
+4. Recurso desprovido." (e-STJ, fls. 57 e 58)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 17, 313, V, "a", 330, II e III, 337, IX, 485, VI, 489, §1º, IV, e 1.022, Parágrafo Único, II, do CPC, sustentando: a) omissão e negativa de prestação jurisdicional, ao não serem apreciadas as questões relativas à prescrição intercorrente, à alegação de prejudicialidade externa e à demora da citação pela interferência da agravante, com sua conduta, ao não dar o correto andamento ao processo, e não pelo mecanismo da justiça; b) existência de entendimento jurisprudencial acerca de que "quando o plano de recuperação judicial aprovado em assembleia prevê a liberação de garantias, todos os credores têm de se submeter à referida liberação, inclusive os credores que votaram contra ou não votaram na aprovação do acordo novativo." (e-STJ, 1.165), sendo referida decisão mais recente do que a Súmula no 581 do STJ, que trata da mesma questão; c) a novação do crédito aqui buscado, e, consequentemente, a perda do interesse de agir da agravada .
+RELATADO O PROCESSO, DECIDE-SE.
+- Da omissão e negativa de prestação jurisdicional
+A razão recursal que envolve a suposta omissão do Tribunal de origem reside na alegação de que este, apesar de provocado por meio dos embargos declaratórios opostos pelo recorrente, não se manifestou quanto aos pedidos relacionadosà prescrição intercorrente, à alegação de prejudicialidade externa e à demora da citação pela interferência da agravante, com sua conduta, ao não dar o correto andamento ao processo, e não pelo mecanismo da justiça.
+Da análise dos autos, consta-se que, quanto aos pontos suscitados, a Corte local nada consignou de objetivo, valendo-se, tão somente, do que já havia sido decidido no acórdão embargado.
+Malgrado o posicionamento da Corte local, constata-se que, de fato, não foram analisados os pontos suscitados pelo recorrente nos embargos declaratórios opostos.
+Desta maneira, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanada a omissão suscitada, tendo-se como prejudicadas as demais questões ventiladas no presente recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para anular o acórdão dos embargos de declaração e determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pelo recorrente (e-STJ fls. 1.134/1.141).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUEL. ARTS. 489 E 1022, II, DO CPC. OMISSÃO. OFENSA CONFIGURADA.
+1. Ação de rescisão contratual cumulada com restituição de valores e compensação por danos morais.
+2. Há ofensa ao art. 1022, II, CPC/15 quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Agravo conhecido. Recurso especial conhecido e provido.
