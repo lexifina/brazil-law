@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de agravo, interposto por GISLEINE CHEPAK ABREU, em face de decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 136, e-STJ):
+APELAÇÃO CÍVEL. REGISTROS PÚBLICOS. SUSCITAÇÃO DE DÚVIDA. ESCRITURA PÚBLICA DE INVENTÁRIO E PARTILHA. RENÚNCIA A HERANÇA. EXISTÊNCIA DE INDISPONIBILIDADE DE BENS. ART. 14, § 1º DO PROVIMENTO 39/CNJ/2014. IMPOSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+Da leitura atenta da parte final do artigo 14, § 1º do provimento 39/CNJ/2014, constata-se que há expressa previsão quanto a possibilidade de recusa do registro do direito, no Registro de Imóveis, enquanto vigente a restrição de indisponibilidade de bens.
+Além disso, nos termos do art. 1.784 do Código Civil, com a abertura da sucessão, a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários, ou seja, na data do falecimento do pai da apelante, a herança já se encontram no patrimônio jurídico dos herdeiros.
+Assim sendo, tem-se que as indisponibilidades da renunciante é óbice para o registro da escritura de inventário e partilha de bens acompanhada de escritura pública de renúncia de herança.
+Os embargos de declaração opostos foram rejeitados na origem pelo acórdão de fls. 156-161, e-STJ.
+Nas razões de recurso especial (fls. 169-182, e-STJ), a recorrente alega, além de dissídio jurisprudencial, violação ao artigo 214 da Lei de Registros Públicos. Sustenta, em síntese, que a existência de ordem de indisponibilidade dos bens da recorrente não obsta o registro do inventário, tendo em vista que houve a renúncia à herança, de maneira que o bem não compõe o patrimônio da herdeira e, assim, não pode ser atingido pela referida ordem.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se seguimento ao recurso, dando ensejo na interposição do agravo do às fls.207-214, e-STJ.
+Não apresentada contraminuta.
+O Ministério Público Federal, em parecer de fls. 232-324, e-STJ, opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Na espécie, o Tribunal de origem manteve o deferimento do procedimento de suscitação de dúvida instaurado pelo titular do cartório de registros de imóveis, acerca da impossibilidade de registro do título apresentado, em razão de haver indisponibilidade de bens cadastrada em nome da renunciante dos direitos hereditários, consoante denotam os seguintes excertos do acórdão recorrido (fls. 139-141, e-STJ):
+ ..
+Em um primeiro momento, cabe pontuar que, ao analisar a dúvida suscitada, nos termos da Lei nº 6.015/1973, o Poder Judiciário deve-se ater-se à análise da legalidade do ato, sem adentrar na análise de validade dos documentos apresentados, visto que tal procedimento detém natureza administrativa.
+Deve-se atentar que o registro público precisa atender aos princípios norteadores da veracidade e da segurança jurídica, considerando que o registro imobiliário deve espelhar a realidade, protegendo a confiança do público na autenticidade e eficácia dos registros públicos.
+Deste modo, a dúvida suscitada pelo Registrador tem por guarida o art. 14, § 1º do Provimento nº 39 do CNJ, que assim dispõe:
+ ..
+Da leitura atenta da parte final do artigo citado, nota-se que há expressa previsão quanto a possibilidade de recusa do registro do direito no Registro de Imóveis, enquanto vigente a restrição de indisponibilidade de bens.
+Além disso, no que tange a alegação de que, se a herdeira renuncia a herança, o bem não passa a compor o seu patrimônio, daí porque eventual ordem de indisponibilidade não pode atingir esse bem, não merece prosperar.
+Isso porque, nos termos do art. 1.784 do Código Civil, com a abertura da sucessão, a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários, ou seja, na data do falecimento do pai da apelante, a herança já se encontram no patrimônio jurídico dos herdeiros.
+Nesse contexto, pondera-se que, eventuais direitos sobre patrimônio herdado, passa a integrar, desde logo, o conteúdo patrimonial do respectivo sucessor.
+Por conta desse efeito, o referido bem se torna parte do patrimônio do herdado desde então, independentemente de aceitação, renúncia ou ato registral, sendo que o último se apresenta apenas como requisito necessário para garantir a publicidade da sucessão e viabilizar futuros atos de alienação.
+ ..
+Assim sendo, tem-se que as indisponibilidades da renunciante é óbice para o registro da escritura de inventário e partilha de bens, motivo pelo qual nego provimento ao recurso, mantendo incólume a sentença.  grifou-se
+Em sede de embargos de declaração, assim consignou (fl.159, e-STJ):
+ ..
+Note-se, a decisão embargada esclareceu que, além de se ater com os elementos extrínsecos ao título, o Registrador, por força do art. 14, § 1º do Provimento nº 39 do CNJ, deve "promover prévia consulta à base de dados da Central Nacional de Indisponibilidade de Bens - CNIB, consignando no ato notarial o resultado da pesquisa e o respectivo código gerado (hash)".
+Além disso, o citado provimento deixa claro que, no caso de existência da ordem de indisponibilidade, o interessado poderá ter como consequência a impossibilidade de registro do direito no Registro de Imóveis, enquanto vigente a restrição, que é o caso dos autos.
+Assim, no caso em espécie, a decisão embargada esclareceu que, a indisponibilidade de bens da renunciante, ora embargante, é óbice para o registro da escritura de inventário e partilha de bens.  grifou-se
+Da leitura do excerto transcrito, verifica-se que a Corte de origem fundamentou que há previsão legal expressa quanto à possibilidade de recusa do registro se vigente a indisponibilidade dos bens, bem como que o princípio da saisine implica a transmissão da herança aos herdeiros desde logo.
+Tais fundamentos, suficientes para manutenção do decisum - no ponto - não foram rebatidos nas razões do recurso especial.
+Assim, diante da deficiência na fundamentação recursal pela ausência de combate aos fundamentos que se mostram suficientes para manter o decisum recorrido, bem como as razões recursais dissociadas do que ficou decidido pela Corte de origem demonstram deficiência na fundamentação do recurso, incidindo, por analogia, as Súmulas 283 e 284 do STF.
+Nesse mesmo sentido, transcreve-se os seguintes precedentes:
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.  ..  3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal. 4. Agravo regimental não provido. (AgRg no REsp 1507662/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)  grifou-se
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROTESTO. DUPLICATA. RECEBIMENTO DE MERCADORIAS. MOTIVAÇÕES. FUNDAMENTO NÃO REFUTADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 283 E 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.  ..  2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, configura deficiente fundamentação do recurso especial, de acordo com as súmulas 283 e 284/STF.  ..  4. Agravo regimental não provido. (AgRg no REsp 1286749/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe 29/06/2015)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE COM ANIMUS DOMINI (POSSE AD USUCAPIONEM). FUNDAMENTOS DO ESPECIAL DISSOCIADOS DO ACÓRDÃO RECORRIDO. SUMULAS 283 E 284 DO STF. DESCONSTITUIÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO. 1. Estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, tem incidência as Súmulas 283 e 284 do STF.  ..  3. Agravo regimental desprovido. (AgRg no AREsp 699.369/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015)  grifou-se
+Desta forma, a falta de combate a fundamento suficiente para manter o acórdão recorrido e as razões recursais dissociadas do que ficou decidido pelo Tribunal de piso demonstram a deficiência de fundamentação do recurso, sendo inafastável o teor das Súmulas 283 e 284 do STF.
+2. Outrossim, consoante iterativa jurisprudência desta Corte, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DISSÍDIO JURISPRUDENCIAL. REQUISITOS. AUSÊNCIA. SERVIDOR. URV. ABSORÇÃO. REESTRUTURAÇÃO DE CARREIRA. LEGISLAÇÃO LOCAL. CONJUNTO PROBATÓRIO. EXAME. IMPOSSIBILIDADE.
+1. Não se conhece do apelo nobre interposto pela alínea "c", art. 105, III, da CF/1988, que deixa de realizar o cotejo analítico, não atendendo aos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos do art. 541, parágrafo único, do CPC/1973, do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.976.105/MA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Ademais, inafastável, a incidência das Súmulas 283 e 284 do STF, prejudica a análise do dissídio jurisprudencial alegado.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. DANOS EMERGENTES E DANOS MORAIS. DESCARACTERIZAÇÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+5. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+6. No caso, a Corte de origem assentou que existiu mora da agravante na na conclusão das obras e não inadimplemento injustificado dos compradores, ora agravados quanto ao pagamento do preço do imóvel. Desse modo, para verificar, em recurso especial, a existência de inadimplemento dos adquirentes, na forma sustentada pela vendedora, a fim de autorizar a retenção das chaves, assim como a exclusão das condenações que lhe foram impostas pela Justiça local, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+7. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pela Justiça local não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+8. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284, 282 e 356 do STF.
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.962.126/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022)  grifou-se
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AO ART. 489 DO CPC/2015. PROVA PERICIAL. PAGAMENTO DOS HONORÁRIOS DO EXPERT FORA DO PRAZO. PRECLUSÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. ARESTO IMPUGNADO CONFORME A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 489 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos.
+2. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. Conforme a pacífica jurisprudência desta Corte Superior, quando a prova não é produzida por inércia da parte interessada, descabe a alegação de cerceamento de defesa com base na ausência de realização da prova pretendida, o que foi observado pela Corte local.
+7. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+8. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284, 282 e 283 do STF e 13, 83 e 211 do STJ.
+9. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.038.519/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022)  grifou-se
+Dessa forma, descabida a análise do dissídio jurisprudencial.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
