@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra acórdão assim ementado (fls. 69-70):
+HABEAS CORPUS - PACIENTE PRESO PREVENTIVAMENTE - DENUNCIADO PELA SUPOSTA PRÁTICA DO DELITO PREVISTO NO ARTIGO 121, § 2º, INCISO I (MOTIVO TORPE) E INCISO V (PARA ASSEGURAR A OCULTAÇÃO/IMPUNIDADE DE OUTRO CRIME), AMBOS DO CÓDIGO PENAL - ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL - ALEGAÇÃO DE OCORRÊNCIA DE NULIDADES DURANTE A AUDIÊNCIA - PACIENTE ACOMPANHADO DE ADVOGADO CONSTITUIDO DURANTE O ATO - PREJUIZOS NÃO EVIDENCIADOS -REVOLVIMENTO DE FATOS E PROVAS - VIA ELEITA INADEQUADA -IMPOSSIBILIDADE DE PRODUZIR PROVAS OU REVOLVER MATERIA PROBATÓRIA - TESE DE EXCESSO DE PRAZO PARA APRESENTAÇÃO DAS ALEGAÇÕES FINAIS PELO MPSE NÃO ACOLHIDO - ANDAMENTO REGULAR DO PROCESSO NA ORIGEM INTIMAÇÃO ELETRÔNICA PERFECTIBILIZADA EM 17.07.2023 - EXCESSO NÃO CONSTATADO INEXISTÊNCIA DOS REQUISITOS APTOS A JUSTIFICAR A MANUTENÇÃO DA PRISÃO PREVENTIVA, FUNDAMENTAÇÃO DA DECISÃO QUE DECRETOU A SEGREGAÇÃO, CONDIÇÕES SUBJETIVAS FAVORÁVEIS AO PACIENTE E APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - MATÉRIA JULGADA NO HC 202300313486 - PRISÃO HUMANITÁRIA COVID - SUPRESSÃO INSTÂNCIA - NÃO CONHECIMENTO DOS CAPÍTULOS RECURSAIS - DECISÃO LIMINAR RATIFICADA - ORDEM CONHECIDA EM PARTE E, NA PARTE CONHECIDA, DENEGADA.
+Consta dos autos que o recorrente está preso preventivamente por suposta prática do delito do art. 121, § 2º, I e V, do Código Penal.
+Impetrado writ perante a Corte de origem, a ordem foi denegada nos termos da ementa acima.
+Daí o presente recurso, no qual aduz a defesa sustenta a ocorrência de nulidades ocorridas durante audiência de instrução, relacionadas a: a) inversão da ordem de perguntas; b) preclusão quanto à oitiva de testemunha que já havia sido citada no processo; e c) violação flagrante à garantia individual ao silêncio parcial constitucionalmente previsto.
+Também sustenta constrangimento ilegal em relação à decretação da prisão preventiva do recorrente, pois ausentes os requisitos legais.
+Defende a possibilidade de substituição da prisão preventiva por medidas cautelares alternativas do art. 319 do CPP.
+Requer seja concedida a ordem para relaxar a prisão, inclusive com a substituição da prisão por medidas cautelares diversas.
+O Ministério Público Federal se manifestou pelo conhecimento parcial e, nessa extensão, pelo não provimento do recurso (fls. 143-144).
+Acerca das controvérsias, assim constou do acórdão (fls. 74-75):
+Ratifico que o mencionado ato instrutório, além de ter ocorrido na presença do paciente e advogado constituído, em observância aos princípios da ampla defesa e do contraditório, não havendo que se falar em cerceamento de defesa, tenho, ainda, não foi demonstrado danos efetivos causados à defesa.
+Registre-se, ainda, que o rito desta ação constitucional é célere e exige, por sua natureza, prova pré-constituída que permita aferir a existência ou não do constrangimento ilegal, não admitindo dilação probatória, sendo que, no presente caso, o impetrante não se desincumbiu de tal ônus.
+Nesse sentido, entendo que a análise da matéria suscitada pelo impetrante necessita de exame aprofundado dos fatos e das provas. O que não é permitido nesta via.
+ ..
+Por fim, quanto a tese de inexistência dos requisitos aptos a justificar a manutenção da prisão preventiva, fundamentação da decisão que decretou a segregação, condições subjetivas favoráveis ao paciente e aplicação de medidas cautelares diversas da prisão, reitero haver óbice legal à apreciação por esta Corte de Justiça.
+É que, ao consultar o Sistema de Controle Processual deste Tribunal, verifico que tais argumentos já foram objeto de apreciação por esta Corte nos Habeas Corpus nº 202300313486, o qual foi julgado em 21/04/2023, nos termos da ementa abaixo:
+Como se, o Tribunal de origem não conheceu das levantadas nulidades ocorridas em audiência, pois o impetrante não se desincumbiu do ônus de apresentação de prova pré-constituída, concluindo assim que a matéria necessita de exame aprofundado dos fatos e provas, o que não é permitido na via do writ.
+Por sua vez, quanto aos requisitos da preventiva, verificou se tratar de matéria que já foi objeto de apreciação em momento anterior (21/4/2023), objeto do HC n. 202300313486, razão de não se apreciar referida questão.
+Desse modo, verifica-se que o Tribunal a quo nada dispôs quanto ao mérito de referidos temas. Assim, a análise pretendida não pode ser conhecida por esta Corte Superior, uma vez que as questões não foram previamente apreciadas pelo Tribunal de origem.
+Sabe-se que não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
