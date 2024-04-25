@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MISSIMEIRE FERREIRA LIMA DOS SANTOS (MISSIMEIRE) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, quenão merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, IVONE alegou a violação dos arts. 189, 205 e 206 do Código Civil, 6º, 42 e 43 do Código de Defesa do Consumidor, ao sustentar que (1) permitir que o credor utilize meios extrajudiciais para cobrar uma dívida que está coberta pela prescrição é negar a aplicação das disposições do Código Civil. (2) Deve, portanto, ser reparado o dano sofrido.
+(1)(2) Da cobrança extrajudicial de dívida. Dano moral.
+Com relação ao tema, SERASA LIMPA NOME, esta Corte, em recente julgado, assim decidiu:
+24. Assim, ao cobrar extrajudicialmente o devedor- por exemplo, enviando-lhe notificação para pagamento ou realizando ligações para o seu telefone particular -, o credor está, efetivamente, exercendo sua pretensão, ainda que fora do processo, porquanto não é apenas em juízo que se exercem as pretensões.
+25. Logo, se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada a sua eficácia em razão do transcurso do prazo prescricional, não será mais possível exigir o referido comportamento, ou seja, não será mais possível cobrar do devedor a dívida. Isto é, encoberta a pretensão pela exceção de prescrição, estará o credor impossibilitado de cobrar o débito do devedor, seja judicial, seja extrajudicialmente.
+ ..
+31. Em suma, pouco importa a via ou instrumento utilizado para a realização da cobrança, porquanto a pretensão - que é o instituto de direito material que confere ao credor esse poder - encontra-se praticamente inutilizada pela prescrição. O fenômeno ocorreu no plano do direito material.
+ ..
+39. A partir da fundamentação apresentada, extraem-se as seguintes consequências práticas: não é lícito ao credor efetuar qualquer cobrança extrajudicial da dívida prescrita, seja por meio de telefonemas, e-mail, mensagens de texto de celular (SMS e Whatsapp), seja por meio da inscrição do nome do devedor em cadastro de inadimplentes com o consequente impacto no seu score de crédito. 40. Acrescente-se que o chamado "Serasa Limpa Nome" consiste em uma plataforma na qual credores conveniados informam dívidas - prescritas ou não - passíveis de transação com o objetivo de facilitar a negociação e a quitação de débitos pendentes, normalmente com substanciosos descontos. Não se trata, portanto, de cadastro negativo, não impactando no score de crédito do consumidor e acessível somente ao credor e ao devedor mediante login e senha próprios (https://www.serasa.com.br/limpa-nome-online/blog/o-que-e-serasalimpa-nome/).
+41.  ..  eventual inclusão ou permanência do nome do devedor no "Serasa Limpa Nome", em razão de dívida prescrita, não pode acarretar - ainda que indiretamente - cobrança extrajudicial, tampouco impactar no score do consumidor.
+Assim, ficou redigida a ementa do acórdão:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PRESCRITO. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. MANUTENÇÃO DO ACÓRDÃO ESTADUAL.
+1. Ação de conhecimento, por meio da qual se pretende o reconhecimento da prescrição, bem como a declaração judicial de inexigibilidade do débito, ajuizada em 4/8/2021, da qual foi extraído o presente recurso especial, interposto em 26/9/2022 e concluso ao gabinete em 3/8/2023.
+2. O propósito recursal consiste em decidir se o reconhecimento da prescrição impede a cobrança extrajudicial do débito.
+3. Inovando em relação à ordem jurídica anterior, o art. 189 do Código Civil de 2002 estabelece, expressamente, que o alvo da prescrição é a pretensão, instituto de direito material, compreendido como o poder de exigir um comportamento positivo ou negativo da outra parte da relação jurídica.
+4. A pretensão não se confunde com o direito subjetivo, categoria estática, que ganha contornos de dinamicidade com o surgimento da pretensão. Como consequência, é possível a existência de direito subjetivo sem pretensão ou com pretensão paralisada.
+5. A pretensão se submete ao princípio da indiferença das vias, podendo ser exercida tanto judicial, quanto extrajudicialmente. Ao cobrar extrajudicialmente o devedor, o credor está, efetivamente, exercendo sua pretensão, ainda que fora do processo.
+6. Se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada em razão da prescrição, não será mais possível exigir o referido comportamento do devedor, ou seja, não será mais possível cobrar a dívida. Logo, o reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito.
+7. Hipótese em que as instâncias ordinárias consignaram ser incontroversa a prescrição da pretensão do credor, devendo-se concluir pela impossibilidade de cobrança do débito, judicial ou extrajudicialmente, impondo-se a manutenção do acórdão recorrido.
+8. Recurso especial conhecido e desprovido. (REsp n. 2.088.100/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023.)
+No corpo do referido acórdão ficou expressamente consignado que é possível a inclusão ou permanência do devedor no chamado "Serasa Limpa Nome", por não se tratar de cadastro negativo, não impactando no score de crédito do consumidor e acessível somente ao credor e ao devedor mediante login e senha próprios.
+Desse modo, não há danos morais.
+Entretanto, ficou claro que não é lícito ao credor efetuar qualquer cobrança extrajudicial da dívida prescrita.
+Ainda a respeito do tema:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE. DÍVIDA PRESCRITA. COBRANÇA EXTRAJUDICIAL. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. 1. O reconhecimento da prescrição da pretensão impede o credor de exigir o débito extrajudicialmente. Precedente da 3ª Turma. 2. Agravo interno não provido. (AgInt no REsp n. 2.099.553/SP, de minha relatoria, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+No caso em julgamento, porém, os julgadores assim esclareceram:
+No caso, a autora não comprova a existência de inscrição de seu nome em cadastro de órgãos de proteção ao crédito, tampouco o ajuizamento de ações judiciais (de execução ou de cobrança) pelo réu. Observo que o débito questionado está cadastrado apenas em plataforma privada de acordos extrajudiciais(fls. 20/22), de acesso exclusivo da consumidora, inexistindo divulgação ou publicação das informações a terceiros e não foi demonstrada alteração no sistema de pontuação de créditos (score), em razão dos fatos narrados na inicial. Ademais, inexiste prova da efetiva cobrança pelo requerido, por qualquer meio(correspondências, ligações telefônicas, e-mails ou SMS), ônus que incumbia à autora, nos termos do artigo 373, I do Código de Processo Civil (e-STJ, fl. 159).
+Desse modo, ultrapassar esse entendimento exarado no acórdão demandaria o reexame de provas, o que é inviável nesta sede, conforme prevê a Súmula nº 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de FUNDO, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. SERASA LIMPA NOME. DÍVIDA PRESCRITA. IMPOSSIBILIDADE. COBRANÇA. DANO MORAL. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
