@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, recurso especial interposto por ANTONIO CONDECO contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS 20/1998 E 41/2003. READEQUAÇÃO DA RENDA MENSAL.
+1. O artigo 14 da Emenda Constitucional n. 20/1998 e o artigo 5º da Emenda Constitucional n. 41/2003 têm aplicação imediata inclusive para que seus comandos alcancem os benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+2. A renda mensal relativa à competência de 12/98 ficou abaixo do teto, o mesmo ocorrendo na competência de 01/2004, de modo que não há que se falar em readequação do benefício ou o pagamento de quaisquer diferenças à parte autora em decorrência das alterações trazidas pelas ECs nºs 20/1998 e 41/2003.
+3. Apelação não provida.
+Os embargos de declaração foram acolhidos, com efeitos infringentes, nos seguintes termos:
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. APELAÇÃO. DECADÊNCIA. REVISÃO. ADEQUAÇÃO AOS TETOS PREVISTOS NA EC Nº 20/98 E NA EC Nº 41/2003. AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO. CORREÇÃO MONETÁRIA E JUROS DE MORA. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA.
+1. O aresto embargado amparou-se no entendimento de que os benefícios previdenciários cujas rendas foram limitadas aos tetos na época da concessão e/ou revisão devem ser adequados aos novos limitadores estabelecidos nas Emendas Constitucionais nº 20/98 e nº 41/2003.
+2. A pretensão deduzida nesta ação refere-se à obtenção da readequação da renda mensal do beneficio mediante a observância dos novos tetos constitucionais e não à revisão do ato de concessão/renda mensal inicial, não havendo que se falar em decadência.
+3. Os documentos acostados aos autos comprovam que o salário de beneficio foi limitado ao teto, em virtude da revisão administrativa determinada pelo art. 144 da Lei 8.213/91.
+4. A parte autora faz jus à pretensão deduzida de readequação do beneficio e ao pagamento das diferenças, em decorrência das alterações trazidas pelas ECs nºs 20/98 e 41/2003.
+5. Deve-se observar a prescrição das prestações vencidas antes do quinquênio que antecede a propositura da ação, nos termos da Súmula 85 do STJ, não sendo possível definir a sua interrupção a partir da Ação Civil Pública n. 0004911-28.2011.4.03.6183.
+6. Juros e correção monetária pelos índices constantes do Manual de Orientação para a elaboração de Cálculos na Justiça Federal vigente à época da elaboração da conta, observando-se, em relação à correção monetária, a aplicação do IPCA-e em substituição à TR - Taxa Referencial, consoante decidido pelo Plenário do Supremo Tribunal Federal no RE nº 870.947, tema de repercussão geral nº 810, em 20.09.2017, Relator Ministro Luiz Fux, observado quanto a este o termo inicial a ser fixado pela Suprema Corte no julgamento dos embargos de declaração.
+7. Inversão do ônus da sucumbência.
+8. Embargos de declaração acolhidos. Efeitos infringentes.
+No recurso especial, interposto com fulcro no art. 105, III, "a", da Constituição Federal, o recorrente aponta ofensa ao art. 535 do CPC/73, vez que "os embargos restaram improvidos, não tendo a Turma Julgadora enfrentado as questões suscitadas pelo autor" (fl. 176).
+Alega, ainda, que "a jurisprudência do STJ firmou o entendimento de que a súmula 111/STJ deve ser interpretada no sentido de que o marco final da verba honorária deve ser o decisum no qual o direito do segurado foi reconhecido, que no caso foi a decisão de 2º grau" (fl. 180).
+Não apresentadas as contrarrazões, o recurso especial foi admitido pelo Tribunal de origem.
+Em razão da pendência de julgamento do Tema 1.105/STJ, determinou-se "a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado".
+Após julgamento da matéria repetitiva, o Tribunal Regional Federal da 3ª Região proferiu decisum de juízo de retratação negativo.
+Em seguida, foi determinada a remessa dos autos ao STJ, tendo em vista que "o caso em testilha aparenta possuir com o Tema 1105, eis que distinguinshing em nenhum momento houve o questionamento da vigência e validade da Súmula 111 do STJ em face do CPC 2015" (fl. 232).
+Vieram-me conclusos os autos em 12/12/2023 (fl. 242).
+É o relatório.
+Passo a decidir.
+O recurso especial não merece ser conhecido.
+Com relação à alegada violação ao art. 535, I e II, do CPC/73, nas razões de Recurso Especial o INSS não indicou, específica e concretamente, quais seriam os supostos vícios de omissão e contradição, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo processual, atraindo, por analogia, a incidência do óbice da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+No que diz respeito ao mérito, a admissibilidade do recurso especial, tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF. Nesse sentido: AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe de 17/3/2014; AgInt no AREsp n. 1.656.469/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020; AgInt no AREsp n. 1.664.525/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2020, DJe de 14/12/2020.
+Cumpre destacar, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.738.090/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021). Nesse sentido: REsp n. 775.021/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2009, DJe de 27/8/2009.
+No caso, a parte recorrente deixou de indicar quais os dispositivos de lei federal teriam sido violados ou objeto de interpretação divergente pelos acórdãos confrontados, motivo pelo qual é o caso de incidência do óbice da Súmula 284/STF.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+I.
+EMENTA
