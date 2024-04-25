@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 641):
+HABEAS CORPUS. INSURGÊNCIA CONTRA DECISÃO PROFERIDA PELO JUIZ PRESIDENTE DE TURMA RECURSAL. Inexistência de violação direta, pela autoridade apontada como coatora, ao direito de ir e vir do paciente. Remédio constitucional utilizado como sucedâneo recursal. Via eleita inadequada. Existência, ainda, de pedido idêntico de análise pendente de apreciação na instância a quo. IMPETRAÇÃO NÃO CONHECIDA.
+O paciente foi condenado a 7 meses de detenção, em regime inicial semiaberto, nos termos do art. 331 do Código Penal.
+Interposto recurso extraordinário, teve negado o seu seguimento diante da aplicação do ARE 748371 (tema n. 660), julgado em repercussão geral, que foi impugnado por agravo interposto na forma do art. 1042 do CPC, não conhecido diante da existência de erro grosseiro.
+Neste writ, a defesa sustenta, em síntese, que "a decisão atacada reconheceu a ocorrência de erro grosseiro, entendendo que o recurso cabível seria o agravo interno; entendimento que, no seu entender, estaria equivocado, uma vez que recurso versou exclusivamente sobre a temática da inadmissão do recurso extraordinário pela ausência dos pressupostos recursais, de modo que o recurso interposto seria o cabível na espécie" (fls. 6-7), requerendo, liminarmente, a suspensão do feito, e, no mérito, "a concessão da ordem para que seja determinado o processamento do recurso interposto" (fl. 10).
+Indeferida a liminar e prestadas as informações, manifestou-se o M.P.F. pelo não conhecimento do habeas corpus.
+Sobre a pretensão aqui trazida, assim se manifestou o Tribunal local (fls. 642-645):
+ ..  O presente writ não deve ser conhecido.
+A questão trazida no presente mandamus cinge-se a decisão proferida pelo Presidente do Colégio Recursal da Comarca de Bragança Paulista, que não conheceu do agravo em recurso extraordinário.
+No entanto, o habeas corpus não se trata de recurso, mas de uma ação constitucional destinada a assegurar o direito de locomoção em face de ilegalidade ou abuso de poder e, como tal, não se presta a suprir a interposição de ação ou recurso legalmente previsto.
+ ..
+E no presente caso, não se verifica suposta violação direta, pela autoridade apontada como coatora, ao direito de ir e vir do paciente.
+Demais disso, também não vislumbro como superar a questão da competência.
+Como é cediço, as decisões proferidas pelas Turmas Recursais dos Juizados Especiais estão sujeitas à oposição de Embargos de Declaração e à interposição de Recurso Extraordinário, conforme dicção da Súmula nº 640, do Colendo Supremo Tribunal Federal:
+ ..
+Com efeito, inexiste hierarquia entre a Turma Recursal e o Tribunal de Justiça do Estado, ou seja, não há subordinação jurisdicional.
+Assim, imiscuir-se em questão analisada pela Turma Recursal significaria arvorar-se à condição de Terceira Instância, e, em última análise, numa intromissão indevida na competência do Colendo Supremo Tribunal Federal, competente para decidir se o recurso é passível de conhecimento:
+ ..
+Não bastasse, como bem apontado pela douta Procuradoria Geral de Justiça, o tema posto em debate encontra-se sob exame na instância a quo, de modo que o pedido também encontra óbice no princípio da unirrecorribilidade. ..
+O presente habeas corpus não comporta conhecimento, porquanto não se verifica qualquer ameaça ao direito de locomoção do paciente, que se vale do remédio heroico como sucedâneo de recurso cabível, o qual, no presente caso, seria o agravo interno contra a decisão que negou seguimento ao recurso extraordinário na origem.
+"De acordo com o disposto no art. 1.030, § 2º, do CPC/2015, o agravo interno é o recurso cabível contra a decisão que nega seguimento a recurso especial  ou extraordinário  interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos,  ou em sede de repercussão geral  sendo a sede própria para demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo" (AgInt no AREsp n. 2.442.133/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/3/2024, DJe de 14/3/2024).
+"O habeas corpus preventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, ou seja, sempre que fundado for o receio de o paciente ser preso ilegalmente. Tal receio haverá de resultar de ato concreto, de ameaça iminente de prisão. Na hipótese dos autos, não há falar em ofensa à liberdade de locomoção, uma vez que não existe ato concreto contra a liberdade do paciente. É certo que a mera proposição de ação cautelar inominada nos autos de recurso em sentido estrito em que se busca a decretação da prisão preventiva não indica a iminência de violação ao direito ambulatorial" (AgRg no HC n. 873.701/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024).
+Por fim, como externado no parecer ministerial, " e ssa Relatoria, por ocasião do julgamento do HC 780.865/SP, transitado em julgado em 8/2/23, denegou a ordem decidindo que "No caso, assim como demonstrado no acórdão impugnado, além de a questão não ter sido apresentada tempestivamente, a defesa alega, genericamente a ocorrência de nulidade, sem nenhuma demonstração de efetivo prejuízo ao contraditório ou à ampla defesa, não se verificando a ocorrência de manifesta ilegalidade." (f. 514-517)" (fl. 684), reforçando-se ainda mais a inexistência de qualquer ilegalidade a ser sanada na presente via.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
