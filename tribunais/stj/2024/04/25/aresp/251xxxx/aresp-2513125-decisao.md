@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSIEL GONÇALVES DOS SANTOS contra decisão que não admitiu recurso especial, com fundamento na Súmula 83/STJ.
+O recorrente foi condenado como incurso no art. 155, caput, do Código Penal, à pena de 1 (um) ano de reclusão e 10 dias-multa, em regime inicial aberto.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa.
+Nas razões do recurso especial alega-se violação do art. 157 do Código de Processo Penal, ao argumento de ilicitude das provas por derivação, haja vista "que está amparado na chamada "confissão informal", consistindo tal expediente, todavia, em meio de obtenção de prova absolutamente censurável, já que, por intermédio dele, extraem-se informações contrárias aos interesses daqueles que estão sendo acusados, sem que sejam, antes, advertidos do direito ao silêncio, garantido pela Constituição Federal" (fl. 252).
+Alega que "as informações prestadas pelos policiais que participaram das diligências, bem como todas as provas derivadas, foram obtidas em uma "conversa informal" sem a observância das garantias constitucionais do acusado" (fl. 254).
+Requer o provimento do recurso especial. para reconhecer a violação clara ao Artigo 157, do Código de Processo Penal, para que seja declarada a nulidade da confissão extrajudicial, nos termos do artigo 5º, inciso LXIII, da Constituição Federal, absolvendo o apelante das imputações descritas na denúncia.
+Contrarrazões apresentadas às fls. 264-278.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmulas 83 do STJ.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial.
+O direito ao silêncio é um consectário do nemo tenetur se detegere, sendo este uma garantia da não autoincriminação, segundo o qual ninguém é obrigado a produzir prova contra si mesmo, ou seja, ninguém pode ser forçado, por qualquer autoridade ou particular, a fornecer involuntariamente qualquer tipo de informação ou declaração que o incrimine, direta ou indiretamente. Trata-se de princípio de caráter processual penal, já que intimamente ligado à produção de provas incriminadoras.
+O Tribunal de origem com relação à preliminar de nulidade consignou que (fls. 234-235):
+No auto de prisão em flagrante delito, devidamente assinado pelo apelante, consta os seguintes dizeres (id. 18920820 - pág. 10):
+"(..) que sabendo ler e escrever, cursou o ensino médio incompleto. Cientificado das imputações que lhe são atribuídas, bem como de seus direitos constitucionais, previsto no artigo 5º da Constituição Federal, dentre os quais o de permanecer calado (..)Respondeu: confesso ter furtado um aparelho celular no interior de um caminhão que estava estacionado em frente à Gold Embalagens."
+Em juízo, o réu, quando questionado e por livre e espontânea vontade, confirmou a autoria do crime.
+Ainda em juízo, os policiais militares ratificaram as declarações prestadas na fase inquisitiva. Ambos afirmaram que na abordagem, o réu de imediato confessou o crime e apontou o local que havia jogado a res furtiva.
+Pois bem.
+Considerando que o réu confessou diante da autoridade policial (delegado), bem como assinou o termo que dispõe acerca de seus direitos (sabendo ler e escrever), entendo que a confissão não foi mediante uma "conversa informal", conforme alegado pela defesa.
+Adiante, observo que os depoimentos referentes à vítima e à testemunha, são isolados e independentes da confissão do apelante, visto que a testemunha VALDIR DOS SANTOS afirma que viu quando o acusado se apoderou de um objeto de dentro do caminhão, momento que avisou a vítima. Já o depoimento desta, apenas relata o momento que fora informado da ocorrência do delito, verificado a ausência do celular e a ligação para a polícia. (id. 18920820 - págs. 8/9 e mídia)
+Portanto, entendo que não há como a suposta ilegalidade da confissão do acusado macular os demais depoimentos prestados, bem como todo o acervo probatório.
+ ..
+Outrossim, de acordo com o entendimento do STJ, a eventual irregularidade na informação acerca do direito de permanecer em silêncio é causa de nulidade relativa, cujo reconhecimento depende da comprovação do prejuízo, vejamos:
+ ..
+Portanto, a falta de advertência quanto ao direito do acusado de permanecer em silêncio em sua manifestação não configura, por si só, nulidade insanável. Sem a demonstração do prejuízo que tal procedimento teria ocasionado, a nulidade não deve ser decretada.
+Dessa forma, verifico que a Defesa não justificou qualquer ocorrência que demonstre o prejuízo causado ao apelante decorrente da suposta confissão informal, considerando que a sentença condenatória proferida pelo juízo a quo não fora fundamentada exclusivamente na confissão do réu.
+A propósito:
+ ..
+Na hipótese dos autos, porém, não prospera a alegada nulidade ao argumento de ofensa ao princípio da não autoincriminação, pois constou do acórdão que no auto de prisão em flagrante delito, após ser cientificado de seus direitos constitucionais, previsto no artigo 5º da Constituição Federal, dentre os quais o de permanecer calado, consta ter o réu confessado ter furtado um aparelho celular no interior de um caminhão que estava estacionado em frente à Gold Embalagens.
+Além disso, há o depoimento dos policiais no sentido de que "na abordagem, o réu de imediato confessou o crime e apontou o local que havia jogado a res furtiva".
+Outrossim, "em juízo, o réu, quando questionado e por livre e espontânea vontade, confirmou a autoria do crime".
+Assim sendo, diante do quadro fático delineado pelas instâncias antecedentes, não se vislumbra situação em que o agente tenha sido compelido, constrangido ou mesmo induzido a produzir provas contra si, não sendo possível concluir pela ocorrência de prejuízo ao livre exercício das garantias constitucionais inerentes ao processo penal.
+Vale lembrar que, nos termos da assente jurisprudência desta Corte Superior, o reconhecimento de nulidade, ainda que absoluta, no âmbito do Processo Penal, exige a demonstração do efetivo prejuízo suportado pelas partes (princípio pas de nullité sans grief) (AgRg no AREsp 1.669.700/PB, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/11/2021, DJe de 30/11/2021). A respeito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÃO AO ART. 479 DO CÓDIGO DE PROCESSO PENAL - CPP. NULIDADE AFASTADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CERCEAMENTO DE DEFESA. VIOLAÇÃO DO DIREITO AO SILÊNCIO. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. PREJUÍZO NÃO DEMONSTRADO. VIOLAÇÃO AO ART. 593, III, DO CPP. ÓBICE DA SÚMULA N. 7 DO STJ. DOSIMETRIA DA PENA. FUNDAMENTOS CONCRETOS. REVISÃO. IMPOSSIBILIDADE. BIS IN IDEM. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. No que toca à alegação de violação do direito ao silêncio, também não se verifica qualquer nulidade, uma vez que cientificados os jurados sobre o silêncio do ora recorrente, que não pôde ser levado em consideração contra ele.
+4. O TJSC encontra-se em sintonia com a reiterada orientação desta Corte, segundo a qual a decretação da nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo, à luz do art. 563 do Código de Processo Penal, ex vi do princípio pas de nullité sans grief, o que não ocorreu no caso em debate.
+ ..
+10. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.160.693/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. EXTORSÃO MEDIANTE SEQUESTRO. NÃO INFIRMADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. TESE DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. PLEITO PARA INTIMAÇÃO QUANTO À DATA DE JULGAMENTO, COM O FIM DE APRESENTAR SUSTENTAÇÃO ORAL. INCABÍVEL. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO RECURSO ESPECIAL. INÉPCIA DA DENÚNCIA. SENTENÇA CONDENATÓRIA. SUPERVENIÊNCIA. QUESTÃO PREJUDICADA. ALEGAÇÃO DE NULIDADE POR CERCEAMENTO DE DEFESA. INEXISTENTE. AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. INCIDÊNCIA. PLEITO DE DESCLASSIFICAÇÃO PARA EXTORSÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 07/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA N.º 83/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+7. O Tribunal a quo entendeu que, na espécie, a despeito de ter sido mencionado na sentença, equivocadamente, que o ora Agravado exerceu o direito ao silêncio, o Magistrado de primeiro grau, para fundamentar o édito condenatório, analisou e afastou todas as teses apresentadas pela Defesa. Concluiu também que não houve demonstração cabal e exata acerca de quais seriam os termos passíveis de constar em depoimento do Réu, que, caso não tivessem sido desconsiderados pelo Sentenciante, poderiam ter conduzido a uma conclusão distinta daquela plasmada no decisum prolatado pelo Juízo primevo. Portanto, ausente efetiva demonstração de prejuízo à Defesa, aplica-se o princípio do pas de nulitté sans grief.
+8. O Tribunal de origem, soberano na análise dos fatos e provas atinentes à causa, considerou presentes provas suficientes e hábeis a fundamentar o édito condenatório pelo delito de extorsão mediante sequestro e, por via de consequência, entendeu insubsistente o pedido de desclassificação para o crime de extorsão. Portanto, infirmar tais fundamentos é inviável no âmbito desta Corte Superior de Justiça, pois implicaria o reexame fático-probatório, o que atrai o óbice da Súmula n.º 7 desta Corte.
+ ..
+10. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.337.066/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/10/2020, DJe de 29/10/2020.)
+Ademais, sendo assentada pelas instâncias ordinárias a inexistência de prejuízo, em se considerando a existência de outras provas, não há falar em nulidade, sendo imprópria a via do especial à revisão do entendimento, nos termos da Súmula n. 7/STJ.
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
