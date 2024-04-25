@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS ADRIANO MENDES e VIVIANI CRISTINA ALVES MENDES à decisão de fls. 105/106, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Da leitura dos autos, verifica-se que em 21/11/2022 o Recorrente interpôs Recurso Especial, representado por seu procurador há época, o Sr. Dr. Vanderlei (OAB/SP 90.232).
+Entretanto, conforme consta do bojo dos autos no sítio do Tribunal de Justiça de São Paulo  competente para interposição do recurso, sendo a remessa feita por este  em 24/07/2023, houve a revogação do mandato do ora procurador, Sr. Vanderlei, e a habilitação da atual procuradora, Dra. Ana Carolina Santos (OAB/SP 427.683) (fl. 109).
+ ..
+Entretanto, em 01/03/2023, houve a inadmissão do Recurso Especial, o que deu ensejo ao presente agravo. Consigna-se que, há época da publicação da decisão de inadmissão, esta subscritora já se encontrava devidamente habilitada nos autos, razão pela qual, não se verifica defeitos na representação do Recorrente, conforme apontado na decisão de fls. 104/105.
+Ante o exposto, vez que a revogação e constituição de novo procurador se deu em conformidade com a legislação e Código de Ética, não há razão para o não reconhecimento do recurso, de forma que pugna-se pelo acolhimento dos presentes embargos, reconhecendo-se a obscuridade e, ato conseguinte, prosseguindo-se com a análise meritória do recurso ora protocolizado (fl. 111).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, os recorrentes, no momento da interposição do agravo, não procederam à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso especial, Dr. Jose Vanderlei Faleiros.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar o referido vício, não regularizou, uma vez que a procuração juntada à fl. 100 não outorgou poderes ao subscritor do recurso.
+Cumpre esclarecer que não basta, na petição de regularização, que a parte traga nova procuração, de advogados diversos dos subscritores anteriores, ratificando o ato processual pretérito.
+Essa providência é insuficiente, uma vez que trata de ratificação desconexa com os atos anteriores. É vital perceber que a ratificação não é propriamente a realização de um novo ato, ignorando-se o ato que já foi praticado.
+Ratificar significa confirmar, reafirmar o que foi dito. Dessa forma, a abertura de prazo para regularização da representação do subscritor do recurso, nesta instância especial, nos termos do art. 76, c.c. o art. 932, parágrafo único, ambos do Código de Processo Civil, bem como nos ditames da interpretação conjunta do Enunciado da Súmula nº. 115/STJ, tem razão de ser no sentido de que a ratificação possível, nos termos da intimação para trazer aos autos a procuração dos subscritores anteriores, é uma complementação, uma reiteração de uma vontade já manifestada, uma confirmação do ato anteriormente praticado.
+A possibilidade de saneamento, da correção de um defeito, não pode ignorar o ato já praticado, mas, ao contrário, tem que oportunizar a ratificação desse ato.
+Nesse sentido, a intimação para regularização é expressa no sentido que se traga aos autos a procuração dos subscritores originais, uma vez que o marco processual, que se leva em consideração para fins de verificação de regularidade da representação processual, é o momento da interposição do recurso.
+Assim, a regularização da representação processual que se considera válida deve guardar pertinência com o subscritores originários, não bastando a mera ratificação por outros procuradores.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
