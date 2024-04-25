@@ -1,0 +1,51 @@
+Habeas corpus. Tráfico de drogas, associação para o tráfico, ameaça e dano. Prisão preventiva. Garantia da ordem pública. Fundamentação idônea. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+    Trata-se de habeas corpus impetrado em favor de Rosemiro Junior Gomes Coelho e outro contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no RHC 193.084/MG (evento 2, fls. 247-53).
+
+    Os pacientes foram presos em flagrante delito, convertido o título em prisão preventiva, pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico, ameaça e dano (arts. 33 e 35 da Lei nº 11.343/2006 e, 147 e 163 do Código Penal) (evento 2, fls. 106-8).
+
+    No presente writ, a Defesa alega, em síntese, ausência de fundamentação idônea do decreto prisional. Sustenta que a quantidade de droga apreendida não é expressiva. Assevera a existência de circunstâncias favoráveis, como primariedade, bons antecedentes, ocupação lícita, residência fixa, além de não integrarem organização criminosa. Requer, em medida liminar e no mérito, a revogação da prisão preventiva, com a fixação, ou não, de medidas cautelares diversas da prisão.
+
+    É o relatório. Decido.
+
+    Extraio do ato dito coator:
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO, AMEAÇA E DANO. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA DA CONDUTA. INTEGRIDADE FÍSICA DA VÍTIMA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+
+    1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+
+    2. Caso em que a prisão preventiva foi mantida pelo Tribunal para garantia da ordem pública em razão da periculosidade social dos agravantes, evidenciada pelas circunstâncias concretas do fato. De acordo com as decisões anteriores, os recorrentes foram até a casa da vítima para cobrar uma dívida no valor de R$ 150,00 relativo a compra de drogas, momento em que danificaram o imóvel e a ameaçaram de morte. Registrou-se inclusive que mesmo diante da autoridade policial a vítima foi intimidada. Além disso, foram surpreendidos com os réus uma boa variedade de entorpecentes (maconha, cocaína e crack).
+
+    3. Ainda ficou demonstrado, o risco à integridade física da vítima, diante da ameaça de morte e da intimidação inclusive perante à autoridade policial.
+
+    4. Eventuais condições subjetivas favoráveis dos pacientes, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+
+    5. Agravo regimental improvido. Recomendo, no entanto, que seja reavaliada a necessidade da manutenção das cautelares impostas, nos termos do art. 316 do Código de Processo Penal.”
+
+    A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024).
+
+    De qualquer maneira, mesmo que superado referido óbice, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de ofício.
+
+    Revelam os autos que os Pacientes foram presos em flagrante pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico, ameaça e dano.
+
+    O decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura colocará em risco a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal, à luz do art. 312 do CPP, e desde que igualmente presentes prova da materialidade do delito e indícios suficientes da autoria.
+
+    Ao manter a prisão preventiva, o Superior Tribunal de Justiça assentou que “No caso, como se viu das transcrições, a segregação cautelar foi decretada pelo Juízo processante e mantida pelo Tribunal estadual em razão da periculosidade social dos recorrentes, evidenciada pelas circunstâncias concretas do fato. De acordo com as decisões anteriores, os recorrentes foram até a casa da vítima para cobrar uma dívida no valor de R$ 150,00 relativo a compra de drogas, momento em que danificaram o imóvel e a ameaçaram de morte. Registrou-se inclusive que mesmo diante da autoridade policial a vítima foi intimidada. Além disso, foram surpreendidos com os réus uma boa variedade de entorpecentes (maconha, cocaína e crack). No que tange à segregação cautelar, é pacífico o entendimento jurisprudencial dos Tribunais Superiores no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade. (AgRg no HC n. 787.386/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022). Do mesmo modo, “[a] orientação do STF é no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC n. 115.125, Relator Ministro GILMAR MENDES; HC 113.793, Relª. Minª. Cármen Lúcia; HC n. 110.900, Relator Ministro LUIZ FUX)”. (AgRg no HC n. 210312, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 28/3/2022, DJe 31/3/2022). Consigne-se: “a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a gravidade em concreto do crime, a periculosidade do agente e a necessidade de preservar a integridade física da vítima constituem fundamentação idônea para a decretação da custódia preventiva (HC n. 137.234, Relator Ministro TEORI ZAVASCKI; HC n. 136.298, Relator Ministro RICARDO LEWANDOWSKI; HC 136.935-AgR, Relator Ministro DIAS TOFFOLI)”. (AgRg no RHC n. 172.301/SP, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 04/10/2019, DJe 24/10/2019). Nessa mesma direção, segundo o “Superior Tribunal, "[a] periculosidade do agente e a necessidade de preservar a integridade física da vítima constituem fundamentação idônea para a decretação da custódia preventiva". (AgRg no HC n. 696.157/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 19/10/2021, DJe 25/10/2021)”. (AgRg no RHC n. 170.651/MA, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022). Registre-se, ainda, que eventuais condições subjetivas favoráveis, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva. (...). Do mesmo modo, “o fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte”. (AgRg no RHC n. 171.374/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 12/12/2022, DJe 15/12/2022). ”.
+
+    Nesse contexto, se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a gravidade em concreto do crime, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Nesse sentido: HC 212.682-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 18.4.2022; HC 210.384-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 31.5.2022; HC 213.022-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 02.6.2022; HC 216.608-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 19.8.2022; e HC 228.256-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 08.11.2023.
+
+    Além dos precedentes mencionados, destaco, ainda, os seguintes: "O entendimento do Supremo Tribunal Federal é no sentido de que a gravidade concreta do crime, a periculosidade do agente, o risco concreto de reiteração criminosa e a necessidade de impedir a interferência do acusado no regular desenvolvimento da instrução criminal constituem fundamentação idônea para a decretação da custódia preventiva. Precedentes.” (HC 225.241-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.04.2023); “A gravidade concreta da conduta e a necessidade de interromper as atividades de grupo criminosa respaldam a prisão preventiva, porquanto revelam risco à ordem pública” (HC 215.144-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 19.09.2022); “É idônea a prisão cautelar fundada na garantia da ordem pública quando evidenciada a gravidade concreta da ação criminosa ou demonstrada a periculosidade social do agente a partir do modo como desenvolveu a conduta delitiva” (HC 216.598-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 26.10.2022); “A decretação da custódia preventiva para garantia da ordem pública que tem como fundamento a gravidade concreta do crime, evidenciada pelo modus operandi da conduta, bem como pelo risco de reiteração delitiva, encontra amparo na jurisprudência desta Corte” (HC 218.475-AgR-segundo, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.11.2022).
+
+    Ademais, a circunstância de os Pacientes ostentarem primariedade e bons antecedentes não constitui óbice à decretação ou manutenção da prisão preventiva, desde que preenchidos os pressupostos e requisitos do art. 312 do Código de Processo Penal (HC 227.750-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 24.08.2023; HC 232.596-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 08.11.2023; RHC 235.417-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 01.03.2024).
+
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 25 de abril de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
