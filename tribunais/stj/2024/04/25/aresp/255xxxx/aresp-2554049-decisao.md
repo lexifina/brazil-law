@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo de decisão que inadmitiu recurso especial interposto por HERMES BATISTA DA SILVA e OUTRO, contra acórdão proferido pelo TJES, assim ementado (fls. 336-337):
+ADMINISTRATIVO E PROCESSUAL CIVIL  APELAÇÃO CÍVEL  PRELIMINAR  AUSÊNCIA DE DIALETICIDADE RECURSAL  MEDALHA VALOR POLICIAL MILITAR  AVALIAÇÃO DE TÍTULOS E DESEMPENHO PROFISSIONAL  CÔMPUTO DA PONTUAÇÃO RESPECTIVA  HONORÁRIOS ADVOCATICIOS SUCUMBENCIAIS  RECURSO DESPROVIDO.
+1. No concurso de promoção dos militares, os pontos referentes à medalha "Valor Policial Militar" na "Cor Ouro" não devem ser computados na data em que o policial implementar o requisito objetivo (temporal) para a aquisição da medalha, mas sim na data da efetiva entrega da mesma medalha, tempo em que todos os requisitos (objetivos e subjetivos) se farão presentes. Jurisprudência do Eg. Tribunal de Justiça do Espírito Santo.
+2. É cabível o arbitramento equitativo dos honorários advocatícios de sucumbência quando inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, ex vi do disposto no art. 85, § 8º, do Código de Processo Civil.
+Nas razões do recurso especial inadmitido, os recorrentes apontam violação dos arts. 489, §1º, IV, 1.022, I, c/c 1.013, §3º, IV, 1.025 do CPC, por considerarem omisso o acórdão proferido pela Corte de origem, o qual teria julgado tese não debatida na sentença, bem como "não se manifestado sobre ponto nodal da lide: a partir de qual momento deve ser contabilizado os 03 pontos advindos da Medalha Valor Policial na cor ouro: data da aquisição ou data da entrega " (fl. 375).
+Contrarrazões apresentadas às fls. 383-389.
+É o relatório.
+Passo a decidir.
+Quanto à suposta violação dos arts. 489, §1º, IV, 1.022, I, c/c 1.013, §3º, IV, 1.025 do CPC, por omissão do Tribunal a quo, razão não assiste aos agravantes, conforme se extrai do seguinte excerto do acórdão recorrido (fls. 344-349):
+Com efeito, não há que se falar no alegado direito dos Apelantes de cômputo dos pontos decorrentes da "Medalha Valor Policial Militar - Cor Ouro" desde a data da suposta aquisição, devendo ser considerada a data da entrega respectiva.
+ ..
+Inexiste, portanto, error in judicando na sentença hostilizada, não merecendo provimento o presente recurso de apelação.
+Constou, ainda, do acórdão proferido no julgamento dos embargos declaratórios (fls. 364-365):
+Os Embargantes sustentam, em suas razões recursais de fls. 308/310, padecer o v. acórdão do vício de omissão, por não haver se manifestado acerca de omissão incorrida pela sentença.
+Ocorre que inexiste a omissão apontada, pois, consoante consignado no v. acórdão hostilizado, restou expressamente analisada a pretensão dos Embargantes de cômputo dos pontos decorrentes da "Medalha Valor Policial Militar  Cor Ouro" desde a data da respectiva aquisição, firmando-se, todavia, o entendimento de que a pontuação em questão deve considerar a data da entrega respectiva, em consonância com a sentença hostilizada.
+Assim, firmou-se o entendimento de que "no concurso de promoção dos militares, os pontos referentes à medalha "Valor Policial Militar" na "Cor Ouro" não devem ser computados na data em que o policial implementar o requisito objetivo (temporal) para a aquisição da medalha, mas sim na data da efetiva entrega da mesma medalha, tempo em que todos os requisitos (objetivos e subjetivos) se farão presentes", nos termos da jurisprudência do Egrégio Tribunal de Justiça do Espirito Santo.
+Insta salientar que a eventual discordância da parte com o julgado não caracteriza omissão, contradição ou obscuridade ensejadoras de embargos de declaração, mas, sim, mera irresignação com a decisão impugnada, não havendo que se falar em reanálise da matéria, ainda que a titulo de prequestionamento.
+No caso dos autos, não se constata a existência de vícios, pois o acórdão explicitou, fundamentadamente, as razões pelas quais os pontos decorrentes da Medalha Valor Policial Militar - Cor Ouro devem ser computados a partir da entrega respectiva, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
