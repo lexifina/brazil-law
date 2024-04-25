@@ -1,0 +1,34 @@
+DECISÃO
+KAIO HONORADO DE JESUS agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação Criminal n. 1011968-66.2021.8.11.0042.
+Depreende-se dos autos que o agravante foi condenado como incurso no art. 33, § 4º, da Lei n. 11.343/2006 à pena de 4 anos e 2 meses de reclusão, no regime semiaberto, mais multa.
+Nas razões do especial, a defesa apontou violação ao art. 33, § 4º, da Lei n. 11.343/2006 e requer a aplicação da fração máxima relativa ao privilégio no tráfico.
+O recurso foi inadmitido na origem, o que ensejou a interposição deste agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, razões pelas quais comporta conhecimento.
+O recurso especial também foi interposto no prazo legal, mas suplanta apenas parcialmente o juízo de prelibação, conforme se constatará adiante.
+I. Fração relativa à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+No caso, o Juízo de 1º grau reconheceu o privilégio e salientou o seguinte ao fixar a pena (fls. 526-527):
+Terceira fase:
+Nesta fase, denota-se que o réu é primário, não há registro de maus antecedentes, tampouco informação de que integra organização criminosa.
+Por outro lado, verifico que a quantidade de droga apreendida, a saber: 1.942 kg (um quilograma e novecentos e quarenta e duas gramas) de maconha, se mostra relevante para dosar a fração do benefício em nível mínimo, ou seja, na fração de 1/6 (um sexto), nos termos da recente jurisprudência do nosso egrégio Tribunal de Justiça:
+ ..
+Assim sendo, REDUZO a pena na fração de 1/6 (um sexto) e FIXO a pena nesta fase em 04 (quatro) anos e 02 (dois) meses de reclusão e 420 (quatrocentos evinte) dias-multa.
+Veja-se, portanto, que as instâncias ordinárias fundamentaram a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6 pautando-se em condição estabelecida no art. 42 da Lei de Drogas, qual seja, a quantidade do entorpecentes apreendido.
+Embora tal argumento constitua, de fato, elemento concreto e idôneo a justificar a eleição da fração do redutor, considero que o montante de substâncias encontrado com o acusado (aproximadamente 2 kg de maconha) não foi excessivamente elevado a ponto de, isoladamente, evidenciar a acentuada reprovabilidade da conduta apta a justificar a fração mínima. Entendo, assim, ser desproporcional sopesar, no caso ora analisado, apenas essa circunstância para justificar a incidência da minorante nesse patamar.
+Ainda, destaco que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que reputo devidamente caracterizada nos autos.
+Assim, identifico a contrariedade ao § 4º do art. 33 da Lei n. 11.343/2006 e fixo a fração de diminuição de pena no patamar de 1/2. Ressalto que estou fixando a fração méxia, porque a quantidade não pode ser considerada exorbitante e foi apreendida droga de natureza menos deletéria.
+II. Nova dosimetria
+Procedendo-se, pois, à nova dosimetria da pena, verifico que a reprimenda-base ficou estabelecida no mínimo legal, ou seja, em 5 anos de reclusão e pagamento de 500 dias-multa. Na segunda fase, a atenuante da confissão não tem o condão de reduzira pena aquém do mínimo. Na terceira etapa, reduzo a reprimenda em 1/2, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena do acusado definitivamente estabelecida em 2 anos e 6 meses reclusão e pagamento de 250 dias-multa.
+III. Consectários - regime e substituição
+Como consectário da redução efetivada na pena do agravante, deve ser procedido ao ajuste no regime inicial do seu cumprimento.
+Se por um lado, o réu foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, confessou a prática delitiva, teve a pena-base estabelecida no mínimo legal e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, por outro lado foi apreendido com quantidade de drogas razoável (apesar de não exorbitante); assim, entendo adequado o regime semiaberto ao início de cumprimento da sanção reclusiva, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Da mesma forma, entendo que a desfavorabilidade das circunstâncias mencionadas evidencia que a substituição da pena não se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal.
+IV. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de aplicar em 1/2 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, reduzir a reprimenda do agravante para 2 anos e 6 meses reclusão, no regime semiaberto, e pagamento de 250 dias -multa.
+Comunique-se, com urgência, ao Juízo da condenação e à autoridade apontada como coatora, o inteiro teor deste decisum.
+Publique-se e intimem-se.
+EMENTA
