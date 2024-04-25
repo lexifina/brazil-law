@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO GRANDE DO SUL contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. PLACAS SOLARES. SISTEMA FOTOVOLTAICO. ENERGIA EXCEDENTE PRODUZIDA NA GERAÇÃO DISTRIBUÍDA E INJETADA NA REDE DE DISTRIBUIÇÃO. RES. 482/2012 DA ANEEL. POSTERIOR AQUISIÇÃO DA ENERGIA ELÉTRICA PELA MESMA UNIDADE CONSUMIDORA JUNTO À DISTRIBUIDORA LOCAL MEDIANTE CREDITAMENTO/COMPENSAÇÃO DE CONSUMO. OPERAÇÃO NÃO SUJEITA AO IMPOSTO ESTADUAL. AUSÊNCIA DE TROCA DE TITULARIDADE. RELAÇÃO DE MÚTUO QUE NÃO CONFIGURA CIRCULAÇÃO JURÍDICA DE MERCADORIA. DIREITO À COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO. APELO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação dos arts. 2º, I, e 12, I, da Lei Complementar n. 87/96. Aduz que incide ICMS sobre o fornecimento de energia elétrica às unidades consumidoras com microgeração ou minigeração, ainda que a liquidação do pagamento ocorra mediante compensação.
+Houve contrarrazões ao recurso especial (e-STJ fls. 261/270).
+O Tribunal de origem inadmitiu o recurso especial pela impossibilidade de revisão, em sede de recurso especial, de acórdão fundamentado em resolução, portaria ou instrução normativa.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 355/365).
+É o relatório. Decido.
+Impugnado o fundamento de inadmissibilidade, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Os dispositivos legais tidos por violados (arts. 2, I, e 12, II, da Lei Complementar n. 87/1996) não foram examinados pela Corte local.
+O prequestionamento significa o prévio debate da questão no Tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca da aplicabilidade ou inaplicabilidade dos dispositivos legais apontados como violados.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia na origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Incidem, portanto, as Súmulas n. 282 e 356 do STF.
+A propósito:
+PROCESSUAL CIVIL. SFH. VÍCIOS CONSTRUTIVOS. INDENIZAÇÃO SECURITÁRIA. CONTRATO LIQUIDADO. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de indenização securitária relacionada a danos, decorrentes de vícios construtivos, verificados em imóvel adquirido pelo Sistema Financeiro da Habitação - SFH, fundando-se a pretensão na cobertura alegadamente prevista em apólice pública de seguro habitacional. Na sentença, extinguiu-se o processo, sem resolução de mérito, ante a falta de legitimidade da Seguradora e carência de interesse processual da parte autora, diante da liquidação do contrato. No Tribunal a quo, a sentença foi mantida. Agravo interno interposto contra decisão que não conheceu do recurso especial.
+II - Verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais apontados no recurso especial, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF. Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos. Ademais, é cediço que o requisito do prequestionamento é exigido por esta Corte Superior inclusive nas matérias de ordem pública. No mesmo sentido: AgInt no AREsp 1.661.808/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 14/9/2020, DJe 21/9/2020. Agint no REsp 1.800.628/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 15/9/2020.
+III - Por fim, ainda que assim não fosse, a análise das insurgências recursais exigiria reexame de cláusulas contratuais e de elementos fáticos-probatórios, o que é vedado nesta via ante os óbices das Súmulas n. 5 e 7/STJ. Confiram-se: AgInt no REsp n. 2.063.754/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/8/2023, DJe de 21/9/2023. AgInt no REsp n. 2.055.442/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/9/2023, DJe de 29/9/2023. AgInt no REsp n. 1.981.047/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+IV - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.645.063/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. ENERGIA ELÉTRICA. VIOLAÇÃO DOS ARTS. 2º, I, E 12, I, DA LC N. 87/96. SÚMULAS N. 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
