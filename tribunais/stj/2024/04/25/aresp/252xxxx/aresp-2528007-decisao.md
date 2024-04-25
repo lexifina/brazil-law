@@ -1,0 +1,16 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança (direito de propriedade). Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - RENÚNCIA AODIREITO DE PROPRIEDADE DO VEÍCULO - EXCLUSÃO DO NOME DOCERTIFICADO DE REGISTRO DE VEÍCULO (CRV) - IMPOSSIBILIDADE -SENTENÇA MANTIDA - RECURSO DESPROVIDO. Apesar do artigo 1.275, II, do Código Civil prever a renúncia como causada perda de propriedade do bem móvel, é certo que os veículos automotores possuem peculiaridades, sendo regidos por leis especiais, notadamente o Código de Trânsito Brasileiro, o qual dispõe que todo automóvel deve estar obrigatoriamente registrado, só podendo o proprietário dispor do bem por transferência ou alienação.
+.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso em questão, extrai-se dos autos que o apelante, Danilo Pires Atala, por meio de petição simples dirigida ao Diretor do Departamento Estadual de Trânsito, vislumbra exercer seu direito de renúncia ao veículo "VW/GOL 16V, Ano 2000, Placa CXH 7283, Chassi", com fulcro no art. 1.275, inciso II, do Código9BWCA15X5YP115966, Renavam 739423169Civil (id. 32438672). No entanto, entende-se, por óbvio, que a petição protocolada, isoladamente, não tem o condão de afastar as responsabilidades decorrentes da propriedade do bem. (..) Sendo assim, não restando comprovada a violação de direito líquido e certo e nem qualquer ilegalidade ou abuso por parte da autoridade coatora, a manutenção da sentença é medida que se impõe.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
