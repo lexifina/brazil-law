@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial, interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+TRIBUTÁRIO. TCFA. ATIVIDADE POTENCIALMENTE POLUIDORA. NÃO REALIZAÇÃO. INEXIGIBILIDADE.
+Tratando-se de cobrança da TCFA, o mero registro cadastral junto à autarquia não constitui hipótese de incidência tributária. A cobrança da referida taxa pressupõe o exercício regular do poder de polícia conferido ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA para controle e fiscalização das atividades potencialmente poluidoras e utilizadoras de recursos naturais. Inteligência da Lei 6.938/1981 (fl. 229).
+Os embargos de declaração opostos restaram rejeitados.
+Nas razões do recurso especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte sustenta a existência de violação ao art. 1.022, II, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta aos demais dispositivos da legislação federal, sustentando, em síntese, que o "simples potencial poluidor da empresa que se habilita para exercer atividades potencialmente poluidoras e utilizadoras de recursos ambientais é suficiente ao enquadramento" (fl. 277).
+Inadmitido o recurso especial, com base na incidência da Súmula 7/STJ, foi interposto o presente agravo e m recurso especial.
+Ultrapassados os requisitos de admissibilidade do presente agravo, passa-se à análise do próprio recurso especial.
+É o relatório. Decido.
+De início, não se reconhece a violação ao art. 1.022, II, do CPC/2015, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada.
+Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+No mais, para melhor elucidação, transcrevo a fundamentação do acórdão recorrido:
+Quanto aos períodos de 2014, consta na sentença que não há qualquer controvérsia, eis que houve informação da própria autora de que em tal período, "efetivamente realizou supressão de vegetação mediante autorização de corte (nº015/2014/GAS/VEG)". Por outro lado, No tocante a TCFA relativa aos anos/trimestres de 2015 a 2020, a que correspondem a Notificação de Lançamento de Crédito Tributário nº 12250299, datada de 30/09/2020, anexada ao evento 1, INF4, houve expressa concordância do IBAMA com o pedido deduzido na inicial .
+Em suas razões recursais, o IBAMA aduz que ocorreu o exercício da atividade potencialmente poluidora também nos trimestres de 03/2013 e 04/2013, sob o fundamento de que a autora possuía inscrição no CTF/APP.
+Contudo, não há prova nos autos da realização da atividade exercida no período objeto da controvérsia recursal. Não consta no contrato social da empresa (ev. 1 CONTRSOCIAL3) ou no seu CNPJ (ev. 13 OUT5 pág. 4) qualquer indicação do exercício da atividade indicada nas Notificação de Lançamento de Crédito Tributário 9934443 acostada à inicial (ev. 1 INF5).
+Os autos indicam, portanto, que na integralidade do interregno impugnado a autora não exerceu atividade descrita no código 20 do ANEXO VIII da Lei 6.938/81.
+No concernente, o que legitima a cobrança da Taxa de Controle e Fiscalização Ambiental é a ocorrência de seu fato gerador, ou seja, o exercício regular do poder de polícia conferido ao IBAMA para controle e fiscalização das atividades potencialmente poluidoras e utilizadoras de recursos naturais, e não a inscrição da pretensa devedora no cadastro do órgão de fiscalização, ou a existência de licença para a atividade em questão.
+Não ocorrendo o exercício de atividades sujeitas à fiscalização, não há falar em fato gerador da taxa, já que o órgão ambiental não será demandado para os atos de controle de sua competência.
+Logo, tenho que ocorreu equívoco por parte do IBAMA, que em sua atividade fiscalizatória vinculada não verificou tratar-se de empresa que não desenvolvia atividade sujeita à sua supervisão (fls. 232-233):
+Todavia, o fundamento não foi impugnado, o que atrai o óbice da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Nesse sentido
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. SAT. RAT. FAP. SEGURO DE ACIDENTE DO TRABALHO. ESCALONAMENTO DAS ATIVIDADES DESENVOLVIDAS PELA EMPRESA. ENQUADRAMENTO POR DECRETO. LEGALIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. SÚMULA N. 283/STF. VIOLAÇÃO AO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. COMPETÊNCIA DO STF. OFENSA AO ART. 97 DO CTN. MERA REPRODUÇÃO DE NORMA CONSTITUCIONAL. INCOMPETÊNCIA DESTA CORTE. ALTERAÇÃO DE ALÍQUOTA DA CONTRIBUIÇÃO AO SAT. ATO INFRALEGAL. NATUREZA CONSTITUCIONAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp n. 2.071.420/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Ademais, para infirmar a conclusão da Corte de origem, nos moldes almejados pela parte recorrente, seria necessário o reexame de provas, o que não é possível nesta estreita via recursal, ante o teor da Súmula 7/STJ.
+Por fim, quanto à alegad a violação a dispositivos de lei federal, cumpre esclarecer que a indicação de ofensa genérica à lei, sem indicar, de forma clara e individualizada, os dispositivos tidos por violados, implica deficiência de fundamentação, atraindo a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
