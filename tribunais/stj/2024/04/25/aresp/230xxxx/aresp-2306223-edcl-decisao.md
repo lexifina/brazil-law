@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ADILSON NAYLOR NAIVERTH, contra decisão que, em juízo de reconsideração, conheceu do agravo para dar provimento ao recurso especial, para declarar a exigibilidade do salário-educação.
+A parte embargante, em suas razões, aponta a existência de contradição na decisão embargada, afirmando que, "se o nobre Julgador entendeu que o vínculo com a sociedade empresarial constitui fato extintivo do direito do Autor, impõe-se notar que o CNPJ mencionado restou constituído tão somente em 10/02/2019" (fl. 318). Argumenta que "convém que seja eliminada a contradição apontada para julgar parcialmente procedente a ação, reconhecendo que, até a data da constituição da sociedade, em 10/02/2019, o Autor desempenhava a atividade rural sob a condição de produtor rural pessoa física, desprovido de CNPJ, não estando sujeito, portanto, ao recolhimento da contribuição ao salário-educação" (fl. 319).
+Ao final, requer "se digne V. Exa. acolher os presentes embargos de declaração para, com fulcro no art. 1.022, I, do CPC, a) eliminar a contradição apontada para reconhecer que o Autor ostentava a condição de produtor rural pessoa física até a data da constituição da sociedade empresarial, em 10/02/2019; b) julgar parcialmente procedente a ação, declarando a inexigibilidade da contribuição ao salário-educação até 10/02/2019 e condenando a Ré à compensação dos valores indevidamente recolhidos até a referida data" (fl. 319e).
+É o relatório.
+Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nessa linha, "o vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ" (STJ, EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 14/08/2015), razão pela qual os embargos não podem ser acolhidos.
+Por outro lado, a alegação da parte embargante a respeito da data de constituição do CNPJ não foi discutida nas instâncias ordinárias e não pode ser inaugurada nes sa via especial.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
