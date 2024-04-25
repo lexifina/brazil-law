@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo de instrumento contra a decisão que, nos autos de execução fiscal, acolheu impugnação apresentada pela executada, e determinou a comprovação pela exequente da avaliação do bem penhorado, em termos de mercado, com declaração de pelo menos três corretores imobiliários, além de outros anúncios publicitários. No Tribunal a quo, o agravo foi provido para determinar o prosseguimento do feito com o leilão dos bens penhorados.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. BENS PENHORADOS. AVALIAÇÃO. OFICIAL DE JUSTIÇA. APLICAÇÃO DOS ARTIGOS 870 E 873 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO DE INSTRUMENTO PROVIDO.
+1. Da leitura dos artigos 870 e 873 do Código de Processo Civil é possível concluir que a avaliação de bem penhorado é, em regra, feita pelo Oficial de Justiça, a quem incumbe lavrar o respectivo auto de penhora e laudo, sendo possível ainda que a tarefa seja cumprida por avaliador nomeado pelo juízo quando se mostrarem necessários conhecimentos específicos.
+2. No caso dos autos, verifica-se na impugnação apresentada pela parte executada, ao laudo de avaliação apresentado pelo Oficial de Justiça (ID de n.º 271869875, páginas 191-195), que houve alegações genéricas sobre o laudo, sem que fosse apresentado qualquer outro laudo técnico que confrontasse a avaliação feita. Ademais, a parte executada se limitou a argumentar que a metodologia empregada na avaliação dos imóveis, não foi suficiente para obter o justo e real valor dos bens, sem sequer, descrever os imóveis minuciosamente, colacionando fotos e laudos a evidenciar a subvaloração dos mesmos, sendo que, nem mesmo, indicou o valor que entende como correto. Desse modo, a avaliação realizada pelo Oficial de Justiça deve ser mantida. Precedentes do STJ e deste Tribunal.
+3. Agravo de instrumento provido, para determinar o prosseguimento do feito com o leilão dos bens penhorados.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso dos autos, verifica-se na impugnação apresentada pela parte executada, ao laudo de avaliação apresentado pelo Oficial de Justiça (ID de n.º 271869875, páginas 191-195), que houve alegações genéricas sobre o laudo, sem que fosse apresentado qualquer outro laudo técnico que confrontasse a avaliação feita.
+Assim, não seria o caso de se proceder a nova avaliação dos bens.
+ ..
+Ademais, a parte executada se limitou a argumentar que a metodologia empregada na avaliação dos imóveis, não foi suficiente para obter o justo e real valor dos bens, sem sequer, descrever os imóveis minuciosamente, colacionando fotos e laudos a evidenciar a subvaloração dos mesmos, sendo que, nem mesmo, indicou o valor que entende como correto.
+V erifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
