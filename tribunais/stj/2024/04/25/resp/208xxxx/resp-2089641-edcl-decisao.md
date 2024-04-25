@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PEDRO ERNESTO STUMM GONCALVES RORIZ MENDES DOMENICI, fls. 622/624, contra decisão de minha lavra, fls. 611/617, que conheceu do seu recurso especial para dar-lhe provimento com afastamento de uma circunstância judicial desfavorável e aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/06, ficando a pena definitiva em 1 ano, 9 meses e 20 dias de reclusão e 183 dias-multa.
+A defesa sustenta omissão a respeito do regime inicial e da substituição da pena privativa de liberdade, em razão da redução de pena operada.
+Alega, ainda, omissão a respeito da prescrição da pretensão punitiva, também em razão da redução de pena operada, considerando os marcos interruptivos da ação penal, quais sejam, o trânsito em julgado da sentença condenatória para a acusação em 8/8/2016 e o trânsito em julgado para a defesa, ou seja, da ação penal, em 1º/6/2021.
+Requer sejam sanadas as omissões com efeitos infringentes para imposição do regime aberto, substituição da pena privativa de liberdade por restritiva de direitos e extinção da punibilidade pelo transcurso de prazo prescricional superior a 4 anos.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC/2015.
+Passo a sanar as omissões.
+De plano, embora o montante de pena tenha ficado igual ou inferior a 4 anos, não é cabível o regime inicial aberto ou a substituição da pena privativa de liberdade por restritivas de direitos, em razão da valoração negativa na primeira fase da dosimetria da quantidade e natureza da droga (fl. 481).
+Quanto à análise de prescrição da pretensão punitiva, cumpre registrar que esta tem como marco interruptivo o acórdão confirmatório da condenação (art. 117, IV, do Código Penal - CP), sendo que o próprio embargante informa que seu recurso de apelação foi julgado em 8/11/2018, considerada data não denota o transcurso de mais de quatro anos entre marcos interruptivos.
+No tocante à prescrição da pretensão executória, levando-se em consideração o trânsito em julgado para a acusação, em atenção ao decidido pelo Supremo Tribunal Federal - STF no ARE 848107 - Tema 788, não há elementos seguros para reconhecimento neste momento. A tese de ocorrência da prescrição da pretensão executória não foi analisada na origem. Assim, deve a referida prescrição executória ser analisada pelo juízo da execução penal. Precedente:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. OCORRÊNCIA DA PRESCRIÇÃO. PLEITO A SER EXAMINADO PELO JUÍZO DA EXECUÇÃO.
+ ..
+2. No caso dos autos, o habeas corpus foi recebido nessa Corte em 19/1/2022 e a superveniente prescrição da pretensão executória teria ocorrido tão somente em 14/10/2022, de modo que não há nos autos elementos suficientes para aferir se no referido período alguma causa interruptiva da prescrição se concretizou.
+3. "Esta Corte possui entendimento de que a análise do pleito de extinção da punibilidade pela prescrição da pretensão executória cabe ao juízo da execução, uma vez que demanda a verificação de diversas informações, não apenas quanto o trânsito em julgado para a acusação e início da execução da pena, como também acerca da ocorrência de incidentes que interferem diretamente na contagem do prazo prescricional, nos termos do disposto nos arts. 116, parágrafo único e 117, incisos V e VI, ambos do CP. Julgado: AgRg no HC 457.810/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 8/11/2018, DJe 23/11/2018" (AgRg no HC n. 473.344/PB, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/3/2020, DJe 26/3/2020).
+4. Agravo regimental improvido.
+(AgRg no AgRg no HC n. 718.230/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+Ante o exposto, com fundamento no art. 264, § 1º, do RISTJ, acolho os embargos de declaração, sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
