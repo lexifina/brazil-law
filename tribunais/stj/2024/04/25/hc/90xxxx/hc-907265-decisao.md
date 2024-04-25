@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ENRICO OLIVEIRA RODRIGUES DE MELO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL.
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 33 da Lei n. 11.343/2006, à pena de 7 anos de reclusão no regime inicial fechado.
+O Tribunal a quo negou provimento ao recurso de apelação aviado pela defesa. O acórdão está assim ementado (e-STJ fl. 30):
+EMENTA - APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - TRÊS APELANTES - ABSOLVIÇÃO - IMPOSSIBILIDADE - TRAFICÂNCIA PRATICADA PELOS AGENTES COMPROVADA - DESCLASSIFICAÇÃO PARA FAVORECIMENTO REAL - INCABÍVEL - PLEITO DE REDUÇÃO DA PENA- BASE - NÃO CABÍVEL - BEM SOPESADA - MINORANTE DO TRÁFICO PRIVILEGIADO - NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS - CONCESSÃO DE GRATUIDADE JUDICIAL - INVIABILIDADE - RECURSO NÃO PROVIDO.
+Verificado que a sentença está em consonância com as provas colhidas durante a instrução criminal (prova testemunhal, auto de apreensão e laudo de exame toxicológico) e com as circunstâncias fáticas que envolveu o delito em questão, demonstrando que os apelantes transportavam substância entorpecente não há falar em absolvição. Condenação mantida.
+Incabível a desclassificação da conduta para o art. 359 do Código Penal, ante a inexistência de qualquer ligação casuística da conduta do apelante a um crime anterior. Tratou-se, pois, de conduta desligada de qualquer fato típico precedente, que, em verdade, foi praticada em coautoria com os demais agentes, consistente no crime de tráfico de drogas.
+Na primeira fase da dosimetria da pena, para a fixação da pena-base, deve haver análise das circunstâncias judiciais enumeradas no art. 59 do Código Penal.
+In casu, a circunstância judicial relativa à "quantidade da droga" está adequadamente fundamentada, pelo que deve ser mantida, à luz do que dispõem o art. 59 do CP, art. 42, da Lei n.º 11.343/06 e art. 93, IX, da CF/88, mantido o quantum de elevação, pois está em consonância com os princípios da razoabilidade e proporcionalidade.
+Incabível a minorante do tráfico privilegiado, pois além da elevada quantidade de drogas, as circunstâncias do caso concreto indicam que realmente os apelantes cooperavam com organização criminosa, evidenciando que não fazem jus à minorante.
+Tratando-se de réu patrocinado por advogado particular, tenho entendido que a isenção do pagamento das custas processuais poderá ser concedida apenas pelo Juízo da Vara de Execuções Penais, pois é na fase de execução, onde se exigirá tal valor, o momento adequado para aferir a real situação financeira do condenado.
+Com o parecer, não provido
+Alega a defesa, nesta impetração, que não há provas suficientes para a manutenção da condenação que foi imposta ao paciente.
+Insurge-se também contra a pena aplicada.
+É, em síntese, o relatório.
+Pretende a defesa, nesta impetração, a desconstituição da condenação que foi imposta ao paciente pela prática do crime de tráfico de entorpecentes.
+Não obstante, a leitura do voto condutor do acórdão atacado revela que a condenação apoia-se em provas produzidas em juízo, notadamente a versão apresentada pelos policiais responsáveis pela realização da prisão em flagrante dos réus. Confira-se (e-STJ fls. 33/34):
+A materialidade do delito está devidamente comprovada pelo Auto de Prisão em Flagrante (fls. 08-10), Boletim de Ocorrência (fls. 41-42), pelo Auto de Apreensão (fls. 45-46), pelo Laudo Toxicológico Definitivo (fls. 124-127), e os depoimentos colhidos nos autos.
+A autoria igualmente restou demonstrada em relação aos réus por meio do conjunto probatório, especialmente prova testemunhal, bem como pelas circunstâncias fáticas em que ocorreu o delito.
+Os réus ao serem interrogados em juízo negaram que soubessem que havia substância entorpecente nos baldes. Disseram que foram contratados por uma pessoa conhecida como "Baixinho" para transportar os baldes, mas não tinham conhecimento que havia substância entorpecente (fl. 172 - arquivo de mídia).
+Em que pese as negativas dos réus, o acervo probatório não deixa dúvidas quanto à traficância por eles praticada.
+O policial Fernando Nery da Silva que atuou nas diligências que culminaram com a prisão dos réus, em juízo ratificou o depoimento extraprocessual de fls. 17-18, declarando que estava andando pela rua e tinha um informe que um veículo mobi teria sido fruto de apropriação indébita em outro estado e tinha também um informe que poderia estar envolvido com tráfico de drogas. Passando pela rua Antônio Joao nos avistamos esse veículo, fizemos a abordagem e lá atras dentro tinha dois baldes de cloro, foi verificado os baldes e lá dentro estava a droga (fl. 172 - arquivo de mídia).
+No mesmo sentido, foi o depoimento do investigador de policial Maki Carvalho Lanzarini que asseverou em juízo que Estamos em patrulhamento comum, estava até em serviço administrativo e tinha a informação de um mobi branco fiat e tinha boletim de ocorrência apropriação indébita do Paraná, ali na rua Antônio João verificamos que esse carro estava estacionado e tinha três pessoas colocando uns baldes no porta-malas. Daí a gente fez a abordagem e checou pela placa que era o veículo. Eles não sabiam explicar direito que era aquelas caixas de cloro, pra onde eia ou o que ia fazer. A princípio eles iam despachar para São Paulo, aí nós abrimos a caixa de cloro e estava enterrado dentro do cloro naqueles baldes grandes os tabletes de maconha(fl. 172 - arquivo de mídia).
+Destarte, apesar da negativa dos réus, as circunstâncias fáticas deixam claro que sabiam do transporte da droga. Chama a atenção o fato de que foram contratados por pessoa desconhecida na região de fronteira com o país vizinho para levaram baldes de cloro para o Estado de São Paulo.
+Assim, não se vislumbra situação de flagrante ilegalidade que justifique a concessão da ordem, pois foram indicadas provas válidas para a manutenção da condenação.
+Com efeito, segundo o relato dos policiais, o paciente foi detido em flagrante transportando a substância entorpecente.
+Ademais, a via estreita do habeas corpus, por não admitir a dilação probatória, não se revela o meio adequado para desconstituir as conclusões alcançadas pela instância ordinária.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO. INVIABILIDADE. REEXAME DE PROVAS.
+1. A condenação do agravante, pela prática do crime de tráfico de entorpecentes, decorreu das circunstâncias da apreensão da substância entorpecente, em sua residência, em quantidade significativa e de forma fracionada, além de balança de precisão e armas de fogo. Rever a conclusão da instância ordinária, a fim de se desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, reclamaria, neste caso, ampla incursão no acervo probatório, incompatível com a estreita via do habeas corpus.
+2. Agravo Regimental desprovido.
+(AgRg no HC n. 806.662/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+A reprimenda aplicada, por sua vez, não comporta reparo, pois o aumento imposto à pena-base está devidamente fundamentado na quantidade de entorpecente apreendido (42kg - quarenta e dois quilos - de maconha).
+Ante o exposto, indefiro liminarmente o h abeas corpus.
+Publique-se. Intimem-se.
+EMENTA
