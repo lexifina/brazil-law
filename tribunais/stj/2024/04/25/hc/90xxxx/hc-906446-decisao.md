@@ -1,0 +1,10 @@
+DECISÃO
+DIEGO RAULLABRE DE FRANCA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0002536-66.2024.8.26.0996, em que foi dado provimento ao recurso ministerial "para, cassada a r. decisão recorrida, determinar a requisição de informação referente a eventual participação  sua  em organização criminosa" (fl. 51).
+Assere a defesa, neste writ, que "é vedado o reconhecimento de qualquer elemento incriminador com base em informações frágeis e unilaterais, visto que a anotação foi lançada no boletim informativo na data de 27/12/2021 e até o presente momento nenhuma prova foi produzida acerca da suposta participação do agravado no crime organizado" (fl. 5).
+Todavia, apontou a Corte de origem que "compulsando os autos, verifica-se que há indícios de que o Agravado participe de organização criminosa, visto que no Boletim Informativo consta que: ".. Com base de informações do DCSD, há indícios de que faça parte de facção criminosa. .." (fls. 19), conforme determinado pelo art. 1º, da Resolução SAP nº 118/2013. Sendo assim, diligência adicional se torna imprescindível" (fl. 54).
+De fato, o destaque a que se refere o Tribunal a quo foi registrado no boletim informativo referente à execução do sentenciado, o qual é elaborado pela Secretaria da Administração Penitenciária, de modo que não há ilegalidade no pleito ministerial de verificação dos mencionados indícios.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+Assim, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos indícios existentes para deferimento de diligência, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
