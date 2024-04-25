@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, agravo interno interposto por EDUARDO NUNES FILHO contra decisão de lavra do Ministro OG FERNANDES, que não conheceu do agravo em recurso especial por incidência do óbice da Súmula 182/STJ.
+Sustenta a parte agravante, em síntese, que "ao contrário do que entendeu o d. relator, o autor impugnou todos os fundamentos da decisão que decidiu não admitir o recurso especial, demonstrando, inclusive, o não óbice a súmula nº 7 deste c. Superior Tribunal de Justiça".
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+Em vista dos relevantes argumentos suscitados pela parte agravante, em juízo de reconsideração, torno sem efeito a decisão agravada e passo a novo exame do agravo em recurso especial.
+Entretanto, melhor sorte não socorre a parte ora recorrente pois o recurso especial não merece ser conhecido em razão da incidência do óbice da Súmula 284/STF ao feito.
+Isto porque, a parte recorrente deixou de indicar quais os dispositivos de lei federal teriam sido violados ou objeto de interpretação divergente pelos acórdãos confrontados.
+Com efeito, a admissibilidade do recurso especial, tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF. Nesse sentido: AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe de 17/3/2014; AgInt no AREsp n. 1.656.469/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020; AgInt no AREsp n. 1.664.525/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2020, DJe de 14/12/2020.
+Cumpre destacar, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.738.090/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021). Nesse sentido: REsp n. 775.021/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2009, DJe de 27/8/2009.
+Isso posto, reconsidero a decisão de fls. 252-253 e-STJ e, por conseguinte, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
