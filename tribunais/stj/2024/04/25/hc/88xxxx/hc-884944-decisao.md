@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CAIO MAX DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o pedido de indulto natalino foi indeferido pelo juízo da execução. Contra tal decisão foi interposto agravo de execução pela defesa e o recurso foi improvido pelo Tribunal de origem, daí o presente writ.
+O impetrante sustenta que o paciente preenche todos os requisitos previstos no Decreto Presidencial nº 11.302/22 e, portanto, faz jus ao indulto natalino.
+Além disso, alega que deve ser deferida a progressão de regime em favor do paciente em observância aos princípios da dignidade da pessoa humana, da razoabilidade e da proporcionalidade.
+Requer, em pedido liminar e no mérito, seja concedido o "INDULTO NATALINO 2022, com base no artigo 5º, tendo em vista o alcance dos requisitos subjetivos e objetivos" (fl. 12).
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (fls. 717-723).
+Inicialmente, a apontada tese defensiva, a fim de conceder a progressão de regime ao paciente, não foi apreciada pela Corte de origem, o que obsta a apreciação da questão por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatido o pleito pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+Noutro ponto, acerca da indulto natalino, o Tribunal a quo assim decidiu (fls. 17-21):
+Prima facie, rejeito a arguição de inconstitucionalidade do art. 5º, caput, do Decreto Presidencial nº 11.302/22, suscitada pelo Ministério Público.
+Com efeito, comp ete privativamente ao Presidente da República (CF, art. 84, XII) a fixação dos requisitos necessários à concessão de indulto ou comutação de penas por meio da edição de Decretos Presidenciais, cabendo ao Poder Judiciário aferir o preenchimento dos requisitos fixados no ato normativo do Chefe do Poder Executivo federal, em cumprimento ao princípio da separação e harmonia entre os poderes. Nesse sentido, o entendimento do Excelso Supremo Tribunal Federal:
+ ..
+À luz desses elementos, denota-se que o Decreto Presidencial em questão foi editado em consonância com a norma do artigo 84, XII, da Constituição Federal, sobretudo porque a clemência presidencial não foi estendida aos delitos de tortura, tráfico ilícito de drogas, terrorismo e ou aos crimes hediondos, em observância à limitação constitucional (CF, art. 5º, XLIII).
+No mérito, pelo que consta dos autos (fls. 573/576), o agravante foi condenado nos autos da ação penal nº 0002763-76.2015.8.26.0283 à pena de 8 (oito) anos, 1 (um) mês e 10 (dez) dias de reclusão em regime inicial fechado, pela prática dos crimes de roubo majorado (CP, art. 157, § 2º, I, II e V) e de associação criminosa majorada (CP, art. 288, parágrafo único), condenação essa que gerou a presente execução criminal (PEC nº 881/17); e, nos autos da ação penal nº 1500120-26.2018.8.26.0555, foi condenado por roubo majorado (CP, art. 157, § 2º, II, e § 2º-A, I), dando azo à nova execução criminal (PEC nº 1062/19).
+Pois bem.
+Como já ressalvado alhures, a análise dos benefícios executórios de indulto e comutação de penas tem por parâmetro os requisitos previstos no Decreto Presidencial, consoante pacífico entendimento firmado no Colendo Superior Tribunal de Justiça:
+ ..
+O indulto natalino com base no artigo 5º, caput, do Decreto Presidencial não comporta deferimento.
+Isso porque, da análise das disposições contidas no Decreto Presidencial nº 11.302/22, é possível inferir que, tratando-se de condenações criminais a crimes diversos, com possibilidade de concessão de indulto natalino a parte deles, não se concederá aludido benefício ao crime não impeditivo enquanto não cumprida integralmente a pena do crime impeditivo, ainda que os delitos não tenham sido praticados em concurso, porquanto, por força de regra específica do ato normativo do decreto presidencial, as penas correspondentes a infrações penais diversas devem ser unificadas ou somadas. Confiram-se, a propósito, o disposto nos artigos 7º, II, e 11, caput e parágrafo único, ambos do Decreto Presidencial nº 11.302/22:
+ ..
+No caso dos autos, o agravante foi condenado por dois roubos majorados e por uma associação criminosa majorada, exigindo-se à concessão de indulto ao crime não impeditivo (associação criminosa) o cumprimento integral das penas alusivas aos crimes impeditivos (roubos majorados), requisito objetivo que não foi cumprido pelo sentenciado (cf. cálculo de penas de fls. 573/576).
+Por tais razões, ante o não preenchimento de requisito objetivo previsto no decreto presidencial, afigurou-se correta a decisão de origem que indeferiu o pleito defensivo, inexistindo razão para sua reforma.
+Dispositivo.
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO AO AGRAVO DEFENSIVO.
+A Terceira Seção do Superior Tribunal de Justiça, em julgamento ocorrido aos 8/11/2023, posicionou-se no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos". O acórdão ficou assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido.
+(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+Na ocasião, destacou-se que o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+Assim, partindo-se de uma interpretação restritiva do Decreto n. 11.302/2002, apenas em caso de concurso de crimes impeditivos e não impeditivos, dentro de um mesmo contexto, não seria possível aplicar o indulto, nos termos do art. 11, parágrafo único, do referido ato presidencial.
+Ao que se tem dos autos, o crime não impeditivo (associação criminosa) foi praticado em concurso material com crime impeditivo (roubo majorado) - ação penal nº 0002763-76.2015.8.26.0283, não sendo cabível a concessão do indulto pleiteado.
+No presente caso, a interpretação dada pela Corte de origem à norma do parágrafo único do art. 11 do Decreto n. 11.302/2022 coaduna-se com o mais recente entendimento da Terceira Seção desta Corte sobre o tema, não se verificando o apontado constrangimento ilegal.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
