@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CINTIA FELIX DA SILVEIRA (CINTIA) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, CINTIA alegou a violação dos arts. 185-A do CTN e 805 do NCPC, ao sustentar que não é possível a utilização do sistema CNIB mesmo quando esgotadas todas as tentativas de localização de bens penhoráveis, por se tratar de medida extremamente gravosa, que não se mostra proporcional ou razoável diante do pequeno valor do débito. Ademais, salienta que não há nos autos qualquer evidência de CINTIA possua bens passíveis de indisponibilidade, muito menos que deles pretenda se desfazer. Menciona dissídio em apoio a sua tese.
+Da indisponibilidade de bens
+Sobre a questão, os julgadores assim consideraram:
+Sendo assim, a ferramenta CNIB - Central Nacional de Indisponibilidade de Bens nada mais é do que uma tentativa do credor em ver a satisfação de seu crédito junto ao devedor.
+Entendo que o pedido de indisponibilidade de bens pelo sistema Central Nacional de Indisponibilidade de Bens - CNIB merece prosperar, tendo em vista que envolve a busca de bens imóveis, permitindo que se pesquise a propriedade de patrimônio imobiliário em diversas Comarcas do país.
+Destarte, o presente feito tramita no interesse do credor, motivo pelo qual não há óbice para o deferimento do pedido de pesquisa dos bens da agravada passíveis de penhora. Logo, é caso de reformar a decisão agravada, de modo que seja possibilitada a busca de bens penhoráveis através do sistema CNIB, bem como comunicar o nome da parte agravada ao referido sistema de indisponibilidade (e-STJ, fls. 45).
+Com efeito, o entendimento adotado pelo Tribunal de origem se coaduna com a jurisprudência do STJ no sentido da possibilidade de utilização do Central Nacional de Indisponibilidade de Bens (CNIB) de forma subsidiária após o esgotamento das medidas ordinárias e sempre sob o crivo do contraditório (AgInt no AREsp n. 1.896.942/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO QUE DEFERIU A UTILIZAÇÃO DOS SISTEMAS SERASAJUD E CNIB. POSSIBILIDADE. PRECEDENTES. DISCRICIONARIDADE DO JUIZ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. IMPOSSIBILIDADE DE ANÁLISE DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL EM APELO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. A utilização dos sistemas auxiliares conveniados do Poder Judiciário assim como o uso do sistema da CNIB - para eventual inclusão de gravame de indisponibilidade sobre matrícula imobiliária - são medidas que se mostram extremamente importantes na concretização do princípio da efetividade do processo, pois acarretam significativa limitação ao crédito do devedor, em razão da negativação de seu nome, sendo um instrumento eficaz para assegurar a satisfação da obrigação.
+3. Esta Corte Superior possui entendimento firmado de ser legal a realização de pesquisas nos sistemas BACENJUD, RENAJUD e INFOJUD, uma vez que são meios colocados à disposição da parte exequente para agilizar a satisfação de seus créditos, dispensando-se o esgotamento das buscas por outros bens do executado.
+4. Sendo medida menos onerosa à parte executada, a utilização dos sistemas auxiliares conveniados do Poder Judiciário, como o SERASAJUD, e do sistema da CNIB pode ser determinada antes de esgotada a busca por bens penhoráveis.
+5. O Superior Tribunal de Justiça possui entendimento de ser discricionariedade do magistrado determinar a inclusão do nome do executado inadimplente no SERASAJUD. Analisar a discricionariedade do magistrado é matéria que demanda reexame do acervo fático-probatório constante dos autos, procedimento vedado em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+6. É sabido que "não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (EDcl no AgInt nos EREsp 1.763.376/TO, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/2/2022, DJe 22/2/2022).
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.361.944/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/12/2023, DJe de 18/12/2023.)
+PROCESSUAL CIVIL E CIVIL. EXECUÇÃO DE ALIMENTOS. ESGOTAMENTO DOS MEIOS ORDINÁRIOS. CONSULTA E EXPEDIÇÃO DE ORDEM DE INDISPONIBILIDADE DE BENS VIA CENTRAL NACIONAL DE INDISPONIBILIDADE DE BENS - CNIB. POSSIBILIDADE. PRINCÍPIO DA MENOR ONEROSIDADE RESPEITADO. PRINCÍPIOS DA EFETIVIDADE DO PROVIMENTO JURISDICIONAL E DA COOPERAÇÃO ENTRE OS SUJEITOS DO PROCESSO.
+1. Nos termos da previsão contida no artigo 2º do Provimento nº 39/2014 do CNJ, a Central Nacional de Indisponibilidade de Bens - CNIB tem por finalidade não somente a divulgação das ordens de indisponibilidade, como mecanismo de consulta, mas igualmente a recepção das ordens para a decretação "de indisponibilidades que atinjam patrimônio imobiliário indistinto, assim como direitos sobre imóveis indistintos, e a recepção de comunicações de levantamento das ordens de indisponibilidade nela cadastradas".
+2. Consoante o provimento nº 39/2014 do CNJ, o sistema foi instituído tendo em vista a "necessidade de racionalizar o intercâmbio de informações entre o Poder Judiciário e os órgãos prestadores de serviços notariais e de registro, visando celeridade e efetividade na prestação jurisdicional e eficiência do serviço público delegado".
+3. A utilização do CNIB de forma subsidiária, após o esgotamento das medidas ordinárias e sempre sob o crivo do contraditório, encontra apoio no art. 139, incisos II e IV do CPC, e não viola os princípios da razoabilidade, proporcionalidade ou da menor onerosidade ao devedor.
+4. Recurso especial parcialmente provido.
+(REsp n. 1.969.105/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2023, DJe de 19/9/2023.)
+Incidência da Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INCLUSÃO DE NOME NO CNIB. POSSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO .
