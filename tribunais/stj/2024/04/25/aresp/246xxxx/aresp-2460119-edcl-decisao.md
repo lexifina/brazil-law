@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCELO JOSÉ RANGEL TAVARES, em causa própria, em face da decisão de fls. 262/264, que não conheceu do recurso.
+O embargante alega, em síntese, que a referida decisão merece reforma, haja vista que a data correta da publicação da decisão agravada é 25/04/2023, considerando o entendimento de que prevalece a intimação realizada em data mais recente quando houver divergência entre as publicações feitas pelos Diário de Justiça Eletrônico e Diário Eletrônico de Justiça Nacional.
+Em relação ao preparo, sustenta que apresentou o comprovante de pagamento das custas inicialmente recolhidas, bem como efetuou o recolhimento em dobro, nos termos da intimação feita pelo tribunal de origem.
+Requer o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados, dando-se prosseguimento ao feito.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, tendo apresentado impugnação no prazo legal. (fls. 273/276)
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, observa-se que a parte embargante não apontou, na forma prevista no art. 1.022 do CPC, quais os vícios e de que forma a decisão embargada estaria por eles contaminada.
+Dito isso, observa-se que o embargante argumenta, em relação à intempestividade, que a data mais recente de publicação - 25/4/2023 - deve prevalecer, nos termos da certidão exarada à fl. 206.
+No entanto, ainda que se adote tal premissa, a intempestividade seria certificada de igual forma, uma vez que o agravo em recurso especial, recurso cabível na espécie, foi interposto meses após a intimação, em 26/7/2023, seja uma ou outra a data a considerar.
+E tal se deve, não por uma contagem equivocada de prazos, mas sim porque o embargante manejou recurso manifestamente incabível para se insurgir contra a decisão que não admitiu o seu recurso especial, fundamento contra o qual nada argumentou nas presentes razões recursais.
+Em relação ao preparo, reitera-se aqui o quanto aduzido na decisão de fls. 262/264, na qual se ressaltou que o embargante incorreu no mesmo equívoco antes perpetrado.
+No ponto, verifica-se que, conquanto tenha anexado o comprovante de pagamento das custas inicialmente recolhidas e efetuado outro pagamento do mesmo valor, atendendo assim ao comando do tribunal de origem, apresentou comprovante inválido em relação à complementação do preparo, sem a devida correspondência com a guia apresentada, tendo assim deixado novamente de sanear o vício apontado.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
