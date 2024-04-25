@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, RECURSO ESPECIAL interposto por DEPARTAMENTO DE ESTRADAS DE RODAGEM contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+EMBARGOS À EXECUÇÃO DE SENTENÇA - JUROS COMPENSATÓRIOS E MORATÓRIOS - OS JUROS COMPENSATÓRIOS SÃO CONTADOS NA TAXA DE 12% AO ANO E MORATÓRIOS DE 6% AO ANO OS JUROS SÓ SÃO DEVIDOS A PARTIR DO TRÂNSITO EM JULGADO INTELIGÊNCIA DA SÚMULA 70 DO STJ RECURSO IMPROVIDO
+Os embargos de declaração foram rejeitados.
+A parte recorrente sustenta: i) ocorrência de ofensa à coisa julgada pela alteração dos juros fixados no título em execução, bem como do princípio da não piora da situação do recorrente (non reformatio in in pejus) (arts. 467, 468, 471, 473 e 474 do CPC/1973); e ii) impossibilidade de incidência dos juros de mora a partir do trânsito em julgado da sentença (art. 15-B do Decreto-Lei n. 3.365/1941).
+Contrarrazões apresentadas.
+Após reenvio à origem para aplicação da sistemática de recursos repetitivos, o órgão julgador da origem entendeu pela conformidade entre o acórdão recorrido e a tese desta Corte, mas a Vice-Presidência local admitiu o recurso especial sem analisar a referida conformidade.
+É o relatório.
+Passo a decidir.
+No que tange à ofensa à coisa julgada e à impossibilidade de piora da situação da parte recorrente em seu próprio recurso (non reformatio in pejus), a matéria não foi objeto de decisão pela origem. O recurso especial não alega vício de fundamentação, portanto a pretensão da parte recorrente carece de prequestionamento, nos termos da Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Quanto à incidência dos juros de mora a partir do trânsito em julgado, à luz da Súmula n. 70/STJ ("Os juros moratórios, na desapropriação direta ou indireta, contam-se desde o trânsito em julgado da sentença"), o STJ fixou a seguinte tese vinculante no Tema n. 1.073/STJ:
+As Súmulas 12/STJ ("Em desapropriação, são cumuláveis juros compensatórios e moratórios."), 70/STJ ("Os juros moratórios, na desapropriação direta ou indireta, contam-se desde o trânsito em julgado da sentença.") e 102/STJ ("A incidência dos juros moratórios sobre compensatórios, nas ações expropriatórias, não constitui anatocismo vedado em lei.") somente se aplicam às situações havidas até 12.01.2000, data anterior à vigência da MP 1.997-34.
+No caso dos autos, a sentença transitou em julgado em 2003, excluída, portanto, da previsão normativa acima. Assim, deve incidir a regra consolidada no Tema n. 210/STJ: "O termo inicial dos juros moratórios em desapropriações é o dia 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito".
+No que tange ao percentual dos juros moratórios, independentemente da vinculação ou não à coisa julgada, a lei superveniente é aplicável a partir de sua edição a todos os processos, mesmo os já transitados. A propósito
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. JUROS DE MORA. COISA JULGADA. RELAÇÃO DE TRATO SUCESSIVO. LEGISLAÇÃO SUPERVENIENTE. OBSERVÂNCIA. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, fixou o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução, não havendo, pois, nesses casos, que falar em violação da coisa julgada (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 25/9/2015).
+2. Seguindo a compreensão externada no referido julgado, a orientação desta Corte é no sentido de que os consectários da condenação (correção monetária e juros de mora ou compensatórios - sendo estes últimos o que está em debate) figuram como obrigações de trato sucessivo, que se renovam mês a mês, devendo ser aplicada a legislação vigente no mês de regência.
+3. No caso, a decisão impugnada contrariou o entendimento do STJ, porque concluiu que "o título judicial foi formado muito antes da inovação legislativa que reduziu o índice para 6%, de modo que, com relação aos juros compensatórios, deve ser respeitada a coisa julgada".
+ ..
+(AgInt no REsp n. 1.893.647/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Assim, tendo em conta também que os juros de mora devem seguir a norma de regência do momento em que incidem, o percentual aplicável no caso dos autos é de 6% ao ano, nos termos da redação dada ao art. 15-B do Decreto-Lei n. 3.365/1941 pela MP n. 2183-56/2001, publicada em 24/8/2001.
+Isso posto, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, para fixar a incidência dos juros de mora em 6% ao ano, contados na forma do Tema n. 210/STJ.
+Intimem-se.
+EMENTA
