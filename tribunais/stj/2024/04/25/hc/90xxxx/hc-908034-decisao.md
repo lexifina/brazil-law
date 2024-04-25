@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 243):
+EMENTA: HABEAS CORPUS - HOMICÍDIOS QUALIFICADOS PELO MOTIVO TORPE E RECURSO QUE DIFICULTOU A DEFESA DAS VÍTIMAS, NAS MODALIDADES TENTADA E CONSUMADA - EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA - NÃO CONFIGURAÇÃO - PACIENTE PRONUNCIADO - SÚMULA 21 DO STJ - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO DE PRONÚNCIA FUNDAMENTADA - MODO DE EXECUÇÃO DOS DELITOS CONTRA A VIDA - CONCURSO DE PESSOAS E EMPREGO DE RELEVANTE VIOLÊNCIA - CRIMES MOTIVADOS PELO COMÉRCIO DE DROGAS - GARANTIA DA ORDEM PÚBLICA (ART. 312 DO CPP) - CONTEMPORANEIDADE DO DECRETO PRISIONAL DEMONSTRADA. 1. O Excesso de Prazo resta superado ante a Decisão de Pronúncia, consoante enunciado na Súmula nº 21 do STJ e jurisprudência do Tribunal Superior. 2. A Segregação Cautelar, para garantia da ordem pública (art. 312 c/c art. 413, §3º, ambos do CPP), deve ser mantida, quando demonstrado o perigo gerado pelo estado de Liberdade do Paciente, tendo em vista a prática de Delitos de Homicídio Qualificado Tentado e Consumado, em Concurso de Pessoas, com emprego de relevante violência, mediante golpes de barras de ferro, sendo os Crimes motivados por dívida referente à compra de entorpecentes, o que evidencia a insuficiência e inadequação das Medidas Cautelares Diversas da Prisão. 3. A contemporaneidade do Decreto Prisional encontra-se demonstrada no fato de que, a partir dos elementos colhidos durante a Investigação, a Autoridade Policial e o Parquet obtiveram indícios suficientes da suposta participação do Paciente nos Delitos, assim como verificaram a presença dos requisitos autorizadores da Prisão Preventiva.
+O paciente teve a prisão preventiva decretada pela prática, em tese, de homicídios, nas modalidades tentada e consumada (arts. 121, §2º, I e IV, e art. 121, §2º, I e IV c/c art. 14, II, ambos do CP).
+No presente writ, sustenta a defesa que a fundamentação para a prisão preventiva seria inidônea, eis que baseada no clamor público e na gravidade abstrata.
+Alega que estão ausentes os requisitos do art. 312 do CPP e que o decreto prisional carece de fundamentação idônea, bem como não teria sido justificada a não aplicação das medidas cautelares diversas da prisão.
+Aduz, ainda, ausência de contemporaneidade dos fatos que deram ensejo à prisão cautelar, destacando que o paciente é primário e possui predicados favoráveis.
+Requer, liminarmente e no mérito, a concessão de medidas cautelares até que se aprecie o mérito deste writ e, ao final, a concessão de liberdade provisória ao paciente ou, subsidiariamente, a manutenção de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Após consulta ao sistema processual desta Corte, observa-se que em processo conexo a este, o HC 822866/MG, já foi proferida decisão pela necessidade de manutenção da prisão preventiva do paciente, bem como pela inviabilidade de substituição da segregação cautelar por medidas alternativas diversas.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
