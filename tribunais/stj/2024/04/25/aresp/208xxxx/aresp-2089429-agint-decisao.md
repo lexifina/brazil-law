@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo interno interposto por FERNANDO PEREIRA DE SOUZA NETO contra decisão de lavra do Ministro OG FERNANDES, que não conheceu do agravo em recurso especial, pela aplicação da Súmula 182/STJ.
+Sustenta a parte agravante, em síntese, que "foi exaustivamente demonstrado nas respectivas razões que tratava-se apenas de matéria de direito e não de provas, uma vez que o Autor, ora Agravante, através de seu advogado exerceu o direito legal de recorrer e lhe teve "barrado acesso ao Poder Judiciário". Sendo assim, contrário à Lei e jurisprudência. Não há provas a serem examinadas ou reexaminadas e sim, a aplicação errônea do direito, leis, jurisprudências. Portanto, a matéria em discussão é eminentemente de direito, ou seja, artigos 1.022, inc. I e II, artigo 1.026, §2º do CPC".
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+Em vista dos relevantes argumentos suscitados pela parte agravante, em juízo de reconsideração, torno sem efeito a decisão agravada e passo a novo exame do agravo em recurso especial.
+O acórdão foi assim ementado:
+"EMBARGOS DE DECLARAÇÃO. A TURMA RESOLVEU A QUESTÃO QUE ERA SUFICIENTE PARA JUSTIFICAR A MANUTENÇÃO DA DECISÃO PROFERIDA NA ORIGEM. O SEGURADO, NÃO SE CONFORMANDO COM O CRITÉRIO DE JULGAMENTO, INTERPÔS EMBARGOS E REPLICOU OS MESMOS ARGUMENTOS QUE JÁ HAVIAM SIDO EXPRESSAMENTE REFUTADOS. ÓBVIA AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. ELE FOI INTIMADO ACERCA DA ILICITUDE DA SUA CONDUTA E INSISTIU. ABSOLUTA DESNECESSIDADE DOS EMBARGOS, QUE SÃO DECLARADOS PROTELATÓRIOS. NÃO INCIDÊNCIA DA SÚMULA N. 98 DO STJ. INCIDÊNCIA DA MULTA DO § 2º DO ARTIGO 1.026 DO CPC"
+No recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, ofensa aos arts. 1.022 do CPC/2015, por negativa de prestação jurisdicional e 1.026 do CPC/2015 por entender ser indevida a multa aplicada em sede de Embargos de Declaração.
+Como certificado nos autos, transcorreu in albis o prazo para contrarrazões.
+O Recurso Especial foi inadmitido pelo Tribunal de origem, daí a interposição do presente agravo (fls. 202-214).
+É o relatório.
+Decido.
+Inicialmente, quanto à apontada violação ao art. 1.022, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, de modo que não ficou configurada a negativa de prestação jurisdicional. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, melhor sorte assiste ao recorrente.
+No caso, o Tribunal de origem entendeu ser devida a multa aplicada na oposição dos primeiros Embargos de Declaração por entender estar presente o intuito protelatório.
+Entretanto, ao assim decidir, o Tribunal dissentiu do entendimento pacifico desta Corte no sentido de que os "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC INEXISTENTE. ACÓRDÃO QUE CONCLUIU PELA AUSÊNCIA DO DIREITO À COMISSÃO DE CORRETAGEM COM APOIO NO SUBSTRATO FÁTICO DOS AUTOS. ÓBICE DA SÚMULA N. 7/STJ.
+1. Não configura ofensa ao art. 1.022 do CPC o fato de o Tribunal de origem adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O Tribunal local, com base no conjunto fático-probatório, reconheceu que não houve a efetiva prestação do serviço de intermediação apta a ensejar a obrigatoriedade de pagamento da comissão de corretagem pleiteada.
+3. A reversão do julgado para acolhimento da tese do agravante de que sua intermediação conduziu ao resultado útil configurador da comissão, em contraposição às conclusões da origem ("o corretor que efetivamente promoveu a aproximação do comprador e vendedor não foi o autor"; "não é possível reconhecer que a concretização do negócio decorreu da atuação do autor"), demandaria reexame do acervo fático dos autos, o que torna inafastável os preceitos da Súmula n. 7/STJ.
+4. O recurso interno merece provimento quanto à tese de inadequada aplicação da multa prevista no art. 1.026, § 2º, do CPC, visto que a oposição de embargos de declaração, por si só, não autoriza a incidência da sanção, mormente diante da pretensão de prequestionamento pelo qual também foi manejado, fazendo atrair, ao ponto, os preceitos da Súmula n. 98/STJ. Agravo interno provido em parte" (AgInt nos EDcl no REsp n. 1.884.962/PR, relator Ministro Humberto Martins, Terceira Turma, DJe de 12/4/2024).
+Com efeito, da leitura dos Embargos de Declaração opostos, verifica-se que esses foram manejados, também, com intuito de prequestionar a matéria apresentada no âmbito do apelo especial.
+Isso posto, reconsidero a decisão de fls. 231-232 e-STJ. Por conseguinte, conheço do agravo para conhecer do recurso especial e, na parte conhecida, dar-lhe parcial provimento, apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
