@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO CEARÁ, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, nesses termos ementado:
+ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. ACOLHIMENTO DA PERIDICA JUDICIAL. DIFERENÇA ENTRE O VALOR DA OFERTA E O FIXADO NA SENTENÇA. PAGAMENTO ATRAVÉS DE PRECATÓRIO/RPV.
+1. Apela o ESTADO DO CEARÁ de sentença proferida em ação de desapropriação por utilidade pública movida por ele e pelo DNIT, contra COMPANHIA DE EMPREENDIMENTOS RURAIS DO NORDESTE - CERUSA, que, acolhendo o laudo do perito judicial, fixou o valor da indenização em R$ 32.495,71;
+2. As conclusões do perito oficial devem ser acatadas quando apresentadas em laudo bem elaborado e fundamentado, por ser ele imparcial e equidistante dos interesses das partes;
+3. No caso dos autos, não desqualifica o laudo do perito judicial o fato de, num primeiro momento, ter ele equivocadamente feito referência a que teria se baseado na NRB 8799/85, que alega o apelante ter sido revogada pela NRB 14.653/05, que teria sido por ele, DNIT, corretamente utilizada na avaliação administrativa. Isso porque o perito judicial esclareceu que apenas teria se equivocado ao não atualizara a informação do número da NRB que teria baseado seus trabalhos, que, em verdade, teria sido a NRB 14.653/05;
+4. Com razão o apelante quando se insurge quanto à parte da sentença em que foi determinado que "transitada em julgado a sentença e atendidas as cautelas previstas no art. 34 do aludido diploma legal, fica autorizada a parte expropriada a levantar o numerário ofertado pelo Expropriante, assim como o restante a título de diferenças". A diferença entre o valor ofertado e o fixado na sentença deve ser pago através de precatório/RPV;
+5. Apelação parcialmente provida para determinar que a diferença entre o valor ofertado e o fixado na sentença seja pago através de precatório/RPV.
+Os embargos de declaração não foram providos (e-STJ fls. 490/500).
+No recurso especial, o Estado do Ceará aponta as seguintes teses e violações legais:
+1) Artigos 15-A do Decreto-lei nº 3.365/1941 e artigos 493 e 997, I, do Código de Processo Civil. Sustenta a inobservância, pelo Tribunal Regional, do entendimento firmado pelo Supremo Tribunal Federal na ADI nº 2.332/DF quanto ao índice de juros compensatórios e à prova da perda da renda.
+2) Artigo 1.022, II, do Código de Processo Civil. "A omissão no caso em espécie se deu pelo fato de que o TRF da 5ª Região olvidou-se de observar a decisão do Supremo em controle concentrado de constitucionalidade, de modo que o percentual de juros compensatórios foi mantido em errôneo percentual de 12%, sem atentar-se aos efeitos retroativos da declaração da constitucionalidade pelo STF do percentual de 6% previsto caput do art. 15-A do DL 3365/41." (e-STJ fl. 528)
+A recorrida não apresentou contrarrazões.
+É o relatório. Decido.
+No que diz respeito à omissão do acórdão sobre o índice de juros compensatórios, observa-se das razões da apelação interposta em julho de 2018 que a recorrente não devolveu ao Tribunal de origem a análise da tese (e-STJ fls. 6/11), fazendo-o somente nos embargos de declaração (e-STJ fls. 463/467) e alegando omissão no presente apelo especial.
+A inovação recursal, como se sabe, é procedimento vedado em sede de embargos de declaração em razão da preclusão consumativa. Nesse sentido os seguintes julgados desta Corte:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE.  ..  OMISSÃO NO JULGADO. NÃO OCORRÊNCIA.  ..  PLEITO VEICULADO SOMENTE NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL.  ..  AGRAVO INTERNO DO PARTICULAR NÃO PROVIDO.
+ ..
+3. Não obstante a ausência de pedido de aposentadoria híbrida, o Juízo sentenciante destacou a impossibilidade de concessão do aludido benefício, em virtude do não cumprimento do requisito etário, que passa a ser de 65 anos nesse caso. Entretanto, o particular não se insurgiu quanto ao ponto em seu recurso de apelação, motivo pelo qual o Tribunal de origem deixou de se manifestar a respeito. A tese somente foi apresentada em embargos de declaração, traduzindo indevida inovação recursal sobre a qual se operou a preclusão consumativa.
+ ..
+5. Agravo interno do particular não provido.
+(AgInt no AREsp 1665428/MS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021, grifei.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. DOAÇÃO SIMULADA PARA ASSESSOR DE PREFEITO. VEICULAÇÃO DE TEMAS NÃO SUSCITADOS EM APELAÇÃO. INOVAÇÃO RECURSAL. OBRIGAÇÃO DE ENFRENTAMENTO PELA INSTÂNCIA ORDINÁRIA. NÃO OCORRÊNCIA.  ..  INOVAÇÃO RECURSAL: TEMAS NÃO SUSCITADOS EM APELAÇÃO  ..
+5. Por outro lado, não de pode conhecer das alegações de que era no caso obrigatória a formação de "litisconsórcio passivo necessário com todos os responsáveis para suposta prática ilícita" (fl. 867, e-STJ) e de que o índice de correção monetária aplicável é a taxa SELIC (fl. 886, e-STJ). Tais afirmações não foram prequestionadas.
+6. Não se pode reputar como omisso o Tribunal de origem quanto ao exame de tais matérias, que não foram suscitadas em Apelação. Nesse sentido: "A pretensão de discussão de matéria não veiculada na apelação caracteriza indevida inovação recursal, inviabilizando seu debate em sede de embargos de declaração. Não há que se cogitar de omissão sobre tese que não foi suscitada em momento oportuno" (AgInt no AREsp 1.720.743/SP, Relator Min. Raul Araújo, Quarta Turma, DJe 7.4.2021).
+ ..
+(AgInt no AREsp 1790481/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/06/2021, DJe 03/08/2021, grifei.)
+Sobre os artigos 15-A do Decreto-lei nº 3.365/1941 e artigos 493 e 997, I, do Código de Processo Civil, verifica-se que tais não podem ser examinados em razão da falta de prequestionamento.
+As teses e os dispositivos legais não foram devolvidos ao Tribunal de origem nas razões da apelação. Em razão disso, incidem nesse ponto as Súmulas 282 e 356 do STF.
+A falta de prequestionamento, como se sabe, impede o conhecimento do recurso especial, nos termos das Súmulas 282 e 356 do Supremo Tribunal Federal, porquanto impossibilita a esta instância especial avaliar se o colegiado estadual violou legislação federal.
+Ante  o  exposto,  com  base no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.  Intimem-se.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. VIOLAÇÃO DO ART. 1.022 DO CPC. TENTATIVA DE INOVAÇÃO RECURSAL. OMISSÃO INEXISTENTE. JUROS COMPENSATÓRIOS. ÍNDICE. PROVA DA PERDA DA RENDA. TESES E DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
