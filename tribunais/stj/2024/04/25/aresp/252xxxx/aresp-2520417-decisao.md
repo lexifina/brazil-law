@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NORDEX ENERGY BRASIL - COMÉRCIO E INDÚSTRIA DE EQUIPAMENTOS LTDA. contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, NORDEX alegou a violação dos arts. 8º, parágrafo único, da Lei n. 9.307/96, arts. 3º, §1º, arts. 42, 55, 337, X, 485, VII, do CPC, ao sustentar, por meio de dissídio jurisprudencial, que (1) não há competência judicial - requer seja o presente processo julgado por meio de arbitragem (2) litisconsórcio unitário-necessário (3) devolução dos autos ao juízo de São Paulo e (4) dissídio jurisprudencial.
+(1) Da competência judicial
+NORDEX alegou violação, por meio de dissídio jurisprudencial, ao art. 8º, parágrafo único, da Lei n. 9.307/96 e arts. 42, 55, 114 e 485, VII, do CPC, ao sustentar que o presente processo deve ser julgado em âmbito de arbitragem, tendo em vista a possibilidade de ocorrer julgamentos conflitantes.
+O acórdão estadual consignou que:
+Importa, para um melhor entendimento, rememorar os seguintes atos (processo 0814119-74.2016.8.20.5001): a) a ação indenizatória foi proposta pela RITZ PROPERTY em face da ACCIONA WINDPOWER BRASIL (atual NORDEX); b) a ação foi distribuída para a 1ª Vara Cível da Comarca de Natal, tendo o Juiz acolhido preliminar de incompetência do juízo arguida em contestação, determinando a remessa dos autos para uma das Varas Cíveis da Comarca de São Paulo; c) observado que a ação guardava conexão com a de nº 0816726-94.2015.8.20.5001, em trâmite na 13ª Vara Cível da Comarca de Natal, foi determinada a redistribuição do feito para julgamento conjunto de ambos; d) a NORDEX opôs embargos declaratórios, que não foram acolhidos; e) agravo de instrumento interposto, que restou desprovido por acórdão do TJ/SP, mantida a reunião dos processos na Comarca de Natal; f) sobreveio a sentença da qual ora se recorre, julgando extinto o processo nº 0816726-94.2015.8.20.5001, devendo as partes demandarem perante o Juízo Arbitral, por haver cláusula expressa de compromisso arbitral no "Contrato de Operação de Cessão de Participação Societária", que celebraram ALDO TINOCO FILHO, RITZ PROPERTY, COATE e JOAQUIN ABELLAN GARCÍA, e suspendendo o de nº 0814119-74.2016.8.20.5001, até que sobrevenha a decisão do Juízo Arbitral ou até o prazo máximo de um ano, nos termos da legislação processual.
+Com efeito, havendo previsão expressa de cláusula compromissária do Juízo Arbitral - somente no contrato relativo ao processo nº 0816726-94.2015.8.20.5001, registre-se-, além da inexistência de qualquer pleito de urgência, esta deve prevalecer em relação aos demais fundamentos da ação, conforme disposto no artigo 42 do Código de Processo Civil, o qual estabelece: "As causas cíveis serão processadas e decididas pelo juiz nos limites de sua competência, ressalvado Às partes o direito de instituir juízo arbitral, na forma da lei", e na própria Lei de Arbitragem.
+Também não há que se falar em renúncia desta cláusula pela empresa RITZ PROPERTY, pois esta apresentou tal item do contrato como preliminar na contestação e, por outro lado, o ajuizamento da Ação nº 0814119-74.2016.8.20.5001 não significa a renúncia ao Juízo Arbitral, "uma vez que tal demanda traz pleito de indenização somente contra a empresa ACCIONA, que não assinou o "Contrato de Operação de Cessão de Participação Societária", ou seja, não anuiu com a referida e transcrita cláusula compromissória", conforme explicado pelo Juízo de primeiro grau (ID. 13166094).
+Sendo assim, inexistindo referida cláusula no contrato reclamado no segundo feito (objeto desta insurgência), não há razão para que a sentença de extinção o alcance. (e-STJ, fls. - sem destaque na original)
+Sendo assim, conforme delineamento fático trazido pela decisão recorrida, a ação principal deste agravo de instrumento (nº 0814119-74.2016.8.20.5001) possui conexão com o processo de nº 0816726-94.2015.8.20.5001. No entanto, o contrato a ser executado nestes autos não possui previsão de cláusula arbitral, pois, segundo o acórdão, os autos não possuem exatamente as mesmas partes.
+Por isso, a ação nº 0816726-94.2015.8.20.5001 foi julgada extinta, tendo em vista que todas as partes daquele processo assinaram o contrato que previa cláusula arbitral, enquanto a presente ação principal deste agravo de instrumento requer indenização contra a empresa ACCIONA, que não assinou o "Contrato de Operação de Cessão de Participação Societária", ou seja, não anuiu com a cláusula compromissória de arbitragem.
+Em consequência disso, não foi aplicada a extinção destes autos, porém foi suspendido até a resolução da arbitragem, considerando a conexão dessas ações.
+Logo, impossível a revisão da conclusão do Tribunal estadual, pois demandaria reexame contratual e fático, o que é inviável em sede de recurso especial, nos termos das Súmulas ns. 5 e 7/STJ. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. CONVENÇÃO DE ARBITRAGEM. LEGALIDADE. PROCESSUAL CIVIL. REVISÃO DE CLÁUSULAS CONTRATUAIS E DE PROVA. SÚMULAS N. 5 E 7/STJ. 1. A legislação consumerista impede a adoção prévia e compulsória da arbitragem, no momento da celebração do contrato, mas não proíbe que, posteriormente, em face de eventual litígio, havendo consenso entre as partes (em especial a aquiescência do consumidor), seja instaurado o procedimento arbitral. Precedentes.
+2. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.152.469/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2018, DJe de 18/5/2018.- sem destaque na original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.
+CONVENÇÃO DE ARBITRAGEM. VIOLAÇÃO DOS ARTIGOS 535 E 458, II, do CPC/73. NÃO OCORRÊNCIA. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. As conclusões do acórdão recorrido em relação a não ocorrência de irregularidade quanto à previsão de cláusula arbitral, inexistência de vício de vontade no negócio jurídico, e sobre "divergências no tocante ao conteúdo do negócio realizado, interferindo na exigibilidade da obrigação, com reflexos na validade do processo de execução", não podem ser revistas por esta Corte Superior, pois demandaria reexame de fato, provas e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.096.912/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/2/2018, DJe de 27/2/2018.- sem destaque na original - interpretação contrario senso)
+Ademais, não há chances de julgamentos contraditórios tendo em vista que este processo ficará suspenso até que sobrevenha a decisão adotada pelo juízo arbitral ou até o prazo máximo de 01 (um) anos, o que ocorrer primeiro.
+(2) Do litisconsórcio unitário-necessário
+NORDEX alegou violação ao art. 114 do CPC, ao sustentar que a lide deve ser integrada ativamente pelo alegado titular do direito, cuja pretensão pretende ver satisfeita e passivamente por aquele que deve suportar os efeitos de uma eventual sentença.
+No entanto, é possível verificar que a tese ventilada e os artigos apontados como violados, não preencheram o requisito constitucional do prequestionamento, o que faz incidir, portanto, a Súmula n. 211/STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE MEDIDAS DE PROTEÇÃO, DECLARAÇÃO DE SITUAÇÃO DE RISCO C/C DE LIMINAR DE GUARDA PROVISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, obrigatória a incidência da Súmula 211 do STJ.
+1.1. Nos termos da jurisprudência desta Corte, à parte revel citado por edital ou hora certa, será nomeado curador especial, sob pena de nulidade absoluta. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.961.136/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.- sem destaque na original)
+(3) Da devolução ao juízo de São Paulo
+NORDEX alegou, ainda, que o processo deve ser restituído ao juízo da 1ª Vara Cível do Foro Central da Comarca de São Paulo/SP, em respeito à decisão preclusa que acolheu exceção de incompetência.
+O acórdão estadual consignou que:
+Ademais, quanto ao pleito alternativo, que consiste na restituição do processo para a 1ªVara Cível do Foro Central da Comarca de São Paulo, entendo que sequer comporta conhecimento.
+Isto porque a decisão ora vergastada decidiu, quanto ao processo nº 0814119-74.2016.8.20.5001, pela sua suspensão, não configurando seu objeto a matéria atinente à (in)competência territorial - de natureza relativa e já definida em momento anterior, por acórdão transitado em julgado, registre-se -, razão pela qual a sua análise poderia inclusive levar à supressão de instância. (e-STJ, fls. 657/658 - sem destaque na original)
+Assim, verifica-se que não houve por parte de NORDEX qualquer impugnação a fundamentação da negativa de devolução ao juízo de São Paulo, esta apenas reiterou o pedido para a modificação da competência novamente.
+Portanto, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõe o reconhecimento da incidência das Súmulas n.s 283 e 284/STF, por analogia. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+1.1. Opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo em se tratando de matéria de ordem pública. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.090.622/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.- sem destaque na original)
+(4) Do dissídio jurisprudencial
+Quanto ao dissídio jurisprudencial, NORDEX sustenta que o posicionamento do acórdão paradigma é que mesmo as demandas que versem sobre título de crédito e obrigações derivadas de contrato no qual se apostou cláusula arbitral sejam submetidas à arbitragem, posto que a validade, eficácia e exigibilidade do contrato originário só pode ser apreciada por Tribunal Arbitral quando aposta em contrato cláusula de arbitragem, não sendo possível que o Judiciário possa dizer sobre isso enquanto questão prejudicial em outra demanda.
+No caso, conforme se extrai das razões do recurso especial, não há semelhança fática, conforme acima explicado, a ação presente não está baseada em contrato que previa a cláusula arbitral.
+Assim, a incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial.
+Portanto, não há sequer como conhecer do recurso especial pela alínea c do permissivo constitucional. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A ausência de cotejo analítico e a não comprovação da similitude fática, aptos a demonstrar a divergência jurisprudencial sustentada pela agravante, violam o art. 1.029, §1º do CPC/2015.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.163.249/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022.- sem destaque na original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensã o, NEGAR PROVIMENTO.
+Deixo de majorar os honorários advocatícios, pois ainda não foram fixados pelas instâncias ordinárias.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DE PREVISÃO DE CLÁUSULA ARBITRAL. IMPOSSIBILIDADE DE REVISÃO. MATÉRIA FÁTICA. SÚMULA 7/STJ. LITISCONSÓRCIO UNIÁRIO-NECESSÁRIO. FALTA DE PREQUESTIONAMENTO DE ARTIGOS ALEGADOS. SÚMULA N 211/STJ. DEVOLUÇÃO DO PROCESSO. FALTA DE IMPUGNAÇÃO AO ACÓRDÃO ESTADUAL. SÚMULAS N.S 283 E 284/STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL. FALTA DE SIMILITUDE FÁTICA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NEGADO PROV IMENTO.
