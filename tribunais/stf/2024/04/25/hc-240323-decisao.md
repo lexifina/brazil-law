@@ -1,0 +1,57 @@
+Habeas corpus. Tráfico de drogas e posse irregular de munição de uso permitido. Dosimetria. Minorante do art. 33, § 4°, da Lei 11.343/2006. Dedicação à atividade criminosa. Fundamentação concreta. Revolvimento do acervo fático-probatório. Impossibilidade. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+    Trata-se de habeas corpus impetrado em favor de Antonia Domingos de Sousa Carmo contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 892.407/PI (evento 11).
+
+    A Paciente foi condenada à pena de 05 (cinco) anos de reclusão, no regime inicial semiaberto, pela prática do crime de tráfico de drogas e, à pena de 01 (um) ano de detenção, em regime inicial aberto, substituída por uma pena restritiva de direito, pela prática do delito de posse irregular de munição de uso permitido (art. 33, caput, da Lei nº 11.343/2006 e art. 12 da Lei 10.826/2003) (evento 9).
+
+    No presente writ, a Defesa sustenta a possibilidade de aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006, em seu patamar máximo. Assevera inidônea a fundamentação do decreto condenatório para não aplicar o redutor, porquanto lastreada na apreensão de apetrechos. Aponta ínfima a quantidade das drogas apreendidas, “30,10 g (trinta gramas e 10 centigramas) de maconha e 0,65 g (sessenta e cinco centigramas) de cocaína”. Ressalta a existência de circunstâncias favoráveis, como primariedade e bons antecedentes. Requer, em medida liminar, o sobrestamento do processo na origem, até o julgamento final do presente writ. No mérito, pugna pelo redimensionamento da pena.
+
+    É o relatório. Decido.
+
+    Extraio do ato dito coator:
+
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE IRREGULAR DE MUNIÇÕES. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4° DO ART. 33 DA LEI DE DROGAS. ELEMENTOS CONCRETOS A EVIDENCIAR A DEDICAÇÃO DO PACIENTE À ATIVIDADE DELITIVA. ENTENDIMENTO FIRMADO PELA CORTE ORIGINÁRIA. MODIFICAÇÃO A RECLAMAR REEXAME DE PROVAS. IMPOSSIBILIDADE. REGIME INICIAL FECHADO CORRETAMENTE FIXADO. AGRAVO REGIMENTAL DESPROVIDO.
+
+    I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+
+    II - Pedido de aplicação da minorante prevista no § 4° do art. 33 da Lei de drogas. O Tribunal a quo - dentro do seu livre convencimento motivado- apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente. Nesse compasso, o acórdão impugnado fundamentou o afastamento do tráfico privilegiado, consubstanciada na conclusão de que a paciente se dedicava as atividades criminosas (traficância), em razão não somente pela quantidade e diversidade das drogas apreendidas - 12 (doze) pinos de cocaína, 08 (oito) trouxas de maconha, 03 (três) tabletes de maconha e 02 (duas) pedras de crack -, mas também pelas circunstâncias em que se deu sua prisão, onde foram localizados ainda, balança de precisão, quantia em dinheiro no valor de R$ 4.125,20, aparelhos celulares, comprovantes de depósito e caderneta de anotações, demonstrando seu profundo envolvimento na prática de atividades criminosas de traficância, não se tratando, portanto, de traficante ocasional.
+
+    III – Com efeito, a jurisprudência desta Corte Superior tem mantido o afastamento do tráfico privilegiado, na hipótese em que o comércio espúrio é cometido em contexto em que há apreensão de arma de fogo ou de munições. Precedentes. In casu, o paciente foi condenado nesses autos pela prática do delito descrito no art. 12 da Lei n. 10.826/2003, haja vista a posse irregular de 07 (sete) munições calibre 380 intactas e 06 (seis) munições calibre 38 intactas.
+
+    IV - é imperioso enfatizar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+
+    V - Regime prisional. Pena em 05 (cinco) anos de reclusão. Modo inicial decorrente da própria literalidade no art. 33, caput, §§ 2º, alínea "b", Código Penal.
+
+    Agravo regimental desprovido.”
+
+    A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024).
+
+    De todo modo, não detecto constrangimento ilegal ou teratologia hábil à concessão de ofício da ordem de habeas corpus.
+
+    Quanto à possibilidade de aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, rememoro que, via de regra, cabe às instâncias ordinárias decidir sobre a aplicação ou não do benefício penal em questão e, se aplicável, a fração pertinente, não se mostrando apropriado o habeas corpus para a revisão da matéria, salvo se presente manifesta ilegalidade ou arbitrariedade.
+
+    Nessa perspectiva, esta Suprema Corte tem assinalado, a propósito do tema em pauta, que “A não aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 pressupõe a demonstração pelo juízo sentenciante da existência de conjunto probatório apto a afastar ao menos um dos critérios – porquanto autônomos –, descritos no preceito legal: (a) primariedade; (b) bons antecedentes; (c) não dedicação a atividades criminosas; e (d) não integração à organização criminosa” (HC 131.795/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 17.5.2016). No mesmo sentido: HC 238.326/ES, Rel. Min. Luiz Fux; HC 237.512/RO, Rel. Min. Edson Fachin; HC 238.233/SP, Rel. Min. Luiz Fux.
+
+    O Superior Tribunal de Justiça, ao manter o afastamento da minorante, ressaltou: “In casu, Tribunal a quo - dentro do seu livre convencimento motivado apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente. Nesse compasso, o acórdão impugnado fundamentou o afastamento do tráfico privilegiado, consubstanciada na conclusão de que a paciente se dedicava as atividades criminosas (traficância), em razão não somente pela quantidade e diversidade das drogas apreendidas - 12 (doze) pinos de cocaína, 08 (oito) trouxas de maconha, 03 (três) tabletes de maconha e 02 (duas) pedras de crack -, mas também pelas circunstâncias em que se deu sua prisão, onde foram localizados ainda, balança de precisão, quantia em dinheiro no valor de R$ 4.125,20, aparelhos celulares, comprovantes de depósito e caderneta de anotações, demonstrando seu profundo envolvimento na prática de atividades criminosas de traficância, não se tratando, portanto, de traficante ocasional. Tudo isso, são elementos aptos a justificar o afastamento da redutora do art. 33, § 4º, da Lei n. 11.343/2006. Além disso, assinalo que a jurisprudência desta Corte Superior tem mantido o afastamento do tráfico privilegiado, na hipótese em que o comércio espúrio é cometido em contexto em que há apreensão de arma de fogo ou de munições. (...). In casu, o paciente foi condenado nesses autos pela prática do delito descrito no art. 12 da Lei n. 10.826/2003, haja vista a posse irregular de munições: 07 (sete) munições calibre 380 intactas e 06 (seis) munições calibre 38 intactas. Assim, diante da indicação de que a ré se dedica à atividade criminosa, não se constata a existência de flagrante constrangimento ilegal. (...). De mais a mais, é imperioso enfatizar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.”.
+
+    Diante do cenário descrito pelas instâncias anteriores, não detecto ilegalidade a ser sanada na presente via. A Corte local afastou a minorante do tráfico privilegiado diante da convicção judicial de que o Paciente não preencheu os requisitos objetivos para a concessão da benesse pleiteada.
+
+    Assim, considerado o não preenchimento de um dos requisitos objetivos - dedicação à atividade criminosa -, não tem lugar o redutor do § 4º do art. 33 da Lei 11.343/2006.
+
+    Paralelamente, para concluir em sentido diverso quanto à aplicação do redutor previsto no § 4º do art. 33 da Lei 11.343/2006, imprescindível o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Este Supremo Tribunal Federal tem advertido que “As instâncias de origem afastaram a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/06, com base em dados objetivos da causa, notadamente tendo em vista a ‘grande quantidade de entorpecentes apreendidos’, a indicarem que a paciente se ‘dedicava às atividades criminosas’. Nessas condições, para dissentir das instâncias de origem, seria necessário o revolvimento do conjunto fático-probatório, inviável em habeas corpus” (HC 225.348 AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.4.2023);  “A tese defensiva de aplicação da minorante do § 4º do art. 33 da Lei 11.343/06, afastada pelas instâncias anteriores dada a constatação de o paciente integrar organização criminosa e/ou dedicar-se à atividades delitivas, demandaria o reexame e a valoração de fatos e provas, para o que não se presta a via eleita” (RHC 140.006-AgR/MS, Rel. Min. Rosa Weber, Primeira Turma, DJe 27.9.2017). Nessa linha, “A invocação pelas instâncias ordinárias de que o paciente se dedicava à atividade criminosa obsta, de fato, a aplicação da benesse do § 4º do art. 33 da Lei nº 11.343/06, sendo certo que afastar essa premissa demandaria o reexame dos fatos e das provas, o qual o habeas corpus não comporta” (HC 205.252 AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe 12.8.2022).
+
+    De resto, é firme o entendimento desta Suprema Corte no sentido de que a dosimetria da pena é matéria sujeita a certa discricionariedade judicial, à míngua de previsão, no Código Penal, de rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena (HC 218.217AgR/AC, Rel. Min. Rosa Weber, Primeira Turma, DJe 20.9.2022).
+
+    Além disso, a revisão da pena fixada nas instâncias antecedentes é matéria de estrito conhecimento nesta via, “por demandar minucioso exame fático e probatório inerente a meio processual diverso” (HC 236.320 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 06.3.2024).
+
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 25 de abril de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
