@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDERSON XAVIER DE LIMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+REVISÃO CRIMINAL - TRÁFICO DE DROGAS  ART. 33, DA LEI N.11.343/2006  - ALEGADA NULIDADE DAS PROVAS OBTIDAS NA BUSCA DOMICILIAR - DENÚNCIA ANÔNIMA SEGUIDA DE INVESTIGAÇÃO PRÉVIA, COM VIGILÂNCIA E CAMPANAS - ABORDAGEM DO REVISIONANDO QUE CONDUZIA VEÍCULO SEM DOCUMENTAÇÃO, PROVENIENTE DE "GOLPE FINAN" - JUSTA CAUSA PARA A BUSCA REALIZADA - INEXISTÊNCIA DE ILEGALIDADE - REVISIONAL IMPROCEDENTE, EM CONSONÂNCIA COM O PARECER DA PROCURADORIA DE JUSTIÇA
+Quanto à controvérsia recursal, alega violação do art. 240, § 1º, e art. 386, II, do CPP, no que concerne à necessidade de procedência da revisão criminal para declarar a nulidade das provas diante de abordagem policial sem justa causa, uma vez que foi promovida em razão de denúncia anônima, trazendo a seguinte argumentação:
+Todos os julgadores que atuaram na presente ação penal ignoraram, solenemente e de forma cristalina, ao julgar improcedente a Revisão Criminal da Defesa do recorrente, o art. 240, §1º, c/c art. 386, inciso II, do CPP, que assim dispõem:
+ ..
+Ademais, a informação repassada por TULIO de que EDERSON lhe confessou haver objetos produto de crime em sua residência é FALSA, conforme narrado por ele em Juízo:
+ ..
+À toda evidência, como pleiteou aqui a Defesa, foi cristalinamente ilegal o ingresso domiciliar não apoiado em situação flagrancial ou justa causa.
+ ..
+Nessa linha de intelecção, reafirmamos que se constatando que a ação penal se embasa unicamente em provas ilícitas, consistentes na entrada ilegal em domicílio, promovida em virtude de denúncia anônima ou confissão informal, esvazia-se a justa causa, ensejando, assim, o trancamento da ação penal.
+ ..
+No caso em tela, TODAS as provas derivadas do auto de prisão em flagrante, boletim de ocorrência, auto de exibição e apreensão da droga e depoimento dos policiais civis têm nexo de causalidade com a prova ilícita, não sendo hipótese de aplicação das excepcionalidades da descoberta ou da produção por fonte independente.
+Assim, afastadas as provas colhidas por origem ou derivação, só resta concluir que NÃO HÁ ELEMENTOS PARA AFIRMAR A EXISTÊNCIA DO FATO (fls. 693/701).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo, por si só, dos dispositivos apontados como violados para sustentar a tese recursal, pois, tendo o acórdão impugnado sido proferido em sede de ação de revisão criminal, teria que ter sido indicada a violação de um dos incisos do art. 621 do CPP.
+Nesse sentido o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 1. A previsão contida no art. 621 do Código de Processo Penal não diz respeito apenas aos requisitos de admissibilidade para o ajuizamento da revisão criminal, mas aos pressupostos indispensáveis para o acolhimento da revisão em si. Assim, em se tratando de pleito revisional ajuizado com fundamento no art. 621, I, do CPP - inadmitido ou mesmo indeferido -, a pretendida reforma do acórdão revisional pela via especial demandaria, inexoravelmente, a indicação do referido dispositivo, de modo a viabilizar a análise por esta Corte quanto ao preenchimento da hipótese ali preconizada: sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos; 2. No caso, as razões do especial não indicaram, de forma clara e específica, violação do art. 621, I, do Código de Processo Penal, circunstância que firma a deficiência na fundamentação do reclamo (Súmula 284/STF). 3. Agravo regimental improvido. (AgRg no AREsp n. 2.319.094/DF, relator Desembargador Sebastião Reis Junior, Sexta Turma, DJe de 25/5/2023.)
+De igual sorte: " As razões do especial não trazem nenhuma argumentação referente aos fundamentos (requisitos) da revisão criminal elencados no art. 621 do Código de Processo Penal, mostrando-se deficientemente fundamentado (Súmula 284/STF).  AgRg no AREsp n. 1.947.310/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021.
+Ressalte-se, por oportuno, que a indi cação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
