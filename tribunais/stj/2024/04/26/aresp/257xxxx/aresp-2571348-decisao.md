@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANO ROSA LADEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que não admitiu o recurso especial.
+O agravante foi condenado como incurso nas sanções do artigo 155, caput, c/c artigo 61, inciso I e artigo 65, inciso III, alínea "d", todos do Código Penal, à pena de 01 (um) amo e 04 (quatro) meses de reclusão, em regime inicial semiaberto, e 15 (quinze) dias-multa (fls.175-183).
+O Tribunal negou provimento ao recurso de apelação da defesa (fls. 279-287).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao art. 59 Código Penal. Sustentou, em síntese, que ocorreu o aumento da pena-base em patamar superior a 1/6, sem justificativa idônea, com apenas uma circunstância judicial apresentada (fls.296-302).
+O recurso foi inadmitido na origem com fundamento na Súmula n. 83, STJ (fls. 318-323).
+Nas razões do agravo em recurso especial, o recorrente sustenta a banalização da súmula 83, STJ, além de reiterar o mérito da controvérsia (fls. 330-339).
+O Ministério Público Federal, por sua vez, opinou pelo não conhecimento do recurso especial (fls. 364-372).
+É o relatório. DECIDO.
+Da análise dos autos, verifico que a controvérsia se cinge a verificar a proporcionalidade do patamar de aumento da pena-base (um terço), quando da incidência de apenas uma circunstância judicial desfavorável.
+O Tribunal, em exame da dosimetria, na primeira fase, manteve pena-base de 01 ano e 04 meses de reclusão, devido aos maus antecedentes, tendo em vista as condenações definitivas relativas aos processos n. 001/2.05.0073108-0, n. 039/2.06.0001424-8 e n. 001/2.14.0046892-0 constantes em sua certidão cartorária (fl.285).
+Esta Corte possui firme entendimento no sentido de que a dosimetria da pena se insere em juízo de discricionariedade do magistrado, observado o livre convencimento motivado, sendo passível de revisão somente em caso de flagrante ilegalidade ou desproporcionalidade (AgRg no HC n. 869.056/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+No  tocante  ao  quantum  de  aumento,  insta  consignar  que  o  entendimento  desta  Corte  Superior  de  Justiça  se firmou  no  sentido  de  que  a  exasperação  da  pena-base,  pela  existência  de  circunstâncias  judiciais  negativas,  deve  obedecer  aos  princípios  da  razoabilidade  e  proporcionalidade.
+ Nesse  contexto,  a  ponderação  das  circunstâncias  judiciais  não  constitui  mera  operação  aritmética,  em  que  se  atribuem  pesos  absolutos  a  cada  uma  delas,  mas  ,  sim  ,  exercício  de  discricionariedade  vinculada,  devendo  o  o operador do  Direito  pautar-se  pelo  princípio  da  proporcionalidade  e,  também,  pelo  elementar  senso  de  justiça.
+No  presente  caso,  verifico  que  houve  fundamentação  adequada,  concreta  e  específica  suficiente  para  justificar  o  aumento  da  pena-base  em 1/3  (um  terço),  qual seja  a multiplicidade de condenações transitadas em julgado, sopesadas como maus antecedentes, em separado dos éditos condenatórios que fundamentaram a agravante da reincidência.
+Registro, assim, que os critérios utilizados para o incremento da pena-base foram devidamente fundamentados nas condições do caso concreto, em consonância com o entendimento desta Corte (AgRg no AgRg no AREsp n. 1.846.668/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/5/2022, DJe de 10/5/2022).
+Colaciono, a respeito, jurisprudência consolidada dessa Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PERICULOSIDADE SOCIAL E ELEVADO GRAU DE REPROVABILIDADE DA CONDUTA DO PACIENTE, QUE APRESENTA MAUS ANTECEDENTES E MÚLTIPLA REINCIDÊNCIA EM CRIMES PATRIMONIAIS. PERÍODO DEPURADOR PARA DESVALOR DOS ANTECEDENTES. INAPLICABILIDADE. PENA-BASE. FRAÇÃO DE AUMENTO DEVIDAMENTE JUSTIFICADA. TENTATIVA. DESCABIMENTO. CONSUMAÇÃO QUE OCORRE APENAS COM A MERA INVERSÃO DA POSSE. CAUSA DE AUMENTO DO REPOUSO NOTURNO. APLICAÇÃO TANTO NA FORMA SIMPLES, COMO NA QUALIFICADA DO DELITO DE FURTO, BEM COMO EM IMÓVEL COMERCIAL OU DESABITADO. REGIME INICIAL FECHADO. ADEQUAÇÃO. PACIENTE REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+3. É assente nesta Corte Superior que é possível o aumento da pena-base em decorrência de condenações anteriores extintas ou cumpridas há mais de 5 (cinco) anos, pois, embora não caracterizem a reincidência, tais condenações podem ser utilizadas para fins de maus antecedentes.
+4. A existência de múltiplas condenações autoriza a adoção de fração diferenciada na valoração dos antecedentes do paciente. Assim, a pena não merece reparo, já que o acréscimo na fração de 1/2 corresponde justamente à soma de 1/3 pelos maus antecedentes e de 1/6 pela qualificadora sobejante, o que se coaduna ao comumente adotado nesta Corte.
+(..)
+8. Agravo regimental desprovido.
+(AgRg no HC n. 731.807/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+Considerando que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide, no caso, a Súmula n. 568, STJ: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para conhecer e negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. DOSIMETRIA DA PENA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. MULTIPLICIDADE DE CONDENAÇÕES TRANSITADAS EM JULGADO. FRAÇÃO DE AUMENTO DE 1/3. PROPORCIONALIDADE. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
