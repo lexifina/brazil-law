@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por MORCELLI & JARA LTDA., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo ementado (e-STJ, fl. 473):
+Ação rescisória. Autor que pretende desconstituir acórdão que manteve sentença que julgou procedente em parte ação de rescisão contratual c/c indenização por danos morais.
+Alegação de afronta à norma jurídica. Descabimento. Demanda que, em verdade, revela pretensão a reexame da causa. Inadmissibilidade. Hipótese não prevista no artigo 966 do Código de Processo Civil. Inadequação da via eleita. Indeferimento da petição inicial. Processo extinto sem resolução de mérito.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 501-504).
+Nas razões do recurso especial (e-STJ, fls.506-521), a recorrente alegou violação aos arts. 442 e 966, VII, do Código de Processo Civil de 2015.
+Sustentou a questão jurídica dos autos, consiste em "definir se a prova testemunhal obtida em momento posterior ao trânsito em julgado da decisão rescindenda considera-se prova nova apta ao manejo de ação rescisória" (e-STJ, fl. 513).
+Pugnou pelo provimento do recurso especial para "o fim de determinar o retorno dos autos ao Tribunal de origem a fim de que seja a ação rescisória admitida, afastando-se o indeferimento da petição e da extinção do processo sem resolução de mérito, com o regular prosseguimento do feito" (e-STJ, fl. 521).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Ao apreciar a alegação de existência de provas novas aptas a modificar o resultado do julgado rescindendo, o TJSP deixou assentado os seguintes fundamentos (e-STJ, fls. 474-476):
+A inicial deve ser indeferida por ausência de interesse de agir.
+De plano, verifica-se que o ora autor foi revel na ação principal (fls. 60/62, na origem).
+Maneja, agora a presente rescisória, mas não se verifica qualquer ofensa às normas indicadas pelo autor, visto que a contrariedade a literal disposição de lei, exigida pelo artigo 966, V, do Código de Processo Civil de 2015, deve ser flagrante e cabalmente demonstrada na petição inicial da ação rescisória, o que não se vê no caso em tela, visto que a decisão objeto da ação foi proferida nos termos da legislação vigente.
+Assim, como se vê, o autor visa apenas e tão somente à revisão do entendimento adotado pelo juízo a quo, mantido por esta colenda36ª Câmara de Direito Privado, que declarou rescindido o contrato de compra e venda celebrado entre Solange Aparecida de Morais e a ora autora, condenando-a a devolver os valores pagos, corrigidos e com juros de mora, bem como a quitar o financiamento junto a ré Aymoré, além da indenização pelos danos morais.
+Diante desse quadro, revela-se totalmente descabida a ação rescisória, que não reúne condições necessárias ao seu processamento, uma vez que carece o autor de interesse processual na obtenção do provimento jurisdicional vindicado, sendo impositivo, nesse contexto, o indeferimento da petição inicial, em conformidade com o artigo 330, III, do Código de Processo Civil de 2015.
+Nessa esteira, o Egrégio Superior Tribunal de Justiça, ressaltando a importância de se proteger a coisa julgada material, já decidiu que o rol do artigo 966 do Código de Processo Civil é taxativo, e que as hipóteses de cabimento da ação rescisória devem restar plenamente demonstradas, sob pena de indeferimento da petição inicial, conforme se verifica no seguinte julgado:
+ ..
+Logo, mostra-se inadequada a via eleita pelo interessado, porquanto não se vislumbra, nem de longe, a hipótese de violação a literal dispositivo de lei, sendo que ele busca, sob tal pretexto, a reapreciação da matéria, o que, repita-se, não se admite, uma vez que a ação rescisória não é meio substitutivo dos recursos cabíveis.
+Isto posto, pelo meu voto, indefiro a petição inicial e julgo extinto o processo sem resolução de mérito, nos termos do artigo 485, I, do Código de Processo Civil.
+Por ocasião do julgamento dos embargos de declaração, o colegiado estadual consignou, ainda, que a ora agravante foi revel durante toda a tramitação do feito, ressaltando que "sendo revel não trouxe nenhum tipo de prova "velha" aos autos, de maneira que inviável que traga prova "nova", sendo incabível a rescisória como sucedâneo recursal" (e-STJ ,fl. 486).
+Com efeito, dos trechos do acórdão estadual acima transcritos depreende-se que a instância originária entendeu não terem sido demons trados os requisitos autorizadores da ação rescisória.
+Em face disso, denota-se que o acórdão recorrido não diverge da jurisprudência desta Corte Superior segundo a qual a ação rescisória não pode ser utilizada como sucedâneo recursal, com vistas a corrigir suposta injustiça na interpretação dos fatos ou para reexame de provas.
+Nessa mesma linha de cognição, os seguintes precedentes:
+AGRAVO INTERNO NA AÇÃO RESCISÓRIA. PROVA NOVA. ART. 966, VII, DO CPC. NÃO CARACTERIZAÇÃO. ERRO DE FATO. UTILIZAÇÃO DA AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. NÃO CARACTERIZAÇÃO. INTERPRETAÇAO CONSONANTE COM O ENTENDIMENTO DO STJ.
+1. A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre o fato. Precedentes.
+2. Segundo a firme jurisprudência do STJ, a propositura de ação rescisória fundada em violação manifesta da norma jurídica somente se justifica quando a ofensa à norma for flagrante, cristalina, ou seja, quando a decisão rescindenda conferir interpretação manifestamente contrária ao conteúdo da norma. Precedentes.
+3. Na espécie, se afigura descabida a pretensão rescisória, porquanto o acórdão rescindendo examinou expressamente a questão, que era controvertida, tendo concluído tendo concluído pelo não cabimento da presente ação rescisória baseado em prova nova, nos termos do art. 966, VIII, do CPC.
+4. Agravo interno não provido.
+(AgInt na AR n. 6.991/BA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 5/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ALEGAÇÃO DE DOLO DA PARTE VENCEDORA. VIOLAÇÃO DO ART. 966, III, DO CPC. INEXISTÊNCIA. PROVA NOVA. INOCORRÊNCIA. PRECLUSÃO CONSUMATIVA. DOCUMENTO NÃO CONHECIDO NA AÇÃO ORIGINÁRIA. ARGUMENTAÇÃO VINCULADA À EXISTÊNCIA DO COMPROVANTE. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A ação rescisória não se presta à verificação da boa ou má valoração jurídica dos fatos, ao reexame da prova produzida ou a sua complementação, nem pode ser utilizada como sucedâneo recursal.
+Precedente 2. Afastada pelo tribunal de origem, com base na análise das provas, a violação do art. 966 do CPC, por ausência de documento novo, a revisão da questão pelo STJ é inviável por incidência da Súmula n. 7.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.317.283/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PETIÇÃO INICIAL. INDEFERIMENTO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. AÇÃO. DECISÃO JUDICIAL. RESCISÃO. POSSE E PROPRIEDADE. DEFESA. INADEQUAÇÃO DA VIA ELEITA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o art. 1.022 do Código de Processo Civil de 2015 o acórdão que motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+3. A ação rescisória não é o meio adequado para corrigir suposta injustiça da decisão, apreciar má interpretação dos fatos ou reexaminar as provas produzidas ou complementá-las.
+4. Na hipótese, o recurso questiona a inadimplência dos réus e pretende defender a posse ao argumento de que é o único e legítimo proprietário do imóvel sem indicar a suposta violação de dispositivo de lei federal necessária à rescisão de decisão judicial transitada em julgado.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.362.768/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2021, DJe 7/4/2021.)
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 83/STJ. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS AUTORIZADORES DA AÇÃO RESCISÓRIA. PRETENSÃO DE REEXAME DOS ELEMENTOS FÁTICOS DA DECISÃO RESCINDENDA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
