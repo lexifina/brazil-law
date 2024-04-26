@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, da Constituição Federal.
+Na origem, o Estado do Paraná interpôs agravo de instrumento contra decisão que, em cumprimento individual de sentença coletiva, rejeitou a impugnação apresentada pelo ente público, afastando a alegação de prescrição da pretensão executória dos particulares.
+O referido cumprimento de sentença se funda em título judicial formado nos autos da Ação Coletiva n. 0003203-59.2008.8.16.0004, em que se reconheceu o direito dos substituídos à restituição de descontos de contribuição previdenciária superior a 10% (dez por cento), na vigência do art. 78 da Lei Estadual n. 12.398/1998.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ negou provimento ao agravo de instrumento do ente público, ficando consignado que, considerando que, a pedido do Estado do Paraná, houve por determinação judicial a suspensão do feito (NPU 0008041-64.2016.8.16.0004) pelo prazo de 60 dias, com a finalidade expressamente apontada de tratativas de acordo entre as partes.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA QUE CONDENOU O ENTE PÚBLICO À RESTITUIÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA DESCONTADA A MAIOR DE SERVIDORES E INATIVOS. I. PRELIMINAR DE INOVAÇÃO RECURSAL E PRECLUSÃO. INOCORRÊNCIA. RAZÕES RECURSAIS ASSOCIADAS AOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO CONHECIDO. MÉRITO. II. PRESCRIÇÃO DA OBRIGAÇÃO DE PAGAR QUANTIA CERTA. CASUÍSTICA: SUSPENSÃO DEFERIDA POR ORDEM JUDICIAL PELO PRAZO DE 60 DIAS COM A FINALIDADE EXPRESSA DE "TRATATIVAS DE ACORDO ENTRE AS PARTES" APÓS EXPRESSO PEDIDO DE SUSPENSÃO DO FEITO FORMULADO PELAS PARTES. IMPOSITIVA SUSPENSÃO DO PRAZO PRESCRICIONAL. SUSPENSÃO PREVISTA PELO ART. 34, CAPUT, DA LEI Nº 13.140/2015. CUMPRIMENTO DE SENTENÇA DA OBRIGAÇÃO DE PAGAR AJUIZADO ANTES DO DECURSO DO PRAZO DE CINCO ANOS, DEDUZIDO DA SUSPENSÃO JUDICIAL. PRESCRIÇÃO NÃO CONFIGURADA. ESCORREITA DECISÃO AGRAVADA QUE AFASTOU A PREJUDICIAL. LIMINAR REVOGADA. III. ALEGAÇÕES DE COMPORTAMENTO CONTRADITÓRIO E MÁ-FÉ PROCESSUAL. IMPROCEDÊNCIA. CONDUTA LEAL E PROBA DO DEVEDOR. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 523, 524, 534, 927 e 1.022 do CPC; do art. 1º do Decreto n. 20.910/1932; e dos arts. 1º, p.u., 2º, § 2º, 14, 17, 32, 33 e 34, todos da Lei n. 13.140/2015.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INOCORRÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. PREENCHIMENTO DOS REQUISITOS DA PRISÃO PREVENTIVA. ERRO JUDICIÁRIO NÃO CARACTERIZADO. POSTERIOR ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. DANOS MORAIS NÃO CONFIGURADOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+(..)
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 941.782/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDORES, ANUÊNIOS. BASE DE CÁLCULO REAJUSTADA PELO ÍNDICE 28,86%. RECONHECIMENTO PELA CORTE DE ORIGEM. ÔNUS DE SUCUMBÊNCIA - SÚMULA 7 DO STJ.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1385196/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 10/09/2020.)
+Quanto ao mais, verifica-se que o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da ocorrência de suspensão do prazo prescricional nos termos do art. 34 da Lei n. 13.140/2015, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi suficientemente rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Oportuno apontar que toda a argumentação do Recorrente referida ao mencionado dispositivo da Lei n. 13.140/2015 se resume a uma frase, qual seja:
+ ..  para que não se diga que fundamentos não restaram atacados neste especial, o entendimento de que o caso atraiu a incidência da Lei de Mediação (Lei n. 13.140/2015) não resiste à constatação de que não houve a instauração de procedimento judicial ou extrajudicial formal de mediação. (fl. 264)
+Ademais, ainda que ultrapassado o referido óbice, tem-se que a irresignação do recorrente acerca de eventual inexistência de instauração de procedimento judicial ou extrajudicial formal de mediação, como óbice para a suspensão do prazo prescricional, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu expressamente que "houve por determinação judicial a suspensão do feito (NPU 0008041-64.2016.8.16.0004) pelo prazo de 60 dias, coma finalidade expressamente apontada de tratativas de acordo entre as partes" (fl. 216).
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
