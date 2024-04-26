@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi preso em flagrante em 3/3/2024, convertido em prisão preventiva, sendo denunciado nos termos do art. 33, caput, da Lei n. 11.343/2006.
+Argumenta o impetrante, em suma, com a ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva teve a seguinte fundamentação (fl. 191):
+ ..  Em relação aos requisitos cautelares, o(a) investigado(a) se envolveu na prática de delito equiparado a hediondo (art. 5º, XLIII da CF, art. 2º, caput da Lei nº 8.072/1990 e art. 44 da LD), ou seja, insuscetível de fiança, anistia, graça e indulto (vedação à liberdade provisória considerada inconstitucional pelo STF). Assim, trata-se de delito equiparado a hediondo e praticado em circunstâncias graves. Ressalte-se que a gravidade referida não se verifica apenas pela natureza legal do delito praticado, mas sim pelas circunstâncias concretas do caso, tendo em vista a elevada potencialidade lesiva da droga (cocaína) e pela grande quantidade encontrada (55 unidades plásticas contendo drogas). Além disso, o investigado foi encontrado com grande quantidade de droga e outros elementos relacionados ao tráfico (droga, dinheiro e venda em bar), o que pode revelar dedicação a atividade criminosa e afastar a figura do tráfico privilegiado previsto no art. 33, § 4º da Lei de Drogas. Assim, a prisão cautelar revela-se necessária para a garantia da ordem pública abalada pela gravidade concreta do delito imputado, bem como pela periculosidade do agente (dedicação a atividade criminosa) que pratica infrações penais reiteradamente (art. 312 do CPP). ..
+A custódia em apreço foi decretada com base na quantidade de droga apreendida, qual seja, 18,7 gramas de cocaína (fl. 336).
+Todavia, ao analisar as circunstâncias do caso, verifica-se que o delito não foi praticado mediante emprego de violência e/ou grave ameaça, o paciente é primário e a quantidade de droga apreendida não é relevante, motivo pelo qual não se revela proporcional a medida extrema.
+Conforme o entendimento desta Corte, a apreensão de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social, o que não é o caso dos autos. Nesse sentido:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. Na espécie, realizada a prisão em flagrante, a prisão preventiva foi decretada em razão de o recorrente ser reincidente específico. Entretanto, não foi apreendida quantidade de droga indicativa, por si só, da periculosidade do agente, a ponto de justificar o encarceramento preventivo.
+3. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art. 319, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º, todos do Código de Processo Penal, em razão da quantidade não expressiva de drogas apreendidas, aliada ao fato de o delito não ter sido cometido mediante emprego de violência ou grave ameaça.
+4. Recurso parcialmente provido para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juiz singular. (RHC n. 161.489/SC, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 19/4/2022, DJe de 26/4/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. SUPOSTA COMPRA DE DROGAS ILÍCITAS. RÉU PRIMÁRIO. AUSÊNCIA DE FUMUS COMISSI DELICTI E DE PERICULUM LIBERTATIS. RECURSO DO MPF NÃO PROVIDO.
+ ..
+5. Desse modo, o cometimento do delito, por si só, não evidencia "periculosidade" exacerbada do agente ou "abalo da ordem pública", a demandar a sua segregação antes de qualquer condenação definitiva.
+6. Outrossim, trata-se nestes autos da apreensão de cerca de 500g de maconha por agente, quantidade que não pode ser considerada significativa a ponto de justificar a custódia cautelar.
+7. De fato, colhem-se diversos julgados, de ambas as turmas especializadas em Direito Penal, dos quais se depreende que determinadas quantidades de tóxicos ilegais, ainda que não possam ser consideradas insignificantes, não autorizam, isoladamente, a conclusão de que o réu apresenta periculum libertatis.
+ ..
+10. Agravo regimental não provido. (AgRg no HC n. 691.880/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021.)
+Ante o exposto, concedo o habeas corpus para determinar a soltura de WASHINGTON SOUZA DE CARVALHO, se por outro motivo não estiver preso, devendo o réu, no entanto, indicar e manter atualizados endereço e telefone pessoais, para fins de comunicação processual, ao juízo de origem (Processo n. 1500578-21.2024.8.26.0559 - 1ª Vara Criminal de São José do Rio Preto/SP).
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
