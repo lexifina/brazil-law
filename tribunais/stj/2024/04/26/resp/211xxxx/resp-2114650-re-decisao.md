@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. PRECLUSÃO DOS CAPÍTULOS DA DECISÃO MONOCRÁTICA NÃO IMPUGNADOS. CONDENAÇÃO COM BASE EM PROVAS OBTIDAS NA FASE INQUISITIVA CORROBORADAS EM JUÍZO. VIOLAÇÃO DO ART. 155 DO CPP. NÃO VERIFICAÇÃO. TESTEMUNHO INDIRETO DOS POLICIAIS. NÃO OCORRÊNCIA. RECONHECIMENTO PESSOAL EM DESACORDO COM O ART. 226 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A impugnação, no regimental, de apenas alguns capítulos da decisão agravada induz à preclusão das demais matérias decididas pelo relator, não refutadas pela parte.
+2. Consoante já decidiu este Superior Tribunal, "não se admite a nulidade do édito condenatório sob alegação de estar fundado exclusivamente em prova inquisitorial, quando baseado também em outros elementos de provas levados ao crivo do contraditório e da ampla defesa"(HC n. 155.226/SP, Rel. Ministro Og Fernandes, 6ª T., DJe 1º/8/2012).
+3. No caso, a autoria do roubo foi comprovada pelas provas colhidas na fase inquisitorial - mensagens registradas no aplicativo WhatsApp - e pelos depoimentos dos policiais, em juízo, os quais relataram que a localização mostrada pelo corréu Douglas, de onde ele se dirigiria para prestar o suposto auxílio a seu chefe, o ora recorrente, era a mesma do carro subtraído.
+4. O depoimento dos agentes públicos de segurança é válido não só em situações de flagrante delito ou quando presenciam os fatos como também quando eles obtêm provas diretas da infração penal por meio de investigação e, nesse caso, não se há de falar em testemunho indireto, mas em coleta de fontes primárias de prova a serem apresentadas nos autos e por eles relatadas em juízo.
+5. O acórdão recorrido não debateu a tese de que o reconhecimento pessoal não atendeu aos ditames do art. 226 do CPP, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão relativa ao exame do tema. A ausência de prequestionamento atrai a aplicação, por analogia, das Súmulas n. 282 e 356 do STF.
+6. Agravo regimental não provido.
+A parte recorrente alega a ocorrência de violação do art. 5º, LIV, da Constituição Federal e aduz haver repercussão geral da matéria.
+Sustenta que o acórdão recorrido teria violado o devido processo legal, argumentando que a condenação baseou-se unicamente em provas colhidas na fase inquisitorial.
+Aduz que o reconhecimento pessoal não respeitou os ditames do art. 226 do Código de Processo Penal, pois foi colocado lado a lado com pessoas não semelhantes a ele. Destaca que a própria vítima não o reconheceu como um dos autores do crime.
+Aponta a nulidade das mensagens colhidas em seu dispositivo telefônico, pois não foram confirmadas em juízo, alegando que os depoimentos dos policiais basearem-se em "ouvi dizer", pois não presenciaram o crime.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+O Supremo Tribunal Federal já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Isso é o que ficou definido no Tema n. 660 do STF, no qual a Suprema Corte fixou a seguinte tese:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 660.
+Por fim, registro a existência de publicação produzida pela Secretaria de Comunicação Social do Superior Tribunal de Justiça sobre a análise dos recursos extraordinários interpostos contra julgados desta Corte Superior, conteúdo de eventual interesse das partes, disponível para acesso por meio do QR Code a seguir:
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Observando os princípios da cooperação e da celeridade, registro que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
