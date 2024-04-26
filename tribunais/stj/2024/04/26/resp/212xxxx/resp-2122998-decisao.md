@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Claudemir Aparecido dos Santos contra os acórdãos de fls. 1.507-1.512 e 1.552-1.556 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Paraná, assim ementados:
+CIVIL. PROCESSUAL. DECURSO DE PRAZO PARA JUNTADA DE DOCUMENTOS. INDEFERIMENTO DA PETIÇÃO INICIAL. ART. 485, I, DO CPC. EXTINÇÃO DO PROCESSO. 1. A petição inicial da ação deve ser instruída com os documentos indispensáveis à propositura da ação, em cumprimento do devido processo legal, e conforme os princípios da ampla defesa e do contraditório. 2. A parte autora, após regularmente intimada, não juntou no termo aprazado todos os documentos necessários ao processamento da demanda, resultando no indeferimento da petição inicial declarado na sentença, com fundamento nos artigo. 485, I, c/c no art. 330, IV, ambos do CPC.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. REDISCUSSÃO: IMPOSSIBILIDADE. PREQUESTIONAMENTO. 1. Os embargos de declaração têm cabimento contra qualquer decisão e objetivam esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material. 2. O recurso é descabido quando busca meramente rediscutir, com intuito infringente, o mérito da ação, providência incompatível com a via eleita. 3. Em face da discussão acerca do prequestionamento e considerando a disciplina do art. 1.025 do CPC/2015, os elementos que a parte suscitou nos embargos de declaração serão considerados como prequestionados mesmo com sua rejeição, desde que tribunal superior considere que houve erro, omissão, contradição ou obscuridade.
+Nas razões do recurso especial (e-STJ, fls. 1.570-1.576), aponta o insurgente, além de dissídio jurisprudencial, a existência de violação do art. 98, § 1º, IX, do CPC/2015. Sustenta, em síntese, ter direito à gratuidade das custas cartorárias, devendo o juízo oficiar o cartório para a emissão do documento sem custas.
+Contrarrazões às fls. 1.590-1.604 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 1.608), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Na presente insurgência, defende o recorrente ter direito à gratuidade das custas cartorárias, devendo o juízo, ao invés de extinguir o feito, oficiar o cartório de registro de imóveis para que providencie a matrícula completa do imóvel, sem custas.
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal de origem tratou da essencialidade do documento, da inviabilidade da inversão do ônus da prova e do descumprimento da intimação, mas nada falou sobre oficiar o cartório para emissão do documento sem custas.
+Veja-se às fls. 1.508-1.509 (e-STJ):
+B) Descumprimento de determinação de emenda à petição inicial
+A parte autora foi intimada para cumprir a seguinte diligência, em emenda à petição inicial (evento 27 - DESPADEC1):"
+1. Considerando a dificuldade da CEF em identificar o ramo da apólice securitária em relação ao autor e para que seja possível emitir um parecer definitivo sobre o ramo da apólice securitária e seu interesse na causa, intime-se a parte autora para que apresente a matrícula completa do imóvel. Prazo de 30 dias.
+2. Na sequencia, intime-se a CEF para manifestação sobre seu interesse jurídico nos presentes autos. Prazo de 30 dias.
+3. Após, conclusos para análise da competência.".
+Malgrado devidamente intimada (ev. 29), a parte autora não emendou a petição inicial, tendo se limitado a requerer a extinção do feito sem resolução de mérito face à CEF, e, alternativamente, a pleitear a inversão do ônus da prova e a realização de providência já efetivada na presente demanda (ev. 1 - OUT3, p. 59 e 80).
+Não cumprida a diligência pela parte autora, impõe-se o indeferimento da petição inicial (art. 321, parágrafo único, do CPC).(..)"Do exposto, impende asserir que o Código de Processo Civil, ao tratar da petição inicial, assim dispõe:
+Art. 321 - O Juiz, ao verificar que a petição inicial não preenche os requisitos dos arts. 319 e 320 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado.
+Parágrafo único - Se o autor não cumprir a diligência, o juiz indeferirá a petição inicial.
+Dessarte, a petição inicial da ação deve ser instruída com os documentos indispensáveis à propositura da ação, em cumprimento do devido processo legal, e conforme os princípios da ampla defesa e do contraditório. No caso dos autos, a parte autora não juntou à petição inicial a matrícula completa do imóvel apta permitir que a CEF emitisse parecer definitivo sobre o ramo da apólice securitária, e sobre seu eventual interesse na causa (evento 27, DESPADEC1).
+ ..
+Conforme asseverado na sentença, "a parte autora descumpriu a determinação" e "ademais, conforme verificado nos autos, os agentes financeiros estipulantes - COHAB e COHAPAR, não encontraram informações em sua base de dados em nome da parte autora/mutuária (ev. 1 -OUT3, p. 80 e 151), e a CEF não localizou o ramo da apólice securitária".
+Assim, incidente, na espécie, a Súmula 211/STJ, ante a ausência de prequestionamento, porquanto tal tese não foi apreciada pelo órgão julgador, mesmo com a oposição dos embargos de declaração.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISPOSITIVO CONSTITUCIONAL. STF. COMPETÊNCIA. SUBSTABELECIMENTO. JUNTADA POSTERIOR. POSSIBILIDADE.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+4. Em observância ao princípio da função instrumental do processo, a jurisprudência desta Corte é no sentido de ser cabível a abertura de prazo a fim de que o autor regularize a inicial, sendo a extinção do processo, sem julgamento de mérito, somente proclamada depois de proporcionada à parte a oportunidade de regularização.
+5. Agravo regimental não provido.
+(AgRg no AREsp 372.573/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/03/2017, DJe 04/04/2017).
+Diante do exposto, não conheço do recurso especial.
+Deixo de arbitrar os honorários recursais de sucumbência porquanto inexistente condenação anterior ao pagamento da verba.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INFEFERIMENTO DA INICIAL. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. GRATUIDADE DAS CUSTAS CARTORÁRIAS. OFÍCIO AO CARTÓRIO PARA EMISSÃO DO DOCUMENTO SEM CUSTAS. INCIDÊNCIA DA SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
