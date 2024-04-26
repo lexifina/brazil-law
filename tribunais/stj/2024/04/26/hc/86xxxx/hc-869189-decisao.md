@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WELLINGTON GABRIEL DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 1500562-20.2022.8.26.0080.
+Consta dos autos que o paciente foi condenado pelo Juízo da Vara Criminal da Comarca de Cabreúva às penas de 06 (seis) anos e 08 (oito) meses, em regime inicial fechado, e pagamento de 16 (dezesseis) dias-multa, por incursão no inciso II do § 2º, e inciso I do § 2-A, do artigo 157 do Código Penal, nos termos da sentença de fls. 22-28.
+Não satisfeito, o paciente interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 29-48.
+O aresto transitou em julgado em 14 de novembro de 2023, consoante informações prestadas à folha 62.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na fixação de regime inicial prisional mais gravoso, despida de fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja substituído o regime inicial fechado pelo semiaberto.
+Pedido liminar indeferido às fls. 52-53.
+Informações prestadas às fls. 59-63 e 66-95.
+O Ministério Público Federal, às fls. 97-99, opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na possível ilegalidade flagrante no acórdão impugnado em razão da fixação de regime inicial prisional mais gravoso, despida de fundamentação idônea.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO já transitado em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 07/05/2019)
+Tendo em vista o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada (fls. 46-47):
+" ..  Finalmente, correta a fixação do regime prisional fechado para ambos os réus, considerando, não só do quantum de pena imposto, mas também a gravidade concreta da hipótese vertente (crime de roubo, praticado com concurso de pessoas e emprego de arma de fogo), nos termos do artigo 33, § 3º, do Código Penal.
+Tampouco há que se falar em violação à Súmula nº 440 do Superior Tribunal de Justiça, bem como às Súmulas nº 718 e 719 do Supremo Tribunal Federal, eis que o regime prisional foi estipulado com base na gravidade concreta do delito."
+A via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que tange ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantitativo da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nesse mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Ademais, ao se debruçar sobre o tema, esta Corte consolidou "o entendimento de que a fixação de regime mais gravoso do que o indicado para a pena imposta ao réu deve ocorrer com fundamentação específica, que considere a existência de circunstâncias judiciais desfavoráveis do art. 59 do Código Penal ou outro dado concreto que demonstre a extrapolação da normalidade do tipo" (AgRg no AgRg no HC n. 713.364/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 16/12/2022).
+Verifico do excerto colacionado que foi praticado o delito de roubo duplamente majorado em razão do concurso de agentes e pelo emprego de arma de fogo, por ambos os agentes, circunstâncias concretas que ensejam maior reprovabilidade da conduta, sendo aptas a fundamentar a fixação do regime prisional inicial mais gravoso sequente, qual seja, o fechado, ainda que fixada a pena-base no patamar mínimo legal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. AUSÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA REFORMATIO IN PEJUS. REGIME CARCERÁRIO INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. PENA-BASE FIXADA NO MÍNIMO LEGAL. IRRELEVÂNCIA. NÃO SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. NÃO É SOCIALMENTE RECOMENDÁVEL. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme entendimento desta Corte Superior de Justiça, é cabível ao Tribunal, em recurso de apelação exclusivo da defesa, acrescentar fundamentos relacionados àqueles já contidos na sentença condenatória para manter a reprimenda imposta, sem prejudicar o Réu.
+Nessa linha de intelecção, no caso, além de não ter ocorrido violação do princípio non reformatio in pejus, não foi ilegal a manutenção do regime prisional inicial fechado, porquanto a Corte estadual indicou concretamente que a configuração de mais de uma qualificadora - que poderia ter sido considerada como circunstância judicial desfavorável - fundamenta o regime mais gravoso, diante da evidente maior gravidade da conduta. Assim, em que pese a pena-base ter sido fixada no mínimo legal, a sanção ficar quantificada abaixo de quatro de reclusão, a reincidência do Paciente (anteriormente condenado pelo crime de roubo) e os fatos concretos declinados pelas instâncias ordinárias impõem a conservação do regime fechado para a reprovação e prevenção do crime.
+2. Afigura-se igualmente correta a não substituição da pena privativa de liberdade por penas restritivas direitos em razão da presença das duas qualificadoras, por não ser socialmente recomendada.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 839.848/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 7/3/2024.)
+HABEAS CORPUS. SUBSTITUTIVO DE VIA PRÓPRIA. INVIABILIDADE. CRIME DE ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS. ABSOLVIÇÃO. ALEGAÇÃO DE NULIDADE. DEMAIS PROVAS DA AUTORIA E MATERIALIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO INCOMPATÍVEL COM A VIA ESTREITA DO WRIT. DOSIMETRIA. MAJORANTE DO EMPREGO DE ARMA DE FOGO. FUNDAMENTAÇÃO ADEQUADA. REGIME INICIAL. MODUS OPERANDI UTILIZADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+II - Embora a d. Defesa busque a absolvição com base na suposta nulidade das provas, existem nos autos demais elementos além do reconhecimento fotográfico pela vítima em sede policial, aptos a ensejar a condenação.
+III - Assente nesta eg. Corte Superior que "Se as instâncias ordinárias reconheceram, de forma motivada, que existem elementos de convicção a demonstrar a materialidade delitiva e autoria delitiva quanto à conduta descrita na peça acusatória, para infirmar tal conclusão seria necessário revolver o contexto fático-probatório dos autos, o que não se coaduna com a via do writ" (RHC n. 85.177/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 25/4/2018).
+IV - Na dosimetria, com efeito, como houve prova oral colhida em juízo, dando conta do uso de arma de fogo como instrumento de ameaça durante a agressão às vítimas, não há falar em não comprovação do seu uso. Verbis: "No caso, embora a arma de fogo não tenha sido apreendida e periciada, as instâncias ordinárias, com base no acervo probatório, concluíram pela sua efetiva utilização na empreitada criminosa, afigurando-se legal a incidência da respectiva majorante no crime de roubo" (HC n. 369.630/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/10/2016).
+V - Convém registrar que o próprio quantum de pena fixado impossibilita um regime inicial mais brando ao paciente. Com efeito, mantida a pena nos moldes estabelecidos pelas instâncias ordinárias (reclusão de 9 anos, 8 meses e 20 dias) é o regime inicial fechado que se impõe in casu.
+VI - Ademais, embora o paciente seja primário, bem fundamentada pelas instâncias ordinárias a manutenção do paciente em regime inicial fechado, tendo em vista o modus operandi utilizado na empreitada criminosa, o qual denotou maior periculosidade. Nesse contexto, "Ainda que o réu seja primário e não apresente circunstâncias judiciais desfavoráveis, é correta a fixação do regime inicial mais gravoso para o cumprimento da pena quando o delito de roubo foi praticado em concurso de agentes, mediante grave ameaça, exercida com emprego de arma de fogo para forçar a vítima a entregar objetos, o que evidencia maior periculosidade do agente" (AgRg no HC n. 601.089/RJ, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 12/3/2021).
+Habeas corpus não conhecido.
+(HC n. 725.426/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 4/4/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. CONCURSO DE PESSOAS. EMPREGO DE SIMULACRO DE ARMA DE FOGO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. Nada obstante a reprimenda tenha sido fixada em patamar inferior a 8 anos de reclusão e a pena-base de ambos os agravantes tenha sido dosada no mínimo legal, não se verifica manifesta ilegalidade na imposição do regime inicial fechado. Trata-se de roubo circunstanciado pelo concurso de pessoas e pelo emprego de simulacro de arma de fogo, contexto que justifica a adoção do regime mais gravoso, diante da gravidade concreta evidenciada no caso.
+Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 865.785/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 6/12/2023.)
+De todo modo, não vislumbro, de plano, qualquer flagrante ilegalidade a ser sanada nos moldes do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
