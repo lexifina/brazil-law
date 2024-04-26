@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de reclamação apresentada por Maria de Lourdes Castro de Assunção contra decisão proferida pelo Vice-Presidente do Tribunal de Justiça do Estado do Ceará que negou seguimento ao agravo em recurso especial interposto nos autos do processo n. 0033333-78.2012.8.06.0001.
+Afirma, em síntese, que fere a competência do STJ decisão de Tribunal de 2º grau que deixa de remeter à Corte Superior o agravo interposto contra decisão que inadmite recurso especial, nos termos do art. 1.042 do CPC.
+A liminar foi indeferida.
+Foram apresentadas contestações às fls. 1.752-1.760 e 3.482-3.485.
+Não foram apresentadas informações pelo Juízo reclamado (fl. 1.778).
+O Ministério Público Federal opina pela procedência da reclamação.
+É o relatório. Decido.
+De início, esclareça-se que cabe reclamação, para o STJ, para que seja preservada sua competência ou para que seja garantida a autoridade de suas decisões, conforme disposto nos artigos 105, I, f, da CF/88, 988, do CPC/2015 e 187, do RI/STJ.
+Nos termos da jurisprudência firmada no Superior Tribunal de Justiça, a recusa do Tribunal local em remeter os autos para o STJ, após interposto agravo em recurso especial, configura usurpação de competência desta Corte Superior, autorizando o ajuizamento de reclamação constitucional.
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OMISSÃO. EXISTÊNCIA. RECURSO ESPECIAL. TEMA REPETITIVO. ADEQUAÇÃO. COMPETÊNCIA DO TRIBUNAL LOCAL. OUTRAS QUESTÕES. JULGAMENTO PELO STJ. NECESSIDADE. ART. 1.041, § 2º, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL. RETENÇÃO PELO TRIBUNAL LOCAL. IMPOSSIBILIDADE. PRESERVAÇÃO DA COMPETÊNCIA DO STJ. CABIMENTO DA AÇÃO CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES. RECLAMAÇÃO JULGADA PARCIALMENTE PROCEDENTE.
+1. A presente reclamação foi ajuizada sob três fundamentos, dentre os quais dois foram expressamente examinados e rejeitados pela Segunda Seção do STJ. O terceiro fundamento, contudo, não foi apreciado, do que resulta omissão passível de ser sanada pela via recursal declaratória.
+2. O recurso especial interposto no feito originário suscitou violações do direito federal não diretamente relacionadas à tese definida no recurso repetitivo n. 956.943/PR, temas cujo exame compete ao STJ, após ultrapassada a fase do juízo de admissibilidade na instância regional. Inteligência da previsão contida no art. 1.041, § 2º, do CPC/2015.
+3. A recusa do Tribunal local em remeter os autos para o STJ configura usurpação de competência desta Corte Superior, autorizando o ajuizamento de reclamação constitucional.
+4. Embargos de declaração acolhidos.
+5. Reclamação julgada parcialmente procedente.
+(EDcl no AgInt nos EDcl na Rcl n. 36.835/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 30/3/2021, DJe de 16/4/2021.)
+PROCESSO CIVIL. RECLAMAÇÃO. OBSTRUÇÃO DO REGULAR PROCESSAMENTO DE AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE QUE NÃO SE LIMITOU A APLICAR PRECEDENTE EXARADO SOB O REGIME DOS RECURSOS REPETITIVOS. APELO ESPECIAL ENVOLVENDO OUTRAS QUESTÕES QUE FORAM RECHAÇADAS PELO JUÍZO DE ORIGEM COM BASE NAS SÚMULAS 7/STJ E 284/STF. USURPAÇÃO DE COMPETÊNCIA CARACTERIZADA. RECLAMAÇÃO PROCEDENTE.
+1. No caso, a decisão do juízo de origem consignou que o recurso especial não se limita a impugnar o disposto no art. 538 do CPC/73, versando também sobre outras matérias relacionadas com a prática do ato de improbidade, tendo a recorrente apontado afronta aos arts. 535 do CPC/73, 23, I e II, 10, VIII, 11, I, 12, III e parágrafo único, todos da Lei 8.429/92, além da contrariedade ao art. 25, I, da Lei 8.666/93.
+2. Assim, embora o suscitado malferimento do art. 538 do CPC/73 tenha sido obstado com base na suposta adequação do aresto recorrido à orientação contemplada no REsp 1.410.839/SC, sob o regime do art. 543-C do CPC/73, os demais pontos impugnados no apelo especial não foram admitidos sob fundamentação diversa. Ou seja, o juízo de origem afastou a existência de afronta ao art. 535 do CPC/73 e, quanto aos demais dispositivos tidos por aviltados, o Tribunal aplicou os óbices contidos nas Súmulas 7/STJ e 284/STF.
+3. Logo, não poderia ter o juízo reclamado indeferido a subida do agravo em recurso especial, obstaculizando o exercício da competência do Superior Tribunal de Justiça a respeito dos requisitos de admissibilidade do apelo nobre, mormente no que diz respeito à incidência da Súmula 7/STJ e 284/STF.
+4. Como se observa, a situação debatida nos autos diverge do caso apreciado no julgamento da Questão de Ordem no Ag 1.154.599/SP. A irresignação contida no agravo em recurso especial não se limita ao acerto ou desacerto da aplicação da jurisprudência do STJ firmada sob o rito dos recursos repetitivos. Discute-se no apelo temática diversa, a qual foi obstada ao crivo desta Corte Superior com base em óbices sumulares. Nesse contexto, está caracterizada a usurpação da competência do STJ, a quem cumpre apreciar o agravo em recurso especial. Precedente: Rcl 14.462/RJ, Rel. Min. Herman Benjamin, Corte Especial, DJe 2/2/2016.
+5. Reclamação julgada procedente para que seja determinado o regular processamento do agravo em recurso especial.
+(Rcl n. 30.906/RJ, relator Ministro Og Fernandes, Primeira Seção, julgado em 22/3/2017, DJe de 28/3/2017.)
+Ante o exposto, julgo procedente a Reclamação, a fim de cassar a decisão do Vice-Presidente do Tribunal de Justiça do Ceará, proferida nos autos n. 0033333-78.2012.8.06.0001, e, por consequência, determinar a remessa do feito ao Superior Tribunal de Justiça para o julgamento do Agravo em Recurso Especial.
+Publique-se. I ntimem-se.
+EMENTA
