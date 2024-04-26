@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por QUENIA COMÉRCIO DE MEDICAMENTOS LTDA. e ANA CHARA MARQUES BASSO (QUENIA e outra), representadas pela Defensoria Pública do Distrito Federal, contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, QUENIA e outra alegaram a violação dos arts. 6º, 524, § 2º, 98, VII do CPC, ao sustentarem que o indeferimento do pedido de remessa dos autos à contadoria judicial, formulado pela Defensoria Pública, atuando na condição de curadoria de ausentes, configura cerceamento de defesa, na medida em que a instituição não dispõe de profissionais com conhecimentos em contabilidade.
+Trata-se, na origem, de ação monitória ajuizada por BANCO DO BRASIL S/A (BANCO) contra QUENIA e outra, lastreada em "contrato de abertura de crédito BB Giro Empresa".
+A r. sentença julgou a ação procedente, para declarar convertido, de pleno direito, o mandado monitório em título executivo judicial no valor de R$ 95.776,50.
+Ao dirimir a controvérsia referente ao alegado cerceamento de defesa, o Tribunal de Justiça do Distrito Federal e Territórios assim decidiu:
+Em 24/6/2022, foi proferida decisão de saneamento, em que restou indeferida a remessa do feito para a Contadoria. O juiz destacou que os elementos trazidos aos autos eram suficientes para o seu convencimento e que a remessa dos autos à Contadoria tem provocado exclusivamente "maior morosidade no feito, haja vista a alegação da área técnica no sentido de que o tribunal não disponibiliza os programas adequados para a realização dos cálculos" (ID nº 45403240).
+A decisão saneadora destacou que a apresentação de incorreção dos cálculos incumbe a quem alega e pode ser averiguada com a realização de cálculos em sistemas externos do tribunal http://drcalc.net/ ou a calculadora do cidadão, já utilizada pela Defensoria em outros feitos.
+O Juiz é o destinatário da prova. Cabe a ele determinar as provas necessárias ao julgamento do mérito (CPC, arts. 370 e 371), apreciar as provas constantes nos autos e indicar as razões de seu convencimento. Pode indeferir, contudo, as diligências inúteis ou meramente protelatórias, conforme determina o princípio do livre convencimento motivado. (Acórdão 1612429, Relatora: CarmenBittencourt, 1ª Turma Cível, data de julgamento: 31/8/2022, publicado no DJE:23/9/2022. Pág.: Sem Página Cadastrada.).
+A interpretação teleológica da norma conduz ao entendimento de que o seu objetivo é zelar pela celeridade e pela efetividade da prestação jurisdicional.
+Ademais, não há cerceamento de defesa quando os documentos juntados aos autos se mostraram suficientes para a apreciação da lide, assim como para firmar a livre convicção do julgador.
+Resta claro, portanto, que o entendimento adotado pelo acórdão recorrido se coaduna com a jurisprudência desta Corte Superior, no sentido de que apenas ocorre cerceamento de defesa nos casos em que o juízo decide por insuficiência de provas, embora tenha indeferido justamente o meio de prova que supriria essa insuficiência probatória.
+No caso dos autos, o pedido de dilação probatória foi fundamentado, unicamente, no argumento de que a Defensoria Pública do Distrito Federal não teria, a sua disposição, os meios técnicos para elaborar a memória de cálculo exigida. Todavia, o magistrado de primeiro grau concluiu que se trata de pedido genérico e que é incumbência da parte a apresentação da suposta incorreção dos cálculos.
+Ademais, rever o entendimento do Tribunal estadual, para afastar o cerceamento de defesa, demandaria o revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. 1. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM PELA SUFICIÊNCIA DAS PROVAS. INVIABILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. RECONVENÇÃO APRESENTADA EM PEÇA ÚNICA DE DEFESA. AUSÊNCIA DE PREJUÍZO. TESES RECONVENCIONAIS DEVIDAMENTE ANALISADAS. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. PRESCRIÇÃO AQUISITIVA POR USUCAPIÃO. RECONHECIMENTO. REMESSA DA DISCUSSÃO PARA VIA PRÓPRIA. NECESSIDADE. ORIENTAÇÃO ADOTADA NA ORIGEM EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. O acó rdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte Superior, no sentido de que "não configura cerceamento de defesa o julgamento antecipado da lide quando o julgador entende adequadamente instruído o feito, declarando a prescindibilidade da prova testemunhal com base na suficiência da prova documental apresentada" (AgInt no AREsp 1.782.370/SP, Rel. Ministro Raul Araújo, Quarta Turma,
+julgado em 17/5/2021, DJe 18/6/2021).
+2. Infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da prova requerida, tal como buscam os insurgentes, esbarraria na Súmula n. 7/STJ.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado impede o conhecimento do recurso, na esteira do enunciado n. 283 da Súmula do Supremo Tribunal Federal. 4. No tocante ao pedido reconvencional de reconhecimento da prescrição aquisitiva por usucapião, observa-se que os requisitos, para tanto, devem ser analisados em ação própria, conforme entendimento firmado no Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2052961 / SP Rel Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 28/11/2022 - sem destaques no original).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor do BANCO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
