@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ PAULO SAMPAIO KAUFFMANN contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido na Apelação Criminal n. 0004291-94.2007.8.26.0326 (fls. 79/149), complementado pelo dos embargos de declaração (fls. 150/162).
+O paciente foi condenado, em primeira instância, pelo cometimento dos delitos previstos no art. 90 (duas vezes) e 96, IV e V, ambos da Lei n. 8.666/1993, na forma dos arts. 69 e 71 do Código Penal, às reprimendas de 6 anos e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 23 dias-multa .
+A Corte a quo declarou extinta a punibilidade do paciente, pela prescrição da pretensão punitiva, no tocante ao delito do art. 90, caput, da Lei n. 8.666/1993; negou provimento ao apelo defensivo; e proveu em parte o recurso do Ministério Público para elevar a pena-base do delito previsto nos incisos IV e V do art. 96 da Lei n. 8.666/1993 a 4 anos e 6 meses de reclusão, fixando nesse patamar a sanção corporal definitiva; e estabelecer a multa em 5% do valor do contrato licitado.
+A condenação transitou em julgado no dia 21/3/2024, é o que consta do andamento do AREsp n. 2.440.882/SP.
+Neste writ, a defesa requer seja concedida a ordem para reconhecer a atipicidade da conduta prevista no art. 96 da Lei n. 8.666/1993 e afastar a exasperação da pena aplicada pelo Tribunal estadual, fixando a pena-base no mínimo legal. Subsidiariamente, pede a aplicação da fração de 1/8 para cada circunstância judicial.
+Estes autos foram a mim distribuídos por prevenção de turma.
+É o relatório.
+O presente habeas corpus foi impetrado contra condenação já transitada em julgado. Diante dessa situação, é inadmissível o presente writ, manejado como substitutivo de revisão criminal.
+Além disso, ao lado de não ter cabimento a reiteração de pedido, pelo que se tem do julgamento do AgRg no AREsp n. 2.440.882/SP (DJe 5/3/2024), a autoridade coatora, agora, seria o Superior Tribunal de Justiça, uma vez que a temática suscitada na impetração já foi decidida pela Sexta Turma:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 96, INCISOS IV E V, DA LEI N. 8.666/93. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. TESE DE QUE NÃO FOI COMPROVADA A ELEMENTAR DO TIPO RELATIVA AO PREJUÍZO À FAZENDA PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. ALEGAÇÃO DE QUE INEXISTEM PROVAS QUANTO À AUTORIA DO DELITO. INCIDÊNCIA DA SÚMULA N. 7/STJ. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. DESPROPORCIONALIDADE. INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional não se presta à análise da alegação de ofensa a dispositivo da Constituição da República.
+2. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou, nos exatos termos propostos no recurso especial, a tese de que deve ser reconhecida a atipicidade da conduta, pois não teria sido demonstrada a presença da elementar atinente à comprovação de efetivo prejuízo para a Fazenda Pública decorrente da conduta imputada ao Réu.
+3. A Corte a quo concluiu que foram apresentadas provas concretas e idôneas quanto à materialidade e à autoria do delito. A revisão desse entendimento, a fim de adotar a tese de absolvição por insuficiência probatória, encontra óbice na Súmula n. 7/STJ.
+4. In casu, a fixação da sanção basilar além do mínimo previsto para o tipo penal tem fundamentação adequada, uma vez que foram declinados elementos que conferem à conduta excepcional reprovabilidade e que não são ínsitos ao tipo penal.
+5. A pena-base foi fixada em 4 anos e 6 meses de reclusão, isto é, houve elevação no patamar de 1 ano e 6 meses(art. 96 da Lei n. 8.666/1993 - reclusão de 3 a 6 anos). Considerando a gravidade concreta da conduta devidamente exposta pelo Tribunal de Justiça estadual, não há desproporcionalidade na exasperação da basilar em patamar superior a 1/6 (um sexto).
+6. Agravo regimental desprovido.
+À vista do disposto no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS.  INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. OPERAÇÃO POMAR. LEI DE LICITAÇÕES. FRAUDE NA EXECUÇÃO DO CONTRATO. ATIPICIDADE DA CONDUTA E DOSIMETRIA DA PENA. REITERAÇÃO DE PEDIDO. INADMISSIBILIDADE. TEMAS JÁ DECIDIDOS PELO STJ. AUTORIDADE COATORA.
+Petição inicial indeferida liminarmente.
