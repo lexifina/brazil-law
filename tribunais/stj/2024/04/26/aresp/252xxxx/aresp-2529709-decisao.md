@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por ECOPARK S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1222):
+APELAÇÃO. Cumprimento provisório de sentença. Extinção do incidente após o v. acórdão em embargos de declaração nº 0074732-23.2008.8.26.0114/50005 que anulou a condenação nos autos principais, ao argumento de que não mais havia título judicial Insurgência do apelante para invalidação da r. sentença do incidente, tendo em vista a superveniência do v. acórdão proferido em novos embargos de declaração (50007), o qual manteve a condenação no processo principal.
+Possibilidade.
+Reafirmado em sede recursal o direito da apelante à indenização em face da apelada nos autos principais, restabelece-se o título judicial outrora anulado. Novos aclaratórios (50008 e 50009) rejeitados por esta C. Câmara.
+Sentença do incidente fundamentada no princípio nulla executio sine judicio. De rigor a anulação da r. decisão defls. 860/862, bem como de todos os atos posteriores, determinando-se o retorno ao status quo ante e o prosseguimento do feito nos termos dos artigos 520 e seguintes do Código de Processo Civil Recurso provido para anular a r. sentença de fls. 860/862 e todos os atos posteriores, determinando-se o retorno ao status quo ante e o prosseguimento do feito nos termos dos artigos 520 e seguintes do Código de Processo Civil.
+Embargos de declaração rejeitados (fls. 1231-1235 e 1242-1245).
+No recurso especial, alega a recorrente, preliminarmente, ofensa aos arts. 489, § 1º, II, e 1.022, inciso II, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido. Aduz que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia
+Sustenta, ainda, afronta aos arts. 520, inciso II, e 1.008 do Código de Processo Civil, e 4º da LINDB, ao defender a impossibilidade de se restabelecer um título executivo judicial, ante o claro efeito substitutivo imposto pelo art. 1.008 do CPC, e que, uma vez que o título exequendo em primeiro grau foi declarado nulo, o cumprimento de sentença de origem deve ser extinto.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1289-1302).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1369-1372), o que ensejou a interposição do presente agravo.
+Contraminuta ao agravo (fls. 1392-1406).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender pela necessidade de anulação da sentença e retorno ao status quo ante, com prosseguimento do incidente de cumprimento provisório de sentença, uma vez que restabelecido o título judicial, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 1226-1227):
+In casu, verifica-se que a r. sentença fundamentou a extinção do incidente no princípio nulla executio sine judicio, logo após o v. acórdão que anulou a condenação nos autos principais.
+Portanto, uma vez restabelecido o título judicial por força do v. acórdão proferido nos embargos de declaração (50007) julgados por esta C. Câmara em 08.06.2022, e tendo em vista a rejeição dos recursos posteriores (50008 e 50009), de rigor a anulação da r. sentença de fls. 860/862 e de todos os atos posteriores, determinando-se o prosseguimento deste feito nos termos dos artigos 520 e seguintes do Código de Processo Civil.
+Ex positis, dá-se provimento ao recurso para anulara r. sentença de fls. 860/862 e todos os atos posteriores, determinando-se o retorno ao status quo ante e o prosseguimento do feito nos termos dos artigos 520 e seguintes do Código de Processo Civil.
+Confira-se, também, o seguinte excerto do acórdão dos embargos de declaração (fl. 1244):
+Do contrário, constata-se que todas as razões apresentadas para sustentação do recurso foram analisadas e resolvidas pela C. Turma Julgadora, podendo se afirmar, com a devida vênia, que os termos do v. acordão embargado são claros, inequívocos, nada restando a ser declarado quanto à necessidade de anulação da r. sentença e retorno ao status quo ante, com prosseguimento do incidente, mormente em função da superveniência de v. acórdão nos embargos de declaração nº 0074732-23.2008.8.26.0114/50007 que restabeleceu a condenação da ação principal, revertendo-se a v. aresto proferido nos embargos de declaração nº 0074732-23.2008.8.26.0114/50005, o qual anulara a r. sentença de origem.
+Logo, depreende-se que houve somente a discordância da embargante quanto aos fundamentos logicamente contrapostos aos argumentos e julgados sobre os quais ora se alega ter havido omissão adotados no v. aresto que deu provimento à apelação interposta pela embargada para anular a r. sentença de origem e determinar o prosseguimento do feito.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+EXPEDIENTE AVULSO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA DE TÍTULO JUDICIAL. RESSALVA À IMPENHORABILIDADE DE VERBA SALARIAL. MITIGAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame de matéria fático-probatória dos autos.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.777.822/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
