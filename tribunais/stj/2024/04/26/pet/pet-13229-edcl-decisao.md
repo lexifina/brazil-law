@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso de embargos de declaração na decisão em recurso de embargos de declaração anterior, que julgou prejudicado o feito pelo perfeito andamento no processo conexo, o AREsp n. 1.490.908/SP, e pela redistribuição a relatoria diversa da tida como "suspeita" (fls. 34-35).
+Consta dos autos que, porque a demanda da origem se referia a honorários contratuais e sucumbenciais de advogada (OPV 50/2011), que fora condenada por apropriação indébita (no valor de R$ 8.185,01), a petição neste feito buscava a "declaração de fé a documento Público, nos termos do art. 19 da CF de 1988, encartado ao feito 0033884- 50.2012.8.26.0050, que tramita nesta Corte Superior" por parte dos Srs. Ministros "João Otávio de Noronha, Nancy Andrighi; Antonio Herman de Vasconcellos e Benjamin, Ricardo Villas Bôas Cueva; Jorge Mussi; Reynaldo Soares da Fonseca; Ribeiro Dantas; Joel Ilan Paciornik e Leopoldo de Arruda Raposo" (fl. 3).
+Nas razões destes aclaratórios, o embargante aponta diversos vícios na decisão anterior, contudo, apenas reiterando as matérias anteriores.
+Pede que se retire o "indevido obstáculo ao processamento da AÇÃO MERAMENTE DECLARATÓRIA" (fl. 42).
+Requer, ao final (fl. 42):
+"a) por quais razões NEGARAM FÉ AO DOCUMENTO PUBLICO - OPV 50/2011 no valor total de R$ 8.185,01, expedido nos autos da Fazenda Publica nº 0021209-32.2001.8.26.0053, para dar aso ao pedido da PAREXE 00216696/2018, ás fls. 511/520, nos autos do EAREsp 1191360/SP, endossando a sentença proferida nos autos do processo de origem 0033884-50.2012.8.26.0050, cujo Recurso aguarda julgamento sob o nº AREsp 1490908 (2019/0112993-1).
+b) Ou em entendimento diverso, que aclare os pontos controvertidos sob pena de atrair sobre a r. decisão ora embargada as nulidades previstas no art. 1022 § único inc. II do NCPC."
+É o relatório. DECIDO.
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, o embargante alega que houve vícios na decisão impugnada.
+Nesse contexto, ao fim, pede apenas fé a documento (OPV 50/2011) que, bem verdade, era pano de fundo de discussão travada em outros autos.
+Portanto, a tese defensiva não comporta acolhimento.
+Não obstante o já devidamente explicado na decisão impugnada, a defesa se insurge apenas repetindo pedidos relativos a feito diverso - o que foi até mesmo julgado prejudicado, como relatado.
+Em tempo, é importante consignar que os presentes embargos são a repetição de outros embargos de declaração anteriores, os quais, da mesma forma que os presentes, não atacaram devidamente os fundamentos da decisão recorrida e nem mesmo realizam pedidos finais compatíveis com a sistemática processual ou a modalidade recursal eleita.
+Dessarte, tendo em vista o alegado neste recurso e no concomitante, o que pretende o embargante, na verdade, é um pedido que não se coaduna com a estreita via dos embargos de declaração.
+Por fim, importante alertar que o uso abusivo recursal enseja a baixa imediata do feito, caso a defesa insista em peticionar de forma prolixa, sem atacar as razões do julgado ou respeitar a sistemática do Código de Processo Penal:
+"PROCESSUAL CIVIL. SEGUNDO AGRAVO INTERNO CONTRA DECISÃO COLEGIADA. ERRO GROSSEIRO. ABUSO DO DIREITO DE RECORRER. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1. Incabível agravo interno contra decisão colegiada, conforme dispõem o art. 1.021 do CPC/2015 e o art. 259 do RISTJ, constituindo essa interposição erro grosseiro, que inadmite aplicação do princípio da fungibilidade. Precedentes.
+2. Na hipótese, é o segundo agravo interno sucessivamente manejado contra acórdãos proferidos pela Primeira Turma.
+3. "A Corte Especial do STJ firmou o entendimento de que a interposição descabida de recursos configura abuso do direito de recorrer, autorizando a certificação de trânsito em julgado do feito e sua baixa imediata" (EDcl nos EDcl nos EDcl no AgInt nos EDcl no AREsp n. 2.131.248/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.).
+4. Agravo interno não conhecido, com a determinação de imediata certificação do trânsito em julgado" (AgInt nos EDcl no AgInt nos EDcl no AgInt nos EDcl no AREsp n. 2.137.314/RS, Primeira Turma, Rel. Min. Gurgel de Faria, DJe de 2/4/2024).
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM SEGUNDOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ROUBO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. PRECEDENTE PARÂMETRO EM HC. SÚMULA N. 315 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OB SCURIDADE. PRETENSÃO DE ANÁLISE MERITÓRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. DETERMIANDA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO" (EDcl no AgRg na Pet n. 16.236/SC, Terceira Seção, de minha relatoria, DJe de 29/2/2024).
+Ante o exposto, rejeito os embargos de declaração, com o aviso de que a continuidade no uso abusivo recursal ensejará a baixa imediata do feito e a certificação do trânsito em julgado independentemente de publicação.
+Publique-se. Intime-se.
+ EMENTA
