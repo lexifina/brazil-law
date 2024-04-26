@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por EDNA ALVES DE VASCONCELOS, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/02/2023.
+Concluso ao gabinete em: 15/04/2024.
+Ação: cobrança de indenização seguro obrigatório, ajuizada por EDNA ALVES DE VASCONCELOS, em face de MAPFRE SEGUROS GERAIS S/A (MAPFRE VERA CRUZ SEGURADORA S/A).
+Sentença: julgou parcialmente procedente o pedido, para condenar a agravada a pagar à agravante o valor de R$ 843,75. Desta forma, considerando que cada litigante foi, em parte, vencedor e vencido, nos termos do art. 86 do CPC, condenou-os no pagamento das custas e dos honorários, estes fixados em R$ 500,00, sendo 50% para cada parte, observando que tal verba de sucumbência não poderá ser exigida da agravante, nos termos do art. 98, § 3º, em razão de ser a parte beneficiária da gratuidade judiciária.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível. Ação de cobrança. Seguro DPVAT. Indenização recebida administrativamente. Necessidade de complementação. Irresignação. Alegação de que não recebeu nenhum valor. Pleito de recebimento do valor integral da indenização. Descabimento. Necessidade de se provar ainda que minimamente os fatos alegados. Ônus que incumbe ao autor. Manutenção da sentença. Desprovimento do apelo." (e-STJ fl. 625)
+Recurso especial: alega violação do art. 373, I, CPC, sustentando que a Corte local não poderia ter indeferido as pretensões recursais da recorrente sob o fundamento de que não provou, ainda que minimamente, os fatos constitutivos de seu direito, visto que consta nos autos o indeferimento administrativo, ou seja, não recebeu valor algum e, por isso, não se pode falar em complemento do valor devido, mas em pagamento integral pela recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "conforme bem salientado na sentença, há que se reconhecer o direito da agravante à indenização securitária no valor referente à diferença entre R$ 2.531,25 (dois mil quinhentos e trinta e um reais e vinte e cinco centavos) e o valor já recebido de R$ 1.687,50 (mil seiscentos e oitenta e sete reais e cinquenta centavos), o que resulta na quantia de R$ 843,75 (oitocentos e quarenta e três reais e setenta e cinco centavos)", bem como de que "quanto ao valor recebido administrativamente, a agravada juntou comprovante de transferência (Id. 15318441) realizada no dia 25/09/2020 para conta de titularidade da agravante, no valor de R$ 1.687,50 (mil seiscentos e oitenta e sete reais e cinquenta centavos)", assim também de que "ao correlacionar as afirmações da agravante aos documentos acostados aos autos, é possível observar fortes incongruências nas informações apresentadas, inclusive que a agravante não impugna o comprovante de transferência, nem mesmo demonstra que o valor seria referente a outra causa, que não o acidente questionado nos autos", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 500,00 (e-STJ fl. 572) para R$ 700,00, observada a concessão da gratuidade da justiça e mantida a proporção fixada pela Corte local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SEGURO OBRIGATÓRIO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança de indenização seguro obrigatório.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
