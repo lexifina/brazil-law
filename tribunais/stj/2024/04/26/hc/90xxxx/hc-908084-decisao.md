@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de NAYARA KETELYN CARDOZO GOMES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 1501511-82.2022.8.26.0617.
+Consta dos autos que a paciente foi inicialmente condenada pelo Juízo da 5ª Vara Criminal da Comarca de São José dos Campos, à pena de 01 ano e 08 meses de reclusão, cumulada com multa pecuniária equivalente a 166 dias-multa, por infração ao artigo 33, caput, da Lei 11.343/06, nos termos da sentença de fls. 17-23.
+Ambas as partes apelaram ao Tribunal de Justiça, que negou provimento ao recurso da defesa e deu provimento ao recurso da acusação, para redimensionar as penas da paciente para 05 (cinco) anos de reclusão, em regime prisional inicial fechado, e multa pecuniária equivalente a 500 (quinhentos) dias-multa, por infração ao artigo 33, caput, da Lei 11.343/06, conforme o acórdão de fls. 24-38.
+Interposto recurso especial, restou inadmitido na origem. Aviado agravo em recurso especial, tombado no Superior Tribunal de Justiça, como AREsp n. 2.520.968 - SP, não foi conhecido.
+Trânsito em julgado certificado em 20/02/2024 (fl. 359, do AREsp n. 2.520.968 - SP).
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem, para reconhecer a nulidade da provas obtidas em busca pessoal realizada pela Guarda Municipal, assim como para aplicar a causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/2006.
+É o relatório. DECIDO.
+A controvérsia dos autos gira em torno de possível ilegalidade flagrante, consistente na nulidade da provas obtidas em busca pessoal realizada pela Guarda Municipal, assim como na negativa à causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/2006.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada impugnada (fls. 24-38):
+ ..
+"Aliás, verifica-se que a prova oral a seguir analisada bem deu conta que, ao avistar a viatura da Guarda Municipal, a ré lançou a sacola que portava sobre um telhado, e posteriormente verificou-se que continha maconha, cocaína e numerário, circunstâncias que, por óbvio, legitimam a forma de proceder dos agentes públicos municipais, respaldada, inclusive, em demonstração da prática, pela imputada, de crime de natureza permanente.
+Portanto, nulidade alguma há que ser reconhecida na espécie, muito menos a materialidade foi prejudicada em decorrência de terem sido guardas municipais que efetivaram a apreensão desses tóxicos, não havendo que se acolher a tese defensiva quanto a aplicação do "princípioda "árvore envenenada"" (fl. 246).
+ ..
+Acrescentaram que dentro da sacola foram encontrados 18 pinos de cocaína, 24 invólucros de maconha e R$118,00 em espécie, e que, na Delegacia, uma guarda civil efetuou busca pessoal na ré, localizando mais numerário em suas vestes íntimas.
+Diante desse cenário, há que se dispensar o devido valor probatório às palavras dos guardas municipais, que forneceram relatos harmônicos e coerentes quanto às circunstâncias que cercaram a prisão da acusada, e a apreensão dos tóxicos e numerário, sem qualquer demonstração de que tivessem interesse em incriminá-la falsamente, a teor do que dispõe o artigo 156, do Código de Processo Penal.
+Não parece crível, aliás, que esses agentes públicos fossem forjar crime tão grave a uma inocente, se valendo de nada menos que 42 porções de dois tóxicos distintos, um deles potentíssimo, com peso total de 54,90g, já embaladas de maneira fracionada, habitual no submundo da traficância, conforme se depreende da imagem de fl. 24, além de R$618,00 em espécie, todo esse material apreendido e regularmente apresentado na Delegacia, quando apenas algumas porções de uma só droga, e nenhum numerário, já seriam mais do que suficientes para a imputação, caso quisessem agir de má-fé.
+ ..
+Todavia, indevidamente beneficiada a ré com a aplicação do redutor do § 4º, do artigo 33, da Lei 11.343/06, que não é direito subjetivo da imputada, deve ser afastado, ao contrário do aduzido nas contrarrazões da Defensoria (fls. 242/243), por se tratar de benesse a ser concedida em circunstâncias especialíssimas, e quando preenchidos, cumulativamente, todos os seus requisitos, e apenas aos neófitos que se envolvem no narcotráfico em pequena monta, o que não se observa no caso presente, vez que, a par da sua primariedade, foi surpreendida em via pública, após lançar sacola contendo apreciáveis quantidades de tóxicos distintos e numerário, em plena tarde de uma segunda-feira, repita-se, sendo uma dessas drogas potentíssima, sem nenhuma comprovação concreta quanto ao exercício de atividade laborativa lícita pela ré, não se descurando, aliás, ter indicado um terceiro como proprietário delas, todavia não o identificando, tudo a indicar que se dedica com intensidade à narcotraficância, dela fazendo seu meio de vida, o que enseja a não aplicação do redutor em questão, vez que não preenche o terceiro requisito do aludido dispositivo, não vingando, portanto, a tese invocada em contrarrazões defensivas quanto a não existirem provas de que ela se dedicava a atividades criminosas (fl. 241)."
+ ..
+O presente writ foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo com trânsito em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019)
+ ..
+De todo modo, não verifico nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
