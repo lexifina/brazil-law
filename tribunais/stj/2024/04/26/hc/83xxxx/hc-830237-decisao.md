@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de JOSÉ REGINALDO CARDOSO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0002109-33.2023.8.26.0502).
+O Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Campinas - DEECRIM 4ª RAJ deferiu o pedido de concessão de indulto formulado com base no Decreto nº 11.302/2022 e, consequentemente, declarou extinta a pena privativa de liberdade "relativa ao processo nº 0002388-73.2015.8.26.0510" (e-STJ fl. 22).
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso "para cassar a decisão que concedeu indulto a Jose Reginaldo Cardoso" (e-STJ fl. 55). Eis a ementa do mencionado acórdão (e-STJ fl. 53):
+AGRAVO EM EXECUÇÃO. Irresignação ministerial contra concessão de indulto.
+PRELIMINAR. Nulidade por ausência de prévia manifestação do MP. Rejeição.
+MÉRITO. Hipótese que não se enquadrou no Decreto Presidencial nº 11.302/2022, art. 5º, caput, parágrafo único.
+PROVIMENTO.
+No presente writ, a Defensoria Pública do Estado de São Paulo alega, em síntese, que: a) "não há como sustentar que o fato de o art. 5º, parágrafo único, do Decreto 11.302/2022 mencionar apenas o instituto "concurso de crimes" (arts. 69, 70 e 71 do Código Penal), omitindo-se quanto à "soma ou unificação das penas" (art. 111 da LEP), impediria o reconhecimento do indulto concedido no caso em tela" (e-STJ fl. 5); b) "na hipótese de concurso de crimes, ainda que a pena total do título executivo condenatórios seja superior a cinco anos, é concedido o indulto para as infrações penais que compõe o título que possuam pena privativa de liberdade máxima em abstrato não superior a cinco anos" (e-STJ fl. 6); c) "o acórdão afasta a concessão de indulto de qualquer apenado que possua mais de uma execução penal, ainda que sejam duas execuções de delitos cuja pena máxima abstrata seja inferior a cinco anos" (e-STJ fl. 7); d) "o fato de o paciente ter tido sua pena somada ou unificada, como prevê o art. 111 da LEP não impede a concessão do indulto" (e-STJ fl. 8) e e) "o paciente está submetido a constrangimento ilegal ao não ter sua pena declarada extinta mesmo preenchendo todos os requisitos postos pelo art. 5º do Decreto nº 11.302/2022 - furto simples praticado sem concurso com qualquer outro delito" (e-STJ fl. 10).
+Por isso, requer a concessão da ordem a fim de que "seja cassado o acórdão emanado pela 6ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, restaurando a decisão proferida em 1ª instância, que concedeu o indulto ao agravado, declarando extinta a pena privativa de liberdade, conforme artigo 107, inciso II, do Código Penal, relativa ao processo nº 0002388-73.2015.8.26.0510" (e-STJ fl. 10).
+Informações prestadas (e-STJ fls. 67/76 e 77/80).
+Parecer do Ministério Público Federal pela "não admissão do writ mas, em seguida, pela concessão de um habeas corpus ex officio" (e-STJ fl. 96) a fim de que seja restabelecida a decisão de primeiro grau.
+É o relatório.
+Decido.
+Em consulta realizada na página eletrônica do Tribunal de origem, verifica-se que, no dia 04/04/2024, o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Campinas - DEECRIM 4ª RAJ,  ao dar cumprimento à decisão por mim proferida, nos autos do Habeas Corpus nº 899.934/SP, que determinou a apreciação de pedido de indulto afastado o óbice do somató rio das penas em abstrato  deferiu o pedido de concessão de indulto e, com base no art. 107, II, do Código Penal, declarou extinta a pena privativa de liberdade aplicada nos autos do Processo nº 0002388-73.2015.8.26.0510.
+Essa circunstância evidencia a perda do objeto da presente impetração.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
