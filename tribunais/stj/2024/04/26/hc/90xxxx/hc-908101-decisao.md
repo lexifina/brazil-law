@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Marco Aurelio da Silva Rodrigues - condenado pela prática do delito de tráfico de drogas à pena de 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa (Processo n. 1500386-06.2023.8.26.0630, da 2ª Vara Criminal da comarca de Americana/SP) -, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento ao apelo da defesa (Apelação Criminal n. 1500386-06.2023.8.26.0630).
+Aqui, alega-se constrangimento ilegal na dosimetria da pena e requer-se a concessão da ordem a fim de: (I) reduzir a pena-base no mínimo legal; (II) aplicar o redutor previsto no art. 33, § 4º, da Lei de Drogas; e (III) fixar regime inicial mais benéfico.
+Estes autos foram a mim distribuídos por prevenção (HC n. 903.686/SP).
+É o relatório.
+O writ é manifestamente inadmissível.
+De início, ocorrido o trânsito em julgado da sentença condenatória, o presente writ é sucedâneo de revisão criminal. Inexistindo, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Tampouco diviso ilegalidade flagrante que justifique a concessão de habeas corpus de ofício.
+No tocante à dosimetria, o Tribunal de origem assim se manifestou (fl. 43 - grifo nosso):
+Na primeira fase, as basilares foram fixadas no mínimo legal.
+Na segunda etapa, adequadamente reconhecidas a agravante da reincidência (fls. 38/39) e a atenuante da menoridade relativa, foi promovida a integral compensação entre ambas, não havendo o que ser modificado.
+Por fim, tendo em conta a ausência de causas de aumento e diminuição, as reprimendas se estabilizam no patamar original de 05 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa, no valor mínimo legal.
+Pontuo que o i. Magistrado singular andou bem ao não se valer do redutor previsto no § 4º, do art. 33, da Lei 11.343/06; o ora apelante apresenta comprovada reincidência, o que, por si só, impede a aplicação da mencionada causa de diminuição, conforme previsão legal expressa (STF, AgRg no HC nº 206199, Relator Ministro Nunes Marques, Segunda Turma, julgado em 21/02/2022, DJe em 04/04/2022; e STJ, AgRg no AgRg no AREsp nº 2.194.616/SP, Relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/9/2023, DJe em 11/9/2023).
+O regime fechado, eleito para cumprimento inicial da aflição, não comporta alteração; para além do quantum da sanção supramencionada, o réu não é primário. Sabido que não é possível a fixação do regime inicial semiaberto aos acusados reincidentes nas hipóteses em que o réu é condenado a pena superior a 04 (quatro) anos, quadro que se vislumbra nestes.
+Inicialmente, cumpre esclarecer que a pena-base foi estabelecida no mínimo legal, razão pela qual não conheço do pedido nesse aspecto .
+Quanto ao redutor especial da pena, o acórdão recorrido está em consonância com a orientação jurisprudencial desta Corte, no sentido de que a reincidência impede a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, porquanto um dos requisitos legais para a sua incidência é a primariedade do acusado" (HC n. 360.200/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/9/2016, DJe 6/9/2016) - (AgRg no HC n. 771.016/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/4/2024).
+No mesmo sentido,  a  reincidência do réu torna incabível a alteração do regime prisional para o aberto ou semiaberto, nos termos do art. 33, § 2º, b, do Código Penal (AgRg no HC n. 888.647/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe 18/4/2024).
+Ante o exposto, não conheço do habeas corpus (art. 34, XVIII, a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. FUNDAMENTO SUBSIDIÁRIO. TRÁFICO DE DROGAS. DOSIMETRIA. PRETENSÃO DE REDUÇÃO DA PENA-BASE, DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO E DE ALTERAÇÃO DO REGIME PRISIONAL. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ não conhecido.
