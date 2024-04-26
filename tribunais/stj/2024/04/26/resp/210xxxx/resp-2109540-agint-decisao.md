@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO NORTE com fundamento no art. 105, III, a e c, da Constituição Federal.
+O feito decorre de agravo de instrumento em face de decisão proferida em embargos à execução opostos pela Fazenda Pública que fixou os honorários advocatícios tendo como base de cálculo o valor total da execução e não o proveito econômico obtido nos embargos à execução.
+O TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL DEU provimento ao agravo de instrumento em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. FAZENDA PÚBLICA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS EXECUTIVOS. BASE DE CÁLCULO. CASO CONCRETO. No caso concreto, os honorários executivos, fixados em 10% na origem, devem ter por base de cálculo o valor do precatório, visto que este já foi expedido e pago, e não sobre o proveito econômico obtido pelo executado nos embargos à execução, diante da natureza da verba honorária.
+RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta violação dos arts. 85, § 7º, e 1.022, do CPC/2015. Sustenta, em síntese, que a base de cálculo da verba honorária deve ser o proveito econômico obtido, ou seja, a diferença do valor que o ente público executado entendia como devido e o que foi condenado nos embargos à execução.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O IPERGS interpôs agravo interno, defendendo, em síntese, que, sendo a impugnação apenas parcial, os honorários devem incidir apenas sobre a parte controvertida.
+Foram apresentadas contrarrazões.
+É o relatório. Decido.
+Assiste razão ao Agravante.
+É entendimento desta Corte Superior que devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa.
+Confira-se:
+PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA Nº 284/STF. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. ART. 85, § 7º, DO CPC. HONORÁRIOS. ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. SÚMULA Nº 83/STJ. AGRAVO INTERNO CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. No que tange à alegada violação ao art. 1.022 do CPC/2015, verifica-se que as razões de recorrer são genéricas, na medida em que limitam-se a afirmar que o acórdão a quo foi omisso quando a avaliação dos embargos de declaração, sem contudo delimitar como a tese omitida é fundamental à conclusão do julgado e, se examinada, como levaria à sua anulação ou reforma. Incidência da Súm. n. 284/STF.
+2. O direito de honorários em fase de execução quando a Fazenda Pública apresenta irresignação em processos sujeitos a precatório não foi negado aos agravantes. Contudo, nos termos da jurisprudência do STJ, a base de cálculo deve ser apenas o valor controvertido na execução.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.025.606/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDENIZAÇÃO DE LICENÇA-PRÊMIO. BASE DE CÁLCULO. VERBAS DE CARÁTER PERMANENTE. HONORÁRIOS ADVOCATÍCIOS DE EXECUÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Trata-se de agravo de instrumento interposto contra parte da decisão que, no âmbito de cumprimento de sentença tendo por objeto o pagamento de indenização por períodos de licença-prêmio não gozados, rejeitou a impugnação do INSS contra a inclusão, na base-de-cálculo, das parcelas de adicional de insalubridade e do terço constitucional de férias. No Tribunal a quo, o agravo de instrumento foi desprovido.
+II - Nos termos da jurisprudência firme desta Corte Superior, o adicional de insalubridade não integra a remuneração do servidor, devendo tal rubrica ser excluída da base de cálculo da conversão da licença-prêmio em pecúnia. Por outro lado, o adicional de férias integra a remuneração do cargo efetivo e possui natureza permanente, devida ao servidor quando em atividade, integrando a base de cálculo para a conversão da licença-prêmio em pecúnia.
+III - Jurisprudência citada: "O adicional de insalubridade não integra a remuneração do servidor, devendo tal rubrica ser excluída da base de cálculo da conversão da licença-prêmio em pecúnia" (AgInt no AREsp n. 1.717.278/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe 1º/3/2021).
+IV - Ademais, o adicional de insalubridade é uma vantagem pecuniária não permanente, pois não se incorpora ao patrimônio jurídico do servidor de forma irreversível. Precedente do STF: (RE n. 593.068, Relator(a): Roberto Barroso, Tribunal Pleno, Processo Eletrônico Repercussão Geral - mérito DJe-056 Public 22-3-2019).
+V - Também o STJ apreciou questão semelhante e concluiu pela não inclusão do adicional de insalubridade como base de cálculo nos proventos de aposentadoria, o que, por analogia, aplica-se ao presente caso, uma vez que comprova a natureza meramente indenizatória de tal rubrica. (REsp n. 921.873/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 11/9/2020).
+VI - Nesse diapasão: AgInt no AREsp n. 1.734.643/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/10/2021, DJe 22/10/2021; AgInt no AREsp n. 1.717.278/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe 1/3/2021; e AgInt no AREsp n. 1.945.228/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/3/2022, DJe 24/3/2022.
+VII - Acerca dos honorários, é entendimento desta Corte Superior que devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa. Nesse sentido: AgInt no REsp n. 1.897.903/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe 24/2/2022; e AgInt nos EDcl no REsp n. 1.885.625/RS, relator Ministro Og Fernandes, Segunda Turma, ºjulgado em 19/4/2021, DJe 1ª/6/2021.
+VIII - Assim, os honorários advocatícios devem ser fixados apenas sobre o valor controvertido, alvo da impugnação, ou, no caso de acolhimento da impugnação, sobre o valor decotado do inicialmente cobrado.
+IX - Agravo interno improvido.
+(AgInt no REsp n. 1.988.577/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/10/2022, DJe de 27/10/2022.)
+Ante o exposto, com fundamento no art. 259 do RISTJ, dou provimento ao agravo interno para, com esteio no art. 255, § 4º, III, do RISTJ, dar provimento ao recurso especial para estabelecer que a condenação em honorários advocatícios se dará apenas sobre a parcela não controvertida da execução.
+Publique-se. Intimem-se.
+EMENTA
