@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por Eduardo Horta Cavalcanti de Albuquerque contra a decisão de fls. 505-508 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 422-426 e 450-455 (e-STJ), prolatados pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementados:
+APELAÇÃO CÍVEL. Alienação fiduciária em garantia de bem imóvel. Pretensão de declaração de nulidade da consolidação da propriedade do imóvel em favor da parte credora. Alegação de ausência de intimação para purgação da mora. Sentença de procedência. Conjunto probatório dos autos que demonstra a efetiva intimação para purga da mora, conforme exige o artigo 26, § 1º, da Lei n. 9.514/1997. Documento de inteiro teor do imóvel com a consignação do resultado do procedimento de constituição em mora do devedor fiduciante. Intimação do devedor autor, de forma pessoal. Intimação dos demais devedores solidários, por meio de publicação de edital. Transcurso do prazo de 15 dias, sem que fosse efetivada a purga da mora. Ausência de qualquer vício no procedimento de consolidação de propriedade, ou mesmo no procedimento extrajudicial promovido pelo apelante. Sentença que se reforma. PROVIMENTO DO RECURSO.
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. Embargante que não aduz a existência de qualquer vício em específico. Descabida a alegação de violação da vedação à surpresa. Desde a contestação o embargado aduz a solidariedade dos credores, argumentação repetida em sede recursal, do qual decorre, logicamente, a incidência da regra prescrita no artigo 275 do Código Civil. No decorrer da instrução lhe foi oportunizada manifestação, assim como no prazo de contrarrazões, quando o embargante preferiu quedar-se inerte, a despeito da intimação. Fundamentação expressa sobre a notificação dos devedores e observância da Lei n. 9.514/1997, para a realização do procedimento de execução extrajudicial. Mero inconformismo do embargante, que pretende a modificação da essência do julgado, por meio de rediscussão da matéria. Argumentos que extrapolam os limites objetivos dos embargos declaratórios. Inexistência de quaisquer vícios a serem sanados na estreita via dos declaratórios. EMBARGOS REJEITADOS.
+Nas razões do recurso especial (e-STJ, fls. 457-463), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação do art. 26 § 3º da Lei 9.514/1997. Sustentou, em síntese: a nulidade da consolidação da propriedade, tendo em vista o descabimento da intimação dos devedores para purgação da mora via edital.
+Contrarrazões às fls. 489-503 (e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual o insurgente contesta a aplicação do óbice.
+Contraminuta às fls. 530-534 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal de origem chegou às seguintes conclusões: regularidade da consolidação da propriedade, pela possibilidade de exigência da dívida de um dos devedores solidários, o qual foi intimado pessoalmente para purgação da mora; e existência de intimação por edital dos demais devedores. Nada consta no acórdão sobre a alegada falta de exaurimento das tentativas de localizar os devedores intimados via edital .
+Veja-se às fls. 425 (e-STJ):
+Com efeito, diante da solidariedade da dívida, seria suficiente a intimação de um dos devedores para que o credor exigisse o pagamento do débito, como autoriza o art. 275, do Código Civil:
+"Art. 275. O credor tem direito a exigir e receber de um ou de alguns dos devedores, parcial ou totalmente, a dívida comum; se o pagamento tiver sido parcial, todos os demais devedores continuam obrigados solidariamente pelo resto.
+Parágrafo único. Não importará renúncia da solidariedade a propositura de ação pelo credor contra um ou alguns dos devedores."  grifou-se
+De todo modo, a parte credora, no que tange aos demais devedores, em razão de não terem sido encontrados nos endereços constantes no contrato, efetivou as respectivas intimações, por edital (fl.204):
+ ..
+Consta, ademais, que transcorreu o prazo de 15 dias, após a intimação do apelado, e após a intimação dos demais devedores solidários, intimados por edital, sem que purga da mora fosse efetivada (fl. 204):
+Ocorre que não se extrai das razões do presente recurso impugnação ao fundamento de regularidade da consolidação da propriedade, porquanto a dívida pode ser cobrada de apenas um dos devedores solidários, o qual foi intimado pessoalmente.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ACORDO. SEGURADORA E AUTOR. PAGAMENTO DE DANOS MATERIAIS. CONDENAÇÃO DA RÉ. DANOS MORAIS. VALORES PAGOS. DEDUÇÃO. IMPOSSIBILIDADE. INSTITUTOS DISTINTOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no REsp 1.806.931/CE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/08/2021, DJe 03/09/2021).
+Como se não bastasse, também se verifica a incidência das Súmulas 282 e 356/STF, uma vez que o Tribunal local não se pronunciou sobre a alegada falta de exaurimento das tentativas de localizar os devedores que foram intimados via edital.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE.
+NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, alínea a, da CF/88.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1.933.737/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 23/09/2021).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 3% (três por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA COM PEDIDO DE TUTELA DE URGÊNCIA. DESCABIMENTO DA INTIMAÇÃO POR EDITAL. NULIDADE DA CONSOLIDAÇÃO DA PROPRIEDADE. INCIDÊNCIA DAS SÚMULAS 282, 283 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
