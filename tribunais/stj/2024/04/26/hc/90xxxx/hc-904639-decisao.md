@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 89):
+AGRAVO EM EXECUÇÃO PENAL. CONCESSÃO DE INDULTO. DECRETO Nº 11.302/2022. INSURGÊNCIA MINISTERIAL. INCONSTITUCIONALIDADE DO ART. 5º DO DECRETO LEI Nº 11.302/2022. APENADO CONDENADO POR CRIMES IMPEDITIVOS DA CONCESSÃO DO BENEFÍCIO, CUJA PENA AINDA NÃO FOI INTEGRALMENTE CUMPRIDA. REFORMA DA DECISÃO.
+A concessão de indulto com fundamento no Art. 5º do Decreto nº 11.302/2022 encontra óbice no parágrafo único do Art. 11 do mesmo diploma legal, o qual refere que "não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício".
+No caso em análise, verifica-se que o apenado foi condenado pela prática de crimes de homicídio qualificado e de tráfico de drogas, cujas penas estão sendo executadas, de modo que não foram integralmente cumpridas. Assim, sendo os crimes de homicídio qualificado e de tráfico de drogas impeditivos, nos termos do Art. 7º, I, II e VI do Decreto nº 11.302/2022, não é possível a concessão do indulto em relação à condenação pelo crimes de tráfico de drogas privilegiado.
+AGRAVO EM EXECUÇÃO PENAL PROVIDO.
+Consta dos autos que o juízo das execuções concedeu ao paciente o indulto natalino com base no Decreto Presidencial n. 11.302/22, referente à condenação por tráfico privilegiado.
+Interposto agravo em execução ministerial, o TJRS deu-lhe provimento para desconstituir a decisão agravada.
+Sustenta a impetrante, em síntese, que o Decreto "vedou a concessão de indulto na hipótese de haver concurso de crimes reconhecidos entre o que se pretende ser perdoada e outro em que haja impeditivo. Não em caso de unificação de penas para questões de cálculo de benefício de execução penal" (fl. 9).
+Conclui "pela possibilidade de concessão de indulto ao crime não impeditivo, ainda que haja pena a cumprir por crime impeditivo, quando tais penas decorrerem de condenações em processos distintos e que não haja concurso de um dos delitos com o outro" (fl. 10).
+Requer, liminarmente e no mérito, que seja cassado o acórdão impugnado.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação da ordem.
+A decisão atacada assim dispôs (fls. 105/106):
+O Decreto nº 11.302/2022 prevê, no Art. 5º, a possibilidade de concessão do indulto a pessoas "condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+Sem embargo, verifica-se que o parágrafo único do Art. 11 do referido Decreto apresenta uma limitação à concessão do indulto:
+"Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022,nos termos do disposto no art. 111 da Lei nº 7.210, de 11 de julho de 1984.
+Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º."
+Da análise do Relatório da Situação Processual Executória (RSPE) do reeducando, observa-se que há, além da condenação pelo crime de tráfico de drogas privilegiado (processo nº 0524292-18.2009.8.21.0001), uma condenação pelo crime de homicídio qualificado (processo nº 0395798-96.2013.8.21.0001) e uma condenação pelo crime de tráfico de drogas (processo nº 5107884-09.2021.8.21.0001) - crimes impeditivos, nos termos do Art. 7º, I, II e VI do Decreto nº 11.302/2022 - que constam como ativas, não tendo sido integralmente cumpridas.
+A Terceira Seção do Superior Tribunal de Justiça, em julgamento ocorrido aos 8/11/2023, posicionou-se no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos".
+O acórdão ficou assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido. (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+Na ocasião, destacou-se que o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+Assim, partindo-se de uma interpretação restritiva do Decreto n. 11.302/2002, apenas em caso de concurso de crimes impeditivos e não impeditivos, dentro de um mesmo contexto, não seria possível aplicar o indulto, nos termos do art. 11, parágrafo único, do referido ato presidencial.
+No presente caso, a interpretação dada pela Corte de origem à norma do parágrafo único do art. 11 do Decreto n. 11.302/2022 destoa do mais recente entendimento da Terceira Seção desta Corte sobre o tema, pois no caso os crimes foram cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não havendo que se exigir o cumprimento integral da pena pelos crimes impeditivos para a concessão do indulto em relação aos crimes não impeditivos.
+Ante o exposto, concedo o habeas corpus para restabelecer a decisão de primeiro grau, que concedeu o indulto natalino ao paciente.
+Comunique-se.
+Publique-s e.
+Intimem-se.
+EMENTA
