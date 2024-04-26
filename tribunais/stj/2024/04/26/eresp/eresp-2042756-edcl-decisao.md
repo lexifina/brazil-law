@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAURO DEL CIELLO (MAURO), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. COTAS CONDOMINIAIS. INCLUSÃO DO ARREMATANTE. VIOLAÇÃO DO ART. 1.022 DO NCPC. INEXISTÊNCIA. COTAS CONDOMINIAIS. RESPONSABILIDADE DO ARREMATANTE. DECLARAÇÃO DO JUDICIÁRIO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO (e-STJ, fls.234/238).
+Nas razões do presente inconformismo, defendeu que (1) deve ser aplicada a multa prevista no § 2º, do art. 1.026 do CPC, ante o caráter protelatório dos embargos de declaração opostos pelo CONDOMÍNIO EDIFÍCIO IMPERADOR (CONDOMÍNIO); e (2) a decisão embargada, apesar de ter dado provimento ao seu recurso para afastar sua responsabilidade pelos débitos condominiais pretéritos à arrematação realizada, deixou de fixar os ônus sucumbenciais.
+Foi apresentada impugnação (e-STJ, fls.287/290).
+É o relatório.
+Decido.
+Os embargos merecem parcial acolhimento.
+De acordo com a jurisprudência desta Corte, a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato, ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 489, § 1º e 1.022 do CPC).
+Nas razões deste aclaratório, MAURO defendeu que a decisão monocrática (1) deveria aplicar a multa prevista no § 2º, do art. 1.026 do CPC, ante o caráter protelatório dos embargos de declaração opostos pelo CONDOMÍNIO EDIFÍCIO IMPERADOR (CONDOMÍNIO); e (2) foi omissa na medida em que, apesar de ter dado provimento ao seu recurso para afastar sua responsabilidade pelos débitos condominiais pretéritos à arrematação realizada, deixou de fixar os ônus sucumbenciais.
+Assiste razão em parte ao embargante.
+No tocante ao pleito de incidência da multa prevista pelo art. 1.026, § 2º, do CPC, há que se destacar que ela só deve incidir, se o caso assim permitir, quando houver o julgamento dos embargos de declaração opostos e não no julgamento do recurso especial, a ele anterior.
+Ainda que assim não fosse, a alegação também se mostraria prejudicada tendo em vista que os embargos de declaração opostos pelo CONDOMÍNIO foram recebidos como agravo interno nos termos da decisão de e-STJ, fl. 298.
+No mais, no tocante ao segundo argumento dos embargos, de fato, a decisão monocrática, apesar de ter dado provimento ao recurso especial interposto por MAURO para reconhecer sua ilegitimidade de parte, foi omissa no que tange à fixação dos honorários advocatícios sucumbenciais.
+Sobre o assunto, o CPC instituiu, em seu art. 85, § 2º, regra geral obrigatória no sentido de que os honorários advocatícios devem ser fixados sobre o valor da condenação ou do proveito econômico ou, não sendo possível identificá-lo, sobre o valor da causa, restringindo-se o comando excepcional do § 8º do art. 85, de fixação por equidade, às causas em que for inestimável ou irrisório o proveito ou, ainda, em que o valor da causa for muito baixo.
+Assim, constatada a omissão, é caso de acolhimento dos embargos de declaração, neste ponto, para condenar o CONDOMÍNIO ao pagamento de honorários advocatícios sucumbenciais em favor do patrono de MAURO, que fixo em 10% sobre o valor da causa, nos termos do art. 85, § 2º, do CPC.
+Nessas condições, ACOLHO EM PARTE, com efeitos infringentes, os embargos de declaração nos termos da fundamentação supra.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível , protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º, ou 1.026, §2º, ambos do CPC.
+Diante do acolhimento destes embargos, com efeitos infringentes, intime-se o CONDOMÍNIO EDIFÍCIO IMPERADOR, para ratificar as razões do agravo interno que interpôs, no prazo de 5 dias, sob pena de seu não conhecimento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INCIDÊNCIA DA MULTA PREVISTA NO § 2º, DO ART. 1.026 DO CPC. TEMA PREJUDICADO. OMISSÃO CONFIGURADA. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. OBSERVÂNCIA DO ART. 85, § 2º, DO CPC. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, COM EFEITOS INFRINGENTES.
