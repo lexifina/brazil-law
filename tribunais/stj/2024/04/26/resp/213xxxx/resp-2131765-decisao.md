@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial, manejado pela FAZENDA NACIONAL, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região , assim ementado (fl. 1.116):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. IMÓVEIS ALTERNATIVOS. PRÉDIO HOSPITALAR.
+A obrigação jurídica do dever estatal de promoção e proteção do direito fundamental à saúde é incompatível com pretensões executivas do próprio Estado que, ao pretender levara leilão bens imóveis que integram unidade hospitalar, acaba por inviabilizar ou restringir direitos primordiais que deve tutelar, o que se afigura descabido no contexto da existência de outro bem imóvel que pode ser penhorado.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 1.135/1.136.
+A parte recorrente aponta violação aos arts. 789 do CPC; 2º, caput, e 4º, III, da Lei 14.344/2022. Sustenta, em resumo, que "o Hospital em questão não é filantrópico, mas entidade empresária com fins lucrativos, razão pela qual não se lhe pode reconhecer a impenhorabilidade prevista na Lei 14334-22" (fl. 1.145), "consequentemente, restou violado art. 789 do CPC, pois estabelece que o devedor responde com todos os seus bens em relação às suas obrigações" (fl. 1.145).
+Contrarrazões apresentadas às fls. 1.152/1.158.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, colhe-se o seguinte trecho do acórdão recorrido (fls. 1.114/1.115):
+O imóvel de matrícula nº 496, cuja impenhorabilidade foi declarada pelo juízo de origem, fora inicialmente avaliado por oficial de justiça avaliador em 07/02/2020, no valor de R$ 6.800.000,00 (seis milhões e oitocentos mil reais), conforme auto de avaliação juntado em mov. 165.1 (pag. 611).
+Em maio do mesmo ano, a agravada impugnou o laudo da avaliação em mov. 177.1 (pag. 648), por entender ter havido ausência de motivação por parte do oficial avaliador, o que ensejou o pedido para que o referido ato fosse praticado por perito habilitado. Não há informação nos autos do recurso sobre o andamento de tal medida.
+No caso, almeja a agravante o reconhecimento e a declaração penhorabilidade do bem.
+Sobre os efeitos danosos de penhora de imóvel onde sediado hospital, cuja finalidade básica seja a prestação de atendimento à saúde da população, a Colenda Segunda Turma deste Regional já se manifestou no Agravo de Instrumento nº 2009.04.00.015301-4:
+ ..
+Também esta Turma, em sua composição anterior, já consignou a inviabilidade de penhora sobre o imóvel-sede de hospital, conforme se constata da seguinte ementa de acórdão:
+ ..
+Sendo a saúde um direito de todos e dever do Estado, isto exige não apenas prestações positivas estatais, mas também abstenções destinadas a não intervir ou obstaculizar o direito de acesso das pessoas doentes, sobretudo as mais carentes, aos serviços de saúde, considerados de relevância pública (art. 197, "caput", da CF).
+O dever estatal de promoção e proteção do direito fundamental à saúde é incompatível com pretensões executivas do próprio Estado que, ao pretender levar a leilão bem imóvel que consiste no único hospital da cidade, acaba por inviabilizar ou restringir direitos primordiais que deve respeitar.
+Assim, no conflito dos interesses do credor estatal na satisfação do crédito tributário e o direito fundamental à saúde, materializado na fruição dos serviços hospitalares prestados nos imóveis penhorados, deve este último prevalecer, ao menos até que as partes cheguem a uma composição do débito que possa permitir a continuidade dos relevantes serviços públicos prestados, mormente em momento que se enfrenta os complexos e difíceis efeitos sanitários, dentre outros, advindos da pandemia do novo coronavírus.
+Outrossim, importante destacar que, não obstante não seja a exequente compelida a aceitar a substituição de penhora, conforme os termos do art. 15, II, da LEF, não se pode desconsiderar que integra o patrimônio da executada outro bem imóvel (matrícula nº 381), sobre o qual a agravante possuiria direito preferencial com relação à eventual penhora, ainda que este imóvel já se encontre onerado.
+Por fim, de se reiterar os termos da decisão agravada, no sentido de que não há provas de
+que o hospital não tenha volume de atendimentos suficientes a gerar sua alienação, ou de que não promova atendimentos públicos, ou mesmo e sobretudo que a lacuna por ele deixada poderia ser suprida por outras unidades.
+Assim, sopesando-se os interesses em lide, entendo que deve prevalecer o entendimento expendido na decisão agravada, mantendo-se a declaração da impenhorabilidade do imóvel de matrícula nº 496 do RI de Mandaguari-PR.
+Como se observa, o Tribunal de origem, ao decidir a questão relativa à impenhorabilidade do imóvel sede de hospital, amparou-se em fundamentos constitucional e infraconstitucional, qualqu er um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1.702.175/GO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1.642.570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
