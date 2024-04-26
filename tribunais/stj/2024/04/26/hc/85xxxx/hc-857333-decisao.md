@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLAUDINEI GOMES DE ALMEIDA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nos autos do Agravo em Execução nº 0005164-62.2023.8.26.0026.
+Consta dos autos que o juízo da execução penal concedeu progressão ao regime semiaberto ao paciente e fixou como data-base para a próxima progressão a data em que efetivamente corresponda ao preenchimento do requisito objetivo para a progressão ao regime semiaberto.
+Inconformado o Ministério Público interpôs agravo em execução, tendo o Tribunal de origem dado provimento ao agravo em execução, em julgado assim ementado (fl. 80):
+AGRAVO EM EXECUÇÃO - IRRESIGNAÇÃO MINISTERIAL OBJETIVANDO A RETIFICAÇÃO DOS CÁLCULOS DE PENA - COM RAZÃO - TERMO INICIAL PARA NOVA PROGRESSÃO SE DÁ COM O PREENCHIMENTO DE AMBOS OS REQUISITOS EXIGIDOS (OBJETIVO E SUBJETIVO) - INTELIGÊNCIA DO IRDR Nº 2103746-20.2018.8.26.0000 - DECISÃO REFORMADA - AGRAVO MINISTERIAL PROVIDO.
+No presente writ, a impetrante alega, em síntese, que o termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo e subjetivo descritos no art. 112 da Lei de Execução Penal, e não a data em que efetivamente foi deferida a progressão.
+Sustenta que o atestado de comportamento carcerário já demonstra a existência do requisito subjetivo antes da juntada e elaboração do exame criminológico, que apenas declarou o que já era existente.
+Requer a concessão da ordem para que seja cassado o acórdão recorrido computando-se como termo inicial para progressão ao regime aberto a data na qual o paciente efetivamente preencheu os requisitos subjetivo e objetivo para progressão ao regime semiaberto, independentemente de realização de exame criminológico.
+As informações foram prestadas às fls. 95-104 e fls. 105-131.
+O Ministério Público Federal manifestou-se, às fls. 137-140, em parecer assim ementado:
+Habeas Corpus substitutivo de recurso próprio. Execução Penal.
+- Progressão de regime. Necessidade de preenchimento cumulativo dos requisitos objetivo e subjetivo. Data-base fixada de acordo com o dia do último requisito implementado (exame criminológico favorável). Precedente. Ausência de constrangimento ilegal.
+- Promoção pelo não conhecimento do writ, ou, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+Conforme consta, a defesa espera modificar a data-base para futuros benefícios.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Acerca da data-base para progressão de regime, assim dispôs o acórdão recorrido (fls. 81-83):
+CLAUDINEI cumpre pena no total de 14 (quatorze) anos, 07 (sete) meses e 05 (cinco) dias de reclusão, com TCP previsto para 12/02/2032.
+Conforme se extrai dos autos, o requisito objetivo para progressão ao regime semiaberto foi alcançado em19/03/2023 (fls. 13), enquanto o subjetivo, somente após a conclusão do exame criminológico, em 22/05/2023 (fls. 32/38).
+Segundo prevê o artigo 112 da Lei de Execução Penal, o termo inicial para a progressão ao regime aberto deverá ser a data em que o sentenciado preencheu todos os requisitos necessários, o objetivo e o subjetivo. Portanto, o marco inicial se dará, consequentemente, após o preenchimento do último requisito atingido.
+Este tema já foi definido pelo Incidente de Resolução de Demandas Repetitivas nº 2103746-20.2018.8.26.0000, desta Corte de Justiça: "A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. O termo inicial para a progressão de regime deverá será data em que preenchidos os requisitos objetivo e subjetivo descritos no art. 112 da Lei de Execução Penal, e não a data em que efetivamente foi deferida a progressão. Importante ressaltar que referida data deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo. Vale dizer, se por último for preenchido o requisito subjetivo, independentemente da anterior implementação do requisito objetivo, será aquele o marco para fixação da data-base para efeito de nova progressão de regime".
+No mesmo sentido: STJ - REsp 1.797.258-SP,Relator Ministro FELIX FISCHER, julgado em 28.02.2019.
+Com efeito, no caso em apreço, o último requisito alcançado foi o subjetivo, com a realização do exame criminológico, devendo, portanto, ser esta a data fixada como termo inicial para a nova progressão de regime.
+Diante do exposto, pelo meu voto, dá-se provimento ao agravo em execução para determinar a retificação do cálculo de penas para que o marco inicial para a progressão ao regime aberto seja a data do preenchimento do requisito subjetivo, último requisito preenchido.
+Como visto, a instância de origem entendeu que o marco inicial para a progressão de regime é a data de preenchimento de ambos os requisitos do artigo 112 da Lei 7.210/1984; o requisito subjetivo, no caso concreto, é o da realização de exame criminológico favorável.
+O atual entendimento de ambas as Turmas que compõem a Terceira Seção desta Corte é no sentido de que:
+" A  data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo, não havendo falar em constrangimento ilegal em razão da consideração do adimplemento do requisito subjetivo somente com a conclusão do exame criminológico" (AgRg no HC n. 787.849/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023. )
+No caso concreto, tendo o requisito subjetivo sido implementado por último, quando da realização do exame criminológico, não se vislumbra flagrante ilegalidade (AgRg no REsp n. 2.017.158/SP, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em consonância com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
