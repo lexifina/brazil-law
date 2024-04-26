@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALEXANDRE HENRIQUE DE PROENCA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. PRELIMINAR DE NOVA PERÍCIA: INCABÍVEL. INCAPACIDADE LABORATIVA NÃO PROVADA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+Quanto à controvérsia, a parte recorrente alega violação do art. 371 do CPC, no que concerne à necessidade de apreciação de todo acervo probatório coligido aos autos na hipótese de requerimento de benefício previdenciário decorrente de incapacidade, sem prevalência da prova pericial sobre as demais, trazendo a seguinte argumentação:
+O Tribunal a quo, ao julgar o presente caso, ignorou todas provas existentes nos autos, fazendo valer, de forma única e isolada, a conclusão da perícia judicial.
+Ocorre que, como já bem demonstrado pelos documentos juntados nos autos, o recorrente possui severas limitações sendo significativa e notória sua incapacidade funcional, motivo pelo qual deve ser concedido o benefício.
+ ..
+In casu, o juízo se pautou única e exclusivamente na prova pericial, dando à ela valor absoluto, como única verdade de prova processual, desprezando, assim, as demais provas que formaram um conjunto de provas em consonância.
+Vislumbra-se, portanto, error in judicando em detrimento ao equívoco na valoração das provas, considerando, portanto, todas as provas produzidas nos autos e não somente a prova pericial.
+Veja, o juízo julgou sem ao menos apreciar, enfrentar ou se inclinar ainda que para negar convencimento sobre as demais provas dos autos, considerando que o recorrente, a todo momento processual, produziu provas trazendo documentos novos a fim de reforçar ainda mais seu diagnóstico incapacitante (fls. 313-314).
+Outrossim, não se pode desprezar relatórios elaborados e firmados por médicos especialistas da psiquiatria, pior de tudo, é o fato de o juízo não se debruçar àquilo que está sendo apresentado, apenas que fosse para dizer que a referida prova "não presta".
+Ora, se a prova pericial for a única prova válida, aceita e eficaz de um processo, então não há necessidade de a parte juntar qualquer outro tipo de documento, já que nenhum terá valor, aliás sequer será apreciado pelo juízo, mesmo quando não impugnado pela parte adversa.
+O processo não é um fim em si mesmo e sua principal faculdade é o de pôr a prova saudável em primeiro plano, sua própria razão de ser e critério-vetor de julgamento, diminuindo, tanto quanto possível, a carga de subjetividade do exercício jurisdicional. Por isso, a revaloração não é apenas possível, antes recomendável e necessária, para não se dizer imprescindível (fl. 315).
+Gize-se, que todos os elementos probatórios, inclusive o laudo pericial reconhece as patologias do recorrente, o ponto de divergência entre as provas é que, isoladamente, o laudo pericial proferido pelo tal perito de confiança do juízo e equidistante entendeu que naquela ocasião da realização da perícia o recorrente não apresentava incapacidade, contudo, se mostrou contraditório em si mesmo, pois as patologias apontadas somadas aos medicamentos para seu tratamento interferem radicalmente na vida social e comportamental do paciente, gerando aí a incapacidade funcional, mormente para o caso do recorrente, que possui transtornos outros, que sempre o privaram de uma vida normal, tanto que frequentou escola especial para aprendizagem (APAE) e seque logrou êxito em concluir a alfabetização (fl. 316).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto à incapacidade, a perita judicial esclareceu os fatos em 04/03/2022 (ID 267321997, complementado no ID 267322011):
+"6- Conclusão:
+a. O Periciado é portadora de transtorno depressivo;
+b. ; A doença apresentada NÃO TEM relação com a sua atividade laboral;
+c. Ao exame físico, NÃO FORAM constatadas repercussões funcionais da sua doença de base, NÃO HAVENDO, portanto, incapacidade laboral."
+A parte autora nasceu em 18 de março de 1981 (ID 267321959).
+ ..
+A perita judicial concluiu pela ausência de incapacidade laborativa (fls. 301-302).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
