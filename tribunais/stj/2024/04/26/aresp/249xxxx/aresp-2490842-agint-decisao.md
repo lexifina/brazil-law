@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, da Constituição Federal.
+Na origem, a parte autora ajuizou cumprimento individual de sentença coletiva decorrente de título judicial formado nos autos do processo n. 0006542-08.2005.8.10.0001, proposto pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão -SINTSEP/MA.
+Após sentença que julgou extinguiu o cumprimento por ilegitimidade ativa, o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO negou provimento à apelação da parte autora, ficando consignado que, considerando que o autor da ação coletiva, na qual se busca a execução, é o SINTSEP/MA, que abrange todos os servidores públicos estaduais que não integram um sindicato específico, a Recorrente é parte ilegítima para executar o referido título judicial, pois representada por sindicato diverso (SINPROESEMMA).
+O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. SERVIDORA PÚBLICA ESTADUAL. ILEGITIMIDADE. SINDICATO PRÓPRIO. DESPROVIMENTO.
+I. A categoria da qual faz parte o servidor só pode estar vinculada a um sindicato no âmbito do Estado do Maranhão (princípio da unicidade sindical), sucedendo que tal vínculo é automático, pois decorre da lei, não podendo um indivíduo se filiar a sindicato diverso daquele que representa sua categoria;
+II. Constata-se que o autor da ação coletiva, na qual se busca a execução, é o SINTSEP/MA, que abrange todos os servidores públicos estaduais que não integram um sindicato específico, motivo pelo qual a recorrente é parte ilegítima para executar o referido título judicial, pois representada por sindicato diverso (SINPROESEMMA);
+III. Apelo conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto recurso especial, apontando violação dos arts. 508 e 1.022 do CPC, bem como divergência jurisprudencial.
+Apresentadas contrarrazões.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+O agravo foi conhecido para não conhecer o recurso especial.
+Foi interposto agravo interno em que se pleiteia a reforma da decisão agravada, defendendo, em síntese, o afastamento das súmulas aplicadas.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Em melhor análise dos autos, tenho que assiste razão à parte agravante, especialmente quanto à violação ao art. 1.022 do CPC, de modo que, dou provimento ao agravo interno para, em juízo de reconsideração, tornar sem efeito a decisão agravada e passar à nova análise do agravo em recurso especial.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022, II, do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, eventual ocorrência de preclusão pro judicato no que se refere à legitimidade da Exequente, por ter, nos termos que alega, participado da liquidação coletiva, a qual teria transitado em julgado. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO SUBMETIDOS AO ENUNCIADO ADMINISTRATIVO 3/STJ. RECEBIMENTO COMO AGRAVO INTERNO. DIREITO AMBIENTAL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. OMISSÃO RELEVANTE NÃO SANADA NA ORIGEM. PROVIMENTO DO RECURSO ESPECIAL QUANTO À VIOLAÇÃO AO ART. 1.022 DO CPC/2015.
+1. Sobre os presentes embargos de declaração, a análise de suas razões evidencia, de forma clara e inequívoca, que o seu objetivo não é o de sanar erro material, omissão, obscuridade ou contradição, mas sim o de buscar a reforma da decisão embargada. Assim, recebo-o como agravo interno, nos termos do art. 1.024, § 3º, do CPC/2015.
+2. É de ser mantida a decisão agravada, tendo em vista que a Corte de origem, mesmo com a oposição de embargos de declaração, deixou de se manifestar sobre o tema da responsabilidade subjetiva para fins de aplicação de multa por infração administrativa ambiental. Como se trata de vício cuja correção tem o potencial de alterar o resultado da demanda, impõe-se a anulação do acórdão dos embargos de declaração para que novo julgamento dos aclaratórios seja realizado, de forma seja apreciada a alegação em questão.
+3. Embargos recebidos como agravo interno e, nesta extensão, não provido.
+(EDcl no AREsp 1486730/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 09/03/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. DECISÃO QUE DEU PROVIMENTO PARCIAL AO APELO RARO POR RECONHECER OMISSÕES NO ACÓRDÃO, NÃO SUPRIDAS MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. CABIMENTO, DENTRE OUTRAS PROVIDÊNCIAS, DE SE APRECIAR A ALEGADA NECESSIDADE DE ATUALIZAÇÃO MONETÁRIA DA PROPOSTA ADMINISTRATIVA, PARA FINS DE COMPARAÇÃO AO VALOR INDENIZATÓRIO FINAL AFERIDO, E, A PARTIR DAÍ, SE DETERMINAR A SUCUMBÊNCIA E A PARAMETRIZAÇÃO DOS JUROS COMPENSATÓRIOS. MATÉRIA RELEVANTE AO DESLINDE DA CAUSA, CUJA APRECIAÇÃO, PODERÁ EM TESE, ALTERAR O RESULTADO DO JULGAMENTO. INEXISTÊNCIA DE QUALQUER APRECIAÇÃO OUTRA, DADA A PREJUDICIALIDADE DESTA MATÉRIA. RECONHECIMENTO DE NULIDADE QUE NÃO IMPLICA A INCORREÇÃO DO ACÓRDÃO LOCAL, APENAS DO VÍCIO DECLARADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Ocorre a violação do art. 535 do CPC/1973, quando a parte opõe perante a Corte local, Embargos de Declaração alegando omissão relevante e capaz de influenciar o resultado final do julgamento e, tal argumentação não é apreciada.
+2. O reconhecimento da nulidade de acórdão local, por violação do art. 535 do CPC/1973, nesta Instância Superior demanda apenas a objetiva constatação de um dos vícios previstos na legislação específica; análise realizada de maneira prejudicial às demais alegação e, que, por óbvio, não implica a análise da correção do acórdão recorrido.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp 1478694/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 27/09/2018.)
+Vale ressaltar que não se desconhece que a Segunda Turma do STJ, no julgamento do AgInt no AREsp n. 2.399.352/MS, deu provimento ao recurso da parte exequente para, afastada a ilegitimidade, determinar o prosseguimento do cumprimento de sentença.
+Ocorre que, naquele caso, verificou-se a possibilidade de se reconhecer a preclusão acerca da legitimidade da Exequente sem que se caracterizasse supressão de instância, providência esta não possível no presente feito.
+Como se observa dos julgados do TJMA e, ainda, da sentença ordinária, não obstante requerido pela Exequente, ora Recorrente, não houve a discussão acerca do referido ponto de modo que, eventual análise neste momento, configuraria supressão de instância, mormente pela necessidade de incursão no conjunto fático-probatório, igualmente inviável em sede de recurso especial.
+Ante o exposto, dou provimento ao agravo interno para, em juízo de reconsideração e com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conhecer do agravo para dar provimento ao recurso especial, com vistas a anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
