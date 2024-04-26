@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado pela Caixa Beneficente da Policia Militar do Estado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 25):
+Agravo de Instrumento. Cumprimento de sentença em face da Caixa Beneficente da Polícia Militar. Execução redirecionada para a Fazenda Pública do Estado de São Paulo, com determinação de sua inclusão no polo passivo. Possibilidade do redirecionamento da execução. Art. 17, § 2º, da Lei n.º 10.258/2001, e art. 13, § 1º, da Lei nº 12.153/2009. Precedentes do TJSP. Decisão mantida. Recurso não provido.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 7º, 9º, 115, II, 502, 503, 506, 513, § 5º, 783, 779, I, e 803, I, do CPC. Sustenta que "por não integrado a lide na fase de conhecimento, o Estado de São Paulo não teve oportunidade de exercer o contraditório em relação à pretensão deduzida, o que se trata de pressuposto necessário para a eficácia de decisão judicial demérito em relação à parte" e que "por não ter integrado o contraditório na fase de conhecimento, a condenação exequenda é ineficaz em relação ao Estado de São Paulo. Desse modo, este não pode ser compelido a satisfazê-la, mesmo porque, nessas condições, sequer há título judicial contra ele exigível capaz de lastrear regularmente a instauração da execução" (fl. 41).
+Aduz que "o CPC proíbe expressamente a instauração de pedido de cumprimento de sentença - e, por conseguinte, eventual redirecionamento contra aquele que não foi parte na fase de conhecimento" (fl. 42) e que "a mera frustração da expectativa do credor de ter seu crédito satisfeito não é hipótese de redirecionamento de execução a pessoa estranha ao título executivo, mesmo porque a responsabilidade solidária não se presume" (fl. 43).
+Transcorrido in albis o prazo para contrarrazões (fl. 47).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+As matérias pertinentes aos arts.7º, 9º, 115, II, 502, 503, 506, 513, § 5º, 783, 779, I, e 803, I, do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Nesse sentido:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESP ECIAL. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE SUBSIDIÁRIA DOS ENTES FEDERADOS POR DÉBITOS DE SUAS AUTARQUIAS. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. LIMITES DA COISA JULGADA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ.
+1. As matérias pertinentes aos arts. 7º, 9º, 115, II, 513, § 5º, 783, 779, I, e 803, I, do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. O prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pelas partes nos recursos que aviaram perante aquela instância.
+3. A alteração das premissas adotadas pela Corte de origem quanto aos limites subjetivos da coisa julgada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes.
+4. Agravo interno não provido.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
