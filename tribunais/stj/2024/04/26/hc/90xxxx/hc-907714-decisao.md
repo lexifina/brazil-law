@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de IURY PEDROSO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento da apelação criminal n. 5024289-15.2021.8.21.0001/RS.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 4ª Vara Criminal do Foro Central da Comarca de Porto Alegre, às penas de 1 ano e 8 meses de reclusão, no regime inicial aberto, e multa pecuniária equivalente a 500 dias-multa, substituída a pena privativa de liberdade por restritivas de direitos, por incursão no artigo 33, § 4º, da Lei 11.343/2006, nos termos da sentença de fls. 21-26.
+Ambas as partes apelaram ao Tribunal de Justiça, que deu parcial provimento a ambos os recursos, para majorar as penas do réu para 02 anos e 06 meses de reclusão, no regime aberto, acrescida de 250 dias-multa, mantida a substituição de pena privativa de liberdade por restritiva de direitos, bem como para conceder os benefícios da gratuidade judiciária, conforme o acórdão de fls. 11-20.
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem, para modular a causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/2006 em seu grau máximo.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível ilegalidade flagrante no acórdão impugnado, consistente ausência de fundamentação idônea para a aplicação da fração de 1/2 à causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/2006.
+Para uma melhor análise da controvérsia, transcrevo os fundamentos da decisão colegiada impugnada (fls. 11-20):
+ ..
+"Contudo, seu pedido alternativo vai acolhido. Com efeito, entendo que sua aplicação deve se dar na fração de 1/2, já que as particularidades do caso recomendam a medida, sendo de salientar a diversidade de drogas apreendidas, maconha, crack e cocaína (sendo 15g de crack, droga de alto potencial lesivo a causar reflexos graves na saúde pública), circunstâncias estas que demonstram maior implicação na conduta delitiva, resultando por elevar a pena do réu, para 02 anos e 06 meses de reclusão e 250 dias-multa.
+ ..
+A pena resta definitiva em 02 anos e 06 meses de reclusão, a ser cumprida em regime semiaberto, acrescida do pagamento de 250 dias-multa; sendo mantida a substituição da PPL por PRD.
+Ainda, incabível a isenção do pagamento da pena de multa, já que sua imposição decorre de expressa previsão legal (art. 33, da Lei de Drogas), sendo a eventual impossibilidade do seu pagamento matéria a ser discutida no âmbito da execução penal.
+Afora isso, a imposição da pena pecuniária não fere o princípio da intranscendência, visto que os efeitos diretos da condenação são suportados unicamente pelo condenado, sendo que os indiretos não são possíveis de cogitação. Não fosse assim, seria impossível até mesmo impor-se pena privativa de liberdade, já que os familiares reclamariam a presença do réu no núcleo familiar.
+ ..
+Ante o todo exposto, voto por dar parcial provimento aos apelos ministerial e defensivo, para os fins de majorar a pena do réu para 02 anos e 06 meses de reclusão, a ser cumprida em regime aberto, acrescida de 250 dias-multa, mantida a substituição de pena conforme sentença, bem como concedo AJG ao réu, com suspensão das custas."
+ ..
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Por outro lado, verifico a presença de ilegalidade flagrante, passível de ser extirpada da condenação na forma do § 2º do artigo 654 do Código de Processo Penal.
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na hipótese, o Tribunal de apelação entendeu que o paciente ostenta os requisitos para o reconhecimento do tráfico privilegiado, contudo, modulou a fração de diminuição em 1/2 a partir da apreensão de 15g de crack, destacando a natureza altamente destrutiva e viciante do entorpecente.
+O acórdão padece de ilegalidade flagrante, porquanto a quantidade de entorpecentes (15g de crack) não se mostra expressiva, motivo pelo qual a aplicação de fração em 1/2 não guarda razão de proporcionalidade com a gravidade da conduta.
+Corroborando tal posicionamento, cito os seguintes julgados:
+ ..
+5. À míngua de elementos probatórios que indiquem a habitualidade delitiva do paciente, e considerando a sua primariedade e seus bons antecedentes, a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 deve ser operada no máximo legal (2/3), sobretudo quando não expressiva a quantidade de droga apreendida (1,5g de maconha, 3, 5g de cocaína e 7,0g crack). Precedentes.
+6. Estabelecida a reprimenda final em 1 ano e 8 meses de reclusão, verificada a primariedade da agente e sendo favoráveis as circunstâncias do art. 59 do CP, o regime inicial aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal (Súmula n. 440/STJ).
+7. Preenchidos os requisitos legais do art. 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritiva de direitos.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo, redimensionando a pena do paciente para 1 ano e 8 meses de reclusão mais 166 dias-multa , bem como para estabelecer o regime aberto e substituir a pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo Execução.
+(HC n. 389.780/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/6/2017, DJe de 22/6/2017.)
+ ..
+3. Não obstante isso, há flagrante ilegalidade que autoriza a concessão de habeas corpus de ofício.
+4. Como bem anotado no parecer ministerial, a Terceira Seção do Superior Tribunal de Justiça, em 27/04/2022, no julgamento do HC n. 725.534/SP, de relatoria do Ministro RIBEIRO DANTAS, reafirmou o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação do redutor especial (Cf.: HC n. 725.534/SP, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe de 1/6/2022).
+5.  ..  Somente outros envolvimentos comprovados na mesma espécie delitiva, com sentença condenatória transitada em julgado, poderiam afastar o benefício, o que não ocorre na espécie. Assim, deve ser aplicado o benefício previsto no artigo 33, § 4.º, da Lei n.º 11.343/06, na fração máxima de 2/3 (dois terços), tendo em vista a pequena quantidade da droga (25,25g crack - fls. 37) (fls. 360/361).
+6 . Agravo regimental improvido. Habeas corpus concedido de ofício para, aplicando a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo, redimensionar a pena para 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, no valor mínimo legal, em regime inicial aberto para o cumprimento da pena;bem como para substituir a pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
+(AgRg no AREsp n. 2.383.989/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2024, DJe de 2/4/2024.)
+ ..
+1. No caso, levando em conta a primariedade do agravante, seus bons antecedentes, a ausência de elementos concretos que indiquem a dedicação à criminalidade ou que integre organização criminosa, o fato de ter a posse de 45,3g de maconha, 17,5g de cocaína e 6,3g de crack, não é justificativa idônea para aplicá-la em patamar diverso de 2/3 (dois terços).  ..  (AgRg no HC n. 795.815/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/05/2023, DJe 22/05/2023)
+2 .Agravo regimental conhecido e provido
+(AREsp n. 2.342.082/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024.)
+Uma vez constatado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem de ofício em favor de IURY PEDROSO DA SILVA para redimensionar as penas para 1 (um) ano e 8 (oito) meses de reclusão, multa pecuniária equivalente a 166 (cento e sessenta e seis) dias-multa, mantidos os demais termos da condenação.
+Comunique-se a autoridade coatora e o juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
