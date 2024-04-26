@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto por BARIGUI ORIENTE COMERCIO DE AUTOMOVEIS LTDA. e outros, com fundamento no art. 105, inciso III, alíneas a e c , da Constituição Federal (CF), no qual se insurgem contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO .
+A questão debatida nos autos, qual seja, a " admissibilidade de ação rescisória para adequar julgado à modulação de efeitos estabelecida no Tema n. 69 da repercussão geral do Supremo Tribunal Federal", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos Recursos Especiais 2.054.759/RS e 2.066.696/RS, sob o rito dos recursos repetitivos (Tema 1.245/STJ).
+Quando da afetação, determinou-se a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Publicado o acórdão paradigma, caberá ao Tribunal a quo realizar eventual juízo de conformação nos termos do art. 1.040 do CPC ao que vier a ser decidido no recurso representativo de controvérsia.
+Somente após realizada essa providência, com o consequente esgotamento da instância ordinária, é que o recurso especial deverá ser remetido ao Superior Tribunal de Justiça para exame das matérias não prejudicadas pelo eventual juízo de conformação, conforme prevê o § 2º do art. 1.041 do CPC.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo código.
+Publique-se. Intimações necessárias.
+EMENTA
