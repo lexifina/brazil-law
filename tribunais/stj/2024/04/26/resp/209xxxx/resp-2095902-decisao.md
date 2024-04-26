@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUÃ DO NASCIMENTO SANTOS (LUÃ), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do ilustre Desembargador JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO, assim ementado:
+TÍTULOS DE CRÉDITO - Ação de obrigação de fazer c/c danos morais - Sentença de parcial procedência - Débito prescrito - Plataforma digital "Serasa Limpa Nome "Sistema que informa ao consumidor previamente cadastrado, a existência de dívidas para eventual negociação, sem implicar em negativação ou redução do score do consumidor - Dívida que, ainda que prescrita, não foi inserida em cadastro restritivo - Danos morais - Inocorrência - Indenização indevida - Precedentes - Honorários advocatícios adequados aos termos do art. 85,§8º do CPC e do Tema 1076 do c. STJ - Sentença parcialmente modificada - Recurso parcialmente provido.(e-STJ, fls. 313/319).
+Os embargos de declaração opostos por LUÃ foram rejeitados (e-STJ, fls. 335/337).
+Nas razões do presente recurso, LUÃ alegou a violação aos arts. 186, 927, do CC, 85, § 8º-A, 489, do CPC, 6º, VI, do CDC, ao sustentar que (1) o acórdão foi omisso; (2) os honorários advocatícios devem ser fixados de acordo com a tabela da OAB/SP.
+Foram apresentadas contrarrazões (e-STJ, fls. 341/347).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da omissão e da ausência de fundamentação
+Nas razões do seu recurso, LUÃ alegou que seu pedido de indenização por danos morais veio fundamentado em três causas de pedir, sendo certo que o acórdão se limitou a analisar apenas uma delas, sendo de rigor o reconhecimento da nulidade por ausência de fundamentação.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando expressamente que:
+Quanto ao pedido de indenização por danos morais, em consulta ao site da Serasa, é possível constatar pelas informações lá existentes que a plataforma digital "Serasa Limpa Nome" é um sistema que informa ao consumidor previamente cadastrado e mediante uso de senha pessoal, a existência de dívidas, para eventual e futura negociação, sem implicar restrição desabonadora em órgãos de proteção ao crédito, sendo que as informações contidas no sistema ficam restritas ao consumidor e a empresa credora, obstando evento caracterizador de dano moral (e-STJ, fls. 315).
+ ..
+E o fato de se tratar de dívida prescrita também não constitui hipótese de configuração de danos morais, justamente pelo fato de não ser o serviço "Serasa Limpa Nome" rol de restrição ao crédito (e-STJ, fls. 316).
+ ..
+Por fim, a disponibilização do débito no serviço "Serasa Limpa Nome" não influencia no credit scoring, haja vista que, como anteriormente reconhecido, se trata de informação restrita à empresa credora e ao consumidor (e-STJ, fls. 317).
+ ..
+E tanto é assim que não há qualquer prova de que tenha havido redução do score do apelante em razão da disponibilização do débito no serviço "Serasa Limpa Nome". E, mesmo que assim não fosse, o c. STJ, ao editar a Súmula 550, firmou entendimento no sentido de que o sistema credit scoring se trata de método estatístico de avaliação de risco que não constitui banco de dados (e-STJ, fls. 318).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL. CUPLA EXCLUSIVA DA VÍTIMA. REVISÃO. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. SÚMULA 7/STJ, TERMO INICIAL. JUROS DE MORA. SÚMULA 54/STJ. CORREÇÃO MONETÁRIA. SÚMULA 362/STJ. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da alegada culpa exclusiva da vítima e do direito à indenização por danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Na hipótese de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso (óbito), nos termos da Súmula 54 deste Tribunal.
+4. A correção monetária das importâncias fixadas a título de danos morais incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+5. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 1.983.815/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023, sem destaque no original.)
+Importante consignar que o afastamento da pretensão de ressarcimento por danos morais pelo argumento de inclusão do nome da parte no Serasa Limpa nome já foi suficiente para rejeitar o mesmo pleito pelos outros fundamentos, quais sejam: cobrança de dívida declarada inexistente na via judicial e a perda de tempo útil.
+E a ausência de omissão acerca de questão que se afigure relevante para a modificação do entendimento firmado afasta a alegada ofensa ao art. 1.022 do CPC. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. TITULAR DE FRAÇÃO IDEAL DO TERRENO. OBRIGAÇÃO PROPTER REM. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. PRODUÇÃO DE PROVA PERICIAL. DESNECESSIDADE. CERCEAMENTO DE DEFESA. NÃO VERIFICAÇÃO. MULTA POR EMBARGOS PROTELATÓRIOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA N. 211 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. O órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+ ..
+(AgInt no AREsp n. 2.094.099/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+(2) Danos morais
+Com relação ao tema, SERASA LIMPA NOME, esta Corte, em recente julgado, assim decidiu:
+24. Assim, ao cobrar extrajudicialmente o devedor- por exemplo, enviando-lhe notificação para pagamento ou realizando ligações para o seu telefone particular -, o credor está, efetivamente, exercendo sua pretensão, ainda que fora do processo, porquanto não é apenas em juízo que se exercem as pretensões.
+25. Logo, se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada a sua eficácia em razão do transcurso do prazo prescricional, não será mais possível exigir o referido comportamento, ou seja, não será mais possível cobrar do devedor a dívida. Isto é, encoberta a pretensão pela exceção de prescrição, estará o credor impossibilitado de cobrar o débito do devedor, seja judicial, seja extrajudicialmente.
+ ..
+31. Em suma, pouco importa a via ou instrumento utilizado para a realização da cobrança, porquanto a pretensão - que é o instituto de direito material que confere ao credor esse poder - encontra-se praticamente inutilizada pela prescrição. O fenômeno ocorreu no plano do direito material.
+ ..
+39. A partir da fundamentação apresentada, extraem-se as seguintes consequências práticas: não é lícito ao credor efetuar qualquer cobrança extrajudicial da dívida prescrita, seja por meio de telefonemas, e-mail, mensagens de texto de celular (SMS e Whatsapp), seja por meio da inscrição do nome do devedor em cadastro de inadimplentes com o consequente impacto no seu score de crédito. 40. Acrescente-se que o chamado "Serasa Limpa Nome" consiste em uma plataforma na qual credores conveniados informam dívidas - prescritas ou não - passíveis de transação com o objetivo de facilitar a negociação e a quitação de débitos pendentes, normalmente com substanciosos descontos. Não se trata, portanto, de cadastro negativo, não impactando no score de crédito do consumidor e acessível somente ao credor e ao devedor mediante login e senha próprios (https://www.serasa.com.br/limpa-nome-online/blog/o-que-eserasalimpa-nome/).
+41.  ..  eventual inclusão ou permanência do nome do devedor no "Serasa Limpa Nome", em razão de dívida prescrita, não pode acarretar - ainda que indiretamente - cobrança extrajudicial, tampouco impactar no score do consumidor.
+Assim, ficou redigida a ementa do acórdão:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PRESCRITO. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. MANUTENÇÃO DO ACÓRDÃO ESTADUAL.
+1. Ação de conhecimento, por meio da qual se pretende o reconhecimento da prescrição, bem como a declaração judicial de inexigibilidade do débito, ajuizada em 4/8/2021, da qual foi extraído o presente recurso especial, interposto em 26/9/2022 e concluso ao gabinete em 3/8/2023.
+2. O propósito recursal consiste em decidir se o reconhecimento da prescrição impede a cobrança extrajudicial do débito.
+3. Inovando em relação à ordem jurídica anterior, o art. 189 do Código Civil de 2002 estabelece, expressamente, que o alvo da prescrição é a pretensão, instituto de direito material, compreendido como o poder de exigir um comportamento positivo ou negativo da outra parte da relação jurídica.
+4. A pretensão não se confunde com o direito subjetivo, categoria estática, que ganha contornos de dinamicidade com o surgimento da pretensão. Como consequência, é possível a existência de direito subjetivo sem pretensão ou com pretensão paralisada.
+5. A pretensão se submete ao princípio da indiferença das vias, podendo ser exercida tanto judicial, quanto extrajudicialmente. Ao cobrar extrajudicialmente o devedor, o credor está, efetivamente, exercendo sua pretensão, ainda que fora do processo.
+6. Se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada em razão da prescrição, não será mais possível exigir o referido comportamento do devedor, ou seja, não será mais possível cobrar a dívida. Logo, o reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito.
+7. Hipótese em que as instâncias ordinárias consignaram ser incontroversa a prescrição da pretensão do credor, devendo-se concluir pela impossibilidade de cobrança do débito, judicial ou extrajudicialmente, impondo-se a manutenção do acórdão recorrido.
+8. Recurso especial conhecido e desprovido.
+(REsp n. 2.088.100/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023.)
+No corpo do referido acórdão ficou expressamente consignado que é possível a inclusão ou permanência do devedor no chamado "Serasa Limpa Nome", por não se tratar de cadastro negativo, não impactando no score de crédito do consumidor e acessível somente ao credor e ao devedor mediante login e senha próprios.
+Desse modo, não há mesmo que se falar em danos morais.
+(3) Dos honorários advocatícios
+Nas razões de seu recurso, LUÃ afirmou a violação do art. 85, § 8º-A do CPC por entender que referida norma é impositiva, sendo de rigor a aplicação da tabela da OAB/SP na fixação dos honorários advocatícios.
+No que tange à esta questão não houve o necessário prequestionamento, tendo em vista que não foi objeto de debate pelo Tribunal estadual.
+Observa-se que os embargos de declaração opostos por LUÃ (e-STJ, fls. 333/334) não tratou da matéria, estando restritos aos argumentos relacionados à indenização por danos morais.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Inafastável assim, por analogia, a incidência da Súmula nº 282 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. INDENIZAÇÃO NEGADA. CONHECIMENTO DA DOENÇA PREEXISTE E OMITIDA QUANDO DA CONTRATAÇÃO DO SEGURO. MÁ-FÉ. OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ. DANO MORAL. PREQUESTIONAMENTO AUSENTE, SÚMULA 282 DO STF.
+1. Não comporta revisão, em recurso especial, as conclusões firmadas pelo Tribunal local, acerca da existência de má-fé do segurado. Incidência da Súmula 7 do STJ.
+2. Atrai a incidência analógica do enunciado sumular n. 282 do STF, quando a questão federal suscitada não foi tratada na decisão proferida pelo Tribunal de origem, tampouco foram apresentados embargos de declaração para sanar eventual omissão ou prequestionar a matéria, ante a ausência do indispensável prequestionamento.
+3. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp n. 2.025.853/DF, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 29/8/2022, DJe de 1/9/2022 - sem destaque no original).
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+MAJORO em R$ 1.000,00 o valor dos honorários advocatícios anteriormente fixados em favor do BANCO BRADESCO S/A, observada a gratuidade concedida.
+Por oportuno, previno que a inter posição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. DÉBITO PRESCRITO. INCLUSÃO SERASA LIMPA NOME. 1. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. TRIBUNAL QUE SE MANIFESTOU SOBRE TODOS OS TEMAS RELEVANTES PARA A SOLUÇÃO DA LIDE. 2. SERASA LIMPA NOME. DÍVIDA PRESCRITA. DANOS MORAIS. INEXISTÊNCIA. 3. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DA TABELA DA OAB/SP. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA Nº 282, DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
