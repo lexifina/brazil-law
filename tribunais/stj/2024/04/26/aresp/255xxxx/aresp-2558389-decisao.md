@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por STONE INSTITUICAO DE PAGAMENTO S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER C.C. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL - PRELIMINAR REJEITADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 884 e 927 do CC, no que concerne ao não cabimento da condenação da recorrente em pagar indenização por danos materiais, haja vista que não restou configurada a prática de ato ilícito, trazendo a seguinte argumentação:
+A manutenção da procedência dos pedidos enseja enriquecimento sem causa da parte Recorrida, visto estarmos diante de situação ilícita no ordenamento jurídico e que deve ser combatida.
+O art. 884, do CC/2002 veda, expressamente, o enriquecimento sem causa, razão pela qual, a manutenção do v. acórdão e, por via de consequência, da r. sentença de 1º grau, ensejará o enriquecimento sem causa da parte Recorrida.
+ ..
+Assim, não tendo sido comprovada qualquer ato ilícito perpetrado pela STONE, haja vista que restou devidamente comprovado que a parte Recorrida não havia alterado sua senha para o serviço de transferência, sendo os dados pessoais e de posse exclusiva da parte Recorrida, não há que se falar em qualquer condenação da STONE, visto que não restou demonstrada qualquer ilicitude.
+Frise-se, ainda, que eventual transferência realizada por terceiros, o denominado "fato de terceiro", também não enseja qualquer condenação da STONE, uma vez que terceiro, de posse dos dados pessoais de acesso à conta e transferências da Recorrida, realizou a transferência para a corré "SPACE DIGITAL", a qual detém a obrigatoriedade de estorno da referida quantia, caso contrário poderá restar comprovado ato ilícito.
+Portanto, é imperiosa a reforma do v. acórdão, ora recorrido, o qual manteve os termos da r. sentença a quo para condenar a ora Recorrente a pagar indenização por danos materiais no montante de R$ 19.719,23, havendo clara violação aos termos do art. 927, do CC (fls. 389).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+E isto porque, o próprio réu reconheceu, ainda que de forma velada, a possibilidade da existência de fraude n a operação, tanto que providenciou o imediato bloqueio da conta e cartão da autora, sob o fundamento de movimentação suspeita (fls. 47).
+Nesse diapasão, é preciso considerar que são manifestas as inúmeras fraudes empregadas para obtenção de vantagem ilícita. As práticas são conhecidas do comércio. Assim, necessário reconhecer que em face de todos esses fatos notórios, é responsabilidade das instituições financeiras garantir a segurança de seus clientes.
+Em uma análise mais acurada, verifica-se a presença da conduta e do dano, sendo irrelevante a discussão da culpa, notadamente pela responsabilidade objetiva da instituição financeira ré.
+ ..
+Nesse diapasão, a doutrina e a jurisprudência têm posicionamento dominante no sentido de que, em matéria de responsabilidade civil das instituições financeiras, aplica-se a teoria do risco profissional. A ré, ao disponibilizar os serviços aos seus clientes, assume os riscos inerentes à sua atividade lucrativa.
+ ..
+Desta feita, a co-requerida deve mesmo responder pelo prejuízo material sofrido pela demandante. Igualmente, deve ser mantida a condenação da apelante, de pagamento de indenização por dano moral em favor da autora.
+Ora, não se pode perder de vista que a demandante se viu privada da utilização do seu dinheiro para o pagamento das suas contas e obrigações financeiras, desde o dia da ocorrência do ilícito (28/12/2021 - fls. 49) até o presente momento.
+Desta feita, a ré deve mesmo responder pelos constrangimentos e prejuízos sofridos pela recorrida, que se viu privada da quantia de mais de R$ 19.719,23 (dezenove mil setecentos e dezenove reais e vinte e três centavos) para efetivação de suas transações particulares (fl. 358-360).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
