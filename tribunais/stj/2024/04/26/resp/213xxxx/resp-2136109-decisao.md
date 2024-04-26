@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Paraná com fundamento no art. 105, III, da Constituição Federal.
+Na origem, o Estado do Paraná interpôs agravo de instrumento contra decisão que, em cumprimento individual de sentença coletiva decorrente do título judicial formado nos autos de n. 0003203-59.2008.8.16.0004, afastou a alegação de prescrição arguida pelo ente público.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ negou provimento ao agravo de instrumento do ente público, ficando consignado que nos períodos de suspensão de processo por conta de tentativas de composição entre as partes, não corre o prazo prescricional, restando o acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA QUE CONDENOU O ENTE PÚBLICO À RESTITUIÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA DESCONTADA A MAIOR DE SERVIDORES E INATIVOS. I. PRELIMINAR DE INOVAÇÃO RECURSAL E PRECLUSÃO. INOCORRÊNCIA. RAZÕES RECURSAIS ASSOCIADAS AOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO CONHECIDO. MÉRITO. II. PRESCRIÇÃO DA OBRIGAÇÃO DE PAGAR QUANTIA CERTA. CASUÍSTICA: SUSPENSÃO DEFERIDA POR ORDEM JUDICIAL PELO PRAZO DE 60 DIAS COM A FINALIDADE EXPRESSA DE "TRATATIVAS DE ACORDO ENTRE AS PARTES" APÓS EXPRESSO PEDIDO DE SUSPENSÃO DO FEITO FORMULADO PELAS PARTES. IMPOSITIVA SUSPENSÃO DO PRAZO PRESCRICIONAL. SUSPENSÃO PREVISTA PELO ART. 34, CAPUT, DA LEI Nº 13.140/2015. CUMPRIMENTO DE SENTENÇA DA OBRIGAÇÃO DE PAGAR AJUIZADO ANTES DO DECURSO DO PRAZO DE CINCO ANOS, DEDUZIDO DA SUSPENSÃO JUDICIAL. PRESCRIÇÃO NÃO CONFIGURADA. ESCORREITA DECISÃO AGRAVADA QUE AFASTOU A PREJUDICIAL. III. ALEGAÇÕES DE COMPORTAMENTO CONTRADITÓRIO E MÁ-FÉ PROCESSUAL. IMPROCEDÊNCIA. CONDUTA LEAL E PROBA DO DEVEDOR. RECURSO CONHECIDO E NÃO PROVIDO.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 197 a 199 do Código Civil; dos arts. 17, parágrafo único, e 34 da Lei n. 13.140/2015; e divergência jurisprudencial com o entendimento firmado no Tema n. 880/STJ.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A respeito da interrupção do prazo prescricional, o acórdão recorrido assim se manifestou (fls. 195-196):
+Não obstante, o caso concreto reveste-se de particularidades que o distinguem da orientação do precedente vinculante (Tema 880/STJ). Explico.
+Em 30.09.2020, o Estado do Paraná peticionou narrando os esforços envidados para gerar um banco de dados para facilitar a elaboração de cálculos por parte da APP (M. 82.1). Na parte final, aduziu:
+(..)
+Em 06.10.2020, o Estado do Paraná requereu a suspensão da obrigação de fazer atrelada à ação coletiva pelo prazo de 60 dias (M. 84.1 dos autos NPU 0008041-64.2016.8.16.0004):
+(..)
+Após concordância da APP (M. 85.1), a suspensão foi deferida pelo juízo a quo (M. 86.1 dos autos NPU 0008041-64.2016.8.16.0004), nos seguintes termos:
+(..)
+Não houve insurgência contra tal decisão.
+Portanto, atendendo a pedido das partes, houve por determinação judicial a suspensão do feito (NPU 0008041-64.2016.8.16.0004) pelo prazo de 60 dias, com a finalidade expressamente apontada de tratativas de acordo entre as partes.
+Por certo, o magistrado chegou a tal conclusão tendo em vista o conteúdo das petições juntadas nos Ms. 82.1, 84.1 e 85.1.
+Diante de tal circunstância fática e por imposição do princípio da confiança não é possível contabilizar o prazo de suspensão judicial do feito para fins de fluência do prazo prescricional.
+Ademais, como o próprio Estado do Paraná expressamente requereu a suspensão do processo, fazendo alusão a tratativas com a APP (cf. petições de Ms.82.1 e 84.1), aplica-se também o disposto no art. 34, caput, da Lei 13.140/2015 que, além da mediação de conflitos entre particulares, também dispõe sobre a autocomposição de conflitos no âmbito da Administração Pública:
+(..)
+Logo, não há que se falar em prescrição.
+No caso, o título judicial da ação coletiva transitou em julgado em 08.04.2016. Em princípio, os credores tinham até 08.04.2021 para requerer o cumprimento - individual ou coletivo - da obrigação de pagar com base na sentença coletiva que se formou nos autos nº 1560/2008 (NPU 0003203-59.2008.8.16.0004).
+Contudo, somado o período total de 60 dias (M. 86.1), em que o feito foi suspenso, o pedido de cumprimento poderia ser ajuizado até 07.06.2021 e, no caso, foi proposto em 14.04.2021.
+Portanto, a pretensão recursal de rever o posicionamento adotado no acórdão recorrido teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+No mesmo sentido as decisões monocráticas proferidas no REsp n. 2.124.842, Ministro Gurgel de Faria, DJe de 14/03/2024; REsp n. 2.120.425, Ministro Afrânio Vilela, DJe de 19/03/2024; REsp n. 2.129.829, Ministra Regina Helena Costa, DJe de 04/04/2024.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
