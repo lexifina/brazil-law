@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de JHONATA DUARTE GONÇALVES contra decisão de Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu pedido liminar no HC n. 1.0000.24.217381-3/000.
+Extrai-se dos autos que o paciente foi pronunciado como incurso na prática do delito de homicídio qualificado tentado, havendo sido designada audiência plenária do Tribunal do Júri.
+Irresignada, a defesa impetrou habeas corpus preventivo, com objetivo de obter salvo-conduto em favor do paciente, todavia, o pedido liminar foi indeferido em decisão acostada às fls. 8/9.
+No presente writ, os impetrantes aduzem a necessidade de superação da Súmula n. 691 do Supremo Tribunal Federal, sob a alegação de negativa de prestação jurisdicional na decisão que indeferiu a liminar pleiteada na origem. Ponderam a inconstitucionalidade da prisão decorrente de condenação perante o Tribunal do Júri.
+Pugnam, assim, em liminar e no mérito, pela expedição de alvará de soltura ou pela promoção de detração do tempo de prisão cautelar do paciente.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destaco:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIOS QUALIFICADOS TENTADOS. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. EXECUÇÃO IMEDIATA. TEMA CONTROVERTIDO. IMPOSSIBILIDADE DE VISLUMBRAR MANIFESTA ILEGALIDADE. SÚMULA N. 691 DA SUPREMA CORTE. AGRAVO DESPROVIDO.
+1. Conforme entendimento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. É o que está sedimentado na Súmula n. 691 do Supremo Tribunal Federal. Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências) -, o que não constato na espécie.
+2. O Agravante foi condenado à pena de 15 (quinze) anos e 10 (dez) meses de reclusão, em regime inicial fechado, pela prática dos crimes previstos no art. 121, § 2.º, inciso I, c.c. o art. 14, inciso II; art. 121, caput, c.c. o art. 14, inciso II; e art. 121, § 2.º, inciso IV, c.c. o art. 14, inciso II, todos do Código Penal, sendo determinada a execução provisória da pena, por se tratar de condenação superior a 15 (quinze) anos de reclusão.
+3. A matéria em questão além de controvertida, pende de julgamento no Supremo Tribunal Federal, em sistemática de repercussão geral, sob a relatoria do Ministro ROBERTO BARROSO (RE n. 1.235.340/SC - Tema n. 1.068). Até o momento, não existe jurisprudência sedimentada sobre a matéria, sob a ótica constitucional, não pairando presunção de inconstitucionalidade sobre a previsão do art. 492, inciso I, alínea e, do Código de Processo Penal, ao contrário.
+4. A Sexta Turma desta Corte, em recentes julgados, por unanimidade de votos, manifestou-se no sentido de não vislumbrar manifesta ilegalidade na execução provisória da pena, na hipótese de condenação, sob o rito do Tribunal do Júri, à pena igual ou superior a 15 (quinze) anos de reclusão, tal como ocorre no caso.
+5. Não se trata de omissão injustificada ao exercício do controle de constitucionalidade difuso. Em verdade, cuida-se de hipótese de observância à sistemática de precedentes, notadamente os mais recentes julgados proferidos, por unanimidade, pela Sexta Turma desta Corte.
+6. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 807.519/MG, relator Ministro TEODORO SILVA SANTOS, SEXTA TURMA, julgado em 26/2/2024, DJe de 5/3/2024).
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto e detectável de plano, de modo que a análise das alegações foi reservada ao colegiado.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
