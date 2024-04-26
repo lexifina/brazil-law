@@ -1,0 +1,11 @@
+DECISÃO
+A questão referente ao índice de correção monetária aplicável às cédulas de crédito rural, cuja fonte de recursos provém dos depósitos das cadernetas de poupança referente ao mês de março de 1990, foi afetada pelo Supremo Tribunal Federal, sob o rito da repercussão geral (Tema 1290), nos termos da decisão de relatoria do Ministro ALEXANDRE DE MORAES, prolatada no RE 1.445.162-DF, a seguir transcrita:
+Trata-se de Recurso Extraordinário no qual reconhecida a repercussão geral do debate relativo ao critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança (DJe de RE 1445162 ED-SEGUNDOS / DF 23/2/2024, Tema 1290).
+A UNIÃO e o BANCO CENTRAL DO BRASIL (Doc. 1349) requerem a suspensão do processamento de todas as demandas judiciais pendentes, individuais ou coletivas, incluindo as liquidações, cumprimentos provisórios de sentença e quaisquer outras ações antecipatórias relacionadas à execução provisória do acórdão ora recorrido, que versem sobre a questão tratada no presente Recurso Extraordinário (Tema 1290), em todo o território nacional, por razões de economia processual, eficiência na solução de litígios, isonomia esegurança jurídica, ante o risco de decisões conflitantes quanto à devida interpretação constitucional a respeito da execução do Plano Collor I.
+(..)
+Nesse contexto, considerando que referido tema foi enfrentado pela decisão interlocutória de primeiro grau e foi trazido nas razões do recurso especial, impõe-se a suspensão do presente feito, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental nº 24, de 28/09/2016.
+Prejudicada a análise das demais questões.
+Nessas condições, DETERMINO a devolução do processo ao TJSP, com a devida baixa nesta Corte, para que permaneça suspenso até a publicação do acórdão representativo da controvérsia, nos termos do art. 256-L, I, do RISTJ, observando-se, logo após, o expediente previsto nos arts. 1.040 e 1.041, ambos do NCPC.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DEMANDA COLETIVA. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL. MATÉRIA AFETADA PELO SUPREMO TRIBUNAL FEDERAL. TEMA 1290. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM.
