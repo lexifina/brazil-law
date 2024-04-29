@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DO DEMANDANTE
+1. É pacífico nesta Corte o entendimento de que o valor da indenização por danos morais fixado pelas instâncias ordinárias somente pode ser revisto nas hipóteses em que a condenação é irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, circunstância não verificada na hipótese sub judice. Incidência da Súmula 7/STJ.
+2. Esta Corte de Justiça tem entendimento no sentido de que o referido óbice impede, igualmente, o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por KILDERE PORTELA LIMA, em face de decisão monocrática deste signatário (fls. 262-266, e-STJ), que conheceu do agravo para não conhecer do recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 110, e-STJ):
+RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. - Caso em que o autor foi indevidamente inscrito em órgãos de proteção ao crédito pela instituição financeira requerida. Dano moral por presunção, in re ipsa. Precedentes. - Inexistindo critérios objetivos de fixação do valor para indenização por dano moral, cabe ao magistrado delimitar quantias ao caso concreto. Valor fixado em (R$ 4.000,00). DERAM PROVIMENTO À APELAÇÃO. UNÂNIME.
+Opostos embargos de declaração, esses foram rejeitados (fls. 171-175, e- STJ).
+Nas razões do especial (fls. 185-192, e-STJ), a parte insurgente apontou, além de divergência jurisprudencial, ofensa ao artigo 6º, VI, do CDC, em que defendeu a majoração do quantum fixado a título de danos morais decorrentes de inscrição indevida em cadastro de inadimplentes.
+Contrarrazões às fls. 220-222, e-STJ.
+Em juízo prévio de admissibilidade (fls. 227-232, e-STJ), a Corte de origem negou seguimento ao apelo nobre, dando ensejo à interposição do agravo de fls. 240-248, e-STJ, visando destrancar o processamento da insurgência.
+Contraminuta às fls. 252-253, e-STJ.
+Em decisão monocrática (fls. 262-266, e-STJ), conheceu-se do agravo para não conhecer do recurso especial, ante à incidência da 7 do STJ.
+Nas razões do agravo interno (fls. 269-274, e-STJ), o agravante se insurge contra os fundamentos da decisão agravada.
+Impugnação às fls. 277-283, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DO DEMANDANTE
+1. É pacífico nesta Corte o entendimento de que o valor da indenização por danos morais fixado pelas instâncias ordinárias somente pode ser revisto nas hipóteses em que a condenação é irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, circunstância não verificada na hipótese sub judice. Incidência da Súmula 7/STJ.
+2. Esta Corte de Justiça tem entendimento no sentido de que o referido óbice impede, igualmente, o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. A pretensão de afastamento da Súmula 7/STJ não merece acolhida.
+Com efeito, de acordo com a jurisprudência desta Corte, em regra, é vedada a rediscussão de valores arbitrados pelas instâncias ordinárias a título de compensação por danos morais, haja vista a disposição estabelecida na Súmula 7/STJ.
+Contudo, em situações excepcionais, em que a condenação é fixada em valores irrisórios ou exorbitantes, em flagrante violação aos princípios da razoabilidade e proporcionalidade, autoriza-se o afastamento de tal óbice, para a correção do valor estipulado.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÕES. INEXISTÊNCIA. TERMO FINAL DA MORA. DANOS MORAIS. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL REPETITIVO. SOBRESTAMENTO. DESNECESSIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA. (..)
+4. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar manifestamente irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, torna-se incabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência do enunciado da Súmula 7/STJ. (..)
+6. Agravo interno não provido. (AgInt nos EDcl no AREsp 977.648/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+Na hipótese em análise, todavia, entende-se que o estabelecimento de compensação por danos extrapatrimoniais no valor de R$ 4.000,00 (quatro mil reais) não é desproporcional.
+Com efeito, cuida-se de montante adequado ao ilícito ora verificado, consistente na inclusão indevida de pessoa em cadastros de restrição ao crédito, conforme se depreende dos seguintes precedentes:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 284/STF E 7/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. DANOS MORAIS. VALOR ADEQUADO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A Corte de origem concluiu que, em razão da prática de fraude de terceiro e consequente inscrição do nome do consumidor nos órgãos de proteção ao crédito, esse faz jus à indenização a título de danos morais.
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$5.000,00 (cinco mil reais) não se mostra irrisório nem desproporcional aos danos suportados pela parte autora, que, conforme consta no acórdão, teve seu nome inscrito indevidamente em órgão de proteção ao crédito.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 2.203.867/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 21/3/2023.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. INSCRIÇÃO INDEVIDA. CULPA CONCORRENTE. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A reapreciação quanto à responsabilidade solidária pela inscrição indevida do devedor em órgão de proteção ao crédito de concessionária de serviço público de rodovia e aquela administradora de sistema de pedágio demanda a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.148.065/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)  Indenização por danos moral: R$ 5.000,00 (cinco mil reais)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA DO NOME DO AUTOR EM CADASTRO DE INADIMPLENTES. DANO MORAL. PRETENSÃO DE REVISÃO DO VALOR DA COMPENSAÇÃO (R$ 4.000,00). PROPORCIONALIDADE E RAZOABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp n. 1.196.186/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/5/2019, DJe de 17/5/2019.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CADASTROS DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Quanto ao valor da indenização por danos morais em virtude da inscrição indevida do nome da parte recorrida nos cadastros de inadimplentes, não há como rever o entendimento firmado pelas instâncias ordinárias sem a análise de fatos e de provas, procedimento inviável em recurso especial devido à incidência da Súmula nº 7/STJ. 3. O Superior Tribunal de Justiça tem afastado o óbice da Súmula nº 7/STJ para reexaminar o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando este se mostrar abusivo ou irrisório, circunstâncias inexistentes no presente caso. 4. Não se pode afirmar que o arbitramento da indenização no valor de R$ 2.000,00 (dois mil reais) é desarrazoado e, tampouco, que destoa dos parâmetros adotados por esta Corte em precedentes análogos. 5. Agravo interno não provido. (AgInt no AREsp n. 1.557.345/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/3/2020, DJe de 13/3/2020.)  grifou-se
+Nesses termos, não configurada a aludida desproporcionalidade da compensação fixada a título de dano moral, revela-se impossível o conhecimento do presente recurso especial.
+Tal pretensão demandaria, necessariamente, o revolvimento de matéria fático-probatória, providência vedada em sede de recurso especial, por força da Súmula 7/STJ.
+2. Por fim, consigna-se que o reconhecimento da incidência da Súmula 7 do STJ ao caso impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, citam-se os seguintes precedentes: AgInt no REsp 1747869/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019; AgInt no AREsp 661.630/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 02/04/2019, DJe 10/04/2019; AgInt no AREsp 1391262/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2019, DJe 23/04/2019; AgInt no AREsp 1153643/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/04/2019, DJe 26/04/2019.
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
