@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. FUNDAMENTAÇÃO INADEQUADA. SÚMULA 284 DO STF. CERTIDÃO POSITIVA DE DÉBITO COM EFEITOS NEGATIVOS. INEXISTÊNCIA DE PENHORA. TESE 273 DO STJ.
+1. A recorrente deixou de apontar, de forma clara, o vício de omissão em que teria incorrido o acórdão reprochado. Assim, seria inviável o conhecimento do Recurso Especial quanto à infringência ao art. 1.022, II, do CPC, ante o óbice da Súmula 284/STF. Além disso, assentou que o conhecimento do Recurso, no tocante à afronta ao art. 206 do CTN, esbarraria na Tese 273 do STJ.
+2. No julgamento do Tema Repetitivo 273, esta Corte assentou a seguinte tese: "A Fazenda Pública, quer em ação anulatória, quer em execução embargada, faz jus à expedição da certidão positiva de débito com efeitos negativos, independentemente de penhora, posto inexpropriáveis os seus bens".
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto da decisão deste Relator, que não conheceu do Recurso Especial, com fulcro na Súmula 284 do STF e na Tese 273 do STJ.
+A agravante afirma que a decisão agravada é omissa, porquanto deixou de apreciar corretamente o pedido da devedora (fl. 460, e-STJ).
+Aduz que não se aplica no caso dos autos a Tese 273 do STJ (fl. 462 , e-STJ).
+A parte agravada apresentou impugnação às fls. 466-478, e-STJ.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. FUNDAMENTAÇÃO INADEQUADA. SÚMULA 284 DO STF. CERTIDÃO POSITIVA DE DÉBITO COM EFEITOS NEGATIVOS. INEXISTÊNCIA DE PENHORA. TESE 273 DO STJ.
+1. A recorrente deixou de apontar, de forma clara, o vício de omissão em que teria incorrido o acórdão reprochado. Assim, seria inviável o conhecimento do Recurso Especial quanto à infringência ao art. 1.022, II, do CPC, ante o óbice da Súmula 284/STF. Além disso, assentou que o conhecimento do Recurso, no tocante à afronta ao art. 206 do CTN, esbarraria na Tese 273 do STJ.
+2. No julgamento do Tema Repetitivo 273, esta Corte assentou a seguinte tese: "A Fazenda Pública, quer em ação anulatória, quer em execução embargada, faz jus à expedição da certidão positiva de débito com efeitos negativos, independentemente de penhora, posto inexpropriáveis os seus bens".
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.3.2024.
+A irresignação não merece prosperar.
+Consta da decisão combatida que a recorrente deixou de apontar, de forma clara, o vício de omissão em que teria incorrido o acórdão reprochado. Assim, seria inviável o conhecimento do Recurso Especial quanto à infringência ao art. 1.022, II, do CPC, ante o óbice da Súmula 284/STF. Além disso, assentou que o conhecimento do recurso, quanto a infringência ao art. 206 do CTN, esbarraria na Tese 273 do STJ.
+Entretanto, apenas o segundo capítulo do decisum foi corretamente impugnado por este Recurso. Assim sendo, deixo de analisar, nesta oportunidade, a infringência ao art. 1.022, II, do CPC, em decorrência do defeito da impugnação.
+No julgamento do Tema Repetitivo 273, esta Corte assentou a seguinte tese: "A Fazenda Pública, quer em ação anulatória, quer em execução embargada, faz jus à expedição da certidão positiva de débito com efeitos negativos, independentemente de penhora, posto inexpropriáveis os seus bens".
+A propósito:
+PROCESSO CIVIL. MANDADO DE SEGURANÇA. TRIBUTÁRIO. CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA. EMPRESA PÚBLICA. AUSÊNCIA DE PRETENSÃO DESCONSTITUTIVA. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+I - Na origem, trata-se de mandado de segurança impetrado pela Empresa Brasileira de Correios e Telégrafos - ECT, contra ato do Coordenador de Arrecadação do Instituto Nacional do Seguro Social - INSS, com valor de causa atribuído em R$ 80.300.000,00 (oitenta milhões e trezentos mil reais), em dezembro de 2003.
+(..)
+III - No julgamento do Tema Repetitivo n. 273, esta Corte assentou a seguinte tese: "A Fazenda Pública, quer em ação anulatória, quer em execução embargada, faz jus à expedição da certidão positiva de débito com efeitos negativos, independentemente de penhora, posto inexpropriáveis os seus bens".
+IV - De fato, nos termos do citado precedente qualificado, sequer a Fazenda Pública estaria dispensada de ao menos impugnar o débito - ainda que sem oferecer garantia, à vista da impenhorabilidade de seus bens - para fazer jus à certidão positiva com efeitos de negativa. Veja-se que, além da possibilidade de embargar a execução fiscal, a empresa devedora poderia, em tese, valer-se a ação anulatória para questionar os débitos lançados contra si, circunstância fática que não fora considerada pela instância ordinária.
+V - Observe-se que, não se dessume do precedente citado (REsp n. 1.123.306/SP - Tema n. 273) que o fornecimento de certidão positiva com efeito de negativa é decorrência automática da impenhorabilidade dos bens, independentemente da existência de qualquer pretensão desconstitutiva dos débitos inscritos em dívida ativa que existam contra a empresa ou ente público.
+VI - Na realidade, os fundamentos do precedente qualificado têm por base a exigência de garantia para expedição da CPD-EN quando o débito é impugnado, seja por ação anulatória, seja por meio de embargos à execução, obrigação de que estaria dispensada a Fazenda Pública, "considerando a excepcionalidade que assinala as prerrogativas" a partir do que, "mormente a impossibilidade de penhora de seus bens, revela a interpretação de que seja em sede de execução embargada ou ação anulatória pelo Município, independentemente da prestação de garantia, é cabível a expedição da Certidão Positiva de Débitos com efeitos Negativos" (REsp n. 1.123.306/SP).
+VII - Agravo em recurso especial conhecido para conhecer do recurso especial e dar provimento para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+(AREsp 2.141.854/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 12/5/2023.)
+TRIBUTÁRIO. RECURSO ESPECIAL. CRÉDITO CONSTITUÍDO CONTRA A FAZENDA PÚBLICA MUNICIPAL. AÇÃO ANULATÓRIA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. RITO DO ART. 730 DO CPC. CERTIDÃO POSITIVA COM EFEITO DE NEGATIVA. EXPEDIÇÃO. ADMISSIBILIDADE. MATÉRIA EXAMINADA SOB O RITO DO ART. 543-C DO CPC E DA RESOLUÇÃO STJ N.º 08/2008.
+(..)
+2. A Fazenda Pública pode propor ação anulatória sem o prévio depósito do valor do débito discutido e, no caso de ser executada, interpor embargos sem a necessidade de garantia do juízo. Ajuizados os embargos ou a anulatória, está o crédito tributário com a sua exigibilidade suspensa.
+3. Suspensa a exigibilidade do crédito tributário, assiste ao Município o direito de obter a certidão positiva com efeito de negativa de que trata o artigo 206 do CTN.
+4. "A Fazenda Pública, quer em ação anulatória, quer em execução embargada, faz jus à expedição da certidão positiva de débito com efeitos negativos, independentemente de penhora, posto inexpropriáveis os seus bens". (REsp 1.123.306/SP, Rel. Min. Luiz Fux, Primeira Seção, DJe de 01.02.2010, submetido ao regime do art. 543-C do CPC e da Resolução STJ n.º 08/2008)
+5. Recurso especial não provido.(REsp 1.180.697/MG, relator Ministro Castro Meira, Segunda Turma, 17/8/2010, DJe de 26/8/2010.)
+TRIBUTÁRIO. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. FAZENDA MUNICIPAL. IMPOSSIBILIDADE DE PENHORA. ARTIGO 206, DO CTN. CERTIDÃO POSITIVA DÉBITO COM EFEITOS NEGATIVOS. EXPEDIÇÃO. ADMISSIBILIDADE. PRECEDENTES.
+1. A ação anulatória de crédito fiscal proposta pela Fazenda Municipal prescinde de depósito e garantia.2. É que resta cediço na C. Corte que:TRIBUTÁRIO. EXECUÇÃO CONTRA A FAZENDA MUNICIPAL. AÇÃO ANULATÓRIA. DEPÓSITO. SUSPENSÃO. EXIGIBILIDADE.1. Proposta ação anulatória pela Fazenda municipal, "está o crédito tributário com a sua exigibilidade suspensa, porquanto as garantias que cercam o crédito devido pelo ente público são de ordem tal que prescindem de atos assecuratórios da eficácia do provimento futuro", sobressaindo o direito de ser obtida certidão positiva com efeitos de negativa (REsp n. 601.313/RS, relator Ministro CASTRO MEIRA, DJ de 20.9.2004).
+2. Recurso especial parcialmente conhecido e, nessa parte, improvido. (REsp 497923/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, julgado em 16/05/2006, DJ 02/08/2006, p. 252).
+3. A excepcionalidade quanto às prerrogativas da Fazenda Pública federal, estadual ou municipal, mormente a impossibilidade de penhora de seus bens, revela a interpretação de que seja em execução embargada, seja em ação anulatória, pelo Município, independentemente da prestação de garantia, é cabível a expedição da Certidão Positiva de Débitos com Efeitos Negativos. (Precedentes: Ag 1.150.803/PR, Rel. Min. CASTRO MEIRA, DJ. 05.08.2009; REsp 1.074.253/MG, Rel. Min. BENEDITO GONÇALVES, DJ. 10.03.2009; REsp 601.313/RS, Rel. Min. CASTRO MEIRA, DJ de 20.9.2004; REsp 381.459/SC, Rel. Min. HUMBERTO GOMES DE BARROS, DJ de 17.11.03; REsp 443.024/RS, Rel. Min. LUIZ FUX, DJ de 02.12.02; REsp 376.341/SC, Rel. Min. GARCIA VIEIRA, DJU de 21.10.02)
+4. Recurso especial desprovido.(REsp n. 1.115.458/BA, relator Ministro Luiz Fux, Primeira Turma, julgado em 24/11/2009, DJe de 17/12/2009.)
+Dessa maneira, não tendo sido infirmadas as razões que nortearam o decisum impugnado, não se pode acolher a irresignação.
+Com essas considerações, nego provimento ao Agravo Interno. Não há razão para majoração de honorários advocatícios.
+É como voto.
