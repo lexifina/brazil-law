@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por ANTONIO ALVES CARDOSO, em face da decisão que em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo extremo (art. 105, III, alínea "a", CF) desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 251, e-STJ):
+APELAÇÃO CÍVEL -AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C RESTITUIÇÃO E INDENIZAÇÃO POR DANOS MORAIS -PEDIDO INDETERMINADO -PETIÇÃO INICIAL INÉPTA - ART. 330, §1º, II, DO CPC -FALTA DE PRESSUPOSTO PROCESSUAL - CERCEAMENTO DE DEFESA -EXAME PREJUDICADO -EXTINÇÃO DO PROCESSO SEM ANÁLISE DO MÉRITO -LITIGÂNCIA DE MÁ-FÉ CONFIGURADA -VALOR DA MULTA. -Nos termos do art. 330, §1º, do CPC, a petição inicial é inepta quando faltar à inicial pedido ou causa de pedir; da narração dos fatos não decorrer logicamente a conclusão; contiver pedidos incompatíveis entre si ou o pedido for indeterminado.- Embora o indeferimento de provas essenciais ao julgamento da lide resulte no cerceamento do direito de defesa, considerando que a parte autora ajuizou ação declaratória de inexistência de relação jurídica sem identificar o contrato que ensejou os descontos em sua conta corrente reputados indevidos, e sem sequer informar o valor dos referidos descontos e do total da restituição pretendida, ou mesmo o período em que foram efetuados, resta incontestável a inépcia da petição inicial. Com efeito, o Poder Judiciário deve ser provocado apenas quando evidenciada lesão a direito, o que implica em movimentação oportuna e formulação de pedidos específicos e devidamente fundamentados. -A parte que deduz pretensão de modo temerário reputa-se litigante de má-fé, na forma do art. 80, V, do CPC, devendo lhe ser aplicada a penalidade prevista no art. 81 do mesmo Diploma Legal.- Conforme disposto no art. 81 do CPC, a multa por litigância de má-fé deve ser fixada em valor superior a 1% e inferior a 10% sobre o valor da causa.
+Nas razões do recurso especial (fls. 264/274, e-STJ), a parte agravante alega ter sofrido injusta condenação por litigância de má-fé, apontando violação aos artigos 80 e 81 do Código de Processo Civil. Pleiteia, em suma, a revogação da r. condenação ou, subsidiariamente, a redução do percentual da sanção fixada em nove e meio por cento.
+Sem contrarrazões (fl. 286, e-STJ).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o reclamo (fls. 1 37/139, e-STJ), dando ensejo à interposição do presente agravo (fls. 287/298, e-STJ), por meio do qual o agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Sem contraminuta (fl. 303, e-STJ).
+É o relatório.
+Decido.
+A pretensão não comporta acolhimento.
+1. Eventual reforma da decisão recorrida para afastar a condenação por litigância de má-fé ou reduzir o seu percentual exigiria análise pormenorizada dos elementos probatórios e acontecimentos que culminaram na imposição da pena, providência que encontra óbice no disposto na Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZATÓRIA. PROTESTO INDEVIDO. PRESCRIÇÃO. CIÊNCIA INEQUÍVOCA DO ATO LESIVO. AUSÊNCIA DE INFORMAÇÃO DO TERMO INICIAL PELO TRIBUNAL A QUO. ÓBICE DA SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. CONCLUSÃO COM BASE NOS FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+3. No tocante à condenação por litigância de má-fé, decidiu o Tribunal de origem que a recorrente "tentou alterar a verdade dos fatos e induzir em erro" o colegiado. Afastar a conclusão do acórdão demandaria o revolvimento de fatos e provas, o que é vedado em razão da incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.511.134/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LOCAÇÃO DE IMÓVEL. ÔNUS PROBATÓRIO. PROVAS. VALORAÇÃO. SÚMULA Nº 7/STJ. PAGAMENTO DO IPTU. RESPONSABILIDADE DOS FIADORES. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. RECURSOS CABÍVEIS. DIREITO DE DEFESA. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. SÚMULA Nº 7/STJ.
+1. O tribunal de origem formou sua convicção à luz do acervo probatório dos autos, fundamentando os motivos que levaram à condenação, de forma que a intervenção desta Corte quanto à satisfação do ônus probatório e à valoração das provas encontra óbice na Súmula nº 7/STJ.
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, a partir da tese de que os fiadores não podem ser responsabilizados pelo pagamento do IPTU de período posterior à entrega das chaves e à locação, demandaria análise de circunstâncias fático-probatórias dos autos, procedimento inviável no recurso especial em virtude da incidência da Súmula nº 7/STJ.
+3. A interposição dos recursos cabíveis caracteriza o regular exercício do direito de defesa, não acarretando a imposição de multa por ato atentatório à dignidade da justiça ou por litigância de má-fé.
+4. O acolhimento da tese recursal de que a recorrida agiu com litigância de má-fé ao alterar a verdade dos fatos, esbarra na redação da Súmula nº 7/STJ, porquanto ensejaria a análise de fatos e de provas por esta Corte Superior.5. Agravo interno não provido.
+(AgInt no AREsp n. 2.105.442/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Portanto, de rigor a aplicação da Súmula 7 do STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 1% (um por cento) sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
