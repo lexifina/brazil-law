@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ADESIVO. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção definiu que, quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente da Segunda Seção.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FCA FIAT CHRYSLER AUTOMÓVEIS BRASIL LTDA. (FCA FIAT) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ADESIVO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fls. 2.956/2.959)
+Nas razões do presente inconformismo, defendeu que não se aplica a Súmula nº 7/STJ e reitera a violação do art. 85, § 25º, do CPC, pois argumenta que o fato de a inicial ter sido julgada improcedente não indica que a ré não obteve proveito econômico, consubstanciado no valor da pretensão autoral, que a ré se viu desobrigada a pagar.
+Foi apresentada contraminuta (e-STJ, fls. 3.008/3.024).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ADESIVO. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção definiu que, quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente da Segunda Seção.
+2. Agravo interno não provido.
+VOTO
+O agravo interno não merece prosperar.
+Nas razões do agravo interno, FCA FIAT sustenta que não se aplica a Súmula nº 7/STJ ao caso e reitera a violação do art. 85, § 25º, do CPC, pois argumenta que o fato de a inicial ter sido julgada improcedente não indica que a ré não obteve proveito econômico, consubstanciado no valor da pretensão autoral, que a ré se viu desobrigada a pagar.
+Inicialmente cumpre esclarecer que a 2ª Seção definiu que, quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+Assim, verifica-se que, para haver fixação dos honorários sucumbenciais com a base de cálculo do valor econômico obtido, é necessário ter havido condenação, o que não ocorreu no presente caso. Logo, acertadamente as instâncias ordinárias fixaram com base no valor da causa, respeitando o precedente utilizado por esta Corte Superior. Incidência da Súmula nº 83/STJ.
+Além disso, a decisão monocrática destacou que:
+O Tribunal estadual assentou os seguintes termos sobre a base de cálculo o seguinte:
+Por sua vez, deve ser rejeitado o recurso da Embargante 1 (index 002513), eis que o acórdão recorrido observou o teor do §2º do art. 85 do CPC/15.
+Isso porque, não há que se falar em condenação da Autora/Embargante 2 em honorários de sucumbência tendo como base um suposto proveito econômico, tendo em vista a impossibilidade de sua mensuração no caso em tela, diante da improcedência dos pedidos autorais. Assim, deve ser mantido como base de cálculo o valor da causa, conforme consta no acórdão ora embargado.
+A seguir, cabe destacar o seguinte trecho das contrarrazões da Embargante 2 (fls. 2.534), in verbis:
+concluíram pela improcedência dos pedidos, não há que se falar em condenação da autora em honorários de sucumbência tomando-se como base um suposto "proveito econômico obtido" por parte da ré, ora embargante, eis que imensurável.
+Daí porque não resta configurada a omissão apontada sobre a aplicação do §2º do art. 85 do CPC, cuja matéria foi devidamente enfrentada, ou seja, diante da impossibilidade de mensuração de proveito econômico obtido, impõe-se a adoção do valor da causa como base de cálculo para aplicação de honorários de sucumbência.
+Cumpre mencionar, ainda, que em suas contrarrazões ao recurso da Embargante 2, a própria Embargante 1 reconhece que a verba honorária não foi fixada sobre o proveito econômico em razão da improcedência integral dos pedidos autorais, e que, em caso de sua condenação agora ao ressarcimento dos valores debitados da conta contábil da Embargante 2, é necessário que assim seja feito (o que, frise-se, não ocorreu, tendo em vista a manutenção do acórdão ora embargado). (e-STJ, fls. 2564/2566 - sem destaque na original)
+Sendo assim, o acórdão estadual é claro e preciso ao afirmar que não há que se falar em mensuração de proveito econômico, tendo em vista que o autor teve seu pedido integralmente julgado improcedente.
+Alterar a base de cálculo demandaria reexame fático, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. A propósito: (e-STJ, fls. 2.956/2.958)
+Mantida, portanto, a Súmula nº 7/STJ.
+Dessa maneira, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
