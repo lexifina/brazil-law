@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 85, § 3º, DO CPC/2015. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. SUCUMBÊNCIA RECÍPROCA RECONHECIDA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 7/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal
+III - A Corte de origem concluiu que, no cas o, deve ser fixada a sucumbência recíproca, a ser verificada em proporção percentual aos períodos em que cada parte venceu. Rever tal entendimento, com o objetivo de acolher a pretensão recursal de redistribuir os ônus sucumbenciais, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão que conheceu do agravo para não conhecer do recurso especial, fundamentada na incidência das Súmulas n. 284/STF e 7/STJ.
+O Agravante sustenta, em síntese, a inaplicabilidade de tais óbices.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 1.505e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 85, § 3º, DO CPC/2015. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. SUCUMBÊNCIA RECÍPROCA RECONHECIDA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 7/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal
+III - A Corte de origem concluiu que, no cas o, deve ser fixada a sucumbência recíproca, a ser verificada em proporção percentual aos períodos em que cada parte venceu. Rever tal entendimento, com o objetivo de acolher a pretensão recursal de redistribuir os ônus sucumbenciais, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao Agravante.
+No que se refere ao art. 85, § 3º do CPC/2015, a Recorrente, ora Agravante, não demonstra, efetivamente, como teria ocorrido a violação.
+Vale acrescentar que a pretensão recursal é questionar a distribuição da sucumbência estabelecida na instância de origem; esse dispositivo legal não trata dessa matéria.
+Este Superior Tribunal tem posicionamento consolidado acerca da deficiência das razões do recurso especial quanto apontado como contrariado o dispositivo de lei federal que não possui comando normativo capaz de sustentar a tese recursal e, por isso, se revela incapaz de infirmar o fundamento do acórdão recorrido.
+Com efeito, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+No mais, o tribunal de origem, após minucioso exame dos elementos fáticos e probatórios contidos nos autos, assentou (fls. 1.373/1.374e):
+ ..
+no caso concreto deve ser fixada a sucumbência recíproca, a ser verificada em proporção percentual aos período sem que cada parte venceu, nos termos da modulação dos efeitos da declaração de inconstitucionalidade, cujo montante será calculado na fase de liquidação de sentença(art. 85, § 4º, II, do CPC), adotados os percentuais mínimos dos incisos do § 3º do art.85 do Código de Processo Civil. Nesse sentido, a seguinte decisão colegiada: TRF3, 3ªTurma, Ap Civ 5009722-20.2019.4.03.6100, Rel. Desembargador Federal NELTONDOS SANTOS, D
+Je em 23.2.2002.
+Desta forma, a sentença merece parcial reforma para que seja estabelecida a sucumbência recíproca, bem como para o fim de deixar assente o diferimento da fixação do montante da verba honorária para o momento da liquidação do julgado, por se tratar de sentença ilíquida.
+Em face do exposto: (i) dou provimento à apelação da parte autora, para determinar que o ICMS a ser excluído da base de cálculo do PIS e da COFINS é aquele destacado nas notas fiscais, conforme decido pelo STF no RE 574.706; (ii) dou parcial provimento à apelação da União, para especificar os critérios e dispositivos legais a serem observados por ocasião da compensação (a exemplo do art. 170-A do CTN e do art. 39, § 4º, da Lei 9.250/1995); (iii) dou parcial provimento à remessa oficial (tida por interposta) em maior extensão, para também restringir a efetivação da compensação aos valores indevidamente recolhidos a partir de 16.3.2017, bem como para estabelecer a sucumbência recíproca e a incidência do § 4º, II, do art. 85 do CPC, nos termos acima expendidos.
+Rever tal entendimento, com o objetivo de acolher a pretensão recursal de redistribuir os ônus sucumbenciais, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO NÃO CONFIGURADA. DIREITO ADMINISTRATIVO. INFRAÇÃO CONTINUADA. MESMA OPORTUNIDADE FISCALIZATÓRIA. OCORRÊNCIA DE DIVERSAS INFRAÇÕES DA MESMA NATUREZA. APLICAÇÃO DE MULTA SINGULAR. ÔNUS DE SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+e, iii) corrigir erro material. Vício não configurado.
+III - Verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual a sequência de várias infrações de mesma natureza, apurados em uma única autuação, é considerada como de natureza continuada e, portanto, sujeita à imposição de multa singular.
+IV - In casu, rever o entendimento do Tribunal de origem, no sentido de redistribuir o ônus de sucumbência, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.782.525/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2019, DJe de 16/5/2019.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+No caso, não obstante o improvimento do recurso, não resta configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Ante o exposto, NEGO PROVIMENTO ao Agravo Interno.
