@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por IVANETE COLATO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C EXIBIÇÃO DE DOCUMENTO. SEGURO DE VIDA EM GRUPO. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DA PARTE AUTORA.
+PRELIMINAR. AVENTADA A NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. DECISÃO QUE DEMONSTROU CLARAMENTE OS MOTIVOS PARA O INDEFERIMENTO DO PEDIDO INICIAL. PREENCHIMENTO DOS REQUISITOS DISPOSTOS NO ART. 489, DO CPC.
+MÉRITO. PLEITO DE APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR AO CASO. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS EM PROL DO CONSUMIDOR QUE NÃO RESULTA EM ALTERAÇÃO DO JULGAMENTO EM SEU FAVOR. PREVALÊNCIA DO DISPOSTO NA APÓLICE SECURITÁRIA. INTELIGÊNCIA DO ART. 757, DO CC. PREVISÃO DE CLÁUSULAS RESTRITIVAS QUE NÃO POSSUI O CONDÃO DE VIOLAR OS DIREITOS DIREITOS DO CONSUMIDOR, MAS TÃO SOMENTE EQUILIBRAR A RELAÇÃO ENTRE AS PARTES.
+ALEGAÇÃO DE QUE A SEGURADA FAZ JUS AO RECEBIMENTO DE INDENIZAÇÃO POR INVALIDEZ PERMANENTE POR ACIDENTE  IPA. TESE RECHAÇADA. INOCORRÊNCIA DE ACIDENTE DE QUALQUER NATUREZA. DOENÇA OCUPACIONAL QUE NÃO PODE SER EQUIPARA A ACIDENTE DE TRABALHO. INAPLICABILIDADE DA NORMA PREVIDENCIÁRIA ÀS RELAÇÕES DE DIREITO PRIVADO. INTERPRETAÇÃO RESTRITIVA DO PACTO. PRECEDENTES DESTA CORTE. ADEMAIS, AUSÊNCIA DE COBERTURA DE INVALIDEZ FUNCIONAL POR DOENÇA NA APÓLICE CONTRATADA. DEVER DE INDENIZAR NÃO CONFIGURADO. ALEGAÇÃO DE VIOLAÇÃO DO DEVER DE INFORMAÇÃO PREJUDICADA. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE.
+ARBITRAMENTO DE HONORÁRIOS RECURSAIS, INTELIGÊNCIA DO ART. 85, § 11, DO CPC/2015.
+RECURSO CONHECIDO E DESPROVIDO" (e-STJ fl. 669).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega que o acórdão violou os arts. 6º, III, 14, 46, 47, 51, I, II, III e IV, e § 1º, I, II e III, e 54, §§ 3º e 4º, do Código de Defesa do Consumidor; 422, 757, 760, 765 e 776 do Código Civil; 489, e 1.022, I, do Código de Processo Civil.
+Afirma que houve negativa de prestação jurisdicional. Acrescenta que houve violação ao dever de informação quanto às condições da apólice. Por fim, sustenta a nulidade da cláusula excludente de cobertura de doença ocupacional por equiparação a acidente sem o prévio conhecimento do segurado.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Quanto ao artigo 1.022 do CPC, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos, tendo em vista que o aresto que apreciou os declaratórios esclareceu que "(..) em decorrência da ausência de cobertura, fica prejudicado o pedido de condenação da seguradora ao pagamento integral da indenização em razão da violação do dever prévio de informação ao segurado" (e-STJ fl. 679).
+Assim, a instância ordinária enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Quanto à cobertura contratual, na hipótese em tela, o tribunal de origem consignou:
+"A apelante sustenta que faz jus ao recebimento da indenização por Invalidez Permanente por Acidente - IPA, porquanto "restou amplamente comprovado, principalmente pela perícia médica para este fim, de que o quadro que invalida a autora possui nexo causal com as atividades laborais, pois decorre dos microtraumas repetitivos no exercício do trabalho a serviços da empresa" (fl. 339).
+Saliente que "existindo acidente, não pode haver distinção entre acidente pessoal e acidente de trabalho decorrente de doença ocupacional, já que o conceito de acidente é um só, não podendo valor somente para uns e deixar de existir para outros" (fl. 378 e-STJ).
+Contudo, não lhe assiste razão.
+Isso porque a invalidez permanente defendida decorreu de lesões causadas por doença ocupacional, conforme informa a própria apelante na sua peça inicial (fl. 4), não havendo qualquer evento súbito apto a caracterizar a invalidez da beneficiária.
+Além disso, na suposta hipótese de se considerar que as lesões foram desencadeadas por algum acidente pessoal, a própria apólice exclui deste tipo de cobertura (IPA) as doenças profissionais" (e-STJ fls. 676/677).
+Destarte, a inversão do julgado esbarra nos óbices das Súmulas nºs 5 e 7/STJ por ensejar o reexame de fatos e provas e a interpretação de cláusula contratual, procedimentos vedados na via do recurso especial (AgInt no REsp nº 1.849.111/SC, Rel. Ministra Maria Isabel Gallotti, DJe 17/6/2020).
+A esse respeito:
+"CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. AUSÊNCIA DE EQUIPARAÇÃO ENTRE DOENÇA PROFISSIONAL E ACIDENTE PESSOAL. DEVER DE INFORMAÇÃO. LIMITES DA APÓLICE E REEXAME DE PROVAS. APLICAÇÃO DAS SÚMULAS N.os 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Segundo a jurisprudência da Terceira Turma, a modalidade de seguro IPA (invalidez por acidente pessoal) não estende sua cobertura à doença profissional (REsp 1.502.201/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 24/3/2015).
+3. Tendo a Corte estadual, com base nas provas e na interpretação de cláusulas contratuais, concluído que não seria possível, no caso, equiparar a doença ocupacional sofrida pela agravante com o conceito de acidente pessoal coberto pela apólice, bem como que foi observado o dever de informação, não há como alterar tais entendimentos em recurso especial, ante os óbices das Súmulas nºs 5 e 7, ambas do STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 1.834.354/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/10/2021, DJe de 6/10/2021.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. COBERTURA DE INVALIDEZ TOTAL E PARCIAL POR ACIDENTE. DOENÇA OCUPACIONAL. EQUIPARAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE COBERTURA. SÚMULAS 5 E 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem, de que a incapacidade laboral parcial se deu por doença ocupacional não coberta pela apólice, esbarra no óbice das Súmulas 5 e 7/STJ.
+2. Agravo interno não provido."
+(AgInt no AREsp n. 1.277.945/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/11/2018, DJe de 20/11/2018.)
+Ainda que superado este óbice, melhor sorte não atende o recurso porque a Segunda Seção deste Tribunal Superior consagrou o entendimento de que, na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre (Tema Repetitivo nº 1.112 do STJ).
+A propósito:
+"RECURSO ESPECIAL REPETITIVO. CIVIL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. EXCLUSIVIDADE. ESTIPULANTE. GARANTIA SECURITÁRIA. INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE (IPA). INDENIZAÇÃO SECURITÁRIA. INCAPACIDADE PARCIAL DEFINITIVA. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE. GRAU DE INVALIDEZ. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A controvérsia dos autos reside em definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+3. Teses para os fins do art. 1.040 do CPC/2015: (i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre, e (ii) n ão se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas figuras devem ser consideradas apólices individuais, no que tange ao relacionamento dos segurados com a sociedade seguradora.
+4. Recurso especial não provido."
+(REsp nº 1.874.788/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023)
+Restou assentado que, na estipulação própria, o dever de prestar informação prévia ao segurado a respeito das cláusulas limitativas/restritivas nos contratos de seguro de vida em grupo é somente do estipulante, devendo ser feita uma distinção com relação ao seguro de vida individual, dada a dinâmica da contratação, já que neste, especificamente, incumbirá ao segurador e ao corretor bem informar o segurado.
+Em outras palavras, no seguro de vida em grupo, quando o segurado adere à apólice coletiva, não há nenhuma interlocução da seguradora, ficando a formalização da adesão restrita ao estipulante e ao proponente.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
