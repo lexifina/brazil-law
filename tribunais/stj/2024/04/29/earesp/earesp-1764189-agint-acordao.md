@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. CONTRATOS ADMINISTRATIVOS. CONTRATOS DE COMPRA E VENDA COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. DEVOLUÇÃO DO FEITO AO ÓRGÃO PROLATOR DA DECISÃO DE EMBARGOS DE DECLARAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária objetivando rescisão contratual, bem como a condenação da ré a restituir totalmente as parcelas pagas pela autora ou, em caráter subsidiário, com retenção de apenas 10% do valor pago. Na sentença, o pedido foi julgado improcedente. No Tribunal a quo a sentença foi reformada para rescindir o contrato de compra e venda de imóvel e determinar a devolução dos valores pagos, retendo-se o sinal, bem como aqueles desembolsados pela ré relacionados a impostos incidentes sobre o imóvel.
+II - Apresentou-se questão jurídica relevante, qual seja, a tese de que é impossível resilição unilateral em contratos de compra e venda firmados com cláusula de alienação fiduciária. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+III - Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos. No mesmo sentido: EDcl no AREsp 1486730/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 09/03/2020; AgInt no REsp 1478694/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 27/09/2018.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo em recurso especial contra decisão que inadmitiu recurso especial com fundamento no art. 105, III, a, da Constituição Federal.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Com efeito, se observa do voto condutor do acórdão cassado pela decisão agravada a análise de cada um dos argumentos apontados pela TERACAP em suas razões de embargo.
+Sobre a tese de julgamento extra petita, o voto condutor assinalou que "o pedido subsidiário foi formulado na inicial (id 7604918, fls. 8), não havendo que se falar em decisão extra petita, nem mesmo em inovação recursal".
+E sobre a tese de impossibilidade de resilição unilateral de contratos de compra e venda firmados com a cláusula de alienação fiduciária, no caso a suposta violação aos artigos 22, 23, 26 e 27 da Lei nº. 9.514/1997, e artigos 3º, 41, 66, 77, 78 e 79 da Lei nº. 8.666/1993, o voto condutor asseverou que:
+ ..
+Como se pode observar, o acórdão recorrido considerou o fato de tratar-se de uma venda precedida de licitação pública, e que o instrumento público de compra e venda continha sim cláusula de alienação fiduciária.
+Todavia, justamente por tratar-se de venda em licitação pública, é que os integrantes da 4ª Turma Cível do TJDFT entenderam como cabível a rescisão a pedido do comprador quando o edital prevê essa possibilidade.
+Portanto, e reiterando os pedidos de vênia, não há omissão alguma, tanto no acórdão que julgou o Recurso de Apelação, como no acórdão que julgou os correspondentes Embargos de Declaração, pois a matéria foi, de modo expresso e objetivo, tratada pelo órgão julgador.
+O que se descortina das razões apresentadas pela TERRACAP na questão preliminar ventilada em sede de Recurso Especial não é a ausência de fundamentação, ou mesmo omissão sobre relevante argumento deduzido, porém a insatisfação com o entendimento encampado pela Turma Julgadora, o que obviamente não constitui razão para a cassação do acórdão.
+ ..
+Ademais, ainda que fosse possível transpor a inexistência de nulidade no acórdão recorrido, o que se admite em caráter hipotético, e por amor ao debate, a discussão encetada no Recurso Especial da TERRACAP esbarraria nos óbices das Súmulas nº. 05 e 07 deste STJ.
+Isso porque o acórdão recorrido, analisando as cláusulas e condições do Edital de Licitação, e da escritura pública de compra e venda, entendeu que seria cabível a rescisão com base no item nº. 79 do Edital de Licitação, ou seja, a pretensão recursal da TERRACAP passa pela mudança da conclusão a que chegou o Tribunal "a quo", o que por sua vez demanda, necessariamente, o reexame de cláusulas e condições do contrato havido entre as partes, em última análise reexame de fatos e provas, procedimentos amplamente vedados em sede de Recurso Especial.
+A propósito, não se diga que o acórdão recorrido divergiu do entendimento deste Col. STJ sobre a matéria, o qual é firme no sentido de vincular as partes ao edital de licitação, senão vejamos:
+ ..
+Resumindo, o acórdão recorrido enfrentou todas as questões colocadas a apreciação, sobremodo as repisadas pela TERRACAP em sede de Embargos de Declaração, de sorte que não há que se falar em omissão pelo simples fato de o julgamento ter sido contrário ao interesse da parte.
+Por conseguinte, não havendo omissão, e demandando a tese recursal a análise de cláusulas e condições contratuais, como ainda o revolvimento de fatos e provas, é o caso não apenas de reforma da decisão ora agravada, como ainda o não provimento do Agravo em Recurso Especial, mormente Recurso Especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. CONTRATOS ADMINISTRATIVOS. CONTRATOS DE COMPRA E VENDA COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. DEVOLUÇÃO DO FEITO AO ÓRGÃO PROLATOR DA DECISÃO DE EMBARGOS DE DECLARAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária objetivando rescisão contratual, bem como a condenação da ré a restituir totalmente as parcelas pagas pela autora ou, em caráter subsidiário, com retenção de apenas 10% do valor pago. Na sentença, o pedido foi julgado improcedente. No Tribunal a quo a sentença foi reformada para rescindir o contrato de compra e venda de imóvel e determinar a devolução dos valores pagos, retendo-se o sinal, bem como aqueles desembolsados pela ré relacionados a impostos incidentes sobre o imóvel.
+II - Apresentou-se questão jurídica relevante, qual seja, a tese de que é impossível resilição unilateral em contratos de compra e venda firmados com cláusula de alienação fiduciária. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+III - Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos. No mesmo sentido: EDcl no AREsp 1486730/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 09/03/2020; AgInt no REsp 1478694/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 27/09/2018.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022, II, do CPC/2015.
+Apresentou-se questão jurídica relevante, qual seja, a tese de que é impossível resilição unilateral em contratos de compra e venda firmados com cláusula de alienação fiduciária. Apesar de provocado, por meio de e mbargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos. No mesmo sentido: EDcl no AREsp 1486730/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 09/03/2020; AgInt no REsp 1478694/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 27/09/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
