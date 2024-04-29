@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por CAMBOIM CONSTRUTORA E INCORPORADORA LTDA em face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado:
+APELAÇÕES CÍVEIS SIMULTANEAS. AÇÃO INDENIZATÓRIA. PROCEDENTE EM PARTE. DECLARAÇÃO DE DESCUMPRIMENTO CONTRATUAL. PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. ATRASO NA ENTREGA DO IMÓVEL. RESPONSABILIDADE DA ACIONADA PELO ATRASO NA ENTREGA DA OBRA. CASO FORTUITO OU FORÇA MAIOR. NÃO PROVADO. DANOS MATERIAIS. SENTENÇA DE ACORDO COMO JULGAMENTO DO TEMA 971 DO SUPERIOR TRIBUNAL DE JUSTIÇA DANO MORAL CONFIGURADO.  MAJORAÇÃO. RECURSO INTERPOSTO PELA CONSTRUTORA CONHECIDO E IMPROVIDO. RECURSO INTERPOSTO PELA PARTE AUTORA PROVIDO EM PARTE.
+Nas razões de recurso especial (fls. 587/603, e-STJ), alegou o insurgente que o acórdão recorrido violou os artigos 402, 403, 408, 413 e 927 do CC.
+Requer "o recebimento do presente Recurso Especial, para a Reforma da Decisão em Recurso de Apelação do Egrégio Tribunal de Justiça da Bahia, para o fim de: (i)afastar a cumulação da multa moratória de 2% e juros de 1% ao mês, com indenização de locatícios, por configurar bis in idem; (ii)reintegrar o dever da parte recorrida em arcar com as correções das prestações inclusive no período em que o imóvel não esteve entregue, em razão de disposição contratual; (iii)afastar a condenação da recorrente ao pagamento de danos morais, em razão de mero aborrecimento; (iv)afastar a alteração do índice de correção, em razão da inexistência de prejuízo ao recorrido na manutenção dos índices contratualmente estabelecidos, e ainda, a fim de evitar enriquecimento ilícito por qualquer das partes".
+Contrarrazões às fls. 627/651, e-STJ.
+A Corte de origem deixou de admitir o recurso, razão pela qual foi manejado o presente agravo.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Verifica-se que a parte recorrente aponta genericamente, somente no início das razões recursais, alguns dispositivos legais que teriam sido violados, limitando-se a transcrevê-los.
+Com efeito, a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal, providência esta não atendida pela recorrente.
+Nesse passo, a simples referência a dispositivos legais, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial, atraindo a aplicação da Súmula 284 do STF, por analogia.
+Nessa linha, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AUSÊNCIA DE INDICAÇÃO DE ARTIGOS SUPOSTAMENTE VULNERADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. AGRAVO IMPROVIDO.
+1. A falta de indicação dos dispositivos legais que teriam sido eventualmente violados, cujos conteúdos normativos sejam capazes de amparar a tese recursal a eles associada, faz incidir à hipótese o teor da Súmula 284 do STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+(AgInt no AREsp 1353615/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/07/2019, DJe 06/08/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO AO ART. 1º DA LC 109/2001. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. ART. 6º, CAPUT, § 1º, DA LINDB. SIMPLES REFERÊNCIA A DISPOSITIVO LEGAL DESACOMPANHADA DA NECESSÁRIA ARGUMENTAÇÃO QUE SUSTENTE A ALEGADA OFENSA À LEI FEDERAL. SÚMULA 284 DO STF. NEGADO PROVIMENTO.  ..  3. "Art. 6º, caput, § 1º, da LINDB. A alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Incidência da Súmula 284 do STF" (AgInt no AREsp 1.025.432/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe de 15/09/2017). 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1137472/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)  grifou-se
+Incide, no ponto, o teor da Súmula 284/STF, por analogia.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para de plano não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
