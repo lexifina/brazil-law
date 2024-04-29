@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO. PROVIMENTO NEGADO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+2. A modulação da tese firmada por ocasião do julgamento do REsp 1.813.684/SP pela Corte Especial é restrita ao feriado de segunda-feira de carnaval, não se aplicando aos demais feriados locais, inclusive aos dias que antecedem a sexta-feira santa.
+3. A parte agravante foi intimada da decisão de inadmissão do seu recurso especial em 9/3/2018. A contagem do prazo recursal, em razão disso, teve início em 12/3/2018 e finalizou em 2/4/2018; todavia, o recurso somente foi interposto em 4/4/2018, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso conforme disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANTONIO RODRIGUES DA SILVA contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do seu agravo em recurso especial devido à intempestividade (fls. 263/264).
+A parte agravante alega, em suma, que o agravo é tempestivo, ao considerar que "foi intimado da r. decisão no dia 9/3/2018 (sexta-feira), com início do prazo recursal em 12/3/2018, contados 15 dias úteis o prazo final foi 4/4/2018, pois não houve expediente no próprio eg. STJ nos dias 28, 29, 30 de março, por feriado de semana santa, conforme consta no calendário anexo" (fl. 276).
+Afirma que no próprio STJ os dias que antecedem à sexta-feira santa são feriados, discorre acerca da matéria de fundo devolvida no recurso especial e requer a reconsideração da decisão agravada ou a submissão do recurso ao colegiado.
+Pautado o agravo na sessão presencial de 10/9/2019 e na sessão virtual de 24/11/2020 a 30/11/2020, o recurso foi delas retirado pelo Ministro Napoleão Nunes Maia Filho.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO. PROVIMENTO NEGADO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+2. A modulação da tese firmada por ocasião do julgamento do REsp 1.813.684/SP pela Corte Especial é restrita ao feriado de segunda-feira de carnaval, não se aplicando aos demais feriados locais, inclusive aos dias que antecedem a sexta-feira santa.
+3. A parte agravante foi intimada da decisão de inadmissão do seu recurso especial em 9/3/2018. A contagem do prazo recursal, em razão disso, teve início em 12/3/2018 e finalizou em 2/4/2018; todavia, o recurso somente foi interposto em 4/4/2018, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso conforme disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não há, nas razões recursais, argumentação suficiente para alterar a conclusão do julgado.
+A parte agravante foi intimada da decisão de inadmissão do seu recurso especial em 9/3/2018. A contagem do prazo recursal, em razão disso, teve início em 12/3/2018 e finalizou em 2/4/2018; todavia, o recurso somente foi interposto em 4/4/2018, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso conforme disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+Diante da ausência de juntada do comprovante de suspensão do expediente forense referente aos dias considerados como feriado local, no ato da interposição do recurso, e não se tratando de segunda-feira de carnaval, não é admitida a comprovação posterior, não havendo como ser afastada a sua intempestividade.
+Nesse sentido:
+QUESTÃO DE ORDEM. CONTRADIÇÃO ENTRE NOTAS TAQUIGRÁFICAS E VOTO ELABORADO PELO RELATOR PARA ACÓRDÃO. PREVALÊNCIA DAS NOTAS TAQUIGRÁFICAS, QUE REFLETEM A MANIFESTAÇÃO DO COLEGIADO. SESSÕES DE JULGAMENTO DO RESP 1.813.684/SP. LIMITAÇÃO DO DEBATE E DA DELIBERAÇÃO À POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR ACERCA DO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL, DIANTE DAS PECULIARIDADES QUE MODIFICARIAM A SUA NATUREZA JURÍDICA. VOTO DO RELATOR PARA ACÓRDÃO QUE ABRANGE MAIS DO QUE A MATÉRIA DECIDIDA COLEGIADAMENTE, ESTENDENDO O REFERIDO ENTENDIMENTO TAMBÉM AOS DEMAIS FERIADOS. REDUÇÃO DA ABRANGÊNCIA EM QUESTÃO DE ORDEM. POSSIBILIDADE.
+1- O propósito da presente questão de ordem é definir, diante da contradição entre as notas taquigráficas e o acórdão publicado no DJe de 18/11/2019, se a modulação de efeitos deliberada na sessão de julgamento do recurso especial, ocasião em que se permitiu a posterior comprovação da tempestividade de recursos dirigidos a esta Corte, abrange especificamente o feriado da segunda-feira de carnaval ou se diz respeito a todos e quaisquer feriados.
+2- Havendo contradição entre as notas taquigráficas e o voto elaborado pelo relator, deverão prevalecer as notas, pois refletem a convicção manifestada pelo órgão colegiado que apreciou a controvérsia. Precedentes.
+3- Consoante revelam as notas taquigráficas, os debates estabelecidos no âmbito da Corte Especial, bem como a sua respectiva deliberação colegiada nas sessões de julgamento realizadas em 21/08/2019 e 02/10/2019, limitaram-se exclusivamente à possibilidade, ou não, de comprovação posterior do feriado da segunda-feira de carnaval, motivada por circunstâncias excepcionais que modificariam a sua natureza jurídica de feriado local para feriado nacional notório.
+4- Tendo o relator interpretado que a tese firmada por ocasião do julgamento colegiado do recurso especial também permitiria a comprovação posterior de todo e qualquer feriado, é admissível, em questão de ordem, reduzir a abrangência do acórdão.
+5- Questão de ordem resolvida no sentido de reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp n. 1.813.684/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 3/2/2020, DJe de 28/2/2020.)
+O fato de a quarta-feira e a quinta-feira anteriores à sexta-feira santa serem feriados para o Superior Tribunal de Justiça não afasta a necessidade de a parte comprovar que na Justiça estadual, nos dias que antecedem o feriado nacional, também não há expediente forense.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
