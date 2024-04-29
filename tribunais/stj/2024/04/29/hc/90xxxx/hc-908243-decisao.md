@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de JOSE ARTUR DE BARROS LIMA, em que se aponta como ato coator a decisão monocrática de desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que denegou o pedido de liminar formulado no HC n. 0016666-57.2024.8.17.9000.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 333 do Código Penal.
+Sustentam os impetrantes a nulidade da prisão em flagrante, tendo em vista que não restou configurada nenhuma das hipóteses previstas no art. 302 do Código de Processo Penal. Argumentam que "é perceptível a inexistência do flagrante impróprio, tendo em vista que não houve perseguição ininterrupta iniciada logo após o suposto cometimento do crime, além de o registro da ocorrência somente ter sido realizado na noite do dia seguinte aos fatos" (fl. 9). Aduzem que "o paciente foi detido somente no dia seguinte, após os fatos, em virtude das diligências investigativas realizadas pela autoridade policial, sendo certo que não foi encontrado nenhum objeto ou instrumento que o relacionasse à prática delitiva", razão pela qual o Ministério Público requereu o relaxamento da prisão (fl. 10). Alegam que, "ainda que a autoridade policial tenha representado pela conversão da prisão em flagrante para a prisão preventiva, deve-se lembrar que a capacidade postulatória em relação à segregação cautelar cabe, na esfera criminal, exclusivamente ao Ministério Público, na condição de titular da ação penal" (fl. 14). Arguem que foi desconsiderado o disposto no art. 282, § 6º, do CPP, tendo em vista que deixaram de ser explicitados os motivos que levaram à não aplicação das medidas cautelares alternativas à prisão.
+Requerem, assim, liminarmente e no mérito, o relaxamento da prisão cautelar ou sua revogação, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Compulsando os autos, verifica-se que o decreto de prisão preventiva invoca fatos que, em um juízo preliminar, podem indicar a necessidade da custódia para a conveniência da instrução criminal, conforme de depreende do seguinte trecho do decreto (fl. 133):
+O delegado de polícia representou pela prisão preventiva do flagranteado, mencionando o risco de reiteração criminosa, já que há indícios de que a prática da corrupção possa ser reiterada.
+Há indícios, pela leitura do APFD, da existência, também, de organização criminosa (o próprio Secretário da Fazenda mencionou a existência de um comitê da cervejaria, que tem cadeia de comando) para fins de obtenção de vantagens para a marca a qual o autuado representa, Cerveja Império, que é empresa com atuação nacional.
+Dessa forma, entendo que, neste momento das investigações, a prisão preventiva é necessária para a garantia da ordem pública e para o resguardo da colheita de provas, posto que o autuado representava uma empresa que, repita-se, tem cadeia de comando. Além disso, é necessário o resguardo da preventiva para que as provas documentais existentes não sejam destruídas, de onde o dinheiro destinado à Corrupção veio, se proveniente ou não de delito de lavagem de dinheiro. A ordem pública também deve ser resguardada, diante da mácula a que se tentou fazer ao Governo do Estado de Pernambuco, o que abalou a ordem pública e a ordem econômica, na medida em que se buscava a consecução de vantagens de isenção de impostos ao arrepio da lei.
+Quanto à alegação de que a prisão foi decretada ex officio, não há teratologia, pois a decretação da prisão preventiva foi precedida de representação da autoridade policial, nos termos do art. 311 do CPP (fl. 28).
+Quanto ao mais, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
