@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  MEDIDA CAUTELAR.  TUTELA  DE  URGÊNCIA.  DEFERIMENTO.  SÚMULA  Nº  735/STF.  MATÉRIA  FÁTICO-PROBATÓRIA.  REEXAME.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  O  Superior  Tribunal  de  Justiça  entende  que,  em  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela ,  em  virtude  da  natureza  precária  da  decisão,  sujeita  à  modificação  a  qualquer  tempo  (Súmula  nº  735/STF).
+2.  No  caso,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MAURÍCIO STRINA  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  ( e-STJ fls.  335/337).
+Em  suas  razões,  o  agravante  postula  a  reforma  da  decisão  atacada,  argumentando,  em  síntese,  não  ser  o  caso  de  aplicação  da  Súmula  nº  735/STF , visto que a discussão dos autos possui excepcionalidade que autoriza o exame da questão.
+Afirma  que:
+"(..)
+Ademais, vale registrar que não se trata de uma tutela de urgência, mas sim uma "complementação" não justificada! Até porque o entendimento sedimentado é a de que a tutelas provisórias de urgência (ainda mais em complementação) não devem ser concedidas antes da oitiva da parte contrária. Registra-se que, conforme restou consignado nos autos, não havia qualquer motivo para justificar uma adoção de atos constritivos surpresas"  ( e-STJ fl.  345 ).
+Sustenta, ainda, que houve o devido prequestionamento da matéria.
+Apresentada impugnação às  e-STJ fls. 362/381.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  MEDIDA CAUTELAR.  TUTELA  DE  URGÊNCIA.  DEFERIMENTO.  SÚMULA  Nº  735/STF.  MATÉRIA  FÁTICO-PROBATÓRIA.  REEXAME.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  O  Superior  Tribunal  de  Justiça  entende  que,  em  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela ,  em  virtude  da  natureza  precária  da  decisão,  sujeita  à  modificação  a  qualquer  tempo  (Súmula  nº  735/STF).
+2.  No  caso,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Cuida-se,  na  origem,  de  agravo  de  instrumento  interposto  contra  a  decisão  que  deferiu a  tutela  de  urgência  pleiteada
+ "(..) para determinar a pesquisa de veículos em nome do agravante via Renajud e, caso localizados, o bloqueio deles, assim como a transferência de ativos bloqueados, correspondentes às ações da XP Investimento em dinheiro, para conta judicial" ( e-STJ fl. 247).
+No  caso,  o  tribunal  de  origem,  ao  analisar  as  circunstâncias  contidas  nos  autos  e  o  conjunto  fático-probatório  produzido,  concluiu  que  foram  preenchidos  os  requisitos  para  a  concessão  da  tutela  de  urgência,  conforme  se  verifica  no  trecho  do  acórdão  a  seguir  transcrito:
+"(..)
+Entendendo haver relevante suspeita de que o agravante movimentou vultosa quantia da conta de titularidade da agravada sem sua efetiva autorização, valendo-se de procuração cuja nulidade é sustentada na ação de origem, o juízo havia determinado, através de tutela de urgência, o bloqueio de ativos financeiros até o limite de R$ 634.300,00.
+Havia determinado, ainda, a suspensão dos efeitos da procuração, de que se valera o agravante também para alienar imóveis da agravada, inclusive para si, reconhecida a gravidade dos fatos demonstrados sumariamente, "sobretudo no que diz respeito à alegação da autora de que não recebeu nenhuma quantia com relação aos imóveis, embora as parcelas do preço previstas nos contratos impugnados já se tenham vencido" (fl s. 233/238 dos autos de origem). Por isso, restou ordenado, outrossim, o bloqueio das matrículas dos imóveis (fls. 199 dos autos de origem).
+Providenciado o bloqueio dos ativos, mostraram-se insuficientes os valores encontrados para cobrir a importância subtraída, como esclarecido na decisão agravada (fls. 190 Item IV.4), motivo por que o juízo autorizou o bloqueio de veículos em nome do agravante e determinou a transferência de ativos de ações da XP para a conta judicial do processo.
+O fato de os mesmos ativos terem sido alvos da execução de alimentos não impede que o sejam nos autos da ação ordinária, desta feita para a garantia da utilidade do processo, certo que parte deles remanesceu, conforme se extrai da leitura da decisão agravada (fls. 190 Item IV.5).
+Nesse quadro, já reconhecidos o grau de probabilidade do direito da agravada e a necessidade de preservar o resultado útil do processo (Agravo de Instrumento nº 2287652-42.2020.8.26.0000), as medidas impugnadas pelo agravante nada mais que constituem extensão da tutela de urgência deferida anteriormente para garantir a reparação pretendida, nos termos do art. 301 do CPC.
+Em nada importa a circunstância de os bens e ativos não terem feito parte dos negócios sub judice ou da relação patrimonial inicialmente lançada para garantir a indenização. Mirando futura penhora, o bloqueio judicial, como arresto cautelar, pode recair sobre qualquer bem de titularidade do agente causador do dano.
+Nem se argumente que restou violado o princípio do contraditório.
+Não pode ser guindada à decisão surpresa tutela que visa impedir a dilapidação ou ocultação de patrimônio de requerido já citado. Nesse sentido, a previsão do art. 9º, par. único, do CPC.
+Como se sabe, na apreciação das tutelas de urgência inaudita altera parte o contraditório não é afastado e, sim, apenas diferido, dada a relevância de outros princípios, como o da efetividade da prestação jurisdicional.
+Em suma, tenho que as razões do agravante não convencem do desacerto da decisão, que devem ser mantida por seus próprios fundamentos"  ( e-STJ fls.  248/249  - grifou-se ).
+Desse modo, esta  Corte  Superior  entende  não  ser  cabível  recurso  especial  quanto  à  alegação  de  ofensa  a  dispositivos  de  lei  relacionados  com  a  matéria  de  mérito  da  causa  que,  em  liminar  ou  antecipação  de  tutela,  é  tratada  apenas  sob  juízo  precário  de  mera  verossimilhança,
+ "(..) porquanto  tal  matéria,  somente  haverá  causa  decidida  em  única ou última instância com  o  julgamento  definitivo,  atraindo, analogicamente,  o  enunciado  da súmula 735  do  STF: "Não cabe recurso extraordinário contra  acórdão  que  defere medida liminar""  (REsp 765.375/MA,  rel.  Ministro  Teori  Albino  Zavascki,  Primeira  Turma,  julgado  em  6/4/2006,  DJ  8/5/2006).
+Ademais,  rever as  conclusões  do  acórdão  no  sentido  de  que  houve  o  atendimento  dos  requisitos  para  a  concessão  da  tutela  de  urgência,  esbarra  no  óbice  da  Súmula  nº  7/STJ,  visto  que  não  cabe  ao  Superior  Tribunal  de  Justiça  reexaminar  as  premissas  de  fato  que  levaram  o  tribunal  de  origem  a  tal  conclusão,  sob  pena  de  usurpar  a  competência  das  instâncias  ordinárias,  a  quem  compete  amplo  juízo  de  cognição  da  lide.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  EMPRESARIAL.  AGRAVO  DE  INSTRUMENTO.  INCIDENTE  DE  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JURÍDICA.  TUTELA  DE  URGÊNCIA.  VIOLAÇÃO  DOS  ARTS.  1.022  E  489,  §  1º,  DO  NCPC.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  OU  ERRO  MATERIAL  NÃO  DEMONSTRADOS.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  E  FALTA  DE  FUNDAMENTAÇÃO  NÃO  CONFIGURADAS.  RECURSO  INTERPOSTO  CONTRA  DECISÃO  LIMINAR/ANTECIPATÓRIA  DE  TUTELA.  SÚMULA  N.º  735  DO  STF.  PRECEDENTES.  PRETENSÃO  RECURSAL  QUE  ENVOLVE  O  REEXAME  DE  PROVAS.  INCIDÊNCIA  DA  SÚMULA  N.º  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+4.  Esta  Corte,  em  sintonia  com  o  disposto  na  Súmula  n.º  735  do  STF  (Não  cabe  recurso  extraordinário  contra  acórdão  que  defere  medida  liminar),  entende  que,  em  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela.  Precedentes.
+5.  A  alteração  das  conclusões  do  acórdão  recorrido  exige  reapreciação  do  acervo  fático-probatório  da  demanda,  o  que  faz  incidir  o  óbice  da  Súmula  n.º  7  do  STJ.
+6.  Agravo  interno  não  provido" (AgInt  no  AREsp  2.245.165/SP,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  29/5/2023,  DJe  de  31/5/2023).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DECISÃO  MONOCRÁTICA  PROFERIDA  NA  FORMA  DO  CPC  E  DO  RISTJ.  FALTA  DE  PREQUESTIONAMENTO  DA  MATÉRIA  VENTILADA  NO  RECURSO  ESPECIAL.  SÚMULAS  N.  211  DO  STJ  E  282  DO  STF.  PREQUESTIONAMENTO  FICTO.  NÃO  OCORRÊNCIA.  AUSÊNCIA  DE  INDICAÇÃO  DE  VIOLAÇÃO  DO  ART.  1.022  DO  CPC.  TUTELA  DE  URGÊNCIA.  SÚMULA  N.  735  DO  STF.  ART.  300  DO  CPC.  REQUISITOS.  NECESSIDADE  DE  REEXAME  DAS  PROVAS  DOS  AUTOS.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  INCIDÊNCIA.  AGRAVO  INTERNO  DESPROVIDO.
+(..)
+4.  Em  razão  da  natureza  precária  da  decisão  que  defere  ou  indefere  liminar  ou  daquela  que  julga  a  antecipação  da  tutela,  é  inadequada  a  interposição  de  recurso  especial  que  tenha  por  objetivo  rediscutir  a  correção  do  mérito  das  referidas  decisões,  por  não  se  tratar  de  pronunciamento  definitivo  do  tribunal  de  origem,  atraindo,  por  analogia,  a  incidência  da  Súmula  n.  735  do  STF.
+5.  O  Superior  Tribunal  de  Justiça,  excepcionalmente,  admite  a  interposição  de  recurso  especial  contra  acórdão  que  decide  sobre  pedido  de  antecipação  da  tutela,  para  tão  somente  discutir  eventual  ofensa  aos  próprios  dispositivos  legais  que  disciplinam  a  matéria  da  tutela  provisória  descrita  no  art.  300  do  CPC.
+6.  Aplica-se  a  Súmula  n.  7  do  STJ  na  hipótese  em  que  o  acolhimento  da  tese  defendida  no  recurso  especial  reclama  a  análise  dos  elementos  probatórios  produzidos  ao  longo  da  demanda.
+7.  Agravo  interno  desprovido" (AgInt  no  REsp  2.032.386/MG,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  26/6/2023,  DJe  de  3/7/2023).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
