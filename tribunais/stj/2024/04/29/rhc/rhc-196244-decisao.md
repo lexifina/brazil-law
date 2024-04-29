@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra o acórdão assim ementado (fls. 136):
+HABEAS CORPUS - HOMICÍDIO NA MODALIDADE TENTADA - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS E PRESSUPOSTOS DOS ARTIGOS 312 E 313 DO CPP - NECESSIDADE DE GARANTIA DA ORDEM - INADEQUAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - RETARDO MENTAL LEVE - IMPOSSIBILIDADE DE TRATAMENTO NO SISTEMA PRISIONAL - NÃO DEMONSTRADO - ORDEM DENEGADA COM DETERMINAÇÃO.
+1 - Não se vislumbra constrangimento ilegal no decreto da prisão preventiva quando a decisão se encontra regularmente fundamentada na presença dos requisitos e pressupostos dos artigos 312 e 313, ambos do CPP.
+2 - A prisão processual é medida de rigor para o resguardo da ordem pública, para a garantia da aplicação da lei penal e por conveniência da instrução processual, sobretudo ao considerar a gravidade dos fatos investigados e a circunstância de o paciente ter permanecido foragido por vinte anos.
+3 - Inviável a substituição da prisão preventiva por medidas cautelares diversas da prisão, previstas no artigo 319 do CPP, quando se revelarem insuficientes.
+4 - Insuficiente para a revogação da prisão ou substituição por cautelares a mera demonstração de ser o Paciente portador de doença mental leve, quando não comprovada a insuficiência de tratamento pelo sistema prisional, devendo o Diretor do Estabelecimento garantir tratamento adequando e, em caso de impossibilidade, comunicar o Juízo competente.
+5 - Ordem denegada, com determinação.
+O recorrente foi preso em flagrante, convertida em prisão preventiva, e denunciado pela prática tentada do crime de homicídio, previsto no art. 121 c.c art. 14, II, ambos do Código Penal.
+Ele argumenta que sem a devida e imprescindível fundamentação não pode prosperar o decreto restritivo de liberdade, haja vista a flagrante violação do preceito contido no art. 93, inc. IX, da Carta Magna, determinando que todas as decisões judiciais sejam fundamentadas, sob pena de nulidade, e, no presente caso, não se procedeu da forma prescrita pela Constituição da República, inexistindo a abordagem de circunstâncias do caso concreto de molde a embasar a medida restritiva de liberdade.
+Portanto, requer que seja o recurso conhecido provido, para conceder o habeas corpus, reformando-se o acórdão e permitindo que aguarde o julgamento do processo em liberdade.
+É o relatório.
+Decido.
+A prisão preventiva foi assim fundamentada (fls. 95-99):
+ ..
+Diante dos elementos constantes nos autos, nesse juízo prévio, existem fortes indícios de que o autuado praticou o crime de homicídio tentado em análise, na medida em que desferiu cinco golpes de faca contra a vítima, consoante se extrai de seu próprio interrogatório e do depoimento testemunhai, sendo, com isso, necessário seu encarceramento cautelar para garantia da ordem pública.
+Nessa senda, a propensão criminosa restou demonstrada pelas circunstâncias em que os fatos se deram, o que permite sacrificar o direito individual do cidadão, em favor do interesse social de garantia da ordem pública, de modo a resguardar a sociedade do risco de que, em liberdade, o agente volte a cometer novos crimes, sobretudo, contra a mesma vítima.
+A segregação cautelar do autuado não infringe o princípio da presunção de inocência, por ter caráter meramente cautelar, e justifica-se, obviamente, pela periculosidade concreta da conduta, haja vista que o delito de homicídio tentado foi supostamente cometido com exacerbada violência, já que o autuado desferiu cinco golpes de faca contra a vítima, fator que merece maior reprovabilidade e rigor no tratamento.
+Portanto, é razoável crer que o perigo gerado pelo estado de liberdade do imputado e a manutenção da ordem pública são motivos suficientes a justificar a medida cautelar, estando presentes, desta forma, os requisitos do art. 312 do CPP.  g.n.
+A prisão preventiva foi decretada para que seja resguardada a ordem pública, haja vista a gravidade concreta do crime, pois o recorrente praticou o crime de homicídio tentado em análise, na medida em que desferiu cinco golpes de faca contra a vítima, consoante se extrai de seu próprio interrogatório e do depoimento testemunhai.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
