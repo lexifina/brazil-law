@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. AUSÊNCIA DE DESPROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+2. Nos autos em exame, considerando a quantidade da substância apreendida, que constitui elemento preponderante a ser considerado na dosimetria da reprimenda, mostra-se suficiente o aumento na pena-base realizado pela instância de origem.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MAICON ROCHA DE SOUSA agrava de decisão em que deneguei a ordem e, por conseguinte, mantive inalterada a reprimenda de 10 anos, 1 mês e 15 dias de reclusão, em regime fechado, mais multa, como incurso no art. 33, caput, da Lei de Drogas.
+No regimental, a defesa insiste na tese de desproporcionalidade do incremento da pena-base. Para tanto, afirma que a quantidade de drogas apreendidas não justifica o aumento em 1/4 da reprimenda.
+Requer, assim, a reconsideração do decisum ou a submissão do feito ao órgão colegiado, para que seja provido o agravo.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. AUSÊNCIA DE DESPROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+2. Nos autos em exame, considerando a quantidade da substância apreendida, que constitui elemento preponderante a ser considerado na dosimetria da reprimenda, mostra-se suficiente o aumento na pena-base realizado pela instância de origem.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso em análise, a instância de origem negativou, na primeira fase da dosimetria, a circunstância judicial da quantidade de entorpecentes e majorou a pena-base em 1/4.
+Assim, conforme esclareci na decisão agravada, por se tratar a dosimetria da pena de matéria restrita ao âmbito de certa discricionariedade do magistrado, deve ser mantida inalterada a pena-base aplicada ao réu, sobretudo porque não constato o apontado constrangimento ilegal. Considero que a quantidade de drogas encontradas - 341kg de maconha - é, de fato, de maior importância e destoa da mera apreensão de entorpecentes ínsita ao delito, sobretudo diante de seu potencial de difusão e suporte ao comércio ilícito.
+Assim, uma vez que foram apontados argumentos idôneos para a fixação da pena-base acima do mínimo legal - em consonância com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+À vista do exposto, nego provimento ao agravo regimental.
