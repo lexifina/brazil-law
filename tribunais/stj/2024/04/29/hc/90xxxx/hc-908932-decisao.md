@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de LEONCIO FERREIRA PORTES apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 0100712-74.2023.8.16.0000).
+Foi o paciente denunciado pela suposta prática das condutas descritas nos arts. 35 da Lei n. 11.343/2006, c/c o art. 62, inciso I, do Código Penal (fato 2), e art. 33, caput, da Lei n. 11.343/2006 (fato 5), consoante exordial acusatória consubstanciada na sequência 125.1 dos autos, da denominada Operação Coyote 3.
+Em suas razões, sustenta a defesa "que o acusado ora paciente se encontra privado de sua liberdade por custódia preventiva pelo manifesto excesso de prazo para a formação da culpa, preso a (2 ano, 10 meses e 10 dias (1045dias)), sem data prevista para fim da instrução criminal ainda com diversas diligencia pendentes, e repita-se diligências estás que foram atribuída pela defesa do paciente Leôncio, sendo notório e inequívoco o excesso de prazo da medida extrema, oportuno destacar que de maneira alguma tal excesso pode ser imputado à defesa do paciente, oportuno consignar que a prisão preventiva viola de sobremaneira a proporcionalidade e razoabilidade" (e-STJ fl. 5).
+Ressalta "que os argumentos para a medida preventiva contra o acusado não estão mais presentes, uma vez que a instrução processual já chegou ao fim, tendo se encerrada a colheitas das provas orais em 28/09/2023, isto é, a mais de 06 (seis) meses e sequer o processo foi pra alegações finais, estando ainda pendentes diversas diligencias" (e-STJ fl. 6).
+Diante dessas considerações, pede (e-STJ fl. 30):
+a) A concessão de liminar para relaxar a prisão do paciente LEONCIO FERREIRA PORTES, diante constrangimento ilegal, pelo excesso de prazo na formação da culpa, nos termos da fundamentação apresentada;
+b) Seja colhido o parecer da ilustrada e Douta Procuradoria Geral da república, dentro do prazo legal;
+c) No mérito, seja concedida em definitivo a ordem de habeas corpus, garantindo-se ao Paciente o direito de aguardar em liberdade em face do manifesto excesso de prazo o desfecho da presente persecutio criminis até seus ulteriores termos.
+d) Ou alternativamente: em caso de Vossa Excelência não relaxar a prisão então requer diante do exposto, alteradas as circunstâncias que motivaram o decreto de prisão, pelos motivos acima delineados, requer-se a REVOGAÇÃO DA PRISÃO PREVENTIVA anteriormente decretada, com fulcro no artigo 316, caput, do Código de Processo Penal, e, com fundamento no artigo 321 e artigo 282, § 2º, do Código de Processo Penal, a aplicação das seguintes MEDIDAS CAUTELARES DIVERSAS DA PRISÃO ao paciente LEONCIO FERREIRA PORTES, com comparecimento mensal e periódico em Juízo para informar e justificar suas atividades (art. 319, I, CPP), proibição de se ausentar da Comarca por período superior a 07 (sete) dias sem prévia autorização do Juízo (art. 319, IV, CPP), recolhimento domiciliar no período noturno, no período compreendido entre 20h00m e 05h00m do dia seguinte e nos dias de folga (art. 319, V, CPP) e monitoração eletrônica (art. 319, IX, CPP), são medidas proporcionais, adequadas e necessárias no presente caso;
+e) Havendo qualquer impedimento ao conhecimento e apreciação do presente writ, pleiteia-se a concessão de habeas corpus de ofício, nos termos do art. 654, §2º, do Código de Processo Penal.
+É o relatório.
+Decido.
+Consoante se observa dos autos, o Tribunal de Justiça não conheceu da impetração originária, tendo em vista trata-se de repetição dos argumentos anteriormente lançados pela defesa nos a utos n. 0084744-04.2023.8.16.0000. Desse modo, evidente que a tese de excesso de prazo, nos moldes em que postulada, não foi debatida pela instância de origem, o que impede sua análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
