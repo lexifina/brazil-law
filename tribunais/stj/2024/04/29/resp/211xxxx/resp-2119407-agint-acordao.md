@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DE IMAGEM. ÁLBUM DE FIGURINHAS. SUSPENSÃO DO FEITO. RITO DOS RECURSOS REPETITIVOS. NÃO CABIMENTO. INDICAÇÃO DOS RECURSOS REPRESENTATIVOS REJEITADA. CONTROVÉRSIA N. 476 DO STJ. DISCUSSÃO A RESPEITO DA PRESCRIÇÃO. INOVAÇÃO RECURSAL. NÃO CABIMENTO. USO DE IMAGEM. AUSÊNCIA DE AUTORIZAÇÃO. SÚMULA N. 403 DO STJ. INDENIZAÇÃO DEVIDA. ENTENDIMENTO DA CORTE LOCAL EM CONSONÂNCIA COM A JURISPRUDENCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Rejeitada a indicação de recurso especial selecionado como representativo de controvérsia pelo relator, os processos suspensos em todo o território nacional retomarão seu curso normal, nos termos do art. 256-E, I, e 256-F, § 4º, do RISTJ.
+2. Os pedidos não formulados no recurso especial ou nas suas contrarrazões e, portanto, não apreciados na decisão que o julgou não são passíveis de conhecimento em agravo interno, em razão da indevida inovação recursal.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+5. Agravo interno desprovido.
+RELATÓRIO
+PANINI BRASIL LTDA. interpõe agravo interno contra a decisão de fls. 627-631, que não conheceu do recurso especial em razão da incidência da Súmula n. 7 do STJ.
+A parte agravante argumenta, preliminarmente, que a questão discutida no presente caso possui similaridade com a matéria tratada nos Recursos Especiais n. 2.011.252/SP e 2.011.265/SP, devendo o julgamento deste processo ser suspenso até a definição final dos referidos recursos, que aguardam a afetação ao regime dos recursos repetitivos.
+No mérito, reitera os argumentos apresentados no recurso especial e defende não ser aplicável ao caso a Súmula n. 7 do STJ no que concerne ao conteúdo do material produzido e à necessidade de autorização expressa para uso de imagem, uma vez que busca apenas a adequada valoração das provas.
+Por fim, alega que o direito do agravado está prescrito e que, por se tratar de matéria de ordem pública, o conhecimento pode ser de ofício. Sustenta que o termo inicial da fluência do prazo recursal é a data em que publicado o livro ilustrado controvertido, quando teria ocorrido a suposta lesão ao direito do agravado, sendo irrelevantes o fato de continuar a ser comercializado e a data em que o agravado dele tomou conhecimento, conforme a jurisprudência desta Corte.
+Requer, assim, o provimento do presente recurso.
+Impugnação às fls. 649-661.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DE IMAGEM. ÁLBUM DE FIGURINHAS. SUSPENSÃO DO FEITO. RITO DOS RECURSOS REPETITIVOS. NÃO CABIMENTO. INDICAÇÃO DOS RECURSOS REPRESENTATIVOS REJEITADA. CONTROVÉRSIA N. 476 DO STJ. DISCUSSÃO A RESPEITO DA PRESCRIÇÃO. INOVAÇÃO RECURSAL. NÃO CABIMENTO. USO DE IMAGEM. AUSÊNCIA DE AUTORIZAÇÃO. SÚMULA N. 403 DO STJ. INDENIZAÇÃO DEVIDA. ENTENDIMENTO DA CORTE LOCAL EM CONSONÂNCIA COM A JURISPRUDENCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Rejeitada a indicação de recurso especial selecionado como representativo de controvérsia pelo relator, os processos suspensos em todo o território nacional retomarão seu curso normal, nos termos do art. 256-E, I, e 256-F, § 4º, do RISTJ.
+2. Os pedidos não formulados no recurso especial ou nas suas contrarrazões e, portanto, não apreciados na decisão que o julgou não são passíveis de conhecimento em agravo interno, em razão da indevida inovação recursal.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+5. Agravo interno desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+Inicialmente, em relação ao pedido de sobrestamento deste processo em razão da similaridade com os REsps n. 2.011.252/SP e 2.011.265/SP - que tinham sido selecionados como representativos de controvérsia, candidatos à afetação ao rito dos repetitivos -, registre-se que a Controvérsia n. 476/STJ foi cancelada, tendo a Ministra relatora rejeitado, de forma fundamentada, com base no art. 256-E, I, do RISTJ, a indicação dos recursos especiais representativos da controvérsia. Portanto, incabível a suspensão pleiteada.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente e de maneira consistente, os fundamentos da decisão agravada.
+2. Improcede o pedido de suspensão do processo uma vez que o Tema 937, que tinha como paradigma o REsp 1446213/SP citado pelo agravante, foi cancelado (DJe de 15/05/2017).
+3. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp n. 1.097.465/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2017, DJe de 10/10/2017, destaquei.)
+Quanto à alegada prescrição da ação, verifica-se que em momento algum a matéria foi objeto de discussão, argumento que, só agora, a parte agravante apresenta - ou seja, o de que o termo inicial da fluência do prazo recursal é a data em que publicado o livro ilustrado controvertido -, o que não é admitido em agravo interno, por caracterizar inadmissível inovação.
+Consoante entendimento firmado pelo STJ, "os argumentos apresentados em momento posterior à interposição do recurso especial ou das respectivas contrarrazões não são passíveis de conhecimento por importar em inovação recursal, a qual é considerada indevida em virtude da preclusão consumativa" (AgInt nos EDcl no REsp n. 1.983.737/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2022, DJe de 4/11/2022).
+Registre-se que a jurisprudência do STJ firmou-se no sentido de que mesmo as matérias de ordem pública necessitam do prequestionamento para ser analisadas em recurso especial. Nesse sentido: AgInt no REsp n. 1.758.141/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/5/2019, DJe de 29/5/2019.
+Ademais, conforme exposto na decisão de fls. 627-631, no tocante à alegada violação dos arts. 20 e 21 do Código Civil e à tese de inexistência de ato ilícito, em razão de o livro ilustrado ter conteúdo bibliográfico, histórico e informativo, prescindindo de autorização do uso de imagem de pessoa pública, o entendimento da Corte local está em conformidade com a orientação do STJ, pois, além de "constituir violação ao direito de imagem a utilização de fotografia de jogador em álbum de figurinhas sem sua autorização" (AgInt no AREsp n. 2.253.652/SP, relatora Mini stra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023), nos temos da Súmula n. 403 do STJ, "independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais".
+Assim, o entendimento do Tribunal de origem seguiu a atual jurisprudência do STJ, o que atrai a incidência da Súmula n. 83.
+Além disso, para concluir em sentido contrário à premissa de fato adotada pelo Tribunal de origem, como pretende a parte agravante, seria necessário o reexame do conjunto probatório dos autos, procedimento vedado em recurso especial (Súmula n. 7 do STJ).
+Em igual sentido: "Quanto à alega inexistência de ato ilícito, porquanto o álbum teria conteúdo bibliográfico, histórico e informativo, não havendo necessidade de autorização do uso de imagem de pessoa pública, o seu acolhimento esbarra no óbice da Súmula 7/STJ, uma vez que demandaria nova incursão no conjunto probatório dos autos" (AREsp n. 2.287.662/SP, Ministro Marco Aurélio Bellizze, DJe de 16/3/2023, destaquei).
+Confiram-se ainda estes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. QUEDA DE PASSAGEIRA NO INTERIOR DO ÔNIBUS. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. RESPONSABILIDADE CIVIL OBJETIVA DO TRANSPORTADOR. PRECEDENTES. SÚMULA 83/STJ. IMPOSSIBILIDADE DE REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. 3. TERMO INICIAL. JUROS DE MORA. DATA DA CITAÇÃO. PRECEDENTES. 4. AGRAVO IMPROVIDO.
+ ..
+2.1. A revisão das conclusões estaduais (acerca de estarem presentes os requisitos ensejadores da responsabilidade civil da recorrente) demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+3. A jurisprudência desta Corte é firme no entendimento de que o termo inicial dos juros de mora, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, flui a partir da citação. Precedentes (Súmula n. 568/STJ).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.708.120/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/12/2020, destaquei.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. IMAGEM. ÁLBUM DE FIGURINHAS. PRESCRIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+4. Agravo interno não provido. (AgInt no REsp n. 1.336.872/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2018, DJe de 26/3/2018, destaquei.)
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
