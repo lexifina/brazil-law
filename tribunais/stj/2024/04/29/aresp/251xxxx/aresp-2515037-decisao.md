@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNÍCIPIO DE CUSTÓDIA contra decisão do Tribunal de Justiça do Estado de Pernambuco, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 159):
+EMENTA. APELAÇÕES. MUNICÍPIO DE CUSTÓDIA. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. FALTA DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 119 DO TJPE. INDENIZAÇÃO POR NÃO INSCRIÇÃO NO PASEP. ÔNUS DO ENTE EM PROVAR A QUITAÇÃO DAS VERBAS. APELOS NÃO PROVIDOS. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS E CUSTAS PELAS PARTES. JUROS DA CITAÇÃO PELA SÚMULA 157 DO TJPE. CORREÇÃO DO INADIMPLEMENTO PELA SÚMULA 163 TJPE. DECISÃO UNÂNIME.
+1- A concessão do adicional de insalubridade ao servidor municipal reclama lei específica do ente que o crie, com seus critérios e alíquotas para o pagamento.
+2 - Autora preencheu os requisitos para o recebimento do PASEP no período não cadastrado de forma indenizada.
+3 - É ônus do réu provar os fatos impeditivos, modificativos e extintivos do direito do autor (art. 373, II, do CPC/2015).
+4 - Juros moratórios da citação nos índices da Súmula TJPE 150. Correção monetária do inadimplemento nos índices da Súmula TJPE 163, ou outro índice que o STF fixe no tema 810 em Repercussão Geral, observada a modulação temporal.
+5 - Sucumbência recíproca, honorários advocatícios de 10º/o, e custas processuais de 50% para cada litigante, suspendendo-se a exigibilidade quanto à autora em razão da justiça gratuita. Juros moratórios da citação nos índices da Súmula 150 do TJPE, e a correção monetária, do inadimplemento nos índices da Súmula 163 do TJPE, ou outro índice que o STF venha a fixar no julgamento definitivo do tema 810 da Repercussão Geral, observada a modulação temporal.
+6 - Apelo não provido. Decisão unânime.
+Rejeitados os aclaratórios (e-STJ fls. 198/205).
+No especial obstaculizado, a parte recorrente, além de divergência jurisprudencial, apontou violação do art. 373, I, do CPC/2015, sustentando que a parte adversa não se desincumbira do seu ônus probatório.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Ausente contraminuta (e-STJ fls. 265).
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito, o aresto hostilizado entendeu que " ..  a autora preencheu devidamente os requisitos elencados na lei para o efetivo recebimento do valor relativo ao PASEP, conforme o bojo probatório (fl. 15), sendo patente o seu direito ao recebimento da aludida verba social, do período não cadastrado, consubstanciado em indenização substitutiva ao abono", bem como ser " ..  cabível a indenização substitutiva em virtude da conduta omissiva do ente federativo na inscrição do servidor pública no aludido programa". Destacou, ainda, que, "em relação ao inadimplemento das férias e ao 13º salário caberia ao município apontado como inadimplente, demonstrar nos autos o pagamento dos valores cobrados a título de férias e 13º, a fim de se desincumbir da obrigação" (e-STJ fl. 161).
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Por fim, "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes." (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
