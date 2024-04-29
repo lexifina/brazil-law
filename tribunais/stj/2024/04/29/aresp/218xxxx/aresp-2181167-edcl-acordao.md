@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.INVESTIMENTOS FINANCEIROS RUINOSOS. ATO FRAUDULENTO. PRETENSÃO DE REDIMENSIONAMENTO DA CULPA ENTRE AS PARTES. REEXAME DE PROVAS. SÚMULA N. 7/STJ. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MANAGROW CONSULTORIA ESTRATÉGICA EM FINANÇAS LTDA. contra acórdão da Quarta Turma assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA.INVESTIMENTOS FINANCEIROS RUINOSOS. ATO FRAUDULENTO. PRETENSÃO DE REDIMENSIONAMENTO DA CULPA ENTRE AS PARTES. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n.7/STJ).
+2. Agravo interno a que se nega provimento.
+A embargante alega que o acórdão é omisso, pois não é o caso de aplicação da Súmula 7/STJ. Aduz que, pelos elementos constantes dos acórdão recorrido, é possível aferir que sempre agiu com prudência e diligência. Aponta que a própria embargada teve culpa pelo insucesso do investimento intermediado pela embargante.
+Em sua impugnação, CELIA REGINA SECCHIM SOTTO MAIOR afirma não haver omissão no acórdão embargado, já que a matéria apresentada no agravo interno, que entende ser reedição do teor do recurso especial, versa sobre questão de fato dependente do reexame de prova. Considera que os embargos são protelatórios e pede a aplicação de multa.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.INVESTIMENTOS FINANCEIROS RUINOSOS. ATO FRAUDULENTO. PRETENSÃO DE REDIMENSIONAMENTO DA CULPA ENTRE AS PARTES. REEXAME DE PROVAS. SÚMULA N. 7/STJ. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Não se acolhem os embargos, porquanto não demonstrada nenhuma das hipóteses descritas no art. 1.022 do Código de Processo Civil de 2015.
+O acórdão embargado deixa claro que as alegações feitas no recurso especial não dispensam o reexame de prova. A aplicação da Súmula 7 desta Corte está fundamentada e foi feita transcrição de trecho do acórdão recorrido a fim de demonstrar que a controvérsia apresentada no recurso especial versa sobre fatos.
+Com efeito, a embargante afirma que o insucesso das aplicações financeiras em questão decorrem de culpa da própria embargada. A matéria é de fato e não dispensa o reexame de prova e, sobre ela, o Tribunal de origem constatou ter ocorrido comportamento reprovável da embargante, inclusive por ensejar a realização de negócio nitidamente fraudulento e estranho às suas atividades empresariais. Sobre o tema, e a fim de afastar dúvida a respeito, permita-se fazer, novamente, a transcrição dos seguintes trechos do acórdão recorrido (e-STJ fl. 751):
+Depreende-se dos autos que a autora CELIA REGINA SECCHIM SOTTO MAIOR celebrou instrumento particular de promessa de cessão e aquisição de direitos creditórios com a co-demandada "M. C. CAMARGO ASSESSORIA EM COMÉRCIO EXTERIOR LTDA", em 27 de dezembro de 2012, cuja intermediação teria sido realizada por MANAGROW CONSULTORIA ESTRATÉGICA EM FINANÇAS LTDA, ora co-demandada e apelante.
+(..) Por meio de atenta leitura à narrativa fática deduzida aos autos, pode-se depreender que a recorrente atuava como captadora de recursos para as corrés, atraindo a autora para um negócio com nítido caráter fraudulento.
+(..) Como se depreende do excerto acima transcrito, a recorrente, por auxiliar a respectiva corré na ampliação e estruturação de seus negócios, inevitavelmente, detinha ciência dos meios utilizados por esta para o auferimento de excedente de capital a ser repassado aos seus investidores, nos mesmos métodos descritos à fl. 228, ou seja, oferecia serviços de altíssimo risco sem qualquer ressalva à investidora quanto aos riscos e à real natureza da operação.
+Ressalte-se que, ainda que assim não fosse, tendo a recorrente expedido mensagem eletrônica nos termos acima assinalados tão somente para transparecer conhecimento sobre o negócio e, assim, conquistar a confiança de cliente e possível investidora, o que, frise-se, revelar-se-ia uma forma de atuação completamente reprovável, tem-se que, efetivamente, por descuido ou falta de diligência, procederam à oferta de investimento manifestamente duvidoso à autora, facilmente constatado por meio de breve análise dos termos do negócio jurídico delimitado pela corré "M. C. Camargo".
+Conforme ressaltado pelo D. Magistrado a quo, a promessa de cessão de crédito foge totalmente do usual, vez que o cedente não integra a avença e não há referência de valores, identificação dos devedores, das datas de vencimentos e, tampouco, das garantias ofertadas para salvaguardar o adimplementos dos créditos cedidos.
+A autora se entusiasmou em investir vultosa quantia, por conta da promessa de cessão de créditos não especificados para uma sociedade em conta de participação, constituída exclusivamente para administrar os créditos cedidos, os quais, repisa-se, não se tem a mínima notícia de quais são, bem como haver lucro superior a 25% do investimento no exíguo prazo de um ano.
+(..) No entanto, na espécie, tem-se que a co-demandada não só determina exatamente o montante a ser auferido pela autora ao final da vigência da sociedade em conta de participação, como também prefixa a forma de pagamento do respectivo montante, dividindo-o em parcelas mensais com valores diversos.
+Ora, não é prática incomum do mercado a apresentação de estimativas de rendimentos aos sócios investidores, que sempre restam acompanhadas de ressalvas a respeito dos riscos inerentes ao negócio.
+No caso sub judice, certificou-se à autora exatamente o valor que perceberia ao final do negócio, o que torna no mínimo dubitável que provenha este das atividades empresariais exercidas através da sociedade, dado que, como visto acima, culminaria em inevitável, ainda que reduzida, imprevisibilidade.
+Neste ponto, peço vênia para transcrever trecho elucidativo da r. sentença:
+" ..  o negócio tem aparência, forma e natureza distinta do que declara. Primeiro, estranha-se a natureza da empresa criada para administrar carteira de crédito única. A especificidade do objeto da empresa criada foge do usual.
+Em segundo, admitida como legítima a empresa firmada para finalidade de administrar carteira única de credores, o objeto é bastante estranho. Explico, havendo a cessão do crédito, cabe a empresa que o administra iniciar suas atividades, ou seja, promover o recebimento dos créditos que lhe foram cedidos e distribuir os lucros na forma do que restar convencionado entre os sócios na proporção dos lucros auferidos.
+Contudo, o retorno financeiro dos sócios não está condicionado às atividades da empresa constituída para aquisição dos créditos que supostamente lhes seriam cedidos. Ao contrário, à autora foi prometida a restituição do dinheiro investido, em 11 parcelas iguais e o saldo final, cuja soma importaria na restituição de quantia superior em 25% do numerário investido, sem qualquer vinculação com as atividades societárias. A forma como o negócio foi entabulado se assemelha ao instituto do mútuo."
+Trata-se, portanto, de discussão das premissas fáticas que embasaram o acórdão recorrido, a fim de que se redimensione a culpa que foi atribuída à embargante e sua responsabilidade pelos danos decorrentes do investimento financeiro arriscado e, por fim, ruinoso.
+Por isso foi aplicada ao caso a Súmula 7/STJ.
+Em face do exposto, rejeito os embargos de declaração.
+Deixo de aplicar a multa requerida pela embargada, pois não verifico o inequívoco propósito protelatório dos embargos.
+É como voto.
