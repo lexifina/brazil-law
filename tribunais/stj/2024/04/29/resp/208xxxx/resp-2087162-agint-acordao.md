@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. A alegação genérica de violação à lei federal não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF.
+2. A alteração a data da ciência inequívoca, bem como o termo inicial da prescrição, exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. No que se refere ao alegado cerceamento de defesa, depreende-se dos autos que o conteúdo normativo dos artigos 369 e 370 do CPC/15 não foram objeto de discussão pelo órgão julgador, tampouco foram apresentados embargos de declaração pela insurgente a fim de sanar omissão ou prequestionar a matéria, atraindo o teor das Súmulas 282 e 356 do STF à hipótese.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por MARGARIDA VIEIRA ALVES, contra decisão monocrática de fls. 386-391, e-STJ, da lavra deste signatário, que não conheceu do recurso especial da ora agravante.
+O apelo extremo, interposto com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado (fls. 266, e-STJ):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. MATÉRIA DE ORDEM PÚBLICA. VENDA AD MENSURAM. COMPLEMENTAÇÃO DA ÁREA. PARTES REQUERIDAS QUE NÃO CUMPRIRAM ÔNUS QUELHE INCUMBIAM POR FORÇA DO ARTIGO 373, II, DO CPC. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO CONHECIDO PARCIALMENTE, E NESSA PARTE, DESPROVIDO.1. Em se cuidando de argumentos jurídicos não apresentados oportunamente, constituindo-se em inovação recursal, impõe-se o não conhecimento do recurso.2. Sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. Precedentes do STJ.3. Caso concreto em que comprovado nos autos que a venda ocorreu na modalidade ad mensuram e que a área do imóvel não correspondia à constante no instrumento contratual e não tendo os réus demonstrado a existência de fato impeditivo, modificativo ou extintivo do direito dos autores, nos termos do inciso II, do artigo 373 do CPC/2015, necessária a complementação da área de acordo com o artigo 500 do Código Civil.4. As razões deduzidas pela parte-agravante neste agravo interno não ensejam qualquer modificação na decisão monocrática exarada pelo Relator, sobretudo porquanto nenhum fato novo foi debatido, repetindo tão somente os argumentos já enfrentados.5. Confirmar-se a decisão objurgada, que se mostra correta não merecendo reparos, é medida que se impõe.6. Agravo Interno conhecido parcialmente, e nessa parte desprovido. Decisão Unânime.
+Nas razões do especial (fls. 284-315, e-STJ), o insurgente alega violação aos seguintes dispositivos de lei federal: (i) arts. 201 e 501 do CC, sustentando, em suma, inocorrência de preclusão consumativa no tocante à decadência; (ii) art. 206, §3º, IV e V do CC, argumentando, em síntese, a incidência da prescrição trienal à hipótese dos autos; (iii) arts. 369 e 370 do CPC/15, sob a alegação de cerceamento de defesa ante o indeferimento da produção da prova pericial.
+Após juízo de admissibilidade positivo (fls. 376-380, e-STJ), ascenderam os autos à esta Corte Superior.
+Em decisão monocrática, este relator negou provimento ao reclamo ante a incidência das Súmulas 282, 284 e 356 do STF.
+No presente agravo interno (fls. 395-408, e-STJ), a parte agravante lança argumentos a fim de combater os referidos óbices.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. A alegação genérica de violação à lei federal não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF.
+2. A alteração a data da ciência inequívoca, bem como o termo inicial da prescrição, exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. No que se refere ao alegado cerceamento de defesa, depreende-se dos autos que o conteúdo normativo dos artigos 369 e 370 do CPC/15 não foram objeto de discussão pelo órgão julgador, tampouco foram apresentados embargos de declaração pela insurgente a fim de sanar omissão ou prequestionar a matéria, atraindo o teor das Súmulas 282 e 356 do STF à hipótese.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Conforme pontuado no bojo da decisão recorrida,
+1. Em seu arrazoado, a insurgente sustenta a inocorrência da preclusão consumativa no tocante à decadência, porquanto inexiste inovação recursal quando a matéria não foi tratada em momento anterior.
+Nota-se, contudo, que os dispositivos legais apontados como violados - art. 201 e 501 do CC/2002 - não possuem carga normativa apta a sustentar as teses defendidas no especial, na medida em que disciplinam, respectivamente, as hipóteses de coação em negócios jurídicos e as hipóteses de anulabilidade dos negócios jurídicos.
+Nesse contexto, de rigor a aplicação da Súmula 284/STF à presente questão, dada a deficiência de fundamentação observada no apelo extremo. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO DE CANCELAMENTO DE REGISTRO CREDITÍCIO C/C DANO MORAL. FALTA DE PERTINÊNCIA TEMÁTICA COM A TESE DO ESPECIAL. SÚMULA N. 284/STF. DANO MORAL. VALOR. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O art. 6º, VI, do CDC não possui carga normativa para sustentar o argumento referente ao valor indenizatório, o que impede o conhecimento da insurgência, nos termos da Súmula n. 284/STF.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.117.433/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/10/2022, DJe de 17/10/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. LIMITAÇÃO DOS DESCONTOS A TÍTULO DE PARCELAS DE EMPRÉSTIMOS BANCÁRIOS. POSSIBILIDADE. PEDIDOS DE DANO MORAL E DE DEVOLUÇÃO DOS VALORES JÁ DESCONTADOS JULGADOS IMPROCEDENTES. DISPOSITIVOS LEGAIS SEM CARGA NORMATIVA PARA SUSTENTAR A POSTULAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Os dispositivos indicados como violados não têm aptidão para ensejar a reforma do acórdão recorrido quanto à improcedência de parte dos pedidos, porquanto os arts. 649, IV, do CPC/73, 4º, 6º, V e VI, e 51, IV, do Código de Defesa do Consumidor não têm carga normativa para sustentar o pedido de dano moral, nem a devolução dos valores descontados além do percentual de 30%. Tal situação determina a incidência, por analogia, da Súmula 284 do STF.
+(..)
+(AgInt no REsp 1588500/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+2. A questão atinente à incidência da prescrição trienal, verifico a ausência de interesse recursal, visto que, o ponto foi explicitamente reconhecido pelo Tribunal de origem na fl. 221, in verbis:
+Considerando o referido contexto, deve-se considerar a data em que os autores tiveram conhecimento da diferença do tamanho das áreas, ou seja, 24/03/2014, consoante documento de fl. 30, Id. 8972394, para fins de verificação da prescrição da pretensão autoral, considerando-se os 3 (três) anos estabelecidos no artigo 206, § 3º do Código Civil, a partir do conjunto probatório constante nos autos.
+A questão atinente a alteração do termo inicial da prescrição reconhecido pela instância ordinária, demandaria o revolvimento do conteúdo fático-probatório dos autos, providência vedada pelo óbice da Súmula 7 desta Casa.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO INDENIZATÓRIA. CONTRATO DE SEGURO DE VIDA EM GRUPO. PRESCRIÇÃO. SÚMULA N. 7/STJ.
+1. O Tribunal de origem entendeu que o recorrente teve ciência da incapacidade laboral no laudo pericial produzido na ação previdenciária que visava restabelecer o pagamento do auxílio-doença. Tendo sido a ação proposta mais de um ano após, a ação indenizatória foi declarada prescrita.
+2. Conforme a Súmula n. 278/STJ: "O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral".
+3. Alterar a conclusão do Tribunal de origem a respeito da ciência da incapacidade laborativa e do termo inicial da prescrição implicaria o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.132.674/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDANTE.
+1. Nos termos da jurisprudência deste STJ, o termo inicial do prazo prescricional, nas ações de revisão de contrato bancário, é a data da assinatura do contrato. Precedentes.
+2. A renegociação das dívidas não tem o condão de alterar o termo inicial da prescrição, pois, nos termos da Súmula 286/STJ, a extinção do contrato, pela renegociação ou confissão de dívida, não impede a sua discussão em juízo, o que deve ser postulado dentro do prazo prescricional.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.036.858/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+3. No que se refere ao alegado cerceamento de defesa, depreende-se dos autos que o conteúdo normativo dos artigos 369 e 370 do CPC/15 não foram objeto de discussão pelo órgão julgador, tampouco foram apresentados embargos de declaração pela insurgente a fim de sanar omissão ou prequestionar a matéria, atraindo o teor das Súmulas 282 e 356 do STF à hipótese.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+ ..
+3.1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos das Súmulas 282 e 356 do STF, aplicável por analogia.
+4. Agravo interno desprovido.
+(AgInt no REsp 1877253/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 01/02/2021)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. OBRIGAÇÃO DE FAZER. INVERSÃO DO ÔNUS DA PROVA. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. A comprovação do dissídio jurisprudencial não se dá, de regra, pela simples transcrição de ementas. Além disso, os julgados comparados devem ser provenientes de cortes distintas (Súmula n. 13/STJ).
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1742994/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/02/2021, DJe 11/02/2021)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE IMPENHORABILIDADE. REJEIÇÃO. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. IMPENHORABILIDADE. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A matéria referente aos temas referente aos arts. 1º, 8º, 10 e 369 do NCPC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AREsp 1715639/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)  grifou-se
+Ademais, esta Corte admite o prequestionamento implícito/ficto dos dispositivos tidos por violados, desde que a tese debatida no apelo nobre seja expressamente discutida no Tribunal de origem, o que não ocorreu na hipótese. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. NÃO OCORRÊNCIA DE PREQUESTIONAMENTO IMPLÍCITO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL. SÚMULA N. 284/STF DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. O prequestionamento implícito pressupõe que a Corte local decida a matéria com base no dispositivo legal tido por violado, ainda que não lhe faça menção expressa, o que não ocorreu no presente caso.
+3. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso concreto, o Tribunal analisou a prova dos autos para concluir que haveria sociedade em conta de participação e, portanto, legitimidade dos agravados. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+5. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1535938/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020)  grifou-se
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PREQUESTIONAMENTO IMPLÍCITO NÃO VERIFICADO. 2. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO PROFERIDO PELO TJGO. IMPOSSIBILIDADE.
+INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PRETENSÃO DE APLICAÇÃO DE MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. 4. AGRAVO IMPROVIDO.
+1. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal,
+1.1. O entendimento jurisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida, o que não se verifica no caso.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1694024/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020)  grifou-se
+Na hipótese, inafastável o teor das Súmulas 282 e 356 do STF, ante a ausência de prequestionamento, porquanto o dispositivo apontado como violado não teve o competente juízo de valor aferido, nem foi interpretado pelo órgão julgador.
+De rigor, a manutenção da decisão objurgada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
