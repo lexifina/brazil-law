@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. CONTRIBUIÇÃO PARA O SAT/RAT. MAJORAÇÃO DE ALÍQUOTA. ENQUADRAMENTO MEDIANTE DECRETO. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. Não há na hipótese prestação jurisdicional insuficiente ou incompleta, afastando-se a alegação negativa ao art. 1.022 do CPC/2015.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. Rever o entendimento do Tribunal de origem, para reconhecer que a alíquota de contribuição ao SAT/RAT foi majorada indevidamente demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. Nesse sentido: AgInt no REsp n. 2.040.220/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/4/2023, DJe de 26/4/2023.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 1261):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. CONTRIBUIÇÃO PARA O SAT/RAT. MAJORAÇÃO DE ALÍQUOTA. ENQUADRAMENTO MEDIANTE DECRETO. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante alega que: houve efetiva violação ao art. 1.022 do CPC; propriamente no mérito, é a hipótese de conhecer o recurso especial, afastando os óbices ao conhecimento.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. CONTRIBUIÇÃO PARA O SAT/RAT. MAJORAÇÃO DE ALÍQUOTA. ENQUADRAMENTO MEDIANTE DECRETO. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. Não há na hipótese prestação jurisdicional insuficiente ou incompleta, afastando-se a alegação negativa ao art. 1.022 do CPC/2015.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. Rever o entendimento do Tribunal de origem, para reconhecer que a alíquota de contribuição ao SAT/RAT foi majorada indevidamente demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. Nesse sentido: AgInt no REsp n. 2.040.220/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/4/2023, DJe de 26/4/2023.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. Não há na hipótese prestação jurisdicional insuficiente ou incompleta, afastando-se a alegação negativa ao art. 1.022 do CPC/2015.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 283/STF.
+Ocorre que o recurso especial não apresentou argumentação contra a seguinte fundamentação contida no acórdão recorrido, no sentido de que não compete ao Poder Judiciário substituir-se ao administrador para, ignorando os dados técnicos que devem ser utilizados para apurar o grau de risco de acidentes do trabalho, determinar que seja aplicada a menor alíquota prevista em lei.
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, nos termos da jurisprudência pacífica deste Superior Tribunal de Justiça, impossível rever o entendimento do Tribunal de origem, para reconhecer que a alíquota de contribuição ao SAT/RAT foi majorada indevidamente.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONTRIBUIÇÃO PARA O SAT/RAT . MAJORAÇÃO DE ALÍQUOTA. ENQUADRAMENTO MEDIANTE DECRETO. POSSIBILIDADE. INCONSTITUCIONALIDADE DO DECRETO N. 6.957/2009. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. MAJORAÇÃO DA ALÍQUOTA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça no sentido da legalidade do enquadramento, por decreto, das atividades perigosas desenvolvidas pela empresa, com os respectivos escalonamentos, para fins de fixação da contribuição para o Riscos Ambientais do Trabalho - RAT (antigo Seguro de Acidentes de Trabalho - SAT).
+III - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+V - In casu, rever o entendimento do Tribunal de origem, para reconhecer que a alíquota de contribuição ao SAT/RAT foi majorada indevidamente de 1% para 2%, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+VI - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 2.040.220/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/4/2023, DJe de 26/4/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
