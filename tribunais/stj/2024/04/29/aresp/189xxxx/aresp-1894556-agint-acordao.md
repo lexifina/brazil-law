@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TESES NÃO PREQUESTIONADAS. SÚMULA 211/STJ. PREQUESTIONAMENTO IMPLÍCITO. INEXISTÊNCIA. APLICAÇÃO DAS PENALIDADES DO ART. 523, § 1º, CPC. INTIMAÇÃO DO EXECUTADO. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência da Súmula n. 211 do STJ.
+2. Nos termos da jurisprudência do STJ, para reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC de 2015 e, consequentemente, superar o óbice da Súmula n. 211 do STJ, caberia à parte alegar contrariedade ao art. 1.022 do diploma processual, o que, todavia, não fez.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+CENTRO DE TRANSPLANTE DE MEDULA OSSEA E TERAPIA CELULAR DE BRASILIA LTDA. interpõe agravo interno contra a decisão de fls. 491-493, que negou provimento ao agravo em razão de incidir, na espécie, as Súmulas n. 7 e 211 do STJ.
+Nas razões recursais, a parte agravante alega não ser aplicável à espécie a Súmula 211 do STJ, pois, "ao contrário do consignado pela r. decisão agravada, os artigos da lei federal cuja ofensa se pretende demonstrar foram reiteradamente suscitados pelo Agravante para fins de prequestionamento da matéria" (fl. 506) e "por força do artigo 1.025, do Código de Processo Civil, devem ser considerados incluídos no acórdão os elementos que a Agravante suscitou em seu Agravo de Instrumento e reiterou em sede de Embargos de Declaração, não havendo dúvidas que tal requisito de admissibilidade do Recurso Especial foi devidamente observado" (fl. 510).
+Sustenta a inaplicabilidade da Súmula n. 7 do STJ, uma vez que "a tese de violação ao artigo 523, §1º, do Código de Processo Civil, ao contrário do que consignou a r. decisão agravada, não depende de reexame fático probatório, uma vez que a incidência das penalidades previstas no dispositivo depende somente de simples leitura do acordo entabulado nos autos (ID de origem 42098900)" (fl. 512).
+Requer, assim, caso não haja a reconsideração da decisão, que o agravo interno seja submetido ao colegiado.
+A parte agravada apresentou impugnação à fl. 519.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TESES NÃO PREQUESTIONADAS. SÚMULA 211/STJ. PREQUESTIONAMENTO IMPLÍCITO. INEXISTÊNCIA. APLICAÇÃO DAS PENALIDADES DO ART. 523, § 1º, CPC. INTIMAÇÃO DO EXECUTADO. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência da Súmula n. 211 do STJ.
+2. Nos termos da jurisprudência do STJ, para reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC de 2015 e, consequentemente, superar o óbice da Súmula n. 211 do STJ, caberia à parte alegar contrariedade ao art. 1.022 do diploma processual, o que, todavia, não fez.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Quanto aos arts. 190, caput e parágrafo único, 191, caput e §§ 1º e 2º, e 225 do CPC, verifica-se que os conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem, a despeito da oposição dos embargos de declaração.
+Com efeito, a tese apresentada relativa aos artigos apontados não foram objeto de discussão no acórdão que julgou o recurso de apelação nem naquele que rejeitou os embargos na origem, o que atrai a incidência da Súmula n. 211 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N. 211/STJ. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INADMISSIBILIDADE. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+ ..
+3. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ. Precedentes.4. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC. (AgInt no AREsp n. 2.297.590/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Ressalte-se que o requisito do prequestionamento somente é preenchido quando o tribunal de origem se manifesta acerca da matéria inserta no dispositivo de lei federal apontado como violado, sendo desnecessária a menção explícita a seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+A ausência de debate acerca do tema, a despeito da oposição de embargos declaratórios, e a não apresentação de alegação de ofensa ao art. 1.022 do CPC inviabilizam o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência da Súmula n. 211 do STJ.
+Assim, como a diretriz jurisprudencial do STJ é no sentido da imprescindibilidade do exame na origem das questões suscitadas pela parte na instância especial, é oportuno ressaltar que, para reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC de 2015 e, consequentemente, superar o óbice da Súmula n. 211 do STJ, caberia à parte alegar contrariedade ao art. 1.022 do diploma processual, o que, todavia, não fez.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/15. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM INDENIZATÓRIA. RESPONSABILIDADE SOLIDÁRIA ADVOGADOS. VIOLAÇÃO. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. MANIFESTAÇÃO SOBRE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. INOCORRÊNCIA DO PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO NCPC. NECESSIDADE DE SE APONTAR VIOLAÇÃO DO ART. 1.022 DO NCPC. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este agravo interno ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As matérias contidas nos arts. 513 e 523 do CPC/73, apontados como violados no recurso especial, não foram enfrentadas pelo Tribunal estadual, nem mesmo após a oposição dos embargos de declaração. 2.1. Caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado sobre o tema, o que não ocorreu. Precedentes. Aplicação da Súmula nº 211 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos. 4. Agravo interno não provido. (AgInt no REsp n. 1.814.157/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/5/2022, DJe de 1º/6/2022.)
+A agravante também contesta a incidência da Súmula n. 7 do STJ no tocante à alegada violação do art. 523, § 1º, do CPC.
+O Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, entendeu por inaplicáveis as penalidades do mencionado art. 523, § 1º, do CPC, ante o descumprimento de suas exigências legais pela parte, conforme se verificar do seguinte trecho do acórdão recorrido (fls. 321-322):
+As penalidades do art. 523, § 1º, do Código de Processo Civil, embora previstas na cláusula 6 do acordo, subsomem-se à lei processual e só poderão incidir após a intimação do executado para o pagamento voluntário, como determina o caput do mesmo dispositivo.
+No caso dos autos, não há que se falar em descumprimento do prazo para pagamento voluntário, como estabelece o art. 523, caput, do Código de Processo Civil, porquanto a agravada sequer fora intimada para efetuar o pagamento.
+Não incidem, por enquanto, as penalidades descritas no art. 523, § 1º, do Código de Processo Civil, as quais só terão lugar (assim como as medidas expropriatórias almejadas pelo agravante) se cumpridas, a contento, as exigências do art. 523, caput, e § 1º, do Código de Processo Civil. (sem grifo no original).
+Desse modo, tem-se que a avaliação pretendida pela parte demandaria um necessário revolvimento dos elementos fático-probatórios constantes dos autos. O que encontra óbice na Súmula 7 desta Corte (que veda "a pretensão de simples reexame de prova").
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INTIMAÇÃO. ELETRÔNICA. REGULARIDADE. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ.
+1. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias acerca da regularidade de intimação demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso especial devido à incidência da Súmula nº 7/STJ.
+ ..
+3. Agravo interno não provido. (AgInt no AREsp n. 2.042.239/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Com efeito, não há como alterar o entendimento da Corte de origem senão promovendo profunda incursão no conjunto fático dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Portanto, a agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
