@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PIS/COFINS. CREDITAMENTO NA FORMA DA LEI 12.058/2009. ACÓRDÃO EMBASADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. O Tribunal de origem afastou a pretensão autoral referente ao direito ao creditamento de PIS e COFINS na forma da Lei 12.058/2009 fundamentado na interpretação do art. 195, § 12, da Constituição Federal, o que impede sua revisão nesta instância, sob pena de usurpação de competência do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por GUMZ COMÉRCIO E INDÚSTRIA LTDA contra a decisão de minha relatoria de fls. 425/431.
+A parte agravante alega que o tema referente aos limites da isenção previstos nas Leis 10.637/2002 e 10.833/2003 e da suspensão previstas na Lei 12.058/2009 é de cunho infraconstitucional, o que resulta no conhecimento do recurso especial.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+A parte adversa não apresentou impugnação (fl. 446).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PIS/COFINS. CREDITAMENTO NA FORMA DA LEI 12.058/2009. ACÓRDÃO EMBASADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. O Tribunal de origem afastou a pretensão autoral referente ao direito ao creditamento de PIS e COFINS na forma da Lei 12.058/2009 fundamentado na interpretação do art. 195, § 12, da Constituição Federal, o que impede sua revisão nesta instância, sob pena de usurpação de competência do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+VOTO
+Verifico que o agravo interno não trouxe argumentos novos capazes de alterar a decisão anteriormente proferida.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem afastou a pretensão autoral fundamentado na interpretação do art. 195, § 12, da Constituição Federal, nestes termos:
+PIS e COFINS - Regime não cumulativo
+O art. 195, § 12, da CF, atribuiu status constitucional a não cumulatividade de PIS e COFINS, mas não adotou as mesmas normas e princípios do IPI e do ICMS.
+Com efeito, o único mandamento imposto no § 12 do art. 195 é a determinação para que o legislador infraconstitucional defina os setores da atividade econômica em relação aos quais a cobrança será não cumulativa. Resta evidente que não houve qualquer imposição ou vedação a outro modo de cobrança de PIS e COFINS, conferindo-se ampla liberdade ao legislador para tornar eficaz a norma constitucional. Eis a redação do dispositivo constitucional:
+Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:
+I - do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre:
+b) a receita ou o faturamento;
+IV - do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.(Incluído pela Emenda Constitucional nº 42, de 19.12.2003)
+§ 12. A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos I, b; e IV do caput, serão não cumulativas.
+As Leis nº 10.637/2002 e 10.833/2003, que instituíram a sistemática de recolhimento não cumulativo de PIS e COFINS, foram editadas antes da Emenda Constitucional nº 42/2003. Então, não há falar em inconstitucionalidade desses diplomas legais, uma vez que não regulamentam o disposto no § 12 do art. 195.
+O regime constitucional da não cumulatividade de PIS e COFINS, à míngua de regramento infraconstitucional, serve, no máximo, como objetivo a ser atingido pela legislação então existente. Não é apropriado como parâmetro interpretativo, visto que a EC nº42/2003 descurou de estabelecer qualquer perfil ao regime não cumulativo dessas contribuições. Por conseguinte, a expressão "não cumulativas" constitui uma diretriz destituída de conteúdo normativo, ou seja, não é um princípio nem uma regra.
+Além disso, não há paralelo entre o regime não cumulativo de IPI/ICMS e o de PIS/COFINS, justamente porque os fatos tributários que os originam são completamente distintos.
+O IPI e o ICMS incidem sobre as operações com produtos industrializados e a circulação de bens e serviços em inúmeras etapas da cadeia econômica; a não cumulatividade visa evitar o efeito cascata da tributação, por meio da técnica de compensação de débitos com créditos.
+Já o PIS e a COFINS incidem sobre a totalidade das receitas auferidas, não havendo semelhança com a circulação característica de IPI e ICMS, em que existem várias operações em uma cadeia produtiva ou circulatória de bens e serviços.
+Assim, a técnica empregada para concretizar a não cumulatividade de PIS e COFINS se dá mediante redução da base de cálculo, com a dedução de créditos relativos às contribuições que foram recolhidas sobre bens ou serviços objeto de faturamento em momento anterior.
+Lei 12.058/2009 - creditamento - norma especial
+O art. 3º das Leis nº 10.637/2002 e 10.833/2003 estabelecem as hipóteses de creditamento para efeito de dedução dos valores da base de cálculo do PIS e da COFINS, prevendo, inclusive, exceções, tudo, como já se viu, de acordo com o que autoriza o artigo195, § 12, da Constituição.
+Transcrevo, abaixo, o "caput" e o parágrafo 2º do artigo 3º das Leis 10.833/03 e10.637/02, pertinentes à presente lide:
+Art. 3o Do valor apurado na forma do art. 2o a pessoa jurídica poderá descontar créditos calculados em relação a:
+(..)
+§ 2o Não dará direito a crédito o valor: (Redação dada pela Lei nº 10.865, de 2004)
+I - de mão-de-obra paga a pessoa física; e (Incluído pela Lei nº 10.865, de 2004)
+II - da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição. (Incluído pela Lei nº 10.865, de 2004)
+Assim, não é possível o creditamento relativamente à aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota zero, isentos ou não alcançados pela contribuição. (Incluído pela Lei nº 10.865, de 2004). Contudo, segundo a Impetrante, no seu caso, adquire bens com isenção mas os revende com a incidência das contribuições, o que lhe viabilizaria sujeitar-se ao regime geral, com direito ao creditamento, em valor integral.
+Posteriormente, adveio a Lei 12.058/2009, cujo artigo 32, II, assim dispunha:
+Art. 32. Fica suspenso o pagamento da Contribuição para o PIS/Pasep e da Cofins incidente sobre a receita bruta da venda, no mercado interno, de: (Produção de efeito)
+(..)
+II - produtos classificados nas posições 02.01, 02.02, 0206.10.00, 0206.20, 0206.21,0206.29, 0210.20.00, 0506.90.00, 0510.00.10 e 1502.00.1 da NCM, quando efetuada por pessoa jurídica que revenda tais produtos ou que industrialize bens e produtos classificados nas posições 01.02, 02.01 e 02.02 da NCM. (Redação dada pela Lei nº 12.431, de 2011).(Revogado pela Medida Provisória nº 609, de 2013) (Revogado pela Lei nº 12.839, de 2013)
+De se notar que o inciso II encontra-se revogado, sendo, contudo, necessária entrega de jurisdição relativamente ao período em que vigia. Continuando, para a hipótese da suspensão disciplinada pelo dispositivo acima transcrito, o artigo 34, do mesmo diploma legal, previu caso particular de creditamento, nos seguintes termos:
+Art. 34. A pessoa jurídica, tributada com base no lucro real, que adquirir para industrialização ou revenda mercadorias com a suspensão do pagamento da contribuição para o PIS/Pasep e da Cofins prevista no inciso II do art. 32, poderá descontar da Contribuição para o PIS/Pasep e da Cofins, devidas em cada período de apuração, crédito presumido, determinado mediante a aplicação, sobre o valor das aquisições, de percentual correspondente a 40% (quarenta por cento) das alíquotas previstas no caput do art. 2º da Lei nº 10.637, de 30 de dezembro de 2002, e no caput do art. 2º da Lei nº 10.833, de 29 de dezembro de 2003. (Redação dada pela Lei nº 12.350, de 2010)
+Segundo a Impetrante, a forma de creditamento oferecida pela Lei 12.058/2009,seria inconstitucional, ao tempo em que não estaria sendo observada a não cumulatividade para a PIS e a COFINS, prevista na Constituição. Contudo, como já visto acima, o regime da não cumulatividade para a PIS e a COFINS não é equiparável ao regime do IPI, além de se tratar, apenas, de um objetivo a ser alcançado, o que poderá depender, ainda, do tipo de atividade a ser disciplinada.
+Logo, não procede a alegada inconstitucionalidade do artigo 34 da Lei 12.058/2009 (fls. 227/229).
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da Constituição Federal.
+Em caso análogo, esta foi a decisão da Primeira Turma:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. PRINCÍPIO DA NÃO CUMULATIVIDADE. DISCUSSÃO DE NATUREZA CONSTITUCIONAL.
+1. Apresentada a controvérsia e dirimida no Tribunal de origem a partir de um enfoque constitucional da matéria, a análise do recurso especial se apresenta inviável, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.562.670/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/9/2017, DJe de 10/11/2017.)
+Apenas a título de complementação, observo que o acórdão de origem seguiu a orientação firmada pela Segunda Turma desta Corte Superior no sentido de que, ante a suspensão do pagamento da contribuição ao PIS e da COFINS prevista no art. 32, II, da Lei 12.058/2009, as aquisições de carne bovina encontram-se desoneradas e, consequentemente, não geram, para a pessoa jurídica que as adquire, os créditos próprios do regime não-cumulativo, previstos no art. 3º da Lei 10.637/2002 e no art. 3º da Lei 10.833/2003.
+A esse respeito, convém a transcrição do seguinte julgado:
+TRIBUTÁRIO. CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO-CUMULATIVAS. BENS NÃO SUJEITOS AO PAGAMENTO DAS CONTRIBUIÇÕES. IMPOSSIBILIDADE DE CREDITAMENTO NA FORMA DOS ARTS. 3º, §2º, II, DA LEI N. 10.833/2003 E DA LEI N. 10.637/2002. DIFERENÇA ENTRE "ISENÇÃO" E "SUSPENSÃO DO PAGAMENTO". INCIDÊNCIA EXCLUSIVA DO CRÉDITO PRESUMIDO INSTITUÍDO PELO ART. 34 DA LEI N. 12.058/2009 E PELO ART. 56, DA LEI N. 12.350/2010.
+1. As aquisições de carne bovina, de frango e suína para revenda feitas pela recorrente de frigoríficos/revendedores atacadistas não se submetem a qualquer isenção, mas sim estão sob a égide de suspensão do pagamento do PIS e da COFINS, suspensão esta prevista no artigo 32 da Lei 12.058/2009, e 54 da Lei 12.350/2010.
+2. À toda evidência, "isenção" e "suspensão do pagamento" são institutos completamente diversos. A "isenção" é situação de não-incidência da norma tributária provocada por lei. A isenção impede a ocorrência do fato gerador porque tira da hipótese de incidência da norma tributária um dado suporte fático pontualmente escolhido (dever ser) o que impossibilita a incidência da norma sobre um dado fato (ser) que por isso deixa de ser fato imponível. Já a "suspensão do pagamento" opera em momento diverso. Somente há que se falar em pagamento (e, por consequência, em sua suspensão) se houver a incidência da norma tributária (hipótese de incidência  fato imponível = fato gerador), o surgimento da obrigação tributária e a possibilidade de constituição do crédito tributário, situações que a isenção já exclui de antemão.
+3. Sendo assim, os arts. 3º, §2º, II, da Lei n. 10.833/2003 e da Lei n. 10.637/2002, que permitem o creditamento por aquisições isentas, não amparam o pleito da recorrente. Em verdade, ela adquire bens não sujeitos ao pagamento da contribuição, para os quais a regra dos mesmos arts. 3º, §2º, II, da Lei n. 10.833/2003 e da Lei n. 10.637/2002, em sua parte inicial, é a de não permitir o creditamento.
+4. Desse modo, se os bens que adquire não dão direito ao creditamento pela regra da não-cumulatividade prevista nas Leis ns. 10.637/2002 e 10.833/2003, qualquer creditamento que possa ter somente poderia vir a título de benefício fiscal. Tal foi o que ocorreu com o advento dos arts. 34 da Lei 12.058/2009 e 56 da Lei 12.350/2010 que lhe concederam o favor do crédito presumido.
+5. Recurso especial não provido.
+(REsp n. 1.438.607/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 1/12/2015, DJe de 9/12/2015.)
+Não há censura a se fazer à decisão que não conheceu do recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
