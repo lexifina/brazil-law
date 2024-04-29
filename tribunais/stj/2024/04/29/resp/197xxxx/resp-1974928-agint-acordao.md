@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. TÍTULO EXECUTIVO. FALTA DE IDENTIFICAÇÃO DAS TESTEMUNHAS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. FALSIDADE DO DOCUMENTO ARGUIDA PELO EXECUTADO. RELEVÂNCIA. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, do fundamento autônomo do aresto recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles ".
+2. Nos termos da jurisprudência, "a falta de identificação das testemunhas que subscrevem o título executivo não o torna nulo, somente sendo relevante essa circunstância se o executado aponta falsidade do documento ou da declaração nele contida" (REsp 137.824/SP, Relator Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, julgado em 31/8/1999, DJ de 11/10/1999, p. 73).
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por TADEU TIAGO WEILER, inconformado com a decisão de fls. 281/284, que negou provimento ao recurso especial.
+Em suas razões, o agravante afirma que: (a) o fundamento relacionado às assinaturas das testemunhas foi objeto das razões de recurso especial, não havendo que se falar em incidência da Súmula 283/STF; (b) o art. 784, III, do CPC/2015 assegura a executividade aos títulos assinados por duas testemunhas; e (c) a declaração de falsidade faz-se por meios jurídicos próprios, não podendo ser este argumento utilizado de forma leviana.
+Impugnação às fls. 304/309.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. TÍTULO EXECUTIVO. FALTA DE IDENTIFICAÇÃO DAS TESTEMUNHAS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. FALSIDADE DO DOCUMENTO ARGUIDA PELO EXECUTADO. RELEVÂNCIA. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, do fundamento autônomo do aresto recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles ".
+2. Nos termos da jurisprudência, "a falta de identificação das testemunhas que subscrevem o título executivo não o torna nulo, somente sendo relevante essa circunstância se o executado aponta falsidade do documento ou da declaração nele contida" (REsp 137.824/SP, Relator Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, julgado em 31/8/1999, DJ de 11/10/1999, p. 73).
+3. Agravo interno desprovido.
+VOTO
+Inicialmente, tem-se: (a) a incidência da Súmula 284/STF com relação à ausência de indicação de dispositivos legais supostamente violados e com relação à alínea "c"; e (b) a ausência de cotejo analítico não foi objeto de irresignação, de modo que permanecem incólumes.
+No mais, a irresignação não merece prosperar.
+A Corte de origem concluiu, com base no contexto fático-probatório, que a ausência de identificação das supostas testemunhas que teriam subscrito o contrato de confissão de dívida teria o condão de retirar a executoriedade desta, in verbis:
+"Sabe-se que o instrumento particular dos autos, em regra, não possui força executiva, eis que, nos termos do artigo 784, III, do Código de Processo Civil, deve ser assinado pelo devedor e por duas testemunhas para assim constituir título executivo extrajudicial, prevendo uma obrigação certa, líquida e exigível, é apto a embasar uma ação de execução.
+(..) Nesse contexto, em análise do referido documento "Contrato de Confissão de Dívida", percebe-se que, muito embora esteja assinado pelas partes acordantes, a assinatura das testemunhas, aparecem no rodapé; além do mais, cumpre observar que o suposto "Contrato de Confissão de Dívida" não contém registro público, reconhecimento de firma e está sem a identificação das supostas testemunhas o qual, como se sabe, não goza de presunção de legitimidade e veracidade dos seus atos, não sendo, portanto, título executivo extrajudicial apto a dar continuidade a esta demanda." (e-STJ, fls. 192/194)
+Os fundamentos de que as assinaturas constam apenas no rodapé do contrato e que a identificação das testemunhas não goza de presunção de legitimidade e veracidade não foram objeto de impugnação e são suficientes, por si sós, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia.
+Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Por fim, tem-se que, de acordo com a jurisprudência desta Corte Superior, a falta de identificação das testemunhas é fator relevante no deslinde da presente demanda, considerando que o executado apontou falsidade das declarações contidas no referido título no presente caso.
+A propósito:
+PROCESSO CIVIL. ACÓRDÃO QUE ANALISA TODA A MATÉRIA DEBATIDA E DECLINA OS FUNDAMENTOS DE SUAS CONCLUSÕES. INOCORRÊNCIA DE AFRONTA AOS ARTS. 165, 458 E 535, CPC. INDEFERIMENTO DE PROVA. DESNECESSIDADE EM FACE DA NATUREZA DA DISCUSSÃO. PRETENSÃO DO REQUERENTE DE PRODUZIR PROVA REFERENTE A CLÁUSULAS DE NEGÓCIO DIVERSO DAQUELE QUE GEROU O TÍTULO EXECUTIVO. VIOLAÇÃO DOS ARTS. 330-I E 475 CPC INDEMONSTRADA. A FALTA DE IDENTIFICAÇÃO DAS TESTEMUNHAS QUE SUBSCREVEM O TÍTULO EXECUTIVO NÃO O TORNA NULO. DEVEDOR QUE NÃO NEGA A EMISSÃO DO TÍTULO E NÃO QUESTIONA A FALSIDADE DO DOCUMENTO OU DAS DECLARAÇÕES NELE LANÇADAS. ART. 585-II CPC. NEGATIVA DE VIGÊNCIA NÃO COMPROVADA. INDEXADOR ELEITO PELO CREDOR. DEVEDOR QUE NÃO ALEGA PREJUÍZO. ACÓRDÃO QUE AFASTA A NULIDADE DO TÍTULO COM BASE NESSA CIRCUNSTÂNCIA. FUNDAMENTO SUFICIENTE INATACADO. INVIABILIDADE DO EXAME DA VULNERAÇÃO DO ART. 115 CC. DIVERGÊNCIA JURISPRUDENCIAL DESCARACTERIZADA. RECURSO NÃO CONHECIDO.
+I - Não se observa violação dos arts. 165, 458 e 535, CPC, se o acórdão recorrido analisou todas as questões de fato e de direito relevantes, declinando os fundamentos de suas conclusões.
+II - Se a discussão que o embargante pretende travar nos embargos não diz respeito ao negócio que gerou o título executivo, mas a ato jurídico anterior, não viola os arts. 330-I e 475, CPC, o acórdão que inadmite esse debate e indefere prova a ele concernente.
+III - A falta de identificação das testemunhas que subscrevem o título executivo não o torna nulo, somente sendo relevante essa circunstância se o executado aponta falsidade do documento ou da declaração nele contida.
+IV - Afirmando o acórdão recorrido que o fato de haver o credor eleito um dentre os indexadores previstos no contrato não trouxe prejuízo ao devedor, não cuidando o recorrente de impugnar essa circunstância, transita em julgado fundamento suficiente para a manutenção da conclusão do acórdão, quanto à violação do art. 115, CC, inviabilizando-se o exame da alegação no recurso especial.
+V - A dessemelhança de bases fáticas não permite a caracterização do dissídio jurisprudencial.
+(REsp n. 137.824/SP, relator Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, julgado em 31/8/1999, DJ de 11/10/1999, p. 73.)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
