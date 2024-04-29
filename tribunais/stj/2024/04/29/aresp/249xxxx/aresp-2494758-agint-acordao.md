@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRAÇA DE SEGURO DPVAT. ACIDENTE, DANO E NEXO CAUSAL DEMONSTRADOS. RECURSO ESPECIAL. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo decidiu, com amparo no contexto fático probatório, que o acidente, dano e nexo causal foram demonstrados. Assim, rever tal entendimento demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRADESCO AUTO RE COMPANHIA DE SEGUROS S.A. E SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A. (BRADESCO e outra) contra decisão de relatoria da Ministra Presidente desta Corte, que conheceu do agravo em recurso especial para não conhecer do recurso especial anteriormente manejado em virtude da incidência da Súmula n.º 7 do STJ.
+Nas razões do presente inconformismo, defenderam, em síntese, a inaplicabilidade da Súmula n.º 7 do STJ.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRAÇA DE SEGURO DPVAT. ACIDENTE, DANO E NEXO CAUSAL DEMONSTRADOS. RECURSO ESPECIAL. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo decidiu, com amparo no contexto fático probatório, que o acidente, dano e nexo causal foram demonstrados. Assim, rever tal entendimento demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+No recurso especial, BRADESCO e outra defenderam a ausência de nexo causal entre a morte da vítima e evento que se enquadre na categoria acidente de trânsito, razão pela qual não haveria indenização a ser paga em razão do seguro obrigatório DPVAT.
+O Tribunal de Justiça do Amazonas, quanto ao tema, assim decidiu:
+(..).
+Por sua vez, quanto ao mérito recursal propriamente dito, observo que o Primeiro Apelante/Apelado busca afastar a condenação ao argumento de que o sinistro se sujeita apenas ao seguro DPEM e, outrossim, pela inexistência do nexo causal necessário à concessão do seguro DPVAT.
+Com relação à primeira questão, é consabido que o acidente que dá ensejo ao pagamento do seguro DPVAT é aquele causado por qualquer veículo automotor terrestre e/ou por sua carga, senão vejamos:
+CIVIL. RECURSO ESPECIAL. SEGURO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS DE VIA TERRESTRE (DPVAT). EXPLOSÃO. CARGA INFLAMÁVEL. HIPÓTESE DE INCIDÊNCIA DA NORMA. LEI Nº 6.194/76. 1 - A cobertura do seguro obrigatório prevê como hipótese de incidência o acidente causador de danos pessoais graves, havido com o veículo ou com a carga transportada. 11 - O acidente que dá ensejo ao pagamento do seguro não tem, necessariamente, causa no trânsito, mas no dano pessoal provocado também pela carga transportada, ainda que o veículo não se encontre em movimento, nem tampouco seja atingido por outro. Não é o acidente de trânsito, mas o acidente com o veículo, ou com a carga, o fato gerador da obrigação de indenizar em razão das regras do denominado seguro obrigatório. Recurso provido. (STJ REsp 646.784/RS, Relatora Ministra Nancy Andrighi, Relator p/ Acórdão Ministro Castro Filho, Terceira Turma, DJ 01/02/2006) (g.n.)
+Neste sentido, a simples leitura do Boletim de Ocorrência indica que, muito embora tenha acontecido nas dependências de um posto fluvial, a causa do sinistro foi a explosão do combustível transportado por um caminhão pipa que se encontrava no mesmo posto fluvial, confira-se (fls. 15):
+"foi vítima fatal de um acidente (incêndio) ocorrido no seu local de trabalho  Posto Fluvial de Abastecimento de Combustíveis "PONTÃO SVS" de propriedade do Sr., conhecido como "NEY FEITOSA", fato ocorrido por volta das 15 horas e 20 minutos do dia 13 de julho de 2012, no Porto Local, localizado no final da Rua Enoch Reis, no momento em que recebia determinada carga de combustível fornecida pela Empresa Posto Ferreira, (Localizada em ltacoatiara / AM - Proprietário  Sr. EDMILSON DOS SANTOS FERREIRA) despejada no tanque de armazenamento de uma embarcação denominada "BAJARA e entregue pelo caminhão tipo pipa, marca MECEDES BENS, L1620, ano 2008-2009, cor vermelha, placa NPB 6220, Chassi nº. 9BM69 5304 9867 7653, conduzida pelo motorista Sr. PAULO JOSÉ CORDOVIL GADELHA, 29 anos, residente na Rua Cravo, nº. 1791, Jardim Adriane em ltacoatiara  Am; Carga esta, que entrou em combustão (causa até o momento desconhecida) e fez explodir o tanque da embarcação, "BAJARA"." (g.n.)
+Corroborando o entendimento, a Certidão de Óbito do de cujus indica, como causa de sua morte, as queimaduras decorrentes do incêndio (fls. 17):
+"CAUSA DA MORTE Parte 1: Afogamento, queimadura de todo o corpo de 3º grau, traumatismo craniano encefálico" (g.n.)
+Assim, forçoso reconhecer a procedência do pleito autoral quanto à condenação ao pagamento do seguro DPVAT, porquanto o art. 5º da Lei n.º 6.194/74 estabelece bastar a prova do acidente e do dano dele decorrente para o pagamento da indenização por seguro obrigatório DPVAT (e-STJ, fls. 252/254 - sem destaque no original).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula n.º 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRANSPORTE COLETIVO. PASSAGEIRO. ACIDENTE. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. INEXISTÊNCIA DE NEXO CAUSAL E REVISÃO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS. INCIDÊNCIA DA SÚMULA 7/STJ. DEDUÇÃO DO SEGURO DPVAT. INCIDÊNCIA DA SÚMULA 283/STF. REDUÇÃO DO VALOR DA INDENIZAÇÃO POR DANOS ESTÉTICOS E REVISÃO DA DISTRIBUIÇÃO DOS ÔNUS DA SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Não assiste razão à agravante quando persiste na tese de ocorrência de negativa de prestação jurisdicional, porquanto as questões consideradas omitidas foram efetivamente apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. Para o acolhimento da tese recursal de não comprovação do nexo de causalidade, seria imprescindível derruir a conclusão contida no decisum atacado, o que, forçosamente, demandaria nova incursão no conjunto fático-probatório, incidindo na espécie a Súmula 7/STJ, a impedir o conhecimento do recurso especial.
+3. No caso dos autos, em que a indenização pelos danos morais foi arbitrada em R$ 3.000,00 (três mil reais), não se verifica a exorbitância que justificaria a superação do óbice - Súmula 7/STJ.
+4. A subsistência de fundamento não atacado, apto a manter a conclusão do aresto impugnado (não enquadramento do sinistro nas hipóteses de cobertura do seguro DPVAT), impõe o não conhecimento da pretensão recursal, conforme o entendimento sedimentado na Súmula 283/STF.
+5. As pretensões de redução do valor da indenização por danos estéticos e de revisão da distribuição dos ônus da sucumbência esbarram na incidência da Súmula 7/STJ.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.000.827/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE SEGURO DPVAT. NÃO COMPROVAÇÃO DO NEXO CAUSAL ENTRE O ACIDENTE E A CAUSA MORTE. REAPRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. RECURSO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA. 1.
+Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do aresto recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, observado o art. 98, §§ 3º e 4º, do NCPC.
+4. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp n. 1.315.644/RS, de minha relatoria, Terceira Turma, julgado em 10/12/2018, DJe de 13/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. SERVIÇO DE TRANSPORTE METROVIÁRIO. CULPA DE TERCEIRO. NEXO DE CAUSALIDADE. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Quando a corte de origem, com base no acervo fático-probatório dos autos, conclui pela configuração da responsabilidade civil de companhia de transporte metroviário em razão de usuária ferida por agulha dentro de estação de metrô, o STJ não pode rever esse entendimento em razão do óbice da Súmula n. 7 do STJ.
+2. Rever o entendimento do tribunal de origem acerca da culpa de terceiro e do rompimento do nexo causal demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+3. A aplicação da Súmula n. 7 do STJ quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede o conhecimento do recurso especial também pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.044.058/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+AGRAVO INTERNO. SEGURO OBRIGATÓRIO. DPVAT. INCÊNDIO EM VEÍCULO AUTOMOTOR. CAUSALIDADE ADEQUADA. PRESENÇA. DEVER DE INDENIZAR. EXISTÊNCIA. SÚMULA 7/STJ.
+1. Esta Corte Superior perfilha o entendimento de que o acidente que dá ensejo ao pagamento do seguro não tem, necessariamente, causa no trânsito, mas na existência de acidente com o veículo, ainda que este se encontre parado no momento do sinistro. Precedentes.
+2. Caso concreto em que não merece acolhida a irresignação da recorrente no sentido de que o acidente não foi causado pelo veículo automotor, mas por equipamento acoplado a ele, isto é, pela "correia do alternador". Com efeito, se por um lado é certo que tal equipamento integra a estrutura mesma do veículo, por outro, partindo-se do arcabouço fático delineado pela Corte de origem, não é possível concluir que o veículo fazia parte tão somente do cenário do infortúnio, máxime porque a lesão suportada pelo ora recorrente ocorreu em razão do fogo no veículo no momento do conserto, de modo que é possível apontá-lo como causa adequada (possível e provável) do acidente.
+3. Ir além do arcabouço fático delineado pelo Tribunal estadual para verificar, no caso concreto, a comprovação ou não do nexo de causalidade, demandaria o revolvimento de fatos e provas, o que é vedado pelo enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.403.785/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/8/2018, DJe de 21/8/2018)
+Nesse contexto, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
