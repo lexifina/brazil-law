@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. ANÁLISE DE DISPOSITIVOS DE LEGISLAÇÃO LOCAL. NÃO CABIMENTO. SÚMULA 280/STF.
+1. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+2. Com efeito, depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, com a devida fundamentação, conforme trecho aqui transcrito: "Nesse contexto, friso que as alegações esposadas pelo embargante foi oportunamente analisada no acórdão embargado, ocasião em que foi analisado a diferença entre a adoção ao regime normal de apuração do ICMS e a aderência pelo contribuinte ao regime de crédito presumido".
+3. Ademais, o órgão julgador decidiu a causa com base na interpretação de normas de direito local. Dessa forma, é inviável a revisão do julgado em Recurso Especial ante o disposto na Súmula 280/STF.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto de decisão monocrática (fls. 1.581-1.585, e-STJ) que conheceu do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negou-lhe provimento.
+A parte agravante alega:
+O pedido deduzido no Recurso Especial, consiste na nulidade do(s) acórdão(s) do Tribunal a quo, por ofensa aos artigos 489, §1º, VI. e 1.022, II e parágrafo único, todos do CPC/15, objetivando o retorno dos autos ao Tribunal de Justiça do Estado de Goiás para novo julgamento da remessa necessária e da apelação.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+Impugnação às fls. 1.614-1.619, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. ANÁLISE DE DISPOSITIVOS DE LEGISLAÇÃO LOCAL. NÃO CABIMENTO. SÚMULA 280/STF.
+1. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+2. Com efeito, depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, com a devida fundamentação, conforme trecho aqui transcrito: "Nesse contexto, friso que as alegações esposadas pelo embargante foi oportunamente analisada no acórdão embargado, ocasião em que foi analisado a diferença entre a adoção ao regime normal de apuração do ICMS e a aderência pelo contribuinte ao regime de crédito presumido".
+3. Ademais, o órgão julgador decidiu a causa com base na interpretação de normas de direito local. Dessa forma, é inviável a revisão do julgado em Recurso Especial ante o disposto na Súmula 280/STF.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 15.3.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Com efeito, depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, com a devida fundamentação, conforme trecho aqui transcrito (fls. 1.385- 1.389, e-STJ):
+Nas razões dos aclaratórios em julgamento, sob o argumento de existir contradição no julgado, o embargante aduz ter havido omissão quanto aos incisos do art. 58 do Código Tributário Estadual e ao art. 63 e § 1º do Regulamento do Código Tributário Estadual, sob o argumento de que o acórdão não analisou suficientemente a "sistemática do direito de creditar-se do imposto anteriormente cobrado e da análise do sistema de credito presumido que o contribuinte é autorizado a apropriar, por opção." Diante do que foi declinado, cumpre-me salientar que a omissão é verificada nas hipóteses em que há uma evidente lacuna entre o que fora objeto de pedido e o que restou fundamentado, quando do exercício do livre convencimento judicial.
+No caso em apreço, vislumbro que o acórdão combatido declinou suficientemente os fundamentos para o desfecho ali consignado, em obediência ao disposto nos artigos 489, do novo Código de Processo Civil, e 93, inciso IX, da Constituição Federal.
+Nesse contexto, friso que as alegações esposadas pelo embargante foi oportunamente analisada no acórdão embargado, ocasião em que foi analisado a diferença entre a adoção ao regime normal de apuração do ICMS e a aderência pelo contribuinte ao regime de crédito presumido.
+No acórdão ficou demonstrado que o § 6º do art. 150 da Constituição Federal prevê que lei específica poderá conceder crédito presumido relativo a impostos, por consequência, alcança também o ICMS.
+Demais disso, a fundamentação do voto vencedor demonstrou que o Código Tributário Estadual previu a possibilidade de substituir a creditação normal do ICMS por uma porcentagem fixa (crédito presumido), nos seguintes termos:
+(..)
+No entanto, desse trecho verifico a existência de erro material, pois o parágrafo introdutório da transcrição da previsão legal menciona a "Constituição Estadual", sendo que na verdade se trata de transcrição do Código Tributário Estadual, devendo ser considerado corrigido este erro material nestes embargos declaratórios.
+Adiante, o recorrente também apontou ter havido omissão quanto ao art. 63 e parágrafo único do RCTE, no entanto, ainda que não haja expressa menção a estes dispositivos legais no voto, o conjunto da fundamentação demonstrou que a autuação do órgão fiscalizador estatal em seu desfavor deu-se em razão de adoção de conduta incompatível com o ordenamento jurídico estadual, senão vejamos:
+(..)
+Ressalto ainda que o órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para o julgamento do feito, de acordo com seu livre convencimento fundamentado, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte.
+Assim sendo, restou efetivamente fundamentada as razões que formaram a convicção deste juízo revisor para a reforma da sentença proferida pelo juízo de primeiro grau.
+No que tange à alegação de omissão do acórdão ao adotar posicionamento diferente de julgados anteriores desta 6ª Câmara Cível, da 5ª Câmara Cível, e dos que embasaram a sentença recorrida, sem demonstrar a existência de distinção, acolho tal alegação, porquanto não foi realizada de forma pontual a referida distinção, todavia tal distinção não afetará a conclusão do julgado, conforme passo a demonstrar.
+Esses julgados com posicionamento distinto ao adotado na presente demanda têm em comum fundamento a tese de que não foi oportunizado ao contribuinte escolher a forma de creditação oriunda da tributação do ICMS (suposta imposição ilegal do crédito presumido) e concluem que a aplicação da legislação tributária estadual ofende o princípio da não cumulatividade.
+De forma oposta, o voto objeto destes embargos de declaração demonstrou que a legislação estadual confere uma faculdade ao contribuinte, que pode escolher se adere ao regime de crédito normal ou ao regime de crédito presumido do ICMS, sem que isso configure ofensa aos preceitos da Constituição Federal, nos seguintes termos:
+(..)
+Demais disso, a toda evidência, pois, a pretexto de apontar omissão no acórdão recorrido, o embargante, na realidade, pretende rediscutir o mérito da súplica recursal, o que lhe é vedado, porquanto, via de regra, embargos de declaração não têm caráter substitutivo da decisão embargada, mas sim meramente integrativo.
+(..)
+Por último, destaco que, dentre os pedidos constantes no presente recurso de embargos de declaração, o recorrente alegou a existência de fato novo, qual seja, a inconstitucionalidade da multa aplicada com base no art. 71, IV, "a", da Lei 11.651/1991, que foi objeto de julgamento da arguição de inconstitucionalidade de nº 177185-82.2012.8.09.0000.
+A referida arguição de inconstitucionalidade incidental foi julgada no ano de 2012, assim, não há que se falar em fato novo que possa ser arguido em embargos de declaração. A toda evidência, da forma apresentada, trata-se de inovação recursal, uma vez que inexistente tal argumento nas razões da petição inicial, na fundamentação da sentença ou nas contrarrazões à apelação. Por conseguinte, o pedido não é apto para demonstrar contradição, omissão, obscuridade ou erro material no acórdão, razão pela qual essa parte do recurso não deve ser acolhida.
+Nessa linha, não há violação aos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ademais, o órgão julgador decidiu a causa com base na interpretação de normas de direito local. Dessa forma, é inviável a revisão do julgado em Recurso Especial ante o disposto na Súmula 280/STF.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
