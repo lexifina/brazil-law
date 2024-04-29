@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de reclamação, com pedido de efeito suspensivo, ajuizada por NELMA LUSIA VIEIRA LIMA BONUTTI, com fundamento no art. 988, II e IV, do Código de Processo Civil (CPC), contra a sentença proferida pelo Juizado Especial Cível da Comarca de Mirassol.
+A parte reclamante sustenta que a ação de obrigação de fazer foi extinta em razão do reconhecimento da ilegitimidade passiva da instituição financeira, em contrariedade ao Tema 1.150 do Superior Tribunal de Justiça (STJ).
+Requer, ao final, a suspensão do curso do processo de origem.
+É o breve relatório.
+A pretensão não merece prosperar.
+A reclamação, prevista no art. 105, I, f, da Constituição Federal (CF), bem como no art. 988, do Código de Processo Civil (CPC), é incidente processual destinado à preservação da competência do Superior Tribunal de Justiça, à garantia da autoridade de suas decisões e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+A redação do § 5º, II, do art. 988 do CPC, contudo, dispõe que será inadmissível a reclamação quando proposta para garantir a observância de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+No caso em questão, verifico que a reclamante se insurge contra sentença proferida pelo Juizado Especial Cível da Comarca de Mirassol, o que torna a presente via inadequada, porquanto não esgotada a instância ordinária .
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL E CONSTITUCIONAL. RECLAMAÇÃO NATUREZA JURÍDICA. UTILIZAÇÃO SIMULTÂNEA COM RECURSO CABÍVEL. POSSIBILIDADE. DECISÃO DO STJ. DESRESPEITO. OCORRÊNCIA.
+1. Após o novo Código de Processo Civil, a doutrina e a jurisprudência passaram a entender que a reclamação possui natureza de ação de índole constitucional, e não de recurso ou incidente processual.
+2. Por não ter natureza jurídica de recurso, não se aplica à reclamação o óbice relativo ao princípio da unirrecorribilidade, não tendo como impedir a interposição concomitante de recurso, pois não há interrupção do prazo.
+3. Nos termos do art. 988, § 5º, I, do CPC/2015, é inadmissível a reclamação "proposta após o trânsito em julgado da decisão reclamada".
+4. Dispõe a Súmula 734 do STF que não cabe reclamação quando já houver transitado em julgado o ato que se alega tenha desrespeitado a decisão objeto da reclamação, de modo que não há impedimento legal para que a via seja utilizada na pendência de recurso interposto oportunamente.
+5. O art. 7º da Lei 11.417/2006, que trata das súmulas vinculantes do STF, dispõe que a utilização da reclamação não prejudica a interposição de recursos ou outros meios de impugnação, o que confirma a possibilidade de essas espécies de irresignação existirem simultaneamente.
+6. O esgotamento das instâncias ordinárias somente é exigido para a reclamação "proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos" (art. 988, § 5º, II, do CPC/2015).
+7. Nos termos do art. 105, I, "f", da CF, c/c o art. 988 do CPC/2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para preservar a competência do Tribunal, para garantir a autoridade das suas decisões, para observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade e para observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+8. O STJ, no julgamento do agravo de instrumento em recurso especial objeto da reclamação - interposto nos autos de ação coletiva ajuizada por Sindicato Nacional - deu provimento ao apelo nobre, oportunidade em que os pedidos iniciais foram julgados procedentes, havendo o registro de que os efeitos da decisão proferida abrangeria todos os substituídos domiciliados no território nacional.
+9. A autoridade reclamada, em desrespeito ao anteriormente decidido pelo STJ, reconheceu a ilegitimidade da parte reclamante para promover o cumprimento de sentença em razão da equivocada limitação subjetiva existente na sentença de primeiro grau proferida no processo originário (que já tinha sido reformada no julgamento da apelação).
+10. Provido o recurso especial, nos moldes do disposto no art. 512 do CPC/1973 (vigente à época da prolação do aresto), deve prevalecer a decisão proferida pelo órgão superior, em face do efeito substitutivo do recurso.
+11. Reclamação julgada procedente, confirmando-se a liminar anteriormente deferida. (Rcl n. 44.172/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 8/11/2023, DJe de 14/12/2023 - sem destaques no original.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), não conheço da presente reclamação. Prejudicado o pedido de efeito suspensivo.
+Publique-se. Intimem-se.
+EMENTA
