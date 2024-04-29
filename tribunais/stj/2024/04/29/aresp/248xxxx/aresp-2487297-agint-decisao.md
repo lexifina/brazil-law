@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo interno contra decisão da Presidência do STJ, de fls. 369/370 (e-STJ), que não conheceu do agravo em recurso especial que interpusera, em razão da incidência da Súmula 182/STJ.
+Em face das razões de fls. 374/388 (e-STJ), torno sem efeito a decisão e passo a novo exame do agravo interposto por JUDO CLUBE ONODERA contra decisão que não admitiu o recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/09/2023.
+Concluso ao gabinete em: 19/04/2024.
+Ação: de despejo por falta de pagamento cumulada com cobrança, ajuizada por BOQUEIRAO ADMINISTRACAO DE BENS PROPRIOS LTDA., em face da parte ora agravante.
+Na inicial, narra a autora, em síntese, que a ora agravante é locatária de imóvel de sua propriedade, mas que teria deixado de pagar os aluguéis e encargos.
+Sentença: julgou procedentes os pedido, declarando resolvido o contrato, decretando o despejo e condenando a ré, ora agravante, ao pagamento dos aluguéis, encargos moratórios e demais obrigações locatícias vencidas e não pagas a partir de março de 2020 até a efetiva desocupação, acrescidos de multa contratual, correção monetária e juros de mora a partir dos respectivos vencimentos.
+Acórdão: negou provimento à apelação interposta pela parte agravante, conforme ementa a seguir (e-STJ fl. 242):
+"Apelação cível - Locação de imóvel não residencial - Ação de despejo por falta de pagamento com pleito cumulado de cobrança - Sentença de procedência - Recurso da ré - Singela arguição de que, haja vista os efeitos da pandemia de Covid-19 sobre o cenário econômico, o contrato se tornou excessivamente oneroso- Inconsistência- Pretensão de revisão do contrato que não pode ser alegada em simples pedido contraposto - Pleito que deve ser veiculado por meio de reconvenção, a teor do quanto previsto no art. 343, do CPC, ou até mesmo pela via revisional autônoma, mormente diante de necessidade de exercício do contraditório e da ampla defesa - Poder Judiciário, ademais, que não pode conceder moratória sema aquiescência do credor - Eventual acordo, ademais, que poderá ser obtido em qualquer momento e fase do processo, sem a intervenção da Justiça. Apelo da ré desprovido."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 317, 393 e 478 do CC; 7º, 369, 373, 374 e 464, §1º, do CPC, sustentando que: (i) teria ocorrido desequilíbrio contratual e onerosidade excessiva, uma vez que a área de atuação da agravante teria sido especialmente afetada pela pandemia de COVID-19; (ii) teria ocorrido cerceamento de defesa, tendo em vista o indeferimento da prova pericial pleiteada - que seria apta para demonstrar que se faria necessária a redução do valor pactuado no contrato pela locação. Pugna pelo reequilíbrio do contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do cerceamento de defesa
+De acordo com a jurisprudência do STJ, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Nesse sentido: AgInt no REsp 1.429.272/MA, 4ª Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017.
+Ademais, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de alguma prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp 1634989/PR, 3ª Turma, DJe 28/05/2020; AgInt no AREsp 1632773/SP, 4ª Turma, DJe 05/06/2020.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o seguinte fundamento utilizado pelo TJ/SP (e-STJ fls. 244/245):
+(..) "os argumentos da apelante, conquanto guardem importância sob o ponto de vista socioeconômico, não podem ser deduzidos por pedido contraposto no bojo da contestação, mas, sim veiculado por meio de reconvenção, a teor do quanto previsto no art. 343, do Código de Processo Civil, ou até mesmo pela via revisional autônoma, mormente diante de necessidade do exercício do contraditório e da ampla defesa." (grifou-se)
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, nos termos do parágrafo 2º do artigo 1.021 do CPC/2015, RECONSIDERO a decisão de fls. 369/370 (e-STJ), para CONHECER do agravo e, com fundamento no artigo 932, III e IV, "a", do CPC/2015, bem como na Súmula n. 568/STJ, NÃO CONHECER do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ, fl. 247) para 14%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA. CERCEAMENTO DE DEFESA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO PREJUDICADO.
+1. Ação de despejo por falta de pagamento cumulada com cobrança.
+2. O juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+3. Alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de alguma prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7/STJ.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Torno sem efeito a decisão de fls. 369/370 (e-STJ). Agravo conhecido. Recurso especial não conhecido.
