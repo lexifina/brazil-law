@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. DISSÍDIO JURISPRUDENCIAL. CONTROVÉRSIA RELATIVA À POSSE DO AUTOR E AO ESBULHO PRATICADO PELO RÉU SOLVIDA PELO TRIBUNAL ESTADUAL COM BASE NO ACERVO FÁTICO-PROBATÓRIO DA DEMANDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever as conclusões adotadas pelo Tribunal estadual quanto à configuração de posse pretérita por parte do autor e à ocorrência de esbulho praticado pelo réu demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+2. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JAIR WERNER (JAIR) contra decisão de relatoria do Ministro Presidente desta Corte, que conheceu do agravo para não conhecer do apelo nobre anteriormente manejado em virtude da incidência das Súmulas n.os 283 e 284 do STF.
+Nas razões do presente inconformismo, defendeu que (1) a Súmula n.º 284 do STF não se aplica à hipótese, porquanto é possível compreender que o fundamento do recurso especial é a ausência de posse (art. 561, I, do CPC); e (2) como impugnou efetivamente os fundamentos do acórdão recorrido, é inaplicável a Súmula n.º 283 do STF.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. DISSÍDIO JURISPRUDENCIAL. CONTROVÉRSIA RELATIVA À POSSE DO AUTOR E AO ESBULHO PRATICADO PELO RÉU SOLVIDA PELO TRIBUNAL ESTADUAL COM BASE NO ACERVO FÁTICO-PROBATÓRIO DA DEMANDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever as conclusões adotadas pelo Tribunal estadual quanto à configuração de posse pretérita por parte do autor e à ocorrência de esbulho praticado pelo réu demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+2. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+3. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Na espécie, ainda que se possa afastar a incidência das Súmulas n.os 283 e 284 do STF, o recurso especial interposto por JAIR não ultrapassa a barreira da admissibilidade.
+Em seu apelo nobre interposto com base na alínea c do permissivo constitucional, JAIR sustentou a existência de dissídio jurisprudencial acerca da ausência de posse da parte adversa sobre o imóvel sub judice.
+Argumentou, nessa linha, que o mero pagamento do IPTU pelo proprietário não é suficiente para a comprovação da posse e, ainda, que o r ecorrido não foi injustamente afastado ou retirado do imóvel (e-STJ, fls. 266/275).
+Constata-se, no entanto, que a controvérsia relativa à posse sobre o imóvel foi solvida pelo Tribunal estadual com espeque, exclusivamente, no contexto fático-probatório da demanda, o qual não é passível de revisão por este Tribunal Superior na estreita via do recurso especial, como orienta a Súmula n.º 7 do STJ.
+Senão, vejam-se os termos do acórdão recorrido:
+Trata-se de ação mediante a qual o autor pretende ser reintegrado na posse de imóvel localizado na Rua Afonso Alberto Mahnke, n.º 112, bairro João Tozini, na cidade de Corupá (SC), e matriculado sob o n. 6.779 junto ao Ofício de Registro de Imóveis da comarca de Jaraguá do Sul, que teria sido invadido pelo réu, seu irmão.
+ ..
+Nesta linha, denota-se, tanto da petição inicial quanto do apelo, que o autor noticia ter recebido o bem em doação de seus pais Carlos Werner e Maria Marta Werner por meio de Escritura Pública lavrada em 6.1.2000 (Evento 39, Informação 56), que foi averbada na matricula imobiliária (Evento 1, Informação 7, p. 2).
+A doação é objeto da ação anulatória n. 0303513-19.2018.8.24.0036, movida pelo réu em desfavor do autor, e cujos autos digitais indicam que houve, nesta Corte, a confirmação de sentença favorável ao segundo, pois reconhecida a prescrição da pretensão do primeiro, estando pendente de julgamento no STJ um agravo por meio do qual o réu se insurge diante da inadmissão do recurso especial por ele interposto. A eficácia da doação remanesce portanto, até a presente data, intacta.
+Dito isso, ressalvando-se que a controvérsia travada apresenta natureza possessória e não petitória, consta da narrativa exordial que, após o falecimento dos ascendentes dos litigantes, em 25.6.2011 e 6.4.2016, foi providenciado pelo autor o cancelamento do usufruto vitalício, mediante nova averbação na matrícula imobiliária.
+Contudo, o pai do autor, o doador sobrevivente até 2016, já não residia no imóvel quando do falecimento por conta de supostas discussões, brigas e do comportamento agressivo do réu, que seria dependente químico desde 2011.
+Neste contexto, argumentou o autor que, mesmo convidado amigavelmente a se retirar do imóvel, o réu se recusou a fazê-lo, não restando outra alternativa senão retirar toda a mobília da casa e fechá-la em meados de 2015, tendo inclusive sido solicitado o cancelamento dos serviços de água e luz, o que não teria impedido o réu de, ao retornar de um tratamento químico realizado em outra cidade, invadir o bem mesmo não havendo qualquer condição de moradia, apenas pernoitando no mesmo e passando a maior parte do tempo perambulando pela cidade, juntamente com outros dependentes químicos.
+Ao contestar, o réu refutou que a doação configure ato de posse e salientou que o autor jamais a exerceu sobre o imóvel, esclarecendo que o suposto esbulho relatado decorreu justamente do fato de que precisou pedir o restabelecimento dos serviços de energia e água em razão da conduta do próprio autor, que solicitara o desligamento como forma de coação para que deixasse a residência, além de ter se aproveitado de momento em que passava por tratamento médico para se apropriar indevidamente de bens móveis que guarneciam a residência.
+Adianto que, analisando o acervo probatório produzido, efetivamente houve demonstração, pelo autor, do exercício pretérito da posse sobre o bem e do esbulho praticado pelo réu, o que permite a reintegração almejada.
+De antemão, importa consignar que a doação é instrumento de transferência da propriedade e não implica, por si só, na assunção da posse pelo donatário. Nos termos do art. 1.196 do Código Civil, "considera-se possuidor todo aquele que tem de fato o exercício, pleno ou não, de algum dos poderes inerentes à propriedade".
+No caso concreto, entretanto, a doação dos ascendentes ao autor foi realizada com gravame de usufruto vitalício àqueles, os quais, enquanto vivos, exerceram a posse direta, ficando o autor, nu-proprietário, restrito à posse indireta, ex vi dos art.1.197 e 1.394 da Codificação Material.
+Seguindo este raciocínio, a prova oral colhida (Evento 53) - testemunha Divo Parey e informantes Emília Welker e Jane Maria Werner, estas irmãs dos litigantes - corroborou que o autor, sua irmã Jane e o ascendente Carlos Werner deixaram o imóvel em 2015, cerca de um ano antes do falecimento do último, já em 2016, à vista da falta de sossego decorrente de problema do réu com drogas. Além de deixá-lo, o usufrutuário e o nu-proprietário retiraram todos os móveis que o guarneciam e providenciaram a suspensão do fornecimento dos serviços de energia elétrica e água.
+O réu sustentou em seu depoimento pessoal que, mesmo desprovido de tais serviços básicos, teria permanecido ocupando o imóvel, sobretudo durante os períodos noturnos, mantendo-o com a ajuda do vizinho, a testemunha Divo Parey, que confirmou tal relato.
+Mostra-se incontroverso, desse modo, que usufrutuário e nu-proprietário procederam à retirada dos móveis que guarneciam a residência e à suspensão dos serviços de água e energia já naquele momento, em 2015 (Evento 1, Informação 15), que somente foram reativados pelo réu em 2018, quadro que deu azo ao envio de notificação extrajudicial pelo autor, com fins de desocupação voluntária do bem (Evento 1,Informação 16-17).
+À vista de tais de particularidades, no sentido de que foram adotadas medidas para evitar ou dificultar que o réu permanecesse no imóvel, e considerando que o autor continuou pagando o IPTU entre 2016 e 2018 (Evento 1,Informação 10-12), a conclusão à que se chega é que, seja por parte do usufrutuário, entre 2015 e a sua morte, seja pelo demandante, entre 2016 e 2018, a permanência de possíveis pernoites do réu na residência ocorreu por mera tolerância, porquanto aqueles, como possuidores, buscaram mantê-la fechada e sem condições de habitação.
+Em assim sendo, pode-se concluir que em momento algum a posse indireta do autor sobre o bem, como proprietário, deixou de existir, de modo que, quando do falecimento do doador/usufrutuário, houve a consolidação da posse plena em seu favor.
+Vislumbrada, portanto, a posse pretérita do autor, o esbulho e a data de sua ocorrência se evidenciam em razão da negativa do réu em desocupar o imóvel após notificado para tanto (Evento 1, Informação 18).
+ ..
+Destarte, presentes os pressuposto do art. 561 do CPC, é impositiva a reforma da sentença para acolher-se a pretensão inaugural (e-STJ, fls. 254/258 - grifos acrescentados).
+Efetivamente, rever as conclusões da Corte estadual quanto à configuração de posse pretérita por parte de PAULO WERNER e à ocorrência de esbulho praticado por JAIR demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela já mencionada Súmula n.º 7 do STJ.
+Com esse entendimento, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. OMISSÃO NÃO OCORRÊNCIA. APELAÇÃO. REPETIÇÃO DE FUNDAMENTAÇÃO. POSSIBILIDADE. POSSE. ALEGAÇÃO DE DOMÍNIO. AUSÊNCIA DE COMPROVAÇÃO. IMPROCEDÊNCIA DA AÇÃO. ESBULHO NÃO DEMONSTRADO. REVISÃO. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. A revisão de matéria - prática de esbulho pelo réu da ação de reintegração de posse - que demanda o revolvimento do conjunto fático-probatório dos autos, não pode ser feita na via especial, diante do óbice da Súmula 7 deste Tribunal.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.288.260/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2018, DJe de 5/9/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL. REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. CONCLUSÃO ACERCA DA AUSÊNCIA DE ESBULHO OU TURBAÇÃO DA POSSE E DA LITIGÂNCIA DE MÁ-FÉ. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+No presente caso, a convicção a que chegou o Tribunal local acerca da ausência de comprovação da ocorrência de esbulho ou turbação da posse do réu, ora recorrente, bem como da litigância de má-fé da parte autora, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+Agravo interno não provido.
+(AgInt no AREsp n. 786.216/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/3/2017, DJe de 16/3/2017)
+Por oportuno, cumpre ressaltar que a incidência da Súmula n.º 7 do STJ impede o conhecimento do recurso especial interposto tanto pela alínea a como pela alínea c do permissivo constitucional, conforme orienta a pacífica jurisprudência desta Corte, a seguir exemplificada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.  ..  LEGITIMIDADE PASSIVA CONFIGURADA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DANOS MORAIS. OCORRÊNCIA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.  ..  DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+8. A jurisprudência do STJ firmou o posicionamento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 2.370.503/MG, de minha relatoria, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO C/C PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+ ..
+5. A incidência das Súmulas 7/STJ e 282/STF impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.367.343/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024)
+Nesse contexto, mesmo que afastada a incidência das Súmulas n.os 283 e 284 do STF, a pretensão recursal não comporta conhecimento, em razão da incidência do óbice da Súmula n.º 7 desta Corte.
+Assim, ainda que por fundamento diverso daqueles da decisão impugnada, deve ser mantida a negativa de conhecimento do apelo nobre.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
