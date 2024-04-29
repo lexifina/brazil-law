@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS N. 283 E 284 DO STF. PAGAMENTO EM DOBRO POR COBRANÇA JUDICIAL DE DÍVIDA JÁ ADIMPLIDA. CONDUTA ILÍCITA. REVISÃO. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte restringiu-se a defender a não incidência da Súmula n. 7 do STJ de forma geral, como se todos os dispositivos tidos por violados no recurso especial tivessem sido obstado pela incidência da referida súmula. Em momento algum rebateu os demais fundamentos da decisão recorrida, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame de elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+TELOS FUNDAÇÃO EMBRATEL DE SEGURIDADE SOCIAL interpõe agravo interno contra a decisão de fls. 1.026-1.033, que negou provimento ao agravo em recurso especial.
+Nas razões do presente recurso, a agravante sustenta que "não se trata de reanálise dos fatos e provas, o que ensejaria a aplicação da súmula 7 do c. STJ, mas sim da evidente violação do art. 1º da Lei Complementar n. 109/2001, ao art. 940 do Código Civil de 2002 e do Tema 622 do STJ e ao art. 188, inciso I e art. 884 do Código Civil de 2002  o que, por consequência lógica, merece ser analisado por essa Corte de Justiça já que são causas de revisão do provimento judicial ora combatido" (fl. 1.042).
+Alega "a questão não é de prova - mas eminentemente jurídica -, posto que a matéria ora devolvida ao c. STI não se resume a mero reexame de provas ou fatos, mas, sim, unicamente de direito, no sentido em que ao decidir pela manutenção da decisão de 1º grau, o v. Acórdão recorrido não se baseou em qualquer premissa fática" e "ao ingressar com a ação de cobrança, a TELOS agiu em exercício do seu direito, conforme assegurado pelo art. 188, I, do CC" (fl. 1.043).
+Reitera que não foi comprovada em nenhum momento a má-fé da agravante necessária à aplicação dos artigos fundamentos pelo Juízo a quo.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+As contrarrazões foram apresentadas (fls. 1.050-1.062).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS N. 283 E 284 DO STF. PAGAMENTO EM DOBRO POR COBRANÇA JUDICIAL DE DÍVIDA JÁ ADIMPLIDA. CONDUTA ILÍCITA. REVISÃO. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte restringiu-se a defender a não incidência da Súmula n. 7 do STJ de forma geral, como se todos os dispositivos tidos por violados no recurso especial tivessem sido obstado pela incidência da referida súmula. Em momento algum rebateu os demais fundamentos da decisão recorrida, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame de elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+A decisão agravada apresentou os seguintes fundamentos: 1) em relação à alegação de violação do Tema n. 622 do STJ, não compete a esta Corte apreciar violação de enunciado de súmula ou tese firmada em tema repetitivo em recurso especial, pois não se inserem no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal; 2) no que tange à ofensa aos arts. 188, I, e 940 do CC, incidência da Súmula n. 7 do STJ; 3) quanto à violação dos arts. 884 do CC e 1º da Lei Complementar n. 109/2011, incidência das Súmulas n. 282 e 356 do STF.
+Nas razões do presente agravo interno, a parte restringiu-se a defender a não incidência da Súmula n. 7 do STJ de forma geral, como se todos os dispositivos tidos por violados no recurso especial tivessem sido obstado pela incidência da referida súmula. Em momento algum rebateu os demais fundamentos da decisão recorrida, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A insuficiência das razões recursais, dissociadas dos fundamentos da decisão recorrida, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2.1. A revisão da premissa de que o BNDES atuou como sucessor da instituição liquidada demandaria revolvimento de matéria probatória, a atrair os óbices das Súmulas 5 e 7 do STJ 3. Agravo interno desprovido. (AgInt no REsp n. 2.091.529/PE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. COBERTURA DE TERAPIA MULTIDISCIPLINAR. EQUOTERAPIA. PACIENTE DIAGNOSTICADO COM ESQUIZENCEFALIA.
+1. A controvérsia diz respeito à cobertura de terapia multidisciplinar prescrita a menor diagnosticada com esquizencefalia de lábios abertos com liquor, associado à hidrocefalia e epilepsia.
+2. "Na linha da manifestação do Conselho Federal de Medicina e do Conselho Federal de Fisioterapia e Terapia Ocupacional, o legislador editou a Lei 13.830/2019, na qual reconheceu a equoterapia como método de reabilitação que utiliza o cavalo em abordagem interdisciplinar nas áreas de saúde, educação e equitação voltada ao desenvolvimento biopsicossocial da pessoa com deficiência (§ 1º do art. 1º), cuja prática está condicionada a parecer favorável em avaliação médica, psicológica e fisioterápica" (REsp n. 2.049.092/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/4/2023, DJe de 14/4/2023).
+3. Com relação à terapia com o uso do PediaSuit, o Tribunal de origem justificou a necessidade de cobertura ao fundamento de que plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado. Contudo, verifica-se a ausência de impugnação do referido fundamento, visto que o recorrente, nas razões do recurso especial, limitou-se a argumentar que a listagem elaborada pela ANS é exemplificativa e que as terapias propostas ainda carecem de evidência científica.
+4. Afronta o princípio da dialeticidade o recurso que utiliza argumentos dissociados do julgado impugnado, o que atrai a incidência, por analogia, das Súmulas n. 283 e 284 do STF.
+Agravo interno improvido. (AgInt no REsp n. 1.994.444/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023.)
+Ademais, quanto à incidência da Súmula n. 7 do STJ, a decisão agravada deve ser mantida por seus próprios fundamentos.
+No que tange à ofensa aos arts. 188, I, e 940 do CC, ao argumento de a agravante não ter cometido ato ilícito, mas agido no exercício regular de seu direito, bem como de não ter sido demonstrada a má-fé para a condenação da restituição em dobro, a Corte a quo apresentou os seguintes fundamentos (fls. 896-897, destaquei):
+ ..
+Assim, por ocasião da rescisão do contrato de trabalho da autora com a empresa ré, na data de 29/05/2015, ocorreu o RESGATE do referido Plano de Previdência. E, nessa ocasião, a TELOS aplicou o comando da mencionada Cláusula Quinta do Contrato de Mútuo, com o desconto integral do valor do empréstimo, objeto da Ação Monitória, no valor de R$ 20.650,55 (vinte mil seiscentos e cinquenta reais e cinquenta e cinco centavos).
+Conforme narrado pela Autora, a despeito da quitação ter sido efetuada em 29/05/2015, APENAS em 13/06/2017 a empresa ré, na referida Ação Monitória de nº 0023802-91.2009.8.16.0001, informou a quitação do débito, como se verifica no item 1 da petição fls. 625/626 - índice 000571:
+ ..
+Ocorre que na referida Ação Monitória ocorreram os seguintes bloqueios judiciais BACENJUD:
+a) R$ 298,10 e R$ 41,14 na data de 30/10/2014;
+b) R$ 12.856,90 na data de 02/06/2017; (fls. 630 - índice 000571)
+Nesse sentido, o Bloqueio realizado após a quitação da dívida no valor de R$12.856,90, de forma indevida, indubitavelmente causou enormes transtornos à autora, eis que o valor só foi desbloqueado em 18/12/2017 (fls. 670 - índice 000571), ou seja, a quantia ficou indisponível à autora por mais de seis meses.
+Outrossim, a quitação comprovadamente se deu em 29/05/2015, fato que foi confirmado pela TELOS, que se limitou a atribuir a responsabilidade à autora.
+Com efeito, em 16/06/2015, a empresa ré, além de não ter informado que houve a quitação extrajudicial da dívida, ainda noticiou ao Juízo da monitória que o bloqueio realizado nas contas da Executada foi em valores muito baixos, incapazes de satisfazer o crédito exequendo, requerendo fosse convertido o valor em penhora e ainda, requereu a consulta nos sistemas Infojud e Renajud, objetivando a localização de bens móveis ou imóveis em nome da Executada. Da mesma forma, em 03/08/2016, mais de um ano após a quitação, a ré reiterou junto ao Juízo da Monitória seu pedido de bloqueio judicial, sendo que tal constrição no valor de R$ 12.856,90 efetivada na data de 02/06/2017 (fls. 630 - índice 000571), como visto acima.
+Assim, a falha de ré se acha sobejamente comprovada nos autos.
+No que se refere à condenação na devolução em dobro, cediço que na presente demanda não se aplica o CDC, sendo que a condenação tem por fundamento o artigo 940 do Código Civil, no seguinte teor:
+ ..
+No caso dos autos, inexiste engano justificável apto à afastar a condenação da Fundação Telos na devolução em dobro, notadamente porque os pedidos de pesquisa junto aos sistemas INFOJUD e RENAJUD, além do bloqueio da quantia de R$12.856,90, se deram muito depois da quitação ocorrida em 2015, quitação essa da qual a TELOS tinha plena ciência. Por essa razão, correta a sentença ao determinar a restituição da quantia solicitada na inicial (R$20.650,65) em dobro, ou seja, no valor de R$ 41.301,10, conforme art. 940 CC.
+Como visto acima, o Tribunal de origem, soberano na análise do arcabouço fático-probatório dos autos, concluiu, de forma fundamentada, que houve conduta ilícita por parte da ora agravante e que a restituição do valor deveria ser em dobro, pois não houve engano justificável apto a afastar a condenação da devolução em dobro, pois não informara sobre a quitação extrajudicial da dívida e o pedido de reiteração de bloqueio judicial.
+Em tais situações, não há como alterar o entendimento da Corte de origem senão promovendo profunda incursão no conjunto fático dos autos, o que é vedado pela Súmula n. 7 do STJ.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, o qual enfrentou de maneira direta e objetiva o questionamento acerca da ausência de responsabilidade da agravante na ocorrência dos fatos narrados na inicial, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15.
+2. Para a modificação do paradigma fático, quanto a existência de má prestação do serviço e da configuração de ato ilícito, seria necessário o revolvimento do acervo probatório dos autos, conduta sabidamente vedada no âmbito do recurso especial ante o óbice contido na Súmula 7 do Superior Tribunal de Justiça.
+3. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, que não é o caso dos autos. Incidência da Súmula 7 do STJ.
+4. A gravo interno desprovido. (AgInt no AREsp n. 1.957.347/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PERDAS E DANOS. 1. VIOLAÇÃO A SÚMULA. DESCABIMENTO. SÚMULA N. 518/STJ. 2. DISPOSITIVO DE LEI TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. 4. LITISPENDÊNCIA E COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. MÁ-FÉ CARACTERIZADA. POSSIBILIDADE DA RESTITUIÇÃO DAS QUANTIAS COBRADAS INDEVIDAMENTE EM DOBRO. APLICAÇÃO DO ART. 940 DO CC/2002. ALTERAÇÃO. SÚMULAS N. 5 E 7/STJ. 6. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 7. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 8. AGRAVO DESPROVIDO.
+ ..
+5. Nos termos da jurisprudência do Superior Tribunal de Justiça, a aplicação da penalidade prevista no art. 940 do CC/2002 exige a comprovação do dolo.
+5.1. A Corte de origem entendeu que houve a má-fé da agravante, portanto, a revisão do julgado importa necessariamente no reexame de provas e de cláusulas contratuais, o que é vedado em âmbito de recurso especial, ante o óbice dos enunciados n. 5 e 7 da Súmula deste Tribunal.
+ ..
+8. Agravo interno desprovido. (AgInt no AREsp n. 1.898.914/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/10/2021, DJe de 14/10/2021, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. COBRANÇA INDEVIDA. RESTITUIÇÃO. ALEGAÇÃO DE MÁ-FÉ A ENSEJAR DEVOLUÇÃO EM DOBRO. REEXAME DE PROVAS. SÚMULAS N. 7 E 83 DO STJ.
+1. A jurisprudência desta Corte orienta que é necessária a comprovação da má-fé do demandante para a aplicação da penalidade prevista no art. 940 do Código Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.752.351/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/6/2021, DJe de 24/6/2021, destaquei.)
+Dessa forma, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
