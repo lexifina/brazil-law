@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de incidente de uniformização jurisprudencial apresentado por GERALDO APARECIDO DA SILVA, com fundamento nos arts. 14 da Lei 10.259/2001 e 31 da Resolução 586/2019, em razão do acórdão da Turma Nacional de Uniformização assim ementado (fl. 157):
+PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. TEMPO ESPECIAL. ENQUADRAMENTO POR ATIVIDADE PROFISSIONAL. OFICIAL DE SERRALHEIRO EMEIO OFICIAL DE SERRALHEIRO. AUSÊNCIA DE COTEJO ANALÍTICO E DEMONSTRAÇÃO DA DIVERGÊNCIA ENTRE A DECISÃO RECORRIDA E PARADIGMA APONTADO. ART. 14, V, C, DO RITNU. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OCASO CONCRETO E O PARADIGMA APRESENTADO. QUESTÃO DE ORDEM Nº 22 DA TNU. INCIDENTE NÃO CONHECIDO.
+Nas suas razões (fls. 161/173), a parte requerente alega, em suma, que o acórdão impugnado contraria o posicionamento "da jurisprudência pátria, sendo, oposta, inclusive, às prévias manifestações deste Colendo Tribunal" (fl. 164).
+Argumenta para tanto que (fl. 168):
+Denota-se da decisão em comento, que a mesma contraria entendimento dominante deste Colendo Tribunal ao deixar de reconhecer a atividade de serralheiro como especial, sob a justificativa de que o segurado não demonstrou semelhança entre a atividade em comento, e aquela reconhecida como especial no acórdão paradigma, qual seja, também serralheiro.
+Destarte, uma vez que o Colenda Turma Nacional de Uniformização deixa de reconhecer a especialidade da atividade arguindo a inexistência de semelhança das atividades e invocando, para tanto, o Tema 198 supra, presume-se a imposição de valor taxativo ao rol das atividades listadas nos anexos dos Decretos.
+Entretanto, como dito, este Colendo Superior Tribunal, possui entendimento no sentido de enquadramento da atividade de serralheiro como sendo especial, sem necessidade de se fazer tal demonstração de similaridade com outra atividade, haja vista que a atividade de serralheiro é tida por insalubre, passível de enquadramento até 28/04/1995 por analogia às atividades previstas nos Anexos dos Decretos Regulamentadores 53.831/64 e 83.080/79, sob o código 2.5.3.
+A decisão impugnada é contrária ao posicionamento da jurisprudência pátria, sendo oposta, inclusive, às prévias manifestações deste Colendo Tribunal.
+Não foi apresentada impugnação de acordo com a certidão de fl. 186.
+O Ministério Público Federal, em parecer, opinou pelo não conhecimento do pedido de uniformização de interpretação de lei (fls. 214/224).
+É o relatório.
+A competência do Superior Tribunal de Justiça (STJ) para apreciar pedido de uniformização de interpretação de lei federal encontra-se prevista no art. 14, § 4º, da Lei 10.259/2001, que assim estabelece:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+ ..
+§ 4º. Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça-STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência. (Destaquei.)
+Nos termos da jurisprudência desta Corte, o pedido de uniformização de interpretação de lei federal dirigido ao STJ, com amparo no art. 14, § 4º, da Lei 10.259/2001, só pode ser manejado contra decisão colegiada da Turma de Uniformização, e quando a orientação acolhida, em questões de direito material, contrariar súmula ou jurisprudência dominante deste Tribunal. A propósito, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 14, § 4º, DA LEI 10.259/2001 DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 14, § 4º da Lei 10.259/2001, caberá pedido de uniformização de lei federal perante o Superior Tribunal de Justiça somente quando a decisão da Turma Nacional sobre questão de direito material estiver em confronto com súmula ou jurisprudência dominante do STJ.
+2. A orientação jurisprudencial desta Corte Superior é no sentido do cabimento do incidente somente na hipótese em que a matéria foi submetida à apreciação de órgão colegiado da Turma Nacional de Uniformização de Jurisprudência - TNU, sob pena de supressão de instância. Além do mais, o incidente somente é cabível para discutir questões de natureza material (e não de índole processual).
+3. Agravo interno não provido .
+(AgInt no PUIL n. 2.405/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 15/3/2022, DJe de 17/3/2022.)
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO MANEJADO CONTRA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. NÃO CABIMENTO.
+1. O que postula a requerente é a percepção do percentual de 13,23% em seus vencimentos, com fundamento no direito previsto no art. 37, X, da Constituição de 1988.
+2. Ocorre que a impugnação se volta contra decisão da Presidência da Turma Nacional de Uniformização, e, nos termos do art. 14, § 4º, da Lei 10.259/2001, o Incidente de Uniformização dirigido ao STJ só pode ser manejado contra decisão colegiada.
+3. Nesse sentido: "Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual" (AgInt no PUIL 1056/DF, Relator Min. Francisco Falcão, Primeira Seção, DJe 2.9.2019). Na mesma direção: AgRg na Pet 9.586/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 25.4.2014; Aglnt no PUIL 72/PR, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 9.10.2017; AgInt no PUIL 1.046/TO, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 29.5.2019.
+4. Agravo Interno não provido.
+(AgInt no PUIL n. 1.794/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 11/11/2020, DJe de 17/11/2020.)
+No caso em questão, a parte requerente se insurge contra julgado que versou apenas sobre questão de direito processual, o que não é admitido.
+Ademais, não foi apresentada nas razões recursais nenhuma contrariedade a enunciado sumular ou jurisprudência dominante desta Corte Superior acerca do tema. No presente caso, a parte interessada apontou um único acórdão julgado pela Quinta Turma do STJ, em 7/11/2000, que não significa ou constitui a jurisprudência dominante desta Corte Superior de Justiça.
+Pelo exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do pedido de uniformização de interpretação de lei.
+Publique-se. Intimem-se.
+EMENTA
