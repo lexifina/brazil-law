@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. Derruir a conclusão do acórdão recorrido, no sentido de ser incabível a citação por edital, pela ausência dos requisitos para tanto, na forma como posta nas razões recursais, demandaria o reexame das provas dos autos, providência vedada em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+1.2. A subsistência de fundamento inatacado, apto a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo. Incidência da Súmula 283 do STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por CLAUDIA DA SILVA SANTOS contra decisão monocrática da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial da ora insurgente.
+O apelo extremo, interposto com fundamento no artigo 105, inciso III, alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 193, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PRELIMINAR DE NULIDADE DE CITAÇÃO POR EDITAL. NÃO VERIFICADA. COMPROVAÇÃO DO VÍNCULOJURÍDICO COM A PARTE ADVERSA. SENTENÇA MANTIDA. 1. Tendo o autor/apelado diligenciado por diversas vezes, através de cartas, na tentativa de citar a parte contrária, bem como em 01 (uma) tentativa através de oficial, não há se falarem nulidade da citação editalícia, mormente quando a apelante, assistida pela curadoria especial nomeada pelo juízo monocrático, exerceu seu direito de defesa, com apresentação de contestação. 2. Comprovado pelo banco apelado nos termos do artigo 373, inciso I, do CPC/15, o direito ao crédito perseguido, decorrente dos boletos e faturas do cartão de crédito contratado, a confirmação da sentença pela procedência dos pedidos exordiais é medida que seimpõe.3. Mantida a sentença, devem ser majorados os honorários sucumbenciais, nos termos do 85, § 11, do CPC/15. 4. RECURSO DE APELAÇÃO CÍVEL CONHECIDO MASDESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 212-221, e-STJ).
+Nas razões do recurso especial (fls. 226-234, e-STJ), a recorrente alega ofensa ao artigo 256, § 3º, do CPC, aduzindo a impossibilidade da citação editalícia, pois demonstrado que foi tentada a citação nos endereços disponíveis, tampouco por meio eletrônico, conforme determina a norma processual.
+Em juízo de admissibilidade, o Tribunal a quo negou seguimento ao recurso especial (fls. 243-246, e-STJ), dando ensejo a interposição do agravo (fls. 251-257, e-STJ).
+Não foi apresentada contraminuta (fl. 262, e-STJ).
+Em decisão monocrática (fls. 726-728, e-STJ), o agravo foi conhecido para não conhecer do recurso especial, sob o fundamento da incidência das Súmulas 284/STF e 7/STJ.
+Daí o presente agravo interno (fls. 280-284, e-STJ), no qual a agravante sustenta ter indicado a ofensa ao artigo 256, § 3º, do CPC, bem como que suas razões não demandam o reexame das provas, mas sim o reconhecimento da nulidade da citação editalícia.
+Não foi apresentada contraminuta (fl. 288, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. Derruir a conclusão do acórdão recorrido, no sentido de ser incabível a citação por edital, pela ausência dos requisitos para tanto, na forma como posta nas razões recursais, demandaria o reexame das provas dos autos, providência vedada em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+1.2. A subsistência de fundamento inatacado, apto a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo. Incidência da Súmula 283 do STF.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelas partes agravantes são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, ainda que por fundamentos diversos.
+1. A recorrente aponta ofensa ao artigo 256, § 3º, do CPC, aduzindo a impossibilidade da citação editalícia, pois demonstrado que foi tentada a citação nos endereços disponíveis, tampouco por meio eletrônico, conforme determina a norma processual.
+De início, merece prosperar a tese de afastamento do óbice da incidência da Súmula 284/STF, pois de fato, verifica-se a recorrente indicou o artigo violado, bem como o modo de sua violação.
+Assim, a respeito da possibilidade de citação editalícia, o Tribunal de origem, no caso, concluiu que (fls. 187-188, e-STJ):
+A apelante requer, preliminarmente, a nulidade da sentença por entender que a citação editalícia foi nula, uma vez que não foram adotadas medidas tendentes à realização de citação pessoal da requerida/apelante.
+Para elucidar a questão preliminar, é necessário sopesar a máxima pas de nullité sansgrief, a verificar possível existência de prejuízo às partes.
+Nesta senda, por encontrar-se a requerida, ora apelante, em local incerto e não sabido, tendo o autor/apelado diligenciado por 03 (três) vezes, através de cartas, na tentativa de citá-la, bem como em 01 (uma) tentativa através de oficial (mov. 11), reputo, assim como o juízo monocrático, inexistir prejuízo a apelante, a qual exerceu seu direito de defesa, com apresentação de contestação via curador especial nomeado pelo juiz a quo, não havendo se falarem nulidade da citação editalícia.
+(..)
+Diante desse axioma jurídico, não há se falar em nulidade da citação, pelo que rejeito a preliminar de mérito invocada pela Apelante.
+Como se vê, o órgão julgador, diante das peculiaridades do caso concreto e tendo por base o exame do acervo fático e probatório dos autos, consignou que foram esgotados todos os meios para localização do recorrido.
+Com efeito, para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal no sentido de aferir a nulidade da citação editalícia, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte. Nesse sentido, precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. OMISSÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ALEGAÇÃO DE NULIDADE DA CITAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DA CAUSA. DESCABIMENTO. SÚMULA 7/STJ. APLICAÇÃO DA TEORIA DA APARÊNCIA. RECURSO DESPROVIDO.
+(..) 2. No caso, para ultrapassar as premissas fáticas estabelecidas pelo Tribunal de origem, a fim de acolher a alegação de nulidade da citação, seria necessário o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal.
+3. Ademais, em observância à teoria da aparência, a orientação jurisprudencial desta Corte considera válida a citação da pessoa jurídica efetivada na sede ou filial da empresa a uma pessoa que não recusa a qualidade de funcionário. Entendimento que se aplica à hipótese, por analogia.
+4. Agravo interno desprovido. (AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Inviabilidade de se aferir, na presente esfera recursal, a ocorrência de suposta nulidade de citação, rechaçada pela Corte de origem com amparo nos elementos fático-probatórios constantes dos autos, ante o óbice contido na Súmula 7/STJ.
+2. Consoante jurisprudência desta Corte, não há imposição legal de expedição de ofícios às repartições públicas, para fins de localização do réu tido em local incerto ou não sabido, cuja necessidade deve ser analisada no caso em concreto. Precedentes.
+3. Agravo interno desprovido. (AgInt no REsp 1823384/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 12/11/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO POR EDITAL. VALIDADE. ESGOTAMENTO DOS MEIOS NECESSÁRIOS PARA LOCALIZAR O RÉU. SÚMULA 7 DO STJ. EXPEDIÇÃO DE OFÍCIOS ÀS REPARTIÇÕES PÚBLICAS. AUSÊNCIA DE IMPOSIÇÃO LEGAL. PRECEDENTE DESTA CORTE. RECURSO NÃO PROVIDO.
+1. Para modificar o que foi decidido pela Corte de origem, no tocante à ausência de nulidade da citação por edital, em virtude do cumprimento de todas as diligências necessárias para citação pessoal do réu, seria necessário o revolvimento do conteúdo fático-probatório dos autos, providência incabível no recurso especial ante o óbice previsto na Súmula 7 desta Corte.
+2. Ademais, conforme já decidiu esta Corte, "não há imposição legal de expedição de ofícios às repartições públicas, para fins de localização do réu tido em local incerto ou não sabido, cuja necessidade deve ser analisada no caso em concreto" (REsp 364.424/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2002, DJ 06/05/2002, p. 289).
+3. Agravo interno não provido. (AgInt no AREsp 1233310/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/05/2018, DJe 21/05/2018)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CITAÇÃO POR EDITAL. NULIDADE. REJEITADA PELO TRIBUNAL DE ORIGEM. ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO. CUMPRIMENTO DOS REQUISITOS LEGAIS. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A citação por edital é medida excepcional, razão pela qual só é admitida após esgotados todos os meios reais de localização da parte demandada.
+2. Alterar o entendimento do Tribunal de origem a respeito do esgotamento de todos os meios reais de localização da executada recai no óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1789536/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)  grifou-se
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 458 e 535 DO CPC/1973. CITAÇÃO POR EDITAL. NULIDADE. PENHORA DE VALORES. PEDIDO DE LEVANTAMENTO DA CONSTRIÇÃO. DESCABIMENTO. AUSÊNCIA DE COMPROVAÇÃO DA NATUREZA ALIMENTAR DA VERBA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. MULTA DO ART. 1.021, § 4º, do CPC/2015. NÃO INCIDÊNCIA. . DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 458 e 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso dos autos, para modificar as conclusões do acórdão recorrido a respeito da possibilidade de citação por edital devido ao esgotamento de todas as tentativas de localizar a recorrente, seria necessário o reexame de matéria de fato.
+(..) (AgInt no AREsp 1229724/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/04/2020, DJe 24/04/2020)  grifou-se
+Ademais, denota-se, que o acórdão recorrido utilizou como fundamento o fato de que a ocorrência de citação editalícia não restou prejuízo à sua defesa. Ocorre que, em suas razões de recurso especial, referido fundamento, suficiente para manutenção do decisum, não foi impugnado.
+Deste modo, a subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)  grifou- se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente para manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia.6. Agravo regimental não provido. (AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TU RMA, julgado em 14/06/2016, Dje 21/06/2016)  grifou-se .
+Incidem, no ponto, o teor das Súmulas 7/STJ e 283/STF.
+De rigor, portanto, a manutenção da decisão agravada, ainda que por fundamentos diversos.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
