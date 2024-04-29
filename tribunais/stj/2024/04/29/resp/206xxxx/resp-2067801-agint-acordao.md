@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE POR SINISTRALIDADE. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO ARTS. 421, 421-A E 478 CPC. FALTA DE DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANÇAR O ÍNDICE DE REAJUSTE PRETENDIDO. RAZÕES DE DECIDIR. NÃO IMPUGNAÇÃO. SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. É lícita a cláusula em contratos de plano de saúde coletivo que estabelece reajuste em razão da variação de custos ou do aumento de sinistralidade, devendo o magistrado, diante do caso concreto, verificar eventual abusividade do reajuste efetivamente aplicado.
+2. O Tribunal de origem considerou abusivo o reajuste levado a efeito pela operadora do plano de saúde, porquanto a seguradora não se desincumbiu de seu ônus probatório de apresentar documentos a fim de demonstrar os motivos que a levaram a aplicar referido reajuste.
+4. A ausência de impugnação dos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 752-756, que conheceu parcialmente do recurso especial, para negar-lhe provimento, em razão da ausência de violação do art. 1.022 do CPC e incidência da Súmula n. 283 do STF.
+A agravante indica manifesta violação do art. 1.022, sustentando omissão do Tribunal a quo acerca da legalidade do reajuste em razão da sinistralidade, no que tange à questão da substituição dos percentuais pelos índices da ANS e à possibilidade de apuração, na fase de cumprimento de sentença, do índice de reajuste adequado a ser aplicado ao contrato.
+Também defende a inaplicabilidade da Súmula n. 283 do STF ao caso, pois, de acordo com o entendimento do STJ, a apuração do percentual de reajuste deve ser ser feita por meio de perícia atuarial, em liquidação de sentença.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE POR SINISTRALIDADE. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO ARTS. 421, 421-A E 478 CPC. FALTA DE DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANÇAR O ÍNDICE DE REAJUSTE PRETENDIDO. RAZÕES DE DECIDIR. NÃO IMPUGNAÇÃO. SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. É lícita a cláusula em contratos de plano de saúde coletivo que estabelece reajuste em razão da variação de custos ou do aumento de sinistralidade, devendo o magistrado, diante do caso concreto, verificar eventual abusividade do reajuste efetivamente aplicado.
+2. O Tribunal de origem considerou abusivo o reajuste levado a efeito pela operadora do plano de saúde, porquanto a seguradora não se desincumbiu de seu ônus probatório de apresentar documentos a fim de demonstrar os motivos que a levaram a aplicar referido reajuste.
+4. A ausência de impugnação dos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF.
+5. Agravo interno desprovido.
+VOTO
+A irresignação não deve prosperar.
+Como bem consignado na decisão recorrida, não foi verificada violação do art. 1.022 do CPC, eis que a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+É que, a despeito da reiterada alegação de omissão acerca da legalidade do reajuste em razão da sinistralidade, tanto em relação à substituição dos percentuais pelos índices da ANS quanto à possibilidade de apuração, na fase de cumprimento de sentença, do índice adequado, o Tribunal conclui serem abusivos os reajustes aplicados sem a devida comprovação, determinando a aplicação dos percentuais da ANS. Veja-se (fls. 607-610, destaquei):
+No entanto, no presente caso, em que pese tenha sido homologada a perícia realizada por perita de confiança do juízo, a qual apresentou laudo as fls. 317/336, complementado as fls. 357/359 e 424/426, no sentido de NÃO SEREM ABUSIVOS os reajustes nos anos de2015 a 2017 e 2020, E SEREM ABUSIVOS os de 2018 e 2019 (por omissão da ré em fornecer o "Parecer Atuarial Reajuste: 2020), não há como afastar a abusividade também para os reajustes praticados naqueles primeiros anos referidos.
+Isso porque, como destacado no próprio laudo pericial, em negrito "O parecer mostra uma tabela com pesos e variações, porém NÃO há qualquer relatório de apuração da VCMH, que se demonstre como se chegou a este valor" (fls. 320, 322; 323; 325). Constando tal informação também da conclusão do laudo, ao registrar: "Com relação ao VCMH a Requerida forneceu os pesos e variações dos eventos que compõe a VCMH, contudo NÃO foi fornecido o relatório de apuração da VCMH para que se pudesse verificar os pesos e variações." (fls.325).
+É verdade que, apresentadas críticas pelo autor, a perita buscou justificar suas conclusões no laudo complementar de fls. 424/426, porém novamente admitiu que "A ausência do relatório de apuração da VCMH, não nos permitiu verificar o reajuste financeiro (VCMH). Baseado no reajuste técnico e partindo da hipótese de que o reajuste financeiro (VCMH) estivesse correto calculamos o reajuste necessário que coincidiu com o informado no parecer atuarial, elaborado pela Requerida, conforme pode ser visto às fls. 216".
+Evidente, pois, que não se pode acolher o laudo pericial apenas mediante análise de reajuste técnico(inclusive para reduzir o reajuste de 2016 de 22,49% para 15,18%) ou mediante alegada comparação entre sinistralidade real e projetada, como fez a perita, quando partiu de premissa não ratificada por documentos de que o VCMH fornecido pela ré estava correto, além do que, para concluir se houve ou não abusividade, comparou o índice apurado com o informado em parecer atuarial fornecido também de forma unilateral pela própria ré, o que torna imprestável o trabalho técnico.
+ ..
+Dessa forma, ao contrário do que sustenta a ré, não restam dúvidas de que todos os reajustes contestados na inicial foram aplicados de forma unilateral e sem qualquer comprovação detalhada, o que não se admite. Logo, é medida que se impõe autorizar tão somente a aplicação dos índices de reajuste da ANS.
+Portanto, inexistente qualquer omissão no julgado.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No mais, quanto à aplicação da Súmula n. 283 do STF, como indicado na decisão recorrida, a parte ora agravante não rebateu, nas razões do recurso especial, o fundamento adotado pelo acórdão de que os reajustes contestados na inicial foram aplicados de forma unilateral e sem comprovação detalhada, ensejando aplicação dos índices previstos pela ANS.
+Nesse cenário, correta a aplicação do supramencionado óbice sumular, que merece manutenção.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
