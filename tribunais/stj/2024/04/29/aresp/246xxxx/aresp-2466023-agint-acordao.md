@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - SOBREPARTILHA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL NO APELO EXTREMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Os recursos dirigidos à instância superior desacompanhados de procuração ou em que a cadeia de substabelecimentos está incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ.
+1.1. Na hipótese, embora devidamente intimada para a regularização da representação processual, a parte recorrente não procedeu, no prazo assinalado, à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do agravo e do recurso especial.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno, interposto por RENATO ALVES PINTO e outro, em face da decisão de fls. 352-353, e-STJ, da Presidência desta Corte, que não conheceu do recurso, em razão da irregularidade na representação processual, incidindo a Súmula 115/STJ.
+Na aludida decisão singular, não se conheceu do recurso, ante: a) a exigência, na hipótese, dos requisitos de admissibilidade do novo CPC, eis que a decisão impugnada fora publicada após a entrada em vigor do CPC/15; b) é firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula 115/STJ);c) a parte, apesar de regularmente intimada, não sanou o vício no prazo assinalado.
+Inconformados, interpuseram o presente agravo interno (fls. 357-365, e-STJ), no qual objetivam a reforma da decisão recorrida, por entenderem pela inaplicabilidade da Súmula 115/STJ, na hipótese, porquanto a parte agravante já estava devidamente representada nos autos principais, não havendo que se falar em irregularidade na representação processual.
+Impugnação às fls. 369-385, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - SOBREPARTILHA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL NO APELO EXTREMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Os recursos dirigidos à instância superior desacompanhados de procuração ou em que a cadeia de substabelecimentos está incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ.
+1.1. Na hipótese, embora devidamente intimada para a regularização da representação processual, a parte recorrente não procedeu, no prazo assinalado, à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do agravo e do recurso especial.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar, porquanto os argumentos expendidos pela parte agravante não são capazes de infirmar os fundamentos do decisum impugnado.
+1. De início, os requisitos de admissibilidade exigidos na hipótese sub judice são aqueles previstos no CPC/2015, em razão do disposto nos Enunciados Administrativos n. 2 e 3, do Plenário do Superior Tribunal de Justiça, a saber:
+Enunciado administrativo n. 2 - Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Enunciado administrativo n. 3 - Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.  grifou-se
+No caso em apreço, tem aplicação a dinâmica processual estabelecida pelo CPC/15, pois à época da publicação do decisum recorrido e da interposição do recurso especial já estava em vigência o novo regramento processual.
+2. Quanto ao pleito de afastamento do teor da Súmula 115/STJ, outrossim, não assiste razão à parte agravante.
+Consoante asseverado na decisão agravada, determinou-se a intimação da parte para regularizar a representação processual, com base nos artigos 76 e 932, parágrafo único, do CPC.
+Ocorre que, embora regularmente intimada (fl. 344, e-STJ), a parte insurgente deixou transcorrer o prazo, sem atender a providência de regularização processual (certidão de fls. 349-350, e-STJ).
+Nesse contexto, ausente a regularização do apontado vício, revela-se inafastável o teor da Súmula 115/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. AUSÊNCIA DE REGULARIZAÇÃO DO VÍCIO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Intimada para sanar o vício, nos moldes do art. 932, parágrafo único, do NCPC, a parte recorrente não juntou aos autos a cadeia completa de substabelecimento de poderes ao subscritor do recurso especial e do agravo em recurso especial, o que impede seu conhecimento.
+3. É inexistente o recurso dirigido a instância superior desacompanhado de procuração ou no qual a cadeia de substabelecimentos se mostra incompleta, à luz da Súmula nº 115 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1361739/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 12/05/2020)  grifou-se
+AGRAVO REGIMENTAL EM PETIÇÃO EM EMBARGOS DE DIVERGÊNCIA. RECURSO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. VERBETE N. 115 DA SÚMULA/STJ. EMBARGOS DE DIVERGÊNCIA QUE IMPUGNAM ACÓRDÃO PROFERIDO EM RECURSO ORDINÁRIO EM HABEAS CORPUS: DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Se o advogado que assinou a petição eletrônica dos embargos de divergência não possui procuração ou substabelecimento nos autos e, embora intimado a regularizar a representação processual, quedou-se inerte, impõe-se a incidência da Súmula 115 do STJ, segundo a qual, Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (AgRg nos EREsp 1509492/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 12/09/2018, DJe 18/09/2018). No caso concreto, a parte foi intimada a regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, por decisão publicada no DJe de 30/03/2020. Entretanto, somente trouxe procuração aos autos no momento da interposição do regimental, em 22/06/2020.
+ ..
+3. Agravo regimental a que se nega provimento. (AgRg na Pet 13.280/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/08/2020, DJe 28/08/2020)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO.COMPROVAÇÃO.IRREGULARIDADE. REPRESENTAÇÃO PROCESSUAL. VÍCIO NÃO SANADO APÓS INTIMAÇÃO. INVIABILIDADE. PRECEDENTES. DESERÇÃO. AGRAVO NÃO PROVIDO.
+1. A parte requerente deixou de comprovar o recolhimento dos valores relativos às custas judiciais. Desse modo, incide a Súmula 187 do STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+2. O STJ possui entendimento no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, conforme Súmula 115 do STJ. No presente caso, a agravante foi efetivamente intimada (fl. 380) para regularizar sua representação processual e o preparo recursal, em conformidade com o art. 76, caput, do CPC/2015, mas não o fez no prazo determinado de cinco dias.
+3. Agravo interno não provido. (AgInt no AREsp 1102343/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/04/2018, DJe 02/05/2018)
+ grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO. INSTRUMENTO PROCURATÓRIO. AUSÊNCIA. SÚMULA 115 DO STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. Agravo interno contra decisão da Presidência, que não conheceu do recurso, em razão da irregularidade na representação processual.
+2. É firme o entendimento desta Corte de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ.
+3. Hipótese em que, embora devidamente intimada para a regularização da representação processual, a parte recorrente não procedeu, no prazo assinalado, à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do agravo e do recurso especial.
+4. Agravo interno desprovido. (AgInt no AREsp 1288561/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 27/09/2018)
+ grifou-se
+Além disso, nos termos da jurisprudência desta Corte, não é permitida a ulterior regularização da representação processual, porquanto já operada a preclusão consumativa.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO INTERPOSTO NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE CADEIA COMPLETA DE PROCURAÇÕES CONFERINDO PODERES AO SUBSCRITOR DO RECURSO ESPECIAL E DO AGRAVO EM RECURSO ESPECIAL. DESCUMPRIMENTO DA DETERMINAÇÃO DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. ART. 76, § 2º, INCISO I, DO CPC/2015. APRESENTAÇÃO TARDIA. PRECLUSÃO TEMPORAL. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1578683/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/05/2020, DJe 27/05/2020)  grifou-se
+AGRAVO INTERNO NO AGRAVO (ARTIGO 1.042 DO CPC/15) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO DA AGRAVANTE.
+1. Conforme o Enunciado Administrativo nº 3 deste Superior Tribunal de Justiça, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do CPC/15.
+2. Os recursos dirigidos à instância superior desacompanhados de procuração ou em que a cadeia de substabelecimentos mostra-se incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ. 2.1. Intimada a parte a regularizar a representação processual, não procedeu a juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial, de maneira que não mais lhe socorre a previsão expressa de regularização de vícios processuais de menor gravidade, disposta no art. 1.029, § 3º, do CPC/15.
+3. Agravo interno desprovido. (AgInt no AREsp 1181463/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/05/2018, DJe 17/05/2018)  grifou-se
+A alegação de existência de procuração na origem não sana a irregularidade da representação processual, que deve ser comprovada no ato da interposição do recurso.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO NOS AUTOS . INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. INCIDÊNCIA DA SÚMULA 115 DO STJ. RECURSO DESPROVIDO.
+1. "A alegação de existência de procuração e/ou da cadeia de substabelecimento nos autos originários não tem o condão de sanar a irregularidade na representação processual, a qual deve ser comprovada no momento da interposição do recurso especial" (AgRg no AREsp 776.463/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2018, DJe de 13/4/2018.) 2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.183.473/PR, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)  grifou-se
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
