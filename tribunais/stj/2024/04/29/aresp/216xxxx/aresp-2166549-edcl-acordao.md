@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. O acórdão embargado, de forma clara e fundamentada, assentou a impossibilidade de conhecimento do Recurso pelo óbice da Súmula 7/STJ: "Quanto à questão de mérito, o Tribunal de origem consignou "o ato administrativo que indeferiu a cessão da servidora observou os ditames legais e atendeu aos princípios norteadores da Administração Pública, estando motivado na escassez de servidores lotados no órgão cedente". A desconstituição das premissas fáticas lançadas pelo acórdão recorrido demanda reexame de matéria de fato, procedimento que, em Recurso Especial, encontra óbice na Súmula 7/STJ".
+2. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Embargos de Declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração nos Embargos de Declaração contra acórdão da Segunda Turma do STJ , com a seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. SERVIDOR PÚBLICO. CESSÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+2. Quanto à questão de mérito, o Tribunal de origem consignou "o ato administrativo que indeferiu a cessão da servidora observou os ditames legais e atendeu aos princípios norteadores da Administração Pública, estando motivado na escassez de servidores lotados no órgão cedente". A desconstituição das premissas fáticas lançadas pelo acórdão recorrido demanda reexame de matéria de fato, procedimento que, em Recurso Especial, encontra óbice na Súmula 7/STJ .
+3. Agravo Interno não provido.
+A parte embargante alega omissão. Aduz (fl. 500, e-STJ):
+Ademais, a inércia da Corte a quo em apreciar referidos aspectos levou esse C. Tribunal à adoção do óbice da Súmula n.º 7/STJ que, s.m.j., parece incongruente. Ora, se a parte se valeu do instrumento processual adequado para ver analisadas questões relevantes para a julgamento do feito, não parece razoável que a inércia da Corte de origem em fazê-lo possa causar prejuízos à própria parte. Desta forma, considera-se omisso o julgado ora embargado quando não analisada a contradição existente entre o não reconhecimento da afronta aos artigos 489 e 1.022, do CPC, e a adoção do óbice da Súmula nº 7/STJ ao mérito.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. O acórdão embargado, de forma clara e fundamentada, assentou a impossibilidade de conhecimento do Recurso pelo óbice da Súmula 7/STJ: "Quanto à questão de mérito, o Tribunal de origem consignou "o ato administrativo que indeferiu a cessão da servidora observou os ditames legais e atendeu aos princípios norteadores da Administração Pública, estando motivado na escassez de servidores lotados no órgão cedente". A desconstituição das premissas fáticas lançadas pelo acórdão recorrido demanda reexame de matéria de fato, procedimento que, em Recurso Especial, encontra óbice na Súmula 7/STJ".
+2. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.3.2024.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados nos arts. 489 e 1.002 do CPC. Eles constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou (fls. 491-492, e-STJ):
+Preliminarmente, constata-se que não se configura a ofensa aos arts.489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+É o que se extrai deste trecho:
+A discussão posta nestes autos diz respeito à análise de pedido de cessão à FUNASA, para fins de recebimento de Função Gratificada FG-2, adotando-se todas as providências necessárias para a efetivação da medida.
+Examinando os autos e as alegações das partes, fico convencido do acerto da sentença de improcedência, proferida pela juíza federal Dulce Helena Dias Brasil, que transcrevo e adoto como razão de decidir, a saber:
+(..) A regra é clara: haverá cessão mediante pedido expresso do cessionário, a concordância do cedente e a concordância do agente público cedido.
+Argumenta a autora que a negativa do cedente, manifestada pelo Chefe do Serviço de Gestão Administrativa da Superintendência Estadual do Ministério da Saúde no Rio Grande do Sul e pelo Superintendente Estadual do Ministério da Saúde no Rio Grande do Sul - é ilegal, na medida em que fora expressamente autorizada a participar do certame.
+No entanto, tem-se que a autorização para participar do certame foi obtida junto à chefia imediata e à Coordenação-Geral do Núcleo Estadual do Ministério da Saúde no Estado do Rio Grande do Sul, não se tratando da autoridade competente, nem de mudança de orientação administrativa.
+A par disso, o ato administrativo foi devidamente motivado, como se extrai das justificativas apresentadas para as negativas (ev. 1, PROCADM3, p. 13, p. 14 e p. 15), relativas à redução de pessoal em função de aposentadorias, aliada à não autorização para abertura de novos concursos públicos para reposição, conforme expõe o Chefe do Serviço de Gestão Administrava - Substituto:
+(..) Na hipótese, não houve concordância do órgão de origem, que fundamentou a negativa na escassez do número de servidores atuando no local de lotação. Sobre o mérito do ato administrativo impugnado, não cabe ao Poder Judiciário nele adentrar ou perquirir, para afastar ou acolher as razões apresentadas.
+Paralelamente, tem-se que a autorização inicial para mera participação no certame, emitida pela chefia imediata e/ou mediata, é ato precário que não implica nem se confunde com a necessidade de concordância com a cessão, propriamente dita, tampouco vincula a consulta formalizada após o resultado da concorrência, tendo em vista as próprias regras do Edital e as diferentes esferas envolvidas na prática desse ato complexo.
+(..) De fato, não há direito subjetivo. A designação depende de decisão final do cedente, que é ato autorizativo, de caráter discricionário, praticado pela autoridade com competência para tal, a qual pode expressar a concordância ou não do órgão de origem, baseada em critérios de conveniência e oportunidade segundo a perspectiva da administração, havendo harmonia entre os termos do Edital e o art. 2º, do Decreto nº 9.144, de 22/08/2017, alterado pelo Decreto nº 9.707, de 11/02/2019, acima transcrito.
+(..) Em suma, na hipótese, o ato administrativo que indeferiu a cessão da servidora observou os ditames legais e atendeu aos princípios norteadores da Administração Pública, estando motivado na escassez de servidores lotados no órgão cedente, razão pela qual não há reparos a fazer no âmbito do Poder Judiciário.
+Portanto, inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, ainda que contrariamente à pretensão da parte recorrente, não padecendo o acórdão atacado de qualquer violação às normas invocadas.
+Quanto à questão de mérito, o Tribunal de origem consignou "o ato administrativo que indeferiu a cessão da servidora observou os ditames legais e atendeu aos princípios norteadores da Administração Pública, estando motivado na escassez de servidores lotados no órgão cedente".
+A desconstituição das premissas fáticas lançadas pelo acórdão recorrido demanda reexame de matéria de fato, procedimento que, em Recurso Especial, encontra óbice na Súmula 7/STJ.
+Com efeito, verificou-se a incidência da Súmula 7 do STJ, porquanto a alteração do entendimento do Tribunal de origem - "o ato administrativo que indeferiu a cessão da servidora observou os ditames legais e atendeu aos princípios norteadores da Administração Pública, estando motivado na escassez de servidores lotados no órgão cedente" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial.
+Não identifico na espécie sub judice omissão, obscuridade, contradição ou erro material, senão o intuito de rediscutir matéria já decidida, emprestando aos Embargos Declaratórios efeito infringente.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Diante do exposto, rejeito os Embargos de Declaração .
+É como voto.
