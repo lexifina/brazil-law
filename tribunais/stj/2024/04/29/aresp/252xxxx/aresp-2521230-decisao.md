@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE JUNDIAI, em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+EXECUÇÃO FISCAL - Débito de multa - Município de Jundiaí - Juízo de retratação - Artigo 1030, II, do CPC - Redirecionamento da execução aos sócios em razão do inadimplemento da empresa executada - Impossibilidade - Tese firmada pelo c. STJ, pela sistemática dos recursos repetitivos - Tema nº 97 - REsp n. 1.101.728/RS - A simples falta de pagamento do tributo não configura, por si só, nem em tese, circunstância que acarreta a responsabilidade subsidiária do sócio, prevista no art. 135 do CTN. É indispensável, para tanto, que tenha agido com excesso de poderes ou infração à lei, ao contrato social ou ao estatuto da empresa - Sentença reformada para julgar procedentes os embargos à execução da sócia - Recurso provido.
+No apelo raro, o ente público recorrente, apontando violação dos arts. 20, § 4º, do CPC/1973 e 85, § 3º, do CPC/2015, sustentou, em resumo, que os honorários advocatícios devem ser estabelecidos com base na lei processual vigente por ocasião da prolação da sentença, que, no caso, por ter ocorrido em 20/06/2012, enseja a quantificação da verba mediante o juízo de equidade previsto no estatuto revogado.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender incidentes os óbices das Súmulas 282 do STF e 7 do STJ, fundamentação com a qual não concorda o agravante.
+Oferecida contraminuta.
+Passo a decidir.
+O recurso especial não merece ser mesmo admitido.
+Isso porque a tese sustentada pela edilidade recorrente em torno da alegada violação do art. 20, § 4º, do CPC/1973, de que os honorários advocatícios sucumbenciais devem ser arbitrados com base no estatuto processual vigente à época da prolação da sentença, não foi efetivamente examinada no acórdão recorrido, nem suscitada em embargos de declaração, carecendo o recurso especial, portanto, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
