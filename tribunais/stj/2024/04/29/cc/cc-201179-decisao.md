@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência envolvendo o JUÍZO DE DIREITO DA 22ª VARA CÍVEL DE BRASÍLIA - DF e o JUÍZO DE DIREITO DA 18ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP, visando estabelecer a competência para o processamento e o julgamento da ação de obrigação de fazer ajuizada pela 1ª interessada em desfavor do 2º interessado.
+O JUÍZO DA 18ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP, primeiro perante quem a demanda foi proposta, declinou da competência, ao argumento de que a sede do Banco do Brasil é Brasília e de que os fatos articulados na inicial não guardam qualquer relação com o endereço fornecido na inicial, havendo, assim, nítida afronta à boa-fé processual, com tentativa de violação do princípio do juiz natural (fl. 14).
+Redistribuídos os autos, o JUÍZO DA 22ª VARA CÍVEL DE BRASÍLIA - DF suscitou o presente conflito sem trazer qualquer fundamentação (fl. 14).
+O Ministério Público Federal manifestou-se às fl. 37-39 com parecer pelo conhecimento do conflito negativo e, no mérito, para que se declare competente o Juízo de Direito da 18ª Vara Cível do Foro Central de São Paulo - SP, o suscitado.
+É o relatório. Decido.
+Inicialmente, com fundamento na orientação contida no art. 955, parágrafo único, I, do CPC, e na Súmula n. 568 do STJ, entendo ser caso de julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida.
+Colhe-se dos autos que cuida-se de AÇÃO DE OBRIGAÇÃO DE FAZER - RECONHECIMENTO DA BESC EM GARANTIA REAL proposta por MAXXII CONSULTORIA GESTAO EMPRESARTAL & CONSULTORIA EIRELLI em desfavor do BANCO DO BRASIL S.A.
+Assiste razão ao MPF.
+É cediço que, em se tratando de competência territorial, essa é prorrogável, sendo restrito às partes, todavia, o questionamento sobre a incompetência do juízo onde foi ajuizada a ação. É esse o entendimento consagrado pela Súmula n. 33 do STJ, que fixa que "a incompetência relativa não pode ser declarada de ofício".
+Ademais, a jurisprudência do STJ já está pacificada no sentido de reconhecer que, em se tratando de hipótese de competência relativa - como no caso em que se discute a competência prevista no art. 53, III, do CPC -, o art. 43 do mesmo diploma legal institui, com a finalidade de proteger as partes, regra da estabilização da competência (perpetuatio jurisdictionis), sendo irrelevantes as modificações de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Nesse sentido, confiram-se, entre tantas, as seguintes decisões: CC n. 150.490/SP, relator Ministro Marco Aurélio Bellizze, DJe de 20/11/2017; CC n. 152573/PR, relatora Ministra Maria Isabel Gallotti, DJe de 21/11/2017.
+Portanto, sendo relativa a competência para o processamento e julgamento desta ação, não poderia o Juízo suscitado ter declinado de ofício, nos termos da já referida Súmula n. 33 do STJ (CC n. 182.194/SC, relatora Ministra Nancy Andrighi, DJe de 15/09/2021; CC n. 180.620/DF, relator Ministro Antonio Carlos Ferreira, DJe de 1/7/2021).
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 18ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP, o suscitado.
+Comunique-se aos Juízos suscitante e suscitado acerca da presente decisão. Intimem-se.
+EMENTA
