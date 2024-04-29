@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. MORA NA CONSTRUÇÃO DE VALAS DE ESCOAMENTO. ALEGAÇÃO DE INEXEQUIBILIDADE. REEXAME DE PROVAS. INVIABILIDADE (SÚMULA 7/STJ). AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica de fundamento decisório. Reconsideração.
+2. Na hipótese, o Tribunal de Justiça concluiu, com base na prova dos autos, i nclusive no laudo pericial produzido, pela viabilidade da realização da obrigação de fazer (construção de valas de escoamento) imposta à executada, ora agravante. Modificar tal entendimento demandaria o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por RUMO MALHA OESTE S/A contra decisão da ilustre Ministra Presidente do STJ, que não conheceu do agravo em recurso especial, em virtude da ausência de impugnação específica de fundamento decisório (Súmula 182 do STJ).
+Em suas razões, a agravante alega que impugnou especificamente os fundamentos da referida decisão.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para impugnação (fl. 241).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. MORA NA CONSTRUÇÃO DE VALAS DE ESCOAMENTO. ALEGAÇÃO DE INEXEQUIBILIDADE. REEXAME DE PROVAS. INVIABILIDADE (SÚMULA 7/STJ). AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica de fundamento decisório. Reconsideração.
+2. Na hipótese, o Tribunal de Justiça concluiu, com base na prova dos autos, i nclusive no laudo pericial produzido, pela viabilidade da realização da obrigação de fazer (construção de valas de escoamento) imposta à executada, ora agravante. Modificar tal entendimento demandaria o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+VOTO
+O agravo interno merece ser provido para reconsiderar a decisão agravada, na medida em que o agravo em recurso especial impugnou especificamente os fundamentos adotados na decisão de admissibilidade do recurso especial.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo de decisão que não admitiu recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 149):
+"CUMPRIMENTO DE SENTENÇA OBRIGAÇÃO DE FAZER - CONSTRUÇÃO DE VALAS DE ESCOAMENTO. Pedido de prorrogação de prazo para cumprimento. Inexistência de fundamento para a alegação de inexequibilidade. Decurso de longo prazo sem sequer ser elaborado um cronograma de obra. Obrigação de fazer que deve ser cumprida nos termos do julgamento, sob pena de multa Recurso não provido."
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 11, 489, § 1º, II, III e IV, 1.022 do CPC/15; 248 e 884 do CC. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que "não há recalcitrância do devedor, mas sim inviabilidade do cumprimento e, portanto, descabe a incidência de astreintes sob risco de transmutação do instituto em sanção e eventual enriquecimento sem causa do credor" (fl. 183).
+No tocante à alegada inexequibilidade da obrigação, a eg. Corte de origem verificou que houve transcurso de um ano desde a determinação de seu cumprimento, sem que se apresentasse nem o cronograma de obra ou justificativa plausível para a dilatação do prazo, como se verifica no trecho do acórdão a seguir (fls. 152/153):
+"Inicialmente ressalvo que, desde a determinação de cumprimento da obrigação transcorreu um ano sem que a agravante sequer apresentasse a elaboração de projeto, exibisse o cronograma de obra e, tampouco desse início a obra de construção da vala.
+Além disso, teceu suas conclusões sem qualquer embasamento documental técnico a fundamentar sua proposição e justificar o prazo pretendido."
+Ademais, quanto ao enriquecimento sem causa da parte recorrida, o TJSP refutou a alegação, sob a tese de que não ficou configurada a inviabilidade da conclusão da obra por terceiro, como se verifica no trecho do acórdão a seguir (fl. 152):
+"Ao contrário do afirmado, a viabilidade da realização da obra em curto espaço de tempo foi atestada pelo Perito Judicial, segundo sua análise técnica, que às fls. 409 dos autos principais, indagado sobre o prazo para resolução do problema do solo, assim consignou: "Desde que haja empenho das partes nessas obras de correções, as mesmas podem ser feitas no prazo de 30 dias" Acresce-se aos fatos, a condição da empresa ré, qual seja, pessoa jurídica de direito privado, cujo objeto social é a exploração de linhas férreas, e em sendo uma empresa de grande porte, certamente possui em seu quadro de funcionários, pessoal qualificado e capacitado senão para execução, mas para contratação de pessoal terceirizado e técnico, para esse fim, e cumprimento da obrigação com maior celeridade, o que não tem se verificado."
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido, para aferir a configuração de inadimplemento da construtora, bem como o enriquecimento sem causa da parte recorrida, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVI L. AÇÃO DE RESCISÃO CONTRATUAL. 1. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REAPRECIAÇÃO DA MATÉRIA POR MEIO DE EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE. 2. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. 3. RESCISÃO CONTRATUAL. CULPA. ANÁLISE DAS CLÁUSULAS CONTRATUAIS E CONCLUSÕES FÁTICAS DO TRIBUNAL. REVER O QUADRO FÁTICO TRAÇADO, REEXAME DE PROVAS E ANALISAR CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 4. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+3. Na hipótese, alterar a conclusão do acórdão recorrido quanto ao não cumprimento das cláusulas contratuais por parte da ré, ora recorrente, ocasionando a rescisão contratual por sua culpa exclusiva, demandaria a interpretação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7 deste Tribunal.
+4. Agravo regimental improvido."
+(AgRg no AREsp 816.444/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016, DJe 29/02/2016, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..). ENRIQUECIMENTO ILÍCITO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, amparado nos elementos fático-probatórios dos autos, concluiu que não restou caracterizado o enriquecimento ilícito dos requeridos, não estando configurada a hipótese de restituição de valores prevista no artigo 884 do Código Civil de 2002. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos, provas, e do contrato social, o que é vedado em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+(..)."
+(AgInt no AgInt nos EDcl no AREsp 1582646/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2020, DJe 16/10/2020, g.n.)
+Ante o exposto, dou provimento ao agravo interno para, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+É como voto.
