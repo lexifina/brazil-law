@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 401/422) interposto contra decisão desta relatoria que negou provimento ao agravo, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 393/397).
+O agravante sustenta que a matéria referente à desconsideração da personalidade jurídica deve ser conhecida de ofício, persistindo a violação do art. 485, IV e VI, e § 3º, do CPC/2015.
+Reafirma a ofensa aos arts 133, 134 e 137 do CPC/2015 e 25-A, § 3º, da Lei n. 8.212/1991.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões apresentadas e requerida a majoração dos honorários advocatícios (e-STJ fls. 425/431).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 393/397):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da falta de violação do dispositivo legal apontado e da incidência da Súmula n. 7/STJ (e-STJ fls. 345/347).
+O acórdão recorrido está assim ementado (e-STJ fl. 261):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. Improcedência. Apelo do embargante. Alegação de ausência de responsabilidade solidária dos integrantes do condomínio de empregadores rurais pelo pagamento da dívida decorrente de condenação por danos morais e impossibilidade da administradora assumir ou criar dívidas fora do objetivo do condomínio por ela gerido. Descabida inovação em sede recursal. Não conhecimento do recurso sob tais enfoques. Adesão ao condomínio de empregadores em data posterior ao incidente que deu origem ao processo. Irrelevância. Comportamento do condomínio de empregadores, na esfera cível, equiparável ao de sociedade simples, a despeito da distinta qualificação no âmbito da legislação previdenciária. Sócio admitido em sociedade já constituída que não se exime das dívidas sociais anteriores à admissão. Inteligência do art. 1.025, do Código Civil. Sentença mantida.
+Recurso desprovido, na parte conhecida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 301/306).
+No recurso especial (e-STJ fls. 312/332), fundamentado no art. 105, III, "a", da CF, o recorrente alegou violação dos arts. 133 e 137 do CPC/2015, pois a inclusão da parte no polo passivo exigiria a instauração do incidente de desconsideração da personalidade jurídica, o que não ocorreu.
+Destacou que (e-STJ fl. 327):
+(..) a forma com que foi incluído o recorrente nesta ação, no final de 2016, foi completamente irregular, sem que tivesse sido instaurado o competente incidente de desconsideração de personalidade jurídica, e isso não foi observado pelo Tribunal a quo, conquanto tivesse requerido esclarecimento a esse respeito, mesmo instado via embargos declaratórios.
+O recorrido apenas requereu a inclusão do recorrente como executado também, nos próprios autos da execução, pelo fato de ser associado do condomínio de produtores rurais, em 10.06.2016, época em que já vigorava o Código de Processo Civil de 2015 e cujos artigos 133/137 já previam a necessidade de instauração de incidente de desconsideração de personalidade jurídica para chamar terceiro a responder por dívida alheia, violando, assim, o v. acórdão, nitidamente, tais dispositivos.
+Aduziu ofensa ao art. 489, § 1º, IV, do CPC/2015, visto que o acórdão não enfrentou o argumento de ser nula a inclusão do recorrente no polo passivo sem prévio incidente de desconsideração da personalidade jurídica, além de que tal ponto deveria ser conhecido de ofício, por se tratar de matéria de ordem pública, em observância ao art. 485, IV e VI, e § 3º, do CPC/2015.
+Defendeu a tese de contrariedade aos arts. 25-A, § 3º, da Lei n. 8.212/1991 e 365 do CC/2002, porque inexiste responsabilidade solidária.
+No agravo (e-STJ fls. 350/371), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Em relação à alegada ausência de fundamentação do acórdão recorrido quanto às teses de indevida inclusão da parte no polo passivo sem a instauração do incidente de desconsideração da personalidade juridica e de que a matéria deveria ser conhecida de ofício pelo Juízo, não procede a irresignação.
+Na inicial dos embargos à execução, o recorrente alegou ser parte ilegítima, por ter ingressado no condomínio após o acidente, não podendo ser responsabilizado pelo fato (e-STJ fl. 2):
+Pois bem, como se verifica nos Autos, precisamente na folha 601, o próprio Termo de Adesão ali encartado consta que o Sr. Ademar aderiu ao pacto na data de 07 de Julho de 2009, não respondendo assim pela dívida a qual estão lhe impondo, haja vista que na data dos fatos o mesmo não integrava os quadros societários da Requerida.
+Diante da sentença de improcedência (e-STJ fls. 143/144), o agravante interpôs apelação, alegando; (i) a inexistência de solidariedade (art. 25-A da Lei n. 8.212/1991) e (ii) ilegitimidade, pois "o apelante aderiu ao condomínio em 07 de julho de 2009, ou seja, após o incidente que deu início ao processo de conhecimento" (e-STJ fl. 151).
+Às fls. 195/200 (e-STJ), o recorrente apresentou memoriais, sustentando que não tem relação jurídica com o acidente, tendo ingressado no condomínio após o evento, além de que estariam ausentes os requisitos para a desconsideração da personalidade jurídica (e-STJ fls. 197/200):
+(..) constata-se que o Condomínio de Empregadores Rurais Aliança e o apelante Ademar Sasso não tiveram nenhuma relação jurídica com o acidente e quem foi condenada por sentença e acórdão, frisa-se novamente, foi à empresa Ativa Prestação de Serviços Agrícolas LTDA EPP, CNPJ nº 04.988.332/0001-87.
+Acredita-se que a confusão ocorreu pelo nome parecido entre as empresas, "Ativa", e pela empresa ter sócios em comum, que são os senhores Ademir Neves e Pedro Oscar Busnardo, onde pelos atos do condomínio, os referidos aparecem como gerentes, não incidindo neste caso a responsabilidade patrimonial em face do apelante.
+Inclusive, o Senhor Ademir Neves, subscreveu uma declaração pública no qual assevera que o apelante nunca teve qualquer tipo de vínculo, relação jurídica ou pessoal com a empresa Ativa Prestação de Serviços Agrícola LTDA EPP, CNPJ nº 04.988.332/0001-87, tendo tal ato presunção de veracidade e fé pública segundo o art. 384 do CPC.
+(..)
+Além de que o apelante ingressou como membro nos quadros do Condomínio, apenas em 07/07/2009, caso que não o tornaria obrigado juridicamente à responsabilização acaso fosse o Condomínio a parte requerida, haja vista não existir solidariedade entre seus membros, pois o Condomínio (que não tem personalidade jurídica própria) foi formado apenas para a divisão dos esforços laborais dos empregados rurais contratados, conforme permite o Art. 25-A da Lei 8212/91:
+(..)
+Como não há de fato e de direito qualquer solidariedade entre tais empresas, como assim almeja a parte apelada, também não há nenhum abuso de personalidade jurídica ou outro ato que caracterize o desvio de finalidade e confusão patrimonial, não ocorre qualquer hipótese do Art. 50 do Código Civil.
+Com isso, não há qualquer evidência que caracterize o chamamento do apelante para o polo desta demanda, não houve por parte sua qualquer abuso ou ato fraudulento, não há então, o que se falar em responsabilização patrimonial, pois, literalmente, foi "jogado" neste imbróglio erroneamente pela parte apelada.
+Os motivos acima foram preponderantes (juntos com outros argumentos, no qual tornaria extensiva a explanação) para atingir a improcedência do incidente de desconsideração da personalidade jurídica no processo nº 0001577-19.2017.8.26.0648, (processo de incidente de desconsideração de personalidade jurídica, que foi mencionado nos primeiros parágrafos desta peça). Onde o juízo "a quo" acatou e entendeu que os argumentos lançados não comprovaram a dita sucessão entre pessoas jurídicas Ativa Prestação de Serviços Agrícolas LTDA EPP, CNPJ nº 04.988.332/0001-87 e o Condomínio de Empregadores Rurais Alianç, entendeu que o Condomínio era administrado pela Ativa Administração de Condomínio, Agrícola LTDA -, CNPJ 09.655.635/0001-06, constatou que não houve nenhum desvio de finalidade entre elas, sendo, como já mencionada, uma confusão causada pela parte apelada (neste caso), julgando improcedente o pleito e retirando o Sr. Ademar Sasso da responsabilização patrimonial ali pretendida.
+No julgamento da apelação, a Corte local consignou que (e-STJ fls. 265/266):
+Recurso manifestamente infundado, na parte conhecida.
+Ocorre que a insurgência recursal somente comporta conhecimento nos estritos limites objetivos da lide submetida à apreciação do d. juízo a quo, sendo inadmissível a inovação em sede recursal, nitidamente identificada na espécie, mercê da tentativa de modificação dos fundamentos deduzidos nos embargos.
+(..)
+No caso, o apelante invoca, nas razões recursais, a ausência de responsabilidade solidária dos integrantes do condomínio pelo pagamento da dívida decorrente de condenação por danos morais e a impossibilidade da administradora em assumir ou criar dívidas fora do objetivo do condomínio por ela gerido, questões não ventiladas na peça de oposição dos embargos à execução - limitada ao questionamento da ilegitimidade passiva decorrente da adesão ao consórcio posteriormente ao incidente que deu origem à condenação excutida - e não submetidas à apreciação do d. juízo a quo, por tal não cognoscível nesta sede recursal.
+No mesmo sentido, não é possível, nesta seara, apreciar as questões ventiladas na manifestação de fls. 195/200, presente o intuito manifesto de inovar nesta sede recursal, trazendo à tona questões não suscitadas em tempo oportuno, e de há muito sepultadas pela preclusão.
+O agravante opôs embargos de declaração (e-STJ fls. 271/275), alegando omissão quanto à indevida inclusão no polo passivo sem a instauração do incidente de desconsideração da personalidade jurídica, devendo a matéria ser conhecida de ofício pelo Juízo.
+Os declaratórios foram rejeitados, pois o Tribunal de origem entendeu não estarem presentes os vícios dispostos no art. 1.022 do CPC/2015.
+O agravante não apresentou ao TJSP a tese de ser indevida a inclusão da parte no polo passivo sem a instauração do incidente de desconsideração da personalidade jurídica e que a matéria deveria ser conhecida de ofício. Somente em sede de declaratórios foi suscitada omissão quanto à referida questão. Ocasião em que a Corte local, fundamentadamente, afastou o vício suscitado.
+Portanto, não há falar em violação do art. 489, § 1º, IV, do CPC, pois a Justiça de origem enfrentou todos os argumentos apresentados pela parte.
+Por fim, o conteúdo dos arts. 133, 137, 278, 280 e 485 do CPC/2015, 25-A, § 3º, da Lei n. 8.212/1991 e 365 do CC/2002 não foi analisado pelo TJSP, estando ausente o requisito do prequestionamento. Incide a Súmula n. 282/STF.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Neste recurso, todavia, o agravante não refutou a ausência de violação do art. 489, § 1º, IV, do CPC/2015 e a aplicação da Súmula n. 282/STF. Logo, tendo deixado de rebater especificamente a decisão ora agravada, incide a Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO COMBATIDOS. ART. 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ENUNCIADO 182 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgRg no Ag n. 1.155.777/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/5/2016, DJe 18/5/2016.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NÃO CONHEÇO do agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno.
+É como voto.
