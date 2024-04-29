@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Situação em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DA PARAÍBA contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial, por deficiência de fundamentação (Súmula 284 do STF), pelo não cabimento do apelo extremo fundado em violação de súmula (Súmula 518 do STJ) e em legislação local (Súmula 280 do STF) e por falta de prequestionamento.
+No  agravo  interno  (e-STJ  fls.  214/219) ,  o  agravante defende que "a decisão restou omissa, se enquadrando no que dispõe no art. 1022, II, do CPC, logo que, não sendo sanada a omissão, resta evidente a violação do referido inciso" (e-STJ fls. 215/216). Diz, ainda, que "também não incide no caso o óbice da Súmula 284 do STF e nem mesmo Súmula 518 do STJ, pois as razões do recurso especial têm fundamentação plena, com indicação e explanação coerente dos artigos violados pelo acordão do Tribunal Local" (e-STJ fl. 216). Afirma que "não há o que se falar em aplicação de súmula 280 do STF, pois ausente fundamentação em legislação local, e conforme já inferido, qualquer citação de súmulas e resoluções, ou legislações infraconstitucionais foram usadas apenas para complementar o raciocínio argumentativo" (e-STJ fl. 217). Por fim, sustenta que, "no recurso, foi interposto embargos de declaração, portanto, se demonstra ter havido prequestionamento" (e-STJ fl. 217).
+A  impugnação  foi  oferecida  à s  e-STJ  fls.  225/232.
+É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Situação em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na situação dos autos, o agravo interno não merece ser conhecido.
+Com efeito, o recurso especial não foi conhecido com apoio nos seguintes fundamentos: (i) deficiência de fundamentação (Súmula 284 do STF) por ausência de indicação específica do inciso supostamente violado, com relação à alegada ofensa ao art. 1.022 do CPC/2015; (ii) deficiência de fundamentação (Súmula 284 do STF) por ausência de indicação específica dos incisos supostamente violados, quanto à alegada afronta ao art. 2º, § 5º, da LEF e ao art. 202 do CTN; (iii) impossibilidade de alegação de violação de súmula (Súmula 518 do STJ); (iv) impossibilidade de alegação de contrariedade de legislação local (Súmula 280 do STF); e, (v) falta de prequestionamento.
+Contudo, da leitura das razões do agravo interno, é possível verificar que o recorrente, ainda que tenha tratado dos fundamentos adotados pela Presidência desta Corte para não conhecer do recurso, deixou de impugnar de maneira processualmente adequada os óbices elencados no decisum.
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão, trazendo argumentações capazes de demonstrar o seu desacerto, " ..  não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido" (AREsp 212.401, rel. Ministro Mauro Campbell Marques, DJe de 22/06/2022).
+Quanto à deficiência de fundamentação (Súmula 284 do STF), o agravante não evidencia o apontamento, no recurso especial, dos incisos do art. 1.022 do CPC/2015, do art. 2º, § 5º, da LEF e do art. 202 do CTN, que supostamente teriam sido violados. O agravante limita-se a defender genericamente que "as razões do recurso especial têm fundamentação plena, com indicação e explanação coerente dos artigos violados pelo acordão do Tribunal Local" (e-STJ fl. 216).
+No que diz respeito à incidência da Súmula 280 do STF, o agravante também não elabora argumentação suficiente para afastar a aplicação do referido enunciado.
+Com relação à ausência de prequestionamento, destaco que "a mera alegação genérica da existência de prequestionamento não é suficiente, sendo imprescindível a efetiva demonstração quanto ao modo como teria havido a apreciação pelo Tribunal de origem, notadamente por meio da transcrição dos excertos do acórdão recorrido." (AgInt no AREsp 1.724.002/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do CPC/2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
