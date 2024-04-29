@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo da FAZENDA NACIONAL da decisão que inadmitiu recurso especial interposto, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 899):
+AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO. I - O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+II - Hipótese dos autos em que a decisão agravada observou os critérios anteriormente expostos e a parte agravante não refuta a subsunção do caso ao entendimento firmado, limitando-se a questionar a orientação adotada, já sedimentada nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557 do Código de Processo Civil.
+III - Agravo legal da União Federal (Fazenda Nacional) e da parte autora desprovidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 967/971).
+No recurso especial, a recorrente entende violado o art. 535 do CPC/1973 e os arts. 22 e 28, §§ 8º e 9º, da Lei n. 8.212/1991, combinados com o art. 131, IV da CLT.
+Requer o reconhecimento da ilegalidade da isenção de contribuição previdenciária para as verbas referentes aos quinze dias que antecedem o auxilio-doença/acidente e outras faltas fundadas em atestados médicos.
+Contrarrazões às e-STJ fls. 1.055/1.063.
+O recurso não foi admitido em razão da incidência da Súmula 83 do STJ (e-STJ fls. 1.117/1.1127).
+Passo a decidir.
+Importa mencionar que o recurso especial se origina de mandado de segurança em que a impetrante pleiteia a declaração de inexigibilidade de contribuição previdenciária patronal incidente sobre os valores pagos a título de horas extras (50%), descanso semanal remunerado, intervalo refeição, adicional noturno e auxílio enfermidade.
+A segurança foi parcialmente concedida "a fim de afastar a exigibilidade da contribuição previdenciária sobre os valores pagos a título de auxílio doença pagos nos 15 primeiros dias de benefício" (e-STJ fls. 715/721).
+O relator do feito negou provimento ao reexame necessário e às apelações da Fazenda Nacional e do impetrante (e-STJ fls. 825/824).
+Interposto agravo legal, o Tribunal negou provimento ao recurso reiterando os argumentos da decisão monocrática, nos seguintes termos, no que interessa (e-STJ fl. 828):
+ ..
+DA INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIARIA NOS PRIMEIROS 15 (QUINZE) DIAS DE AFASTAMENTO (AUXILIO DOENÇA OU ACIDENTE)
+Está pacificado na jurisprudência pátria que sobre a verba paga pelo empregador ao empregado nos primeiros quinze dias do afastamento do trabalho em razão de doença ou acidente não deve incidir contribuição previdenciária, posto que tal verba não possui natureza remuneratória, mas sim indenizatória. De notar que, durante o período de quinze dias que antecede o benefício previdenciário o empregado não trabalha, não havendo, destarte, uma remuneração à prestação de serviços. Não há, assim, a ocorrência do fato gerador da contribuição previdenciária, razão pela qual tal exação não é exigível.
+ ..
+Pois bem.
+Feita tal anotação, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650/RJ, Relator Ministro Humberto Martins, Segunda Turma, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 20/6/2014.
+No mérito, v erifica-se que o acórdão regional recorrido foi proferido em conformidade com a jurisprudência do Superior Tribunal de Justiça, segundo a qual:
+ ..  as contribuições para o FGTS incidem sobre: salário-maternidade, quinze primeiros dias que antecedem a concessão do auxílio-doença e auxílio-acidente, terço de férias, décimo terceiro salário, aviso prévio indenizado e reflexos, horas extras, descanso semanal remunerado e adicionais noturno, de insalubridade e periculosidade, não sendo viável equipará-las às contribuições previdenciárias por ausência de previsão legal. Precedentes: AREsp 1.651.109/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/06/2020, DJe 07/08/2020; AgInt no AREsp 1.790.119/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2021, DJe 17/06/2021; AgInt no AREsp 1.155.120/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/04/2018, DJe 12/04/2018.
+2. Agravo interno não provido.
+(AgInt no REsp 1.946.254/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/04/2022, DJe 07/04/2022).
+Ainda nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. A Caixa Econômica Federal não tem legitimidade para figurar no polo passivo da ação na qual se discute a própria incidência da contribuição para o FGTS. Precedentes.
+2. Conforme o entendimento do Superior Tribunal de Justiça, as contribuições para o Fundo de Garantia do Tempo de Serviço (FGTS) incidem sobre as parcelas pagas a título de horas extraordinárias, aviso prévio indenizado, adicional de férias (terço constitucional), adicional de insalubridade, adicional de periculosidade, adicional noturno e, ainda, sobre o auxílio-doença ou o auxílio acidente durante os primeiros quinze dias de afastamento do trabalhador, não se podendo equipará-las às contribuições previdenciárias por ausência de previsão legal.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.790.119/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2021, DJe 17/06/2021).
+ADMINISTRATIVO. CONTRIBUIÇÃO AO FGTS. PRIMEIROS QUINZE DIAS ANTERIORES AO AUXÍLIO-DOENÇA E O AUXÍLIO-ACIDENTE, TERÇO CONSTITUCIONAL DE FÉRIAS, HORAS-EXTRAS E AVISO PRÉVIO INDENIZADO. INCIDÊNCIA. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. SÚMULA 7 DO STJ.
+1. "O FGTS trata-se de um direito autônomo dos trabalhadores urbanos e rurais de índole social e trabalhista, não possuindo caráter de imposto e nem de contribuição previdenciária. Assim, não é possível a sua equiparação com a sistemática utilizada para fins de incidência de contribuição previdenciária e imposto de renda, de modo que é irrelevante a natureza da verba trabalhista (remuneratória ou indenizatória/compensatória) para fins de incidência do FGTS." (REsp 1448294/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/12/2014, DJe 15/12/2014).
+2. Somente as verbas expressamente referidas no art. 28, § 9º, da Lei n. 8.212/1991 estão excluídas da base de cálculo da contribuição para o FGTS, nos termos do art. 15, caput e § 6º, da Lei n. 8.036/1990, o que não é o caso do auxílio-doença e do auxílio-acidente, do terço constitucional de férias, das horas-extras e do aviso prévio indenizado. Precedentes.
+3. Na instância especial, a revisão do juízo de equidade para a fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) somente é admitida quando o valor arbitrado é irrisório ou exorbitante, não sendo o caso dos autos. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1. 484.939/PE, de minha relatoria, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 13/12/2017).
+Ainda, incide contribuição previdenciária sobre as faltas justificadas, por integrar a remuneração e não acarretar suspensão do contrato de trabalho (vide AgInt no REsp 1.571.142/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 02/02/2017; REsp 1.480. 640/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 14/11/2014).
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e/ou "c" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais (art. 85, § 11, do CPC/2015), em razão de ser o recurso oriundo de acórd ão proferido em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
