@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de agravo interposto por FLAVIO EDUARDO DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu o recurso especial formulado com fundamento no artigo 105, III, a, da Constituição da República, em oposição a acórdão que deu parcial provimento a apelação da defesa para redimensionar a pena para 7 anos, 3 meses e 3 dias de reclusão, no regime fechado, além do pagamento de 16 dias-multa, por meio de acórdão assim ementado (e-STJ fl. 297):
+ROUBO MAJORADO - Materialidade e autoria comprovadas. Declarações da vítima e depoimento da guarda civil municipal em harmonia com o conjunto probatório. Negativa do réu isolada - Crime praticado em concurso de agentes - Condenação mantida. PENAS E REGIME PRISIONAL - Bases acima dos patamares. Maus antecedentes. Coeficiente alterado para 1/6. Razoabilidade - Reincidência (1/6). Bis in idem não configurado. Diferentes condenações transitadas em julgado que foram utilizadas em fases distintas da dosimetria - Concurso de pessoas (1/3) - Regime inicial fechado - Apelo provido em parte para reduzir as penas.
+O recurso especial aponta violação dos artigos 33, § 2º, b, e 64, I, ambos do Código Penal.
+Sustenta, em síntese, que: a) o "processo utilizado como "reincidência" teve declarada a extinção da pena em virtude de se cumprimento em 28/08/2007 e o fato apurado na presente ação penal ocorrera no dia 18/10/2014, logo ultrapassados mais de 5 anos entre a data da extinção da pena e a infração posterior, de modo que não é possível a sua utilização como circunstância agravante com o aumento de 1/6 na segunda fase da pena" (e-STJ fl. 323); b) "a aludida reincidência não é fundamento idôneo para fins de fixação do regime mais gravoso que o permitido em lei, tendo em vista o afastamento da condição em virtude da superação do período depurador" (e-STJ fl. 324); e c) "o afastamento do regime inicial semiaberto em razão do supracitado "maus antecedentes" configura verdadeiro bis in idem, tendo em vista que os maus antecedentes já foram utilizados para exasperar a pena-base, razão a qual referida fundamentação é inidônea" (e-STJ fl. 324).
+Requer, portanto, seja o recurso conhecido e provido para afastar o aumento de 1/6 na segunda fase dosimétrica em razão da reincidência e fixar o regime semiaberto para o início de cumprimento da pena.
+Foram apresentadas as contrarrazões (e-STJ fls. 329-335).
+O recurso foi inadmitido pela incidência dos óbices das Súmulas 7/STJ e 282 e 356/STF (e-STJ fls. 338-339). Assim, foi interposto este agravo (e-STJ fls. 342-351).
+Contraminuta às e-STJ fls. 354-359.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para conhecer parcialmente do recurso especial e, nessa parte, desprovê-lo (e-STJ fls. 373-376).
+É o relatório.
+Decido.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Cinge-se a controvérsia ao aumento na segunda fase dosimétrica em decorrência da reincidência e da fixação do regime fechado para o início do cumprimento da pena.
+A pretensão recursal não merece acolhimento.
+O Tribunal de origem, ao redimensionar a pena, assim asseverou (e-STJ fls. 304-305):
+Bem decretada, portanto, a condenação.
+Isso posto, a pena-base, em razão dos antecedentes criminais, acrescida de 1/4, foi fixada em 5 anos de reclusão, e 12 dias-multa.
+ ..
+Todavia, com todo o respeito, no tocante a fração utilizada, razoável o acolhimento da tese defensiva para a fixação do aumento em 1/6, com a readequação da pena para 4 anos e 8 meses de reclusão, e 11 dias-multa.
+Na segunda fase, "presente a agravante da reincidência,  ..  processo nº 0057654-53.2004.8.26.0050", a pena foi acrescida de mais 1/6, resultando em 5 anos, 5 meses e 10 dias de reclusão, e 12 dias-multa.
+Pela causa de aumento do concurso de agentes, foi aplicado o piso de 1/3, não comportando reparos e elevando a pena para 7 anos, 3 meses e 3 dias de reclusão, e 16 dias-multa.
+O regime fechado foi bem adotado, diante dos maus antecedentes e a reincidência, desautorizando outro mais brando. (grifamos)
+Inicialmente, quanto ao aumento pela reincidência na segunda fase dosimétrica, verifica-se que a Corte de origem, embora tenha analisado a dosimetria e mantido o aumento pela reincidência, não adentrou no aspecto relativo ao alegado decurso do período depurador.
+O Colegiado local simplesmente ressaltou que ""presente a agravante da reincidência,  ..  processo nº 0057654-53.2004.8.26.0050", a pena foi acrescida de mais 1/6" (e-STJ fl. 305).
+Com efeito, a questão não foi sequer alegada na apelação, conforme depreende-se do seguinte trecho do relatório do acórdão recorrido: "Em síntese, requer (i) a absolvição, nos termos do artigo 386, inciso VII, do Código de Processo Penal e, subsidiariamente, (ii) fixação da pena-base no mínimo legal, sob pena de bis in idem, e (iii) fixação de regime inicial mais brando (fls 264/271)" (e-STJ fl. 297).
+O acórdão recorrido não se pronunciou sobre a questão, conforme o enfoque trazido pelo recorrente. Desse modo, não há como apreciar as alegações trazidas nas razões do especial.
+O Superior Tribunal de Justiça orienta que "o prequestionamento admitido por esta Corte se caracteriza quando o Tribunal de origem emite juízo de valor sobre determinada questão, englobando aspectos presentes na tese que embasam o pleito apresentado no recurso especial. Assim, uma tese não refutada pelo Tribunal de origem não pode ser conhecida no âmbito do recurso especial por ausência de prequestionamento" (AgRg no REsp 1.939.244/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÍTIDOS INTUITOS INFRINGENTES. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES NO RECONHECIMENTO PESSOAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULAS N. 282 E 356 DO STF. RECURSO DESPROVIDO.
+ ..
+2. Em relação à discussão acerca da nulidade do reconhecimento pessoal do réu, observa-se que a Corte local não se manifestou em relação à referida tese. Diante do não prequestionamento da matéria, de rigor a incidência das Súmulas n. 282 e 356, ambas do STF.
+3. Esta Corte já decidiu também que " i ncidem, portanto, os óbices das Súmulas n. 211 do STJ e 282 do STF, que também é observada por esta Corte, se o mérito das teses veiculadas nas razões do especial não foi analisado pelo Tribunal a quo. Não é cabível a adoção do prequestionamento ficto se a parte não suscitou a violação do art. 619 do Código de Processo Penal e não apontou eventual omissão do Juízo de segunda instância a ser sanada" (AgRg no REsp n. 1.772.993/CE, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 4/6/2020).
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp 2.040.075/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.) (grifamos)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. INTELIGÊNCIA DAS SÚMULAS 282, 284 E 356, TODAS DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. REGIME ABERTO E SUBSTITUIÇÃO DA PENA. VIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+ ..
+7. Por outro vértice, como é de conhecimento, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp n.º 454.427/SP, Rel. Min. LUIS FELIPE SALOMÃO, Quarta Turma, DJe 19/2/2015).
+8. O prequestionamento constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte (AgRg no HC n.º 413.921/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/10/2017, DJe 18/10/2017).
+9. Dessarte, não tendo o Tribunal de origem se manifestado sobre a apontada ofensa aos mencionados dispositivos legais, incidem, na hipótese, os verbetes nº 282 do Supremo Tribunal Federal, o qual disciplina ser inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada", bem como o nº 211 do Superior Tribunal de Justiça: inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+ ..
+13. Agravo regimental não conhecido. Habeas corpus concedido de ofício para fixar o regime aberto, com substituição da pena por restritivas de direitos - a serem fixadas pelo Juízo das Execuções.
+(AgRg no AREsp 2.055.200/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022.) (grifamos)
+Não tendo sido a matéria debatida nas instâncias ordinárias, mostra-se inviável o seu exame nesta via especial ante o óbice, por analogia, das Súmulas 282 e 356/STF, razão pela qual o recurso não pode ser conhecido no ponto.
+Saliento também que, ainda que se pudesse analisar e desconsiderar a reincidência, restaria o fundamento relativo aos maus antecedentes (circunstância judicial desfavorável) para a fixação do regime fechado, o que também é fundamento idôneo para a determinação do modo mais gravoso.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE OFENSA. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. REGIME FECHADO. PENA INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE ACIMA DO PATAMAR MÍNIMO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Para a escolha do regime prisional mais adequado, sabe-se que a jurisprudência desta Corte firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+3. No caso, não há se falar em regime diverso do fechado, uma vez que a pena é superior a 4 anos e a pena-base foi fixada acima do mínimo legal, em razão de circunstâncias judiciais desfavoráveis - A pena foi fixada acima do mínimo legal em razão dos maus antecedentes e a Colenda Corte Suprema pacificou entendimento de que o período depurador da reincidência não se aplica aos maus antecedentes (e-STJ fls. 47). Assim, nos termos do art. 33, § § 2º e 3º do Código Penal, o regime fechado se mostra mais adequado.
+4. Agravo regimental improvido.
+(AgRg no HC 804.312/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.)(grifamos)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE ROUBO. CONDENAÇÃO À PENA INFERIOR A 8 ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CUMPRIMENTO DA PENA EM REGIME INICIAL MAIS GRAVOSO. REGIME FECHADO. FUNDAMENTAÇÃO SUFICIENTE. JURISPRUDÊNCIA DO STJ.
+1. Tendo sido fixada pena privativa de liberdade inferior a 8 anos e tendo em vista a existência de circunstância judicial desfavorável, nos termos dos arts. 33, §§ 2º e 3º, e 59 do CP, o cumprimento da pena deverá ser iniciado em regime mais gravoso, no caso, o fechado.
+Jurisprudência do STJ.
+2. Agravo regimental improvido.
+(AgRg no HC 829.353/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.) (grifamos)
+Por fim, em relação ao regime, na sua determinação deve ser observado o disposto nos arts. 33 e 59 do Código Penal, bem como as Súmulas 440 do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal.
+Nota-se que o Tribunal de origem fixou o regime fechado diante da presença de circunstâncias judiciais desfavoráveis (maus antecedentes) e da reincidência, fundamento que demonstra a gravidade concreta do crime e exige maior reprovabilidade da conduta.
+Assim, embora a pena aplicada se situe, na hipótese, em patamar superior a 4 anos e inferior a 8 anos de reclusão, é cabível a imposição de regime mais gravoso em decorrência das circunstâncias judiciais desfavoráveis (maus antecedentes) e da reincidência, mostrando-se viável a fixação do modo fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+A conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência do STJ sobre o tema, conforme se verifica dos seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4º, DA LEI N. 11.343/2006. MAUS ANTECEDENTES. DECURSO DO PERÍODO DEPURADOR DE 5 ANOS. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. REGIME FECHADO. REINCIDÊNCIA E MAUS ANTECEDENTES. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - O pleito de reconhecimento da ilegalidade do acórdão impugnado em razão da valoração, a título de maus antecedentes, de condenação que já extrapolou o período depurador de cinco anos, não foi objeto de debate pela Corte de origem, o que obsta o conhecimento do pedido por este Tribunal.
+II - Ademais, não há qualquer qualquer flagrante ilegalidade, vislumbrada de plano, a ser sanada nos moldes do parágrafo 2º do artigo 654 do Código de Processo Penal, até porque a tese sustentada pelo agravante está em desacordo com a jurisprudência desta Corte Superior.
+III - Não há ilegalidade na fixação do regime prisional inicial fechado, em razão da reincidência e dos maus antecedentes do paciente, nos termos do artigo 33, § 2º, "b", e § 3º, do Código Penal.
+IV - O agravo regimental deve trazer novos argumentos aptos a ensejar a alteração da decisão ora agravada, sob pena de a decisão agravada ser mantida por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC 865.928/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.) (grifamos)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO E DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTES. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA DA PENA. ADEQUAÇÃO. TRÁFICO PRIVILEGIADO. NÃO OCORRÊNCIA. PACIENTE REINCIDENTE. AUSÊNCIA DOS REQUISITOS LEGAIS. REGIME DE PENA. GRAVIDADE JUSTIFICADA. AGRAVO DESPROVIDO.
+ ..
+5. O regime inicial de cumprimento de pena em regime fechado foi devidamente fundamentado com base no art. 33 do Código Penal, considerando a reincidência e circunstâncias desfavoráveis do caso.
+A pena imposta é inferior a 8 anos, mas superior a 4 anos, e, portanto, a imposição do regime mais gravoso é proporcional e justificada.
+6. Agravo regimental desprovido.
+(AgRg no HC 810.380/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/5/2023, DJe de 2/6/2023.) (grifamos)
+Incide, no ponto, a Súmula 568/STJ, segundo a qual o relator poderá dar ou negar provimento ao recurso, monocraticamente, quando houver entendimento dominante desta Corte acerca do tema.
+Ante o exposto, com fundamento no arti go 253, parágrafo único, II, a e b, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
