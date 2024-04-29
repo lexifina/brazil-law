@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se embargos de declaração opostos por MEGA WATT COMERCIALIZAÇÃO DE ENERGIA LTDA. contra decisão singular, desta relatoria, que conheceu do agravo de COOPERZEM COOPERATIVA DE GERAÇÃO DE ENERGIA E DESENVOLVIMENTO e, com fundamento no artigo 932, III e IV, "a", do CPC, bem como na Súmula n. 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, em razão da (a) incidência das Súmulas n. 5, 7 e 568 do STJ; e (b) impossibilidade de análise do dissídio jurisprudencial, ante a aplicação dos verbetes sumulares n. 5, 7 e 568 desta Corte (e-STJ fls. 260/267).
+Aduz que há omissão a ser suprida, nos termos do artigo 1.022, II, do CPC, porquanto necessário o pronunciamento acerca de ter deixado de " ..  fixar os honorários recursais em face da rejeição do recurso especial  .. " (e-STJ fl. 270).
+Impugnação às fls. 276/277 (e-STJ), em que se pleiteia a aplicação da multa prevista no § 2º do artigo 1.026 do CPC.
+Os embargos foram opostos tempestivamente.
+RELATADO O PROCESSO, DECIDE-SE.
+De início, rejeito a requerida aplicação da multa do artigo 1.026, § 2º, do CPC, por não considerar manifestamente inadmissível o recurso na hipótese.
+De acordo com o artigo 1.022 do CPC, cabe a oposição de embargos de declaração para: (i) esclarecer obscuridade ou eliminar contradição; (ii) suprir omissão de ponto ou questão sobre qual devia se pronunciar o juiz de ofício ou a requerimento; e (iii) corrigir erro material.
+Sobreleva notar que o inciso IV do artigo 489 do CPC impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, a Corte Especial do Superior Tribunal de Justiça entende que o " ..  julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016)  .. " (AgInt no MS n. 24.320/DF, Corte Especial, DJe de 23/5/2019).
+Da análise dos autos, a decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum.
+No que diz respeito a não fixação de honorários de sucumbência recursal, verifica-se que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários, o que inviabiliza, portanto, o pedido.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Conclui-se, portanto, que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, o seguinte precedente desta Corte Superior: EDcl no AgRg nos EREsp n. 1.213.226/SC, Corte Especial, DJe de 22/11/2016).
+Forte em tais razões, REJEITO os embargos de declaração, sem aplicação da multa do artigo 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. AUSÊNCIA DE VÍCIOS. MULTA. ARTIGO 1.026, § 2º, DO CPC. DESCABIMENTO.
+1. Os embargos de declaração, a teor do artigo 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício de obscuridade, contradição, omissão ou erro material, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados, sem aplicação da multa do artigo 1.026, § 2º, do CPC.
