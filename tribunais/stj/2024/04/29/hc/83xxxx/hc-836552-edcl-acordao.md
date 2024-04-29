@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. CRIME IMPEDITIVO. AÇÕES PENAIS DIVERSAS. AFRONTA A DISPOSITIVOS CONSTITUCIONAIS. OMISSÃO. PREQUESTIONAMENTO.
+1. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente. Podem ser usados, ainda, para corrigir eventual erro material do julgado.
+2. Os aclaratórios não podem ser utilizados como instrumento para novo exame da própria questão de fundo, de ordem a viabilizar, em fase processual inadequada, a revisão de ato judicial regularmente proferido, o que parece pretender o embargante.
+3. É " d escabida a análise pelo Superior Tribunal de Justiça de eventual ofensa a preceitos de ordem constitucional, nem mesmo para fins de prequestionamento, sob pena de usurpação à competência do Supremo Tribunal Federal, estabelecida pelo constituinte originário no art. 102, inciso III, da Constituição da República" (EDcl no AgRg no HC n. 562.974/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração no agravo regimental no agravo regimental no habeas corpus opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão ementado nos seguintes termos (e-STJ fl. 143):
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. INCONSTITUCIONALIDADE DO ART. 5º. IMPROPRIEDADE DA VIA ELEITA. EXECUTADO QUE PREENCHE OS REQUISITOS PREVISTOS NO DECRETO. CRIME IMPEDITIVO. AÇÕES PENAIS DIVERSAS. POSSIBILIDADE. ENTENDIMENTO DA TERCEIRA SEÇÃO.
+1. "A alegação de inconstitucionalidade não é suscetível de análise na via do habeas corpus, que não pode ser utilizado como mecanismo de controle da validade das leis e dos atos normativos em geral. Ademais, o exame de constitucionalidade do teor do decreto já foi submetido à discussão no Supremo Tribunal Federal, em Ação Direta de Inconstitucionalidade, sem a determinação, por ora, de suspensão dos efeitos do dispositivo legal questionado" . (AgRg no HC n. 840.517/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023.)
+2. A Terceira Seção, em julgamento ocorrido aos 8/11/23, posicionou-se no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos". (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+3. Agravo regimental desprovido.
+Em suas razões, alega o representante do Parquet a ocorrência de omissão, pois "deixou a douta Sexta Turma de se manifestar acerca da ofensa aos princípios da separação dos poderes, segurança jurídica e vigência à atribuição presidencial prevista no art. 84, inciso XII, da Constituição Federal" (e-STJ fl. 161).
+Sustenta, ademais, que, "para se beneficiar do instituto do indulto previsto em referido decreto, deve o apenado ter cumprido integralmente as reprimendas relativas às infrações penais impeditivas, sendo irrelevante o fato de que os ilícitos impeditivos e não impeditivos tenham sido apurados em contexto de ações penais diversas" (e-STJ fl. 162).
+Pugna, ao final, pelo acolhimento do embargos com efeitos infringentes. Alternativamente, para fins de prequestionamento, requer o enfrentamento da tese de violação aos dispositivos e princípios constitucionais explicitados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. CRIME IMPEDITIVO. AÇÕES PENAIS DIVERSAS. AFRONTA A DISPOSITIVOS CONSTITUCIONAIS. OMISSÃO. PREQUESTIONAMENTO.
+1. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente. Podem ser usados, ainda, para corrigir eventual erro material do julgado.
+2. Os aclaratórios não podem ser utilizados como instrumento para novo exame da própria questão de fundo, de ordem a viabilizar, em fase processual inadequada, a revisão de ato judicial regularmente proferido, o que parece pretender o embargante.
+3. É " d escabida a análise pelo Superior Tribunal de Justiça de eventual ofensa a preceitos de ordem constitucional, nem mesmo para fins de prequestionamento, sob pena de usurpação à competência do Supremo Tribunal Federal, estabelecida pelo constituinte originário no art. 102, inciso III, da Constituição da República" (EDcl no AgRg no HC n. 562.974/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente. Podem ser usados, ainda, para corrigir eventual erro material do julgado.
+Fixada essa premissa, a despeito dos argumentos expendidos pelo embargante, é certo que o acórdão embargado analisou, com a devida fundamentação e clareza, todos os pontos pertinentes à matéria suscitada.
+Destacou-se no acórdão embargado que " d e acordo com a jurisprudência uníssona do Supremo Tribunal Federal, o habeas corpus não pode ser utilizado como substitutivo para ações de controle de constitucionalidade. Ademais, a questão relativa à inconstitucionalidade do art. 5º do Decreto Presidencial n. 11.302/2022 está em discussão em via própria, nos autos da ADI n. 7.390/DF, perante a Suprema Corte" (e-STJ fl. 148).
+Consta, ainda, no r. voto que " a  Terceira Seção, contudo, em julgamento ocorrido aos 8/11/23, posicionou-se no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos" (e-STJ fl. 151).
+Na hipótese, "o agravante possui condenação por crime impeditivo- PEC n. 7000135-78.2020.8.26.0037 - e pelos delitos previstos nos arts. 158, § 1º, do CP, e 244-B,caput, do ECA, em feitos diversos dos quais se postula o indulto" (e-STJ fl. 152).
+Assim, inexiste a alegada "omissão". Os embargos de declaração não podem ser utilizados como instrumento para novo exame da própria questão de fundo, de ordem a viabilizar, em fase processual inadequada, a revisão de ato judicial regularmente proferido, o que parece pretender o embargante.
+Vale lembrar que "não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgRg no RHC n. 149.926/MG, relator Ministro Olindo Menezes - Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 26/10/2021, DJe 28/10/2021).
+Desse modo, está evidenciada a impossibilidade de acolhimento dos presentes aclaratórios, pois não foi demonstrada a ocorrência de nenhum dos vícios previstos no art. 619 do Código de Processo Penal, tratando-se, na verdade, de mero inconformismo com o teor do ato impugnado.
+A propósito, destaco os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. AUSÊNCIA DE INDICAÇÃO DE ALGUM DOS VÍCIOS. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Não são cabíveis embargos declaratórios quando a parte não aponta eventual omissão, obscuridade, contradição ou erro material no decisum embargado.
+2. Não compete a este Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+3. Embargos de declaração não conhecidos.
+(EDcl no REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/10/2023, DJe de 30/10/2023.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. MERA IRRESIGNAÇÃO. INDULTO NATALINO. EXAME DE COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. OFENSA A DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL. PREQUESTIONAMENTO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, aclarar obscuridade, bem como eliminar contradição ou ambiguidade existente no julgado impugnado, não constituindo meio processual adequado para veicular simples inconformismo e o propósito de rediscussão de matéria decidida. Precedente.
+2. Ausente no acórdão embargado vício previsto no art. 619 do Código de Processo Penal, não há como serem acolhidos os embargos .
+3. Compete ao Juízo da execução o exame do pedido de indulto natalino. Precedentes.
+4. "Não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal (art. 102, III, da Carta Magna)" (EDcl no AgRg no REsp 2027050/SP. Quinta Turma. Rel. Ministro Reynaldo Soares da Fonseca. DJe de 19.12.2022).
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl no AREsp n. 2.320.613/SP, relator Ministro João Batista Moreira, Desembargador Convocado do TRF1, Quinta Turma, julgado em 8/8/2023, DJe de 16/8/2023.)
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. VERIFICAÇÃO. NÃO OCORRÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO STF. PREQUESTIONAMENTO. INVIABILIDADE.
+1. Não há omissão a ser sanada. Trata-se de mero inconformismo da parte. Objetivam os declaratórios, na verdade, a rediscussão dos fundamentos do acórdão embargado, finalidade imprópria na via recursal.
+2.  ..  não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (EDcl nos EDcl no AgInt no AREsp n. 1.252.456/SP, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 27/8/2019).
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.846.407/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
