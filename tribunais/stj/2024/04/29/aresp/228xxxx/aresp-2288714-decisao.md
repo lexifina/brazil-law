@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual o MUNICÍPIO DE ANGICAL DO PIAUÍ se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ assim ementado (fls. 119/129):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. EXECUÇÃO JUDICIAL CONTRA AFAZENDA PÚBLICA. EXCESSO DE EXECUÇÃO. DEMONSTRATIVO DE CÁLCULO. INDICAÇÃO DO VALOR PRETENDIDO. DOCUMENTO INDISPENSÁVEL. AUTONOMIA DOS EMBARGOS. RECURSO NÃO PROVIDO.
+Os embargos à execução constituem ação autônoma e, assim, a petição inicial deve atender os requisitos previstos no art. 319, do Código de Processo Civil e ser instruída com os documentos indispensáveis à propositura da ação, nos termos do art. 320, também do CPC. Além dessas previsões gerais, o próprio código processual dispõe, em seu art.914, caput e §1º, que o executado poderá se opor à execução por meio de embargos, que serão distribuídos por dependência, autuados em apartado e instruídos com cópias das peças processuais relevantes.
+As peças processuais relevantes tornam-se indispensáveis quando a parte funda sua ação de embargos no excesso de execução. Isso porque, também o CPC dispõe, no §4º, do art. 917, que "Não apontado o valor correto ou não apresentado o demonstrativo, os embargos à execução: I -serão liminarmente rejeitados, sem resolução de mérito, se o excesso de execução for o seu único fundamento; II - serão processados, se houver outro fundamento, mas o juiz não examinará a alegação de excesso de execução".
+E, no que pertine exatamente aos embargos opostos pela Fazenda Pública, o § 2º, do art. 535,CPC, também dispõe que "Quando se alegar que o exequente, em excesso de execução, pleiteia quantia superior à resultante do título, cumprirá à executada declarar de imediato o valor que entende correto, sob pena de não conhecimento da arguição". Tal declaração deveria vir acompanhada do respectivo demonstrativo do cálculo, o que não ocorreu nos autos.
+Apelação conhecida e improvida.
+Em suas razões recursais, a parte recorrente alega violação do art. 489, § 1º, IV, do Código de Processo Civil (CPC), argumentando, em síntese, que a juntada nos autos do processo de cumprimento de sentença deu-se em razão de expressa determinação do próprio Juiz de primeiro grau, de modo que, no entendimento do recorrente, a exigência de juntada de planilha de cálculos já havia sido cumprida.
+O recurso não foi admitido na origem (fls. 157/159), razão da interposição do recurso ora examinado.
+Em decisão de fl. 200, o Presidente do Superior Tribunal de Justiça (STJ) determinou a distribuição do agravo.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Verifico que inexiste a alegada violação do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+No concernente à ausência de memória de cálculo, a Corte de origem consignou:
+Conforme se verifica nos autos integrais da ação de embargos à execução, acerta a sentença quando menciona que a mesma não fora instruída com a documentação necessária de comprovação do alegado na inicial. Isso, inclusive, também é admitido pelo próprio ente municipal.
+ ..
+As peças processuais relevantes tornam-se indispensáveis quando a parte funda sua ação de embargos no excesso de execução. Isso porque, também o CPC dispõe, no § 4º, do art. 917, que "Não apontado o valor correto ou não apresentado o demonstrativo, os embargos à execução: I - serão liminarmente rejeitados, sem resolução de mérito, se o excesso de execução for o seu único fundamento; II - serão processados, se houver outro fundamento, mas o juiz não examinará a alegação de excesso de execução".
+ ..
+O fato de estar autuado em apenso, que já ocorre em contrariedade ao previsto na legislação processual, não justifica a ausência da documentação, mesmo porque, para a remessa dos autos ao Tribunal, deve haver desapensamento, exatamente em razão da natureza autônoma da ação. Assim, além de não ter juntado os documentos indispensáveis à instrução da ação de embargos à execução, o fato de se alegar excesso de execução sem o respectivo demonstrativo faz com que o argumento sequer seja analisado (fls. 121/122).
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No mérito recursal, o entendimento do Tribunal de origem encontra-se em harmonia com o adotado por esta Corte, qual seja, fundados os embargos em excesso de execução, a parte embargante deve indicar, na petição inicial, o valor que entende correto, apresentando memória de cálculo, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento.
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE INDICAÇÃO DO VALOR INCONTROVERSO. ART. 917, §§ 3º E 4º, DO CÓDIGO DE PROCESSO CIVIL. REJEIÇÃO LIMINAR DOS EMBARGOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 284/STF. NÃO PROVIMENTO.
+1. Quando os embargos à execução tiverem por fundamento excesso de execução, a parte deve indicar na petição inicial o valor incontroverso, juntamente com a memória do cálculo, sob pena de rejeição liminar dos embargos (CPC, art. 917, §§ 3º e 4º).
+Precedentes.
+2. A ausência de impugnação ao fundamento central do acórdão recorrido enseja a aplicação da Súmula 284/STF.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.287.007/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. PEDIDO FUNDADO EM EXCESSO DA EXECUÇÃO. APRESENTAÇÃO DE DEMONSTRATIVO DE CÁLCULO. NECESSIDADE. INDEFERIMENTO LIMINAR. POSSIBILIDADE.
+1. Não há ofensa ao art. 1.022, II, do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe foram submetidas e aprecia integralmente a controvérsia posta nos autos.
+2. O aresto recorrido está em harmonia com o entendimento do STJ no sentido de que, nos embargos à execução fundados em excesso na execução, cabe ao devedor apontar o valor que entende correto e apresentar a memória do cálculo, sob pena de indeferimento liminar, sendo inadmitida a emenda da petição inicial.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.563.428/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar a ele provimento.
+Publique-se. Intimem-se.
+ EMENTA
