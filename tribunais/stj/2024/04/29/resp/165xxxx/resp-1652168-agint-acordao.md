@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. FALTA DE INDICAÇÃO DO ARTIGO DE LEI FEDERAL OBJETO DE INTERPRETAÇÃO DIVERGENTE PELO ACÓRDÃO RECORRIDO DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça entende que a falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do Supremo Tribunal Federal (STF), aplicável por analogia.
+2. A mera "citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, relator Ministro Mauro Campbell Marques, DJe de 11/6/2018).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por PAULO JOSÉ RICK contra a decisão de relatoria da minha relatoria de fls. 325/327, que não conheceu do recurso especial ante a incidência, por analogia, da Súmula 284/STF.
+Em suas razões recursais, a parte agravante alega que, "ao contrário do que consta na decisão,  ..  atendeu expressamente os requisitos do art. 1.029, §1º, do CPC/15, tendo em vista que promoveu escorreitamente o cotejo analítico frente aos paradigmas sinalizados, bem como por ter apontado o dispositivo de Lei Federal afrontado, estando evidentemente rebatido todos os pontos que serviram como razão de decidir" (fl. 334).
+Requer a apresentação do feito ao órgão colegiado competente para que seja dado provimento ao agravo interno.
+Não foi apresentada impugnação segundo a certidão de fl. 346.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. FALTA DE INDICAÇÃO DO ARTIGO DE LEI FEDERAL OBJETO DE INTERPRETAÇÃO DIVERGENTE PELO ACÓRDÃO RECORRIDO DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça entende que a falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do Supremo Tribunal Federal (STF), aplicável por analogia.
+2. A mera "citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, relator Ministro Mauro Campbell Marques, DJe de 11/6/2018).
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+Da análise das razões do recurso especial, verifico que o recorrente não indicou expressamente o dispositivo de lei federal que teria sofrido interpretação divergente pelo acórdão recorrido, razão pela qual é correta a incidência no presente caso do óbice da Súmula 284 do Supremo Tribunal Federal (STF) : "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia", por analogia. A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. RECONHECIMENTO DO TEMPO DE ATIVIDADE ESPECIAL E LABOR RURAL PARA CONCESSÃO DO BENEFÍCIO. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Não é possível conhecer o Recurso Especial fundado no art. 105, III, c da Constituição Federal, uma vez que o recorrente não indicou qual seria o dispositivo de lei federal de interpretação controvertida nos Tribunais, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do Supremo Tribunal Federal, por analogia
+2. O sugerido dissídio jurisprudencial não foi analiticamente demonstrado. A interposição de Recurso Especial para o Superior Tribunal de Justiça requer o primoroso atendimento de requisitos constitucionais de alta definição jurídica; assim, a demonstração da chamada divergência pretoriana deve se dar de forma analítica e documentada, por meio do cotejo analítico, para se comprovar que a decisão recorrida está em desacordo com precedentes julgados de outros Tribunais, inclusive e especialmente deste STJ (art. 105, III, c da Carta Magna).
+3. Ocorre que, no caso, a análise da demonstração da divergência não veio manifestada de forma escorreita e precisa, exata e completa. Apresentou-se o paradigma apenas por sua ementa, sem que fosse feito o indispensável cotejo, com a conclusão de discrepância, fato que impede o conhecimento do recurso pela alínea c do permissivo constitucional (art. 1.029, § 1o. do CPC/2015).
+4. Agravo Interno do particular a que se nega provimento. (AgInt no AREsp n. 1.129.205/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 23/8/2018, DJe de 30/8/2018, destaquei.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXPROPRIAÇÃO. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI REPUTADO VIOLADO. SÚMULA 284 DO STF. JUROS COMPENSATÓRIOS. DIFERENÇA ENTRE 80% DO DEPÓSITO E O VALOR DA CONDENAÇÃO. JUROS MORATÓRIOS. INEXIGIBILIDADE.
+1. Segundo a firme jurisprudência assentada no Superior Tribunal de Justiça, a interposição do Recurso Especial com fundamento na alínea "c" não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo também a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal.
+ ..
+5. Recurso Especial da ATAV não conhecido. Recurso Especial do METRÔ conhecido e, no mérito, não provido. (REsp 1.779.680/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/9/2019, DJe 18/10/2019, destaquei.)
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+O recurso especial interposto com fundamento na alínea c do inciso III do art. 105 da Constituição Federal também requer a indicação precisa do dispositivo legal a respeito do qual se alega a divergência interpretativa, o que não ocorreu na hipótese dos autos.
+Tal como consignado na decisão agravada, a mera "citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, relator Ministro Mauro Campbell Marques, DJe de 11/6/2018).
+Tendo em vista que as alegações declinadas no agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho a decisão agravada.
+Pelas considerações expostas, nego provimento ao agravo interno.
+É o voto.
