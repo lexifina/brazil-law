@@ -1,0 +1,11 @@
+DECISÃO
+Em atenção ao despacho de fl. 1.009, a UNIÃO (fls. 1.013-1.014) aludiu à necessidade de maior prazo para reformular e concluir os procedimentos de revisão instaurados, "tendo em vista a multiplicidade de casos, a capacidade operacional da  ..  Comissão  de Anistia  e a designação de um novo Conselho diante das recentes alterações do cenário político brasileiro". Nesse sentido, pugnou pela manutenção da suspensão do pagamento do precatório expedido por mais no mínimo 60 (sessenta) dias para apresentação da documentação pertinente.
+Na hipótese dos autos, constata-se que a executada não atendeu ao que lhe fora determinado. Em consulta ao referido procedimento revisional, por meio do link de acesso externo (https://tinyurl.com/3hdduze9), verifica-se que, após apresentada defesa administrativa em 24/6/2022, não houve movimentação significativa naqueles autos.
+Enfim, a argumentação apresentada mostra-se evasiva, não permitindo que se suspenda, ainda mais, o pagamento do requisitório expedido.
+Como a portaria de anistia objeto da presente execução permanece válida, a situação versada nos autos autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO.
+Por fim, considerando que não foi apontado excesso de execução - visto que o valor executado corresponde ao valor nominal da portaria de anistia, conforme consignado na decisão de fl. 823 -, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação oposta pela executada.
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, e determino o afastamento da suspensão do pagamento do precatório expedido.
+Em consonância com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno a executada ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu (que, no caso, corresponde ao valor executado, t endo em vista que impugnou a execução como um todo com base na alegada inexigibilidade do título judicial). Para pagamento da verba sucumbencial, determino a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC.
+Traslade-se cópia da presente decisão para os autos do Prc 4837/DF.
+Publique-se. Intimem-se.
+EMENTA
