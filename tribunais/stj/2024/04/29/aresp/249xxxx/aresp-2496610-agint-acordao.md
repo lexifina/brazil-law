@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NA ORIGEM: AGRAVO DE INSTRUMENTO. ISENÇÃO DE ICMS-DIFAL PARA AQUISIÇÃO DE BENS PARA COMPOR ATIVO IMOBILIZADO. NO STJ: AGRAVO NÃO CONHECIDO PELA PRESIDÊNCIA DESTA CORTE . INCIDÊNICIA DA SÚMULA 284/STF. RAZÕES DISSOCIADAS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em execução fiscal, rejeitou a exceção de pré-executividade, determinando o prosseguimento da execução fiscal. No Tribunal a decisão foi reformada, para acolher a exceção de pré-executividade.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno contra decisão da Presidência desta Corte que aplicou a Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+O recurso especial, com fundamento no art. 105, III, a, da CF/88, pretende reformar acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. ISENÇÃO DE ICMS-DIFAL PARA AQUISIÇÃO DE BENS PARA COMPOR ATIVOIMOBILIZADO. DEC. EST.10.663/03. DECLARAÇÃO DEINCONSTITUCIONALIDADE. EFEITOSEX NUNC. ILEGALIDADE DACOBRANÇA.1. ESTE TRIBUNAL, NO BOJO DO INCIDENTE DE DECLARAÇÃO DE INCONSTITUCIONALIDADE N.0806869-59.2020.8.22.0000, DECLAROU A INCONSTITUCIONALIDADE DO ART. 1º DO DEC. ESTADUAL N. 10.663/03, ATRIBUINDO-LHE EFEITOSEX NUNC. 2. TRATANDO-SE DE AÇÃO PROPOSTA ANTERIORMENTE À DISCUSSÃO, DEVE SER MANTIDA A APLICAÇÃODA NORMA DE ISENÇÃO, SENDO EVIDENTE A ILEGALIDADE DA COBRANÇA, COM BASE NO PRINCÍPIODA SEGURANÇA JURÍDICA. 3. RECURSO PROVIDO.
+Em suas razões recursais reitera as razões do recurso especial, em especial a violação ao art. 179 do CTN.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NA ORIGEM: AGRAVO DE INSTRUMENTO. ISENÇÃO DE ICMS-DIFAL PARA AQUISIÇÃO DE BENS PARA COMPOR ATIVO IMOBILIZADO. NO STJ: AGRAVO NÃO CONHECIDO PELA PRESIDÊNCIA DESTA CORTE . INCIDÊNICIA DA SÚMULA 284/STF. RAZÕES DISSOCIADAS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em execução fiscal, rejeitou a exceção de pré-executividade, determinando o prosseguimento da execução fiscal. No Tribunal a decisão foi reformada, para acolher a exceção de pré-executividade.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+VOTO
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para reformar a decisão agravada, mantenho pelos seus próprios fundamentos.
+É o voto.
