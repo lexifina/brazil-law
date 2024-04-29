@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS COPUS. BUSCA VEICULAR. MATÉRIA NÃO DEBATIDA NA ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O tema trazido a exame nesta impetração não foi debatido pelo Tribunal a quo, inviabilizando sua apreciação diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FABRÍCIO WILLIAM GARCIA contra decisão que indeferiu liminarmente o habeas corpus substitutivo de recurso especial impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento da Apelação Criminal n. 1500929-07.2022.8.26.0545.
+Em suas razões, o agravante alega que, ao contrário do afirmado na decisão impugnada, a Corte local tratou do tema levantado no habeas corpus e considerou válida a busca veicular realizada sem prévias razões, o que caracteriza fishing expedition, procedimento incompatível com as regras processuais e constitucionais em vigor.
+Diante desse quadro, requer a reconsideração da decisão impugnada ou, subsidiariamente, a apresentação deste feito ao Colegiado respectivo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS COPUS. BUSCA VEICULAR. MATÉRIA NÃO DEBATIDA NA ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O tema trazido a exame nesta impetração não foi debatido pelo Tribunal a quo, inviabilizando sua apreciação diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil, art. 3º do Código de Processo Penal e art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+Quanto ao mérito, contudo, as pretensões do agravante não merecem prosperar, devendo ser mantida a decisão monocrática.
+Em primeiro lugar, destaco a ocorrência de erro material na decisão impugnada, na qual se menciona equivocadamente, que o ora agravante foi condenado por delito diverso daquele apurado nesses autos. Reforça-se que o presente habeas corpus se refere à Ação Penal n. 1500929-07.2022.8.26.0545, que tramitou perante a 2ª Vara Criminal de Bragança Paulista e apurou o crime de tráfico de drogas, previsto no art. 33 da Lei n. 11.343/2006.
+Conforme se extrai dos autos, o agravante foi preso em 1º de setembro de 2022, na posse de onze tijolos de maconha (cerca de 5,8kg), além de uma balança de precisão, um aparelho celular e dinheiro em espécie. A apreensão ocorreu em um trecho da Rodovia BR-381 (Rodovia Fernão Dias), que liga a capital paulista a Belo Horizonte, durante patrulhamento da Polícia Rodoviária Federal.
+A alegação defensiva de que a abordagem policial foi realizada de maneira ilícita  cerne deste habeas corpus  não teve seu mérito previamente examinado pela Corte local. O Tribunal de origem, ao julgar o recurso de apelação, limitou-se a afirmar a robustez do acervo probatório para alicerçar a tese acusatória (e-STJ, fls. 37-38). Embora os autos tragam o depoimento de um dos policiais encarregados pela abordagem, a partir do qual é possível vislumbrar o modo como a ação se desenrolou, a ausência de exame de mérito no acórdão impugnado torna inviável o enfrentamento da tese por esta Corte, sob pena de indevida supressão de instância.
+Ilustrativamente, cito:
+PROCESSO PENAL. AGRAVO REGIMENTAL. PLEITOS DE APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO E DE ABRANDAMENTO DO REGIME INICIAL. TEMAS QUE NÃO FORAM OBJETO EXAME NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ausente exame de mérito no acórdão impugnado, proferido pelo Tribunal a quo, acerca dos pleitos de aplicação do redutor do tráfico privilegiado e de abrandamento do regime inicial, resulta inviável o respectivo enfrentamento diretamente por esta Corte, sob pena de indevida supressão de instância. Precedentes.
+(..)
+3. Agravo regimental não provido. (AgRg no HC n. 882.926/MG, de minha relatoria, QUINTA TURMA, julgado em 6/2/2024, DJe de 14/2/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. RAZÕES DO AGRAVO DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO ORA RECORRIDA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS MOTIVOS DO ATO AGRAVADO. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. MÉRITO DA IMPETRAÇÃO ORIGINÁRIA NÃO ANALISADO NA DECISÃO MONOCRÁTICA PROFERIDA PELO RELATOR NA CORTE LOCAL. IMPOSSIBILIDADE DE ANÁLISE DA CONTROVÉRSIA DE FUNDO, PER SALTUM, PELO SUPERIOR TRIBUNAL DE JUSTIÇA. MATÉRIA QUE, CONTUDO, PRESCINDE DO EXAME DE FATOS E PROVAS. TEMA EXCLUSIVAMENTE DE DIREITO. AÇÃO MANDAMENTAL CABÍVEL. VIA DE IMPUGNAÇÃO PRÓPRIA PREVISTA NA LEGISLAÇÃO ORDINÁRIA (REVISÃO CRIMINAL) QUE NÃO IMPEDE, NESSE CASO, A IMPETRAÇÃO DO HABEAS CORPUS PARA A ANÁLISE DE QUESTÃO DE DIREITO REFERENTE AO JUS AMBULANDI. VIOLAÇÃO DO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO QUE DEVE SER SANADA. DECISÃO POR INTERMÉDIO DA QUAL A PETIÇÃO INICIAL FOI INDEFERIDA LIMINARMENTE, MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS, TODAVIA, CONCEDIDA EX OFFICIO PARA DETERMINAR A REAPRECIAÇÃO DO PEDIDO FORMULADO NA INICIAL DO WRIT ORIGINÁRIO, AFASTADO O ÓBICE PROCESSUAL APONTADO PELA JURISDIÇÃO LOCAL.
+1. Hipótese em que a Ministra Presidente, no decisum ora agravado, ponderou que não houve o exaurimento da jurisdição originária, por tratar-se o ato de segundo grau impugnado na inicial deste feito de decisão monocrática proferida pelo Relator na Corte local, e não por órgão colegiado. Tal fundamento não foi infirmado, de forma específica, pelo Agravante, o qual tão somente alegou, preliminarmente, que a supressão de instância não impede o reconhecimento de ilegalidade flagrante - conjuntura processual, todavia, diversa da que apontou a Ministra MARIA THEREZA DE ASSIS MOURA. No mais, a Parte Recorrente, nas presentes razões, limitou-se a formular alegações sobre o mérito da controvérsia. Ou seja, o Agravante não impugnou a conclusão declinada na decisão ora recorrida que lastreou o indeferimento liminar da petição inicial.
+(..)
+7. Agravo regimental não conhecido. Ordem de habeas corpus, todavia, concedida ex officio, para determinar a reapreciação do pedido originário como se entender de direito, afastada a conclusão de que, no Tribunal Estadual, não é cabível o writ em substituição a o pedido revisional. (AgRg no HC n. 841.885/SP, Rel. Ministra Laurita Vaz, SEXTA TURMA, julgado em 25/9/2023, DJe de 28/9/2023.)
+Desse modo, diante das razoes apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
