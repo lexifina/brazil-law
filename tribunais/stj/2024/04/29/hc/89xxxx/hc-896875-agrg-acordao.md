@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/04/2024 a 29/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (151 KG DE MACONHA). INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL, FORA DAS HIPÓTESES LEGAIS. INVIOLABILIDADE DOMICILIAR. ART. 5º, IX, DA CF. INGRESSO FORA DAS AUTORIZAÇÕES LEGAIS NÃO CARACTERIZADO.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental de Ademir Albuquerque contra a decisão monocrática de minha lavra, na qual indeferi liminarmente o habeas corpus, conforme termos da seguinte ementa (fl. 1.334):
+HABEAS CORPUS. TRÁFICO DE DROGAS (151 KG DE MACONHA). INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL, FORA DAS HIPÓTESES LEGAIS. INVIOLABILIDADE DOMICILIAR. ART. 5º, IX, DA CF. INGRESSO FORA DAS AUTORIZAÇÕES LEGAIS NÃO CARACTERIZADO.
+Writ indeferido liminarmente.
+O agravante alega, em síntese, que não foi visualizada qualquer retirada de entorpecentes de um lugar para o outro, situação que autorizaria, o ingresso na localidade e ainda o ingresso no local, nas palavras dos próprios policiais, decorreu sem autorização e fora das hipóteses constitucionais, mas apenas e tão somente em decorrência do "portão aberto", em total situação de falta de justa causa ou com fundadas razões para tanto (fl. 1.345).
+Sustenta que não há necessidade de revolvimento fático ou probatório, mas apenas leitura dos depoimentos policiais.
+Pede o provimento do agravo para absolver o paciente (fls. 1.341/1.346).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (151 KG DE MACONHA). INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL, FORA DAS HIPÓTESES LEGAIS. INVIOLABILIDADE DOMICILIAR. ART. 5º, IX, DA CF. INGRESSO FORA DAS AUTORIZAÇÕES LEGAIS NÃO CARACTERIZADO.
+Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido.
+Conforme destaquei na decisão agravada, o Tribunal local não conheceu do pedido revisional, mas explicitou as seguintes razões sobre o mérito (fls. 1.322/1.323):
+Os agentes públicos deixaram assentado que receberam informações de que integrantes de facção criminosa denomina PCC estariam utilizando um imóvel, sede de uma transportadora, para o armazenamento de armas de fogo e drogas. Passaram a diligenciar no local apontado, em dias e horários alternados. No dia dos fatos, em campana nas imediações do local, observaram a chegada de dois veículos, sendo que do porta-malas foram retiradas diversas bolsas. Os acusados passaram a manusear tais bolsas, retirando delas grandes volumes de entorpecentes e os colocando em caixas de papelão, que eram levadas para os fundos do imóvel. Diante da fundada suspeita da traficância no local, adentraram o imóvel, sendo a droga apreendida e o sentenciado preso em flagrante delito, juntamente com seu comparsa. Eram 154 tijolos de cocaína, pesando 151 kg.
+Logo, não há que se falar em falta de justa causa para a atuação policial, nem, por conseguinte, em nulidade das provas então obtidas e delas decorrentes.
+Conforme explicitei na decisão agravada, nesta Corte Superior prevalece o entendimento de que a simples existência de denúncia anônima, desacompanhada de outros elementos preliminares indicativos da prática de crime, não configura fundadas razões e, portanto, não legitima o ingresso de policiais no domicílio indicado. Em outras palavras, para o ingresso forçado em domicílio, não é suficiente apenas a ocorrência de crime permanente, sendo necessárias fundadas razões de que um delito está sendo cometido para, assim, justificar a entrada na residência do agente, ou, ainda, autorização para que os policiais entrem no domicílio.
+A simples existência de denúncia anônima, desacompanhada de outros elementos preliminares indicativos da prática de crime, não configura fundadas razões e, portanto, não legitima o ingresso de policiais no domicílio indicado.
+Essa foi a direção tomada pelo Superior Tribunal de Justiça nos julgamentos do HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021; e do HC n. 628.371/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/3/2021.
+Além disso, também não se consideram fundadas razões para o ingresso em domicílio a apreensão de drogas em poder de alguém em via pública (HC n. 668.886/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 6/5/2022).
+No presente caso, verifico não estar caracterizada flagrante ilegalidade, pois o ingresso em domicílio se deu com base em denúncias anônima s e investigação prévia realizada pelos policiais, em dias e horários alternados. O acórdão menciona que os agentes realizaram campana e teriam verificado o manuseio de droga do porta-malas de um veículo e colocando-a em caixa de papelão, vide relatório à fl. 134:
+Prese ntes os policiais civis supra, componentes da equipe Apolo 14, em exercício nesta Especializada, noticiando que, conforme informações obtidas durante trabalhos investigativos, integrantes da facção criminosa autodenominada "PCC", adeptos ao tráfico de armas e de drogas, estariam utilizando um imóvel, onde seria sediada uma transportadora e pátio de caminhões, situado à Rua Dr. Osvaldo Cruz, altura do nº 50, ao lado do imóvel de nº 61, Barueri/SP, como local para guarda de armas, utilizadas em ilícitos, e de drogas, a serem distribuídas para comercialização em grandes quantidades. Esclarecem os policiais civis que, em posse de todas as informações, passaram a diligenciar até o local apontado, em dias e horários alternados, onde constataram que o imóvel apontado trata-se de um terreno cercado e fechado por portão, onde, em seu interior, o caminhão IVECO/Tector, cor vermelha, placas MHH-5673/SP, encontrava-se estacionado, bem como o veículo GM/Prisma, cor preta, de placas PCS-4156/PE.
+Há, assim, fundadas razões para o ingresso em domicílio, não havendo falar em flagrante ilegalidade a ser sanada.
+Ante o exposto, nego provimento agravo regimental.
