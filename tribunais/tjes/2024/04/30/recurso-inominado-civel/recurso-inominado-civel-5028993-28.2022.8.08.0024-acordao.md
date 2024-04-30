@@ -1,0 +1,88 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5028993-28.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RAFAEL HENRIQUE DE JESUS MARINHO
+RECORRIDO: CNK ADMINISTRADORA DE CONSORCIO LTDA.
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nº
+5028993-28.2022.8.08.0024
+
+Recorrente: RAFAEL HENRIQUE DE JESUS MARINHO
+
+Recorrido: CNK ADMINISTRADORA DE CONSORCIO LTDA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Concedo as benesses da assistência judiciária gratuita à Recorrente/autor.
+
+Recurso de conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO.
+AÇÃO
+DE NULIDADE CONTRATUAL
+C/C RESTITUIÇÃO DE CRÉDITO.
+ALEGAÇÃO DE VÍCIO DE CONSENTIMENTO EM CONTRATO DE CONSÓRCIO. PROMESSA DE CONTEMPLAÇÃO. PEDIDO DE DECLARAÇÃO DE NULIDADE
+DE CONTRATO OU, SUBSIDIARIAMENTE, NULIDADE
+DE CLÁUSULA QUE IMPÕE A RESTITUIÇÃO AO FINAL DO GRUPO.
+VALOR DA CAUSA
+QUE
+DEVE CORRESPONDER AO DO CONTRATO EM LITÍGIO, CONFORME ARTIGO 292, I, DO CPC. VALOR DO CONTRATO QUE ULTRAPASSA O TETO LEGAL DOS JUIZADOS ESPECIAIS CÍVEIS. INCOMPETÊNCIA EM RAZÃO DO VALOR DA CAUSA. MATÉRIA DE ORDEM PÚBLICA.
+JULGAMENTO ANTECIPADO DA LIDE.
+
+CARTA DE CRÉDITO ESTIMADA EM R$
+180
+.000,00
+. VALOR DA CAUSA, QUANTIFICADO EM R$
+23.620,00
+, MANIFESTAMENTE INFERIOR AO PROVEITO ECONÔMICO ALMEJADO COM A AVENÇA, SOBRETUDO EM FACE DO EFEITO LIBERATÓRIO, EM RELAÇÃO AO SALDO DEVEDOR, QUE RESULTARIA EM PROL D
+O
+DEMANDANTE. PRETENSÃO ECONÔMICA QUE NÃO SE CINGE AO REEMBOLSO, MAS AO
+RECONHECIMENTO DE
+DESFAZIMENTO DO PACTO, COM A CESSAÇÃO DAS OBRIGAÇÕES, EM MONTA MUITO SUPERIOR.
+POSTULAÇÃO RESCISÓRIA
+(INDIRETA)
+E DECLARATÓRIA DE ABUSIVIDADE INSUSCETÍVEL À RENÚNCIA DO ART. 3º, §2º, DA LEI Nº 9.099/95, EM FACE DA INDIVISIBILIDADE DO OBJETO
+. INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS CÍVEIS. POSTULAÇÃO QUE NÃO PODE SER PROCESSADA SOB A ÉGIDE DA REFERIDA LEI. NECESSIDADE DE AVIAMENTO DO PROCESSO NA VIA COMUM, COM A RETIFICAÇÃO DO VALOR DA CAUSA E, SE FOR O CASO, COM O DEVIDO RECOLHIMENTO DAS DESPESAS DO PROCESSO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+RECURSO CONHECIDO, MAS NÃO PROVIDO.
+
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+1
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO (ART. 55, 2ª PARTE, DA LEI 9.099/95). SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+É como voto.
+
+1
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
