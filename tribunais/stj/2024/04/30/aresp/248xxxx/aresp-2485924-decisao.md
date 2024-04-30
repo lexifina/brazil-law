@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 226 do Código Civil e 418 do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fls. 717/718):
+Ação de cobrança ajuizada por sócia ostensiva contra sócia participante de aportes a sociedade em conta de participação, julgada improcedente. Apelação da autora. "..os lançamentos efetuados nos livros comerciais fazem prova plena contra os seus proprietários; não necessitam, evidentemente, corroborar com outros documentos que poderiam tê-los fundamentado. Em relação a terceiros empresários, é necessário que esses lançamentos estejam fundamentados em documentos que mostrem a natureza da respectiva operação, além de lançados em livros ou documentos autenticados pelo Registro Público de Empresas Mercantis, preenchidos por escrituração uniforme." (RUBENS REQUIÃO). Não podendo a sócia ostensiva, nas circunstâncias dos autos, apresentar documentos que deem suporte aos lançamentos feitos em seus livros, não tem, com a só apresentação destes, título de cobrança contra os sócios participantes, ausentes os "outros subsídios" do art. 226 do Código Civil. Não se desincumbiu ela, portanto, do ônus de demonstrar seu direito de crédito, na forma do art. 373, I, do CPC. Confirmação da sentença recorrida, na forma do art. 252 do Regimento Interno deste Tribunal de Justiça. Recurso de apelação desprovido.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 751/757).
+Sustenta a agravante que "a força probatória dos livros contábeis que não contenham vícios militam em favor de quem os produziu, somente podendo ser elidida mediante a efetiva comprovação de falsidade ou inexatidão dos lançamentos" (fl. 765).
+Afirma que todos os aportes realizados pela agravante na Sociedade de Propósito Específico (SPE) foram contabilizados, e que a parte agravada não demonstrou nenhuma irregularidade ou vício nos registros contábeis.
+Ressalta que, "nos litígios envolvendo comerciantes, os registros contábeis poderão ser elididos por qualquer gênero de prova admitida em leis civis ou comerciais - e a tanto não se desincumbiu a Recorrida, e desde que não evidenciados justos motivos capazes de repelir tais documentos, deverão ser recebidos como exatos e verdadeiros, até porque, seria uma utopia admitir que um comerciante pudesse lançar nos livros operações ou atos que não se verificaram ou em desconformidade com o que realmente se passou entre os comerciantes no exercício da sua atividade empresarial" (fl. 770).
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem concluiu que a agravante não comprovou o fato constitutivo do seu direito de crédito, uma vez que juntou apenas demonstrativos contábeis para demonstrar a necessidade de a parte agravada aportar recursos em SCP da qual ambas são sócias, conforme se extrai dos seguintes trechos (fls. 734/741):
+(..)
+A tese da autora é de que, por não ter a perícia contábil identificado vícios extrínsecos ou intrínsecos em suas demonstrações contábeis, os lançamentos ali contidos, notadamente a existência de aportes devidos pela ré, bastariam para demonstrar tais créditos.
+Invoca a autora, para tanto, os arts. 226 do Código Civil e 418 do CPC:
+(..)
+Não é razoável, nem denota lealdade para com os sócios ocultos, investidores, que a sócia aparente, comerciante, não tenha podido apresentar documentos comprobatórios dos lançamentos que fez em seus livros. Tem o dever de prestar contas. Zela por recursos alheios. Há de documentar-se, obrigatoriamente. Lançamentos feitos em livros comerciais sem suporte documental idôneo não constituem prova suficiente da obrigação dos sócios investidores.
+(..)
+Na hipótese, incontroversa a regularidade formal da documentação contábil juntada pela autora, não se comprova o lastro dos lançamentos, segundo a perícia (fls. 501/502, 551 e 560), que, em diversos momentos, concluiu que "inexistem documentos e/ou informações que justifiquem cabalmente os valores dos aportes solicitados." (fl. 551).
+Era mesmo caso, como bem fundamentou o MM. Juízo a quo, de "efetiva "demonstração" dos gastos suportados e, em consequência, comprovação dos aportes necessários", não bastando "mera prestação formal de informações a respeito das despesas e fluxo de caixa" (fl. 656).
+Não se desincumbiu a autora, portanto, do ônus de demonstrar seu direito de crédito, que lhe cabia, na forma do art. 373, I, do CPC.
+Importante ressaltar, aqui, que a autora poderia, a qualquer tempo, ter juntado documentos que lastreassem os lançamentos contábeis por ela invocados. Limitou-se, no entanto, a invocar a força probatória dos lançamentos puros e simples.
+(..)
+E o Superior Tribunal de Justiça, apreciando alegada ofensa ao art. 226 do Código Civil, reforçou a inexistência de presunção absoluta de livros e fichas de empresários, demandando-se prova pericial:
+(..) (destaques nossos)
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
