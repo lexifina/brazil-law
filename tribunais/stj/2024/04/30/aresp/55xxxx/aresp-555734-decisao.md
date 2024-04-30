@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, AGRAVO EM RECURSO ESPECIAL interposto por INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO que inadmitiu seu recurso especial à luz das Súmulas n. 7/STJ, 282/STF, 284/STF, 356/STF, do descabimento da via para debater matéria constitucional e alinhamento jurisprudencial entre o acórdão e esta Corte.
+Sustenta a parte agravante a não incidência de qualquer dos óbices aludidos.
+Sem contraminuta.
+O Ministério Público Federal (MPF) opina pelo desprovimento do agravo.
+É o relatório.
+Passo a decidir.
+O recurso especial se volta contra acórdão assim ementado:
+PROCESSUAL CIVIL AGRAVO DE INSTRUMENTO EMISSÃO DE TDAS COMPLEMENTARES ALEGAÇÃO DE ERRO MATERIAL QUANDO NA REALIDADE INSURGESE O INCRA CONTRA ELEMENTOS DE CÁLCULO QUE TRANSITARAM EM JULGADO PRAZO DE RESGATE E REMUNERAÇÃO DOS TDAS LEGISLAÇÃO VIGENTE À ÉPOCA COISA JULGADA JUSTA INDENIZAÇÃO MULTA NÃO APLICADA NA DECISÃO AGRAVADA
+Os embargos de declaração foram acolhidos nestes termos:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO QUANTO À APLICAÇÃO DE MULTA. AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. EMISSÃO DE TDA"S COMPLEMENTARES. DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER. POSSIBILIDADE DE APLICAÇÃO DE ASTREINTES. ART. 644 DO CÓDIGO DE PROCESSO CIVIL. RECURSO ACOLHIDO. MANUTENÇÃO DO RESULTADO DO JULGAMENTO.
+1. O acórdão embargado realmente não tratou do tema relativo à aplicação da multa pelo eventual descumprimento da decisão.
+2. É correta a aplicação de astreintes, comoum meio de coagir o devedor a cumprir sua obrigação de fazer, no prazo estipulado. A obrigação de lançamento dos Títulos da Dívida Agrária complementares é de fazer. Precedentes.
+3. Decisão mantida.
+4. Embargos acolhidos sem alteração do resultado do julgamento.
+A parte recorrente sustenta: i) ocorrência de vício de fundamentação por negativa de prequestionamento explícito dos dispositivos de lei federal invocados (art. 535 do CPC/1973); ii) impossibilidade de imposição de multa cominatória em obrigação de pagar, ainda que por via de títulos da dívida agrária (TDAs) (arts. 461, § 4º, 461-A, § 3º, 644 e 645 do CPC/1973); iii) impossibilidade material de cumprimento da ordem, ante a vinculação da autarquia ao orçamento federal para emissão do TDA, que gera impacto financeiro nesse momento e não mais por ocasião apenas do resgate (art. 25 da Lei n. 8.629/1993, arts. 5º e 16, II, da Lei de Responsabilidade Fiscal, e arts. 3º, § 1º, e 13 do Decreto n. 578/1992); iv) inaplicabilidade da multa por ato atentatório à justiça contra a autarquia federal, na medida em que o destinatário da verba é a própria União; e v) inaplicabilidade e desproporcionalidade da multa aplicada (arts. 412 do CC/2002, 14, V, 461, §§ 2º e 4º, do CPC/1973).
+Contrarrazões não apresentadas.
+Inexiste vício de fundamentação pela mera ausência de citação dos dispositivos de lei invocados pela parte. Mesmo sob o CPC/1973, o prequestionamento implícito dos dispositivos, pela manifestação expressa de fundamento sobre a matéria da lide, supre o requisito constitucional acerca da "causa decidida" para manejo do recurso especial (AgInt no AREsp n. 916.197/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2017, DJe de 25/9/2017; REsp n. 1.294.011/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/12/2011, DJe de 13/12/2011).
+A jurisprudência desta Corte acolhe a imposição de multa cominatória para cumprimento da obrigação de fazer constituída na emissão (por lançamento ou escrituração) de títulos da dívida agrária (TDAs). A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DESAPROPRIAÇÃO. EXPEDIÇÃO DE TÍTULO DE DÍVIDA AGRÁRIA. SUPOSTA OFENSA AOS ARTS. 5º, § 3º, e 25 DA LEI 8.629/1993; 2º e 13 DO DECRETO 578/1992; E 105 DA LEI 4.504/1964. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FIXAÇÃO DE ASTREINTE CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE.
+ ..
+2. O STJ entende ser cabível a cominação de multa diária (astreinte) contra a Fazenda pública como meio executivo para cumprimento de obrigação de fazer ou entregar coisa (arts. 461 e 461-A do CPC), inclusive para obrigar autarquia federal a providenciar a escrituração de Títulos da Dívida Agrária (TDA) para o pagamento de indenização pactuada em decorrência de desapropriação, por interesse social, para fins de reforma agrária. Nesse sentido: REsp 1.688.632/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/11/2017; REsp 1.694.454/PB, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017; AgRg no AREsp 830.066/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 8/3/2016; AgRg no REsp 1465952/MS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 11.12.2014; AgRg no REsp 1467280/AL, Rel. Ministro Sérgio Kukina, Segunda Turma, DJe 05/11/2014.
+ ..
+(AREsp n. 1.577.304/MT, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/2/2020, DJe de 27/2/2020.)
+A alegação de inaplicabilidade da multa por confusão entre o credor e devedor não comporta conhecimento, ante a ausência de indicação da norma federal que lhe daria suporte. Incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+No que diz respeito à impossibilidade material de cumprimento da medida, a apreciação do ponto esbarraria no óbice da Súmula n. 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial). Ademais, a decisão que impôs a multa tratou de ressalvar sua incidência diante de descumprimentos escusáveis da ordem (fl. 30), havendo dúvidas até mesmo sobre o interesse recursal no ponto.
+Por fim, o mesmo óbice incide sobre a pretensão de reconhecimento da desproporcionalidade da multa, na medida em que não demonstrada sua exorbitância, que não pode ser mensurada apenas em relação à obrigação principal. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. DESAPROPRIAÇÃO. FIXAÇÃO DE PRAZO RAZOÁVEL PARA EMISSÃO DE TÍTULOS DA DÍVIDA AGRÁRIA - TDAS. IMPOSIÇÃO DE MULTA DIÁRIA COMINATÓRIA. CABIMENTO. INCIDÊNCIA DA SÚMULA 83/STJ. REVISÃO DO VALOR. REDUÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ.
+1. Constata-se que o acórdão recorrido encontra-se no mesmo sentido da jurisprudência do STJ quanto ao cabimento de multa diária, mesmo contra pessoa jurídica de direito público, segundo o qual é cabível a imposição de multa como medida processual de inteira adequação, porquanto vinculada à garantia de efetiva e imediata observância da tutela jurisdicional que foi prestada.
+2. O art. 461-A, § 3º, do Código de Processo Civil estendeu a previsão de possibilidade de imposição de multa diária ao réu por atraso na obrigação de fazer (art. 461, § 4º) - obrigação de entrega de coisa.
+3. A jurisprudência desta Corte pacificou o entendimento de que a apreciação dos critérios previstos na fixação de astreintes, bem como a análise para verificar se o prazo é ou não razoável, implica o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte.
+Agravo regimental improvido.
+(AgRg no AREsp n. 830.066/MG, relator Ministro Humberto Martins, Segunda Turma, julgado em 1/3/2016, DJe de 8/3/2016.)
+Isso posto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
