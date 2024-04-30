@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança interposto por Maurício Jorge Muniz, com fundamento nos arts. 18 da Lei n. 12.016/2009; 1.027, II, do CPC/2015; 247 do RISTJ; e 105, II, b, da CRFB, contra acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul, o qual denegou a ordem de mandado de segurança, conforme se verifica da seguinte ementa (e-STJ, fls. 2.919-2.929):
+MANDADO DE SEGURANÇA - IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR QUE NÃO CONFERIU EFEITO SUSPENSIVO A EMBARGOS DE DECLARAÇÃO - QUESTÃO DE ORDEM DE PERDA SUPERVENIENTE DO OBJETO - INDEFERIDA - SÚMULA Nº 267, DO STF. INEXISTÊNCIA DE SITUAÇÃO TERATOLÓGICA OU ILEGAL - PRELIMINAR DE NÃO CABIMENTO ACOLHIDA - ORDEM DENEGADA
+1. Não há falar em perda superveniente do objeto se ainda permanece válido e eficaz o ato coator consistente no indeferimento de efeito suspensivo a embargos de declaração.
+2. "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição", nos termos da Súmula nº 267, do STF.
+3. Quanto aos atos judiciais, para a impetração do mandado de segurança, exige-se a presença cumulativa de três requisitos: i) inexistência de instrumento recursal idôneo; ii) não formação de coisa julgada; e iii) ocorrência de teratologia na decisão atacada.
+4. Ordem denegada.
+Em suas razões (e-STJ, fls. 2.941-3.003), o recorrente alega que "o mandado de segurança cujo acórdão ora se recorre tem por escopo obter efeito suspensivo ao cumprimento de ordem de reintegração que por ocasião do julgamento dos embargos de declaração /50001 que concedeu efeitos infringentes ao acórdão do agravo nº 1420543-63.2022.8.12.0000, que vinha reformando a decisão de primeira instância singular, que concedia ordem de reintegração de posse, que ora resta restabelecida, e se pretende que seja concedida a ordem para concessão e efeito suspensivo desta reintegração de posse" (e-STJ, fl. 2.950).
+Afirma, ainda, que "os embargos postos em pauta virtual e julgados nesta modalidade, conferiram efeitos infringentes aos embargos direcionados ao segundo vogal, MESMO SEM PEDIDO DE CONCESSÃO DE EFEITOS FRINGENTES a autoridade coatora os concedeu" (e-STJ, fls. 2.952).
+Relata ter oposto embargos de declaração, os quais foram novamente julgados de forma nula "por inobservância do art. 340 e 3557 do RITJMS, 10, 933, 934 e 935 do CPC na medida em que na data do julgamento do feito /50003 em franca decisão SURPRESA já no mesmo ato, Julgou sem previa imitação da pauta de julgamento, o feito /50001 que de fato não estava na pauta, VÍCIO PASSÍVEL DE NULIDADE ABSOLUTA" (e-STJ, fl. 2.953).
+Assim, aduz ser "necessário que se promova a concessão do efeito suspensivo ao menos até que se julgue o presentes embargos de declaração, na medida em que permitir que utilizem-se deste mandado para invadir áreas de terceiros e vandalizar benfeitorias e bens do impetrante ora recorrente sem qualquer constatação, avaliação e garantia idônea, ao arrepio da lei, da doutrina e da jurisprudência, revela que a tutela cautelar é medida impositiva" (e-STJ, fl. 2.956).
+Brevemente relatado, decido.
+A compreensão adotada na origem não comporta censura.
+De acordo com a uníssona jurisprudência desta Corte de Justiça, o mandado de segurança não consubstancia a via processual adequada para amparar a revisão de ato de natureza jurisdicional, salvo situação de absoluta excepcionalidade, em que ficar cabalmente evidenciado o caráter teratológico da medida impugnada.
+Na hipótese, o writ impetrado na segunda instância buscava a impugnação da decisão que indeferiu o pedido de concessão de efeito suspensivo a embargos de declaração, ante a suposta nulidade do julgado embargado.
+Como bem salientou o acórdão recorrido, não há teratologia na decisão que julgou os embargos de declaração e nem sequer na decisão que indeferiu o pedido de efeito suspensivo, até mesmo porque os embargos de declaração não dotados de tal efeito, cabendo o relator reconhecer ou afastar tal pleito quando requerido pela parte.
+Ademais, contra o referido decisum, era cabível a interposição de recurso, com pedido de concessão de efeito suspensivo, caso assim entendesse a parte, razão pela qual se mostra manifestamente descabida a utilização do mandado de segurança, nos termos do enunciado n. 267 da Súmula do STF.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TERCEIRO PREJUDICADO. CIÊNCIA DA DECISÃO JUDICIAL. OCORRÊNCIA. SÚMULA 202/STJ. INAPLICABILIDADE. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. SÚMULA 267/STF. CASO CONCRETO EM QUE NÃO RESTAM EVIDENCIADAS MANIFESTA ILEGALIDADE OU TERATOLOGIA NO ACÓRDÃO RECORRIDO. DESCABIMENTO DO MANDAMUS.
+ ..
+2. Nos termos da Súmula 267/STF e da jurisprudência pacífica do STJ, o mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido o seu manejo contra ato judicial passível de recurso.
+3. Apenas excepcionalmente esta Corte admite o uso do mandamus, quando o ato judicial é eivado de ilegalidade, teratologia ou abuso de poder, o que não se verifica na espécie.
+4. Agravo interno não provido. (AgInt no RMS n. 63.165/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023)
+Portanto, eventual nulidade ocorrido durante o processo de conhecimento poderia ser arguida por diversos outros meios de impugnação, o que afasta o cabimento do writ.
+Ante o exposto, nego provimento ao recurso ordinário.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. IMPUGNAÇÃO DE DECISÃO JUDICIAL. EXCEPCIONALIDADE. SUCEDÂNEO RECURSAL. DESCABIMENTO. SÚMULA N. 267/STF. RECURSO ORDINÁRIO DESPROVIDO.
