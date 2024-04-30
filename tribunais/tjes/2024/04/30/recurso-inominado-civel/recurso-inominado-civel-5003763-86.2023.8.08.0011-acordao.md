@@ -1,0 +1,77 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003763-86.2023.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RODRIGO SILVA SANTOS
+RECORRIDO: MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM e outros
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5003763-86.2023.8.08.0011
+Origem:
+Juízo de Cachoeiro de Itapemirim - 1º Juizado Especial Criminal e Fazenda Pública
+RECORRENTE
+: RODRIGO SILVA SANTOS
+RECORRIDOS
+: MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM, ESTADO DO ESPÍRITO SANTO
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA
+:
+
+RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. PROCEDIMENTO CIRÚRGICO. ARTROPLASTIA DE QUADRIL. ADOTA-SE O RELATÓRIO ELABORADO NA SENTENÇA PROFERIDA PELO JUÍZO DE ORIGEM,
+in verbis
+: “
+Trata-se de ação de obrigação de fazer para a realização de procedimento cirúrgico não disponibilizado pelos réus. Afirma a parte autora que a cirurgia se faz necessária por ser o tratamento especializado adequado e indicado à sua patologia
+.
+[...]
+”.
+SENTENÇA DE PARCIAL PROCEDÊNCIA
+. RECURSO INOMINADO INTERPOSTO PELA PARTE AUTORA, A FIM DE QUE SEJA FIXADA MULTA DIÁRIA E A CONDENAÇÃO DOS RÉUS AO PAGAMENTO DE DANOS MORAIS. DO MÉRITO.
+SABE-SE QUE
+A FIXAÇÃO DE VALOR A TÍTULO DE MULTA POSSUI NATUREZA SANCIONATÓRIA, DE MODO A INCUTIR AO RÉUS O PROPÓSITO DE CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. AO ANALISAR OS AUTOS, VÊ-SE QUE, AINDA QUE A CIRURGIA NÃO TENHA SIDO REALIZADA, A PARTE RÉ DEMONSTRA A TENTATIVA DE CUMPRIMENTO DA OBRIGAÇÃO. ALÉM DISSO, EM CASO DE DESCUMPRIMENTO DA DETERMINAÇÃO JUDICIAL, O ARBITRAMENTO DE MULTA DIÁRIA DEVERÁ SER REALIZADO PELO JUÍZO DE ORIGEM, SE NECESSÁRIO. NO QUE SE REFERE AOS DANOS MORAIS, O ATO OBJURGADO MERECE REFORMA. PELOS LAUDOS MÉDICOS ANEXADOS AOS AUTOS, OBSERVA-SE QUE A PARTE AUTORA, EM RAZÃO DE SEU QUADRO CLÍNICO, POSSUI DIFICULDADES PARA DEAMBULAR E NÃO TEM CONDIÇÕES DE EXERCER ATIVIDADE LABORATIVA, DE MODO QUE, O FATO DE O AUTOR PRECISAR INGRESSAR NAS VIAS JUDICIAIS A FIM DE SOLICITAR A CIRURGIA E, MESMO APÓS DETERMINAÇÃO JUDICIAL, TER DECORRIDO O PRAZO DE 03 MESES SEM QUE AQUELA FOSSE REALIZADA, É SUFICIENTE PARA COMPROVAR QUE A
+SITUAÇÃO EM SI
+
+GEROU ABALO PSICOLÓGICO E TRANSTORNO CAPAZ DE CARACTERIZAR A LESÃO A DIREITO DE PERSONALIDADE.
+POR TODOS OS MOTIVOS DESCRITOS, RESTA CONFIGURADO O DANO MORAL, DE MODO QUE A SENTENÇA DE ORIGEM MERECE REFORMA PARA CONDENAR O ESTADO DO ESPÍRITO SANTO A REPARAR OS DANOS EXTRAPATRIMONIAIS. NO TOCANTE AOS CRITÉRIOS DE FIXAÇÃO DO
+QUANTUM
+, ENTENDE-SE COMO RAZOÁVEL E PROPORCIONAL A QUANTIA DE R$ 3.000,00 (TRÊS MIL REAIS). A LESÃO INTERNA FOI CAUSADA EXCLUSIVAMENTE PELO ESTADO, DE MODO QUE O MUNICÍPIO NÃO DEVE SER CONDENADO SOLIDARIAMENTE NO PAGAMENTO DA INDENIZAÇÃO POR DANOS MORAIS.
+DA CONCLUSÃO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+, A FIM DE REFORMAR A R. SENTENÇA TÃO SOMENTE NO SENTIDO DE CONDENAR APENAS O ESTADO DO ESPÍRITO SANTO A PAGAR, A TÍTULO DE DANOS MORAIS, A QUANTIA DE R$ 3.000,00 (TRÊS MIL REAIS) AO AUTOR, COM ACRÉSCIMOS DE JUROS LEGAIS E CORREÇÃO MONETÁRIA A PARTIR DO PRESENTE ARBITRAMENTO. NO MAIS, SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+
+SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
