@@ -1,0 +1,36 @@
+DECISÃO
+A defesa postula a modificação do regime inicial de cumprimento de pena, ao argumento de que houve ofensa às Súmulas n. 440 do STJ, 718 e 719 do STF.
+Decido.
+O acusado foi condenado à pena de 7 anos, 4 meses e 20 dias de reclusão, em regime inicial fechado, pelos crimes descritos nos arts. 157, II e § 2º-A c/c o art. 14, II, 311 e 330, todos do Código Penal. Transcrevo:
+Deste modo, as penas bases de todos os delitos,devem-se fixadas no patamar mínimo legal, a saber:Roubo: 04 anos de reclusão e 10 dias-multa,no valor unitário mínimo legal.
+Adulteração de sinal identificador: 3 (três)anos de reclusão e ao pagamento de 10 (dez) dias-multa, no valorunitário mínimo legal.
+Desobediência:15 (quinze) dias de detenção.
+Na segunda fase da dosimetria da pena,ausentes circunstâncias atenuantes ou agravantes, relativamente a Felipe.
+Presente a circunstância agravante da reincidência, em relação aos réus Gabriel e Raphael, devendo ser mantida a majoração de 1/6 (um sexto),resultando a pena intermediária em:Para os acusadosGabriel e Raphaela penaintermediária restou fixada em:Roubo: 4 anos, 8 meses de reclusão e 11dias-multa, no valor unitário mínimo legal.
+Adulteração de sinalidentificador: 3 anos e 6 meses de reclusão e 11 dias-multa, no valorunitário mínimo legal, que torno definitiva, ante a ausência de causas de aumento ou diminuição de pena. Desobediência:17 (dezessete) dias de detenção, que torno definitiva, ante a ausência de causas de aumento oudiminuição de pena.
+Na terceira fase da dosimetria da pena, emrelação ao delito de roubo, para todos os apelantes e diante da incidênciada causa de aumento de pena relativas ao concurso de agentes e empregode arma de fogo, a reprimenda foi majorada em 2/3 (dois terços),resultando em:Felipe:06 anos, 08 meses de reclusão e 16dias-multa.
+Gabriel e Raphael:07 anos, 09 meses e 10 diase 18 dias-multa.
+Presente ainda, a causa de diminuição de pena lativa ao crime tentado, devendo ser aplicada a fração de  (metade),visto o iter criminis percorrido, ou seja, os acusados abordaram a vítima,exigiram que entrasse no seu próprio veículo, contudo, não foramobedecidos pela vítima, deste modo, exibiram à ofendida a arma de fogocom o intuito de amedrontar e fazer que suas exigências fossemseguidas, todavia, a vítima, logo que avistou os policiais, acionou-os,frustrando assim a consumação do delito. Note-se que a ação delitiva,quase chegou a sua plenitude, não fosse a interferência da vítima.
+Deste modo, o delito de roubo restou fixadoem: 03 anos, 10 meses e 20 dias, e ao pagamento de 09 dias-multa(Gabriel e Raphael) e 03 anos, 04 meses de reclusão e 08 dias-multa(Felipe).
+Em razão do concurso material de delitos, as penas devem ser somadas, resultando definitivamente em:Gabriel e Raphael: 07 (sete) anos, 04 (quatro)meses e 20 (vinte) dias de reclusão, bem como ao pagamento de 20(vinte) dias-multa e 17 (dezessete) dias de detenção.
+Felipe: 06 (seis) anos e 04 (meses) de reclusão,bem como ao pagamento de 18 (dezoito) dias-multa e 17 (dezessete)dias de detenção.
+No tocante a fixação de regime menos gravoso,tem-se que não merecer ser acolhido o pleito defensivo, visto que a fixação de regime menos gravoso, além de incompatível com a gravidade dos delitos, seria insuficiente para a reprovação e prevençãodo crime, além de que os acusados, perpetraram o delito com o empregode arma de fogo, demonstrando grande ousadia na prática delitiva, alémdo concurso de agentes, deixando a empreitada delituosa muito maisperigosa para a vítima e com maior probabilidade de sucesso.
+Ademais,a análiseindividualizadadaspeculiaridades do caso, indica que regime menos gravoso não se mostraadequado à hipótese em apreço, mostrando-se mais acertada a manutenção do regime inicialfechado para o cumprimento da reprimenda imposta, para que a penalidade tenha contornos de suficiência em face da situação concreta. Lembre-se que o princípio da suficiência da pena, que vale inclusive quanto ao modo de seucumprimento (regime), faz com que esta deva ser de molde a afastarqualquer sensação de impunidade e a fazer com que o sentenciadoefetivamente sinta a gravidade de seu comportamento, a fim de nãocogitar de repeti-lo. oubo, como resposta adequada à reprovação e prevenção de tal conduta.
+Ademais,nemse alegueofensaaosentendimentos preconizados nas Súmulas 718 e 719 do Col. STF e Súmula 440 do Col. STJ, pois os fatos concretos e as circunstânciasaferidas, ambos extraídos dos autos, demonstram não ser recomendávela adoção de regime prisional mais brando, no caso dos autos, já que o crime foi praticado mediante grave ameaça contra as vítimas.
+No tocante à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013;HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Na hipótese, o paciente, além de reincidente, foi condenado a mais de 4 anos de reclusão, razão pela qual a fixação do regime inicial fechado está em consonância com a jurisprudência desta Corte, nos termos da Súmula n. 269 do STJ. Exemplificativamente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. REGIME FECHADO. PENA MENOR QUE 4 ANOS. REINCIDÊNCIA. MAUS ANTECEDENTES. IDONEIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravante não apresentou novos argumentos em relação à adequação do regime inicial fechado para agente reincidente e com maus antecedentes, a quem foi imposta pena menor que 4 anos de reclusão.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada em tais pontos.
+3. Agravo regimental não provido.
+(AgRg no RESP n. 2.021.572/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2022)
+ ..
+V - In casu, o regime adequado à hipótese é o inicial fechado, uma vez que a valoração negativa das circunstâncias judiciais indicadas pelas instâncias ordinárias, aliadas à reincidência, justifica a fixação do regime fechado para o início de cumprimento da sanção. Agravo regimental desprovido.
+(AgRg no HC n. 751.573/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe de 26/8/2022)
+ ..  Embora a pena fixada não alcance 4 (quatro) anos, pela existência de circunstância judicial desfavorável ao Agravante que levou à fixação da pena-base acima do mínimo legal, além do reconhecimento da reincidência, está justificado o estabelecimento do regime prisional mais severo"
+(AgRg no HC n. 618.167/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 5/4/2021)
+À vista do exposto, inexiste ilegalidade a ser sanada.
+Diante do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
