@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por GILBERTO RODRIGUES AGUIAR contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 333):
+Ação indenizatória por enriquecimento ilícito - Constituição de sociedade empresária entre as partes - Alegada prescrição - Inocorrência - Anterior ajuizamento de ação de exigir contas com pedido de reconhecimento de sociedade empresária entre as partes que fora julgada extinta, sem resolução de mérito - Citação naqueles autos que tem como efeito a interrupção da prescrição (CC, art. 202, I) - Prescrição trienal inocorrente, uma vez que a presente ação foi ajuizada no prazo legal - Prova testemunhal que, apesar da relevância da contradita apresentada pelo réu (amizade íntima entre o autor e suas testemunhas), as testemunhas arroladas pelo réu corroboraram a tese do autor - Pretensão de nulidade da sentença por não ter sido apreciada tese sustentada pelo réu em sua contestação - Hipótese em que a omissão em que incorreu a sentença ao não decidir sobre o abatimento de valores da relação jurídica entre as partes pode e deve ser analisada pelo Tribunal (CPC, art. 1.013, §3º) - Nulidade afastada - Conjunto probatório que revelou e confirmou a existência de sociedade empresária entre as partes e que o autor tem direito ao recebimento de 30% por sua participação societária no preço de venda do estabelecimento comercial - Pequena correção na sentença para readequar-se os valores devidos pelo réu ao autor, sob pena de enriquecimento sem causa deste - Sentença de procedência mantida com correção do valor devido pelo réu ao autor - Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 351/355).
+Nas razões do especial, aponta o recorrente violação dos artigos 447, § 3º, I e II, e 1.022, I, do Código de Processo Civil, artigo 202, I, 206, § 3º, 844 e 876 do Código Civil.
+Argumenta, em síntese, que remanesceria contradição no acórdão recorrido.
+Defende que o ajuizamento de ação de exigir contas não interromperia o prazo prescricional para ação indenizatória relacionada.
+Ressalta a ocorrência de erro de procedimento quanto à manutenção na oitiva de testemunha suspeita.
+Pondera, ainda, que o valor resultante da dissolução de sociedade deveria incluir apenas o que destinado à empresa, sob pena de enriquecimento sem causa do favorecido.
+Contra-arrazoado (fls. 383/397), o recurso especial não foi admitido na origem (fls. 448/450), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 1.022, I, do Código de Processo Civil, observo que não há contradição entre a negativa de restituição do valor de R$ 340.000,00 e a devolução do valor correspondente ao percentual de cada sócio proveniente da dissolução.
+Conforme extraio do acórdão que julgou os embargos de declaração, a Corte Local indeferiu a restituição integral daquele valor ao recorrente, por considerar que integrava a parte financeira da sociedade dissolvida, presumindo que fazia parte também do patrimônio da pessoa jurídica, ônus não infirmado pelo ex-sócio.
+A propósito (fl. 354):
+Com relação aos R$ 340.000,00, nenhuma razão assiste ao apelante.
+Em todo o processado o apelante nada demonstrou que tal valor deveria ser-lhe restituído como forma de investimento na constituição da sociedade; nenhuma cláusula contratual fora estipulada nesse sentido, presumindo-se, assim, que a vontade das partes era a divisão do preço da venda na forma da participação societária de cada um dos sócios." (fls. 340/341)
+Desse modo, não havendo contradição entre as premissas usadas no acórdão recorrido e o provimento alcançado, não há falar-se em violação ao artigo 1.022 do Código de Processo Civil.
+Ressalte-se que, na linha da jurisprudência consolidada no âmbito desta Corte Superior: "A contradição que autoriza a oposição dos embargos é aquela interna ao julgado, existente entre a fundamentação e a conclusão." (AgInt nos EDcl no AREsp 187.905/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 9/8/2016, DJe 19/8/2016)
+No que se refere à alegada violação dos artigos 202, I, e 206, § 3º, do Código Civil, observo que o Tribunal de origem concluiu que a ação de exigir contas quanto ao reconhecimento de sociedade empresária interromperia a pretensão indenizatória relacionada a fato associado à mesma pessoa jurídica (fl. 338).
+A orientação adotada pela Corte Local não destoa da jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DE CRÉDITO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A propositura de ação de prestação de contas, ainda que extinta sem resolução de mérito, tem o condão de interromper o prazo prescricional relativo à ação revisional do contrato acerca do qual versava a prestação de contas.
+A taxa média de mercado, embora não seja um valor absoluto, pode ser utilizada como referência para aferição do desequilíbrio contratual, considerando-se abusiva a taxa de juros remuneratórios que exceda o dobro da média de mercado.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.025.475/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. AÇÃO DE PRESTAÇÃO DE CONTAS ANTERIOR. CITAÇÃO VÁLIDA. INTERRUPÇÃO DA PRESCRIÇÃO. DECISÃO MANTIDA.
+1. O entendimento desta Corte é de qu e "a citação válida promovida em anterior ação de prestação de contas, no prazo e na forma da lei processual, ainda que extinta sem resolução de mérito, é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato" (AgInt no AREsp 1.727.721/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2021, DJe de 28/04/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.040.898/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Quanto à alegada violação do artigo 447, § 3º, I e II, do Código de Processo Civil, observo que o Tribunal de origem pressupõe que mesmo a prova produzida pelas testemunhas arroladas pelo próprio recorrente já seria suficiente para resolver a controvérsia nos termos em que decidida (fl. 339):
+Com relação à contradita das testemunhas do apelado, por amizade íntima, ainda que assim se identifique a partir das fotos carreadas ao processado (fls. 208/217), as quais revelam momentos de lazer e confraternização entre o apelado, sua esposa e as testemunhas, deve ser pontuado que as testemunhas arroladas pelo próprio apelante não afastaram a relação societária entre as partes litigantes; ao contrário, corroboraram a tese do apelado.
+O recorrente, por sua vez, não combateu o fundamento aludido, em todo suficiente para manter o provimento adotado no acórdão recorrido, atraindo a incidência da Súmula 283/STF.
+No que se refere à alegada violação aos artigos 844 e 876 do Código Civil, verifico que a controvérsia referente ao enriquecimento sem causa ficou prejudicada, tendo em vista a constatação de fundamento jurídico para a restituição do valor aos sócios conforme o percentual de participação na sociedade dissolvida.
+Diante desse contexto, inexistente prequestionamento a respeito, o tema relativo ao enriquecimento sem causa não pode ser analisado de modo originário na presente via, atraindo a incidência das Súmulas 282 e 356/STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
