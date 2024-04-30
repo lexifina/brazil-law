@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) de fls. 9.198/9.204.
+O recurso especial foi interposto, com fundamento no art. 105,  inciso III,  alínea a,  da Constituição Federal (CF), contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 8.948):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DE BENEFÍCIOS FISCAIS DE ICMS DA BASE DE CÁLCULO DO IRPJ E DA CSLL. LUCRO REAL. EXCLUSÃO.
+1. Os benefícios ou incentivos fiscais de ICMS não geram aumento de patrimônio, nem produzem receita ou lucro, na medida em que operam, por via transversa, a redução da carga tributária. Logo, por não representar acréscimo de nenhuma espécie, não se constituem como receita tributável.
+2. As receitas decorrentes de benefícios fiscais concedidos pelos Estados em relação ao ICMS, independentemente de sua natureza (crédito presumido, redução de alíquota ou redução da base de cálculo, por exemplo), devem ser afastadas da base de cálculo da CSLL e do IRPJ, pouco importando sua destinação.
+3. O contribuinte tem o direito de excluir os créditos presumidos e demais benefícios relacionados ao ICMS da base de cálculo do IRPJ e da CSLL, uma vez que não configuram acréscimo patrimonial da empresa, não se equiparando a lucro ou renda. Precedentes desta Corte e do STJ.
+Os embargos de declaração opostos foram providos, tão somente, para fins de prequestionamento (fls. 9.006/9.010).
+A parte agravante alega em seu recurso especial a impossibilidade de exclusão dos demais benefícios fiscais de ICMS da base de cálculo do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL), por inaplicabilidade dos EREsp 1.517.492/PR, do art. 30 da Lei 12.973/2014 e do art. 10 da Lei Complementar 160/2017.
+A parte adversa apresentou contrarrazões (fls. 9.070/9.094).
+O recurso não foi admitido, o que ensejou a interposição de agravo em recurso especial.
+Às fls. 9.198/9.204, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) conheceu do agravo para negar provimento ao recurso especial.
+Contra a decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente pretende que seja reconhecida a inaplicabilidade do precedente firmado nos EREsp 1.517.942/PR para os benefícios fiscais genéricos e incondicionais de ICMS (isenções e reduções), uma vez que naqueles autos, tratou-se, especificamente, das peculiaridades do benefício de crédito presumido.
+Às fls. 9.220/9.232 foi apresentada a impugnação.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+A questão aqui debatida foi definida pela Primeira Seção do Superior Tribunal de Justiça, por ocasião do julgamento dos Recursos Especiais 1.945.110/RS e 1.987.158/SC, sob a sistemática dos recursos repetitivos - Tema 1.182, fixando as seguintes teses jurídicas:
+1. Impossível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL, salvo quando atendidos os requisitos previstos em lei (art. 10, da Lei Complementar n. 160/2017 e art. 30, da Lei n. 12.973/2014), não se lhes aplicando o entendimento firmado no ERESP 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL.
+2. Para a exclusão dos benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL não deve ser exigida a demonstração de concessão como estímulo à implantação ou expansão de empreendimentos econômicos.
+3. Considerando que a Lei Complementar 160/2017 incluiu os §§ 4º e 5º ao art. 30 da Lei 12.973/2014 sem, entretanto, revogar o disposto no seu § 2º, a dispensa de comprovação prévia, pela empresa, de que a subvenção fiscal foi concedida como medida de estímulo à implantação ou expansão do empreendimento econômico não obsta a Receita Federal de proceder ao lançamento do IRPJ e da CSSL se, em procedimento fiscalizatório, for verificado que os valores oriundos do benefício fiscal foram utilizados para finalidade estranha à garantia da viabilidade do empreendimento econômico.
+Sendo assim, o art. 34, XXIV, do Regimento Interno do STJ estabelece que compete ao relator "determinar a devolução dos autos à origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adição das medidas cabíveis".
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do Código de Processo Civil .
+Publique-se. Intimem-se.
+EMENTA
