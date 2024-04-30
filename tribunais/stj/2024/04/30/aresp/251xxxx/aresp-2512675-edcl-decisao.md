@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ESTADO DE MATO GROSSO DO SUL contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fl. 221):
+O recurso do Estado do Mato Grosso do Sul não recebeu chancela por parte da e. Presidente.
+No entanto, foi alegado o seguinte no agravo da edilidade publica:
+Repise-se, a determinação de pagamento de verbas (férias e décimo terceiro salário proporcionais) com base em decisão judicial precária (liminar em mandado de segurança), não pode prevalecer, porquanto não há boa-fé por parte da recorrida, pois a Administração em momento nenhum lhe gerou uma falsa expectativa de definitividade quanto ao direito pleiteado. Logo, a adoção de entendimento diverso importaria, dessa forma, no desvirtuamento do próprio instituto da liminar, no caso, haja vista que um dos requisitos legais para sua concessão reside justamente na inexistência de perigo de irreversibilidade. Portanto, resta evidente que as decisões proferidas no presente caso, contrariam o disposto nos artigos 927, III, do Código de Processo Civil; 884, do Código Civil; 78, da Lei n. 8112/90, bem como a tese firmada em julgamento de casos repetitivos (REsp n.º 1769306/AL -Tema 1009).
+Tal ponto, com o máximo respeito, não foi enfrentado, o que constitui omissão a ser sanada pela via dos embargos de declaração, nos termos do art. 1022, II, do CPC.
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 126/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
