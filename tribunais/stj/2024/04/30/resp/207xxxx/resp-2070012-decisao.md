@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 322):
+APELAÇÃO. PLANO DE SAÚDE. REAJUSTES. FAIXA ETÁRIA. LEI 10.741/2003. CONTRATO FIRMADO EM MAIO DE 1995, ANTERIORMENTE AO ESTATUTO DO IDOSO. SENTENÇA DE PARCIAL PROCEDÊNCIA, DETERMINANDO O AFASTAMENTO INTEGRAL DA CLÁUSULA QUE PREVIA OS ÍNDICES DE MAJORAÇÃO EM FUNÇÃO DA IDADE DOS SEGURADOS. APLICAÇÃO, PELO JUÍZO "A QUO", DO PRAZO PRESCRICIONAL DE 10 ANOS. PRESCRIÇÃO. SENTENÇA PROFERIDA ANTES DO JULGAMENTO DOS RECURSOS ESPECIAIS REPETITIVOS 1.360.969/RS E 1.361.182/RS. NECESSIDADE DE ADEQUAÇÃO, COM A APLICAÇÃO DO PRAZO TRIENAL, NOS TERMOS DO DECIDIDO PELO STJ. APENAS PODEM SER OBJETO DA PRESENTE DEMANDA OS REAJUSTES APLICADOS A PARTIR DE AGOSTO DE 2011. REAJUSTE CONTRATUAL. PREVISÃO CONTRATUAL. CONTRATO FIRMADO ANTERIORMENTE AO ESTATUTO DO IDOSO, OS QUAIS POR SI SÓ NÃO ENSEJARIAM ILEGALIDADE. RESP 1.568.244/RJ. PERCENTUAIS FIXADOS EM RELAÇÃO ÀS 4 PRIMEIRAS FAIXAS NÃO PODERIAM SER CONSIDERADOS ABUSIVOS, PORQUANTO PROPORCIONAIS E ADEQUADOS À ESPÉCIE. SENTENÇA QUE RECONHECEU CORRETO OS REAJUSTES DAS 4 PRIMEIRAS FAIXAS E ABUSIVA AS TRÊS ÚLTIMAS FAIXAS, RELATIVAS AO PERÍODO POSTERIOR AOS 59 ANOS DE IDADE. PERCENTUAIS INJUSTIFICADOS, QUE IMPÕE ONEROSIDADE EXCESSIVA AO CONSUMIDOR, DISCRIMINANDO OS IDOSOS. JURISPRUDÊNCIA. EXCLUSÃO DESTES REAJUSTES. PRECEDENTES. DEVOLUÇÃO SIMPLES, NOS TERMOS DA DECISÃO RECORRIDA, FACULTADA A COMPENSAÇÃO NAS PARCELAS FUTURAS. SENTENÇA REFORMADA EM PARTE. SUCUMBÊNCIA RECÍPROCA. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 357/362).
+No recurso especial (e-STJ fls. 364/388), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa aos arts. 932, V , "b", e 1.040, II, bem como aos arts. 489, § 1º, VI, 1.022, I, e 927, III, todos do CPC/2015.
+Insurge-se contra a conclusão da Corte local de serem "abusivos os reajustes previstos no contrato em discussão para as faixas após os 59 anos" (e-STJ fl. 325).
+A parte defende que:
+(i) "O v. acórdão recorrido negou vigência ao artigo 1.022, II do Código de Processo Civil, pois rejeitou os embargos de declaração sem se manifestar de forma adequada sobre os pontos levantados" (e-STJ fl. 370);
+(ii) "o v. acórdão foi omisso quanto aos artigos 927, III do Código de Processo Civil, a considerar que o reajuste é abusivo, por não preencher requisitos de validade estipulados pelo próprio Superior Tribunal de Justiça" (e-STJ fl. 371);
+(iii) "Os recorridos sempre estiveram cientes das cláusulas contratuais, não havendo que se falar em vulnerabilidade ou ainda, em vantagem manifestamente excessiva" (e-STJ fl. 375);
+(iv) "o Tribunal de Justiça deveria julgar o recurso de apelação com base no recurso repetitivo de nº  sic  Resp n.º 1.568.244/RJ, todavia não foi o que ocorreu" (e-STJ fl. 375);
+(v) "não há de se falar em aleatoriedade dos índices constantes do contrato dos recorridos, que foi, antes de sua comercialização, analisado e chancelado pela ANS" (e-STJ fl. 381).
+Ao final, requer o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ fls. 391/405).
+O recurso foi admitido na origem, nos termos da decisão de fls. 412/413 (e-STJ).
+É o relatório.
+Decido.
+A controvérsia tem origem no reajuste da mensalidade do plano de saúde nos percentuais de "70,99% e 32,92%, decorrentes de mudança de faixa etária dos consumidores, quando estes completaram 56 anos e 61 anos" (e-STJ fl. 239).
+O TJSP julgou abusivos os reajustes "para as faixas após os 59 anos" (e-STJ fl. 325), entendendo que houve "discriminação ao idoso" e "cálculo incompreensível".
+Confira-se (e-STJ fl. 325):
+ ..  embora as faixas após os 59 anos fossem permitidas, deve ser repelida a eventual discriminação ao idoso, conceito que também envolve o desequilíbrio contratual frente a eventuais abusividades da parte hipersuficiente - no caso, a operadora.
+ ..  afiguraram-se abusivos os reajustes previstos no contrato em discussão para as faixas após os 59 anos, nos elevados percentuais de 32,52%, 36,68% e 39,19%, porquanto se baseiam em cálculo incompreensível, utilizando fator "US", dificultando, sobremaneira, ao consumidor, apurar a variação dos custos, onerando-os de maneira excessiva.
+(I e II) Inexiste afronta aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese repetitiva firmada pelo STJ, o Tribunal de origem assim se manifestou (e-STJ fl. 325):
+Saliente-se que o STJ já consolidou o entendimento de que "a norma do art. 15, § 3º, da Lei nº 10.741/2003, que veda "a discriminação do idoso nos planos de saúde pela cobrança de valores diferenciados em razão da idade", apenas inibe o reajuste que consubstanciar discriminação desproporcional ao idoso, ou seja, aquele sem pertinência alguma com o incremento do risco assistencial acobertado pelo contrato" (REsp 1568244/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, 2 a Seção, julgado. 14/12/2016).
+Dessa forma, em atenção à ressalva contida na parte final da tese firmada, possível concluir que embora as faixas após os 59 anos fossem permitidas, deve ser repelida a eventual discriminação ao idoso, conceito que também envolve o desequilíbrio contratual frente a eventuais abusividades da parte hipersuficiente - no caso, a operadora.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no ar t. 1.022 do CPC/2015.
+(III, IV e V) O entendimento do Tribunal de origem não pode ser desconstituído apenas com base nos arts. 927, III, 932, V, "b", e 1.040, II, do CPC/2015 - que versam sobre os recursos repetitivos -, porque as normas em referência nada dispõem sobre a questão federal da validade dos reajustes por faixa etária, que é o mérito da controvérsia, valendo lembrar que teses de repetitivo não se equiparam à lei federal.
+Dessa forma, está caracterizada a deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Esclareça-se que o conhecimento do recurso especial, fundamentado na alínea "a" ou na alínea "c" do permissivo constitucional, exige a indicação pertinente dos dispositivos legais supostamente violados ou que foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF (cf. AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/2009).
+Ante o exposto, CONHEÇO EM PARTE do recurso e, nessa parte, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
