@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, conflito negativo de competência suscitado pelo JUIZ DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE SANTA FÉ DO SUL - SP em face do JUIZ DE DIREITO DO QUARTO JUIZADO ESPECIAL DA FAZENDA PÚBLICA DE CURITIBA - PA, nos autos da ação de execução de título judicial ajuizada por MATHEUS DUARTE GONÇALVES em face da FUNDAÇÃO MUNICIPAL DE EDUCAÇÃO E CULTURA - FUNEC, em que requer, com base em certidão de crédito judicial, a expedição de requisição de pequeno valor - RPV.
+Inicialmente, a ação foi proposta perante o Juiz do 13º Juizado Especial Cível de Curitiba - PR, em que se processou a ação de repetição de indébito que deu origem à certidão de crédito ora objeto da ação de execução que deu ensejo ao presente conflito de competência. O juiz originário extinguiu a ação de execução asseverando sua incompetência, tendo em vista que a executada é fundação de direito público, de forma que a execução deveria ser processada perante o Juizado Especial da Fazenda Pública de Curitiba - PR.
+Em nova ação de execução de título judicial perante o Quarto Juizado Especial da Fazenda Pública de Curitiba - PR, houve prolação de sentença também de extinção do processo sem julgamento de mérito com fundamento na incompetência da vara fazendária do município de Curitiba - PR, sob a argumentação de que seria competente o Juizado Especial Cível e Criminal de Santa Fé do Sul - SP, comarca de domicílio da parte executada.
+Pro fim, o exequente, ora interessado, ajuizou, perante o Juiz de Direito do Juizado Especial Cível e Criminal de Santa Fé do Sul - SP, nova ação de execução de título judicial. O juiz suscitante declinou de sua competência ao fundamento de que compete aos Juizados Especiais a execução de seus próprios julgados, e suscitou o presente conflito.
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do conflito de competência sob o argumento de que, no caso, "não houve a declaração de incompetência de Juízos distintos para apreciar e julgar o mesmo feito. Em verdade, houve a extinção de processos distintos, sem que se estivesse diante de uma causa única" (fl. 368).
+É o breve relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 1ª Seção.
+Inicialmente, conheço do conflito, pois há juízos vinculados a Tribunais diversos, declinando de suas respectivas competências, nos moldes delineados pelo art. 105, I, d , da Constituição Federal.
+A questão central diz respeito à definição do juízo competente para processar e julgar ação de execução de título judicial formado no julgamento de ação de repetição de indébito ajuizada contra a Fundação Municipal de Educação e Cultura - FUNEC, fundação municipal de direito público.
+Conforme o art. 516, II, do CPC/2015, o "cumprimento da sentença efetuar-se-á perante: II - o juízo que decidiu a causa no primeiro grau de jurisdição".
+Por sua vez, a Lei 12.153/2009, que "dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios", estabelece, em seu art. 2º, § 4º, que a competência dos Juizados da Fazenda Pública é absoluta, fixada sob os parâmetros do valor da causa e do interesse público. Confira-se:
+Art. 2o É de com petência dos Juizados Especiais da Fazenda Pública processar, conciliar e julgar causas cíveis de interesse dos Estados, do Distrito Federal, dos Territórios e dos Municípios, até o valor de 60 (sessenta) salários mínimos.
+§ 1º Não se incluem na competência do Juizado Especial da Fazenda Pública:
+I - as ações de mandado de segurança, de desapropriação, de divisão e demarcação, populares, por improbidade administrativa, execuções fiscais e as demandas sobre direitos ou interesses difusos e coletivos;
+II - as causas sobre bens imóveis dos Estados, Distrito Federal, Territórios e Municípios, autarquias e fundações públicas a eles vinculadas;
+III - as causas que tenham como objeto a impugnação da pena de demissão imposta a servidores públicos civis ou sanções disciplinares aplicadas a militares.
+§ 2º Quando a pretensão versar sobre obrigações vincendas, para fins de competência do Juizado Especial, a soma de 12 (doze) parcelas vincendas e de eventuais parcelas vencidas não poderá exceder o valor referido no caput deste artigo.
+§ 3º (VETADO)
+§ 4º No foro onde estiver instalado Juizado Especial da Fazenda Pública, a sua competência é absoluta.
+De tal forma, presente entidade de direito público municipal como executada, o cumprimento de sentença deverá prosseguir no Juizado Especial da Fazenda Pública.
+Nesse sentido, destacam-se os seguintes julgados deste Superior Tribunal de Justiça: CC 186.837/MS, Ministro BENEDITO GONÇALVES, DJe de 28/03/2022; CC 184.342/MS, Ministra ASSUSETE MAGALHÃES, DJe de 22/03/2022; e CC 174.172/MS, Ministro FRANCISCO FALCÃO, DJe de 1º/3/2021.
+O presente caso é análogo, devendo-se estabelecer a mesma solução jurídica acerca da fixação do juízo competente para o julgamento da presente demanda.
+Isso posto, conheço do presente conflito de competência para declarar competente o JUIZ DE DIREITO DO QUARTO JUIZADO ESPECIAL DA FAZENDA PÚBLICA DE CURITIBA - PA.
+Comunique-se os juízes suscitante e suscitado acerca da presente decisão.
+Intimem-se.
+EMENTA
