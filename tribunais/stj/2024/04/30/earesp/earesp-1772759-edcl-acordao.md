@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 24/04/2024 a 30/04/2024, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE QUANTO À ALEGAÇÃO DE EXISTÊNCIA DE RECURSO PENDENTE DE COMPETÊNCIA DA CORTE ESPECIAL. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+2. In casu, os embargos de divergência foram inicialmente inadmitidos pela Ministra Isabel Gallotti, relatora quanto à competência da Corte Especial. Os embargos de declaração opostos contra esse julgado foram rejeitados, com a recomendação de que fossem os autos encaminhados para a Terceira Seção a despeito da interposição de novos recursos.
+3. O embargante requereu fosse o feito remetido para a Corte Especial para o julgamento do agravo interno de sua competência pendente de julgamento. O aresto embargado de fato padece do vício apontado pelo embargante, uma vez que, apesar de ter consignado que não cabe à Terceira Seção rever a determinação da Corte Especial, deixou de determinar a remessa dos autos à Coordenadoria de Processamento de Feitos da Corte Especial para que fossem tomadas as providências que reputassem necessárias.
+4 . Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, apenas para suprir a omissão quanto à alegação de violação ao princípio da colegialidade.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por CARLOS GUSTAVO VIDAL FERREIRA contra acórdão assim ementado (e-STJ fl. 4.837):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO SUPREMOTRIBUNAL FEDERAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. In casu, o acórdão embargado foi claro e expresso ao manter a decisão que não admitiu os embargos de divergência em razão dos seguintes fundamentos: a) não cabimento de embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial; e b) ausência de divergência entre o acórdão embargado e o paradigma.
+3. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+4. Embargos de declaração rejeitados.
+Nestes aclaratórios, o embargante alega que o acórdão embargado foi obscuro ao não esclarecer a alegação de que a jurisdição da Corte Especial ainda não havia se esgotado e que o feito deve ser devolvido para o julgamento do agravo interno da competência daquele órgão pendente de julgamento.
+Diante disso, requer o acolhimento dos embargos de declaração "para, afastando-se a obscuridade apontada, deixar expressamente consignado no acórdão embargado que, encerrada a jurisdição desta c. 3ª Seção, os autos sejam encaminhados à Corte Especial para julgamento do agravo interno de fls. 4.699/4.728 e-STJ" (e-STJ fl. 4.855).
+É o relatório.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE QUANTO À ALEGAÇÃO DE EXISTÊNCIA DE RECURSO PENDENTE DE COMPETÊNCIA DA CORTE ESPECIAL. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+2. In casu, os embargos de divergência foram inicialmente inadmitidos pela Ministra Isabel Gallotti, relatora quanto à competência da Corte Especial. Os embargos de declaração opostos contra esse julgado foram rejeitados, com a recomendação de que fossem os autos encaminhados para a Terceira Seção a despeito da interposição de novos recursos.
+3. O embargante requereu fosse o feito remetido para a Corte Especial para o julgamento do agravo interno de sua competência pendente de julgamento. O aresto embargado de fato padece do vício apontado pelo embargante, uma vez que, apesar de ter consignado que não cabe à Terceira Seção rever a determinação da Corte Especial, deixou de determinar a remessa dos autos à Coordenadoria de Processamento de Feitos da Corte Especial para que fossem tomadas as providências que reputassem necessárias.
+4 . Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, apenas para suprir a omissão quanto à alegação de violação ao princípio da colegialidade.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão. Cuida-se, portanto, de ferramenta processual apta ao aprimoramento do julgamento já realizado.
+In casu, os embargos de divergência foram inicialmente inadmitidos pela Ministra Isabel Gallotti, relatora quanto à competência da Corte Especial. Os embargos de declaração opostos contra esse julgado foram rejeitados, com a recomendação de que fossem os autos encaminhados para a Terceira Seção a despeito da interposição de novos recursos (e-STJ fl. 4.678).
+O embargante requereu fosse o feito remetido para a Corte Especial para o julgamento do agravo interno de sua competência pendente de julgamento.
+O aresto embargado de fato padece do vício apontado pelo embargante, uma vez que, apesar de ter consignado que não cabe à Terceira Seção rever a determinação da Corte Especial, deixou de determinar que a Coordenadoria de Processamento de Feitos em Direito Penal remetesse os autos à Coordenadoria de Processamento de Feitos da Corte Especial para que fossem tomadas as providências que reputass em necessárias.
+Ante o exposto, acolho parcialmente os embargos de declaração, sem efeitos infringentes, apenas para prestar os esclarecimentos nos moldes acima delineados.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
