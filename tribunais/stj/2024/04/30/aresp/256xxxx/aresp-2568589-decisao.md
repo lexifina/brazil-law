@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por Samuel Carlos do Amaral Martins contra a decisão proferida pelo Tribunal de Justiça de São Paulo que, em juízo de admissibilidade, não admitiu o recurso especial por ele manifestado com fundamento no art. 105, III, a, do permissivo constitucional, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 1500804-94.2019.8.26.0302, assim ementado (fl. 218):
+APELAÇÃO CRIMINAL.
+Furto qualificado pela escalada e rompimento de obstáculo. Sentença condenatória.
+Defesa que requer a absolvição por insuficiência de provas. Subsidiariamente, almeja a desclassificação para o crime previsto no artigo 180, § 3º, do Código Penal; o afastamento da qualificadora da escalada; a fixação das basilares no mínimo ou a diminuição do aumento; e o abrandamento do regime prisional.
+Parcial acolhimento. Materialidade e autoria devidamente comprovadas. Qualificadoras atestadas nos autos. Inviável a pretendida desclassificação.
+Dosimetria que não comporta reparos. Cabível o abrandamento do regime prisional para o semiaberto.
+Recurso parcialmente provido.
+Nas razões do especial, apontou a Defensoria Pública ofensa ao art. 59 do Código Penal. Sustentou, em resumo, a existência de ilegalidade na dosimetria da pena, especialmente em razão da ausência de fundamentação idônea para a valoração negativa das circunstâncias judiais, em razão do horário noturno e das anotações criminais.
+A Corte de origem inadmitiu o recurso com fundamento nas Súmulas 7, 83 e 518 do STJ (fls. 257/258).
+Instado a se manifestar, o Ministério Público Federal opina pelo conhecimento do agravo para não conhecimento do recurso especial (fls. 284/285).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial, a insurgência também é admissível contudo, no mérito, não merece acolhida.
+Busca a Defensoria o redimensionamento da pena aplicada, com o afastamento da valoração negativa das circunstâncias judiciais.
+Como bem asseverou o Tribunal estadual, não se mostra ilegítima a fundamentação utilizada para negativar a culpabilidade do réu - intenso grau de reprovabilidade e censurabilidade da conduta, na medida em que o acusado, mesmo favorecido em outro processo com o benefício da liberdade provisória, praticou o delito em comento -, pois, além de ter sido justificada em elementos concretos devidamente extraídos dos autos, encontra-se em perfeita sintonia com o princípio da individualização da pena e da discricionariedade regrada do juiz.
+O Superior Tribunal de Justiça, em casos semelhantes, tem considerado idôneo esse fundamento para a elevação da reprimenda: AgRg no AREsp n. 2.206.637/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 16/11/2023; AgRg no AgRg no AREsp n. 2.283.166/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/6/2023; AgRg no HC n. 789.529/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 10/5/2023 AgRg no HC n. 645.530/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/5/2021; HC n. 598.460/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/8/2020, AgRg no AREsp n. 1.311.359/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/6/2020, AgRg no REsp n. 1.753.304/PA, de min ha relatoria, Sexta Turma, DJe 13/11/2018, dentre outros.
+No que se refere ao pleito de decote da circunstância do furto ocorrido durante o repouso noturno, a Corte paulista assim dispôs (fl. 222 - grifo nosso):
+ ..  o delito foi praticado em período noturno, o que, conquanto não caracterize a causa de aumento do artigo 155, §1º, do Código Penal, configura circunstância judicial negativa, pois "é sabido que neste período são indubitavelmente menores a circulação de pessoas e a vigilância de autoridades públicas e populares sobre os bens", conforme bem justificou o d. Magistrado a quo.
+Ademais, conservo a utilização de uma das qualificadoras como circunstância judicial negativa, em consonância com precedentes do C. Superior Tribunal de Justiça.
+Ainda, não comporta mudanças o reconhecimento dos maus antecedentes do acusado, com base em duas de suas três condenações pretéritas por furto (fls. 72/77).
+O entendimento do Tribunal de origem está em sintonia com a jurisprudência desta Corte Superior, motivo pelo qual o acórdão não comporta reparos.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA. CRIME DE FURTO QUALIFICADO. REPOUSO NOTURNO. CIRCUNSTÂNCIA UTILIZADA PARA O RECRUDESCIMENTO DA PENA-BASE. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.888.756/SP, Tema n. 1.087, relator Ministro João Otávio de Noronha, ocorrido em 25/5/2022, DJe de 27/6/2022, sob a égide dos recursos repetitivos, firmou posicionamento no sentido de que a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º). No referido julgamento, considerou-se razoável admitir a possibilidade de a prática do furto durante o período de repouso noturno ser considerada na primeira fase da dosimetria. No voto do relator, foi mencionado que se a incidência da majorante no furto qualificado mostra-se excessiva, poderá ser utilizada como circunstância judicial negativa na primeira fase da dosimetria (art. 59 do CP). Esse proceder propiciaria calibrar a reprimenda de modo a atender o postulado da proporcionalidade diante do caso concreto.
+2. Salienta-se que, em hipótese de inovação da jurisprudência, o redimensionamento da dosimetria está relacionado, tão somente, à afirmação do direito requerido pela parte, o que não implica em reformatio in pejus. O julgador deverá fazer os imprescindíveis ajustes para corrigir a ilegalidade e deslocar o repouso noturno, da terceira para a primeira fase de dosimetria, sem agravar a situação do envolvido, desde que a circunstância, descrita pelo Ministério Público, tenha sido reconhecida na sentença condenatória.
+3. No presente caso, não se verifica flagrante ilegalidade na conclusão adotada pelo Tribunal de origem, quando afasta a majorante relativa ao repouso noturno, mas a considera como circunstância judicial, exasperando a pena-base, situação observada no precedente representativo da controvérsia.
+4. Agravo regimental não provido.
+(AgRg no AgRg no REsp n. 2.082.231/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/10/2023 - grifo nosso).
+Nesse contexto, descabida a pretensão recursal, de afastar a exasperação da pena-base, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte Superior.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE FURTO QUALIFICADO. ESCALADA E ROMPIMENTO DE OBSTÁCULO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES.
+Agravo conhecido para negar provimento ao recurso especial.
