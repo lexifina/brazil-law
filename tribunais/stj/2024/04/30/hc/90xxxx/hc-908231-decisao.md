@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Ana Lucia de Oliveira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1002195-90.2019.8.26.0125).
+De acordo com os autos, a paciente foi condenada a 4 anos de reclusão, em regime inicial semiaberto, como incursa ao art. 2º, caput, da Lei n. 12.850/2013 (fl. 285).
+Daí o presente mandamus, em que o impetrante alega, em síntese, que as provas coligidas aos autos são nulas porque os CDs não apresentam qualquer arquivo salvo e ainda, os que abrem o conteúdo que supostamente foi colhido na interceptação e transcrito a peça policial investigatória, diferem da transcrição, ou seja, onde teria uma fala criminosa, tem um bipe da operadora, e mais outra grave nulidade que foi observada pela defesa é a falta da transcrição ou resumo dela (fl. 3).
+Para a defesa técnica, há cerceamento de defesa, bem como alega-se interceptação telefônica realizada nos autos é ilícita, porque quebrada a cadeia de custódia (fls. 2/23).
+Requer, liminarmente e no mérito, o seguinte (fls. 22/23):
+ ..
+Ante o exposto, requer a Vossa Excelência, seja acolhido e reconhecido o presente HABEAS CORPUS, anulando a sentença de primeiro grau, qual condenou a Paciente a pena de 4 anos de reclusão, em regime inicial semiaberto, e 13 dias multa; processo principal n. 1002195-90.2019.8.26.0125, por ser medida da mais elevada aplicação da norma e oportuna justiça.
+ ..
+É o relatório.
+O writ, no entanto, é manifestamente inadmissível.
+Em consulta realizada à página eletrônica do Tribunal a quo, verifiquei que a condenação em referência é definitiva, ante o trânsito em julgado do acórdão proferido no julgamento da apelação, ocorrido em 2022.
+Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Ademais, não há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, uma vez que - sobre a materialidade do delito perpetrado pela ora paciente - o voto condutor do acórdão impugnado explicitou que a negativa dos apelantes ficou isolada, pois os policiais militares Murilo e Marcos, o guarda civil Regis e os policiais civis Mauro e Bruno confirmaram que, por ocasião de sua prisão, Denis ("Chinês") solicitou auxílio de Saulo, que inclusive era seu primo. Este, por sua vez, juntamente com Caio Constantino e sua mãe, Ana Lúcia, compareceu ao distrito e ameaçou os guardas civis municipais responsáveis pela prisão de Denis (cf. termo circunstanciado de fls. 533/536). Além disso, prestaram-lhe toda ajuda material e jurídica, a reforçar a convicção de que Saulo e os demais comandantes da organização criminosa eram, de fato, os donos do material ilícito apreendido na ocasião, não havendo dúvida, mais uma vez, que Saulo e Caio foram coautores desse delito de tráfico, realizado igualmente no bojo da organização criminosa  .. . A materialidade foi demonstrada pelo auto de exibição e apreensão de fls. 808/809 e laudo de constatação preliminar de fls. 810/811. E a autoria, ora atribuída aos apelantes S e C resultou bem comprovada pela prova oral colhida neste feito, notadamente pelo dito pelo policial militar O e policial civil Mauro, os quais confirmaram que, quando preso em flagrante, "V" confessou a prática do comércio ilícito, bem como confirmou que a atividade espúria era comandada por S e C (fls. 346/347 - grifo nosso).
+Pelo exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. OPERAÇÃO SHEIK . TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. PLEITO DE ABSOLVIÇÃO EM RAZÃO DE ILICITUDE DE PROVAS. CONDENAÇÃO TRANSITADA EM JULGADO EM 2022. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
