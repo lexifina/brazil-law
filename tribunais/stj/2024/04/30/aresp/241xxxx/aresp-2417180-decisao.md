@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SÉRGIO GONÇALVES DA SILVA JÚNIOR e OUTROS contra decisão que inadmitiu o recurso especial com fundamento na ausência de violação legal e na incidência da Súmula n. 7 do STJ.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2058047-98.2021.8.26.0000) assim ementado (fl. 580):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. Impugnação parcialmente acolhida. Pretensão dos executados de reforma.
+DESCABIMENTO: A Municipalidade de São Paulo informou inexistir qualquer processo de regularização fundiária ou outra intervenção em andamento na área de interesse social. Mesmo sendo considerada como ZEIS, a desapropriação da área depende de outras providências que não foram demonstradas nos autos. Preclusão da questão da ilegitimidade ativa do processo porque a matéria já foi objeto de decisão não recorrida. Eventual direito dos executados à usucapião deve ser buscado em medida processual adequada e não em sede de cumprimento de sentença movida pelos exequentes. A questão não faz parte do título judicial e a fase de cumprimento de sentença deve limitar-se ao que foi definido no v. acórdão exequendo.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, os ora agravantes alegam violação do art 104, §§ 1º e 2º, do Código de Processo Civil, aduzindo a nulidade do processo pelo fato de a empresa exequente, RRFF Administração e Participações S/S, somente ter juntado procuração nos autos "após anos de marcha executiva, iniciada em 27.04.2018" (fl. 357).
+Apontam também ofensa aos arts. 17 e 525, § 1º, II, do Código de Processo Civil, alegando a ilegitimidade dos recorridos para requererem o cumprimento de sentença, uma vez que "são cedentes do título dominial do imóvel sub judice" (fl. 358). Argumentam que tais vícios insanáveis constituem matérias de ordem pública, não se sujeitando, portanto, à preclusão.
+Aduzem ofensa ao art. 9º do Estatuto da Cidade (Lei n. 10.257/2001) e art. 1.240 do Código Civil, asseverando que são possuidores legítimos e de boa-fé, de forma continuada e sem oposição, tendo fixado no imóvel sua residência, razão pela qual as instâncias ordinárias deveriam permitir, em sede de defesa executiva, a aferição, em cada caso, dos requisitos para a declaração da usucapião especial urbana.
+Requerem o conhecimento e o provimento do recurso para que: a) sejam declarados ineficazes os atos praticados pela empresa RRFF desde o início da execução; b) seja reconhecida a ilegitimidade ativa de Fernanda e Ronaldo e c) seja permitida a aferição dos requisitos à declaração da prescrição aquisitiva especial urbana para cada um dos recorrentes, "despiciendo o ajuizamento de ação de usucapião autônoma" (fl. 360).
+Contrarrazões às fls. 363-371.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem afastou as alegações de ilegitimidade de parte e de irregularidade de representação processual com fundamento na preclusão, tendo em vista que as questões já haviam sido decididas nos autos às fls. 4.339 e 4.343, não tendo sido sido interposto recurso oportunamente. Acrescentou que "embora de ordem pública, se a matéria já tiver sido apreciada anteriormente pelo órgão julgador de forma definitiva, incide preclusão" (fl. 227).
+De fato, o acórdão recorrido está em consonância com a jurisprudência desta c. Corte, segundo a qual ocorre a preclusão consumativa acerca de questão já decidida e não recorrida, ainda que se trate de matéria de ordem pública. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE, AMPARADA NAS SÚMULAS 07 E 83 DO STJ, NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA PARTE AGRAVANTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, mesmo as matérias de ordem pública não podem voltar a serem discutidas ou rejulgadas após a sua apreciação definitiva pelo órgão judicial (AgInt no AREsp n. 1.583.265/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/3/2020, DJe de 2/4/2020.). Aplicação da Súmula 83 do STJ.
+2. (..)
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.210.140/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ERRO MÉDICO. PERFURAÇÃO DO URETER DURANTE CIRURGIA DE EXTIRPAÇÃO DO ÚTERO. PRESCRIÇÃO. PRECLUSÃO CONSUMATIVA. SÚMULA 83/STJ. NEXO DE CAUSALIDADE. REEXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. O entendimento do STJ é de que não há preclusão temporal em relação a questões de ordem pública, mas pode ocorrer preclusão consumativa. Dessa forma, não é cabível decidir novamente o que já foi decidido, mesmo se tratando de matérias de ordem pública, como a prescrição. Nesse contexto, tem-se que a controvérsia foi decidida em conformidade com a jurisprudência desta Corte de Justiça. Incidência da Súmula 83 do STJ.
+3. (..)
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 1.306.554/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE PASSIVA. FALTA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. ÔNUS DA PROVA. FALHA NA PRESTAÇÃO DO SERVIÇO. QUANTUM INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+(..)
+5. Nos termos da jurisprudência desta Corte, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, de modo que não podem ser novamente analisadas se já tiverem sido objeto de anterior manifestação jurisdicional" (REsp n. 1.842.613/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/3/2022, DJe de 10/5/2022).
+(..)
+11. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.345.122/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/9/2023, DJe de 19/9/2023.)
+Incide no ponto o óbice da Súmula n. 83 do STJ.
+Quanto ao mérito, o Tribunal de origem assentou que a alegação de usucapião não constou do título executivo e, por essa razão, não poderia ser apreciada na fase de cumprimento de sentença, sob pena de ofensa à coisa julgada (fl. 211):
+Verifica-se ainda que a questão do reconhecimento da usucapião não faz parte do título executivo judicial.
+A fase de cumprimento de sentença deve limitar-se ao que foi definido no título executivo judicial. Não há como deixar de observar os limites da coisa Julgada.
+Não é cabível a discussão sobre suposto direito de cada executado agravante com eventual dilação probatória neste processo executivo movido pelos exequentes agravados.
+Caso entendam possível, os agravantes deverão promover a medida processual adequada para o debate da questão, o que não é cabível neste processo, em fase de cumprimento de v. acórdão já transitado em Julgado.
+Ocorre que tal fundamento não foi impugnado nas razões do recurso especial, o qual limitou-se a alegar a existência de posse mansa e pacífica pelo tempo necessário à prescrição aquisitiva, evidenciando, assim, a deficiência da fundamentação recursal que inviabiliza o conhecimento do recurso especial a teor da Súmula n. 284/STF.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
