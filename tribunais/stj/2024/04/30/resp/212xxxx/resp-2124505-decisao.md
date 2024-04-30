@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fls. 94):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - RESTITUIÇÃO DE VEÍCULO APREENDIDO - POSSIBILIDADE - DEMORA NA PROPOSITURA DA DENÚNCA. 1. Ainda que o bem interesse ao deslinde do feito (art. 118, CPP), não houve propositura da denúncia passado mais de um ano da data dos fatos, de modo que, em observância ao princípio da razoabilidade, cabível a restituição do veículo apreendido, independentemente do pagamento das taxas de estadia e remoção do automóvel.
+Nas razões do recurso especial (e-STJ fls. 116/125), alega a parte recorrente violação dos artigos 118 e 315, §2º, inciso VI, do CPP e do artigo 63 da Lei nº 11.343/06. Sustenta a impossibilidade de restituição do bem apreendido, uma vez que há indícios de sua utilização na prática de atividade criminosa.
+Apresentadas contrarrazões (e-STJ fls. 129/132), o Tribunal a quo admitiu o recurso especial (e-STJ fls. 137/139).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do recurso (e-STJ fls. 153/156).
+É o relatório. Decido.
+O recurso não merece acolhida.
+É que, para se acolher a tese de que é necessária a constrição do veículo apreendido e objeto do pedido de liberação, sob o argumento de interesse para o deslinde da causa e a efetividade do processo, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula n. 7/STJ.
+Ademais, conforme consignado pelo Ministério Público Federal, em seu parecer, apesar de o Parquet estadual afirmar que o bem não poderia ser restituído porque ainda interessa ao processo penal, verifica-se que, nos autos, não restam provas da existência de um processo/inquérito em curso, nem ao menos a solicitação de diligências e/ou produção de provas sobre o veículo apreendido. Ou seja, não se pode manter a apreensão de um bem com base em um evento futuro e incerto, pois não é possível aferir, nesse momento, se o Ministério Público de Minas Gerais oferecerá ou não denúncia contra o ora recorrido. Desta feita, não se justifica que o veículo continue apreendido, privando o seu proprietário do seu legítimo uso, pois não restou comprovado, no caso, que o bem ainda interessa ao processo (e-STJ fls 155).
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC e no art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
