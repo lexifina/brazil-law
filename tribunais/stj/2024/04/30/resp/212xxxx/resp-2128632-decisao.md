@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 625):
+AÇÃO REVISIONAL PLANO DE SAÚDEREAJUSTES ANUAIS - CONTRATO COLETIVO
+Autores que reclamam a abusividade dos reajustes anuais aplicados ao valor de sua mensalidade nos anos de 2020 e 2021 e pedem a substituição dos índices por aqueles disciplinados pela ANS para os contratos individuais e familiares, além da devolução dos valores pagos a maior Sentença de procedência Recurso da ré Apelante que sustenta que houve demonstração dos índices aplicados para os reajustes anuais, por meio de relatório atuarial contratado juntado aos autos Apelo da ré desprovido - Embora as cláusulas que prevejam os reajustes por variação dos custos médico- hospitalares e sinistralidade não possam ser declaradas nulas, uma vez que se prestam a manter o equilíbrio contratual e evitar o distrato pela quebra do sinalagma, os reajustes aplicados e questionados em juízo não tiveram sua pertinência e necessidade comprovada - Impossibilidade de apuração de índice que melhor se adeque à situação, face à insuficiência documental providenciada pela ré, que torna devida a aplicação excepcional e subsidiária dos percentuais autorizados pela ANS para os contratos individuais e familiares Restituição simples dos valores pagos a maior que é devida Sentença que deve ser mantida Honorários recursais devidos RECURSO DESPROVIDO.
+Os aclaratórios da parte recorrente foram rejeitados (e-STJ fls. 535/537).
+No recurso especial (e-STJ fls. 540/558), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa:
+(i) aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porque (e-STJ fl. 545):
+ ..  se deixou de enfrentar os argumentos de observância à liberdade de contratar, consequencialismo da decisão proferida, os quais serão tratados de modo minudente a seguir e que são capazes de infirmar a conclusão alcançada.
+(ii) aos arts. 35-E, § 2º, da Lei n. 9.656/1998, 20 do Decreto-Lei n. 4.657/1942, 421 e 478 do CC, pois (e-STJ fls. 547/552):
+ ..  o contrato representa a manifestação da vontade livre das partes, já que estas têm plena liberdade de contratar ou não, ressaltando-se, no entanto, que a partir da celebração do contrato, suas disposições refletem a autorregulação dos interesses dos contratantes.
+ ..  Ao determinar o afastamento de obrigação de obrigação legalmente constituída, o Poder Judiciário cria uma situação de imprevisibilidade que, ao final, traz prejuízo para toda a massa de beneficiários (em um verdadeiro movimento de ciclo vicioso, que, no ritmo que se alastra, trará consequências irreversíveis ao setor da saúde suplementar).
+ ..  O v. acórdão afastou os reajustes anuais aplicados pela recorrente e impondo sua substituição pelos índices da ANS para planos individuais.
+Ocorre que o contrato objeto da presente demanda é da modalidade COLETIVO POR ADESÃO, motivo pelo qual não são aplicáveis os índices de reajustes previstos pela ANS, porquanto estipulados para planos de modalidade diversa (individuais).
+ ..  Evidentemente, não há como equiparar o contrato coletivo com o individual, determinando a aplicação dos índices de reajuste de uma modalidade a outra, tal como realizado através do acórdão recorrido, uma vez que os elementos devem ser analisados para o cálculo do risco em um plano individual ou familiar são absolutamente distintos daqueles de um plano coletivo, especialmente pela dificuldade de verificação e previsão.
+Foram apresentadas contrarrazões (e-STJ fls. 563/569).
+O recurso foi admitido na origem, nos termos da decisão de fls. 570/571 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fl. 517):
+ ..  as cláusulas que preveem reajustes baseados no incremento dos custos hospitalares e sinistralidade são lícitas, uma vez que, em tese, estas se prestam a preservar o equilíbrio econômico-financeiro do próprio contrato, evitando o desfazimento do vínculo por quebra do sinalagma.
+Todavia, sua aplicação depende do preenchimento e da demonstração da necessidade concreta de reequilíbrio contratual, não podendo tais cláusulas ser utilizadas como verdadeiro "cheque em branco" à disposição da seguradora, para fins de reajustar anual, imoderada e imotivadamente seus preços, com objetivo tão somente de auferir maiores lucros.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+O Tribunal de origem concluiu pela abusividade do reajuste, sob o fundamento de que não foi demonstrada justificativa para o índice (e-STJ fls. 517/518):
+ ..  questionada a legalidade e necessidade dos reajustes praticados, cabia à ré demonstrar claramente a caracterização das hipóteses de cabimento (desequilíbrio contratual), bem como a adequada e precisa eleição de índice, o que não foi realizado no caso concreto.
+Não restou demonstrado, nos autos, que os reajustes efetuados seguem a fórmula matemática presente no contrato assinado entre as partes (fórmula presente nas fls. 71). Tampouco restou demonstrado a necessidade atuarial concreta desses índices específicos, que cumpre à ré demonstrar.
+Tal necessidade não restou demonstrada no parecer atuarial juntado pela parte (fls. 364-404), que traz observações gerais acerca desse modelo de negócio, não buscando comprovar a utilização da fórmula matemática nesse caso concreto, além de ser prova unilateral produzida sem observação do contraditório.
+Diante da abusividade dos reajustes e impossibilidade de fixação de um novo percentual ante a não realização de perícia, admite-se a aplicação excepcional dos índices previstos pela ANS para os contratos individuais e familiares a este contrato coletivo,  ..
+Contudo, no recurso especial, apontando contrariedade aos arts. 35-E, § 2º, da Lei n. 9.656/1998, 20 do Decreto-Lei n. 4.657/1942, 421 e 478 do CC, a parte sustenta somente a liberdade de contratar e que o reajuste da ANS não se aplica aos contratos coletivos.
+Verifica-se, portanto, que não houve impugnação de todos fundamentos do acórdão recorrido, especialmente de que seria ônus da parte recorrente demonstrar a justificativa para o índice de reajuste. Incide , portanto, a Súmula n. 283 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
