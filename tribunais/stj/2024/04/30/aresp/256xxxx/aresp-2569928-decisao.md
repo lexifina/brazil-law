@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por CLÁUDIO NILSON LICATTI contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PRESTAÇÃO DE SERVIÇOS - ASSESSORIA PARA LIBERAÇÃO DE RESTRIÇÃO CONSTRUTIVA EM ÁREA DE PRESERVAÇÃO PERMANENTE - AÇÃO DE COBRANÇA PROCEDENTE - PROVA DA EXISTÊNCIA DA CONTRATAÇÃO - PAGAMENTO NÃO DEMONSTRADO - AUSÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR - APELAÇÃO NÃO PROVIDA" (fl. 258 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 388/392 e-STJ).
+No recurso especial, o recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, I e II, parágrafo único, I, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar a alegada contradição a respeito da demonstração do fato constitutivo do direito do autor; e
+(ii) arts. 927, III, 932, V, "b", e 1.039, do Código de Processo Civil e art. 4º, I, da Lei nº 12.651/2012 - porque o cumprimento do contrato depende da observância das normas a respeito da edificação ao longo de cursos d"água, conforme disciplinado no Código Florestal, assim as liberações obtidas pela recorrida são ineficazes e tornam inexigíveis as obrigações firmadas no contrato.
+Apresentadas as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, não viola o art. 1.022, I e II, parágrafo único, I, do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+A respeito do mérito, extrai-se das razões recursais que a agravante, então recorrente, não refutou o fundamento adotado pela Corte local, segundo s qual "(..) a tese não pode ser aproveitada para justificar a falta de êxito do serviço, porque não existia na época da realização do serviço" (fl. 392 e-STJ), o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, a modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO C/C OBRIGAÇÃO DE FAZER. RESTITUIÇÃO DE VALORES APROPRIADOS INDEVIDAMENTE PELO CAUSÍDICO QUE PATROCINOU A AÇÃO. PRAZO PRESCRICIONAL QUE ESTÁ SUBMETIDO AO PRINCÍPIO DA ACTIO NATA, SEGUNDO O QUAL A PRESCRIÇÃO SE INICIA QUANDO POSSÍVEL AO TITULAR DO DIREITO RECLAMAR CONTRA A SITUAÇÃO ANTIJURÍDICA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. PARTE QUE NÃO SE DESINCUMBIU DE COMPROVAR FATO EXTINTIVO, MODIFICATIVO OU IMPEDITIVO DO DIREITO INVOCADO PELOS AUTORES. DANO MORAL CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO REALIZADO. AGRAVO INTERNO IMPROVIDO.
+1. O início do prazo prescricional, com base na Teoria da Actio Nata, não se dá necessariamente no momento em que ocorre a lesão ao direito, mas, sim, quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão.
+2. Modificar o entendimento do Tribunal local, (acerca do termo inicial da prescrição, da ausência de comprovação de fato extintivo, modificativo ou impeditivo apresentado pelos autores, além da configuração do dano moral), incorrerá em reexame de matéria fático-probatória e interpretação de cláusulas contratuais, o que é inviável, devido aos óbices das Súmulas 5 e 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte Superior, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional requisita a comprovação e demonstração com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Não se oferece como bastante a simples transcrição de ementas, sem a realização do necessário cotejo analítico.
+5. Agravo interno desprovido."
+(AgInt no AREsp 2.350.617/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE EMPREITADA. OFENSA A PRINCÍPIO. IMPOSSIBILIDADE. PETIÇÃO INICIAL E DOCUMENTOS INDISPENSÁVEIS. TEMA NÃO DEBATIDO. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N.º 211 DO STJ. PREQUESTIONAMENTO IMPLÍCITO. NÃO OCORRÊNCIA. COMPROVAÇÃO DA RESPONSABILIDADE. NÃO CUMPRIMENTO DO CONTRATO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N.º 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui entendimento de ser incabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+2. As matérias pertinentes ao art. 320 do NCPC não foram objeto de debate prévio nas instâncias de origem, a despeito da oposição de embargos de declaração. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 211 do STJ.
+3. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local, o que não ocorreu na hipótese dos autos.
+4. No caso, a partir da interpretação das cláusulas do contrato, bem como da análise dos elementos fáticos da causa, o Tribunal estadual reconheceu a responsabilidade da agravante e o não cumprimento do contrato. A pretensão de rever esse entendimento encontra óbice nas Súmulas n.os 5 e 7 do STJ.
+5. Agravo interno não provido."
+(AgInt no AREsp 2.403.043/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
