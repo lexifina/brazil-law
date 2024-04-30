@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO BETO CAVALCANTE contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ES TADO DE SÃO PAULO, cuja ementa teve o seguinte teor (fl. 14):
+HABEAS CORPUS Roubo Prescrição da pretensão executória Aplicabilidade da redução do lapso prescricional previsto no art.115 do Código Penal Impossibilidade Erro material no bojo da sentença condenatória Irrelevância - Fato desprovido de qualquer conteúdo decisório, vez que o paciente possuía mais de 21 anos de idade à época da prática delitiva Constrangimento ilegal não evidenciado - Ordem denegada.
+Consta dos autos que o paciente foi condenado à pena de 4 anos de reclusão e 10 dias-multa, em regime semiaberto, como incurso no art. 157, caput, do Código Penal.
+Alega o impetrante, em síntese, que a punibilidade do paciente está extinta pela prescrição da pretensão executória.
+Aduz que "A parte dispositiva da sentença proferida pelo Juízo Singular, não impugnada pela acusação, fez constar como data do fato, 15 de agosto de 2014, portanto, após o trânsito em julgado, é a data que deve ser retida na fase de cumprimento" (fl. 6).
+Requer, liminarmente e no mérito, seja declarada extinta a punibilidade do paciente em relação à condenação proferida nos autos da ação penal nº 0003485-87.2016.8.26.0635.
+Indeferida a liminar (fls. 29-30) e prestadas as informações (fls. 35-53), o Ministério Público Federal manifestou-se pelo não conhecimento do writ ou pela sua denegação (fl. 61).
+Em petição de fls. 64-68, a defesa reitera os termos dispostos no habeas corpus, afirmando que "Considerando-se que o trânsito em julgado se opera quanto à parte dispositiva da sentença, a análise da prescrição da pretensão executória deve ser realizada a partir da data constante no dispositivo, uma vez que o conteúdo da decisão, não mais pode ser alterado pelo magistrado após o seu trânsito em julgado, porquanto afrontaria o devido processo legal e assim sendo, na referida data, o Paciente era menor de 21 anos, fazendo jus ao prazo prescricional reduzido." (fl. 67).
+O Tribunal de origem assim dispôs quanto à tese de prescrição (fls. 15-17):
+ ..
+Em que pesem os argumentos dispendidos, a ordem deve ser denegada.
+Segundo consta, o paciente foi condenado como incurso no art. 157,caput, do Código Penal, às penas de 4 (quatro)anos de reclusão, no regime inicial semiaberto, e pagamento de 10 (dez) dias-multa, calculados no mínimo legal (fls. 8/11 e 16/20).
+Denota-se que houve o trânsito em julgado em 30/10/2016 para o Ministério Público (fl. 15) e, em 15/07/2019 para a defesa (fl. 26). Por consequente, em 27/10/2023, o mandado de prisão referente à condenação penal supracitada foi cumprido (fl. 23).
+Com efeito, não se vislumbrou nesta instância o apontado constrangimento ilegal no que se refere a manutenção da prisão do paciente, oriunda de condenação penal transitada em julgado, porquanto o lapso prescricional de 08 (oito) anos, aplicável ao caso em tela, previsto no art. 109, inciso IV, do Código Penal, ainda não transcorreu.
+Isto porque, ao contrário do alegado pelo impetrante, a regra do art. 115 do Código Penal não incide na espécie, uma vez que o paciente, nascido em 16/07/1994 (fl.36), possuía, de fato, mais de 21 anos de idade à época da prática delitiva, ocorrida em 24/03/2016 (fl. 26).
+Nesse sentido, cumpre salientar o irretocável parecer da Douta Procuradoria-Geral de Justiça acerca da inaplicabilidade da redução do prazo prescricional ao caso concreto, in verbis:
+"No entanto, tal argumento não merece prosperar. Os fatos ocorreram em 24.03.2016, como bem se vê de toda instrução processual e do relatório da sentença. A data de 15.08.2014, citada apenas uma única vez na sentença, não tem aptidão para modificar a realidade fática. Trata-se de erro material desprovido de qualquer conteúdo decisório.
+Ressalto que o julgado que fundamenta a tese levantada pelo impetrante, ora juntado às fls. 44/46, diz respeito à impossibilidade de correção, pelo magistrado da execução, de erro material relativo à quantidade da pena imposta, matéria de cunho decisório que vincula o juízo da execução. Não pode ser entendida como legitimação de manobra para modicar a data dos fatos."(fl. 74)Deste modo, não se vislumbra a presença de constrangimento ilegal.
+Posto isto, denega-se a ordem de habeas corpus.
+In casu, o Tribunal de origem rechaçou a tese defensiva relativa à prescrição da pretensão executória afirmando que " ..  ao contrário do alegado pelo impetrante, a regra do art. 115 do Código Penal não incide na espécie, uma vez que o paciente, nascido em 16/07/1994 (fl.36), possuía, de fato, mais de 21 anos de idade à época da prática delitiva, ocorrida em 24/03/2016 (fl. 26). Nesse sentido, cumpre salientar o irretocável parecer da Douta Procuradoria-Geral de Justiça acerca da inaplicabilidade da redução do prazo prescricional ao caso concreto, in verbis: " ..  Os fatos ocorreram em 24.03.2016, como bem se vê de toda instrução processual e do relatório da sentença. A data de 15.08.2014, citada apenas uma única vez na sentença, não tem aptidão para modificar a realidade fática. Trata-se de erro material desprovido de qualquer conteúdo decisório" (fl. 16).
+Não merece reparos o referido entendimento.
+De fato, a existência de mero erro material na sentença não tem o condão de alterar a realidade fática demonstrada nos autos, qual seja, de que o crime ocorreu em 24/3/2016, quando o paciente possuía mais de 21 anos. O referido erro material pode ser sanado, inclusive, após o trânsito em julgado, sem que isso configure qualquer prejuízo ao condenado.
+A propósito, "Assente nesta Corte Superior que "O Superior Tribunal de Justiça firmou entendimento no sentido de que o erro material pode ser sanado a qualquer tempo, inclusive de ofício, sem que se ofenda a coisa julgada" (AgRg no REsp n. 749.019/MS, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 10/5/2010).
+No mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TESE DE NULIDADE. DISPOSITIVO DE ACÓRDÃO. MERO ERRO MATERIAL EM LATENTE DESCONFORMIDADE COM O CONTEÚDO JULGADO. SIMPLES SANEAMENTO. POSSIBILIDADE MESMO APÓS TRÂNSITO EM JULGADO. PRECEDENTES DESTA CORTE. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, como já decido anteriormente, não se constatou qualquer flagrante ilegalidade ou mesmo reformatio in pejus em desfavor do ora agravante. O eg. Tribunal de origem, além de ter apenas promovido a readequação do dispositivo do v. acórdão de apelação, em virtude de mero erro material, o fez mediante impugnação da acusação.
+III - Assente nesta Corte Superior que "O Superior Tribunal de Justiça firmou entendimento no sentido de que o erro material pode ser sanado a qualquer tempo, inclusive de ofício, sem que se ofenda a coisa julgada" (AgRg no REsp n. 749.019/MS, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 10/5/2010).
+IV - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC 719059/SC, de minha relatoria, Quinta Turma, julgado em 22/3/2022, DJe de 28/3/2022).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. SUPOSTO ERRO MATERIAL. INCIDÊNCIA DO TETO PREVIDENCIÁRIO. IMPOSSÍVEL A DISCUSSÃO JÁ EM SEDE DE EXECUÇÃO.
+1. É assente tanto na doutrina quanto na jurisprudência que o erro material pode ser corrigido a qualquer tempo, de ofício ou a requerimento da parte, mesmo após o trânsito em julgado da decisão, sem que isso ofenda o instituto da coisa julgada.
+2. Erro material "é aquele perceptível "primu ictu oculi" e sem maior exame, a traduzir desacordo entre a vontade do juiz e a expressa na sentença" (RSTJ 102/278).
+3. Inexiste disposição na sentença acerca da limitação do salário de benefício a qualquer tipo de teto da Previdência. Pelo contrário, está expressamente determinado que seu cálculo se faça com base na média dos 36 últimos salários de contribuição.
+4. O caso em apreço não se enquadra nas hipóteses de relativização da coisa julgada.
+5. Agravo regimental improvido.
+(AgRg no AgRg no REsp 839.542/MG, Relator Ministro Sebastião Reis, Sexta Turma, julgado em 4/10/2011, DJe de 14/11/2011).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
