@@ -1,0 +1,26 @@
+DECISÃO
+LUIS FELIPE GRACIANO LIMA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 0001346-45.2015.8.26.0653.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 157, § 2º, I e II, do CP, o qual fora perpetrado em 20/2/2015.
+A defesa aduz, em síntese, que a condenação do réu foi lastreada tão somente em reconhecimento pessoal realizado em desacordo com as disposições contidas no art. 226 do CPP, motivo pelo qual requer a concessão da ordem, para que ele seja absolvido.
+Subsidiariamente, pleiteia que "seja afastado o aumento cumulativo das majorantes especiais" (fl. 8).
+A liminar foi indeferida.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+Este habeas corpus se insurge contra condenação proferida em 29/8/2017, em relação a fatos perpetrados em 20/2/2015, e foi impetrado contra acórdão de apelação proferido em 11/4/2019, portanto há mais de 5 anos. A decisão transitou em julgado e, em consulta processual realizada na página eletrônica do TJSP, não se verifica o ajuizamento de revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+No caso em apreço, a defesa, além de não haver interposto recurso especial, deixou de solicitar ao Tribunal de Justiça a revisão de condenação. Sem existir acórdão sobre essa questão, é incabível eventual constatação de manifesta ilegalidade em seu conteúdo.
+Assim, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Essa, aliás, também foi a compreensão do Ministério Público Federal, que, em seu parecer, assim se manifestou, no que interessa (fls. 49-51):
+O habeas corpus não deve ser conhecido.
+Conforme informações prestadas às fls. 42/41 e-STJ e andamento processual obtido no site do Tribunal de Justiça do Estado de São Paulo, o acórdão impugnado transitou em julgado e teve baixa na origem em setembro do ano de 2019.
+Desse modo, ressai como inviável a desconstituição da decisão condenatória por meio do remédio constitucional, cabendo, uma vez preenchidos os requisitos legais, acionar a medida processual própria.
+ ..
+Cabe destacar que o Tribunal de origem julgou a Apelação Criminal interposta pela Defesa no dia 11 de abril de 2019 e, ao invés da proposição de Revisão Criminal, impetrou-se este habeas corpus, somente no dia 19 de março de 2024, - quase 05 anos após - para questionar o aludido acórdão, sendo nítida, portanto, a preclusão da pretensão defensiva, na hipótese, a obstar o conhecimento deste writ.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
