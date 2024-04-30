@@ -1,0 +1,58 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000274-56.2023.8.08.0006
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP - ENERGIAS DO BRASIL S.A.
+RECORRIDO: VANDERLEIA LOPES FIRME e outros (2)
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5000274-56.2023.8.08.0006
+
+Recorrente: EDP ENERGIAS DO BRASIL S.A.
+
+Recorridos: VANDERLEIA LOPES FIRME, TIAGO LUCAS NASCIMENTO E VALDETE LÚCIA NASCIMENTO
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C DANOS MORAIS. TRANSFERÊNCIA DE TITULARIDADE SEM AUTORIZAÇÃO DO CONSUMIDOR. AUTORES ALEGARAM QUE A TITULARIDADE DA INSTALAÇÃO DO IMÓVEL EM QUE RESIDEM FOI ALTERADA SEM AUTORIZAÇÃO OU NOTIFICAÇÃO. DESTACAM QUE O IMÓVEL É OBJETO DE DISPUTA DE HERANÇA E, A SEGUNDA RÉ, NO INTUITO DE RETIRÁ-LOS DO IMÓVEL, SOLICITOU A TRANSFERÊNCIA DE FORMA INDEVIDA E REQUEREU O DESLIGAMENTO DA REDE ELÉTRICA DO IMÓVEL, PEDIDO QUE FOI ATENDIDO PELA PRIMEIRA RÉ.
+SENTENÇA
+QUE CONDENOU AO PAGAMENTO DE DANOS MORAIS NO IMPORTE DE R$10.000,00, SENDO R$5.000,00 (CINCO MIL REAIS) PARA CADA AUTOR.
+RECURSO INOMINADO
+INTERPOSTO PELA EDP, NO QUAL SUSTENTA A VALIDADE DA PORTABILIDADE, ALEGANDO QUE PROCEDEU CONFORME DETERMINA A LEGISLAÇÃO, NÃO HAVENDO QUE SE FALAR EM ATO ILÍCITO E, POR CONSEGUINTE, INDENIZAÇÃO POR DANOS MORAIS.
+RECURSO CONHECIDO E IMPROVIDO.
+ÔNUS DA PROVA DA FORNECEDORA. PREVISÃO NO ART. 6º, VIII, CDC, E NO ART. 373, II, CPC. FALHA NA PRESTAÇÃO DE SERVIÇOS CONFIGURADA. NÃO APRESENTAÇÃO DOS DOCUMENTOS NECESSÁRIOS PARA A TRANSFERÊNCIA DE TITULARIDADE, CONSOANTE PREVISTO NO ART. 138, §1º, II, DA RESOLUÇÃO 1.000/2021 DA ANEEL. CORTE INDEVIDO DE ENERGIA ELÉTRICA. FATOS QUE ULTRAPASSAM A ESFERA DO MERO ABORRECIMENTO DIANTE DA INEFICÁCIA DOS SERVIÇOS PRESTADOS E AUSÊNCIA DO DEVER DE CUIDADO COM AS INFORMAÇÕES DO CONSUMIDOR. QUANTIFICAÇÃO DOS DANOS EXTRAPATRIMONIAIS DE ACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E DE HONORÁRIOS ADVOCATÍCIOS QUE ARBITRO EM 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.
+
+É COMO VOTO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
