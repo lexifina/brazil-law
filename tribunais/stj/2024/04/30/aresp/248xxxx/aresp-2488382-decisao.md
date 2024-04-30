@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por Â NGELA CRISTINA PADOVANI BELLON e NIVALDO BELLON contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 467):
+AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Direito de vizinhança. Responsabilidade civil extracontratual. Obra no imóvel confinante que causou danos na casa dos autores. Sentença de parcial procedência dos pedidos para condenar os demandados ao refazimento integral do muro divisório colapsado; à indenização ao equivalente a 50% das despesas comprovadas com os reparos das anomalias do imóvel dos demandantes. Desacolheu o pedido de indenização por danos morais e danos materiais consistentes no ressarcimento das quantias gastas com honorários advocatícios contratuais, despesas com arquiteto e agrimensor. Apelo dos autores. Preliminares. Arguição de nulidade da decisão por cerceamento do direito de produzir provas. Pretensão à produção de provas testemunhal. Julgamento no estado que atendeu ao preceito contido no art. 355, I, do CPC. Dilação de provas pretendida inútil e desnecessária. Inobservância do direito ao contraditório por ausência de intimação para apresentação de alegações finais. Desacolhimento. Vício sanado com as razões de recurso de apelação que serão apreciadas por este Tribunal. Ausência de prejuízo. Dicção do art. 277 do CPC. Mérito. Culpa exclusiva dos réus. Laudo pericial não deixou dúvidas de que, apesar de a obra realizada pelos réus ter contribuído para os danos, o imóvel já apresentava anomalias pré-existentes. Acertada a reparação pelos danos causados na proporção de 50%. Dano moral configurado. Situação que ultrapassou o mero dissabor do cotidiano. Fixação em R$ 5.000,00 para cada autor. Dano material decorrente da contratação de advogado. É pacífico o entendimento dos tribunais superiores de que não há dano material indenizável em decorrência da contratação de advogado particular. Sucumbência. Autores que sucumbiram em parte do pedido, o que justifica a sua condenação ao pagamento do ônus da sucumbência. Inteligência do art. 86 do CPC. Sentença parcialmente reformada. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do especial, apontam os recorrentes violação dos artigos 389, 395 e 404 do Código Civil, artigo 86, parágrafo único, do Código de Processo Civil, além do dissídio jurisprudencial.
+Argumenta, em síntese, que os honorários contratados deveriam estar inclusos no valor da responsabilização, em observância ao princípio da reparação integral.
+Defende, ainda, que o percentual da sucumbência teria sido mínimo, justificando a condenação exclusiva da parte recorrida em relação aos honorários respectivos.
+Contra-arrazoado (fls. 517/525), o recurso especial não foi admitido na origem, contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação dos artigos 389, 395 e 404 do Código Civil, verifica-se que o Tribunal de origem afastou a condenação da parte recorrida em relação aos honorários contratados pelo recorrente, conforme se verifica da seguinte passagem (fl. 480):
+O pedido de indenização por danos materiais pela contratação de advogado, arquiteto e agrimensor não merece acolhimento.
+Ora, a contratação tem natureza potestativa, de forma que os demandantes não podem transferir aos demandados a obrigação contratual que assumiram sem a participação daqueles.
+A orientação adotada não destoa da jurisprudência desta Corte Superior, pacificada no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora.
+Nesse sentido:
+ ..
+2. Os honorários advocatícios contratuais são de responsabilidade da parte contratante, cabendo à parte contrária apenas os honorários sucumbenciais. "A Corte Especial e a Segunda Seção do STJ já se pronunciaram no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora.
+(..)" (AgInt no AREsp 1.332.170/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 07/02/2019, DJe de 14/02/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.675.516/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/11/2020, DJe de 18/12/2020.)
+ ..
+2. A Segunda Seção do Superior Tribunal de Justiça já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. Precedente: EREsp 1.155.527/MG, Relator o Ministro Sidnei Beneti, Segunda Seção, julgado em 13/6/2012, DJe 28/6/2012.
+3. Agravo interno improvido.
+(AgInt no AgInt nos EDcl no AREsp n. 2.016.940/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido seja pela alínea "a" ou "c" em razão da Súmula 83/STJ.
+No que se refere à alegada violação do artigo 86, parágrafo único, do Código de Processo Civil, observo que o Tribunal de origem pressupõe a sucumbência do recorrente, mesmo após a reforma da sentença, condenando a parte recorrida à compensação pelo dano moral (fl. 482).
+Diante desse contexto, o recurso especial não deve ser conhecido quanto ao ponto, tendo em vista a necessidade de reexame do contexto fático-probatório para rever em que medida as partes teriam sucumbido na demanda, o que atrai a incidência da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
