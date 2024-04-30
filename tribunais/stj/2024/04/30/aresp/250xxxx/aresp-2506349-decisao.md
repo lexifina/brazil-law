@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  incidência  da  Súmula n. 7 e 218 do STJ e 284 do STF (e-STJ  fls.  253/255).
+O  acórdão  recorrido  encontra-se  assim  ementado  (e-STJ  fl.  139):
+PROCESSUAL CIVIL - APELAÇÃO - EMBARGOS À EXECUÇÃO - SENTENÇA JULGOU AÇÃO IMPROCEDENTE, POIS EMBARGANTE ALEGOU GENERICAMENTE INCIDÊNCIA IRREGULAR COMISSÃO DE PERMANÊNCIA SEM DEMONSTRAR O ALEGADO- NOVAMENTE, RAZÕES DO RECURSO DEFENDEM QUE COMISSÃO DE PERMANÊNCIA É ILEGAL, MAS NÃO PROVAM QUE HOUVE IN CONCRETO INCIDÊNCIA DESTE TIPO DE TAXA NA EXECUÇÃO EMBARGADA - INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO APELO - PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS DO DECISUM OBJURGADO - MANUTENÇÃO DA SENTENÇA - RECURSO A QUE SE NEGA PROVIMENTO - MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS A 15% DO VALOR DA CAUSA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 216/221).
+Nas  razões  do  recurso  especial  (e  - STJ  fls.  229/245),  interposto  com  fundamento  no  art.  105,  III,  "a",  da  CF,  os recorrentes alegaram  violação  dos  artigos  2º, 3º, § 2º, 47 e 293 do Código de Defesa do Consumidor e 1.010, inciso II, do Código de Processo Civil e Súmulas n. 30, 294, 296 e 297 do STJ.
+  Asseveraram,  para  tanto,  que  "não houve violação ao princípio da dialeticidade, bem como houve uma aplicação errônea do artigo 1010 do Código de Processo Civil, pois, o nobre apelo continha todos os requisitos legais previstos"  (e-STJ  fl.  236).
+Aduziram  que "a parte recorrente é consumidora, e assim, aplica-se o código de defesa do consumidor, e de acordo com o artigo 47 as cláusulas serão sempre interpretadas de maneira mais favorável, sendo completamente vedadas as cláusulas abusivas"  (e-STJ  fl.  162).
+Defenderam que "a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de considerar ilegal a cumulação de correção monetária com comissão de permanência, ou com qualquer acréscimo decorrente da impontualidade (juros, multa, taxa de rentabilidade, etc), de acordo com as Súmulas nºs 30, 294, 296 do Superior Tribunal de Justiça" (e-STJ fl. 238).
+  No  agravo  (e-STJ  fls.  256/273),  afirmam  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Não foi  oferecida  contraminuta  (e-STJ  fl.  275 ).
+  É  o  relatório.
+Decido.
+Relativamente à suposta ofensa ao artigo  1.010, inciso I, do CPC/2015, o acórdão recorrido asseverou que (e-STJ fls. 191/192 - grifei):
+Em resumo, o Magistrado fundamentou que os embargos à execução eram genéricos, porque se insurgiam contra comissão de permanência, sendo que esta taxa não constava realmente na planilha de execução, bem como que o devedor apelante não trouxe aos autos qualquer evidência de que, de fato, esta taxa ilegal estaria sendo cobrada.
+Competiria, portanto, aos apelantes demonstrar a aplicação da comissão, inclusive em planilha de cálculos diferente, entretanto, mais uma vez, nas razões do recurso, apenas alegam genericamente a ilegalidade de comissão de permanência.
+Para se insurgir contra a taxa, os apelantes chamam a atenção para o documento de fls. 008 do processo principal, no qual se encontrariam os encargos remuneratórios, constando a aventada comissão. Contudo, este documento é uma mera folha de rosto com as informações gerais do contrato. A planilha de execução da dívida se encontra colacionada ao id. 10168320, onde não observo incidência de nenhuma comissão de permanência nos cálculos do montante executado.
+Com efeito, nas razões de apelo, a parte deve apontar os fundamentos de fato e de direito para a reforma da sentença (art. 1.010, II, CPC), todavia não enfrentou a apelante as bases utilizadas pela sentença, através das quais se julgou procedente o pleito perseguido.
+  Desse  modo, para  modificar o  entendimento  do  acórdão impugnado firmado no sentido de que a parte recorrente "não trouxe aos autos qualquer evidência de que, de fato, esta taxa ilegal estaria sendo cobrada", razão pela qual "não enfrentou a apelante as bases utilizadas pela sentença", seria imprescindível reexaminar o conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por sua vez, observa-se que, apesar da oposição de embargos de declaração, o acórdão recorrido nada decidiu acerca dos argumentos invocados pelos agravantes quanto aos arts.  2º, 3º, § 2º, 47 e 293 do Código de Defesa do Consumidor, o que inviabiliza o julgamento do recurso especial. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Por fim, a Súmula n. 518/STJ impede a análise da alegada violação das Súmulas n. 30, 294, 296 do Superior Tribunal de Justiça.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se  e  intimem-se.
+ EMENTA
