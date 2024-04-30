@@ -1,0 +1,57 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO DO MUNICÍPIO DE ACARI/RN. PROGRESSÃO. ART. 9º E ANEXO III DA LEI COMPLEMENTAR MUNICIPAL Nº 002/1992. CUMPRIMENTO DOS INTERSTÍCIOS LEGAIS. DESNECESSIDADE DE REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PREVISÃO LEGAL. SÚMULA 17 DO TJRN. INÉRCIA DA ADMINISTRAÇÃO EM REALIZAR A AVALIAÇÃO DE DESEMPENHO NÃO OFERECE ÓBICE À PROMOÇÃO FUNCIONAL. ALEGAÇÃO DE ÓBICES FINANCEIROS E VIOLAÇÃO À LEI DE RESPONSABILIDADE FISCAL. CONDIÇÃO QUE NÃO IMPEDE O JULGAMENTO FAVORÁVEL. TEMA 1075 DO STJ. JUROS MORATÓRIOS DEVEM FLUIR DESDE O EFETIVO PREJUÍZO. ADEQUAÇÃO DE OFÍCIO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+    1 – Trata-se de recurso interposto pela parte demandada, ora recorrente, haja vista sentença que julgou procedente o pedido autoral de implantação e pagamento de diferenças salariais referentes à progressão funcional. Em suas razões recursais sustenta que a parte recorrida não faz jus à progressão apenas com base no tempo de serviço, pois ausente a submissão à avaliação de desempenho, bem como a existência de óbices orçamentários. Aduz, ainda, que deve ser observado, para fins de cálculo, o percentual de 0,5% (meio por cento), com base no anexo III, Grupo I, da Lei Complementar Municipal nº 002/92. As contrarrazões foram apresentadas tempestivamente, pugnando pela manutenção da sentença.
+
+    2 – Evidencia-se o cabimento do recurso, ante a legitimação para recorrer, o interesse recursal, a inexistência de fato impeditivo ou extintivo do poder de recorrer, bem como a tempestividade e a regularidade formal, devendo, por isso, ser recebido e conhecido.
+
+    3 – O art. 9º, da Lei Complementar Municipal nº 002, de 1º de junho de 1992, que instituiu o Sistema de Carreira do Servidor Público do Município de Acari/RN, prevê as movimentações horizontais que se materializam com a progressão de um nível para o seguinte, ou do último nível, para o nível inicial do padrão seguinte, dentro da mesma classe, obedecidos os critérios de avaliação do desempenho e o tempo de 24 (vinte e quatro) meses de efetivo exercício na classe, sem qualquer previsão de requerimento administrativo pelo servidor público, observando-se o anexo III da referida Lei (art. 13, § 2º, da LCM nº 002/1992).
+
+    4 – A jurisprudência das Turmas Recursais já se consolidou no sentido de que, se a Administração não realizou a avaliação anual, nos termos previstos em Lei, a ausência de tal requisito não pode prejudicar às progressões em favor dos servidores (TJRN - Recurso Inominado nº 0800594-71.2021.8.20.5123, 2ª Turma Recursal, Rel. Juiz José Conrado Filho, publicado em: 03/08/2022; Recurso Inominado nº 0803770-46.2020.8.20.5106, 1ª Turma Recursal, Rel. Juiz Madson Ottoni de Almeida Rodrigues, Publicado em: 03/08/2022).
+
+    5 – Comprovado o vínculo funcional e, por conseguinte, preenchidos os requisitos legais, a progressão funcional é medida que se impõe. Isto, pois, a implementação da progressão funcional, quer na esfera judicial ou administrativa, independe de requerimento administrativo do servidor, conforme preconiza a Súmula 17 do TJRN.
+
+    6 – Conforme entendimento firmado pelo Superior Tribunal de Justiça (STJ), sob o rito dos recursos repetitivos (Tema 1075), “é ilegal o ato de não concessão de progressão funcional de servidor público, quando atendidos todos os requisitos legais, a despeito de superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de ente público, tendo em vista que a progressão é direito subjetivo do servidor público, decorrente de determinação legal, estando compreendida na exceção prevista no inciso I do parágrafo único do art. 22 da Lei Complementar 101/2000.” Assim, eventual ultrapassagem, pelo ente público, do limite prudencial de gastos com a folha de pagamento, não inviabilizará a concessão do direito subjetivo preterido.
+
+    7 – A grave crise econômica e fiscal enfrentada pelo Município não pode servir de pretexto para o não pagamento da remuneração dos servidores, competindo ao poder público adotar as medidas necessárias para regularizar a situação (TJRN - Recurso Inominado nº 0800626-76.2021.8.20.5123, 2ª Turma Recursal, Rel. Fábio Antônio Correia Filgueira, publicado em 12/09/2022; Recurso Inominado nº 0800493-34.2021.8.20.5123, 1ª Turma Recursal, Rel. Ricardo Procópio Bandeira de Melo, publicado em 13/09/2022).
+
+    8 – Os juros moratórios e a correção monetária, por se tratarem de matérias de ordem pública, podem ser conhecidos de ofício pelo juiz, independentemente de pedido ou recurso da parte, e a alteração dos seus termos tampouco configura reformatio in pejus, admitindo a alteração do termo inicial dos juros de mora de ofício e, se for o caso, da correção monetária. Precedentes desta Turma Recursal, a exemplo dos recursos inominados nº 0803197-02.2020.8.20.5108, 0833735-93.2020.8.20.5001, 0821381-36.2020.8.20.5001 e 0808072-84.2021.8.20.5106.
+
+    9 – A jurisprudência do Superior Tribunal de Justiça sedimentou que é considerada sentença líquida aquela que, para definição do quantum devido, faz-se necessário apenas a realização de cálculos aritméticos (REsp 1758065/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/09/2018, DJe 27/11/2018). Portanto, não é necessária a liquidação, quando o quantum debeatur puder ser apurado por simples cálculo aritmético.
+
+    10 – O termo inicial de incidência dos juros em caso de verba devida a servidor público, flui a partir do ato ilícito, em face da liquidez da obrigação. Inteligência do artigo 397 do Código Civil e Súmula nº 43 do STJ.
+
+    11 – Nas condenações oriundas de relação jurídica não-tributária, os juros moratórios corresponderão ao índice oficial da caderneta de poupança e a correção monetária ao índice do IPCA-E, e, a partir de 09/12/2021, início da vigência da EC nº 113/2021, nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza, deve-se observar a incidência da SELIC, sem cumulação com qualquer outro índice.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, caput, e 169, § 1º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 30 de abril de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
