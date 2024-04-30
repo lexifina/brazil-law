@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 213/215).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 192):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. Ação de execução por título executivo extrajudicial, fundada em instrumento de compra e venda de imóvel com pacto adjeto de hipoteca. Sentença que rejeitou os embargos à execução. Irresignação da parte executada. Aplicação do CDC. Há relação de consumo entre o agente financeiro do Sistema Financeiro de Habitação que concede empréstimo para aquisição da casa própria e o mutuário. Alegação de excesso de execução. Compete à parte executada comprovar, mediante planilha discriminada de débito, o valor correto exequendo, com o fim de demonstrar o excesso de execução. A parte embargante não se desincumbiu do seu ônus processual quanto ao fato constitutivo de seu direito, violando o disposto no art. 373, I, do CPC. Aplicação do verbete 330, da Súmula deste TJERJ. Acerto da sentença. Precedentes. RECURSO A QUE SE NEGA PROVIMENTO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (e-STJ fls. 200/207), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos arts. 525, §§ 4º e 5º, e 917, §§ 3º e 4º, I, do CPC/2015, aduzindo que o excesso de execução não foi o único fundamento dos embargos à execução opostos às fls. 2/16 (e-STJ), de sorte que não poderiam ter sido liminarmente rejeitados com base na ausência de apontamento do valor entendido como correto mediante apresentação de demonstrativo de cálculo.
+No agravo (e-STJ fls. 222/227), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 231/236 (e-STJ).
+É o relatório.
+Decido.
+Dos termos da petição de fls. 2/16 (e-STJ), verifica-se que, apesar de terem sido aduzidas razões quanto à aplicabilidade do CDC (expressamente reconhecida pelo Tribunal de origem à fl. 193, e-STJ) e à necessidade de observância do princípio da boa-fé na interpretação dos negócios jurídicos, o fundamento dos referidos embargos à execução, ao qual servem as alegações pretéritas, é o excesso de execução decorrente de suposta incidência ilegal de juros capitalizados.
+Reforça essa conclusão o fato de que o único pedido de mérito formulado na referida petição é o seguinte (e-STJ fl. 15, grifei):
+ ..  seja julgado procedente o presente embargos, para: (f.1) declarar o excesso na execução, e, consequentemente, desconstituir o título inexigível, mediante cognição ilimitada e exauriente; (f.2) Todavia, caso assim Vossa Excelência não entender, que declare, por intermédio da produção de prova pericial contábil, o real valor do débito cobrado, face ao manifesto excesso de execução e o patente Anatocismo;
+Logo, o acórdão recorrido está em harmonia com o entendimento do STJ no sentido de que, nos embargos do devedor fundados em excesso na execução, cabe ao embargante apontar o valor que entende correto mediante memória de cálculo, sob pena de indeferimento liminar.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO EXTRAJUDICIAL. DEMONSTRAÇÃO DO VALOR EM EXCESSO DO DÉBITO EXEQUENDO. DESATENDIMENTO DO ÔNUS. REJEIÇÃO LIMINAR DOS EMBARGOS À EXECUÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. ACÓRDÃO RECORRIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Segundo a jurisprudência do STJ, "é inviável o conhecimento de alegação de excesso de execução em embargos do devedor nas hipóteses em que o embargante não indica o valor que entende correto mediante memória de cálculo, limitando-se a formular alegações genéricas acerca da incorreção do montante executado" (AgInt no AREsp n. 2.083.074/RS, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2022, DJe de 29/9/2022). E ainda, "ao apresentar os embargos do devedor, deduzindo pedido de revisão contratual fundado na abusividade e/ou ilegalidade de encargos, compete ao embargante declarar o valor que entende correto e apresentar a respectiva memória de cálculo, sob pena de rejeição liminar dos embargos à execução" (AgInt no AREsp n. 1.958.460/SC, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/9/2022, DJe de 30/9/2022).
+1.1. A Corte local entendeu que as alegações genéricas do devedor agravante sobre o abuso dos encargos bancários, sem apresentação da memória de cálculo dos valores considerados indevidos, eram insuficientes para respaldar o pedido de revisão dos valores e, por conseguinte, eliminar o excesso de execução alegado, sendo, portanto, de rigor rejeitar liminarmente os embargos à execução.
+1.2. Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Agravo interno a que se nega provimento
+(AgInt no REsp n. 2.097.309/MG, de minha relatoria, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO BANCÁRIO. EMBARGOS À EXECUÇÃO. PREVENÇÃO. ART. 71 DO RISTJ. NULIDADE RELATIVA SUJEITA À PRECLUSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEFICIÊNCIA DE REPRESENTAÇÃO. ACÓRDÃO RECORRIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. EXCESSO DE EXECUÇÃO. MEMÓRIA DE CÁLCULO. NÃO APRESENTAÇÃO. REJEIÇÃO LIMINAR. CAPITALIZAÇÃO DE JUROS. PERIODICIDADE. TEMA Nº 246/STJ. SPREAD BANCÁRIO. ABUSIVIDADE. DEMONSTRAÇÃO. NECESSIDADE.
+ ..
+6. Fundados os embargos em excesso de execução, a parte embargante deve indicar, na petição inicial, o valor que entende correto, apresentando memória de cálculo, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento. Precedente da Corte Especial.
+ ..
+(AgInt no REsp n. 1.663.941/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/10/2021, DJe de 15/10/2021.)
+Incidem as Súmulas n. 83 e 568 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade d a justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
