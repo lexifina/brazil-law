@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, impetrado em causa própria por TADEU RODRIGUES JORDAN, contra acórdão do Tribunal Regional Federal da 3ª Região nos autos da ação penal nº. 5021828-44.2020.4.03.0000.
+Na petição inicial, o impetrante sustenta, em síntese, vícios relativos à proclamação do resultado do julgamento na ação penal na origem. Pede, assim, a concessão da ordem de habeas corpus para anular o resultado de julgamento, por consequência, revogar o cumprimento da pena em regime domiciliar e, ainda, absolver o paciente de todas as imputações contidas nos autos da ação penal nº. 5021828-44.2020.4.03.0000 (fls. 03-55).
+O Tribunal Regional Federal da 3ª Região prestou informações (fls. 154-235).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do habeas corpus e, sucessivamente, pela denegação da ordem (fls. 236-244).
+É o relatório. DECIDO.
+De início, verifico que o habeas corpus foi impetrado em substituição a recurso próprio. E, consoante jurisprudência do Superior Tribunal de Justiça, não se admite a impetração do habeas corpus como sucedâneo do recurso legal cabível, sob pena de se descaracterizar a finalidade da referida garantia fundamental. O objetivo consiste em preservar a racionalidade do sistema processual e recursal e retomar a função constitucional do writ. Em situações excepcionais, todavia, concede-se a ordem, de ofício, quando constatada manifesta ilegalidade. Nesse sentido: HC n. 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 1/6/2022.
+Na caso dos autos, conforme as informações de fls. 230-234, a ação penal está conclusa para julgamento, pelo colegiado na origem, de recurso de agravo regimental. Além disso, a matéria trazida nesta via foi analisada pelo Tribunal Regional Federal da 3ª Região, que concluiu pela legalidade da proclamação do resultado do julgamento e pela validade da técnica do voto médio utilizado, oportunidade em que a situação jurídica do paciente foi analisada em detalhes.
+Assim, não entrevejo a ocorrência de flagrante constrangimento ilegal que demande a superação do entendimento consolidado desta Corte a fim de se conceder, de ofício, a ordem de habeas corpus, especialmente, porque eventual análise da questão demandaria incursão em matéria de fato e de prova, providência incompatível com a via eleita.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
