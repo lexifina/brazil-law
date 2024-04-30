@@ -1,0 +1,7 @@
+DECISÃO
+MAURICIO DE CAMARGO GUIMARÃES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2302674-38.2023.8.26.0000.
+A defesa busca a revogação da prisão preventiva do paciente, com a imposição de cautelares alternativas, ao argumento, em síntese, de que não estariam presentes os requisitos necessários para a imposição da medida extrema.
+Em pesquisa no sistema eletrônico do Tribunal de origem, identificou-se a superveniência de decisão de pronúncia, situação que evidencia a perda do objeto deste feito, porquanto aplicável à hipótese a compreensão de que "A superveniência de novo título, no caso, a sentença de pronúncia, torna prejudicado o recurso em habeas corpus que busca a revogação da prisão preventiva por ausência dos requisitos autorizadores da medida. Jurisprudência do STJ" (AgRg nos EDcl no RHC n. 176.184/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.) e de que "Prolatada decisão de pronúncia, por meio da qual o Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar (art. 413, § 3º, do CPP), tais razões devem ser submetidas ao crivo do Tribunal a quo" (AgRg no RHC n. 75.387/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2016, DJe de 7/12/2016.).
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
