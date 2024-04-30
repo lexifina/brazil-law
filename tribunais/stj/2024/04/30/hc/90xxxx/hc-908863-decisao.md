@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Samer Saroute dos Santos - condenado por peculato a 3 anos de reclusão, em regime inicial aberto, e a 14 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Minas Gerais (fls. 117/147), comporta pronto acolhimento.
+Com efeito, busca a impetração redimensionar a pena imposta ao paciente - na condenação proferida na Ação Penal n. 0010623-69.2011.8.13.0271 (fls. 25/59 - da Vara Criminal da comarca de Frutal/MG) -, com o afastamento da valoração negativa do vetor antecedentes, ao argumento de que, tanto o juízo de origem quanto o e. TJMG, com as devidas vênias, valoraram negativamente os antecedentes criminais do paciente, em razão de anotações em sua folha de antecedentes. Ou seja, mesmo inexistindo condenação transitada em julgado (fl. 11).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 20/2/2020 (fl. 756), o que afasta a competência desta Corte Superior para análise do pleito.
+Entretanto, demonstrado constrangimento ilegal apto a superar o citado óbice, pois, na data de prolação da sentença, em 20/1/2017 (fl. 59), os registros criminais do paciente - ref. aos Autos n. 0072946-13.2011.8.13.0271, n. 0021620-14.2011.8.13.0271 e n. 0010623-69.2011.8.13.0271 (fls. 197/198) - não se referiam a condenações transitadas em julgado.
+Nesse sentido, tem-se que, no AREsp n. 2.260.847, foi afastada a negativação da circunstância judicial dos antecedentes de corréus da mesma ação penal (fls. 4.319/4.333 do AREsp n. 2.260.847). Entretanto, o paciente, que não recorrera do acórdão da apelação, não constava como parte no citado recurso.
+Então, nos temos do 580 do Código de Processo Penal, deve ser estendido ao paciente o afastamento da negativação da circunstância judicial dos antecedentes.
+Assim, necessário redimensionar a reprimenda. Na primeira fase, com o afastamento da negativação dada à circunstância judicial dos antecedentes, reduz-se a pena-base ao mínimo legal, 2 anos de reclusão e 10 dias-multa. Sem alterações nas fases segunda e terceira (fl. 141). Mantém-se a aplicação da fração de 1/3 pela continuidade delitiva (fl. 141), resultando a pena definitiva em 2 anos e 8 meses de reclusão, e 13 dias-multa.
+Em razão disso, concedo liminarmente a ordem impetrada para redimensionar a pena imposta ao paciente para 2 anos e 8 meses de reclusão, e 13 dias-multa, referente à condenação proferida na Ação Penal n. 0010623-69.2011.8.13.0271, da Vara Criminal da comarca de Frutal/MG.
+Intime-se o Ministério Público de Minas Gerais.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. PECULATO. DOSIMETRIA. PRIMEIRA FASE. ANTECEDENTES. UTILIZAÇÃO DE AÇÕES PENAIS SEM TRÂNSITO EM JULGADO. SÚMULA 444/STJ. EXTENSÃO DE EFEITOS DE DECOTE DE NEGATIVAÇÃO DO VETOR PARA CORRÉUS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida.
