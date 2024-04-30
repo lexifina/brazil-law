@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo interposto por IVONETE IVONE LUIZ contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 125):
+AGRAVO INTERNO. CUMPRIMENTO PROVISÓRIO.
+Insurgência em face da decisão que indeferiu a tutela antecipada para o cancelamento do R.01, constante na matrícula nº 7.415, assim como registro do nome da agravante como titular de domínio na matrícula do aludido imóvel. Alegações de processamento do cumprimento provisório tal como o definitivo, inexistência de risco de prejuízo para os agravados (diante da caução ofertada - o próprio imóvel) e urgência de deferimento do pedido (saúde física e mental da agravante, que além da idade, encontra-se doente). Descabimento. Matrícula do imóvel já bloqueada, em virtude da tutela deferida na fase de conhecimento, inexistindo qualquer risco de prejuízo à agravante neste momento. Apreciação do mérito, cuja análise está adstrita ao julgamentodo recurso pendente (agravo de instrumento). Pedido de PRIORIDADE ESPECIAL à agravante em razão da idade. DEFERIMENTO que se impõe. Decisão mantida. RECURSO DESPROVIDO.
+Os embargos de declaração opostos pelo agravante foram rejeitados (fls. 133-139).
+No recurso especial, o agravante alega violação dos arts. 489 e 1.022 do CPC, sob o argumento de que o tribunal local não teria se manifestado sobre pontos importantes deduzidos no agravo de instrumento.
+No mérito, aduz haver contrariedade ao disposto nos arts. 520, IV, e 521, III, CPC.
+Sustenta, outrossim, que "temos, em conjunto, possibilidade jurídica (base legal), inexistência de risco de prejuízo para os recorridos (diante da caução ofertada) e urgência no emprego da efetividade da execução provisória (pois se trata da saúde física e mental da recorrente que não pode aguardar o término do processo sem que isto lhe traga prejuízos para a sua vida)" (fl. 183).
+Foram oferecidas contrarrazões ao recurso especial (fls. 190-197).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 204-206), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 229-239).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso dos autos, a agravante interpôs agravo de instrumento no Tribunal de origem para desconstituir a decisão que indeferiu o pedido de tutela antecipada postulada para o cancelamento do R.01, constante na Matrícula n. 7.415, do 2º Ofício de Registro de Imóveis de Camaçari/BA, e ingresso do nome da agravante IVONETE como titular de domínio na matrícula do imóvel em questão.
+No Tribunal de origem, referida decisão foi mantida nos seguintes termos (fls. 127-128):
+Extrai-se dos autos que se trata de cumprimento de sentença provisório, proposta pela agravante, a fim de que seja determinada a expedição de ofício para o cancelamento do R.01, constante da matrícula n. 7.415, do 2º Ofício de Registro de Imóveis de Camaçari/BA, ante a declaração de nulidade do ato jurídico, devidamente confirmado em segunda instância.
+Fundamenta seu pedido no fato de que o cumprimento provisório se processa tal como o definitivo (art. 521 do CPC), inexistência de risco de prejuízo para os agravados (diante da caução ofertada o próprio imóvel em discussão) e urgência de deferimento do pedido (pois se trata da saúde física e mental da agravante, que além da idade, encontra-se doente), pleiteando a reconsideração do pedido para a concessão da tutela pretendida.
+Verifica-se, ainda, no que concerne ao processo principal (autos de n. 1119549-17.2019.8.26.0100), que encontra-se atualmente remetido ao C. STJ, fora interposto Recurso Especial pelos agravados, que restaram inadmitidos, e consequentemente interposto Agravo em REsp, que encontra-se pendente de julgamento.
+Neste sentido, referida tutela pleiteada inicialmente nos autos de origem, foi indeferida sob o argumento de que "(..) a matrícula do imóvel encontra-se bloqueada, em virtude da tutela deferida na fase de conhecimento, inexistindo qualquer prejuízo à requerente."
+Com efeito, a parte agravante em momento algum ventilou argumentos novos e/ou robustos o suficiente para alteração do entendimento esposado, apegando-se ao genérico para reapreciar o pedido, assim como a apreciação do mérito, cuja análise está adstrita ao julgamento do recurso pendente (agravo de instrumento).
+Desprovido, portanto, o recurso.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo, não havendo falar em ofensa aos arts. 489 e 1.022 do CPC. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+No mais, incide, no caso, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo. Nesse sentido, cita-se:
+É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF). O juízo de valor
+precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF". (AgInt no AREsp n. 1.598.838/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.571.882/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/7/2020;
+AgInt no REsp n. 1.830.644/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/6/2020; AREsp n. 1.610.726/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/6/2020; AgInt no AREsp n. 1.621.446/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; AgInt no AREsp n. 1.571.937/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020.
+Ademais, verificar a existência dos requisitos autorizadores do deferimento ou indeferimento da tutela antecipada demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. TRATAMENTO DE SAÚDE. TUTELA ANTECIPADA. PEDIDO DE REVOGAÇÃO. ÓBICE DA SÚMULA N. 735/STF. TUTELA DE URGÊNCIA. DISCUSSÃO DE MÉRITO NO RECURSO ESPECIAL. DESCABIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+2. Conforme o entendimento desta Corte Superior, o especial interposto contra acórdão que decide sobre pedido de antecipação de tutela admite, "tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa" (AgInt no AREsp n. 1.943.057/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 4/4/2022).
+3. No caso, descabe cogitar do exame da tese de contrariedade ao art. 10, VII, da Lei n. 9.656/1998, pois o referido normativo não está relacionado aos requisitos de concessão das medidas de urgência.
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+5. No caso concreto, para averiguar, nesta instância, a ausência dos requisitos da tutela antecipada que impôs à agravante o custeio liminar do tratamento de saúde do agravado, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.949.985/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE DESPEJO. LIMINAR REVOGADA. NATUREZA PRECÁRIA DA DECISÃO. SÚMULA 735 DO STF. REVISÃO DA MOTIVAÇÃO DA DECISÃO. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. HONORÁRIOS RECURSAIS. DESCABIMENTO. AGRAVO
+DESPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que, em regra, não cabe recurso especial contra decisão que aprecia pedido liminar, nos termos da Súmula 735/STF.
+2. A análise do preenchimento ou não dos requisitos da tutela de urgência demandaria o reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. ..  5. Agravo interno desprovido.
+(AgInt no AREsp n. 1556671/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/5/2020, DJe de 8/5/2020.)
+Ante o exposto, conheço do agravo para conhecer , em parte, do recurso especial e, nessa extensão, negar-lhe provimento .
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+ EMENTA
