@@ -1,0 +1,28 @@
+DECISÃO
+LUCAS SOARES BARROS DA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0017535-57.2016.8.19.0007.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, a 1 ano e 8 meses de reclusão, em regime aberto, mais multa, como incurso no art. 33, caput, e § 4º, da Lei n. 11.343/2006.
+O Tribunal de origem afastou a incidência da minorante do tráfico e tornou a reprimenda definitiva em 5 anos e 10 meses de reclusão, em regime semiaberto, mais multa.
+Nas razões do especial, a defesa busca o reconhecimento da nulidade da prova em razão da invasão do domicílio do réu. De modo subsidiário, pugna para que seja reconhecida a minorante do tráfico.
+O Ministério Público Federal opinou pelo parcial provimento do recurso especial, "para restabelecer a incidência da minorante do tráfico privilegiado na fração de dois terços, fixar o regime inicial aberto e substituir a pena corporal por restritivas de direitos" (fl. 469).
+Decido.
+I. Admissibilidade
+O recurso especial, embora haja sido interposto no prazo legal, deve ser conhecido em parte. Isso porque a parte, quanto a tese de invasão de domicílio, não indicou, de forma clara e precisa, os dispositivos legais que haveriam sido infringidos com força normativa capaz de alterar o aresto atacado, o que atrai a incidência da Súmula n. 284 do STF.
+Ilustrativamente: "Não foram apontados os dispositivos de lei federal que em tese teriam sido violados, razão porque inafastável a incidência da Súmula n. 284 do Supremo Tribunal Federal, por deficiência na fundamentação" (AgRg no REsp 1.091.923/RJ, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 24/2/2015, grifei); "A ausência de prequestionamento constitui óbice ao exame da matéria pela Corte Superior, a teor das Súmulas 282 e 356 do Pretório Excelso" (AgRg no AREsp n. 1.260.175/DF, Rel. Ministro Felix Fischer, 5ª T., DJe 15/6/2018, destaquei).
+II. Aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas
+Para  a  aplicação  da  minorante  em  comento,  são  exigidos,  além  da  primariedade  e  dos  bons  antecedentes  do  acusado,  que  este  não  integre  organização  criminosa  e  que  não  se  dedique  a  atividades  delituosas.  Isso  porque  a  razão  de  ser  da  causa  especial  de  diminuição  de  pena  prevista  no  art.  33,  §  4º,  da  Lei  n.  11.343/2006  é  justamente  punir  com  menor  rigor  o  pequeno  traficante,  ou  seja,  aquele  indivíduo  que  não  faz  do  tráfico  de  drogas  o  seu  meio  de  vida;  antes,  ao  cometer  um  fato  isolado,  acaba  incidindo  na  conduta  típica  prevista  no  art.  33  da  mencionada  lei  Federal.
+A  propósito,  confira-se  o  seguinte  trecho  de  voto  deste  Superior  Tribunal:
+"  A  mens  legis  da  causa  de  diminuição  de  pena  seria  alcançar  os  condenados  neófitos  na  infausta  prática  delituosa,  configurada  pela  pequena  quantidade  de  droga  apreendida,  e  serem  eles  possuidores  dos  requisitos  necessários  estabelecidos  no  art.  33,  ss  40,  da  Lei  no  11.343/06."  (AgRg  no  RESP  n.  1.389.632/RS,  Rel.  Ministro  Moura  Ribeiro,  5ª  T,  DJe  14/4/2014).
+No  caso,  o  Tribunal  de  origem  afastou  a  incidência  do  privilégio  previsto  no  art.  33,  §  4.º,  da  Lei  n.  11.343/2006 , resumidamente, na variedade e natureza das drogas apreendidas. Confira-se (fl. 362):
+Na hipótese, não se posta a revelar a existência de mero traficante eventual, isolado e autônomo, que tenha pontualmente se aventurado no mundo das drogas, a possuir, para fins de traficância, 391,1g (trezentos e noventa e uma gramas e um decigrama) de CRACK e 22,72g (vinte e dois gramas e setenta e duas decigramas) de COCAÍNA, acondicionados em 71 (setenta e uma) embalagens plásticas fechadas por meio de nó do próprio material, com etiqueta contendo a descrição "PARA TUDO R$ 10,00.
+Entretanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga
+apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+Assim, uma vez que, no caso, a quantidade da droga apreendida, além de não se mostrar expressiva, foi sopesada isoladamente para levar à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciada a violação legal.
+Diante da ausência de fundamento suficiente para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, cabível o restabelecimento da sentença condenatória no ponto em que aplicou o aludido benefício.
+III. Dispositivo
+À vista do exposto, conheço em parte do recurso especial e, nesse extensão, dou-lhe provimento a fim de restabelecer a sentença quanto a incidência da causa de diminuição da pena do tráfico.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
