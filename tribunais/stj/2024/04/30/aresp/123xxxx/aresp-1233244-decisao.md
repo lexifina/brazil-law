@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual a COMPANHIA DO METROPOLITANO DE SAO PAULO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 317):
+DESAPROPRIAÇÃO. DESISTÊNCIA. JUROSCOMPENSATÓRIOS E MORATÓRIOS. No caso de desistência da ação de desapropriação, cumpre ao desapropriante a obrigação de pagar, a título de indenização, juros compensatórios decorrentes da perda antecipada da posse pelo expropriado, pelo período compreendido entre a imissão na posse e a efetiva desocupação do imóvel.
+Juros compensatórios de de 12% ao ano, tendo em vista que a data da imissão na posse é posterior a decisão proferida da ADin 2.332/DF. Juros moratórios de 6% ao ano, a partir do trânsito em julgado. Violação ao Decreto -Lein.3.365/41não configurada.
+Sentença mantida. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 510/514).
+Nas razões de seu recurso especial, a parte ora agravante apontou ofensa aos arts. 15-A e 15-B do Decreto-Lei 3.365/1941.
+O Ministro Napoleão Nunes Maia Filho determinou a baixa dos autos à origem em virtude da afetação das teses repetitivas 126, 184, 280, 281, 282 e 283 do Superior Tribunal de Justiça (fls. 641/642).
+Em juízo de conformação, o Tribunal de origem proferiu acórdão com a seguinte ementa (fl. 725):
+JUÍZO DE RETRATAÇÃO. RECURSOS REPETITIVOS. DEVOLUÇÃO DOS AUTOS POR DETERMINAÇÃO DO D. PRESIDENTE DA SEÇÃO DE DIREITO PÚBLICO.
+Desapropriação. Necessidade de observância das revisões de tese nos temas 126/STJ e 1.073/STJ. Adequação do julgado, com determinação.
+O Presidente da Seção de Direito Público do Tribunal de origem jugou prejudicado o recurso especial (fl. 736).
+A parte recorrente opôs a essa decisão embargos de declaração, acolhidos nos seguintes termos (fls. 747/748):
+Com efeito, observada a existência de omissão no despacho lavrado à fl. 589, no tocante à questão acima aduzida, corrige-se a decisão nos termos seguintes.
+O Col. STJ, ao se pronunciar em proposta de revisão de teses repetitivas, assinalou que:
+"(..) a discussão dos efeitos da ADI 2332 compete, unicamente, à Corte Suprema, nos termos da nova tese proposta adiante" (cf. Pet n. 12.344/DF, relator Ministro Og Fernandes, Primeira Seção, julgado em 28/10/2020, DJe de 13/11/2020)
+Por conseguinte, quanto à questão tida por omissa, inadmito o recurso especial (fls. 307/334, 408/17), com fundamento no art. 1.030, inciso V, do Código de Processo Civil.
+Em face do exposto, acolho os presente embargos de declaração para sanar a omissão apontada.
+A parte recorrente interpôs agravo em recurso especial, requerendo, com base no art. 1.032 do Código de Processo Civil, a aplicação da fungibilidade recursal, bem como reiterando a alegação de ofensa ao art. 15-A do Decreto-Lei 3.365/1941.
+É o relatório.
+De início, declaro a tempestividade do agravo em recurso especial.
+Não obstante ter a Corte Especial do Superior Tribunal de Justiça decidido que a oposição de embargos de declaração à decisão de inadmissibilidade do recurso especial não interrompe o prazo para a interposição do respectivo agravo, no caso dos autos a decisão embargada foi extremamente genérica, o que configura exceção capaz de afastar esse entendimento. Confira-se a ementa do julgado da Corte Especial:
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS DO DEVEDOR. RECURSO ESPECIAL INADMITIDO NO TRIBUNAL DE ORIGEM. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INTERPOSIÇÃO TEMPESTIVA DE AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA AFASTADA. RETORNO DOS AUTOS PARA JULGAMENTO DO RECURSO.
+1. Ação de embargos do devedor.
+2. O propósito recursal é dirimir suposta divergência com relação à ocorrência de preclusão consumativa nas hipóteses em que são opostos embargos de declaração contra a decisão do Tribunal de origem que inadmite o recurso especial, e, em seguida, é interposto, tempestivamente, o agravo previsto no art. 1.042 do CPC/2015.
+3. A Corte Especial já decidiu que "os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial na origem, não interrompem, em regra, o prazo para a interposição do agravo, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, inviabilizando-o totalmente de interpor o agravo" (AgInt nos EAREsp 166.402/PE, Corte Especial, julgado em 19/12/2016, DJe 07/02/2017).
+4. Hipótese em que, seguidamente à oposição dos embargos de declaração, a recorrente interpôs o agravo em recurso especial ainda dentro do prazo legal, razão pela qual deve ser reformado o acórdão embargado para afastar a preclusão consumativa e, por conseguinte, determinar o retorno dos autos à Segunda Turma, a fim de prosseguir no julgamento do recurso.
+5. Embargos de divergência conhecidos e providos.
+(EAREsp 2.039.1129/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 21/6/2024, DJe de 27/6/2023 - sem destaque no original.)
+Apesar disso, do recurso especial não é possível conhecer.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem afastou a pretensão autoral com amparo no julgamento da Ação Direta de Inconstitucionalidade 2.332.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+O exame do alcance e dos limites de tese jurídica fixada pelo STF demanda a interpretação de preceitos e dispositivos constitucionais, providência essa de competência exclusiva da Suprema Corte.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento. (AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021 - sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido. (AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaque no original.)
+O deferimento do pedido apresentado acerca da fungibilidade do recurso especial, em prol de conduzir seu direcionamento ao STF, não se faz possível.
+Da análise dos autos, verifico que o acórdão guerreado não desenvolve sua fundamentação em princípios e matéria estritamente de natureza constitucional. Ademais, é inconteste a falta de preenchimento do requisito da indicação exclusiva de dispositivos constitucionais, de modo a autorizar a convolação em recurso extraordinário.
+Registro não ser o caso da aplicação do art. 1.032 do CPC uma vez que a incidência da regra pertinente ao princípio da fungibilidade é devida quando erroneamente interposto o recurso especial contra questão de natureza exclusivamente constitucional.
+Em relação ao presente caso, como visto, o acórdão tem dupla fundamentação - constitucional e infraconstitucional -, sendo necessária a interposição de dois recursos distintos de natureza extraordinária (recurso especial e recurso extraordinário). Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTOS CONSTITUCIONAIS. ARTS. 196, 226, 227 E 229 DA CF/1988. PROTEÇÃO À SAÚDE E À FAMÍLIA. SÚMULA 126 DO STJ. INCIDÊNCIA. ART. 1.032 DO CPC/2015. INAPLICABILIDADE.
+1. A controvérsia foi dirimida com base em fundamentos constitucional e infraconstitucional, sendo certo que o recorrente não interpôs, simultaneamente ao apelo especial, o recurso extraordinário, motivo pelo qual incide no caso a Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+2. A regra do art. 1.032 do CPC/2015, pertinente ao princípio da fungibilidade, incide apenas quando erroneamente interposto o recurso especial contra questão de natureza exclusivamente constitucional, o que não é o caso dos autos. Precedentes.
+3. Recurso especial não conhecido. (REsp n. 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/6/2020, DJe de 7/8/2020 - sem destaques no original.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA. SÚMULA 126 DO STJ. INCIDÊNCIA.
+ ..
+3. Apesar de o art. 1.032 do Código de Processo Civil de 2015 prever a aplicação do princípio da fungibilidade ao apelo nobre que versar sobre questão constitucional, tal aplicação está condicionada à hipótese em que há um equívoco quanto à escolha do recurso cabível, sendo certo que, no caso dos autos, além da inexistência de recurso em separado no tocante ao capítulo decisório de fundamento constitucional, sequer foi apontada contrariedade a preceitos constitucionais, de modo que não há falar em aplicação do princípio antes referido.
+4. Agravo interno desprovido. (AgInt no REsp n. 1.651.768/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/5/2019, DJe de 24/5/2019 - sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
