@@ -1,0 +1,73 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5023938-87.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SUELI DUTRA DE CARVALHO OLIVEIRA
+RECORRIDO: 3L TECNOLOGIAS EDUCACIONAIS E SOLUCOES DIGITAIS SA e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5023938-87.2023.8.08.0048
+
+Recorrente: SUELI DUTRA DE CARVALHO OLIVEIRA;
+
+Recorridos: SOCIEDADE TECNICA EDUCACIONAL DA LAPA S/A;
+
+3L TECNOLOGIAS EDUCACIONAIS E SOLUÇÕES DIGITAIS SA;
+
+RELATOR: DR. SALOMÃO A. Z. SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Deferido o pedido de justiça gratuita.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS COM AS REQUERIDAS, NA MODALIDADE À DISTÂNCIA, TENDO POR OBJETO “CURSO SUPERIOR DE TECNOLOGIA EM PODOLOGIA”. RESCISÃO UNILATERAL DO CONTRATO PELA PARTE REQUERIDA, AO ARGUMENTO DE QUE NÃO FOI ATINGIDO NÚMERO SUFICIENTE DE ALUNOS PARA SEGUIR COM O CURSO, QUE JÁ TINHA UM SEMESTRE CONCLUÍDO. VALORES DEVOLVIDOS ADMINISTRATIVAMENTE, PORÉM SEM CORREÇÃO MONETÁRIA. PEDIDOS DA AUTORA DE INDENIZAÇÃO POR DANO MATERIAL, REFERENTE À CORREÇÃO DOS VALORES DEVOLVIDOS, E DOS GASTOS QUE TEVE PARA AQUISIÇÃO DE UM COMPUTADOR, COMPRA QUE TERIA SIDO FEITA EXCLUSIVAMENTE POR CAUSA DO CURSO. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.
+
+JUÍZO DE ORIGEM QUE ENTENDEU PELA PROCEDÊNCIA EM PARTE DOS PEDIDOS, CONDENANDO A PARTE REQUERIDA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS, EM RELAÇÃO À CORREÇÃO DAS PARCELAS DEVOLVIDAS NA VIA ADMINISTRATIVA. JULGOU IMPROCEDENTES OS PEDIDOS DE PAGAMENTO PELO COMPUTADOR ADQUIRIDO, AO ARGUMENTO DE QUE O BEM SE INCORPOROU AO PATRIMÔNIO DA PARTE AUTORA, BEM COMO A INDENIZAÇÃO POR DANOS MORAIS PLEITEADA.
+
+RECURSO DA PARTE AUTORA, PEDINDO PELA REFORMA DA SENTENÇA EM RELAÇÃO AOS DANOS MORAIS, AO FUNDAMENTO DE QUE HOUVE QUEBRA DE EXPECTATIVA E ABALO MORAL, ALÉM DE 06 MESES DE ESTUDOS QUE TERIAM SIDO DESPERDIÇADOS.
+
+JULGADO QUE NÃO MERECE REPARO. A DEVOLUÇÃO DOS VALORES OCORREU NA VIA ADMINISTRATIVA, E COMO BEM SALIENTADO PELO JUÍZO SENTENCIANTE, A RESCISÃO ENCONTRA RESPALDO NO CONTRATO FIRMADO ENTRE AS PARTES.
+
+RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS DESPESAS DO PROCESSO E HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM 10% SOBRE O VALOR DA CAUSA. SUSPENDO, ENTRETANTO, A EXIGIBILIDADE DE TAIS VERBAS, POIS A PARTE CONDENADA ENCONTRA-SE AMPARADA PELA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+
+FABIANO CUZINI SCARPINI
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. SALOMÃO A. Z. SPENCER ELESBON
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
