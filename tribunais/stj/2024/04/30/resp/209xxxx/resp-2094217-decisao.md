@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 209):
+Apelação - Responsabilidade civil - Ação declaratória de inexigibilidade de débito cumulada com indenização por danos morais - Procedência parcial - Manutenção indevida do nome da autora no cadastro de inadimplentes após quitação do débito contraído junto ao réu - Existência de diversas outras restrições desabonadoras em seu nome antes do registro dos autos - Devedor contumaz - Súmula 385 do STJ - Abalo de crédito não configurado no caso, independentemente do fato de que no exato momento da quitação da dívida tenham sido excluídas as demais negativações preexistentes - Descabimento da reparação por danos morais postulada, nesta hipótese, por ausência de prova do dano experimentado que, na hipótese, não se presume - Recurso da autora não conhecido em parte e improvido na parte conhecida e provido parcialmente o recurso do réu.
+Os embargos de declaração foram rejeitados (e-STJ fls. 279/286).
+Em suas razões (e-STJ fls. 217/238), a parte aponta dissídio jurisprudencial e violação dos arts. 186, 187, 927 e 944 do CC e 6º e 14 do CDC, alegando que "o Acórdão recorrido entendeu de forma equivocada, com base na Súmula 385 do Superior Tribunal de Justiça, que a Recorrente não faria jus a indenização a título de danos morais em razão da inscrição indevida do seu nome nos cadastros de inadimplentes pelo Recorrido, pois no passado já existiu outras inscrições vinculadas ao seu nome, afirmando, dessa forma, que se trata de "inscrições preexistentes"" (e-STJ fl. 220).
+Defende que "não existindo inscrição preexistente ativa, não há que se falar na aplicabilidade da Súmula 385 do Superior Tribunal de Justiça" (e-STJ fl. 221).
+Contrarrazões não apresentadas (e-STJ fl. 309).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O Tribunal de origem, ao apreciar a questão controvertida, registrou que "foi bem reconhecida a inexigibilidade do débito e a anotação indevida" (e-STJ fl. 212).
+Entendeu, todavia, que a parte recorrente não faz jus ao recebimento de indenização por danos morais, tendo em vista a "existência de inúmeras outras anotações de pendências financeiras registradas em nome da demandante, antes do débito questionado no caso vertente" (e-STJ fl. 212).
+Concluiu pela aplicabilidade da Súmula n. 385 do STJ, ao fundamento de que, "embora, realmente, no momento em que a dívida questionada foi anotada indevidamente pelo réu, não houvesse nenhum outro registro desabonador apontado em nome da apelante, como sustenta nas razões recursais, o fato é que a demandante se trata de devedora contumaz" (e-STJ fl. 212, grifei).
+O acórdão recorrido diverge do entendimento jurisprudencial deste Tribunal Superior acerca da questão, segundo o qual referido enunciado sumular faz-se aplicável nos casos em que, à anotação irregular em cadastro de proteção ao crédito, preexistir e coexistir inscrição negativa legítima. É o que se depreende dos seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. INOCORRÊNCIA DE DANO. PREEXISTÊNCIA E COEXISTÊNCIA DE INSCRIÇÃO NEGATIVA LEGÍTIMA. SÚM. 385/STJ. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem assentou que a inscrição do nome da recorrente no cadastro restritivo, de que cuida os presentes autos, somente passou a ser ilegítima após a quitação do débito, que ocorreu em 15/8/2012. Todavia, nesta data, já haviam inscrições preexistentes no cadastro desabonador (maio e junho de 2012), o que afasta a possibilidade de indenização por dano moral. Não há falar-se em omissão do acórdão.
+2. A ilegitimidade de determinada manutenção do nome em cadastro de inadimplente não enseja a condenação em indenização por dano moral, se remanescem outras.
+3. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súm 385/STJ).
+ ..
+(AgInt no AREsp n. 1.588.049/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022 - grifei.)
+AGRAVO INTERNO. RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA DE DADOS DO DEVEDOR EM CADASTROS RESTRITIVOS DE CRÉDITO. DÍVIDA IRREGULAR DECORRENTE DE CONTRATO DO QUAL NÃO SE FEZ PROVA. OUTROS APONTAMENTOS NO NOME DO MESMO DEVEDOR. DISCUSSÃO DAS DEMAIS INSCRIÇÕES EM OUTROS PROCESSOS. SÚMULAS N. 380 E 385/STJ.
+1. A ilegitimidade de determinada inscrição em cadastro de inadimplente não enseja a condenação em indenização por dano moral, se remanescem outras, ainda que pendentes de apreciação judicial.
+ ..
+(AgInt no REsp n. 1.713.376/SP, relator Ministro Raul Araújo, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/12/2019, DJe de 6/3/2020 - grifei.)
+Assim, a preexistência de anotações desabonadoras que, no momento da inscrição irregular debatida nos presentes autos, já não mais constavam no cadastro de proteção ao crédito, não dá ensejo à incidência da Súmula n. 385 do STJ.
+Ademais, na linha dos precedentes do STJ, a inscrição indevida do nome do consumidor em cadastros de inadimplentes enseja dano moral in re ipsa, sendo desnecessária a sua comprovação. Nesse sentido: AgInt nos EDcl no AREsp n. 2.257.643/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023; AgInt no REsp n. 1.970.716/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para condenar a parte recorrida ao pagamento de danos morais em favor da parte recorrente, os quais arbitro em R$ 5.000,00 (cinco mil reais), com juros de mora desde o evento danoso e correção monetária a partir do arbitramento, nos termos das Súmulas n. 54 e 362 do STJ.
+Condeno a parte recorrida ao pagamento das custas processuais e dos honorários advocatícios, os quais fixo em 20% sobre o valor da condenação, nos moldes do art. 85, § 2º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
