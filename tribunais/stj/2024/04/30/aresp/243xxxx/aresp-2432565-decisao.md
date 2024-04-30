@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por Claudemir Goncalves Lima contra a decisão proferida pelo Tribunal Regional Federal da 4ª Região, que, em juízo de admissibilidade, inadmitiu o recurso especial por ele oferecido, com fulcro na alínea a do permissivo constitucional, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 5007168-46.2020.4.04.7104/RS, assim ementado (fls. 359/360):
+DIREITO PENAL E PROCESSUAL PENAL. CONTRABANDO DE CIGARROS. TRANSPORTE. ART. 334-A, § 1º, DO CP, C/C ART. 3º DO DEC.-LEI Nº 399/68. DESOBEDIÊNCIA. ART. 330 DO CÓDIGO PENAL. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. CONDENAÇÃO MANTIDA. DOSIMETRIA ALTERADA. ANTECEDENTES. REDUÇÃO DA EXASPERAÇÃO. CONFISSÃO ESPONTÂNEA. NÃO INCIDÊNCIA. REGIME INICIAL. SEMIABERTO. MANUTENÇÃO. SÚMULA 269 DO STJ. DETRAÇÃO. MONITORAMENTO ELETRÔNICO. PRISÃO CAUTELAR. FIXAÇÃO DO REGIME INICIAL. NÃO INCIDÊNCIA. MEDIDA CAUTELAR. REVOGAÇÃO. DIREITO DE RECORRER EM LIBERDADE. RECONHECIMENTO.
+1. Comprovadas a materialidade e autoria delitivas, bem como o dolo do acusado, sendo os fatos típicos, antijurídicos e culpáveis, e inexistindo causas excludentes, mantém-se a condenação pela prática dos crimes de contrabando e de desobediência.
+2. A lei não estabelece critério matemático para a dosagem da pena, de tal modo que não está o magistrado obrigado a pautar-se em cálculos precisos para a sua fixação, mas sim nos princípios da individualização da pena, da proporcionalidade e do dever de motivação das decisões judiciais.
+3. À luz dos precedentes desta Corte e levando em conta a pena em abstrato do delito em questão, o incremento de 06 (seis) meses se mostrou injustificado. Majoração aplicada em 04 (quatro) meses e 15 (quinze) dias.
+4. O entendimento firmado nesta Corte em relação à segunda fase de fixação da pena é que o aumento/diminuição decorrente do reconhecimento de agravante/atenuante deve ser, em regra, de 1/6 (um sexto).
+5. Não tendo o réu confessado a prática do crime de desobediência, não incide a atenuante prevista no art. 65, III, "d", do CP.
+6. É admissível a decretação do regime prisional semiaberto ao agente reincidente quando a pena privativa de liberdade fixada for igual ou inferior a quatro anos e as circunstâncias judiciais forem, em sua maioria, favoráveis (Súmula 269 do STJ).
+7. O período de prisão cautelar foi observado pelo juízo da condenação ao fixar o regime inicial.
+8. O período de medida cautelar de monitoramento eletrônico não deve ser computado para fins de detração penal.
+9. Revogação do monitoramento eletrônico. Diante da redução da pena privativa de liberdade, não subsistem os fundamentos lastreadores da medida cautelar, em que pese ter sido fixado o regime semiaberto para cumprimento inicial da pena.
+10. Possível o reconhecimento do direito de recorrer em liberdade.
+Nas razões do especial, a defesa apontou contrariedade ao art. 387, § 2º, do Código de Processo Penal, alegando, em síntese, ser o caso de aplicação da detração penal, com forte fundamento no art. 42 do Código Penal e § 2º do art. 387 do Código de Processo penal, haja vista que permaneceu recluso ou com limitação de locomoção/ recolhimento há mais de 1 ano e 11 meses, por consequência, seja aplicado o regime aberto, com a substituição da pena privativa de liberdade por restritivas de direitos (fl. 406).
+Apresentadas contrarrazões (fls. 421/427), o Tribunal Regional não admitiu o recurso, por incidência da Súmula 83/STJ (fls. 430/432).
+Daí o presente agravo (fls. 439/457). Instado a se manifestar, o Ministério Público Federal opina pelo desprovimento do recurso, nos termos desta ementa (fl. 480):
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 105, III, "A" DA CF. REFORMA DE DECISÃO QUE INADMITIU RECURSO ESPECIAL. IMPROCEDÊNCIA. INEXISTÊNCIA DE VIOLAÇÃO À LEI FEDERAL. ACÓRDÃO QUE ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA 83/STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade. Todavia, estou de acordo com o nobre parecerista, a irresignação não merece acolhida.
+Consignou o acórdão impugnado (fls. 381/382 - grifo nosso):
+ ..  2.5 Detração Penal. Postula a defesa a efetivação da detração, com a aplicação do regime aberto, considerando que o apelante permaneceu preso cautelarmente, bem como sob monitoramento eletrônico.
+Sem razão, pois tal aferição cabe ao juízo de execução.
+Por diligência, registro que art. 387, § 2º, do Código de Processo Penal assim dispõe:
+ ..
+Com efeito, o período de prisão cautelar deve ser observado pelo juízo da condenação ao fixar o regime inicial. No presente caso, o réu ficou preso por 46 (quarenta e seis) dias, de 05/10/2020 a 19/11/2020.
+O regime inicial aplicado na sentença foi o semiaberto, visto que o apelante é reincidente. Estando o réu no regime mais benéfico possível, considerando as peculiaridades do seu caso, é irrelevante a discussão acerca de eventual detração em sede de apelo, para fins de escolha do regime inicial de cumprimento de pena.
+Quanto ao monitoramento eletrônico, o Supremo Tribunal Federal, por decisões monocráticas proferidas recentemente, tem reafirmado o entendimento no sentido de ser incabível a detração das medidas cautelares diversas da prisão (ARE 1.387.036/SC, Rel. Ministro Alexandre de Moraes, julgado em 09/06/2022, DJe 14/06/2022; HC 214.862/SP, Rel. Ministro André Mendonça, julgado em 09/05/2022, DJe 10/05/2022; HC 205.740/SC, Rel. Ministra Rosa Weber, julgado em 14/03/2022, DJe 16/03/2022).
+Registro que a Primeira Turma do Supremo Tribunal Federal, em 20/04/2022, ao apreciar o Agravo Regimental no Habeas Corpus nº 205.740/SC assentou que:
+ ..
+Ademais, o monitoramento eletrônico não ensejou o recolhimento domiciliar do réu em nenhum período, restringindo apenas a sua movimentação à cidade onde reside, não havendo espaço para a detração pretendida.
+Portanto, diante de tais fundamentos, nego provimento ao pedido da defesa no ponto. O período de medida cautelar de monitoramento eletrônico não deve ser computado para fins de detração penal.  ..
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, no sentido de que, em se tratando de réu reincidente, não se mostra relevante, para fins de escolha do regime inicial de cumprimento da pena, a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do Código de Processo Penal.
+A propósito: AgRg no AREsp n. 2.313.806/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 6/3/2024; AgRg no RHC n. 181.082/AL, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 15/12/2023; AgRg no REsp n. 2.104.637/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2023; AgRg no HC n. 758.823/SP, Ministra Laurita Vaz, Sexta Turma, DJe 14/9/2023, e AgRg no AgRg no AREsp n. 2.279.744/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 30/8/2023.
+Imperioso registrar, ainda, que,  s egundo a orientação desta Corte Superior, à míngua de previsão legal, o tempo de cumprimento da medida cautelar de monitoração eletrônica, prevista no art. 319, IX, do CPP, não deve ser computado para fins de detração penal, se não houver intervalo algum de recolhimento domiciliar compulsório (AgRg nos EDcl no RHC n. 171.734/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/5/2023).
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. DETRAÇÃO. IRRELEVÂNCIA. REGIME PRISIONAL QUE NÃO DECORRE DO QUANTUM DA PENA. REINCIDÊNCIA. PRECEDENTES.
+Agravo conhecido para negar provimento ao recurso especial.
