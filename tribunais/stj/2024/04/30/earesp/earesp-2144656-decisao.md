@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de divergência em agravo em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Rel. Ministro MOURA RIBEIRO, assim ementado (e-STJ fl. 670):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESIDÊNCIA. NÃO CONHECIMENTO. CUSTAS. NÃO RECOLHIMENTO. DESERÇÃO. NÃO PROVIMENTO.
+1. Deserto o recurso ao qual se oportunizou o recolhimento do preparo em dobro e a parte não o fez.
+2. Agravo interno não provido.
+A parte embargante defende que o acórdão recorrido contrariou os seguintes julgados:
+(a) AgInt nos EDcl no AREsp n. 1.274.523/GO, TERCEIRA TURMA, Relator Ministro PAULO DE TARSO SANSEVERINO, DJe de 27/09/2007.
+(b) REsp n. 1.996.415/MG, TERCEIRA TURMA, Relatora Ministra NANCY ANDRIGHI, DJe de 24/04/2017.
+(c) EAREsp n. 483.201/DF, CORTE ESPECIAL, Relator Ministro RAUL ARAÚJO, DJe de 06/04/2022.
+(d) EAREsp n. 516.970/PI, CORTE ESPECIAL, Relator Ministro OG FERNANDES, DJe de 20/02/2018.
+Salienta que, "Em análise do AgInt. no Agravo em Recurso Especial por este Egrégio Tribunal houve entendimento de que julgou o recurso deserto em razão da "..falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento", o que merece ser revisto, por manifestamente contrária a posicionamento da própria 3ª Turma.  ..  com base nos artigos 188 e 277 ambos do CPC que seja revista a decisão com base no principio da instrumentalidade das formas ao qual o depósito realizado alcançou a finalidade de integrar aos cofres públicos o valor devido.  ..  Na espécie, a Guia de Recolhimento destinada ao pagamento do Porte de Remessa e Retorno indicou corretamente o STJ como unidade de destino, além do nome e CPF da recorrente, o nome do recorrido com CPF e o número do processo" (e-STJ fls. 680/693).
+Pede a reforma do acórdão embargado (e-STJ fls. 693/694).
+É o relatório.
+Decido.
+Inicialmente, compete à CORTE ESPECIAL o exame dos embargos de divergência somente em relação aos paradigmas de Turmas que compõem Seção diferente daquela integrada pelo órgão prolator do acórdão embargado.
+Nesse contexto, com o término da jurisdição da CORTE ESPECIAL, os autos devem ser remetidos à SEGUNDA SEÇÃO, para que enfrente, como entender de direito, a divergência relativa aos paradigmas da TERCEIRA TURMA (nesse sentido: EDcl no AgRg nos EDcl nos EREsp n. 1.796.941/PR, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 22/11/2022, DJe de 25/11/2022).
+Dessa forma, passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e os EAREsp n. 483.201/DF, CORTE ESPECIAL, Rel. Ministro RAUL ARAÚJO, DJe de 06/04/2022.
+O acórdão recorrido reconheceu a deserção de recurso especial diante da falta de correspondência entre o código de barra da guia de recolhimento e o comprovante de agendamento do preparo, "não tendo sido juntado o comprovante do efetivo pagamento" e, embora regularmente intimada a parte sobre irregularidade para sanar referido vício, não regularizou (e-STJ fl. 638). Por outro lado, o paradigma da CORTE ESPECIAL, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial), traz hipótese fática diversa como se denota do seguinte trecho do paradigma (e-STJ fl. 727):
+No aresto embargado, verificou-se "às fls. 726/729 que tanto o valor referente ao porte e remessa quanto o valor das custas foram recolhidos sob o mesmo Código - 10825-1". Tendo em vista tal circunstância, a eg. Terceira Turma, aplicando o art. 511 do CPC de 1973, concluiu ensejar, de pronto, a deserção o incorreto preenchimento do número do código da receita em uma das guias de recolhimento do preparo do recurso especial, sob o entendimento de não poder tal fato ser relevado, já que "é ônus da parte recorrente o correto preenchimento da guia de recolhimento da União - GRU, e a consequência em caso de equívoco é o reconhecimento da deserção".
+Entendeu não se tratar "de erro material sanável", nem de "equívoco escusável", o que impossibilitou fosse aberto prazo para correção do equívoco ou mesmo fosse aceito o preparo.
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Procedo agora ao exame dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e os EAREsp n. 516.970/PI, CORTE ESPECIAL, Rel. Ministro OG FERNANDES, DJe de 20/02/2018.
+Como anotado, o acórdão recorrido reconheceu a deserção de recurso especial diante da falta de correspondência entre o código de barra da guia de recolhimento e o comprovante de agendamento do preparo, "não tendo sido juntado o comprovante do efetivo pagamento" e, embora regularmente intimada a parte sobre irregularidade para sanar referido vício, não regularizou (e-STJ fl. 638). Por outro lado, o paradigma da CORTE ESPECIAL, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial), traz hipótese fática diversa como se denota do seguinte trecho do paradigma (e-STJ fls. 7 55/756):
+Com efeito, a partir de uma análise prefacial da pretensão e dos fundamentos colacionados na peça inicial destes embargos de divergência, aparenta-se que, em situações uniformes, houve discrepância de entendimentos, razão pela qual admito o processamento do recurso.
+É que, como ressaltado pela embargante, "no caso paradigma, pode-se observar abaixo, a premissa é a mesma, qual seja, "troca de GRU". A conclusão, entretanto, diferentemente do caso ora recorrido, é pelo afastamento da deserção e reconhecimento do preparo como correto e suficiente" (e-STJ, fl. 537).
+Os embargos, assim, são incabíveis quando o paradigma trazido a confronto não apresenta similitude fático-jurídica com o acórdão divergido, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência no âmbito da CORTE ESPECIAL.
+Publique-se e intimem-se.
+Redistribuam-se os embargos à SEGUNDA SEÇÃO.
+EMENTA
