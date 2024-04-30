@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por IVO WURZIUS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+RECURSO DE AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO - EXECUÇÃO FISCAL - PENHORA - BACENJUD - CONSTRIÇÃO DE VERBAS DE NATUREZA FAMILIAR - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 8º, III, da Lei nº 6.830/1980, no que concerne à nulidade da citação por edital, uma vez que não foi enviado mandado de citação para o endereço obtido no BacenJud, apenas carta com aviso de recebimento, visto que "se remanesce ao menos um endereço para o qual poderia ser expedido mandado para citar pessoalmente o executado, não se pode considerar válida a citação por edital realizada de modo prematuro, que se operou por culpa exclusiva da Fazenda Pública" (fl. 310). Foi apresentada a seguinte argumentação:
+Inicialmente, há de se informar que a finalidade deste recurso é definir a extensão da interpretação realizada pelo Superior Tribunal de Justiça acerca do art. 8º, inciso III, da Lei de Execução Fiscal, quando do julgamento do REsp 1.105.050/BA, submetido à sistemática dos recursos repetitivos.
+Desse modo, a solução da controvérsia não demanda análise do conjunto fático-probatório constante dos autos, pois a matéria devolvida é unicamente de direito, o que afasta a incidência da Súmula 7 do STJ e, de consequência, permite o trânsito deste recurso especial.
+A respeito da citação por edital, o Superior Tribunal de Justiça possui orientação firmada pela Primeira Seção e consubstanciada em sua Súmula 414, de que "a citação por edital, na execução fiscal, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por oficial de justiça". (STJ, REsp 1.103.050/BA, relator Ministro Min. Teori Albino Zavascki, Primeira Seção, DJe 6/4/2009).
+Ademais, nada obstante o STJ dispense a Fazenda Pública da pesquisa por novos endereços nos bancos de dados da Receita Federal, de instituições financeiras etc., não a alforria de promover a busca do executado em todos os endereços que ela mesmo forneceu ou obteve no processo.
+ ..
+Logo, fornecido ou obtido no processo mais de um endereço pela Fazenda Pública, a citação por edital da parte executada só se justifica se houverem diligências prévias em todos esses locais.
+Pois bem.
+A petição inicial (Id. 154793699) aponta que o Ivo Wurzius possui residência à Avenida Marieta Rego Souza, Quadra 9, Lotes 5/6, Bairro Loteamento Chácaras Pica-Pau, no município de Rondonópolis/MT.
+Para esse endereço, foram enviados carta com aviso de recebimento (Id. 154973708) e mandado de citação (Id. 154973711), que não atingiram a sua finalidade.
+Contudo, na busca por novo endereço realizada via sistema BacenJud, constou-se que, na realidade, sua residência está localizada à Rua Rio Grande Do Sul, nº 53, Bairro Planville, em Rondonópolis/MT (Id. 154973721), para onde foi enviada apenas carta com aviso de recebimento (Id. 154973725).
+Ato contínuo, sem que fosse requerida pela Fazenda Pública a expedição de mandado de citação para o endereço obtido no BacenJud, foi requerido e deferido o pedido de citação por edital.
+Portanto, se remanesce ao menos um endereço para o qual poderia ser expedido
+ ..
+Portanto, é nitidamente desnecessária a citação editalícia que, no caso, apenas visou cercear a ampla defesa do executado, que poderia constituir patrono de sua livre escolha para atuar em sua defesa, bem como deduzir outras matérias que não são de conhecimento desta curadoria especial. (fls. 308-310).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
