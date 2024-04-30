@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, Agravo em Recurso Especial interposto pelo ESTADO DE MINAS GERAIS contra decisão que inadmitiu o Recurso Especial por ausência de vício de fundamentação e incidência da Súmula n. 283/STF.
+Sustenta a parte agravante a existência de omissão relevante no acórdão recorrido acerca da disponibilidade de outros tratamentos alternativos para a moléstia em tela, conforme reconhecido pela sentença e à luz de precedente vinculante desta Corte.
+Aduz, ainda, a insubsistência da aplicação da Súmula n. 283/STF quanto ao art. 489 na alegação de violação ao art. 1.022, ambos do CPC/2015.
+Houve impugnação.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo, passo a examinar o recurso especial.
+Assiste razão ao recorrente, especificamente no que diz respeito à alegada violação ao art. 1.022, II, do CPC/2015.
+No ponto, a controvérsia posta no recurso especial cinge à existência de violação ao art. 1.022, II, do CPC/2015, por omissão do Tribunal de origem em se manifestar acerca da disponibilidade de outros tratamentos alternativos para a moléstia tanto na rede pública quanto na rede privada, não estando atendido, portanto, o requisito fixado de forma vinculante por este Tribunal no Tema n. 106/S TJ.
+Da análise dos autos, verifico que o Tribunal a quo deu provimento a apelação da parte autora, reformando a sentença de improcedência, embasado no laudo pericial:
+Sem o tratamento pleiteado, ou outro que o equivalha  que mantêm a doença relativa e provisoriamente estacionada , o autor experimentará encrudescimento da doença, com piora clínica progressiva e morte prematura.
+A sentença, a seu turno, afirmara de forma diversa, também se reportando ao laudo (grifo nosso):
+Logo, o relatório médico elucida que a medicação foi indicada para o tratamento do paciente tendo em vista a gravidade do caso, os benefícios trazidos pelo uso do fármaco e considerando a eficácia da alternativa terapêutica.
+Contudo, de uma análise mais detida dos autos, notadamente do laudo pericial médico apresentado (ID 7347465),verifico que embora o expert tenha concluído que "o uso da abiraterona para tratamento do câncer de próstata resistente à castração é uma alternativa terapêutica considerada segura e eficaz" e "encontra amplo respaldo na literatura médica internacional, atualizada e especializada", o que levou este Juízo a deferir, em análise de cognição sumária, a tutela de urgência pleiteada, o perito também ressaltou que:
+"A doença do autor é grave, incurável, e inexoravelmente progredirá e o levará a óbito, a despeito do tratamento que venha a ser empregado para seu manejo. O autor não esgotou as alternativas terapêuticas que existem no SUS para manejo de seu caso, tendo já sido submetido à orquiectomia e ao bloqueio hormonal com leuprorrelina, mas nunca tendo sido submetido ao uso de outros bloqueadores hormonais (DES, ciproterona, flutamida) nem de docetaxel (quimioterapia disponível no SUS).
+O fármaco pleiteado tampouco é a única alternativa ao seu tratamento, mesmo fora do arsenal terapêutico do SUS (aenzalutaminda, também indisponível na rede pública, é potencial alternativa ao fármaco pleiteado).
+O uso da abiraterona previamente ao uso de docetaxel é uma estratégia de tratamento que visa a procrastinar o uso da quimioterapia tradicional, poupando temporariamente o doente da ocorrência dos paraefeitos citotóxicos dela decorrentes.
+A abiraterona é capaz de aumentar a sobrevida global  tempo total de vida  de doentes em cerca de 4 meses e a sobrevida livre de progressão  tempo em que a doença se mantém relativa e provisoriamente estacionada  em cerca de 2 meses.
+Seu emprego no contexto ora apreciado encontra adequado respaldo da literatura médica internacional, especializada e atualizada." (destaquei)
+Daí, concluo que o tratamento pleiteado, embora também seja indicado para o caso do autor, não se evidencia imprescindível, havendo tratamentos alternativos de eficácia comprovada cientificamente, que ainda não foram ministrados ao paciente e que já se encontram no rol dos recursos disponibilizados pela rede pública, devendo, como recomendado no julgado supramencionado, ser priorizadas as opções da Administração Pública.
+Portanto, forçoso reconhecer ter havido nulidade do julgamento dos aclaratórios que não saneou a omissão quanto à premissa da tese vinculante desta Corte de que, para concessão pelo Poder Público de medicamentos não incorporados ao SUS, deve ser demonstrada tanto sua imprescindibilidade (ou, ao menos, necessidade) quanto a ineficácia das alternativas disponíveis na rede pública.
+Nos termos do julgado vinculante :
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ESTADO DO RIO DE JANEIRO. RECURSO ESPECIAL JULGADO SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS. TEMA 106. OBRIGATORIEDADE DO PODER PÚBLICO DE FORNECER MEDICAMENTOS NÃO INCORPORADOS EM ATOS NORMATIVOS DO SUS. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VÍCIOS. NECESSIDADE DE ESCLARECIMENTO. VEDAÇÃO DE FORNECIMENTO DE MEDICAMENTO PARA USO OFF LABEL.
+ ..
+TESE FIXADA: A tese fixada no julgamento repetitivo passa a ser: A concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos: i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; ii) incapacidade financeira de arcar com o custo do medicamento prescrito; iii) existência de registro do medicamento na ANVISA, observados os usos autorizados pela agência.
+Modula-se os efeitos do presente repetitivo de forma que os requisitos acima elencados sejam exigidos de forma cumulativa somente quanto aos processos distribuídos a partir da data da publicação do acórdão embargado, ou seja, 4/5/2018.
+(EDcl no REsp n. 1.657.156/RJ, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 12/9/2018, DJe de 21/9/2018.)
+Isso posto, conheço do agravo para dar provimento ao recurso especial para determinar o reenvio do feito à origem, de modo que se proceda a novo julgamento dos aclaratórios, com saneamento do vício ora apontado.
+Intimem-se.
+EMENTA
