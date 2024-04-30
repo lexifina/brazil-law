@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fl. 572):
+AGRAVO DE INSTRUMENTO - REVISIONAL DE CONTRATO - FINANCIAMENTO IMOBILIÁRIO - ENTIDADE DE PREVIDÊNCIA PRIVADA (PREVI) - DESPACHO SANEADOR NULIDADE DA DECISÃO AGRAVADA POR DEFICIÊNCIA DE FUNDAMENTAÇÃO - AFASTAMENTO - NULIDADE DA DECISÃO POR VIOLAÇÃO DA NÃO SURPRESA E INOBSERVÂNCIA DO PRINCÍPIO DO CONTRADITÓRIO - OCORRÊNCIA - CAUSA MADURA - CÓDIGO DE DEFESA DO CONSUMIDOR - INAPLICABILIDADE - PRESCRIÇÃO - RECONHECIMENTO DA VINTENÁRIA, NESTE CASO ESPECÍFICO, PARA A MATÉRIA RELATIVA AO FUNDO DE DIREITO, CONTANDO O PRAZO A PARTIR DO VENCIMENTO DA ÚLTIMA PARCELA, E DA TRIENAL PARA REPETIÇÃO DE INDÉBITO, CONTADO O PRAZO DO AJUIZAMENTO DA AÇÃO.
+1.A fundamentação sucinta, quando suficiente para embasar a decisão, não acarreta a sua nulidade.
+2.Nos termos do art. artigo 927,§1º, antes de decidir com fundamento em decisão com efeito vinculante, deve ser oportunizado às partes manifestação sobre a matéria.
+3.Sendo a matéria exclusivamente de direito, e tendo as partes deduzido seus argumentos perante esta instância recursal, é possível a aplicação analógica da teoria da causa madura (art. 1.013, §3º, CPC) no julgamento de Agravo de Instrumento para analisar a aplicabilidade do precedente vinculante.
+4.Conforme o enunciado da Súmula 563 do STJ, "O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.", entendimento este que se estende aos contratos de financiamento celebrados por tais entidades, que não podem ser equiparadas às financeiras, por não possuírem fins lucrativo.
+5. Consoante o entendimento do col. Superior Tribunal de Justiça, para obrigações de trato sucessivo, o termo inicial para o cômputo do prazo prescricional do fundo de direito é a data de vencimento estabelecida no contrato ou o dia do vencimento da última parcela.
+6. Considerando que o contrato foi assinado sob a égide do Código Civil de 1916, e observando a incidência da regra de transição do art. 2028 do Código vigente, o prazo prescricional para a pretensão de revisão de cláusulas contratuais, no caso em tela, é de 20 anos.
+7. A pretensão de repetição do indébito se funda no enriquecimento sem causa da entidade que cobrou valores indevidos, estando sujeita à prescrição trienal do art. 206, §3º, IV, do CC/02, pelo que se impõe o reconhecimento da prescrição em relação às parcelas pagas até três anos antes do ajuizamento da ação.
+Os embargos de declaração opostos pelas partes foram rejeitados (e-STJ fls. 618/625 e 651/663).
+Em suas razões (e-STJ fls. 764/791), a parte aponta dissídio jurisprudencial a respeito da interpretação dos arts. 205 e 206, §3º, IV, do CC, sustentando, em síntese, ser de 10 (dez) anos o prazo prescricional aplicável à pretensão de repetição de indébito decorrente de relação contratual.
+Contrarrazões apresentadas (e-STJ fls. 855/864).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Quanto à prescrição, a jurisprudência desta Corte Superior se consolidou no sentido de que, na ação de repetição por cobrança indevida, havendo relação contratual prévia, na qual se discute a legitimidade da cobrança, sendo subsidiária a ação de enriquecimento sem causa, aplica-se a regra geral do art. 205 do CC/2002, que prevê o prazo prescricional de 10 (dez) anos. Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DE CONTRIBUIÇÕES INDEVIDAS. PRESCRIÇÃO DECENAL. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA ATUAL. SÚMULA 168/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos - artigo 205 do Código Civil -, seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica" (AgInt nos EREsp n. 1.710.251/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 20/5/2022.)".
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168, CORTE ESPECIAL, DJ 22/10/1996, p. 40503).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.802.644/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 20/9/2022, DJe de 26/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. PRESCRIÇÃO. PRAZO DECENAL. JURISPRUDÊNCIA ATUAL. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos (art. 205 do Código Civil), seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica. Precedentes. (AgInt nos EREsp n.º 1.881.207/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, j. 14/6/2022, DJe de 17/6/2022).
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 1.834.189/SP, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 30/8/2022, DJe de 1/9/2022.)
+Portanto, impõe-se o reconhecimento da prescrição da pretensão de ressarcimento apenas das parcelas pagas até 10 (dez) anos da data do ajuizamento da ação.
+Ante o exposto, DOU PROVIMENTO ao recurso para reconhecer a prescrição decenal da pretensão de repetição do indébito.
+Publique-se e intimem-se.
+ EMENTA
