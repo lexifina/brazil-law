@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  SAMUEL GOMES DOS SANTOS contra  decisão  que  inadmitiu  recurso  especial  manejado  em  face  de  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Informam os autos que o ora agravante foi condenado, pelo Tribunal do Júri, à pena de 18 (dezoito) anos de reclusão, em regime inicial fechado, em razão da prática do delito previsto no artigo 121, § 2º, incisos I, III e IV, na forma do art. 29, ambos do Código Penal (fls. 65-66 e 67-82).
+Após o trânsito em julgado da condenação, ajuizou o agravante revisão criminal perante o Tribunal a quo, a qual foi indeferida, à unanimidade de votos (fls.  118-132).
+No  recurso  especial  (fls.  273-282),  interposto  com  fulcro  no  artigo  105,  inciso  III,  alínea  a,  da  Constituição  Federal,  a Defesa  alegou a violação ao art. 197 do CPP, sob argumento de que a condenação do insurgente deve ser desconstituída, pois foi baseada, exclusivamente, no depoimento de uma testemunha protegida que não esteve presente no local dos fatos, a qual relatou que teria ouvido do insurgente uma confissão informal do delito, elementos que não são admitidos pelo ordenamento jurídico como aptos a amparar uma sentença penal condenatória.
+Pleiteou, portanto,  o  conhecimento  e  provimento  do  recurso especial a fim de reconhecer a vulneração do dispositivo de lei indicado como violado, reformando-se o acórdão recorrido.
+Apresentadas  as  contrarrazões  (fls. 155-162),  sobreveio  juízo  negativo  de  admissibilidade  fundado na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório (fl. 165).
+Nas  razões  do  agravo em recurso especial,  postula o agravante  o  processamento  do  recurso  especial,  haja vista o cumprimento dos requisitos necessários à sua admissão  (fls.  168-172).  O  Ministério  Público  Federal  apresentou  manifestação  pelo  não conhecimento e desprovimento do agravo em recurso especial  (fls.  193-196).
+É  o  relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o recurso especial foi inadmitido pelo Tribunal a quo em virtude da aplicação da Súmula n. 7/STJ.
+No caso, verifico que a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Com efeito, ao tentar infirmar a incidência do óbice da Súmula n. 7/STJ, a parte limitou-se a afirmar o que segue (fls. 170-172, grifei):
+"III - DO CABIMENTO
+Ao contrário do que arguira o douto desembargador, o Recurso Especial em tela não tenciona a mera análise probatória.
+O objetivo é debater questões de cunho eminentemente jurídico, relacionadas a prova testemunhal que violara texto expresso da lei processual penal, a saber, o art. 197 do Código de Processo Penal.
+O Recurso tem por cerne a questão de que nenhuma das testemunhas reconheceu qualquer dos réus, e a única prova que dá suporte à versão condenatória é ilícita, eis que contrária ao texto expresso da lei penal, o qual rechaça a confissão como único elemento probatório (art. 197 do CPP), bem como assevera serem inadmissíveis, devendo ser desentranhadas do processo, as provas ilícitas, assim entendidas as obtidas em violação a normas constitucionais ou legais.
+Não há, ainda, que se falar em menção a contrariedade à Constituição Federal, quando em verdade os dispositivos da legislação federal são expressamente apontados no Recurso Especial.
+Por oportuno, destaco que este Colendo Superior Tribunal de Justiça, tem diversos julgados no sentido de que é possível a revaloração do material fático probatório constante no corpo do feito criminal, sem que haja, todavia, violação ao disposto no Enunciado Sumular nº 07 da referida Corte.
+ ..
+Na hipótese dos presentes autos, verifica-se ser plenamente possível a revaloração dos fatos incontroversos delineados pelas instâncias de origem, fatos já postos, bem como a discussão, meramente jurídica.
+Repise-se: é permitida a revaloração do conjunto probatório, procedimento que se consubstancia na releitura dos fatos/provas plasmados no Acórdão atacado."
+Contudo, no que se refere ao óbice da Súmula n. 7/STJ, deveria a parte agravante ter demonstrado a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não ocorreu, in casu, tendo em vista que a defesa limitou-se a aduzir, genericamente, que a análise do pleito defensivo prescindiria de reexame das provas e a reiterar as teses jurídicas já apresentadas no recurso especial.
+Sobre o tema, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
