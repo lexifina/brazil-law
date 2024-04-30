@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCAS PEDRO MACEDO SANTOS em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 46-57).
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente.
+Aponta ausência de fundamentação para segregação cautelar.
+Sustenta ofensa ao princípio da homogeneidade.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta supostamente perpetrada, haja vista a quantidade de droga apreendida, no contexto da traficância, consistente em (157,04 gramas de cocaína e 71,2 gramas de maconha).
+No ponto, consta no acórdão hostilizado:
+"Segundo consta, no dia 11.03.2024, policiais militares em patrulhamento de rotina pela Rua Alagoas, altura do nº 400,município de Jundiaí, conhecido ponto de tráfico de drogas, avistaram LUCAS retirando objetos em um matagal e repassando a outros indivíduos em típica conduta de tráfico de entorpecentes. Ao abordarem o paciente, ele indagou aos policiais "e aí, o que vai aí ". Em buscas no local, localizaram R$ 250,00 em espécie, além de substâncias consistentes em 71,2 g de maconha e 157,04 g de cocaína (massa líquida), devidamente fracionadas e embaladas.
+ ..
+É certo que o conceito de ordem pública é vago, existindo discussão a respeito dos seus contornos. Mas seja qual for a orientação adotada, não se nega que o crime supostamente perpetrado pelo paciente, embora não tenha sido cometido com violência ou grave ameaça à pessoa, é delito de extrema gravidade e, por si só, está a indicar a periculosidade do agente, e o risco de reiteração criminosa, de modo a justificar a segregação cautelar, sendo assim o único instrumento apto a interromper a sequência delitiva e garantia de ordem pública." (fls. 49-50).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"A prisão preventiva está devidamente justificada, diante da gravidade da conduta, pois o agravante foi flagrado na posse de 79 porções de cocaína, pesando 143,5 gramas, mais o valor de R$ 829,00" (AgRg no HC n. 711.524/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, julgado em 8/2/2022, DJe de 15/2/2022.)
+"Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do Agravante acarretaria risco à ordem pública, pela gravidade concreta da conduta consistente no envolvimento com tráfico de drogas, tendo em vista a "quantidade e a variedade dos entorpecentes apreendidos (117,19g de cocaína, 139,29g de maconha, e 1,08g de MDA", circunstâncias que indicam a probabilidade de repetição de condutas tidas por delituosas e revela a indispensabilidade da imposição da segregação cautelar" (AgRg no HC n. 760.036/SP, Quinta Turma, de minha relatoria, DJe de 22/2/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos auto s elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Quanto à alegação de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados. A jurisprudência desta Corte se firmou no sentido de que:
+"O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual" (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022).
+Ante o exposto, denego a ordem.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
