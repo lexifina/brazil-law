@@ -1,0 +1,91 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5032221-41.2023.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DEPARTAMENTO ESTADUAL DE TRANSITO DO ESPIRITO SANTO
+RECORRIDO: GEYSA JORDAO GONCALVES
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nº
+5032221-41.2023.8.08.0035
+
+Recorrente: DEPARTAMENTO ESTADUAL DE TRANSITO DO ESPIRITO SANTO
+
+Recorrido: GEYSA JORDAO GONCALVES
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. DETRAN/ES. AÇÃO ANULATÓRIA. PROCEDIMENTO ADMINISTRATIVO COM PENALIDADE DE
+SUSPENSÃO
+
+DO DIREITO DE
+DIRIGIR. AUSENTE ENVIO DE NOTIFICAÇÃO PRÉVIA DO AUTO DE INFRAÇÃO.
+ÓRGÃO AUTUADOR DETRAN/ES
+. SENTENÇA
+A QUO
+QUE DECLAROU A NULIDADE DO
+AUTO DE INFRAÇÃO E O CANCELAMENTO DO
+PROCESSO ADMINISTRATIVO, SOB O FUNDAMENTO QUE NÃO FOI OPORTUNIZADO O CONTRADITÓRIO E A AMPLA DEFESA ADMINISTRATIVA.
+INFRAÇÃO DE TRÂNSITO QUE
+RESULTA
+EM SUSPENSÃO DO DIREITO DE DIRIGIR DEVE SER
+DIRECIONADA
+AO CONDUTOR E NÃO APENAS AO PROPRIETÁRIO. RECONHECIMENTO PELO RECORRENTE DE SUBSUNÇÃO
+DO CASO
+AO DISPOSTO NO ART. 265, CTN (
+Art. 265. As
+penalidades de suspensão do direito de dirigir
+e de cassação do documento de habilitação serão aplicadas por decisão fundamentada da autoridade de trânsito competente, em processo administrativo, assegurado ao
+infrator
+
+amplo direito de defesa
+).
+AUSENTE DEMONSTRAÇÃO DE ENVIO DE NOTIFICAÇÃO À RECORRIDA, QUE ERA A CONDUTORA E SUPOSTA INFRATORA. TENTATIVAS DE NOTIFICAÇÃO DO PROPRIETÁRIO QUE NÃO VALIDA O PROCEDIMENTO.
+NOS TERMOS DA SÚMULA 312 DO SUPERIOR TRIBUNAL DE JUSTIÇA, “
+NO PROCESSO ADMINISTRATIVO PARA A IMPOSIÇÃO DE MULTA DE TRÂNSITO, SÃO NECESSÁRIAS AS NOTIFICAÇÕES DE AUTUAÇÃO E DA APLICAÇÃO DA PENA DECORRENTE DA INFRAÇÃO”
+. É CLARA E PACÍFICA, PORTANTO, A NECESSIDADE DA DUPLA NOTIFICAÇÃO QUANTO À AUTUAÇÃO E QUANTO À PENALIDADE APLICADA PARA QUE O PROCEDIMENTO TENHA SEU TRÂMITE REGULAR. NO CASO, O RECORRENTE NÃO TEM PROVAS DE QUE HOUVE O ENVIO DA NOTIFICAÇÃO, MAS
+DIZ
+QUE O VÍCIO NÃO INVALIDARIA TODO O PROCEDIMENTO. RECONHECIDO O DESCUMPRIMENTO DO ARTIGO 265, PARTE FINAL, DO CÓDIGO DE TRÂNSITO, RELATIVO À OBRIGATORIEDADE DE OPORTUNIZAR O AMPLO DIREITO DE DEFESA AO SUPOSTO INFRATOR, AINDA NA FASE DO AUTO DE INFRAÇÃO, RESTOU COMPROMETIDO TODO O PROCEDIMENTO INSTAURADO POSTERIORMENTE. PORÉM, A NULIDADE DO
+AIT E O CANCELAMENTO DO
+PROCESSO NÃO T
+Ê
+M O CONDÃO DE INVIABILIZAR A NOVA APURAÇÃO DOS FATOS E A IMPOSIÇÃO DE PENALIDADE, MAS TÃO SOMENTE IMPLICA A NECESSIDADE DE ABERTURA DE NOVO PROCEDIMENTO ADMINISTRATIVO, COM OBSERVÂNCIA DOS DITAMES LEGAIS E REGULAMENTARES, MORMENTE EM RELAÇÃO À NOTIFICAÇÃO PARA DEFESA.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+1
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO OU, NÃO HAVENDO, SOBRE VALOR ATUALIZADO DA CAUSA” (ART. 55, 2ª PARTE, DA LEI 9.099/95). SEM CUSTAS, EM RAZÃO DE PREVISÃO LEGAL.
+
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
