@@ -1,0 +1,21 @@
+DECISÃO
+RAFAEL CATUSSO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que negou provimento à Correição Parcial n. 5037786-38.2023.4.04.0000/PR, interposta contra decisão que determinou o desmembramento do Processo n. 5012739-48.2022.4.04.7000.
+A defesa pretende, por meio deste writ, seja reconhecida "a nulidade do processo originário nº 5012739-48.2022.4.04.7000, desde a audiência de instrução e julgamento do dia 03.10.2023, para que as testemunhas de defesa e os interrogatórios ocorram simultaneamente com a instrução do processo desmembrado (nº 5050306-16.2022.4.04.7000), e que o julgamento também ocorra em conjunto com aquele processo" (fl. 23).
+Registra, em apertada síntese, que a situação fático-jurídica se alterou, porque tanto o paciente quanto o corréu Murilo foram soltos, "de modo que a realização de instruções em distintas datas, ou a manutenção do desmembramento - sem o seu fundamento - traduz-se em inegável prejuízo às partes" (fl. 6).
+A liminar foi indeferida.
+Depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+O Tribunal de origem salientou que, "considerando a complexidade do feito e a faculdade disposta no art. 80 do CPP, foi determinada a separação dos processos, sem que a parte tenha se insurgido contra tal providência. Cumpre destacar que a lei processual não determina que, cessada alguma das causas que determinou o desmembramento, haja a nova reunião dos processos cindidos" (fl. 196).
+Ademais, pelos documentos constantes dos autos, verifico que o desmembramento do feito foi determinado justamente para garantir a celeridade na tramitação do processo, haja vista a extensão dos fatos delituosos narrados na denúncia, o grande número de denunciados, a quantidade de réus citados por edital e a existência de réus presos.
+Em acréscimo, não há como se olvidar que, conforme bem salientado pelo Tribunal de origem, " n o caso em exame,  ..  a nova reunião dos processos anteriormente desmembrados é que poderá causar tumulto processual, considerando que se encontram em fases diversas, como apontado pelo próprio corrigente. Tal medida apenas determinaria o prolongamento indevido do andamento processual, o que vai de encontro com o próprio escopo do instituto da conexão processual" (fl. 196).
+Nesse sentido, menciono o seguinte julgado desta Corte:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO CARCINOMA. CRIMES MILITARES. CORRUPÇÃO PASSIVA. PECULATO. FRAUDE À LICITAÇÃO. PLEITO DE UNIFICAÇÃO DOS PROCESSOS. ALEGADA CONEXÃO E CONTINÊNCIA. IMPOSSIBILIDADE. EXCESSIVO NÚMERO DE RÉUS. FASES PROCESSUAIS DISTINTAS. CONSTRANGIMENTO ILEGAL AFASTADO.
+1. O dispositivo do art. 106, alíneas b e c, do Código de Processo Penal Militar faculta ao juiz a separação dos processos quando for excessivo o número de acusados, para não lhes prolongar a prisão, e quando ocorrer qualquer outro motivo que ele próprio repute relevante.
+2. Tendo em vista o elevado número de acusados, de testemunhas e o diferente momento processual das ações penais, reputa-se conveniente manter a separação dos feitos criminais para não ocasionar tumulto processual desnecessário, prejudicando o exercício da ampla defesa e do contraditório de quem não figure no polo passivo das duas ações penais.
+3. A fim de se garantir a premissa constitucional da celeridade e razoável duração do processo, sem perder de vista a efetividade da jurisdição e a exequibilidade da persecução criminal, não se acolhe, no caso, o pleito de unificação dos processos. Precedentes desta Corte.
+4. Recurso ordinário em habeas corpus improvido.
+(RHC n. 71.488/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 28/9/2018).
+Por fim, mas não menos importante, esclareço que, conforme constou da ata de audiência que indeferiu o pedido de reunião dos processos (fl. 169), caso a defesa do paciente queira, poderá se habilitar no processo principal como terceiro interessado, circunstância que reforça, ainda mais, não haver razões para que a audiência de instrução seja realizada conjuntamente com a do feito principal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
