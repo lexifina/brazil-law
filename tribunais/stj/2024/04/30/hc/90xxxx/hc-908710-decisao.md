@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública em favor de LUCAS DA PAZ FORTUNATO contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, no julgamento da apelação criminal n. 0002455-29.2020.8.17.0990.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, pela prática do delito previsto no art. 155, § 4º, inciso I, do Código Penal (CP), à pena privativa de liberdade de 4 (quatro) anos e 2 (dois) meses de reclusão, a ser cumprida inicialmente em regime fechado, e ao pagamento de 140 (cento e quarenta) dias-multa (fls. 230-233).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do acórdão de fls. 295-303.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na negativa de afastamento da análise desfavorável das consequências do crime, bem como recusa de compensação integral entre a atenuante da confissão e a agravante da reincidência.
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para " ..  reformar a pena-base do paciente na 1ª fase afastando-se as consequências do crime, além de na 2ª fase se adotar mais uma vez o entendimento do STJ em que as circunstâncias da reincidência e da confissão devem ser integralmente compensadas. (fl. 10).
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração o afastamento da análise desfavorável da circunstância judicial das consequências do crime, bem como a compensação integral entre a atenuante da confissão e a agravante da reincidência.
+A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves, DJU de 11/4/2005).
+Inicialmente, conforme disposto na decisão ora impugnada, reputo como válida a negativação das consequências do delito, notadamente pelo expressivo valor subtraído, aliado ao fato de não ter sido restituído à vítima (fl. 299).
+Nesse sentido, em recentes julgados, assim se pronunciaram ambas as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. PENA-BASE ACIMA DO PISO LEGAL. CONSEQUÊNCIAS DO CRIME. VÉICULO AUTOMOTOR. ELEVADO PREJUÍZO. AUMENTO PROPORCIONAL DA PENA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. As consequências do crime consistem no conjunto de efeitos danosos provocados pelo crime. Em concreto, as instâncias ordinárias concluíram que o crime causou à vítima grandes avarias materiais, haja vista o elevado valor do bem subtraído, consistente em um veículo Hyundai/HB20, o que ultrapassa largamente a perda patrimonial ordinariamente esperada para um crime de roubo.
+ ..
+5. Habeas corpus não conhecido." (HC n. 444.181/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/6/2018 - grifo nosso).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ROUBO. PENA-BASE. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. ASSALTO A RESIDÊNCIA. CRIME COMETIDO DURANTE INDULTO NATALINO. REINCIDÊNCIA. MOTIVAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior entende que a prática do roubo a residência, em concurso de agentes, configura circunstância reveladora de gravidade acentuada.
+2. Admite-se a exasperação da pena-base pela valoração negativa das consequências do delito com base no valor do prejuízo sofrido pela vítima.
+3. Agravo regimental não provido." (AgRg no REsp n. 1.728.124/RO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 6/6/2018 - grifo nosso).
+Por fim, quanto à compensação, em recente julgamento para a revisão do tema repetitivo n. 585 (REsp n. 1.931.145/SP, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 24/6/2022), a 3ª Seção do STJ fixou a tese: "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade" (destaquei).
+Assim, em atenção ao sistema de precedentes qualificados e à orientação desta Corte Superior, não identifico irregularidades na decisão do Tribunal de origem que manteve a compensação proporcional entre a circunstância atenuante da confissão e as duas anotações configuradoras de reincidência (multirreincidência) ostentada pelo paciente (e-STJ fls. 300-301).
+Portanto, na espécie, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se, assim, manifestamente improcedente.
+Ante exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
