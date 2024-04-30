@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (fl. 778):
+I - JUÍZO DE RETRATAÇÃO. REMESSA DO FEITO PELA PRIMEIRA VICE-PRESIDÊNCIA DESTE TRIBUNAL, A FIM DE POSSIBILITAR O JUÍZO DE RETRATAÇÃO. ARTIGO 1.030 II, CPC/2015. II- APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ICMS. SENTENÇA QUE EXTINGUIU A EXECUÇÃO FISCAL PELA ILEGITIMIDADE PASSIVA DA SOCIEDADE EMPRESÁRIA. III - ALEGAÇÃO DE QUE A EMPRESA SUCESSORA É LEGÍTIMA PARA FIGURAR NO POLO PASSIVO DA EXECUÇÃO. IV- PRÉVIA COMUNICAÇÃO AO FISCO. DEVER DA EXEQUENTE ATUAR COM MÍNIMO DE DILIGÊNCIA PARA EVITAR O EQUÍVOCO NA INDICAÇÃO DO DEVEDOR NO TÍTULO EXECUTIVO. V - REANÁLISE DE ACORDO COM A ORIENTAÇÃO DO STJ NO JULGAMENTO DOS RECURSOS ESPECIAIS REPETITIVOS Nº REsp 1848993/SP E REsp 1856403/SP (TEMA 1049). VI- RETRATAÇÃO EXERCIDA.
+Os Embargos de Declaração opostos pela empresa foram providos nestes termos (fl. 820):
+I- EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE EXISTÊNCIA DE ERRO MATERIAL. OCORRÊNCIA.
+II- ALEGAÇÃO DE OMISSÃO QUANTO A MAJORAÇÃO DA VERBA HONORÁRIA COM BASE NO ART. 85, §11 DO CPC. ACOLHIMENTO.
+VERBA HONORÁRIA MAJORADA DE 10% PARA 12%.
+III- RECURSO PROVIDO.
+Já os A claratórios do ente público não foram acolhidos (fl. 878):
+I - EMBARGOS DE DECLARAÇÃO. - EMBARGOS À EXECUÇÃO. ICMS. OCORRÊNCIA DE SUCESSÃO EMPRESARIAL. ENFRENTAMENTO DA QUESTÃO RELATIVA À ILEGITIMIDADE PASSIVA.
+II - INEXISTÊNCIA OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NA DECISÃO EMBARGADA. PRETENSÃO MERAMENTE MODIFICATIVA, QUE DEVE SER OBJETO DE RECURSO PRÓPRIO.
+III - RECURSO NÃO PROVIDO.
+O Estado do Paraná alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 1.022, II e III, do CPC e 132 do CTN. Afirma que houve negativa de prestação jurisdicional. Aduz a inaplicabilidade do Tema 1.049/STJ, sob o argumento de que o fato gerador do ilícito fiscal, gerador da dívida executada, aconteceu antes da incorporação da empresa Hidromel pela Ferragens Negrão. Sustenta, em suma (fls. 893-904):
+Trata-se de embargos à execução fiscal ao final julgados procedentes por meio de juízo de retratação, com a declaração de ilegitimidade passiva da recorrida para responder à execução fiscal.
+(..)
+Preambularmente, como visto acima, houve contrariedade ao artigo 1.022, incisos II e III do Código de Processo Civil porque, não obstante os embargos de declaração opostos pelo Estado do Paraná, que denunciaram a presença de omissão quanto ao ponto de o fato gerador do ilícito fiscal, gerador da dívida executada, haver acontecido antes da incorporação da empresa Hidromel pela Ferragens Negrão, o respectivo acordão passou ao largo da questão, consolidando omissão e, concomitantemente, erro de premissa fática relevante para o deslinde da causa. Por conta disto, o julgamento há de ser anulado, com o retorno dos autos ao Tribunal de Justiça do Paraná para que outro julgamento seja realizado, desta vez com pronunciamento acerca da referida tese do Estado do Paraná.
+Para além disto, desde que considerado oportuno desde logo o julgamento do mérito nesta sede recursal, há de ser compreendida a equivocada aplicação da Tese relacionada ao Tema 1.049 do Superior Tribunal de Justiça. Tudo porque o entendimento previsto no acórdão não está apoiado na realidade.
+Ainda que a execução tenha sido ajuizada contra a empresa incorporada - Hidromel Hidráulica e Elétrica Ltda - e depois de sua incorporação pela Ferragens Negrão Comercial Ltda, o Estado tem o direito de redirecioná-la à empresa incorporadora. Assim poderá fazê-lo porque os fatos geradores da dívida aconteceram entre janeiro de 1.999 e julho de 2.000, ou seja, antes da incorporação.
+(..)
+Contrarrazões apresentadas às fls. 932-942.
+Decisão de admissibilidade às fls. 1.017-1.020.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.4.2024.
+Assiste razão à parte quanto à alegação de violação do art. 1.022 do CPC.
+Em Embargos de Declaração, o recorrente requereu a manifestação acerca do seguinte ponto (fls. 832-838):
+2 Omissões e Erro material (erro de premissa fática). CTN, artigos 123 e 132. Sucessão automática.
+Com todo respeito, há no acórdão omissão sobre tema indispensável à solução do caso concreto e que altera a conclusão do julgamento: aplicação dos artigos 123 e 132 do Código Tributário Nacional e a distinção do caso concreto que afasta o Tema 1.049 do STJ.
+É incontroverso nos autos que o auto de infração se refere a fatos geradores anteriores à incorporação empresarial. E que na data da lavratura do auto de infração não havia ocorrido a incorporação empresarial. Desta forma, há uma distinção em relação à aplicação do Tema 1.049 e que altera a conclusão do julgamento. Conforme está expresso na Tese 1.049, ela se aplica a fatos geradores posteriores à incorporação:
+(..)
+No caso concreto, não há controvérsia de que os fatos geradores são anteriores à incorporação empresarial. E assim admite expressamente a empresa apelada/embargada, na manifestação de mov. 58.1. De outro lado, na data dos fatos geradores não havia se consolidado a incorporação.
+Nas razões da apelação e na manifestação de mov. 57.1, o Estado fez esta distinção que afasta a aplicação direta do Tema 1.049 e impõe a aplicação dos artigos 123 e 132 do Código Tributário Nacional. O auto de infração foi lavrado em face da incorporada (HIDROMEL) e refere-se a operações de transferência indevida de créditos de ICMS acumulados sobre telecomunicações e energia elétrica no período de janeiro/99 a julho/2000. Portanto, o fato gerador ocorreu antes da data da incorporação e antes da data de qualquer comunicação ao Fisco.
+E mais, o que é gravíssimo, referida transferência de créditos irregular foi realizada pela incorporada (HIDROMEL) em favor da incorporadora (FERRAGENS NEGRÃO) em nota fiscal emitida em setembro/2000 (pouco antes da comunicação do negócio jurídico-incorporação). Esta é a nota fiscal que demonstra os fatos geradores da obrigação tributária:
+(..)
+É esta a omissão do acórdão: aqui não se trata de substituição do sujeito passivo, mas imposição automática de responsabilidade tributária, conforme determina o art. 132 do CTN. Incorporada e incorporadora realizaram a operação recíproca de transferência indevida de créditos de ICMS. Incorporadora assume o passivo imediatamente.
+Para além disso, conforme o Estado do Paraná argumentou na apelação, a defesa no processo administrativo foi protocolizada por HIDROMEL (mov. 41.1, p. 7). A operação irregular de transferência de créditos de ICMS foi realizada pela incorporada em favor da incorporadora. É incontroversa esta premissa. A empresa incorporadora, na mov. 45.1, p. 6, transcreve, inclusive, a infração tributária de transferência de créditos de ICMS sem a comprovação de sua origem, pela incorporada à incorporadora.
+E, assim, é inafastável que a operação de transferência indevida de créditos envolvia tanto a INCORPORADA como a INCORPORADORA, sendo absolutamente irrelevante que no lançamento tenha constando apenas a empresa HIDROMEL. O lançamento poderia ter sido lavrado em face da qualquer das denominações, pois a pessoa jurídica continua existindo sob outra "roupagem institucional." Aliás, no ambiente do processo administrativo, a empresa HIDROMEL compareceu para apresentar a reclamação (pág. 6; mov. 41.1).
+Conforme estabelece o art. 132 a incorporadora é responsável pelos tributos devidos até a data do ato da incorporação: "A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até à data do ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas.
+(..)
+Desta forma, é possível o redirecionamento da execução fiscal à pessoa da incorporadora porque se trata de imposição automática da responsabilidade da sucessora/incorporadora, sem a necessidade de substituição ou emenda da CDA, razão pela o Estado do Paraná seja integrado o acórdão com os fundamentos para deixar de aplicar os artigos 123 e 132 do Código Tributário Nacional.
+(..)
+A Corte a quo, contudo, manteve-se silente quanto à questão. É cediço o entendimento de que a solução integral da lide, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. O juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, não pode deixar de conhecer de matéria relevante ao esclarecimento do dissídio, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos EDcl. Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+(..)
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ.
+(..)
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta. (AREsp 1.465.390/GO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 2/3/2021)
+Diante do exposto, dou parcial provimento ao Recurso Especial e determino o retorno dos autos à origem para que, em novo julgamento dos Embargos de Declaração, o Tribunal a quo se manifeste expressamente acerca do ponto omisso: inaplicabilidade do Tema 1.049/STJ, tendo em vista que os fatos geradores da dívida teriam ocorrido antes da incorporação empresarial.
+O Agravo do particular às fls. 680-695 está prejudicado, ante a decisão de fls. 724-726.
+Publique-se.
+Intimem-se.
+EMENTA
