@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. CREA. ATIVIDADE BÁSICA. PREPARAÇÃO DE PRODUTOS DE CARNE. REGISTRO. INEXIGIBILIDADE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 1º, 7º, 27, 33, 59 e 60 da Lei n. 5.194/1966; e do art. 1º da Lei n. 6.839/1980, no que concerne à necessidade de se reconhecer que a atividade básica desenvolvida pela recorrida se enquadra dentre aquelas afetas à fiscalização do CREA contidas nas Resolução/CONFEA nº 218/1973 e nº 417/1998, referindo-se especificamente à área de engenharia química (alimentos), trazendo a seguinte argumentação:
+O acórdão do E. TRF da 4ª Região, ao dar provimento ao recurso de apelação, negou vigência e afrontou disposições infraconstitucionais, podendo assim se resumir o objeto da insurgência: violação dos dispositivos elencados nos artigos 1º, 7º, 27, 33, 59 e 60 da Lei 5.194/66, artigo 1º da lei 6.839/80.
+ ..
+Como cediço, o ordenamento jurídico brasileiro prevê, a partir da Lei Federal nº 5.194/66, a necessidade de registro de empresas que desempenhem atividades sujeitas à fiscalização do CREAPR, bem como aplicação de multa para quem incidir nesta situação de ilegalidade, senão vejamos:
+ ..
+Nesse passo, com base no contrato social da recorrente resta claro que a finalidade da empresa recorrida guarda pertinência com a engenharia.
+Assim, considerando que o art. 7º da Lei nº 5.194/66 refere-se às atividades profissionais do engenheiro e do engenheiro agrônomo, em termos genéricos, o Conselho Federal de Engenharia e Agronomia (CONFEA), a esse respeito, editou a Resolução nº 218/73, que discrimina atividades das diferentes modalidades profissionais da Engenharia e Agronomia, usando das atribuições que lhe conferem as letras "d" e "f", parágrafo único do artigo 27 da Lei nº 5.194, de 24 dezembro 1966, bem como considerando a necessidade de discriminar atividades das diferentes modalidades profissionais da Engenharia e Agronomia em nível superior e em nível médio, para fins da fiscalização de seu exercício profissional, e atendendo ao disposto na alínea "b" do art. 6º e parágrafo único do art. 84 da Lei nº 5.194/66:
+ ..
+Ademais, mencionem-se os dispositivos da Lei nº 5.194/66 que determinam a observância das resoluções do CONFEA:
+ ..
+Logo, a legislação aplicável não deixa margem para dúvidas quanto à atribuição dos profissionais da engenharia para a execução de serviços praticados pela recorrida.
+Portanto, o CREA-PR, dentro de toda a hierarquia administrativa existente no âmbito da Administração Pública tem a obrigação legal de cumprir as resoluções baixadas pelo CONFEA. Mais que isso, tem a obrigação legal e constitucional de cumprir suas funções institucionais, com vistas a tutelar toda a sociedade, que é, em última análise, a legitimadora dos atos fiscalizatórios no exercício regular do poder de polícia.
+Assim, a partir dos artigos 6º, 59 e 60 da Lei nº 5.194/66 mencionados, mostra- se plenamente exigível o registro da empresa recorrida perante o CREA-PR, já que as atividades desenvolvidas pela empresa referem-se à área de engenharia eletrônica.
+No tocante à atividade básica da empresa, a Lei 6.839/80 - que dispõe sobre o registro de empresas nas entidades fiscalizadoras do exercício de profissões - expressa o seguinte:
+ ..
+Portanto, no caso em apreço, a recorrida está obrigada a registrar-se neste Conselho, seja em razão da sua atividade básica, a qual é da Engenharia Química (Alimentos), seja em razão da prestação de serviços a terceiros, nos termos do supracitado dispositivo legal.
+Quando a lei menciona "atividade básica", logicamente estabelece um parâmetro que deverá ser aferido caso a caso, de modo a contemplar efetivamente a atividade desenvolvida, a fim de que não sobrevenham prejuízos não só para a empresa, mas principalmente para todos aqueles que possam ser afetados direta ou indiretamente pela existência e atuação da empresa, bem como pelos serviços que serão por ela prestados, ou seja, a sociedade.
+ ..
+No caso em análise, pode-se observar que o objeto social da empresa recorrida, assim como os serviços por ela prestados a terceiros, contemplam atividades afetas à fiscalização deste Conselho:
+O puro e simples confronto das atividades básicas da recorrida com o contido na Resolução/CONFEA nº 218/1973 permite a conclusão de que a exigência do CREA- PR é plenamente legal.
+ ..
+E Resolução/CONFEA nº 417/1998 permite a conclusão de que a exigência do CREA-PR é plenamente legal.
+(fls. 252-258).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.524.223/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.552.802/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020; AgInt no REsp 1.652.475/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º/3/2019; AgInt no REsp 1.724.930/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2018; AgInt no AREsp 1.133.843/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/3/2018; REsp 1.673.298/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2017.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Cotejando os artigos 6º, 7º, 8º e 59 da Lei nº 5.194/66 - que regula o exercício das profissões de engenheiro e engenheiro-agrônomo - , o artigo 1º da Lei nº 6.839/80 - que trata do registro de empresas e a anotação dos profissionais legalmente habilitados nas entidades competentes para fiscalização do exercício das diversas profissões -, e as atividades desempenhadas pela empresa autora - fabricação e preparação de produtos de carne -, não há vinculação com as atividades inerentes às profissões fiscalizadas pelo Conselho, não se justificando a exigência de registro e responsável técnico perante o CREA. (fls. 213).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
