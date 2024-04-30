@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por LUZIA MARIA DE OLIVEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA cuja ementa guarda os seguintes termos (fls. 271-272):
+Apelação Cível. Embargos à execução de título extrajudicial. Cédula Rural Hipotecária. Ilegitimidade passiva. Cerceamento de defesa. Preliminares afastadas. Dívida contraída por procurador e curador. Validade. Nulidade.
+Inexistente. Penhora. Pequena propriedade rural. Bem de família. Pedido alternativo acolhido. Recurso parcialmente provido.
+Pela Teoria da Asserção, as condições da ação, aí incluída a legitimidade passiva, devem ser aferidas com base nas afirmações deduzidas na inicial, motivo pelo qual, ultrapassada essa cognição sumária, ao analisar de forma profunda as alegações do réu, se tem, na verdade, uma análise sobre o mérito da controvérsia.
+Nos embargos à execução, ao juiz é facultado julgar imediatamente o pedido, nos termos do art. 920, II, do CPC, de modo que, não há cerceamento de defesa quando a produção de prova documental foi suficiente para o deslinde da questão.
+A cédula de crédito rural foi assinada por terceiro, que agiu em nome da embargante, munido de procuração pública regularmente outorgada, contendo poderes específicos que também era seu curador à época e por isso, o banco agiu dentro dos limites exigidos pela lei. Assim, havendo liberação do valor emprestado, com anuência do seu procurador e curador, inexiste nulidade a ser reconhecida, sob pena de enriquecimento ilícito.
+Deve ser reconhecida a impenhorabilidade do bem de família em relação à pequena propriedade rural da apelante, amparada no princípio da dignidade humana e em nome da preservação de um patrimônio jurídico mínimo, pouco importando a gravação do bem em hipoteca. Precedentes STF.
+Rejeitados os embargos de declaração opostos (fls. 298-301).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia. Afirma que "o Tribunal, mesmo lançando no relatório da decisão de embargos a intenção e o pedido da Recorrente, não avaliou a situação posta em análise, que é conferir que o negócio entabulado entre a Recorrente e o Recorrido não foi firmado tendo o filho da Recorrente como procurador e curador, mas somente como procurador, e nessa situação, havia cessado os poderes pela interdição da Recorrente, havendo então, demonstração inequívoca que o contrato é nulo" (fls. 505-506).
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 682, II, e 1.741, ambos do Código Civil. Sustenta que "faltou ao Tribunal avaliar questões importantes que poderiam guiar para o convencimento de que apesar do filho da Recorrente ser procurador e curador, fez o contrato na condição de procurador, quando já havia cessado o mandato pela interdição da Recorrente, e portanto, é nulo o negócio entabulado." (fl. 508).
+Foram oferecidas contrarrazões ao recurso especial (fls. 517-539).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 613-616), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 661-680).
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da detida análise dos autos, merece guarida a alegação de afronta ao art. 1.022 do CPC.
+Consoante se infere dos autos, o recorrente manejou embargos à execução, com pedido de efeito suspensivo, visando a extinção da execução em razão da ilegitimidade da ora embargante para figurar no pólo passivo da execução.
+O Juízo de primeira instância julgou improcedentes os embargos à execução.
+Ao julgar a apelação, o Tribunal de origem deu-lhe parcial provimento para reconhecer a impenhorabilidade do bem de família em relação à pequena propriedade rural da ora agravante, amparada no princípio da dignidade humana e em nome da preservação de um patrimônio jurídico mínimo.
+Com efeito, observa-se que o Tribunal de origem, ao abordar a questão da regularidade do negócio jurídico entabulado entre o filho da agravante e o banco, deixou de analisar as alegações oportunamente suscitadas pelo recorrente quando da interposição da apelação, quais sejam: para ter sido realizado o contrato de empréstimo em nome da Apelante através do seu curador, haveria de ser precedida de autorização judicial, nos termos do art. 1.741 do Código Civil, bem como a violação do art. 166 do Código Civil, visto que o Tribunal não teria observado que a apelante se tornou incapaz de exercer os atos da vida civil desde 27/06/2014, antes, portanto, do empréstimo.
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, inciso II, do CPC, e em face da questões suscitadas, tenho como necessário o debate acerca de tais pontos.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
