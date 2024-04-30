@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS REZENDE ALAVAER e OUTROS contra a decisão que inadmitiu o seu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo Interno - Natureza de recurso - Artigos 994, III e 1021 do CPC - Interposto o recurso, se devolve ao órgão fracionado o conhecimento de todas as matérias objeto do recurso principal - Interposição do recurso e sua apreciação que implica superação do princípio da colegialidade - STF RE nº 634.595.
+Julgamento monocrático - Análise do recurso pelo Relator Inteligência do art. 932 do CPC (art. 557, do CPC/73) - Possibilidade - Ausência de ofensa aos princípios do contraditório e da ampla defesa e ausência de violação ao principio da colegialidade - Observância dos princípios da celeridade processual e presteza jurisdicional Artigo 253 do RITJ/SP e Precedentes jurisprudenciais AgInt no AREsp 1.299.735/SP e 1.630.561/SP.
+Execução em Cumprimento de Sentença - Ação Civil Pública - Caderneta de poupança Expurgos inflacionários - Verba honorária - Adequação da decisão que fixa essa verba quando da rejeição de impugnação para sua adequação à decisão vinculante do STJ (REsp n. 1.134.186/RS - artigo 543-C do CPC/73), em face da inobservância pelo Juízo de Primeiro Grau, da regra que fixa os honorários tão logo seja despachada a inicial - Artigo 652-A, do CPC, atual art. 827, do CPC - Possibilidade - Interpretação da natureza da remuneração e observância da incidência, uma única vez, dos honorários em benefício do credor, na fase de cumprimento de sentença, pela regra de causalidade - CPC/73, art.20.
+Verba honorária - Cumprimento de sentença - Ação Civil Pública - Base de cálculo dos honorários advocatícios que corresponde ao quantum debeatur apurado nos autos da execução, e não à pretensão inicial da parte, quando minorada em razão de exclusão de encargos não devidos.
+Recurso não provido" (fl. 148 e-STJ).
+Os embargos de declaração foram rejeitados (fl. 212 e-STJ).
+Nas razões do recurso especial, os recorrentes sustentam, além de divergência jurisprudencial, violação aos artigos 502, 505, 507, 508, e 1022, II do CPC. Defendem, em síntese, "a impossibilidade de alteração de decisão transitada em julgada, em respeito ao instituto da coisa julgada e ao instituto da preclusão consumativa" (fl. 292 e-STJ).
+Contrarrazões às fls. 316/318 (e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Quanto à apontada violação do art. 1.022 do Código de Processo Civil, não se vislumbra a ausência de fundamentação.
+No caso dos autos, o tribunal local consignou:
+"Contudo, como no caso o Juízo de Primeiro Grau não observou a regra do artigo 652-A, do CPC/73, atual art. 827 do CPC, "Ao despachar a inicial, o juiz fixará, de plano, os honorários de advogado a serem pagos pelo executado(art. 20, § 4º)", tão só o fazendo quando da rejeição da Impugnação, houve o ajustamento dessa decisão, conforme anteriormente decidido nesta Instância nos autos do agravo de instrumento nº 2184239-86.2015.8.26.0000, mediante regra de interpretação, para sua adequação a decisão vinculante do STJ (REsp n. 1.134.186/RS), em cumprimento a regra do artigo 543-C do CPC/73, reconhecida para tanto a natureza da remuneração e observância da incidência, uma única vez, dos honorários em benefício do credor, na fase de cumprimento de sentença, pela regra de causalidade.
+Com efeito, conquanto se tenha reconhecido a incidência da verba honorária no procedimento de Execução em Cumprimento de Sentença - Ação Civil Pública - Caderneta de Poupança - Expurgos Inflacionários, referidos honorários devem incidir sobre o quantum debeatur, que corresponde ao proveito econômico obtido pelo exequente. É evidente que, se o valor da pretensão inicial não corresponder ao quanto efetivamente devido pelo executado, e sendo o quantum debeatur devidamente apurado ao longo da tramitação processual, de rigor a base de cálculo dos honorários advocatícios corresponderá ao valor apurado do débito, e não à pretensão inicial da parte, ou ao valor atribuído inicialmente à causa, especialmente quando minorada em face da exclusão de parcelas não devidas.
+Neste sentido, adequada r. decisão agravada, até porque, como observado pelo d. juízo a quo, "Os honorários advocatícios são estipulados em 10% do valor da execução, nos tremos  termos  do art. 5823  523  do CPC, ocorre que se o valor executado pela parte autora estava além do valor devido, isto, logicamente, influirá no valor dos honorários advocatícios que devem ser de 10% sobre o proveito econômico da execução, e não sobre a pretensão inicial da parte."" (fl. 151 e-STJ)
+Assim, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MORAIS. INDENIZAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. OFENSA. INEXISTÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CARÊNCIA DA AÇÃO. PRECLUSÃO CONSUMATIVA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. ATO ILÍCITO. CONDUTA CRIMINOSA. IMPUTAÇÃO. OFENSA À HONRA. DANO MORAL CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ESTATUTO DA OAB. IMUNIDADE PROFISSIONAL RELATIVA. LEGALIDADE E RAZOABILIDADE. DIREITOS DA PERSONALIDADE. VIOLAÇÃO. NÃO ABRANGÊNCIA.
+(..)
+4. Não viola os arts. 489, § 1º, II, e 1.022, I e II, do Código de Processo Civil nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+(..)
+8. Agravo interno não provido." (AgInt no REsp 1.879.141/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/4/2021, DJe 16/4/2021).
+Ademais, rever os fundamentos do acórdão recorrido encontra óbice na Súmula nº 7/STJ.
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
