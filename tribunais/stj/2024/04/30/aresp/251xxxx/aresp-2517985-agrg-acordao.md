@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Na hipótese dos autos, a condenação foi lastreada no depoimento de uma das vítimas, em sede policial, corroborado pelos depoimentos da outra vítima e dos policiais militares prestados em juízo.
+2. Nesse contexto, a alteração das conclusões alcançadas no acórdão impugnado, com o fim de acolher a tese defensiva, exigiria o reexame fático-probatório dos autos, providência inviável em sede de recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental improvido.
+RELATÓRIO
+Bruno Rocha Machado interpõe agravo regimental contra a decisão, de minha lavra, cuja ementa transcrevo (fl. 943):
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITO ABSOLUTÓRIO. AUTORIA E MATERIALIDADE DELITIVAS COMPROVADAS. CONJUNTO PROBATÓRIO SUFICIENTE PARA A CONDENAÇÃO. REEXAME. VEDAÇÃO. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
+Contesta a defesa, em suma, a incidência da Súmula 7/STJ, aduzindo que, tanto no Recurso Especial quanto no Agravo em Recurso Especial o ora agravante apresentou ampla fundamentação jurídica, diga-se, jurisprudência recentíssima deste STJ, demonstrando que é possível a superação da Súmula 7 deste STJ, pois aceita-se a revaloração das provas, principalmente quando é latente o erro in judicando (fl. 958).
+Assevera que o erro está pelo fato de que  ..  há cabais contradições nos depoimentos das vítimas e dois Policiais Militares que figuraram como testemunhas, e que, além disso, durante a lavratura do flagrante um menor de idade foi ouvido como testemunha, sem haver prova de que a curadora assinou o seu depoimento, e este em juízo negou a versão dada na Delegacia, dentre outras latente (fl. 958).
+Requer, ao final, seja o presente regimental julgado e provido para que o Recurso Especial seja totalmente provido (fl. 959).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Na hipótese dos autos, a condenação foi lastreada no depoimento de uma das vítimas, em sede policial, corroborado pelos depoimentos da outra vítima e dos policiais militares prestados em juízo.
+2. Nesse contexto, a alteração das conclusões alcançadas no acórdão impugnado, com o fim de acolher a tese defensiva, exigiria o reexame fático-probatório dos autos, providência inviável em sede de recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental improvido.
+VOTO
+Não merece acolhida a pretensão do agravante.
+Não obstante os esforços perpetrados pela defesa, não verifico fundamentos suficientes para infirmar a decisão agravada.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Conforme assinalei na decisão ora agravada, o Tribunal de origem, soberano na análise das provas, concluiu que a materialidade e autoria delitivas restaram suficientemente comprovadas pelos elementos probatórios colhidos nos autos (fl. 429). Veja-se o que consta do acórdão recorrido (fls. 429/432 - grifo nosso):
+ ..  Relativamente ao crime de roubo majorado, cumpre salientar que a materialidade e autoria delitivas restaram suficientemente comprovadas pelos elementos probatórios colhidos nos autos, merecendo destaque o Auto de Prisão em Flagrante (id. 36390937, fl. 02), o Auto de Exibição e Apreensão (id. 36390937, fl. 07), o Auto de Reconhecimento (id. 36390937, fl. 12), o Auto de Entrega (id. 36390937, fl. 13), e as declarações judiciais da vítima Tales Quarterole Rocha - transcritas no édito condenatório e reproduzidas a seguir:
+"QUE; não se lembra de muita coisa, porque faz mais ou menos dois anos né, Vai fazer agora em agosto agente estava lá em Porto Seguro indo para uma viagem né, que era o Energe (um evento nacional de empresários juniores) QUE; é um congresso, a gente ficou numa casa lá o assalto ocorreu dentro dessa circunstancias depois do evento a gente ficou nessa casa, a gente foi fazer um passeio turístico mesmo, ai quando a gente estava voltando a gente ficou nesse ponto de ônibus por um certo tempo até porque a gente estava esperando outro grupo de amigos chegar tinha umas dez pessoas no ponto, era um ponto em frente ao Mc Donald"s, ai a gente estava esperando o grupo de amigos, ai teve um certo momento que parou uma moto em frente ao ponto de ônibus e desceu uma pessoa para assaltar a gente, só que eu não sei diferenciar qual foi, QUE; a moto parou e encostou ai desceu uma pessoa da garupa para poder assaltar, no caso nesse ponto de ônibus a outra testemunha o Bruno tava num canto direito na visão Mc Donald"s, QUE; não sabe quem desceu da moto, QUE; começaram o assalto da direita para esquerda que amigo foi o primeiro a ser assaltado e depois que ele correu todo mundo que tava na minha esquerda correu, só sobrou eu, QUE; então quando eu fui ameaçado parecia ser uma arma de fogo, QUE; quando subtraíram meu celular parecia ser uma arma de fogo e entreguei o celular, a carteira eu joguei para trás do banco, ai depois terminou o assalto eu fui andando encontrar o restante do grupo, QUE; alguns deixaram o celular no chão, e saíram correndo que eram as pessoas que tavam comigo, acho que tem dois pontos de ônibus ali, QUE; a maioria foi correndo para longe de onde ocorreu o assalto, QUE; depois do assalto a gente encontrou nosso outro grupo de amigos, ai eu tava em um pouco de estado de choque, QUE; encontram uns taxistas foram para a delegacia, QUE; fez o reconhecimento dos assaltantes em uma sala com vidro espelhado, ai colocaram os dois lá pra gente poder reconhecer eu e meu amigo Bruno, QUE não se recorda de ter dúvidas em reconhecer os assaltantes; no dia se recorda de ter prestado atenção na camisa do assaltante que era de algum time de futebol, dizendo que foi isso que chamou atenção; QUE não se lembra dos assaltantes usando capacete." Vítima: Tales Quarterole Rocha
+Quanto à vítima Bruno Guimarães Arivabene, embora não tenha sido localizada para ser ouvida em juízo, na fase inquisitiva, narra os fatos constantes na denúncia de forma uníssona ao quanto relatado judicialmente por Thales, reconhecendo o réu Bruno como o rapaz que conduzia a moto.
+Como cediço, nos delitos patrimoniais, a palavra da vítima assume relevante valor probatório, até porque foi ela quem interagiu diretamente com o autor do crime e vivenciou os fatos, razão pela qual pode narrá-los com maior clareza e riqueza de detalhes, carecendo do interesse de, falsamente, acusar inocentes.
+Não há que se falar em insuficiência de provas para a condenação. In casu, como visto, as declarações do ofendido são sólidas e coerentes, tendo ele descrito, detalhadamente, o desenrolar dos fatos. Outrossim, não se vislumbra, na espécie, qualquer circunstância que comprometa a credibilidade das declarações da vítima ou indício a justificar, por parte dela, falsas acusações.
+Sobre o tema, colaciona-se o seguinte aresto:
+ ..
+Digno de registro, ainda, o depoimento dos policiais militares, transcritos em sentença. Veja-se:
+ ..
+Nesse viés, verifica-se que os testemunhos dos policiais se apresentam coesos, não se vislumbrando nos seus relatos nenhum indício de que tenham prestado depoimentos falsos a respeito dos fatos, com intenção de prejudicar o Sentenciado. Oportuno registrar que a simples qualidade de policial não afasta a credibilidade dos testemunhos veiculados, mormente quando se apresentam coerentes com os demais elementos e circunstâncias colhidos dos autos, e quando oferecidos em Juízo, sendo oportunizado o contraditório.
+A respeito do tema:
+ ..
+Nesse horizonte, confira-se excerto do Parecer Ministerial (id. 41753741):
+ ..
+Por conseguinte, o acervo probatório mostra-se suficiente para a manutenção do édito condenatório.  ..
+Lastreada a condenação no depoimento de uma das vítimas, em sede policial (fl. 430), corroborado pelos depoimentos da outra vítima e dos policiais militares prestados em juízo (fls. 429/431), é indubitável que a pretensão da defesa não é de revaloração das provas, mas de análise do seu conteúdo, mostrando-se correta a aplicação da Súmula 7/STJ.
+Além dos precedentes anteriormente citados, veja-se mais este:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PENA-BASE, EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA E PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova aptos a manter a condenação do envolvido pelo delit o do art. 157, §2º, incisos I, II e III, do CP. Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+ ..
+8. Agravo regimental não provido.
+(AgRg no AREsp n. 2.324.309/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/9/2023).
+Em face da ausência de qualquer elemento capaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente recurso.
+À vista d o exposto, nego provimento ao agravo regimental.
