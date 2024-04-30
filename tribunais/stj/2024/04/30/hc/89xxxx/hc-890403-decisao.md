@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental no habeas corpus interposto SANDRO CAVALCANTE contra decisão monocrática da lavra do Ministro TEODORO SILVA SANTOS, então relator dos autos, que conheceu parcialmente do writ e, nessa extensão, denegou a ordem de habeas corpus (fls. 42-46).
+Em suas razões, o Agravante reitera as teses da petição inicial de que faz jus a indulto natalino e de que a sua prisão preventiva é ilegítima, além de agregar outras alegações como a ocorrência de superlotação dos presídios e a desproporcionalidade da imposição da medida extrema custódia (fls. 48-54).
+Pugna pela reconsideração da decisão agravada ou, caso assim não se entenda, a apreciação do agravo regimental pela Sexta Turma do Superior Tribunal de Justiça, com o provimento do recurso e a concessão da ordem pleiteada.
+A Defesa protocolou a Petição n. 130.976/2024 (fls. 65-70) por intermédio da qual juntou atestado comprobatório de comportamento carcerário do ora Agravante.
+Em 11/04/2024, os presentes autos foram distribuídos à minha relatoria, conforme certidão de fl. 80.
+É o relatório.
+Decido.
+De início, pontuo que promovi consulta ao site da Corte de origem e pude constatar que nos autos da Ação Penal em comento (Ação Penal n. 1502305-72.2023.8.26.0616), o Juízo de primeiro grau prolatou sentença condenando o ora Agravante à pena de 02 (dois) anos, 4 (quatro) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 12 (doze) dias-multa, pelo cometimento do crime do art. 155, § 4.º, inciso IV, do Código Penal, sendo-lhe negado o direito de recorrer em liberdade.
+Pois bem. Como supramencionado, a prisão cautelar do Agravante, atualmente, decorre de novo título judicial, decisão exarada pelo Juízo de primeiro grau, em consonância com o que determina o § 1.º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012 ("O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta"), razão pela qual fica prejudicada a análise do anterior decreto prisional impugnado nesta impetração.
+A propósito, o Supremo Tribunal Federal, por maioria de votos, assentou o entendimento de que "a sentença condenatória superveniente, ainda que não lance mão de fundamentos induvidosamente autônomos e diversos da ordem prisional originária, prejudica a impetração voltada à impugnação do decreto segregatório inicialmente atacado, a ensejar o não conhecimento da impetração. Tal cenário, contudo, não impede o exame da excepcional concessão da ordem de ofício, o que exige configuração de ilegalidade flagrante ou manifesta teratologia" (HC 143.333, Relator EDSON FACHIN, Tribunal Pleno, julgado em 12/04/2018, DJe de 21/03/2019).
+Desse modo, evidencia-se a perda superveniente do interesse do presente habeas corpus.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
