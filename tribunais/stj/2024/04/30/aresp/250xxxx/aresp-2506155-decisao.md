@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por MAURÍCIO DAL AGNOL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. MANDATOS. FASE DE CUMPRIMENTOPROVISÓRIO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. POSSIBILIDADE.
+As particularidades com caso, em especial o fato de os valores buscados pelo agravado decorrerem de prejuízos financeiros causados pelo agravante no exercício do mandato, autorizam a excepcional relativização da impenhorabilidade do art. 833, inc. IV, do CPC no caso.
+RECURSO DESPROVIDO" (fl. 285, e-STJ).
+No recurso especial, a recorrente alega a violação dos artigos 85, § 14, 489, §1º, II, e 833, IV, do Código de Processo Civil de 2015.
+De início, aduz que "há obscuridade na decisão quando afirma que o patrimônio do Recorrente mantém seu sustento, posto que bens móveis e imóveis não podem ser alienados para garantir o sustento dos indivíduos conforme fora alegado e demonstrado nas contrarrazões ao presente recurso" (fl. 313, e-STJ).
+Além disso, sustenta a impenhorabilidade dos honorários advocatícios diante da sua natureza alimentar.
+Sem contrarrazões às fls. 551 (e-STJ).
+O recurso não foi admitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à violação do art. 489 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese nos seguintes termos:
+"O caso envolve fase de cumprimento de sentença, na qual o agravado busca a satisfação de crédito decorrente da condenação ao pagamento da indenização pela má prestação do serviço de advocacia, que, na data do ajuizamento da ação, em abril de 2021,totalizava R$9.474.120,00.
+Portanto, inobstante o art. 833, inc. IV, do CPC disponha que os vencimentos são impenhoráveis, e o crédito constrito decorra de honorários advocatícios, o caso em análise apresenta particularidades importantes, pois os valores buscados pelo agravado decorrem de prejuízos financeiros causados pelo agravante no exercício do mandato, havendo estreita relação entre o crédito buscado e a atividade profissional.
+Como a execução é norteada pelo interesse do credor e o agravante locupletou-se às custas do ex-cliente, é caso de autorizar a excepcional relativização da impenhorabilidade da verba alimentar no caso, a fim de permitir a constrição de honorários advocatícios para pagamento de dívida de origem comum, o que não configura violação ao art. 85, §14, do CPC ou à Súmula Vinculante nº 47 do STF.
+(..)
+Ademais, ausente comprovação de que a penhora inviabiliza a sobrevivência do executado, não tendo o agravante trazido elementos concretos capazes de modificar esse entendimento ou justificar a necessidade de garantia de 50 salários-mínimos ou limitação da penhora.
+Agora se há outros bens passíveis de penhora, cabia ao agravante indicá-los nos autos, o que não foi feito, logo, essa tese não passa de mera alegação.
+Também não é possível atestar que os bens já bloqueados na ação cautelar sejam suficientes para garantir o crédito, especialmente considerando a grande quantidade de clientes lesados pelo agravante que estão buscando ressarcimento judicial; e a existência de dívidas com a Fazenda Pública, que detém preferência no recebimento dos créditos" (fls. 283/284 e-STJ).
+Não há falar, portanto, em existência de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. ART. 489, § 1º, DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. NÃO OCORRÊNCIA. (..)
+1. Não há falar em omissão existente no acórdão quando o Tribunal local julga integralmente a lide, apenas não adotando a tese defendida pelos recorrentea. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Afasta-se a tese de fundamentação deficiente do aresto combatido (art. 489, § 1º, III, IV e VI, do CPC/2015), pois esta Corte Superior possui precedente de que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.649.443/RO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/9/2017, DJe 29/9/2017 - grifou-se).
+No caso, o Tribunal de origem manteve a penhora que recaiu sobre honorários advocatícios, com base nos seguintes fundamentos:
+"O caso envolve fase de cumprimento de sentença, na qual o agravado busca a satisfação de crédito decorrente da condenação ao pagamento da indenização pela má prestação do serviço de advocacia, que, na data do ajuizamento da ação, em abril de 2021,totalizava R$9.474.120,00.
+Portanto, inobstante o art. 833, inc. IV, do CPC disponha que os vencimentos são impenhoráveis, e o crédito constrito decorra de honorários advocatícios, o caso em análise apresenta particularidades importantes, pois os valores buscados pelo agravado decorrem de prejuízos financeiros causados pelo agravante no exercício do mandato, havendo estreita relação entre o crédito buscado e a atividade profissional.
+Como a execução é norteada pelo interesse do credor e o agravante locupletou-se às custas do ex-cliente, é caso de autorizar a excepcional relativização da impenhorabilidade da verba alimentar no caso, a fim de permitir a constrição de honorários advocatícios para pagamento de dívida de origem comum, o que não configura violação ao art. 85, §14, do CPC ou à Súmula Vinculante nº 47 do STF.
+(..)
+Ademais, ausente comprovação de que a penhora inviabiliza a sobrevivência do executado, não tendo o agravante trazido elementos concretos capazes de modificar esse entendimento ou justificar a necessidade de garantia de 50 salários-mínimos ou limitação da penhora" (fl. 283 , e-STJ).
+De fato, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 56 8/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+A propósito:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. IMPENHORABILIDADE. EXCEÇÕES. INTERPRETAÇÃO RESTRITIVA.
+1- Recurso especial interposto em 17/8/2021 e concluso ao gabinete em 11/4/2022.
+2- O propósito recursal consiste em dizer se é possível excepcionar a regra da impenhorabilidade dos honorários advocatícios para permitir o pagamento de dívida oriunda da apropriação indevida pelo advogado de valores de titularidade do cliente.
+3- Nos termos do art. 85, § 14 e do art. 833, inciso IV, ambos do Código de Processo Civil, por possuírem natureza alimentar, os honorários advocatícios são, em regra, impenhoráveis, de modo que eventuais exceções devem ser interpretadas restritivamente.
+4- Para excepcionar a regra da impenhorabilidade dos honorários advocatícios não é suficiente a constatação de que houve a apropriação, pelo advogado, de valores de titularidade do cliente, sendo indispensável perquirir a natureza jurídica de tais verbas.
+5- Se os valores apropriados indevidamente pelo advogado - e que deverão ser restituídos - possuírem natureza de prestação alimentícia, é possível, nos termos do § 2º do art. 833 do CPC/15 e da jurisprudência pacífica desta Corte Superior, a penhora de honorários advocatícios para a satisfação da dívida.
+6- É inviável a penhora de verba honorária se os valores apropriados indevidamente pelo causídico possuírem simples natureza alimentar - e não de prestação alimentícia - ou se possuírem qualquer outra natureza, devendo prevalecer, em princípio, a regra gral da impenhorabilidade dos honorários prevista no art. 833, inciso IV, do CPC.
+7- É possível a penhora dos honorários, independentemente da natureza dos valores retidos pelo advogado, desde que se preserve percentual capaz de garantir a subsistência e a dignidade do devedor e de sua família, o que deve ser examinado de acordo com as peculiaridades de cada hipótese concreta.
+8- Na hipótese, tendo em vista que, de acordo com o arcabouço fático delineado pelo Tribunal a quo, a penhora dos honorários foi efetivada resguardando-se percentual capaz de garantir a subsistência do devedor e de sua família não há que se falar em ilicitude da constrição, motivo pelo qual não merece reforma o acórdão recorrido.
+9- Recurso especial não provido" (REsp n. 1.991.123/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PEDIDO DE PENHORA DE HONORÁRIOS ADVOCATÍCIOS. REGRA GERAL: IMPENHORABILIDADE DE VERBAS COM NATUREZA ALIMENTAR. EXCEPCIONALMENTE, QUANDO FIXADO EM VALOR ELEVADO. EXCEÇÃO NÃO CONFIGURADA NO CASO CONCRETO.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+2. Os honorários advocatícios, tanto os contratuais quanto os sucumbenciais, tem natureza alimentar e destinam-se ao sustento do advogado e de sua família, portanto são insuscetíveis de penhora (art. 649, IV do CPC).
+3. "Todavia a regra disposta no art. 649, inciso IV, do CPC não pode ser interpretada de forma literal. Em determinadas circunstancias é possível a sua relativização, como ocorre nos casos em que os honorários advocatícios recebidos em montantes exorbitantes ultrapassam os valores que seriam considerados razoáveis para sustento próprio e de sua família. Nesses casos, a verba perde a sua natureza alimentar e a finalidade de sustento."
+(REsp 1264358/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 25/11/2014, DJe 05/12/2014). Em igual sentido: REsp 1356404/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 04/06/2013, DJe 23/08/2013 4. Verifica-se que no caso dos autos, o valor fixado a título de honorários advocatícios sobre o qual busca a Fazenda estadual a penhora não se encontra dentro da exceção que vem sendo admitida pelos julgados do STJ, na medida que trata-se de valor fixado dentro de limite razoável, com nítido caráter para prover o próprio sustento e da sua família, razão pela qual, na presente situação, há de ser reconhecida a impenhorabilidade dos honorários advocatícios.
+5. Agravo regimental não provido" (AgRg no REsp n. 1.557.137/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/10/2015, DJe de 9/11/2015.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
