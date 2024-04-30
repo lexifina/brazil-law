@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 24ª VARA CRIMINAL DO FORO CENTRAL CRIMINAL DE BARRA FUNDA - SP suscita conflito de competência, em processo penal, diante o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE MANHUAÇU - MG.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para o processo e julgamento de ação penal (Ação Penal 0002567-14.2024.8.26.0050) deflagrada pela suposta prática de tráfico interestadual de drogas.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 24ª Vara Criminal do Foro Central Criminal de Barra Funda - SP, ora suscitante (fls. 54-56).
+Decido.
+Como cediço, o tráfico de drogas, por se tratar de crime formal plurinuclear ou de condutas múltiplas, consuma-se com a prática de qualquer um de seus verbos, de modo que remetida a droga de um Estado para o outro, dentro do território nacional, o delito já está consumado, ainda que interceptada a droga sem que tenha chegado ao seu destino final.
+No caso, verifica-se caso típico de tráfico interestadual de drogas por via postal e, conforme já decidido no Conflito de Competência n. 147.802/MS, a competência é atribuída ao Juízo do local da postagem. Logo, a competência em relação às drogas enviadas de São Paulo - SP para Barreiras - BA, hipótese dos autos, deve ser fixada perante o Juízo suscitante.
+De fato, "no tráfico interestadual de drogas,  .. , é de se considerar como local da remessa do entorpecente o lugar da consumação do delito, nos termos do art. 70 do Código de Processo Penal, relevando-se a competência, inclusive, em favor da produção de provas e do desenvolvimento dos atos processuais" (CC n. 147.802/MS, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 13/10/2016).
+Precisas, portanto, as ponderações do Parquet Federal, quando assinalou: "essa Terceira Seção pacificou o entendimento de ser a competência, no caso de tráfico interestadual de entorpecentes, definida em conformidade com a regra do art. 70, CPP, competindo ao juízo do local da remessa das substâncias processar e julgar a ação penal por conta de em tal lugar ser consumado o crime, ainda que em outro tenha ocorrido a apreensão da mercadoria ilícita" (fl. 55).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 24ª Vara Criminal do Foro Central Criminal de Barra Funda - SP, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
