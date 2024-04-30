@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por Rohden Vidros Ltda. contra decisão denegatória de admissibilidade a recurso especial interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 394):
+PROCESSUAL CIVIL - AGRAVO DO § 1º DO ART. 557 DO CPC - DECISÃO MONOCRÁTICA - APELAÇÃO CÍVEL - PROVIMENTO - REFORMA DA SENTENÇA
+O §1º-A do art. 557 do Código de Processo Civil permite que o relator dê provimento ao recurso quando a sentença estiver em manifesto confronto com o entendimento dominante dos Tribunais Superiores.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 413/423).
+Foi determinada a devolução dos autos ao órgão colegiado para exercício do juízo de retratação com o Tema 176/STF, ocasião em que foi mantido o acórdão recorrido, nos termos da seguinte ementa (fl. 594):
+APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO (ARTIGO 1.040, INCISO II, DO CPC/15). MANDADO DE SEGURANÇA. DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO DA AUTORIDADE COATORA, PARA RECONHECER QUE "O ICMS NÃO INCIDE, APENAS E TÃO-SOMENTE, SOBRE O QUANTITATIVO DE "DEMANDA DE POTÊNCIA" CONTRATADA E NÃO UTILIZADA", BEM COMO ACOLHEU PARCIALMENTE A INSURGÊNCIA DA IMPETRANTE, RECONHECENDO O SEU DIREITO À COMPENSAÇÃO DO ICMS, RECOLHIDO A MAIOR. RETORNO DOS AUTOS, EM VIRTUDE DO JULGAMENTO DO TEMA 176. DECISÃO ANTERIOR, EM CONSONÂNCIA COM A JURISPRUDÊNCIA VIGENTE.
+"A demanda de potência elétrica não é passível, por si só, de tributação via ICMS, porquanto somente integram a base de cálculo desse imposto os valores referentes àquelas operações em que haja efetivo consumo de energia elétrica pelo consumidor" (TEMA 176 STF).
+"É indevida a incidência de ICMS sobre a parcela correspondente à demanda de potência elétrica contratada mas não utilizada" (TEMA 63 STJ).
+"O ICMS incide sobre o valor da tarifa de energia elétrica correspondente à demanda de potência efetivamente utilizada" (Súmula 391 STJ).
+"Incide ICMS tão somente sobre os valores referentes à energia elétrica consumida (kWh) e à demanda de potência efetivamente utilizada (kW), aferidas nos respectivos medidores, independentemente do quantitativo contratado" (Súmula 21 TJSC).
+JUÍZO DE RETRATAÇÃ O NEGATIVO.
+Opostos embargos declaratórios às fls. 621/626 e, novamente, às fls. 645/649, foram rejeitados (fls. 636/639 e fls. 659/662).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, §1º, IV e VI, 926, 927, III, 928, II, 1.022, II, e parágrafo único, I e II, e do CPC; 39, § 4º, da Lei 9.250/1995. Sustenta, em resumo: (I) "o Tribunal de fato foi omisso em relação ao entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE n. 593.824 (Tema 176)" (fl. 686); (II) "é evidente que o Tribunal a quo, ao decidir que "o ICMS não incide, apenas e tão somente, sobre o quantitativo de "demanda de potência" contratada e não utilizada" o fez em afronta ao entendimento da Corte Suprema, violando aquilo que determinam as normas dos arts. 926, 927, III, 928, II, e 1.040,II, do Código de Processo Civil. Portanto,  .. , em observância aos dispositivos processuais em comento, deve ser aplicado integralmente o Tema 176 do Supremo Tribunal Federal à presente demanda, reformando o acórdão recorrido para fins de reconhecer que é incabível a incidência do ICMS sobre os valores relativos à demanda de potência contratada, independentemente da sua efetiva utilização ou não" (fl. 693); (III) "deve ser reconhecido à recorrente o direito à atualização do crédito ora pleiteado com a aplicação da taxa SELIC, a partir do adimplemento indevido até seu efetivo aproveitamento" (fl. 695 ).
+Recurso extraordinário (fls. 456/468) admitido às fls. 785/788.
+Parecer do Ministério Público Federal às fls. 909/913, pelo conhecimento do agravo, com o parcial conhecimento do recurso especial e, na extensão conhecida, pelo seu não provimento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Nos termos do art. 1.031, § 2º, do CPC, é possível que o relator, neste STJ, entenda que a apreciação do recurso extraordinário se revela prejudicial à análise do recurso especial e, nesse caso, por decisão irrecorrível, remeta os autos à Suprema Corte para que julgue primeiro o apelo extraordinário.
+Na lição de Arruda Alvim, Araken de Assis e Eduardo Arruda Alvim, na sua obra Comentários ao Código de Processo Civil (2. ed, São Paulo: Editora Revista dos Tribunais, 2012, p. 1.255), "A prejudicialidade do julgamento do recurso extraordinário em face do especial depende do fato de o julgamento do extraordinário ser condição para o útil julgamento do recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. SOBRESTAMENTO DO RECURSO ESPECIAL NOS TERMOS DO ART. 1.031, § 2º, DO CPC/2015. DECISÃO IRRECORRÍVEL.
+1. A decisão recorrida determinou o sobrestamento do Recurso Especial interposto pela parte ora agravada, considerando que a questão de natureza constitucional é prejudicial ao julgamento deste feito. Assim, aplicou a regra prevista no art. 1.031, § 2º, do CPC/2015 e determinou a remessa dos autos ao STF, para julgamento do Agravo em Recurso Extraordinário.
+2. O agravante defende "(..) ainda que se entenda que há predominância de tema constitucional no acórdão recorrido, não se pode, apenas por isso, considerar prejudicial o recurso especial interposto. Isso porque ainda é possível que haja a análise da matéria infraconstitucional por este Tribunal".
+3. Nos termos do art. 1.031, § 2º, do CPC/2015, o decisum que sobresta o Recurso Especial, por considerar prejudicial o Recurso Extraordinário, é irrecorrível: "§ 2º Se o relator do recurso especial considerar prejudicial o recurso extraordinário, em decisão irrecorrível, sobrestará o julgamento e remeterá os autos ao Supremo Tribunal Federal".
+4. Agravo Interno não conhecido.
+(AgInt no REsp 1.819.011/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/11/2019)
+Tenho, salvo melhor juízo, que a hipótese dos autos subsome-se à norma em comento.
+A Suprema Corte afetou à sistemática da repercussão geral o Tema 176/STF - RE 593.824/SC , a saber, sobre a "Inclusão dos valores pagos a título de "demanda contratada" na base de cálculo do ICMS sobre operações envolvendo energia elétrica".
+Na hipótese em tela, não há dúvidas de que a questão jurídica suscitada no especial apelo mostra-se dependente da solução conferida pelo Excelso Pretório nos autos do referido Tema 176/STF.
+Assim, tenho que o recurso especial deve ser sobrestado (1.031, § 2º, do CPC), visto que a matéria objeto do extraordinário lhe é prejudicial.
+ANTE O EXPOSTO, julgo prejudicado o recurso e determino a remessa dos autos ao Supremo Tribunal Federal.
+Publique-se.
+EMENTA
