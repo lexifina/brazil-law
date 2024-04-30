@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2188, de 29 de abril de 2024
+Altera a Instrução Normativa RFB nº 2.005, de 29 de janeiro de 2021, para incluir a necessidade de informação relativa à contribuição social incidente sobre a modalidade lotérica denominada aposta de quota fixa na Declaração de Débitos e Créditos Tributários Federais (DCTF).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 29 e no § 9º e no inciso IV-A do § 1º-A do art. 30 da Lei nº 13.756, de 12 de dezembro de 2018, resolve:
