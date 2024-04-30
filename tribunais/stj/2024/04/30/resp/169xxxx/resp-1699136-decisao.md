@@ -1,0 +1,10 @@
+DECISÃO
+Em análise dos autos, verifico que a controvérsia devolvida ao conhecimento desta Corte Superior mediante o recurso especial em epígrafe foi julgada pela Suprema Corte sob o rito da repercussão geral, conforme os arts. 1.036 e seguintes do CPC/2015 (Tema 1.130), fixando a seguinte tese:
+Pertence ao Município, aos Estados e ao Distrito Federal a titularidade das receitas arrecadadas a título de imposto de renda retido na fonte incidente sobre valores pagos por eles, suas autarquias e fundações a pessoas físicas ou jurídicas contratadas para a prestação de bens ou serviços, conforme disposto nos arts. 158, I, e 15
+Nesse contexto, os recursos que tratam da mesma matéria neste Superior Tribunal de Justiça devem ser devolvidos ao Tribunal de origem, viabilizando, assim, o juízo de conformação, at ualmente disciplinado pelos art. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que exerça o juízo de conformação, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, a presente decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§9º e 10, inciso IV, do CPC, sendo que não será conhecido o eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas (arts. 1.021, § 4º, e 1.026, § 2º, do CPC).
+Intimem-se.
+EMENTA
