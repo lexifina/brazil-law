@@ -1,0 +1,11 @@
+ANEXO ÚNICO
+
+“ANEXO ÚNICO
+
+QUANTITATIVO
+
+VALOR (em R$)
+
+700
+
+R$ 2.506,52 (NR)
