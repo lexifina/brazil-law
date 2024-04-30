@@ -1,0 +1,76 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5007755-16.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RAQUEL FALK TOLEDO
+RECORRIDO: TRANSPORTES AEREOS PORTUGUESES SA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5007755-16.2023.8.08.0024
+
+Recorrente:
+RAQUEL FALK TOLEDO
+
+Recorrida:
+
+TRANSPORTES AEREOS PORTUGUESES SA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA/VOTO: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL.
+DIREITO DO CONSUMIDOR.
+AÇÃO DE REPARAÇÃO POR DANOS MORAIS.
+CONTRATO
+DE SERVIÇO
+DE TRANSPORTE AÉREO. VOO INTERNACIONAL. EXTRAVIO DE BAGAGENS NO RETORNO DA VIAGEM. AUTORA ALEGA QUE AO RETORNAR DE VIAGEM (PARIS/LISBOA/BELO HORIZONTE/VITÓRIA), NA ÚLTIMA CONEXÃO TEVE QUE DESPACHAR SUA BAGAGEM DE MÃO, CONTUDO AO CHEGAR NO DESTINO FINAL, SUA MALA NÃO FOI LOCALIZADA. AFIRMA QUE PERMANECEU 11 DIAS
+A ESPERA DE SEUS PERTENCES PESSOAIS. QUANDO RECEBEU SUA BAGAGEM, ESTAVA AVARIADA.
+
+SENTENÇA
+
+QUE JULGOU PROCEDENTES, EM PARTE, OS PEDIDOS CONSTANTES NA INICIAL PARA CONDENAR A RÉ
+NA QUANTIA DE
+R$ 1.000,00
+
+A TÍTULO DE DANOS MORAIS.
+RECURSO INOMINADO
+
+INTERPOSTO PELA AUTORA A FIM DE REFORMAR A SENTENÇA PARA MAJORAR O VALOR ARBITRADO PARA O MONTANTE DE R$ 5.000,00.
+CONTRARRAZÕES
+
+APRESENTADAS, REQUERENDO O INDEFERIMENTO DO RECURSO.
+EXTRAVIO DE BABAGEM DE MÃO. VALOR ARBITRADO A TÍTULO DE DANOS MORAIS (R$ 1.000,00). FALHA DA PRESTAÇÃO DO SERVIÇO CONFIGURADA. QUANTIA QUE DEVE SER MAJORADA PARA R$ 4.000,00 (QUATRO MIL REAIS). VALOR ADEQUADO À COMPENSAÇÃO DO DANO IMATERIAL, QUE NÃO DESTOA DA RAZOABILIDADE E PROPORCIONALIDADE, CONSIDERANDO OS PERCALÇOS VIVENCIADOS PELA CONSUMIDORA E A DEMORA EM SOLUCIONAR A QUESTÃO PELA EMPRESA RÉ.
+RECURSO CONHECIDO E PROVIDO EM PARTE.
+
+SENTENÇA REFORMADA
+PARA MAJORAR O VALOR DA CONDENAÇÃO EM DANOS MORAIS PARA O PATAMAR DE R$ 4.000,00 (QUATRO MIL REAIS). SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, POIS A RECORRENTE/AUTORA SAGROU-SE VENCEDORA NA INSTÂNCIA RECURSAL (ART. 55, DA LEI 9.099/95 E PEDIDO DE UNIFORMIZAÇÃO E INTERPRETAÇÃO DE LEI NOS AUTOS Nº 0000642-35.2017.808.9101, DISPONIBILIZADO NO EDIARIO EM 12/04/2018).
+
+É COMO VOTO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
