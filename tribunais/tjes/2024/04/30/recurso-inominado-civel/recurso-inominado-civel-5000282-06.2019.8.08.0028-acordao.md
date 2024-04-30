@@ -1,0 +1,91 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000282-06.2019.8.08.0028
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: ROGERIO GOMES MACHADO
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e não acolher os Embargos de Declaração, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5000282-06.2019.8.08.0028
+EMBARGANTE:
+EDP ESPIRITO SANTO DISTRIBUIDORA DE ENERGIA
+EMBARGADO:
+ROGERIO GOMES MACHADO
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA:
+JUIZADO ESPECIAL CÍVEL. EMBARGOS DE DECLARAÇÃO EM FACE DE DECISÃO COLEGIADA QUE CONHECEU E NÃO DEU PROVIMENTO AO RECURSO INOMINADO OUTRORA INTERPOSTO. ACLARATÓRIOS CONHECIDOS E NÃO PROVIDOS. SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS NO QUE SE REFERE AOS ACLARATÓRIOS.
+
+(1).
+Cuidam-se de embargos de declaração opostos pela parte ré em face de acórdão outrora proferido, o qual manteve, por seus próprios fundamentos, a sentença de piso.
+
+(2).
+O embargante aduz, em resumo, que o acórdão foi omisso na fixação dos honorários advocatícios sucumbenciais, pois deveria o percentual ser fixado sobre o
+valor do proveito econômico
+e não sobre o valor da causa a englobar o rejeitado pedido de dano moral.
+
+(3).
+No âmbito dos Juizados Especiais, o art. 48 da Lei 9.099/95 reza que caberão embargos de declaração contra sentença ou acórdão nos casos previstos no Código de Processo Civil. Sendo assim,
+na forma preconizada pelo art. 1.022 do CPC, a oposição de Embargos de Declaração é cabível quando a sentença ou acórdão restarem eivados dos vícios de omissão, contradição ou obscuridade, bem como para correção de erro material.
+
+(4).
+
+Na hipótese dos autos, destaca-se que a fixação de sucumbência no Microssistema dos Juizados Especiais segue o estipulado no art. 55 da Lei 9.099/95, que impõe ao vencido na seara recursal o pagamento das custas processuais, assim como os honorários de advogado, devendo a fixação destes ocorrer “
+entre dez por cento e vinte por cento do valor de condenação ou, não havendo condenação, do valor corrigido da causa
+”. Percebe-se,
+in casu
+, que a fixação dos honorários sucumbenciais de advogado seguiu rigorosamente a regra em comento.
+
+(5).
+Sobre o valor da causa, observa-se que não houve equívoco na sua atribuição, na medida em que a parte autora, ora embargada, observou as regras descritas no art. 292, do CPC. Isto porque, além do requerimento de inexigibilidade do débito proveniente do TOI, a parte autora também postulou valor indenizatório a título de danos morais. Sendo assim, a partir das regras do art. 292, do CPC, “
+o valor da causa constará da petição inicial [...] e será: II - na ação que tiver por objeto [...] a validade [...] de ato jurídico,
+o valor do ato
+ou o de sua parte controvertida; [...] V - na ação indenizatória, inclusive a fundada em dano moral, o
+valor pretendido
+; VI - na ação em que há cumulação de pedidos,
+a quantia correspondente à soma dos valores de todos eles
+” (grifos nossos).
+
+(6).
+Da conclusão.
+
+CONHECIDO E NÃO PROVIDO O RECURSO DE EMBARGOS DE DECLARAÇÃO
+. Mantido tanto o Acórdão, quanto à Sentença, por seus próprios fundamentos.
+
+(7).
+Sem custas processuais e honorários advocatícios sucumbenciais no que se refere aos embargos de declaração.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
