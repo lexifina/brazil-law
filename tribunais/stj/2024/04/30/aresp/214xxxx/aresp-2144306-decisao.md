@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por DELTON VIEIRA DA SILVA MARQUES e SÍLVIO FERREIRA DA SILVA contra decisão do Tribunal de Justiça do Estado de Goiás que não admitiu o recurso especial.
+Os agravantes foram condenados como incursos nas sanções previstas para os crimes tipificados nos arts. 171 (por cinco vezes), 288 e 304, c/c art. 69, todos do Código Penal, à pena de 11 anos e 3 (três) meses de reclusão, em regime inicial fechado (fl.1659).
+O Tribunal de origem deu parcial provimento ao recurso de apelação, aplicando a extinção da punibilidade pelo reconhecimento da prescrição da pretensão punitiva, na modalidade retroativa, do crime de associação criminosa. Para o agravante Delton Vieira, aplicou pena final em 5 (cinco) anos e 20 (vinte) dias de reclusão, em regime semiaberto; para o agravante Sílvio Ferreira, fixou a pena em 6 (seis) anos e 9 (nove) meses de reclusão, mantendo o regime inicial fechado (fls.2309-2323).
+Os recorrentes opuseram embargos de declaração pela omissão quanto ao pedido reconhecimento de consunção do crime de uso de documento falso. (fls.2347-2380)
+A defesa apresentou também embargos infringentes, para manter o voto vencido, o qual aplicou cálculo dosimétrico diverso. Ao réu Delton Vieira, estabeleceu pena definitiva em 4 (quatro) anos e 6 (seis) meses de reclusão, em regime semiaberto, e ao réu Sílvio Ferreira, pena definitiva em 4 (quatro) anos e 6 (seis) meses de reclusão, em regime fechado, ante a reincidência .(fls.2381-2397).
+O Tribunal de Justiça do Estado de Goiás negou provimento aos embargos de declaração (fls.2422-2427) e aos embargos infringentes (fls.2479-2492).
+Um vez mais foram opostos embargos de declaração (fls.2503-2524), apontando omissão no pronunciamento do colegiado que julgou os embargos infringentes. Estes foram desprovidos (fls.2528-2535).
+Sobreveio recurso especial da defesa, com fundamento no artigo 105, inciso III, "a", da Constituição Federal, em que alegou afronta ao artigo 619 do Código de Processo Penal e ao artigo 33, §2, "b" do Código Penal e requereu fixação do regime inicial de cumprimento de pena na modalidade prevista em lei (fls.2542-2566).
+O recurso especial foi inadmitido, por incidência da Súmula n. 7, STJ, conforme decisão do Tribunal de Justiça do Estado de Goiás (fls. 2593-2595).
+O agravo que se seguiu pugna pela admissibilidade do recurso especial (fls. 2602.2642).
+A manifestação do Ministério público trata de processo diverso (fls. 2667-2671).
+É o relatório. DECIDO.
+A questão posta no recurso especial refere-se à fixação de regime inicial de cumprimento de pena mais gravoso aos condenados e à alegada deficiência da prestação jurisdicional ao julgar os embargos de declaração, de forma que não demanda incursão no acervo fático-probatório.
+Quanto ao pleito de violação ao artigo 619 do Código de Processo Penal, pelo acórdão recorrido não ter sanado as omissões suscitadas nos embargos de declaração, este não merece conhecimento.
+Os agravantes, apesar de declararem violação ao dispositivo legal e trazerem recortes dos embargos e suas decisões, não explanaram os pontos que merecem correção e não impugnaram a decisão recorrida. Nesse caso, aplico a Súmula n. 284, STF, sendo inadmissível o recurso quando a deficiência da fundamentação não permitir a compreensão da controvérsia.
+Quanto ao regime inicial de cumprimento de pena, o acordão recorrido fundamentou sua decisão pelo regime inicial semiaberto para réu DELTON VIEIRA DA SILVA MARQUES no artigo 33, §2, "b" do Código Penal, tendo em vista que a pena foi fixada em 5 (cinco) anos e 20 (vinte) dias de reclusão. Para o réu SÍLVIO FERREIRA DA SILVA, com pena definitiva de 6 (seis) anos e 9 (nove) meses de reclusão, aplicou o regime fechado, ante reincidência.
+A defesa sustenta que o Tribunal, ao aplicar o regime de pena, apegou-se à gravidade em abstrato do delito. Assevera que não ocorreu motivação idônea ao regime mais severo imposto ao réu.
+Nessa contexto, tem-se que a definição do regime inicial de cumprimento de pena considera não só a pena quantificada, mas também as circunstâncias judiciais do art. 59 do Código Penal e a reincidência, nos termos do art. 33, §§ 2º e 3º, do Código Penal. Assim, cabe ao juiz sentenciante examinar os elementos específicos dos autos, de modo a estabelecer o regime adequado ao caso concreto de acordo com os critérios legais.
+Esse é o entendimento consolidado do Superior Tribunal de Justiça:
+PROCESSO PENAL. PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. PLEITO ABSOLUTÓRIO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7, STJ. ABRANDAMENTO DO REGIME. RÉU REINCIDENTE. INVIABILIDADE. PRECEDENTES. SÚMULA N. 83, STJ, MANTIDA.
+(..)
+II - Consoante precedentes deste Sodalício, a pretensão de fixação de regime prisional aberto, além de exigir circunstâncias judiciais favoráveis, pressupõe a primariedade do condenado, nos termos do art. 59, inciso III, c/c. o art. 33, § 2º, "c", do Código Penal.
+Inteligência da Súmula n. 83, STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.398.572/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024.)
+No caso concreto, o Tribunal de origem fixou o regime inicial semiaberto ao agravante Delton, por sua pena estar fixada em 5 (cinco) anos e 20 (vinte) dias, o que se coaduna com o artigo 33, §2º, "b" do Código Penal, o qual prevê: "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto".
+No que se refere ao agravante Sílvio, o regime fechado foi fixado por ser ele reincidente (fls. 2340), o que se afina com o art. 33, §2º, "b", do CP, bem como com a jurisprudência dominante deste Tribunal, conforme acima exposto.
+Assim, considerando que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior de Justiça sobre o tema, incide, no caso, a Súmula n. 568, STJ: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo, para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento, nos termos do art. 253, parágrafo único, inciso II, "b", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. FALSIDADE DE DOCUMENTO. ART. 619 DO CPP. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284, STF. REGIME INICIAL DE CUMPRIMENTO DE PENA. REINCIDÊNCIA. REGIME FECHADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
