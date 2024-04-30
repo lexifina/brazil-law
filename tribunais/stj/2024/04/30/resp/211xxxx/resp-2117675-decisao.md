@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial manejado pela ré em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - ACIDENTE DE TRÂNSITO - DINÂMICA DOS FATOS - PROVA DOS AUTOS - CONDUTA, NEXO CAUSAL E DANOS MATERIAIS COMPROVADOS - ATUALIZAÇÃO DA CONDENAÇÃO - TAXA SELIC AFASTADA - SEGURADORA EM LIQUIDAÇÃO EXTRAJUDICIAL - SENTENÇA MANTIDA - RECURSO DA PROPRIETÁRIA DO ÔNIBUS CONHECIDO E DESPROVIDO - RECURSO DA SEGURADORA PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO. Acerca da dinâmica dos fatos ocorridos, havendo provas que dão conta de acidente de trânsito ocorrido por culpa confessa do motorista do ônibus, não há como acolher as teses, desprovidas de demonstração, sobre ausência de nexo de causalidade, culpa exclusiva da parte autora ou culpa concorrente da parte autora. A prova documental juntada pela parte autora sobre a extensão dos danos materiais não foi contraposta pela parte ré, a despeito do ônus que a ela incumbia na forma do artigo 373, II, do CPC. A taxa Selic não é aplicada nas atualizações de condenações judiciais, a não ser em hipóteses específicas definidas em lei ou precedentes qualificados, o que não é o caso aqui analisado. A orientação extraída de jurisprudência do Superior Tribunal e Justiça é no sentido de que a decretação de liquidação extrajudicial não impede a incidência de correção monetária e juros de mora sobre a condenação imposta, quando se trata de ação de conhecimento.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+Alega-se que o acórdão recorrido contrariou o artigo 406 da Lei 10.406/2002 (Código Civil - CC/2002) porque ignorou que, nas condenações posteriores à vigência do CC/2002, deve ser aplicada a taxa do sistema especial de liquidação e de custódia (Selic).
+Inicialmente, anoto que a taxa a que se refere o artigo 406 do CC/2002 é a Selic, a qual já contempla a correção monetária, sendo, portanto, vedada sua cumulação com outro índice de correção monetária. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. JUROS DE MORA. VIGÊNCIA DO CÓDIGO CIVIL DE 2002. TAXA SELIC.
+1 - Na vigência do Código Civil de 2002, a taxa de juros de mora a que se refere o art. 406 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, vedada a cumulação com correção monetária. Temas 99 e 112/STJ.
+2 - Agravo interno desprovido.
+(AgInt no REsp n. 2.028.543/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA AGRAVADA.
+1. Nos termos da jurisprudência desta Corte, a partir da entrada em vigor do Código Civil de 2002, a Taxa Selic deve ser utilizada como índice de correção monetária e juros de mora. Precedentes.
+2. Afasta-se a multa aplicada quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.179.001/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+EXECUÇÃO DE SENTENÇA. TAXA DE JUROS. NOVO CÓDIGO CIVIL. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA. ART. 406 DO NOVO CÓDIGO CIVIL. TAXA SELIC.
+1. Não há violação à coisa julgada e à norma do art. 406 do novo Código Civil, quando o título judicial exequendo, exarado em momento anterior ao CC/2002, fixa os juros de mora em 0,5% ao mês e, na execução do julgado, determina-se a incidência de juros previstos nos termos da lei nova.
+2. Atualmente, a taxa dos juros moratórios a que se refere o referido dispositivo  art. 406 do CC/2002  é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais (arts. 13 da Lei 9.065/95, 84 da Lei 8.981/95, 39, § 4º, da Lei 9.250/95, 61, § 3º, da Lei 9.430/96 e 30 da Lei 10.522/02)" (EREsp 727.842, DJ de 20/11/08)" (REsp 1.102.552/CE, Rel. Min. Teori Albino Zavascki, sujeito ao regime do art. 543-C do CPC, pendente de publicação). Todavia, não houve recurso da parte interessada para prevalecer tal entendimento.
+3. Recurso Especial não provido.
+(REsp 1111117/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 02/06/2010, DJe 02/09/2010)
+EXECUÇÃO DE SENTENÇA. TAXA DE JUROS. NOVO CÓDIGO CIVIL. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA. ART. 406 DO NOVO CÓDIGO CIVIL. TAXA SELIC.
+1. Não há violação à coisa julgada e à norma do art. 406 do novo Código Civil, quando o título judicial exequendo, exarado em momento anterior ao CC/2002, fixa os juros de mora em 0,5% ao mês e, na execução do julgado, determina-se a incidência de juros previstos nos termos da lei nova.
+2. Atualmente, a taxa dos juros moratórios a que se refere o referido dispositivo  art. 406 do CC/2002  é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais (arts. 13 da Lei 9.065/95, 84 da Lei 8.981/95, 39, § 4º, da Lei 9.250/95, 61, § 3º, da Lei 9.430/96 e 30 da Lei 10.522/02)" (EREsp 727.842, DJ de 20/11/08)" (REsp 1.102.552/CE, Rel. Min. Teori Albino Zavascki, sujeito ao regime do art. 543-C do CPC, pendente de publicação). Todavia, não houve recurso da parte interessada para prevalecer tal entendimento.
+3. Recurso Especial não provido.
+(REsp 1111118/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 02/06/2010, DJe 02/09/2010)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVADO.
+1. Esta Corte firmou entendimento no sentido de que a fixação da taxa dos juros moratórios, a partir da entrada em vigor do artigo 406 do Código Civil de 2002, deve ser com base na taxa Selic, podendo essa tese ser aplicada inclusive nos casos em que se discute a execução de honorários. Precedentes.
+2. O termo inicial dos juros moratórios deve ser determinado a partir da natureza da relação jurídica mantida entre as partes.
+2.1. No caso, tratando-se de mandato, a relação jurídica tem natureza contratual, sendo o termo inicial dos juros moratórios a data da citação. Incidência da Súmula 83/STJ.
+3. Conforme o entendimento desta Corte, o referido óbice aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1180613/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/10/2019, DJe 23/10/2019)
+EXECUÇÃO DE SENTENÇA. TAXA DE JUROS. NOVO CÓDIGO CIVIL. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA. ART. 406 DO NOVO CÓDIGO CIVIL. TAXA SELIC.
+1. Não há violação à coisa julgada e à norma do art. 406 do novo Código Civil, quando o título judicial exequendo, exarado em momento anterior ao CC/2002, fixa os juros de mora em 0,5% ao mês e, na execução do julgado, determina-se a incidência de juros previstos nos termos da lei nova.
+2. Atualmente, a taxa dos juros moratórios a que se refere o referido dispositivo  art. 406 do CC/2002  é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais (arts. 13 da Lei 9.065/95, 84 da Lei 8.981/95, 39, § 4º, da Lei 9.250/95, 61, § 3º, da Lei 9.430/96 e 30 da Lei 10.522/02)" (EREsp 727.842, DJ de 20/11/08)" (REsp 1.102.552/CE, Rel. Min. Teori Albino Zavascki, sujeito ao regime do art. 543-C do CPC, pendente de publicação). Todavia, não houve recurso da parte interessada para prevalecer tal entendimento.
+3. Recurso Especial não provido.
+(REsp 1111119/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 02/06/2010, DJe 02/09/2010)
+No caso, a sentença, confirmada pelo acórdão recorrido, determinou a incidência de juros de mora de 1% ao mês, mais correção monetária pelo índice nacional de preços ao consumidor (INPC), apurado pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+Evidencia-se, no ponto, a necessidade de reforma do acórdão recorrido, pois diverge da jurisprudência do Superior Tribunal de Justiça (STJ), acima demonstrada.
+Em face do exposto, dou provimento ao recurso para determinar a incidência da taxa Selic.
+Intimem-se.
+EMENTA
