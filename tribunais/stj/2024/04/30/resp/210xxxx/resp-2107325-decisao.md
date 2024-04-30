@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial Interposto por JORCAL ENGENHARIA E CONSTRUÇÕES S/A - EM RECUPERAÇÃO JUDICIAL (JORCAL) com fundamento nas alíneas a e c do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+"RECUPERAÇÃO JUDICIAL - Penhora - Pretensão de reforma de decisão que indeferiu a apreensão de maquinário considerado como essencial para a atividade - Reforma que se faz necessária - Decurso do "stay period" - Enunciado III das Câmaras Reservadas de Direito Empresarial - Ademais, prova insuficiente acerca da essencialidade - Decisão reformada para autorizar o prosseguimento da ação - Recurso provido." (e-STJ, fl. 47).
+Os embargos de declaração opostos por JORCAL foram rejeitados (e-STJ, fls. 67/70).
+No recurso especial interposto com fundamento no art. 105, a e c, da CF, JORCAL sustentou violação dos seguintes dispositivos legais (1) arts. 489, § 1º, IV e VI, e 1.022, II, e parágrafo único, II, do NCPC, por reputar que o acórdão recorrido se quedou omisso quanto à possibilidade de mitigação do prazo de blindagem; (2) arts. 6º, § 7º-A, 47 e 49, § 3º, da Lei 11.101/2005, ao aduzir que, a despeito de ter sido reconhecida a essencialidade de bem denominado Pressolub e de estar a recorrente em recuperação judicial, foi determinada a apreensão do equipamento com fundamento no escoamento do stay period. Também alegou dissídio jurisprudencial, tendo por paradigmas precedentes do Tribunal de Justiça do Paraná e desta Corte Superior.
+As contrarrazões foram apresentadas (e-STJ, fls. 118/130).
+O apelo nobre foi admitido na origem (e-STJ, fls. 138/139).
+O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ, fls. 171/176).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da omissão
+JORCAL sustentou que o acórdão recorrido se quedou omisso quanto à possibilidade de mitigação do prazo de blindagem.
+Contudo, verifica-se que o Tribunal estadual orientou-se no sentido de que, após exaurido o lapso do stay period, já se revela cabível o prosseguimento das demandas envolvendo a expropriação de bens da sociedade em recuperação judicial, independentemente da natureza deles, a teor do aresto recorrido :
+Como bem ressaltado pelo i. membro do "Parquet", o "stay period" já se escoou, restando incabível o exame da essencialidade do bem, conforme Enunciado III das C. Reservadas de Direito Empresarial:
+"Escoado o prazo de suspensão de que trata o § 4º, do artigo 6º da Lei 11.101/05 ("stay period"), as medidas de expropriação pelo credor titular de propriedade fiduciária de bens móveis ou imóveis, de arrendador mercantil, de proprietário ou promitente vendedor, poderão ser retomadas, ainda que os bens a serem executados sejam essenciais à atividade empresarial." (e-STJ, fl. 45).
+Dessa forma, tem-se que o TJSP decidiu a lide de forma fundamentada e integral.
+Ademais, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019).
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTENTE. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COMISSÃO DE CORRETAGEM. AUSÊNCIA DE INFORMAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA N. 5/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.848.092/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 7/6/2021, DJe 14/6/2021).
+Assim, ausentes os vícios elencados nos arts. 489 e 1.022 do NCPC, sendo
+forçoso reconhecer a higidez do aresto recorrido.
+(2) Do bem arrendado
+JORCAL aduziu que, a despeito de estar em recuperação judicial e de ter sido reconhecida a essencialidade de bem denominado Pressolub, foi determinada a apreensão do equipamento com fundamento no escoamento do stay period.
+O TJSP, por sua vez, assentou que, além do escoamento do prazo denominado stay period, constante do art. 6º, § 4º, da Lei 11.101/2005, em que ocorre a suspensão do trâmite dos processos ajuizados em desfavor da sociedade recuperanda, permitir a retomada do fluxo das demandas, o bem objeto da busca e apreensão subjacente não se reveste de natureza essencial, a teor do aresto recorrido:
+Ainda que fossemos adotar uma interpretação mais favorável à agravada, no sentido de investigar o caráter essencial do bem mesmo após o decurso do "stay period", razão não lhe assistira.
+É ônus da devedora a demonstração de que o bem é, de fato, essencial para a atividade e que a retirada da posse prejudicaria o desenvolvimento da empresa após a homologação do plano.
+Nesse sentido:
+"(..) o Juízo Universal não deve permitir que um credor individual, em prejuízo de toda a coletividade de credores e à tutela da economia nacional, retire bens que sejam essenciais à atividade, a ponto de paralisar ou tornar inviável o negócio.
+(..)
+Todavia, deve ser destacado que a comprovação da essencialidade compete ao devedor, que deverá demonstrar, pautado por documentos, a importância da utilização dos bens que pretende defender.
+A melhor interpretação que deve ser dada a este dispositivo e ao §3º do art. 49 da Lei 11.101/05 é aquele que efetivamente equilibre o exercício do direito do credor fiduciário com a preservação da empresa e a tutela de sua função social e seu lugar como relevante agente econômico gerador de riquezas." (COSTA, Daniel Carnio e DE MELO, Alexandre Nasser. Comentários à Lei de Recuperação de Empresas e Falência. 2ª Ed. Curitiba: Juruá, 2021 Pág. 96/97) (g.n.)
+Não existe elemento de prova suficiente de modo a atestar essa essencialidade, apesar do parecer contrário do auxiliar do juízo. (e-STJ, fls. 45/47).
+Desta feita, tem-se que rever as conclusões alcançadas pelo Tribunal bandeirante acerca da negativa de essencialidade do equipamento constitui providência vedada na via estreita do recurso especial, nos moldes da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. ART. 49, § 3º, DA LEI Nº 11.101/2005. BEM DE CAPITAL. BEM CORPÓREO. PROCESSO PRODUTIVO DA EMPRESA. UTILIZAÇÃO. EXPROPRIAÇÃO. BENS IMÓVEIS NÃO ESSENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. O "bem de capital" a que se refere a parte final do artigo 49, § 3º, da Lei nº 11.101/2005 é o bem corpóreo (móvel ou imóvel) utilizado no processo produtivo da empresa e que se encontre, portanto, em sua posse (prédios, máquinas, ferramentas, equipamentos e veículos), não se podendo atribuir tal qualidade a um bem cuja utilização signifique o esvaziamento da garantia fiduciária, pois, ao final do stay period, deverá ser restituído ao proprietário, o credor fiduciário.
+2. A revisão da conclusão do acórdão recorrido, que afastou a essencialidade dos imóveis objeto da alienação fiduciária e manteve a sua expropriação, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.269.984/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. 26/2/2024, DJe de 1/3/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. BLOQUEIO DE ATIVOS FINANCEIROS. COMPETÊNCIA. JUÍZO DA EXECUÇÃO FISCAL. JUÍZO DA RECUPERAÇÃO JUDICIAL QUE PROCEDE APENAS AO CONTROLE DE ATOS CONSTRITIVOS QUE ENVOLVAM BENS CONSIDERADOS ESSENCIAIS. PRECEDENTES. AUSÊNCIA DA HIPÓTESE DO ART. 6º, § 7º-B, DA LEI N. 11.101/2005. BEM CONSTRITO. AUSÊNCIA DE ESSENCIALIDADE. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Lei n. 14.112/2020, a seu modo, delimitou a competência do Juízo em que se processa a execução fiscal (a qual não se suspende pelo deferimento da recuperação judicial) para determinar os atos de constrição judicial sobre os bens da recuperanda; e firmou a competência do Juízo da recuperação judicial "para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial".
+2. Com a Lei n. 14.112/2020, o Juízo da execução fiscal, ao determinar o prosseguimento do feito executivo ou, principalmente, a constrição judicial de bem da recuperanda, não adentra indevidamente na competência do Juízo da recuperação judicial.
+3. A partir da vigência da Lei n. 14.112/2020, o Juízo da recuperação judicial tem a competência específica para determinar o sobrestamento dos atos de constrição exarados no bojo de execução de crédito extraconcursal que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial durante o período de blindagem. Em se tratando de execuções fiscais, a competência do Juízo recuperacional restringe-se a substituir os atos de constrição que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial.
+4. Não se autoriza ao Juízo da recuperação sobrestar ato judicial de constrição, exarado pelo Juízo em que se processa execução fiscal, sobre bem que não se caracterize como "bem de capital".
+5. Na hipótese, ficou assentada a ausência de demonstração quanto à essencialidade do valor constrito para a manutenção da atividade empresarial e a não existência de nenhuma indicação de bens em substituição à penhora realizada pelo Juízo da execução fiscal.
+6. Elidir a conclusão da Corte de origem acerca da essencialidade do bem demanda a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante Súmula n. 7/STJ.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.066.805/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, j. 4/9/2023, DJe de 6/9/2023.)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E EMPRESARIAL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. RECUPERAÇÃO JUDICIAL. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. HIGIDEZ DO ARESTO RECORRIDO. (2) ESSENCIALIDADE DOS BENS. ARESTO RECORRIDO QUE CONSIDEROU INCABÍVEL A CONSTRIÇÃO SOBRE O BEM OBJETO DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. REVOLVIMENTO DA CONCLUSÃO. PROVIDÊNCIA VEDADA. ÓBICE DA SÚMULA 7 DO STJ. PRECEENTES. RECURSO NÃO PROVIDO PARCIALMENTE.
