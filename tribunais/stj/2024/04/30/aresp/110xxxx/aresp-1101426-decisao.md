@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial de SUL AMERICA COMPANHIA NACIONAL DE SEGUROS no qual se insurgira contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A questão debatida nos autos, qual seja, " f ixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação", foi afetada ao rito dos recursos repetitivos (Tema 1.039), no Recurso Especial 1.799.288/PR, de relatoria da Ministra Maria Isabel Gallotti (DJe de 9/12/2019).
+Destaco que, em sessão realizada no dia 7/3/2024, a Segunda Seção, acolhendo questão de ordem suscitada nos autos do Recurso Especial 1.799.288/PR, afetou o julgamento do Tema 1.039 à Corte Especial.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo Código de Processo Civil .
+Publique-se. Intimem-se.
+EMENTA
