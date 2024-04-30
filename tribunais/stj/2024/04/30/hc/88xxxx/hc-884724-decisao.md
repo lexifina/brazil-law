@@ -1,0 +1,11 @@
+DECISÃO
+DANILO LORENCETI BORGES alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (TJ/SP) na Apelaçãon. 1501435-28.2022.8.26.0530.
+A defesa assinala a nulidade do acórdão, por reforma para pior da situação do réu em sua apelação, exclusiva. O órgão de segundo grau, de ofício, alterou a classificou da conduta do réu para o tipo penal do art. 16, § 1º, II, da Lei n. 10.826/03 (crime hediondo), sem modificação da pena aplicada na sentença, de 3 anos de reclusão, em regime semiaberto, mais o pagamento de 10 dias-multa. Para o impetrante, não era possível adotar essa providência prejudicial ao acusado.
+Decido.
+Não se conhece de habeas corpus impetrado de forma simultânea e concomitante ao manejo dos recursos próprios, ainda em tramitação.
+No caso, contra o mesmo acórdão de apelação, a defesa impetrou o writ, "interpôs recurso especial, o qual não foi admitido no juízo de prelibação, e agravo dessa decisão, estando ele em processamento" (fl. 129).
+A "interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual"  .. . (HC n. 482.549/SP, relator Ministro Rogerio Schietti, Terceira Seção, DJe de 3/4/2020).
+Ressalto que, a um primeiro olhar, o pedido de nulidade não pode ser reconhecido, de ofício, pois "a situação do agravante foi mantida após a alteração promovida pela Corte de origem, de modo que não se trata de reformatio in pejus, consoante a jurisprudência consolidada do Superior Tribunal de Justiça" (AgRg no AREsp n. 2.483.180/SP, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 19/3/2024,DJe de 2/4/2024, grifou-se).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
