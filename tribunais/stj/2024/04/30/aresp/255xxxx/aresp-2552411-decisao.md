@@ -1,0 +1,33 @@
+DECISÃO
+ELIANO BARBOSA GARCIA JÚNIOR agrava da decisão que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação n. 0715630-85.2020.8.07.0001.
+Nas razões do especial, a defesa apontou violação aos arts. 386, VII, do Código de Processo Penal e 28 da Lei n. 11.343/2006, ao argumento de que as provas produzidas no processo não são capazes de ensejar a condenação penal do réu por tráfico.
+A impugnação foi inadmitida, no juízo prévio de admissibilidade realizado pelo Tribunal a quo, o que ensejou a interposição deste agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento. Passo, então, a analisar os pedidos.
+I. Absolvição pelo tráfico
+Na hipótese em exame, o agente foi condenado pelo Juízo de primeira instância, que entendeu existirem provas coesas para a condenação pelo crime de tráfico de drogas.
+O Tribunal a quo, ao julgar o recurso defensivo, preservou a condenação nos seguintes termos (fls. 546-549, destaquei ):
+Com efeito, em que pese os argumentos defensivos, restou devidamente demonstrado pelos elementos probatórios juntados aos autos, sobretudo, pelos depoimentos coesos e firmes dos agentes de polícia, corroborados pelo auto de apresentação e apreensão e laudos periciais, além do depoimento extrajudicial do usuário, que Eliano Barbosa no dia dos fatos vendeu uma porção de crack em via pública.
+O acusado, na fase policial, fez uso de seu direito constitucional de permanecer calado. (ID 46060828).
+Em Juízo, negou a prática do crime, afirmando que não estava vendendo crack, mas sim fumando na companhia de Daniel.
+ ..
+Contudo, verifica-se que sua negativa está isolada nos autos, tendo sido infirmada pelos depoimentos coesos e harmônicos dos policiais, bem como pelo depoimento extrajudicial do usuário e pelas apreensões realizadas nos autos.
+Com efeito, os agentes de polícia foram assentes em afirmar que no dia dos fatos estavam em patrulhamento na região central de Taguatinga, quando visualizaram o réu em movimentação típica de traficância. Contaram que, logo em seguida, abordaram os envolvidos, tendo sido encontrada a porção de crack com o usuário, que a dispensou na via, e quantia em dinheiro na posse do réu. Confira-se (..):
+Policial Jesun "(..) que estavam em patrulhamento na região central de Taguatinga, conhecida pelo intenso tráfico de drogas, quando avistaram o acusado em atitude típica da traficância. Em seguida, procederam à abordagem dos suspeitos, momento em que o usuário dispensou uma porção de crack na via, a qual foi recuperada pelos policiais. Informou que o usuário confirmou que comprou a droga do acusado, com o qual encontraram dinheiro. Ressaltou que o local dos fatos é próximo ao 2º Batalhão da Polícia Militar. Afirmou que o usuário informou em sede policial que foi ameaçado pelo acusado, mas que não presenciou o fato.
+"Policial Natanael "(..) que viu o acusado trocando objetos com o usuário, que confirmou a aquisição da pedra de crack pela quantia de R$ 10,00 (dez reais). Disse que, após abordagem dos suspeitos, na posse direta do acusado foi localizado R$ 30,00 (trinta reais) e que o citado usuário dispensou a droga no chão. Declarou que, no deslocamento para delegacia, os indivíduos se desentenderam, notadamente em razão do acusado ter ameaçado o usuário. Ressaltou que a traficância ocorreu nas imediações do 2º Batalhão da Polícia Militar. (..)"
+No mesmo sentido o usuário, em sede inquisitorial, confirmou que, no dia dos fatos, adquiriu do réu uma porção de crack, pelo valor de R$10,00 (dez reais) (ID 46060828 - Pág.4).
+Observa-se ainda, que segundo o auto de apresentação e apreensão foi de fato encontrada com o réu uma nota de R$ 10,00 (dez reais), o que corrobora as declarações dos policiais e do usuário (ID 46060829 - Pág. 1).
+Cabe ressaltar que os depoimentos dos policiais se revestem de especial valor probatório, porquanto emanados de servidores públicos no exercício de suas funções, sendo que, no caso em apreço, suas narrativas são coerentes entre si e merecem credibilidade, pois não há qualquer indício de que tenham interesse em imputar falsamente ao réu a prática de crime.
+Insta consignar que os elementos informativos colhidos na fase policial podem subsidiar a condenação de forma não exclusiva diante do disposto no artigo 155 do CPP, como é o caso dos autos.
+De fato, na hipótese, além do depoimento extrajudicial do usuário, há os depoimentos dos agentes de polícia em Juízo e a porção de crack e a nota de dez reais apreendidas.
+É cediço que a pequena quantidade de entorpecente apreendida, por si só, não é capaz de afastar a autoria do crime de tráfico de drogas, diante das provas suficientes nos autos de que o réu realizou conduta típica de comercialização de drogas.
+Desse modo, por todos os elementos probatórios acima analisados, é inviável a desclassificação do crime para aquele previsto no artigo 28 da Lei 11.343/2006.
+Pelo trecho anteriormente transcrito e, sobretudo, pela leitura atenta da sentença e do acórdão recorrido, verifico que a Corte de origem, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões, mostra-se inviável a absolvição do réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Registro, no particular, que, para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porque o próprio tipo penal aduz "ainda que gratuitamente" -, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância, tal como ocorreu no caso.
+Portanto, torna-se inviável a modificação do julgado, pois, para concluir em sentido diverso, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência vedada em recurso especial conforme disposição da Súmula n. 7 do STJ.
+II. Dispositivo
+À vista do exposto, conheço do a gravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-s e e intimem-se
+EMENTA
