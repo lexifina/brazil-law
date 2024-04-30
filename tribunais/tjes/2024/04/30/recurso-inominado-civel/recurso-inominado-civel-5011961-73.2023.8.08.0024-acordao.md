@@ -1,0 +1,59 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5011961-73.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: GOL LINHAS AEREAS S.A.
+RECORRIDO: PEDRO VICTOR CAMPOS DOELINGER e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5011961-73.2023.8.08.0024
+
+Recorrente: GOL LINHAS AÉREAS S.A.
+
+Recorridos: PEDRO VICTOR CAMPOS DOELINGER e HELENA MENDIVIL GIRARDI
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO DE VOO NACIONAL. CHEGADA AO DESTINO FINAL CINCO HORAS APÓS O PREVISTO. AUTORES REQUEREM A RESTITUIÇÃO DO VALOR PAGO NO TRANSPORTE ENTRE AEROPORTOS E ALIMENTAÇÃO, ALÉM DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS PARA CONDENAR A REQUERIDA AO PAGAMENTO DA QUANTIA DE R$10.000,00 A TÍTULO DE DANOS MORAIS, SENDO R$ 5.000,00 PARA CADA AUTOR. DETERMINOU A RESTITUIÇÃO DO VALOR DE R$174,96 POR DANOS MATERIAIS.
+RECURSO
+INTERPOSTO PELA REQUERIDA PUGNANDO PELA IMPROCEDÊNCIA DOS PEDIDOS AUTORAIS, E ALTERNATIVAMENTE REDUÇÃO DO VALOR ARBITRADO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. JUSTIFICATIVA PAUTADA EM REMANEJAMENTO DA MALHA AÉREA. O ATRASO DE VOO CONFIGURA FALHA NA PRESTAÇÃO DO SERVIÇO PORQUE IMPLICA EM DESCUMPRIMENTO DAS OBRIGAÇÕES ASSUMIDAS. TODAVIA, OS AUTORES CHEGARAM AO DESTINO NO DIA PREVISTO, COM ATRASO DE CINCO HORAS. AUSÊNCIA DE MAIORES DESDOBRAMENTOS QUE OCASIONASSEM DANOS ELEVADOS AOS AUTORES. DISSABOR DE TROCA DE AEROPORTOS EM SÃO PAULO. ASSIM, CONSIDERANDO AS CIRCUNSTÂNCIAS DO CASO EM CONCRETO, O GRAU DE CULPA E O DANO SOFRIDO,
+REDUZO O VALOR ARBITRADO
+PARA O IMPORTE DE R$ 3.000,00 (TRÊS MIL REAIS) PARA CADA AUTOR. MANUTENÇÃO DA RESTITUIÇÃO DOS VALORES GASTOS COM TRANSPORTE ENTRE OS AEROPORTOS E ALIMENTAÇÃO.
+SENTENÇA REFORMADA SOMENTE PARA MINORAR O MONTANTE DA CONDENAÇÃO POR DANOS MORAIS PARA O VALOR DE R$ 3.000,00 (TRÊS MIL REAIS) PARA CADA AUTOR
+, TOTALIZANDO R$6.000,00. NO RESTANTE,
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
