@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONTAGEM II INCORPORAÇÃO SPE LTDA., com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE LOCAÇÃO. MULTA REFERENTE AO SEGURO FIANÇA. CUMULAÇÃO COM MULTA MORATÓRIA. FATOS GERADORES DIVERSOS. AUSÊNCIA DE BIS IN IDEM. RESSARCIMENTO DE VALORES GASTOS COM A REFORMA. IMPOSSIBILIDADE. LAUDO DE VISTORIA FINAL ASSINADO PELAS PARTES. AUSÊNCIA DE JUNTADA. RECURSO PROVIDO EM PARTE. -Tendo em vista que os fatos geradores para a cobrança das multas moratória e compensatória são distintos, sendo a primeira em razão do inadimplemento e a segunda pela ausência de contratação do seguro, é possível a sua cumulação, não havendo que se falar em bis in idem.-Diante da ausência de juntada do laudo de vistoria final assinado por ambas as partes, deve-se manter a improcedência do pedido de ressarcimento dos valores supostamente gastos com a reforma do imóvel" (fl. 350 e-STJ).
+Os primeiros embargos de declaração opostos foram acolhidos (fls. 378 e 382 e-STJ) e os segundos foram rejeitados (fls. 400/406 e-STJ) .
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 1.022, II, e 489, §1º, IV, do Código de Processo Civil, tendo em vista omissão presente na decisão recorrida, que deixou de analisar questão indicada em embargos de declaração;
+(ii) artigos 86 e 85, §2º, do Código de Processo Civil, porque os honorários sucumbenciais fixados em favor do procurador da recorrida/requerida deixou de utilizar como parâmetro o proveito econômico, valendo-se do valor da causa. Pondera que tal opção viola a ordem prevista nos dispositivos legais e a jurisprudência da Corte Superior.
+Sem contrarrazões às fls. 433/436 (e-STJ).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Registra-se que o Tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+De fato, a decisão da Corte local está em harmonia com o entendimento do Superior Tribunal de Justiça, tendo em vista que os honorários devem ser fixados proporcionalmente quando ambas as partes forem vencedor e vencido, conforme art. 86 do Código de Processo Civil.
+Do mesmo modo, há que se considerar a ordem prevista no §2º do art. 85 do Diploma Processual na fixação da verba honorária.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ERRO MATERIAL. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA PREVIAMENTE ANALISADA. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador.
+2. Conforme entendimento desta Corte, para a fixação de honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º) (REsp n. 1.746.072/PR, 2ª Seção, DJe 29/3/2019).
+3. Embargos de declaração rejeitados."
+(EDcl no REsp n. 2.042.594/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/12/2023, DJe de 19/12/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TEMA N. 1.076. EXECUÇÃO. EMBARGOS À EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS. CUMULATIVOS. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O arbitramento dos honorários advocatícios deve seguir a regra geral estabelecida no art. 85, § 2º, do CPC, de acordo com a ordem de preferência nele estabelecida, a saber: 1º) nas causas em que houver condenação, este é o critério a ser utilizado pelo magistrado, observando o parâmetro legal entre 10% a 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, sendo ele inestimável ou irrisório, a verba sucumbencial deve ser arbitrada de acordo com o valor da causa.
+2. O critério da equidade (art. 85, § 8º, do CPC) é de aplicação subsidiária, devendo ser utilizado apenas quando não for possível a incidência da regra geral estabelecida no § 2º do art. 85 do CPC, isto é, quando for inestimável ou irrisório o proveito econômico ou o valor da causa.
+3. O critério da equidade não se estende às hipóteses em que o valor da condenação, do proveito econômico ou da causa for elevado.
+4. É possível a condenação em honorários de sucumbência em execução e em sede de embargos à execução, de forma cumulativa. Precedentes.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.260.221/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024)
+No caso concreto, o Tribunal local, ao analisar o decaimento das partes, utilizou o valor da causa como parâmetro em favor do procurador da requerida a fim de evitar a fixação de verba honorária em valores ínfimos, na medida em que o proveito econôm ico foi de apenas R$ 5.000,00 (cinco mil reais) - (fl. 381 e-STJ).
+Assim, não está configurada a violação dos dispositivos legais supracitados, tendo a decisão recorrida observado o entendimento da Corte Superior.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa , os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
