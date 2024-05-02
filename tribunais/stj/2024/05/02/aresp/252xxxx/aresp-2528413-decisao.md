@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo contra a inadmissão do Recurso Especial com base na incidência da Súmula 7/STJ.
+O acordão foi assim ementado (2.433-2.439, e-STJ):
+Ementa: Agravo de Instrumento. Execução fiscal. IPTU.
+Pedido de inclusão de terceiros no polo passivo da lide, bem como de sobrestamento do feito executivo.
+Alegação de reconhecimento judicial acerca da sua perda de domínio sobre o imóvel objeto da tributação para posseiros. Indeferimento do pleito. A irresignação do agravante não comporta guarida.
+Conforme se depreende dos autos, não houve prova da consolidação da posse ou propriedade imobiliária em nome de terceiros, pois a usucapião não fora levada a registro no cartório competente, de modo que os desdobramentos da posse/propriedade do imóvel, ainda que reconhecidos judicialmente, não podem ser opostos a terceiros, tampouco à Fazenda Pública, que tem o poder-dever de cobrar o crédito tributário norteada pelo princípio da legalidade. Nega-se provimento ao recurso.
+David Abuhab alega:
+Não é crível que alguém seja obrigado a recolher o IPTU de um imóvel sendo que o próprio Poder Judiciário reconhece não ser ele o proprietário ou o possuidor do bem no ano do respectivo fato gerador! A averbação da usucapião na matrícula do imóvel é formalidade que não se justifica tampouco se sobrepõe às decisões judiciais transitadas em julgado, como aquelas proferidas na Ação de Reintegração de Posse e Ação Rescisórias supramencionadas.
+(..)
+Logo, também agora os fatos devem se sobrepor ao formalismo cartorário para reconhecê-los como responsáveis pelo IPTU do imóvel que são possuidores.
+Desse modo, é de rigor a exclusão do Agravante do pólo passivo da ação exacional de origem, uma vez que o mesmo já não detém a posse e a propriedade do imóvel desde 1998, quando ficou reconhecida o direito à usucapião do bem aos posseiros do mesmo, havendo assim cristalina afronta ao disposto no art. 34 do Código Tributário Nacional. Importante destacar que, o Recurso Especial inadmitido não pretende que sejam reexaminadas provas acostadas nos autos, mas apenas e tão somente que se constate e retifique o flagrante cerceamento de defesa que o Agravante vem enfrentando, uma vez que, ao reconhecer a validade da cobrança de IPTU em face do Recorrente, o v. acórdão acaba por violar o disposto nos art. 34 do Código Tributário Nacional, diante da flagrante ausência de legitimidade e legalidade no enquadramento deste como contribuinte do imposto, uma vez que este não é possuidor do bem desde 1998, conforme já reconhecido judicialmente. Portanto, não é aplicável ao presente Recurso a Súmula nº 7 do STJ, visto que todos os fatos indispensáveis para a comprovação do acima alegado encontram-se descritos no Recurso Especial e no respectivo v. acórdão ora recorrido, na medida em que não enseja o reexame de provas.
+É o relatório.
+Decido.
+Destaco do acórdão de fls. 2.433-2.439, e-STJ:
+A execução fiscal ajuizada pelo Município de São Paulo objetiva a cobrança de IPTU, exercício de 2003, no valor de R$ 33.578,16 (trinta e três mil, quinhentos e setenta e oito reais e dezesseis centavos).
+Quanto ao cerne da lide, é incontroverso que consta na certidão de matrícula do imóvel o executado como cotitular do bem. No referido documento, é possível aferir que a propriedade é de 75% (setenta e cinco por cento) de David Abuhab e 25% (vinte e cinco por cento) de Zabo Empreendimentos e Construções Ltda. (fls. 30).
+Com efeito, nos termos do art. 34 do CTN, "contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor a qualquer título".
+Dentro das hipóteses previstas no dispositivo legal em apreço, o STJ, por meio da Súmula 399, consolidou o entendimento de que "cabe à legislação municipal estabelecer o sujeito passivo do IPTU".
+Nesse contexto, conforme se depreende dos autos, a alegada usucapião não fora levada a registro no cartório competente, de modo que os desdobramentos da posse/propriedade do imóvel, ainda que reconhecidos judicialmente, não podem ser opostos a terceiros, tampouco à Fazenda Pública, que tem o poder-dever de cobrar o crédito tributário norteada pelo princípio da legalidade.
+Em outras palavras, somente a partir do mencionado registro, além da posse do imóvel, os terceiros passariam a ser titulares de direito real à sua aquisição, o que levaria à inarredável perda pelo agravante dos poderes inerentes à propriedade.
+No caso, como dito, a nova propriedade não fora registrada/averbada e, nesta esteira, conforme relatado pelo Min. Luiz Fux, no AgRg no REsp 1099274/SP, "a existência de possuidor apto a ser considerado contribuinte do IPTU não implica a exclusão automática, do polo passivo da obrigação tributária, do titular do domínio (assim entendido aquele que tem a propriedade registrada no Registro de Imóveis)."
+Desse modo, o agravante é parte legítima para figurar no polo passivo da execução fiscal e, portanto, fica mantido o indeferimento do pedido de inclusão dos possuidores no polo passivo, bem como de sobrestamento da execução, eis que este pleito está atrelado àquele.
+Em suma, o Tribunal a quo consignou que o proprietário cujo nome consta no registro do imóvel continua contribuinte do imposto até a perda definitiva da propriedade. Apontou a incidência da Súmula 399/STJ - "cabe à legislação municipal estabelecer o sujeito passivo do IPTU" -, afastou a legitimidade dos possuidores e afirmou que a usucapião não levada a registro não pode vincular terceiros.
+A orientação adotada no julgamento do Recurso Especial Repetitivo 1.111.202/SP é de que o próprio município pode, por meio de lei local, escolher no rol do art. 34 do CTN aquele que constará como sujeito passivo da exação.
+Para se chegar a conclusão diversa da alcançada pela Corte bandeirante, seria indispensável a revisão probatória, defesa ao Superior Tribunal de Justiça, em Recurso Especial, ante os óbices previstos nas Súmulas 7/STJ e 280STF.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
