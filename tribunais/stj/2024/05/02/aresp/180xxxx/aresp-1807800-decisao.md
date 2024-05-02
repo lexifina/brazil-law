@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - ORDEM DE ARRESTO - MANDADO CUMPRIDO NA MESMA DATA DE VENCIMENTO DO DÉBITO - TRANSFERÊNCIA REALIZADA PARA A CONTA CORRENTE DA EXECUTADA - INVIABILIDADE DE CUMPRIMENTO DA ORDEM JUDICIAL - EFICÁCIA DO PAGAMENTO - DECISÃO REFORMADA - RECURSO PROVIDO.
+A efetivação da intimação da ordem de arresto na mesma data de vencimento do débito, associado à comprovação da existência de TED em favor da empresa executada no mesmo dia (02 de setembro de 2016), tendo como remetente a empresa MRV, servem de fundamentos suficientes para atestar a eficácia do pagamento realizado, de maneira que não há que se falar em determinação para que a empresa MRV proceda ao depósito da quantia executada nos autos, sob pena de atos expropriatórios, até mesmo porque não se afigura como executada nesta lide." (e-STJ, fl. 142)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 154/161).
+Nas razões do recurso especial, o agravante alega violação aos arts. 298, 307 e 312 do Código Civil de 2002 e 373, 855 e 860 do Código de Processo Civil de 2015 e divergência jurisprudencial, sustentando, em síntese, (a) que o pagamento realizado após o recebimento do mandado de arresto dever ser reconhecido como ineficaz, (b) que o agravado não se desincumbiu de seu ônus de comprovar que o pagamento ocorreu em momento anterior ou que o pagamento não poderia ser cancelado, (c) que somente há informação acerca da hora do recebimento do mandado e não da transferência bancária e (d) que o pagamento ao credor após intimação da penhora não vale contra o terceiro interessado.
+Contrarrazões às fls. 379/385.
+É o relatório. Passo a decidir.
+Com relação a suposta violação aos arts. 298, 307 e 312 do CC/02 e 855 e 860 do CPC/15, tem-se que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto dos embargos de declaração opostos às fls. 154/161, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+No tocante a suposta violação aos arts. 373 do CPC/15, a Corte de origem afirmou que foi comprovada a eficácia do pagamento realizado pela parte agravada, in verbis:
+"Nessa senda, a efetivação da intimação da ordem de arresto na mesma data de vencimento do débito, associado à comprovação da existência de TED em favor da empresa executada no mesmo dia (02 de setembro de 2016), tendo como remetente a empresa MRV, servem de fundamentos suficientes para atestar a eficácia do pagamento realizado, de maneira que não há que se falar em determinação para que a empresa MRV proceda ao depósito da quantia executada nestes autos, sob pena de atos expropriatórios, até mesmo porque não se afigura como executada nesta lide. " (e-STJ, fl. 148)
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido, a fim de afirmar que a parte agravada não se desincumbiu de seu ônus probatório demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANO AMBIENTAL. VIOLAÇÃO AO ART. 131 DO CPC/73. INEXISTÊNCIA. NOVA PERÍCIA, ILEGITIMIDADE ATIVA, INEXISTÊNCIA DE DANO MATERIAL E MORAL. SÚMULA 7 DO STJ. TERMO INICIAL DOS JUROS DE MORA. SÚMULA 83 DO STJ. VALOR DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7 DO STJ.
+1. O acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte agravante, o que está longe de significar violação ao art. 131 do CPC/73.
+2. Rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de matéria fática, o que é defeso nesta fase recursal ante o óbice da Súmula 7 do STJ.
+3. Em se tratando de responsabilidade extracontratual, os juros de mora em caso de indenização por dano moral incidem desde o evento danoso. Precedentes.
+4. Nos termos da jurisprudência deste Tribunal, o valor dos honorários advocatícios estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso, obstando-se a admissibilidade do especial à luz da Súmula 7 desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 816.187/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer o recurso especial.
+Publique-se.
+EMENTA
