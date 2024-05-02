@@ -1,0 +1,67 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A., contra decisão monocrática, da lavra do Ministro Presidente do STJ (fls. 460-462 e-STJ), que conheceu do agravo para não conhecer do recurso especial manejado pela parte ora recorrente.
+O apelo nobre, por sua vez, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, foi interposto em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 345-346 e-STJ):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA DE URGÊNCIA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PERÍODO DE CARÊNCIA. URGENTE REALIZAÇÃO DO PROCEDIMENTO EM CUMPRIMENTO À DETERMINAÇÃO PROFERIDA EM TUTELA ANTECIPADA, CONFIRMADA, AO FINAL, NA SENTENÇA. PRAZO CONTRATUAL INAPLICÁVEL.
+COBERTURA DEVIDA. APELAÇÃO JULGADA IMPROCEDENTE.
+1. Cinge-se a controvérsia a analisar se a Apelante poderia ter negado atendimento de urgência à parte Apelada sob o argumento de não ter transcorrido prazo de carência de 180 (cento e oitenta) dias para início das coberturas contratadas, não obstante ter a parte Apelada tempo de vida inferior a tal prazo.
+2. Nos termos da decisão vergastada, entendeu o Juízo a quo, em síntese, que a negativa do tratamento requestado pela parte Apelante seria ilícito, porquanto demonstrada circunstância capaz de excepcionar o prazo de carência contratual fixado no bojo do contrato de plano de saúde entabulado entre as partes.
+3. A irresignação da parte Apelante, a seu turno, arrima-se na alegação de que a parte Apelada, ao optar pela adesão do plano contratado, deveria obedecer ao prazo de carência de 180 (cento e oitenta) dias previsto no contrato pactuado e legislação vigente.
+4. Apelada com problema de saúde, diagnosticada com síndrome gripal, bronquilite, com indicação de internação pediátrica, que restou indeferido pela parte Apelante, em vista da aludida carência de cobertura.
+5. Dadas essas informações, é possível concluir que a situação se amolda à regra especial de carência prevista para o caso de emergência, na forma do art. 12, inciso V, alínea "c" da Lei nº 9.656/98.
+6. Com efeito, tal conduta praticada pela ré recorrente se mostrou completamente desarrazoada e ilegal, em flagrante violação aos artigos 12, inciso V, alínea c, e 35-C, incisos I e II, ambos da Lei n.º 9.656/98, que expressamente veda a estipulação de prazo de carência superior a 24 horas para os casos de urgência e emergência; e determina como obrigatória a cobertura do atendimento médico em tais situações, pois, a internação, in casu, tinha caráter de emergência.
+7. Muito embora considere lícita a fixação de período de carência de cobertura contratual do plano de saúde, entendo possível - no caso concreto - a atribuição, à operadora de saúde recorrente, dos ônus decorrentes do custeio do tratamento da parte Apelante, nos termos chancelados na decisão sob reproche, tendo em vista que sua aplicação, ao obstar a cobertura do segurado em casos de emergência ou urgência, estabelece situação de risco de agravamento da saúde do usuário, frustrando o próprio objeto material do negócio jurídico entabulado entre as partes.
+8. Sob o influxo dos precedentes firmados e das razões ora entabuladas, resta devidamente evidenciado que a parte autora corria risco de vida, caso não recebesse atendimento da Apelante.
+9. Em vista do exposto, conheço do recurso para negar-lhe provimento.
+10. Por fim, determino a majoração dos honorários sucumbenciais em 10% (dez por cento) sobre o valor determinado em sede de primeira instância.
+11. Apelação conhecida e não provida.
+Sem oposição de embargos de declaração.
+Em suas razões de recurso especial (fls. 360-366 e-STJ), a recorrente aponta que o acórdão recorrido violou os artigos 12, alínea "b", da Lei nº 9.656/98; e 54, § 4º, do Código de Defesa do Consumidor, aduzindo, em suma, a legalidade da negativa de cobertura do procedimento médico requerido, eis que a segurada ainda se encontra no prazo de carência contratual de 180 dias.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade (fls. 405-410 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) incidência do óbice das Súmulas 282 e 356 do STF; b) incidência do óbice da Súmula 83/STJ; e c) aplicação do óbice da Súmula 5/STJ, dando ensejo a interposição do respectivo agravo (art. 1.042 do CPC/15) às fls. 416-420 e-STJ.
+Sem contraminuta.
+Em juízo monocrático (fls. 460-462 e-STJ), o Ministro Presidente do STJ conheceu do agravo para não conhecer do recurso especial, sob o fundamento da incidência do óbice da Súmula 284/STF, em razão da falta de indicação do permissivo constitucional autorizador do recurso especial.
+Daí o presente agravo interno (fls. 466-470 e-STJ), no qual a parte agravante sustenta a inaplicabilidade do referido óbice.
+Sem impugnação.
+É o relatório.
+Decide-se.
+Ante as razões expendidas, reconsidera-se a decisão de fls. 460-462 e-STJ, porquanto as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de cabimento do recurso especial, a fim de conhecer do agravo para negar provimento ao recurso especial.
+1.  Cinge-se a pretensão recursal à verificação acerca da legalidade da recusa de cobertura de procedimento médico prescrito para o tratamento do segurado, sob a alegação de estar fora do prazo de carência contratual.
+No caso em tela, o Tribunal de origem, ao analisar a questão, com base nos elementos fáticos delineados na lide, manteve a sentença de procedência do pedido, entendendo que era devida a cobertura pelo plano de saúde, tendo em vista tratar-se de procedimento médico de urgência/emergência.
+Confira-se, a propósito, o seguinte retirado do acórdão recorrido (fls. 348-352 e-STJ):
+Cinge-se a controvérsia a analisar se a Apelante poderia ter negado atendimento de urgência à parte Apelada sob o argumento de não ter transcorrido prazo de carência de 180 (cento e oitenta) dias para início das coberturas contratadas, não obstante ter a parte Apelada tempo de vida inferior a tal prazo.
+Nos termos da decisão vergastada, entendeu o Juízo a quo, em síntese, que a negativa do tratamento requestado pela parte Apelante seria ilícito, porquanto demonstrada circunstância capaz de excepcionar o prazo de carência contratual fixado no bojo do contrato de plano de saúde entabulado entre as partes.
+A irresignação da parte Apelante, a seu turno, arrima-se na alegação de que a parte Apelada, ao optar pela adesão do plano contratado, deveria obedecer ao prazo de carência de 180 (cento e oitenta) dias previsto no contrato pactuado e legislação vigente.
+O caso concreto versa sobre o tratamento de criança usuária de plano de saúde diagnosticada com síndrome gripal, bronquiolite, com indicação de internação pediátrica, que restou indeferido pela parte Apelante, em vista da aludida carência de cobertura.
+Dadas essas informações, extraídas da documentação que instruiu a exordial da ação de origem, é possível concluir que a situação se amolda à regra especial de carência prevista para o caso de emergência, na forma do art. 12, inciso V, alínea "c" da Lei nº 9.656/98, que assim preconiza: (..).
+Com efeito, tal conduta praticada pela ré recorrente se mostrou completamente desarrazoada e ilegal, em flagrante violação aos artigos 12, inciso V, alínea c, e 35-C, incisos I e II, ambos da Lei n.º 9.656/98, que expressamente veda a estipulação de prazo de carência superior a 24 horas para os casos de urgência e emergência; e determina como obrigatória a cobertura do atendimento médico em tais situações, pois, a internação, in casu, tinha caráter de emergência.
+Mesmo sendo um contrato de consumo, tal restrição se justifica por razões de equilíbrio contratual e para evitar que o usuário, forçado por uma necessidade específica, procure um plano de saúde apenas para tratamento de uma doença preexistente, procedendo de maneira contrária à boa-fé objetiva, que requer de ambos os contratantes, mesmo do consumidor, uma conduta honesta e leal.
+Nessa perspectiva, muito embora considere lícita a fixação de período de carência de cobertura contratual do plano de saúde, entendo possível - no caso concreto - a atribuição, à operadora de saúde recorrente, dos ônus decorrentes do custeio do tratamento da parte Apelante, nos termos chancelados na decisão sob reproche, tendo em vista que sua aplicação, ao obstar a cobertura do segurado em casos de emergência ou urgência, estabelece situação de risco de agravamento da saúde do usuário, frustrando o próprio objeto material do negócio jurídico entabulado entre as partes. (..).
+Sob o influxo dos precedentes firmados e das razões ora entabuladas, resta devidamente evidenciado que a parte autora corria risco de vida, caso não recebesse atendimento da Apelante.  grifou-se
+Com efeito, nos termos da jurisprudência desta Corte Superior, o prazo de carência, embora seja permitida sua previsão no contrato, não pode ser utilizada pelo plano de saúde para obstar a cobertura do segurado em casos de emergência ou urgência, como restou reconhecido, expressamente, pelas instâncias ordinárias no caso dos autos.
+Ademais, para se rever a conclusão das instâncias ordinárias, acerca da configuração de situação de urgência e/ou emergência, seria necessário a revisão dos elementos fáticos dos autos, providência inviável ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONCLUSÃO ESTADUAL NO SENTIDO DA URGÊNCIA E EMERGÊNCIA. SÚMULA 7/STJ. NECESSIDADE DE COBERTURA, MESMO DURANTE O PERÍODO DE CARÊNCIA. JULGADO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O aresto estadual concluiu, com base na apreciação fática da causa, estarem presentes os requisitos para o reconhecimento de situação configuradora de urgência e emergência, o que atrai a aplicação da Súmula 7/STJ.
+2. Conforme precedentes do STJ, a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência, mesmo durante o período de carência. Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1635279/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/08/2020, DJe 17/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Não se constata a alegada violação aos artigos 489, § 1º, inc.
+IV, e 1.022, do CPC/15, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+2. A jurisprudência do STJ considera "lídima a cláusula de carência estabelecida em contrato voluntariamente aceito por aquele que ingressa em plano de saúde, merecendo temperamento, todavia, a sua aplicação quando se revela circunstância excepcional, constituída por necessidade de tratamento de urgência decorrente de doença grave que, se não combatida a tempo, tornará inócuo o fim maior do pacto celebrado, qual seja, o de assegurar eficiente amparo à saúde e à vida" (REsp 466.667/SP, Rel. Ministro Aldir Passarinho Júnior, Quarta Turma, julgado em 27.11.2007, DJ 17.12.2007)". Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1486048/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PERÍODO DE CARÊNCIA. LEGALIDADE. SITUAÇÃO DE CARÊNCIA E EMERGÊNCIA. MITIGAÇÃO DO PRAZO DE CARÊNCIA. LIMITAÇÃO DO TEMPO DE INTERNAÇÃO. IMPOSSIBILIDADE. EXERCÍCIO REGULAR DE DIREITO. NÃO OCORRÊNCIA.
+1. De acordo com a jurisprudência desta Corte Superior, é lícita a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como na hipótese dos autos. Precedentes.
+2 No caso em tela, a Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, consignou estar cristalizada a situação de urgência e emergência na hipótese vertente. Incidência da Súmula 7 do STJ.
+3. Não prospera a pretensão da recorrente no sentido de limitar a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: "É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado".
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1122995/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+Observa-se, assim, que a matéria debatida pela parte recorrente encontra-se pacificada nesta Corte nos termos do que decidido pelo Tribunal de origem.
+Inviável, portanto, o provimento do recurso especial, em face da incidência dos óbices das Súmulas 7 e 83 do STJ.
+2. Do exposto, reconsidera-se a decisão de fls. 460-462 e-STJ e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatício s em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
