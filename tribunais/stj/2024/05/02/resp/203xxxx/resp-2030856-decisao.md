@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão proferido pelo Tribunal Regional Federal da 5ª Região cuja ementa é a seguinte (fl. 1.030, e-STJ):
+TRIBUTÁRIO. REINTEGRA. PERCENTUAL ADICIONAL DE 2%. AUSÊNCIA DE REGULAMENTAÇÃO. INVIABILIDADE DE SUPRESSÃO PELA DELEGADO DA RECEITA FEDERAL DO BRASIL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. NÃO CONSTATAÇÃO. APELAÇÃO IMPROVIDA.
+1. Apelação interposta por CONDOR NORDESTE INDÚSTRIA E COMÉRCIO LTDA contra sentença que, em ação mandamental, denegou a segurança objetivando provimento jurisdicional para apurar o c r é d i t o adicional de dois por cento do Reintegra (§ 2º, artigo 22 da Lei nº 13.043/2014), mediante comprovação de existência de resíduo tributário remanescente na cadeia de produção de bens exportados, independentemente de regulamento para comprovação do resíduo, determinando que a autoridade se abstenha de qualquer ato lesivo ao direito da Impetrante, assim como restituição, respeitado o prazo prescricional.
+2. O Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - REINTEGRA tem por objetivo desonerar as exportações, através da criação de benefício fiscal.
+3. Para tanto, o art. 22, da Lei 13.043/14, estabelece que a empresa que exporte os bens de que trata a lei poderá apurar crédito, mediante a aplicação de percentual estabelecido pelo Poder Executivo, sobre a receita auferida coma exportação desses bens para o exterior.
+4. Como benefício fiscal, seus parâmetros devem ser previstos em lei, cuja competência é do Poder Executivo, após a devida avaliação da política econômico-tributária.
+5. O controle jurisdicional dos atos omissivos ou comissivos da administração pública deve ser efetuado de forma cautelosa, na medida em que, em regra, não lhe cabe adentrar nas escolhas políticas governamentais, sobretudo, quando não possua a necessária expertise para compreender as consequências econômicas e políticas de uma decisão que invada o mérito administrativo de tais medidas.
+6. Ainda que se reconheça a mora administrativa e que a ausência de regulação contraria a sua própria finalidade, que é a de mitigar os custos e reduzir o resíduo tributário decorrentes da cadeia de exportação, a "redução" do REINTEGRA, por si só, não implica em violação a quaisquer dos princípios constitucionais invocados.
+7. Não há que se falar em ato coator da Delegado da Receita Federal que, incutido da obrigação de obedecer aos ditames da lei, não tem a atribuição legal para suprimir Regulamento ainda não editado.
+8. Apelação improvida.
+Aclaratórios rejeitados (fl. 1.066, e-STJ).
+Recursos Especial às fls. 1.079-1.106 e Extraordinário às fls. 1.109-1.140.
+A recorrente Condor Nordeste Indústria e Comércio Ltda sustenta:
+(..)
+Irresignada, a Recorrente interpõe o presente recurso especial para que seja proferida nova decisão sobre a matéria e o caso concreto, reformando-se o julgado, restando reconhecido o direito líquido e certo da Recorrente de apurar o crédito adicional de dois por cento do Reintegra (§ 2º, artigo 22 da Lei nº 13.043/2014), mediante comprovação administrativa de existência de resíduo tributário remanescente na cadeia de produção de bens exportados, independentemente de regulamento para comprovação do resíduo, com fulcro no inciso III, na alínea "a" do art. 105 da Constituição, por ofensa ao art. 1.022, inciso II, e parágrafo único, c/c art. 489, § 1º, inciso IV todos do CPC, no que diz respeito ao não acolhimento dos declaratórios, bem como, no mérito, por ofensa infraconstitucional aos arts. 21, 22, §2º da Lei nº 13.043/2014.
+(..)
+Com base nos mesmos argumentos apresentados pelo Min. Edson Fachin, há de ser reconhecido o direito da Recorrente de apurar o crédito adicional de dois por cento do Reintegra (§ 2º, artigo 22 da Lei nº 13.043/2014), mediante comprovação administrativa de existência de resíduo tributário remanescente na cadeia de produção de bens exportados, independentemente de regulamentação para comprovação do resíduo.
+Admitiu-se o intento (fl. 1.182, e-STJ).
+Negou-se provimento ao Recurso Especial (fls. 1.222-1.224) em virtude do fundamento eminentemente constitucional utilizado no acórdão recorrido.
+Subiram os autos ao Supremo Tribunal Federal, e o entendimento adotado foi de que há somente afronta reflexa à Constituição Federal, conforme acórdão de fls. 1.371-1.372.
+Retornam os autos ao STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.3.2024.
+Cuida-se, na origem, de Mandado de Segurança impetrado pela ora recorrente "para apurar o crédito adicional de dois por cento do Reintegra (art. 22, § 2º, da Lei 13.043/2014)".
+Inicialmente, constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24.2.2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2015; e EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 27.5.2015.
+Como se verifica de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses do recorrente. Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Ademais, ao se rever as razões veiculadas no Recurso Especial, destacam-se alguns excertos da petição recursal:
+(..)
+Todavia, repisa-se que o comando pretendido com o presente mandamus se trata de interesse no legítimo exercício do controle material de constitucionalidade repressivo e incidental (difuso), que, no ordenamento jurídico pátrio é realizado por um órgão jurisdicional. Além disto, é tarefa do Poder Judiciário realizar o controle quanto à legalidade da norma, sobretudo quando provocado a fazê-lo diante de caso concreto, como ocorre na presente ação.
+(..)
+A própria CF/88 proíbe a criação de normas instituidoras de tributos sobre matérias imunes, garantindo que as empresas brasileiras "exportem produtos e não tributos".
+(..)
+Veja-se, Excelências, não se busca que o Juízo declare haver ou não resíduo tributário na cadeia de exportação, mas que determine que a autoridade analise as evidências na esfera administrativa para que, caso seja convencida da existência do aludido resíduo, acolha o pleito administrativo e conceda os créditos adicionais previstos no artigo 22, § 2º, da Lei nº 13.043/2014.
+A interpretação da autoridade acerca do aludido dispositivo é incompatível com diversos preceitos da CF/88, pois viola-se princípio de tributação no destino, a garantia de desenvolvimento nacional positivada na CF/88, além das imunidades garantidas às exportações.
+(..)
+Veja-se que não pretende a Recorrente que este respeitável Juízo crie norma individual e concreta, fazendo as vezes do Poder Legislativo, de forma a substituí-lo em eventual omissão. Pelo contrário, a Recorrente busca que o Poder Judiciário interprete a norma inserta no art. 22, §2º da Lei nº 13.043/2014 em conformidade com a Constituição Federal, em razão de se tratar de norma de eficácia plena que, caso não praticada, afrontará os princípios constitucionalmente tutelados, como o da vedação à exportação de tributos.
+(..)
+A não aplicação plena do Reintegra frustra ainda os princípios da livre iniciativa, livre concorrência e neutralidade fiscal. Como é cediço, a livre iniciativa é fundamento do Estado Democrático de Direito (art. 1º, IV, da CF/88), enquanto a livre concorrência é princípio informador da ordem econômica (art. 170, IV, da CF/88). Já a neutralidade fiscal é princípio que norteia a tributação e orçamento (art. 146-A da CF/88). Por sua vez, o nascedouro de tais valores constitucionais repousa na garantia fundamental à isonomia e isonomia tributária, expostas no caput do art. 5º e art. 150, II, respectivamente, da CF/88.
+Observa-se que, não obstante a parte tenha invocado dispositivos infraconstitucionais, a discussão em tela é de cunho exclusivamente constitucional (princípio da isonomia, livre iniciativa, livre concorrência e neutralidade fiscal), cuja apreciação é de competência exclusiva da Corte Suprema, conforme dispõe o art. 102, III, da Constituição Federal.
+No tocante à alegada violação ao art. 22, § 2º, da Lei 13.043/2014, o principal argumento da recorrente é "se tratar de norma de eficácia plena". Entretanto, constata-se que não houve o devido debate sobre a matéria pelo Colegiado originário, e a parte não provocou o órgão julgador nos Embargos de Declaração (fls. 1.046-1.051) a fim de que houvesse manifestação a esse respeito.
+Quanto aos demais dispositivos de lei federal apontados como ofendidos, observo que a Corte regional não emitiu juízo de valor sobre as questões jurídicas a eles relacionadas.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram examinados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência do requisito do prequestionamento. Incidem, portanto, as Súmulas 211/STJ e 282 do STF
+Diante do exposto, conheço parcialmente do Recurso Especial, somente quanto à afronta ao art. 1.022 do CPC, e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
