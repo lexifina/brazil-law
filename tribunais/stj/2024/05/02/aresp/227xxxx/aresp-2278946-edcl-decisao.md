@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (e-STJ fl. 489):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões dos embargos, a parte sustenta que o recurso não foi apreciado e julgado adequadamente.
+Refere na fl. 495 que "diferentemente do aduzido na monocrática ora embargada, os embargantes impugnaram através de embargos de declaração o fundamento do acórdão recorrido segundo o qual a aplicação do CPC/1973 se deu por força do artigo 14 do CPC/2015, conforme se observa às fls. 236/242".
+Alega que houve a impugnação específica de todos os fundamentos da decisão de inadmissão do recurso especial, não sendo caso de incidir a Súmula 284/STF, de forma que a conclusão adotada na decisão monocrática, em verdade, resulta em omissão na análise do agravo em recurso especial.
+Sem impugnação.
+Em síntese, é o relatório.
+A decisão ora embargada, ao analisar a tese de que a lei processual se aplicaria imediatamente aos processos em curso, de forma que os honorários advocatícios deveriam ter sido fixados com base no Novo Código de Processo Civil, aplicou os óbices das Súmulas 283 e 284/STF.
+A conclusão foi no sentido de que "recorrente deixou de impugnar o fundamento do acórdão recorrido segundo o qual a aplicação do CPC/1973 se deu por força artigo 14 do CPC/2015, enfatizando que a sentença foi proferida em momento que antecedeu a vigência do CPC/2015.
+É de se destacar que constou da fundamentação o trecho do acórdão proferido pela Corte a quo que ensejou a conclusão pela ausência de impugnação, in verbis (fl. 490):
+Assim constou da fundamentação (fls. e-STJ, 232):
+Diante do que resta decidido, os autores decaíram de parte mínima do pedido, nos termos do parágrafo único do artigo 21 do CPC/1973,de modo que a ré arcará totalmente com os ônus da sucumbência e, de conformidade com o artigo 20, §4º, do CPC/1973, fica arbitrada, a título de honorários de advogado, a quantia de R$ 1.000,00, corrigida pela Tabela Prática do TJSP própria para os débitos da Fazenda Pública, a partir da data deste julgamento. Ambos os dispositivos são aplicáveis à espécie, nos termos do artigo 14 do NCPC.
+A propósito, o acórdão integrativo ainda enfatizou (fl. 249):
+Verifica-se, assim, que as questões suscitadas nos embargos declaratórios foram discutidas no aresto, estando os fundamentos do decisum suficientes à resolução da controvérsia. No tocante aos honorários, a aplicação do CPC/73 se deu por força artigo 14 do CPC/15, considerando a anterioridade da sentença ao novel estatuto processual civil.
+Por conseguinte, a incidência da Súmula 284/STF ocorreu ao fundamento de que "o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida" (fl. 490).
+Logo, evidente que a alegação de omissão se caracteriza, em verdade, como mero inconformismo e intuito de rediscutir a controvérsia, propósitos estes para os quais não se prestam os aclaratórios.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não constatada a presença de nenhum vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. A parte embargante defende que não seria o caso de análise de provas, visto que a própria ementa do acórdão do Tribunal de origem consignou que, de "acordo com o estatuto social da autora, devidamente registrado, a embargante tem como objeto social "a indústria, comércio, exportação de móveis e compensados, importação de matérias-primas, maquinaria, material secundário e tudo mais concernente à indústria do mobiliário em geral,
+agricultura e pecuária em todas as suas modalidades, bem como, participar em outras empresas, como meio de realizar o objeto social ou para beneficiar-se de incentivos fiscais" (evento 1, CONTRSOCIAL3, fls. 4-5)" (fls. 562/563).
+4. Entendimento diverso, conforme pretendido, implicaria necessariamente o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestamos aclaratórios a esse fim.
+6. Os embargos de declaração não constituem instrumento adequado a rever entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de dispositivos constitucionais, mesmo que com vistas à interposição de recurso extraordinário.
+7. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.093.035/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. BENEFÍCIO DA JUSTIÇA GRATUITA. ANTERIOR INDEFERIMENTO. NOVO PEDIDO. CONDIÇÃO FINANCEIRA. ALTERAÇÃO. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. "A jurisprudência deste Tribunal Superior firmou-se no sentido de que cabe ao requerente demonstrar a alteração de sua condição financeira para a obtenção da gratuidade da justiça quando o benefício não foi requerido perante as instâncias ordinárias, bem como nos casos em que a benesse tenha sido anteriormente indeferida, não bastando a mera declaração de hipossuficiência. (AgInt no REsp n. 1.951.005/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2021, DJe de 15/12/2021.).
+4. No caso dos autos, o pleito foi indeferido no primeiro grau de jurisdição e não houve demonstração de que tenha havido alteração na situação financeira do embargante, sendo certo que a improcedência do pedido autoral, por si só, não justifica a concessão do benefício neste momento processual.
+5. Embargos de declaração rejeitados e pedido de concessão do benefício da justiça gratuita indeferido. (EDcl no AgInt no REsp n. 1.968.885/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
