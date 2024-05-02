@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCIANO EUGENIO DE ALMEIDA, fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região que negou provimento à apelação e, posteriormente, rejeitou embargos de declaração opostos, não reconhecendo a prescrição da pretensão punitiva.
+No presente recurso especial, alegou-se ofensa aos arts. 61 do CPP, 109, V, e 117, IV, do CP, ao argumento de que o acórdão que confirma a sentença condenatória não constitui marco interruptivo da prescrição. Requereu, ao final, o provimento da irresignação com o reconhecimento da prescrição punitiva.
+Apresentadas as contrarrazões (fls. 357-365), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do recurso especial (fls. 154-160).
+Nesta Corte o recurso especial não foi conhecido, entretanto, foi concedido habeas corpus de ofício para decretar a extinção da punibilidade do réu, em razão da prescrição da pretensão punitiva (fls. 392-400). Interposto agravo regimental, este foi desprovido (fls. 420-426 ) e, posteriormente, rejeitados os aclaratórios (fls. 442-448).
+Sobreveio decisão do Supremo Tribunal Federal, pela qual foi dado provimento ao recurso extraordinário interposto pelo Ministério Público Federal, com o fim de cassar o acórdão recorrido e determinar que outro seja proferido em seu lugar, com a observância da jurisprudência.
+É o relatório. DECIDO.
+Como relatado, o Supremo Tribunal Federal determinou seja proferida nova decisão, assim passa-se à nova análise do apelo.
+A interrupção (ou não) do prazo prescricional pelo acórdão confirmatório da condenação constitui o cerne do recurso especial.
+O Tribunal de origem, ao rejeitar os embargos declaratórios, asseverou (STJ fls. 238-239 - destaques acrescidos):
+Em decorrência da prática do crime previsto no art. 334, caput, do Código Penal, a pena foi estabelecida em 01 (um) ano, aplicando-se o concurso material, a reprimenda ficou fixada em 04 (quatro) anos de reclusão.
+Depois de transitada em julgado a sentença condenatória para a acusação, a prescrição regula-se pela pena aplicada, nostermosdoart.110,§§1ºe2º,doCP,cujos prazos são os previstos no art. 109 do CP, na redação anterior à Lei 12.234, de05/05/2010.
+Na hipótese, considerando a sanção imposta ao embargante, tem-se prazo prescricional de 04(quatro) anos(art.109,V,c/cart. 119, ambos do CP, c/c Súmula 497 do STF).
+A defesa afirma que o recebimento da denúncia ocorreu em 09/2/2010,entretanto,verifico que a data correta é 9/12/2010.
+Assim, considerando esta data (9/12/2010- fl.28) e a publicação da sentença condenatória (7/10/2014), não transcorreram mais de 04 (quatro) anos entre os mencionados marcos interruptivos, logo não há se falar em extinção da punibilidade da pretensão punitiva em decorrência da prescrição.
+Depreende-se do trecho do voto condutor do acórdão, verifica-se que a tese defensiva, da forma como foi posta no apelo raro, não foi alvo de debate no Tribunal de origem, situação que configura a falta de prequestionamento adequado da matéria e a inviabilidade de conhecimento por esta Corte Superior, sob pena de indevida supressão de instância, à míngua dos pertinentes embargos declaratórios. Incidem, aqui, os óbices das Súmulas n. 282 e 356/STF.
+Ademais, conforme decisão proferida pelo STF no recurso extraordinário de fls. 509-511, o acórdão condenatório interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta, nos termos do que trata o inciso IV do art. 117 do Código Penal.
+Mister registrar que "A jurisprudência desta Corte Superior firmou-se no sentido de que "a fluência do prazo recursal para o Ministério Público e a Defensoria Pública, ambos beneficiados com intimação pessoal, tem início com a remessa dos autos com vista ou com a entrada destes na instituição, e não com oposição de ciência pelo seu representante (AgRg no REsp 1.298.945/MA, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 15/2/2013)" (AgRg no AREsp n. 1.619.139/GO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 7/6/2021).
+Na espécie, o recorrente foi condenado à pena de 1 (um) ano de reclusão pela prática do crime de descaminho, o que revela que o prazo prescricional é de 4 (quatro) anos, nos termos do inciso V do art. 109 do Código Penal - fls. 191-206.
+Entre a publicação da sentença condenatória, em 7/10/2014 (fl. 206), e o acórdão confirmatório, em 24/09/2018 (fl. 308), não transcorreram mais de 04 (quatro) anos, portanto, não restou implementada a prescrição.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PENAL. DESCAMINHO. PRESCRIÇÃO. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO DO PRAZO PRESCRICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. IMPLEMENTO DA PRESCRIÇÃO, RECURSO NÃO CONHECIDO.
