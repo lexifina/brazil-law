@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, em face da decisão acostada às fls. 566/570, e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 375/381, e-STJ, proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+CIVIL E PROCESSO CIVIL. AÇÃO DE EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF. DECLÍNIO DE COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PARA O JUÍZO DA DEMANDA COLETIVA, EM ARACAJU, NO ESTADO DE SERGIPE. INEXISTÊNCIA DE PREVENÇÃO DA INSTÂNCIA ORIGINÁRIA. FACULDADE DO BENEFICIÁRIO EM DEMANDAR NO SEU PRÓPRIO DOMICÍLIO. RECURSO REPETITIVO. TEMA 480 DO STJ. PROVIMENTO.
+Na espécie, pretende-se a execução individual da Fundação dos Economiários Federais - FUNCEF da sentença coletiva pela qual foi condenada ao pagamento - aos aposentados e pensionistas da fundação associados à UNEI - de todos os valores devidos a título de cesta alimentação. Em verdade, a matéria aqui discutida se amolda ao Tema Repetitivo 480 do E. STJ, que, quando do julgamento do REsp 1.243.887/PR, fixou a seguinte tese: "A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC)".
+Evidencia-se, pois, a faculdade do beneficiário em ajuizar a execução individual no seu próprio domicílio, uma vez que os efeitos e a eficácia da sentença coletiva não estão circunscritos a limites geográficos. Jurisprudência. Provimento.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 423/430, e-STJ).
+Nas razões de recurso especial (fls. 453/467, e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal:
+(i) artigo 1022, inc. II, do CPC/15, por negativa de prestação jurisdicional acerca do declínio de competência para a Comarca da Aracajú/SE por ter julgado a ação originária, notadamente previsto nos arts. 10 da Medida Provisória 2200-2/2001, artigo 11 da Lei 11.419/2006 e artigo 425, inciso VI, do Código de Processo de Processo Civil; e
+(ii) artigos 516 e 523, inc. VI, do CPC/15, na medida em que o cumprimento de sentença deverá ser processado e julgado pelo juízo que decidiu a causa no primeiro grau de jurisdição.
+Ao final aduz a inaplicabilidade do CDC no presente caso no termos da Súmula 563 do STJ.
+Contrarrazões às fls. 523/564, e-STJ.
+Em juízo prévio de admissibilidade (fls. 566/570, e-STJ), a Corte de origem inadmitiu o apelo nobre quanto ao art. 1022 do CPC/15 e negou seguimento ao recurso quanto ao mérito, co base no tema 480 do STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), às fls. 607/615, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+Inicialmente, em razão da negativa de seguimento quanto a matéria de mérito, julga-se apenas a ofensa ao art. 1022 do CPC/15.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado restou omisso acerca do declínio de competência para a Comarca da Aracajú/SE por ter julgado a ação originária, notadamente previsto nos arts. 10 da Medida Provisória 2200-2/2001, artigo 11 da Lei 11.419/2006 e artigo 425, inciso VI, do Código de Processo de Processo Civil;
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente da questão (fls. 429):
+Com efeito, restou explícito no acórdão alvejado que a presente execução individual (e não ação civil pública) foi deflagrada com fundamento em sentença proferida em ação coletiva ajuizada pela UNEI, que tramitou sob o nº 200811501102, perante o juíz o da 15ª Vara Cível da Comarca de Aracaju/SE cujo pedido fora julgado procedente, condenando a FUNCEF a pagar - aos aposentados e pensionistas da fundação associados à UNEI - todos os valores devidos a título de cesta alimentação.
+Também ficou expresso que a matéria aqui discutida se amolda ao Tema Repetitivo 480 do E. STJ, que, quando do julgamento do REsp 1.243.887/PR, fixou a seguinte tese: "A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC)".
+Portanto, consignou-se claramente a faculdade do beneficiário em ajuizar a execução individual (repito, e não ação civil pública) no seu próprio domicílio, uma vez que os efeitos e a eficácia da sentença coletiva não estão circunscritos a limites geográficos, não havendo se falar em prevenção do juízo nordestino.
+Assim, destaco que a decisão ora impugnada explicitou claramente seus fundamentos, inexistindo as alegadas máculas. Dessa forma, os argumentos lançados pela parte embargante são absolutamente insuficientes para suportar o pretendido direito.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou, de forma fundamentada.
+Não há falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
