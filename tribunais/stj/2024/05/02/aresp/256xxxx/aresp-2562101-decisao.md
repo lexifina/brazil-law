@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por CCISA 19 INCORPORADORA LTDA., contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado no art. 105, inciso III, alínea "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo Interno Cível - apelação - não conhecimento - ausência de impugnação específica - inobservância do requisito recursal - inadmissibilidade do apelo - decisão monocrática mantida - recurso improvido.
+Em suas razões de recurso especial, o recorrente aponta dissídio jurisprudencial, aduzindo que, na hipótese de o promitente comprador dar causa ao desfazimento do contrato, os juros moratórios incidem a partir do trânsito em julgado da sentença.
+O apelo não foi admitido na origem, dando ensejo ao agravo.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Com efeito, da análise das razões recursais, denota-se que a parte recorrente não indicou com clareza os dispositivos legais que teriam sido violados, o que inviabiliza a compreensão da controvérsia e, por sua vez, caracteriza a deficiência na fundamentação do recurso, atraindo a incidência da Súmula 284 do STF, por analogia.
+Com efeito, esta Corte tem orientação no sentido de que não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal violados ou em torno dos quais haveria a divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FULCRO NA ALÍNEA "C" DO ART. 105, III DA CONSTITUIÇÃO FEDERAL. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF.
+ ..
+2. A jurisprudência consolidada deste Superior Tribunal determina que na interposição do recurso especial pela alínea ""c" do permissivo constitucional é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta deste pressuposto recursal enseja deficiência na fundamentação e inviabiliza do conhecimento do apelo nobre, ante a incidência, por analogia, da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. "Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial" (..) "A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial" (AgRg no REsp 1346588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014).
+4. Agravo interno não provido. (AgInt no AREsp 887.907/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 19/09/2016)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO OU DE EVENTUAL DIVERGÊNCIA JURISPRUDENCIAL APLICAÇÃO DA SÚMULA N. 284 DO STF. MULTA PREVISTA NO ART. 1.021, § 4º, do CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A falta de expressa indicação e demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. Para a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, não basta o mero desprovimento do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso para autorizar a aplicação do referido dispositivo.
+3 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.106.210/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+E, ainda: "A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF)" (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016).
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
