@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. INVERSÃO DO ÔNUS DA PROVA. CÓDIGO DE DEFESA DO CONSUMIDOR. CASO CONCRETO. INAPLICABILIDADE. RELAÇÃO MANTIDA POR PESSOA JURÍDICA. IMPLEMENTAÇÃO DA ATIVIDADE PRODUTIVA. AUSÊNCIA DE VULNERABILIDADE. DECISÃO MANTIDA.
+1. É inaplicável o Código de Defesa do Consumidor e, de consequência, a inversão do ônus da prova, na hipótese em que a discussão referir-se a contrato firmado com instituição financeira para implemento de atividade desenvolvida por pessoa jurídica e quando não houver prova da vulnerabilidade da parte.
+2. Agravo de instrumento conhecido e não provido." (e-STJ, fl. 47)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 79/85).
+Nas razões do recurso especial, os agravantes alegam violação aos arts. 489, §1º, inciso IV e 1.022, inciso II do Código de Processo Civil de 2015 e 2º, 4º, inciso I e 6º, inciso VIII do Código de Defesa do Consumidor, sustentando, em síntese, (a) que os elementos que dariam ensejo a aplicação do CDC ao presente caso e inversão do ônus da prova não foram analisados pela decisão de origem de forma fundamentada, (b) que é possível a mitigação da teoria finalista e aplicação das normas consumeristas, incluindo a inversão do ônus da prova, em vista da maior capacidade probatória, financeira, jurídica e informacional do Banco agravado e (c) que a condição pessoal dos agravados não deve ser considerada, devendo a análise se restringir ao contrato objeto de embargos.
+Contrarrazões às fls. 130/142.
+É o relatório. Passo a decidir.
+Inicialmente, não se verifica a alegada violação aos arts. 489, inciso II e 1.022 do CPC/15, na medida em que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia, in verbis:
+"Segundo consignado no acórdão embargado, é inaplicável o Código de Defesa do Consumidor à hipótese, uma vez que se trata de embargos à execução opostos para discutir dívida decorrente de renegociação de débitos pretéritos da pessoa jurídica . Mecânica Lisboa Ltda Isso porque, de acordo com o Superior Tribunal de Justiça, a legislação consumerista não incide à espécie, porquanto a pessoa jurídica não é considerada destinatária final.
+Diante disso, só seria aplicável o Código de Defesa do Consumidor se verificada a vulnerabilidade da empresa, o que, igualmente, no caso concreto, não se constatou.
+É que se inferiu, pelos elementos constantes dos autos, que os embargantes têm condições de provar suas alegações, pois tiveram acesso à íntegra da cédula executada e à planilha de evolução do saldo devedor." (e-STJ, fl. 83)
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+No tocante a suposta violação dos arts. 2º, 4º, I e 6º, VIII do CDC, a Corte de origem afirmou que não incidem as normas consumeristas sobre o negócio jurídico firmado pelas partes em razão de este ter por objeto a renegociação de dívidas anteriores de pessoa jurídica que não pode ser considerada destinatária final e cuja vulnerabilidade não foi demonstrada, in verbis:
+"Ao exame do referido instrumento contratual, constata-se que a operação destinava- se à implementação das atividades da empresa , porque a finalidade era Mecânica Lisboa Ltda renegociar diversas dívidas contraídas anteriormente pela pessoa jurídica.
+De acordo com o posicionamento do Superior Tribunal de Justiça, adotado por esta 15ª Câmara Cível, o Código de Defesa do Consumidor é inaplicável à hipótese dos autos, uma vez que a pessoa jurídica, neste caso específico, não é considerada destinatária final.
+(..)
+De qualquer modo, essa regra admitiria exceção apenas se a pessoa jurídica demonstrasse eventual vulnerabilidade, o que possibilitaria a aplicação da legislação consumerista.
+(..)
+Na espécie, todavia, não há indícios de que os agravantes estejam em situação de vulnerabilidade ou hipossuficiência perante a instituição financeira, na medida em que teriam condições de provar suas alegações, porquanto tiveram acesso à íntegra da cédula cujos encargos entendem abusivos e à planilha de evolução do saldo devedor.
+Ademais, a inicial está amparada em parecer técnico confeccionado por profissional de sua confiança (mov. 1.8 - 1º grau).
+À vista disso, os agravantes não se encontram em situação de vulnerabilidade ou hipossuficiência perante o banco." (e-STJ, fls. 49/52)
+A decisão está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO COMERCIAL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE FORNECIMENTO DE GASES. CLÁUSULA PENAL COMPENSATÓRIA. DESPROPORCIONALIDADE NÃO IDENTIFICADA. APLICAÇÃO DO CDC. IMPOSSIBILIDADE. INSUMOS ADQUIRIDOS PARA INCREMENTO DE ATIVIDADE COMERCIAL. AUSÊNCIA DE SITUAÇÃO DE VULNERABILIDADE. CONTORNOS FÁTICOS DA LIDE. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, é possível a redução da cláusula penal se a obrigação principal tiver sido cumprida em parte ou se o montante da penalidade for manifestamente excessivo.
+2. "Nos termos da jurisprudência do STJ, é inaplicável o diploma consumerista na contratação de negócios jurídicos e empréstimos para fomento da atividade empresarial, uma vez que a contratante não é considerada destinatária final do serviço" (REsp 2.001.086/MT, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/9/2022, DJe de 30/9/2022).
+3. No caso dos autos, a Corte de origem concluiu que a recorrente não se reveste da qualidade de consumidora destinatária final de serviço e tampouco está cristalizada a sua vulnerabilidade, pois se trata de contrato de fornecimento de insumos (gases) para reconhecido incremento de atividade empresarial de duas grandes empresas, não havendo nenhum elemento probatório que indique o contrário. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.248.321/SC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+Ademais, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos e análise de cláusulas contratuais, o que é inviável na sede estreita do recurso especial, a teor do que dispõem a Súmula 7 e Súmula 5 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
