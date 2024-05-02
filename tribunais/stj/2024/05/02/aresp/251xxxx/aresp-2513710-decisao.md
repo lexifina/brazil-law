@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  incidência  das  Súmulas n. 7 e 83 do STJ  (e-STJ  fls.  785/793).
+O  acórdão  recorrido  encontra-se  assim  ementado  (e-STJ  fl.  193):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. IMPROCEDÊNCIA. EXECUÇÃO DE CLÁUSULA PREVISTA EM CONTRATO DE ARRENDAMENTO. LEGALIDADE E VALIDADE DA CLÁUSULA FIRMADA ENTRE AS PARTES. POSTERIOR RATIFICAÇÃO EM ADITIVO DO CONTRATO. PREVISÃO CONTRATUAL QUE ESTABELECIA AOS ARRENDADORES DOS IMÓVEIS, NOS QUAIS FORAM CONSTRUÍDAS AS USINAS EÓLICAS, A "PARTICIPAÇÃO DE 10% SOBRE EVENTUAL VENDA DO PROJETO, SENDO ESSA VENDA CARACTERIZADA POR EVENTUAL ALTERAÇÃO SOCIETÁRIA NO CONTRATO DE SPE - SOCIEDADE DE PROPÓSITO ESPECÍFICA, CONSTITUÍDA PARA FINS DE EXPLORAÇÃO DE PARQUE EÓLICO". OCORRÊNCIA DA VENDA. INCIDÊNCIA DA CLÁUSULA QUE SE IMPÕE. RESPONSABILIDADE DO EMBARGANTE/APELANTE NO ADIMPLEMENTO DA OBRIGAÇÃO FIRMADA EM CONTRATO. VALOR DEVIDO. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Nas  razões  do  recurso  especial  (e  - STJ  fls.  678/703),  interposto  com  fundamento  no  art.  105,  III,  "a",  da  CF,  a  parte  alegou  violação  dos  artigos  55, §§ 1º e 3º, 58, 485, inciso VI, e 942  do  CPC.
+Aduziu a sua ilegitimidade passiva, tendo em vista que "reconhecida no Acórdão recorrido a cessão do contrato de arrendamento à COMPANHIA PARANAENSE DE ENERGIA - COPEL, esse Tribunal ad quem deverá valorar as consequências jurídicas correspondentes, exonerando o recorrente de qualquer responsabilidade"  (e-STJ  fl.  698).
+Alegou que, "ao desprezar a conexão dos feitos, o Tribunal a quo prejudicou, sobremaneira, o recorrente, que não pôde se fazer presente e sustentar oralmente, por seu causídico, no julgamento ampliado, como lhe assegura o art. 942 do CPC" (e-STJ fl. 702).
+  No  agravo  (e-STJ  fls.  794/816),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Foi  oferecida  contraminuta  (e-STJ  fls.  818/824).
+  É  o  relatório.
+Decido.
+Relativamente à tese de ilegitimidade passiva, o acórdão recorrido asseverou que (e-STJ fls. 636/637, grifei):
+(..)
+Dos termos contratuais acima transcritos resta clara a responsabilidade do embargante/apelante quanto ao pagamento do percentual de 10% (dez por cento) sobre eventual venda do projeto de, venda esta que ocorreu à empresa CUTIA EMPREENDIMENTOS EÓLICO Sgeração de energia eólica SPE S. A. através da compra das Centrais Geradoras Eólicas São Miguel II e II Ltda. que figuraram como INTERVENIENTE/CESSIONÁRIA do Aditivo Contratual.
+Constata-se, portanto, que o embargante/apelante ao firmar o contrato de arrendamento, contraiu a obrigação de pagar aos proprietários e arrendadores das fazendas Grazzia e Recanto, o percentual de10% (dez porcento) do valor de eventual venda do projeto de geração de energia eólica que estava sendo implantado, em 2010, naquele imóvel.
+Obrigação esta que foi RATIFICADA quando da celebração do ADITIVO contratual realizada em 2014, que incluiu no negócio as CENTRAIS GERADORAS EÓLICAS SÃO MIGUEL II E III S.A.,como intervenientes/cessionárias, ambas representadas por RODRIGO FERREIRA FONSECA PEDROSO.
+(..)
+Logo, esta obrigação de natureza pessoal, além de expressamente firmada entre as partes no contrato, e, posteriormente RATIFICADA no ADITIVO, mostra-se válida, sendo exequível desde o momento no qual ocorreu a venda do projeto, por Rodrigo Pedroso, que é o responsável contratual pelo pagamento da participação de 10% sobre a venda do referido projeto eólico.
+Nesse diapasão, não subsiste a insurgência do embargante/apelante quanto à inexigibilidade do título, cuja legalidade e validade mostram-se patentes, sendo Rodrigo Pedroso Energia Ltda. responsável contratualmente pelo adimplemento da obrigação que fora livremente pactuada no contrato de arrendamento.
+  Desse  modo, para  modificar o  entendimento  do  acórdão impugnado firmado no sentido de  que Rodrigo Pedroso é o responsável contratual pelo pagamento da participação de 10% sobre a venda do referido projeto eólico, seria imprescindível reexaminar o conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+No que diz respeito ao argumento de que, ao desprezar a conexão dos feitos, o Tribunal a quo prejudicou sobremaneira o recorrente - que não pôde, por seu causídico, fazer-se presente e sustentar oralmente no julgamento ampliado -, bem como à alegação de ofensa aos arts.  55, §§ 1º e 3º, 58 e 942  do  CPC, verifica-se que a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se  e  intimem-se.
+ EMENTA
