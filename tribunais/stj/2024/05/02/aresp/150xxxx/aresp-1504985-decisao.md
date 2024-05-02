@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por MACIEL E ROSSI COMÉRCIO VAREJISTA DE BEBIDAS LTDA., fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 101):
+"AÇÃO MONITORIA - Cumprimento de sentença - Desconsideração da personalidade jurídica - Obrigação contraída pela empresa executada antes da retirada da ex-sócia - Responsabilidade desta pelo prazo de até dois anos depois de averbada a alteração do
+contrato social - Prazo decorrido presente na hipótese - Impossibilidade de a ex-sócia
+retirante ser responsabilizada - Aplicação dos arts. 1.003, parágrafo único e 1.032 do
+Código Civil - Decisão mantida - Recurso não provido.
+Opostos embargos de declaração, restaram rejeitados às fls. 117/120.
+Nas razões do recurso especial, a agravante alega violação aos arts. 240, 1.022, I e II, do CPC/15. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que "quando fora apresentado o pedido de desconsideração da personalidade jurídica da executada, para inclusão das sócias Kátia e Áurea no polo passivo da ação, ainda não havia decorrido o prazo bienal dos artigos 1.003, parágrafo único e 1.032, do Código Civil, daí porque não se poderia excluir a sua responsabilização pelo pagamento do débito" (fl. 131).
+Foram apresentadas contrarrazões às fls. 163/167.
+É o relatório.
+Da análise dos autos, verifica-se que o colendo Tribunal de origem, não obstante provocado, deixou de examinar questão essencial ao deslinde da controvérsia, a respeito do fato de que "a data da prolação da decisão que decidiu pela desconsideração jamais poderia ser adotada como marco para os fins da responsabilização pretendida" (fl. 130).
+Sobre o tema, esta Corte de Justiça interpreta que "decretada a desconsideração da personalidade jurídica da empresa devedora para atingir os bens particulares do sócio retirante, não há que se perquirir a respeito da implementação ou não do prazo disposto nos arts. 1.003 e 1.032 do CC, tendo em vista que a disregard doctrine refere-se a uma responsabilidade extraordinária, fundada na existência de abuso de direito, tratando-se, portanto, de institutos jurídicos distintos" (AgInt no AREsp n. 1.232.403/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/11/2018, DJe de 22/11/2018.)
+Com efeito, a eg. Corte de origem quedou-se inerte no exame de questão relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não poderia ser analisada de plano, mormente em razão da impossibilidade de incursão no acervo fático-probatório dos autos e de interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 1.022 do Código de Processo Civil, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente.
+Dessa forma, está caracterizada a alegada ofensa ao art. 1.022 do CPC, em razão da omissão da colenda Corte de origem em examinar a questão suscitada.
+Diante do exposto, com fundamento no art. 557, § 1º-A, do Estatuto Processual Civil, dou provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios e determinando-se, por conseguinte, que outro seja proferido e, assim, sanada a omissão aqui verificada.
+Publique-se.
+EMENTA
