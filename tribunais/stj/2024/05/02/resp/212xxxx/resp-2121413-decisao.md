@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por HERMES ROCHA RIBEIRO com arrimo na alínea "a" do permissivo constitucional em face de v. acórdão exarado pelo eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fls. 1.215):
+"Apelação Contrato bancário Ação declaratória de inexistência de relação jurídica c/c indenização por danos materiais e morais Sentença de parcial procedência Insurgência dos bancos.
+Cartão de crédito com reserva de margem consignável (RMC) Contratos supostamente assinados mediante "selfie", que foram impugnados pelo autor Réu que não se desincumbiu do ônus de demonstrar o efetivo consentimento do consumidor, prevalecendo a dúvida quanto à higidez dos documentos apresentados, a ensejar o reconhecimento da inexistência do negócio jurídico Inteligência do art. 429, inciso II, do CPC Tema Repetitivo nº 1.061 do C. STJ Necessidade de devolução dos valores descontados indevidamente, admitida a compensação com a quantia depositada na contado consumidor.
+Danos morais Inocorrência Hipótese narrada que não se qualifica como dano "in re ipsa" Descontos mensais não tão expressivos em comparação com o valor líquido do benefício previdenciário Valores dos saques que foram reconhecidamente depositados na conta corrente do autor - Situação descrita que não ultrapassa o limite do mero dissabor.
+Recurso parcialmente provido."
+Nas suas razões recursais (fls. 1.236-1.255), HERMES ROCHA RIBEIRO alega violação aos artigos 186, 927 e 944, do Código Civil, ao argumento, entre outros, de que é evidente a "(..) irregularidade do negócio que gerou débitos em apreço, pois torna-se cristalino que o recorrente nunca pretendeu contratar operação de crédito junto ao banco réu. O réu utilizou da ausência de conhecimento do autor, pessoa idosa, para impor-lhe um desconto abusivo e não solicitado" (fls. 1.246).
+Assevera, também, que "(..) fica demonstrada a desproporcionalidade no julgado do Tribunal, posto que no caso em comento, são mais de R$ 1.400,00 de desconto e 0,00 arbitrado a título de danos morais. Mais uma infringência ao positivado no artigo 944 do Código Civil. O Julgado hostilizado negou vigência à aludida norma, porquanto não lhe aplicou a devida hermenêutica, que deveria estar em harmonia plena com o disposto no artigo 5º, inciso V da Carta Magna" (fls. 1.247).
+Aduz que a "(..) parte recorrente viu-se demasiadamente violada em seus direitos básicos, visto que a ré se utilizou da vulnerabilidade fática do consumidor e de sua conta bancária, para efetuar descontos não contratados. É possível aduzir que, não fosse o erro crasso na identificação do valor descontado em razão dos empréstimos fraudulentos, não teria o tribunal condenado ambas partes ao pagamento dos honorários por sucumbência recíproca" (fls. 1.251 - destaques no original).
+Defende, ainda, que "(..) O EMPRESTIMO FRAUDELENTO E O RESPECTIVO DESCONTO de R$ 1.418,03 DE PARCELA POR LONGOS 19 MESES, o aposentado se viu privado de manter suas condições de vida, portanto teve ferida sua dignidade, que é o ápice Normativo deste País, conforme previsão do artigo 1º, inciso III da CRFB/88" (fls. 1.252 - destaques no original).
+Intimado, BANCO PAN S/A apresentou contrarrazões (fls. 1.277-1.282), pelo desprovimento do recurso.
+Admitido o recurso (decisão às fls. 1.283-1.284), ascenderam os autos a esta eg. Corte.
+É o relatório. Decido.
+No caso, o eg. TJ-SP, reformando sentença, deu parcial provimento à apelação da Instituição Financeira ora agravada para excluir sua condenação ao pagamento de danos morais ao ora Recorrente, assentando, entre outros fundamentos, que a "(..) ocorrência de desconto indevido na aposentadoria não enseja dano moral in re ipsa". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 1.224-1.226):
+"No que tange ao dano moral, este se revela na repercussão de índole não patrimonial da conduta ofensiva. Em outras palavras, traduz-se em consequências que afetem contexto social, familiar, econômico, comunitário da vítima.
+Vale frisar que a ocorrência de desconto indevido na aposentadoria não enseja dano moral in re ipsa. Desse modo, faz-se necessária comprovação dos constrangimentos ofensivos e humilhantes vivenciados pela parte em razão dos descontos no benefício previdenciário.
+A responsabilidade civil tem seu fundamento no fato de que ninguém pode lesar interesse ou direito de outrem sem ser responsabilizado.
+O dever de indenizar decorre do preceito insculpido no art. 5º, X, da Constituição Federal, o qual prevê serem invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito de indenização pelo dano material ou moral decorrente de sua violação.
+De fato, nem toda situação de sofrimento, tristeza, transtorno ou aborrecimento ensejará a reparação, mas apenas aquelas situações graves o suficiente para afetar a dignidade humana em seus diversos substratos materiais.
+O dano moral é o que atinge a honorabilidade, o crédito, o bom nome profissional e o conceito social da pessoa, resultando em dor profunda e grande tristeza. Somente se considera dano moral indenizável, portanto, a dor subjetiva, interior, que, fugindo à normalidade do cotidiano do homem médio, venha a lhe causar ruptura em seu equilíbrio emocional, interferindo intensamente em seu bem estar.
+No caso em comento, em que pesem as alegações da parte autora, e sem descartar que a situação dos autos tenha lhe causado transtornos, não existem provas suficientes de que tenha havido ofensa de seus direitos da personalidade de consumidor, tratando-se de meros aborrecimentos, mesmo porque os descontos mensais eram de R$ 128,38 (valor não tão expressivo em comparação com o benefício recebido), não houve a inclusão de seu nome nos cadastros de proteção de crédito e o valor do empréstimo foi efetivamente depositado pelo banco.
+(..)
+De rigor, portanto, a reforma em parte da r. sentença, para que seja afastada a indenização por danos morais." (g. n.)
+Nesse jaez, não se infere ofensa aos referidos dispositivos legais, uma vez que o entendimento do eg. TJ-SP coaduna com a jurisprudência desta eg. Corte, como se infere da leitura dos seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS CUMULADA COM DANOS MORAIS. DESCONTO INDEVIDO. BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A caracterização do dano moral exige a repercussão na esfera dos direitos da personalidade.
+2. Nessa perspectiva, a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.157.547/SC, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMULADA. DANOS MORAIS. CONTRATO DE EMPRÉSTIMO. INEXISTÊNCIA. DANO EXTRAPATRIMONIAL. DEMONSTRAÇÃO. AUSÊNCIA. ORIGEM. REVERSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes.
+2. Na hipótese, rever o entendimento firmado pelo tribunal de origem acerca da ausência de dano moral indenizável pela inexistência de contrato de empréstimo bancário, demandaria a incursão nos aspectos fático-probatórios dos autos, procedimento inadmissível em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.149.415/MG, relator MINISTRO RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. MÉTODOS PEDIASUIT E THERASUIT. CUSTEIO. RECUSA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+(..)
+2. Estando o acórdão impugnado conforme à jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ. Ademais, "encontrando-se o aresto de origem em sintonia à jurisprudência consolidada nesta Corte, a Súmula 83 do STJ serve de óbice ao processamento do recurso especial, tanto pela alínea "a" como pela alínea "c", a qual viabilizaria o reclamo pelo dissídio jurisprudencial" (AgInt nos EDcl no AREsp n. 741.863/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 1º/4/2020).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.052.273/DF, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 18/9/2023, DJe de 21/9/2023 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. COTAS CONDOMINIAIS. EXECUÇÃO. NATUREZA PROPTER REM. BEM PENHORADO. POSSIBILIDADE. PROMITENTE-VENDEDOR. TRIBUNAL DE ORIGEM SE FIRMOU NO MESMO SENTIDO. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83 do STJ), entendimento aplicável tanto para a hipótese da alínea "c" do art. 105, III, da Constituição Federal, como da alínea "a" do mesmo dispositivo.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.170.815/PR, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 255, §4º, II, do RI-STJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
