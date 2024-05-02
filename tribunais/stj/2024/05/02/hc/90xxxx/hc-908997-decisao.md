@@ -1,0 +1,14 @@
+DECISÃO
+JEFFERSON DE AZEVEDO BARCELLOS alega sofrer coação ilegal em decorrência de decisão liminar de Desembargador do TJRJ, relator do HC n. 0014617-23.2024.8.19.0000.
+A defesa afirma que o apenado tem direito ao trabalho extramuros harmonizado, em regime semiaberto domiciliar, "tendo em vista ser primário, não ter cometido crime hediondo e em especial laborar em atividade lícita desde 2018" (fl. 4). Aduz que "o condicionamento do recolhimento ao Paciente para apreciação e deferimento do TEM é lhe impor desnecessária prova de caráter" (fl. 4). Ademais, "configura nítida ilegalidade a decisão que se resume a indicar a necessidade de "preservação da ordem pública" sem indicar elementos bastantes a demonstrar o risco da manutenção do agente em liberdade" (fl. 7). Requer "a expedição de alvará de soltura" (fl. 11).
+Decido.
+O Superior Tribunal, nos termos do art. 105 da CF, não tem competência para julgar habeas corpus que contesta decisão liminar proferida por desembargador, sem que o órgão colegiado de Tribunal de segunda instância tenha se pronunciado previamente sobre o assunto.
+Se for constatado, em análise superficial dos autos e à primeira vista, uma ilegalidade flagrante e intolerável, capaz de causar dano irreversível ao paciente, tanto do STJ quanto do STF admitem o excepcional afastamento do rigor da Súmula n. 691 do STF.
+No caso, a questão levantada pela defesa é controversa e o habeas corpus está deficientemente instruído (as decisões proferidas pelo Juiz não foram juntadas aos autos). As razões de pedir são confusas.
+Ilegalidade refere-se a qualquer ato que contrarie as leis.
+Ao realizar a leitura da liminar, percebe-se que não se trata de uma prisão preventiva, mas sim de imposição de pena. As justificativas em relação aos requisitos do artigo 312 do Código Penal são insuficientes e, ao contrário do que argumenta a defesa, o Juiz da VEC não vinculou a análise do pedido de trabalho externo ao recolhimento. Consta que o Magistrado "indeferiu o pleito em 18/12/2023" (fl. 14). O preenchimento dos requisitos do artigo 37 da Lei de Execução Penal não é claro e o condenado pode exercer o trabalho externo mesmo estando recolhido em uma unidade do regime semiaberto. Durante o dia, é viável realizar as atividades, com o recolhimento noturno. Em exame superficial, a simples emissão de mandado de prisão quando o condenado não é encontrado para intimação e é considerado foragido pelo Juiz e pelo Desembargador do TJRJ, não configura, por si só, constrangimento ilegal. A captura é essencial para evitar a prescrição da execução penal e garantir o cumprimento da sentença imposta.
+Nesse panorama, não identifico manifesta ilegalidade que permita a supressão de instância.
+IV. Dispositivo
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
