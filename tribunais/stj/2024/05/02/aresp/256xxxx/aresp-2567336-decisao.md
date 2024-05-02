@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por LBX INCORPORAÇÃO E CONSTRUÇÃO LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL -AÇÃO INDENIZATÓRIA -PROMESSA DE COMPRA E VENDA -ATRASO DA OBRA -IMPUTAÇÃO DE CULPA EXCLUSIVA DO CONSUMIDOR -NECESSIDADE DE PROVA -CLÁUSULA PENAL MORATÓRIA -MULTA PREVISTA APENASEM FAVOR DA CONSTRUTORA -INVERSÃO EM FAVOR DO CONSUMIDOR -DANOS MORAIS -LESÃO A DIREITO DA PERSONALIDADE -QUANTUM -PROPORCIONALIDADE COM A EXTENSÃO DO DANO
+-Admitido pela construtora que o prazo de entrega da obra não foi respeitado, incumbe a si demonstrar a alegação de que o retardo se deu por atuação do consumidor.
+-No julgamento do REsp nº 1.614.721, apreciado sob a sistemática dos recursos repetitivos, o STJ pacificou o entendimento segundo o qual "no contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor".
+-Fugindo à regra de que o mero descumprimento contratual não engendra danos morais indenizáveis, a conduta da construtora/incorporadora que retarda a entrega de obra por período consideravelmente superior ao prazo de tolerância previsto no contrato viola direito da personalidade do consumidor, expondo sua incolumidade moral a impactos lesivos que vão muito além do plano dos meros aborrecimentos cotidianos, pelo que é devida indenização proporcional aos danos extrapatrimoniais suportados" (fl. 358, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 388/392 e 411/415, e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, a violação dos artigos 405 do Código de Processo Civil, 186 do Código Civil e 14, §3º, I, do Código de Defesa do Consumidor.
+Sustenta que "não houve defeito no serviço prestado, eis que o imóvel foi entregue dentro do prazo contratual (considerando a moratória de 180 dias), o que foi comprovado pelo habite-se juntado aos autos, atestando a aptidão do imóvel para o fim colimado" (fl. 502, e-STJ).
+Subsidiariamente, defende ser incabível a mera inversão da cláusula penal em favor do consumidor, pugnado pela redução da mesma para 0,5% ao mês.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso, o Tribunal de origem entendeu que houve atraso na entrega do imóvel imputável à ora recorrente, nos seguintes termos:
+"(..)
+As partes celebraram, em 14/02/2017, Promessa de Compra e Venda referente a uma casa de 51,33 m  a ser construída pela parte ré na Rua Romaria, n. 65, bairro Moradas da Lapinha, em Lagoa Santa/MG, no prazo de um ano, conforme cláusula 2.2 (evento n. 26).
+A entrega do imóvel adquirido, então, deveria ter ocorrido até 14/02/2018, mas a autora narra ter entrado em sua posse somente em janeiro de 2019. Diz a ré que o habite-se foi expedido em julho de 2018, apontando, ainda, que a autora deixou móveis na casa, mandou instalar armários e contratou empreiteiro para modificar a obra, tudo sem o consentimento da construtora, o que embaraçou o serviço. Acrescenta que a autora não cumpriu a obrigação de viabilizar o financiamento após a expedição do habite-se, incorrendo, pois, em mora. A despeito da expedição do habite-se em 04/2018 (evento n. 30), a ré admite que a obra não estava acabada nessa data e não nega que o atraso afirmado na inicial ocorreu.
+Sobre sua tese de culpa exclusiva da autora no retardo da empreitada, a requerida não elucidou em que medida as intervenções da autora sobre o bem impediram a finalização do empreendimento. Aliás, a requerida não trouxe qualquer prova em sua defesa.
+Em impugnação, a autora esclareceu que de fato pediu um reforço na fundação, para eventual construção de segundo andar, mas que o procedimento durou apenas três dias, não atrasando, pois, a execução da obra. Diz ainda que foi construído um esgoto nos fundos do terreno e rebocado um muro, ambos sob seu custeio e sem interferência no cronograma da ré. Juntou diálogos entre ela e prepostos da ré, em que foram descritas pendências na obra, a saber: porta lascada, marco torto e necessidade de modificação do padrão de energia (evento n. 37). Em face desses documentos, a apelante nada justificou, sequer dizendo quando sanou esses problemas. Não ficou demonstrada, pois, a tese de defesa de que as intervenções da autora causaram o atraso da obra, ônus que incumbia à ré (art. 373, II do CPC).
+Sobre a afirmada mora da autora quanto à providência do financiamento bancário após o habite-se, vê-se das correspondências eletrônicas juntadas pela autora (evento n. 65) que a obra não estava liberada para o financiamento, tendo o engenheiro da Caixa Econômica Federal apontado diversas irregularidade no imóvel, que deveriam ser reparadas pela ré (evento n. 65).
+A requerente comprovou ter enviado a documentação que lhe incumbia (evento n. 70), não constando nos autos qualquer pendência por parte da cliente no processo de financiamento.
+Logo, não há que se falar em mora da autora, porque o financiamento não se deu por causas imputáveis somente à ré. Tampouco ficou demonstrada, ou mesmo foi alegada, qualquer das circunstâncias de caso fortuito ou força maior elencadas na cláusula n. 06.
+Desta feita, é evidente a ocorrência de atraso na entrega da obra, restando dirimir as consequências da mora da ré.
+(..)" (fls. 361/362, e-STJ).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias, a partir da tese de que não houve atraso na entrega do imóvel, demandaria a análise dos fatos e das provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Rever o entendimento do Tribunal local acerca do no sentido de aferir a ocorrência ou não do atraso na entrega do imóvel ou a exceção do contrato não cumprido, segundo as razões vertidas no apelo extremo, seria imprescindível o reexame de cláusulas contratuais e o revolvimento de matéria fático e probatória, providências que esbarram nos óbices das Súmulas 5 e 7 desta Corte.
+2. A jurisprudência do Superior Tribunal de Justiça orienta no sentido de considerar que a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta o pagamento de indenização por lucros cessantes, sendo presumido o prejuízo do promitente comprador. Precedentes.
+3. Derruir a afirmação do Tribunal de origem, no sentido da demonstração dos danos morais, ensejaria, necessariamente, em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+3. Relativamente à responsabilidade do pagamento das taxas condominiais, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+4. Agravo interno desprovido" (AgInt no REsp n. 2.002.287/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Ademais, quanto à cláusula penal, consta o seguinte no acórdão recorrido:
+"(..)
+Não foram estabelecidas multas para o caso de mora da construtora.
+(..)
+Chegou-se, então, à conclusão de que "em caso de inadimplemento (absoluto ou relativo),se houver omissão do contrato, cabe, por imperativo de equidade, inverter a cláusula contratual penal (moratória ou compensatória), que prevê multa exclusivamente em benefício da promitente vendedora do imóvel."
+(..)
+Atento a essa ponderação e considerando que o próprio contrato em voga definiu como justa remuneração pela fruição (ainda que em hipótese distinta -cláusula 5.2.1) o valor de 1% do valor total do imóvel a cada mês de atraso, é também esse valor que deve compor a cláusula penal moratória devida pela construtora à compradora para compensá-la pelas perdas e danos, inadmitida a cumulação com indenização adicional por danos materiais ou multa de 2% e juros de mora de 1% sobre o valor do imóvel, considerando que o negócio jurídico não foi desfeito e que a parte ré não tem parcelas a serem restituídas à autora.
+(..)" (fls. 363/365, e-STJ).
+De fato, "é possível a inversão da cláusula penal moratória em favor do consumidor, na hipótese de inadimplemento do promitente-vendedor, consubstanciado no atraso na entrega do imóvel. Precedentes. Súmula 568 do STJ" (AgInt no AREsp n. 2.106.119/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Além disso, não há como alterar o percentual da cláusula penal aplicado na origem sem a incursão nos aspectos fático-probatórios da causa, o que recai no óbice da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. 2. CLAÚSULA PENAL MORATÓRIA. APLICADO O PERCENTUAL PREVISTO EM CONTRATO. REVISÃO DOS ENTENDIMENTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Considerando que o acórdão recorrido foi decidido em consonância com a jurisprudência desta Corte, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+2.1. Tendo o Tribunal de origem consignado que houve, tão somente, a aplicação de cláusula prevista no contrato celebrado entre as partes quanto ao percentual da multa moratória (2% sobre o valor do imóvel por mês de atraso na entrega), a revisão de tal entendimento não está ao alcance desta Corte, por demandar o reexame do conjunto fático-probatório dos autos e a interpretação de cláusula contratual, providências vedadas nesta instância especial, nos termos das Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido" (AgInt no AREsp n. 2.076.405/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022.)
+Por fim, resta consignar que a incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não se pode encontrar similitude fática entre os julgados recorrido e paradigma.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
