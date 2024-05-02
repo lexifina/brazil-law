@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado pela FÁBIRCA VIRROSAS LIMITADA contra decisão que determinou a devolução dos autos à origem, por ter sido a matéria afetada à Primeira Seção do STJ para julgamento pelo rito dos recursos repetitivos, na forma dos arts. 1.036 e seg uintes do CPC/2015, conforme recursos especiais n. 2.093.050/AM e 2.093.052/AM.
+O requerente alega, à fl. 627, que a matéria tratada no recurso especial versa sobre tema diverso (com grifo no original):
+Consoante se extrai dos autos, trata-se de Recurso Especial (e-STJ FL. 484/540) interposto pela Impetrante,requerendo a reforma do v. Acórdão (e-STJ FL. 443/449), prolatado pela 7ª Turma do Egrégio Tribunal Regional Federal da 1ª Região, para afastar a violação ao art. 1º do Decreto-Lei nº 356/68, aoart. 4º do Decreto-Lei nº 288/67, §1º, inciso II, ao art.14da Medida Provisória nº2.158-35/2001, ao art.5º da Lei nº 10.637/02 e ao art.6º da Lei nº 10.833/03, de modo a reconhecer a inexistência de relação jurídico-tributária para afastar a incidência do PIS/COFINS sobre as receitas oriundas das vendas de mercadorias originadas na ZFM e remetidas para destinatários situados na AMAZÔNIA OCIDENTAL, bem como para declarar o direito à compensação do montante indevidamente recolhido, devidamente atualizado, relativamente aos 5 (cinco) anos anteriores à data do ajuizamento da presente ação.
+Processado o feito, sobreveio a r. Decisão(e-STJ FL.620)que determinou a devolução dos autos ao Tribunal de origem,com a respectiva baixa na Corte, sob o fundamento de que a Primeira Seção do ST Jdecidiu afetar à sistemática dos recursos repetitivos os REsps 2.093.050/AM e 2.093.052/AM, com a seguinte tese controvertida:"definir se o PIS e a COFINS incidem sobre as receitas decorrentes de vendas de mercadorias de origem nacional, realizadas a pessoas físicas situadas dentro da área abrangida pela Zona Franca de Manaus.", senão vejamos:
+É o relatório.
+Após o exame detido dos autos, verifica-se que a matéria do presente recurso especial, de fato, engloba tema diversa daquele que foi afetado à sistemática dos recursos repetitivos nos REsps 2.093.050/AM e REsp 2093052/AM.
+Ante o exposto, defiro o pedido de distinção a fim de tornar sem efeito a decisão de fl. 620.
+Após, retornem-me os autos conclusos para nova análise do recurso especial.
+Publique-se. Intimem-se
+EMENTA
