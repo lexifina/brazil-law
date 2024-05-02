@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Agravos contra decisões que inadmitiram Recursos Especiais (art. 105, III, "a" e "c", da Constituição Federal) interpostos de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE OBRIGAÇÃO DE FAZER - TERMO DE AJUSTAMENTO DE CONDUTA - MEIO AMBIENTE - RECUPERAÇÃO DE ÁREA DEGRADADA - TAC POSTERIOR - INEXIGIBILIDADE PARCIAL - RECUPERAÇÃO DA ÁREA E CONTENÇÃO DE ENCOSTAS - OBRAS COMPLEXAS - PRAZO PARA CUMPRIMENTO - DILAÇÃO.
+- Na execução por obrigação de fazer fundada em título executivo extrajudicial, ao despachar a inicial, o magistrado fixará multa por período de atraso no cumprimento da obrigação e a data a partir da qual será devida, podendo, caso o valor da multa se encontre previsto no título executivo e se mostre excessivo, reduzi-lo (art. 814 e parágrafo único, do CPC).
+- A celebração de novo Termo de Ajustamento de Conduta cujo objeto prejudica, em parte, Termo de Ajustamento de Conduta firmado anteriormente, implica na inexigibilidade parcial das obrigações, em razão da concessão de novo prazo para o seu cumprimento.
+- Tratando-se de execução de obrigação de fazer consistente na recuperação de área degradada e contenção de processos erosivos, que envolve grande área e medidas complexas, afigura-se razoável a dilação do prazo de cumprimento da obrigação de 45 para 180 dias.
+Os Embargos de Declaração foram rejeitados (fls. 1.857-1861 e 1.903-1.908).
+Em seu Recurso Especial, MGPX Empreendimentos e Participações Ltda. apontou violação dos arts. 489, § 1º, IV, 803, I, 814, parágrafo único, e 1.022, II, do CPC/2015.
+O MPE/MG, por sua vez, indicou afronta aos arts. 489, § 1º, IV, 803, I, 814, parágrafo único, e 1.022, II, do CPC/2015.
+A inadmissão dos Recursos deram ensejo à interposição dos presentes Agravos.
+Em parecer às fls. 2.089-2.096, o Ministério Público Federal opinou pelo não provimento dos Agravos em Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.2.2024.
+1. Agravo em Recurso Especial de MGPX Empreendimentos e Participações Ltda.
+A Corte local, amparada nas especificidades do caso concreto, não conheceu do Recurso Especial por (a) ausência de negativa de prestação jurisdicional; (b) aplicação da Súmula 283/STF; (c) incidência da Súmula 7/STJ; e (d) falta de demonstração do dissídio jurisprudencial (fls. 2.003-2.009).
+Da análise do Agravo em Recurso Especial (fls. 2.040-2.051), observa-se que a recorrente não enfrentou os dois últimos itens acima elencados.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que, "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp 1.067.725/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20.10.2017).
+Cumpre ressaltar que, no julgamento dos Embargos de Divergência nos Agravos em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP em 19.9.2018, a Corte Especial do Superior Tribunal de Justiça interpretou a Súmula 182/STJ e decidiu que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que a parte recorrente refuta apenas parte da decisão agravada, ainda que a parte impugnada seja capítulo autônomo em relação à não impugnada. A isso, acrescentem-se as disposições do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015, que determinam o não conhecimento do Agravo em Recurso Especial que deixa de atacar especificamente todos os fundamentos da decisão de admissibilidade. Nessa esteira:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de indenização por dano moral contra o Município de São José do Rio Preto e outro, objetivando o recebimento de 150 (cento e cinquenta) salários-mínimos, acrescidos de correção monetária e juros de mora. Na sentença o pedido foi julgado parcialmente procedente para condenar o Município de São José do Rio Preto ao pagamento de R$ 165.000,00 (cento e sessenta e cinco mil re ais), (valor correspondente a cento e cinquenta salários-mínimos) a título de indenização por morais e acrescidos de juros desde o evento danoso (Súmula n. 54/STJ). No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 2.063.004/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 21.9.2022)
+2. Agravo em Recurso Especial do MPE/MG
+Diante da impugnação específica dos pontos que embasaram a decisão de inadmissibilidade, conheço do Agravo.
+Passo ao exame do Recurso Especial.
+O Colegiado originário reconheceu a inexigibilidade parcial das obrigações constantes do TAC firmado com o MPE/MG ao argumento de que o acordo tornou-se prejudicado por TAC celebrado posteriormente com a Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável.
+Em Embargos de Declaração, o MPE/MG requereu o pronunciamento do órgão julgador sobre o fato de não ter se envolvido, sequer como interveniente, na celebração do novo TAC, e, por isso, este último acordo não poderia prejudicar a execução do ajuste com o Ministério Público. In verbis (fls. 1.849-1.851):
+(..)
+Com o devido respeito, a decisão não levou em conta o fato de que a celebração de outro TAC com órgão público diverso não tem o condão de afastar a exigibilidade de TAC previamente celebrado com órgão público também legitimado para tomar o compromisso de ajustamento de sua conduta às exigências legais.
+É que o novo ajuste foi celebrado entre o Condomínio Portal Sul e a SUPRAM-CM, não envolvendo o Ministério Público como interveniente. Portanto, não pode prejudicar o título executivo que embasa a presente execução.
+Nem mesmo o fato de ter a Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável (SEMAD), a quem se encontra subordinada a SUPRAM-CM, figurado como interveniente no TAC celebrado com o Ministério Público em 2009 tem o condão de invalidar o pacto validamente formalizado entre as partes. Interveniente não é parte, data venia. Não tem poder para, unilateralmente, modificar o que foi pactuado entre as partes. É um mero assistente. Somente se o Ministério Público figurasse no novo TAC é que se poderia questionar da substituição de um título pelo outro. Tal não ocorre.
+Mais de treze anos se passaram sem que o agravante adimplisse as obrigações assumidas no ajuste. A celebração de novo TAC com parte estranha à execução, em 2022, não pode ter o condão de afastar a exigibilidade das obrigações assumidas no TAC original e invalidar, ainda que parcialmente, o título executivo.
+Deve prevalecer a regra estabelecida no § 6º do art. 5º da Lei n.º 7.347/85:
+§ 6º Os órgãos públicos legitimados poderão tomar dos interessados compromisso de ajustamento de sua conduta às exigências legais, mediante cominações, que terá eficácia de título executivo extrajudicial.
+(..)
+Isso posto, ouvida a parte contrária (art. 1.023, § 2º, do CPC), requer o embargante que essa egrégia Turma possa suprir a omissão apontada e, em consequência, negar provimento ao agravo de instrumento.
+No entanto, ao julgar os aclaratórios, o TJ/MG manteve-se silente quanto à questão (fls. 1.857-1.861), que é relevante para a resolução da demanda.
+Assim, está caracterizada a ofensa ao art. 1.022, II, do CPC/2015 a justificar a retorno dos autos à origem para reapreciação dos Embargos do Parquet. A propósito:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+(..)
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ. Precedentes.
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta.
+(AREsp 1.465.390/GO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 2.3.2021)
+3. Conclusão
+Diante do exposto:
+(a) não conheço do Agravo em Recurso Especial de MGPX Empreendimentos e Participações Ltda.; e
+(b) conheço do Agravo para dar provimento ao Recurso Especial do MPE/MG e determino a devolução dos autos ao Tribunal a quo para que este, em novo julgamento dos Embargos de Declaração, se manifeste sobre a alegação de não ter a parte se envolvido, sequer como interveniente, na celebração do TAC mais recente e, por isso, este último acordo não poderia prejudicar a execução do ajuste com o Ministério Público.
+Publique-se.
+Intimem-se.
+EMENTA
