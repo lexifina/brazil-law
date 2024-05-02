@@ -1,0 +1,134 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5037391-61.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: LG ELECTRONICS DO BRASIL LTDA
+RECORRIDO: JULIANA MANTOVANELLI DE OLIVEIRA
+RELATOR(A):
+SAMUEL MIRANDA GONCALVES SOARES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+EMENTA: RECURSO INOMINADO. RELAÇÃO DE CONSUMO. AÇÃO DE RESTITUIÇÃO DE QUANTIA E INDENIZAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE TELEVISOR. PRODUTO COM DEFEITO. DECADÊNCIA NÃO OPERADA. VÍCIO OCULTO. VALOR DO CONSERTO SUPERIOR AO VALOR DO PRODUTO. VIDA ÚTIL DO BEM QUE DEVE SER CONSIDERADA. RESTITUIÇÃO DA QUANTIA PAGA PELO PRODUTO DEFEITUOSO E NÃO PELO NOVO PRODUTO ADQUIRIDO. REFORMA PARCIAL DA SENTENÇA. DANOS MORAIS CONFIGURADOS.
+QUANTUM
+MANTIDO (R$ 3.000,00). RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SEM CONDENAÇÃO EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS.
+
+Recurso Inominado nos autos n°
+5037391-61.2022.8.08.0024
+
+Recorrente:
+LG ELECTRONICS DO BRASIL LTDA
+
+Recorrida: JULIANA MANTOVANELLI DE OLIVEIRA
+
+Relator: SAMUEL MIRANDA GONÇALVES SOARES
+
+VOTO
+
+SAMUEL MIRANDA GONÇALVES SOARES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade intrínsecos e extrínsecos, motivo pelo qual recebo-o apenas em seu efeito devolutivo, por não verificar risco de dano irreparável à parte recorrente, nos termos do art. 43 da Lei nº 9.099/95.
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 do FONAJE.
+
+Intimada, a recorrida não apresentou suas contrarrazões.
+
+Compulsando o Recurso Inominado interposto por
+LG ELECTRONICS DO BRASIL LTDA
+,
+verifico que a parte recorrente sustenta, em síntese:
+a)
+ausência do dever de reparar o produto, aduzindo que o suposto vício se deu após o término da garantia e não há prova de vício oriundo do processo de fabricação;
+b)
+ausência de dano material indenizável, ou subsidiariamente, que o valor a ser ressarcido corresponda àquele despendido pela recorrida para aquisição do televisor que apresentou defeito (R$ 1.659,00) e não a quantia correspondente à aquisição de um novo aparelho (R$ 2.399,00);
+c)
+inexistência de danos morais, passíveis de indenização, ou, subsidiariamente, pela redução do
+quantum
+fixado. Por tais motivos, pleiteia pela reforma da sentença, com a improcedência dos pleitos autorais.
+
+O cerne da presente lide prende-se a apurar se no caso em análise operou-se a decadência do direito (por se encontrar o produto fora da garantia), o que afastaria a procedência dos pleitos autorais.
+
+Ab initio
+, consoante acertadamente destacado pelo juízo de 1º grau,
+“[...] o produto adquirido é de fabricação da empresa requerida, apresentando vício cerca de um ano e meio após a aquisição, conforme demonstrado através da juntada de ordem de serviço apresentada em id nº 19682345 e relatório de análise de produto apresentado em id nº 19682340 e elaborado pela própria requerida”
+(
+sic
+– ID 7643263, negritei).
+
+Assim,
+in casu,
+verifica-se a responsabilidade do recorrente em relação ao vício oculto apresentado no produto (televisor) adquirido pela recorrida, salientando-se que somente a partir da descoberta do vício é que passa a correr o prazo legal de 90 dias (em se tratando de bem durável).
+
+Além do mais, a Terceira Turma do Superior Tribunal de Justiça reconheceu a responsabilidade do fornecedor por defeitos ocultos apresentados em eletrodomésticos, mesmo já estando vencida a garantia contratual, mas ainda durante o prazo de vida útil dos produtos. Vejamos:
+
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO E RECONVENÇÃO. JULGAMENTO REALIZADO POR UMA ÚNICA SENTENÇA. RECURSO DE APELAÇÃO NÃO CONHECIDO EM PARTE. EXIGÊNCIA DE DUPLO PREPARO. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280/STF. AÇÃO DE COBRANÇA AJUIZADA PELO FORNECEDOR. VÍCIO DO PRODUTO. MANIFESTAÇÃO FORA DO PRAZO DE GARANTIA. VÍCIO OCULTO RELATIVO À FABRICAÇÃO. CONSTATAÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. RESPONSABILIDADE DO FORNECEDOR. DOUTRINA E JURISPRUDÊNCIA. EXEGESE DO ART. 26, § 3º, DO CDC.
+
+[...]
+
+7. Cuidando-se de vício aparente, é certo que o consumidor deve exigir a reparação no prazo de noventa dias, em se tratando de produtos duráveis, iniciando a contagem a partir da entrega efetiva do bem e não fluindo o citado prazo durante a garantia contratual.
+
+Porém, conforme assevera a doutrina consumerista, o Código de Defesa do Consumidor, no § 3º do art. 26, no que concerne à disciplina do vício oculto, adotou o critério da vida útil do bem, e não o critério da garantia, podendo o fornecedor se responsabilizar pelo vício em um espaço largo de tempo, mesmo depois de expirada a garantia contratual.
+
+8. Com efeito, em se tratando de vício oculto não decorrente do desgaste natural gerado pela fruição ordinária do produto, mas da própria fabricação, e relativo a projeto, cálculo estrutural, resistência de materiais, entre outros, o prazo para reclamar pela reparação se inicia no momento em que ficar evidenciado o defeito, não obstante tenha isso ocorrido depois de expirado o prazo contratual de garantia, devendo ter-se sempre em vista o critério da vida útil do bem.
+
+9. Ademais, independentemente de prazo contratual de garantia, a venda de um bem tido por durável com vida útil inferior àquela que legitimamente se esperava, além de configurar um defeito de adequação (art. 18 do CDC), evidencia uma quebra da boa-fé objetiva, que deve nortear as relações contratuais, sejam de consumo, sejam de direito comum. Constitui, em outras palavras, descumprimento do dever de informação e a não realização do próprio objeto do contrato, que era a compra de um bem cujo ciclo vital se esperava, de forma legítima e razoável, fosse mais longo.
+
+10. Recurso especial conhecido em parte e, na extensão, não provido.
+(REsp n. 984.106/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/10/2012, DJe de 20/11/2012)
+
+Na situação em exame, a expectativa de quem adquire um televisor de valor elevado é de que este cumpra com sua finalidade durante período de tempo considerável, apenas necessitando de revisões e manutenções periódicas, mas que não venha a apresentar problemas como aquele relatado nos autos (defeito que ultrapassou, em muito, o valor do produto).
+
+No entanto, com a devida vênia, entendo que a sentença deva ser parcialmente reformada tão somente em relação ao valor estabelecido a título de danos materiais, que considerou a quantia despendida para aquisição de um novo aparelho de TV (R$ 2.399,00) e não o valor pago pelo produto defeituoso (R$ 1.659,00).
+
+Em relação ao pedido de indenização por danos morais, verifico que restou devidamente comprovado os transtornos suportados pela recorrida em razão das várias tentativas em solucionar administrativamente o defeito apresentado no produto adquirido, não merecendo, de igual forma, ser reformada a sentença.
+
+Ora, é cediço que a indenização por dano moral assumiu no direito brasileiro além da função reparatória dos danos causados aos direitos da personalidade do lesado, uma função punitivo-pedagógica (não somente punitiva) de forma a evitar que o causador do dano venha a agir da mesma forma no futuro em relação a outras pessoas, tendo um caráter de prevenção neste último caso, ou seja, não pode e não deve ser fundamentado praticamente e exclusivamente no aspecto punitivo.
+
+Dessa forma, ao arbitrar o
+quantum
+indenizatório em R$ 3.000,00 (três mil e quinhentos reais), andou bem o juízo de origem, fixando montante que não é considerado, pelas peculiaridades do caso, nem irrisório, nem excessivo.
+
+Diante do exposto,
+CONHEÇO
+do recurso inominado interposto por
+
+LG ELECTRONICS DO BRASIL LTDA
+e, no mérito,
+DOU-LHE PARCIAL PROVIMENTO,
+reformando a sentença de 1º grau tão somente para estabelecer a indenização por danos materiais no montante de R$ 1.659,00 (um mil e seiscentos e cinquenta e nove reais), com incidência de juros legais a partir da citação e correção monetária a partir do desembolso
+.
+
+Sem condenação em custas judiciais e honorários sucumbenciais.
+
+É como voto.
+
+LIVIA MILLERE BRAHIM PINHA
+
+Juíza Leiga
+
+Acolho na íntegra o projeto redigido pela Juíza Leiga, e o adoto como razões da minha manifestação. É como voto.
+
+SAMUEL MIRANDA GONÇALVES SOARES
+
+Juiz de Direito – Relator
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
