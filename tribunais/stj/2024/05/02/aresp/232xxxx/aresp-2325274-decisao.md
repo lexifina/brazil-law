@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por BENÍCIO ISÍDIO DE ARAÚJO E OUTROS em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Alagoas, assim ementado:
+"AGRAVO INTERNO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIZAÇÃO CIVIL EM RAZÃO DE DANOS CAUSADOS EM MORADIAS LOCALIZADAS NO BAIRRO DO PINHEIRO. IRRESIGNAÇÃO DO AGRAVANTE EM FACE DA DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO DE EFEITO SUSPENSIVO FORMULADO, A FIM DE MANTER A SUSPENSÃO PROCESSUAL DA AÇÃO ATÉ O JULGAMENTO DA AÇÃO CIVIL PÚBLICA EM TRÂMITE NA JUSTIÇA FEDERAL, DETERMINADA PELO JUÍZO DE PRIMEIRO GRAU. AJUIZAMENTO PELO MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS E DA DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS DA AÇÃO CIVIL PÚBLICA - ACP DE Nº 0803836-61.2019.4.05.8000, A QUAL SE ENCONTRA EM TRÂMITE NA JUSTIÇA FEDERAL DESTE ESTADO.
+ENTENDIMENTO SEGUNDO O QUAL AJUIZADA AÇÃO COLETIVA ATINENTE À MACRO-LIDE GERADORA DE PROCESSOS MULTITUDINÁRIOS, SUSPENDEM-SE AS AÇÕES INDIVIDUAIS, NO AGUARDO DO JULGAMENTO DA AÇÃO COLETIVA. PRECEDENTES DO STF, STJ E DESTA CORTE DE JUSTIÇA. NECESSIDADE DE SOBRESTAMENTO DO PROCESSO ORIGINÁRIO ATÉ O JULGAMENTO FINAL DA ACP. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. RECURSO CONHECIDO E NÃO PROVIDO.
+UNANIMIDADE." (fl. 689/690)
+Sob a alegação de ofensa aos arts. 337, §§ 1º, 2º e 3º, do CPC/15, 81 e 104 do Código de Defesa do Consumidor (CDC), os recorrentes sustentam, em síntese, que "não há que se falar em sobrestamento da presente demanda em razão de multiplicidade de ações, tão pouco é aplicável o tema repetitivo 675 do STF, isso porque não há que se falar em prejuízo no prosseguimento das ações individuais em razão da existência de ação civil pública" (fl. 706).
+Contrarrazões às fls. 722/734.
+É o relatório.
+O acórdão deve ser mantido. É firme o entendimento do STJ no sentido de que, "ajuizada ação coletiva relativa à macrolide geradora de processos multitudinários, suspendem-se as ações individuais, no aguardo do julgamento da ação coletiva." (AgInt no AREsp n. 2.343.354/AL, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.).
+Esse entendimento, a propósito, é vinculante para as instâncias ordinárias, pois fixado no Tema n. 589/STJ ("Ajuizada ação coletiva atinente à macro-lide geradora de processos multitudinários, suspendem-se as ações individuais, no aguardo do julgamento da ação coletiva".).
+Desse modo, como a pretensão da ação de rito comum (individual) postula o ressarcimento de danos em razão de ilícito praticado pela Braskem S.A, na exploração de minérios em municípios do Estado de Alagoas - objeto abrangido por ação coletiva ajuizada pelo Ministério Público Estadual -, impõe-se a manutenção da ordem de suspensão do feito.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
