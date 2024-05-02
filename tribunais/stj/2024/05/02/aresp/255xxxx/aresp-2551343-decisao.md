@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 489, § 1º, incisos II e IV, e 1.022, incisos II e III, ambos do Código de Processo Civil, 46 da Lei 10.931/2004 . O acórdão recorrido está retratado na seguinte ementa (fl. 564):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. CONSUMIDOR. FUNDAMENTAÇÃO DA SENTENÇA. NULIDADE. AFASTADA. COMPRA E VENDA DE IMÓVEL. REVISÃO CONTRATUAL. CAPITALIZAÇÃO DE JUROS. PREVISÃO CONTRATUAL. ABUSIVIDADE. DEMOSNTRAÇÃO. 1. Não há vícios na sentença quanto à fundamentação, quando o magistrado deduz as razões de fato e de direito que levaram ao seu convencimento, em estrita observância à norma do art. 93, inciso IX, da Constituição Federal. 2. De acordo com a jurisprudência, a capitalização de juros só é permitida àqueles que integram o Sistema Financeiro de Habitação, de modo que, não o integrando a empresa construtora de imóveis, os juros incidentes sobre as parcelas do contrato de compra e venda de imóvel devem ser calculados de forma simples, mostrando-se abusiva a previsão contratual de forma diversa. 3. Apelação cível conhecida e não provida.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 593):
+EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. OMISSÃO. CONTRADIÇÃO. INOCORRÊNCIA. REJEIÇÃO.
+1. A ausência do vício da omissão ou contradição no acórdão recorrido impõe a rejeição dos embargos de declaração, de modo que o inconformismo da parte com o resultado do julgamento deve ser materializado por meio de recurso adequado.
+2. Embargos de declaração não providos.
+Sustenta a parte agravante que não aplicou juros capitalizados mensalmente ao saldo devedor da parte contrária, de modo que inexistiu qualquer tipo de conduta ilegal ou passível de correção.
+Adverte que o Juízo de primeiro grau reconhece o documento trazido pela agravada como inadequado e sem qualquer técnica, mas, posteriormente, utiliza desse mesmo documento para embasar o suposto anatocismo, utilizando, inclusive, conceitos totalmente equivocados, quanto à definição de capitalização de juros.
+Alerta que o que há de previsão no contrato é a periodicidade mensal para apuração do reajuste das parcelas, condição essa totalmente de acordo com a legislação de regência e que não significa capitalização de juros.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Quanto ao mérito, o TJDF, ao apreciar o feito, entendeu às fls. 570:
+No caso, quanto à comprovação da capitalização mensal de juros, o contrato, em sua cláusula 5.4, prevê expressamente a sua cobrança no reajuste do preço das parcelas. Observe-se (Id. 44289883):
+5.4. A periodicidade de apuração para o reajustamento das parcelas do preço será mensal, conforme estipulado na legislação em vigor (artigo 46, da Lei 10.931, de 02/08/04)
+Além disso, também como bem observado pelo sentenciante, do histórico de pagamentos de ID 100547564, que demonstra a evolução do saldo devedor do contrato, observa-se que, de fato, a parte ré capitalizou os juros estipulados no contrato celebrado entre as partes com periodicidade mensal (só observar variação mensal dos valores cobrados a esse título, que, não fosse a periodicidade mensal, deveria ser uniforme ao menos por 12 meses), gerando, dessa forma, excesso de cobrança, o que se afigura como abusivo.
+Nesse contexto, ao contrário das alegações da Ré/Apelante, tenho que se encontra demonstrada a cobrança mensal e abusiva de capitalização de juros, seja pela pressa previsão no contrato, seja pelo histórico de pagamentos, fazendo necessária apenas a realização de cálculos para apuração do valor cobrado a maior, em sede de liquidação se sentença.
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
