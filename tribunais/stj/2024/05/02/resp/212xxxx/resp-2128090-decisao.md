@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLEYSON CARVALHO MACHADO E LUÍS OTAVIO CARVALHO com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL -AÇÃO DE COBRANÇA -CITAÇÃO POR EDITAL -PARTE REQUERIDA -ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO -INOCORRÊNCIA -NULIDADE DO ATO. -Em razão do seu caráter excepcional e subsidiário, a citação por edital é permitida apenas se esgotadas as possibilidades de encontrar o destinatário do ato. -Frustrada a tentativa de citação via correio, é nula a editalícia, quando não efetivada a pesquisa em Sistema Informatizado (SIEL), previamente determinada pelo Juízo, para a localização da parte Requerida. -As normas relativas ao ato citatório, por visarem à garantia do devido processo legal, não comportam mitigação quanto ao seu cumprimento." (e-STJ, fl. 312)
+Opostos embargos de declaração, os mesmos foram rejeitados com aplicação de multa (e-STJ, fl. 401).
+Em suas razões recursais, os recorrentes apontam violação aos arts. 256, §3º, 257 e 1.026, §2º do Código de Processo Civil de 2015 e divergência jurisprudencial, sustentando, em síntese, (a) que o recorrido estava ciente da presente ação por meio do acompanhamento de sua procuradora desde 09/02/2021, (b) que a apelação alegando nulidade da citação foi interposta de forma espontânea, (c) que foram tentadas por três vezes a citação por AR no endereço correto do recorrido, devendo ser considerado o mesmo em lugar ignorado ou incerto, (d) que foi realizada busca no sistema INFOJUD, sendo o endereço contido no AR o único encontrado e (e) que a multa aplicada em razão da oposição de embargos é indevida.
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 293/299).
+É o relatório. Passo a decidir.
+Com relação aos arts. 256, §3º, 257 do CPC/15, a Corte de origem concluiu, diante do contexto fático-probatório dos autos, que a citação por edital promovida no presente caso é nula diante da não configuração da excepcionalidade necessária para a realização deste ato, considerando não terem sido esgotados os meios para a localização pessoal do réu, in verbis:
+"Nos autos, foi diligenciada, sem êxito, a citação do Segundo Requerido, ora Apelante, por carta, no endereço informado na Peça Inaugural (Rua José Leocádio, nº 478, Bairro Jardim Panorama, Campo Belo), a teor do documento de Código 29.
+Em razão dessa circunstância, o Juízo de origem determinou a realização de pesquisas para a localização do Segundo Demandado/Recorrente nos Sistemas informatizados SIEL -Sistema de Informações Eleitorais e INFOJUD -Sistema de Informações ao Judiciário, conforme o Despacho de Código 33.
+Sobreveio a Certidão anexada sob o Código 39, que indicou o resultado da consulta ao INFOJUD (Cód. 41) e esclareceu a impossibilidade temporária de acesso ao SIEL, in verbis:
+(..)
+Expedida Carta Citatória, para o endereço pesquisado no INFOJUD (Rua Levi Couto Alvarenga, 630, Bairro São Luiz, Campo Belo), houve a sua devolução, informando a mudança do destinatário, a teor do AR juntado sob o Código 58. Após, sem ao menos possibilitar a consulta faltante e anteriormente ordenada, no SIEL -Sistema de Informações Eleitorais, o Juízo de origem determinou a citação por edital e nomeou Curador Especial (Códs. 63, 69 e 72), o qual apresentou Contestação por negativa geral (Cód. 76). Realizada a instrução dilatória, foi proferida a Sentença de procedência dos pleitos formulados em desfavor do Segundo Requerido/Apelante, motivada, inclusive, no fenômeno da revelia (Cód. 97).
+Logo, essas ocorrências processuais revelaram a falta do esgotamento dos meios para a localização pessoal do Segundo Réu/Recorrente e, por conseguinte, a não configuração de excepcionalidade autorizadora do ato citatório ficto. Saliento que as normas relativas à citação da parte Requerida, por visarem à garantia do devido processo legal, não comportam mitigação quanto ao seu cumprimento." (e-STJ, fls. 317/318)".
+A decisão está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DE CITAÇÃO POR EDITAL. NÃO OCORRÊNCIA. ESGOTAMENTO DAS TENTATIVAS DE LOCALIZAÇÃO DA PARTE RÉ RECONHECIDO NA ORIGEM. DUPLICATA SEM ACEITE. PRESTAÇÃO DE SERVIÇOS. PROTESTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a citação por edital somente é admitida quando previamente esgotadas as tentativas de localização da parte demandada. Precedentes.
+2. A jurisprudência deste Tribunal Superior é no sentido de que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.222.850/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/3/2024, DJe de 11/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. NULIDADE DE CITAÇÃO POR EDITAL. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, a citação por edital pressupõe o esgotamento dos meios de localização do executado, sob pena de nulidade. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.361.748/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+No tocante a alegada violação ao art. 1.026, §2º do CPC/15, tem-se que os embargos de declaração foram rejeitados com imposição de multa:
+"Por conseguinte, verificada a incompatibilidade (ou seja, a dissociação) entre a causa de pedir dos Embargos e os limites legais (art. 1.022, do CPC), não é a simples rejeição do Recurso que redundará na aplicação de multa, mas, sim, o reconhecimento de que, nem mesmo abstratamente, a tese apresentada teria o condão de justificar o acolhimento dos Aclaratórios, justamente por não refletir omissão, obscuridade ou contradição. Considerando que, como registrado, estes Embargos não se ajustam às disposições do art. 1.022, da Lei Adjetiva Civil, mostra-se imperativa a aplicação da multa, por manifesto abuso do direito de recorrer." (e-STJ, fl. 417)
+Os embargos opostos pela parte às fls. 333/374 tiveram como objetivo sanar eventual omissão e obter o prequestionamento da matéria objeto de eventual recurso especial. Assim sendo, nos termos do entendimento deste Superior Tribunal de Justiça, não há que se falar em caráter protelatório dos mesmos.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. AFASTAMENTO. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. NULIDADE DA ARREMATAÇÃO. CARTA DE ARREMATAÇÃO EXPEDIDA E REGISTRADA NO CARTÓRIO IMOBILIÁRIO. NECESSIDADE DE AÇÃO PRÓPRIA. ART. 486 DO CPC. ARREMATAÇÃO DE IMÓVEL HIPOTECADO EM EXECUÇÃO APARELHADA POR CREDOR QUIROGRAFÁRIO. AUSÊNCIA DE INTIMAÇÃO DO CREDOR HIPOTECÁRIO. ART. 698 DO CPC. INEFICÁCIA DA ARREMATAÇÃO EM RELAÇÃO AO CREDOR HIPOTECÁRIO (ART. 619 DO CPC), E NÃO SUA NULIDADE.
+(..)
+2. É inviável a aplicação da multa prevista no parágrafo único do art. 538 do Código de Processo Civil se os embargos declaratórios não tiveram o propósito manifesto de procrastinar o feito. Aplicação da Súmula n. 98/STJ.
+(..)
+7. Recursos especiais parcialmente providos."
+(REsp 1.219.329/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 29/4/2014)
+"PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DIREITOS INDIVIDUAIS HOMOGÊNEOS. BANCO DE DADOS DE PROTEÇÃO AO CRÉDITO. CONSUMIDOR. INSCRIÇÃO. MINISTÉRIO PÚBLICO. LEGITIMIDADE ATIVA. INTERESSE PROCESSUAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. DESNECESSIDADE DE DOCUMENTO FORMAL PARA ATESTAR A DÍVIDA A SER INSCRITA NOS BANCOS DE DADOS DE PROTEÇÃO AO CRÉDITO. AVISO DE RECEBIMENTO DISPENSADO. DESPICIENDA A NOTIFICAÇÃO RELATIVA A INFORMAÇÕES CONSTANTES EM BANCOS DE DADOS PÚBLICOS. NECESSÁRIA A NOTIFICAÇÃO DE NEGATIVAÇÃO DERIVADA DE INFORMAÇÕES CONSTANTES DO CCF.
+1. A multa prevista no artigo 538, parágrafo único, do Código de Processo Civil exige, para sua imposição, que os embargos de declaração tenham caráter manifestamente protelatório, o que não é o caso em julgamento. Incidência da Súmula 98 do STJ.
+(..)
+11. Recurso especial a que se dá parcial provimento." (REsp 1033274/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/08/2013, DJe 27/09/2013, grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 557, § 2º, DO CPC/73. ESGOTAMENTO DE INSTÂNCIA. NECESSIDADE. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/73. PREQUESTIONAMENTO. SÚMULA 98/STJ.
+AFASTAMENTO DAS MULTAS APLICADAS. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que não é aplicável a multa do artigo 557, § 2º, do CPC/73 quando o agravo interno interposto contra decisão monocrática do relator objetiva o exaurimento da instância ordinária, a fim de possibilitar a interposição de posterior recurso.
+2. É inviável a aplicação da multa do artigo 538, parágrafo único, do CPC/73 se os embargos de declaração foram opostos com o fim de prequestionar a matéria deduzida no apelo especial, e não com o propósito protelatório.
+Aplicação da Súmula 98/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 166.764/PA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial, exclusivamente para afastar a multa aplicada nos termos do art. 1.026, § 2º, do CPC/15.
+Publique-se.
+EMENTA
