@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LIGIA MARIA DE ALFIER E SILVA em face da decisão de fls. 351/353 e-STJ, que deu parcial provimento ao recurso especial, apenas para reconhecer a abusividade da cláusula que transfere para a recorrente a obrigação do pagamento de débitos do imóvel antes da efetiva posse.
+Em suas razões, a embargante alega que a decisão é omissa (i) a respeito da obrigação da devolução em dobro com os acréscimos legais; (ii) no tocante ao pedido de condenação da embargada em danos materiais, amparada na multa contratual pela não entrega do imóvel dentro do prazo legal e (iii) quanto a ausência de majoração dos honorários advocatícios, de acordo com o artigo 85, §11, do CPC.
+Ao final, sustenta que a decisão é contraditória quanto à verba sucumbencial, ao argumento de que "apesar do parcial provimento do recurso especial, o improvimento foi apenas no que concerne ao dano moral e, diante de todo o pedido, o decaimento foi em igualdade pelas partes".
+Impugnação às fls. 366/369, e-STJ.
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+Consoante o disposto no art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no art. 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida e (c) corrigir o erro material.
+Primeiramente, no que diz respeito à alegada omissão quanto à obrigação da devolução em dobro com os acréscimos legais e no tocante ao pedido de condenação da embargada em danos materiais, amparada na multa contratual pela não entrega do imóvel dentro do prazo legal, observa-se que a embargante não apontou a matéria alusiva aos dispositivos legais relacionados às matérias quando da interposição do recurso especial, mas tão somente nas razões dos presentes embargos. Trata-se, portanto, de evidente inovação recursal.
+No tocante à omissão relativa à ausência de majoração dos honorários, registra-se que os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil somente incidem nos casos em que o recurso não é conhecido ou não é provido, o que não é a hipótese dos autos.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO. ART. 85, § 2º, DO CPC/2015. PRECEDENTES. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. DESCABIMENTO NA HIPÓTESE.
+1. A Corte a quo, ao fixar os honorários advocatícios com base no valor da causa, e não no valor da condenação, acabou por prequestionar, ainda que implicitamente, a norma prevista nos § § 2º e 3º do art. 85 do CPC/2015, uma vez que, de fato, a questão da base de cálculo da referida verba foi devidamente enfrentada pelo acórdão recorrido, não havendo que se falar em ausência de prequestionamento na hipótese.
+2. Os honorários advocatícios de sucumbência devem ser fixados, via de regra, sobre o valor do proveito econômico obtido ou, não sendo possível quantificar o proveito econômico do vencedor da demanda, sobre o valor atualizado da causa. Nesse sentido: REsp 1.746.072/PR, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro Raul Araújo, Segunda Seção, DJe 29/03/2019; REsp 1789913/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/03/2019.
+3. O recurso especial foi parcialmente conhecido e, nessa parte, provido para consignar o valor da condenação como base de cálculo dos honorários advocatícios, de modo que, consoante a jurisprudência desta Corte, descabe a majoração dos honorários na forma do § 11 do art. 85 do CPC/2015 quando provido, ainda que parcialmente, o recurso especial, visto que essa regra incide apenas nos casos de inadmissão ou rejeição do recurso. Nesse sentido: REsp 1.727.396/PE, Segunda Turma, Rel. Min. Herman Benjamin, DJe de 02/08/2018.
+4. Agravo interno parcialmente provido apenas excluir a majoração de honorários advocatícios em desfavor da parte ora agravante" (AgInt no REsp nº 1.922.510/MT, relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 24/5/2022, DJe de 27/5/2022.)
+Por fim, não merece acolhimento o pedido de reconhecimento de sucumbência recíproca pelo fato de o único pedido autoral ter sido julgado procedente.
+Com efeito, sendo mínima a sucumbência de uma das partes, a outra responde integralmente pelas despesas e honorários advocatícios, nos termos do art. 86, parágrafo único, do CPC.
+Dessa forma, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+Publique-se.
+EMENTA
