@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos artigos arrolados, incidência da Súmula n. 7/STJ e falta de comprovação do dissídio jurisprudencial (e-STJ fls. 113/115).
+O acórdão recorrido está assim ementado (e-STJ fl. 47):
+Agravo de Instrumento. Locação de Imóvel. Fase de cumprimento de sentença proferida em ação de despejo por falta de pagamento. Decisão agravada rejeitou impugnação de penhora levada a efeito sobre bem constante da herança deixada por um dos executados. - Irresignação - Inadmissibilidade - O exame dos autos dá conta de que afigura-se inadmissível, por falta de fomento jurídico, a arguição de nulidade da penhora. Tampouco há que se cogitar de violação ao princípio da menor onerosidade ao executado. Contrariamente ao alegado pelos agravantes, a prerrogativa de indicação de bens à penhora, por força de lei, é do credor, ex vi do que dispõe o art. 829, §2º, do NCPC. Destarte, cabia aos executados e agravantes e não ao credor e agravado, a indicação de bens penhoráveis menos onerosos à satisfação do débito, o que não ocorreu no caso sub judice. Demais disso, a despeito da necessidade de observância do princípio da menor onerosidade ao executado, nunca é demais lembrar que a sistemática do Processo Civil brasileiro, coloca o processo executivo a serviço do credor. Inteligência dos arts. 789, 924, 798, II, "c" e, notadamente, o art. 797, todos do NCPC. Bem por isso, inadmissível que se pretenda converter o princípio da vedação à onerosidade excessiva em panaceia, com o escopo de proteger em caráter absoluto o inadimplente em face do credor. No mais, a análise da matrícula imobiliária carreada aos autos dá conta de que o bem dela objeto, que foi penhorado, ainda não foi objeto de partilha. Logo, inadmissível a alegação de que o bem pertença a pessoa interdita. Nesse aspecto, não é demais lembrar que por força do que dispõe o art. 1784, do CC, que acolheu o princípio da saisine, a herança, que compreende o acervo de bens, obrigações e direitos, transmite-se aos herdeiros. Enquanto não efetuada a partilha, a massa patrimonial deixada pelo falecido, denomina-se Espólio, que vem a ser a uma universalidade de bens. Em sendo as obrigações do falecido transmitidas aos herdeiros e não havendo notícia de partilha nos autos problema algum há na penhora do bem. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 60/67).
+Nas razões do recurso especial (e-STJ fls. 70/80), interposto com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes apontaram, além de dissídio jurisprudencial, ofensa aos arts. 579 e 581 do CC/2002, 805 e 835 do CPC/2015. Sustentaram que, apesar de a ordem de preferência de bens passíveis de penhora em sede de cumprimento de sentença ser obrigatória, ela não foi observada. Alegaram que "não assiste qualquer lógica uma dívida de menos de R$ 100.000,00 (cem mil reais) levar à leilão um imóvel de mais de R$ 1.000.000,00 (um milhão de reais), quando ainda existem outras pesquisas de bens à serem realizadas pelo Recorrido" (e-STJ fl. 76). Aduziram ter sido violado o princípio da menor onerosidade do devedor. Acrescentaram que os herdeiros não foram intimados da penhora sobre o referido imóvel, sendo que, nessa qualidade, deveriam ser intimados de todos os atos expropriatórios sobre o patrimônio que compõe o espólio do de cujus. Registraram que, "admitida a transmissão mencionada alhures, com a necessidade de intimação dos herdeiros, tal fato torna imperiosa a intervenção do Ministério Público nos autos de origem, para que seja admitida a penhora determinada, ante a existência de interesse de Incapaz, nos moldes do art. 178, II, do Código de Processo Civil" (e-STJ fl. 78). Indicaram julgado do TJGO a fim de demonstrar a divergência de entendimentos.
+Contrarrazões às fls. 99/105 (e-STJ).
+No agravo (e-STJ fls. 118/126), declaram a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 131/143).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Os recorrentes apontaram violação dos arts. 579 e 581 do CC/2002, mas não explicaram de que forma referidos dispositivos de lei teriam sido ofendidos. Assim, por carência de fundamentação, incide a Súmula n. 284/STF.
+A alegação de que os herdeiros deveriam ter sido intimados dos atos expropriatórios não se fez acompanhar de dispositivo violado, o que também caracteriza deficiência de fundamentação.
+Quanto à necessidade de intervenção do Ministério Público, o TJSP consignou que (e-STJ fls. 52/53):
+No mais, a análise da matrícula imobiliária juntada a fls. 305/307, autos de origem, dá conta de que o bem constrito pertencia ao de cujus Rigo D"Ettore, cujo inventário ainda não foi concluído.
+Portanto, inadmissível a alegação de que o bem pertença a pessoa interdita.
+Nesse aspecto, não é demais lembrar que por força do que dispõe o art. 1784, do CC, que acolheu o princípio da saisine, a herança, que compreende o acervo de bens, obrigações e direitos, transmite-se aos herdeiros.
+Enquanto não efetuada a partilha, a massa patrimonial deixada pelo falecido, denomina-se Espólio, que vem a ser a uma universalidade de bens.
+Como dito, as obrigações do falecido transmitem-se aos herdeiros.
+Destarte e não havendo notícia de partilha nos autos e, ainda, demonstrado o débito, problema algum há na penhora do bem.
+Realmente, não consta nos autos prova de que o bem imóvel penhorado tenha sido transferido a herdeira interdita.
+Ressalto, nesse sentido que os agravantes nada provaram a respeito em sua impugnação.
+Decidir de outro modo demandaria reexame de elementos fáticos, o que é inviável no especial, por força do dispõe a Súmula n. 7/STJ.
+O comando normativo do art. 835 do CPC/2015 não foi examinado pela Corte de origem. Dessa forma, por ausência do necessário prequestionamento, incide a Súmula n. 282/STF.
+Além disso, o Colegiado local decidiu em conformidade com a jurisprudência desta Corte, ao dispor que "a despeito da necessidade de observância do princípio da menor onerosidade ao executado (cabendo ao juiz zelar para que a execução "(..) se faça pelo modo menos gravoso para o devedor" - art. 805, NCPC), nunca é demais lembrar que a sistemática do Processo Civil brasileiro, coloca o processo executivo a serviço do credor" (e-STJ fl. 52).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. PRINCÍPIO DA MENOR ONEROSIDADE RELATIVA. SÚMULA 83/STJ. PENHORA REGULAR. EXCESSO NÃO VERIFICADO. REEXAME DE PROVA. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+ ..
+2. "Embora deva a execução ser processada do modo menos gravoso ao devedor, ela há de realizar-se no interesse do credor, que busca, pela penhora, a satisfação da dívida inadimplida" (AgInt no AREsp 956.931/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 21/3/2017, DJe de 10/4/2017).
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.366.469/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/11/2023, DJe de 23/11/2023.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
