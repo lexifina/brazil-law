@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por ANNA PAULA ALVES IGLESIAS MENDANHA, contra decisão que não admitiu recurso especial (fls. 694/695, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 613, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - AUSÊNCIA CITAÇÃO - CANCELAMENTO ATOS DE CONSTRIÇÃO - POSSIBILIDADE.
+1. A falta do ato citatório válido, por constituir vício gravíssimo, ao tolher a possibilidade do contraditório e da ampla defesa, eiva o feito de nulidade, fato que enseja, a rigor, a anulação dos atos processuais contaminados.
+2. A intimação por Oficial de Justiça acerca da eventual penhora de bens, não tem condão de suprir a citação válida, haja vista que de todo modo, impede a manifestação do Réu a tempo e modo.
+3. Inexistindo provas de que o Réu está dilapidando seu patrimônio, ou, ainda, que estivesse impossibilitado de arcar com eventual condenação, incabível a manutenção da concessão de tutela de urgência cautelar.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial (fls. 654/672, e-STJ), o recorrente aponta ofensa ao artigo 239, § 1º, do CPC/15.
+Sustenta, em síntese, que houve comparecimento espontâneo, em razão do fato do demanda, ora agravado, ter entrado em contato por telefone com a secretaria do cartório da Vara de origem e, assim, tomou ciência da existência da demanda.
+Contrarrazões (fls. 676/687, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicável ao caso a Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 719/727 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Na espécie, a Corte local, ao negar provimento ao agravo de instrumento interposto pela insurgente, confirmou a nulidade dos atos processuais, em razão da ausência de citação demandado, ora agravado.
+Convém colacionar os seguintes trechos do acórdão recorrido (fls. 616/622, e-STJ):
+Busca a parte Agravante reformar a decisão de primeiro grau que, em sede de ação monitória, por consequência do reconhecimento da nulidade da citação, determinou o cancelamento das ordens de penhora, restrições e pesquisas junto aos sistemas conveniados, previamente deliberados.
+(..)
+Ao exame dos autos e diante da controvérsia aqui posta em discussão - cancelamento das ordens de constrição -, parece-me prudente trazer a ordem cronológica e sequencial dos fatos a fim de conferir uma melhor prestação jurisdicional. A saber:
+Distribuída a inicial da presente ação monitória fundada na certeza do direito relativo à importância discriminada nos títulos de crédito emitidos em 2011, o magistrado a quo determinou, à p. 18 da ordem n. 08, a expedição do mandado para, além da citação da parte requerida, pagamento do débito cobrado ou oferecimento de embargos à monitória. E, apesar de inúmeras diligências tomadas, os mandados retornaram sem cumprimento, conforme teor de p. 20-29 (ordem n. 08).
+Diante disso, a Autora, aqui Agravante, por meio da petição de p. 34 da mesma ordem, "visando conhecer o atual endereço residencial do Réu", requereu a utilização dos sistemas do INFOJUD, RENAJUD e BACENJUD.
+Ato contínuo, equivocadamente, ao manifestar sobre o requerimento retro, o juízo a quo, na decisão de p. 35 assim determinou bloqueio de bens e valores, nos seguintes termos:
+Solicite-se o bloqueio de numerários através do sistema BACENJUD, o lançamento do impedimento judicial de transferência sobre o(s) veículo(s) licenciados em nome da parte executada, através do sistema RENAJUD, bem como a consulta das três últimas declarações de imposto de renda, através do sistema INFOJUD, conforme requerido, atendo-se ao recolhimento de custas previsto no provimento 36/CGJ/2014.
+Prolongando sem que houvesse citação válida, tampouco nova expedição de mandado de citação da Ré, a Autora, valendo-se da decisão supra, requereu, por meio da petição de p. 01 da ordem n. 09, a penhora e avaliação dos veículos encontrados em nome do executado na cidade de Ouro Preto.
+Em sequência, foi determinada, à p. 23 da ordem n. 11, a penhora no rosto dos autos dos processos movidos pelo executado, LUIZ ALBERTO LOPES que tramitam perante CENTRASE da Fazenda Estadual desta Comarca, para que fosse averbada a penhora no valor de R$ 50.232,52 - conforme planilha de cálculo indicada pela Autora.
+Feito isso, a Autora manifestou por meio da petição de p. 32 (ordem n. 11) alegando a insatisfação do débito em execução, pugnando, por via de consequência, o bloqueio das contas do Executado via BACENJUD e a utilização do sistema INFOJUD, os quais, apesar de deferidos pela juíza à p. 35 (mesma ordem), restaram infrutíferos.
+Em seguida, diante da frustração das penhoras, a Autora, - destaco, por oportuno, que até o momento não tinha ocorrido à citação válida do Réu - requereu a penhora de 30% do rendimento do IPSEMG e do FRGPS do executado (p. 55-58 - ordem n. 11), medida que foi deferida pela magistrada à p. 03 e 20 (ordem n. 12), motivo pelo qual foram expedidos ofícios aos respectivos órgãos.
+Oportunamente, sendo surpreendido com os descontos em seus proventos, o Réu, nos termos da certidão de p. 23 (ordem n. 12), entrou em contato, por telefone, com o cartório da Vara de origem certificando que não foi devidamente citado na presente ação, fato que ensejou o chamamento do feito à ordem pela decisão de ordem n. 13.
+Posteriormente, devidamente citado, o Réu apresentou, à ordem n. 39, os embargos à monitória alegando, em primeiro lugar, a nulidade absoluta do feito ante a ausência de citação regular, o que, por óbvio, impediu a formação da relação processual; em segundo lugar, a impossibilidade de penhora, tendo em vista que inexiste execução, tão logo porque não houve citação válida. Aduziu ainda, em terceiro lugar, a prejudicial de mérito por prescrição embasada no art. 206, § 5º, I, do CC e, no mérito, sustentou a impenhorabilidade dos proventos e aposentadoria.
+Impugnação aos embargos à monitória à ordem n. 57.
+Conclusos ao magistrado primevo, foi proferida a decisão ora agravada.
+Pois bem.
+Feito o introito necessário, passo à análise da controvérsia propriamente dita, qual seja, eventual manutenção dos atos de constrição anteriormente deferidos sem que - como destacado - se verificasse a citação do Réu para pagamento ou oferecimento de embargos, nos termos do art. 701 do CPC (art. 1.102-B do CPC/73, vigente à época dos fatos).
+Oportunamente, destaco que, como se sabe, a citação do réu constitui pressuposto indispensável para a validade do processo. A falta do ato citatório válido, por constituir vício gravíssimo ao tolher a possibilidade do contraditório e ampla defesa - direitos assegurados pela CF/88 - eiva o feito de nulidade, fato que enseja, a rigor, a anulação dos atos processuais contaminados.
+Digo isso porque, segundo a interpretação do art. 238 do CPC, a citação se consubstancia no "ato pelo qual são convocados o réu, o executado ou o interessado para integrar a relação processual".
+(..)
+Fixada tal premissa norteadora, verifico que no curso da presente ação monitória não houve citação válida, fato notório, inclusive reconhecido pelo próprio magistrado a quo.
+Aliás, verifica-se, do exame dos autos, que é incontroverso o fato de que os mandados de citação enviados, não foram recebidos, retornando aos autos "sem cumprimento" (ff. 18/18-v, 23 e 24 autos originários).
+Sem embargo, diferentemente do que faz crer a Agravante, a intimação por Oficial de Justiça acerca da eventual penhora de bens não tem o condão de suprir a citação válida, haja vista que, de todo modo, impede a manifestação do Réu a tempo e modo.
+Logo, não tendo o Agravante demonstrado que o Agravado teve ciência inequívoca da demanda, tampouco havendo o comparecimento espontâneo nos autos, nos termos que dispõe o art. 239, § 1º do CPC, pode-se afirmar que a citação não se aperfeiçoou, não se podendo presumir o seu conhecimento.
+(..)
+Dessa forma, reputo como correta a anulação de todos os atos de constrição realizados antes da citação efetiva da parte Ré, aqui Agravada.
+Dessa forma, reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO CPC/15) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO DE BUSCA E APREENSÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DO AGRAVADO. 1. Consoante o entendimento dominante na jurisprudência do Superior Tribunal de Justiça, "em regra, o peticionamento nos autos por advogado destituído de poderes especiais para receber citação não configura comparecimento espontâneo apto a suprir a necessidade de citação" (AgRg no REsp 1076121/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/09/2015, DJe 23/09/2015). 2. Para acolhimento do apelo extremo, acerca da ocorrência de comparecimento espontâneo e consequente intempestividade recursal, seria imprescindível derruir as conclusões contidas no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7/STJ, sendo manifesto o descabimento do recurso especial. 3. Agravo interno desprovido. (AgInt no AREsp n. 993.298/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2018, DJe de 25/4/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). EMENDA À INICIAL. POSSIBILIDADE. ANTES DA CITAÇÃO. COMPARECIMENTO ESPONTÂNEO. CITAÇÃO. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. Conforme assevera o art. 264, caput, do Código de Processo Civil, o autor, na petição inicial, fixa o objeto e os limites da controvérsia, sendo-lhe defeso, após a citação do réu, modificar o pedido ou a causa de pedir sem o consentimento do requerido. 2. Decisão recorrida no mesmo sentido da orientação do STJ. Súmula n.º 83/STJ. 3. Impossibilidade de rever a conclusão do Tribunal de origem de que o comparecimento espontâneo não supriu a citação em face do óbice da Súmula 7/STJ. 4. Agravo desprovido. (AgInt no AREsp n. 776.508/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 6/4/2017, DJe de 18/4/2017.)
+2. Do exposto, com amparo no artigo 9 32 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
