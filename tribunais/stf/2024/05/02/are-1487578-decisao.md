@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Irmãos Mattar & Cia Ltda., em face do acórdão do Tribunal de Justiça do Estado do Espírito Santo assim ementado:
+
+    “REMESSA NECESSÁRIA — APELAÇÃO — MANDADO DE SEGURANÇA — LEI LOCAL ESTABELECENDO O HORÁRIO DE FUNCIONAMENTO DE FARMÁCIAS — LEI N° 3.210/2012 DO MUNICÍPIO DE . LINHARES — VEDAÇÃO AO FUNCIONAMENTO DE ESTABELECIMENTOS NÃO ESCALADOS NO PLANTÃO — POSSIBILIDADE — OFENSA AOS PRINCÍPIOS DA ISONOMIA, DA LIVRE INICIATIVA, DA LIVRE CONCORRÊNCIA, DA LIBERDADE DE TRABALHO, DA BUSCA DO PLENO EMPREGO, AO DIREITO DO CONSUMIDOR, AO DIREITO A SAÚDE INOCORRÊNCIA — PRECEDENTES DO STF — SÚMULAS n.° 419 E n.° 645 DO STF — SÚMULA VINCULANTE n.° 38 — PRECEDENTES DO TJES — RECURSO CONHECIDO E PROVIDO. 1. Em consonância com a orientação jurisprudencial pacífica no âmbito do Excelso Supremo Tribunal Federal acerca do tema (RE 321796 AgR/ SP) [...] a fixação de horário de funcionamento para farmácias é matéria de competência municipal, não procedendo, portanto, as alegações de violação aos princípios constitucionais da isonomia, da livre iniciativa, da livre concorrência, da liberdade de trabalho, da busca do pleno emprego e ao direito do consumidor. 2. Tal entendimento decorre da autonomia dos municípios para regular o horário do comércio local, desde que não infrinjam leis estaduais ou federais válidas, tendo em vista que a Constituição Federal, na forma do art. 30, inciso I, lhes confere competência para legislar sobre assuntos de interesse local. Trata-se de questão que já fora, inclusive, sumulada (vide enunciados sumulares n.° 419 e n.° 645 e súmula vinculante n.° 38). 3. O Tribunal Pleno desta Corte de Justiça, ao enfrentar a matéria ora em apreço no julgamento da Ação direta de inconstitucionalidade em face do art. 2°, §1° da lei municipal n.° 3.631/2013, de Mimoso do Sul concluiu pela constitucionalidade da aludida norma municipal que vedava o funcionamento de farmácias que não estivessem escaladas para atuar no horário de plantão. 4. No que concerne especificamente à legislação objeto de controvérsia no caso vertente, qual seja, a Lei n° 3.210/2012, editada pelo Município de Linhares, este Sodalício possui reiterados precedentes concluindo pela constitucionalidade da referida norma, porquanto inexistente ofensa aos princípios constitucionais que regem a ordem econômica. 5. Em conformidade com as orientações jurisprudenciais supramencionadas restando evidenciado que a fixação de horário de funcionamento para farmácias é matéria de competência municipal, não implicando, portanto, em ofensa aos princípios constitucionais da isonomia, da livre iniciativa, da livre concorrência, da liberdade de trabalho, da busca do pleno emprego, ao direito do consumidor e tampouco ao direito a saúde forçoso concluir pelo desacerto da r. sentença vergastada (fls. 113-116v) que concedeu, em definitivo, a segurança para autorizar a pessoa jurídica ora recorrida a funcionar durante o período de plantão, em flagrante transgressão da legislação do Município recorrente, razão pela qual entendo merecer lograr êxito a pretensão recursal da municipalidade. 6. Recurso conhecido e provido, reformando a r. sentença postulada e, consequentemente, denegar a segurança postulada, de modo que a impetrante, ora apelada, IRMÃOS MATTAR E CIA LTDA, se submeta ao regramento municipal sobre o horário de funcionamento das farmácias e drogarias. Remessa necessária prejudicada.”
+
+    Na minuta, sustenta-se violação dos arts. 5º, caput, e 170, IV, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que o acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de que o Município é competente para fixar o horário de funcionamento de estabelecimentos comerciais, incluídas as farmácias, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. INSUFICIÊNCIA DE FUNDAMENTAÇÃO QUANTO À ALEGAÇÃO DE EXISTÊNCIA DE REPERCUSSÃO GERAL. LEI MUNICIPAL QUE ESTABELECE HORÁRIO DE FUNCIONAMENTO DE FARMÁCIAS. CONSTITUCIONALIDADE. SÚMULA VINCULANTE 38/STF. [...] 4. O Tribunal de origem concluiu pela constitucionalidade da Lei municipal 2.473/2009, alterada pela Lei 2.802/2015, que estabeleceu horário de plantão para farmácias e drogarias, ao fundamento de que a municipalidade têm competência para instituir regras de funcionamento de farmácias em seu território. 5. O acórdão recorrido está alinhado ao entendimento desta CORTE no sentido de que compete ao Município fixar o horário de funcionamento de estabelecimentos comerciais, inclusive das farmácias. 6. Embargos de declaração recebidos como agravo interno, ao qual se nega provimento.” (ARE 1447843 ED, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 04.10.2023)
+
+    “RECLAMAÇÃO. MUNICÍPIO. COMPETÊNCIA LEGISLATIVA. HORÁRIO DE FUNCIONAMENTO DO COMÉRCIO LOCAL. FARMÁCIA. SÚMULA VINCULANTE 38. OFENSA VERIFICADA. AGRAVO REGIMENTAL PROVIDO. RECLAMAÇÃO JULGADA PROCEDENTE. 1. O ente municipal é competente para fixar o horário de funcionamento do comércio local nos estritos termos da Súmula Vinculante 38. 2. Agravo regimental provido. Reclamação julgada procedente.” (Rcl 53194 AgR, Rel. Min. Ricardo Lewandowski, Relator p/ acórdão: Min. Edson Fachin, 2ª Turma, DJe 13.09.2022)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 2 de maio de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
