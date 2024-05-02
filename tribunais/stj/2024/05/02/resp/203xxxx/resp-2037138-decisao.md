@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 502):
+AGRAVO INTERNO - Interposição contra decisão do relator que negou seguimento ao recurso - Inconformismo - Desacolhimento - Inexistência de ofensa ao princípio da colegialidade - Art. 168, § 3º, do RITJSP que confere ao relator a prerrogativa de negar seguimento a recurso manifestamente improcedente - Interposição de agravo interno ou de agravo regimental que afasta, ademais, a alegada violação ao referido princípio - Precedentes do Colendo Superior Tribunal de Justiça - Parte agravante que não comprovou a incidência dos alegados reajustes por sinistralidade e Variação de Custos Médicos-Hospitalares (VCMH) em observância às disposições contratuais, legais e regulamentares, limitando-se a juntar estudo sobre o VCMH data-base dezembro/2016, contrato de adesão, pedido de adesão, extrato de prêmios e cartas informando o implemento dos reajustes - Decisão mantida - Recurso desprovido.
+Os embargos de declaração opostos pela parte ré foram rejeitados (e-STJ fls. 521/523).
+No recurso especial (e-STJ fls. 429/449), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa:
+(i) aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porque (e-STJ fl. 436):
+ ..  se deixou de enfrentar os argumentos de observância à liberdade de contratar, consequencialismo da decisão proferida, os quais serão tratados de modo minudente a seguir e que são capazes de infirmar a conclusão alcançada.
+(ii) aos arts. 35-E, § 2º, da Lei n. 9.656/1998, 20 do Decreto-Lei n. 4.657/1942, 421 e 478 do CC, pois (e-STJ fls. 438/443):
+ ..  o contrato representa a manifestação da vontade livre das partes, já que estas têm plena liberdade de contratar ou não, ressaltando-se, no entanto, que a partir da celebração do contrato, suas disposições refletem a autorregulação dos interesses dos contratantes.
+ ..  Ao determinar o afastamento de obrigação de obrigação legalmente constituída, o Poder Judiciário cria uma situação de imprevisibilidade que, ao final, traz prejuízo para toda a massa de beneficiários (em um verdadeiro movimento de ciclo vicioso, que, no ritmo que se alastra, trará consequências irreversíveis ao setor da saúde suplementar).
+ ..  O v. acórdão afastou os reajustes anuais aplicados pela recorrente e impondo sua substituição pelos índices da ANS para planos individuais.
+Ocorre que o contrato objeto da presente demanda é da modalidade COLETIVO POR ADESÃO, motivo pelo qual não são aplicáveis os índices de reajustes previstos pela ANS, porquanto estipulados para planos de modalidade diversa (individuais).
+ ..  Evidentemente, não há como equiparar o contrato coletivo com o individual, determinando a aplicação dos índices de reajuste de uma modalidade a outra, tal como realizado através do acórdão recorrido, uma vez que os elementos devem ser analisados para o cálculo do risco em um plano individual ou familiar são absolutamente distintos daqueles de um plano coletivo, especialmente pela dificuldade de verificação e previsão.
+Foram apresentadas contrarrazões (e-STJ fls. 528/541).
+O recurso foi admitido na origem, nos termos da decisão de fls. 542/543 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 503/507):
+No mais, a decisão hostilizada foi proferida nestes termos  ..
+Registro que a presente decisão monocrática tem respaldo no art. 168, § 3º, c. c. o art. 252 do Regimento Interno do Tribunal de Justiça de São Paulo. É caso de ratificar os fundamentos da r. sentença apelada, proferida nos seguintes termos:
+ ..  por ferir preceitos básicos do Código de Defesa do Consumidor e o próprio princípio da boa-fé objetiva que reveste o ordenamento jurídico, a procedência da ação para afastar o reajuste em discussão é de rigor.  ..
+Evidente que os planos coletivos são regidos por normas próprias e cálculos atuariais diferenciados, mas não se pode perder de vista que o destinatário final dos serviços é o consumidor final, pessoa física, vulnerável, a quem cumpre o pagamento do prêmio e quem se encontra exposto às práticas abusivas do mercado.  ..
+Nada impede, entretanto, a aplicação de tais reajustes no futuro se houver a devida comprovação dos porcentuais exigidos.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+O Tribunal de origem concluiu pela abusividade do reajuste, sob o fundamento de que não foi demonstrada justificativa para o índice (e-STJ fls. 503/507 ):
+No mais, a decisão hostilizada foi proferida nestes termos  ..
+Registro que a presente decisão monocrática tem respaldo no art. 168, § 3º, c. c. o art. 252 do Regimento Interno do Tribunal de Justiça de São Paulo. É caso de ratificar os fundamentos da r. sentença apelada, proferida nos seguintes termos:  ..
+Observa-se que foram realizados reajustes anuais. Da análise das planilhas juntadas pelas partes, os reajustes ocorreram anualmente no período. As justificativas apresentadas para o reajuste foram superficiais, sem a apresentação de qualquer documento acerca do percentual, sem critérios ou parâmetros técnicos adequados.
+Assim, por ferir preceitos básicos do Código de Defesa do Consumidor e o próprio princípio da boa-fé objetiva que reveste o ordenamento jurídico, a procedência da ação para afastar o reajuste em discussão é de rigor.  ..
+Nesta seara, os reajustes devem ser revestidos da transparência, por meio de informações claras e precisas, para permitir que o beneficiário visualize e se prepare para arcar com os valores mensais de seus planos. À míngua de outro parâmetro e com a finalidade de não se permitir reajustes abusivos simplesmente por se tratar de plano coletivo, é razoável a utilização de índices praticados pela ANS, ainda que relativos aos planos individuais.  ..
+E mais, em que pesem as teses recursais, nota-se que as rés não comprovaram a incidência dos alegados reajustes por sinistralidade e Variação de Custos Médicos-Hospitalares (VCMH) em observância às disposições contratuais, legais e regulamentares, limitando-se a juntar estudo sobre o VCMH data-base dezembro/2016, contrato de adesão, pedido de adesão, extrato de prêmios e cartas informando o implemento dos reajustes (v. fls. 203/220, 252/306, 307/319, 320, 321/331). É dizer, trata-se de meras alegaçõesdesacompanhadas de lastro probatório. Importantefrisar, ainda, que na fase de especificação de provas as rés se limitaram a requerer o julgamento antecipado da lide (v. fls. 245 e 251), ou seja, nem sequer pleitearam a realização de perícia técnica.
+Desta forma, diante da inexistência de comprovação da legitimidade dos reajustes discutidos, é imperiosa a conclusão de que a aplicação unilateral de índices não justificados deve ser afastada por colocar o consumidor em desvantagem exagerada.  ..
+A decisão de fls. 423/427, que negou seguimento ao recurso, bem analisou os requisitos legais previstos na legislação processual.
+Contudo, no recurso especial, apontando contrariedade aos arts. 35-E, § 2º, da Lei n. 9.656/1998, 20 do Decreto-Lei n. 4.657/1942, 421 e 478 do CC, a parte sustenta somente a liberdade de contratar e que o reajuste da ANS não se aplica aos contratos coletivos.
+Verifica-se, portanto, que não houve impugnação de todos fundamentos do acórdão recorrido, especialmente de que seria ônus da parte recorrente demonstrar a justificativa para o índice de reajuste. Incide, portanto, a Súmula n. 283 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
