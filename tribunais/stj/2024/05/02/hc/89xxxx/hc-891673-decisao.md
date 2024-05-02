@@ -1,0 +1,25 @@
+DECISÃO
+JOSE WILLIAM NEGREIROS TEIXEIRAA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no Habeas Corpus n. 2127645-08.2022.8.26.0000.
+Nas razões deste writ, a defesa postula a rejeição da denúncia e o consequente trancamento do processo.
+A liminar foi indeferida e o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Contextualização
+Extrai-se dos autos que o recorrente foi denunciado pela suposta prática do crime previsto no art. 121, § 2º, I e IV, do CP.
+Inconformada com o recebimento da inicial, a defesa impetrou habeas corpus perante o Tribunal estadual, que denegou a ordem nos seguintes termos (fl. 47):
+HABEAS CORPUS. PENAL E PROCESSO PENAL. HOMICÍDIOQUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL.
+PRESENÇADEINDÍCIOSDEAUTORIAE MATERIALIDADE.
+CONSTRANGIMENTOILEGALNÃOCONFIGURADO.
+ORDEMNÃOCONHECIDA.1. No que concerne ao pedido de trancamento da ação penal, cabe gizar que a jurisprudênciatanto do Supremo Tribunal Federal, bem como do Superior Tribunal de Justiça, há muito já consolidaram entendimento no sentido de que o trancamento da ação penal por meio de habeas corpus é medida excepcional, que somente deve ser adotada quando houverinequívoca comprovação de atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou prova sobre a materialidade do delito, o que não se verifica na presente hipótese.2. Em análise a ação penal, observa-se que a prova da materialidade e os indícios suficientesde autoria residem no fato de retaliação da facção criminosa primeiro comando da capital(PCC), que estava querendo se fortalecer no bairro Cruzeiro, sendo que a vítima já haviaintegrado a mencionada facção PCC, bem como que o delito teria sido praticado a mando do paciente e de Mizael Negreiro Pinto, conhecidos como chefe do Comando Vermelho na cidade de Itapajé-CE e executado por Francisco Yago Pereira e Carlos Daniel Nascimento. O Relatório (págs. 5/22 dos autos de origem) que instrui o inquérito policial mostra outrasinvestigações que apontam o paciente como chefe de facção criminosa.3. Desta forma, observa-se que não há flagrante ilegalidade no exercício da ação penal, umavez que há a prova da materialidade ( laudo cadavérico de pags. 255/258 dos autos de origem)e indícios suficientes de autoria diante dos depoimentos das testemunhas justificando,assim, a instauração da competente persecução penal, não sendo a via mandamental apta paratal fim, bem como não havendo motivo para o trancamento da ação penal.4. ORDEM NÃO CONHECIDA.
+II. Trancamento do processo
+Conforme reiterada jurisprudência desta Corte, na linha do que dispõe o art. 395 do CPP, o trancamento do processo, por ser medida excepcional, somente é possível quando evidenciadas, ictu oculi, a absoluta deficiência da peça acusatória ou a ausência inconteste de provas (da materialidade do crime e de indícios de autoria), bem como a atipicidade da conduta ou a existência de causa extintiva da punibilidade.
+Tendo em vista que a denúncia é uma peça processual por meio da qual o órgão acusador submete ao Poder Judiciário o exercício do jus puniendi, o legislador estabeleceu alguns requisitos essenciais para a formalização da acusação, a fim de que seja assegurado ao réu o escorreito exercício do contraditório e da ampla defesa.
+Na verdade, a própria higidez da denúncia opera como uma garantia do acusado. Segundo o disposto no art. 41 do Código de Processo Penal, "A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas".
+No caso dos autos, não há que se falar em inépcia da denúncia, porquanto a peça acusatória identificou e qualificou o recorrente, apontou sua conduta e a tipificou, tudo a possibilitar o exercício da ampla defesa, em obediência aos ditames do art. 41 do CPP.
+Nesse contexto, verifico que, de acordo com a inicial," a vítima Jordiel Pinto Quinto, na data acima referida,se encontrava em sua casa, na companhia de seus familiares, quando os denunciadosFrancisco Yago Pereira Moraes e Carlos Daniel Nascimento Gomes, escalaram o muro da residência, com o auxílio de uma escada, e se dirigiram a porta que dá acesso ao quarto da vítima. Deram várias pancadas fortes na porta, arrombando-a e possibilitando o acesso à residência, conforme disposto no relatório do local de crime em anexo".
+Afirmou-se que o assassinato ocorreu "em cumprimentos às ordens dos mandantes José William Negreiros Teixeira e Mizael Negreiro Pinto"
+Assim, ao menos considerando os limites de cognição possíveis nesta via estreita e o standard probatório exigido para a etapa de oferecimento da denúncia, está preenchida a justa causa necessária ao exercício da ação penal.
+Faço registrar, por fim, que a questão relacionada à fragilidade dos elementos que imputam a autoria delitiva ao paciente deve ser aferida durante a instrução processual.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
