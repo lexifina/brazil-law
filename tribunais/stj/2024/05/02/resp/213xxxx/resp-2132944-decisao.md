@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) contra acórdão assim ementado:
+PROCESSUAIS. REMESSA OFICIAL INAPLICABILIDADE. PREVIDENCIÁRIO. TEMPO ESPECIAL. CIRURGIÃO DENTISTA. CATEGORIA PROFISSIONAL ATÉ 28/04/1995. CONTRIBUINTE INDIVIDUAL. AGENTES BIOLÓGICOS. EPI NÃO NEUTRALIZA. ENQUADRAMENTO. APOSENTADORIA ESPECIAL. NECESSIDADE DE AFASTAMENTO. BENEFÍCIO MAIS VANTAJOSO.
+1. O § 3º do inciso I do art. 496 do CPC/2015, que dispensa a submissão da sentença ao duplo grau de jurisdição quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a 1.000 (mil) salários-mínimos para a União e suas respectivas autarquias e fundações de direito público, também se aplica às hipóteses em que claramente o valor da condenação não atingirá o patamar nele referido.
+2. Os agentes biológicos estão previstos nos códigos 1.3.1, do Quadro Anexo do Decreto 53.831/1964, 1.3.1, do Anexo I, do Decreto 83.080/1979, e 3.0.0 e 3.0.1, do Anexo IV, dos Decretos 2.172/1997 e 3.048/1999. Pacífico o entendimento desta Corte de que a exposição aos agentes nocivos biológicos, mesmo após 28/04/1995, não necessita ocorrer de forma habitual e permanente, dada a potencialidade do risco que apresenta.
+3. A atividade de dentista está prevista como especial nos decretos legislativos 53.831/64 (item 2.1.3) e 83.080/79 (item 1.3.4 do anexo I e 2.1.3. do anexo II), sendo possível o reconhecimento da especialidade, por enquadramento profissional, até 28/04/1995.
+4. Ao prever o direito à aposentadoria especial, a Lei 8.213/1991 é clara ao estabelecer que será devida, uma vez cumprida a carência, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física. Como é sabido, a categoria segurado contempla não apenas o empregado, mas também, entre outros, o contribuinte individual.
+5. Após 03/12/1998, para o segurado contribuinte individual, não é possível o reconhecimento de atividade especial em virtude da falta de utilização de EPI, salvo nas hipóteses de: (a) exposição ao agente físico ruído acima dos limites legais; (b) exposição a agentes nocivos reconhecidamente cancerígenos, constantes do grupo 1 da lista da LINACH; ou (c) demonstração, com fundamento técnico, de inexistência, no caso concreto, de EPI apto a elidir a nocividade da exposição ao agente agressivo a que se submeteu o segurado.
+6. O Supremo Tribunal Federal reconheceu a existência de repercussão geral no RE 788.092/SC (Tema 709), firmando a tese de que é constitucional a vedação de continuidade da percepção de aposentadoria especial se o beneficiário permanece laborando em atividade especial ou a ela retorna, seja essa atividade especial aquela que ensejou a aposentação precoce ou não.
+7. Cabe à autarquia, na fase de cumprimento de sentença, verificar o preenchimento dos requisitos para a concessão tanto da aposentadoria especial como para aposentadoria por tempo de contribuição e apurar o melhor benefício, possibilitando à parte autora a escolha pelo que lhe for mais conveniente, considerando a necessidade de afastamento da atividade em caso de concessão de aposentadoria especial.
+Os Embargos de Declaração foram rejeitados.
+Em suas razões recursais, a Autarquia alega violação dos arts. 22, II, da Lei 8.212/1991; 11, V, "h", 14, I, parágrafo único, 57, caput e §§ 3º, 4º, 5º, 6º e 7º, e 58, caput e §§ 1º e 2º, da Lei 8.213/1991. Requer a reforma do acórdão para que seja afastado "o reconhecimento da especialidade do trabalho exercido na condição de contribuinte individual não cooperado, no período posterior a edição da Lei 9.032/95" (fl. 514, e-STJ).
+Contrarrazões às fls. 531-538, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de abril de 2024.
+A irresignação não ultrapassa a barreira do conhecimento.
+É possível o reconhecimento de tempo de serviço especial ao segurado contribuinte individual não cooperado, desde que comprovado, nos termos da lei vigente no momento da prestação do serviço, que a atividade foi exercida sob condições especiais que prejudiquem a sua saúde ou sua integridade física.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CÔMPUTO DE TEMPO ESPECIAL. SEGURADO CONTRIBUINTE INDIVIDUAL. POSSIBILIDADE.
+1. O artigo 57 da Lei 8.213/1991 não traça qualquer diferenciação entre as diversas categorias de segurados, permitindo o reconhecimento da especialidade da atividade laboral exercida pelo segurado contribuinte individual.
+2. O artigo 64 do Decreto 3.048/1999 ao limitar a concessão do benefício aposentadoria especial e, por conseguinte, o reconhecimento do tempo de serviço especial, ao segurado empregado, trabalhador avulso e contribuinte individual cooperado, extrapola os limites da Lei de Benefícios que se propôs a regulamentar, razão pela qual deve ser reconhecida sua ilegalidade.
+3. Destarte, é possível o reconhecimento de tempo de serviço especial ao segurado contribuinte individual não cooperado, desde que comprovado, nos termos da lei vigente no momento da prestação do serviço, que a atividade foi exercida sob condições especiais que prejudiquem a sua saúde ou sua integridade física.
+4. Recurso Especial não provido. (REsp 1.793.029/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 30/5/2019).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL DO SEGURADO CONTRIBUINTE INDIVIDUAL. CABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1.Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência do Superior Tribunal de Justiça tem admitido o reconhecimento da especialidade de atividade exercida pelo segurado contribuinte individual, bem como da concessão de aposentadoria especial.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.697.600/PR, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 29/4/2021.)
+In casu, tendo o acórdão recorrido consignado expressamente, com base nos elementos constantes dos autos, que o segurado comprovou exercer atividade laboral sob condições especiais, deve ser mantida a conclusão, porquanto o revolvimento dessa matéria, na via especial, demandaria a análise de fatos e provas, o que é vedado ante o óbice da Súmula 7/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
