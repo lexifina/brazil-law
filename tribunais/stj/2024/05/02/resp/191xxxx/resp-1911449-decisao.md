@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por MOURÃO DE MELO EIRELI, contra acórdão do eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"CÍVEL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO, NO MONTANTEDE 1% EM RELAÇÃO AO VALOR DE MERCADO DO BEM, A SERAPURADO EM LIQUIDAÇÃO DE SENTENÇA. DECISÃO ILÍQUIDA. IMPUGNAÇÃO ACOLHIDA PARA DETERMINAR A LIQUIDAÇÃO DOJULGADO. RECURSO DOS EXEQUENTES. APURAÇÃO DO DÉBITOPOR SIMPLES CÁLCULO. IMPOSSIBILIDADE. IMPRESCINDIBILIDADEDE AVALIAÇÃO EM FASE DE LIQUIDAÇÃO. IMPROPRIEDADE,TODAVIA, DO ACOLHIMENTO INTEGRAL DA IMPUGNAÇÃO E DACONDENAÇÃO DOS CREDORES AO PAGAMENTO DE CUSTAS EHONORÁRIOS. ATENÇÃO AOS PRINCÍPIOS DA EFETIVIDADE DAPRESTAÇÃO JURISDICIONAL, DA ECONOMIA E DA CELERIDADE DOPROCESSO. CONVERSÃO DO CUMPRIMENTO DE SENTENÇA EMLIQUIDAÇÃO POR ARBITRAMENTO. DECISÃO REFORMADA PARA TALFIM E PARA AFASTAR A CONDENAÇÃO EM CUSTAS E HONORÁRIOS. RECURSO PROVIDO EM PARTE." (fl. 70)
+Nas razões do recurso especial, a insurgente aponta, além de dissídio jurisprudencial, ofensa aos arts. 85, § 1º, do Código de Processo Civil, visto que o aresto estadual afastou a condenação em honorários sucumbenciais em razão do acolhimento da impugnação, ante a conversão do cumprimento de sentença em liquidação por arbitramento; 9º, 10, 141 e 492 do Código de Processo Civil, porquanto ocorreu a apresentação de decisão ultra petita, havendo inovação sem a prévia manifestação das partes.
+É o relatório.
+Decido.
+A irresignação não prospera.
+De início, verifica-se inexistir prequestionamento dos arts. 9º e 10 do Código de Processo Civil.
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Além disso, no que se refere às teses de cabimento de condenação à verba honorária em sede de cumprimento de sentença, bem como da ocorrência de julgamento ultra petita, a Corte estadual assentou, in verbis:
+"Sobre a fixação dos honorários advocatícios aos procuradores da executada, o aresto foi explícito, objetivo e claro, nestes termos:
+"Somente depois da confrontação do débito apurado na liquidação com o valor pretendido pelos autores será possível aferir se houve excesso de execução e, então, fixar eventual verba sucumbencial em favor dos procuradores da executada, este sobre o proveito econômico da impugnação".
+Ou seja, os procuradores da executada farão jus aos honorários sobre o proveito econômico da impugnação, depois de apurado o efetivo débito da sua cliente.
+Outrossim, a conversão do cumprimento em liquidação da sentença operada não configura julgamento ultra petita ou extra petita, ainda que não houvesse pedido explícito nesse sentido.
+Isto porque  conforme consignado no acórdão embargado  "é inequívoca a existência de uma dívida em desfavor dos executados e a manutenção da decisão acolhendo integralmente a impugnação culminaria na esdrúxula conclusão de que os exequentes seriam devedores de R$ 23.526,95 a título de honorários em favor dos patronos da devedora sem que tivessem recebido o crédito reconhecido pela sentença".
+Não há se falar em violação ao princípio da congruência, devendo ser aplicada à espécie a teoria da substanciação, segundo a qual apenas os fatos vinculam o julgador, que poderá atribuir-lhes a qualificação jurídica que entender adequada ao acolhimento ou à rejeição do pedido, como fulcro nos brocardos iura novit curia e mihi factum dabo tibi ius e no art. 493 do CPC. " (fl. 120 - g.n.)
+Ocorre que a insurgente não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. ALEGAÇÕES DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REAVALIAÇÃO DO CONJUNTOFÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA N. 83/STJ. INCIDÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. É inadmissível o recurso especial que não rebate fundamento do acórdão recorrido, trazendo alegações dissociadas do que ficou decidido pelo Tribunal de origem. Incidência das Súmulas n. 283 e 284 do STF.(..)
+(AgInt no AREsp 1659434/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/06/2020, DJe 18/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS ABRANGIDA PELA COBERTURA POR DANOS CORPORAIS. AUSENTE CLÁUSULA DE EXCLUSÃO. REVISÃO SÚMULAS 5 E 7/STJ. ALEGADA NECESSIDADE DE ABATIMENTO DE INDENIZAÇÃO ORIUNDA DE SINISTRO DISTINTO. PARADIGMA DISTINTO. INTERPRETAÇÃO INCORRETA. FALTA DE IMPUGNAÇÃODOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF.
+(..)
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor das Súmulas n. 283 e 284 do STF.
+(..)
+(AgInt no AREsp 1393349/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
