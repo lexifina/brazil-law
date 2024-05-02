@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLARIVAL XAVIER PEREIRA à decisão de fls. 336/337, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Dessa forma, por haver nítida contradição na decisão e, afim de ratificar os apontamentos explanados no petitório colacionado (evento n. 65), o Embargante opôs Embargos de Declaração.
+Diante do não acolhimento dos aclaratórios e, de forma tempestiva, o Embargante interpôs agravo em recurso especial (fl. 345).
+ ..
+Ademais, considerando os próprios preceitos normativos, os embargos de declaração poderão ser opostos contra QUALQUER DECISÃO JUDICIAL, sem exceção (fl. 347)
+ ..
+Outrossim, a oposição de embargos declaratórios ao julgado do tribunal recorrido que inadmite o recurso especial, como regra, deve ser afastada a preclusão consumativa e a violação ao princípio da unicidade recursal (unirrecorribilidade), sobretudo porque este preceito é excepcionado pela oposição dos declaratórios contemporaneamente, ou antes do seu julgamento, à interposição do recurso comum. Portanto, em razão da possibilidade de alteração do entendimento até o momento pacificado, não há mais falar em erro grosseiro, pelo menos até ulterior manifestação da Corte Especial sobre o tema, caracterizando-se, desse modo, a usurpação da competência do Superior Tribunal de Justiça por parte da Corte local (fl. 348).
+Aduz ainda que:
+Excelência, com todo o respeito e acatamento, é de pleno conhecimento de que este Tribunal de Justiça acata a todos os Decretos expedidos pelo Poder Público, no que diz respeito aos feriados locais, suspendendo o expediente forense como consequência lógica.
+Extrai-se do arquivo n. 04, do evento n. 48, a juntada do Decreto n. 10.288, de 12 de julho de 2023, expedido pelo Governador do Estado de Goiás, que consubstancia a existência do feriado local.
+Além disso, o Presidente do Tribunal de Justiça do Estado de Goiás (TJGO), transferiu para o dia 25 de julho, o feriado consagrado à fundação da cidade de Goiás, de que trata o inciso V do artigo 91 da Lei Estadual nº 21.268/2022 (Código de Organização Judiciária do Estado de Goiás) c/c o artigo 123, V, do Regimento Interno do TJGO.
+O chefe do Poder Judiciário goiano levou em consideração a adoção de igual providência pelo Poder Executivo do Estado de Goiás, nos termos do Decreto nº 10.288, que FOI DEVIDAMENTE JUNTADO AOS AUTOS! ((fl. 349).
+ ..
+Ademais, pelo próprio calendário de feriados do TJ/GO, já consta o referido ato que suspendeu as atividades forenses: (fl. 351).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do agravo, o STJ pacificou o entendimento de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal.
+Na espécie, os embargos de declaração (fls. 286/291) opostos à decisão que inadmitiu o recurso especial não são o recurso adequado, ou seja, não interrompem o prazo para a interposição do agravo em recurso especial, único recurso cabível no caso.
+Confiram-se os seguintes precedentes aplicados, inclusive, a agravos interpostos já na vigência do novo CPC:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO ORDINÁRIA. BASE DE CÁLCULO DO PIS E DA COFINS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de procedimento comum, objetivando provimento judicial no sentido da declaração judicial de inexistência de relação jurídica tributária tendente a excluir das bases de cálculo do PIS e da COFINS, o ICMS destacado das notas fiscais. Na sentença o pedido foi julgado parcialmente procedente.
+No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise do recurso de REPLASTIL COMERCIO ATACADISTA DE PLASTICOS LTDA, a parte recorrente foi intimada da decisão agravada em 21/07/2022, sendo o agravo somente interposto em 10/11/2022. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+III - Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos em face da decisão que inadmitiu o recurso especial não são o recurso adequado ou cabível à espécie. Os embargos de declaração opostos à decisão de admissibilidade do recurso especial não interrompem o prazo para interposição do agravo previsto no art. 1.042 do CPC/2015, exceto quando o decisum for tão genérico que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, o que não se verifica na espécie (AgInt nos EAREsp n. 1.653.277/RJ, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 26/4/2022, DJe de 3/5/2022). Nesse sentido, o AgInt no AREsp 1526806/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020.
+IV - Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.292.220/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DE ADMISSIBILIDADE. ERRO GROSSEIRO. NÃO INTERRUPÇÃO DO PRAZO.
+1. A intempestividade do agravo foi bem anotada no decisum impugnado, pois, como cediço, o agravo previsto no art. 1.042 do CPC/2015 (art. 544 do CPC/73) é o único recurso possível contra a decisão que não admite recurso especial na origem. Dessa forma, a oposição de embargos de declaração caracteriza erro grosseiro, daí porque não há falar em interrupção do prazo para a interposição do recurso cabível.
+2. A aplicação desse posicionamento tem sido afastada apenas em casos excepcionais, assim caracterizadas as hipóteses de erro material ou as situações em que a fundamentação da decisão atacada é tão genérica que a utilização do agravo fica inviabilizada. Não é o caso dos presentes autos.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.288.692/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO CONTRA PRIMEIRO JUÍZO DE ADMISSIBILIDADE. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE RECURSO CABÍVEL. CPC DE 2015. AUSÊNCIA DE ALTERAÇÃO SUBSTANCIAL EM RELAÇÃO AO SISTEMA ANTERIOR. PRECEDENTES DO STJ E DO STF.
+1. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal firmou-se no sentido de que o agravo é o único recurso cabível contra decisão que nega seguimento a recursos de natureza extraordinária, de modo que os embargos de declaração opostos contra decisão de admissibilidade do Tribunal de origem não interrompem o prazo para a interposição do agravo, uma vez que manifestamente incabíveis. Manutenção desse entendimento após a entrada em vigor do Código de Processo Civil de 2015.
+2. Hipótese dos autos em que, ademais, a decisão denegatória de trânsito do recurso especial está suficientemente fundamentada, não se demonstrando genérica a ponto de inviabilizar a impugnação ao seu conteúdo, de forma que inaplicável a ressalva a que alude o acórdão da Corte Especial nos EAREsp. 275.615/SP.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.737.166/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/3/2022, DJe de 22/3/2022.)
+No que concerne à tempestividade do recurso especial, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o documento de fl. 114, que prevê feriado no dia 24/7/2023, trata-se de mero decreto estadual emanado do Poder Executivo, não servindo para comprovar que não houve expediente forense no âmbito do Tribunal de Justiça.
+A propósito: EDcl no AgInt no AREsp 1510568/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 30/3/2020; AgInt no AREsp 447.558/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/2/2018.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
