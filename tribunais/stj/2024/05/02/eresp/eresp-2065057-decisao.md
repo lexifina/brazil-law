@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por U. C. C. DE T. M., com fundamento no art. 105, III, "a", da Constituição Federal, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"SEGURO. PLANO DE SAÚDE. PEDIDO DE CUSTEIO DE TERAPIAS NECESSÁRIAS AO TRATAMENTO INDICADO À PATOLOGIA QUE ACOMETE A AUTORA (TDAH). EXISTÊNCIA DE CLÁUSULA EXPRESSA DE EXCLUSÃO. JURISPRUDÊNCIA DO STJ E DO TJSP, TODAVIA, QUE VEM SE ORIENTANDO PELO RECONHECIMENTO DA ABUSIVIDADE DAS CLÁUSULAS DE EXCLUSÃO DE COBERTURA. PRECEDENTES DO STJ E SÚMULA Nº.102 DO TJ/SP. CUSTEIO INTEGRAL DE TRATAMENTO COM PROFISSIONAIS, TODOS ELES CREDENCIADOS DA REQUERIDA E APTOS A OFERECER OS TRATAMENTOS NECESSÁRIOS À MENOR, BEM COMO O REEMBOLSO DOS VALORES PAGOS PELO GENITOR DA AUTORA PELAS SESSÕES CUJA COBERTURA FORA ANTERIORMENTE INDEFERIDA. SENTENÇAMANTIDA. RECURSO IMPROVIDO." (fl. 248)
+Em suas razões recursais (fls. 259/273), a parte recorrente aponta ofensa aos artigos 10, § 4º e 35-F da Lei 9.656/98 e aos artigos 51, inciso IV e §1º, inciso II, e 54, §4º, do Código de Defesa do Consumidor, sustentando, em síntese, que: a) a amplitude das coberturas é definida pela Agência Nacional de Saúde Suplementar - ANS, e a observância da Lei nº 9.656/98 e do contrato celebrado entre as partes é obrigatória; b) a Lei consumerista autoriza a limitação dos direitos nos contratos de adesão.
+Devidamente intimada, a parte recorrida não apresentou contrarrazões, conforme certidão de fl. 277.
+É o relatório. Decido.
+O recurso especial interposto pela alínea "a" do permissivo constitucional exige demonstração inequívoca de ofensa a dispositivo infraconstitucional, bem como sua particularização, a fim de possibilitar seu exame em conjunto com o decidido nos autos.
+No caso dos autos, o recurso especial possui razões recursais genéricas, desprovidas de argumentação jurídica apta a demonstrar a suposta violação aos referidos dispositivos legais.
+Isto porque, em suas razões recursais, a parte recorrente não particulariza suas teses, tecendo alegações genéricas de que a negativa de prestação de serviços foi lastreada no fato de que o tratamento não consta no Rol de Procedimentos da ANS, sem, ao menos, discriminar qual o tipo de doença acomete à beneficiária e qual o tratamento que deu ensejo à negativa.
+Desta forma, evidenciada a deficiência na fundamentação recursal, atrai a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Nessa linha de intelecção:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. DEFICIENTE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ACÓRDÃO A QUO EM CONSONÂNCIA COM TEMA REPETITIVO N. 886/STJ. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. O apelo nobre trazendo alegações genéricas de ofensa a dispositivos de lei federal possui deficiente fundamentação recursal, atraindo a incidência da Súmula 284 do STF.
+2. Estando o acórdão estadual em consonância com a jurisprudência desta eg. Corte (Tema Repetitivo n. 886/STJ), tem-se a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 1.798.889/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/9/2022, DJe de 13/10/2022 - sem grifo no original)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO OU DE EVENTUAL DIVERGÊNCIA JURISPRUDENCIAL APLICAÇÃO DA SÚMULA N. 284 DO STF. MULTA PREVISTA NO ART. 1.021, § 4º, do CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A falta de expressa indicação e demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. Para a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, não basta o mero desprovimento do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso para autorizar a aplicação do referido dispositivo.
+3 . Agravo interno desprovido."
+(AgInt no AREsp n. 2.106.210/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 6/3/2023, DJe de 9/3/2023 - sem grifo no original).
+Ante o exposto, nos termos do art. 255, § 4º, I, do RIST, não conheço do recurso especial.
+Publique-se.
+EMENTA
