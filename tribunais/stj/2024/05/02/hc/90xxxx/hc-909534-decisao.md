@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de MARCOS ANTONIO PEREIRA FIRMINO DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+HABEAS CORPUS. EXECUÇÃO PENAL. INSURGÊNCIA EM RELAÇÃO À DECISÃO QUE INDEFERIU A PROGRESSÃO DO APENADO PARA O REGIME SEMIABERTO. CONFIGURAÇÃO DE SUPRESSÃO DE INSTÂNCIA. VIA IMPRÓPRIA PARA O EXAME DA MATÉRIA IMPUGNADA, CUJA DECISÃO DESAFIA RECURSO PRÓPRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO DO WRIT.
+Em que pese o inconformismo do nobre impetrante, a hipótese é de não conhecimento do writ. Como ação de natureza constitucional, destinada a coibir qualquer ilegalidade ou abuso de poder contra a liberdade de locomoção, o habeas corpus não se mostra como a via própria para o exame da matéria impugnada.
+Com efeito, as questões suscitadas nestes autos devem ser impugnadas mediante Agravo, nos termos do disposto no artigo 197 da Lei de Execuções Penais. Frise-se que o recurso cabível já foi interposto pela Defesa do apenado, conforme se depreende de consulta realizada aos autos do processo executório nº 0355114-38.2003.8.19.0001.
+A análise das razões expendidas na exordial por meio do presente Habeas Corpus, tal qual requerida pelo impetrante, somente se mostraria plausível na hipótese de flagrante ilegalidade, com repercussão no direito de liberdade do paciente, o que não se verifica na hipótese vertente.
+In casu, não se vislumbra a existência de nenhum vício, e tampouco de omissão de alguma formalidade essencial à decisão impugnada, que pudesse conduzi-la à anulação ou à reforma parcial, pela via estreita do habeas corpus.
+Conforme orientação de nossos Tribunais Superiores, torna-se imperiosa a necessidade de racionalização do habeas corpus, com vistas a se prestigiar a lógica do sistema recursal. As hipóteses de cabimento do writ são restritas, daí por que a jurisprudência amplamente majoritária não admite a impetração deste remédio constitucional em substituição aos recursos ordinários, como as apelações, os agravos em execução e os recursos especiais, tampouco como sucedâneo de revisão criminal.
+Precedentes jurisprudenciais.
+Desse modo, ausentes nos autos quaisquer elementos que apontem a existência de ilegalidade ou irregularidade na decisão combatida, o não conhecimento do presente Habeas Corpus é a medida que se impõe.
+NÃO CONHECIMENTO.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que estão presentes os requisitos objetivo e subjetivo necessários à progressão de regime.
+Alega que a negativa do benefício foi fundamentada na longa pena a cumprir, na gravidade dos delitos e na suposta liderança de organização criminosa, bem como no fato de o paciente estar acautelado em presídio destinado a lideranças do Comando Vermelho, fundamentos que não seriam suficientes para afastar a progressão de regime.
+Requer, em suma, a concessão da progressão de regime.
+É, no essencial, o relatório. Decido.
+Segundo entendimento firmado pela Terceira Seção do STJ no julgamento do HC n. 482.549/SP, havendo a simultânea interposição de recurso próprio e impetração de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do agravo em execução que está pendente de análise na origem, salvo se o writ impetrado no tribunal a quo fosse destinado à tutela direta e imediata da liberdade de locomoção, o que não é o caso dos autos (Relator ministro Rogerio Schietti Cruz, DJe 3/4/2020).
+Ainda nesse sentido: AgRg nos EDcl nos EDcl no HC n. 580.806/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/8/2020; AgRg no HC n. 801.494/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17/8/2023; AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 809.199/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/4/2023.
+Na espécie, conforme afirmou o tribunal de origem (fls. 85-86), tramitavam simultaneamente recurso de agravo em execução e habeas corpus com o mesmo objeto, em clara ofensa ao princípio da unirrecorribilidade.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
