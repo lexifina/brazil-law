@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WILLIAN DA SILVA SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 0148530-49.2024.3.00.0000).
+Depreende-se dos autos que o paciente foi condenado, como incurso nos arts. 311 e 157, § 2º-A, I, c/c o art. 14, II, do Código Penal, à pena de 5 anos, 2 meses e 20 dias de reclusão, no regime fechado.
+Foi dado parcial provimento ao recurso de apelação do Ministério Público para exasperar as penas aplicadas. O acórdão está assim ementado (e-STJ fls. 148/149):
+Apelação Criminal. Roubo tentado majorado pelo concurso de agentes e pelo emprego de arma de fogo. Adulteração de sinal identificador de veículo automotor. Uso público de distintivo regulado por lei. Concurso material. Autoria e materialidade das infrações penais comprovadas. Réus presos em flagrante no interior do prédio do ofendido, portando armas de fogo, reconhecidos pela vítima e testemunhas. Depoimentos dos policiais firmes e coesos. Emprego de armas de fogo impossibilitam a desclassificação para o delito de furto. Execução do roubo iniciada, não havendo que se falar em atos preparatórios. Crime impossível não verificado. Réus que entraram no prédio e aguardavam a esposa da vítima retornar para rendê-la e ter acesso ao apartamento do ofendido. Causas de aumento demonstradas pela prova oral e pericial. Veículo utilizado pelos acusados encontrava-se com placas trocadas. Conduta que configura adulteração de sinal identificador. Contravenção penal de uso de distintivo regulado em lei comprovada. Gustavo portava distintivo da polícia civil. Condenação mantida. Dosimetria alterada. Possível a valoração da majorante excedente (concurso de agentes) como circunstância judicial desfavorável. Maus antecedentes de Willian e Dyego comprovados. Reconhecimento da atenuante da confissão, ainda que parcial. Crime complexo. Redução máxima pela tentativa adequada ao "iter criminis" percorrido. Concurso material de rigor. Regime prisional inicial fechado prevalece em razão das circunstâncias judiciais desfavoráveis, da reincidência e do montante da pena. Inviável a substituição da pena privativa de liberdade por restritivas de direitos. Recurso de Alef desprovido e demais recursos parcialmente providos, sanado, de ofício, erro material no dispositivo da sentença.
+Alega a defesa, nesta impetração, que o paciente deve ser absolvido, pois "estamos diante de um crime impossível, pelo meio impróprio empregado para consumação do delito de roubo e ou meros atos preparatórios" (e-STJ fl. 9).
+Subsidiariamente, aduz que não houve o emprego de violência ou grave ameaça
+Afirma, ainda, não haver prova da prática do crime descrito no art. 311 do CP.
+É, em síntese, o relatório.
+Pretende a defesa, nesta impetração, a absolvição do paciente em relação aos crimes pelos quais foi condenado.
+Não obstante, a leitura do acórdão evidencia que a condenação imposta pela instância ordinária está apoiada em diversas provas produzidas em juízo, notadamente a versão apresentada pelos ofendidos e pelos policiais que efetuaram a prisão em flagrante. Confira-se (e-STJ fls. 160/162):
+Conforme se verifica do conjunto probatório colhido, ficou demonstrado que Willian, Dyego e Gustavo adentraram no prédio, armados, mediante arrombamento do portão e aguardavam a esposa de Manoel retornar, para rendê-la e acessarem o seu apartamento.
+Como bem destacado na r. sentença, inegável a intenção dos réus de praticarem um roubo, pois entraram no condomínio portando armas de fogo municiadas, bem como Gustavo usava distintivo da polícia civil, possivelmente com o intuito de confundir os moradores e facilitar o acesso ao local (fls. 1167):
+"O crime de roubo fico(u) comprovado no momento em que os réus pretendiam entrar na casa da vítima portando armas de fogo.
+A grave ameaça se consubstancia no porte de arma de fogo, na entrada sorrateira no condomínio e nas demais ações registradas acima. Ninguém que invada um prédio de apartamentos, em um grupo de pessoas, portando armas de fogo, com munição extra, com carregador extra, com vigia no lado externo, tem a intenção de pedir "Por Favor" para receber os valores presentes no local".
+Os réus entraram no prédio justamente no horário em que a esposa da vítima saiu para buscar a filha, o que denota prévio planejamento, inclusive com ciência da rotina dos moradores.
+Diante disso, ainda que o apartamento do ofendido tivesse uma trava de segurança que impediu os réus de ingressarem, eles ficaram no mezanino e nas escadarias, aguardando o momento para renderem a esposa do ofendido, obtendo acesso ao apartamento.
+Como destacado pelo juízo a quo (fls. 1167/1168):
+"Eles esperavam a esposa da vítima retornar, para abordarem-na e entrarem na casa. Com a esposa sob a mira de armas de fogo, qualquer um desliga qualquer sistema de segurança.
+A ideia não era a de romper esses dispositivos.
+Assim, não há que se falar em crime Impossível"
+Ao contrário do sustentado pela Defesa, com o ingresso no condomínio iniciou-se a execução do delito de roubo, não havendo que se falar em meros atos preparatórios.
+Do mesmo modo, não comporta acolhimento o pedido defensivo de reconhecimento da desistência voluntária, pois os réus foram detidos no interior do prédio, bem como somente tentarem fugir após a chegada dos policiais.
+Inverossímeis, portanto, as versões defensivas de que os réus não estavam armados e pretendiam praticar um furto, tendo escolhido o prédio do ofendido por acaso, bem como que não estariam armados, tendo as armas sido forjadas pelos funcionários da vítima e pelos policiais militares.
+Vê-se que o acervo probatório reunido é incompatível com as teses de crime impossível ou de desclassificação para o crime de furto.
+Isso, porque consta dos autos que o paciente e demais corréus ingressaram no prédio, armados com armas de fogo, e tentaram acessar a residência da vítima. E, segundo noticiado, em razão da dificuldade encontrada, aguardavam a esposa da vítima retornar para a casa a fim de obterem êxito na empreitada. Contudo, a ação dos policiais interrompeu a ação delitiva.
+Assim, este cenário não evidencia tratar-se de crime impossível, pois a consumação do delito era possível, ou seja, o meio empregado era idôneo para a produção do resultado e o objeto visado era acessível.
+De igual modo, a grave ameaça foi a forma escolhida para a realização da subtração, a qual não se consumou por circunstâncias alheias à vontade dos agentes.
+Assim, não há como se desconstituir a condenação imposta, inclusive com relação ao delito descrito no art. 311 do CP, uma vez que o habeas corpus não se presta a tal finalidade quando se mostrar necessário que se proceda a amplo revolvimento das provas pro duzidas.
+Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. TRÁFICO PRIVILEGIADO. INOVAÇÃO RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO. ERRO MATERIAL CORRIGIDO DE OFÍCIO.
+1. As instâncias ordinárias, após minuciosa análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos a ensejar a condenação da acusada pelo crime de tráfico de drogas.
+2. Para desconstituir a conclusão alcançada pelo Tribunal a quo - como pretende a defesa - seria necessário realizar aprofundado reexame de provas, o que, no entanto, é inviável nos estreitos limites de cognição desta ação constitucional.
+(..)
+5. Agravo regimental conhecido parcialmente e, nessa extensão, não provido. Corrigido erro material de ofício e, por conseguinte, ajustada a pena imposta aos réus.
+(AgRg no HC n. 800.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
