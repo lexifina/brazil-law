@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Agravos contra decisão que inadmitiu Recursos Especiais (art. 105, III, "a", da Constituição Federal) interpostos de acórdão assim ementado:
+APELAÇÃO - Ação de reintegração de posse - Sentença que extinguiu o feito sem resolução de mérito por ausência de legitimidade ativa (art. 485, VI,CPC/2015) - Insurgência da parte autora (EMAE) - Preliminar - Reconhecimento da legitimidade ativa da EMAE - Sucessora da Eletropaulo, comprovação ocorrida através de protocolo de cisão e demais documentos - Precedentes deste Tribunal - Nulidade que se impõe, diante do que determina o art. 492, CPC - Aplicação do art. 1.013, §3º, CPC/2015 (teoria da causa madura) - Mérito - O imóvel objeto da lide é bem público e, portanto, não há que se falar em posse do embargado, mas mera detenção, a título precário, sem gerar direito ao particular - Entendimento pacificado na jurisprudência - Relatórios produzidos pela EMAE que demonstraram o esbulho possessório - Pedido de indenização pelo período em que os requeridos permaneceram ocupando ilicitamente parcela do imóvel da parte autora que não procede - Ausência de qualquer especificação ou comprovação de qual seria o valor razoável a este título - Precedentes desta Corte - Reforma da sentença - Parcial provimento do recurso interposto apenas para julgar procedente o pedido de reintegração de posse.
+Os Embargos de Declaração foram rejeitados às fls. 487-491.
+Nas razões do seu Recurso Especial, a EMAE apontou violação dos arts. 324, § 1º, II, 489, § 1º, IV, 509 e 1.022, I, do CPC e 884, 1.225, V, e 1.228 do CC.
+Ricardo Gorandi e Tania Coradi, por sua vez, não indicaram afronta a qualquer dispositivo de lei federal.
+Contrarrazões apresentadas às fls. 524-531.
+Houve juízo negativo de admissibilidade, o que deu ensejo à interposição dos presentes Agravos.
+O Ministério Público Federal emitiu parecer às fls. 593-602.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.4.2024.
+1. Agravo em Recurso Especial da EMAE
+Diante da impugnação específica dos fundamentos da decisão de inadmissibilidade, conheço do Agravo.
+Passo ao exame do Recurso Especial.
+A rejeição pelo Tribunal de origem do pedido de pagamento de aluguéis, pelo período em que os réus permaneceram ocupando ilicitamente o bem público, fere a jurisprudência do STJ, segundo a qual, com esteio na vedação do enriquecimento sem causa, tal ressarcimento é devido.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMÓVEL DA UNIÃO. OCUPAÇÃO IRREGULAR. INDENIZAÇÃO. CABIMENTO. ART. 10, PARÁGRAFO ÚNICO. DA LEI N. 9.636/1998. PRECEDENTES DO STJ.
+I - Na origem, trata-se de ação ajuizada pela CEF objetivando a reintegração de posse c/c condenação ao pagamento de aluguéis pela utilização indevida da área de sua propriedade e do INSS (como assistente litisconsorcial).
+II - Foi apresentada oposição, alegando os autores serem os verdadeiros possuidores do imóvel.
+III - Na sentença, julgou-se parcialmente procedente o pedido para determinar a retomada definitiva da posse da área pelos autores e improcedente o pedido da oposição. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para majorar os honorários advocatícios em 20% sobre o valor da causa. Esta Corte deu provimento ao recurso especial.
+IV - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é devida a indenização pela posse ou ocupação ilícita de imóvel da União.
+V - Quanto à possibilidade de que a reintegração de posse determinada pela sentença seja cumulada com o pagamento de indenização pela ocupação irregular da terra pública, equivalente ao pagamento de aluguéis, a irresignação das entidades públicas mostra-se correta.
+VI - Conforme já decidido por essa Corte, no julgamento do REsp n. 1.755.340/RJ, Ministro Herman Benjamin, DJe 5/10/2020, "Quem ocupa, usa ou aproveita bem público sem a imprescindível anuência expressa, inequívoca, atual e válida - ou além dos termos e condições nela previstos - da autoridade competente pratica esbulho, fazendo-o à sua conta e risco, fato que dispara uma série de providências, ora administrativas dotadas de autoexecutoriedade, ora judiciais."
+VII - O voto do relator foi claro em esclarecer que o art. 10 da Lei n. 9.636/1998 determina que "Até a efetiva desocupação, será devida à União indenização pela posse ou ocupação ilícita, correspondente a 10% (dez por cento) do valor atualizado do domínio pleno do terreno, por ano ou fração de ano em que a União tenha ficado privada da posse ou ocupação do imóvel, sem prejuízo das demais sanções cabíveis".
+VIII - Desse modo, "o legislador se encarregou de arbitrar, em percentual prefixado mínimo, remuneração a ser paga pelo ocupante ilegal, tomando por base o valor de mercado da coisa (art. 10, parágrafo único, da Lei 9.636/1998). Na perspectiva jurídica, não se cuida nem de pena, nem propriamente de indenização por danos causados ao bem ou ao proprietário, mas de ressarcimento ao Estado - reservado a evitar enriquecimento sem causa - pela mera "privação" do imóvel. Na essência, está-se diante de dever de "restituir o indevidamente auferido" com a ocupação "sem justa causa" do bem. Conforme o art. 884, caput, do Código Civil, caracteriza enriquecimento sem causa ocupar, usar ou aproveitar ilicitamente a totalidade ou parte do patrimônio alheio, comportamento agravado quando envolve privatização e exploração comercial de bens constitucional ou legalmente afetados ao serviço da sociedade e das gerações futuras."
+IX - Ressalto, ainda, os precedentes mencionados nos citados REsps n. 1.432.486/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/12/2015 e n. 1.730.402/RJ , relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/3/2019).
+X - Agravo interno improvido.
+(AgInt nos EDcl no AREsp 1.985.936/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 16.11.2023)
+Convém ressaltar que o argumento utilizado pela Corte a quo, de que o pleito indenizatório não merece procedência, pois "nos presentes autos não houve qualquer especificação ou comprovação de qual seria o valor razoável a este título", colide com o entendimento do STJ de que é admissível a "formulação de pedido genérico diante da impossibilidade de imediata mensuração do quantum debeatur ou da necessidade de prova complexa, de natureza técnica" (REsp 1.597.833/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9.9.2020).
+Logo, está caracterizada a violação do art. 884 do CC e dos arts. 324, § 1º, II, e 509 do CPC, de maneira que deve ser dado provimento ao pedido de percepção de aluguéis, os quais serão apurados em fase de liquidação de sentença.
+2. Agravo em Recurso Especial de Ricardo Gorandi e Tania Coradi
+Da análise da insurgência, conclui-se que as partes não impugnaram especificamente os fundamentos da decisão de inadmissibilidade.
+In casu, a Corte de origem não conheceu do Recurso Especial em razões (a) da Súmula 284/STF; e (b) da Súmula 7/STJ (fls. 539-540).
+Examinando o AREsp (fls. 560-566), os recorrentes não enfrentaram os referidos óbices, atraindo a Súmula 182/STJ ao presente caso.
+Sobre esse ponto, cumpre ressaltar que, na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que o recorrente impugna apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à parte não impugnada. A isso acrescentam-se as disposições do art. 253, I, do RISTJ e do art. 932, III, do CPC. Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de indenização por dano moral contra o Município de São José do Rio Preto e outro, objetivando o recebimento de 150 (cento e cinquenta) salários-mínimos, acrescidos de correção monetária e juros de mora. Na sentença o pedido foi julgado parcialmente procedente para condenar o Município de São José do Rio Preto ao pagamento de R$ 165.000,00 (cento e sessenta e cinco mil re ais), (valor correspondente a cento e cinquenta salários-mínimos) a título de indenização por morais e acrescidos de juros desde o evento danoso (Súmula n. 54/STJ). No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 2063004/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 21.9.2022)
+3. Conclusão
+Diante do exposto, (a) conheço do Agravo para dar provimento ao Recurso Especial da EMAE; e (b) não conheço do Agravo em Recurso Especial de Ricardo Gorandi e Tania Coradi.
+Publique-se.
+Intimem-se.
+EMENTA
