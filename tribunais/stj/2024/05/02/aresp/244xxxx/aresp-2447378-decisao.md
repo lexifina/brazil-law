@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. AÇÃO OBRIGAÇÃO DE NÃO FAZER COM INDENIZAÇÃO. DANOS AMBIENTAIS. EFLUENTES HOSPITALARES LANÇADOS SEM TRATAMENTO. SENTENÇA DE PARCIAL PROCEDÊNCIA. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. RECURSO DO ESTADO. ASTREINTES FIXADAS EM CONFORMIDADE COM O PRINCÍPIO DA PROPORCIONALIDADE. INÉRCIA PARA CUMPRIMENTO DAS DECISÕES. DESPROVIMENTO DO RECURSO.
+A parte agravante, nas razões do Recurso Especial, aponta violação aos arts. 8º, 507, 536, 557 e 805 do CPC/2015. Alega:
+(..)
+Ou seja, a matéria ainda se encontra pendente de julgamento, não estando preclusa, na medida que ainda não foi decidida de forma definitiva, conforme prevê o artigo 506 do CPC. Assim sendo, o Juízo a quo ao afirmar que a decisão que serviu de lastro ao decisum que ora se impugna está preclusa - não sendo cabível, portanto, discutir suas premissas - acabou por violar o artigo 506 do CPC.
+(..)
+Feitas tais ponderações, cabe demonstrar que no presente caso, a estipulação de multa não merece se manter, pois viola os artigos 536, § 1º e 805 do CPC, assim como deixa de observar a jurisprudência do e. STJ sobre o tema.
+Isso porque, em primeiro lugar, o Estado do Rio de Janeiro, no presente caso, não ficou inerte nos autos, tampouco demonstrou "atitude furtiva". Certo é que a demora - ou melhor dizendo, o tempo necessário à consecução da ordem judicial - decorre de exigências legais que impõem a observância de uma série de procedimentos à Fazenda Pública para contratação de serviços e obras.
+(..)
+No mais, a astreinte, no presente caso, se afigura ineficaz ao fim colimado às medidas executivas, na medida em que não contribui de maneira alguma para a efetividade da tutela judicial, já que esta demanda a observância de procedimentos previstos em lei para a Fazenda Pública, decerto que a mera vontade do administrador público de cumprir de imediato a decisão não é bastante para a sua consecução.
+(..)
+Destaque-se, ainda, que o acórdão não observou os parâmetros fixados pelo e. STJ (AgInt no AREsp 738.682/RJ) para estipulação de multa, dentre os quais o tempo de cumprimento da medida que exige prazo razoável. Se houve descumprimento, este se deu única e exclusivamente porque o Juízo estipulou prazo desarrazoado. Ou seja, o cumprimento da obrigação, no tempo determinado pelo Juízo, tornou a medida de impossível ou inviável consecução, de modo que se mostra descabida a estipulação de astreinte.
+(..)
+Subsidiariamente, caso se entenda por manter a multa imposta ao Estado cumpre rever os prazos de incidência e o montante em que fixada, pois se traduzem em nítida ofensa aos princípios da proporcionalidade, da razoabilidade, da economicidade (arts. 8º e 557, CPC) e ao próprio princípio geral da menor onerosidade da execução (art. 805, CPC).
+Contrarrazões apresentadas às fls. 96-113, e-STJ.
+Houve juízo negativo de admissibilidade na instância de origem, o que deu ensejo à interposição do presente Agravo em Recurso Especial.
+O Ministério Público Federal emitiu parecer, às fls. 188-193, e-STJ, opinando pelo não provimento do Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.1.2024.
+Da análise da presente insurgência, conclui-se que a parte interessada não impugnou especificamente todos os fundamentos da decisão de inadmissibilidade.
+Sobre esse ponto, cumpre ressaltar que, na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que o recorrente refuta apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à extensão não impugnada. A isso acrescentam-se as disposições do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015, não se conhecendo de AREsp. que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade.
+In casu, a Corte de origem inadmitiu o Recurso Especial, em razão do óbice da Súmula 7/STJ e da falta de prequestionamento (fls. 115-122, e-STJ).
+Examinando o Agravo em Recurso Especial (fls. 133-146, e-STJ), observa-se que o agravante deixou de atacar especificamente o óbice da Súmula 7/STJ. Nessa seara  quanto às suas alegações de afronta aos arts. 8º, 536, 557 e 805 do CPC/2015  limitou-se a repetir as teses constantes do Recurso Especial. Deveria, ao revés, ter elucidado de forma efetiva, concreta e pormenorizada a razão de a eventual reforma do acórdão de origem não implicar revolvimento de matéria fática. As bases para uma impugnação específica da Súmula 7/STJ já foram estabelecidas por esta Turma, sendo certo que o Agravo em escopo não atende nenhuma delas:
+a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto, e não simplesmente reiterar o Recurso Especial.
+(AgInt no AREsp 2023795/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 23.6.2022).
+Com efeito, a jurisprudência do STJ é assente no sentido de que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20.10.2017).
+Descumpridos tais parâmetros - como no presente caso -, a impugnação é tida como genérica, atraindo a incidência da Súmula 182/STJ. Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de indenização por dano moral contra o Município de São José do Rio Preto e outro, objetivando o recebimento de 150 (cento e cinquenta) salários-mínimos, acrescidos de correção monetária e juros de mora. Na sentença o pedido foi julgado parcialmente procedente para condenar o Município de São José do Rio Preto ao pagamento de R$ 165.000,00 (cento e sessenta e cinco mil re ais), (valor correspondente a cento e cinquenta salários-mínimos) a título de indenização por morais e acrescidos de juros desde o evento danoso (Súmula n. 54/STJ). No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 2063004/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 21.9.2022)
+Isso exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
