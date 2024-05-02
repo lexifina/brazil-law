@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VITÓRIO LEVI (VITÓRIO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra nenhum dos fundamentos da decisão agravada, pois VITÓRIO não infirmou seus esteios, na medida em que não refutou de forma arrazoada o óbice pela incidência das Súmulas n.ºs 5 e 7, ambas do STJ, e 283 e 284, ambas do STF, ao caso.
+Em suma, VITÓRIO limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Na espécie, VITÓRIO deveria ter demonstrado a impugnação específica aos fundamentos do acórdão recorrido (Súmulas n.ºs 283 e 284, ambas do STF), citando trechos de seu apelo nobre, o que não ocorreu.
+Por derradeiro, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência das Súmulas n.ºs 5 e 7, ambas do STJ, deve o agravante não apenas mencionar que os referidos enunciados devem ser afastados, mas também demonstrar que a solução da controvérsia independe do reexame do contrato de seguro e dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que também não foi feito.
+No caso, o acórdão recorrido consignou expressamente que
+ ..  Conforme relatório disposto acima, o apelante interpôs recurso de apelação, sustentando que jamais tomou conhecimento de qualquer das condições impostas no contrato e que, diante da aplicação das normas do CDC, são nulas as cláusulas limitativas.
+Compulsando os documentos carreados aos autos, observa-se que o seguro de vida contratado foi celebrado na modalidade coletiva, fato reconhecido pela parte requerente e confirmado nos documentos de fls. 78/96.
+Na hipótese, o Superior Tribunal de Justiça, ao dar provimento ao Recurso Especial interposto pelo requerente, determinou a devolução dos autos a este Sodalício, a fim de que seja examinado se foi adequadamente observado o dever de informação por parte da seguradora.
+A respeito, extrai-se trecho da decisão monocrática do Min. Moura Ribeiro:
+"(1) Dever de informação
+O TJSC entendeu que o dever de prestar informações ao consumidor seria apenas da estipulante.
+ ..  A jurisprudência do STJ orienta, porém, que o dever de informação a respeito das condições do contrato de seguro é da própria SEGURADORA, que não o pode transferir para o estipulante.
+ ..  Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal Estadual a fim de que examine se foi adequadamente observado o dever de informação por parte da seguradora."
+E, analisando minuciosamente os autos, verifica-se que não houve, na hipótese, violação ao dever de informação por parte da seguradora ré a respeito das cláusulas limitativas do contrato de seguro de vida em grupo.
+É que, embora a seguradora não tenha colacionado aos autos qualquer documento assinado pelo segurado, o que poderia indicar sua falta de ciência acerca das cláusulas contratadas, extrai-se que o próprio autor juntou cópia do contrato (fls. 78/79) e da proposta de renovação do seguro (fls. 90/96), concluindo-se que tinha o documento em mãos e que sabia da existência das coberturas para Invalidez Permanente por Acidente (IPA) e Invalidez Funcional Permanente Total por Doença (IFPD), pois estão expressamente mencionadas na referida documentação (fls. 79 e 91). Ademais, na exordial, não há qualquer alegação de desconhecimento quanto a tais coberturas e seus respectivos alcances. Aliás, nesta peça não foi aventada violação ao dever de informação.
+Quanto à Invalidez Funcional Permanente Total por Doença, o contrato juntado pelo autor prevê expressamente que a cobertura:
+"garante o pagamento de indenização em caso de invalidez funcional permanente total, consequente de doença, que cause a perda da existência independente do segurado. É considerada perda da existência independente do segurado a ocorrência de quadro clínico incapacitante que inviabilize de forma irreversível o pleno exercício das relações autonômicas do segurado, comprovando na forma definida nas Condições Gerais do Seguro." (fl. 79).
+Ademais, a própria expressão "total" não deixa dúvidas de que a indenização seria paga somente se o segurado apresentasse doença que lhe deixasse absolutamente inválido.
+ ..
+Do corpo do voto, retira-se a seguinte passagem:
+"De igual sorte, a cobertura para invalidez funcional permanente total por doença irá contemplar tão somente os casos em que o segurado se encontre integralmente inválido, pois sua redação não dá azo a distintas interpretações."
+A questão também é tratada no artigo 17, da Circular n. 302/2005 da SUSEP, e exige a ocorrência de quadro clínico incapacitante que inviabilize o pleno exercício das relações autonômicas do segurado, in verbis:
+Art. 17. Garante o pagamento de indenização em caso de invalidez funcional permanente total, conseqüente de doença, que cause a perda da existência independente do segurado.
+§ 1º Para todos os efeitos desta norma é considerada perda da existência independente do segurado a ocorrência de quadro clínico incapacitante que inviabilize de forma irreversível o pleno exercício das relações autonômicas do segurado, comprovado na forma definida nas condições gerais e/ou especiais do seguro.
+§ 2º Consideram-se também como total e permanentemente inválidos, para efeitos da cobertura de que trata este artigo, os segurados portadores de doença em fase terminal atestada por profissional legalmente habilitado.
+ ..
+Por sua vez, no presente caso, infere-se que o demandante não atende aos requisitos norteadores da Invalidez Funcional Permamente por Doença, pois, da sua narrativa na exordial, não se observa ter havido a perda da existência independente, que inviabilize o pleno exercício das suas relações autonômicas, pois menciona, apenas, que as enfermidades o impedem de exercer as atividades laborais como antes desenvolvia.
+Quanto à indenização decorrente de acidente, os documentos juntados pelo requerente indicam que a cobertura para IPA "garante ao segurado o pagamento de uma indenização relativa à perda, à redução ou à impotência funcional definitiva, total ou parcial, de um membro ou órgão por lesão física, causada por acidente pessoal coberto, de acordo com os percentuais previstos nas respectivas Condições Gerais" (fl. 91).
+De acordo com as condições gerais, as quais, aliás, seguem os padrões das normas da SUSEP e do CNSP, acidente pessoal é considerado: "o evento com data caracterizada, exclusivo e diretamente externo, súbito, involuntário e violento, causador de lesão física que por si só e independentemente de toda e qualquer outra causa, tenha como consequência direta a invalidez permanente total ou parcial do segurado" (fl. 254).
+Saliente-se que o requerente afirmou, na exordial, que suas sequelas derivam da atividade exercida na empregadora, que exigia movimentos repetitivos e uso da força (fl. 01), demonstrando ter conhecimento de que não se trata de acidente propriamente dito, tratando-se, na verdade, doença ocupacional.
+Nesse aspecto, consoante entendimentos deste Sodalício, "a ausência de destaque na redação do dispositivo contratual não é capaz de, no caso, ensejar a sua invalidade, pois o contrato é padrão, e redigido à luz das normativas aplicáveis da SUSEP e do CNSP (acima delineadas), além de que a ausência de cobertura para doença ocupacional decorre do próprio conceito ordinário de acidente - uma vez que não se pode presumir, pelo significado comum das palavras e pela boa-fé, que doença se inclua na cobertura relativa a acidente (art. 113, do Código Civil)" (TJSC, Apelação Cível n. 0302596-25.2016.8.24.0018, de Chapecó, rel. Des. Marcus Tulio Sartorato, Terceira Câmara de Direito Civil, j. 17-12-2019).
+No mesmo sentido, este Órgão Julgador já concluiu que "se expressamente estipulado que o direito à indenização, tal qual se verifica na apólice carreada a estes autos, condiciona-se à existência de invalidez total ou parcial por acidente, é certo que tal garantia, pela própria acepção do termo, não alcança eventual incapacidade por doença. (TJSC - AC n. 0308194-23.2017.8.24.0018, de Chapecó. Rel. Des. Ricardo Fontes, julgado em 21-01-2020).
+Outrossim, não é possível acolher o argumento do autor de que a doença ocupacional que lhe acomete deve ser equiparada a acidente de trabalho, uma vez que o STJ, no próprio recurso especial interposto pelo demandante, destacou que "a modalidade de seguro IPA (invalidez por acidente pessoal) não estende sua cobertura à doença profissional" (fl. 96 - autos nº 0304319-50.2014.8.24.0018/50000).
+Da mesma forma, a jurisprudência desta Corte de Justiça entende que a invalidez por doença, ainda que decorrente da atividade laborativa, não pode ser equiparada àquela oriunda de acidente.
+ ..
+Importante ressaltar a inaplicabilidade da Lei nº 8.213/1991, para fins de equiparação de doença ocupacional a acidente, porquanto se trata de legislação previdenciária específica, enquanto a lide em questão relaciona-se a seguro pessoal regulamentado pela legislação civil.
+ ..
+Não resta dúvida, portanto, de que o caso dos autos não se enquadra como invalidez por acidente, até porque não há qualquer notícia a respeito de sua ocorrência.
+Quanto ao pleito de nulidade da sentença para que os autos retornem ao juízo singular para sua regular instrução, in casu, mostra-se absolutamente inócua a produção de novas provas, quando os documentos apresentados na petição inicial demonstram que o quadro clínico do autor não dá ensejo à cobertura securitária.
+Além disso, deve ser observado o princípio do livre convencimento motivado do magistrado, não havendo que se falar em nulidade caso não haja a determinação de realização de prova pericial.
+ ..
+Por oportuno, acrescenta-se que o contrato de seguro possui interpretação restritiva, nos termos do art. 757 do Código Civil, frisando-se que não há conflito com o art. 47 do Código de Defesa do Consumidor, porquanto a interpretação mais favorável ao segurado não pode resultar alteração do tipo de risco para o qual foi o seguro contratado.
+Com efeito, há que se manter a sentença de improcedência.
+Em relação aos honorários recursais, estes são devidos ao advogado da apelada em 1%, cumulativamente, perfazendo um total de 16% sobre o valor atualizado da causa, nos termos do art. 85, §§ 2º e 11 do CPC, mantendo a suspensão da sua exigibilidade, por ser o autor beneficiário da justiça gratuita.
+Em decorrência, voto no sentido de conhecer do recurso e negar- lhe provimento, majorando os honorários advocatícios em favor do procurador da recorrida, com suspensão de sua exigibilidade, conforme fundamentação acima (e-STJ, fls. 493/511 - sem destaques no original).
+Desse modo, tendo VITÓRIO partido de premissas que desafiam aquelas assentadas pelo acórdão recorrido, não se vislumbra, das razões recursais apresentadas, nenhuma questão federal a ser dirimida nesta Corte Superior.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC/2015. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MULTA. ART. 1.021, § 4º, DO CPC/2015. NÃO AUTOMÁTICA.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (artigo 932, inciso III, do Código de Processo Civil de 2015).
+2. No que diz respeito à Súmula nº 7/STJ, não basta a parte sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Precedente.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.178.399/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023 - sem destaque no original)
+Nessas condições, nos termos do art. 932, III, do CPC, NÃO CONHEÇO do agravo.
+Considerando a aplicabilidade das regras do CPC e o não conhecimento do recurso, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de BRADESCO VIDA E PREVIDENCIA S.A., limitados a 20%, nos termos do art. 85, § 11, do CPC. Deverá ser observado, se for o caso, o benefício da gratuidade da justiça, nos termos do art. 98, § 3º, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
