@@ -1,0 +1,64 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CENTRO TRASMONTANO DE SÃO PAULO, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa a exame oncológico PET-SCAN.
+O julgado negou provimento à apelação da recorrente nos termos da seguinte ementa (fl. 201):
+Ementa: Consumidor - Plano de Saúde - Ressonância Magnética e "Pet Scan" - Exclusão de cobertura - Conduta ilícita - Cláusula contratual inválida - Alegação de ausência de previsão no rol de procedimentos obrigatórios da ANS - Inadmissibilidade - Rol orientador que prevê a cobertura mínima obrigatória - Exames necessários ao diagnóstico e tratamento do paciente - Existência de prescrição médica -Entendimento jurisprudencial - Negativa ilegal de cobertura - Precedentes do STJ - Aplicação das Súmulas 96 e 102 deste Tribunal - Sucumbência mantida - Sentença mantida - Aplicação do art. 252 do RI-TJSP - Recurso improvido.
+Rejeitados os embargos de declaração opostos (fls. 217-219).
+No presente recurso especial, o CENTRO TRASMONTANO DE SÃO PAULO recorrente alega que o acórdão estadual contrariou as disposições contidas nos arts. 35 da Lei n. 9.656/1998, 3º da Lei n. 10.850/2004 e 6º da LINDB.
+Sustenta, outrossim, que "o contrato pactuado pelas partes foi celebrado em 1991. Assim, a aplicação da Lei nº 9.656/98 ao caso em tela (plano não adaptado ou regulamentado) se mostra, data venia, equivocada, pois contraria o ato jurídico perfeito, previsto no art. 6º, LINDB, negando vigência, assim, aos artigos 35 da Lei 9.656/98 e 3º da Lei 10.850/04" (fl. 227).
+Não apresentadas as contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 319-321).
+É, no essencial, o relatório.
+Cuida-se de decidir se é dever do plano de saúde custear o exame PET-SCAN oncológico.
+O Tribunal de origem entendeu ser devida a cobertura nos seguintes termos (fl. 204):
+Com efeito, a operadora do plano de saúde pode, na avença celebrada, estabelecer quais enfermidades são cobertas pelo seguro, mas não o tipo de tratamento, intervenção, exame e afins indicados para combater a doença.
+Em outras palavras, não pode o paciente, por conta de cláusula contratual limitativa, ser privado de submeter-se ao método terapêutico mais moderno disponível à época do surgimento, instalação e evolução da moléstia.
+É assente no STJ o entendimento segundo o qual o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, sendo abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. RECUSA DE TRATAMENTO. ABUSIVIDADE. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA. FALHA NA REPRESENTAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça tem orientação no sentido de que a operadora do plano de saúde pode delimitar as doenças passíveis de cobertura, mas não pode restringir os procedimentos e as técnicas a serem utilizadas no tratamento da doença. Precedentes.
+3. Na hipótese, o exame dos fatos consignados no acórdão recorrido não atrai a incidência da Súmula nº 7/STJ.
+4. É inviável a análise de tese não suscitada no recurso especial por se tratar de evidente inovação recursal.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.863.349/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/6/2021, DJe de 16/6/2021.)
+Ademais, a jurisprudência desta Corte Superior firmou-se no sentido de que as operadoras de plano de saúde possuem o dever de cobertura de exames, procedimentos ou medicamentos utilizados em tratamento contra o câncer, como no caso dos autos, bem como a natureza taxativa ou exemplificativa do rol da ANS, nessas hipóteses, é desimportante à análise da obrigatoriedade de custeio.
+Decidindo acerca do mesmo exame pleiteado nos autos, esta Corte já decidiu que, tratando-se de exame vinculado a tratamento de câncer, a cobertura é obrigatória, conforme se extrai dos seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PET-CT OU PET-SCAN. PRESCRITO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES. NEGATIVA ILÍCITA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Por ocasião do julgamento do REsp 1.733.013/PR, "fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no REsp 1.949.270/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+3. No caso, trata-se de exame vinculado a tratamento de câncer, hipótese e m que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Precedentes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.099.007/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/12/2023, DJe de 15/12/2023, grifos acrescentados.)
+CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA INDEVIDA DE COBERTURA DO EXAME PET CT SCAN ONCOLÓGICO. ACÓRDÃO CONFORME JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ.
+1 Compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o procedimento, mas custear as despesas de acordo com a melhor técnica" (AgInt no REsp 1.765.668/DF, Terceira Turma, julgado em 29/4/2019, DJe de 06/05/2019).
+2. Na hipótese de procedimento para o tratamento de câncer, a ausência de previsão no rol da ANS não afasta do plano de saúde a obrigação de custear o referido tratamento, nos termos recomendados pelo médico, com vistas à preservação da saúde do beneficiário se a doença é coberta contratualmente Súmula n. 83/STJ.
+3. Nos termos da jurisprudência do STJ, a negativa de cobertura por operadora de plano de saúde, por si só, não configura dano moral, podendo, todavia, ser afastada em situações excepcionais, como nos autos.
+4. O valor de R$ 10.000,00 (dez mil reais) fixados a título de danos morais, arbitrado pela sentença e mantido pelo tribunal de origem, não se revela exorbitante nem se mostra desproporcional, o que afasta a necessidade da excepcional intervenção desta Corte Superior com vistas à sua adequação.
+Agravo interno improvido
+(AgInt no REsp n. 2.085.358/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023, grifos acrescentados.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA A EXAME ESSENCIAL AO DIAGNÓSTICO DO CÂNCER. RECUSA ABUSIVA. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Por ocasião do julgamento do REsp 1.733.013/PR, "fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no REsp 1.949.270/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/02/2022, DJe de 24/02/2022).
+2. No caso, trata-se de fornecimento de medicamento e procedimentos para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no AREsp n. 1.661.657/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/9/2020, DJe de 20/10/2020; AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.899.786/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/4/2023, DJe de 3/5/2023, grifos acrescentados.)
+Dessarte, estando o acórdão em harmonia com a jurisprudência desta Corte quanto à obrigatoriedade de custeio do exame pleiteado, inafastável a Súmula n. 83/STJ (" Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça").
+Por fim, esclareça-se que, embora as disposições da Lei n. 9.656/1998, que versa sobre os planos e seguros privados de assistência à saúde, não retroajam para atingir contratos celebrados antes de sua vigência (quando não adaptados ao novel regime), a eventual abusividade das cláusulas pode ser aferida à luz do Código de Defesa do Consumidor.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+ ..
+2. "Embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a abusividade de suas cláusulas à luz do Código de Defesa do Consumidor, ainda que tenham sido firmados antes mesmo de seu advento" (AgRg no REsp 1.260.121/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/11/2012, DJe 6/12/2012). Incidência das Súmulas 5, 7 e 83 do STJ no que toca à configuração do dever de cobertura.
+3. Conforme entendimento desta Corte, a recusa indevida de cobertura, pela operadora de plano de saúde, nos casos de urgência ou emergência, enseja reparação a título de dano moral, em razão do agravamento ou aflição psicológica ao beneficiário, ante a situação vulnerável em que se encontra. Precedentes. Súmulas 7 e 83/STJ.
+ ..
+(AgInt no REsp n. 1.983.899/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERNAÇÃO EMERGENCIAL. PARADA CARDIORRESPIRATÓRIA. CLÁUSULA CONTRATUAL QUE LIMITA O REEMBOLSO DAS DESPESAS MÉDICO-HOSPITALARES. ADOÇÃO DE CRITÉRIOS DESPROVIDOS DE CLAREZA. ABUSIVIDADE. REVISÃO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME FÁTICO PROBATÓRIO. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. CDC. INCIDÊNCIA. ENTENDIMENTO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Especial é firme no sentido de que "o contrato de seguro de saúde é obrigação de trato sucessivo, que se renova ao longo do tempo e, portanto, se submete às normas supervenientes, especialmente às de ordem pública, a exemplo do CDC, o que não significa ofensa ao ato jurídico perfeito" (AgRg no Ag n. 1.341.183/PB, Relator o Ministro Massami Uyeda, Terceira Turma, julgado em 10/4/2012, DJe 20/4/2012).
+2. Tendo o Tribunal estadual - soberano na apreciação de fatos e provas - concluído ser abusiva a cláusula contratual que limita o reembolso das despesas médico-hospitalares, considerando, sobretudo, a adoção de critérios desprovidos de clareza, não se mostra possível modificar tal conclusão ante os óbices das Súmulas 5 e 7 desta Corte.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.027.818/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, j. 21/11/2017, DJe de 4/12/2017.)
+Assim, não há falar em aplicação retroativa da Lei dos Planos de Saúde ao caso.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o recurso especial foi interp osto contra sentença publicada na vigência do CPC/1973, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+Publique-se. Intimem-se.
+ EMENTA
