@@ -1,0 +1,14 @@
+DECISÃO
+O executado opõe embargos de declaração à decisão cujo dispositivo negou provimento ao seu agravo em recurso especial.
+Sustenta que a decisão embargada é omissa e contraditória porque o recurso especial abordou matéria unicamente de direito, relativa à impenhorabilidade de quantia inferior a 40 salários mínimos mensais e cujo julgamento independe de reexame de provas, do que decorre o afastamento do enunciado da Súmula 7 do Superior Tribunal de Justiça (STJ).
+Respeitada a opinião do embargante, não verifico na decisão embargada os vícios - omissão e contradição - por ele apontados.
+Vale esclarecer, de início, que se considera omisso o provimento judicial que deixa de analisar ponto sobre o qual devia se pronunciar o julgador; e contraditório o que contém proposições (afirmações) incoerentes, inconciliáveis, conflitantes, hipóteses que, repiso, não ocorrem no presente caso, a não ser na opinião (interpretação) do embargante.
+Resumindo o contexto no qual está inserida a questão ventilada nos embargos, registro que, em execução de título extrajudicial (cédula de crédito bancário), da decisão que indeferiu o pedido de cancelamento da constrição de ativos financeiros pertencentes ao executado (depositadas em contas bancárias), este interpôs agravo de instrumento, não provido.
+Em seu recurso especial, o executado alegou que o acórdão recorrido contrariou os artigos 805 e 833 da Lei 13.105/2015 (Código de Processo Civil - CPC/2015) porque assentiu em indeferir o pedido de levantamento das verbas penhoradas, ignorando que elas têm natureza remuneratória (salarial) e são indispensáveis para o custeio da subsistência do devedor e de sua família, qualificando-se, portanto, como impenhoráveis. Também apontou divergência jurisprudencial.
+Afirmei na decisão embargada que o recurso especial esbarra na Súmula 7 do STJ, pois, segundo o acórdão recorrido, não ficou comprovada a alegação de que a constrição judicial atingira verbas salariais do executado, além de montantes a ele não pertencentes.
+Em que pese a leitura diversa feita pelo embargante, não há omissão nem contradição quanto à configuração de hipótese de impenhorabilidade, mas discordância e insatisfação com o teor do julgado.
+Nesse aspecto, a decisão embargada, seguindo a jurisprudência do STJ, assentou que não há como reconhecer, em recurso especial, a impenhorabilidade defendida pelo executado, considerando-se o quadro fático descrito no acórdão recorrido, o qual é diverso daquele que ele (executado) apregoa.
+Com a devida vênia, afirmo uma vez mais que inexiste na decisão embargada omissão ou contradição e constato que os presentes embargos têm nítido propósito de promover nova análise da questão decidida, o que não é admissível pela via processual eleita.
+Em face do exposto, rejeito os embargos.
+Intimem-se.
+EMENTA
