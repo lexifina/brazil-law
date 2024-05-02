@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por SANEAMENTO DE GOIAS S/A contra decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, objetivando a reforma do acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIÇO DE FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. PRESCRIÇÃO DECENAL. REGRA DE TRANSIÇÃO. RECONHECIMENTO PARCIAL DA PRESCRIÇÃO. FATURAS. SEGUNDA VIA DAS FATURAS. AUSÊNCIA DE HIDRÔMETRO. TARIFA MÍNIMA. SERVIÇO DE ESGOTO FORNECIDO. HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA.
+1. Consoante precedentes do Superior Tribunal de Justiça (Temas 251 e 254), em razão da natureza tarifária da remuneração dos serviços de água e esgoto cobrada pelas concessionárias de tais serviços, o prazo prescricional na espécie é vintenário ou decenal, nos termos dos arts. 177 do Código Civil de 1916 ou 205, caput, do Código Civil de 2002.
+2. No caso dos autos, relativamente aos débitos vencidos a partir de junho de 1993 a março de 2003, aplicável o artigo 205 do Código Civil de 2002, que prevê um prazo prescricional de 10 anos, consoante a orientação dada pela súmula 33 do Tribunal de Justiça do Estado de Goiás. E, considerando que, no caso em tela, a propositura desta ação se deu dezembro de 2012, durante a vigência do atual Código Civil, e a citação válida do requerido somente se deu em março de 2013, portanto, transcorrido o prazo prescricional para as prestações anteriores aos 10 anos, tornam-se devidas apenas as parcelas vencidas a partir de abril de 2003.
+3. As ações de cobrança de tarifas relativas ao abastecimento de água e esgoto sanitário devem ser instruídas com as faturas e/ou notas fiscais emitidas pela SANEAGO, sob pena de não se comprovar a existência da relação jurídica com a parte adversa e a quantia realmente devida.
+4. Apresentadas pela autora, ora apelada, as segundas vias das faturas com o intuito de demonstrar o débito referente à prestação de serviço obrigatório de coleta de esgoto, de forma individualizada (mês a mês), deve ser provido o pleito inicial, reconhecendo o débito reclamado pelo recorrido.
+5. No caso de inexistência de hidrômetro no imóvel, o Superior Tribunal de Justiça firmou entendimento no sentido de que é possível a cobrança do serviço de esgoto pela tarifa mínima.
+6. Verificada a sucumbência recíproca, eis que cada litigante foi em parte vencedor e vencido, mister a distribuição dos ônus sucumbenciais de forma igualitária.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte recorrente sustenta, além da divergência jurisprudencial, a violação dos arts. 202, I, 205 e 2.028 do Código Civil e dos arts. 86, parágrafo único, 240 do CPC, por entender que:
+Deste modo, considerando a data da entrada em vigor do Código Civil de 2002 (em 11/01/2003), quando se dá início a contagem do prazo decenal, tem-se que as faturas acima referidas, não estão prescritas, porquanto houve a interrupção do lapso prescricional quando do ajuizamento da demanda em 19/12/2012.
+Considerando que a referência mais antiga venceu em 06/1993, a mesma estaria prescrita somente em 11/01/2013. Uma vez proposta a ação em 19/12/2012 (como a seguir esclarecido), não há que se falar em prescrição de qualquer das referências ora cobradas.
+Quanto às faturas 01/2003 a 03/2003 há de se aplicar o prazo decenal considerando o vencimento de cada uma. Entretanto, observando que a ação fora proposta no ano de 2012, isto é, menos de 10 (dez) anos do vencimento, não há que se falar em prescrição.
+ ..
+Portanto, diante dos esclarecimentos acima expostos, vê-se que a interrupção da prescrição se dá com o despacho do juiz que ordena a citação, se o demandante promover a citação sem desídia, como ocorre no presente caso, haja vista que a guia de locomoção foi paga ao tempo da propositura da demanda, com a guia inicial, tendo sido o ora Recorrido citado na primeira diligência.
+Ademais, após a propositura da demanda a ora Recorrente só fora intimada nos autos para impugnar a contestação. E, sendo válida a citação, como também ocorre no presente feito, correta que a interrupção da prescrição retroaja à data da propositura da ação.
+ ..
+Assim, caso se mantenha a prescrição vê-se que a Recorrente terá decaído em parte mínima do seu pedido, eis que estariam prescritas faturas compreendidas em um período de cerca de 10 (dez) anos, remanescendo 19 (dezenove) anos da dívida a ser paga pelo requerido.
+O Recurso foi inadmitido na origem, o que ensejou a interposição do presente Agravo.
+É o relatório.
+Passo a decidir.
+O Tribunal a quo manifestou-se acerca da prescrição da ação de cobrança das tarifas de água e esgoto, nos seguintes termos:
+Por conseguinte, diante das premissas apresentadas, verifica-se que, numa primeira análise, a cobrança das parcelas de junho de 1993 a janeiro de 2003, quando o novo Código Civil entrou em vigor, não se encontravam prescritas, pois, contando-se da prestação mais antiga (junho de 1993), transcorreram apenas 9 anos e 7 meses, portanto, a menos de 10 anos.
+Todavia, considerando que, no caso em tela, a propositura desta ação se deu em 19 de dezembro de 2012, durante a vigência do atual Código Civil, e a citação válida do requerido somente se deu em 11 de março de 2013, causando a interrupção da prescrição nesse instante, de modo que, estão prescritas as prestações vencidas 10 anos antes da citação, ou seja, todas anteriores a 11 de março de 2003.
+ ..
+Sendo assim, considerando que a interrupção do prazo de prescrição ocorre com a citação válida, operada está a prescrição das prestações compreendidas entre o período de junho de 1993 a março de 2003.
+Isso significa dizer que são devidas apenas as parcelas vencidas no mês de abril de 2003 em diante.
+Com efeito, o entendimento do acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte. Isso porque "a Primeira Seção do STJ, ao julgar o REsp 1.117.903/RS, mediante a sistemática prevista no art. 543-C do CPC e na Resolução STJ 08/2008, ratificou o entendimento de que a contraprestação cobrada por concessionária de serviço público a título de fornecimento de água e esgoto ostenta natureza jurídica de tarifa ou preço público, submetendo-se à prescrição decenal (art. 205 do CC de 2002) ou vintenária (art. 177 do CC de 1916)" (AgInt no REsp 1.596.745/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/4/2017).
+Assim, a alteração da conclusão do Tribunal a quo, adotando as alegações da recorrente acerca do termo inicial da prescrição de cada fatura, assim como acerca da existência de causa interruptiva diversa , ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Por fim, "averiguar a distribuição dos ônus da sucumbência para aferir a sucumbência mínima ou a recíproca demanda a incursão no acervo fático-probatório dos autos, medida vedada pela Súmula n. 7 do STJ no âmbito do recurso especial" (AgInt nos EDcl no AREsp 2.216.192/BA, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 21/6/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Intimem-se.
+EMENTA
