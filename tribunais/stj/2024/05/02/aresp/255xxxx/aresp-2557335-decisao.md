@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por PAULO DE TARSO CARNEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. LOCAÇÃO RESIDENCIAL. FASE DE CUMPRIMENTO DE SENTENÇA. NULIDADE OU EXTINÇÃO DO PROCESSO PELA AUSÊNCIA DE REGULARIZAÇÃO DO POLO ATIVO E POR FALTA DE REPRTESENTAÇÃO VÁLIDA. IMPOSSIBILIDADE.
+Não há falar em nulidade e nem em extinção do processo, já tendo sido realizada a regularização do polo ativo e estando todas as partes devidamente representadas nos autos. A demora no cumprimento da determinação judicial está devidamente justificada e não se verifica prejuízo ao decedor.
+RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 13, inciso I, do Código de Processo Civil de 1973; e do art. 14 do Código de Processo Civil, no que concerne à necessidade de decretação de nulidade do processo pela falta de representação processual que perdurou durante muitos anos, trazendo a seguinte argumentação:
+A recorrida não existe ao menos desde 28/08/2002, conforme informações do processo de inventário (fl. 411dos autos físicos -fl. 4 do PROCJUDIC11 do evento 7).
+Em 28/08/2002, a partilha foi homologada judicialmente, extinguindo a figura da inventariante. Este fato foi ocultado nos autos durante anos! Gravíssimo, pois a irregularidade de representação perdurava mais de 15anos e nem a ex-inventariante nem sua procuradora informaram isto ou juntaram nova procuração.
+Obviamente que o imóvel foi transferido para alguém, quiçá não foi até vendido já. Não fosse este procurador conseguir localizar as informações do inventário, jamais se tomaria ciência nestes autos da extinção do espólio.
+Exa., isso é causa de nulidade do processo desde 28/08/2002, data, inclusive, que coincidentemente foi intimada a sucessão extinta para manifestar-se sobre os embargos monitórios (fl. 63). Na impugnação/contestação aos embargos monitórios (fls. 67/70), apresentada em 19/09/2002, não há uma linha sequer referindo a homologação da partilha, quanto mais a indicação do novo(a) proprietário(a) do imóvel.
+ ..
+Assim, tem-se a nulidade processual desde agosto de 2002, causando a nulidade do processo nos termos do art. 13, I, do CPC/1973, em consonância com o art. 14 do NCPC.
+Não obstante a nulidade processual fulminar o processo desde a extinção da sucessão representada no pólo ativo, diante de alguma controvérsia sobre a interpretação dos artigos de Lei Federal supra citados, entende o agravante que há nulidade, no mínimo, de toda a fase de cumprimento de sentença.
+Ocorre que o cumprimento de sentença iniciou-se em 02/08/2005 (fls. 138/139), quase três anos depois da extinção do inventário de Adelina. Ou seja, naquele momento, não havia mais qualquer desculpa para prosseguir o feito em nome de pessoa EXTINTA! (fls. 102-103).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+O fato de o inventário ter sido encerrado com a homologação dos formais de partilha efetivamente implica na necessidade de alteração do polo passivo, deixando de constar a sucessão, representada pela inventariante para incluir todos os herdeiros, como constou no agravo de instrumento nº 70076271212, julgado em abril de 2018.
+Todavia, trata-se de vício sanável, a teor do art. 76 do CPC, que somente enseja nulidade processual ou extinção do processo em caso de prejuízo concreto e de não regularização, o que não foi verificado no caso dos autos.
+Note-se que a demora no cumprimento da determinação judicial está devidamente justificada pela dificuldade de localização de todos os herdeiros, sendo os procuradores da sucessão credora diligentes na busca dos endereços, inclusive requisitando auxílio dos Sistemas a disposição do Poder Judiciário.
+ ..
+Mas não só isso, necessário atentar que já foi realizada a alteração no polo ativo da ação, conforme determinado no evento 64, DESPADEC1, estando todos os herdeiros incluidos como credores e devidamente representados (evento 7, PROCJUDIC12, fl. 28 e evento 7, PROCJUDIC14, fls. 29/32), inclusive a herdeira A. M. , pela Defensoria Pública, ante o silêncio após a intimação por carta-AR.
+Portanto, impõe-se o prosseguimento do processo com o julgamento da impugnação ao cumprimento de sentença, como já determinado na origem.(fl. 71).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
