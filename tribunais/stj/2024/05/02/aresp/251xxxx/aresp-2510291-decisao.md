@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO PAULIANA. SENTENÇA DE EXTINÇÃO POR DECADÊNCIA. ALEGAÇÃO DE FRAUDE CONTRA CREDORES. CONTRATO DE EMPRÉSTIMO QUE TERIA SIDO SIMULADO ENTRE OS RÉUS. NULIDADE DE NEGÓCIO JURÍDICO SIMULADO. VÍCIO QUE NÃO É SUSCETÍVEL DE CONFIRMAÇÃO, NEM CONVALESCE PELO DECURSO DO TEMPO. INTELIGÊNCIA DOS ARTIGOS 167 E 169 DO CÓDIGO CIVIL. INAPLICABILIDADE DO PRAZO DECADENCIAL DO ARTIGO 178, II, DO CPC. DECADÊNCIA AFASTADA. MATÉRIA QUE ENSEJA DILAÇÃO PROBATÓRIA PARA SER DEMONSTRADA, DE FORMA ADEQUADA, A PRETENSA FRAUDE/SIMULAÇÃO. PRECEDENTES DO STJ. CONHECIMENTO E PROVIMENTO DO RECURSO.
+Alegou-se, no especial, violação dos artigos 178, II, do Código Civil, e 332, § 1º, e 487 do Código de Processo Civil sob o argumento de que decaiu o direito de autor de obter a declaração de nulidade do negócio jurídico simulado.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local concluiu "que a sentença está equivocada quando toma o pedido como de anulação, sem atentar que a causa de pedir é conducente a um pedido de declaração de nulidade do negócio jurídico, por simulação, com fundamento na disposição do artigo 167 do Código Civil, expressamente mencionado na inicial como fundamento de direito da pretensão.
+Sobre o tema, de acordo com a disposição do artigo 169 do Código Civil, a decadência não se aplica à pretensão de declaração de nulidade do negócio jurídico simulado" (e-STJ, fl. 2.445).
+Deu provimento ao recurso, assim, para determinar o retorno dos autos à origem a fim de que se prossiga na instrução.
+O entendimento está de acordo com a jurisprudência desta Casa, que entende que à simulação não se aplicam prazos prescricionais ou decadenciais, porquanto o negócio simulado não se convalida.
+A saber:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO. COMPRA E VENDA DE IMÓVEL DE ASCENDENTE A DESCENDENTE POR INTERPOSTA PESSOA. SIMULAÇÃO. REEXAME DE PROVAS. NULIDADE DO NEGÓCIO JURÍDICO. DECADÊNCIA. INEXISTÊNCIA. ATO NULO INSUSCETÍVEL DE CONVALIDAÇÃO PELO DECURSO DO TEMPO. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem, com fundamento na prova documental trazida aos autos, concluiu pela existência de simulação de negócio jurídico relativo ao contrato de compra e venda de imóvel de ascendente a descendente por interposta pessoa. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. O negócio jurídico nulo por simulação não é suscetível de confirmação, nem convalesce pelo decurso do tempo e, portanto, não se submete aos prazos prescricionais, nos termos dos arts. 167 e 169 do Código Civil de 2002.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.702.805/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/3/2020, DJe de 25/3/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ACORDO HOMOLOGADO JUDICIALMENTE. IMPUGNAÇÃO. VIA ADEQUADA. AÇÃO ANULATÓRIA. SÚMULA 83/STJ. SIMULAÇÃO DE NEGÓCIO JURÍDICO. ANULAÇÃO. INSUSCETIBILIDADE DE DECADÊNCIA. PRECEDENTES. DECISÃO HOMOLOGATÓRIA. INCIDÊNCIA DE PRAZO DECADENCIAL E/OU PRESCRICIONAL PARA ANULAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. APLICAÇÃO DA TEORIA DA CAUSA MADURA. DESNECESSIDADE DE PEDIDO EXPRESSO. PRECEDENTES. CONDIÇÕES DE IMEDIATO JULGAMENTO DO PROCESSO E OCORRÊNCIA DE SIMULAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte se limitou a defender genericamente a ocorrência de negativa de prestação jurisdicional, sem especificar, nas razões do apelo especial, sobre quais questões teria a Corte de origem deixado de se manifestar. Incidência do enunciado n. 284 da Súmula do STF.
+2. A jurisprudência desta Casa é firme no sentido de que a pretensão de anulação de decisão judicial homologatória de acordo deve ser manifestada por meio de ação anulatória, prevista no art. 486 do CPC/1973, sendo descabida a ação rescisória para essa finalidade.
+Incidência do verbete sumular n. 83/STJ.
+3. Este Tribunal de Uniformização perfilha o entendimento de que a simulação é insuscetível de prescrição ou de decadência, por ser causa de nulidade absoluta do negócio jurídico. Precedentes.
+4. O art. 178, II, do CC não possui comando normativo apto a amparar a tese jurídica de que haveria prazo decadencial e/ou prescricional para anular a decisão homologatória do negócio jurídico simulado, o que enseja a aplicação do enunciado n. 284 da Súmula do STF.
+5. Nos termos da jurisprudência desta Corte de Justiça, "ainda que não exista pedido expresso da parte recorrente, pode o Tribunal, na apelação, julgar o feito de imediato, caso a controvérsia se refira a questão de direito ou quando já tiverem sido produzidas as provas necessárias ao deslinde da controvérsia, tendo em vista a teoria da causa madura, com fulcro no art. 515, § 3º, do CPC/7973, atual art. 1.013, § 3º e 4, do CPC/2015" (AgInt no REsp n. 1.904.155/AP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022).
+6. É inviável a desconstituição do entendimento estadual, para concluir que o processo não estava em condições de imediato julgamento, sem o prévio reexame fático-probatório, providência vedada na via eleita, ante a previsão contida no enunciado n. 7 da Súmula do STJ.
+7. Para derruir a convicção acerca da ocorrência de simulação, seria indispensável o revolvimento de fatos e provas, procedimento obstado na via extraordinária, em razão do verbete sumular n. 7 desta Casa.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 1.806.022/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/2/2024, DJe de 12/3/2024.)
+Inequívoca, pois, a incidência do verbete n. 83 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial. Sucumbência ao final.
+Intimem-se.
+EMENTA
