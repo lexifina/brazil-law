@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por WANDERLEY SOARES DA SILVA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA EM CONTA-POUPANÇA. MOVIMENTAÇÃO ATÍPICA. DESVIRTUAMENTO DE SUA FINALIDADE. MANUTENÇÃO.
+1. Insurge-se o agravante contra a penhora realizada em sua conta-poupança. Contudo, a impenhorabilidade dos valores depositados em conta-poupança cessa quando resta caracterizado o desvirtuamento da sua finalidade. Precedentes.
+2. Na hipótese, os extratos bancários do agravante na aludida conta demonstram movimentações diárias, com depósitos e saques com contornos de movimentação atípica, peculiar à de conta corrente, afastando a impenhorabilidade prevista no artigo 833, X, do Código de Processo Civil.
+3. Agravo de instrumento conhecido e desprovido." (fl. 113)
+Nas razões do recurso especial (fls. 132/137), a parte recorrente aponta violação ao artigo 833, incisos IV e X, do Código de Processo Civil de 2015, sustentando, em síntese, a impenhorabilidade das aplicações financeiras do devedor até o limite de 40 (quarenta) salários-mínimos, seja em conta corrente ou qualquer outra aplicação financeira. Aduz que a mera movimentação de maior ou menor intensidade dos valores presentes em conta bancária não é motivo suficiente para descaracterizar a proteção conferida aos referidos bens, não servindo, do mesmo modo, para caracterizar amá-fé do seu proprietário.
+Devidamente intimada, a parte recorrida não apresentou contrarrazões, conforme certidão de fls. 148/149.
+É o relatório. Decido.
+Razão assiste à parte recorrente.
+Conforme o atual entendimento jurisprudencial da Segunda Seção do STJ, é impenhorável a quantia de até 40 (quarenta) salários mínimos, seja ela mantida em poupança, em conta corrente, em fundo de investimentos ou em espécie, salvo comprovação de abuso de direito, má-fé ou fraude verificados no caso concreto. A título ilustrativo:
+"AGRAVO INTERNO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃO SINGULAR DO RELATOR. ART. 932, IV, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JULGAMENTO PELO COLEGIADO. NULIDADE. INEXISTÊNCIA. EFEITO SUSPENSIVO AO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA EXCEPCIONALIDADE NECESSÁRIA. IMPENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. PRECEDENTES. INOVAÇÃO. INCABÍVEL. NÃO PROVIMENTO.
+1. "O STJ entende não haver violação do art. 557 do CPC/1973 (art.
+932, III e IV, do NCPC) quando o relator decide a controvérsia na mesma linha da jurisprudência dominante do Tribunal. Eventual nulidade da decisão monocrática fica superada com a reapreciação do recurso pelo órgão colegiado pela via de agravo regimental/interno" (AgInt no REsp 1197594/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 3.3.2017).
+2. Não demonstrada a excepcionalidade necessária à concessão de efeito suspensivo ao recurso especial, resta inviabilizada a pretensão.
+3. Salvo nos casos de fraude ou abuso, a quantia de até 40 (quarenta) salários mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.
+4. Não se admite a adição, em sede de agravo interno, de tese não exposta no recurso especial, por importar em inadmissível inovação.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.294.789/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/12/2023, DJe de 15/12/2023)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, o acórdão embargado incidiu em omissão ao deixar de consignar que a proteção conferida pela regra da impenhorabilidade de valor até 40 (quarenta) salários mínimos abrange todos os valores depositados em conta corrente, poupança ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, e que a simples movimentação atípica não é capaz de caracterizar má-fé ou fraude por parte do devedor.
+3. Embargos de declaração acolhidos, com efeitos infringentes."
+(EDcl no AgInt no REsp n. 2.048.250/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/12/2023, DJe de 7/12/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BLOQUEIO BACENJUD. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE, INDEPENDENTEMENTE DO TIPO DE APLICAÇÃO. DESNECESSIDADE DE PRODUÇÃO PROBATÓRIA. RECURSO PROVIDO.
+1. O art. 833, X, CPC prevê, textualmente, a impenhorabilidade de valores abaixo de 40 salários mínimos depositados em caderneta de poupança. Todavia, há entendimento dominante nesta Corte acerca da impenhorabilidade dos depósitos inferiores a 40 salários mínimos em qualquer tipo de aplicação.
+2. Desnecessidade de provas quando o fato controvertido não tem influência para modificação do resultado do julgamento, conforme art. 370, § único, CPC. Assim, não há cabimento na produção probatória acerca do tipo de aplicação em que depositados os valores, visto que, em qualquer circunstância, as quantias até 40 (quarenta) salários mínimos serão impenhoráveis.
+3. O art. 833, X, do CPC busca preservar a reserva financeira essencial à proteção do mínimo existencial do executado e de sua família, em razão das inúmeras contingências que podem tornar imprescindível essa poupança. Presume-se como valor indispensável para tanto a quantia de 40 (quarenta) salários mínimos.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Agravo interno improvido."
+(AgInt no REsp n. 2.018.134/PR, Relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 27/11/2023, DJe de 30/11/2023)
+No caso dos autos, o Tribunal de origem confirmou a penhora de valor inferior a 40 (quarenta) salários mínimos em conta poupança de titularidade da parte recorrente, motivado na possibilidade de penhora de ativos existentes em conta, quando não efetivamente comprovado serem destinados à poupança, em virtude da realização de movimentações diárias na conta de titularidade do recorrente, nos seguintes termos:
+"Na hipótese, contudo, assiste razão ao juízo quando pontua que a impenhorabilidade dos valores a quo, depositados em conta-poupança cessa quando resta caracterizado o desvirtuamento da sua finalidade.
+Os extratos bancários do agravante na conta (ID 144709234 - p. 11/30 dos autos de origem) demonstram movimentações diárias, com depósitos e saques com contornos de movimentação atípica, peculiar à de conta corrente, afastando a impenhorabilidade prevista no artigo 833, X, do Código de Processo Civil.
+A título exemplificativo, só no dia 17/10/2022, a parte agravante realizou doze transações, entre pagamentos da função débito, transferências e saques.
+Em precedente desta e. Turma, decidiu-se que "constatado que as contas-poupança do agravante-devedor são utilizadas como contas correntes, os numerários nelas bloqueados não estão amparados pela impenhorabilidade do art. 833, inc. X, do CPC. (Acórdão 1691748, 07039621820238070000, Relator: VERA ANDRIGHI, 6ª Turma Cível, data de julgamento: 19/4/2023, publicado no DJE: 9/5/2023). No mesmo sentido, acórdão 1423264, 07026478620228070000, Relator: ESDRAS NEVES, 6ª Turma Cível, data de julgamento: 11/5/2022, publicado no DJE: 31/5/2022.
+Desse modo, deve ser mantida a constrição, sob pena de restar frustrado o escopo da execução, qual seja, o de assegurar o cumprimento da obrigação representada pelo título, em prazo razoável e de forma a atender a expectativa e o interesse do credor (artigos 4º e 797, do Código de Processo Civil)." (fl. 116)
+Como se vê, a decisão do Tribunal de origem está fundada apenas no desvirtuamento da finalidade dos valores depositados em conta-poupança pelo recorrente, não havendo qualquer manifestação acerca da comprovação de má-fé, abuso de direito ou fraude no caso concreto.
+Nesse contexto, constatada a divergência entre o acórdão recorrido e a jurisprudência desta Corte, conclui-se que o recurso especial merece provimento.
+Ante o exposto, nos termos do art. 255, § 4º, II, do RISTJ, dou provimento ao recurso especial, para determinar a liberação do bloqueio realizado na conta do recorrente até o limite de 40 (quarenta) salários mínimos.
+Publique-se.
+EMENTA
