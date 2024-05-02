@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 77 do Código de Processo Civil, 6º da Lei 11101/2005, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 71):
+AGRAVO DE INSTRUMENTO Cumprimento de sentença Decisão que manteve a penhora no rosto dos autos de execução de título extrajudicial, "por não se tratar de penhora de bem imóvel" Insurgência da executada Alegação de que foi determinado o cancelamento de todos os atos constritivos pelo juízo de falências Descabimento Decisão daquele juízo que expressamente determinou o levantamento das constrições e indisponibilidades havidas apenas sobre os imóveis da recuperanda - AGRAVO DESPROVIDO.
+Sustenta a parte agravante que o processo está sujeito a recuperação judicial e qualquer valor devido deverá ser habilitado perante o Administrador Judicial e portanto deve ser determinado o cancelamento da penhora no rosto dos autos, cancelando todos os atos constritivos realizados.
+Argumenta ser evidente que, com a determinação de suspensão do processo e reconhecimento de que o processo está sujeito ao plano de recuperação judicial, o exequente (ora recorrido) apenas poderá satisfazer seu crédito nos autos da recuperação judicial, de modo que não se pode manter as constrições realizadas no cumprimento de sentença.
+Adverte que o juízo da recuperação judicial (único competente para dirimir questões sobre penhoras, arresto, indisponibilidade e/ou constrições) determinou a imediata liberação (fls. 27 - 43) de todos os atos constritivos realizados nos processos sujeitos a recuperação judicial (hipótese dos autos).
+Assim posta a questão, passo a decidir.
+O Tribunal de origem, ao apreciar o pleito, entendeu às fls. 72-73:
+Conforme adiantei no despacho de fls. 52/53, do que se vê da decisão proferida na ação 1137425-14.2021.8.26.0100, foi mesmo determinado o cancelamento das constrições e indisponibilidades sobre os imóveis da executada: "..Diante disso, defiro a tutela de urgência pleiteada pela Recuperanda na sua petição inicial, para determinar a expedição de ofício para os Juízos onde ocorreram as penhoras e as indisponibilidades sob os imóveis da Recuperanda, solicitando o levantamento das respectivas constrições/indisponibilidades"
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelos óbices das Súmulas n. 7 do STJ.
+No que concerne ao dissídio jurisprudencial, não se pode conhecer do recurso pela alínea c, do art. 105, III, da Constituição Federal uma vez que aplicada a Súmula 7/STJ quanto à alínea a, pois fica prejudicada a apreciação da divergência jurisprudencial.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
