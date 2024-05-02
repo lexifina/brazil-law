@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fls. 177/178):
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA QUINZE PRIMEIROS DIAS DE AFASTAMENTO EM VIRTUDE DE AUXÍLIO DOENÇA OU ACIDENTE. AVISO PRÉVIO INDENIZADO. AUXÍLIO EDUCAÇÃO. AUXÍLIO CRECHE. Não INCIDÊNCIA.
+1. De início, no que se refere ao pedido de atribuição de efeito suspensivo ao presente recurso de apelação, faz-se necessário mencionar que, nos termos do art. 1.012, § 4º, do Código de Processo Civil, "(..) a eficácia da sentença poderá ser suspensa pelo relator se o apelante demonstrar a probabilidade de provimento do recurso ou se, sendo relevante a fundamentação, houver risco de dano grave ou de difícil reparação". E, no caso, não se constata a existência de circunstância a caracterizar a probabilidade do provimento do recurso ou a relevância da fundamentação - fumus boni juris -, o que impossibilita a concessão do efeito suspensivo postulado, mormente quando se verifica o teor da argumentação deduzida na sentença, pelo MM. Juízo Federal a quo, além da circunstância de se encontrar o decisum apelado suficiente fundamentado e provido de juridicidade.
+2. Por aplicação do decidido pelo egrégio Superior Tribunal de Justiça no REsp nº 1.230.957/RS é de se afastar a incidência da contribuição previdenciária sobre os valores pagos relativos aos quinze dias que antecedem ao auxílio doença e acidente, bem como aqueles referentes ao aviso prévio indenizado.
+3. Do mesmo modo, o egrégio Superior Tribunal de Justiça possui jurisprudência no sentido também da não incidência de contribuição previdenciária patronal sobre os valores pagos a título de auxílio-educação
+4. Quanto aos valores pagos a título de auxílio-creche, deve ser ressaltado que o egrégio Superior Tribunal de Justiça, por ocasião do julgamento do REsp nº 1.146.772/DF, submetido à sistemática dos recursos repetitivos, se posicionou que referida verba não integra o salário de contribuição para a previdência.
+5. Apelação da União (Fazenda Nacional) desprovida.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022 do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto às questões de fundo, sustenta ofensa aos artigos 22 e 28 da Lei 8.212/91, sob os seguintes argumentos:
+(a) incide a contribuição previdenciária sobre a gratificação natalina, calculada sobre o aviso prévio indenizado, ainda que eventualmente se entenda pela não incidência sobre o próprio aviso prévio indenizado;
+(b) incide contribuição previdenciária sobre os valores pagos aos empregados a título de auxílio educação.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 295/296.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No que diz respeito aos artigos 22 e 28 da Lei 8.212/91, especificamente quanto à tese de que incide a contribuição previdenciária sobre a gratificação natalina, calculada sobre o aviso prévio indenizado, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+No pertinente aos valores pagos a título de auxílio-educação, é entendimento desta Corte que os valores pagos pela empresa a seus funcionários com o específico objetivo de aprimorar a sua educação e/ou de seus filhos e demais dependentes, tais como os relacionados às bolsas de estudos, não configuram salário indireto, pois são concedidos de forma transitória, com o intuito de aprimoramento cultural e como forma de estímulo à educação.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA NÃO INCIDENTE SOBRE VALORES RECEBIDOS A TÍTULO DE AUXÍLIO-EDUCAÇÃO. EMPREGADOS E DEPENDENTES.
+1. É entendimento desta Corte que o auxílio-educação para empregados e seus dependentes não integra a remuneração do empregado, não incidindo a Contribuição Previdenciária. Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 908.155/SP, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO-EDUCAÇÃO. NÃO INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo adotou posicionamento que não destoa da orientação firmada por esta Corte Superior no sentido de que " ..  É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual as verbas recebidas pelo trabalhador a título de auxílio-educação e de ausência permitida ao trabalho (abono assiduidade) não integram o salário-de-contribuição para fins de incidência de contribuição previdenciária, visto ostentarem caráter indenizatório." (AgInt no REsp n. 2.000.569/CE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 19/9/2022, DJe de 23/9/2022).
+2. Agravo interno não provido.(AgInt no REsp n. 2.076.454/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Portanto, o acórdão recorrido está em consonância com o entendimento desta Corte, razão pela qual deve ser mantido.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO-EDUCAÇÃO. NÃO INCIDÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
