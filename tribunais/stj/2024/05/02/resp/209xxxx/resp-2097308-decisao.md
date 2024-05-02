@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 202):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. LIQUIDAÇÃO ANTECIPADA DA GARANTIA. IMPOSSIBILIDADE.
+1. A UNIÃO (Fazenda Nacional) se insurge contra decisão interlocutória proferida pelo Juízo da 3ª Vara Federal de Execução Fiscal do Rio de Janeiro, que indeferiu o requerimento de liquidação antecipada da garantia do juízo (seguro-garantia).
+2. O art. 11, §2º, da LEF dispõe que "(..) A penhora efetuada em dinheiro será convertida no depósito de que trata o inciso I do artigo 9º (..)". O artigo 32, §2º, por sua vez, assim determina que, "após o trânsito em julgado da decisão, o depósito, monetariamente atualizado, será devolvido ao depositante ou entregue à Fazenda Pública, mediante ordem do Juízo competente". Pode-se concluir, então, não há falar em conversão de renda até o encerramento do prazo para a oposição de embargos do devedor ou o trânsito em julgado da decisão proferida nos embargos eventualmente opostos.
+3. No caso dos autos, tendo estado o feito garantido por seguro garantia até a renovação das apólices, não se mostra razoável nem proporcional submeter a executada ou a seguradora ao ônus patrimonial de depositar em juízo débito de alto valor (quase oitenta milhões de reais), considerando, especialmente, que ele sequer será revertido em favor do ente federal - já que se deve aguardar, para tanto, o trânsito em julgado.
+4. Sequer há se falar em prejuízo a ser suportado pela UNIÃO (Fazenda Nacional) se comparado àquele infligido à executada no caso de liquidação antecipada da garantia. Isso, porque no caso de ser liquidada a garantia, embora o valor depositado fique acautelado em juízo (art. 32, § 2º, da LEF), a executada já incorreria nos custos referentes aos valores segurados perante a instituição seguradora.
+5. Não bastasse isso, entendo que apesar da permissão contratual autorizando a liquidação imediata da garantia, não haveria sentido em onerar a contribuinte neste momento, na medida em que a UNIÃO (Fazenda Nacional) ainda não poderia alcançar os valores liquidados, que aguardariam depositados em juízo até o trânsito em julgado da demanda. Assim, sopesando-se os princípios do pacta sunt servanda, da razoabilidade e da menor onerosidade, considero que os dois últimos devem prevalecer.
+6. Em síntese: O agravo de instrumento será desprovido. Não há falar em conversão de renda até o encerramento do prazo para a oposição de embargos do devedor ou o trânsito em julgado da decisão proferida nos embargos eventualmente opostos. Sopesando-se os princípios do pacta sunt servanda, da razoabilidade e da menor onerosidade, os dois últimos devem prevalecer na hipótese.
+7. Agravo de instrumento desprovido.
+A recorrente aponta violação dos arts. 32, § 2º, da Lei n. 6.830/1980 e 1º da Lei n. 9.703/1998, argumentando que a pretensão da União "é que seja promovida a liquidação da garantia ofertada, para que o valor permaneça à disposição do juízo até que ocorra o trânsito em julgado da decisão de improcedência dos embargos à execução nº 0018397-54.2017.4.02.5001" (e-STJ fl. 224).
+Defende que "o depósito judicial, transferido para a Conta Única do Tesouro Nacional, somente é transformado em pagamento definitivo após o trânsito em julgado de decisão favorável ao ente fazendário, ainda que o recurso interposto no caso concreto não seja dotado do efeito suspensivo" (e-STJ fls. 225/226).
+Alega que "apenas o depósito emdinheiro faz cessar a responsabilidade pela atualização monetária e juros de mora. E o art. 151, II, do CTN é claro ao prever que somente o depósito do montante integral viabiliza a suspensão da exigibilidade do crédito tributário. Neste mesmo sentido, reza a Súmula 112 desta Corte: "o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro" (e-STJ fl. 226).
+Sustenta, por fim, que, "diante da inexistência de decisão judicial favorável à executada, ainda que sem trânsito em julgado, mostra-se possível a continuidade da execução fiscal, pois se trata de execução definitiva" (e-STJ fl. 226).
+Contrarrazões às e-STJ fls. 237/259.
+O apelo nobre recebeu juízo positivo de admissibilidade pelo Tribunal de origem (e-STJ fls. 265/266).
+Passo a decidir.
+Os autos cuidam de agravo de instrumento interposto pela Fazenda Nacional contra decisão que indeferiu o requerimento de liquidação antecipada da garantia do juízo (seguro-garantia).
+O Tribunal Regional negou provimento ao recurso (e-STJ fls. 193 e seguintes):
+Inicialmente, a ADM DO BRASIL LTDA. ofereceu as apólices de Seguro Garantia n. nº 13-0775-23- 0139005, n. 13-0775-23-0139006, n. 13-0775-23-0139518, n. 13-0775-23-0139521 e n. 13-0775-23-0139522, emitidas pela POTTENCIAL SEGURADORA S/A, no valor total de quase R$ 80.000.000,00, como forma de garantia do juízo (Evento 36 - OUT27 dos autos executivos).
+Aproximando-se a data de expiração de vigência das referidas apólices, a Executada juntou aos autos as apólices de Seguro Garantia n. 024612021000207750032755, n. 024612021000207750032756 e n. 02-0775- 0592815 buscando a renovação da garantia dos débitos executados (Evento 91).
+Em seguida, a UNIÃO (Fazenda Nacional) esclareceu que, "a despeito dos prazos de vigência se esgotarem em 22/02/2021 e 02/03/2021, a executada apenas formalizou nova garantia para renovação em 06/01/2021 e 18/01/2021, havendo flagrante violação à obrigação de renovação no prazo de até 60 dias, levando a caracterização do sinistro".
+Requereu, então, fosse "expedido ofício à Seguradora a fim de que, em razão da caracterização inequívoca do sinistro acima apontada, proceda ao depósito do valor segurado atualizado (consulta anexa) em conta judicial vinculada ao presente feito".
+Apontou que, "para além da caracterização do sinistro, as apólices apresentadas apresentam vícios, os quais, em última análise, revelam sua imprestabilidade para renovação da garantia" (Evento 98 dos autos executivos).
+Ouvida a parte executada, o Juízo a quo proferiu a decisão interlocutória agravada.
+Nesta sede, a UNIÃO (Fazenda Nacional) requer a reforma da decisão agravada.
+Pois bem.
+Inicialmente, destaco que se aplica à hipótese a Lei de Execuções Fiscais (Lei nº 6.830/1980), uma vez que seu caráter especial a faz prevalecer sobre regras gerais.
+O art. 11, § 2º, da LEF dispõe que "(..) A penhora efetuada em dinheiro será convertida no depósito de que trata o inciso I do artigo 9º (..)". O § 2º do art. 32 determina, por sua vez, que, "após o trânsito em julgado da decisão, o depósito, monetariamente atualizado, será devolvido ao depositante ou entregue à Fazenda Pública, mediante ordem do Juízo competente".
+Pode-se concluir, então, não há falar em conversão de renda até o encerramento do prazo para a oposição de embargos do devedor ou o trânsito em julgado da decisão proferida nos embargos eventualmente opostos. A propósito, precedente do E. STJ nesse sentido:
+(..)
+Não se desconhece que a jurisprudência atual do Superior Tribunal de Justiça encontra-se atualmente mais voltada à pretensão da Fazenda Nacional. No entanto, ainda se encontram posições contrárias. Senão vejamos:
+(..)
+Dessa forma, inexistindo decisão vinculante, mantenho o meu entendimento, no sentido da impossibilidade da liquidação antecipada da garantia, sendo este o caso típico em que se pode aplicar o princípio da menor onerosidade, pois ausente qualquer vantagem imediata para a credora na liquidação para que se mantenha depositado o valor.
+No caso dos autos, tendo estado o feito garantido por seguro garantia até a renovação das apólices, não se mostra razoável nem proporcional submeter a executada ou a seguradora ao ônus patrimonial de depositar em juízo débito de alto valor (quase oitenta milhões de reais), considerando, especialmente, que ele sequer será revertido em favor do ente federal - já que se deve aguardar, para tanto, o trânsito em julgado.
+Pois bem.
+A discussão travada na origem diz respeito à possibilidade de prosseguimento da execução, mediante a intimação da seguradora, para realização do depósito em juízo do valor atualizado do crédito fiscal, conforme termos do seguro garantia apresentado.
+Cumpre registrar que, recentemente, houve a edição da Lei n. 14.689, de 20 de setembro de 2023, que, em seu art. 9º, § 7, prevê: "As garantias apresentadas na forma do II  fiança bancária ou seguro garantia  do caput deste artigo somente serão liquidadas, no todo ou parcialmente, após o trânsito em julgado da decisão de mérito em desfavor do contribuinte, vedada a sua liquidação antecipada."
+Como o referido dispositivo trata de regra processual (procedimental), esse tem imediata aplicação aos processos em tramitação.
+Nesse sentido, o seguinte julgado da Primeira Turma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. SEGURO GARANTIA. PAGAMENTO DA INDENIZAÇÃO ANTES DO TRÂNSITO EM JULGADO. ILEGALIDADE.
+1. A exegese do art. 32, § 2º, da LEF revela carecer de finalidade o ato judicial que intima a seguradora a realizar o pagamento da indenização do seguro garantia judicial antes da ocorrência do trânsito em julgado da sentença desfavorável ao devedor.
+2. "As garantias apresentadas na forma do II do caput deste artigo somente serão liquidadas, no todo ou parcialmente, após o trânsito em julgado da decisão de mérito em desfavor do contribuinte, vedada a sua liquidação antecipada" (art. 9º, § 7º, da L EF, introduzido pela Lei n. 14.689/2023).
+3. Cuidando-se de regra processual, o último dispositivo indicado tem imediata aplicação aos processos em tramitação.
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.310.912/MG, relator Ministro Sérgio Kukina, relator para acórdão Ministro Gurgel de Faria, Primeira Turma, julgado em 20/2/2024, DJe de 12/4/2024.)
+É forçoso concluir, então, que o pedido de liquidação antecipada do seguro garantia esbarra em expressa vedação legal, motivo por que o pleito recursal não merece ser acolhido.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
