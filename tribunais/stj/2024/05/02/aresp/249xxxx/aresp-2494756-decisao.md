@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ RUY ALEXANDRE e LUIZ ANTONIO DE GASPERIN contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 810):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE - PRETENSÃO DE NULIDADE DE ASSEMBLEIAS CONDOMINIAIS QUE APROVARAM REFORMAS E CONSTRUÇÕES NO CONDOMÍNIO - ALEGAÇÃO DE INOBSERVÂNCIA ÀS FORMALIDADES NECESSÁRIAS PARA AS REFERIDAS APROVAÇÕES - INSUFICIÊNCIA DE QUÓRUM NECESSÁRIO À APROVAÇÃO DE OBRAS E AUSÊNCIA DE RECONHECIMENTO DE FIRMA NAS PROCURAÇÕES DESTINADAS À VOTAÇÃO - PRETENSÃO DE INEXIGIBILIDADE DOS VALORES DA OBRA EM RELAÇÃO AOS AUTORES - INFORMAÇÃO NO TRANSCURSO DO PROCESSO DE RATIFICAÇÃO DAS ASSEMBLEIAS COM OBSERVÂNCIA DO QUÓRUM NECESSÁRIO, BEM COMO COM O RECONHECIMENTO DE FIRMA NAS PROCURAÇÕES - PERDA SUPERVENIENTE DO INTERESSE DE AGIR DOS AUTORES - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - MANUTENÇÃO DA CONDENAÇÃO DO CONDOMÍNIO AO PAGAMENTO DA SUCUMBÊNCIA, CONTUDO - PRINCÍPIO DA CAUSALIDADE - MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS - ARTIGO 85, § 11, DO CPC - RAZÕES PREJUDICADAS - RECURSO DO RÉU NÃO CONHECIDO.
+Os embargos de declaração foram rejeitados (fls. 830/836).
+Nas razões do especial, apontam os recorrentes violação do artigo 166, IV, do Código Civil, além de dissídio jurisprudencial; argumentando, em síntese, que o vício no quórum de deliberação de assembleia condominial implicaria nulidade absoluta, insuscetível de convalidação.
+Contra-arrazoado (fls. 899-911), o recurso especial não foi admitido na origem; contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem consignou que a realização de assembleia sem observância do quórum previsto na convenção configuraria nulidade relativa, justificando a convalidação em assembleia posterior, em que suprido o vício aludido.
+A propósito, extraio do acórdão recorrido (fl. 816):
+E vê-se que o condomínio comprovou ter realizado a Assembleia Geral Extraordinária de 19.10.2021, cujo objeto foi a ratificação da "aprovação das obras/reformas na portaria, salão de festas e área da churrasqueira do condomínio; aprovação da empresa encarregada da execução de obras (orçamento, cronograma, início e continuidade das obras, condições de pagamento); aprovação da forma de rateio - conforme deliberado e aprovado nas AGO de 08.11.2018 e 25.11.2019".
+Destaque-se que foi realizada a ratificação das assembleias anteriores e não nova aprovação dos temas debatidos, como se depreende da ata de mov. 36.2, em que consta ter havido a sugestão da utilização da palavra "aprovação" pelos condôminos que foi rebatida, contudo, pela síndica, uma vez que tal palavra não havia sido o objeto de convocação da assembleia. Demonstrou o condomínio, ainda, ter obedecido ao quórum necessário de 2/3 dos condôminos, uma vez que nos documentos de mov. 36.2 e 36.3 consta a assinatura de 52 dos 66 condôminos, bem como as demais regularidades e formalidades, sobretudo contendo o reconhecimento de firma nas procurações apresentadas (mov. 36.3 e ss). Diante disso, sanados os vícios existentes nas assembleias anteriores, verifica-se a perda superveniente de interesse de agir dos autores, impondo o não conhecimento do recurso. (grifo acrescido)
+A orientação adotada não destoa da jurisprudência desta Corte Superior, pacificada no sentido de que: " ..  É anulável o ato de alteração de convenção do condomínio aprovado sem requisito exigido na convenção" (AgInt no REsp n. 1.433.640/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1º/7/2022).
+Trata-se de entendimento consolidado ainda na vigência do Código Civil anterior e que deve ser aplicado no atual Código, tendo em vista que o regramento quanto à caracterização de nulidade absoluta não foi alterado, a teor do que se extrai dos artigos 145, IV, do CC/16 e 166, IV, do CC/02.
+A propósito:
+NULIDADE. Anulabilidade. Prescrição. Convenção de condomínio.
+Alteração. Desatenção ao quorum previsto na convenção. Anulável o ato de alteração de convenção do condomínio aprovado sem requisito exigido na convenção, é prescritível a pretensão anulatória.
+Recurso conhecido e provido.
+(REsp n. 196.312/RJ, relator Ministro Ruy Rosado de Aguiar, Quarta Turma, julgado em 23/2/1999, DJ de 29/3/1999, p. 189.)
+RECURSO ESPECIAL. DIREITO CIVIL. CONDOMÍNIO. ASSEMBLEIA GERAL EXTRAORDINÁRIA. ANULAÇÃO. DESCONSTITUIÇÃO. MANOBRA DOLOSA DO SÍNDICO. AUMENTO DA PRÓPRIA REMUNERAÇÃO. PRO LABORE. AJUDA DE CUSTO. VIOLAÇÃO DE NORMA CONVENCIONAL. PRAZO QUADRIENAL. ART. 178, § 9º, V, DO CÓDIGO CIVIL DE 1916.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação ordinária ajuizada em 27/7/2011 visando a nulidade de deliberação de assembleia geral extraordinária realizada em 19/9/1991 que aprovou gratificação em favor do síndico, denominada ajuda de custo, no valor de 2 (dois) salários mínimos.
+3. O acórdão recorrido assenta que o pedido de declaração de nulidade de assembleia condominial não está subordinado a prazo prescricional ou decadencial, mas, em nome da segurança jurídica, reconhece a incidência do prazo de 10 (dez) anos, nos termos do art. 202 do Código Civil de 2002.
+4. Sob a égide do Código Civil de 1916, é de 4 (quatro) anos o prazo para postular a anulação de decisão de assembleia condominial tomada com vício de consentimento (dolo).
+5. Recurso especial não provido.
+(REsp n. 1.552.041/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/2/2018, DJe de 15/2/2018.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
