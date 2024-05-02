@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, recurso especial interposto por LUIZ HENRIQUE MACIEL GRIZ contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. TEMPO ESPECIAL. SENTENÇA CONDENATÓRIA. APELAÇÃO DO PARTICULAR. RECURSO QUE SE LIMITA A QUESTIONAR O TERMO INICIAL DA CONDENAÇÃO. RETROAÇÃO À DATA DO INDEFERIMENTO ADMINISTRATIVO DO PEDIDO DE REVISÃO.
+Apelação do particular de sentença que julgou parcialmente procedente o pedido para condenar o INSS a converter a aposentadoria por tempo de contribuição em aposentadoria especial, com renda mensal inicial correspondente a 100% do salário-de-benefício, a partir de 16/10/2019, data do ajuizamento da ação, atualizadas de acordo com o Manual de Cálculos da Justiça Federal.
+Honorários advocatícios em 5% sobre o valor atualizado da causa (valor da causa: R$ 291.069,74), para cada polo da relação processual (art. 86 do CPC), observada a súmula 111 do STJ.
+Alega o apelante que o INSS está obrigado a conceder ao segurado o melhor benefício a que tem direito, pelo que deve ser condenado a pagar as parcelas atrasadas desde a data de entrada do requerimento administrativo, ocorrido em 05 de janeiro de 2011. Requer o provimento do recurso para que se faça retroagir o termo inicial da condenação à data do requerimento administrativo.
+Registre-se, desde logo, que apenas o demandante recorreu da sentença condenatória, pelo que a discussão a respeito da revisão do benefício concedido está preclusa, visto que a autarquia previdenciária não impugnou os termos da condenação de 1º grau. O objeto recursal limita-se à apuração do termo inicial da condenação.
+A carta de concessão da aposentadoria por tempo de contribuição concedida, aponta como 05 de janeiro de 2011 a data do requerimento administrativo (id: 4058300.12227855). Como a presente demanda foi ajuizada em 16 de outubro de 2019, portanto, mais de 5 anos do requerimento administrativo, não pode a condenação retroagir àquela data.
+Contudo, compulsando os autos, observa-se que foi juntado requerimento de revisão do benefício (NB 151580282-2), datado de 16 de abril de 2019 (id: 4058300.12227936), pelo que, com a procedência do pedido, deve ser considerado este o marco inicial da condenação.
+Apelação do particular parcialmente provida, para fixar o termo inicial da condenação em 16 de abril de 2019, data do indeferimento administrativo do requerimento de revisão do benefício.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente alega violação aos arts. 49 e 54 da Lei 8.213/91, sustentando, em síntese, que "o entendimento da 2ª Turma do TRF-5 negou vigência ao caput, dos arts. 54 c/c 49, da Lei 8.213/91, quanto ao termo inicial dos efeitos financeiros da revisão de benefício, que corresponde à data da concessão, uma vez que o deferimento da ação judicial de revisão representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado".
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+Com efeito, na forma da Jurisprudência desta Corte, "o termo inicial dos efeitos financeiros da revisão deve retroagir à data da concessão do benefício e não a partir da citação, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior do salário de contribuição. Para o pagamento dos atrasados, impõe-se a observância da prescrição quinquenal" (STJ, REsp 1.732.289/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/11/2018).
+Nesse mesmo sentido:
+PREVIDENCIÁRIO. REGIME GERAL. REVISÃO DO ATO DE CONCESSÃO. EFEITOS FINANCEIROS. ART. 103 DA LEI 8.213/1991.
+1. Trata-se de Recurso Especial que veicula a tese de que os efeitos financeiros de pedido de revisão administrativa da concessão do benefício é a contar do requerimento, sem efeito retroativo.
+2. Nos termos do artigo 103 da Lei 8.213/1991, o segurado tem dez anos para pleitear, judicial ou administrativamente, a revisão do ato de concessão da aposentadoria, estando, conforme o parágrafo único, prescritas as parcelas pretéritas (entre o início do benefício e o pedido de revisão) com mais de cinco anos antes do ajuizamento ou do pleito administrativo revisional.
+3. Não prospera, portanto, a tese da autarquia de que os efeitos financeiros do pedido de revisão do ato de concessão de benefício previdenciário do regime geral são somente a contar do respectivo pleito administrativo, independentemente de a pretensão ter sido ou não submetida ao crivo do ato de concessão objeto da revisão.
+4. Recurso Especial não provido" (STJ, REsp n. 1.641.519/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/4/2017).
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para reconhecer que os efeitos financeiros do pedido de revisão devem retroagir à data da concessão do benefício, com observância da prescrição quinquenal para o pagamento das parcelas pretéritas.
+Intimem-se.
+ EMENTA
