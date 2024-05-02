@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por Marcos Lucas Henrique Silva dos Santos e outros contra decisão que negou provimento ao seu agravo em recurso especial, o qual havia sido interposto contra acórdão do Tribunal de Justiça do Estado de Alagoas que, em ação de indenização por danos morais, manteve decisão que havia determinado a suspensão do processo até o julgamento de ação civil pública relativa ao afundamento do solo em área de atividade de mineração da Braskem S/A.
+Em resposta ao Ofício n. 002014/2024-CPPR, por meio do qual solicitei informações sobre o andamento dos autos de origem, o Juízo da 13ª Vara Cível de Maceió/AL informou que o processo 0727380-25.2020.8.02.0001 já fora extinto, sem resolução do mérito, devido à celebração de acordo na esfera federal, em relação às autoras Margarida Maria Araújo e Maria Betania de Carvalho, bem como, quanto aos demais autores, não se encontra mais suspenso (fls. 832/833).
+Diante desses fatos, considerando que (i) o processo foi extinto sem resolução de mérito com relação às agravantes Margarida Maria Araújo e Maria Betania de Carvalho; e que (ii) o provimento jurisdicional pretendido pelos demais agravantes já foi atendido na origem, tendo o seu processo voltado a tramitar normalmente em primeira instância, é evidente a perda superveniente do seu interesse recursal.
+Em face do exposto, não conheço do agravo interno interposto, visto que prejudicado, nos termos do art. 932, III, do CPC de 2015 e do art. 255, § 4º, I, do Regimento Interno do STJ.
+Intimem-se.
+EMENTA
