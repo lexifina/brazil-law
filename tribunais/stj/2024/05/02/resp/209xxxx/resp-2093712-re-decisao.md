@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 2.122):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. INEXISTÊNCIA DE LEGITIMIDADE PASSIVA DO PATROCINADOR. INCOMPETÊNCIA DA JUSTIÇA COMUM. INCIDÊNCIA DA SÚMULA 83/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Em relação à legitimidade do Banco do Brasil S.A., esta Corte Superior possui entendimento no sentido de que, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+2. Ademais, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.778.938/SP - Tema n. 1.021/STJ, ampliando o entendimento firmado no REsp n. 1.312.736/RS, apontou de forma expressa, na modulação de efeitos, que a recomposição prévia deve ser realizada integralmente pelo participante.
+3. Além disso, não merece acolhimento a tese do insurgente de legitimidade do Banco do Brasil com base no julgamento dos EAREsp 1.975.132/DF, proferido pela Segunda Seção do STJ, isso porque a relatora Ministra Nancy Andrighi ao apreciar os embargos de declaração opostos pela casa bancária, esclareceu que não foi examinado o mérito dos embargos de divergência, o qual tratava da legitimidade passiva da instituição financeira.
+4. Outrossim, segundo a jurisprudência da Seção de Direito Privado desta Corte, "tratando de competência prevista na própria Constituição Federal/88, nem mesmo o Superior Tribunal de Justiça detém jurisdição para prosseguir no julgamento do recurso especial quanto ao mérito, não lhe sendo dado incidir nas mesmas nulidades praticadas pelos demais órgãos da Justiça Comum" (REsp n. 1.087.153/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/5/2012, DJe de 22/6/2012).
+5. Agravo interno desprovido.
+Os embargos opostos na sequência foram rejeitados (fls. 2.213-2.216).
+A parte recorrente sustenta a ocorrência de violação dos arts. 105 e 114 da Constituição Federal e aduz haver repercussão geral da matéria tratada.
+Alega que a competência para o julgamento da controvérsia seria da Justiça comum, argumentando que, assim como cabe à mencionada Justiça julgar demandas de revisão de benefícios previdenciários complementares, os pedidos de recomposição da reserva matemática também deveriam ser apreciados pelo mesmo juízo, por serem decorrentes do pedido revisional.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 2.354-2.366 e 2.368-2.380.
+É o relatório.
+A Suprema Corte, ao julgar o RE n. 1.265.564-RG/SC, firmou o seguinte entendimento (Tema n. 1.166):
+Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada.
+Confira-se, por oportuno, a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. TRABALHISTA. COMPETÊNCIA. PEDIDO DE CONDENAÇÃO DA EMPRESA EMPREGADORA AO PAGAMENTO DE VERBAS TRABALHISTAS E AO CONSEQUENTE REFLEXO DAS DIFERENÇAS SALARIAIS NAS CONTRIBUIÇÕES AO PLANO DE PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INAPLICABILIDADE DO TEMA 190 DA REPERCUSSÃO GERAL. PRECEDENTES. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+(RE n. 1.265.564-RG, relator Ministro Luiz Fux - Presidente, Tribunal Pleno, julgado em 2/9/2021, DJe de 14/9/2021.)
+No caso dos autos, em razão do pedido de reconhecimento de verbas de natureza trabalhista formulado contra o empregador, nas quais são pretendidos reflexos na respectiva entidade de previdência privada, este Superior Tribunal reconheceu a competência da Justiça do Trabalho para processo e julgamento da ação.
+A propósito, confiram-se o seguinte excerto do julgado recorrido (fl. 2.127):
+Também foi asseverado na decisão agravada que, na hipótese, impende pontuar que a Justiça Comum não é competente para apreciar o pedido de recompensação da reserva matemática apresentado contra o ex-empregador, é nesse sentido o entendimento firmado pela Suprema Corte no julgamento do RE n. 1.265.564/SC, sob o rito dos recursos repetitivos - Tema n. 1.166  ..
+Verifica-se, portanto, que o acórdão impugnado está em consonância com a jurisprudência firmada pelo Supremo Tribunal Federal, motivo pelo qual incide o Tema n. 1.166 do STF.
+Ante o exposto, nos termos do art. 1.030, I, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. RECONHECIMENTO DE VERBAS DE NATUREZA TRABALHISTA COM REFLEXOS EM PREVIDÊNCIA PRIVADA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. TEMA N. 1.166 DO STF. NEGATIVA DE SEGUIMENTO.
