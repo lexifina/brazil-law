@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de JARDEL CEZAR DE FREITAS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 05 (cinco) anos, 06 (seis) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, por suposta violação do art. 33, caput, da Lei 11.343/06, tendo sido negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o TJSP, tendo a liminar sido indeferida.
+Neste writ, o impetrante alega, em síntese, constrangimento ilegal ao argumento de que carece de fundamentação a prisão preventiva devendo ser superada a Súm. 691/STF.
+Destaca que "o decreto prisional combatido apoiou-se em assertivas inteiramente inconstitucionais e despidas de base empírica idônea."
+Pontua também que foram ignoradas as condições pessoais favoráveis do paciente como primariedade, comprovada atividade lícita laboral, ter residência fixa, familiares e uma bebê.
+Reitera a suficiência de medidas cautelares diversas da prisão e a desproporcionalidade em possível reconhecimento da minorante do tráfico.
+Requer, a liberdade provisória inclusive com a aplicação de cautelares.
+É o relatório.
+Decido.
+Esta Corte possui entendimento reiterado de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia (Súmula 691/STF AgRg no HC 285.647/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 25/8/2014; AgRg no HC 321.554/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/05/2015).
+Como cediço, esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita.
+Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido." (AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido." (AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019, grifou-se).
+O mesmo entendimento deve ser aplicado ao caso em apreço. Confira-se o seguinte precedente do Supremo Tribunal Federal:
+".. a decisão questionada é monocrática, de natureza precária e desprovida de conteúdo definitivo.. A jurisdição ali pedida está pendente e o órgão judicial atua para prestá-la na forma da lei. Embora não tenha havido o indeferimento da medida liminar .., aplica-se à espécie a Súmula n. 691 deste Supremo Tribunal, considerada a não definitividade da decisão objeto da presente impetração." (HC 175174, Relator(a): Min. CÁRMEN LÚCIA, julgado em 13/09/2019, publicado em PROCESSO ELETRÔNICO DJe-202 DIVULG 17/09/2019 PUBLIC 18/09/2019, grifou-se).
+Consta na decisão combatida:
+" ..
+1. O Impetrante alega que o Paciente está sofrendo constrangimento ilegal porque condenado a cumprir pena de cinco (05) anos e seis (06) meses de reclusão, no regime inicial fechado, teve mantida a prisão preventiva, sem fundamentação idônea. Requer a revogação da prisão, a substituição da custódia por medidas cautelares alternativas, ou a liberdade provisória.
+2. O Paciente foi condenado a cumprir pena 05 (cinco) anos, 06 (seis) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, e a pagar 555 (quinhentos e cinquenta e cinco) dias/multa, como incurso nas penas do artigo 33, caput, da Lei nº 11.343/06, mantida a prisão preventiva.
+2. Não ficou claro se o Paciente recorreu da decisão.
+3. Especificamente no que diz respeito ao recurso em liberdade, a sentença consignou: "O réu não pode apelar em liberdade por vedação expressa contida no artigo 44 da Lei 11.343/2006. (..)
+Além disso, o delito de tráfico de entorpecentes é considerado como crime hediondo nos termos da Lei 8.072/90. A gravidade do delito não autoriza a concessão do benefício. (..)O fomento que esse tipo de delito traz à prática de outros tipos de delito exige a manutenção do réu no cárcere, para a garantia da ordem pública. Pelo mesmo motivo, impossível a substituição da pena privativa de liberdade por restritiva de direitos, acrescendo que, no caso do réu, falta o requisito da suficiência. (..) Além disso, o réu encontra-se preso por força de prisão em flagrante, e segundo a melhor doutrina, e jurisprudência majoritária, o dispositivo é inaplicável no caso de réu preso provisoriamente" (fls. 40/44).
+5. Nesse contexto, o atendimento do pedido em sede de liminar teria caráter satisfativo e poderia violar, ainda que de forma reflexa, o princípio da colegialidade, dotando de certeza situação jurídica que não se sabe se está configurada, pelo que considero prudente aguardar informações da autoridade apontada como coatora, com as quais se terá melhores subsídios para aferir eventual existência de constrangimento ilegal.
+6. Ausentes os requisitos do "fumus boni juris" e do "periculum in mora", indefiro a medida liminar pleiteada, salientando que sua concessão é providência excepcional, que somente tem guarida quando patenteada ilegalidade manifesta ou probabilidade de dano irreparável que autorize a antecipação do mérito da impetração.
+7. Oficie-se à autoridade apontada como coatora solicitando informações" (e-STJ, fls. 90-91).
+E consulta ao sítio eletrônico do TJSP, na decisão que negou o pedido de reconsideração consta:
+" ..
+1. O Dr. Daniel de Souza Machado Júnior pretende a reconsideração da decisão que indeferiu liminar para que o Paciente aguarde o julgamento em liberdade, insistindo que a prisão preventiva foi mantida na sentença sem fundamentação idôneas, mas o Paciente permaneceu preso durante a instrução, carecendo de lógica que, agora, quando patenteada, ainda que de forma provisória, sua responsabilidade criminal, seja colocado em liberdade. E como a pena aplicada ultrapassa a quatro anos, a constrição tem amparo no art. 313, inciso I, do Código de Processo Penal. Ante o exposto, indefiro o pedido de reconsideração. 2. Intime-se. 3. Cumpra-se o despacho de fls. 385/387. São Paulo, 23 de abril de 2024. FRANCISCO ORLANDO".
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Sem recurso, arquivem-se os autos.
+ EMENTA
