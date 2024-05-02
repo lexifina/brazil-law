@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 419):
+OBRIGAÇÃO DE FAZER Responsabilidade da empreendedora pela entrega da obra pronta e acabada - Vícios construtivos demonstrados em adequada perícia Responsabilidade objetiva presente Determinação para que a vendedora providencie a realização das obras necessárias para corrigir as falhas apontadas no laudo pericial - Danos morais, contudo, não caracterizados Vícios construtivos que não impediram a fruição do imóvel Sentença, em parte, reformada RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, sustenta a parte recorrente ofensa aos arts. 5º, LV, da Constituição Federal, 125, do NCPC pois "em caso de ocorrência de sinistro, quem deve promover o pagamento da indenização é a Construtora Augusto Velloso S/A (responsável pela obra) conforme previsto nos contratos. Sendo a CDHU estipulante, age como mera mandatária. Não é parte legítima para responder ao pagamento de indenização" (fls. 432-433).
+Afirma que a incidência do Código de Defesa do Consumidor não deve prevalecer por não se enquadrar numa relação de consumo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre ressaltar que o recurso especial não constitui via adequada para o exame de temas constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal. Dessa forma, não se conhece da alegada violação do artigo 5º, inciso LV, da Constituição Federal.
+Em relação a alegada violação ao art. 125 do NCPC, eis os fundamentos da Corte de origem quanto ao ponto:
+Quanto à alegada necessidade de denunciação à lide da construtora, razão não assiste à ré, pois não se enquadra em quaisquer das situações previstas no artigo 125 do atual Código de Processo Civil. Ressalte- se que eventual direito de regresso da demandada não fica obstaculizado pelo indeferimento do pedido de denunciação da lide que, no caso em análise, não é obrigatória.
+Ocorre que a parte insurgente não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. ALEGAÇÕES DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REAVALIAÇÃO DO CONJUNTOFÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA N. 83/STJ. INCIDÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. É inadmissível o recurso especial que não rebate fundamento do acórdão
+recorrido, trazendo alegações dissociadas do que ficou decidido pelo Tribunal de origem. Incidência das Súmulas n. 283 e 284 do STF. (..)
+(AgInt no AREsp 1659434/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/06/2020, DJe 18/06/2020)
+Quanto ao tema da não incidência do Código de Defesa do Consumidor na relação entre as partes, não se pode conhecer do recurso ante a ausência de indicação do dispositivo considerado violado atraindo, por analogia, o Enunciado Sumular n. 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1432383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
