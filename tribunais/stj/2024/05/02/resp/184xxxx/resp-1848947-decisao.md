@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MÉDICOS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"Apelação Cível. Ação ordinária. Sentença de improcedência. Recurso dos autores. Pleito para que seja declarada indevida a exigência de integralização da quota parte e aumento do capital social. Impossibilidade. Assembleia Geral Extraordinária realizada no ano de 2016 que reformou o estatuto social. Alteração das quotas partes de 23.000 para 30.000. Prescrição da pretensão ao pagamento das quotas decorrentes do aumento de capital social aprovado em 2002.
+1.A qualidade de cooperado jubilado não afasta a obrigação de integralizar as quotas que lhe são de direito, nos termos definidos em assembleia geral.
+2. Não é exigível a integralização de capital social cujo aumento foi aprovado em 2002, isto é, mais de dez anos antes da propositura da ação.
+3. Recurso provido em parte." (e-STJ,fl. 469)
+Embargos de declaração rejeitados (e-STJ fls. 516/520)
+Em suas razões recursais, a recorrente aponta violação dos arts. 21, III, 35, IV, 37, I, II e III, da Lei 5764/71, e art. 199 do CC, sustentando, em síntese, que com a alteração da contribuição, em 2016, para 30000 quotas parte por cada cooperado, é este valor que deve ser integralizado, não havendo que se falar em prescrição em relação às 23000 quotas já estabelecidas pela alteração anterior, em 2002.
+É o relatório. Passo a decidir.
+A Corte de origem, ao analisar o tema da prescrição de parcela das quota parte devidas pelos recorridos, assim decidiu:
+"É em decorrência dessas ponderações que se mostra necessária a manutenção da sentença nos termos da assembleia geral extraordinária (eDoc. 65.2), realizada em julho e agosto de 2016, que reformou a estatuto social e dentre as modificações previu a alteração de 23.000 para 30.000 das quotas partes: " Art. 16- O Capital Social da Cooperativa, que é dividido em quotas partes, não tem limites quanto ao valor máximo. (..) § 3º -Cada cooperado deverá subscrever a quantidade mínima de 30.000 (trinta mil) quotas partes".
+Realmente. Não desconheço que a respeito do capital social da apelada, tem-se que sua função principal é de permitir à Cooperativa a manutenção da sua operação e torne viável a sua vida econômica. Os apelantes olvidam que mesmo após deixarem de exercer a medicina, continuam valendo-se da operação da cooperativa.
+Em que pese a alegação dos apelantes, a jubilação, faculdade concedida pela cooperativa aos cooperados que deixaram de exercer a medicina, dispensa-os de operar com a Unimed Curitiba, ou seja, de apresentarem produção mínima, justamente por compreender que o médico encerrou o exercício da sua profissão.
+(..)
+Além do mais, a qualidade de cooperado lhe incumbe esta obrigação - art. 6º, I, Estatuto - e, assim, sem inclusão de obrigações, de modo que o dever de integralização afeta a todos os cooperados indistintamente.
+(..)
+Nada obstante, é evidente que houve prescrição da pretensão à cobrança do valor correspondente à integralização do capital social cujo aumento foi aprovado em assembleia geral realizada no ano 2002.
+Com efeito, a cooperativa não tem o direito de exigir referida quantia passados mais de dez anos desde a entrada em vigor do novo Código Civil. Só o que a Unimed pode legitimamente pleitear é o montante referente às 7.000 quotas das quais os apelantes se tornaram titulares por ocasião da assembleia realizada em 2016." (e-STJ fls. 473)
+Como visto, a Corte de origem, analisando as modificações realizadas no Estatuto da Cooperativa de Trabalho Médico, concluiu que na modificação aprovada em 2016 não se criou uma obrigação autônoma de 30000 quotas, mas sim um aumento de 7.000 quotas, de modo que em relação às 23.000 já estabelecidas em 2002 operou-se a prescrição.
+Contudo, referido ato normativo não se enquadra no conceito de lei federal, de que trata o art. 105, III, da Constituição da República, o que torna inviável sua apreciação em sede de recurso especial. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER JULGADA IMPROCEDENTE. COOPERATIVA MÉDICA. EXIGÊNCIA DE PROCESSO SELETIVO PARA INGRESSO DE PROFISSIONAL DA ÁREA DE MEDICINA. LEGALIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS E AO ART. 6º DA LINDB. IMPOSSIBILIDADE DE EXAME PELO SUPERIOR TRIBUNAL DE JUSTIÇA. VULNERAÇÃO A ARTIGOS DE ESTATUTO SOCIAL DE COOPERATIVA. DISPOSIÇÃO NORMATIVA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL A ENSEJAR A INTERPOSIÇÃO DE RECURSO ESPECIAL. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+2. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante o disposto na Súmula n. 7 do Superior Tribunal de Justiça.
+3. É inadmissível que, no recurso especial, esta Corte Superior aprecie eventual ofensa a matéria constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+4. É pacífico o entendimento da Terceira Turma deste Superior Tribunal acerca da inviabilidade do conhecimento do recurso especial por violação do art. 6º da LINDB, uma vez que o princípio do direito adquirido, contido na Lei de Introdução às Norma do Direito Brasileiro, apesar de previsto em norma infraconstitucional, é instituto de natureza eminentemente constitucional.
+5. Não se conhece de recurso especial na parte em que se alega ofensa a artigos do Estatuto Social da Cooperativa Unimed, porquanto circulares, resoluções, portarias, súmulas, bem como dispositivos inseridos em regimentos internos, não se enquadram no conceito de lei federal previsto no art. 105, inciso III, alínea a, da Constituição Federal.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.159.290/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PENHORA. COTAS. PENHORABILIDADE. APRECIAÇÃO MONOCRÁTICA. POSSIBILIDADE. SÚMULA N. 568/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MANTIDA.
+1. A decisão monocrática que nega provimento a recurso, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts.
+932, IV, do CPC/2015 e 255, § 4º, II, do RISTJ.
+2. "Regras gerais criadas em decisão de assembleia-geral e estatuto de associação não se enquadram no conceito de lei federal a ensejar a interposição do recurso especial" (AgRg no AREsp n. 693.111/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/6/2015, DJe 3/8/2015).
+3. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+4. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente (art. 1.029, § 1º, CPC/2015).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.518.684/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/8/2020, DJe de 14/8/2020.)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16% do proveito econômico obtido pelos apelantes.
+Publique-se.
+EMENTA
