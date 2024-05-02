@@ -1,0 +1,98 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por CLAIR PINTO PEREIRA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 572, e-STJ):
+APELAÇÃO CÍVEL. SEGUROS. AÇÃO REVISIONAL. PLANO DE SAÚDE COLETIVO. FAIXA ETÁRIA. TEMAS 1016 E 952 DO STJ. RESOLUÇÃO NORMATIVA N. 63/2003 DA ANS. LEGALIDADE. ABUSIVIDADE NÃO VERIFICADA.
+É válido o reajuste da mensalidade do plano de saúde fundado em alteração de faixa etária, individuais e coletivos, conforme entendimento sedimentado em julgamentos submetidos ao rito dos recursos repetitivos (Temas 1016 e 952 do STJ).
+Caso em que a contratação foi celebrada em junho de 2010, em momento posterior à vigência da Lei n. 9.656/98, sendo, portanto, regulamentado pela referida Lei e submetido às disposições da Resolução n. 063/2003 da ANS.
+Percentuais previstos nas faixas etárias que se coadunam com os limites das variações previstas no artigo 3º, II, da Resolução Normativa n. 063/2003 da ANS: "Art. 3º Os percentuais de variação em cada mudança de faixa etária deverão ser fixados pela operadora, observadas as seguintes condições: .. II - a variação acumulada entre a sétima e a décima faixas não poderá ser superior à variação acumulada entre a primeira e a sétima faixas. "
+Sentença de improcedência confirmada.
+Honorários recursais devidos.
+Os embargos declaratórios opostos foram rejeitados (fls. 596-600, e-STJ).
+Nas razões do recurso especial (fls. 609-617, e-STJ), a parte insurgente apontou violação dos seguintes artigos: a) 489, § 1º, IV, do CPC, sustentando ausência de enfrentamento do argumento trazido pela insurgente, que trata da inexistência do termo de aceite da migração do plano; b) 421 do CC e 19, II, do CPC, ao argumento da inexistência de aceite de migração do contrato de plano de saúde, bem como da abusividade do reajuste praticado pelo fato de o recorrente ter se tornado idoso.
+Contrarrazões às fls. 622-632, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 635-641, e-STJ), dando ensejo na interposição do presente agravo (fls.649-656, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 660-666, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, constata-se que não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, não ocorre violação ao artigo 489, § 1º, IV, do CPC/15, quando "o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (AgInt no AREsp 794.406/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/08/2017, DJe 28/08/2017).
+No mesmo sentido, vejam-se, a título de exemplo: AgInt no RE nos EDcl nos EDcl nos EAR 513/DF, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 29/03/2017, DJe 25/04/2017; AgInt no AREsp 1053808/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/08/2017, DJe 25/08/2017; AgInt no REsp 1550044/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017; AgRg no Resp 1249360/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/08/2017, DJe 01/09/2017.
+A parte insurgente alegou vulneração do artigo 489, § 1º, IV, do CPC, sustentando ausência de enfrentamento do argumento trazido pela insurgente, que trata da inexistência do termo de aceite da migração do plano.
+Acerca da controvérsia, o Tribunal local assim decidiu (fl. 566, e-STJ):
+Dito isso, dos documentos que instruíram a inicial, verifica-se que a parte autora é beneficiária de plano coletivo denominado "UNIMAX Semiprivativo 2011", contratado pela ASTTI- Associação dos Profissionais em Telecomunicações e Tecnologia da Informação, firmado em1º.07.2010, em substituição àquele inicialmente celebrado.
+A migração, portanto, foi operada pela estipulante sem qualquer abusividade, tendo em vista a liberdade de contratar que lhe era assegurada pelo art. 421 do CC, na condição de representante dos beneficiários ativos e inativos.
+Na hipótese, verifica-se que o Tribunal de Justiça do Estado do Rio Grande do Sul decidiu, de modo fundamentado, as questões essenciais ao deslinde do tema, sobretudo no que trata da ausência de abusividade na migração do plano.
+Cumpre destacar, ainda, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Cabe asseverar também que a solução contrária ao interesse da parte não autoriza o reconhecimento da negativa de prestação jurisdicional, tampouco do vício da ausência de fundamentação e, consequentemente, da contrariedade aos dispositivos acima mencionados.
+Nesse sentido é o entendimento deste Sodalício, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. CONCLUSÃO ESTADUAL FUNDADA EM FATOS, PROVAS E TERMOS CONTRATUAIS FIRMANDO A EXISTÊNCIA DE NEGOCIAÇÕES ENTRE AS PARTES. AUSÊNCIA DO DEVER DE INDENIZAR. SÚMULAS 5 E 7/STJ. VALOR PROBANTE DAS PROVAS. LIVRE APRECIAÇÃO DO JULGADOR. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, 1.022, I e II, e 1.025 do CPC/2015. A segunda instância dirimiu a causa com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp 1736715/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. NÃO OCORRÊNCIA. INCAPACIDADE PREEXISTENTE AO RETORNO DO SEGURADO DO RGPS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA PREJUDICADA.
+ ..
+II - Não viola o art. 489, § 1º, IV, do CPC/2015 o acórdão que contém relatório e fundamentação e que enfrenta todos os argumentos deduzidos capazes de, em tese, infirmar a conclusão adotada anteriormente, dando-lhes, no entanto, deslinde que não atende aos interesses da parte.
+ ..
+V - Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+(AREsp 1354584/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12/02/2019, DJe 15/02/2019)
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. MEDIDA LIMINAR. DEMOLIÇÃO DE EDIFICAÇÕES. RECOMPOSIÇÃO DA COBERTURA FLORESTAL. ELABORAÇÃO DE PLANO DE RECUPERAÇÃO. SÚMULA 7.
+ ..
+3. Constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007.
+ ..
+6. Recurso Especial conhecido em parte e, nessa parte, não provido.
+(REsp 1755105/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/10/2018, DJe 16/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. LAUDO PERICIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. Não se verifica, também, no caso, a alegada vulneração do artigo 489 do Código de Processo Civil, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp 1197469/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2018, DJe 23/03/2018)
+Afasta-se, portanto, a alegada violação aos artigos 489, § 1º, IV, do CPC/15.
+2. Em seguida, alega violação dos artigos 421 do CC e 19, II, do CPC, ao argumento da inexistência de aceite de migração do contrato de plano de saúde, bem como da abusividade do reajuste praticado pelo fato de o recorrente ter se tornado idoso.
+No ponto, o aresto vergastado assim consignou (fls. 566-571, e-STJ)
+Dito isso, dos documentos que instruíram a inicial, verifica-se que a parte autora é beneficiária de plano coletivo denominado "UNIMAX Semiprivativo 2011", contratado pela ASTTI - Associação dos Profissionais em Telecomunicações e Tecnologia da Informação, firmado em1º.07.2010, em substituição àquele inicialmente celebrado.
+A migração, portanto, foi operada pela estipulante sem qualquer abusividade, tendo em vista a liberdade de contratar que lhe era assegurada pelo art. 421 do CC, na condição de representante dos beneficiários ativos e inativos. A revisão pretendida, portanto, diz respeito ao contrato PCGN2A - UNIMAX
+Coletivo por Adesão Semiprivativo (evento 20, CONTR2). Pois bem. As relações contratuais que envolvem planos de saúde se submetem às regras do Código de Defesa do Consumidor, conforme sedimentado STJ na Súmula n. 608:
+Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão.
+No que tange ao reajuste fundado em alteração de faixa etária, relativamente aos planos coletivos, o STJ, ao julgar o Tema Repetitivo n. 1016, firmou a seguinte tese:
+(a) Aplicabilidade das teses firmadas no Tema 952/STJ aos planos coletivos, ressalvando-se, quanto às entidades de autogestão, a inaplicabilidade do CDC;(b) A melhor interpretação do enunciado normativo do art. 3º, II, da Resolução n. 63/2003, da ANS, é aquela que observa o sentido matemático da expressão "variação acumulada", referente ao aumento real de preço verificado em cada intervalo, devendo-se aplicar, para sua apuração, a respectiva fórmula matemática, estando incorreta a simples soma aritmética de percentuais de reajuste ou o cálculo de média dos percentuais aplicados em todas as faixas etárias.
+Transcrevo a tese firmada por aquela Corte Superior ao julgar o Tema Repetitivo n.952:
+O reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+ ..
+Como dito acima, a contratação foi celebrada em 1º.07.2010, em momento posterior à vigência da Lei n. 9.656/98, sendo, portanto, regulamentado pela referida Lei e submetido às disposições da Resolução Normativa nº 63/2003 da ANS, a qual "Define os limites a serem observados para adoção de variação de preço por faixa etária nos planos privados de assistência à saúde contratados a partir de 1º de janeiro de 2004", dispondo:
+ ..
+Consigno, por oportuno, que as cláusulas do pacto de plano de saúde estão em consonância com as diretrizes contidas na Resolução Normativa n. 063/2003 da ANS.
+Explicito, ainda, que o cálculo para verificar se há abusividade nos percentuais de aumentos pactuados para cada faixa etária, na forma em que explanada no noticiado recurso repetitivo, decorre do cotejo da proporção obtida do resultado da divisão do valor da mensalidade da 7ª faixa etária pelo da 1ª faixa etária, com o resultado da divisão do valor da prestação da 10ª faixa etária pelo da 7ª faixa etária. Ressalto que a proporção deve ser aferida entre os valores das faixas etárias, e não através da soma dos percentuais previstos em cada uma.
+Assim, no caso concreto, do exame dos percentuais aplicados, verifica-se que o contrato previu a mensalidade de R$ 86,32 relativamente à primeira faixa etária (Cláusula 65, II). Sobre esse valor, aplicados os percentuais de reajustes previstos nas demais faixas etárias (Cláusula76), alcança-se o valor de R$ 389,97 para a última faixa etária, o qual não é seis vezes maior que o valor previsto para a primeira (R$ 389,97/R$ 86,32 = 4,51).
+Partindo-se da mesma premissa (valor histórico contratualmente previsto para a primeira mensalidade, incidentes os percentuais de reajustes para cada faixa etária), tem-se o valor da 7ª faixa etária em R$ 206,60, que é 2,39 maior que a primeira, sendo que a 10ª faixa (R$ 389,97)é 1,88 maior que a 7ª.
+Logo, respeitados ambos os critérios estabelecidos pelo Tema Repetitivo e pelo art. 3º, II, da Resolução n. 063/2003 da ANS, inexiste a abusividade apontada.
+Na hipótese, o Tribunal local, amparado nas peculiaridades do caso concreto e nas provas dos autos, concluiu pela validade da migração do contrato, bem como pela ausência de abusividade no reajuste aplicado.
+A revisão da conclusão do aresto vergastado, na forma como disposta nos autos , exigiria incursão no acervo fático probatório, providência incabível nesta instância, ante o óbice das Súmulas 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, 1.022, II, E 371 DO CPC. NÃO OCORRÊNCIA. PLANO DE SAÚDE. REAJUSTE DE FAIXA ETÁRIA. DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANÇAR O ÍNDICE DE REAJUSTE PRETENDIDO. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. SÚMULAS N. 5 e 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489, 371 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Carece de interesse recursal a discussão a respeito violação dos arts. 141 e 492 do CPC se, o vício de extra petita foi corrigida na instância ordinária, em julgamento dos embargos de declaração.
+3. É lícita a cláusula de contratos de plano de saúde que estabelece reajuste em razão da mudança de faixa etária do usuário, devendo o magistrado, diante do caso concreto, verificar eventual abusividade do reajuste efetivamente aplicado.
+4. Afastada pelo tribunal de origem, com base na análise do contrato de plano de saúde e das provas, a abusividade do percentual aplicado para reajuste a título da mudança de faixa etária, a revisão da questão pelo STJ é inviável por incidência das Súmulas n. 5 e 7.
+5. O magistrado, destinatário final da prova, não está vinculado ao laudo pericial juntado, podendo formar sua convicção de acordo com outros elementos ou fatos provados nos autos.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.235.360/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CONDENATÓRIA. PLANO DE SAÚDE COLETIVO. 1. PERÍCIA TÉCNICA ATUARIAL. MATÉRIA NÃO PREQUESTIONADA. ÓBICE DA SÚMULA 211/STJ. 2. REAJUSTE DAS MENSALIDADES. POSSIBILIDADE EM TESE. RESP REPETITIVO N. 1.568.244/RJ. 3. ABUSIVIDADE DE CLÁUSULA CONTRATUAL CONSTATADA PELA CORTE DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 4. DISSENSO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. 5. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A Segunda Seção do STJ firmou, em recurso repetitivo, a seguinte tese: "o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso" (REsp 1.568.244/RJ, Rel. Min. Ricardo Villas Bôas Cueva, julgado em 14/12/2016, DJe 19/12/2016).
+3. É assente nesta Corte Superior o entendimento de que é "possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade". (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 02/06/2015, DJe 10/06/2015).
+4. Na espécie, contudo, a Corte estadual, com base na interpretação de cláusulas contratuais e no contexto fático-probatório, considerou abusivo o reajuste promovido no plano de saúde da agravada, no patamar de 92,63%. Nesse aspecto, para reverter a conclusão do Tribunal a quo, seriam necessários a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências incabíveis ante a natureza excepcional da via eleita, conforme enunciado das Súmulas 5 e 7 do STJ.
+5. O óbice da Súmula n. 7 do STJ prejudica o conhecimento do apelo especial lastreado, também, pela alínea c do permissivo constitucional, por faltar identidade fática entre os paradigmas apresentados e os fundamentos do acórdão.
+6. Agravo interno desprovido.
+(AgInt no REsp 1780640/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/05/2019, DJe 24/05/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE DE MENSALIDADE. MUDANÇA DE FAIXA ETÁRIA. ABUSIVIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O STJ firmou entendimento, nos termos do art. 1.040 do CPC/2015, de que "o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso" (REsp n. 1.568.244/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1082987/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/10/2018, DJe 10/10/2018)
+Inafastável, na hipótese, a incidência da Súmula 7 do STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
