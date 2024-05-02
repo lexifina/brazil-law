@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 234):
+PRESTAÇÃO DE SERVIÇOS DE TELEFONIA. DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO .
+Sentença de procedência. Insurgência da parte autora. Débito prescrito. Art. 206, §5º, I CC. Inexigibilidade declarada. Valor que não pode ser cobrado pelo credor, inclusive na esfera extrajudicial. Valor dos honorários sucumbenciais mantidos. Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação dos art. 85, § 8º - A, do Código de Processo Civil.
+Defende que deve a verba sucumbencial arbitrada ser majorada. Alega que o valor dos honorários pode ser até maior que o da tabela do Conselho Seccional da OAB, mas nunca inferior, sendo este o valor mínimo a ser arbitrado pelo juízo singular.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fls. 235/236):
+Com efeito, a propósito da incidência do §8º-A, do art. 85, do CPC, porém, tem-se que a Tabela da OAB/SP não indica valores para a fixação de honorários advocatícios sucumbenciais, de modo que a tentativa de "encaixe" automático de algum de seus itens para o caso presente produz distorção indevida que deve ser evitada.
+Note-se, ainda, que o item 4.1 da Tabela da OAB/SP diz respeito ao valor mínimo devido a título de honorários advocatícios contratuais e pela atuação em processo cível levado a cabo até as últimas e superiores instâncias, incluindo incidentes, até o seu derradeiro desfecho, o que não é o caso.
+Nesse passo, incidem aqui os princípios da razoabilidade e da proporcionalidade previstos no art. 8º do CPC, também de acordo com os parâmetros inscritos nos incisos I a IV do §2º, do art. 85 do CPC, a fim de corrigir a possível distorção e tornar adequado o arbitramento da verba honorária devida pela parte apelante no valor fixado na sentença ora recorrida, assim dando boa aplicação ao §8º-A, do art. 85, do CPC, pela própria observação dos valores da referida tabela, respeitando-se a necessidade de remunerar condignamente o profissional da advocacia.
+Aliás, incumbe ao juiz a fixação do valor dos honorários advocatícios sucumbenciais, não tendo a lei transferido tal prerrogativa ao Conselho Seccional da Ordem dos Advogados, muito menos de forma pré-tarifada.
+Assim, tendo a Corte estadual arbitrado os honorários advocatícios com base nas circunstâncias fático-probatórias inerentes à causa, a desconstituição das premissas adotadas no acórdão recorrido, a fim de modificar o valor fixado para a verba sucumbencial, tal como pretende a parte recorrente, demandaria o reexame do acervo fático-probatório dos autos, procedimento inviável no recurso especial, ante o óbice da Súmula 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. ART. 535 DO CPC/73. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO E INDENIZAÇÃO POR PERDAS E DANOS. RECONVENÇÃO. ANÁLISE. SÚMULAS 5 E 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME. SÚMULA 7/STJ.  ..  2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ). 3. A revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula 7/STJ), salvo na hipótese de valores irrisórios ou exorbitantes, o que não se verifica no caso presente. 4. Agravo interno a que se nega provimento. (AgInt no REsp 1.543.909/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 7/6/2019.)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
