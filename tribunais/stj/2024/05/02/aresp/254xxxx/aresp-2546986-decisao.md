@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por PARTIDO DEMOCRÁTICO TRABALHISTA, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 950):
+AGRAVO REGIMENTAL MANUTENÇÃO DA DECISÃO QUE INDEFERIU OS BENEFÍCIOS DA JUSTIÇA GRATUITA E O DIFERIMENTO DAS CUSTAS AO FINAL DO PROCESSO EM DESFAVOR DO AGRAVANTE POR FALTA DE COMPROVAÇÃO DA SITUAÇÃO ALEGADA- À míngua de comprovação da condição financeira alegada, de rigor a manutenção da decisão monocrática que indeferiu em desfavor do agravante os benefícios da justiça gratuita, bem como, o diferimento das custas para o final do processo.
+RECURSO IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 974-992), o recorrente apontou, além da existência de dissídio jurisprudencial, ofensa aos arts. 15-A da Lei Federal nº 9.096/1995; e 3º e 99, § 2º, do CPC/2015.
+Sustentou, em síntese, que não há solidariedade de obrigações entre órgãos de uma agremiação partidária, além da impropriedade de análise do pedido de gratuidade de justiça com base na situação econômica de terceiro (Diretório Nacional do PDT), que não é parte no processo.
+Defendeu não ter recebido qualquer quantia de fundo partidário e que tem uma situação econômica precária, o que lhe impede de recolher o preparo recursal.
+Pleiteou seja dado provimento ao recurso especial, com a concessão da gratuidade de justiça ou o diferimento do recolhimento do preparo para o final do processo.
+Contrarrazões apresentadas às fls. 1.017-1.028 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao dirimir a controvérsia, asseverou que (e-STJ, fls. 951-952; sem grifo no original):
+Isto porque, não se verifica dos documentos encartados ao recurso de apelação, prova da hipossuficiência financeira que ensejasse a concessão dos benefícios da justiça gratuita ou até mesmo o diferimento das custas processuais para o final do processo.
+Note-se que ainda que os extratos bancários apresentassem baixa movimentação financeira, verificava-se da prestação de contas do ano de 2021 que o diretório municipal do partido (ora agravante) havia recebido a título de doações a quantia de R$ 41.000,00.
+Neste contexto, oportuno destacar que nos dois primeiros anos de 2023 o partido político PDT recebeu do fundo partidário a quantia total de R$ 46.343.315,82 (https://www.tse.jus.br/partidos/contas-partidarias/fundo-partidario-1, consulta realizada em 14.03.22).
+Ademais, embora boa parte dos valores provenientes do fundo partidário, nos termos do art. 44 da Lei 9096/95, tenha destinação e limitação específica em relação a certas despesas, é fato que a verba cuja disponibilidade de destinação que o partido possui, assim como as doações por ele recebidas possam ser amealhadas para o custeio do processo em análise, no qual está sendo buscado pela parte ora apelada o recebimento das consultoria técnica especializada em marketing partidário político, cujo preparo recursal devido seria de pequena expressão, vez que, quando do início do prazo para interposição do recurso, o montante devido era de apenas R$ 1.908,93 (novembro/22).
+Demais disso, verifica-se dos extratos bancários colacionados ao processo o ingresso mensal de recursos de valores diversos, cuja origem é desconhecida, os quais impedem o conhecimento da real condição financeira do agravante.
+Importante lembrar nesse particular que não está sendo imposta obrigação ao Diretório Nacional do Partido, mas apenas utilizado os elementos existentes, por falta de prova específica, para o fim de demonstrar a situação financeira do partido como um todo, reflexo esse que deve ser entendido como inerente às células municipais do partido, de modo a rechaçar a gratuidade e o diferimento das custas pretendido.
+Daí porque, à míngua de comprovação da condição financeira alegada, de rigor a manutenção da decisão monocrática que indeferiu em desfavor do agravante os benefícios da justiça gratuita, bem como, o diferimento das custas para o final do processo.
+Consta, ainda, do voto dos aclaratórios (e-STJ, fl. 972):
+Referida situação, por óbvio, não viola a regra contida no art. 15-A da Lei 9096/95, visto que não está sendo reconhecida responsabilidade de terceiro, mas sim, que em face dos recebimentos recentes houve a modificação da condição financeira do partido, o que reflete no órgão municipal, por consequência.
+Com efeito, nos termos do disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+Na hipótese dos autos, o colegiado estadual, analisando detidamente o acervo fático-probatório do respectivo feito, assentou que o agravante não fazia jus à gratuidade de justiça, porquanto ausentes provas suficientes a evidenciarem a imprescindível hipossuficiência.
+Nesse contexto, é inafastável o óbice da Súmula 7/STJ. Isso porque não há como alterar a convicção formada pelo colegiado local (acerca da não comprovação da hipossuficiência indispensável ao deferimento da gratuidade de justiça ao recorrente), sem que se proceda ao reexame do acervo fático-probatório do presente processo, o que não se admite nesta instância extraordinária, não sendo caso de revaloração de prova.
+Ilustrativamente:
+PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA. REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. PREQUESTIONA MENTO. AUSÊNCIA.
+1. "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula 481 do STJ).
+2. A alteração do julgado, a fim de entender que os documentos apresentados seriam suficientes para demonstrar a impossibilidade de a sociedade empresária arcar com os encargos processuais, importaria necessário reexame fático-probatório. Incidência da Súmula 7 do STJ.
+3. Segundo o entendimento desta Corte de Justiça, para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.274.275/RO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/3/2024, DJe de 14/3/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. AUSÊNCIA DE AFRONTA AO ART. 1.022, II, DO CPC/2015. DECISÃO MANTIDA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DOMINANTE DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. PROVA DA INSUFICIÊNCIA DE RECURSOS. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022, II, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Conforme a jurisprudência do STJ, a concessão do benefício de gratuidade da justiça à pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos.
+3. O direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com os encargos processuais. Precedentes.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ e é entendimento dominante acerca do tema (Súmulas n. 83 e 568 do STJ).
+5. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). 6. No caso concreto, o Tribunal de origem analisou as provas dos autos para indeferir o pedido de justiça gratuita.
+Alterar tal conclusão é inviável em recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.404.028/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Após atenta análise dos autos, verificou-se que o insurgente, nas razões do recurso especial efetivamente indicou os dispositivos violados, dessa forma afasta-se a incidência da Súmula 284 STF.
+2. A concessão do benefício de gratuidade da Justiça a pessoa jurídica depende da comprovação da precariedade de sua situação financeira, inexistindo presunção de insuficiência de recursos. Súmula 481/STJ.
+3. A pretensão de que seja avaliada a condição econômica da parte agravante exigiria o reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão de fls. 88-89, e-STJ, e agravo em recurso especial, de plano, desprovido. (AgInt no AREsp n. 2.158.634/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/10/2022, DJe de 27/10/2022)
+Ademais, o TJSP consignou que não houve ofensa ao art. 15-A da Lei Federal nº 9.096/1995, tendo em vista que nenhuma obrigação foi imposta ao Diretório Nacional do Partido, porquanto, apenas procedeu à análise do conjunto fático-probatório, a fim de verificar a condição financeira do agravante. Logo, rever tal conclusão esbarra, novamente, no óbice da Súmula 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. GRATUIDADE DE JUSTIÇA. PARTIDO POLÍTICO. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
