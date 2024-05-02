@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. OI EM RECUPERAÇAO JUDICIAL. EXTINÇÃO DOFEITO. DIANTE DO NOVO PEDIDO DE RECUPERAÇÃO JUDICIAL, O GRUPO OIESTÁ LEGALMENTE IMPOSSIBILITADO DE SEGUIR COM O PAGAMENTO DOS CRÉDITOS NA FORMA DO ANTIGO PLANO DERECUPERAÇÃO JUDICIAL, SOB PENA DE VIOLAÇÃO AO PRINCÍPIO DAPAR CONDITIO CREDITORIUM. NEGARAM PROVIMENTO À APELAÇÃO. UNÂNIME." (e-STJ, fl. 1099)
+Nas razões do recurso especial, o agravante alega violação ao art. 49 da Lei nº 11.101/05, sustentando, em síntese, que a penhora e o valor incontroverso são anteriores a 20/06/16 e que a decisão na impugnação ao cumprimento de sentença precluiu, de modo que deve haver liberação em favor do credor.
+Contrarrazões às fls. 1117/1128.
+É o relatório. Passo a decidir.
+Com relação a suposta violação ao art. 49 da Lei nº 11.101/05, a Corte de origem afirmou que o crédito executado possui natureza concursal em razão de seu fato gerador ser anterior a 20/06/2016 e do novo pedido de recuperação judicial impossibilitar legalmente o pagamento de créditos na forma do antigo plano de recuperação, in verbis:
+"Dessa forma, considerando que o crédito executado nesta demanda possui natureza concursal, já que o fato gerador é anterior ao dia 20.06.2016, deverá, assim, se submeter ao plano de recuperação judicial.
+Ademais, diante do novo pedido de recuperação judicial, o Grupo Oi está legalmente impossibilitado de seguir com o pagamento dos créditos na forma do antigo Plano de Recuperação Judicial, sob pena de violação ao princípio da par conditio creditorium. Também não há possibilidade de, até a aprovação e homologação do novo Plano de Recuperação Judicial, o Grupo Oi efetuar pagamento de créditos que tenham fatos geradores anteriores a 1º.3.2023, data do pedido de recuperação judicial (art. 49 da Lei nº 11.101/2005). Dessa forma será necessário que o credor verifique se o seu crédito está incluído na lista de credores apresentada pelo Grupo Oi na nova recuperação judicial." (e-STJ, 1098)
+Este fundamento (novo pedido de recuperação judicial impossibilita legalmente o pagamento de créditos na forma do antigo plano) não foi objeto de impugnação e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer o recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 2.500,00 (dois mil e quinhentos reais) para R$ 2.750,00 (dois mil setecentos e cinquenta reais).
+Publique-se.
+EMENTA
