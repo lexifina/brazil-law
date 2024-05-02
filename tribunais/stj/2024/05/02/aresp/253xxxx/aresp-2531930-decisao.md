@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo, manejado por ENGEFORM ENGENHARIA LTDA, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a , da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 804/805):
+AGRAVO INTERNO. APELAÇÃO. ART. 1.021, § 3º DO NCPC. REITERAÇÃO. RECURSO DESPROVIDO.
+- A vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1º do mesmo dispositivo.
+- Se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+- Agravo interno desprovido.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 868/871.
+A parte recorrente aponta violação aos arts. 11, 489, § 1º, IV, e 1.022 do CPC; 43 e 110 do CTN; 9º da Lei 9.718/98; 397 do RIR/18. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, a "falta de exame dos fundamentos recursais que demonstraram ser indevida exigência do IRPJ e da CSLL sobre os índices estaduais/municipais de juros e correção monetária aplicados na repetição do indébito tributários" (fl. 899); (II) "o Tribunal a quo se limitou a reconhecer que os valores recebidos a título de taxa Selic decorrentes da repetição de indébito tributário não integram a base de cálculo do IRPJ e da CSLL, porém não aplicou o mesmo raciocínio aos demais índices de correção monetária estaduais e municipais, que, assim como aqueles valores recebidos através da aplicação da Selic, não poderiam sequer ser classificados como receita, que pressupõem acréscimo patrimonial" (fl. 905).
+Contrarrazões apresentadas à fl. 958.
+Recurso extraordinário interposto às fls. 921/940. O recurso teve seguimento negado com base no Tema 962/STF (RE 1.258.934) da Repercussão Geral, conforme decisão às (fls. 962/964).
+O Ministério Público Federal ofereceu parecer às fls. 1.165/1.169, opinando pelo desprovimento do agravo em recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Quanto à questão de fundo, o Supremo Tribunal Federal decidiu, sob o regime de repercussão geral, o seguinte: "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário." (RE 1.258.934, Tema 962/STF).
+Colhe-se dos autos que a Vice-Presidência do Tribunal Regional Federal da 3ª Região negou seguimento ao recurso extraordinário da parte ora recorrente, com esteio no art. 1.030, I, b, do CPC, tendo em vista que o acórdão recorrido encontra-se em conformidade com o posicionamento firmado na referida repercussão geral pelo STF (cf fls. 962/964).
+Consoante dicção do art. 1.039 do CPC/2015: "Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada".
+Nesse contexto, sendo a matéria trazida no presente apelo coincidente com aquela discutida no recurso extraordinário do particular, a saber, a extensão do entendimento firmado em repercussão geral "aos demais índices de correção monetária estaduais e municipais, que, assim como aqueles valores recebidos através da aplicação da Selic, não poderiam sequer ser classificados como receita, que pressupõem acréscimo patrimonial" (fl. 905), prejudicada restou a apreciação do recurso especial em análise .
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
