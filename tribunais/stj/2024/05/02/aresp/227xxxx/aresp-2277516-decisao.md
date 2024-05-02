@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL - INPI contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+"PROPRIEDADE INDUSTRIAL. NULIDADE DE REGISTRO DE MARCA. INPI. PRAZO EM DOBRO. ART. 183 DO CPC. APELAÇÃO INTEMPESTIVA. RECURSO NÃO CONHECIDO. SENTENÇA MANTIDA.
+1. O INPI goza do prazo em dobro conforme previsto no art. 183 do CPC.
+2. In casu, a r. sentença foi proferida no dia 19/03/2021, com publicação no Diário da Justiça Eletrônico no dia 23/03/2021 e o recurso de apelação foi protocolado no dia 17/05/2021. Dessa forma, levando-se em conta o prazo em dobro, nos termos do art. 183 do CPC, o recurso deveria ter sido interposto até 13/05/2021.
+3. Portanto, o presente recurso foi interposto após o transcurso do prazo recursal, de modo que é forçoso reconhecer sua intempestividade" (fl. 300 e-STJ).
+Opostos embargos de declaração, foram acolhidos para para sanar a omissão apontada, afastar a intempestividade recursal reconhecida no julgamento anterior e, no mérito, negar provimento ao recurso de apelação (fls. 330/337 e-STJ).
+Eis a ementa:
+"EMBARGOS DE DECLARAÇÃO ACOLHIDOS. OMISSÃO SANADA. APELAÇÃO. PROPRIEDADE INDUSTRIAL. NULIDADE DE REGISTRO DE MARCA. ART. 124, IV DALPI. INAPLICABILIDADE. CGI. br E NIC. br. ÓRGÃOS QUE EXERCEM ATIVIDADE DENATUREZA PRIVADA. APELAÇÃO DESPROVIDA.
+1. O INPI goza do prazo em dobro e sua intimação deve ser pessoal, conforme previsto no art. 183 e §1ºdo CPC. E nos termos do art. 270 do CPC, a intimação deve ser feita preferencialmente por via eletrônica.
+2. A apelação interposta pelo INPI em 17.05.2021 foi tempestiva, sendo este o prazo recursal final conforme se observa dos expedientes do PJe na instância ordinária. Embargos acolhidos para sanar aomissão apontada.
+3. O autor/apelado, NIC.br, objetiva a declaração de nulidade do ato administrativo do INPI que indeferiu o pedido de registro da marca "CGI.br".
+4. O art. 124, IV da LPI veda o registro como marca de designação ou sigla de entidade ou órgão público, quando não requerido pelo próprio.
+5. O CGI.br é um Comitê criado pela Portaria Interministerial nº 147, de 31 de maio de 1995 (e alterado pelo Decreto Presidencial nº 4.829, de 3 de setembro de 2003), com o fim de coordenar e integrar as iniciativas de serviços de internet no país, promovendo a qualidade técnica, a inovação e disseminação dos serviços ofertados.
+6. Por meio da Resolução GCI nº 1, de 2005, o CGI delegou ao NIC.BR, associação civil sem fins lucrativos, como a entidade responsável pela execução do registro de nomes de domínio e atribuição de endereços IP.
+7. No que tange à natureza das atividades do NIC.br, destaco orientação do Tribunal de Contas da União -TCU, no âmbito do processo TC 012.0482001-5, de que CGI.br e NIC.br se constituem pessoas jurídicas de direito privado e, assim, não poderia classificar suas atividades como de natureza pública.
+8. Dessa forma, o CGI.br pode ser considerado um ente despersonalizado, não possuindo natureza jurídica de órgão público, de modo que não se enquadra ao caso a vedação disposta no inciso IV do art. 124 supracitado.
+9. Dessa forma, o motivo informado pela autarquia para o indeferimento do registro da marca em questão não é idôneo para tal, não sendo aplicável ao caso concreto a vedação imposta no art. 124, IV da LPI.
+10. Embargos acolhidos. Apelação não provida"
+No recurso especial (fls. 348/354 e-STJ), o recorrente alega violação do artigo 124, IV, da Lei de Propriedade Industrial.
+Sustenta, em síntese, que
+"a expressão "Comitê Gestor da Internet no Brasil" e a sigla correspondente "CGI.br" constituem sinais distintivos visualmente perceptíveis, suscetíveis de distinguir os respectivos serviços reivindicados, não incidindo no disposto no inciso VI do art. 124 da LPI que trata da irregistrabilidade de termos de uso comum, genérico, descritivo, ou diretamente relacionados aos itens assinalados, norma legal correspondente ao ato indeferitório objeto da presente ação.
+No entanto, os sinais citados são irregistráveis à luz do disposto no inciso IV do art. 124 da LPI, que veda registro como marca de designação ou sigla de entidade ou órgão público, quando não requerido pelo próprio, desta forma, neste caso específico, é necessário que seja apresentada expressa autorização de registro como marca dos termos oficiais federais em referência pela entidade pública identificada pelos mesmos, no sentido de restar comprovado o direito da autora ao sinal "CGI.BR" sob sua titularidade para assinalar os serviços em questão".
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem manteve a sentença que julgou procedente o pedido para anular o ato de indeferimento do registro e determinar que o INPI registre a marca "CGI.br" na classe NCL (8) 42 em nome do autor/apelado, NÚCLEO DE INFORMAÇÃO E COORDENAÇÃO DO PONTO BR - NIC. br.. Eis o excerto do acórdão, na parte que interessa à espécie:
+"O art. 124, IV da LPI veda o registro como marca de designação ou sigla de entidade ou órgão público, quando não requerido pelo próprio.
+O CGI.br é um Comitê criado pela Portaria Interministerial nº 147, de 31 de maio de 1995 (e alterado pelo Decreto Presidencial nº 4.829, de 3 de setembro de 2003), com o fim de coordenar e integrar as iniciativas de serviços de internet no país, promovendo a qualidade técnica, a inovação e disseminação dos serviços ofertados. "Composto por membros do governo, do setor empresarial, do terceiro setor e da comunidade acadêmica, (..) representa um modelo de governança na Internet pioneiro no que diz respeito à efetivação da participação da sociedade nas decisões envolvendo a implantação, administração e uso da rede."
+Por meio da Resolução GCI nº 1, de 2005, o CGI delegou ao NIC.BR, associação civil sem fins lucrativos, como a entidade responsável pela execução do registro de nomes de domínio e atribuição de endereços IP. Com esta resolução, o NIC.br assumiu as funções anteriormente atribuídas à FAPESP para o registro de nomes de domínio e atribuição de endereços IP.
+Assim, foram atribuídas ao NIC.br, por delegação do Comitê Gestor da Internet no Brasil - CGI.br, atividades de execução e administração dos registros de nomes de domínio sob o código-país brasileiro ("br").
+O NIC.br foi criado como uma associação sem fins lucrativos em 6 de janeiro de 2003 e nos termos de seu estatuto social possui os seguintes objetivos: I - o registro de nomes de domínio sob o DPN (Domínio de Primeiro Nível) .br; II - a distribuição dos endereços IPs (Internet Protocol); III - a promoção e manutenção do que consta dos incisos anteriores; IV - a operação de computadores, servidores e rede e toda a infra-estrutura necessária, de modo a garantir a boa funcionalidade da operação de registro e manutenção dos domínios sob o br; V - atender aos requisitos de segurança e emergências na Internet Brasileira em articulação e cooperação com as entidades e os órgãos responsáveis.
+O objeto social do NIC.BR, assim, compreende o registro de nomes de domínio e a atribuição de endereços IP, bem como garantir a funcionalidade dos nomes de domínio registrados no Brasil. ONIC.BR seria, portanto, uma espécie de entidade executora do CGI.br, com relação às atividades de registro de nomes de domínio e de atribuição de IPs no Brasil.
+No que tange à natureza das atividades do NIC.br, destaco orientação do Tribunal de Contas da União -TCU no âmbito do processo TC 012.0482001-5, de que CGI.br e NIC.br se constituem pessoas jurídicas de direito privado e, assim, não haveria que classificar suas atividades como de natureza pública.
+Ademais, o TCU entendeu que o Decreto 4.8292003, não representa uma assunção da atividade pelo Estado, mas serviu apenas para promover as ações mínimas para permitir que a própria sociedade civil faça a regulação do setor, com a participação de todas as partes interessadas, inclusive da administração pública.
+Dessa forma, o CGI.br pode ser considerado um ente despersonalizado, não possuindo natureza jurídica de órgão público, de modo que não se enquadra ao caso a vedação disposta no inciso IV do art. 124 supracitado.
+Dessa forma, o motivo informado pela autarquia para o indeferimento do registro da marca em questão não é idôneo para tal.
+Portanto, a sentença não merece reforma" (fls. 340/341 e-STJ - grifou-se).
+Assim, rever as conclusões do julgado demandaria o reexame de matéria fático-probatória, procedimento inviável no âmbito do recurso especial, em razão do óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% sobre o valor da causa, os quais devem ser majorados para o patamar de 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
