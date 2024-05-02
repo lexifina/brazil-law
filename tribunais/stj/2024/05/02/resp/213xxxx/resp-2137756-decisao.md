@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região em acórdão assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS, COFINS, IRPJ e CSLL. BASE DECÁLCULO. INCLUSÃO DAS GORJETAS PAGAS PELO RESTAURANTE AOS SEUS EMPREGADOS. IMPOSSIBILIDADE. PRECEDENTES DO STJ E DESTE TRIBUNAL. COMPENSAÇÃO. POSSIBILIDADE. TEMA 118/STJ.
+Defende a Fazenda Nacional:
+Trata-se de acórdão que reconheceu a inexistência de relação jurídico-tributária que obrigue a autora, optante do SIMPLES, a recolher IRPJ, CSLL, PIS e COFINS, lançados no âmbito do SIMPLES NACIONAL, sobre as taxas de serviço (gorjetas), declarando-se-lhe o direito à compensação dos pagamentos indevidos nos 05 (cinco) anos anteriores ao ajuizamento da demanda, observando-se o disposto no art. 170-A do CTN.
+(..)
+Trata-se de acórdão que reconheceu a inexistência de relação jurídico-tributária que obrigue a autora a recolher IRPJ, CSLL, PIS e COFINS, lançados no âmbito do SIMPLES NACIONAL, sobre as taxas de serviço (gorjetas).
+(..)
+Ainda que assim não fosse, e que a totalidade da taxa de serviço fosse repassada ao trabalhador, o fato é que, uma vez ingressando nos cofres do estabelecimento e fazendo parte da sua receita bruta, a taxa de serviço é investida pela empresa, seja em aplicações financeiras, seja no exercício das atividades ordinárias. O repasse ao trabalhador só se dá ao final do mês e em percentual aplicado sobre o valor histórico. E é precisamente esta repercussão econômica que interessa ao Direito Tributário.
+(..)
+Tomando-se a noção de gorjeta fixada no tópico anterior, registre-se que, mesmo no sentido mais restrito do termo faturamento (limitado à receita bruta operacional da pessoa jurídica), é possível enquadrar os valores recebidos pelos estabelecimentos a título de taxa de serviço na base de cálculo das contribuições em comento, por se tratarem de receitas recebidas pela pessoa jurídica em razão do exercício de sua atividade precípua.
+(..)
+O Simples Nacional envolve a cobrança não só do IRPJ, da CSLL, do PIS e da COFINS, como de diversos outros tributos. É da essência do regime unificar a sistemática de arrecadação de todos os tributos relacionados, razão porque não faz qualquer sentido a exclusão de rubricas específicas da base de cálculo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.4.2024.
+O Superior Tribunal de Justiça tem jurisprudência consolidada, segundo a qual "a gorjeta, compulsória ou inserida na nota de serviço, tem natureza salarial. Em consequência, há de ser incluída no cálculo de vantagens trabalhistas e deve sofrer a incidência apenas, de tributos e contribuições que incidem sobre o salário" (REsp 399.596/DF, Segunda Turma, Rel. Ministro Castro Meira, DJ 5.5.2004).
+O Simples Nacional implica no recolhimento mensal de IRPJ, CSLL, PIS, COFINS, IPI, Contribuição Previdenciária Patronal, ICMS e ISS, conforme a inteligência do art. 13 da LC 123/2006. Logo, a taxa de serviço/gorjeta não pode ser incluída na base de cálculo dos tributos federais ora em discussão (PIS, COFINS, IRPJ e CSLL).
+O estabelecimento empregador atua como mero arrecadador, e o valor pago a título de gorjetas não pode integrar o faturamento ou o lucro para o fim de apuração dos tributos federais discutidos nestes autos, uma vez que não constitui receita própria dos empregadores, apta a sofrer incidência de tributos de responsabilidade da empresa (AgInt no AREsp 972.774/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 4.12.2019).
+Dessa forma, as gorjetas, independentemente de serem pagas voluntária ou compulsoriamente, detêm natureza remuneratória e, assim, não podem ser caracterizadas como receita, faturamento ou lucro para fins de inclusão nas bases de cálculos dos tributos que compõem o Simples Nacional, e sua contabilização é permitida apenas no cálculo de vantagens trabalhistas. A propósito:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. TAXA DE SERVIÇO (GORJETA). NATUREZA SALARIAL. BASE DE CÁLCULO SIMPLES NACIONAL. EXCLUSÃO. PRECEDENTES. AGRAVO CONHECIDO PARA SE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. No mérito, a Fazenda Nacional defende que a rubrica a título de gorjeta ou taxa de serviço cobrada pela recorrida, ao desempenhar a sua atividade econômica, deve compor a base de cálculo para a cobrança dos impostos unificados pelo "Simples Nacional", sobretudo porque a Lei Complementar 123/2006 previu taxativamente as hipóteses de exclusão do conceito de receita bruta, de maneira que a taxa de serviço no caso em tela compõe a receita bruta do estabelecimento, devendo sofrer a tributação.
+4. Todavia a pretensão não merece guarida, pois a exegese do artigo 457, § 3º, da CLT permite inferir que a gorjeta, compulsória ou inserida na nota de serviço, tem natureza salarial, compondo a remuneração do empregado, não constituindo renda, lucro ou receita bruta/faturamento da empresa. Logo, as gorjetas representam apenas ingresso de caixa ou trânsito contábil a ser repassado ao empregado, não implicando incremento no patrimônio da empresa, razão pela qual deve sofrer a aplicação apenas de tributos e contribuições que incidem sobre o salário. (AgRg no AgRg nos Edcl no REsp 1.339.476/PE, Min. Herman Benjamin, 2ª T., DJe 16/09/2013).
+5. Consequentemente, afigura-se ilegítima a exigência do recolhimento do PIS, COFINS, IRPJ e CSLL sobre a referida taxa de serviço. Do mesmo modo e pelas mesmas razões, não há que se falar em inclusão das gorjetas na base de cálculo do regime fiscal denominado "Simples Nacional", que incide sobre a receita bruta na forma do art. 18, § 3º, da LC nº 123/2006. (ARESP 1704335, Min. Mauro Campbell Marques, DJe 18/09/2020).
+6 . Agravo conhecido para se negar provimento ao recurso especial.
+(AREsp n. 2.381.899/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/10/2023, DJe de 19/10/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS, COFINS, IRPJ E CSLL. GORJETAS. NATUREZA SALARIAL. NÃO INCIDÊNCIA. SÚMULA 83 DO STJ. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão que conheceu do Agravo para não conhecer do Recurso Especial. Considerou-se ausente a violação aos arts. 489 e 1.022 do CPC e incidente a Súmula 83/STJ.
+2. Na origem, trata-se de Mandado de Segurança impetrado pela parte ora recorrida, com o objetivo de que sejam afastadas as taxas de serviço (gorjetas) da base de cálculo dos tributos recolhidos pelo Simples Nacional.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é indevida a tributação dos valores referentes à taxa de serviço, porque, como têm nítida natureza jurídica de verba salarial, independentemente de serem pagas voluntária ou compulsoriamente, nos exatos termos do art. 457 da CLT, não podem ser incluídas na base de cálculo de tributos federais.
+4. A gorjeta não pode ser incluída na base de cálculo dos tributos que se submetem ao regime do Simples Nacional, tendo em vista que o seu respectivo valor não ingressa efetivamente no patrimônio do contribuinte, haja vista que deve ser repassado aos empregados, conforme previsto no § 3º do art. 457 da CLT.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.223.882/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/4/2023.)
+Dessume-se que o aresto recorrido está em sintonia com o atual entendimento deste Tribunal Superior, motivo pelo qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
