@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Embargos de Divergência opostos a acórdão da Primeira Turma do Superior Tribunal de Justiça assim ementado:
+TRIBUTÁRIO. PIS. COFINS. SISTEMA MONOFÁSICO. APROVEITAMENTO DE CRÉDITOS. POSSIBILIDADE. LEI N. 11.033/04. EXTENSÃO DO BENEFÍCIO FISCAL ÀS EMPRESAS NÃO VINCULADAS A ESSE REGIME. CABIMENTO.1. É possível o creditamento do PIS e da COFINS no regime monofásico, porquanto "o fato de os demais elos da cadeia produtiva estarem desobrigados do recolhimento, à exceção do produtor ou importador responsáveis pelo recolhimento do tributo a uma alíquota maior, não é óbice para que os contribuintes mantenham os créditos de todas as aquisições por eles efetuadas". Entendimento firmado pela Primeira Turma nos autos do AgRg no REsp 1.051.634/CE (Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 28/3/2017, DJe 27/4/2017).
+2. Agravo interno não provido.
+A embargante cita dissídio jurisprudencial com julgado proferido pela Segunda Turma do STJ no REsp 1.871.229/RS (Rel. Ministro Francisco Falcão) e defende que deve prevalecer o acórdão paradigma, de modo a se afastar o direito ao creditamento do PIS e da COFINS nas atividades cuja tributação se dê no regime monofásico.
+Em impugnação, a embargada afirma que não há similitude entre os arestos confrontados. No mérito, aduz que o "acórdão recorrido está em sintonia com os precedentes da colenda 1ª Turma, que entende ser totalmente cabível o creditamento de PIS e de COFINS no sistema monofásico, seja por considerar que a desoneração dos demais elos da cadeia não impede o exercício do direito, seja por considerar que o creditamento no sistema monofásico encontra pleno abrigo no artigo 17 da Lei nº 11.033/04 c/c o artigo 16 da Lei nº 11.116/05" (fl. 349, e-STJ).
+Foi determinado o sobrestamento do feito diante da afetação da matéria ao julgamento sob o rito dos Recursos Repetitivos.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 5.3.2024.
+Não procede a preliminar de descabimento do recurso ao fundamento de que inexiste similitude fática e jurídica.
+A embargada, no ponto, transcreve trechos isolados dos acórdãos cotejados para concluir genericamente que inexiste similitude entre eles, sem desenvolver argumentos para demonstrar como chegou a essa conclusão. Logo adiante, ao se manifestar sobre o mérito da questão litigiosa, termina por sustentar que há similitude e que deve prevalecer o entendimento da Primeira Turma desta Corte (acórdão embargado).
+Por fim, quanto ao mérito, não há espaço para maiores delongas.
+No julgamento do REsp 1.894.741/RS sob o rito dos Recursos Repetitivos em 22.4.2022, a Seção de Direito Público do STJ, concluiu inexistir direito à constituição de créditos de PIS e e COFINS relativamente aos bens sujeitos à tributação monofásica.
+Segue a transcrição das teses repetitivas fixadas no Tema 1.093/STJ:
+10.1. É vedada a constituição de créditos da Contribuição para o PIS/PASEP e da COFINS sobre os componentes do custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica (arts. 3º, I, "b" da Lei n. 10.637/2002 e da Lei n. 10.833/2003).
+10.2. O benefício instituído no art. 17, da Lei 11.033/2004, não se restringe somente às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO.
+10.3. O art. 17, da Lei 11.033/2004, diz respeito apenas à manutenção de créditos cuja constituição não foi vedada pela legislação em vigor, portanto não permite a constituição de créditos da Contribuição para o PIS/PASEP e da COFINS sobre o custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica, já que vedada pelos arts. 3º, I, "b" da Lei n. 10.637/2002 e da Lei n. 10.833/2003.
+10.4. Apesar de não constituir créditos, a incidência monofásica da Contribuição para o PIS/PASEP e da COFINS não é incompatível com a técnica do creditamento, visto que se prende aos bens e não à pessoa jurídica que os comercializa que pode adquirir e revender conjuntamente bens sujeitos à não cumulatividade em incidência plurifásica, os quais podem lhe gerar créditos.
+10.5. O art. 17, da Lei 11.033/2004, apenas autoriza que os créditos gerados na aquisição de bens sujeitos à não cumulatividade (incidência plurifásica) não sejam estornados (sejam mantidos)quando as respectivas vendas forem efetuadas com suspensão, isenção, alíquota 0 (zero) ou não incidência da Contribuição para o PIS/PASEP e da COFINS, não autorizando a constituição de créditos sobre o custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica.
+O pedido deduzido nos autos visava à concessão da Segurança para reconhecer o "direito líquido e certo da Impetrante de promover créditos de PIS e COFINS nas aquisições de produtos e mercadorias que na etapa anterior(produtor e/ou importador) foram submetidos à incidência monofásica dessas contribuições, bem como para declarar o direito à compensação dos créditos apurados a esse título" (fl. 21, e-STJ).
+Constata-se, portanto, que o decisum embargado merece reforma, visto que nele julgou-se procedente o pedido deduzido no writ, e, conforme acima demonstrado, verificou-se o desacordo de seu conteúdo com a orientação firmada pelo STJ em julgamento de Recurso Repetitivo.
+Diante do exposto, dou provimento aos Embargos de Divergência para denegar a Segurança.
+Não há honorários advocatícios em Mandado de Segurança.
+Publique-se.
+Intimem-se.
+EMENTA
