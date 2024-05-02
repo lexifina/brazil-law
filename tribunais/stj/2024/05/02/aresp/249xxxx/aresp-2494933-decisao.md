@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BEDEMIR CARLOS SERENA, com base nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ, fl. 270):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL JULGADA RECENTEMENTE. INEXISTÊNCIA DE ENCARGOS ABUSIVOS NO PERÍODO DA NORMALIDADE. INADIMPLÊNCIA. MORA CARACTERIZADA. CONSTITUIÇÃO EM MORA REGULAR. PEDIDO PROCEDENTE. SENTENÇA MANTIDA. TESES DOS RECURSOS REPETITIVOS. RECURSO ESPECIAL Nº 1.061.530/RS. SOMENTE O RECONHECIMENTO DE ENCARGOS ABUSIVOS DURANTE O PERÍODO DA NORMALIDADE AFASTA A CARACTERIZAÇÃO DA MORA. RECURSO ESPECIAL Nº 1.418.593/MS. COMPETE AO DEVEDOR, NO PRAZO DE 5 (CINCO) DIAS APÓS A EXECUÇÃO DA LIMINAR NA AÇÃO DE BUSCA E APREENSÃO, PAGAR A INTEGRALIDADE DA DÍVIDA (ENTENDIDA ESTA COMO OS VALORES APRESENTADOS E COMPROVADOS PELO CREDOR NA INICIAL), SOB PENA DE CONSOLIDAÇÃO DA PROPRIEDADE DO BEM MÓVEL OBJETO DE ALIENAÇÃO FIDUCIÁRIA. NO CASO CONCRETO, OS ENCARGOS DA NORMALIDADE FORAM MANTIDOS NA AÇÃO REVISIONAL JULGADA RECENTEMENTE. INADIMPLÊNCIA DEMONSTRADA. MORA CARACTERIZADA. COMPROVAÇÃO DO ENVIO (E ENTREGA) DA NOTIFICAÇÃO POR CARTA REGISTRADA COM AVISO DE RECEBIMENTO (AR) PARA O ENDEREÇO INFORMADO NO CONTRATO. DEMONSTRADO QUE O CREDOR FIDUCIÁRIO ATENDEU A EXIGÊNCIA LEGAL PARA O AJUIZAMENTO DA AÇÃO DE BUSCA E APREENSÃO. PEDIDO DE BUSCA E APREENSÃO PROCEDENTE. SENTENÇA MANTIDA. APELO DESPROVIDO.
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 6º, III, 39, I, 46, 51, § 1º, e 52 do CDC; 396 do CC; e aos Temas n. 27 e 28 STJ.
+Esclareceu que se opôs ao acórdão por manter a capitalização de juros na periodicidade diária, sem prévia taxa contratual, de forma embutida e em ofensa ao direito de informação previsto no CDC.
+Pontuou não ser cabível a aplicação da tese do duodécuplo, por se falar de capitalização diária, que demanda anuência expressa com essa cobrança. Além disso, ponderou ser impossível cobrar capitalização por presunção e sem anterior informação, sendo que os bancos reduziram a taxa dos juros remuneratórios para não serem condenados nos tribunais e estão compensando esta burla na capitalização.
+Sustentou a descaracterização da mora do devedor, em razão da atuação sorrateira da casa bancária. Postulou o julgamento de extinção ou improcedência da ação de busca e apreensão. Requereu o provimento do recurso especial (e-STJ, fls. 285-307).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 374-387).
+Contraminuta apresentada (e-STJ, fls. 420-430).
+Brevemente relatado, decido.
+O teor dos arts. 6º, III, 39, I, 46, 51, § 1º, e 52 do CDC não foi objeto de apreciação no julgamento da segunda instância, carecendo do devido prequestionamento (Súmulas 282 e 356/STF). A parte não opôs embargos de declaração objetivando suprir eventual omissão nem, consequentemente, alegou ofensa ao art. 1.022 do CPC; logo não cabe falar em prequestionamento ficto (art. 1.025 do CPC).
+A título ilustrativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO A RECURSO COM APOIO EM TESE FIRMADA EM PRECEDENTE QUALIFICADO. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. PREQUESTIONAMENTO FICTO. TESE DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não cabe Agravo em Recurso Especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão.
+Precedentes.
+3. Conforme pacífico entendimento jurisprudencial sedimentado nas Súmulas 211 do STJ e 282 do STF, não se conhece de recurso especial, na hipótese em que a matéria recursal não foi prequestionada, ao tempo em que o prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, está condicionado à tese de violação do art. 1.022 do CPC/2015, ausente no caso dos autos. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.382.668/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Com efeito o julgamento estadual não se debruçou especificamente sobre a tese de que se tratava de capitalização diária sem previsão legal nem de inaplicabilidade da tese da possibilidade de previsão de taxa de juros anual superior ao duodécuplo da mensal; apenas firmou-se a mora do insurgente, que teria sido devidamente constituída. Logo, é caso de aplicação das Súmulas 282 e 356/STF.
+Como já ressaltado, o aresto firmou a configuração da mora, tendo em vista a premissa no sentido da inadimplência de prestação, ocorrendo o descumprimento do contrato.
+Destarte, a questão acerca da ocorrência de capitalização de juros na modalidade diária e ausência de previsão contratual não foi debatida no julgamento estadual ora em análise. O insurgente apenas arguiu a ausência de mora; ao passo que o julgamento atestou sua ocorrência.
+Leia-se (e-STJ, fls. 272-276):
+O pedido da ação de busca e apreensão, decorrente de contrato de outorga de crédito com garantia de alienação fiduciária, tem suas normas de processo estabelecidas no Decreto-Lei nº911/69.
+A previsão legal para o credor buscar o bem que serve de garantia do contrato e aliená-lo a terceiros, para aplicar o preço da venda no pagamento de seu crédito, está expresso nos arts. 2º e 3º, do Decreto-Lei nº 911/69. In verbis:
+ ..
+Assim, nos termos desses dispositivos e da jurisprudência pacífica do Superior Tribunal de Justiça, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade dobem móvel objeto de alienação fiduciária.
+A tese derivada do julgamento do Recurso Repetitivo nº 1.418.593 - MS(2013/0381036-4) reflete esse entendimento:
+ ..
+A mora do devedor, condição primeira da ação em exame, vem delineada no §2º do art. 2º do referido Decreto, esclarecendo que ela decorrerá do simples vencimento do prazo para o pagamento.
+Em que pese a clareza desse dispositivo, importante consignar que em algumas circunstâncias a mera impontualidade ou a inadimplência do contratante não conduz, necessariamente, a caracterização da mora.
+Nesse sentido, é a hipótese de constatação de que a instituição financeira fez incidir encargos abusivos quando da composição das parcelas, no chamado período da normalidade, pois é entendimento que essa situação acaba por dificultar que o consumidor efetue o pagamento das parcelas na data ajustada, que ainda é penalizado com a cobrança dos encargos previstos pela impontualidade.
+Sobre o tema, o Superior Tribunal de Justiça julgou os recursos repetitivos Resp. nº1.061.530/RS e Resp. nº 1.639.320-SP, respectivamente abaixo transcritos:
+ ..
+Como visto, o reconhecimento da abusividade de encargos da normalidade na ação própria ou, a probabilidade de o julgamento do mérito vir a ser nesse sentido, descaracteriza a mora contratual.
+Firmadas tais premissas, cabe analisar a situação que se enquadra a hipótese dos autos.
+No momento do ajuizamento da ação a instituição financeira afirmou a inadimplência da 5ª prestação, vencida em 06/11/2022, e requereu a busca e apreensão do bem que serve de garantia do contrato.
+Conforme narrado na petição inicial o pedido da autora/credora tem como fundamento o descumprimento do contrato de financiamento garantido com clausula de alienação fiduciária Operação nº 16411460 (evento 1 - CONTR6), firmado em 06/06/2022, no valor de R$ 36.927,00,onde as partes ajustaram a incidência da taxa de juros remuneratórios de 1,89% ao mês e de25,19% ao ano sobre o valor financiado.
+O consumidor/demandado, por sua vez, não negou a descumprimento do contrato, justificando que a inadimplência se deu em razão da cobrança de encargos abusivos pela instituição financeira.
+Todavia, constata-se a existência de ação revisional (nº 5001090-73.2023.8.21.0039) que foi julgada recentemente (sessão realizada em 29/06/2023), sob minha Relatoria, com decisão nos seguintes termos:
+ ..
+descaracterizar a mora são aqueles relativos ao chamado "período de normalidade", que são os encargos incidentes antes mesmo de configurada a mora.
+Na ação revisional, os juros remuneratórios e a capitalização foram mantidos nos termos em que contratados, assim, não há falar em descaracterização da mora na situação concreta.
+ ..
+Ao que se verifica, em se tratando de ação de busca e apreensão decorrente de contrato com garantia de alienação fiduciária, para atender a formalidade expressa no art. 2º, §2º, do Decreto-Lei nº 911/69, é suficiente que a instituição financeira comprove que a notificação por carta registrada com aviso de recebimento foi enviada para endereço do consumidor, não sendo necessário a assinatura do próprio destinatário no referido aviso.
+Essa compreensão, pela validade da prova de constituição em mora quando recebida no endereço do contrato por pessoa estranha, está em sintonia com a pacífica jurisprudência do Superior Tribunal de Justiça, conforme julgados que seguem:
+ ..
+Da análise dos documentos coligidos se confere que o pressuposto legal foi atendido, pois a instituição financeira instruiu o feito com a prova de que a carta de notificação foi enviada e recebida no mesmo endereço do comprovado no momento da contratação (evento 1 - NOT7).
+Assim, demonstrada a prévia constituição do devedor em mora e inexistindo fundamento para a sua descaracterização, torna-se cogente a manutenção da sentença que julgou procedente o pedido de busca e apreensão.
+Essas ponderações foram extraídas da análise fático-probatória e de termos contratuais. Aplicação das Súmulas 5 e 7/STJ, incidentes sobre ambas as alíneas do permissivo constitucional.
+A referência à determinação de novo julgamento da causa em outro processo, mencionada às fls. 402-409 (e-STJ), não afeta o reconhecimento da carência de prequestionamento (verbetes sumulares n 282 e 356/STF) e incidência dos óbices sumulares n. 5 e 7 deste Tribunal de uniformização.
+Isso porque os autos mencionados já foram julgados e devolvidos ao Tribunal estadual e não há prova de que eles tratem dos mesmos contratos ora em apreciação. Eventual conexão deverá ser considerada na instância inicial, com o retorno deste processo.
+Além do mais, esse fato não foi debatido na segunda instância, a evidenciar novamente a carência de prequestionamento; bem como não se observa a possibilidade de aplicação do art. 435 do CPC.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da causa, observada eventual g ratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. CONFIGURAÇÃO DA MORA DO DEVEDOR. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHCECER DO RECURSO ESPECIAL.
