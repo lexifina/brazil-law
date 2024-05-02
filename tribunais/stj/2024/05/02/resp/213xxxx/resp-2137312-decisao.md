@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdão assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IMPUGNAÇÃO À ARREMATAÇÃO. AUSÊNCIA DE INTIMAÇÃO VÁLIDA. NULIDADE CONFIGURADA. RECURSO PROVIDO.
+1. Cuida-se de Agravo de Instrumento interposto pela executada em face de r. decisão que, nos autos de Execução Fiscal, rejeitou a impugnação à arrematação. A matéria controvertida no presente recurso limita-se a determinar se houve nulidade da hasta pública e da consequente arrematação dos bens penhorados, em virtude da alegada ausência de intimação da exequente.
+2. De acordo com o disposto no art. 889, inciso I, do CPC, o executado deverá ser intimado com pelo menos 05 (cinco) dias de antecedência acerca da alienação judicial do bem penhorado, sendo o ato de comunicação feito por meio do advogado ou, se não houve procurador constituído, por carta registrada, mandado, edital ou outro meio idôneo.
+3. No caso dos autos, a parte executada não foi intimada acerca da designação da hasta pública, considerando que a intimação foi dirigida a advogado estranho ao processo, que não possuía poderes para representá-la. Desse modo, deve ser pronunciada a nulidade da alienação judicial e dos atos dela decorrentes, inclusive das arrematações.
+4. Inaplicável à espécie a previsão contida no art. 889, parágrafo único, do CPC, pois, apesar de a executada não ter constituído advogado, seu endereço era conhecido do Juízo, como revelam as diversas intimações anteriormente efetuadas por meio de Oficial de Justiça. Logo, o edital de convocação do leilão não serve de instrumento para dar ciência à executada acerca da alienação judicial.
+5. A pendência de recurso que questiona a validade da alienação impede que a arrematação se torne perfeita, acabada e irretratável, visto que o efeito devolutivo do agravo impede a preclusão da matéria.
+Precedente: STJ - Terceira Turma. AgInt no REsp n. 1.801.654/SC. Relator Ministro MOURA RIBEIRO. Julgado em 28/11/2022. DJe de 30/11/2022.
+6. Agravo de Instrumento que se dá provimento.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente aponta violação dos arts. 8º, 278, caput, 489, 889, I, 903 e 1.022 do CPC. Aduz:
+Dessa maneira, sendo a intimação por edital (da empresa cuja representante legal estava a par de tudo o que ocorria nos autos) modalidade prevista no inciso I do art. 889 do CPC para a hipótese em que não há advogado constituído nos autos, não deve a arrematação ser anulada. Além disso, consta a informação nos autos de piso de que já foi expedida a carta de arrematação, caso em que o § 4.º do art. 903 da Lei n.º 13.105/2015 impede a anulação da alienação judicial, tendo o eventual prejudicado direito apenas à reparação dos prejuízos, a serem verificados em ação autônoma.
+Contrarrazões às fls. 212-227.
+Decisão de admissibilidade à fl. 242.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.4.2024.
+O Tribunal de origem, com análise das provas constantes dos autos, reconheceu que a parte executada não foi intimada acerca da designação da hasta pública, estabelecendo-se, dessa forma, a nulidade dos atos posteriormente praticados. Nesse sentido, entendeu que (fls. 107-108) :
+Feito o histórico do trâmite processual, é possível constar que a executada foi regularmente citada e intimada das penhoras efetivadas nos autos, inclusive por meio de mandado contendo expressa advertência sobre a necessidade de constituição de advogado para eventual oposição de Embargos à Execução Fiscal (Evento 195).
+Sendo assim, de fato, não se pode afirmar que a executada, ou sua representante legal, não tinham conhecimento acerca dos atos praticados no âmbito do feito executivo, ainda que não tenham constituído advogado para representá-las no processo.
+Porém, isso não afasta a obrigatoriedade de sua intimação sobre as datas designadas para a realização da hasta pública, em virtude da expressa disposição contida no art. 889 do CPC, in verbis:
+(..) Também não é possível ignorar o evidente vício no ato de comunicação da executada, expedido em nome do advogado Dr. Francisco Azevedo Vianna (OAB/RJ nº 002429), ao qual não foram outorgados poderes para representá-la e não tem qualquer relação com o feito, tendo sido intimado, aparentemente, pelo fato de o número de sua inscrição na OAB ser similar àquele do Dr. Nair Patrocínio Vieira (OAB/RJ nº 2429-A).
+Nesse contexto, impõe-se reconhecer a nulidade do ato processual, especialmente diante do prejuízo concreto trazido à agravante, considerando que a ausência de intimação sobre a alienação judicial a impediu de praticar atos para evitar a venda do bem a terceiros, a exemplo da remição prevista no art. 826 do CPC:
+(..)
+Ressalte-se que o fundamento utilizado na r. decisão agravada para afastar a nulidade alegada pela executada não pode prosperar.
+Com efeito, o edital mencionado pelo Juízo a quo teve o propósito de convocar os interessados para participarem da hasta pública, na forma do art. 886 do CPC, e não se confunde com a intimação da executada por edital, previsto no art. 889, inciso I, do CPC.
+Apesar da regra contida no parágrafo único 1 do mencionado art. 889, a hipótese dos autos não atrai sua incidência, pois, apesar de a executada não ter constituído advogado nos autos, não se pode afirmar que seu endereço era desconhecido, diante das várias intimações previamente realizadas com sucesso (Evento 172, OUT5, fl. 26; OUT6, fls. 15/18, 67 e 80/81; e Eventos 193, 195 e 202).
+Importante mencionar, ainda, que o C. STJ já reconheceu a impossibilidade de se considerar perfeita a arrematação na pendência de recurso que questiona sua validade, não se aplicando à hipótese o art. 903, caput, do CPC.
+(..)
+No caso concreto, verifica-se que a agravante protocolou a impugnação à arrematação em 07/10/2020, ao passo que a carta de arrematação somente foi assinada pelo Juízo em 08/02/2021, sendo certo ainda que a interposição tempestiva do presente recurso obsta a preclusão da matéria.
+6. Conclui-se, portanto, que a parte executada não foi validamente intimada acerca da designação da hasta pública, considerando que a intimação foi dirigida a advogado estranho ao processo, que não possuía poderes para representá-la. Desse modo, deve ser pronunciada a nulidade da alienação judicial e dos atos dela decorrentes, inclusive das arrematações, reformando-se a r. decisão agravada.
+Ante o exposto, voto no sentido de DAR PROVIMENTO ao Agravo de Instrumento para reformar a r. decisão agravada a reconhecer a nulidade da hasta pública em que houve a arrematação dos bens penhorados nos autos originários, bem como dos atos posteriores que dela decorreram.
+Observa-se que a modificação do entendimento da instância ordinária, no que diz respeito à aferição da validade da intimação e nulidade da hasta pública, enseja o reexame do acervo fático dos autos, o que encontra óbice na Súmula 7/STJ. Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. NULIDADE DE PRAÇA E ARREMATAÇÃO. RAZÕES DEFICIENTES. INCIDÊNCIA DA SÚMULA 284 DO STF E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Em homenagem ao princípio da complementariedade, o art. 1.024, § 3º, do CPC/2015 prescreve que o órgão julgador conhecerá dos embargos de declaração como agravo interno se entender ser este o recurso cabível, desde que determine previamente a intimação da parte recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, ajustando-as às exigências do art. 1.021, § 1º, daquele diploma.
+2. As razões do especial devem exprimir, com transparência e objetividade, os motivos pelos quais o insurgente visa reformar o decisum. O recurso deve, além de indicar os dispositivos ditos violados, demonstrar o modo como o foram. Incidência da Súmula 284/STF. Precedentes.
+3. A revisão da conclusão a que chegou o Tribunal de origem acerca da legalidade da hasta pública foi firmada com base nas provas dos autos, assim, a revisão do julgado implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 5. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp 1077674 / DF; Relator Ministro Og Fernandes; Segunda Turma; DJe 14.5.2019)
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
