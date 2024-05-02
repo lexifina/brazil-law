@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BARDELLA S.A. INDÚSTRIAS MECÂNICAS - EM RECUPERAÇÃO JUDICIAL e OUTROS contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"Recuperação judicial. Impugnação de crédito apresentada pelas recuperandas julgada improcedente. Crédito em prol da agravada listado na Classe III - Quirografário, decorrente de inadimplência da relação contratual havida entre as partes. Pedido de exclusão de referido numerário habilitado, sob a alegação de que não é devido, haja vista que não houve o aceite das notas fiscais, tampouco prestação de serviços pela recorrida. Insubsistência. Administrador Judicial que analisou toda a documentação apresentada, entendendo que os valores decorrentes das notas fiscais eram devidos. Devedora que não demonstrou ausência de higidez no que fora apresentado pela impugnada. Mencionadas notas, ademais, levadas a protesto, com intimação pessoal da devedora e sem reclamo. Crédito que deve ser mantido no Quadro Geral de Credores. Agravo desprovido." (fls. 490/491)
+Os embargos de declaração opostos foram rejeitados (fls. 509/514).
+Nas razões do recurso especial (fls. 516/531), a parte recorrente alega ofensa aos artigos 8º, inciso II, e 15, inciso II, alínea "c", da Lei Federal 5.474/68 e ao artigo 21, §1º, da Lei Federal 9.492/97, sustentando, em síntese, que nenhuma das duas Notas Fiscais apresentadas referem-se a serviços efetivamente prestados, razão pela qual foram expressamente recusadas, conforme recusa fundamentada apresentada dentro do prazo legal, e que o protesto realizado é ilegal, tendo em vista que foi efetuado após o vencimento da obrigação e antes do decurso do prazo para aceite.
+Apresentadas contrarrazões às fls. 536/550.
+É o relatório. Decido.
+A irresignação merece prosperar.
+O Tribunal a quo, ao analisar as peculiaridades fáticas da demanda, consignou, de forma expressa, que restou demonstrada a legitimidade do crédito, sendo injustificada, portanto, a impugnação. É o que se observa do trecho do v. acórdão recorrido, in verbis:
+"Trata-se de impugnação de crédito promovida pelas recuperandas, objetivando a exclusão do crédito atribuído à agravada no Quadro Geral de Credores na Classe III Créditos Quirografários, no importe de R$ 1.338.010,18.
+O mencionado crédito é originário de duas notas fiscais (nº 2018/1 e nº 2018/2, págs.16/17 dos autos de origem), cujas recorrentes alegam que não houve o aceite e ausência de prestação de serviços pela recorrida, ressaltando que a recusa formal se deu menos de um dia contados do recebimento de referidas notas.
+(..)
+Conforme se depreende dos autos da Recuperação Judicial (1026974-06.2019.8.26.0224), o Administrador Judicial, após exame pormenorizado das habilitações e divergências de créditos, apresentouo seu Quadro Geral de Credores, pág. 9.193 da demanda supramencionada.
+Com efeito, fora constatada a existência, exigibilidade e liquidez do numerário referido, págs. 9.781/9.783 dos mesmos autos, o qual decorre de inadimplemento contratual por parte das recuperandas, após análise de toda a documentação apresentada, e para a elaboração do Edital com a relação dos credores, nos termos do art. 7º, "caput" e §2º, da Lei nº 11.101/05:
+(..)
+Ademais, a pretensão da credora encontra-se muito bem documentada nos autos originários - impugnação, todavia, as recuperandas não lograram êxito em comprovar, com o mínimo de elementos em sua exordial, a ausência de higidez do que fora apresentado pela impugnada, logo, há de se concluir que não merece prosperar a impugnação ofertada, devendo o crédito, em favor da recorrida, permanecer incluso no Quadro Geral de Credores da Recuperação Judicial do Grupo Bardella, na ClasseIII - Créditos Quirografários.
+Importante ressaltar que, mesmo após o protesto das notas fiscais por falta de pagamento, efetivado no 1º Tabelião de Protesto de Letras e Títulos, a devedora foi intimada pessoalmente e não ofereceu resposta, págs. 191 e 196 dos autos de primeira instância, sendo, desta forma, mais um motivo para que seja reconhecido o crédito em favor da impugnada.
+(..)
+Outrossim, verifica-se que há proposta de pagamento ofertada pelas recorrentes, reconhecendo, assim, que há numerário devido à recorrida, pág. 160 dos autos de origem." (fls. 493/500)
+Nesse contexto, impõe-se reconhecer que a alteração do que decidido pelo Tribunal de origem implicaria inadequada reapreciação do suporte fático-probatório constante dos autos, atraindo a incidência do óbice previsto na Súmula 7 do Superior Tribunal de Justiça. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DE CRÉDITO. IMPROCEDÊNCIA. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE. QUITAÇÃO DO DÉBITO. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "Os efeitos materiais da revelia não implicam automático reconhecimento ou procedência do pedido, estando na livre discricionariedade do magistrado, com base nas provas existentes nos autos, analisar se o autor efetivamente possui o direito ao que alega" (AgInt nos EDcl no AgInt no AREsp 2.212.860/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/10/2023, DJe de 16/10/2023).
+2. O Tribunal de origem consignou expressamente que as alegações das agravantes são inverossímeis e estão em contradição com as provas dos autos, uma vez que não houve comprovação da quitação dos valores impugnados. A reforma do julgado demandaria novo exame do acervo fático-probatório dos autos, providência vedada no recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.389.450/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023, g.n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. DUPLICATAS PROTESTADAS E SEM ACEITE. NOTA FISCAL DESACOMPANHADA DE COMPROVANTE DE ENTREGA DE MERCADORIA. AUSÊNCIA DE PROVA DA RELAÇÃO JURÍDICA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Nos termos da jurisprudência desta Corte, após a apresentação dos embargos à monitória e, trazendo o réu/embargante elementos suficientes para contrapor a plausibilidade das alegações que levaram à expedição do mandado de pagamento, é possível o reconhecimento pelo Tribunal de origem da inexistência da dívida.
+Precedentes. Súmula 568 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.107.217/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023., g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CRÉDITO. RECUPERAÇÃO JUDICIAL. ALTERAÇÃO DE CLASSE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias concluíram que o crédito da agravante é quirografário, não se vislumbrando estipulação de qualquer garantia real apta a autorizar a reclassificação do crédito. Desse modo, o exame da pretensão recursal exigiria o revolvimento do conjunto fático-probatório dos autos e a reinterpretação de cláusulas contratuais, o que é vedado na via especial ante os óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno não provido."
+(AgInt no REsp n. 1.450.450/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021, g.n.)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
