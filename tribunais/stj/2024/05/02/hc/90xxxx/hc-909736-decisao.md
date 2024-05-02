@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de ALEXANDRA RAQUEL VALENCA ACCIOLY em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que denegou o pedido de liminar formulado no HC n. 0810866-06.2024.815.0000.
+Consta dos autos a prisão em flagrante da paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual da paciente encontra-se despida de fundamentação idônea pois amparada na mera gravidade abstrata do delito.
+Ademais, aduz que deixou de ser observado o princípio da homogeneidade das medidas cautelares tendo em vista que, em caso de eventual condenação, a paciente será submetida a regime inicial de cumprimento da pena mais brando do que o fechado, por fazer jus ao redutor do tráfico privilegiado.
+Por fim, alega serem adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais, ou sua substituição pela prisão domiciliar.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão preventiva foi decretada com base na seguinte motivação, adotada na origem (fls. 42/43):
+Consta no APF:
+QUE no dia de hoje 26/04/204 por volta das 17:30h quando em rondas na vila da matança, na cidade de Cabedelo/PB, foi abordado um indivíduo que informou à guarnição que estaria indo comprar droga em uma casa naquela localidade, QUE o indivíduo apontou uma casa amarela no beco a esquerda, no fim do beco; QUE o individuo guiou a guanição até a referida residência, e depois disso o individuo foi liberado; QUE na frente da referida casa estava a conduzida, identificada como ALEXANDRA RAQUEL VALEÇA ACCIOLY, acompanhada de seu companheiro e ambos foram abordados; QUE na revista pessoal não foi encontrado nenhum material ilícito com eles, e em ato contínuo, ALEXANDRA liberou a entrada da guarnição em sua residência; QUE em buscas na casa foi encontrada uma bolsa com substância análoga a cocaína em cima da cama da conduzida, e outras substância análoga a maconha e SKUNK foram encontrados embaixo da cama; QUE, ainda em buscas na residência, ainda no quarto, foram encontradas diversas bolsas com objetos como celulares, totalizando 07 (sete) aparelhos, 01 (um) tablet, 01 (um) radio comunicador acompanhado do suporte e do carregador, e a quantia de dinheiro totalizando R$ 2.940,85, além de diversas embalagens plásticas, semelhantes as utilizadas para acondicionamento de entorpecentes e 02(duas) balanças de precisão; QUE ALEXANDRA assumiu a propriedade de todos objetos.
+A conclusão é que delito de tráfico ilícito de droga é bastante grave, sendo depositado em tal crime, inclusive, grande parte da origem da mazela social da violência que assola o país. Na verdade, o crime de ação múltipla ou conteúdo variado de tráfico de droga demonstra, per se, a periculosidade e a ousadia do agente de modo induvidoso, posto que está diariamente estampado nas manchetes dos jornais o legado de violência e criminalidade que rodeiam os autores deste delito. Finalmente, diante de todo exposto, verifica-se que é possível a prisão preventiva, porquanto a pena do crime doloso em tese cometido pelo segregado é superior a quatro anos (artigo 313 do CPP). Doutra banda, não é cabível a concessão da liberdade provisória, tampouco a substituição da prisão por outra medida cautelar.
+Procedendo à análise dos elementos probatórios acostados aos autos, conclui-se que estão presentes os pressupostos, as condições e os fundamentos para a decretação da prisão preventiva, de forma a impossibilitar a concessão da liberdade provisória, consoante o disposto no art. 324, IV, do Código de Processo Penal.
+Com efeito, nos termos do art. 312 do Código de Processo Penal, constituem pressupostos para a decretação da prisão preventiva a prova da existência do crime e indícios suficientes da autoria, sendo seu fundamento a garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes as condições do art. 313 do Código de Processo Penal.
+(..)
+No tocante ao fundamento legal, a prisão preventiva se justifica para garantia da ordem pública e para assegurar a aplicação da lei penal.
+Ademais, segundo alguns julgados do STJ, apresenta-se inviável a análise da ofensa ao princípio da homogeneidade em habeas corpus dada a impossibilidade de se antever a pena e o regime inicial de cumprimento a serem fixados na sentença condenatória.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
