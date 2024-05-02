@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 456):
+APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO - CONCURSO PÚBLICO - AGENTE DE SEGURANÇA PENITENCIÁRIO - EXAME PSICOTÉCNICO - DESCLASSIFICAÇÃO DO CERTAME - LEGALIDADE - PREVISÃO DO EDITAL - CRITÉRIOS - OBJETIVIDADE -RECURSO NÃO PROVIDO.
+- Ao poder judiciário é vedado apreciar no exercício do controle jurisdicional o mérito dos atos administrativos, só lhe sendo permitido o exame sua legalidade.
+- A não comprovação da aptidão revela a condição psicológica do candidato no momento da realização do exame, o que leva à sua eliminação do certame, porquanto prevista no edital.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 489, §1º incisos I, II, III, VI, §§2º e 3º do CPC/2015, ao argumento de que houve julgamento da apelação em descompasso com a realidade dos autos, tendo em vista que o caso não se trata de inaptidão/eliminação de candidato à cargo público em fase de exame psicológico, o qual foi aprovado, mas sim reprovação em "exame médico admissional, destinado a avaliar a aptidão física e mental do candidato e a compatibilidade de sua condição clínica com as atribuições do cargo" (fl. 704).
+Ressalta que "emerge nulidade decisão não fundamentada em dados concretos da demanda (como foi o caso presente no qual a decisão da apelação se valeu de IRDR nº 37 do TJMG e da Súmula 686 do STF que nada tem haver como caso em jurisdição, pois ao contrário do verberado na decisão apelação, o Recorrente não foi reprovado na 3ª etapa do certame litigado, ou seja, foi aprovado no teste psicológico." (fl. 707).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 780-783.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento da negativa de prestação jurisdicional e da contradição no julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da "contradição no julgado embargado que dissertou e jurisdicionou acerca de uma inexistente e não alegada reprovação em teste psicológico por ocasião de certame, utilizando-se de inaplicável IRDR nº 37 do TJMG" (fl. 498).
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A manifestação sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 489 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste a respeito da "contradição no julgado embargado que dissertou e jurisdicionou acerca de uma inexistente e não alegada reprovação em teste psicológico por ocasião de certame, utilizando-se de inaplicável IRDR nº 37 do TJMG" (fl. 498), nos termos da fundamentação supracitada.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGO 489 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
