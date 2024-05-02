@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO E RECURSO ADESIVO. Ação anulatória de multa condominial cc indenização por danos morais. Sentença de procedência parcial com anulação da multa, afastando os danos morais pleiteados. Insurgência da associação requerida contra a anulação da multa. Inadmissibilidade. Fragilidade das provas para sua aplicação. Insurgência do autor, em recurso adesivo, sustentando existência de dano indenizável.
+RECURSO ADESIVO DESERTO. Ausência de recolhimento das custas de preparo suficiente. Determinação judicial para recolhimento. Não atendimento. Deserção do recurso reconhecida. Inteligência do artigo 1007, § 2º do Código de Processo Civil. Honorários advocatícios majorados. Inteligência do artigo 85, § 2º do CPC. Sentença mantida. Adoção do art. 252 do RITJ. RECURSO DA REQUERIDA DESPROVIDO E DO REQUERENTE NÃO CONHECIDO." (e-STJ, fl. 343)
+Nas razões do recurso especial, a agravante alega violação ao art. 373, inciso II do Código de Processo Civil de 2015, sustentando, em síntese, que as provas dos autos não foram corretamente valoradas, tendo sido comprovada a infração praticados pelos recorridos ao perturbar as normas do sossego vigentes no loteamento fechado, tendo o próprio agravado confessado o ocorrido em mensagem de grupo de moradores.
+É o relatório. Passo a decidir.
+No tocante a suposta violação ao art. 373, II do CPC/15, a Corte de origem concluiu, diante do contexto fático dos autos, que que não foi comprovado que os ruídos tenham excedido os limites aceitáveis, in verbis:
+"Em complemento, de se ressaltar que, em regra, compete ao autor a comprovação do excesso de barulho e, no caso dos autos, não ficou suficientemente demonstrado, porém, que tenham os ruídos excedidos os níveis aceitáveis.
+Lembrando que, na prática, a grande questão consiste em determinar até que ponto existe uso normal e legítimo da propriedade ou se há abuso de direito e, para tanto, deve-se levar em consideração as regras e, principalmente, as provas apresentadas.
+Por fim, visando evitar repetição jurisdicional desnecessária, outros fundamentos demonstram-se dispensáveis diante dos aqui já deduzidos." (e-STJ, fl. 350)
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido, a fim de afirmar que a parte agravante se desincumbiu de seu ônus probatório demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANO AMBIENTAL. VIOLAÇÃO AO ART. 131 DO CPC/73. INEXISTÊNCIA. NOVA PERÍCIA, ILEGITIMIDADE ATIVA, INEXISTÊNCIA DE DANO MATERIAL E MORAL. SÚMULA 7 DO STJ. TERMO INICIAL DOS JUROS DE MORA. SÚMULA 83 DO STJ. VALOR DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7 DO STJ.
+1. O acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte agravante, o que está longe de significar violação ao art. 131 do CPC/73.
+2. Rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de matéria fática, o que é defeso nesta fase recursal ante o óbice da Súmula 7 do STJ.
+3. Em se tratando de responsabilidade extracontratual, os juros de mora em caso de indenização por dano moral incidem desde o evento danoso. Precedentes.
+4. Nos termos da jurisprudência deste Tribunal, o valor dos honorários advocatícios estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso, obstando-se a admissibilidade do especial à luz da Súmula 7 desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 816.187/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer o recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao agravado de R$ 1.200,00 (mil e duzentos reais) para R$ 1.320,00 (mil trezentos e vinte reais).
+Publique-se.
+EMENTA
