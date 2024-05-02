@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJTO, assim ementado (fls. 867-868):
+EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PRELIMINAR DE NULIDADE. INTIMAÇÃO IRREGULAR PARA INDICAÇÃO DE PROVAS. REJEIÇÃO. AÇÃO DEINDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INCÊNDIO EM PROPRIEDADE RURAL. RESPONSABILIDADE CIVIL. CURTO-CIRCUITO NA REDE ELÉTRICA. OMISSÃO NA MANUTENÇÃO. NEXO CAUSAL CONFIGURADO. DEVER DE INDENIZAR. CONSECTÁRIOS LEGAIS. RECURSO NÃO PROVIDO. SENTENÇA MANTIDA.
+1. Preliminar de nulidade da sentença afastada, porque, muito embora a intimação do despacho para manifestação acerca do interesse de produção de provas tenha sido endereçado ao patrono antigo da parte recorrente, subsequentemente houve decisão deferindo a produção de prova oral, cuja notificação foi encaminhada ao patrono indicado pela apelante. Apesar disso, a insurgente não se manifestou, para questionar a falta de intimação do despacho anterior, para indicação de provas, mas se manteve inerte, deixando operar a preclusão.
+2. A responsabilidade da concessionária de energia elétrica é objetiva, com fulcro no art. 37, §6º, da Constituição Federal, que, na qualidade de prestadora de serviço público, responde independentemente de culpa, pelos danos que houver dado causa, por ação ou omissão.
+3. Comprovado o nexo causal entre o incêndio ocasionado na propriedade do autor e a conduta da concessionária, que se omitiu quanto ao seu dever de manutenção da rede elétrica, resta caracterizada a responsabilidade civil.
+4. O montante fixado a título de danos morais, de R$ 30.000,00(trinta mil reais), não se mostra exorbitante, uma vez que os transtornos causados ao autor excederam o mero dissabor, ante o desgaste emocional em decorrência do incêndio em sua propriedade rural, sendo proporcional à extensão do dano (70,26ha de área queimada).
+5. De igual forma, os danos materiais restaram exaustivamente comprovados.
+6. Em se tratando de responsabilidade contratual, sobre o valor da indenização por danos materiais incide correção monetária desde o efetivo prejuízo e, sobre o montante reparatório por danos morais, incidem juros desde a citação. Súm. 43, do STJ, e art. 405, do CC.
+Correção de ofício.
+7. Recurso conhecido e não provido. Sentença mantida.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação dos artigos 489, §1º, IV, e 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da nulidade da intimação para especificar as provas arguida na origem, que teria ocorrido em nome do patrono anterior da recorrente, mesmo já tendo feito pedido expresso, nos autos, de que as intimações e publicações seriam "expedidas com exclusividade em nome de GEORGE OTTÁVIO BRASILINO OLEGÁRIO, OAB/PB 15.013, sob pena de nulidade, nos termos do art. 272, §5º, do CPC" (fl. 925).
+Quanto às questões de fundo, sustenta ofensa aos artigos 7º; 272, §5ºe 334 do CPC/2015, ao fundamento de que houve cerceamento de defesa, em razão da intimação à defesa para especificar as provas ter sido endereçada aos antigos patronos da recorrente, indevidamente. Ressalta que houve prejuízo à parte e que a fase instrutória, na origem, deveria ser reaberta.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 958-96 1.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão não merece prosperar.
+De início, afasta-se a alegada violação dos artigos 489, §1º, IV, e 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o Tribunal de origem rechaçou qualquer nulidade na origem, embora a intimação para produção de provas tenha sido endereçada ao patrono anterior da recorrente, pela ocorrência de preclusão, diante da inércia do novo patrono em impugnar a questão, na primeira oportunidade de se manifestar.
+Vejamos (fls. 858-859, com grifos nossos):
+Inicialmente, rejeito a preliminar de nulidade da sentença, por falta de intimação para indicação de provas.
+Com efeito, em atenta análise aos autos originários, observa-se que, muito embora a intimação do despacho para manifestação acerca do interesse de produção de provas tenha sido endereçado ao patrono antigo da parte recorrente (evento 58, origem), subsequentemente houve decisão deferindo a produção de prova oral, em audiência de instrução e julgamento, cuja notificação foi encaminhada ao patrono indicado pela apelante (evento 67, origem). Apesar disso, a insurgente não se manifestou, para questionar a falta de intimação do despacho anterior, para indicação de provas, mas se manteve inerte, deixando operar a preclusão.
+Dessa maneira, rechaçada está a preliminar.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos artigos mencionados.
+No que diz respeito à alegação de ofensa aos artigos 7º; 272, §5ºe 334 do CPC/2015, a pretensão é inadmissível, pois o recorrente não impugnou o fundamento do acórdão recorrido segundo o qual o novo patrono não se manifestou sobre a nulidade de intimação, para produção de provas, na origem, na primeira oportunidade de se manifestar, acarretando a preclusão da questão (fl. 859) . Essa situação enseja a aplicação da Súmula 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO DOS ARTS. 489, §1º, IV, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. NULIDADE. INTIMAÇÃO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONHEÇO PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
