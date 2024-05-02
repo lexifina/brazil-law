@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ATLANTIDA REPRESENTACOES COMERCIAIS LTDA à decisão de fls. 266/267, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No que diz respeito ao mérito, embora a guia não tenha sido formalmente apresentada nos autos-diga-se que por equívoco, o recolhimento do preparo foi realizado, o que se verifica no documento que segue em anexo.
+Ademais, embora no passado a apresentação do documento fosse necessária para comprovar o recolhimento do preparo, nos dias atuais, frente aos avanços tecnológicos dos sistemas operacionais, a identificação do pagamento ocorre (ou deveria ocorrer) de forma eletrônica, o que, com todas as vênias, supera o enunciado da Súmula 187 do STJ.
+Além disso, antes de se reconhecer a correlata deserção, segundo descreve o art. 1.007, § 4º do CPC, a parte deve ser intimada para comprovar o pagamento do preparo recursal, em dobro, sob pena de não se reconhecer o recurso (fl. 270).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que a petição de recurso especial foi protocolada, na origem, sem o o comprovante de pagamento, apesar de presente a guia de recolhimento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando-se a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+No caso, mesmo após a intimação da parte para sanear o vício (fl. 212), não houve a devida regularização, uma vez que que apresentou recolhimento de custas destinadas ao tribunal de origem, mas não a esta Corte (fls. 216/219).
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Ademais, ao contrário do alegado pela parte, quando intimada para recolher as custas nos termos do art. 1.007 do CPC, a parte deve estar atenta à sua correta comprovação, uma vez que não há previsão legal para que uma nova intimação seja efetuada a fim de sanar novo vício decorrente dessa tentativa de regularizar o óbice.
+Somente agora, em sede destes aclaratórios a parte trouxe o devido comprovante de pagamento e a guia de recolhimento com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 26/11/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
