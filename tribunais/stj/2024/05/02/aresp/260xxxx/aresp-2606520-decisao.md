@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por ESPÓLIO DE RONALDO RODRIGUES DE AZEVEDO, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 818):
+"Ação de indenização por danos materiais e morais cumulada com pedido de lucros cessantes" Sentença que julgou improcedentes os pedidos autorais.
+Apelação da parte autora.
+Defeitos apresentados por veículo zero quilômetro, cerca de nove meses depois de sua retirada da concessionária.
+Laudo pericial conclusivo no sentido de que, do ponto de vista técnico, não foi detectada qualquer falha na prestação dos serviços e/ou defeito de fabricação.
+Prova dos autos que apontam para o fato de que todos os defeitos apresentados no veículo cobertos pela garantia contratual foram reparados, em tempo razoável e sem custo, e os gastos que o autor teve referem-se à manutenção periódica, que devem ser suportados pelo respectivo proprietário, inexistindo qualquer amparo legal para o pedido de restituição.
+No que diz respeito ao pedido de indenização pelos lucros cessantes, a parte autora não se desincumbiu do ônus que lhe cabia - nos termos do artigo 373, I, CPC - uma vez que pelas provas produzidas não restou demonstrada que a desvalorização do veículo se encontra vinculada aos defeitos apresentados.
+Por sua vez, não caracteriza dano moral o aborrecimento envolvendo o retorno do automóvel à concessionária para a solução dos problemas narrados, já que tais fatos não chegam a configurar ofensa a direitos da personalidade, de modo a justificar a compensação por danos morais.
+Recurso não provido.
+Honorários recursais.
+Opostos embargos de declaração, restaram rejeitados às fls. 855/857.
+Nas razões do recurso especial, a agravante alega violação aos arts. 1.022, II e 373, I do CPC/15. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que o acórdão, equivocadamente, entendeu que o recorrente não teria demonstrado os fatos constitutivos de seu direito, pois "o laudo pericial sequer conseguiu elucidar os pontos incontroversos da ação, notadamente àqueles relativos aos vícios do veículo" (fl. 866).
+É o relatório.
+De início, não se vislumbra a alegada violação ao artigo 1.022 do CPC de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer deficiência de fundamentação, omissão, obscuridade ou contradição no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Ademais, quanto à alegada ofensa ao artigo 373, I, do CPC/15, a Corte de origem, com base no lastro probatório colacionado aos autos, verificou que a parte recorrente não demonstrou a desvalorização do veículo para subsidiar o pedido de lucros cessantes, como se verifica do trecho do acórdão a seguir (fl. 831):
+"No que diz respeito ao pedido de indenização pelos lucros cessantes, a parte autora não se desincumbiu do ônus que lhe cabia - nos termos do artigo 373, I, CPC - uma vez que pelas provas produzidas não restou demonstrado que a desvalorização do veículo se encontra vinculada aos defeitos apresentados.
+Pela análise dos autos e, em especial, pelo laudo pericial, é possível concluir que a desvalorização do veículo está atrelada a diversos fatores, tendo especial relevância a quilometragem do carro. De um modo geral, quanto mais rodado for o carro, mais ele tende a gerar mais gastos com manutenção e peças de reposição e, por isso, é natural sua desvalorização.
+Note-se que a vulnerabilidade do consumidor não o isenta da obrigação de produzir prova mínima de suas alegações, se a comprovação está ao seu alcance. Não existe presunção absoluta de verdade inerente ao status de consumidor, entendimento este assentado no Enunciado n.º 330 da Súmula de Jurisprudência desta Corte
+(..)
+Nesse sentido, no que tange ao pedido de indenização por lucros cessantes, entendo pela manutenção da sentença que julgou improcedente o pedido."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir a configuração de lucros cessantes no caso concreto demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. ATRASO. ENTREGA. LUCROS CESSANTES. IMÓVEL. DESVALORIZAÇÃO. PROVA. SÚMULAS NºS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Na hipótese, rever questão decidida com base na interpretação das normas contratuais e no exame das circunstâncias fáticas da causa esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% (doze por cento) para R$ 13% (treze por cento) sobre o valor da causa.
+Publique-se
+EMENTA
