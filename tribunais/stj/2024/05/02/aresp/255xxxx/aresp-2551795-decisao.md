@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por ELZE DA SILVA TEIXEIRA contra v. acórdão do eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+CONSUMIDOR E PROCESSO CIVIL - A Ç Ã O DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C INDENIZAÇÃO POR DANO MORAL E MATERIAL - SENTENÇA IMPROCEDENTE - RECURSO DA A U T O R A - CONTRATAÇÃO REALIZADA POR M E I O D E ASSINATURA DIGITAL - SELFIE TIRADA PELA DEMANDANTE NO MOMENTO DA CONTRATAÇÃO - CONFIRMAÇÃO DE E N V I O D E DOCUMENTO PESSOAL COM F O T O - DOCUMENTOS DE CONTRATAÇÃO ACOSTADOS COM INFORMAÇAO DE DATA E HORA DE CELEBRAÇÃO, GEOLOCALIZAÇÃO E IP - VALIDADE DA CONTRATAÇÃO - CRÉDITO EM BENEFÍFIO DA APELANTE - AUSÊNCIA DE CONDUTA ILÍCITA DO BANCO - DANO MORAL OU MATERIAL NÃO CONFIGURADO - SENTENÇA MANTIDA - R E C U R S O CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 6º, do Código de Defesa do Consumidor, bem como ao 373, inciso II, do Código de Processo Civil de 2015. Sustenta, em síntese, que não houve contratação do empréstimo bancária, mas, sim, fraude, o que enseja reparação pelos danos suportados pela consumidor.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+Nos termos da inicial, , a autora sustentou jamais ter contratado com o réu tendo, no entanto, visualizado descontos indevidos em seu benefício previdenciário no valor mensal de R$ 38,30, oriundos de um suposto contrato de empréstimo nº 629695077, no valor de R$ 1.601,84.
+Ingressou então com a presente ação para fins de declaração de inexistência de débito, restituição dos descontos e indenização por danos morais.
+Após sentença improcedente dos pedidos, a autora interpôs o presente recurso, com as razões já elencadas.
+A discussão trazida nos autos consiste em aferir o direito à compensação pelos danos materiais e morais sofridos em razão dos descontos efetuados no benefício previdenciário do autor em decorrência de um contrato de empréstimo consignado, o qual o demandante reputa indevido, alegando que não se recorda de o ter celebrado.
+No que diz respeito à suposta ausência dos elementos caracterizadores da responsabilidade civil, tenho que é certa a existência da relação de consumo, equiparando-se a parte autora a consumidor, conforme art. 17 do CDC, devendo a questão debatida nos autos ser analisada, portanto, sob a ótica da responsabilidade objetiva, independentemente de culpa, consoante prescreve o art. 14 do mesmo diploma legal:
+(..)
+Do exame dos autos, verifico que houve a juntada de documentos, pela parte requerida em 09/08/22, que trouxe como prova de adesão ao contrato a assinatura eletrônica certificada pela BRy Tecnologia, com captação de selfie da parte contratante, envio de documento pessoal, bem como a respectiva geolocalização.
+Observa-se, ainda, que na respectiva contratação é possível ainda identificar compatibilidade de todos os dados do contrato com a da parte autora, como RG, CPF e Comprovante de endereço, já que a geolocalização indica a cidade de Estância-SE, onde a autora reside.
+Os esclarecimentos trazidos pela Instituição bancária são extremamente convincentes não deixando dúvida razoável quanto a defesa do banco, ressaltando que, para a celebração de negócios jurídicos, como a contratação de empréstimo, por exemplo, não é da essencialidade do ato, a exigência de qualquer formalidade.
+Na atualidade, diante do aumento do volume da demanda por serviços dessa natureza e das necessidades da vida moderna, exige-se que as transações ocorram de forma cada vez mais célere, não necessitando de contratos formais firmados pelas partes para que seja comprovada a existência da relação jurídica. Ressalvado, quando há, especificamente, preceito legal para que determinado ato seja revestido de formalidade, o que não é o caso.
+É cediço que usualmente a contratação de serviços de telefonia/internet/tv a cabo/empréstimos bancários, são, geralmente, realizadas sem o uso de papel.
+Assim, outros elementos, que não os instrumentos formais, podem comprovar a existência da relação jurídica entre as partes, tais como as telas de computador, extratos ou relatórios impressos, que representam arquivos contábeis ou documentais das empresas, e no caso específico, os dados pessoais da autora, cópia da carteira de identidade e ainda a sua fotografia (selfie), corroborando o contexto fático alegado pelo recorrido.
+O contrato eletrônico é válido diante dos dados de segurança apresentados nos documentos da contestação.
+Registre-se, por oportuno, que a instituição financeira demonstrou o crédito de R$ 1.601,84 em conta corrente da autora, oriundo da contratação, conforme documento anexado com a defesa - vide fls. 103.
+Frise-se que quando da manifestação à contestação a apelante não controverteu a TED de fls. 103 e o recebimento do crédito.
+Ademais, a autora poderia, sem qualquer dificuldade, anexa seu extrato bancário para eventual demonstração da alegada ausência do crédito de fls. 103. Contudo, não controverteu ou produziu prova contratária à documento anexada pelo banco, nos termos do art. 350 CPC.
+Observo que a própria INSTRUÇÃO NORMATIVA do INSS nº 28/2008, atualmente, permite autorização/contratos eletrônicos para os consignados.
+Art. 3º Os titulares de benefícios de aposentadoria e pensão por morte, pagos pela Previdência Social, poderão autorizar o desconto no respectivo benefício dos valores referentes ao pagamento de empréstimo pessoal e cartão de crédito concedidos por instituições financeiras, desde que:
+..
+III - a autorização seja dada de forma expressa, por escrito ou por meio e em caráter irrevogável e irretratável, não sendo aceita autorização dada eletrônico por telefone e nem a gravação de voz reconhecida como meio de prova de ocorrência.
+Por fim, o fato do correspondente bancário ter sede em outro estado não é fato suficiente para descontituir a prova do banco, na medida que prepostos dos correspondentes bancários são capilarizados pelo interior de todos os Estados na prestação do serviço bancário, conforme demonstra-se a prática forense na apreciação desta espécie de demanda - art. 375 CPC.
+Dentro desse contexto probatório, concluo que a parte requerida comprovou a restando evidenciada a regular prestação dos serviços contratação impugnada, pelo banco.
+Isso porque, mesmo diante da possibilidade de aplicação da inversão do ônus da prova prevista no art. 14, §3º, do CDC, incumbe à parte que se diz lesada a demonstração mínima de prova do fato constitutivo do direito alegado, conforme impõe o art. 373, inciso I, do Código de Processo Civil.
+No caso sob análise, os elementos probatórios angariados não são favoráveis à autora, uma vez que houve a demonstração de que o serviço foi solicitado e fornecido.
+Frise-se, por oportuno, não caber à parte autora a comprovação de que não pactuou com a parte requerida pois, em se tratando de fato negativo, incumbe à ré, que invoca a existência de contratação válida e eficaz, provar o fato impeditivo do direito autoral, nos termos do artigo 373, inciso II, do CPC, demonstrando cabalmente a existência do contrato efetuado pela própria requerente.
+Nesse passo, havendo a prova do negócio firmado entre as partes, entendo que a parte requerida agiu no exercício de regular direito ao proceder com os descontos impugnados.
+Assim, não há que se falar em inexistência do débito, em repetição de indébito, em ilegalidade na cobrança e em ocorrência de dano moral, devendo ser mantida a sentença que julgou improcedente o pleito autoral.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu pela regularidade da contratação do empréstimo consignado, afastando o alegado dano moral.
+Sendo assim, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. PLANO DE SAÚDE. DESCONTOS INDEVIDOS. LEGITMIDADE PASSIVA. RECONHECIMENTO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PROCEDÊNCIA. REEXAME DAS QUESTÕES. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. RAZÕES RECURSAIS INSUFICIENTES. 3. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca da legitimidade da operadora e a ocorrência de descontos ilegítimos do beneficiário) demanda reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo também o caso de revaloração das provas.
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.168.177/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Por fim, a incidência da Súmula 7/STJ pela alínea "a" também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, §11, do CPC/2015, majoro os honorários advocatícios de 12% para 13% sobre o valor atualizado da causa, observando eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
+EMENTA
