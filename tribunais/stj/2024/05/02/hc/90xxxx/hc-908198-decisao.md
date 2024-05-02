@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Apelação criminal. Tráfico de drogas. Artigo 33, caput, da Lei nº 11.343/06. Recursos defensivos. Absolvição por insuficiência de provas incabível. Materialidade e autoria suficientemente demonstradas. Idoneidade dos testemunhos dos policiais, colhidos sob o crivo do contraditório, em consonância das demais provas. Desclassificação para o delito previsto no artigo 28 da Lei de Drogas inviável, ante a comprovação da traficância. Dosimetria. Redutor do artigo 33, § 4º, da Lei n.º 11.343/06 corretamente não aplicado, para ambos os réus, em face da dedicação à atividade criminosa de Pablo e reincidência de Alzira. Regime fechado, o mais adequado para a espécie, não obstante primariedade de Pablo, ante a gravidade em concreto da infração e reincidência de Alzira. Custódia necessária para manutenção da ordem pública. Detração a ser apreciada pelo Juízo das Execuções. Negado provimento aos recursos.
+A paciente foi condenada, com um corréu, pela prática do crime de tráfico ilícito de entorpecentes.
+A defesa alega em síntese: a) "as declarações da paciente, bem como as circunstâncias da apreensão indicam que não se tratou de comércio ilegal de entorpecentes, mas uma situação de posse para uso pessoal" (e-STJ fl. 5); b) com a paciente teriam sido apreendidas apenas três pedras de crack e três pinos de cocaína; e c) "o fato, por si só, de a droga estar embalada para a venda não pode ser considerado como indício de prática da conduta tipificada no artigo 33 da Lei de Drogas, uma vez que dessa forma também é comprada pelo usuário" (e-STJ fl. 8).
+Ao final, requer a concessão da ordem para "a desclassificação do delito previsto no artigo 33, caput, da Lei nº. 11.343/06, para o tipo capitulado no artigo 28 da mesma lei" (e-STJ fl. 9).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Com efeito, o Tribunal de origem, instância adequada à análise do acervo fático probatório, assim solucionou a controvérsia ora devolvida a esta Corte:
+Consta, outrossim, que no dia 25 de agosto de 2023, por volta de 20h57min, na Rua Antônio Franco de Lima, Nº1489, Bosque dos Lenheiros, na cidade e comarca de Piracicaba, Alzira Jacqueline Ribeiro Cândido e Pablo Henrique Rodrigues, agindo em concurso e unidade de desígnios, traziam consigo 112 porções de cocaína e 92 porções de "crack", destinadas à mercancia ilícita ou entrega de qualquer forma a consumo de terceiras pessoas, substância entorpecente que determina dependência física ou psíquica, sem autorização e em desacordo com determinação legal e regulamentar.
+Segundo restou apurado, os denunciados associaram-se para a prática do crime de tráfico ilícito de drogas. Assim, dividiram-se as funções da seguinte maneira: a ré era responsável pela aquisição e entrega da droga para o réu que, por sua vez, tinha como função vendê-las no local dos fatos.
+Assim, no dia dos fatos, os réus foram ao local conhecido como "trio" para praticarem tráfico ilícito de drogas. Quando os policiais se aproximaram do local, ouviram gritos "molhou, molhou", o que lhes chamou a atenção.
+Ao serem alertados, os réus empreenderam fuga a pé, rumo ao campo de futebol, mas foram perseguidos e abordados. Em poder do réu foram localizadas 104 porções de cocaína e 79 porções de crack e em posse da ré foram encontradas oito porções de cocaína e treze de crack, além da quantia de R$ 15,00 em espécie.
+(..)
+O réu, em fase inquisitiva, afirmou já ter pego drogas na casa da ré para vender e recebe dinheiro dela por seu serviço. Em juízo afirmou que as drogas da pochete haviam sido dispensadas por um menino ao avistar a chegada dos policiais, bem como reafirmou já ter vendido drogas para Alzira, que mora no vestiário.
+A corré, por sua vez, afirmou que as drogas pertenciam a Pablo.
+Ambos afirmaram que apenas estavam no local para consumir drogas.
+A versão dos réus foi contraditória, cada um querendo atribuir a propriedade das drogas ao outro, afirmando serem meros usuários.
+As drogas estavam embaladas em porções prontas para a venda.
+O local onde estavam é conhecido como ponto de venda de entorpecentes. Correram ao serem avisados por um olheiro acerca da presença da polícia.
+Com Alzira foi achado dinheiro em espécie, sem comprovação de sua origem lícita.
+Os réus foram alertados por um olheiro que teria gritado "molhou" ao avistar a polícia, procedimento corriqueiro nos pontos de tráfico.
+Já a versão dos policiais foi coesa tanto em fase inquisitiva quanto em juízo.
+Ressaltando o já transcrito, consigna-se que os policiais estavam em patrulhamento, quando escutaram alguém gritar "molhou". O casal, que estava na calçada, próximo ao acesso do campo de futebol, se evadiu. Seu parceiro conseguiu abordar Pablo, no vestiário, e ela Alzira, no campo. Em revista pessoal, com Pablo, havia uma pochete com drogas. Com Alzira, havia droga e dinheiro no sutiã.
+Restou evidenciada a parceria dos réus na prática do tráfico.
+Como se vê, o voto condutor do acórdão atacado aponta elementos probatórios suficientes para a caracterização do tráfico ilícito de entorpecentes, que se não se compatibilizam com a pretensão defensiva de desclassificação do ilícito para aquele tipificado no artigo 28 da Lei de Drogas.
+Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise ampla do acervo fático-probatório, o que impede a atuação excepcional desta instância, sobretudo na presente via.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
