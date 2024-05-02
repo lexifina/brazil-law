@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MARCONI HOLANDA MENDES contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação de execução. Prescrição intercorrente. Feito ajuizado antes da vigência do NCPC. Interposição de recurso exclusivamente pelo advogado. Descabimento de condenação do exequente ao pagamento de honorários advocatícios. Precedentes. Consideração do princípio da causalidade, sendo que é o inadimplemento do executado que dá causa ao processo. Justiça gratuita . Deferimento apenas ao recorrente, não extensível ao executado. Recurso parcialmente provido."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões de recurso especial, a parte agravante alegou violação dos art. 85, §§1º e 2º, do CPC/2015, defendendo o cabimento da condenação em honorários advocatícios no caso de extinção do processo pelo reconhecimento da prescrição intercorrente, pelo fato de a parte exequente ter dado causa à extinção e ao incidente necessário para a declaração da prescrição.
+Contrarrazões apresentadas às fls. 625-636 (e-STJ).
+É o relatório. Decido.
+No tocante à pretensão de condenação da parte exequente ao pagamento de honorários advocatícios, é inviável o provimento do recurso especial.
+De início, cumpre destacar que o Tribunal de origem confirmou o descabimento da condenação da parte exequente em honorários advocatícios pela extinção da execução fundamentada na prescrição intercorrente.
+A sentença que extinguiu o processo foi prolatada em 14/10/2021, posteriormente à vigência da nova redação do §5º do art. 921 do CPC/2015, conferida pela Lei n. 14.195/2021 (DOU 27/8/2021), no sentido literal de que o reconhecimento da prescrição intercorrente não acarretará ônus para as partes.
+Além disso, conforme entendimento consolidado pela Corte Especial, "mesmo na hipótese de resistência do exequente - por meio de impugnação da exceção de pré-executividade ou dos embargos do executado, ou de interposição de recurso contra a decisão que decreta a referida prescrição -, é indevido atribuir-se ao credor, além da frustração na pretensão de resgate dos créditos executados, também os ônus sucumbenciais com fundamento no princípio da sucumbência, sob pena de indevidamente beneficiar-se duplamente a parte devedora, que não cumpriu oportunamente com a sua obrigação, nem cumprirá" (EAREsp n. 1.854.589/PR, relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 9/11/2023, DJe de 24/11/2023).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. LEI N. 14.195/2021. ALTERAÇÃO DO ART. 921, § 5º, DO CPC. SENTENÇAS PROLATADAS APÓS 26/8/2021. VEDAÇÃO À CONDENAÇÃO AO PAGAMENTO DE CUSTAS E HONORÁRIOS DE SUCUMBÊNCIA PELO RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. SENTENÇAS PROLATADAS ANTES DA LEI N. 14.195/2021. ÔNUS SUCUMBENCIAIS SUPORTADOS PELO DEVEDOR. PRINCÍPIO DA CAUSALIDADE. CASO CONCRETO. CONDENAÇÃO DO EXEQUENTE AO PAGAMENTO DE HONORÁRIOS PELA SENTENÇA. NÃO INTERPOSIÇÃO DE RECURSO PELO EXEQUENTE. PRETENSÃO DE MAJORAÇÃO DA VERBA. IMPOSSIBILIDADE. PRINCÍPIO DA NON REFORMATIO IN PEJUS. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. No caso de reconhecimento da prescrição intercorrente, embora o princípio da causalidade não afaste a fixação dos honorários em desfavor do devedor, não atrai a sucumbência para o exequente.
+2. Quando a sentença que extingue a execução em razão do reconhecimento da prescrição intercorrente é prolatada após 26/8/2021 - data da entrada em vigor da Lei n. 14.195/2021, que alterou o art. 921, § 5º, do CPC -, não cabe mais a condenação ao pagamento de custas e honorários de sucumbência.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.366.015/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 27/11/2023, DJe de 30/11/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PREVISÃO EXPRESSA DO ART. 921, § 5º, DO CPC. RESISTÊNCIA DO EXEQUENTE. SUPREMACIA DO PRINCÍPIO DA CAUSALIDADE.
+1. O reconhecimento da prescrição intercorrente afasta o cabimento dos honorários em desfavor do exequente, sob pena de ofensa ao princípio da causalidade, uma vez que o ajuizamento da ação por parte do credor decorre do descumprimento do devedor de adimplir sua obrigação. Precedentes.
+2. Ademais, a teor da nova redação do art. 921, § 5º, do CPC, a extinção da execução em razão do reconhecimento da prescrição intercorrente afasta a fixação da verba honorária.
+3. "A resistência do exequente ao reconhecimento de prescrição intercorrente não infirma nem supera a causalidade decorrente da existência das premissas que autorizaram o ajuizamento da execução, apoiadas na presunção de certeza, liquidez e exigibilidade do título executivo e no inadimplemento do devedor" (EAREsp n. 1.854.589/PR, relator Ministro Raul Araújo, Corte Especial, DJe de 24/11/2023).
+Agravo interno improvido.
+(AgInt no REsp n. 1.947.981/SP, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 26/2/2024, DJe de 29/2/2024.)
+Desse modo, constatada a conformidade do acórdão recorrido com o entendimento desta Corte, é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
