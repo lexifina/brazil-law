@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLAUDIANO BARBOSA DOS SANTOS. Foi determinada a intimação da Defensoria Pública do Estado de São Paulo para juntar aos autos os documentos faltantes (e-STJ fl. 14).
+Por meio da Petição 00850597/2023 (e-STJ fls. 20-21), a Defensoria alega que "tendo em vista a natureza da ação constitucional de habeas corpus e para preservar os interesses do paciente, solicitamos, nos termos do art. 201 do RISTJ, sejam requisitadas as necessárias informações" (e-STJ fl. 20).
+Após a apresentação de informações pela corte de origem, a Defensoria Pública do Estado de São Paulo aduziu o seguinte: "o pedido mais se assemelha a pedido de revisão criminal, que deve ser processada pelo E. Tribunal de Justiça do Estado de São Paulo, razão por que solicitamos a remessa da inicial àquela Corte." (e-STJ Fl.94)
+De fato, considerando-se a envergadura constitucional do direito de postulação de "habeas corpus" e o fato de se tratar de impetração de próprio punho, há de se atender a cota ministerial, motivo pelo qual declaro a incompetência desta corte para o conhecimento do pleito e determino a remessa dos autos para o Tribunal de Justiça de São Paulo para que o presente pedido seja conhecido na forma de revisão criminal.
+EMENTA
