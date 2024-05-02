@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por WELLINGTON CAVALCANTE DE OLIVEIRA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de compensação por danos morais, ajuizada pelo agravante, em face de AGEMED SAUDE LTDA EM LIQUIDACAO EXTRAJUDICIAL e de HAPVIDA ASSISTENCIA MEDICA S.A., na qual alega que realizou cirurgia de catarata em 2019 e que precisou fazer mais uma cirurgia para implantação de lente intraocular, ou seja, uma lente artificial que substitui a lente natural do olho. Afirmou que o procedimento seria realizado em janeiro de 2020 na Clínica Olhos e que já havia feito todos os exames pré-operatórios necessários para a cirurgia. Sustentou que foi informado que a Clínica Olhos havia sido descredenciada pela operadora de saúde, Agemed Saúde S.A., quando entrou em contato para agendar o procedimento.
+Por derradeiro, defendeu que o descredenciamento da Clínica Olhos ocorreu enquanto o tratamento ainda estava em curso e sem que fosse informado do descredenciamento pela operadora do plano de saúde.
+Acórdão recorrido: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. ÔNUS DA PROVA. INVERSÃO. IMPOSSIBILIDADE. VEROSSIMILHANÇA. ALEGAÇÕES. HIPOSSUFICIÊNCIA. INEXISTÊNCIA. FATOS CONSTITUTIVOS. COMPROVAÇÃO. AUSÊNCIA. PLANO DE SAÚDE. DESCREDENCIAMENTO. UNIDADE HOSPITALAR EQUIVALENTE. EXISTÊNCIA. DANO MORAL. INOCORRÊNCIA.
+1. O ônus da prova recai sobre o autor acerca dos fatos constitutivos de seu direito. É ônus do réu comprovar os fatos impeditivos, modificativos ou extintivos do direito do autor. O ônus probatório do réu é, portanto, subsidiário.
+Apenas quando o autor se desincumbe de seu próprio ônus probatório é que surge o ônus que incumbe ao réu.
+2. A inversão do ônus da prova é uma ferramenta processual que tem como pressuposto o reconhecimento da hipossuficiência do consumidor no caso concreto e a verossimilhança de suas alegações. Objetiva minimizar as consequências de sua vulnerabilidade e promover o equilíbrio no debate processual.
+3. A ausência de circunstâncias que justifiquem a inversão do ônus da prova impede que seja imputado ao réu o ônus probatório que incumbe ao autor.
+4. O descredenciamento de unidade hospitalar é possível, desde que preenchidos os requisitos previstos no art. 17 da Lei n. 9.656/1998, quais sejam, a prévia comunicação aos usuários e à Agência Nacional de Saúde, bem como à substituição por entidades e profissionais equivalentes.
+5. Inexiste o ato ilícito, bem como dano moral, quando o plano de saúde disponibiliza rede hospitalar similar à descredenciada na qual o beneficiário foi prontamente atendido.
+6. Apelação desprovida. (e-STJ, fls. 359/360) (grifo nosso)
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial, em razão da:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo diverso de lei federal (art. 93, IX, da CF/88); e
+ii) incidência da Súmula 7/STJ (arts. 6º, VIII, e 14, ambos da Lei 8.078/90).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante, além de reiterar as razões do recurso especial, aduz que "(..) na hipótese, o desígnio único relativo à incorreta qualificação jurídica dos fatos, trata-se, por isso, de examinar-se matéria de direito a afastar o óbice aplicado da Súmula 7 do TST." (e-STJ, fl. 478). Além disso, assevera "(..) que o agravante buscou a condenação das agravadas por não cumpriram o que determina o artigo 17 da Lei 9656/98, que exige a comunicação prévia ao consumidor quando houver o descredenciamento de clínica durante tratamento médico." (e-STJ, fl. 478).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: inadmissibilidade de recurso especial fundamentado em violação de dispositivo dive rso de lei federal (art. 93, IX, da CF/88) e incidência da Súmula 7/STJ (arts. 6º, VIII, e 14, ambos da Lei 8.078/90).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado das partes agravadas em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa (e-STJ fl. 376) para 16%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
