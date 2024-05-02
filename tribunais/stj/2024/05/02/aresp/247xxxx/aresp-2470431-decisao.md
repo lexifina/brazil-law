@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. BENEFICIÁRIA DO PLANO DE SAÚDE. INTERNAÇÃO DE URGÊNCIA/EMERGÊNCIA. COMPROVAÇÃO DA NECESSIDADE DO PROCEDIMENTO. CORONAVÍRUS. OPÇÃO DO USUÁRIO POR REALIZAR O TRATAMENTO EM HOSPITAL E POR PROFISSIONAIS NÃO CREDENCIADOS. NÃO COMPROVAÇÃO DE INEXISTÊNCIA DE DISPONIBILIDADE DO TRATAMENTO NA ÁREA DE COBERTURA CONTRATUAL. REEMBOLSO LIMITADO À TABELA DE PROCEDIMENTO DO PLANO DE SAÚDE. ARTIGO 12,VI, DA LEI Nº 9.656/98.
+I - Conforme a súmula 608 do Superior Tribunal de Justiça, o Código de Defesa do Consumidor é aplicável aos contratos de plano de saúde.
+II - Se o tratamento indicado por profissional médico garante a saúde e a vida do paciente, caracterizada está a situação de urgência/emergência, que autoriza a parte segurada a buscar a assistência médica adequada em hospital não credenciado ao seu plano de saúde.
+III - Para que o usuário do plano de saúde tenha direito ao reembolso integral das despesas médico-hospitalares em hospital e por profissionais não credenciados, é necessário conjugar-se a ocorrência da situação de urgência e emergência, com a impossibilidade de utilização da rede credenciada, em decorrência da necessidade de um atendimento célere, ou da indisponibilidade do tratamento nos hospitais locais, o que não restou evidenciado no caso em comento.
+IV - No caso de o consumidor optar pelo tratamento em hospital e profissionais não credenciados, e não comprovar a indisponibilidade do tratamento na área de cobertura ou abrangência contratual, o reembolso deve limitar-se à tabela de procedimentos da própria operadora, porque representa o que o plano de saúde arcaria se o procedimento tivesse sido realizado no hospital e por profissionais credenciados.
+V - Considerando que o valor a ser pago ao apelado será apurado na fase de liquidação de sentença, nos termos do art. 85, § 4º, II do CPC, a definição do valor dos honorários sucumbenciais ocorrerá quando liquidado o julgado, ficando para ser apurado em sede de liquidação de sentença o valor da restituição e a distribuição das verbas sucumbenciais quando do julgamento daquele incidente. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E PARCIALMENTE PROVIDO"
+Opostos embargos de declaração, foram rejeitados.
+A parte, em seu recurso especial, aponta, além de divergência jurisprudencial, violação ao art. 12, inciso VI, da Lei 9.656/98, sustentando que não ficou demonstrada a urgência do procedimento realizado, de modo que o reembolso, ainda que limitado, é indevido.
+Contrarrazões fls. 751/756 e-STJ.
+Juízo de admissibilidade proferido às fls. 760/763 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Ao contrário do que alegado p ela agravante, o Tribunal local, com base no acervo probatório dos autos, reconheceu expressamente a urgência do procedimento realizado na parte agravada, de modo que a pretensão de alteração dessa premissa, por demandar o reexame do contexto fático-probatório dos autos, esbarra no óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
