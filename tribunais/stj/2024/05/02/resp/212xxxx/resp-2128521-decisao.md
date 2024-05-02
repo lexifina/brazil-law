@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 112/113):
+EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO DE VEÍCULO. QUITAÇÃO. REVISÃO. POSSIBILIDADE. PRECEDENTES DO STJ. SERVIÇOS DE TERCEIROS. REPETIÇÃO DE INDÉBITO. ALEGAÇÃO DE ABUSIVIDADE DO VALOR. TEMA 958/STJ. VALIDADE DA COBRANÇA. PRESCRIÇÃO DA PRETENSÃO. CONTRATO DE TRATO SUCESSIVO. PRAZO GERAL DO ART. 205 DO CC/2022. TERMO INICIAL A CONTAR DA ÚLTIMA PARCELA VENCIDA. MÁ-FÉ DO RECORRENTE. NÃO CONFIGURADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA REFORMADA EM PARTE.
+I. Trata-se de recurso de apelação interposto por Pedro da Silva Bezerra em face da sentença proferida pelo MM. Juiz de direito da 16ª Vara Cível da Comarca de Fortaleza, que julgou extinta a Ação Revisional ajuizada pelo ora apelante, com fundamento no art. 487, II do CPC, pela suposta ocorrência da prescrição contada da assinatura do contrato.
+II. Nesse debate, cinge-se a controvérsia sobre o lapso temporal a ser considerado para fins de contagem da prescrição para propositura de ações que versem sobre a revisão de cláusulas consideradas abusivas em contratos de prestação continuada.
+III. Compulsando os autos, verifica-se que o autor juntou o contrato firmado com o banco o qual fora assinado em 18/05/2010 e cujo objeto foi o financiamento de veículo, ficando avençado entre as partes que o pagamento das prestações se daria em 60 parcelas, com a primeira iniciando-se em 17/06/2010 e a última em 17/05/2015.
+IV. A partir das datas entabuladas no contrato, as partes recorrentes divergem acerca do prazo prescricional aplicado ao caso concreto, ora alegando ser o trienal, com fundamento no art. 206, § 3º, IV, ora o decenal, contido no art. 205 do CC, além de se cogitar a possibilidade da aplicação do prazo prescricional contido no art. 27 do CDC. No entanto, o STJ possui entendimento pacificado sobre a aplicação do prazo geral (10 ANOS) para os casos assemelhados à presente lide, portanto, dado o caráter cogente e vinculante das decisões proferidas pelo Superior Tribunal de Justiça, resta inequívoco que é aplicável ao caso o prazo prescricional de 10 anos (art. 205 do Código Civil), contados do vencimento da última parcela vencida.
+V. Por outro lado, o apelado alega que o contrato fora quitado em 2013, mas a ação só fora ajuizada em 09/05/2021, ou seja, passados quase 08 anos da quitação, no entanto, não há que se falar em má-fé do recorrente somente por este fato, pois, da análise dos autos, percebe-se que fora obedecido o prazo prescricional aplicado ao caso, estando, portanto, dentro do direito de ação do autor/apelante a propositura de demanda com o intuito de se obter a análise de valores que entende abusivo.
+VI. Por fim, em que pese a irresignação do Apelante no que diz respeito à cobrança da taxa de serviços de terceiros, tal assunto fora debatido no Tema 958/STJ e, observado o julgado, comparando-o com o caso ora em análise, verifica-se que a taxa fora devidamente especificada no contrato, não havendo ilegalidade na sua cobrança. Logo, não se vislumbra irregularidade, nem tampouco abusividade que coloquem o consumidor em desvantagem excessiva frente à instituição bancária, considerado-a dentro dos parâmetros legais.
+VII. Ante as razões acima expostas, conheço do Recurso de Apelação para dar-lhe parcial provimento, para reformar a sentença e afastar a ocorrência da prescrição.
+Os embargos de declaração foram rejeitados (e-STJ fls. 146/157).
+Em suas razões (e-STJ fls. 163/171), a parte aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 1.022, II, do CPC/2015, por negativa de prestação jurisdicional, destacando que a Corte local deixou de se manifestar quanto à "necessária adequação da parte dispositiva do decisum, a fim de constar a improcedência do pedido atinente aos Serviços de Terceiros, porquanto devidamente reconhecida sua legalidade" (e-STJ fl. 167) e
+(b) arts. 189 e 205 do CC/2002, por entender que "as cláusulas do contrato bancário podem ser discutidas desde a data da sua assinatura, sendo este o marco de início do prazo prescricional de dez anos, legalmente previsto para a hipótese dos autos" (e-STJ fl. 165).
+Contrarrazões apresentadas (e-STJ fls. 188/190).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Quanto ao termo inicial do prazo prescricional, o Tribunal de origem consignou que (e-STJ fls. 119/120):
+Nesse ponto, da análise da sentença proferida pelo juízo de 1ª instância verifica-se que ela vai de encontro com o entendimento jurisprudencial majoritário sobre a aplicação do termo inicial nos casos assemelhados ao posto em tela, já que considerou como marco inicial a assinatura do contrato e não da última parcela a vencer, como pode ser constatado pela transcrição da decisão, in verbis:
+"..Verifico, pois, que a preliminar de prescrição suscitada na contestação deve ser acolhida, eis que o contrato foi firmado em maio de 2010, contados, por conseguinte, quase 11 (onze) anos da celebração do contrato quando do ajuizamento da ação.
+Dispositivo: Diante de todo o exposto e o mais que dos autos constam, julgo extinto o processo, com resolução do mérito, com fundamento no art. 487, II do CPC, em face da ocorrência da prescrição."
+Há de se observar que a jurisprudência deste Tribunal e do Superior Tribunal de Justiça é assente no sentido de que tratando-se de contrato com prestações continuadas, ou seja, em que mês após mês o contrato se renova, o prazo prescricional para se propor eventual demanda será contado a partir do vencimento da última parcela.
+A decisão recorrida está em confronto com a jurisprudência do STJ, que firmou o entendimento de que o termo inicial do prazo prescricional, nas ações de revisão de contrato bancário, é a data da assinatura do contrato. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. As razões da decisão monocrática que não foram objeto de irresignação, no agravo interno, ficam atingidas pela preclusão consumativa.
+2. Conforme entendimento firmado no STJ, o reconhecimento da prescrição parcial da pretensão pela Corte de origem, em razão de argumento suscitado nas contrarrazões de apelação, não viola a coisa julgada, tampouco configura reformatio in pejus. Súmula 83 do STJ.
+2.1. Ademais, as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas de ofício e a qualquer tempo nas instâncias ordinárias. Precedentes.
+3. Nos termos da jurisprudência do STJ, deve-se considerar como termo inicial do prazo prescricional, nas ações de revisão de contrato bancário, a data da assinatura do contrato. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.059.364/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/4/2024, DJe de 25/4/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. ÓBICE DA SÚMULA N. 83/STJ.
+De acordo com a jurisprudência desta corte, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Incidência da Súmula n. 83/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.386.595/PR, Relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 4/12/2023, DJe de 6/12/2023.)
+No caso dos autos, a parte autora pretende revisar cláusulas de contrato bancário celebrado em maio de 2010.
+Dessa forma, considerando-se que a ação revisional foi proposta apenas em março de 2021, de rigor o reconhecimento da prescrição decenal prevista no art. 205 do CC/2002.
+Com o reconhecimento da prescrição, ficam prejudicadas as demais teses suscitadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para reconhecer a prescrição da pretensão revisional, restabelecendo-se a sentença, inclusive quanto aos ônus sucumbenciais.
+Publique-se e intimem-se.
+EMENTA
