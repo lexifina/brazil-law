@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONVENÇÃO BATISTA ALAGOANA contra decisão que não conheceu de recurso especial em razão de o acórdão recorrido estar em conformidade com a orientação jurisprudencial deste Tribunal Superior, quanto ao arbitramento dos honorários advocatícios de sucumbência, na hipótese em que reconhecida a prescrição da pretensão ao redirecionamento da execução fiscal.
+A parte embargante alega, em síntese (fls. 915/918):
+O acórdão embargado é omisso por não enfrentar o argumento da Recorrente de que, ainda que fosse - e não o é - inestimável o proveito econômico, há uma ordem sucessiva de bases previstas art. 85 do CPC a ser seguida, ou seja, na ausência de condenação e do proveito econômico, deve-se arbitrar os honorários sobre o valor atualizado da causa, conforme interpretação desse E. STJ (Tema 1076/STJ) do art. 85, § 2º,§ 3º, § 4º, III do CPC)  ..  caso se conclua pela impossibilidade de mensuração do proveito econômico, os honorários de sucumbência devem ser calculados sobre o valor atualizado da causa, e não arbitrado de forma equitativa ao teor do § 8 do art. 85 do CPC, reservado aos casos em que o famigerado "valor da causa for muito baixo"  ..  a recorrente esclarece, uma vez mais, o presente caso não se refere ao reconhecimento da prescrição intercorrente prevista no art. 40 da LEF, e sim ao reconhecimento da prescrição para o redirecionamento a suposto responsável tributário
+Sem impugnação pela parte embargada.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, o Tribunal Regional Federal da 5ª Região considerou ocorrida a prescrição intercorrente para o redirecionamento da execução fiscal aos corresponsáveis e arbitrou honorários de R$ 5.000,00, mediante apreciação equitativa, sobre o fundamento de que não haveria condenação (fls. 504 e 555).
+E, embora a parte embargante aponte não se tratar de prescrição intercorrente, a situação não tem o condão de alterar a conclusão da decisão embargada, pois, na hipótese em que ocorre a prescrição da pretensão ao redirecionamento da execução fiscal aos sócios gerentes ou administradores, os honorários advocatícios de sucumbência devem ser arbitrados por apreciação equitativa.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
