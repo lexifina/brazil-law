@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RGS ENGENHARIA S/A - EM RECUPERAÇÃO JUDICIAL contra decisão, da lavra deste signatário, acostada às fls. 116/120, que indeferiu o pedido liminar.
+Em suas razões, repisa a embargante as razões da exordial. Destaca, nesse contexto, que o r. juízo federal, ao indeferiu o pedido de desbloqueio de valores financeiros, usurpou a competência do r. juízo da recuperação judicial. Pede, assim, o acolhimento dos aclaratórios. (fls. 127/133)
+É o relatório.
+Decisão.
+Os embargos de declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, exemplificativamente, são os seguintes precedentes desta Corte: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015; AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que este signatário, expressamente deixou consignado que a orientação pacífica da Segunda Seção caminha no sentido de que a partir da vigência da Lei n. 14.112/2020, com aplicação aos processos em trâmite (afinal se trata de regra processual que cuida de questão afeta à competência), a caracterização de conflito de competência perante esta Corte de Justiça pressupõe a materialização da oposição concreta do Juízo da execução fiscal à efetiva deliberação do Juízo da recuperação judicial a respeito do ato constritivo.
+Na oportunidade, foram citados os seguintes julgados: CC 181.190/AC, Rel. Min. Marco Aurélio Bellizze, Dje de 07/12/2021 e AgInt no CC n. 187.372/SP, Rel. Min. Raul Araújo, Segunda Seção, julgadoem 28/3/2023, Dje de 3/4/2023.
+E, na hipótese dos autos, o r. juízo universal determinou, sem oferecer proposta de substituição, o levantamento da constrição realizada no bojo da execução fiscal, o que afasta a plausibilidade do pedido ora em voga, a teor dos precedentes supracitados, sendo de rigor, de fato, o indeferimento do pleito liminar vindicado.
+Diante disso, não havendo notícia de alteração na situação fática, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil, ficando clara a pretensão de rejulgamento da causa por parte do embargante, o que não se coaduna com a via dos aclaratórios.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeita-se os embargos de declaração.
+Publique-se. Intimem-se. Reitere-se o pedido de informações ao r. juízo da Vara Regional Empresarial de Porto Alegre/RS, onde tramita a recuperação judicial da suscitante (processo n.º 188654-52.2022.8.21.0001), as quais deverão ser prestadas no prazo de 15 (quinze) dias.
+EMENTA
