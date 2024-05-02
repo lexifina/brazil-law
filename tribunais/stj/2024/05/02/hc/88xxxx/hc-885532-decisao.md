@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALTER REINDEL JÚNIOR, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, denegou a ordem pleiteada no Habeas Corpus n.1026771-15.2023.8.11.0000, assim ementado (fl. 32):
+"HABEAS CORPUS - CRIMES DE TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA - DESNECESSIDADE DA PRISÃO PREVENTIVA - IMPROCEDÊNCIA - NECESSIDADE DE INTERROMPER AS ATIVIDADES DE GRUPO CRIMINOSO - MOTIVAÇÃO IDÔNEA - PERICULUM LIBERIATIS - PRIMARIEDADE E RESIDÊNCIA FIXA - CONDIÇÕES QUE NÃO DEVEM PREVALECER SOBRE A NECESSIDADE DA CUSTÓDIA - MEDIDAS CAUTELARES MENOS GRAVOSAS - INSUFICIÊNCIA - ORDEM DENEGADA EM CONSONÂNCIA COM O PARECER.
+Na hipótese, demonstrada a existência de indícios de autoria e materialidade delitiva, e estando evidenciada a periculosidade do paciente, pois há indícios que integra facção criminosa, devidamente organizada e com divisão de tarefas definidas, conhecida como "Comando Vermelho de Mato Grosso" no Município de São Félix do Araguaia/MT, ocupando a função monitorar forças policiais; intermedia a venda de drogas; cperando o trafico de drogas diretamente; paga regularmente as "CAMISAS / PEITAS" ("taxa" ao grupo criminoso para pertencer ao grupo criminoso)", sendo imperiosa a manutenção da prisão processual para a garantia da ordem pública e consequente acautelamento do meio social, nos termos do art. 312 do CPP.
+A necessidade de se interromper ou diminuir a atuação de integrantes de organização/associação criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva.
+Demonstrada a necessidade da medida extrema, não é possível a incidência das medidas cautelares diversas da prisão."
+O paciente foi preso preventivamente por suposta participação nos crimes de tráfico de drogas, organização criminosa e lavagem de capitais.
+Sustenta o impetrante, em síntese, que: "O paciente Valter Reindel Júnior fora processado e julgado na ação penal nº 1001785-77.2022.8.11.0017, cujos fatos e documentos são idênticos ao do processo posteriormente aberto (IP. 1001660-75.2023.8.11.0017-NIPO) que motivaram sua atual segregação com base nos mesmos fatos e inclusive mesmo relatório policial, ferindo de morte o princípio do no bis in idem e o princípio da coisa julgada." (fl. 4). Assoma-se que "(..) e o paciente está sendo processado pela segunda vez pelos mesmos fatos. PROVA disso é que as duas investigações e denúncias são pautadas no mesmo relatório policial, qual seja, 2022.13.47141" (fl. 7).
+Outrossim, pretende o trancamento da ação penal, porquanto "(..) as ações penais originam dos mesmos fatos, possuem as mesmas partes e a mesma causa de pedir. " (fl. 16).
+Aponta o excesso de prazo, ao argumento de que "(..) está COMPROVADO, através do andamento processual dos autos, que o prazo legal razoável para a conclusão da investigação e recebimento ou não da denúncia há muito se estrapolou  ..  JÁ SE PASSARAM MAIS DE 100 DIAS E NÃO HÁ SEQUER RECEBIMENTO DE DENÚNCIA OU AUDIÊNCIA MARCADA." (fl. 25).
+Requer, liminarmente, inaudita altera pars, a suspensão da ação penal do IP. 1001660-75.2023.8.11.0017 que tramita no NIPO da Comarca de Cuiabá/MT, bem como a revogação da prisão preventiva em relação ao ora paciente e, no mérito, o trancamento desta ação penal, tendo em vista que paciente está sendo acusado pelos mesmos fatos já processados, julgado, condenado por tráfico de drogas e absolvido por associação na ação penal n. 1001785-77.2022.8.11.0017.
+As informações foram prestadas (fls. 149/150 e 151/164).
+É, no essencial, o relatório.
+Decido.
+O habeas corpus não deve ser conhecido, pois não há, nos autos, substrato fático suficiente para a análise da questão trazida à discussão.
+No presente caso, verifico que o acórdão juntado aos autos tem como paciente apenas o corréu, Hykaro Vinícios Araujo Galvão, sendo o habeas corpus rito de cognição sumária, que demanda prova documental pré-constituída do direito alegado, a ausência de peças essenciais ao deslinde da controvérsia inviabiliza o exame dos pleitos defensivos.
+Dessa forma, os pleitos referentes ao trancamento da ação penal por ocorrência do vedado bis in idem e à alegação de excesso de prazo para conclusão da investigação, não foram objetos de análise pelo colegiado do Tribunal de origem, razão pela qual é inviável o conhecimento, por indevida supressão de instância, vedada pelo ordenamento jurídico pátrio.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. EXPEDIÇÃO DE CARTA DE EXECUÇÃO DE SENTEÇA. MANDADO DE PRISÃO. CUMPRIMENTO. PLEITO DE PRISÃO DOMICILIAR HUMANITÁRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A prisão domiciliar não foi debatida no acórdão prolatado na origem, sendo que este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de se incorrer em indevida supressão de instância.
+3. Agravo regimental desprovido." (AgRg no RHC n. 192.496/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
