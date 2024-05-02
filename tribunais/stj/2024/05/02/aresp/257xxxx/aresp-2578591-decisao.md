@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interposto por PORTOCRED S. A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO CONTRATUAL. CONTRATOS DE CRÉDITO PESSOAL CONSIGNADO PARA TRABALHADORES DO SETOR PÚBLICO.
+PRELIMINARES:
+1. AUSÊNCIA DE INTERESSE RECURSAL. A SENTENÇA RECORRIDA DEFERIU O PEDIDO DE GRATUIDADE DA JUSTIÇA DEDUZIDO PELA RÉ, NÃO HAVENDO INTERESSE RECURSAL. ALÉM DISSO, QUANTO AOS PEDIDOS DE READEQUAÇÃO E DE SUSPENSÃO DAS PARCELAS CONTRATADAS, A AUTORA SEQUER DEDUZIU PEDIDO NESTES SENTIDO, TAMPOUCO A SENTENÇA DELIBEROU SOBRE TAIS QUESTÕES. ASSIM, IGUALMENTE, NÃO HÁ INTERESSE RECURSAL.
+2. PEDIDO DE SUSPENSÃO DA AÇÃO. NÃO MERECE ACOLHIMENTO O PEDIDO DE SUSPENSÃO DA AÇÃO EM RAZÃO DA LIQUIDAÇÃO EXTRAJUDICIAL DA RÉ-APELANTE. A SUSPENSÃO A QUE SE REFERE O ART. 18, DA LEI FEDERAL Nº 6.024/74 NÃO SE APLICA AOS PROCESSOS EM FASE DE CONHECIMENTO, COMO NO CASO CONCRETO. PRECEDENTES DO STJ E DESTA CORTE SOBRE A MATÉRIA.
+3. PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. REJEIÇÃO. NO CASO CONCRETO, A SENTENÇA RECORRIDA ESTÁ BEM FUNDAMENTADA E NÃO ESTÁ ACOMETIDA DOS VÍCIOS APONTADOS PELA RÉ-APELANTE. OBSERVADO O PRECEITO DO ART. 489, § 1º, INC. IV, DO CPC.
+MÉRITO:
+1. JUROS REMUNERATÓRIOS. A JURISPRUDÊNCIA DO STJ DEFINIU QUE A TAXA MÉDIA DE MERCADO INFORMADA PELO BANCO CENTRAL DO BRASIL NÃO É UM LIMITADOR DE JUROS REMUNERATÓRIOS, MAS UM REFERENCIAL DAS TAXAS PRATICADAS NO PAÍS, PARA DETERMINADO TIPO DE CONTRATO, EM DETERMINADO PERÍODO. NO CASO, A TAXA DE JUROS REMUNERATÓRIOS ESTIPULADA NOS CONTRATOS FIRMADOS ENTRE AS PARTES ULTRAPASSA, EM MUITO, AS TAXAS MÉDIAS AFERIDAS PELO BACEN PARA AS MESMAS ESPÉCIES CONTRATUAIS, FATO QUE AUTORIZA A SUA REVISÃO, MESMO DIANTE DAS PECULIARIDADES DO CASO CONCRETO.
+2. REPETIÇÃO DO INDÉBITO. COMPROVADA A ABUSIVIDADE NA TAXA DE JUROS REMUNERATÓRIOS PACTUADA, VAI DETERMINADA A REPETIÇÃO SIMPLES DO INDÉBITO. CORREÇÃO MONETÁRIA PELO IGP-M E JUROS DE MORA DE 1% AO MÊS, NOS MESMOS TERMOS EM QUE CONTRATADOS NOS PACTOS REVISADOS. PRECEDENTES DA CÂMARA E DO STJ.
+3. HONORÁRIOS ADVOCATÍCIOS. VERBA HONORÁRIA FIXADA EM FAVOR DOS PROCURADORES DA AUTORA, EM 10% INCIDENTES SOBRE O VALOR DA CAUSA. PEDIDO DE MINORAÇÃO DESACOLHIDO.
+4. SUCUMBÊNCIA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA SENTENÇA EM FAVOR DOS PROCURADORES DA PARTE AUTORA, EM FUNÇÃO DO PARCIAL CONHECIMENTO E DESPROVIMENTO DO RECURSO DA RÉ.
+RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação do artigo 51, IV e § 1º, III, do Código de Defesa do Consumidor, associado de dissídio jurisprudencial.
+Requereu a concessão do benefício da Justiça gratuita, bem como pediu a suspensão do feito, por estar em liquidação extrajudicial nos termos do artigo 18 da Lei 6.024/1974.
+Alega que o reconhecimento da abusividade na taxa de juros remuneratórios aplicada no contrato deve ser verificado de acordo com a análise individualizada das peculiaridades do caso concreto, de maneira que não se mostra suficiente o mero cotejo entre as taxas previstas na tabela do Banco Central.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, quanto ao pedido de suspensão processual em razão de decretação de liquidação extrajudicial, considerando que, na origem, trata-se de ação de revisão de contrato bancário voltada à obtenção de provimento relativo à certeza e liquidez do crédito, inexiste determinação legal para a suspensão do processo, nos termos da jurisprudência desta Casa. A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO. INVIÁVEL. PROCESSO. CONHECIMENTO.
+GRATUIDADE DA JUSTIÇA. FASE RECURSAL. SEM EFEITOS RETROATIVOS.
+CONSUMIDOR. JUROS. ABUSIVIDADE. ART. 51 DO CPC. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. VALORAÇÃO DA PROVA. ERRÔNEA.
+1. Não há falar em suspensão do feito, tendo em vista que a jurisprudência desta Corte é firmada no sentido de que o comando previsto no art. 18 da Lei 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e à liquidez do crédito.
+2. O pedido de assistência judiciária gratuita, ainda que tivesse sido concedido, não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas.
+Benefício que não produziria efeitos retroativos. Precedente.
+3. Na hipótese, rever as conclusões do tribunal de origem, que, após a análise do conjunto fático-probatório dos autos e das cláusulas contratuais, considerou que os juros remuneratórios são abusivos, encontra óbice nas Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.310.365/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/9/2023, DJe de 12/9/2023.)
+No que tange ao pedido de concessão da assistência judiciária gratuita, verifica-se que o Tribunal de origem, ao realizar o juízo de admissibilidade, indeferiu o pedido, "uma vez que a parte recorrente interpôs recurso especial pugnando pela concessão da benesse, todavia, efetuando o recolhimento do preparo, o que é ato incompatível com o pedido retro" (e-STJ, fls. 958/959).
+Assim, fica prejudicada a sua análise, considerando que o recolhimento de custas pela recorrente é ato incompatível com o pedido de gratuidade de Justiça.
+No tocante à questão dos juros remuneratórios, destaco que a atual jurisprudência do STJ firmou o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso.
+Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco.
+O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(AgInt no AREsp n. 1.522.043/RS, relator Ministro Marco Buzzi, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17.11.2020, DJe de 10.3.2021.)
+Nesse contexto, registro que esta Corte Superior entende que é possível proceder à revisão da taxa de juros remuneratórios, quando caracterizada a relação de consumo e o caráter abusivo ficar devidamente demonstrado, diante das peculiaridades do caso concreto.
+No caso dos autos, trata-se de ação revisional de contrato de empréstimo consignado em folha de pagamento, a qual foi julgada procedente, uma vez que a taxa de juros remuneratórios aplicada no contrato foi considerada abusiva.
+A Corte de origem manteve a sentença quanto à limitação dos juros remuneratórios do contrato de empréstimo consignado à taxa média de mercado à época da contratação, considerando as particularidades do caso concreto, conforme se observa dos seguintes trechos (e-STJ, fls. 205/206):
+"No caso concreto, os contratos sob revisão previram as seguintes taxas de juros remuneratórios:
+1) contrato nº 3801684273: 6,00% ao mês e 101,22% ao ano e
+2) contrato nº 3801932848: 6,00% ao mês e 101,22% ao ano.
+As taxas médias mensal (código 25467) e anual (código 20745) informadas pelo BACEN para esta modalidade de contrato, na ocasião de suas respectivas assinaturas eram de:
+1) contrato nº 3801684273 (08/07/2014): 1,81% ao mês e 24,09% ao ano e
+2) contrato nº 3801932848 (01/04/2015): 1,89% ao mês e 25,12% ao ano.
+Conforme já referido, a parte autora firmou com a ré dois contratos de crédito pessoal consignado, para trabalhadores do setor público.
+Sendo assim, a própria forma de pagamento (desconto em folha de pagamento) consiste em garantia contratual, o que impacta na taxa de juros remuneratórios contratada, de modo a reduzi-la.
+Ainda neste ponto, convém frisar que a margem consignável dos servidores estaduais do Rio Grande do Sul é de 70% dos rendimentos, para as consignações obrigatórias e facultativas, o que, em termos práticos, assegura margem consignável disponível para empréstimos superior aos 35% de margem consignável concedidas aos beneficiários do INSS, por exemplo.
+Além disso, o pagamento por desconto em folha reduz substancialmente o risco de inadimplemento da obrigação contraída.
+Para mais disto, não há nos autos qualquer circunstância que justifique a fixação exagerada das taxas de juros remuneratórios para os contratos ora analisados, porque não comprovado elevado risco de inadimplemento do consumidor, o custo do dinheiro para o fornecedor, nas ocasiões, bem como porque não demonstrado o baixo índice de relacionamento comercial entre o consumidor e a instituição financeira.
+Além disso, o caso concreto revela indícios de habitualidade na celebração de contratos entre as partes, pois em uma única ação, o autor pede a revisão de dois contratos firmados entre as partes" (e-STJ, fls. 706/707).
+Com efeito, anoto que rever a conclusão da Corte local, a qual manteve a limitação da taxa de juros, em razão da manifesta abusividade da taxa pactuada no contrato celebrado entre as partes, diante da diferença significativa entre a taxa fixada para as operações de crédito pessoal consignado para servidores públicos e a taxa média de mercado divulgada pelo Banco Central do Brasil, demandaria o reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. NATUREZA ABUSIVA. SÚMULA 83/STJ. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal a quo concluiu pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma considerável, a taxa média de mercado. Nesse contexto, tem-se que a controvérsia foi decidida em conformidade com a jurisprudência desta Corte Superior. Incidência da Súmula 83 do STJ.
+2. A pretensão recursal, no sentido de derruir a afirmação do Tribunal a quo, que, com amparo nos elementos de convicção dos autos, considerou cabalmente demonstrada a índole abusiva da taxa de juros contratada, demandaria a interpretação das cláusulas contratuais e o reexame do acervo fático-probatório, situação insindicável de ser apreciada no âmbito estreito do recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.311.111/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
