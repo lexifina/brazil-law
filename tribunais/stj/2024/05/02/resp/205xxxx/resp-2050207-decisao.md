@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO UNIVERSIDADE FEDERAL DE RONDÔNIA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão do Tribunal Regional Federal da 1ª Região, proferido nos autos de Apelação/Reexame Necessário n. 0011069-63.2012.4.01.4100/RO, assim ementado (fl. 166):
+CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. LICENÇA COM EXERCÍCIO PROVISÓRIO PARA ACOMPANHAMENTO DE CÔNJUGE DESLOCADO EX OFFÍCIO, EM REDISTRIBUIÇÃO. ART. 84, §2º, DA LEI Nº 8.112/90. UNIDADE DO QUADRO DE PROFESSORES DE FACULDADES PÚBLICAS FEDERAIS. PRECEDENTES. PROTEÇÃO CONSTITUCIONAL À UNIDADE FAMILIAR. ARTIGOS 226 E 227, DA CF/88. APLICABILIDADE. SENTENÇA MANTIDA.
+1. A parte autora, servidor público, professor da Fundação Universidade Federal de Rondônia - UNIR, impetrou mandado de segurança, com pedido liminar, contra ato da Reitora da UNIR, com o objetivo de obter licença para acompanhamento de cônjuge, servidora pública, professora também da UNIR, em razão de seu deslocamento ex officio, em redistribuição para a Universidade Federal do Oeste do Pará - UFOPA.
+2. O pedido da parte autora, com fundamento no art. 84, §2º, da Lei nº 8.112/90, de licença com exercício provisório, para acompanhamento de cônjuge, que foi deslocado ex officio, em redistribuição, independente do interesse da Administração, preenche os requisitos previstos na referida norma não havendo ilegalidades. Precedentes TRF1 e STJ.
+3. Cargo de professor de Universidade Federal deve ser interpretado como pertencente a um quadro único, vinculado ao Ministério da Educação. Precedentes.
+4. Proteção constitucional do Estado à unidade familiar, fundamentada nos artigos 226 e 227, da CF/88, aplicáveis à espécie. Precedentes.
+5. Honorários advocatícios incabíveis, nos termos das Súmulas 105 do STJ e 512 do STF. 6. Apelação e remessa necessária desprovidas.
+Os embargos de declaração opostos contra o referido julgado foram rejeitados.
+Nas razões do especial, a parte recorrente alega, além de dissenso pretoriano, negativa de vigência aos arts. 36 e 37, ambos da Lei n. 8.112/1990, 105 e 110, ambos da Lei n. 11.784/2012.
+Sustenta que, na situação em apreço, "a remoção do cônjuge do autor ocorreu a pedido (concurso de redistribuição/remoção interno), e não no interesse da Administração. Decorreu ela de concurso interno de remoção" (fl. 223).
+Argumenta, ainda, que (fl. 232):
+o pedido encontra óbice no fato da entidade ré e a instituição de ensino para a qual deseja a remoção possuírem quadros funcionais distintos e autônomos. Conforme o caput do artigo supracitado, a remoção somente é permitida no "âmbito do mesmo quadro". Caso contrário, não se trata de remoção, mas de redistribuição, regulada pelo art. 37 da Lei nº 8.112/1990, e que depende de interesse da Administração.
+Requer, assim, o provimento do recurso a fim de que seja indeferida a pretensão autoral.
+É o relatório. Decido.
+O recurso não merece conhecimento.
+Destaco, por oportuno, os seguintes trechos do acórdão recorrido (fl. 173):
+9. Ressalte-se, ainda, a aplicabilidade, ao caso, do amparo e proteção constitucional conferidos à preservação da unidade familiar, pois a ruptura se deu em razão do deslocamento de um dos cônjuges, no interesse da Administração, de forma a contemplar o caráter fortuito e não planejado da situação. Nesse sentido é o entendimento da jurisprudência deste Tribunal sobre o tema, in verbis:
+No caso, observa-se que o acórdão recorrido, além da fundamentação infraconstitucional, está assentado em fundamento constitucional autônomo e suficiente, por si só, para dar suporte à conclusão do Tribunal de origem, qual seja, a  p roteção constitucional do Estado à unidade familiar, fundamentada nos artigos 226 e 227, da CF/88, aplicáveis à espécie" (fl. 166). Contudo, a parte recorrente não interpôs recurso extraordinário, o que atrai a incidência do óbice da Súmula n. 126 do STJ. A propósito: REsp n. 1.889.642/PB, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 27/10/2020, DJe de 17/11/2020; AgRg no REsp n. 1.325.778/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 22/4/2014, DJe de 2/5/2014.
+A propósito, confira-se, mutatis mutandis:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMPREGADO PÚBLICO. ENQUADRAMENTO NA LEI N. 8.112/1990. DECISÃO PROFERIDA PELA PRESIDÊNCIA DA CORTE. MANUTENÇÃO. AINDA QUE POR OUTROS FUNDAMENTOS. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL DO ACÓRDÃO.
+I - Na origem trata-se de ação em que se pretende o enquadramento de empregado na Lei n. 8.112/1990. Na sentença julgou-se improcedente o pedido, considerando-se que o empregado não foi admitido por concurso público. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a controvérsia foi dirimida com base em fundamentos de índole constitucional e infraconstitucional, ambos suficientes para manter o julgado.
+III - Todavia, considerando que não foi interposto recurso extraordinário contra o julgado vergastado, verificou-se o trânsito em julgado do fundamento constitucional, o que faz com que na hipótese incida o enunciado da Súmula n. 126 do Superior Tribunal de Justiça, inviabilizando a análise do recurso especial. A incidência do disposto no art. 1.032 do CPC/2015 somente existe quando há fundamento constitucional e infraconstitucional no acórdão, o que não é o caso dos autos.
+IV - Agravo interno improvido. (AgInt no AREsp n. 1.648.549/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/10/2020, DJe de 28/10/2020.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Sem honorários advocatícios, consoante o art. 25 da Lei n. 12.016/2009 e as Súmulas n. 512 do STF e 105 do STJ.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. LICENÇA COM EXERCÍCIO PROVISÓRIO PARA ACOMPANHAMENTO DE CÔNJUGE. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
