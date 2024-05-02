@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ADÃO LUIZ PORTELA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+"PROCESSO CIVIL  AGRAVO REGIMENTAL  APELAÇÃO - DECISÃO MONOCRÁTICA  CPC/73- ART. 557 DO CPC  DECISÃO CONFORME JURISPRUDÊNCIA MAJORITÁRIA E UNÂNIME DO STJ  JUNTADA DE DOCUMENTO NOVO APÓS A CONTESTAÇÃO  POSSIBILIDADE  NÃO OCORRÊNCIA DA PRECLUSÃO  INEXISTÊNCIA DE VIOLAÇÃO AO CONTRATÓRIO  DOCUMENTO  CESSÃO DE CRÉITO  PROVA DA RELAÇÃO JURÍDICA ENTRE AS PARTES  IMPOSSIBILIDADE DA ANALISE DO PEDIDO DE NULIDADE DA CESSÃO  VIOLAÇÃO DOS PRINCÍPIOS DA ADSTRIÇÃO E AMPLA DEFESA  DECISÃO MANTIDA  RECURSO DESPROVIDO.
+J. Decisão monocrática proferida em observância da jurisprudência dominante do STJ, não merece reforma.
+Há possibilidade de juntada de documento em qualquer momento processual, desde que observado o contraditório, inteligência do art. 398 do CPC/73 e 437, §1º do NCPC.
+Análise de todas as questões recursais.
+4. Impossibilidade em sede recursal, quando não foi objeto da lide, bem como a necessidade da formação do polo passivo, para verificação das condições que a cessão de débito/crédito ocorreu.
+5. Recurso desprovido." (fl. 490)
+Sob a alegação de ofensa aos arts. 183, 300, 303, 396, 397 do CPC/73, 489, § 1º, IV e VI, 1.022 do CPC/15, 186, 290 do Código Civil, além de dissídio jurisprudencial, o recorrente sustenta, em síntese,
+(a.1) "o v. acórdão do agravo interno revela-se primeiramente contraditório ao aduzir que a decisão monocrática foi proferida em observância da jurisprudência dominante e unanime do STJ, e ao mesmo tempo trazer como fundamento precedentes do STJ que NÃO ADMITEM, por força do Art. 396 do CPC/73 a juntada de documentos não novos e novos que não se tratem de documentos indispensáveis a propositura da ação e os destinados a prova das alegações da defesa" (fl. 576),
+(a.2) "O v. acórdão não enfrentou o fundamento das razões recursais que denotam que ainda que admitido fosse a juntada de documentos não novos como acabou ocorrendo, é inadmissível deduzir novas alegações após a defesa, forte no disposto nos artigos 300 e 303 do NCPC" (fl. 578),
+(a.3) omissão acerca da inexistência de notificação do devedor acerca da cessão de créditos,
+(a.4) "o v. acórdão em momento algum se manifestou quando as razões recursais no tocante ao pedido subsidiário de aplicação do Art. 22 do CPC a fim de extirpar a condenação em custas e honorários ou reduzir os honorários advocaticios fixados face as disposições do art. 20, § 4 0 do CPC/73" (fl. 583),
+(b) "a juntada tardia do documento se deu imotivadamente, fez que não se trata de documento novo, tão pouco de documento que visa combater fatos articulados depois da inicial" (fl. 587), e
+(c) "não havendo a notificação a cessão não tem eficácia, portanto, também é indevida a restrição realizada pela recorrida" (fl. 591).
+Contrarrazões às fls. 626/640.
+É o relatório.
+Inexiste contradição no acórdão de 2º grau (a.1), tendo em vista que a conclusão da Corte de origem, acerca da possibilidade de se juntar documento novo aos autos, após o momento processual próprio, deriva da sua livre interpretação acerca do conteúdo do art. 398 do CPC/73 e dos precedentes do STJ.
+Além disso, não havendo precedente obrigatório desta Corte quanto ao tema, nada impedia que a Corte Estadual julgasse em sentido contrário ao definido em decisões do STJ.
+De todo modo, eventual desconformidade da conclusão do acórdão de 2º grau com o entendimento dominante desta Corte Superior pode ser sanada pela via do apelo especial.
+Em outro ponto, alega a parte recorrente que "o v. acórdão não enfrentou o fundamento das razões recursais que denotam que ainda que admitido fosse a juntada de documentos não novos como acabou ocorrendo, é inadmissível deduzir novas alegações após a defesa, forte no disposto nos artigos 300 e 303 do NCPC" (fl. 578).
+Acerca das alegações novas, apresentadas pelo réu, o recorrente consignou nos embargos de declaração opostos na origem:
+"E no caso dos autos da detida análise se observa que em contestação de fls. 33/43 a recorrida apenas ditou que "em pesquisa sistémica foi encontrada conta corrente em nome do autor, bem como a existência de contratos firmados entre o réu e o requerente fato este que justificam a existência de restrições em órgãos de proteção ao crédito. Conforme telas em anexo, pode se verificar que há histórico de diversas restrições em nome do autor, tanto no SERASA como no SPC, as quais ocorreram em razão da inadimplência do contrato n.º 405350450000034".
+Porém, com a petição de fls. 116/1171 alterou totalmente os fundamentos de sua defesa, aduzindo que o embargante firmou Cédula Rural n. 200400997-9/001 e 286314 com o Banco CNH e que a embargada adquiriu referida divida, conforme cessão o que justificaria a validade da relação jurídica e da restrição." (fl. 513)
+Essa tese parece ser relevante para o julgamento do feito. Diante do princípio da eventualidade, que impõe ao réu alegar toda a matéria de defesa logo na contestação, a parte tem o direito de saber se, na visão do eg. TJMT, poderia ou não o ora réu apresentar nova tese de defesa em petição avulsa - após contestado o feito.
+Como, então, afigura-se relevante a tese do recorrente, mostra-se necessário determinar o retorno dos autos ao eg. TJMT para a apreciação da questão. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. JURISPRUDÊNCIA DOMINANTE. POSSIBILIDADE. CONFIRMAÇÃO PELO COLEGIADO. NULIDADE. AUSÊNCIA. TEMA RELEVANTE PARA O JULGAMENTO DA CONTROVÉRSIA. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. A decisão monocrática que dá provimento a recurso especial, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts. 932, V, do CPC/2015 e 255, § 4º, III, do RISTJ, bem assim na orientação que emana da Súmula n. 568/STJ, não havendo falar, pois, em nulidade por ofensa à nova sistemática do Código de Processo Civil. Ademais, a interposição do agravo interno, e seu consequente julgamento pelo órgão colegiado, sana eventual nulidade.
+2. Deixando a Corte local de se manifestar sobre questão relevante, apontada em embargos de declaração que, em tese, poderiam alterar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.765.292/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022.)
+Apesar disso, houve expresso pronunciamento acerca do pedido de declaração de ineficácia da cessão de crédito e acerca da distribuição e fixação da sucumbência.
+Ante o exposto, dou provimento ao recurso especial a fim de anular o acórdão proferido pelo eg. TJMT em sede de embargos de declaração, determinando o retorno dos autos à origem para a apreciação da questão apontada como omitida na fundamentação deste julgado.
+As demais questões ficam prejudicadas.
+Publique-se.
+EMENTA
