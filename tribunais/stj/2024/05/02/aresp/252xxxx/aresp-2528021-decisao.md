@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado pelo Condomínio Edifício New Hampshire contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 84):
+AGRAVO DE INSTRUMENTO. Execução por quantia certa. Título extrajudicial (despesas condominiais). Penhora de unidade em débito. Arrematação. Preferência de créditos, trabalhista e tributário. Inteligência dos artigos 130 e 186, do Código Tributário Nacional, também em conformidade com o artigo 908, do Código de Processo Civil. Recurso do condomínio, exequente. Desprovimento.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 964, III, do CC. Sustenta que "o crédito condominial possui preferência sobre todos os demais, na medida em que gerado pela própria unidade e imprescindível para a sua conservação e manutenção" (fl. 92).
+Contrarrazões às fls. 100/103.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece trânsito .
+A matéria pertinente ao art. 964, III, do CC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ainda, no presente caso, o recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, a saber, preferência dos créditos trabalhista e tributário, in teligência dos artigos 130 e 186 do CTN, também em conformidade com o artigo 908 do CPC (cf. fl. 84) e "O pagamento de cotas condominiais constitui encargo da coisa, natureza propter rem que lhe dá conteúdo de direito real, com inequívoca preferência sobre o crédito hipotecário, hipótese diversa à consideração de créditos, trabalhista e tributário, cedendo-lhes a preferência, assim à luz do artigo 186, do Código Tributário Nacional" (fl. 85), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
