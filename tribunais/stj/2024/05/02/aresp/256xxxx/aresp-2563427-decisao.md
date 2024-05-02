@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interposto por MAXCAP REAL ESTATE INVESTIMENT ADVISORS LTDA. e OUTROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1816):
+CUMPRIMENTO DE SENTENÇA - Ação indenizatória por perdas e danos decorrentes de descumprimento de prazo para entrega da unidade - Decisão que indeferiu a extensão da execução para outras empresas, indicadas pelo exequente como integrantes do mesmo grupo econômico da executada - Inconformismo dos exequentes - Acolhimento - Relação de direito material tipicamente consumerista - Personalidade jurídica da devedora que não pode servir de óbice à satisfação do direito de ressarcimento do consumidor - Aplicação analógica do art. 28, § 5º, do CDC - Evidente a existência de grupo econômico, que cria pessoas jurídicas distintas para cada empreendimento - Conduta, voltada à criação de patrimônios de afetação, que é lícita, mas voltada à proteção do consumidor, não da empresa - Precedentes - Possibilidade de ingresso das demais pessoas jurídicas integrantes do grupo no polo passivo - AGRAVO PROVIDO.
+Rejeitados os embargos de declaração opostos pelas recorrentes (fls. 1963-1969).
+No recurso especial, alegam as recorrentes, preliminarmente, ofensa aos arts. 489, § 1º, II, e 1.022, inciso II, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido. Aduzem que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Sustentam, ainda, ofensa aos arts. 50, caput e § 4º, do Código Civil, e 28, caput e § 5º, do Código de Defesa do Consumidor, ao se insurgirem contra o entendimento do Tribunal de origem que reformou a decisão de origem para incluir a parte recorrente no polo passivo do cumprimento de sentença que originou o incidente de desconsideração da personalidade jurídica.
+Aduzem que não integram o grupo econômico da executada, nem dela são sócias. Assim, não é possível estender a responsabilidade pelas suas dívidas às recorrentes.
+Suscitam , outrossim, divergência jurisprudencial.
+Sem contrarrazões ao recurso especial (fl. 2025).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 2030-2033), o que ensejou a interposição do presente agravo.
+Sem contraminuta ao agravo (fls. 2092).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das demais alegações das recorrentes, considerando que a Corte de origem, ao entender pela procedência da inclusão do seu nome no polo passivo do incidente de desconsideração da personalidade jurídica em questão, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 1819-1827):
+Na fase de cumprimento de sentença, apesar de realizadas diligências em busca do recebimento de numerário em favor dos exequentes-agravados, verificou-se a indisponibilidade de bens aptos ao cumprimento pleno da obrigação, bem como da existência de grupo econômico entre VLA 11330 e a Brazilian Real Estate Holdings Empreendimentos.
+Diante tal quadro, o d. juízo a quo deferiu o processamento do incidente de desconsideração da personalidade jurídica e determinou o arresto dos ativos financeiros mantidos nas contas das empresas pertencentes ao mesmo grupo econômico da executada até o limite do crédito exequendo, r. decisão confirmada nos termos do v. acórdão de fls. 1.587/1.595(autos de origem).
+(..)
+Com razão os agravantes.
+A personalidade da pessoa jurídica não se confunde com a de seus integrantes nem com a de seus administradores.
+Ocorre que, muitas vezes ou sócios ou administradores, agindo contrariamente às finalidades estatutárias ou abusando da personalidade jurídica da pessoa jurídica, acarretam prejuízos a terceiros, quase sempre pela confusão dos negócios próprios com os da entidade que administram.
+A fim de se evitar esses desvios é que se formou a doutrina conhecida como disregard of legal entity, também chamada de doutrina da penetração, para vincular e atingir o patrimônio dos sócios.
+(..)
+Medidas de agilidade e que proporcionam, em realidade, resposta aos anseios dos credores exaustos diante das medidas protelatórias da parte adversa.
+Ausente qualquer fator de ilegalidade ou abusividade.
+A desconsideração da personalidade jurídica é medida que visa atingir o patrimônio pessoal dos sócios quando a sociedade é utilizada como instrumento para a fraude, abuso de direito, for obstáculo ao ressarcimento de prejuízos causados, podendo ser invocada no presente caso.
+Pela teoria da desconsideração, o Juiz pode deixar de aplicar as regras de separação patrimonial entre sociedade e sócios, ignorando a existência da pessoa jurídica num caso concreto, porque é necessário coibir a fraude perpetrada graças à manipulação de tais regras. Não seria possível a coerção se respeitada a autonomia da sociedade.
+Ao enfrentar o tema, decidiu o Superior Tribunal de Justiça:
+(..)
+Logo, deve ser acolhida a pretensão recursal, de modo a determinar o ingresso das empresas apontadas no polo passivo da execução.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis, confira-se o precedente :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. APLICAÇÃO DA TEORIA DA APARÊNCIA. VALIDADE DA CITAÇÃO. SÚMULAS 7 E 83/STJ. LEGITIMIDADE PASSIVA DA INSURGENTE. PREMISSA FUNDADA NA APRECIAÇÃO FÁTICO-PROBATÓRIA E EM TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. PRESCRIÇÃO DECENAL. PONTO DO ARESTO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. OCORRÊNCIA DE DANOS MORAIS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A segunda instância concluiu pela validade da citação da ora insurgente, aplicando a teoria da aparência. Além disso, estabeleceu que ela fazia parte do mesmo grupo econômico. Essas ponderações, além de terem sido efetivamente fundadas na apreciação fático-probatória da causa (Súmula 7/STJ), estão realmente em harmonia com a jurisprudência desta Corte Superior - Súmula 83/STJ.
+3. Consoante orientação do Superior Tribunal de Justiça, "tendo o Tribunal de origem concluído que as empresas pertencem ao mesmo conglomerado econômico, deve ser reconhecida a aplicação da Teoria da Aparência, a qual é amplamente aceita nesta Corte" (AgInt no AREsp 1.698.883/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/10/2020, DJe 17/11/2020).
+4. Aplica-se a teoria da aparência para reconhecer a validade da citação via postal com aviso de recebimento (AR), efetivada no endereço da pessoa jurídica e recebida por pessoa que, ainda que sem poder expresso para tanto, a assina sem fazer nenhuma objeção imediata. Precedente.
+5. O aresto também concluiu que a insurgente é parte legítima para figurar no polo passivo da demanda, por fazer parte do mesmo grupo econômico, razão a atrair sua responsabilidade solidária. Tais premissas foram extraídas do contexto fático-probatório e de termos contratuais - Súmulas 5 e 7/STJ.
+6. A conclusão no sentido da inexistência de prescrição, por ser tratar de lapso prescricional decenal, está em harmonia com a jurisprudência desta Corte Superior - Súmula 83/STJ.
+7. De acordo com a jurisprudência desta Corte Superior, nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/2002) que prevê 10 (dez) anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/2002, com prazo de 3 (três) anos. Precedentes.
+8. A indenização por danos morais e seu respectivo valor foram estipulados com base na interpretação fático-probatória, ocasionando o óbice da Súmula 7/STJ.
+9. Agravo interno desprovido.
+(AgInt no AREsp n. 2.067.780/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
