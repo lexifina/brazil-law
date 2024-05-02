@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por GISELE TAKINAGA PIZZI TRENTINI, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado (e-STJ, fls. 274-275):
+APELAÇÃO CÍVEL. CONTRATO DE SEGURO EM PLANO DE SAÚDE PELA MODALIDADE REEMBOLSO.
+CONTROVÉRSIA FÁTICO-JURÍDICA INSTALADA QUANTO AO CONTEÚDO E ALCANCE DE CLÁUSULA QUE PREVÊ A COBERTURA DE PROCEDIMENTOS CIRÚRGICOS MAMÁRIOS CONFORME PRESCRIÇÃO MÉDICA.
+APÓLICE CANCELADA A REQUERIMENTO DA AUTORA EM JULHO DE 2021, FATO, CONTUDO, QUE NÃO FEZ DESAPARECER O INTERESSE DE AGIR, NEM CAUSA INFLUXO SOBRE O MÉRITO DA PRETENSÃO, CONSIDERANDO-SE QUE OS PROCEDIMENTOS CIRÚRGICOS OCORRERAM EM JANEIRO DE 2021.
+AUTORA QUE, POR VONTADE PRÓPRIA, RENUNCIOU À COBERTURA CONTRATUAL, QUANDO RESOLVEU REALIZAR OS PROCEDIMENTOS MÉDICOS EM CLÍNICAS QUE NÃO INTEGRAVAM A REDE CREDENCIADA DA RÉ, NÃO SE LHE DADO O DIREITO SUBJETIVO DE, NESSA CIRCUNSTÂNCIA FÁTICO-JURÍDICA, PRETENDER O REEMBOLSO DO QUE DESPENDEU.
+SENTENÇA MANTIDA. RECURSO DE APELAÇÃO DESPROVIDO. ENCARGOS DE SUCUMBÊNCIA, COM MAJORAÇÃO DOS HONORÁRIOS DE ADVOGADO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 292-300).
+Nas razões do recurso especial (e-STJ, fls. 302-312), a ora agravante alegaram ofensa ao art. 1.022 do Código de Processo Civil de 2015.
+Sustentaram, em síntese, a ausência de prestação jurisdicional, aduzindo a existência de contradição no decisum, tendo em vista a existência de fundamentação diversa das provas contidas nos autos, bem como de julgamento diverso do que foi pleiteado pela recorrente. Afirmou que o objeto da demanda é o pedido de restituição dos custos suportados particularmente, pela recorrente, com a realização do procedimento de mamoplastia, apontando que dentre os procedimentos pleiteados, não foi autorizado pela operadora apenas o procedimento de mamoplastia com implante mamário e que, exatamente por isso, buscou a tutela jurisdicional para ser ressarcida apenas e tão somente dos custos despendidos para a realização deste procedimento e não de todos os outros eventos que foram prescritos, e autorizados pelo plano de saúde.
+Foram apresentadas contrarrazões (e-STJ, fls. 317-332).
+O Tribunal de origem deixou de admitir o recurso especial em razão da ausência de violação do art. 1.022 do CPC/2015 (e-STJ, fls. 333-334).
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-SE analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DIREITO DE SUCESSÕES. AÇÃO ANULATÓRIA DE PARTILHA EM INVENTÁRIO DOS BENS DEIXADOS PELA ESPOSA DO FALECIDO COMPANHEIRO DA DEMANDANTE. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. RAZÕES DE RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO E CENTRAL DO ACÓRDÃO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação aos arts. 489 e 1022 Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte agravante.
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. As razões do recurso especial encontram-se dissociadas dos fundamentos do acórdão recorrido, circunstância que faz incidir a Súmula 284 do STF.
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+5. Não havendo adequada demonstração do dissídio jurisprudencial apresentado, o cenário atrai a inadmissibilidade do recurso especial com fundamento a alínea "c" do inciso III do art. 105 da Constituição Federal. Súmula 284 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.701.665/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 26/9/2022.)
+No caso, o Tribunal de origem, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 645-648 ):
+Conquanto tivesse a autora manifestado a vontade de cancelar a apólice, cancelamento que efetivamente ocorreu em julho de 2021, esse fato não fez desaparecer o interesse de agir, nem causa influxo sobre o exame do mérito da pretensão, considerando-se que os procedimentos cirúrgicos ocorreram em janeiro daquele ano.
+Mas um outro fato, este sim, causa influxo e que conduza que se mantenha a r. sentença: o fato de a autora ter, por vontade própria, optado por abrir mão da cobertura contratual, quando decidiu realizar os procedimentos médicos em clínicas particulares e que não integravam a rede credenciada da ré, quando tais procedimentos já contavam com autorização da ré para que fossem realizados em clínicasde sua rede credenciada.
+Destarte, observando-se que todos os procedimentos poderiam se dar em hospital e com médicos da rede credenciada da operadora do plano de saúde, a opção da autora caracteriza-se como uma renúncia à cobertura contratual, não lhe sendo dado, nessa circunstância fático-jurídica, pretender que a ré lhe reembolse o que a autora despendeu com os procedimentos médicos.
+Neste contexto, como bem adscreveu o juízo de origem:
+" ..  a autora poderia ter realizado os procedimentos autorizados pelo plano de saúde e efetuado o pagamento apenas do procedimento de mamoplastia, de forma que desnecessário se mostraria o pagamento pretendido pela autora, de forma que inegávela improcedência do pedido  ..  Destaque-se, assim, que mesmo autorizados a maioria dos procedimentos solicitados a autora optou pela realização na modalidade particular, renunciando à cobertura proposta pela ré e inexistindo assim possibilidade de ressarcimentoposterior  .. ".
+Desta forma, verifica-se que houve pronunciamento sobre a matéria apontada pela recorrente, não havendo que se falar em omissão do acórdão recorrido.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos de 11% para 12% sobre o valor atualizado da causa .
+Publique-se.
+EMENTA
