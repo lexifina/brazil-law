@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA JOSÉ DE LEÃO (e-STJ fls. 1.072-1.091), com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o v. acórdão do eg. Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 266):
+"AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO.
+I- O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribun al Superior, bem como para dar provimento ao recurso interposto quando o a to judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+II- Hipótese dos autos em que a decisão agravada observou os critérios anteriormente expostos e a parte agravante não refuta a subsunção do caso ao entendimento firmado, limitando-se a questionar a orientação adotada, já sedimentada nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557do Código de Processo Civil.
+III - Agravo legal desprovido."
+Nas razões do recurso especial, a parte recorrente alega dissídio jurisprudencial e ofensa aos arts. 128 e 460 do CPC/73 e 1º do Decreto-Lei 745/69. Sustenta não ter sido realizada a notificação premonitória da ora recorrente, a qual é imprescindível para propositura de ação de rescisão de contrato de promessa de compra e venda, mormente porque houve o cumprimento do contrato, com o adimplemento oportuno de todas as prestações do financiamento contratado.
+Prazo para apresentação de contrarrazões transcorreu in albis (e-STJ fls. 316-317).
+É o relatório. Decido.
+Depreende-se dos autos que a Caixa Econômica Federal, na condição de cessionária de direitos creditícios, propôs ação de rescisão de promessa de compra e venda celebrada entre a ora recorrente e Federal São Paulo S/A - Crédito Imobiliário. Asseverou que a recorrente teria se quedado inadimplente desde maio de 1994, razão pela qual protocolou a petição inicial em 8/11/2001.
+É de se ressaltar que o alegado inadimplemento está adstrito ao saldo devedor residual apurado em razão do descasamento entre a correção do saldo devedor e a correção das prestações.
+O pedido foi julgado procedente, dando azo à interposição de apelação.
+O v. acórdão recorrido manteve a decisão monocrática do relator que dera parcial provimento ao recurso de apelação, tão somente para afastar a aplicação de multa do art. 538 do CPC/73, rechaçando, contudo, a alegação de imprescindibilidade de notificação premonitória como condição para propositura da ação de rescisão de contrato de promessa de compra e venda. Com efeito, o v. acórdão recorrido foi expresso em afastar a alegação de necessidade de prévia notificação premonitória, assentando que a citação na presente ação de rescisão contratual já seria suficiente para tanto. Confira-se (e-STJ fl. 261):
+"No caso dos autos, a MM. Juíza de primeiro grau considerou a constituição em mora da ré, a citação da presente demanda, haja vista que o Decreto-lei prevê interpelação judicial e a citação, nada mais certo, tem este condão, uma vez que poderia a parte a qualquer tempo, dentro do prazo, quitar assim a mora."
+Todavia, ao assim decidir, o v. acórdão recorrido dissentiu do entendimento desta Corte Superior de que é necessária a prévia interpelação do devedor. Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. "De acordo com a jurisprudência desta Corte, o desfazimento do contrato de promessa de compra e venda exige a prévia interpelação do devedor para constituí-lo em mora, pois o objetivo da notificação premonitória é permitir ao comprador a oportunidade de purgar a mora e preservar o contrato firmado entre as partes" (EDcl no AgInt no AREsp 1.302.229/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/3/2020, DJe 13/3/2020).
+2.1. Hipótese em que, dadas as particularidades da causa, não se reputa válida a notificação premonitória.
+3. Agravo interno desprovido."
+(AgInt nos EDcl nos EDcl no AREsp n. 172.693/MT, relator Min. MARCO BUZZI, QUARTA TURMA, julgado em 10/10/2022, DJe de 17/10/2022.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - MORA EX PERSONA - CITAÇÃO NO BOJO DA DEMANDA RESOLUTÓRIA NÃO SUPRE A AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA PARA A CONSTITUIÇÃO DO DEVEDOR EM MORA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA AUTORA.
+1. A atribuição de novo valor jurídico aos fatos incontroversos reconhecidos pelas instâncias ordinárias e tidos como tais não implica no vedado reexame de provas. Na presente hipótese, o deslinde da controvérsia não exigiu o revolvimento do conjunto fático-probatório dos autos, sendo inaplicável o óbice da Súmula n. 7/STJ. Precedentes.
+2. Em se tratando de mora ex persona, a citação não supre a ausência de notificação prévia da parte contrária para a sua constituição em mora, com o escopo de rescindir o contrato. Precedentes.
+3. Agravo regimental desprovido."
+(AgRg no REsp n. 1.332.632/MS, relator Min. MARCO BUZZI, QUARTA TURMA, julgado em 17/11/2015, DJe de 25/11/2015.)
+"Contrato de promessa de compra e venda de gleba de terra. Art. 1º do Decreto-Lei nº 745/69. Súmula nº 76. Precedentes da Corte.
+1. A interpelação a que se refere o art. 1º do Decreto-Lei nº 745/69 é indispensável para constituição do devedor em mora.
+2. Recurso especial conhecido e provido."
+(REsp n. 697.689/RS, relator Min. CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 19/10/2006, DJ de 19/3/2007, p. 324.)
+Nesse cenário, é de rigor o provimento do presente recurso, determinando o retorno dos autos para que se promova a regularidade do processo de rescisão de contrato de promessa de compra e venda, mormente porque a dívida apontada não se refere à prestação mensal do contrato, cujo valor e data de vencimento eram certos. Com efeito, o saldo residual, decorrente da adoção de sistemas distintos de correção monetária, não tinha sequer existência certa, podendo, em tese, resultar "zero" ao fim do contrato, ainda que a prática tenha demonstrado tratar-se de situação corriqueira a existência de resíduos expressivos.
+Ademais, ao citar a recorrente para responder à demanda de rescisão não foi oportunizado prazo para sanar a mora, tampouco foi formulado pedido nesse sentido pela autora em sua petição inicial.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento, determinando o retorno dos autos a origem para que se proceda, à prévia interpelação da recorrente e assegure-lhe prazo legal para quitação de eventual débito.
+Publique-se.
+EMENTA
