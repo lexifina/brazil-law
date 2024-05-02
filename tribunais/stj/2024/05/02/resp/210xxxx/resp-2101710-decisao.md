@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 662):
+EMENTA: APELAÇÃO CRIMINAL - ROUBOS MAJOR DOS ABSOLVIÇÃO - IMPOSSIBILIDADE - REDUÇÃO DA PENA-BASE - RECONHECIMENTO DA ATENUANTE DA MENORIDADE RELATIVA ALTERAÇÃO DO QUANTUM DE AUMENTO EM RAZÃO DA CONTINUIDADE DELITIVA - Possibilidade. Havendo comprovação da materialidade e da autoria, bem como do elemento subjetivo dos crimes, inviável a pretensão defensiva de absolvição por insuficiência de provas. Constatando-se equivoco na análise de algumas das circunstâncias judiciais, as penas-bases devem ser reduzidas. Sendo os réus menores de vinte e um anos á época dos fatos, fazem jus a atenuante da menoridade relativa. A escolha da fração da continuidade delitiva é determinada pelo número de crimes cometidos. Tendo os réus cometido quatro e três delitos, o aumento deve ocorrer no patamar de um quarto (114) e um quinto (115), respectivamente.
+Depreende-se dos autos que o recorrente foi condenado pela prática do crime previsto no disposto no art. 157, § 2º, II, por quatro vezes na forma do art. 71, ambos do Código Penal, à pena de 11 anos e 1 mês de reclusão, em regime inicial fechado, além de 72 dias-multa.
+Irresignada, a defesa apelou da referida decisão. O Tribunal a quo deu parcial provimento ao recurso para reduzir as penas aplicadas a 6 anos e 8 meses de reclusão, em regime inicial fechado, bem como 20 dias-multa.
+Nas razões do recurso especial, o recorrente aponta violação do art. 59 do CP, uma vez que "o fundamento concreto apresentado para valorar como desfavorável as consequências do crime não é idôneo" (fl. 712), já que o prejuízo patrimonial suportado pela vitima é elementar do tipo.
+Requer o provimento do recurso para que seja reduzida a pena-base e abrandado o regime inicial de cumprimento de pena.
+Contrarrazões apresentadas. O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Da leitura do julgado vergastado, extrai-se, ao que interessa ao caso:
+A despeito das ponderações da defesa, nas hipoteses de crimes de roubo em que os bens são totalmente recuperados pelos ofendidos No caso em análise, não tendo as vítimas recuperado a totalidade dos bens subtraídos, sofrendo prejuízo financeiro, as consequências do crime são mesmo desfavoráveis.
+Assim tenho que o efetivo prejuizo sofrido pelas vitimas não pode: deixar de ser considerado para fins de fixação das penas-base, uma vez que, nestas hipóteses, as consequências dos crimes são efetivamente mais gravosas do que naquelas em que a vítima tem o bem integralmente reavido. Reforça ainda mais este entendimento o fato de que o legislador, no artigo 387, inciso IV, do Código de Processo Penal, que trata de reparação danos, determina que o juiz considere "os prejuízos sofridos pelo ofendido.
+Como se vê, a pena-base foi majorada em razão das consequências do crime, considerando-se o efetivo prejuízo sofrido pelas vítimas.
+De fato, é "certo que o mero prejuízo não tem o condão de justificar, por si só, o aumento da pena-base do crime de furto, por constituir, em regra, fator comum à espécie, enquanto delito patrimonial. Todavia, quando a lesão se mostra expressiva, desbordando do prejuízo inerente ao delito praticado, configura motivação plenamente válida, apta a justificar o aumento da pena-base" (AgRg no HC n. 472.044/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 27/11/2018, DJe de 6/12/2018).
+No caso dos autos, os bens subtraídos das vítimas, conforme descrito na sentença, são de valor expressivo, e efetivamente extrapolam os elementos do tipo penal de roubo, constituindo fundamentação concreta e idônea para a elevação da pena-base.
+Mantida a pena nos termos estabelecidos pelas instâncias de origem, não há falar em abrandamento do regime inicial de cumprimento de pena (art. 33, §2º, a, do CP).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
