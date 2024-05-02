@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSTRUTORA ALMEIDA COSTA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO DE RESCISÃO CONTRATUAL LOCAÇÃO DE MÁQUINA DE CONSTRUÇÃO - CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR NAO DEVOLUÇÃO DO BEM MÓVEL E DE ALUGUEIS MENSAIS OBRIGAÇÕES CUMULATIVAS TRÂNSITO EM JULGADO DA DECISÃO - CUMPRIMENTO DE SENTENÇA - OBSERVÂNCIA DOS PARÂMETROS ESTABELECIDOS NA COISA JULGADA - REJEIÇÃO DA IMPUGNAÇÃO - EXCESSO DE EXECUÇÃO - INEXISTÊNCIA - OBSERVÂNCIA DAS OBRIGAÇÕES CUMULATIVAS CONTIDAS NO TÍTULO JUDICIAL EXECUTADO E DOS PARÂMETROS DE CORREÇÃO - VALOR INADIMPLIDO - INCIDÊNCIA DE MULTA E HONORÁRIOS PELO NÃO PAGAMENTO VOLUNTÁRIO  DECISÃO INTERLOCUTÓRIA MANTIDA. - O CUMPRIMENTO DE SENTENÇA DEVE OBSERVAR INTEGRALMENTE OS PARÂMETROS CONTIDOS NO TÍTULO EXECUTIVO JUDICIAL. INSTAURADO O PROCEDIMENTO DE CUMPRIMENTO DE SENTENÇA, CABE À PARTE EXECUTADA REALIZAR O PAGAMENTO OU APRESENTAR IMPUGNAÇÃO NO PRAZO LEGAL (CPC, ART. 523, §1º).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 525, § 1º, V, do CPC e do art. 884 do CC, no que concerne ao excesso de execução por meio de impugnação ao cumprimento de sentença, haja vista a cumulação indevida da condenação alternativa, sob pena de incorrer em enriquecimento sem causa, trazendo a seguinte argumentação:
+Dessa maneira, cumpre destacar, concessa venia, que o recorrido acórdão proferido pela 12ª Câmara Cível do Tribunal de Justiça do Minas Gerais, que negou provimento ao Agravo de Instrumento, violou o inciso V do §1º do art.
+525 do Código de Processo Civil e o art. 884 do Código Civil.
+O artigo 525, §1º, V, do CPC possibilita ao demandado alegar eventual excesso de execução por meio de impugnação ao cumprimento de sentença.
+Conforme se verifica na sentença que consubstanciou o título executivo judicial, objeto do cumprimento de sentença, a condenação imposta ao Executado, ora Recorrente, foi feita em caráter ALTERNATIVO, não cumulativo.
+ ..
+Diante da sentença, verificamos o seguinte:
+1. Foi declarado rescindido o contrato de locação existente entre as partes;
+2. Foi determinado que a ré devolva o bem locado OU pague o seu equivalente no valor de R$ 180.000,00 (cento e oitenta mil reais);
+3. A ré foi condenada a pagar à autora os alugueis mensais no valor de R$ 14.500,00 (quatorze mil e quinhentos reais) até a efetiva devolução do bem OU pagamento da indenização substitutiva já fixada.
+ ..
+Diante disso, a determinação de devolução do bem locado e a respectiva condenação ao pagamento de alugueis mensais até a devolução do bem restaram frustradas, tendo em vista que o bem foi roubado. Por esse motivo, a sentença proferida constou condenações ALTERNATIVAS:
+a) Devolução do bem locado OU pagamento do seu equivalente no valor de R$ 180.000,00 (cento e oitenta mil reais);
+b) Pagar à autora os alugueis mensais no valor de R$ 14.500,00 (quatorze mil e quinhentos reais) até a efetiva devolução do bem OU pagar a indenização substitutiva já fixada.
+Dessa maneira, a Ré, ora Recorrente, ficou condenada a pagar a indenização substitutiva no valor de R$ 180.000,00 (cento de oitenta mil reais), tendo em vista a impossibilidade de devolução do bem diante do roubo ocorrido em 29/11/2010.
+Com isso, o valor da condenação imposta no valor de R$ 180.000,00 (cento e oitenta mil reais) corrigida pelo INPC desde a data da propositura da ação (17/11/2011), acrescido de juros de mora contados do prazo de restituição da coisa (27/02/2013), multa de 10% (art. 523, §1º do CPC), honorários advocatícios em 10% na fase de conhecimento e honorários advocatícios em 10% na fase de execução, atualizado até 30/11/2022, perfazem o montante de R$ 940.035,40 (novecentos e quarenta mil, trinta e cinco reais e quarenta centavos).
+Todavia, o Recorrido apresentou cumprimento de sentença de forma equivocada, cobrando as condenações alternativas de forma cumulativa, cometendo excesso de execução diante da cumulação indevida, previsto no inciso V do §1º do art. 525 do CPC.
+ ..
+A intepretação da sentença de forma cumulativa ofende não só o excesso de execução previsto no inviso V do §1º do art. 525 do CPC, mas também causa o enriquecimento sem causa, previsto no art. 884 do CPC.
+Ora, como pode um contrato de locação de um bem no valor de R$ 180.000,00 (cento e oitenta mil reais), que foi roubado, gerar uma obrigação de restituir mais de R$ 10.000.000,00 (dez milhões de reais), como executa o Recorrido
+Ademais, o Cumprimento de Sentença apresentado está extra petita.
+Conforme se verifica nos próprios pedidos iniciais e sentença, o Recorrido está executando equivocadamente condenação alternativa de forma cumulativa indevidamente.
+Diante disso, resta cristalino o excesso na execução apresentada pelo Recorrido, que deve ser reconhecido, sob pena de ofensa ao art. 525, §1º, inciso V, do CPC, e ao art. 884, do CC.
+Restando demonstrado o evidente excesso de execução e a nítida tentativa de enriquecimento sem causa do Recorrido, pugna o Recorrente que o acórdão seja reformado a fim de determinar expressamente que os cálculos sejam refeitos pela Contadoria Judicial nos exatos termos da sentença, considerando a obrigação ALTERNATIVA fixada por aquele juízo, mais especificamente quanto ao pagamento do valor fixo do equipamento extraviado, devidamente atualizado (fls. 1.085-1.089).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, é inequívoco que a decisão a ser cumprida na origem não se limita à cobrança do valor correspondente à mencionada máquina de construção, porque a sentença prolatada na origem e confirmada em sede recursal estipulou duas obrigações, ou seja, a de pagar o valor correspondente ao bem não devolvido (com a incidência de juros e correção monetária), bem como ao pagamento dos alugueis vencidos desde 29/11/2010 e os vincendos até a efetiva devolução do bem, também corrigidos nos termos do contrato de locação.
+Desse modo, não se mostra irregular a cobrança das dívidas de modo cumulativo, conforme promovido nos autos do cumprimento de sentença, porque tal pretensão decorre do título executivo judicial transitado em julgado.
+Logo, deve ser rejeitada a tese de que há excesso de execução no ponto em que se promoveu a cobrança cumulativa das duas obrigações mencionadas (fl. 1.072).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
