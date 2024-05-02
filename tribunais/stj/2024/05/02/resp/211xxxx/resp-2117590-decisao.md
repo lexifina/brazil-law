@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, fundado na alínea "a" do permissivo constitucional, aviado contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 295):
+Tributário e Processual Civil. Mandado de segurança. Exclusão do crédito presumido do ICMS nas bases de cálculo do IRPJ e da CSLL. Legalidade. Manutenção da sentença. Desprovimento às apelações e à remessa necessária.
+1. Cuida-se de apelações e remessa necessária ante sentença que concedeu a segurança, declarando o direito à impetrante ao recolhimento do IRPJ e da CSLL sem a inclusão sobre o crédito presumido dos benefícios fiscais de ICMS concedida por outros entes da Federação, sem condenação em honorários advocatícios.
+2. A Fazenda Nacional requer, em síntese, a modificação da sentença no tocante à legalidade da inclusão da base de cálculo do IRPJ e da CSLL, a renúncia fiscal  benefícios fiscais de ICMS  concedida por outros entes da Federação.
+3. Sustenta, ainda, que as reduções de base de cálculo de IRPJ e de CSLL somente devem ser concedidas quando há previsão legal, sob pena de confronto ao princípio da legalidade ou de usurpação aos poderes legislativos pelo Poder Judiciário.
+4. Em suas razões recursais, o particular postula a declaração do direito líquido e certo à exclusão de todos os valores resultantes dos benefícios fiscais concedidos no contexto de política fiscal do Rio Grande do Norte para fins de apuração do IRPJ e da CSLL, pelo regime do lucro real ou do lucro presumido.
+5. Segue aduzindo a parte impetrante o direito à compensação tributária dos valores pagos a título de IRPJ e CSLL, nos últimos cinco anos que antecederam à impetração da ação, corrigidos monetariamente pela taxa Selic e a condenação da impetrada de todas as despesas e custas processuais.
+6. No caso em análise, refere-se a mandado de segurança que objetiva o reconhecimento da inexistência de relação jurídico-tributária que obrigue o impetrante ao recolhimento do IRPJ e CSLL, tendo como base de cálculo o crédito presumido de ICMS, em face dos benefícios fiscais do ICMS.
+7. Ao exame dos autos, o impetrante busca o reconhecimento de que não se pode admitir que o ICMS se enquadre como faturamento ou receita nem tampouco como renda, pois representa um ônus que é suportado pelo apelante.
+8. Ademais, esta Quarta Turma tem adotado o entendimento da Primeira Seção do Superior Tribunal de Justiça, firmado no julgamento do EREsp 1.517.492/PR (DJ 01/02/2018), no sentido da ilegalidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e da CSLL, haja vista que se não fosse esse o procedimento, possibilitaria à União retirar indiretamente incentivo fiscal que o Estado-membro outorgou, no âmbito de sua competência tributária.
+9. Registre-se, ainda, que o contribuinte possui tão somente o direito de compensabilidade dos valores recolhidos de forma indevida, os critérios a serem utilizados na futura compensação (Selic, prescrição, restrição a créditos da mesma natureza), analisando oportunamente no âmbito administrativo, após o trânsito em julgado da decisão.
+10. Desprovimento às apelações e à remessa necessária, mantendo o entendimento da douta sentença no sentido de que o crédito da isenção de ICMS do impetrante seja excluído da base de cálculo do IRPJ e da CSLL.
+Embargos de declaração rejeitados (e-STJ fls. 349/353).
+Em seu recurso especial (e-STJ fls. 375/394), a parte aponta violação dos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/2015, do art. 30, § 4º, da Lei n. 12.973/2014 (com redação dada pela Lei Complementar n. 160/2017) e dos arts. 111, 144 e 176 do CTN.
+Afirma, preliminarmente, que o acórdão recorrido padeceria de omissão, bem como estaria desfundamentado.
+No mérito, aduz que o crédito presumido de ICMS, assim como os demais benefícios fiscais ditos "negativos", isto é, que têm por efeito a diminuição da base de cálculo do referido imposto, não poderiam ser excluídos do campo de incidência do IRPJ e da CSLL.
+Contrarrazões às e-STJ fls. 424/439.
+Na sistemática do recurso repetitivo, foi negado o juízo de retratação (e-STJ fls. 504/510).
+Recurso especial admitido (e-STJ fl. 533).
+Passo a decidir.
+A irresignação merece prosperar, em parte.
+Na origem, cuida-se de mandado de segurança mediante o qual se busca a exclusão, da base de cálculo do IRPJ e da CSLL, de benefícios tributários relativos ao ICMS.
+Segurança concedida, por sentença.
+Apelação e remessa oficial desprovidas.
+Pois bem.
+Pacífico o entendimento do STJ no sentido de que: a) o crédito presumido de ICMS não sofre a incidência de IRPJ e de CSLL; b) os demais benefícios fiscais relacionados ao ICMS não podem ser excluídos, em regra, da base de cálculo do IRPJ e da CSLL, salvo quando atendidas as condições estabelecidas em lei específica.
+À guisa de mero exemplo, confira-se a ementa do seguinte precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. BENEFÍCIOS FISCAIS DE ICMS. INCLUSÃO NAS BASES DE CÁLCULO DO IRPJ E DA CSLL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM TESE DEFINIDA PELA PRIMEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM PRECEDENTE QUALIFICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme entendimento da Primeira Seção deste Tribunal Superior, à exceção dos créditos presumidos de ICMS (EREsp n. 1.517.492/PR), os benefícios fiscais de ICMS, tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros, devem ser incluídos nas bases de cálculo do IRPJ e da CSLL, salvo quando atendidos os requisitos previstos no art. 10 da Lei Complementar n. 160/2017 e no art. 30 da Lei n. 12.973/2014; e, como destacado no julgamento do REsp n. 1.945.110/RS, repetitivo, "para a exclusão dos benefícios fiscais relacionados ao ICMS da base de cálculo do IRPJ e da CSLL não deve ser exigida a demonstração de concessão como estímulo à implantação ou expansão de empreendimentos econômicos. Considerando que a Lei Complementar n. 160/2017 incluiu os §§ 4º e 5º ao art. 30 da Lei n. 12.973/2014 sem, entretanto, revogar o disposto no seu § 2º, a dispensa de comprovação prévia, pela empresa, de que a subvenção fiscal foi concedida como medida de estímulo à implantação ou expansão do empreendimento econômico não obsta a Receita Federal de proceder ao lançamento do IRPJ e da CSSL se, em procedimento fiscalizatório, verificar que os valores oriundos do benefício fiscal foram utilizados para finalidade estranha à garantia da viabilidade do empreendimento econômico".
+3. No caso dos autos, o acórdão recorrido não destoa da tese definida pela Primeira Seção; porém, não julgou procedente o pedido autoral porque "o judiciário não é órgão de consulta e, sendo assim, não se presta a declarar o que já consta da norma para que se conceda maior segurança jurídica à parte". De fato, a parte impetrante, desde a inicial, diz que irá cumprir os requisitos dos §§ 4º e 5º do artigo 30 da Lei n. 12.973/2014, com redação dada pela LC n. 160/2017; e, se assim é, não tem interesse de agir.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 2.085.388/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/03/2024, DJe 02/04/2024).
+Em relação, especificamente, ao tema da incidência de IRPJ e de CSLL sobre os créditos presumidos de ICMS, aplica-se, portanto, ao presente especial a Súmula 83 do STJ. Quanto ao mais, a s egurança há qu e ser denegada.
+Ante o exposto, com fundamento no art. 255, § 4º, I e III, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa parte, DOU-LHE PROVIMENTO, de modo a limitar a concessão da segurança ao pedido de exclusão da incidência de IRPJ e de CSLL sobre o crédito presumido de ICMS.
+Publique-se. Intimem-se.
+EMENTA
