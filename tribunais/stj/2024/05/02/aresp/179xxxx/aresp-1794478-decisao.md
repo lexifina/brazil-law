@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa (fl. 84):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA PEDIDO DE PESQUISA DE BENS DOCÔNJUGE MEDIDA EXCEPCIONAL AUSÊNCIA DE REQUISITOS DESCABIMENTO
+A pesquisa de bens do patrimônio do cônjuge do executado (casados sob o regime de comunhão parcial de bens) é medida excepcional, cabível apenas nos casos em que seus bens próprios ou advindos da meação respondam pela dívida (CPC, art. 790, IV), hipóteses que pressupõem comprovada reversão da obrigação emseu proveito favor (CC, art. 1.663, § 1º). À míngua de prova de reversão em seu favor, observa-se a regra geral que impede a pesquisa patrimonial de terceiro que não integra a lide. Precedentes deste E. TJSP e desta C. Câmara de Direito Privado.
+RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega que "a meação da mulher responde pelas dívidas do marido, salvo se esta provar não terem sido assumidas em benefício da família, nos termos do artigo 1.664 do Código Civil e artigo 790, inciso IV, do Código de Processo Civil".
+Alega que "A possibilidade de penhorar bens comuns ao casal que se encontram exclusivamente em nome da cônjuge do Executado, visa assegurar o cumprimento da ordem judicial, quando já foram esgotados os meios comuns para a satisfação do direito e não se obteve sucesso, porém, o Tribunal de Justiça do Estado de São Paulo NEGOU e CONTRARIOU a norma regente da matéria, negando a possibilidade de constrição de bens em nome da Esposa do Executado".
+Contrarrazões apresentadas.
+O recurso não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, cuida-se de agravo de instrumento interposto contra decisão que indeferiu o pedido da parte exequente de pesquisa de bens em nome do cônjuge do executado sob fundamento de que "a esposa do executado não compõe o polo passivo da presente execução, bem como, não há elementos que comprovem a alegada fraude contra os credores, impossibilitando, dessa forma, a pesquisa e penhora de bens da esposa" (fl. 39).
+A Corte local negou provimento ao recurso sob fundamento de que a penhora da meação do cônjuge do executado pressupõe que tenha sido comprovada reversão da obrigação em proveito da entidade familiar. Confira-se (fls. 84/86):
+A pesquisa do patrimônio do cônjuge do executado (casados sob o regime de comunhão parcial de bens, fls. 9) é medida excepcional, cabível apenas nos casos em que seus bens próprios ou advindos da meação respondam pela dívida (CPC, art. 790, IV), hipóteses que pressupõem comprovada reversão da obrigação em seu proveito (CC, art. 1.663, § 1º). No caso dos autos, subjaz ao título executivo judicial um contrato de administração de imóveis envolvendo o agravante e a empresa agravada Imobiliária Predimóveis (fls. 22/27), com participação de seu sócio, o agravado Sr. Fábio (fls. 21/22 da origem). Daí que a obrigação foi contraída em favor da atividade empresarial da Imobiliária Predimóveis, de sorte que não há nos autos provas demonstrando o proveito em favor do cônjuge do executado.
+Afora isso, o cônjuge não participou do processo de conhecimento que culminou na formação do título executivo judicial, circunstância que, como dito anteriormente, impede a constrição de seus bens próprios ou advindos da meação ressalvada a hipótese do art. 1.663, § 1º. Nesse sentido, destaca-se precedente deste E. TJSP:
+(..)
+Sendo assim, à míngua de demonstração dos pressupostos que autorizariam a medida excepcional de pesquisa de bens em nome do cônjuge do executado, mantenho a r. Decisão agravada.
+Diante do exposto, NEGO PROVIMENTO ao recurso, mantendo a r. Decisão agravada.
+De início, destaca-se que as razões do recurso especial são meras alegações genéricas de incidência do disposto nos arts. 1.664 do Código Civil e 790, inciso IV, do CPC, deixando de combater de modo específico o fundamento do acórdão recorrido de que a penhora da meação do cônjuge pressupõe a comprovação da reversão da obrigação em seu proveito, assim como da ausência de provas do fato no caso dos autos. Desse modo, incide o óbice da Súmula nº 283 do STF.
+Ademais, verifica-se que o acórdão recorrido não diverge do entendimento desta Corte Superior de que a meação do cônjuge responde pelas obrigações do outro somente quando contraídas em benefício da família, o que o acórdão recorrido afastou expressamente. Nesse sentido: REsp n. 874.273/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/12/2009, DJe de 18/12/2009.
+Na hipótese, o acórdão da Corte local concluiu que não há provas nos autos demonstrando o proveito da dívida em favor do cônjuge do executado, o que não foi objeto de impugnação nas razões do recurso especial.
+Para modificar a conclusão do acórdão recorrido seria necessário, portanto, alterar a premissa fática de que a dívida executada não reverteu em proveito da família, providência vedada em recurso especial, a teor do enunciado da Súmula n. 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
