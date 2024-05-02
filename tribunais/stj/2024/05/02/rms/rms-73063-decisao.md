@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança (art. 105, II, "b", da Constituição Federal) interposto contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+EMENTA: EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. SINDICATO DOS TRABALHADORES NO SERVIÇO PÚBLICO DO ESTADO DE GOIÁS. IMPETRAÇÃO CONTRA REGULAMENTAÇÃO QUE PREVÊ A POSSIBILIDADE DE MINORAÇÃO DO PRÊMIO DE INCENTIVO ADICIONAL (PIA) EM RAZÃO DA OPÇÃO PELA REDUÇÃO DA CARGA HORARIA DE 8 PARA 6 HORAS DIÁRIAS. CONFLITO APARENTE DE NORMAS. PREVALÊNCIA DA LEI ESPECIAL SOBRE A GERAL. CONTRADIÇÃO EVIDENCIADA.
+1. A oposição de embargos declaratórios pressupõe a existência de um dos vícios contidos no art. 1.022 do CPC.
+2. Tendo sido o Decreto Estadual nº 10.055/22, que regulamenta a Lei Estadual 14.600/2003, expedido em consonância com os limites estabelecidos nela contidos, encontra validade no permissivo constitucional do art. 84, inciso IV, da Constituição Federal e, por simetria, art. 37, inciso IV, da Constituição Estadual.
+3. Na hipótese, os embargos declaratórios devem ser acolhidos para sanar a aparente antinomia existente entre o § 5º do art. 14 do Decreto Estadual nº 10.055/2022, que dentro do seu poder regulamentar consignou que para recebimento do PIA é exigido o cumprimento da carga horária de 8 (oito) horas diárias, 40 (quarenta) horas semanais e/ou 200 (duzentas) horas mensais, e o § 3º do art. 74 da Lei Estadual 20.756/2020, que garante a jornada reduzida para o servidor que seja pessoa com deficiência, ou que tenha sob seus cuidados dependente em igual situação, a qual deverá ser solucionada pelo critério da especialidade, ou seja, deverá prevalecer a norma especial sobre norma geral.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS.
+Nas razões recursais (fls. 392-399), a parte alega:
+Trata-se de mandado de segurança coletivo com a finalidade de resguardar o direito dos servidores substituídos pelo recorrente, ocupantes de cargo de provimento em comissão ou função comissionada, que optarem pela redução da jornada de 8 (oito) para 6 (seis) horas diárias, a manutenção do pagamento do Prêmio de Incentivo Adicional (PIA).
+A impetração teve como fundamento do disposto no art. 74, §3º, da Lei Estadual n. 20.756/20, que prevê a possibilidade de redução da jornada de trabalho para o equivalente a 6 (seis) horas diárias, 30 (trinta) semanais e 150 (cento e cinquenta) horas mensais, ao servidor que seja pessoa com deficiência, na forma da lei, e exija cuidados especiais ou tenha, sob seus cuidados, cônjuge, companheiro, filho ou dependente, nessa mesma condição.
+(..)
+Assim, os servidores enquadrados na situação supra  pessoa com deficiência, na forma da lei, e exija cuidados especiais ou tenha, sob seus cuidados, cônjuge, companheiro, filho ou dependente, nessa mesma condição  possuem direito a redução da jornada de trabalho (8 para 6 horas), sem prejuízo da remuneração.
+A despeito da expressa previsão constante do Estatuto Civil, os servidores que recebem ou fazem jus ao Prêmio de Incentivo Adicional (PIA), previsto na Lei Estadual n. 14.600, de 1º de dezembro de 2003, regulamentada pelo Decreto n. 10.055, de 25 de fevereiro de 2022, tiveram o direito a redução de jornada afastado.
+(..)
+Como mencionado em linhas pretéritas, o §5º, do art. 14, do Decreto n. 10.055/22, exige que os servidores beneficiados com o PIA, cumpram jornada de 8 (oito) horas diárias 40 (quarenta) horas semanais e/ou 200 (duzentas) horas mensais, independentemente da carga horária de seu cargo ou de restrições de qualquer ordem impeditivas do cumprimento dessa jornada.
+Eis, portanto, a ilegalidade combatida pelo recorrente!
+Se não bastasse a inovação trazida pelo Decreto Estadual, há clara restrição no direito dos servidores ocupantes de cargo de provimento em comissão ou função comissionada, que percebem ou fazem jus ao PIA, de serem beneficiados com a redução de jornada prevista no art. 74, §3º, da Lei Estadual n. 20.756/20.
+Contrarrazões às fls. 412-421.
+Parecer do MPF pelo desprovimento do Recurso às fls. 437-442.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.4.2024.
+O Prêmio de Incentivo aos servidores em efetivo exercício no âmbito da Secretaria de Estado da Saúde de Goiás foi instituído pela Lei Estadual 14.600/2003, que dispõe:
+Art. 1º Fica instituído o Prêmio de Incentivo, nas modalidades Individual e Adicional, aos servidores em efetivo exercício na Secretaria de Estado da Saúde - SES, com o objetivo de incrementar a produtividade e aprimorar a qualidade dos serviços prestados nas atividades finalistas e de meio.
+O benefício foi regulamentado pelo Decreto Estadual 10.055/2022, que definiu, em seu art. 14, § 5º, que "os servidores beneficiados com o Prêmio de Incentivo Adicional devem ter disponibilidade para executar a respectiva função por 8 (oito) horas diárias, 40 (quarenta) horas semanais e/ou 200 (duzentas) horas mensais, independentemente da carga horária de seu cargo ou de restrições de qualquer ordem impeditivas do cumprimento dessa jornada".
+Não há que se falar em extrapolação do poder regulamentar. A jornada comum do servidor público do Estado de Goiás já é de 8 horas diárias, conforme estabelece o art. 76 da Lei Estadual 20.756/2020, in verbis:
+Art. 76. O servidor da administração direta, autárquica e fundacional do Poder Executivo, sujeito, em razão do seu cargo de provimento efetivo, a 8 (oito) horas diárias de trabalho, poderá ter sua carga reduzida de  (um quarto), mediante termo de opção em que manifeste a intenção de aderir à jornada de 6 (seis) horas diárias e declare estar de acordo com a aplicação de idêntico redutor de  (um quarto) sobre a sua remuneração ou subsídio, enquanto perdurar o seu novo regime de trabalho.
+É certo que o dispositivo, em seu § 3º, permite a redução de jornada ao servidor que seja pessoa com deficiência ou tenha sob seus cuidados pessoa na mesma condição. No entanto, do direito à redução de jornada não se pode extrair o direito ao recebimento do Prêmio de Incentivo - o qual, conforme estabelece o art. 1º da Lei Estadual 14.600/2003, tem como objetivo "incrementar a produtividade", o que, nos termos do Decreto Estadual 10.055/2022, exige disponibilidade para executar a função por 8 horas diárias.
+Registre-se que nada impede que o servidor beneficiado pelo § 3º do art. 76 da Lei 20.756/2020 opte pela jornada de trabalho de 8 horas diárias e, assim, receba o adicional.
+Cuida-se de lei específica, que institui benefício eventual dependente do atendimento a determinados padrões de produtividade, dentre eles a disponibilidade para trabalhar por mais tempo. Como bem apontou o Ministério Público Federal em seu parecer, a lei que instituiu o Prêmio de Incentivo é lei especial e deve prevalecer sobre a Lei Estadual 20.756/2020.
+Diante do exposto, nego provimento ao Recurso Ordinário.
+Publique-se.
+Intimem-se.
+EMENTA
