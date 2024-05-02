@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Rejane Correia da Silva (ou Rejane Alexandre da Silva) - denunciada pelas sanções do art. 33, caput, da Lei n. 11.343/2006, c/c o art. 12 da Lei n. 10.826/2003, c/c o art. 180 do Código Penal, c/c o art. 29 da Lei n. 9.605/1998, todos na forma do art. 69 do mesmo diploma (fl. 12) -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DA PARAÍBA (Agravo Interno no Habeas Corpus n. 0824712-27.2023.8.15.0000).
+Afirma-se, na impetração, que, em sua defesa, a paciente arguiu que a denúncia deveria ser rejeitada, pois a prova da materialidade delitiva foi obtida por meio ilícito pela Polícia Militar, inclusive na audiência de custódia, a prisão em flagrante foi reconhecida como ilegal e consequentemente relaxada a prisão em flagrante da paciente, além de que não havia justa causa para oferecimento da denúncia, além da arguição de outras matérias preliminares (fl. 4).
+Requer-se, em liminar e no mérito, a concessão da ordem para (fl. 9):
+ ..
+Liminarmente e no mérito, que possa ser concedido ordem de habeas corpus, para determinar que o Tribunal de Justiça da Paraíba, aprecie a tese de trancamento da ação penal articulada no writ n. 0824712-27.2023.815.0000, lá impetrado;
+ Caso seja necessário, que a autoridade coatora possa ser oficiada para prestar informações;
+ Que seja dado vistas ao MPF, pelo prazo regimental, para emissão de parecer.
+ ..
+É o relatório.
+O cerne da impetração consiste na alegação de ilicitude da prova, decorrente a violação do domicílio da paciente. Em síntese, a defesa aduz que os agentes policiais violaram a casa onde ela morava e torturaram seu filho menor que lá se encontrava do momento para conseguir entrar no local. Em síntese, a prova seria ilegal, de modo que toda a cadeira probatória dela decorrente estaria contaminada ("fruits of the poisonous tree") - fls. 11/20.
+Em sua informações, o Juízo de Direito da 1ª Vara de Entorpecentes da comarca da Capital/PB explicitou o seguinte (fls. 282/284 - grifo nosso):
+ ..  relativamente à arguição de prova ilícita, faz oportuno salientar que tal menção carece de uma melhor análise através da instrução processual, até porque, em que pese o teor da decisão exarada no APF(Id. 65242226), como anexado pela Defesa, tal análise ali fora prévia, devendo, pois, haver um melhor detalhamento das circunstâncias do flagrante quando da realização da audiência de instrução e julgamento.
+Portanto, de modo preambular, colhe-se que quando do flagrante houve o exercício regular de um direito e dever de ofício dos agentes públicos, deforma que não há respaldo a alegação de obtenção de prova por meio ilícito, ao menos do que se depreende do álbum processual no momento."
+ ..
+Da atenta leitura dos autos, denota-se que, para o acolhimento da pretensão deduzida no mandamus - reconhecimento da nulidade da prova e seu consequente desentranhamento do feito - seria imprescindível, como bem informou o Juízo a quo, a realização da aprofunda da incursão probatória para avaliar como efetivamente a prova foi obtida e trazida ao caderno processual. Noutras palavras: havendo controvérsia acerca da melhor versão dos fatos a serem considerados, o habeas corpus revela-se incabível (fl. 319).
+Nesse sentido, registre-se que inexiste prolação de sentença in casu, logo, o contexto dos autos e o atual estágio processual não autorizam a análise aprofundada de nulidade pela via estreita do habeas corpus, de modo que se faz prematuro afirmar a invalidade das provas produzidas quando nem sequer concluída a instrução probatória na ação ordinária em questão. Os pormenores do caso devem ser esclarecidos durante a instrução processual, momento apropriado para a análise aprofundada dos fatos narrados pelo titular da ação penal pública e dos contornos jurídicos do caso, culminando na prolação da sentença condenatória ou absolutória (AgRg no HC n. 835.141/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/4/2024).
+Ademais, eventuais discussões sobre a materialidade e autoria delitiva ou que demandem o reexame de provas não podem ser aferidas nessa via, cujo escopo é assegurar o direito de ir e vir contra ilegalidade flagrante, não sendo cabível a revisão extensa do conjunto de fatos e provas dos autos (AgRg no HC n. 847.891/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 18/4/2024).
+Nesse sentido: AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022.
+Em acréscimo, sobre a impossibilidade de exame prematuro da pretensão aduzida pela defesa técnica, oportuna a transcrição do voto condutor do acórdão impugnado (fl. 15):
+ ..
+A versão dos fatos afirmada na inicial - ilicitude de prova decorrente de pretensa invasão de domicílio da paciente, mediante tortura alegadamente perpetrada por militares contra um menor de idade - mostrou-se uma questão controvertida nos autos, como bem reconheceu o juízo de origem. Para dirimi-la, portanto, seria necessário (invariavelmente) realizar dilação probatória, o que é vedado em sede de mandamus.
+Dessa maneira, a decisão agravada, com a devida vênia, não me parece merecedora de qualquer censura, devendo ser inteiramente preservada. Afinal, ela espelhou a posição largamente encampada pelos tribunais - inclusive pela Corte da Paraíba - no sentido de reconhecer a impropriedade da demanda aforada pela defesa da recorrente para a propósito por ela desejado.
+ ..
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. SUPOSTA PRODUÇÃO DE PROVAS ILÍCITAS. ALEGADA VIOLAÇÃO DE IMÓVEL HABITADO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. MANIFESTAÇÃO DE PRIMEIRO GRAU NECESSÁRIA. EXAME PREMATURO EM SEGUNDO GRAU. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
