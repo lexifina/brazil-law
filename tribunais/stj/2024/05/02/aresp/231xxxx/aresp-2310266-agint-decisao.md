@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por INDUSTRIA DE BEBIDAS IGARASSU LTDA. contra a decisão de fls. 1176-1179 da lavra da Ministra Assusete Magalhães, que conheceu do agravo para negar provimento ao recurso especial.
+Sustenta a parte agravante a impossibilidade de aplicação imediata da tese fixada pelo Supremo Tribunal Federal no julgamento do Tema n. 985 do regime da repercussão geral, porquanto não houve a apreciação dos embargos de declaração opostos àquele julgado (RE 1.072.085).
+Requer, assim, que:
+ ..  o presente agravo interno seja integralmente acolhido para que, em juízo de retratação, a r. decisão agravada seja reconsiderada, a fim de que seja determinado o sobrestamento do presente feito, até o julgamento final dos embargos de declaração opostos no RE 1.072.085 (Tema nº 985 da Repercussão Geral), para que, posteriormente, seja determinada a aplicação do entendimento que será proferido nos referidos embargos. (fls. 1193-1194)
+À fl. 1255 foi certificado que o prazo para manifestação da parte agravada transcorreu in albis.
+É o relatório. Decido.
+Nos termos do art. 259 do RISTJ, RECONSIDERO a decisão agravada (fls. 1176-1179), tornando-a sem efeito.
+A matéria ora deduzida diz respeito à incidência da contribuição previdenciária patronal sobre o terço constitucional de férias, que se encontra pendente de definição nos embargos de declaração opostos o RE 1.072.485/PR (Tema 985).
+Cumpre ressaltar que, em 26/6/2023, o Ministro André Mendonça proferiu decisão deferindo:
+ ..  os pedidos principais contidos nas Petições STF nº 31.548/2022, nº 73.166/2022 e nº 54.423/2023, com a finalidade de decretar a suspensão, em todo o território nacional, dos feitos judiciais e administrativos pendentes, individuais ou coletivos, que versem sobre a questão presente no Tema nº 985 do ementário da Repercussão Geral, nos termos do art. 1.035, § 5º, do CPC.
+Na referida decisão, apontou, ainda, ser "oportuno determinar a suspensão de tramitação de todos os processos potencialmente atingidos pela possível modulação de efeitos a ser operada nos embargos de declaração pendentes de julgamento no Plenário presencial" (STF, RE 1.072.485/PR, relator Ministro André Mendonça, DJE de 27/6/2023).
+Dessa maneira, em razão de economia processual e para se evitar a prolação, pelo STJ, de provimentos jurisdicionais em desconformidade com o que vier a ser definitivamente decidido pelo STF, conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com novo juízo de retratação ou de conformação a ser realizado pela instância ordinária após o julgamento dos embargos de declaração no RE 1.072.485/PR.
+Ante o exposto, RECONSIDERO a decisão de fls. 1176-1179 e DETERMINO a devolução dos autos, com a devida baixa nesta Corte, para que o processo permaneça suspenso até a publicação do acórdão dos EDcl no RE 1.072.485/PR (Tema 985/STF), a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. TERÇO CONSTITUCIONAL DE FÉRIAS. TEMA N. 985/STF DO REGIME DA REPERCUSSÃO GERAL. SUSPENSÃO DOS PROCESSOS ATÉ O JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS NO RE 1.072.085. RECONSIDERAÇÃO DA DECISÃO. DETERMINADA A DEVOLUÇÃO DOS AUTOS, COM A RESPECTIVA BAIXA, AO TRIBUNAL DE ORIGEM.
