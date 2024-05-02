@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PLAYMOVE INDÚSTRIA E COMÉRCIO S.A. contra a decisão que inadmitiu recurso especial com base na ausência de violação do art. 1.022 do CPC e na incidência das Súmulas n. 7 do STJ e 735 do STF.
+A agravante defende a inaplicabilidade da Súmula n. 7 do STJ, pois as teses suscitadas não ensejam reexame fático-probatório, pois discutem a negativa de vigência dos dispositivos de lei invocados, que tratam dos requisitos da tutela de urgência.
+Indica manifesta ofensa ao art. 1.022 do CPC ante a omissão do Tribunal a quo acerca do comportamento contraditório da parte e contradição do aresto acerca do perigo da demora e da fundamentação surpresa.
+Sustenta também que o órgão de interposição do recurso, ao emitir juízo prévio de admissibilidade, ultrapassou os limites de sua competência, adentrando indevidamente o mérito do recurso especial.
+Requer seja provido o agravo para que haja o conhecimento e provimento do recurso especial.
+É o relatório. Decido.
+Inicialmente, esclareça-se que, em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, aliás, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais".
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na ausência de violação do art. 1.022 do CPC e na incidência das Súmulas n. 7 do STJ e 735 do STF.
+No agravo em recurso especial, contudo, a parte não impugnou, especificamente, o fundamento referente à incidência da Súmula n. 735 do STF, tendo-se limitado a defender a inaplicabilidade da Súmula n. 7 do STJ no tocante à verificação de ofensa ao art. 300 do CPC e a apontar violação do a rt. 1.022 do CPC.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
