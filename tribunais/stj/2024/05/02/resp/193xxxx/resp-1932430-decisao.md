@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial adesivo interposto por PRÊMIO EMPREENDIMENTOS IMOBILIÁRIOS LTDA., JORGE RIBEIRO ZARUR e JORGE JOSÉ DA SILVA COREIXAS, contra acórdão da Décima Câmara Cível do TJRJ, assim ementado (e-STJ fl. 1.573):
+Ação de rito comum ordinário, com pleito declaratório. Controvérsia sobre alegada existência de sociedade de fato que teria existido entre o autor e os 2º, 3º e 4º réus, em relação a sociedade empresária, ora 2ª ré, e da qual teria sido excluído, sem receber os seus haveres. Réus que negavam a existência de tal sociedade de fato, e que o autor teria emprestado dinheiro à empresa. Sentença de então procedência, fixando o início e o fim da sociedade de fato, determinando a apuração de haveres do sócio excluído, por meio de liquidação de sentença por arbitramento. Acerto da decisão. Recurso das partes. Manutenção da sentença por seus lúcidos fundamentos e conclusões. Recursos desprovidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.609/1.612).
+Nas razões do recurso especial adesivo (e-STJ fls. 1.669/1.679), fundamentado no art. 105, III, "a", da CF, os recorrentes apontam violação dos arts. 489, § 1º, III e IV, e 1.022, II, do CPC/2015. Alegam que o Tribunal de origem teria deixado de se pronunciar sobre o único argumento de defesa apresentado, qual seja, o de que o comportamento do recorrido demonstrava que ele tinha deixado a sociedade há anos. Explicam que transferiram para o recorrido um imóvel da sociedade, com o fim de que o patrimônio ficasse protegido de credores. Entretanto, o recorrido teria ignorado o pactuado, vendido o imóvel e ficado com o resultado da venda para si. Posteriormente, com o sucesso de um estudo financeiro realizado para o soerguimento da empresa, o recorrido teria ajuizado a demanda, alegando suposto golpe, a fim de auferir lucros da sociedade abandonada por ele há muito tempo. Afirma que tais argumentos não teriam sido apreciados.
+Foram apresentadas contrarrazões (e-STJ fls. 1.711/1.717).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 1.731/1.735).
+É o relatório.
+Decido.
+Os recorrentes apontam violação dos arts. 489 § 1º, III e IV, e 1.022, II, do CPC/2015, alegando que o Tribunal de origem teria deixado de se manifestar sobre o único argumento de defesa apresentado, qual seja, o de que o comportamento do recorrido demonstrava que ele tinha deixado a sociedade há anos.
+Analisando os autos, verifico que realmente, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este Juízo especial, os autos devem retornar ao Tribunal de origem.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para novo exame dos embargos de declaração de fls. 1.601/1.605 (e-STJ), sanando o vício reconhecido.
+Publique-se e intimem-se.
+EMENTA
