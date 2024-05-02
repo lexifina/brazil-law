@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 822):
+APELAÇÃO. PLANO DE SAÚDE. CONTRATO COLETIVO POR ADESÃO. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE. Irresignação da parte demandada em face da procedência do pleito inaugural. Cláusula de reajuste por sinistralidade e por variação dos custos médico-hospitalares que, por si só, não é abusiva. Laudo pericial, contudo, que comprovou a aplicação de reajustes sem embasamento técnico atuarial. Abusividade corretamente reconhecida. Substituição pelos índices autorizados pela ANS para contratos individuais ou familiares. Devolução dos valores pagos a maior. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 855/858).
+No recurso especial (e-STJ fls. 861/875), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alega ofensa:
+(i) ao art. 1.022, II, do CPC/2015, porque (e-STJ fl. 867):
+ ..  o v. acórdão recorrido não se atentou para a aplicação do artigo 421, 421-A e 478 do Código Civil, uma vez indispensável a manutenção do equilíbrio contratual e, se tratando de plano coletivo, desnecessária a prévia aprovação de aumentos pela ANS, sendo cabível o reajuste baseado na sinistralidade.
+(ii) aos arts. 421, 421-A e 478, todos do CC, pois (e-STJ fls. 868/875):
+ ..  a liberdade será exercida nos limites da função social do contrato. Logo, é certo que ultrapassado tais limites, haverá possibilidade de intervenção do Poder Público para socorrer o mais fraco da relação.
+ ..  não é possível chegar a uma conclusão diferente da aqui exposta, pois não se pode aplicar o reajuste de um tipo de contrato específico, como o individual ou de família, aos contratos coletivos, que são pactuados entre pessoas jurídicas e são custeados de maneira completamente diferente, como repetidamente arguido nesses autos.
+ ..  o reajuste dos contratos coletivos -que possuem o benefício de serem mais baratos que os individuais - deva observar os mesmos parâmetros dos contratos individuais, pois isso implicaria num aumento de custos sem o necessário aumento da receita, causando a impossibilidade de manutenção do contrato,  ..
+se faz necessária a reforma do acórdão recorrido, para que se reconheça a : i) à legalidade do reajuste em razão da sinistralidade no que tange a questão da substituição dos percentuais pelos índices da ANS; ii) a apuração, na fase de cumprimento de sentença, do índice de reajuste adequado a ser aplicado ao contrato em discussão nos autos, uma vez que a perícia realizada na fase de conhecimento foi para averiguar a abusividade do reajuste e não o seu correto percentual, que deverá ser estabelecido em liquidação de sentença..
+Foram apresentadas contrarrazões (e-STJ fls. 896/903).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 825/827):
+ ..  não há abusividade em abstrato na cláusula que prevê aplicação do reajuste por sinistralidade, tendo em vista a necessidade de manutenção do equilíbrio econômico dos contratos.
+Não obstante, o aumento deve vir acompanhado de prévia justificativa atuarial ao consumidor, com base nos princípios da informação e transparência.
+Ademais, aplica-se ao caso Código de Defesa do Consumidor, consoante preceituam as Súmulas nº 100 deste E. Tribunal de Justiça e nº 608 do C. Superior Tribunal de Justiça, o qual, inclusive, veda o reajuste abusivo e unilateral por parte da prestadora de serviços(art. 51, IV e X e §1º, III, CDC), por colocar o consumidor em desvantagem exagerada.  ..
+Elucidou o profissional que: "Do ponto de vista técnico, podemos inferir que: os critérios e metodologias aplicados para cálculo do reajuste podem não ser adequados para determinar os reajustes necessários para o equilíbrio da operação; ou os dados utilizados, principalmente com relação as despesas assistências, podem não estar compatível com as reais despesas geradas pelo grupo segurado. Também não se pode deixar de registrar que os três pareceres atuariais apresentados (reajustes de 2018, 2019 e 2020) são datados de 13 de abril de 2021, o que demonstra que os documentos foram elaborados, ou pelo menos assinados, muito posteriormente às datas da aplicação dos reajustes".
+Destarte, conforme bem observado pela magistrada de primeiro grau, os reajustes repassados pela requerida foram aleatórios, sem qualquer justificativa técnica, razão pela qual o reconhecimento da sua abusividade era medida de rigor.
+Aliás, a recorrente em suas razões recursais se limita a alegar ausência de abusividade do reajuste, insistindo na tese de que os contratos coletivos não observam as limitações previstas pela ANS, entretanto, não tece qualquer consideração acerca da conclusão do laudo pericial.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+O STJ entende não ser, em tese, ilegal a cláusula que prevê o reajuste do plano de saúde coletivo, cabendo ao julgador a análise, no caso concreto, da abusividade do reajuste efetivamente aplicado.
+No caso, o Colegiado local compreendeu que o reajuste aplicado pela ré é bastante expressivo, não havendo demonstração cont ábil que o justificasse, tampouco tendo sido contestada a conclusão do laudo pericial.
+Decidir de modo contrário demandaria reexame do contrato e dos demais elementos fáticos do processo, o que encontra óbice nas Súmulas n. 5 e 7 do STJ. A propósito:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. INDENIZATÓRIA. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE SINISTRALIDADE. PRAZO PRESCRICIONAL ÂNUO. ACÓRDÃO QUE CONCLUIU PELA DEMONSTRAÇÃO DA ÍNDOLE ABUSIVA. PRETENSÃO DE ALTERAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..  3. A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes.
+4. Na hipótese, o Tribunal de origem, analisando o conjunto fático-probatório contido nos autos, concluiu que foi abusivo o índice aplicado no contrato em análise porque a recorrente não se desincumbiu do ônus de comprovar o aumento da sinistralidade, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.043.624/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/8/2022, DJe de 26/8/2022.)
+No que diz respeito à alegada necessidade de apuração do índice em cumprimento de sentença, verifica-se que a tese não foi apreciada pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015 especificamente quanto ao tema, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ante o exposto, NÃO CONHEÇO d o recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
