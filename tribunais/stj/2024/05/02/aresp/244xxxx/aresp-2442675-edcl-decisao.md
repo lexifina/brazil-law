@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FORTRESS PERES PARTICIPAÇÕES E EMPREENDIMENTOS LTDA. contra decisão singular de minha relatoria na qual neguei provimento ao agravo em recurso especial em virtude do óbice das Súmulas 7 e 568 do STJ.
+Sustenta a parte embargante que a decisão foi omissa em relação ao seu pedido de reconhecimento de outras incorreções nos cálculos apresentados pelo embargado.
+Afirma que "não incidem juros de mora sobre a multa imposta, sob pena de configurar bis in iden, pois o devedor não pode ser duplamente penalizado; que não há base legal para cobrança de juros moratórios sobre as custas e despesas processuais; e que foram arbitrados honorários advocatícios em 10% (dez por cento) sobre o valor atualizado do débito exequendo, porém, o embargado também vem calculando os honorários sobre as custas processuais, o que não procede, haja vista que diante do caráter meramente ressarcitório de tais verbas, não incidem honorários advocatícios sobre as custas" (fl. 237).
+Impugnação apresentada às fls. 247/251.
+Assim delimitada a questão, passo a decidir.
+Inicialmente, ressalto que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material no julgado.
+Na hipótese, verifico que a decisão embargada padece de omissão, pois constou no recurso especial a alegação de que (i) o embargado, em desacordo com os ditames legais, efetua a cobrança de juros moratórios sobre as custas e despesas processuais, o que se comprova pela mera análise dos demonstrativos de débito acostados aos autos de origem; (ii) é incabível a incidência de juros moratórios sobre as custas e despesas processuais, haja vistas que os ônus de sucumbência, como é o caso das custas, não se confundem com a obrigação principal; e (iii) que não incidem honorários advocatícios sobre as custas processuais, diante do caráter meramente ressarcitório de tais verbas.
+Desse modo, constatada omissão no julgado, impõe-se o acolhimento das alegações da parte embargante para sanar o aludido vício, em conformidade com o disposto no art. 1.022, inciso II, do CPC/2015.
+Da acurada análise dos autos, verifico que o Tribunal de origem não se pronunciou sobre as teses apresentadas nas razões do recurso especial, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à apresentação de cálculo da dívida em desacordo com os ditames legais, uma vez que efetuada a cobrança de juros moratórios sobre as custas e despesas processuais.
+Em face do exposto, acolho os embargos de declaração, mas sem efeitos infringentes.
+Intimem-se.
+EMENTA
