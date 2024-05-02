@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE ALTO TAQUARI, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CHEQUES - PRESCRIÇÃO QUINQUENAL - SÚMULA Nº 503 DO SUPERIOR TRIBUNAL DE JUSTIÇA E ARTIGO 206, § 5º, I, DO CÓDIGO CIVIL - OBSERVÂNCIA - PRAZO PRESCRICIONAL - ARTIGO 202, I, DO CÓDIGO DE PROCESSO CIVIL - INTERRUPÇÃO PELO DESPACHO DE CITAÇÃO - PRAZO PRESCRICIONAL NÃO ESCOADO - RECURSO PROVIDO - SENTENÇA REFORMADA.
+Consoante o entendimento do Superior Tribunal de Justiça por meio da Súmula nº 503, e artigo 206, § 5º, I, do Código Civil, a ação executiva fundamentada em cheque é de cinco (5) anos, contados do dia seguinte à data do vencimento registrado na cártula.
+Nos termos do artigo 202, I, do Código Civil, uma vez ajuizada a ação de execução do título em tempo, com despacho de citação, interrompe-se o prazo prescricional que, no caso, voltou a correr após o trânsito em julgado da decisão (STJ) que encerrou a discussão acerca da sentença que extinguiu o feito sem resolução do mérito. Logo, ajuizada a posterior execução com os devidos documentos necessários ao seu processamento, em tempo hábil, não está configurada a prescrição, pela ausência do transcurso do prazo quinquenal judicial, após o reinicio da contagem" (fls. 201/202 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 261/272 e-STJ).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação do art. 59 da Lei nº 7.357/1985, o qual estabelece o prazo prescricional de seis. Defende que a pretensão encontra-se prescrita, tendo em vista que o prazo aplicável é o lei especial, devendo ser afastada a incidência da norma contida art. 206, §5º, I, do Código Civil.
+Contrarrazões às fls. 297/310 (e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Insurge-se o recorrente contra o entendimento da instância ordinária que afastou a prescrição intercorrente da pretensão executiva.
+No que se refere à ofensa ao art. 59 da Lei nº 7.357/1985, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Observe-se, ainda que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, não tendo sido esta sequer suscitada.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E CONSUMIDOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. VIOLAÇÃO DO ART. 1.022 DO CPC QUE SEQUER FOI ARGUIDA. APLICAÇÃO DE MULTA COM FUNDAMENTO NO ART. 1.026, § 2º, DO CPC. IMPOSSIBILIDADE DE REEXAME. SÚMULA 7/STJ.
+1. Não pode ser conhecido o agravo interno na parte relativa ao dissídio jurisprudencial, tendo em vista a ausência de impugnação específica ao fundamento adotado na decisão agravada. Inteligência do art. 1.021, § 1º, do CPC.
+2. Ausente o prequestionamento quando o Tribunal de origem não emitiu juízo de valor acerca do dispositivo legal apontado como violado. Aplicação da Súmula 211/STJ.
+3. Prequestionamento ficto que pressupõe não apenas a oposição de embargos de declaração na origem, mas também a alegação, perante este Superior Tribunal, da ocorrência de violação do art. 1.022 do CPC, o que não ocorreu no presente caso.
+4. O exame do recurso especial, para afastar a aplicação da multa prevista no art. 1.026, § 2º, do CPC, demandaria a incursão no acervo fático dos autos, o que não se mostra possível nesta instância especial. Aplicação da Súmula 7/STJ.
+5. AGRAVO INTERNO CONHECIDO EM PARTE E DESPROVIDO."
+(AgInt no REsp 1.839.004/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022 - grifou-se)
+Quanto à divergência jurisprudencial, o recurso não merece conhecimento, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. 1. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. 3. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. 4. DANO MORAL. IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula 284/STF.
+(..)."
+(AgInt no AREsp 2.203.568/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022)
+Torna-se patente, assim, a falta de fundamentação do apelo nobre, circunstância que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ademais, rever a conclusão do Tribunal local acerca da configuração da prescrição intercorrentes demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
