@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial fundamentado na alínea a do permissivo constitucional, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Instrumento n. 2035096-42.2023.8.26.0000, assim ementado:
+"AÇÃO ACIDENTÁRIA - AGRAVO DE INSTRUMENTO DO SEGURADO - DECISÃO QUE DEFERIU O PEDIDO DE RESTITUIÇÃO DE VALORES RECEBIDOS PELO AUTOR A TÍTULO DE TUTELA ANTECIPADA CASSADA - Os valores recebidos a título de tutela antecipada consubstanciam verba alimentar auferida de boa-fé em decorrência de decisão judicial, portanto, não repetíveis - Precedentes do Colendo Supremo Tribunal Federal - Decisão reformada - Agravo de instrumento provido."
+Dessa decisão foram opostos embargos de declaração pelo ora Recorrente, os quais foram rejeitados (fls. 406-411).
+Aduz o Recorrente violação aos arts. 115, II, § 1º, da Lei n. 8.213/91, 876, 884 e 885 do Código Civil, 154 do Decreto n. 3.048/99, 296, 297, parágrafo único, 300, § 3º, 302, I e II, 520, I, e II, 948 e 949 do CPC/2015, 3º da Lei de Introdução do Código Civil, insurgindo-se contra a conclusão do Tribunal a quo, quanto à impossibilidade de restituição das quantias pagas em antecipação dos efeitos da tutela, em momento posterior revogada.
+Assevera, ainda, que,
+" d  emonstrado que o r. Julgado do Tribunal "a quo" viola dispositivos de leis federais, o artigo 115, inciso II, da Lei 8.213/91; artigos 876, 884 e 885, todos do Código Civil, artigos 296, 297, parágrafo único, 300, §3º, 302, I e II, 520, I e II , 948 e 949 do Código de Processo Civil, bem assim, o artigo 154 do Decreto 3.048/99, cabe ao E. Superior Tribunal de Justiça restabelecer as regras de Direito, provendo o presente Recurso Especial para o fim de reformar o v. aresto recorrido na parte em que afasta a possibilidade de o INSS ser ressarcido dos valores pagos indevidamente a título de tutela antecipada" (fl. 424).
+Ao final, requer "que o presente Recurso Especial seja conhecido e provido, com a reforma do v. aresto recorrido para determinar a possibilidade de devolução dos valores indevidamente recebidos pela parte autora" (fl. 424).
+Apresentadas as contrarrazões às fls. 427-432.
+O Recurso Especial foi admitido pela Corte de origem às fls. 433-434.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+In casu, verifica-se que a Corte de origem, ao decidir a controvérsia dos autos, deixou consignado no acórdão proferido por ocasião do julgamento dos embargos de declaração, o que se segue, in verbis:
+"Rápida leitura do v. acórdão indicará que a questão essencial foi fundamentadamente decidida, inclusive ponderando o aventado recurso repetitivo e justificando sua inaplicabilidade ao caso concreto.
+Note-se:
+"Isso porque não se desconhece que o colendo Superior Tribunal de Justiça, ao julgar o Recurso Especial nº 1.401.560/MT (submetido ao procedimento dos recursos repetitivos), decidiu pela possibilidade de repetição do benefício pago a título de tutela antecipada posteriormente revogada.
+Todavia, o Pretório Excelso vem decidindo de maneira diversa, em entendimento que se ajusta ao desta Câmara, ou seja, no sentido de que a verba alimentar auferida de boa-fé, em decorrência de decisão judicial, não está sujeita à repetição, caso revogada a tutela antecipada que a tenha concedido.
+(..)
+Assim, conquanto respeitável o posicionamento expressado no julgamento do REsp nº 1.401.560/MT, deve prevalecer o entendimento do Colendo Supremo Tribunal Federal e desta Câmara, no sentido de não ser repetível verba alimentar recebida de boa-fé.
+Ressalte-se que a autarquia, em nenhum momento, questionou a boa-fé do segurado, a qual, como cediço, é presumida, mormente neste caso, em que o pagamento decorreu de decisão judicial.
+Ainda que assim não fosse, não há que se falar na possibilidade de cobrança nos próprios autos, porque inexiste título executivo judicial a embasar a cobrança dos valores recebidos pelo segurado a título de tutela antecipada cassada." (fls. 389/392 dos autos do agravo de instrumento).
+Certo ou errado esse entendimento (eventual "error in judicando"), não comporta discussão na presente oposição, devendo ser impugnado pela via recursal apropriada, pois o mero inconformismo com a solução dada à questão pelo julgado embargado, d.m.v., não enseja embargos declaratórios" (fls. 408/409).
+Todavia, dos excertos acima, vê-se que a conclusão do Tribunal a quo está em desconformidade com a jurisprudência pacífica do Superior Tribunal de Justiça a respeito da matéria em testilha.
+Com efeito, a questão da devolução das quantias recebidas pelo beneficiário do Regime Geral da Previdência Social - RGPS, em virtude de decisão judicial precária, que venha a ser posteriormente revogada, foi objeto de análise no REsp 1.401.560/MT, sob o rito dos julgamentos repetitivos, tendo sido firmada a seguinte tese: "A reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos".
+Em momento posterior, na Pet 12.482/DF, foi proposta a revisão da referida tese, todavia concluiu-se pela reafirmação do entendimento, nos seguintes termos a seguir transcritos, litteris:
+"A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago".
+Por oportuno, registre-se que o Supremo Tribunal Federal, ao analisar o Tema n. 799/STF, afastou o reconhecimento da repercussão geral da matéria ora em análise. Prevalece, assim, nesses casos, a tese firmada pelo Superior Tribunal de Justiça no julgamento do Tema n. 692/STJ, posteriormente confirmada na Pet 1n. 2.482/DF.
+Ante o exposto, dou provimento ao recurso especial, para possibilitar ao INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, ora Recorrente, a cobrança dos valores indevidamente recebidos pela parte Autora, em decorrência de antecipação dos efeitos da tutela, posteriormente revogada, nos termos da jurisprudência desta Corte Superior de Justiça, firmada no julgamento do Tema n. 692/STJ e reafirmada no exame da Pet n. 12.482/DF.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. TUTELA ANTECIPADA. REVOGAÇÃO. DEVOLUÇÃO DE VALORES. POSSIBILIDADE. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA N. 1.404.560/MT. TEMA N. 692 DO STJ. RECURSO PROVIDO.
