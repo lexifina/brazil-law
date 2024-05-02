@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por GOLDFARB INCORPORACOES E CONSTRUCOES LTDA em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Decisão que rejeitou a exceção de pré- executividade. Inconformismo da parte executada. Não acolhimento. Cobrança de cotas condominiais. Certeza, liquidez e exigibilidade do título decorrem da Convenção de Condomínio e da própria Lei. Executada em recuperação judicial. Crédito extraconcursal. Natureza da dívida "propter rem". Não submissão ao Juízo universal. Precedentes. Decisão mantida. Recurso não provido." (e-STJ fls147)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 98789882)
+Nas razões do recurso especial, a recorrente alega violação aos .artigos 489, §1º, III e IV, 783, 784, inciso X, art. 803, I, todos do CPC, bem como dissídio jurisprudencial; sustentando, em síntese que o Recorrido não comprovou documentalmente o crédito referente às taxas condominiais datado em 2016, de modo que a execução de taxas condominiais padece de nulidade, visto que a inicial não está aparelhada com os documentos imprescindíveis à inequívoca demonstração do débito.
+É o relatório. Decido.
+No que se refere à tese de que o Recorrido não comprovou documentalmente o crédito referente às taxas condominiais datado em 2016, de modo que a execução de taxas condominiais padece de nulidade, visto que a inicial não está aparelhada com os documentos imprescindíveis à inequívoca demonstração do débito, a Corte de origem assim decidiu:
+"Afasta-se a preliminar de prejudicialidade do título executivo cuida- se da execução de cotas condominiais em aberto em face de quem era legítima possuidora do bem imóvel.
+A previsão de contribuição dos condôminos, nos limites de suas respectivas frações ideais, está consignada na Convenção de Condomínio e decorre da própria Lei.
+Preenchidos os caráteres de certeza, liquidez e exigibilidade do título." (e-STJ fls. 148)
+E acrescentou ao julgar os embargos de declaração:
+"Ponderou-se, expressamente, que a dívida pelas cotas condominiais decorre da convenção de condomínio e da própria Lei.
+Assim dispõe o artigo 1.336, "caput" e inciso I, do Código Civil: "São deveres do condômino: contribuir para as despesas do condomínio na proporção das suas frações ideais, salvo disposição em contrário na convenção".
+O artigo 9º, alínea "b", da Convenção de Condomínio, repete, em síntese, o entendimento legal.
+Sem disposição contrária em convenção condominial, e considerando que a parte embargante era a legítima possuidora do imóvel à época, ratifica-se o entendimento exarado no embargado Aresto, sobre sua responsabilidade em pagar as quantias inadimplidas." (e-STJ fls. 9880/9881)
+A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. EXECUÇÃO. REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO. JULGAMENTO "EXTRA PETITA". ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático- probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que o inadimplemento é incontroverso, bem como que houve demonstração da existência de previsão orçamentária, aprovada por assembleia, e que os documentos apresentados são suficientes para o exercício da ação executiva. Entender de modo contrário demandaria nova análise dos elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmulas n. 83 e 568 do STJ).
+5. "Conforme entendimento consolidado neste Tribunal, não configura julgamento ultra ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial" (AgInt no REsp n. 1.829.793/SE, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/10/2019, DJe de 23/10/2019).
+6. Para rever o entendimento do Tribunal local de que não houve julgamento ultra ou extra petita, seria necessário reexaminar o contexto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.264.225/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 INEXISTENTE. INCONFORMISMO. COTA CONDOMINIAL. TÍTULO EXECUTIVO EXTRAJUDICIAL. HIGIDEZ DOS VALORES APRESENTADOS. INADEQUAÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, se a execução das cotas condominiais era legítima.
+2. A propósito do contexto recursal, destacou a origem que, à luz do novo CPC, as taxas condominiais se tornaram título extrajudicial aptas a embasar ação de cobrança, concluindo, por conseguinte, que a exceção de pré-executividade não se mostrava a via adequada para questionamento de irregularidades em assembleia ou convenção do condomínio.
+3. Sem reparo o acordão recorrido quando destaca que as quotas condominiais foram elevadas à condição de título executivo extrajudicial com a vigência do CPC/2015. Precedentes.
+4. Concluindo a Corte de origem que os documentos necessários à execução foram apresentados e que eventual pretensão de ver reconhecida a nulidade da assembleia ou da convenção do condomínio deve ser promovida por meio de embargos, sendo inservível para o desiderato a via da exceção de pré-executividade, a reversão do julgado demandaria reexame do acervo fático-probatório dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.295.287/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
