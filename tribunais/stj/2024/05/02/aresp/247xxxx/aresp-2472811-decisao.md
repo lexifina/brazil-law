@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial de ALEX AZEVEDO MARINHO DOS SANTOS e de MEIRE AZEVEDO DOS SANTOS no qual se insurgiram contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+A questão debatida nos autos, qual seja, "definir se a sentença trabalhista homologatória de acordo, assim como a anotação na CTPS e demais documentos dela decorrentes, constitui início de prova material para fins de reconhecimento de tempo de serviço", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.188), dos Recursos Especiais 1.938.265/MG e 2.056.866/SP, de relatoria do Ministro Benedito Gonçalves.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
