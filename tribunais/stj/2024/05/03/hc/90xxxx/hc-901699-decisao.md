@@ -1,0 +1,18 @@
+DECISÃO
+AYRES OLIVEIRA DOS SANTOS JÚNIOR, paciente neste habeas corpus, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no Agravo em Execução n. 0749951-47.2023.8.07.0000 , assim ementado (fl. 18):
+RECURSO DE AGRAVO. RECURSO DO MINISTÉRIO PÚBLICO. EXECUÇÃO PENAL. REMIÇÃO. APROVAÇÃO NO ENCCEJA. CONCLUSÃO DO ENSINO MÉDIO ANTES DO ENCARCERAMENTO. REMIÇÃO INDEVIDA. AUSÊNCIA DE EVOLUÇÃO E AQUISIÇÃO DE NOVOS CONHECIMENTOS. PRECEDENTES STJ E STF. RECURSO PROVIDO.
+1. A carta de guia e o relatório da situação processual executória atestaram que o apenado já havia concluído o ensino superior antes de ingressar no sistema carcerário.
+2. O Superior Tribunal de Justiça passou a decidir no sentido de que se o apenado já possuía certificado de ensino médio ou fundamental antes de ingressar no sistema carcerário, então, a superveniente aprovação nos exames nacionais (ENEM ou ENCCEJA) não autoriza a remição da pena, pois revela somente conhecimento prévio, e não o alcançado por conta própria pelo preso autodidata, consoante escopo da norma contida na Recomendação 44/2013-CNJ, posteriormente substituída pela Resolução 391/2021-CNJ.
+3. A Primeira Turma da Suprema Corte, no RHC 230948 AgR/SP, em Sessão Virtual de 1º-setembro-2023 a 11-setembro-2023, entendeu que a remição por estudo não tem o propósito único de reduzir o tempo de prisão, mas, principalmente, fomentar a aquisição de novos conhecimentos, e a realização de exame de mesmo nível educacional já alcançado não demonstra evolução nem qualquer acréscimo intelectual.
+4. Recurso provido.
+A defesa alega violação do art. 126 da LEP. Argumenta que o fato de o agravante ter completado o estudo do ensino médio antes de iniciar o cumprimento da pena não impede o direito à remição da pena em virtude da aprovação no ENCCEJA.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O habeas corpus comporta avanço para solução por decisão monocrática, pois existe jurisprudência sobre o tema.
+O Tribunal, ao afastar a possibilidade de remição da pena, salientou que o apenado já detinha ensino superior completo antes mesmo de ingressar no sistema prisional; portanto, "concluiu o ensino médio antes do exame ENCCEJA/2020, pré-requisito fundamental para cursar oensino superior" (fl. 22)
+Sobre o tema em debate, saliento que " a  jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de o Reeducando ter direito à remição da pena, pelo estudo, em decorrência da aprovação parcial no Exame Nacional do Ensino Médio - ENEM" (AgRg no HC n. 759.569/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 16/5/2023.)
+Além disso, urge consignar também "" ser  cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal" (AgRg no HC n. 768.530/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 9/3/2023, grifei.)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para conceder ao apenado a remição da pena com fulcro na aprovação no ENCCEJA .
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
