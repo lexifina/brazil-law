@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARYANA DE LIMA MAFFEI e OUTROS contra decisão monocrática de relatoria do Ministro Paulo de Tarso Sanseverino, que deu provimento ao agravo interno da ora embargada para afastar a intempestividade do recurso especial (fls. 416-418).
+A parte embargante alega que "não foram apreciadas as contrarrazões apresentadas pelos Agravados, do que exsurge nulidade processual insanável, ante à inobservância do princípio do contraditório (art. 5º, LV, Constituição Federal), princípio da inafastabilidade da Jurisdição (art. 5º, XXXV, idem) e ao princípio da fundamentação das decisões (art. 5º, IX, idem)" (fl. 421).
+Sustenta que "Assim, com base no devido processo legal (5º, LIV, CF/88) e arts. 22, §2 e 259, §3º do RISTJ), faz-se patente a necessidade de esclarecimento quanto à observância do rito previsto no RISTJ, notadamente manifestando-se quanto ao juízo de retratação negativo já produzido pela Exa. Sra. Ministra Presidente no e-STJ Fl. 415" (fl. 423).
+A parte embargada, instada a manifestar-se, apresentou impugnação às fls. 426-428.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Inicialmente, afasto a alegada nulidade por ausência de análise das contrarrazões do agravo interno. Trata-se de mero erro material constante na decisão de fl. 413.
+Com relação ao documento apresentado (fl. 226), a jurisprudência desta Corte firmou entendimento de que é possível a consideração, como documento idôneo para a comprovação de feriados, da juntada de calendários retirados dos sítios eletrônicos dos Tribunais.
+Eis a ementa do julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. JUNTADA DE CALENDÁRIO JUDICIAL. DISPONIBILIZAÇÃO NO SITE DO TRIBUNAL DE ORIGEM. IDONEIDADE. CARÁTER OFICIAL. PRECEDENTE DO STF EM MANDADO DE SEGURANÇA. ADEQUAÇÃO DA JURISPRUDÊNCIA DO STJ. EMBARGOS PROVIDOS.
+1. O eg. Supremo Tribunal Federal, reformando acórdão deste Tribunal Superior no julgamento do MS 23.896/AM, reconheceu a idoneidade do calendário judicial do Tribunal de origem, divulgado no site oficial na internet e juntado aos autos pela parte, como meio de comprovação da tempestividade recursal (RMS 36.114/AM, Primeira Turma, Rel. Min. MARCO AURÉLIO; Julgamento: 22/10/2019; Publicação:
+12/12/2019).
+2. À luz da Lei 11.419/2006, que dispõe sobre a informatização do processo judicial, as informações processuais disponibilizadas por meio da internet, na página eletrônica de Tribunal de Justiça ou de Tribunal Regional Federal, ostentam natureza oficial, gerando para as partes que as consultam a presunção de correção e confiabilidade. Desse modo, uma vez lançada a informação, no calendário judicial, disponibilizado pelo site do Tribunal de origem, da existência de suspensão local de prazo, deve ser considerada idônea a juntada desse documento pela parte para fins de comprovação do feriado local.
+3. Embargos de divergência providos, reconhecendo-se a tempestividade do recurso especial, com o consequente retorno dos autos à eg. Segunda Turma para apreciação do recurso como entender de direito.
+(EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023, DJe de 15/5/2023.)
+Quanto ao juízo de retratação realizado pelo relator, a Corte Especial do STJ pacificou o entendimento de que, "Nos termos do art. 21-E, § 2º, do RISTJ, é possível ao Presidente do STJ, em sede de agravo interno, reconsiderar a decisão anteriormente proferida, no âmbito de sua competência, tornando-a sem efeito, e determinar, na sequência, nova distribuição dos autos para que o Relator reaprecie o recurso, na forma que entender de direito". (AgInt nos EAREsp n. 2.156.500/MT, relator Ministro Raul Araújo, Corte Especial, julgado em 12/12/2023, DJe de 15/12/2023.)
+Eis a ementa do julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO EXERCIDO PELA PRESIDÊNCIA DESTA CORTE. NOVA DISTRIBUIÇÃO DO RECURSO. AUSÊNCIA DE INTERESSE RECURSAL. NÃO CABIMENTO DE RECURSO. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 21-E, § 2º, do RISTJ, é possível ao Presidente do STJ, em sede de agravo interno, reconsiderar a decisão anteriormente proferida, no âmbito de sua competência, tornando-a sem efeito, e determinar, na sequência, nova distribuição dos autos para que o Relator reaprecie o recurso, na forma que entender de direito.
+2. O exercício do referido juízo de retratação pelo Presidente, que torna sem efeito a decisão agravada, não enseja prejuízo às partes, as quais terão novamente julgado o recurso. Nessas circunstâncias, não há falar na existência de interesse recursal a possibilitar a interposição de agravo interno contra este tipo de decisão.
+3. Agravo interno não conhecido.
+(AgInt nos EAREsp n. 2.156.500/MT, relator Ministro Raul Araújo, Corte Especial, julgado em 12/12/2023, DJe de 15/12/2023.)
+Ante o exposto, rejeito os embargos de declaração e, de pronto, advirto ao embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
