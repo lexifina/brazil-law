@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por J L N - ESTACIONAMENTO LTDA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, proferido no julgamento do Mandado de Segurança n. 5040831-59.2023.8.24.0000.
+Consta dos autos que, em 28/3/2023, o Magistrado de primeiro grau proferiu decisão que acolheu a representação da autoridade policial e deferiu busca e apreensão de documentos e objetos possivelmente relacionados à prática de crimes contra a administração pública.
+Contra esse ato foi impetrado mandado de segurança, o qual foi denegado pela Corte de origem, por acórdão que ficou assim ementado:
+"PROCESSO CRIMINAL. MANDADO DE SEGURANÇA. RESTITUIÇÃO DE DOCUMENTOS, EQUIPAMENTOS E DINHEIRO EM MOEDA NACIONAL, APREENDIDOS PELO CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO EXPEDIDO EM DECORRÊNCIA DE INVESTIGAÇÃO POLICIAL. PEDIDO AINDA PENDENTE DE ANÁLISE PELO JUÍZO A QUO. INVIABILIDADE DE ANÁLISE POR ESTE TRIBUNAL SOB PENA DE CARACTERIZAR INDEVIDA SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. INOCORRÊNCIA. COMPLEXIDADE DO CASO QUE VERSA SOBRE EXTENSA INVESTIGAÇÃO. NÃO CARACTERIZAÇÃO DE ATO DE VIOLA DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA." (fl. 125)
+No presente mandamus, a defesa da empresa impetrante alega que não é justa a apreensão, acoimada teratológica, que dura quase quatro meses, razão pela qual, no seu entendimento, não há de se falar em supressão de instância.
+Sustenta que "a busca foi realizada i) contra destinatário diverso do constante no mandado judicial; ii) em endereço diverso da diligência; iii) mediante violação do cofre da Recorrente, que jamais poderia ser confundindo com pertence particular do destinatário; e iv) apreendendo-se toda a verba operacional da Recorrente, de natureza de receitas (evidentemente tributadas) e indispensável para sua solvência e adimplemento contratual" (fl. 148).
+Destaca que a empresa não é alvo de investigação e não consta do mandado de busca e apreensão. Afirma que existe "um expediente policial escuso" e que o Juízo de Primeiro Grau e Ministério Público Estadual silenciaram diante do manifesto constrangimento (fl. 149).
+Alega, ainda, que "por mais que a autoridade policial afirme que o alvo era funcionário da Recorrente, isso nem de longe justifica violar o cofre da pessoa jurídica, absolutamente inconfundível com qualquer pertence pessoal de seus funcionários." (fl. 151).
+Requer, então, "o conhecimento do presente recurso ordinário para, liminarmente, cassar o ato coator objurgado para, assim, determinar a imediata liberação das quantias apreendidas indevidamente e, no mérito, reformar o acórdão denegatório, concedendo a segurança para reconhecer a manifesta ilegalidade da apreensão, com todos os consectários" (fl. 153).
+A liminar foi indeferida por decisão de fls. 179/181.
+As informações foram prestadas às fls. 187/196 e 199/247.
+O Ministério Público Federal opinou pelo não conhecimento ou desprovimento do recurso.
+É o relatório.
+Decido
+A irresignação não alcança melhor sorte.
+A questão deduzida no presente recurso não foi analisada no Corte de origem e não pode ser apreciada neste Sodalício, sob pena de se incidir em supressão de instância. A propósito, confiram-se os seguintes precedentes :
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. TESE DE INCONSTITUCIONALIDADE DO ART. 265 DO CPP NÃO APRESENTADA NA ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO EM GRAU RECURSAL SOB PENA DE SUPRESSÃO DE INSTÂNCIA. A CONCORRÊNCIA, POR FALTA DE ALEGAÇÃO QUANDO DA ACEITAÇÃO, PARA O VÍCIO PROCESSUAL DE DEFENSOR DATIVO NOMEADO SEM TER SIDO OPORTUNIZADO AO RÉU O DIREITO DE ESCOLHER O SEU DEFENSOR, PROVOCA SUA FALTA DE LEGITIMIDADE. QUEM CONCORRE PARA O VÍCIO NÃO PODE ARGUIR NULIDADE. INTELIGÊNCIA DO ART. 565 DO CPP. O ART. 265 DO CPP DEVE SER APLICADO QUANDO COMPROVADO O ABANDONO DO PROCESSO. NO CASO CONCRETO, A CAUSÍDICA DEIXOU DE COMPARECER À SESSÃO DO PLENÁRIO DO JÚRI EM RAZÃO DE CIRURGIA REALIZADA EM SUA FILHA. NÃO SE TRATA DE DESÍDIA, LOGO NÃO SE JUSTIFICA A APLICAÇÃO DA MULTA DO ART. 265 DO CPP. RECURSO CONHECIDO E PROVIDO PARA CONCEDER PARCIALMENTE A SEGURANÇA E AFASTAR A MULTA IMPOSTA.
+1. É impossível debater a tese de inconstitucionalidade da aplicação do art. 265 do CPP, visto que esta não foi apresentada na inicial do mandado de segurança e, por conseguinte, não foi apreciada pela Corte de Origem.
+2. Aquele que concorre para o vício processual não pode arguir nulidade, conforme dispõe o art. 565 do CPP. A regra é o direito do réu de indicar o seu advogado; assim, deve o juiz inicialmente oportunizar essa alternativa e, só então, em face da inércia, nomear defensor dativo. A defensora deveria ter alegado tal falta no primeiro contato com os autos, mas, porque não o fez e atuou normalmente, não pode levantar nulidade, visto que concorreu para o vício ao aceitar sua indicação, sem impugná-la.
+3. O art. 265 do CPP deve ser aplicado quando comprovado o abandono do processo. A ausência justificada, mesmo que tardiamente, em razão de cirurgia na filha da causídica, afasta a conjecturada deslealdade processual e torna injustificável a sanção de multa.
+4. Não há que se falar em desídia para a aplicação do art. 265 do CPP quando se está diante de situação fática que envolve a saúde e o bem-estar físico e emocional do causídico.
+5. Recurso conhecido e, no mérito, provido para conceder parcialmente a segurança e afastar a multa.
+(RMS 46.048/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/09/2021, DJe 01/10/2021)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. WRIT DO QUAL NÃO SE CONHECEU NA ORIGEM. IMPOSSIBILIDADE DE ANÁLISE DA TESE DEFENSIVA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. EXAME DO MÉRITO DO MANDAMUS PELA INSTÂNCIA PRECEDENTE. IMPOSSIBILIDADE. WRIT IMPETRADO CONTRA ACÓRDÃO PROFERIDO POR ÓRGÃO FRACIONÁRIO DA CORTE REGIONAL. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. A matéria cujo recurso se refere não foi objeto de análise pelo Tribunal de origem, o que impede a sua apreciação direta por esta Corte de Justiça, sob pena de atuar em indevida supressão de instância.
+2. É inviável o acolhimento do pedido subsidiário de que se determine o exame do mérito do mandado de segurança pela instância a quo, porque o writ não se enquadra na competência da Corte Regional, uma vez que foi impetrado contra acórdão proferido por órgão fracionário do próprio colegiado.
+3. Agravo regimental desprovido.
+(AgRg no AgRg no RMS 46.332/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020)
+Ante o exposto, com fulcro no art. 34, inc. XVIII, alínea "a", do RISTJ, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
