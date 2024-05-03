@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela HAPVIDA ASSISTÊNCIA MÉDICA S.A. contra decisão em que conheci parcialmente do recurso especial e, nessa parte, neguei-lhe provimento ( e-STJ fls. 3.101/3.106).
+A embargante alega a ocorrência de erro material na decisão embargada, consistente na adoção de premissa equivocada, asseverando que não se trata de discussão a respeito da ocorrência, ou não, de prescrição intercorrente, mas de prescrição para redirecionamento da execução fiscal por alegada sucessão tributária.
+Sustenta a existência de omissão quanto ao argumento de que não seria cabível a anulação da sentença, por entender inegável a ausência de prejuízo para a Fazenda Nacional, uma vez que houve amplo debate na segunda instância sobre a questão em torno da prescrição.
+Sem impugnação (certidão de e-STJ fl. 3.124).
+Passo a decidir.
+No caso, verifica-se que, de fato, houve os alegados vícios de integração, pois, no recurso especial, se discute a anulação da sentença, determinada pelo acórdão recorrido, por descumprimento do princípio da não surpresa, visto que teria sido reconhecida a prescrição para redirecionamento da execução fiscal, sem que tal questão fosse suscitada pelas partes. Logo, não se discutiu, como afirmado erroneamente na decisão ora embargada, prescrição intercorrente.
+Pois bem.
+Conforme pacífica orientação da jurisprudência do Superior Tribunal de Justiça, na vigência do CPC/1973, a prescrição direta de execução fiscal pode ser decretada de ofício, sem prévia oitiva das partes, nos termos da Súmula 409 do STJ: "Em execução fiscal, a prescrição ocorrida antes da propositura da ação, pode ser decretada de ofício (art. 219, § 5º, do CPC)."
+Nesse sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA. CONFORMIDADE.
+ ..
+2. Conforme entendimento sedimentado na Súmula 409 do STJ, em "execução fiscal, a prescrição ocorrida antes da propositura da ação pode ser decretada de ofício (art. 219, § 5º, do CPC)".
+3. É pacífico o posicionamento do STJ no sentido de que a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, providência vedada na estreita via do recurso especial, ante o disposto na Súmula 07 do STJ.
+4. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+5 . Agravo interno desprovido.
+(AgInt no AREsp n. 1.616.497/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/3/2023, DJe de 15/3/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE PRESCRIÇÃO. AQUIESCÊNCIA PELA PARTE EXEQUENTE. RECONHECIMENTO PELO MAGISTRADO A QUO DE QUE NÃO OCORREU A PRESCRIÇÃO. CRÉDITO TRIBUTÁRIO. DIREITO INDISPONÍVEL. OCORRÊNCIA DE PRESCRIÇÃO QUE DEVE SER AFERIDA ATÉ MESMO DE OFÍCIO PELO JULGADOR. SÚMULA 106/STJ. MOROSIDADE DO PODER JUDICIÁRIO. QUESTÃO CUJA SOLUÇÃO EXIGE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Em sede de Exceção de Pré-Executividade, embora o Ente Estatal tenha reconhecido, por equívoco, o transcurso do lustro prescricional, a extinção da Execução Fiscal não é possível na hipótese, visto que o crédito tributário, por natureza jurídica, constitui interesse público indisponível. Não se trata aqui de privilégio, mas de proteção do patrimônio público, eis que os créditos em nome de Estado da Federação constituem bem público, logo, não podem ser renunciados ou adquiridos por prescrição pelos órgãos e Agentes Públicos. Precedente: (AgRg no AREsp. 392.075/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe 1o.9.2014; AgRg no REsp. 1.388.323/RS, Rel. Min. HUMBERTO MARTINS, DJe 26.5.2015.
+2. Acrescente-se ainda que a prescrição é matéria de ordem pública, que pode e deve ser apreciada até mesmo de ofício, razão pela qual, se ainda não decorreu o prazo prescricional, embora tenha o exequente se equivocado e concordado expressamente que os créditos tributários estariam prescritos, a extinção do Executivo Fiscal não pode prevalecer, estando corretas as decisões proferidas pelas instâncias ordinárias que determinaram o prosseguimento do feito, rejeitando a Exceção de Pré-Executividade.
+ ..
+5. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.310.579/RO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 21/9/2020, DJe de 24/9/2020.)
+Vejamos, no que interessa, o que ficou consignado na sentença, que bem demonstra os fundamentos que prevaleceram para decretar a prescrição da execução fiscal proposta em 2015, na vigência do CPC/1973 (e-STJ fl. 2.132):
+No caso concreto, observo que a Fazenda Nacional ajuizou a execução no ano de 2015 contra o devedor originário, POLICLÍNICA SANTA CLARA LTDA., quando já tinha ciência, desde o ano de 2010, pelo menos, de que haveria indícios ou sinais de que a empresa HAPVIDA tinha adquirido algumas operações da devedora original.
+De fato, a embargante demonstrou que, em 08/2010, a Fazenda tomou ciência de certidão de oficial de justiça acostada na EF 00010951-72.2001.4.05.8300, a qual faz referência ao fato de que "tudo foi comprado pelo Grupo HAPVIDA do Ceará há mais de um ano" (anexo -17784033, de 17/03/2021).
+Mesmo com tal ciência pela União, nota-se que ela promoveu a execução proposta em 2015 contra o antigo devedor, inclusive com pedido de redirecionamento para os sócios da Policlínica Santa Clara em 10/2015 (p. 37 dos autos físicos da execução fiscal).
+Apenas em 12/2017, mais de 7 anos depois da ciência da provável sucessão tributária autos da EF 00010951-72.2001.4.05.8300, a Fazenda propôs o redirecionamento da execução contra a HAPVIDA (p. 160 dos autos físicos da execução fiscal).
+No caso, diante da circunstância de que a prescrição pode ser declarada de ofício, incabível se apresenta a anulação da sentença que a reconheceu, determinada pelo acórdão recorrido, a fim de que as partes fossem previamente ouvidas a respeito de sua possível ocorrência.
+Ante o exposto, ACOLHO os embargos de declaração para, atribuindo-lhes efeitos infringentes, suprir a omissão e DAR PROVIMENTO ao recurso especial, a fim de que, afastada a nulidade declarada no acórdão recorrido, o Tribunal de origem reexamine o feito como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
