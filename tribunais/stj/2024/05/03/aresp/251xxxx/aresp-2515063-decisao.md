@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo interposto contra decisão monocrática do Desembargador Vice-Presidente do Tribunal de Justiça do Estado de São Paulo, que baseou-se nos enunciados das Súmulas 7 do STJ e 280 do STF para não admitir o Recurso Especial interposto contra acórdão assim ementado:
+APELAÇÃO E REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. ITCMD. BASE DE CÁLCULO. Segurança concedida na origem. Recurso fazendário. Ilegalidade do Decreto Estadual nº 55.002/2009, que alterou o art. 16, par. único, do RITCMD (Decreto 46.655/02),majorando o tributo. Exorbitância do poder regulamentar. Inteligência da Lei Estadual nº 10.705/2000. Incidência de valor de referência do IPTU. Arbitramento. Procedimento excepcional e subsidiário. Cabimento reservado a casos em que evidenciada omissão ou má-fé do contribuinte. Manutenção da sentença que se impõe. RECURSO VOLUNTÁRIO E OFICIAL DESPROVIDOS.
+A agravante afirma que do Recurso Especial se pode conhecer, pois não existe necessidade de se reexaminar o conjunto fático-probatório produzido nos autos (fl. 182, e-STJ), tampouco de se interpretar normas locais, mas apenas normas do CTN e o Tema 1.113 do STJ (fl. 186, e-STJ).
+A parte agravada, apesar de intimada, não apresentou contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.3.2024.
+A irresignação merece conhecimento, contudo não prospera.
+Inicialmente, cabe ressaltar que o Presidente ou Vice-presidente do Tribunal a quo pode julgar a admissibilidade do Recurso Especial e negar-lhe seguimento caso a pretensão da parte recorrente encontre óbice em alguma Súmula do Superior Tribunal de Justiça, sem que haja violação à competência desta Corte.
+Na origem, cuida-se de Mandado de Segurança impetrado contra "ato do Delegado Regional Tributário de São Paulo, por meio do qual busca o recolhimento do ITCMD combase no valor venal do imóvel lançado para fins de IPTU". A Corte bandeirante concedeu a segurança "para determinar que o ITCMD seja calculado sobre a base de cálculo de valor venal atribuído ao IPTU".
+Sustenta a Fazenda estadual que o acórdão recorrido "infringiu o artigo 148 do CTN, que assegura ao fisco a possibilidade de arbitramento do valor do bem, desde que garantido o contraditório e a ampla defesa ao contribuinte, como ocorreu no presente caso:
+Art. 148. Quando o cálculo do tributo tenha por base, ou tome em consideração, o valor ou o preço de bens, direitos, serviços ou atos jurídicos, a autoridade lançadora, mediante processo regular, arbitrará aquele valor ou preço, sempre que sejam omissos ou não mereçam fé as declarações ou os esclarecimentos prestados, ou os documentos expedidos pelo sujeito passivo ou pelo terceiro legalmente obrigado, ressalvada, em caso de contestação, avaliação contraditória, administrativa ou judicial."
+O Fisco estadual acrescenta em seu recurso que "trata-se da tese firmada no item "b" do Tema Repetitivo 1113 (REsp 1937821/SP), segundo a qual "valor da transação declarado pelo contribuinte goza da presunção de que é condizente com o valor de mercado, que somente pode ser afastada pelo fisco mediante a regular instauração de processo administrativo próprio (art. 148 do CTN)"".
+Com relação aos arts. 34 e 148 do CTN, o Colegiado originário solucionou a controvérsia com base na legislação estadual referente ao tema, em especial na Lei estadual 10.705/2000 e no Decreto estadual 46.655/2002. Dessa forma, incide a Súmula 280 do STF por analogia: "por ofensa a direito local não cabe Recurso Extraordinário". Nesse sentido: AgInt no REsp 2.015.887/CE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 15.12.2022; e AgInt no AREsp 1.660.702/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 11.12.2020.
+Ademais, o órgão julgador realizou o distinguishing entre a hipótese ora analisada e a apreciada pelo STJ no Tema 1.113:
+E como se constata, a hipótese dos autos é diversa daquela tratada pelo e. Superior Tribunal de Justiça, haja vista que a questão levada a julgamento naquela Corte diz respeito ao arbitramento do ITBI pelos Municípios, enquanto a discussão aqui travada é concernente ao ITCMD, tributo estadual.
+Por último, o art. 142 do CTN não pode ser analisado porque não houve o imprescindível prequestionamento. Assim, aplica-se à hipótese a Súmula 211 do STJ.
+Com essas considerações, conheço do Agravo em Recurso Especial, para não conhecer do Recurso Especial, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ e no art. 1.042 do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
