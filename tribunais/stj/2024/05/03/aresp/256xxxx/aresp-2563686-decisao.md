@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C COBRANÇA. 01. SERVIDOR PÚBLICO. MUNICÍPIO DE QUIRINÓPOLIS. CONVERSÃO DE VENCIMENTOS EM URV. REESTRUTURAÇÃO REMUNERATÓRIA. PRESCRIÇÃO. O término da incorporação, na remuneração do servidor, do percentual devido em razão da ilegalidade na conversão de Cruzeiros Reais em URV, deve ocorrer no momento em que a carreira do servidor passa por uma restruturação remuneratória, pois não há direito à percepção, de modo eterno, de parcela de remuneração por funcionário público, conforme entendimento consolidado pelo Supremo Tribunal Federal, no julgamento do RE 561836, sob o rito da repercussão geral (TEMA 05). Ocorrida a reestruturação remuneratória, por meio das Leis nº 2.632/2006 e nº 2.642/2006 de Quirinópolis/GO, deve ser declarada a prescrição da ação proposta após decorridos cinco anos da data da referida lei reestruturadora. 02. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 373, II, e 1.022, II, do CPC.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.3.2024.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, para melhor elucidação da controvérsia, cumpre transcrever trecho do acórdão proferido pelo Tribunal de origem:
+Nesse contexto, eventual erro que daria ensejo ao direito de cobrança de supostas perdas remuneratórias em decorrência do trato sucessivo só poderia ter sido reconhecido até a publicação das Leis Municipais nºs 2.632/2006 e 2.642/2006, pois as aludidas legislações encerraram as perdas remuneratórias com a reestruturação da carreira dos profissionais municipais e deram início ao prazo prescricional para cobrança de supostas perdas anteriores a elas.
+Malgrado a autora/apelante defenda que não, o Município de Quirinópolis, com o advento da Lei Municipal nº 2.632/06, reestruturou o quadro remuneratório de cargos e funções públicas e o plano de carreira dos servidores municipais, restando, pois, o marco inicial da contagem do prazo prescricional para o ajuizamento de ação que visa cobrar eventuais prejuízos decorrentes da errônea conversão de vencimentos em URV, conforme entendimento do Superior Tribunal de Justiça.
+Nesse panorama, rever o entendimento consignado pelo acórdão recorrido de que, por meio das Leis Municipais 2.632/2006 e 2.642/2006, houve a reestruturação remuneratória do cargo da parte recorrente, requer revolvimento do conjunto fático-probatório, inadmissível na via especial ante o óbice da Súmula 7/STJ.
+Ademais, depreende-se que o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local. Destaca-se a inviabilidade da discussão em REsp acerca de suposta afronta a matéria local, sendo defesa sua apreciação pelo STJ. Aplica-se, por analogia, a Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. CONVERSÃO DE CRUZEIROS REAIS E URV. REESTRUTURAÇÃO DA CARREIRA. PRESCRIÇÃO DE TRATO SUCESSIVO. MARCO INICIAL. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. Nas ações em que se busca o pagamento das diferenças salariais decorrentes da edição da Lei 8.880/1994, a relação é de trato sucessivo, incidindo a prescrição tão somente sobre as parcelas vencidas no quinquênio anterior ao ajuizamento da ação, conforme disposto na Súmula 85/STJ.
+3. A análise da pretensão recursal implicaria interpretação de norma local, insuscetível de análise em sede de recurso especial, nos termos da Súmula 280/STF.
+4. Não cabe rediscutir as nuances que envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1813085/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/10/2021, DJe 18/10/2021)
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Apelo pela alínea "a" do permissivo constitucional. A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..) 3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1.472.530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/10/2014)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
