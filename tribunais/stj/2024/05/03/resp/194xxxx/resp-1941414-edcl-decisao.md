@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COMFRIO SOLUÇÕES LOGÍSTICAS S.A. contra acórdão que deu provimento ao recurso especial da embargante.
+O decisum embargado foi proferido nos seguintes termos (fls. 837-843):
+ ..  Consoante o relatado, alega a recorrente que o Tribunal a quo se equivocou ao afastar, com fundamento em suposta ambiguidade do compromisso arbitral, a cláusula compromissória que impedia que eventual litígio decorrente do contrato de locação firmado entre as partes fosse submetido à justiça comum. A irresignação merece ser acolhida. Isso porque esta corte já firmou o entendimento de que, em conformidade com o previsto no art. 8º, parágrafo único, da Lei n. 9.307/1996, cabe ao juízo arbitral, com precedência sobre qualquer outro órgão julgador, deliberar a respeito de sua competência para examinar as questões que envolvam a existência, validade e eficácia da convenção de arbitragem e do contrato que tenha cláusula compromissória. (..) Portanto, os vícios alegados pela demandante e que maculariam a cláusula compromissória em questão devem ser submetidos primeiro à análise do árbitro, não do juiz. Ante o exposto, dou provimento ao recurso especial para cassar o aresto impugnado, restabelecendo os efeitos da sentença que, em primeiro grau de jurisdição, extinguiu o processo sem julgamento de mérito. Outrossim, inverto o ônus da sucumbência e condeno o recorrido ao pagamento da despesas processuais e fixo os honorários sucumbenciais em 10% sobre o valor atualizado da causa, nos termos do art. 85, § 2º, do Código de Processo Civil  .. .
+Aduz a parte embargante a existência de omissão no julgado lancinado, tendo em vista que deixou de apreciar devidamente a situação dos autos no que tange à fixação dos honorários sucumbenciais, pois os honorários sucumbenciais foram fixados no patamar mínimo legal de 10% (dez por cento) do valor atualizado da causa, mesmo em se tratando de processo que tramita desde abril de 2018, com alto grau de complexidade.
+Requer sejam conhecidos e providos os embargos, a fim de sanar o vício apontado.
+É, no essencial, o relatório.
+O presente recurso não preenche os requisitos de admissibilidade.
+Os embargos de declaração são o recurso posto à disposição de qualquer das partes, voltado ao esclarecimento de dúvidas surgidas no acórdão, quando configurada ambiguidade, obscuridade, contradição ou omissão, permitindo, então, o efetivo conhecimento do teor do julgado, facilitando a sua aplicação e proporcionando, quando for o caso, a interposição de recurso especial ou extraordinário.
+Na hipótese, os argumentos utilizados pela embargante para provocar o esclarecimento do acórdão escapam ao conceito de omissão, que consiste na falta de pronunciamento judicial sobre ponto ou questão suscitada pelas partes, ou que o juiz ou juízes deveriam pronunciar-se de ofício.
+Note-se que não está o embargante expressando que esta relatoria deixou de se manifestar acerca dos honorários advocatícios, mas busca tão somente rediscutir o valor fixado, traduzindo meramente a sua inconformidade com o decidido.
+Resta clarividente, portanto, a impropriedade dos embargos manejados.
+Ausente o interesse adequação, não merece ser conhecido o recurso.
+Ante o exposto, não conheço dos embargos.
+Publique-se. Intimem-se.
+EMENTA
