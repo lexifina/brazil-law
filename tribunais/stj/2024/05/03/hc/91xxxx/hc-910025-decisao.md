@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de MATHEUS ALCANTARA DA SILVA GOMES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO EM EXECUÇÃO. FALTA DISCIPLINAR. DESCUMPRIMENTO DE REGRA DA SAÍDA TEMPORÁRIA. VIOLAÇÃO DA ZONA DE MONITORAMENTO. PLEITO MINISTERIAL DE RECONHECIMENTO DA NATUREZA GRAVE. NECESSIDADE. PROVA SEGURA. DEPOIMENTOS DOS AGENTES PENITENCIÁRIOS E MAPAS DE ANÁLISE DE CADA UMA DAS VIOLAÇÕES. DESCUMPRIMENTO DAS ORDENS RECEBIDAS PARA FRUIÇÃO DA SAÍDA TEMPORÁRIA. DESOBEDIÊNCIA. CONDUTA QUE CARACTERIZA INFRAÇÃO DE NATUREZA GRAVE. TIPIFICADA NO ART. 50, VI, C.C. O 39, II E V, AMBOS DA LEI DE EXECUÇÃO PENAL. EFEITOS. INTERRUPÇÃO DO LAPSO TEMPORAL PARA FINS DE PROGRESSÃO DE REGIME E PERDA DOS DIAS REMIDOS REPUTANDO-SE ADEQUADO E PROPORCIONAL O MONTANTE DE 1/3 (UM TERÇO). AGRAVO PROVIDO.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a inobservância do perímetro de monitoração eletrônica durante a saída temporária não está prevista no rol taxativo do art. 50 da Lei de Execução Penal.
+Alega que tal conduta está tipificada no art. 45, inciso XXII, da Resolução n. 144/2010 da SAP, como falta disciplinar de natureza média.
+Por fim, defende que o paciente "retornou voluntariamente ao estabelecimento prisional ao término da saída temporária" (fl. 08), motivo pelo qual o enquadramento de sua conduta como falta grave se mostra desproporcional.
+Requer, em suma, a desclassificação da falta disciplinar.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+A materialidade ficou consubstanciada pelos relatos dos agentes penitencia"rios e, tambe"m, nas imagens do sistema de acompanhamento de custo"dia (pa"gs. 17/24), em que aponta ao menos oito infrações praticadas pelo condenado, em especial, no dia 23.12.22 em que violou o perímetro a"s 19h05 somente retornando a" a"rea permitida 11 horas depois, ja" no dia 24.12.22, as 06h00, ou seja, ale"m de ultrapassar o perímetro, ainda desobedeceu o hora"rio de recolhimento noturno, bem como na o permaneceu no endereço indicado.
+ ..
+Percebe-se, assim, que o agravante praticou a falta grave prevista no art. 50, inciso VI, c.c. art. 39, inciso V, da Lei de Execuça o Penal, no curso do cumprimento da pena, na o havendo que se falar em desclassificaça o para falta disciplinar de natureza me"dia, especialmente aquela apontada pela magistrada a quo, para a qual se exige que a conduta seja praticada em "qualquer dependência da unidade prisional", o que, claramente, na o e" o caso dos autos.
+Esta Colenda Ca mara parte da premissa de que sentenciados beneficiados com a saída tempora"ria e monitorados eletronicamente devem se submeter a"s regras de disciplina impostas, sob pena de caracterizar falta disciplinar de natureza grave: (fl. 16).
+Segundo entendimento firmado nessa Corte, o descumprimento das condições da saída temporária constitui falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCUMPRIMENTO DAS CONDIÇÕES DE SAÍDA TEMPORÁRIA. CONFIGURAÇÃO DE FALTA GRAVE. REGRESSÃO DE REGIME. CONSECTÁRIO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante já decidiu esta Corte, ascondições impostas para a concessão da saída temporária configuram ordens recebidas pelo apenado, de forma que seu descumprimento evidencia a prática da conduta prevista no art. 50, VI, c/c o art. 39, V, ambos da LEP.
+2. O agravante, por duas vezes, deixou de observar as condições da saída temporária ao violar a zona de monitoramento e, a teor do art. 118, I, da LEP, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar falta grave.
+3. Agravo regimental não provido.
+(AgRg no HC n. 680.452/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 30/11/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA . DESCUMPRIMENTO DE CONDIÇÕES. VIOLAÇÃO DA ZONA DE VIGILÂNCIA. FALTA GRAVE. ALTERAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na espécie, o Juízo da Execução Penal, em razão de o Apenado ter deixado de cumprir regras para saída temporária (violação ao perímetro datada de 31/12/2021), homologou a falta grave, regrediu o regime imposto para o fechado e declarou a perda de 1/3 (um terço) dos dias remidos.
+2. Os fundamentos consignados pelas instâncias ordinárias para caracterizar a conduta como falta grave (nos termos artigo 50, VI, combinado com artigos 39, II e V, ambos da Lei de Execução Penal) não se mostram desarrazoados ou ilegais, uma vez que o Reeducando quando da saída temporária deve observar as condições e limites estabelecidos. Precedentes.
+3. "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Ministra LAURITA VAZ, DJe de 7/3/2014).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 813.768/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Nessa linha, o entendimento do Tribunal de origem está em conformidade com a jurisprudência do STJ.
+Ademais, para modificar a decisão de origem a fim de desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+Nessa linha, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/9/2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 21/8/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023; AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 770.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/4/2023; AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/2/2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
