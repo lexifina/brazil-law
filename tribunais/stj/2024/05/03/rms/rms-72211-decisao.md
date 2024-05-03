@@ -1,0 +1,40 @@
+DECISÃO
+Neste recurso, Francisco Nunes de Brito Filho se volta contra o acórdão proferido pelo Tribunal d e Justiça de São Paulo no Mandado de Segurança Criminal n. 2086805-19.2023.8.26.0000 (fls. 175/179) e requer o afastamento da aplicação da multa do valor de 10 salários mínimos e tornar sem efeito a comunicação a Ordem dos Advogados da Subseção Judiciária do Estado do Piauí (fl. 191).
+Alega, para tanto, que: no dia 13/2/2023, estava designado o julgamento pelo Tribunal do Juri e por circunstancias alheias a vontade do impetrante, as 5.25hs (madrugada), portanto, com antecedência de 8 (oito) horas antes do horário designado para o início da Sessão de Julgamento do Tribunal do Júri comunicou a impossibilidade de se deslocar do Estado do Piauí para o Estado de São Paulo em decorrência da impossibilidade de participar dos debates orais pelo fato que ficou afônico e não seria possível falar durante a Sessão de Julgamento e na oportunidade juntou receita medica comprovando que além do problema de voz faz uso contínuo de medicamentos decorrente do grau elevado de diabetes e as vezes ocasiona instabilidade do nível de glicemia e reflete no rápido restabelecimento (fl. 184).
+O Ministério Público Federal opinou pelo desprovimento do recurso ordinário (fl. 251):
+PROCESSO PENAL. RECUSO ORDINÁRIO EMMANDADO DE SEGURANÇA. DECISÃO QUEAPLICOU AO RECORRENTE MULTA PORABANDONO DE CAUSA. ART. 265 DO CÓDIGO DEPROCESSO PENAL. LEGALIDADE. AUSÊNCIA DEMOTIVO DE FORÇA MAIOR A JUSTIFICAR OABANDONO DO PROCESSO.
+1. O Tribunal de Justiça do Estado de São Paulo entendeu, de modo válido, que o art. 265 do Código de Processo Penal confere aos magistrados a possibilidade de aplicar ao defensor que abandonar o processo, salvo por motivo de força maior e desde que comunicado previamente ao juízo, pena de multa que varia de 10 a 100 salários-mínimos.
+2. No caso, não se verifica a existência de um direito lesionado, pois a multa aplicada não é teratológica ou manifestamente ilegal.
+3. Dessa forma, diante dos elementos de convicção constantes dos autos, que levaram as instâncias ordinárias a concluírem pelo efetivo abandono de causa, conforme disposto no art. 265 do Código de Processo Penal, mostra-se pertinente a aplicação da multa prevista em lei.
+- Parecer pelo não provimento do recurso ordinário.
+É o relatório.
+Da atenta leitura dos autos, denota-se que o recorrente pleiteou, com oito horas de antecedência, a redesignação do plenário do júri, no bojo da referida ação penal, pois não teria como se deslocar do Estado do Piauí para o de São Paulo, uma vez que estava afônico, além de ter comprovado seu problema de voz e uso de medicamento para tratar diabetes em elevado grau. Assevera ter elaborado o pedido de reconsideração da aplicação da multa, todavia, seu pleito foi negado (fls. 183/191).
+Do acórdão impugnado constata-se que o recorrente não comprovou adequadamente a impossibilidade de comparecimento à sessão de julgamento, sendo recalcitrante em não atender intimações do Juízo a quo, de modo que restaria configurado o abandono da causa a justificar, em tese, a imposição de multa.
+Ocorre que o Superior Tribunal, no Recurso Especial n. 2.108.775/PR, da relatoria da eminente Ministra Daniela Teixeira, considerou que o art. 265 do Código de Processo Penal foi modificado. Em 12/12/2023, foi publicada a Lei n. 14.752 que alterou o Decreto-Lei n. 3.689, de 3/10/1941 (Código de Processo Penal), e o Decreto-Lei n. 1.002, de 21/10/1969 (Código de Processo Penal Militar), para disciplinar o caso de abandono do processo por defensor, dativo ou constituído. Entrou em vigor na data de sua publicação e alterou a redação dos arts. 265 do CPP e 71 do CPPM, excluindo dos dispositivos legais qualquer menção à aplicação da sanção de multa, por autoridade judiciária, a advogados.
+Veja-se a nova redação dada ao dispositivo:
+ ..
+Art. 265. O defensor não poderá abandonar o processo sem justo motivo, previamente comunicado ao juiz, sob pena de responder por infração disciplinar perante o órgão correicional competente.
+ ..
+§ 3º Em caso de abandono do processo pelo defensor, o acusado será intimado para constituir novo defensor, se assim o quiser, e, na hipótese de não ser localizado, dever á ser nomeado defensor público ou advogado dativo para a sua defesa.
+ ..
+A multa prevista no art. 265 do Código de Processo Penal se caracterizava como uma violação manifesta ao livre exercício da advocacia, visto que retirava da Ordem dos Advogados do Brasil o dever-poder, personalíssimo, de punir os inscritos em seus quadros (art. 5º, XIII, CF e arts. 34, inciso XI, 44, inciso II, e 70, todos da Lei n. 8.906/1994).
+Vale transcrever, no que interessa, a decisão disposta no REsp n. 2.108.775/PR, de 15/12/2023, in verbis:
+ ..
+A revogação da multa, anteriormente imposta, reafirma a importância da advocacia na administração da justiça, reforçando preceito constitucional que diz ser ser o advogado "indispensável à administração da justiça, sendo inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei" (art. 133).
+ ..
+A partir dessa perspectiva e da importância constitucional dada à advocacia, todo e qualquer questionamento realizado com relação à multa imposta pelo art. 265 do CPP, ora revogado - seja pelo Conselho Federal da OAB ou quaisquer de suas seccionais-, fundava-se no fato de que aquele dispositivo, inequivocamente, violava as prerrogativas da advocacia, transcendendo a tutela de interesses subjetivos individuais dos componentes de seus quadros.
+É certo que os conselhos seccionais da OAB podem ajuizar as ações previstas no artigo 54 da Lei 8.906/94, em relação aos temas que afetem a sua esfera territorial, na forma do artigo 45, parágrafo 2º daquele Estatuto.
+Assim, da mesma forma, não conheço do recurso especial quanto ao argumento de ilegitimidade da OAB/PR para propor o Mandado de Segurança junto ao TJPR, uma vez que a OAB é parte legítima para propor ações que visem a defesa das prerrogativas de seus inscritos e tal matéria está pacificada nessa Corte.
+Nesse sentido:
+ ..
+Entendo, ainda, que o REsp não deve ser conhecido pela alegada violação ao art. 265 do CPP, quanto à imposição de pena de multa, isso porque clara a perda de objeto decorrente da revogação daquele dispositivo de lei e, por consequência, da retroatividade dos seus efeitos.
+Não há dúvidas que o dispositivo revogado previa a aplicação de verdadeira pena, sem o devido processo legal e sem assegurar ao profissional o exercício do contraditório e da ampla defesa, conforme art. 5º, LIV e LV, do texto constitucional. Assim, mesmo que a referida multa fosse prevista na legislação processual penal, tinha ela natureza de norma processual mista, ou de conteúdo material sendo, portanto, aplicável o artigo 2º, parágrafo único do Código Penal.
+ ..
+Desta forma, a pena de multa aplicada a advogados não apenas foi revogada, como os efeitos de tal revogação devem retroagir a fim de abranger hipóteses, como a dos autos, em que foram aplicadas em clara violação das prerrogativas da advocacia e limitando a atuação dos profissionais regularmente inscritos na Ordem dos Advogados do Brasil.
+ ..
+Por conseguinte, e sse cenário torna ilegítima a imposição da multa prevista no art. 265 do Código de Processo Penal, consoante o decisum citado. Em outras palavras, a situação delineada no voto condutor revela, de fato, indevida a aplicação de multa, havendo falar em ocorrência de ilegalidade a ser socorrida por esta via.
+Ante o exposto, dou provimento ao recurso para afastar a multa no valor de 10 salários mínimos, fixada com base no art. 265 do Código de Processo Penal, e tornar sem efeito a comunicação à Ordem dos Advogados da Subseção Judiciária do Estado do Piauí, nos termos desta decisão.
+Publique-se.
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. MULTA POR ABANDONO DO PROCESSO. ART. 265 DO CPP. ILEGALIDADE MANIFESTA. ACÓRDÃO RECORRIDO EM CONFRONTO COM A NOVA JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. RESP N. 2.108.775/PR. MULTA AFASTADA EM DECORRÊNCIA DA AUSÊNCIA DE AMPARO LEGAL.
+Recurso em mandado de segurança provido.
