@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por C B S PARAFUSOS IMPORTADOS LTDA contra decisão monocrática de minha relatoria assim ementada:
+TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. IMPORTAÇÃO. ALÍQUOTA. SÚMULAS N. 280 E 283 DO STF. VIOLAÇÃO DOS ARTS. 926 E 927 DO CPC. SÚMULA N. 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A parte embargante aponta omissão quanto à valoração da legislação federal e aos fundamentos do acórdão na medida em que não se aplicariam os óbices das Súmulas n. 280 e 283 do STF. Ademais, aponta que houve o devido prequestionamento, não havendo que se falar na incidência da Súmula n. 211/STJ.
+A parte embargada se manifestou nos autos (e-STJ fls. 430/434).
+É o relatório. Passo a decidir.
+Os embargos de declaração possuem a finalidade simples de suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material.
+Essa espécie recursal só é admissível, portanto, quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.
+No caso concreto, não verifico vícios sanáveis pela estreita via dos aclaratórios.
+Isso porque ambas as teses trazidas ao apelo nobre, quais sejam, de ofensa aos arts. III, §§ 2º e 4º do Acordo Geral sobre Tarifas e Comércio e aos arts. 926 e 927 do CPC, foram fundamentadamente enfrentadas na decisão agravada, entendendo-se pela incidência das Súmulas n. 280 e 283 do STF à primeira e da Súmula n. 211 do STJ à segunda.
+Não se pode falar, portanto, em omissão com relação à incidência dos mencionados enunciados sumulares, mas tão somente em pretensão da parte em alterar o resultado do decisum para afastar os óbices aplicados ao conhecimento do apelo nobre, o que é inviável nesta seara recursal.
+Cito:
+EMBARGOS DE DECLARAÇÃO. NA ORIGEM. ADMINISTRATIVO SERVIDOR PÚBLICO ILEGITIMIDADE DO SINDICATO NÀO CABIMENTO DE AÇÃO CIVIL PÚBLICA PRELIMINARES. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Na origem, trata-se de ação de cumprimento de sentença, proferida nos autos da ação coletiva, que condenou a União a estender aos substituídos o direito à percepção das gratificações de desempenho, nos mesmos moldes em que concedidas aos servidores ativos da carreira de cada um deles, desde sua criação até a data de homologação do resultado das avaliações, após a conclusão do primeiro ciclo avaliativo. A sentença extinguiu o processo sem resolução de mérito. No Tribunal a quo, a sentença foi reformada. O recurso especial foi parcialmente conhecido e, nessa extensão, improvido. A decisão foi mantida em sede de agravo interno.
+II - Os embargos não merecem acolhimento. Em que pese a existência de despacho da Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, reconhecendo os REsp 2.065.693/AL e o REsp 2.070.141/AL como representativo de controvérsia, o fato é que ainda não houve "afetação" do recurso especial, nos termos do art. 1.037, II, do CPC/2015. Portanto, não há que falar em sobrestamento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade;
+eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+V - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V I - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.853.800/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Ausente quaisquer das hipóteses legais, devem ser rejeitados os aclaratórios, sob pena de se reabrir a possibilidade de nova discussão da matéria de mérito já encartada nos autos e decidida.
+Registro que a interposição de novos embargos de declaração para tratar de questão já enfrentada pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Pelas considerações expostas, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÕES. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
