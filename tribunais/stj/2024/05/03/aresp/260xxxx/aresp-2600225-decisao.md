@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ABÍLIO LEITE FERREIRA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: embargos à execução, opostos pelo agravante, em face do agravado, na qual se insurge o agravante contra a decisão que indeferiu o pedido de expedição de ofício ao Cartório do 1º Ofício da 1ª Zona do Juízo de Vila Velha/ES, para que este proceda ao registro da escritura de compra e venda do imóvel objeto do processo de execução sem a exigência do nada consta referente às cotas condominiais.
+Acórdão: negou/deu parcial provimento à apelação interposta ou não conheceu do agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+DIREITO CIVIL / PROCESSO CIVIL. ENCARGOS DE INADIMPLÊNCIA DE QUOTAS CONDOMINIAIS. AUSÊNCIA DE ABUSIVIDADE. NECESSIDADE DE APRESENTAÇÃO DE DOCUMENTOS PARA TRANSMISSÃO DE PROPRIERDADE DE IMÓVEL. IMPOSSIBILIDADE DE DETERMINAR MEDIDA AO CARTÓRIO DE REGISTRO DE IMÓVEIS QUE NÃO COMPÕE A RELAÇÃO PROCESSUAL. REQUISITOS CUMULATIVOS DA TUTELA DE URGÊNCIA. NÃO PREENCHIMENTO. RECURSO CONHECIDO E DESPROVIDO.
+1. O § 1º do art. 1.336 do Código Civil preceitua que o condômino inadimplente ficará sujeito aos juros moratórios convencionados ou, se não previstos, os de um por cento ao mês e multa de até 2% (dois por cento) sobre o débito.
+2. De acordo com o STJ, "Após o advento do Código Civil de 2002, é possível fixar na convenção do condomínio juros moratórios acima de 1% (um por cento) ao mês em caso de inadimplemento das taxas condominiais" (AgInt nos EDcl no REsp1734133/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020).
+3. Conforme os arts. 215, inciso V do CC e 1º, § 2º da Lei nº 7.433/85, a validade da transmissão de propriedade está condicionada à apresentação dos documentos comprobatórios da regularidade do imóvel, que possui débitos perante o agravado como confessa o próprio agravante.
+4. É inviável a imposição de medida em desfavor do Cartório do 1º Ofício da 1ªZona do Juízo de Vila Velha, uma vez que não compõe o polo passivo da ação originária (art. 506 do CPC).
+5. Os requisitos para a concessão da tutela de urgência são cumulativos, motivo pelo qual deve ser mantido seu indeferimento, uma vez que não demonstrada a probabilidade do direito.
+6. Recurso conhecido e desprovido. Embargos de declaração prejudicados. (e-STJ Fl. 249)
+Decisão de admissibilidade do TJ/ES: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 489 do CPC; ii) ausência de violação do art. 1.022 do CPC; iii) incidência das Súmulas 5 e 7, ambas do STJ e iv) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, além da negativa de prestação jurisdicional, a parte agravante aduz que a análise das razões recursais independe do revolvimento do acervo fático-probatório carreado aos autos. Insurge, ainda, contra a incidência da Súmula 83/STJ à espécie.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 5/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
