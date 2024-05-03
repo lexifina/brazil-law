@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por EDITH ZILDA MULLER contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL nos termos da seguinte ementa (fl. 233):
+AGRAVO INTERNO.
+DECISÃO MONOCRÁTICA. MANUTENÇÃO DA DECISÃO.
+Não sendo apresentado qualquer argumento novo capaz de modificar a decisão recorrida, sua manutenção é medida que se impõe.
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. OI S/A. LEVANTAMENTO DOS VALORES DEPOSITADOS À TITULO DE GARANTIA DO JUÍZO. CRÉDITO CONCURSAL. ATUALIZAÇÃO DOS VALORES ATÉ 20/06/2016.
+DECISÃO MANTIDA.
+No caso, o crédito perseguido pela autora tem natureza concursal (fato gerador ocorrido no ano de 2005, data das cobranças indevidas), devendo sujeitar-se ao plano de recuperação judicial da OI S/A. De acordo com o ofício nº 613/2018/of, os processos que têm por objeto créditos concursais, com fato gerador anterior a 20/06/2016, devem prosseguir até a liquidação do valor devido, que deve ser atualizado até 20/06/2016. Com o crédito líquido, e após o trânsito em julgado de eventual impugnação ou embargos, o juízo de origem deverá emitir a respectiva certidão de crédito e extinguir o processo para que o credor concursal possa se habilitar nos autos da recuperação judicial e o crédito respectivo ser pago na forma do plano de recuperação judicial.
+Assim, mostra-se acertada a decisão que determinou o levantamento dos valores depositados em juízo a título de garantia para oposição da impugnação à fase de cumprimento de sentença.
+AGRAVO INTERNO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 262-265).
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 1.022, I, do Código de Processo Civil, sustentando que houve omissão no acórdão recorrido acerca da hipótese de levantamento do valor incontroverso (fls. 273-282).
+Oferecidas contrarrazões (fls. 313-329), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 332-338), o que ensejou a interposição do presente agravo (fls. 349-357).
+Apresentadas contraminutas do agravo (fls. 365-357).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Não se configura a apontada violação do art. 1.022, I, do Código de Processo Civil. Embora rejeitados os embargos de declaração, a questão sobre o levantamento dos valores foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem a apontada omissão, como pode ser verificado no seguinte trecho do acórdão recorrido (fls. 235-240):
+Em que pese a argumentação trazida pelo agravante, não vejo motivos para alterar a decisão monocrática recorrida, a qual submeto ao colegiado, conforme seus fundamentos:
+ ..
+No caso dos autos, a autora ajuizou ação declaratória de inexigibilidade de cobrança com repetição de indébito, indenização por danos morais e responsabilidade civil dissuasória em face da ré, sob o nº 028/1.11.0006474-1.
+Alegou que era cliente da agravada e usuária de uma linha telefônica fixa por mais de 10 (dez) anos, quando passou a receber cobranças indevidas em sua fatura, de serviços que não contratou.
+O feito foi julgado procedente e a apelação nº 70051294528, interposta pela OI foi julgada improcedente, mantendo-se a condenação.
+Promovido o cumprimento de sentença, a autora apresentou valores que foram impugnados pela ré.
+Para apresentação desta impugnação, a OI precisou depositar em juízo o valor da execução, a título de garantia do juízo.
+O objeto de análise deste agravo é acerca da possibilidade de levantamento dos valores depositados, levando-se em conta o plano de recuperação judicial da ré.
+Com efeito, com a realização da Assembleia Geral de Credores na data de 19/12/2017, o juízo da Recuperação Judicial encaminhou a este Tribunal o Ofício nº 613/2018/OF, informando que os processos ajuizados em face do Grupo OI/TELEMAR que se encontravam suspensos podem retomar seu curso, com a observâncias das seguintes diretrizes: I) Os processos que tiverem por objeto créditos concursais -fato gerador constituído antes de 20.06.2016 e, por isso, sujeito à recuperação judicial -devem prosseguir até a liquidação do valor do crédito, que deve ser atualizado até 20.06.2016. Com o crédito líquido, e após o trânsito em julgado de eventual impugnação ou embargos, o Juízo de origem deverá emitir a respectiva certidão de crédito e extinguir o processo para que o credor concursal possa se habilitar nos autos da recuperação judicial e o crédito respectivo ser pago na forma do Plano de Recuperação Judicial, restando vedada, portanto, a prática de quaisquer atos de constrição pelos Juízos de origem.
+II) Os processos que tiverem por objeto créditos extraconcursais -fato gerador constituído após 20/06/2016 e, por isso, não sujeito à Recuperação Judicial -devem prosseguir até a liquidação do valor do crédito. Com o crédito líquido, e após o trânsito em julgado de eventual impugnação ou embargos, o Juízo de origem expedirá ofício ao Juízo da Recuperação Judicial comunicando a necessidade de pagamento do crédito.
+Desta forma, todos os processos que tiverem por objeto créditos concursais devem prosseguir até a liquidação do valor do crédito, com atualização dos valores até 20/06/2016; somente com o crédito líquido e após o trânsito em julgado de eventual impugnação ou embargos, o Juízo de origem deverá emitir certidão de crédito e extinguir o processo para que o credor concursal possa se habilitar nos autos da recuperação judicial e o seu crédito ser pago na forma do plano.
+Ademais, cabe ressaltar que o artigo 49 da Lei nº 11.101/2005 dispõe que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos". Portanto, são concursais os créditos cujos fatos jurídicos que desencadeiam as lides forem anteriores à distribuição do pedido de recuperação, ainda que a sentença ou o trânsito em julgado sejam posteriores a essa data.
+No caso concreto, o fato jurídico que desencadeou a pretensão remonta ao ano de 2005 (data das cobranças indevidas), anterior, portanto, ao pedido de recuperação ocorrido em 2016. Efetivamente, pela data do fato gerador, o crédito é de natureza concursal.
+Nesta senda, o crédito exequendo está sujeito à recuperação judicial, pois seu fato gerador foi constituído antes de 20/06/2016, data do pedido de recuperação judicial formulado pelo Grupo OI, do qual faz parte a empresa agravante. Outrossim, o montante devido deve ser atualizado até 20/06/2016, para que o Juízo de origem emita certidão de crédito e, então, julgue extinto o processo, devendo o credor concursal, de posse da certidão, habilitar-se nos autos da recuperação judicial, para lá receber o seu crédito, de acordo com o plano de recuperação.
+ ..
+Desta forma, mostra-se acertada a decisão que determinou a expedição de alvará à agravada, dos valores depositados em garantia de juízo, eis que sendo o crédito concursal, os valores devid os à agravante serão pagos nos termos do Plano de Recuperação Judicial.
+Com efeito, o julgador não está obrigado a responder a todos os argumentos suscitados pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo seu dever apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
