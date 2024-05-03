@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA LTDA., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE que julgou demanda relativa a tratamento com oxigenoterapia hiperbárica.
+O julgado negou provimento à apelação da HAPVIDA nos termos da seguinte ementa (fl. 254):
+CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA. PLANO DE SAÚDE. USUÁRIO PORTADOR DE CISTO PILONIDAL COMPLEXO, JÁ SUBMETIDO A TRATAMENTO CIRÚRGICO SEM SUCESSO. INDICAÇÃO DE TRATAMENTO COM A OXIGENOTERAPIA HIPERBÁRICA. NEGATIVA DE COBERTURA. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. ABUSIVIDADE DA CLÁUSULA CONTRATUAL LIMITADORA DE COBERTURA. PROCEDIMENTO ATESTADO POR MÉDICO COMO ADEQUADO AO TRATAMENTO DA PACIENTE. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. DIREITO À VIDA. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO. ADEQUAÇÃO ÀS NOÇÕES DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos pela HAPVIDA foram acolhidos em parte, sem efeitos infringentes (fls. 353-358).
+No presente recurso especial, a HAPVIDA alega que o acórdão estadual contrariou as disposições contidas no art. 16, inciso VI, da Lei n. 9.656/98 e no art. 4º, inciso III, da Lei nº 9.961/2000, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Sustenta, outrossim, qu e "o acórdão impugnado viola a legislação federal porque ignora que o beneficiário não preenche os requisitos impostos pela ANS para que haja a cobertura obrigatória por parte da Hapvida." (fl.376)
+Apresentadas as contrarrazões (fls. 552-558), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 559-560).
+É, no essencial, o relatório.
+Cuida-se de decidir se é dever do plano de saúde custear tratamento de oxigenoterapia hiperbárica.
+A respeito, o tribunal de origem assim consignou (fls. 256-258):
+Outrossim, não é demais registrar que o direito à vida e à saúde, amplamente presente no caso em apreço, é uma consequência imediata do fundamento da dignidade da pessoa humana, sobretudo porque os procedimentos buscados pela paciente eram destinados ao restabelecimento de sua saúde.
+Além disso, deve-se considerar que, quando o particular presta serviços na área da saúde, nos termos da autorização constitucional inserta no artigo 199 da Carta Magna, deve garantir ampla cobertura, a fim de salvaguardar a vida do consumidor, inadmitindo-se qualquer negativa de cobertura quando se está diante da vida humana, pelo que a conduta atacada nos autos afronta o citado dispositivo constitucional.
+Com efeito, o bem jurídico que se pretende tutelar é da maior importância, concernente à própria saúde da usuária, cuja proteção decorre de imperativo constitucional, que consagra no art. 1º, III, a dignidade da pessoa humana, e deve sobrepor-se ao direito eminentemente pecuniário.
+Impõe-se, ainda, registrar que, mesmo existindo pacto contratual livremente celebrado entre as partes, é assegurado ao Poder Judiciário intervir na relação negocial para devolver à relação jurídica o equilíbrio determinado pela lei pois, estando evidenciada a relação consumerista nos contratos celebrados após o advento do Código de Defesa do Consumidor, é lícita a atribuição de responsabilidade por condutas abusivas.
+A jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de o plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura dessas doenças, atribuindo como ilícita a negativa de cobertura pelo plano de saúde de procedimento, tratamento,
+ ..
+Na hipótese dos autos, o tratamento em questão foi indicado pelo médico assistente da pare autora, que o considerou o mais eficiente e adequado para o quadro clínico do paciente, qual seja, cisto pilonidal complexo, já submetido a cirurgia prévia sem sucesso (Id 7415387).
+Assim, como bem entendeu o Magistrado de Primeiro Grau, o autor se enquadra nas indicações exigidas pela ANS. O plano de saúde, portanto, deve custear o tratamento indicado pelo médico a fim de que o paciente tenha sua saúde restabelecida. (grifos acrescentados)
+Observa-se que o acórdão recorrido abriga fundamentos de índole infraconstitucional e constitucional, estes relativos à salavaguarda da saúde e à dignidade da pessoa humana, previstos nos arts. 199 e 1º, III da CF/88.)
+Ocorre, contudo, que a recorrente não cuidou de interpor o de vido recurso extraordinário ao STF, de modo a incidir a jurisprudência sedimentada por meio da Súmula n. 126 deste Tribunal, que assim dispõe: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+O entendimento insculpido no referido enunciado traduz a hipótese de que, não interposto o extraordinário, torna-se inadmissível a apreciação do especial por haver transitado em julgado a matéria constitucional discutida e decidida no acórdão vergastado.
+A propósito, cito:
+2.1. No caso, o Tribunal de Justiça de origem, ao reconhecer a inexistência de danos morais, apresentou fundamentação de natureza constitucional referente à liberdade de expressão, invocando a aplicação dos incisos IV e IX do art. 5º da Carta Magna. No entanto, considerando que não foi interposto recurso extraordinário para infirmar tal fundamentação, suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula nº 126/STJ.
+(AgInt no AREsp n. 2.007.011/PB, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 31/8/2022.)
+2. É inadmissível recurso especial quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+(AgInt no REsp n. 1.935.413/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º/9/2022.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 18%, conforme sobre o valor atualizado da condenação .
+Publique-se. Intimem-se.
+ EMENTA
