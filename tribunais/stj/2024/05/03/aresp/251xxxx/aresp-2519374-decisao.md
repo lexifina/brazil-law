@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282 e 356 do STF (e-STJ fls. 250/257).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 50):
+EMENTA: AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DESENTENÇA. ADOÇÃO DE MEDIDAS RESTRITIVAS DE DIREITO. SUSPENSÃO DA CNH E DO PASSAPORTE.
+É possível decretar a suspensão da CNH e do passaporte de devedor, desde que esgotados os meios típicos de cobrança de crédito e mediante decisão devidamente fundamentada.
+Os exequentes não lograram a satisfação do crédito exequendo. Após a intimação dos executados, estes não efetuaram o pagamento do débito e tampouco apresentaram bens viáveis, uma vez que aqueles indicados já apresentavam restrições de outro juízo ou já tinham sido alienados, persistindo este cumprimento de sentença por longo período superior há 10 anos do início da tentativa de recuperação do crédito. Assim, considerando as possibilidades oferecidas ao longo de mais de uma década de tentativa de quitação do débito (com interposição de recursos rejeitados, inclusive), a reiterada indicação remota de bens inservíveis, além da ausência de indicação de outros bens, denotam o intuito procrastinatório e até desrespeitoso com a força que deve amparar as condenações impostas pelo Poder Judiciário.
+RECURSO IMPROVIDO.
+Os embargos de declaração foram acolhidos parcialmente sem modificação do julgado (e-STJ fls. 201/219).
+Nas razões do recurso especial (e-STJ fls. 222/230), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação do art. 134, § 3º, do CPC/2015, sustentando, em síntese, que "a norma em apreço, ao determinar a suspensão incondicionada da execução de origem, à luz da instauração do procedimento de desconsideração de personalidade jurídica, visa justamente a evitar o que ocorreu no presente processo, ou seja, uma saraivada de múltiplas medidas em detrimento dos executados, enquanto aberta a porta para a obtenção dos efeitos concretos da desconsideração, sendo a ratio essendi da norma de que se cuida garantir a observância do princípio da menor onerosidade, insculpido, dentre outros, no art. 805, no § 2º do art. 829 e no 847, todos do CPC" (e-STJ fl. 227).
+No agravo (e-STJ fls. 260/268), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 271/285).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 207):
+(..) Todavia, não se vislumbra a omissão apta a ensejar a modificação do julgado, na medida em que o incidente de desconsideração da personalidade jurídica foi requerido de forma inversa, sendo, inclusive, deferida liminar em favor da parte aqui embargada.
+Com a instauração do incidente, o que se pleiteia, não é uma exclusão, ou o sobrestamento total de um feito sobre o outro, mas tão somente uma extensão da responsabilidade pela dívida executada.
+Note que a suspensão do processo executivo em razão do incidente, prejudicaria a realização de atos processuais em face dos devedores originários, visto que haveria óbice ao se determinar a obrigatoriedade do julgamento do mérito do incidente para, somente após, pudesse ser decidido pelo prosseguimento ou não do processo de execução em desfavor do devedor principal.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a suspensão do processo prejudicaria a realização de atos processuais em face dos devedores originários. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Ainda que assim não fosse, a Corte local, com base nas peculiaridades do caso concreto - no sentido de que (i) o incidente de desconsideração da personalidade jurídica foi requerido de forma inversa, sendo, inclusive, deferida liminar em favor da parte aqui recorrida e de que (ii) na instauração do incidente, o que se pleiteia, não é uma exclusão, ou o sobrestamento total de um feito sobre o outro, mas tão somente uma extensão da responsabilidade pela dívida executada - reconheceu que a suspensão do processo prejudicaria a realização de atos processuais em face dos devedores originários.
+Modificar o entendimento do acórdão impugnado quanto à impossibilidade de se determinar a suspensão do processo, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
