@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus im petrado em favor de Josue Teixeira Soares contra o acórdão proferido pelo Tribunal de Justiça da Bahia (HC n. 8025424-87.2023.8.05.0000) que manteve incólume a prisão preventiva.
+Narram os autos que o Juízo de Direito da Vara Crime e Anexos da comarca de Caetité/BA, nos autos da Ação Penal n. 0000014-32.1998.8.05.0036, decretou a prisão preventiva do paciente pela prática do crime descrito no art. 121, § 2º, I, do Código Penal (fls. 25/26).
+Aponta a defesa constrangimento ilegal na segregação cautelar do paciente diante da falta de requisitos e da ausência de fundamentação e de contemporaneidade, além da possibilidade de substituição por medi das cautelares diversas.
+Requer, liminarmente e no mérito, a substituição da prisão preventiva pelas medidas cautelares de comparecimento mensal em juízo e monitoramento eletrônico, nos termos do art. 319 do Código de Processo Penal.
+A liminar foi indeferida (fls. 50/51).
+As informações foram prestadas (fls. 53/55).
+O Ministério Público Federal se manifestou pelo não conhecimento do writ (fls. 62/67).
+Em consulta à ação penal na página eletrônica do Tribunal de origem, no último despacho de 8/12/2022, consta que (grifo nosso): nesta data foi realizada pesquisa sobre eventual situação prisional do(a) denunciado(a) em epígrafe junto ao sistema penitenciário de abrangência nacional - SISDEPEN. Todavia, nenhum resultado foi encontrado para os dados de qualificação indicados na denúncia. De igual modo, não foi possível obter novo endereço perante o SIEL - Sistema de Informações Eleitorais, uma vez que não houve retorno com os dados pessoais disponíveis.
+É o relatório.
+Inexist e, na espécie, ilegalidade quanto à decretação e manutenção da prisão preve ntiva do paciente.
+No tocante aos motivos da custódia, a prisão preventiva foi decretada pelo Juízo porque a sua fuga, além de dificultar o término da instrução criminal, existe risco para a aplicação da lei penal, uma vez em caso de pronúncia inexiste a possibilidade de julgamento pelo Tribunal do Júri sem a presença do réu (fl. 25).
+O Tribunal de origem, por sua vez, manteve a custódia ratificando que, de fato, o paciente, após a suposta prática do delito, fugiu e permanece em lugar incerto e não sabido até os dias atua is, o que obstou, inclusive, a efetivação da sua prisão. Tal particularidade autoriza a manutenção de sua custódia para assegurar a aplicação da Lei Penal, conforme jurisprudência pacificada dos Tribunais Superiores (fl. 43).
+Da leitura das peças que compõem estes autos, verifica-se que a prisão cautelar está devidamente fundamentada, uma vez que o paciente está na condição de foragido, havendo a necessidade da constrição para assegurar a aplicação da lei penal.
+Nesse sentido, o Superior Tribunal Justiça já se manifestou em caso semelhante: no caso, as instâncias ordinárias, soberanas na análise de todos os fatos e provas (produzidas até o momento) foram taxativas ao firmarem a premissa de que a manutenção da prisão preventiva do Agravante é imprescindível à aplicação da lei penal, haja vista que sequer o mandado de prisão temporária expedido em 2008 foi cumprido em virtude da fuga do Réu, aliás, "o feito está suspenso desde 2009 em razão da evasão do acusado" (AgRg no RHC n. 190.570/BA, Ministro Teodoro Silva Santos, Sexta Turma, DJe 7/3/2024 - grifo nosso).
+A propósito, confira-se o AgRg no HC n. 865.097/SE, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/12/2023.
+No tocante à ausência de contemporaneidade, esta Corte Superior possui o entendimento de que a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisó ria (AgRg no RHC n. 133.180/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 24/8/2021) - (AgRg no HC n. 857.776/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/4/2024 - grifo nosso).
+Afora isso, é entendimento desta Casa que as condições favoráveis da paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providên cias menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Pelo exposto, com base n a jurisprudência e no parecer, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PACIENTE FORAGIDO. APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONTEMPORANEIDADE. INEXISTÊNCIA. PRECEDENTES. CONDIÇÕES PESSOAIS FAVORÁVEIS . IRRELEVÂNCIA. ME DIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
