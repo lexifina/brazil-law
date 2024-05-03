@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Eraldo Roberto Batista Neves e outro(a/s), em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “Agravo de Instrumento Cumprimento de sentença Demanda coletiva na qual se reconheceu o direito dos servidores municipais a reajuste de fevereiro de 1995, nos termos das Leis Municipais nºs 10.688/88 e 10.722/89. Extinção da obrigação de fazer. Servidora que exerceu cargo comissionado de 13/08/1.991 a 18/09/1.996 e passou a exercer cargo efetivo a partir de 18/09/1.996. Novo vínculo originário após fevereiro de 1.995. Impossibilidade do apostilamento em relação ao novo cargo. Precedentes. Decisão mantida Recurso não provido.”
+
+    Na minuta, sustenta-se violação do art. 5º, XXXVI, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se a deficiência na fundamentação preliminar da repercussão geral, visto que não basta a simples afirmação genérica de que o tema possui repercussão geral ou a indicação de tema ou precedente desta Suprema Corte; faz-se necessária a fundamentação adequada que supra as exigências do disposto nos arts. 1.035, §§ 1º e 2º, do Código de Processo Civil e 327, § 1º, do Regimento Interno do STF.
+
+    Na presente hipótese, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
+
+    A jurisprudência desta Corte é firme no sentido de que deficiência de fundamentação da preliminar acarreta a inadmissibilidade do recurso extraordinário, mesmo nos casos de repercussão geral presumida ou reconhecida em outro processo. Nesse sentido: ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016; ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014; ARE 663.637-AgR-QO, Rel. Min. Ayres Britto, Pleno, DJe, 06.5.2013; RE 930.889-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.5.2017; e RE 1.298.416-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 19.3.2021, cuja ementa transcrevo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. A reversão do acórdão passa necessariamente pela revisão das provas constantes dos autos. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta Corte. 4. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).”
+
+    Por sua vez, nos termos da jurisprudência deste Supremo Tribunal Federal, a verificação da alegada ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que suposta violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, “a”, da Lei Fundamental. Nesse sentido:
+
+    “Recurso extraordinário representativo da controvérsia. Aplicação retroativa de lei mais benéfica às infrações de trânsito. Exegese das normas de trânsito. Interpretação realizada à luz das normas do Código Brasileiro de Trânsito revogado e do vigente. Matéria eminentemente infraconstitucional. Ausência de repercussão geral. 1. Não apresenta repercussão geral o recurso extraordinário que discute efeitos de normas de trânsito revogadoras e revogadas. 2. É pacífica a jurisprudência da Corte no sentido de que os conceitos dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição Federal, senão na legislação ordinária, mais especificamente na Lei de Introdução às Normas do Direito Brasileiro. 3. Ausência de repercussão geral.” (RE 657.871-RG, Rel. Min. Dias Toffoli, Pleno, DJe 17.11.2014)
+
+    “PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIOS. ÍNDICES DE CORREÇÃO MONETÁRIA RELATIVOS AOS ANOS DE 1997, 1999, 2000, 2001, 2002 E 2003. CONSTITUCIONALIDADE. PERCENTUAIS SUPERIORES AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR (INPC). REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DA JURISPRUDÊNCIA. 1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 376.846, rel. Min. CARLOS VELLOSO, DJ de 02-04-2004, afastou a alegação de inconstitucionalidade das normas que fixaram os índices de correção monetária de benefícios previdenciários empregados nos reajustes relativos aos anos de 1997, 1999, 2000 e 2001, que foram de um modo geral superiores ao INPC e observaram os comandos normativos de regência. 2. Tratando-se de situações semelhantes, os mesmos fundamentos são inteiramente aplicáveis aos índices de reajuste relativos aos anos de 2002 e 2003. 3. Incabível, em recurso extraordinário, apreciar violação ao art. 5º, XXXV e XXXVI, da Constituição Federal, que pressupõe intermediário exame e aplicação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 19.8.2011). 4. Agravo a que se conhece para, desde logo, negar seguimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.” (ARE 808.107-RG, Rel. Min. Teori Zavascki, Pleno, DJe 01.8.2014)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 3 de maio de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
