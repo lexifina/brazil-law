@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara de Feitos de Relações de Consumo, Cíveis, Comerciais e Acidentes de Trabalho de Itabuna - BA, suscitante, e o Juízo Federal da 1ª Vara Cível e Criminal de Itabuna - SJBA, suscitado, nos autos de ação proposta em desfavor de Instituição de Ensino Superior (IES) privada por meio da qual estudante pleiteia matrícula no curso de Medicina e o pagamento de indenização por danos morais.
+A ação foi originariamente distribuída para o Juízo de Direito, que declinou da competência para a Justiça Federal, por entender presente interesse de ente federal na demanda.
+O Juízo federal, por seu turno, firmou que o cerne da lide reside em se analisar a prática de ação ou omissão por parte da IES capaz de gerar o dever de indenizar e não constam dos autos quaisquer elementos que indiquem que o FNDE tenha interesse jurídico na demanda, especialmente tendo em conta que o contrato relativo ao FIES sequer chegou a ser formalizado. Assim, à luz da Súmula 150/STJ, declinou da competência e determinou a devolução dos autos ao Juízo Estadual de origem.
+O Juízo de Direito então suscitou o presente conflito, ao argumento de que "a tutela final almejada (obrigação de encaminhar e avaliar os documentos para inclusão no programa governamental) diz respeito  ..  ao procedimento administrativo no qual, ao final, será decidido pela concessão ou não de financiamento estudantil (FIES)".
+Parecer do Ministério Público Federal nos termos da ementa:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INSCRIÇÃO NOPROGRAMA DEFINANCIAMENTO ESTUDANTIL (FIES) NÃOEFETIVADA. DEMORA DA FACULDADE NAANÁLISE DA DOCUMENTAÇÃO. DANOSMORAIS. INTERESSE JURÍDICO DO FNDE(TERCEIRO INTERESSADO) AFASTADO PELOJUÍZO FEDERAL. SÚMULA 150/STJ. COMPETÊNCIA DA JUSTIÇA COMUMESTADUAL. PRECEDENTE. PARECER NOSENTIDO DE QUE SEJA DECLARADA ACOMPETÊNCIA DO JUÍZO DE DIREITO DA 2ªVARA DE FEITOS DE RELAÇÕES DECONSUMO, CÍVEIS, COMERCIAIS EACIDENTES DE TRABALHO DE ITABUNA/BA.
+É o relatório. Decido.
+Assiste razão ao Juízo suscitado.
+O artigo 109, I, da Constituição Federal define a competência da Justiça Federal, em matéria cível, razão da pessoa, abrangendo as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+No caso dos autos, o interesse do FNDE na lide foi afastado, fundamentadamente, por decisão do Juízo federal.
+Nesse contexto, sobreleva mencionar que compete ao Juízo federal sindicar a respeito deste particular, nos termos da Súmula n. 150/STJ: "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença da União, no processo, da União, suas
+Autarquias ou Empresas Públicas". Além disso, a teor da Súmula 254 do STJ, "a decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+Desse modo, havendo manifestação expressa do Juízo Federal reconhecendo inexistir interesse do FNDE a justificar o processamento do feito naquela Justiça especializada, não há como afastar a competência estadual, conforme o teor da Súmula 150 desta Corte, que reconhece a competência da Justiça Federal para decidir sobre a existência de interesse jurídico que justifique a presença, na relação processual, da União, de suas autarquias ou empresas públicas.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DECOMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015.
+APLICABILIDADE. REINTEGRAÇÃO DE POSSE. CHAMAMENTODA UNIÃO AO PROCESSO. DESNECESSIDADE. INTERESSE DEENTIDADES FEDERAIS AFASTADO PELA JUSTIÇA FEDERAL.
+REEXAME. IMPOSSIBILIDADE. SÚMULAS 150 E 254 DO SUPERIORTRIBUNAL DE JUSTIÇA. INCIDÊNCIA. ARGUMENTOSINSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DEPROCESSO CIVIL DE 2015. DESCABIMENTO.(..).
+II - Consoante inteligência do art. 109, I, da Carta Política, como regra, acompetência da Justiça Federal, em matéria cível, é estabelecida em razão dapessoa, abrangendo as causas em que a União, entidade autárquica ou empresapública federal forem interessadas na condição de autoras, rés, assistentes ouoponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas àJustiça Eleitoral e à Justiça do Trabalho.
+III - Nos termos do enunciado sumular 150 desta Corte, compete à JustiçaFederal decidir sobre a existência de interesse jurídico que justifique a presença,no processo, da União, suas autarquias ou empresas públicas.
+IV - In casu, o Juízo federal afastou o interesse da União e da ANTT na lide,fato que corrobora a competência da Justiça Estadual para o julgamento dalide.(..).
+VII - Agravo Interno improvido" (AgInt no CC n. 183.648/MA, relatoraMinistra Regina Helena Costa, Primeira Seção, julgado em 17/5/2022, D
+Je de19/5/2022).
+Ante o exposto, conheço do conflito negativo de competência e declaro a competência do Juízo de Direito da 2ª Vara de Feitos de Relações de Consumo, Cíveis, Comerciais e Acidentes de Trabalho de Itabuna - BA, o suscitante.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL E JUÍZO ESTADUAL. DANO MORAL. DEMORA DA INSTITUIÇÃO DE ENSINO SUPERIOR NA ANÁLISE DA DOCUMENTAÇÃO PARA INSCRIÇÃO FIES. INTERESSE JURÍDICO DO FNDE AFASTADO PELO JUÍZO FEDERAL. SÚMULAS N. 150 E 254 DO STJ. CONFLITO CONHECIDO PARA FIXAR A COMPETÊNCIA DO JUÍZO ESTADUAL.
