@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEXANDRE FERNANDES FAGUNDES contra decisão de fls. 219-222 (e-STJ) que não conheceu do mandamus.
+Neste recurso, o embargante sustenta, em síntese, que o paciente não foi condenado por associação com todos os acusados, mas apenas com outras duas pessoas, e que os fatos narrados não entraram na esfera de conhecimento do paciente.
+Requer, ao final, a concessão de efeitos infringentes aos embargos de declaração para que se conceda a ordem de habeas corpus nos termos da inicial.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Isso porque, nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente em julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte (EDcl no AgRg no REsp 1953904/SC, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/05/2022, DJe 13/05/2022).
+Sobre o tema:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS MAJORADO. NULIDADE. INVASÃO DE DOMICÍLIO. AÇÃO PENAL INSTAURADA EM RAZÃO DAS PROVAS OBTIDAS NO ATO CONSIDERADO ILEGAL. SUPOSTA INDICAÇÃO DE QUE HAVIA MAIS DROGAS NA RESIDÊNCIA QUE, DESACOMPANHADA DE OUTRAS PROVAS, NÃO AFASTA A NECESSIDADE DE MANDADO JUDICIAL PARA ADENTRAR O IMÓVEL. NECESSIDADE DE MANUTENÇÃO DO ENTENDIMENTO DO STJ . ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. VÍCIOS INEXISTENTES. PRETENSÃO DE REJULGAMENTO DA MATÉRIA. IMPOSSIBILIDADE.
+1. Os embargos de declaração somente são cabíveis quando presente ao menos uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente, com fundamentação clara e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional. Precedentes.
+3. Embargos de declaração rejeitados, com a recomendação de que, após julgamento dos aclaratórios, sejam os autos remetidos à Vice-Presidência desta Corte, nos termos do art. 22, § 2º, I, a, do RISTJ."
+(EDcl no AgRg no HC 830300 / MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/03/2024, DJe 14/03/2024.)
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. ALEGAÇÃO DE SUPOSTAS OMISSÃO. NÃO OCORRÊNCIA. NOVO JULGAMENTO. IMPOSSIBILIDADE. EMGARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+2. Caso em que a segregação cautelar foi mantida na sentença em razão da periculosidade do embargante, condenado por tráfico, porque teria sido flagrado com expressivas quantidades de drogas (cerca de 1,5kg de maconha e 622,01g de metanfetamina) por ocasião do cumprimento de um mandado de busca e apreensão. Além disso, o réu é reincidente (condenação anterior por tráfico de drogas), mas voltou a praticar novo delito, o que evidencia o risco de reiteração delitiva. O embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+3. Embargos rejeitados."
+(EDcl no AgRg no HC 872493 / SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 06/02/2024, DJe 12/03/2024.)
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, aclarar obscuridade, bem como eliminar contradição ou ambiguidade existente no julgado impugnado, não constituindo meio processual adequado para veicular simples inconformismo e o propósito de rediscussão de matéria decidida. Precedente.
+2. Ausente no acórdão embargado vício previsto no art. 619 do Código de Processo Penal, não há como estes serem acolhidos .
+3. A jurisprudência desta Corte orienta que "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é concedido por iniciativa dos Tribunais ao identificarem ilegalidade flagrante. Tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/3/2022).
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no HC 815217 / PE, Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 04/03/2024, DJe 06/03/2024.)
+Sem razão o embargante.
+O decisum encontra-se assim fundamentado:
+"Na hipótese, observo que a circunstância judicial da culpabilidade encontra-se devidamente fundamentada no grande número de integrantes da associação (sete agentes) e na atuação em diversas cidades (Presidente Getúlio, Dona Emma, Witmarsum e Vitor Meireles), o que demonstra a abrangência e a organização da associação para o tráfico.
+Assevera-se o firme entendimento desta Corte Superior de que " c onstitui fundamento idôneo para a exasperação da pena-base do crime de associação criminosa a menção a circunstâncias concretas do crime, como o grande número de integrantes, alto grau de organização e complexidade, atuação em diversas cidades e rodovias por longo período de tempo e movimentação de cargas e valores elevados" (AgRg no AREsp 1193257/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2018, DJe 28/2/2018).
+Dessa forma, não constato flagrante ilegalidade a ser sanada de ofício. Ainda, desconstituir esse entendimento, como requer a defesa, demandaria necessário revolvimento fático-probatório, vedado na via estreita do writ." (e-STJ, fl. 221)
+In casu, verifica-se que a decisão impugnada analisou, de forma coerente e com base na jurisprudência reiterada deste Sodalício, o pedido deduzido pela defesa.
+Frisa-se que, nos termos da jurisprudência desta Corte, na análise da circunstância judicial da culpabilidade, deve-se considerar a maior ou menor censurabilidade da conduta delituosa praticada, não apenas em razão das condições pessoais do agente, como também em vista da situação em que ocorrida a prática criminosa.
+Nesse sentido: AgRg no HC n. 612.171/SP, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/10/2020, DJe 27/10/2020; AgRg no HC n. 775.506/GO, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/2/2023, DJe de 17/2/2023; AgRg no AREsp 2264921 / TO, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/04/2023, DJe 14/04/2023.
+Ademais, ainda que haja erro material no capítulo dosimétrico do paciente, que considerou sua associação com sete agentes - erro esse não aventado na origem, o que impede seu conhecimento originário nesta Corte sob pena de indevida supressão de instância -, a associação entre cinco pessoas - Marcelo, Daniel, Daniele, Alexandre e Francisco -, conforme disposto no acórdão apelatório à fl. 198 (e-STJ), ainda é um número considerável de integrantes.
+No mais, decidir em sentido contrário ao firmado pelas instâncias ordinárias necessitaria de ampla incursão no quadro fático-probatório, o que é vedado na via estreita do mandamus.
+Portanto, não há se falar em quaisquer vícios na decisão embargada, pretendendo o ora embargante, a pretexto da existência de omissão e contradição, rediscutir a decisão embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
