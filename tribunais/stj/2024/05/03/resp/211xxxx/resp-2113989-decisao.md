@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por MÍRIAN DE NAZARÉ PAUSEWANG ITO, fundado nas alíneas "a" e "c" do permissivo constitucional, aviado contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 250):
+EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. PARCELAMENTO. CAUSA INTERRUPTIVA DA PRESCRIÇÃO COMPROVADA. CERTIDÃO DE DÍVIDA ATIVA. NULIDADE AUSENTE. INTIMAÇÃO POR EDITAL. TENTATIVA PRÉVIA DE INTIMAÇÃO POSTAL NO DOMICÍLIO DO SUJEITO PASSIVO PESSOA FÍSICA. VALIDADE DA INTIMAÇÃO.
+1. Havendo parcelamento, interrompe-se o prazo prescricional, consoante art. 174, IV, do CTN, o qual recomeça a fluir, por inteiro, a partir do inadimplemento das parcelas avençadas, nos termos da Súmula 248 do TFR: "O prazo de prescrição interrompido pela confissão e parcelamento da dívida fiscal recomeça a fluir no dia em que o devedor deixa de cumprir o acordo celebrado".
+2. Não decorrido prazo superior a cinco anos entre os marcos interruptivos, não há que se falar na ocorrência de prescrição.
+3. A certidão de dívida ativa que instrumentaliza a execução fiscal contém o nome do devedor, seu endereço, o valor originário do débito, a forma de cálculo e a origem da dívida, contendo, pois, todos os requisitos exigidos pelo art. 202 do CTN e § 5º do art. 2º da Lei 6.830/80.
+4. Em execução fiscal, é desnecessária a instrução da petição inicial com o demonstrativo de cálculo do débito, por se tratar de requisito não previsto no art. 6º da Lei nº 6.830/1980, bem como não se exige a juntada do processo administrativo.
+5. É condição para a validade da intimação editalícia, a prévia tentativa de intimação postal ou pessoal enviada regularmente ao domicílio do sujeito passivo, nos termos do artigo 23, §1º, do Decreto nº 70.235/72.
+Embargos de declaração rejeitados (e-STJ fls. 279/281).
+Em seu recurso especial, a parte aponta a existência de dissenso pretoriano e violação dos arts. 435 do CPC/2015 e do art. 23 do Decreto n. 70.235/1972.
+Argumenta, em síntese, que (e-STJ fls. 295/297):
+(..) supostamente houve dois ARs de notificação, referentes aos anos de 2005 e 2007, de números de rastreamento do correio 0200000000 e 0808164537 respectivamente, dois de ARs de cobrança, dos mesmos anos e de números de rastreamento do correio 693550446 e 834126982 respectivamente, e um edital.
+38. O conteúdo dos supostos ARs é inexistente, eis que em momento algum os mesmos foram efetivamente juntados. Ao contrário, a Recorrida juntou ao processo apenas documentos internos, que fazem menção aos AR "s mas não os reproduzem sua real imagem. Denota-se facilmente que sequer há os comprovantes dos ARs postais supostamente enviados à Recorrente.
+(..)
+45. É importantíssimo esclarecer que a ausência da Recorrente no endereço poderia ter se dado por uma série de questões, o que justifica nova tentativa de intimação em sua residência.
+46. Se o contribuinte está hospitalizado, de férias ou por qualquer motivo não se encontrava em sua residência, não há que se falar em resultado improfícuo previsto no § 1º do art. 23do Decreto nº 70.235/72. Ao contrário, caberia ao fisco nova tentativa pelo mesmo meio, eis que não pode o contribuinte ser penalizado por não estar em casa.
+Aduz, ainda, que o Tribunal de origem teria incorrido em equívoco ao reportar-se à necessidade de a contribuinte trazer ao processo judicial os autos do procedimento administrativo tributário, uma vez que estes já teriam sido devidamente juntados em oportunidade anterior.
+Ventila, por fim, matéria concernente à ocorrência de prescrição intercorrente.
+Contrarrazões às e-STJ fls. 314/317.
+Juízo de retratação negado, em sede de adequação na sistemática do recurso repetitivo (e-STJ fls. 376/381).
+Recurso especial a que foi negado seguimento, em relação ao tema decidido em recurso repetitivo, e que foi admitido, em relação aos demais temas (e-STJ fls. 436/437).
+Passo a decidir.
+A irresignação não merece prosperar.
+Na origem, cuida-se embargos à execução fiscal julgados improcedentes por sentença.
+Apelação desprovida.
+Pois bem.
+O objeto recursal cinge-se a dois pontos: a) suposto equívoco do Tribunal de origem ao reportar-se à necessidade de a parte juntar ao processo judicial os autos do procedimento administrativo, uma vez que estes já teriam sido devidamente juntados em momento anterior - alegação de violação ao art. 435 do CPC/2015; b) nulidade na intimação da contribuinte sobre o aludido procedimento administrativo - alegação de violação do art. 23 do Decreto n. 70.235/1972.
+Ao resolver a lide, assim se manifestou, no que importa, o Tribunal de origem (e-STJ fls. 255/257):
+2.2 Nulidade da CDA e da Execução Fiscal
+A certidão de dívida ativa que instrumentaliza a execução fiscal contém o nome do devedor, seu endereço, o valor originário do débito, a forma de cálculo e a origem da dívida, contendo, pois, todos os requisitos exigidos pelo art. 202 do CTN e § 5º do art. 2º da Lei 6.830/80.
+As exigências formais previstas nos arts. 202 do CTN e § 5º do art.2º da Lei 6.830/80 tem a finalidade precípua de possibilitar ao devedor impugnar a imputação fiscal. Para tanto, deve o mesmo apresentar argumentos plausíveis e concretos e não se limitar a afirmar que a certidão não contém os requisitos legais. Deve, ainda, consultar a legislação de regência, bem como os dados de que dispõe, para verificar se os cálculos do credor estão corretos. Entendendo que não estão corretos, deve apontar com clareza e de forma articulada os motivos de sua inconformidade. Ademais, nos termos do art. 3º, parágrafo único, da Lei de Execuções Fiscais, a dívida ativa regularmente inscrita é dotada de presunção juris tantum de certeza e liquidez, só podendo ser afastada por prova inequívoca, sendo ônu s da executada apresentar documentos comprovando a inexigibilidade, a incerteza ou a iliquidez da CDA.
+Ressalte-se que as informações mais detalhadas acerca do débito também podem ser obtidas através de consulta ao processo administrativo, o qual não se exige a juntada aos autos executivos. Compete ao executado aprova do alegado, não sendo razoável determinar que a exequente providencie os documentos necessários para tanto, não existindo qualquer mandamento legal no tocante ao fornecimento de cópias do processo administrativo pela União. Situação outra seria se a exequente impedisse a vista e a cópia do documento, ou retardasse em demasia a sua entrega ao interessado.
+Além disso, o artigo 41 da Lei nº 6.830/80 dispõe que "o processo administrativo correspondente à inscrição em dívida ativa, à execução fiscal ou à ação proposta contra a fazenda pública será mantido na repartição competente (..)". Assim, cabe ao interessado dirigir-se à parte ré e pleitear avista e a cópia dos autos do processo administrativo. Somente se isso for negado é que o julgador determinará que a União traga aos autos cópia do procedimento administrativo, o que não ocorreu no caso em exame.
+Sequer se poderia cogitar em nulidade da CDA em face da ausência de demonstrativo de débito, porquanto não se aplica a esse título executivo o disposto no art. 798, I, "b", do CPC, não exigindo, a Lei nº 6.830/80, a juntada deste documento.
+Registre-se, ainda, o teor da Súmula nº 559 do STJ: "Em ações de execução fiscal, é desnecessária a instrução da petição inicial com o demonstrativo de cálculo do débito, por tratar-se de requisito não previsto no art. 6º da Lei nº 6.830/1980".
+Quanto à notificação por edital, verifica-se que a União juntou comprovantes de devolução de cartas de notificação destinadas à executada, devolvidas ao remetente em virtude de ausência de pessoa para recebê-las (evento 16, AR3, dos embargos à execução). Tais notificações foram enviadas ao endereço "Rua Lauro Linhares, nª 2055, Bairro Trindade, Florianópolis/SC", cadastrado pela própria contribuinte nas declarações de ajuste anual do IRPF dos anos de 2005 e 2007 (evento 16, DECL4).
+Foi obedecida, portanto, condição para a validade da intimação editalícia, que somente pode ser utilizada em caso de restar improfícua a intimação enviada regularmente ao domicílio do sujeito passivo, nos termos do artigo 23 do Decreto nº 70.235/72, que rege o processo administrativo fiscal.
+(..)
+Dessa forma, inexistem motivos para se atribuir nulidade à(s)CDA(s), tampouco à ação executiva.
+Portanto, não merecem acolhimento os argumentos da apelante, mantendo-se na íntegra a sentença, prosseguindo-se a execução fiscal.
+Conforme se observa, nem a temática referente à possível aplicação, na hipótese, do art. 435 do CPC/2015, nem a temática referente à possível necessidade de proceder-se a nova tentativa de intimação, por A.R., em face da ausência do contribuinte de sua residência, por hospitalização ou motivo semelhante, foram objeto de análise, no âmbito do Tribunal de origem. Tampouco se apontou, no recurso especial, eventual violação do art. 1.022, II, do CPC/2015, de modo que não há como reconhecer-se atendido o prequestionamento, mesmo na modalidade ficta.
+Aplicável no caso, portanto, a Súmula 211 do STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais, pois ausente condenação em verba honorária nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
