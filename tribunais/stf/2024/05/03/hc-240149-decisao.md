@@ -1,0 +1,73 @@
+DECISÃO: Trata-se de habeas corpus impetrado pela Defensoria Pública da União, em favor de Cheslyn William Sythe, contra acórdão proferido pelo Superior Tribunal de Justiça nos autos do Agravo em Recurso Especial nº 2562308 - SP (2024/0035322-8), assim ementado:
+
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE DA DROGA. PROPORCIONALIDADE. FRAÇÃO DA MINORANTE. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação do art. 59 do Código Penal, reduzir a reprimenda-base estabelecida ao acusado. 2. O Tribunal de origem fundamentou concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6, salientando, para tanto, a posição do réu na cadeia criminosa, como uma "mula" do tráfico, havendo transportado a droga acondicionada em fundos falsos de suas duas malas despachada em voo para o exterior. 3. Agravo regimental não provido.” (eDOC 7, p. 173)
+
+    Nesta Corte (eDOC 1), a impetrante narra que “o Eg. Tribunal Regional Federal da 3ª Região, fixou a pena-base em 6 anos e 3 meses de reclusão em razão da quantidade e qualidade da droga apreendida, com fundamento no art. 42 da Lei n. 11.343/2006.”(p. 3)
+
+    Sustenta que não foram observados os princípios da proporcionalidade e razoabilidade na fixação da pena-base, pois “mesmo diante da autorização de preponderância dada pelo art. 42 da Lei n.11.343/2006 e a discricionariedade do julgador, o aumento da pena em 1/4 acima do mínimo legal não pode ser considerado proporcional.” (p. 3)
+
+    Alega, outrossim, que “resta flagrante o constrangimento ilegal acarretado pelas instâncias ordinárias ao ora paciente, ao não conceder a causa especial de diminuição de pena do tráfico privilegiado em seu patamar máximo.” (p. 5)
+
+    Afirma que “[...] que a motivação do julgado é inidônea a justificar a aplicação da fração de 1/6, pois demasiadamente genérica, lastreada em elementos inerentes ao próprio tipo penal de tráfico internacional e na condição inerente da "mula" do tráfico.” (p. 6)
+
+    Argumenta que o paciente é primário, de bons antecedentes, não se dedica à atividade criminosa e não participa de organização criminosa, fazendo jus ao reconhecimento da figura do tráfico privilegiado.
+
+    Requer a concessão da ordem de habeas corpus para que seja reduzida a pena-base e aplicada a causa especial de diminuição de pena, prevista no art. 33, § 4º, da Lei nº 11.343/2006, na fração máxima de 2/3.
+
+    É o relatório.
+
+    Decido.
+
+    A jurisprudência desta Corte é firme em proclamar que cabe às instâncias ordinárias fixar as penas, decidindo motivadamente quanto à fração de agravamento das penas, que não é precisamente fixada pela Lei Penal. O controle de proporcionalidade das sanções pelas Cortes Superiores apenas pode ocorrer em situações teratológicas, para aumentos muito superiores ao adotado no caso.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO POR TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO. DOSIMETRIA. REINCIDÊNCIA PLÚRIMA. FRAÇÃO DE AUMENTO. FUNDAMENTAÇÃO IDÔNEA. 1. A dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta Corte, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades, não verificadas na espécie. Precedentes. 2. Para justificar o percentual de 2/3 adotado para exacerbar a pena na segunda fase, as instâncias antecedentes destacaram “a multireincidência e a reincidência específica do recorrente, o qual ostenta 7 condenações anteriores” pelos crimes de roubo, furto, posse ilegal de arma e tráfico. A reincidência plúrima, nesse contexto, é circunstância idônea para o agravamento da pena, que se deu em patamar proporcional e adequado às particularidades do caso concreto, não havendo constrangimento ilegal a ser sanado. 3. ‘Não se presta o habeas corpus ao reexame do conjunto fático-probatório que levou à fixação das penas’ (HC 118.079-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 18/3/2014). 4. Agravo Regimental a que se nega provimento”. (HC 169.738 AgR, rel. Alexandre de Moraes, Primeira Turma, DJe 14.6.2019)
+
+    “AGRAVO INTERNO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE EVIDENTE. 1. É inviável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. A dosimetria da pena é matéria sujeita a certo grau de discricionariedade, o que não afasta o controle de legalidade e constitucionalidade dos critérios e da motivação utilizados. 3. A revisão da fração aplicada na dosimetria da pena-base é inadmissível na via estreita do habeas corpus, que não comporta dilação probatória. 4. Agravo interno desprovido”. (RHC 206.548 AgR, rel. Nunes Marques, Segunda Turma, DJe 2.6.2022)
+
+    Na hipótese dos autos, o Superior Tribunal de Justiça assim consignou a respeito das arguições defensivas:
+
+    “I. Pena-base
+
+    No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+
+    Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+
+    Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas – como ocorre na espécie –, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+
+    No caso, o Tribunal de origem entendeu pela imposição da pena-base acima do mínimo legal (6 anos e 3 meses de reclusão), em razão da quantidade de drogas apreendidas (7.148 g de cocaína), a evidenciar que a instância de origem atuou, justamente, em consonância com o disposto no art. 42 da Lei n. 11.343/2006.
+
+    Não se pode olvidar que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que, havendo a Corte estadual fundamentado o aumento da reprimenda-base à luz, justamente, das peculiaridades do caso concreto, não vejo como acolher o pleito defensivo, em homenagem ao princípio do livre convencimento motivado.
+
+    Vale dizer, uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação dos arts. 59 e 68 do Código Penal e 42 da Lei de Drogas, reduzir a reprimenda-base estabelecida ao acusado.
+
+    II. Fração da minorante
+
+    O Tribunal de origem entendeu pela fixação da fração da redutora na fração de 1/6, nos seguintes termos (fl. 694, grifei):
+
+    Com efeito, o apelante é primário, sem antecedentes e não há prova de que se dedique a atividades criminosas ou que integre organização criminosa. Trata-se de "mula" do tráfico. Contudo, ao aceitar transportar a droga, tinha plena consciência que estava cooperando, ainda que de modo circunstancial, com organização criminosa voltada ao tráfico de drogas. Isso porque, para burlar a fiscalização, transportou a droga acondicionada em quatro invólucros ocultos em fundos falsos de suas duas malas de viagem despachada em voo para o exterior. A fração mínima aplicada é adequada e proporcional para a justa dosimetria da pena. Conforme a jurisprudência do Superior Tribunal de Justiça, a gravidade concreta do delito e suas circunstâncias autorizam a aplicação dessa minorante em patamar diverso do máximo (AgRg no HC 326.510/PR, Quinta Turma, Rel. Min. Jorge Mussi, j. 19.05.2016, DJe 08.06.2016).
+
+    Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não sededique às atividades criminosas nem integre organização criminosa". Assim, observa-se que o dispositivo legal traz apenas os requisitos necessários para a aplicação da minorante nele prevista; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+
+    Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, tendo em vista que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+
+    Veja-se, portanto, que o Tribunal a quo fundamentou concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6, salientando, para tanto, a posição do réu na cadeia criminosa, como uma "mula" do tráfico, havendo transportado "a droga acondicionada em quatro invólucros ocultos em fundos falsos de suas duas malas de viagem despachada em voo para o exterior" (fl. 694).
+
+    Entendo que a redução mínima é, de fato, a mais adequada ao caso. Isso porque o ora recorrente se trata, na verdade, de verdadeira "mula" no transporte dos entorpecentes e desempenhou papel imprescindível na cadeia delitiva de distribuição das drogas internacionalmente. Sua conduta foi, sem o menor equívoco, de especial relevância, haja vista que, assentiu em praticar tráfico internacional de entorpecentes, tentando levar drogas para Doha. Assim, não identifico a contrariedade ao § 4º do art. 33 da Lei n. 11.343/2006.” (eDOC 7, p. 177-180)
+
+    Da análise dos excertos citados, verifica-se que o ato coator reconheceu que o Tribunal de origem, balizado pelos critérios da razoabilidade e da proporcionalidade, fundamentou o incremento da pena-base e a fração de 1/6 referente ao tráfico privilegiado em razão das das peculiaridades do caso concreto, mormente diante da quantidade e natureza da droga apreendida, em observância ao art. 42 da Lei de Drogas.
+
+    Estando a dosimetria da sanção cominada amparada por fundamentação idônea, não se vislumbra hipótese de flagrante ilegalidade a ser reparada nesta via.
+
+    Ante o exposto, denego a ordem de habeas corpus (art. 192, RISTF).
+
+    Publique-se.
+
+    Brasília, 3 de maio de 2024.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
