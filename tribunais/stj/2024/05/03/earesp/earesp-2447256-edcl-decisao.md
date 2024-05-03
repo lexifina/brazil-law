@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA SENHORA SILVA em face da decisão que indeferiu liminarmente os embargos de divergência em razão da falta de exaurimento de instância e também em virtude da inexistência de acórdãos paradigmas.
+Em suas razões, sustenta a parte embargante que: "como indicado, não há que se falar em insuficiência das razões recursais quando a Embargante apontou, de maneira pormenorizada a controvérsia posta em discussão. Tem-se, portanto, uma omissão quanto a matéria fática discutida nos presentes autos, a decisão embargada deixou de analisar matéria indispensável à correta análise do direito pleiteado." (fl. 185)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consoante explicitado na decisão embargada, os embargos de divergência foram interpostos contra decisão monocrática exarada por Relator do Superior Tribunal de Justiça, restando evidenciada a falta de exaurimento de instância.
+Ressalte-se que conforme dispõe o art. 1.043 do Código de Processo Civil, a interposição dos embargos de divergência pressupõe que o decisum impugnado seja acórdão proferido órgão fracionário, nunca decisão singular ou monocrática proferida pelo Relator.
+Além disso, os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, nas hipóteses como a presente, na qual a petição recursal deixa de indicar qualquer divergência jurisprudencial.
+Com efeito, os embargos de divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado com paradigma, não sendo possível sua interposição com intuito de mera rediscussão do quanto já decidido em sede de recurso especial.
+A propósito, o seguinte julgado da Corte Especial do Superior Tribunal de Justiça:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INDEFERIMENTO LIMINAR. DIVERGÊNCIA NÃO DEMONSTRADA. ART. 932, PARÁGRAFO ÚNICO, DO CPC. INAPLICABILIDADE. COMPROVAÇÃO DA DIVERGÊNCIA. SUBSTÂNCIA DO ATO. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento consolidado nesta Corte, "a ausência de demonstração da divergência alegada no recurso uniformizador - nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ - constitui claramente vício substancial, resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015 para complementação de fundamentação." (AgInt nos EAREsp 1238270/RS, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 13/10/2020, DJe 27/10/2020).
+3. Agravo regimental não provido.
+(AgRg nos EDv nos EAREsp 1592200/SC, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 09/12/2020, DJe 15/12/2020.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgInt nos EDcl no AREsp n. 883535/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
