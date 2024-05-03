@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial, interposto por JAMES WILLIAN DOS SANTOS, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 426, e-STJ):
+COMPRA E VENDA Rescisão do contrato Desfazimento do negócio por inadimplemento do comprador- Necessidade Sentença que determina devolução de 80% do valor pago Não cabimento Leilão extrajudicial efetivado Inteligência da Lei n. 4.591/64 Expressa previsão contratual Validade Ação improcedente Insurgência do autor acerca da distribuição dos ônus da sucumbência - Sentença reformada Recurso dos réus provido, improvido o do autor.
+Em suas razões de recurso especial, os Recorrentes apontam, além de dissídio jurisprudencial, ofensa ao artigo 63, §1º e §4º, da Lei 4.591/64. Sustenta, em síntese, que é devida a restituição de 80% dos valores pagos.
+Após a apresentação das contrarrazões (fls. 475/484, e-STJ), e após decisão de admissão do recurso especial (fls. 485/486, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. Conforme entendimento desta Corte, a realização de leilão extrajudicial do bem não isenta a empresa de restituir, total ou parcialmente, os valores pagos pelos compradores, a depender de quem deu causa à rescisão contratual, nos termos da Súmula n.º 543 do STJ.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DISTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL POR INICIATIVA DA COMPRADORA. AUSÊNCIA DE INTERESSE DE AGIR. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N.º 283 DO STF, POR ANALOGIA. REALIZAÇÃO DO LEILÃO DA UNIDADE. AFASTAMENTO DO DIREITO DA ADQUIRENTE DE RECEBER OS VALORES PAGOS. IMPOSSIBILIDADE. SÚMULA Nº 543 DO STJ. DISPOSIÇÕES DA LEI N.º 13.786/18. IRRETROATIVIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de ação de distrato de promessa de compra e venda de imóvel cumulada com restituição das quantias pagas, cuja alegação de ausência de interesse de agir da autora foi afastada pelo Tribunal estadual, ao entendimento de que a sistemática da venda do imóvel por leilão extrajudicial, nos termos do que dispõe o art. 63, § 1º, da Lei de Incorporações Imobiliárias, não é aplicável ao caso. Ocorre que esse fundamento não foi objeto de impugnação, específica, nas razões do recurso especial, incidindo, à hipótese, o óbice da Súmula n.º 283 do STF, por analogia.
+2. Segundo a jurisprudência desta Corte Superior, a realização de leilão extrajudicial do bem não isenta a empresa de restituir, total ou parcialmente, os valores pagos pelos compradores, a depender de quem deu causa à rescisão contratual, nos termos da Súmula n.º 543 do STJ. Precedentes.
+3. As disposições da Lei n.º 13.786/2018, no que se refere à devolução dos valores pagos e ao percentual a ser retido pelo fornecedor em caso de rescisão contratual, por iniciativa do consumidor, são inaplicáveis aos contratos celebrados anteriormente à sua vigência.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.950.133/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+EMENTA AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL COM DEVOLUÇÃO DE VALORES PAGOS. DIREITO DE RETENÇÃO. OBSERVÂNCIA DA JURISPRUDÊNCIA ASSENTADA DO STJ. INTELIGÊNCIA DA SÚMULA 543/STJ. REALIZAÇÃO DE LEILÃO EXTRAJUDICIAL. IRRELEVÂNCIA QUANTO AO DIREITO DE RESTITUIÇÃO DE VALORES AO PROMITENTE-COMPRADOR. RESCISÃO POR CULPA EXCLUSIVA DO PROMITENTE-COMPRADOR. DIREITO DE RETENÇÃO DO VENDEDOR. PERCENTUAL DE RETENÇÃO DE 20% FIXADA PELO TRIBUNAL A QUO COM BASE EM PREVISÃO CONTRATUAL. PONTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Impõe-se observar que o STJ possui sólido entendimento de que, na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, como é o caso presente, deve ocorrer a imediata restituição das parcelas pagas pelo promitente-comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento - inteligência da Súmula 543/STJ.
+2. Ainda que tenha sido realizado o leilão do imóvel objeto da lide, o direito do promitente-comprador de receber de volta parte das parcelas desembolsadas não é afastado; se assim fosse, estaria o promitente-vendedor enriquecendo-se ilicitamente. No ponto, incide a Súmula 83/STJ.
+3. Aplica-se a Súmula 83/STJ, tanto para os recursos interpostos com fulcro na alínea "a" quanto pela "c" do permissivo constitucional.
+Precedente.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 2.267.584/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESOLUÇÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. INICIATIVA DO PROMITENTE COMPRADOR. DEVOLUÇÃO DOS VALORES PAGOS. POSSIBILIDADE. PRECEDENTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da Súmula 543/STJ, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento."
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que a questão relativa à realização de leilão extrajudicial demonstra-se irrelevante quanto ao direito de restituição de valores ao promitente comprador (AgInt no REsp n. 1.980.430/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2022, DJe de 1º/7/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.241.045/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+Assim, de rigor a restituição de parte do valor pago.
+2 . Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e lhe dou provimento a fim de restabelecer a sentença de primeiro grau.
+Sem honorários recursais.
+EMENTA
