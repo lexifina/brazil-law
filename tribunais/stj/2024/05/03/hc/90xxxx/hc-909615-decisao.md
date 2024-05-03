@@ -1,0 +1,37 @@
+DECISÃO
+ALEXANDRE AMARO VILA alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de origem, que "d eu  parcial provimento ao apelo, para conceder sursis ao réu, pelo prazo de 02 (dois) anos, mediante condições e reduzir o valor da indenização à vítima para R$ 1.000,00".
+A defesa entende que, "no caso concreto, mostrou-se exagerada a fração aplicada, posto que a justificativa apresentada não se mostra idônea para recrudescer a pena-base em fração superior a 1/6 da pena mínima cominada".
+Decido.
+Quanto à conduta social do réu e ao critério de aumento da pena-base, o acórdão consignou o que se segue (fls. 316-319):
+ ..
+Instruído o feito, sobreveio sentença, publicada em 11/12/2023, julgando parcialmente procedente a ação penal, para condenar o réu A.A.A. como incurso no artigo 129, §9º, do Código Penal, à pena privativa de liberdade de 07 (sete) meses e10 (dez) dias de detenção, em regime inicial aberto (evento 69, SENT1).
+ ..
+Assim, comprovado o cometimento do delito de lesões corporais pelo acusado,descabida a pretensão defensiva de absolvição do réu.
+A manutenção da condenação, portanto, é medida que se impõe.
+Quanto à dosimetria da pena, assim fixada pelo juízo a quo:
+Passa-se a dosar a pena, adiantando-se que o cálculo da pena-base, de modo geral, sera elevado na fração de 1/8 para cada circunstância judicial valorada negativamente, a incidir sobre o intervalo da pena abstratamente cominada ao delito, observando-se a jurisprudência do STJ quanto ao ponto (AgRg no AR Esp n. 2.279.939/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/4/2023, DJe de 18/4/2023, AgRg no HC 548.785/RJ, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 13/10/2020, DJe 23.10.2020; HC568.096/RJ, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 06.10.2020, DJe16.10.2020; AgRg no AgRg nos EDcl no AREsp 1.617.439/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 28.09.2020).
+A culpabilidade, entendida como o grau da reprovabilidade social da conduta e gravidade concreta do fato, não desbordou dos limites do tipo. O réu não registra antecedentes. Não há elementos suficientes para aferir a personalidade do acusado. Não há elementos a justificar uma valoração negativa de sua conduta social.
+Os motivos do crime foram graves, pois foi praticado como forma de retaliação pela negativada vítima em realizar o pedido do réu, isto é, de que ela o acompanhasse em uma visita. Tal motivação impõe à vítima uma vida de submissão em relação ao acusado, uma vez que seu desejo deveria ser satisfeito, ainda que ela não quisesse fazê-lo, o que deve ser prontamente repelido.
+As circunstâncias foram graves, pois o acusado praticou violência física contra pessoa com dificuldades de locomoção, circunstância que reduz a possibilidade de defesa da vítima, merecendo mais reprovação.
+Não houve consequências relevantes. O comportamento da vítima não contribuiu para aconsecução do delito.
+Valoradas, assim, as balizadoras do artigo 59 do Código Penal (considerando negativas osmotivos e as circunstâncias), e lembrando que a pena prevista para o tipo penal é de 03 mesesa 03 anos de detenção, fixo a pena-base em11 meses de detenção (4 meses de aumento paracada vetor negativo).
+O STJ é firme na compreensão de que:
+A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito (AgRg no AREsp 864.464/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/5/2017) (AgRg no AREsp n. 2.055.438/PA, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 19/5/2022, destaquei).
+No caso, não obstante a irresignação defensiva, não se verifica ilegalidade no acórdão recorrido, pois as instâncias ordinárias salientaram que "os motivos do crime foram graves, pois foi praticado como forma de retaliação pela negativada vítima em realizar o pedido do réu, isto é, de que ela o acompanhasse em uma visita", concluindo que "tal motivação impõe à vítima uma vida de submissão em relação ao acusado, uma vez que seu desejo deveria ser satisfeito, ainda que ela não quisesse fazê-lo, o que deve ser prontamente repelido". Consignaram, ainda, que "as circunstâncias foram graves, pois o acusado praticou violência física contra pessoa com dificuldades de locomoção, circunstância que reduz a possibilidade de defesa da vítima, merecendo mais reprovação", o que afasta a alegação de que o incremento da pena-base constitui coação ilegal . Vejam-se:
+ ..  3. Diante do comportamento violento e agressivo do agente, em suas relações domésticas, incabível a exclusão da vetorial personalidade.
+4. A pena-base aplicada pelas Instâncias ordinárias, embora mais elevada que os patamares normalmente aplicados nesta Corte, não se mostram teratológicos diante das peculiaridades do caso concreto, tendo sido destacadas as especificidades e circunstâncias do caso concreto de forma a justificar o maior incremento aplicado.
+ ..
+(AgRg no HC n. 697.993/ES, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 27/6/2022)
+ ..  3. As instâncias ordinárias apresentaram fundamentação lastreada em elementos concretos e específicos do caso em apreço, os quais efetivamente indicam a personalidade desvirtuada do Acusado, pois já teria agredido a Vítima por diversas vezes e também teria atacado sua atual companheira; ademais, o filho do Agravante "declarou que o Réu é pessoa "estourada"".
+ ..
+(AgRg no HC n. 506.558/RJ, Rel. Ministra Laurita Vaz, 6ª T., DJe 22/9/2020)
+Quanto ao argumento de violação da proporcionalidade no aumento da reprimenda básica, este Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Ressalto, por oportuno, que a jurisprudência do STJ não impõe ao juízo a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa de circunstâncias judiciais. Nessa perspectiva, esta Corte já manifestou o entendimento de que "a exasperação relacionada a cada circunstância judicial poderá, entre outros critérios, ser calculada com base no termo médio entre o mínimo e o máximo da pena cominada em abstrato ao crime, dividido pelo número de circunstâncias judiciais do art. 59 do CP" (AgRg no AREsp n. 785.834/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 10/8/2017).
+Ainda, assinalou:
+ ..
+3. Na linha do art. 59 do Código Penal, o julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, porquanto está no âmbito da sua discricionariedade, embora, ao fazê-lo, deva fundamentar a opção de julgamento com elementos concretos da conduta do acusado. Além disso, inexiste imposição na utilização das frações de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. O que se mostra imprescindível é o emprego de motivação adequada e a proporcionalidade na exasperação da pena.
+ ..
+(AgRg no AREsp n. 2.340.777/DF, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 16/11/2023)
+À vista do exposto, denego a ordem in limine.
+Publique-se e intimem-se.
+EMENTA
