@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 237/240).
+O acórdão recorrido ficou assim ementado (e-STJ fl. 153):
+AGRAVO INTERNO - insurgência contra a decisão que não concedeu efeito suspensivo ao agravo de instrumento - agravo interno prejudicado em razão do julgamento do agravo de instrumento - RECURSO PREJUDICADO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 168/173).
+Nas razões do recurso especial (e-STJ fls. 175/196), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, em suma, o seguinte (e-STJ fl. 177):
+1. Violação aos artigos 489, §1º, e 1.022, inciso II, ambos do Código de Processo Civil: o que se sustenta é existência de omissão não sanada, mesmo após a oposição de Embargos de Declaração, na medida em que o Eg. TJ/SP deixou de observar a ausência de comprovação de prejuízo ao Recorrido pela substituição da garantia, bem como não observou os prejuízos reais sofridos pela Recorrente.
+2 - Violação aos artigos 848, parágrafo único, e 835, §2º, do Código de Processo Civil: o que se sustenta é a violação aos dispositivos legais mencionados na medida em que a Recorrente promoveu a substituição da garantia nos autos executivos, cumprindo todos os requisitos legais para tanto e ofertando seguro-garantia com este intuito. Os vv. acórdãos recorridos, no entanto, vedaram a substituição da garantia, afrontando os permissivos legais sobre o tema.
+3 - Violação aos artigos 805, parágrafo único, e 831 do Código de Processo Civil: o que se sustenta é a violação aos dispositivos legais mencionados na medida em que os vv. acórdãos recorridos, ao não permitirem a substituição da penhora pelo seguro-garantia, acabaram afrontando o princípio da menor onerosidade ao devedor, bem como permitiram flagrante excesso de penhora, na manutenção da carta-fiança e da penhora de valores nas contas bancárias da Recorrente.
+4- Dissídio jurisprudencial: o que se sustenta é a aplicação do entendimento exarado no v. acórdão paradigma prolatado pelo Egrégio Tribunal Regional Federal da Terceira Região, nos autos do Agravo de Instrumento nº 5021810-57.2019.4.03.0000, em que, tal como no presente caso, trata-se de hipótese em que o devedor promoveu a substituição da penhora em dinheiro por carta-fiança bancária. Contudo, naquela demanda, foi acertadamente possibilitada a substituição, até mesmo independentemente da anuência do Exequente.
+No agravo (e-STJ fls. 243/264), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 274/292).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 170/171 ):
+7. No mais, o Acórdão fundamentou devidamente a impossibilidade de substituição da penhora on line pela carta de fiança, inclusive com base nos dispositivos legais invocados pela embargante, tendo em vista que seria prejudicial para o embargante (fls.117/119):
+(..)
+E no caso em tela de fato a aceitação da carta fiança é prejudicial ao exequente/agravado na medida em que se trata de garantia inferior à penhora on line pois tem prazo de validade e exige notificação do fiador no caso de descumprimento da obrigação do afiançado.
+Não bastasse isso, a jurisprudência deste TJSP entende que a substituição só pode ser admitida se houver expressivo prejuízo ao executado, como por exemplo em caso de risco à continuidade de suas atividades, o que não restou minimamente comprovado nos autos.
+(..)
+9. Por igual, o Acórdão consignou que a embargante não comprovou minimamente a existência de risco à continuidade de suas atividades com a manutenção da penhora, o que realmente não foi feito.
+10. Quanto ao princípio da menor onerosidade da execução, não socorre a embargante eis que só tem incidência quando o meio menos gravoso não prejudicar o credor pois é no interesse dele que a execução tramita.
+11. Por fim, a existência de penhora on line em conjunto com carta de fiança não caracteriza excesso na garantia, o que só se configuraria se a segunda tivesse sido considerada idônea e a primeira não tivesse sido levantada. Todavia, a partir do momento em que a carta de fiança não foi admitida, não há falar em excesso na penhora/garantia.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+No caso, a decisão recorrida está em conformidade com a jurisprudência desta Corte, no sentido de que "a substituição da garantia em dinheiro por carta de fiança somente deve ser admitida em hipóteses excepcionais e desde que não ocasione prejuízo ao exequente, sem que isso enseje afronta ao princípio da menor onerosidade da execução para o devedor" (AgRg no AREsp 363.755/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/3/2017, DJe 14/3/2017)" (EDcl no AgInt no REsp n. 1.734.402/DF, Relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Relatora para acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/9/2018, DJe de 23/11/2018).
+Além disso, modificar o entendimento do acórdão impugnado quanto à possibilidade de substituição da penhora, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, esta Corte tem entendimento no sentido de que a incidência da Súmula n. 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
