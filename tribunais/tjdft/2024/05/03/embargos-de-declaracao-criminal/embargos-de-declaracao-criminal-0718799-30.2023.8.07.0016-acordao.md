@@ -1,0 +1,47 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.EMBARGOS DE DECLARAÇÃO CRIMINAL 0718799-30.2023.8.07.0016EMBARGANTE(S)ITALLO ALMEIDA LEITAOEMBARGADO(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatorJuiz ANTONIO FERNANDES DA LUZ
+ Acórdão Nº1857841
+
+EMENTA
+
+ EMBARGOS DE DECLARAÇÃO. RECURSO INTEGRATIVO. VÍCIO DE OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS CONHECIDOS EM PARTE E REJEITADOS.
+
+1. Acórdão lavrado de acordo com a disposição inserta nos artigos 2º e 82, § 5º, da Lei 9.099, de 26.09.1995 e artigo 60, §§ 1º e 2º, do Regimento Interno das Turmas Recursais. Presentes os pressupostos específicos, conheço parcialmente do recurso.
+
+2. Os embargos de declaração constituem recurso integrativo e se prestam a sanar vícios, como obscuridade, contradição ou omissão, que eventualmente possam tingir a decisão judicial.
+
+3. O embargante aponta omissão no acórdão, à míngua da análise da tese relativa à ofensa ao princípio da legalidade, diante da ausência de prescrição normativa correspondente à conduta do embargante, inexistindo regulamentação da autoridade competente quanto à licença para portar arma branca, nos termos preconizados pelo art. 19, da Lei de Contravenções Penais, que se traduz em norma penal em branco, sem, entretanto, existir a devida complementação, impedindo, assim, a sua aplicação à hipótese. Outrossim, afirma a inexistência de norma estabelecedora do que se configuraria arma branca, em desrespeito ao princípio da taxatividade, corolário do princípio da legalidade. Nesse passo, requer o saneamento da omissão, dando-se efeito infringente aos embargos para que seja absolvido da contravenção penal a ele imputada.
+
+4. Sem razão. O objurgado acórdão foi claro, no item 6 da ementa, ao condensar o entendimento do Superior Tribunal de Justiça quanto à temática, dizendo que o art. 19, da Lei de Contravenções Penais, vigora em relação à arma branca (HC 255.192/MG e RHC 66.979/MG), não se aplicando o elemento normativo do tipo, a saber, "sem licença da autoridade", às armas brancas, prescindindo de regulamentação relativa às condições de seu uso, para eventual consumação da aludida contravenção penal. Além disso, a ementa (item 7) consignou que, não obstante o reconhecimento pelo STF da repercussão geral do Recurso Extraordinário com Agravo (ARE) n. 901623, no qual se questiona a tipicidade da conduta por suposta ausência de regulamentação exigida no artigo 19 da Lei das Contravenções Penais, é certo que a Suprema Corte ainda não se pronunciou sobre o assunto, bem como não determinou a suspensão dos processos que tratam da matéria.
+
+5. Destaque-se que a alegação de falta de definição do que se caracterizaria arma branca, por parte do poder público, de modo a robustecer o pretenso ultraje ao princípio da legalidade, constitui-se em inovação recursal, não sendo deduzida a tempo e modo, restando preclusa, motivo pelo qual não a conheço.
+
+6. Logo, insubsistente a aventada omissão do acórdão concernente à violação ao princípio da legalidade e respectiva ausência de tipicidade.
+
+7. Objetiva a parte embargante, em verdade, a reanálise da matéria propriamente enfrentada no acórdão, o que lhe é defeso, pela via recursal eleita. De mais a mais, o que se exige nos julgamentos é a efetiva fundamentação, não havendo necessidade de manifestação do julgador sobre todas as teses jurídicas ou análise de todos os dispositivos. STF: tema 339 – AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes.
+
+8. EMBARGOS CONHECIDOS EM PARTE E REJEITADOS.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, ANTONIO FERNANDES DA LUZ - Relator, FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal e RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDOS EM PARTE. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 10 de Maio de 2024
+
+Juiz ANTONIO FERNANDES DA LUZRelator
+
+RELATÓRIO
+
+Relatório dispensado, na forma da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal Com o relatorA Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDOS EM PARTE. REJEITADOS. UNÂNIME.
