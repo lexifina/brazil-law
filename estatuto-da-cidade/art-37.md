@@ -3,7 +3,7 @@ I - adensamento populacional;
 II - equipamentos urbanos e comunitários;
 III - uso e ocupação do solo;
 IV - valorização imobiliária;
-V - geração de tráfego e demanda por transporte público;
+V - mobilidade urbana, geração de tráfego e demanda por transporte público;
 VI - ventilação e iluminação;
 VII - paisagem urbana e patrimônio natural e cultural.
 Parágrafo único. Dar-se-á publicidade aos documentos integrantes do EIV, que ficarão disponíveis para consulta, no órgão competente do Poder Público municipal, por qualquer interessado.
