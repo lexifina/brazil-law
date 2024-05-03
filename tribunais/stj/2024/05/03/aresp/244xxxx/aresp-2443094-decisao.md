@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão cuja ementa é a seguinte:
+1) DIREITO ADMINISTRATIVO SANCIONADOR. MULTA POR INFRAÇÃO AMBIENTAL. RESPONSABILIDADE ADMINISTRATIVA SUBJETIVA. FORNECEDOR DE EQUIPAMENTOS E COMBUSTÍVEIS. MAU ESTADO. VAZAMENTO DE HIDROCARBONETOS EM LENÇOL FREÁTICO. CULPA IN VIGILANDO E IN OMITTENDO.
+a) Cuida-se de apelação interposta contra sentença que rejeitou embargos à execução, mantendo multa aplicada pelo Órgão de Fiscalização Ambiental à Distribuidora de Combustíveis, por dano ambiental verificado em Posto de Revenda franqueado à época dos fatos.
+b) A Resolução n. 273/00 do CONAMA estabelece que o fornecedor dos combustíveis e proprietários dos equipamentos são solidariamente responsáveis pela adoção de medidas para controle da situação emergencial e para o saneamento das áreas impactadas.
+c) Na hipótese, houve dano ambiental grave, contaminação livre de lençol freático por hidrocarbonetos. Foi constatado o mau estado de conservação de bombas de abastecimento e tanques de armazenamento, todos com indícios de vazamento.
+d) Embora os contratos de sublocação e de franquia imputem ao posto de revenda a obrigação de manutenção dos aparelhos necessários à atividade, a referida norma de ordem pública, bem como a significativa fiscalização de prerrogativa da Sublocadora/Franqueadora, proprietária das bombas e tanques, evidenciam a culpa in vigilando.
+e) No caso, mesmo com ciência do dano ambiental previamente à lavratura do auto de infração, a Distribuidora argumentou, sem razão, disputas judiciais como conveniente escusa protelatória exposta ao IAT, com objetivo de elidir a adoção de medidas emergenciais às quais era solidariamente obrigada.
+f) É devida a redução do valor da multa quando a premissa para aplicação de um dos fatores multiplicadores não resta suficientemente comprovada. Dúvida que deve militar em favor do censurado.
+2) APELO AO QUAL SE DÁ PROVIMENTO, EM PARTE.
+Os Embargos de Declaração foram parcialmente acolhidos às fls. 1.696-1.705.
+A parte agravante, nas razões do Recurso Especial, aponta violação dos arts. 85, § 2º, 489, § 1º, I e IV, 1.022, parágrafo único, I a III, do CPC; 14, § 1º, da Lei 6.938/1981; e 70 da Lei 9.605/1998.
+Contrarrazões apresentadas às fls. 1.792-1.803.
+Houve juízo negativo de admissibilidade, o que deu ensejo à interposição do presente Agravo.
+O Ministério Público Federal emitiu parecer às fls. 1.845-1.852.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.4.2024.
+De início, observa-se que, em relação ao art. 85, § 2º, do CPC, a Vice-Presidência do Tribunal a quo negou seguimento ao Recurso Especial com fulcro no art. 1.030, I, "b", do CPC. Dessa forma, o recurso cabível contra essa decisão é o Agravo Interno para a própria Corte de origem, e não o AREsp. Não há notícia nos autos da sua interposição. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO. AGRAVO INTERNO NÃO PROVIDO.
+1. "A legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 29/3/2019).
+2. A jurisprudência deste e.STJ está no sentido de que o único recurso cabível para discutir equívocos acerca da aplicação do art. 543-B ou 543-C (art. 1.030, I, do CPC/2015) é o agravo interno a ser julgado pela Corte de origem, o qual foi interposto nos autos. Contra o agravo interno não há previsão legal sobre o cabimento de outro recurso ou de outro remédio processual (AgRg no AREsp 451.572/PR, Rel. Ministro Napoleão Nunes Maia Filho, DJe de 1º/4/2014).
+3. Considerando que a única tese trazida ao apelo nobre teve seguimento negado pelo Tribunal local, não é cabível recurso algum além do agravo interno na origem.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.397.201/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14.3.2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. GDASS. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 1.030, § 2º, do CPC/2015, não cabe agravo em Recurso Especial contra decisão que, na origem, nega seguimento a Recurso Especial, com fundamento no art. 1.030, inciso I, alínea b, do mesmo diploma legal.
+2. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. Agravo Interno conhecido e desprovido. (AgInt no AREsp 2.249.993/PE, Rel. Ministro Afrânio Vilela, Segunda Turma, DJe 6.3.2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGUIMENTO NEGADO NA ORIGEM COM FUNDAMENTO NO REGIME DOS RECURSOS REPETITIVOS (CPC/2015, ART. 1.030, I, "B"). NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA NÃO CONHECIDA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. A Corte Especial do STJ, ao apreciar a Questão de Ordem no Ag 1.154.599/SP (Rel. Ministro Cesar Asfor Rocha, DJe 12.5.2011), firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Dessa forma, qualquer contestação de tese embasada em Recurso Repetitivo, como no caso sub judice, deve ser alinhavada por meio da interposição de Agravo Interno na instância de origem, o que não ocorreu na espécie.
+2. Assim, em caso de inadmissibilidade do Recurso Especial que aplique o art. 543-C, § 7º, I, do CPC em relação um ponto e negue seguimento quanto aos demais, caberia à parte interpor, simultânea e respectivamente, Agravo Regimental e Agravo em Recuso Especial, devendo, após a apreciação do Agravo Regimental pelo Tribunal de origem, reiterar ou ratificar o Agravo em Recurso Especial.
+3. Por outro lado, quanto à inadmissão do Recurso Especial, saliento que os pontos que ensejaram a inadmissão do Apelo Nobre não foram adequadamente atacados no Agravo interposto, uma vez que a parte não combateu corretamente a incidência da Súmula 85 do STJ e deficiência de cotejo analítico. (fl. 216, e-STJ).
+4. É ônus da parte agravante demonstrar o desacerto da decisão agravada, e para isso não basta a impugnação genérica dos argumentos nela adotados. Ademais, cumpre destacar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988.
+5. A jurisprudência do Superior Tribunal de Justiça aplica a Súmula 182/STJ ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida na origem.
+6. A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Rel. p/acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+7. Ressalta-se que a impugnação tardia de fundamento utilizado para não admitir do Recurso Especial é incabível em Agravo Interno, uma vez preclusa a questão.
+8. Agravo Interno não provido. (AgInt no AREsp 2.352.518/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18.12.2023)
+Ademais, conclui-se que a parte interessada não impugnou especificamente todos os fundamentos da decisão que inadmitiu o REsp.
+Cumpre ressaltar que, na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que o recorrente impugna apenas parte da decisão recorrida, ainda que a fração impugnada seja capítulo autônomo em relação à não impugnada. Acrescentam-se a isso as disposições do art. 253, I, do RISTJ e do art. 932, III, do CPC, não se conhecendo de AREsp que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade.
+In casu, o TJPR alegou: (a) ausência de omissão, contradição ou erro material; (b) necessidade de exame de diploma infralegal; e (c) necessidade de exame do contexto fático-probatório (Súmula 7/STJ) (fls. 1.806-1.816).
+Examinando o Apelo de fls. 1.820-1.827, observa-se que a agravante deixou de atacar especificamente o segundo óbice. Deveria ter elucidado de forma efetiva, concreta e pormenorizada a razão de a eventual reforma do decisum atacado não implicar análise de norma infralegal.
+Descumpridos tais parâmetros, a impugnação é tida como genérica, atraindo a incidência da Súmula 182/STJ. Nessa senda:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de indenização por dano moral contra o Município de São José do Rio Preto e outro, objetivando o recebimento de 150 (cento e cinquenta) salários-mínimos, acrescidos de correção monetária e juros de mora. Na sentença o pedido foi julgado parcialmente procedente para condenar o Município de São José do Rio Preto ao pagamento de R$ 165.000,00 (cento e sessenta e cinco mil reais), (valor correspondente a cento e cinquenta salários-mínimos) a título de indenização por morais e acrescidos de juros desde o evento danoso (Súmula n. 54/STJ). No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 2.063.004/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 21.9.2022)
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
