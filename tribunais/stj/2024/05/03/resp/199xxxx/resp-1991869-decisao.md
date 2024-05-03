@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão assim ementado:
+AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO IRREGULAR EM ÁREA DE PRESERVAÇÃO PERMANENTE. SENTENÇA QUE CONDENOU O REQUERIDO À DEMOLIÇÃO DA EDIFICAÇÃO E RECUPERAÇÃO DA ÁREA DEGRADADA. CUMPRIMENTO DE SENTENÇA SUSPENSO HÁ QUASE 10 ANOS EM RAZÃO DO AJUIZAMENTO DE AÇÃO RESCISÓRIA. INVIABILIDADE DA FIXAÇÃO DE PRAZO PARA SUSPENSÃO, POIS O PROSSEGUIMENTO DO CUMPRIMENTO DE SENTENÇA ESVAZIARIA O OBJETO DA RESCISÓRIA. NECESSIDADE DE GARANTIR ISONOMIA E SEGURANÇA JURÍDICA. RECURSO DESPROVIDO.
+Embargos de Declaração rejeitados (fls. 97-102, e-STJ).
+O Ministério Público de Santa Catarina alega (fls. 114-130, e-STJ) que o acórdão violou os arts. 313, V, "a", § 4º, 4º e 1.022, II, do CPC.
+Contrarrazões às fls. 164-173, e-STJ.
+Parecer do Ministério Público Federal pelo provimento do Recurso.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.6.2022.
+A irresignação deve prosperar.
+O Tribunal de Justiça de Santa Catarina afirmou (fls. 54-55, e-STJ, grifei):
+In casu, o Ministério Público do Estado de Santa Catarina promoveu ação civil pública visando resguardar o direito fundamental ao meio ambiente saudável e equilibrado. O pedido foi julgado procedente e o cumprimento de sentença está suspenso há quase 10 anos, o que certamente não merece aplausos.
+A questão, todavia, é dotada de certas particularidades e merece ser analisada com cautela.
+Eventual prosseguimento do cumprimento de sentença antes de proferido o resultado da ação rescisória, acarretaria a demolição do imóvel e, consequentemente, esvaziaria completamente o objeto da outra ação.
+(..)
+Não obstante o grande lapso de tempo decorrido desde então - que, lamentavelmente, desrespeita o prazo previsto no CPC - tenho que os fatos ainda permanecem inalterados. O objeto ora apurado está integralmente condicionado ao resultado da rescisória.
+O recorrente opôs Embargos de Declaração, requerendo que fosse fixado o prazo de suspensão. Contudo, o Colegiado local rejeitou os Aclaratórios.
+Considerando que o recorrente alega ofensa ao art. 1.022 do CPC, a matéria está prequestionada, nos termos do art. 1.025 do CPC.
+O art. 969 do CPC dispõe que "a propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória". Não há notícia de que houve concessão de tutela de urgência na Ação Rescisória proposta pelos particulares. Em tais situações, o Superior Tribunal de Justiça admite a suspensão do cumprimento de sentença por prejudicialidade externa, desde que observado o prazo máximo de um ano previsto no § 4º do art. 313 do CPC.
+O dispositivo impede o sobrestamento do processo judicial por tempo indeterminado, como forma de concretizar a exigência de razoável duração do processo contida na Constituição Federal e prescrita no art. 139, II, do CPC. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. TRÂNSITO EM JULGADO DA DECISÃO IMPETRADA OCORRIDO APÓS A IMPETRAÇÃO. AÇÃO DE USUCAPIÃO. BEM ARREMATADO EM EXECUÇÃO TRABALHISTA. AÇÃO DE IMISSÃO NA POSSE DECORRENTE DA ARREMATAÇÃO DE MESMO IMÓVEL. SUSPENSÃO DO PROCESSO POR PRAZO INDETERMINADO. DESRESPEITO À LITERALIDADE DO ART. 265, § 5º DO CPC/1973. ILEGALIDADE DA DECISÃO. SEGURANÇA CONCEDIDA.
+(..) 4. Quanto à suspensão do processo nas hipóteses em que a sentença de mérito dependesse do julgamento de outra causa, o art. 265 do CPC/1973 preceituava, em seu § 5º, que, "nos casos enumerados nas letras a, b e c do n. IV, o período de suspensão nunca poderá exceder 1 (um) ano" e que, "findo este prazo, o juiz mandará prosseguir no processo".
+5. Sendo assim, é inviável qualquer interpretação do art. 265, § 5º, que desconsidere a incidência do prazo legal ânuo, notadamente pela inexistência, na redação do dispositivo, de qualquer exceção à regra de que o sobrestamento nunca excederá 1 (um) ano, em evidente prestígio à razoável duração do processo anunciada pela Constituição Federal.
+(..) 9. Embargos de declaração acolhidos com efeitos infringentes para conhecer do agravo e conceder a segurança.
+(EDcl no AgRg no MS n. 22.078/DF, Rel. Min. Herman Benjamin, Rel. para acórdão Min. Luis Felipe Salomão, Corte Especial, DJe de 11/6/2019)
+RECURSO ESPECIAL (art. 105, inc. III, "a" e "c", da CF/88) - AÇÃO DESCONSTITUTIVA (resolução de contrato de arrendamento rural) c/c REINTEGRAÇÃO DE POSSE E PEDIDO CONDENATÓRIO (indenização por danos patrimoniais e extrapatrimoniais) - PLEITOS JULGADOS PARCIALMENTE PROCEDENTES PELAS INSTÂNCIAS ORDINÁRIAS. IRRESIGNAÇÃO DO RÉU/ARRENDANTE. COISA JULGADA SUPERVENIENTE À INTERPOSIÇÃO DO RECURSO ESPECIAL - RESOLUÇÃO DO COMPROMISSO DE COMPRA E VENDA DE FRAÇÃO IDEAL DE IMÓVEL RURAL NO QUAL AMPARADO O DIREITO DO AUTOR DA DEMANDA SUBJACENTE A ESTE APELO NOBRE - PRESSUPOSTO LÓGICO-JURÍDICO PARA PROPOSITURA DA AÇÃO DESCONSTITUÍDO - RECONHECIMENTO DA ILEGITIMIDADE ATIVA AD CAUSAM.
+(..) 3. A suspensão deste feito por eventual prejudicialidade externa não é admissível, pois superado em muito o prazo de um ano previsto no § 4º do artigo 313 do NCPC (correspondente ao art. 265, § 5º, do CPC/73), haja vista ter sido este recurso especial distribuído a esta Corte Superior em 24 de fevereiro de 2011, não podendo aguardar indefinidamente o desfecho de outras demandas, notadamente porque, in casu, o processo encontra-se hábil a julgamento, a considerar a situação jurídica vigente.
+(..) 5. Recurso especial PROVIDO, a fim declarar a ilegitimidade ativa, e, em consequência, deixar de apreciar o mérito, nos termos do artigo 485, inciso VI, do Código de Processo Civil.
+(REsp n. 1.237.567/MT, Rel. Min. Marco Buzzi, Quarta Turma, DJe de 1º/4/2022)
+O prazo poderá ser prorrogado apenas em situações excepcionais, por decisão concretamente fundamentada. Isso não significa que é permitido ao juiz suspender o processo por tempo indeterminado, como fez a Corte a quo. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. OCORRÊNCIA. INAPLICABILIDADE DA SÚMULA 283/STF. AÇÃO ORDINÁRIA AJUIZADA PELA PARTE IMPETRANTE, ORA RECORRENTE. SUSPENSÃO DO PROCESSO. PREJUDICIALIDADE EXTERNA. EXISTÊNCIA. DESRESPEITO AO PRAZO MÁXIMO DE 1 (UM) ANO, SEM A NECESSÁRIA FUNDAMENTAÇÃO. ILEGALIDADE CONFIGURADA.
+(..) 5. O prazo máximo de 1 (um) ano para a suspensão do processo, previsto nos arts. 313, V, a, § 4º, e 315, § 2º, do CPC/2015, excepcionalmente pode ser prorrogado mediante decisão judicial devidamente fundamenta à luz das circunstâncias do caso concreto. Nesse sentido, mutatis mutandis: AgInt no AREsp 1.010.223/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 28/06/2017; REsp 1.374.371/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 10/03/2014.
+6. Sobre o tema, confira-se, ainda, a doutrina de ADROALDO FURTADO FABRÍCIO (in "Código de Processo Civil Anotado". Coord. José Rogério Cruz e Tucci et al. Rio de Janeiro: LMJ Mundo Jurídico, 2016, pp. 313-314) e de LUIZ RODRIGUES WAMBIER e EDUARDO TALAMINI (in "Curso Avançado de Processo Civil - Teoria Geral do Processo". Vol. 1. 16ª ed., reformulada e ampliada de acordo com o novo CPC. São Paulo: Ed. Revista dos Tribunais, 2016, p. 467).
+(..) 8. Recurso ordinário provido a fim de reformar o acórdão recorrido e conceder a segurança, para determinar ao Juízo de Direito da Vara da Fazenda Pública da Comarca de Sete Lagoas/MG que dê prosseguimento ao Processo nº 2617547-13.2007.8.13.0672, julgando-o como entender de direito. Custas ex lege. Sem condenação em honorários advocatícios de sucumbência, na forma da Súmula 105/STJ.
+(RMS n. 61.308/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 8/11/2019)
+Ante o exposto, dou provimento ao Recurso Especial, para fixar em um ano o prazo de suspensão do processo, contado a partir da publicação desta decisão.
+Publique-se. Intimem-se.
+EMENTA
