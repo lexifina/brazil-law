@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JORGE LUIS LOPES contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo (Apelação Criminal n. 0000619-96.2022.8.08.0021).
+Consta dos autos que o paciente foi condenado, pelo juízo singular, pela prática do crime de tráfico de drogas (artigo 33, caput, da Lei n. 11.343/20 06), às pena de 10 anos e 6 meses de reclusão, em regime prisional inicial fechado, e 1.000 dias-multa.
+Interposta apelação pela defesa, o Tribunal local proveu parcialmente o recurso para fixar ao paciente a pena de 7 anos, 10 meses e 15 d ias de reclusão, em regime prisional inicialmente fechado, 780 dias-multa.
+No presente writ, o impetrante alega que o paciente está sofrendo constrangimento ilegal, em razão da incidência da agravante de reincidência, a despeito de a pena anterior já ter sido extinta, conforme certidão juntada aos autos.
+Insurge-se, ainda, contra o afastamento do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Uma vez reduzida a pena, aponta que deve ser fixado o regime prisional inicialmente mais brando.
+Dessa forma, requer, liminarmente e no mérito, a concessão da ordem para que seja reduzida a pena aplicada, com o afastamento da reincidência, a aplicação do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006 e o estabelecimento de regime prisional inicialmente mais brando.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, no caso, a concessão da ordem para que seja reduzida a pena aplicada, com o afastamento da reincidência, a aplicação do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006 e o estabelecimento de regime prisional inicialmente mais brando.
+Quanto ao tema, deve-se ressaltar que, nos termos do art. 64, inciso I, do Código Penal, para efeito de reincidência: I - não prevalece a condenação anterior, se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido período de tempo superior a 5 (cinco) anos, computado o período de prova da suspensão ou do livramento condicional, se não ocorrer revogação.
+O cômputo do período depurador, portanto, inicia com a data do cumprimento ou extinção da pena, tema que sequer foi enfrentado pelo Tribunal local e não pode ser analisado por esta Corte, sob pena de supressão de instância.
+Ademais, tendo em vista a ausência de juntada, aos autos, pela defesa, de documentação de demonstre o efetivo decurso do período depurador, aplica-se ao caso, mutatis mutandis, o entendimento segundo o qual, havendo a Corte de origem firmado o seu entendimento, após a análise da documentação acostada aos autos, no sentido de que existiria anotação criminal idônea para a caracterização dos maus antecedentes, a reforma desse juízo de fato, nesta via estreita, dependeria da prova líquida do contrário, que não foi acostada ao habeas corpus (HC 535.030/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 17/10/2019, DJe 25/10/2019).
+Uma vez mantida a reincidência, é inviável a aplicação do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006, por expressa previsão legal.
+Por fim, igualmente mantida a pena aplicada, fica inviável a fixação de regime prisional inicialmente mais brando, tendo em vista os parâmetros do art. 33, §§ 2º e 3º, do Código Penal.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
