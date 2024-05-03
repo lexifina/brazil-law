@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de THIAGO BEZERRA AZEVEDO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em razão do acórdão proferido, em outubro de 2022, na Apelação n. 0106323-31.2017.8.19.0001 (fls. 643/671).
+O paciente possui condenação transitada em julgado à pena de 8 anos e 4 meses de reclusão, inicialmente, no regime fechado, pela prática do delito previsto no art. 157, § 2º, II, e 311, ambos do Código Penal, e mandado de prisão em aberto (fl. 1.039).
+Neste writ, aponta a defesa a existência de nulidade decorrente de ofensa ao disposto nos arts. 226 e 240 ao 245, todos do Código de Processo Penal, bem como a ausência de provas suficientes para a comprovação da autoria delitiva.
+Requer, em caráter liminar, o recolhimento do mandado de prisão expedido contra o paciente. No mérito, pede seja reconhecida a violação do art. 226 do CPP e consequentemente a ilicitude da prova consistente no reconhecimento de pessoas, resultando no desentranhamento e inutilização desta prova, nos termos do art. 157 e § 3º do CPP; em consequência da invalidade da prova, não restando outras provas que corroborem a imputação de crime em desfavor do paciente, requer a absolvição do paciente do crime de roubo (fl. 26); e absolvido do crime previsto no art. 311, caput, do Código Penal em razão da ausência de fundadas razões na busca pessoal e veicular (fl. 26).
+Estes autos foram a mim distribuídos por prevenção do AREsp n. 2.308.965/RJ.
+É o relatório.
+De plano, verifico que a presente impetração foi ajuizada após o trânsito em julgado da condenação, sendo, pois, substitutiva de pedido revisional e, portanto, incabível.
+Com efeito, nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre o assunto, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024, e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 5/10/2023.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofíc io e a consequente superação do óbice constatado, uma vez que é nítido o intento de suprimir instância. Pela rápida leitura do acórdão ora impugnado percebe-se que a questão tal como suscitada no writ não foi objeto de decisão específica na Corte estadual. Ali, não houve debate acerca das disposições dos arts. 226 e 240 e seguintes do Código de Processo Penal. E, para afastar as conclusões das instâncias ordinárias, soberanas na análise das provas da ação penal, seria indispensável a imersão vertical na moldura fática e probatória delineada nos autos, providência incabível na via estreita do habeas corpus.
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. ROUBO MAJORADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO, PELA BUSCA PESSOAL E FRAGILIDADE PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA. REEXAME FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA.
+Writ indeferido liminarmente.
