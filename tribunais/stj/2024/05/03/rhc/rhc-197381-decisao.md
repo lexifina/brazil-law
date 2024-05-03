@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar impetrado em favor de APARECIDO DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n 1.0000.24.169417-3/000).
+Depreende-se dos autos que o ora recorrente foi condenado a 13 anos de reclusão, no regime inicial fechado, por haver praticado o crime de homicídio qualificado (e-STJ fls. 52/71).
+No presente writ, sustenta a defesa, basicamente, que, "na ocasião em que o recorrente foi pronunciado não havia informações a respeito de sua localização, pois teria empreendido fuga da cadeia. Sendo assim, o Ministério Público utilizou- se da atualização do Código de Processo Penal, promovida pela Lei 11.689/2008, para fundamentar o pedido de intimação por edital, que foi, equivocadamente, acatado pelo juiz. Além disso, à época dos fatos, em razão de estar foragido, o recorrente não teve a oportunidade de pleitear sua própria defesa, isto é, de escolher quem seria o patrocinador de sua causa, o que evidencia o cerceamento da defesa e a violação do contraditório no processo" (e-STJ fls. 556/557).
+Diante dessas considerações, pede "seja conhecido e provido o presente Recurso Ordinário Constitucional, para que, no mérito do writ, seja concedida LIMINAR PARA EXPEDICAO DE ALVARÁ DE SOLTURA, ou subsidiariamente, MEDIDA CAUTELAR DIVERSA DA PRISÃO. Por fim, seja reconhecida a nulidade da intimação, para que seja comprovado ferimento ao princípio da observância do devido processo legal e seja, enfim, anulado o julgamento" (e-STJ fl. 571).
+É o relatório.
+Decido.
+O recurso não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, e recurso correlato , visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+No caso, a condenação do recorrente transitou em julgado em junho de 2014 (e-STJ fl. 535), de maneira que não se deve conhecer do recurso que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do recurso, liminarmente.
+Publique-se. Intimem-se.
+EMENTA
