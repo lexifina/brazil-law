@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 939/961) apresentados contra decisão sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. EFICÁCIA VINCULATIVA DO ACÓRDÃO PROFERIDO NO RESP 1.340.553/RS QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+A embargante sustenta, em suma, a decisão embargada padece do vício da erro, omissão e obscuridade, sob o argumento da não apreciação pela r. decisão ora atacada e pelo v. acordão recorrido sobre as nulidades dos atos administrativos praticados pelo embargado que no curso da presente ação de execução a fim de receber os débitos de IPVAS já ajuizados apreendeu o veículo da embargante e vendeu em leilão sem a de vida autorização judicial e comunicação ao juízo de origem que não se manifestou sobre as referidas nulidades apontadas pela embargante" (fls. 939-961).
+Suscita ainda que "a Exceção de Pré-executivadade não comporta dilação probatória, fundamentação que não pode prosperar, tendo a parte agravante comprovou de plano com apenas dois documentos que no curso do processo de execução, sem autorização do referido juízo, aprendeu eleiloou o carro da embargante para pagamentos dos títulos executivos já ajuizados, falta de liquidez dos títulos executivos estavam quitados, demonstrando ainda que a Decisão do MM. Juízo de Origem, reconheceu a prescrição intercorrente dos títulos executivos dos anos de 2011, 2012, 2013, e2014 ajuizados, com a exceção do título de 2015" (fl. 949).
+Requer sejam acolhidos os embargos.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Não obstante os argumentos da embargante, constou expressamente da decisão embargada que:
+O acórdão do Tribunal de origem, com análise das provas documentais constantes dos autos, reconheceu a ausência da verificação da prescrição intercorrente, entendeu que (fls. 181 - 192 e-STJ): Por fim, no que atine à alegação de que o débito em questão já foi quitado por conta de leilão do veículo promovido pelo exequente, concessa venia, não se vislumbra nos autos que a referida quitação tenha ocorrido com relação à presente execução. Mesmo porque o próprio exequente sustenta que não há comprovação acerca de tal quitação, com referência ao débito da presente execução fiscal. Para tanto, seria necessária maior dilação probatória, tornando inadequada a via eleita da exceção de pré-executividade.
+ ..
+No que concerne à alegação de que o débito objeto da execução já fora quitado com o valor arrecadado no leilão do veículo, sendo certo que o próprio Estado não reconhece tal quitação, é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+ ..
+Além disso, considerando que o entendimento do Tribunal de origem está em consonância com a orientação desta Corte, não se justifica a reforma do acórdão recorrido. No mais, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado, acerca da prescrição intercorrente, é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Desse modo, não há vício na decisão ora embargada, de modo que a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC.
+Nesse sentido: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
