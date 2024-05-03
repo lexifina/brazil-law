@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 1.022 do CPC/2015 e incidência das Súmulas 5 e 7 do STJ e 283 e 284 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 930/931e):
+DIREITO ADMINISTRATIVO SANCIONADOR. CONCESSIONÁRIA DE ENERGIA ELÉTRICA QUE CONSTITUI O OPERA EMPRESAS SUBSIDIÁRIAS COM OBJETO DISSOCIADO DA ATIVIDADE CONCEDIDA. VEDAÇÃO CONTRATUAL. INFRAÇÃO PERMANENTE. AUTUAÇÃO. PRESCRIÇÃO ADMINISTRATIVA. INOCORRÊNCIA.
+1. Na sentença, fl. 554, foi denegada a segurança. Entendeu a juíza que "a multa está devidamente prevista em lei e nas cláusulas do contrato de concessão, que prevê as penalidades contratuais e administrativas e a sua forma de aplicação".
+2. A Quinta Subcláusula da Cláusula Primeira do Contrato de Concessão estabelece que "a concessionária tem por objeto social a exploração de serviços públicos de energia elétrica, sendo-lhe vedadas quaisquer outras atividades de natureza empresarial, salvo aquelas que estiverem associadas a este objeto, desde que aprovadas pelo Poder Concedente e que sejam contabilizadas em separado".
+3. A infração não é, pois, ter constituído as empresas sem aprovação do Poder Concedente. É exercer "outras atividades de natureza empresarial", dissociadas do objeto da concessão.
+4. É interessante notar que "foi determinado à Concessionária que proceda ao desfazimento das operações mencionadas na Constatação acima", mas não foi fixado prazo para tal desconstituição. Assim, tem-se a aplicação de multa por infração sem a imediata interrupção dessa mesma infração.
+5. Abstraída essa falta de razoabilidade, não há como negar que se trata de infração contratual permanente e que, portanto, não ocorreu prescrição (único fundamento da impetração do mandado de segurança).
+6. Negado provimento à apelação.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 1.022, I e II, do CPC/2015, ao argumento de que a Corte local falhou ao não discutir adequadamente a natureza da infração alegada pela administração, que foi categorizada erroneamente como permanente, sem considerar as especificidades da infração apontadas nos atos administrativos que a originaram.
+Quanto às questões de fundo, sustenta que o Tribunal local alterou de ofício a natureza da infração contratual cometida pela recorrente, resultando no entendimento combatido neste apelo nobre. Assim, aponta ofensa do artigo 1º da Lei 9.873/99, que estabelece o prazo prescricional de cinco anos para a administração pública exercer sua pretensão punitiva, sob o argumento de que a ação punitiva iniciada pela recorrida em 2004, para fatos ocorridos em 1997, estaria fulminada pela prescrição.
+Aduz que o entendimento do acórdão recorrido, ao considerar a infração como permanente, ofende o princípio da segurança jurídica, garantido pelo artigo 2º, caput, da Lei 9.784/99, pois tal interpretação estenderia indefinidamente a capacidade punitiva da administração.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Quanto à tese de que a Corte de origem alterou a qualificação da infração cometida pela recorrente, passando a considerá-la como permanente, observo que o dispositivo indicado como malferido, artigo 2º, caput, da Lei 9.784/99, não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Além disso, o recorrente apresentou argumentos genéricos e vagos a respeito da suposta ofensa ao dispositivo, o que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+Com relação à prescrição da pretensão punitiva da administração pública, observa-se que o Tribunal local afastou a tese ao reconhecer que a infração era de natureza permanente, uma vez que as subsidiárias criadas pela empresa recorrente continuaram a operar de forma dissociada do objeto da concessão, o que constitui uma violação contratual contínua.
+A esse respeito, confira-se (fls. 929/930e):
+A Quinta Subcláusula da Cláusula Primeira do Contrato de Concessão estabelece que "a concessionária tem por objeto social a exploração de serviços públicos de energia elétrica, sendo-lhe vedadas quaisquer outras atividades de natureza empresarial, salvo aquelas que estiverem associadas a este objeto, desde que aprovadas pelo Poder Concedente e que sejam contabilizadas em separado".
+A infração não é, pois, ter constituído as empresas sem aprovação do Poder Concedente. É exercer "outras atividades de natureza empresarial", dissociadas do objeto da concessão.
+Abstraída essa falta de razoabilidade, não há como negar que se trata de infração contratual permanente.
+Nesse contexto, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, bem como de cláusulas contratuais, o que é vedado no âmbito do recurso especial. Incide ao caso as Súmulas 5 e 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Inverto os ônus sucumbenciais.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONCESSÃO DE SERVIÇO PÚBLICO. INFRAÇÃO CONTRATUAL. QUALIFICAÇÃO JURÍDICA. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. PRESCRIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
