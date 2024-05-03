@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual a UNIÃO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 543/544):
+ADMINISTRATIVO. REVISÃO DE APOSENTADORIA EXCEPCIONAL DE ANISTIADO. CRITÉRIO DE REAJUSTE. TRABALHADORES NA ATIVA. APLICAÇÃO DA LEI 10.522/02. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE.
+1. Trata-se de pedido de revisão de aposentadoria de anistiado político, baseado no emprego em que o falecido marido da autora teria na Petrobrás. se em serviço ativo estivesse, requerendo a autora os efeitos retroativos da decisão a 31/08/88, data em que a autora obteve, inicialmente. a pensão excepcional de anistiado político paga então pelo INSS.
+2. A aposentadoria excepcional de anistiado prevista no artigo 8º do ADCT. era paga nos termos do artigo 150 do texto original da Lei n. 8213/1991.
+3. Com o intuito de disciplinar o artigo 8º do ADCT. vieram à baila as Medidas Provisórias nºs 2.151/2002 e 65/2002, esta última convertida na Lei nº 10.559/2002, que em seu artigo 1º declara quais os direitos do Regime de Anistiado Político. O artigo 6º do referido Diploma Legal trata do valor da prestação mensal continuada.
+4. A autora tem direito ao pagamento da prestação mensal continuada e caso não esteia recebendo o valor atualizado, nos termos dos artigos 6º a 9º da Lei nº 10.522/2002 tem direito a pedir sua revisão, nos termos do parágrafo único, do artigo II. do mesmo Diploma Legal.
+5. O reajuste da aposentadoria do anistiado somente passou a ser feito nas mesmas bases dos trabalhadores ativos da sua categoria profissional a partir da edição da Medida Provisória 2.151/2001, nos termos dos artigos 7º, 8ºe 9º (atualmente art. 6º, 7º e 8º da Lei nº 10.559 /2012).
+6. Isso porque a aposentadoria de anistiado político concedida na forma do art. 80 do ADCT e do art. 150 da Lei nº 8.213/91, se submetia aos mesmos critérios de reajustes dos benefícios previdenciários até a entrada em vigor da Medida Provisória 2.151/2001. Precedentes.
+7. Desse modo, a autora faz jus à revisão da prestação continuada de anistiado político, nos termos da Lei nº 10.522/2002, sendo indevida, no entanto, a sua retroação desde o advento da Constituição Federal.
+8. Remessa necessária e apelação improvidas. Sentença mantida.
+Nas razões de seu recurso especial, a parte ora agravante sustenta violação dos arts. 6º, § 1º, 10, 11 e 12 da Lei 10.559/2002. Argumenta, para tanto, que "a Comissão de Anistia, no desempenho de sua competência legal, houve por bem arbitrar a remuneração mensal, permanente e continuada, ora debatida, "com base em pesquisa de mercado", tal como expressamente previsto na parte final do §1º, do art. 6, da Lei 10.559/02" (fl. 587).
+A parte ora agravada apresentou as contrarrazões (fls. 698/712).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Verifico que os arts. 10, 11 e 12 da Lei 10.559/2002 não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Quanto ao art. 6º, § 1º, da Lei 10.559/2002, observo que a parte agravante aponta a sua ofensa de forma genérica, não se desincumbindo de demonstrar, efetivamente, como se dá a vulneração.
+Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não é possível conhecer do recurso especial. Incide no presente caso, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compree nsão da controvérsia".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEFICIENTE FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO 284/STF. DECISÃO FUNDADA EM LEGISLAÇÃO INFRALEGAL. INCIDÊNCIA DO ENUNCIADO 280/STF. REVISÃO DO JULGADO. IMPOSSIBILIADE. INCIDÊNCIA DO ENUNCIADO 7/STJ.
+1. Não cabe violação aos arts. 489 e 1.022, do CPC/2015, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+2. Conforme a jurisprudência desta Corte, quando a arguição de ofensa ao dispositivo de Lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento do Enunciado 284, do Supremo Tribunal Federal.
+ ..
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt no AREsp n. 2.211.102/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. AMBIENTAL. ÁREA DE PRESERVAÇÃO PERMANENTE. VIOLAÇÃO AOS ARTS. 489, § 1º, 1.022, II, PARÁGRAFO ÚNICO, II, E 1.013, § 2º, DO CPC E ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. LICITUDE DA CONSTRUÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. HIPÓTESES DE ÁREAS CONSOLIDADAS PREVISTAS NO CÓDIGO FLORESTA NÃO CONTEMPLAM A MANUTENÇÃO DE CASAS DE VERANEIO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM ORIENTAÇÃO PACÍFICA DESTA CORTE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência deste Tribunal Superior considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido. (AgInt no REsp n. 2.004.665/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se .
+EMENTA
