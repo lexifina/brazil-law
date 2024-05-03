@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto contra acórdão assim ementado:
+AMBIENTAL. AÇÃO CIVIL PÚBLICA. EDIFICAÇÃO NO BALNEÁRIO DA GALHETA. DEMOLIÇÃO. MUNICÍPIO. LEGITIMIDADE. REPARAÇÃO DOS DANOS. LIMITAÇÃO AO PEDIDO.
+Mantida a sentença que, em ação civil pública, determinou a demolição de edificação presente no Balneário da Galheta, bem como, além da remoção dos entulhos, a recuperação total do dano ambiental.
+Responsabilidade do ente municipal evidenciada em razão dos alvarás expedidos com fundamento e lei local autorizando as construções nas áreas, bem como pelo fato de, ao invés de fiscalizar, ter anuído com a situação.
+Indeferido o pedido de condenação à obrigação de pagar quantia em razão do dano, eis que o pedido inicial é no sentido da reparação "na impossibilidade de haver a completa reparação dos danos ambientais", situação não verificada no caso.
+Embargos de Declaração não conhecidos (fls. 2.531-2.534, e-STJ).
+No Recurso Especial (fls. 2.544-2.590, e-STJ), alega-se ofensa aos arts. 489, § 1º, 1.022, II, parágrafo único, II, e 1.013, § 2º, do CPC; 6º do Decreto-Lei 4.657/1942; 3º, XVI, 4º, VI, e 6º da Lei 12.651/2012; 7º, II, 14, I, e 15 da Lei 9.985/2000; 14, I e II, 30, II, 32, 33 e 109, V, da Lei 13.465/2017; 18 da Lei 7.347/1985; 177 do Código Civil de 1916; 1º do Decreto 20.910/1932; e 21 da Lei 4.717/1965.
+Contrarrazões às fls. 2.657-2.766 e 2.940-2.962, e-STJ.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo de fls. 3.017-3.039, e-STJ.
+Parecer do Ministério Público Federal pelo conhecimento do Agravo para conhecer parcialmente do Recurso Especial e dar-lhe parcial provimento, apenas para afastar a condenação do recorrente no pagamento de honorários advocatícios.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.6.2022.
+De início, o agravante aponta violação aos arts. 489, § 1º, 1.022, II, parágrafo único, II, e 1.013, § 2º, do CPC. Afirma que a fundamentação do acórdão foi genérica e, em seguida, passa a discorrer sobre o mérito da demanda, insistindo na tese de que a área em que a edificação foi construída não é Área de Preservação Permanente, que não há danos ambientais a serem reparados, que é possível a regularização fundiária do imóvel e que as conclusões do perito judicial são incorretas.
+No ponto, o Recurso não pode ser admitido ante a deficiência de sua argumentação. A parte recorrente não logrou êxito em demonstrar, objetivamente, os alegados vícios do acórdão combatido, individualizando a obscuridade, a contradição ou a omissão, bem como sua relevância para a solução da controvérsia apresentada nos autos. Tal circunstância atrai a incidência da Súmula 284/STF.
+Além disso, os Embargos de Declaração opostos pelo particular não foram conhecidos, por serem intempestivos. Não houve impugnação específica desse fundamento. Aplica-se a Súmula 283/STF.
+Outrossim, a jurisprudência desta Corte Superior é pacífica no sentido de que não há vício no uso da técnica da motivação per relationem, o que atrai a incidência da Sumula 83/STJ. A propósito:
+ADMINISTRATIVO. SISTEMA SOCIOEDUCATIVO - SINASE. APURAÇÃO DE IRREGULARIDADES EM CENTRO DE ATENDIMENTO DE SEMILIBERDADE. VALIDADE DA FUNDAMENTAÇÃO PER RELATIONEM. ANÁLISE DAS IRREGULARIDADES MOTIVADORAS DO AJUIZAMENTO DA AÇÃO. ÓBICE DA SÚMULA N. 7/STJ. SUPOSTA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA EXCLUSIVA DO SUPREMO TRIBUNAL FEDERAL. CONTRARIEDADE À RESOLUÇÃO. ÓBICE DA SÚMULA N. 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICES DAS SÚMULAS N. 282 E 356/STF. INEXISTÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NA ORIGEM. IMPOSSIBILIDADE DE PREQUESTIONAMENTO FICTO.
+(..) III - O Superior Tribunal de Justiça e o Supremo Tribunal Federal admitem a motivação per relationem, pela qual se utiliza a transcrição de trechos dos fundamentos já utilizados no âmbito do processo, o que não se caracteriza como ausência de fundamentação, não caracterizada, assim, a alegada violação dos arts. 489 e 1.013 do CPC/2015.
+(..) VIII - Agravo conhecido para conhecer parcialmente do recurso especial e, nesta parte, negar-lhe provimento.
+(AREsp 1.540.871/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 25.6.2021)
+Em seguida, a parte defende que o local apenas passou a ser considerado Área de Preservação Permanente com a Medida Provisória 21.166-67/2001, que deu nova redação ao art. 4º da Lei 4.771/1965. Procura diferenciar, ainda, os conceitos geológico e biológico de restinga.
+A alegação não combate de forma específica o fundamento segundo o qual a construção foi feita em área de restinga, considerada non aedificandi na redação original da Lei 4.771/1965, e sobre dunas, protegidas desde 1934 (fls. 2.091-2.096, e-STJ):
+A intenção do legislador de proteger as dunas já era demonstrada no Código Florestal instituído pelo Decreto nº 23.793/34, que em seu art. 4º, c,considerava como "florestas protectoras", de conservação perene (art. 8º), as que serviam para fixar dunas.
+Por sua vez, assim dispunha a Lei nº 4.771/65:
+Art. 2º Consideram-se de preservação permanente, pelo só efeito desta Lei, as florestas e demais formas de vegetação natural situadas:
+ ..
+f) nas restingas, como fixadoras de dunas ou estabilizadoras de mangues;
+ ..
+Art. 3º Consideram-se, ainda, de preservação permanentes, quando assim declaradas por ato do Poder Público, as florestas e demais formas de vegetação natural destinadas:
+ ..
+b) a fixar as dunas;
+(..)
+Portanto, dunas fixas ou móveis, cobertas ou não por vegetação de restinga, como elementos do ecossistema litorâneo, constituem áreas de preservação permanente, recebendo proteção legal desde o Código Florestal de 1934.
+Ainda que ultrapassado o óbice ao conhecimento, é certo que o Decreto 23.793/1934 e a Lei 4.771/1965, em sua redação original, já conferiam proteção às dunas e à respectiva vegetação fixadora. Não há que se falar, portanto, em afronta à irretroatividade da Lei.
+Diante da caracterização do local como Área de Preservação Permanente, é irrelevante o argumento de que a APA Baleia Franca, por se tratar de Unidade de Conservação de Uso Sustentável, admitiria ocupação humana.
+O recorrente sustenta, ainda, que o imóvel está sujeito à regularização fundiária pela Reurb-E. Contudo, o Tribunal a quo assim se manifestou (fls. 2.114-2.119, e-STJ):
+Todavia, não se trata de área urbanizada, ainda que apresente alguns equipamentos de infraestrutura urbana implantados. Os serviços públicos prestados no local resumem-se ao fornecimento de energia elétrica e à iluminação pública, já que não há fornecimento de água, tampouco coleta e tratamento de esgotos ou de lixo.
+(..)
+Observa-se que o Balneário Galheta está totalmente inserido em ambiente de restinga geomorfológica e é cercado por dunas e banhados, por onde se dá o acesso às edificações, a maioria no ambiente de dunas internas e sem aterramento, demonstrando que não houve total descaracterização da paisagem natural em razão das ocupações irregulares, sendo encontradas espécies nativas da fauna - algumas ameaçadas de extinção - e flora, além de vegetação exótica trazida pela ocupação humana.
+A manutenção das características naturais do entorno das edificações pode ser atribuída à sazonalidade da ocupação, já que a grande maioria das cento e cinquenta e quatro edificações identificadas durante os estudos periciais, assim como a da parte ré, são de uso residencial sazonal, servindo apenas como casas de veraneio.
+(..)
+Por certo, se foram autorizadas ocupações de terreno de marinha em APP ou foram concedidos pareceres favoráveis à manutenção de edificações sobre dunas, tais fatos se deram ao arrepio da lei e não permitem a continuidade da degradação ambiental, principalmente pelo fato de não se tratar de ocupação urbana consolidada. O Balneário Galheta ainda guarda muitas de suas características naturais, como já referido, que podem desaparecer caso as edificações sejam mantidas e novas sejam construídas.
+Para desconstituir tais conclusões, inclusive sob o manto da proporcionalidade, seria indispensável o revolvimento de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+A tese de que o Poder Judiciário teria invadido a competência do Município e, portanto, violado o princípio da separação dos Poderes não foi prequestionada, atraindo a aplicação da Súmula 211/STJ. Além disso, para acolhê-la, seria indispensável o exame de argumentos constitucionais e avaliar o invocado Decreto Municipal 5.062/2018, que não se insere no conceito de lei federal. Aplica-se a Súmula 280/STF.
+A prescrição também deve ser afastada, por ser entendimento pacífico nesta Corte Superior que que a pretensão de reparação civil de dano ambiental é imprescritível. Aplica-se a Súmula 83/STJ.
+AMBIENTAL. AÇÃO CIVIL PÚBLICA. REGULARIZAÇÃO DO DANO DECORRENTE DA INEXISTÊNCIA DE SISTEMA ADEQUADO DE TRATAMENTO DE ESGOTO. IMPRESCRITIBILIDADE DO DANO AMBIENTAL. LEGITIMIDADE DA COHAB PARA RESPONDER PELO DANO CAUSADO POR LOTEAMENTO PROMOVIDO POR ELA. RECURSO ESPECIAL NÃO PROVIDO. IDENTIFICAÇÃO DA CONTROVÉRSIA
+(..) 3. Esse também é o entendimento consolidado no âmbito do Supremo Tribunal Federal, que no julgamento do Tema 999 de Repercussão Geral, fixou a seguinte tese: "É imprescritível a pretensão de reparação civil de dano ambiental" (RE 654.833/AC, relator Ministro Alexandre de Moraes, j. 20.4.2020).
+(..) 7. Recurso Especial não provido.
+(REsp 1.321.992/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 17.12.2021)
+ADMINISTRATIVO. AMBIENTAL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TERMO DE AJUSTAMENTO DE CONDUTA. DESCUMPRIMENTO. EXECUÇÃO. CARACTERIZAÇÃO. OBRIGAÇÃO. REPARAÇÃO. DANO AMBIENTAL. IMPRESCRITIBILIDADE. IMPOSSIBILIDADE. REVISÃO. ACERVO PROBATÓRIO. SÚMULA 07/STJ. INVIABILIDADE. INTERPRETAÇÃO. CLÁUSULA CONTRATUAL. SÚMULA 05/STJ.
+1. É imprescritível a pretensão reparatória de danos ambientais, na esteira de reiterada jurisprudência deste Superior Tribunal de Justiça, a qual não se aplica ao caso concreto, no entanto, porque a obrigação transcrita em termo de ajustamento de conduta não está configurada dessa forma, segundo o texto do acórdão impugnado.
+(..) 3. Agravo regimental não provido. (AgRg no REsp 1.466.096/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30.3.2015)
+No entanto, o recorrente tem razão quando pede que seja afastada a condenação ao pagamento de honorários advocatícios sucumbenciais.
+A jurisprudência dominante nesta Corte orienta-se no sentido de que, nos termos do art. 18 da Lei 7.347/1985, não há condenação em honorários advocatícios na Ação Civil Pública, salvo em caso de comprovada má-fé. Cito precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O ALUDIDO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AÇÃO CIVIL PÚBLICA. ART. 18 DA LEI 7.347/85. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. AUSÊNCIA DE MÁ-FÉ. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+(..) II. Na origem, trata-se de Ação ajuizada pela parte ora recorrente, na
+qualidade de substituto processual, com o objetivo de obter o reajuste de proventos de aposentadoria de seus substituídos.
+(..) IV. A jurisprudência dominante nesta Corte orienta-se no sentido de que, nos termos do art. 18 da Lei 7.347/85, não há condenação em honorários advocatícios na Ação Civil Pública, salvo em caso de comprovada má-fé. Referido entendimento deve ser aplicado tanto para o autor - Ministério Público, entes públicos e demais legitimados para a propositura da Ação Civil Pública -, quanto para o réu, em obediência ao princípio da simetria. Nesse sentido: STJ, EAREsp 962.250/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe de 21/08/2018; AgInt nos EDcl no AgInt nos EDcl no AREsp 317.587/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 01/04/2019; AgInt no AREsp 1.329.807/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 15/03/2019; EDcl nos EDcl no AgInt no REsp 1.736.894/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 01/03/2019.
+(..) VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no REsp 1.367.400/PR, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 18.12.2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. SERVIDORES PÚBLICOS. GRATIFICAÇÃO DE DESEMPENHO. INCORPORAÇÃO. INVIABILIDADE DE CONDENAÇÃO DO RÉU EM AÇÃO CIVIL PÚBLICA AO PAGAMENTO DE HONORÁRIOS, SALVO COMPROVADA MÁ-FÉ. APLICAÇÃO DO PRINCÍPIO DA SIMETRIA, CONFORME O ENTENDIMENTO DESTA CORTE SUPERIOR. AGRAVO INTERNO DO SINDICATO A QUE SE NEGA PROVIMENTO.
+1 A isenção do pagamento da verba sucumbencial deve ser interpretada também em favor do requerido em Ação Civil Pública, em razão da simetria, salvo comprovada má-fé (AgInt no REsp. 1.736.894/ES, Rel. Min. MAURO CAMPBELL MARQUES, DJe 10.9.2018; AgRg no AREsp. 272.107/RJ, Rel. Min. BENEDITO GONÇALVES, DJe 10.8.2018; EREsp. 1.319.232/DF, Rel. Min. NANCY ANDRIGHI, DJe 30.10.2019).
+2 Agravo Interno do Sindicato a que se nega provimento. (AgInt no REsp 1.836.435/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 19.11.2020)
+Por todo o exposto, conheço do Agravo para conhecer do Recurso Especial, apenas quanto à alegada violação do art. 18 da Lei 7.347/1985, e, nessa extensão, dou-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
