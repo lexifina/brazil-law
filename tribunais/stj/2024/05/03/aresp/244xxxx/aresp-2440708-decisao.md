@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO AMAZONAS contra decisão do Tribunal de Justiça do Estado do Amazonas, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 316/317):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. COBRANÇA DE ICMS E DISFAL-ICMS. TRANSFERÊNCIA DE BENS E MERCADORIAS ENTRE ESTABELECIMENTOS DE MESMA PROPRIEDADE. PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO DE PRIMEIRO GRAU. MANDADO DE SEGURANÇA IMPETRADO PARA OBSTAR ATO DE ATRIBUIÇÃO DO SECRETÁRIO EXECUTIVO DA RECEITA. AUSÊNCIA DE HIPÓTESE DE COMPETÊNCIA ORIGINÁRIA DO TRIBUNAL DE JUSTIÇA. SENTENÇA PROFERIDA POR AUTORIDADE COMPETENTE. SUPOSTA INADEQUAÇÃO DA VIA ELEITA. TESE REFUTADA. MANDAMUS PREVENTIVO. NORMA DE EFEITOS CONCRETOS. AUSÊNCIA DE FATO GERADOR DO TRIBUTO. SÚMULA 166 DO STJ E TEMA Nº 1.099 DO STF. CONCESSÃO DE ORDEM PARA IMPEDIR COBRANÇAS INDEVIDAS. DECLARAÇÃO DO DIREITO DE COMPENSAÇÃO. POSSIBILIDADE. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+1. Refuta-se a preliminar de incompetência do Juízo de Primeira Instância, tendo em vista que o polo passivo da ação mandamental é composto pelo Secretário Executivo da Receita, cujas funções e status não se confundem com o de Secretário de Estado da Fazenda. Logo, não há falar em competência originária do Tribunal de Justiça (art. 50, da Lei Complementar nº 17/97).
+2. Levando-se em conta que a norma tributária estadual possui o condão de produzir efeitos concretos sobre a órbita patrimonial dos contribuintes, é legítima a impetração de mandado de segurança com o propósito de impedir a cobrança considerada indevida, afastando-se, na hipótese, a aplicação da súmula 266, do STF.
+4. À luz da Súmula 166 do STJ e da tese firmada pelo Supremo Tribunal Federal (Tema 1.099) correto o posicionamento adotado na sentença de Primeiro Grau, que garantiu à Impetrante/Apelada o direito de não receber cobranças indevidas de ICMS e DISFAL-ICMS em relação às operações que envolvem mera transferência de bens e mercadoria entre seus estabelecimentos e filiais, que integram a mesma pessoa jurídica.
+5. Além disso, adequada a declaração ao direito à compensação tributária, com observância ao prazo prescricional de cinco anos, pois também é pacificada na jurisprudencial esta possibilidade, conforme Súmula 213 do STJ e Tema nº 118, sendo que a exigência de comprovação dos pagamentos indevidos ocorrerá a posteriori, na seara administrativa.
+6. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 375/381).
+No recurso especial (e-STJ fls. 387/396), o recorrente alega violação do art. 1.022, I, do CPC/2015. Aponta contradição do acórdão recorrido sustentando que, "se o órgão julgador a quo reconhece que eventual operação de revenda não está contemplada na ação, e tais operações de revenda são cobradas por antecipação (com ou sem substituição tributária), a apelação deveria ter sido parcialmente provida (e não improvida como foi) para retirar da sentença o comprometimento a exigibilidade do ICMS antecipado ou substituição tributária cobrado em razão da remessa de bens entre estabelecimentos da mesma pessoa jurídica destinados à revenda" (e-STJ fl. 396).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo em razão da ausência de omissão e da incidência da Súmula 7 do STJ (e-STJ fls. 410/411).
+No agravo em recurso especial (e-STJ fls. 416/427), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+O recorrente aponta violação do art. 1.022, I, do CPC/2015, ao argumento de contradição relacionada à conclusão do acórdão recorrido quanto às operações de revenda.
+Sobre essa questão, o Tribunal de origem consignou no julgamento dos embargos de declaração (e-STJ fls. 375/381):
+Por oportuno, transcrevo excerto do v. acórdão (fls. 332-333) que analisou especificamente a questão posta em debate:
+" ..
+O Estado também alega a necessidade de aplicação do distinguishing nas hipóteses de recebimento de mercadorias para revenda. Justifica, em suma, que nessas situações o fato gerador é a futura operação de comercialização e não a transferência entre estabelecimentos. Explica, ainda, que trata-se apenas de recolhimento antecipado, que é permitido pela legislação como estratégia de melhor fiscalização.
+Entretanto, não há como acolher as razões expostas, na medida em que a tese firmada no julgamento do leading case alcança, sem distinção, toda e qualquer transferência de mercadorias entre filiais. O voto do relator do RE nº 1255885-STF corrobora esta conclusão, motivo porque transcrevo:
+ ..
+Outrossim, a própria Apelada em sede de contrarrazões destaca que apenas as transferências entre estabelecimentos da mesma pessoa jurídica, nas quais inexiste circulação de mercadoria com a transferência de sua titularidade são questionadas no presente writ. Isso significa dizer que eventual revenda realizada em momento posterior, evidentemente, não está contemplada na presente ação.
+ .. "
+Como se vê, a premissa alcançada pelo Colegiado foi objetiva e clara, compreendendo que, por não estarem contempladas na presente ação eventuais revendas posteriores, descaberia imiscuir-se nesse debate, homenageando-se o principio da adstrição (art. 492, CPC).
+Portanto, evidente a intenção do Embargante em questionar matéria referente ao mérito do decisório, sendo que é inviável a utilização dos Embargos de Declaração, sob a alegação de pretensa contradição quando o que se almeja é, em verdade, reapreciar o julgado, objetivando a alteração do conteúdo meritório da decisão embargada. Nesse sentido, destaco:  ..
+No ponto, verifica-se que o Tribunal esclareceu que, "por não estarem contempladas na presente ação eventuais revendas posteriores, descaberia imiscuir-se nesse debate, homenageando-se o principio da adstrição (art. 492, CPC)" (e-STJ fl. 380).
+Importa ressaltar que a contradição que efetivamente autoriza o manejo dos declaratórios é vício intrínseco ou interno do julgado, que se caracteriza pela existência de fundamentos antagônicos entre as razões de decidir, ou entre estes e o dispositivo, relatório ou ementa, capaz de gerar dúvida a respeito do que foi realmente apreciado pelo julgador, o que não é o caso dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a contradição sanável mediante embargos de declaração é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, não sendo admissível o manejo do recurso integrativo para correção de eventual desconformidade entre o provimento jurisdicional embargado e a prova dos autos, ato normativo, ou acórdão proferido pelo Tribunal de origem ou em outro processo (EDcl no REsp n. 1.797.365/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 28/6/2023.).
+4. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.295.936/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Logo, não há contradição do acórdão recorrido.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b" , do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
