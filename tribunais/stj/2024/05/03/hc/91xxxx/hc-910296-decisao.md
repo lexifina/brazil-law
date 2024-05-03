@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de WELYTTON GOMES PASSOS contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática do delito de tráfico de drogas.
+Nesta Corte, o impetrante alega, em suma, a ausência de fundamentos concretos para a custódia cautelar, ressaltando que a quantidade de drogas apreendidas não seria elevada, sendo possível a fixação de medidas cautelares diversas da prisão.
+Requer a concessão da ordem para que seja revogada a prisão preventiva.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+A prisão preventiva foi decretada mediante a seguinte fundamentação (e-STJ, fls. 11-12, grifou-se):
+"No caso em apreço, a apreensão de 136g (cento e trinta e seis) gramas do referido entorpecente, produziria a quantidade de mais de 90 (noventa) cigarros de maconha se considerado que todos fossem de 1,5 gramas, a evidenciar que o entorpecente, em tese, sustentaria a rede de traficância no local onde o autuado foi preso em flagrante.
+ ..
+Há, também, a existência do "periculum libertatis", consubstanciado na necessidade de segregação cautelar do agente para satisfazer a ordem pública, no escopo de se impedir novas infrações penais e retirar de circulação o comerciante de substância que causa males incomensuráveis à sociedade.
+ ..
+Isso porque o autuado, conforme antecedentes criminais de mov. 8.1, ostenta vasta ficha criminal, sendo todas anotações das práticas de crimes da mesma natureza (tráfico de drogas).
+A propósito:
+1 - Condenado definitivamente nos autos de ação penal n. 0003666-14.2019.8.16.0069, como incurso nas sanções do artigo 33, caput, da Lei nº 11.343/2006, com data do fato em 27/03/2019 e trânsito em julgado em 11/12/2020. 2 - Réu nos autos de ação penal n. 0004193-63.2019.8.16.0069, que tramita na Vara Criminal de Cianorte, acusado da prática, em tese, do crime previsto no artigo 33, caput, combinado com o artigo 40, inciso III, ambos da Lei nº. 11.343/2006, com data do fato em 05.04.2019.
+3 - Réu nos autos de ação penal n. 0011175-59.2020.8.16.0069, que tramita na Vara Criminal de Cianorte, acusado da prática, em tese, do crime previsto no artigo 33, caput, da Lei nº. 11.343/2006, com data do fato em 13.11.2020.
+4 - Condenado, no juízo de primeiro grau, nos autos de ação penal n. 0005705-13.2021.8.16.0069, como incurso nas sanções do como incursos nas sanções do (sic) artigo 33, caput, da Lei 11.343/2006, com data do fato em 22.06.2021.
+Como se não bastasse, ele atualmente cumpre pena, em regime semiaberto com monitoramento eletrônico, nos autos de execução de pena n.4000001-48.2021.8.16.0069, que tramita na Vara de Execução em Meio Fechado e Semiaberto de Cianorte, processo na qual foi solto recentemente, em 04.03.2024 e, mesmo assim, em tese, voltou a delinquir."
+O Tribunal de origem, ao denegar a ordem de habeas corpus, consignou (e-STJ, fls. 17-18):
+"A quantidade da droga apreendida com o paciente - 136g de maconha -, balança de precisão e dinheiro em espécie, consoante auto de exibição e apreensão de mov. 1.13, evidenciam a gravidade da sua conduta e o risco que oferece à ordem pública, sendo indispensável a manutenção da constrição cautelar.
+ ..
+De mais a mais, verifica-se na certidão de antecedentes criminais de Welytton Gomes Passos (mov. 8.1) que ele é reincidente no delito de associação para o tráfico - condenação com trânsito em julgado em 11/12/2020 (autos n. 0003666-14.2019.8.16.0069) - e tem outros processos criminais em trâmite em seu desfavor (autos n. 0004193-63.2019.8.16.0069, n. 011175-59.2020.8.16.0069, n.0005705-13.2021.8.16.0069), todos da mesma natureza (Lei n. 11.343/06, art. 33, caput).
+ ..
+Ainda, o paciente cumpria pena no regime semiaberto - autos de execução n. 000001-48.2021.8.16.0069 -, quando, supostamente, praticou novo delito de tráfico, a apontar que as medidas mais brandas são insuficientes para assegurar a garantia da ordem pública."
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, como forma de evitar a reiteração delitiva, pois, segundo a instância ordinária, o paciente é reincidente, possui extensa ficha criminal (sendo todas as anotações relacionadas ao tráfico de drogas) e, quando preso em flagrante, estava em cumprimento de pena no regime semiaberto, e mesmo assim, supostamente, voltou a delinquir.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas.
+ ..
+4. Inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+5. Agravo regimental desprovido."
+(AgRg no HC n. 735.713/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. RECURSO DESPROVIDO.
+1. A prisão preventiva, para ser legítima à luz da sistemática constitucional, exige que o Magistrado, sempre mediante fundamentos concretos extraídos de elementos constantes dos autos (arts. 5.º, incisos LXI, LXV e LXVI, e 93, inciso IX, da Constituição da República), demonstre a existência de prova da materialidade do crime e de indícios suficientes de autoria delitiva (fumus comissi delicti), bem como o preenchimento de ao menos um dos requisitos autorizativos previstos no art. 312 do Código de Processo Penal, no sentido de que o réu, solto, irá perturbar ou colocar em perigo (periculum libertatis) a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal.
+2. Além disso, de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do Código de Processo Penal), provisionalidade (art. 316 do Código de Processo Penal) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do Código de Processo Penal), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do Código de Processo Penal, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade.
+3. No caso, a despeito da pequena quantidade de substância entorpecente apreendida, a prisão preventiva encontra-se suficientemente fundamentada, tendo sido amparada no risco concreto de reiteração delitiva - o Recorrente responde a outros processos pelo crime de tráfico de drogas, tendo sido beneficiado com a revogação da prisão cautelar, por esta Corte Superior de Justiça, há menos de um ano -, o que justifica a segregação cautelar para garantia da ordem pública.
+4. Recurso ordinário desprovido."
+(RHC n. 163.377/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022)
+Pelo mesmo motivo acima delineado, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do paciente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
