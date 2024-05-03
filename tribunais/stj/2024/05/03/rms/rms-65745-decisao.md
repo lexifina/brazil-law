@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Recurso em Mandado de Segurança interposto contra acórdão assim ementado (fls. 118-121, e-STJ):
+Administrativo e ambiental. Mandado de segurança. Renovação da Licença Ambiental. Excesso no prazo para julgamento do processo administrativo. Não comprovação. Ausência dos requisitos necessários para concessão. Ausência de direito líquido e certo. Segurança denegada.
+Nas razões do Recurso (fls. 131-149, e-STJ), o recorrente afirma que a autoridade impetrada omite-se ao não apreciar, de forma definitiva, o seu requerimento de renovação de Licença de Operação para o comércio de piscicultura. Diz que a inércia da administração impede que dê continuidade a sua atividade, ferindo os princípios da eficiência, da duração razoável do processo e da garantia do livre exercício do trabalho. Pede, então, a concessão da segurança, para que a autoridade impetrada seja obrigada a examinar o pleito administrativo com urgência.
+Contrarrazões às fls. 154-162, e-STJ.
+Parecer do Ministério Público Federal pela denegação da segurança.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.3.2021.
+A irresignação não deve prosperar.
+O Mandado de Segurança foi impetrado contra suposta omissão do Secretário de Estado de Desenvolvimento Ambiental de Rondônia (SEDAM) em decidir sobre o requerimento de renovação de Licença de Operação no Processo Administrativo 1801/03476/2013. O recorrente afirma que atendeu a todas as exigências do órgão ambiental para a concessão da licença, mas o processo administrativo encontra-se parado desde 5.10.2018.
+Ao julgar a ação, o Tribunal de Justiça do Estado de Rondônia consignou o seguinte (fls. 119-120, e-STJ, destaques acrescentados):
+(..)
+Segundo o impetrante, como forma de demonstrar que todas as notificações foram cumpridas e que a paralisação do processo não decorre de culpa sua, juntou à inicial cópia do Termo de Outorga nº 440/2018, emitido pela SEDAM/RO, em seu favor, datada de 16/6/2018, com validade até 16/6/2023.
+Ocorre que, muito embora tenha juntado aos autos ato de outorga do direito de uso de recursos hídricos do Estado de Rondônia, conforme informação da autoridade impetrada outros documentos encontram-se pendentes (ID. 6188111 -Pág. 1), além disso, o termo (ID. 5819175 - Pág. 40) aludido só fora produzido em 13.06.18, ou seja, posterior ao pedido de renovação produzido.
+Assim, em que pese tenha aduzido genericamente que atendeu à Administração em todas as oportunidades em que fora instado, sem, contudo, juntar os documentos respectivos, de forma que não verifica-se nos autos comprovação nesse sentido.
+Pelo contrário, a Notificação nº 4844/2017, de 11/12/2017, solicita a apresentação, no prazo de 30 (trinta)dias, de "(a) recibo de inscrição do imóvel rural no CAR unificado dos lotes informados, (b) planta baixa com quadro de áreas acompanhado de ART do responsável técnico pela sua elaboração, (c) outorga do direito de uso dos recursos hídricos, (d)certidão negativa de embargo do IBAMA e (d) relatório técnico de vistoria ambiental"
+De outro giro, a Notificação nº 693/2018, de 26/2/2018, reitera a Notificação nº 4844/2017, de 11/12/2017, para que o empreendedor apresente no prazo de 30 dias os mesmos itens da notificação anterior, à exceção do relatório técnico de vistoria ambiental.
+Da mesma forma, a Notificação nº 1245/2018, de 23/3/2018, reitera a Notificação nº 693/2018, de 26/2/2018, solicitando que o empreendedor supra as pendências relacionadas à (a) outorga do direito de uso dos recursos hídricos e ao (b) recibo de inscrição do imóvel rural no CAR unificado dos lotes informados.
+Tal situação demonstra que embora o impetrante tenha atendido parcialmente às exigências apresentadas pelo impetrado, não as sanou integralmente, ou, pelo menos, não comprovou nada neste sentido.
+Vale registrar, ainda, as considerações promovidas pelo Estado no sentido de que, ao ser questionada, a COLMAM (Coordenadoria de Licenciamento) informou, em 6/6/2019, que como determinante para a renovação da Licença de Operação, faz-se necessária a apresentação dos seguintes documentos: a Outorga de uso dos recursos hídricos (conforme parágrafo 2º, inciso VII, da Resolução CRH/RO nº 4, de 18/3/2014) e o Recibo de inscrição do imóvel rural no CAR unificados dos lotes (199, 201, 203, 257, 258 e 259 da Linha LJ-11), coadunando com o disposto na Notificação nº 1245/2018, de 23/3/2018.
+Assim, é de se concluir que essas pendências impedem a expedição da licença, razão pela qual enquanto não solucionadas não é possível a renovação requerida, uma vez que, diante da não comprovação do preenchimento dos requisitos necessários, não podendo o ato ser sanado pelo Poder Judiciário quando inexiste qualquer irregularidade, ausente assim, direito líquido e certo a ser assegurado ao impetrante.
+A Corte local decidiu que não há comprovação nos autos de inércia imotivada da Administração Pública. Ao contrário, verificou que o recorrente não atendeu integralmente às exigências do órgão ambiental para a renovação da Licença de Operação.
+Esses argumentos não foram impugnados no Recurso Ordinário; por isso não há motivo para a reforma do julgado. Com efeito, no Mandado de Segurança, é ônus do impetrante demonstrar de forma inequívoca, documentalmente, os fatos que embasam sua pretensão, o que não ocorreu no presente caso. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO À MOTIVAÇÃO ADOTADA NA ORIGEM. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA DA CERTEZA E LIQUIDEZ DO DIREITO VINDICADO.
+1. Descumprido o princípio da dialeticidade, o qual obriga a parte que recorre impugnar, especificamente, os fundamentos do acórdão que objurga, contrapondo-se às razões de decidir já expressadas. Precedentes.
+2. O Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do "mandamus" (RMS 45.989/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 06/04/2015).
+3. Agravo interno não provido.
+(AgInt no RMS 54.470/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 21/2/2018)
+ADMINISTRATIVO. PROCESSUAL CIVIL. CONCURSO PÚBLICO. SAÚDE. APROVAÇÃO FORA DAS VAGAS. ALEGAÇÃO DE PRETERIÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO. FALTA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO INDIVIDUAL POSTULADO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRECEDENTE.
+(..)
+4. É sabido que a juntada da adequada documentação probatória para embasar o pleito mandamental é imperativa ao processamento da demanda e, assim, não havendo sido cumprido este requisito, inexiste falar em direito e certo: "(..) Não se trata de exigir da impetrante prova de fato negativo (prova diabólica), mas deve-se ponderar que, na via eleita, em que não há fase de dilação probatória, é ônus da impetrante comprovar as alegações que justificam a sua pretensão mandamental (..)" (AgRg no MS 21.243/DF, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 10.3.2015).
+Agravo regimental improvido.
+(AgRg no RMS 38.804/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 20/10/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. APROVAÇÃO FORA DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NÃO DEMONSTRADA A LIQUIDEZ E CERTEZA DO DIREITO POSTULADO. AGRAVO REGIMENTAL DOS PARTICULARES A QUE NEGA PROVIMENTO, EM CONSONÂNCIA COM O PARECER MINISTERIAL.
+(..)
+9. Nesse aspecto, a jurisprudência desta Corte não deixa dúvida de que a via mandamental, por não comportar dilação probatória, requer que o exame do direito vindicado atenha-se às provas pré-constituídas, assim, não evidenciado qualquer ato de preterição, mantém-se incólume o acórdão recorrido.
+10. Pelas considerações expostas, nega-se provimento ao Agravo Regimental de ANA PAULA CAVINI VIEIRA E OUTROS. É como voto.
+(AgRg no RMS 47.339/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA,DJe 26/3/2019)
+Ademais, o Ministério Público Federal analisou detidamente o andamento do processo administrativo e demonstrou no seu parecer que o trâmite não se encontra parado. É o que se constata do trecho abaixo transcrito, que adoto como fundamento desta decisão (fl. 185, e-STJ):
+De outro lado, em consulta ao link referido pela SEDAM (fls. 87),verifica-se que, em 26.6.2019, o processo foi encaminhado para análise da COLMAM e, em 27.6.2019, à COGEO para exame de carta imagem.
+Em 26.8.2019, foi anexado documento e, em 6.9.2019, foi remetido para COGEO para novo parecer técnico, conforme CD com os arquivos shapefile.
+Em 17.9.2019, o procedimento foi remetido ao setor de pesca, para análise e, em 1º.10.2019, para vistoria técnica.
+Em 7.5.2020, foi encaminhado à recepção, sendo anexado documento em 8.7.2020.
+Em 5.8.2020, foi remetido para análise de carta imagem, que foi examinada em 17.8.2020, resultando na notificação do recorrente, em20.8.2020, nos seguintes termos:
+Em análise ao processo 1801/03476/2013 interessado a VALDELIR JOÃODE SOUZA que solicita a renovação da licença de operação e regularização de área ampliada no empreendimento. Foi constatado em análise ao CDSHAPPEFILE disponibilizado pelo requerente uma área de 45,89 hectares de lâmina d"água com 31 tanques instalados, desses localizados em dois lotes com Recibo do CAR em nome de VALDELIR JOÃO, e parte do empreendimento, sendo 2 tanques encontram em lotes vizinhos com recibo do CAR em nome de ANA PAULA PIRES e KENIA CAROLINA PIRES, sendo que nos autos não constam documentos referente a estes lotes. Dessa forma, com fulcro na Lei Estadual nº 3686/2015, Art. 18,NOTIFICAMOS vossa senhoria a apresentar as seguintes informações e/ou complemento para que possamos dar continuidade a análise do processo:
+01) Apresentar esclarecimentos técnicos referentes a área do empreendimento;
+02) Apresentar Recibos do CAR referente ao empreendimento com todos os lotes;
+Assim, com base no Art. 22 da Lei Estadual nº 3686/2015, concedemos um prazo de até 3 (três) meses para cumprimento desta notificação.
+Por fim, destaco que o art. 14, § 4º, da Lei Complementar 140/2011 permite a renovação da Licença de Operação quando requerida no prazo de 120 (cento e vinte) dias antes do término da sua validade, sendo tal prazo automaticamente prorrogado até a manifestação definitiva do órgão ambiental. Contudo, segundo informações apresentadas pelo Estado de Rondônia, a licença do recorrente venceu em 27.5.2016, e somente em 7.11.2017 - mais de um ano depois - o impetrante requereu sua renovação.
+Como bem consignou o Parquet, "deixando o recorrente de requerer a renovação dentro do prazo legal, assim como de providenciar todos os documentos necessários para o exame da concessão, ou não, da Licença de Operação, não se cogita de direito líquido e certo à apreciação urgente do pedido" (fl. 187, e-STJ).
+Ante o exposto, nego provimento ao Recurso Ordinário .
+Publique-se.
+Intimem-se.
+EMENTA
