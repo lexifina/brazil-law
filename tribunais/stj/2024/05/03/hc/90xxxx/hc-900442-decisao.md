@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MAILANE ELIZIARIO MAGNO apontando como autoridade coatora o Tribunal de Justiça do Estado do Pará (HC n. 0802902-86.2024.8.14.0000).
+Em suas razões, sustenta a defesa que, "no presente caso, há manifesta e grave ilegalidade onde precedentes desastrosos para a justiça, principalmente na maneira que foi conduzida e efetuada a prisão da paciente, por carregar uma sacola perto de um local que vendia drogas. Tais entendimentos da sumula 691/STF quando há grave ilegalidade devem ser flexibilizados, inclusive por concessão da ordem de ofício, que pode ser o caso dos autos" (e-STJ fl. 5).
+Ressalta que "a busca pessoal foi justificada com base apenas na suposição da polícia militar, sem haver nada que justifique a abordagem . Tal ação foi justifi cada somente por sair de uma casa diferente do ponto de drogas e carregar INCRIVELMENTE UMA SACOLA, O QUE POR SI SÓ, não confi gura fundada suspeita de posse de corpo de delito apta a validar a revista, e desse jeito não resta demonstrada a existência de fundada suspeita de posse de corpo de delito para a realização da busca pessoal, conforme exigido pelo art. 244 do Código de Processo Penal" (e-STJ fl. 8).
+Sublinha, outrossim, que "o decreto preventivo está fundamentado APENAS na gravidade abstrata do delito de tráfico de drogas, que permitiu somente ter o decreto preventivo fundamentado de formas rasas, sem uma análise justificada e condizente. Após nomear os pressupostos legais para o decreto preventivo, se limitou em apresentar fundamentação precária, baseada na gravidade abstrata do delito e necessidade de preservar a ordem pública, elementos insuficientes para a medida extrema que exige a demonstração de circunstâncias específicas" (e-STJ fl. 11).
+Diante dessas considerações, pede (e-STJ fl. 13):
+1. A concessão da ORDEM DE HABEAS CORPUS, LIMINARMENTE, para a paciente estar em liberdade até o julgamento do mérito do presente writ.
+2. Ainda em sede de liminar, requer que seja ordenada a suspensão do processo de 1º GRAU, até o julgamento definitivo de mérito.
+3. Julgamento final da presente demanda com a concessão do presente Habeas Corpus, determinando o trancamento da ação penal, por conta das provas nulas, que é objeto desse presente writ, em razão da ausência de fundada suspeita, assunto este com jurisprudências consolidadas.
+4. Em caso desse Egrégio Superior Tribunal de justiça entender que são válidas as provas, solicita a determinação da revogação de prisão preventiva, por haver ausência de fundamentação e por não demostrar a necessidade de manter a prisão em si. E após consequente confirmação, a expedição do ALVARÁ DE SOLTURA , cessando assim todas as irregularidades cometidas, por ser de pleno direito e JUSTIÇA!
+É o relatório.
+Decido.
+Em consulta aos autos da Ação Penal originária n. 0800022-16.2024.8.14.0035, no site do Tribunal de origem, observa-se que houve prolação de sentença no dia 24/4/2024, a qual condenou a paciente à pena de 3 anos e 4 meses de reclusão, substituiu a sanção restritiva de liberdade por prestação de serviço à comunidade e revogou as medidas cautelares anteriormente impostas.
+Assim, patente que o presente writ está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
