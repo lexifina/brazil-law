@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+PREVIDENCIÁRIO. PROCESSO CIVIL. COISA JULGADA. APOSENTADORIA POR IDADE. EMPRESÁRIO. CONTRIBUINTE INDIVIDUAL. REVISÃO PARA RECOLHIMENTO FUTURO DAS CONTRIBUIÇÕES.
+1. Não há como rediscutir a matéria que já foi objeto de controvérsia e pronunciamento judicial, estando, por força da preclusão máxima advinda de seu trânsito em julgado, revestida da qualidade de imutabilidade.
+2. Parte dos pedidos já foi objeto do processo promovido pelo autor no Juizado Especial de Santo André, com trânsito em julgado.
+3. Dispõe o Art. 485, V, do CPC, que, caracterizada a coisa julgada, o processo deve ser extinto sem resolução do mérito, independentemente de arguição da parte interessada.
+4. A Previdência Social se reveste do caráter contributivo/retributivo (Art. 1º, da Lei 8.213/91), de modo que todo benefício concedido terá sua renda mensal apurada com suporte nas contribuições até então já recolhidas.
+5. O autor, como sócio e administrador, conjuntamente com outros, passou a ostentar a qualidade de segurado obrigatório na categoria de empresário/contribuinte individual, passando a ser o responsável pelos próprios recolhimentos previdenciários até o dia quinze do mês seguinte ao da respectiva competência, em consonância com o comando dos Arts. 12, V, f, e 30, II, da Lei 8.212/91.
+6. A partir da Lei Complementar nº 128/2008, que acrescentou o Art. 45-A na Lei 8.212/91, está facultado ao segurado contribuinte individual/empresário/autônomo ou equiparado, o direito para efetuar recolhimentos previdenciários referentes a períodos de atividade remunerada de competência anteriores, ainda que alcançada pela decadência, mediante indenização ao INSS, para que possa almejar, em data futura, o seu benefício de aposentadoria.
+7. Passados cinco anos da concessão de sua aposentadoria por idade, o autor pleiteia a revisão de seu benefício com a pretensão de obter autorização judicial para recolher contribuições relativas aos anos de 1995 a 1997, ou seja, com uma década de atraso desde a DIB.
+8. O comprovante de rendimentos do exercício de 1995, demonstra que o autor auferiu rendimento com pró-labore e lucro distribuído no valor total equivalente amais de 80 salários mínimos naquele exercício, sem efetuar nenhum recolhimento previdenciário, e, como sócio gerente, teve como rendimentos a título de pró-labore e lucros distribuídos a importância média no valor de R$ 4.000,00, aproximadamente 35 salários mínimos do mês de janeiro de 1997.
+9. Nos anos de 1995 a 1997, quando o autor auferia rendimentos como empresário e contribuinte individual, deixou de recolher as contribuições previdenciárias que lhe competia por força de lei.
+10. Pela natureza contributiva que norteia o sistema previdenciário do regime geral, é descabida a pretensão trazida na petição inicial, para a revisão da aposentadoria por idade, com a autorização para recolhimento futuro das contribuições previdenciárias relativas aos meses de competência anterior à concessão do benefício.
+11. Apelação desprovida.
+Os Embargos de Declaração foram rejeitados (fls. 528-529, e-STJ).
+Em seu Recurso Especial, o agravante aponta divergência jurisprudencial e violação, no mérito:
+(..)
+Logo, não se tratando da hipótese do artigo 337 do CPC (a lei que fixa a hipótese de litispendência e de coisa julgada), patente a violação ao artigo 5º, II e XXXVI da CF/88 pela decisão do E. Tribunal "a quo", que aplicou os efeitos da coisa julgada a hipótese não prevista na legislação.
+Portanto, houve violação ao art. 337, 489, §1º, I e IV, do CPC, pois a coisa julgada foi utilizada sem explicar sua relação com a causa ou a questão decidida, bem como não houve enfrentamento de todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Do exposto, afastada a coisa julgada e em sendo formulado pedido de utilização da regra permanente do art. 29, da Lei n. 8213/91, o caso se amolda ao Tema 1.102/STF ("revisão da vida toda"): "O segurado que implementou as condições para o benefício previdenciário após a vigência da Lei 9.876, de 26/11/1999, e antes da vigência das novas regras constitucionais, introduzidas pela EC em 103/2019, que tornou a regra transitória definitiva, tem o direito de optar pela regra definitiva, acaso esta lhe seja mais favorável".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8 de março de 2024.
+Preliminarmente, a parte insurgente sustenta que o art. 489 do CPC foi contrariado, mas não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do apelo nesse ponto ante o óbice da Súmula 284/STF. Confira-se o precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso, o embargante alega ocorrência de contradição na decisão embargada, sem, contudo, explicitar em que consistiria o alegado vício, tecendo argumentos genéricos e desconectados da alegada ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1.801.722/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 23/3/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Para o acolhimento da negativa de prestação jurisdicional não é suficiente a mera rejeição dos declaratórios opostos, de forma que é imprescindível a demonstração individualizada do vício, bem como sua relevância ao resultado do julgado. Súmula n. 284/STF.
+(..) (AgInt no REsp 1.817.079/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2019)
+No mais, verifica-se que o recorrente não indicou os dispositivos de lei federal que considera ofendidos. A via estreita do Recurso Especial, contudo, exige a particularização desses dispositivos, e para isso não basta a mera menção ou a narrativa acerca da legislação federal. Desse modo, aplica-se, por analogia, o disposto na Súmula 284 do STF.
+Acerca da coisa julgada, o Colegiado originário consignou: "Por tudo, resta caracterizada a tríplice identidade das duas demandas quanto ao tempo de serviço intercalado de 1964 a 1971, e a inclusão de todos os salários anteriores a julho de 1994 no recálculo da RMI, fazendo incidir a coisa julgada, não havendo como rediscutir a matéria que já houve pronunciamento judicial, estando revestida da imutabilidade advinda do trânsito em julgado".
+Constata-se que o órgão julgador solucionou a controvérsia com base no suporte fático-probatório dos autos, cujo revolvimento é inviável em Recurso Especial ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova .
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada na apreciação do apelo pela alínea "a" do permissivo constitucional.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
