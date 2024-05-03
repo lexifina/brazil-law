@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de Roger Fabiano Berger - condenado como incurso no crime de sonegação fiscal -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 5007569-55.2017.8.21.001), não comporta conhecimento.
+Busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Novo Hamburgo/RS (Ação Penal n. 0040004-70.2017.8.21.0019), ao argumento de ilegalidade aplicação da majorante decorrente do grave dano causado à coletividade, em razão do valor do tributo sonegado, além de incompatível a aplicação causa de aumento com a majorante da continuidade delitiva.
+Ocorre que a via eleita foi indevidamente ajuizada simultaneamente à interposição de agravo em recurso especial contra a decisão que negou seguimento ao recurso interposto na origem, configurando ofensa à unirrecorribilidade.
+Ademais, não se evidencia constrangimento ilegal manifesto, pois, além de ser viável, no caso, a aplicação da majorante (sonegação de tributo estadual - ICMS em valor nominal histórico, totalizou R$ 2.833.623,65 - fl. 82), não existe manifestação desta Corte no sentido de ser incompatível a majorante com o reconhecimento da continuidade delitiva, já que a sonegação ocorreu dentro do período de 5 anos.
+A propósito:
+ ..
+5. Na terceira fase, mostra-se cabível a incidência da majorante do art. 12, I, da Lei n. 8.137/90 (grave dano à coletividade), uma vez que as "condutas analisadas geraram um prejuízo de R$ 3.187.385,79 (três milhões, cento e oitenta e sete mil, trezentos e oitenta e cinco reais e setenta e nove centavos), que, acrescido de juros de mora e multa, alcança o total de R$ 10.542.577,79 (dez milhões, quinhentos e quarenta e dois mil, quinhentos e setenta e sete reais e setenta e nove centavos)".
+6. No que se refere à continuidade delitiva, asseverou o Tribunal a quo que a fração de 2/3 está devidamente justificada, "em face das diversas condutas delitivas evidenciadas, que redundaram na sonegação de vários tributos - IRPJ (03, 06, 09 e 12/1999; 03, 06, 09 e 12/2000; 03, 06 e 09/2001), CSLL (02/1999 a 09/2001), COFINS (02/1999 a 07/2001) e PIS (02/1999 a 07/2001)". O acórdão está em consonância com a jurisprudência desta Corte no sentido de que, "em se tratando de majoração de pena referente à continuidade delitiva, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5 para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações; 1/2 para 6 infrações e 2/3 para 7 ou mais infrações" (AgRg no REsp n. 1.442.329/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+7. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para afastar a valoração negativa do vetor conduta social, quanto ao paciente, MANOEL.
+(HC n. 316.870/ES, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 1º/10/2021 - grifo nosso).
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL DE ICMS. INSURGÊNCIA CONTRA A DOSIMETRIA DA PENA. IMPETRAÇÃO CONCOMITANTE À INTERPOSIÇÃO DE ARESP CONTRA A DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL INTERPOSTO NA ORIGEM. CONHECIMENTO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ não conhecido.
