@@ -1,0 +1,10 @@
+DECISÃO
+Publicada a decisão de fls. 461/462, determinando a baixa dos autos ao Tribunal de origem para processar o recurso de agravo interno interposto por DIVINO APARECIDO ALEXANDRINO VALIANI e OUTRO, o tribunal reenviou os autos a esta Corte com a petição de agravo apresentado pela MUNICÍPIO DE NOVA ALVORADA DO SUL (fls. 352/356), recurso até então, pendente de julgamento.
+Registre-se que a autuação já foi devidamente corrigida.
+Assim, prosseguindo na análise do feito, constata-se que o Ente Público foi intimado pessoalmente da decisão agravada em 20/09/2022, sendo o agravo somente interposto em 07/11/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 30 (trinta) dias úteis, nos termos do art. 183, do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
