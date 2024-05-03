@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE (e-STJ, fls. 660-691).
+Em suas razões recursais, a parte recorrente aponta violação do art. 33, §4º da Lei 11.343/2006. Aduz para tanto, em síntese, que a quantidade de droga apreendida justifica a aplicação da referida minorante no patamar mínimo (1/6), tal qual havia compreendido a juíza de primeiro grau.
+Sem contrarrazões (e-STJ, fl. 715), o recurso especial foi inadmitido na origem (e-STJ, fls. 718-721), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 763-769).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+O Tribunal de origem reformou a pena aplicada na sentença condenatória para fazer incidir a minorante do tráfico privilegiado na fração de 2/3, sob a seguinte motivação:
+"Clama a defesa pela reformada dosimetria, com o desiderato de aplicar a causa de diminuição prevista no art. 33, §4º,em seu percentual máximo.
+da Lei 11.343/06, Para melhor esclarecimento, colaciono abaixo a dosimetria elaborada pelo Juízo a quo:
+"IV.1- RÉU ANDERSON FEITOSA DOS SANTOS Em cumprimento ao disposto nos artigos 59 e 68 do Código Penal e art. 42 da Lei de Drogas passo a dosar a reprimenda penal.
+Culpabilidade - normal à espécie.
+Antecedentes -o réu não contenta condenação, conforme pesquisa processual realizado no SCPV/SE.
+Personalidade - nada a aquilatar. Sobre a sua conduta social - não há informações.
+Circunstâncias do crime- as drogas foram apreendidas na mochila portada pelo réu e dentro de sua residência.
+Natureza e quantidade de drogas: foram encontradas 189 (cento e oitenta e nove) papelotes de cocaína e 01 (uma) trouxa de igual substância pesando 48 (quarenta e oito) gramas na posse do réu, com peso bruto 18,2g (dezoito gramas e duas decigramas) e peso líquido 14,3g, (quatorze gramas e três decigramas) concluindo se tratar de Cannabis sativa L.(maconha). Enquanto na residência do acusado foram encontrados 369 (trezentos e sessenta e nove) pedras de crack, 17(dezessete envelopes) contendo maconha, 01 (um) tablete, bem como 02 (dois) pedaços As consequências do delito - são as mais nefastas para a sociedade, posto que além de atentar contra a saúde pública, serve de esteira para o cometimento de outros crimes, não existindo motivos que o justifiquem.
+Comportamento da vítima - Nada se tem a valorar, eis que a vítima é a própria sociedade, não havendo em que se falar em provocação ou colaboração da vítima no intento criminoso.
+Considerando as quantidades serem diversas, e as naturezas das drogas apreendidas, tratando-se de crack, maconha e cocaína fixo a pena-base em 06 anos e 03 meses de reclusão e 625 dias-multa.
+Ante a confissão do acusado realizada em juízo acerca da prática do tráfico de drogas, reconheço a atenuante da confissão espontânea prevista no art. 65, inciso III alínea "d" do Código Penal, razão pela qual atenuo a pena em 01 ano e 03 meses de reclusão e 125 dias multa, restando-a no patamar de 05 anos de reclusão e 500 dias-multa, dada a inexistência de circunstância agravante.
+Considerando que o réu é primário, possui bons antecedentes, bem como não há informação nos autos de participação em associação criminosa, entendo pela aplicação da causa de diminuição especial prevista no §4º do art. 33 da Lei, fixando-a definitivamente em 04 (quatro) anos e 02 (dois) 11.343/06, motivo pelo qual reduzo a pena no patamar de 1/6, por não haver causas de aumentos."
+Observando os autos, percebe-se que a magistrada de origem, ao aplicar a causa de diminuição de pena prevista no parágrafo 4º do art. 33 da Lei 11.343/06, o fez aplicando o percentual de 1/6 (um sexto), não tendo, no entanto, apresentado qualquer fundamentação para tanto.
+No que pertine à fração da causa de diminuição a ser aplicada, vê-se que ela se submete ao exame discricionário do magistrado que, de forma fundamentada, definirá a que melhor reprima a conduta praticada.
+ ..
+Analisando a fundamentação apresentada pelo juízo de origem para concessão do benefício do tráfico privilegiado, observa-se que, ao fixar o percentual de 1/6 (um sexto), a magistrada, de fato, não apresentou qualquer fundamentação, tendo ainda esclarecido que inexistia qualquer circunstância judicial desfavorável ao réu, motivo pelo qual fazia jus à referida causa especial de diminuição.
+No meu entender, o fato das circunstâncias judiciais serem favoráveis ao apelante, bem como o fato de inexistirem circunstâncias fáticas outras que possam ser consideradas de forma negativa à conduta praticada pelo recorrente, demonstra ser cabível a aplicação do percentual máximo (2/3) da causa de diminuição de pena prevista no parágrafo 4º do art. 33 da Lei 11.343/06.
+Em sendo assim, redimensiono a pena definitiva do réu para 01 (um) ano e 8 (oito) meses de reclusão e 166 (cento e sessenta e seis) dias-multa, a qual torno definitiva ante a ausência de outras causas de aumento ou de diminuição de pena."
+Como se verifica, a juíza de primeiro grau havia aplicado a minorante do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/6 sem a apresentação de nenhuma fundamentação a justificar a aplicação da fração mínima de diminuição. O Tribunal a quo então procedeu a sua retificação, aplicando a fração de 2/3, atento às circunstâncias do caso concreto.
+Na hipótese, a pretensão do Parquet de retomar a aplicação da causa de diminuição na fração mínima não comporta provimento.
+Isto porque, as instâncias ordinárias se utilizaram da quantidade de droga para agravar a pena-base. Neste contexto, conforme entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no ARE 666.334/AM (Rel. Ministro GILMAR MENDES, DJ 6/5/2014), está vedada a dupla aferição da quantidade e da natureza da droga, concomitantemente, na primeira etapa da dosimetria para exasperar a pena-base e na terceira fase para modular a minorante, sob pena de indevido bis in idem.
+Dessa forma, a míngua de elementos probatórios que indiquem a dedicação do recorrido à atividade criminosa, considerando a sua primariedade, seus bons antecedentes, e a fim de evitar o indevido bis in idem, era mesmo de rigor a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima (2/3), conforme compreendeu o Tribunal de origem.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
