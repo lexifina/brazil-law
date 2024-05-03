@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição Federal de 1988, contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte (fl. 190, e-STJ):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. CONCESSÃO. TEMPO RURAL. REGIME DE ECONOMIA FAMILIAR. COMPROVAÇÃO. PENSÃO POR MORTE. DISPENSABILIDADE DO LABOR RURAL. NÃO DEMONSTRADA. CONSECTÁRIOS LEGAIS. CORREÇÃO MONETÁRIA. TEMAS 810 DO STF E 905 DO STJ. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 76 TRF4. ARTIGO 85 CPC. CUSTAS PROCESSUAIS. ISENÇÃO.
+1. É devido o reconhecimento do tempo de serviço rural, em regime de economia familiar, quando comprovado mediante início de prova material corroborado por testemunhas.
+2. Tem direito à aposentadoria por idade rural a contar da data de entrada do requerimento administrativo, no valor de um salário mínimo, a trabalhador qualificado como segurado especial, nos termos do art. 11, VII, da Lei nº 8.213/91, que implementa os requisitos: (a) idade mínima (60 anos para homens e 55 para mulheres) e (b) exercício de atividade rural, ainda que deforma descontínua, por tempo igual ao da carência de 180 meses (arts. 39, I, 48, §§1º e 2º, e 25, II da Lei nº 8.213/91), independentemente do recolhimento de contribuições previdenciárias.
+3. Hipótese em que a pensão por morte recebida pelo requerente não afasta, por si só, a condição de segurado especial se não demonstrada a dispensabilidade do labor rurícola.
+4. A correção monetária das parcelas vencidas dos benefícios previdenciários será calculada conforme a variação do IGP-DI de 05/96 a 03/2006, e do INPC, a partir de 04/2006.
+5. Os juros de mora devem incidir a contar da citação (Súmula 204 do STJ), na taxa de 1%(um por cento) ao mês, até 29 de junho de 2009. A partir de 30 de junho de 2009, os juros moratórios serão computados, uma única vez (sem capitalização), segundo percentual aplicável à caderneta depoupança.
+6. Sucumbente deverá o INSS ser condenado ao pagamento das custas processuais e dos honorários advocatícios fixados em conformidade com o disposto na Súmula 76 deste Tribunal e de acordo com a sistemática prevista no artigo 85 do Código de Processo Civil de 2015.
+7. O INSS é isento do pagamento das custas processuais quando demandado na Justiça Federal e na Justiça do Estado do Rio Grande do Sul.
+Os Embargos de Declaração foram rejeitados nos termos da ementa abaixo transcrita fl. 253, e-STJ):
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. CORREÇÃO DE ERRO MATERIAL. INEXISTÊNCIA. PREQUESTIONAMENTO.
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC, art. 1.022, incisos I a III).
+Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes.
+2. Não se enquadrando em qualquer das hipóteses de cabimento legalmente previstas, devem ser rejeitados os declaratórios.
+3. O prequestionamento da matéria segue a sistemática prevista no artigo 1.025 do CPC.
+A autarquia recorrente afirma que ocorreu violação ao art. 1.022, II, do CPC/2015 e ao art. 11, VII, §§ 1º e 9º, I, da Lei 8.213/1991. Alega, em preliminar, omissão referente a questão essencial para o deslinde da controvérsia e, no mérito, a inviabilidade de se conceder aposentadoria especial por idade de trabalhador rural que perceba pensão por morte urbana em valor superior ao salário mínimo.
+Contrarrazões às fls. 269-271, e-STJ.
+O juízo negativo de admissibilidade (fls. 274-276, e-STJ) deu ensejo à interposição do presente Agravo (fls. 284-287, e-STJ).
+Sem contraminuta
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 6 de março de 2024.
+O Agravo é tempestivo e nele foram combatidos todos os argumentos que sustentaram a inadmissão do Recurso, motivo pelo qual deve ser conhecido.
+Dessa feita, passo à análise do Recurso Especial.
+A irresignação não merece prosperar.
+No tocante ao tema preliminar, não há ofensa ao art. 1.022, II, do CPC/2015, na medida em que não se constatam omissão, obscuridade, contradição ou erro material nos acórdãos impugnados capazes de torná-los nulos. O Colegiado originário apreciou a lide de forma clara e precisa, deixando bem delineados os motivos e fundamentos que embasaram os julgados.
+Não é o órgão julgador obrigado a rebater, uma a uma, todas as alegações trazidas pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução - o que ocorreu no caso dos autos. Além disso, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ao enfrentar a controvérsia, o Tribunal a quo consignou (fls. 196-198, e-STJ; grifos acrescidos):
+A Autarquia previdenciária sustenta em seu apelo que o autor perdeu sua qualidade de segurado especial a partir do ano de 2005, quando passou a ser beneficiário de pensão por morte decorrente do óbito de seu cônjuge, em valor pouco superior ao salário mínimo vigente (R$ 1.184,15).
+Sustenta, também, a inexistência de provas materiais suficientes ao reconhecimento da atividade rural no período imediatamente anterior ao requerimento administrativo.
+Não assiste razão ao INSS.
+Isso por que o fato de o requerente perceber benefício no valor de um salário mínimo, por si só, não é suficiente para sua descaracterização como segurado especial, se não comprovada também a dispensabilidade do labor rural face aos valores percebidos.
+Nos autos, não restou demonstrado pelo INSS que o benefício mensal recebido pelo autor supria as despesas básicas do grupo familiar e dispensava o exercício da atividade rural por ele desempenhada, como sua principal forma de provimento e manutenção.
+Ausente tal demonstração de suficiência da renda urbana do cônjuge, resta firmada a imprescindibilidade do labor agrícola, como atividade primária e necessária à subsistência da família, em face do acervo probatório juntado que milita a favor da requerente.
+(..)
+Assim, por não ter sido demonstrada a dispensabilidade da atividade rural desempenhada pela requerente, ônus da prova a cargo do INSS, deve ser mantida a essencialidade das lides rurícolas, como labor primário e essencial à subsistência da autora e seu grupo familiar, como se denota do amplo acervo probatório juntado aos autos (notas fiscais de produção rural e escritura de imóvel rural).
+As provas materiais apresentadas (evento 3, OUT2, p. 16-34) e devidamente corroboradas pela oitiva das testemunhas, em sede de justificação administrativa (evento 3, OUT5), evidenciam satisfatoriamente a o exercício da atividade rural pelo requerente no período controverso, por período suficiente ao implemento da carência legal de 180 meses, pelo qual faz jus ao benefício demandado.
+Desse modo, não merece provimento o apelo do INSS, devendo ser mantida a sentença que reconheceu o exercício da atividade rural e concedeu a aposentadoria rural a contar do requerimento administrativo (27/02/2018).
+Como se vê, a causa foi decidida com respaldo no suporte fático-probatório dos autos, de modo que o recorrente não comprovou que "o benefício mensal recebido pelo autor supria as despesas básicas do grupo familiar e dispensava o exercício da atividade rural por ele desempenhada, como sua principal forma de provimento e manutenção" (fl. 197, e-STJ).
+Desse modo, qualquer conclusão em sentido contrário do que ficou expressamente consignado no aresto recorrido, a fim de acatar as razões do recorrente, demandaria o reexame do acervo documental dos autos, o que não cabe em Recurso Especial ante o óbice da Súmula 7 do STJ.
+Nessa linha:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. NÃO OCORRÊNCIA. CONDIÇÃO DE SEGURADO ESPECIAL. NÃO CARACTERIZAÇÃO. EXISTÊNCIA DE VÍNCULO URBANO. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Ocorre que, no caso dos autos, não ficou demonstrado que o trabalho rural supostamente desenvolvido pela parte autora fosse fonte de sustento do grupo familiar, não caracterizando, por conseguinte, o regime de economia familiar, necessário ao deferimento do benefício nos termos requeridos. A parte autora completou idade para aposentadoria em 2011, devendo demonstrar 180 (cento e oitenta) meses de atividade rural, no período de 1996 a 2011. Entretanto, o CNIS da autora apresenta vínculos de natureza urbana com empresas como Florestaminas Reflorestamento Minas Gerais SA (07/1981 a 09/1981); Embauba Florestal SA (12/1983 a 02/1984); e com o Município de Rio Pardo de Minas (03/2001 a 09/2001; 01/2005 a 12/2007; e 01/2008 a 04/2008). Assim, a comprovação da condição de empregado da parte autora, por longo período e durante o período de carência, descaracteriza a atividade rural em regime de economia familiar para subsistência do grupo, pois é exatamente nessa perspectiva que se consideram todos os membros da família como segurados especiais (art. 11, inciso VII, da Lei de Benefícios). Dessa forma, ausente o início de prova material, a prova testemunhal produzida não pode ser exclusivamente admitida para reconhecer o tempo de exercício de atividade urbana e rural (STJ, Súmula 149 e TRF1, Súmula 27)".
+2. Com efeito, não está abarcado no conceito de segurado especial o trabalhador que possui outra fonte de rendimento, além daquele advindo do labor rural em regime de economia familiar que seja decorrente do exercício de atividade remunerada em período superior a cento e vinte dias no ano civil, nos termos do artigo 11, § 9º, III, da Lei 8.213/1991.
+3. Assim sendo, o acórdão recorrido não destoa da jurisprudência do STJ ao afirmar que a existência de vínculos urbanos por longo período descaracteriza a condição de segurado especial como rurícola.
+4. Ademais, é inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1.728.632/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 18/12/2020)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. PENSÃO POR MORTE. SEGURADO ESPECIAL. TRABALHADOR RURAL. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. DESCARACTERIZAÇÃO DO REGIME DE ECONOMIA FAMILIAR. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. O Tribunal de origem, soberano na análise dos elementos de prova dos autos, refutou o início de prova material em regime de economia familiar. Entender de modo diverso do consignado pela Corte a quo exige o reexame de matéria fático-probatória, o que é vedado pela Súmula 7 do STJ.
+2. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no AREsp 586.606/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 17/11/2014)
+Diante do exposto, conheço do Agravo para conhecer em parte do Recurso Especial, apenas quanto à afronta ao art. 1.022, II, do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+Publique-se.
+EMENTA
