@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JULIANA LOPES CAMPOS contra decisão monocrática que indeferiu o pedido liminar em habeas corpus formulado na origem.
+Imputa-se ao paciente a prática do crime de furto qualificado por fraude e abuso de confiança (art. 155, §4º, II e § 4º - B, do Código Penal). Consta que a paciente teria desviado aproximadamente R$ R$ 991.031,79 da empresa em que trabalhava.
+A defesa alega, em síntese, que a prisão preventiva da paciente foi decretada com base em fundamentação genérica e não atende aos requisitos legais, destacando a ausência de motivação concreta e fundamentação idônea. Além disso, ressalta que que a paciente, sendo mãe de uma criança de quatro anos, deveria ter a prisão preventiva substituída por prisão domiciliar, conforme previsões legais e jurisprudenciais que priorizam o cuidado materno em casos onde a mãe é a principal cuidadora. Argumenta também que o crime não envolveu violência ou ameaça grave, o que reforça a possibilidade de substituição da prisão preventiva por medidas cautelares menos restritivas, sobretudo diante de suas condições pessoais favoráveis.
+Ao final, requer a concessão da ordem para que a prisão preventiva da paciente seja substituída por prisão domiciliar.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de l ocomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, suficiente para superar o óbice do referido enunciado sumular.
+Destaque-se, por oportuno, que a paciente não trouxe qualquer documentação comprovando a maternidade de criança menor de 12 anos, tampouco tal tema foi enfrentado pelo Desembargador relator quando do indeferimento da medida liminar no habeas corpus impetrado na origem
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
