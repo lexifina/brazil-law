@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Abdullah Al Kaderi - submetido a medidas alternativas à prisão, pela prática, em tese, dos crimes de falsidade ideológica e uso de documento falso -, em que se aponta como autoridade coatora o Tribunal Regional Federal da 3ª Região (Habeas Corpus n. 5006723-85.2024.4.03.0000), não comporta processamento.
+Com efeito, busca a impetração a extensão das cautelares impostas aos corréus, ao argumento de que não é justo que ABDULLAH AL KADERI, o único estrangeiro que permaneceu no Brasil e segue cumprindo fielmente as cautelares, receba tratamento mais gravoso do que daqueles que retornaram à Dubai - e lá ainda se encontram (fl. 6).
+Ocorre que não há como alcançar conclusão inversa do acórdão hostilizado, o qual compreendeu e bem explanou que há explícita fundamentação acerca da diferença entre a situação do paciente e dos corréus Adel e Muhammad na ação penal, estes autorizados a empreender viagem a Dubai, para regularizar documentos de estadia no país, em auxílio à família lá residente e para o gerenciamento de empresa por eles constituída no local. A decisão impugnada está em harmonia e atende às diretrizes da proporcionalidade e da igualdade material, além do que o paciente deixa de apresentar qualquer justificativa ancorada em novo panorama, e tampouco oferece demonstração de eventual diferenciação fática, a emba sar o pleito de revogação do monitoramento eletrônico (fl. 15).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO. PRISÃO SUBSTITUÍDA POR MEDIDAS ALTERNATIVAS. ALEGAÇÃO DE QUE OS CORRÉUS FORAM BENEFICIADOS COM MEDIDAS MAIS BRANDAS. AUSÊNCIA DE IDENTIDADE DE SITUAÇÕES BEM DELINEADAS PELO TRIBUNAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
