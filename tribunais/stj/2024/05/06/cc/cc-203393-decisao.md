@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por AGRA PRADESH INCORPORADORA LTDA. - EM RECUPERAÇÃO JUDICIAL e PARTEX INCORPORAÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL, no qual apontam como suscitados o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP e o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE NATAL - RN.
+As suscitantes alegam a existência de conflito de competência defendendo que (fls. 3-10):
+Visa a Suscitante obter, liminarmente e em definitivo, o conhecimento do presente Conflito de Competência, para que esta Egrégia Corte Superior declare e determine que o MM. Juízo da 1ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo/SP é o único competente para decidir sobre o prosseguimento das diversas ações sujeitas ao processo de Recuperação Judicial, e que são movidas em face da Suscitante e do Grupo ROSSI, nos específicos termos do artigo 52, inc. III, da Lei nº 11.101/2005.
+ ..
+Inicialmente, destaca-se que o 1º Suscitado, encontra-se vinculado ao sistema judiciário do Estado de São Paulo, onde tramita a mencionada Recuperação Judicial ajuizada pelas Suscitantes, o que se deu em conjunto com as demais empresas integrantes do mesmo conglomerado empresarial, denominado "Grupo PDG" (autos nº 1016422-34.2017.8.26.0100), e o 2º Suscitado faz parte do sistema judiciário de outro Estado da Federação, fato que autoriza a presente suscitação perante esta Egrégia Corte.
+Pois bem. Há de esclarecer que perante o 2º Suscitado tramita um procedimento de execução de título judicial promovido por Dalyana Marya da Conceição Alves da Costa, em face da ora suscitante, cujo crédito é decorrente de contrato firmado entre os litigantes, constituído em data anterior àquela em que se apresentou judicialmente o pedido de soerguimento, de modo que se submete ao quanto previsto no art. 49 da Lei nº 11.101/2.005.
+ ..
+Por outro lado, mesmo informado clara e tempestivamente da decisão referida, o MM. Juízo, ora 2º Suscitado, desconsiderou olimpicamente a plena existência, vigência e eficácia da citada decisão, permanecendo penhora sobre bem de propriedade da executada, impedindo inclusive a reunião patrimonial da recuperanda, o que ocasionou em consequência, o ora suscitado CONFLITO POSITIVO DE COMPETÊNCIA.
+ ..
+Destarte Excelências, comprovados tanto o processamento da recuperação judicial, quanto a aprovação do plano, bem como a homologação do correspondente planejamento arduamente estudado, tudo em consonância com os ditames legais constantes da Lei no 11.101/2005, não restam dúvidas acerca da competência absoluta do Juízo Recuperatório para deliberar a respeito de créditos sujeitos ao respectivo procedimento, principalmente no que tangem as medidas de constrição ao patrimônio das recuperandas para fins de satisfação de crédito.
+Por meio da decisão de fls. 76-78, indeferi o pedido de liminar.
+Informações prestadas pelo JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE NATAL - RN às fls. 85-87.
+Informações prestadas pelo JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP às fls. 93-99.
+Parecer do MPF às fls. 101-104 opinando pela competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP.
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, tanto sob a égide do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO POSITIVO DE COMPETÊNCIA. FALÊNCIA. EXECUÇÃO TRABALHISTA. GOL LINHAS AEREAS. VARIG. COMPETÊNCIA DO JUÍZO FALIMENTAR. - PRECEDENTES DO STJ. SÚMULA 59/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo (AgInt no CC 173.626/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 28/09/2021, DJe 01/10/2021).
+3. Agravo interno não provido.
+(AgInt nos EDcl no CC n. 178.118/RJ, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe de 3/3/2022, grifei.)
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, em razão do recebimento da apelação com efeito suspensivo, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Nesse sentido, cito precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA.
+1. Nos termos da jurisprudência deste STJ, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo recuperacional para decidir sobre atos constritivos realizados contra a recuperanda.
+2. Ainda, de acordo com a tese definida no Tema Repetitivo n. 1.151/STJ, "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador".
+4. No caso, o Juízo da execução trabalhista determinou a intimação da recuperanda para o pagamento do débito, sob pena de penhora, violando, assim, a competência do Juízo da recuperação judicial.
+5. Por fim, não há se falar em incidência da Súmula n. 59/STJ, pois, tratando-se de matéria de competência absoluta, como, na espécie, "(..) no âmbito dos processos judiciais que tratam de falência e recuperação judicial, inexiste prazo estipulado em lei para a interposição de conflito de competência, o qual pode ser manejado a qualquer momento, nas hipóteses em que juízo incompetente passa a deliberar sobre o patrimônio da empresa falida/recuperanda" (AgInt nos EDcl no CC 165.415/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 27/11/2019, DJe de 2/12/2019.).
+Manutenção da decisão agravada.
+Agravo interno improvido.
+(AgInt no CC n. 192.559/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 15/8/2023, DJe de 18/8/2023, grifei.)
+No mais, destaca-se que, "ainda que se atribua o caráter extraconcursal a crédito, incumbe ao juízo em que se processa a recuperação judicial deliberar sobre os atos expropriatórios e sopesar a essencialidade dos bens de propriedade de empresa passíveis de constrição e a solidez do fluxo de caixa" (AgInt no CC n. 194.397/MG, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 28/6/2023, DJe de 3/7/2023).
+A propósito, cito:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. LIMINAR CONCEDIDA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. A deliberação acerca da natureza concursal ou extraconcursal do crédito se insere na competência do Juízo universal, cabendo-lhe, outrossim, decidir acerca da liberação ou não de bens eventualmente penhorados e bloqueados, uma vez que se trata de juízo de valor vinculado à aferição da essencialidade do bem em relação ao regular prosseguimento do processo de recuperação.
+4. Agravo interno não provido.
+(AgInt no CC n. 178.571/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 15/2/2022, DJe de 18/2/2022.)
+Na espécie, verifica-se que o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE NATAL - RN determinou o prosseguimento da execução contra o patrimônio das empresas suscitantes (fls. 85-86), violando, assim, a competência do Juízo recuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP para quaisquer exames relativos a pagamento de débitos das suscitantes e constrição dos seus patrimônios.
+Os valores eventualmente constritos pelo JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE NATAL - RN deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DA RECUPERAÇÃO JUDICIAL.
