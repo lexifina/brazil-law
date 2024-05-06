@@ -1,0 +1,11 @@
+DECISÃO
+O Vice-Presidente do Tribunal Regional Federal da 4ª Região admitiu os REsps 2.119.284/RS, 2.119.285/SC, 2.115.484/RJ, 2.116.343/RJ, 2.079.105/RS, 2.082.072/RS, 2.081.472/RS, 2.080.584/PR e 2.110.282/RS como representativos da seguinte controvérsia repetitiva:
+(i) Se para provar a eficácia ou ineficácia do EPI (Equipamento de Proteção Individual) para a neutralização dos agentes nocivos à saúde e à integridade física do trabalhador, para fins de reconhecimento de tempo especial, basta o que consta no PPP (Perfil Profissiográfico Previdenciário), ou se a comprovação pode ser feita por outros meios probatórios e, nessa última circunstância, se a prova pericial é obrigatória;
+(ii) Se a exposição a agentes químicos reconhecidamente cancerígenos determina a irrelevância da utilização de EPI para a caracterização da especialidade.
+Os artigos 256 ao 256-D do Regimento Interno do Superior Tribunal de Justiça dispõem sobre as atribuições da presidência desta Corte para despachar, antes da distribuição, em recursos indicados pelos tribunais de origem como representativos da controvérsia. Contudo, essas prerrogativas foram delegadas à presidência da Comissão Gestora de Precedentes e de Ações Coletivas, mediante a Portaria STJ/GP 59, de 5 de fevereiro de 2024.
+Assim, determinei a abertura de vista dos autos ao Ministério Público Federal e a intimação das partes para que se manifestassem sobre a possível afetação dos referidos recursos ao rito dos repetitivos.
+Todavia, na petição n. 0024 007 2/2024, o Instituto Nacional do Seguro Social expressa seu interesse na desistência do prosseguimento deste especial, pelos motivos a seguir (p. 530):
+Ocorre que, conforme acima exposto, o reconhecimento da especialidade se deu à luz das particularidades do caso concreto consubstanciadas nos documentos apresentados. Desta maneira, a adoção de conclusão diversa exige o reexame da matéria fático-probatória, esbarrando na Súmula 07 desta Corte. Além disso, o recurso não combate de forma específica todos os fundamentos do acórdão, atraindo a incidência das Súmulas 283 e 284 do STF.
+Portanto, com fundamento no art. 998 do CPC, homologo o pedido de desistência do recurso, a fim de que produza seus efeitos legais.
+Publique-se.
+ EMENTA
