@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, de acórdão assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. ILEGITIMIDADE PASSIVA DE SÓCIOS. RESPONSABILIDADE TRIBUTÁRIA. ARTIGO 135 DO CÓDIGO TRIBUTÁRIO NACIONAL. CONTRIBUIÇÕES SOCIAIS DESCONTADAS DE EMPREGADOS NÃO REPASSADAS. ARTIGO 30 DA LEI 8.212/91. ARTIGO 168-A DO CÓDIGO PENAL.
+1. O redirecionamento da execução fiscal para os sócios depende da demonstração pelo Fisco Federal de que o descumprimento das obrigações tributárias decorreu de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.
+2. O mero registro na certidão de divida ativa de que a cobrança refere-se a valores de contribuições descontadas e não recolhidas é insuficiente para configurar a infração legal capaz de autorizar a desconsideração da personalidade jurídica, assim como apenas o não pagamento do tributo desautoriza a inclusão automática dos sócios.
+3. Embargos de declaração da União Federal rejeitados.
+Os Embargos de declaração foram rejeitados.
+A recorrente afirma que houve violação dos arts. 489, § 1º, VI, e 1.022, I e II, do CPC, do art. 139, I, "a" e "b" e § 1º do Decreto 89.312/1984, dos arts. 12, I e V, 20, 21, 28, I, 30, I, "a" e "b", 33, § 5º, e 95, "d", da Lei 8.212/1991, do art. 135 do CTN, do art. 168-A do Código Penal e do art. 2º, II, da Lei 8.137/1990.
+Contrarrazões às fls. 915-931, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.12.2023.
+A Corte regional consignou:
+Pois bem, o feito retoma à julgamento agora para que se analise se o não-repasse de contribuições sociais aos cofres da autarquia previdenciária descontadas dos empregados, configura a hipótese de infração à lei de que trata o artigo 135, caput do Código Tributário Nacional apta a justificar a inclusão no polo passivo da execução fiscal e redirecionamento da cobrança judicial aos sócios da pessoa jurídica, tendo em vista que a conduta caracteriza, em tese, o ilícito administrativo previsto no artigo 30 da Lei 8.212/91 e o crime do artigo 168-A do 168-A do Código Penal.
+De plano, observo que a questão da configuração abstrata das infrações administrativa e penal embora mencionada no julgado que apreciou os embargos declaratórios opostos pela União Federal (fls. 622), não foi expressamente abordada, contudo, o exame do ponto não tem o condão de modificar o entendimento anteriormente firmado por esta Turma Julgadora.
+De fato, como se viu, mesmo que incluídos os nomes dos sócios na certidão de inscrição em dívida ativa, o redirecionamento da execução fiscal está a depender da demonstração pelo Fisco Federal de que o descumprimento das obrigações tributárias decorreu de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.
+Isto porque, embora o ordenamento jurídico confira presunção de certeza e liquidez à dívida ativa (artigo 204 do Código Tributário Nacional), não é possível desconsiderar a existência de personalidades jurídicas distintas entre a pessoa física e a pessoa jurídica, afastando, como regra, o patrimônio dos sócios da execução tributária.
+No caso vertente, embora seja incontroverso que o não-repasse de contribuições sociais descontadas da folha de pagamentos configura, em tese, o crime do artigo 168-A do Código Penal e a infração prevista no artigo 30 da Lei 8.212/91, entendo que o mero registro na certidão de dívida ativa de que a cobrança refere-se a valores de contribuições descontadas e não recolhidas, desprovida de qualquer documentação adicional comprobatória a este título, não é satisfatório para configurar a infração legal capaz de autorizar a desconsideração da personalidade jurídica, assim como apenas o não pagamento do tributo desautoriza a inclusão automática dos sócios, conforme decidido pelo Superior Tribunal de Justiça (RE 1.101.728/SP, P Seção, relator Min. Teori Zavascki, julgado em 11.03.2009 e DJe de 23.03.2009).
+Note-se que a questão criminal não é objeto da discussão, contudo, a União Federal não logrou demonstrar, ônus que lhe cabia com exclusividade, a efetiva ocorrência de crime de apropriação indébita (art. 168-A do Código Penal) e, por consequência, do ilícito previsto no artigo 30 da Lei 8.212/91.
+Ante o exposto, rejeito os embargos declaratórios opostos pela União Federal. (fls. 855-856,e -STJ)
+Preliminarmente, constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois não há vícios de omissão, contradição, obscuridade ou erro material no acórdão recorrido. O órgão julgador examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Extrai-se do aresto impugnado e das razões do Recurso Especial que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório dos autos, o que não se admite ante o óbice da Súmula 7/STJ.
+Diante do exposto, conheço parcialmente do Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
