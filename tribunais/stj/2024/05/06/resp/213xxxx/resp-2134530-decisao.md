@@ -1,0 +1,89 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por AUTO POSTO 7 LTDA., contra acórdão prolatado pela Tribunal Regional Federal da 4ª Região, assim ementado (fl. 153e):
+TRIBUTÁRIO. PIS/COFINS. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. VENDA DE CIGARROS. BASE DE CÁLCULO DAS OPERAÇÕES INFERIOR À PRESUMIDA. ILEGITIMIDADE DO SUBSTITUÍDO TRIBUTÁRIO.
+Na venda de cigarros, o comerciante varejista, na condição de substituído tributário, não tem legitimidade para postular a restituição do PIS/COFINS recolhido pelo substituto quando o preço de venda for inferior ao tabelado.
+Com amparo no art. 105, III, a e c, da Constituição da República aponta-se ofensa a dispositivos legais, alegando, em síntese, que "deve ser reconhecida a inexigibilidade do PIS/COFINS pagos a maior no regime de substituição tributária relativo à diferença entre o valor pago com base por estimativa e o valor que seria devido em razão de a operação final ter sido realizada por preço menor do que o estimado, nos termos da tese firmada pelo STF através do tema 228" (fl. 171e).
+Com contrarrazões, o recurso foi admitido.
+O Ministério Público manifestou-se às fls. 236/240e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Do prequestionamento
+Observo que em relação à alegada ofensa aos arts. 146,165, I, do CTN e 492 do CPC a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado dispositivo.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo quinquenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1327122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014 - destaque meu).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013 - destaque meu).
+- Da inexistência de base de cálculo presumida
+O Tribunal de origem decidiu a questão sob o fundamento de que os cigarros devem ser vendidos de acordo com o preço tabelado, conforme excertos do julgado (fls. 150/151e):
+Os importadores, os fabricantes e os comerciantes atacadistas, na condição de contribuintes e substitutos dos comerciantes varejistas, são os responsáveis pelo pagamento do PIS/COFINS, conforme prevê o art. 53 da Lei nº 9.532/97, art. 3º da LC nº 70/91, art. 5º da Lei nº 9.715/98, art. 29 da Lei nº 10.865/04 e art. 62 da Lei nº 11.196/05.
+A base de cálculo da COFINS é obtida multiplicando-se o preço de venda do produto no varejo por 291,69% e a do PIS por 3,42%, nos termos do art. 62 da Lei nº 11.196/05. Apurada a base de cálculo, a COFINS é devida com a alíquota de 3% e o PIS com a alíquota de 0,65%.
+Os preços dos cigarros são controlados e a SRFB divulga o nome das marcas comerciais e os preços de venda no varejo, conforme previsto no art. 16, §2º, da Lei nº 12.546/11. Os preços devem ser informados pelos fabricantes à SRFB e divulgados ao consumidor mediante tabela informativa que deverá ser entregue aos varejistas, os quais deverão afixar e manter em lugar visível a tabela, cobrando dos consumidores exatamente os preços dela constantes (art. 219 e 220 do Decreto nº 7.212/10).
+Os fabricantes é que estão obrigados a apurar e recolher as contribuições, com base nos preços de venda informados à fiscalização e divulgados ao público, na forma prevista em lei.
+Os substituídos tributários - comerciantes varejistas - vendem o produto de acordo com o exato preço de venda fixado na tabela expedida pelo fabricante, e que constitui o elemento material para a apuração da base de cálculo das contribuições. Os cigarros devem ser vendidos de acordo com o preço tabelado. Se o comerciante varejista decidir vender o produto por preço inferior, isto não lhe confere o direito à restituição do PIS/COFINS porque o contribuinte é o fabricante, importador ou comerciante atacadista.
+O Tema 228 do STF ("É devida a restituição da diferença das contribuições para o Programa de Integração Social - PIS e para o Financiamento da Seguridade Social - Cofins recolhidas a mais, no regime de substituição tributária, se a base de cálculo efetiva das operações for inferior à presumida") não se aplica à hipótese dos autos.
+De fato, o caso julgado pelo STF refere-se ao PIS/COFINS que eram exigidos dos postos de gasolina em um determinado período. Os postos de gasolina passaram a recolher as contribuições que antes eram devidas pelas refinarias, apuradas de acordo com uma base de cálculo estimada, ou seja, presumível preço de venda. No entanto, como as vendas dos combustíveis acabaram ocorrendo em valor inferior àquele estimado, o STF decidiu que os postos teriam direito à restituição, interpretando o art. 150, §7º da CF.
+No caso dos autos - ao contrário do que tinha acontecido com os postos de gasolina - o comerciante varejista nada recolhe a título de PIS/COFINS com as vendas de cigarros, uma vez que a tributação, na verdade, está concentrada no fabricante, importador ou comerciante atacadista.
+Assim, na venda de cigarros, o comerciante varejista, na condição de substituído tributário, não tem legitimidade para postular a restituição do PIS/COFINS recolhido pelo substituto quando o preço de venda for inferior ao tabelado.
+Entretanto, a parte recorrente deixou de impugnar fundamento suficiente do acórdão recorrido, alegando, apenas genericamente , que "há diferença entre a base de cálculo efetiva e a base presumida, gerando o direito liquido e certo daquele que pagou a mais pleitear a restituição" (fl. 167e).
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO MOVIDA CONTRA ESTADO. CHAMAMENTO DA UNIÃO AO PROCESSO. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RAZÕES DOS EMBARGOS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO EMBARGADO. SÚMULAS 283 E 284 DO STF. SUSPENSÃO EM RAZÃO DE RESP ADMITIDO COMO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. TEMA ESPECÍFICO.
+(..)
+3. A alegação de omissão do acórdão embargado por ter a ora embargante impugnando os fundamentos da decisão do Tribunal a quo atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, uma vez que não houve menção na decisão monocrática nem no acórdão em agravo regimental sobre tal ponto, de modo que restam dissociadas as razões dos embargos de declaração com relação ao constante nos autos.
+4. Quanto à suspensão do recurso especial, tendo em vista a admissão do REsp n. 1.144.382/AL como representativo de controvérsia, tem-se que este recurso trata da solidariedade passiva da União, dos Estados e dos Municípios tão somente, e não, como no caso em exame, sobre eventual chamamento ao processo de um dos entes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1.309.607/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2012, DJe 22/08/2012).
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Na leitura do acórdão recorrido, verifica-se que o Tribunal local não olvidou o fato de possivelmente existir concurso de preferência. Apenas foi consignado que a competência para análise de tal instituto seria do Juízo da Execução. Logo, não merece respaldo a tese da agravante de que foi "inobservada a existência de concursus fiscalis entre a Fazenda Nacional e Fazenda Estadual" (fl. 861, e-STJ). Nesse sentido, verifica-se que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão recorrido e que não houve impugnação de fundamento autônomo do aresto impugnado. Incidem, portanto, os óbices das súmulas 283 e 284/STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 254.814/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013).
+- Do Tema 228 do STF
+Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz da Constituição da República.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014 - destaques meus).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014 - destaques meus).
+- Da divergência jurisprudencial
+Noutro plano, anoto que o Recurso Especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, pois a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDÊNCIAL NÃO DEMONSTRADO. AUSÊNCIA DO INDISPENSÁVEL COTEJO ANALÍTICO.
+1. O dissídio jurisprudencial deve ser demonstrado conforme preceituam o art. 266, § 4º, do RISTJ, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2. É pacífico nesta Corte que "A simples transcrição de ementas ou de trecho isolado do v. acórdão paradigma, sem o necessário cotejo com trechos do v. acórdão embargado, não atende aos dispositivos legais e regimentais aplicáveis à espécie" (AgInt nos EREsp 1.751.975/PE, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 19/3/2020).
+3. Agravo interno não provido.
+(AgInt nos EREsp 1.461.319/SE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 18/05/2021, DJe 20/05/2021)
+- Dos honorários recursais
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+- Do dispositivo
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
