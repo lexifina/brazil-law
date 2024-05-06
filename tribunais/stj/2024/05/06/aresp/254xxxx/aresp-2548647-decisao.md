@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Gelcio Miguel Schibelbein contra decisão de fls. 310-314 proferida pela Vice-Presidência do Tribunal Regional Federal da 4ª Região que inadmitiu o recurso especial pelo teor da Súmula 7/STJ.
+O agravante em suas razões argumenta que a decisão agravada estaria equivocada, porque não se postula no recurso especial revolvimento do conjunto probatório, mas sim, revaloração dos critérios jurídicos utilizados nas decisões das instâncias ordinárias e que os precedentes invocados não guardam aderência estrita com o caso dos autos.
+Sem contraminuta.
+É o relatório. Passo a decidir.
+Cuida-se na origem de cumprimento individual da sentença proferida na ação coletiva n. 0006306-43.2016.4.01.3400/DF, referente ao pagamento da Parcela Autônoma de Equivalência Salarial - PAE aos substituídos da autora, a Associação Nacional dos Juízes Classistas da Justiça do Trabalho - ANAJUCLA.
+O acórdão recorrido deu provimento ao agravo de instrumento da União para reconhecer a ilegitimidade, asseverando que: i) "o título executivo beneficiou somente os magistrados classistas de primeiro grau aposentados sob a égide da Lei nº 6.903/81 e seus pensionistas"; ii) "no caso dos autos, a parte exequente exerceu o cargo de juiz classista de 01/03/1996 a 25/04/1997. Contudo, não se aposentou como juiz classista sob o regime da Lei nº 6.903/81".
+O recorrente em suas razões consigna que "é incontroverso nos autos que o nome da parte recorrente consta do rol de legitimados que instrui a petição inicial da Ação Coletiva 0006306-43.2016.4.01.3400" (fl. 151).
+Com efeito, como bem observado pela decisão agravada, tem-se que a alteração das conclusões firmadas no voto vencedor, tal como pretendido pelas recorrentes, encontra óbice na Súmula 7/STJ. No mesmo sentido, com idêntica temática dos autos, destaca-se o seguinte julgado: AREsp n. 2.548.695/RS, Ministro Herman Benjamin, DJe de 02/05/2024; AREsp n. 2.422.873/PR, Ministro Teodoro Silva Santos, DJe de 02/05/2024; REsp n. 2.130.183/PR, Ministro Sérgio Kukina, DJe de 30/04/2024; REsp n. 2.130.211/PR, Ministro Francisco Falcão, DJe de 26/04/2024; REsp n. 2.133.480/PR, Ministra Regina Helena Costa, DJe de 19/04/2024.
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LEGITIMIDADE ATIVA. CABIMENTO. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA SALARIAL - PAE. RMS 25841/DF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
