@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo de RENIVALDO NEVES DE JESUS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal - CF, contra acórdão proferido no julgamento de Apelação Criminal n. 0004744-26.26.2010.8.26.0022.
+Consta dos autos que o agravante foi condenado, junto com outros denunciados, pela prática do delito tipificado no art. 35, caput, da Lei n. 11.343/2006 (associação para o tráfico de drogas), às penas de 5 anos e 4 meses de reclusão, em regime inicial fechado, e pagamento de 1244 dias-multa.
+O recurso de apelação interposto pela defesa, foi parcialmente provido para reduzir as penas para 4 anos e 8 meses de reclusão, e pagamento de 1088 dias-multa, em regime fechado (fls. 971/981).
+Os embargos de declaração opostos pela defesa foram rejeitados (fls. 1003/1006).
+Em sede de recurso especial (fls. 1012/1029), a defesa alegou decisão contrária à prova dos autos. Aduz que não há provas para a condenação pelo crime de associação para o tráfico.
+Aponta ofensa ao art. 33, § 2º, "b", do CP, pois sendo primário e de bons ante cedentes, com pena inferior a oito anos, o regime correto seria o semiaberto. Pondera pela aplicação das Súmulas n. 440 do STJ e 718 e 719 do STF.
+Por fim, indica como violado o art. 619 do CPP, por omissão no acórdão recorrido.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 1131/1143).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 284 do STF; b) dissídio jurisprudencial não demonstrado; c) óbice da Súmula n. 7 do STJ (fls. 1146/1147).
+Agravo em recurso especial às fls. 1155/1170.
+Contraminuta do Ministério Público (fls. 1209/1212).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 1283/1286).
+É o relatório.
+Decido.
+Observa-se que o agravo em recurso especial não merece ser conhecido. Isso porque a defesa não impugnou especificamente os fundamentos de inadmissão do recurso especial.
+A decisão proferida no TJ não admitiu o recurso especial em razão de dissídio jurisprudencial não demonstrado, do óbice da Súmula n. 7 do STJ e do óbice da Súmula n. 284 do STF (fls. 1146/1147).
+No entanto, no agravo em recurso especial, a Defesa não se desincumbiu do dever de impugnar especificamente referidos fundamentos, reiterando as razões de mérito, sem demonstrar o desacerto da decisão que negou provimento ao recurso especial.
+Dessa forma, faz-se necessária a aplicação dos arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 - CPC e da Súmula n. 182 do STJ, por analogia, que consideram ser inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Nesse sentido (grifo nosso):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas razões de pedir do agravo em recurso especial, a parte deixou de refutar, especificamente, os fundamentos utilizados da decisão impugnada, o que atraiu a incidência da Súmula n. 182 do STJ.
+2. O acórdão de apelação indicou razões claras e suficientes para afastar a tese de negativa de autoria e a parte não indicou omissão sobre ponto essencial para o julgamento da lide ou redação de difícil compreensão, a justificar a interposição de recurso especial a pretexto de violação do art. 619 do CPP.
+3. Ainda, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp n. 1823881/PR, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 26/4/2021), o que não ocorreu.
+4. Não é suficiente, para requerer o afastamento do óbice da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. Deixou de ser indicada premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permitisse a pretendida absolvição.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 1.827.996/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/8/2021, DJe 16/8/2021).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INATACADOS. SÚMULA N. 182 DO STJ. INCIDÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA N. 7 DO STJ. APLICAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Incide a Súmula n. 182 do STJ se a parte deixa de impugnar especificamente os fundamentos da decisão agravada.
+2. Para afastar o óbice da Súmula n. 7 do STJ, a parte recorrente deve demonstrar, de forma clara e objetiva, mediante o desenvolvimento de argumentação hábil, a desnecessidade de reexame de fatos e provas para a aferição de violação de dispositivo de lei federal.
+3. Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.823.881/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 20/4/2021, DJe 26/4/2021).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. PLEITO PARA INTIMAÇÃO QUANTO À DATA DE JULGAMENTO, COM O FIM DE APRESENTAR SUSTENTAÇÃO ORAL. INCABÍVEL MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULAS N.os 7 e 83 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. PEDIDO PARA CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ .. .
+2. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à aplicação da Súmula 284 do Supremo Tribunal Federal, e à incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, atraindo, à espécie, a aplicação da Súmula n. 182/STJ.
+3. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+4. O comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+5. No tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+6. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade.
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 1.777.813/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/3/2021, DJe 25/3/2021).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.716.359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 10/05/2021).
+Ante o exposto, com fundamento no art. 932, inc. III, do CPC, e no art. 253, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
