@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INVENTÁRIO. HOMOLOGAÇÃO DE PARTILHA. INSURGÊNCIA DE ALGUNS HERDEIROS. PRETENSÃO DE SUSPENSÃO DO PROCESSO DE INVENTÁRIO. INEXISTÊNCIA DE OUTROS BENS A INVENTARIAR. O ÚNICO IMÓVEL A SER PARTILHADO É OBJETO DE DISCUSSÃO EM AÇÃO DE USUCAPIÃO AJUIZADA POR ALGUNS HERDEIROS. ESTE TRIBUNAL DE JUSTIÇA, QUANDO DO JULGAMENTO DA APELAÇÃO CÍVEL Nº202200734768, JULGOU PROCEDENTE A AÇÃO DE USUCAPIÃO E DECLAROU O DOMÍNIO DAQUELES HERDEIROS SOBRE O REFERIDO IMÓVEL RESIDENCIAL. INTERPOSIÇÃO DE RECURSO ESPECIAL. PENDÊNCIA DO JUÍZO DE ADMISSIBILIDADE PELO PRESIDENTE DESTA CORTE DE JUSTIÇA. A AQUISIÇÃO DO ÚNICO IMÓVEL INVENTARIADO, VIA USUCAPIÃO, POR ALGUNS HERDEIROS, PODERÁ AFETAR A PARTILHA NA AÇÃO DE INVENTÁRIO, SENDO PRUDENTE A DETERMINAÇÃO DE SUSPENSÃO DO FEITO ATÉ O TRÂNSITO EM JULGADO DA AÇÃO DE USUCAPIÃO, CONFORME PREVÊ O ARTIGO 313, INCISO V, ALÍNEA "A", DO CPC/15, EM RESPEITO AOS PRINCÍPIOS DA ECONOMIA PROCESSUAL, DA SEGURANÇA JURÍDICA E DA EFETIVIDADE DO PROCESSO. PRECEDENTES. ANULAÇÃO DA SENTENÇA. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 1225, 1228, I, 1784, 1829, I, II, II, IV, do Código Civil, além de dissídio jurisprudencial.
+Assim posta a questão, verifico que os temas de que cuidam os dispositivos tidos por violados - referentes a direitos reais, abertura da sucessão e vocação hereditária - não foram objeto de debate pelo acórdão recorrido.
+Ausente o necessário prequestionamento do tema, é inviável o recurso especial, consoante dispõe a Súmula 282/STF, aplicável à espécie.
+Além disso , com efeito, o Tribunal de origem determinou a suspensão do feito até que ficasse decidida em definitivo a questão da propriedade do bem a ser inventariado. As razões para tanto não foram impugnadas no recurso especial, o que faz aplicável ao caso também a Súmula 283/STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
