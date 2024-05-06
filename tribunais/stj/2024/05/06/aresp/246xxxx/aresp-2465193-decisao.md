@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado em desfavor de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 344):
+AGRAVO DE INSTRUMENTO Falência - Pedido de retificação do Quadro Geral dos Credores - Reserva de crédito deferida Juros de mora e remuneratórios fixados até a data da quebra - Crédito classificado provisoriamente como quirografário Insurgência do banco - Alegação de que: i) o crédito é real; ii) inaplicável o art. 54, § 1º, do Decreto-lei 7.661/45; iii) a correção monetária deve incidir até a data do pagamento da dívida; iv) os juros moratórios e remuneratórios devem ser computados até a data da quebra, salvo se houver ativo suficientes para o pagamento de todos os credores - Descabimento - Crédito apontado na petição inicial que foi reservado - Ausente decisão definitiva sobre a classificação do crédito Não conhecimento do recurso nestes pontos - Pretensão da instituição financeira com relação à correção monetária que foi reconhecida pelo síndico - Questão prejudicada -Contra a massa não incidem juros, ainda que estipulados forem, se o ativo apurado não bastar para o pagamento do principal Inteligência do art. 26 da antiga Lei de Falências - Ativos encontrados que sequer pagam as dívidas trabalhistas - AGRAVO IMPROVIDO na parte conhecida.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 377-382).
+Nas razões do recurso especial, o recorrente alegou, além de divergência jurisprudencial, violação aos arts. 1.022, I e 1.026, §2º, do CPC/2015, sustentando negativa de prestação jurisdicional e ausência de embargos protelatórios a ensejar a imposição da multa aplicada.
+Defendeu que não houve nenhuma explicação sobre em que medida haveria o caráter protelatório com a interposição dos embargos de declaração e que estes são os primeiros embargos opostos, que pretendiam integrar a decisão, tornando-a mais compreensível.
+Contrarrazões às fls. 449-454 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal merece prosperar.
+No tocante à multa em sede de embargos de declaração, examinando o acórdão, constata-se que os aclaratórios foram manifestados com o intento de prequestionar a matéria enfocada no âmbito do apelo especial.
+Assim, ausente o caráter protelatório, a multa deve ser afastada, aplicando-se, ao caso, a previsão constante na Súmula 98 desta Corte: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Veja-se:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ADIMPLEMENTO CONTRATUAL. AGRAVO DE INSTRUMENTO. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 1.062, § 2º, do NCPC. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA N.º 98 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O entendimento desta Corte é no sentido de ser descabida a multa prevista no art. 1.026, § 2º, do NCPC, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração. Incidência da Súmula nº 98/STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos. 5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.563.279/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022, grifos nossos.)
+Portanto, a multa aplicada em sede se embargos de declaração deve ser excluída.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial com o fim de afastar a multa por embargos protelatórios.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. EMBARGOS PROTELATÓRIOS. NÃO OCORRÊNCIA. MULTA. EXCLUSÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
