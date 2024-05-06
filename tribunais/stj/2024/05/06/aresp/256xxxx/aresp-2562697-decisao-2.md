@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por EFG SERVICOS FINANCEIROS LTDA (e-STJ, fls. 1134-1140) contra decisão que inadmitiu recurso especial (e-STJ, fls. 1084-1088) fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/09/2023.
+Concluso ao gabinete em: 23/04/2024.
+Ação: de prestação de contas ajuizada pela agravante em face da Instituição bancária (agravada), visando apurar as quantias recebidas e pagas, bem como o exame das receitas e despesas relativas a determinados negócios jurídicos.
+Sentença: rejeitou parcialmente as contas apresentadas pela Instituição bancária e homologou parcialmente os cálculos contábeis realizados pelo Perito Judicial, declarando saldo credor em favor da parte autora (agravada), no valor de R$ 4.538,03 (quatro mil, quinhentos e trinta e oito reais e três centavos). Condenou a parte agravante ao pagamento de honorários por equidade, no valor de R$ 15.000,00 (quinze mil reais).
+Acórdão: deu parcial provimento à apelação do agravado, tão somente para afastar a fixação da verba honorária por equidade, nos termos da seguinte ementa (e-STJ, fls. 1038):
+"Apelação - Ação de Prestação de Contas - Primeira Fase Procedimental absorvida pela Segunda Fase - Conta corrente - Realização de prova pericial - Sentença que acolheu parte do laudo, declarando saldo em favor da parte autora - Sucumbência a ela m carreada - Recurso interposto apenas pelo réu  Trabalho técnico imparcial e elaborado com observância do tecnicismo necessário , com observância do contraditório -- Inconformismo recursal que se apresenta genérico - Requerido que deixa de exibir documentos suficientes para justificar os lançamentos questionados - Honorários advocatícios Pretensão do apelante de afastar o arbitramento por equidade - Acolhimento - Exegese do Tema n.º 1.076 do Superior y Tribunal de Justiça Fixação com base no proveito econômico obtido ó pelo réu - Verba sucumbencial alterada Recurso provido apenas para esse fim."
+Embargos de Declaração: opostos pelo agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 85 e 86, Parágrafo Único, do Código de Processo Civil, sob o argumento de que sagrou-se vencedor na demanda, razão pela qual a Instituição bancária (agravada) deve responder integralmente pelos honorários, custas e despesas processuais.
+Ressalta que, ainda que se reconheça que a Instituição bancária sucumbiu em parte mínima dos pedidos, deve responder proporcionalmente pela verba honorária.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas.
+A r. sentença que decidiu que houve sucumbência mínima da parte agravada, razão pela qual fixou verba honorária exclusivamente em seu favor. É o que se extrai da passagem do acórdão dos embargos de declaração (e-STJ, fl. 1041):
+"Diante da pretensão dos autores de ver prestadas as contas para declaração de saldo credor na ordem de R$ 908.562,20 (fls. 250/252), bem como da sucumbência mínima do réu, posto reconhecido saldo a ser devolvido no valor de R$ 4.538,03, ficam carreados aos demandantes os ônus da sucumbência.
+Ora, nos termos do art. 85, § 2 0 , CPC, os honorários serão fixados entre o mínimo de 10 e o máximo de 20% sobre o valor da condenação, do proveito econômico ou sobre o valor da causa."
+Com efeito , a jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático probatória, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Nesse sentido: AgInt no REsp 1987038 / RS; 1ª Turma, DJe 20/10/2022; AgInt no REsp 1.418.989/RS, 4ª Turma, DJe 01/10/2020; AgInt no AREsp 1.496.524/MS, 3ª Turma, DJe 18/11/2019; AgInt no AREsp 1.173.934/SP, 3ª Turma, DJe 21/09/2018; EDcl no AgRg no AREsp 151.072/SP, 4ª Turma, DJe 11/09/2018; AgInt no AREsp 54.203/SP, 4ª Turma, DJe 28/08/2018; AgInt no REsp 1.537.455/SC, 3ª Turma, DJe 04/12/2017.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor do proveito econômico da demanda (e-STJ fls. 1041) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. PROCEDIMENTAL ABSORVIDA PELA SEGUNDA FASE. CONTA CORRENTE. REALIZAÇÃO DE PROVA PERICIAL. LAUDO. DECLARAÇÃO. SALDO CREDOR EM FAVOR DA PARTE AUTORA. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO DA SUCUMBÊNCIA. REEXAME DE FATOS E PROVAS.
+1. Ação de prestação de contas.
+2. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático probatória, incidindo a Súmula 7/STJ.
+3. Agravo conhecido. Recurso especial não conhecido.
