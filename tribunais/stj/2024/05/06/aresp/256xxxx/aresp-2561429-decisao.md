@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. REJULGAMENTO. VERBA SALARIAL. IMPENHORABILIDADE. MITIGAÇÃO. IMPOSSIBILIDADE NA HIPÓTESE.
+1. No julgamento de recurso interposto contra o acórdão deste Colegiado que havia negado provimento ao agravo, o Superior Tribunal de Justiça reconheceu a possibilidade, em tese, de penhora de parcela da remuneração do executado, desde que preservada a subsistência digna do devedor e de sua família, a ser analisada no caso concreto. Na reapreciação do recurso, não se mostra cabível a constrição em qualquer patamar, sob o risco de afrontar a dignidade do devedor e de sua família, considerando a modesta renda mensal da parte.
+2. Agravo de instrumento conhecido e não provido (fl. 248).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 833, § 2º, do CPC, no que concerne à possibilidade de penhora de quantia encontrada por meio de pesquisa pelo SISBAJUD, por se tratar de dívida relativa a honorários advocatícios, os quais se caracterizam como verba de natureza alimentar, excepcionando-se a regra de impenhorabilidade, trazendo a seguinte argumentação:
+A C. 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios entendeu pela impossibilidade de penhorar da quantia encontrada via pesquisa SISBAJUD.
+Isso posto, considerando o sedimentado entendimento de que os honorários advocatícios possuem natureza alimentar, possível é a penhora dos proventos do recorrido, haja vista que, inobstante tais rendimentos possuam caráter alimentar, os honorários advocatícios também o possuem, de modo que é possível a penhora.
+ ..
+Portanto, a cobrança de honorários advocatícios, por se revestirem de natureza alimentar, excepciona a regra de impenhorabilidade, conforme previsto no §2º, do art. 833, do CPC.
+ ..
+Portanto, verifica-se que esse Eg. STJ entende que a penhora da verba salarial é legítima quando se destinar ao pagamento de prestação alimentícia, aqui incluídos os honorários advocatícios em decorrência de sua natureza alimentar.
+Neste sentido, verifica-se que é possível a penhora dos proventos do recorrido, tendo em vista que se trata de reembolso de créditos de natureza salarial. E mais, ainda que seja considerada a natureza alimentar desta restituição, a penhora de tal verba é plenamente viável para a quitação dos honorários advocatícios, os quais devem ser devidamente atualizados, considerando a sua natureza alimentar (fls. 309/317).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/M T, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
