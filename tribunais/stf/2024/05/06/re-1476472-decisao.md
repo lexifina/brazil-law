@@ -1,0 +1,101 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. AÇÃO DE CONTROLE CONCENTRADO. NATUREZA OBJETIVA. AUSÊNCIA DE TUTELA DE DIREITOS SUBJETIVOS DETERMINADOS. ICMS-DIFAL. RE Nº 1.287.019-RG/DF; TEMA RG Nº 1.093. ADI Nº 5.469/DF. MODULAÇÃO DOS EFEITOS DA DECISÃO. AÇÕES EM CURSO NA DATA DE JULGAMENTO DO PARADIGMA. ACÓRDÃO RECORRIDO EM HARMONIA COM O QUE DECIDIDO PELO STF. NEGATIVA DE SEGUIMENTO.
+
+    1. Trata-se de recurso extraordinário interposto contra decisão da 2ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. DIREITO TRIBUTÁRIO. DIFAL NAS OPERAÇÕES PARA DESTINATÁRIO NÃO CONTRIBUINTE. NECESSIDADE DE LEI COMPLEMENTAR. TEMA 1093/STF. INCIDÊNCIA DA MODULAÇÃO DOS EFEITOS, POIS PROPOSTA A AÇÃO DEPOIS DO JULGAMENTO. SEGURANÇA DENEGADA.
+
+    1. NÃO HÁ FALAR EM VIOLAÇÃO À COISA JULGADA, NA MEDIDA EM QUE O MANDADO DE SEGURANÇA Nº 5019772-64 POSSUI OBJETO DIVERSO DO QUE O CONTIDO NO PRESENTE, QUE VISA A INEXIGIBILIDADE DE RECOLHIMENTO DO DIFAL DE ICMS POR ASSOCIAÇÃO À ABRADIMEX NA ADI 5.439 E SER CONSIDERADA ‘AÇÃO EM CURSO’, O QUE NÃO SE ADMITE PARA DISCUSSÃO DA EXIGÊNCIA DO DIFAL.
+
+    2. O AJUIZAMENTO PELA ASSOCIAÇÃO BRASILEIRA DOS DISTRIBUIDORES DE MEDICAMENTOS ESPECIAIS (ABRADIMEX), ENTIDADE DE CLASSE DE ÂMBITO NACIONAL, DA ADI 5.439, PARA DECLARAR A INCONSTITUCIONALIDADE FORMAL DA CLÁUSULA SEGUNDA DO CONVÊNIO ICMS N.° 93/2015, FIRMADO NO ÂMBITO DO CONFAZ NÃO SE CONSTITUI EM ‘AÇÃO JUDICIAL EM CURSO’ A QUE ALUDE A MODULAÇÃO DE EFEITOS PROFERIDA NO RE 1.287.019 (TEMA 1093). ISTO PORQUE O AJUIZAMENTO DA ADI 5.439 SE DEU NA DEFESA DA ORDEM CONSTITUCIONAL E NÃO NA TUTELA DE DIREITOS SUBJETIVOS DETERMINADOS, AINDA QUE, NO CASO EM APREÇO DA ABRADIMEX, DE SEUS ASSOCIADOS.
+
+    3. NO JULGAMENTO CONJUNTO DA ADI 5469 E DO RE 1287019, TEMA 1093/STF, ACABOU FIRMADA TESE NO SENTIDO DE QUE ‘A COBRANÇA DO DIFERENCIAL DE ALÍQUOTA ALUSIVO AO ICMS, CONFORME INTRODUZIDO PELA EMENDA CONSTITUCIONAL Nº 87/2015, PRESSUPÕE EDIÇÃO DE LEI COMPLEMENTAR VEICULANDO NORMAS GERAIS’. MAS HOUVE MODULAÇÃO DE EFEITOS, POSTERGADA PARA O EXERCÍCIO FINANCEIRO SEGUINTE (2022), EXCETO PARA AS AÇÕES EM CURSO.
+
+    4. EMBORA, DE REGRA, A EFICÁCIA DAS DECISÕES PROFERIDAS EM CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE OCORRA A PARTIR DA PUBLICAÇÃO DA ATA DE SEU JULGAMENTO E, NESSE SENTIDO, VINHAM SENDO RESOLVIDAS AS DEMANDAS PROPOSTAS, A PARTIR DO JULGAMENTO DO TEMA 1093, ESPECIFICAMENTE NA QUESTÃO DAS AÇÕES A SEREM RESSALVADAS DA MODULAÇÃO DE EFEITOS, RECENTE DECISÃO DO STF ESCLARECEU, EM SEDE DE EMBARGOS DE DECLARAÇÃO, NA ADI 5469, QUE FORAM RESSALVADAS ‘DA MODULAÇÃO, CONTUDO, AS AÇÕES JUDICIAIS ENTÃO EM CURSO, OU SEJA, AS AÇÕES JUDICIAIS PROPOSTAS ATÉ A DATA DO REFERIDO JULGAMENTO’. LOGO, EM SE TRATANDO DE MANDADO DE SEGURANÇA IMPETRADO EM 15/03/2022, APÓS O REFERIDO JULGAMENTO, A REFORMA DA SENTENÇA PARA A DENEGAÇÃO DA SEGURANÇA É DE RIGOR, JÁ QUE NÃO HÁ FALAR EM DIREITO LÍQUIDO E CERTO DIANTE DE MARCO TEMPORAL DEFINIDO PELO STF.” (e-doc. 11, p. 8-9).
+
+    2. Os embargos de declaração opostos foram desprovidos (e-doc. 15).
+
+    3. No presente recurso extraordinário, interposto com base no art. 102, inc. III, al. “a”,  da Constituição da República, os recorrentes alegam que o acórdão combatido negou vigência aos arts. 5º, incs. XXI e XXXVI, e 146, inc. III, al. “a”, da Constituição da República e à ADI nº 5.439/DF.
+
+    3.1. Argumentam que “a ABRADIMEX manejou a ADI 5.439 no dia 15/12/15, isto é, em data anterior ao marco temporal fixado pelo STF no julgamento do Tema 1.093”, e que “as recorrentes são comprovadamente filiadas à ABRADIMEX, fato que é incontroverso, seja porque a parte adversa não se insurgiu a este respeito, seja porque foi corroborado pelo TJRS em mais de uma oportunidade. E, a par de a associação ter elaborado questionamento pela via objetiva da declaração de inconstitucionalidade, necessitou, para tanto, de autorização por parte de seus associados (CRFB, art. 5º, XXI). E, por essa razão, a referida demanda deve ser aproveitada em favor desses últimos para seu enquadramento como "ações judiciais em curso" (e-doc. 19, p. 8-9).
+
+    3.2. Pedem o “provimento ao recurso extraordinário a fim de reformar o acórdão e a decisão integradora recorridos no sentido de reconhecer a ressalva da modulação de efeitos às recorrentes em razão de estarem enquadradas no conceito de ‘ações judiciais em curso’ pelo prévio manejo da ADI 5.439 pela ABRADIMEX, associação que são comprovadamente filiadas, e cujos efeitos da ADI 5.469 e RE 1.287.019 lhes foi estendidos, restaurando a ordem outrora concedida para afastar-se os atos administrativos e judiciais de cobrança do diferencial de alíquotas de ICMS até o dia 31/12/21 pela então inexistência da LC n. 190/22” e, “subsidiariamente, caso se entenda que há ofensa reflexa a dispositivo constitucional por pressupor a revisão da interpretação de lei federal, que este recurso extraordinário seja convertido em especial com a devolução dos autos ao STJ que receba, processe, conheça e profira julgamento (CPC, art. 1.033)” (e-doc. 19, p. 12).
+
+    4. Em contrarrazões, o recorrido alega que “esta ação não estava em curso, vale dizer, não se cuidava de ação pendente. Muito antes pelo contrário, foi ajuizada depois em que concluído o julgamento pelo Supremo, finalizado em 24.2.2021, uma vez que foi proposta – impetrada – em 29/09/2021. Portanto, está abrangida pelos efeitos modulatórios da decisão do eg. STF” (e-doc. 23, p. 5).
+
+    4.1. Afirma que “a ABRADIMEX atuou, na ADI 5439, como legitimada em processo objetivo de controle de constitucionalidade, nos termos do artigo 103 da Constituição da República, e não como representante coletivo de demandas subjetivas dos associados” (e-doc. 23, p. 6).
+
+    5. O recurso extraordinário foi admitido (e-doc. 27).
+
+    É o relatório.
+
+    Decido.
+
+    6. O recurso não merece prosperar.
+
+    7. Transcrevo, para melhor compreensão da controvérsia, os fundamentos do acórdão recorrido:
+
+    “Infere-se dos autos que em 15/03/2022, PROFARMA SPECIALTY S.A (MATRIZ) impetrou mandado de segurança contra ato praticado pelo SUBSECRETÁRIO DO DEPARTAMENTO DA RECEITA PÚBLICA ESTADUAL NO RIO GRANDE DO SUL, requerendo a concessão da segurança para ‘assegurar à Impetrante, o direito quanto à inaplicabilidade da modulação dos efeitos do julgamento da ADI 5.469, por força da ADI 5.439 ajuizada pela ABRADIMEX, assegurando à Impetrante, o direito de não recolher o ICMS-DIFAL ao Estado até o final do ano calendário de 2021, nos termos do que foi decidido pelo STF na ADI 5.469 e RE 1.287.019, relativamente a operações interestaduais com mercadorias vendidas a consumidores finais não contribuintes do ICMS.’
+
+    (...)
+
+    O ajuizamento pela Associação Brasileira dos Distribuidores de Medicamentos Especiais (ABRADIMEX), entidade de classe de âmbito nacional, da ADI 5.439, para declarar a inconstitucionalidade formal da Cláusula Segunda do Convênio ICMS n.° 93/2015, firmado no âmbito do CONFAZ não se constitui em ‘ação judicial em curso’ a que alude a modulação de efeitos proferida no RE 1.287.019 (Tema 1093).
+
+    Isto porque cuida-se de processo de controle concentrado tem natureza objetiva, não se tratando de via processual na defesa dos interesses individuais e concretos dos seus associados. O ajuizamento da ADI 5.439 se deu, portanto, na defesa da ordem constitucional e não na tutela de direitos subjetivos determinados, ainda que, no caso em apreço da ABRADIMEX, de seus associados.
+
+    Em síntese, a Associação Brasileira dos Distribuidores de Medicamentos Especias (ABRADIMEX), nos autos da Ação Direta de Inconstitucionalidade 5.439, não atuou na defesa dos interesses individuais e concretos dos seus associados, motivo pelo qual não se enquadra ‘nas ações judiciais em curso’.
+
+    (...)
+
+    No mais, impende aplicar a tese recentemente fixada pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento em conjunto da ADI 5.469 e do RE 1.287.019 (Tema 1093), julgado em 24/02/2021, no sentido de que ‘A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais’.
+
+    Vale destacar que o Supremo Tribunal Federal aprovou, por maioria dos votos, a modulação de efeitos da decisão proferida no RE 1.287.019 (Tema 1093), no sentido de que o referido julgamento produza efeitos a partir de 01/01/2022 (exercício seguinte à data do julgamento), ressalvados os direitos daqueles contribuintes que já possuíam ações judiciais em curso, à data do julgamento do paradigma, ou seja, em 24/02/2021 (vide ADI 5469 ED, Rel. Min. Dias Toffoli, j. em 16/08/2021).
+
+    Considerando-se que a demanda foi ajuizada em 15/03/2022, ou seja, após o julgamento do Tema 1093 (24/02/2021), não há falar em violação do direito líquido e certo alegado pela impetrante a amparar a concessão do postulado.” (e-doc. 11, p. 2-4).
+
+    8. O Supremo Tribunal Federal assentou que “o controle concentrado de constitucionalidade não se presta à defesa de interesses individuais e concretos, dada a natureza objetiva e abstrata do processo de fiscalização concentrada”. Nesse sentido:
+
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE – DEFESA DE INTERESSES INDIVIDUAIS E CONCRETOS EM SEDE DE CONTROLE ABSTRATO DE CONSTITUCIONALIDADE – INADMISSIBILIDADE – NATUREZA OBJETIVA DO PROCESSO DE FISCALIZAÇÃO CONCENTRADA DE CONSTITUCIONALIDADE – IMPUGNAÇÃO TÓPICA OU FRAGMENTÁRIA DE DIPLOMAS LEGISLATIVOS CONEXOS QUE INTEGRAM COMPLEXO NORMATIVO INCINDÍVEL – INVIABILIDADE – RECURSOS DE AGRAVO IMPROVIDOS. INADEQUAÇÃO DO CONTROLE NORMATIVO ABSTRATO PARA A DEFESA DE INTERESSES INDIVIDUAIS E CONCRETOS – CONSEQUENTE INADMISSIBILIDADE DA AÇÃO DIRETA. – O controle normativo de constitucionalidade qualifica-se como típico processo de caráter objetivo, vocacionado, exclusivamente, à defesa, em tese, da harmonia do sistema constitucional. A instauração desse processo objetivo tem por função instrumental viabilizar o julgamento da validade abstrata do ato estatal em face da Constituição da República. O exame de relações jurídicas concretas e individuais constitui matéria juridicamente estranha ao domínio do processo de controle concentrado de constitucionalidade. – A tutela jurisdicional de situações individuais, uma vez suscitada a controvérsia de índole constitucional, há de ser obtida na via do controle difuso de constitucionalidade, que, supondo a existência de um caso concreto, revela-se acessível a qualquer pessoa que disponha de interesse e legitimidade (CPC, art. 3º). Doutrina. Precedentes. DIPLOMAS NORMATIVOS QUE INTEGRAM COMPLEXO NORMATIVO INCINDÍVEL – NECESSIDADE DE IMPUGNAÇÃO ABRANGENTE DE TODAS AS NORMAS UNIDAS PELO VÍNCULO DE CONEXÃO – INOCORRÊNCIA – INVIABILIDADE DA AÇÃO DIRETA. – Tratando-se de normas legais e de diplomas legislativos que se inter conexionam ou que mantêm, entre si, vínculo de dependência jurídica, cabe ao autor da ação direta, ao postular a declaração de inconstitucionalidade, abranger, no alcance desse ‘judicium’, todas as regras unidas pelo vínculo de conexão, sob pena de, em não o fazendo, tornar inviável a própria instauração do controle concentrado de constitucionalidade. – Em situação de mútua dependência normativa, em que as regras estatais interagem umas com as outras, condicionando-se, reciprocamente, em sua aplicabilidade e eficácia, revela-se incabível a impugnação tópica ou fragmentária de apenas algumas dessas normas, considerada a circunstância de o complexo normativo que elas integram qualificar-se como unidade estrutural incindível, a inviabilizar questionamentos seletivos e isolados de determinadas prescrições normativas. – Em tal contexto, e pelo fato de referidas normas integrarem a totalidade do sistema, não se admitem, em sede de controle normativo abstrato, impugnações isoladas ou tópicas, sob pena de completa desarticulação e desagregação do próprio sistema normativo a que se acham incorporadas. Precedentes.”
+
+    (ADI nº 2.422-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, j. 10/05/2012, p. 30/10/2014; grifos nossos).
+
+    8.1. No mesmo sentido foram as decisões monocráticas proferidas nos: ADPF nº 1.048/PI, Rel. Min. Dias Toffoli, j. 07/03/2023, p. 13/03/2023; ADPF nº 994/RJ, Rel. Min. Cármen Lúcia, j. 11/07/2022, p. 12/07/2022; ADPF nº 914/RJ, Rel. Min. Dias Toffoli, j. 06/12/2021, p. 09/12/2021.
+
+    9. O acórdão recorrido, concluiu que o “processo de controle concentrado tem natureza objetiva, não se tratando de via processual na defesa dos interesses individuais e concretos dos seus associados. O ajuizamento da ADI 5.439 se deu, portanto, na defesa da ordem constitucional e não na tutela de direitos subjetivos determinados, ainda que, no caso em apreço da ABRADIMEX, de seus associados” (e-doc. 11, p. 3), harmoniza-se com a jurisprudência deste Supremo Tribunal Federal.
+
+    10. Ademais, o Tribunal de origem concluiu que “a demanda foi ajuizada em 15/03/2022, ou seja, após o julgamento do Tema 1093 (24/02/2021), não há falar em violação do direito líquido e certo alegado pela impetrante a amparar a concessão do postulado” (e-doc. 11, p. 4; grifos nossos).
+
+    11. O Supremo Tribunal Federal, ao julgar a ADI nº 5.469-ED/DF, Rel. Min. Dias Toffoli, Tribunal Pleno, j. 17/08/2021, p. 03/09/2021, secundado à unanimidade, o Relator expressamente identificou o termo final da modulação de efeitos perfectibilizada em 24/02/2021. Justificou esse reconhecimento pelo fato de ter sido esse o momento em que se julgou o mérito da controvérsia constitucional. Confira-se:
+
+    “Com efeito, o Tribunal Pleno, na sessão de 24/2/21, julgou, por maioria, procedente o pedido formulado na ação direta de inconstitucionalidade, declarando a inconstitucionalidade formal das cláusulas primeira, segunda, terceira, sexta e nona do Convênio ICMS nº 93, de 17 de setembro de 2015, do Conselho Nacional de Política Fazendária (CONFAZ).
+
+    Na mesma ocasião, a Corte, também por maioria, concluiu ser o caso de se modularem os efeitos dessa decisão, tal como foi registrado na ata de julgamento do mérito, ressalvando da modulação, contudo, as ações judiciais então em curso, ou seja, as ações judiciais propostas até a data do referido julgamento.”
+
+    11.1. Em novos embargos de declaração, desta feita opostos pela Associação Brasileira de Comércio Eletrônico, a parte embargante sustentou contradição no julgamento quanto às ações em curso, pois, a seu ver, “a data de corte para a ressalva das ações em curso, em relação aos efeitos da modulação, é o dia da publicação da ata de julgamento (3/3/21)”.
+
+    11.2. Sua Excelência o Relator rejeitou a existência desse vício em específico da maneira que segue:
+
+    “A mesma compreensão, mutatis mutandis, se aplica no tocante aos embargos de declaração apreciados na decisão ora atacada.
+
+    Em relação ao segundo ponto, os embargos de declaração também merecem ser rejeitados, por inexistência dos vícios apontados.
+
+    Com efeito, vale recordar que o Tribunal Pleno, no acórdão embargado, concluiu, por unanimidade, não ter havido omissão, contradição, obscuridade ou erro material quanto ao estabelecimento, no julgamento do mérito, de que as ações ressalvadas da modulação dos efeitos da decisão seriam aquelas propostas até 24/2/21.”
+
+    12. No caso dos autos, observo que o mandado de segurança impetrado foi subscrito em 15/03/2021. Portanto, o acórdão recorrido revela-se escorreito, quando afirma que a presente ação não se encontra ressalvada pela modulação de efeitos realizada pelo Plenário deste Supremo Tribunal Federal.
+
+    13. Nesse sentido, confira-se o entendimento externado recentemente pela Primeira Turma do STF no âmbito do RE nº 1.416.396-AgR/DF, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 27/03/2023, p. 04/04/2023, cuja ementa transcrevo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. ICMS. DIFERENCIAL DE ALÍQUOTAS – DIFAL. INCONSTITUCIONALIDADE DECLARADA PELO STF. TEMA 1093 DA REPERCUSSÃO GERAL. MODULAÇÃO DOS EFEITOS DO JULGADO. AÇÕES EM CURSO NA DATA DE JULGAMENTO DO PRECEDENTE PARADIGMA. 1. Na origem, cuida-se de Ação Ordinária ajuizada por TELEWINSHOP COMÉRCIO DE PRODUTOS E SERVIÇOS DIV. LTDA em face do DISTRITO FEDERAL, requerendo que o réu seja impedido de exigir o DIFAL-ICMS, bem como o adicional para o Fundo Estadual de Combate à Pobreza - FECP, nas operações interestaduais para consumidor final, em razão da declaração de inconstitucionalidade da Lei Distrital 5.546/2015. 2. Julgado procedente o pedido inicial pelo Juízo singular (Vol. 8), o Tribunal de origem reformou parcialmente a sentença para reconhecer a validade apenas do adicional do fundo de combate à pobreza, permanecendo o impedimento de cobrança do DIFAL. 3. Em 24/2/2021, no julgamento do RE 1.287.019-RG, de relatoria do Min. MARCO AURÉLIO, em que constou como redator para acórdão o Min. DIAS TOFFOLI, DJe de 25/5/2021, o Plenário desta SUPREMA CORTE fixou a seguinte tese ao Tema 1093 da repercussão geral: A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais. 4. Com o escopo de conferir segurança jurídica à matéria, ainda na sessão de julgamento do mérito, esta SUPREMA CORTE entendeu por bem modular os efeitos da decisão, para conferir-lhe efeitos prospectivos, de modo que nos casos em que a lei local instituiu o DIFAL, houve modulação dos efeitos da decisão para se fazer constar que a declaração de inconstitucionalidade passasse a valer apenas a partir do exercício financeiro seguinte à conclusão do julgado (que se deu em 2022). Ressalvou-se dos efeitos prospectivos, todavia, as ações judiciais que estivessem em curso no momento do julgamento de mérito da ação 5. No presente caso concreto, a celeuma gira em torno do marco temporal que deve ser considerado para fins do reconhecimento de que a ação judicial já estava em curso. No ponto, o Tribunal de origem entendeu por bem utilizar a data de 2/3/2021. 6. O DISTRITO FEDERAL insurge-se contra essa decisão argumentando que, ao contrário do estabelecido na origem, deve ser utilizado como marco temporal a data do julgamento de mérito (24/02/2021), de forma que apenas as ações ajuizadas até essa data estariam ressalvadas da modulação dos efeitos da declaração de inconstitucionalidade do DIFAL, instituído pela Lei Distrital 5.546/2015. 7. No julgamento dos Embargos de Declaração opostos em face do RE 1.287.019 (Tema 1093), DJe de 15/3/2022, de forma enfática, a decisão proferida pelo Eminente Min. DIAS TOFFOLI assentou a clareza da decisão de mérito, no sentido de que deve ser utilizado como parâmetro a data da sessão de julgamento, qual seja 24/2/2021. 8. No caso concreto, a parte autora ajuizou a presente ação apenas em 26 de Fevereiro de 2021 (Vol. 2), de forma que a ela não se aplica a ressalva da modulação dos efeitos proferida do julgamento do Tema 1093. 9. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar multa de um por cento do valor atualizado da causa ao agravado, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).” (grifos nossos).
+
+    14. Com o mesmo entendimento sobre a questão, menciono as seguintes decisões monocráticas: RE nº 1.426.814/MG, Rel. Min. Alexandre de Moraes, j. 29/03/2023, p. 31/03/2023; RE nº 1.429.917/SP, Rel. Min. Edson Fachin, j. 31/05/2023, p. 02/06/2023; RE nº 1.424.340/SP, Rel. Min. Cármen Lúcia, j. 24/03/2023, p. 18/04/2023; ARE nº 1.414.767/RS, Rel. Min. Gilmar Mendes, j. 14/03/2023, p. 20/03/2023; e ARE nº 1.368.680/SP, Rel. Min. Nunes Marques, j. 1º/08/2022, p. 04/08/2022.
+
+    15. Ante o exposto e apreciado, nego seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF. Por se tratar, na origem, de mandado de segurança, inaplicável o art. 85, § 11, do CPC (enunciado nº 512 da Súmula do STF e art. 25 da Lei nº 12.016, de 2009).
+
+    Publique-se.
+
+    Brasília, 6 de maio de 2024.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
