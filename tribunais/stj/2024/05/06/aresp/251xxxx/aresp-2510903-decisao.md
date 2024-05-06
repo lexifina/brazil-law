@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por CLEARTECH LTDA, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 61):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE OBRIGAÇÕES LOCATÍCIAS - POSSIBILIDADE DE INCLUSÃO DAS OBRIGAÇÕES VENCIDAS NO CURSO DA DEMANDA ATÉ O TÉRMINO DESTA.
+- Tratando-se de execução de débito locatício, cujas obrigações são sucessivas e que o art. 771 do CPC, admite a aplicação subsidiária das disposições concernentes ao processo de conhecimento à lide executiva, imperiosa se faz a aplicação da regra disposta no art. 323 do CPC, de modo a possibilitar a inclusão das obrigações locatícias vencidas no curso da ação de execução, até o término da referida demanda, independentemente da formulação de pleito nesse sentido, no bojo da petição inicial, por se entender como pedido implícito, razão pela qual, de rigor a manutenção da r. decisão agravada.
+RECURSO IMPROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 85-87).
+Nas razões do recurso especial (e-STJ, fls. 89-106), a ora agravante apontou violação dos arts. 9º, 10, 55, § 1º, 323, 771, parágrafo único, 914 e 917 do CPC/2015.
+Sustentou a impossibilidade de inclusão de parcelas vencidas no curso da execução. Afirmou que o conteúdo do art. 323 do CPC/2015 deve ser interpretado com a sistemática do art. 55, § 1º, do mesmo diploma normativo, a qual prevê que a conexão não determina a reunião dos processos se um deles já foi julgado. Aduziu a ausência de certeza, a liquidez e exigibilidade para execução do título executivo extrajudicial.
+Por fim, caso entenda pela possibilidade de inclusão das parcelas vencidas na execução, entende que deveria ser intimada para apresentar novos embargos à execução, a fim de prevalecer o postulado do contraditório nos autos.
+Contrarrazões às fls. 116-134 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Ao julgar o agravo de instrumento, o Tribunal estadual manteve a sentença que concluiu pela viabilidade da inclusão das prestações vencidas no curso da execução, independentemente de distribuição de outras execuções.
+Veja-se a fundamentação do acórdão recorrido (e-STJ, fls. 62-63):
+Isto porque, como já deliberado ab initio, a r. decisão agravada não se mostra nula por falta de fundamentação, na medida em que o R. Juízo a quo, ainda que de forma singela, justificou que as prestações vencidas no curso da execução são exigíveis, independentem ente de distribuição de outras execuções, sendo tais argumentos o quanto bastava para justificar o prosseguimento da demanda originária nos termos em que pretendido.
+Ademais, tratando-se de execução de débito locatício, no que se pressupõe a existência de obrigações consecutivas, imperiosa se faz a aplicação da regra disposta no art. 323 do CPC, cujos termos peço vênia para transcrever:
+Art. 323. Na ação que tiver por objeto cumprimento de obrigação em prestações sucessivas, essas serão consideradas incluídas no pedido, independentemente de declaração expressa do autor, e serão incluídas na condenação, enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las ou de consigná-las.
+(..)
+Daí porque, tratando-se de execução de débito locatício, cujas obrigações são sucessivas e que o art. 771 do CPC, admite a aplicação subsidiária das disposições concernentes ao processo de conhecimento à lide executiva, imperiosa se faz a aplicação da regra disposta no art. 323 do CPC, de modo a possibilitar a inclusão das obrigações locatícias vencidas no curso da ação de execução, até o término da referida demanda, independentemente da formulação de pleito nesse sentido, no bojo da petição inicial, por se entende como pedido implícito, razão pela qual, de rigor a manutenção da r. decisão agravada.
+Com efeito, o entendimento exarado pelo colegiado estadual não diverge da jurisprudência desta Corte que se consolidou no sentido de que a inclusão das parcelas vencidas e vincendas do débito exequendo no curso da ação de execução "está em consonância com os princípios da efetividade e da economia processual, evitando o ajuizamento de novas execuções com base em uma mesma relação jurídica obrigacional". Ademais, por serem "originárias do mesmo título, ou seja, da mesma relação obrigacional, não há que se falar em inviabilização da impugnação dos respectivos valores pelo devedor, tampouco em cerceamento de defesa ou violação ao princípio do contraditório, porquanto o título extrajudicial executado permanece líquido, certo e exigível, embora o débito exequendo possa sofrer alteração no decorrer do processo" (REsp n. 1.759.364/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/2/2019, DJe de 15/2/2019.)
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO NO JULGADO. INEXISTÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCLUSÃO DAS PARCELAS VENCIDAS NO DÉBITO EXEQUENDO. POSSIBILIDADE. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do Direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O entendimento firmado pelo Tribunal de origem está em consonância com a jurisprudência do Superior Tribunal de Justiça, que permite a inclusão de parcelas vincendas na ação de execução.mIncidência da Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.328.608/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. DÉBITOS CONDOMINIAIS. INCLUSÃO DAS COTAS CONDOMINIAIS VINCENDAS. POSSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial, tendo em vista a inadimplência no pagamento de cotas condominiais.
+2. Ação ajuizada em 19/03/2018. Recurso especial concluso ao gabinete em 08/08/2018. Julgamento: CPC/2015.
+3. O propósito recursal é definir se, à luz das disposições do CPC/2015, é válida a pretensão do condomínio exequente de ver incluídas, em ação de execução de título executivo extrajudicial, as parcelas vincendas no débito exequendo, até o cumprimento integral da obrigação do curso do processo.
+4. O art. 323 do CPC/2015, prevê que, na ação que tiver por objeto cumprimento de obrigação em prestações sucessivas, essas serão consideradas incluídas no pedido, independentemente de declaração expressa do autor, e serão incluídas na condenação, enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las ou de consigná-las.
+5. A despeito de referido dispositivo legal ser indubitavelmente aplicável aos processos de conhecimento, tem-se que deve se admitir a sua aplicação, também, aos processos de execução.
+6. O art. 771 do CPC/2015, na parte que regula o procedimento da execução fundada em título executivo extrajudicial, admite a aplicação subsidiária das disposições concernentes ao processo de conhecimento à lide executiva.
+7. Tal entendimento está em consonância com os princípios da efetividade e da economia processual, evitando o ajuizamento de novas execuções com base em uma mesma relação jurídica obrigacional.
+8. Recurso especial conhecido e provido.
+(REsp n. 1.756.791/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/8/2019, DJe de 8/8/2019.)
+Nesse vértice, mediante a evidente sintonia entre o fundamento da decisão da Corte de origem e o entendimento jurisprudencial do Superior Tribunal de Justiça, aplica-se a Súmula n. 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE OBRIGAÇÕES LOCATÍCIAS. POSSIBILIDADE DE INCLUSÃO DAS OBRIGAÇÕES VENCIDAS NO CURSO DA DEMANDA ATÉ O TÉRMINO DESTA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
