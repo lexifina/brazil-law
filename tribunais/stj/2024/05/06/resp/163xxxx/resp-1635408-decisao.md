@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+Desapropriação indireta. Implantação de rodovia estadual. SCT-283. Deinfra. Ilegitimidade ativa dos autores. Proprietários que adquiriram o imóvel após o desapossamento. Precedentes. Extinção do feito sem resolução de mérito. Art. 267 do Código de Processo Civil. Proibição do enriquecimento ilícito. Recurso desprovido.
+Esta Terceira Câmara de Direito Público tem entendimento firmado no sentido de que, adquirido o imóvel pelo autor após o apossamento administrativo, falta-lhe a necessária legitimidade para ajuizar a ação de desapropriação indireta (Apelação Cível n. 2013.069004-3, de Ipumirim, reI. Des. Stanley da Silva Braga).
+Os Embargos de Declaração foram rejeitados.
+Na origem, cuida-se de Ação de Desapropriação Indireta com vistas a indenização por apossamento administrativo ocorrido em 17 de dezembro de 1992, apesar de a aquisição do imóvel pelos autores ter ocorrido somente em 20 de agosto de 2009. Em primeira instância, o feito foi extinto sem julgamento de mérito por ilegitimidade ativa, o que foi mantido em segundo grau nos termos da ementa supra transcrita.
+Os recorrentes aduzem que houve violação dos arts. 1.227, 1.228, 1.231 e 1.245 do Código Civil e dos arts. 15-A, § 4º, e 31 do Decreto-Lei 3.365/1941. Em síntese, alegam que todos os direitos e obrigações atinentes à propriedade são transmitidos ao adquirente, e que os ônus e vantagens que recaem sobre o bem expropriado sub-rogam-se no preço.
+A inadmissão do apelo por incidência da Súmula 283 do STF e por ausência de adequado cotejo analítico deu ensejo ao Agravo de fls. 387-403, e-STJ (contraminuta às fls. 425-428, e-STJ), do qual conheci para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento - o que, por sua vez, motivou a interposição de Agravo Interno.
+Diante da tese firmada no Tema 1.004 do STJ, determinei a devolução dos autos à Corte local para aplicação dos arts. 1.040 e seguintes do CPC/2015, e a decisão por mim proferida anteriormente tornou-se sem efeito.
+Em juízo de adequação, o Tribunal a quo negou seguimento ao Recurso Especial no que diz respeito ao capítulo concernente ao referido Tema e remeteu a esta Corte Superior o exame das questões que extrapolam a mencionada tese. Não houve nova irresignação dos recorrentes.
+Parecer do Ministério Público pelo não provimento do Recurso às fls. 451-454, e-STJ.
+É o relatório.
+Decido.
+Os autos foram remetidos a este Gabinete em 4.12.2023.
+Antes de tudo observo que toda a insurgência veiculada no Recurso Especial está afeita à tese firmada no Tema 1.004 do STJ, uma vez que, sob o pressuposto de ofensa tanto aos indicados artigos do Código Civil quanto aos do Decreto-Lei 3.365/1941, o que os recorrentes defendem é a possibilidade de serem indenizados em decorrência da expropriação que incidiu sobre os direitos do proprietário anterior.
+Nesse contexto, considerando-se a decisão de fls. 607-608, e-STJ, já não subsiste matéria recursal devolvida ao Superior Tribunal de Justiça.
+Não olvido que cumpria ao Colegiado estadual reanalisar a controvérsia dos autos à luz da tese formada. Ademais, como foi mantido o aresto guerreado e inadmitido o Recurso Especial a ele interposto, a remessa dos autos a este Tribunal Superior sem novo juízo de admissibilidade, por imposição do art. 1.041 do CPC/2015 - porquanto, a despeito do retorno à origem, há Agravo em Recurso Especial submetido a juízo de retratação, mas não de admissibilidade (art. 1.042, § 4º, do CPC/2015) -, seria imposta ex vi legis (Rcl 41.229/DF, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 17.5.2022).
+Nada obstante, haja vista a realização de novo juízo prelibador, que trancou o conhecimento do ponto relativo ao Tema 1.004 do CPC/2015 sem que tenha sido interposto Agravo Interno pelos recorrentes, consolidou-se o decisum originário em virtude da preclusão.
+De qualquer maneira, também é certo que a alegação de afronta aos dispositivos legais apontados pelas partes não prosperaria porque sobre eles não foi emitido juízo de valor. Isso significa que o acórdão recorrido não foi proferido com base nesses dispositivos, e não (como sustentam os recorrentes no Agravo Interno) que tais normas não tenham sido invocadas nas razões recursais - que, por outro lado, sequer veicularam contrariedade ao art. 535 do CPC/2015.
+Vale ressaltar que remanesce a interposição de Recurso Extraordinário já admitido. Portanto, em obter dictum, verifica-se que casos como o presente, em que os demandantes são agricultores casados entre si e controvertem sobre indenização relativa a pequeno imóvel rural, se adequam à ressalva feita na tese repetitiva em tela (vulnerabilidade) (REsp 1.692.629/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 19.12.2022).
+Contudo, pelas razões já esposadas, não há como se conhecer do Recurso Especial em virtude dos óbices processuais dispostos.
+Por todo o exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
