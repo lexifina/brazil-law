@@ -1,0 +1,14 @@
+DECISÃO
+Em análise, petição apresentada por DONIZETE BRAZ BENTO suscitando o distinguishing do caso concreto com o Tema 1.124/STJ.
+Para tanto, alega que "a controvérsia no presente feito diz respeito ao tema 995/STJ, enquanto a decisão (..) sobrestou o feito com base no tema 1.124/STJ, que não foi objeto de controvérsia no Recurso de Agravo Interno e Especial, nem foi apreciado pelas instâncias inferiores" (fl. 559).
+É o relatório.
+Passo a decidir.
+Consoante destacado na decisão impugnada, verifica-se que a controvérsia devolvida ao conhecimento desta Corte Superior mediante o recurso especial em epígrafe foi afetada ao rito do art. 1.036 do Código de Processo Civil de 2015, no Tema 1.124/STJ, cuja questão submetida a julgamento é: "Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária".
+No caso, não observo o distinguishing suscitado pela parte recorrente, vez que o Tema 995/STJ deve ser aplicado às hipóteses nas quais a reafirmação da DER ocorre entre o ajuizamento da ação e a entrega da prestação jurisdicional.
+Com efeito, n os termos do decidido pelo acórdão recorrido, foi considerada a possibilidade de cômputo do tempo de contribuição posterior ao protocolo de concessão do benefício e anterior ao ajuizamento da ação (fls. 415-416).
+Outrossim, no recurso especial, o INSS alega que, "quando os fatos que parte pretende ver analisados pelo juízo não aconteceram após o ajuizamento da ação, mas sim no período compreendido entre o encerramento do processo administrativo e o ajuizamento da ação, não há incidência do art. 493 do CPC" (fl. 475).
+Afirma, ainda, a "necessidade de novo requerimento administrativo para possibilitar ao INSS a apreciação do novo fato ocorrido (por exemplo, inclusão de tempo de contribuição, o advento da idade, a vigência de nova lei) após a conclusão do requerimento administrativo e anteriormente ao ajuizamento da ação judicial, posto que quando um beneficiário da previdência social intenta uma ação judicial contra o INSS sem provocar previamente a Autarquia Previdenciária, inexiste lesão ou ameaça de lesão ao suposto direito subjetivo do proponente, haja vista que se o INSS não teve a oportunidade de se manifestar administrativamente sobre o mérito da concessão de um benefício previdenciário, a rigor não há uma pretensão resistida" (fl. 476).
+Por fim, na forma da jurisprudência do STJ, é irrecorrível o decisum que determina o retorno dos autos à origem para observância do rito processual dos recursos repetitivos ou de repercussão geral. Nesse sentido: AgInt no AgInt no REsp n. 1.670.905/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/9/2023, DJe de 2/10/2023.
+Ante o exposto, nada a deferir no presente expediente.
+Intimem-se.
+EMENTA
