@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 48):
+Agravo de Instrumento. Plano de saúde. Código de Defesa do Consumidor. Decisão que determinou que a Agravada realizasse o procedimento cirúrgico prescrito por médico especialista. Insurgência da agravante que não merece ser acolhida. Recusa para realização do procedimento. Violação ao Princípio da Boa-fé Objetiva contemplado nos contratos.
+Determinação de bloqueio de valores em caso de descumprimento de liminar. Decisão que observa os princípios da razoabilidade e proporcionalidade. Requisitos do artigo 300 do CPC preenchidos. Decisão mantida.
+Recurso improvido.
+Nas razões do recurso especial (e-STJ, fls. 56-80), a recorrente apontou violação do art. 300 do CPC/2015.
+Sustentou, em síntese, a inexistência dos requisitos autorizadores da antecipação dos efeitos da tutela pretendida.
+Defendeu a licitude da conduta adotada ao recusar o custeio e autorização de cirurgia para implante de marca-passo, com base nas cláusulas do contrato firmado entre as partes.
+Sem contrarrazões (e-STJ, fl. 113).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de Justiça manteve a decisão que deferiu a tutela antecipada para determinar a cobertura do procedimento cirúrgico, em caráter de urgência, consistente na implantação de marca passo, sob os seguintes fundamentos (e-STJ, fls. 50-51, sem grifo no original):
+A pretensão recursal visa a reversão da decisão hostilizada sob o argumento de que o procedimento requerido não pode ser realizado em virtude de lei, pretensão esta que não comporta acolhimento.
+De início, convém salientar que nesta sede de agravo de instrumento e em fase de cognição sumária, esta Turma Julgadora se limitará a analisar a presença ou não dos pressupostos autorizadores da concessão da tutela antecipada, sob pena de se antecipar o julgamento do mérito, que ainda depende da observação do devido processo legal.
+Dispõe o art. 300, do Código de Processo Civil, que a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+(..)
+A Agravada apresentou um quadro de severas oscilações na frequência cardíaca sendo diagnosticada com bloqueio atrioventricular de segundo grau (CID 10) e, apesar de internação na UTI, seu quadro clínico não apresenta melhoras. Diante disso, o médico especialista indicou como única maneira de corrigir o problema, o procedimento cirúrgico para implantação de marca passo definitivo.
+Ocorre que a Agravante se negou a realizar o procedimento cirúrgico, ensejando o presente litígio entre as partes.
+Diante dessa negativa e analisando o caso concreto, o juízo a quo deferiu a tutela pleiteada a fim de que o procedimento fosse realizado.
+Pois bem.
+Alega a Agravante que não há cobertura contratual para referido procedimento cirúrgico.
+Entretanto, convém destacar que apesar da possibilidade de exclusão, pelo contrato de seguro, da cobertura de determinadas doenças e procedimentos, a peculiaridade do caso analisado indica que a recusa da apelante e marcar com o procedimento determinado pelo profissional de saúde consiste em verdadeiro inadimplemento contratual.
+Pois bem, neste primeiro momento, a conduta da Agravante fere o princípio da boa-fé objetiva, vez que a todo o tempo agiu como quem cumpre/cumpriria as disposições contratuais.
+Ora, constata-se que a Agravada adquiriu o plano de saúde há quase dez anos atrás (2016) demonstra que cumpriu com suas obrigações na expectativa de que houvesse respaldo quando ou se fosse necessário.
+Mais além, a Agravada comprova que tem sido tratada como paciente particular - como se não houvesse adquirido o plano de saúde pois foi indicado a seus familiares que adquirissem o material necessário para implante.
+Com efeito, ninguém é obrigado a manter contrato, mas se o faz, é de se esperar uma conduta honesta quanto ao que foi entabulado entre as partes.
+Tal como observado pelo MD magistrado a quo, os beneficiários de plano de saúde nutrem a expectativa de receberem tratamentos adequados: assegurada a realização de exames e cirurgias que se fizerem necessárias. A negativa de realização dessas obrigações, afrontam o Código de Defesa do Consumidor.
+Além do mais, tal situação é urgente. O perigo de dano é evidente, uma vez que a demora na prestação jurisdicional pode acarretar sérios prejuízos à saúde da Agravada.
+Também deve-se observar a vigente Resolução Normativa RN n. 465/2021 da ANS naquilo em que viola a Lei n. 8.078/90 (Súmula 608 STJ) quanto à devida prestação dos serviços contratados, a não ser que a Operadora demonstre no curso do processo que existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol1.
+É fato que a saúde é um bem jurídico tutelado pelo Estado, entretanto, uma vez que o particular assume para si a responsabilidade sobre tal bem jurídico, deve arcar e se responsabilizar por todas as necessidades que se fizerem presentes acerca dessa tutela.
+De fato, muito embora a negativa realizada tenha se baseado em interpretação de cláusula contratual, sua abusividade deve ser discutida na lide principal. Por ora, é premente o pleno atendimento à saúde da Agravada.
+Nos termos da jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância a quo.
+Dessa forma, configura-se a ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária, o que atrai a aplicação da Súmula n. 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. HOME CARE. RECUSA DO PLANO DE SAÚDE. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A LIMINAR. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa (AgRg na MC 24.533/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe 15/10/2018).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.981.656/TO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Na hipótese dos autos, o colegiado estadual, com base no substrato fático-probatório dos autos, entendeu, em cognição sumária, pela existência dos requisitos para a concessão de tutela de urgência.
+Assim, a revisão do posicionamento sufragado pelo Tribunal de origem, nesse particular, conforme pleiteado pela recorrente, implica reexame de fatos e provas, o que é vedado na estreita via especial pela Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIA. SÚMULA N. 735 DO STF. ART. 300 DO CPC. REQUISITOS. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.INCIDÊNCIA. ART. 1.022 do CPC. SÚMULA N. 284 do STF. NÃO IMPUGANAÇÃO. SÚMULA N. 182 do STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação de tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF.
+2. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Em observância ao princípio da dialeticidade aplica-se a Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada dos fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.168.030/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. TRATAMENTO DE SAÚDE. TUTELA ANTECIPADA. PEDIDO DE REVOGAÇÃO. ÓBICE DA SÚMULA N. 735/STF. TUTELA DE URGÊNCIA. DISCUSSÃO DE MÉRITO NO RECURSO ESPECIAL. DESCABIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+2. Conforme o entendimento desta Corte Superior, o especial interposto contra acórdão que decide sobre pedido de antecipação de tutela admite, "tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa" (AgInt no AREsp n. 1.943.057/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 4/4/2022).
+3. No caso, descabe cogitar do exame da tese de contrariedade ao art. 10, VII, da Lei n. 9.656/1998, pois o referido normativo não está relacionado aos requisitos de concessão das medidas de urgência.
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+5. No caso concreto, para averiguar, nesta instância, a ausência dos requisitos da tutela antecipada que impôs à agravante o custeio liminar do tratamento de saúde do agravado, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.949.985/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. SÚMULA N. 735 DO STF. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REVISÃO. NÃO CABIMENTO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
