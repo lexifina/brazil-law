@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado (fl. 793, e-STJ):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO EXISTÊNCIA. DEVOLUÇÃO DO PRAZO RECURSAL. ANULAÇÃO DO ACÓRDÃO.
+I - Nos termos do art. 1.022 do CPC, cabem embargos de declaração quando houver, na decisão judicial, obscuridade, contradição, omissão ou erro material. Com efeito, verifico a ocorrência de omissão no acórdão, no que se refere ao pedido realizado pelo embargante na petição de ID nº 220870466, em que requer a devolução do prazo recursal em relação ao acórdão de ID nº 203787847 e acerca dos embargos de declaração do INSS (ID nº 210299569).
+II - Em 30/7/21, em decorrência do falecimento do patrono da causa, com intimação das partes, foi proferido despacho determinando a retificação da autuação, a fim de que passasse a constar os nomes dos I. advogados Emanuel Celso Dechechi (OAB/SP 162.741) e Tatiana Zonato Rogati (OAB/SP 209.692), que subscreveram o recurso de apelação interposto nos autos (ID nº 165882312). Ausente qualquer manifestação dos referidos advogados, esta E. Turma, em sessão realizada em 18/10/21, julgou os recursos, tendo sido proferido o acórdão de ID nº 203787847. Intimadas as partes, o INSS interpôs embargos de declaração, tendo decorrido o prazo para o autor se manifestar em 19/11/21. Por sua vez, em 26/11/21, a parte autora juntou aos autos petição com nova procuração em que outorga poderes aos I. advogados Juliana Miguel Zerbini (OAB/SP nº 213.911) e Fernando Pires Abrão (OAB/SP nº 162.163), requerendo "a devolução do prazo para interposição de eventual recurso em face do acórdão disponibilizado em 21/10/2021, bem como para manifestação acerca dos " (ID nº 220870466). No entanto, não há que se falar em Embargos de Declaração opostos devolução do prazo recursal em relação ao acórdão de ID nº 203787847, tendo em vista a inércia da parte autora após ser intimada do despacho que determinou a inclusão na autuação dos advogados que atuavam nos autos. Por sua vez, diante do pedido manifestado na petição de ID nº 220870466, em que houve a juntada de procuração com a outorga de novos procuradores, deve ser determinada a devolução do prazo para a parte autora se manifestar em relação aos embargos de declaração interpostos pelo INSS. Tendo em vista que, em 14/2/22, houve o julgamento dos embargos de declaração da autarquia, os quais foram providos para sanar a omissão apontada e, com efeitos infringentes, determinar a observância da prescrição quinquenal das parcelas vencidas, deve ser declarada a nulidade do referido acórdão (ID nº 253361413), uma vez que houve prejuízo ao interesse da parte autora.
+III - Embargos declaratórios providos.
+Em seu Recurso Especial, o agravante alega violação do art. 313, I, do CPC. Em suma, sustenta ser devida a devolução de todos os atos processuais após o óbito do patrono falecido.
+Não foram apresentadas contrarrazões.
+Inadmitiu-se a irresignação (fls. 860-863, e-STJ), o que ensejou a interposição do Agravo de fls. 865-870, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.4.2024.
+A irresignação não merece prosperar.
+Verifica-se que a Corte de origem, ao dirimir a controvérsia, entendeu que "não há que se falar em devolução do prazo recursal em relação ao acórdão de ID nº 203787847, tendo em vista a inércia da parte autora após ser intimada do despacho que determinou a inclusão na autuação dos advogados que atuavam nos autos" (fl. 797, e-STJ).
+Contudo, o agravante não refutou esse argumento - que é apto, por si só, para manter o acórdão recorrido . Ante a deficiência na motivação e a ausência de impugnação a fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
