@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DARLAN MACEDO TERRA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de cobrança de royalties da mineração, ajuizada pelo agravante e OUTRA, em face de ANGLO AMERICAN MINÉRIO DE FERRO BRASIL S/A.
+Acórdão: negou provimento à apelação interposta pelo agravante, para manter a sentença de improcedência, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE COBRANÇA DE ROYALTIES DA MINERAÇÃO - OFENSA AO PRINCÍPIO DA DIALETICIDADE - NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - CERCEAMENTO DE DEFESA -PRELIMINARES REJEITADAS - ALIENAÇÃO DO IMÓVEL ONDE ESTÁ LOCALIZADA JAZIDA DE MINÉRIO - PROPRIETÁRIO ANTERIOR - RECONHECIMENTO DO DIREITO DE PARTICIPAÇÃO EM RESULTADO DE LAVRA -IMPOSSIBILIDADE - RECURSO CONHECIDO E DESPROVIDO. - Tendo a parte apelante se insurgido contra os pontos específicos da sentença, com os quais discorda, não há que se falar em ofensa ao princípio da dialeticidade. - Não há que se falar em ausência de fundamentação e, consequentemente, em infração ao artigo 489 do Código de Processo Civil, uma vez que se observa da sentença que os argumentos trazidos pelas partes foram analisados objetivamente pelo juiz sentenciante, atendendo de maneira inequívoca, aos pressupostos de validade de forma e conteúdo da sentença. - Não há cerceamento de defesa, quando os documentos constantes dos autos permitem o julgamento do processo no estado em que se encontra.-Consoante a Constituição Federal e o Código de Mineração, a participação nos resultados da lavra de minério é do proprietário do imóvel onde localizada a jazida. Nessa toada, tendo ocorrido a alienação do imóvel, por meio de negócio jurídico em que não restou comprovado qualquer vício, não há que se falarem direito do proprietário anterior sobre o produto da exploração, impondo-se a manutenção da sentença que julgou improcedente o pedido inicial. - Recurso conhecido e desprovido.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) ausência de negativa de prestação jurisdicional; e
+ii) incidência da Súmula 7/STJ (quanto à questão relativa ao direito de recebimento dos royalties).
+Agravo em recurso especial: nas razões do presente recurso, além de apresentar a síntese dos fatos, a parte agravante aduz que:
+i) haveria usurpação da competência do STJ;
+ii) os arts. 11, "b", e 12, do Decreto-Lei nº 227, de 28/02/1967 teriam sido violados; e
+iii) não incidiria a Súmula 7/STJ, visto que a matéria discutida seria exclusivamente de direito, relativa à ausência de previsão contratual quanto a aquisição do direito ao produto da lavra no imóvel alienado.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) ausência de negativa de prestação jurisdicional.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fl. 1471) para 15%, observada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
