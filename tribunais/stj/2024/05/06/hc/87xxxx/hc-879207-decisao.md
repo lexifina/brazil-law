@@ -1,0 +1,15 @@
+DECISÃO
+EDUARDO BRASIL DANTAS, condenado por tentativa de estelionato, alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Amapá no AgRg em Revisão Criminal n. 0003502-83.2023.8.03.0000.
+O paciente assinala que o Supremo Tribunal Federal, no HC n. 215.527/SP, concedeu ordem de ofício, com determinação de intimação da vítima para oferecer representação. Todavia, houve a intimação da Empresa Ramos e Silva Soluções em Finanças e Negócios Ltda." a qual não considerar ser a "titular de eventual lesão patrimonial"(fl.6).
+Requer a esta Corte, por isso, a "intimação da vítima - BANCO SANTANDER S/A, para, querendo, oferecer representação, no prazo de 30 (trinta) dias, como forma de se fazer cumprir a ordem concedida nos autos do HC n. 215.527 AP" (fl. 7).
+Decido.
+Na origem, a parte alegou que foi descumprida a "decisão proferida pelo Supremo Tribunal Federal" (fl. 24). Discorreu que o "STF determinou, nos autos do habeas corpus mencionado, a intimação da vítima para, querendo, oferecer representação no prazo de 30 dias. Destarte, foi intimada a empresa Ramos e Silva Soluções em Finanças e Negócios Ltda, quando, em seu entendimento, o ato de intimação deveria ter sido dirigido ao Banco Santander S/A, pessoa jurídica responsável por eventual liberação de crédito" (fl. 25).
+É incabível o uso de habeas corpus como substitutivo de reclamação, com base na alegação de descumprimento de decisão proferida pelo Supremo Tribunal Federal, sob pena de desvirtuar a competência daquela Corte para o exame da pretensão.
+Deveras, compete ao próprio Supremo Tribunal Federal a análise da reclamação que vise garantir a autoridade de suas decisões.
+Segundo o acórdão recorrido, que não conheceu da revisão criminal, foi "realizada a intimação da vítima para ofertar representação" e o "correspondente bancário", e não o Banco Santander S/A, "foi efetivamente vítima do delito praticado pelo revisionando" (fl. 23).
+Infere-se da denúncia que o condenado por incursão no art. 171 c/ o art. 14, II, ambos do CP, "tentou, mediante meio fraudulento (falsificação de documento), obter, em proveito próprio, vantagem ilícita de R$ 24.775,98 (vinte e quatro mil, setecentos e setenta e cinco reais e noventa e oito centavos) em prejuízo da vítima Ramos e Silva Soluções em Finanças (correspondente do Banco Santander)" (fl. 8).
+Perante a Ramos e Silva Soluções em Finanças, e a pretexto de "realizar um empréstimo pessoal com desconto consignado em folha de pagamento,  o postulante  apresentou um contracheque referente ao mês de agosto/2017, como se fosse servidor do Ministério Público do Estado do Amapá/MP-AP" (fl. 8).
+O "sujeito passivo do delito de estelionato pode ser qualquer pessoa, física ou jurídica. Mas a pessoa que é iludida ou mantida em erro ou enganada pode ser diversa da que sofre a lesão patrimonial" (STF, Ext 1029, Rel. Ministro Cezar Peluso, Tribunal Pleno, DJ 10-11-2006).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
