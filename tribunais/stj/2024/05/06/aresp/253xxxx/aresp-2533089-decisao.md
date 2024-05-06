@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo manejado por Vera Cardoso de Campos contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 1.279):
+EMENTA: AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA DE EVIDÊNCIA. AUSÊNCIA REQUISITO. ART. 311 DO CPC. MEDIDA LIMINAR CONTRA A FAZENDA PÚBLICA. ESGOTAMENTO DO OBJETO DA DEMANDA. VEDAÇÃO.
+1. Julga-se prejudicado o agravo interno interposto contra a decisão preliminar que indeferiu o pedido de antecipação da tutela recursal quando o agravo de instrumento encontrar-se apto para julgamento.
+2. No caso dos autos, o inciso II do art. 311 do CPC dispõe que, para o deferimento da tutela de evidência, imprescindível, além da comprovação documental das alegações de fato, a existência de tese firmada em julgamento de casos repetitivos ou em súmula vinculante, o que não ocorreu.
+3. A tutela de urgência apenas será concedida se observados, concomitantemente, os requisitos do art. 300 do CPC, quais sejam, a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, bem como não se vislumbre a possibilidade de irreversibilidade do provimento antecipado.
+4. Consoante previsão do art. 1º, § 3º, da Lei 8.437/92 e art. 1.059 do CPC, é vedada a concessão de tutela antecipada contra a Fazenda Pública que possua natureza satisfativa e tenha por objeto aumento ou extensão de vantagens pecuniárias, ou concessão de pagamento de qualquer natureza.
+5. A determinação de que o ente municipal pague, imediatamente, a diferença remuneratória pleiteada esgota totalmente a pretensão vindicada na ação de conhecimento.
+AGRAVO INTERNO PREJUDICADO.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.373/1.390).
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 1º, 3º caput, 16, 311 II, IV, parágrafo único, 369, 371, 373 I, 374, III, 384, 405, 411, III, 425, VI, 427, 489 II, § 1º, IV, VI, 490, 492, 497, 502, 926, 927 I, II, III, IV, 932 V, a, b, 987 § 2º, 1.022 II, parágrafo único, I, II, 1.030 II, 1.039, 1.040 II do CPC/15; 215 e 225 da Lei Federal 10.406/2002; 5º e 6º da Lei Federal 11.738/2008; 28, parágrafo único, da Lei 9.868/99; 2º e 4º da Lei Federal 11.417/06; e 6º, §§ 1º e 2º do Decreto-Lei 4.657/42. Sustenta, além de negativa de prestação jurisdicional, que restou provado o preenchimento do requisitos para deferimento da tutela de urgência, pleiteando "o imediato pagamento do seu direito adquirido da aposentadoria de recebimento do seu salário base por Nível 2, por 40 horas, Referência A-7, no valor de R$ 7.010,04, diante do piso nacional de 2022" (fl. 1.452).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, cumpre observar que, em regra, não é cabível recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem para deferir ou indeferir medidas liminares ou antecipações de tutela.
+Leia-se, a propósito, a seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR AJUIZADA PARA SUBIDA IMEDIATA DE RECURSO ESPECIAL RETIDO COM BASE NO ART. 542, § 3º, DO CPC/1973. EXCEPCIONALIDADE NÃO DEMONSTRADA. REMOÇÃO DOS MORADORES DE ÁREA DE EMERGÊNCIA. RISCO DE DESABAMENTO. MORRO DO CAVALÃO. NECESSIDADE. REALIZAÇÃO DE OBRAS DE CONTENÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DOS REQUISITOS DA TUTELA ANTECIPADA. SÚMULA 735/STF. REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ.
+1. Conforme consta da petição inicial " O MM. Juízo de 1º grau determinou, em caráter liminar, que o ora recorrente efetuasse o remanejamento/remoção dos moradores de áreas de risco, com o pagamento da respectiva assistência social à estes, o reassentamento destes moradores, bem como a realização de obra de micro e macro drenagem e de projetos de obras de contenção na comunidade do Morro do Cavalão, principalmente na Travessa Maria Custódia, acima da Rua Joaquim Távora, sob pena de multa diária".
+2. Nos termos do art. 542, § 3º, do CPC/1973, o Recurso Especial interposto contra decisão interlocutória em processo de conhecimento, cautelar ou Embargos à Execução permanecerá retido nos autos e somente será processado se reiterado no prazo para as contrarrazões ou para a interposição do recurso contra a decisão final.
+3. A norma guarda coerência com o sistema da Constituição. Da expressão "em única ou última instância" contida no inciso III do art. 105 da Constituição já se extrai a conclusão de que, em regra, não pode ser cabível processamento imediato de Recurso Especial contra decisão interlocutória, pois, por sua própria natureza, as decisões interlocutórias não terão sido realmente decididas em única ou última instância até que se esgotem todos os recursos cabíveis dentro do Tribunal Regional Federal ou Tribunal de Justiça.
+4. "A jurisprudência desta Corte Superior admite, excepcionalmente, o processamento do recurso sujeito, em princípio, à retenção, nas hipóteses em que a decisão impugnada, apesar de interlocutória, se revele capaz de ocasionar danos irreparáveis ou de difícil reparação à parte, uma vez que nestas situações a retenção do recurso enseja a inutilidade do provimento jurisdicional ante a perda de objeto do especial" (AgRg na MC 16.081/BA, Rel. Ministro Vasco Della Giustina, Desembargador convocado do TJ/RS, DJe 3/11/2009).
+5. A simples alegação de inexistência de recursos e de previsão orçamentária para a realização de importantes obras de infraestrutura não serve para proteger o administrador incompetente e omisso.
+6. A Administração Pública possui o dever/poder de zelar pelo interesse público, principalmente quando está em risco o direito do cidadão à dignidade e à moradia.
+7. Ademais, a verificação de que o Município recorrente realizou e vem realizando diversas obras em áreas de risco em várias localidades da cidade encontra óbice na Súmula 7 do STJ.
+8. A orientação jurisprudencial do STJ é pacífica no sentido de que não é cabível Recurso Especial para reexaminar questões relativas à verificação dos requisitos para a antecipação dos efeitos da tutela ou apreciação de medida liminar, em decorrência da sua natureza precária, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Incidência da Súmula 735/STF.
+9. Ação Cautelar improcedente.
+(MC 20820/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+No caso, o Tribunal a quo negou a tutela provisória com base nas seguintes
+razões (fls. 1.283/1.287):
+O Código de Processo Civil, em seu art. 294 e seguintes, trata da tutela provisória de urgência e evidência.
+Especificamente em relação à segunda espécie, cumpre citar a previsão legal que traz os requisitos para a concessão da tutela de evidência, senão vejamos:
+(..)
+Logo, para a concessão da tutela de evidência deve haver contraditório prévio, admitindo-se o deferimento liminar nas hipóteses em que as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante, ou se tratar de pedido reipersecutório fundado em prova documental adequada do contrato de depósito.
+Na espécie, a autora agravante afirma que, como professora aposentada do Município de Formosa, faz jus ao reajuste do seu salário base, referente ao ano de 2022, alegadamente não implementado pelo ente municipal agravado, em ofensa ao disposto na Lei n. 11.738/2008, que criou o piso nacional do magistério.
+Entretanto, para se conceder a postulada tutela de evidência deveria estar presente uma das hipóteses previstas nos incisos II ou III da norma supracitada, o que não ocorre no caso.
+Embora exista suposta tese firmada em julgamento de casos repetitivos sobre o tema (REsp n. 1.426.210/RS), as alegações trazidas pela autora agravante não podem ser comprovadas apenas documentalmente (requisitos cumulativos), sendo necessário aguardar a devida instrução na origem.
+Assim sendo, o cerne da discussão deve limitar-se à verificação da presença dos requisitos legais exigidos para a concessão da tutela provisória de urgência, nos termos do art.
+300 do Código de Processo Civil, quais sejam, a probabilidade do direito, o perigo de dano ou o risco ao resultado útil do processo e a reversibilidade do provimento.
+Diante do quadro fático delineado nos presentes autos, partindo-se de um exame que não pode sequer ultrapassar a fronteira da sumariedade da cognição, entendo não estão suficientemente demonstrados os aludidos requisitos.
+Com efeito, em relação ao deferimento de liminares contra a Fazenda Pública, têm surgido limitações à atividade jurisdicional quanto à possibilidade de sua concessão, previstas no espectro normativo infraconstitucional e que restaram por criar um microssistema acerca do tema in foco.
+Desta feita, no caso sub examine, merece especial atenção a regra disposta no § 3º do art. 1º da Lei federal 8.437/1992, que estabelece, de modo expresso, que "não será cabível medida liminar que esgote, no todo ou em parte, o objeto da ação" (g.).
+Aliás, o art. 1.059 do Código de Processo Civil estabelece que "à tutela provisória requerida contra a Fazenda Pública aplica-se o disposto nos arts. 1º a 4º da Lei nº 8.437, de 30 de junho de 1992, e no art. 7º, § 2º, da Lei nº 12.016, de 7 de agosto de 2009" (g.).
+Importa transcrever o ensinamento do Ministro do Supremo Tribunal Federal, Luiz Fux, em artigo intitulado "O novo Microssistema Legislativo das Liminares contra o Poder Público":
+(..)
+Na espécie, a determinação de que o ente municipal pague, imediatamente, a diferença salarial postulada esgota totalmente a pretensão vindicada na ação de conhecimento.
+Ainda, a medida mostra-se de difícil reversão caso o julgamento do mérito da lide seja desfavorável à demandante recorrente, por se tratar de verba alimentar.
+Por outro lado, na hipótese de procedência do pedido, a autora agravante perceberá o quantum debeatur integralmente, devidamente atualizado e corrigido.
+Sobre o tema, em casos semelhantes, confira-se os arestos deste tribunal:
+(..)
+Assim sendo, não há como prover o recurso ofertado.
+Nesse contexto, a Corte de origem concluiu que não estão presentes os requisitos autorizadores para a concessão da medida liminar, sendo que a alteração das conclusões adotadas, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MEDIDA LIMINAR. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos de prova dos autos, concluiu pela ausência dos requisitos autorizadores da suspensão da liminar que deferiu a imissão da agravada na posse do imóvel. Alterar esse entendimento demandaria reexame do conjunto fático-probatório, vedado em recurso especial.
+3. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1192819/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/04/2018, DJe 16/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS AUTORIZADORES.REEXAME. SÚMULA Nº 7/STJ. PERDA DE OBJETO. PRETENSÃO PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça entende não ser cabível recurso especial para reexaminar decisão que defere ou indefere liminar em pedido de antecipação de tutela, nos casos em que haja necessidade de revisão das premissas de fato adotadas pelas instâncias ordinárias, como no caso, em virtude da incidência da Súmula nº 7/STJ. Precedentes.
+3. A prolação de sentença no feito principal torna prejudicado o agravo de instrumento contra o deferimento de antecipação de tutela e, consequentemente, do recurso especial posteriormente interposto.
+4. Agravo interno não provido.
+(AgInt no AREsp 1141274/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IPVA. SEGURO OBRIGATÓRIO E TAXA DE LICENCIAMENTO. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. COMUNICAÇÃO AO ÓRGÃO DE TRÂNSITO POSTERIORMENTE À OCORRÊNCIA DOS FATOS GERADORES. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. ANÁLISE DOS REQUISITOS. IMPOSSIBILIDADE. SÚMULAS 735/STF E 7/STJ.
+1. A Corte regional, soberana na análise das circunstâncias fáticas e probatórias da causa, concluiu que, em cognição sumária, a cobrança dirigida contra o responsável tributário, no caso dos autos, é legítima.
+2. O STJ possui o entendimento de ser incabível, via de regra, Recurso Especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária,o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+3. Consigne-se, ademais, que a análise do preenchimento dos requisitos autorizadores da concessão da medida liminar reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1706944/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
