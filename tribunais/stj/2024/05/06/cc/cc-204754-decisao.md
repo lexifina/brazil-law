@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Cível e Empresarial de Parauapebas - PA e o Juízo Federal do Juizado Especial Cível Adjunto à 2ª Vara Federal de Marabá - SJ/PA, nos autos da ação proposta em desfavor do Banco do Brasil S.A, tendo por objetivo o reajuste de valores creditados em conta do PIS-PASEP, bem como a condenação a título de danos materiais e morais.
+Inicialmente, a demanda foi distribuída ao Juízo de Direito da 2ª Vara Cível e Empresarial de Parauapebas - PA, que declarou a incompetência absoluta da Justiça Estadual para processar e julgar o feito (fl. 226-227).
+O Juízo Federal do Juizado Especial Cível Adjunto à 2ª Vara Federal de Marabá - SJ/PA, por sua vez, fundado na compreensão de que a ilegitimidade passiva para discutir eventual falha na prestação do serviço quanto à conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa é do Banco do Brasil S.A, reconheceu a incompetência para solucionar a demanda, suscitando o presente conflito de competência (fls. 4-5).
+É o relatório. Decido.
+Inicialmente, ressalta-se que o conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, inciso I, d, da Magna Carta.
+Com efeito, compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil, sociedade de economia mista, nos termos da Súmula 42 do STJ:
+Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PASEP. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INTERESSE DA UNIÃO AFASTADO PELO JUÍZO FEDERAL. INCIDÊNCIA DAS SÚMULAS 42, 150 E 254 DO STJ. COMPETÊNCIA DO JUÍZO DE DIREITO DA 5a. VARA CÍVEL DE ARACAJU/SE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ firmou-se no sentido de que o art. 109 da CF/1988 elenca a competência da Justiça Federal em um rol taxativo que, em seu inciso I, menciona as causas a serem julgadas pelo juízo federal em razão da pessoa, competindo a este último decidir sobre a existência (ou não) de interesse jurídico que justifique, no processo, a presença da União, suas autarquias ou empresas públicas, conforme dispõe a Súmula 150 do STJ. (CC 131.323/TO, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 6.4.2015).
+2. Nesse contexto, tendo a Justiça Federal reconhecido a ilegitimidade passiva da União para figurar nos autos de ação de indenização por danos morais e materiais, deve-se reconhecer a competência da Justiça Estadual para o julgamento da lide, uma vez que não figura no litígio quaisquer dos entes enumerados no art. 109 da CF/1988. Incidência da Súmula 224/STJ.
+3. Outrossim, eventual irresignação da parte contra a decisão que excluiu a União da lide não encontra guarida no âmbito do conflito de competência, o qual se limita a declarar o juízo competente a partir dos elementos e das partes que, efetivamente, figuram na demanda. (AgInt no CC 171.648/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 18/08/2020, DJe 24/08/2020).
+4. Agravo Interno do Banco do Brasil S/A não provido.
+(AgInt no CC 174995/SE, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO, PRIMEIRA SEÇÃO, DJe 06/08/2021.)
+CONFLITO DE COMPETÊNCIA. ALVARÁ JUDICIAL. LEVANTAMENTO DO SALDO DA CONTA VINCULADA DO PASEP. BANCO DO BRASIL. GESTOR DO FUNDO. SOCIEDADE DE ECONOMIA MISTA. SÚMULA 42/STJ.
+A expedição de alvará judicial, requerido pelo titular da conta, para o levantamento de valores relativos ao PASEP é, a princípio, procedimento de jurisdição voluntária, devendo ser ajuizado perante à Justiça Comum Estadual.
+Sendo o Banco do Brasil S.A. uma sociedade de economia mista, não se inclui da relação prevista no art. 109, I, da CF/88, de modo a excluir a competência da Justiça Federal.
+Conflito conhecido para declarar competente o Juízo de Direito de Goianésia - GO, o suscitado.
+(CC 48.376/GO, Rel. Ministro FRANCISCO PEÇANHA MARTINS, PRIMEIRA SEÇÃO, julgado em 11/05/2005, DJ 20/06/2005, p. 115)
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO ORDINÁRIA AJUIZADA CONTRA O BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 42/STJ.
+1. A ação ajuizada contra o Banco do Brasil S/A, objetivando o cálculo da correção monetária do saldo da conta vinculada ao PASEP e a incidência de juros, impõe a aplicação das regras de fixação de competência concernentes às sociedades de economia, uma vez que o conflito de competência não é instrumento processual servil à discussão versando sobre a legitimidade ad causam.
+2. Destarte, sendo o Banco do Brasil uma Sociedade de Economia Mista, não se inclui na relação prevista no art. 109, I, da Constituição da República, de modo a excluir a competência da Justiça Federal, a teor do que preceitua a Súmula n.º 42 desta Corte: "Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento".
+3. Conflito conhecido para declarar competente o Juízo Estadual.
+(CC 43.891/RS, Rel. Ministro JOSÉ DELGADO, Rel. p/ Acórdão Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 13/12/2004, DJ 06/06/2005, p. 173)
+Ante o exposto, conheço do presente conflito de competência para declarar competente o Juízo de Direito da 2ª Vara Cível e Empresarial de Parauapebas - PA.
+Intimem-se. Publique-se.
+EMENTA
