@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de TÚLIO DIAS ORTIZ, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferido na Apelação Criminal n. 5002692-40.2021.8.24.0022.
+Consta dos autos que o paciente foi denunciado pela suposta prática do crime de furto qualificado na forma tentada (art. 155, § 4º, I, c/c o art. 14, II, do Código Penal - CP).
+Com a sua absolvição sumária, o Parquet apelou e o seu recurso foi provido, por acórdão assim ementado:
+"APELAÇÃO CRIMINAL. FURTO QUALIFICADO TENTADO (ART. 155, § 4º, I, C/C O ART. 14, II, AMBOS DO CÓDIGO PENAL). ABSOLVIÇÃO SUMÁRIA DIANTE DA ATIPICIDADE DA CONDUTA (ART. 397, III, DO CÓDIGO DE PROCESSO PENAL). INSURGÊNCIA MINISTERIAL. PEDIDO DE REFORMA DO DECISUM. POSSIBILIDADE. AUSÊNCIA DE AVALIAÇÃO DOS BENS. IRRELEVÂNCIA NO CASO CONCRETO. AGENTE CONTUMAZ NA PRÁTICA DE CRIMES CONTRA O PATRIMÔNIO. DELITO PERPETRADO NA FORMA QUALIFICADA. ELEVADO GRAU DE REPROVABILIDADE. CAUSA SUPRALEGAL DE EXCLUSÃO DA TIPICIDADE NÃO CONFIGURADA. PROSSEGUIMENTO DO FEITO QUE SE IMPÕE.
+1. O princípio da insignificância se funda na concepção material do tipo penal, por meio da qual a tipicidade não se esgota no juízo lógico-formal de subsunção do fato à norma. Exige que a conduta nela enquadrável revele-se, ainda, ofensiva para o bem jurídico protegido pela lei penal, sem o que a intervenção criminal não se justifica.
+2. A contumácia em crimes da mesma natureza, reveladora da grande periculosidade social da ação e da alta reprovabilidade do comportamento deflagrado, obsta o reconhecimento da atipicidade material pela aplicação do princípio da insignificância.
+3. O Superior Tribunal de Justiça "firmou entendimento de que a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância (HC n. 351.207/RS, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 28/6/2016, DJe 1/8/2016) (HC n. 459.407/SC, Relator Ministro Ribeiro Dantas, DJe 23/10/2018)" (AgRg no AREsp n. 2.378.868/SP, rel. Min. Reynaldo Soares da Fonseca, j. em 5/9/2023).
+RECURSO CONHECIDO E PROVIDO." (fl. 47)
+No presente mandamus, a impetrante sustenta, em síntese, que seria o caso de aplicação do princípio da insignificância.
+O Ministério Público Federal - MPF emitiu parecer que recebeu o seguinte sumário:
+"DIREITO PENAL E PROCESSO PENAL. HABEAS CORPUS UTILIZAÇÃO COMO SUCEDÂNEO DE RECURSO PRÓPRIO. FURTO QUALIFICADO TENTADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REPROVALIDADE DA CONDUTA. RÉU PORTADOR DE MAUS ANTECEDENTES, O QUE INVIABILIZA A APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. PROSSEGUIMENTO DA AÇÃO PENAL.
+1 - O presente "Habeas Corpus" não é instrumento adequado a servir de sucedâneo de recurso, consoante jurisprudência dessa Colenda Corte Superior de Justiça, seguindo a orientação da Primeira Turma do Supremo Tribunal Federal, sob pena de desvirtuar a finalidade dessa garantia constitucional;
+2 - As instâncias ordinárias concluíram que a conduta do Paciente denota reprovabilidade, diante do bem subtraído ter valor acima do percentual de 10% do salário mínimo e soma-se ainda, e que ele se mostra habitual em cometimento de crimes, sendo portador de maus antecedentes, o que inviabiliza a aplicação do princípio da insignificância;
+3 - Ademais, o desvalor da conduta do Paciente deve ser considerado, não devendo ser considerado somente o valor reduzidos dos bens subtraídos e no fato do furto ter sido tentado, uma vez que o grau de reprovabilidade da conduta do Paciente não é pequeno, eis que ele é portador de maus antecedentes, o que inviabiliza a aplicação do princípio da insignificância, devendo o Paciente responder pelo crime descrito no art. 155, § 4º, c/c art. 14, inciso II, todos do Código Penal, conforme descrito na Denúncia.
+PARECER PELO NÃO CONHECIMENTO DO WRIT E, SE CONHECIDO, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM." (fl. 390)
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 9/8/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Por oportuno, confiram-se os seguintes excertos do julgado atacado:
+"Contudo, não é possível reconhecer como reduzido o grau de reprovabilidade da conduta, afim de tornar viável a aplicação do princípio da insignificância.
+Isso porque, em consulta ao Eproc/1G, verifica-se que o apelado responde a outras 6 (seis) ações penais também pela prática de furto (autos 5002933-14.2021.8.24.0022; 5006124-67.2021.8.24.0022; 5000376-20.2022.8.24.0022; 5002658-31.2022.8.24.0022; 5027291-72.2023.8.24.0022; e 5005556-46.2024.8.24.0022), além de 1 (uma) ação penal por roubo (autos 5022981-23.2023.8.24.0022) e 1 (uma) por apropriação indébita (autos 5003695-93.2022.8.24.0022 ).
+ ..
+Nesse contexto, a contumácia delitiva não pode ser ignorada, pois reveladora da grande periculosidade social da ação e da alta reprovabilidade do comportamento deflagrado pelo recorrido.
+Aliado a isso, está o fato de o delito ter sido cometido na modalidade qualificada, o que reforça a gravidade da conduta e a inviabilidade de aplicação do benefício." (fls. 44/45)
+Constata-se que o paciente possui reiteração delitiva em crimes contra o patrimônio, por possuir oito ações penais, sendo uma, inclusive, de roubo, a impedir a aplicação do princípio da insignificância.
+A propósito, confiram-se os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois o valor da res ultrapassa 10% do salário mínimo vigente à época dos fatos e consta dos autos a contumácia delitiva da agravante, inclusive em crimes patrimoniais, circunstâncias que demonstram a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, ficando afastado o requisito do reduzido grau de reprovabilidade da conduta para aplicação do princípio da insignificância ora pretendido.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 704.617/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/3/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. POSSIBILIDADE, EM TESE, DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE, NO CASO CONCRETO. VALOR DA RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO. HABITUALIDADE CRIMINOSA RECONHECIDA.AGRAVO NÃO PROVIDO.
+1. O valor das coisas subtraídas foi de R$ 468,00, relativo ao preço de "01 (uma) caixa contendo carnes bovinas, avaliadas em R$ 300,00 (trezentos reais) e 01 (uma) caixa térmica contendo bebidas, avaliadas em R$ 168,00 (cento e sessenta e oito reais)" (e-STJ, fl. 177), e equivale a 46,89% do salário-mínimo vigente à época do fato (R$ 998,00), que remonta a 17/8/2019 (e-STJ, fl. 7). O valor, portanto, é superior ao critério informado pela jurisprudência.
+2. Outrossim, o entendimento perfilhado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, no sentido de que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese, por se tratar de recorrente reincidente em crime patrimonial (e-STJ, fl. 177).
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.240.993/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/3/2023.)
+Ademais, a jurisprudência desta Corte afasta a aplicação do Princípio da Insignificância na hipótese da prática de furto na modalidade qualificada.
+Assim, constata-se a inexistência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
