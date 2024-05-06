@@ -1,0 +1,13 @@
+DECISÃO
+Em análise, embargos de declaração opostos pela DEFENSORIA PÚBLICA DO ESTADO DO PARANÁ, contra decisão que julgou procedente a reclamação para cassar a decisão reclamada, a fim de que o feito fosse processado na Justiça estadual.
+A parte embargante alega, em síntese, omissão na decisão embargada, tendo em vista a ausência de condenação em honorários sucumbenciais, já que a demanda foi julgada procedente.
+Ao final, requer o acolhimento dos declaratórios, "para suprir a omissão apontada e, com efeitos infringentes, condenar o Estado do Paraná a pagar honorários de sucumbência no importe de R$ 1.000,00 ao Fundo da Defensoria Pública do Estado do Paraná " (fl. 616).
+O ESTADO DO PARANÁ apresentou impugnação aos embargos de declaração.
+Os embargos de declaração devem ser acolhidos.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do CPC, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existente no julgado. Excepcionalmente, podem ter efeitos infringentes, quando algum desses vícios for reconhecido.
+Com efeito, verifica-se que na decisão embargada, que julgou procedente a reclamação, não constou o arbitramento dos honorários advocatícios.
+Conforme ponderado pela embargante, o STF, no Tema 1.002, fixou a seguinte tese: "1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; 2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição".
+Além do mais, "na forma da jurisprudência do STJ, uma vez aperfeiçoada a relação processual na reclamação, são cabíveis honorários sucumbenciais para as Reclamações ajuizadas na vigência do Código de Processo Civil de 2015 (STJ, EDcl na Rcl 39.884/AL, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 30/11/2022). No mesmo sentido: STJ, AgInt nos EDcl na Rcl 41.149/PE, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/09/2022; AgInt no REsp 2.017.139/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 24/05/2023; AgInt nos EDcl no REsp 2.052.710/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 3/11/2023.
+Isso posto, sanada a omissão apontada, condeno o Estado do Paraná ao pagamento dos honorários advocatícios, fixados em RS 1.000,00 (mil reais), cujo valor deverá ser destinado ao Fundo de Aparelhamento da Defensoria Pública do Estado do Paraná.
+Intimem-se.
+EMENTA
