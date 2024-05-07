@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interposto por Massa Falida de Habitare Construtora e Incorporadora S.A. contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 272):
+CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE IMÓVEL. DESCUMPRIMENTO CONTRATUAL. ATRASO INJUSTIFICADO NA ENTREGA DO BEM. PRAZO DE TOLERÂNCIA. CLÁUSULA PENAL POR EQUIPARAÇÃO. DEVOLUÇÃO DE PARCELAS. DANOS MORAIS. COMPROVAÇÃO. FIXAÇÃO. CRITÉRIOS. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+I. Configura descumprimento do contrato de compra e venda de imóvel a entrega do bem ao comprador fora do prazo fixado para término das obras, considerado o prazo de tolerância.
+II. É admitida a inclusão de "cláusula de tolerância" nos contratos de compra e venda de imóvel em construção, desde que o prazo máximo de prorrogação seja de até 180 dias além do período previsto para o término do empreendimento.
+III. No contrato de adesão estabelecido entre o comprador e a construtora/vendedora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor.
+IV. Extinto o contrato de compra e venda de imóvel, exige-se a restituição ao status quo ante com devolução do bem ao vendedor e devolução de valores pagos.
+V. A condenação em danos morais por atraso na entrega de bem imóvel exige comprovação da ocorrência de uma significativa e anormal violação a direito da personalidade do adquirente, como ocorre nas hipóteses em que for considerável o tempo de espera para que o comprador seja imitido na posse do bem adquirido.
+VI. Prevalecendo o dever de indenizar, a fixação do valor a ser atribuído a título de danos morais, deverá atender aos critérios de razoabilidade e proporcionalidade para que a medida não represente enriquecimento ilícito, bem como para que seja capaz de coibir a prática reiterada da conduta lesiva pelo seu causador.
+VII. Sobre a indenização por danos morais incidirá correção monetária, pelos índices oficiais, a contar do seu arbitramento.
+VIII. Os honorários advocatícios serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 460-420).
+Em suas razões de recurso especial, a recorrente alegou, além de divergência jurisprudencial, violação dos arts. 186, 927 e 944 do CC/2002; e 4º da LICC.
+Sustentou, em síntese, que não foram observados os parâmetros definidos no Tema 971/STJ para inversão da cláusula penal, além de ter sido arbitrada em percentual exorbitante.
+Apontou a inaplicabilidade da condenação ao pagamento de danos morais, na medida em que não ficaram demonstrados e comprovados.
+Aduziu, ainda, que se tratar de mero inadimplemento contratual.
+Sem contrarrazões.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No tocante à cláusula penal, o Tribunal de origem assim se manifestou (e-STJ, fls. 413-414, sem grifo no original):
+Do exposto, inexistem dúvidas de que o atraso na entrega do bem se deu de modo injustificado e por culpa exclusiva da construtora.
+No que se refere à inversão, em desfavor da construtora, de cláusula penal estipulada exclusivamente para o comprador, nos casos de atraso injustificado na entrega de imóvel, em julgamento de REsp 1.614.721/DF e REsp 1.631.485/DF, analisados sob regime representativos de controvérsia, Tema 971, assentou-se entendimento no sentido ser cabível a fixação de multa em desfavor da construtora quando houver atraso injustificado na entrega do bem.
+Firmou-se a tese no sentido de que no contrato de adesão estabelecido entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor.
+( )
+No caso em tela, denota-se no contrato firmado, em sua cláusula 16ª, parágrafo 4º, a incidência de multa compensatória de 11% (onze por cento) do valor total do contrato, apenas para a hipótese de descumprimento por parte do devedor.
+Confira-se:
+"Efetivada a rescisão por culpa do PROMISSÁRIO COMPRADOR, perderá em proveito da PROMITENTE VENDEDORA 11% (onze por cento) do valor total do contrato (..)".
+Sendo assim, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, admite-se sua incidência em desfavor do vendedor em razão de atraso injustificado na entrega do bem.
+Referida tese determina que havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor.
+Neste sentido, como a cláusula 16ª, parágrafo 4º do contrato desfeito prevê a incidência da multa de 11% (onze por cento) sobre o valor total do contrato, este critério deve ser aplicado, por analogia, em favor da recorrida, afastando-se, portanto, a tese da apelante de que a base de cálculo da multa a ser paga deve incidir sobre os valores desembolsados.
+Destarte, o colegiado estadual concluiu pela inversão, em desfavor da insurgente, de cláusula penal prevista no contrato para caso de inadimplemento do promitente comprador, em conformidade com a tese estabelecida nos julgamentos do REsp 1.614.721/DF e do REsp. 1.631.485/DF (processados sob o rito dos recursos repetitivos). Logo, no ponto, a decisão está em consonância com a jurisprudência desta Corte Superior.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CLÁUSULA PENAL. INVERSÃO. POSSIBILIDADE. RESTITUIÇÃO DE TAXA DE DECORAÇÃO. PRESCRIÇÃO DECENAL. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A Segunda Seção desta Corte, ao julgar o REsp 1.614.721/DF (Tema Repetitivo n. 971/STJ), firmou, para efeito do art. 1.036 do CPC/2015, a seguinte tese: "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial."
+3. A discussão acerca da cobrança indevida de valores constantes de relação contratual e eventual repetição de indébito não se enquadra na hipótese do art. 206, § 3º, do Código Civil, mas na regra geral do art. 205 do referido Código. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.251.254/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+Ademais, o Tribunal estadual entendeu pela mora contratual da recorrente e manteve o percentual da multa fixada no contrato firmado entre as partes, a alteração dessa conclusão demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+Relativamente ao dano moral, consta do acórdão recorrido (e-STJ, fls. 416-417):
+Seguindo-se à análise das questões devolvidas a esta instância revisora, no que toca ao pedido de danos morais, destaca-se que o simples fato de o promitente vendedor ter descumprido o prazo previsto no contrato para a entrega do imóvel não acarreta, por si só, danos morais.
+Nesse sentido:
+"(..) O mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais. (STJ. 3ª Turma. AgInt no REsp 1684398/SP, Rel. Min. Ricardo Villas Bôas Cueva, julgado em 20/03/2018).
+De fato, o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume pelo simples descumprimento do prazo contratual.
+No entanto, "(..) em situações excepcionais é possível haver a condenação em danos morais, desde que devidamente comprovada a ocorrência de uma significativa e anormal violação a direito da personalidade do adquirente" (STJ. 3ª Turma. AgInt no REsp 1693221/SP, Rel. Min. Nancy Andrighi, julgado em 20/03/2018).
+Pode ser cabível a condenação em danos morais, de acordo com as peculiaridades do caso concreto, como ocorre nas hipóteses em que o atraso revele consequência fática capaz de gerar dor, angústia, revolta, exigindo sua devida comprovação no sentido de que a situação fática suportada pelo comprador repercutiu negativamente em sua esfera extrapatrimonial.
+( )
+De fato, a condenação em danos morais por atraso na entrega de bem imóvel exige comprovação da ocorrência de uma significativa e anormal violação a direito da personalidade do adquirente, como ocorre nas hipóteses em que for considerável o tempo de espera para que o comprador seja imitido na posse do bem adquirido, ou quando causar prejuízo inquestionável à parte, situações consideradas suficientes para que o infortúnio ultrapasse meros aborrecimentos decorrentes da relação contratual para revelar ofensa à honra subjetiva da parte prejudicada.
+( )
+Na hipótese dos autos, as partes firmaram o contrato de compra e venda de imóvel em 17/09/2010. A cláusula 4 do instrumento previa que o prazo para entrega da unidade imobiliária era 30/09/2014. No entanto, constata-se que o bem objeto da lide sequer tinha iniciado suas obras por ocasião do ajuizamento da demanda, ao passo em que a recorrente, por sua vez, não comprovou que as obras tenham sido finalizadas.
+A ausência de entrega do bem ultrapassa situação de mero dissabor para atingir a esfera não patrimonial do ofendido, frustrando o seu direito de moradia, de uso e gozo do bem, além de desgastes emocionais decorrentes do descumprimento do contrato, estando comprovado o dano moral.
+Dessa maneira, não se desconhece que a jurisprudência deste Superior Tribunal é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável. Comprovado, porém, circunstâncias específicas que possam configurar a lesão extrapatrimonial, os danos extrapatrimoniais são devidos, como na hipótese dos autos, na qual o imóvel nem sequer fora entregue.
+A propósito, guardadas as peculiaridades do caso:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. ARTS. 110 DO CC E 485, IV, DO CPC/2015. FALTA DE PREQUESTIONAMENTO. DANO MORAL CONFIGURADO.
+EXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL VERIFICADA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+2. O dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem significativa violação a direito da personalidade dos promitentes-compradores. Precedentes.
+3. No caso, foi demonstrada a existência de dano moral indenizável, na medida em que o Tribunal de origem descreveu as circunstâncias que extrapolaram o mero aborrecimento. Incidência da Súmula 7/STJ.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. Na espécie, o montante fixado em R$ 10.000,00 (dez mil reais) não é exorbitante nem desproporcional aos danos causados, em razão do atraso excessivo na entrega do imóvel.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.972.470/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 4/4/2022, DJe de 6/5/2022)
+Desse modo, a alteração da conclusão adotada pela Corte local, na forma como pretende a agravante, nessa esfera recursal, acarretaria, novamente, a incidência das Súmulas 5 e 7/STJ.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. ATRASO NA ENTREGA DO IMÓVEL. MULTA CONTRATUAL. JULGAMENTO EXTRA PETITA. REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. ATRASO EXCESSIVO NA ENTREGA DE IMÓVEL. DANOS MORAIS CONFIGURADOS. SÚMULAS 5 E 7/STJ.
+1. Não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+2. Ultrapassar a conclusão do Tribunal estadual, a fim de reconhecer a ocorrência de julgamento extra petita por sua condenação ao pagamento da multa contratual pela inversão da cláusula penal, seria necessária a interpretação de cláusulas do contrato, bem como o reexame das premissas fáticas da causa, o que não se admite em recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+3. O simples inadimplemento contratual, em regra, não configura dano indenizável. Contudo, também é pacífico o entendimento desta Corte superior de que o atraso na entrega por longo período pode configurar causa de dano moral indenizável. Precedentes.
+4. Na hipótese, rever os fundamentos do acórdão estadual para afastar a ocorrência dos danos morais a partir da tese de que teria havido mero inadimplemento contratual exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato, procedimentos vedados em recurso especial, a teor das Súmulas n. 5 e 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.054.394/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. PROMESSA DE CONTRATO DE COMPRA E VENDA. AUSÊNCIA DA ENTREGA DO IMÓVEL. 1. CLÁUSULA PENAL FIXADA APENAS EM FAVOR DA CONSTRUTORA. ESTIPULAÇÃO DE INDENIZAÇÃO NO EQUIVALENTE À MULTA DE FORMA INVERSA. POSSIBILIDADE. RESP REPETITIVO N. 1.614.721/DF. TEMA 971/STJ. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. 2. DANO MORAL. OCORRÊNCIA. CONSTATAÇÃO DE CIRCUNSTÂNCIA EXCEPCIONAL. 3. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
