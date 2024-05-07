@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DE INADMISSIBILIDADE NÃO IMPUGNADA. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou a orientação de que não se conhece de AREsp que não refuta individualmente todos os argumentos do decisum agravado, de forma a demonstrar que o entendimento esposado merece modificação. Dessa forma, a ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo Interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno interposto de decisão monocrática da Presidência do STJ que não conheceu do Recurso, ante a ausência de impugnação específica.
+A parte agravante afirma:
+Entretanto, a decisão precisa ser reconsiderada e outra proferida em seu lugar, uma vez que a afirmação de ausência de impugnação, denota que não foram lidas as razões recursais em que a Agravante demonstrou com todas as letras que a DECISÃO RECORRIDA TERIA APLICADO ERRONEAMENTE OS PRECEDENTES DESSE E.STJ, POR ELA MESMA MENCIONADOS, por isto mesmo que se alegou violação ao artigo 1.022, do CPC, tendo em vista a obscuridade havida na decisão porque aplicou precedentes proferidos em situação diametralmente oposta ao caso concreto.
+(..)
+Aliás,ao dizer que o acórdão recorrido estaria em "consonância com a jurisprudência do STJ" a decisão agravada não trouxe nenhuma justificativa, tampouco se manifestou sobre precedentes das duas Turmas desse E. Superior Tribunal de Justiça (AgRG no REsp 1.507.405/PR -2ª Turma; REsp 1.202.551/PR, 1ª Turma) invocados nas razões do Recurso Especial,em que, além de se conhecer o cabimento dos apelos especiais, em casos idênticos (sem qualquer óbice quanto à matéria de fato), foi devidamente interpretado o artigo 19, § 1º, inciso I, da Lei 10.522/2022, em sentido totalmente oposto ao adotado pelo acórdão recorrido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DE INADMISSIBILIDADE NÃO IMPUGNADA. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou a orientação de que não se conhece de AREsp que não refuta individualmente todos os argumentos do decisum agravado, de forma a demonstrar que o entendimento esposado merece modificação. Dessa forma, a ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 1º.4.2024.
+Na decisão de inadmissibilidade, o Tribunal de origem consignou (fls. 267-272, e-STJ):
+A ventilada nulidade por violação ao art. 1.022, I e II, do CPC não tem condições de prosperar, porquanto o acórdão recorrido enfrentou de forma fundamentada o cerne da controvérsia submetida ao Poder Judiciário.
+(..)
+No caso vertente, o acórdão recorrido, atento às peculiaridades dos autos, reconheceu a isenção da Uniãoao pagamento de honorários advocatícios, com base na regra prevista no art. 19, §1º, I, da Lei 10.522/02, tendo consignado expressamente que: "A União Federal expressou sua concordância quanto à não incidência do Imposto de Renda sobre juros de mora, nos termos do entendimento firmado pelo e. Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 855.091, em sede de Repercussão Geral (Tema808 - STF), ocorrido em 15.03.2021, no seguinte sentido: "Não incide imposto de renda sobre os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego, cargo ou função" (..)"Por seu turno, a mera menção da apelada de que se faz necessário o cálculo do montante efetivamente devido não configura resistência ao pedido, mormente quando, a exemplo do caso concreto, não é realizada a apuração do valor; devendo o cálculo do quantum debeatur ser feito (grifos acrescidos) quando da liquidação da sentença".
+Sobre o debate nos autos, o Superior Tribunal de Justiça firmou a orientação de que, "de acordo com a atual redação do inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei 10.522/2002" (AgInt no AgInt no AREsp 886.145/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 06/11/2018, DJe 14/11/2018).
+(..)
+Constata-se, portanto, que a pretensão do Recorrente destoa de orientação cristalizada pelo SuperiorTribunal de Justiça.
+A seu turno, a alteração do julgamento visando à revisão dos critérios adotados pelo acórdão recorrido para reconhecer a isenção da União ao pagamento de honorários advocatícios, especialmente quanto àocorrência ou não de resistência à pretensão autoral, demanda revolvimento do conteúdo fático-probatório dos autos, sobretudo por importar análise da causalidade ocorrida nos autos, o que é defeso em sede derecurso especial, a teor da Súmula 7 do C. STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+No Agravo de fls. 275-289 , e-STJ, contudo, a parte não combateu de forma consistente o óbice apontado, especialmente quanto à orientação dominante no STJ, não trazendo jurisprudência dissonante ao entendimento atual. Ressalte-se que, para isso, não bastam alegações genéricas em direção contrária ao que foi decidido.
+A jurisprudência do Superior Tribunal de Justiça consolidou a orientação de que não se conhece de AREsp que não refuta individualmente todos os argumentos do decisum agravado, de forma a demonstrar que o entendimento esposado merece modificação. Dessa forma, a ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fund amentos da decisão agravada".
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É o Voto.
