@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.107):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO PIS E COFINS. BASES DE CÁLCULO. TAXA SELIC NAS REPETIÇÕES DE INDÉBITO. ACÓRDÃO RECORRIDO CONTRÁRIO À PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Este Tribunal Superior firmou pacífica orientação jurisprudencial no sentido da legalidade da incidência da contribuição ao PIS e da COFINS sobre os valores originados da aplicação da taxa Selic, nas repetições de indébito e nos depósitos judiciais. Precedentes.
+3. No caso dos autos, o recurso especial da Fazenda Nacional é provido porque o TRF4 decidiu em confronto com a orientação jurisprudencial deste Tribunal Superior.
+4. Agravo interno não provido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 195, I, b, e 239 da CF e aduz que há repercussão geral da matéria tratada.
+Afirma que os referidos dispositivos constitucionais determinariam que " ..  o PIS e a COFINS devem incidir apenas sobre a receita bruta dos contribuintes" (fls. 1.126-1.127) e, segundo a jurisprudência da Suprema Corte, receita bruta e faturamento seriam expressões sinônimas.
+Alega que o julgado recorrido teria desconsiderado a tese fixada pelo STF no Tema n. 962.
+Argumenta, nesse sentido, que (fl. 1.130):
+O raciocínio do RE 1.063.187/SC deve ser aplicado ao presente caso, uma vez que a Taxa SELIC resultante da recuperação de tributos pagos a mais ou indevidamente não constitui receita ou faturamento, sendo inaplicável a tributação pelo Pis e da Cofins. Tributar os valores recebidos a título de SELIC viola diretamente o art. 195, I, alínea b da CF, e, portanto, o acórdão recorrido deve ser reformado para reconhecer a inconstitucionalidade da incidência do PIS e COFINS provenientes da restituição ou compensação de tributos pagos indevidamente.
+Considera que, "mesmo que o Tema 962 não tenha tratado expressamente do PIS e da COFINS, o entendimento de que a Selic dos indébitos tem natureza indenizatória reflete diretamente no tema aqui debatido e deve ser aplicado" (fl. 1.134).
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 1.147).
+É o relatório.
+Verifica-se que o presente recurso foi interposto contra acórdão deste Tribunal Superior que reconheceu a incidência do PIS e da Cofins sobre os valores referentes à Taxa Selic na repetição de indébito tributário, assim fundamentando (fls. 1.110-1.111):
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois este Tribunal Superior tem pacífico entendimento jurisprudencial pela da legalidade da incidência da contribuição ao PIS e da COFINS sobre os valores originados da aplicação da taxa Selic, nas repetições de indébito e nos depósitos judiciais.
+De fato, como consignado na decisão monocrática, ora agravada, o Supremo Tribunal Federal, no Recurso Extraordinário 1.063.187/SC, após o reconhecimento da repercussão geral, fixou tese segundo a qual "é inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário" (tema 962). Na ocasião, o STF, por votação unânime, concluiu que a remuneração pela taxa Selic é espécie de dano emergente, afastando a tese de que seria lucro cessante, e, por isso, não representaria acréscimo patrimonial.
+Não obstante a tese definida pelo Supremo Tribunal Federal, não há ilegalidade na incidência da contribuição ao PIS e da COFINS sobre os valores derivados da aplicação da taxa Selic, no cálculo da repetição de indébito ou incidentes nos depósitos judiciais, mesmo se considerada a natureza de dano emergente, na medida em que a respectiva parcela é espécie de receita e não há autorização legal para excluí-la das bases de cálculo dessas contribuições.
+Nessa linha, este Tribunal Superior firmou pacífica orientação jurisprudencial no sentido da legalidade da incidência da contribuição ao PIS e da COFINS sobre os valores originados da aplicação da taxa Selic, nas ações de repetição de indébito.
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 111 do Código Tributário Nacional; 39 da Lei n. 9.250/1995; 1º da Lei 10.637/2002; e 1º da Lei n. 10.833/2003, bem como do entendimento jurisprudencial do Superior Tribunal de Justiça, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em caso semelhante assim já decidiu a Suprema Corte:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DAS CONTRIBUIÇÕES PIS E COFINS SOBRE OS JUROS APURADOS DE ACORDO COM A TAXA SELIC NA REPETIÇÃO DO INDÉBITO TRIBUTÁRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA MERAMENTE REFLEXA À CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DA DECISÃO AGRAVADA. ÓBICE DO ENUNCIADO Nº 283 DA SÚMULA DO STF.
+1. Verifica-se que o a jurisprudência do Supremo Tribunal Federal está disposta no sentido de que a questão restringe-se ao âmbito infraconstitucional, sem atingir a Constituição da República, senão, apenas de forma reflexa.
+2. Não tendo sido impugnados os fundamentos constantes da decisão agravada, inviável a apreciação do recurso extraordinário, na forma preconizada pelo enunciado nº 283 da Súmula do STF.
+3. Agravo regimental ao qual se nega provimento.
+(ARE n. 1.445.343-AgR, relator Ministro André Mendonça, Segunda Turma, julgado em 21/2/2024, DJe de 22/4/2024.)
+Ante o exposto, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Observando os princípios da cooperação e da celeridade, registro que contra a decisão que inadmite o recurso extraordinário não são cabíveis embargos de declaração, conforme pacífica jurisprudência (nesse sentido: ARE n. 1.107.739-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 29/4/2019, DJe de 7/5/2019).
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. VALORES REFERENTES À TAXA SELIC RECEBIDOS NA REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. INCIDÊNCIA DO PIS E DA COFINS. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
