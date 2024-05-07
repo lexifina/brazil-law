@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Caixa Seguradora S/A em face de decisão por meio da qual neguei provimento ao agravo em recurso especial.
+A embargante afirma que a competência interna para o julgamento dos autos é da Primeira Seção, nos termos do decidido nos Conflitos de Competência 140.456/RS e 148.188/DF, sustentando que houve erro de premissa no julgado, na medida em que "a Corte de origem não reconheceu a competência da Justiça Estadual quanto às apólices privadas (denominadas de Ramo 68), mas o fez em relação às apólices públicas (denominadas de Ramo 66) que, supostamente, não teria comprometimento do FCVS".
+Não há vícios a serem sanados.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser corrigido. Apenas, a solução prestigiada não corresponde à desejada pela parte embargante, circunstância que não eiva o acórdão de nulidade.
+Como já apreciado na decisão embargada, o Tribunal de origem, acolhendo embargos de declaração, determinou o desmembramento dos autos para que permanecesse na Justiça Federal apenas o contrato vinculado à apólice pública, nos termos do que decidiu o Supremo Tribunal Federal, no julgamento do RE 827.996, com repercussão geral, e da jurisprudência desta Corte. Afirmou expressamente o acórdão local que as demais apólices os demais "contratos não contam com cobertura do FCVS (id 85397004, p. 29/31 e 33/34). Assim, inexistindo comprometimento do FCVS, resta afastado o interesse da CEF em relação a eles" (fl. 988/e-STJ). Não incorreu a decisão embargada, portanto, em erro de premissa.
+Por outro lado, assinalo que a pretensão da parte recorrente é de que seja reconhecida a competência da Justiça Federal para o julgamento dos contratos os quais o Tribunal de origem afirmou serem vinculados à apólice privada, situação cuja competência da Segunda Seção foi a contrario sensu recentemente reafirmada pela Corte Especial no julgamento dos Conflitos de Competência 148.188 e 140.456.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
