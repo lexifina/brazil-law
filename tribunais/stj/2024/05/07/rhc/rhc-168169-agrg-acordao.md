@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo regimental e declarou prejudicado o "habeas corpus".
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OPERAÇÃO CALÍGULA. PRISÃO PREVENTIVA. LIBERDADE PROVISÓRIA CONCEDIDA AO PACIENTE. AGRAVO CONHECIDO. HABEAS CORPUS PREJUDICADO.
+1. Recurso interposto no âmbito da denominada "Operação Calígula", que apura a existência de organização criminosa voltada a prática de diversos delitos, dentre os quais, nestes autos, corrupção ativa e passiva.
+2. O material colhido em sede pré-processual deu origem a quatro ações penais, encontrando-se a conduta do paciente desta impetração enquadrada no possível exercício de gestão operacional das atividades ilícitas da organização criminosa, em especial através do gerenciamento de estabelecimentos ilegais dedicados à exploração de jogos de azar do acertamento de acertos corruptivos com agentes estatais para viabilizar a existência e manutenção das atividades ilícitas.
+3. O paciente encontra-se em liberdade, de modo que, cessada a restrição apontada na impetração, a pretensão de concessão de ordem de "habeas corpus" se mostra prejudicada, conforme pacífica jurisprudência desta corte
+4. Agravo regimental conhecido. Habeas Corpus Prejudicado.
+RELATÓRIO
+Trata-se de agravo regimental contra decisão que negou provimento ao recurso ordinário.
+A defesa requer a reconsideração da decisão agravada ou o provimento de seu recurso.
+O Ministério Público do Rio de Janeiro apresentou contrarrazões, requerendo o não conhecimento ou o desprovimento do agravo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OPERAÇÃO CALÍGULA. PRISÃO PREVENTIVA. LIBERDADE PROVISÓRIA CONCEDIDA AO PACIENTE. AGRAVO CONHECIDO. HABEAS CORPUS PREJUDICADO.
+1. Recurso interposto no âmbito da denominada "Operação Calígula", que apura a existência de organização criminosa voltada a prática de diversos delitos, dentre os quais, nestes autos, corrupção ativa e passiva.
+2. O material colhido em sede pré-processual deu origem a quatro ações penais, encontrando-se a conduta do paciente desta impetração enquadrada no possível exercício de gestão operacional das atividades ilícitas da organização criminosa, em especial através do gerenciamento de estabelecimentos ilegais dedicados à exploração de jogos de azar do acertamento de acertos corruptivos com agentes estatais para viabilizar a existência e manutenção das atividades ilícitas.
+3. O paciente encontra-se em liberdade, de modo que, cessada a restrição apontada na impetração, a pretensão de concessão de ordem de "habeas corpus" se mostra prejudicada, conforme pacífica jurisprudência desta corte
+4. Agravo regimental conhecido. Habeas Corpus Prejudicado.
+VOTO
+O agravo regimental é tempestivo.
+Cuida-se de recurso interposto no âmbito da denominada "Operação Calígula", que apura a existência de organização criminosa voltada a prática de diversos delitos, dentre os quais, nestes autos, corrupção ativa e passiva.
+Colhe-se que as investigações realizadas em face dos pacientes tiveram origem em material apurado em diligências probatórias que antecederam a formulação da denúncia, assim como em dados compartilhados de investigações e processos autônomos (processo nº 0072026-61.2018.8.19.0001 -que envolve o homicídio de MARIELLE FRANCO e ANDERSON GOMES, processo nº 0263379-25.2020.8.19.0001 -que envolve o homicídio de "FERNANDO IGGNÁCIO" e processo nº 0112117-62.2019.8.19.0001 -que envolve organização criminosa do tipo Milícia e cuja operação foi denominada de "INTOCÁVEIS").
+A apuração havida nestes autos conecta-se à cúpula de suposta estrutura empresarial associada à prática de atividades contravencionais, com sistemas organizados para maximizar e garantir o benefício financeiro proveniente da operação de jogos de azar. Estrutura esta que seria sustentada por redes de proteção alimentadas pela corrupção de funcionários públicos, envolvendo atos de violência e demonstrações de poder, inclusive com o cometimento de homicídios para eliminar opositores aos interesses do grupo, compondo-se rede com conexões estreitas com facções criminosas e milícias.
+O material colhido em sede pré-processual deu origem a quatro ações penais, encontrando-se a conduta do paciente desta impetração enquadrada no possível exercício de gestão operacional das atividades ilícitas da organização criminosa, em especial através do gerenciamento de estabelecimentos ilegais dedicados à exploração de jogos de azar do acertamento de acertos corruptivos com agentes estatais para viabilizar a existência e manutenção das atividades ilícitas.
+Nestes autos, a ordem inicialmente pleiteada pela parte foi negada monocraticamente pelo relator que me antecedeu, o Desembargador convocado JOÃO BATISTA MOREIRA, ocasião em que se apontou a gravidade concreta da conduta do paciente, a "necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa" e a insuficiência da presença de condições pessoais favoráveis para a obtenção da soltura. (e-STJ Fl. 593-600)
+Interposto o recurso regimental, o Ministério Público Federal aponta que "Relativamente ao recorrente, as informações dão conta de que (i) figura como acusado nos autos nº 0345576-66.2022.8.19.0001, (ii) teve sua prisão preventiva revogada e (iii) a ação pena está na fase do art. 402 do Código de Processo Penal (e-STJ, fl. 688)." (e-STJ Fl.692)
+Efetivamente, a consulta ao Banco Nacional de Mandados de Prisão indica que o paciente encontra-se em liberdade, de modo que, cessada a restrição apontada na impetração, a pretensão de concessão de ordem de "habeas corpus" se mostra prejudicada, conforme pacífica jurisprudência desta corte:
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE REVOGAÇÃO DA PRISÃO. PACIENTE COLOCADO EM LIBERDADE. PREJUDICIALIDADE.
+1. Havendo notícia de que, na origem, foi o paciente colocado em liberdade, fica esvaziado o pedido de revogação da prisão preventiva.
+2. Habeas corpus prejudicado.
+(HC 158533 / MT, RELATOR Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, DATA DO JULGAMENTO 02/08/2011, DATA DA PUBLICAÇÃO/FONTE DJe 11/04/2012)
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO, OCULTAÇÃO DE CADÁVER E EXTORSÃO. OITIVA DE TESTEMUNHA. AUSÊNCIA DE REQUISIÇÃO DE RÉU PRESO NO DISTRITO DA CULPA. NULIDADE RELATIVA. ALEGAÇÃO EM MOMENTO OPORTUNO. DEMONSTRAÇÃO DE PREJUÍZO. CONSTRANGIMENTO ILEGAL.
+CARACTERIZAÇÃO. PRETENSÃO DE REVOGAÇÃO DA PRISÃO. PACIENTE COLOCADO EM LIBERDADE. PREJUDICIALIDADE.
+1. Com a notícia de que, na origem, foi o paciente colocado em liberdade, fica prejudicado o pedido de revogação da segregação. (..) (HC 90718 / GO, SEXTA TURMA, DATA DO JULGAMENTO 14/04/2011, DATA DA PUBLICAÇÃO/FONTE DJe 02/05/2011)
+Além disso, mesmo que se cogitasse da subsistência da pretensão, a hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+De fato, certo é que a existência de organização criminosa impõe a necessidade de interromper a atuação de seus integrantes como garantia da ordem pública (AgRg no HC 793.651/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC 790.898/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+No presente feito, inclusive, se tem notícia de que sequer o acautelamento dos supostos integrantes da organização criminosa foi capaz de garantir a cessação da atividade delitiva, o que se pode apurar, ao menos indiciariamente, da deflagração de outras etapas da operação, as quais contaram com o embargo cautelar de locais onde a prática do jogo ilegal continuava sendo explorado e a prisão de agentes públicos e particulares cujas atividades poderiam se imiscuir à empreitada delitiva.
+Ou seja, o curso da demanda apresentou novos elementos que justificariam a manutenção da segregação e a insuficiência das medidas cautelares diversas da prisão, o que, por si, não esbarra nas eventuais condições pessoais favoráveis do paciente, na forma de remansosa jurisprudência desta corte. (AgRg no RHC 175391 / RS, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 12/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 18/12/2023)
+Ante o exposto, conheço do agravo regimental e declaro prejudicado o "habeas corpus".
+É como voto.
