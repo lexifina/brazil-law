@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIO JOSE BAPTISTA JUNIOR contra decisão que inadmitiu recurso especial (e-STJ, fls. 1.602-1.605) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 1.351):
+APELAÇÃO CÍVEL. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. RECURSO INADMISSÍVEL. ERRO INESCUSÁVEL. SUCUMBÊNCIA RECURSAL.
+É caso de não conhecer dos recursos de apelação, pois em se tratando de pronunciamento judicial que julga parcialmente procedente a liquidação de sentença por arbitramento, o meio para recorrer da decisão é o agravo de instrumento, conforme o art. 1.015, parágrafo único, c/c 203, § 2º, ambos, do Código de Processo Civil.
+Inaplicável o princípio da fungibilidade recursal.
+Sucumbência recursal fixada na forma do artigo 85, § 11, do CPC. NÃO CONHECERAM DOS RECURSOS DE APELAÇÃO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 1.409):
+EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. VÍCIO INEXISTENTE. REDISCUSSÃO DA MATÉRIA. PREQUESTIONAMENTO.
+Ausente vinculação da fundamentação deduzida com as hipóteses do art. 1.022 do Código de Processo Civil, ou seja, obscuridade, omissão ou contradição existente na decisão embargada. Inocorrente o efeito integrativo. Interesse da parte em forçar novo reexame do decisum. Não se rediscute a decisão de mérito, notadamente quando lançada nos moldes exigidos pelo artigo 93, inc. IX, da Constituição Federal.
+A fundamentação do acórdão embargado, relativamente ao não conhecimento dos apelos, é suficiente e deve ser mantida.
+Inviável conferir efeito infringente à decisão, porquanto o acórdão embargado não demonstra ter contradição, obscuridade ou omissão.
+O prequestionamento deve estar vinculado com as hipóteses do artigo 1.022 do Código de Processo Civil e a questão ter sido exposta anteriormente.
+DESACOLHERAM OS EMBARGOS DE DECLARAÇÃO.
+Nas razões do recurso especial, o recorrente alegou, com fulcro na alínea c do permissivo constitucional, divergência jurisprudencial passível de justificar a tese referente à possibilidade de aplicação da fungibilidade recursal quando houver uma interpretação equivocada da parte acerca do recurso cabível para impugnar decisão judicial.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 1.602-1.605).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 1.642-1.644).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Do exame das razões recursais, constata-se que a parte recorrente não demonstrou a divergência jurisprudencial apontada.
+É preciso enfatizar que a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma. De fato, faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no recurso especial interposto pelo recorrente.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. DEFERIMENTO. EFEITOS EX NUNC. ARTS. 1.022, II, E 489, § 1º, IV, DO CPC. SÚMULA N. 284/STF. ARTS. 489, § 1º, VI, E 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. JUROS REMUNERATÓRIOS. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE DEMONSTRAÇÃO DE SIMILITUDE FÁTICA. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Deferido o benefício da gratuidade de justiça, que não tem efeito retroativo.
+2. Quanto aos arts. 1.022, II, e 489, § 1º, IV, do CPC, incide o óbice da Súmula n. 284/STF, pois a parte recorrente aponta a violação dos dispositivos sem a anterior e necessária oposição de embargos declaração sobre o tema, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Quanto aos arts. 489, § 1º, VI, e 927, III, do CPC, verifica-se que o Tribunal de origem não analisou a controvérsia à luz dos dispositivos apontados como violados. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência dos enunciados n. 282 e n. 356 do STF.
+4. "A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+5. Elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial nos termos da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.418.257/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+Ademais, a alegação de dissídio jurisprudencial deve estar pautada também na citação de dispositivo da legislação federal a que se tenha conferido interpretação diversa pelo aresto impugnado, sob pena de configurar-se deficiência na fundamentação.
+Corroborando esse argumento, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. REGULARIDADE DA CONTRATAÇÃO NÃO DEMONSTRADA. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. FUNDAMENTAÇÃO DEFICIENTE. RAZÕES DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL SEM APONTAR DISPOSITIVO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA N. 284 DO STF. PEDIDO DE TUTELA DE EVIDÊNCIA. PERDA SUPERVENIENTE DO INTERESSE. JULGAMENTO DO RECURSO. HONORÁRIOS RECURSAIS. REDUÇÃO DO PERCENTUAL. REJEIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+2. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão (Súmula n. 284 do STF).
+3. Apreciado o recurso cujo efeito suspensivo se buscou garantir, ocorre a superveniente perda do objeto da medida cautelar, sendo, inclusive, desnecessário o trânsito em julgado ou mesmo a confirmação pelo órgão colegiado.
+4. É adequado majorar, em desfavor da parte agravante, os honorários advocatícios, nos termos do art. 85, § 11, do Código de Processo Civil, quando o referido percentual não se mostrar desproporcional ao valor da causa utilizado como parâmetro na instância ordinária.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.406.167/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024.)
+No caso em exame, depreende-se que o agravante, ao interpor o recurso especial, limitou-se a citar os acórdãos paradigmas sem realizar o devido cotejo analítico e apontar qual dispositivo da legislação federal está pautada a divergência jurisprudencial.
+Com efeito, aplica-se o disposto na Súmula 284/STF.
+Ante o exposto, c onheço do agravo para não conhecer do recurso especial de MARIO JOSE BAPTISTA JUNIOR.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. APELAÇÃO. FUNGIBILIDADE RECURSAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE CITAÇÃO DO DISPOSITIVO DE LEI VIOLADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE MARIO JOSE BAPTISTA JUNIOR.
