@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO FEDERAL DA 5ª VARA DE NOVO HAMBURGO - SJ/RS suscita conflito de competência, em inquérito policial, diante do JUÍZO FEDERAL DA 4A VARA DE RIBEIRÃO PRETO - SJ/SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de eventual medida judicial que se faça necessária em investigação deflagrada para apurar suposta prática de estelionato (uso de títulos inválidos perante particulares e perante o Fisco em prejuízo da União).
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 5ª Vara de Novo Hamburgo - SJ/RS, ora suscitante (fls. 4.485-4.489).
+Decido.
+Depreende-se dos autos que haveria houve a constituição de organização criminosa voltada para sonegação fiscal e estelionato contra particulares, cuja atuação se daria em todo o território nacional.
+Os crimes em espécie praticados por essa organização - estelionato contra particulares - estariam sendo processados perante as seções e subseções judiciárias das sedes das empresas que contrataram os serviços fraudulentos de assossoria tributária (local de possível consumação dos crimes), conforme decisão proferida em conflito de competência instaurado perante o Tribunal Regional Federal da 3ª Região.
+Na hipótese, como destacou o Ministério Público, "fica claro que o prejuízo alegado pela suposta vítima teve lugar na cidade de Santa Cruz do Sul/RS, uma vez que é lá que está situada a sede da empresa investigada. Essa constatação é de suma importância, pois estabelece o contexto geográfico no qual os eventos descritos na investigação tiveram desdobramento" (fl. 4.488).
+Logo, "considerando que os delitos de estelionato contra particulares e sonegação fiscal foram concretizado sem Santa Cruz do Sul/RS, em consonância com o disposto no art. 70do Código de Processo Penal, é imperativo que a ação penal tenha seu desdobramento na jurisdição correspondente a esse local específico" (fl. 4.488).
+Aliás, como bem pontuou o Parquet Federal, " t al determinação se justifica pela necessidade de assegurar que o processo seja conduzido no âmbito territorial onde ocorreram os atos delituosos, garantindo a efetiva aplicação da lei e a devida prestação jurisdicional" (fl. 4.488), situação que se coaduna com a orientação esta Corte, v. g.. AgRg no CC n. 192.274/RJ, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 8/3/2023, DJe 10/3/2023.
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 5ª Vara de Novo Hamburgo - SJ/RS, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
