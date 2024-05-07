@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fls. 107-108):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PROGRAMA MINHA CASAMINHA VIDA. INDENIZAÇÃO POR VÍCIOS CONSTRUTIVOS. DENUNCIAÇÃO DALIDE À CONSTRUTORA. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. Agravo de instrumento tirado da decisão interlocutória que deferiu o pedido da CEF quanto à denunciação à lide para inclusão da construtora no polo passivo da demanda.
+2.Sustenta o agravante, em suma, a inexistência de litisconsórcio passivo necessário. No entanto, por se tratar de legitimidade passiva facultativa, nada impede que a agravada, proceda à denunciação da lide, justamente porque poderia promover ação judicial de regresso, na hipótese de restar vencida na ação indenizatória ajuizada pelo mutuário (art. 125, II do CPC).
+3. No caso, como bem assinalado pelo Juízo de origem, ao concluir que: "(..) tendo em vista o disposto no art. 125, II, do CPC, arguida a denunciação em contestação, é de ser deferida neste momento processual, sem o que o feito não poderia prosseguir, até eventual saneamento ou decisão final, fato que obriga a empresa construtora a participar da presente demanda, dada sua responsabilidade contratual decorrente.".
+4. Agravo de instrumento não provido. Agravo interno prejudicado.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos art. 88 do Código de Defesa do Consumidor, bem como divergência jurisprudencial, sob a alegação de não ser cabível a denunciação à lide da construtora, por se tratar de contrato regido pelo SFH.
+Adverte que o Programa Minha Casa Minha Vida faz parte da categoria dos contratos de adesão, cuja sua elaboração é realizada pela Caixa Econômica Federal, e é imposto ao Mutuário/Consumidor, sem que este, ao menos, possa questionar suas cláusulas, levando-nos a admitir, que em caso de dúvidas, estas são resolvidas em desfavor ao Mutuário/Consumidor.
+Ressalta que, por ser o "PMCMV" um típico contrato de adesão, sem a mínima possibilidade de discussão acerca de suas cláusulas e condições, deve o mesmo merecer uma interpretação mais favorável ao mutuário, em casos de dúvida sobre seu alcance. As cláusulas contratuais de que o mutuário nem sequer tomou conhecimento no momento da assinatura do contrato não podem ser interpretadas em seu desfavor, a teor das disposições do Código de Defesa do Consumidor.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao apreciar o feito, entendeu às fls. 106-107:
+A CEF e a construtora estão estreitamente vinculadas pelo contrato para execução de obras e serviços necessários à conclusão do empreendimento no âmbito do Programa Minha Casa Minha Vida. A CEF é gestora dos recursos do Fundo de Arrendamento Residencial - FAR e, como tal, responde, no caso em exame, pelo repasse de tais verbas para a execução, pela construtora, da política pública relativa ao Programa Minha Casa Minha Vida. A construtora, nos termos do contrato, é responsável pela execução das obras e serviços necessários à conclusão do empreendimento.
+Sustenta o agravante, em suma, a inexistência de litisconsórcio passivo necessário. No entanto, por se tratar de legitimidade passiva facultativa, nada impede que a CEF, ora agravada, proceda à denunciação da lide, justamente porque poderia promover ação judicial de regresso, na hipótese de restar vencida na ação indenizatória ajuizada pelo condomínio autor (art. 125, II do CPC).
+No caso, observo que o Tribunal de origem não examinou a controvérsia referente à aplicação do Código de Defesa do Consumidor, limitando-se à análise acerca da possibilidade de denunciação à lide.
+A omissão remanesceu mesmo após o julgamento dos embargos de declaração , obstando a análise da controvérsia de modo originário em razão da falta de prequestionamento, atraindo a incidência da Súmula 211/STJ.
+Com efeito, na linha da jurisprudência consolidada no âmbito desta Corte: "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão,, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4.4.2017, DJe 10.4.2017). Nesse mesmo sentido:
+Nesse mesmo sentido:
+ ..  2. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017), o que não ocorreu.
+ ..
+8. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.114.877/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+No caso em apreço, a parte recorrente não arguiu a violação ao art. 1.022 do Código de Processo Civil, o que impede a apreciação da matéria.
+Assim, incide, à espécie, o óbice disposto na Súmula 211/STJ, no ponto, uma vez que é imprescindível que, no acórdão recorrido, a questão tenha sido discutida e decidida fundamentadamente, o que não verifico na presente hipótese.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
