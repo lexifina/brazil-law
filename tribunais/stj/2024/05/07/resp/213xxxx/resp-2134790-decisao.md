@@ -1,0 +1,70 @@
+DECISÃO
+Examina-se recurso especial interposto por DM INSTITUIÇÃO DE PAGAMENTO S/A contra acórdão prolatado, por unanimidade, pela Vigésima Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, em sede de apelação, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Recurso especial interposto em: 14/9/2023.
+Concluso ao gabinete em: 10/4/2024.
+Ação: declaratória de prescrição de débito cumulada com obrigação de fazer ajuizada por WILLIAN GRACIANO SILVA, em face de DM INSTITUIÇÃO DE PAGAMENTO S/A.
+Sentença: julgou procedentes os pedidos formulados pelo recorrido.
+Acórdão: negou provimento à apelação de DM INSTITUIÇÃO DE PAGAMENTO S/A e deu provimento ao recurso de BENITO CORTES SOCIEDADE INDIVIDUAL DE ADVOCACIA, nos termos da seguinte ementa (e-STJ fls. 227/228):
+APELAÇÕES CÍVEIS. Ação declaratória de prescrição do débito cumulada com obrigação de fazer. Sentença de procedência, com declaração de inexigibilidade do débito questionado, em razão da prescrição. Irresignação do réu e do patrono do autor.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA. Não acolhimento. Réu que incluiu o débito impugnado na plataforma Serasa Limpa Nome, oferecendo ao autor proposta de negociação. Dívida de titularidade do demandado que justifica a pertinência subjetiva para figurar no polo passivo da demanda. Serasa S.A que, ademais, na qualidade de mantenedora da plataforma "Serasa Limpa Nome" não possui ingerência em inclusões efetuadas por credores em seu sistema. Preliminar rejeitada.
+MÉRITO. Prescrita a dívida, impossível que se proceda à cobrança, quer por meio judicial, quer por meio extrajudicial. Dívida prescrita é inexigível, impedindo o interessado de cobrar e tomar medidas extrajudiciais para a satisfação dos créditos sobre os quais já ocorrera a perda da pretensão do seu direito, não passando de uma mera obrigação natural, cuja satisfação somente poderia ser paga voluntariamente por quem já foi devedor. Declaração de inexigibilidade do débito que era mesmo de rigor. Precedentes desta C. 24ª Câmara de Direito Privado.
+HONORÁRIOS ADVOCATÍCIOS. Resultado proclamado que impõe a alteração do critério de fixação da verba honorária adotado na origem para aquele previsto no Art. 85, § 8º, do CPC, dado o inestimável proveito econômico do autor e diminuto o valor da causa. Aplicabilidade, ademais, da regra prevista no § 8º-A, do referido artigo. Arbitramento em R$ 5.511,73 calculado pela Tabela da Seccional da Ordem dos Advogados de São Paulo atribuído ao procedimento ordinário, sem que resulte em reformatio in pejus. Precedentes deste E. Tribunal e desta c. 24ª Câmara.
+RECURSO do réu DESPROVIDO e PROVIDO o do advogado do autor.
+Recurso especial: alega, além do dissídio jurisprudencial, violação aos artigos 189, 191, 205, 206 e 882 do CC; e 85, § 2º, do CPC.
+Sustenta que no " ..  próprio site da SERASA há expressa e clarividente indicação de que débitos não negativados não influenciam a pontuação scoring, além do que a Recorrida não foi cobrada  .. ", portanto, a " ..  parte Recorrida nunca foi cobrada por meio do SERASA LIMPA NOME  .. " (e-STJ fl. 251).
+Afirma que " ..  mesmo após o reconhecimento da prescrição do crédito, nos termos dos arts. 191 e 882 do Código Civil, o crédito em si não é afetado, ao permitir que o pagamento seja aperfeiçoado quando realizado espontaneamente pelo devedor, sem direito à devolução do que pagou, o que autoriza a cobrança extrajudicial do referido débito  .. " (e-STJ fls. 252/253).
+Argumenta que " ..  malgrado a Recorrente não tenha realizado qualquer ato de cobrança do débito (mas sim propôs um acordo extrajudicial), o fato é que, sob qualquer hipótese, poderia a Recorrente ser obrigada a "esquecer" o débito em questão, visto que somente a Recorrente é quem poderia renunciar a um direito subjetivo seu, não o Poder Judiciário declarar tal possibilidade  .. " (e-STJ fl. 253).
+Aduz que o " ..  v. acórdão deve ser inteiramente reformado, a fim de que eventual condenação em honorários não seja superior a R$ 2.000,00  .. " (e-STJ fl. 263).
+Postula, ainda, a atribuição de efeito suspensivo ao recurso, nos termos do artigo 1.029 do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do pedido de efeito suspensivo.
+Quanto à pretensão de efeito suspensivo, a parte recorrente não demonstrou a excepcionalidade necessária para a sua concessão, o que inviabiliza o pedido.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no TP n. 1.692/SP, Terceira Turma, DJe de 5/12/2018; e AgInt no TP n. 996/CE, Quarta Turma, DJe de 27/11/2017.
+- Da impossibilidade de cobrança de dívida prescrita.
+O Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 230/240):
+ ..
+Infere-se dos autos que o autor ajuizou ação declaratória, visando o reconhecimento da prescrição do débito no valor de R$ 3.413,48, vencido em 11/07/2004, ao argumento de que não pode ser cobrado, quer pela via judicial, quer pela extrajudicial. O juiz a quo houve por bem julgar procedente o pedido formulado.
+Isso porque, incontroverso que a dívida está prescrita, pois decorrido o prazo quinquenal previsto no artigo 206, § 5º, inciso I, do Código Civil:
+ ..
+Não se desconhece que a prescrição não extingue a dívida, mas apenas a sua pretensão. Tanto é assim, que o artigo 882, do Código Civil, dispõe que "Não se pode repetir o que se pagou para solver dívida prescrita, ou cumprir obrigação judicialmente inexigível".
+ ..
+Desse modo, malgrado a dívida exista e, mesmo prescrita, possa ser adimplida espontaneamente pelo devedor, não se admite, por outro lado, o exercício da pretensão em juízo para sua cobrança, nem mesmo a efetivação de atos de cobrança por meio extrajudicial.
+Logo, ante a prescrição, a dívida é inexigível e não pode continuar sendo cobrada.
+Nesse caso, evidente que existe diferença entre a declaração da prescrição, pleito formulado na presente demanda, e da inexigibilidade do débito em razão da prescrição e reconhecida pelo juiz a quo.
+ ..
+Portanto, não há que se falar na exigibilidade dos débitos e na possibilidade de cobrança extrajudicial da dívida prescrita, porquanto se mostram indevidos os atos extrajudiciais praticados com o intuito de cobrar dívida inexigível.
+Era mesmo o caso, portanto, de declarar a inexigibilidade do débito em razão da prescrição, tal como reconhecida na origem.
+Por consequência, diante do resultado proclamado, tem razão o advogado do autor quanto ao pedido de alteração do critério de fixação da verba honorária, sucumbindo o réu quanto ao seu pedido de redução. Isso porque, dispõe o artigo 85, do CPC:
+ ..
+Com efeito, a norma insculpida no artigo supracitado, a respeito dos honorários de sucumbência, ostenta caráter objetivo em relação aos patamares mínimo e máximo da verba, reservando ao Julgador apenas a ponderação acerca dos critérios estabelecidos nos incisos do § 2º.
+A fixação por equidade, por sua vez, está prevista para as hipóteses do § 8º mencionado, pois a literalidade da regra geral como a inequívoca vontade do legislador não pode ser ignorada  ..
+E o caso concreto se enquadra nas hipóteses de apreciação equitativa, vez que não houve condenação em dinheiro, de modo que o proveito econômico obtido pelo autor é inestimável, além do valor da causa ser baixo, justificando-se, portanto, a aplicabilidade da regra excepcional do art. 85, § 8º, do CPC.
+Sob este aspecto, verifica-se que a r. sentença foi prolatada em 17/02/2023, quando já vigentes as alterações promovidas pela Lei n. 14.365, de 02.06.2022, que incluiu, dentre outros, o § 8º-A ao CPC, que dispõe:
+ ..
+Aplica-se, portanto, a nova regra nos casos de fixação pelo critério da equidade, que estabeleceu dois parâmetros para amparar a adoção do critério de equidade, quais sejam, os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º do artigo 85, do CPC, aplicando-se "o que for maior".
+In casu, o procedimento adotado pelo demandante é o comum, de modo que se aplica o valor calculado pela Tabela da Seccional de São Paulo da Ordem dos Advogados atribuído ao procedimento ordinário https://www.oabsp.org.br/servicos/tabelas/tabela-de-honorarios item 4.1), qual seja, R$ 5.511,73, em observância ao mínimo estipulado para procedimento comum em matéria cível. Esse é o valor, portanto, devido pelo réu ao advogado do autor.
+ ..
+Conforme se verifica, observo que o Tribunal de origem decidiu em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que o reconhecimento da prescrição impede tanto a cobrança judicial quanto a cobrança extrajudicial da dívida, não importando a via ou o instrumento utilizado para a realização da cobrança, uma vez que a pretensão se encontra praticamente inutilizada pela prescrição (REsp n. 2.088.100/SP, Terceira Turma, DJe de 23/10/2023).
+A propósito, os seguintes julgados do Superior Tribunal de Justiça: AgInt no AREsp n. 2.475.479/SP, Terceira Turma, DJe de 14/3/2024; e AgInt no REsp n. 2.099.553/SP, Terceira Turma, DJe de 6/3/2024.
+Dessa maneira, encontrando-se o acórdão recorrido em consonância com a orientação firmada por esta Corte Superior, incide, portanto, a Súmula n. 568/STJ.
+Além disso, reexaminar o conjunto fático-probatório dos autos, para chegar à conclusão distinta, faz incidir, portanto, a Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.925.105/PR, Terceira Turma, DJe de 5/10/2022; AgRg no AREsp n. 182.361/SP, Terceira Turma, DJe de 10/5/2016; AgInt no AREsp n. 1.698.665/SP, Quarta Turma, DJe de 18/11/2020; e AgInt no AREsp n. 1.621.499/DF, Quarta Turma, DJe de 24/9/2020.
+- Do dissídio jurisprudencial.
+O recurso especial não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, pois a parte recorrente deixou de proceder ao cotejo analítico entre os acórdãos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes, bem como não há similitude fática entre os julgados confrontados, constatando-se, assim, situações fáticas diversas.
+Cumpre ressaltar, ainda, que o recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+A propósito, os seguintes julgados do Superior Tribunal de Justiça: AgInt nos EREsp n. 1.758.376/RS, Corte Especial, DJe de 2/5/2023; AgRg nos EDcl nos EREsp n. 1.864.512/RS, Corte Especial, DJe de 24/6/2021; REsp n. 1.913.234/SP, Segunda Seção, DJe de 7/3/2023; AgInt nos EAREsp n. 1.418.878/SP, Segunda Seção, DJe de 17/11/2020; AgInt nos EDcl no AgInt no AREsp n. 1.554.652/SP, Terceira Turma, DJe de 1º/6/2023; AgInt no AREsp n. 2.270.652/RS, Terceira Turma, DJe de 17/5/2023; AgInt no REsp n. 1.621.266/MG, Quarta Turma, DJe de 11/5/2023; e AgInt no REsp n. 1.866.876/SP, Quarta Turma, DJe de 12/5/2023.
+Além disso, a incidência da Súmula n. 7/STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual o Tribunal de origem deu solução à causa.
+Assim, os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.717.057/SP, Terceira Turma, DJe de 23/2/2022; AgInt no AREsp n. 1.214.876/SC, Terceira Turma, DJe de 19/2/2020; AgInt no AREsp n. 2.302.947/RS, Quarta Turma, DJe de 2/6/2023; e AgInt no AREsp n. 2.223.826/RJ, Quarta Turma, DJe de 11/4/2023.
+Forte nessas razões, com fundamento no artigo 932, III e IV, "a", do CPC, bem como na Súmula n. 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do artigo 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 5.787,31 (cinco mil, setecentos e oitenta e sete reais e trinta e um centavos) - e-STJ fls. 226/243 - para R$ 7.000,00 (sete mil reais).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, parágrafos 4º e 5º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE PRESCRIÇÃO DE DÉBITO CUMULADA COM OBRIGAÇÃO DE FAZER. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. SÚMULA N. 568/STJ. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória de prescrição de débito cumulada com obrigação de fazer.
+2. Não demonstrada a excepcionalidade, não há que se falar em efeito suspensivo do recurso.
+3. A jurisprudência desta Corte Superior é no sentido de que o reconhecimento da prescrição impede tanto a cobrança judicial quanto a cobrança extrajudicial da dívida, não importando a via ou o instrumento utilizado para a realização da cobrança, uma vez que a pretensão se encontra praticamente inutilizada pela prescrição (REsp n. 2.088.100/SP, Terceira Turma, DJe de 23/10/2023). Precedentes.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Dissídio jurisprudencial não comprovado, ante a ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Precedentes.
+6. A incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes.
+7. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
