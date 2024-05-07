@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. COMPRA E VENDA DE VEÍCULO.
+Rescisão do contrato de compra e venda de veículo automotor usado c.c. indenização por danos materiais e morais. Documentação não entregue ao comprador. Negócio coligado a contrato de financiamento com pacto adjeto de alienação fiduciária. Sentença de procedência do pedido. Apelo do banco corréu. Inconformismo que não prospera. Autor que firmou contrato de compra e venda de veículo com a corré Drica Veículos e, a fim de cumprir suas obrigações (pagamento do preço), celebrou contrato de financiamento com o corréu Banco Votorantim, sendo cristalina a conexão existente entre os dois contratos. Contratação do crédito junto ao banco corréu que não teria interesse se desvinculada do negócio jurídico de compra e venda. Rescindido o contrato de compra e venda, de rigor a rescisão do contrato de financiamento, com restituição dos valores desembolsados pelo autor. RECURSO NÃO PROVIDO.
+Alegou-se, no especial, violação dos artigos 14, § 3º, II, e 18 do Código de Defesa do Consumidor sob o argumento de que a instituição financeira não responde por vícios do produto ou serviço adquiridos mediante financiamento.
+Assim delimitada a controvérsia, passo a decidir.
+As instâncias ordinárias concluíram que o bem adquirido pelo autor mediante financiamento do agravante apresentava vício que não permitia a utilização, porquanto se trata de automóvel cuja documentação não lhe foi entregue.
+Esta Corte já decidiu que o contrato de financiamento entabulado com instituição financeira não é coligado ou acessório ao contrato de compra e venda se aquela não tem algum liame com o alienante.
+A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE VEÍCULO. FINANCIAMENTO COLIGADO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. AUSÊNCIA. OMISSÃO. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do STJ, "não há relação de acessoriedade entre o contrato de compra e venda de bem de consumo e o de financiamento bancário com alienação fiduciária, destinado a viabilizar a aquisição. Aliás, apenas há falar em responsabilidade solidária no caso de a instituição financeira estar vinculada à concessionária do veículo - hipótese em que se trata de banco da própria montadora -, o que não se constata na espécie" (AgInt no REsp 1.519.556/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 25/11/2016).
+2. Agravo interno improvido.
+(AgInt no AREsp n. 1.793.242/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/8/2021, DJe de 31/8/2021.)
+Não há, na hipótese dos autos, indicação alguma de que a vendedora e seus sócios tenham alguma relação com a instituição financeira titular do contrato de alienação fiduciária, razão pela qual não tem mesmo legitimidade para a demanda ou responsabilidade pelos vícios.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para extinguir o feito sem resolução de mérito em relação ao agravante. Custas adiantadas pelo agravante a serem arcadas pelo autor e honorários de 10% (dez por cento) sobre o valor a que foi condenado o recorrente a restituir ao autor, igualmente a serem pagas por este, respeitando-se eventual deferimento de gratuidade de J ustiça.
+Intimem-se.
+EMENTA
