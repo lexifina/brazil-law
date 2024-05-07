@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SONY DOS SANTOS NUNES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado às penas de 8 anos de reclusão, no regime inicial fechado, e ao pagamento de 40 dias-multa, como incurso nas sanções dos arts. 297 e 304 do Código Penal.
+O impetrante sustenta que o paciente vem sofrendo grave ilegalidade, uma vez que está preso preventivamente desde 1º/11/2022, não havendo previsão de julgamento do recurso de apelação interposto.
+Alega que o juízo de origem considerou a existência de concurso material de crimes, somando a pena do delito de uso de documento falso com a de falsificação de documento público, sendo pacífico na jurisprudência que nas hipóteses de prática de ambas as condutas a falsificação deve ser absorvida, tendo em vista que seria um crime meio.
+Requer, liminarmente e no mérito, que seja revogada a prisão preventiva imposta ao paciente e, caso assim não entenda, que sejam aplicadas medidas cautelares diversas da prisão.
+A liminar foi indeferida. Prestadas informações, o Ministério Público Federal se manifestou pela denegação da ordem.
+Aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. Com efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+No caso dos autos, extrai-se das informações prestadas pelo Tribunal de Justiça que o paciente foi preso preventivamente em 1/11/2022, e condenado, em 12/7/2023, "pela prática do crime previsto no artigo 304, c/c artigo 297, ambos do Código Penal, às penas de 08 (oito) anos de reclusão, em regime fechado, e 40 (quarenta) dias-multa" (fl. 58).
+Consta ainda que aos 31/8/2023, os autos do referido recurso de apelação foram distribuídos à 6ª Câmara Criminal daquela Corte, e, em 28/3/2024, foram encaminhados ao Ministério Público, onde aguardam para a apresentação de contrarrazões recursais.
+Vê-se, portanto, que, embora o recurso de apelação tenha sido distribuído em 31/8/2023, a marcha processual não se encontra fora dos padrões de razoabilidade. Em que pese o tempo decorrido entre a interposição da apelação e a presente data, não é o caso de relaxamento da prisão, pois se verifica que inexiste injustificada desídia ou inércia do Poder Público no tocante à marcha processual, especialmente tendo em conta a pena aplicada ao paciente na sentença (8 anos de reclusão, em regime inicial fechado).
+Não constatada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+No mais, conforme consignado na decisão liminar, verifica-se que não há nos autos qualquer manifestação do Tribunal de origem a respeito dos demais pedidos objeto deste mandamus, razão pela qual fica inviável a análise diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+Com efeito, o art. 105, I, c, da Constituição Federal dispõe que compete ao Superior Tribunal de Justiça processar e julgar habeas corpus somente quando o coator for tribunal sujeito a sua jurisdição, o que não se verifica no caso em questão. O pedido também não encontra arrimo em nenhuma das hipóteses de competência originária do STJ.
+Ante o exposto, denego o habeas corpus, com recomendação de celeridade no julgamento da apelação criminal.
+Publique-se.
+Intimem-se.
+ EMENTA
