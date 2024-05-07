@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por White Martins Gases Industriais Ltda. à decisão desta relatoria (e-STJ, fl. 1.522), assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. SUFICIÊNCIA NA FUNDAMENTAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. HIGIDEZ DA PROVA PERICIAL. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. CONCLUSÃO DO ACÓRDÃO PELA RESCISÃOCONTRATUAL. INADIMPLEMENTO. MULTA RESCISÓRIA. MODIFICAÇÃO DO JULGADO ESTADUAL. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em sua irresignação (e-STJ, fls. 1.539-1.544 ), a insurgente postula o acolhimento da presente medida a fim de elucidar "se o percentual de 2% é um acréscimo à verba honorária já estabelecida pelo TJ/SP", (..), "ou se a verba de 12% sobre o valor da causa deve passar a ser no percentual de 14%" (e-STJ, fl. 1.541), asseverando que já havia nos autos uma "majoração de 2% sobre a verba originariamente estabelecida pela sentença" (e-STJ, fl. 1.541).
+Impugnação às fls. 1.557-1.560 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+No caso dos autos, cumpre salientar que houve a majoração dos honorários advocatícios estabelecidos na decisão monocrática, a qual foi acrescida de 2% (dois por cento) sobre o valor fixado na origem.
+Assim, tendo em vista que o Tribunal a quo condenou a ora embargante ao pagamento desta verba no importe de 12% (doze por cento) sobre o valor da causa, este percentual deve ser elevado em mais 2%, ou seja, a condenação total dos honorários advocatícios em favor do advogado da parte ora embargada passa a ser de 14% (quatorze por cento) sobre o valor da causa.
+Diante do exposto, acolho os embargos de declaração de White Martins Gases Industriais Ltda. apenas para fins de esclarecimentos, sem efeitos infringentes.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE ESCLARECIMENTO ACERCA DA MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. EMBARGOS DE WHITE MARTINS GASES INDUSTRIAIS LTDA. ACOLHIDOS PARA FINS DE ESCLARECIMENTO, SEM EFEITOS INFRINGENTES.
