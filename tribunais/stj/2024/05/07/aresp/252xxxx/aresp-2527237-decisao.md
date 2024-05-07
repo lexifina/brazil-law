@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por ROSALINA GABRIEL contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 232):
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C.C. INDENIZATÓRIA POR DANOS MORAIS. Plano de saúde. Tentativa de portabilidade do plano de saúde seguida de novas cobranças da ré, reputadas indevidas e inadimplidas pela autora, sobrevindo a negativação de seu nome junto aos órgãos de restrição creditícia e a propositura da ação. Indeferimento da tutela de urgência. Sentença de improcedência.
+Apela a autora, alegando cerceamento de defesa; a responsabilidade da ré é objetiva; aplicabilidade da inversão do ônus da prova; inexigibilidade do pagamento dos valores cobrados; pertinência da fixação de indenização por danos morais. Pugna pela concessão da tutela de urgência recursal.
+Descabimento.
+Cerceamento de defesa. Inocorrência. Reconhecimento da discricionariedade do magistrado quanto à decisão da pertinência da realização de determinada prova. Concessão de oportunidade para especificação de provas, pugnando a autora pela juntada de prova documental. Não declinada a prova que pretendia produzir, e lhe foi cerceada, tampouco sua influência no desfecho da lide. Dilação probatória que se prestaria apenas para retardar a solução da lide. Inexistência de relação jurídica. Autora acostou apenas uma Declaração de Permanência no Plano, que não equivale a um pedido de cancelamento, eis que não traz esse tipo de informação em seu teor. Inviabilidade da inversão do ônus da prova, diante da impossibilidade de se exigir da ré a comprovação da ausência do pedido de formalização do cancelamento do plano. Reconhecimento de que incumbia à autora comprovar, documentalmente, o requerimento expresso de cancelamento do plano, assim como fez ao ingressar nele. Inteligência do art. 373, I, CPC. Impossibilidade de se reconhecer a inexistência de relação jurídica e a inexigibilidade do débito sem a efetiva formalização do cancelamento do plano. A ré agiu em exercício regular de direito ao efetuar as cobranças e negativar o nome da autora, descabendo a fixação da indenização e justificando a manutenção da sentença. Majoração dos honorários recursais. Recurso improvido.
+Nas razões do especial, aponta a recorrente violação dos artigos 6º, VIII, e 14 da Lei nº 8.078/90 e artigos 186 e 927 do Código Civil, argumentando, em síntese, que seria vedada a inserção de cadastro negativo de segurado que requereu formalmente a portabilidade de plano de saúde, em relação à dívida posterior à migração, pela operadora de origem.
+Ressalta, ainda, que seria impositiva a inversão do ônus da prova, em relação ao pedido de portabilidade realizado, tendo em vista a caracterização da segurada como consumidora.
+O recurso especial não foi admitido na origem (fls. 310/312); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 6º, VIII, da Lei nº 8.078/90, verifica-se que o Tribunal de origem concluiu que seria impertinente a inversão do ônus da prova para comprovar fato negativo, consistente na falta de requerimento expresso de portabilidade à operadora de origem (fl. 234):
+Quanto ao mérito, segundo se depreende, a autora cuidou apenas de acostar uma Declaração de Permanência no Plano (f. 14), que não equivale a um pedido de cancelamento de plano de saúde, até porque não traz qualquer informação a este respeito, em seu teor.
+Neste sentido, absolutamente descabida se mostraria a inversão do ônus da prova, na medida em que absolutamente impossível à ré comprovar a ausência do pedido de formalização do cancelamento do plano.
+Era incumbência da autora demonstrar, documentalmente, que haveria requerido expressamente o cancelamento do plano de saúde, de conformidade com o art. 373, I1 , CPC, assim como fez ao ingressar nele (f. 86/96), circunstância da qual não se desincumbiu, o que justifica as cobranças a ela direcionadas. (grifo acrescido)
+A orientação adotada pela Corte l ocal não destoa da jurisprudência desta Corte, consolidada no sentido de que: "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor" (AgInt no AREsp 1.749.651/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 19/4/2021, DJe de 21/5/2021).
+Ademais, tratando-se de fato negativo, não há como proceder à inversão do ônus da prova, ainda que reconhecida à vulnerabilidade do consumidor, tendo em vista a vedação à denominada prova diabólica, impossível de ser realizada.
+A propósito:
+ ..
+3. É firme a orientação deste Tribunal Superior no sentido de que é inviável a exigência de prova de fato negativo. Precedentes.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.206.818/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 2/5/2018.)
+ ..
+1. "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor" (AgInt no AREsp 1.749.651/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 19/4/2021, DJe de 21/5/2021).
+2. "É firme a orientação deste Tribunal Superior no sentido de que é inviável a exigência de prova de fato negativo" (AgInt no AREsp 1.206.818/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 2/5/2018).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.271.223/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+No que se refere à questão de fundo, o Tribunal de origem reconheceu que subsistia a relação jurídica entre a operadora do plano de saúde e a segurada, justificando assim o reconhecimento da existência da dívida e a licitude da inscrição no cadastro negativo (fls. 234/235).
+Diante desse contexto, para afastar o provimento adotado, seria imprescindível o reexame do contexto fático-probatório; providência, porém, vedada em sede de recurso especial, em razão da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
