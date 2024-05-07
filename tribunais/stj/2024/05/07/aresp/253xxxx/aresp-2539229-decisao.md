@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado (e-STJ fl. 681):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZATÓRIA. SEGURO DE VIDA INDENIZAÇÃO SECURITÁRIA POR MORTE. NEGATIVA DE PAGAMENTO PELA SEGURADORA SOB ALEGAÇÃO DE OMISSÃO DE DOENÇA PREEXISTENTE. PAGAMENTO DA INDENIZAÇÃO. PROCEDÊNCIA. MANUTENÇÃO. Afasta-se a preliminar de cerceamento de defesa. Não há necessidade de produção de qualquer outra prova. O E. STJ possui entendimento consolidado no sentido de que a doença preexistente só pode ser alegada pela operadora, caso haja prévio exame médico ou exista prova inequívoca de má-fé. Súmula 609. In casu, não foi realizado o exame médico e não restou caracterizada a má-fé do segurado. Procedência que se impõe com a condenação da Ré ao pagamento da indenização aos Autores. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial (fls. 704-724), aponta a parte recorrente violação aos artigos 7º, 373, 489 e 1.022 do Código de Processo Civil; 757, 760, 765 e 766 do Código Civil; bem como divergência jurisprudencial.
+Alega que o acórdão recorrido incorre em deficiência na prestação jurisdicional, diante da rejeição dos embargos de declaração sem suprimento das omissões relativas ao suposto cerceamento de defesa pelo indeferimento da perícia indireta pleiteada.
+Sustenta ocorrência de cerceamento de defesa, visto que não se admitiu a realização de perícia, que segundo a agravante seria capaz de demonstrar a inexistência do dever de indenizar.
+Aduz que o acórdão estadual a condenou a pagar indenização indevida, dada a comprovação da má-fé do segurado que no ato da contratação de seguro de vida, omitiu a preexistência de enfermidade grave, causa determinante de seu óbito.
+Contrarrazões apresentadas (fls. 750-761).
+O recurso especial não foi admitido, ensejando a interposição do presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Acerca do alegado vício na prestação jurisdicional, não observo omissão no acórdão, senão julgamento contrário aos interesses do agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à desnecessidade da prova pericial pleiteada e da não demonstração da suposta má-fé do segurado quando da contratação, revelando que os motivos da decisão se encontram objetivamente fixados nas razões do acórdão recorrido.
+Quanto à segunda preliminar suscitada, observo que a Corte de origem rejeitou a alegação de cerceamento de defesa, sob a seguinte fundamentação (fls. 685-686):
+Rejeita-se a preliminar de cerceamento de defesa. Cabe ao Juiz, como destinatário da prova, analisar quais são úteis ao deslinde da controvérsia e quais são as provas desnecessárias.
+Assim, in casu, pelos documentos juntados aos autos e as provas já produzidas não se mostra necessário a realização de qualquer outra prova, estando o processo apto para julgamento quando da prolação da sentença.
+À luz da jurisprudência do Superior Tribunal de Justiça, a produção de provas no processo tem a finalidade de orientar o julgador na condução da causa. Estando o juiz - a quem compete o ordenamento do feito - convencido de que dispõe de elementos aptos a formar sua convicção, desnecessária se torna a dilação probatória.
+Cabe ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias. Em suma, o poder de instrução conferido ao magistrado em decorrência dos princípios da livre admissibilidade da prova e do livre convencimento motivado autoriza-o a indeferir pedido de dilação probatória, quando constatada sua desnecessidade ou inconveniência, o que não configura cerceamento de defesa.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO SEM OITIVA DE TESTEMUNHAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.
+1. Não ocorre cerceamento de defesa quando o magistrado entende que a prova acostada aos autos se mostra suficiente para dirimir a controvérsia, considerando desnecessária a oitiva de testemunhas.
+2. A jurisprudência desta Corte Superior é no sentido de que "o magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC. A avaliação tanto da suficiência dos elementos probatórios, que justificaram o julgamento antecipado da lide (art. 330, I, do CPC), quanto da necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial (Súmula 7/STJ)" (AgRg no REsp 1.449.368/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 27/8/2014).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1016498/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 19/5/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ALEGADA VIOLAÇÃO AO ART. 535, II, DO CPC/73. OFENSA AFASTADA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO. ART. 330, I, DO CPC/1973. NÃO OCORRÊNCIA. AUTORIZAÇÃO. CIRURGIA EM HOSPITAL ESPECIALIZADO COM EQUIPAMENTOS ESPECÍFICOS. PROCEDIMENTOS ESPECIAIS DE IMPLANTE DE ENDOPRÓTESES EM AORTA ABDOMINAL, EM ARTÉRIAS ILÍACAS BILATERALMENTE E RENAIS ESQUERDA E DIREITA, ANGIOPLASTIA DA AORTA BILATERAL, IMPLANTE DE PRÓTESE VASCULAR EM ARTÉRIA MESENTÉRICA SUPERIOR, ANGIOPLASTIA MESENTÉRICA SUPERIOR, AORTOGRAFIA ABDOMINAL, ARTERIOGRAFIA ILÍACA BILATERAL E ARTERIOGRAFIA PÓS-OPERATÓRIA DE CONTROLE. ATENDIMENTO DE URGÊNCIA. AGRAVO DESPROVIDO.
+ ..
+2. O juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 130 do CPC/73, de sorte que inexiste nulidade quando o julgamento antecipado da lide decorre, justamente, do entendimento do Juízo a quo de que o feito encontra-se devidamente instruído com os documentos trazidos pelas partes.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 751.138/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 10/4/2017)
+Ademais, consoante a jurisprudência do STJ, compete às instâncias ordinárias exercer juízo acerca das provas produzidas, haja vista sua proximidade com as circunstâncias fáticas da causa. Por conta disso, se o magistrado, após análise das particularidades da controvérsia, entendeu não haver necessidade de dilação probatória, como sucede na espécie, não há falar em cerceamento de defesa. Incide, portanto, a Súmula 83 do STJ.
+De todo modo, a conclusão de que não houve cerceamento de defesa em virtude do julgamento antecipado do feito, assentada no acórdão recorrido, decorreu de valoração de provas, e sua reapreciação, mais uma vez, esbarra no óbice da Súmula 7 do STJ.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROVA PERICIAL. PREQUESTIONAMENTO. AUSÊNCIA. APRECIAÇÃO DE PROVA. PRINCÍPIO DO LIVRE CONVENCIMENTO. ART. 131 DO CPC. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+ ..
+2. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+3. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 621.710/RS, Relatora a Ministra Maria Isabel Gallotti, DJe 14/5/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. MAGISTRADO COMO DESTINATÁRIO DAS PROVAS. CERCEAMENTO DE DEFESA. CONFIGURAÇÃO. REEXAME DE PROVAS. INADMISSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É possível o julgamento antecipado da lide quando o tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Os princípios da livre admissibilidade da prova e do livre convencimento do juiz (art. 130 do CPC) permitem ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+2. Rever os fundamentos de não reconhecimento do cerceamento de defesa por ter sido a lide julgada antecipadamente demanda a reapreciação do conjunto fático-probatório dos autos, o que é inadmissível em recurso especial, a teor da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 229.927/SP, Relator o Ministro Ricardo Villas Bôas Cueva, DJe 23/3/2015)
+No mérito, o Tribunal de origem, em exame das cláusulas do contrato firmado entre as partes, das circunstâncias fáticas e das provas carreadas aos autos, reconheceu o dever de indenizar da agravante em razão do contrato vigente à época do sinistro, assim se pronunciando (fls. 686-687):
+É incontroverso nos autos que o pai dos Autores, ora Apelados, possuía seguro com a Ré, com cobertura para morte no valor de R$ 218.049,60 (duzentos e dezoito mil quarenta e nove reais e sessenta centavos), com vigência de 18/04/2019 a 18/04/2022. (Index 367)
+Incontroverso também que em janeiro de 2019 o pai dos Autores sofreu um infarto e procurou seu gerente para solicitar a indenização securitária de renda protegida, vez que passou por procedimento para colocação de um stent e teria que se afastar do trabalho.
+O pai dos Autores faleceu em março de 2021, em razão, dentre outras causas, de cardiopatia isquêmica.
+É cediço que o E. STJ possui entendimento consolidado no sentido de que a doença preexistente só pode ser alegada pela operadora, caso haja prévio exame médico ou exista prova inequívoca de má-fé. (..)
+No caso em comento, não foi realizado o exame prévio, restando a apreciação da existência de má-fé quando da contratação.
+A Ré, ora Apelante, para comprovar sua alegação de que o segurado, omitiu a doença quando da contratação do seguro, apresenta somente tela do seu sistema, que não confere certeza no que se refere a omissão dolosa quando da contratação do seguro.
+Ademais, como dito alhures, o segurado procurou o preposto do banco em 2019 para informar que se afastou do trabalho, em razão de ter sofrido um infarto, com o objetivo de pleitear o benefício de renda protegida do seguro, que demonstra que não possuía intenção de omitir a doença, o que desconfigura a má-fé.
+Com efeito, considerando a moldura fática delineada pelo Tribunal de origem, verifico que o acórdão recorrido se encontra em harmonia com a jurisprudência pacífica deste Superior Tribunal de Justiça. Ademais, o acolhimento das razões do recurso demandaria inevitável apreciação das cláusulas contratuais e a revisão do conjunto fático-probatório dos autos em sede de recurso especial, procedimento que encontra óbice nos verbetes 5 e 7 da Súmula desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISCUSSÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. INVIABILIDADE. SÚMULA 315/STJ. HARMONIA ENTRE O ENTENDIMENTO DO ACÓRDÃO EMBARGADO E A JURISPRUDÊNCIA DO TRIBUNAL. SÚMULA 168/STJ.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Ainda que fosse superada a incidência da Súmula 315/STJ, a admissibilidade dos embargos de divergência esbarraria na Súmula 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Segundo a pacífica jurisprudência da 2ª Seção, a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado, nos termos da Súmula 609/STJ.
+4. Entendimento que foi expressamente adotado no acórdão embargado, o qual, todavia, registrou a impossibilidade de reexame da conclusão do Tribunal de origem quanto à má-fé do segurando, por força dos óbices das Súmulas 5 e 7/STJ. Inexistência, pois, de dissídio jurisprudencial a ser sanado na via dos embargos de divergência.
+5.Agravo interno não provido.
+(AgInt nos EREsp 1854744/PR, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 30/9/2021)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
+EMENTA
