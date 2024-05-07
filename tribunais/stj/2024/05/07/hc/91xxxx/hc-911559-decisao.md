@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DENIS FELIX DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500689-18.2021.8.26.0621.
+Consta nos autos que o Paciente foi condenado às penas de 10 (dez) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime inicial fechado, e 711 (setecentos e onze) dias-multa, como incurso nos arts. 33, caput, da Lei n. 11.343/2006 e 16, §1º, inciso IV, da Lei n. 10.826/2003.
+A Defesa do Acusado interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem.
+Neste writ, a Impetrante alega a "indevida majoração na fração de 1/5 em decorrência da dupla reincidência" (fl. 4).
+Requer, liminarmente e no mérito, a readequação da dosimetria.
+É o relatório. Decido.
+Em consulta à página eletrônica da Corte de origem, constato que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, compreendendo " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022). Na hipótese dos autos, a condenação do agravante transitou em julgado de há muito, com baixa definitiva ao Juízo de origem, tendo o acórdão sido proferido em março de 2013.
+ ..
+4. Agravo regimental desprovido." (AgRg no HC n. 846.952/RJ, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. REGIME FECHADO. IMPETRAÇÃO CONTRA SENTENÇA COM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos.
+II - "O exame das alegações dos impetrantes se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal" (HC n. 483.065/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/11/2019).
+III - Ao Superior Tribunal de Justiça é vedado apreciar mandamus impetrado contra sentença transitada em julgado na instância ordinária, pois, nesse caso, haveria usurpação da competência do Tribunal de origem, nos termos dos artigos 105, inciso I, alínea "e", e artigo 108, inciso I, alínea "b", ambos da Constituição da República. Precedentes.
+Agravo regimental desprovido." (AgRg no HC n. 832.975/PR, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+Ademais, não constato, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus, de ofício.
+Com efeito, o Colegiado estadual consignou o seguinte (fl. 545):
+" ..
+Na segunda fase da dosimetria, ante a ausência de parâmetro legal quanto à fração de majoração ou redução da reprimenda e observando-se a razoável e proporcional individualização da pena, mantém-se a majoração da reprimenda em um quinto, ante às recidivas (fls. 341/346 proc. 0001756-73.2009 e 0000073-35.2016), ou seja, sete anos de reclusão e pagamento de seiscentas e noventa e nove diárias mínimas."
+De acordo com o entendimento consolidado desta Corte Superior de Justiça, "a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (AgRg no HC 710.060/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/12/2021, DJe 17/12/2021).
+De fato, a multirreincidência exige maior reprovação do que a dispensada a quem seja reincidente em razão de um único evento delituoso, em respeito aos princípios da individualização das penas e da proporcionalidade.
+Como se pode observar, as instâncias ordinárias fundamentaram adequadamente a eleição de fração superior a 1/6 (um sexto) para o aumento da pena na segunda fase da dosimetria, uma vez que o Paciente é multirreincidente, devido a presença de duas condenações penais transitadas em julgado. Assim, a fração de exasperação empregada na segunda fase dosimétrica está devidamente justificada.
+A propósito, incidem os seguintes precedentes desta Corte Superior de Justiça:
+" ..
+8. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+9. Na hipótese, destacada a multirreincidência do paciente (duas condenações anteriores distintas da sopesada para elevar a pena-base), não se verifica manifesta ilegalidade na escolha da fração de 1/5 pelo reconhecimento da causa de aumento do art. 61, I, do Código Penal, a autorizar excepcionalmente a intervenção desta Corte.
+10. Agravo regimental não provido." (AgRg no HC n. 865.341/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. AGRAVANTE DE REINCIDÊNCIA. PROPORCIONALIDADE. AUMENTO SUPERIOR A 1/6. FUNDAMENTAÇÃO CONCRETA. MULTIRREINCIDÊNCIA OU REINCIDÊNCIA ESPECÍFICA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. As hipóteses de reincidência específica ou multirreincidência podem justificar a exasperação da pena, na segunda fase da dosimetria, acima do patamar de 1/6, para a agravante de reincidência.
+2. Agravo regimental improvido." (AgRg no HC 548.769/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
