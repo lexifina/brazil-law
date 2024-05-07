@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONCURSO DE AGENTES E REITERAÇÃO DELITIVA. DESPROVIMENTO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. Tratando-se de furto qualificado pelo concurso de agentes, e constatado pelas instâncias ordinárias a habitualidade delitiva do réu, ora agravante, tais circunstâncias, somadas, evidenciam o não preenchimento dos requisitos necessários ao usufruto do benefício, sobretudo a mínima ofensividade da conduta e o seu reduzido grau de reprovabilidade.
+3. "A restituição da res furtiva à vítima, na forma do entendimento consolidado desta Corte Superior, não constitui, isoladamente, motivo suficiente para a aplicação do princípio da insignificância" (AgInt no REsp n. 1.642.455/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/5/2017, DJe de 30/5/2017.)
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 155, § 4º, IV, do Código Penal, a 2 anos de reclusão, em regime inicial aberto, substituído por duas penas restritivas de direitos, e o pagamento de 10 dias-multa.
+Neste recurso, a defesa busca a reconsideração da decisão agravada, repisando, em suma, os fundamentos da inicial do recurso especial, na qual sustentou que a reiteração delitiva do réu e o fato de o furto ser qualificado pelo concurso de agentes não impedem a aplicação do princípio da insignificância.
+Acrescenta que "os bens subtraídos foram devidamente restituídos a vítima não ocasionado prejuízo econômico, sendo estes objetos de pequeno valor e de um imóvel abandonado, sendo mínima a ofensividade da conduta do agravante, tendo em vista que não proporcionou exposição ao perigo de qualquer bem jurídico extremamente relevante" (fls. 345-346).
+Em contraminuta, o Ministério Público Federal requereu o desprovimento recursal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONCURSO DE AGENTES E REITERAÇÃO DELITIVA. DESPROVIMENTO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. Tratando-se de furto qualificado pelo concurso de agentes, e constatado pelas instâncias ordinárias a habitualidade delitiva do réu, ora agravante, tais circunstâncias, somadas, evidenciam o não preenchimento dos requisitos necessários ao usufruto do benefício, sobretudo a mínima ofensividade da conduta e o seu reduzido grau de reprovabilidade.
+3. "A restituição da res furtiva à vítima, na forma do entendimento consolidado desta Corte Superior, não constitui, isoladamente, motivo suficiente para a aplicação do princípio da insignificância" (AgInt no REsp n. 1.642.455/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/5/2017, DJe de 30/5/2017.)
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos, extraindo-se desta (fl. 334):
+ ..  Sabe-se que a reincidência e a habitualidade delitiva têm sido compreendidas como obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal. Nesse sentido: EAREsp 221.999/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 11/11/2015, DJe 10/12/2015. A propósito, veja-se também:
+ ..
+Portanto, tendo em vista a habitualidade delitiva do réu e as circunstâncias do crime, praticado em concurso de agentes, não há falar na incidência do princípio da insignificância, uma vez que o acórdão está em conformidade com a jurisprudência deste STJ.
+Estando o acórdão recorrido em dissonância com a jurisprudência desta Corte, tem incidência a súmula n. 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema"  ..
+Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+No caso, o Tribunal de origem rechaçou o pleito defensivo, uma vez que o crime foi cometido "em concurso de agentes, que no caso do tipo penal do art. 155, § 4º, inciso IV do CP/40, representa circunstância qualificadora, ensejando maior reprovabilidade da conduta" (fl. 268).
+Além disso, constou do acórdão recorrido que "o acusado é portador de maus antecedentes e, em sua maioria, por crimes contra o patrimônio, o que denota sua habitualidade delitiva.  ..  a certidão de antecedentes de Num. 4401939 - Pág. 7/9, mais completa e referente ao mesmo acusado com a mesma filiação, indica 15 (quinze) ocorrências criminais, as quais comprovam não só seus maus antecedentes, como também seu estado de reincidente" (idem).
+Demonstrada a habitualidade delitiva do réu, ora agravante, tal óbice impede o reconhecimento do princípio em apreço. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. CRIME IMPOSSÍVEL. NÃO CONFIGURADO. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A Quinta Turma desta Corte Superior reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando demonstrado ser tal medida recomendável diante das circunstâncias concretas, o que não se evidencia na hipótese, eis que o agravante é reincidente, ostenta vários antecedentes por crimes contra o patrimônio e, quando praticou o presente furto, estava em liberdade provisória concedida há poucos dias, o que denota sua habitualidade delitiva e afasta, por consectário, a incidência do princípio da bagatela.
+4. Agravo regimental não provido. (AgRg no AREsp n. 2.454.215/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/12/2023, DJe de 11/12/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTOS SIMPLES E QUALIFICADO, EM CONCURSO MATERIAL. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. CONTEXTO DA SUBTRAÇÃO. AGRAVO DESPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não é possível a incidência do princípio da bagatela, porquanto não evidenciado o reduzidíssimo grau de reprovabilidade do comportamento, tendo em vista a reiteração delitiva e o contexto da prática dos crimes. Elucidou a instância de origem a habitualidade delitiva do agravante, que possui duas condenações definitivas por crimes de furto, além de três processos em andamento, também por crimes patrimoniais.
+3. Somado a isso, os presentes autos cuidam do concurso material entre 2 delitos de furto, sendo um simples e outro qualificado, e a soma dos valores atribuídos aos objetos subtraídos representa mais de 10% do salário mínimo vigente à época dos fatos.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.366.044/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+Vale destacar, por fim, que " a  restituição da res furtiva à vítima, na forma do entendimento consolidado desta Corte Superior, não constitui, isoladamente, motivo suficiente para a aplicação do princípio da insignificância" (AgInt no REsp n. 1.642.455/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/5/2017, DJe de 30/5/2017).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
