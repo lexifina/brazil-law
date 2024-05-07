@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por Esdras Machado Silva, com fundamento nos arts. 988, II, do CPC/2015 e 105, I, f, da CRFB, apontando como autoridade reclamada o Juízo de Direito da Vara Cível de Santa Rosa de Lima de Riachuelo/SE.
+Sustenta, em síntese, que, ao deferir a penhora sobre a sua aposentadoria, acabou por violar a autoridade da decisão proferida no AREsp n. 2.270.085/SE, na qual o Min. Ricardo Villas Bôas Cueva afastou a possibilidade de constrição de sobre sua aposentadoria.
+Assim, apesar de a referida decisão ter sido proferida em processo distinto daquele subjacente à presente reclamação, os polos passivo e ativo são ocupados pelas mesmas partes, de maneira que deve ser aplicado o mesmo entendimento firmado naquele precedente, sob pena de violação à autoridade desta Corte.
+Brevemente relatado, decido.
+A reclamação constitucional é um remédio destinado a preservar a competência do Superior Tribunal de Justiça e a garantir a autoridade de suas decisões, sempre que haja indevida usurpação por parte de outros órgãos de sua competência constitucional, nos termos do art. 105, I, f, da Constituição da República.
+Sendo assim, não se presta para compelir os tribunais a aplicarem, na apreciação de questões semelhantes, eventual tese firmada por esta Corte, salvo na hipótese de a decisão proferida se referir às mesmas partes envolvidas na lide objeto de reclamação e ter sido descumprida na origem, o que não corresponde, nem de longe, ao caso destes autos.
+Portanto, incabível o pedido de natureza flagrantemente recursal aqui intentado, ainda que sob a roupagem de reclamação. É que a reclamação, por não se tratar de recurso, não serve para a modificação de julgado que, de qualquer forma, acabou por ser desfavorável ao interesse da parte.
+Logo, por meio deste expediente não é possível se alcançar a tutela pretendida, a saber, a aplicar o mesmo entendimento firmado em outro processo, apenas por envolver, tanto nesse como naquele processo, as mesmas partes. Em outras palavras, não se está diante de descumprimento de decisão emanada por esta Casa envolvendo as partes da demanda a que se refere o presente expediente.
+Desse modo, "somente é cabível a reclamação constitucional por ofensa da autoridade de decisão do Superior Tribunal de Justiça na hipótese em que a decisão alegadamente ofendida foi proferida no próprio processo em que o reclamante é parte, o que não ocorreu na hipótese" (AgInt na Rcl n. 41.285/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 9/6/2021, DJe 14/6/2021).
+E ainda:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. CASO CONCRETO QUE NÃO SE AMOLDA A NENHUMA DAS HIPÓTESES AUTORIZATIVAS DA VIA ELEITA. ORIENTAÇÃO DESTA CORTE NO SENTIDO DE QUE É INADMISSÍVEL A UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AFRONTA À AUTORIDADE DE DECISÃO PROFERIDA EM OUTRO PROCESSO. AUSÊNCIA DE EFEITO VINCULANTE.
+1. No julgamento da Rcl 15.215/MG, a Primeira Seção firmou orientação no sentido de que, "por força do art. 24 do RI-STJ, ao Presidente da Seção não são distribuídos quaisquer feitos, razão pela qual a reclamação é livremente distribuída".
+2. Nos termos do art. 105, f, da CF c/c o art. 187 do RISTJ, a Reclamação é cabível para preservar a competência deste Tribunal ou para garantir a autoridade das suas decisões, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada ou como meio de dirimir divergência jurisprudencial.
+3. De acordo com a jurisprudência do Superior Tribunal de Justiça a decisão que declara a competência no conflito somente se aplica ao processo que lhe deu origem, não se estendendo a outros, ainda que análoga a situação fático-jurídica.
+4. Agravo regimental não provido. (ArRg na Rcl n. 24.962/MG, Rel. Min. Mauro Campbell, Primeira Seção, julgado em 24/6/2015, DJe 1/7/2015)
+À vista do exposto, não conheço da presente reclamação.
+Publique-se.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. REMÉDIO DESTINADO A PRESERVAR A COMPETÊNCIA DO STJ. ALEGAÇÃO DE DESCUMPRIMENTO DE DECISÃO DO STJ PROFERIDA EM OUTRO PROCESSO. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. RECLAMAÇÃO NÃO CONHECIDA.
