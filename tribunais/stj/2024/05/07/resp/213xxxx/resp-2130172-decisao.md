@@ -1,0 +1,60 @@
+DECISÃO
+Examina-se recurso especial interposto por ROBSON MACEDO DOS SANTO com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 21/8/2023.
+Concluso ao gabinete em: 28/2/2024.
+Ação: "declaratória c/c obrigação de não fazer" (fl. 2) ajuizada pela parte recorrente.
+Sentença: julgou improcedente o pedido.
+Acórdão: por unanimidade, negou provimento ao recurso de apelação, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DENULIDADE DE DÍVIDA C/C DANOS MORAIS. DÍVIDA CONSTANTE NA PLATAFORMA SERASA LIMPA NOME. DANO MORAL NÃO CONFIGURADO.
+1. A oferta de acordo de pagamento de dívida prescrita no Sistema Serasa Limpa Nome, por si só, sem a prova de cobrança vexatória, não configura ato abusivo, tendo em vista que a referida plataforma não se trata de cadastro restritivo de crédito, e que encontra amparo legal na Lei do Cadastro Positivo (Lei 12.414/2011), que autoriza a criação de bancos de dados com informações de adimplemento de pessoas naturais, e visa, tão somente, a formar o histórico do comportamento financeiro do consumidor, prática comercial considerada lícita pelo Tema 710 do STJ.
+2. O apelante não se desincumbiu do ônus de atestar o efetivo prejuízomoral sofrido, haja vista que não comprovada a cobrança excessiva edesrespeitosa pela empresa requerida, a inscrição de seu nome nocadastro de proteção ao crédito, ou que o registro da dívida diminuiu oseu score de crédito.
+3. Descabe falar em declaração de inexistência do débito, porquanto adívida não se encontra negativada e, apesar de prescrita, nada obstaque haja a tentativa extrajudicial de negociar o débito.
+4. Em razão do desprovimento do recurso, devem ser majorados oshonorários advocatícios.
+(fls. 372-373)
+Recurso especial: alega, em síntese, além de divergência jurisprudencial, ofensa aos arts. 489 e 1.022, I e II do Código de Processo Civil; ao art. 43, §1º e §5º do Código de Defesa do Consumidor e aos arts. 189, 205, 206 e 882 do Código Civil, ao argumento de que: a) o acórdão recorrido conteria omissões, pois não se manifestou sobre o pedido de proibição de ameaças de protesto, de negativação e de restrição de crédito, e sequer manifestou-se sobre a abusividade das cobranças; e b) deve ser reconhecida a inexigibilidade da dívida em virtude da prescrição, não sendo lícito ao recorrido realizar cobranças judiciais ou extrajudiciais.
+Prévio juízo de admissibilidade: o TJSP inadmitiu o recurso especial interposto (fls. 465-468).
+Em face das razões apresentadas no agravo em recurso especial, determinei a autuação do agravo como recurso especial, nos termos do art. 34, XVI, do RISTJ, para melhor exame da matéria em debate, sem prejuízo de futuro reexame dos pressupostos de admissibilidade recursal.
+É o relatório.
+DECIDO.
+1. DA AUSÊNCIA DE OMISSÕES
+1. Na hipótese em exame deve ser afastada a existência de omissões no acórdão recorrido, pois as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+2. Ademais, conforme a jurisprudência desta Corte, "não obstante se reconheça a existência de contradição e omissão no acórdão recorrido, é possível a superação desses vícios, a fim de que se adentre no mérito da irresignação e se aplique o direito à espécie, considerando os princípios da celeridade, da economia processual, da efetividade da jurisdição e da primazia do julgamento de mérito (art. 5º, LXXVIII, da CRFB, e arts. 4º, 6º e 139, IX, do CPC/2015), sendo prescindível a decretação de nulidade do acórdão e consequente retorno dos autos à origem" (REsp 1.992.184/SP, Terceira Turma, DJe 3/6/2022).
+2. DA IMPOSSIBILIDADE DE COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA
+3. Aduz a parte recorrente, em síntese, que deve ser reconhecida a inexigibilidade da dívida em virtude da prescrição, não sendo lícito ao recorrido realizar cobranças judiciais ou extrajudiciais.
+4. A Corte de origem, no entanto, entendeu que a prescrição não impediria a cobrança extrajudicial do débito, verbis:
+Os débitos indicados pelo autor advêm de contrato bancário datado de 2010 junto ao Bradesco, conforme se vê nos prints acostados na defesa de evento 24. Por sua vez, o requerente não nega a existência do negócio, mas tão somente limita-se a aduzir a prescrição da dívida.
+No decorrer do feito, verificou-se que o nome do Recorrente não está negativado quanto ao débito questionado, mas apenas inserido no Serasa Limpa Nome.
+ ..
+Na hipótese vertente, o documento apresentado pelo recorrente no evento 01 noticia a existência de uma conta em atraso (e não negativada), com a respectiva possibilidade de negociação, dentro da plataforma "Serasa Limpa Nome", o que não se trata, portanto, de evidência de negativação.
+ ..
+De igual modo, imperioso ressaltar que a oferta de acordo de pagamento de dívida prescrita no Sistema Serasa Limpa Nome, por si só, não configura ato abusivo, tendo em vista que referida plataforma encontra amparo legal na Lei do Cadastro Positivo(Lei 12.414/2011), que autoriza a criação de bancos de dados com informações de adimplemento de pessoas naturais ou jurídicas, e visa a, tão somente, formar o histórico do comportamento financeiro do consumidor (art. 1º), prática comercial considerada lícita pelo Tema 710 do STJ.
+ ..
+No mais, descabe falar em declaração de inexistência do débito, porquanto a dívida não se encontra negativada e, apesar de prescrita, nada obsta que haja a tentativa extrajudicial de negociar o débito.
+(fls. 369-371)
+5. Nesse contexto, importa consignar que a Terceira Turma do STJ, recentemente, fixou o entendimento de que, se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada em razão da prescrição, não seria mais possível exigir o referido comportamento do devedor, ou seja, não seria mais possível cobrar a dívida. Logo, o reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito.
+6. Ressaltou-se, ainda, como consequência, que não seria lícito ao credor efetuar qualquer cobrança extrajudicial da dívida prescrita, seja por meio de telefonemas, e-mail, mensagens de texto de celular (SMS e Whatsapp), seja por meio da inscrição do nome do devedor em cadastro de inadimplentes com o consequente impacto no seu score de crédito.
+7. O precedente ficou assim ementado:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PRESCRITO. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. MANUTENÇÃO DO ACÓRDÃO ESTADUAL.
+1. Ação de conhecimento, por meio da qual se pretende o reconhecimento da prescrição, bem como a declaração judicial de inexigibilidade do débito, ajuizada em 4/8/2021, da qual foi extraído o presente recurso especial, interposto em 26/9/2022 e concluso ao gabinete em 3/8/2023.
+2. O propósito recursal consiste em decidir se o reconhecimento da prescrição impede a cobrança extrajudicial do débito.
+3. Inovando em relação à ordem jurídica anterior, o art. 189 do Código Civil de 2002 estabelece, expressamente, que o alvo da prescrição é a pretensão, instituto de direito material, compreendido como o poder de exigir um comportamento positivo ou negativo da outra parte da relação jurídica.
+4. A pretensão não se confunde com o direito subjetivo, categoria estática, que ganha contornos de dinamicidade como surgimento da pretensão. Como consequência, é possível a existência de direito subjetivo sem pretensão ou com pretensão paralisada.
+5. A pretensão se submete ao princípio da indiferença das vias, podendo ser exercida tanto judicial, quanto extrajudicialmente. Ao cobrar extrajudicialmente o devedor, o credor está, efetivamente, exercendo sua pretensão, ainda que fora do processo.
+6. Se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada em razão da prescrição, não será mais possível exigir o referido comportamento do devedor, ou seja, não será mais possível cobrar a dívida. Logo, o reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito.
+7. Hipótese em que as instâncias ordinárias consignaram ser incontroversa a prescrição da pretensão do credor, devendo-se concluir pela impossibilidade de cobrança do débito, judicial ou extrajudicialmente, impondo-se a manutenção do acórdão recorrido.
+8. Recurso especial conhecido e desprovido.
+(REsp n. 2.088.100/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023.)
+8. No mesmo sentido: REsp n. 2.094.303/SP, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023; AgInt no AREsp n. 2.475.479/SP, Terceira Turma, DJe de 14/3/2024; e AgInt no REsp n. 2.099.553/SP, Terceira Turma, DJe de 6/3/2024.
+9. Na hipótese dos autos, é incontroversa a consumação da prescrição, conforme se extrai do exame do acórdão estadual.
+10. Desse modo, merece reforma o acórdão recorrido, impondo-se a declaração de inexigibilidade da referida dívida, afastando-se qualquer possibilidade de cobrança judicial ou extrajudicial do débito.
+11. Ademais, importa consignar que eventual inclusão ou permanência do nome do devedor no "Serasa Limpa Nome", em razão de dívida prescrita, não pode acarretar - ainda que indiretamente - cobrança extrajudicial, tampouco impactar no score do consumidor. Nesse sentido: REsp n. 2.088.100/SP, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023; REsp n. 2.094.303/SP, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023.
+Forte nessas razões, DOU PARCIAL PROVIMENTO ao recurso especial para declarar a inexigibilidade dos débitos descritos na petição inicial em razão da prescrição, determinando que a parte recorrida se abstenha de realizar cobranças judiciais ou extrajudiciais da referida dívida, nos termos da fundamentação exposta.
+Condeno a parte recorrida a arcar com as custas processuais e os honorários advocatícios, estes fixados em R$ 3.000,00 (três mil reais), nos termos do art. 85, §8º do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PRESCRITO. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE.
+1. Na hipótese em exame deve ser afastada a existência de omissões no acórdão recorrido, pois as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+2. O reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito. Precedentes.
+3. Como consequência, não é lícito ao credor efetuar qualquer cobrança extrajudicial da dívida prescrita, seja por meio de telefonemas, e-mail, mensagens de texto de celular (SMS e Whatsapp), seja por meio da inscrição do nome do devedor em cadastro de inadimplentes com o consequente impacto no seu score de crédito. Eventual inclusão ou permanência do nome do devedor no "Serasa Limpa Nome", em razão de dívida prescrita, não pode acarretar - ainda que indiretamente - cobrança extrajudicial, tampouco impactar no "score" do consumidor.
+4. Na hipótese dos autos, sendo incontroversa a consumação da prescrição, merece reforma o acórdão recorrido, impondo-se a declaração de inexigibilidade da dívida descrita na inicial, afastando-se qualquer possibilidade de cobrança judicial ou extrajudicial do débito.
+5. Recurso especial parcialmente provido para declarar a inexigibilidade dos débitos descritos na petição inicial em razão da prescrição, determinando que a parte recorrida se abstenha de realizar cobranças judiciais ou extrajudiciais da referida dívida, nos termos da fundamentação exposta.
