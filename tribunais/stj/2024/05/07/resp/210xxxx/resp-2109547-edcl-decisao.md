@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão de minha lavra que, em juízo de retratação, negou provimento ao recurso especial, restabelecendo a decisão que declarou extinta a pena imposta a RICARDO RODRIGUES SOARES, não obstante o inadimplemento da multa que lhe foi imposta.
+Em suas razões, alega que a decisão incorreu em obscuridade ao considerar que o novo entendimento da tese revisada - Tema n. 931/STJ - permite presumir a hipossuficiência apenas porque o reeducando está assistido pela Defensoria Pública, quando, na realidade, a revisão do tema não autoriza essa hipótese.
+Sustenta que o novo entendimento não admite a presunção de pobreza exclusivamente pelo fato de o indivíduo ser assistido pela Defensoria Pública e, como não consta nos autos a autodeclaração de pobreza do embargado, continua sendo necessária a comprovação da hipossuficiência financeira do acusado, o que não se verifica na situação em análise.
+Requer, assim, o acolhimento dos embargos, com o intuito de esclarecer a obscuridade apontada.
+É o relatório.
+Decido.
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo. Podem ser, ainda, utilizados para sanar eventual erro material.
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Guilherme de Souza Nucci, ao discorrer sobre o vício da obscuridade, leciona (in Código de Processo Penal Comentado, 17ª edição, pág. 1.427).
+5. Obscuridade: é o estado daquilo que é difícil de entender, gerando confusão e ininteligência, no receptor da mensagem. No julgado, evidencia a utilização de frases e termos complexos e desconexos, impossibilitando ao leitor da decisão, leigo ou não, captar-lhe o sentido e o conteúdo.
+No caso, são estes os fundamentos da decisão embargada (e-STJ fls. 147/152):
+ ..
+Sobre a matéria, a Terceira Seção do Superior Tribunal de Justiça, na ocasião do julgamento dos Recursos Especiais Representativos da Controvérsia n. 1.785.383/SP e 1.785.861/SP, relator Ministro Rogerio Schietti Cruz, ocorrido em 24/11/2021, Dje de 30/11/2021, Tema n. 931, assentou a tese de que, "na hipótese de condenação concomitante à pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade".
+O overruling promovido por esta Corte Superior em relação ao Tema n. 931 dos recursos repetitivos, diante do julgamento da ADI n. 3150-DF, exigia o reconhecimento da impossibilidade de declaração da extinção da punibilidade diante do inadimplemento injustificado da pena de multa (REsp n. 1.785.383/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 24/11/2021, DJe de 30/11/2021.)
+Desta forma, defendia, até então, o entendimento de que o fato de o reeducando ser assistido pela Defensoria Pública não fazia presumir, por si só, a sua completa e absoluta impossibilidade de adimplir a sanção pecuniária. A demonstração da incapacidade econômica de pagamento da multa criminal, como requisito para a extinção da punibilidade, deveria ser comprovada em instrução específica.
+Em 1º/3/2024, todavia, a Terceira Seção do STJ fixou a seguinte tese no Tema Repetitivo n. 931:" o  inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária"(REsp n. 2024901/SP e REsp n. 2090454/SP).
+ ..
+No caso, as instâncias ordinárias alicerçaram sua compreensão na patente hipossuficiência do executado, conjuntura que não foi desconstituída pelo órgão ministerial. Sob tal perspectiva, a pretensão do recorrente, ora agravado, imporia ao apenado a difícil tarefa de demonstrar sua hipossuficiência, contrariando o recente entendimento da Terceira Seção do STJ.
+A decisão embargada é clara ao mencionar que as instâncias ordinárias alicerçaram sua compreensão na patente hipossuficiência do executado, conjuntura que não foi desconstituída pelo órgão ministerial.
+Veja-se que o acórdão recorrido expressamente menciona que o embargado é pessoa pobre no sentido legal e que não possui recursos financeiros para o pagamento da multa (e-STJ fls. 47/48).
+As conclusões constantes da decisão recorrida, na verdade, não encerram nenhum dos vícios constantes no art. 619 do CPP. Inexiste obscuridade acerca da posição do julgador sobre o tema, decorrente de manifesta confusão ou ininteligência.
+O inconformismo do embargante, na realidade, é com o julgamento meritório, desiderato inadmissível em aclaratórios.
+A propósito, destaco os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INTIMAÇÃO TÁCITA DO MPF. INTEMPESTIVIDADE AFASTADA. INDULTO PRESIDENCIAL. DECRETO N. 11.302/22. CONDENAÇÃO PELO DELITO DE TRÁFICO DE DROGAS, NA MODALIDADE PRIVILEGIADA. POSSIBILIDADE. INEXISTÊNCIA DE OBSCURIDADE.
+1. No caso dos autos, a intimação eletrônica foi disponibilizada ao Ministério Público Federal em 28/9/2023. A intimação tácita do embargante ocorreu aos 8/10/2023. Iniciado o prazo para oposição dos embargos no dia 9/9/2023, com prazo final em 10/10/2023, são tempestivos os aclaratórios opostos em 5/10/2023.
+2. O acórdão embargado é claro ao mencionar que, de acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange o tráfico privilegiado de drogas. E, embora o caput do art. 5º vede o beneficio às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos, tais dispositivos devem ser interpretados no sentido de que o art. 7º, VI, parte final, do Decreto n. 11.302/2022, excepciona a regra geral estabelecida no art. 5º do referido ato.
+3. Inexiste obscuridade acerca da posição do julgador sobre o tema, decorrente de manifesta confusão ou ininteligência. O inconformismo do embargante, na realidade, é com o julgamento meritório, desiderato inadmissível em aclaratórios.
+4. Embargos de declaração acolhidos para afastar a intempestividade dos aclaratórios de e-STJ fls. 121/124, rejeitando-o, todavia, no mérito.
+(EDcl nos EDcl no AgRg no HC n. 818.978/SP, de minha relatoria, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OBSCURIDADE. INSUBSISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A obscuridade que autoriza a oposição de embargos de declaração é a que se verifica entre os fundamentos e as conclusões do julgado, isto é, a hipótese em que há obstáculos ao exato entendimento das premissas e das soluções jurídicas adotadas, tornando ininteligível o provimento judicial, o que não ocorre na espécie.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.156.147/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2023, DJe de 11/9/2023.)
+Tal o contexto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
