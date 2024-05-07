@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto contra acórdão assim relatado (fls. 74-75):
+ ..  Relata o d. impetrante, em síntese, que o paciente foi denunciado, processado e, ao final, condenado pela prática de crime de furto duplamente qualificado.
+Afirma que o paciente foi assistido pela Defensoria Pública, que o orientou a confessar o delito. Ocorre que, a revista pessoal realizada pela GCM encontra-se eivada de flagrante ilegalidade, haja vista que os guardas municipais se encontravam em patrulhamento de rotina e, em momento algum, presenciaram os fatos, não se verificando situação de flagrante delito.
+Assevera que a busca pessoal foi realizada pela GCM sem autorização, em evidente atividade de policiamento ostensivo, o que torna tal atuação, portanto, inconstitucional. Invoca jurisprudência.
+Pleiteia, liminarmente, a concessão da ordem, a fim de que seja determinado o trancamento da ação penal ante o reconhecimento da ilegalidade da atuação da GCM, confirmando-se, ao final, a liminar da ordem de habeas corpus.
+O pedido de liminar foi indeferido(fls. 49/51) e a digna autoridade impetrada prestou as informações (fls. 54/58).
+A douta Procuradoria Geral de Justiça manifestou-se pela denegação da ordem (fls. 61/71).
+Consta dos autos que o recorrente foi condenado pela prática do delito previsto no art. 155, § 4º, incisos II e IV, do Código Penal, à pena de 2 anos e 4 meses de reclusão e 11 dias-multa, em regime semiaberto.
+No presente writ, requer, liminarmente e no mérito, a concessão da ordem, a fim de reconhecer a ilegalidade da busca pessoal, sem autorização, realizada pela Guarda Civil Municipal, com o consequente trancamento da ação penal e absolvição do paciente.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (fls. 159-164).
+O recurso ordinário não deve ser conhecido, uma vez que visa impugnar acórdão em habeas corpus impetrado na pendência de julgamento de apelação, "via mais adequada para o exame da insurgência defensiva, mormente por se tratar de meio de impugnação dotado de amplo efeito devolutivo, com abrangência cognitiva muito mais ampla, se comparada com a estreita via do habeas corpus, na qual é incabível amplo revolvimento fático probatório" (AgRg no HC n. 856.189/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023.)
+Compulsando os autos, verifica-se que foi prolatada sentença condenatória em 28/9/2023, tendo a defesa interposto recurso de apelação no dia 9/10/2023 e, em seguida, no dia 16/11/2023 impetrou o habeas corpus na origem, o qual foi denegado no dia 19/12/2023, sendo interposto presente recurso no dia 22/1/2024.
+De acordo com o parecer do MPF (fl. 163), houve o julgamento da apelação no dia 12/3/2024, confirmando o édito condenatório.
+A superveniência de nova decisão com novos fundamentos torna prejudicada a apreciação deste recurso ordinário, não cabendo ao Superior Tribunal de Justiça analisar o novo decreto condenatório, sob pena de indevida supressão de instância. Nesse mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE JULGOU PREJUDICADO O HABEAS CORPUS. NULIDADE DE INTERCEPTAÇÃO. JULGAMENTO DO RECURSO DE APELAÇÃO. CONSIDERADA A LEGALIDADE DO ATO. PREJUDICIALIDADE DA MATÉRIA. NOVA REALIDADE. NOVO RECURSO. CADA ATO UM RECURSO. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - A prolação da nova decisão com novos fundamentos evidencia a prejudicialidade do mandamus, uma vez que a realidade fática apresentada na inicial do presente habeas corpus encontra-se alterada pela decisão superveniente proferida pelo Tribunal de origem ao julgara apelação na qual foi apreciada a matéria aqui questionada, o que torna prejudicado o presente habeas corpus.
+III - O entendimento desta corte é no sentido de que ante a nova realidade fática na origem, eventual discordância deverá ser, agora, questionada por recurso próprio ou novo mandamus, cabendo à defesa do paciente,se for o caso, impugnar os fundamentos de cada acórdão em separado, pois "Como já decido por este Tribunal Superior, para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração ainda que para fins de economia processual ou de celeridade" (AgRg no HC n. 694.778/SP, Quinta Turma,Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de26/11/2021).
+Agravo regimental desprovido.(AgRg no HC n. 648.319/SP, relator Ministro Messod Azulay Neto, QuintaTurma, julgado em 30/5/2023, DJe de 2/6/2023.)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
