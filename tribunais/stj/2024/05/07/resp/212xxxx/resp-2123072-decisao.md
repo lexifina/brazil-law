@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO.
+PRELIMINAR.
+NULIDADE DA SENTENÇA PELA AUSÊNCIA DE ENFRENTAMENTO DE TODOS OS ARGUMENTOS SUSCITADOS. INOCORRÊNCIA. Afastada a alegação de nulidade da sentença por ausência de enfrentamento do todos os argumentos suscitados, pois, ainda que de forma sucinta, atendeu ao disposto no artigo 489, §1º, do CPC. Ademais, o julgador não precisa examinar c responder a todos os argumentos deduzidos pelas partes, sendo suficiente e relevante expor os motivos do seu convencimento. Preliminar rejeitada.
+MÉRITO.
+PRECLUSÃO. INOCORRÊNCIA. TEMPESTIVIDADE. MATÉRIA DE ORDEM PUBLICA. Com eleito, sabe-se que o requisito de admissibilidade, no caso, a tempestividade, trata-se de matéria de ordem pública, sob a qual não ocorre o instituto da preclusão. Recurso desprovido, no ponto.
+EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO. EMBARGOS Ã EXECUÇÃO. INTEMPESTIVIDADE. OCORRÊNCIA. Cinge-se a controvérsia quanto à tempestividade dos embargos à execução opostos pela parte apelante, esta que alegou que o marco inicial da citação deveria ocorrer com a nomeação de curador especial, contudo, ante a ausência deste, ocorreu com a espontânea vinda aos autos. Conforme previsto no art. 915 do CPC, os embargos à execução devem ser oferecidos no prazo de 15 (quinze) dias, a depender da forma de citação. No caso, a citação se deu conforme a hipótese do art. 231, inciso IV, do CPC, ou seja, por edital. Equivoca-se a parte apelante ao indicar o início do prazo para oposição de embargos à execução somente após a nomeação de curador especial, pois tal ato ocorre apenas após a revelia, conforme art. 72, II, do CPC. Portanto, uma vez não observado o prazo legal, impõe-se a manutenção da sentença que julgou extintos os embargos à execução, permitido o prosseguimento da ação de execução correspondente.
+EMBARGOS À EXECUÇÃO. CONVERSÃO PARA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE. Não há falar na possibilidade de conversão dos embargos à execução em exceção de pré-executividade, visto que consistem cm ferramentas diferentes, sendo que na exceção sequer se mostra possível a ocorrência de qualquer dilação probatória, dizendo respeito à caracterização evidente de nulidade do título.
+Com efeito, no caso, verifica-se que o pedido de conversão, ainda que feito quando da oposição dos embargos à execução, foi realizado após a prolação da sentença que reconheceu a intempestividade, numa nítida tentativa de remediar a perda do prazo para oposição da defesa processualmente adequada, sendo descabida, assim, a manobra pretendida pelo ora recorrente. Isso posto, é de ser negado provimento ao recurso e mantida a sentença que extinguiu o feito, ante o reconhecimento da intempestividade.
+PRELIMINAR REJEITADA.
+APELAÇÃO DESPROVIDA À UNANIMIDADE.
+Nas razões do especial, aponta o recorrente existência de dissídio jurisprudencial, além de violação dos artigos 72, 223, 231, 505, 507 e 918 do Código de Processo Civil.
+Sustenta a preclusão da matéria acerca da tempestividade dos embargos à execução, pois apesar de ser matéria de ordem pública, foi apreciada anteriormente, sem interposição de recurso pela parte adversa.
+Alternativamente, defende que é tempestivo os embargos à execução ajuizado por patrono contratado, dada a ocorrência da citação editalícia nos autos em que não se nomeou curador especial.
+O recurso foi admitido na origem, nos termos da decisão de fls. 386-389, e- STJ.
+Da análise dos autos, observo que as alegações de ofensa à lei federal não merecem prosperar.
+É certo que a jurisprudência desta Corte Superior já decidiu que "Por força da regra prevista no art. 507 do CPC, as matérias de ordem pública estão sujeitas à preclusão quando objeto de anterior e definitivo julgamento" (AgInt no AREsp n. 2.401.483/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/3/2024).
+No caso dos autos, no entanto, o suposto vício no acórdão de origem pela análise de matéria que entende preclusa, verifico que tal questão não foi debatida na origem nos moldes apresentados no recurso especial, não servindo de fundamento a conclusão adotada pelo Tribunal estadual, estando ausente o requisito indispensável do prequestionamento, exigido, inclusive, para as matérias de ordem pública, razão pela qual a decisão embargada expôs que o debate do mencionado questionamento encontrava os óbices sumulares n. 282 e 356 do STF.
+Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DEVER DE INDENIZAR. RESPONSABILIDADE EXTRACONTRATUAL. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. No caso, por simples cotejo das razões recursais e dos fundamentos do acórdão, percebe-se que a tese recursal, segundo a qual o presente caso tratar-se-ia, na verdade, de responsabilidade extracontratual, razão pela qual deveriam os juros incidir a partir do evento danoso, não foi apreciada, pela Corte de origem, não tendo servido de fundamento à conclusão adotada pelo Tribunal a quo, nem opôs a parte ora agravante os devidos Embargos de Declaração para suprir eventual omissão do julgado, atraindo o óbice da Súmula 282 do STF, na espécie.
+IV. No ponto, cabe destacar que, nos casos em que a violação da lei federal surge no próprio acórdão recorrido - como na hipótese -, a jurisprudência do STJ é pacífica quanto à necessidade de oposição de Embargos de Declaração para viabilizar o acesso às instâncias superiores, sob pena de aplicação, por analogia, da Súmula 282/STF.
+Precedentes do STJ.
+V. Agravo interno improvido.
+(AgInt no REsp n. 2.002.543/PR, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 31/8/2023)
+No que toca à tempestividade dos embargos à execução, a Corte local assim dirimiu a controvérsia (fls. 281-828, e-STJ):
+Cinge-se a controvérsia quanto à tempestividade dos embargos à execução opostos pela parte apelante, esta que alegou que o marco inicial da citação deveria ocorrer com a nomeação de curador especial, contudo, ante a ausência deste, ocorreu com a espontânea vinda aos autos.
+Conforme previsto no art. 915 do CPC. os embargos à execução devem ser oferecidos no prazo de 15 (quinze) dias, a depender da forma de citação(..)
+Com efeito, conforme despacho de Evento 3. PROCJUDIC4. fl. 154, foi determinada a citação por edital com prazo de 20 vinte dias.
+Ato sequente, verifica-se que o edital foi publicado em 26/07/2021 e, sem que houvesse manifestação, foi devidamente certificado o decurso em 19/10/2021 (Evento 3, PROCJUDIC4, fl. 161-verso).
+Os embargos à execução foram opostos apenas em 26/11/2021 por advogado constituído. Assim, conforme supramencionado, o embargante extrapolou, em muito, o prazo concedido para tal finalidade.
+Ademais, equivoca-se a parte apelante ao indicar o início do prazo para oposição de embargos à execução somente após a nomeação de curador especial, pois tal ato ocorre apenas após a revelia, a qual já estava certificada e configurada no presente caso, conforme art. 72. II, do CPC, (..)
+Portanto, uma vez não observado o prazo legal, impõe-se a manutenção da sentença que julgou extintos os embargos à execução, permitido o prosseguimento da ação de execução correspondente.
+(..)
+Assim, a contagem do prazo para oposição dos embargos â execução, no caso, é do dia útil seguinte ao final do prazo concedido pelo juízo de origem, qual seja. 20 dias. e não a contar da data de nomeação de curador especial como alegou a parte embargante.
+Observo que a fundamentação da Corte local está em harmonia com a orientação do Superior Tribunal de Justiça, que firmou entendimento de "Não há falar em nomeação de curador especial ao revel, mesmo que ficta tenha sido sua citação, quando o mesmo comparece aos autos, regularizando sua representação processual, e apresenta contestação intempestiva ou deixa de fazê-lo sponte propria. Aplica-se à espécie a máxima "dormientibus non sucurrit jus"." (REsp n. 1.229.361/SP, relator Ministro Vasco Della Giustina (Desembargador Convocado do TJ/RS), Terceira Turma, DJe de 25/4/2011).
+Nesse contexto, rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
+EMENTA
