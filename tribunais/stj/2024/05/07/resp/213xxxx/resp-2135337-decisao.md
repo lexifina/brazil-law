@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MAIRA APARECIDA DE LIMA, e CAIQUE MARQUES DOS SANTOS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJ em julgamento da Apelação Criminal n. 1.0000.23.028487-9/001.
+Consta dos autos que os recorrentes foram condenados pela prática do delito tipificado nos arts. 33, caput, e art. 40, V , ambos da Lei 11.343/2006 - Lei de Drogas (tráfico de drogas), na forma do art. 69 do Código Penal - CP, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa (fls. 1514/1526).
+Recurso de apelação interposto pela defesa foi parcialmente provido para reduzir as penas-base dos recorrentes, readequando as penas para 4 anos e 8 meses de reclusão, em regime inicial semiaberto, e 466 dias-multa, para ambos (fl. 2010). O acórdão ficou assim ementado:
+"EMENTA: APELAÇÃO CRIMINAL - TRÁFICO -PRELIMINAR - DIREITO DE RECORRER EM LIBERDADE - PREJUDICADO - MÉRITO - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DELITIVAS COMPROVADAS - MANUTENÇÃO CONDENAÇÃO - PENA-BASE - READEQUAÇÃO -NECESSIDADE - RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4º, DA LEI 11.343/06 - CABIMENTO - RECURSOS PARCIALMENTE PROVIDOS.
+- Se o processo já se encontra em fase de julgamento e não houve alteração dos elementos que ensejaram a prisão, a apelação não é a via própria para o pedido de recorrer em liberdade, devendo ser manejado por habeas corpus.
+- Revelando-se robusto o acervo probatório produzido no sentido de demonstrar que os réus, efetivamente, venderam entorpecentes a terceiro, correta a condenação pelo crime do art. 33 da Lei 11.343/06.-Deve ser reduzida a pena-base fixada ao agente que estabelece montante exacerbado, em desatenção ao princípio da proporcionalidade.
+- Se o agente é primário e não há comprovação de que se dedicava a atividades criminosas ou integrasse organização criminosa, deve ser reconhecida a causa especial de diminuição prevista no §4º doart.33da Lei n. 11.343/06" (fl. 1995).
+Em sede de recurso especial (fls. 2035/2043), a defesa apontou violação aos arts. 155, 156, caput e 386, inciso VII, todos do Código de Processo Penal - CPP, porque o TJ entendeu não ser caso de absolvição, a despeito da fragilidade probatória.
+Também aponta a ofensa ao art. 33, § 4º, da Lei 11.343/2006, porque o TJ não aplicou a causa especial de diminuição de pena no grau máximo. Afirma que "são primários, possuem bons antecedentes e a quantidade de entorpecentes apreendidos não justifica qualquer modulação da minorante, pois não extrapola aquelas circunstâncias comuns ao delito de tráfico" (fl. 2042).
+Requer a absolvição ou a aplicação da redutora do tráfico privilegiado na fração de 2/3.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS - MP (fls. 2048/2059).
+Admitido o recurso no TJ (fls. 2063/2065), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 2087/2092).
+É o relatório.
+Decido.
+Sobre a violação aos arts. 155, 156, caput e 386, inciso VII, todos do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS manteve a condenação nos seguintes termos do voto do relator:
+"No mérito, os recorrentes Maira, Caique, Lucas e Thaís pleiteiam a absolvição, aduzindo, em síntese, a insuficiência do acervo probatório para sustentar a condenação.
+Sem razão, contudo.
+Depreende-se dos autos que os acusados associaram-se, entre si, para a prática reiterada do delito de tráfico de drogas.
+A testemunha Gabriel Belchior João, Autoridade Policial, sob o crivo do contraditório, depôs que:
+ ..
+A testemunha Marcelo Fagundes Jácomo, policial civil, sob o crivo do contraditório, depôs que:
+ ..
+A testemunha Marcelo Marques Maia, policial civil, sob o crivo do contraditório, depôs que recebeu informações que indivíduos transportariam drogas para a cidade de Guaxupé, até o bairro Monte Verde. No local, a ré Thais estava em um veículo Golcor cinza, onde foram localizadas as drogas, sendo que os demais estavam em um veículo Palio.
+Sendo assim, a materialidade do delito e o envolvimento dos réus Lucas e Thaís se acha estampada, considerando que a ré Thais era a condutora do veículo, de propriedade de Lucas, o qual transportava vultosa quantidade de drogas, sendo 4,708kg (quatro quilos e setecentos e oito gramas) de maconha e 1,142kg (um quilo e cento e quarenta e dois gramas) de cocaína.
+Ademais, a propriedade do veículo resta induvidosa mormente as declarações dos corréus na fase policial de que o Lucas era o verdadeiro proprietário do veículo VW/Gol.
+ ..
+Quanto ao veículo Fiat Pálio, em que se encontravam os réus Lucas, Edson, Caique e Maira, toda a instrução probatória dos autos mostram que era um veículo "batedor", isto é, aquele que durante o trajeto, toma a dianteira do veículo que transporta as drogas, sendo, no caso dos autos, o veículo VW/Gol.
+Certo é que, embora os réus tenham apresentado em juízo versões desconexas com a realidade e não harmônicas com aquelas versões na fase extrajudicial -mais próximas da realidade - todos assumem ter algum tipo de relação entre si, senão vejamos.
+A ré Maira Aparecida de Lima, em que pese negar qualquer envolvimento e conhecimento dos fatos imputados, relatou que foi contratada pelo réu Lucas para transportá-lo de Orlândia/SP para a cidade de Guaxupé/MG. Deixou claro que um carro VW GOL veio acompanhando seu veículo. Afirmou que, já na cidade de Guaxupé e no endereço indicado pelo réu Lucas, foram abordados e presos pela Polícia Civil, tendo em vista a quantidade de drogas apreendida no VW Gol.
+O réu Caique Marques dos Santos relatou que foi contratado junto com sua esposa, a corré Mara, pelo réu Lucas, antigo cliente do casal, para trazê-lo até a cidade Guaxupé/MG. Salientou que quando foram buscar o réu Lucas, na cidade de Orlândia/SP, ele estava e, seu veículo, um VW Gol de cor cinza, no entanto, ele o repassou para um mulher, tendo ele informado ao depoente que referida mulher seguiria o veículo durante a viagem.
+ ..
+Logo, percebe-se que os depoimentos policiais, seja em fase extrajudicial ou em juízo, corroboram com as declarações feitas pelos acusados na fase policial, já que, na fase judicial tentam desassociar-se da conduta delitiva que empreitavam, bem como alterar a verdade dos fatos.
+Impende avultar que a nossa jurisprudência pátria é firme no sentido de que o valor do depoimento de policiais, máxime quando prestados sob o crivo do contraditório, constitui-se de indiscutível força probatória, não se podendo desconsiderá-lo ao argumento de emanar de agentes estatais. Neste norte:
+ ..
+Ademais, inexiste nos autos qualquer prova de parcialidade dos policiais ou da existência de qualquer interesse em imputar aos réus, falsamente, a prática de crime.
+De outra senda, as provas orais não deixam dúvidas do envolvimento dos apelantes no crime pelo qual restaram condenados, nas iras do artigo 33, caput, da Lei 11.343/06.
+Nesse contexto, confirmado pelo conjunto probatório que os acusados incorreram em uma das condutas previstas no citado dispositivo legal e que a droga apreendida se destinava à mercancia ilícita, não há falar em absolvição por insuficiência de provas, tampouco, por ausência de dolo, para a condenação ou em desclassificação para o crime de posse de drogas para uso próprio. (fls. 1999/2004).
+Como se vê, o Tribunal concluiu, com lastro no conjunto probatório acostado aos autos, que a droga apreendida se destinava à mercancia ilícita, estando configurada a prática do crime de tráfico de entorpecentes pelos recorrentes, não havendo falar em absolvição por insuficiência de provas.
+De fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório do feito, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ. No mesmo sentido, cita-se precedente (grifo nosso):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 29 DO CP E AO ART. 35 DA LEI Nº 11.343/06. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ART. 255/RISTJ. INOBSERVÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte.
+2. A não observância dos requisitos do artigo 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, torna inadmissível o conhecimento do recurso com fundamento na alínea "c" do permissivo constitucional.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 237.119/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 4/6/2013, DJe de 12/6/2013.)
+Sobre a violação ao art. 33, § 4º, da Lei de Drogas, o TJ manteve a aplicação da causa de diminuição na fração de 1/5, nos seguintes termos do voto do relator:
+"- DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, §4º, DA LEI N. 11.343/06.
+A defesa dos réus Maira, Caique e Thaís pleiteou a concessão da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/06. Assim, vejamos.
+Para a concessão da minorante, é necessário que o agente cumpra os requisitos elencados em lei, de forma cumulativa e simultânea: deve ser primário, possuidor de bons antecedentes, não pode se dedicar a atividades criminosas ou integrar organização criminosa (STJ - AgRg no REsp 1982505/AC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/03/2022, DJe 25/03/2022).
+Sabe-se, ainda, que, apesar de a Lei n. 11.343/06 dar um tratamento mais rigoroso aos crimes de tráfico, não se pode tratar igualmente circunstâncias distintas, não sendo justo apenar do mesmo modo um traficante contumaz e um iniciante já que a pena deve se adequar aos contornos da prática ilícita.
+A minorante prevista no §4.º do art. 33 da referida lei, então, destina-se a um grupo restrito de traficantes, os quais somente serão beneficiados no afã de se evitar que entrem definitivamente para o mundo da criminalidade.
+É exatamente esse o caso.
+Os apelantes são primários. No entanto, entendo pela aplicação de fração intermediária de 1/5 (um quinto), em razão da grande quantidade e diversidade de drogas, conforme bem pontuado pelo magistrado primevo, com fulcro no art. 42 da Lei 11.343/06.".
+Conforme a jurisprudência desta Corte Superior, a quantidade de droga apreendida pode ser utilizada como fundamento para a determinação da fração de redução da pena com base no art. 33, § 4º, da Lei n. 11.343/2006. No caso, a quantidade dos entorpecentes apreendidos (4,708kg de maconha e 1,142kg de cocaína) justifica a manutenção da pena à redução da pena na razão de 1/5. No mesmo sentido, cita-se precedente (grifo nosso):
+PENAL. AGR AVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ARTIGO 33 DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. QUANTIDADEDE DROGA. PATAMAR DE UM QUINTO. POSSIBILIDADE. PLEITO PELA RESTITUIÇÃO DE VEÍCULO APREENDIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+I - A fração utilizada na aplicação da causa especial de diminuição de pena inserta no artigo 33, § 4º, da Lei n. 11.343./2006, é balizada pela a quantidade e pela natureza da droga apreendida . As demais circunstâncias do art. 59, do CP, também podem servir para a modulação da quantificação da diminuição ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 401.121/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/8/2017 e AgRg no REsp n. 1.390.118/PR, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 30/5/2017).
+II - No que concerne ao pleito de restituição do veículo apreendido, entender de modo contrário ao estabelecido pelo Tribunal de origem demandaria o revolvimento do material fático-probatório dos autos, inviável nesta instância especial. Incidência da Súmula 7, STJ.
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.047.911/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+ EMENTA
