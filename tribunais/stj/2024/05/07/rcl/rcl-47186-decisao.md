@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por PAULO ROBERTO SANTA MARIA, com fundamento no art. 105, I, f, da Constituição Federal c/c o art. 988 do Código de Processo Civil, contra acórdão da 21ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 83/84):
+PROCESSUAL CIVIL E CONSTITUCIONAL. DIREITO À SAÚDE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PERÍCIA MÉDICA JUDICIAL NÃO PLEITEADA. PROVA PRODUZIDA SUFICIENTE AO DESLINDE DA CONTROVÉRSIA.
+Ausente pedido de perícia médica judicial e produzida prova suficiente ao deslinde da controvérsia, seja pelos documentos que instruem a inicial, seja por posterior nota técnica NatJus, tendo aparte demandada, inclusive, manifestado desinteresse na produção de novas provas, não há que se falar em cerceamento de defesa.
+MEDICAMENTO ONCOLÓGICO INCORPORADO AO SUS. NECESSÁRIA PRESENÇA DA UNIÃO NO POLO PASSIVO (TEMA Nº 793, STF).
+Pleiteado medicamento oncológico incorporado ao SUS(PEMBROLIZUMABE), cujo financiamento cabe exclusivamente à União, faz-se compulsória a presença dessa no polo passivo, a implicar deslocamento da competência à Justiça Federal, consoante explicitado pelo STF, no voto do Min. EDSON FACHIN, ao julgar embargos de declaração no RE nº 855.178/SE, com repercussão geral (Tema nº 793), e diante de recente definição da Corte Suprema, Min. GILMAR MENDES, ao deferir, em parte, tutela provisória incidental no RE nº 1.366.243 (Tema nº 1.234), quando ainda não havia sido prolatada a sentença recorrida.
+PRINCÍPIO DA DEMANDA. ARTIGO 115, PARÁGRAFO ÚNICO, CPC/15. RESPONSABILIDADE SOLIDÁRIA DE TODOS OS ENTES DA FEDERAÇÃO. TUTELA DEURGÊNCIA MANTIDA.
+Necessária observância, contudo, ao princípio da demanda e à expressa previsão do artigo 115, parágrafo único, CPC/15, cabendo ao juízo a quo possibilitar à parte autora que emende à inicial, para que promova a inclusão da União no polo passivo, sob pena de extinção do processo, com base no artigo 485, IV, CPC/15, com posterior remessa dos autos à Justiça Federal, caso requerida tal inclusão, mantido no polo passivo o ente estadual demandado, diante de consolidada jurisprudência pela responsabilidade solidariedade dos entes federados quanto à tutela do direito à saúde, mantendo-se, ainda, em parte, a tutela de urgência deferida, na forma do artigo 64, § 4º, CPC/15, e da orientação constante do Ofício-Circular nº 071/2020-CGJ.
+PRELIMINAR REJEITADA. APELO PROVIDO, PARA DESCONSTITUIR A SENTENÇA.
+Sustenta o reclamante, em apertadíssima síntese, que o julgado impugnado descumpriu a decisão proferida pela Primeira Seção deste Superior Tribunal no Incidente de Assunção de Competência n. 14.
+Nessa linha de ideias, aduz que (fls. 13/14):
+ ..  o medicamento buscado pela reclamante, PEMBROLIZUMABE, em que pese ter sido mencionado em Portaria do Ministério da Justiça para efeito de incorporação, DITO MEDICAMENTO NÃO CONSTA DO ROL DO RENAME. Portanto, ainda não está disponível na rede pública de saúde, conforme demonstrado pelo laudo médico, em anexo, emitido pela equipe médica do HOSPITAL SÃO LUCAS DA PUCRS, no dia 17 de abril de 2023 (evento 1, certneg9 -origem).
+Requer, assim, a concessão de liminar e, no mérito, a procedência da reclamação.
+O pedido de gratuidade de justiça foi deferido (fl. 88).
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República EDSON OLIVEIRA DE ALMEIDA, opinou pelo não conhecimento da reclamação (fls. 107/111).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+No caso, trata-se de reclamação, com pedido de liminar, em face de decisum que teria descumprido a decisão exarada nos Conflitos de Competência 187.276/RS, 187.533/SC e 188.002/SC, submetidos à sistemática do Incidente de Assunção de Competência (IAC n.14), em que se determinou que, até o julgamento definitivo deste último, o Juiz Estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre o fornecimento de tratamento/medicamento não incluído nas políticas públicas.
+Ocorre que, como confessado pelo próprio reclamante, e também consignado pelo Tribunal de origem, o medicamento cuja dispensação se busca encontra-se incorporado ao SUS.
+Nesse panorama, conclui-se que o acórdão reclamado não desrespeitou a decisão proferida no IAC n. 14/STJ. Nesse sentido: Rcl 47.190/RS, relator Ministro BENEDITO GONÇALVES, DJe de 20/3/2024.
+ANTE O EXPOSTO, não conheço do reclamação. Prejudicado o pedido de liminar.
+Publique-se.
+EMENTA
