@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. HIPÓTESES EXCEPCIONAIS. IMPOSSIBILIDADE DE USO COMO SEGUNDA APELAÇÃO. REVISÃO DE FATOS E PROVAS. PEDIDO DE HABEAS CORPUS DE OFÍCIO. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+1. A revisão criminal consubstancia meio extraordinário de impugnação contra uma sentença condenatória transitada em julgado, cujo acolhimento é excepcional, cingindo-se às hipóteses em que a suposta contradição à evidência dos autos seja patente, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos.
+2. O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP (HC n. 206.847/SP, relator Ministro NEFI ORDEIRO, Sexta Turma, DJe 25/2/2016).
+3. No tocante à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário (AgRg no REsp n. 1.805.996/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma., DJe 29/3/2021).
+4. Consoante jurisprudência do Superior Tribunal de Justiça, Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese (AgRg nos EAREsp n. 263.820/DF, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 30/10/2018).
+5. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que o acórdão impugnado careceria de fundamentação idônea, porquanto não teria analisado todas as teses defensivas, nem sequer no âmbito do julgamento dos aclaratórios, que seriam suficientes para anular o julgado do Tribunal de origem.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no julgado recorrido, que não conheceu do recurso dirigido a esta Corte Superior, o que inviabiliza o exame pretendido pela parte recorrente, relacionado às questões de mérito submetidas ao STJ, como se observa do seguinte trecho do re ferido julgado (fls. 229-233):
+Como cediço, a revisão criminal consubstancia meio extraordinário de impugnação contra uma sentença condenatória transitada em julgado. O art. 621 do Código de Processo Penal, ao regulá-la, assim estabelece:
+ ..
+Portanto, não deve ser adotada como um segundo recurso de apelação, pois nada mais é que a desconstituição da coisa julgada dada a prevalência, no âmbito penal, do princípio da verdade real sobre a verdade formal. Cuida da garantia individual contra eventuais erros judiciários, independentemente do delito praticado.
+Assim, o acolhimento da pretensão, na seara criminal, cinge-se às hipóteses em que a suposta contradição à evidência dos autos seja patente, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos.
+No caso, o Tribunal de origem, ao julgar improcedente a ação, ao salientar a existência de provas seguras para a condenação pela prática dos delitos de tráfico de drogas e associação para o tráfico, mantendo a dosimetria da pena, asseverou (e-STJ fls. 124/132):
+ ..
+Como se observa, a Corte de origem concluiu pela presença de provas suficientemente seguras para a condenação do recorrentes pela prática do delitos de tráfico de drogas e associação para o tráfico, que teria se embasado em extenso conjunto probatório coligido sob o crivo do contraditório, não havendo decisão contrária à evidência dos autos, conforme exige a previsão contida no art. 621, I, do CPP.
+ ..
+Nesse contexto, para rever a conclusão da instância a quo, a fim de julgar procedente a revisão criminal, seria necessário o reexame de fatos e provas constante dos autos, o que não encontra espaço na via eleita, consoante a Súmula 7/STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Por fim, registro a existência de publicação produzida pela Secretaria de Comunicação Social do Superior Tribunal de Justiça sobre a análise dos recursos extraordinários interpostos contra julgados do STJ, conteúdo de eventual interesse das partes, disponível para acesso por meio do QR Code a seguir:
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Observando os princípios da cooperação e da celeridade, registro que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
