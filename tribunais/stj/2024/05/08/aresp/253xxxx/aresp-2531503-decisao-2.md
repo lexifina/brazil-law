@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por EDINEIA SANTOS DIAS, ANA LÚCIA DA SILVA BRITO contra decisão que inadmitiu Recurso Especial, fundamentado no art. 105, III, "a", da Constituição Federal, objetivando a reforma do acórdão assim ementado:
+AÇÃO RESCISÓRIA. PRELIMINAR. ILEGITIMIDADE PASSIVA. RECONHECIMENTO. ESGOTAMENTO DOS RECURSOS. DESNECESSIDADE. DECADÊNCIA. NÃO CONFIGURAÇÃO. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. CRITÉRIOS DE FIXAÇÃO. PERCENTUAIS NÃO OBSERVADOS.
+Em conformidade com a jurisprudência do Superior Tribunal de Justiça, a legitimidade passiva, na ação rescisória, se estabelece em função do pedido deduzido em juízo.
+Portanto, tendo em vista que somente o capítulo referente aos honorários advocatícios foi alvo de pedido rescisório, apenas a banca de advogados tem legitimidade para figurar no polo passivo, haja vista que foi concretamente beneficiada pela sentença rescindenda. Considerando que o reexame necessário devolve ao Tribunal toda a matéria decidida desfavoravelmente ao ente estatal, conforme previsão da Súmula nº 325, do Superior Tribunal de Justiça, o prazo para o ajuizamento da ação rescisória com relação a estes capítulos somente passa a contar do trânsito em julgado da decisão do Tribunal. Nas demandas em que a sentença foi proferida na vigência do novo Código de Processo Civil, e nas quais a Fazenda Pública for parte, os honorários advocatícios devem ser fixados nos termos do artigo 85, § 3º, do referido diploma legal.
+Opostos embargos de declaração, restaram eles rejeitados.
+Nas razões do recurso especial, a parte recorrente sustenta violação aos arts. 966, IV e V e 1.022, II, do CPC, defendendo, além da existência de omissão no acórdão recorrido, o não cabimento da ação rescisória, considerada a inércia do recorrido na demanda originária.
+O recurso foi inadmitido na origem, o que ensejou a interposição do presente agravo.
+É o relatório.
+Passo a decidir.
+Na análise da presente controvérsia, o acórdão recorrido, fundamentadamente, decidiu que "a ação rescisória é cabível, uma vez que para o ajuizamento da ação rescisória não é necessário o esgotamento de todos os recursos, sendo que o requisito de admissibilidade exigido é de impossibilidade de interposição de recurso - pelo esgotamento dos recursos cabíveis ou pelo escoamento do prazo recursal - e, assim, a formação da coisa julgada".
+Portanto, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, tampouco em deficiência de fundamentação.
+No mérito, "o Superior Tribunal de Justiça firmou o entendimento de que, para a propositura da ação rescisória, não é necessário o esgotamento de todos os recursos cabíveis. Precedentes" ((AR 5.593/RS, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Luis Felipe Salomão, Segunda Seção, DJe de 15/10/2019).
+No mesmo sentido, a Súmula 514/STF, segundo a qual "admite-se ação rescisória contra sentença transitada em julgado, ainda que contra ela não se tenha esgotado todos os recursos".
+No caso, estando o acórdão recorrido em sintonia com a jurisprudência do STJ, aplica-se o entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Intimem-se.
+ EMENTA
