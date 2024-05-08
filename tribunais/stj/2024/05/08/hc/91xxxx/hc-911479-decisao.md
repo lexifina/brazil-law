@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de NAWAN VICTOR SILVA LOPES, condenado pela prática do delito descrito no art. 157, §2º, II e §2º-A, I, do Código Penal (Processo n. 0015507-97.2022.8.19.0204, da 2ª Vara Criminal da Regional de Bangu/RJ).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que deu parcial provimento à apelação defensiva para reduzir a pena do paciente a 6 anos, 2 meses e 20 dias de reclusão e14 dias-multa (fls. 47/73). Acórdão esse complementado pelo dos embargos de declaração (fls. 102/108).
+Requer-se, em liminar, seja o paciente posto em liberdade para assim aguardar o julgamento deste feito. No mérito, pede-se a concessão da ordem para absolver o paciente ou para reconhecer a atenuante da confissão.
+Para tanto, alega-se, em síntese, a falta de provas lícitas idôneas a subsidiarem a condenação criminal e a possibilidade de reconhecer a confissão espontânea mesmo quando ela for parcial ou mesmo quando houver retratação, seja ela judicial ou extrajudicial, mesmo que não seja utilizada como fundamento da sentença.
+É o relatório.
+Este writ não tem cabimento.
+O habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, até porque, diante do contexto apresentado, para alterar as conclusões da instância ordinária, seria necessário o reexame fático-probatório dos autos principais.
+Conforme a Corte fluminense, o agente da lei não escolheu o embargante aleatoriamente, nem mesmo tomou, para tanto, elementos irrelevantes, mas sim, se valeu de elementos concretos que lhe indicaram provável envolvimento do embargante com os roubos (fl. 107) e o embargante não prestou depoimento na Delegacia e, em juízo, negou a prática dos fatos. Além disso, repita-se, a condenação não foi baseada em qualquer declaração dada pelo embargante informalmente, mas sim nos elementos de prova colhidos sob o crivo do contraditório e da ampla defesa, que foram suficientes (fl. 107).
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE. ILICITUDE DAS PROVAS. BUSCA PESSOAL SEM FUNDADA SUSPEITA. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO DA ATENUANTE. REEXAME FÁTICO-PROBATÓRIO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
