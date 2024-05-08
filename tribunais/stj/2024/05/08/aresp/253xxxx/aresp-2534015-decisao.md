@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por CONSTRUTORA ESCALONAR LTDA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+" - Direito de vizinhança - Nunciação de obra nova c/c indenização material e moral - Apelo da autora intempestivo - Não conhecimento - Fissuras, rachaduras e infiltrações no imóvel da autora causadas por obra realizada pela ré no terreno vizinho - Resistência oferecida pela ré repelida pela prova pericial - Dano moral configurado - Indenização adequada - Inexistência de dano processual decorrente do embargo da obra da ré por longo período - Hipóteses do art. 302 do CPC não caracterizadas - Litigância de má-fé não configurada - Sentença mantida - Recurso da autora não conhecido, recurso da ré não provido" (fl. 781 e-STJ).
+Os embargos de declaração opostos pela recorrente foram rejeitados e os opostos pela recorrida, acolhidos com efeitos infringentes, na forma da seguinte ementa:
+"Embargos de declaração opostos pela ré - Ausência de omissão, obscuridade ou contradição no acórdão Caráter infringente - Embargos rejeitados.
+Embargos de declaração opostos pela autora para afastar o reconhecimento da intempestividade - Erro na contagem do prazo para interposição do apelo - Apelo tempestivo e conhecido - Prova técnica conclusiva quanto à segurança e habitabilidade do imóvel - Inexistência de risco de ruína - Indenização moral arbitrada em valor razoável e proporcional - Embargos acolhidos - Apelo da autora não provido" (fl. 813 e-STJ).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 489, § 1º, IV e VI, e 1.022, II e parágrafo único, II, do Código de Processo Civil - haja vista a omissão na análise do valor excessivo fixado a título de danos morais em comparação a casos análogos; e
+(ii) art. 927 do Código Civil - porque o montante arbitrado para a reparação dos danos morais extrapola o razoável, desconsiderando os valores fixados em casos análogos.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+Para agravar o quadro, tais fatos se deram em março de 2020, ou seja, quando a Organização Mundial da Saúde OMS havia declarado que a emergência sanitária causada pelo coronavírus tinha atingido o patamar de uma pandemia e a Lei n.º 13.979, de 6 de fevereiro de 2020, que dispõe sobre as medidas de enfrentamento da emergência de saúde pública, recomendou o isolamento social, a fim de evitar maior propagação da doença.
+A ruína da moradia e necessária desocupação do imóvel, em momento crítico de saúde pública, aliadas à desídia da ré em reconhecer o dever de reparar o imóvel da autora com a celeridade que a situação exigia, obrigando o ajuizamento de ação para solução do problema, evidentemente, extrapolaram do mero aborrecimento ou dos transtornos cotidianos, que todos devemos suportar ao viver em sociedade, tendo gerado dano moral indenizável.
+(..)
+Dado os fatos acima, aliados à resistência da ré em reconhecer que o dano não estava limitado ao muro divisório, mas havia repercutido no imóvel da autora, que foi obrigada a deixá-lo em período de pandemia, entendo que a indenização estipulada pela sentença, no valor de R$ 20.000,00, não merece reparo" (fls. 788/789 e-STJ - grifou-se).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto ao mais, o Superior Tribunal de Justiça adota entendimento no sentido de que o valor da indenização por dano moral fixado de acordo com a razoabilidade e a proporcionalidade não pode ser alterado nesta Corte, pois demandaria o reexame do contexto fático-probatório dos autos, procedimento vedado em recurso especial.
+A incidência da Súmula nº 7/STJ só poderia ser afastada nas hipóteses em que o montante fixado se revela irrisório ou abusivo, circunstância que não se verifica no presente caso, em que arbitrada indenização no valor de R$ 20.000,00 (vinte mil reais) em razão da necessidade de desocupação forçada do imóvel residencial, no período de isolamento social em razão da pandemia de Covid-19 , em razão do risco de desabamento.
+Referida quantia não destoa dos parâmetros adotados por esta Corte em casos análogos.
+Confiram-se os seguintes precedentes:
+" ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESMORONAMENTO DE IMÓVEL VIZINHO. RISCO DE DESABAMENTO. ART. 70 DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..) 3. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias a título de indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+5. Agravo interno não provido." (AgInt no AREsp n. 2.072.402/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. VÍCIO DE CONSTRUÇÃO. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. DANO MORAL. RAZOABILIDADE. SUCUMBÊNCIA RECÍPROCA. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, deve ser afastada a alegada violação ao art. 535 do Código de Processo Civil.
+2. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+4. O reconhecimento de ocorrência de sucumbência recíproca ou em parte mínima envolve contexto fático-probatório, cuja análise revela-se interditada a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento." (AgInt no AREsp n. 1.600.000/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/6/2020, DJe de 12/6/2020)
+Assim, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
