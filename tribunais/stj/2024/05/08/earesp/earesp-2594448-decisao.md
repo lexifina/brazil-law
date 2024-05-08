@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por PATRIK DA SILVA SOUZA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 469-476):
+"APELAÇÃO. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI 11.343/06. SENTENÇA QUE JULGA PROCEDENTE A AÇÃO PENAL., CONDENANDO O RÉU À PENA DE 1 ANO E 8 MESES DE RECLUSÃO, NO REGIME ABERTO, ALÉM DO PAGAMENTO DE 166 DIAS-MULTA, SUBSTITUÍDA A PENA PRIVATIVA POR DUAS RESTRITIVAS DE DIREITOS. NULIDADE POR BUSCA PESSOAL INFUNDADA. INOCORRÊNCIA. RÉU QUE FOI ABORDADO APÓS DENÚNCIAS DE QUE TRAFICAVA, TENDO ELE APONTADO À POLÍCIA LOCAL EM QUE GUARDAVA AS DROGAS, EM SUA RESIDÊNCIA. NULIDADE DO FLAGRANTE. INEXISTÊNCIA. FLAGRANTE QUE FOI EFETIVADO APÓS O ENCONTRO DAS DROGAS COM O RÉU E DE SUA INDICAÇÃO DE ONDE HAVIA MAIS DROGAS, TENDO ELE ADMITIDO A PRÁTICA DO TRÁFICO. CONDENAÇÃO MANTIDA. MATERIALIDADE E AUTORIA DEMONSTRADAS. RÉU QUE CONFESSOU A PRÁTICA DO TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PRIMEIRA FASE. QUANTIDADE DE DROGA QUE É PEQUENA, NÃO ENSEJANDO INCREMENTO POR ESSE MOTIVO, FICANDO A PENA-BASE NO MÍNIMO. SEGUNDA FASE. MENORIDADE RELATIVA E CONFISSÃO ESPONTÂNEA QUE NÃO PODEM DIMINUIR A PENA AQUÉM DO MÍNIMO. TERCEIRA FASE. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE RÉU FOI ABORDADO PRÓXIMO DE PRAÇA, NÃO HAVENDO, AINDA, INDICAÇÃO DE QUE TAL PRAÇA CONTAVA COM AGLOMERAÇÃO DE PESSOAS A FACILITAR A TRAFICÂNCIA. PARECER DA PGJ NESSE SENTIDO. APLICAÇÃO DO REDUTOR DO TRÁFICO QUE FOI CORRETA, TENDO O RÉU PREENCHIDO OS REQUISITOS. PARECER DA PGJ. SENTENÇA MANTIDA. RECURSOS NÃO PROVIDOS."
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 157, 240 e 244, todos do CPP. Aduz para tanto, em síntese, que não havia justa causa para realização das buscas pessoal e domiciliar, sendo, portanto, nulas, todas as provas delas decorrentes.
+Com contrarrazões (e-STJ, fls. 559-567), o recurso especial foi inadmitido na origem (e-STJ, fls. 579-582), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 682-697).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No mérito, contudo, constata-se que o presente recurso constitui mera reiteração do pedido formulado no HC 869.516/SP, e isto porque há identidade de partes e da causa de pedir, impugnando os dois feitos a mesma decisão (Apelação Criminal n. 1501555-38.2022.8.26.0541), o que constitui óbice ao seu conhecimento. Verifica-se que o referido writ, diante de seu caráter eminentemente substitutivo, não foi conhecido. Contudo, a pretensão veiculada pela defesa naquela impetração, idêntica à ora arguida, foi devida e exaustivamente analisada, para aferição de eventual flagrante ilegalidade, tendo sido mantida a decisão impugnada, quanto à legalidade das buscas pessoal e domiciliar realizadas na hipótese. O mencionado habeas corpus restou assim ementado:
+"PROCESSO PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. ATITUDE SUSPEITA DO AGENTE E DENÚNCIA ANÔNIMA. BUSCA DOMICILIAR. ENTRADA AUTORIZADA. LICITUDE DAS PROVAS. RECURSO NÃO PROVIDO.
+1. A atitude suspeita do réu, acrescida da informação recebida a respeito do tráfico de drogas na localidade, constitui justificativa suficiente para a busca pesssoal, nos termos do art. 244 do CPP.
+2. A afirmação em juízo dada pelo paciente de que teria autorizado a entrada da polícia em sua residência afasta a tese de violação domiciliar. Vale anotar que qualquer modificação nesse entendimento, para acolher a tese defensiva de que a permissão teria sido dada sob coação do agente, demandaria o reexame do conteúdo fático-probatório, providência inadmissível na espécie.
+3. Recurso não provido."
+Assim, em virtude da reiteração, tem-se a prejudicialidade do presente recurso especial.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. IMPUGNAÇÃO SUFICIENTE. RECONSIDERAÇÃO. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI 11.343/2006. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. TEMAS ANALISADOS NESTA CORTE NO HC 378.845/SP. REITERAÇÃO DE PEDIDO. AGRAVO CONHECIDO PARA JULGAR PREJUDICADO O RECURSO ESPECIAL.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial, deve ser conhecido o agravo.
+2. A controvérsia recursal configura mera reiteração do HC 378.845/SP, em que denegada a ordem de habeas corpus.
+3. Agravo regimental provido para conhecer do agravo, julgando prejudicado o recurso especial."
+(AgRg no AREsp 1649191/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020, grifou-se).
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N.º 182/STJ. NÃO INCIDÊNCIA. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. PENAL. TRÁFICO DE DROGAS. 136,51G (CENTO E TRINTA E SEIS GRAMAS E CINQUENTA E UM CENTIGRAMAS) DE COCAÍNA E 28,14G (VINTE E OITO GRAMAS E QUATORZE CENTIGRAMAS) DE CRACK. PLEITOS DE RESTABELECIMENTO DO REDUTOR DA PENA, DE FIXAÇÃO DO REGIME ABERTO E DE SUBSTITUIÇÃO DA PENA CORPORAL EM RESTRITIVAS DE DIREITOS. MATÉRIAS DECIDIDAS EM HABEAS CORPUS. PERDA DE OBJETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A apreciação, em sede de habeas corpus, de pedidos reiterados em recurso especial, torna o conhecimento do apelo nobre prejudicado.
+2. Agravo regimental desprovido."
+(AgRg no AgRg no AREsp 1676750/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/06/2020, DJe 23/06/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTOS EM CONTINUIDADE DELITIVA. PRINCÍPIO DA INSIGNIFICÂNCIA E ABRANDAMENTO DO REGIME PRISIONAL. REITERAÇÃO DE PEDIDOS. MATÉRIAS JÁ DEBATIDAS NO ÂMBITO DE HABEAS CORPUS. INSURGÊNCIA DESPROVIDA.
+1. Os pleitos de absolvição pela aplicação do princípio da insignificância e de mitigação do regime inicial de cumprimento de pena já foram analisados na anterior impetração do HC n. 532.742/SP.
+2. Verificada a reiteração de pedidos e não tendo o recorrente trazido qualquer fato capaz de dar ensejo a nova análise por este Tribunal das questões deduzidas, conclui-se, portanto, pela inadmissibilidade do presente recurso.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1662272/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/05/2020, DJe 29/05/2020).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
