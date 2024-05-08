@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONCESSIONÁRIA DA RODOVIA MG-050 S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO. AÇÃO DE RESSARCIMENTO DE DANOS. ACIDENTE COM ANIMAL EM RODOVIA. CONCESSIONÁRIA DE SERVIÇOS RODOVIÁRIOS. PRELIMINAR. LEGITIMIDADE PASSIVA. REJEITAR. RESPONSABILIDADE OBJETIVA. INEXISTÊNCIA DE MEDIDAS QUE GARANTAM A SEGURANÇA DOS MOTORISTAS. DEVER DE INDENIZAR. CONDENAÇÃO MANTIDA.
+- Em decorrência da responsabilidade objetiva que rege o caso, torna-se dispensável a comprovação de culpa por parte da concessionária, bastando apenas a demonstração do nexo de causalidade entre o evento danoso e o serviço prestado.
+- É dever da concessionária de serviço rodoviário zelar pelas vias que administra, cuidando para que os usuários trafeguem de forma tranquila e segura, pelo que cumpre a ela adotar medidas que impeçam o trânsito de animais.
+- Não demonstradas causas que possam eximir a concessionária do dever reparatório, a manutenção da condenação imposta é medida que se impõe (fl. 494).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 884 do CC, no que concerne ao afastamento dos danos materiais em razão de acidente de trânsito envolvendo animais em rodovia, em razão da ausência de prova de responsabilidade da concessionária de serviços rodoviários, e à necessidade de redução de seu valor, sob pena de enriquecimento ilícito, trazendo a seguinte argumentação:
+29. A decisão proferida pelo Tribunal de Justiça de Minas Gerais manteve a condenação que determinou a Recorrente a pagar R$21.009,00, (vinte e um mil e nove reais), a título de danos materiais, mesmo sem o Recorrido ter efetivamente comprovado a responsabilidade pelo evento danoso, bem como os danos, per si.
+30. Vê-se, portanto, que a aplicação da Lei Federal 10.406/2002 foi tratada de forma completamente equivocada, ao passo que, está permitindo o enriquecimento ilícito da parte Recorrida, contrariando assim, o art. 884.
+ ..
+43. Ou seja, a Recorrente relembrou a todo instante, que os hipotéticos danos não restaram efetivamente comprovados.
+44. Entretanto, ainda assim restou mantida, maneira teratológica, a condenação à título de danos materiais.
+45. Neste escopo, imperioso rememorar que, no dia dos fatos as obrigações previstas na Concessão foram satisfatoriamente atendidas pela Recorrente, especialmente na Cláusula 4.4.1 - Inspeção de Trânsito do anexo VI do Contrato de Concessão, que determina a fiscalização da via pelo mesmo ponto a cada 3 (três) horas, ininterruptamente.
+46. Ademais, o REC 011, documento que demonstra o rastreio e controle de percurso das unidades móveis de inspeção de trânsito da concessionária Recorrente, atesta que, cumprindo sua rota, uma de suas viaturas passou pelo trecho em que houve o acidente pouco antes e não encontrou nenhum animal na pista, pelo que não se registrou ocorrência neste sentido e nenhuma medida preventiva pôde ser tomada.
+47. Ou seja. O que se vê na verdade, é que a ré, ora Recorrente, ADOTOU TODAS AS MEDIDAS QUE ESTAVAM AO SEU ALCANCE.
+ ..
+50. A MANUTENÇÃO DE CERCAS, PONTILHÕES E DEMAIS MEIOS QUE VISAM IMPEDIR A PASSAGEM DE ANIMAIS, SOBRETUDO DE EQUINOS E BOVINOS, É DE RESPONSABILIDADE EXCLUSIVA DO PROPRIETÁRIO DO TERRENO.
+ ..
+56. Logo, ressai induvidoso que a Concessionária Recorrente não possui qualquer parcela de responsabilidade sobre o evento danoso narrado nos autos, na medida em que, repita-se, tratando-se de uma suposta omissão em seu dever de zelar ela segurança da rodovia, esta somente seria possível caso já existisse o dever jurídico do agente de comportar-se de modo a impedir o dano, o que não ocorreu neste caso.
+57. Noutras letras, é completamente cabível atribuir-se a culpa exclusiva ao proprietário do animal, na medida em que, conforme se observa, dentre as obrigações se encontra a manutenção de suas cercas para conter seus respectivos animais de criação.
+58. Portanto, a condenação da Recorrente vai na contramão da afirmação quanto ao enriquecimento ilícito.
+ ..
+60. Outrossim, constata-se que o valor arbitrado à título de danos materiais não condiz com a realidade dos fatos, vejamos.
+61. Verifica-se, inicialmente, que o D. Magistrado a quo considerou o documento de (Evento nº 54) para arbitrar o valor do dano material.
+62. Não obstante, conforme se extrai da Tabela Fipe (Evento nº 51), o valor do veículo supostamente envolvido no acidente corresponde a R$ 18.518,00 (dezoito mil quinhentos e dezoito reais).
+ ..
+65. Assim, diante das teses apresentadas deve o pedido referente ao dano material ser julgado improcedente ou, alternativamente, fixado em R$ 18.518,00 (Tabela Fipe), abatido do valor da sucata do veículo sinistrado, sob pena de enriquecimento sem causa do Recorrido e ofensa ao princípio da razoabilidade (fls. 555/561).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Com efeito, a relação jurídica existente entre as concessionárias e seus usuários deve ser analisada à luz do Código de Defesa do Consumidor. As concessionárias de serviço rodoviário assumem o papel de fornecedoras, na medida em que prestam serviços de forma habitual e remunerada a um número indeterminado de pessoas que nada mais são do que consumidores.
+Em se tratando de uma relação consumerista, o artigo 14 do Código de Defesa do Consumidor estabelece a responsabilidade objetiva do fornecedor frente aos danos causados ao seu consumidor.
+ ..
+Em decorrência da responsabilidade objetiva que rege o caso, torna-se dispensável a comprovação de culpa por parte da concessionária, bastando apenas a demonstração do nexo de causalidade entre o evento danoso e o serviço prestado.
+Para se eximir do dever de indenizar, competia à concessionária comprovar a ocorrência de uma das causas excludentes da responsabilidade, isto é, que o defeito inexistiu, que a culpa é exclusiva do consumidor ou de terceiro ou que o fato decorreu de caso fortuito ou força maior.
+Ademais, o simples fato de o acidente ter sido causado por um animal não enseja o reconhecimento de culpa exclusiva de terceiro ou caso fortuito. Isso porque se trata de fortuito interno, ou seja, constitui risco inerente ao serviço prestado pela requerente, como destacou a ilustre Juíza.
+Nesse contexto, sabe-se que é dever da concessionária de serviço rodoviário zelar pelas vias que administra, cuidando para que os usuários trafeguem de forma tranquila e segura. Assim, cumpre a ela adotar medidas que impeçam o trânsito de animais.
+Portanto, caberia a apelante demonstrar a existência de medidas eficientes para impedir o trânsito dos animais que margeiam a rodovia, o que não foi feito.
+Cumpre registrar que a apelante não pode se furtar de suas responsabilidades sob a alegação da existência de culpa de terceiros, in casu, do dono do animal, já que sequer há identificação deste nos autos.
+Desta feita, não demonstradas causas que possam eximir a concessionária apelante do dever reparatório, a manutenção da condenação imposta é medida que se impõe.
+ ..
+Em relação aos danos materiais, assim como a magistrada de primeiro grau, entendo que restaram suficientemente comprovados pelo apelado;
+Ressalte-se que, a ilustre Juíza primeva, já considerou o valor da tabela FIPE vigente à época do acidente. Confira-se:
+"Os danos do veículo restaram comprovados através dos orçamentos exibidos pelo autor que acompanharam a petição inicial, mas sendo o valor superior ao do próprio veículo de acordo com o mercado, a indenização deve ser fixada de acordo com a tabela FIPE da época do acidente (agosto de 2009) que indica o valor de R$21.009,00, conforme documento trazido peloautor (ID nº 109417951)." (fls. 497/502).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência na s razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
