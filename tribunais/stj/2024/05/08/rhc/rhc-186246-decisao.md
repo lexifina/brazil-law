@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ALEXANDRE VELOSO RODRIGUES DA COSTA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática do crime previsto no art. 33 caput, da Lei 11.343/2006- foram encontrados com ele mais de 1,5 kg (um quilo e meio) de "maconha", fracionada em 2(duas) porções, além de munições e 4 (quatro) armas de fogo, sendo 3 (três) espingardas e 1(um) revólver, 7 (sete) rádios comunicadores, balança de precisão e R$ 4.500,00 (quatro mil e quinhentos reais) em dinheiro- fl. 145. Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão para garantia da ordem pública em razão da grande quantidade de entorpecente apreendido e denegou a ordem, em acórdão de fls. 143-151.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação da decisão que decretou a segregação cautelar; bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o recorrente ostenta condições pessoais favoráveis e ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva.
+Sem pedido de liminar.
+Juntada de petição às fls. 186-189. O Ministério Público Federal se manifestou, às fls. 191-197, em parecer ementado nos seguintes termos:
+"Recurso em habeas corpus. Tráfico de drogas. I) Prisão preventiva. Apreensão de: i) 1,5 quilo de "maconha", ii) munições, iii) 4 armas de fogo (sendo 3 espingardas e 1 revólver), iv) diversos apetrechos típicos de exercício da traficância (7 rádios comunicadores, balança de precisão e R$ 4.500,00 em dinheiro). II) Modus operandi. Configuração do fumus comissi delicti e periculum libertatis. Garantia da ordem pública. Fundamentação idônea. III) Medidas cautelares diversas do art. 319 do CPP: insuficiência. STJ. IV) Condições pessoais favoráveis: irrelevância. V) Pleitos que, em última análise, demandariam o revolvimento do material fático-probatório dos autos, providência inviável em habeas corpus. Ausência de constrangimento ou de flagrante ilegalidade. Parecer pelo não provimento do recurso em habeas corpus" - fl. 191.
+É o relatório. DECIDO.
+O pedido está prejudicado.
+Conforme informações obtidas no sítio do Tribunal de origem, (www.tjgo.jus.br), em 30/10/2023, processo 5425272-21.2023.8.09.0127, foi proferida sentença condenando o recorrente à pena de 05 (cinco) anos de reclusão em regime o inicial fechado, sendo negado ao recorrente o direito de recorrer em liberdade. Na ocasião, o Magistrado acrescentou novos fundamentos para manter a prisão preventiva em seu desfavor.
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito :
+"A Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente torna prejudicado o habeas corpus em que se busca sua revogação, quando novos e diversos fundamentos são agregados ao decreto prisional primitivo"(AgRg no HC n. 731.126/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/10/2022, grifei.)
+Ante o exposto, julgo o presente recurso em habeas corpus prejudicado.
+Publique-se. Intime-se.
+EMENTA
