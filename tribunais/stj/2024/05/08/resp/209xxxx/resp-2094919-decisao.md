@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso especial interposto por NELSON LUIS PALHARI, com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa à impenhorabilidade de pequena propriedade rural nos termos da seguinte ementa (fl. 536):
+APELAÇÃO. EMBARGOS DE TERCEIRO.
+Sentença de procedência. Inconformismo do requerido. Impugnação à gratuidade de justiça. Concedido o benefício da justiça gratuita ao autor em primeiro grau, e ausente qualquer prova da desnecessidade da benesse, permanece a concessão. Impenhorabilidade do bem caracterizado como pequena propriedade rural. Não incidência. Imóvel expressamente oferecido pelos devedores em hipoteca. Aplicação, por analogia, da exceção do art. 3º, V, da Lei 8.009/90. Sentença reformada. Recurso parcialmente provido.
+Sem embargos de declaração.
+No presente recurso especial, a parte recorrente alega que o acórdão recorrido diverge da interpretação conferida ao art. 833, VIII, do CPC pelo Superior Tribunal de Justiça, visto que é incontroverso nos autos que o imóvel constrito é qualificado como pequena propriedade rural, sendo impenhorável, ainda que para execução de hipoteca oferecida como garantia real.
+Aduz divergência jurisprudencial com julgados do STJ.
+Apresentadas as contrarrazões (fls. 625-632), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 633-634).
+É, no essencial, o relatório.
+Cinge-se a controvérsia ao reconhecimento da impenhorabilidade de pequena propriedade rural dada em garantia hipotecária de cédula de crédito bancário.
+Sobre a questão, o acórdão consignou (fls. 538-539):
+Trata-se de execução de título extrajudicial, processada sob nº 1001309-06.2021.8.26.0648, na qual o Banco do Brasil S/A cobra a quantia de R$124.898,10 (atualizada até 18/06/2020) de Natalia Maria Palhari (filha do embargante).
+O lastro da execução é a Cédula Rural Pignoratícia e Hipotecária (fls. 59/71 dos autos da execução), garantida por meio do imóvel registrado sob matrícula nº 4401 do Cartório de Registro de imóveis da Comarca de Urupês.
+Decorrido o prazo para o pagamento da dívida, foi deferida a penhora de referido bem na execução de origem.
+A ação foi julgada procedente para afastar as restrições impostas sobre o imóvel matriculado sob o número 4.401 junto ao Cartório de Registro de Imóveis de Urupês.
+Quanto a alegação de pequena propriedade rural, verifica-se que o imóvel indicado não está sob a proteção da impenhorabilidade, aplicada por analogia, da Lei 8.009/1990. Isso porque, o art. 3º, V, de referida Lei prevê expressamente que a impenhorabilidade do bem trabalhado pela entidade familiar não se aplica ao imóvel dado em hipoteca.
+(..)
+A matrícula juntada a fls. 71/77 demonstra que o codevedores Natalia Maria Palhari e Nelson Luis Palhari, entregaram o bem em garantia da Cédula Rural Pignoratícia e Hipotecária nº 40/00262-4 para o Banco do Brasil. Portanto, aplica-se, por analogia, a exceção do inciso V, do art. 3º, da Lei nº 8.009/90 afastando a proteção do bem, dado como garantia real do título executado. Sobre o tema, confira-se a jurisprudência.
+(..)
+Quanto à impenhorabilidade do imóvel, verifica-se que o entendimento esposado no acórdão recorrido está dissonante da pacífica jurisprudência do Superior Tribunal de Justiça, assente no sentido de que a pequena propriedade rural será protegida pela impenhorabilidade mesmo quando oferecida em garantia hipotecária pelos respectivos proprietários.
+A propósito, cito:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. PENHORA. PEQUENA PROPRIEDADE RURAL TRABALHADA PELA FAMÍLIA COM ESCOPO DE GARANTIR A SUA SUBSISTÊNCIA. IMÓVEL DADO EM GARANTIA DE DÍVIDA. IMPENHORABILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. No presente caso, o acórdão recorrido assentou ser regular a penhora de pequena propriedade rural voluntariamente oferecida pelos devedores em garantia real de dívida contraída para financiamento da atividade rural (piscicultura).
+2. No caso, a caracterização do bem penhorado como sendo pequena propriedade rural, cujos requisitos foram reconhecidos nas vias ordinárias com fundamento nas provas encartadas aos autos, em especial, certidão de oficial de justiça e a própria qualificação dos devedores indicada nos títulos em execução, escapa ao conhecimento desta Corte Superior, porquanto seria imprescindível o reexame dos fatos e provas (Súmula 7/STJ).
+3. A decisão da Corte a quo encontra-se em desconformidade com a jurisprudência desta Corte Superior, no sentido de que "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2º do artigo 4º da Lei n. 8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia" (EDcl nos EDcl no AgRg no AREsp 222.936/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/02/2014).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.052.008/RO, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023.)  Grifou-se.
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEQUENA PROPRIEDADE RURAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica desta corte, a pequena propriedade rural trabalhada pela entidade familiar é impenhorável, mesmo quando oferecida em garantia hipotecária pelos respectivos proprietários.
+2. Modificar o entendimento a que chegou o Tribunal de origem e concluir pelo afastamento da impenhorabilidade do imóvel rural requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ. Precedentes. Agravo interno improvido.
+(AgInt no AREsp n. 2.150.308/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)  Grifou-se.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO CONSTATADA. BEM DE FAMÍLIA. REGRA DE IMPENHORABILIDADE. FUNDAMENTO DA DECISÃO RECORRIDA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRECEDENTES. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, inexiste violação ao art. 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade de decisão, quando as questões levadas à apreciação foram dirimidas pelo Tribunal de origem, o qual, aplicando o direito que entende ser cabível à hipótese, soluciona integralmente a lide, ainda que de forma diversa daquela pretendida pela parte.
+2. O eventual julgamento desfavorável não deve ser confundido com negativa de prestação jurisdicional ou nulidade de decisão.
+3. Nos termos da Súmula n. 83/STJ, "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Consoante jurisprudência pacificada nesta Corte Superior, a pequena propriedade rural trabalhada pela família, mesmo que oferecida em garantia hipotecária, é alcançada pela impenhorabilidade. Precedentes.
+5. Agravo interno desprovido."(AgInt no AREsp n. 2.260.265/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)  Grifou-se.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. O STJ firmou orientação no sentido de que a pequena propriedade rural trabalhada pela entidade familiar é impenhorável, mesmo quando oferecida em garantia hipotecária pelos respectivos proprietários. Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.968.844/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)  Grifou-se.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. IMPENHORABILIDADE DE IMÓVEL RURAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior possui firme o entendimento no sentido de que "A pequena propriedade rural trabalhada pela entidade familiar é impenhorável, mesmo quando oferecida em garantia hipotecária pelos respectivos proprietários.".(AgInt no AREsp 1361954/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/05/2019, DJe 30/05/2019).
+2. A jurisprudência desta Corte Superior possui entendimento no sentido de que: a impenhorabilidade da pequena propriedade rural não exige que o débito exequendo seja oriundo da atividade produtiva, tampouco que o imóvel sirva de moradia ao executado e à sua família. (REsp 1591298/RJ, Rel. Min. MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/11/2017, DJe 21/11/2017).
+3. O Tribunal de origem, amparado nos elementos fático-probatórios dos autos, concluiu que restou demonstrado que o imóvel é utilizado para subsistência, com o cultivo de soja, assim como para residência do núcleo familiar, cumprindo os requisitos que caracterizam a impenhorabilidade. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, o reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.607.609/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/3/2021, DJe de 23/3/2021.)  Grifou-se.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação. Ficam invertidos os ônus da sucumbência fixados pelo tribunal de origem.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CÉDULA DE CRÉDITO BANCÁRIO. PENHORA. PEQUENA PROPRIEDADE RURAL. ART. 833, VIII, DO CPC. IMÓVEL DADO EM GARANTIA HIPOTECÁRIA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. RECURSO ESPECIAL PROVIDO.
