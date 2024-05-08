@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (e-STJ fls. 165-166):
+PROCESSO CIVIL. TRIBUTÁRIO. APELAÇÃO. EMBARGOS DE TERCEIRO. EXECUÇÃO FISCAL. PENHORA DE VEÍCULO. ALIENAÇÃO ANTERIOR À INSCRIÇÃO EM DAU. FRAUDE À EXECUÇÃO FISCAL AFASTADA. LIBERAÇÃO DO BEM. SENTENÇA REFORMADA. RECURSO PROVIDO.
+1. Cuida-se de apelação interposta por PEDRO AMÉRICO REIS DE ALENCAR contra sentença que julgou improcedentes embargos de terceiro, com fundamento no art. 487, I, do CPC. Condenou o embargante ao pagamento de honorários advocatícios no valor de 10% sobre o valor atualizado da causa (R$ 60.000,00), nos moldes do art. 85, §§ 2º e 3º, do CPC.
+2. Em suas razões recursais, alega o apelante equívoco no convencimento da magistrada na apreciação da prova documental produzida, devendo ser reconhecidos direitos de posse/propriedade do autor sobre o veículo MMC/L200 TRITON 2.4 HLS de placa OTO-6925, chassi 93XFNKA5TFCE93456, RENAVAM 1011368428, para liberação da constrição judicial que pesa sobre o bem constrito nos autos da execução fiscal.
+3. Na hipótese em exame, alega o autor, terceiro adquirente, que adquiriu o veículo penhorado em 17/05/2017 por meio de contrato particular de compra e venda, com firma reconhecida em 27/03/2018.
+4. Nos termos do art. 185 do CTN, presume-se a fraude à execução fiscal, se a alienação do bem se der após a inscrição em DAU, ocorre que, no caso, o negócio foi celebrado antes da inscrição datada de 14/06/2017.
+5. O reconhecimento da firma posterior à inscrição em DAU é irrelavante ao deslinde da lide, mormente não ter sido questionada a autenticidade do documento, além do que o embargante juntou comprovante de depósito de parte do pagamento datado de 24/05/2017.
+6. Nesse sentido, a título de ilustração, seguem os precedentes deste Tribunal: PROCESSO: 0805171-81.2020.4.05.8000, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL VINÍCIUS COSTA VIDOR (CONVOCADO), 4ª TURMA, JULGAMENTO: 22/03/2022; PROCESSO: 08001186520154058204, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL LEONARDO HENRIQUE DE CAVALCANTE CARVALHO, 2ª TURMA, JULGAMENTO: 28/11/2017.
+7. Apelação provida, reformando a sentença recorrida, para julgar procedentes os embargos de terceiro, com a liberação do veículo e a inversão do ônus da sucumbência.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1022, inciso II, do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, quais sejam:
+(i) foi omisso em melhor avaliar as provas juntadas aos autos, pois o reconhecimento de firmas somente ocorreu após a inscrição do crédito em dívida ativa, sendo esse requisito fundamental para lhe conferir autenticidade, marcando com segurança a efetiva data em que foi firmado o negócio;
+(ii) omitiu sobre a incidência do artigo 185 do CTN ao caso em questão, pois o autor não juntou aos autos prova suficiente para demonstrar as suas alegações, não se desincumbindo de ônus que era seu, conforme o artigo 373, inciso I do CPC/15.
+Quanto a questão de fundo, sustenta ofensa ao artigo 185 do CTN, sob o argumento de que não pode ser afastada a presunção de fraude à execução fiscal prevista no art. 185 do CTN, pois o reconhecimento de firmas somente ocorreu após a inscrição do crédito em dívida ativa, sendo esse requisito fundamental para lhe conferir autenticidade, marcando com segurança a efetiva data em que foi firmado o negócio.
+Com contrarrazões.
+Juízo positivo de admissibilidade (e-STJ fl. 293)
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, observa-se que o juízo de origem chegou a conclusão de que o reconhecimento da firma posterior à inscrição em DAU é irrelavante, pois o negócio foi celebrado antes da inscrição em DAU, além de o embargante ter comprovado suas alegações por meio de comprovante de depósito de parte do pagamento datado de 24/05/2017.
+Nesse sentido, destaca-se do voto condutor do acórdão recorrido (e-STJ fls. 161)
+"2. Na hipótese em exame, alega o autor, terceiro adquirente, que adquiriu o veículo penhorado em 17/05/2017 por meio de contrato particular de compra e venda, com firma reconhecida em 27/03/2018.
+3. Nos termos do art. 185 do CTN, presume-se a fraude à execução fiscal, se a alienação do bem se der após a inscrição em DAU, ocorre que, no caso, o negócio foi celebrado antes da inscrição datada de 14/06/2017.
+4. O reconhecimento da firma posterior à inscrição em DAU é irrelavante ao deslinde da lide, mormente não ter sido questionada a autenticidade do documento, além do que o embargante juntou comprovante de depósito de parte do pagamento datado de 24/05/2017."
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No que diz respeito ao artigo 185 do CTN, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não houve fraude à execução fiscal, pois o negócio foi celebrado antes da inscrição em DAU.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ACÓRDÃO RECORRIDO. ENTENDIMENTO DESTA CORTE. CONSONÂNCIA. SÚMULA Nº 83/STJ. FRAUDE À EXECUÇÃO. AUSÊNCIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A consonância entre o acórdão recorrido e o entendimento do Superior Tribunal de Justiça atrai o disposto na Súmula nº 83/STJ.
+3. Na hipótese, rever o entendimento da Corte local, no sentido de que ausente a fraude à execução, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.854.682/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/6/2022, DJe de 10/6/2022.) (grifo nosso)
+EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DÍVIDA DE NATUREZA NÃO TRIBUTÁRIA. SÚMULA 375/STJ. FRAUDE À EXECUÇÃO. INOCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Tratando-se de exe cução fiscal de dívida não tributária, é necessário o registro da penhora do bem alienado ou a prova de má-fé do terceiro adquirente para o reconhecimento de fraude à execução, nos termos da Súmula n. 375/STJ.
+III - In casu, rever o entendimento do Tribunal de origem, o qual afastou a fraude à execução, pelas ausências de registro da penhora nas matrículas dos imóveis e de comprovação da má-fé do adquirente, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+IV - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido. (AgInt no REsp n. 2.092.873/SP, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (grifo nosso)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FRAUDE À EXECUÇÃO. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
