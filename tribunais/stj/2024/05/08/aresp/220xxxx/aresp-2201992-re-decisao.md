@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO AOS ARTIGOS 155 E 381, III, DO CÓDIGO DE PROCESSO PENAL - CPP NÃO CONSTATADA. CONDENAÇÃO DECORRENTE DE LIVRE CONVENCIMENTO MOTIVADO. AGRAVANTE PRESO EM FLAGRANTE. DEPOIMENTOS DOS POLICIAIS COLHIDOS SOB O CRIVO DO CONTRADITÓRIO. DEPOIMENTO IMPRECISO DO SUPOSTO PROPRIETÁRIO DA DROGA QUE CORROBORA A VERSÃO ACUSATÓRIA EM DETRIMENTO DA JUSTIFICATIVA DO AGRAVANTE PARA ESTAR NO LOCAL DO DELITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A situação de flagrância e os depoimentos dos policiais são elementos hábeis a fundamentar o decreto condenatório mediante livre convencimento motivado, sobretudo por serem prestados sob o crivo do contraditório judicial e corroborados pelas demais provas que instruem o feito, notadamente o depoimento impreciso do suposto proprietário das drogas que estava em viagem e não reconheceu a propriedade de toda a droga apreendida, nem soube informar a quantidade existente no local, tendo a versão do agravante ficado isolada.
+2. Agravo regimental desprovido.
+A parte recorrente alega a ocorrência de violação do art. 5º, LIV e LVII, da Constituição Federal, ao argumento de que "a condenação do acusado foi única e exclusivamente pautada nos depoimentos de policiais, todavia, ainda que as declarações dos agentes públicos tenham certa relevância, em um sistema acusatório, devem ser cotejados com demais elementos dos autos".
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Além de não ter havido preliminar de repercussão geral, o Supremo Tribunal Federal já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Isso é o que ficou definido no Tema n. 660 do STF, no qual a Suprema Corte fixou a seguinte tese:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar s eguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso dos autos, o exame da alegada ofensa à Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 660.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
