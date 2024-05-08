@@ -1,0 +1,45 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. DISCUSSÃO SOBRE O EXCESSO DE EXECUÇÃO. DESCABIMENTO NA VIA PROCESSUAL ELEITA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. RECURSO CONHECIDO E IMPROVIDO.
+
+    I. A alegação deduzida pela Recorrente - existência de excesso de execução atrelado à alegada incorreção da correção do débito fiscal, sob o argumento de que a incidência de juros e correção - não poderia ser objeto de acolhimento em sede de Exceção de Pré-Executividade, na medida em que, consoante salientado na Decisão recorrida, a Executada deixou de trazer aos autos elementos capazes de demonstrar qual seria o excesso de execução apurado a partir da alegada aplicabilidade equivocada da correção do débito fazendário.
+
+    II. A referida matéria demanda a produção de prova de natureza contábil, a qual é incompatível com a via processual de defesa eleita pela Recorrente. Precedentes desta Egrégia Corte de Justiça.
+
+    III. Recurso conhecido e improvido.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 24, inciso I, §§ 1º e 2º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se, de plano, incabível a interposição do apelo extremo pelo permissivo da alínea “c” do art. 102, III, da Lei Fundamental, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Colho como precedentes o ARE 1.321.299-AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 13.8.2021; e o ARE 1.270.810-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 27.10.2020, verbis:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISS PRIVILEGIADO. SOCIEDADE DE ÍNDOLE EMPRESARIAL. RECURSO EXTRAORDINÁRIO FUNDADO NAS ALÍNEAS C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADOS EM FACE DA CARTA MAGNA. NÃO OCORRÊNCIA. PRECEDENTES. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI LOCAL CONSTESTADA EM FACE DE LEI FEDERAL. NÃO OCORRÊNCIA. PRECEDENTES. PREQUESTIONAMENTO. AUSÊNCIA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal 3. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282/STF. 4. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 5. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 6. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”. (ARE 1.321.299-AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 13.8.2021)
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário fundado nas alíneas c e d do inciso III do art. 102 da Constituição Federal. Acórdão recorrido que julga válida lei ou ato de governo local contestados em face da Carta Magna. Não ocorrência. Precedentes. Acórdão recorrido que julga válida lei local contestada em face de lei federal. Não ocorrência. Precedentes. Direito Administrativo. Poço artesiano. Outorga pelo poder público. Legislação local. Ofensa reflexa. Precedentes. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal. 3. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. Incidência da Súmula nºs 280/STF. 4. Agravo regimental não provido. 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita”. (ARE 1.270.810-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 27.10.2020)
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. Execução fiscal. Exceção de pré-executividade. Dilação probatória. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático-probatório da causa (Súmula nº 279/STF). 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.188.169/SP - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 30/05/2019).
+
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636”(AI 518.895-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ de 15/04/2005).
+
+    No mesmo sentido: RE 1.231.979 - ED, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 18/12/2019; RE 1.173.779-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 31/05/2019 e RE 832.960-AgR, Rel. Min Luiz Fux, Primeira Turma, DJe de 21/05/2019.
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 8 de maio de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
