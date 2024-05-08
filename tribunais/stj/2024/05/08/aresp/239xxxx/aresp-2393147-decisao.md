@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidente a Súmula n. 7/STJ.
+O juízo singular condenou os agravantes pela prática do crime previsto no art. 171, § 3º, c/c o art. 29, do CP, a 3 anos e 1 mês de reclusão, além de 20 dias-multa (A A B S), e 1 ano e 4 meses de reclusão, e 12 dias multa (L F B), em regime aberto, substituída a carcerária por duas restritivas de direitos.
+O Tribunal a quo deu parcial provimento ao apelo ministerial para aumentar a pena de A A B S para 4 anos de reclusão, e de L F B para 3 anos, 1 mês e 10 dias de reclusão, e aumentar os valores da prestação pecuniária para a primeira, no importe de 5 salários mínimos, e 3 salários mínimos para o segundo.
+Interposto recurso especial, com fundamento na alínea a do permissivo constitucional, a defesa alegou ofensa ao art. 45, § 1º, do CP, ao argumento de que o acórdão recorrido carece de fundamentação idônea para aumentar fixado a título de prestação pecuniária, haja vista a contrariedade ao princípio da proporcionalidade e capacidade financeira dos agravantes, devendo ser restabelecido o valor fixado na sentença.
+Aduz, ainda, violação do art. 59 do CP, com a alegação de que a exasperação da basilar em relação a A A B S carece de fundamentação idônea para a negativação da culpabilidade e circunstâncias do crime, pugnando pelo decote das referidas circunstâncias judiciais.
+Apresentadas as contrarrazões, a Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento ou desprovimento do agravo.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula n. 7/STJ.
+No caso, deveriam os agravantes demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Como observado no parecer ministerial, "a defesa não explicou, com robustez e objetividade, os motivos pelos quais o entendimento firmado pelo Tribunal estaria equivocado, tendo se limitado a alegar, genericamente, que não objetiva reanalisar as circunstâncias fáticas do caso, mas demonstrar a violação aos arts. 45, § 1º e 59, ambos do CPP. Não houve a indicação, por exemplo, de quais seriam e em que ponto do acórdão estariam os fatos incontroversos, a fim de comprovar a dispensabilidade do revolvimento de fatos e provas" (fls. 721-722).
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA N. 182/STJ. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. SUPERADA PELA PROLAÇÃO DA SENTENÇA.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016).
+3. Ademais, fica superada a alegação de inépcia da exordial acusatória com o advento da sentença condenatória, tendo em vista a cognição exauriente que se é feita nesta.
+4. Agravo regimental improvido. (AgRg no AREsp n. 2.233.529/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+Ante o exposto, não conheço d o agravo em recurso especial.
+Publique-se
+Intimem-se.
+EMENTA
