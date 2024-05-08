@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por WESLEY PETTERSON SILVA DA SILVEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 157, § 2º, inciso I, II e V do Código Penal (na redação anterior à Lei n. 13.654/2018), à pena de 07 (sete) anos, 03 (três) meses e 03 (três) dias de reclusão, no regime inicial fechado, e ao pagamento de 16 (dezesseis) dias-multa (fls. 289-296).
+O Tribunal negou provimento aos recursos de apelação da acusação e da defesa (fls. 379-384).
+Os embargos de declaração foram rejeitados (fls. 396-398).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, sustentando a violação aos artigos 157, §2º, inciso I e V, e art. 33, ambos do Código Penal (fls. 406-421).
+Apresentadas as contrarrazões do Ministério Público (fls. 426-432), o recurso foi inadmitido na origem, com fundamento nos óbices das Súmulas n. 7 e n. 182, STJ (fls. 434-435).
+Nas razões do agravo, o recorrente sustenta a suficiência da fundamentação e a desnecessidade de reexame da matéria fática (fls. 440-446).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso (fls. 468-479).
+É o relatório. DECIDO.
+O recorrente sustenta a contrariedade ao art. 157, §2º, inciso I, do Código Penal, requerendo o afastamento da causa de aumento pelo emprego de arma de fogo ante a revogação da disposição pela Lei n. 13.654/18, que deveria retroagir em benefício do réu.
+Sobre a matéria, o Tribunal de origem assim decidiu (fls. 383):
+"Diversamente do sustentando, a Lei 13.654/18 em nada favorece o apelante, descabendo falar-se em descontinuidade normativa.
+A revogação do inciso I do § 2º do art. 157 do CP, na época do crime aplicável ao emprego de qualquer tipo de arma, inclusive de fogo, só retroagiria em benefício do acusado se a hipótese fática tivesse deixado de constituir causa de aumento. Mas não foi o que sucedeu. A nova lei estipulou acréscimo ainda maior, de 2/3."
+Não assiste razão ao agravante, porquanto o acórdão está em perfeita consonância com o entendimento desta Corte.
+A alteração legislativa trazida pela Lei n. 13.654/2018 apenas afastou o aumento de pena no roubo no caso da arma imprópria, mantendo, porém, a majorante em relação à arma de fogo no novo §2º-A, em percentual diferente, mas em verdadeira continuidade normativa, não havendo que se falar em decote da causa de aumento em razão do emprego de arma de fogo. Neste sentido: HC n. 533.256/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 25/10/2019. HC n. 705.060/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 15/2/2022, DJe de 21/2/2022.
+Insurge-se o recorrente contra o acórdão no ponto em que manteve a majorante da restrição de liberdade da vítima, prevista no art. 157, §2º, inciso V, do Código Penal, sob o fundamento de que as vítimas declararam "ter ficado em poder dos roubadores quase uma hora, lapso bem além do necessário para a consumação do roubo." (fl. 384). O agravante afirma não se tratar de tempo excessivo, sendo parte da própria ameaça, elementar do tipo.
+Ocorre que, conforme entendimento desta Corte, a restrição de liberdade das vítimas por cerca de uma hora é juridicamente relevante e, portanto, circunstância apta a fazer incidir a causa de aumento de pena do inciso V do art. 157, §2º, do Código Penal. Precedentes: AgRg no HC n. 841.434/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024. AgRg no HC n. 778.386/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.
+Por fim, sustenta o agravante a ausência de fundamentação do Tribunal na fixação do regime inicialmente fechado ao cumprimento de pena, sendo cabível o regime semiaberto. Ocorre que o regime fechado foi fixado em observância à reincidência do agravante (fl. 384). Verifico também a presença de circunstâncias judiciais negativas (fl. 382), razão pela qual impõe-se a manutenção do regime inicial fechado, conforme previsão legal expressa no art. 33, §2º e §3º do Código Penal.
+O caso justifica a aplicação da Súmula n. 568, STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema"
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "b", conheç o do agravo e nego provimento ao recurso especial.
+Publique-se. Intime-se
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. CAUSA DE AUMENTO DE PENA. ARMA DE FOGO. LEI N. 13.654/2018. CONTINUIDADE NORMATIVA. RESTRIÇÃO DE LIBERDADE DA VÍTIMA. TEMPO JURIDICAMENTE RELEVANTE. REGIME SEMIABERTO. IMPOSSSIBILIDADE. RÉU REINCIDENTE. AGRAVO EM RECURSO ESPECIAL CONHECIDO E IMPROVIDO.
