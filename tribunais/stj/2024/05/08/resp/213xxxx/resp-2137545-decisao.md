@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 171):
+APELAÇÃO CÍVEL. ADMINISTRATIVO. EXECUÇÃO FISCAL. CREMERJ. CDA. NULIDADE. VÍCIO INSANÁVEL. APELAÇÃO DESPROVIDA.
+1. Trata-se de apelação cível interposta pelo Exequente contra sentença que julgou extinta a execução fiscal, nos termos dos arts. 485, IV do CPC/15, sob o fundamento de que "a CDA, (..), não preenche todos os requisitos do art. 202 do CTN e da Lei de Execução Fiscal, o que provoca a nulidade, por vício formal, tanto da inscrição como da cobrança correspondente".
+2. As contribuições referentes a anuidades de conselhos profissionais têm natureza de tributo e, por isso, estão submetidas ao Princípio da Legalidade tributária estrita, nos termos do art. 150, inciso I, da CF/88, motivo pelo qual não podem ser instituídas ou majoradas mediante Resolução.
+3. Com o advento da Lei nº 12.514/2011, que dispõe sobre as contribuições devidas aos conselhos profissionais em geral, restou atendido o Princípio da Legalidade tributária estrita. O supracitado dispositivo possibilitou a cobrança de anuidades pelo Conselho a partir do exercício do ano de 2012.
+4. A cobrança, além de abranger fatos geradores anteriores ao ano de 2012, foi atualizada pela variação de indexadores diversos do legalmente previsto, vez que deve ser indexada pela taxa SELIC, pois trata-se de índice de correção monetária e juros aplicados a todos os créditos públicos federais.
+5. A CDA não atende aos requisitos legais de validade relacionados no art. 202 do CTN, reproduzidos no art. 2º, §5º da Lei 6.830/80, prejudicando o exercício da ampla defesa do devedor, eis que pela incongruência dos valores indicados resta inviabilizada a aferição acerca do real valor da dívida objeto da execução.
+6. Não se deve confundir o índice de correção aplicável ao reajuste do valor da anuidade previsto no art. 6º, § 1º, da Lei nº 12.514/2011, com o uso de indexadores para atualização de débitos de anuidades vencidas e inscritas como dívida ativa tributária, casos em que, deve incidir a taxa SELIC.
+7. O título executivo padece de vício insanável, devendo ser extinta a execução.
+8. Apelação desprovida.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa ao artigo 2º, § 8º da Lei 6.830/80, e da Súmula 392 do STJ, sob os seguintes argumentos:
+(i) a substituição do índice de correção monetária presente na CDA não afeta a liquidez e certeza do título executivo, tratando-se apenas de uma mera operação aritmética;
+(ii) em nenhum momento o exequente foi intimado a promover a adequação da CDA no que tange o índice de atualização do débito utilizado, violando, dessa forma, o artigo 2º, § 8º da Lei 6.830/80.
+Sem contrarrazões.
+Juízo de retratação não exercido, assim ementado: (fl. 267)
+APELAÇÃO CÍVEL. ADMINISTRATIVO. JUÍZO DE RETRATAÇÃO DO ART. 1.030, II, DO CPC/2015. TEMAS 166 E 249 DO STJ. EXECUÇÃO FISCAL. CREMERJ. CDA. NULIDADE. VÍCIO INSANÁVEL. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+1. Trata-se de reexame previsto no art. 1.030, II, do CPC/2015 do acórdão em que a Oitava Turma Especializada decidiu, por unanimidade, extinguir o processo, por nulidade insanável do título executivo, tendo em vista que "a cobrança se baseou em indexadores diversos do legalmente previsto, bem como apresenta créditos oriundos de fatos geradores anteriores ao ano de 2012".
+2. Ciente dos julgamentos do STJ no REsp nº 1.045.472/BA (Tema 166), em que se entendeu que é possível a substituição da Certidão da Dívida Ativa até a decisão de primeira instância quando se tratar de vício sanável, e no REsp nº 1.115.501/SP (Tema 249), em que se manifestou pela possibilidade de modificação do valor constante na CDA, quando a operação envolva meros cálculos aritméticos, mantenho o entendimento exarado por esta Oitava Turma Especializada no sentido de que "uma vez que a cobrança se baseou em indexadores diversos do legalmente previsto, bem como apresenta créditos oriundos de fatos geradores anteriores ao ano de 2012, o título executivo padece de vício insanável, devendo ser extinta a execução".
+3. Sendo inviável a cobrança dos créditos constantes na CDA oriundos de fatos geradores ocorridos antes de 2012, e, diante do uso de indexador em desacordo com a regra legal, o reconhecimento de nulidade insanável se impõe.
+4. Juízo de retratação não exercido
+Juízo positivo de admissibilidade à fl. 279.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito à alegação de ofensa ao artigo 2º, § 8º da Lei 6.830/80, o acórdão recorrido consignou o seguinte (fls. 168/169):
+"Cumpre destacar que a Lei 12.514/11 possibilitou a cobrança de anuidades pelo Conselho, ora Apelante, a partir do exercício do ano de 2012, sendo inviável a cobrança de créditos oriundos de fatos geradores ocorridos até 2011, haja vista os Princípios da Irretroatividade e da Anterioridade (art. 150, inciso III, "a", "b" e "c" da CF/88). Neste sentido, já decidiu o Superior Tribunal de Justiça, em sede de Recurso Repetitivo (REsp nº 1.404.796/SP) que a referida lei somente seria aplicável às Execuções Fiscais ajuizadas após sua vigência.
+In casu, verifico que, no título executivo apresentado (evento 1 - OUT4 - JFRJ), a cobrança, além de abranger fatos geradores anteriores ao ano de 2012, foi atualizada pela variação de indexador diverso do legalmente previsto, vez que deve ser indexada pela taxa SELIC, pois trata-se de índice de correção monetária e juros aplicados a todos os créditos públicos federais.
+ ..
+Dessa forma, uma vez que a cobrança se baseou em indexadores diversos do legalmente previsto, bem como apresenta créditos oriundos de fatos geradores anteriores ao ano de 2012, o título executivo padece de vício insanável, devendo ser extinta a execução." (grifo meu)
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
