@@ -1,0 +1,30 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 3 (e-STJ).
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+"A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes." (AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.).
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+No entanto, cabe conceder ordem de ofício em caso de flagrante ilegalidade do ato impugnado. Com essas premissas, verifico aqui a ocorrência de flagrante ilegalidade, que reclama a concessão, ex officio, da ordem.
+O Paciente ROBERTO JOSE JUNIOR foi processado (autos de n. 0000307-75.2019.8.24.0023, perante a 5ª Vara da Comarca da Capital) como incurso nas sanções dos artigos 306, caput e § 1º, inciso I, e artigo 309, caput, ambos do Código de Trânsito Brasileiro, em concurso formal, assim como o artigo 329, caput, do Código Penal.
+Houve o recebimento da denúncia e a declaração de incompetência do juízo da 5ª Vara Criminal para processar o delito do art. 329, do Código Penal, determinando-se o desmembramento e a remessa dos autos para o juízo competente (Evento 72).
+Em primeiro grau, a Magistrada acolheu a pretensão da defesa para declarara nulidade da ação penal a partir do recebimento da Denúncia (Evento 68) e intimando o Ministério Público para oferecer o benefício da suspensão condicional do processo (Evento 131).
+Inconformado, o Ministério Público interpôsrecurso em sentido estrito, sustentando, a preclusão da nulidade reconhecida na sentença (Evento2, RESE3).
+O Tribunal de Justiça de Santa Catarina, por sua Quinta Câmara Criminal, decidiu:
+"O recurso merece ser conhecido, porquanto presentes os pressupostos de admissibilidade.
+Versam os autos de origem (0000307-75.2019.8.24.0023) sobre a suposta prática dos crimes de trânsito previstos no artigo 306,capute §1º, inciso I, e artigo 309,caput, ambos do Código de Trânsito Brasileiro, além do crime de resistência previsto no artigo 329,caput, do Código Penal (Denúncia -ev. 68).
+Ao receber a denúncia, o juízo monocrático determinou a cisão dos fatos, acolhendo a competência para processar e julgar tão somente os delitos de trânsito, declinando o crime de resistência para o juizado especial criminal (ev. 71).
+O feito seguiu regular instrução e na fase de alegações finais a defesa pugnou pelo reconhecimento de nulidade, asseverando que os crimes de trânsito possuem cominação de pena mínima somada igual ou inferior a um ano, tornando imprescindível o oferecimento de proposta de suspensão condicional do processo, a teor do artigo 89 da Lei 9.099/95.
+A Magistradaa quodecidiu pelo acolhimentoda nulidade invocada (ev. 130), dando ensejo à interposição do presente recurso (ev. 137).
+Pois bem.
+De análise percuciente dos fatos, vislumbra-se que razão assiste ao órgão ministerial recorrente.
+A ausência de proposta de suspensão condicional do processo é nulidade de caráter relativo e, portanto, exige arguição na primeira oportunidade que a parte possuir de falar nos autos.
+O Supremo Tribunal Federal já decidiu que a"nulidadedecorrente do silêncio, na denúncia, quanto àsuspensãocondicional doprocessoé relativa, ficando preclusa se não versada pela defesa em momento próprio" (HC 86.039/AM, Rel. Min. Marco Aurélio).
+Nesse sentido, colhe-se da jurisprudência do Superior Tribunal de Justiça, vejamos: .. Dessa forma, considerando que a nulidade não foi invocada pela defesa na resposta à acusação (ev. 94), evidente a preclusão e o desacerto da decisão impugnada.
+Ante o exposto, voto no sentido de conhecer do recurso e dar-lhe provimento para reformar a decisão impugnada e determinar o prosseguimentodo feito com a prolação de sentença."
+Entendo que a decisão do juízo de primeiro grau é adequada ao caso concreto, pois o paciente faz jus à suspensão condicional do processo, nos termos do artigo 89 da lei 9099/95:
+Art. 89. Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena (art. 77 do Código Penal).
+Verifico que o fato de o paciente ser primário, de não estar sendo processado por outro crime e de a pena mínima cominada abstratamente ser igual ou inferior a um ano são incontroversos nos autos.
+Outrossim, não há que se falar em preclusão, haja vista que a suspensão condicional do processo é direito subjetivo do acusado que atende aos requisitos do art. 89 da Lei n. 9.099/1995, cabendo ao juiz atuar de ofício caso a proposta não seja ofertada pelo Ministério Público.
+Ademais, incide no caso a súmula 337, do Superior Tribunal de Justiça, pois houve procedência parcial da denúncia: "É cabível a suspensão condicional do processo na desclassificação do crime e na procedência parcial da pretensão punitiva."
+Ante o exposto, não coonheço do Habeas Corpus, mas concedo de ofício a ordem para cassar o acórdão e determinar que seja ofertada ao paciente a proposta da suspensão condicional do processo, tendo em vista que preenche todos os requisitos do art. 89, da Lei n. 9.099/95.
+EMENTA
