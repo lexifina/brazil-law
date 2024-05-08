@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento contra decisão que, nos autos de execução fiscal, rejeitou exceção de pré-executividade. No Tribunal a quo, a sentença foi negou-se provimento ao recurso.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ICMS - LANÇAMENTO TRIBUTÁRIO -AUSÊNCIA DE INDICAÇÃO DA BASE DE CÁLCULO E DA ALÍQUOTA - CERCEAMENTO DE DEFESA NÃO EVIDENCIADO - TRIBUTO LANÇADO PELO PRÓPRIO CONTRIBUINTE VIA DIC - DECISÃO MANTIDA - PRECEDENTES DESTA CORTE - AGRAVO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Vejamos o que disciplina a Lei 3.796/96:
+Art. 72. As infrações à legislação do ICMS sujeitam oi n f r a t o r à s s e g u i n t e s m u l t a s :I - com relação ao recolhimento do imposto :d) deixar de pagar, no todo ou em parte, na forma e nos prazos regulamentares, o imposto quando as operações ou as prestações e o valor a recolher estiverem regularmente escriturados nos livros fiscais ou respectivos mapas: multa equivalente a 25% (vinte e cinco por cento) do imposto devido.
+ ..
+"Note-se que a informação acerca da base de cálculo, a alíquota e o valor do tributo ou da receita não tributária, não é obrigatória em qualquer caso, mas apenas quando devido, o que não se configura no caso, pois, conforme registrou o valor do tributo é calculado pelo próprio contribuinte ao excepto, emitir documento próprio (Declaração de Informações do Contribuinte -DIC), de sorte que as informações acerca da alíquota e base de cálculo cabem ao próprio contribuinte. Em suma, entendo que os excipientes não trouxeram provas suficientemente capazes de desconstituir a higidez do auto de infração que deu origem a CDA acoplada a inicial, sendo que o referido auto observou todos os regramentos que regulam a matéria."
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, Lei 3.796/96, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
