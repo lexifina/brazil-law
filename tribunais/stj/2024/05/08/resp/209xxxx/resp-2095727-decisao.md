@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA CAROLINA LIMA TAVARES DE MELO com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 338):
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. TÍTULO EXECUTIVO JUDICIAL. CORREÇÃO MONETÁRIA E JUROS DE MORA. APLICAÇÃO INTEGRAL DO ART. 1º-F DA LEI Nº 9.494/97, COM A REDAÇÃO DADA PELA LEI Nº 11.960/2009. POSSIBILIDADE. COISA JULGADA. TEMA STF 733 (RE 730.462/SP). AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Agravo de instrumento interposto contra decisão proferida em cumprimento de sentença contra a Fazenda Pública que homologou os cálculos elaborados pela contadoria judicial no que diz respeito a correção monetária e juros de mora e fixou o valor da condenação.
+2. A controvérsia adstringe-se à possibilidade de emprego do índice oficial de remuneração básica da poupança (TR) como índice de atualização do valor de cumprimento da sentença.
+3. O título judicial objeto do agravo de instrumento foi constituído antes do julgamento em 20/09/2017 do RE 870.947/SE, ocasião em houve a declaração de inconstitucionalidade parcial do disposto no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/2009, o afastamento da incidência da TR na atualização monetária e, como não houve a irresignação das partes, seja pela via ordinária ou a da ação rescisória, a decisão encontra-se acobertada pelo manto da coisa julgada material.
+4. O Tema 733 do STF fixou que a declaração de constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, nos termos do art. 485 do CPC, observado o respectivo prazo decadencial (art. 495) (RE 730.462/SP, STF - PLENO, Rel. Min. TEORI ZAVASCKI, j. 28/05/2015, DJe 09/09/2015).
+5. O título executivo judicial, ademais, fixou expressamente que "quanto à correção monetária e juros de mora sobre os valores devidos, devem ser observados os termos do Manual de Cálculos da Justiça Federal, que se encontra de acordo com o art. 1º-F da Lei nº 9.494/97, alterada pela Lei nº 11.940/2009", de modo que não há margem para dúvida quanto aos critérios fixados para a atualização do valor da condenação.
+6. A requisição de pagamento, por seu turno, deverá observar a recente Emenda Constitucional nº 113, de 8 de dezembro de 2021, sendo atualizada pela taxa Selic até o seu efetivo pagamento, de modo que reputo acertada a decisão do juízo de origem.
+7. Agravo de Instrumento improvido.
+Embargos de declaração rejeitados.
+A parte recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão (fl. 399):
+ ..  o título executivo previu a correção monetária nos moldes previstos no Manual de Cálculos da Justiça Federal, de forma genérica, não existindo qualquer menção expressa à TR, o que impe- de sua aplicação (sobretudo diante da sua flagrante inconstitucionalidade). A matéria deduzida nos aclaratórios não revela mera formalidade; pelo contrário, constitui-se no principal fundamento deduzido pelos Recorrentes em prol da aplicação do IPCA-E, em estrita observância do título executivo.
+ ..
+Quanto à questão de fundo, sustenta ofensa aos artigos 467, 471, I, 472, 473 e 474, do CPC/1973 (489, § 3º, 502, 505, I, 506, 507, 508, 535, VI e 509, § 4º, do CPC/2015) e 1º-F da Lei n. 9.494/1997, aduzindo argumentação no sentido de que "o acórdão recorrido chancelou a incidência de TR no período compreendido entre 2009 e 2017, para fins de correção monetária, sem previsão expressa no título" (fl. 401).
+Com contrarrazões (fls. 423-439).
+Juízo positivo de admissibilidade à fl. 451.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Com efeito, a controvérsia recursal consiste no afastamento da correção monetária pela TR (reconhecidamente inconstitucional), sobretudo pela ausência de fixação do referido índice no título executivo, pugnando pela fixação do IPCA-E em seu lugar.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Ademais, no que diz respeito à alegação de ofensa aos artigos 489, § 3º, 502, 505, I, 506, 507, 508, 535, VI e 509, § 4º, do CPC/2015 e 1º-F da Lei n. 9.494/1997, a pretensão é inadmissível, pois o recorrente não impugnou o fundamento do acórdão recorrido segundo o qual (fl. 336):
+ .. .
+O título judicial objeto do agravo de instrumento foi constituído antes da uniformização da matéria controvertida, em 10 de outubro de 2014, ocasião em que a correção monetária e os juros de mora foram expressamente fixados de acordo com a redação do art. 1º-F da Lei nº 9.494/97, alterada pela Lei nº 11.940/2009 e, como não houve a irresignação das partes, seja pela via ordinária ou a da ação rescisória, a decisão encontra-se acobertada pelo manto da coisa julgada material.
+ ..
+Essa situação enseja a aplicação da Súmula 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
