@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo JOSE LUIZ DE PAIVA IGREJA contra decisão que inadmitiu recurso especial (fls. 435/438, e-STJ) manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim ementado (fl. 263, e-STJ):
+Agravo de instrumento. Ação civil pública. Direito Administrativo e constitucional. Agravo interno. Perda de objeto. Prejudicado. Origem. Questão não analisada. Supressão de instância. Impossibilidade. Mérito. Fase de cumprimento de sentença. Exceção de pré-executividade. Ilegitimidade passiva. Nulidade processual. Fase de instrução. Fase recursal. Coisa julgada. Discussão. Dilação probatória. Impossibilidade.
+1. Não é cabível a apreciação de questão que não tenha sido analisada na decisão impugnada, por estar ausente o interesse recursal, bem como pelo fato de tal conduta configurar supressão de instância.
+2. Se a matéria aduzida já foi objeto de análise em decisão anterior, com trânsito em julgado, é inequívoca a incidência da preclusão máxima, que impede nova discussão, sob pena de, em desrespeito à coisa julgada, eternizar-se o andamento processual.
+3. Recurso de agravo interno prejudicado.
+4. Recurso conhecido parcialmente e, no mérito, negado provimento.
+Opostos embargos de declaração pelo agravante, restaram rejeitados, conforme acórdão assim ementado (e-STJ, fl. 331):
+Embargos de declaração. Agravo de instrumento. Ação civil pública. Direito Administrativo e constitucional. Agravo interno. Perda de objeto. Prejudicado. Origem. Questão não analisada. Supressão de instância. Impossibilidade. Mérito. Fase de cumprimento de sentença. Exceção de pré-executividade. Ilegitimidade passiva. Nulidade processual. Fase de instrução. Fase recursal. Coisa julgada. Discussão. Dilação probatória. Impossibilidade. Vícios do art. 1.022, I, II e III, CPC 2015. Obscuridade. Contradição. Omissão. Inexistência.
+1. Os embargos de declaração não se prestam a rediscutir o mérito da decisão embargada (art. 1.022, CPC 2015), reclamando indicação concreta de seu cabimento para suprir omissão, contradição, obscuridade ou erro material.
+2. Embargos de declaração rejeitados.
+No recurso especial, fundamentado na alínea "a" e "c" do permissivo constitucional, o recorrente aponta violação aos seguintes dispositivos da lei federal: a) 833, VI, e 1022, II, do CPC/15, sustentando negativa de prestação jurisdicional pelo Tribunal de origem que, mesmo após a oposição de embargos declaratório, permaneceu omisso quanto à teses oportunamente apresentadas; c) 833, VI, do CPC/15, argumentando a impenhorabilidade dos proventos de aposentadoria in casu, visto que os proventos não são superiores a 50 salários mínimos e não se trata de dívida de alimentos; d) 17, 330 E 485, VI, do CPC/15, afirmando a ilegitimidade do recorrente para figurar no polo passivo da ação, haja vista seu papel de mero procurador da empresa pelos supostos atos de improbidade, atuando nos limites da delegação por procuração; e) 7º, 269, 270, 272,§ 2º, 280 e 281 do CPC/15, à consideração de que houve nulidade das intimações processuais e cerceamento de defesa, em razão da ausência de registro dos advogados do recorrente no Sistema SAP, verificada em 23 de abril de 2014, seis anos após a sentença. Ademais, asseverou como violado o Tema 425 do STJ.
+Os agravados apresentaram contrarrazões ao recurso especial às fls. 392/400 e 401/419, e-STJ.
+O Tribunal de origem inadmitiu o recurso especial ante a ausência de violação ao art. 1022, II, do CPC, pelo fato de o acórdão recorrido não afrontar o Tema 425 do STF, assim como pela incidência do óbice das Súmulas 7 e 83/STJ (fls. 435/438, e-STJ).
+A parte ora agravante apresentou agravo em recurso especial pugnando pelo seu conhecimento e provimento do recurso especial.
+Os agravados apresentaram contraminutas ao agravo em recurso especial às fls. 470/485 e 495/502, e-STJ.
+O Ministério Público Federal emitiu parecer às fls. 531/533, e-STJ.
+É o relatório. Decido.
+A decisão agravada negou seguimento ao recurso especial sob o fundamento de que: a) inaplicabilidade do Tema 425/STJ; b) ausência de violação ao art. 1022, do CPC/15; c) a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado a teor da Súmula 7/STJ; d) incidência da Súmula 83 do STJ.
+Ocorre que no agravo em recurso especial, a parte recorrente apenas impugnou a ausência de violação ao art. 1022, a não incidência do óbice sumular 83 do STJ e os fundamentos relativos ao Tema 425/STJ.
+Conforme disposição dos artigos 932, III, do CPC/2015, e 253, parágrafo único, inciso I, do RISTJ, o agravo que não afasta todos os fundamentos que levaram à inadmissão do recurso especial, não deve ser conhecido. Isso porque a decisão de inadmissibilidade não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total.
+A propósito:
+Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+ ..
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+Nesse sentido, ressalta-se os seguintes julgados:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, manteve o não conhecimento do agravo em recurso especial, por ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. Não há falar em omissão no julgado quanto ao mérito, se o recurso apresentado não ultrapassou sequer o juízo prévio de conhecimento.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.115.025/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. ILEGALIDADE MANIFESTA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não impugnou, de forma suficiente, todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+3. Verificada, de ofício, a ocorrência de ilegalidade relativa à dosimetria da pena, mostra-se necessária a concessão de habeas corpus quanto a esse aspecto. 4. Hipótese em que a pena privativa de liberdade foi redimensio
+nada para patamar inferior a 4 anos, devendo ser afastada a perda do cargo público ocupado pelo paciente, porquanto não mais incide o art. 92, I, b, do CP.
+5. Agravo regimental improvido. Todavia, concedido habeas corpus de ofício (art. 654, § 2º, do CPP), para redimensionar a pena imposta ao paciente, fixando-a em 1 ano e 8 meses de reclusão, em regime inicial aberto, e pagamento de 166 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos a serem estabelecidas pelo Juízo da execução, afastada, ainda, da condenação, a pena de perda do cargo prevista no art. 92 do Código Penal, nos termos da fundamentação.
+(AgRg no AREsp n. 2.183.259/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+Por fim, cabe ressaltar que o Ministério Público Federal emitiu parecer no mesmo sentido (fl. 531, e-STJ):
+EMENTA: AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. AUSÊNCIA DE IMPUGNAÇÃO PORMENORIZADA E EFETIVA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. RECURSO DESPROVIDO.1. É inviável o conhecimento de agravo em recurso especial que deixa de impugnar, de maneira pormenorizada e efetiva, os fundamentos da decisão agravada. Inteligência do art. 932, inciso III, do CPC. Súmula 182/STJ.2. Parecer pelo não conhecimento do agravo em recurso especial.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NÃO IMPUGNADOS. ARTIGO 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
