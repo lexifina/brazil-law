@@ -1,0 +1,10 @@
+DECISÃO
+JAMILSON COSTA QUINTA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de ato do Tribunal de Justiça do Estado do Espírito Santo.
+A defesa busca a revogação da prisão preventiva do paciente. Para tanto, aponta as seguintes irregularidades: a) inobservância da regra do art. 316, parágrafo único, do CPP; b) ilegalidade da revogação da prisão domiciliar, concedida durante o curso da ação penal, por suposto descumprimento da área de monitoramento; c) o sentencidao possuiria direito à progressão prisional, caso detraído o período total em que esteve sob monitoramento eletrônico; d) realização de audiência de custódia fora do prazo legal; e) ausência de laudo definitivo nos autos da ação penal; f) necessidade de aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006; g) desnecessidade da manutenção da custódia provisória; h) necessidade de realização de "alguns procedimentos cirúrgicos" (fl. 23) pelo réu, mas este "não tem confiança no procedimento e a recuperação no ambiente que está inserido, para passar por estes procedimentos dentro da prisão", pois estaria encarcerado em "um ambiente altamente insalubre" (fl. 23), e i) excesso de prazo para julgamento da apelação criminal.
+A parte anexou à inicial de seu habeas corpus decisão proferida pelo Desembargador relator da Apelação Criminal n. 0000175-71.2020.8.08.0041, Decisão proferida por Desembargador do TJES no HC n. 5012284-53.2023.8.08.0000 e acórdão proferido no Agravo em Execução n. 5008327-78.2022.8.08.0000, motivo pelo qual, no despacho de fls. 767-768, determinei a intimação do impetrante a fim de que esclarecesse qual ato coator é impugnado nestes autos.
+Decido.
+A impossibilidade de se identificar o ato contra o qual se insurge a defesa caracteriza a inépcia da petição inicial, vício que impede o conhecimento do writ.
+Ademais, devidamente intimado para se manifestar, a parte se quedou inerte, deixando transcorrer o prazo para prestar o esclarecimento necessário, o que evidencia a ausência de interesse no prosseguimento do writ.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
