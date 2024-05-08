@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial (fls. 360-366) pelo Estado de Minas Gerais e o Instituto de Previdência dos Servidores do Estado de Minas Gerais (IPSEMG), fundamentado no art. 105, III, a, da Constituição Federal, contra acórdão prolatado pela 7ª Câmara Cível do Tribunal de Justiça de Minas Gerais (fls. 96-115).
+Foi dado parcial provimento à apelação do ente estadual, ora recorrente, para se determinar a correção monetária pelo IPCA-E, "desde a data em que efetivado cada desconto indevido, bem como o cômputo dos juros de mora à taxa de 0,5% (meio por cento) ao mês e desde o trânsito em julgado", além da fixação de honorários em liquidação de sentença e, por fim, isenção da parte autora ao pagamento das custas processuais, com fulcro no art. 10, II, da Lei Estadual 14.939/2003.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, a parte recorrente sustenta violação ao art. 1º-F da Lei 9.494/1997, em suma, aos seguintes fundamentos:
+ ..  os eventuais juros de mora devem ser fixados nos moldes do art. 1º-F da Lei 9494/1997, modificada pela Lei 11.960/09, qual seja, com base no índice oficial de remuneração da caderneta de poupança, conforme fixado pelo Superior Tribunal de Justiça ao julgar o Tema 905, no qual fixou a seguinte tese:
+2 Juros de mora: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico-tributária.
+Ao recurso foi negado seguimento quanto ao Tema 588 e admitido quanto ao Tema 905 (fls. 373-374 ). Não houve interposto agravo dessa decisão.
+É o relatório. Decido.
+Quanto à alegação de violação ao art. 1º-F da Lei 9.494/1997, o Tribunal de origem assim se manifestou (fl. 329):
+Ressalte-se a inaplicabilidade do percentual previsto no art. 161, § 1º, do CTN, uma vez que no Estado de Minas Gerais há lei especifica quanto à forma de incidência de juros moratórios sobre as contribuições sociais, prevendo o importe de 0,5% ao mês (art. 4º, LE nº 13.404/1999).
+Não obstante a referida lei estadual preveja a incidência da UFIR como índice de correção monetária, em face da extinção daquela, impõe-se a incidência do IPCA-E, fazendo-o consoante decisão tomada pela ex. Corte Constitucional no RE nº 870.947/SE.
+Logo, considerando que a contribuição para custeio dos serviços de saúde, instituída pela LC nº 64/2002 tem natureza tributária (RE nº 573.540, Pleno/STF, rei. Min. Gilmar Mendes, DJe 111612010), devem incidir os juros de mora no importe de 0,5% ao mês (art. 161, § 1º , CTN c/c art. 4º, LE n.º 13.404/1999) e desde o trânsito em julgado da decisão que o arbitrou (Súmula nº 188/STJ), bem como correção monetária pelo IPCA-E e a partir de cada pagamento indevido (Súmula nº 162/STJ).
+Entretanto, a parte recorrente argumentou, tão somente, a necessidade de aplicação dos juros de mora segundo o índice de remuneração da caderneta de poupança, deixando de refutar argumentos trazidos pelo acórdão impugnado para indeferir seu pleito, quais sejam: existência de lei estadual específica sobre a forma de incidência de juros moratórios sobre as contribuições sociais.
+Desse modo, verifica-se que os fundamentos suficientes para a manutenção do acórdão não foram impugnados de forma específica pela parte recorrente, deficiência argumentativa que atrai, por analogia, o óbice das Súmulas 283 e 284 do STF.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. INOCORRÊNCIA. AÇÃO CIVIL PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA. INTERRUPÇÃO DA PRESCRIÇÃO QUINQUENAL. TERMO INICIAL DO PRAZO PRESCRICIONAL. RECEBIMENTO. PARCELAS EM ATRASO. AJUIZAMENTO DA AÇÃO COLETIVA.
+1. Conforme entendimento sedimentado nas Súmulas 283 e 284 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+ ..
+4. Agravo interno desprovido (AgInt no AREsp n. 2.368.855/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023, grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO. REVISÃO DO BENEFÍCIO. INAPLICÁVEL À DECADÊNCIA PREVISTA NO ART. 103-A DA LEI 8.213/1991. FUNDAMENTO NÃO ATACADO. SÚMULAS 283 E 284/STF.
+1. O Tribunal de origem consignou:  .. . A irresignação não merece prosperar, porquanto o Tribunal a quo utilizou fundamentos que a parte recorrente esquivou-se de rebater. Como os fundamentos não foram atacados pela parte recorrente e são aptos, por si sós, para manter o decisum combatido, permitem aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+3. Agravo Interno não provido (AgInt no AREsp n. 2.289.600/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023, grifo nosso)
+Além disso, observo que a Corte de origem decidiu a controvérsia dos autos com base, essencialmente, nos termos da legislação estadual, isto é, a Lei 13.404/1999 do Estado de Minas Gerais. Desse modo, considerando que a fundamentação utilizada pela origem não diz respeito à legislação federal, torna-se inviável o conhecimento do recurso especial. Incide, assim, por analogia, o óbice da Súmula 280 do STF, a qual preceitua que "Por ofensa a direito local não cabe recurso extraordinário".
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
