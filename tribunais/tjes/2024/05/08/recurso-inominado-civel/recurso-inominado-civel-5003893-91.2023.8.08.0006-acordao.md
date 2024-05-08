@@ -1,0 +1,97 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003893-91.2023.8.08.0006
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: HAPVIDA ASSISTENCIA MEDICA LTDA
+RECORRIDO: DANIELA DOS SANTOS SOARES
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003893-91.2023.8.08.0006
+Recorrente: HAPVIDA ASSISTÊNCIA MÉDICA S/A
+Recorrida: DANIELA DOS SANTOS SOARES
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA ANTECIPADA. SAÚDE. (1). DA LIDE.
+TRATA-SE DE AÇÃO AJUIZADA POR DANIELA DOS SANTOS SOARES EM FACE DE HAPVIDA ASSISTÊNCIA MÉDICA LTDA., NA QUAL PLEITEIA, LIMINARMENTE, QUE A REQUERIDA EFETUE O PAGAMENTO NO VALOR DE R$ 1.600,00, EM FAVOR DA EMPRESA CLISANT, E, AUTORIZE A COLOCAÇÃO DAS COROAS DEFINITIVAS, NOS DENTES 14, 15 E 25. NO MÉRITO, A CONFIRMAÇÃO DO PLEITO LIMINAR, COM A CONDENAÇÃO DA REQUERIDA EM INDENIZAÇÃO POR DANOS MORAIS, NO VALOR DE R$ 30.000,00.
+(2). ANTÍTESE.
+EM CONTESTAÇÃO A REQUERIDA ADUZ PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR E ILEGITIMIDADE PASSIVA. NO MÉRITO, ALEGA IMPOSSIBILIDADE DE CONCESSÃO DO TRATAMENTO PRETENDIDO PELA REQUERENTE, QUAL SEJA, COROA EM ARTGLASS, POR NÃO POSSUIR COBERTURA CONTRATUAL PELO PLANO DE SAÚDE. AFIRMA QUE O TRATAMENTO ODONTOLÓGICO, REFERENTE AO RETRATAMENTO ENDODÔNTICO, NÚCLEO METÁLICO E COROA PROVISÓRIA NOS DENTES 14 E 15, FORAM REGULARMENTE ADIMPLIDOS JUNTO A PRESTADORA DE SERVIÇO EM 10/2021. INFORMA QUE O PAGAMENTO DO TRATAMENTO DO DENTE 25 NÃO FOI COMPROVADO E POR ISSO NÃO FOI ADIMPLIDO JUNTO AO PRESTADOR DE SERVIÇO.
+(3). DISPOSITIVO DA SENTENÇA.
+“Ante todo exposto,
+a acolho, de ofício, a preliminar de ilegitimidade ativa
+com relação ao pedido de cobrança
+e Julgo Parcialmente Procedente a Ação,
+resolvendo o mérito, na forma do artigo 487, inc. I, do CPC/2015 para
+condenar
+a requerida na obrigação consistente em autorizar , junto a sua rede credenciada, o procedimento de colocação/implantação de coroa protética de material metálico, nos 03 dentes autorais tratados, nº 14, 15 e 25, no prazo de 30 (trinta) dias.”
+(4). RECURSO DA PARTE RÉ.
+PRELIMINARMENTE, PUGNA POR CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO INTERPOSTO. NO MÉRITO, REQUER SEJA REFORMADA A SENTENÇA, JULGANDO-SE IMPROCEDENTES OS PLEITOS DA PARTE RECORRIDA.
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(6). DA QUESTÃO PROCESSUAL.
+AUSÊNCIA DE DANO IRREPARÁVEL QUE JUSTIFIQUE A CONCESSÃO DO EFEITO SUSPENSIVO PLEITEADO. GRAVE RISCO À RECORRENTE NÃO DEMONSTRADO. EFEITOS DA SENTENÇA DE PISO QUE NÃO TÊM O CONDÃO DE TRAZER GRAVES PREJUÍZOS AO PATRIMÔNIO DA RÉ.
+EFEITO SUSPENSIVO PLEITEADO NÃO ATRIBUÍDO.
+RECEBO O RECURSO SOMENTE EM SEU EFEITO DEVOLUTIVO, CONSOANTE O DISPOSTO NO ART. 43 DA LEI 9099/95.
+(7). DO MÉRITO.
+ANALISANDO DETIDAMENTE OS ARGUMENTOS ADUZIDOS EM SEDE RECURSAL EM CONJUNTO COM O ACERVO FÁTICO-PROBATÓRIO DOS AUTOS, ENTENDO SER O CASO DE MANUTENÇÃO DA R. SENTENÇA. EXPLICO. A MOTIVAÇÃO POSTA PELO JUÍZO DE PRIMEIRO GRAU EM RELAÇÃO AO DEVER DE A OPERADORA DE PLANO ODONTOLÓGICO RÉ DISPONIBILIZAR O PROCEDIMENTO INDICADO À REQUERENTE ESTÁ EM COINCIDÊNCIA COM A LEGISLAÇÃO CORRELATA, BEM COMO OS TERMOS DO CONTRATO OUTRORA ENTABULADO ENTRE AS PARTES, DE MODO QUE ORA SE LHE TRANSCREVE O TEOR DE SEUS TERMOS MAIS DETERMINANTES,
+IN VERBIS
+:
+“[...] em virtude da Resolução n. 265/2021 da ANS, item 93, prever a reabilitação com coroa total metálica unitária dos dentes permanentes posteriores (pré-molares e molares), nestes incluídos, o nº 14, 15 e 25, os quais a suplicante realizou procedimento de canal, forçoso reconhecer o dever da requerida proporcionar o tratamento.”
+LOGO, ENTENDO SER INADMISSÍVEL A RECUSA DA PARTE REQUERIDA QUANTO AO FORNECIMENTO DO PROCEDIMENTO ODONTOLÓGICO PLEITEADO PELA AUTORA, SOB A ALEGAÇÃO DE INEXISTÊNCIA DE COBERTURA CONTRATUAL. PORTANTO, MERECE ACOLHIMENTO A PRETENSÃO AUTORAL, NO SENTIDO DE QUE SEJA DETERMINADO QUE O PLANO DE SAÚDE AUTORIZE, JUNTO A SUA REDE CREDENCIADA, O PROCEDIMENTO DE COLOCAÇÃO/IMPLANTAÇÃO DE COROA PROTÉTICA DE MATERIAL METÁLICO, NOS 03 DENTES AUTORAIS TRATADOS, Nº 14, 15 E 25. DEVE-SE, TAMBÉM, RESSALTAR QUE, A RECORRENTE AINDA TENTA INDUZIR O JUÍZO A ERRO AO QUE ADUZ
+“[...] importante elucidar que o tratamento pretendido pela Recorrida, qual seja, Coroa em Artglass, a qual não possui cobertura contratual pelos planos de saúde,
+somente o material metálico.
+Nesse liame, foi esclarecida que o procedimento de COROA EM ARTGLASS NÃO ESTÁ CONTEMPLADO NA COBERTURA ASSISTENCIAL contratada, razão pela qual, inexiste obrigatoriedade custeio por parte da Recorrente.”
+(GRIFO NOSSO). ORA, PERCEBE-SE QUE O TRECHO CITADO NAS RAZÕES RECURSAIS GUARDA SEMELHANÇA COM O EFETIVAMENTE DECIDIDO NA R. SENTENÇA, VEJA-SE:
+“[...]
+condenar
+a requerida na obrigação consistente em autorizar, junto a sua rede credenciada, o
+procedimento de colocação/implantação de coroa protética de
+material metálico
+, [...]”
+. VERIFICA-SE, PORTANTO, QUE SE TRATA DE TENTATIVA DA PARTE EM INDUZIR O JULGADOR A ERRO, LEVANTANDO HIPÓTESE FALSA (INEXISTÊNCIA DE PREVISÃO CONTRATUAL PARA O FORNECIMENTO DO TRATAMENTO “COROA PROTÉTICA DE MATERIAL METÁLICO”), NA PRETENSÃO DE TER SEU RECURSO VALIDADO, EM ABSOLUTO DESATENDIMENTO À LEALDADE PROCESSUAL. EM CASOS COMO TAIS, É DE SE APLICAR A MULTA POR LITIGÂNCIA DE MÁ-FÉ. HIPÓTESE EM QUE SE IMPÕE A APLICAÇÃO DA MULTA EM VALOR SUPERIOR A 1% E INFERIOR A 10% SOBRE O VALOR CORRIGIDO DA CAUSA.
+(8).
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. (9). POR FORÇA DA SUCUMBÊNCIA RECURSAL (art. 55 da LJE), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE R$ 1.000,00 (MIL REAIS),
+NA FORMA DO ART. 85, §8º, DO CPC. CONFIGURADA A LITIGÂNCIA DE MÁ-FÉ DO RECORRENTE, ESTABELEÇO MULTA EM 5% DO VALOR DA CAUSA, NA FORMA DO ART. 81 DO CPC.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
