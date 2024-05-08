@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DE SÃO PAULO contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO CÍVEL. DESAPROPRIAÇÃO. EXECUÇÃO. IMPUGNAÇÃO. PAGAMENTO INTEGRAL DO CRÉDITO. MATÉRIA RELATIVA A NÃO INCIDÊNCIA DOS JUROS DE MORA E COMPENSATÓRIOS NO PERÍODO DA MORATÓRIA DO ARTIGO 78 DO ADCT. INAPLICABILIDADE DA SÚMULA VINCULANTE 17 DO STF AO PRESENTE CASO. PRECATÓRIO RELATIVO AO EXERCÍCIO DE 1992. OFENSA À COISA JULGADA. LEI N.º 11.960/09. PRINCÍPIO DA ESPECIALIDADE. DESAPROPRIAÇÃO. LEI PRÓPRIA. SUPE RVENIÊNCIA, ADEMAIS, DE DECLARAÇÃO DE INCONSTITUCIONALIDADE POR ARRASTAMENTO DO SEU ART. 5.º, CONTUDO, SEM MODULAÇÃO TEMPORAL DOS EFEITOS DA DECISÃO, QUE ENSEJA JUÍZO DE EXCLUSÃO DA NORMA, AINDA QUE "EX OFFICIO". SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 535, II, do CPC/1973.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 972/977.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+É o relatório. Decido.
+Antes de tudo, a decisão de origem negou seguimento ao recurso especial aplicando tese consolidada em sede de repetitivo proferido pelo STJ (Tema 905), quanto a aplicação do regramento do art. 1º-F da Lei 9.494/1997.
+Cumpre asseverar que a decisão de inadmissibilidade do especial proferida pelo Tribunal a quo, em parte foi baseada no artigo 1.030, § 2º, do CPC/2015, que é expresso ao prever o cabimento de agravo interno contra decisão que, especado no artigo 1.030, I, b, do CPC/2015, nega seguimento ao recurso especial.
+Destarte, inviável o presente agravo em recurso especial quanto ao ponto relacionado ao tema mencionado.
+Passo a análise da disciplina acerca da suposta negativa de prestação jurisdicional.
+Com efeito, verifica-se não ter ocorrido ofensa ao artigo 535 do CPC/1973, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA DO CONSÓRCIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A violação ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente. 2. Tendo o Tribunal local concluído pela legitimidade do consórcio e sua responsabilização solidária no caso, não há como rever esse entendimento sem o necessário revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7/STJ. 3. Agravo interno não provido. (AgInt no REsp 1827460/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021 - grifo nosso)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
