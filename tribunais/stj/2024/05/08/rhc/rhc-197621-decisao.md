@@ -1,0 +1,18 @@
+DECISÃO
+ITALO LUAN XAVIER alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça da Paraíba
+Consta dos autos que o paciente foi pronunciado pela suposta prática dos delitos previstos nos arts. 121, §2º, inciso I e IV, do Código Penal c/c 2º, §2º da Lei 12.850/13 por fato ocorrido no dia 10/06/2020.
+Inconformada, a defesa ajuizou habeas corpus perante o Tribunal a quo, que, contudo, não foi conhecido (fl. 362):
+De pronto cumpre salientar que, tratando-se de irresignação contra decisão de pronúncia, há a possibilidade de utilização do recurso em sentido estrito e não do habeas corpus, motivo pela qual esse não pode ser conhecido, conforme já decidiu o Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA OMESMO FIM. PLEITO DE REVISÃO DA DOSIMETRIA E DA CONDENAÇÃO TRANSITADAEM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA ACOMPETÊNCIA DO STJ. INADMISSIBILIDADE. IMPOSSIBILIDADE DERECONHECIMENTO. PRECEDENTES. 1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça. (AgRg no HC 524.600/PR, Ministra Laurita Vaz, Sexta Turma, DJe21/2/2020). 2. Agravo regimental improvido. (AgRg no HC 548.771/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/06/2020, DJe 09/06/2020)
+É bem verdade que a ordem de habeas corpus pode ser concedida de ofício quando verificada de plano a ilegalidade, mas isso não ocorre na espécie.
+Primeiro porque a pretensão apresentada tem como fundamento a inexistência de provas de autoria em face do ora paciente, o que foge aos limites da via estreita do habeas corpus.
+Segundo porque houve a interposição de recurso em sentido estrito para reexaminar a situação do ora Paciente, mas esse não ultrapassou o exame de admissibilidade perante a Câmara Criminal, conforme acórdão no processo nº 0813956-87.2022.815.0001.
+Dessa forma, a insurgência do ora Impetrante é direcionada não apenas à decisão de primeiro grau, mas também ao acórdão prolatado pela Câmara Criminal, o que atrai a competência do Superior Tribunal de Justiça, nos termos do art. 105, I, alíneas "a" e"c", da Constituição Federal.
+A defesa ainda agravou dessa decisão, mas o não conhecimento do habeas corpus foi mantido (fls. 389-393).
+Irresignada, perante este Superior Tribunal de Justiça, a defesa requer a despronúncia do paciente. Liminarmente, pede a suspensão do processo originário até o julgamento final do writ.
+Decido.
+De plano, verifico que o Tribunal de origem não analisou o argumento acerca da insuficiência das provas da autoria para a pronúncia, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
