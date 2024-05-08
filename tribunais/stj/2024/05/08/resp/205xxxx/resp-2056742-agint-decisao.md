@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interno interposto por JOSÉ SILVEIRA GUIMARÃES contra decisão monocrática de minha relatoria que determinou o retorno dos autos à origem (fls. 405-407).
+Extrai-se dos autos que a parte agravada interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE cuja ementa guarda os seguintes termos (fls. 92-103):
+Agravo de Instrumento. Cumprimento de sentença. Decisão recorrida que indeferiu a penhora dos vencimentos auferidos pelo executado/agravado. Irresignação da instituição financeira exequente/agravante. Impossibilidade de penhora do salário do devedor. Art. 833, §2º, do NCPC. Julgamento do Superior Tribunal de Justiça, pela Corte Especial, do REsp 1.815.055/SP, no qual determina a possibilidade somente em casos de satisfação de crédito de natureza alimentar ou nos casos em que os vencimentos recebidos pelo devedor ultrapassem o montante de 50 (cinquenta) salários mínimos, o que não é o caso dos autos. Precedentes desta Corte. Manutenção da decisão a quo. Recurso conhecido e desprovido. À unanimidade.
+Rejeitados os embargos de declaração opostos pela parte ora agravada (fls. 309-321).
+No recurso especial, a parte agravada alegou, no mérito, a necessidade de mitigação da regra de impenhorabilidade prevista no art. 833, IV, do CPC, requerendo que fosse deferido o pedido de penhora entre 10% a 20% dos proventos de aposentadoria da parte ora agravante para pagamento de dívida não alimentar.
+Foram oferecidas contrarrazões ao recurso especial (fls. 253-262).
+Sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 265-270).
+Em decisão monocrática de minha relatoria, o recurso especial não foi conhecido (fls. 384-388), entretanto, após a oposição de embargos de declaração, a decisão monocrática foi reformada para dar provimento ao recurso especial e determinar o retorno dos autos à origem para prosseguimento no julgamento do feito (fls. 405-407).
+A parte recorrida, ora agravante, manejou agravo interno insurgindo-se contra a decisão de fls. 405-407.
+É, no essencial, o relatório.
+Discute-se nos autos a possibilidade ou não de penhora de parte dos vencimentos do ora agravante para pagamento de dívidas não alimentares, quando tais vencimentos não ultrapassam 50 salários mínimos.
+A matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos (REsp 1.894.973/PR, REsp 2.071.382/SE, REsp 2.071.335/GO e REsp 2.071.259/SP ).
+A propósito, cito precedente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO. IMPENHORABILIDADE DE VERBA DE NATUREZA SALARIAL. RENDA DO DEVEDOR INFERIOR A 50 SALÁRIOS MÍNIMOS. DÍVIDA NÃO ALIMENTAR. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV e § 2º, DO CPC. CRITÉRIOS DE AFETAÇÃO PREENCHIDOS. RECURSO AFETADO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos:
+Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos.
+2. Recurso especial submetido ao regime dos recursos especiais repetitivos (afetação conjunta: REsp 1.894.973/PR, REsp 2.071.382/SE, REsp 2.071.335/GO e REsp 2.071.259/SP).
+(ProAfR no REsp n. 2.071.259/SP, relator Ministro Raul Araújo, Corte Especial, julgado em 12/12/2023, DJe de 20/12/2023.)
+Em tal circunstância, considerando a relevância da matéria e a necessidade de se resguardar a segurança jurídica e a isonomia, princípios que balizam o nosso sistema de Precedentes Qualificados, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanism o que enseje às instâncias de origem o juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC.
+Logo, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo Sistema de Justiça, os recursos que versam sobre a mesma controvérsia devem retornar à origem, dando ensejo à aplicação uniforme da tese vinculante.
+Somente depois de realizada tal providência, isto é, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores para análise dos pontos jurídicos neles suscitados, a menos que estejam prejudicados pelo novo pronunciamento do Tribunal local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para que se aguarde o julgamento do tema repetitivo e, após, possa observar a disciplina processual dos arts. 1.039 e 1.040 do CPC, devendo-se: I) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou II) proceder ao juízo de retratação, n a hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
+ EMENTA
