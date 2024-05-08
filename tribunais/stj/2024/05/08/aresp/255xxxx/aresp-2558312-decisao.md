@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO JOSE FERREIRA FRANCO contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado:
+PROCESSUAL CIVIL. CONSUMIDOR. SENTENÇA PROCEDENTE. RECURSO DE APELAÇÃO. COBRANÇA REFERENTE A CONSUMO NÃO FATURADO POR SUPOSTA IRREGULARIDADE NO MEDIDOR DE ENERGIA.TERMO DE OCORRÊNCIA DE IRREGULARIDADE (TOI) PRODUZIDO UNILATERALMENTE. PRESUNÇÃO RELATIVA DE VERACIDADE. A COMPANHIA ENERGÉTICA DO CEARÁ - ENEL NÃO SE SUBMETEU AO PROCEDIMENTO REGULATÓRIO DA ANEEL. ART.129, §§ 2O, 3O, 6O, 7O E 9O, DA RESOLUÇÃO 414/2010 DA ANEEL. ILEGITIMIDADE DA COBRANÇA. DANO MORAL. NÃO CONFIGURADO. AUSÊNCIA DE NEGATIVAÇÃO DO NOME DO PROMOVENTE NO CADASTRO DE INADIMPLENTES. SEM CORTE NO FORNECIMENTO.
+Opostos embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação ao art. 6º, VIII, do CDC, alegando que: a) a decisão impugnada afrontou de forma patente o CDC que concede ao consumidor o direito à inversão do ônus da prova - diante da vulnerabilidade econômica, técnica e informacional do recorrente, é razoável transmitir a concessionária ENEL a obrigação de apresentação de prova de que não houve a interrupção da energia; b) a parte autora, em razão da falha da ré na prestação do serviço que lhe cabia executar, despendeu tempo precioso na busca da solução da controvérsia - o desvio produtivo, a frustração e a angústia daí decorrentes são evidentes, de modo que deve a parte demandada ser responsabilizada por todos os transtornos e perdas impostos ao consumidor por falha no seu dever de garantir correta execução do serviço contratado
+Contrarrazões ao recurso especial às fls. 295-380.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 310-317.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Contraminuta ao agravo às fls. 360-374.
+É o relatório. Decido.
+Preenchido os pressupostos de admissibilidade do agravo, passo ao exame do
+recurso especial.
+A insurgência não merece prosperar.
+Da análise do acórdão do Tribunal de origem, verifica-se que o recorrente foi sucumbente apenas em ralação à condenação em danos morais.
+Acerca do tema, o Tribunal de origem consignou que:
+(..) O cerne da lide em apreço cinge-se à análise de legalidade do procedimento de aferição de violação do medidor e da cobrança imposta ao consumidor, no valor de R$ 2.602,94, referente consumo de energia elétrica que deixou de ser faturado por conta da violação do medidor da unidade consumidora da parte ora recorrida e a ocorrência de danos morais. (..)
+Em relação ao arbitramento de dano moral, o que se observa da leitura dos autos, é que não houve cobrança vexatória, não houve corte no fornecimento de energia elétrica da unidade e não houve a inscrição do nome do consumidora em cadastro de devedores. Assim, a simples inscrição do reclamante nos sistemas internos da ENEL, sem nenhum tipo de imposição ou sanção pelo descumprimento, não caracteriza a existência de dano moral, por não configurar ato ilícito ou abuso de poder.
+Neste diapasão, ainda que se infira ser aplicado a teoria objetiva entabulada no direito do consumidor, nos termos dos artigos 22 do Código consumerista, o autor teria que demonstrar a ocorrência dos elementos autorizadores da responsabilidade civil, quais sejam: a conduta, o nexo de causalidade e o dano moral.
+Com efeito, apesar dos fatos narrados na inicial serem aptos a produzir aborrecimentos ou incomodo a parte autora, não deram margem a consequências mais gravosas a ponto de configurar abalo moral indenizável, inexistindo lesão a dignidade da pessoa humana ou violação à direito personalíssimo com repercussão negativa na vida do autor.
+O Superior Tribunal de Justiça tem entendimento consolidado que a simples cobrança indevida decorrente da falha na prestação do serviço, sem que ocorra qualquer tipo de restrição ao crédito do devedor, não gera o dano moral in re ipsa, senão veja-se (grifei): (..)
+Por todo o exposto, conheço do apelo para dar-lhe parcial provimento, reformando a sentença apenas em relação à condenação por danos morais, para afastá-la. (destaquei)
+De plano, da leitura do inteiro teor do aresto recorrido verifica-se ausência de manifestação da Corte de origem sobre a tese recursal com enfoque no dispositivo legais tido por violado.
+Inexistindo oposição de embargos declaratórios para tais fins, resta patente a ausência do indispensável requisito do prequestionamento, circunstância que atrai, o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e da Súmula 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Ademais verifica-se que o Tribunal de origem, soberano na análise do conjunto fático probatório dos autos e com base nas particularidades do caso concreto, decidiu afastar a condenação por danos morais, concluindo pela inexistência de lesão a dignidade da pessoa humana ou violação à direito personalíssimo com repercussão negativa na vida do autor.
+Assim, a modificação da decisão da Corte a quo demandaria o revolvimento do conjunto fático probatório dos autos, o que esbarra no óbice da Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publica-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
