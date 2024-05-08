@@ -1,0 +1,83 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001010-30.2022.8.08.0032
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ROBERTO DUTRA TORRES
+RECORRIDO: ELOISA GONCALVES DE SOUZA RANGEL
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5001010-30.2022.8.08.0032
+Recorrente: ROBERTO DUTRA TORRES
+
+Recorrido: ELOISA GONCALVES DE SOUZA RANGEL
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo a gratuidade da justiça à parte recorrente, visto que preenchidos os requisitos legais.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE LOCUPLETAMENTO ILÍCITO. EXTINTO O FEITO POR AUSÊNCIA DA REQUERENTE À AUDIÊNCIA DE CONCILIAÇÃO. (1). RECURSO DA PARTE REQUERENTE.
+ADUZ QUE NÃO COMPARECEU À AUDIÊNCIA TENDO EM VISTA A MANIFESTAÇÃO DE DESEJO DAS PARTES PELO JULGAMENTO ANTECIPADO DA LIDE NA AUDIÊNCIA REALIZADA EM 28/01/2022 (ID. 7323595). DEFENDE A AUTORA QUE A SUA AUSÊNCIA NÃO TROUXE QUALQUER ALTERAÇÃO DA REALIDADE FÁTICA PROCESSUAL.
+(2). DO MÉRITO.
+TRATA-SE DE RECURSO INOMINADO INTERPOSTO PELA PARTE AUTORA ANTE A SENTENÇA QUE EXTINGUIU O PROCESSO, SEM RESOLUÇÃO DE MÉRITO, DEVIDO AO NÃO COMPARECIMENTO INJUSTIFICADO DA AUTORA À AUDIÊNCIA DE CONCILIAÇÃO
+(ID. 6626324)
+. A TESE RECURSAL CINGE-SE NA DEMONSTRAÇÃO DE JUSTIFICATIVA PARA O NÃO COMPARECIMENTO. EM QUE PESE A TENTATIVA DA REQUERENTE DE JUSTIFICAR SUA AUSÊNCIA AO ATO DESIGNADO, NÃO VEJO COMO ACOLHÊ-LOS. EXPLICO. A
+PARTE RECORRENTE, APESAR DE DEVIDAMENTE INTIMADA, NÃO COMPARECEU À AUDIÊNCIA
+(ID.
+6626324
+)
+, TAMPOUCO APRESENTOU JUSTIFICATIVA PLAUSÍVEL DE SUA AUSÊNCIA ATÉ O ENCERRAMENTO DO ATO, O FAZENDO APENAS E TÃO SOMENTE QUANDO DA INTERPOSIÇÃO DE RECURSO INOMINADO.
+NOTA-SE QUE FORA UM ATO DE INTIMAÇÃO DISTINTO E AUTÔNOMO, SENDO QUE EM NENHUM MOMENTO FOI SUSPENSA, CANCELADA OU ADIADA A AUDIÊNCIA QUE FOI DESIGNADA PARA A DATA DE 06/02/2023. O INCISO I DO ARTIGO 51 DA LEI 9.099/95 PREVÊ A EXTINÇÃO DO FEITO QUANDO O AUTOR DEIXAR DE COMPARECER A QUALQUER DAS AUDIÊNCIAS DESIGNADAS.
+EM SEDE DE JUIZADO ESPECIAL O COMPARECIMENTO PESSOAL DA PARTE PESSOA FÍSICA É REGRA, CONFORME JÁ PACIFICADO NO ENUNCIADO 20 DO FONAJE EM REAFIRMAÇÃO DO EXPRESSO NO ART. 9º DA LEI 9.099/95.
+CORRETA A EXTINÇÃO DA DEMANDA SEM JULGAMENTO DO MÉRITO, RAZÃO PELA QUAL DEVE-SE MANTER INCÓLUME A SENTENÇA OBJURGADA.
+
+DEVER PROCESSUAL DESCUMPRIDO
+.
+EXTINÇÃO DO PROCESSO MANTIDA
+. (3).
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+(4).
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 20% (VINTE POR CENTO) SOBRE O VALOR ATUALIZADO DA CAUSA, SUSPENSA, CONTUDO, SUA EXIGIBILIDADE, ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator
+Dr.
+FELIPE LEITÃO GOMES
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
