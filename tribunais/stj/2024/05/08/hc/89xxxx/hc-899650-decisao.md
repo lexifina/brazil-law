@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ivanildo Moreira Camargo, que teve sua prisão em flagrante convertida em preventiva, em razão da suposta prática do crime de tráfico de drogas e associação para o tráfico no Inquérito Policial n. 5004035-25.2023.8.21.0074 (fls. 29/34).
+O Tribunal de Justiça do Rio Grande do Sul, ora apontado como órgão coator, cassou a liminar anteriormente deferida e denegou a ordem no HC n. 5327620-13.2023.8.21.7000/RS (fls. 23/28) determinando a expedição de mandado de prisão em desfavor do ora paciente, em acórdão assim ementado (fl. 23):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TRÁFICO (LEI 11.343/2006). DESCUMPRIMENTO DE MEDIDA CAUTELAR FIXADA EM LIMINAR. REQUISITOS DA PRISÃO PREVENTIVA PREENCHIDOS. ANÁLISE DO CASO CONCRETO. ORDEM DENEGADA.
+1. Na análise da prisão preventiva, deve o julgador atentar, invariavelmente, às circunstâncias do caso concreto, tais quais as condições pessoais do paciente e a gravidade concreta do delito.
+2. Os arts. 282, §4º, 312, §1º, do CPP preveem a hipótese de decretação da prisão preventiva em casos de descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares.
+3. Caso em que o paciente descumpriu medida cautelar fixada em sede liminar de comparecimento mensal em juízo na primeira oportunidade que teve após ser solto, demonstrando que as medidas cautelares diversas impostas quando do deferimento parcial da medida liminar não foram suficientes para suprir a sua finalidade, de modo que impositiva a decretação da prisão preventiva, nos termos dos arts. 282, §4º, 312, §1º, do CPP.
+4. As condições pessoais favoráveis à soltura, como primariedade, residência fixa e trabalho lícito não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada. Posição do STJ.
+5. A existência de indícios de reiteração da conduta ilícita podem demonstrar a periculosidade e consequente risco à ordem pública que autoriza a manutenção da prisão preventiva. Posição do STF e do STJ.
+A defesa sustenta a inexistência de fundamentação idônea no decreto prisional, que seria genérico e baseado apenas na gravidade abstrata do delito. Alega que não estariam presentes os requisitos previstos no art. 312 do Código de Processo Penal. Aduz que o paciente é primário, flagrado com apenas 25 g de cocaína.
+Nesses termos, pretende a concessão da liberdade provisória, com ou sem a aplicação de medidas cautelares alternativas.
+Estes autos foram a mim distribuídos por conexão (HC n. 887.902/RS).
+Liminar indeferida (fls. 151/153).
+Pelas informações prestadas pelo Magistrado de piso, infere-se que a denúncia contra o réu, oferecida pelo Ministério Público em 20/11/2023, foi recebida no dia 14/12/2023. Em 15/12/2023 o acusado foi novamente recolhido ao sistema prisional e, em 18/12/2023, foi realizada audiência de custódia. Citado, o denunciado apresentou resposta à acusação em 5/2/2024, formulando pedido de revogação da prisão preventiva. Este juízo, no dia 15/2/2024, indeferiu o pedido, ante a manutenção dos motivos que ensejaram a prisão cautelar (fls. 159/160).
+O Tribunal de Justiça do Rio Grande do Sul prestou informações às fls. 207/239.
+Encaminhados os autos ao Ministério Público Federal, este emitiu parecer pelo não conhecimento do writ, bem como pela não concessão da ordem de ofício, à vista dos fundamentos sintetizados na seguinte ementa (fl. 242):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. LIBERDADE PROVISÓRIA. DESCUMPRIMENTO DAS MEDIDAS IMPOSTAS EM JUÍZO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA, A PERSECUÇÃO PENAL E A APLICAÇÃO DA LEI PENAL. CIRCUNSTÂNCIAS FAVORÁVEIS. IRRELEVÂNCIA. PRESENÇA DOS REQUISITOS DA PRISÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Parecer pelo não conhecimento do habeas corpus e, ausente ilegalidade, pela não concessão da ordem de ofício.
+É o relatório.
+A irresignação não merece prosperar.
+O Magistrado singular converteu a prisão em flagrante em preventiva, considerando o seguinte (Inquérito Policial n. 5004035-25.2023.8.21.0074/RS - fls. 31/33):
+ ..
+Segundo consta do expediente, havia informações de que chegara drogas em uma das Boates de DG (Douglas Rodrigo da Silva - preso em Três Passos/RS). Diante disso, posicionaram-se de modo a observar a movimentação da boate que fica 4s margens da BR-472 (Boate Vermelho 472). Um dos policiais envolvidos na ação ficou fazendo a observação do local, enquanto os demais realizam as abordagens. Foi observada a negociação entre Fernando e o condutor do carro branco (VWNVoyage), o qual foi logo em seguida abordado e flagrado (Ivanildo) com a quantidade de aproximadamente 25 gramas de cocaína. Em seguida, foi observada outra negociação entre Fernando e o motociclista, o qual foi, logo em seguida, abordado e flagrado (Emerson) com aproximadamente 50 gramas de cocaína. Estes foram conduzidos até a DP de Três de Maio e, em seguida, os policiais retornaram a Boate Vermelho 472, onde o colega Vitor permanecia observando e monitorando, no local foi abordada a pessoa de Fernando (de nacionalidade argentina), o qual dispensou por uma janela, 02 buchas de cocaína, sendo que ambas juntas pesavam aproximadamente 14 gramas, que ainda quebrou seu celular e se apresentou como responsável da boate. Foram apreendidos no local, diversos objetos relacionados ao tráfico, como balanga (sic) de precisão, DVR, e câmeras de monitoramento, além de celulares. Fernando também já foi abordado em outras boates de DG, onde houve registros relacionados ao tráfico. Informa que DG (Douglas Rodrigo), bem como toda sua família, já foram presos e respondem a diversos procedimentos relacionados à traficância. Refere ainda que existem investigações policiais que ligam Douglas Rodrigo ao tráfico de drogas em Três de Maio, vinculadas a suas boates.
+Portanto, como se nota e já se extrai do auto de prisão em flagrante dos autuados, há prova da existência do fato e indícios suficientes de autoria.
+ ..
+No caso dos autos, a quantidade de drogas encontrada com objetos relacionados ao tráfico, como balanga (sic) de precisão, DVR, e câmeras de monitoramento, além de celulares é fundamento suficiente a autorizar a decretação de prisão preventiva dos flagrados.
+Some-se a isso a circunstância de os crimes terem sido cometidos em concurso de agentes e todos estes registrarem procedimentos criminais investigativos ou ações penais anteriores, de forma que nenhuma medida diversa da prisão se mostra eficaz a impedir a reiteração do delito e o prejuízo à sociedade, decorrente dos graves delitos que lhes são imputados.
+ ..
+Inviável a substituição da medida por outras menos gravosas, que se mostrariam insuficientes para o resguardo dos pressupostos do art. 312 do CPP, conforme fundamentação acima.
+Ademais, as penas dos delitos em voga superam, em muito, o limite previsto no art. 313, inciso I, do CPP, sendo punível com reclusão. Logo, a prisão preventiva é cabível ao caso.
+No caso, as medidas substitutivas previstas nos arts. 317 e 319 não se prestam para elidir o cabimento e necessidade da prisão preventiva.
+ ..
+Quanto às medidas cautelares diversas da prisão previstas no art. 319, nenhuma delas possui o condão de assegurar os bens jurídicos tutelados pelos tipos penais em comento, nem de impedir que os investigados continuem a praticar os crimes em voga.
+Por tais razões, deixo de aplicar as medidas cautelares diversas da prisão.
+ ..
+O Tribunal a quo, por sua vez, ao julgar o mérito do writ originário, decidiu cassar a liminar anteriormente deferida e denegar a ordem, sob estes fundamentos (HC n. 5327620-13.2023.8.21.7000/RS - fls. 26/28 - grifo nosso):
+ ..
+Denego a ordem, revogando a liminar em relação ao paciente.
+ ..
+No presente caso, vejo que o paciente descumpriu medida cautelar fixada em sede liminar de comparecimento em juízo, que foi especificada pela magistrada de primeiro grau, que determinou que tal comparecimento deveria ser mensal (evento 62,DESPADEC1), diante do seu não comparecimento em cartório no mês de novembro, conforme certidão juntada aos autos originários em 1.12.2023 (evento 97, CERT1).
+Friso que, na primeira oportunidade que o paciente teve após ser solto, ele descumpriu ordem judicial que garantia a manutenção da revogação da sua prisão preventiva, demonstrando não só desrespeito ao Poder Judiciário, mas também perigo concreto à garantia da ordem pública, da conveniência da instrução criminal e da aplicação da lei penal.
+ ..
+Ademais, quanto ao argumento dos impetrantes de que o paciente poderá ter direito a regime aberto ou a pena substitutiva à de prisão, se condenado, identifico impropriedade nessa tentativa de afastar a prisão preventiva por meio de discussão sobre pena e regime prisional que poderão (ou não) ser impostos ao paciente e sequer existem neste momento processual.
+Ressalto que não é possível discutir pela via limitada do habeas corpus sobre eventuais penas e regimes prisionais por isso demandar ampla dilação probatória, com observância aos princípios do contraditório e da ampla defesa.
+ ..
+Portanto, a discussão sobre pena e regime prisional, que os impetrantes tentam trazer, está fora do âmbito de abrangência do habeas corpus.
+Diante de tudo isso, altero o posicionamento adotado em liminar e julgo inviáveis as medidas cautelares diversas da prisão do art. 319 do CPP, precipuamente, tendo em vista que as medidas cautelares diversas impostas quando do indeferimento parcial da medida liminar não foram suficientes, pelo que impositiva a decretação da prisão preventiva, nos termos dos arts. 282, §4º, 312, §1º, do CPP.
+ ..
+Pois bem. Como se vê, da atenta leitura do acórdão hostilizado, conquanto tenha sido oportunizado ao ora paciente, quando do deferimento da medida liminar, a substituição da prisão preventiva por outras medidas cautelares alternativas, houve, pois, por parte do mesmo, o "descumprimento destas", razão pela qual, de forma devidamente justificada e idônea, a instância ordinária acabou por cassar a liminar e denegar a ordem, restabelecendo a medida constritiva extrema.
+Com efeito, cediço é que o descumprimento das medidas cautelares autoriza a decretação da prisão preventiva, não só com fundamento no art. 312 do Código de Processo Penal, como garantia da ordem pública, mas também com base no art. 282, § 4º, do mesmo diploma legal.
+Tal o contexto, não há falar em ilegalidade na prisão cautelar; ao contrário, há motivação válida e concreta para ampará-la. Nesse norte, os seguintes precedentes: AgRg no HC n. 888.045/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/5/2024; e AgRg no HC n. 837.521/PE, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 18/3/2024.
+Em igual direção, o parecer da Subprocuradora-Geral da República, Mônica Nicida Garcia, que pontou que não há ilegalidade na decretação da prisão preventiva, quando o agente, beneficiado com a liberdade provisória, descumpre as medidas impostas em juízo (fl. 245 - grifo nosso) .
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS, QUANDO DO DEFERIMENTO DE LIMINAR, PELO TRIBUNAL DE ORIGEM. DESCUMPRIMENTO. CASSAÇÃO POR OCASIÃO DO JULGAMENTO DE MÉRITO (HC N. 5327620-13.2023.8.21.7000/RS). LEGALIDADE E PROPORCIONALIDADE. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
