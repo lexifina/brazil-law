@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANDRE RICARDO FOGACA DE ALMEIDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+LEGITIMIDADE "AD CAUSAM" - LEGITIMIDADE ATIVA - AÇÃO AJUIZADA PARA RESTABELECIMENTO DO FORNECIMENTO DE ENERGIA ELÉTRICA E CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANO MORAL - PRETENSÃO FUNDADA EM OBRIGAÇÃO PESSOAL - LEGITIMIDADE RESTRITA AOS CONTRATANTES - EXCLUSÃO DO CO- AUTOR QUE APENAS RESIDE NO MESMO LOCAL MANTIDA. ANTECIPAÇÃO DA TUTELA - PRETENSÃO AO RESTABELECIMENTO DO FORNECIMENTO DE ENERGIA ELÉTRICA - INADMISSIBILIDADE - NÃO DEMONSTRAÇÃO DE QUITAÇÃO PLENA DAS FATURAS, INCLUSIVE DO MÊS IMEDIATAMENTE ANTERIOR AO CORTE - FATURAS PAGAS COM ATRASO E SEM ACRÉSCIMOS - AUSÊNCIA DA PROBABILIDADE DO DIREITO - INTELIGÊNCIA DO ART. 300 DO CÓD. DE PROC. CIVIL - DECISÃO MANTIDA - AGRAVO DE INSTRUMENTO IMPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 2º, parágrafo único, e 17, ambos do Código de Defesa do Consumidor. Sustenta que o co-autor André Ricardo Fogaça de Almeida tem legitimidade ativa ad causam na condição de consumidor por equiparação, trazendo a seguinte argumentação:
+Nobres Ministros, veja-se na decisão recorrida que se trata de relação de consumo, pois os recorrentes residem no mesmo imóvel onde a recorrida fornece energia.
+Pois, bem. Muito embora o cadastro da unidade consumidora esteja em nome da parte recorrente Gislaine, é incontroverso que, o recorrente sr. André participa direta e indiretamente na relação de consumo, isto porque, além de pagar as contas de energia, o recorrente André se benéfica do serviço prestado pela recorrida.
+Neste sentido, a inteligência do Parágrafo Único do art. 2 do CDC, prevê que:
+Art. 2º Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final.
+Parágrafo único. Equipara-se a consumidor a coletividade de pessoas, ainda que indetermináveis, que haja intervindo nas relações de consumo.
+Ou seja, o recorrente é considerado consumidor por equiparação.
+Além disso, busca-se a justa reparação por danos em razão do corte indevido da conta de energia.
+É cediço que o corte indevido caracteriza falha na prestação de serviço, logo se aplica a inteligência do art. 14 do CDC, que assim prevê:
+ ..
+Nobres ministros, em se de tratando de falha na prestação de serviço, é preciso reconhecer que, todo aquele que for vítima de tal evento é considerado consumidor, logo, é lhe garantido o direito a reparação, já que se trata do consumidor por equiparação, como bem prevê o art. 17 do Código de Defesa do Consumidor, veja-se:
+Art. 17. Para os efeitos desta Seção, equiparam-se aos consumidores todas as vítimas do evento. - grifo nosso.
+Portanto, se a decisão recorrida reconheceu que o recorrente André é morador da residência, e por consequência sofre os efeitos da prestação de serviço da ré, ora recorrida, tem-se que, é incontroverso a sua legitimidade ativa para pleitear a justa reparação.
+Ademais, conforme já citado nas demais petições, é preciso levar em conta a segurança jurídica das decisões judiciais, visto que no processo nº 10405311-03.2021.8.26.0576, que tramita perante a 7ª Vara Cível desta comarca, restou reconhecido a legitimidade ativa do recorrente, inclusive, no que diz respeito ao direito a reparação pelos danos.
+Portanto, não se pode neste caderno processual dizer que o autor, ora recorrente não tem legitimidade para reivindicar os direitos envolvendo a sua residência.
+Desta forma, requer-se a reforma da decisão recorrida, reconhecendo-se que o recorrente André tem legitimidade para pleitear a justa reparação pelos danos causados pela recorrida, logo, aquele deve compor o polo ativo da demanda para reivindicar os seus direitos (fls. 85-87).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
