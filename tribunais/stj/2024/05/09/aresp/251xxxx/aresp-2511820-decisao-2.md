@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por RCS ADMINISTRAÇÃO DE IMÓVEIS LTDA - TERCEIRA PREJUDICADA contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 550):
+Recuperação judicial (Grupo Saraiva). Agravo de instrumento de credor interposto contra decisão que autorizou a publicação de edital de alienação de imóvel.
+Recurso anteriormente julgado (AI 2107514-80.2020.8.26.00000), em que se assentou que a alienação do imóvel deveria ser publicizada, de modo a obter-se o melhor preço possível, adotando-se como parâmetros os arts. 142 da Lei 11.101/05 e art. 884 e seguintes do CPC. Novo edital que não atentou para estas diretivas e, mais, resguardou indevidamente direito de preferência de terceira.
+Reforma da decisão agravada, determinando-se a elaboração de novo edital, observado estritamente o decidido no agravo anterior. Agravo de instrumento provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 1001, 1016, I e IV, e 1.022. todos do Código de Processo Civil; artigo 66, 66-A e 69-A, ambos da Lei 11.101/2005; e artigo 1.245, do Código Civil.
+Sustenta que "deveria, a Recorrida, visando imputar uma nulidade na aquisição consumada pela Recorrente, tê-la incluído no polo passivo da demanda, fato comprovadamente não feito, sendo, por isso, tal negativa uma afronta ao artigo 1.016. I e IV, do Código de Processo Civil, que culmina todo o feito de absoluta e insanavelmente nulo de pleno direito".
+Aduz que "embora seja de conhecimento geral e notório da Agravante, ora Recorrida, que a propriedade do imóvel já se consolidou, com a efetivação do registro nas matrículas dos imóveis, da aquisição havida pela Recorrente, esta deixou, propositalmente, de incluir a Recorrente como litisconsorte necessário no agravo de origem, o que, por obvio, impossibilito-a de exercer, regularmente, seu direito de defesa, tornando, assim, sua não inclusão no feito uma nulidade absoluta e insanável".
+Alega que "a não inclusão da Recorrente é uma nulidade absoluta insanável, não se aplicado, como intentado pelo v. acórdão, suprir o insanável como se "culpa" da Recorrente o fosse posto que, repise-se, COMPETIA À RECORRIDA, então Agravante, incluir a Recorrente no polo passivo do Agravo de Origem, só assim, em caso de procedência de seu recurso, ter contra a Recorrente imputados os efeitos desta decisão".
+Argumenta que o agravo de instrumento apreciado no acórdão recorrido foi interposto contra "mero despacho ordinatório", ato ordinário de andamento do feito sem cunho decisório, de modo que sequer deveria ter sido conhecido.
+Defende que a alienação impugnada ocorreu dentro dos exatos termos do art. 66 da Lei 11.101/2005.
+Assevera que "as reiteradas e injustificadas impugnações apresentadas pela Recorrida - Cedet visam tão somente tumultuar o feito, ignorando, por completo, o fato de que, se a Recorrente não tivesse pago, integralmente, os R$ 25.500.000,00 (vinte e cinco milhões e quinhentos mil reais), quando da efetivação do negócio, provavelmente, hoje, o feito de origem não mais seria uma Recuperação Judicial, mas sim um processo falimentar".
+Afirma que a recorrida "além de não ter legitimidade para impugnar a venda, legalmente havida e consumada, não cumpriu com o preceituado no artigo 143, da LR F, já que, conforme se infere, alega simples em unicamente ser o valor pago pela Recorrente "preço vil", ou, ainda, supostas nulidades no edital, mas não apresenta, como a lei determina, uma proposta real, firme e válida dela própria ou de terceiros, capaz de afastar a compra havida".
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à tese de nulidade por ausência de inclusão da recorrente no polo passivo do agravo de instrumento, o Tribunal de origem asseverou (fls. 902/905):
+(..)
+A questão da nulidade não era, pois, de ser julgada. Dispensou-o a ora novamente embargante, na petição em que assumiu a posição de embargante, ao lado das recuperadas, nos primeiros declaratórios.
+De todo o modo, ainda que, para argumentar, assim não fosse, de se convir que, participando ativamente do processo de recuperação judicial, lá estando representada por advogados, a ora novamente embargante de tudo estava ciente. Poderia ter intervindo antes, querendo, não deixando para fazê-lo apenas na ocasião dos primeiros declaratórios.
+A conferir, ingressou ela espontaneamente na recuperação judicial em 16/4/2021 (fls. 49.934/49.936), juntando procuração (fl. 49.948) para constituir sua procuradora a advogada Dra. Sandra Regina Comi (OAB/SP 114.522).
+A interposição do agravo de instrumento foi noticiada, na origem, em 10/5/2021 (fl. 50.411).
+Há decisão nos autos, proferida em 16/6/2021, dando ciência a todas as partes e interessados na recuperação judicial da interposição do agravo de instrumento (fls. 50.743/50.746). Esta decisão foi publicada em 30/6/2021 (fls. 50.803/50.815).
+Ainda que ciente da existência do recurso ao menos desde 30/6/2021, foi apenas um ano depois, em 11/6/2022, após, portanto, seu julgamento (sucedido em 30/3/2022), que a embargante veio aos autos, intervindo nos primeiros declaratórios (pela denominada exceção de fls. 586/605 do agravo de instrumento), reclamando de nulidade, todavia a relevando, como visto. Fê-lo, registra-se, representada por novos advogados, constituídos em 10/6/2022 (fls. 608/610).
+Sua atitude, de articular alegando boa-fé a dita teoria do fato consumado após deixar passar um ano da ciência do recurso remete ao que se convencionou chamar de nulidade de algibeira.
+A conferir, no STJ:
+(..)
+Aquele que ficou a assistir o que se passava no agravo, sem intervir, vindo a fazê-lo ano depois, na undécima hora, não pode beneficiar-se do tempo que propositalmente deixou passar embranco. Não pode haurir vantagem de sua omissão, enquanto usa e se aproveita do imóvel. Sintomático, aliás, que invoque a construção jurisprudencial do fato consumado..
+O que se tem, enfim, nestes novos declaratórios, é mero propósito infringente, o que se não admite:
+(..)
+De qualquer maneira, frise-se, no julgamento do agravo de instrumento, ao Tribunal bastou a constatação de desrespeito a aresto anterior, que mandara refazer a venda, a ela se procedendo novamente com ampla publicidade. É o que se colhe já da ementa então lavrada:
+(..)
+(sem destaques no original)
+Desse modo, no ponto, o acórdão recorrido está em conformidade com o entendimento desta Corte Superior de que "a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável e quando óbvio o conhecimento do referido vício muito anteriormente à arguição, configura a chamada nulidade de algibeira, manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça" (AgInt nos EDcl no AgInt no AREsp n. 2.220.571/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/6/2023, DJe de 7/6/2023).
+Ademais, o Tribunal local, analisando as circunstâncias fáticas e probatórias do presente caso, concluiu que a parte ora recorrente tinha ciência da interposição do agravo de instrumento, ao menos cerca de um ano, antes do seu julgamento, de modo que modificar a conclusão do acórdão recorrido, que afastou a boa-fé da parte na hipótese, demandaria, necessariamente, alterar as premissas fáticas estabelecidas no julgado, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+No mais, ficam prejudicadas as demais alegações ante o provimento do recurso especial de Saraiva e Siciliano S.A. - Em Recuperação Judicial e Saraiva Livreiros S.A. - Em Recuperaç ão Judicial.
+Prejudicado o pedido de efeito suspensivo de fls. 1081/1093.
+Em face do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Intimem-se.
+EMENTA
