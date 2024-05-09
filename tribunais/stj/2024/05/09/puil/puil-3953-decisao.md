@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de incidente de uniformização jurisprudencial formulado pelo ESTADO DE RONDÔNIA, com fundamento no art. 18, § 3º, da Lei 12.153/2009, objetivando o reexame do acórdão proferido pela Turma Recursal do Tribunal de Justiça do Estado de Rondônia nos seguintes termos (fl. 172):
+AGRAVO DE INSTRUMENTO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. CUMPRIMENTO DE SENTENÇA. NÃO CABIMENTO. AUSENTE AS HIPÓTESES DO ART. 3º DA LEI N. 12.159/2009. RECURSO NÃO CONHECIDO.
+Nas suas razões, a parte requerente sustenta que o Juízo de origem violou o art. 77, §§ 1º e 2º, do Código de Processo Civil, ao deixar de adverti-la sobre a possibilidade de seu ato ser caracterizado como atentatório à dignidade da justiça.
+Argumenta que a multa aplicada foi exorbitante e aponta divergência jurisprudencial, alegando que o Juízo de origem violou a Súmula 421 do STJ.
+Por fim, sustenta que "o sequestro nas contas públicas é a medida mais adequada para concretizar o direito à saúde quando descumprida a decisão judicial, evitando-se, outrossim, multas e outras medidas coercitivas que só atrapalham o funcionamento do SUS, sem trazer qualquer efetividade concreta" (fl. 198).
+O Ministério Público Federal, em parecer, opinou pelo não conhecimento do pedido de uniformização (fls. 210/214).
+É o relatório.
+O Superior Tribunal de Justiça tem a compreensão de que, " n os termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade a súmula do Superior Tribunal de Justiça" (AgInt no PUIL 2.288/ES, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 15/2/2022, DJe de 21/2/2022). No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. QUESTÃO PROCESSUAL. INCABIMENTO. NÃO CONHECIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Nos termos do art. 18, caput, e § 3º, da Lei n. 12.153/2009 caberá pedido de uniformização de interpretação de lei quando: (i) houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material; (ii) quando as Turmas de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula deste Superior Tribunal.
+III - Incabível o Pedido de Uniformização de Interpretação de Lei para discussão em tono de matéria processual, bem como sobre questão não enfrentada na instância de origem.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no PUIL n. 3.422/SC, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 30/5/2023, DJe de 6/6/2023 - sem destaque no original.)
+No presente caso, os alegados erros procedimentais, a exorbitância da multa e a argumentação relativa à adequação do sequestro nas contas públicas, além de não se basearem em divergência jurisprudencial, versam sobre matéria processual. Logo, não é possível conhecer do pedido de uniformização.
+Os mesmos fundamentos impedem o conhecimento da alegação relativa à ofensa à Súmula 421 do STJ.
+Além disso, a Corte Especial do STJ, na sessão ordinária de 17 de abril de 2024, apreciando a Questão de Ordem no REsp 1.108.013/RJ, cancelou a Súmula 421, em virtude da sua incompatibilidade com a tese fixada pelo Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 1.140.005-RG/RJ (Tema 1.002), no sentido ser "devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra".
+Pelo exposto, não conheço do pedido de uniformização de interpretação de lei.
+Publique-se.  Intimem-se.
+EMENTA
