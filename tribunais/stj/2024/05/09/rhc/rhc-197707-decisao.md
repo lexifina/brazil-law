@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado (e-STJ Fl.523):
+Habeas Corpus com pedido liminar  Pleiteia o impetrante a concessão da ordem para decretar a ilicitude das fotos da tela do celular de fls. 03/103 do IPM de portaria n. 4BPRv  002/06/24 e de todas que delas decorrer, bem como documentos que a citarem, por serem ilícitas por derivação, bem como cessar a medida invasiva decretada em desfavor da paciente  Requer também a concessão o writ of mandamus para cessar a decisão que deferiu a medida cautelar de obtenção de prova, diante da ausência de fundamentação  Não conhecimento do remédio heroico  Inexiste qualquer ameaça à liberdade individual da paciente, eis que ela jamais figurará no polo passivo de ação penal militar que tramitar na Justiça Castrense Estadual  Manifesta ilegitimidade da paciente para questionar a ilicitude da prova produzida durante a persecução penal militar de competência desta Corte  Habeas Corpus não conhecido.
+A defesa alega, em síntese, nulidade no meio de prova utilizado e na decisão que o deferiu.
+Ao final, requer o provimento do recurso para obter a decretação da incompetência da Justiça Militar do Estado de São Paulo e a decretação da ilicitude das "provas" (ID. 602068 -Pg. 8 ate ID. 602069 -Pg. 8).
+É o relatório.
+Decido.
+De saída, verifica-se que as questões ora apresentadas a esta Corte não foram debatidas na instância de origem, que não conheceu do "Habeas Corpus" lá impetrado, a evidenciar que seu conhecimento representa indevida supressão de instância.
+Nos termos do novel Art. 647-A do CPP, a legislação processual passou a prever que "No âmbito de sua competência jurisdicional, qualquer autoridade judicial poderá expedir de ofício ordem de habeas corpus, individual ou coletivo, quando, no curso de qualquer processo judicial, verificar que, por violação ao ordenamento jurídico, alguém sofre ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção."
+Cuida-se de consagração da já remansosa jurisprudência desta corte, que vinha ressaltando que "em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício." (AgRg no HC 887255 / PB, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 18/03/2024, DATA DA PUBLICAÇÃO/FONTE DJe 20/03/2024)
+Em análise oficiosa, constato que, diversamente do alegado, a paciente não consta como investigada nos autos de origem, a indicar que tal argumento não pode sustentar a declaração de incompetência da justiça castrense.
+Ademais, quanto à medida questionada, colhe-se do acórdão recorrido as seguintes considerações (e-STJ Fl.551):
+Os Mandados de Busca e Apreensão expedidos pelo MM. Juiz da 5ª Auditoria Militar visavam a apreensão de aparelhos celulares e outros objetos que pudessem ter ligação com os fatos apurados. Dentre eles, havia menção nos Mandados à necessária apreensão do aparelho celular que utilizava a linha (11) 97149-1568, bem como qualquer outro celular que estivesse na posse da civil Ana Cristina, provável gerente do pátio de apreensões.
+Apesar de a Justiça Militar não exercer jurisdição direta sobre civis, inquestionável que, existindo fundadas razões a evidenciar a necessidade de apreensão de instrumentos e produtos de crime, qualquer cidadão poderá ser alvo de investigação, desde que a medida seja regularmente autorizada por ordem judicial.
+Na hipótese dos autos, verifica-se, em análise perfunctória, que haviam sido constatadas diversas ligações entre os policiais militares investigados e a linha telefônica da paciente, o que ensejava a necessidade de melhor apuração.
+Por conseguinte, depreende-se que a busca e apreensão determinada pelo MM.
+Juiz da 5ª Auditoria Militar era essencial à apuração dos fatos, tendo sido adequadamente fundamentada.
+Efetivamente, embora o poder investigatório da Justiça Militar se restrinja aos delitos de sua competência, eventuais diligências probatórias por ela decretadas podem, eventualmente, recair sobre terceiros que, embora não investigados, podem contribuir para a elucidação do fato sob escrutínio.
+Não há, portanto, ilegalidade manifesta no "decisum" recorrido, sendo certo que alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória no "writ".
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
