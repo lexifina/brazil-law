@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANTONIO ZANA SOBRINHO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. PRESTAÇÃO DE SERVIÇO BANCÁRIO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DO DÉBITO C.C. REPARAÇÃO POR DANOS EXTRAPATRIMONIAIS. AUSÊNCIA DE CIRCUNSTÂNCIA QUE CONFIGURE VIOLAÇÃO ANORMAL DE DIREITO DE PERSONALIDADE. DANO MORAL NÃO CARACTERIZADO. REDISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. SENTENÇA DE PARCIAL PROCEDÊNCIA REFORMADA EM PARTE. RECURSO DO RÉU PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, a parte recorrente alega interpretação divergente do art. 186 do CC, no que concerne à desnecessidade de comprovação do dano moral nos casos de indevida inscrição nos cadastros de inadimplentes, haja vista o reconhecimento do dano in re ipsa.
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática e entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
