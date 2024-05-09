@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Eliane Felicia Ferreira da Silva Lopes Lima contra apontado ato omissivo do Ministro de Estado do Ministério do Trabalho e Emprego, no qual objetiva obter a declaração com vínculos empregatícios da RAIS, com a finalidade de retificar seu CNIS junto ao INSS.
+Como causa de pedir, a impetrante alega que formulou o requerimento administrativo, sob protocolo 308820.2701538/2023, em 27/06/2023. Contudo, passados 240 dias, ainda não foi apresentada resposta ao pleito, o que implica em atraso direto da concessão de sua aposentadoria.
+Assevera, ainda, que "A Lei 9784/99 indica prazo de 30 dias para decisão de requerimento administrativo, conforme art. 49. O requerimento tramita há 8 meses! Assim, inegável que o Ministério impetrado descumpre o prazo no presente caso concreto. Nesse sentido, precisa a impetrante que o MINISTERIO DO TRABALHO E EMPREGO - MTE conclua o requerimento administrativo indicado, para então requerer a retificação de seu CNIS e, conseguintemente, sua aposentadoria. Por se tratar de requerimento imprescindível à concessão de benefício previdenciário e, considerando-se que a impetrante está em situação de vulnerabilidade econômica, requer-se a antecipação da tutela".
+Às fls . 68-93, a autoridade coatora encaminhou as informações que foram prestadas por meio do Despacho SE-SEET-CGEET-CCAD(1911516) e seus anexos, elaborados pela Coordenação-Geral de Estudos e Estatísticas do Trabalho.
+Em parecer, o Ministério Público Federal manifestou-se pela concessão da ordem.
+Consultada, a impetrante manifestou sua ausência de interesse no prosseguimento do feito (fl. 114).
+É o relatório. Decido.
+Com efeito, verifica-se que houve a perda superveniente do objeto, pois a parte já possui o que pretendia inicialmente com o presente Mandado de Segurança. O objeto do mandado de segurança já se concretizou. A pretensão da impetrante restou, portanto, já exaurida.
+Nos termos do art. 485, VI, do CPC/2015, não há resolução de mérito quando for verificada ausência de interesse processual.
+De fato, esta Corte entende que "a ocorrência, no plano dos fatos, de eventos posteriores à impetração, prejudiciais ou inviabilizadores da concessão da ordem, nos termos em que requerida, acarreta a perda superveniente do objeto, impondo-se, em consequência, a extinção do feito sem resolução do mérito" (AgInt no RMS 45.017/MG, Rel. Min. Sérgio kukina, Primeira Turma, DJe de 11/10/2019).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CHAMADA PÚBLICA. SELEÇÃO E PREMIAÇÃO DE PROJETOS ARTÍSTICOS. INABILITAÇAO. CONCLUSÃO DO CERTAME EM 2020. PERDA DE OBJETO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Entende esta Corte que ocorrências prejudiciais ou inviabilizadoras da concessão da ordem, nos termos em que requerida, acarreta a perda superveniente do objeto, impondo-se, em consequência, a extinção do feito sem resolução de mérito, tornando-se inviável, na via mandamental, o reconhecimento de ilegalidades a título meramente declaratório e genérico.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no RMS n. 71.516/BA, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 20/9/2023.)
+MANDADO DE SEGURANÇA. REGISTRO SINDICAL. SUSPENSÃO DA ANÁLISE DO PEDIDO PELO ATO COATOR. REVOGAÇÃO DO ATO COATOR. PRETENSÃO ACOLHIDA ADMINISTRATIVAMENTE (CONCESSÃO DO REGISTRO). PERDA SUPERVENIENTE DO OBJETO DA IMPETRAÇÃO. PRETENSÃO DE INOVAÇÃO DO PEDIDO. SEGURANÇA DENEGADA.
+1. Hipótese em que o mandado de segurança tem a finalidade de assegurar a continuidade da análise do pedido de registro do impetrante junto ao Ministério do Trabalho e Emprego, com a consequente expedição da carta sindical, declarando-se nulo o Memorando n. 085/2012/GM/TEM, que determinara a suspensão da análise e decisão de todos os processos e pedidos de registro e alteração estatutária para representação de servidores públicos.
+2. Os supervenientes atos administrativos - revogação do ato coator que suspendeu a análise e decisão dos processos de pedido de registro sindical, a análise do pedido e a decisão que concedeu o registro sindical ao impetrante - esvaziam o objeto da demanda, fazendo cessar o interesse de agir de forma intercorrente.
+3. O impetrante já obteve o que pretendia em virtude da atuação administrativa da autoridade requerida, ensejando a perda superveniente do objeto da impetração. A pretensão manifestada em face do pedido de extinção - de determinação de prazo para o cumprimento e término da análise do procedimento administrativo de registro - refoge aos limites traçados na petição inicial, em ampla e vedada inovação do cenário do processo.
+4. Segurança denegada, sem resolução de mérito.
+(MS n. 19.589/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Seção, julgado em 9/12/2015, DJe de 15/12/2015.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. REGISTRO NO SIAFI, SUBSISTEMA CAUC - CADASTRO ÚNICO DE CONVÊNIOS. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO. EXCLUSÃO JÁ EFETUADA ADMINISTRATIVAMENTE. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO.
+1. O mandado de segurança ajuizado para impugnar registro no SIAFI/CAUC foi proposto contra o Ministro de Estado das Comunicações não sendo este a autoridade coatora, pois não praticou pessoalmente o ato impugnado, mas sim autoridade inferior pertencente ao organograma do Ministério das Comunicações. Precedentes: MS 12322/DF, Rel. Ministro Humberto Martins, julgado em 28.2.2007; MS 11405/DF, Rel. Ministra Eliana Calmon, julgado em 27.9.2006; AgRg no MS 12.495/DF, Rel. Ministra Eliana Calmon, julgado em 9.5.2007;EDcl no MS 12.320/DF, Rel. Ministra Eliana Calmon, julgado em 27.6.2007.
+2. Excluído o registro como inadimplente no SIAFI/CAUC, há perda superveniente do interesse de agir no presente mandado de segurança.
+3. Mandado de Segurança extinto, sem resolução do mérito, na forma do art. 267, VI, do CPC.
+(MS n. 16.285/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 25/5/2011, DJe de 31/5/2011.)
+No caso, se depreende que, havendo a perda superveniente do interesse de agir (art. 493, do CPC/2015), o que inclusive atrai a incidência do art. 485, VI, do mesmo diploma legal, é de se concluir pela extinção do presente processo, sem apreciação do mérito.
+Ante o exposto, julgo extinto o feito, sem resolução de mérito, em face da ausência superveniente do interesse de agir.
+Publique-se. Intimem-se.
+EMENTA
