@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA ELIRIANY MARTINS GOMES BISSOLI à decisão de fls. 176/177, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre, porém, Ínclita Senhora Presidente, que ao interpor seu recurso, a Embargante fez em total observância ao requisito quanto a tempestividade, acostando a própria peça recursal o Calendário Oficial do Tribunal de Origem, portanto documento idôneo para comprovar o feriado local, e que o recurso foi interposto no prazo legal, sendo, portanto, tempestivo.
+Nesse ponto vejamos que, ao suscitar, em preliminar os requisitos para admissibilidade recursal, a Embargante o fez nesse sentido:
+ ..
+Outrossim, o referido anexo, consta da própria peça recursal, as folhas TJ/AM n. 99do Tribunal de Origem, conforme se constata através do registro e assinatura do peticionamento (fl. 184).
+ ..
+Portanto, data máxima vênia, o erro em sistema eletrônico de Tribunal consiste no envio incompleto da peça, ocasionando equívoco quanto a aferição da tempestividade recursal perante essa eg. Corte de Justiça, se mostra apto a configurar justa causa, prevista no artigo 223, parágrafo 1º, do CPC, de modo a afastar a intempestividade do recurso.
+Nesse mesmo sentido em recente julgado entendeu esse eg. STJ. Senão vejamos: (fl. 186).
+ ..
+No presente caso e como dito alhures, o que ocorreu foi que ao fazer a remessa das peças do recurso para esse eg. STJ, o qual tramita pela via eletrônica, o Tribunal de Origem não encaminhou a página n. 14do recurso e que corresponde as fls. TJ/AM n. 99, na qual constava o anexo I, ou seja, a cópia do Calendário Oficial do TJ/AM ano 2023, que comprovaria o feriado local, e, portanto, documento idôneo para comprovar a tempestividade recursal e cujo peticionamento foi realizado perante aquele Tribunal de Origem.
+Dessarte, o envio incompleto da peça recursal, sem o anexo, foi o que ensejou o não recebimento do recurso por essa Nobre Ministra, posto que em razão da falha de envio, e, portanto, sem a cópia do Calendário Oficial não havia como de fato aferir se no cômputo dos 15 (quinze) dias, houve ou não feriado local. Ademais, o eg. Tribunal de Origem olvidou-se de certificar a tempestividade da peça recursal, o que também comprometeu a aferição da tempestividade com a chegada do recurso perante essa Corte de Justiça.
+Assim, a cópia do Calendário Oficial, acostada a própria peça recursal se mostra meio idôneo para comprovar a tempestividade, a qual vem destacada em tópico específico do recurso. Tal fato aliado a boa-fé e a técnica processual devidamente observada pela Embargante se mostram suficiente para afastar a decretação de intempestividade recursal.
+Ressalte-se que, atualmente, a jurisprudência tanto desse eg. STJ, quanto do Tribunal Constitucional, entendem que a cópia de calendário obtido na página eletrônica do tribunal de origem pode ser considerada documento idôneo para fins de comprovação de interrupção ou suspensão de prazo processual. Nesse sentido colaciona-se (fl. 187).
+ ..
+Com efeito, uma vez comprovada a falha na remessa da peça recursal pelo Tribunal de Origem, bem como a comprovação, por meio de documento idôneo na própria peça recursal que o peticionamento ocorreu dentro do prazo legal, pugna a Embargante desde plano, pelo acolhimento desses aclaratórios, com efeitos modificativos, para reconhecer a tempestividade do recurso com o seu processamento perante essa eg. Corte de Justiça (fl. 188).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, os prints colacionados nas razões recursais (fls. 143 e 168) não são suficiente para afastar a intempestividade do recurso.
+A propósito: AgInt nos EDcl no AREsp n. 2.101.676/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022; AgInt no REsp n. 1.987.950/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/11/2022, DJe de 1/12/2022; AgRg no AREsp n. 2.149.824/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/11/2022, DJe de 28/11/2022.
+Ademais, é responsabilidade da parte observar o correto procedimento para apresentação de recursos e petições perante os tribunais. Deveria a parte ter juntado o calendário oficial retirado da página da internet do Tribunal de Justiça Estadual, o que não ocorreu.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
