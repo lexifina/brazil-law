@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 295):
+HABEAS CORPUS - decisão que manteve a prisão preventiva do paciente - alegação de falta de fundamentação concreta da decisão que decretou a prisão preventiva - inocorrência - fundamentação adequada pelo magistrado a quo aponta falta de justa causa para a inicial acusatória, desnecessidade da custódia cautelar e ausência de contemporaneidade questões já analisadas em outro writ - análise inviável - instrumento processual que por não realizar cognição exauriente, mas sim secundum eventum probationis, não gera coisa julgada material, permitindo a reiteração de pedido, ainda que pelo mesmo fundamento necessidade, entretanto, de novos elementos probatórios para o conhecimento mera reiteração Precedentes das Cortes Superiores - afirma que há ausência de provas inadmissibilidade via inadequada habeas corpus não se destina à apreciação de mérito impossibilidade de dilação probatória - assevera que há excesso de prazo na prisão do paciente criação jurisprudencial, avaliada à luz do princípio da razoabilidade circunstâ ncias mais gravosas aptas a autorizar maior dilação temporal não caracterizando constrangimento ilegal a justificar o relaxamento da prisão em flagrante necessidade de diligências faltantes, que são imprescindíveis e necessárias ao deslinde da causa ORDEM DENEGADA.
+Consta dos autos que o paciente responde, preso cautelarmente, por roubo circunstanciado, latrocínio e receptação.
+No presente recurso, a defesa sustenta a negativa de autoria e a necessidade de revogação da prisão preventiva, haja vista que o corréu que o acusa de participação no crime é seu inimigo capital.
+Ainda, alega o excesso de prazo, a ausência de contemporaneidade e a fundamentação inidônea, o que indica a ausência do periculum libertatis.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja posto em liberdade o recorrente.
+Em consulta ao sistema processual deste Sodalício, verifica-se que, perante esta Corte, foi impetrado em favor do paciente o HC n. 900.255/SP, impugnando o mesmo acórdão e sob os mesmos argumentos ora levantados, o qual foi denegado em 29/04/2024.
+Constata-se, portanto, que a presente impetração se constitui em mera reiteração do pedido anteriormente formulado no writ apontado, fato que se consubstancia em óbice ao conhecimento do presente recurso em habeas corpus.
+Ante o exposto, com fundamento no artigo 210 do RISTJ, não conheço do presente recurso em habeas corpus.
+Publique-se e intime-se.
+Após ciência do Ministério Público Federal e com o trânsito em julgado da presente decisão, arquivem-se os autos.
+EMENTA
