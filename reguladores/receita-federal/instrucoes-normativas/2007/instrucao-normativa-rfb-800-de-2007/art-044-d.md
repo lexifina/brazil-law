@@ -1,0 +1,6 @@
+Art. 44-D. Os prazos previstos nessa Instrução Normativa serão controlados automaticamente pelo sistema e poderão resultar em ocorrências registradas em nome do interveniente.
+§ 1º O interveniente poderá ser responsabilizado pelas ocorrências a que der causa, bem assim por aquelas a que derem causa seus prepostos, empregados, contratados ou subcontratados.
+§ 2º O interessado poderá solicitar, de forma justificada, até o 15º dia do mês subsequente ao registro da ocorrência gerada pelo sistema, a sua exclusão à unidade da RFB responsável pela apuração.
+§ 3º O Auditor-Fiscal da Receita Federal do Brasil designado deverá analisar as ocorrências registradas em sistema, assim como as eventuais solicitações formalizadas no termos do § 2º do caput, até o fim do mês subsequente ao de seu registro.
+§ 4º Em caso de insubsistência da ocorrência gerada, de deferimento de justificativa apresentada pelo interveniente ou de prazo insuficiente para conclusão da análise, o Auditor-Fiscal da RFB responsável deverá excluir ou sobrestar, conforme o caso, a ocorrência da relação que será submetida ao procedimento de lançamento.
+§ 5º A ocorrência excluída ou sobrestada poderá, dentro do prazo decadencial, ser novamente incluída para lançamento da infração por Auditor-Fiscal da RFB.
