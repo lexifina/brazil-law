@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 2ª REGIÃO - CREF2/RS contra decisão em que neguei provimento ao recurso especial da parte ora agravante.
+A questão debatida nos autos, qual seja, "aplicabilidade das alterações promovidas pela Lei 14.195/2021, no art. 8º da Lei 12.514/2011, às execuções fiscais propostas por conselhos profissionais, antes de sua entrada em vigor", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1193), dos Recursos Especiais do Recurso Especial 2.030.253/SC, 2.029.970/SC, REsp 2.029.972/RS, 2.031.023/RS e 2.058.331/RS, de relatoria do Ministro Mauro Campbell Marques.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, reconsidero as decisões de fls. 127/130 e fl. 184, julgando prejudicado o presente agravo interno, e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão do Tema 1193/STJ , o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
