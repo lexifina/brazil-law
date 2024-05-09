@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 359/362).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 265/266):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO REPARATÓRIA POR PERDAS E DANOS MATERIAIS E MORAIS. DIREITO DO CONSUMIDOR. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CAUSA DE PEDIR MATERIAL QUE PERPASSA PELO ABATIMENTO DO PREÇO. METRAGEM INFERIOR À PREVISTA NO CONTRATO. DECADÊNCIA ÂNUA VERIFICADA. TEORIA DO DIÁLOGO DAS FONTES. APLICAÇÃO DO ARTIGO 501 DO CÓDIGO CIVIL. COMPENSAÇÃO MORAL. PARÂMETRO DIFERENTE PARA AFERIÇÃO DA SOBREVIVÊNCIA DO DIREITO DE AÇÃO. PRESCRIÇÃO QUINQUENAL. PREJUÍZO EXTRAPATRIMONIAL NÃO VERIFICADO. SENTENÇA MANTIDA.
+1. O nomen iuris atribuído à demanda é irrelevante para se determinar sua natureza jurídica, a qual depende da causa de pedir e do pedido. No caso, o que se busca materialmente é nada mais, nada menos do que o abatimento proporcional do preço em função do tal vício aparente da coisa.
+2. A entrega de bem imóvel em metragem diversa da contratada não pode ser considerada vício oculto, mas sim aparente, dada a possibilidade de ser verificada com a mera medição das dimensões do imóvel - o que, por precaução, o adquirente, inclusive, deve providenciar tão logo receba a unidade imobiliária.
+3. A Teoria do Diálogo das Fontes encontra expressa previsão no artigo 7º do Código de Defesa do Consumidor, que assim prescreve: "Os direitos previstos neste código não excluem outros decorrentes de tratados ou convenções internacionais de que o Brasil seja signatário, da legislação interna ordinária, de regulamentos expedidos pelas autoridades administrativas competentes, bem como dos que derivem dos princípios gerais do direito, analogia, costumes e equidade."
+4. Assim, a disciplina normativa dos artigos 500 e 501 do Código Civil, devido à sua especialidade e ao fato de favorecer o consumidor, prevalece em relação à regra do artigo 26 do Código de Defesa do Consumidor.
+5. Nas situações em que as dimensões do imóvel adquirido não corresponderem às noticiadas pelo vendedor, cujo preço da venda foi estipulado por medida de extensão ou com determinação da respectiva área (venda ad mensuram), deve ser aplicado o prazo decadencial de 1 (um) ano disposto no artigo 501 do Código Civil, o qual, por mais benéfico ao consumidor, sobrepõe-se ao prazo de 90 (noventa) dias disposto no artigo 26 do Código de Defesa do Consumidor.
+6. A aferição da pretensão indenizatória por danos morais, por não condizer a quaisquer das hipóteses do artigo 501 do Código Civil, deve ser encarada sob outra perspectiva. Nesse sentido, o colendo Superior Tribunal de Justiça mantém entendimento de que deve ser observado o prazo quinquenal para ajuizar a pretensão com essa feição extrapatrimonial. Na espécie, não ultrapassados os 05 (cinco) anos, não há falar em prescrição.
+7. O mero descumprimento contratual não se traduz em armacapaz de violar direta ou indiretamente os direitos da personalidade e por isso não configura dano moral.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 299/301).
+Nas razões do recurso especial (e-STJ fls. 314/334), interposto com fundamento no art. 105, III, "c", da CF, a parte alegou dissídio jurisprudencial por violação dos arts. 492 do CPC/2015 e 205 do CC/2002.
+Segundo afirma, "o fato de o pedido ter sido embasado na perda de valor que o imóvel passou em razão de sua metragem ser inferior à que consta no contrato é o que de fato conta, se o julgador entendia pela utilização de forma de cálculo diversa da proposta este poderia prover outra em sua sentença, dando procedência parcial ao pedido" (e-STJ fl. 329).
+Todavia, "extinguir o direito da requerente por causa tão menor é verdadeira crueldade. Presume o desembargador que se não pode haver a procedência total dos pedidos da autora, então o seu direito como um todo lhe deve ser tolhido" (e-STJ fl. 329).
+Acrescenta que "não se desconhece que, em regra, do mero inadimplemento do contrato não resultam danos morais, mas no caso concreto a questão afeta direito fundamental à moradia, coloca em risco investimentos de toda uma vida e a segurança patrimonial da família" (e-STJ fl. 332).
+No agravo (e-STJ fls. 365/373), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 402).
+É o relatório.
+Decido.
+Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Além disso, considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2 015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como a gratuidade de justiça.
+Publique-se e intimem-se.
+EMENTA
