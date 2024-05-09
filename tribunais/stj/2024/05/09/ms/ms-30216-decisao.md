@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se mandado de segurança impetrado contra acórdão da Corte Especial do STJ, de relatoria do Min. Og Fernandes.
+Ato judicial impugnado: a Corte Especial do STJ, por unanimidade, não conheceu do agravo interno em recurso extraordinário, ao fundamento de que a parte agravante não impugnou especificamente os fundamentos da decisão agravada.
+Mandado segurança: o impetrante aduz, em síntese, a caracterização de decisão teratológica, ao argumento de que: a) a prescrição intercorrente é matéria de ordem pública e não foi analisada em nenhum momento; b) não foram observados o Tema 390 do STF e os Temas 566 a 571 do STJ; c) o acórdão conteria diversas contradições e omissões; e d) deve ser reconhecida a consumação da prescrição intercorrente.
+É o relatório.
+DECIDO.
+1. O mandado de segurança é remédio constitucional destinado a sanar ou a evitar ilegalidades que impliquem em violação de direito líquido e certo do impetrante, tratando-se, portanto, de ação submetida a um rito especial, cujo objetivo é proteger o indivíduo contra abusos praticados por autoridades públicas ou por agentes particulares no exercício de atribuições delegadas pelo ente público.
+2. A orientação do STJ é pacífica no sentido do não cabimento do writ contra ato jurisdicional de órgãos fracionários ou de Relator desta Corte, exceto quando se possa constatar a existência de flagrante e evidente teratologia. Nesse sentido, a título ilustrativo, vale conferir o seguinte precedente da Corte Especial:
+CIVIL E PROCESSO CIVIL. AGRAVOS REGIMENTAIS. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL PROFERIDO POR MINISTRO RELATOR DESTA CORTE.  ..  AUSÊNCIA DE TERATOLOGIA. DECISÃO MONOCRÁTICA DE INDEFERIMENTO LIMINAR DO MANDADO DE SEGURANÇA QUE DEVE SER MANTIDA. AGRAVOS REGIMENTAIS DO MINISTÉRIO PÚBLICO FEDERAL E ESTADUAL DESPROVIDOS.
+ ..
+5. Acerca do tema, a orientação desta Corte é pacífica sobre o descabimento de Mandado de Segurança contra ato jurisdicional dos órgãos fracionários ou de Relator desta Corte Superior, a menos que neles se possa divisar flagrante e evidente teratologia, o que, nem de longe, foi verificado no caso concreto.
+6. Agravos Regimentais do Ministério Público Federal e Estadual desprovidos.
+(AgRg no MS n. 21.096/DF, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe de 19/4/2017.)  g.n.
+3. Na hipótese dos autos, o mandado de segurança foi impetrado contra acórdão da Corte Especial do STJ, que, por unanimidade, não conheceu do agravo interno em recurso extraordinário, ao fundamento de que a parte agravante não impugnou especificamente os fundamentos da decisão agravada.
+4. Nesse contexto, do atento exame das razões do presente mandado de segurança, conclui-se que o impetrante não logrou êxito em demonstrar de que forma o acórdão que não conheceu do agravo interno seria teratológico ou flagrantemente ilegal.
+5. Observa-se que, na espécie, pretende o impetrante utilizar o instrumento excepcional do mandado de segurança como verdadeiro sucedâneo recursal, o que não é admitido pela jurisprudência desta Corte Superior. Nesse sentido: AgInt no RMS n. 68.843/AM, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022; AgInt no RMS n. 65.278/SP, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022; AgInt no MS n. 28.457/DF, Corte Especial, julgado em 7/6/2022, DJe de 15/6/2022.
+6. Além disso, importa consignar que o mandado de segurança possui como requisito inarredável a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para a dilação probatória. Nesse sentido: AgInt no RMS n. 34.203/PB, Primeira Turma, julgado em 6/2/2018, DJe 16/2/2018 e AgInt no RMS n. 48.586/TO, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017; AgInt no RMS n. 67.311/PA, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+7. Todavia, na hipótese, o impetrante não logrou êxito em demonstrar, mediante a apresentação de prova pré-constituída, a presença líquida e certa de fatos aptos a configurar o direito à impetração do writ.
+8. Desse modo, conclui-se pela inexistência de teratologia ou flagrante ilegalidade na decisão impugnada, o que se revela suficiente para denegação da ordem postulada, máxime tendo em vista que a via mandamental não é adequada para veicular típica pretensão recursal.
+Forte nessas razões, INDEFIRO LIMINARMENTE a petição inicial do mandado de segurança, com fundamento no art. 212 do RISTJ.
+Publique-se. Intime-se.
+EMENTA
+MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JURISDICIONAL DE ÓRGÃO FRACIONÁRIO DO STJ. AUSÊNCIA DE TERATOLOGIA. NÃO CABIMENTO DO WRIT.
+1. A orientação do STJ é pacífica no sentido do não cabimento do writ contra ato jurisdicional de órgãos fracionários ou de Relator desta Corte, exceto quando se possa constatar a existência de flagrante e evidente teratologia.
+2. Na hipótese dos autos, do atento exame das razões do presente mandado de segurança, conclui-se que os impetrantes não lograram êxito em demonstrar de que forma o acórdão que não conheceu do agravo interno seria teratológico ou flagrantemente ilegal, sendo certo que a via mandamental não é adequada para veicular típica pretensão recursal.
+3. Petição inicial liminarmente indeferida.
