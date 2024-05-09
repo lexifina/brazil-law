@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da violação do art. 489, § 1º, IV, do CPC/2015 e incidência da Súmula n. 284 do STF (e-STJ fls. 307/311).
+O acórdão recorrido está assim ementado (e-STJ fls. 263/279):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL. PAGAMENTOSDEVIDOS. DANO MORAL NÃO CONFIGURADO. SENTENÇA MANTIDA.
+I. Tem-se que "a operação de cartão de crédito consignado difere do empréstimo consignado. Por expressa disposição contratual, o titular autoriza o banco a deduzir, quando do recebimento a sua remuneração, na folha de pagamento, a quantia correspondente ao pagamento mínimo da fatura, a qual é repassada pelo órgão pagador do contratante à administradora do cartão de crédito.
+II. Compulsando os autos, verifico que, a Recorrente anuiu aos termos de adesão ao regulamento para utilização do Cartão de Crédito Consignado (ID 25742692), fazendo eclodir a presunção juris tantum de que teve ciência de todo o conteúdo constante do documento, a qual só deve ser afastada com a produção de prova em contrário, o que não ocorreu nos presentes autos.
+III. No caso em tela, verifico que a instituição financeira provou que houve a contratação reserva de margem consignável para cartão de crédito (RMC), mediante a juntada do contrato e que aparte autora deixou de trazer os extratos bancários, quando poderia tê-lo feito (art. 373, inciso I, CPC), conforme entendimento firmado pelo E. Tribunal de Justiça nos autos do IRDR n.53.983/2016 - 1ª Tese.
+IV. Ademais, ainda que não tenha procedido com a juntada do extrato emitido pelo INSS, tal documento não pode ser considerado como prova do desconto, mas tão somente como mero demonstrativo das operações averbadas na margem consignável, posto que não comprova efetivamente o desconto realizado na conta do autor, tampouco revela o percebimento e a não utilização do numerário disponibilizado pela instituição financeira.
+V. Apelação conhecida e não provida.
+No recurso especial (e-STJ fls. 281/291), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente aponta ofensa ao art. 489, § 1º, IV, do CPC/2015, alegando que o Tribunal local não analisou a prova apresentada, que poderia demonstrar a nítida e grosseira falsificação da assinatura do contrato de empréstimo. Destaca que o Ministério Público se manifestou reforçando a existência de imitação grosseira da assinatura.
+Ao final, requer o provimento do agravo, a fim de que seja anulado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ fls. 295/305).
+No agravo (e-STJ fls. 312/334), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 338/345).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 489, §1º, IV, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (e-STJ fls. 267/268):
+Compulsando os autos, verifico que, a Recorrente anuiu aos termos de adesão ao regulamento para utilização do Cartão de Crédito Consignado (ID 25742692), fazendo eclodir a presunção juris tantum de que teve ciência de todo o conteúdo constante do documento, a qual só deve ser afastada com a produção de prova em contrário, o que não ocorreu nos presentes autos.
+Assim, não basta alegar que não desejou celebrar determinada espécie de acordo pois, eventual vício do consentimento encontra-se afastado pela expressa e inequívoca celebração do contrato, sendo este efetivado pelo recebimento dos valores (ID 25742697), o que afasta, por completo, a pretensão anulatória e o pedido de natureza indenizatória.
+(..)
+No caso em tela, verifico que a instituição financeira provou que houve a contratação reserva de margem consignável para cartão de crédito (RMC), mediante a juntada do contrato e que a parte autora deixou de trazer os extratos bancários, quando poderia tê-lo feito (art. 373, inciso I, CPC), conforme entendimento firmado pelo E. Tribunal de Justiça nos autos do IRDR n. 53.983/2016 -1ª Tese.
+Ademais, ainda que não tenha procedido com a juntada do extrato emitido pelo INSS, tal documento não pode ser considerado como prova do desconto, mas tão somente como mero demonstrativo das operações averbadas na margem consignável, posto que não comprova efetivamente o desconto realizado na conta do autor, tampouco revela o percebimento e a não utilização do numerário disponibilizado pela instituição financeira.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 489 do CPC/2015.
+Modificar o entendimento do acórdão impugnado sobre a legitimidade da contratação, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ademais, quanto à alegada falsificação da assinatura, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PR OVIMENTO ao agravo em recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo e a gratuidade da justiça concedida.
+Publique-se e intimem-se.
+EMENTA
