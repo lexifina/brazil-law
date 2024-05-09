@@ -1,0 +1,30 @@
+EMENTA
+RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA. RESP 2.078.989/PE, RESP 2.078.993/PE, RESP 2.078.485/PE E RESP 2.079.113/PE. RITO DOS ARTS. 1.036 E SEGUINTES DO CPC. ADMISSÃO.
+1. Admitida a afetação com a seguinte delimitação da tese controvertida: "Possibilidade de o substituído processual propor execução individual de sentença coletiva quando, anteriormente, a mesma sentença foi objeto de execução coletiva por parte do substituto processual, extinta em virtude de prescrição intercorrente."
+2. Recurso Especial submetido ao regime dos arts. 1.036 e seguintes do CPC.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça: "A PRIMEIRA SEÇÃO, por unanimidade, afetou o processo ao rito dos recursos repetitivos (RISTJ, art. 257-C) para delimitar a seguinte tese controvertida: "Possibilidade de o substituído processual propor execução individual de sentença coletiva quando, anteriormente, a mesma sentença foi objeto de execução coletiva por parte do substituto processual, extinta em razão de prescrição intercorrente." e, igualmente por unanimidade, nos termos do art. 1. 037, II, do CPC/2015, suspendeu a tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, conforme proposta do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto do acórdão assim ementado:
+Nas razões recursais (fls. 2026-2048, e-STJ), a União sustenta que houve violação dos arts. 103, III, e 104 da Lei 8.078/1990; dos arts. 485, § 1º, IV e V, 502, 503, 505, 507, 508 e 1.022 do CPC; e dos arts. 1º e 2º do Decreto 20.910/1932, além de divergência com entendimento de outros Tribunais. Afirma:
+Com efeito, os substituídos processuais já foram - salvo prova em contrário, não produzida nos autos - beneficiários da Ação Coletiva nº 0002677-03.1993.4.05.8300, a qual tramitou perante a 2.ª Vara Federal desta Seção Judiciária, movida pelo SINDICATO DOS TRABALHADORES PÚBLICOS FEDERAISDA SAÚDE E PREVIDÊNCIA SOCIAL (SINDSPREV), na condição de substituto processual de vários servidores listados e individualizados, e que promoveu ação de execução dos créditos dos substituídos, a qual foi extinta quando da apreciação dos Embargos à Execução opostos pela União, por ter sido reconhecida a prescrição intercorrente, com o respectivo trânsito em julgado das sentenças prolatadas nos processos de execução/embargos que foram desmembrados em grupo de 10 (dez) representados.
+Agora, em nome próprio, os exequentes propõem nova execução, fundada no mesmo título executivo produzido no processo nº 0002677-03.1993.4.05.8300, sob alegação de que não existiria litispendência entre ação coletiva e a ação individual.
+(..)
+Ora, comprovadamente, os exequentes estão executando duas vezes a mesma pretensão, acolhida em duas ações, a individual e a coletiva (que já havia transitado em julgado, com acolhimento da prescrição ações intercorrente).
+Contrarrazões às fls. 2.072-2. 114, e-STJ.
+A Ministra Presidente da Comissão Gestora de Precedentes e Ações Coletivas propôs a afetação do Recurso Especial como representativo de controvérsia, e o Ministério Público Federal opinou pela admissibilidade do apelo.
+É o relatório.
+EMENTA
+RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA. RESP 2.078.989/PE, RESP 2.078.993/PE, RESP 2.078.485/PE E RESP 2.079.113/PE. RITO DOS ARTS. 1.036 E SEGUINTES DO CPC. ADMISSÃO.
+1. Admitida a afetação com a seguinte delimitação da tese controvertida: "Possibilidade de o substituído processual propor execução individual de sentença coletiva quando, anteriormente, a mesma sentença foi objeto de execução coletiva por parte do substituto processual, extinta em virtude de prescrição intercorrente.".
+2. Recurso Especial submetido ao regime dos arts. 1.036 e seguintes do CPC.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4.10.2023.
+O Recurso Especial preenche os requisitos de admissibilidade. O tema trazido é apresentado reiteradamente no STJ e tem relevância e impacto significativos no âmbito processual.
+A Procuradoria-Geral da União identificou 1.493 (um mil, quatrocentos e noventa e três) processos tratando da tese discutida. A em. Ministra Presidente da Comissão Gestora de Precedentes e de Ações Coletivas informou que o STJ recebeu a indicação da referida matéria em decorrência do Acordo de Cooperação Técnica 4/2020 firmado com a Advocacia-Geral da União, no intuito de estimular a prevenção de litígios e a resolução consensual das lides por meio do intercâmbio de dados, de documentos, de apoio técnico-institucional e de informações de interesse recíproco.
+Ante o exposto, proponho que o presente Recurso Especial seja admitido como representativo da controvérsia, nos termos do art. 1.036, § 5º, do CPC, observando-se o que segue:
+a) a delimitação da seguinte tese controvertida: "Possibilidade de o substituído processual propor execução individual de sentença coletiva quando, anteriormente, a mesma sentença foi objeto de execução coletiva por parte do substituto processual, extinta em virtude de prescrição intercorrente.";
+b) a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, conforme o art. 1.037, II, do CPC;
+c) a comunicação, com cópia do acórdão, aos Ministros da Primeira Seção do STJ e aos Presidentes dos Tribunais Regionais Federais, dos Tribunais de Justiça e da Turma Nacional de Uniformização;
+d) vista ao Ministério Público Federal para parecer, consoante o art. 1.038, III, § 1º, do CPC/2015.
+É como voto.
