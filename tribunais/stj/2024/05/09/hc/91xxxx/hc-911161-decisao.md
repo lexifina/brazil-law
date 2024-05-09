@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Eliezer Silva da Silva, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 5000256-82.2014.8.21.0137 - fls. 9/19).
+Narram os autos que o Magistrado singular proferiu decisão de impronúncia do paciente - Processo n. 137/2.14.0001157-1, da 1ª Vara Judicial da comarca de Tapes/RS (fls. 29/36).
+Irresignado, o Ministério Público estadual apelou, e o Tribunal a quo deu provimento ao recurso para pronunciar o paciente pela prática do crime tipificado no art. 121, § 2º, inc. IV, c/c o art.14, inc. II, ambos do CP, com a incidência da Lei n. 8.072/1990 (fl. 19).
+Aqui, a defesa sustenta, em síntese, a ausência de indícios suficientes de autoria.
+Argumenta que não há provas para dar suporte à pronúncia e que o Tribunal de origem se baseou exclusivamente nas palavras de testemunhas que não presenciaram o fato, tendo apenas tomado conhecimento através de terceiros (fl. 7).
+Requer-se, em liminar e no mérito, a concessão da ordem para restabelecer a decisão do Magistrado singular, de impronúncia.
+É o relatório.
+De plano, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Ademais, cuida-se de acusado que responde ao processo solto, o status libertatis do paciente não está em jogo no momento.
+No mais, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados, é o que se depreende da leitura destas conclusões do Tribunal estadual (fls . 9/10 - grifo nosso):
+APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADOTENTADO. EXISTÊNCIA DE MATERIALIDADE DO DELITO E DEINDÍCIOS DE AUTORIA. INCIDÊNCIA DA QUALIFICADORA DERECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. IMPROCEDÊNCIA MANIFESTA OU AUSÊNCIA DE AMPARO NOSELEMENTOS DOS AUTOS NÃO VERIFICADAS. REFORMA DADECISÃO DE IMPRONÚNCIA. IMPOSITIVA A PRONÚNCIA DO RÉU. RECURSO MINISTERIAL PROVIDO.
+1. Conforme o art. 413 do CPP, o magistrado deve pronunciar o réu se convencido: (i.) da materialidade do fato; e (ii.) da existência de indícios suficientes de autoria ou de participação. Isso em respeito às garantias fundamentais do juiz natural (art. 5º, incs. XXXVII e LIII, da CF), da soberania dos vereditos do Tribunal do Júri (art. 5º, inc. XXXVIII, al. "c", da CF) e da competência constitucional do Tribunal do Júri para o julgamento dos crimes dolosos contra a vida (art. 5º, inc. XXXVIII, al. "d", da CF).
+2. A decisão de pronúncia finaliza juízo de admissibilidade, não sendo necessário exame aprofundado de provas ou juízo de mérito, de modo que não há violação aos arts. 155 e 414 do CPP quando a pronúncia é baseada em elementos informativos colhidos durante o inquérito policial repetidos em juízo ou corroborados por provas produzidas durante a instrução processual. Posição do STJ e precedentes deste Tribunal de Justiça.
+3. Os policiais estão adstritos aos princípios da legalidade e da impessoalidade, de modo que, não tendo ficado evidenciado que o policial tivesse qualquer razão para imputar falsamente a prática da infração ao réu, é descabido presumir a sua má-fé e os seus depoimentos merecem credibilidade e aceitação como meio de prova. Posição do STJ e precedentes deste Tribunal de Justiça.
+4. Não é possível basear a pronúncia apenas em informações de testemunhos indiretos ou hearsay testimony (testemunhos de "ouvir dizer"). Posição do STJ e precedentes deste Tribunal de Justiça. Estando a pronúncia baseada em outros elementos, além dos testemunhos indiretos, não fica configurada qualquer ilegalidade.
+5. Sob pena de usurpação da competência constitucional do Tribunal do Júri, só devem ser excluídas, na fase de pronúncia, as circunstâncias qualificadoras: (i.) manifestamente improcedentes; ou (ii.) sem nenhum amparo nos elementos dos autos. Posição do STJ.
+6. A qualificadora de recurso que dificultou a defesa da vítima é caracterizada pelo elemento surpresa na conduta delitiva, de modo que havendo minimamente a possibilidade da vítima ter sido surpreendida com a conduta do acusado, é necessário submeter a qualificadora ao julgamento pelo Tribunal do Júri. Posição do STJ.
+7. A qualificadora de recurso que dificultou a defesa da vítima é verificada quando o agente surpreende a vítima efetuando disparos com arma de fogo contra ela. Posição do STJ e precedentes deste Tribunal de Justiça.
+Vale lembrar que, na via eleita, não há espaço para o revolvimento de fatos e de provas da ação penal.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. DESVIRTUAMENTO DO USO DO WRIT. HOMICÍDIO QUALIFICADO. FALTA DE ELEMENTARES PARA A PRONÚNCIA. RÉU SOLTO. AUSÊNCIA DE REPERCUSSÃO IMEDIATA NO STATUS LIBERTATIS DO PACIENTE. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
