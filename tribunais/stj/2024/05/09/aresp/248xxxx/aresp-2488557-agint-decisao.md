@@ -1,0 +1,36 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 835 - 839, reconsidero a decisão de fls. 829 - 831, proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, com base na aplicação da Súmula 284/STF, por ausência de indicação do dispositivo autorizador do recurso especial; e passo à nova análise do recurso especial interposto, contra acórdão assim ementado:
+AGRAVO INTERNO - Interposição contra decisão do relator que negou conhecimento ao recurso - Inconformismo - Desacolhimento - Decisão que foi muito clara ao determinar o recolhimento do preparo em dobro, sob pena de não conhecimento do recurso, mas a parte recorrente optou pela oposição de embargos de declaração, recurso que não goza de efeito suspensivo, conforme dispõe expressamente o art.
+1.026 do Código de Processo Civil - Preparo que extrapolou o prazo legal concedido, sem que houvesse justa causa para tanto - Aplicação da pena de deserção, o que acarreta o não conhecimento do recurso - Decisão mantida - Recurso desprovido.
+Nas razões do recurso especial, alega o agravante violação ao artigo 1.007, § 6º, do Código de Processo Civil de 2015.
+Informa que: "interpôs recurso de apelação (pagou a taxa recursal) que foi provido, para anular a r. sentença monocrática. Proferida nova sentença, o Recorrente interpôs novo recurso, ressaltando que já tinha pagado a taxa recursal quando da interposição da primeira apelação (que fora provida), entendendo, pois, que não haveria nova taxa de apelação a recolher. Porém, o E. Tribunal a quo entendeu que nenhuma taxa tinha sido recolhida, determinando o pagamento. O Recorrente opôs Embargos de Declaração para que o E. Tribunal esclarecesse a decisão, pois a taxa judiciária já tinha sido recolhida quando do pagamento do primeiro recurso de apelação. Ao julgar os Embargos de Declaração, o E. Tribunal entendeu que seria necessário novo pagamento de taxa judiciária, pois para o E. Tribunal a cada recurso de apelação seria necessário o pagamento de nova taxa judiciária (e-STJ, fls. 751 - 752).
+Defende que: "Apesar do Recorrente não concordar com a interpretação, pois entende que a Lei Estadual prevê apenas um recolhimento de taxa de recurso de apelação, o Recorrente recolheu em dobro a taxa recursal. Mesmo com o recolhimento dobrado, o E. Tribunal a quo não analisou o recurso de Apelação, pois entendeu que o pagamento da dobra teria sido realizado de forma intempestiva, pois os Embargos de Declaração opostos parar questionar a legalidade de se cobrar duas vezes a taxa recursal não teria interrompido o prazo para pagamento da dobra" .
+Sustenta que: "o Recorrente tinha um "justo motivo" a apresentar Embargos de Declaração, pois pensou que o E. Tribunal não tinha observado a existência do pagamento anterior da "taxa judiciária de apelação". Ao entender que os Embargos de Declaração não suspenderam o prazo para pagamento da taxa judiciária, e considerar intempestivo o pagamento da taxa judiciária dobrada, o E. Tribunal a quo d.m.v malferiu o artigo 1007, parágrafo sexto, do CPC" (e-STJ, fl. 753).
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 792 - 793 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Sem razão o agravante.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Na hipótese, conforme se depreende das razões do recurso especial, a parte alega que, sua interpretação em relação ao disposto em Lei Estadual, quanto ao recolhimento do preparo do segundo recurso de apelação apresentado na origem, constituiria motivo apto a justificar o atraso quanto ao referido recolhimento.
+Nesse contexto, verifica-se que o acolhimento das razões do recurso dependeria necessariamente da análise da referida Lei Estadual, e de eventual violação a seus termos, providência que encontra veto na Súmula 280/STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXERCUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA EXEQUENTE.
+1. Incide a Súmula 187/STJ, devendo ser decretada a deserção do recurso, quando a parte, mesmo regularmente intimada pela instância ordinária para complementar o preparo, não sana o vício ou o faz intempestivamente.
+1.1. No presente caso, mesmo após a intimação da recorrente para sanar o vício apontado, não houve a comprovação da regularidade no recolhimento do preparo, o que impõe a incidência da Súmula 187 do STJ.
+2. É inviável a interposição de recurso especial para exame de lei local, nos termos da Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.001.045/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL VERIFICADO. INEXISTÊNCIA DE OMISSÃO. PREPARO. EMPRESA PÚBLICA. ISENÇÃO. IMPOSSIBILIDADE. ANÁLISE DE LEI LOCAL.
+IMPOSSIBILIDADE. SÚMULA 280 DO STF. 1. Corrige-se, por meio desta decisão, erro material consistente citação da Lei 12.550/2011.
+Entretanto, a ratio permanece incólume, pois a recorrente é pessoa jurídica de Direito Privado constituída sob a forma de empresa pública, não fazendo jus, portanto, aos benefícios da Fazenda Pública, previstos no art. 1.007, § 1º, do CPC/2015. 2. Com efeito, a concessão dos privilégios inerentes à Fazenda Pública depende de expressa previsão legal. A Lei Municipal 6.639/1990 não pode ser analisada em recurso Especial nos termos do art. 105, III, "a", da Constituição e da Súmula 280/STF.
+3. Embargos de Declaração parcialmente acolhidos para sanar o erro material.
+(EDcl no REsp n. 1.800.425/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2019, DJe de 18/10/2019.)
+AGRAVO INTERNO. APELAÇÃO CONSIDERADA DESERTA PELA CORTE LOCAL. REGULARIZAÇÃO POSTERIOR À INTERPOSIÇÃO DO RECURSO. DESERÇÃO. PRECLUSÃO CONSUMATIVA. SÚMULA 280/STF. INCIDÊNCIA.
+1. O Superior Tribunal de Justiça possui tese consolidada, na Corte Especial e nas Seções Especializadas, no sentido de que a comprovação do preparo deve ser feita no ato de interposição do recurso, conforme determina o art. 511 do Código de Processo Civil de 1973, sob pena de preclusão, não se afigurando possível comprovação ou regularização posterior, ainda que o pagamento das custas tenha ocorrido dentro do prazo recursal.
+2. A análise da questão do preparo da apelação interposta no Tribunal de origem remete à análise de legislação local, qual seja, o Provimento da Corregedoria Geral da Justiça de São Paulo 33/2013, o que atrai a incidência da Súmula 280 do STF e impede o conhecimento do apelo extremo.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.727.664/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/5/2019, DJe de 15/5/2019.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
