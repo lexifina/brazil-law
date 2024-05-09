@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 320):
+COMPRA E VENDA IMOBILIÁRIA. Insurgência recursal contra a sentença que julgou parcialmente procedente o pedido para rescindir o contrato celebrado, condenando as corrés à devolução dos valores pagos pelo adquirente. Incidência do CDC. Partes que se amoldam aos conceitos de consumidor e fornecedor consignados pela lei. Vulnerabilidade do adquirente. Devolução integral dos valores, sem retenção, considerando a culpa das vendedoras pelo atraso da entrega do imóvel. Incidência do Enunciado 543 da Súmula do STJ. Prescrição da pretensão de restituição da comissão de corretagem não verificada, pois o caso se distingue da matéria discutida pelo STJ no Tema Repetitivo n. 938. Sentença mantida. RECURSO DESPROVIDO.
+Nas razões apresentadas (e-STJ fls. 328/339), as recorrentes requerem, preliminarmente, a concessão de efeito suspensivo à insurgência.
+Apontam dissídio jurisprudencial e ofensa ao art. 725 do CC/2002, sustentando: (i) sua ilegitimidade passiva ad causam no referente ao reembolso da comissão de corretagem, (ii) a validade de repassar a responsabilidade pelo pagamento do encargo mencionado ao adquirente do imóvel, ante a concretização do negócio.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 388/397).
+O recurso foi admitido na origem (e-STJ fls. 398/406).
+É o relatório.
+Decido.
+A Corte local não se manifestou sobre o art. 725 do CC/2002 sob o enfoque pretendido pela parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+E ainda, s egundo a jurisprudência do STJ, quando a rescisão contratual ocorre com fundamento no atraso na entrega da obra, "é cabível a restituição da comissão de corretagem, sendo inaplicável ao caso o entendimento firmado no Tema 938/STJ" (AgInt no REsp n. 1.898.750/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/3/2021, DJe 17/3/2021).
+Com o mesmo teor:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. PRESCRIÇÃO. CADEIA DE PRESTADORES DE SERVIÇOS. CORRÉS. RESPONSABILIDADE SOLIDÁRIA. MATÉRIA DE FATO. INADIMPLEMENTO. RESOLUÇÃO DO CONTRATO. RESTITUIÇÃO DE VALORES. COMISSÃO DE CORRETAGEM. SÚMULAS NºS 5 E 7/STJ. DANOS MORAIS. OCORRÊNCIA. REVISÃO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça está sedimentada no sentido de que em demandas objetivando a restituição dos valores pagos a título de comissão de corretagem em que a causa de pedir é a rescisão do contrato por inadimplemento do vendedor, o prazo prescricional da pretensão da restituição de valores tem início após a resolução, sendo inaplicável o prazo prescricional trienal.
+(..)
+5. Na espécie, cabível a restituição integral das parcelas pagas, incluindo a comissão de corretagem.
+(..)
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.853.761/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/5/2021, DJe 24/5/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. CORRETORA IMOBILIÁRIA. LEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO. APLICAÇÃO DO CDC. RESPONSABILIDADE SOLIDÁRIA. RESCISÃO CONTRATUAL POR CULPA DOS FORNECEDERES. DEVOLUÇÃO INTEGRAL DAS QUANTIAS PAGAS. PRECEDENTES.
+1. Ação de rescisão de contrato de promessa de compra e venda de imóvel com pedido de devolução de quantias pagas.
+(..)
+3. Ademais, a jurisprudência do STJ entende que resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.768.177/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 3/5/2021, DJe 6/5/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+(..)
+3. "Resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem." (EDcl no AgInt no AREsp 1220381/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/10/2019, DJe 20/11/2019). Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.859.363/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/8/2020, DJe 28/8/2020.)
+O Tribunal de origem, com base nos elementos de prova, concluiu que houve atraso na entrega do imóvel, e não desistência do comprador. Confira-se o seguinte excerto (e-STJ fls. 320/322):
+O autor ajuizou a ação em apreço alegando que ele e sua ex-esposa celebraram, em 26 de junho de 2018, compromisso de compra e venda para a aquisição do imóvel comercializado pelas requeridas, no valor total de R$ 212.521,68. Afirmou ter decorrido o prazo previsto contratualmente para o encerramento das obras, em 01.04.2021, sem a entrega do imóvel, além de ultrapassado o prazo de tolerância de mais 180 dias. Por essa razão, pediu a rescisão contratual, por culpa exclusiva das corrés, bem como devolução total dos valores já adimplidos, inclusive comissão de corretagem. Incontroverso o atraso na entrega do bem, a controvérsia recursal cinge-se à possibilidade de devolução do valor da comissão de corretagem e de retenção de parte dos valores pagos pelo autor adquirente.
+Incontroverso o atraso na entrega do bem, a controvérsia recursal cinge-se à possibilidade de devolução do valor da comissão de corretagem e de retenção de parte dos valores pagos pelo autor adquirente.
+(..)
+Nessa esteira, considerando o descumprimento contratual por parte das corrés quanto à entrega do imóvel adquirido, de rigor a aplicação do Enunciado 543 da Súmula do STJ: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento", impedindo-se, pois, a pretensão recursal de retenção de parcela dos valores adimplidos.
+No que toca ao pedido de restituição das quantias pagas a título de comissão de corretagem, cumpre observar que o caso em apreço não se amolda à matéria analisada sob o rito dos repetitivos pelo STJ (Tema n. 938), uma vez que aqui não se discute a validade do pagamento da comissão, mas indenização do valor equivalente para o devido retorno das partes ao status quo ante, dada a rescisão contratual operada por culpa das corrés vendedoras. Por tais razões, isto é, a distinção entre o caso em análise e o precedente suscitado pelas apelantes, também incabível o reconhecimento da prescrição, cujo termo inicial deve ser a constatação do atraso na entrega da obra, data em que surgida a causa de rescisão do contrato e, via de consequência, restituição das quantias adimplidas.
+Para dissentir dessa conclusão, seria necessário revolver o conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Diante de tal premissa fática, verifica-se que o acórdão recorrido decidiu em consonância com a jurisprudência pacífica desta Corte Superior, ao admitir a restituição integral dos valores despendidos pelos compradores, incluindo a comissão de corretagem (e-STJ fl. 322), motivo pelo qual incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Não conhecida a insurgência, descabe cogitar de efeito suspensivo.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
