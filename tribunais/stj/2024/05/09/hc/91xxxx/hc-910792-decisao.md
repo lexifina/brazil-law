@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Everton Vieira da Silva - condenado por roubo circunstanciado a 9 anos e 26 dias de reclusão, e a 10 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Pernambuco (fls. 37/47), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta ao paciente - na condenação proferida na Ação Penal n. 0000792-69.2022.8.17.5001 (fls. 13/31 - da 8ª Vara Criminal da comarca de Recife/PE) -, com a compensação parcial da atenuante da confissão com a agravante da reincidência, ao argumento de que o STJ, em respeito aos princípios da individualização da pena e da proporcionalidade, vem aplicando a "compensação parcial" nos casos de réu multirreincidente em que se verifica a confissão (fl. 5).
+Entretanto, do atento exame dos autos, tem-se que não demonstrado constrangimento ilegal na pena fixada, uma vez que as instâncias ordinárias aumentaram a pena em 1/6, na segunda fase, em razão da preponderância da agravante da reincidência sobre a atenuante da confissão - uma vez que restou provada a multirreincidência do réu (fl. 42) -, em consonância com o entendimento desta Corte Superior: não há ilegalidade a ser corrigida, até mesmo porque não se revela irrazoável ou desproporcional a elevação da pena em patamar inferior a 1/6 (um sexto), haja vista a quantidade de delitos anteriormente praticados, bem como a inexistência de direito subjetivo à elevação da pena no patamar de 1/12 (um doze avos) - (AgRg no AREsp n. 2.480.609/DF, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 6/2/2024, DJe 14/2/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. SEGUNDA FASE. CONFISSÃO ESPONTÂNEA E MÚLTIPLA REINCIDÊNCIA. COMPENSAÇÃO PARCIAL. FRAÇÃO DE 1/6. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
