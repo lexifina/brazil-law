@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por IGOR HENRIQUE SOARES CARVALHO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CRIMINAL. CRIME DE ROUBO. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PRELIMINAR DE NULIDADE DO RECONHECIMENTO EXTRAJUDICIAL. REJEIÇÃO. OBSERVÂNCIA DAS FORMALIDADES LEGAIS. RECONHECIMENTO PESSOAL CORROBORADO EM JUÍZO. AUSÊNCIA DE PREJUÍZO. PEDIDO DE ABSOLVIÇÃO. NÃO ACOLHIMENTO. MATERIALIDADE E AUTORIA DEMONSTRADAS. PEDIDO DE DESCLASSIFICAÇÃO PARA O DELITO DE FURTO. IMPOSSIBILIDADE. EMPREGO DE VIOLÊNCIA COMPROVADA. PALAVRA DA VÍTIMA. RELEVÂNCIA. DOSIMETRIA. AVALIAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. MANUTENÇÃO. JUSTIFICAÇÃO IDÔNEA. QUANTUM DE AUMENTO NA PRIMEIRA FASE. DESPROPORCIONAL. REDUÇÃO. CONFISSÃO ESPONTÂNEA NÃO RECONHECIDA. ALTERAÇÃO DE REGIME. NÃO ACOLHIMENTO. RÉU REINCIDENTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia recursal, a parte recorrente alega violação do art. 65, III, "d", do CP, no que concerne à necessidade de reconhecimento da atenuante da confissão espontânea, uma vez que o recorrente confessou a autoria do delito ao policial que efetuou sua prisão, configurando-se confissão extrajudicial, trazendo a seguinte argumentação:
+11. O Código Penal estabelece em seu artigo 65, alínea "d", a atenuante da pena em razão da confissão, ou seja, o réu faz jus à diminuição da pena se a confissão do acusado for utilizada para formar o convencimento do juiz sentenciante.
+ ..
+13. No caso em tela, o acusado ao ser abordado pela vítima, confessou a autoria do delito ao policial responsável pela sua prisão. Ou seja, ao contrário do disposto na decisão recorrida o assistido admitiu a prática do delito na audiência de custódia e perante ao agente estatal, ou seja, em sede extrajudicial.
+ ..
+15. Ocorre que o entendimento disposto no acórdão é equivocado, pois conta claramente no relato do policial Danilo Dias, transcrito pelo próprio acórdão recorrido, o assistido admitiu ter praticado o delito perante o policial que realizou a prisão:
+ ..
+17. Dessa maneira, resta evidentemente configurada a confissão extrajudicial constante o testemunho policial.
+18. É importante ressaltar ainda que, mesmo que a confissão não seja utilizada como elemento de convicção, tal fato não impede que a atenuante seja reconhecida, uma vez que esse entendimento foi superado no âmbito da Corte Superior.
+19. Segundo o entendimento atual do Superior Tribunal de Justiça, o reconhecimento da atenuante da confissão não está condicionado à utilização das declarações do réu como elemento de convicção, nesse sentido:
+ ..
+20. Diante dos elementos apresentados, registra-se o flagrante equívoco da decisão impugnada ao negar o reconhecimento da confissão, pois o recorrente confessou a autoria perante os policiais, o que configura a confissão extrajudicial.
+21. De outra maneira, diante das particularidades do caso concreto, estão presentes requisitos necessários para o reconhecimento e a aplicação da atenuante disposta no artigo 65, III, "d" do Código Penal, sob pena de se perpetuar flagrante ilegalidade contra o recorrente em caso de não reconhecimento (fls. 339/345).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
