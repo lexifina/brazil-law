@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de FABRICIO GUSMAO DOS SANTOS em que se aponta como ato coator a decisão monocrática de desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu o pedido de liminar formulado no HC n. 1.0000.24.228157-4/000/MG.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 121, § 2º, VI, c/c art. 14, II, do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que haveria excesso de prazo da prisão preventiva, pois a conduta teria sido desclassificada para lesão corporal e, ainda assim, a denúncia não teria sido apresentada.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão cautelar.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022).
+In casu, não visualizo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, pois trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior, especialmente quando a prisão preventiva está fundamentada na gravidade concreta da conduta e, em razão da alegação defensiva de incapacidade do paciente de compreender o caráter ilícito da conduta, o juízo de primeira instância determinou cuidados médicos necessários ao paciente e cela reservada. Confiram-se trechos da decisão:
+"Declarou a vítima Fabricia Pereira Batista, genitora do autor que, em data pretérita, teve um desentendimento com seu filho, ocasião em que requereu medidas protetivas em seu favor, porém, há cerca trinta dias, solicitou sua revogação por ter o autor retornado a residir no mesmo imóvel que a vítima, sua mãe.
+Na data dos fatos, a vítima relatou que o autor mudou o canal da televisão que o irmão de nome Heitor assistia, ocasião em que a vítima questionou seu filho, dizendo que "ele já era grande", enquanto pedia ao mesmo para deixar o irmão assistir. Nesse momento, o autor ficou extremamente nervoso e começou a ameaçar a vítima, dizendo "que iria matá-la", "que ela pagaria por tudo, que nunca foi mãe para ele" e "que estava daquele jeito por causa dela", conforme se expressou.
+Em seguida, o autor jogou álcool em gel no corpo da vítima, riscou o isqueiro para atear fogo nela, porém o álcool não pegou fogo de maneira rápida. Desse modo, o autor tentou esquentar o óleo que estava sobreo fogão para agredir a vítima, momento em que a mesma conseguiu desligar o botijão de gás. Contudo, não satisfeito em seu intento homicida, o autor pegou duas facas e colocou uma de cada lado do pescoço da vítima.
+Na sequência, a vítima se manteve firme, ocasião em que o autor recuou e dispensou as facas no chão, oportunidade em que a vítima, ao abaixar para pegar as facas, foi golpeada pelo autor, que quebrou um copo de vidro na parte de trás da cabeça e pescoço da vítima, revelando a gravidade concreta do delito.
+Ato contínuo, o autor se trancou no quarto e começou a se automutilar, considerando que tinha o costume de fazê-lo, enquanto a vítima acionou a polícia. (..)
+Finalmente, contrariamente ao aduzido pela Defesa durante a audiência de custódia realizada, inexistem elementos atuais e estreme de dúvidas que comprovem ser o autuado portador de doença mental ou desenvolvimento mental incompleto ou retardado, ao tempo da ação delituosa apurada no presente APFD que denotem sua semi-imputabilidade ou inimputabilidade, que seja portador da citada patologia psquiátrica ou que seja incapaz de, em razão dela, compreender o caráter ilícito da conduta.
+Neste sentido, ressalto que o relatório médico juntado pela Defesa no ID 10121433317 é documento unilateral e deve ser, em nosso entendimento, corroborado pela necessária prova pericial correlata, materializada pelo no incidente laudo pericial subscrito pelos médicos oficiais nomeados pelo Juízo, de insanidade mental a ser eventual e oportunamente deflagrado.
+À toda evidência, no transcurso do inquérito policial ou ação penal correlata, comprovada suposta patologia psiquiátrica pelo autuado , outras medidas poderão ser adotadas ao tempo da ação deste apfd pelo Juízo Competente.
+Diante do exposto, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA DO AUTUADO FABRICIO GUSMAO DOS SANTOS, nascido em 03/05/2005, nos termos do artigo 313, I, do CPP. (..)
+Oficie-se COM A MÁXIMA URGÊNCIA ao Diretor do Estabelecimento Prisional em que se encontra custodiado o autuado Fabricio Gusmão dos Santos para que receba os cuidados médicos necessários, instruindo-se com cópia integral dos autos, desta decisão e dos relatórios médicos constante nos IDs 10121444676 e 10121411899, devendo ainda adotar todas as medidas necessárias para a salvaguarda da incolumidade física do autuado, acautelando-o em cela reservada" (fls. 12-14).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
