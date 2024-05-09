@@ -1,0 +1,58 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fl. 711 (e-STJ):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDERSON LUIZ LOPES DOS SANTOS e DIOGO PAZ DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC 0044072-51.2023.8.16.0000).
+Os pacientes foram presos preventivamente por suposta infração ao art. 33, caput, da Lei 11.343/2006.
+A ordem impetrada na Corte de origem foi indeferida (e-STJ fls. 34-42).
+A defesa alega: a) ilegalidade do flagrante delito, pois decorrente de preparação policial por meio de transação simulada de compra de entorpecentes que, no momento da entrega, resultou na prisão dos pacientes por um crime que não se consumaria; e b) ilicitude das provas obtidas mediante indevida revista pessoal e veicular, baseada apenas em denúncia anônima, desprovida de suspeita de infração penal e em inobservância à regra do art. 240 do Código de Processo Penal.
+Requer, liminar e definitivamente, deferimento da ordem para anular as provas obtidas ilicitamente e determinar o trancamento da ação penal.
+A liminar foi indeferida pelo Min. João Batista Moreira (Desembargador Convocado do TRF1) (e-STJ fls. 711-713).
+As informações foram prestadas às e-STJ fls. 716-722 e 728-741.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 754-761).
+Intimada para se manifestar, a defesa notícia que remanesce o interesse no julgamento desta impetração (e-STJ fl. 768).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Passo ao exame de ofício.
+O Tribunal de origem, após a detida análise do conjunto probatório amealhado ao longo da marcha processual, concluiu pela comprovação da autoria e materialidade delitivas e pela não comprovação do alegado flagrante forjado, nos seguintes termos (e-STJ fls. 128-129):
+A par disso, ao menos em princípio, evidencia-se a presença de justa causa para a ação policial, eis que, segundo consta, houve o recebimento de denúncia informando que o veículo GM/Cruze estaria transportando drogas em direção ao Posto Paris, local onde seria realizada a comercialização ilícita. No intuito de averiguar a veracidade da informação, os agentes públicos se dirigiram ao local indicado e realizaram o monitoramento, oportunidade em que visualizaram o contexto retratado e efetuaram a abordagem, logrando êxito em localizar no interior do veículo expressiva quantidade de crack.
+Logo, não se vislumbra a presença das hipóteses que autorizam a interrupção prematura da persecução criminal por esta via estrita, porquanto os elementos informativos coligidos aos autos, até o presente momento, convergem para a existência de indícios suficientes de materialidade e autoria do fato atribuído aos pacientes.
+ ..
+No particular, muito embora a impetrante tenha colacionando aos autos imagens das câmeras de segurança do local no intuito de demonstrar que a apreensão das drogas decorreu de suposta situação de flagrante preparado e busca veicular sem justa causa, a aventada ilegalidade não é passível de constatação ,de plano tratando-se, em verdade, de questão controversa e que demanda aprofundada análise do conjunto fático probatório, o que é inviável nesta estreita via.
+A jurisprudência deste Superior Tribunal é firme ao estatuir que o reconhecimento do chamado flagrante forjado demanda uma análise vertical e exauriente do acervo probatório constante do processo, providência incompatível com a estreita via do habeas corpus, marcado pela limitação cognitiva.
+A propósito:
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. AUSÊNCIA DE NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT NÃO PREJUDICADO. PLEITO DE RECONHECIMENTO DE FLAGRANTE FORJADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. NECESSIDADE DE RASTREAMENTO DE DADOS. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. GRANDE QUANTIDADE DE DROGAS. RISCO CONCRETO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. ORDEM CONHECIDA EM PARTE E, NESSA EXTENSÃO, DENEGADA.
+1. A superveniência de sentença penal condenatória, na qual se nega ao acusado o direito de recorrer em liberdade com os mesmos fundamentos utilizados anteriormente para justificar a prisão preventiva, sem agregar novos, não conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso ordinário em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. Precedentes.
+2. Na hipótese, reconhecer tratar-se de flagrante forjado, requer o aprofundado reexame de fatos e provas, providência incabível na estreita via do habeas corpus. Precedentes.
+3. A tese relativa à necessidade de rastreamento das "Estação de Rádio Base - ERB"s" não foi apreciada pelo Tribunal de origem, de modo que não pode ser conhecida originariamente por esta Corte, sob pena de supressão de instância.
+4. A manutenção da custódia cautelar encontra-se suficientemente fundamentada na garantia da ordem pública, sobretudo, amparada na especial gravidade da conduta, evidenciada pela grande quantidade de droga apreendida bem como no risco concreto de reiteração delitiva.
+5. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada.
+(HC n. 623.404/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/6/2021, DJe de 25/6/2021.) - grifos acrescidos.
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES E POSSE ILEGAL DE ARMA DE FOGO. ATRASO NA HOMOLOGAÇÃO DA PRISÃO EM FLAGRANTE. QUESTÃO SUPERADA. SUPERVENIÊNCIA DA PRISÃO PREVENTIVA. AUDIÊNCIA DE CUSTÓDIA NÃO REALIZADA EM RAZÃO DA PANDEMIA DE COVID-19. RECOMENDAÇÃO N. 62/2020 DO CNJ. INEXISTÊNCIA DE ILEGALIDADE. NEGATIVA DE AUTORIA E ALEGAÇÃO DE FLAGRANTE FORJADO. ANÁLISE FÁTICO-PROBATÓRIA. INADMISSIBILIDADE NA VIA ELEITA. REVOGAÇÃO DA CUSTÓDIA CAUTELAR. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. VARIEDADE E GRANDE QUANTIDADE DE DROGA S APREENDIDAS. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. PROPORCIONALIDADE ENTRE A MEDIDA CAUTELAR E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. É inadmissível o enfrentamento das alegações acerca da negativa de autoria e flagrante forjado na via estreita do habeas corpus, ante a necessária incursão probatória, que deverá ser realizada pelo Juízo competente para a instrução e julgamento da causa.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 613.334/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/3/2021, DJe de 23/3/2021.) - grifos acrescidos.
+Também não há que se falar em ilicitude da busca e apreensão policial no veículo, demonstradas as fundadas razões que a motivaram, nos moldes da jurisprudência firmada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADAS RAZÕES. INTELIGÊNCIA POLICIAL. ATITUDE SUSPEITA DO AGENTE. ESTADO DE FLAGRÂNCIA VISÍVEL. NULIDADE NÃO VERIFICADA. REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. FRAÇÃO. DISCRICIONARIEDADE DO JULGADOR. RECURSO NÃO PROVIDO.
+1. Não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoa l, o que não se verificou no caso (ut, AgRg no HC n. 822.922/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2023).
+2. O julgador ao reconhecer a presença dos requisitos necessários ao reconhecimento do redutor do § 4º do art. 33 da Lei n. 11.343/2006, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso, em que foi aplicada a fração de 1/5 em razão da apreensão de 702g de maconha.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.113.496/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024.) - grifos acrescidos.
+Portanto, a fundamentação do acórdão está em consonância com a jurisprudência dessa Corte Superior, não se observando qualquer constrangimento ilegal a ser sanado de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
