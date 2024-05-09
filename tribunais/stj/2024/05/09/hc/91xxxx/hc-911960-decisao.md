@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Matheus Henrique Marinho Soares contra o acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Paraná no julgamento da Apelação Criminal n. 0010727-14.2021.8.16.0017, assim resumido (fl. 13):
+APELAÇÃO CRIME - POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO (ART. 12, DA LEI Nº 10.826/2003) - PROCEDÊNCIA. APELO DA DEFESA - PLEITO DE ABSOLVIÇÃO DO CRIME PREVISTO NO ESTATUTO DO DESARMAMENTO - FUNDAMENTO DE ILEGALIDADE DAS PROVAS POR VIOLAÇÃO DE DOMICÍLIO - NÃO OCORRÊNCIA - PRESENÇA DE FUNDADAS RAZÕES INDICATIVAS DA JUSTA CAUSA A RESPALDAR A DILIGÊNCIA POLICIAL - DENÚNCIAS ANÔNIMAS PELO CANAL 181 NOTICIANDO QUE O ACUSADO COMERCIALIZAVA DROGAS EM SUA RESIDÊNCIA, BEM COMO POSSUIRIA ARMA DE FOGO - ENTRADA NA RESIDÊNCIA QUE FOI REALIZAD A COM O CONSENTIMENTO DA ESPOSA DO ACUSADO - CONJUNTO PROBATÓRIO IDÔNEO E SUFICIENTE - CONDENAÇÃO MANTIDA - RECURSO DESPROVIDO.
+Aqui, a defesa requer, em liminar e no mérito, a concessão da ordem para invalidar as provas pois, realizado busca pessoal com fundamento apenas em atitude suspeita de tráfico de drogas (não localizada), bem como da busca no aparelho celular, tudo sem a devida autorização judicial (fls. 12/13).
+Para tanto, alega que não há legitimidade na revista pessoal realizada, pois, amparada em meras suposições ou conjecturas, bem como que a entrada dos agentes policiais na residência se deu sem autorização ou mandado judicial.
+Menciona, ainda, que houve violação do sigilo na comunicação telefônica, pois os policiais forçaram o acesso ao conteúdo do aparelho celular do paciente.
+No dia 2/2/2024, transitou em julgado a condenação do réu. A pena de 1 ano de detenção, em regime aberto, encontra-se em execução no PEC n. 4000098-68.2024.8.16.0190, da Vara de Execução em Meio Aberto de Maringá/PR.
+É o relatório.
+Como relatado, a presente impetração refere-se à condenação transitada em julgado. A via do habeas corpus mostra-se inadmissível, porque utilizada como sucedâneo de revisão criminal, sendo certo que compete ao Superior Tribunal de Justiça o julgamento de revisão criminal de seus próprios julgados, o que não é o caso dos autos.
+Nesse sentido: AgRg no HC n. 481.415/SP, de minha relatoria, Sexta Turma, DJe 4/2/2019; e HC n. 467.004/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2018.
+Ainda que assim não fosse, não enxergo constrangimento ilegal a ser reparado de ofício. Os elementos de convicção trazidos ao feito indicam a inexistência de mácula na ação policial.
+A propósito, consta da sentença que (fls. 17/18):
+ ..  a busca policial não pode ser considerada infundada, pois os policiais foram claros ao indicar que a abordagem foi antecedida por denúncias de populares junto ao canal 181. O documento de evento 152 confirma a versão dos policiais, concluindo que não foi aleatoriamente que os agentes chegaram até o domicílio do acusado.
+Também não cabe a alegação sustentada pela Defesa do acusado de que houve invasão de domicílio, haja vista que, de acordo com as provas produzidas nos autos, a abordagem se deu no portão da residência, tendo a esposa do acusado, posteriormente, franqueado a entrada dos policiais militares em sua residência, versão que merece prosperar em face da Defesa.
+Destaca-se que o mandado de busca e apreensão é prescindível para casos de flagrante delito, sendo que, o crime de posse de arma de fogo de uso permitido é considerado permanente, cuja consumação se prolonga durante o tempo em que o agente estiver na posse do armamento.
+O acusado estava em situação de flagrante delito, circunstância a qual autoriza o ingresso na residência pelos agentes públicos sem mandado de busca e apreensão, não ocorrendo invasão de domicílio e nem contrariando o disposto no artigo 5º, inciso XI, da Constituição Federal.
+ ..
+Ainda, quanto à preliminar de nulidade por violação do sigilo de comunicação telefônica, observa-se que não houve a apreensão de aparelhos celulares nos autos, não havendo, outrossim, provas que confirmem a afirmação do réu de que os policiais insistiram no desbloqueio do celular para análise de mensagens e dados telefônicos.
+ ..
+Ao se pronunciar sobre as alegações, o Tribunal estadual apresentou a seguinte fundamentação (fls. 26/28 - grifo nosso):
+ ..
+Do depoimento dos policiais militares, extrai-se que a abordagem teve motivação em denúncias anônimas que indicavam o referido endereço.
+Inclusive foi juntado aos autos o registro de quatro denúncias efetuadas pelo "Disque-Denúncia 181" apontando que vulgo "Mateuzinho" estaria incidindo em prática ilícita de tráfico de drogas no endereço apontado na denúncia (mov. 152.2/152.5)  ..
+ ..
+De tal forma, ao contrário do que sustenta o apelante, o ingresso na residência foi devidamente justificado pelas circunstâncias do caso concreto, considerando a existência de notícias de que o acusado possuiria arma de fogo, não havendo que se falar em ilegalidade das provas.
+Portanto, pelo contexto fático, nota-se que havia fundadas razões (justa causa) que sinalizavam a possibilidade de mitigação da inviolabilidade do domicílio.
+Assim, seria desnecessário o mandado de busca e apreensão, nos termos do artigo 5º, inciso XI, da Constituição Federal, já que se configura lícito o ingresso policial no interior do domicílio, a qualquer hora do dia ou da noite, para fazer cessar a prática infracional (no presente caso, apreender arma de fogo e munições, que como supramencionado se trata de crime permanente, no qual o estado de flagrância encontra-se prolongado).
+Portanto, diante do estado de flagrância, não se verifica ilegalidade decorrente da entrada no local onde foi encontrada a arma de fogo e munições, nos termos dos artigos 302, inciso I, e 303, ambos do Código de Processo Penal, e do artigo 5º, inciso XI, da Constituição Federal.
+ ..
+Desse modo, por se encontrar em flagrante delito, o ingresso dos milicianos na residência do acusado prescindia de qualquer tipo de autorização, já que amparado pelo estrito cumprimento do dever legal e escorado no próprio texto constitucional.
+Não obstante, consoante depoimento do policial militar Jefferson Moraes, a entrada dos agentes públicos na residência foi autorizada pela esposa do réu.
+Por sua vez, quanto à alegação de nulidade das provas em razão de violação do direito à inviolabilidade de comunicação, extrai-se dos autos que não houve a apreensão de aparelho celular, mas tão somente de arma de fogo de uso permitido e munições (mov. 1.15).
+E quanto à versão do réu de que os policiais militares teriam lhe agredido, inclusive sendo pego pelo pescoço até que viesse a desmaiar, com a finalidade de que falasse a senha de desbloqueio de seu aparelho celular, observa-se que não encontra respaldo nas demais provas constantes nos autos.
+Os policiais militares confirmaram em juízo que a equipe acionou a SAMU em razão do réu ter passado mal por nervosismo em decorrência da abordagem, sendo que no registro de atendimento do acusado pelo Serviço de Atendimento Móvel de Urgência consta que o acusado apresentou crise de ansiedade convulsiva.
+Ainda, o registro apontou que Matheus, quando do atendimento médico, apresentada pescoço, tórax e abdômen normais (mov. 1.19).
+De tal forma, a versão do réu de que os policiais teriam lhe pressionado a fornecer a senha de seu aparelho celular, inclusive sendo pego pelo pescoço até que viesse a desmaiar, não encontra respaldo no caderno processual, encontrando-se isolada das demais provas dos autos.
+Por tais considerações, o pleito de nulidade processual por ofensa ao princípio da inviolabilidade de domicílio e do direito à inviolabilidade de comunicação não admite acolhimento, porque a polícia pode ingressar no domicílio, sem que, para tanto, seja necessária a expedição de mandado de busca e apreensão, diante da ocorrência de flagrante delito ou fundada suspeita, como na hipótese dos autos.
+Dessa forma, verifica-se que a apreensão de arma de fogo e munições na residência do recorrente configura prova lícita, uma vez que havia motivo fundado para a entrada dos policiais na residência.
+Assim, diante do conjunto probatório que demonstra a prática do crime descrito no artigo 12, , da caput Lei n. 10.826/03, por parte do recorrente, não há como se proceder a sua absolvição.
+ ..
+Conforme entendimento desta Casa, mostra-se legal a ação policial, tanto na busca pessoal como no ingresso domiciliar, quando decorrente de denúncia anônima especificada, que corresponde à descrição detalhada das características constantes das informações apócrifas.
+Com efeito, havia fundadas razões para a atuação, em virtude das circunstâncias que antecederam a entrada dos policiais no local, pois, no controle judicial a posteriori, o Tribunal a quo registrou que a "denúncia anônima" possuía dados específicos, como o nome do  paciente  e o endereço da residência (AgRg nos EDcl no HC n. 847.351/MG, Ministra Laurita Vaz, Sexta Turma, DJe 20/10/2023).
+No mesmo sentido, o AgRg no RHC n. 193.038/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe 1º/3/2024; e o AgRg no HC n. 857.981/AM, de mina relatoria, DJe 18/4/2024.
+No que diz respeito à dita violação do sigilo das comunicações telefônicas, diante do que se afirmou na sentença, inexiste constrangimento ilegal a ser reparado (fl. 18):
+ ..  não houve a apreensão de aparelhos celulares nos autos, não havendo, outrossim, provas que confirmem a afirmação do réu de que os policiais insistiram no desbloqueio do celular para análise de mensagens e dados telefônicos.
+Ademais, para a desconstituição dessas premissas assentadas nas instâncias precedentes, seria necessário o reexame do contexto fático-probatório, providência vedada nesta via estreita (AgRg no HC n. 883.069/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 11/4/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. NULIDADES. ILEGALIDADE NA BUSCA PESSOAL E INVASÃO DE DOMICÍLIO. PRESENÇA DE FUNDADAS RAZÕES. PRECEDENTES. VIOLAÇÃO DO SIGILO NA COMUNICAÇÃO TELEFÔNICA. AUSÊNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
