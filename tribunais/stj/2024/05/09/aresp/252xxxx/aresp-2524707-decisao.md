@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+"Apelação cível. Plano de saúde. Custeio de despesas com tratamento realizado no exterior. Sentença de procedência. Recurso da ré. Relação de consumo configurada. Aplicação da Súmula 608 do C. STJ.
+Contrato de seguro saúde que prevê reembolso de despesas médicas realizadas no exterior. Autora teve diverticulite perfurada durante viagem a Israel. Realizadas cirurgias e disponibilizado tratamento em UTI. Reembolso devido. Pagamento feito diretamente ao hospital que não ocasionou prejuízo à requerida. Cumprimento a tutela de urgência deferida em sentença favorável à autora.
+Limitação de reembolso. Previsão contratual obscura. Violação ao dever de informação. Cláusula que dificulta compreensão e alcance. Cláusulas restritivas devem ser redigidas de forma clara e objetiva. Inteligência dos arts. 6º, III, 46 e 54, §4º, CDC. Devido o reembolso integral. Sentença mantida.
+Apelação não provida"
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte aponta violação aos arts. 85, §§ 2º e 6º, 489, § 1º, incisos III e IV, 927, e 1.022, inciso I, e 1.039 do Código de Processo Civil e art. 51 do Código de Defesa do Consumidor, sustentando, além de negativa de prestação jurisdicional, que deve a parte agravada ser compelida a pagar todas as despesas despendidas com o tratamento e que os honorários advocatícios devem ter a base de cálculo da condenação.
+Contrarrazões às fls. 494/505 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, quanto à preliminar de negativa de prestação jurisdicional, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa violação à sua norma de regência.
+A parte agravante postula, nesta sede, que a adversa seja condenada ao reembolso integral das despesas realizadas com o tratamento ocorrido no exterior e que a base de cálculo dos honorários advocatícios seja o proveito econômico.
+Quanto ao reembolso dos valores dispendidos no tratamento, o acórdão recorrido foi claro ao expor que a condenação abrangia o valor integral do tratamento, de modo que não há interesse em recorrer da parte neste ponto, uma vez que a adversa deverá fazer o pagamento diretamente ao hospital.
+O valor devido a título de dano material é o de R$ 11.425,00, referentes ao reembolso dos custos arcados pela própria parte.
+Por outro lado, com razão a agravante quanto À base de cálculo dos honorários advocatícios.
+Sobre o tema, este Superior Tribunal de Justiça possui jurisprudência, firmada sob o rito dos recursos representativos de controvérsia, no sentido de que "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos § § 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, DJe de 31/5/2022).
+Assim, tendo em vista o vocábulo "subsequentemente" utilizado no precedente vinculante, verifica-se que o valor da condenação é a primeira base de cálculo a se adotar.
+No caso, o valor da condenação, abrange tanto os valores a título de indenização por danos morais quanto os valores pagos diretamente ao hospital pelo tratamento da paciente, vejamos:
+"Ante o exposto, JULGO PROCEDENTE a presente ação e, em consequência, condeno a ré a custear integralmente todas as despesas incorridas em função dos procedimentos hospitalares e médicos que a autora foi submetida no exterior até sua efetiva alta, diretamente ao hospital, bem como a indenizar a autora no valor de R$11.425,00, a ser acrescido de correção monetária a contar do desembolso pela autora e de juros de mora de 1% ao mês a contar da citação"
+O simples fato de o valor ter sido pago diretamente ao hospital não descaracteriza a condenação da agravada, uma vez que se não houvesse a previsão, os valores seriam despendidos pela paciente.
+Em face do exposto, dou parcial provimento ao recurso especial para que os honorários advocatícios tenham como base de cálculo o valor global da condenação da agravada.
+Intimem-se.
+EMENTA
