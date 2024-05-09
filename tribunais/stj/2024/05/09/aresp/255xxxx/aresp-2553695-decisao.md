@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDIO SABINO CARVALHO FILHO contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 67):
+AGRAVO DE INSTRUMENTO. RESIDUAL. AÇÃO DE COBRANÇA C/C RESCISÃO CONTRATUAL E INDENIZAÇÃO POR PERDAS E DANOS. COMPRA E VENDA DE BOVINOS EM LEILÃO VIRTUAL. PEDIDO DE JULGAMENTO ANTECIPADO PARCIAL DEMÉRITO. IMPOSSIBILIDADE. AUSÊNCIA DE FATO INCONTROVERSO (ART. 356, I, DO CPC). CULPA PELA INEXECUÇÃO DO CONTRATO IMPUGNADA PELA PARTE ADVERSA. NECESSIDADE DE AGUARDAR A INSTRUÇÃO PROCESSUAL. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 104-111).
+Nas razões do recurso especial (e-STJ, fls. 115-140), a recorrente apontou violação aos arts. 355, I, e 356, I, 489, §1º, IV e VI, do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, deficiência na fundamentação do acórdão recorrido e a possibilidade do julgamento antecipado parcial do mérito em relação à cobrança dos valores inadimplidos referentes aos Touros CSCN 17526, CSCN 17417, CSCN 18257, tendo em vista que há fatos incontroversos, aptos a dispensar a produção de outras provas para o convencimento do julgador.
+Foram apresentadas contrarrazões (e-STJ, fls. 152-165).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, ressalte-se que, devidamente analisadas e fundamentadas as matérias suscitadas pela parte, não há que se falar em inobservância ao disposto nos incisos do § 1º do art. 489 do CPC/2015, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.
+1. Ação de compensação por danos morais, em decorrência de negativa de fornecimento de medicamento para tratamento médico de doença coberta.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 2.000.122/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/5/2022, DJe 4/5/2022.)
+O Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 69-73, sem grifo no original):
+2. Cinge-se a controvérsia em saber se merece reforma a decisão pela qual foi indeferido o pedido da parte agravante concernente ao julgamento antecipado parcial de mérito, sob os seguintes fundamentos:"O Juízo somente procederá julgamento após solução de todos. os pontos controvertidos, ou seja, após a instrução processual. Não é adequado e não se justifica o julgamento parcial de mérito condenatório pretendido, até porque a parte ré sustentou razões para o alegado não pagamento, tudo ainda a ser. Aqui, a parte pretende examinado após a produção probatória que prevaleça seu entendimento sobre os fatos, que não comporta guarida em embargos de declaração."
+O pedido que se pretende o imediato julgamento foi formulado nos seguintes termos:
+i. A julgar totalmente procedente o presente pedido condenando a Ré ao pagamento do montante de R$ 119.461,33 (cento e dezenove mil e quatrocentos e sessenta e um reais e trinta e três centavos), referente ao valor dos animais adquiridos do Autor(LOTE 10 - NOTA 21. ANIMAL CSCN 17526 / LOTE 51 -NOTA59. ANIMAL CSCN 17417 / LOTE 114 - NOTA 114. ANIMAL CSCN 18257), devidamente corrigido e acrescido de juros demora, desde o inadimplemento até a data de seu efetivo pagamento, além, evidentemente da condenação ao pagamento das custas e despesas processuais e honorários advocatícios, nos termos do art. 85 do CPC.
+Logo, percebe-se que a parte agravante requer a imediata condenação da parte ré/agravada ao pagamento dos valores que defende que deveriam ter sido pagos em razão da venda e entrega de três animais, com a incidência de correção monetária, além dos corolários da mora, consubstanciados em juros moratórios e multa contratual de 20% sobre o saldo devedor.
+Sendo assim, embora a parte agravante alegue ser incontroversa a inadimplência das parcelas relativas aos três animais que foram entregues, o que ensejaria a aplicação do artigo 356, I, do CPC, percebe-se que a parte adversa impugna a alegação de inexecução culposa do contrato, trazendo suas próprias justificativas para o fato de não ter efetuado os pagamentos, para, com isso, afastaras consequências de eventual mora, sendo deferida a produção de provas para comprová-la.
+( )
+De outro vértice, quanto à questão relativa a saber se há necessidade de produção de outras provas (art. 355, I, do CPC), vale ressaltar que cabe ao Magistrado, por meio da análise das provas que instruem os autos, formar sua convicção.
+( )
+Assim, se o julgador natural da causa entendeu pela necessidade o seu convencimento, sob o fundamento de que de instrução do feito para formar "os fatos são controversos e complexos, exigindo prévia instrução processual, inclusive com provas deferidas pelo Juízo", ao passo que "o adequado, portanto, até para evitar novos tumultos processuais e abertura de novos recursos, é um julgamento único, não se mostrando adequada cisão com julgamento parcial de mérito, até porque todos os fatos estão imbricados, até mesmo nos temas invocados em reconvenção" (mov. 128.1 dos autos de origem) não há como alterar tal conclusão.
+A propósito, vejam-se os pontos fixados como controvertidos no despacho saneador:
+Em segundo espeque, traço os pontos controversos que deverão ser objeto de prova para melhor elucidação:
+1. Houve inadimplemento contratual pelas duas partes contratantes ou por apenas uma delas
+2. Quais obrigações contratuais foram descumpridas pelas partes e em que momento
+3. Quais as condições pactuadas para entrega dos animais após a arrematação
+4. Por quais motivos os bovinos (1)LOTE 01 - NOTA 03. ANIMAL CSCQ 283, LOTE 10 - NOTA 02. ANIMAL CSCN 17616, e LOTE28 - NOTA 38.(2) (3) ANIMAL CSCN 18000 não foram entregues à ré após a assinatura dos contratos e pagamento da comissão do leiloeiro/primeiras duas parcelas mensais
+5. O autor/reconvindo e/ou réu/reconvindo experimentaram danos materiais decorrentes do inadimplemento contratual  Se sim, qual a extensão
+6. Foi realizada a transferência de 33,33% da titularidade do animal Garrote macho Nelore Naviraí (Puro de Origem), com registro CSCN 18.000  (3) LOTE 28 - NOTA 38 , do autor para a ré  Se sim, em qual data  Foram pagos valores a título de royalties ao autor pela industrialização e comercialização de sêmen do semovente pela empresa ALTA GENETICS DO BRASIL LTDA após 23/08/2020  Se sim, quais valores  (mov. 84.1)
+Nesse contexto, em se tratando de seis contratos cujas cláusulas contratuais, muitas das quais, são idênticas, referentes a cada um dos seis animais, devem receber interpretação conforme, o que corrobora a necessidade de julgamento único, para que não se incorra até mesmo em um pré-julgamento de causa não madura.
+Consoante dispõe o art. 356, caput, I e II, e § 5º, do CPC/2015, o juiz decidirá parcialmente o mérito quando um ou mais dos pedidos formulados ou parcela deles mostrarem-se incontroversos ou estiver em condições de imediato julgamento, nos termos do art. 355 do referido diploma legal.
+Na hipótese dos autos, as instâncias ordinárias consignaram que "os fatos são controversos e complexos, exigindo prévia instrução processual" (e-STJ, fl. 71).
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 489 DO CPC/2015. NÃO VISLUMBRADA. IMPOSSIBILIDADE DE JULGAMENTO ANTECIPADO PARCIAL DE MÉRITO. FATOS CONTROVERSOS E COMPLEXOS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REVISÃO DAS CONCLUSÕES ALCANÇADAS PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
