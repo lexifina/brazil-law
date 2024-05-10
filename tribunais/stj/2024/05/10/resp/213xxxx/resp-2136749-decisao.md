@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRUNO NUNES BELIZARIO e JULIANO BRAGHINI VIEIRA, com fulcro no art. 105, III, "a", da Constituição, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o juízo de primeiro grau julgou procedente a denúncia para condenar os recorrentes pela prática do crime descrito no art. 157, §2º, inciso II e VII, do Código Penal às penas de 6 anos, 9 meses e 25 dias de reclusão, e mais 20 dias-multa, em regime fechado, em relação ao Bruno e às penas de 6 anos, 5 meses de reclusão, e mais 20 dias-multa, em regime fechado, em relação ao Juliano.
+Irresignada, a defesa interpôs recurso de apelação à Corte de origem, que deu parcial provimento ao apelo do recorrente Bruno, a fim de reduzir a pena aplicada ao patamar de 6 anos e 5 meses de reclusão, nos termos do acórdão juntado às fls. 522-525, com a seguinte ementa:
+APELAÇÃO CRIME. CRIMES CONTRA O PATRIMÔNIO. ROUBOS DUPLAMENTE MAJORADOS EM CONCURSO FORMAL DE CRIMES. JUÍZO DE RETRATAÇÃO QUANTO AO PRIMEIRO RÉU. ART. 1.030, INC. II, DO NOVO CÓDIGO DE PROCESSO CIVIL. AGRAVANTE DA REINCIDÊNCIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO. POSSIBILIDADE.
+Na segunda fase do cálculo da privativa de liberdade, admissível a compensação entre a atenuante pela confissão espontânea, ainda que qualificada, e a agravante pela reincidência. Alteração de entendimento em atenção ao REsp nº 1.341.370/MT, TEMA 585-STJ. ACÓRDÃO REFORMADO EM JUÍZO DE RETRATAÇÃO.
+Daí o presente recurso especial, interposto com fulcro no art. 105, III, "a", do permissivo constitucional, em que a defesa sustenta a violação aos arts. 65, inciso III, alínea "d" e 67 do Código Penal em relação ao recorrente Bruno, sob a premissa de que as instâncias ordinárias deixaram de realizar a compensação integral entre a atenuante de confissão espontânea e a agravante de reincidência.
+Em relação a ambos, a defesa sustenta a violação aos art. 157, §2º, incisos II e VII, do Código Penal e art. 381, inciso III, do Código de Processo Penal, em razão da ausência de fundamentação válida para a incidência cumulativa das causas de aumento, estando, assim, em desacordo com o disposto na súmula n. 443/STJ.
+Foram oferecidas contrarrazões (fls. 489/502).
+O recurso especial foi admitido (fls. 505-508).
+O Ministério Público Federal, às fls. 564-568, opinou nos termos da seguinte ementa:
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. ARMA BRANCA E CONCURSO DEAGENTES. FRAÇÃO DE AUMENTO ACIMA DO MÍNIMOLEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 443/STJ. PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+Conforme relatado, a defesa defende a violação aos arts. 65, inciso III, alínea "d" e 67 do Código Penal em relação ao recorrente Bruno, sob a premissa de que as instâncias ordinárias deixaram de realizar a compensação integral entre a atenuante de confissão espontânea e a agravante de reincidência.
+Em relação a ambos, a defesa sustenta a violação aos art. 157, §2º, incisos II e VII, do Código Penal e art. 381, inciso III, do Código de Processo Penal, em razão da ausência de fundamentação válida para a incidência cumulativa das causas de aumento, estando, assim, em desacordo com o disposto na súmula n. 443/STJ.
+Inicialmente, ante a comprovação do óbito do réu Bruno - Certidão de Óbito de fls. 515-517 -, observa-se que resultou prejudicado o recurso da defesa. Assim, declaro extinta a punibilidade do agente, com fundamento no art. 107, inc. I, do Código Penal.
+No que se refere ao segundo pleito do recorrente Juliano, assim se pronunciou o Tribunal de origem (fl. 525):
+Na terceira fase, as penas foram exasperadas de 3/8, reconhecidas duas causas de aumento - comunhão de esforços e conjugação de vontades entre os réus e emprego de arma branca - expedientes que potencializaram o poder de ofensa aos bens jurídicos tutelados, pelo que bem lançado o nominado acréscimo, atingindo, agora, cada fato, 05 anos e 06 meses de reclusão.
+Por fim, considerado o concurso formal de crimes, duas esferas patrimoniais sendo atingidas mediante uma ação pelo réu, aplica-se uma das penas, por idênticas, mas acrescida de 1/6, culminando definitiva de 06 anos e 05 meses de reclusão, inalteradas as demais cominações conforme o respectivo voto.
+De acordo com o disposto no enunciado n. 443 da Súmula/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Consoante entendimento desta Corte, o que legitima a majoração da reprimenda acima do patamar mínimo não é a quantidade de causas de aumento de pena que incidem ao caso, e sim a fundamentação emitida pelo órgão julgador.
+É perfeitamente admissível, desde que motivados, o decisório que, diante de uma única causa de aumento de pena, exacerbe a reprimenda acima do mínimo legal, bem como aquele que, ante a ocorrência de mais de uma majorante, determine o acréscimo da pena no patamar mínimo. Portanto, qualquer que seja a solução, ela deve ser fundamentada. Não pode ser automática. Isso porque o Código Penal diz, tanto no parágrafo único do art. 68, como no § 2º do art. 157, "pode o juiz" e "aumenta-se de 1/3 até metade", indicando claramente, que a opção do magistrado há que ser fundamentada, sob pena de se transmutar a discricionariedade permitida com um inaceitável arbítrio próprio do princípio da convicção íntima.
+No presente caso, o magistrado bem fundamentou a fração das majorantes, considerando a superioridade numérica dos agentes e o uso de uma faca para a execução do crime.
+Com efeito, não foi considerado somente o critério numérico das majorantes, como alega o recorrente, mas houve a devida fundamentação concreta, em consonância com jurisprudência pacífica deste Tribunal Superior.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
