@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOSIBERTO FERREIRA OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende-se dos autos que o Recorrente se encontra preso, cautelarmente, pela suposta prática das condutas descritas nos -art. 121, §2º, VII c/c art. 14, II, do Código Penal e arts. 33 e 40 da Lei 11.343/06 e art. 14 da Lei 10.826/03 e art. 2º, caput, §2º, da Lei 12.850/13- (fl. 433). Irresignada, a Defesa impetrou habeas corpus perante o Tribuna a quo. A ordem foi denegada pela Corte de origem, em acórdão, às fls. 431-444.
+No presente recurso, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Recorrente, apontando excesso de prazo para a formação da culpa.
+Aduz que "o recorrente encontra-se preso desde 07 de abril de 2023, ou seja, há 368 (trezentos e sessenta e oito) dias, cerca de mais de 01 (um) ano, sem realização de nenhuma audiência de instrução e julgamento" (fl. 459).
+Requer:
+"1. que seja conhecido e provido o presente recurso, seguido o procedimento nos termos dos artigos 31 e 32 da Lei n.º 8.038/90, para o fim de reformar o acórdão recorrido;
+2. a concessão do pedido liminar por estar evidente a existência do fumus boni iuris e periculum in mora, determinando a imediata liberdade provisória do recorrente, mediante imposição de medidas cautelares diversas da prisão, com a imediata expedição de Alvará de Soltura;
+3. o regular prosseguimento do feito, para que ao final que sejam os autos conclusos para julgamento, nos termos do Regimento Interno deste Colendo Tribunal;
+4. no mérito, a concessão definitiva do writ originário" (fls. 465-466).
+É o relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada:
+"Verifico que a tese foi analisada no julgamento do habeas corpus de n º 0632766-15.2023.8.06.0000 em 07/11/2023, ficando constatado que o trâmite processual encontrava-se dentro dos limites da razoabilidade, diante das peculiaridades da causa, marcada por 02 réus, processamento por vários crimes e principalmente porque não se verificou desídia da autoridade processante na condução do feito. Vejamos a ementa:
+ ..
+Contudo, transcorrido o lapso temporal superior a 04 (quatro) meses, entendo como mais adequado uma nova análise da ação penal originária.
+Em novo exame dos autos de origem de nº 0202531-27.2023.8.06.0293, após o julgamento daquele habeas corpus, verifico que o ato audiencial foi designado para o dia 21/11/2023 foi cancelado porque magistrado estava em outra Comarca realizando Júri, conforme certidão de pág. 275.
+Em audiência de 24/01/2024, foi realizada a oitiva das testemunhas de defesa e o ato audiencial foi redesignado pela ausência de testemunhas de acusação e defesa. Naquela oportunidade, o parquet requereu a juntada do laudo pericial da arma de fogo, e dos entorpecentes apreendidos, a abertura de prazo para endereço de testemunha e a defesa do correu solicitou o encaminhamento do laudo residuográfico realizado no outro acusado.
+Até a presente data, o Juízo de origem não marcou nova data para continuidade da audiência de instrução.
+Assim, em análise dos autos, em que pese a não designação da continuidade do ato audiencial, considero não haver o constrangimento ilegal alegado pelos impetrantes, sobretudo pela complexidade do feito, com incidência da súmula 15 do TJCE 6 , conforme já mencionado no writ anterior.
+Em que pese os atrasos na marcha processual, assevero que o Juízo processante busca conferir andamento ao processo, impulsionando o feito em ritmo compatível com as particularidades da demanda.
+Todavia o ato audiencial não foi realizado por responsabilidade do Juízo, de modo que entendo como adequado a recomendação que o magistrado de primeiro grau adote as necessárias providências no sentido de ultimar a audiência de instrução e julgamento e julgar o feito com a maior brevidade possível, por se tratar de réu preso" (fls. 440-443).
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, na qual se apura as condutas de tentativa de homicídio qualificado, tráfico ilícito de entorpecentes, porte ilegal de arma de fogo e organização criminosa, demonstrando a complexidade do feito diante da diversidade de condutas e da pluralidade de pessoas envolvidas em práticas delitivas, 2 (dois) réus; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Sobre o tema:
+"In casu, verifica-se que não se constata flagrante ilegalidade por excesso de prazo na formação da culpa quando o processo segue regular tramitação. Extrai-se das informações prestadas pelas instâncias ordinárias, bem como do andamento processual da ação originária no site do Tribunal estadual, que a insatisfação da agravante com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculiaridades, considerando a complexidade do processo, no qual se apura a prática dos delitos de tráfico de drogas, associação ao tráfico de entorpecentes e posse de arma de fogo, com pluralidade réus - 4 -, representados por advogados distintos, demandando a realização de diversas diligências" (AgRg no RHC n. 174.284/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/5/2023).
+Por fim, no que concerne ao pleito de imposição de medidas cautelares diversas da prisão; verifico que a quaestio não foi objeto de deliberação no acórdão hostilizado, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+"Sob pena de indevida supressão de instância, mostra-se inviável a manifestação desta Corte sobre questão não debatida pelo Tribunal de origem, como ocorre no caso, quanto ao pleito de aplicação de medidas cautelares alternativas" (AgRg no HC n. 874.145/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
