@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu o pedido liminar em habeas corpus apresentado na origem.
+Imputa-se ao paciente a prática do crime de homicídio qualificado ( 121 §2º, inciso IV, do CP). Consta que foi condenado, em primeira instância, à pena de 15 anos de reclusão.
+A defesa alega, em síntese, que houve bis in idem na aplicação da qualificadora de motivo torpe, uma vez que a mesma foi utilizada tanto para qualificar o delito quanto para agravar a pena na segunda fase da dosimetria. Além disso, argumenta a ausência de reconhecimento de atenuante da confissão espontânea. Adicionalmente, critica a forma como foi aplicada a redução da pena na segunda fase da dosimetria, com base no artigo 65, inciso I, do Código Penal. Destaca que a redução efetuada pelo magistrado foi de apenas um ano, enquanto que, seguindo as orientações do Egrégio Tribunal de Justiça, que recomenda uma redução de um sexto sobre a pena base, a redução adequada deveria ter sido de dois anos.
+Ao final, requer a concessão da ordem para que o paciente seja colocado imediatamente em liberdade, conforme ocorreu durante todo o trâmite processual, e que seja determinada a expedição de alvará de soltura em seu favor. Além disso, pugna para que, ao final do processo, seja concedida de forma definitiva a ordem do presente habeas corpus, permitindo que o paciente possa recorrer em liberdade.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
