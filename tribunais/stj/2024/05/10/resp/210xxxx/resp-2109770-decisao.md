@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLEIDSON DIAS, com fulcro no art. 105, III, "a", da Constituição, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi condenado à pena de 02 anos, 04 meses e 24 dias de reclusão, em regime semiaberto, e 12 dias-multa, pela prática do crime previsto no art. 155, §4º, inciso II, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação à Corte de origem, que deu parcial provimento ao apelo, para reconhecer a forma privilegiada do crime, substituir a pena de reclusão por detenção, reduzir as p enas impostas para 2 anos de detenção e pagamento de 10 dias-multa, fixar o regime prisional aberto e substituir a sanção corporal por restritiva de direitos, nos termos do acórdão juntado às fls. 279-287.
+Daí o presente recurso especial, interposto com fulcro no art. 105, III, "a", do permissivo constitucional, em que a defesa sustenta a violação ao art. 14, II, do Código Penal, ao argumento de que iter criminis p ercorrido é ínfimo.
+Alega, também, a violação ao art. 65 do Código Penal, ao argumento de que o afastamento da circunstância atenuante referente à confissão espontânea é indevido uma vez que houve confissão informal por parte do réu.
+Aduz, por fim, violação ao art. 155, § 2º, do Código Penal, sob a premissa de que o réu possui condições favoráveis sendo devido somente uma pena de multa ou mesmo a diminuição da pena em 2/3.
+Foram oferecidas contrarrazões (fls. 325/330).
+O recurso especial foi admitido (fls. 333-334).
+O Ministério Público Federal, às fls. 346/353, opinou pelo parcial provimento do recurso especial, nos termos da seguinte ementa:
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. FURTO PRIVILEGIADO. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAN. 7/STJ. TERCEIRA FASE DA DOSIMETRIA. FURTO PRIVILEGIADO RECONHECIDO. ALTERNATIVAS DO ART. 155, § 2º, DO CP. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE APLICAÇÃO DE MODALIDADE MENOS GRAVOSA. PARECER PELO PARCIAL PROVIMENTO DA PRETENSÃO RECURSAL.
+1. Essa c. Corte Superior editou a Súmula nº 545, que assim dispõe: "Quando a confissão for utilizada para a formação do convencimento do julgador, o apelante fará jus à atenuante prevista no art. 65, III, d, do Código Penal". Importante consignar ainda que é irrelevante ser a confissão parcial ou total, condicionada ou irrestrita, com ou sem retratação posterior, judicial ou extrajudicial;
+2. Na espécie, as instâncias ordinárias concluíram que o Recorrente, em momento algum, confessou a prática do delito que lhe foi imputado, ainda que de forma parcial ou qualificada. Para alterar essa conclusão, in casu, necessário seria o reexame do arcabouço fático-probatório, providência vedada em sede de recurso especial, conforme estampado pelo verbete Sumular nº 7 desse c. STJ;
+3. Segundo a jurisprudência desse c. STJ "(..) reconhecida a figura do furto privilegiado, cabe ao julgador, obedecendo ao livre convencimento motivado, escolher entre as opções legais apresentadas no § 2º do art. 155 do Código Penal, devendo fundamentar sua decisão nas circunstâncias do caso concreto e particularidades do agente, a fim de obter a solução mais adequada e suficiente como resposta penal à conduta praticada" (AgRg noHC n. 726.958/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de31/5/2022, grifei)." (AgRg no HC n. 811.161/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/8/2023, DJe de 23/8/2023);
+4. No caso em tela, observa-se que não houve fundamentação idônea para aescolha de alternativa mais severa dentre as dispostas no § 2º do art. 155, do Código Penal, baseando-se a instância a quo na gravidade abstrata do delito. Desse modo, ainda que não seja o caso da opção mais benéfica, entende-se ser viável a alteração da pena considerando as circunstâncias específicas do caso em apreço;
+5. Parecer pelo parcial provimento da pretensão recursal.
+É o relatório.
+Decido.
+Conforme relatado, a defesa sustenta a violação ao art. 14, II, do Código Penal ao argumento de que iter criminis percorrido é ínfimo.
+Alega, também, a violação ao art. 65 do Código Penal, ao argumento de que o afastamento da circunstância atenuante referente à confissão espontânea é indevido uma vez que houve confissão informal por parte do réu.
+Aduz, por fim, violação ao art. 155, § 2º, do Código Penal, sob a premissa de que o réu possui condições favoráveis sendo devido somente uma pena de multa ou mesmo a diminuição da pena em 2/3.
+Em consulta ao sistema processual desta Corte Superior, as pretensões sobre reconhecimento da tentativa e o reconhecimento da atenuante referente à confissão espontânea são meras reiteração de pedidos formulados no HC 840.881/SP, em que a ordem foi denegada, como também, a pretensão da defesa em aplicar somente uma pena de multa é mera reiteração de pedido formulado no HC n. 841.029/SP, em que a ordem foi concedida.
+Assim, tendo sido a matéria previamente analisada por esta Corte, em impetração formulada pelo ora recorrente, inviável proceder-se novo exame, porquanto "a anterior manifestação desta Corte, em habeas corpus com idêntico objeto, torna prejudicado o julgamento do recurso especial" (AgRg no REsp 1765289/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/03/2019, DJe 04/04/2019).
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
