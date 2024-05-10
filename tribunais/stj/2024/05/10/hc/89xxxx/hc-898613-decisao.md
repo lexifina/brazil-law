@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 39):
+HABEAS CORPUS - Roubo Majorado - Art. 157, § 2º, II, e § 2º-A, I, cc. art. 29, ambos do Código Penal Sentença condenatória.
+1. Insurgência contra a sentença condenatória, asseverando que a violação de domicílio do paciente pelos policiais, sustentando a ausência de fundadas razões para tanto, que não houve situação de flagrância, bem como que não houve autorização da genitora do paciente para que pudessem adentrar o imóvel - NÃO CONHECIMENTO - Impetração sob os mesmos argumentos de outro pedido já apreciado por esta Corte, registrado sob nº 2181724-97.2023.8.26.0000, o qual foi denegado.
+2. Insurgência contra a negativa ao recurso em liberdade, mediante sentença carente de fundamentação concreta, e a despeito de tal possibilidade - NÃO VERIFICADO - Não se vislumbra ilegalidade aparente a macular a r. sentença ora hostilizada, restando demonstrada de forma adequada a presença dos requisitos ensejadores da prisão preventiva a amparar a negativa do recurso em liberdade, em consonância com os artigos 312 e 387, § 1º, ambos do CPP e artigo 93, inc. IX, da Constituição Federal.
+Ordem parcialmente conhecida e, nesta extensão, denegada.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no artigo 157, § 2º, II, e § 2º-A, I, nos termos do art. 29, do Código Penal, à pena de 12 anos, 1 mês e 5 dias de reclusão, em regime inicial fechado, e ao pagamento de 26 dias-multa.
+A defesa do paciente alega que houve violação à inafastabilidade da jurisdição, sob o argumento de que não se trata de reiteração dos mesmos argumentos, pois há fatos novos e a situação é diferente, pois que o impetrante agora se atém às premissas fáticas contidas na sentença combatida.
+Sustenta ser cabível, em sede do writ, a valoração de provas, conforme jurisprudência do STJ.
+Argumenta, ainda, que há nulidade cognoscível de plano, decorrente da possibilidade de o paciente poder recorrer em liberdade, expondo considerações fáticas e jurídicas a respeito das provas relacionadas à sustentada violação de domicílio, assim o fazendo inclusive com amparo em jurisprudência.
+Requer, liminarmente e no mérito, a concessão da ordem permitindo-se ao paciente o direito de recorrer em liberdade, bem como de se determinar a análise do mérito pelo Tribunal de origem.
+A liminar foi indeferida (fls. 116-117). As informações foram prestadas (fls. 123-165) e o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 169-174).
+A respeito da questão, dispôs o Tribunal de origem (fl. 42-45):
+Inicialmente, cumpre consignar que, no tocante a asseverada violação de domicílio do paciente por parte dos policiais, diante da ausência de fundadas razões, sustentando que não houve situação de flagrância, que os policiais foram à residência do paciente apenas em razão de confissão informal do corréu Hugo, bem como que não houve autorização da genitora do paciente para que pudessem adentrar o imóvel, este pedido revela que se cuida de reiteração, sob os mesmos fundamentos de outro habeas corpus, impetrado pelo mesmo impetrante em favor do mesmo paciente, registrado nesta Corte sob o nº 2181724-97.2023.8.26.0000, julgado em sessão realizada no dia 16/8/2023, pelo qual denegaram a ordem impetrada, por votação unânime, assim ementado:
+ ..
+Ressalte-se que, contra aludido julgado, foram opostos embargos declaratórios, rejeitados em sessão de julgamento realizada em4/9/2023, em votação unânime.
+Com efeito, a matéria in casu já foi alvo de análise perante esta Instância, de forma que o paciente já obteve a prestação jurisdicional a que tinha direito, neste ponto.
+Não cabe reiteração de habeas corpus lastreado nos mesmos argumentos do anterior e sem fatos novos que tenham modificado a situação processual do paciente.
+ ..
+Com efeito, satisfeita a prestação jurisdicional, com o indeferimento do writ anteriormente impetrado, afigura-se incabível novo pedido sob o mesmo fundamento, estando o mandamus com sua análise prejudicada, neste particular.
+Verifica-se que a questão relativa à sustentada violação de domicílio não foi objeto de análise por parte do Tribunal de origem, por se tratar de mera reiteração, razão pela qual não poderá ser conhecida no STJ por indevida supressão de instância. Em situações semelhantes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. NULIDADE DO JULGAMENTO NA ORIGEM. AUSÊNCIA DE INTIMAÇÃO. NÃO VERIFICAÇÃO. CERTIDÃO DE PUBLICAÇÃO. 2. INVASÃO DE DOMICÍLIO. SITUAÇÃO DE FLAGRANTE IMPRÓPRIO. EXCEÇÃO CONSTITUCIONAL. AUSÊNCIA DE NULIDADE. 3. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. MATÉRIAS NÃO ANALISADAS. MERA REITERAÇÃO. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. No que diz respeito ao pedido de trancamento da ação penal por inépcia da denúncia e por ausência de justa causa, verifico que os temas não foram tratados no acórdão impugnado, por se tratar de mera reiteração. Dessa forma, também não é possível o exame por essa Corte Superior.
+4. Agravo regimental a que se nega provimento. (AgRg no RHC n. 177.769/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. PRISÃO PREVENTIVA. INSURGÊNCIA. REITERAÇÃO DE WRIT ANTERIOR IMPETRADO NA ORIGEM. MATÉRIA NÃO ANALISADA NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. CAUTELARES DIVERSAS DA PRISÃO. NÃO CABIMENTO. PRISÃO DECRETADA PELO DESCUMPRIMENTO DE MEDIDAS ALTERNATIVAS. EXCESSO DE PRAZO. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo reiteradas manifestações desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental, como ocorre, in casu.
+2. A impugnação aos fundamentos da prisão cautelar foi analisada em habeas corpus diverso, impetrado no Tribunal de origem. Por se tratar de mera reiteração de pedido, o Tribunal local não conheceu da insurgência. Dessa forma, esta Corte não pode avançar na análise dos temas, sob pena de indevida supressão de instância, forma que não é possível sanar o evidente erro na impetração. Precedentes.
+ ..
+7. Agravo regimental desprovido. (AgRg no HC n. 812.208/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. BUSCA E APREENSÃO DOMICILIAR. ORDEM JUDICIAL FUNDAMENTADA EM INVESTIGAÇÃO PRÉVIA DE ORGANIZAÇÃO CRIMINOSA. PROVAS LÍCITAS. INCOMPETÊNCIA TERRITORIAL RELATIVA DO JUÍZO. MERA REITERAÇÃO DE PEDIDOS DESDE A ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PREJUÍZO NÃO DEMONSTRADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+IV - Outrossim, o eg. Tribunal de origem não promoveu o debate acerca da tese de incompetência do d. Juízo da Comarca de Guarapari/ES, o qual expediu o mandado de busca e apreensão em face da parte agravante. Tratava-se, pois, de uma mera reiteração de pedidos antes debatida na exceção de incompetência n. 0003521-56.2021.8.08.0021, ensejando agora reconhecer a indevida supressão de instância. Ademais, não obstante a competência territorial seja de natureza relativa, o eg. Tribunal a quo consignou a ausência de demonstração de prejuízo in casu.
+V - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido. (AgRg no RHC n. 162.906/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
