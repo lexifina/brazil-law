@@ -1,0 +1,31 @@
+DECISÃO
+A  controvérsia  se  encontra  bem  delimitada  pelo  parecer  ministerial,  in  verbis:
+O  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais,  por  sua  5ª  Câmara  Criminal,  negou  provimento  ao  recurso  de  apelação  interposto  pela  defesa,  mantendo  a  condenação  de  WESLEY  FLAVIO  DASILVA  à  pena  de  5  (cinco)  anos  e  6  (seis)  meses  de  reclusão,  em  regime  inicial  fechado  (reincidência),  além  da  multa,  pela  prática  do  delito  tipificado  no  art.  157,  §  2º,  I  e  II,  do  Código  Penal  (roubo  duplamente  qualificado),considerando  os  fatos  assim  narrados  nos  autos  (e-STJ  fl.  59):
+Narra  a  denúncia  que,  no  dia  18  de  setembro  de  2007,  por  volta  da  zero  hora,  no  Bairro  Padre  Chio,  em  Campo  do  Meio,  os  denunciados  Mateus  e  Joseffer,  mediante  violência  e  grave  ameaça,  com  emprego  de  arma  de  fogo,  sob  a  orientação  dos  denunciados  Wesley  e  Gleiton,  mentores  do  delito,  subtraíram  da  vítima  Evaldo  Braz  de  Almeida,  vigia  noturno,  a  motocicleta  Honda  NXR  Broz,  150cc,  vermelha  placa  HAP  5088,  avaliada  em  R$  6.500,00  (seis  mil  e  quinhentos  reais),  além  da  aparelho  telefônico  celular  marca  Motorola  V3  e  o  capacete  de  cor  vermelha,  evadindo-se  em  seguida.
+A  defesa  pleiteia,  no  presente  habeas  corpus,  o  afastamento  da  causa  de  aumento  de  pena  referente  ao  emprego  de  arma  de  fogo.
+É  a  síntese  do  necessário.
+
+  Prestadas  as  informações,  o  Parquet  Federal  opinou,  então,  pela  denegação  da  ordem.
+É  o  relatório.
+Decido.
+O  writ  não  merece  conhecimento.
+Importante  consignar  que,  conforme  sentença  anexada  pela  defesa  às  e-STJ  fls.  12/32,  o  paciente  foi  condenado,  em  primeiro  grau  de  jurisdição,  pela  prática,  em  18  e  20  de  setembro  de  2017,  dos  delitos  dos  arts. 157,  §  2º,  I  e  II  (roubo  majorado  pelo  concurso  de  agentes  e  emprego  de  arma  de  fogo),  e  147  (ameaça),  ambos  do  Código  Penal  e  cometidos  em  concurso  material,  tendo  sido  fixadas  as  reprimendas  respectivas  de  5  anos,  9  meses  e  10  dias  de  reclusão  e  2  meses  de  detenção,  em  regime  inicial  semiaberto.  Na  referida  sentença,  narrou-se  a  prática  do  delito  de  roubo  em  concurso  com  os  corréus  GLEITON  MORAIS  MACHADO,  MATEUS  DE  PAULA  VITOR  MARANGÃO  e  JOSEFFER  CABRAL,  tendo  como  vítima  o  Sr.  Evaldo  Braz  de  Almeida.
+A  defesa  não  juntou  o  acórdão  da  apelação,  sendo  que  a  apelação  fornecida  pelas  informações  prestadas  pelo  Tribunal  de  origem  (e-STJ  fls.  56/67)  se  refere  a  fatos  cometidos  em  data  diferente  (20  de  março  de  2009)  dos  crimes  ora  em  questão,  e  em  comparsaria  com  um  outro  indivíduo  (WEVERTON  BERNARDES  SILVA),  tendo  como  vítimas  outros  ofendidos  (Uesclei  Cardoso  e  Adalberto  Cardoso).  Assim,  o  acórdão  contra  o  qual  se  insurge  a  defesa  não  é  o  fornecido  pela  instância  de  origem,  e não  houve  a  juntada  do  acórdão  correto  pela  defesa,  ônus  que  lhe  compete.
+Assim,  apesar  de  se  insurgir  contra  a  sentença  e  a  apelação,  alegando que foi negado  o  afastamento  da  causa  de  aumento  do  emprego  de  arma  de  fogo,  a  despeito  da  não  apreensão  do  artefato  bélico,  a  defesa  não  juntou  aos  autos  cópia  do  acórdão  do  julgamento  da  apelação.
+Portanto,  verifico  que  o writ  está  deficientemente  instruído,  já  que  a  parte  impetrante  não  forneceu  cópia  de  documento  essencial  à  análise  da  controvérsia.
+Ressalte-se  que  o  rito  do  habeas  corpus  pressupõe  prova  pré-constituída  do  direito  alegado,  devendo  a  defesa  demonstrar,  de  maneira  inequívoca,  por  meio  de  documentos anexados à exordial,  a  existência  de  constrangimento  ilegal  imposto  ao  paciente.
+Nesse  sentido,  segue  a  jurisprudência  desta  Corte,  mutatis  mutandis:
+AGRAVO  REGIMENTAL.  HABEAS  CORPUS.  HOMICÍDIO  QUALIFICADO  TENTADO.  PRISÃO  PREVENTIVA  MANTIDA  EM  PRONÚNCIA.  INSTRUÇÃO  DEFICIENTE.  PRETENSÃO  DE  SIMPLES  REFORMA.  DECISÃO  MANTIDA  POR  SEUS  PRÓPRIOS  FUNDAMENTOS.
+ ..
+2.  Cabe  ao  impetrante  o  escorreito  aparelhamento  do  habeas  corpus,  bem  como  do  recurso  ordinário  dele  originado,  indicando,  por  meio  de  prova  pré-constituída,  o  constrangimento  ilegal  alegado.
+3.  É  inviável  divisar,  de  forma  meridiana,  a  alegação  de  constrangimento,  diante  da  instrução  deficiente  dos  autos,  no  qual  se  deixou  de  coligir  cópia  da  decisão  que  decretou  a  prisão  preventiva  do  acusado,  documento  imprescindível  à  plena  compreensão  dos  fatos  aduzidos  no  presente  recurso.
+4.  Agravo  regimental  desprovido.  (AgRg  no  RHC  48.939/MG,  Rel.  Min.  Maria  Thereza  de  Assis  Moura,  Sexta  Turma,  DJe  23/4/2015,  grifei.)
+PROCESSUAL  PENAL.  PEDIDO  DE  RECONSIDERAÇÃO  RECEBIDO  COMO  AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  AUSÊNCIA  DE  PEÇA  ESSENCIAL  À  COMPREENSÃO  DA  CONTROVÉRSIA.  DEFICIÊNCIA  NA  INSTRUÇÃO  QUE  IMPOSSIBILITA  A  ANÁLISE  DO  PEDIDO.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+ ..
+2.  Ação  constitucional  de  natureza  mandamental,  o  habeas  corpus  tem  como  escopo  precípuo  afastar  eventual  ameaça  ao  direito  de  ir  e  vir,  cuja  natureza  urgente  exige  prova  pré-constituída  das  alegações  e  não  comporta  dilação  probatória.
+3.  Ausente  cópia  da  decisão  que  decretou  a  prisão  preventiva  do  acusado,  a  cujos  fundamentos  o  juiz  sentenciante  remete  para  negar  ao  réu  o  direito  de  recorrer  em  liberdade,  mostra-se  inviável  o  exame  do  alegado  constrangimento  ilegal.
+4.  Pedido  de  reconsideração  recebido  como  agravo  regimental,  não  provido.  (RCD  no  RHC-54.626/SP,  Rel.  Min.  Rogério  Schietti  Cruz,  Sexta  Turma,  DJe  2/3/2015,  grifei.)
+Assim,  diante  da  ausência  de  prova  pré-constituída  das  alegações,  torna-se  impossível  analisar  o  suposto  constrangimento  ilegal.
+Tal  o  contexto  de  instrução  deficitária  dos  autos,  não  conheço  do  presente  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
