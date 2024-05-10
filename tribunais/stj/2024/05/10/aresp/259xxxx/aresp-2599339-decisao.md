@@ -1,0 +1,17 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 5 anos e 10 meses de reclusão, pela prática do crime do art. 33 da Lei n. 11.343/2006.
+A defesa aponta a violação dos arts. 157, 186, parágrafo único, e 386, inciso VII, todos do Código de Processo Penal. Sustenta a nulidade da sentença porque alicerçada em confissão informal com violação do direito ao silêncio durante a abordagem policial. Aduz que a existência de dúvida quando à destinação da droga, devendo a conduta se desclassificada para a de uso de entorpecente.
+Contrarrazões às e-STJ fls. 339/345
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 407/410.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o TJSP deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 5 anos e 10 meses de reclusão, pela prática do crime do art. 33 da Lei n. 11.343/2006.
+Assinala-se, primeiramente, que a legislação processual penal não exige que os policiais, no momento da abordagem, cientifiquem o abordado quanto ao seu direito em permanecer em silêncio (Aviso de Miranda), uma vez que tal prática somente é exigida nos interrogatórios policial e judicial (AgRg no HC n. 809.283/GO, DE MINHA RELATORIA, Quinta Turma, julgado em 22/5/2023, DJe de 24/5/2023).
+De toda forma, consta do acórdão recorrido que "a confissão informal sequer foi utilizada como fundamento para a condenação, mas apenas como indício do delito, que foi confirmado pelo restante das provas colhidas durante a instrução, sob as garantias do contraditório e da ampla defesa." (e-STJ fl. 274)
+Portanto, irrelevante a alegação de nulidade pela confissão informal, estando a condenação amparada em outros elementos, como por exemplo, a apreensão em poder do recorrente de um tablete de 234,8 gramas de maconha.
+Ressalta-se que é firme a jurisprudência desta Corte Superior de Justiça no sentido de que o art. 33, caput, da Lei n. 11.343/2006 trata de delito de ação múltipla, que se consuma com a prática de qualquer dos verbos nele descritos, inclusive transportar e trazer consigo, sendo prescindível a comprovação da finalidade de comercialização.
+Ademais, a tese defensiva atinente à ausência de provas para a condenação não pode ser analisada por esta Corte, isso porque é assente que "cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação (Súmula 7/STJ)" (ut, AgRg no REsp 1.716.998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 16/5/2018).
+Por fim, a pretensão de desclassificação da conduta para a prevista no art. 28, da Lei de Drogas, também esbarra no óbice da Súmula 7/STJ, posto que a revisão do entendimento firmado pelas instancias ordinárias, no ponto, não prescinde do reexame do acervo fático probatório.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
