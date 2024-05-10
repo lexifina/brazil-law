@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LUCIANO WILLIAN DE OLIVEIRA contra decisão da Ministra Presidente desta Corte Superior que, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em recurso especial (e-STJ, fls. 725-726).
+Na origem, a parte agravante se insurge contra acórdão proferido pelo TJSP, assim ementado (e-STJ, fls. 2.018-2.030):
+"Apelação. Insurgência do Ministério Público e da Defensoria Pública. Desclassificação pelo Conselho de Sentença para outro crime não doloso contra a vida. Condenação proferida pela presidência do Tribunal do Júri. Lesão Corporal seguida de morte. Recurso do Ministério Público que busca a fixação do regime semiaberto. A Defensoria Pública sustenta, preliminarmente, a nulidade do julgamento diante da não formulação de quesito específico sobre o novo tipo penal.
+Inocorrência de nulidade. Afastado o intento homicida do agente pelo Tribunal do Júri, compete ao juiz presidente a adequação típica da conduta. Inteligência do art. 492, § 1º do CPP. Precedentes. Mérito. Autoria e materialidade demonstradas. Desclassificação para homicídio culposo. Impossibilidade. Dolo de lesionar comprovado. Condenação mantida. Dosimetria. Pena bem aplicada. Regime alterado para o semiaberto diante da pena aplicada, superior a quatro anos, e das circunstâncias do crime. Recurso ministerial provido e apelo defensivo desprovido".
+Nas razões de seu recurso especial, a parte recorrente aponta violação do art. 492, I, "b", do Código de Processo Penal, aduzindo, em síntese, que foram consideradas na dosimetria da pena agravantes que nem sequer foram suscitadas pela acusação nos debates em plenário. Sustenta que "o não requerimento pelo órgão acusatório do reconhecimento da presença de supostas circunstâncias agravantes retira da Defesa a possibilidade de contraditar e responder a tal reclamo, configurando clara violação ás garantias constitucionais do contraditório e da ampla defesa" (e-STJ, fl. 646).
+Com contrarrazões (e-STJ, fls. 663-668), o recurso foi inadmitido na origem (e-STJ, fls. 682-683), ao que se seguiu a interposição de agravo, não conhecido pela decisão monocrática ora recorrida (e-STJ, fls. 725-726).
+No agravo regimental, a parte recorrente argumenta ter impugnado todos os fundamentos que ensejaram a inadmissão do recurso especial na origem.
+Instado a se manifestar, o MPF opinou pelo não conhecimento ou desprovimento do agravo regimental (e- STJ, fls. 765-771).
+É o relatório.
+Decido.
+À luz das razões apresentadas pelo agravante, reconsidero a decisão de fls. 725-726 (e-STJ). Passo, portanto, ao exame do recurso especial propriamente dito.
+A pretensão recursal comporta provimento.
+Do que consta nos autos, observo que o acórdão recorrido diverge do entendimento deste Superior Tribunal de Justiça, no sentido de que, apesar de a Lei n. 11.689/2008 ter tornado desnecessária a quesitação das atenuantes e agravantes, em atendimento ao disposto no art. 492, I, "b", do Código de Processo Penal, o Juiz Presidente do Tribunal do Júri fixará a pena do réu considerando apenas as atenuantes e agravantes que tenham sido objeto de debate em plenário. A propósito:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. AUSÊNCIA DE DISCUSSÃO NO PLENÁRIO DO TRIBUNAL DO JÚRI. IMPOSSIBILIDADE DE INCIDÊNCIA. REGIME INICIAL SEMIABERTO. QUANTUM DE PENA APLICADO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Agravante da reincidência. Ausência de discussão no plenário do Tribunal do Júri. O acórdão impugnado divergiu da orientação da jurisprudência dominante nesta Corte Superior no sentido de que, mesmo sendo a reincidência agravante de ordem objetiva, somente é possível sua valoração na dosimetria da pena dos crimes julgados pelo Tribunal do Júri quando for arguida em plenário nos debates.
+Assim, tendo a Corte local entendido ser despicienda a menção da reincidência em sede de debates no Plenário do Tribunal do Júri para que possa incidir no cálculo pena, o seu afastamento é a medida de rigor. Precedentes.
+III - Modo inicial de resgate de pena. Circunstâncias judiciais todas favoráveis. Reprimenda final fixada em 05 (cinco) anos de reclusão. Regime inicial semiaberto consentâneo com art. 33, §§ 2º, alínea "b", 3º, do Código Penal.
+Agravo regimental desprovido".
+(AgRg no HC n. 858.386/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. RECONHECIMENTO DA AGRAVANTE DA REINCIDÊNCIA. PECULIARIDADES DO CASO. POSSIBILIDADE.
+1. A teor do art. 492, I, "b", do CPP, as circunstâncias agravantes poderão ser aplicadas na dosimetria da pena, desde que suscitadas, em plenário, nos debates orais, como na hipótese dos autos.
+2. No interrogatório do réu, o Ministério Público iniciou debate a respeito dos seus antecedentes, mas foi interrompido pela Defensoria Pública, sob as alegações de nulidade e até mesmo da prática do crime de abuso de autoridade.
+3. Há, portanto, manifesta contradição entre a tese ora suscitada pela defesa e seu comportamento em plenário, circunstância que vai de encontro ao princípio da boa-fé objetiva, na perspectiva do subprincípio da vedação aos comportamentos contraditórios (venire contra factum proprium).
+4. Agravo regimental improvido".
+(AgRg no HC n. 748.435/PR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.)
+Assim, passo a refazer a dosimetria da pena do réu.
+Na primeira fase, fica a pena-base mantida em 4 anos de reclusão. Na segunda etapa, presente a atenuante da menoridade relativa, deixo de reduzir a pena em atenção ao disposto na Súmula 231/STJ, de modo que fica mantida em 4 anos de reclusão. Esta passa a ser a pena definitiva, uma vez que não incidem causas de aumento ou de diminuição a serem mensuradas.
+Nos termos da previsão contida no art. 33, § 2º, "c", do Código Penal, fixo o regime inicial aberto para cumprimento da pena.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, reconsidero a decisão agravada para conhecer do agravo para dar provimento ao recurso especial, a fim de redimensionar a pena do réu para 4 anos de reclusão, a ser cumprida no regime inicial aberto.
+Publique-se. Intimem-se.
+ EMENTA
