@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A ausência de impugnação específica a todos os fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte. Precedentes.
+2. Ademais, "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos. Incidência da Súmula n. 182, STJ" (AgRg no AREsp n. 2.364.703/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial .
+A parte agravante, em síntese, limita-se a alegar, de forma resumida, que "se presta a presente para que o STF - Superior Tribunal de Justiça reveja os argumentos trazidos em julgue o AGRAVO EM RECURSO EXTRAORDINÁRIO conforme as razões declinadas, as quais se suscita como se aqui estivessem transcritas, para o fim de conhecer e dar provimento a este AGRAVO, com o acatamento do RECURSO proposto" (fl. 3.092, grifos no original).
+Requer, ao final, o provimento do recurso para o conhecimento e o provimento do recurso especial.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não conhecimento do recurso (fls. 3.103-3.105).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A ausência de impugnação específica a todos os fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte. Precedentes.
+2. Ademais, "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos. Incidência da Súmula n. 182, STJ" (AgRg no AREsp n. 2.364.703/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+3. Agravo regimental não conhecido.
+VOTO
+Não se deve conhecer do presente agravo.
+Da análise dos autos, constata-se que a decisão agravada, no que importa ao caso, foi assim proferida (fls. 3.088-3.089):
+ ..
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive;
+ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de MARIA JOSE DA SILVA COSTA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.) Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.) Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n.
+1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Como se vê, a decisão agravada não conheceu do agravo pela aplicação da Súmula n. 284/STF, com fulcro no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Como cediço, cabe ao recorrente - sob pena de aplicação da Súmula n. 182/STJ - impugnar especificamente todos os fundamentos da decisão agravada, o que não ocorreu no presente recurso, uma vez que o agravante não rebateu o óbice da Súmula n. 284/STF, nada tendo dito a respeito, limitando-se a reiterar as razões do recurso especial, o que impede o conhecimento do recurso.
+Conforme consignado pelo douto representante do Ministério Público Federal, em seu parecer (fl. 3.104):
+Na presente insurgência, o agravante não impugnou esse único fundamento, com a apresentação de argumentos que parecem se referir a caso diverso (fl. 3092).
+Nesse contexto, a ausência de impugnação específica aos fundamentos utilizados na decisão recorrida atrai a incidência dos arts. 1.021, §1º do CPC e 253, parágrafo único, I do RISTJ e da Súmula 182 desta corte, aplicável por analogia.
+Nesse sentido:
+ ..
+Ressalta-se, por oportuno, que "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de adm issibilidade foram preenchidos. Incidência da Súmula n. 182, STJ" (AgRg no AREsp n. 2.364.703/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+No mesmo sentido cito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRINCÍPIO DA DIALETICIDADE. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe à Agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, nas razões do regimental, a Defesa não rebateu, especificamente, os fundamentos que ampararam a decisão agravada, quais sejam: (i) há supressão de instância quanto à alegada ofensa ao princípio da correlação; (ii) a Jurisdição ordinária concluiu pela condenação da Agravante pelo delito de tráfico de drogas "não somente a partir da apreensão de pequena quantidade de cocaína em poder do Corréu, quando flagrado na companhia da Acusada, mas sobretudo com base nas mensagens extraídas dos aparelhos celulares apreendidos, evidenciando a prática da narcotraficância habitual" (fl. 2698); e (iii) a condenação concomitante pelo delito de associação para o tráfico impede a incidência da minorante do tráfico privilegiado, por demonstrar a dedicação da Agravante a atividades criminosas, nos termos da jurisprudência desta Corte Superior. Aplicação da Súmula n. 182 desta Corte Superior.
+2. Agravo regimental não conhecido. (AgRg no HC n. 760.789/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão agravada.
+2. "Não merece ser conhecido o agravo regimental que deixa de infirmar todos os fundamentos utilizados na decisão agravada" (AgRg no AREsp 471.237/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+3. Na hipótese, a decisão agravada não conheceu do habeas corpus, considerando a gravidade concreta do delito, isto porque os recorrentes foram surpreendidos na posse de grande quantidade de entorpecentes - 45,7 kg de maconha - a ser transportada entre Estados, a insuficiência das med idas cautelares, indiferença das condições pessoais favoráveis e desproporcionalidade de futura pena incerta. Todavia, no presente agravo regimental, o agravante não impugnou tais fundamentos, o que faz incidir a Súmula 182 do STJ.
+4. Agravo regimental não conhecido.
+(AgRg no RHC n. 172.418/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022.)
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
