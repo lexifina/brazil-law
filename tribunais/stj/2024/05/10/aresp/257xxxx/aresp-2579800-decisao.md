@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA LUIZA DE PINHO ROQUE e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - REINTEGRAÇÃO NA POSSE - RESP RECEBIDO EM EFEITO MERAMENTE DEVOLUTIVO QUE NÃO IMPEDE EXECUÇÃO DE QUANTIA - COMPENSAÇÃO QUE PRESSUPÕE DÍVIDAS VENCIDAS, CERTAS E LÍQUIDAS - ART. 369. DO CC - PRETENSÃO À COMPENSAÇÃO REJEITADA EM FASE DE CONHECIMENTO E AMPARADA APENAS POR LAUDO UNILATERAL - DECISÃO MANTIDA - AGRAVO DESPROVIDO.
+Quanto à controvérsia, a parte alega violação dos arts. 368 e 525, § 1º, VII, do CPC, no que concerne à possibilidade de compensação entre os aluguéis fixados em desfavor dos recorrentes e a indenização pelas benfeitorias e melhorias realizadas pelos recorridos, eis que há identidade entre os credores e devedores, trazendo a seguinte argumentação:
+O V. acórdão violou expressamente aos arts. 368 do Código Civil e art. 525, § 1º, inc. VII, do Código de Processo Civil ao reconhecerem que os Recorrentes teriam direito a ser indenizados por benfeitorias e melhorias feitas no imóvel e, ao mesmo tempo, impedirem a compensação desse crédito com o débito de aluguéis.
+ ..
+É simplesmente desnecessária a propositura de outra ação porque há essa identidade e o referido dispositivo é cogente ao admitir essa compensação, não necessitando de outra ação ou de pedido específico. A compensação é admitida inclusive em sede de cumprimento de sentença, conforme o art. 525, § 1º, inc. VII, do Código de Processo Civil.
+ ..
+Cumpre destacar que em nenhum momento referidas benfeitorias ou o seu valor foram impugnados pelo Recorrido, restando incontroverso, diferentemente do quanto aduzido pelo V. acórdão!
+Diante do dever de indenizar do Recorrido aos Recorrentes, pelo princípio da economia processual, deve-se compensar referida indenização dos supostos débitos junto a ele, tudo nos termos do art. 368 do Código Civil, evitando-se a propositura de uma nova ação para a cobrança desses valores pelos Recorrentes.
+Diante, portanto, de duas dívidas líquidas e certas se impõe frente ao art. 368 do Código Civil a aplicação do instituto da compensação. O entendimento do V. acórdão em sentido contrário pura e simplesmente viola o referido dispositivo legal, razão pela qual se impõe a sua reforma para admitir a compensação (fls. 171-174).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+De outra, a aplicação do art. 369, do CC, em execução, pressupõe que ambas as dívidas sejam representadas por títulos executivos, e sejam dotadas de liquidez e certeza.
+O pleito dos agravantes, no entanto, foi afastado na fase de conhecimento, por não terem os executados formulado pedido reconvencional, e é acompanhado apenas por laudo unilateral que contém "estimativa de investimentos" efetuados pelo possuidor, e não avaliação das benfeitorias em si.
+Em outros termos, a compensação é impossível porque a dívida não é representada por título executivo, há dúvidas quanto à sua certeza e exigibilidade que teriam de ser sanadas por demanda própria, e nem é líquida, uma vez que amparada por laudo unilateral sem qualquer força probatória, quanto mais caráter de título executivo (fl. 165).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
