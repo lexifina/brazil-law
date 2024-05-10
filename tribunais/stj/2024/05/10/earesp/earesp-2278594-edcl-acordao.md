@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão de julgamento do dia 08/05/2024, por votação unânime, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Daniela Teixeira e os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Rogerio Schietti Cruz, Reynaldo Soares da Fonseca e Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. ACÓRDÃO PARADIGMA PROFERIDO EM HABEAS CORPUS. DIVERGÊNCIA NÃO CONFIGURADA. PRECEDENTES.
+I - Os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+II - No caso, não se verifica a omissão apontada ou qualquer dos vícios que permitem o manejo do recurso. Como bem consignado no julgado recorrido, conforme jurisprudência do Superior Tribunal de Justiça, o acórdão proferido em habeas corpus não é admitido para comprovação do dissídio jurisprudencial. Precedentes.
+III - Esta Corte possui entendimento no sentido de que o julgador não é obrigado a refutar todas as teses defensivas, ainda que para fins de prequestionamento, desde que apresente razões suficientes para fundamentar a sua decisão
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se embargos de declaração, opostos por DIMAS TOMAZ, contra acórdão da Terceira Seção que negou provimento ao agravo regimental.
+Em suas razões, o embargante sustenta, em síntese, a existência de omissão no aresto recorrido, uma vez que o colegiado não teria se manifestado sobre os princípios constitucionais do acesso à justiça, da individualização da pena e do devido processo legal (fls. 2.271-2.274).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. ACÓRDÃO PARADIGMA PROFERIDO EM HABEAS CORPUS. DIVERGÊNCIA NÃO CONFIGURADA. PRECEDENTES.
+I - Os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+II - No caso, não se verifica a omissão apontada ou qualquer dos vícios que permitem o manejo do recurso. Como bem consignado no julgado recorrido, conforme jurisprudência do Superior Tribunal de Justiça, o acórdão proferido em habeas corpus não é admitido para comprovação do dissídio jurisprudencial. Precedentes.
+III - Esta Corte possui entendimento no sentido de que o julgador não é obrigado a refutar todas as teses defensivas, ainda que para fins de prequestionamento, desde que apresente razões suficientes para fundamentar a sua decisão
+Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+No presente caso, todavia, não verifico a omissão apontada ou qualquer dos vícios que permitem o manejo do recurso. Como bem consignado no julgado recorrido, conforme jurisprudência do Superior Tribunal de Justiça, o acórdão proferido em habeas corpus não é admitido para comprovação do dissídio jurisprudencial nos embargos de divergência. Veja-se:
+" "É pacífico o entendimento desta Corte de que acórdãos proferidos em habeas corpus ou recurso em habeas corpus não servem para comprovação da divergência" (AgRg nos EAREsp n. 2.387.203/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023)" (AgRg nos EAREsp n. 1.420.867/ES, Terceira Seção, Relª. Minª. Daniela Teixeira, DJe de 19/3/2024).
+"Não se admitem embargos de divergência quando o alegado dissenso se dá entre acórdãos proferidos em habeas corpus ou em recurso ordinário em habeas corpus. Tal restrição imposta pelo regimento interno do STJ tinha por fundamento, durante a vigência do CPC/73, uma interpretação sistemática do conteúdo da lei (art. 546, I, CPC/73) que revelava ser inviável comparar um recurso especial com um remédio constitucional de abrangência muito mais ampla e voltado eminentemente para a proteção da liberdade de locomoção.
+Tal interpretação veio a ser corroborada pelo art. 1.043, § 1º, do CPC/2015, que restringiu, expressamente os julgados que podem ser objeto de comparação, em sede de embargos de divergência, a recursos e ações de competência originária, não podendo, portanto, funcionar como paradigma acórdãos proferidos em ações que têm natureza jurídica de garantia constitucional, como os habeas corpus, mandado de segurança, habeas data e mandado de injunção. O mesmo raciocínio vale para enunciados de súmula de tribunais" (AgRg nos EAREsp n. 2.053.119/SC, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2024).
+Ademais, importa registrar que esta Corte possui entendimento no sentido de que o julgador não é obrigado a refutar todas as teses defensivas, ainda que para fins de prequestionamento, desde que apresente razões suficientes para fundamentar a sua decisão. Confira-se:
+"Ademais, este Superior Tribunal possui entendimento consolidado no sentido de que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir. Precedentes " (AgRg no AREsp n. 2.478.214/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 23/4/2024).
+"O órgão julgador não é obrigado a manifestar-se sobre todas as alegações das partes, nem a responder, um a um, todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão" (AgRg no HC n. 847.559/CE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
