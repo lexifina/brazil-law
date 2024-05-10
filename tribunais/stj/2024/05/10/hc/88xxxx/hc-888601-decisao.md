@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TALISSON TEIXEIRA SILVEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, cuja ementa teve o seguinte teor (fls. 505):
+EMBARGOS DE DECLARAÇÃO OPOSTOS PELA DEFESA EM EMBARGOS INFRINGENTES. AUSÊNCIA DE OMISSÃO. Os embargos declaratórios não constituem meio processual adequado para provocar o julgador a que reexamine matéria já julgada, pois se destina à solução de eventual obscuridade, ambiguidade, contradição e omissão no julgado. A manutenção do regime fechado para o cumprimento da reprimenda imposta se deu de forma unânime, não cabendo infringentes no ponto ou manifestação. EMBARGOS PARCIALMENTE CONHECIDOS E, NA PARTE EM QUECONHECIDOS, DESACOLHIDOS.
+Consta dos autos que o paciente foi condenado como incurso no artigo 33, caput, c.c. o art. 40, IV, ambos da Lei n. 11.343/2006, e o Tribunal de origem negou provimento ao recurso da defesa e deu parcial provimento ao do Ministério Público, para fixar, por maioria, a sua pena em 6 anos e 5 meses de reclusão e 620 dias-multa.
+A defesa opôs embargos infringentes, que foram acolhidos para fixar a pena de 7 anos, 4 meses e 18 dias, a ser cumprida em regime fechado. Os embargos de declaração foram rejeitados.
+Sustenta o impetrante, em síntese, que "o tribunal se silenciou do porquê da manutenção do regime fechado, pois a pena é inferior a 8 anos e o paciente é primário" (fl. 7), incorrendo em ilegalidade na manutenção de tal regime.
+Requer, liminarmente, a suspensão da decisão condenatória e, no mérito, o reconhecimento do regime semiaberto.
+A liminar foi indeferida, as informações foram prestadas (fls. 584-682) e o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Nos embargos declaratórios, opostos em face dos embargos infringentes, a questão foi assim abordada (fls. 478):
+ .. .Tem-se, assim, que a manutenção do regime fechado para o cumprimento da reprimenda imposta, diante diante da valoração negativa de duas vetoriais do artigo 59 do Código Penal, nos termos do que determina o artigo 42 da Lei de Drogas, se deu de forma unânime, não cabendo infringentes no ponto.
+Tanto é assim, que a defesa sequer repristinou os argumentos lançados na apelação, limitando-se a referir que deveria prevalecer o voto vencido, como se vê:
+ ..
+Portanto, considerando que os embargos infringentes estavam estritos à matéria objeto de divergência, nos exatos termos da parte final do parágrafo único do artigo 609 do Código de Processo Penal, não cabe ao Relator a fixação de regime prisional diverso. .. .
+Como se vê, os embargos infringentes foram acolhidos para redimensionar a pena para 07 (sete) anos, 04 (quatro) meses e 18 (dezoito) dias e, nos embargos de declaração, o regime inicial fechado foi mantido, "diante diante da valoração negativa de duas vetoriais do artigo 59 do Código Penal, nos termos do que determina o artigo 42 da Lei de Drogas", não havendo manifesta ilegalidade.
+Com efeito, conforme a jurisprudência desta Corte, "a presença de circunstância judicial desfavorável justifica a fixação de regime prisional imediatamente mais gravoso do que o permitido pela quantidade da pena aplicada, isto é, o regime inicial fechado, nos moldes do art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal." (AgRg no AREsp n. 1.785.555/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/11/2021, DJe de 16/11/2021). Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. INVASÃO DE DOMICÍLIO. FUNDADAS RAZÕES PARA O INGRESSO. DOSIMETRIA. REGIME INICIAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL (MAUS ANTECEDENTES) E REINCIDÊNCIA. POSSIBILIDADE DE FIXAÇÃO DE MODALIDADE MAIS GRAVOSA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+6. Na espécie, embora a reprimenda imposta não tenha ultrapassado 8 anos, a circunstância judicial desfavorável (maus antecedentes) e a reincidência autorizam a manutenção do paciente no regime inicial fechado, segundo a jurisprudência desta Corte. Precedentes.
+7. Agravo regimental desprovido. (AgRg no HC n. 836.416/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. EXCLUSÃO DE CIRCUNSTÂNCIA JUDICIAL. INOVAÇÃO RECURSAL E SUPRESSÃO DE INSTÂNCIA. NÃO CABIMENTO. QUANTIDADE DE SEMENTES DE MACONHA. FUNDAMENTAÇÃO IDÔNEA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO CABIMENTO. MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão referente ao afastamento dos maus antecedentes, além de ser uma inovação recursal, não foi submetida à apreciação da Corte antecedente e não pode ser analisada neste recurso, sob pena de indevida supressão de instância.
+2. Uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, com fundamento na significativa quantidade de sementes de maconha - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida para o réu.
+3. Inviável a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas ao acusado que tem maus antecedentes.
+4. Presente circunstância judicial desfavorável, adequada a imposição do regime fechado ao réu condenado a 6 anos de reclusão.
+5. Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a negativa de substituição da pena privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP.
+6. Agravo regimental não provido.(AgRg no HC n. 764.665/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. RELEVANTE QUANTIDADE DE DROGA. FUNDAMENTO APTO PARA JUSTIFICAR A FIXAÇÃO DO REGIME INICIAL MAIS GRAVOSO E EXASPERAÇÃO DA PENA-BASE. INEXISTÊNCIA DE CRITÉRIO LEGAL MATEMÁTICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito da pena ser superior a 4 anos e inferior a 8 anos, a autorizar, em princípio, a fixação do regime semiaberto, deve ser mantido o regime fechado, ante a existência da circunstância judicial negativa referente à natureza e quantidade das drogas apreendidas.
+ ..
+6. Agravo regimental desprovido. (AgRg no AREsp n. 2.317.535/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/2/2024, DJe de 23/2/2024.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
