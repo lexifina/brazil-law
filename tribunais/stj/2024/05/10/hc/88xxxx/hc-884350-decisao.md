@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de WILLIAM ASSAAD AL IBRAHIM contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 304, c/c arts. 297 e 298, na forma do art. 70, todos do Código Penal, à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado (e-STJ, fls. 98).
+O Tribunal de origem deu parcial provimento à apelação da defesa, redimensionando a pena do paciente para 02 anos e 04 meses de reclusão, em regime inicial semiaberto (e-STJ, fls. 101/107).
+Neste mandamus, a defesa sustenta, em síntese, a ocorrência de bis in idem na dosimetria, devido ao reconhecimento dos maus antecedentes e da reincidência.
+Aduz a possibilidade de abrandamento do regime prisional.
+Requer, nesses termos, a revisão da dosimetria da pena e afixação do regime inicial aberto (e-STJ, fls. 03/39).
+Indeferido pedido de liminar, a Subprocuradoria-Geral da República manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela concessão parcial da ordem, para fixar o regime aberto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Inicialmente, como bem destacado no parecer ministerial, "a condenação transitou em julgado em 30/5/2016 para a defesa e em 23/6/2016 para o MP (fls. 88), não sendo o habeas corpus meio própria servir de sucedâneo de eventual revisão criminal, conforme a jurisprudência recente do STF e do STJ" (e-STJ, fl. 111).
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DEDROGAS. PLEITO DE REVISÃO DA CONDENAÇÃO. DOSIMETRIA EREGIME INICIAL. FUNDAMENTAÇÃO IDÔNEA. ACÓRDÃO DAAPELAÇÃO JÁ TRANSITADO EM JULGADO. WRITSUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO.
+PRECEDENTES.1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que não conheceu do habeas corpus.2. No caso, além de não vislumbrar flagrante ilegalidade - uma vez que afixação da pena-base acima do mínimo legal está em consonância com o entendimento desta Corte, segundo o qual, as condenações alcançadas pelo período depurador de cinco anos (art. 64, I, do Código Penal - CP) não configuram reincidência, mas são aptas a configurar os maus antecedentes do réu, na mesma medida, que, a pena-base acima do mínimo legal justificaa imposição de regime inicial mais severo, nos termos do art. 33, § 3º, c/c oart. 59, ambos do Código Penal -, o advento do trânsito em julgado, ainda que posterior à impetração, impossibilita a admissão do writ, visto que o conhecimento de habeas corpus em substituição à revisão criminal subverte o sistema de competências constitucionais, transferindo a análise do feito de órgão estadual para este Tribunal Superior.3. Agravo regimental improvido.(AgRg no HC n. 625.271/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No tocante à dosimetria, percebe-se que a pena-base foi estabelecida no piso legal, não tendo sido, de igual modo, reconhecida a reincidência do réu, sendo descabido falar em dupla valoração de condenação transitada em julgado na dosagem da reprimenda.
+Quanto ao regime, tratando-se de réu primário, condenado ao cumprimento de pena inferior a 4 anos de reclusão, tendo a pena-base sido estabelecida no piso legal, deve ser estabelecido o regime prisional aberto para o início do desconto de reprimenda.
+Ante o exposto, não conheço da impetração, mas concedo a ordem, de ofício a fim de fixar o meio aberto para o cumprimento inicial da reprimenda.
+Publique-se. Intimem-se.
+EMENTA
