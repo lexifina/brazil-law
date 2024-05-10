@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADRIANO FRANCISCO FERREIRA DA SILVA JUNIOR contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que não ad mitiu o recurso especial.
+O agravante foi condenado à pena de 3 (três) anos e 8 (oito) meses de reclusão em regime aberto e ao pagamento de 186 (cento e oitenta e seis) dias-multa, pela prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006 e art. 14 da Lei n. 10.826/2003 (fls. 193-194).
+O Tribunal negou provimento à apelação interposta pela defesa, em que requeria, entre outras providências, a absolvição por insuficiência de provas ou a desclassificação da conduta para porte de drogas para consumo pessoal (fls. 257-276).
+Inconformado, o agravante interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 28, caput, da Lei n. 11.343/2006, e requerer, em síntese, desclassificação da conduta para porte de drogas para consumo pessoal (fls. 304-309).
+O recurso foi inadmitido na origem em virtude da Súmula n. 7, STJ (fls. 322-325).
+No presente agravo, a defesa sustenta que a pretensão recursal merece conhecimento e impugna a incidência do referido enunciado sumular (fls. 330-336).
+Em contrarrazões, o Ministério Público do Estado da Bahia requer o desprovimento do recurso (fls. 340-347).
+O Ministério Público Federal opina pelo desprovimento do agravo (fls. 363-367).
+É o relatório. DECIDO.
+Considerando os argum entos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Segundo as razões recursais, o Tribunal a quo violou o artigo 28, caput, da Lei n. 11.343/2006, ao condenar o agravante pelo crime de tráfico de drogas, sem provas suficientes da traficância, pois a ínfima quantidade de drogas (5,75g) encontrada com o agravante não é, por si só, suficiente para comprovar a mercancia (fls. 299-300).
+Compulsando os autos, verifico que as instâncias ordinárias concluíram pela suficiência do conjunto probatório para demonstrar que o agravante praticava comércio ilegal de drogas, em especial pelos depoimentos policiais colhidos, apreensão de arma de fogo em conjunto com o entorpecente, além de um rádio transmissor encontrado ao lado do recorrente, não se coadunando, portanto, a tese de que a droga era destinada para uso próprio. Veja-se (fls. 264-266):
+"Como se observa, diferente do que está sendo sustentado pela defesa, há lastro probatório robusto e suficiente para consubstanciar a condenação do Apelante.
+Mesmo porque, embora o Apelante negue a comercialização, o tipo penal previsto no art. 33, caput, da Lei nº. 11.343/06, não só incrimina quem "vende" drogas, mas também quem pratica qualquer uma das 17 (dezessete) outras condutas, dentre as quais, a de "possuir" e "guardar".
+(..)
+Ademais, não prospera a pretensão subsidiária de desclassificação da conduta de tráfico de drogas para o crime de porte de drogas para consumo pessoal.
+Afinal, o Apelante foi preso em flagrante na posse das substâncias entorpecentes, além de um rádio de comunicação, evidenciando o seu envolvimento no narcotráfico.
+(..)
+Ademais, ainda que o Apelante seja usuário (como a defesa alega), isso não o impede de comercializar a substância proscrita.
+Decerto, é notoriamente comum os usuários se valerem da venda dos entorpecentes para conseguirem sustentar o seu vício.
+Destarte, não basta a genérica alegação da condição de usuário para que seja afastada a imputação do crime de tráfico de drogas.
+No caso sub oculi, a defesa não logrou êxito em comprovar que a substância proscrita efetivamente se destinava ao consumo pessoal do Apelante.
+Ao contrário, os elementos probatórios permitem a condenação pelo crime tipificado no art. 33, caput, da Lei nº. 11.343/06, como foi feito na sentença.
+Sendo assim, estando devidamente comprovada a materialidade e autoria delitiva para o crime de tráfico de drogas, não há como proceder a desclassificação perquirida."
+Assim, eventual alteração da conclusão do aresto impugnado para perquirir pela existência de outros elementos configuradores do tráfico de drogas exigiria o reexame de fatos e provas, providência inviável por esta Corte Superior, consoante disposto na Súmula n. 7, STJ.
+Nesse sentido:
+"(..) 1. A prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que - apesar da pequena quantidade de entorpecente apreendido - o recorrente estava, de fato, realizando a comercialização de drogas. Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do recorrente, ou até mesmo pela desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ" (AgRg no AgRg no AREsp 2.222.297/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/3/2023)
+"(..) 1. As instâncias de origem reconheceram a existência de elementos de prova suficientes para embasar o decreto condenatório pela prática do crime de tráfico de drogas. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF)" (AgRg no AREsp 2.335.210/PE, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 25/8/2023)
+Saliento, ainda, que o testemunho policial constitui meio de prova idôneo a fundamentar uma condenação, incumbindo à defesa o ônus de demonstrar eventual parcialidade do depoimento colhido, o que não ocorreu nos autos.
+A propósito:
+"(..) segundo a jurisprudência consolidada desta Corte, o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso." (AgRg no HC n. 848.618/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/9/2023)
+"(..) É assente nesta Corte o entendimento no sentido de que "O depoimento dos policiais prestado em juízo constitui meio de prova idôneo a resultar na condenação do paciente, notadamente quando ausente qualquer dúvida sobre a imparcialidade das testemunhas, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, fato que não ocorreu no presente caso"." (AgRg no AREsp n. 1.054.663/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/4/2017)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro, consoante art. 253, parágrafo único, inciso II, alínea "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA INSUFICIÊNCIA DE PROVAS DA TRAFICÂNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONDENAÇÃO POR TRÁFICO. INVIABILIDADE DE DESCLASSIFICAÇÃO PARA PORTE DE DROGAS PARA CONSUMO PRÓPRIO. PRESUNÇÃO DE IDONEIDADE DO DEPOIMENTO POLICIAL. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
