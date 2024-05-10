@@ -1,0 +1,17 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios que negou provimento ao recurso em sentido estrito interposto pela defesa e manteve a decisão que não acolheu a preliminar de rejeição da denúncia por inexistência da condição de procedibilidade para o exercício da ação.
+A defesa aponta a violação do art. 107, IV, do CP, alegando, em síntese, que inexiste nos autos "sequer um elemento que possa afirmar, não de maneira direta e categórica, a manifestação de vontade da ofendida. A ausência de livre manifestação de vontade, leva a ilegitimidade ativa do Ministério Público, ou seja, falta uma das condições exigidas pela lei para que o Parquet possa promover a ação penal." (e-STJ fl. 202). Prossegue afirmando que se a vítima não representou no prazo de 6 meses em desfavor do acusado, se operou a decadência, bem como a renúncia tácita do seu direito de representação.
+Contrarrazões às e-STJ fls. 215/218.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 254/256.
+É o relatório. Decido.
+Verifica-se que o recurso especial está prejudicado.
+O recorrente impetrou o HC n. 862.932/DF, no qual foi suscitada a mesma questão exposta no presente recurso. O writ foi analisado por esta Corte e publicado em 19/12/2023 com a seguinte ementa:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. INJÚRIA RACIAL. AÇÃO PENAL CONDICIONADA À REPRESENTAÇÃO. AUSÊNCIA DE MANIFESTAÇÃO INEQUÍVOCA DA VÍTIMA. NÃO VERIFICAÇÃO. REPRESENTAÇÃO QUE INDEPENDE DE FORMALIDADE. 2. BOLETIM DE OCORRÊNCIA REGISTRADO. NOVO COMPARECIMENTO DA VÍTIMA À DELEGACIA. DECLARAÇÕES REITERADAS. VONTADE DE PROCESSAR O PACIENTE DEMONSTRADA. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O entendimento das instâncias ordinárias encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça bem como do Supremo Tribunal Federal, que é no sentido de que "a representação nos crimes de ação penal pública condicionada prescinde de qualquer formalidade" (HC 226830 AgR, Relator(a): Gilmar Mendes, Segunda Turma, julgado em 13/06/2023, DJe 20/6/2023).
+2. Na presente hipótese, a vítima compareceu à delegacia para registrar ocorrência e, cerca de oito meses depois, compareceu novamente, reiterando suas declarações perante a autoridade policial, revelando, assim, sua intenção de ver o paciente processado. Assim, não há se falar em ausência de manifestação inequívoca.
+- Os precedentes indicados pelo agravante não guardam relação com a situação dos presentes autos. Com efeito, no Recurso Especial n. 2.091.883/PI, consignou-se não ter ficado demonstrado nos autos "interesse inequívoco da vítima na persecução penal". Já no Habeas Corpus n. 213.134/STF, a vítima se manteve inerte após ser intimada, e no Recurso em Habeas Corpus n. 226.632/STF, consta que houve renúncia expressa da vítima.
+- Por fim, concluindo as instâncias ordinárias que "a postura adotada pela vítima é suficiente para demonstrar sua vontade de ver o autor processado", não é possível desconstituir referida conclusão na via eleita, porquanto demandaria indevido revolvimento de fatos e provas.
+3. Agravo regimental a que se nega provimento.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+Intimem-se.
+EMENTA
