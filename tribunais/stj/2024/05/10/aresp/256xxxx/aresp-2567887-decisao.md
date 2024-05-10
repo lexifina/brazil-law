@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LISIANE TROLLE VIEIRA (LISIANE) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 283/285).
+É o relatório.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, LISIANE alegou violação dos arts. 1.033, 1.022, 489, §1º, IV e 373, I, todos do CPC, (1) diante do abuso de autoridade do julgador que impediu a oposição de embargos de declaração, diante da possibilidade de ser aplicada multa por litigância de má-fé; (2) por inexistir prejudicialidade da exceção de pré-executividade pelo julgamento dos embargos de declaração; (3) apontando do descumprimento contratual pela locadora e a imobiliária intermediadora, que alugou imóvel residencial como se comercial fosse, circunstância que exigiu regularização pelos órgãos públicos, e adaptações estruturais, além da necessidade de reforma decorrente das más condições do bem; (4) asseverou a ocorrência de cerceamento de defesa pelo indeferimento da oitiva de testemunhas; (5) mostra a ocorrência de excesso de execução por não ter sido considerado os gastos realizados para adequação, as adversidades causadas pela Pandemia COVID-19, assim como aos índices aplicados, uma vez que na espécie deve incidir o CDC; (6) pela inobservância do procedimento para a penhora de bens. Aponta divergência jurisprudencial quanto a legitimidade da imobiliária intermediadora, nos termos dos arts. 7º, parágrafo único, §§ 18, 19 e 25, do CDC.
+De início, verifico que o conteúdo normativo do art. 1.022 do CPC não é apto para amparar a tese de negativa de prestação jurisdicional por abuso de autoridade do julgador, que teria impedido a oposição dos embargos de declaração diante da possibilidade de ser aplicada multa por litigância de má-fé.
+A falta de correlação entre o artigo supostamente violado e a matéria trazida no recurso especial inviabiliza a compreensão da controvérsia, uma vez ausente a pertinência temática, atraindo a incidência da Súmula nº 284 do STF, por analogia.
+Da mesma forma, é assente na jurisprudência do Superior Tribunal de Justiça que a ausência de indicação dos dispositivos legais que teriam sido violados obsta a análise das teses suscitadas.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL.  .. . INDICAÇÃO DO DISPOSITIVO VIOLADO PARA ANÁLISE DE DISSENSO. NECESSIDADE. SÚMULA N. 284 DO STF. RECURSO ESPECIAL DESPROVIDO. AGRAVO INTERNO PROVIDO.
+ ..
+6. A ausência de indicação do dispositivo legal tido por violado revela deficiência de fundamentação, inclusive no tocante à alínea c do permissivo constitucional, o que atrai a aplicação da Súmula n. 284 do STF.
+7. Agravo interno provido para conhecer do agravo em recurso especial e, em conhecendo em parte do recurso especial, negar-lhe provimento.
+(AgInt no AREsp n. 1.807.640/MA, rel. Min. JOÃO OTÁVIO DE NORONHA, Quarta Turma, DJe de 2/5/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  .. . DISPOSITIVO LEGAL. VIOLAÇÃO. INDICAÇÃO. AUSÊNCIA. SÚMULA N. 284/STF. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. É pacífico no Superior Tribunal de Justiça o entendimento de que a ausência de indicação, no recurso especial, do dispositivo de lei federal tido por infringido configura deficiência na fundamentação recursal, o que atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+ ..
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.384.676/SP, rel. Min. MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 20/3/2024)
+Assim, a incidência da Súmula nº 284 do STF, por ausência de indicação dos dispositivos legais, impede a análise das teses referentes a prejudicialidade da exceção de pré-executividade pelo julgamento dos embargos de declaração, do descumprimento contratual pela locadora, de excesso de execução e sobre a inobservância do procedimento para a penhora de bens.
+No que se refere a apontada contrariedade aos arts. 1.033, 489, §1º, IV e 373, I, todos do CPC, 7º, parágrafo único, §§ 18, 19 e 25, do CDC e 818 do CC, verifico que os respectivos conteúdos normativos não foram objeto de debate e apreciação pelo acórdão recorrido, estando ausente o necessário prequestionamento viabilizador do recurso especial.
+Incidência, pois, da Súmula nº 282 do STF.
+Por fim, do cotejo entre o acórdão recorrido e o recurso especial, observo que LISIANE deixou de impugnar o fundamento do acórdão recorrido, consubstanciado na perda do objeto do agravo de instrumento, interposto na exceção de pré-executividade, em razão do julgamento da apelação interposta nos embargos a execução, que teria apreciado as mesmas questões suscitadas na objeção, atraindo a incidência da Súmula nº 283 do STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ademais, desconstituir a conclusão do acórdão recorrido, para reconhecer que as teses da exceção de pré-executividade, objeto do agravo de instrumento, não coincidem com as apreciadas na apelação dos embargos a execução, exigira o reexame do conjunto fático-probatório dos autos, inviável de ser realizado na via eleita ante o óbice da Súmula nº 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+PREJUDICADO o pedido de concessão de efeito suspensivo (e-STJ, fl. 290/291).
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ART. 1.022 DO CPC. ARTIGO SEM CONTEÚDO NORMATIVO APTO PARA AMPARAR A TESE RECURSAL. PREJUDICIALIDADE RECURSAL, DESCUMPRIMENTO CONTRATUAL, EXCESSO DE EXECUÇÃO E PENHORA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS PORVENTURA VIOLADOS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. ARTS. 1.033, 489, §1º, IV E 373, I, TODOS DO CPC, 7º, PARÁGRAFO ÚNICO, §§ 18, 19 E 25, DO CDC E 818 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. INEXISTENCIA DE PREJUDICIALIDADE DO RECURSO PELO JULGAMENTO DE OUTRA DEMANDA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
