@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por GILMARDSON SALUSTIANO SOARES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Depreende-se dos autos que o Recorrente se encontra preso, cautelarmente, tendo sido denunciado pela suposta prática da conduta descrita no art. 121, §2º, incisos I e IV, do Código Penal. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão, às fls. 82-94.
+No presente recurso, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Recorrente, apontando excesso de prazo para a formação da culpa.
+Sustenta a existência de fragilidade probatória.
+Aduz que:
+"NINGUÉM EM NENHUM MOMENTO NEM POR "OUVI DIZER" IMPUTOU AO PACIENTE A AUTORIA DO CRIME, salvo o ouvi dizer de testemunhas que sequer foram a audiência de instrução por estarem em local incerto e não sabido, devido a estarem com mandados de prisão ao seu desfavor" (fl. 111).
+Requer a expedição de alvará de soltura em favor do Recorrente.
+É o relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada:
+"O paciente foi denunciado, nos autos da Ação Penal de nº 0043270-69.2020.8.17.2810,por supostamente incorrer em crime incurso no art. 121, §2º, incisos I e IV, do CP (duas vezes).
+Extrai-se da denúncia que:
+No dia 03 de agosto de 2022, no período da tarde, por volta das 13h40min, na Rua do Campo do Flamengo, nº 15, Jardim Jordão, neste município de Jaboatão dos Guararapes/PE, os denunciados acima qualificados, agindo com animus necandi e utilizando-se de armas de fogo, efetuaram diversos disparos contra as vítimas RAFAELBRAGA TEIXEIRA e KLAYTON HENRIQUE DA SILVA SANTOS, causando-lhe lesões que, por sua natureza e sede, foram as causas eficientes de suas mortes
+Segundo a inicial acusatória, o crime teria sido praticado por motivo torpe, uma vez que cometido por vingança por haver a notícia de que as vítimas teriam roubado pertences da loja do paciente GILMARDSON. Os crimes ainda teriam sido praticados de forma que dificultou a defesa das vítimas, pois estariam os acusados em superioridade numérica e, todos armados, e, ainda, teriam levado as vítimas a local ermo para efetuarem a execução.
+Solicitadas informações, foi acrescido aos autos que, a denúncia foi recebida em21.11.2022, ocasião em que foi decretada a prisão preventiva dos acusados.
+É preciso ressaltar que o prazo para a conclusão da instrução criminal não tem as características da fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. Nesse sentido, veja-se:
+ ..
+Vale ressaltar, ainda, a Súmula nº 84 deste Tribunal, assim redigida: "Os prazos processuais na instrução criminal não são peremptórios, podendo ser ampliados dentro de parâmetros de razoabilidade e diante das circunstâncias do caso
+Ocorre que se trata de feito de matéria complexa, com pluralidade de réus (3), e pedido de reavaliação da cautelar. Analisando os autos, não se verifica atraso na marcha processual, uma vez que segue o processo seu curso normal, em que se apura a prática de crime grave e complexo.
+Considerando que o trâmite se desenrolou em prazo razoável e que não se verifica desídia do Poder Judiciário ou da acusação, não resta configurado, portanto, o constrangimento ilegal" (fls. 86-87).
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, haja vista que se trata da apuração do delito de homicídio qualificado atribuído à pluralidade de pessoas, 3 (três) réus; não se evidenciado a existência d e desídia atribuível ao Poder Judiciário.
+Sobre o tema:
+"6. Constitui entendimento consolidado do Superior Tribunal de Justiça - STJ que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais. Na hipótese, não há falar em prolongamento irrazoável do andamento processual, pois o processo tem seguido regular tramitação. Verifica-se que o maior prazo para o julgamento decorre da complexidade do feito, em que se apura a imputação a uma pluralidade de réus (3), pela prática do delito de homicídio qualificado"(AgRg no HC n. 772.087/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+No mais, cumpre consignar que, de acordo com a jurisprudência desta Corte, a perscrutação acerca de fragilidade probatória, mormente, no que tange à ausência de indícios de autoria, demanda o revolvimento de matéria fático-probatória, inviável na presente via:
+"digressões sobre a justa causa para a ação penal, imiscuindo-se no exame das teses de fragilidade probatória e de ausência de indícios de autoria e materialidade, demandam inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via augusta do recurso ordinário em habeas corpus, devendo, pois, ser avaliada a quaestio pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório" (RHC 56.155/MT, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 24/5/2017).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
