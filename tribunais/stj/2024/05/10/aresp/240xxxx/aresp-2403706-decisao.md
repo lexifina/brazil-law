@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NARCISIO MICHEL PEDROSA PEREIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial, com fundamento nas Súmulas ns. 282 e 356/STF (fls. 637-639).
+Consta dos autos que o agravante foi pronunciado pela prática do delito previsto no art. 121, § 2º, I e IV, do Código Penal, por duas vezes.
+Interposto recurso em sentido estrito, foi-lhe negado provimento.
+Inconformada, a defesa local interpôs recurso especial, com fulcro na alínea a do inciso III do art. 105 da Constituição Federal, apontado contrariedade aos arts. 239 e 413 do Código de Processo Penal, sob a alegação de que a decisão de pronúncia não poderia se basear tão somente em testemunhos indiretos e em denúncia anônima.
+Requer, em suma, a impronúncia do agravante.
+Apresentada a contraminuta na origem (fls. 660-662), os autos foram remetidos a essa Corte Superior, manifestando-se o Ministério Público Federal pelo desprovimento do agravo.
+No tocante à aventada ausência de prequestionamento, conquanto alegue o agravante, abstratamente, que a suposta violação dos arts. 239 e 413 do Código de Processo Penal foi devidamente analisada pelas instâncias ordinárias, deixou de demonstrar o efetivo debate das referidas questões, o que pressupõe a transcrição dos respectivos excertos do acórdão recorrido em que concretamente examinadas.
+Assim, a mera menção de que "toda a fundamentação do Acórdão objeto do Recurso Especial gira em torna da valoração e aceitação de "denúncia anônima" e "testemunhos indiretos" como aptos a fundamentar a decisão de pronúncia, razão da apontada ofensa à lei federal" (fl. 651), é insuficiente a evidenciar e afastar o óbice da ausência de prequestionamento.
+Ademais, a alegação de que "o prequestionamento foi expressamente invocado nos embargos de declaração" (fl. 651), não afasta o referido óbice.
+Para fins de prequestionamento, não basta que a parte provoque o Tribunal de origem a se manifestar acerca de determinada tese, é necessário que a tese seja efetivamente examinada por órgão colegiado da instância antecedente, a fim de abrir a via de impugnação extraordinária.
+Caso a Corte local, no julgamento dos aclaratórios, ainda assim não se manifeste sobre as teses suscitadas, cabe à defesa invocar, nas razões do recurso especial, a violação do art. 619 do Código de Processo Penal, a fim de demonstrar a omissão no julgado da Corte antecedente e viabilizar o exame da questão. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar as situações descritas no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, hipótese ocorrida no caso.
+2. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+3. Não foi possível identificar, nas razões do agravo em recurso especial, a impugnação efetiva e eficaz ao fundamento da decisão de primeira instância que consignou a inviabilidade da pretensão recursal pelo óbice da Súmula n. 283 do STF. A argumentação defensiva foi genérica e insuficiente para o fim de modificar tal decisão.
+4. Ademais, a Corte antecedente asseverou que a entrada dos policiais no imóvel foi precedida de autorização do morador. A modificação dessa circunstância implicaria, de fato, necessária incursão no acervo fático-probatório dos autos, procedimento vedado, em recurso especial, pelo entendimento disposto na Súmula n. 7 do STJ.
+5. No tocante à ausência de prequestionamento, a defesa não invocou a violação do art. 619 do Código de Processo Penal, a fim de demonstrar eventual omissão no julgado da Corte antecedente e viabilizar o exame da questão.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.527.925/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DESPROVIMENTO.
+1. A matéria trazida no apelo nobre não foi debatida especificamente pelo Tribunal local, ausentando-se, assim, o necessário requisito do prequestionamento - mesmo que ficto -, além da incidência da Súmula n. 7 desta Corte.
+2. "O Tribunal de origem não apreciou o eventual cabimento da substituição da pena privativa de liberdade por restritiva de direitos sob a ótica de o benefício ser ou não socialmente recomendável, consignando apenas que a reincidência do agravante impediria a concessão do benefício. Portanto, a reversão do entendimento da Corte a quo para concluir-se no sentido de ser socialmente recomendável o benefício aqui requerido pela defesa demandaria o revolvimento do material fático-probatório dos autos, providência incompatível com os estreitos limites de cognição da via eleita. Precedente." (RCD no HC n. 786.687/RS, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 14/3/2023).
+3. "Nas razões do recurso especial, não foi alegada ofensa ao art. 619 do Código de Processo Penal, a fim de que se verificasse a existência de omissão por parte do Tribunal a quo, de maneira a determinar-se eventual retorno dos autos àquela Corte para saneamento do vício ou se considerasse fictamente prequestionada a matéria, na forma do art. 1.025 do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal (AgRg no REsp n. 1.946.034/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/8/2021).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.330.333/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/4/2024, DJe de 19/4/2024.)
+Não tendo o agravante se desincumbido do ônus de demonstrar o efetivo prequestionamento das teses veiculadas no recurso especial e tampouco suscitado violação do art. 619 do CPP, o presente recurso não comporta seguimento.
+Ante o exposto, não conheço do agravo em recurso especial
+Publique-se.
+Intimem-se.
+EMENTA
