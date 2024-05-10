@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 98100, de 29 de abril de 2024
+Assunto: Classificação de Mercadorias
+Código NCM 8806.92.00 - Ex Tipi 01
+Mercadoria: Veículo aéreo não tripulado (VANT ou drone), de quatro rotores verticais, próprio para ser controlado remotamente e capaz de realizar operações de missões automatizadas de seguir trajetória, realizar mapeamento, voo oblíquo e voo linear, com peso máximo de decolagem de 1.050 g, dimensões de 347,5 x 283 x 139,6 mm (diagonal de 380,1 mm) e autonomia de voo de 43 minutos, contendo uma câmera RGB de 20 MP e quatro câmeras multiespectrais de 5 MP (verde (G), vermelho (R), borda vermelha (RE) e infravermelho próximo (NIR)), capazes de capturar fotos e gravar vídeos simultaneamente, sensor de luz solar espectral, slot para cartão microSD, sistema de navegação (GPS, Galileo, BeiDou, GLONASS) e módulo RTK (opcional) e sistema visual e infravermelho para posicionamento e detecção de obstáculos, destinado a monitoramento e mapeamento agrícola por meio de imagens multiespectrais, apresentado numa maleta de transporte que inclui uma bateria de voo inteligente, controle remoto, carregador de bateria, cabo de alimentação, cabo de comunicação USB 3.0 tipo-C e adaptador USB.
+Dispositivos Legais: RGI 1 (Nota 1 do Capítulo 88), RGI 3 b) e RGI 6 da NCM constante da TEC, aprovada pela Resolução Gecex nº 272, de 2021, e da Tipi, aprovada pelo Dec. nº 11.158, de 2022; RGC/Tipi 1 constante da Tipi; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 2.169, de 2023, e com as suas alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.100-2024.pdf]
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma do Ceclam
