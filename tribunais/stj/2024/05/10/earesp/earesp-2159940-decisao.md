@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de embargos de divergência interpostos pela SCHUMANN MÓVEIS E ELETRODOMÉSTICOS LTDA., contra acórdão lavrado pela Quarta Turma do Superior Tribunal de Justiça, de relatoria da Ministra Maria Isabel Gallotti, em decisão assim ementada (fl. 8.552):
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE DEMONSTRAÇÃO. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal se, como no caso dos autos, não estiver demonstrado nos moldes do art. 1.029, § 1º, do Código de Processo Civil/2015.
+3. Agravo interno a que se nega provimento.
+Embargos de declaração rejeitados (fl. 8.589):
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE DEMONSTRAÇÃO. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição, vícios inexistentes no acórdão embargado.
+2. Embargos de declaração rejeitados.
+Aduz a parte embargante que "os Acórdãos confrontados tratam da (im)possibilidade de ampliação do conceito de consumidor previsto no art. 2º, do CDC, para alcançar pessoas que, embora não sejam destinatário final do produto e/ou serviço fornecido, se encontram em situação de vulnerabilidade." (fl. 8.611).
+Sustenta, ainda, que por qualquer ângulo que se examine a questão, observa-se que houve interpretação divergente entre as Turmas desta Corte Superior acerca da utilização da taxa CDI para atualização monetária, situação que resulta em insegurança jurídica aos jurisdicionados, de modo o presente recurso deve ser devidamente processado, para uniformização da jurisprudência interna deste Tribunal Superior." (fl. 8.615).
+Eis as ementas dos acórdãos apontados como paradigmas:
+RECURSO ESPECIAL. CONSUMIDOR. PROCESSUAL CIVIL. MONITÓRIA. CONCEITO DE CONSUMIDOR. TEORIA FINALISTA MITIGADA. INVERSÃO DO ÔNUS DA PROVA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. DESPACHO SANEADOR. FIXAÇÃO DOS PONTOS CONTROVERTIDOS. AGRAVO DE INSTRUMENTO. DECISÃO DE MÉRITO. POSSIBILIDADE, EM TESE. NO JULGAMENTO, INCABÍVEL.
+1. Agravo de instrumento interposto em 05/12/2016, recurso especial interposto em 30/10/2017 e distribuído a este gabinete em 27/09/2018.
+2. Os propósitos recursais consistem em: (i) verificar a possibilidade de classificação dos recorridos como consumidores, para fins de inversão do ônus da prova; (ii) a possibilidade de, na hipótese, inverter o ônus probatório; (iii) possibilidade de arguir, em sede de agravo de instrumento, matéria relativa à fixação dos pontos controvertidos.
+3. A jurisprudência desta Corte Superior tem ampliado o conceito de consumidor e adotou aquele definido pela Teoria Finalista Mista, isto é, estará abarcado no conceito de consumidor todo aquele que possuir vulnerabilidade em relação ao fornecedor, seja pessoa física ou jurídica, embora não seja tecnicamente a destinatária final do produto ou serviço. Jurisprudência.
+4. A discussão acerca do cabimento ou não da regra de instrução probatória inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência técnica do consumidor e da verossimilhança das alegações deduzidas, cuja apreciação é obstada em sede de recurso especial, por força da Súmula nº 7/STJ.
+5. Em tese, questões de mérito julgadas em decisões interlocutórias são passíveis de recurso por agravo de instrumento, mas, na hipótese em julgamento, modificar a decisão mantidas pelos graus ordinários de jurisdição - de que a forma como foi fixada o ponto controvertido não afeta o mérito - ensejaria a necessidade de reexaminar o acervo fático probatório, o que é obstado pela Súmula 7/STJ.
+6. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.798.967/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/10/2020, DJe de 10/12/2020.)
+BANCÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA CDI. UTILIZAÇÃO COMO CORREÇÃO MONETÁRIA. INADMISSIBILIDADE. ÍNDICE QUE NÃO REFLETE A DESVALORIZAÇÃO DA MOEDA, MAS UMA REMUNERAÇÃO DEVIDA EM EMPRÉSTIMOS INTERBANCÁRIOS. RECURSO ESPECIAL NÃO PROVIDO.
+1. A correção monetária não causa o ganho de capital pelo credor, mas apenas mantém inalterado seu patrimônio, evitando o enriquecimento do devedor, que deve devolver a quantia emprestada com preservação do valor real do patrimônio, que, naturalmente foi corroído pela inflação durante o período em que o dinheiro esteve à disposição do mutuário.
+2. Considerando que a correção monetária contempla índice que recompõe a desvalorização da moeda, a aplicação da taxa CDI a este título se mostra mesmo inadequada, em razão da sua própria natureza.
+3. Recurso especial não provido.
+(REsp n. 2.081.432/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/8/2023, DJe de 29/8/2023.)
+É, no essencial, o relatório.
+Os presentes embargos de divergência não reúnem condições de admissibilidade.
+Verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 7/STJ.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior. "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Nesse senti do, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DEMONSTRAÇÃO DO DISSÍDIO. REQUISITOS DO ART. 1.043, § 4º DO CPC/2015. INOBSERVÂNCIA. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS CONFRONTADOS. MÉRITO DO RECURSO ESPECIAL NÃO APRECIADO. SÚMULA 315/STJ. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Consoante a jurisprudência desta Corte, configura pressuposto indispensável para a comprovação da divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (I) a juntada de certidões; (II) apresentação de cópias do inteiro teor dos acórdãos apontados; (III) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (IV) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.
+2. Na hipótese em julgamento, contudo, a parte deixou de instruir os autos com o inteiro teor do acórdão paradigma, o que enseja o indeferimento liminar dos embargos de divergência. Precedentes.
+3. Não cabem embargos de divergência quando não há a devida similitude fático-jurídica entre os acórdãos confrontados. Precedentes.
+4. Segundo a jurisprudência desta Corte, não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, atraindo, por analogia, a Súmula 315/STJ.
+5. Agravo interno não provido. (AgInt nos EAREsp n. 1.879.885/RJ, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 25/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. INCIDÊNCIA DA SÚMULA 315/STJ. MÉRITO NÃO EXAMINADO POR ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. Nos termos da Súmula 315 deste STJ, "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Aplicação analógica à hipótese.
+2. No caso dos autos, a Quarta Turma, ao julgar o agravo interno, reconsiderou a decisão agravada que anteriormente havia aplicado a Súmula 182/STJ, contudo, quanto à ilegitimidade passiva da ora agravante, consignou que a reforma do julgado oriundo do Tribunal a quo demandaria, necessariamente, a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, a teor do disposto nas Súmulas 5 e 7 do STJ.3. Não tendo sido efetivamente apreciado o mérito do recurso especial no acórdão embargado, os embargos de divergência são manifestamente inadmissíveis.4. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. (AgInt nos EAREsp n. 1.813.616/DF, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 18/8/2022.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12%, sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 7/STJ. MÉRITO DO RECURSO ESPECIAL NÃO APRECIADO. REGRA TÉCNICA DE CONHECIMENTO. ÓBICE DA SÚMULA N. 315/STJ. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA.
