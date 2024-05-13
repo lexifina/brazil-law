@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial do MUNICÍPIO DE GUARUJÁ no qual se insurgira contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A questão debatida nos autos, qual seja, a "responsabilidade do arrematante pelos débitos tributários anteriores à arrematação, incidentes sobre o imóvel, em consequência de previsão em edital de leilão", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.134), dos Recursos Especiais 1.914.902/SP, 1.944.757/SP e 1.961.835/SP, de relatoria do Ministro Teodoro Silva Santos.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia , o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
