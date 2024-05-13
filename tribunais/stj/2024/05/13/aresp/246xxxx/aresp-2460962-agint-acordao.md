@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de usucapião.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interposto por CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO, contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negou-lhe provimento.
+Ação: de usucapião, ajuizada por ELI MÁRCIO DENONI AZEVEDO, em face da agravante.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+EMENTA - USUCAPIÃO ORDINÁRIO - Demanda que tem como objeto área de 1,14 hectares aonde, segundo o autor, nela exerce atividade agropecuária desde os idos de 2007 - Procedência decretada - Inconformismo da Companhia Energética - Afastamento - Alteração de anterior posicionamento desta Turma Julgadora - Posse do autor sobre a área, exercida há mais de 10 anos, sem qualquer oposição - Área objeto de desapropriação pela CESP desde os idos de 1972, sem que, no entanto, tivesse conferido a ela destinação pública (aonde também se encontram construídas diversas residências, reafirmando o abandono da apelante) - Exercício da posse, com animus domini, pelo polo ativo, devidamente comprovado nos autos (através da oitiva de testemunhas, declarações de imposto de renda e outros documentos) - Atendimento do lapso temporal legal - Viabilidade da usucapião - Precedentes - Sentença mantida Recurso improvido.
+Decisão monocrática: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, devido à ausência de violação dos arts. 489 e 1.022, do CPC e à incidência da Súmula 7/STJ.
+Razões do agravo: Nas razões do presente recurso a agravante apresenta os seguintes argumentos:
+a) que haveria negativa de prestação jurisdicional e os arts. 489 e 1.022, do CPC teriam sido violados, em razão de contradições e omissões acerca de questões essenciais, relativas à ausência de preenchimento dos requisitos da usucapião, considerada as provas dos autos, à natureza do imóvel e ao fato do agravado ser proprietário de outros imóveis; e
+b) que a Súmula 7/STJ seria inaplicável, ante a impossibilidade de aquisição do imóvel por usucapião, considerada a sua natureza e a comprovação do não preenchimento dos requisitos cumulativos necessários para configuração da usucapião de imóvel rural.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de usucapião.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno no agravo em recurso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, devido à ausência de violação dos arts. 489 e 1.022, do CPC e à incidência da Súmula7/STJ.
+Veja-se o que constou na decisão (e-STJ fls. 556/559):
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da questão relativa à prescrição aquisitiva e à inexistência de óbice ao seu reconhecimento em prol do agravado (e-STJ, fls. 349/353), além de consignar que "a alegação de que seria o embargado proprietário de outro bem, sequer foi deduzida em sede de apelação e, de qualquer, forma, em nenhum momento demonstrada" (e-STJ, fls. 367/368), de maneira que os embargos de declaração opostos pela agravante de fato não comportavam acolhimento.
+A agravante alega a existência de contradição no acórdão recorrido, ao afirmar que o imóvel estaria localizado em área pública e entender pela inexistência de óbice ao reconhecimento da prescrição aquisitiva.
+O Tribunal de origem foi claro ao entender que, apesar do imóvel estar localizado em área pertencente à agravante, não haveria óbice ao reconhecimento da prescrição aquisitiva, tendo em vista que a agravante não a teria lhe conferido destinação pública (e-STJ, fls. 349/353 e 368). Assim, não há que se falar em contradição.
+Ressalte-se que a contradição autorizativa do manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao preenchimento dos requisitos da usucapião e à conclusão acerca da inexistência de óbice ao reconhecimento da prescrição aquisitiva em prol do agravado, da ausência de destinação pública da área objeto de discussão e da ausência de demonstração de que o agravado seria proprietário de outro bem, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+1. Da ofensa ao arts. 489 e 1.022, do CPC
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido examinou todas as questões relevantes para o deslinde da controvérsia. O Tribunal de origem tratou de todos os temas oportunamente colocados pela agravante, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas pela agravante, relativas à prescrição aquisitiva e à inexistência de óbice ao seu reconhecimento em prol do agravado, à natureza do imóvel e à alegação de que o agravado seria proprietário de outros imóveis (e-STJ fls. 349/353 e 367/368), sob viés diverso do pretendido, o que não dá ensejo à oposição de embargos de declaração.
+Ressalte-se o que restou consignado pelo Tribunal de origem:
+Com efeito, se de um lado é incontroverso que o imóvel objeto da presente ação (na verdade, faixa de 1,14 hectares) encontra-se localizado em área pertencente à apelante CESP e, portanto, pública, entendo que, no caso concreto, inexiste óbice ao reconhecimento da prescrição aquisitiva em prol do apelado até mesmo porque a companhia energética, embora tenha desapropriado a área nos idos de 1972 (portanto, há 40 anos) não conferiu à mesma, destinação pública.
+Insta ainda consignar que, a despeito da argumentação da apelante, o recorrido comprovou que desde os idos de 2007, ocupa a área sem qualquer oposição, com animus domini (portanto, há mais de dez anos).
+E mais, que o exercício da posse não pode ser considerado recente, tendo como objeto somente a certidão do Oficial de Justiça indicada nas razões recursais (no sentido de que ali se encontra erigida construção recente), mas também de acordo com a prova testemunhal e declarações de imposto de renda, comprobatórias da longevidade da posse exercida e com ânimo de dono sendo irrelevante a circunstância de o apelado lá fazer ou não sua residência ou desenvolver atividade agropecuária (sendo esta última a efetiva destinação por ele conferida no local, ao longo dos anos).
+De igual forma, também não se pode a admitir tratar-se de mera detenção, como sustenta a recorrente.
+A situação fática versada, portanto, enfraquece a tese contida nas razões de apelação, não se podendo concluir pela impossibilidade do reconhecimento da prescrição aquisitiva, por se cuidar de imóvel público e pela vedação contida no artigo 183, § 3º, da Constituição Federal, bem como 102 do Código Civil justamente diante da incontroversa ausência de destinação pública, pela companhia energética, quanto à área usucapienda.
+E mais. Como bem observa a r. sentença guerreada, em mera consulta ao aplicativo Google Maps, verifica-se que no local já existe situação consolidada (loteamento com diversos imóveis), o que reafirma a ausência de destinação pública à área e o abandono da mesma, pela apelante, há décadas.
+A corroborar este entendimento, diversos precedentes deste E. Tribunal, conforme segue:
+(..)
+Em vista disso, tenho que o decreto de procedência mostrou-se acertado, motivo pelo qual fica mantida a r. sentença guerreada, em seus inteiros termos, majorando-se os honorários advocatícios (art. 85, par. 11, CPC), para 20% sobre o valor atribuído à causa, devidamente atualizado. (e-STJ, fls. 349/353)
+A alegação de que seria o embargado proprietário de outro bem, sequer foi deduzida em sede de apelação e, de qualquer forma, em nenhum momento demonstrada.
+Quanto ao mais, de maneira suficientemente fundamentada, entendeu a Turma Julgadora pela manutenção da r. sentença de primeiro grau e pelo reconhecimento da prescrição aquisitiva em favor do embargado.
+Com relação ao exercício da posse, restou demonstrada que supera dez anos, restando ainda afastada a argumentação de que se cuidaria de bem público. Nesse particular, conforme precedentes outros envolvendo casos idênticos, tem-se que, muito embora tenha a área sido objeto de desapropriação pela embargante há cinco décadas, a mesma não conferiu destinação pública ao local (aonde foram construídas diversas residências, incluindo a do embargado). Tais circunstâncias levaram ao acerto quanto ao reconhecimento da prescrição aquisitiva em favor deste último. (e-STJ, fls. 367/368)
+Da mesma forma, o Tribunal de origem deixou claro que, apesar do imóvel estar localizado em área pertencente à agravante, não haveria óbice ao reconhecimento da prescrição aquisitiva, tendo em vista que a agravante não a teria lhe conferido destinação pública (e-STJ, fls. 349/353 e 368), de modo que não há que se falar em contradição.
+De outro turno, alega a agravante violação do art. 489 do CPC.
+No entanto, como já destacado acima, a questão foi devida e suficientemente fundamentada no acórdão recorrido.
+Analisado o tema de forma expressa e coerente, com adequada motivação, não há se falar em negativa ou carência na prestação jurisdicional.
+2. Da Súmula 7/STJ
+Alterar as conclusões adotadas pelo Tribunal de origem, no que se refere ao preenchimento dos requisitos da usucapião e à inexistência de óbice ao reconhecimento da prescrição aquisitiva em prol do agravado, à ausência de destinação pública da área objeto de discussão e à ausência de demonstração de que o agravado seria proprietário de outro bem, de fato, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Cumpre ressaltar o que restou consignado pelo Tribunal de origem quanto às questões:
+Com efeito, se de um lado é incontroverso que o imóvel objeto da presente ação (na verdade, faixa de 1,14 hectares) encontra-se localizado em área pertencente à apelante CESP e, portanto, pública, entendo que, no caso concreto, inexiste óbice ao reconhecimento da prescrição aquisitiva em prol do apelado até mesmo porque a companhia energética, embora tenha desapropriado a área nos idos de 1972 (portanto, há 40 anos) não conferiu à mesma, destinação pública.
+Insta ainda consignar que, a despeito da argumentação da apelante, o recorrido comprovou que desde os idos de 2007, ocupa a área sem qualquer oposição, com animus domini (portanto, há mais de dez anos).
+E mais, que o exercício da posse não pode ser considerado recente, tendo como objeto somente a certidão do Oficial de Justiça indicada nas razões recursais (no sentido de que ali se encontra erigida construção recente), mas também de acordo com a prova testemunhal e declarações de imposto de renda, comprobatórias da longevidade da posse exercida e com ânimo de dono sendo irrelevante a circunstância de o apelado lá fazer ou não sua residência ou desenvolver atividade agropecuária (sendo esta última a efetiva destinação por ele conferida no local, ao longo dos anos).
+De igual forma, também não se pode a admitir tratar-se de mera detenção, como sustenta a recorrente.
+A situação fática versada, portanto, enfraquece a tese contida nas razões de apelação, não se podendo concluir pela impossibilidade do reconhecimento da prescrição aquisitiva, por se cuidar de imóvel público e pela vedação contida no artigo 183, § 3º, da Constituição Federal, bem como 102 do Código Civil justamente diante da incontroversa ausência de destinação pública, pela companhia energética, quanto à área usucapienda.
+E mais. Como bem observa a r. sentença guerreada, em mera consulta ao aplicativo Google Maps, verifica-se que no local já existe situação consolidada (loteamento com diversos imóveis), o que reafirma a ausência de destinação pública à área e o abandono da mesma, pela apelante, há décadas. (e-STJ, fls. 349/351)
+A alegação de que seria o embargado proprietário de outro bem, sequer foi deduzida em sede de apelação e, de qualquer forma, em nenhum momento demonstrada.
+Quanto ao mais, de maneira suficientemente fundamentada, entendeu a Turma Julgadora pela manutenção da r. sentença de primeiro grau e pelo reconhecimento da prescrição aquisitiva em favor do embargado.
+Com relação ao exercício da posse, restou demonstrada que supera dez anos, restando ainda afastada a argumentação de que se cuidaria de bem público. Nesse particular, conforme precedentes outros envolvendo casos idênticos, tem-se que, muito embora tenha a área sido objeto de desapropriação pela embargante há cinco décadas, a mesma não conferiu destinação pública ao local (aonde foram construídas diversas residências, incluindo a do embargado). Tais circunstâncias levaram ao acerto quanto ao reconhecimento da prescrição aquisitiva em favor deste último. (e-STJ, fls. 367/368)
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa à referida Súmula.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
