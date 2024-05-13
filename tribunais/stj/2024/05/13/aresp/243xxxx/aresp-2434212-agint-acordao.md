@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE HABILITAÇÃO/LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não prospera a alegada ofensa ao art. 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S.A. contra decisão proferida por esta Relatoria (fls. 1.487-1.491), que conheceu do agravo para negar provimento ao recurso especial, sob o fundamento de ausência de violação do art. 1.022 do CPC/2015 e de incidência das Súmulas 7 e 83 desta Corte.
+Em suas razões recursais, o agravante sustenta que houve a violação do art. 1.022 do CPC/2015, sendo que "A negativa de prestação jurisdicional restou bem delineada em seu recurso especial, tendo aberto tópico específico para a insurgência (e-STJ, fls. 1.390-1.398) expondo de maneira consistente e fundamentada, as razões pelas quais o Tribunal de origem manteve a omissão, qual seja: a inexistência do devido enfrentamento quanto a abrangência maior da primeira ação de cobrança, uma vez que a ação de cobrança primeva (processo nº 200952000088 - Número único: 0001676-93.2009.8.25.0034) abrangeu todas as variações da poupança (100.003.012-9, 200.003.012-7, 300.003.012-5, 400.003.012-3), de modo que deve ser restabelecida a sentença que julgou extinto o cumprimento de sentença da segunda ação, pelo reconhecimento da coisa julgada material" (fls. 1.503-1.504).
+Devidamente intimada, a parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE HABILITAÇÃO/LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não prospera a alegada ofensa ao art. 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+2. Agravo interno desprovido.
+VOTO
+Cabe examinar, no presente recurso, tão somente a parte impugnada da decisão hostilizada, permanecendo incólumes os fundamentos não refutados pelo agravante.
+Em que pese a argumentação tecida nas razões recursais, não merece êxito a insurgência.
+Como consignado no decisum impugnado, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA TURMA, DJe de 6/5/1996).
+Com efeito, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2019).
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No julgamento proferido em sede de embargos de declaração, ficou esclarecido que:
+O embargante alega erro material também em relação ao julgamento da apelação dos embargados. Aduz: "Na ação de cobrança nº 200952000088, diversamente do que alegado pela Douta Desembargadora, foram requeridos os pagamentos dos expurgos dos planos verão e bresser de todas as poupanças e não só de uma" e afirma: "no momento da interposição da ação, a autora/embargada não estava de posse dos extratos da poupança, de modo que só mencionou a conta base, sem destrinchar todas as variações da poupança.".
+Ocorre que, após detida análise dos autos do processo nº 200952000088 verifiquei que naquela demanda buscava-se a condenação da parte ré ao pagamento de valor resultante da aplicação de expurgos inflacionários relacionados tão somente à conta de caderneta de poupança nº 200.003.012-7.
+Nesse sentido, o voto embargado:
+"No presente caso, é possível perceber que, ao contrário do que informado na sentença recorrida, na ação de conhecimento anteriormente proposta (processo nº 200952000088) busca-se a condenação da parte ré ao pagamento de valor resultante da aplicação de expurgos inflacionários relacionados tão somente à conta de caderneta de poupança nº 200.003.012-7, enquanto que a presente Liquidação de Sentença (processo nº 201452101488) pretende a aplicação dos expurgos inflacionários nos valores contidos na poupança de titularidade do falecido, quais sejam, conta de depósito em caderneta de poupança sob o número 200.003.012-7 e 400.003.012-3 junto à agencia 0278-X.
+Dito isso, evidencia-se que a Liquidação de Sentença (processo nº 201452101488) mostra-se mais abrangente do que a ação de cobrança (processo nº 200952000088).
+Assim, não tendo a conta poupança 400.003.012-3 sido objeto de análise do processo nº 200952000088 não há como ser abarcada pelo instituto da coisa julgada material, merecendo reforma, nessa parte, a sentença de primeiro grau."
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a se ater aos fundamentos por elas indicados. Nesse sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AÇÃO COMINATÓRIA. VÍCIOS DE CONSTRUÇÃO. OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA O ACÓRDÃO RECORRIDO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OU OBSCURIDADE. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 535 DO CPC. FALTA DE INTIMAÇÃO PARA ACOMPANHAR VISTORIA. ART. 431-A DO CPC. PREJUÍZO NÃO DEMONSTRADO. NULIDADE. AUSÊNCIA. DECADÊNCIA. PRAZO. TERMO INICIAL. ART. 618, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. NÃO OCORRÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ ..
+(REsp 1.296.849/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2017, DJe de 20/02/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
