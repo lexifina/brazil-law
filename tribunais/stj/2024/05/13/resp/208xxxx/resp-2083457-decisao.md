@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO JOÃO DA BARRA no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+A questão debatida nos autos, qual seja, "definir se, para efeito de cabimento do recurso de apelação em execução fiscal do mesmo tributo, deve ser observado o montante total do título executado ou os débitos individualmente considerados, nos termos do art. 34, caput e § 1º, da Lei n. 6.830/1980", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.248/STJ), dos Recursos Especiais 2.077.135/RJ, 2.077.138/RJ, 2.077.319/RJ e 2.077.461/RJ, de relatoria da Ministra Regina Helena Costa.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Publicado o acórdão paradigma, caberá ao Tribunal a quo realizar eventual juízo de conformação nos termos do art. 1.040 do CPC ao que vier a ser decidido no recurso representativo de controvérsia.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimações necessárias.
+EMENTA
