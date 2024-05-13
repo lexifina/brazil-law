@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CAIO CESAR RODRIGUES DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500401-20.2021.8.26.0185).
+Depreende-se dos autos que o réu foi condenado a 7 anos, 9 meses e 10 dias de reclusão, no regime inicialmente semiaberto, e 9 meses e 10 dias de detenção, pela prática dos delitos previstos nos arts. 33, caput, da Lei de Drogas, e 309 da Lei n. 9.503/1997.
+Transitada em julgado a condenação, a defesa ajuizou revisão criminal, cujo pedido foi indeferido pelo Tribunal de origem.
+Daí o presente writ, no qual alega a defesa que o paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, liminarmente e no mérito, que seja aplicada a fração de 1/8 sobre a pena mínima abstratamente cominada, para a exasperação da pena-base.
+É o relatório.
+Decido.
+O exame das alegações formuladas pela defesa evidencia, de plano, que a tese declinada no presente writ não encontra amparo na jurisprudência firmada nesta Corte, razão pela qual vislumbro ser o caso de denegação liminar da ordem.
+Como é cediço, a primeira etapa de fixação da reprimenda tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal.
+As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao julgador apresentar elementos concretos de convicção presentes no bojo do processo, sendo inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade, sem indicação de dados concretos, objetivos e subjetivos, que justifiquem o afastamento da pena do mínimo legal estabelecido ao tipo penal.
+Nesse contexto, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Assim, acerca do tema, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+Uma vez que as instâncias ordinárias decidiram em conformidade com a orientação firmada neste Tribunal Superior, não vislumbro a ilegalidade apontada.
+À vista do exposto, denego a ordem liminarmente.
+Publique-se. Intimem-se.
+EMENTA
