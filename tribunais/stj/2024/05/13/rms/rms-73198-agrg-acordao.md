@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e OTÁVIO DE ALMEIDA TOLEDO (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VEÍCULO AUTOMOTOR. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 267/STF. CABIMENTO DO RECURSO DE APELAÇÃO E/OU AJUIZAMENTO DE EMBARGOS DE TERCEIROS. PRECEDENTES DESTA CORTE SUPERIOR.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundament o da decisão atacada.
+2 . Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Alam Conceicao Peres contra decisão de minha lavra, em que não conheci do recurso em mandado de segurança interposto em seu favor, nos termos da seguinte ementa (fl. 131):
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO PENAL. PROCESSO PENAL. INDEFERIMENTO DO PEDIDO DE RESTITUIÇÃO DE VEÍCULO APREENDIDO. WRIT IMPETRADO COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA MANDAMENTAL. SÚMULA 267/STF. SUPRESSÃO DE INSTÂNCIA.
+Recurso ordinário em mandado de segurança não conhecido.
+No presente regimental, o agravante repisa as alegações trazidas no recurso em mandado de segurança. Afirma que há nos autos documentos que comprovam ser o recorrente o proprietário do veículo e que necessita do veículo para trabalhar como motorista de aplicativo uber. Acrescenta que é terceiro de boa-fé, não figura como parte na ação penal e não possui qualquer envolvimento com o acusado (referido veículo havia sido utilizado em um fato criminoso ocorrido no dia 27/5/2023 - suspeita de ter sido utilizado na prática do crime do art. 155, §§1º e 4º,I e IV, do Código Penal -). Assevera, por derradeiro, que optou por manejar o Mandado de Segurança nº 0818325-23.2023.8.14.0000, amparando-se na Súmula nº 202 do STJ (fl. 142).
+Pretende, assim, em reconsideração ou julgamento colegiado, o provimento do recurso a fim de restituir o bem apreendido (VW/GOL 1.0 L Renavam 01201486626, COR BRANCA, PLACA QVC 7796) ao agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VEÍCULO AUTOMOTOR. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 267/STF. CABIMENTO DO RECURSO DE APELAÇÃO E/OU AJUIZAMENTO DE EMBARGOS DE TERCEIROS. PRECEDENTES DESTA CORTE SUPERIOR.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundament o da decisão atacada.
+2 . Agravo regimental improvido.
+VOTO
+Ao não conhecer do recurso em mandado de segurança, disse eu o seguinte (fls. 132/134):
+A insurgência é manifestamente descabida.
+Com efeito, o Superior Tribunal de Justiça tem jurisprudência no sentido de que o cabimento de mandado de segurança contra decisão judicial é admitido somente de forma excepcional, quando se tratar de ato manifestamente ilegal ou teratológico e não houver instrumentos recursais próprios da via ordinária, previstos na legislação processual, de modo a impedir lesão ou ameaça de lesão a direito líquido e certo, cuja comprovação dispensa instrução probatória.
+No presente caso, contra a decisão que indefere restituição de bem apreendido o instituto processual cabível é a apelação (pelo réu), além da possibilidade do ajuizamento de embargos de terceiros (proprietário não envolvido na investigação/ação penal).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. DECRETAÇÃO DE PERDIMENTO DE VEÍCULO UTILIZADO NA PRÁTICA DE TRÁFICO DE DROGAS. MANDADO DE SEGURANÇA. NÃO CABIMENTO. ATO JUDICIAL PASSÍVEL DE RECURSO PRÓPRIO. SÚMULA 267 DO STF. EMBARGOS DE TERCEIRO.
+1. "Nos termos da jurisprudência deste Superior Tribunal de Justiça, o cabimento do mandado de segurança está atrelado à existência de direito líquido e certo a ser tutelado, não podendo ser utilizado o remédio heroico para impugnar decisões judiciais das quais caibam recurso próprio, exceto quando evidenciada flagrante ilegalidade ou teratologia que se pretenda desconstituir." (RMS 50.246/AP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018). Corroborando tal afirmação, o teor do Enunciado da Súmula 267 do STF, segundo o qual: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+2. Tal entendimento prevalece mesmo quando há perda de bens e até mesmo em prejuízo de terceiros, pois "o mandado de segurança, posto configurado constitucionalmente para as hipóteses de "abuso de autoridade", não é substitutivo da ação de "embargos de terceiro", cuja natureza cognitiva plenária e exauriente não pode ser sucedânea do writ, cuja cognição é sumária eclipsando objeto mediato aferível prima facie." (RMS 24.487/GO, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 16/11/2010, DJe 1º/12/2010.
+3. Hipótese em que a agravante comprova ser a legítima proprietária do veículo cuja perda foi decretada na sentença condenatória, pois foi utilizado intencionalmente em prol do narcotráfico. O réu entregou o automóvel em um posto de combustível localizado em Rio Branco para que a droga fosse devidamente camuflada no carro, que foi apreendido por ocasião da prisão em flagrante do réu - primo da ora agravante -, quando transportava cerca de 10 kg de cocaína.
+4. Determinação de perdimento do veículo que está em consonância com o ordenamento jurídico, não havendo que se falar em direito líquido e certo ao seu ressarcimento.
+5. O enunciado da Súmula 202 do STJ somente é aplicável no caso em que o terceiro não teve condições de tomar ciência da decisão que lhe prejudicou, ficando impossibilitado de se utilizar do recurso cabível, o que não se verifica na hipótese.
+6. Agravo regimental desprovido.
+(AgRg no RMS n. 67.876/RO, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022 - grifo nosso).
+AGRAVO REGIMENTAL EM RECURSO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VEÍCULO AUTOMOTOR. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART. 34, XVIII, B, DO RISTJ. SÚMULA 568/STJ. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 267/STF. CABIMENTO DO RECURSO DE APELAÇÃO. PRECEDENTES DESTA CORTE SUPERIOR. AUSÊNCIA DE VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO.
+1. Inexiste violação do princípio da colegialidade, quando a decisão monocrática for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça, como autorizado pelo art. 34, XVIII, b, do RISTJ e pela Súmula 568/STJ.
+2. No caso, a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante.
+3. É consolidado no Superior Tribunal de Justiça o entendimento de que o procedimento adequado para a restituição de bens é o incidente legalmente previsto para este fim, com final apelação, recurso inclusive já interposto pelo recorrente, sendo incabível a utilização de Mandado de Segurança como sucedâneo do recurso legalmente previsto (AgRg no RMS n. 51.299/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/9/2016).
+4. Agravo regimental improvido.
+(AgRg no RMS n. 63.106/SP, da minha relatoria, Sexta Turma, DJe 14/9/2020 - grifo nosso).
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CABIMENTO DO RECURSO. DECRETAÇÃO DE PERDIMENTO DE VEÍCULO UTILIZADO NO TRÁFICO DE DROGAS. TERCEIRO DE BOA FÉ. PROPRIEDADE DO VEÍCULO. DISCUSSÃO INVIÁVEL NA VIA ELEITA, NA MEDIDA EM QUE IMPÕE ANÁLISE DE MATERIAL PROBATÓRIO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. Impende consignar que os arts. 932 do Código de Processo Civil - CPC c/c o 3º do CPP e 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, permitem ao relator negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante nos Tribunais superiores, não importando em cerceamento de defesa ou violação ao princípio da colegialidade (RHC 59.075/MG, Rel. Ministro FELIX FISCHER, DJe de 01/04/2016).
+2. Na esteira da jurisprudência desta Corte não se admite a impetração de mandado de segurança para impugnar decisão judicial passível de recurso próprio, referida orientação, inclusive, é objeto de Súmula da Suprema Corte, ex vi do enunciado n. 267. Na hipótese, desafia-se decisum que indeferiu pedido de restituição de bens apreendidos, de natureza definitiva, sendo cabível, portanto, o recurso de apelação, previsto no art. 593, II do Código de Processo Penal - CPP.
+3. A discussão acerca do direito de terceiro de boa-fé ou aquela relativa à utilização eventual do veículo pelo filho da recorrente para prática de crime, impõe o exame de material fático probatório, o que é vedado na via do mandado de segurança, pois pressupõe prova pré-constituída do direito alegado. Registre-se, por fim, que o veículo em questão foi utilizado como instrumento para a prática do crime de tráfico de drogas quando em posse do filho da ora recorrente, preso em flagrante, o qual, por sinal, era o antigo proprietário do bem em debate.
+Agravo interno desprovido.
+(AgInt no RMS n. 53.398/MS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/10/2018 - grifo nosso).
+RECURSO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VEÍCULO. IMPOSSIBILIDADE. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE.
+1. Não cabe mandado de segurança contra ato judicial passível de recurso ou correição (Súmula 267/STF).
+2. Ausente direito líquido e certo quanto à pertinência do pedido de devolução do bem apreendido, inviável é a impetração. No âmbito de mandado de segurança, não tem cabimento dilação probatória.
+3. Tratando-se de bem indicado pelo Ministério Público como necessário ao menos para reduzir os prejuízos do erário é inviável a restituição (artigo 118 do CPP) - precedente da Corte Especial.
+4. Recurso ordinário em mandado de segurança improvido.
+(RMS n. 41.201/SP, da minha relatoria, Sexta Turma, DJe 11/4/2014 - grifo nosso).
+Dessa forma, incide à espécie o óbice da Súmula 267/STF: não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+Ante o exposto, não conheço do recurso ordinário em mandado de segurança.
+Publique-se.
+Pois bem. A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir nenhum de seus fundamentos, motivo pelo qual os trago ao Colegiado para serem confirmados.
+Conforme consignado na decisão agravada, na esteira da jurisprudência desta Corte não se admite a impetração de mandado de segurança para impugnar decisão judicial passível de recurso próprio, referida orientação, inclusive, é objeto de Súmula da Suprema Corte, ex vi, do enunciado n. 267. In casu, desafia-se decisum que indeferiu pedido de restituição de bem apreendido (veículo VW/GOL 1.0 L Renavam 01201486626, COR BRANCA, PLACA QVC 7796), sendo cabível, portanto, o instituto processual do recurso da apelação (pelo réu), além da possibilidade do ajuizamento de embargos de terceiros (proprietário não envolvido na investigação/ação penal).
+Acrescenta-se, por oportuno, que a discussão acerca do direito de terceiro de boa-fé e eventual utilização anterior do veículo para suposta prática do crime de furto qualificado impõe o exame de material fático- probatório, o que é vedado na via do mandado de segurança, o qual pressupõe prova pré-constituída do direito alegado.
+Ante o expost o, nego provimento ao agravo regimental.
