@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. As razões do recurso especial estão dissociadas do que foi decidido no acórdão recorrido, caracterizando a deficiência na fundamentação, uma vez que não se demonstrou de que forma houve vulneração de tais dispositivos pelo Órgão Colegiado. Portanto, quanto à pretensão em análise, inafastáveis as Súmulas n. 283 e 284 do STF.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 662/676) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante considera inaplicáveis as Súmulas n. 5 e 7 do STJ e 283 e 284 do STF, argumentando que "o exame do recurso especial interposto, relativamente à análise das violações aos ao art. 1º, § 3º e pelo artigo 2º do Decreto nº. 22.636/33, da Súmula 596/STF e do art. 395 do Código Civil, bem como da divergência jurisprudencial decorrem da estrita análise do conteúdo delineado no próprio acórdão recorrido sobre o caso em cotejo com os dispositivos legais que sofreram violação e com o arresto paradigma, sem a necessidade de incursão no conjunto fático probatório dos autos de origem  ..  O exame das razões recursais não exige qualquer análise de cláusulas contratuais, tampouco de circunstâncias do caso concreto" (e-STJ fl. 663).
+Alegou ainda que "a decisão ora agravada majorou os honorários recursais em patamar máximo, sem qualquer fundamentação  ..  não cabe, no entanto, a majoração de honorários recursais de forma automática e sem qualquer fundamentação, tal como realizado pela decisão agravada" (e-STJ fl. 670).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação, requerendo a majoração dos honorários advocatícios e a imposição de multa por litigância de má-fé (e-STJ fls. 680/708).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. As razões do recurso especial estão dissociadas do que foi decidido no acórdão recorrido, caracterizando a deficiência na fundamentação, uma vez que não se demonstrou de que forma houve vulneração de tais dispositivos pelo Órgão Colegiado. Portanto, quanto à pretensão em análise, inafastáveis as Súmulas n. 283 e 284 do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 655/658):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC/2015 e (b) aplicação das Súmulas n. 5 e 7 do STJ e 283 e 284 do STF.
+O acórdão recorrido está assim ementado (e-STJ fl. 479):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. PRELIMINAR TRAZIDA EM CONTRARRAZÕES PUGNANDO PELO NÃO CONHECIMENTO DO RECURSO, POR AFRONTA À DIALETICIDADE RECURSAL. NÃO ACOLHIMENTO. ARGUMENTOS DE FATO E DE DIREITO QUE SÃO CAPAZES DEENFRENTAR OS FUNDAMENTOS DA SENTENÇA. RECURSO A SER CONHECIDO. MÉRITO. INSURGÊNCIA EM FACE DO MONTANTE DA CONDENAÇÃO. ALEGAÇÃO DE QUE O VALOR DEVIDO É MENOR. NÃO ACOLHIMENTO. DEVEDORA QUE CONFESSOU O DÉBITO CONFORME ANOTAÇÕES DA CREDORA. INEXISTÊNCIA DE PROVAS QUE DEMONSTREM QUE O DÉBITO SEJA MENOR. SENTENÇA A SER MANTIDA. HONORÁRIOS RECURSAIS FIXADOS. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 527/535).
+Nas razões do recurso especial (e-STJ fls. 538/552), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 11, 489, § 1º, IV, e 1.022, II, do CPC/2015, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matérias ventiladas nos embargos de declaração,
+(ii) arts. 1º, § 3º e 2º do Decreto n. 22.636/1933 e Súmula n. 596 do STF e 395 do CC/2002, por entender que "é incontroversa a cobrança de juros cumulativos. Com efeito, a autorização para a cobrança de juros contabilizados de forma composta, ofende o disposto em conjunto pelo artigo 1º, § 3º e pelo artigo 2º do Decreto 22.636/33" (e-STJ fl. 542).
+Em suma, são estes os pedidos recursais (e-STJ fl. 552):
+Ante o exposto, requer-se o provimento do presente para o fim de (1) reformar o acórdão recorrido, afastando-se o anatocismo mediante a aplicação do disposto pelos artigos 1º,§3º e 2º, do Decreto 22.636/33, e 395 do Código Civil, ou (2) para cassá-lo, anulando-o em razão da ausência de fundamentação da decisão que julgou os embargos de declaração, retornando os autos ao Egrégio Tribunal a quo para novo julgamento.
+Foram oferecidas contrarrazões (e-STJ fls. 562/588).
+No agravo (e-STJ fls. 594/612), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 616/643).
+É o relatório.
+Decido.
+A alegada violação da Súmula n. 596 do STF não comporta análise no recurso, pois, de acordo com a Súmula n. 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da agravante. Assim, não incorreu em omissão, contradição ou obscuridade. Desse modo, quanto à alegada afronta aos arts. 489 e 1.022 do CPC/2015, não assiste razão à parte recorrente.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+O TJPR, ao analisar as provas, entendeu que (e-STJ fls. 481/482):
+Compulsando o caderno processual, em breve síntese, vejo que a discussão trazida pela parte autora, ora Apelada, centrou-se no inadimplemento de parcelas do contrato de compra e venda celebrado com a parte ré, ora Apelante.
+Narrou a autora, em sua inicial, que no ano de 2009 as partes celebraram contrato de compra e venda referente a um apartamento e vagas de garagem junto ao Edifício Belluno, localizado nesta capital, no valor de R$1.525.000,00, a ser pago de forma parcelada. No entanto, alegou que as parcelas "f" e "g" do aludido contrato não foram adimplidas, resultando em um débito de R$1.813.111,79 (com as atualizações).
+A Ilustre Magistrada de primeiro grau, examinando toda a prova documental e testemunhal colacionada nos autos, em especial as anotações escritas pela própria autora, concluiu que a parcela "f" foi integralmente quitada, de modo que o saldo devedor era aquele confessado pela própria requerida.
+Cito, por oportuno, o trecho pertinente do depoimento prestado pela ré/apelante perante o Juízo: "(..) então os últimos pagamentos que foram feitos, demonstrados até no e-mail que ela mandou, tinha uma planilha, essa planilha que ela mandou está correta, o valor devido é aquele, e os pagamentos que ela lança ali estão corretos, de lá para cá nós não temos pagamentos, não temos negociação, mas o valor" (conforme transcrição que ela apresenta no e-mail, na planilha que ela escreveu é o valor correto efetiva pela sentença).
+Tal "valor correto" confessado pela ré é exatamente aquele que constou nas anotações da autora, presentes no mov. 33.42 - pág. 2.
+Ora, em face de tal confissão, a Apelante sustenta no apelo que o valor devido é outro, bem menor: R$ 146.281,00, mais as correções. Isso porque, em sua ótica, "para o valor de R$ 200.000,00 vencido em25/12/2012 chegar ao montante de R$ 558.237,66, houve a cobrança de juros remuneratórios, sendo que não foram considerados os valores pagos de R$ 53.719,00 conforme comprovado na planilha de ev. 33.9
+No entanto, tenho que a referida alegação não é capaz de derrubar a confissão da dívida ocorrida na instrução processual, mormente quando não há respaldo em que se sustente.
+Ora, mesmo o documento de mov. 33.9, que consiste em parecer pericial elaborado por contador, não demonstra o alegado pagamento de R$ 53.719,00. Aliás, salvo melhor juízo é claro, tal montante consta no documento como saldo devedor, e não como pagamento.
+Há que prevalecer, como muito bem entendeu o Juízo Singular, que nas anotações da credora, ratificadas pela devedora, declara-se o saldo devedor em R$558.237,66, valor este que entendo como efetivamente devido pela Apelante, uma vez que não há provas nos autos em sentido contrário.
+A reforma do acórdão implicaria análise do conjunto fático-probatório, principalmente das cláusulas contratuais, tendo em vista que haveria necessidade de verificar as circunstâncias do caso concreto, para reconhecer o descumprimento do contrato celebrado, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Por fim, quanto à suposta invalidade do contrato ante a alegada cumulação dos juros compensatórios, o TJPR afirmou tratar-se de inovação recursal, uma vez que referida tese foi suscitada somente em sede de embargos de declaração.
+Nesse ponto, as razões do recurso especial estão dissociadas do que foi decidido no acórdão recorrido, caracterizando a deficiência na fundamentação, uma vez que não demonstrou de que forma houve vulneração de tais dispositivos pelo Órgão Colegiado. Portanto, quanto à pretensão em análise, aplicam-se as Súmulas n. 283 e 284 do STF.
+Ainda que assim não fosse, tendo a Corte de origem destacado que a sentença não reconheceu a capitalização de juros no presente caso, iniciar qualquer juízo valorativo acerca das razões do aresto impugnado atrai o óbice das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+O Tribunal de origem entendeu "que nas anotações da credora, ratificadas pela devedora, declara-se o saldo devedor em R$ 558.237,66, valor este que entendo como efetivamente devido pela Apelante, uma vez que não há provas nos autos em sentido contrário" (e-STJ fl. 482).
+Para que se acolha a pretensão quanto à suposta invalidade do contrato, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastáveis as Súmulas n. 5 e 7 do STJ.
+Além disso, as razões do recurso especial estão dissociadas do que foi decidido no acórdão recorrido, caracterizando a deficiência na fundamentação, uma vez que não se demonstrou de que forma houve vulneração de tais dispositivos pelo Órgão Colegiado. Portanto, quanto à pretensão em análise, inafastáveis as Súmulas n. 283 e 284 do STF.
+Quanto à majoração dos honorários advocatícios em sede de recurso especial, não assiste razão à parte agravante. Conforme entendimento firmado nesta Corte, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando simultaneamente se apresentarem os seguintes requisitos: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil, b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente, e c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+No caso, considerando a existência de condenação em honorários sucumbenciais na instância de origem, correta a majoração imposta conforme o art. 85, § 11, do CPC/2015.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Não houve impugnação quanto aos demais pontos da decisão ora recorrida, operando-se a preclusão.
+Indefiro o pedido da parte agravada de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Por fim, segundo a jurisprudência do STJ, "não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno" (AgInt nos EDcl no REsp n. 1.772.480/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/7/2019, DJe 6/8/2019).
+Na mesma linha: AgInt nos EDcl no REsp n. 1.791.366/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/6/2019, DJe 26/6/2019.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
