@@ -1,0 +1,33 @@
+DECISÃO
+Na origem, trata-se de ação ordinária, objetivando a declaração da ilegalidade do art. 218, da Instrução Normativa n. 414/2010, alterada pelas Instruções Normativas ns. 479/2012 e 587/2013, todas da ANEEL, para desobrigar o ente municipal do recebimento do Sistema de Iluminação Pública registrado como Ativo Imobilizado em Serviço (AIS). Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 10.000,00 (dez mil reais).
+O recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+ADMINISTRATIVO. APELAÇÃO. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. LEGITIMIDADE PASSIVA. ENERGIA ELÉTRICA. TRANSFERÊNCIA DE ATIVOS DE ILUMINAÇÃO PÚBLICA. REMESSA OFICIAL E APELAÇÕES NÃO PROVIDAS.
+1. Não há falar em violação ao princípio da separação dos poderes, pois ao Judiciário é dado o dever de analisar a legalidade dos atos administrativos.
+2. Também não procede a arguição de ilegitimidade passiva, pois, como bem anotado na sentença, o artigo 218 da Resolução Normativa n. 414/2010, com alteração dada pela Resolução Normativa n. 479/2012 prevê o dever da distribuidora de transferir o sistema de iluminação pública à pessoa jurídica competente.
+3. O artigo 218 da Resolução Normativa n. 414/2010, com alteração dada pela Resolução Normativa n. 479/2012, dispõe que a distribuidora deve transferir o sistema de iluminação publica registrado como Ativo Imobilizado em Serviço - AIS a pessoa jurídica de direito público competente.
+4. Referida norma, na prática, tem como finalidade transferir aos municípios a responsabilidade das empresas distribuidoras de energia elétrica no que tange à manutenção, ampliação e modernização dos pontos de iluminação pública da cidade.
+5. Ocorre que, nos termos do artigo 21, XII, b, da Constituição Federal, a competência relativa aos serviços e instalações de energia elétrica é exclusiva da União Federal, que pode exercê-la por intermédio de uma empresa concessionária.
+6. Não se pode negar, portanto, que dentro dessa competência se insere o dever de manutenção, ampliação e modernização dos pontos de iluminação pública.
+7. Assim, não é possível que uma resolução - ato normativo inferior à Constituição Federal - trate dessa questão, alterando competência constitucionalmente estabelecida.
+8. É certo que o artigo 30, V, também da Constituição Federal estabelece que compete aos municípios "organizar e prestar, diretamente ou sob o regime de concessão ou permissão, os serviços públicos de interesse local", porém este artigo não pode ser interpretado isoladamente sem se considerar a disposição do artigo 21.
+9. Vale dizer, se o artigo 21 da Constituição Federal foi específico no que diz respeito à competência da União Federal quanto aos serviços e instalações de energia elétrica, não é lógico enquadrar esse mesmo dever no âmbito de competência dos municípios, ainda que o serviço de iluminação pública seja de interesse das cidades.
+10. Anote-se que não se trata de competência concorrente, ou privativa, que admite delegação, mas sim de competência material, executiva e exclusiva da União Federal.
+11. Além disso, ao estabelecer referida transferência de deveres, a ANEEL violou a autonomia municipal assegurada no artigo 18 da Constituição Federal, uma vez que, a princípio, estabeleceu nova obrigação ao município.
+12. Apelações e remessa oficial não providas.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Assim, não é possível que uma resolução - ato normativo inferior à Constituição Federal - trate dessa questão, alterando competência constitucionalmente estabelecida.
+ ..
+Anote-se que não se trata de competência concorrente, ou privativa, que admite delegação, mas sim de competência material, executiva e exclusiva da União Federal.
+Além disso, ao estabelecer referida transferência de deveres, a ANEEL violou a autonomia municipal assegurada no artigo 18 da Constituição Federal, uma vez que, a princípio, estabeleceu nova obrigação ao município.
+ ..
+Diz respeito à capacidade de os entes municipais, especialmente aqueles de pequeno porte, administrarem os equipamentos necessários à iluminação dos logradouros, o que ao fim poderia acabar gerando uma considerável deficiência na prestação do serviço público, atentando contra os princípios administrativos.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Considerando que há recurso extraordinário interposto nos autos, é inviável a providência prevista no art. 1.032 do CPC/2015. Nesse sentido: AgInt no REsp 1.626.653/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/9/2017, DJe 6/10/2017; REsp 1.674.459/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/8/2017, DJe 12/9/2017.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
