@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANDRITZ HYDRO BRASIL LTDA (ANDRITZ) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, alegou, a par do dissídio jurisprudencial, a violação do art. 507 do NCPC aduzindo que deve ser mantida a penhora, pois houve o pronunciamento judicial da matéria ocorrendo a preclusão consumativa.
+Em relação a alegada violação do art. 507 do NCPC, no que concerne a coisa julgada e a preclusão consumativa, o Tribunal local julgou nos seguintes termos:
+2. Ainda que os documentos tenham sido apresentados após o prazo fixado originariamente pelo juízo a quo, ela ocorreu no ritmo processual que permitiu a apreciação dos elementos para a decisão acerca do mérito da arguição da impenhorabilidade do bem de família, que é matéria de ordem pública.
+Por isso, a questão formal da arguição de impenhorabilidade ter sido afastada em momento anterior, -- unicamente pela falta de documentos, logo em seguida juntados aos autos, -- não gera coisa julgada para afastar o direito à proteção do bem, pois não transforma a realidade da destinação do bem à moradia, direito protegido pela Lei 8.009/90, cuja essência é o respeito à dignidade da pessoa humana.
+ ..
+Ademais, a devedora apresentou as faturas do consumo de água e energia elétrica que demonstram sua residência no local, fato que é corroborado pelos endereços fornecidos nos autos e declaração de bens ao Fisco, como bem salientou o E. Magistrado de Primeiro Grau na decisão agravada.
+Não há indício algum de que a executada tenha outros imóveis, pois não foram localizados pela credora nas buscas realizadas nos autos. Salientese que a mera alegação de que "há notícia e indícios de que a família disporia de outros bens" não supre a necessária demonstração da existência de outros imóveis. Além disso, a pesquisa em outros cartórios de registro de imóveis da cidade em que reside a devedora (e-STJ, fls. 1.128/1.130 - sem negrito no original).
+Desse modo, para se chegar à conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO DIRETA A DISPOSITIVO DE LEI. NÃO OCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. CONTRATO DE MÚTUO BANCÁRIO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO CONSUMATIVA. CABIMENTO. COISA JULGADA. REEXAME. SÚMULA 7/STJ. PENHORA DO BEM DE FAMÍLIA PARA SALDAR DÍVIDA DE EMPRÉSTIMO BANCÁRIO. IMPOSSIBILIDADE. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, não é possível a interposição de ação rescisória quando inexistente violação direta à literalidade da norma jurídica, sendo descabida a demanda para correção de divergência na interpretação do dispositivo legal.
+2. Não cabe ao Superior Tribunal de Justiça a revisão das conclusões adotadas pelo Tribunal de origem quanto à presença ou não dos requisitos legais para interposição de ação rescisória, pois tal exame esbarra na Súmula 7/STJ.
+3. De acordo com o entendimento desta Corte Superior, incidem os efeitos da preclusão e da coisa julgada quando a questão referente à penhora do bem de família tiver sido decidida em decisão já transitada em julgado.
+4. É inviável a este Tribunal Superior modificar o posicionamento adotado pela instância originária quanto à ocorrência ou não da preclusão e da coisa julgada, visto que tal apreciação exigiria o revolvimento fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+5. Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, sob pena de aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal, bem como do enunciado 211 da Súmula do Superior Tribunal de Justiça.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.643.039/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. NÃO COMPROVAÇÃO DE ELEMENTOS NOS AUTOS QUE DEMONSTREM QUE O BEM PENHORADO É O ÚNICO IMÓVEL DE PROPRIEDADE PARA MORADIA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 1º E 5º, AMBOS DA LEI N. 8.009/1990. COISA JULGADA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de embargos de terceiro, opostos contra a União Federal, visando à liberação do bem imóvel constrito, sob o fundamento de sua natureza de bem de família. Na sentença, julgou-se improcedente o pedido considerando que não foi comprovada a natureza de bem de família, não tendo sido realizada a juntada de documentos necessários para tal comprovação. No Tribunal a quo, a sentença foi parcialmente reformada para dar parcial provimento ao recurso, e, no cerne da questão, declarar que não há elementos nos autos que demonstrem que o bem penhorado é o único imóvel de propriedade para sua moradia.
+II - Sobre a alegada ofensa do arts. 1.022 do CPC/2015, o recurso não comporta provimento.
+III - A recorrente aduziu, em suma, que o Tribunal de origem não apreciou as provas acostadas aos autos no sentido da natureza de bem de família, tendo, ademais, entendido pela equivocada presunção de que não há nos autos a prova de que a recorrente utiliza o imóvel sub judice com sua residência há mais de três décadas.
+IV - O Tribunal a quo dirimiu a controvérsia mediante fundamento suficiente, em suma, apontando que a embargante não provou que o bem discutido se tratava de bem de família legal, não havendo elementos nos autos que demonstrem que o bem penhorado é o único imóvel de propriedade do casal para moradia.
+V - Consoante a jurisprudência pacífica do Superior Tribunal de Justiça, tem-se que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia. Nesse sentido: AgInt no REsp n. 1.757.501/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp n. 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, Dje 14/8/2018; REsp n. 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, Dje 24/2/2015.
+VI - Sobre os arts. 1º e 5º, ambos da Lei n. 8.009/1990, o recurso especial também não comporta seguimento. Verifica-se que a irresignação da recorrente, acerca da caracterização do imóvel como sendo bem de família, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu não caber a proteção do instituto do bem de família legal ao imóvel objeto da penhora, considerando que a recorrente, terceira embargante, não logrou êxito em demonstrar que seria o único imóvel residencial do casal.
+VII - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+VIII - A parte agravante traz no agravo interno alegação de coisa julgada. Sustenta que, posteriormente à interposição do recurso especial, ocorrera o trânsito em julgado de decisões em que se reconhecia a qualidade de "bem de família" do imóvel objeto de constrição na execução fiscal ora objeto dos embargos de terceiro.
+IX - A matéria relacionada à coisa julgada não foi objeto de conhecimento pelo Tribunal a quo de forma que sua análise é inviável nesta Corte sob pena de supressão de instância. Como não há preclusão quanto a esta alegação de questão superveniente, cabe a parte interessada alegá-la na instância ordinária, momento em que haverá o pronunciamento a respeito da matéria. Nesse sentido: AgInt no AREsp n. 1.109.608/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018.
+X - Não obstante a notícia acerca das sentenças proferidas em outros embargos de terceiro nos quais foi reconhecida a condição de bem de família do imóvel, o acolhimento do mesmo entendimento no presente caso equivaleria à apreciação do mérito do recurso especial que, como visto, não reúne condições processuais para tanto.
+XI - Agravo interno improvido.
+(AgInt no AREsp n. 1.456.227/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/5/2023, DJe de 11/5/2023.)
+(2) Quanto o dissídio jurisprudencial
+De outra parte, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ DO CREDOR. INEXISTÊNCIA. REEXAME. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. Não há como rever a conclusão do tribunal de origem, acerca da ausência de má-fé do credor a justificar a devolução em dobro dos valores pagos indevidamente, sem a análise de fatos e provas, o que é inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+ ..
+6. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.231.900/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/5/2018, DJe 15/5/2018).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BEM DE FAMÍLIA. COISA JULGADA. PRECLUSÃO CONSUMATIVA. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
