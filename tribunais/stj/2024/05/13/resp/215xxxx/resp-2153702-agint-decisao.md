@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno (fls. 1.164/1.170) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUC A O FISCAL. VIOLAC A O AO ART. 1.022 DO CPC/2015. NA O OCORRE NCIA. PRESCRIÇÃO INTERCORRENTE. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. APLICAÇÃO DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+O agravante sustenta que o v. acórdão de origem padece de evidente negativa de prestação jurisdicional, uma vez que há ausência do enfretamento de aspectos relevantes para a conclusão da causa. No mais, sustenta que:
+Da reanalise de questão já julgada, denota-se a violação aos arts. 505 e 507 do CPC, os quais vedam nova decisão sobre questões já decididas a cujo respeito se operou a preclusão. Além disso, manifesta a negativa de prestação jurisdicional, com violação aos arts. 489, § 1º, IV e 1.022, I e IIe parágrafo único, II, doCPC, pois o acórdão recorrido não se manifestou sobre a impossibilidade de se reconhecer a prescrição intercorrente com base no período já analisado pela decisão anterior transitada em julgado, mesmo após a oposição de embargos declaratórios.
+ ..  Em verdade, o acórdãor ecorrido reanalisou o mesmo pedido e causa de pedir da exceção de pré-executividade, mas concluiu de forma diversa do julgado anterior, partir do entendimento de que as diligências realizadas pelo ente público não poderiam ser consideradas para obstar o transcurso do prazo prescricional.
+ ..  Uma vez desconsideradas todas essas premissas -e exatamente porque foram desconsideradas -o acórdão regional acabou por incorrer em negativa de prestação jurisdicional, pois deixou de emitir tese quanto à impossibilidade de reanalisar o pedido de prescrição intercorrente com base nos mesmos fatos e interregno sobre os quais já havia decisão com trânsito em julgado.
+ ..  Portanto, foi efetivamente impugnado o fundamento de que a exceção de pré-executividade teria sido motivada "por situações ocorridas posteriormente"ao descumprimento do parcelamento" e mais de cinco anos do trânsito em julgado da situação anterior". Isso porque, como demonstrado analiticamente, trata-se do mesmo período analisado (lapso quinquenal que sucede o descumprimento do parcelamento), não sendo elencado no acórdão recorrido verdadeiro fato superveniente, mas tão somente reanalise dos mesmos fatos já julgados.
+Requer seja provido o recurso.
+É o relatório. Passo a decidir.
+Não obstante os fundamentos da decisão agravada, verifica-se que a questão contro versa merece melhor exame.
+Desse modo, preenchidos os requisitos de admissibilidade recursal, reconsidero a decisão ora agravada e dou provimento ao agravo, para que seja reautuado como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
