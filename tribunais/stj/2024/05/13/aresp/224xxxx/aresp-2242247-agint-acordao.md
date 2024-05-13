@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. CAUSALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. À luz do princípio da causalidade, aquele que deu causa à instauração do processo deve responder pela verba honorária de sucumbência.
+2. "É inviável, no caso, rever a conclusão do Tribunal de origem acerca da aplicação do princípio da causalidade, porquanto demandaria reexame de provas, vedado nos termos da Súmula nº 7/STJ" (AgInt no AREsp n. 2.061.482/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por VIBRA ENERGIA S.A.(PETROBRAS DISTRIBUIDORA S.A.)  contra  decisão  de minha lavra em que apliquei a Súmula 7 do STJ para não conhecer do recurso especial, destacando que a revisão das conclusões a que chegou o Tribunal de origem acerca da aplicação do princípio da causalidade demandaria o reexame de questão fática e de provas (e-STJ  fls.  876/881).
+No  agravo  interno  (e-STJ  fls. 889/897), a parte recorrente entende que não há a incidência da Súmula 7 do STJ, argumentando que basta "a mera aplicação da lei (art.85, §10 do CPC) e da jurisprudência do STJ, cuja conclusão é "havendo perda superveniente do interesse de agir na ação, caberá à parte quem deu causa ao ajuizamento suportar os honorários sucumbenciais na extinção do processo sem resolução de mérito"" (e-STJ fl. 890).
+No ponto, diz que (e-STJ fl. 890):
+A ação de repetição de indébito na origem ajuizada em 13/09/2019 foi extinta em razão de causa superveniente modificadora veiculada por decisão no Agravo de Instrumento 2254457-03.2019.8.26.0000, decisão posterior datada de 14/11/2019, que havia determinado a restituição do indébito à parte agravante, carecendo, portanto, de interesse de agir a ação de repetição de indébito ajuizada anteriormente.
+A agravante se insurge contra a verba honorária sucumbencial fixada a seu desfavor na ação de repetição de indébito extinta sem resolução de mérito, por falta de interesse de agir, em razão da divergência de interpretação e contrariedade ao art. 85,§10 do CPC
+ ..
+Em que pese a identidade de objetos da ação de repetição de indébito e do agravo de instrumento, quem efetivamente deu causa a ação de repetição de indébito foi a agravada, uma vez que deixou de pagar quantia devida à agravante, conforme reconhecido nos autos do agravo de instrumento que determinou a restituição dos valores à agravante, pretensão anteriormente resistida que havia motivado o ajuizamento (anterior) da ação de repetição de indébito.
+A  impugnação não foi oferecida.
+É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. CAUSALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. À luz do princípio da causalidade, aquele que deu causa à instauração do processo deve responder pela verba honorária de sucumbência.
+2. "É inviável, no caso, rever a conclusão do Tribunal de origem acerca da aplicação do princípio da causalidade, porquanto demandaria reexame de provas, vedado nos termos da Súmula nº 7/STJ" (AgInt no AREsp n. 2.061.482/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+No caso dos autos, o acórdão recorrido tem a seguinte ementa (e-STJ fl. 741):
+HONORÁRIOS ADVOCATÍCIOS Extinção do feito, em primeiro grau, sem resolução de mérito, por litispendência e falta de interesse de agir (artigo 485, incisos V e VI do CPC). Condenação da autora ao pagamento da verba honorária Cabimento. Provocação do Poder Judiciário para o exame de questão idêntica em processo pendente Autora que deu causa à ação, sem motivo justificado, e deve responder pela verba de sucumbência Sentença mantida. APELO NÃO PROVIDO.
+Os fundamentos do Tribunal de origem para negar provimento ao recurso de apelação (e-STJ fls. 742/746):
+Neste apelo, busca a autora inverter a condenação ao pagamento da verba honorária sucumbencial. Apesar dos esforços, sem razão a insurgência.
+Depreende-se dos autos que a autora buscou, nesta ação, a repetição do montante levantado pela ré, em 24.09.2014 (fls. 75 a 78), referente ao depósito realizado nos autos de embargos à execução fiscal (processo nº 1018469-25.1997.8.26.0506).
+Como os embargos foram julgados improcedentes, a apelante aderiu ao acordo de parcelamento do ICMS e quitou integralmente a dívida cobrada na execução fiscal (processo nº 0033763-37.1997.8.26.0506), em 10.09.2014 (fls. 82).
+Em que pese o pagamento dobrado, a devolução dos valores depositados em Juízo objeto desta ação foi questão já discutida em sede do agravo de instrumento nº 2254457-03.2019.8.26.0000, julgado por esta C. 2ª Câmara de Direito Público, sob relatoria do Des. Alves Braga Junior (fls. 107 a 112):
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL.
+Levantamento de valor depositado judicialmente após a adesão a programa de parcelamento. Pagamento em duplicidade ocorrido por culpa exclusiva da Fazenda. Devolução da quantia indevidamente levantada que não deve ser entendido como obrigação de natureza material, mas, sim, como ônus processual que o ente público assumiu perante o Poder Judiciário. Necessidade de devolução do valor atualizado. Art. 32, § 2º, da Lei 6.830/80.
+RECURSO PROVIDO."
+O julgamento ocorreu em 02.12.2020. Na sequência, o d. Juízo a quo determinou que fosse cumprida a decisão colegiada, intimando-se a Fazenda Pública à imediata devolução do valor levantado, atualizado (cf. decisão proferida em 05.12.2019 - execução fiscal nº 0033763-37.1997.8.26.0506).
+Por sua vez, esta demanda, proposta em 13.09.2019, objetivou o mesmo resultado. A apelante não nega a repetição do pedido. Tanto que não se insurge contra o decreto de litispendência (apenas quanto à condenação ao pagamento de honorários), como se vê da seguinte passagem extraída das razões recursais:
+"Ainda que a Apelante tenha logrado êxito em obter decisão favorável nos autos do Agravo de Instrumento n. 2254457-03.2019.8.26.000, cuja tutela é idêntica ao objeto da presente ação, a Apelante não deve ser condenada ao pagamento de honorários, porquanto quem efetivamente deu causa à presente ação foi a Apelada!" (fls. 692 destacado).
+Feitos tais esclarecimentos, não é possível afastar a obrigação da apelante quanto ao pagamento da verba honorária.
+A autora, ao buscar a mesma tutela jurisdicional em duas vias processuais distintas, assumiu o risco de ver não conhecido um dos pedidos e, assim, deve responder por sua atuação processual.
+A provocação do Poder Judiciário para o exame de questão idêntica, discutida em processo pendente, acarreta o dever do autor de remunerar o advogado da parte contrária. Nesse sentido, já decidiu o C. Superior Tribunal de Justiça, mutatis mutandis:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. SUCUMBÊNCIA. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR EXTINTO EM RAZÃO DA LITISPENDÊNCIA. CONDENAÇÃO DO EMBARGANTE EM HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRINCÍPIO DA CAUSALIDADE. REVISÃO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Inexiste a alegada violação ao art. 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Segundo entendimento do STJ, "no caso de os embargos do devedor opostos contra execução fiscal serem extintos, sem resolução do mérito, em razão de litispendência com ação anulatória, na qual não houve suspensão da exigibilidade do crédito tributário, os honorários advocatícios devem ser suportados pela parte executada. Precedente: REsp 1040781/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 17/03/2009" (AgRg no REsp 1.269.192/SC, Rel. Min. Benedito Gonçalves, DJe 27.5.2013).
+3. Ademais, no presente caso, o Tribunal a quo aplicou os ônus da sucumbência com base no princípio da causalidade, asseverando: "Com efeito, a ação anulatória já foi julgada, não tendo razão a parte agravante ao requerer o julgamento de mérito quando outra ação judicial já tratou da mesma questão. No tocante aos honorários advocatícios, a parte embargante deu causa ao ajuizamento da ação, razão pela qual deve arcar com os ônus sucumbenciais" (fl. 972, e- STJ).
+4. Pelas circunstâncias apontadas pelo Tribunal de origem, é evidente que, para alterar a conclusão alcançada no acórdão recorrido, averiguando-se a adequação do princípio da causalidade para a fixação dos honorários advocatícios, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme a Súmula 7/STJ.
+5. Agravo Interno não provido." STJ, AgInt no AREsp 1660923/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/10/2020, DJe 12/11/2020
+Observe-se que a condenação da parte vencida ao pagamento dos honorários advocatícios também se aplica nas hipóteses de improcedência ou extinção do processo sem resolução de mérito (art. 85, § 6º, do CPC) e, quanto à perda de objeto, o Código de Processo Civil expressamente dispôs que os honorários devem ser suportados por quem deu causa ao ajuizamento da ação (art. 85, § 10, do CPC).
+Na lição da doutrina, sobre o princípio da causalidade aplicado aos processos extintos sem resolução de mérito, discorrem Nelson Nery Jr. e Rosa Maria Andrade Nery que:
+"Pelo princípio da causalidade, aquele que deu causa à propositura da demanda ou à instauração de incidente processual deve responder pelas despesas daí decorrentes. Isto porque, às vezes, o princípio da sucumbência se mostra insatisfatório para a solução de algumas questões sobre responsabilidade pelas despesas do processo. Quando não houver resolução do mérito, para aplicar-se o princípio da causalidade na condenação da verba honorária acrescida de custas e demais despesas do processo, deve o juiz fazer exercício de raciocínio, perquirindo sobre quem perderia a demanda, se a ação fosse decidida pelo mérito. (Código de Processo Civil Comentado, 17ª ed. São Paulo: Revista dos Tribunais, 2018, p. 327, nota 15. ao art. 85)."
+É o caso de manter a condenação da autora ao pagamento da verba honorária, pois, à luz do princípio da causalidade, foi ela quem deu causa à ação e deve arcar com os encargos daí decorrentes.
+Honorários recursais fixados em 1%, a teor do art. 85, §11º, do CPC.
+Ante o exposto, nega-se provimento ao apelo.
+Recursos que sejam interpostos contra este julgado estarão sujeitos ao julgamento virtual. A discordância quanto à forma virtual deverá ser apresentada no momento da interposição dos recursos.
+É como voto.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 756/760).
+No especial obstaculizado (e-STJ fls. 764/782), a recorrente (Vibra Energia S.A. - Petrobras Distribuidora) se insurgiu contra a condenação em honorários advocatícios, apontando violação d o art. 85, § 10, do CPC/2015, ao argumento de que a recorrida (Fazenda do Estado de São Paulo) teria dado causa ao ajuizamento da ação, "pois ela que deixou de restituir espontaneamente quantia devida, obrigando a recorrente a ajuizar demanda especificamente para buscar a satisfação de seu direito" (e-STJ fl. 768).
+Pois bem.
+A decisão recorrida deve ser mantida por seus próprios fundamentos.
+A parte ora agravante alega que (e-STJ fl. 896):
+o ajuizamento da ação de repetição de indébito em momento anterior aos 13/09/2019 e a superveniência do reconhecimento do direito de restituição da Agravante (por fato modificativo) em 14/11/2019 (Agravo de Instrumento n. 2254457-03.2019.8.26.0000) importa a extinção do processo sem resolução de mérito pela ausência de interesse de agir e a condenação da Fazenda Pública ao pagamento de honorários advocatícios sucumbenciais porque foi ela quem deu causa ao ajuizamento da ação anterior, em atenção à causalidade.
+No entanto, o Tribunal de origem consignou expressamente que (e-STJ fls. 743/744):
+A autora, ao buscar a mesma tutela jurisdicional em duas vias processuais distintas, assumiu o risco de ver não conhecido um dos pedidos e, assim, deve responder por sua atuação processual.
+A provocação do Poder Judiciário para o exame de questão idêntica, discutida em processo pendente, acarreta o dever do autor de remunerar o advogado da parte contrária.
+A esse respeito, nos termos da decisão agravada, reafirmo que o entendimento do STJ é no sentido de ser inviável "rever a conclusão do Tribunal de origem acerca da aplicação do princípio da causalidade, porquanto demandaria reexame de provas, vedado nos termos da Súmula nº 7/STJ" (AgInt no AREsp n. 2.061.482/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+Destaco, ainda:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. CAUSALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Não há violação do art. 1.022, II e III, do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. À luz do princípio da causalidade, aquele que deu causa à instauração do processo deve responder pela verba honorária de sucumbência.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+4. Hipótese em que a Corte de origem se manifestou, de maneira clara e fundamentada, ao consignar expressamente que foi a omissão, pela contribuinte, da discriminação dos "serviços prestados como provedor de internet e demais serviços", que levou à não homologação do lançamento, sendo necessária a consequente realização de lançamento substitutivo de ofício, pela autoridade tributária.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.021.748/CE, de minha relatoria, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+PROCESSUAL CIVIL. SAÚDE. HOME CARE. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Na hipótese dos autos, nota-se que o entendimento do Sodalício a quo perfilha a orientação do STJ, no sentido de que a análise da causalidade para condenação em honorários sucumbenciais nas hipóteses de perda de objeto, não se faz a partir da perquirição de quem deu causa à extinção do processo, mas sim de quem deu causa à sua propositura.
+2. Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar quem deu causa à propositura da demanda, o que não se admite ante o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 2.315.883/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/9/2023, DJe de 18/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO DE RENDA PESSOA FÍSICA. DEDUÇÕES DE DESPESAS. ÔNUS DA PROVA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ.
+1. Em face do interesse público e do princípio da legalidade, sigo afirmando, sobretudo em ações de feição constitucional (mandado de segurança, habeas corpus), que a atuação da Fazenda deva ser proativa no tocante às informações que detém em seu poder, não lhe cabendo, como autoridade coatora, restringir-se a uma impugnação de cunho meramente processual.
+2. Documentos de ordem pessoal (comprovação de despesas médicas) que foram trazidos a conhecimento já no âmbito dos embargos à execução, os quais, com a concordância da União, foram aceitos para retificar o lançamento tributário. Outros, entretanto, referentes às contribuições à previdência privada e despesas com instrução própria, apenas ao autor incumbe fazer prova que ampare a existência e a natureza dos gastos deduzidos.
+3. Alterar tal entendimento, para afirmar que a parte requerente produziu provas suficientes em seu favor, apresenta-se inviável no âmbito do recurso especial, atraindo o óbice da Súmula 7/STJ.
+4. Não há falar em cerceamento de defesa. O impedimento (doença) que levou à demora na apresentação dos documentos particulares (e nem todos), exigidos pela legislação tributária, não transfere à Fazenda Pública o ônus, que é do autor, de fazer prova, a tempo e modo, de fato constitutivo do seu direito, ainda mais quando foi facultada à parte nova oportunidade pelo juiz.
+5. Não cabe a condenação da União em ônus sucumbenciais, pois esta não deu causa ao ajuizamento da execução fiscal, uma vez que o Tribunal de origem concluiu que foi "a omissão do contribuinte em apresentar os comprovantes das despesas na esfera administrativa que deu ensejo à glosa e ao respectivo lançamento, bem como ao ajuizamento da execução fiscal correspondente. Aliás, a ré não se opôs à apresentação dos documentos em juízo e concordou em reduzir o montante do crédito exequendo, afastando as glosas de deduções cujas despesas foram documentalmente comprovadas".
+6. Assim, a instância ordinária nada mais fez que aplicar o princípio da causalidade para afastar a condenação da União em honorários advocatícios, cuja revisão esbarra no óbice da Súmula 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.671.347/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2021, DJe de 28/5/2021)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
