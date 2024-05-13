@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ART. 1.022 DO CPC. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INDEFERIMENTO DE PRODUÇÃO DE NOVA PROVA. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A fundamentação do acórdão recorrido, integrada com a apreciação de embargos de declaração, permite concluir que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+2. A alteração das premissas adotadas pelo Tribunal de origem, sobre a necessidade de dilação probatória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3 . Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por OSVANI ROBERTO LUZ contra decisão monocrática de minha lavra, às fls. 376/380, que negou provimento a seu agravo em recurso especial, diante dos seguintes fundamentos: (I) não ocorrência de violação ao art. 1.022 do CPC e (II) incidência da Súmula 7/STJ, com relação ao argumento de ocorrência de cerceamento de defesa pelo indeferimento de produção de prova.
+A parte agravante, em suas razões, sustenta que persiste negativa de prestação jurisdicional no presente caso e, também, que não há falar em incidência da Súmula 7 do STJ, pois o caso concreto não demandaria reexame de provas, mas apenas sua correta revaloração.
+Ness es termos, afirma que "a perplexidade que causa a afirmação do v. acórdão do Tribunal de origem no sentido de que a prova pericial seria desnecessária no caso em exame, sendo que a ação foi julgada improcedente em primeiro e segundo graus exatamente por ausência de comprovação da especialidade dos períodos de trabalho do autor. E a r. decisão ora agravada, ao consignar que não haveria que se cogitar de cerceamento de defesa diante do princípio da livre convicção judicial, contraria a jurisprudência do STJ de que, ao indeferir o pedido de produção de provas, não se pode julgar o pedido improcedente com base na ausência de provas, sob pena de cerceamento de defesa" (fl. 397).
+Sem impugnação (fl. 405).
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ART. 1.022 DO CPC. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INDEFERIMENTO DE PRODUÇÃO DE NOVA PROVA. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A fundamentação do acórdão recorrido, integrada com a apreciação de embargos de declaração, permite concluir que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+2. A alteração das premissas adotadas pelo Tribunal de origem, sobre a necessidade de dilação probatória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3 . Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+De início, não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos no art. 1.022, II, do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o Colegiado a quo manifestou-se expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+O julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento, bem como elucidou as suas razões de decidir de maneira clara e transparente, não se vislumbrando a alegada violação legal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AÇÃO DE REPARAÇÃO DE DANOS. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. DATA DA CITAÇÃO
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1.022 do Código de Processo Civil de 2015.
+2. O Superior Tribunal de Justiça firmou orientação no sentido de que o termo inicial dos juros de mora, nas indenizações por danos materiais e morais decorrentes de ilícito contratual, é a data da citação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.364.146/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/9/2019, DJe de 19/9/2019.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. SÚMULA 490/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 1.022 do CPC/2015, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte. 2. Hipótese em que o Tribunal de origem não conheceu da Remessa Necessária por entender que, "no caso concreto, o valor do proveito econômico, ainda que não registrado na sentença, é mensurável por cálculos meramente aritméticos" (fl. 140, e-STJ).
+3. O STJ, no julgamento do Recurso Especial 1.101.727/PR, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, firmou entendimento segundo o qual o Reexame Necessário de sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público (art. 475, § 2º, do CPC/73) é regra, admitindo-se sua dispensa nos casos em que o valor da condenação seja certo e não exceda a 60 (sessenta) salários mínimos. 4. Tal entendimento foi ratificado com o enunciado da Súmula 490/STJ: A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas.
+5. Recurso Especial parcialmente provido para determinar o retorno dos autos à origem para que a sentença seja submetida ao Reexame Necessário.
+(REsp 1.679.312/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/8/2017, DJe de 12/9/2017.)
+Registre-se que o mero inconformismo da parte não autoriza a reabertura do exame de matérias já apreciadas e julgadas, ou a introdução de questão nova, conforme já se manifestou este Superior Tribunal:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. UTILIZAÇÃO DE ÁGUA SUBTERRÂNEA PROVENIENTE DE POÇO ARTESIANO PARA CONSUMO HUMANO. LOCAL ABASTECIDO PELA REDE PÚBLICA. NECESSIDADE DE OUTORGA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA REFLEXA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1 - Para que os aclaratórios, como recurso de fundamentação vinculada que é, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição ou omissão em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+2 - Eventual violação de lei federal, tal como posta pela embargante, seria reflexa, e não direta, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação do Decreto Estadual nº 23.430/74, descabendo, portanto, o exame da questão em recurso especial.
+3 - Embargos rejeitados
+(EDcI no Aglnt no AREsp 875.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/9/2016, DJe 20/9/2016.)
+No que tange à alegação de cerceamento de defesa pelo indeferimento de produção complementar de provas, de acordo com a jurisprudência consagrada nesta Corte, é faculdade do julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento, seja ela testemunhal, seja pericial, seja documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão. Nesse sentido, sobressaem precedentes:
+PROCESSUAL. ADMINISTRATIVO. NECESSIDADE DE PRODUÇÃO DEPROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REVISÃO. SÚMULA 07/STJ.
+1. O acórdão recorrido concluiu: o juízo a quo é o destinatário da prova e cabe a ele avaliar sobre a necessidade de sua produção, indeferindo as diligências inúteis e protelatórias. No caso, o indeferimento está devidamente fundamentado, pois os documentos cuja requisição foi pretendida ou já constam dos autos ou não têm relação direta com a lide. Além disso, foi conferida ao ora agravante a oportunidade de demonstrar o contrário, ônus do qual não se desincumbiu (e-STJ fls. 1.707-1.712).
+2. O magistrado, com base no livre convencimento motivado, pode indeferira produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa. Precedentes.
+3. Rever a orientação adotada pelo Tribunal a quo para acolher-se a tese da recorrente de que no caso a produção de provas seria imprescindível para a solução da lide exige análise de fatos e provas, o que inviabiliza a realização de tal procedimento pelo STJ na via do recurso especial, nos termos da Súmula 07/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 87.393/AM, Rel. Ministro Castro Meira, Segunda Turma, DJe de 5/3/2012.)
+Também é oportuno ressaltar que é "inviável no âmbito do recurso especial dissentir da conclusão alvitrada na origem acerca da desnecessidade de dilação probatória, em face do óbice contido na Súmula 7 deste Tribunal" (AgInt no AREsp 237.594/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/6/2016, DJe de 18/8/2016).
+No caso concreto, o Tribunal de origem firmou seu entendimento no sentido da análise da prova existente nos autos, nos seguintes termos (fls. 276):
+Ressalte-se que, conforme consignado na decisão agravada, compete à parte autora demonstrar fato constitutivo de seu direito.
+A comprovação do período laborado em atividade especial, no caso dos autos, deve ser feita por meio de apresentação de formulários próprios e por laudos respectivos ao seu exercício.
+Em nenhum momento se evidenciou, nos autos, recusa do empregador em fornecer os documentos.
+Ademais, caso a parte não disponha de laudos e de documentos hábeis à verificação de especiais condições, compete-lhe manejar a Justiça do Trabalho para obter documentos que evidenciem condições nocivas à saúde.
+Desta maneira, nota-se que a revisão das premissas adotadas pela Corte de origem, tal como colocada nas presentes razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. SERVIÇO PÚBLICO. FORNECIMENTO DE ENERGIA ELÉTRICA. PROVA PERICIAL. INDEFERIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7/STJ.
+1. Conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a análise da necessidade ou não de produção de prova, qualquer que seja o momento processual ou o motivo que leve a tanto, é atribuição da instância ordinária.
+2. Eventual reforma desta decisão importaria em reexame do conjunto fático-probatório, o que é vedado para este magistrado pela Súmula n.7deste Tribunal. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.355.378/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 4/6/2013.)
+A NTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
