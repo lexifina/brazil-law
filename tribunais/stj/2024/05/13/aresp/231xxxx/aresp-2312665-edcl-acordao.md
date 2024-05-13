@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por INFOTEC CONSULTORIA E PLANEJAMENTO LTDA contra acórdão de relatoria da Ministra Assusete Magalhães que não conheceu do agravo interno, nos termos da seguinte ementa (fl. 451):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão ora agravada conheceu do Agravo, para conhecer parcialmente do Recurso Especial, e, nessa extensão, negar-lhe provimento, pela incidência das Súmulas 7/STJ, 568/STJ e 283/STF.
+III. O Agravo interno, porém, não impugna, específica e motivadamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021;AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021;AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020;AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+IV. Agravo interno não conhecido.
+Sustenta a parte Embargante omissão quanto à não incidência da Súmula n. 182 do STJ, uma vez que foram adequadamente impugnados os fundamentos da decisão monocrática que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Invoca, ainda, o princípio da primazia do julgamento do mérito.
+Foi apresentada resposta ao recurso integrativo (fls. 485-486).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que o Embargante, nas razões do agravo interno, deixou de se insurgir, específica e concretamente, contra todos os fundamentos do decisum por meio do qual foi conhecido o respectivo agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, o que implicou aplicação da Súmula n. 182/STJ.
+A propósito, destaco os seguintes excertos da fundamentação do acórdão embargado (fl. 455):
+O presente recurso não merece ser conhecido.
+Com efeito, no que diz com (i) a tese de necessidade de retificação do polo passivo e intimação expressa para tanto antes da extinção do feito sem resolução do mérito, o inconformismo restou obstado pelas Súmula 7/STJ e 283/STF e, (ii) quanto aos honorários advocatícios, pela Súmula 568/STJ.
+No presente Agravo interno, todavia, a parte recorrente não impugna, especificamente, os fundamentos da decisão agravada - mormente quanto à incidência das Súmulas 7 e 568/STJ, suficientes para a manutenção do decisum -, limitando-se a sustentar, em relação à Súmula 7/STJ, que "não pretende rediscutir matéria fática-probatória, mas demonstrar negativa de vigência aos artigos 10, 317, 321 e 338, CPC" (fl. 438e). Já a Súmula 568/STJ aplicada a matéria referente aos honorários advocatícios, não houve sequer menção nas razões do recurso.
+No ponto, cabe destacar que "a mera reiteração das razões recursais sem a impugnação específica de todos os fundamentos da decisão agravada inviabiliza o exame do recurso" (STJ, AgInt nos EAREsp 1.157.501/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, DJe de 22/08/2019).
+Ademais, segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 29/06/2020).
+De fato, em relação à arguida necessidade de o Juiz de primeiro grau intimar a parte autora, indicando expressamente que deveria ser regularizado o polo passivo da demanda, não foi especificamente infirmado o fundamento da decisão monocrática que entendeu pela aplicação da Súmula n. 283 do STF. Compulsando as razões do agravo interno (fls. 432-438), verifico que não houve manifestação acerca dos fundamentos do acórdão da Corte estadual, em especial quanto ao fato de que o "apelante não apenas defendeu a pertinência do recorrido para figurar na presente demanda, como deixou de requerer a substituição deste pela pessoa jurídica que de fato firmou a avença descrita na exordial, conform e se depreende da réplica" (fl. 421).
+No que concerne à Súmula n. 7 do STJ, consta nas razões do agravo, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório. Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).
+Assim, não prosperam as arguidas omissões, pois, de forma fundamentada, negou-se provimento ao agravo interno, explicitando as razões pelas quais entendeu pela incidência da Súmula n. 182 do STJ, além de elencar os precedentes pertinentes à hipótese dos autos.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse senti do:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Por derradeiro, destaco que:
+ ..
+3. A jurisprudência do STJ entende que o princípio da primazia do julgamento de mérito não elide a observância dos requisitos de admissibilidade recursal, motivo pelo qual não tem o condão de autorizar o julgamento de recurso que nem sequer ultrapassou referidos requisitos, principalmente em se tratando de vício de fundamentação, como é a hipótese dos autos.
+ ..
+(EDcl no AgInt no AREsp n. 2.069.803/AP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022).
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
