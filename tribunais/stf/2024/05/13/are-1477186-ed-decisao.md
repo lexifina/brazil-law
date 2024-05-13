@@ -1,0 +1,41 @@
+DECISÃO: EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS (LEI Nº 11.343/2006). LEGALIDADE NA BUSCA PESSOAL. PROVIMENTO DO EXTRAORDINÁRIO. RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+    1. O recurso de embargos de declaração não é meio adequado para a rediscussão da matéria em decorrência de inconformismo do embargante.
+2. No caso, não foram observados os requisitos próprios do recurso (art. 1.022, I, II e III, do CPC), uma vez que inexiste omissão, contradição, obscuridade ou erro material na decisão embargada.
+3. Embargos de declaração rejeitados.
+
+Vistos etc.
+Trata-se de embargos de declaração opostos de decisão monocrática pela qual foi provido o recurso extraordinário para, reconhecida a legalidade da busca pessoal, cassar o acórdão recorrido e reestabelecer a sentença proferida pelo juízo de primeiro grau.
+A parte embargante aponta vícios no julgado, ao articular que:
+
+“da atenta leitura do v. acórdão recorrido (peça n. 8), nota-se que foram alegadas outras teses além da nulidade da busca pessoal por ausência de fundada suspeita, mais especificamente a existência de abordagem exploratória (fishing expeditioin), a insuficiência de provas para a condenação por tráfico, assim como, subsidiariamente, a desclassificação da condenação para o delito de posse de droga para uso próprio ou o reconhecimento do tráfico privilegiado e o afastamento da pena de multa, matérias que, pela prejudicialidade decorrente da absolvição proclamada pelo Tribunal de origem, não formam ainda enfrentadas, de modo que não poderia simplesmente ter sido restabelecida a sentença condenatória nesta Corte Superior, visto que necessário o retorno dos autos ao Tribunal de origem para que ultimado o julgamento da apelação com o devido exame das mencionadas teses defensivas.”
+
+Requer o acolhimento dos declaratórios para que seja afastado o simples restabelecimento da sentença, determinando-se o retorno dos autos à origem para o devido enfrentamento das teses defensivas remanescentes.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis “contra qualquer decisão judicial” nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como correção de eventual erro material. Admitindo-se, conforme o art. 1.024, § 2º, o enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+Além disso, os embargos de declaração visam ao aperfeiçoamento da prestação jurisdicional, com a sua entrega de forma completa, e o aclaramento do julgado, quando presentes omissão, contradição, obscuridade e/ou ambiguidade ao feitio dos arts. 619 do Código de Processo Penal e 337 do RISTF, admitida, ainda, a correção de eventuais erros materiais.
+Com base nesses permissivos legais, procedo à apreciação singular destes aclaratórios.
+Não se constatam, entretanto, quaisquer dos referidos vícios.
+A decisão embargada foi clara ao consignar que o acórdão da origem, ao decretar a ilicitude da prova obtida mediante busca pessoal, mesmo havendo fundada suspeita da posse de objeto constitutivo de corpo de delito, está desalinhado com a orientação desta Suprema Corte.
+Na mesma oportunidade, foi dado provimento ao recurso extraordinário para cassar o acórdão recorrido e restabelecer a sentença proferida pelo juízo do 1º grau.
+A decisão embargada está fundamentada em precedentes deste Supremo Tribunal que autorizam o restabelecimento da sentença quando do provimento do recurso. Nesse sentido:
+
+“RECURSO EXTRAORDINÁRIO. ART. 543-B DO CPC. REPERCUSSÃO GERAL. ART. 5º, XL, DA CONSTITUIÇÃO. ESTATUTO DO DESARMAMENTO (LEI Nº 10.826/03). CRIME DE POSSE DE ARMA DE FOGO DE USO PERMITIDO. PRAZO PARA REGULARIZAÇÃO. MEDIDA PROVISÓRIA Nº 417/2008. NATUREZA JURÍDICA. APLICABILIDADE AOS FATOS PRATICADOS NO PERÍODO EM QUE VEDADO O REGISTRO DA ARMA DE FOGO. ABOLITIO CRIMINIS TEMPORÁRIA. NÃO CONFIGURAÇÃO. IRRETROATIVIDADE. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO. [...] 11. Ex positis, dou provimento ao Recurso Extraordinário do Ministério Público para restabelecer a sentença condenatória de primeira instância, ante a irretroatividade da norma inserida no art. 30 da Lei nº 10.826/03 pela Medida Provisória nº 417/2008, considerando penalmente típicas as condutas de posse de arma de fogo de uso permitido ocorridas após 23 de junho de 2005 e anteriores a 31 de janeiro de 2008.” (RE 768494, Min. Rel. Luiz Fux, Tribunal Pleno, Repercussão Geral - Mérito DJe 08.04.2014)
+
+“Repercussão geral. Tema 990. Constitucional. Processual Penal. Compartilhamento dos Relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil com os órgãos de persecução penal para fins criminais. Desnecessidade de prévia autorização judicial. Constitucionalidade reconhecida. Recurso ao qual se dá provimento para restabelecer a sentença condenatória de 1º grau. Revogada a liminar de suspensão nacional (art. 1.035, § 5º, do CPC). Fixação das seguintes teses: 1. É constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil - em que se define o lançamento do tributo - com os órgãos de persecução penal para fins criminais sem prévia autorização judicial, devendo ser resguardado o sigilo das informações em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional; 2. O compartilhamento pela UIF e pela RFB referido no item anterior deve ser feito unicamente por meio de comunicações formais, com garantia de sigilo, certificação do destinatário e estabelecimento de instrumentos efetivos de apuração e correção de eventuais desvios.” (RE 1055941, Min. Rel. Dias Toffoli, Tribunal Pleno, Repercussão Geral - Mérito DJe 18.03.2021)
+
+Portanto, examinando o decisum embargado, verifico que inexistem as omissões suscitadas nos aclaratórios sob exame.
+Com efeito, os embargos de declaração não se prestam à rediscussão do mérito assentado no julgado em decorrência de mero inconformismo da parte com o desfecho da demanda. Nesse sentido:
+
+“Direito constitucional e administrativo. Embargos de declaração em recurso ordinário em mandado de segurança. Revisão de concessão de anistia. Inovação recursal. Pretensão infringente nos embargos. Ausência de omissão. 1. Embargos de declaração opostos contra acórdão em que a Primeira Turma negou provimento a agravo interno em recurso ordinário em mandado de segurança, em vista de inovação recursal ao ser interposto o recurso ordinário. 2. Não há erro, obscuridade, contradição ou omissão no acórdão questionado, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015. 3. Embargos de declaração rejeitados.” (RMS 39232-AgR-ED, Rel. Min. Luís Roberto Barroso, 1ª Turma, DJe 18.10.2023)
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRETENSÃO DE ANÁLISE DE CONTROVÉRSIA QUE NÃO FOI OBJETO DO ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. O acórdão embargado contém fundamentação apta e suficiente a resolver todos os pontos apresentados. 2. A apresentação de fundamentos apenas em sede de recurso ordinário, sem que tenha ocorrido debate em momento processual anterior pelo Superior Tribunal de Justiça, configura inovação recursal insuscetível de apreciação pela CORTE (RMS 33.675-ED-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 09/10/2020). 3. Ausentes omissão, contradição, obscuridade ou erro material no julgado, não há razão para qualquer reparo. 4. Embargos de Declaração rejeitados.” (RMS 39252-AgR-ED, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 04.10.2023)
+
+Por todo o exposto, constata-se que a parte embargante busca indevidamente o rejulgamento do feito, o que não é admitido na via estreita dos embargos de declaração.
+Considerando a inexistência de quaisquer dos vícios dos arts. 1.022 do CPC e 619 do Código de Processo Penal, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 13 de maio de 2024.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
