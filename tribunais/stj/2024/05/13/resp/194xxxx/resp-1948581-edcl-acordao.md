@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015).
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pela parte embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ALIBEM ALIMENTOS S.A. contra acórdão da Primeira Turma, de minha relatoria, assim ementado (e-STJ fls. 2.540/2.541):
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. EXECUÇÃO FISCAL. POLO PASSIVO. EXCLUSÃO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR EQUIDADE.
+1. Inexiste violação dos arts. 489, § 1º, II e III, e 1.022, II e III, do CPC/2015, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A Primeira Turma do Superior Tribunal de Justiça tem entendido que, na exclusão de litisconsorte do polo passivo da execução fiscal, sem a completa extinção dessa, os honorários advocatícios de sucumbência devem ser fixados por equidade, dada a inexistência de proveito econômico estimável (AgInt no REsp 2.025.080/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022; e AgInt no AgInt no REsp 1.740.864/PR, Rel. Ministro Manoel Erhardt (Desembargador Federal convocado do TRF5), Primeira Turma, julgado em 07/06/2022, DJe de 15/06/2022).
+3. A fixação de verba honorária com base em critérios não expressamente estabelecidos no art. 85 do CPC/2015 corresponde, na realidade, ao arbitramento por apreciação equitativa e, nessa perspectiva, o acórdão recorrido está em sintonia com a orientação desta Corte Superior (AgInt nos EDcl no AREsp 1.794.554/PR, de minha relatoria, Primeira Turma, julgado em 16/10/2323, DJe 18/10/2023).
+4. Agravo interno desprovido.
+Sustenta a parte embargante a ocorrência de erro material, obscuridade ou omissão no tocante à forma de fixação da verba honorária pelo acórdão recorrido. Afirma que o "percentual de 0,5% não se deu por uma apreciação equitativa, mas sim aplicando expressamente o inciso V do §3º do art. 85 do CPC (escolhendo o percentual mínimo previsto neste inciso V, isto é, 1%) e, na sequência, a redução pela metade prevista no art. 90, § 4º, do CPC" (e-STJ fl. 2.558).
+Argumenta que se deve "afastar o óbice da Súmula 7 e prover o recurso especial da ora Embargante por violação ao artigo 85, §§ 3º e 5º, do CPC, como exposto pela parte em seu recurso especial e em seu agravo interno" (e-STJ fl. 2.558).
+Defende a existência de omissão ou obscuridade acerca de questão relevante que, se enfrentada pelo Tribunal de origem, poderia ter conduzido a resultado diverso, consistente na utilização da calculadora do cidadão que, se não fosse utilizada, "a atualização do valor do proveito econômico redundaria na utilização das faixas dos incisos anteriores do § 3º do art. 85, porque o valor do proveito econômico seria inferior" (e-STJ fls. 2.559/2.560). Aduz que não foi examinada a divergência jurisprudencial.
+Impugnação às e-STJ fls. 2.569/2.571.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015).
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pela parte embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015), vícios inexistentes na espécie.
+No voto condutor do julgado, apresenta-se claro o entendimento da turma julgadora no sentido de que: a) não houve violação dos arts. 489, § 1º, II e III, e 1.022, II e III, do CPC/2015 pelo acórdão recorrido; b) a Primeira Turma desta Corte Superior tem entendido que, na exclusão de litisconsorte do polo passivo da execução fiscal, sem a completa extinção dessa, os honorários advocatícios de sucumbência devem ser fixados por equidade, dada a inexistência de proveito econômico estimável; c) a fixação de verba honorária com base em critérios não expressamente estabelecidos no art. 85 do CPC/2015 corresponde, na realidade, ao arbitramento por apreciação equitativa e, nessa perspectiva, o acórdão recorrido está em sintonia com a orientação desta Corte Superior; d) incide o óbice da Súmula 83 do STJ; e e) a revisão do quantum fixado a título de honorários advocatícios demandaria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+A parte embargante, ao aduzir erro material, obscuridade e omissão, insiste, na verdade, tão somente no argumento de que a verba honorária foi fixada em desacordo com o Código de Processo Civil de 2015, hipótese inexistente nos autos, conforme bem definido no acórdão embargado, que asseverou ter sido fixada a verba honorária com adoção de critérios de equidade para exclusão de litisconsorte do polo passivo da execução fiscal.
+No tocante à divergência jurisprudencial, o acórdão recorrido julgou aplicável a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", ao asseverar (e-STJ fl. 2.549): "Não há nada, no agravo interno, que mostre o desacerto dessa orientação, sendo hipótese de aplicação da Súmula 83 do STJ."
+De fato, não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pela parte embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
