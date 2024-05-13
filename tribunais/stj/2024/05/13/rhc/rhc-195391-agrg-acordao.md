@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e OTÁVIO DE ALMEIDA TOLEDO (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. RECURSO EM HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS A QUO SUFICIENTES. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Matheus Silva Cunha - preso preventivamente, desde o dia 4/1/2024, pela prática, em tese, do crime previsto no art. 121, § 2º, I e IV, do CP, porquanto o denunciado foi até seu veículo, se armou com um revólver Taurus, calibre .32 e efetuou disparos de arma de fogo contra a vítima, sendo esta a causa efetiva de sua morte (fl. 238) - contra a decisão da minha lavra que negou provimento à sua insurgência, pelos fundamentos sintetizados na seguinte ementa (fl. 271):
+RECURSO EM HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS A QUO SUFICIENTES. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Recurso em habeas corpus improvido.
+Em suas razões, o agravante sustenta que, ao contrário do que se aduz no processo, o risco à ordem pública referente a liberdade de Matheus Silva Cunha foi criado com base em informações isoladas, genéricas e abstratas relacionadas à alegada suspeita - e não à comprovação - do modus operandi e da motivação fútil dos fatos, levando a falsa crença que o Recorrente agiu de forma premeditada, fria, não obstante, os elementos acima revelam a necessidade de rever a decisão monocrática, objeto deste recurso (fl. 287).
+Reitera os argumentos expendidos no recurso, concernentes à ausência dos requisitos para o decreto de prisão preventiva, ressaltando a suficiência das medidas cautelares alternativas.
+Requer, assim, a reconsideração da decisão agravada ou a sua submissão ao órgão colegiado competente, para a revogação da custódia.
+Não abri prazo para contrarrazões.
+É relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. RECURSO EM HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS A QUO SUFICIENTES. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Agravo regimental improvido.
+VOTO
+A irresignação não prospera.
+No caso, ficaram devidamente demonstrados os indícios de autoria e a materialidade delitiva, bem como delineada a gravidade concreta do delito supostamente perpetrado pelo ora agravante, revelada pelo modus operandi empregado - a denúncia dispõe que o delito decorreu de futilidade e que a vítima foi atraída pelo ora recorrente para local ermo, onde teve sua vida ceifada (fls. 15/25 e 237/248) -, o que caracteriza o periculum libertatis e o fumus comissi delicti.
+Ilustrativamente: são idôneos os motivos invocados pelo Juízo de origem para fundamentar a ordem de prisão do recorrente, diante da gravidade concreta da conduta em tese perpetrada (RHC n. 108.354/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/4/2019).
+Inclusive, in casu, o Juízo de Direito, sobre a conveniência da custódia cautelar, explicitou (fls. 241/242):
+ ..
+Primo ictu oculi, nota-se que os fatos narrados, supostamente praticados pelo autuado, configuram, em tese, o delito previsto no art. 121, § 2º, inciso II e IV do Código Penal, cuja pena máxima privativa de liberdade é superior a 04 anos (art. 313, I, do CPP).
+A materialidade do fato, para os fins desse procedimento, está suficientemente comprovada pelos REDS 2024-000573058-001 e 2024-000583081-001, pelo laudo de eficiência e prestabilidade de arma e munições (cf. ID 10145838110 e ID 10145838111) e pelas declarações prestadas em sede policial.
+No mesmo passo, os encontram-se indícios suficientes de autoria caracterizados nos autos pelas declarações firmes do condutor do flagrante, que confirmou a dinâmica detalhada REDS 2024-000573058-001 e 2024-000583081-001, incluindo o rastreio e abordagem do autuado, tendo este confessado a prática do crime perante os militares.
+Por outro lado, entendo que a custódia cautelar do conduzido é imprescindível para a garantia da ordem pública (art. 312, início, CPP), dada a gravidade em concreto dos fatos - em tese, a prática de um homicídio consumado qualificado -, bem como para a conveniência da instrução criminal e como garantia da aplicação da lei penal, considerando a fuga do conduzido do distrito da culpa, bem como que ele tentou embaraçar a investigação.
+ ..
+Nesse sentido, os fatos noticiados nos autos demonstram que o autuado procurou praticar o crime na clandestinidade, bem como furtar-se a aplicação da Lei Penal, fugindo do local por estradas vicinais de modo a não ser descoberto. Ressalte-se que o autuado deslocou-se de outra cidade, ao que tudo indica, previamente na posse de arma de fogo ilegal, podendo-se concluir indícios de que dado o local do encontro com a vítima, já pretendia executá-la, o que revela a gravidade concreta da conduta praticada apta a abalar a ordem pública, necessitando de uma resposta mais enérgica por parte do Estado.
+Ainda, ressalto que o autuado apesar de não registrar condenação anterior, já foi autuado em flagrante delito no ano de 2023 pelo crime de porte ilegal de munições, pelo que o benefício da liberdade provisória anteriormente lhe concedida não foi suficiente para dissuadi-lo, ao que tudo indica, da prática de novo crime, desta vez contra vida de terceiro, fatos que demonstram a necessidade da segregação cautelar do autuado.
+Para além disso, a primariedade, bons antecedentes residência fixa, e o fato de possuir dois filhos menores, por si só não inviabilizam o seu aprisionamento cautelar. Até porque, ao que tudo indica, os filhos não ficarão desassistidos, pois estarão na guarda da genitora.
+ ..
+Logo, denota-se que a decisão supra não padece de mácula, pois se baseou em dados concretos, demonstrando a existência dos pressupostos da medida cautelar, de modo a concluir que a custódia excepcional se justifica como forma de garantir a ordem pública, tendo em vista a gravidade em concreto do delito. Destaca o Magistrado que o ora recorrente foi preso em flagrante na condução de um veículo, tendo ele confessado ter baleado a vítima, e que procurou fugir. A vítima foi baleada fatalmente. No interior do veículo utilizado pelo recorrente, foi encontrado um cartucho calibre .32 deflagrado, e, em local indicado por ele, foi localizada a arma de fogo utilizada no crime, com cápsulas deflagradas e intactas. Registrou o Magistrado a existência de prova da materialidade delitiva e de indícios de autoria em desfavor do acusado, e que o agente infrator tentou fugir por estradas vicinais para não ser descoberto após a consumação do delito (fls. 15/22 e 237/248).
+Por conseguinte, não merece reforma o acórdão impugnado.
+No mesmo sentido: AgRg no RHC n. 124.697/MG, Ministro Felix Fischer, Quinta Turma, DJe 17/4/2020; AgRg no HC n. 546.302/MG, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 3/12/2019; AgRg no HC n. 474.992/ES, de minha relatoria, Sexta Turma, DJe 11/3/2019; e RCD no HC n. 423.298/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/12/2017, entre outros.
+Afora isso, é entendimento desta Corte que as condições favoráveis do recorrente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é ina plicáv el medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ausente, assim, flagrante ilegalidade a ser sanada.
+Ante o exposto, nego provimento ao agravo regimental.
