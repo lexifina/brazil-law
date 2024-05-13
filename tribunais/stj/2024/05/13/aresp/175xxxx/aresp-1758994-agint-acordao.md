@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. AUSÊNCIA DE OMISSÃO. PRESTAÇÃO JURISDICIONAL SUFICIENTE.
+1. O Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo ESTADO DE MINAS GERAIS desafiando decisão pela qual neguei provimento ao agravo, por entender que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+Em suas razões, a parte agravante reitera que o órgão colegiado local restou omisso quanto à tese de que a inscrição em dívida ativa foi realizada em conformidade com os arts. 39, § 2º, da Lei n. 4.320/1964 e 2º da Lei n. 6.830/1980, bem como com a Lei Estadual n. 21.735/15 e o Decreto Estadual n. 46.830/15.
+A parte agravada apresentou impugnação às fls. 457/472.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. AUSÊNCIA DE OMISSÃO. PRESTAÇÃO JURISDICIONAL SUFICIENTE.
+1. O Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos deduzidos no presente recurso, a decisão alvejada não merece reparos.
+Com efeito, tal como constatou o decisum agravado, verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De fato, na hipótese vertente, a Corte local consignou expressamente que (fls. 216/217):
+Da análise dos dispositivos citados, extrai-se que os créditos somente podem ser inscritos como dívida ativa não-tributária após previamente apurada sua liquidez e certeza em procedimento administrativo regular.
+Isso porque, não se pode admitir que um valor destinado à suposto ressarcimento ao erário, como no presente caso, possa ser inscrito em dívida ativa, por lhe faltar o requisito da certeza.
+Como se verifica da Certidão de Dívida Ativa acostada à ordem 14, a origem da dívida consiste em "Ressarcimento ao erário. Convênio nº 581/SEGOV/PADEM, celebrado entre o Estado de Minas Gerais, por intermédio da Secretária de Estado de Governo/ Subsecretaria de Assuntos Municipais, e o Município de Maravilhas, representado à época, por seu Prefeito, GRACILIANO GARCIA CAPANEMA, Auto de Apuração de Dano ao Erário nº 067/2016. Responsável pelo dano ao erário: GRACILIANO GARCIA CAPANEMA. Atribui-se ao sujeito passivo a falta de comprovação da aplicação dos recursos repassados pelo Estado mediante convênio."
+Não há dúvidas que o Estado de Minas Gerais deve recuperar os eventuais prejuízos atinentes à execução do Convênio nº 581/SEGOV/PADEM, no entanto, deve-se valer das vias ordinárias para constituição do título executivo, com vistas às garantias do contraditório e da ampla defesa.
+Ademais, a ausência do processo administrativo inviabiliza a verificação da adequada constituição do crédito na execução fiscal, prejudicando desta forma o contraditório e a ampla defesa do executado, o que afasta a presunção de certeza e liquidez das CDA"s e, portanto, gera a nulidade do título.
+Assim, o julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento, bem como elucidou as suas razões de decidir de maneira clara e transparente, não se vislumbrando a alegada violação legal. Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSTIVO DE LEI FEDERAL. DEFICÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. LEGALIDADE DA TAXA DE CONTENCIOSO ADMINISTRATIVO FISCAL. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS E NA INTERPRETAÇÃO DE NORMA DE DIREITO LOCAL. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. "In casu", aplica-se o Código de Processo Civil de 2015.
+II - Alegações genéricas de ofensa aos arts. 485, VI, 489, 1.022 do CPC/2015, 6º, § 5º, e 10 da Lei n. 12.016/2009, sem demonstração efetiva da contrariedade ou do vício que ensejaria a nulidade do julgado, configura deficiência de fundamentação, aplicando-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+IV - A controvérsia acerca da legalidade da Taxa de Contencioso Administrativo Fiscal foi dirimida pelo tribuna de origem com base em preceitos e dispositivos constitucionais e na interpretação de normas de direito local (Lei estadual 15.838/2015 e Decreto Estadual n. 31.859/2015).
+V - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão apoiado em fundamentos constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+VI - Aplicável, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal, aos casos em que a lide foi julgada pelo tribunal de origem à luz de interpretação de legislação local, Precedentes.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 2.015.887/CE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+ADMINISTRATIVO. AÇÃO ANULATÓRIA. CONSELHOS DE FISCALIZAÇÃO. LEI N. 13.021/2014. PRESENÇA DE FARMACÊUTICO EM DISPENSÁRIO DE MEDICAMENTOS. DESNECESSIDADE. PRECEDENTES. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO. INEXISTÊNCIA.
+I - Na origem, foi ajuizada ação anulatória, em desfavor do Conselho Regional de Farmácia do Estado de São Paulo - CRF/SP, visando à declaração de inexigibilidade da cobrança de anuidades e multa, por descumprimento da obrigação de manter profissional farmacêutico registrado como responsável técnico na instituição de ensino superior de medicina veterinária, em razão de dispensário situado em seu Núcleo Hospitalar Veterinário.
+II - O pedido foi julgado procedente, em sentença mantida pelo Tribunal de origem.
+III - Não há que se falar em negativa de prestação jurisdicional, uma vez que o acórdão recorrido lastreou-se em fundamentos suficientes, não havendo necessidade de que sejam abordados todos os tópicos que a parte recorrente julga importante. A alegação de omissão consistiu, pois, em mero descontentamento com as conclusões a que chegou o Tribunal de origem.
+IV - Conforme jurisprudência firmada por este Superior Tribunal de Justiça, mesmo com a inovação trazida pela Lei n. 13.021/2014, é desnecessária a presença de farmacêutico em dispensário de medicamentos em pequena unidade hospitalar. Apesar da inovação legislativa, não foi superada a tese firmada no REsp 1.110.906/SP (Tema n. 483/STJ).
+V - Precedentes citados: AgInt no AREsp 1953585/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/4/2022, DJe 19/4/2022; AgInt no AREsp 1.643.662/SP, Rel. Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, DJe 7/5/2021; AgInt no REsp 1.708.289/PE, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12.6.2019; AgInt no REsp 1697211/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2018, DJe 03/4/2018.
+VI - Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 1.985.200/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2022, DJe de 26/9/2022.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
