@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se recurso especial interposto por RAFAEL NOVAES MARTINS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 25/9/2023.
+Concluso ao gabinete em: 9/4/2024.
+Ação: de rescisão contratual c/c devolução de valores e compensação por danos morais, ajuizada pelo recorrente em face da ANHANGUERA EDUCACIONAL PARTICIPAÇÕES S/A, na qual alega que, no final do ano de 2020, matriculou-se no curso de engenharia civil, modalidade semipresencial, iniciando os estudos no primeiro semestre de 2021. Narra que, em dezembro de 2021, foi até a unidade para entrega de atividades complementares e foi surpreendido com a informação de que não foi formada turma para seu curso e que os dois semestres cursados não teriam validade acadêmica. Aduz, ainda, que houve o cancelamento da matrícula e o reembolso dos valores pagos, contudo, sem qualquer correção, razão pela qual pleiteia a condenação em danos materiais e morais daí decorrentes.
+Sentença: julgou procedentes os pedidos iniciais para condenar a ré: i) ao pagamento de correção monetária pela Tabela do Tribunal de Justiça do Estado de São Paulo sobreo valor reembolsado (R$ 4.385,66), contado a partir de cada desembolso até a data do efetivo estorno, acrescidos de juros de mora, de 1% ao mês, a contar da citação; e ii) ao pagamento de compensação por danos morais, no valor de R$ 10.000,00 (dez mil reais).
+Embargos de declaração: opostos pela recorrida, foram rejeitados.
+Acórdão: deu provimento ao recurso de apelação interposto pela recorrida e negou provimento ao recurso adesivo interposto pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL E RECURSO ADESIVO Interposições contra sentença que julgou procedente ação de rescisão contratual e devolução de valores c.c. danos morais. Prestação de serviços educacionais. Incidência do Código de Defesa do Consumidor. Cláusula do processo seletivo que previamente dá conta da possibilidade de não oferecer o curso caso não haja a quantidade mínima de alunos. Danos morais não configurados. Sucumbência que passa a ser fixada de forma recíproca. Sentença parcialmente reformada.
+Apelação da ré provida e recurso adesivo do autor não provido.
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: aponta violação aos arts. 6º, VIII, e 51, IV e XI, do CDC, bem como dissídio jurisprudencial.
+Sustenta, em síntese, que "para validar a conduta da Instituição de Ensino para cancelamento do curso, deveria ter sido comprovado o número de vagas oferecidas e que houve a matrícula de candidatos em percentual inferior a 60% (sessenta por cento) das vagas oferecidas"; que "em não havendo prova do número de vagas, bem como ausente a prova do número de matriculados, o cancelamento do curso foi abusivo e deverá ser mantida a condenação de primeira instância à reparação moral sofrida pelo Recorrente" (e-STJ fls. 270/271); e que o fornecedor de produtos e serviços deve responder por prejuízos causados a terceiros independentemente da existência de culpa" (e-STJ fl. 272).
+Afirma que "é abusiva qualquer disposição contratual que permita à instituição de ensino o direito de, a qualquer momento, e sob alegação de insuficiência de número mínimo de aluno, interromper um curso universitário já iniciado, já implantado" (e-STJ fl. 273).
+Alega que "acórdão recorrido julgou o caso dos autos contrariando a previsão contratual, uma vez que aplicou a previsão contratual de não iniciar o curso quando inexistisse o número mínimo de matriculados para a modalidade presencial"; e que "de acordo com o contrato de prestação de serviços, inexiste previsão contratual de cancelamento do curso da modalidade à distância como feito pela Instituição de Ensino" (e-STJ fls. 275/276), tendo, portanto, o acórdão reformado a sentença utilizando a previsão contratual dos cursos presenciais para o curso à distância.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pela parte recorrente em seu recurso especial quanto aos arts. 6º, VIII, e 51, IV e XI, do CDC, indicados como violados, apesar da oposição de embargos de declaração, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+Saliente-se, por oportuno, que o prequestionamento ficto (art. 1.025 do CPC) exige a indicação do art. 1.022 do CPC como violado, o que não ocorreu no particular. Nesse sentido: AgInt no AREsp 1.150.744/SE, 3ª Turma, DJe 8/3/2018 e AgInt no AREsp 1.187.992/SP, 4ª Turma, DJe 2/5/2018.
+- Da fundamentação deficiente
+Ademais, no que se refere à alegação de que o acórdão recorrido teria contrariado previsão contratual, constata-se, da leitura das razões recursais, que o recorrente deixou de indicar em seu recurso especial os dispositivos de lei que teriam sido violados pelo aresto recorrido, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Além disso, a ausência de prequestionamento do tema que se supõe divergente, qual seja, a alegada violação aos arts. 6º, VIII, e 51, IV e XI, do CDC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no REsp 909.113/RS, 3ª Turma, DJe 2/5/2011 e AgRg no Ag 781.322/RS, 4ª Turma, DJe 24/11/2008.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE VALORES E COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação de rescisão contratual c/c devolução de valores e compensação por danos morais.
+2. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. Recurso especial não conhecido.
