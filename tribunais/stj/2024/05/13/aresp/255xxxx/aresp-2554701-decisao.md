@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 10, §4º, X, 12, V, "b", "c" da Lei nº 9.656/98; 3º, 4º, VII da Lei nº 9.961/2000; 1.022, II, do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 216):
+PLANO DE SAÚDE. CARÊNCIA. URGÊNCIA/EMERGÊNCIA. LIMITAÇÃO. INTERNAÇÃO. 12 HORAS. ABUSIVO. SÚMULAS 103 TJSP, 597 E 302 STJ.
+1) É abusiva cláusula contratual que limita em 12 horas a internação nos casos de urgência e emergência fora das primeiras 24 horas, de carência estabelecida em lei. 2) Recurso não provido.
+Opostos embargos de declaração; foram rejeitados.
+Sustenta a parte agravante que os recorridos não possuem direito algum ao atendimento de internação em período de carência. O artigo 12, inciso V, letra "b" da Lei nº 9.656/98 que dispõe sobre os planos e seguros privativos de assistência à saúde institui uma carência de 180 (cento e oitenta) dias para os demais casos, ou seja, para que haja cobertura a internação, é necessário o cumprimento da carência de 180 dias, mesmo em se tratando de atendimento de emergência, nos termos da Resolução do CONSU nº 13.
+Adverte que o acórdão recorrido foi totalmente omisso e contrário quanto às Resoluções do CONSU e da ANS, sendo portanto, totalmente contraditório à legislação vigente no tocante aos planos de saúde, visto que as Leis nº 9.656/98 (arts. 10, § 4º e 35 A) e 9.961/2000 (arts. 3 e 4, VII) autorizam expressamente o CONSU e posteriormente a ANS a editar normas e resoluções para regulamentar os planos de saúde, não podendo a operadora ficar obrigada a cobrir procedimento cuja limitação se encontra expressamente disciplinada pela Resolução da Agência Nacional de Saúde Suplementar.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa ao art. 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+O Tribunal de origem ao apreciar o feito, no que concerne ao período de carência para internação entendeu às fls. 217 - 218 - grifei:
+Inegável que a autora é beneficiária do plano de saúde, cujo adimplemento não se questionou, bem como a necessidade de atendimento de urgência/emergência, atestado pelo médico assistente, logo, não há que se falar em prazo de carência, o que obrigava a ré a prestar o devido socorro.
+E eventual cláusula contratual que prevê carência para utilização de serviços de assistência médica nas emergências ou urgências é abusiva, conforme dispõe a Súmula 597 do Colendo Superior Tribunal de Justiça.
+Aplicável a Súmula 103 deste E. Tribunal: "É abusiva a negativa de cobertura em atendimento de urgência e/ou emergência a pretexto de que está em curso período de carência que não seja o prazo de 24 horas estabelecido na Lei n. 9.656/98." Com relação ao limite de 12 horas para internação, o texto legal somente admite a limitação da cobertura dos atendimentos de urgência e emergência nas primeiras 24 horas de contratação do plano de saúde, não limitando os procedimentos emergenciais cobertos.
+Aplicável, no caso, a Súmula 302 do STJ: "É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado".
+Não se aplica a teoria do fato decorrente de força maior a onerar excessivamente somente uma das partes porque, o contrato foi firmado no período da pandemia, portanto a ocorrência do fato não é álea extraordinária, muito pelo contrário, parece risco cuja ocorrência é previsível e, portanto, calculável.
+Ademais a pandemia também atingiu a apelada ainda me maneira mais gravosa, colocando a sua vida em risco.
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se
+EMENTA
