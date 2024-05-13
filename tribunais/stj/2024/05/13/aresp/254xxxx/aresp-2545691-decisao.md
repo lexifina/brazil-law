@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts.186, 187 e 927 do Código Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 185):
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - Sentença de parcial procedência da ação - Recurso da autora - Pretensão ao recebimento de indenização por danos morais - Acolhimento - Caso em que a autora foi internada em decorrência de ter sofrido um AVC (acidente vascular cerebral) - Evidenciada a urgência/emergência a afastar o prazo de carência de 180 dias - Dano moral caracterizado - Fatos narrados que ultrapassam o mero dissabor do dia a dia - Valor - Fixação em R$ 10.000,00 - Sentença reformada - Honorários advocatícios - Considerando a condenação da requerida no pagamento de danos morais, são arbitrados sobre o valor da condenação - RECURSO PARCIALMENTE PROVIDO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 223):
+EMBARGOS DE DECLARAÇÃO. Omissão - Inocorrência - Pretensão clara de reforma da decisão desfavorável aos embargantes - Inexistência de qualquer dos vícios descritos no art. 1.022, CPC - Caráter infringente e de prequestionamento não admitidos - Embargos rejeitados.
+Sustenta a parte agravante que no decorrer da lide não foi possível a constatação de má-fé, dado que agiu nos ditames do contrato entabulado entre as partes, bem como seguiu as resoluções da agência reguladora responsável pela matéria.
+Argumenta que o que se discute é a violação aos princípios da proporcionalidade e da razoabilidade e dos parâmetros estabelecidos no Código Civil para fixação do valor da indenização.
+Ressalta que sua condenação não se denota medida justa, dado que gera o enriquecimento ilícito da a gravada, não podendo ser admitido, desvirtuando o conceito de reparação do dano moral e colocando em ascensão a mercantilização de situações emocionais.
+Assim posta a questão, passo a decidir.
+O Tribunal de origem, ao apreciar o pleito da parte recorrente, entendeu às fls. 187-188 - grifei:
+No caso em comento, muito embora o período de carência para internações previsto no plano contratado fosse de 180 dias consoante folha 16, como ficou bem reconhecido pela sentença, a requerida tinha o dever de arcar com a internação da autora, eis que acometida por um acidente vascular cerebral e evidenciada a situação de emergência/urgência.
+E neste caso específico, não há como se ignorar que a recusa da cobertura para a internação importou em risco concreto do agravamento da saúde da autora, que por meios próprios teve de suportar os custos dos exames realizados, tanto que condenada a requerida na devolução dos valores desembolsados, bem como quanto à incerteza de ter que custear as despesas hospitalares decorrentes da internação conforme detalhado na parte final da folha 32 em que fez constar "paciente particular sem condições de manter custos"
+A situação retratada nos autos vai muito além do mero aborrecimento do dia a dia.
+Quanto ao valor dos danos morais, é certo que o montante indenizatório deve ser "nem tão grande que se converta em fonte de enriquecimento, nem tão pequena que se torne inexpressiva" (Caio Mario da Silva Pereira, in Responsabilidade Civil, 2ª ed. Forense, 1990, p. 67).
+A fixação do valor da indenização se presta a cumprir dupla função: compensar a vítima pela dor experimentada e desestimular a reiteração da conduta lesiva.
+Por se tratar de dano imaterial, não há critérios objetivos a serem utilizados na mensuração dos valores, que devem ser arbitrados.
+Porém, o magistrado, ao proceder a análise do caso concreto, deve cuidar para que a indenização, mesmo não dando causa a enriquecimento ilícito, sirva para coibir a reiteração da conduta lesiva.
+Ante as peculiaridades do caso concreto, acolhe-se o pleito da autora, para fixar os danos morais no valor de R$ 10.000,00 (e não no valor pretendido de R$ 15.000,00) corrigidos monetariamente a partir deste Acórdão de acordo com a Tabela Prática deste Tribunal de Justiça, e juros de mora de 1% ao mês contados da citação (responsabilidade contratual).
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arb i trada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
