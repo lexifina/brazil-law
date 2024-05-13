@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADO VÍCIO DO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO OCORRÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. A atribuição de efeitos infringentes aos embargos de declaração é possível apenas em situações excepcionais, notadamente nos casos em que a alteração do julgado decorre da correção de algum dos vícios do art. 1.022 do CPC/2015, o que não ocorre na presente demanda.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI ao acórdão da Terceira Turma desta Corte Superior assim ementado (e-STJ, fl. 232):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO AOS CÁLCULOS DO LAUDO PERICIAL. REGULARIDADE. EXCESSO DE EXECUÇÃO E ENRIQUECIMENTO ILÍCITO. INEXISTÊNCIA. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. Quanto à validade do laudo pericial, percebe-se que rever a conclusão do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+Em suas razões, a embargante alega, em síntese, omissão no acórdão embargado quanto ao precedente acostado nas razões do agravo interno.
+Aduz, ainda, que não há falar em incidência das Súmulas n. 5 e 7 do STJ, bem como que a controvérsia refere-se à validade do laudo pericial juntado aos autos do processo principal.
+Impugnação não apresentada (e-STJ, fl. 275).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADO VÍCIO DO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO OCORRÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. A atribuição de efeitos infringentes aos embargos de declaração é possível apenas em situações excepcionais, notadamente nos casos em que a alteração do julgado decorre da correção de algum dos vícios do art. 1.022 do CPC/2015, o que não ocorre na presente demanda.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem acolhida.
+De início, registre-se que esta espécie recursal tem por finalidade suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+Na mesma linha de cognição (sem grifo no original):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCESSOS. SUSPENSÃO. DETERMINAÇÃO. RECURSO ESPECIAL REPETITIVO. JULGAMENTO. MATÉRIA AFETADA. TEMA Nº 1.069/STJ.
+1. Nos termos do artigo 1.022 do CPC, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão acerca da qual devia se pronunciar o juiz de ofício ou a requerimento ou corrigir erro material.
+2. A controvérsia submetida a esta Corte Superior no recurso especial foi afetada ao rito dos recursos especiais repetitivos (REsp 1.870.834/SP).
+3. Em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no tribunal de origem, o qual incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC.
+4. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no AREsp n. 1.828.487/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+No caso em comento, verifica-se que a irresignação não merece prosperar, haja vista que o acórdão ora embargado foi claro ao reiterar a ausência de violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, bem como a incidência da Súmula n. 7/STJ à presente demanda.
+Confira-se (e-STJ, fls. 235-237; sem grifo no original):
+O inconformismo não merece prosperar.
+Com efeito, mostra-se cristalino que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, haja vista que, conforme bem salientado, além da não ocorrência de violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, está evidente a incidência da Súmula n. 7/STJ à presente demanda.
+Consoante análise dos autos, importa reiterar que a alegação de violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem foi claro e coerente ao concluir que "os cálculos elaborados pelo Perito do Juízo, senhor Stenius Lacerda Bastos, são dotados de credibilidade e de presunção de veracidade juris tantum", bem como que o laudo pericial deve ser considerado correto e hábil a produzir seus efeitos.
+Veja-se (e-STJ, fls. 65-68; sem grifo no original):
+Conforme relatado, trata-se de agravo de instrumento, com pedido de atribuição de efeito suspensivo, interposto pela CAIXA DE PREVIDÊNCIA DOSFUNCIONÁRIOS DO BANCO DO BRASIL contra a decisão exarada pelo Juiz de Direito da 18ª Vara Cível e Ambiental da Comarca de Goiânia (evento 81 do processo originário), Dr. Danilo Luiz Meireles dos Santos, nos autos da ação de cobrança, em fase de cumprimento de sentença, proposta por ALCIDINO CESÁRIO DE OLIVEIRA, ora agravado.  ..
+A executada/agravante insurge-se contra o laudo pericial, em especial sobre a ausência de formação técnica do perito para atuação na lide.  ..  Sustenta que, caso a decisão agravada seja mantida, haverá enriquecimento ilícito por parte do exequente/recorrido.  ..
+Em que pese a insurgência da recorrente, conforme consignou o nobre Juiz de Direito, condutor da demanda no Juízo de origem, não se justifica a realização de uma nova perícia técnica, pois, os cálculos elaborados pelo Perito do Juízo, senhor Stenius Lacerda Bastos, são dotados de credibilidade e de presunção de veracidade juris tantum, de modo que, para sua refutação, necessária apresentação de provas robustas, o que não aconteceu no caso em exame.
+Nesse intelecto, inexistindo provas aptas a afastar o teor conclusivo do laudo pericial, colacionado no evento 58 do processo originário, deve ser ele considerado correto e hábil a produzir seus efeitos.  ..
+Por outro vértice, no tocante à incidência dos juros moratórios, insta registrar que o Perito do Juízo, no evento 73 dos autos de origem, reconheceu o erro material, passando a considerar, para realização dos cálculos, a data da citação, retificando-o sem seguida.  ..
+Desta feita, não se mostra abusiva a decisão proferida pelo Julgador singular, que, dentro de seu poder geral de cautela e dos entendimentos adotados, rejeitou a impugnação ao Laudo Pericial.
+Nessa esteira, percebe-se que todas as questões suficientes ao deslinde da controvérsia foram devidamente analisadas na decisão agravada, não havendo falar em nenhum vício no decisum.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. RECUPERAÇÃO JUDICIAL CONCEDIDA EM FAVOR DE DEVEDOR SOLIDÁRIO AUSÊNCIA DE SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA OS DEMAIS DEVEDORES SOLIDÁRIOS OU COOBRIGADOS EM GERAL. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. OFENSA À COISA JULGADA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+4. A Segunda Seção do Superior Tribunal de Justiça, em recurso repetitivo, sob o rito do art. 543-C do CPC/73, no julgamento do REsp 1.333.349/SP, de relatoria do Ministro LUIS FELIPE SALOMÃO, firmou entendimento de que "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.340.840/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+Por conseguinte, quanto à validade, ou não, do laudo pericial, vislumbra-se que a irresignação da agravante, deveras, não merece guarida, uma vez que infirmar as conclusões do acórdão recorrido - no tocante à questão de que o laudo pericial deve ser considerado correto e hábil a produzir seus efeitos - demandaria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Convém repisar, ainda, que não merece guarida a suscitada alegação de excesso de execução e enriquecimento ilícito do recorrido, haja vista que afastar a conclusão do aresto - de que "o Perito Judicial nomeado pelo Juízo de origem, por meio de seus esclarecimentos constantes do evento 73, rechaçou a necessidade de retificação ou alteração na metodologia utilizada, concluindo que o exequente/agravado possui em face da executada/agravante um crédito de R$ 68.018,96 (sessenta e oito mil, dezoito reais e noventa e seis centavos), devidamente ajustado e atualizado até setembro de 2021" (e-STJ, fl. 67) - também ensejaria o reexame de matéria fático-probatória, o que é vedado em recurso especial por inteligência da Súmula n. 7/STJ.
+Assim, melhor sorte não socorre à agravante, não merecendo reparo a decisão monocrática de fls.197-201 (e-STJ).
+Nessa esteira, depreende-se das razões apresentadas que a embargante, deveras, não se conforma com a conclusão do acórdão que negou provimento ao agravo interno, buscando, por via imprópria, a reforma do resultado do julgamento.
+Todavia, a atribuição de efeitos infringentes aos embargos somente se faz possível em situações excepcionais, notadamente nos casos em que a alteração do julgado decorre da correção de al gum dos vícios apontados, o que não é a hipótese dos autos.
+À guisa de exemplo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC/2015. EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO. REAUTUAÇÃO.
+1. Os embargos de declaração são cabíveis para suprir omissão, contradição, obscuridade ou erro material do acórdão.
+2. Admite-se, excepcionalmente, que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do artigo 1.022 do Código de Processo Civil de 2015, cuja correção importe alteração da conclusão do julgado.
+3. No caso concreto, impõe-se o reconhecimento do vício da omissão no julgamento do agravo interno, pois a incidência da Súmula nº 284/STF foi devidamente rebatida no agravo em recurso especial.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao agravo interno.
+(EDcl no AgInt no AREsp n. 1.566.233/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
