@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. DECISÃO EXTRA PETITA. NULIDADE NÃO EVIDENCIADA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS PEDIDOS . DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de que "não há julgamento extra petita quando o órgão julgador interpreta os pedidos de forma lógico-sistemática, levando em consideração todos os requerimentos feitos ao longo da petição analisada" (AgInt no REsp 2.026.725/PA, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/9/2023, DJe de 20/9/2023).
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCIO LOBATO DE MELLO - ESPÓLIO contra decisão desta Relatoria (fls. 290/294), que conheceu do agravo para negar provimento ao recurso especial, com base em ausência de negativa de prestação jurisdicional e na incidência da Súmula 83/STJ.
+Em suas razões recursais, a parte agravante impugna os fundamentos da decisão agravada e reitera o mérito recursal.
+A parte agravada apresentou impugnação (fls. 329/333).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. DECISÃO EXTRA PETITA. NULIDADE NÃO EVIDENCIADA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS PEDIDOS . DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de que "não há julgamento extra petita quando o órgão julgador interpreta os pedidos de forma lógico-sistemática, levando em consideração todos os requerimentos feitos ao longo da petição analisada" (AgInt no REsp 2.026.725/PA, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/9/2023, DJe de 20/9/2023).
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+VOTO
+A insurgência não prospera.
+Observa-se que os argumentos trazidos pela parte recorrente se mostram insuficientes para infirmar a decisão agravada, a qual deve ser mantida.
+Como asseverado na decisão impugnada, não prospera a tese de negativa de prestação jurisdicional.
+Com efeito, na análise acurada dos autos, verifica-se que o Tribunal a quo apreciou toda a matéria levada à sua análise, inclusive no que diz respeito à tese de nulidade de julgamento extra petita quanto à determinação da liquidação das benfeitorias, in verbis:
+"Inicialmente, afasta-se o alegado julgamento extra petita, uma vez que o exequente, ora agravado, ao buscar a satisfação de crédito no valor de R$ 142.550,00, conforme se observa da inicial (000002), considerou o "valor das benfeitorias necessárias e úteis", de forma que, ao ser determinada a apuração do seu montante, não restou configurado o vício apontado. Ademais, embora seja da responsabilidade do agravado arcar com as benfeitorias, o cumprimento de tal obrigação constitui condição para que seja reintegrado na posse do imóvel, conforme se observa do título executivo (fls. 33-52/000008), daí a necessidade/adequação de se determinar o prosseguimento do feito. Assim, inexiste qualquer óbice à que o ora agravado busque a solução da lide, até porque, como é cediço, as partes "têm o direito de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa", nos termos do artigo 4º do Código de Processo Civil.
+Outrossim, nos termos do artigo 509, caput, do Diploma Processual, a liquidação proceder-se-á "a requerimento do credor ou do devedor". 2Desse modo, não assiste razão ao agravante, seja no que concerne ao reconhecimento da nulidade do julgado ou para obstar o prosseguimento da fase de liquidação de sentença determinada." (fls. 45/46).
+Assim, realmente, não prospera a alegada ofensa ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no REsp n.2.009.408/AM, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 3/4/2023; AgInt no AgInt no AgInt no REsp n. 1.963.364/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/3/2023; AgInt no AgInt no AREsp n. 2.040.618/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 23/3/2023; AgInt no REsp n. 1.896.188/AM, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/3/2023; e AgInt no AREsp n. 2.121.287/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 16/3/2023.
+Em relação à tese de nulidade por julgamento extra petita, a parte ora agravante alega que a determinação de liquidação das benfeitorias realizadas no imóvel é nula, porque não houve pedido nesse sentido e em razão da inadequação do meio utilizado.
+Ao dirimir a controvérsia, o Tribunal a quo consignou que "o exequente, ora agravado, ao buscar a satisfação de crédito, considerou o "valor das benfeitorias necessárias e úteis", de forma que, ao ser determinada a apuração do seu montante, não restou configurado o vício apontado" (fl. 44).
+Verifica-se, pois, que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça, assente no sentido de que "não há julgamento extra petita quando o órgão julgador interpreta os pedidos de forma lógico-sistemática, levando em consideração todos os requerimentos feitos ao longo da petição analisada" (AgInt no REsp 2.026.725/PA, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/9/2023, DJe de 20/9/2023). A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC , porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A jurisprudência do STJ é firme no sentido de que o vício de julgamento extra petita não se configura quando o provimento jurisdicional representar decorrência lógica do pedido, compreendido como aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos". Incidência da Súmula 83/STJ.
+3. Na espécie, o Tribunal de origem, soberano na análise dos contornos fáticos e das disposições contratuais pactuadas, consignou a validade da cláusula que previa a cobrança da comissão de corretagem e do percentual de depreciação do imóvel. Desse modo, a reforma das conclusões da Corte estadual relativas à validade das cláusulas contratuais em questão é inadmissível em sede de recurso especial, por vedação das Súmulas 5 e 7 do STJ.
+4. Consoante iterativa jurisprudência desta Corte, a incidência das Súmulas 5 e 7 do STJ constitui óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno desprovido."
+(AgInt no REsp n. 2.037.663/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/4/2024, DJe de 11/4/2024)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. EMBARGOS PROTELATÓRIOS. MULTA. CABIMENTO. JULGAMENTO "EXTRA PETITA". NÃO OCORRÊNCIA. COISA JULGADA. CERCEAMENTO DE DEFESA. INTERESSE DE AGIR. REVISÃO DO JULGADO. IMPOSSIBILIADE. INCIDÊNCIA DOS ENUNCIADOS N. 5 E 7/STJ.
+(..)
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não se configurar julgamento ultra ou extra petita quando o provimento jurisdicional for uma decorrência lógica do pedido.(..)
+5. Na hipótese, rever o entendimento do tribunal de origem, que reconheceu a inexistência do interesse de agir e a legitimidade das partes, demandaria o reexame das provas dos autos, procedimento obstado pelo ditame do Enunciado n. 7/STJ."
+Agravo interno improvido."
+(AgInt no REsp n. 1.923.503/PR, Relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 26/6/2023, DJe de 28/6/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INEXIGIBILIDADE DE DÉBITOS C/C OBRIGAÇÃO DE FAZER E PEDIDO DE ANTECIPAÇÃO DE TUTELA E INDENIZAÇÃO POR DANOS MORAIS. DECISÃO EXTRA PETITA. NULIDADE NÃO EVIDENCIADA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO RECURSO DE APELAÇÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de que "não há julgamento extra petita quando o órgão julgador interpreta os pedidos de forma lógico-sistemática, levando em consideração todos os requerimentos feitos ao longo da petição analisada" (AgInt no REsp 2.026.725/PA, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.372.474/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/10/2023, DJe de 9/11/2023)
+Desse modo, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
