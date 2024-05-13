@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRESSA CRISTINA DOS SANTOS PILAR às fls. 1022/1035 (e-STJ), admitido às fls. 1062/1063 (e-STJ); e agravo em recurso especial interposto por COMPANHIA DE SANEAMENTO DO PARANA - SANEPAR contra inadmissão, na origem, de recurso especial que ataca acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. - PRELIMINAR DE ILEGITIMIDADE ATIVA TRAZIDA EM CONTRARRAZÕES. NÃO ACOLHIMENTO. APLICAÇÃO DA TEORIA DA ASSERÇÃO. AUSÊNCIA DE ELEMENTOS CAPAZES DE AFASTAR A PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO DE RESIDÊNCIA APRESENTADA PELA PARTE AUTORA. - RESPONSABILIDADE CIVIL AMBIENTAL. ESTAÇÃO DE TRATAMENTO DE ESGOTO DA SANEPAR EM ALMIRANTE TAMANDARÉ ("ETE SÃO JORGE"). ALEGAÇÃO DE MAU CHEIRO PROVENIENTE DO TRATAMENTO DE ESGOTO REALIZADO NA REGIÃO. EXISTÊNCIA DE NEXO CAUSAL ENTRE A INSTALAÇÃO DA ETE E A DEGRADAÇÃO AMBIENTAL ATMOSFÉRICA NA REGIÃO. PROVA PERICIAL QUE ATESTOU O MAU CHEIRO NA REGIÃO. EMISSÃO DE GASES NO TRATAMENTO ANAERÓBICO E DESPEJO DE ESGOTO NÃO TRATADO NO RIO BARIGUI EM RAZÃO DA ABERTURA DE VÁLVULA EXTRAVASORA (BYPASS). PROVAS TESTEMUNHAL E DOCUMENTAL QUE COMPROVAM A POLUIÇÃO. - DANO MORAL. ABALO À QUALIDADE DE VIDA DA COLETIVIDADE. - VALOR DA INDENIZAÇÃO. ARBITRAMENTO COM RAZOABILIDADE E PROPORCIONALIDADE. ATENÇÃO AO CASO CONCRETO. VALOR FIXADO EM R$ 2.000,00. - SUCUMBÊNCIA RECÍPROCA. - APELAÇÃO CONHECIDA E PROVIDA.
+Opostos embargos de declaração pela parte autora, foram parcialmente acolhidos.
+Embargos de declaração da concessionária de água foram rejeitados.
+Decisão de sobrestamento na origem às fls. 1077/1078 (e-STJ).
+É o relatório.
+É o caso de se devolver os autos à origem julgando os recursos prejudicados.
+Isso porque a Primeira Seção do STJ afetou ao rito dos recursos repetitivos, Tema 1.221/STJ (REsp 2.090.538/PR e REsp 2.094.611/PR), a seguinte questão:
+"Definição do termo inicial dos juros moratórios no caso de demanda em que se pleiteia reparação moral decorrente de mau cheiro oriundo da atividade de prestadora de serviço público no tratamento de esgoto".
+O acórdão de afetação foi assim ementado:
+DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL AMBIENTAL. MAU CHEIRO EM ESTAÇÃO DE TRATAMENTO DE ESGOTO -ETE. FALHA NA PRESTAÇÃO DO SERVIÇO PÚBLICO. AÇÃO INDENIZATÓRIA. DANOS MORAIS. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. JUROS DE MORA. TERMO INICIAL. DEFINIÇÃO.
+1. Delimitação da controvérsia: "Definição do termo inicial dos juros moratórios no caso de demanda em que se pleiteia reparação moral decorrente de mau cheiro oriundo da prestação de serviço público de tratamento de esgoto".
+2. Encaminhamento pela admissão deste recurso como representativo de controvérsia, com determinação de providências, notadamente o sobrestamento dos recursos especiais e agravos em recursos especiais interpostos perante os tribunais de segunda instância ou em tramitação no STJ.
+(ProAfR no REsp n. 2.090.538/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 14/11/2023, DJe de 17/11/2023.)
+Observa-se que houve a determinação de suspensão da tramitação de todos os processos em segundo grau de jurisdição que versem sobre a questão, em todo o território nacional, até o pronunciamento definitivo desta Corte.
+O Tribunal de origem até determinou o sobrestamento conforme citado no relatório acima, mas o feito veio a esta Corte Superior de Justiça sem motivação aparente.
+Assim, o atual posicionamento desta Corte é no sentido de que o Recurso Especial que tenha por objeto questão afetada para julgamento segundo o rito dos recursos repetitivos deve ser devolvido ao Tribunal de origem para que, após publicado o acórdão relativo ao Recurso Representativo da Controvérsia, a irresignação seja apreciada na forma do art. 1.040 do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. VALIDADE DE CLÁUSULA CONTRATUAL DE PLANO DE SAÚDE COLETIVO QUE PREVÊ REAJUSTE POR FAIXA ETÁRIA. TEMA 1016 STJ. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO E DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM. DISTINÇÃO NÃO DEMONSTRADA.
+- Da distinção
+1. É imperiosa a suspensão do recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental 24, de 28/09/2016, quando não demonstrada a distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial afetado.
+- Da devolução dos autos à origem
+2. É incabível agravo interno para impugnar a ordem de devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento de recurso representativo de controvérsia repetitiva, uma vez que essa decisão não gera prejuízo às partes.
+3. A orientação da Corte Especial é a de que fica a critério de cada relator o envio do apelo nobre à instância de origem para sobrestamento ou mesmo o julgamento do recurso, monocraticamente ou no respectivo Colegiado.
+4. Agravo interno conhecido parcialmente e, nessa parte, não provido.
+(STJ, AgInt no REsp 1.791.598/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 11/09/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMULAÇÃO DE CLÁUSULA PENAL E LUCROS CESSANTES. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. DECISÃO IRRECORRÍVEL. AGRAVO NÃO CONHECIDO.
+1. Verificada a identidade das questões discutidas no recurso especial e nos recursos representativos de controvérsia, deve ser observado o procedimento previsto no art. 256-L do RISTJ, o qual, para os recursos distribuídos, determina a devolução dos autos à Corte de origem, a fim de que ali aguardem, suspensos, o julgamento definitivo da matéria repetitiva.
+2. Conforme entendimento sedimentado no STJ, é irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento de matéria submetida ao rito dos recursos repetitivos. Precedentes.
+3. Agravo interno não conhecido.
+(STJ, AgInt no AREsp 411.892/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 20/10/2017).
+No mesmo palmilhar, ainda, as seguintes decisões monocráticas: EDcl nos EDcl no REsp 1.823.408/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 23/09/2020; EDcl no AREsp 1.722.284/SP, Rel. Ministra NANCY ANDRIGHI, DJe de 16/11/2020; EDcl no AREsp 1.705.039/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe de 29/10/2020.
+Registre-se, por fim, que, nos termos do art. 1.040, II, do CPC/2015, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior.
+E, versando o recurso interposto sobre outras questões, diversas da examinada no repetitivo, "caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões" (art. 1.041, § 2º, do CPC/2015).
+Ante o exposto, julgo prejudicados os recursos e determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, os presentes recursos: (a) tenham seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenham novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+Intimem-se.
+Publiquem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MAU CHEIRO OCASIONADO POR ESTAÇÃO DE TRATAMENTO DE ESGOTO. TERMO INICIAL DOS JUROS DE MORA. TEMA REPETITIVO N. 1.221. DEVOLUÇÃO DOS AUTOS À ORIGEM. ART. 1.040 DO CPC. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL PREJUDICADOS.
