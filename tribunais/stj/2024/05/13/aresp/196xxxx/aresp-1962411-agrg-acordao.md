@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. SÚMULA 182/STJ. SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE. SÚ MULAS 282, 284 E 356 DO STF.
+1. Recurso especial não admitido em razão da aplicação da Súmula 7 do STJ, das Súmulas 282, 284 e 356 do STF, assim como por fundamentar pedido em norma constitucional.
+2. Parte agravante que deixou de demonstrar a ausência das irregularidades apontadas. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCIANA APARECIDA OLIVEIRA contra decisão da Presidência do Superior Tribunal de Justiça, por meio da qual foi conhecido o respectivo agravo em recurso especial para não conhecer o recurso especial (fls. 1.252/1.262).
+Requer a parte agravante o afastamento dos óbices aplicados (Súmulas 282, 284 e 356 do STF e 7 do STJ), uma vez que interpôs recurso extraordinário de forma concomitante, assim como que a pretensão é de adequar os elementos cognitivos aos dispositivos legais regentes (fls. 1.265/1.297).
+O agravado (Ministério Público de Mato Grosso do Sul) pugna pelo não conhecimento e, subsidiariamente, o não provimento do recurso (fls. 1.314/1.327).
+O Ministério Público Federal manifesta-se pelo não conhecimento e, subsidiariamente, o não provimento do recurso (fls. 1.334/1.339).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. SÚMULA 182/STJ. SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE. SÚ MULAS 282, 284 E 356 DO STF.
+1. Recurso especial não admitido em razão da aplicação da Súmula 7 do STJ, das Súmulas 282, 284 e 356 do STF, assim como por fundamentar pedido em norma constitucional.
+2. Parte agravante que deixou de demonstrar a ausência das irregularidades apontadas. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo é inadmissível.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+Inicialmente, afasto a alegação de intempestividade recursal. No caso, a decisão agravada foi considerada publicada em 26/10/2021. O prazo de 5 (cinco) dias teve início em 27/10/2021. Considerando que os dias 1º e 2 de novembro constituem feriado por força de lei federal (art. 62, IV da Lei n. 5.010/1966) e não houve expediente nesta Corte (Portaria STJ/GP n. 2 de 11 de janeiro de 2021) o término do prazo ocorreu em 3/11/2021, data do protocolo do presente agravo regimental.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL não admitiu o apelo nobre em razão das matérias suscitadas serem de cunho constitucional, bem como pretender o recorrente o revolvimento de matéria fático probatória (Súmula 7/STJ). Em decisão monocrática, a Presidência do STJ acrescentou aos óbices a aplicação das Sumulas 282, 284 e 356 do STF.
+Contudo, a parte agravante, no agravo em recurso especial e no presente agravo regimental, não demonstrou a ausência das irregularidade apontadas, ônus que lhe caberia, tendo focado em renovar os argumentos de mérito do recurso especial.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC c/c art. 3.º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023 e; AgRg no AREsp n. 2.309.920/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/11/2023.
+A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que, para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa. (AgRg no AREsp n. 2.024.908/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023)
+No mesmo sentido: AgRg no AREsp n. 2.295.325/SP, Ministra Laurita Vaz, Sexta Turma, DJe 9/5/2023.
+Na espécie, na argumentação constante no agravo em recurso especial, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório. Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC c/c art. 3.º, CPP).
+Nesse sentido: AgRg no AREsp n. 2.364.704/PR, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023 e; AgRg no AREsp n. 2.198.230/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/8/2023.
+Ademais, esclareço que é defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal. Ilustrativamente: Na via do recurso especial, é descabida a análise da alegação de ofensa a dispositivos ou princípios constitucionais, ainda que para fins de prequestionamento. (EDcl no AgRg no AREsp n. 2.254.533/MG, Ministra Laurita Vaz, Sexta Turma, DJe 22/8/2023)
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
