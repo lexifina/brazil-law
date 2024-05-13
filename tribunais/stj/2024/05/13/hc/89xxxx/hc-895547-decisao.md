@@ -1,0 +1,35 @@
+DECISÃO
+MARCOS GABRIELL DE SOUZA FERNANDES alega sofrer constrangimento ilegal, decorrente de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502755-64.2023.8.26.0535.
+Nas razões da impetração, a defesa alegou a atipicidade material da conduta, dada a possibilidade de aplicação do princípio da insignificância. Afirmou que o esquema de segurança do estabelecimento comercial impediu a subtração dos bens, de modo a caracterizar o instituto do crime impossível. Por esses motivos, requereu a absolvição do réu.
+Subsidiariamente, pretende que a redução da pena pela tentativa seja operada em seu grau máximo.
+Prestadas as informações, veio o parecer do Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus.
+Decido.
+I. Insignificância
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por serem categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o próprio legislador penal confere importância aos registros na folha de antecedentes para o cômputo da reprimenda, como ocorre na privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses para agentes primários - arts. 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º - com a finalidade de individualizar a pena.
+Na espécie, o réu foi acusado de haver subtraído da vítima pacotes de café, um vidro de doce de leite e um aparelho de som HK Original, avaliadas no total de R$ 134,00 (fl. 243), superior a 10% do salário-mínimo vigente na época dos fatos (R$ 1.320,00 - ano de 2023).
+Ademais, as instâncias ordinárias apontaram a contumácia delitiva do agente, evidenciada no fato de que "o apelante registra vários envolvimentos criminais outros pelo mesmo crime, a evidenciar maior potencialidade lesiva da infração, personalidade desvirtuada e acentuada culpabilidade." (fl. 143).
+As referidas circunstâncias, indicativas de habitualidade na prática criminosa, justificam o prosseguimento da atividade punitiva estatal. A propósito: AgRg no HC n. 795.781/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.
+II. Crime impossível
+No que tange ao alegado crime impossível, o monitoramento do iter criminis (caminho do crime) por funcionário do estabelecimento não conduz à impossibilidade de consumação do delito pela absoluta inidoneidade dos meios ou do objeto.
+Sobre o tema, foi editada a Súmula n. 567 do STJ: "Sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior do estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto".
+O Tribunal de origem concluiu que "não se pode dizer que a percepção de conduta aparentemente delituosa por funcionário de estabelecimento comercial descaracteriza o crime. O que se tem, na espécie, é a inidoneidade relativa do meio. Em outras palavras, o meio escolhido pelo agente é relativamente ineficaz, visto que existe sim uma possibilidade (ainda que pequena) de o delito se consumar, tanto que, no caso concreto, houve a consumação" (fl. 143).
+Verifico que a conclusão do acórdão recorrido está em consonância com o entendimento consolidado deste Tribunal Superior, de que a simples existência de vigilância no estabelecimento comercial não caracteriza crime impossível.
+III. Reconhecimento da tentativa
+A Corte estadual manteve a condenação pela forma consumada no delito reconhecida na sentença, pelos seguintes fundamentos (fl. 144, grifei):
+O crime em apreço resta consumado com a simples posse, ainda que breve, da coisa alheia móvel subtraída, sendo desnecessário que o bem saia da esfera de vigilância da vítima ou de terceiros.
+A inversão da posse da res restou devidamente comprovada pela prova oral amealhada aos autos, assinalada a detenção do apelante já distante do sítio da subtração, na posse dos produtos subtraídos.
+Nos termos da Teoria da Amotio, a posse da res foi, indubitável e ainda que brevemente, invertida em favor do furtador, circunstância caracterizadora da consumação do furto.
+A Terceira Seção deste Superior Tribunal, por ocasião do julgamento do REsp n. 1.524.450/RJ, de relatoria do Ministro Nefi Cordeiro, DJe 29/10/2015, firmou o entendimento de que a consumação do crime de furto ocorre com a inversão da posse do bem, ainda que por breve tempo e em seguida à perseguição imediata ao agente e à recuperação da coisa furtada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+Vale dizer, mesmo nas hipóteses em que houver a imediata perseguição do agente e ainda que a res furtiva seja recuperada, estará consumado o delito tipificado no art. 155 do Código Penal quando existirem nos autos elementos de prova que denotem a inversão da posse do bem, mesmo que não seja de forma mansa e pacífica ou desvigiada.
+Na hipótese dos autos, a moldura fática foi delineada de maneira incontroversa pelas instâncias antecedentes, que concluíram pela inversão da posse dos bens subtraídos, o que não pode ser alterado sem dilação probatória, providência inviável em habeas corpus.
+Nesse contexto, a conclusão do acórdão está em consonância com a jurisprudência desta Corte Superior de que com a inversão da posse, ainda que breve, o delito ocorreu em sua forma consumada.
+IV. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
