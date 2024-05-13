@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE ANÁLISE MERITÓRIA. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. INDIVIDUALIZAÇÃO DA PENA. INCOMPETÊNCIA DESTE STJ. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I. Embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL, em face decisão em agravo regimental desprovido para manter decisão que deu provimento ao recurso especial do executado, deferindo, assim, o pedido de remição da pena pelos estudos, em razão de aprovação no Exame Nacional do Ensino Médio, embora o agravante já tivesse concluído o ensino médio.
+II. Este Superior Tribunal de Justiça não é competente para a análise de violação a dispositivo constitucional, devendo o recorrente dirigir seu inconformismo para o Tribunal correto por meio da via própria, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal prevista no art. 102, III, da Constituição da República.
+Embargos não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL (fls. 244/250), em face decisão em agravo regimental (fls. 233/240) desprovido para manter decisão que deu provimento ao recurso especial do executado, deferindo, assim, o pedido de remição da pena pelos estudos, em razão de aprovação no Exame Nacional do Ensino Médio, embora o agravante já tivesse concluído o ensino médio.
+Alega o embargante, omissão quanto à questão constitucional, mais especificamente, ao princípio da individualização da pena, "pois, ao mesmo tempo que deixou de observar a necessidade de fundamentar as decisões judiciais (artigo 489, § 1º, inciso IV, do novo CPC), a incorrer em negativa de prestação jurisdicional (artigo 5º, XXXV, da CF), descumpriu o disposto no artigo 93, IX, da Constituição Federal".
+Reitera os termos do recurso pretérito.
+Pugna pelo acolhimento dos presentes embargos de declaração e apreciação dos dispositivos constitucionais trazidos no recurso para fins de prequestionamento.
+É o Relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE ANÁLISE MERITÓRIA. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. INDIVIDUALIZAÇÃO DA PENA. INCOMPETÊNCIA DESTE STJ. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I. Embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL, em face decisão em agravo regimental desprovido para manter decisão que deu provimento ao recurso especial do executado, deferindo, assim, o pedido de remição da pena pelos estudos, em razão de aprovação no Exame Nacional do Ensino Médio, embora o agravante já tivesse concluído o ensino médio.
+II. Este Superior Tribunal de Justiça não é competente para a análise de violação a dispositivo constitucional, devendo o recorrente dirigir seu inconformismo para o Tribunal correto por meio da via própria, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal prevista no art. 102, III, da Constituição da República.
+Embargos não conhecidos.
+VOTO
+O recurso não reúne condições para o seu conhecimento.
+Isso porque, a omissão apontada nos presentes embargos se refere à dispositivo constitucional relativo à individualização da pena, com vistas a prequestionar a matéria.
+Contudo, como se sabe, este Superior Tribunal de Justiça não é competente para a análise de violação a dispositivo constitucional, devendo o recorrente dirigir seu inconformismo para o Tribunal correto por meio da via própria, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal prevista no art. 102, III, da Constituição da República.
+Nesse sentido:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INOCORRÊNCIA. PREQUESTIONAMENTO DOS DISPOSITIVOS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. RECURSO QUE NÃO ULTRAPASSOU A ADMISSIBILIDADE. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - STF. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado. Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios.
+2. Não é possível o prequestionamento dos dispositivos de Lei Federal invocados por feridos, pois não se adentrou ao mérito do recurso com a aplicação do óbice da Súmula n. 182 do Superior Tribunal de Justiça - STJ. Trata-se de decisão deveras fundamentada, especificando, explicitamente, por quais motivos chegou-se a invocação do referido óbice processual.
+3. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal - STF, ex vi art. 102, III, da Constituição da República.
+4. Embargos de declaração rejeitados" (STJ, EDcl no AgRg no AREsp n. 2.359.459, Quinta Turma, Rel Min. Joel Ilan Paciornik, DJe de 18/03/2024).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SEQUESTRO DE VALORES EM CONTAS BANCÁRIAS E APLICAÇÕES FINANCEIRAS. REPARAÇÃO DE PREJUÍZO À FAZENDA PÚBLICA. DECRETO-LEI N. 3.240/1941. VALIDADE. SÚMULA N. 83 DO STJ. OMISSÃO NO ACÓRDÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O sequestro de bens, baseado no Decreto-Lei n. 3.240/1941, é plenamente válido para fins de ressarcimento de prejuízos causados à Fazenda Pública decorrentes de sonegação fiscal. A instância antecedente explicitou de forma suficiente os requisitos necessários para a manutenção da constrição. Incidência do disposto na Súmula n. 83 do STJ.
+2. Não se pode confundir indícios veementes de responsabilidade com cognição exaustiva sobre a autoria delitiva reservada para o final da instrução criminal. O acórdão bem descreve que os créditos fiscais foram constituídos definitivamente na seara administrativa, bem como apontou o exercício dos poderes gerenciais na sociedade empresária no período investigado.
+3. A pretensão de rejulgamento da causa não dá ensejo à oposição de embargos de declaração. No caso, não foi demonstrada nenhuma omissão no acórdão recorrido, cuja finalidade era meramente formalidade para obtenção de prequestionamento. Nesses casos, reconhece-se a deficiência recursal a ensejar a aplicação do disposto na Súmula n. 284 do STF.
+4. Agravo regimental não provido" (AgRg no AREsp n. 2.507.910, Sexta Turma, Rel Min. Rogerio Schietti Cruz, DJe de 02/04/2024).
+No mais, preconiza o artigo 620 do Código de Processo Penal, somente são cabíveis embargos de declaração quando existente ambiguidade, obscuridade, contradição ou omissão, o que inexiste na hipótese.
+A contradição deve ser entendida como o desacordo entre as premissas lógicas internas da decisão embargada e não entre a decisão e a prova dos autos, ou entre a decisão e a lei ou, ainda, entre a decisão e a jurisprudência, casos em que se estará diante de suposto error in judicando, para cuja reforma deve se interpor o recurso cabível e não os embargos de declaração.
+O mesmo se diga quanto às omissões e obscuridades. Estas se verificam quando decorrem da negativa de prestação da jurisdição por parte do magistrado, e não com a inobservância de prova, norma ou jurisprudência.
+Não é este o caso dos autos, vez que este Tribunal se pronunciou com argumentos pertinentes ao caso sobre os pontos necessários e específicos à prolação da decisão, não restando nenhum ponto omisso ou contraditório.
+Ante o exposto, não conheço os embargos de declaração.
+É o voto.
