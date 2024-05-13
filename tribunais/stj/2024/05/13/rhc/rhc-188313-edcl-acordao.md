@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO NA FORMA CONTINUADA. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO. EFEITOS INFRINGENTES. MERA IRRESIGNAÇÃO DO EMBARGANTE. EMBARGOS NÃO CONHECIDOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Conforme mencionado no próprio acórdão que não conheceu do agravo regimental, a decisão monocrática que negou provimento ao recurso ordinário analisou de forma devidamente fundamentada os pontos apresentados e tanto o agravo regimental quanto os presentes embargos buscam somente o reexame das matérias anteriormente julgadas.
+III - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento anterior, pois, na espécie, à conta de omissão no acórdão, pretende o embargante a rediscussão de matéria já apreciada pelo órgão colegiado. Precedentes.
+Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ATILIO BUFALO JUNIOR, em face do acórdão proferido por esta Quinta Turma, que, à unanimidade, não conheceu do agravo regimental para manter a decisão que negou provimento ao recurso ordinário interposto.
+Nos presentes aclaratórios, o embargante alega que houve omissão no acórdão embargado, sob a premissa de que a Súmula n. 182/STJ não se aplica ao caso concreto, por não incidir o referido enunciado em agravo regimental.
+Requer, ao final, o acolhimento do incidente, a fim de que seja sanado o suposto vício apontado, com efeitos infringentes, para que seja provido o recurso ordinário.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO NA FORMA CONTINUADA. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO. EFEITOS INFRINGENTES. MERA IRRESIGNAÇÃO DO EMBARGANTE. EMBARGOS NÃO CONHECIDOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Conforme mencionado no próprio acórdão que não conheceu do agravo regimental, a decisão monocrática que negou provimento ao recurso ordinário analisou de forma devidamente fundamentada os pontos apresentados e tanto o agravo regimental quanto os presentes embargos buscam somente o reexame das matérias anteriormente julgadas.
+III - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento anterior, pois, na espécie, à conta de omissão no acórdão, pretende o embargante a rediscussão de matéria já apreciada pelo órgão colegiado. Precedentes.
+Embargos de declaração não conhecidos.
+VOTO
+Deixo de acolher os presentes embargos.
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, o embargante alega que houve omissão na decisão impugnada, sob a premissa de que a Súmula n. 182/STJ não se aplica ao caso concreto, por não incidir o referido enunciado em agravo regimental.
+Contudo conforme mencionado no próprio acórdão que não conheceu do agravo regimental, a decisão monocrática que negou provimento ao recurso ordinário analisou de forma devidamente fundamentada os pontos apresentados e tanto o agravo regimental quanto os presentes embargos buscam somente o reexame das matérias anteriormente julgadas.
+No acordão ora embargado foi ressaltado que o acordo de não persecução penal deixou de ser proposto pelo MPF e por sua 2ª Câmara de Coordenação e Revisão porque o embargante não fazia jus ao benefício do art. 28-A do Código de Processo Penal não apenas porque a denúncia tinha sido recebida, mas porque não cumpria os requisitos legais, em especial, porque o MPF e sua 2ª Câmara de Coordenação e Revisão entenderam pela insuficiência da benesse para a reprovação e prevenção do crime.
+Também foi destacado que, no caso concreto, não obstante justificada a impossibilidade de oferecimento do benefício pelo MPF - matéria até mesmo já remetida, analisada e também negada pelo respectivo órgão superior -, a propositura do acordo tampouco constituiria um direito subjetivo do acusado a ser revisado no mérito pelo Poder Judiciário.
+Ressaltou, em conclusão, que cumpre ao Ministério Público, titular da ação penal pública, decidir sobre a possibilidade, ou não, do acordo de não persecução penal, desde que de forma fundamentada, não cabendo ao Poder Judiciário revisar o mérito legalmente embasado exarado pelo Ministério Público, nem mesmo forçá-lo a uma eventual oferta, pois, quando muito, poderia determinar apenas o encaminhamento à revisão do órgão superior - o que até já ocorreu na espécie.
+O que pretende o embargante, na verdade, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos embargos de declaração.
+Assim, verifica- se que o julgado recorrido não padece de qualquer omissão ou contradição, porquanto analisou fundamentadamente as alegações trazidas à sua análise.
+Nesse sentido: EDcl no AgRg no REsp n. 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira, Des. Convocado do TRF1, DJe de 27/6/2023; EDcl no AgRg no AREsp n. 1.681.479/RN, Quinta Turma, de minha relatoria, DJe de 23/3/2023; e AgRg no REsp n. 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023.
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
