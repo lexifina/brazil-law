@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. ART. 1022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. O Voto condutor do acórdão embargado julgou que: a) analisando minuciosamente o caso dos autos, o Tribunal de origem afastou, com base na Súmula 106 do STJ, a prescrição da pretensão executória, considerando que a demora na citação da parte executada é atribuída aos mecanismos do próprio Judiciário, além disso expressamente julgou que a questão da prescrição intercorrente configura inovação recursal; b) não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Colegiado a quo julgou integralmente a lide e solucionou a controvérsia; e c) a pretensão da parte não envolve a aplicação do direito ao caso. O que se pretende é modificar as premissas fáticas estabelecidas no acórdão hostilizado, em sentido oposto ao lá estabelecido, desiderato inconfundível com revalorar as conclusões a partir delas extraídas e obstado pela Súmula 7/STJ.
+2. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Eles constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+3. Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissões no decisum embargado.
+4. É patente que os argumentos trazidos pela parte embargante não dizem respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa e denotam o intuito de rediscutir o mérito do julgado.
+5. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+6. O vício da contradição é interno do julgado e pressupõe a relação de incompatibilidade lógica entre os fundamentos e o dispositivo do julgado, o que não ocorreu no caso dos autos.
+7. Como já decidido pela Primeira Seção, "o fato de o decisum concluir em sentido diverso do defendido pelo ora embargante não enseja o aviamento de embargos declaratórios para promover mero rejulgamento." (EDcl no MS 17.906/DF, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/ acórdão Min. Og Fernandes, DJe 19.12.2016)
+8. Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais.
+9. Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+10. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos ao acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA NÃO CONFIGURADA. DEMORA IMPUTADA AO JUDICIÁRIO. PRESCRIÇÃO INTERCORRENTE. INOVAÇÃO RECURSAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Analisando o minuciosamente o caso dos autos, o acórdão recorrido afastou, com base na Súmula 106 do STJ, a prescrição da pretensão executória, considerando que a demora na citação da parte executada é atribuída aos mecanismos do próprio Judiciário, além disso expressamente julgou que a questão da prescrição intercorrente configura inovação recursal.
+2. Conforme constou no decisum agravado, não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Colegiadoa quo julgou integralmente a lide e solucionou a controvérsia.
+3. Não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, as questões postas ao seu crivo, descabendo falar em negativa de prestação jurisdicional.
+4. É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Agravo Interno não provido.
+A embargante alega que o acórdão incorreu em omissões, in verbis:
+Todavia, o Embargante apresentou no agravo interno as razões pelas quais o acórdão proferido pelo TRF5 havia incorrido em erro material ao entender que a prescrição intercorrente seria inovação recursal.
+Como restou demonstrado no agravo interno, atese da prescrição intercorrente fixada pelo repetitivo do STJ foi trazida pelo Embargante nas contrarrazões à apelação da União. A petição foi apresentada em 30/6/2019 e foi a primeira oportunidade que o Embargante poderia ter suscitado o tema da prescrição intercorrente, conforme trecho abaixo:
+(..)
+O tema da prescrição intercorrente foi trazido ainda em sede de contrarrazões a apelação, razão pela qual não se pode falar em inovação recursal.
+Alerta-se que era impossível o Embargante ter apresentado este tema em momento anterior ao das contrarrazões ao recurso de apelação. Explica-se.
+A exceção de pré-executividade do Embargante foi apresentada em 22/11/20172. Naquela oportunidade, o STJ ainda não havia fixado os marcos temporais da prescrição intercorrente em matéria tributária no julgamento repetitivo do REsp nº 1.340.553/RS. Por sua vez, a sentença deste caso foi proferida em 16/8/2018.
+O acórdão do repetitivo do STJ só foi publicado em 13/9/2019. O trânsito em julgado do acórdão ocorreu em 15/5/2019, momento em que o precedente se tornou obrigatório ao Poder Judiciário, nos termos do art. 927, inciso III, do CPC.
+Como se percebe, o precedente obrigatório da prescrição intercorrente não poderia ter sido trazido de forma concreta na exceção de pré-executividade, pois a defesa foi anterior à publicação e ao trânsito em julgado do repetitivo nº 1.340.553/RS. (fl. 617, e-STJ)
+Sem impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. ART. 1022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. O Voto condutor do acórdão embargado julgou que: a) analisando minuciosamente o caso dos autos, o Tribunal de origem afastou, com base na Súmula 106 do STJ, a prescrição da pretensão executória, considerando que a demora na citação da parte executada é atribuída aos mecanismos do próprio Judiciário, além disso expressamente julgou que a questão da prescrição intercorrente configura inovação recursal; b) não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Colegiado a quo julgou integralmente a lide e solucionou a controvérsia; e c) a pretensão da parte não envolve a aplicação do direito ao caso. O que se pretende é modificar as premissas fáticas estabelecidas no acórdão hostilizado, em sentido oposto ao lá estabelecido, desiderato inconfundível com revalorar as conclusões a partir delas extraídas e obstado pela Súmula 7/STJ.
+2. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Eles constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+3. Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissões no decisum embargado.
+4. É patente que os argumentos trazidos pela parte embargante não dizem respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa e denotam o intuito de rediscutir o mérito do julgado.
+5. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+6. O vício da contradição é interno do julgado e pressupõe a relação de incompatibilidade lógica entre os fundamentos e o dispositivo do julgado, o que não ocorreu no caso dos autos.
+7. Como já decidido pela Primeira Seção, "o fato de o decisum concluir em sentido diverso do defendido pelo ora embargante não enseja o aviamento de embargos declaratórios para promover mero rejulgamento." (EDcl no MS 17.906/DF, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/ acórdão Min. Og Fernandes, DJe 19.12.2016)
+8. Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais.
+9. Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+10. Embargos de Declaração rejeitados.
+VOTO
+Os autos foram recebidos neste Gabinete em 6.3.2024.
+O acórdão embargado consignou: a) analisando minuciosamente o caso dos autos, o Tribunal de origem afastou, com base na Súmula 106 do STJ, a prescrição da pretensão executória, considerando que a demora na citação da parte executada é atribuída aos mecanismos do próprio Judiciário, além disso expressamente julgou que a questão da prescrição intercorrente configura inovação recursal; b) não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Colegiado a quo julgou integralmente a lide e solucionou a controvérsia; e c) a pretensão da parte não envolve a aplicação do direito ao caso. O que se pretende é modificar as premissas fáticas estabelecidas no acórdão hostilizado, em sentido oposto ao lá estabelecido, desiderato inconfundível com revalorar as conclusões a partir delas extraídas e obstado pela Súmula 7/STJ.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Eles constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissões no decisum embargado.
+É patente que os argumentos trazidos pela parte embargante não dizem respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa e denotam o intuito de rediscutir o mérito do julgado.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+O vício da contradição é interno do julgado e pressupõe a relação de incompatibilidade lógica entre os fundamentos e o dispositivo do julgado, o que não ocorreu no caso dos autos.
+Como já decidido pela Primeira Seção, "o fato de o decisum concluir em sentido diverso do defendido pelo ora embargante não enseja o aviamento de embargos declaratórios para promover mero rejulgamento." (EDcl no MS 17.906/DF, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/ acórdão Min. Og Fernandes, DJe 19.12.2016)
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais.
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de d ispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
