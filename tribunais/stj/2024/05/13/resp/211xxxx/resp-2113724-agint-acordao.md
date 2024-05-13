@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Embargos à execução.
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por COOPERATIVA DE CREDITO COPERSUL LTDA - SICOOB COPERSUL contra decisão que não conheceu do recurso especial que interpusera.
+Ação: de embargos à execução, opostos por HUMBERTO DE MENDONCA GURGEL e SIRLENE RODRIGUES MESQUITA GURGEL, em desfavor da agravante, em virtude de anterior ação de execução de título executivo extrajudicial - cédula de crédito bancário -, ajuizada por esta em desfavor daqueles.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pelos agravados, a fim de julgar parcialmente procedentes os pedidos formulados nos embargos à execução e limitar os juros remuneratórios ao percentual de 12% (doze por cento) ao ano, bem como para fixar que, no período de inadimplência, os juros moratórios sejam limitados a 1% (um por cento) ao ano, devendo a agravante proceder ao recálculo da dívida executada. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL - PRELIMINAR - DESERÇÃO - EMBARGOS À EXECUÇÃO - CERCEAMENTO DE DEFESA - PRECLUSÃO - RENEGOCIAÇÃO/CONFISSÃO DE DÍVIDA - DECORRENTE DE CRÉDITO RURAL - LEGISLAÇÃO APLICÁVEL - JUROS REMUNERATÓRIOS - JUROS MORATÓRIOS - SEGURO PRESTAMISTA. Não comprovado no ato de interposição do recurso o pagamento do preparo, deve ser oportunizado ao recorrente o recolhimento em dobro, para fins de afastar-se a deserção, nos termos do art. 1.007, §4º do CPC. Se a questão relativa à exibição de documentos específicos, já foi objeto de afastamento em sede de julgamento de recurso de agravo de instrumento, interposto anteriormente, evidente a existência de preclusão no caso, consoante preconiza o § 1º do art.1.009 do CPC. Em se tratando de operação de crédito de renegociação de dívida originária de cédula rural pignoratícia, deve ser aplicável o regramento próprio e diferenciado contido na Lei n. 6.840/80 e nos Decretos-Lei n. 413/69 e n. 167/67. É pacífico o entendimento do Superior Tribunal de Justiça no sentido de que "as notas de crédito rural, comercial e industrial acham- se submetidas a regramento próprio (Lei nº 6.840/80 e Decreto- Lei 413/69) que conferem ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados. Diante da omissão desse órgão governamental, incide a limitação de 12% ao ano, prevista no Decreto n.º 22.626/33 (Lei da Usura)". Da mesma forma, conforme contido na Lei nº 6.840/80 e nos Decretos-Lei nº 413/69 e nº 167/67, os quais preveem para o período de inadimplência a cobrança dos juros remuneratórios previstos contratualmente elevável do percentual de 1% ao ano. A cobrança de seguro, quando oportunizada a liberdade da sua contratação, não é abusiva (e-STJ fl. 532).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 360, I, do CC; 28 da Lei 10.931/04; do Manual do Crédito Rural, cap. 2, seção 6, item 7, "a"; 85, § 2º, e 86, parágrafo único, do CPC, bem como dissídio jurisprudencial. Sustenta que:
+i) a celebração do contrato de renegociação de saldo devedor de cédula de crédito rural, por meio da emissão de cédula de crédito bancário, com encargos, prazos de pagamento e garantias diferentes, configura hipótese de novação, pois culminou na substituição dos contratos originários;
+ii) afigura-se incabível a aplicação de normas e encargos contratuais inerentes à cédula de crédito rural, porquanto a dívida contraída foi extinta, em razão da novação, decorrente da celebração da cédula de crédito bancário, com o escopo de promover o refinanciamento do saldo devedor;
+iii) não houve sucumbência recíproca, mas sim mínima da agravante; e
+iv) em se tratando de embargos à execução, os honorários advocatícios devem ser arbitrados com base no proveito econômico obtido pelo embargante, qual seja, o valor a ser decotado da execução.
+Decisão unipessoal: não conheceu do recurso especial interposto pela agravante ante: i) a impossibilidade de interposição de recurso especial com base em violação de ato normativo que não se enquadre no conceito de lei federal; ii) a ausência de prequestionamento dos arts. 360, I, do CC; 85, § 2º, e 86, parágrafo único, do CPC (Súm. 211/STJ); iii) a incidência da Súmula 283/STF; e iv) a incidência das Súmulas 5 e7/STJ.
+Agravo interno: aponta a ocorrência de prequestionamento ficto dos dispositivos legais indicados, pois houve a oposição de embargos de declaração para tratar das matérias relativas à redistribuição da sucumbência e da alegada novação. Aduz que as Súmulas 5 e 7/STJ não são aplicáveis, pois a análise da violação apontada - que diz respeito à natureza da avença celebrada entre as partes - não demanda a interpretação de cláusulas contratuais, tampouco o reexame fático-probatório dos autos. Sustenta, ademais, que todos os fundamentos do acórdão originário foram devidamente impugnados, inclusive no que atine à substituição do contrato originário (crédito rural) pelo novo regramento do título objeto de novação (cédula de crédito bancário), razão pela qual também seria inaplicável a Súmula 283/STF no caso concreto.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Embargos à execução.
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada, na parte em que impugnada pela agravante, não conheceu do recurso especial interposto ante: i) a ausência de prequestionamento dos arts. 360, I, do CC; 85, § 2º, e 86, parágrafo único, do CPC (Súm. 211/STJ); ii) a incidência da Súmula 283/STF; e iii) a incidência das Súmulas 5 e7/STJ.
+1. Da ausência de prequestionamento
+Com efeito, tem-se que o Tribunal de origem, a despeito da oposição de embargos de declaração, não decidiu acerca dos arts. 360, I, do CC; 85, § 2º, e 86, parágrafo único, do CPC, tidos por violados pela agravante.
+Ressalte-se que, nas razões de seu recurso especial, a agravante sequer apontou a negativa de prestação jurisdicional em que eventualmente teria incorrido o acórdão recorrido.
+E , acerca do prequestionamento ficto previsto no art. 1.025 do CPC, que este só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente venha a suscitar devidamente a violação do art. 1.022 do CPC, porquanto, somente desta forma, poderá o órgão julgador verificar a existência do vício e proceder à supressão de grau, o que não ocorreu na hipótese dos autos.
+Inviável mostra-se, portanto, afastar a aplicabilidade da Súmula 211/STJ na espécie.
+2. Da existência de fundamento não impugnado
+Ademais, tem-se que, de fato, a agravante, nas razões de seu recurso especial, não impugnou o fundamento de que as partes expressamente registraram no instrumento de confissão e renegociação de dívida, em sua Cláusula Segunda, a inexistência de intenção de novar, o que corrobora com manutenção da aplicação da legislação própria que rege o contrato originário, mostrando-se inafastável a aplicabilidade da Súmula 283/STF.
+3. Do reexame de fatos e da interpretação de cláusulas contratuais
+De qualquer forma, ainda que ultrapassado o supracitado óbice sumular, outro seria imposto.
+É que, de fato, alterar o decidido no acórdão proferido pelo TJ/MG no que se refere à efetiva ocorrência de novação na espécie exigiria o reexame do conjunto fático-probatório dos autos, inviável a esta Corte Superior.
+A propósito, a Corte local deixou expressamente consignado que:
+Ultrapassado este ponto, verifica-se também que a mencionada Cédula de Crédito Bancário foi emitida com a exclusiva finalidade de "confissão e renegociação de dívida" anteriores pactuadas entre as partes, sendo aquela, no valor original de R$350.000,00 (trezentos e cinquenta mil reais) oriunda de uma Cédula Rural Pignoratícia - Crédito Rural, n. 259678 (doc. 05), emitida com o objetivo de financiamento rural e agroindustrial - custeio agrícola.
+Neste contexto, tratando-se de operação de crédito de confissão e renegociação de dívida originária de cédula rural pignoratícia, cujo crédito, dado as suas peculiaridades e função social, possui tratamento diferenciado e regramento próprio contido na Lei n. 6.840/80 e nos Decretos-Lei n. 413/69 e n. 167/67, ainda que o objeto da respectiva renegociação tenha originado a presente Cédula de Crédito Bancário, tenho que suas cláusulas não podem se desvirtuar da disciplina especial do crédito de natureza rural.
+Isso porque os contratos firmados para concessão de créditos rurais são revestidos de função social, cujos recursos utilizados na concessão de empréstimos ao produtor rural procedem em parte de recursos subsidiados pelo próprio Poder Público.
+Não bastasse isso, não é forçoso salientar que as partes expressamente registraram no presente instrumento de confissão e renegociação de dívida, em sua Cláusula Segunda, a inexistência de intenção de novar, o que corrobora com manutenção da aplicação da legislação própria que rege o contrato originário.
+Assim, neste ponto, tenho que assiste razão aos apelantes, devendo as cláusulas que compõem o título que fundamenta a presente ação executiva, qual seja a Cédula de Crédito Bancário n. 274691, serem analisadas sob a ótica da legislação específica que disciplina o crédito rural (e-STJ fls. 540-541).
+Destarte, as Súmulas 5 e 7/STJ devem ser mantidas.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
