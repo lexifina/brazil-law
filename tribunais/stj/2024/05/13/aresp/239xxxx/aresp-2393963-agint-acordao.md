@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. SEGURO DE VIDA. NEGATIVA DE COBERTURA. FALTA DE HABILITAÇÃO. MERA INFRAÇÃO. AGRAVAMENTO DE RISCO NÃO DEMONSTRADO. COBERTURA SECURITÁRIA. OBRIGATORIEDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a falta de habilitação para dirigir veículos caracteriza-se como mera infração administrativa, não configurando, por si só, o agravamento intencional do risco por parte do segurado apto a afastar a obrigação de indenizar da seguradora. Precedentes,
+2. No caso dos autos, a Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o segurado não contribuiu de forma concreta para colocar sua vida em risco. Também não foi reconhecida a existência de cláusula contratual expressa excluindo a cobertura em caso de ausência de CNH do segurado, razão pela qual é devido o pagamento da indenização pleiteada.
+3. A modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático- probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S/A contra decisão monocrática desta Relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, a agravante alega, de início, que, para se verificar as matérias arguidas, bastava uma simples leitura da decisão recorrida e do recurso especial interposto pela seguradora, não ensejando revisitação dos autos, apenas das peças processuais.
+Afirma que a revaloração jurídica dos fatos postos nas instâncias inferiores não se confunde com o revolvimento do conjunto fático-probatório e que a seguradora agravante rebateu todos os pontos que foram alvos da decisão recorrida, bem como trouxe argumentos sólidos e com entendimentos pacificados, pelo que o não conhecimento do agravo revela-se ilegal e arbitrário, devendo, portanto, ser reformado.
+Defende que deve ser julgado totalmente improcedente o pleito autoral, já que o segurado não possuía carteira de habilitação para condução de veículo no momento do acidente, tratando-se de risco excluído do contrato livremente pactuado pelas partes, segundo extenso comboio probatório adunado aos autos.
+Alega que, diante da existência do nexo de causalidade entre falta de habilitação legal com o sinistro, conclui-se que houve o agravamento intencional do risco pelo agravado, razão pela qual não há que se falar em índole abusiva da cláusula restritiva e da negativa administrativa da seguradora.
+Ao final, requer a reconsideração da decisão agravada, ou sua reforma pela Turma Julgadora.
+Intimada, a parte agravada não apresentou manifestação (e-STJ, fl. 534).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. SEGURO DE VIDA. NEGATIVA DE COBERTURA. FALTA DE HABILITAÇÃO. MERA INFRAÇÃO. AGRAVAMENTO DE RISCO NÃO DEMONSTRADO. COBERTURA SECURITÁRIA. OBRIGATORIEDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a falta de habilitação para dirigir veículos caracteriza-se como mera infração administrativa, não configurando, por si só, o agravamento intencional do risco por parte do segurado apto a afastar a obrigação de indenizar da seguradora. Precedentes,
+2. No caso dos autos, a Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o segurado não contribuiu de forma concreta para colocar sua vida em risco. Também não foi reconhecida a existência de cláusula contratual expressa excluindo a cobertura em caso de ausência de CNH do segurado, razão pela qual é devido o pagamento da indenização pleiteada.
+3. A modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático- probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Conforme constou na decisão agravada, no que se refere à tese de que houve perda do direito à indenização, pois o segurado não era habilitado para conduzir veículo, a Corte de origem assim decidiu:
+"Neste ponto, sobreleva anotar que o fato de o segurado conduzir o veículo sem a devida habilitação, por si só, é mera infração administrativa e não tem o condão de afastar o pagamento da indenização securitária, não podendo servir como óbice ao pagamento da indenização, uma vez que não está comprovado nos autos a má-fé do segurado na contratação do seguro.
+Imperioso destacar que este Tribunal de Justiça possui entendimento pacificado no sentido de que a condução de veículo automotor sem habilitação não caracteriza agravamento de risco, confira-se:
+(..)
+Por fim, o mero fato de o segurado não ter habilitação para dirigir motocicleta não é causa de agravamento do risco, já que para tanto tal infração administrativa deveria estar associado a um ato concreto do apelado que o pusesse em risco indevido." (e-STJ, fls. 448/449)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE HABILITAÇÃO. MERA INFRAÇÃO. COBERTURA SECURITÁRIA. OBRIGATORIEDADE. TRANSFERÊNCIA DOS SALVADOS.
+CONSEQUÊNCIA LÓGICA. PARCIAL PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, a falta de habilitação para dirigir veículos caracteriza-se como mera infração administrativa não configurando, por si só, o agravamento intencional do risco por parte do segurado apto a afastar a obrigação de indenizar da seguradora.
+Precedentes.
+2. Na execução deverá ser obedecido o estabelecido na apólice em relação ao procedimento de transferência ou dedução do valor dos salvados.
+3. Agravo regimental parcialmente provido.
+(AgRg no REsp n. 1.193.207/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/9/2015, DJe de 9/9/2015.)
+Quanto à existência de circunstâncias outras, que apontem que o segurado agravou o risco ou foi o causador do acidente que ensejou o óbito, o que afastaria o dever de indenizar, a Corte de origem consignou:
+"Dessa forma, não pode a seguradora se escusar do pagamento da indenização, ao argumento de que houve agravamento de risco, vez que como visto acima, o segurado não contribuiu de forma concreta para colocar sua vida em risco.
+Desta feita, bem reconheceu a sentença ao verificar que a seguradora não comprovou nada neste sentido, sendo que dos documentos por ela apresentados, pode se verificar que o segurado não estava sob a influência de substâncias entorpecentes. Vejamos trecho da decisão apelada.
+Aponte-se ainda que na contestação a parte ré sustentou não ter sido apresentado exame toxicológico para cocaína e crack, havendo necessidade de se aferir se no momento do acidente o falecido estava sob efeito de substância psicoativa. Ora, os próprios documentos apresentados pela parte ré ao movimento 14.12 comprovam que Marcelo de Bonfimm não estava sob efeito de psicoativos, basta analisar o laudo toxicológico trazido às fls. 25/26, tendo constado como não detectado no sangue do de cujus cocaína ou outra substância psicoativa.
+Quer se dizer, então, que a negativa prestada pela parte ré se deu de maneira indevida uma vez que não há justa causa para a recusa, tratando-se de limitação contratual e negativa abusiva, merecendo acolhimento o pedido inicial para o fim de condenar a parte ré ao pagamento do seguro relativo ao certificado n. 32863110001277, devendo ser corrigido monetariamente desde a data do sinistro (conforme requerido pela parte autora) pelo IPCA e acrescido de juros de mora desde a data da recusa do pagamento, qual seja, 14/09/2020.
+Por tais razões, não há respaldo legal para a negativa da cobertura, sendo devida a cobertura securitária exatamente como decidido na sentença, a qual deve ser mantida neste ponto, negando-se provimento ao recurso da seguradora." (e-STJ, fl. 450)
+Vale destacar, ainda, que a Corte de origem em momento algum consignou a existência de cláusula contratual expressa excluindo a cobertura em caso de ausência de CNH do segurado, mas somente sob o enfoque do agravamento do risco.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático- probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ. Ness e sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. ACIDENTE. AUSÊNCIA DE HABILITAÇÃO PARA DIRIGIR ADICIONADA A OUTRAS CAUSAS. AGRAVAMENTO DO RISCO RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. EXISTÊNCIA DE CLÁUSULA CONTRATUAL EXCLUINDO A COBERTURA. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. RECURSO ESPECIAL INADMISSÍVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, a decisão agravada, proferida pelo em. Ministro Presidente desta Corte Superior, conheceu do agravo para não conhecer do recurso especial sob o fundamento dos óbices de admissibilidade do recurso especial previstos na Súmula 7/STJ;
+Súmula 284/STF e a não comprovação de dissídio jurisprudencial.
+2. É pacífico no Superior Tribunal de Justiça que a ausência de habilitação para dirigir não configura, por si só, o agravamento intencional do risco por parte do segurado, apto a afastar a obrigação de indenizar da seguradora. 3. In casu, quando adicionada a outros fatores, a falta de habilitação para conduzir motocicleta pode ser utilizada como fundamento para justificar o afastamento de cobertura securitária.
+4. Para afastar a cobertura securitária, a Corte de origem, além do fato do condutor não possuir habilitação para conduzir motocicleta, considerou: i) que o caminhão trafegava corretamente na preferencial; ii) que o condutor perdeu o controle da motocicleta e invadiu a pista contrária, colidindo frontalmente com o caminhão; iii) que o contrato de seguro coletivo afastava o pagamento do benefício no caso de condução de veículo sem a devida habilitação.
+5. Desse modo, observa-se que a revisão dos fundamentos que ensejaram esse entendimento exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+6. Nas razões do presente agravo interno, a agravante novamente deixa de impugnar os fundamentos da decisão contra a qual recorre.
+7. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+8. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.918.874/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
