@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e OTÁVIO DE ALMEIDA TOLEDO (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II c/c o art. 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública diante da quantidade significativa de entorpecentes, bem como das circunstâncias do delito que evidenciam a periculosidade do agente - com apreensão de armamento de alto poder lesivo, de uso restrito, acompanhado de expressiva quantidade de munição.
+3. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar a particular periculosidade do réu.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MATHEUS ALVES PEREIRA interpõe agravo regimental contra a decisão de fls. 107-109, em que indeferi o pedido de reconsideração do decisum denegatório de habeas corpus .
+Em suas razões, o agravante reitera o constrangimento ilegal pela segregação cautelar e sustenta que a concessão da ordem não demanda reexame fático-probatório. Aduz que a "materialidade não pode ser indubitavelmente atribuída ao Agravante, não havia qualquer investigação ao seu desfavor, nem mesmo o depoimento dos policiais lhe atribui essa autoria pelo contatado por eles e sim por esta suposta "confissão" que não se comprova (fl. 118).
+Requer a reconsideração do decisum impugnado e, subsidiariamente, o provimento do agravo regimental, a fim de que seja concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II c/c o art. 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública diante da quantidade significativa de entorpecentes, bem como das circunstâncias do delito que evidenciam a periculosidade do agente - com apreensão de armamento de alto poder lesivo, de uso restrito, acompanhado de expressiva quantidade de munição.
+3. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar a particular periculosidade do réu.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Infere-se dos autos que o insurgente foi preso em flagrante, em 20/5/2023, pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, da Lei n. 11.343/2006.
+Na audiência de custódia, a prisão em flagrante foi convertida em preventiva com base nos seguintes fundamentos (fls. 30-32, grifei):
+Consta dos autos que os custodiados foram capturados em local de tráfico, portando drogas e fuzis, local em que também se encontrava o adolescente HENRIQUE CAETANO BARBOSA, em situação fática que se enquadra à hipótese flagrancial descrita no inciso I do art. 302 do CPP.
+A respeito do cabimento da prisão preventiva, verifica-se que o delito, em tese, praticado pelos custodiados é doloso e possui pena privativa de liberdade máxima superior a quatro anos, de modo que preenche o requisito previsto no inciso Ido art. 313 do CPP.
+O fumos commissi delicti decorre da situação flagrancial, aferido a partir de um juízo de cognição sumária, destacando-se o auto de apreensão, o laudo de exame de entorpecente e as declarações prestadas pelos policiais.
+Nesse compasso, conforme consta dos autos, os policiais militares realizavam operação de combate ao tráfico de drogas, na Comunidade da Jaqueira, quando perceberam que indivíduos fugiram, ao perceberem a chegada da guarnição.
+Após um cerco tático, os policiais lograram alcançar e deter 6 indivíduos, no interior de uma residência, ocasião em que eles deixaram material entorpecente e dois fuzis, calibre 5.56 mm, municiados e com numeração de série suprimida, no interior da casa e se renderam.
+Os argumentos fáticos trazidos pela ilustre defesa, no tocante à dinâmica do delito, não encontram, por ora, apoio em nenhum dos elementos probatórios, até o momento, colhidos, exigindo maior dilação probatória, o que não é possível neste momento, mas apenas no juízo natural, durante a instrução sob o crivo do contraditório.
+No caso em apreço, chama a atenção a do juízo a gravidade em concreto do delito, evidenciada na apreensão, no mesmo contexto fático, de DOIS FUZIS (calibre 5.56mm) MUNICIADOS  armamento de alto poder destrutivo, de uso exclusivo das forças armadas  e expressiva quantidade de drogas, a saber, 152,40g de cocaina e 139,20g de maconha.
+Além do mais, os custodiados estariam praticando o crime na companhia do adolescente HENRIQUE CAETANO BARBOSA, o que eleva sobremaneira a gravidade de suas condutas, por envolver menor de idade em práticas delitivas.
+Nesse cenário, diante da gravidade em concreto do delito, tenho como necessária a prisão preventiva dos custodiados para garantia da ordem pública.
+Ainda, as circunstâncias da prisão em flagrante apontam que os custodiados estão fortemente vinculados à associação criminosa que atua na localidade, de modo que a necessidade de se garantir a ordem pública também é necessária para interromper ou diminuição a atuação dos flagrados na associação.
+Nesse contexto, a necessidade de se resguardar a ordem pública também decorre do concreto risco de reiteração delitiva.
+Portanto, a periculosidade dos custodiados, evidenciada na gravidade em concreto do delito e no risco de reiteração delitiva, demonstra a necessidade de se acautelar o meio social, que não pode ser velado, neste momento, por nenhuma outra medida cautelar constritiva de liberdade, nada impedindo, por motivo óbvio, que o Juízo Natural faça nova análise da questão em destaque.
+O Tribunal a quo, ao julgar o habeas corpus originário, manteve a segregação e acrescentou o seguinte (fls. 26-27, destaquei):
+De acordo com o Ministério Público, policiais militares realizavam patrulhamento ostensivo na Comunidade da Jaqueira, em Campos dos Goytcazes, momento em que o Paciente e corréus fugiram ao notarem a presença da guarnição.
+Imediatamente, os agentes públicos iniciaram as buscas, tendo, então, encontrado o grupo no interior de uma residência e em poder de 02 (dois) fuzis COLT, 02 (dois) carregadores calibre e 15 (quinze) munições, todos compatíveis com o calibre 5.56mm os quais foram apreendidos na oportunidade (indexadores 001, 002 e 009 dos autos originários  auto de prisão em flagrante e auto de apreensão).
+Também arrecadada 152,4g (cento e cinquenta e dois gramas e quatro decigramas) de cocaína acondicionada em 56 (cinquenta e seis) "sacolés", e 139,2g (cento e trinta e nove gramas e dois decigramas) de maconha acondicionada em 83 (oitenta e três) embalagens plásticas.
+A área é dominada por grupo voltado ao tráfico de drogas, de acordo com os relatos dos agentes públicos.
+Também houve participação de adolescente na empreitada criminosa.
+A gravidade em concreto dos delitos restou evidenciada nos depoimentos dos policiais militares e no material arrecadado na oportunidade, indicando, em tese, a profundidade do envolvimento do Paciente na distribuição de drogas naquela comunidade.
+Assim, o édito prisional se ampara nos fatos até o momento apurados, observando que o local e as circunstâncias da prisão, além da apreensão de armamento, carregadores e munição de grosso calibre e das drogas já citadas, foram cruciais para determinar a medida mais gravosa.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Com efeito, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública, em razão da quantidade significativa de entorpecentes (152,4g de cocaína fracionados em 56 porções e 139,2g de maconha fracionados em 83 porções), bem como das circunstâncias do delito que evidenciam a periculosidade do agente - com apreensão de armamento de alto poder lesivo, de uso restrito, acompanhado de expressiva quantidade de munição.
+A esse respeito, é imperioso ressaltar que assim se manifestou esta Sexta Turma Criminal:
+HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E MUNIÇÕES DE USO PERMITIDO E RESTRITO. ASSOCIAÇÃO CRIMINOSA. PREVENTIVA. INDICAÇÃO DE ELEMENTOS CONCRETOS. DINÂMICA DOS ACONTECIMENTOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. INVIABILIADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. Teses que demandam a análise aprofundada das provas coletadas no curso da instrução criminal não podem ser dirimidas na via sumária do habeas corpus, devem ser solucionadas na ação penal.
+2. É válida a decretação da prisão preventiva quando há indícios de circunstâncias reveladoras de uma gravidade acentuada do delito, evidenciada, no caso, pela dinâmica dos acontecimentos que ensejaram na apreensão de entorpecentes (560 g de maconha); de cápsulas deflagradas calibre 9mm; de arma de fogo carregada e com numeração raspada; e de grande quantidade de munições de uso restrito permitido. Há, ainda, narrativa de porte ostensivo de fuzil pelos acusados e disparos de arma de fogo em bairro residencial.
+3. Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas. Precedente.
+4. Ordem denegada.
+(HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/9/2022, grifei)
+Uma vez mais, ressalto que a segregação não significa desrespeito ao princípio constitucional de presunção de inocência, quando presentes seus pressupostos, como ocorre na hipótese em comento.
+Relembro, ainda, que, em relação à ofensa ao princípio da homogeneidade, "não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal" (HC n. 438.765/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 1º/6/2018).
+Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar particular periculosidade do réu .
+Nesse sentido:
+ ..
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+7. Ordem não conhecida.
+(HC n. 424.606/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/2/2018, grifei)
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
