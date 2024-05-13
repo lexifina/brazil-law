@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão que negou admissibilidade a recurso contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 978):
+CIVIL. PROCESSUAL. ADMINISTRATIVO. IMÓVEIS FINANCIADOS COM RECURSOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. COBERTURA SECURITÁRIA. FCVS. RAMO 66. JUSTIÇA FEDERAL. COMPETÊNCIA. TEMA 1.011 DO STF. VÍCIOS DE CONSTRUÇÃO. NECESSIDADE DE PROVA PERICIAL. PRESCRIÇÃO. NULIDADE DA SENTENÇA. TEMA 1.039/STJ. SOBRESTAMENTO.
+1. O STF pacificou a questão da legitimidade da CEF para figurar no polo processual em demandas envolvendo contrato de seguro vinculado à apólice pública, consoante trecho do voto do Relator Ministro Gilmar Mendes nos autos do RE 827996/PR: "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011".
+2. Tendo em vista a decisão da Colenda 2ª Seção do STJ (REsp 1.804.965/SP), deduz-se que a exclusão da responsabilidade da seguradora somente incide no tocante aos riscos que resultem de atos praticados pelo próprio segurado ou decorrentes do uso e desgaste natural do bem. Tal aferição somente pode ser obtida por meio de produção de prova técnica.
+3. Anulada a sentença para que o juízo da instância de origem examine a existência de danos cobertos pela apólice de seguro, mediante a pertinente realização de prova pericial, com necessidade de prévia análise da prescrição, bem como do eventual sobrestamento do feito até futura deliberação sobre o Tema 1039/STJ.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1019/1031).
+Interposto recurso especial, com fundamento no artigo 105, III, "a", da Constituição Federal, alegou a violação ao artigo 206, §1º, II, "b", do CC/2002, nestes termos (e-STJ fl. 1049):
+Em observância ao princípio da actio nata, a prescrição nasce com o direito de ação. O prazo prescricional inicia-se com a ciência do fato gerador da pretensão, no caso, o vício de construção que, supostamente, causaria um evento coberto pela apólice securitária. É fácil concluir, portanto, que tais defeitos surgiram vários anos antes do ajuizamento da ação, que ocorreu em 07 de dezembro de 2007.
+Defendeu a ilegitimidade passiva da seguradora assim como a exclusiva legitimidade da CEF como representante judicial do FCVS, nos termos das Leis 12.409/2011 e 13.000/2014.
+Sustenta que os danos estruturais não se encontram cobertos pela apólice de seguro. Afirma que houve negativa de vigência ao artigo 371 do CPC/2015/2015, pois (e-STJ fl. 1059):
+A parte autora recorre da sentença de extinção com resolução do mérito, asseverando, inicialmente, que a sentença foi proferida sem a realização de prova pericial, argumentando, em seguida, que tal prova é imprescindível ao deslinde da demanda.
+Ocorre que, diversamente do que faz crer a parte RECORRENTE, a realização de prova pericial não se faz necessária. Outrossim, o convencimento do magistrado se forma não unicamente com base no laudo de perícia, mas, sim, em todas as provas carreadas aos autos.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso especial (e-STJ fls. 1104/1111).
+Interposição de agravo (e-STJ fls. 1122/1134).
+Contraminuta (e-STJ fls. 1143/1146).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso especial por verificar que (e-STJ fls. 1104/1111):
+1. Por ter anulado a sentença e determinado o retorno dos autos, não se enquadra no conceito de causa decidida, pois a matéria veiculada no recurso especial não foi discutida pelo colegiado (Súmula 735/STF);
+2. O exame da controvérsia recursal implicaria em reexame fático-probatório, vedado em sede de recurso especial, a teor do entendimento firmado na Súmula 7/STJ; e
+3. A tese defendida revelaria a necessidade da interpretação de cláusulas contratuais, pretensão incabível na seara do recurso especial, conforme a jurisprudência cristalizada na Súmula 5/STJ .
+Nas razões do agravo, o agravante não impugnou o primeiro óbice e, de modo genérico, afirma que não se trata de aplicar as Súmulas 5 e 7/STJ. Percebe-se, ainda, que veicula matéria estranha ao recurso especial, a saber, a legitimidade do cessionário na hipótese de transferência de financiamento (e-STJ fls. 1122/1134).
+A impugnação para afastar a Súmula 7/STJ não deve ser genérica, utilizando expressões de cunho vago, mas sim "indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto" (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 31/5/2021, DJe de 1/7/2021.).
+Dessa forma, não é possível conhecer do presente agravo, pois carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015, segundo o qual não se conhecerá do agravo que não tenha atacado específica e suficientemente todos os fundamentos da decisão agravada.
+A jurisprudência do STJ é assente no sentido de que a impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada, não se admitindo impugnação genérica. In verbis:
+Art. 932. Incumbe ao relator:
+I - dirigir e ordenar o processo no tribunal, inclusive em relação à produção de prova, bem como, quando for o caso, homologar autocomposição das partes;
+II - apreciar o pedido de tutela provisória nos recursos e nos processos de competência originária do tribunal;
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Ressalte-se, por fim, que o caso atrai a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do artigo 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
