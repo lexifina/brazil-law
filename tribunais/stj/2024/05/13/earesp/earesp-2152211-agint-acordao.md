@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO À NORMA JURÍDICA. ART. 966, V, DO CPC/2015. ATIVIDADE ESPECIAL. CONVERSÃO DE TEMPO COMUM EM ESPECIAL. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA APOSENTADORIA. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. PACIFICAÇÃO DA MATÉRIA EM MOMENTO ANTERIOR À DECISÃO RESCINDENDA. INAPLICABILIDADE DA SÚMULA 343/STF. AGRAVO INTERNO IMPROVIDO.
+1.  A Primeira Seção do STJ, ao julgar o Recurso Especial 1.310.034/PR, em 24.10.2012, submetido ao rito dos recursos repetitivos, firmou entendimento segundo o qual se aplica ao direito de conversão entre tempo especial e comum a lei em vigor à época da aposentadoria, independentemente do período no qual as atividades foram exercidas pelo segurado.
+2.  No caso, sendo a decisão rescindenda posterior ao julgamento do Tema 546/STJ, o qual consolidou o entendimento sobre a matéria, é cabível o pedido rescisório, por violação à norma jurídica (art. 966, V do CPC/2015), não incidindo o óbice da Súmula 343/STF.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por FRANCISCO FERDINANDO JANOSKI  contra  a  decisão  que  deu provimento ao recurso especial do INSS, a fim de afastar a incidência da Súmula 343/STF e determinar a devolução dos autos ao Tribunal de origem para que prossiga no julgamento da ação rescisória como entender de direito.
+Argumenta  a  parte agravante,  em  síntese,  que "não é caso, portanto, de afastamento da súmula 343/STF, porque, como alhures colacionado, ficou evidenciada a divergência jurisprudencial presente na própria corte entre a data de prolação do primeiro acórdão do REsp 1.310.034/PR em 24/10/2012 e a data de julgamento dos embargos de declaração em 02/02/2015" (fl. 227).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO À NORMA JURÍDICA. ART. 966, V, DO CPC/2015. ATIVIDADE ESPECIAL. CONVERSÃO DE TEMPO COMUM EM ESPECIAL. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA APOSENTADORIA. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. PACIFICAÇÃO DA MATÉRIA EM MOMENTO ANTERIOR À DECISÃO RESCINDENDA. INAPLICABILIDADE DA SÚMULA 343/STF. AGRAVO INTERNO IMPROVIDO.
+1.  A Primeira Seção do STJ, ao julgar o Recurso Especial 1.310.034/PR, em 24.10.2012, submetido ao rito dos recursos repetitivos, firmou entendimento segundo o qual se aplica ao direito de conversão entre tempo especial e comum a lei em vigor à época da aposentadoria, independentemente do período no qual as atividades foram exercidas pelo segurado.
+2.  No caso, sendo a decisão rescindenda posterior ao julgamento do Tema 546/STJ, o qual consolidou o entendimento sobre a matéria, é cabível o pedido rescisório, por violação à norma jurídica (art. 966, V do CPC/2015), não incidindo o óbice da Súmula 343/STF.
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+A Primeira Seção do STJ, ao julgar o Recurso Especial 1.310.034/PR, em 24.10.2012, submetido ao rito dos recursos repetitivos, firmou entendimento segundo o qual se aplica ao direito de conversão entre tempo especial e comum a lei em vigor à época da aposentadoria, independentemente do período no qual as atividades foram exercidas pelo segurado.
+No caso, sendo a decisão rescindenda posterior ao julgamento do Tema 546/STJ, o qual consolidou o entendimento sobre a matéria, é cabível o pedido rescisório, por violação à norma jurídica (art. 966, V do CPC/2015), não incidindo o óbice da Súmula 343/STF.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL VERIFICADO. ACOLHIMENTO.
+1. Constata-se a presença de erro material no julgado embargado, de forma que deve constar que o acórdão rescindendo foi proferido em 28/6/2013.
+2. No entanto, fica mantido o afastamento da Súmula 343/STF e prosseguimento das ações rescisórias nas hipóteses em que, à época da decisão rescindenda, a matéria relativa à conversão do tempo de serviço comum em especial já estava pacificada neste Tribunal, por meio do julgamento do REsp n. 1.310.034/PR, processado sob o rito do art. 543 do CPC/73, precedente qualificado, esse formado em 24/12/2012.
+3. Embargos de declaração acolhidos, sem concessão de efeitos infringentes. (EDcl no AgInt no AREsp n. 2.152.203/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO RESCISÓRIA. VIOLAÇÃO À NORMA JURÍDICA. ART. 966, V, DO CPC/2015. ATIVIDADE ESPECIAL. CONVERSÃO DE TEMPO COMUM EM ESPECIAL. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA APOSENTADORIA. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. PACIFICAÇÃO DA MATÉRIA EM MOMENTO ANTERIOR À DECISÃO RESCINDENDA, INAPLICABILIDADE DA SÚMULA 343/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte, ao julgar o Recurso Especial n. 1.310.034/PR (24.10.2012), submetido ao rito dos recursos repetitivos, firmou entendimento segundo o qual se aplica ao direito de conversão entre tempo especial e comum a lei em vigor à época da aposentadoria, independentemente do período no qual as atividades foram exercidas pelo segurado.
+III - Sendo a decisão rescindenda posterior ao julgamento do Tema 546/STJ o qual consolidou o entendimento sobre a matéria, é cabível o pedido rescisório, por violação à norma jurídica (art. 966, V do CPC/2015), não incidindo o óbice da Súmula 343/STF, que dispõe não caber Ação Rescisória se a decisão a ser desconstituída tiver fundamento em texto legal de interpretação controvertida nos tribunais.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido. (AgInt no REsp n. 2.025.401/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Isso posto, nego provimento ao recurso.
