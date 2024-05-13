@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO DEMOLITÓRIA. ASTREINTES. IMPOSSIBILIDADE DA OBRIGAÇÃO. VALOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 412/425) interposto contra decisão da eminente Ministra Presidente desta Corte Superior que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 403/406).
+Em suas razões, a parte alega que, "diferentemente do que restou decidido pela r. decisão agravada, para além da questão acerca da violação do art. 497 do CPC ser meramente de direito, para a sua análise basta a moldura fática do v. acórdão recorrido" (e-STJ fl. 420).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 431).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO DEMOLITÓRIA. ASTREINTES. IMPOSSIBILIDADE DA OBRIGAÇÃO. VALOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 403/406):
+Cuida-se de agravo apresentado por AGLAIA DE ASSUMPCAO FACCINI e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DEMOLITÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. PROCESSUAL CIVIL. DECISÃO COMBATIDA QUE INDEFERIU OS PEDIDOS DE REDUÇÃO DAS ASTREINTES E DE RECONHECIMENTO DO CARÁTER DE BEM DE FAMILIA DO IMÓVEL DO 2º EXECUTADO, CUJA PENHORA JÁ HAVIA RESTADO ORDENADA. IRRESIGNAÇÃO DOS DEVEDORES. BEM DE FAMILIA. MATÉRIA DE ORDEM PÚBLICA QUE, COMO TAL, PODE SER INVOCADA A QUALQUER TEMPO, DESDE QUE NÃO HAJA DECISÃO ANTERIOR A SEU RESPEITO. POSICIONAMENTO CONSOLIDADO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RES QUE CONSISTE NA RESIDÊNCIA DOS REQUERIDOS, ENQUADRANDO-SE NO CONCEITO DO ART. 1O, CAPUT, DA LEI Nº 8.009/90. CITAÇÃO DE AMBOS OS DEMANDADOS QUE SE VERIFICOU NO ENDEREÇO EM QUESTÃO. AUTORA QUE RECONHECE O DOMICÍLIO DAS PARTES IN LOCU. MULTA. EXECUÇÃO DE OBRIGAÇÃO DE FAZER QUE SE DESENROLA HÁ MAIS DE 04 (QUATRO) ANOS, SEM O ADIMPLEMENTO DOS RÉUS. IMPOSSIBILIDADE DE EXTIRPAÇÃO DAS ASTREINTES, SOB PENA DE SE NEGAR EFETIVIDADE E MESMO DEFERÊNCIA ÀS DECISÕES DO PODER JUDICIÁRIO E, DESSA FORMA, ABALAR A PRÓPRIA ESTRUTURA DO ESTADO DEMOCRÁTICO DE DIREITO. ANÁLISE DA QUANTIA QUE, NO ENTANTO, INDICA SEU EXCESSO, PORQUANTO ULTRAPASSA O PRÓPRIO VALOR DO IMÓVEL A CUJA PENHORA ALMEJAVA A DEMANDANTE. POSSIBILIDADE DE REVISÃO CHANCELADA PELO ART. 537, §1º, DO CPC E PELA JURISPRUDÊNCIA DA CORTE CIDADÃ. MINORAÇÃO PARA METADE DO QUANTUM ORIGINALMENTE ESTIPULADO. ARESTO DESTA CASA DE JUSTIÇA. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. INSTRUMENTO EM FOCO INTERPOSTO EM FACE DE DECISUM QUE ABORDOU TEMAS ATÉ ENTÃO NÃO ENFRENTADOS NOS AUTOS. CONHECIMENTO E PROVIMENTO PARCIAL DO RECURSO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 497 do CPC, no que concerne ao afastamento da multa fixada (astreintes), diante da impossibilidade de cumprimento da obrigação imposta, trazendo a seguinte argumentação:
+22. Ocorre que, ao assim decidir, o v. acórdão recorrido incorreu em manifesta violação ao art. 497, do Código de Processo Civil
+ ..
+23. Ora, uma vez constatada a impossibilidade no cumprimento, impositivo o afastamento das astreintes que tem por finalidade, justamente, compelir o devedor a cumprir a obrigação de fazer considerada impossível.
+24. E aqui, importante ressaltar com todas as cores e grifos, a própria recorrida solicitou a conversão da obrigação de fazer em perdas e danos, não possuindo mais qualquer interesse na obtenção da tutela específica. Ademais, fica claro, ainda, que a intenção da recorrida nunca foi o cumprimento da obrigação de fazer, e, sim, a percepção de valores altíssimos, se enriquecendo às custas dos recorrentes.
+ ..
+27. Destaque-se que o próprio art. 537, § 1º, I e II, do CPC, autoriza a exclusão das astreintes quando demonstrada a justa causa para o seu descumprimento (fls. 330-335).
+Quanto à segunda controvérsia, a parte recorrente alega violação do art. 884 do CC, no que concerne à redução do valor da multa diária (astreintes), eis que excessivo e desproporcional, sob pena de configuração de enriquecimento ilícito, trazendo a seguinte argumentação:
+29. O v. acórdão recorrido incorreu em violação ao art. 884 do Código de Processo Civil, pois deixou de observar que apesar da redução da multa diária, esta continua excessiva, importando em enriquecimento sem causa para a recorrida.
+30. "Admitida a redução do valor das astreintes quando a sua fixação ocorrer em valor muito superior ao discutido na ação judicial em que foi imposta, a fim de evitar possível enriquecimento sem causa" (AgInt nos EDcl no REsp 1552039/SC, Rel. Min. Raul Araújo, 4ª Turma, j. 26.03.19, DJe 11.04.19), o v. acórdão recorrido incorreu em violação ao art. 884 do Código Civil, uma vez que tem por consequência o enriquecimento ilícito da recorrida o que é vedado pelo mencionado dispositivo legal. Somente, a título de astreintes, a recorrida receberá valor superior a R$ 250 MIL (fl. 336).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Ora, a partir do relato retro tecido, exsurge inconteste o descaso dos Recorrentes com o comando judicial transitado em julgado ainda em 2015, único fato a conduzir o débito ao valor elevado que hoje apresenta. Imperioso, pois, manter-se a penalidade imposta, sob pena de se negar efetividade e mesmo deferência às decisões do Poder Judiciário e, dessa forma, abalar a própria estrutura do Estado Democrático de Direito (fl. 96).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No entanto, a análise do processado também revela que o valor do imóvel a cuja penhora almejava a Exequente corresponde a R$ 471.716,25 (quatrocentos e setenta e um mil, setecentos e dezesseis reais e vinte e cinco centavos) (fl. 941 - IE nº 000940 - autos originários), certamente hoje já ultrapassado pela importância das astreintes, a mostrar, assim, seu excesso.
+ ..
+Por conseguinte, na esteira do art. 537, §1º, I, do CPC e dos julgados acima transcritos, forçoso proceder à redução da multa diária para R$ 250,00 (duzentos e cinquenta reais) por dia de descumprimento, metade da quantia originalmente arbitrada (fls. 97-98).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de astreintes, esta restringe-se aos casos em que fixadas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "A alteração da conclusão adotada pelo Tribunal estadual, quanto ao valor das astreintes, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7 deste Tribunal Superior." (AgInt no AREsp n. 2.098.250/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/11/2022, DJe de 18/11/2022.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.551.437/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.487.241/SC, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 14/8/2020; e AgInt no REsp 1.479.479/AM, relator Ministro Og Fernandes, Segunda Turma, DJe de 29/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Conforme destacado pela decisão agravada, o recurso especial não comporta exame de questões que impliquem nova análise dos elementos de prova dos autos.
+Modificar o entendimento do Tribunal de origem - que concluiu pela correta manutenção da cobrança das astreintes em seu valor já reduzido, levando em consideração o descumprimento da ordem judicial desde o ano de 2015 - esbarra na Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo i nterno.
+É como voto.
