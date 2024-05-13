@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO.  EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO STF. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos  no  art.  1.022  do Código de Processo Civil,  porquanto o acórdão combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2.  Na presente hipótese, a parte insiste em tese que já foi rejeitada no aresto embargado, quando ficou consignado que a existência de lei local em nada alterava a situação dos autos; logo, inaplicável ao presente caso o óbice da Súmula 280/STF.
+3. Nos termos do art. 105, inciso III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (STF).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL ao  acórdão da PRIMEIRA TURMA assim ementado (fl. 828):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. GOZO DE FERIADO LOCAL. DIA DA CONSCIÊNCIA NEGRA. PORTARIA 595/2011. AUTARQUIA PÚBLICA FEDERAL. LEI 9.093/1995. LEGALIDADE. PROVIMENTO NEGADO.
+1. A Portaria 595/2011 expedida pelo Ministério do Planejamento, Orçamento e Gestão (MPOG) regulamenta os feriados a serem observados pelos servidores públicos federais da administração pública federal direta, autárquica e fundacional do Poder Executivo, independentemente da localidade em que ocorre a prestação do serviço.
+2. A norma está vinculada à Lei 9.093/1995, que faz expressa ressalva apenas aos feriados religiosos e aos dias de guarda declarados por lei local, hipóteses nas quais não se enquadra o Dia da Consciência Negra.
+3. A possível existência de lei local disciplinando situação diversa daquelas previstas em lei federal em nada altera a situação dos autos, haja vista tratar-se de discussão de direito de servidor público federal, que não se sujeita às normas do Poder Legislativo de cada localidade.
+4. Agravo interno a que se nega provimento.
+Nas razões dos embargos de declaração, a parte embargante sustenta, em síntese:
+(a) omissão acerca da aplicabilidade da Súmula 280/STF;
+(b) obscuridade quanto à delimitação da matéria tratada, porquanto desde a inicial ela pretende que seja apreciado o desrespeito da Portaria 595/2011 do Ministério do Planejamento e Orçamento e Gestão para com os arts. 18, 23, III, e 30, I e IX, da Constituição Federal (CF);
+(c) obscuridade quanto à não sujeição de servidor público federal às normas do Poder Legislativo local.
+Requer o enfrentamento da tese de violação ao princípio da legalidade (art. 37 da CF).
+Impugnação juntada à fl. 860.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO.  EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO STF. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos  no  art.  1.022  do Código de Processo Civil,  porquanto o acórdão combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2.  Na presente hipótese, a parte insiste em tese que já foi rejeitada no aresto embargado, quando ficou consignado que a existência de lei local em nada alterava a situação dos autos; logo, inaplicável ao presente caso o óbice da Súmula 280/STF.
+3. Nos termos do art. 105, inciso III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (STF).
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023  do  CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração,  previstos  no  art.  1.022  do  Código de Processo Civil (CPC), porquanto o acórdão embargado não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo do recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+Sob a alegação de que teria ocorrido omissão sobre a aplicação do óbice da Súmula 280 do Supremo Tribunal Federal (STF), a parte embargante reitera as razões do agravo interno, insistindo na inviabilidade do conhecimento do recurso especial da União.
+Ocorre que o voto condutor do aresto embargado deixou expressamente consignado que "a possível existência de lei local disciplinando situação diversa daquelas previstas em lei federal em nada altera a situação aqui examinada, por tratar de discussão de direito de servidor público federal, que não se sujeita às normas do Poder Legislativo de cada localidade" (fl. 830). Logo, não há razão, no presente caso, para aplicar o óbice da Súmula 280/STF.
+Constato, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+Ademais, é importante salientar que, nos termos do art. 105, inciso III, da Constituição Federal, não compete ao Superior Tribunal de Justiça (STJ) o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE OMISSÕES E ERRO MATERIAL. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - É firme o posicionamento deste Superior Tribunal no sentido de que o erro material é aquele aferível prima facie, revelando-se, de imediato, o descompasso entre o pensamento do julgador e a sua manifestação no pronunciamento judicial, o que não ocorre no caso.
+IV - Não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+V - Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.817.302/SP, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 26/10/2022, DJe de 28/10/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO VERIFICADA. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO DA VIA ELEITA. REDISCUSSÃO DA MATÉRIA ENFRENTADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Na origem, trata-se de agravo de instrumento, com pedido de antecipação de tutela recursal contra decisão que, em execução fiscal, não conheceu da exceção de pré-executividade. No Tribunal a quo, a decisão foi mantida. Interposto recurso especial, este teve seguimento negado. Seguiu-se a interposição de agravo. No STJ, em decisão monocrática de minha lavra, conheceu-se do agravo, para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento. A decisão foi mantida em agravo interno.
+II - Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+III - É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+IV - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+V - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.834.708/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/4/2022, DJe de 7/4/2022.)
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos de declaração não se prestam à inovação, ao prequestionamento de matéria constitucional,  à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
