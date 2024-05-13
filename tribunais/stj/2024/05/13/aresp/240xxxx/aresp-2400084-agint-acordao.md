@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AO ART. 1.022 DO CPC/2015. OMISSÕES INEXISTENTES. PLEITO PELA REVISÃO CONTRATUAL ANTE A APLICAÇÃO DA TEORIA DA IMPREVISÃO. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui omissões. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão.
+2. O Tribunal de origem, examinando o acervo fático-probatório acostado aos autos e a avença firmada entre as partes, concluiu que não estão preenchidos os requisitos para que seja aplicada, à espécie, a teoria da imprevisão e a consequente revisão do contrato. A inversão do julgado encontra óbice nas Súmulas n. 5 e 7, ambas do STJ.
+3. Quanto ao alegado dissenso pretoriano, não foi realizado o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ. Ademais, o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos (Súmula n. 284 do STF).
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AVALON TAXI AEREO LTDA. contra decisão da lavra da Ministra Assusete Magalhães que conheceu do agravo para conhecer parcialmente e, nessa extensão, negar provimento ao recurso especial (fls. 558-564).
+Consta dos autos que o Juízo de primeiro grau julgou improcedente a ação de rescisão contratual c.c. declaratória de inexistência de débito ajuizada pela ora Agravante (fls. 274-277).
+Irresignada, a parte agravante interpôs apelação, à qual a Corte de origem negou provimento (fls. 425-434).
+Os embargos de declaração opostos foram rejeitados (fls. 466-470).
+Sustenta a parte agravante, nas razões do apelo nobre, além da existência de dissídio pretoriano, contrariedade ao art. 1.022 do CPC/2015; bem como aos arts. 54 e 65, inciso II, da Lei n. 8.666/93.
+Alega que houve negativa de prestação jurisdicional, por parte do Tribunal a quo, quando do julgamento dos embargos de declaração.
+Aduz que, ao contrário do consignado no aresto atacado, a precariedade financeira da ora Agravante apenas pode ser constatada no decorrer do contrato e, por conseguinte, não foi possível prever tal condição no momento em que foi firmada a avença.
+Pondera que a revisão do contrato " ..  não depende de previsão, de modo que, desde que evidenciado o direito pelo particular (o que de fato aconteceu neste caso), a Administração deve concedê-la a qualquer tempo" (fl. 490).
+Não foram apresentadas contrarrazões (fl. 501).
+O recurso especial não foi admitido (fls. 504-508).
+Foi interposto agravo (fls. 515-529).
+A Ministra Assusete Magalhães, por meio da decisão de fls. 558-564, conheceu do agravo em recurso especial para conhecer parcialmente do apelo nobre e, nessa extensão, negar-lhe provimento.
+No agravo interno (fls. 570-585), a parte agravante reitera a existência de contrariedade ao art. 1.022 do CPC/2015.
+Afirma que as questões veiculadas no recurso especial são eminentemente de direito e, por conseguinte, não incidem, na espécie, as Súmulas n. 5 e 7, ambas do Superior Tribunal de Justiça.
+Aponta que não é aplicável, à hipótese dos autos, a Súmula n. 284 do STF.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AO ART. 1.022 DO CPC/2015. OMISSÕES INEXISTENTES. PLEITO PELA REVISÃO CONTRATUAL ANTE A APLICAÇÃO DA TEORIA DA IMPREVISÃO. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui omissões. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão.
+2. O Tribunal de origem, examinando o acervo fático-probatório acostado aos autos e a avença firmada entre as partes, concluiu que não estão preenchidos os requisitos para que seja aplicada, à espécie, a teoria da imprevisão e a consequente revisão do contrato. A inversão do julgado encontra óbice nas Súmulas n. 5 e 7, ambas do STJ.
+3. Quanto ao alegado dissenso pretoriano, não foi realizado o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ. Ademais, o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos (Súmula n. 284 do STF).
+4. Agravo interno desprovido.
+VOTO
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 430-433; sem grifos no original):
+Conforme o art. 78 da Lei 8.666/93, são causas para rescisão contratual:
+ ..
+Tais disposições se encontram reproduzidos no Contrato firmado, de cujos termos destaco (ev. 1, OUT5):
+ ..
+Ocorre que a rescisão sancionatória, nos termos do próprio contrato, é viabilizada através de procedimento interno da Administração, em que oportunize contraditório e ampla defesa à concessionária, com consequente aplicação das multas demais sanções que se entenda necessárias.
+Tendo sido solicitado distrato contratual (rescisão amigável), sua apreciação está sujeita aos termos da Administração, e, conforme bem expôs o Juízo a quo, a rescisão intentada pela autora encontra previsão no at. 79, II, lei n. 8.666/1993 (rescisão amigável, desde que haja conveniência para a Administração Pública). Note-se que não se trata de rescisão causada pela própria INFRAERO, por eventualmente ter deixado de adimplir as obrigações por ela assumidas, enquanto empresa pública federal, no âmbito daquela avença. Não há elementos que indiquem responsabilidade da demandada, quanto à situação financeira noticiada pela autora.
+Acerca da revisão contratual, é verdade que a despeito da natureza em certa medida assimétrica do contrato administrativo, consagrada no artigo 65 da Lei 8.666/93, e evidenciada pela existência das denominadas cláusulas exorbitantes, inclusive a que contempla a possibilidade do jus variandi, o mesmo dispositivo mencionado estabelece na alínea "d" do inciso II a possibilidade de revisão do contrato para restabelecer o equilíbrio econômico-financeiro "na hipótese de sobrevirem fatos imprevisíveis, ou previsíveis porém de consequências incalculáveis, retardadores ou impeditivos da execução do ajustado, ou, ainda, em caso de força maior, caso fortuito ou fato do príncipe, configurando álea econômica extraordinária e extracontratual".
+O reequilíbrio econômico financeiro, entretanto, constitui garantia do contratado mas também da administração. Ademais, como regra, nos termos da própria lei, deve ser promovido por "acordo das partes". De fato, segue a redação do artigo 65 da Lei de Licitações e Contratos Administrativos:
+ ..
+Não há, pois, um direito absoluto e subjetivo à revisão do contrato para para restabelecer o equilíbrio em favor do contratado, ainda mais porque, como referiu o Juízo a quo, não estão preenchidos os requisitos para a revisão do contrato, visto que essa precariedade financeira não chega a atender os pressupostos da teoria da imprevisão.
+Por mais que haja, efetivamente, dificuldades financeiras da parte da concessionária, esta participou livremente da licitação pública, não tendo impugnado o preço contratado - pelo que, igualmente, não subsiste a alegação de quebra de isonomia em relação a outras concessionárias. Assim, o risco do negócio não pode ser transferido para a Administração Pública, devendo o contrato ser cumprido até o fim, ressalvadas as hipóteses previstas nas suas próprias cláusulas, cujo processamento ocorreu pela INFRAERO.
+ ..
+Por fim, o trágico acidente sofrido por uma das aeronaves da apelante ocorreu mais de um ano após o início dos inadimplementos da autora, não sendo causa hábil para justificar as alegadas dificuldades financeiras.
+Com efeito, o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Por outro lado, o Tribunal de origem, soberano quanto ao exame do acervo fático-probatório acostado aos autos, bem como no que diz respeito à avença firmada entre as partes, concluiu que não estão preenchidos os requisitos para que seja aplicada, à espécie, a teoria da imprevisão e a consequente revisão do contrato. Portanto, a inversão do julgado encontra óbice nas Súmulas n. 5 e 7, ambas desta Corte Superior de Justiça.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CONTRATUAL. TEORIA DA IMPREVISÃO. PANDEMIA DE COVID-19. ENERGIA ELÉTRICA. OBSCURIDADE E AUSÊNCIA DE FUNDAMENTAÇÃO NÃO VERIFICADAS. REEXAME DE MATÉRIA DE FATO E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. DECISÃO MANTIDA.
+ ..
+3. Incabível o recurso especial que pretenda debater questões que envolvam dilação probatória fundamentada no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca modificar as conclusões do acórdão recorrido quanto à possibilidade de revisão contratual, em virtude da caracterização de caso fortuito e força maior, em razão da incidência do enunciado das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INOCORRÊNCIA. CONTRATO ADMINISTRATIVO. ALTERAÇÃO UNILATERAL DO CONTRATO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS N. 05 E 07/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+III - A Corte de origem, após ampla análise do conjunto fático probatório dos autos, concluiu não houve violação da manutenção das cláusulas econômicas do contrato e, portanto, não estariam presentes os requisiitos para a aplicação da teoria da imprevisão ou da revisão contratual, inexistindo violação à garantia da manutenção das cláusulas do contrato. A revisão demandaria interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas 05 e 07 desta Corte Superior.
+ ..
+V - Agravo Interno improvido. (AgInt nos EDcl no AgInt no REsp n. 1.658.677/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/4/2021, DJe de 20/4/2021.)
+No tocante ao alegado dissenso pretoriano, a parte recorrente não realizou o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos dos acórdão recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal. Tal ausência inviabiliza o conhecimento do recurso especial, pela alínea c do permissivo constitucional. A esse respeito: AgInt no AREsp n. 2.388.423/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/2/2024, DJe de 23/2/2024; AgInt no REsp n. 2.082.599/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ainda no que concerne ao dissídio jurisprudencial, as razões do recurso especial não indicaram o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284/STF. A esse respeito: AgInt nos EDcl no AREsp n. 2.165.721/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgInt no AREsp n. 2.087.834/RJ, relator Ministro Paulo Sérgio Domingues, Pri meira Turma, julgado em 13/2/2023, DJe de 16/2/2023.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
