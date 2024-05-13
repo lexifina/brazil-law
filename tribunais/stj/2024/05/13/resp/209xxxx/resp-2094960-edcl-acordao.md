@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 1360/1366) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE PROVEU O RECURSO ESPECIAL, EM VIRTUDE DE OFENSA AO ART. 1.022 DO CPC. ACÓRDÃO RECORRIDO. OMISSÃO CARACTERIZADA.1. Deixando o Tribunala quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC.2. Agravo interno não provido.
+O embargante sustenta a ocorrência que o v. acórdão embargado padece de omissão, na medida em que não ocorreu a apresentação de exceção de pré-executividade nos autos da execução fiscal de origem, situação contrária ao alegado pela União e que oportunizou o deferimento do apelo nobre Fazendário pelo reconhecimento de negativa de prestação jurisdicional.
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Consta do v. acórdão embargado o seguinte:
+Cinge-se a controvérsia, na origem, de agravo de instrumento interposto contra decisão que em sede de execução fiscal determinou o arresto de bens e bloqueio judicial de ativos financeiros com base no reconhecimento de grupo econômico. O Tribunal a quo deu provimento à pretensão recursal, ponderando que não há coincidência de endereços ou identidade de objeto social entre a recorrente e as empresas do pretenso grupo econômico, razão pela qual não se confirma sua inclusão como responsável pelo crédito executado, senão vejamos  ..  Entretanto, em que pese os argumentos do agravante, observa-se que o Tribunal de origem não se pronunciou de forma adequada sobre as seguintes alegações:
+Primeiramente, padece o v. acórdão de omissão, no tocante à impossibilidade de se acolher exceção de pré-executividade, quando necessária dilação probatória. A matéria aduzida pelo recorrente através de exceção de pré-executividade, que dependeria de produção de provas, deveria ter sido aduzida através de embargos à execução, segundo previsão do artigo 16 da Lei de Execuções Fiscais, o que demonstra que sequer deveria ter sido conhecido o presente Agravo de Instrumento.  ..  Com efeito, conforme exaustivamente demonstrado na primeira instância, nos autos da execução fiscal, foi constatado que a Justiça do Trabalho vem reconhecendo as fraudes cometidas pelo grupo em questão, do qual a recorrente em questão faz parte. Basicamente, uma empresa intermediária adjudica bem da empresa por um preço vil, sem qualquer contestação das partes, e um tempo depois, o repassa a outra empresa do grupo. Ou seja, o bem não sai das mãos do grupo familiar.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados, persistindo a omissão destacada. Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+Observa-se, que a questão foi apreciada de forma clara, adequada e suficiente acerca da ocorrência de negativa de prestação jurisdicional quanto à viabilidade ou não do manejo da exceção de pré-executividade na hipótese e diante do quadro fático que envolve ou não a existência de grupo econômico e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
