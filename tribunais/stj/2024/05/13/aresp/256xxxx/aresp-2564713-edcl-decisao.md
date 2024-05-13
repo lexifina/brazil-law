@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSÉ EDVALDO HENRIQUE DE ANDRADE, em face da decisão de fls. 367/368, que não conheceu do recurso.
+O embargante sustenta que a decisão embargada é contraditória. (fl. 374)
+Alega que "a decisão embargada está equivocada, pois o recurso interposto pelo recorrente/embargante é o agravo previsto no artigo 1042 do CPC, estando tão somente incorreta a nomenclatura da petição de interposição." (fl. 373)
+Argumenta que "o excesso de formalismo, na decisão embargada, não pode ser óbice para a análise e julgamento do recurso interposto pelo recorrente de fls. 331/351", pouco importando a nomenclatura nela aposta. (fl. 373)
+Requer, nesses termos, o conhecimento e acolhimento dos embargos declaratórios, para que, sanado o vício apontado, seja o recurso recebido como agravo.
+A embargada foi devidamente intimada para contrarrazoar estes aclaratórios, tendo apresentado impugnação às fls. 379/382.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não há como prosperar o agravo interposto pela parte, tendo em vista que não se enquadra nas hipóteses de cabimento do agravo que atraem a competência dessa Corte, que se restringem àquelas previstas no art. 1.027, § 1.º, e no art. 1.042, do Código de Processo Civil.
+Em que pese a argumentação desenvolvida pelo embargante, há de se observar que o novo CPC passou a disciplinar expressamente as hipóteses de cabimento de agravo de instrumento e de agravo em recurso especial, não havendo mais margem que permita suscitar dúvida objetiva quanto ao cabimento de cada qual.
+Dessa forma, os recursos ora debatidos devem ser manejados na forma prevista em lei, uma vez que possuem previsão totalmente distinta de utilização, não subsistindo a possibilidade de interpor um ou outro indistintamente, razão pela qual não parece razoável argumentar que se trata de agravo e que pouco importa sua nomenclatura.
+Nesse sentido, convém ressaltar novamente que o agravo previsto no art. 1.015 do CPC destina-se a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição. Já o recurso cabível na hipótese é o agravo em recurso especial, previsto art. 1.042 do CPC, para impugnar decisões que não admitem recurso especial/extraordinário a partir de um juízo negativo de admissibilidade (art. 1.030, V, do CPC).
+Por isso, o recurso não foi conhecido, em razão do manifesto erro grosseiro na interposição de agravo de instrumento, o que torna inaplicável o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie.
+A propósito, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INADMISSÃO. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. APLICAÇÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do art. 1.042, § 2º, do Código de Processo Civil de 2015, o recurso cabível para impugnar a decisão que inadmitiu o recurso especial é o agravo em recurso especial, dirigido ao Presidente ou Vice-Presidente do tribunal de origem, e não o agravo previsto no art. 1.015 do CPC/2015.
+3. A interposição equivocada de recurso diverso daquele expressamente previsto em lei, quando ausente dúvida objetiva, constitui manifesto erro grosseiro, que inviabiliza a aplicação do princípio da fungibilidade. Precedentes.
+4. Agravo interno não provido. (AgInt no AREsp 1683667/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 28/09/2020.)
+Por fim, não há falar em formalismo exacerbado, uma vez que esta Corte já assentou o entendimento de que "o acesso à tutela jurisdicional deve sempre ser pautado por regras procedimentais que tem dentre suas finalidades a de resguardar a segurança jurídica das partes envolvidas. A lei estabelece pressupostos ou requisitos para a admissibilidade do recurso e, portanto, cabe à parte formulá-lo em estrito cumprimento à lei (..)." (AgRg no AREsp 200407/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 5/9/2012).
+Portanto, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
