@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMÓVEL DADO EM GARANTIA HIPOTECÁRIA. PENHORABILIDADE. PRECEDENTES DO STJ. ATO BENÉFICO À ENTIDADE FAMILIAR. CONTROVÉRSIA. DISCUSSÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que é penhorável o bem dado em garantia hipotecária. Todavia, esta Corte Superior reconhece a impenhorabilidade do imóvel se o ato de disposição não reverteu em benefício à família.
+2. Tendo o Tribunal mato-grossense afirmado, com base na prova então produzida, que o imóvel objeto da lide foi, livremente, dado em garantia pelo agravante e em benefício da entidade familiar, nos exatos termos do art. 3º, V, da Lei n.º 8.009/90, em virtude de notória relação de parentesco entre ele e o devedor principal, qualquer outra análise do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame das circunstâncias fático-probatórias da causa, o que não se admite nesta via excepcional, ante o óbice da Súmula n.º 7 do STJ.
+3. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELIELTON HERDT (ELIELTON) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMÓVEL DADO EM GARANTIA HIPOTECÁRIA. PENHORABILIDADE. PRECEDENTES DO STJ. ATO BENÉFICO À ENTIDADE FAMILIAR. CONTROVÉRSIA. DISCUSSÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do presente inconformismo, ELIELTON defendeu que (1) o que se pretende, em verdade, é constituir oportunidade para que esta C. Corte realize a adequada interpretação do direito federal e o enquadramento jurídico correto dos fatos, os quais não se contestam; (2) a relação de parentesco entre o ora Agravante e o devedor principal (seu pai), não leva necessariamente à situação de benefício da entidade familiar tal qual descrita pelo I. Desembargador, isso se dá, porque o Agravante é casado, tem filhos e a sua entidade familiar, que vive no imóvel dado em garantia é outra e não mais aquela outrora convivida junto aos seus pais; e (3) a decisão recorrida ignorou a relevância dos documentos que o Agravante juntou aos autos onde demonstrou cabalmente que ele e sua família, constituída pela esposa e filhos, é que formam uma entidade familiar e que JAMAIS FORAM BENEFICIADOS PELA DAÇÃO EM GARANTIA DO IMÓVEL, tendo sido dado em garantia de dívida de terceiros alheios a essa entidade familiar (e-STJ, fls. 291/303).
+Foi apresentada impugnação (e-STJ, fls. 307/309).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMÓVEL DADO EM GARANTIA HIPOTECÁRIA. PENHORABILIDADE. PRECEDENTES DO STJ. ATO BENÉFICO À ENTIDADE FAMILIAR. CONTROVÉRSIA. DISCUSSÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que é penhorável o bem dado em garantia hipotecária. Todavia, esta Corte Superior reconhece a impenhorabilidade do imóvel se o ato de disposição não reverteu em benefício à família.
+2. Tendo o Tribunal mato-grossense afirmado, com base na prova então produzida, que o imóvel objeto da lide foi, livremente, dado em garantia pelo agravante e em benefício da entidade familiar, nos exatos termos do art. 3º, V, da Lei n.º 8.009/90, em virtude de notória relação de parentesco entre ele e o devedor principal, qualquer outra análise do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame das circunstâncias fático-probatórias da causa, o que não se admite nesta via excepcional, ante o óbice da Súmula n.º 7 do STJ.
+3. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Da impenhorabilidade do bem dado em garantia hipotecária
+A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que é penhorável o bem dado em garantia hipotecária. Todavia esta Corte Superior reconhece a impenhorabilidade do imóvel se o ato de disposição não reverteu em benefício à família.
+Confiramos, pois, o entendimento deste Tribunal expresso nas seguintes ementas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE CÉDULA DE CRÉDITO BANCÁRIO. BEM DE FAMÍLIA. IMPENHORABILIDADE. GARANTIA HIPOTECÁRIA. EMPRÉSTIMO. EMPRESA FAMILIAR. BENEFÍCIO DA ENTIDADE FAMILIAR. REEXAME. SÚMULAS NºS 5 E 7/STJ. ÔNUS DA PROVA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284/STF.
+(..)
+2. É possível a penhora do único imóvel residencial quando dado em garantia de dívida contraída por empresa familiar, salvo se provado que o ato de disposição não beneficiou a família.
+3. Na hipótese, rever a conclusão do tribunal local, no sentido de que o empréstimo contraído por empresa familiar se reverteu em benefício da família, esbarra no óbice da Súmula nº 7/STJ.
+(..)
+5 . Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.806.412/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. CONTRATO DE CONFISSÃO DE DÍVIDA COM GARANTIA HIPOTECÁRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PENHORA DE IMÓVEL. BEM DE FAMÍLIA E COMÉRCIO. POSSIBILIDADE. DECISÃO DA PRESIDÊNCIA DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, a análise das razões apresentadas pelo recorrente, quanto à impenhorabilidade do bem de família oferecido como garantia hipotecária, demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.725.891/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/3/2021, DJe de 5/4/2021)
+Na espécie, o TJMT, soberano na análise fático-probatória, ao discorrer sobre os aspectos da controvérsia concluiu que o imóvel foi, livremente, dado em garantia pelo agravante e em benefício da entidade familiar, nos exatos termos do art. 3º, V, da Lei nº. 8.009/90, porquanto é notória a relação de parentesco entre o agravante e o devedor principal, não havendo como se declarar a impenhorabilidade desse imóvel (e-STJ, fl. 171).
+Nesse contexto, conforme foi consignado no julgado agravado, instaurou-se, dessa forma, uma controvérsia no que tange à discussão a respeito de o ato de disposição do bem se reverter ou não em benefício da entidade familiar.
+  Assim, em que pese o reforço argumentativo de ELIELTON, rever as conclusões quanto à tais peculiaridades demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+Por derradeiro, não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+Por tais razões, não se pode conhecer do recurso.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do CPC.
