@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. TEMPO TRABALHADO EM CONDIÇÕES ESPECIAIS. CONVERSÃO. CONCESSÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de ação previdenciária objetivando o reconhecimento e a conversão de tempo de serviço trabalhado em condições especiais, para fins de concessão de aposentadoria por tempo de serviço. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi parcialmente reformada para estabelecer critérios dos honorários advocatícios e fixar a forma de aplicação dos juros de mora e da correção monetária.
+II - A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame. Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal Regional Federal da 3ª Região, assim resumido:
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO LEGAL. ART. 557 DO CPC. MANUTENÇÃO DO JULGADO AGRAVADO. APOSENTADORIA POR TEMPO DE SERVIÇO.
+1 - Nos termos do artigo do art. 557, "caput" e parágrafo 1º-A, do Código de Processo Civil, cabe ao relator o julgamento monocrático do recurso, negando-lhe seguimento quando se manifeste inadmissível, improcedente, prejudicado ou para lhe dar provimento se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência do respectivo tribunal ou dos tribunais superiores.
+2 - Inviabilidade do agravo legal quando constatada, de plano, a improcedência da pretensão recursal, mantidos os fundamentos de fato e de direito do julgamento monocrático, que bem aplicou o direito à espécie.
+3 - Agravo legal desprovido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Nesse sentido, pede-se vênia, para destacar que a Súmula 284 do STF não pode ser um óbice ao conhecimento do recurso especial interposto, visto que quanto ao permissivo constitucional previsto na alínea "a", a Agravante expressamente expôs em seus fundamentos os dispositivos de lei tidos por violados, notadamente, relativos ao Código de Processo Civil.
+ ..
+No caso dos autos, vale destacar que o Agravante apontou de forma específica quais foram os dispositivos legais violados com o devido dissídio jurisprudencial, não sendo o caso de incidência da súmula 284 do STF, conforme se observa no recurso especial interposto conforme fls. 258/281.
+ ..
+Importa aduzir que o recurso especial interposto, foi suficientemente fundamentado, visto que as razões expendidas viabilizam a plena compreensão da co ntrovérsia e atacam os argumentos mencionados, o que afastam a incidência da Súmula nº 284 do STF.
+ ..
+Assim, a Súmula 284 do STF não pode ser um óbice ao conhecimento do recurso especial, sob pena de esvaziamento do comando constitucional previsto na alínea "c", bem como pela caracterização de obstáculo processual a efetividade e amplo acesso à justiça, marcado pela primazia das decisões de mérito e pelo direito de acesso aos tribunais superiores.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. TEMPO TRABALHADO EM CONDIÇÕES ESPECIAIS. CONVERSÃO. CONCESSÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de ação previdenciária objetivando o reconhecimento e a conversão de tempo de serviço trabalhado em condições especiais, para fins de concessão de aposentadoria por tempo de serviço. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi parcialmente reformada para estabelecer critérios dos honorários advocatícios e fixar a forma de aplicação dos juros de mora e da correção monetária.
+II - A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame. Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabiliza do o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
