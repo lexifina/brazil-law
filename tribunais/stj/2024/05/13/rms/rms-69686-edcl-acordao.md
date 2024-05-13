@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", o que não ocorreu na espécie.
+2. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por AS RIBEIRO VICTOY, em face de acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, de relatoria da Ministra Assusete Magalhães, em agravo interno, que se encontra assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR DA RESERVA. ATO DE BRAVURA. PROMOÇÃO PARA CARGO DE CARREIRA DIVERSA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança impetrado pela parte ora agravante, em face do Comandante Geral da Polícia Militar do Estado de Goiás, com o objetivo de obter promoção, por bravura, ao posto de 1º Tenente do Quadro de Oficiais da Polícia Militar. O Tribunal de origem denegou a segurança, sob o fundamento de que, "considerando que o impetrante ainda pertence à carreira de Praças da PMGO, não pode este pleitear a promoção por ato de bravura na carreira de Oficiais, o que configura indevida ascensão funcional".
+III. Na hipótese, o Tribunal de origem adotou orientação em consonância com o entendimento manifestado pela Segunda Turma desta Corte, no sentido da impossibilidade de promoção do militar, ainda que por bravura, em quadro funcional distinto daquele no qual ingressou na carreira, sob pena de violação à Súmula Vinculante 43 do STF. Nesse sentido: STJ, AgInt no RMS 69.963/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 05/06/2023; AgInt no RMS 69.918/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 16/08/2023.
+IV. Agravo interno improvido.
+O Embargante alega que houve omissão quanto à alegada violação ao princípio da isonomia, pois, "em casos iguais ao do Embargante, a realização do Curso de Habilitação de Oficiais - CHOA é dispensável, sendo a promoção concretizada por meio de publicação em Diário Oficial do Estado de Goiás" (fl. 617).
+Por fim, requer o acolhimento dos embargos declaratórios.
+Impugnação da parte embargada, pela rejeição dos d eclaratórios, com a aplicação da multa prevista no art. 1.026, §2º, do CPC/2015.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", o que não ocorreu na espécie.
+2. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+De início, nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso, verifica-se que o acórdão embargado, fundamentadamente, negou provimento ao Agravo interno, concluindo que "o Tribunal de origem adotou orientação em consonância com o entendimento manifestado pela Segunda Turma desta Corte, no sentido da impossibilidade de promoção do militar, ainda que por bravura, em quadro funcional distinto daquele no qual ingressou na carreira, sob pena de violação à Súmula Vinculante 43 do STF".
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1022 do CPC/2015.
+Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Diante desse contexto, observa-se que não há qualquer omissão, contradição, obscuridade ou erro material perpetrado pelo acórdão embargado.
+Desse modo, em verdade, verifica-se que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. COBRANÇA PRATICADA COM BASE NA TABELA TUNEP/IVR. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+ ..
+II - Os embargos não merecem acolhimento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp n. 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp n. 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+V - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+ ..
+VII - Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VIII - Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.313.544/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023; sem grifos no original.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O AUXÍLIO DE QUEBRA DE CAIXA. ACÓRDÃO EMBARGADO EMBASADO NA ORIENTAÇÃO CONSOLIDADA NESTE SUPERIOR TRIBUNAL ACERCA DA MATÉRIA. AUSÊNCIA DE OMISSÃO.
+ ..
+II - Revela-se incabível falar em omissão ou deficiência de fundamentação no acórdão apoiado na orientação consolidada neste Superior Tribunal, pois tal consolidação é resultante da interpretação dos dispositivos legais pertinentes à matéria. Precedentes.
+III - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+IV - Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp n. 2.017.428/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/6/2023, DJe de 21/6/2023; sem grifos no original.)
+Por fim, não deve ser acolhido o requerimento para que seja imposta a multa, prevista no § 2º do art. 1.026 do CPC/2015, pois o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos Embargos de Declaração.
+Pelo exposto, REJEITO os embargos de declar ação.
+É como voto.
