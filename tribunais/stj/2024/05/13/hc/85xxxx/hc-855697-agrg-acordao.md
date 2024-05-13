@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e OTÁVIO DE ALMEIDA TOLEDO (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. APLICAÇÃO CUMULATIVA DAS CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 68, parágrafo único, do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua". A presença de duas majorantes não acarreta, necessariamente, o incremento sucessivo da reprimenda por elas. Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ.
+2. No caso, a opção judicial mais gravosa ao réu está desacompanhada de fundamentos válidos, o que ensejou a concessão da ordem e a readequação da dosimetria.
+3. Agravo regimental não provido.
+RELATÓRIO
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão concessiva do habeas corpus.
+Pede a reforma do julgado, pois cabível a cumulação de majorantes do roubo, nos moldes assinalados pelo Tribunal de Justiça a quo.
+Segundo o insurgente, consoante a literalidade do art. 68, parágrafo único, do Código Penal, "a aplicação de um só aumento ou uma só diminuição é mera faculdade conferida ao Magistrado" (fl. 80).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. APLICAÇÃO CUMULATIVA DAS CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 68, parágrafo único, do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua". A presença de duas majorantes não acarreta, necessariamente, o incremento sucessivo da reprimenda por elas. Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ.
+2. No caso, a opção judicial mais gravosa ao réu está desacompanhada de fundamentos válidos, o que ensejou a concessão da ordem e a readequação da dosimetria.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O réu foi condenado por roubo duplamente majorado e adulteração de sinal identificador de veículo automotor.
+Prevalece nesta Corte a interpretação de que: "o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique quando da escolha da cumulação das causas de aumento. Portanto, qualquer que seja a solução, ela  ..  não pode ser automática.  .. " (AgRg no HC n. 722.103/AC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 3/5/2022, DJe de 9/5/2022, destaquei).
+In casu, o sentenciado, em concurso de agentes e mediante emprego de arma de fogo, subtraiu R$ 370,00 de estabelecimento comercial. Ao individualizar a pena, o Juiz assinalou o seguinte:
+No crime de roubo, aumento a pena em 1/3 pelo concurso, passando a 05 (cinco) anos e 04 (quatro) meses de reclusão e pagamento de 13 (treze) dias-multa. Presente a causa de aumento referente ao emprego de arma de fogo, aumenta-se a pena em 2/3, passando a 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e pagamento de 21 (vinte e um) dias-multa. Não há causas de diminuição.
+O Tribunal de Justiça assim se manifestou sobre a controvérsia (fl. 44):
+ ..  a pena do roubo foi acrescida em 1/3 em razão do concurso de agentes e, depois, em mais 2/3, haja vista o emprego de arma de fogo. A respeito disso, bem destacou o d. Relator Sorteado que "a majoração cumulativa da reprimenda imposta pela prática do crime de roubo duplamente agravado, em razão da presença das causas de aumento reconhecidas, é necessária, uma vez que, a regra do parágrafo único, do artigo 68 do Código Penal, não exige que o Juiz aplique, tão-somente, uma única causa de aumento da parte especial do Código Penal, quando estiver diante do concurso de causas de aumento, como no caso em exame, tanto que, a teor do dispositivo legal citado, "pode" o Juiz limitar-se a um só aumento, razão pela qual, não há qualquer ilegalidade na aplicação cumulativa.
+O cúmulo de majorantes foi aplicado em desacordo com a jurisprudência desta Corte, sem a devida fundamentação. O julgador deixou de explicar a necessidade da individualização mais severa da pena. Deve prevalecer, observado o art. 68, parágrafo único, do CP, a maior causa de aumento do crime patrimonial (2/3).
+Com efeito, "esta Corte  ..  permite a aplicação cumulativa de causas de aumento de pena previstas na parte especial, desde que mediante concreta fundamentação das instâncias ordinárias" (AgRg no HC n. 679.706/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/11/2021, DJe de 12/11/2021)" (AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023).
+Dito isso, em relação ao roubo, mantenho a pena-base estabelecida no mínimo legal (4 anos de reclusão e 10 dias-multa). Na segunda fase, houve o reconhecimento da confissão espontânea sem alteração da reprimenda, a teor da Súmula n. 231 do STJ. Por derradeiro, afasto a cumulação das causas de aumento e aplico a mais severa (2/3), caracterizada pelo emprego de arma de fogo, o que resulta na sanção final de  6 anos e 8 meses de reclusão, mais 16 dias-multa.
+No que se refere ao crime de adulterar sinal identificador de veículo automotor, fica inalterada a pena estabelecida em 3 anos de reclusão, mais 10 dias-multa.
+As sanções, somadas, alcançam o total de  9 anos e 8 meses de reclusão e 26 dias-multa, sem nenhuma alteração do regime inicial fechado, haja vista o quantum indicado.
+À vista do exposto, nego provimento ao agravo regimental.
