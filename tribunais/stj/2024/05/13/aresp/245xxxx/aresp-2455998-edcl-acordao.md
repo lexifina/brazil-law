@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por ASAP SERVIÇOS DE APOIO ADMINISTRATIVO LTDA. E ASSUA INCORPORADORA LTDA - EM RECUPERAÇÃO JUDICIAL, contra acórdão de fls. 269/274 (e-STJ), que manteve a higidez do decisum singular de fls. 218/219 (e-STJ), da lavra da Presidência deste Superior Tribunal de Justiça.
+O acórdão ora embargado, proferido pela Quarta Turma do STJ em sede de agravo interno, restou assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DA PARTE AGRAVANTE.
+1. Os recursos dirigidos à instância superior desacompanhados de procuração ou em que a cadeia de substabelecimentos mostra-se incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ.
+1.1. Na hipótese, embora devidamente intimada para a regularização da representação processual, a parte recorrente não procedeu, no prazo assinalado, à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do recurso.
+2. Agravo interno desprovido.
+Em suas razões de fls. 281/283 (e-STJ), a parte embargante sustenta a regularidade de sua representação processual. Por conseguinte, postula a concessão de efeitos infringentes ao presente julgado, a fim de que seja dado prosseguimento à análise de seu recurso especial.
+impugnação às fls. 287/290 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem acolhimento, visto que a parte embargante não demonstrou a existência de qualquer vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Como é cediço, nos estreitos lindes do artigo 1.022, CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, confira-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACÓRDÃO DESTE ÓRGÃO FRACIO NÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA. 1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado. 2. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp 1743741/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO. (..) 3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente. 4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. 6. Agravo interno não provido. (AgInt no AREsp 1825577/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. DANOS MORAIS. INOCORRÊNCIA. EXISTÊNCIA DE INSCRIÇÃO NEGATIVA LEGÍTIMA ANTERIOR. SÚM. 385/STJ. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. DECISÃO MANTIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, do CPC, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso. 2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do CPC, pois o acórdão de origem embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão, inclusive, quanto à fixação da verba honorária e os seus fundamentos jurídicos, no presente caso. 3. Analisar se havia ou não outra inscrição desabonadora no cadastro de inadimplentes no momento da propositura da ação demandaria o revolvimento fático probatório dos autos, o que é vedado em sede de recurso especial (Súm 7/STJ). No presente caso, não se trata apenas de revaloração jurídica dos fatos da condicionante da Súm. 385/STJ. 4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1865878/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021)
+No caso, não há infringência ao artigo art. 1.022, CPC/2015, em razão da suficiente fundamentação exarada no acórdão embargado, tendo esta Colenda Quarta Turma do STJ decidido a controvérsia com base no entendimento adotado no âmbito desta Corte Superior, notadamente no que diz respeito à ausência de procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo (art. 1.042, do CPC/15) e do recurso especial, a obstar o conhecimento de sua irresignação , à luz do óbice contido na Súmula 115/STJ.
+É o que se depreende do seguinte trecho do acórdão recorrido (fls. 272/274, e-STJ):
+1. Com efeito, verificando que não havia nos autos procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, determinou-se a intimação da parte para, no prazo de 5 dias, regularizar a representação processual (fls. 206, e-STJ).
+Ocorre que, apesar de regularmente intimada, a parte insurgente deixou transcorrer o prazo in albis, sem atender à providência de regularização processual, conforme atestam as certidões de fls. 210/211 (e-STJ).
+Nesse contexto, ausente a regularização do apontado vício, revela-se inafastável o teor da Súmula 115/STJ. Nesse sentido:
+(..)
+Ademais, verifica-se que, de forma extemporânea, foi juntada procuração às fl. 227 (e-STJ). No entanto, nos termos da jurisprudência desta Corte, não é permitida a ulterior regularização da representação processual, porquanto já operada a preclusão.
+Confira-se:
+(..)
+De rigor, portanto, a manutenção da decisão agravada.
+Depreende-se, portanto, que longe de apontar vícios de fundamentação no decisum embargado, pretende a parte insurgente, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015 pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
