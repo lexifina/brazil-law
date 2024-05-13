@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. OFENSA AOS ARTS. 11, 489, § 1º, E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356 DO STF. JUROS DE MORA. INCIDÊNCIA DO ART. 670 DO CC/2002. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. RECURSO DESPROVIDO.
+1. O Tribunal de Justiça dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos arts. 11, 489, § 1º, IV, e 1.022, todos do CPC/2015.
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplica-se, por analogia, a Súmula 356 do STF.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por NADIR JOSÉ ASCOLI, inconformada com a decisão de fls. 352/354, que negou provimento ao recurso especial.
+Em suas razões, a parte agravante afirma que: (a) o processo deve ser julgado por órgão colegiado; (b) não há entendimento dominante acerca da pretensão recursal no tocante ao percentual de honorários efetivamente incidentes sobre o caso ou enunciado acerca da vedação a decisão-surpresa; (c) ocorreu a efetiva negativa de prestação jurisdicional, sendo nula a decisão por não enfrentar as questões postas; (d) houve o prequestionamento dos dispositivos invocados no recurso especial, sendo o termo inicial de juros de mora matéria de ordem pública que pode ser conhecida de ofício; (e) o julgado se alicerçou em critério jamais aventado e que não foi submetido ao contraditório e à ampla defesa, considerando que a pretensão versava sobre o efetivo levantamento de valores e ausência do dever de prestar contas; (f) não se aplica a Súmula 283/STF ao presente caso; e (g) há divergência jurisprudencial acerca dos juros moratórios, considerando que estes só podem ser computados a partir da data do levantamento do alvará, nos termos dos arts. 405 e 407 do CC/2002.
+Impugnação às fls. 383/393.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. OFENSA AOS ARTS. 11, 489, § 1º, E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356 DO STF. JUROS DE MORA. INCIDÊNCIA DO ART. 670 DO CC/2002. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. RECURSO DESPROVIDO.
+1. O Tribunal de Justiça dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos arts. 11, 489, § 1º, IV, e 1.022, todos do CPC/2015.
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplica-se, por analogia, a Súmula 356 do STF.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Inicialmente, não se verifica a alegada violação aos arts. 11, 489 e 1.022 do CPC/2015, na medida em que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia, in verbis:
+"Assim, à ausência de outros elementos probatórios, é possível a adoção da Tabela da OAB/RS vigente no período (2010) como parâmetro para se chegar em percentual que remunere dignamente o profissional. Nesse aspecto, em consulta ao sítio eletrônico da instituição 3 , verifica-se que para o patrocínio de reclamante, são devidos 20% sobre a condenação ou acordo, montante que está consentâneo com o cálculo apresentado pelo autor na fl. 120. Dessa forma, correto o valor apurado em sentença, qual seja, R$118.990,72, porquanto levantado pelo requerido R$317.188,40, sobre este valor incidem 20%, o que perfaz R$63.437,68, de modo que deveriam ter sido repassados ao autor R$253.750,72, e não R$194.612,00, restando indevidamente retido a quantia de R$59.111,72 4 , que atualizados até março de 2015 somam o valor da condenação.
+(..)
+No que tangem aos juros de mora, tampouco há omissão, sobretudo porque, em se tratando, de mau cumprimento de mandato há disposição específica na legislação, especificamente no artigo 670 do Código Civil." (e-STJ, fls. 249 e 261)
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Ademais, não há que se falar em prequestionamento do art. 10 do CPC/2015. Tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto dos embargos de declaração opostos às fls. 252/256, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência da Súmula 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Por fim, a Corte de origem afirmou que os juros de mora no presente caso decorrem de mau cumprimento de mandato, situação para a qual há disposição legal específica no art. 670 do CC/2002, in verbis:
+"No que tangem aos juros de mora, tampouco há omissão, sobretudo porque, em se tratando, de mau cumprimento de mandato há disposição específica na legislação, especificamente no artigo 670 do Código Civil." (e-STJ, fl. 261)
+A incidência do art. 670 do CC/2002 para os casos de mau cumprimento de mandato não foi objeto de impugnação e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal com relação às alíneas "a" e "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
