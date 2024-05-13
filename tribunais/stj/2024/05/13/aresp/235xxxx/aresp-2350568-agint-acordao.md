@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO. REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONSIDERAÇÃO. INTIMAÇÃO TÁCITA. REGULARIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ quando a adoção de conclusões diversas da do tribunal de origem - notadamente em relação à regularidade de intimação da parte - implicar o reexame de matéria fático-probatória dos autos.
+2. Agravo interno desprovido.
+RELATÓRIO
+INSTITUTO DE PSICOLOGIA CLÍNICA EDUCACIONAL E PROFISSIONAL interpõe agravo interno contra a decisão de fls. 5.393-5.396, que negou provimento ao agravo.
+Sustenta o seguinte (fls. 5.406-5.409):
+Isto porque, o Acórdão de fls. 4617/4623, atacado em sede de Recurso Especial, com as devidas vênias, está em total dissonância com o Art. 4º, 5º, 6º e 7º no que se refere ao início da contagem dos prazos processuais cíveis nos processos eletrônicos, bem como a inobservância dos atos cartorários praticados de forma incorreta, prejudicando sobremaneira a Agravante, além da omissão quanto a necessidade da aplicação do princípio processual da fungibilidade no caso em tela, para moldar o caso concreto no disposto do Art. 1.026 CPC/2015.
+Neste sentido, cabe esclarecer que no reexame de prova, os julgadores precisam reapreciar as provas do processo para poder afirmar se um fato aconteceu ou não. Todavia, o que se requer no Recurso Especial é a revaloração jurídica das circunstâncias fáticas, onde os julgadores reavaliam se a valoração da instância inferior aos fatos já reconhecidos e apreciados na decisão recorrida está adequada ao direito.
+Isto posto, para além da discussão do momento de intimação e ciência inequívoca da decisão, ao referir-se a Lei Federal 11.419/2006, a Agravante pretende ventilar o referido normativo determina uma série de procedimentos que devem ser cumpridos e observados no deslinde de um processo judicial, o que definitivamente não ocorre no caso concreto.
+Cabe repisar que Em 04/04/2022, houve o protocolo e juntada da petição denominada de "Pedido de Reconsideração", a qual, em que pese sua descrição, tinha o condão de alertar ao Juízo, quanto ao erro cartorário, de não promover a juntada da petição levada a protocolo em 19/03/2022, de maneira a permitir que aquele Il. Juízo de piso, analisasse a PROVA NOVA ACOSTADA AOS AUTOS, ANTES DE QUALQUER DECISÃO PROLATADA.
+ ..
+Isto posto Il. Ministro Relator, em que pese que Ressalte-se que a jurisprudência desta Corte Superior é no sentido de que o "comparecimento espontâneo do réu supre eventual falta de intimação quando é atingida a finalidade do ato" é imperioso o reconhecimento que isso se deu tão somente devido ao não prosseguimento do Rito Processual exigido em Lei, sendo certo que forçou esta Agravante a pressionar a vara cível na primeira instância ao cumprimento de suas obrigações e definitivamente o erro e a negligência não merece ser privilegiado, uma vez que a forma foi previamente definida em Lei Federal, visando o correto e equânime andamento dos atos processuais.
+Requer a reconsideração da decisão agravada ou a submissão do presente recurso ao julgamento pelo colegiado.
+A parte agravada apresentou impugnação às fls. 5.416-5.438
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO. REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONSIDERAÇÃO. INTIMAÇÃO TÁCITA. REGULARIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ quando a adoção de conclusões diversas da do tribunal de origem - notadamente em relação à regularidade de intimação da parte - implicar o reexame de matéria fático-probatória dos autos.
+2. Agravo interno desprovido.
+VOTO
+A decisão agravada firmou-se nos seguintes termos (fls. 5.394-5.396):
+É o relatório. Decido.
+O recurso não merece prosperar.
+No presente caso, o Tribunal de origem analisou as questões e assim decidiu (fls. 4.619-4.622):
+É importante salientar que, após a decisão que rejeitou o pedido de desbloqueio da quantia penhora (fls. 294/295), dos autos de origem, proferida em 30/03/2022, o agravante se deu tacitamente intimado ao apresentar pedido de reconsideração (fls. 307/308).
+Alegou o agravante, na petição de fls. 4537, nesse instrumento, que a petição de fls. 307/308 teve, apenas, o objetivo de "alertar o juízo quanto ao erro cartorário, de não promover a juntada da petição levada a protocolo, em 19/03/2022, de maneira a permitir que aquele Juízo de piso analisasse a prova nova acostada aos autos, antes de qualquer decisão prolatada".
+Contudo, após a leitura da petição de fls. 307/308 dos autos originários, não é essa conclusão que se chega, haja vista trechos da referida peça. Vejamos:
+ ..
+Ora, é evidente que a partir de tal manifestação, diga-se espontânea, passou a fluir o prazo para interposição de eventual recurso contra a decisão que rejeitou a exceção de pré-executividade.
+ ..
+O presente recurso somente foi protocolizado em 10/05/2022. Assim, considerando-se que o executado, ora agravante, foi intimado tacitamente 04/04/2022, o recurso interposto é intempestivo, uma vez que o prazo final seria 02/05/2022, levando-se em consideração os pontos facultativos de 14, 20 e 22 15 e 21, todos do mês de abril.
+Já está mais do que sedimentado na doutrina e na jurisprudência que, o pedido de reconsideração não possui efeito interruptivo ou suspensivo para o prazo recursal.
+No presente caso, em relação às suscitadas violações, a Corte de origem concluiu que, a partir da manifestação espontânea acerca da decisão recorrida, "passou a fluir o prazo para interposição de eventual recurso contra a decisão que rejeitou a exceção de pré-executividade" (fl. 4.620) e que, "considerando-se que o executado, ora agravante, foi intimado tacitamente 04/04/2022, o recurso interposto é intempestivo, uma vez que o prazo final seria 02/05/2022" (fl. 4.622).
+Ressalte-se que a jurisprudência desta Corte Superior é no sentido de que o "comparecimento espontâneo do réu supre eventual falta de intimação quando é atingida a finalidade do ato" (AgInt nos EDcl no REsp n. 1.796.772/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/5/2020, DJe de 7/5/2020).
+Nesse contexto, a revisão das conclusões do Tribunal a quo, notadamente quanto à regularidade da intimação da agravante a respeito da decisão recorrida, necessitaria de amplo revolvimento do quadro fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+Nesse sentido, confiram-se os seguintes julgados:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 183 E 267, IV, do CPC/1973. ALEGADA PRECLUSÃO DOS ATOS. INÉRCIA. REEXAME. INVIABILIDADE. SÚMULA 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO.1. A análise da pretensão recursal visando reverter o entendimento do acórdão recorrido, de que a parte adversa não foi corretamente intimada a dar andamento ao feito, sendo surpreendida com a extinção do processo, se mostra inviável no presente caso, pois a conclusão decorreu dos elementos existentes nos autos. Rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso.2. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo interno, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.3. Assim, inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto nos arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.4. Agravo interno não provido. (AgInt no REsp n. 1.756.775/CE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/8/2020, DJe de 13/8/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso. Súmula nº 283 do Supremo Tribunal Federal.3. Rever a conclusão do aresto impugnado de que o recorrente foi pessoalmente intimado para dar andamento ao feito e quedou-se inerte encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.4. Agravo interno não provido. (AgInt no AREsp n. 1.135.790/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/11/2017, DJe de 23/11/2017.)
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Conforme delineado na decisão agravada, a adoção de conclusões diversas das que foram estabelecidas pelo Tribunal de origem - notadamente em relação à regularidade de intimação da parte - implicaria o reexame de matéria fático-probatória do autos, o que encontra óbice nesta instância especial.
+Assim, a aplicação da Súmula n. 7 do STJ é medida que se impôs.
+Nesse contexto, a parte agravante não logrou êxito em apresentar argumentos suficientes que justificassem a alteração da decisão ora impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
