@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCURSO PÚBLICO. BOMBEIRO MILITAR. SOLDADO MÚSICO. LIMITE DE IDADE. PREVISÃO NA LEI LOCAL E NO EDITAL. NATUREZA DO CARGO. LEGALIDADE. DATA PARA AFERIÇÃO DO LIMITE ETÁRIO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que é legítima a exigência de limite etário em concurso público se fixada por lei em sentido formal e expressamente prevista em edital, devendo a idade máxima para ingresso em cargo público ser comprovada no momento da inscrição no certame
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão que negou provimento ao Recurso Especial Ordinário, fundamentada no entendimento desta Corte segundo o qual não fere direitos dos candidatos a disposição editalícia que prevê limites mínimo e máximo de idade para o ingresso na carreira militar, em razão da atividade peculiar nela exercida, desde que tal limitação esteja prevista em legislação específica
+Sustenta o Agravante, em síntese, que ainda que exista previsão legal, não se legitima a fixação de idade para o músico Bombeiro Militar, pois o trabalho é intelectual, não envolvendo questões físicas.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 636/642e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCURSO PÚBLICO. BOMBEIRO MILITAR. SOLDADO MÚSICO. LIMITE DE IDADE. PREVISÃO NA LEI LOCAL E NO EDITAL. NATUREZA DO CARGO. LEGALIDADE. DATA PARA AFERIÇÃO DO LIMITE ETÁRIO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que é legítima a exigência de limite etário em concurso público se fixada por lei em sentido formal e expressamente prevista em edital, devendo a idade máxima para ingresso em cargo público ser comprovada no momento da inscrição no certame
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao Agravante.
+Conforme anteriormente pontuado, o tribunal de origem adotou entendimento consolidado nesta Corte segundo o qual é legítima a exigência de limite etário em concurso público se fixada por lei em sentido formal, devendo a idade máxima para ingresso em cargo público ser comprovada no momento da inscrição no certame.
+Com efeito, especialmente no que diz respeito às carreiras militares, é adequada a disposição editalícia que prevê limites mínimo e máximo de idade para o ingresso na carreira, em razão da atividade peculiar nela exercida, desde que tal limitação esteja prevista em legislação específica, consoante o demonstram os julgados assim ementados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. OFICIAIS DA ÁREA DE SAÚDE DAS FORÇAS ARMADAS. LIMITE DE IDADE. PREVISÃO NA LEI E NO EDITAL. LEGALIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança objetivando o ingresso na carreira de Policial/Bombeiro Militar do Estado da Bahia ainda que conte com a idade superior àquela tida como limite pelo edital do concurso. O Tribunal de Justiça do Estado da Bahia denegou a segurança pleiteada.
+II - O entendimento do acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte superior a respeito do tema, qual seja: por meio de lei específica, é possível a limitação de idade em concurso para ingresso na carreira militar, considerando as peculiaridades próprias da atividade. Nesse sentido: AgInt no R Esp n. 2.022.229/AP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/4/2023, D Je de 19/4/2023; AgInt nos EDcl no AREsp n. 1.355.755/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/11/2022, DJe de 12/12/2022 e AgInt no REsp n. 1.921.019/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/5/2022, Je de 31/5/2022.
+III - Agravo interno improvido.
+(AgInt no RMS n. 71.268/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21.8.2023, DJe de 23.8.2023).
+ADMINISTRATIVO. CONCURSO PÚBLICO. OFICIAIS DA ÁREA DE SAÚDE DAS FORÇAS ARMADAS. LIMITE DE IDADE. PREVISÃO NA LEI E NO EDITAL. LEGALIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+2. Consoante o entendimento desta Corte, é possível a limitação etária para o exercício de cargo público quando, justificada razoavelmente em razão da natureza do cargo, houver previsão legal e editalícia, situação essa que abarca os profissionais da área de saúde das forças armadas. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.642.210/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21.9.2020, DJe de 23.9.2020).
+No caso, a Lei Estadual n. 8.033/1975, com redação conferida pela Lei n. 20.131/2018, no art. 11, V, estabelece que, para ingresso no Quadro de Oficiais da Polícia Militar do Estado de Goiás exigir-se que o candidato tenha idade não superior a 32 (trinta e dois) anos completados até o último dia previsto para a inscrição no respectivo concurso público. Por sua vez, o edital do certame no item 3.3., de igual maneira, estabelece o critério legal para ingresso no cargo de soldado músico.
+Vale lembrar, a Lei n. 12.016/2009, em seu art. 1º, estabelece, como condição para utilização da via mandamental, a existência de direito líquido e certo a ser protegido contra ato emanado de autoridade investida nas atribuições do Poder Público e caracteriza-se como líquido e certo o direito que prescinde de dilação probatória, sendo demonstradas, pelo Impetrante, a ocorrência dos fatos e a relação jurídica existente por meio de documentação que possibilite a imediata apreciação da pretensão pelo Juízo.
+Na lição de Hely Lopes Meirelles: "direito líquido e certo é o que se apresenta manifesto na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração" (in Mandado de Segurança, 28ª ed., São Paulo, Malheiros, 2005. pp. 37/38).
+Desse modo , o mandado de segurança, como remédio constitucional que tem por objetivo o resguardo de direito líquido e certo, pressupõe a existência de prova pré-constituída do alegado direito, sendo necessário que os documentos acompanhem a petição inicial.
+Nessa linha:
+Agravo regimental em mandado de segurança. Ausência de cópia da decisão apontada como coatora. Impossibilidade de dilação probatória em mandado de segurança.
+1. A cópia do inteiro teor da decisão apontada como coatora é imprescindível à instrução da petição inicial do mandado de segurança e sua falta não pode ser suprida em momento posterior à impetração.
+2. O mandado de segurança exige a comprovação de plano do quanto alegado, mediante provas pré-constituídas. Não se admite dilação probatória incidental nessa via processual. 3. Agravo regimental ao qual se nega provimento.
+(STF AG.REG. EM MANDADO DE SEGURANÇA Relator(a): Min. DIAS TOFFOLI Julgamento: 29/05/2013 Órgão Julgador: Tribunal Pleno Publicação PROCESSO ELETRÔNICO DJe-178 DIVULG 10-09-2013 PUBLIC 11-09-2013, destaque meu).
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ATO DO TRIBUNAL DE CONTAS DA UNIÃO. EXCLUSÃO DE VANTAGEM ECONÔMICA CONCEDIDA POR DECISÃO JUDICIAL. AUSÊNCIA DE CÓPIA DO ATO APONTADO COMO COATOR E DA DECISÃO CONCESSIVA DA VANTAGEM. IMPOSSIBILIDADE DE VERIFICAÇÃO DOS ELEMENTOS CARACTERIZADORES DA LIQUIDEZ E CERTEZA DO DIREITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS ARGUMENTOS DA DECISÃO AGRAVADA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. O procedimento do mandado de segurança exige, como requisito indispensável à demonstração da liquidez e certeza do direito postulado, que os fatos articulados na inicial sejam demonstrados de plano, por prova pré-constituída, o que não se verificou in casu.
+2. A ausência de impugnação específica, capaz de infirmar a decisão hostilizada, impõe o desprovimento do agravo.
+3. Agravo desprovido.
+(STF MS 28.943 AgR/DF - DISTRITO FEDERAL AG.REG. EM MANDADO DE SEGURANÇA Relator: Min. LUIZ FUX Julgamento: 16/09/2014 Órgão Julgador: Primeira Turma Publicação ACÓRDÃO ELETRÔNICO DJe-193 DIVULG 02-10-2014 PUBLIC 03-10-2014, destaque meu).
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+No caso, não obstante o improvimento do Agravo Interno, não resta configurada a manifesta inadmissibilidade, razão pela qual deixo de aplicar multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
