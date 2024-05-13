@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA DE LICENÇA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC.
+1. Rever o entendimento a que chegou a Corte de origem - segundo o qual, "na hipótese dos autos se verifica que, de fato, a executada entregou o imóvel em que desenvolvia suas atividades ao menos uma década antes (2005) do lançamento mais antigo (2015). Ora, não se pode, à evidencia disso, imputar-lhe a cobrança no período posterior à rescisão do contrato de locação e entrega das chaves, já que, para tanto, a excipiente deveria estar em pleno funcionamento para que dela se pudesse exigir o pagamento das exigências, não havendo que se falar, portanto, em hipótese de incidência do tributo" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação à Súmula 7/STJ.
+2. Ao contrário do que defende o agravante, a questão controvertida não depende da simples revaloração jurídica das conclusões adotadas pelo Tribunal de origem, mas da própria análise da documentação juntada nos autos.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto da decisão que conheceu do Agravo para não conhecer do Recurso Especial.
+O agravante alega:
+De fato, conforme exposto nas Razões do Agravo em Recurso Especial manejado pelo Município, verifica-se que foi questionado a possibilidade da Empresa Executada ter exercido suas atividades em outro endereço, dentro dos limites municipais, sem ser aquele indicado no contrato rescindido que fundamentou o v. acórdão recorrido, (..)
+Desta feita, constata-se que o v. acórdão prolatado não está em consonância com ao artigo 373, II, do CPC, vez que não houve a possibilidade do Município produzir prova no âmbito da exceção de pré-executividade acolhida na origem.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+Impugnação às fls. 187-189, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA DE LICENÇA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC.
+1. Rever o entendimento a que chegou a Corte de origem - segundo o qual, "na hipótese dos autos se verifica que, de fato, a executada entregou o imóvel em que desenvolvia suas atividades ao menos uma década antes (2005) do lançamento mais antigo (2015). Ora, não se pode, à evidencia disso, imputar-lhe a cobrança no período posterior à rescisão do contrato de locação e entrega das chaves, já que, para tanto, a excipiente deveria estar em pleno funcionamento para que dela se pudesse exigir o pagamento das exigências, não havendo que se falar, portanto, em hipótese de incidência do tributo" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação à Súmula 7/STJ.
+2. Ao contrário do que defende o agravante, a questão controvertida não depende da simples revaloração jurídica das conclusões adotadas pelo Tribunal de origem, mas da própria análise da documentação juntada nos autos.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20.3.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Depreende-se da leitura do acórdão a quo que a controvérsia foi examinada de forma satisfatória, com a devida fundamentação, conforme trecho aqui transcrito (fl. 124, e-STJ):
+Como é cediço, a Taxa de Licença tem como fato gerador o exercício regular do poder de polícia de que dispõe a Administração, a qual deve verificar, periodicamente, o cumprimento das exigências legais voltadas à manutenção da segurança, higiene, saúde e moralidade nas instalações do estabelecimento, comercial ou industrial.
+Desse modo, os estabelecimentos comerciais se submetem à mencionada fiscalização, a fim de se verificar o cumprimento da legislação relacionada com a atividade econômica neles desenvolvida, sendo prescindível, para tanto, a comprovação de fiscalização em razão do efetivo exercício do poder de polícia. Em verdade, como fora dito, a taxa de licença de funcionamento tem por hipótese de incidência uma possível atuação estatal.
+Ora, conquanto não se possa excluir a possibilidade da cobrança da taxa em questão, na hipótese dos autos se verifica que, de fato, a executada entregou o imóvel em que desenvolvia suas atividades ao menos uma década antes (2005) do lançamento mais antigo (2015). Ora, não se pode, à evidencia disso, imputar-lhe a cobrança no período posterior à rescisão do contrato de locação e entrega das chaves, já que, para tanto, a excipiente deveria estar em pleno funcionamento para que dela se pudesse exigir o pagamento das exigências, não havendo que se falar, portanto, em hipótese de incidência do tributo.
+Ressalva-se, outrossim, que o descumprimento, pela executada, do dever de informar ao Município eventuais alterações constitui mera irregularidade administrativa, que não autoriza a cobrança do tributo; para isso.
+Rever o entendimento a que chegou o Tribunal de Justiça do Estado de São Paulo - segundo o qual, "na hipótese dos autos se verifica que, de fato, a executada entregou o imóvel em que desenvolvia suas atividades ao menos uma década antes (2005) do lançamento mais antigo (2015). Ora, não se pode, à evidencia disso, imputar-lhe a cobrança no período posterior à rescisão do contrato de locação e entrega das chaves, já que, para tanto, a excipiente deveria estar em pleno funcionamento para que dela se pudesse exigir o pagamento das exigências, não havendo que se falar, portanto, em hipótese de incidência do tributo" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação à Súmula 7 do Superior Tribunal de Justiça .
+Ao contrário do que defende o agravante, a questão controvertida não depende da simples revaloração jurídica das conclusões adotadas pelo Tribunal de origem, mas da própria análise da documentação juntada nos autos.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
