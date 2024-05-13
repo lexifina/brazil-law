@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, porquanto incidente a Súmula n. 7/STJ.
+No recurso especial, sustenta o Parquet violação dos arts. 14, II, e 121, § 2º, II, III e IV, do Código Penal e 413, caput e § 1º, e 414, caput, do Código de Processo Penal, ao argumento, em suma, que o acórdão recorrido carece de fundamentação idônea para manter a decisão que impronunciou os réus, ora agravados, pois ficaram devidamente demonstradas a materialidade e autoria, requerendo, ao final, a pronúncia dos réus.
+Contraminuta apresentada, manifestou-se o Ministério Público Federal pelo não conhecimento e desprovimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passa-se, assim, à análise do recurso especial.
+Acerca da controvérsia trazida no apelo nobre, colhe-se do acórdão recorrido (fls. 1.302-1.305):
+ ..  a prova oral encartada nos autos mostra-se esquálida e escorregadia para os fins pretendidos pela acusação, com a ressalva de que os depoimentos capazes de fornecer o mínimo de sustentáculo à pretensão acusatória, além de apresentarem algumas inconsistências, não foram confirmados em juízo.
+Pontua-se que nenhum conteúdo comprometedor foi extraído da perícia realizada nos aparelhos celulares dos réus e que a motocicleta e arma de fogo utilizadas na prática do crime não foram localizadas (ord. 2, fl. 55).
+Verifica-se que não há, portanto, provas claras e idôneas a atestar a plausível participação dos acusados no crime em tela, pelo que eventual decisão de pronúncia revelar-se-ia teratológica e desprovida de lastro probatório mínimo.
+Não se desconhece o fato de o policial militar ter afirmado que a testemunha Larissa reconheceu os réus, porém a própria testemunha disse que ela estava bastante nervosa e que o local tinha uma iluminação muito precária. Ora, o estado emocional das testemunhas Larissa e Raíssa e a precariedade da iluminação local são fatos incontroversos nos autos, pois todo o acervo probatório aponta nesse sentido.
+Registra-se que coaduno com as ponderações tecidas pelo "Parquet" em sede recursal, no que toca à eventual intimidação que possa os acusados terem exercido sobre as testemunhas. Contudo, à míngua de maiores informações a respeito de possíveis ameaças e tendo em vista a já citada inconsistência do conjunto probatório, a decisão de impronúncia me parece a mais acertada no caso concreto.
+Como bem esclareceu o d. Magistrado singular (ord. 14):
+ ..
+Esclareça-se, por fim, que não se questiona a prevalência, nesta fase processual, da aplicação do princípio "in dubio pro societate". Todavia, não tendo sido extraídos dos autos indícios necessários da participação dos apelados no crime de homicídio qualificado tentado, inviável se mostra a submissão dos acusados a um julgamento perante o Tribunal do Júri, de modo que a sentença de impronúncia deve ser preservada. ..
+Da análise do excerto colacionado - em destaque -, verifica-se que a revisão do entendimento esposado no aresto recorrido, de modo a pronunciar os acusados, ora agravados, demandaria o revolvimento probatório, o que não se admite na via do recurso especial, em razão do óbice c ontido na Súmula n. 7/STJ. Confira-se:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. OFENSA AO ART. 155 DO CPP. NÃO OCORR ÊNCIA. PRESENÇA DE PROVAS JUDICIAIS E EXTRAJUDICIAIS. CONTRADITÓRIO POSTERGADO. PLEITO DE IMPRONÚNCIA. NECESSIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Além das provas judiciais, verifica-se que a decisão de pronúncia restou embasada em provas não repetíveis e cautelares, como relatórios de leitura de bilhetagem, imagens de vídeos e GPS das viaturas, elementos que configuram o contraditório postergado, pois apesar de produzidos na fase extrajudicial, poderiam ser questionados em juízo por qualquer das partes, afastando, assim, eventual ofensa ao art. 155 do CPP.
+3. No que tange ao pleito de ausência de provas e fundamentação da decisão de pronúncia, conforme se verifica do acórdão recorrido, as instâncias ordinárias constataram, fundamentadamente, a presença da materialidade delitiva e indícios suficientes de autoria, sendo que a revisão de tal entendimento exigiria o reexame fático-probatório dos autos, o que encontra óbice na Súmula n. 7 desta Corte Superior.
+4. "A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, exigindo a existência do crime e indícios de sua autoria, não se demandando aqueles requisitos de certeza necessários à prolação de um édito condenatório, sendo que as dúvidas, nessa fase processual, resolvem-se contra o réu e a favor da sociedade, conforme o mandamento contido no art. 413 do Código Processual Penal" (EDcl no AgRg no AREsp 1238085/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/3/2019).
+5. Agravo regimental desprovido. (AgRg no AREsp n. 1.938.230/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
