@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE PAGAR. ALEGAÇÃO DE DECURSO DE PRAZO PRESCRICIONAL. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO COMBATIDO. INCIDÊNCIA DA SÚMULA N. 283/STF. RAZÕES DO RECURSO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, nas razões do apelo nobre, deixou de refutar o fundamento segundo o qual a obrigação de pagar somente pode ser pleiteada após o devido cumprimento da obrigação de fazer, não correndo o lapso prescricional durante o per íodo de tempo necessário para a Administração apurar o valor devido e individualizá-lo, limitando-se a alegar que limitando-se a alegar que os agravados requereram o cumprimento da obrigação de pagar após transcorrido o prazo prescricional de 5 (cinco) para a para o exercício da pretensão executiva. Portanto, incide o óbice da Súmula n. 283 do STF.
+2. As razões do recurso especial estão dissociadas do julgado atacado e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284/STF. Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO PIAUÍ contra a decisão da lavra da Ministra Assusete Magalhães, que conheceu do agravo para não conhecer do recurso especial (fls. 393-396).
+Argumenta a parte agravante que, (fl. 406):
+Como demonstrado no recurso especial, essa interpretação do Tribunal de Justiça piauiense, de que o acórdão proferido no agravo de instrumento n. 2012.0001.002273-3, interposto num cumprimento de sentença que sequer discutia a parcela da sentença relacionada à obrigação de pagar, teria interrompido o prazo prescricional da sentença transitada em julgado beira a teratologia, e, certamente, não encontra guarida nem no ordenamento, nem na jurisprudência.
+Sustenta que, (fl. 406):
+ ..  não há falar em fundamento autônomo não impugnado, pois a compreensão equivocada do Tribunal a quo que o Estado do Piauí se contrapõe no presente recurso especial, refere-se à caracterização da ilicitude do ato Administrativo, sem a qual não há falar em indenização por danos materiais ou compensação por danos morais.
+Defende, também, que (fl. 406):
+ ..  não há falar em aplicação do óbice da Súmula n. 284 do STF por dissociação entre razões recursais e fundamentos do acórdão recorrido, uma vez que, conforme demonstrado, as razões do presente recurso especial infirmam, sim, de forma especifica, os fundamentos do aresto estadual.
+Por fim, requer o provimento do recurso.
+Foi apresentada impugnação (fls. 412-419).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE PAGAR. ALEGAÇÃO DE DECURSO DE PRAZO PRESCRICIONAL. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO COMBATIDO. INCIDÊNCIA DA SÚMULA N. 283/STF. RAZÕES DO RECURSO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, nas razões do apelo nobre, deixou de refutar o fundamento segundo o qual a obrigação de pagar somente pode ser pleiteada após o devido cumprimento da obrigação de fazer, não correndo o lapso prescricional durante o per íodo de tempo necessário para a Administração apurar o valor devido e individualizá-lo, limitando-se a alegar que limitando-se a alegar que os agravados requereram o cumprimento da obrigação de pagar após transcorrido o prazo prescricional de 5 (cinco) para a para o exercício da pretensão executiva. Portanto, incide o óbice da Súmula n. 283 do STF.
+2. As razões do recurso especial estão dissociadas do julgado atacado e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284/STF. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+No caso, a Corte de origem, ao analisar a controvérsia, afastou a pretensão da parte agravante com base nos seguintes fundamentos (fls. 322-323; sem grifos no original):
+De início, ressalto que estão presentes os elementos extrínsecos e intrínsecos de admissibilidade recursal, motivo pelo qual passo ao exame do mérito do recurso, que cinge-se à tese empossada pelo Estado do Piauí acerca da ocorrência da prescrição da pretensão executiva dos ora agravados no que diz respeito à obrigação de pagar.
+Para isso, o Agravante defendeu, em síntese, que os Agravados teriam requerido o cumprimento da obrigação de pagar ultrapassados 8 (oito) anos do trânsito em julgado da ação, tendo transcorrido o prazo de 5 (cinco) anos entre o trânsito em julgado do título e o cumprimento de sentença, o que convola na prescrição da pretensão autoral.
+Entretanto, em que pesem as notáveis teses aventadas tanto pelo Estado Agravante como também pelo Ministério Público Estadual, mantenho a mesma convicção por mim formulada quando da apreciação do pedido de efeito suspensivo ao recurso, por entender que, de fato, não houve o abarcamento da pretensão autoral pela prescrição.
+Nesse ínterim, sabe-se que o prazo prescricional aplicável ao caso é o quinquenal, havendo irresignação pela recorrente tão somente em relação ao seu termo inicial, por entender que este seria o do trânsito em julgado da ação de conhecimento em favor dos agravados, no ano de 2010.
+Assim, defende que, em razão do pedido de cumprimento de sentença quanto à obrigação de pagar somente ter sido realizado no ano de 2018, patente estaria a ocorrência de prescrição.
+Não obstante se ateste a plausibilidade de tais argumentos quando aplicados em casos gerais, verifica-se que os Agravados, após o trânsito em julgado do processo nº 0012692-22.2003.8.18.0140, deram início ao cumprimento de sentença no tocante à obrigação de fazer, que dizia respeito à inclusão dos autores nos cargos de Técnicos da Fazenda Estadual e os vencimentos correspondentes a partir daquele momento, com o adicional de produtividade.
+Posteriormente, com o trânsito em julgado da decisão em sede do Agravo de Instrumento nº 2012.0001.002273-3, cujo qual fui o relator, anos seguintes, não transcorridos 5 (cinco) anos, exatamente em 28/03/2018, os ora Agravados deram início ao cumprimento de sentença da obrigação de pagar.
+No referido Agravo, definiu-se que os então Agravantes detinham o direito ao reenquadramento no último nível da carreira, portanto questão central de toda a pretensão dos agora recorridos e que figura como objeto de confluência indispensável à correta definição do quantum da obrigação de pagar, motivo pelo qual se impediu o início do transcurso da prescrição no caso antes da consolidação do posicionamento pelo manto da coisa julgada sobre a questão, o que afastou a ocorrência da prescrição.
+O Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.687.328, pacificando a questão, posicionou-se da seguinte forma: "a obrigação de pagar somente pode ser pleiteada após cumprida a obrigação de fazer, não correndo a prescrição durante o tempo necessário para a Administração apurar a dívida e individualizá-la a cada um dos beneficiados pelo direito".
+Nesse mesmo sentido, tem-se, também, precedentes recentes dos Tribunais Pátrios:
+ ..
+Desta forma, por todo o exposto, em dissonância com o parecer ministerial, voto pelo conhecimento do recurso, ao tempo que, no mérito, pelo seu não provimento.
+Nos termos da decisão agravada, a parte agravante, nas razões do apelo nobre, deixou de refutar o fundamento segundo o qual a obrigação de pagar somente pode ser pleiteada após o devido cumprimento da obrigação de fazer, não correndo o lapso prescricional durante o período de tempo necessário para a Administração apurar o valor devido e individualizá-lo, limitando-se a alegar que os agravados requereram o cumprimento da obrigação de pagar após transcorrido o prazo prescricional de 5 (cinco) para a para o exercício da pretensão executiva. Portanto, incide o óbice da Súmula n. 283 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 283/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. A orientação preconizada no verbete 283 da Súmula do Supremo Tribunal Federal, também aplicada ao especial, impõe à parte recorrente o dever de impugnar todos os fundamentos suficientes, por si só, para a manutenção do acórdão recorrido, sob pena de não conhecimento desta espécie recursal.
+2. Não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em conflito de competência. Precedentes.
+3. Agravo interno não provido. (AgInt no REsp n. 2.099.708/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Além disso, conforme destacado na decisão combatida, as razões do recurso especial estão dissociadas do julgado atacado e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284/STF. Nesse sentido: AgInt no AREsp n. 2.299.240/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+Finalmente, pretende a parte agravante, neste agravo interno, corrigir a fundamentação deficiente do recurso especial, desiderato que é inexequível, dada a preclusão consumativa.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
