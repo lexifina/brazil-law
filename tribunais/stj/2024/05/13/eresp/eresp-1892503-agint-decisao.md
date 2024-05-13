@@ -1,0 +1,16 @@
+DECISÃO
+Em  análise,  agravo  interno  interposto  por MILTON DE OLIVEIRA SANTOS JÚNIOR  contra  a  decisão  que indeferiu liminarmente os embargos de divergência em recurso especial, em razão da incidência  da Súmula  168 do STJ.
+Argumenta  a  parte agravante,  em  síntese,  que "enquanto a Primeira Turma deste E. STJ insiste na indevida impossibilidade do Agravante ser beneficiado pelo auxílio de custo, a decisão paradigma, da Segunda Turma, quer seja o REsp nº 1.284.312-DF, entende justamente que a presença do interesse da administração na remoção do servidor, ensejando o ônus da administração para com as despesas de deslocamento e lotação" (fl. 402).
+Sustenta, ainda, que "bastaria que o deslocamento se desse em razão do interesse da administração, para que o servidor faça jus ao benefício  ..  esta é justamente a hipótese dos autos, onde o Agravante tão somente assumiu o cargo em Cuiabá, em razão do interesse da administração, bem como, fora removido em função desse" (fl. 403).
+Pugna pela reconsideração da decisão agravada ou pelo provimento, pelo Colegiado, do agravo interno.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório. Decido.
+A decisão agravada, com efeito, merece reforma, razão pela qual passo a novo exame dos embargos de divergência
+Os presentes embargos de divergência não merecem seguimento.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os "embargos de divergência não são cabíveis quando os julgados confrontados tenham distintos graus de cognição, isto é, um deles conhecendo da controvérsia pelo mérito, e o outro não. Nesse sentido é a orientação consolidada na Súmula 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial"" (STJ, AgInt nos EAREsp n. 1.414.411/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 19/12/2023, DJe de 21/12/2023). Nesse sentido: STJ, AgRg nos EAg n. 1.333.195/PR, relator Ministro Humberto Martins, Corte Especial, julgado em 12/12/2023, DJe de 19/12/2023.
+No caso, quanto à matéria que seria objeto da alegada divergência, a Segunda Turma do STJ, no acórdão embargado, não conheceu do recurso especial, com base na: a) incidência da Súmula 7/STJ; e b) inadequação da via eleita para o exame de eventual ofensa a portarias, por não estarem estas compreendidas no conceito de lei federal.
+Ademais, ainda que tal óbice pudesse ser superado, a parte embargante deixou de realizar o devido cotejo analítico entre os julgados confrontados.
+Ocorre que, é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que "a admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, o que não se verificou na hipótese dos autos" (STJ, AgInt nos EAREsp n. 2.266.711/RS, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 12/12/2023, DJe de 15/12/2023).
+Isso posto, com fundamento nos artigos 34, XVIII, e 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Intimem-se.
+EMENTA
