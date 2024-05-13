@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. AUSÊNCIA DE FATO NOVO CAPAZ DE ENSEJAR NOVA ANÁLISE DA QUESTÃO. ALEGADA OFENSA AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação ao art. 489, § 1º, inciso VI, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. Infirmar as conclusões do acórdão recorrido - quanto à inviabilidade da concessão do benefício da gratuidade da justiça, mormente pelo fato de que não foi apresentado fato novo que tivesse o condão de ensejar nova análise da questão - ensejaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANTÔNIA HERRERA CORDEIRO contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 318):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. AGRAVO DE INSTRUMENTO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. AUSÊNCIA DE FATO NOVO CAPAZ DE ENSEJAR NOVA ANÁLISE DA QUESTÃO. ALEGADA OFENSA AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO NEGAR-LHE PROVIMENTO, EM JUÍZO DE RETRATAÇÃO.
+Nas razões do agravo interno, a agravante alega, em suma, que demonstrou que a declaração de necessidade é prova suficiente para embasar o pedido de gratuidade da justiça; que os seus argumentos não foram considerados; que o fato novo apresentado é a nova decisão colegiada do Tribunal de Justiça do Estado de São Paulo, proferida em 16/06/2021, a qual se refere a sua situação econômica; bem como que há a violação aos arts. 3º, 99, § 3º, e 489, § 1º, inciso VI, todos do CPC/2015.
+Impugnação não apresentada (e-STJ, fl. 352).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. AUSÊNCIA DE FATO NOVO CAPAZ DE ENSEJAR NOVA ANÁLISE DA QUESTÃO. ALEGADA OFENSA AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação ao art. 489, § 1º, inciso VI, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. Infirmar as conclusões do acórdão recorrido - quanto à inviabilidade da concessão do benefício da gratuidade da justiça, mormente pelo fato de que não foi apresentado fato novo que tivesse o condão de ensejar nova análise da questão - ensejaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, mostra-se cristalino que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, haja vista que, conforme bem salientado, além da não ocorrência de violação ao art. 489, § 1º, inciso VI, do Código de Processo Civil de 2015, está evidente a incidência da Súmula n. 7/STJ à presente demanda.
+Consoante análise dos autos, verifica-se que a alegação de violação ao art. 489, § 1º, inciso VI, do Código de Processo Civil de 2015 não se sustenta, pois o Tribunal estadual decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado de São Paulo foi claro ao concluir que "não trouxe, a agravante, fato novo que tivesse o condão de ensejar nova análise da questão".
+Veja-se (e-STJ, fls. 233-234; sem grifo no original):
+A despeito das razões ora expostas, tenho que referido decisório deva prevalecer.
+É certo que a gratuidade judiciária ostenta natureza transitória, visando possibilitar o acesso à justiça aos que, momentaneamente, se encontrem em situação de vulnerabilidade financeira.
+Tal circunstância autoriza a reanálise do pleito, mormente na hipótese em que a parte apresenta novos elementos, com vistas a comprovar a alteração da situação anteriormente verificada.
+Entretanto, no bojo das razões recursais, não trouxe, a agravante, fato novo que tivesse o condão de ensejar nova análise da questão. Flagrante, assim, a pretensão de reanálise, por via transversa, de questão acobertada pela preclusão.  ..
+Há de ser mantido, em tal passo, o decisório impugnado.
+Nessa esteira, cabe reiterar que todas as questões suficientes ao deslinde da controvérsia foram devidamente analisadas no acórdão recorrido, não havendo falar em nenhum vício capaz de comprometer o seu embasamento.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. RECUPERAÇÃO JUDICIAL CONCEDIDA EM FAVOR DE DEVEDOR SOLIDÁRIO AUSÊNCIA DE SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA OS DEMAIS DEVEDORES SOLIDÁRIOS OU COOBRIGADOS EM GERAL. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. OFENSA À COISA JULGADA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+4. A Segunda Seção do Superior Tribunal de Justiça, em recurso repetitivo, sob o rito do art. 543-C do CPC/73, no julgamento do REsp 1.333.349/SP, de relatoria do Ministro LUIS FELIPE SALOMÃO, firmou entendimento de que "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.340.840/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONFISSÃO DE DÍVIDA. APELO NOBRE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III e IV, do Código de Processo Civil de 2015).
+3. Na hipótese, inexiste afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo interno contra a decisão monocrática permite que a matéria seja apreciada pela Turma, afastando eventual vício.
+4. Não viola o art. 489, § 1º, I, II e IV, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia.
+5. Esta Corte já se posicionou no sentido de não ser desprovido de fundamento o julgado que ratifica as razões de decidir adotadas na sentença, transcritas no corpo do acórdão.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.089.072/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 16/3/2023.)
+Por conseguinte, registre-se que a irresignação da agravante não merece guarida, uma vez que afastar os fundamentos do acórdão recorrido - quanto à inviabilidade da concessão do benefício da gratuidade da justiça, mormente pelo fato de que não foi apresentado fato novo que tivesse o condão de ensejar nova análise da questão - exigiria a reapreciação do acervo fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência desta Corte, "O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário" (AgInt no AREsp 1311620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018).
+2. Alterar o entendimento fixado na Corte de origem, a fim de reconhecer a hipossuficiência do agravante, demandaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.093.600/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Assim, melhor sorte não socorre à agravante, não merecendo reparo a decisão monocrática de fls. 318-321 (e-STJ).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
