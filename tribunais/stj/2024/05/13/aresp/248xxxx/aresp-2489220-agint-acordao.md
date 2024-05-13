@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO MONITÓRIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 484/491) interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 478/480).
+Em suas razões, a parte agravante alega que a matéria foi prequestionada.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação às fls. 495/504 (e-STJ).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO MONITÓRIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2 . Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 478/480):
+Cuida-se de agravo apresentado por AMBIENTAL CONTROLE DO AR LTDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação. Monitória. Razões de apelação que não atacam especificamente os fundamentos da sentença. Descumprimento do ônus da impugnação específica. Art. 932, inciso III, do CPC. Violação ao princípio da dialeticidade. Recurso não conhecido.
+Quanto à primeira controvérsia, a parte recorrente alega violação dos arts. 489, IV, §§ 1º e 3º do CPC; e 54 do CDC, no que concerne à deficiência do aresto objurgado que valorou de maneira insuficiente o acervo probatório dos autos, trazendo os seguintes argumentos:
+Assim sendo, o v. acórdão, ora combatido, contrariou e inobservou o que versa o artigo 54 todos da Lei 8.078/1900 - CDC, bem como, o inciso IV do parágrafo 1º e parágrafo 3º do artigo 489 do Código de Processo Civil - Lei 13.105/2015. Sendo que da leitura do v. Acórdão não se vislumbra justifica plausível que coadune objetivamente com o entendimento expresso, ou seja, pela suscitada incidência de violação ao princípio da dialeticidade como argumento para não apreciação do exposto em sede de Razões de Apelação.
+ ..
+Destarte, ainda que a um dentre os dois Recorrentes seja uma empresa, é relevante destacar que a forma de contratação do serviço com a Recorrida se deu por meio de um contrato de adesão, não sendo, portanto, um contrato paritário, ou seja, dentro dos moldes previstos no Código Cível (lei 10.406/2002).
+De igual sorte cabe salientar, que o BRADESCO S/A. não foi capaz de cumprir para com o seu ônus probatório com base no artigo 373, II da Lei 13.105/2015:
+ ..
+Diante todo o exposto, requer seja reformada o v.
+acórdão com a consequente reforma da r. sentença, para que seja reaberta a fase de instrução, reconhecida a aplicabilidade do Código de Defesa do Consumidor, bem como, a violação dos respectivos incisos do §1ª do artigo 489 da Lei 13.105/2015, já mencionados (fls. 426-427).
+Quanto à segunda controvérsia, a parte recorrente alega violação do art. 86, §§ 8º e 8º-A, do CPC, no que tange à redução do quantum arbitrado a título de honorários advocatícios, porquanto, ignorou-se os princípios da razoabilidade e proporcionalidade, trazendo os seguintes argumentos:
+Ademais no que diz respeito a condenação em honorários de sucumbência cabe salientar que apesar de todo o processo ter tramitado eletronicamente e com a devida dilação probatória, o r. juízo a quo deixou de observar devidamente aos princípios da razoabilidade e da proporcionalidade, nos termos expressos no §8º e §8º - A do artigo 85 da Lei 13.105/2015 - CPC e ao majorar o percentual fixado para condenação em honorários de sucumbência no exorbitante percentual de 15% sobre o valor atribuído a causa, mesmo reconhecendo hipossuficiência do Recorrentes, ao deferir o pedido de concessão de GRATUIDADE DE JUSTIÇA, pleiteado em grau recursal (fl. 428).
+É, no essencial, o relatório. Decido.
+Quanto à primeira e segunda controvérsias, incide o óbice da Súmula n. 211/STJ, uma vez que as questões não foram examinadas pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Conforme destacado, a matéria de que tratam os arts. 86, §§ 8º e 8º-A, e 489 do CPC e 54 do CDC n ão foi objeto de análise pelo Tribunal de origem, a despeito da oposição dos embargos de declaração. Inafastável, desse modo, a Súmula n. 211 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
