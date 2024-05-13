@@ -1,0 +1,49 @@
+DECISÃO
+DAVID LUCIANO DOS SANTOS alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2039014-20.2024.8.26.0000).
+Nesta Corte, sustenta a defesa que falta fundamentação idônea para a manutenção da prisão processual do acusado, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006. Menciona o princípio da presunção de inocência. Afirma que o réu é respon sável por duas crianças, cuja mãe faleceu. Aduz que a quantidade de drogas apreendida não é suficiente para a segregação provisória.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, a fixação de medidas menos onerosas ou o estabelecimento de custódia domiciliar.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pela denegação da ordem (fls. 46-47; 50; 57-64).
+Decido.
+Expõem os autos que o Magistrado plantonista converteu o flagrante dos autuados em prisão preventiva, sob estes motivos (fls. 25-26):
+O flagrante encontra-se formalmente em ordem, razão pela qual não há que se falar em relaxamento. Está presente hipótese de flagrante delito, pois a situação fática encontra-se subsumida às regras previstas pelo art. 302 do CPP. O auto de prisão em flagrante encontra-se regular, material e formalmente em ordem, sendo cumpridas todas as formalidades legais e respeitados os direitos e garantias fundamentais previstos no artigo 5º da Constituição Federal.
+Além disso, não se vislumbra qualquer nulidade, irregularidade ou ilegalidade apta a justificar o relaxamento da prisão em flagrante. Em especial, não se vislumbra, em análise preliminar, ilegalidade na atuação da Guarda Civil Municipal.
+Em cognição sumária, da análise dos elementos informativos existentes nos autos, verifica-se que há prova da materialidade delitiva e indícios suficientes de autoria delitiva, consoante se infere dos depoimentos colhidos no âmbito do flagrante. Houve, portanto, situação de flagrância, sendo legal e legítima a prisão do indiciado, inexistindo qualquer motivo que justifique o seu relaxamento.
+ ..
+No caso, a prisão preventiva se faz necessária para garantia da ordem pública. Foi localizada considerável quantidade de drogas de alto poder vulnerante e viciante, havendo indícios, portanto, de que, solto s , voltarão a delinquir. Ademais, outros instrumentos também foram localizados a indicar envolvimento mais aprofundado com o crime.
+A possível existência de endereço fixo e ocupação lícita são circunstâncias que, sozinhas, não servem de fundamento hábil à concessão da liberdade, face à gravidade extremada da conduta e a imperiosidade de interrupção da vil prática. Contudo, há de se ter especial cuidado com os seus efeitos sobre a criminalidade.
+Diante do exposto, CONVERTO O FLAGRANTE EM PRISÃO PREVENTIVA e determino a expedição de MANDADOS DE PRISÃO.
+O Tribunal paulista denegou o habeas corpus originário (fls. 27-34).
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que há audiência de instrução designada para 5/8/2024.
+Feitos esses registros, passo ao exame da impetração.
+De acordo com as peças dos autos, surpreenderam-se o paciente e o coacusado com "1.630 porções de maconha K2 pesando 900g, 6.840 porções de maconha K2 pesando 4.700g, 942 porções de maconha pesando 3.400g, 315 tubos de lança-perfume totalizando 14.500ml, duas porções de maconha K2, pesando 4.800g, 1 porção de skunk pesando 300g, 2.040 porções de maconha pesando 5.600g, 6.683 porções de cocaína pesando 13.100g, 8.991 porções de cocaína pesando 20.200g, 2.765 porções de crack pesando 1.700g, 3.013 porções de cocaína pesando 5.700g, 6.360 porções de maconha pesando 8.700g, 5.670 porções de cocaína pesando 13.900g, 141 porções de haxixe pesando 301g, 197 porções de skunk pesando 600g e 2 porções de substância não identificada pesando 751g" (fls. 30-31).
+Observo, pois, que os fundamentos invocados são suficientes para o cárcere provisório do agente, uma vez que as instâncias ordinárias contextualizaram, em dados concretos, o periculum libertatis.
+A despeito da primariedade do réu, segundo a orientação deste Superior Tribunal, há gravidade concreta na conduta praticada, sobretudo em razão da variedade e do montante de substâncias ilícitas apreendidas.
+Dadas as circunstâncias do fato, não se mostra bastante e adequada, ao menos por ora, a fixação de medidas alternativas (art. 282 c/c art. 319 do CPP).
+Nesse sentido:
+ ..  3. Devidamente justificada a ação policial - da qual resultou a apreensão de 245 buchas de maconha, com massa de 517,68 gramas; 22 unidades de maconha com massa de 440,08 gramas e 15 pinos de cocaína, com massa de 22,81 gramas -, não há que se falar em ilicitude das provas dela decorrentes.
+4. O decreto de prisão preventiva consignou a existência de indício suficiente de autoria do delito pelo paciente e destacou a apreensão de quantidade significativa de entorpecentes prontos para o comércio. Com efeito, as circunstâncias fáticas do crime, como a grande quantidade de droga apreendida, dentre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade.
+5. As condições subjetivas favoráveis ao paciente  ..  não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+6. As circunstâncias que envolvem o delito evidenciam que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+ ..
+8. Agravo regimental improvido.
+(AgRg no HC n. 900.169/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/4/2024.)
+ ..  2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, 3 tijolos de maconha, com peso líquido de 2.769,09g  .. , haxixe em forma de pasta/óleo, com peso líquido de 72,52g  .. , 1 porção de MDMA, com peso líquido de 3,31g  .. , 2 tijolos de maconha, com peso líquido de 300,14g  .. , 1 porção grande de haxixe, com peso líquido de 76,48g  .. , 9 porções pequenas de haxixe, com peso líquido de 63,82g  .. , 1 vidro contendo maconha, com peso líquido de 89,20g  .. , 1 ponto de LSD, com peso de 0,2g  .. , 1 porção de ecstasy esfarelada, com peso de 0,54g  .. , e 8 comprimidos de ecstasy, com peso de 6,23g  .. . Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se  sic  fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+4. Condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 888.325/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 25/4/2024.)
+Quanto à prisão domiciliar, os documentos dos autos apontam que o óbito da mãe dos filhos do paciente ocorreu há mais de 5 anos e um dos menores tem mais de 12 anos de idade (fls. 39-41). Conforme a Corte estadual, o acusado "não se enquadra em nenhum dos requisitos dos incisos do art. 318 do CPP" (fl. 33). Ainda, descreve o acórdão impugnado que "não há nos autos qualquer comprovação" de que o réu é "o único responsável ou imprescindível aos cuidados da criança  e do adolescente , inclusive considerando-se os fortes indícios de seu envolvimento com o transporte de enorme quantidade de entorpecentes" (fl. 33).
+Na hipótese de ausência de constrangimento ilegal evidente, compreender em sentido diverso do Tribunal de origem ensejaria o revolvimento do conjunto fático-probatório, inviável na via eleita pela defesa.
+Ilustrativamente:
+ ..  2. O Tribunal local indeferiu o pleito de prisão domiciliar, destacando que não se demonstrou a condição de indispensabilidade do paciente para os cuidados dos filhos. Para rever tais conclusões, seria necessário aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+3. A situação das crianças após o falecimento da genitora não foi objeto de análise pelas instâncias ordinárias, o que afasta a competência desta Corte Superior para conhecer originariamente da matéria, sob pena de incorrer em indevida supressão de instância.
+4. Agravo Regimental desprovido.
+(AgRg no RHC n. 188.196/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/4/2024.)
+ ..  4. De acordo com a jurisprudência desta Corte, "embora todo pai seja indispensável à criação de seus filhos, o benefício previsto no art. 318, inciso VI, do Código de Processo Penal não possui aplicação automática, sendo necessário que o homem comprove ser o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos" (AgRg no HC n. 822.761/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023), o que não ocorreu no presente caso.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 183.547/RS, relator Ministro Jesuíno Rissato, Sexta Turma, DJe de 18/4/2024.)
+Cumpre ressaltar que "A prisão preventiva não caracteriza antecipação de pena e não viola a presunção de inocência, por não constituir reconhecimento definitivo de culpabilidade" (AgRg no HC n. 828.065/MG, relator Ministro Jesuíno Rissato, Sexta Turma, DJe de 30/11/2023).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
