@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por COMPANHIA PAULISTA DE FORCA E LUZ, com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame, ressaltando que houve a violação dos arts. 186, 265, 394, 927 e 942 do Código Civil, pois não há nexo de causalidade entre a sua conduta e o acidente, além de ser indevida a presunção de solidariedade e, por fim, que a configuração da mora ocorre somente a partir do vencimento de cada prestação.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Na análise da presente controvérsia, o Tribunal de origem, a partir das provas trazidas aos autos, concluiu estar demonstrada a responsabilidade da recorrente nos seguintes termos:
+Do exposto é possível concluir-se por falha na prestação do serviço por ambas as rés: a CPFL, detentora da infraestrutura de rede, por permitir a instalação de equipamento de telecomunicação em desacordo com as especificações técnicas; a empresa de telefonia pela instalação propriamente dita, fato agravado pela notificação, pela Secretaria de Obras do Município, a denunciar a inadequação da faixa de ocupação em relação aos veículos que circulam na avenida.
+ ..
+Há atribuição de responsabilidade por falta de serviço (faute du service) e pertinência também seja ela analisada sob aspecto subjetivo, que, no caso concreto, se condicionava a provar a falha na instalação da fiação e o mau funcionamento do serviço, fatos provados, como visto, a afastar a alegada culpa de terceiro, por ser responsabilidade das concessionárias ou permissionárias a prestação do serviço em condições de segurança, configurada a situação jurídica de responsabilidade subjetiva acima descrita.
+Em suma, ressalvado o entendimento original, entendo terem os autores feito prova da responsabilidade das rés, culpadas no evento danoso, enquanto estas nada provaram em contrário ou em favor dos argumentos de defesa, de modo que não há como fugir à fixação de ser mesmo delas a responsabilidade solidária.
+Assim, a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Por fim, "relativamente à alegação de ofensa quanto à definição do marco inicial para incidência de juros de mora, depreende-se que o acórdão impugnado aplicou o enunciado da Súmula n. 54 do STJ, de acordo com a qual: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual." Nesse sentido: EREsp n. 1.521.713/DF, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 26/5/2020, DJe 28/5/2020" (AgInt nos EDcl no REsp 1.993.661/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 17/11/2022).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuai s previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
