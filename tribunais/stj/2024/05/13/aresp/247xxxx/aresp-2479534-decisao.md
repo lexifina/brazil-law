@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidente a Súmula n. 83/STJ.
+O réu, ora agravado, foi condenado nas sanções do art. 33, caput, da Lei n. 11.343/2006, a 5 anos e 10 meses de reclusão, no regime semiaberto, e 583 dias-multa.
+O Tribunal a quo, em decisão unanime, deu parcial provimento ao apelo defensivo para reconhecer a minorante do tráfico privilegiado e reduzir a sanção a 2 anos e 6 meses de reclusão, em regime inicial aberto, e 250 dias-multa, substituída a carcerária por duas penas restritivas de direitos.
+O Ministério Público local interpôs recurso especial com base na alínea "a" do permissivo constitucional, apontando violação do art. 33, § 4º, da Lei n. 11.343/2006, argumentando, em suma, que a condenação do agravado por fato posterior ao delito objeto deste processo impede o reconhecimento do tráfico privilegiado, requerendo, ao final, o afastamento do tráfico privilegiado.
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo desprovimento deste agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, assim, ao exame das razões trazidas no apelo nobre.
+Acerca do reconhecimento do tráfico privilegiado, eis o excerto pertinente do acórdão recorrido (fl. 222):
+ ..  No caso em comento, o Magistrado a quo valeu-se do fato de Wesley da Cruz Pinheiro responder a outras duas ações penais de igual natureza, durante o curso desta ação penal, por atos cometidos posteriormente aos aqui debatidos (autos ns. 5031824-76.2020.8.24.0023 e 5031646-30.2020.8.24.0023), para fundamentar o não reconhecimento da referida causa especial de diminuição da pena.
+E como foi apenas por essa razão que o instituto do art. 33, § 4º, da Lei 11.343/06 foi negado ao acusado, entendo ser viável a concessão da causa de diminuição de pena. ..
+Como se vê, o Tribunal de origem decidiu em consonância com a jurisprudência desta Corte, razão pela qual, o acórdão deve ser mantido por seus próprios fundamentos, pois as condenações do réu, ora agravado, por fatos posteriores ao crime pelo qual (neste feito) foi condenado, não podem ser utilizadas para afastar a benesse em apreço. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. MINORANTE. AÇÕES PENAIS EM CURSO E CONDENAÇÕES TRANSITADAS EM JULGADO POR FATOS POSTERIORES NÃO CONFIGURAM MAUS ANTECEDENTES. IMPOSSIBILIDADE DE SE AFASTAR A BENESSE COM BASE EM TAIS CIRCUNSTÂNCIAS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Ações penais em curso não são suficientes para afastar a aplicação ou mesmo modular a minorante de tráfico de drogas. Precedentes.
+3. Outrossim, "condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base". (AgRg no AREsp n. 894.405/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 24/5/2016, DJe de 13/6/2016.). Assim, também não se prestam tais condenações ao afastamento da benesse prevista na Lei de Drogas.
+4. Agravo regimental improvido. (AgRg no HC n. 866.362/AL, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+""Inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para afastar ou modular a fração de diminuição de pena do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência (RE n. 591.054/SC, submetido ao regime de repercussão geral). O mesmo entendimento se aplica às condenações transitadas em julgado relacionadas a fatos posteriores" (AgRg no REsp 1.891.998/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022)." (AgRg no AREsp n. 2.107.531/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
