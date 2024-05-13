@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PORTOCRED S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO (EM LIQUIDAÇÃO EXTRAJUDICIAL) contra a decisão da Presidência de fls. 914-915, que não conheceu do agravo em recurso especial em razão da incidência, por analogia, da Súmula n. 182 do STJ.
+A parte agravante alega que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Aduz que, quanto à ofensa ao art. 1.022, II, do CPC, foi aplicada a Súmula n. 284 do STF no juízo de admissibilidade e que contestou referido óbice no agravo em recurso especial.
+Argumenta que não pretende o reexame de cláusulas contratuais e de provas.
+Defende ainda a inaplicabilidade da Súmula n. 83 do STJ e afirma que demonstrou a divergência jurisprudencial.
+Sustenta a legalidade da taxa de juros remuneratórios cobrada no contrato.
+Requer o provimento do agravo interno para que seja dado seguimento ao recurso especial. Pede ainda a suspensão do processo e o deferimento da gratuidade de justiça.
+As contrarrazões não foram apresentadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Conforme exposto na decisão de fls. 914-915, a decisão agravada inadmitiu o recurso especial devido à ausência de afronta ao art. 1.022 do CPC e à incidência das Súmulas n. 83, 5 e 7 do STJ.
+A decisão de inadmissibilidade do recurso especial, em relação ao art. 1.022 do CPC, dispôs o seguinte (fls. 825-826):
+Inicialmente, não verifico qualquer ofensa ao artigo 1.022 do Código de Processo Civil, haja vista que ofensa somente ocorre quando o acórdão contém erro material e/ou deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é corrigir eventual incorreção material do acórdão ou complementá-lo, quando identificada omissão, ou, ainda, aclará-lo, dissipando obscuridade ou contradição.
+Consigna-se, ademais, não ter o Órgão Julgador deixado de se manifestar acerca de tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso em julgamento, ou, ainda, qualquer das condutas descritas no art. 489, § 1º, do Código de Processo Civil, situações que caracterizariam omissão, conforme o disposto no parágrafo único do artigo 1.022 do mesmo diploma.
+Quanto ao ponto, importa registrar que, quando da realização do "Seminário  O Poder Judiciário e o novo Código de Processo Civil", pelo Superior Tribunal de Justiça, através da Escola de Formação e Aperfeiçoamento de Magistrados, foram aprovados 62 enunciados, valendo destacar o de número 19: "A decisão que aplica a tese jurídica firmada em julgamento de casos repetitivos não precisa enfrentar os fundamentos já analisados na decisão paradigma, sendo suficiente, para fins de atendimento das exigências constantes no art. 489, § 1", do CPC/2015, a correlação fática e jurídica entre o caso concreto e aquele apreciado no incidente de solução concentrada."
+O juiz não está obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundamentar a decisão, nem se obriga a ater-se aos fundamentos indicados pelas partes, tampouco a responder um a um a todos os seus argumentos.
+Nesse sentido: "não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte" (AgInt no AREsp 629.939/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19/06/2018).
+Aliás, cumpre destacar ser insuficiente a mera alegação de omissão, pois, conforme se extrai dos enunciados 40 e 42 do Seminário supra referido, "Incumbe ao recorrente demonstrar que o argumento reputado omitido é capaz de infirmar a conclusão adotada pelo órgão julgador" e, ainda, "Não será declarada a nulidade sem que tenha sido demonstrado o efetivo prejuízo por ausência de análise de argumento deduzido pela parte".
+Assim, não há falar, no caso, em negativa de prestação jurisdicional e/ou vício de fundamentação no acórdão recorrido. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com ausência de fundamentação.
+Daí por que, não obstante a insurgência manifestada, de ofensa aos artigos 489 e 1.022 do CPC não se pode cogitar.
+Entretanto, a parte agravante, no agravo em recurso especial, deixou de impugnar especificamente o fundamento relativo à ausência de afronta ao art. 1.022 do CPC.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Caberia à parte recorrente demonstrar como o art. 1.022 do CPC fora violado, especificando o vício do acórdão recorrido, o que, todavia, não fez.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas nem relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Nesse sentido, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DO DEMANDANTE.
+1. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.199.998/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a revisão do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Dessa forma, uma vez mantida a inadmissibilidade do agravo em recurso especial ante a incidência da Súmula n. 182 do STJ, não há falar na atribuição do efeito suspensivo pleiteado pela parte agravante, porquanto sua concessão presume o necessário conhecimento do recurso, o que não ocorreu na espécie.
+Fica, portanto, prejudicado o pedido de atribuição de efeito suspensivo ao recurso.
+A respeito da suspensão dos processos em decorrência da decretação de liquidação extrajudicial, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a regra contida no art. 18, a, da Lei n. 6.024/1974 deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito, a qual interferirá na formação do título executivo, que será passível de habilitação no processo de liquidação, sem implicar a redução do acervo patrimonial da massa objeto de liquidação (REsp n. 1.298.237/DF, de minha relatoria, Terceira Turma, julgado em 19/5/2015, DJe de 25/5/2015).
+No mesmo sentido: AgInt no REsp n. 1.969.577/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no REsp n. 1.985.667/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022; AgInt no REsp n. 1.783.833/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/10/2020, DJe de 27/10/2020; e AgInt no AREsp n. 1.526.212/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/6/2020, DJe de 12/6/2020.
+No mais, a concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação de hipossuficiência, nos termos da orientação do STJ consolidada com a edição da Súmula n. 481, in verbis:
+Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
+Nessa linha de raciocínio, o Superior Tribunal de Justiça já estabeleceu que a simples decretação de liquidação extrajudicial não tem o condão de, por si só, induzir ao reconhecimento da hipossuficiência financeira da pessoa jurídica (AgInt no AREsp n. 1.978.978/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022, DJe de 29/4/2022).
+No caso, ausente a apresentação de outros elementos pela instituição financeira que pudessem comprovar sua impossibilidade de pagamento dos encargos processuais, é insuficiente, para tanto, o balanço patrimonial juntado aos autos .
+Ante o exposto, nego provime nto ao agravo interno, julgando prejudicado o pedido de atribuição de efeito suspensivo ao recurso.
+É o voto.
