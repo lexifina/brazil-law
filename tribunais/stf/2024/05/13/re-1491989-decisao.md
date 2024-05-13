@@ -1,0 +1,73 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, ‘a’, da Constituição Federal, contra acórdão proferido pela 13ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+
+    “Cumprimento de sentença. Desapropriação. Precatório dito colhido pela moratória prevista do artigo 78 do ADCT Insurgência descabida. Pagamento dito feito a maior. Impossibilidade de se alterar a forma de pagamento de juros moratórios de precatórios expedidos antes da edição da Súmula Vinculante nº 17 ante decisão transitada em julgado determinando incidência de forma diversa do texto constitucional e da jurisprudência do C. Supremo Tribunal Federal. Recurso desprovido.”
+
+    No apelo extremo, o recorrente alega violação do artigo 78 do Ato de Disposições Constitucionais Transitórias, bem como afirma que a Corte de origem decidiu de forma contrária ao entendimento fixado na Súmula Vinculante nº 17.
+
+    Nesse sentido, cita o julgamento do RE 590.751/SP e sustenta que o “caráter indevido da incidência dos juros de mora e compensatórios decorre do fato de que o parcelamento do precatório se deu com base em autorização constitucional (art. 78 do ADCT), não existindo mora por parte do Estado capaz de justificar a incidência de juros dessa natureza.”
+
+    O Presidente da Seção de Direito Público do Tribunal a Quo determinou a devolução dos autos à Câmara julgadora em razão do Temas 132 e 1.037 da sistemática da repercussão geral.
+
+    Ao reexaminar o feito à luz das teses fixadas pelo Supremo Tribunal Federal, o órgão julgador manteve incólume o acórdão recorrido.
+
+    Admitido o recurso extraordinário, os autos foram encaminhados a esta Suprema Corte.
+
+    Decido.
+
+    No que se refere à possibilidade, ou não, da incidência de juros moratórios dentro do período constitucional previsto para o pagamento dos precatórios, quando do julgamento do RE nº 591.085/MS-RG-QO - oportunidade em que proposta a edição da Súmula Vinculante nº 17 -, o Ministro Ricardo Lewandowski, relator do feito, assim se manifestou:
+
+    “O Plenário, no julgamento do RE 298.616/SP, Relator o Ministro Gilmar Mendes, decidiu que somente se descumprido o prazo constitucional previsto para o pagamento dos precatórios, qual seja, até o final do exercício seguinte, ' poder-se-ia falar em mora e, em conseqüência, nos juros a ela relativos, como penalidade pelo atraso no pagamento '. Esse mesmo posicionamento já havia sido adotado pela lª Turma, por ocasião do julgamento do RE 305. 186/SP, Relator o Ministro Ilmar Galvão. Os referidos julgados portam as seguintes ementas:
+
+    (...)
+
+    Observo que o entendimento foi estabelecido levando-se em conta a redação original do art. 100, §1º da Constituição . Entretanto, tal dispositivo foi modificado pela EC 30/2000, mas não a ponto de infirmar a orientação do Tribunal sobre a matéria, muito pelo contrário, pois, conforme ressaltado pelo Min. Gilmar Mendes no voto proferido por ocasião do julgamento do RE 298.616/SP:
+
+    ‘É relevante notar que a Emenda n° 30/2000 deu nova redação ao § lº do art. 100, e tornou mais clara a não-incidência de juros moratórios, ao dispor, de forma expressa, que os valores serão atualizados monetariamente até o pagamento, no final do exercício, não se falando em expedição de precatório complementar;’ (grifou-se).
+
+    Na Sessão Plenária de 29/10/09, o STF aprovou a edição da Súmula Vinculante nº 17, com seguinte redação:
+
+    “Durante o período previsto no parágrafo 1º do art. 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.”
+
+    Observe-se que a redação do enunciado de Súmula Vinculante nº 17 reflete a jurisprudência consolidada no Supremo Tribunal Federal, de acordo com os precedentes que lhe deram origem, nos quais se discutiu, especificamente, a incidência dos juros no período previsto no art. 100, § 1º, da Constituição Federal. Sobre o tema, anote-se:
+
+    “EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DISSENSO JURISPRUDENCIAL INTERNA CORPORIS CONFIGURADO. PRECATÓRIO. CÁLCULO. JUROS DE MORA. PERÍODO ENTRE A EXPEDIÇÃO E O PAGAMENTO DO PRECATÓRIO. ART. 100, § 5º, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO INCIDÊNCIA. SÚMULA VINCULANTE Nº 17. PRECEDENTES. 1. Configurado dissenso interna corporis entre o acórdão embargado, da Segunda Turma, no que chancela a incidência de juros moratórios relativamente ao período compreendido entre a expedição do precatório e o seu efetivo pagamento, ainda que não excedido o lapso previsto no art. 100, § 5º, da Constituição da República, e os arestos paradigma (RE-504.194/RS, Relatora Ministra Cármen Lúcia, Primeira Turma, julgamento em 26.5.2009, DJe 01.7.2009 e RE-577.465-AgR/RS, Relatora Ministra Cármen Lúcia, Primeira Turma, julgamento em 27.10.2009, DJe 20.11.2009), nos quais expressamente assentado o entendimento de que não há falar em incidência de juros de mora no prazo constitucional para pagamento de precatórios, a despeito de determinação, no título executivo judicial, para que sejam calculados até o adimplemento da integralidade da dívida. 2. O Plenário do Supremo Tribunal Federal consagrou, em repercussão geral, o entendimento de que não incidem juros de mora sobre precatórios durante o prazo previsto na redação original do art. 100, § 1º, da Constituição da República (art. 100, § 5º, da redação da Emenda Constitucional nº 62/2009) para o seu pagamento. Precedente: RE 591.085/MS (DJe 20.2.2009). Orientação sedimentada na Súmula Vinculante nº 17. 3. Embargos de divergência providos para dar provimento ao recurso extraordinário” (RE nº 626.769/RS-AgR-segundo-ED-EDv, Tribunal Pleno, Relatora a Ministra Rosa Weber , DJe de 29/10/20).
+
+    “Os juros moratórios não são devidos no período compreendido entre a data de expedição do precatório e a do efetivo pagamento, se realizado no prazo estipulado constitucionalmente (artigo 100, § 1º, da CF). Assim, somente se descumprido o prazo constitucional previsto para o pagamento dos precatórios, qual seja, até o final do exercício seguinte, poder-se-ia falar em mora e, em consequência, nos juros a ela relativos, como penalidade pelo atraso no pagamento (RE n. 298.616, Relator o Ministro Gilmar Mendes, Plenário, DJ de 3.10.03). (Precedentes: RE n. 305.186, Relator o Ministro Ilmar Galvão, 1ª Turma, DJ de 18.10.02; RE n. 372.190-AgR, Relator a Ministra Ellen Gracie, 2ª Turma, DJ de 07.11.03; RE n. 393.737-AgR, Relator o Ministro Sepúlveda Pertence, 1º Turma, DJ de 06.02.04; RE n. 420.163-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 13.8.04; RE n. 393.111-AgR, Relator o Ministro Joaquim Barbosa, 2ª Turma, DJ de 11.2.05; e RE n. 502.901-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJ de 13.08.04). 2. O Sistema processual adotado pelo código de processo civil, conferindo força à jurisprudência do E. STF no sentido de submeter as corte inferiores ao seu entendimento nos casos de repercussão geral, aproxima-se do regime vigorante na common law, que, em essência, prestigia a isonomia e a segurança jurídica, clausulas pétreas inafastáveis de todo e qualquer julgamento. 3. Por ocasião do julgamento do RE n. 591.085-RG, Relator o Ministro Ricardo Lewandowski, DJe de 17.02.09, o Pleno desta Corte reconheceu a existência de repercussão geral da presente questão constitucional e ratificou o entendimento ora firmado pelo STF sobre o tema. Posteriormente o Tribunal editou a Súmula Vinculante n. 17, verbis: Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos. 4. Consectariamente, não incide juros de mora no período compreendido entre a data de expedição do precatório e a do efetivo pagamento, se realizado no prazo estipulado constitucionalmente (artigo 100, § 1º, da CF)” (AI nº 795.809/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux , DJe 20/2/13 g.n.).
+
+    “AGRAVO DE INSTRUMENTO PRECATÓRIOS JUDICIAIS NÃO INCIDÊNCIA DE JUROS MORATÓRIOS DURANTE O PERÍODO A QUE SE REFERE O ART. 100, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA - SÚMULA VINCULANTE N. 17 APLICABILIDADE AO CASO - EMBARGOS DE DECLARAÇÃO RECEBIDOS. - Tratando-se de precatórios judiciais, não cabe a incidência de juros de mora durante o período a que alude o § 1º do art. 100 da Constituição da República, pois, enquanto não superado o prazo estabelecido em referida norma constitucional, a entidade de direito público não poderá ser considerada em estado de inadimplemento obrigacional. Precedentes” (AI nº 386.700/RS-AgR-ED, Segunda Turma, Relator o Ministro Celso de Mello , DJe 16/11/10).
+
+    Em vista disso, imperioso destacar que a ratio que deu ensejo à edição da Súmula Vinculante nº 17 consiste no não reconhecimento da mora da Fazenda Pública no período compreendido entre a inclusão do precatório no orçamento público da entidade e o término do exercício financeiro seguinte, período em que os valores deverão ser atualizados monetariamente, sendo os juros devidos no pagamento do débito tão somente a partir do atraso.
+
+    Do mesmo modo, o Plenário desta Suprema Corte fixou a tese de que os juros moratórios e compensatórios não incidem durante o período de parcelamento previsto no art. 78 do ADCT, sendo cabíveis os juros moratórios somente na hipótese de inadimplência da Fazenda Pública no pagamento do parcelamento a partir da data em que esse é devido até o seu efetivo pagamento. Confira-se a ementa do leading case, firmado em sede de repercussão geral (Tema 132):
+
+    “CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC 30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO.
+
+    I - O art. 78 do ADC possui a mesma mens legis que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente.
+
+    II - Não se mostra possível, em sede de recurso extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF.
+
+    III - A discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de legislação ordinária, que não dá ensejo à abertura da via extraordinária.
+
+    IV - Recurso extraordinário parcialmente provido.” (RE nº 590.751, Rel. Min. Ricardo Lewandowski , Tribunal Pleno, DJe de 1º/4/11). (Grifei).
+
+    Esta Corte também já pacificou o entendimento de que a condenação ao pagamento de juros moratórios firmada em sentença com trânsito em julgado não impede a incidência da jurisprudência deste Supremo Tribunal Federal, que afastou a caracterização da mora no prazo constitucional para pagamento de precatórios. Nesse sentido:
+
+    “CONSTITUCIONAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRECATÓRIO. INCIDÊNCIA DE JUROS MORATÓRIOS DURANTE O PRAZO CONSTITUCIONAL PARA PAGAMENTO. AFRONTA À JURISPRUDÊNCIA PACIFICADA DO SUPREMO TRIBUNAL FEDERAL, CONSUBSTANCIADA NA SÚMULA VINCULANTE 17. DESRESPEITO À COISA JULGADA. INOCORRÊNCIA. EMBARGOS DE DIVERGÊNCIA A QUE SE NEGA PROVIMENTO” (RE nº 652.059/RS-AgR-EDv, Tribunal Pleno, Relator o Ministro Alexandre de Moraes , DJe de 2/12/19).
+
+    “EMBARGOS DE DECLARAÇÃO. DIREITO CONSTITUCIONAL E ADMINISTRTATIVO. SERVIDOR PÚBLICO. CÁLCULO DA REMUNERAÇÃO. VINCULAÇÃO AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE. SENTENÇA TRANSITADA EM JULGADO ANTERIORMENTE À CONSTITUIÇÃO FEDERAL VIGENTE. INOPONIBILIDADE DA COISA JULGADA. INCIDÊNCIA DO ART. 17 DO ADCT. RATIFICAÇÃO DA JURISPRUDÊNCIA DESTA SUPREMA CORTE EM SEDE DE REPERCUSSÃO GERAL. TESE 380. DECLARATÓRIOS MANEJADOS SOB A VIGÊNCIA DO CPC/1973. 1. Reafirmada, em sede de repercussão geral, a jurisprudência desta Suprema Corte no sentido de que o art. 17 do ADCT alcança as situações jurídicas cobertas pela coisa julgada. 2. Nos termos da Súmula Vinculante 4: Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial. 3. A teor da Súmula Vinculante 17: Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos. 4. Embargos de declaração da União acolhidos, com excepcionais efeitos modificativos, para aplicar o entendimento desta Suprema Corte, cristalizado no enunciado da Súmula Vinculante 17, e consignar o total provimento do recurso extraordinário. Rejeitados os embargos de declaração de Alberto Sátiro Vasconcelos” (RE nº 600.658/PE-ED-segundos, Tribunal Pleno, Relatora a Ministra Rosa Weber , DJe de 18/12/19).
+
+    Ante o exposto, nos termos do artigo 932, inciso V, do Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015), dou parcial provimento ao recurso extraordinário para, nos termos da fundamentação, determinar a incidência dos juros moratórios somente após o período constitucional previsto no art. 100, § 5º, da Constituição Federal e determinar a não incidência dos juros moratórios e compensatórios durante o período de parcelamento estabelecido no art. 78 do Ato das Disposições Constitucionais Transitórias, sendo cabíveis os juros moratórios somente em caso de atraso no pagamento das parcelas e tão-somente a partir daí.
+
+    Publique-se.
+
+    Brasília, 13 de maio de 2024.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
