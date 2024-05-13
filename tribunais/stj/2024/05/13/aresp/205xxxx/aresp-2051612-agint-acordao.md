@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. DISCUSSÃO SOBRE INCIDÊNCIA DE JUROS DE MORA. VIOLAÇÃO DO ART. 489 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. NEGATIVA DE VIGÊNCIA AO ART. 1.022 DO CPC/2015. SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de negativa de prestação jurisdicional no acórdão recorrido, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ. E, no caso, a alegação de violação ao art. 1.022 do Código de Processo Civil se apresentou genérica, o que atrai a incidência da Súmula n. 284 do STF. Assim, fica inviabilizada a verificação da alegada omissão acerca do tema, cuja constatação é necessária, inclusive, para a eventual configuração do prequestionamento ficto de matéria estritamente jurídica, nos termos do art. 1.025 do Estatuto Processual.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por OURIVALDO COVRE contra decisão da Presidência do Superior Tribunal de Justiça, a qual conheceu do agravo para não conhecer do recurso especial (fls. 574-576).
+Em primeiro grau, a sentença que determinou a extinção da execução referente à incidência de juros de mora em continuação após a data da conta de liquidação, nos moldes dos artigos 924, inciso II, do CPC/2015. O TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO negou provimento ao apelo, em acórdão assim ementado (fl. 388):
+PROCESSUAL CIVIL. EXTINÇÃO DA EXECUÇÃO. JUROS DE MORA. INCIDÊNCIA APÓS A DATA DA CONTA DE LIQUIDAÇÃO. IMPOSSIBILIDADE. QUESTÃO DEFINIDA NO TÍTULO JUDICIAL. SALDO REMANESCENTE INEXISTENTE. APELAÇÃO DESPROVIDA.
+1. O Pleno do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 579.431/RS, submetido ao regime da repercussão geral, fixou a seguinte tese: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do termo final precatório". Entretanto, no caso dos autos, observa-se que o título executivo fixou o termo final para incidência de juros de mora, qual seja, a data da conta de liquidação, de modo que, em respeito à coisa julgada, não assiste razão aos recorrentes ao buscar a incidência de juros demora após tal data.
+2. Saldo remanescente inexistente.
+3. Apelação desprovida.
+Embargos de declaração, alegando ausência de análise de todos os argumentos trazidos capazes de modificar a decisão, em afronta ao disposto no art. 489, § 1º, incisos III e IV, do CPC/2015, foram opostos e rejeitados (fls. 420-424).
+O recurso especial, fundamentado na alínea a do permissivo constitucional, alega negativa de vigência ao disposto no art. 1.022 e 1.025 e afronta ao art. 489, § 1º, inciso III e IV, todos do CPC/2015, repisando a tese de que "a decisão ora impugnada não analisou o principal argumento trazido pelo apelante capaz de levar a uma outra solução" (fl. 448).
+Aduz, em suma, que "deve a sentença ser reformada, para determinar a expedição da requisição de pagamento suplementar (ou complementar) para pagamento dos juros da mora no período que vai da data da conta de liquidação até a data de entrada da requisição de pagamento no Tribunal" (fl. 451).
+O apelo foi inadmitido, na origem, por incidir o óbice da Súmula n. 83/STJ.
+Nesta Corte Superior, a Presidência considerou inadmissível o recurso porque:
+É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Outrossim, considerou que a tese de negativa de jurisdição não foi prequestionada.
+Nas razões deste agravo interno, pondera a parte agravante que "não aponta nenhuma violação ao alguns inciso do art. 1.022 do Código de Processo Civil, mas ao caput do artigo" (fl. 583). Aduz que a Súmula n. 211/STJ foi revogada pelo art. 1.025 do CPC/2015.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. DISCUSSÃO SOBRE INCIDÊNCIA DE JUROS DE MORA. VIOLAÇÃO DO ART. 489 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. NEGATIVA DE VIGÊNCIA AO ART. 1.022 DO CPC/2015. SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de negativa de prestação jurisdicional no acórdão recorrido, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ. E, no caso, a alegação de violação ao art. 1.022 do Código de Processo Civil se apresentou genérica, o que atrai a incidência da Súmula n. 284 do STF. Assim, fica inviabilizada a verificação da alegada omissão acerca do tema, cuja constatação é necessária, inclusive, para a eventual configuração do prequestionamento ficto de matéria estritamente jurídica, nos termos do art. 1.025 do Estatuto Processual.
+2. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+No caso, ao rejeitar os aclaratórios, a Corte Federal se limitou a consignar o seguinte (fls. 422-423):
+Somente podem ser opostos embargos de declaração quando na decisão atacada houver omissão quanto ao pedido ou obscuridade e/ou contradição em relação à fundamentação exposta, e não quando o julgado não acolhe os argumentos invocados pela parte ou quando esta apenas discorda do deslinde da controvérsia. Foi dito no voto:
+ ..
+Da leitura do voto verifica-se que a matéria em discussão foi examinada de forma eficiente, com apreciação da disciplina normativa e da jurisprudência aplicável à hipótese, sendo clara e suficiente a fundamentação adotada, respaldando a conclusão alcançada, não havendo, desse modo, ausência de qualquer pressuposto a ensejar a oposição do presente recurso.
+Pelas razões acima expostas, verifica-se que o pretendido efeito modificativo do julgado somente pode ser obtido em sede de recurso, não se podendo acolher estes embargos de declaração, por não se ajustar a formulação do Embargante aos seus estritos limites.
+Como se vê, o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de afronta ao art. 489, § 1º, inciso III e IV, do CPC/2015, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ. E, no caso, a alegação de violação ao art. 1.022 do Código de Processo Civil se apresentou genérica, o que atrai a incidência da Súmula n. 284 do STF. Assim, fica inviabilizada a verificação da alegada omissão acerca do tema, cuja constatação é necessária, inclusive, para a eventual configuração do prequestionamento ficto de matéria estritamente jurídica, nos termos do art. 1.025 do Estatuto Processual.
+Nesse sentido: AgInt no AREsp n. 1.624.032/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/12/2023, DJe de 11/12/2023.AgInt nos EDcl no AREsp n. 2.259.029/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.
+Ressalto que a Súmula n. 211/STJ continua vigente e que, como bem reconheceu a decisão agravada:
+ ..  A indicação genérica do artigo de lei que teria sido contrariado, quando ele contém desdobramentos em parágrafos, incisos ou alíneas, caracteriza defeito na fundamentação do recurso. No caso dos autos, embora a parte recorrente indique violação ao art. 1.022 do CPC/15, não especificou o inciso pelo qual interpôs os Aclaratórios. Dessa forma, incide a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.". Nesse sentido: AgInt no AREsp 1.891.310/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 24.3.2022; AgInt no AREsp 1.766.826/RS, Rel. Ministro Manoel Erhardt - Des. Convocado do TRF-5ª Região -, Primeira Turma, DJe 30.4.2021; e AgInt nos EDcl no REsp 1.861.453/RS, Rel. Ministro Luis Felipe Salomão, DJe de 18.3.2022.
+ ..  (EDcl no AgInt no REsp n. 1.940.076/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023; sem grifos no original.)
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
