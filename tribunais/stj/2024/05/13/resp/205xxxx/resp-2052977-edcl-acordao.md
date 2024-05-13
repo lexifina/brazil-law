@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 1868/1880) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONSIDERAÇÃO. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. AGRAVO INTERNO NÃO PROVIDO.1. Havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, fica caracterizada ofensa ao art. 1.022 do CPC/2015.2. Agravo interno não provido.
+O embargante sustenta que o v. acórdão embargada padece do vício da omissão, na medida em que a instância de origem procedeu com a distinção entre a ação ajuizada por Associação atuando como representante processual e o caso de substituição processual em mandado de segurança coletivo.
+Assevera, ainda, que o decisum possui a característica de ser ultra petita, diante da limitação dos fundamentos do recurso especial interposto pela União Federal, bem como não observou o instituto de preclusão.
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Consta do v. acórdão embargado o seguinte:
+Cinge-se a controvérsia, na origem, de apelação contra sentença que em sede de mandado de segurança denegou o requerimento de reconhecimento da inexistência de relação jurídico-tributária do recolhimento, pelos filiados da agravante, das contribuições previdenciárias incidentes sobre auxílio doença/acidente, terço constitucional de férias, aviso prévio indenizado, horas extras, adicional noturno, periculosidade, insalubridade, e de transferência, férias e salário maternidade, com compensação/restituição dos valores indevidamente pagos a este título, tendo em vista a ausência de interesse processual. O Tribunal a quo deu provimento ao apelo, afastando de extinção do processo sem julgamento do mérito em razão do reconhecimento da ilegitimidade da agravante, concedendo a segurança para afastar a exigibilidade da contribuição previdenciária sobre as verbas pagas a título aviso prévio indenizado, auxílio doença/acidente e terço constitucional de férias, senão vejamos  ..  Em que pese a argumentação da agravante, observa-se que na oportunidade da interposição do apelo nobre pela Fazenda Nacional há fundamentação acerca da eventual negativa de prestação jurisdicional pela Corte de origem quanto ao enfretamento da ausência de interesse de agir da agravante, em razão de suposto desvirtuamento da existência do ente associativo pela falta de representatividade e atuação de fachada. Portanto, não obstante do que constou do v. acórdão a quo verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação  ..  Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados, persistindo a omissão destacada. Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+Observa-se, que a questão foi apreciada de forma clara, adequada e suficiente acerca da negativa de prestação jurisdicional e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
