@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e OTÁVIO DE ALMEIDA TOLEDO (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo o enunciado na Súmula n. 545 desta Corte Superior: "Quando a confissão for utilizada para a formação d o convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+2. Uma vez que, no caso, os depoimentos prestados pelo agravante não foram utilizados para a formação do convencimento dos julgadores - que se valeram dos demais elementos fático-probatórios colacionados aos autos para concluir pela condenação -, não há como ser reconhecida, em sua favor, a atenuante da confissão espontânea.
+3. Agravo regimental não provido.
+RELATÓRIO
+GUILHERME EDUARDO MIGUEL interpõe agravo regimental contra decisão de minha relatoria, em que indeferi liminarmente o habeas corpus e, por conseguinte, mantive inalterada a reprimenda a ele imposta pela prática do crime de tráfico de drogas.
+A defesa reitera a sua compreensão de que "a confissão realizada em sede policial pelo Paciente foi considerada para a sua condenação e deve ser levada em consideração quando da fixação da pena imposta" (fl. 352).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja reconhecida, em favor do réu, a atenuante da confissão espontânea, compensando-a, por conseguinte, com a agravante da reincidência.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo o enunciado na Súmula n. 545 desta Corte Superior: "Quando a confissão for utilizada para a formação d o convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+2. Uma vez que, no caso, os depoimentos prestados pelo agravante não foram utilizados para a formação do convencimento dos julgadores - que se valeram dos demais elementos fático-probatórios colacionados aos autos para concluir pela condenação -, não há como ser reconhecida, em sua favor, a atenuante da confissão espontânea.
+3. Agravo regimental não provido.
+VOTO
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+Sobre a matéria posta em discussão, certo é que este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Exemplificativamente: HC n. 358.679/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 31/8/2016.
+Confira-se, ainda, o disposto na Súmula n. 545 desta Corte Superior: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+No entanto, verifico que, no caso, as instâncias ordinárias, em nenhum momento, fizeram menção às declarações prestadas pelo acusado para concluir pela sua condenação no tocante ao crime de tráfico de drogas. Ao contrário, o Juiz sentenciante consignou que, " e m seu interrogatório judicial, o réu negou os fatos e alegou que os entorpecentes encontrados em sua residência eram da época que exercia o tráfico, anterior à sua prisão tratada nestes autos. Contudo, após a sua soltura passou a laborar como pedreiro e não mais se envolveu com a venda de drogas, não tendo ciência de que as porções de "crack" estavam no imóvel. O dinheiro apreendido era proveniente de seu labor lícito" (fl. 264).
+O Tribunal de origem, por sua vez, asseverou que " e m juízo, negou a imputação. Sustentou que a droga encontrada em sua residência era da época em que praticava o tráfico, fatos anteriores à sua prisão prévia. Alegou que, após ser solto, passou a trabalhar como pedreiro e não mais se envolveu com a veda de drogas, querendo fazer crer que não tinha ciência de que as porções de "crack" estavam no imóvel. No mais, sustentou que o dinheiro encontrado era proveniente de seu trabalho lícito" (fl. 328).
+Ainda, fez menção ao fato de que "o apelante, na tentativa de infirmar sua responsabilidade pelo crime de tráfico, quando ouvido em juízo apresentou uma versão exculpatória em que alegou não ter ciência de que as porções da droga estavam em sua própria residência, fato que, além de inverossímil, mostrou-se inverídico diante do depoimento do policial Diego, que afirmou que a droga encontrava-se no sofá da sala de Guilherme, logo na entrada da residência, não estando ela, pois, sequer escondida" (fl. 330).
+Assim, uma vez que os depoimentos prestados pelo agravante não foram utilizados para a formação do convencimento dos julgadores - que, conforme visto, se valeram dos demais elementos fático-probatórios colacionados aos autos para concluir pela condenação -, entendo irretocável a conclusão do decisum ora recorrido de que não haveria como ser reconhecida, em sua favor, a atenuante da confissão espontânea.
+À vista do exposto, nego provimento ao agravo regimental.
