@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. VALIDADE DA CITAÇÃO. REVISÃO DO JULGADO QUE IMPORTA NECESSARIAMENTE NO REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. 3. OFENSA À COISA JULGADA. TESE NÃO CONHECIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A modificação do entendimento lançado no acórdão recorrido, quanto à validade da citação, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em recurso especial, consoante a Súmula n. 7 desta Corte.
+3. A alegada ofensa à coisa julgada não mereceu conhecimento pelo Tribunal de origem, tendo em vista que não foi submetida ao Juízo de primeiro grau, sob pena de supressão de instância.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Fundação Atlântico de Seguridade Social contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 1.109):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. AÇÃO DE COBRANÇA DE RESTITUIÇÃO DE VALORES DE PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. VALIDADE DA CITAÇÃO. REVISÃO DO JULGADO QUE IMPORTA NECESSARIAMENTE NO REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. 3. OFENSA À COISA JULGADA. TESE NÃO CONHECIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais (e-STJ, fls. 1.118-1.137), alega a insurgente a nulidade do acórdão recorrido pela negativa de prestação jurisdicional.
+Pugna pelo afastamento do óbice da Súmula 7 desta Corte, sob o argumento de que não é necessária a incursão da análise de documentos e questões fático-probatórias.
+Defende que as Fundações Sistel, 14 e Atlântico são três fundações distintas, com CNPJ diversos, sendo que as intimações foram remetidas para o endereço da Fundação Sistel, local no qual nunca funcionou a Fundação 14 de Previdência Privada, não podendo ser considerada como válida a citação em tal logradouro.
+Afirma que não há falar em supressão de instância, por se tratar de matéria de ordem pública cognoscível em qualquer grau de jurisdicional, consistente na ofensa à coisa julgada, porquanto o objeto da Ação de Prestação de Contas n. 2001.01.1.075226-7 é idêntico à lide em debate, devendo ser reconhecido que a agravada já recebeu a integralidade da correção monetária decorrente dos expurgos inflacionários sobre as contribuições vertidas ao plano de previdência complementar.
+Pleiteia, assim, a reforma da decisão agravada.
+Sem impugnação (e-STJ, fl. 1.140).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. VALIDADE DA CITAÇÃO. REVISÃO DO JULGADO QUE IMPORTA NECESSARIAMENTE NO REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. 3. OFENSA À COISA JULGADA. TESE NÃO CONHECIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A modificação do entendimento lançado no acórdão recorrido, quanto à validade da citação, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em recurso especial, consoante a Súmula n. 7 desta Corte.
+3. A alegada ofensa à coisa julgada não mereceu conhecimento pelo Tribunal de origem, tendo em vista que não foi submetida ao Juízo de primeiro grau, sob pena de supressão de instância.
+4. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+A agravante sustenta que ficou configurada a negativa de prestação jurisdicional, porquanto o colegiado local não se manifestou sobre o alegado vício da citação e ofensa à coisa julgada.
+No entanto, conforme registrado na decisão agravada, constata-se que o acórdão recorrido resolveu satisfatoriamente todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia - tendo apresentado os motivos pelos quais reconheceu a validade da citação - sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Essa é a conclusão que se depreende do que ficou registrado no acórdão recorrido (e-STJ, fls. 886-887 - sem grifo no original):
+O liquidado-agravante recorre da decisão que rejeitou o pedido formulado para reconhecimento de nulidade de sua citação na fase de conhecimento.
+A recorrente, Fundação Atlântico de Seguridade Social (sucessora da Fundação 14 de Previdência Privada), sustenta "a nulidade do feito por ausência de citação válida da Fundação 14, pois, como visto, a carta de citação e todas as intimações foram encaminhadas para o endereço da Fundação Sistel, onde jamais funcionou a Fundação 14." (f. 09)
+Pois bem.
+Apesar da irresignação da recorrente, tenho que não prospera a mencionada nulidade.
+Isso porque, do exame dos autos, tem-se a afirmação incontroversa da parte autora de que "a empresa SISTEL que foi sucedida pela Fundação 14, que depois foi sucedida pela FUNDAÇÃO ATLANTICO, evidente que a citação é válida, mesmo porque manteve seu endereço naquele local, não tomando as medidas necessárias para o recebimento de suas correspondências, no seu endereço que alega ser o Correto." (f. 633, na origem).
+Ou seja, a citação foi enviada para o endereço da empresa então parte legítima no feito, a qual foi posteriormente sucedida pela Fundação 14, a qual posteriormente sucedida pela Fundação Atlântico (ora recorrente).
+Ora, se essa cadeia de sucessões se tornar apta para inquinar os atos processuais, bastará aos réus se fazerem sucedidos o tempo todo e o feito estará sempre na iminência de ser invalidado.
+Nessa linha de entendimento, o Des. Dorival Renato Pavan já decidiu que "Se foi reconhecida a sucessão de empresas que impõe a responsabilidade da empresa sucessora pelos débitos existentes em nome da sucedida, a inclusão da empresa sucessora no pólo passivo de cumprimento de sentença não determina a sua citação, sendo válida a intimação para efetuar o pagamento do valor executado, mormente porque a execução poderá ser contestada por meio de impugnação ao cumprimento de sentença, conforme disposição da norma contida no art. 475-L do Código de Processo Civil." (TJMS. Agravo de Instrumento n. 4007365-76.2013.8.12.0000, Campo Grande, 4ª Câmara Cível, Relator (a): Des. Dorival Renato Pavan, j: 21/10/2013, p: 04/12/2013)
+Vale dizer, com a sucessão processual, assume a sucessora a qualidade de parte que litiga, agora, em nome próprio e por direito próprio, não havendo falar em nulidade de sua citação, por esta não ter ocorrido em seu nome próprio.
+Assentada essa premissa, tenho que também não há falar em nulidade da citação por conta de envio de endereço incorreto, isto é, de envio para endereço da Sistel, e não da Fundação.
+A uma porque o caso deve ser regido pela teoria da aparência, dadas as dificuldades impostas pelas requeridas, com mudanças de endereço, sucessões etc, sendo certo que a comunicação processual levada a cabo é de ser reputada válida.
+Não menos importante, o ordenamento jurídico, na forma de precedentes do STJ, inclusive, rejeita a chamada nulidade de algibeira, in verbis: ( )
+No caso, a Fundação 14 (sucedida pela recorrente) é que deveria ter alegado a nulidade da citação da Sistel, não sendo admissível "guardar no bolso" a alegação da nulidade para apenas quando da ocasião da nova sucessão (agora da Fundação 14 pela recorrente, Fundação Atlântico de Seguridade Social.)
+Portanto, sob qualquer prisma que se examine a questão, é de ser rejeitada a alegada nulidade da citação.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, em tais condições, não implica contrariedade ao art. 1.022, I e II, do CPC/2015.
+Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1.523.744/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meio dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIACOMPLEMENTAR. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES. PRAZO DE PRESCRIÇÃOTRIENAL. INAPLICABILIDADE. INCIDÊNCIA DO PRAZO GERAL DECENAL. IMPUGNAÇÃODA SÚMULA 568 DO STJ. PRECEDENTES ANTERIORES AOS MENCIONADOS NA DECISÃOAGRAVADA. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃODO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. AUSÊNCIADE VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA7 DO STJ.PREJUDICIALIDADE.(..)
+5. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art.1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+6. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+7. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+8. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+9. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes do STJ.
+10. Agravo interno não provido.(AgInt no REsp n. 1.748.394/SP, relatora Ministra Nancy Andrighi, TerceiraTurma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Por conseguinte, não há como desconstituir o entendimento delineado no acórdão impugnado (validade da citação), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Em relação à ocorrência de coisa julgada, consta do acórdão recorrido (e-STJ, fls. 857-859 - sem grifo no original):
+Defende a liquidada-agravante a existência de coisa julgada nos Autos n. 2001.01.1.075226-7,bem como a quitação de valores pleiteados pela agravada perante o Juízo da 20ª Vara Cível da Comarca de Brasília/DF,cujo objeto é o mesmo tratado na presente demanda.
+Como se sabe, as matérias que não tiverem sido submetidas e julgadas pelo Magistrado a quo não podem ser apreciadas pelo Julgador ad quem, sob pena de se incorrer em supressão de instância; o que, por sua vez, ensejaria afronta ao princípio do duplo grau de jurisdição.
+Desse modo, se eventual tese questionada no recurso ou em Contrarrazões não foi debatida perante a instância precedente, não cabe a esta Corte debruçar-se sobre o tema, para não suprimir uma instância.
+( )
+Na espécie, o Juízo a quo julgou prejudicada à análise das questões submetidas como preliminar afeta apenas ao processo de conhecimento, e não como objeto de defesa na fase de liquidação de sentença, postergando sua apreciação quando da intimação do agravante para manifestar-se nos moldes do artigo 510, do CPC (f.635-637 e 658-659, na origem).
+Logo, as questões suscitadas pela agravante (coisa julgada equitação de valores), ainda não foram apreciadas e decididas pelo Magistrado de primeiro grau, portanto também não podem ser analisadas neste recurso, sendo certo que seu enfrentamento, em sede recursal, implicará supressão de instância.
+Assim, neste ponto, o recurso não deve ser conhecido.
+Conforme se depreende dos autos, a alegada ofensa à coisa julgada não mereceu conhecimento pelo Tribunal de origem, tendo em vista que não foi submetida ao Juízo de primeiro grau, sob pena de supressão de instância.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. A pretensão recursal esbarra no óbice da Súmula 7 do STJ, máxime porque a análise acerca da violação ou não da coisa julgada não pode ser apreciado sem o revolvimento do acervo fático-probatório dos autos. Precedentes.
+3. O Tribunal estadual julgou a lide em conformidade com o entendimento desta Corte no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, não pode ser objeto de deliberação, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.931.075/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Desse modo, uma vez que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
