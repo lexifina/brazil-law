@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PODER DE POLÍCIA. ACÓRDÃO RECORRIDO COM FUNDAMENTO UNICAMENTE CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Da análise do acórdão do Tribunal de origem, verifica-se que o Juízo a quo apoiou-se apenas em fundamentação constitucional para dirimir a controvérsia - art. 5º, XL, da CRFB/88 e art. 9º do Pacto de São José da Costa Rica -, o que afasta a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça.
+2. O fato da matéria infraconstitucional ter sido suscitada pela parte não impede o não conhecimento do recurso especial, pois, para o cabimento do recurso, a Corte de origem deveria ter fundamento sua decisão nos dispositivos infraconstitucionais suscitados pela parte, o que não ocorreu no presente caso.
+3. Agravo interno não provido.
+RELATÓRIO
+AGÊNCIA NACIONAL DE TRANSPORTES - ANTT interpôs agravo interno contra decisão desta Relatoria assim ementada:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PODER DE POLÍCIA. ACÓRDÃO RECORRIDO COM FUNDAMENTO UNICAMENTE CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A parte agravante aduz que: a) o Supremo Tribunal Federal no Recurso Extraordinário 657.871- RG/SP (Tema 734), em caso análogo ao presente, definiu que a questão de aplicação de lei posterior mais benéfica quanto à sanção de natureza administrativa, aplicada em decorrência de prática de infração de trânsito, não tem repercussão geral, pois o tema é infraconstitucional; b) não havendo repercussão geral da questão por entender o STF que a questão é infraconstitucional/reflexa, é cabível o recurso especial para análise da alegação de violação as normas legais; c) a questão infraconstitucional como definido pelo STF, é cabível o recurso especial para conhecimento das violações à legislação infraconstitucional apontada como violada, no caso os artigos 1.º, 2.º e 6º, § 1.º, §2.º e §3.ºda Lei de Introdução ao Código Civil (Decreto-lei n. 4.657/42) e os artigos 22, IV, 44, IV e 26, IV da Lei n. 10.233/01.
+É relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PODER DE POLÍCIA. ACÓRDÃO RECORRIDO COM FUNDAMENTO UNICAMENTE CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Da análise do acórdão do Tribunal de origem, verifica-se que o Juízo a quo apoiou-se apenas em fundamentação constitucional para dirimir a controvérsia - art. 5º, XL, da CRFB/88 e art. 9º do Pacto de São José da Costa Rica -, o que afasta a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça.
+2. O fato da matéria infraconstitucional ter sido suscitada pela parte não impede o não conhecimento do recurso especial, pois, para o cabimento do recurso, a Corte de origem deveria ter fundamento sua decisão nos dispositivos infraconstitucionais suscitados pela parte, o que não ocorreu no presente caso.
+3. Agravo interno não provido.
+VOTO
+A insurgência não merece prosperar.
+No presente caso, o Tribunal de origem, ao decidir à controvérsia, concluiu, com fundamento no princípio geral do direito sancionador da retroatividade de lei mais benéfica, que a parte agravada deve ser punida com base no art. 36, I, da Resolução ANTT 5.847/2019, o qual modificou a redação do art. 36, I, da Resolução ANTT 4.799/2015, reduzindo o valor da penalidade de R$ 5.000,00 para R$ 550,00.
+Destaca-se o seguinte trecho do acórdão da Corte de origem (fls. 362-365 e-stj):
+(..) Ressalte-se, inicialmente, que a aplicação do princípio geral de direito sancionador da retroatividade de lei mais benéfica (que pode ser extraído do art. 5º, XL, da CRFB/88 e do art. 9º do Pacto de São José da Costa Rica) é matéria de ordem pública, que poderia ser conhecida até mesmo de ofício por este Tribunal, na medida em que o pedido de afastamento da multa imposta abrange a possibilidade de redução da sanção.
+No caso, a Apelante foi autuada por ter cometido, em 17/12/2015, a infração prevista no art. 36, I, da então vigente Resolução ANTT nº 4.799/2015, que previa:
+Art. 36. Constituem infrações, quando:
+I - o transportador, inscrito ou não no RNTRC, evadir, obstruir ou, de qualquer forma, dificultar a fiscalização durante o transporte rodoviário de cargas: multa de R$ 5.000,00 (cinco mil reais);
+Em seguida, foi editada a Resolução ANTT nº 5.847 de 21/05/2019 , que, alterando a redação do mencionado inciso I do art. 36, reduziu o valor da multa em questão de R$ 5.000,00 (cinco mil reais) para R$ 550,00 (quinhentos e cinquenta reais):
+Art. 36. Constituem infrações, quando:
+I - o transportador, inscrito ou não no RNTRC, obstruir ou, de qualquer forma, dificultar a fiscalização durante o transporte rodoviário de cargas: multa de R$ 550,00 (quinhentos e cinquenta reais);
+Portanto, cabe aplicar esta última norma à hipótese, como vem decidindo esta 7ª Turma Especializada:
+ADMINISTRATIVO E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - INFRAÇÃO À RESOLUÇÃO Nº 4.799/15 - NÃO APLICAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO - ILEGALIDADE DA INFRAÇÃO - NÃO-OCORRÊNCIA - NORMA MAIS BENÉFICA - RETROATIVIDADE - A ANTT detém competência para estabelecer padrões e normas técnicas complementares relativos às operações de transporte terrestre de cargas especiais e perigosas, bem como dispor sobre as infrações, sanções e medidas administrativas aplicáveis aos serviços de transportes, que lhe foi legalmente atribuída pela Lei nº 10.233 /2001.
+- Deve ser afastada a aplicação de infração de trânsito prevista no CTB, pois a fiscalização e a consequente autuação decorrem de norma específica da entidade autárquica (Resolução n 4.799/15 - ANTT), não se tratando de hipótese de infração de trânsito.
+- O auto de infração lavrado não está condicionado à existência de filmagem/gravação, fotos da infração, pois os atos administrativos gozam de presunção de legitimidade e veracidade.
+- O art. 5º, XL, da Constituição da República prevê a possibilidade de retroatividade da lei penal, sendo cabível extrair-se do dispositivo constitucional princípio implícito do Direito Sancionatório, segundo o qual a lei mais benéfica retroage no caso de sanções menos graves, como a administrativa (STJ - AgInt no REsp: 1602122 RS 2016/0134361-2, Relator: Ministra REGINA HELENA COSTA, Data de Julgamento: 07/08/2018, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 14/08/2018).
+- Recurso parcialmente provido.
+(TRF2, AC nº 5006350-86.2019.4.02.5002, 7ª Turma Especializada, Desembargador Federal Sergio Schwaitzer, por unanimidade, j. 02/02/2022)
+ADMINISTRATIVO. DIREITO SANCIONADOR. MULTA ADMINISTRATIVA. RESOLUÇÃO ANTT Nº 5847/2019. REDUÇÃO DO VALOR DA PENALIDADE PECUNIÁRIA. RETROATIVIDADE DA NORMA MAIS BENÉFICA. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. O princípio da retroatividade da lei mais benéfica, expressamente indicado no âmbito do Direito Penal (art. 5º, XL, CRFB/88) é aplicável no âmbito do Direito Administrativo Sancionador. Precedentes da 1ª Turma do STJ e desta 7ª Turma Especializada.
+2. No presente caso, com fundamento no art. 36, inciso I, da Resolução ANTT n.º 4.799/2015 - "obstruir ou de qualquer modo dificultar a fiscalização durante o transporte rodoviário de cargas" -, foram lavrados 61 (sessenta e um) autos de infração contra a embargante, tendo cada um deles cominado multa administrativa no valor de R$ 5.000,00 (cinco mil reais). Entretanto, foi editada a Resolução ANTT n.º 5.847/2019, que, dentre outras alterações, promoveu a redução do valor da penalidade prevista para a infração de obstruir ou de qualquer modo dificultar a fiscalização durante o transporte rodoviário de cargas (art. 36, I, Resolução ANTT n. 4.799/2015) de R$ 5.000,00 (cinco mil reais) para R$ 500,00 (quinhentos reais).
+3. Considerando que a Resolução ANTT n.º 5.847/2019 consiste em norma mais benéfica ao infrator, revela-se imperiosa a sua retroatividade para alcançar os autos de infração questionados na presente demanda, a teor do que dispõe o inciso XL do art. 5º da CF/88.
+4. Honorários recursais fixados em 10% (dez por cento) sobre a verba de advogado estabelecida na (e-STJ Fl.363) Documento recebido eletronicamente da origemsentença, os quais serão acrescidos a esta última verba.
+5. Apelo conhecido e desprovido.
+(TRF2, AC nº 5082005-87.2021.4.02.5101, 7ª Turma Especializada, Juíza Federal Marcella Araujo da Nova Brandao, por unanimidade, j. 08/06/2022) (destaquei)
+Verifica-se, da análise do acórdão do Tribunal de origem, que o Juízo a quo apoiou-se apenas em fundamentação constitucional para dirimir a controvérsia - art. 5º, XL, da CRFB/88 e art. 9º do Pacto de São José da Costa Rica -, o que afasta a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça.
+O fato da matéria infraconstitucional ter sido suscitada pela parte não impede o não conhecimento do recurso especial, pois, para o cabimento do recurso, a Corte de origem deveria ter fundamento sua decisão nos dispositivos infraconstitucionais suscitados pela parte, o que não ocorreu no presente caso.
+Diante desse cenário, competia a parte recorrente apresentar, nas razões do recurso especial, violação ao art. 1.022 do CPC, a fim de que fosse suscitada a avaliação de suposta negativa de prestação jurisdicional por parte do Tribunal de origem em razão da ausência de discussão de matéria considerada relevante pela parte para a solução da controvérsia. Permanecendo-se inerte quanto a tal providência, não há outro caminho senão o não conhecimento do recurso especial.
+Assim, a decisão recorrida deve ser mantida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
