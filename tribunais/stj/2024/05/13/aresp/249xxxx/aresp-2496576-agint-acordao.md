@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DOS PRESSUPOSTOS PARA CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, "O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário" (AgInt no AREsp n. 1.311.620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe de 14/12/2018).
+2. Na hipótese, o Tribunal de origem, soberano na análise das provas, reconheceu estarem comprovados os requisitos necessários para a concessão do benefício da assistência judiciária gratuita, de modo que alterar tal entendimento encontra óbice no enunciado da Súmula n. 7 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FUNDO DE PREVENCAO AO RISCO SISTEMICO DO SISTEMA SICOOB NORTE contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (fls. 168-172).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS assim ementado (fl. 44):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DO BENEFÍCIO DA JUSTIÇA GRATUITA. PARTE QUE NÃO POSSUI RECURSOS PARA PAGAR CUSTAS E DESPESAS PROCESSUAIS SEM PREJUÍZO DO PRÓPRIO SUSTENTO. INEXISTÊNCIA DE ELEMENTOS CAPAZES DE AFASTAR A PRESUNÇÃO DE HIPOSSUFICIÊNCIA. RECURSO CONHECIDO E PROVIDO. DECISÃO REFORMADA.
+1. A concessão do beneficio da justiça gratuita somente pode ser indeferida pelo Magistrado se houver nos autos elementos que permitam o descortinamento da presunção relativa que traz da declaração de hipossuficiência, devendo, anteriormente, oportunizar a parte a prévia manifestação, sob pena de violação ao principio da não surpresa e do art. 99, §2 2 , do CPC.
+2. Inexistentes quaisquer elementos que apontem a existência de situação apta a responsabilizar a parte pelas custas e despesas processuais, deve ser mantida a presunção relativa legal da norma capitulada, concedendo-se o beneficio perseguido.
+Rejeitados os embargos de declaração opostos (fls. 75-78).
+Nas razões do agravo interno, alega a agravante que "o que se busca é a revaloração de fatos incontroversos descritos e tratados no Acórdão recorrido, o que não se confunde com o reexame de fatos e reanálises de provas inseridas no bojo dos autos" (fl. 182).
+Aduz, ainda, que "A súmula 7 do STJ é clara, impedido a possibilidade de reexame de prova em sede de recurso especial, o que não se trata o presente caso, pois a agravante tenta sanar uma infringência infraconstitucional, especificamente, os arts. 99, § 2º e 1022 do CPC, pois há clara demonstração de que não há critérios para o deferimento da justiça gratuita. Diante disso, requer a procedência do presente agravo interno, devendo dar seguimento ao STJ do Recurso Especial apresentado pela agravante, pois não infringiu a Sumula 7 do STJ" (fl. 183).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, silenciou.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DOS PRESSUPOSTOS PARA CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, "O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário" (AgInt no AREsp n. 1.311.620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe de 14/12/2018).
+2. Na hipótese, o Tribunal de origem, soberano na análise das provas, reconheceu estarem comprovados os requisitos necessários para a concessão do benefício da assistência judiciária gratuita, de modo que alterar tal entendimento encontra óbice no enunciado da Súmula n. 7 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme demonstrado na decisão agravada, "O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário" (AgInt no AREsp 1311620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018).
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A jurisprudência desta Corte firmou o entendimento de que a autodeclaração de hipossuficiência, realizada por quem pretende ser beneficiário da justiça gratuita, possui caráter relativo, admitindo-se a denegação, pelo juízo competente, diante de provas dos autos em sentido contrário. Precedentes.
+2. O entendimento preconizado nesta Corte, nos termos da Súmula 481/STJ, é no sentido de que: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3. No caso, rever a conclusão do acórdão recorrido quanto à suficiência dos documentos apresentados para comprovação da hipossuficiência, bem como quanto à capacidade da parte recorrente de, sem prejuízo do seu próprio sustento, custear as despesas do processo em curso, implica o reexame das provas dos autos, providência vedada pela Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.274.157/RN, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Na espécie, o Tribunal de origem, considerando as circunstâncias do caso concreto, consignou que "não há elementos indiciários que permitam concluir nesta fase inaugural pela possibilidade de indeferimento do benefício perseguido, sendo prudente a sua concessão, sem prejuízo de posterior reanálise, caso esta se mostre pertinente" (fl. 47).
+Logo, modificar a conclusão a que chegou o Tribunal de Justiça do Estado do Amazonas requer, necessariamente, o reexame de fatos e provas, o que é vedado, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+A propósito, cito :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA DE VERACIDADE. MATÉRIA COGNOSCÍVEL DE OFÍCIO. PRECEDENTES. SÚMULA 83/STJ. REVISÃO DOS PRESSUPOSTOS PARA CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. NÃO PROVIDO.
+1. Esta Corte Superior possui firme o entendimento no sentido de que: "O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário" (AgInt no AREsp 1311620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, Dje 14/12/2018).
+2. A reapreciação de matéria no âmbito do recurso especial, de modo a infirmar os pressupostos adotados na Corte Local, quanto à suficiência econômica da requerente, a fim de reconhecer o benefício da gratuidade de justiça, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.(AgInt no REsp n. 2.061.951/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
