@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de tutela de urgência, ajuizada por M E B N (MENOR), representada por S A N C, em face da agravante, na qual alega - em síntese - que possui plano de saúde com a requerida e que necessita com urgência realizar procedimento cirúrgico e, diante da negativa injustificada da ré, viu-se obrigada a deixar o hospital em que se encontrava e procurar vaga para internação.
+Acórdão recorrido: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE - Contrato em período de carência - Necessidade de realização de procedimento cirúrgico - Recusa injusta à cobertura - Autora acometida com "Hepatoblastoma", necessitando de tratamento quimioterápico - Período de carência que deve ser desconsiderado em hipóteses de urgência e emergência - Inteligência do art. 12, V, "c", da Lei nº 9.656/98, bem como da Súmula 103, TJSP e Súmula 597, STJ - Honorários Advocatícios corretamente arbitrados por equidade em razão do valor baixo da causa - Tema 1.076 do STJ - Sentença Mantida - Recurso Desprovido. (e-STJ, fl. 194)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial, em razão da:
+i) ausência de violação dos arts. 104, 138 e 166, todos do CC/02, 1º, 12 e 35- C, todos da Lei 9.656/98;
+ii) incidência da Súmula 7/STJ;
+iii) ausência de interesse recursal, em relação à alegação de violação do art. 85, §2º, do CPC; e
+iv) ausência de demonstração de similitude fática entre os acórdãos confrontados para fins de comprovação de dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz:
+i) " (..) resta evidenciado ao longo do presente recurso que em nenhum momento a Agravante busca a reanálise de provas, mas sim, tão somente a aplicação da lei civilista em relação a um contrato bilateral, bem-feito e acabado, pactuado por partes capazes e suficientes, em contrapartida à Sumula 7 do Superior Tribunal de Justiça." (e-STJ, fl. 267); e
+ii) que "(..) o órgão julgador TJ/SP, entendeu que diante da obrigatoriedade de fornecer tratamento durante o prazo de carência, a negativa se revela abusiva, ao contrário do acórdão do TJMA que primeiramente revelou entendimento diverso acerca do cumprimento da cláusula de carência, pois estando diante da obrigatoriedade do cumprimento do prazo previsto em contrato, não há o que se falar em violação da cláusula de carência." (e-STJ, fl. 277), bem como que "(..) Já no tocante aos honorários, o órgão julgador TJ/SP, entendeu que os honorários foram corretamente arbitrados (por equidade), o TJGO entende claramente que os honorários advocatícios devem ser fixados nos termos do artigo 85, §2º do CPC, não sendo possível mensurá-los de acordo com o valor da causa. Portanto, em contramão ao acórdão paragonado, o acórdão paradigma esposa o melhor entendimento afastando os danos morais diante da negativa de atendimento por incidência de carência no plano de saúde."(e-STJ, fl. 277).
+Parecer do Ministério Público Federal: de lavra do i. Subprocurador-Geral da República Renato Brill de Góes, opinou pelo não conhecimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) ausência de violação dos arts. 104, 138 e 166, todos do CC/02, 1º, 12 e 35- C, todos da Lei 9.656/98;
+ii) incidência da Súmula 7/STJ; e
+iii) ausência de interesse recursal, em relação à alegação de violação do art. 85, §2º, do CPC.
+Em relação aos óbices referentes à ausência de violação dos arts. 104, 138 e 166, todos do CC/02, 1º, 12 e 35- C, todos da Lei 9.656/98, e à ausência de interesse recursal, em relação à alegação de violação do art. 85, §2º, do CPC, verifica-se, em detida análise dos autos, que a parte agravante transcreve, de forma literal, as razões do recurso especial, de forma combater, em verdade, o acórdão prolatado pelo TJ/SP e não a decisão de inadmissibilidade do recurso especial prolatada da Presidência do referido Tribunal.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.500,00 (mil e quinhentos reais) - e-STJ fl. 197 - para R$ 2.000,00 (dois mil reais), observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
