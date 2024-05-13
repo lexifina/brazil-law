@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBS CURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos pela GREEN TRANSPORTE DE CARGAS E LOCAÇÕES LTDA. contra decisão de minha relatoria cuja ementa restou vazada nos seguintes termos:
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVOEM RECURSO ESPECIAL. PODER DE POLÍCIA. SANÇÃO ADMINISTRATIVA. ANTT. ACÓRDÃO COM FUNDAMENTAÇÃO INFRA E CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.1. Levando em consideração que o acórdão do Tribunal de origem, ao decidir a controvérsia, amparou-se em fundamentos constitucional e infraconstitucional, independentes e aptos, por si só, para manter a decisão, cabia a recorrente a interposição recurso extraordinário a fim de impugnar a motivação constitucional - a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.2. Verifica-se a ausência de manifestação da Corte de origem sobre a tese recursal com enfoque nos dispositivos legais tido por violados, restando, pois, caracterizada a ausência de prequestionamento.3. Esta Corte não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.4. A recorrente não impugnou, nas razões do recurso especial, os fundamentos do acórdãoa quo, o que atrai a incidência da Súmula 283/STF:"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".5. Agravo interno não provido.
+Nas razões dos aclaratórios, alega a embargante, em síntese, que o acórdão embargado incorreu em determinadas omissões que devem ser saneadas, mais precisamente quanto à não aplicação da Súmula 126 do STJ no caso concreto e quanto aos fundamentos constantes no acórdão a quo, os quais foram devidamente abarcados no recurso especial interposto.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBS CURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece acolhimento.
+Os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade dos fatos postos nos autos.
+Ocorre que a decisão embargada posicionou-se de forma clara, adequada e suficiente acerca do tema que lhe foi submetido.
+Não obstante os argumentos do embargante, constou expressamente da decisão embargada que:
+(..) levando em consideração que o acórdão, ao decidir a controvérsia, amparou-se em fundamentos constitucional e infraconstitucional, independentes e aptos, por si só, para manter a decisão, cabia a recorrente a interposição recurso extraordinário a fim de impugnar a motivação constitucional.
+Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+Ademais, o acórdão do Tribunal de origem não enfrentou os dispositivos legais apontados como violados - arts. 926 do CPC e 2º do CPP-, de modo que deve ser mantido o óbice da Súmula 282/STF.
+Apesar do tema retroação de lei ter sido tratado no acórdão do Juízo a quo,verifica-se ausência de manifestação da Corte de origem sobre a tese recursal com enfoque nos dispositivos legais tido por violados, restando, pois, caracterizada a ausência de prequestionamento.
+Cumpre ressaltar que esta Corte não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido. Nesse sentido:
+AMBIENTAL E PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOS ARTS. 799 E 879, III, DO CPC. MATÉRIA NÃO PREQUESTIONADA. SÚMULA 211/STJ.1. Recurso especial em que se discute a ocorrência de inovação ilegal no estado de fato e sobre os limites do poder geral de cautela do magistrado - arts. 799 e 879 do CPC.2. O prequestionamento implícito ocorre quando a matéria jurídica vinculada no recurso tenha sido efetivamente enfrentada e discutida no acórdão impugnado, ainda que este não tenha mencionado expressamente os artigos de lei objeto do inconformismo.3. A alegada violação de norma federal não foi objeto de prequestionamento pelo Tribunal de origem, sequer de forma implícita. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211 do STJ.
+Agravo regimental improvido. (AgRg no REsp 1354955/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/05/2015, DJe 19/05/2015)
+Ressalta-se ainda que que a agravante não impugnou os fundamentos do acórdão a quo especificados acima, o que atrai a incidência da Súmula 283/STF:"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+Infere-se das razões dos aclaratórios a nítida pretensão da parte embargante de provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC/2015, não é compatível com o recurso protocolado.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Advirto a parte que a reiteração de pretensão recursal anteriormente à unanimidade rejeitada, poderá ensejar a aplicação da multa por litigância de má-fé, nos termos do artigo 1.026, § 2º, do CPC/2015.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
