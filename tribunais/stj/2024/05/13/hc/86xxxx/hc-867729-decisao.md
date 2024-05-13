@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSE WILSON NASCIMENTO DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Recurso em Sentido Estrito n. 5003338-37.2021.8.21.0021).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 33 da Lei n. 11.343/2006, à pena de 7 anos, 6 meses e 20 dias de reclusão, no regime inicial semiaberto.
+O Tribunal de origem deu parcial provimento ao recurso de apelação da defesa para reduzir a pena.
+Alega a defesa, na presente impetração, que o acusado teria direito à redução da pena, na terceira fase da dosimetria, na fração máxima do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Liminar indeferida (e-STJ fls. 1.498/1.499).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 1.571/1.573).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na espécie, assim consignou o Tribunal de origem (e-STJ fl. 1.490, grifei):
+Em relação ao réu JOSÉ, a basilar foi fixada acertadamente em 05 anos e 08 meses pela valoração da natureza da droga, nos termos do art. 42 da Lei nº 11.343/06, uma vez que "apreendida droga conhecida como "Skunk", qual seja, o produto da cruza de mais de uma espécie de Cannabis, resultante naquilo que se conhece como "super maconha", droga que, além de ser dotada de maior potencial enebriante, também é mais cara e reverte maior lucro aos traficantes", como bem fundamentado no ato sentencial.
+A seguir, ausentes agravantes ou atenuantes.
+Na terceira etapa, vai mantido o aumento da pena no equivalente a 1/3, pela incidência da majorante prevista no art. 40, inciso V, da Lei de Drogas. Ainda, reconhecida a incidência do privilégio legal, reduzo a pena em 1/6, mesmo patamar aplicado aos corréus, em razão da exacerbada quantidade de drogas transportada - mais de oitenta quilos.
+Em sendo assim, diante da ausência de outras causas de aumento e diminuição, a pena definitiva segue redimensionada para 06 anos, 03 meses e 16 dias de reclusão, no regime semiaberto.
+A pena de multa foi fixada em 550 dias-multa, à razão unitária mínima, o que segue conservado, porque proporcional à pena corporal.
+Pois bem.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Conforme destacado pelas instâncias ordinárias, as circunstâncias do caso concreto permitem a conclusão de que o paciente exerceu o papel de "mula" do tráfico, o que, consoante a jurisprudência desta Corte, justifica a concessão da minorante.
+No entanto, ainda que não haja indicação de integração à organização criminosa, o transportador tem perfeita consciência de estar a serviço de um grupo dessa natureza, o que não pode ser desprezado, razão pela qual, segundo a jurisprudência consolidada desta Corte Superior, o paciente faz jus à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração mínima de 1/6 (um sexto), tal como idoneamente aplicado pelas instâncias ordinárias.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DE ENTORPECENTES. CIRCUNSTÂNCIAS DO DELITO. MOTIVAÇÃO VÁLIDA. ACRÉSCIMO PROPORCIONAL. CONDIÇÃO DE MULA. REDUTOR PREVISTO NO ART. 33, § 4.º, DA LEI N. 11.343/2006. APLICAÇÃO NA FRAÇÃO DE 1/6 (UM SEXTO). AUSÊNCIA DE ILEGALIDADE. MAJORANTE DO ART. 40, INCISO V, DA LEI N. 11.343/2006. FRAÇÃO JUSTIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o aumento de 2 (dois) anos e 6 (seis) meses efetivado na primeira fase da dosimetria revela-se proporcional e fundamentado, considerando-se a motivação apresentada (valoração de duas circunstâncias judiciais negativas - art. 42 da Lei n. 11.343/2006 e as circunstâncias do delito, as quais envolveram o transporte do entorpecente previamente oculto em uma carga de madeira) e a pena abstratamente cominada para o crime: cinco a quinze anos de reclusão.
+2. Nos termos da orientação firmada nesta Corte Superior de Justiça, o fato de o Acusado ostentar a condição de "mula" do tráfico justifica a aplicação da fração mínima (1/6 - um sexto) do redutor previsto no art. 33, § 4.º, da Lei de Drogas, dada a maior gravidade da conduta decorrente do exercício dessa função de transporte.
+3. A aplicação da causa de aumento do art. 40, inciso V, em sua fração de 2/3 (dois terços), no caso, encontra amparo na orientação deste Tribunal, fixada no sentido de que, " u ma vez caracterizado o tráfico entre estados da Federação ou entre estes e o Distrito Federal - circunstância que atrai a incidência da majorante prevista no inciso V do art. 40 -, a distância percorrida e/ou o número de fronteiras ultrapassadas pelo agente podem lastrear a escolha da fração de aumento de pena decorrente da interestadualidade do delito" (AgRg no HC 588.019/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 06/04/2021, DJe de 14/04/2021).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 782.526/RS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO MINISTERIAL. TRÁFICO DE DROGAS. QUANTIDADE DE DROGA. PRESSUPOSIÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONDIÇÃO DE MULA DO TRÁFICO. MINORANTE FIXADA NO PATAMAR DE 1/6. CABIMENTO. AGRAVO DESPROVIDO.
+1. Nos termos do entendimento desta Corte, a condição de "mula" justifica a incidência do redutor em seu mínimo legal. Com efeito, embora tal condição, por si só, não afaste a incidência do art. 33, § 4º, da Lei n. 11.343/2006, pode autorizar a aplicação da causa de diminuição em 1/6, pois, mesmo como transportador, o réu se deixou cooptar pelo tráfico.
+2. A quantidade de drogas apreendidas (1,625kg de maconha, na forma de 2 tijolos, e 1.040kg de maconha, na forma de 312 tijolos e mais 39 fardos) justifica a incidência da redutora em 1/6, dado o reconhecimento da condição de mula.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 815.626/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTO QUE, ISOLADO, NÃO É IDÔNEO PARA O AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÍNIMA. CONDIÇÃO DE MULA. FUNDAMENTO CONCRETO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A quantidade de droga apreendida, embora seja bem relevante, não pode ser considerada, isoladamente, para a conclusão de que o acusado se dedica ao tráfico de drogas.
+2. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do RESP n. 1.887.511/SP, no qual se consolidou o entendimento de que a quantidade e a variedade dos entorpecentes somente podem ser consideradas na primeira fase da dosimetria da pena, bem como que a utilização supletiva desses elementos só pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+3. De acordo com o acórdão recorrido, especialmente a circunstância em que foi contratado para transportar a droga mediante promessa de pagamento, demonstra que o Agravante, na verdade, atuou na condição de "mula", devendo ser atribuída a adequada qualificação jurídica ao quadro fático delineado no julgado combatido.
+4. O Superior Tribunal de Justiça firmou o entendimento de que "a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o agravante faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez se reveste de maior gravidade" (AgRg no AREsp 1.534.326/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/9/2019, DJe 24/9/2019).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.898.671/MS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022, grifei.)
+Não verifico, portanto, flagrante ilegalidade, nada havendo o que ser reparado por esta Corte Superior.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
