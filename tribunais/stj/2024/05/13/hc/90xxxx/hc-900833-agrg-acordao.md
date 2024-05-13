@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/06 CP. BUSCA PESSOAL. FUNDADAS SUSPEITAS. DENÚNCIA ANÔNIMA ESPECIFICADA. TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A busca pessoal é regida pelo art. 244, do Código de Processo Penal. Exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, a medida é válida quando for determinada no curso de busca domiciliar.
+2. No caso, a busca pessoal está fundada em "denúncia anônima especificada" que corresponde a verificação detalhada das características descritas do paciente e do local onde se encontrava. Desse modo a denúncia anônima foi minimamente confirmada, sendo que a busca pessoal (revista) traduziu em exercício regular da atividade investigativa promovida pela autoridade policial, o que justificou a abordagem após a confirmação das características pessoais relatadas na denúncia apócrifa.
+3. Devidamente justificada a ação policial, não há que se falar em ilicitude das provas dela decorrentes, tampouco no trancamento da ação penal pleiteado com base em tal fundamento.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOÃO VITOR DOS SANTOS contra decisão monocrática, da minha lavra, que não conheceu do mandamus.
+O agravante reitera, em síntese, que ilícita a busca pessoal, realizada sem fundadas suspeitas, o que enseja o reconhecimento da ilicitude das provas e consequente trancamento da ação penal.
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/06 CP. BUSCA PESSOAL. FUNDADAS SUSPEITAS. DENÚNCIA ANÔNIMA ESPECIFICADA. TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A busca pessoal é regida pelo art. 244, do Código de Processo Penal. Exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, a medida é válida quando for determinada no curso de busca domiciliar.
+2. No caso, a busca pessoal está fundada em "denúncia anônima especificada" que corresponde a verificação detalhada das características descritas do paciente e do local onde se encontrava. Desse modo a denúncia anônima foi minimamente confirmada, sendo que a busca pessoal (revista) traduziu em exercício regular da atividade investigativa promovida pela autoridade policial, o que justificou a abordagem após a confirmação das características pessoais relatadas na denúncia apócrifa.
+3. Devidamente justificada a ação policial, não há que se falar em ilicitude das provas dela decorrentes, tampouco no trancamento da ação penal pleiteado com base em tal fundamento.
+4. Agravo regimental improvido.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, consta da decisão monocrática a seguinte fundamentação (e-STJ fls. 61/63):
+A Corte local, ao examinar a alegação defensiva, consignou que (e-STJ fls. 17/19):
+O trancamento da ação penal não se justifica.
+Isso porque o trancamento de uma ação penal é uma medida de natureza excepcional e só pode ser admitida quando evidente o constrangimento ilegal sofrido, o que não se verifica na hipótese dos autos.
+Consta que no dia 8 de julho de 2023, o Paciente foi surpreendido trazendo consigo 13 (treze) porções de cocaína, com peso bruto de 8,17 g, após policiais militares receberem informação anônima de que o Paciente estaria no local da abordagem praticando o tráfico ilícito.
+Ao chegarem no local dos fatos, os policiais avistaram um indivíduo indo em direção ao Paciente, contudo, ao notar a presença policial, evadiu-se correndo. E ao abordarem o Paciente, localizaram na capinha dos óculos dele as drogas apreendidas.
+Pois bem.
+Pela narrativa acima, a abordagem policial se deu após os policiais visualizaram um suposto usuário de drogas indo na direção do Paciente, provavelmente para adquirir substância entorpecente, e sair correndo ao notar a presença policial.
+A denúncia anônima de que o Paciente estava no local praticando conduta ilícita foi confirmada com a apreensão da droga, após os policiais abordarem o Paciente ante a conduta suspeita do indivíduo que fugiu correndo.
+Sobre o tema há decisão recentíssima do STJ:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL EM VIA PÚBLICA. FUNDADAS SUSPEITAS E APREENSÃO DE ENTORPECENTES. JUSTA CAUSA DECORRENTE DE CONTEXTO PRÉVIO. DESCONSTITUIÇÃO DAS CONCLUSÕES DA INSTÂNCIA ORDINÁRIA QUE DEMANDA APROFUNDADO REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO. 1. Nos termos do art. 240, § 2º, do Código de Processo Penal - CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de drogas, objetos ou papéis que constituam corpo de delito.
+Restou evidenciada a justificativa para a abordagem do réu (decorrente de contexto prévio de fundadas razões), a qual teve início a partir do momento em que os policiais militares se deslocaram até um bar alvo de denúncias anônimas e, quando chegaram, diversos indivíduos começaram a sair correndo do estabelecimento. Ao abordarem dois dos sujeitos, localizaram duas porções de crack com eles, os quais afirmaram que a droga seria comercializada. Dada a voz de prisão a ambos, os agentes retornaram ao bar e revistaram Eduardo, ocasião em que após ser franqueado aos Policiais o acesso ao celular, houve a descoberta de troca de mensagens sobre venda de entorpecentes com outra corré. 2. Para desconstituir as conclusões da instância ordinária a respeito da dinâmica dos fatos que culminaram na busca pessoal ou a autorização dada aos policiais para acesso ao aparelho celular no qual foram descobertas conversas travadas entre o paciente e a corré demandaria aprofundado revolvimento fático- probatório, procedimento vedado na via estreita do habeas corpus. 3.
+Agravo regimental desprovido (STJ, AgRg no HC 848750 / PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/03/2024).
+De qualquer forma, apenas a título de argumentação, mesmo que houvesse alguma irregularidade no flagrante, a mesma estaria superada pela decisão que converteu a prisão em flagrante em preventiva.
+ .. .
+Por fim, sabe-se que no habeas corpus é vedada a dilação probatória e, pelo que depreende, a existência ou não de justa causa para a persecução penal somente poderá ser declarada após profunda incursão fático-probatória, procedimento inadmissível na via estreita do habeas corpus, caso contrário poder-se-ia invadir o mérito da causa, a ser analisado no bojo da instrução criminal.
+Assim, denega-se a ordem.
+Ademais, extrai-se do depoimento do policial militar que participou do flagrante, que as informações davam conta que um rapaz de cútis preta, estatura alta, o qual usa brinco na orelha esquerda (e-STJ fl. 39) estava no local antes referido praticando tráfico.
+Oportuno registrar, ainda, parcial teor do boletim de ocorrência, onde consta que os policiais Receberam informação de um popular que, o investigado estava a caminho da praça central, especificamente no Bar denominado Tchay, onde costuma realizar a venda de substância entorpecente. No trajeto, policiais avistaram João Vítor e outro indivíduo, mas ao perceber a aproximação da viatura, o indivíduo se evadiu do local. Realizaram a abordagem junto ao investigado e em revista pessoal, localizou na cintura uma capinha de óculos contendo 13 pinos de substância sugestiva para cocaína (e-STJ fl. 29).
+Como visto, pela leitura atenta dos excertos acima transcritos, constata-se que a ação policial foi motivada por informações concretas e precisas no sentido de que havia uma pessoa praticando tráfico em via pública, com indicação precisa do local - bar Tchay, a caminho da praça central.
+Tem-se manifesta, dessa forma, a existência de fundadas razões para a abordagem do paciente, uma vez que os policiais, após receberem referida denúncia, visualizaram um suposto usuário de drogas indo na direção do Paciente, provavelmente para adquirir substância entorpecente, e sair correndo ao notar a presença policial. Somente então os policiais abordaram o paciente, quando encontraram com ele a droga apreendida. Desse modo, a busca pessoal traduziu exercício regular da atividade investigativa promovida pela autoridade policial.
+Não se vislumbra, portanto, qualquer ilegalidade na atuação dos policiais, "amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso". (AgRg no HC n. 832.832/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+De fato, nas palavras do Ministro Gilmar Mendes, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC 229.514/PE, julgado em 28/8/2023).
+Portanto, uma vez afastada a ilicitude das provas decorrente da busca pessoal no paciente, não há que se falar em trancamento da ação penal.
+Pelo exposto, não conheço do mandamus.
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
