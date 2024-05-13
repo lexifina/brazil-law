@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  RESPONSABILIDADE  CIVIL.  AÇÃO  DE  INDENIZAÇÃO.  IMPUGNAÇÃO  AO  CUMPRIMENTO  DE  SENTENÇA.  CONCESSIONÁRIA.  CONDENAÇÃO  SOLIDÁRIA.  EXCESSO  DE  EXECUÇÃO.  NÃO  CARACTERIZAÇÃO.  MULTA.  ART.  523,  §  1º,  DO  CPC.  AFASTAMENTO.  IMPOSSIBILIDADE.  MATÉRIA  FÁTICO-PROBATÓRIA.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  rever  a  conclusão  do  tribunal  de  origem  ,  que  entendeu  que  não  houve  excesso  de  execução,  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+2.  A  multa  a  que  se  refere  o  art.  523  do  Código  de  Processo  Civil  será  excluída  apenas  se  o  executado  depositar  voluntariamente  a  quantia  devida  em  juízo,  sem  condicionar  seu  levantamento  a  qualquer  discussão  do  débito.
+3.  O  tribunal  de  origem  manteve  a  incidência  da  multa  por  entender  que  o  valor  depositado  não  corresponde  a  integralidade  da  dívida.  A  reforma  do  julgado  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  COMPANHIA  DE  SEGUROS  ALIANÇA  DO  BRASIL  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  (e-STJ  fls.  311/315  )  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  da  incidência  das  Súmulas  nº  7/STJ  e  nº  284/STF.
+Nas  presentes  razões  (e-STJ  fls.  321/326  ),  a  parte  agravante  postula  o  afastamento  dos  óbices  das  referidas  súmulas,  bem  como  o  afastamento  da  multa  prevista  no  art.  523,  §  1º,  do  Código  de  Processo  Civil,  na  medida  em  que  restou  realizado  o  depósito  de  valores  quando  da  intimação  ao  cumprimento  de  sentença.
+Sustenta  que
+"(..)  a  questão  levantada  se  refere  a  limitação  da  solidariedade  imposta  na  decisão  transitada  em  julgado,  pois  o  acórdão  da  fase  de  conhecimento  determinou  a  solidariedade  entre  a  parte  Rodovia  das  Cataratas  e  CBEMI,  bem  como  da  recorrente  com  a  Rodovia  das  Cataratas,  portanto  em  que  pese  a  Rodovia  das  Cataratas  ter  depositado  na  origem  o  valor  integral  de  50%  da  condenação,  na  verdade,  sua  responsabilidade  é  de  25%  ao  passo  que  os  outros  25%  são  de  responsabilidade  da  CBEMI  e  assim  resta  limitada  a  responsabilidade  da  recorrente.
+Desse  modo,  esta  seguradora  também  está  limitada  a  25%  da  condenação,  ou  seja,  50%  do  cálculo  da  condenação  pecuniária  suportada  pela  Rodovia  das  Cataratas,  e  por  esta  razão  houve  o  depósito  da  condenação  principal  no  montante  de  R$  85.477,21,  conforme  mov.  288  (autos  0000096-43.2000.8.16.0115).
+Neste  sentido  a  decisão  recorrida  ofende  o  artigo  275  do  CC,  visto  que  a  solidariedade  da  seguradora  recorrente  é  limitada  a  responsabilidade  da  parte  RDC,  que  é  de  50%  junto  à  CBEMI,  portanto  25%,  portanto  limitada  a  responsabilidade  solidária  da  recorrente".
+Impugnação  às  e-STJ  fls.  333/345.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  RESPONSABILIDADE  CIVIL.  AÇÃO  DE  INDENIZAÇÃO.  IMPUGNAÇÃO  AO  CUMPRIMENTO  DE  SENTENÇA.  CONCESSIONÁRIA.  CONDENAÇÃO  SOLIDÁRIA.  EXCESSO  DE  EXECUÇÃO.  NÃO  CARACTERIZAÇÃO.  MULTA.  ART.  523,  §  1º,  DO  CPC.  AFASTAMENTO.  IMPOSSIBILIDADE.  MATÉRIA  FÁTICO-PROBATÓRIA.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  rever  a  conclusão  do  tribunal  de  origem  ,  que  entendeu  que  não  houve  excesso  de  execução,  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+2.  A  multa  a  que  se  refere  o  art.  523  do  Código  de  Processo  Civil  será  excluída  apenas  se  o  executado  depositar  voluntariamente  a  quantia  devida  em  juízo,  sem  condicionar  seu  levantamento  a  qualquer  discussão  do  débito.
+3.  O  tribunal  de  origem  manteve  a  incidência  da  multa  por  entender  que  o  valor  depositado  não  corresponde  a  integralidade  da  dívida.  A  reforma  do  julgado  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Como  consignado  na  decisão  atacada,  a  Corte  de  origem  afastou  o  excesso  de  execução  e  manteve  a  aplicação  da  multa  do  art.  523,  §  1º,  do  Código  de  Processo  Civil  com  base  nos  seguintes  fundamentos  :
+"(..)
+O  caso  é  de  manter  a  decisão  agravada.
+Verifica-se  que  a  condenação  da  seguradora  e  da  Construtora  Brasileira  e  Mineradora  Ltda-  CBEMI  foram  solidárias  a  concessionária.
+Todavia,  como  a  seguradora  restringiu-se  ao  pagamento  de  apenas  parte  da  condenação  a  concessionária  segurada  precisou  arcar  com  o  saldo  remanescente,  sendo  que  neste  momento  está  pleiteando  a  devolução  do  valor  pago,  com  fulcro  no  artigo  275  do  Código  Civil.
+Explico,  como  a  condenação  foi  de  forma  solidária,  a  concessionária  tem  direito  de  exigir  e  de  receber  de  um  ou  de  vários  devedores  a  divida  comum,  não  afastando  o  eventual  direito  de  regresso,  nos  termos  do  artigo  275  do  Código  Civil.
+No  presente  caso,  verifica-se  que  o  saldo  quitado  pela  concessionária  não  extrapola  os  limites  da  apólice.
+Ademais,  o  pagamento  do  saldo  devedor  não  afasta  o  eventual  direito  de  regresso  da  seguradora  em  face  da  construtora  denunciada
+(..)  Veja-se  que,  neste  momento,  não  se  fala  em  qualquer  em  excesso  de  execução,  vez  que  a  condenação  foi  de  forma  solidária,  sendo  que  a  concessionária  tem  direito  de  receber  de  um  ou  de  vários  devedores  a  dívida  comum,  não  afastando  o  eventual  direito  de  regresso.
+(..)  No  que  tange  ao  pleito  de  afastamento  da  multa  e  honorários  do  artigo  523,  §1º  do  CPC,  cumpre-se  mencionar  que  para  afastar  a  incidência  de  tal  previsão  é  necessário  o  pagamento  espontâneo  integral  do  valor  debatido.
+Entretanto,  conforme  destacado  pelas  partes,  o  agravante  tão  somente  pagou  parcialmente  o  valor  que  a  concessionária  agravada  (segurada)  foi  condenada.
+(..)  Quanto  a  incidência  de  multa,  também  se  mostra  acertada  a  decisão  agravada  vez  que  o  valor  depositado  não  corresponde  a  integralidade  da  dívida,  conforme  fundamentado"  (e-STJ  fls.  201/203  -  grifou-se).
+Desse  modo,  ainda  que  não  seja  o  caso  de  aplicação  da  Súmula  nº  284/STF,  o  acolhimento  da  pretensão  recursal  mostra-se  inviável  ante  a  natureza  excepcional  da  via  eleita,  a  teor  do  disposto  na  Súmula  nº  7/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PRINCÍPIO  DA  COLEGIALIDADE.  VIOLAÇÃO.  AUSÊNCIA.  CUMPRIMENTO  DE  SENTENÇA.  IMPUGNAÇÃO.  PRECLUSÃO.  EXCESSO  DE  EXECUÇÃO.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  DISPOSITIVOS  DE  LEI.  PARTICULARIZAÇÃO.  AUSÊNCIA.  SÚMULA  Nº  284/STF.
+1.  No  caso,  não  há  falar  em  violação  do  princípio  da  colegialidade,  pois,  a  teor  do  disposto  nos  artigos  932,  III  e  VIII,  do  Código  de  Processo  Civil  e  253,  parágrafo  único,  II,  alínea  "a",  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  na  apreciação  do  agravo  em  recurso  especial  o  relator  poderá,  monocraticamente,  deixar  de  conhecer  de  recurso  especial  inadmissível.
+2.  Nos  termos  da  Súmula  nº  7/STJ,  não  cabe,  em  recurso  especial,  o  reexame  de  fatos  e  de  provas.
+3.  Na  hipótese,  a  preclusão  consumativa  e  a  ausência  de  excesso  de  execução  foram  decididos  pelo  tribunal  de  origem  à  luz  do  conjunto  fático-probatório  dos  autos,  o  que  inviabiliza  o  recurso  especial  em  virtude  do  disposto  na  Súmula  nº  7/STJ.
+4.  A  mera  referência  a  diversos  dispositivos  de  lei  federal,  sem  a  devida  especificação  daquele  que  teria  sido  violado,  é  circunstância  que  impede  o  conhecimento  do  recurso  especial,  em  razão  do  óbice  da  Súmula  nº  284/STF.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.402.316/SP,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  13/11/2023,  DJe  de  17/11/2023).
+"AGRAVO  INTERNO.  TÍTULO  EXTRAJUDICIAL.  EXECUÇÃO.  OMISSÃO  NO  ACÓRDÃO  DE  ORIGEM.  NÃO  OCORRÊNCIA.  PRINCÍPIO  DA  NÃO  SURPRESA.  AUSÊNCIA  DE  OFENSA.  CLÁUSULA  PENAL.  INCIDÊNCIA.  EXCESSO  DE  EXECUÇÃO.  OCORRÊNCIA.  REEXAME  DE  PROVAS.  SÚMULAS  5  E  7/STJ.  NÃO  PROVIMENTO.
+1.  Se  as  questões  trazidas  à  discussão  foram  dirimidas,  pelo  Tribunal  de  origem,  de  forma  suficientemente  ampla,  fundamentada  e  sem  omissões,  obscuridades  ou  contradições,  deve  ser  afastada  a  alegada  ofensa  ao  art.  1.022  do  CPC/15.
+2.  O  "fundamento"  ao  qual  se  refere  o  art.  10  do  CPC/2015  é  fundamento  jurídico  -  circunstância  de  fato  qualificada  pelo  direito,  em  que  se  baseia  a  pretensão  ou  a  defesa,  ou  que  possa  ter  influência  no  julgamento,  ainda  que  diversos  dos  apresentados  pelas  partes  -  desde  que  embasado  em  provas  submetidas  ao  contraditório.
+3.  Não  cabe,  em  recurso  especial,  reexaminar  matéria  fático-probatória  e  interpretar  cláusulas  contratuais  (Súmulas  5  e  7/STJ).
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.337.212/RJ,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  19/3/2024,  DJe  de  22/3/2024).
+"AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AGRAVO  DE  INSTRUMENTO.  REPRESENTAÇÃO  COMERCIAL.  CUMPRIMENTO  PROVISÓRIO  DE  SENTENÇA.  OFERTA  DE  SEGURO  GARANTIA.  PAGAMENTO  VOLUNTÁRIO  NÃO  CONFIGURADO.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC/2015.  ERRO  DE  FATO  NÃO  CONFIGURADO.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  O  ENTENDIMENTO  FIRMADO  NO  STJ.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  IMPOSSIBILIDADE.  SÚMULAS  7  E  568  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  NÃO  PROVIDO.
+1.  Se  as  questões  trazidas  à  discussão  foram  dirimidas,  pelo  Tribunal  de  origem,  de  forma  suficientemente  ampla,  fundamentada  e  sem  omissões,  deve  ser  afastada  a  alegada  violação  aos  arts.  489  e  1.022  do  Código  de  Processo  Civil/2015.
+2.  A  jurisprudência  do  STJ  firmou-se  no  sentido  de  que  a  multa  a  que  se  refere  o  art.  523  do  Código  de  Processo  Civil/2015  será  excluída  apenas  se  o  executado  depositar  voluntariamente  a  quantia  devida  em  juízo,  sem  condicionar  seu  levantamento  a  qualquer  discussão  do  débito.  Precedentes.
+3.  Não  cabe,  em  recurso  especial,  reexaminar  matéria  fático-probatória  (Súmula  7  do  STJ).
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.067.003/RS,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  26/9/2022,  DJe  de  30/9/2022).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
