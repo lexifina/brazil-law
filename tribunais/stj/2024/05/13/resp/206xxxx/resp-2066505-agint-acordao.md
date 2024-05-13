@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Teodoro Silva Santos.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ALUNO MILITAR. TEMPO DE SERVIÇO. HORAS-AULA. CÔMPUTO. RECURSO ESPECIAL PROVIDO. ORIENTAÇÃO CONTIDA NO ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM QUE DIVER GE DO ENTENDIMENTO DESTA CORTE SUPERIOR. SUPOSTA REVOGAÇÃO DO ART. 63, PARÁGRAFO ÚNICO, DA LEI N. 4.375/1964. INOVAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Consoante destacado na decisão impugnada, a orientação contida no acórdão proferido pelo Tribunal de origem diverge do entendimento desta Corte Superior, segundo o qual o tempo de serviço prestado como aluno de órgão de formação da reserva será computado em 1 (um) dia de trabalho a cada 8 (oito) horas de instrução, nos termos dos arts. 63 da Lei n. 4.375/1964 e 134 da Lei n. 6.880/1980.
+2. Não se m ostra possível analisar em agravo interno matéria não suscitada nas contrarrazões ao recurso especial (suposta revogação do art. 63, parágrafo único, da Lei n. 4.375/1964), por se tratar de inovação recursal. Na hipótese, a parte agravante sequer apresentou contrarrazões ao apelo nobre.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALVARO JOSE CECCHETTO contra decisão proferida pela Ministra Assusete Magalhães que deu provimento ao recurso especial interposto pela parte ora agravada, nos termos do art. 255, § 4.º, inciso III, do RISTJ (fls. 300-304).
+Neste agravo interno, a parte recorrente defende que, "nos termos da lei, adota-se para a contagem do tempo de serviço no caso em tela, a sistemática de cálculo elencada nos arts. 134 caput e arts. 135, 136 da Lei n. 6.880/80" (fl. 316).
+Argumenta que o art. 63, parágrafo único, da Lei n. 4.375/1964 "é incompatível com a redação do §2º do art. 134 da Lei 6.880/80, pois a lei posterior revogou a anterior na forma do art. 2º § 1º do Decreto-Lei 4.657/42" (fl. 317).
+Sustenta que o art. 134, § 2.º, da Lei n. 6.880/1980 não se aplica na hipótese, pois o agravante "estava na ativa e plenamente disponível ao exército em período integral quando da realização do curso" (fl. 318).
+Alega que "no período em que o Agravante esteve incorporado às Forças Armadas (20/02/1984 a 22/12/1984), não se enquadrava em nenhuma das hipóteses de inatividade" (fl. 319).
+Aduz que "deve ser computado integralmente o período em que prestou serviço às Forças Armadas, da mesma forma que os demais colegas de armas, em respeito ao princípio da isonomia" (fl. 322).
+Assevera que inexiste ofensa ao art. 136, § 2.º, da Lei n. 6.880/1980 e aos arts. 24, 98 e 191, § 2.º, 2, do Decreto n. 57.654/1966.
+Argumenta que "o tempo de serviço deve ser integralmente computado, na forma dia a dia, não importando para o cálculo a carga horária a que era submetido, tendo em vista a sua condição de militar na ativa quando da realização do curso" (fls. 323-324).
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Segunda Turma desta Corte Superior.
+A impugnação ao agravo interno foi apresentada às fls. 332-335 .
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ALUNO MILITAR. TEMPO DE SERVIÇO. HORAS-AULA. CÔMPUTO. RECURSO ESPECIAL PROVIDO. ORIENTAÇÃO CONTIDA NO ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM QUE DIVER GE DO ENTENDIMENTO DESTA CORTE SUPERIOR. SUPOSTA REVOGAÇÃO DO ART. 63, PARÁGRAFO ÚNICO, DA LEI N. 4.375/1964. INOVAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Consoante destacado na decisão impugnada, a orientação contida no acórdão proferido pelo Tribunal de origem diverge do entendimento desta Corte Superior, segundo o qual o tempo de serviço prestado como aluno de órgão de formação da reserva será computado em 1 (um) dia de trabalho a cada 8 (oito) horas de instrução, nos termos dos arts. 63 da Lei n. 4.375/1964 e 134 da Lei n. 6.880/1980.
+2. Não se m ostra possível analisar em agravo interno matéria não suscitada nas contrarrazões ao recurso especial (suposta revogação do art. 63, parágrafo único, da Lei n. 4.375/1964), por se tratar de inovação recursal. Na hipótese, a parte agravante sequer apresentou contrarrazões ao apelo nobre.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+A decisão impugnada está assim fundamentada (fls. 301-304; grifos no original):
+Com efeito, é firme o entendimento no âmbito desta Corte, no sentido de que "o tempo de serviço como aluno de órgão de formação da reserva é computado, apenas, para fins de inatividade na base de 1 dia para cada período de 8 horas de instrução" (STJ, AgInt no AREsp 270.218/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 24/10/2016).
+ ..
+No caso, o Tribunal de origem manteve a sentença que concedeu a segurança, nos seguintes termos:
+"O impetrante ajuizou o presente "mandamus", objetivando que lhe seja expedida certidão de tempo de serviço militar com a contagem integral do tempo de serviço prestado no Curso de Preparação de Oficiais da Reserva do Exército - 10 meses.
+O ponto controverso paira na contagem de tempo de serviço prestado pelos alunos nos Centros ou Núcleos de Preparação de Oficiais da Reserva, se deve ser computado de forma integral, por dia trabalhado, ou somente considerada a carga horária.
+(..)
+Em rápida leitura da legislação supra, tenho que a contagem do tempo de serviço prestado por alunos dos Centros/Núcleos de Preparação de Oficiais da Reserva deve ser computada de maneira integral, independentemente da carga horária a qual era submetida o aluno, posto que a contagem de 01 dia para cada 08 horas de serviço prestado somente se aplica em hipótese de inatividade.
+Portanto, deve ser mantida a sentença de procedência, negando provimento ao apelo e à remessa oficial" (fls. 178/180e).
+Desse modo, o acórdão regional ao manter a sentença que concedeu a segurança, ao argumento de que a contagem do tempo de serviço prestado pelos alunos dos centro/núcleos de preparação de oficiais da reserva deve ser computada de maneira integral, independente da carga horária a qual era submetida o aluno, destoou do entendimento dominante desta Corte, impondo-se, portanto, a sua reforma, com base na Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de denegar a segurança.
+Inicialmente, cumpre registrar que não deve ser conhecida a alegação de que o art. 63, parágra fo único, da Lei n. 4.375/1964 foi revogado pelo art. 134, § 2.º, da Lei n. 6.880/1990. Consoante orientação desta Corte Superior, não se mostra possível analisar em agravo interno matéria não suscitada nas contrarrazões ao apelo raro, por se tratar de inovação recursal. Na hipótese, a parte agravante sequer apresentou contrarrazões ao recurso especial (fls. 233 e 240).
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. IMPROCEDÊNCIA DO PEDIDO. RECURSO ESPECIAL. NÃO CONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. INOVAÇÃO RECURSAL. HONORÁRIOS RECURSAIS. CABIMENTO. ART. 85, § 11, DO CPC.
+ ..
+III - É inviável a análise de tese acerca do quantum fixado para os honorários advocatícios não suscitada no recurso especial nem nas contrarrazões por se tratar de evidente inovação recursal (AgInt nos EDcl no AREsp 1.496.470/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/8/2020, DJe 3/9/2020.)
+ ..
+VI - Agravo interno improvido. (AgInt no AREsp n. 2.189.598/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/6/2023, DJe de 29/6/2023; sem grifos no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. DISTRIBUIDORA DE MEDICAMENTOS. MANUTENÇÃO DE PROFISSIONAL FARMACÊUTICO. OBRIGATORIEDADE. PRECEDENTES. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. "É defeso à parte inovar em sede de agravo interno, apresentando tese não arguida nas contrarrazões ao apelo especial, no caso, nem sequer apresentadas, dada a preclusão consumativa". (AgInt no REsp n. 1.958.604/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/2/2022, DJe de 18/2/2022.)
+ ..
+4. Agravo interno não provido. (AgInt no AREsp n. 2.164.720/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023; sem grifos no original.)
+De outra parte, como destacado na decisão impugnada, a orientação contida no acórdão proferido pelo Tribunal de origem diverge do entendimento desta Corte Superior, segundo o qual "o tempo de serviço prestado como aluno de órgão de formação da reserva será comput ado em 1 dia de trabalho a cada 8 horas de instrução" (AgInt no REsp n. 2.071.751/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Com igual conclusão:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. ALUNO MILITAR. CURSO DE PREPARAÇÃO DE OFICIAIS. CERTIDÃO DE TEMPO DE SERVIÇO. HORAS-AULAS. CÔMPUTO. RECURSO ESPECIAL PROVIDO. ENTENDIMENTO PACÍFICO DESTA CORTE SUPERIOR. CADA OITO HORAS DE INSTRUÇÃO CORRESPONDE A UM DIA DE TEMPO DE SERVIÇO. ARTS. 63 DA LEI 4.375/1964 E 134 DA LEI 6.880/1980. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado pela parte Agravante em que se postula a retificação da certidão de tempo de serviço militar para a inclusão da integralidade do período prestado como aluno no Núcleo de Preparação de Oficiais da Reserva - NPOR.
+2. O Tribunal Regional, ao dirimir a controvérsia, consignou que "(. ..) o tempo de serviço prestado pelos alunos dos Centros de Preparação de Oficiais da Reserva (CPOR ou NPOR) deve ser integralmente computado, na forma dia a dia, não importando para o cálculo a carga horária a que era submetido o aluno, pois sua condição de militar é ínsita à inscrição, à frequência e ao próprio tempo pelo qual esteve incorporado ao curso de preparação" (fl. 114, e-STJ).
+3. A decisão monocrática proferida às fls. 237-239, e-STJ, embora questionada pela insurgente, aplicou entendimento pacificado nesta Corte no sentido de reconhecer ao Militar que foi aluno de Curso Preparatório de Oficiais da Reserva que o tempo de serviço prestado será computado como de 1 (um) dia de trabalho para cada 8 (oito) horas de instrução, conforme se depreende da dicção legal dos arts. 63 da Lei 4.375/1994 e 134 da Lei 6.880/1980.
+4. De modo contrário ao entendimento pacífico desta Corte Superior, a insurgente reclama que o cômputo do tempo de serviço prestado pelos militares a título de Curso Preparatório de Oficiais da Reserva deve equivaler ao formato dia a dia, ou seja, independentemente da quantidade de horas-aula ministradas, merece ser reconhecido um dia de tempo de serviço prestado às Forças Armadas, sob pena de violação do princípio da isonomia.
+5. Não merece reparo o decisum que deu provimento ao Recuso Especial. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, suficientemente fundamentada e em consonância com jurisprudência pacífica deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+6. Agravo Interno não provido. (AgInt no REsp n. 2.054.910/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023; sem grifos no original.)
+ADMINISTRATIVO. MILITAR. FORMAÇÃO. CONTAGEM DE TEMPO DE SERVIÇO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535/1022 DO CPC/2015. INEXISTENTE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 134, §2º, DA LEI N. 6.880/80 E 63 DA LEI N. 4.375/64. VIOLAÇÃO. EXPRESSA DISPOSIÇÃO LEGAL. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELO PROVIMENTO DO RECURSO ESPECIAL. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE.
+ ..
+IV - Todavia, segundo entendimento pacífico desta Corte, o art. 63 da Lei n. 4.375/64 prevê, expressamente, que o período em que o Militar foi aluno em Curso Preparatório de Oficiais da Reserva será computado em 1 dia de trabalho a cada 8 horas de instrução.
+V - A mesma previsão está contida no art. 134 da Lei n. 6.880/80, que dispõe que o tempo de serviço como aluno de órgão de formação da reserva é comput ado, apenas, para fins de inatividade na base de 1 dia para cada período de 8 horas de instrução. Nesse sentido: AgInt no AREsp 270.218/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 11/10/2016, DJe 24/10/2016.
+VI - Ante o exposto, com as ressalvas do entendimento pessoal deste relator e curvando-me a jurisprudência desta Corte, deve ser dado provimento ao recurso especial para afastar a contagem do tempo de serviço e denegar a segurança.
+VII - Recurso especial conhecido e provido para denegar a segurança. (REsp n. 1.876.297/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/4/2022, DJe de 7/4/2022; sem grifos no original.)
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
