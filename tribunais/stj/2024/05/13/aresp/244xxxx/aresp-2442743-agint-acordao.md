@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESOLUÇÃO DE CONTRATO CUMULADA COM COBRANÇA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 5 e 7 do STJ quando as teses defendidas pela no recurso especial - descumprimento contratual, incidência de multa contratual e ausência de boa-fé -implicarem, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+2. A incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ÁGUA NOBRE DISTRIBUIDORA DE BEBIDAS LTDA. contra decisão de fls. 732-737 que negou provimento ao agravo ante a incidência das Súmulas n. 5 e 7 do STJ e 282 do STF.
+Nas razões do presente recurso, a parte agravante sustenta que a pretensão recursal prescinde de reanálise de provas e interpretação de cláusulas contratuais, não incidindo na espécie os óbices da Súmulas n. 5 e 7 do STJ.
+Aduz o seguinte (fls. 757-759):
+Excelência, o objeto central deste recurso envolve a aplicação do contrato firmado entre as partes, em especial aplicação da multa contratual pelo descumprimento causado pela agravada, de modo que não se está discutindo interpretação de cláusula contratual, como determina a súmula 5.
+Ou seja, o direito da agravante se demonstra de maneira clara pelos seguintes pontos: (i) Houve quebra contratual por parte da agravante, em especial, violação a cláusula de exclusividade entre as partes (cláusula 2.8); (ii) A agravante buscou no Poder Judiciário a rescisão contratual, em razão dos descumprimentos praticados pela agravada;(iii) O contrato firmado entre as partes previa em sua cláusula 7 há hipótese de rescisão contratual por inadimplemento de qualquer uma das cláusulas, tendo por consequência aplicação de multa correspondente à média das últimas 3 (três) notas fiscais emitidas; (iv) A sentença de primeiro grau reconheceu a rescisão contratual, contudo, deixou de aplicara multa contratual prevista.
+Desta forma, o que se busca com o presente recurso é a aplicação do contrato firmado entre as partes, em especial, as consequências nele previstas nos casos de inadimplemento das cláusulas.
+Sendo assim, não trata-se de hipótese de simples interpretação de cláusula contratual e, por esta razão, o recurso não está violando a cláusula 5 do STJ.39.
+Na sequência, este recurso especial também não envolve o simples reexame de prova, na medida em todas as provas que demonstram o direito da agravante estão pré-constituídas, tornando-se fato incontroverso nos autos.
+ ..
+Excelência, este inadimplemento contratual é fato incontroverso nos autos, inclusive por meio de confissão da agravada, ou seja, não há que se falar em simples reexame de prova neste caso.41.
+Além disto, o contrato celebrado entre as partes era de "contrato de fornecimento de gás liquefeito de petróleo -GLP e comodato de equipamentos". Neste instrumento, a cláusula 5.1 determinava que vasilhames seriam adquiridos pela agravante à título de comodato..
+Desta forma, os vasilhames seriam adquiridos pela agravante, mas seriam de propriedade da parte agravada, pois estariam em comodato a agravante, conforme determina disposição contratual..
+Assim, além da previsão contratual, esta negociação foi registrada por meio de conversas de whatsapp, devidamente registradas em cartório por meio de ata notarial. Ocorre que a agravante adquiriu os vasilhames com seus recursos próprios, no valor total de R$ 9.662,06 (nove mil seiscentos e sessenta e dois reais e seis centavos) e não foi reembolsada pela agravada, tendo em vista que estavam em sua pose precária, à título de comodato.
+Em suma, a agravada -explicitamente -violou as seguintes cláusulas contratuais: (1.1)quanto ao mínimo de GLP que deveria, obrigatoriamente, ser fornecido a agravante; (2.8)quanto a exclusividade no fornecimento de GLP a agravante e (5.1) quanto ao comodato dos vasilhames.
+No mesmo sentido, a cláusula 7 (sete) deste mesmo contrato, determinava a rescisão contratual nos casos de inadimplemento de qualquer uma das cláusulas e, consequentemente, a aplicação de multa contratual nesses casos.
+Aduz ainda (fl. 760):
+Diante o exposto, é possível notar que este recurso especial não violada as súmulas 5 e 7 do STJ, portanto, deve ser admitido.
+A mais, a agravante agiu de boa-fé em toda relação contratual e o mesmo não ocorreu por parte da agravada, na medida em que não lhe o descumprimento contratual por ela praticado, teve por consequência a oneração excessiva do contrato, o levando a rescisão.
+Ainda, a agravante tentou rescindir o contrato administrativamente, mas não obteve sucesso, o que novamente demonstra a má-fé da agravada nesta relação contratual.
+Afirma que todas as teses forma devidamente prequestionadas.
+E, finalmente, alega a ocorrência de dissídio jurisprudencial.
+Requer, assim, o provimento do agravo interno.
+Impugnação pela parte agravada às fls. 911-914
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESOLUÇÃO DE CONTRATO CUMULADA COM COBRANÇA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 5 e 7 do STJ quando as teses defendidas pela no recurso especial - descumprimento contratual, incidência de multa contratual e ausência de boa-fé -implicarem, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+2. A incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada adotou a fundamentação a seguir (fls. 732-737):
+Na origem a ação de rescisão contratual c/c indenização por perdas e danos foi julgada parcialmente procedente.
+Inconformada, a parte autora apelou. O Tribunal de origem, soberano na interpretação de cláusulas contratuais e na análise dos fatos e provas dos autos, concluiu que não fora comprovado o inadimplemento da parte ré.
+Confira-se excerto do acórdão (fls. 344-348):
+Para melhor compreensão desta lide, faço um breve retrospecto dos fatos relevantes, que culminaram no ajuizamento desta ação.
+Na data de 24/04/2018, as partes firmaram "contrato de fornecimento de gás liquefeito de petróleo - GLP e de comodato de equipamentos"(mov. 1.5).
+Extrai-se da inicial que o autor atua na comercialização de Gás Liquefeito de Petróleo há 10 (dez) anos. Acreditando que uma parceria com a empresa Ultragaz S/A poderia trazer benefício aos seus negócios, celebrou o contrato de comodato com cláusula de exclusividade.
+Narra ainda que, é de protocolo no meio de comercialização de GLP o comodato de vasilhames, entretanto, o contrato em questão não apresenta nenhuma unidade de vasilhames em comodato. Por esta razão, em tratativas por meio de aplicativo de mensagens WhatsApp, ficou acordado entre as partes que o autor iria adquirir os vasilhames e, em seguida, encaminharia as notas fiscais para obter o ressarcimento dos valores, no entanto, isso não aconteceu.
+Informa que o réu se comprometeu a disponibilizar canais de vendas online pelo aplicativo Ultragaz Connect, que nunca funcionou. Além disso, o autor gastou R$ 1.200,00 (mil e duzentos reais) com a confecção de 6 (seis) mil imãs da Ultragaz para distribuição de brindes.
+Assim, em decorrência da conduta da ré, em 16/10/2018, o autor solicitou a rescisão do contrato de comodato. Por fim, o autor entende que a multa contratual (cláusula 7.2) deve ser aplicada em desfavor à ré/apelada, posto que foi esta quem descumpriu o ajuste.
+Vejamos.
+A parte apelante alega que a quebra de contrato decorreu exclusivamente de condutas da apelada. Sustenta que as obrigações contratuais não se restringem às cláusulas do contrato assinado, pois as tratativas posteriores via aplicativo de mensagens (whatsapp) revelam manifesta vontade das partes, o que também representa forma de assumir uma obrigação.
+Afirma ainda que os danos patrimoniais visíveis são representados pelos valores de R$ 9.662,06 (nove mil, seiscentos e sessenta e dois reais e seis centavos), referente aos vasilhames e R$ 1.200,00 (mil e duzentos reais), representando a compra dos imãs em nome da apelada.
+Pois bem.
+Considerando que o objeto principal do processo diz respeito à existência de promessas firmadas após a assinatura do contrato, tem-se que é ônus da parte autora demonstrar a existência desses acordos e comprovar o descumprimento da parte ré. Por sua vez, deve a parte ré comprovar que realizou os procedimentos dos seus serviços de acordo com a melhor diligência, seguindo as regras devidas para o objeto contratado e que não é responsável pelos danos alegados. Isso é o que determina o art. 373 do Código de Processo Civil.
+No caso dos autos, ao analisar as provas, verifica-se que a demonstração dos supostos acordos firmados ente as partes após a assinatura do contrato, restringiu-se na ata notarial com mensagens via whatsapp (mov. 1.2) e prova testemunhal (mov. 112.2 a 112.5).
+Ainda que o autor tenha diligenciado na produção da Ata Notarial e na oitiva das testemunhas, tais indicativos não foram suficientes para demonstrar que, de fato, a ré se comprometeu a disponibilizar os vasilhames em regime de comodato e o sistema de venda on-line. Isso porque, as conversas apresentadas via whatsapp, são curtas, em teor superficial e não deixam claro a existência de acordo realizado fora do contrato em questão.
+Em sede de depoimento pessoal, a parte autora afirmou que não existe previsão contratual sobre a disponibilização dos vasilhames (P13 e P45), que isso somente ocorreu por meio de conversas via whatsapp (mov. 112.2).
+O Sr. Alvarides Garcia Romero (representante da ré), em sede de depoimento pessoal (mov. 112.3), afirmou que a negociação dos vasilhames foi realizada entre o autor e a empresa Vidal Gás, ou seja, um terceiro estranho a lide (mov. 1.12).
+Cabe ressaltar ainda que, o informante Danilo Rodrigo Miqueletto (consultor da Ultragaz), esclareceu que todas as alterações contratuais são realizadas por meio de aditivo. Bem como, informa que o serviço de venda on-line é firmado por meio de contrato de adesão (mov. 112.5).
+Deste modo, a ação carece de prova robusta, pois ausente documento apto para comprovar que a ré se comprometeu a disponibilizar os vasilhames na modalidade de comodato e os serviços de venda on-line.
+Nota-se que não restou preenchido o liame entre a conduta do réu e os danos narrados, visto que, conforme dito, a conversa via whatsapp não comprovou que os danos alegados resultam da conduta da ré. Acerca do nexo causal, leciona Silvio de Salvo Venosa:
+"O conceito de nexo causal, nexo etimológico ou relação de causalidade deriva das leis naturais. É o liame que une a conduta do agente ao dano. É por meio do exame da relação causal que concluímos quem foi o causador do dano. Trata-se de elemento indispensável. A responsabilidade objetiva dispensa a culpa, mas nunca dispensará o nexo causal. Se a vítima, que experimentou um dano, não identificar o nexo causal que leva o ato danoso ao responsável, não há como ser ressarcida (VENOSA, Sílvio de Salvo. Vol.4. 3º ed. SP: Atlas S.A., Direito Civil: Responsabilidade Civil. 2003, p.39)."
+Assim, a responsabilização do réu prescinde da demonstração do nexo de causalidade, não retirando da parte autora o ônus de demonstrar o nexo causal entre os alegados danos e a conduta do réu, a teor do disposto no art. 373, I, do Código de Processo Civil.
+No que tange a alegação de que a parte ré descumpriu a cláusula de exclusividade, quando indicou terceiros para cobrirem falta de mercadoria (GLP), está também não merece prosperar. Isso porque, a cláusula indicada pela parte autora, assim dispõe:
+2.8. A COMPRADORA (apelante) não poderá adquirir GLP de qualquer outra empresa congênere, bem como de qualquer outra revendedora, durante a vigência deste contrato.
+Note-se, a referida cláusula não obsta a parte ré de indicar uma empresa por ela autorizada, a fornecer o GLP, no caso de falta de mercadoria. Ao contrário, como bem pontuado em sentença (mov. 148.1):
+"a cláusula de exclusividade diz respeito a impossibilidade de a autora adquirir o produto objeto do contrato de outra companhia de gás e se presta a proteção da própria ré. Efetivamente, caso houvesse problemas de fornecimento e prejuízo da autora por esta razão, poderia se falar em responsabilidade da ré, mas o simples fato de a ré ter indicado uma pessoa terceira por ela autorizada para fornecer o produto não representa qualquer tipo de quebra de contrato".
+Nesse contexto, não é demais lembrar que se aplica a autonomia da vontade das partes na autorregulamentação de suas obrigações por meio do contrato livremente pactuado, cabendo ao Poder Judiciário a intervenção mínima, apenas quando houver violação à boa-fé e à função social dos contratos, o que não é o caso.
+Por estas razões, considerando que não restou comprovado a inadimplência da parte ré que justifique a rescisão do contrato, nego provimento ao recurso ficando prejudicado dos demais pedidos (multa).
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que houve descumprimento contratual, seria imprescindível a interpretação de cláusulas contratuais e o reexame fático-probatório dos autos, medidas vedadas em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+Além disso, a Corte de origem não emitiu juízo de valor sobre as teses recursais de incidência de multa contratual e de ausência de boa-fé, estando, portanto, ausente o indispensável prequestionamento da matéria, o que atrai o óbice, por analogia, da Súmula n. 282 do STF.
+Por fim, registre-se que a incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Inviável, portanto, o conhecimento do recurso pela divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Considerando tais razões de decidir e a argumentação recursal ora exposta, a irresignação não reúne condições de êxito.
+Registre-se, de início, que, nas razões do agravo interno, a agravante em momento algum infirmou a aplicação da 282 do STF.
+Assim, a ausência de impugnação de fundamento da decisão recorrida atrai, por analogia, a aplicação da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão").
+No recurso especial, a parte ora agravante aponta dissídio jurisprudencial e violação dos arts. 113, § 1º, I, II, III e IV, 389, 475 e 422 do Código Civil.
+No tocante à suposta contrariedade às normas legais indicadas no apelo extremo e levando-se em conta as conclusões estabelecidas pelo Tribunal a quo, que foram objeto de transcrição na decisão ora impugnada, a aplicação das Súmulas n. 5 e 7 do STJ é medida que se impôs.
+É manifesto que o acolhimento das teses defendidas no recurso especial, sobretudo no que se refere ao descumprimento contratual, à consequente incidência de multa contratual e à alegada ausência de boa-fé, implicaria, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios constantes dos autos, medidas inadmissíveis nesta instância superior.
+Ademais, conforme devidamente explicitado na decisão ora agravada, no que se refere à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte ora agravante, visto que a tese arguida em relação ao apelo especial com base na alínea a do permissivo constitucional foi afastada pelas aplicações das Súmulas n. 5 e 7 do STJ, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos .
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
