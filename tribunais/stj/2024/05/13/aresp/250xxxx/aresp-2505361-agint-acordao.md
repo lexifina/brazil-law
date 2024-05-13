@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. INEXISTÊNCIA DE EXPEDIENTE FORENSE. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. IMPRESCINDIBILIDADE.
+1. É manifestamente intempestivo o agravo em recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 219, caput, todos do CPC.
+2. Na hipótese, a decisão da Corte de origem que inadmitiu o recurso especial foi publicada no DJe de 5/9/2023. Por sua vez, o agravo foi interposto somente aos 28/9/2023, sendo, pois, manifestamente intempestivo.
+3. A despeito das alegações contidas na petição de agravo interno acerca da inexistência de expediente forense no Tribunal a quo no dia 8/9/2023, o que ensejaria a prorrogação do prazo recursal, tal afirmação e sua comprovação não foram apresentadas quando da interposição do agravo em recurso especial perante a instância recorrida.
+4. Ademais, é certo que a regularização posterior da tempestividade recursal se mostra incabível, diante do disposto no art. 1.003, § 6º, do CPC ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso"), o que reforça a impossibilidade de mitigação ao conhecimento de recurso intempestivo.
+5. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por Valdinea Mariano de Menezes Tomonari contra decisão da Presidência do STJ, que, com base no art. 21-E, V, do RISTJ, não conheceu do agravo em recurso especial, em razão da sua intempestividade.
+A parte agravante sustenta, em resumo, a tempestividade da insurgência, haja vista que o "dia 7 de setembro, que celebra a Independência do Brasil, é feriado nacional", de modo que "é desnecessário o apontamento de tal fato para o computo do cálculo do prazo processual" (fl. 438).
+Aduz, também, que, "tendo sido a r. decisão vergastada em 05/09/2023, tem-se o início da contagem do prazo em 06/09/2023. Desconta-se em decorrência do feriado de 07/09/2023 os dias 07 e 08 (dias não úteis para os tribunais nacionais)" (fl. 440), sendo que "a interposição se deu na data de 28/09/2023, e portanto, TOTALMENTE TEMPESTIVA" (fl. 440).
+Requer, ao final, a reconsideração do decisum, ou a submissão do agravo interno ao julgamento colegiado.
+Transcorreu, in albis, o prazo para impugnação (fl. 446).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. INEXISTÊNCIA DE EXPEDIENTE FORENSE. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. IMPRESCINDIBILIDADE.
+1. É manifestamente intempestivo o agravo em recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 219, caput, todos do CPC.
+2. Na hipótese, a decisão da Corte de origem que inadmitiu o recurso especial foi publicada no DJe de 5/9/2023. Por sua vez, o agravo foi interposto somente aos 28/9/2023, sendo, pois, manifestamente intempestivo.
+3. A despeito das alegações contidas na petição de agravo interno acerca da inexistência de expediente forense no Tribunal a quo no dia 8/9/2023, o que ensejaria a prorrogação do prazo recursal, tal afirmação e sua comprovação não foram apresentadas quando da interposição do agravo em recurso especial perante a instância recorrida.
+4. Ademais, é certo que a regularização posterior da tempestividade recursal se mostra incabível, diante do disposto no art. 1.003, § 6º, do CPC ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso"), o que reforça a impossibilidade de mitigação ao conhecimento de recurso intempestivo.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada merece ser mantida.
+Com efeito, a decisão da Corte de origem que inadmitiu o recurso especial foi publicada no DJe de 5/9/2023 (fl. 390). Por sua vez, o agravo contra o decisum foi interposto somente aos 28/9/2023 (fl. 391).
+Dessarte, verifica-se que o recurso é manifestamente intempestivo, porquanto protocolado fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 219, caput, todos do Código de Processo Civil.
+Cabe ressaltar que, a despeito das alegações contidas na petição de agravo interno acerca da inexistência de expediente forense no Tribunal a quo no dia 8/9/2023, o que ensejaria a prorrogação do prazo recursal, tal afirmação e sua comprovação não foram apresentadas quando da interposição do agravo em recurso especial perante a Corte de origem.
+Ademais, é certo que a regularização posterior da tempestividade recursal se mostra incabível, diante do disposto no art. 1.003, § 6º, do CPC ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso"), o que reforça a impossibilidade de mitigação ao conhecimento de recurso intempestivo.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. TEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NECESSIDADE DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da sua intempestividade.
+II - Com efeito, nos termos da jurisprudência firmada no âmbito desta Corte, "a partir da redação do art. 1.003, § 6º, do CPC/2015, conclui-se que eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso" (AgInt nos EDcl no AREsp 1.162.827/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/8/2018, DJe de 4/9/2018.)
+III - Ademais, o entendimento firmado pela decisão recorrida encontra-se em consonância com a jurisprudência da Corte Especial que, por ocasião do julgamento do AgInt no AREsp 1.481.810/SP, em sessão realizada em 19/5/2021, tornou pacífica a aplicação do entendimento fixado no julgamento do REsp n 1.813.684-SP, no sentido de que a falta de comprovação prévia da tempestividade do recurso, em razão de todo e qualquer feriado ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente no agravo interno, à exceção do feriado da segunda-feira de carnaval, no caso de recursos interpostos até 18/11/2019, consoante decidido na Questão de Ordem no REsp n. 1.813.684-SP.
+IV - "É importante salientar que se a suspensão dos prazos, em razão da Pandemia da Covid-19 não decorreu de ato do CNJ, mas de ato da instância de origem, é essencial que seja comprovada no ato da interposição do recurso. Não pode ser considerado fato notório apto a dispensar a comprovação, tendo em vista que, embora se tenha ciência de que prazos processuais foram suspensos ao longo do ano de 2020 nos diversos Tribunais, não é evidente o conhecimento de quais Tribunais onde ocorreram nem as respectivas datas. Portanto, é necessária sua comprovação, no ato de interposição do recurso." (AgInt nos EDcl no AREsp 1.998.639/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/4/2022, DJe 28/4/2022)
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.249.741/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe de 17/5/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO CORPUS CHRISTI. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO. MOMENTO ADEQUADO. ATO DE INTERPOSIÇÃO DO RECURSO. NÃO DEMONSTRAÇÃO NA HIPÓTESE. AGRAVO DESPROVIDO.
+1. Na decisão agravada ficou registrado: "(..) a parte recorrente foi intimada do acórdão recorrido em 13/05/2021, sendo o recurso especial interposto somente em 04/06/2021. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil".
+2. A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, o dia de Corpus Christi e os dias que precedem a Sexta-Feira da Paixão não são feriados forenses, previstos em lei federal.
+3. Conforme pacificado nesta Turma, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do Recurso que pretende que dele o STJ conheça, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no RMS 68922 / SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2022).
+4. Por documento idôneo, reputa-se "insuficiente a juntada de notícia extraída da internet ou cópia do calendário editado pelo Tribunal a quo" - tal como ocorreu no presente caso (AgInt no AREsp 2119996 / SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 1.12.2022).
+5. Portanto, ausente a comprovação de ocorrência de feriado local por meio idôneo, o Recurso Especial foi corretamente considerado intempestivo.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.140.356/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/3/2023, DJe de 4/4/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante foi intimada da decisão de inadmissibilidade em 28/10/2021, e o agravo em recurso especial somente foi interposto em 24/11/2021, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso conforme disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.042 e 219, caput, todos do CPC/2015.
+2. A suspensão dos prazos processuais disciplinada em Portaria expedida pelo STJ aplica-se somente aos recursos interpostos diretamente nesta Corte, o que não é o caso dos autos, já que o agravo em recurso especial foi interposto no Tribunal de origem. Logo, deveria a parte comprovar, no ato de interposição do recurso, a ausência de expediente forense na Corte a quo.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.237.707/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 8/5/2023, DJe de 11/5/2023)
+Dessarte, não tendo a parte comprovado, no momento da interposição do agravo em recurso especial perante a Corte a quo , a existência de feriado local, operou-se a preclusão consumativa, não havendo como afastar a intempestividade de tal insurgência.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
