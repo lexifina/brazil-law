@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DARCI APARECIDO FIGUEIRA CAMARGO, em face de acórdão proferido pelo Tribunal de Justiça de Minas Gerais.
+Consta dos autos que o paciente foi preso preventivamente e, após término da instrução processual, condenado a uma pena de 110 anos de reclusão, em regime inicial fechado, pela prática dos crimes de organização criminosa, sequestro e cárcere privado, latrocínio, dano qualificado, receptação e inutilização de material de salvamento.
+Por ocasião da sentença condenatória, foi mantida a prisão preventiva do paciente, por ser considerada necessária para garantia da ordem pública, bem como para assegurar a aplicação da lei penal, tendo em vista a gravidade concreta das condutas que lhe foram imputadas.
+Interposto recurso de apelação, a sentença condenatória foi integralmente confirmada pela Corte local, em julgado assim ementado (e-STJ, fl. 18):
+"EMENTA: APELAÇÃO CRIMINAL - ORGANIZAÇÃO CRIMINOSA, SEQUESTRO E CÁRCERE PRIVADO, LATROCÍNIO, DANO QUALIFICADO, RECEPTAÇÃO E INUTILIZAÇÃO DE MATERIAL DE SALVAMENTO -PRELIMINAR - CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE - VIA INADEQUADA. PREFACIAL REJEITADA. Inviável conceder ao acusado o direito de recorrer em liberdade, especialmente porque a natureza do pedido liberatório não se compatibiliza com a fase de julgamento do recurso de apelação. MÉRITO - PEDIDO DE ABSOLVIÇÃO - INVIABILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - CONJUNTO PROBATÓRIO ROBUSTO - RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA - NÃO CABIMENTO -COAUTORIA COMPROVADA - CONDENAÇÃO MANTIDA. RECURSO NÃO PROVIDO. 01. Comprovadas a materialidade e a autoria dos delitos de organização criminosa, sequestro e cárcere privado, latrocínio, dano qualificado, receptação e inutilização de material de salvamento, imperiosa a manutenção da condenação, não havendo que se falar em absolvição. 02. Restando verificada a existência de coautoria na prática dos delitos, responderão os agentes pelo crime de maneira equivalente, já que todo autor contribui para a infração penal, seja exercendo papel de vigia, dando fuga aos comparsas, atuando de maneira indireta (mediata) ou, ainda, portando-se ao lado de outros agentes para conferir ao grupo superioridade numérica sobre as vítimas."
+Nessa instância, defende o impetrante, com fundamento na atual jurisprudência do Supremo Tribunal Federal, que a execução provisória de sua pena enseja constrangimento ilegal, na medida em que afronta a presunção de inocência, somente sendo viável o início de cumprimento de pena com o trânsito em julgado da sentença condenatória.
+Liminar indeferida (e-STJ, fls. 236/238).
+Informações prestadas pelo juízo de 1º grau (e-STJ, fls. 247/253).
+Ministério Público Federal opinou pelo não conhecimento ou denegação do writ (e-STJ, fls. 255/260).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, percebe-se que há circunstância a tornar prejudicada a presente impetração.
+Isto porque, examinando as informações constantes do sítio eletrônico do Tribunal de Justiça de Minas Gerais, a sentença condenatória proferida nos autos da Ação Penal n. 0068321-86.2020.8.13.0701 já transitou em julgado, pelo que a custódia deixou de ter natureza cautelar, passando a ser definitiva.
+Neste sentido:
+"PENAL E PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. TÍTULO DEFINITIVO. MANDAMUS PREJUDICADO. AGRAVO DESPROVIDO.
+1. Pedido de reconsideração recebido como agravo regimental, interposto dentro do quinquídio legal, em respeito ao princípio da fungibilidade, da instrumentalidade das formas e da efetividade do processo.
+2. A superveniência de trânsito em julgado da condenação esvazia o interesse na apreciação da pretensão de revogação da prisão preventiva, porque a custódia do paciente, antes cautelar, passou a ser definitiva.
+3. Dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada. Se há erro no reconhecimento da intempestividade recursal na origem, tal demanda deve primeiro ser submetida ao TJ/SP, após, dada solução a esta, possivelmente se inaugurará a jurisdição deste Superior Tribunal de Justiça. Nessa ordem de ideias, por hora, deve ser mantida a decisão agravada pelos seus próprios e jurídicos fundamentos.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 790.507/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESNECESSIDADE DA PRISÃO CAUTELAR NO CASO CONCRETO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. INÍCIO DA EXEUCÃO PENAL. PERDA DE OBJETO. PREJUDICIALIDADE. AGRAVO REGIMENTAL PREJUDICADO.
+1. Em razão da superveniência do trânsito em julgado da condenação, fica prejudicado o recurso em que se discutia a prisão preventiva.
+2. Agravo regimental prejudicado."
+(AgRg nos EDcl no REsp n. 1.979.724/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023.
+Ante o exposto, julgo prejudicado o pedido, na forma do art. 34, XI do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
