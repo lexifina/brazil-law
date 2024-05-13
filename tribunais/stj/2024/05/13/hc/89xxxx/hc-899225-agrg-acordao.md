@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/05/2024 a 13/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MEDIDAS CAUTELARES. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. INSTÂNCIA ORDINÁRIA NÃO ESGOTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691/STF).
+2. O enunciado aplica-se também à hipótese em que o habeas corpus é impetrado contra decisão singular do relator, a qual deveria ter sido impugnada por agravo, que devolveria a questão ao colegiado competente.
+3. No caso, tratando-se de writ impetrado contra decisão monocrática de Relator da Corte de origem, que, fundamentadamente, indeferiu pedido de revogação de medidas cautelares impostas contra o agravante e, estando pendente de julgamento o agravo interno perante o respectivo órgão colegiado, impõe-se o não conhecimento da presente ação mandamental.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus impetrado a favor do agravante (e-STJ, fls. 953-956).
+A defesa reitera a existência de constrangimento ilegal decorrente de decisão que indeferiu a suspensão de medidas cautelares diversas da prisão, impostas contra o agravante.
+Assevera que existem decisões desta relatoria em que foram beneficiados coinvestigados na mesma situação do ora agravante.
+Pretende o provimento do recurso, a fim de que seja concedida a ordem para revogar as medidas cautelares diversas da prisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MEDIDAS CAUTELARES. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. INSTÂNCIA ORDINÁRIA NÃO ESGOTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691/STF).
+2. O enunciado aplica-se também à hipótese em que o habeas corpus é impetrado contra decisão singular do relator, a qual deveria ter sido impugnada por agravo, que devolveria a questão ao colegiado competente.
+3. No caso, tratando-se de writ impetrado contra decisão monocrática de Relator da Corte de origem, que, fundamentadamente, indeferiu pedido de revogação de medidas cautelares impostas contra o agravante e, estando pendente de julgamento o agravo interno perante o respectivo órgão colegiado, impõe-se o não conhecimento da presente ação mandamental.
+4. Agravo regimental desprovido.
+VOTO
+O agravo não merece prosperar.
+A decisão deve ser mantida por seus próprios fundamentos, considerando que não existem elementos novos a justificar a modificação do entendimento.
+A decisão agravada, destacando que esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão proferida por relator, demonstrou que a decisão proferida pelo relator, na origem, não padecia de flagrante ilegalidade ou teratologia:
+"No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontra assim motivada:
+"Nesse ensejo, consigno que diante de sua natureza processual, tanto a decretação quanto a manutenção das cautelares alternativas do art. 319 do CPP exigem tão somente indícios suficientes de autoria - que é um princípio de prova capaz de situar o indivíduo no evento ilícito, ou seja, mera plausibilidade de envolvimento com determinado fato criminoso -, reservando-se a certeza da autoria ou participação à eventual condenação definitiva, de modo que a lei se contenta com elementos probatórios ainda que não concludentes ou unívocos, mesmo porque não é a ação cautelar instrumento processual idôneo para aferir a qualidade da prova ou do indício, porquanto tal exercício exige dilação probatória.
+Ademais, cediço ser adequada a imposição de medidas cautelares mais restritivas da liberdade, dentre elas, o monitoramento eletrônico, quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública, principalmente quando um dos fundamentos da decisão agravada diz respeito ao descumprimento de cautelar anteriormente imposta. Enfim, não se descuida que se o fundamento das acautelatórias se baseia na existência de situações em que haja riscos à efetividade do processo (periculum in mora), aceita-se sua determinação judicial sem que se ouça antes a parte contrária. E, no caso dos autos, restou ponderada na decisão impugnada a urgência na adoção das medidas porque, diferentemente do coinvestigado - que estava provisoriamente afastado do comando da Secretaria Municipal de Saúde, o agravante continuava exercendo atribuições na Administração Pública Municipal e, supostamente, perseverando em condutas ilícitas com análogo modus operandi, de tal maneira que eventual contraditório prévio poderia frustrar a utilidade das cautelares não aplicadas imediatamente, sem o conhecimento daquele que sofreria diretamente os seus efeitos. Com base nessas breves considerações, a despeito da contundência dos argumentos levantados pela defesa do agravante, de súbito, num juízo perfunctório próprio da fase de retratação, não me convenço do desacerto do pronunciamento unipessoal ora hostilizado, razão pela qual MANTENHO INCÓLUME A DECISÃO AGRAVADA." (e-STJ, fl. 114). "
+Consoante se depreende do trecho acima, além de a decisão ter apontado a urgência das medidas cautelares adotadas, foi avaliada a diferença de situação entre ele e o coinvestigado, que teve a seu favor a suspensão das medidas. Cabe a ressalva de que foi interposto agravo regimental contra a decisão proferida pelo Tribunal de origem, o qual encontra-se pendente de julgamento.
+Portanto, estando fundamentada a decisão e não se vislumbrando a existência de flagrante ilegalidade, não há razão para a superação do entendimento sumular.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
