@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por JFE 16 EMPREENDIMENTOS IMOBILIÁRIOS SPE S.A. contra a decisão que deu provimento ao recurso especial da parte agravada (e-STJ fls. 223/226).
+Nas presentes razões (e-STJ fls. 229/240), a agravante alega, em síntese, que a manutenção do entendimento invocado pelo julgado agravado, no sentido de que os créditos provenientes de despesas condominiais não se submetem aos efeitos da recuperação judicial, coloca em risco o plano de soerguimento da agravante, contrariando decisão proferida pelo juízo universal.
+Invoca precedentes desta Corte Superior em que se afirma que i) o crédito de natureza propter rem também é alcançado pelo procedimento de recuperação judicial, e ii) a análise do caráter extraconcursal dos bens em posse da empresa em recuperação deve ser realizada pelo juízo universal.
+Por último, afirma que "o crédito executado foi constituído antes do requerimento de recuperação judicial, de modo que a satisfação do crédito deverá ocorrer na forma do plano de recuperação judicial" (e-STJ, fl. 234).
+Ao final, requer a reconsideração da decisão agravada ou a sua submissão ao crivo do Colegiado.
+Impugnação às fls. 243/251 (e-STJ).
+É o relatório.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+A irresignação merece prosperar.
+De fato, em recente julgamento, esta Terceira Turma decidiu que "a submissão ou não à recuperação judicial do crédito titularizado pelo condomínio recorrente, advindo de despesas condominiais inadimplidas pela recuperanda, será definida com base, unicamente, no corte temporal estabelecido no art. 49, caput, da Lei n. 11.101/2005" (REsp n. 2.002.590/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 12/9/2023, DJe de 14/9/2023).
+Na oportunidade, ficou definido que os créditos atinentes às despesas condominiais anteriores ao pedido de recuperação judicial são concursais e, como tal, devem ser pagos nos exatos termos definidos no plano de recuperação judicial, aprovado pela assembleia de credores e homologado judicialmente. Por sua vez, os créditos atinentes às despesas condominiais posteriores ao pedido de recuperação judicial são, estes sim, extraconcursais, razão pela qual a correlata execução individual deve prosseguir normalmente em direção à satisfação do direito creditício titularizado pelo condomínio recorrente.
+No mesmo sentido:
+"CIVIL. EMPRESARIAL. AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. COBRANÇA DE CONDOMÍNIO. (1) VIOLAÇÃO DOS ARTS. 11, 371, 489, § 1º, E 1.022 DO NCPC POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO QUE, CONQUANTO CONTRÁRIO AOS INTERESSES DA PARTE, RESPONDE INTEGRALMENTE AS QUESTÕES POR ELA PONTUADAS. (2) ACORDO JUDICIAL INADIMPLIDO. CUMPRIMENTO DE SENTENÇA. DEVEDORAS QUE INGRESSAM EM RECUPERAÇÃO JUDICIAL. EXTRACONCURSALIDADE MATERIAL DO CRÉDITO. INOCORRÊNCIA. SUSPENSÃO DA EXECUÇÃO E HABILITAÇÃO PERANTE O JUÍZO DA RECUPERAÇÃO. NECESSIDADE. AGRAVO PROVIDO. DECISÃO AGRAVADA RECONSIDERADA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E PROVIDO EM PARTE.
+1. A não entrega da prestação jurisdicional no sentido esperado pela parte recorrente, por si só, não evidencia os vícios do art. 1.022 do NCPC ou viola, no sistema da persuasão racional, o princípio do livre convencimento motivado.
+2. Pela novação civil (art. 360, I, do CC/2002), são extintos apenas os acessórios e garantias da dívida, não havendo estipulação em contrário, prevalecendo, no caso da cobrança de condomínio, inalterada a natureza propter rem do fato gerador do crédito.
+3. De acordo com recente interpretação sistemática da Lei n.º 11.101/2005, a verba condominial, conquanto seja mesmo dívida de natureza propter rem, não está abarcada no rol do critério material da extraconcursalidade (art. 6º, § 7º-B; art. 49, §§ 3º, 4º, 6º, 7º, 8º e 9º; e art. 199, §§ 1º e 2º). Precedentes.
+4. A submissão ou não do crédito de titularidade do condomínio à recuperação judicial advém da observância do critério temporal definido pelo art. 49 da Lei n.º 11.101/2005, ou seja, torna-se extraconcursal se constituído a partir do pedido de recuperação.
+5. Recurso especial provido em parte." (AgInt no AREsp n. 2.207.196/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024, grifou-se)
+No caso, o crédito executado foi constituído anteriormente ao requerimento de recuperação judicial, o que, de acordo com a compreensão lapidada nos mencionados precedentes, define o crédito como concursal, o que determina a sua submissão ao juízo da recuperação.
+Ante o exposto, reconsidero a decisão agravada (e-STJ fls. 223/226), conheço o agravo para negar provimento ao recurso especial interposto pela parte a gravada (e-STJ fls. 114/129).
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
