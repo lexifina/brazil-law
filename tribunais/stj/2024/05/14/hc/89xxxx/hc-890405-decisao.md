@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALAN MATHEUS DE SOUZA NASCIMENTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas. A prisão foi decretada visando garantir a ordem pública em razão do fundado receio de reiteração delitiva- fl. 73.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 136-149.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva.
+Aduz, que o entorpecente apreendido com o paciente era para uso pessoal e que a quantidade apreendida é ínfima.
+Pondera a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 153-154.
+As informações foram prestadas às fls.160-181 e 182-185.
+O Ministério Público Federal, às fls. 189-192, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE DROGAS. GRAVIDADE CONCRETA DA CONDUTA. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.1. Não é cabível habeas corpus substitutivo de recurso,impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.2. Em situação análoga, esse Superior Tribunal entendeu que "apesar de se tratar de quantidade não elevada de droga (31,74g de crack), a decisão que decretou a prisão preventiva está motivada, principalmente, na contumácia delitiva do paciente que, além de outros processos em andamento, é reincidente específico no crime de tráfico de drogas, circunstâncias que denotam a sua periculosidade in concreto. Nesse contexto, a fundamentação revela-se idônea e harmônica com o entendimento desta Casa sobre o tema" (HC n. 558709/SP, Rel. Min. SEBASTIÃO REISJÚNIOR, SEXTA TURMA, j. 5/5/2020, DJe de12/5/2020).3. Parecer pelo não conhecimento do habeas corpus, ou pela denegação da ordem" - fl. 189.
+É o relatório. DECIDO.
+In casu, extrai-se da decisão que decretou a segregação cautelar do paciente é reincidente específico, uma vez que ostenta condenação já transitada em julgado e está em cumprimento de pena em regime aberto, a indicar a absoluta necessidade de resguardo da ordem pública.
+A propósito:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023, grifei )
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
