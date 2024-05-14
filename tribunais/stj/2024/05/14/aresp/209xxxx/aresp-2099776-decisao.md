@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial do ESTADO DE MINAS GERAIS no qual se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS DO DEVEDOR - PARCELAMENTO - HONORÁRIOS ADVOCATÍCIOS - MAJORAÇÃO - IMPOSSIBILIDADE - DESPROVIMENTO DO RECURSO.
+1. A Primeira Seção do Superior Tribunal de Justiça, ao julgar recurso sujeito ao art. 543-C do CPC (recurso repetitivo), reafirmou que descabe a condenação a honorários advocatícios nos casos de desistência de embargos à execução fiscal de créditos da Fazenda determinada pela adesão do contribuinte a programa de parcelamento fiscal, porque esses honorários já estão incluídos no débito consolidado.
+2. Tendo a executada, ao requerer o parcelamento, efetuado o pagamento dos honorários advocatícios, não poderia sequer ser novamente onerada com a extinção dos embargos à execução, inexistindo qualquer justificativa para o pedido de majoração da verba honorária equivocadamente arbitrada pelo magistrado singular e, inclusive, já quitada pela parte embargante.
+3. Negar provimento ao recurso (fl. 159).
+Os embargos de declaração opostos foram rejeitados (fls. 178/185).
+Nas razões do seu recurso especial (fls. 189/207), a parte agravante aponta a violação dos arts. 90, 489, § 1º, VI, e 1.022, II, do Código de Processo Civil (CPC). Sustenta, em síntese: (a) houve negativa de prestação jurisdicional; (b) nos casos em que há desistência da ação de conhecimento em razão da adesão a programa de parcelamento instituído pelo Estado, é devida a condenação ao pagamento de honorários advocatícios sucumbenciais, nos termos do art. 90 do CPC.
+A parte agravada não apresentou as contrarrazões, conforme a certidão de fl. 210.
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A parte recorrente defende ter havido contrariedade ao art. 1.022 do Código de Processo Civil (CPC) ao fundamento de que o Tribunal de origem foi omisso em relação à aplicação do disposto no art. 90 do CPC, o qual expressamente estabelece que, "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+A Corte regional, provocada pela parte ora recorrente via embargos de declaração, limitou-se a rejeitar o recurso sem se manifestar sobre o dispositivo questionado, deixando, assim, de prestar a jurisdição de forma completa e eficaz.
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça (STJ) entende que a observância do art. 90 do CPC, nos casos em que a adesão a parcelamento tributário está condicionada à desistência de ações ou à renúncia ao direito sobre o qual se fundam, depende do que vier a ser disciplinado na legislação de regência do benefício fiscal. Nesse sentido: AgInt no AREsp 2.078.334/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/10/2022, DJe de 4/11/2022; AgInt no AREsp 924.417/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2019, DJe de 2/12/2019.
+Logo, é imperiosa a manifestação do Tribunal de origem sobre o assunto, com a devida análise da legislação local que concedeu o benefício.
+É oportuno registrar que, para fins de conhecimento do recurso especial, é indispensável a prévia manifestação da Corte de origem acerca da tese de direito suscitada. Assim, tratando-se de questão relevante para o deslinde da causa que foi alegada no momento oportuno e reiterada em embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC.
+Verificada tal ofensa em recurso especial, impõe-se a anulação do acórdão proferido em embargos de declaração para que seja proferido novo julgamento suprindo a omissão apontada, porquanto não prestada a jurisdição de forma integral.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ADMINISTRATIVO. IMPROBIDADE. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA. AGRAVO INTERNO PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - É omisso o acórdão que deixa de manifestar-se sobre questões relevantes, oportunamente suscitadas e que poderiam levar o julgamento a um resultado diverso do proclamado. Nessas condições, a não apreciação de tese, à luz de dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno provido, para conhecer do Agravo e dar provimento ao Recurso Especial do Ministério Público do Estado de Minas Gerais.
+(AgInt no AREsp n. 612.758/MG, relator Ministro Napoleão Nunes Maia Filho, DJe 18/12/2020.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, determinando o retorno dos autos à Corte de origem para novo julgamento dos embargos de declaração, com expressa manifestação sobre a questão apresentada nos embargos opostos.
+Publique-se. Intimem-se.
+EMENTA
