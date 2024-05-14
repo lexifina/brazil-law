@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interposto por SPE SILVIA POZZANA EMPREENDIMENTO IMOBILIÁRIO LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL ADQUIRIDO NA PLANTA. AUTORA QUE NÃO TEM MAIS CONDIÇÕES DE ARCAR COM O PAGAMENTO DA PRESTAÇÃO. DESFAZIMENTO. POSSIBILIDADE. RESTITUIÇÃO DE 80% DA QUANTIA PAGA. ARRAS CONFIRMATÓRIAS QUE SE INCLUEM NO CÁLCULO DO QUANTUM A SER RESTITUÍDO. CORREÇÃO MONETÁRIA A PARTIR DO DESEMBOLSO. SENTENÇA MANTIDA.
+1. Na r. sentença lançada nos autos, julgou-se procedentes os pedidos para declarar a rescisão do contrato de compra e venda firmado entre as partes e inexigíveis, em face da parte autora, as parcelas referentes ao contrato, devendo a ré se abster de efetuar qualquer tipo de cobrança ou negativação em razão de ditas quantias, sob pena de multa, bem como para condenar a ré a devolver à parte autora 80% dos valores pagos, mas com a exclusão de valores pagos a título de rateio e seguro, acrescida de correção monetária desde o efetivo desembolso e juros moratórios de 1% ao mês contados a partir do trânsito em julgado. Os demais pedidos foram julgados improcedentes e, em face da sucumbência mínima da autora, a ré foi condenada a pagar as despesas processuais que a autora antecipou, assim como em honorários advocatícios.
+2. Apelo da demandada. É lícito ao autor/adquirente desistir da avença, por motivos de dificuldades financeiras, ensejando a rescisão do contrato e, como consectário, a devolução do que foi pago, integralmente, resguardado o direito de retenção da ré, a título de suporte administrativo. Inteligência do verbete sumular 543 do eg. STJ. Retenção de 20% do quantum quitado que está em harmonia com a jurisprudência do STJ, não merecendo majoração, bem como com cláusula presente no contrato para o caso de desfazimento do negócio. Não é demais lembrar ainda que o ajuste celebrado entre as partes é dotado de cláusula resolutória implícita, pertinente aos contratos bilaterais. Portanto, não há falar-se de impossibilidade de desfazimento do ajuste em razão de alegada existência de cláusula de irretratabilidade e de irrevogabilidade. Ré que teve ciência da intenção da demandante em desfazer o contrato antes da realização do leilão do imóvel - conforme se verifica na reposta, por e-mail, da apelante ao requerimento da adquirente nesse sentido com data de 29/11/2015 -, a propositura da demanda se deu em 17/12/2015, sendo que a arrematação do bem, feita pela própria incorporadora, se deu em 2/2/2016. Logo, não há falar-se em atribuir a responsabilidade pelo pagamento das despesas com o leilão do imóvel à autora/apelada e nem, portanto, de sua submissão aos termos do art. 63, § 4º, da Lei 4.591/64, dado que a partir do ajuizamento da demanda tornou-se litigiosa a coisa. Arras confirmatórias pagas pela adquirente que se incluem no cálculo do valor a ser devolvido. Correção monetária que deve fluir a partir do desembolso, como se decidiu na r. sentença. RECURSO CONHECIDO E DESPROVIDO" (e-STJ fls. 795/796).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 833/842).
+No especial (e-STJ fls. 844/871), a recorrente aponta, além de divergência jurisprudencial, violação dos artigos 63, § 4º, da Lei nº 4.591/1964 e 463, 474 e 475 do Código Civil.
+Alega a inexistência de valores a serem devolvidos em virtude da realização de leilão extrajudicial, a inaplicabilidade da Súmula nº 543/STJ e a necessidade de majorar o percentual de retenção dos valores eventualmente devolvidos.
+Afirma que a recorrida rescindiu o contrato de forma imotivada e o Superior Tribunal de Justiça "(..) nunca admitiu rescisão imotivada a partir da súmula 543/STJ e, portanto, se o Tribunal Estadual invoca como razão de decidir uma súmula que não se adapta ao caso concreto, é dever do STJ exercer essa fiscalização" (e-STJ fl. 847).
+Aduz que, a despeito da jurisprudência consolidada no STJ no ano 2000, as instâncias ordinárias passaram a aceitar o pedido de resilição unilateral sem qualquer prova de incapacidade financeira.
+Sustenta que
+"(..) a matéria é unicamente de direito, limitando-se a determinar se seria ou não cabível nos casos em que o promitente comprador pleiteia a rescisão do contrato de promessa de compra e venda de imóvel com base, exclusivamente, em meras afirmações de que não conseguiu honrar com o contrato" (e-STJ fl. 849).
+Assinala que o imóvel foi leiloado por valor inferior à dívida e às despesas com o leilão, não havendo valor a ser restituído e devendo ser reconhecida a perda de objeto do pedido de resilição contratual.
+Menciona que o contrato é irrevogável e irretratável sem cláusula de arrependimento e que a hipótese não se trata de resolução, mas, sim, de resilição unilateral por parte da adquirente, de modo que a parte lesada pode exigir o adimplemento de quem está em mora ou sua resolução.
+Subsidiariamente, pugna pela majoração do percentual de retenção para 25% (vinte e cinco por cento) dos valores pagos pela recorrida, de acordo com os parâmetros estabelecidos no julgamento do REsp 1.723.519/SP.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 958/964), o recurso especial foi inadmitido no Tribunal de origem, sobrevindo daí a interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Na origem, Valéria Oliveira da Silva ajuizou ação de rescisão contratual em desfavor de SPE Silvia Pozzana Empreendimento Imobiliário Ltda. objetivando a rescisão do contrato de promessa de compra e venda c/c devolução dos valores pagos por não ter mais condições de continuar arcando com o pagamento da prestação.
+O magistrado de primeiro grau de jurisdição julgou os pedidos parcialmente procedentes para
+"(..)
+(1) DECLARAR a rescisão do contrato de compra e venda firmado entre as partes;
+(2) DECLARAR inexigíveis em face da parte autora as parcelas referentes inexigibilidade ao contrato, devendo a ré se abster de efetuar qualquer tipo de cobrança ou negativação em razão de ditas quantias, sob pena de multa de R$1.0000,00 por cada cobrança ou mês que perduram a negativação;
+(3) CONDENAR a ré a devolver à parte autora 80% dos valores pagos, com a exclusão de valores pagos a título de rateio e seguro, acrescida de correção monetária com base no índice oficial da CGJ e incidente desde o efetivo desembolso (enunciado nº 43 da súmula do STJ), bem como de juros moratórios de 1% (um por cento) ao mês contados a partir do trânsito em julgado" (e-STJ fl. 671).
+Referida sentença foi integralmente mantida pelo Tribunal de origem.
+Os embargos de declaração que se seguiram foram rejeitados.
+Irresignada, busca a recorrente a reforma do julgado.
+De início, ao que ora interessa, extrai-se do acórdão recorrido as seguintes premissas:
+(i) aplicação da legislação do consumidor ao presente caso;
+(ii) desistência por parte da compradora sob alegação de crise financeira;
+(iii) os contratos bilaterais possuem cláusula resolutiva tácita;
+(iv) a recorrente teve ciência da intenção do desfazimento do negócio pela autora antes de realizar o leilão;
+(v) a arrematação do bem pela própria incorporadora ocorreu após o ajuizamento da presente demanda, não havendo falar em submissão ao artigo 63, § 4º, da Lei nº 4.591/1964, visto que a coisa se tornou litigiosa a partir do ajuizamento da ação;
+(vi) a rescisão do contrato por iniciativa do comprador impõe a restituição das partes ao status a quo anterior, sendo aplicável ao caso a Súmula nº 543/STJ;
+(vii) os motivos pelo qual a recorrente não desfez o negócio na via administrativa estão em desconformidade com a jurisprudência e violam a boa-fé objetiva e deveres anexos;
+(viii) as despesas suportadas pela recorrente com a venda do imóvel devem ser arcadas por ela, uma vez que, não rescindindo o contrato regulamente, deu causa a elas e
+(ix) a retenção de 20% (vinte por cento) dos valores pagos está de acordo com os parâmetros estabelecidos pelo Superior Tribunal de Justiça. Além disso, está em conformidade com a previsão contratual.
+Considerando as razões de decidir do Tribunal local, verifica-se, no tocante ao artigo 63, § 4º, da Lei nº 4.591/1964, que o acórdão recorrido está em consonância com o entendimento desta Corte firmado no sentido de que a realização de leilão do imóvel em litígio não afasta o direito do promitente-comprador de receber de volta parte das parcelas desembolsadas.
+Nesse sentido:
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESILIÇÃO CONTRATO DE COMPRA E VENDA DE BEM IMÓVEL. OMISSÃO. AUSÊNCIA. INCIDÊNCIA DO CDC E LEI DAS INCORPORAÇÕES IMOBILIÁRIAS. REVISÃO. SÚMULA N. 7/STJ. LEILÃO EXTRAJUDICIAL. AUSÊNCIA DE IMPEDIMENTO DE RECEBER AS PARCELAS PAGAS. PRECEDENTES.
+(..)
+2. O Código de Defesa do Consumidor atinge os contratos de promessa de compra e venda nos quais a incorporadora se obriga a construir unidades imobiliárias mediante financiamento. Precedentes.
+3. Nos termos da jurisprudência desta Corte Superior, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento, nos termos da Súmula 543/STJ. O leilão do imóvel não exclui o direito do promitente comprador em receber as parcelas pagas, sob pena de enriquecimento ilícito" (AgInt no AREsp n. 2.287.231/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+Agravo interno improvido."
+(AgInt no AREsp n. 2.272.454/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024)
+"EMENTA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL COM DEVOLUÇÃO DE VALORES PAGOS. DIREITO DE RETENÇÃO. OBSERVÂNCIA DA JURISPRUDÊNCIA ASSENTADA DO STJ. INTELIGÊNCIA DA SÚMULA 543/STJ. REALIZAÇÃO DE LEILÃO EXTRAJUDICIAL. IRRELEVÂNCIA QUANTO AO DIREITO DE RESTITUIÇÃO DE VALORES AO PROMITENTE-COMPRADOR. RESCISÃO POR CULPA EXCLUSIVA DO PROMITENTE-COMPRADOR. DIREITO DE RETENÇÃO DO VENDEDOR. PERCENTUAL DE RETENÇÃO DE 20% FIXADA PELO TRIBUNAL A QUO COM BASE EM PREVISÃO CONTRATUAL. PONTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Impõe-se observar que o STJ possui sólido entendimento de que, na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, como é o caso presente, deve ocorrer a imediata restituição das parcelas pagas pelo promitente-comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento - inteligência da Súmula 543/STJ.
+2. Ainda que tenha sido realizado o leilão do imóvel objeto da lide, o direito do promitente-comprador de receber de volta parte das parcelas desembolsadas não é afastado; se assim fosse, estaria o promitente-vendedor enriquecendo-se ilicitamente. No ponto, incide a Súmula 83/STJ.
+3. Aplica-se a Súmula 83/STJ, tanto para os recursos interpostos com fulcro na alínea "a" quanto pela "c" do permissivo constitucional.
+Precedente.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 2.267.584/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023)
+Além disso, para rever o entendimento firmado pelas instâncias ordinárias, acerca da possibilidade de restituição dos valores pagos pela desistência imotivada do promitente comprador, demandaria a análise de circunstâncias fático-probatórias dos autos e do contrato firmado entre as partes, o que é inviável no recurso especial pelo óbice das Súmulas nºs 5 e 7/STJ.
+Quanto aos artigos 463, 474 e 475 do Código Civil, nos termos da jurisprudência desta Corte de Justiça, a cláusula resolutiva tácita está presente em todos os contratos bilaterais, mesmo que contenha cláusula de caráter irrevogável e irretratável do ajuste.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+3. "O entendimento firmado no âmbito da Segunda Seção é no sentido de ser possível a resolução do compromisso de compra e venda, por parte do promissário comprador, quando se lhe afigurar economicamente insuportável o adimplemento contratual. Ocorrendo a resolução do compromisso por culpa do promissário comprador, este deverá ser ressarcido parcialmente sobre o valor pago." (REsp 1211323/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/10/2015, DJe 20/10/2015).
+(..)
+7. Agravo interno desprovido."
+(AgInt no AREsp n. 1.761.076/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021)
+Por outro lado, embora não se admita a interposição de recurso por violação de enunciado de súmula, inafastável ao caso a aplicação da Súmula nº 543/STJ.
+Por fim, estando incontroverso que o desfazimento do negócio jurídico se deu por iniciativa da parte adquirente, correto o entendimento da instância ordinária de que deve ser parcial a restituição dos valores pagos.
+No caso dos autos, o Tribunal local entendeu pelo percentual em 20% (vinte por cento) dos valores pa gos, pois, além de estar dentro dos parâmetros adotados por esta Corte Superior, está de acordo com expressa previsão contratual.
+Nas razões recursais, contudo, não há resistência quanto a tal fundamento (existência de cláusula contratual para a retenção), que, ao persistir incólume, mostra-se suficiente para a manutenção do julgado, circunstância que atrai a aplicação, por analogia, da Súmula nº 283/STF.
+Se não bastasse, conforme reconhecido na origem, está de acordo com a jurisprudência desta Corte Superior.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
