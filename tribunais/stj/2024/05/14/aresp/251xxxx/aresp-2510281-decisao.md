@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO DO ESTADO DE SERGIPE S/A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: declaratória cumulada com compensação por dano moral, ajuizada pela agravada, em face do agravante, na qual alega que, que para quitar algumas dívidas, tomou "empréstimos de caixa rápido" com o banco agravante e que os vinha pagando de forma regular, mas desde o começo do ano vem passando por dificuldades financeiras. Pleiteia seja declarada abusiva a cobrança dos valores imputados pelo agravante, assim como todos os contratos, com a devida soma aritmética para se chegar ao montante legal, limitados à regra dos 30%, e compensação por dano moral.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL  AÇÃO DECLARATÓRIA - CONTRATO DE EMPRÉSTIMO EMPRÉSTIMOS. DESCONTO FEITOS EM CONTA BANCÁRIA. - LIMITAÇÃO DO DESCONTO A 35% DO VALOR RECEBIDO - PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA - GARANTIA DO MÍNIMO EXISTENCIAL AO BENEFICIÁRIO DE BPC - PRECEDENTE DO STJ - RECURSO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME. (e-STJ Fl. 364)
+Decisão de admissibilidade do TJ/SE: inadmitiu o recurso especial em razão do seguinte fundamento: consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera os termos do apelo especial, asseverando que "o recurso especial tratou do anatocismo, da não aplicabilidade da lei de usura face a sua revogação e impossibilidade de revitalização em decorrência do previsto na Lei de Introdução ao Código Civil, da aplicação do Código do Consumidor, estando, portanto, presente os requisitos necessários à admissão do recurso quanto à alínea "a" do artigo 105, III, da CF, onde houve a indicação de todos os dispositivos legais que embasam a pretensão.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 15% sobre o valor da causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
