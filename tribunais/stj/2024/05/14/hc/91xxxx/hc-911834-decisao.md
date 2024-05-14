@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MORGAN GOMES DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC 5815735-26.2023.8.09.0000).
+A defesa impetrou habeas corpus perante o Tribunal estadual, o qual não conheceu da impetração, em acórdão assim ementado (e-STJ fl. 19):
+HABEAS CORPUS. VIA INADEQUADA. SUPRESSÃO DE INSTÂNCIA.
+1. O cabimento do habeas corpus como substitutivo de recurso próprio é medida excepcionalíssima, somente admitida em casos de flagrante e patente ilegalidade do ato impugnado.
+2. Incabível a análise perante esta instância quanto o pleito do impetrante em suplantação à competência originária da autoridade a qual competente julgar pela progressão ou não do regime de pena.
+3. É dever do Judiciário evitar eventual prolação de decisões contraditórias.
+HABEAS CORPUS CONHECIDO. ORDEM DENEGADA.
+Neste habeas corpus, repisa a defesa a tese de excesso de execução, afirmando que o período de prisão cautelar foi detraído de pena diversa já extinta.
+Requer a concessão da ordem nos seguintes termos (e-STJ fls. 12/13):
+A) Seja concedida a ordem Liminar para aplicação da detração de 3 anos 5 meses e 27 dias no processo n. 0147517-16, com a imediata colocação do paciente em regime semiaberto, com monitoração eletrônica, uma vez que não trará prejuízo durante o trâmite do presente Writ;
+B) Seja anulada a sentença do processo de execução n. 5000432-85, que se utilizou de pena preventiva em processo diverso para seu abatimento, e a aplicação do período integral da detração no processo de execução n. 7004280-07, com a retificação de cálculo e a modificação do regime de cumprimento de pena.
+C) Subsidiariamente, pugna-se pela anulação da sentença do processo de execução n. 5000432-85e a unificação das penas, para que o período de detração possa ser utilizado em abatimento de ambas as condenações, com a consequente determinação de progressão de regime, uma vez que, com a unificação o paciente possui 1 ano e 7 meses a mais de prisão cumprida além da sua fração correta.
+É o relatório.
+Decido.
+Na hipótese, não obstante as razões constantes da petição inicial, verifica-se que a controvérsia sequer foi apreciada pelo Tribunal de origem, tendo sido afirmado pelo aresto combatido que a questão ainda estava pendente de enfrentamento pelo Juízo da execução .
+Dessa forma, a análise do pedido ora trazido pela defesa implica indevida supressão de instância, providência rechaçada pela remansosa jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido, segue a jurisprudência:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PROGRESSÃO AO REGIME SEMIABERTO. LEGALIDADE E VALIDADE DO EXAME CRIMINOLÓGICO. MATÉRIA NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AINDA QUE NULIDADE ABSOLUTA. INVIÁVEL A ANÁLISE. PRECLUSÃO. ELEMENTOS CONCRETOS DA EXECUÇÃO CRIMINAL. REVER AUSÊNCIA DE REQUISITO SUBJETIVO. ANÁLISE DE CONJUNTO FÁTICO PROBATÓRIO. INVIÁVEL NA VIA ESTREITA DO HABEAS CORPUS. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA.
+I - De início, no tocante ao argumento de que a decisão monocrática viola o princípio da colegialidade, porquanto tal princípio está ligado à tradição do duplo grau de jurisdição, devendo a decisão ser apreciada pelo colegiado, não merece prosperar, na medida em que o entendimento que prevalece atualmente neste Sodalício é pela possibilidade do relator, quando se deparar com recurso que impugna acórdão alinhado à jurisprudência dominante deste Tribunal, poderá, na forma da Súmula 568/STJ e Regimento Interno deste Tribunal, decidir monocraticamente. Ademais, a interposição de agravo regimental, cujo julgamento será feito pelo colegiado da Turma, torna despicienda eventual alegação de nulidade. Precedentes.
+II - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+III - Inviável a análise de legalidade e validade dos fundamentos para determinação de realização do exame criminológico, por não ter sido analisada pelo eg. Tribunal de origem, ficando impedida esta Corte Superior de proceder a sua análise, sob pena de incorrer em indevida supressão de instância; esta Corte Superior de Justiça já se manifestou no sentido de que, mesmo eventual nulidade absoluta, não pode ser declarada em supressão de instância.
+IV - Ademais, já tendo sido elaborado o laudo do referido exame, torna a matéria preclusa, porquanto não questionada no momento oportuno, aliado ao fato que inclusive o referido exame fundou o indeferimento do pedido de progressão de regime, restando superada eventual carência de fundamentação idônea para a determinação do mesmo que, ao contrário do alegado pela defesa, não tem o condão de tornar nula a decisão subsequente que indeferiu o pedido principal.
+V - In casu, o Tribunal de origem manteve a decisão de indeferimento em razão do prognóstico negativo constante do relatório do exame criminológico realizado, que aponta aspectos desfavoráveis à concessão do benefício, (..) tendo o exame concluindo que o agravante não está apto à progressão ao regime semiaberto, tendo o Juízo da execução concluído que o "exame criminológico demonstrou a incapacidade do reeducando de cumprir pena em regime mais brando" (fl. 52).
+VI - O posicionamento deste Superior Tribunal de Justiça é no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a concessão de benefícios da execução penal, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+Agravo regimental desprovido.
+(AgRg no HC n. 774.394/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 11/10/2022, DJe de 19/10/2022, grifei.)
+Ante o exposto, indefiro liminarmente a impetração.
+Publique-se. Intimem-se.
+EMENTA
