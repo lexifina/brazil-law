@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WEYSLON FREDERICO DA SILVA CHAVES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que indeferiu a liminar no pedido de revisão criminal.
+Sustenta o impetrante, em síntese, que a condenação do paciente foi alicerçada em prisão ilegal, motivo pelo qual a sentença condenatória deve ser reformada para absolver o requerente. Defende que a sentença se lastreou em provas que estão eivadas de máculas insanáveis, ressaltando que o peticionário não pode permanecer em cumprimento de pena em afronta a direitos constitucionais.
+Requer, liminarmente e no mérito, que a ordem seja concedida no sentido de DETERMINAR a liberdade provisória do impetrante, ATÉ DECISÃO FINAL DA REVISÃO CRIMINAL, haja vista as patentes ilegalidades e o dano ocasionado ao impetrante.
+Não tem cabimento o presente writ.
+É inadmissível a impetração de habeas corpus contra a decisão de indeferimento de pedido liminar formulado em outra ação. Com efeito, o Enunciado 691 da Súmula do Supremo Tribunal Federal deve ser estendido, por analogia, à hipótese dos autos, na qual foi indeferido pedido liminar em revisão criminal. Em outras palavras, em regra, não se admite habeas corpus contra a decisão indeferitória de liminar proferida em revisão criminal em trâmite na instância de origem, salvo nas hipóteses em que se evidenciar situação desprovida de razoabilidade (por forçar o pronunciamento adiantado da instância superior e suprimir a jurisdição da inferior, em subversão à regular ordem de competências constitucionais). Precedentes (AgRg no HC n. 725.380/RS, Ministra Laurita Vaz, Sexta Turma, DJe 8/4/2022).
+De igual modo, é inadmissível o uso do writ contra acórdão transitado em julgado, sobretudo, quando inexiste, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente.
+Além disso, no tocante ao pedido de absolvição, inviável a ampla análise de fatos e provas nos autos de habeas corpus , de cognição sumária, e, com relação à revisão da dosimetria, deve ser observada a discricionariedade vinculada do Magistrado, ausente a demonstração, de plano, de manifesta ilegalidade.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
