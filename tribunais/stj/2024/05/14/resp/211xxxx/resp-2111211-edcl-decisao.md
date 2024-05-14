@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL contra decisão de minha lavra, às fls. 407/411, em que acolhi os embargos de declaração para reconsiderar a decisão de fls. 384/388 e dar parcial provimento ao recurso especial fazendário, ao fundamento de que "a Primeira Turma deste Superior Tribunal de Justiça concluiu que a Lei n. 14.151/2021 determina ape nas o afastamento da gestante do trabalho presencial, não se tratando de suspensão ou interrupção do contrato de trabalho, mas de alteração na sua forma de execução, não sendo possível a compensação de valores pagos pelo empregador a título de remuneração à empregada com parcelas de contribuição previdenciária e de contribuição parafiscal, como se fosse salário-maternidade" (e-STJ fl. 410).
+A parte embargante defende a existência de erro material, pois "a r. decisão deu parcial provimento ao Recurso Especial da Fazenda Nacional para denegar a segurança. Ocorre que, na origem, trata-se de ação ordinária e não de Mandado de Segurança" (e-STJ fl. 417).
+Passo a decidir.
+Os embargos de declaração devem atender aos seus requisitos: suprir omissão, contradição, obscuridade ou ambiguidade, podendo, ainda, ser utilizado para corrigir eventual erro material.
+Na hipótese, verifica-se que há erro material a ser corrigido, eis que não se trata de mandado de segurança, mas de ação de procedimento comum ordinário.
+Assim, na decisão de e-STJ fls. 407/411, onde se lê "(ii) com fundamento no art. 255, § 4º, I, II e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO para denegar a segurança", leia-se "(ii) com fundamento no art. 255, § 4º, I, II e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO para julgar improcedente a ação. Ficam invertidos os ônus sucumbenciais ".
+Ante o exposto, ACOLHO os embargos declaratórios apenas para corrigir o erro material indicado na fundamentação, mantendo na íntegra os demais termos da decisão embargada.
+Publique-se. Intimem-se.
+EMENTA
