@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por ENDICON ENGENHARIA DE INSTALAÇÕES E CONSTRUÇÕES LTDA - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 13ª Vara Cível e Empresarial de Belém/PA, no qual se processa a recuperação judicial da suscitante (Processo nº 0825116-46.2021.8.14.0301), e o r. Juízo da Vara do Trabalho de Itaberaba/BA, onde tramita a reclamação trabalhista nº 0000268-04.2022.5.05.0201, movida pelo DIEGO PORTINERY SOUZA DE QUEIROZ.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Diante disso, requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação
+Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+É o relatório.
+Decisão.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. É uníssona a jurisprudência deste Superior Tribunal de Justiça no sentido de que após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+Registram-se, a título exemplificativo, os seguintes julgados: AgInt no CC n. 147.032/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017; AgRg no CC n. 125.697/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 4/2/2013, DJe 15/2/2013; AgInt no CC n. 154.788/RJ, desta Relatoria, SEGUNDA SEÇÃO, julgado em 28/8/2019, DJe 2/9/2019.
+3. Até mesmo em relação a créditos reputados extraconcursais, tem entendido este Tribunal que cabe ao Juízo Recuperacional exercer o controle dos atos de constrição ou expropriação do patrimônio da recuperanda. Confira-se, nesse sentido: AgInt no CC 166.811/MA, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 12/02/2020, DJe 18/02/2020.
+4. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da 13ª Vara Cível e Empresarial de Belém/PA. (juízo da recuperação judicial).
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
