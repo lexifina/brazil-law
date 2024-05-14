@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual o DISTRITO FEDERAL insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fl. 125):
+APELAÇÃO CÍVEL. PROCEDIMENTO SUCESSÓRIO SOB O RITO DO ARROLAMENTO SUMÁRIO. EXPEDIÇÃO DOS FORMAIS DE PARTILHA ANTES DO RECOLHIMENTO DO IMPOSTO DE TRANSMISSÃO. POSSIBILIDADE.
+Com a inovação trazida pelo art. 659 do CPC, a partilha amigável, no arrolamento sumário, será homologada antes do recolhimento do imposto de transmissão causa mortis e, somente após a expedição do formal de partilha e demais diligências pertinentes, a Fazenda Pública será intimada para providenciar o lançamento administrativo do referido imposto e outros tributos, excepcionando, assim, a regra contida no art. 192 do CTN, que estabelece que "nenhuma sentença de julgamento de partilha ou adjudicação será proferida sem prova da quitação de todos os tributos relativos aos bens do espólio, ou às suas rendas".
+Os embargos de declaração opostos foram rejeitados (fls. 164/170).
+Nas razões de seu recurso especial, a parte ora agravante indica violação aos arts. 192 do Código Tributário Nacional (CTN), 31 da Lei 6.830/1980 e 663 e 664, §§ 4º e 5º, do Código de Processo Civil (CPC). Requer a reforma do "v. acórdão recorrido para o fim de condicionar a expedição e entrega dos formais de partilha e/ou alvarás de levantamento à prévia comprovação de regularidade fiscal relativa ao ITCD e a outros tributos eventualmente devidos pelo espólio" (fl. 192).
+Contrarrazões às fls. 221/225.
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+Às fls. 303/304, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) determinou a devolução dos autos à origem em razão da afetação do Tema 1.074/STJ. Diante do juízo de conformação realizado pela instância de origem, foi mantido o acórdão recorrido.
+É o relatório.
+O recurso merece prosperar em parte.
+No julgamento do tema 1.074, esta Corte firmou a orientação de que "no arrolamento sumário, a homologação da partilha ou da adjudicação, bem como a expedição do formal de partilha e da carta de adjudicação, não se condicionam ao prévio recolhimento do imposto de transmissão causa mortis, devendo ser comprovado, todavia, o pagamento dos tributos relativos aos bens do espólio e às suas rendas, nos termos do art. 659, § 2º, do CPC/2015 e do art. 192 do CTN" (Tema 1.074 do STJ).
+Ao que se vê, apesar de dispensar o prévio pagamento do ITCD, ficou definida a obrigatoriedade de comprovar-se a quitação de todos os demais tributos relativos aos bens e rendas do espólio como condição para a expedição do formal de partilha no arrolamento sumário.
+No caso destes autos, a Corte distrital, mesmo após o juízo de conformação, manteve conclusão que dispensava o pagamento prévio dos outros tributos também.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial do Distrito Federal a fim de condicionar, nos termos do Tema 1.074 do STJ, a homologação da partilha à comprovação da quitação de todos os demais tributos relativos aos bens e rendas do espólio não diretamente vinculados ao fato gerador do ITCD (a transmissão de bens pela sucessão causa mortis).
+Publique-se. Intimem-se.
+EMENTA
