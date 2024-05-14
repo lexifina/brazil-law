@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CUSTODIO FERREIRA NETO em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, encontrando-se pronunciado pela suposta prática do delito de homicídio qualificado. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, que concluiu que a prisão preventiva se encontrava devidamente fundamentada, em acórdão de fls. 16-24.
+No presente writ, a Defesa alega, em síntese, a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea da decisão que decretou a segregação cautelar do Paciente
+Defende a necessidade de extensão ao Paciente dos efeitos da decisão que beneficiou Corréu.
+Requer:
+"1. A concessão do pedido liminar, inaudita altera parte, a fim de assegurar ao paciente o direito de aguardar o julgamento do recurso em liberdade, expedindo-se o competente salvo conduto, recolhendo-se o mandado de prisão ou se já tiver sido cumprido, a expedição do respectivo alvará de soltura;
+2. No mérito, com base na falta de fundamentação, o deferimento em definitivo da ordem concedida liminarmente" (fls. 14-15).
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta, consistente em homicídio qualificado; haja vista que, em tese, o Paciente teria concorrido para a empreitada criminosa, que resultou na morte da vítima, mediante disparos de arma de fogo; não se olvidando o risco de reiteração criminosa, na medida em que ele possui outras passagens criminais.
+No ponto, consta no acórdão hostilizado:
+"Conforme se infere dos autos, o paciente foi pronunciado como incurso nas sanções do art. 121, § 2º II e IV do Código Penal, denegando-lhe o direito de recorrer em liberdade.
+Ao que consta, o paciente é suspeito juntamente com o corréu Peterson Silva dos Santos de ceifar a vida da vítima Deilson Alves Cordeiro de Arruda, mediante disparos de arma de fogo. A motivação indicada nas investigações seria que a vítima estaria na posse da motocicleta de Custódio, e não soube informar o local no qual o veículo se encontrava.
+Constata-se ainda que, na decisão, o Douto Magistrado a quo indeferiu o direito do paciente de recorrer em liberdade, mantendo a medida cautelar anteriormente decretada, fundamentando-se na garantia da ordem pública e na aplicação da lei penal, negando ao pronunciado o direito de recorrer em liberdade, nos seguintes termos: .. Gize-se que a prática de delitos dessa jaez, caracterizados pela crueldade e desprezo à vida humana, enseja a manutenção da prisão, mostrando-se inócuas as medidas cautelares previstas no art. 319 do CPP para trazer segurança à sociedade, a qual anseia por maior rigor dos órgãos de segurança.
+Ademais, verifica-se por meio de CAC e FAQ que o paciente possui passagens e condenações, ostentando um histórico besuntado de delitos" (fls. 20-23).
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo"" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+No que tange ao pleito de extensão ao Paciente dos efeitos da decisão que beneficiou Corréu, não verifico flagrante ilegalidade a ser sanada; pois, conforme consta no acórdão hostilizado, a liberdade provisória concedida a PETERSON, teria sido pautada em condições de caráter exclusivamente pessoal:
+"Em arremate, ao meu aviso, não é o caso de se aplicar a extensão dos efeitos da decisão que concedeu a liberdade provisória ao corréu, consoante hipótese do art. 580 do CPP, porquanto a decisão de concessão da liberdade provisória de Peterson Silva dos Santos foi pautada em condições de caráter exclusivamente pessoal ante as circunstâncias do caso concreto.
+Dispõe o referido artigo:
+Art. 580. No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Portanto, conforme verifico dos autos, não é o caso de se estender os efeitos da decisão ao paciente" (fl. 23).
+Dessarte, verifico que não há identidade fático-processual entre as partes, não cabendo, portanto, a teor do art. 580 do CPP, deferir o pedido de extensão de benefício obtido por um deles, qual seja, responder ao processo em liberdade. Nesse sentido:
+"Não se verifica, in casu, hipótese de aplicação de extensão de benefício, nos termos do art. 580 do Código de Processo Penal CPP, por ausência de similitude fática, restando afastada a ocorrência de constrangimento ilegal por afronta ao princípio da isonomia. Paciente que responde a outros processos criminais, razão pela qual restam incólumes os motivos que originaram o decreto da custódia cautelar." (HC 590.992/DF, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 01/03/2021, grifei).
+Ante o exposto, denego a ordem.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
