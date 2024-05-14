@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCELINO IZAIAS DO NASCIMENTO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ assim ementado (e-STJ fls. 619/620):
+PROCESSUAL CIVIL E ADMINISTRATIVO. APELAÇÕES. SERVIDOR PÚBLICO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DEMORA NA CONCESSÃO DE APOSENTADORIA. RECURSOS IMPROVIDOS.
+1. O Supremo Tribunal Federal há muito consolidara o entendimento, a teor do qual cabe o reconhecimento da responsabilidade objetiva, no que concerne aos atos omissivos, partidos da Administração Pública.
+2. Constatada a injustificável e abusiva demora na concessão da aposentadoria ao servidor público, resta caracterizada a responsabilidade objetiva e o dever, por parte da Administração Pública, de indenizá-lo pelos danos morais a que dera causa. Precedentes do STF e do STJ.
+3. A demora na concessão da aposentadoria ao servidor público e, por via de consequência, o não recebimento dos seus proventos, não pode se constituir dano material, se ele não deixara, durante o mesmo tempo, de seguir laborando e recebendo a sua remuneração, normalmente. Precedente.
+4. Não há motivo, para se aumentar a indenização fixada a título de danos morais, quando o valor se coaduna aos princípios da razoabilidade e da proporcionalidade, isto é, não propicia o enriquecimento sem causa do ofendido e nem pune excessivamente o ofensor.
+5. Sentença mantida. .
+A parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 186, 927, caput e parágrafo único e 944 do Código Civil, que a demora na concessão de aposentadoria enseja a condenação em danos materiais.
+Contrarrazões às e-STJ fls. 764/769.
+Juízo positivo de admissibilidade parcial pelo Tribunal de origem à e-STJ fls. 817/820.
+Passo a decidir.
+A irresignação recursal comporta acolhida.
+Esta Corte tem o entendimento de que a demora injustificada da Administração em analisar o requerimento de aposentadoria gera o dever de indenizar o servidor por danos materiais, que foi obrigado a permanecer no exercício de suas atividades. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. APOSENTADORIA. CONCESSÃO. ATRASO INJUSTIFICADO. INDENIZAÇÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA CONCESSÃO DO BENEFÍCIO. PRINCÍPIO DA ACTIO NATA.
+1. "O Superior Tribunal de Justiça firmou entendimento no sentido de que a demora injustificada da Administração em analisar o requerimento de aposentadoria  ..  gera o dever de indenizar o servidor, que foi obrigado a permanecer no exercício de suas atividades. Precedentes: STJ, REsp 968.978/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 29/03/2011; AgRg no REsp 1.260.985/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 03/08/2012; REsp 1.117.751/MS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 05/10/2009" (AgInt no REsp 1.694.600/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 29/05/2018).
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp 1.730.704/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/04/2019, DJe 15/04/2019).
+DIREITO ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. APOSENTADORIA. REANÁLISE FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. RESPONSABILIDADE CIVIL DO ESTADO. DEMORA INJUSTIFICADA NA CONCESSÃO DA APOSENTADORIA. DEVER DE INDENIZAR O SERVIDOR.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que a demora injustificada da Administração em analisar o requerimento de aposentadoria - no caso, mais de 1 (um) ano - gera o dever de indenizar o servidor, que foi obrigado a permanecer no exercício de suas atividades. Precedentes: STJ, REsp 968.978/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 29/03/2011; AgRg no REsp 1.260.985/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 03/08/2012; REsp 1.117.751/MS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 05/10/2009.
+2. No presente caso, fica evidente que eventual reforma do acórdão recorrido implicaria, necessariamente, em reexame do contexto probatório dos autos, providência vedada em sede de especial em virtude do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.694.600/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/05/2018, DJe 29/05/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. RESPONSABILIDADE CIVIL DO ESTADO. DEMORA INJUSTIFICADA NA CONCESSÃO DA APOSENTADORIA. DEVER DE INDENIZAR.
+1. A demora injustificada da Administração em analisar o pedido de aposentadoria gera o dever de indenizar o servidor, que foi obrigado a continuar exercendo suas funções de maneira compulsória. Precedentes: AgRg nos EDcl no REsp n. 1.540.866/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 12/2/2016; AgRg no REsp 1.469.301/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 3/11/2014).
+2. No caso, a Administração concedeu a aposentadoria pleiteada somente 03 (três) anos, 03 (três) meses e 09 (nove) dias após o protocolo do pedido, configurando manifesta demora injustificada a respaldar o dever de indenizar.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 483.398/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/10/2016, DJe de 25/10/2016.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. DEMORA INJUSTIFICADA NA CONCESSÃO DE APOSENTADORIA. NÃO CONFIGURAÇÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Não ocorre contrariedade ao art. 535, inc. II, do Código de Processo Civil, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre julgado contrário aos interesses da parte e inexistência de prestação jurisdicional.
+2. "O Superior Tribunal de Justiça firmou entendimento no sentido de que a demora injustificada da Administração em analisar o requerimento de aposentadoria - no caso, mais de 1 (um) ano - gera o dever de indenizar o servidor, que foi obrigado a permanecer no exercício de suas atividades" (AgRg no REsp 1.469.301/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 21/10/2014, DJe 3/11/2014).
+3. Entretanto, no caso dos autos, extrai-se do aresto hostilizado que o pedido de aposentaria é datado de 14/11/1999 e, logo em seguida, isto é, em 25/11/1999, o servidor ajuizou a presente demanda.
+4. A questão, portanto, foi judicializada, tendo a Corte Regional reconhecido o direito à aposentadoria. Diante desse quadro, não há falar em mora da Administração, apta a justificar reparação civil.
+5. O dissídio jurisprudencial não foi demonstrado nos moldes exigidos pelo art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça. Com efeito, o recorrente não comprovou a similitude fática entre a hipótese contida no acórdão impugnado e aquela tratada nos julgados apontados como paradigmas, nem realizou o cotejo analítico entre os arestos trazidos a confronto.
+6. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.484.005/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 25/8/2015, DJe de 11/9/2015.).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DEMORA INJUSTIFICADA NA CONCESSÃO DA APOSENTADORIA. DEVER DE INDENIZAR O SERVIDOR. PRECEDENTES DO STJ. AFASTAMENTO DAS ATIVIDADES. LEI LOCAL. SÚMULA 280/STF. AGRAVO REGIMENTAL IMPROVIDO.
+I. O Superior Tribunal de Justiça firmou entendimento no sentido de que a demora injustificada da Administração em analisar o requerimento de aposentadoria - no caso, mais de 1 (um) ano - gera o dever de indenizar o servidor, que foi obrigado a permanecer no exercício de suas atividades. Precedentes: STJ, REsp 968.978/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 29/03/2011; AgRg no REsp 1.260.985/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 03/08/2012; REsp 1.117.751/MS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 05/10/2009.
+II. Quanto à alegação de que teria sido facultado ao servidor o afastamento das atividades, durante a apreciação do pedido de aposentadoria, com fundamento na legislação estadual, tem-se que o exame de normas de caráter local é inviável, na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, por analogia, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+III. De qualquer sorte, o autor requereu a aposentadoria em 09/04/2007, cuja concessão foi publicada em 13/06/2008, de modo que não poderia ser alcançado pela posterior Lei Complementar Estadual 470/2009, que veio a facultar o afastamento do trabalho, em caso de atraso na concessão do benefício.
+IV. Agravo Regimental improvido.
+(AgRg no REsp n. 1.469.301/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/10/2014, DJe de 3/11/2014.).
+No mesmo sentido: REsp 1.891.095/SE, de minha relatoria, DJe 1º/10/2020.
+In casu, o acórdão recorrido, conquanto tenha reconhecido a ocorrência de demora injustificada da Administração por mais de um ano para a concessão da aposentadoria, entendeu que não seriam devidos os danos materiais, razão pela qual merece reforma.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer que é devida a indenização por danos materiais decorrentes da demora injustificada na concessão da aposentadoria, determinando o retorno dos autos ao Tribunal de origem, a fim de fixe os valores devidos a esse título, em conformidade com o entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
