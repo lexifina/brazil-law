@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por J.M & MARIN INVESTIMENTOS E PARTICIPACOES LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE ALUGUÉIS. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. APRESENTAÇÃO DE SEGURO GARANTIA RARA SEGURANÇA DO JUÍZO. POSSIBILIDADE. SEGURO QUE GARANTE A INTEGRALIDADE DO VALOR EM EXECUÇÃO. SUSPENSÃO DA EXECUÇÃO. DESNECESSIDADE DE CONCORDÂNCIA DA PARTE CREDORA. POIS NÃO SE TRATA DE PENHORA. DECISÃO MANTIDA.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e interpretação divergente do art. 835, § 2º, do CPC, no que concerne ao não cabimento da alteração da penhora em dinheiro por seguro-garantia, haja vista aquela ser preferencial na execução, cabendo sua alteração apenas em situações excepcionais devidamente justificadas nos autos, trazendo a seguinte argumentação:
+15. O Tribunal a quo manteve em sua integralidade a decisão que acolheu o seguro oferecido pela recorrida como garantia do juízo e considerou desnecessária a concordância da parte recorrente com a garantia prestada.
+16. Contudo, há de se atentar que, ao tratarmos da alteração da penhora de dinheiro por seguro-garantia, portanto aplicação do art. 835, §2º, do Código de Processo Civil é necessário se atentar ao entendimento jurisprudencial firmado pelo Superior Tribunal de Justiça acerca da respectiva norma.
+17. Conforme o extenso entendimento jurisprudencial do STJ, a alteração da preferência do dinheiro por seguro-garantia somente ocorrerá em casos excepcionais, quando necessário para evitar danos graves ao devedor, sem causar prejuízo ao exequente, senão vejamos:
+ ..
+18. Isto é, a penhora em dinheiro é preferencial na execução, devendo a alteração da ordem de preferência decorrer apenas de circunstâncias presentes no caso concreto capazes de justificar a adoção do seguro-garantia em seu lugar.
+19. Todavia, no presente caso, inexistem justificativas para a eventual substituição da penhora em dinheiro por seguro garantia, sendo que a parte recorrida sequer tentou demonstrar a excepcionalidade exigida pela jurisprudência desta Corte.
+20. Ou seja, o as instâncias ordinárias sequer enfrentaram o indispensável requisito da excepcionalidade, pois a parte recorrida sequer fez esforço argumentativo em demonstrá-la.
+21. Logo, em que pese o dinheiro e a fiança bancária equipararem-se ao seguro garantia judicial, conforme disposto no referido artigo, é necessário sopesar o entendimento jurisprudencial firmado pelo Superior Tribunal de Justiça, que condiciona tal possibilidade exclusivamente aos casos excepcionais:
+ ..
+24. Portanto, ausente o requisito para alteração da ordem preferencial de penhora, impossível considerar que o seguro serve ao propósito de garantir o juízo para obtenção do efeito suspensivo, motivo pelo qual requer-se a reforma da decisão recorrida.
+25. Destarte, requer seja dado provimento ao Recurso Especial, a fim de reformar o Acórdão recorrido e indeferira substituição da preferencia pela penhora de dinheiro (fls. 131-133).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+O seguro-garantia e a carta-fiança são instrumentos idôneos à garantia do adimplemento da obrigação e, por isso, aptos a produzir o efeito de suspensão do processo executivo, não suspendendo a exibilidade do débito.
+ ..
+Outrossim, desnecessária a concordância da parte contrária com a garantia prestada, pois não se trata de substituição de penhora em dinheiro por seguro, contrariamente ao alegado pelo agravante.
+ ..
+Outrossim, a parte credora não pode rejeitar a substituição do dinheiro pelo referido seguro, qual traz segurança e garantia às partes igualmente, sendo afastado somente por sua insuficiência pecuniária, defeito formal ou idoneidade, o que não aparenta ser o caso dos autos (fls. 111-112).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se a inda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ademais, quanto à alínea "c", verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
