@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por JOSENILDO FLOR DA SILVA JUNIOR contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" , da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE REINTEGRAÇÃO DE POSSE - PRELIMINAR DE IMPUGNAÇÃO À GRATUIDADE DA JUSTIÇA - REJEITAÇÃO - BENEFÍCIO CONCEDIDO PELO JUÍZO SINGULAR - ART. 99, § 7º, DO ATUAL CÓDIGO DE PROCESSO CIVIL - AUSÊNCIA DE PROVA DE MODIFICAÇÃO DA SITUAÇÃO FINANCEIRA - BENEFÍCIO MANTIDO - ART. 561 DO CÓDIGO DE PROCESSO CIVIL - REQUISITOS DEMONSTRADOS PELO AUTOR - DECISÃO SINGULAR MANTIDA - RECURSO NÃO PROVIDO. Demonstrada a hipossuficiência financeira do recorrente é possível o deferimento da gratuidade da justiça, nos termos do art. 99, § 7º, do novo Código de Processo Civil. Nos termos do art. 562 do CPC/2015, estando à petição inicial devidamente instruída com a demonstração dos elementos elencados no artigo 561, quais sejam: a posse do autor, a turbação ou o esbulho praticado pelo réu, a data do atentado possessório e a continuidade da posse injusta, o juiz poderá conceder a ordem liminar de imissão na posse sem ouvir o réu. Caso contrário, designará audiência de justificação prévia. Presentes os requisitos legais, em favor do autor/agravado deve ser mantido o deferimento liminar concedido pelo juízo singular. Recurso não provido" (fl. 534 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos arts. 300, § 3º, do Código de Processo Civil, 1.200, 1.201, 1.208 e 1.211 do Código Civil, ao fundamento de que a tutela antecipada deve ser indeferida.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O recurso em análise foi interposto em sede de agravo de instrumento contra decisão que deferiu o pedido de antecipação de tutela.
+Em relação à suscitada violação dos arts. 1.200, 1.201, 1.208 e 1.211 do Código Civil, o Superior Tribunal de Justiça, alinhado com o entendimento oriundo da Suprema Corte, vem aplicando, analogicamente, a orientação contida na Súmula nº 735/STF, não admitindo recursos especiais que se voltam contra decisões que deferem ou indeferem pedido de medida liminar ou antecipação de tutela, pois o julgamento de questões meritórios são inapropriadas para o momento.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA. ARTS. 11 E 489 DO CÓDIGO DE PROCESSO CIVIL DE 2015. OFENSA. NÃO OCORRÊNCIA. OMISSÃO. NÃO VERIFICAÇÃO. TUTELA DE URGÊNCIA. PERICULUM IN MORA. CONFIGURAÇÃO. AUSÊNCIA. ART. 300 DO CPC/2015. SÚMULA Nº 735/STF. INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Tratando-se da ponderação entre normas ou princípios eminentemente constitucionais, não cabe a esta Corte Superior apreciar a correção do entendimento firmado no acórdão recorrido, sob pena de usurpação de competência do Supremo Tribunal Federal.
+3. Não viola o art. 489 do Código de Processo Civil de 2015 nem importa em omissão a decisão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente.
+4. Na hipótese, a decisão agravada afastou a negativa de prestação jurisdicional, porque o aresto que apreciou os declaratórios entendeu pela inexistência de omissão, tendo em vista a manifestação anterior do tribunal de origem quanto à ausência do periculum in mora, requisito necessário à concessão da tutela de urgência.
+5. A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+6. Agravo interno não provido" (AgInt nos EDcl no AREsp 1.992.801/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 28/10/2022 - grifou-se).
+No que tange ao art. 300 do CPC, admite-se a mitigação do entendimento acima expresso quando o recurso visa a discutir "a interpretação legal das normas que regulam o deferimento da medida" (EDcl nos EDcl no REsp 1.280.826/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2014, DJe 2/2/2015).
+O acórdão recorrido assim se pronunciou sobre a fumaça do bom direito e o perigo na demora:
+"(..)
+Relata o agravante, que foi esbulhado na posse do imóvel pela parte adversa, por descuido anterior dos proprietários (Sr. Manoel Eustáquio e Sr. Margarida Maria Betim), conforme noticiado nos autos (n.º 1.0625.20.500381-6/001 e 1.0625.20.500483-0/001), ao argumento de que o culto magistrado singular, não se atentou ao teor das provas contidas nos autos.
+Inconformado com tal decisum, o réu/agravante, interpôs o presente recurso pelas razões já mencionadas, por não concordar com o deferimento do pleito liminar.
+Prescreve o diploma processual civil, mais precisamente no artigo 300 caput, que a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Nos termos do artigo 300 do Código de Processo Civil (Lei n.º13.105/2015), para que seja possível a concessão de tutela provisória de urgência, devem se fazer presentes, de forma cumulativa, os requisitos da probabilidade do direito invocado pela parte requerente, e da existência de perigo de dano caso a tutela jurisdicional demandada somente seja concedida em decisão final.
+Compulsando os autos e atento ao imbróglio processual, aos nossos olhos existe prova dos fatos nos quais se fundamenta a pretensão autoral, ao contrário das razões controvertidas a modificar o entendimento do juízo singular.
+Consoante dispõe o art. 558 do Código de Processo Civil de 2015, o procedimento de manutenção e de reintegração de posse terá rito especial disciplinado pelos artigos 560 a 568 do referido diploma legal, quando a ação for ajuizada dentro de ano e dia da turbação ou do esbulho narrado na petição inicial.
+Também, de ressaltar-se que nos termos do art. 562 do CPC/2015, estando a petição inicial devidamente instruída com a demonstração dos elementos elencados no artigo 561, quais sejam: a posse do autor, a turbação ou o esbulho praticado pelo réu, a data do atentado possessório e a continuidade da posse injusta, o juiz poderá conceder a ordem liminar de imissão na posse sem ouvir o réu. Caso contrário, designará audiência de justificação prévia.
+Em caso semelhante, já se posicionou esta Câmara:
+(..)
+Assim, feitas as devidas considerações e da análise exauriente dos autos, tenho que não restou demonstrada a alegada probabilidade do direito invocado pela parte agravante, razão pela qual inviável, assim, a antecipação dos efeitos da tutela recursal, a fim de suspender ou modificar a decisão atacada" (fls. 538/540 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
