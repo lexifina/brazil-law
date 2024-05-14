@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM RESP interpostos por MARIA MANUELA RODRIGUES VALENÇA TENÓRIO ROCHA CÔRTE REAL com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o AgInt nos EDcl no AREsp 1.114.609 / SP, proferido pela Quarta Turma.
+Requer, desse modo, o provimento dos presentes embargos de divergência.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, constata-se que os embargos de divergência trazem discussão acerca da fixação do valor de honorários advocatícios.
+Ocorre que, nos termos da jurisprudência pacificada do Superior Tribunal de Justiça, não há como admitir os embargos manejados, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios, o que não autoriza a abertura da presente via, uma vez que a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto.
+Nesse sentido colaciona-se o seguinte julgado:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA REJEITADOS LIMINARMENTE. HONORÁRIOS ADVOCATÍCIOS. CASO EM QUE NÃO HOUVE CONDENAÇÃO, DIANTE DA EXTINÇÃO DA EXECUÇÃO FISCAL, EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE, E EM QUE FICOU VENCIDA A FAZENDA PÚBLICA. APRECIAÇÃO EQUITATIVA. CPC 1973, ART. 20, § 4º. PARADIGMAS QUE NÃO ENVOLVERAM EXCEÇÃO DE PRÉ-EXECUTIVIDADE NEM A FAZENDA PÚBLICA COMO VENCIDA. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. "NÃO HÁ COMO ADMITIR OS EMBARGOS MANEJADOS, POIS, NA HIPÓTESE MENCIONADA, INEXISTE DIVERGÊNCIA DE TESES JURÍDICAS, MAS APENAS DIFERENÇAS CASUÍSTICAS NA FIXAÇÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS O QUE NÃO AUTORIZA A ABERTURA DA PRESENTE VIA, UMA VEZ QUE A AFERIÇÃO DA RAZOABILIDADE OU NÃO DO QUANTUM FIXADO ESTÁ INTRINSECAMENTE ATRELADA À ANÁLISE DAS PARTICULARIDADES DE CADA CASO CONCRETO." (STJ, AGINT NOS ERESP N. 1.563.944/RJ.) AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt nos EREsp n. 1.894.079/RJ, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 7/3/2023, DJe de 13/3/2023.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. RECURSO ESPECIAL NÃO CONHECIDO DIANTE DA APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+1. Não se admitem embargos de divergência para discutir a distribuição e o percentual arbitrado a título de honorários advocatícios, visto que, em tais hipóteses, inexiste divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios. Ademais, a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto (AgInt nos EREsp n. 1.322.257/RS).
+2. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.861.321/RO, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 21/6/2022, DJe de 24/6/2022.)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
