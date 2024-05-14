@@ -1,0 +1,18 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO EM SENTIDO ESTRITO. CRIMES CONTRAA HONRA. DIFAMAÇÃO E INJÚRIA. QUEIXA-CRIME. REJEIÇÃO. Artigo 395, inciso II, do Código de Processo Penal. Decisão que rejeitou a queixa-crime pela ausência de menção ao fato criminoso no instrumento de mandato. Insurgência dos querelantes. A menção dos tipos penais violados é suficiente para preencher os requisitos do artigo 44 do Código de Processo Penal. Precedentes do Colendo Superior Tribunal de Justiça e deste Egrégio Tribunal de Justiça. Decisão reformada. RECURSOPROVIDO. (e-STJ fl. 381)
+A defesa aponta a violação do art. 44 e 806, § 2º, do CPP, alegando, em síntese, que o recurso em sentido estrito não poderia ter sido conhecido em razão do não recolhimento do preparo. Sustenta também que "a mera indicação de que se trata de procuração outorgada para ajuizamento de queixa-crime "em razão dos crimes contra a honra praticados, que caracterizam difamação e injúria", não atende ao que determina o art. 44 do CPP.." (e-STJ fl. 431)
+Contrarrazões às e-STJ fls. 496/505.
+Manifestação do Ministério Público Federal às e-STJ fls. 580/583.
+A irresignação não prospera.
+Sobre a deserção, o TJSP assim se pronunciou:
+No mais, registro que além da suposta deserção do recurso em sentido estrito não ter sido alegada em sede de contrarrazões, verifica-se que a recorrente pugnou pelo benefício da justiça gratuita quando apresentou a queixa-crime, em 6/5/2020 (fls. 1/10), não tendo o douto magistrado de origem se manifestado acerca do pedido.
+Assim, somente havendo indeferimento na origem e não recolhidas as custas é que poderia implicar na perda do direito de ação. (e-STJ fl. 487)
+Verifica-se que, dos dois fundamentos utilizados para afastar a deserção, apenas o segundo foi impugnado pela defesa, o que atrai o óbice da Súmula n. 283 do STF.
+De toda forma, como bem assinalado no acórdão recorrido, o pedido de gratuidade da justiça foi efetuado quando do oferecimento da queixa-crime, mas não foi analisado pelo Magistrado. Assim não havendo o indeferimento do pedido não há que se falar em deserção. A propósito: AgRg no AREsp n. 2.116.207/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/10/2022, DJe de 17/10/2022.
+Anota-se ainda que a procuração outorgada pelo querelante ao seu advogado, para fins de ajuizamento de queixa-crime, não requer a descrição pormenorizada do fato criminoso, bastando, no dizer do art. 44 do CPP, a menção a ele, a qual se perfaz tanto com a indicação do artigo de lei como do nomen juris do crime no qual incidiram, em tese, os querelados (RHC n. 69.301/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 9/8/2016)."(AgRg no RHC n. 93.319/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/4/2018, DJe de 16/4/2018).
+No caso, a procuração contém menção expressa ao crimes de difamação e injúria, não havendo nenhuma irregularidade.
+Por fim, não se verifica a alegada ofensa ao art. 619 do CPP, pois a Corte Estadual enfrentou suficientemente todas as impugnações apresentadas pela defesa, não havendo falar em omissão ou falta de fundamentação no aresto hostilizado. Destarte, não há vícios no enfrentamento das teses defensivas, apenas inconformismo da parte com o resultado.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
