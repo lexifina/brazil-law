@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Edel Nau Pauli contra decisão assim ementada (fl. 447, e-STJ):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE LABORATIVA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O embargante sustenta que "considerando que a matéria de fundo do Recurso Especial restou apreciada e rejeitada pelo egrégio Tribunal de Justiça de Santa Catarina, tem-se que a matéria restou devidamente prequestionada" (fl. 459, e-STJ). Defende, ainda, que "o Recurso Especial quanto a inexistência de coisa julgada, por possuirem as demais causas de pedir e pedidos diversos, reveste-se dos pressupostos necessários ao seu conhecimento e provimento, não havendo de se falar em necessidade de revolvimento dos fatos ou provas (Súmula 7 STJ), na medida em que do próprio teor do julgado recorrido consta o reconhecimento que as ações possuíam causas de pedir e pedidos diferentes" (fl. 463, e-STJ).
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+Assim, deve o embargante, portanto, ao apontar a existência de erro, contradição, obscuridade ou omissão, indicar, de forma fundamentada, clara e balizada, o ponto em que a decisão embargada incorreu no vício alegado, não bastando a mera alegação de existência de vício do artigo 1.022 do CPC/2015.
+No caso dos autos, entretanto, o embargante fundamenta o recurso integrativo no inciso II do artigo 1.022 do CPC/2015 sem, contudo, apontar a existência de qualquer vício no decisum vergastado, de modo que a insurgência sequer merece ser conhecida.
+Além do mais, a decisão embargada não foi obscura, omissa, contraditória, tampouco apresentou erro material, tendo feito incidir a Súmula 211/STJ, ante a falta de prequestionamento dos dispositivos tidos por violados, e a Súmula 7/STJ, no que diz respeito à verificação de ocorrência da coisa julgada.
+Não há, portanto, irregularidade a ser sanada por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Como se nota, sob o pretexto de que há omissão no acórdão embargado, o embargante objetiva, por via transversa, alterar o resultado do julgado embargado promovendo novo julgamento da causa. Desse modo, ausentes os requisitos autorizadores dos embargos de declaração, não cabe, nesta sede, rediscutir o entendimento adotado pela decisão ora hostilizada.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
