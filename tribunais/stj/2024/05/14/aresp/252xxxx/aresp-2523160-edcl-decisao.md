@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS FERREIRA DE SOUZA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Sustenta a parte embargante que:
+5. De fato, a jurisprudência do STJ está sedimentada sobre a impossibilidade de revisão de distribuição de honorários sucumbenciais. No entanto, conforme apontado no próprio Agravo interposto pela parte Embargante, o Recurso Especial (fls. 440 a 449) pretende apenas a discussão sobre a base de cálculo dos respectivos honorários.
+6. Ou seja, ao contrário do apontado na decisão Embargada, o Recurso Especial não almeja a revisão da proporcionalidade de distribuição de honorários entre as partes sucumbentes (Autor e Réu), mas sim, discutir a base de cálculo que deverá ser aplicada para fins de apuração dos honorários devidos.
+ ..
+9. Ainda que ainda assim não fosse, como apontado na própria decisão embargada, excepcionalmente, será permitida a revisão da fixação de honorários quando for verificado excesso ou insignificância das importâncias arbitradas, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade. Assim, o presente caso preenche o requisito descrito acima, uma vez que, os honorários sucumbenciais foram fixados em total desproporcionalidade do proveito obtido pela defesa, uma vez que, o Recorrente auferiu êxito em obter proveito econômico correspondente, neste momento, a R$ 194.211,76 (cento e noventa e quatro mil duzentos e onze reais e setenta e seis centavos), correspondendo a cerca de 50% do valor atualizado da causa.
+10. Diante do exposto, requer-se o provimento dos presentes embargos de declaração, para reformar a decisão embargada, dando provimento ao Agravo para admitir o processamento do Recurso Especial interposto (fls. 532/534).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
