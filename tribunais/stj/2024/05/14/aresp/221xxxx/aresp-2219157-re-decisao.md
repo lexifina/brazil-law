@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas a julgamento foram decididas, pelo Tribunal de origem, mediante fundamentação clara e suficiente, sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao art. 1.022, incisos I e II, do Código de Processo Civil.
+2. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 5º, XXXV e LV, da Constituição Federal.
+Nesse sentido, argumenta ter havido afronta ao princípio da inafastabilidade de jurisdição, porque o julgado recorrido não teria conhecido do recurso especial, embora todos os requisitos autorizadores estivessem preenchidos.
+Sustenta que esta Corte Superior teria ofendido o princípio da ampla defesa e impedido o exercício do contraditório, uma vez que " ..  a parte não pode influenciar no julgamento, defender a sua tese e provar seu direito" (fl. 259).
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Inicialmente, defere-se o pedido de gratuidade de justiça formulado à fl. 254 tão somente no que se refere às custas para a interposição do presente recurso, nos termos do art. 98, § 5º, do Código de Processo Civil, bem como da Lei n. 1.060/1950.
+O Supremo Tribunal Federal já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Isso é o que ficou definido no Tema n. 660 do STF, no qual a Suprema Corte assim concluiu:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Ademais, o STF definiu que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional nas hipóteses em que houver óbice processual ao exame de mérito, ofensa indireta à Constituição Federal ou necessidade de análise de matéria fática.
+Essa é a conclusão consolidada no Tema n. 895 do STF, no qual a Suprema Corte assim concluiu:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso dos autos, o exame da alegada ofensa ao art. 5º, XXXV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF nos mencionados Temas n. 660 e 895.
+É o que se observa do seguinte trecho do acórdão recorrido:
+Inicialmente, reitero que a controvérsia foi decidida de modo suficiente, pois o Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e explícita sobre a causa, razão pela qual o julgado não merece reparo algum.
+No caso dos autos, o Tribunal de origem consignou que "a tese recursal fora genérica e sequer apontou o que seria algum valor devido, de modo que a pretensão ora trazida almeja rediscutir a matéria, o que não cabe por este meio processual" (fl. 104).
+Quanto ao mais, como constou na decisão ora agravada, o Tribunal de origem já havia consignado que (i) o laudo pericial foi acostado nos autos, tendo as partes sido intimadas para se manifestar, o que fizeram a tempo e modo; (ii) a recorrente, em sua petição, elencou cerca de 7 teses e trouxe quesitos complementares (evento 327), os quais foram devidamente respondidos, de forma pontuada e específica pelo expert (evento 337); (iii) insatisfeita com as respostas, a recorrente apresentou nova manifestação (evento 341), agora comentando o que supostamente deveria ter sido feito pelo perito, com base em parecer que trouxe ao processo; e (iv) nas manifestações e nos pareceres trazidos pela parte recorrente ao feito, não é revelado qual seria o valor então devido, restringindo-se suas arguições em apontar defeitos no cálculo de forma superficial, sem sequer esclarecer no que isso importaria.
+Com efeito, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, motivo pelo qual rejeito a alegação de ofensa ao art. 1.022 do Código de Processo Civil.
+Exemplificativamente:
+ ..
+Por esse motivo, não há como ser reconhecida a violação do art. 1.022 do CPC/2015 como pretendido nas razões do presente recurso.
+Os entendimentos em questão foram adotados sob o regime da repercussão geral e são de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Por fim, registro a existência de publicação produzida pela Secretaria de Comunicação Social do Superior Tribunal de Justiça sobre a análise dos recursos extraordinários interpostos contra julgados desta Corte Superior, conteúdo de eventual interesse das partes, disponível para acesso por meio do QR Code a seguir:
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Observando os princípios da cooperação e da celeridade, registro que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme o disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. EXISTÊNCIA DE ÓBICE AO EXAME DE MÉRITO, DEBATE FÁTICO OU OFENSA CONSTITUCIONAL INDIRETA. NATUREZA INFRACONSTITUCIONAL. TEMA N. 895 DO STF. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
