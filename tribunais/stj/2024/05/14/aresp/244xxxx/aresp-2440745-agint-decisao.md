@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto pela SUPERMERCADO GENIAL"S LTDA. contra decisão da lavra da Presidência desta Cor te Superior em que o agravo em recurso especial não foi conhecido por não ter impugnado de forma especificada os fundamentos da decisão de prelibação do Tribunal gaúcho.
+O agravante alega que os fundamentos da decisão de prelibação foram corretamente impugnados, devendo o agravo ser provido para que seja julgado o recurso especial.
+Passo a decidir.
+Tem razão o agravante.
+O agravante impugna a decisão de inadmissão na parte que aplica o óbice da Súmula 518 do STJ ao afirmar que o fundamento do recurso especial é a violação do art. 168 do CTN e que a indicação da Súmula 213 do STJ foi apresentada apenas como fundamento da sua alegação.
+No que concerne à aplicação da Sumula 83 do STJ, sustenta que o acórdão estaria fundamentado em entendimento contrário à orientação jurisprudencial firmada em recurso repetitivo (Tema 173 do STJ).
+Por esta razão, reconsidero a decisão da Presidência e passo à apreciação do recurso especial.
+O apelo nobre se origina de mandado de segurança impetrado contra a cobrança de ICMS energia elétrica em alíquota superior à geral, bem como o pedido de declaração do direito à compensação dos valores indevidamente recolhidos.
+No Primeiro grau da jurisdição, a segurança foi concedida em parte para reconhecer violação do princípio da seletividade na fixação de alíquota de ICMS energia elétrica em patamar superior à alíquota geral e reconhecer-se o direito à repetição, não se autorizando a compensação tributária do indébito.
+O Tribunal gaúcho deu parcial provimento à apelação para reconhecer o direito do contribuinte de fato de pleitear a compensação dos valores indevidamente recolhidos nos últimos cinco anos pela via administrativa, em acórdão assim ementado:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. ICMS SOBRE ENERGIAELÉTRICA E SERVIÇOS DE TELECOMUNICAÇÕES. TEMA 745 DOSTF. MANDADO DE SEGURANÇA. EFEITOS PECUNIÁRIOSRETROATIVOS AOS CINCO ANOS ANTERIORES AO AJUIZAMENTO.
+APURAÇÃO NA ESFERA ADMINISTRATIVA, COM OBSERVÂNCIA DO ART. 166 DO CTN. APLICAÇÃO DO TEMA 118 E DA CONTROVÉRSIA43, AMBOS DO STJ. JULGAMENTO CONCLUÍDO NA FORMA DO ART.942 DO CPC.
+POR MAIORIA, APELAÇÃO PROVIDA E, NO MAIS, SENTENÇA CONFIRMADA EM REMESSA NECESSÁRIA.
+O recorrente interpôs o presente recurso especial alegando violação dos arts. 166 e 168 do CTN, aduzindo não ser não sendo necessária a demonstração do cumprimento dos requisitos do art. 166 do CTN.
+Pois bem.
+Inicialmente, em que pese a recorrente ter suscitado a violação do art. 166 do CTN na compensação de tributação indevida, a controvérsia submetida ao julgamento desta Corte versa acerca da sua má aplicação ao caso concreto, diante da legitimidade ativa do contribuinte de fato (consumidor final) para discutir a compensação tributária de ICMS energia elétrica recolhida em alíquota excessiva.
+O ICMS, com cediço, é um tributo indireto e, por isso, comporta o imediato repasse econômico da exação na composição do preço da mercadoria exigido do adquirente.
+Não há dúvida de que o imposto estadual é custo do empresário, contribuinte de direito, sendo dele a responsabilidade pelo recolhimento; mas, via de regra, essa despesa é, na realidade, suportada pelo consumidor, porquanto embutida no preço da oferta.
+Nesse contexto, a irresignação recursal tem suporte na orientação jurisprudencial firmada no julgamento do Tema 537 do STJ, segundo a qual, "diante do que dispõe a legislação que disciplina as concessões de serviço público e da peculiar relação envolvendo o Estado-concedente, a concessionária e o consumidor, o último tem legitimidade para propor ação declaratória c/c repetição de indébito na qual se busca afastar, no tocante ao fornecimento de energia elétrica, a incidência do ICMS sobre a demanda contratada e não utilizada".
+Essa mesma razão de decidir foi adotada em outros arestos que examinaram demandas em que o consumidor final discutia a tributação incidente sobre serviço prestado por concessionária de serviço público. A propósito, confiram-se os seguintes arestos:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ICMS. SERVIÇO DE ÁGUA ENCANADA. REPETIÇÃO DE INDÉBITO. LEGITIMIDADE ATIVA DO CONTRIBUINTE DE FATO. AGRAVO REGIMENTAL DO ESTADO DO RIO DE JANEIRO A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior de Justiça entende que o consumidor de água encanada (contribuinte de fato) tem legitimidade para pleitear a repetição de indébito referente ao ICMS cobrado ilegalmente. Precedentes: REsp. 1.349.196/RJ, Rel. Min. BENEDITO GONÇALVES, DJe 11.3.2013 e REsp 704.373/MG, Rel. Min. HERMAN BENJAMIN, DJe 31.8.2009.
+2. Ante o exposto, nega-se provimento ao Agravo Interno do ESTADO DO RIO DE JANEIRO.
+(AgRg no RMS n. 35.431/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/5/2019, DJe de 20/5/2019.).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ICMS. SERVIÇO DE PROVEDORES DE ACESSO À INTERNET. NÃO INCIDÊNCIA. AÇÃO DE REPETIÇÃO DE INDÉBITO. LEGITIMIDADE. CONSUMIDOR FINAL. APLICAÇÃO, MUTATIS MUTANDIS, DO QUE DECIDIDO NO RESP 1.299.303/SC, REPRESENTATIVO DA CONTROVÉRSIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Primeira Seção/STJ, ao apreciar o REsp 1.299.303/SC (Rel. Min. Cesar Asfor Rocha, DJe de 14.8.2012), aplicando a sistemática prevista no art. 543-C do CPC, pacificou entendimento no sentido de que o usuário do serviço de energia elétrica (consumidor em operação interna), na condição de contribuinte de fato, é parte legítima para discutir a incidência do ICMS sobre a demanda contratada de energia elétrica ou para pleitear a repetição do tributo mencionado, não sendo aplicável à hipótese a orientação firmada no julgamento do REsp 903.394/AL (1ª Seção, Rel. Min. Luiz Fux, DJe de 26.4.2010 - recurso submetido à sistemática prevista no art. 543-C do CPC).
+2. Tal entendimento é aplicável, mutatis mutandis, ao caso concreto, não obstante se refira a pedido de repetição de indébito do ICMS supostamente indevido em relação a serviço de provedor de acesso à Internet (fornecido por concessionária de serviço público de telecomunicação).
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.473.551/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/12/2014, DJe de 10/12/2014.).
+Assim, mostra-se, na hipótese, inaplicável a condição estabelecida no art. 166 do CTN à repetição do indébito, não se tratando de hipótese em que o contribuinte de direito pleiteia a repetição de indébito, mas de pleito de repetição de indébito formulado pelo contribuinte de fato, consumidor da energia elétrica, legitimado para este pedido.
+Ante  o  exposto:
+(i) RECONSIDERO a decisão da presidência; e
+(ii) com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  DAR PROVIMENTO  do  recurso  especial, a fim de reconhecer a inaplicabilidade da condição estabelecida no art. 166 do CTN à repetição do indébito, não se tratando de hipótese em que o contribuinte de direito pleiteia a repetição de indébito, mas de pleito de repetição de indébito formulado pelo contribuinte de fato, consumidor da energia elétrica, legitimado para este pedido.
+Publique-se. Intimem-se.
+EMENTA
