@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO C/C COBRANÇA E INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. INÉPCIA DA INICIAL. SÚMULA 283/STF. ILEGITIMIDADE PASSIVA E IMPROCEDÊNCIA DOS PEDIDOS. SÚMULA 7/STJ. NULIDADE DA CLÁUSULA QUE INIBE A PRORROGAÇÃO DA LOCAÇÃO. SÚMULAS 282 E 356/STF. DESCABIMENTO DA MULTA, JUROS E CORREÇÃO MONETÁRIA. SÚMULA 284/STF. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Não assiste razão à agravante quando persiste na tese de ocorrência de negativa de prestação jurisdicional, porque as questões consideradas omitidas foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. Incidente a Súmula 283/STF, porquanto a recorrente não impugnou o fundamento da decisão recorrida (inexistência de prejuízo à defesa decorrente da apresentação equivocada de documentos no momento da propositura da ação).
+3. Incidente a Súmula 7/STJ, uma vez que o acolhimento das teses de ilegitimidade passiva e improcedência dos pedidos demanda nova incursão no conjunto probatórios dos autos.
+4. Incidentes as Súmulas 282 e 356/STF, tendo em vista a falta de manifestação do Tribunal de origem sobre a tese recursal, nulidade de cláusula contratual.
+5. Incidente a Súmula 284/STF pois, embora a recorrente tenha feito pedido de afastamento da multa, dos juros e da correção monetária, não desenvolveu capítulo demonstrando as supostas violações de dispositivos de lei federal.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.
+Os primeiros embargos de declaração opostos contra o referido acórdão foram acolhidos, porém sem efeitos infringentes, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TESE DE OMISSÃO QUANTO À ARGUIDA PREVENÇÃO. OMISSÃO VERIFICADA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material.
+2. Omissão - sobre a alegada prevenção - verificada.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+Os aclaratórios subsequentes foram rejeitados.
+A parte recorrente aponta a ocorrência de violação do art. 5º, LIII e LIV, da Constituição Federal e aduz haver repercussão geral da matéria.
+Em suas razões, sustenta que o acórdão recorrido, ao não reconhecer a prevenção da Quarta Turma deste Tribunal Superior para a apreciação da causa, afrontou os princípios do devido processo legal e do juiz natural. Isso porque o referido órgão fracionário teria julgado demanda anterior afeta ao mesmo contrato e ato jurídico que seriam objetos desta lide.
+Afirma, ainda, que a referida competência seria de natureza absoluta e estaria definida nos arts. 58 e 59 do Código de Processo Civil, razão pela qual haveria um critério objetivo de distribuição, que visaria a "uma melhor prestação jurisdicional, facilitando ao cidadão o acesso ao Poder Judiciário" (fl.967).
+Ademais, pontua não ter tido tempo hábil para alegar a prevenção nesta demanda, porquanto o lapso temporal entre a intimação da distribuição ao Ministro relator e o proferimento da decisão monocrática que julgou o recurso especial teria sido exíguo.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+O Supremo Tribunal Federal já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Isso é o que ficou definido no Tema n. 660 do STF, no qual a Suprema Corte fixou a seguinte tese:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 660.
+É o que se observa do seguinte trecho do acórdão proferido no julgamento dos primeiros embargos de declaração opostos contra o acórdão recorrido (fls. 913-914, grifo acrescido):
+A jurisprudência desta Corte Superior é no sentido de que, não havendo o reconhecimento de ofício da prevenção, ela deve ser arguida pela parte até o início do julgamento, sob pena de preclusão.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 182/STJ E DO ARTIGO 1.021, § 1º, DO CPC/2015. PREVENÇÃO. ARTIGO 71 DO RISTJ. NULIDADE RELATIVA. PRECLUSÃO. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. CABIMENTO.
+1. Ação de cobrança, em fase de cumprimento de sentença.
+2. Nos termos do artigo 1.021, § 1º, do CPC/2015 e da Súmula n. 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. A jurisprudência do STJ é firme no sentido de que a " ..  não observância da regra de prevenção contida no art. 71 do RISTJ gera apenas nulidade relativa, de modo que, caso não seja reconhecida de ofício, deve ser suscitada até o início do julgamento do recurso pelo colegiado ou monocraticamente pelo relator, sob pena de preclusão, nos termos do § 4º do citado artigo  .. " (AgRg no AREsp 579.503/SP, Terceira Turma, DJe de 5/8/2015). Precedentes.
+4. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC/2015.(AgInt no AREsp n. 2.312.539/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Assim, a arguição de tal matéria se mostra preclusa.
+Observada a fundamentação acima transcrita, infere-se que a apreciação da alegada violação do princípio do juiz natural dependeria da análise do art. 71 do Regimento Interno do Superior Tribunal de Justiça, bem como dos arts. 58 e 59 do Código de Processo Civil, suscitados pelo recorrente em suas razões, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso de que a prevenção não teria sido suscitada antes do julgamento monocrático do recurso especial seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte ("Para simples reexame de prova não cabe recurso extraordinário").
+Em casos semelhantes, assim já decidiu o STF:
+Agravo regimental em recurso extraordinário com agravo. 2. Direito Eleitoral. 3. Ação de Investigação Judicial Eleitoral. Condenação por captação ilícita de sufrágio e abuso de poder econômico. 4. Prova emprestada. Alegada prevenção do juízo eleitoral que deferiu as diligências em investigação criminal eleitoral. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental.
+(ARE n. 1.465.863 AgR, relator Ministro Gilmar Mendes, Segunda Turma, julgado em 9/4/2024, DJe de 17/4/2024)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. DISTRIBUIÇÃO DO PROCESSO NA ORIGEM. PREVENÇÃO. JUIZ NATURAL. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmula 279 do STF).
+2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.
+(ARE n. 1.367.479 AgR, relator Ministro Luiz Fux - Presidente, Tribunal Pleno, julgado em 2/5/2022, DJe de 11/5/2022)
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário, em relação à suscitada ofensa ao art. 5º, LIV, da Constituição Federal, e, quanto à alegada violação do princípio do juiz natural, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO. DIREITO PROCESSUAL CIVIL. PREVENÇÃO. OFENSA AO PRINCÍPIO DO JUIZ NATURAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VERBETE 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
