@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED ANHANGUERA COOPERATIVA DE TRABALHO MÉDICO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL. Obrigação de fazer. Plano de saúde. Determinação do C. STJ para novo julgamento da apelação, à luz da decisão proferida pela 2a Seção. Lei nº 14.454/2022 que estabeleceu critérios para a mitigação do rol de procedimentos da ANS. Lei nº 14.454/2022 acresceu o § 13 ao art. 10 da Lei nº 9.656/98 e estabeleceu a cobertura obrigatória dos procedimentos médicos ainda que não listados no rol da ANS desde que atendidas suas condições. Comprovação de eficácia cientifica. Recurso desprovido" (e-STJ fl. 619).
+No seu arrazoado, a parte recorrente alega violação dos arts. 10, § 13, da Lei nº 9.656/1998 e 51 do Código de Defesa do Consumidor, sob o argumento de que os procedimentos previstos no rol taxativo da ANS não foram esgotados, inexistindo obrigatoriedade de custeio ou abusividade na negativa de cobertura do exame pretendido.
+Afirma que:
+"(..)
+Isto porque, rememore-se que o médico assistente solicitou o Pet-Scan para diagnosticar a origem do câncer da paciente, contudo, um simples Ultrassom seria suficiente para direcionar uma biópsia - sendo que a biópsia é o único exame capaz de diagnosticar qualquer tipo de câncer.
+Importante destacar, ainda, que a paciente veio a falecer em razão de câncer de mama, o qual também poderia ter sido descoberto pelo médico assistente através de exame clínico, ultrassom ou mamografia - exames estes que fazem parte do ROL e teriam sido custeados pela Recorrente.
+(..)
+Cumpre destacar que não existe comprovação de benefício clínico do uso de PET-CT em relação aos exames convencionais de suspeita de câncer primário desconhecido, tampouco no diagnóstico de câncer de mama. Inclusive, é por esta razão (inexistência de comprovação de benefício clínico) que a Agência Nacional de Saúde (ANS) não incluiu tal indicação na sua DUT nº 60, que trata das hipóteses em que o PET-CT deve ser realizado" (e-STJ fls. 637/638).
+Apresentadas contrarrazões às e-STJ fls. 646/651 .
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+A autora foi diagnostica com neoplasia maligna, necessitando da realização do exame PET-SCAN/ PET-CT para descoberta da origem da doença e para indicação do melhor tratamento a ser realizado, o que lhe foi negado pela operadora de saúde.
+(..)
+A negativa para o custeio do exame requerido em questão, corriqueiramente trazida ao conhecimento e decisão deste E. Tribunal, fundamenta-se na taxatividade do rol ANS.
+A autora está acometida de neoplasia maligna, doença extremante grave, sendo que quanto mais preciso for o diagnostico, com a realização de exames específicos, há maior chance de ser realizado um tratamento bem-sucedido de cura.
+Há indicação médica para a realização do exame e existe comprovação de sua eficácia com base em evidências científicas (https://estudogeraLuc.pt/handle/10316/43557 locale=pt), nos termos do parágrafo § 13 do art. 10 da Lei dos Planos de Saúde, capaz de excepcionalmente autorizar o custeio pela operadora de saúde e mitigar o rol.
+A negativa pretendida pela requerida priva a autora dos avanços tecnológicos e científicos da medicina no tratamento de sua doença, levando em conta a natureza do contrato de plano de saúde (cativo de longa duração).
+Os procedimentos cobertos pelos planos de saúde são insuscetíveis de limitações durante o tratamento quando está em risco a proteção da saúde, bem jurídico especialmente relevante, que deve ser priorizado em detrimento de qualquer outro.
+(..)
+Assim, ainda que alteração superveniente do entendimento jurisprudencial e da legislação consignem a taxatividade do rol da ANS, pedidos como o dos presentes autos podem ser considerados excepcionais a fim de serem integralmente providos, tanto pela evidência científica, quanto pelo entendimento de que quanto mais preciso for o diagnostico, com a realização de exames específicos, há maior chance de ser realizado um tratamento bem-sucedido de cura da autora, portadora de doença extremamente grave.
+Mais não é preciso dizer para a manutenção da r. sentença e acórdão já proferidos, sendo que o exame, atende ao requisito do art. 1º, § 13, inciso I, da nº Lei 9.656/1998, porque há prova de eficácia baseada em evidências científicas e plano terapêutico, à luz das ciências da saúde" (fls. 622/626, e-STJ - grifou-se).
+Quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), a Segunda Seção desta Corte Superior chegou à conclusão de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Nesse contexto, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Ademais, diante da aplicabilidade imediata da lei nova, nos tratamentos de caráter continuado, deverão ser observados, a partir da sua vigência, os critérios trazidos pela Lei nº 14.454/2022, conforme o art. 10, § 13:
+"Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais".
+Como  se  verifica,  a  inovação  normativa  praticamente  positivou  os  critérios  delineados  pela  Segunda  Seção  do  STJ.
+Em  outras  palavras,  a  Lei  nº  14.454/2022  promoveu  alteração  na  Lei  nº  9.656/1998  para  estabelecer  critérios  que  permitam  a  cobertura  de  exames  ou  tratamentos  de  saúde  que  não  estão  incluídos  no  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar.
+Assim,  com  a  edição  da  Lei  nº  14.454/2022,  o  Rol  da  ANS  passou  por  sensíveis  modificações  em  seu  formato,  suplantando  a  eventual  oposição  rol  taxativo/rol  exemplificativo.
+Cabe  ressaltar  que  os  efeitos  práticos  serão  similares,  isto  é,  tais  efeitos  ultrapassam  eventuais  rótulos  reducionistas.
+A respeito, confira-se o Enunciado nº 109 das Jornadas de Direito da Saúde:
+"Solicitado procedimento ou tratamento médico não previsto no Rol da ANS, cabe verificar, além das condições legais descritas no artigo 10, § 13 da Lei nº 9.656/98: a) se existe, para o tratamento do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol da ANS; b) se não foi indeferida pela ANS a incorporação do procedimento ou tratamento; c) se há expressa exclusão regulamentar ou legal em relação ao procedimento ou tratamento solicitado; d) se há notas ou pareceres técnicos de órgãos tais como a Conitec e o NatJus que avaliaram tecnicamente a eficácia, acurácia e efetividade do plano terapêutico"
+Entretanto, esta Corte Superior possui entendimento consolidado no sentido de que é obrigatório o custeio de exames e procedimentos para o tratamento de câncer pelos planos de saúde, como é o caso dos autos.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS JULGADA PROCEDENTE. NEGATIVA DE COBERTURA. EXAME PET-SCAN. PRESCRIÇÃO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. RECUSA. ABUSIVIDADE. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA CONFIGURAÇÃO DE DANO MORAL INDENIZÁVEL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, a Súmula n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+2. A ausência de indicação dos artigos tidos por vulnerados ou que tiveram a interpretação divergente não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida, sendo de rigor a incidência da Súmula 284 do Supremo Tribunal Federal.
+3. Reverter a conclusão do acórdão recorrido, para acolher a pretensão recursal, demandaria, necessariamente, a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido."
+(AgInt no REsp 2.098.663/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA NÃO EVIDENCIADO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECUSA DE COBERTURA DE PROCEDIMENTO. ABLAÇÃO POR MICRO-ONDAS. PACIENTE EM TRATAMENTO DE CÂNCER. RECUSA ABUSIVA. PRECEDENTES DO STJ. DANOS MORAIS CONFIGURADOS. INCIDÊNCIA DA SÚMULA 83/STJ. QUANTUM INDENIZATÓRIO. REDUÇÃO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+(..)
+2. Por ocasião do julgamento do REsp 1.733.013/PR, "fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no REsp 1.949.270/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/02/2022, DJe de 24/02/2022).
+3. No caso, trata-se de procedimento vinculado a tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+4. Consoante a jurisprudência do STJ, "a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário" (AgInt nos EDcl no REsp 1.963.420/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/2/2022, DJe de 21/2/2022).
+5. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no REsp 2.076.263/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023 - grifou-se)
+"AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA REALIZAÇÃO DE EXAME PET-SCAN. AUTOR PORTADOR DE NEOPLASIA MALIGNA.
+1. A necessidade de cobertura de procedimentos não previstos no rol da ANS deve ser observada caso a caso, podendo ser admitida, de forma excepcional, quando demonstrada a efetiva necessidade, por meio de prova técnica, como no caso dos autos, em que a realização do exame PET-SCAN se apresenta indispensável para o tratamento de neoplasia maligna de alto grau, acometida pela parte recorrida, de forma que deve ser garantida a cobertura do referido procedimento. Precedentes.
+2. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.984.029/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023 - grifou-se)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PET-CT OU PET-SCAN. PRESCRITO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES. NEGATIVA ILÍCITA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Por ocasião do julgamento do REsp 1.733.013/PR, "fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no REsp 1.949.270/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+3. No caso, trata-se de exame vinculado a tratamento de câncer, hipótese e m que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Precedentes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido."
+(AgInt no REsp 2.099.007/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/12/2023, DJe de 15/12/2023 - grifou-se)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
