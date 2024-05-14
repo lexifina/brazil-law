@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSÉ DIVINO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL DO ESTADO, POR ATO JUDICIAL. DEMORA NA PRESTAÇÃO JURISDICIONAL. MOROSIDADE DA JUSTIÇA. DEVER DE INDENIZAR DO ESTADO. INOCORRÊNCIA. DANO MORAL NÃO CONFIGURADO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS. SENTENÇA MANTIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 37, §6º, da Constituição Federal, e 186 e 927, ambos do Código Civil. Sustenta que o ora recorrido foi o responsável pelo extravio do processo, o que retardou por quase vinte anos a prestação jurisdicional ao recorrido, trazendo a seguinte argumentação:
+O acórdão, ora guerreado, violou os dispositivos de lei federal, qual seja: art.37, §6º da CF, e art. 186 e 927 do CC, visto que o Tribunal, a quo, (TJ-GO), não apreciou as teses levantadas pelo Recorrente, a qual teriam o condão e capacidade de infirmar o julgado. Senão Vejamos:
+Artigo 37, 6º da Constituição Federal, foi violado porque o tribunal "a quo" justificou que "a simples demora na prestação jurisdicional não pode ensejar a responsabilidade civil do Estado", no presente caso, não se trata de uma simples demora, mas sim de um extravio de processo que causou ao recorrente danos e prejuízos.
+Extravio esse que por si só, gera ao recorrido a responsabilidade pela negligencia e dever de indenizar o prejudicado.
+Artigo 186 e 927 do Código Civil, ambos foram violados pelo tribunal "a quo", ao alegar que não houve demonstração de dano, culpa, e a relação de causalidade entre a conduta do agente e o prejuízo sofrido pela vítima.
+No acordão recorrido, o tribunal "a quo", afirmou que o recorrido somente possui o dever de indenizar nos casos em que ficar comprovado erro do judiciário, assim como o que ficar preso além do tempo fixado na sentença.
+Conforme preconiza o Art. 5º.
+(..)
+LXXV -o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença."
+Todavia, no presente caso, deve-se levar em conta a responsabilidade da recorrida pelo extravio do processo, que retardou por quase vinte anos a prestação jurisdicional ao recorrente.
+Veja-se que consta no acordão que "a simples demora na prestação jurisdicional não pode ensejar a responsabilidade civil do Estado, a não ser na hipótese de deliberada negligência do Magistrado na condução do processo".
+Todavia, a demora deu justamente pelo extravio do processo, sendo necessário ajuizar ação de restauração, no qual foram interpostos diversos recursos pela parte contrária.
+Portanto, com a Devida Máxima Vênia, Excelência, o acordão recorrido do Tribunal "a quo" (TJ-GO), violou dispositivos de lei federal, acima explanado, porque deixou de apreciar e enfrentar as teses suscitadas pelo Recorrente, as quais tinham o condão de infirmar o acordão recorrido, cuja consequência jurídica, possivelmente, seria favorável aos pleitos do Recorrente, portanto, o acordão recorrido merece ser reformado.
+Vejamos entendimento jurisprudencial:
+ ..
+Vejamos recente entendimento do Superior Tribunal de Justiça quanto a responsabilidade do estado pela morosidade na prestação jurisdicional.
+Vênia Concessa, não se procura obter deste Colendo Superior Tribunal de Justiça a reavaliação de dados probatórios, impossível na sede especial, a teor de sua Súmula número 7, até porque não se está questionando os fatos, mas apenas a conclusão jurídica do acórdão recorrido, proferido pelo tribunal "a quo", TJ-GO.
+Razão pela qual merece conhecimento e provimento ao presente Recurso Especial, para que, seja dado o devido seguimento ao recurso, com a revaloração jurídica dos fatos incontroversos conforme delineados na decisão do acordão recorrido, portanto, requer a reformado Acórdão recorrido.
+Deste modo, torna-se necessário anular o acordão da quinta Câmara Cível do TJ-GO, para que seja dado prosseguimento regular ao feito, com nova decisão (fls. 292-298).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional (art. 37, § 6º, da Constituição Federal) porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+De início, é cediço que a Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação."
+No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Portanto, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Dito isto, vale pontuar que, para reconhecer-se a responsabilidade de indenizar, é indispensável a presença dos seguintes pressupostos legais: a) o dano; b) a culpa; e c) a relação de causalidade entre a conduta do agente e o prejuízo sofrido pela vítima.
+ ..
+Assim, de acordo com a teoria objetiva do risco administrativo, a indenização será devida, independente da análise da culpa do agente, desde que demonstrada a existência do fato danoso e do nexo causal, excluindo-se a responsabilidade civil apenas se comprovada a culpa exclusiva da vítima, fato exclusivo de terceiro, caso fortuito ou força maior.
+Contudo, o reconhecimento da responsabilidade civil do Estado pelos atos judiciais depende da ocorrência de dolo, fraude, culpa ou mesmo de erro grosseiro do julgador, não se aplicando a regra inserta no artigo 37, § 6º, da CR/1988, mas sim aquela prevista no artigo 5º, inciso LXXV, da Carta Magna, limitando-se, pois, às hipóteses de erro judiciário. Confira-se:
+"Art. 5º. (..)
+LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença."
+No caso em estudo, nota-se que o autor alegou ter demonstrado nos autos a responsabilidade do réu pelos danos morais noticiados, tendo em vista a demora do Juízo singular em julgar a sua pretensão, o que causou-lhe muito mais que mero dissabor.
+Na sentença, a MM. Juíza, após análise do conjunto probatório, assim pontuou (mov. 78):
+"Verifica-se, que o extravio dos autos judiciais em cartório, por si só, não causou prejuízo ao promovente, que se valeu do procedimento de restauração dos autos, sendo este cumprido no tempo oportuno.
+A demora no trâmite processual se deu em decorrência dos vários recursos que foram interpostos pelas partes, inclusive pelo próprio autor da ação.
+Nessa situação, fica evidente que no momento do extravio, o processo não se encontrava em fase de cumprimento de sentença, como narrado em audiência, mas sim em fase recursal.
+Perante o exposto, não é possível identificar dolo, fraude ou culpa grave por parte dos agentes públicos envolvidos."
+Dessa forma, adiro-me ao entendimento do MM. Juiz de que o autor, ora recorrente, não logrou êxito em comprovar (art. 373, I, CPC) que o serviço judiciário foi prestado de forma ineficiente, violando os princípios da duração razoável do processo e da celeridade processual, nem demonstrou o abalo moral decorrente da conduta alegada, a ponto de ser o Estado responsabilizado a reparar tal dano.
+Assim, feito, não tendo havido dolo ou culpa grave do magistrado condutor da ação de origem, no exercício de sua jurisdição, não vejo a presença dos requisitos a ensejar a configuração do dever de indenizar, razão pela qual a improcedência do pedido inicial é medida que se impõe (fls. 246-248).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
