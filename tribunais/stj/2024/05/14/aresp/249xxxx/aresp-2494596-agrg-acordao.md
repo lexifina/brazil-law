@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. ALEGAÇÃO DE ERRO DE DIGITALIZAÇÃO. AUSÊNCIA DE CERTIDÃO COMPROBATÓRIA. INTERPOSIÇÃO DO RECURSO ESPECIAL VIA E-MAIL. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. A mera alegação de erro de digitalização sem a certidão comprobatória oriunda do Tribunal de origem não é apta a afastar o não conhecimento do recurso por falha em sua instrução. Precedentes.
+2. A jurisprudência desta Corte é firme no sentido de que o recurso interposto via email é tido por inexistente, não podendo ser considerado o correio eletrônico instrumento similar ao fac-símile para fins de aplicação do disposto na Lei n. 9.800/1999, na medida em que, além de não haver previsão legal para sua utilização, não guarda a mesma segurança de transmissão e registro de dados (AgInt no RMS n. 61.298/BA, Ministro Benedito Gonçalves, Primeira Turma, DJe 22/5/2020).
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Ana Lucia Leite contra a decisão monocrática da Presidência desta Corte que não conheceu do recurso, mediante os seguintes fundamentos (fl. 829 - grifo nosso):
+ ..  Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ANA LUCIA LEITE, a parte enviou ao tribunal de origem a petição recursal via e-mail (fls. 697/732).
+Nos termos da jurisprudência do STJ, o uso de correio eletrônico não se equipara ao do fax ou do processo eletrônico, que são regidos pelas Leis 9.800/1999 e 11.419/2006, respectivamente, carecendo, portanto, de amparo legal (AgInt nos EDcl no AREsp 1518760/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe de 28/04/2020).
+Considera-se, assim, inexistente o recurso protocolado por e-mail (AgInt no RMS 61.298/BA, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 22/05/2020).
+ ..
+Seguiu-se a oposição de embargos de declaração, os quais foram rejeitados (fls. 862/865).
+Nas razões do agravo regimental, a defesa sustenta, preliminarmente, a nulidade dos atos posteriores a digitalização realizada no Tribunal a quo, uma vez que, tanto o Recurso Especial, quanto o Agravo em Recurso Especial não constam em sua íntegra nos autos supra, restando algumas páginas fora de ordem cronológica (ex: fls. 683 e 684) e ausentes documentos que servem de comprovação ao quanto alegado (portarias e extrato processual). Ainda, não há, como consta corriqueiramente, intimação à defesa para conferência das peças digitalizadas pelo Tribunal de origem (fl. 873), e, no mérito, o cabimento do peticionamento do recurso especial por e-mail, tendo em vista que o Tribunal de Justiça de Pernambuco havia autorizado, excepcionalmente, o referido peticionamento durante a pandemia (fl. 873), havendo ainda registro de protocolo físico pelo cartório digital (fl. 874).
+O Ministério Público Federal opina pelo conhecimento e improvimento do agravo regimental (fls. 896/901).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. ALEGAÇÃO DE ERRO DE DIGITALIZAÇÃO. AUSÊNCIA DE CERTIDÃO COMPROBATÓRIA. INTERPOSIÇÃO DO RECURSO ESPECIAL VIA E-MAIL. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. A mera alegação de erro de digitalização sem a certidão comprobatória oriunda do Tribunal de origem não é apta a afastar o não conhecimento do recurso por falha em sua instrução. Precedentes.
+2. A jurisprudência desta Corte é firme no sentido de que o recurso interposto via email é tido por inexistente, não podendo ser considerado o correio eletrônico instrumento similar ao fac-símile para fins de aplicação do disposto na Lei n. 9.800/1999, na medida em que, além de não haver previsão legal para sua utilização, não guarda a mesma segurança de transmissão e registro de dados (AgInt no RMS n. 61.298/BA, Ministro Benedito Gonçalves, Primeira Turma, DJe 22/5/2020).
+3. Agravo regimental improvido.
+VOTO
+Os argumentos recursais não são suficientes para infirmar as razões da decisão impugnada.
+Primeiramente, descabido o pleito de nulidade dos atos posteriores a digitalização realizada no Tribunal a quo.
+Isso porque a agravante não obteve êxito em demonstrar a falha na instrução do feito.
+Nesta Corte vigora a compreensão de que é ônus da parte que alega erro de digitalização comprová-lo, colacionando aos autos, no ato de interposição do agravo regimental, certidão emitida pelo Tribunal a quo responsável pelo processo de digitalização.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. REPRESENTAÇÃO PROCESSUAL. PROCURAÇÃO. AUSÊNCIA. RECURSO INEXISTENTE. FALSIDADE. PETIÇÃO DIGITALIZADA. ALEGAÇÃO. PRECLUSÃO. COMPROVAÇÃO MÍNIMA. AUSÊNCIA. INSTRUÇÃO PROCESSUAL. ÔNUS. PARTE RECORRENTE. DECISÃO AGRAVADA. MANUTENÇÃO INTEGRAL.
+1. De acordo com a jurisprudência do STJ, a alegação de erro de digitalização deve ser comprovada por meio de certidão oriunda do tribunal de origem na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão.
+2. A jurisprudencial consolidada no STJ entende que é ônus da parte aferir e fiscalizar a correta instrução do processo.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp n. 1.660.600/BA, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 18/3/2024).
+Quanto ao mais, como asseverado no decisum, é firme nesta Corte o entendimento de que o recurso interposto via email é tido por inexistente, não podendo ser considerado o correio eletrônico instrumento similar ao fac-símile para fins de aplicação do disposto na Lei n. 9.800/1999, na medida em que, além de não haver previsão legal para sua utilização, não guarda a mesma segurança de transmissão e registro de dados (AgInt no RMS n. 61.298/BA, Ministro Benedito Gonçalves, Primeira Turma, DJe 22/5/2020).
+Veja-se também o AgRg no AREsp n. 2.329.788/BA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/8/2023; o AgRg no AREsp n. 2.267.770/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/5/2023 e o AgRg no AREsp n. 2.240.089/RO, Ministra Laurita Vaz, Sexta Turma, DJe 24/3/2023.
+Afora isso, a autorização normativa conferida pelo Tribunal de origem, permitindo a interposição de recursos via sistema de correio eletrônico (e-mail), não se aplica aos recursos dirigidos a esta Corte Superior, cuja normatização atinente ao processamento dos recursos é regulada por lei federal.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO VIA E-MAIL. IMPOSSIBILIDADE. PORTARIA CONJUNTA QUE NÃO SE APLICA AOS RECURSOS DIRIGIDOS A ESTA CORTE. AGRAVO DESPROVIDO.
+1. O agravo em recurso especial mostra-se intempestivo, uma vez que interposto fora do prazo de 15 dias, conforme o disposto nos arts. 798 do Código de Processo Penal e 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do Código de Processo Civil.
+2. "A jurisprudência desta Corte é firme no sentido de que "o recurso interposto via email é tido por inexistente, não podendo ser considerado o correio eletrônico instrumento similar ao fac-símile para fins de aplicação do disposto na Lei n. 9.800/1999, na medida em que, além de não haver previsão legal para sua utilização, não guarda a mesma segurança de transmissão e registro de dados"" (AgInt no RMS n. 61.298/BA, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/5/2020, DJe 22/5/2020).
+3. Portanto, a Portaria-Conjunta n. 342020, emitida pelo Presidente do Tribunal de Justiça e pelo Corregedor-Geral da Justiça do Estado do Maranhão, não possui o condão de validar a tempestividade do recurso de agravo, máxime por tal expediente não se aplicar aos recursos dirigidos a esta Corte.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 1.796.437/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/5/2021).
+Para mais, como bem ressaltado pela decisão agravada, o recurso especial de fls. 737/770, com protocolo de 30/6/2021, encontra-se intempestivo, já que oferecido após o prazo de 15 (quinze) dias corridos, considerando que a publicação do acórdão dos embargos de declaração ocorreu em 2/6/2021 (fl. 693).
+Vale dizer, no tocante à suspensão de prazos em razão da pandemia relativa à Covid-19, isso ocorreu com abrangência nacional no período de 19/3/2020 a 14/6/2020, conforme as Resoluções CNJ n. 313/2020, 314/2020, 318/2020 e 322/2020 e a Portaria CNJ n. 79/2020, voltando a fluir para os processos físicos em 15/6/2020. Desse modo, a suspensão dos prazos no Tribunal de origem fora do período mencionado deve ser comprovada no momento da interposição do recurso, o que não ocorreu no caso dos autos.
+Em reforço aos precedentes anteriormente citados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INTEMPESTIVIDADE. ART. 220 DO CPC/2015. SUSPENSÃO DE PRAZOS ENTRE 20 DE DEZEMBRO E 20 DE JANEIRO. ART. 220 DO CPC/2015. INÍCIO DO PRAZO RECURSAL, NO CASO, EM 23 DE JANEIRO. RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO CPC. COVID-19. SUSPENSÃO DE PRAZOS PROCESSUAIS. DATAS E LOCAL. DEMONSTRAÇÃO. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Ainda na linha de nossa jurisprudência, "em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos, para os processos físicos, no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ no 313/2020 e 322/2020, bem como Portaria no 79/2020 do CNJ, voltando a fluir o prazo, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso. Precedentes." (AgInt no AREsp 1963880/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe 17/12/2021).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.431.069/BA, Ministro Mauro Campbell Marques, Segunda Turma, DJe 7/3/2024).
+Não havendo elementos capazes de alterar os fundamentos da decisão agravada, proferida pela Presidência desta Corte Superior, subsiste incólume o entendimento nela firmado, razão pela qual não merece prosperar o presente agravo.
+Ante o exposto, nego provimento ao agravo regimental.
