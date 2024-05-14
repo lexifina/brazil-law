@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAPHAEL VIEIRA DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0031277-29.2023.8.19.0000).
+Extrai-se dos autos que, em razão de decreto preventivo, o paciente foi preso em 18/10/2022, pelo suposto cometimento do crime previsto no artigo 157, § 2.º-A, inciso I, do Código Penal- fl. 18.
+Ajuizado prévio mandamus, a Corte estadual denegou a ordem em razão do modus operandi do crime e do risco de reiteração delitiva- (fls. 16-40).
+Neste writ, a defesa alega que o acusado está segregado há mais de 270 dias, não se realizando a audiência virtual designada para 22/5/2023, por necessidade de readequação da pauta e não apresentação do réu, inexistindo nova data para o ato processual, até o momento.
+Salienta que o feito não é dotado de complexidade, contando com apenas uma testemunha a ser ouvida, em nada contribuindo as partes para a morosidade processual, cuja culpa recai exclusivamente da desídia do Judiciário.
+Sustenta que ocorre indevido excesso de prazo para a formação da culpa e que nenhum testigo reconheceu o increpado como autor do delito, ou seja, a autoria recai em pessoa outra.
+Assevera, ainda, a falta de fundamentação idônea do decreto prisional, em desatenção ao disposto no artigo 312 do Código de Processo Penal.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 105-106 .
+As informações foram prestadas às fls. 112-116 e 119-121. O Ministério Público Federal, às fls. 123-129, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ROUBO MAJORADO. PRISÃOPREVENTIVA. EXCESSO DE PRAZO. FUNDAMENTAÇÃO. INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃO CONHECIMENTO. - 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial. - 2ª Preliminar: conhecimento de ofício; ausência de competência. Precedentes: STJ (HC nº 245.731/MS; HC nº 248.757/SP). - Parecer pelo não conhecimento do habeas corpus" - fl. 123.
+É o relatório. DECIDO.
+Primeiramente, quanto ao alegado excesso de prazo na formação da culpa, em consulta ao sítio do Tribunal de origem (www.tjrj.jus.br), processo nº 0003849-72.2021.8.19.0055, verifiquei que o processo se encontra na fase das alegações finais.
+Incide no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Ilustrativamente:
+"Prejudicada a análise quanto à alegação de excesso de prazo na formação da culpa, pois, conforme se depreende das informações prestadas, a defesa do agravante já havia apresentado as alegações finais e o Ministério Público juntou as suas alegações finais em 5/5/2021, o que atrai ao caso a incidência da Súmula n. 52 deste Superior Tribunal de Justiça, a qual prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo". (AgRg no RHC n. 169.330/RJ, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 24/3/2023.)
+Quanto a alegação acerca da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, in casu, observa-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que revelam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, seja pelo modus operandi da conduta em tese perpetrada, consistente em roubo realizado dentro de um ônibus em plena luz do dia, seja pelo risco de reiteração delitiva, uma vez que "RAPHAEL figura como denunciado em outro feito por crime semelhante" - fl. 26.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta"(AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023, grifei.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
