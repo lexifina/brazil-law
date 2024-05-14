@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 156):
+ACIDENTARIA - TUTELA ANTECIPADA DEFERIDA NO CURSO DA DEMANDA - SUPERVENIENTE REVOGAÇÃO - VALORES PAGOS - REPETIÇÃO - INADMISSIBILIDADE. "No caso concreto não se cogita de repetição dos valores pagos por força de tutela antecipada, posteriormente revogada, seja pela ausência de previsão do título judicial que a revogou, seja em razão do caráter alimentar do benefício. Precedente do Supremo Tribunal Federal". Apelação desprovida.
+Em suas razões recursais (fls. 166/173), a parte recorrente alega violação dos arts. 520 do Código de Processo Civil (CPC), 876, 884 do Código Civil (CC) e 115 da Lei 9.213/1991. Argumenta, para tanto, que a parte autora deve restituir ao INSS os valores recebidos indevidamente a título de tutela antecipada revogada, sob pena de enriquecimento ilícito.
+Foram apresentadas contrarrazões (fls. 176/189).
+Os autos foram devolvidos à turma julgadora para eventual juízo de retratação considerando o entendimento do Superior Tribunal de Justiça no julgamento do Recurso Especial 1.401.560/MT e da PET 12.482/DF, submetidos ao regime de recursos repetitivos - Tema 692/STJ.
+ O  acórdão  foi  mantido nos termos da ementa ora transcrita (fl. 196):
+ACIDENTARIA - TUTELA ANTECIPADA SUPERVENIENTE DECRETO DE EUPROCEDÊNCIA DO FEITO - RESTITUIÇÃO DOS EVENTUAIS VALORES PERCEBIDOS PELA PARTE AUTORA INADMISSIBILIDADE - AUSÊNCIA DE PREVISÃO NO TÍTULO JUDICIAL A AUTORIZAR A LIQUIDAÇÃO PRETENDIDA - CARÁTER ALIMENTAR DOS VALORES PAGOS CONFORME ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. Acórdão mantido.
+O recurso especial foi admitido na origem (fls. 205/206).
+A Ministra Presidente do Superior Tribunal de Justiça (STJ) determinou a livre distribuição do processo (fls. 213/214).
+É o relatório.
+No caso em questão, o Tribunal de origem decidiu que não é possível a restituição dos valores pagos a título de tutela antecipada revogada em razão de ausência de título judicial e em razão da boa-fé do segurado nos seguintes termos (fls. 197/198):
+Primeiro, porque o Acórdão ao rejeitar a pretensão deduzida pelo INSS o fez por entender que, a despeito da superveniência do decreto de improcedência do pedido inicial formulado na ação proposta por Jorge Lopes, não restou assentado no Julgado ordem de restituição dos valores pagos em razão da tutela antecipada, que restara por consequência revogada, de sorte que não há na hipótese título judicial a nortear a repetição almejada no cumprimento de sentença proposto.
+Depois, ainda que se superasse o fundamento supra, a posição esposada pela Turma Julgada resultou também de expressa interpretação conferida a precedente do Supremo Tribunal Federal que, a meu ver de modo inequívoco, vetou a possibilidade de restituição de valores recebidos de boa-fé pela parte autora segurada, dado o caráter alimentar que os revestem.
+Logo, sem embargo do respeito ao entendimento do Superior Tribunal de Justiça, no caso concreto, seja por ausência de previsão no título judicial, seja em razão do entendimento diverso extraído da Jurisprudência do Supremo Tribunal Federal, não há razão plausível a justificar a modificação do Acórdão em sede de retratação.
+A peça recursal, todavia, não se insurge contra o fundamento de que não há título judicial a fomentar o pedido de execução formulado, limitando-se a afirmar a necessidade de devolução das parcelas indevidamente recebidas a título de tutela antecipada revogada.
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
