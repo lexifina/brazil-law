@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e OTÁVIO DE ALMEIDA TOLEDO (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. FUNDAMENTO SUBSIDIÁRIO. INEXISTÊNCIA DE ILEGALIDADE NA FUNDAMENTAÇÃO LANÇADA PARA FIXAÇÃO DO REDUTOR ESPECIAL DA PENA NA FRAÇÃO MÍNIMA. QUANTIDADE E NATUREZA DAS DROGAS. POSSIBILIDADE.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Jeverson Silva de Oliveira contra a decisão monocrática da Presidência desta Corte que não conheceu do agravo em recurso especial ante a ausência de impugnação do fundamento da decisão de inadmissão na origem.
+Nas razões do agravo regimental, a defesa sustentou a admissibilidade do agravo aduzindo que logrou impugnar o fundamento tido como inatacado.
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo conhecimento do agravo, mas pelo desprovimento do recurso especial (fls. 621/625).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. FUNDAMENTO SUBSIDIÁRIO. INEXISTÊNCIA DE ILEGALIDADE NA FUNDAMENTAÇÃO LANÇADA PARA FIXAÇÃO DO REDUTOR ESPECIAL DA PENA NA FRAÇÃO MÍNIMA. QUANTIDADE E NATUREZA DAS DROGAS. POSSIBILIDADE.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+Especificamente nas hipóteses em que o recurso especial é inadmitido com fundamento na Súmula 83/STJ, ou seja, com base no entendimento de que o acórdão hostilizado está em harmonia com a jurisprudência consolidada nesta Corte, a orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Se o agravante assim não procede, o recurso é tido como inadmissível, ante a inobservância do princípio da dialeticidade recursal (art. 932, III, do Código de Processo Civil).
+Nesse sentido, destaco:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMOU UM DOS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. TENTATIVA DE COMPLEMENTAR AS RAZÕES DO AGRAVO. INADMISSIBILIDADE. PRECLUSÃO.
+1. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete à agravante demonstrar que a orientação jurisprudencial desta Corte Superior é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objetos dos precedentes invocados, o que não ocorreu na espécie.  ..
+(AgRg no AREsp n. 1.068.523/SP, de minha relatoria, Sexta Turma, DJe 8/6/2017 - grifo nosso).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. QUINTOS/DÉCIMOS. CONVERSÃO EM VPNI. LEI 9.527/1997. REAJUSTAMENTO. LEIS 10.475/2002, 10.994/2004, 11.416/2006 E 12.774/2012. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. REITERAÇÃO DAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC. PRECEDENTES. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e fundamentadamente os fundamentos da decisão de inadmissibilidade. Incidência do art. 544, § 4º, I, do CPC.
+2. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete ao agravante demonstrar que o entendimento adotado pelo acórdão encontra-se em descompasso com o atual entendimento do STJ, trazendo para tanto precedentes do STJ favoráveis à sua tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao caso, por versarem sobre situações diversas, o que não ocorreu na espécie. Nesse sentido: AgRg no AREsp 293.726/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 13/08/2013, DJe 26/08/2013.
+ ..
+(AgRg no AREsp n. 805.799/RS, Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/3/2016 - grifo nosso).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os seus fundamentos não merece conhecimento, ante o óbice imposto pela Súmula 182/STJ.
+2. Ademais, a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada; é necessário que a contestação seja específica e suficientemente demonstrada.
+3. Sendo obstado o recurso especial no despacho de admissibilidade, pela aplicação da Súmula 83/STJ, incumbia à agravante demonstrar, no agravo, que a orientação jurisprudencial não foi pacificada no mesmo sentido do acórdão recorrido, ou então comprovar que o precedente indicado, por constituir situação diversa, não teria aplicação ao caso dos autos.
+Agravo regimental improvido.
+(AgRg no AREsp n. 555.160/CE, Ministro Humberto Martins, Segunda Turma, DJe 13/10/2014 - grifo nosso).
+No caso dos autos, ao obstar o recurso especial do agravante com base na Súmula 83/STJ, a Corte de origem aludiu ao entendimento jurisprudencial mais recente do Superior Tribunal de Justiça (subsequente ao julgado do REsp n. 1887511/SP), no sentido da possibilidade de valoração da quantidade/natureza das drogas na primeira ou na terceira fase da dosimetria (fls. 551//552):
+ ..
+O Recorrente sustenta contrariedade aos artigos 33, § 4, e 42 da Lei 11.343106, sob o argumento de que "não cabe ao julgador escolher em que momento será considerada a quantidade de droga, se na primeira ou na terceira etapa", conforme entendimento firmado pela Terceira Seção do Superior Tribunal de Justiça:
+ ..
+Inadmissível a pretensão recursal.
+O entendimento colegiado está em consonância com a mais atualizada jurisprudência do Superior Tribunal de Justiça - houve flexibilização do que havia sido decidido no REsp 1887511/SP:
+ ..
+O agravante, por sua vez, não demonstrou a inaplicabilidade da referida orientação ao caso dos autos, tampouco deduziu argumentos no sentido de demonstrar que aquele entendimento não é o que predomina atualmente nesta Corte.
+Logo, não infirmou, de forma efetiva, a incidência da Súmula 83/STJ.
+Como fundamento subsidiário, ressalto que, ainda que fosse possível conhecer do agravo, o recurso especial não seria acolhido.
+Ora, não há falar em ilegalidade na fixação do redutor especial no patamar mínimo, seja porque a quantidade/natureza das drogas (quase 2 kg de crack) é apta a indicar uma conduta mais gravosa, seja porque, como bem esclareceu o parecerista, o acórdão recorrido se posicionou em conformidade com a mais recente jurisprudência do STJ, que se orienta no sentido de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/06, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria (fl. 624 - grifo nosso).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA. DESCRIÇÃO CONCRETA E PRECISA, PAUTADA EM ELEMENTO OBJETIVO. LICITUDE DA PROVA OBTIDA. DOSIMETRIA. RECONHECIMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006, EM SUA FRAÇÃO MÍNIMA DE 1/6 (UM SEXTO), COM FUNDAMENTO NA QUANTIDADE DE ENTORPECENTES. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que se verifica objetivamente que a circunstância do caso concreto denota anormalidade ensejadora da busca pessoal. Há de se destacar que o Agravante fora visto contando dinheiro em local conhecido pela prática da mercancia ilícita, tendo empreendido fuga ao avistar os policiais militares.
+2. " N ão se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso" (AgRg no HC n. 784.256/SC, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 24/04/2023, DJe de 27/04/2023).
+3. Embora a Terceira Seção do Superior Tribunal de Justiça, no julgamento do HC n. 725.534/SP, de relatoria do Ministro RIBEIRO DANTAS, tenha reafirmado o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação do redutor especial, ressalvou-se a possibilidade de valoração de tais elementos, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4.º, da Lei n. 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos e desde que não tenham sido considerados na primeira fase do cálculo da pena.
+4. No caso, a expressiva quantidade de entorpecentes atribuídos ao Agravante justifica a redução da pena à razão de 1/6 (um sexto), cabendo observar que a pena-base não foi exasperada na primeira fase sob o mesmo fundamento, de modo que não há falar em bis in idem.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 873.632/SP, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024 - grifo nosso).
+Ante o exposto , nego provimento ao agravo regimental.
