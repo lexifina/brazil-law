@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por BANCO SANTANDER (BRASIL) S.A., contra acórdão de fls. 1471-1473, e-STJ, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Mandado de Segurança Produção antecipada de provas Irresignação contra a r. sentença proferida que julgou procedente o pedido formulado para compelir a instituição financeira requerida a apresentar, em dez dias, a documentação reclamada, sob pena de expedição demandado de busca e apreensão Não obstante, em princípio, tenha sido adotado rito diverso daquele previsto nos artigos 381 e seguintes, do Novo Código de ProcessoCivil, uma vez considerado, no entanto, que a instituição financeira, em momento anterior, já interpôs recurso de apelação, cuja matéria ali versada se afigura idêntica à apresentada nestes autos, não lhe assiste legítimo interesse processual- Extinção do feito, sem o conhecimento meritório.
+Nas razões do recursais (fls. 1476-1503, e-STJ), a recorrente alega: a) a necessidade de sobrestamento do mandamus até o julgamento da apelação manejada contra a sentença apontada como ato coator; b) a possibilidade de conhecimento do apelo; e c) a teratologia do provimento judicial apontado como ato coator, dada a inviabilidade de apresentação dos documentos requeridos pela parte adversa.
+Em decisão de fls. 1517-1520, e-STJ, a Presidência do Tribunal local indeferiu o pedido de concessão de efeito suspensivo ao recurso em tela.
+Sem contrarrazões (fl. 1523, e-STJ).
+É o relatório.
+Decido.
+Houve perda superveniente do objeto do recurso.
+1. Da análise dos autos, nota-se que o presente mandamus, impetrado em 26.12.2022, aponta como ato coator a sentença proferida nos autos de n. 1020336-33.2022.8.26.0100, que julgou procedente pedido de exibição de documentos, formulado no bojo de ação cautelar de produção antecipada de provas.
+Na oportunidade, a insurgente destacava o caráter sigiloso dos documentos solicitados, a impropriedade do rito adotado no curso da ação, bem como o cabimento do mandado de segurança, ante a grande probabilidade de que o Tribunal local não admitisse apelação contra o provimento jurisidicional apontado como ato coator.
+Em acórdão de fls. 1471-1473, e-STJ, a Corte local não conheceu do mandamus, ante a inexistência de interesse jurídico, já que os mesmos fundamentos ora expostos foram apresentados em recurso de apelação, movido pela instituição financeira ora apelante, contra a sentença em testilha.
+No presente recurso, interposto em 26 de abril de 2023, a ora insurgente reafirma os fundamentos dispostos na inicial da ação constitucional, ressaltando, ainda, a possibilidade de sobrestamento do mandado de segurança até o julgamento da apelação então manejada.
+Contudo, em consulta ao andamento do processo n. 1020336-33.2022.8.26.0100, disponível no sítio eletrônico do e. TJSP, verifica-se que a Corte local, em 23.05.2023, conheceu e deu provimento ao recurso de apelação manejado pela ora recorrente contra a sentença apontada como ato coator do presente mandamus. No ponto, relevante o destaque ao acórdão do referido julgamento:
+Apelação. Conquanto a parte autora tenha atribuído, na inicial, otítulo de "Produção Antecipada de Provas", verifica-se das razões expostas, todavia, que a pretensão manifestada, em verdade, tem por objeto a exibição, por ação autônoma, da documentação descrita na inicial. Exibição de documentos. Para seu manejo restou pacificado o entendimento de que se afigura imprescindível a prévia tentativa de solução pela via administrativa. REsp nº 1.349.453/MS. Requisitos descumprido. Ausência de legítimo interesse processual da autora. Art. 485, VI do CPC. Extinção da ação. Recurso a que se dá provimento.
+Nesse contexto, constata-se a perda superveniente do objeto do presente recurso.
+2. Do exposto, com fundamento no art. 932, inciso III, do CPC/2015 e art. 34, XI, do RISTJ, julga-se extinto o procedimento recursal, ante a perda superveniente de seu objeto, e determina-se a baixa dos autos à origem.
+Publique-se.
+Intimem-se.
+EMENTA
