@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Tribunal de Justiça de São Paulo.
+O paciente teve a prisão em flagrante convertida em preventiva, sendo denunciado pela suposta prática do crime descrito no art. 16, caput, da Lei n. 10.826/2003.
+Sustenta a defesa, em síntese, que o fundamento da decisão que decretou a prisão preventiva é inidôneo, tendo em vista que "à espingarda calibre 44, o paciente esclareceu que comprou em um stand de tiros e estava aguardando a liberação da documentação, contudo, em vias da alteração da legislação em 2023, acabou tardar essa documentação e o arma ficou guardada em seu cofre" (fl. 5).
+Salienta, ainda, que "o paciente não tem qualquer relação, pois o imóvel onde "supostamente" encontrou-se um veículo envolvido com roubo mote de outro inquérito policial é de propriedade do paciente, contudo, alugado há mais de três anos a uma oficina mecânica, conforme se vê do depoimento dos policiais e do locatário do imóvel" (fl. 5), requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares do art. 319 do CPP.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi decretada pelos seguintes fundamentos (fls. 98-99):
+ ..  Em cognição sumária, da análise dos elementos informativos reunidos nos autos, verifica-se, num primeiro exame, que há prova da materialidade delitiva e indícios suficientes de autoria, constando dos autos que, em cumprimento a mandado de busca e apreensão, foram localizados no endereço residencial do indiciado ( no quarto do casal, no interior de um cofre), arma de fogo e munições de uso restrito.
+No caso, estão presentes os requisitos da prisão preventiva.
+Trata-se, em tese, de delito doloso cuja pena máxima supera os 04 (quatro) anos. Além disso, há elementos concretos que denotam a periculosidade do acusado e a necessidade de custódia cautelar, pois consta dos autos investigação para apuração de crimes graves ( furtos e roubos contra instituições financeiras).
+Tendo em conta a existência de investigações em andamento, aparentemente por crimes graves, e a existência de arsenal dentro de sua residência, sem explicação suficiente, denota uma gravidade e a impossibilidade.
+Necessário, assim, o afastamento do indiciado do convívio social para garantia da ordem pública e conveniência da instrução criminal.
+Necessário, assim, o afastamento do indiciado do convívio social para garantia da ordem pública e conveniência da instrução criminal. ..
+Como se vê, consta do decreto prisional fundamentação que deve ser considerada idônea, pois constatada que "foram localizados no endereço residencial do indiciado (no quarto do casal, no interior de um cofre), arma de fogo e munições de uso restrito", expondo-se ainda que "há elementos concretos que denotam a periculosidade do acusado e a necessidade de custódia cautelar, pois consta dos autos investigação para apuração de crimes graves (furtos e roubos contra instituições financeiras)".
+Logo, demonstrada a gravidade concreta do delito, não se verifica ilegalidade no decreto prisional ante a garantia da ordem pública.
+A jurisprudência desta Corte é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada pela indicação da diversidade e quantidade de armas e munições apreendidas. Confira-se: HC n. 516.557/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/12/2019; HC n. 495.397/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 13/6/2019.
+Ademais, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia processual, não se revela cabível a aplicação de medidas cautelares alternativas à prisão.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
