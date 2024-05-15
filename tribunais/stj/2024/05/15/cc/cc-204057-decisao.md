@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se conflito negativo de competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE URUÇUÍ - PI, suscitante, e o JUÍZO DE DIREITO DE SÃO DOMINGOS DO AZEITÃO - MA, suscitado.
+Ação: registro de óbito tardio proposta pelo MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO, na qualidade de substituto processual de REJANE DE SOUSA BARROS, objetivando o assentamento do registro de óbito de VANUZIA BARBOSA LIMA, falecida em 15/1/2022, na cidade de Uruçuí - PI.
+Decisão do Juízo de São Domingos do Azeitão - MA: declinou da competência em favor do juízo informado pela declarante como sendo o do falecimento de Vanuzia Barbosa Lima, nos termos do art. 77 da Lei 6.015/73 (e-STJ, fl. 20).
+Decisão do Juízo de Uruçuí - PI: afirmou ser "lícito ao autor optar pelo foro a ele mais favorável para o ajuizamento de demanda como a presente" (e-STJ, fl. 28), nos termos do art. 109, §5º, da Lei nº 6.015/1973, acentuando ser inviável a declinação, de ofício, da competência relativa, e suscitou, assim, o presente conflito de competência.
+Parecer do MPF: opinou pelo reconhecimento da competência do juízo suscitado.
+RELATADO O PROCESSO, DECIDE-SE.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+O art. 77, da Lei 6.015/73 (Lei de Registros Públicos) dispõe que "Nenhum sepultamento será feito sem certidão do oficial de registro do lugar do falecimento ou do lugar de residência do de cujus, quando o falecimento ocorrer em local diverso do seu domicílio, extraída após a lavratura do assento de óbito, em vista do atestado de médico, se houver no lugar, ou em caso contrário, de duas pessoas qualificadas que tiverem presenciado ou verificado a morte".
+Essa previsão, além de se tratar de critério restrito à esfera administrativa, não diz respeito às hipóteses de pedido de registro de óbito tardio. Aliás, a Lei de Registros Públicos não prevê o foro competente para o processamento desse tipo de pleito.
+Ademais, o apontado art. 109, § 5º, da Lei de Registros Públicos pelo Juízo de Uruçuí - PI (suscitante), para justificar a propositura do presente incidente, estabelece o seguinte:
+Art. 109. Quem pretender que se restaure, supra ou retifique assentamento no Registro Civil, requererá, em petição fundamentada e instruída com documentos ou com indicação de testemunhas, que o Juiz o ordene, ouvido o órgão do Ministério Público e os interessados, no prazo de cinco dias, que correrá em cartório.
+§ 5º Se houver de ser cumprido em jurisdição diversa, o mandado será remetido, por ofício, ao Juiz sob cuja jurisdição estiver o cartório do Registro Civil e, com o seu "cumpra-se", executar-se-á.
+Como se observa, essa regra, na verdade, trata de situação em que já houve a lavratura de determinado assentamento e, posteriormente, a parte interessada pretende vê-lo restaurado, suprido ou retificado.
+Na hipótese dos autos, porém, observa-se que a requerente, substituída processualmente pelo órgão ministerial, pretende ver originariamente registrado o óbito da sua irmã adotiva, porque não o fez no prazo legal, buscando a tutela jurisdicional perante o juízo do foro do seu domicílio, situado em Domingos do Azeitão - MA, sendo que não se aplica, na espécie, pelos argumentos já expostos, os citados dispositivos legais (art. 77 e 109 da LRP).
+Assim, inexistindo previsão específica acerca do foro competente para o processamento do registro de óbito tardio, além dessa pretensão não ser abarcada pelas hipóteses de fixação da competência em razão da matéria, da pessoa ou função (art. 62 do CPC), ou seja, da competência absoluta, mostra-se inviável o declínio, de ofício, da competência, tal como realizado pelo juízo suscitado.
+Afastada a competência absoluta, t em-se que a hipótese atrai a incidência da Súmula 33 do STJ, segundo a qual "a incompetência relativa não pode ser declarada de ofício", cabendo ressaltar, por oportuno, que o registro tardio se trata de procedimento de jurisdição voluntária e não há polo passivo para arguir preliminar, nos termos do art. 64 do CPC. Assim, impõe-se o reconhecimento da competência do juízo suscitado.
+Forte nessas razões, CONHEÇO do conflito e declaro competente o JUÍZO DE DIREITO DE SÃO DOMINGOS DO AZEITÃO - MA.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. REGISTRO DE ÓBITO TARDIO. JURISDIÇÃO VOLUNTÁRIA. COMPETÊNCIA TERRITORIAL. RELATIVA. SÚMULA 33/STJ.
+1. A competência relativa é incompatível com a declinação de ofício, segundo enuncia a Súmula 33/STJ.
+2. Conflito de competência conhecido para declarar competente o JUÍZO DE DIREITO DE SÃO DOMINGOS DO AZEITÃO - MA.
