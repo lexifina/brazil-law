@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por INDÚSTRIA MECÂNICA RIZZON LTDA., com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"INDENIZAÇÃO POR DANO MATERIAL. PRESCRIÇÃO. OCORRÊNCIA. PRAZO TRIENAL QUE DEVE SER CONTABILIZADO DESDE O MOMENTO DA VIOLAÇÃO DO DIREITO. ARTS. 189 C/C 206 § 3º IV E V DO CCB. CONHECIMENTO APENAS POSTERIOR DA VIOLAÇÃO. IRRELEVÂNCIA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS MAJORADOS. ART. 85 § 11º DO CPC. RECURSO DESPROVIDO" (e-STJ fl. 974).
+Os embargos de declaração opostos na origem foram rejeitados.
+Em suas razões recursais (e-STJ fls. 150-180), as recorrentes apontam, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+a) arts. 9º, 1.009, § 2º, e 1.025 do Código de Processo Civil - é nula a decisão que reconhece a prescrição suscitada em contrarrazões sem a intimação da parte contrária para se manifestar sobre a matéria, e
+b) arts. 205, 206, § 3º, IV e V, do Código Civil - o prazo prescricional aplicável à presente demanda é decenal, sendo o termo inicial a data de conhecimento da apropriação ilícita.
+Apresentad  as  as  contrarrazões  (e-STJ fls. 1.039-1.044),  e  admitido  o  recurso  na  origem  ,  subiram  os  autos  a  esta  Corte  Superior.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+Trata-se, na origem, de ação de ressarcimento de valores indevidamente pagos ao réu a título de compensação por servidão administrativa instituída sobre imóvel que já não mais lhe pertencia.
+O magistrado de primeiro grau de jurisdição, a despeito de ter afastado a prescrição, julgou improcedente o pedido formulado na inicial.
+No julgamento da apelação, contudo, o órgão colegiado acolheu a prescrição ao entendimento de que "(..) as pretensões de ressarcimento do enriquecimento sem causa e de reparação civil prescrevem no prazo de três anos, o qual deve ser contado a partir da violação do direito" (e-STJ fl. 975).
+Como já salientado, busca a autora o ressarcimento de valores que o réu teria recebido em seu lugar, ao argumento de que adquiriu o imóvel, no qual fora instituída a servidão administrativa, muito tempo antes do pagamento da indenização ao antigo proprietário.
+E desde a inicial, foi pontuado que o réu,
+"(..) quando vendeu o referido imóvel à Requerente, transferiu a ela a posse, jus, domínio e todos os direitos e ações que exercia sobre ele, conforme estipula a Cláusula Sétima do Contrato Particular de Compromisso de Compra e Venda firmado entre as partes" (e-STJ fl. 5 - grifou-se).
+O direito que se afirma em juízo, portanto, teria exsurgido de uma anterior relação contratual, ou mais especificamente, da não observância da cláusula de transferência dos direitos e ações inerentes ao imóvel, a atrair a aplicação do prazo prescricional decenal do art. 205 do Código Civil, conforme decidido nos seguintes julgados:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL. INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. UNIFICAÇÃO. IMPOSSIBILIDADE. ISONOMIA. OFENSA. AUSÊNCIA.
+1. Ação ajuizada em 14/08/2007. Embargos de divergência em recurso especial opostos em 24/08/2017 e atribuído a este gabinete em 13/10/2017.
+2. O propósito recursal consiste em determinar qual o prazo de prescrição aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual, especificamente, se nessas hipóteses o período é trienal (art. 206, §3, V, do CC/2002) ou decenal (art. 205 do CC/2002).
+3. Quanto à alegada divergência sobre o art. 200 do CC/2002, aplica-se a Súmula 168/STJ ("Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado").
+4. O instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança.
+5. Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/02, com prazo de três anos.
+6. Para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição de toda e qualquer consequência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito.
+7. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados.
+8. Há muitas diferenças de ordem fática, de bens jurídicos protegidos e regimes jurídicos aplicáveis entre responsabilidade contratual e extracontratual que largamente justificam o tratamento distinto atribuído pelo legislador pátrio, sem qualquer ofensa ao princípio da isonomia.
+9. Embargos de divergência parcialmente conhecidos e, nessa parte, não providos." (EREsp 1.280.825/RJ, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27/6/2018, DJe de 2/8/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. IMÓVEL NÃO ENTREGUE NA DATA ACORDADA. INADIMPLÊNCIA DA CONSTRUTORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM E TAXA SATI. RESPONSABILIDADE CIVIL CONTRATUAL. PRESCRIÇÃO. ART. 205 DO CÓDIGO CIVIL AGRAVO DESPROVIDO.
+1. A Segunda Seção desta Corte firmou entendimento de que "nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/02, com prazo de três anos" (EREsp n. 1.280.825/RJ, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 27/6/2018, DJe 2/8/2018).
+2. Agravo interno desprovido" (AgInt no REsp 1729847/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/10/2018, DJe 05/10/2018).
+Além disso, para a incidência da prescrição de 3 (três) anos inscrita no art. 206, § 3º, IV, do CC, a pretensão fundada no enriquecimento sem causa (arts. 884 e 886 do CC) deve possuir os seguintes requisitos: enriquecimento de alguém; empobrecimento correspondente de outrem; relação de causalidade entre ambos; ausência de causa jurídica e inexistência de ação específica.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO. PRAZO DECENAL. EVENTUAL ENRIQUECIMENTO ILÍCITO. CAUSA JURÍDICA. PRESCRIÇÃO TRIENAL. AFASTAMENTO. JURISPRUDÊNCIA ATUAL. SÚMULA Nº 168/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que incide, em regra, o prazo prescricional decenal do art. 205 do Código Civil às pretensões fundadas no inadimplemento contratual (responsabilidade contratual).
+2. A prescrição trienal atinente à responsabilidade civil aquiliana ou extracontratual (art. 206, § 3º, V, do CC) não incide nas pretensões indenizatórias do credor prejudicado por descumprimento negocial.
+3. A ação de enriquecimento sem causa (ação in rem verso) somente é cabível quando o indébito não tiver "causa jurídica", dada a sua subsidiariedade. Para a incidência da prescrição de 3 (três) anos inscrita no art. 206, § 3º, IV, do CC, a pretensão fundada no enriquecimento sem causa (arts. 884 e 886 do CC) deve possuir os seguintes requisitos: enriquecimento de alguém; empobrecimento correspondente de outrem; relação de causalidade entre ambos; ausência de causa jurídica; e inexistência de ação específica.
+4. A discussão acerca da entrega de bens patrimoniais decorrentes de reputada relação contratual e eventual repetição de indébito ou condenação em perdas e danos não se enquadra na hipótese do art. 206, § 3º, IV, do CC, seja porque há causa jurídica (relação obrigacional prévia entre as partes em que se debate a legitimidade de cobranças), seja porque a ação é específica, devendo ser aplicado o prazo decenal do art. 205 do CC.
+5. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência desta Corte Superior estiver no mesmo sentido do acórdão embargado.
+6. Agravo interno não provido." (AgInt nos EREsp 1.533.276/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/4/2021, DJe de 26/4/2021).
+No caso, o reputado enriquecimento do demandado tem causa jurídica, consubstanciada na relação contratual existente entre as partes, de forma que não incide a prescrição trienal, mas a decenal.
+Ante o exposto, conheço e dou provimento ao recurso especial para afastar a prescrição reconhecida pelo Tribunal de origem, a ensejar o retorno dos autos para apreciação das demais questões suscitadas no recurso de apelação.
+Deixo de majorar os honorários advocatícios, conforme determina o art. 85, § 11, do CPC/2015, em virtude do parcial provimento do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
