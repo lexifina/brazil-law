@@ -1,0 +1,137 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005610-17.2023.8.08.0014
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: SEBASTIAO GONCALVES DOS SANTOS
+
+RECORRIDO: BANCO PAN S.A.
+
+RELATOR(A):
+THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+RECURSO INOMINADO Nº 5005610-17.2023.8.08.0014
+
+RECORRENTE: SEBASTIAO GONCALVES DOS SANTOS
+
+RECORRIDO: BANCO PAN SA
+
+RELATOR: THAITA CAMPOS TREVIZAN
+
+SENTENÇA: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+EMENTA: RECURSO INOMINADO. CÓDIGO DE DEFESA DO CONSUMIDOR. INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS. CARTÃO DE CRÉDITO CONSIGNADO CONTRATADO. PREVISÃO EXPRESSA NA CÉDULA DE CRÉDITO BANCÁRIO. DISPONIBILIZAÇÃO DOS VALORES DO CARTÃO DE CRÉDITO REALIZADAS MEDIANTE AUTORIZAÇÃO DO CONSUMIDOR. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+RELATÓRIO
+
+Trata-se de ação ajuizada por
+SEBASTIÃO GONÇALVES DOS SANTOS
+em face de
+BANCO PAN S/A
+, alegando, em síntese, que pretendia realizar um empréstimo consignado junto ao banco requerido, entretanto, foi feito um cartão de crédito consignado. Todavia, aduz que não solicitou ou autorizou tal prática, haja vista que somente requereu empréstimo. Requereu a declaração de nulidade dos descontos, cancelamento do cartão de crédito consignado, devolução em dobro dos valores descontados de seu benefício previdenciário e indenização por danos morais.
+
+Em sede de contestação (ID. 6974055), o banco requerido alegou a regularidade da contratação, havendo claramente a informação de que se tratava de cartão consignado, somado ao fato de que o autor realizou saques no cartão. Por fim, afirmou a inocorrência de dano material a ser ressarcido e de danos morais. Requereu a improcedência da demanda.
+
+A sentença (ID. 6974074) proferida pelo juízo singular dispôs que:
+
+Tenho, portanto, que a versão apresentada pelo Reclamante é inverossímil, uma vez que a prova coligida é eficaz para assegurar a autenticidade da tese de defesa, no sentido de que o Consumidor aderiu ao contrato de cartão de crédito com reserva de margem consignada de livre e espontânea vontade.
+
+DISPOSITIVO
+
+Ante o exposto, julgo improcedentes os pedidos iniciais na forma do art. 487, I, CPC.
+
+Irresignado, o autor interpôs Recurso Inominado (ID. 6974076), sustentando que jamais quis fazer uma contratação de cartão de crédito consignado, tendo assinado o contrato acreditando ser um contrato de empréstimo consignado. Aduz, ainda, que os áudios mencionados em sentença são insuficientes para comprovar que tinha ciência das condições da contratação. Nesse sentido, pugna pela reforma da sentença, para que seja julgada procedente sua pretensão, nos termos da exordial.
+
+O banco requerido apresentou contrarrazões ao recurso ofertado (ID. 6974079), reiterando os argumentos de sua defesa, objetivando a manutenção da r. sentença.
+
+É a síntese do necessário. Passo a decidir.
+
+VOTO
+
+Conheço do Recurso Inominado interposto, eis que preenche os requisitos de admissibilidade intrínsecos e extrínsecos, motivo pelo qual o recebo em seu efeito devolutivo, na forma do art. 43 da Lei n. 9.099/1995. Aproveito para deferir o pedido de assistência judiciária gratuita à recorrente.
+
+Inicialmente, cabe dizer que caso em questão exsurge de relação de consumo patente entre a parte autora e a ré, fato que enseja a aplicação do Código de Defesa do Consumidor, em virtude das características dessa relação, em especial – a hipossuficiência do consumidor perante o fornecedor de produtos e/ou serviços.
+
+Destaco também, como consequência do reconhecimento da relação de consumo, a inversão do ônus da prova prevista no art. 6º, inciso VIII do CDC.
+
+Dito isso, entendo que a Instituição Bancária logrou êxito em comprovar que a contratação do cartão de crédito foi feita com a ciência do consumidor, tendo em vista que este concordou com a disponibilização de crédito, aceitando os saques oferecidos pelos prepostos do banco.
+
+Logo, entendo pela validade dos efeitos do contrato e da dívida contraída, nos moldes explicitados pelo juízo sentenciante, vejamos:
+
+Em sua defesa, articula o agente financeiro que o negócio jurídico impugnado foi validamente celebrado entre as partes, anuindo o Autor aos seus termos, sendo ele beneficiado com sete saques pré-autorizados.
+
+A contratação está documentada nos eventos id’s 32602506 e 32602507.
+
+Diversamente do que fora narrado pelo Autor na exposição da causa petendi, foram acostados aos autos diálogos mantidos entre as partes quando da disponibilização de valores para saque, compartilhando os arquivos em nuvem segundo os links https://drive.google.com/file/d/1df2hnzKY8wbC91_orLJEvhq4GHlhhM6k/view?usp=share_link; https://drive.google.com/file/d/1jFDLcrnL6BpLmkCrMxhdvq8GbWFlXPMC/view?usp=share_link e https://drive.google.com/file/d/1df2hnzKY8wbC91_orLJEvhq4GHlhhM6k/view?usp=share_link.
+
+Neste contexto, é possível se extrair dos documentos colacionados no autos que os valores descontados em sua folha de pagamento decorrem exclusivamente da utilização do cartão de crédito consignado, sendo que a quantidade de parcelas para a quitação da dívida varia de acordo com a utilização do cartão (solicitação de saques) e a quitação das parcelas decorrentes dos valores já utilizados.
+
+Dessa forma, verifica-se a regular contratação do empréstimo consignado com reserva de margem de crédito consignável em cartão de crédito, tendo o recorrente, oportunamente, anuído à contratação e à forma de pagamento, não havendo nenhum vício de vontade entre as partes, ao menos do que se denota das provas juntadas aos autos.
+
+Por consequência, sendo válida a contratação, não há que se falar em inexistência da dívida ou danos morais e materiais a serem arbitrados. Este também é o entendimento do Egrégio Tribunal de Justiça do Estado do Espírito Santo:
+
+EMENTA : APELAÇÃO CÍVEL AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CARTÃO DE CRÉDITO CONSIGNADO DESCONTO NOS PROVENTOS DA AUTORA POSSIBILIDADE INEXISTÊNCIA DE VIOLAÇÃO AO DIREITO DE INFORMAÇÃO CONTRATO REDIGIDO DE FORMA CLARA UTILIZAÇÃO DO CARTÃO PELO CONSUMIDOR RECURSO CONHECIDO E DESPROVIDO.
+1. A jurisprudência do C. STJ estabelece que, mesmo no bojo de ações revisionais, "cabe ao julgador a interpretação lógico-sistemática do pedido formulado na petição inicial a partir da análise dos fatos e da causa de pedir, considerados em todo o seu conteúdo, o que permitirá conceder à parte o que foi por ela efetivamente requerido" (AgInt nos EDcl no REsp 1432620/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/06/2019, DJe 25/06/2019).2. O cartão de crédito contratado pela autora trata da modalidade consignada, funcionando como um cartão de crédito comum, exceto pelo fato de que o pagamento é descontado, total ou parcialmente, na folha de pagamento do contratante.
+3. Embora a autora alegue que jamais pretendeu contratar um cartão de crédito, almejando apenas um contrato de empréstimo pessoal, a avença acostada aos autos (fls. 41/42), de forma expressa, trata de termo de adesão cartão de crédito consignado Banco BMG , no qual a autora anuiu com a fixação de valor consignado para pagamento do valor mínimo indicado na fatura.
+
+4. Verifica-se, ademais, que a apelante efetivamente utilizou o cartão de crédito
+, existindo indicações de compras efetuadas em supermercados, farmácias, lojas de cosméticos, dentre outras. 5. Não se olvida que, diante da natureza consumerista do contrato em questão, deve a instituição financeira prestar, de forma clara e adequada, toda a informação sobre o serviço fornecido. É, aliás, direito básico do consumidor, a teor do artigo 6º, III, do Código de Defesa do Consumidor.
+6 . Entretanto, não se verifica, in casu , que a parte demandada tenha violado tais direitos, sendo clara a avença ao dispor acerca da contratação de cartão de crédito com margem consignada.
+7. Recurso conhecido e desprovido. (Apelação cível n° 0010349-94.2018.8.08.0014; Órgão Julgador: TERCEIRA CÂMARA CÍVEL; Relator: TELEMACO ANTUNES DE ABREU FILHO; Data do Julgamento: 15/12/2020).
+
+Concluo que o autor, ora recorrente, não foi enganado na contratação de cartão de crédito consignado, tendo aceitado na época dos fatos, as regras de descontos em seu vencimento mensal.
+
+Embora haja previsão a respeito da inversão do ônus da prova, cabe à parte autora comprovar, minimamente, os fatos constitutivos de direito, na forma do art. 373, I, do CPC. Verifico que isso não ocorreu no caso em tela.
+
+Nesta esteira, entendo que a sentença impugnada deve ser mantida pelos seus próprios fundamentos na forma do Enunciado número 11 das Turmas Recursais: “A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA”.
+
+DISPOSITIVO
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO,
+mantendo a sentença por seus próprios fundamentos
+. CONDENO
+o recorrente em custas e honorários advocatícios, que fixo em 10% sobre o valor da causa, ante a ausência de verba condenatória, conforme art. 55 da Lei 9.099/95, e ressalvo a cobrança em razão da gratuidade a que faz jus, na forma do art. 98, §3º do CPC.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
