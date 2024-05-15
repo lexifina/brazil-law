@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FUNDAMENTOS DA PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA DO DELITO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Na hipótese, da leitura da motivação da decisão que decretou a segregação cautelar não há mínimos elementos concretos indicativos de efetivo e concreto periculum libertatis a justificar in casu de modo formal e devidamente fundamentado sua segregação social antecipada pois não indica a gravidade concreta que extrapole as elementares do tipo penal infringido e não apresenta evidência de efetiva reiteração de condutas delituosas pelo agravado, primário e com bons antecedentes, o que demonstra carência de motivação concreta para a prisão preventiva (precedentes).
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 125-128, interposto pelo MINISTÉRIO PÚBLICO FEDERAL, a qual concedi o habeas corpus para substituir as prisões preventivas impostas ao agravado por medidas cautelares diversas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo a quo.
+Depreende-se dos autos que o agravado foi preso em flagrante e teve a prisão convertida em preventiva pela prática do crime de tráfico de drogas.
+Nas razões do recurso, o agravante alega que:
+"Diferentemente do sustentado por esse il.Julgador, a quantidade de drogas encontradas - 403,4 gramas demaconha, além de 13 pés de maconha - na residência do oraagravado NÃO pode ser considerada irrelevante" (fl. 137).
+Requer, ao final, a reconsideração da decisão objurgada, ou, em caso de entendimento diverso, a submissão ao colegiado.
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FUNDAMENTOS DA PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA DO DELITO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Na hipótese, da leitura da motivação da decisão que decretou a segregação cautelar não há mínimos elementos concretos indicativos de efetivo e concreto periculum libertatis a justificar in casu de modo formal e devidamente fundamentado sua segregação social antecipada pois não indica a gravidade concreta que extrapole as elementares do tipo penal infringido e não apresenta evidência de efetiva reiteração de condutas delituosas pelo agravado, primário e com bons antecedentes, o que demonstra carência de motivação concreta para a prisão preventiva (precedentes).
+Agravo regimental desprovido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+No mérito, entretanto o recurso não merece subsistir.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+Na hipótese, da leitura da motivação da decisão que decretou a segregação cautelar não há mínimos elementos concretos indicativos de efetivo e concreto periculum libertatis a justificar in casu de modo formal e devidamente fundamentado sua segregação social antecipada pois não indica a gravidade concreta que extrapole as elementares do tipo penal infringido e não apresenta evidência de efetiva reiteração de condutas delituosas pelo agravado, o que demonstra carência de motivação concreta para a prisao preventiva.
+No ponto, trago trecho da decisão que decretou a segregação cautelar:
+"Trata-se de delito de tráficoilícito de entorpecentes, crime assemelhado a hediondo,recomendando-se especial cautela em eventual soltura do custodiado. Ademais, verifica-se a grande quantidade de drogasna posse do indiciado no momento da prisão em flagrante. Além do que, periclita no presente caso a saúde pública, bem que necessita ser resguardado na presente quadra, com a manutenção, por ora, do indiciado no cárcere. Acresça-se, porfim, que a pena mínima é de 05 anos e máxima prevista para o delito é de 15 anos, Art. 33 da Lei 11.343/06, sendo descabida, em tese, a aplicação de medidas cautelares. À evidência que a não concessão de liberdade provisória é decidida em caráter emergencial no sistema de plantão, ficando ao Juízo competente a possibilidade de reapreciá-la e concedê-la, em entendendo ser o caso. Não sendo caso de relaxamento de flagrante e inexistentes requisitos para concessão de liberdade provisória, mantenho a custódia cautelar, convolando a prisão flagrancial em preventiva de GABRIEL NASCIMENTO, nos termos da Lei 12.403/11, expedindo-se incontinenti mandado de prisão. "
+A propósito, jurisprudência deste Superior Tribunal de Justiça:
+"Na hipótese, o decreto preventivo está fundamentado apenas na gravidade abstrata do delito e em elementos inerentes ao próprio tipo penal. Ademais, nem mesmo a quantidade de droga apreendida (85 porções de cocaína), aliada às circunstâncias do delito (apreensão de dinheiro), autorizaria o encarceramento cautelar, sobretudo quando considerada a primariedade da agente" (AgRg no HC n. 825.393/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/9/2023).
+"No caso, em que pese a reprovabilidade da conduta, a fundamentação declinada não demonstra a imprescindibilidade da medida extrema. Isso porque, embora o decreto mencione elementos materialidade (apreensão de 100g de haxixe) não descreve um contexto indicativo de efetiva periculosidade, excepcional, além dos elementos característicos dos crimes imputado. Ressalte-se que nem mesmo a quantidade de droga aprendida, somente, justificaria a decretação da prisão, notadamente no caso em exame, em que o paciente é absolutamente primário, como atesta sua folha de antecedentes. Constrangimento ilegal evidenciado. Julgados do STJ" (AgRg no HC n. 842.943/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/9/2023).
+Diante disso, considerando as peculiaridades do caso, entendo possível o resguardo da ordem pública e a garantia da aplicação da lei penal por medidas cautelares diversas, previstas no art. 319 do CPP.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido:
+"É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos" (AgRg no AREsp n. 2.173.224/RN, Sexta turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 30/6/2023).
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
