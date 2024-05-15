@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RUI CESAR SANTOS DA CRUZ contra decisão, da lavra deste signatário, acostada às fls. 344/346, que julgou procedente a presente reclamação a fim de determinar ao r. juízo reclamado a estrita observância à decisão exarada nos autos do CC 105.044/RJ.
+Em suas razões, o embargante aduz que: i) aos embargados foi imposta multa, pelo TST, de modo que ressaí a necessidade de manifestação quanto ao ponto; ii) foi reconhecida, pela Justiça Laboral, a existência de grupo econômico e, por conseguinte, a determinação de penhora em face das embargadas; iii) "(..) as Reclamantes não estão sob o controle do Juízo da recuperação/falência da VARIG, assim, cabe ao STJ determinara medida adequada à solução da controvérsia, com base no art. 992 do CPC, entretanto, a decisão, ora embargada, nada direcionou a respeito, e, da forma decidida, acaba por travar o processo, tolhendo o legítimo direito do credor de perseguir a satisfação de seu crédito judicial de natureza alimentar, por todos os meios cabíveis, inclusive, em face das Reclamantes."
+Requer, assim, o acolhimento dos aclaratórios. (fls. 349/357)
+A impugnação está juntada às fls. 374/382.
+É o relatório.
+Decisão.
+Os presentes embargos de declaração não merecem acolhimento.
+De início, atento ao princípio da unicidade recursal, não conheço da petição de fl. 358/366.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, registram-se os seguintes precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Na hipótese em foco, a decisão embargada não possui vício a ser sanado pela via dos embargos declaratórios porquanto foi clara e expressa no sentido de que decisão do r. juízo reclamado, acostada à fl. 54/55 e 60, a qual manteve determinação de prosseguimento dos atos executórios em face do patrimônio das reclamantes não observou, de maneira estrita - como seria de rigor - o comando judicial proferido nos autos do conflito de competência n.º 105.044/RJ, que apoiado em sólida orientação deste STJ, declarou a competência do r. juízo universal.
+Com efeito, as alegações atinentes às teses relativas à multa imposta pelo TST e ao reconhecimento, pela Justiça Laboral, a existência de grupo econômico e, por conseguinte, a determinação de penhora em face das embargadas, a par de sequer terem sido tecidas na oportunidade do julgamento do referido conflito de competência, representam argumentação inidônea no âmbito da reclamação que, como é cediço, não pode ser utilizada como sucedâneo recursal. (ut. AgInt na Rcl 46785 / PR , Rel. Min. Maria Isabel Gallotti, DJe de 06/05/2024)
+Não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeito os embargos de declaração.
+Publique-se. Intimem-se. Fica prejudicado o exame do petitório de fl. 358/366.
+EMENTA
