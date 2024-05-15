@@ -1,0 +1,14 @@
+DECISÃO
+JONAS BRENDO BASILIOSARMENTO interpõe recurso especial, com fundamento no art. 105, III, "a", da CF, contra acórdão do Tribunal de Justiça do Estado do Amazonas (Agravo de Execução Penal n. 0223328-96.2014.8.04.0001).
+O recorrente afirma que o julgado violou o art. 127 da Lei n 7.210/84, uma vez que a perda dos dias remidos no patamar máximo de 1/3 não foi fundamentada. Requer a nulidade da decisão ou, subsidiariamente, aplicação da sanção no patamar mínimo de 1 dia.
+O MPF opinou
+Decido.
+O recurso especial deve ser conhecido, pois preenche os pressupostos de admissibilidade. Todavia, não verifico a violação federal apontada pela defesa, pois na decisão que homologou a falta grave, mantida pelo Tribunal de origem, o Juiz da VEC registrou que o "Apenado cometeu novo delito em 20/05/2020" e declarou a perda de 1/3 de eventuais dias remidos, justificadamente, "eis que a prática de novo crime no curso da execução penal é situação de extrema gravidade e merece ser reprimida no máximo legal" (fl. 68).
+Para aplicar a penalidade do art. 127 da Lei de Execução Penal, cabe ao julgador levar em cnsideração "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão", consoante o disposto no art. 57 da LEP.
+Na hipótese, houve destaque expresso à natureza mais grave da falta disciplinar, motivação idônea para a penalidade máxima.
+É possível decidir monocraticamente o recurso, com fundamento em entendimento dominante sobre o tema, pois o colegiado já manifestou a compreensão de que "a fração de 1/3 (um terço) aplicada para a perda dos dias remidos está devidamente fundamentada na natureza da falta cometida e na reprovabilidade da conduta (prática de novo crime durante o usufruto de prisão domiciliar)"(AgRg no HC n. 791.297/MG, relator Ministro Antonio Saldanha Palheiro,Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+Deveras, "nos termos da jurisprudência desta Corte Superior, "a falta grave consistente em novo crime justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEE)" (HC n. 466.243/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe de 10/12/2018)" (AgRg no HC n. 847.678/SC, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+Ilustrativamente, "o Tribunal a quo apenas confirmou decisão, devidamente fundamentada, do Juízo das Execuções Criminais, que determinou a perda dos dias remidos no limite máximo (1/3), por se tratar de delito praticado no curso do cumprimento da pena, fato que demonstra reiteração criminosa" (HC n. 465.032/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2018, DJe de 19/12/2018).
+À vista do exposto, conheço e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
