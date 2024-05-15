@@ -1,0 +1,15 @@
+DECISÃO
+ROBERTA REGINA ROSSI SERME ou ROBERTA REGINA ROSSI SERME COUTINHO DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que não conheceu do habeas corpus impetrado naquela Corte, visto que em tramitação o recurso próprio.
+Neste habeas corpus, a defesa reitera os argumentos expostos na origem pleiteia a concessão da ordem, ao argumento de nulidade do processo - que resultou na condenação das pacientes pela prática dos crimes de tortura e maus praticados contra crianças - ante a juntada de relatório de diligência após a prolação de sentença.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+Como destacou o Ministério Público Federal, "a decisão atacada sequer analisou a matéria em discussão porque se trata de preliminar a ser considerada no julgamento da apelação" (fl. 3.310), a qual se encontra em tramitação.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de apelação, notadamente quando este recurso, de cognição mais ampla, abrange o pedido formulado no writ. No particular, portanto, correto o acórdão quando pontuou (fl. 3.199):
+Assim, entendo que a suposta ocorrência de cerceamento de defesa deve ser analisada na via recursal adequada, qual seja, recurso de apelação, na qual, se for o caso, poderá ser declarada a nulidade da r. sentença, com a determinação das medidas cabíveis.
+Dessa forma, não cabe aos impetrantes valerem-se do writ como sucedâneo recursal de questão a ser sustentada em recurso específico, no caso, a apelação criminal interposta.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Logo, sem existir acórdão proferido em recurso próprio sobre essa questão, é incabível eventual constatação de manifesta ilegalidade em seu conteúdo, máxime se considerado que não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+Como assinalou o Parquet Federal, "não tendo o Tribunal a quo se pronunciado sobre a nulidade arguida em sede mandamental perante esta Corte Especial, não merece conhecimento o HC por pretender, claramente, suprimir a instância de conhecimento primeiro.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
