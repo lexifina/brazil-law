@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5084707-06.2021.4.02.5101/RJ.
+Consta dos autos que o o Tribunal de origem deu provimento à Apelação interposta pelas impetrantes, nos termos da seguinte ementa (fl. 234, e-STJ):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÃO DAS IMPETRANTES PROVIDA. RE1.063.187/SC. TEMA Nº 962, DO STF. SEGURANÇA CONCEDIDA.
+1. A questão discutida nos autos já foi decidida pelo Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 1.063.187/SC, sob o regime dos recursos repetitivos, que fixou a seguinte tese: É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa SELIC recebidos em razão de repetição de indébito tributário ".
+2. Verifica-se que a sentença recorrida está em desacordo com a tese fixada pelo STF no Tema nº 962.
+3. Sentença reformada para fins de compatibilização com a tese fixada no Tema 962, do STF.
+4. Sentença reformada. Apelação das Impetrantes provida. Segurança concedida.
+Opostos Embargos de Declaração pela Fazenda Nacional (fls. 331-336), foram estes rejeitados (fls. 362-368, e-STJ).
+No apelo nobre, interposto com fundamento no art. 105, inciso III, alínea a da Constituição Federal, a parte recorrente sustentou, em síntese: a) violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC; b) infringência ao art. 66, §2º da Lei n. 8.383/91 e aos arts. 73 e 74 da Lei n. 9.430/96.
+O recurso especial foi inadmitido pelo Tribunal de origem (fls. 452-454) a partir dos seguintes fundamentos: a) inexistência de violação aos arts. 489 e 1.022 do CPC, pois restou fundamentado de forma clara e suficiente o acórdão recorrido; b) a consonância do entendimento do acórdão recorrido com a jurisprudência do Superior Tribunal de Justiça, incidindo o óbice de admissibilidade previsto no enunciado n. 83 da Súmula do STJ.
+Daí a presente insurgência, em que a Agravante sustenta, em síntese, que (fls. 489-512, e-STJ, grifos diversos do original), ao contrário do que foi apontado na decisão de inadmissibilidade:
+Ademais, não há que falar em posicionamento pacífico do STJ sobre a questão decidida no acórdão do TRF2, tendo em vista a existência de decisões desse mesmo Tribunal da Cidadania em sentido contrário ao acórdão regional recorrido, já apontadas e transcritas acima (nota 1 de rodapé).
+Acerca das decisões do C. STJ contrárias ao acórdão recorrido, destaca-se, novamente, a que foi proferida no julgamento do RESP 1.114.404-MG, submetido à sistemática dos recursos repetitivos:
+ ..
+De fato, há violação aos dispositivos legais supracitados, na medida em que o Tribunal de origem, ao desprover os embargos declaratórios opostos pela UNIÃO, descumpriu o seu dever de prestar uma atividade jurisdicional completa.
+ ..
+Nesse contexto, a União (Fazenda Nacional) opôs os embargos de declaração de evento 33, visando à apreciação, pela Corte Regional, no tocante à autorização de restituição administrativa do indébito tributário reconhecido nesta ação mandamental, das normas previstas no art. 100 da CF; no art. 74 da Lei n. 9.430/96; e no art. 66, § 2º, da Lei n. 8.383/91.
+Ocorre que o Tribunal de origem negou provimento aos declaratórios, sem que fosse suprida a omissão neles apontada, sob o fundamento genérico de que "(..) se a embargante entende que o acórdão adotou posicionamento contrário ao que persegue ou que o julgamento não está correto, deve interpor o recurso cabível, já que no caso não existe qualquer vício a comprometer o resultado do julgamento, sua clareza e completude, nem se destinam os embargos de declaração à rediscussão da matéria já apreciada."
+Ao assim proceder, a Corte a quo deixou de prestar a devida jurisdição, uma vez que a apreciação das normas apontadas nos aludidos declaratórios seria indispensável ao correto julgamento da controvérsia concernente à restituição administrativa do indébito tributário reconhecido em ação mandamental, podendo, inclusive, repercutir no resultado do julgamento.
+Contrariou, ainda, o v. acórdão regional o disposto no art. 489, § 1º, inciso IV, do CPC, segundo o qual não se considera fundamentada qualquer decisão judicial que não enfrentar todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada pelo julgado.
+Após, pugna pelo conhecimento do Agravo e o provimento do Recurso Especial.
+Contrarrazões às fls. 566-583, e-STJ.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) a suficiência da fundamentação da decisão recorrida; b) a consonância do entendimento do acórdão recorrido com a jurisprudência do Superior Tribunal de Justiça (óbice da Súmula n. 83/STJ).
+Todavia, a parte Agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à consonância do aresto atacado com a jurisprudência desta Corte Superior (Súmula n. 83 do STJ).
+Com efeito, a parte Agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos.
+A propósito:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/R S, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Agravo interno improvido. (AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No mais, este Superior Tribunal de Justiça possui entendimento no sentido de que: "A Súmula 83 do STJ é de possível aplicação tanto pela alínea " a " quanto pela alínea "c" do permissivo constitucional" (AgInt no AREsp n. 1.900.711/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Por derradeiro, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários advocatícios, consoante o art. 25 da Lei n. 12.016/2009 e as Súmulas n. 512 do STF e 105 do STJ.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECUR SO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DO INDÉBITO. VIA ADMINISTRATIVA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
