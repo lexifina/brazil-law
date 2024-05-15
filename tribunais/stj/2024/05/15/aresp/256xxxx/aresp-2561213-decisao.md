@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Nortel Suprimentos Industriais Ltda, Nortel Suprimentos Industriais Ltda.. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 239):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. BASE DE CÁLCULO. INCLUSÃO. PIS. COFINS. POSSIBILIDADE. É constitucional e legal a inclusão do PIS e da COFINS na base de cálculo do ICMS. Precedentes do STJ. Recurso desprovido.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 265/271).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 11, 489, §1º, IV, e 1.022, I, do CPC e 2º e 13 da LC 87/96, 97, IV, e 110 do CTN. Sustenta, em síntese, que é ilegal a inclusão do PIS e da COFINS na base de cálculo do ICMS.
+Parecer do Ministério Público Federal às fls. 462/464.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que a matéria trazida a julgamento nos presentes autos foi afetada como tema repetitivo, a saber, "legalidade da inclusão do PIS e da COFINS na base de cálculo do ICMS" (REsp 2.091.202/SP, Tema - 1.223).
+Em recursos versando sobre temas submetidos ao rito da repercussão geral, o STF tem determinado o retorno dos processos para os Tribunais de origem, para aguardar o julgamento do recurso extraordinário representativo da controvérsia. A propósito: ARE 1.244.038 AgR-segundo-EDv-AgR-ED, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 10/12/2020; ARE 1.144.360 AgR-ED, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 19/02/2019; e ARE 1.181.843 AgR-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe 23/06/2020.
+Assim, em razão de economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que for definitivamente decidido pela Corte Suprema, é conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária, após o julgamento do recurso extraordinário sobre o mesmo tema afetado ao regime da repercussão geral, nos moldes dos arts. 1.040 e 1.041 do CPC.
+ANTE O EXPOSTO, julgo prejudicado o recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou a manutenção do acórdão local frente ao que vier a ser decidido por esta Corte no referido repetitivo.
+Publique-se.
+EMENTA
