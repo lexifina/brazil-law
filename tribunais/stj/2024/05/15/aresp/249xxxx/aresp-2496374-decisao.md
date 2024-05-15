@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por INSTITUIÇÃO TOLEDO DE ENSINO contra decisão que inadmitiu recurso especial (e-STJ, fls. 175-176) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 149):
+AGRAVO DE INSTRUMENTO. Ação monitória em fase de cumprimento de sentença. Decisão que indeferiu o pedido de penhora de parte do salário do executado. Inconformismo do exequente. Caráter alimentar evidenciado no caso concreto. Incidência da impenhorabilidade absoluta do o artigo 833, IV do CPC. Precedentes jurisprudenciais. Decisão mantida. Recurso improvido.
+Nas razões do recurso especial, a recorrente alegou, com fulcro na alínea c do permissivo constitucional, divergência jurisprudencial pautada na violação ao art. 833, IV e X, do CPC/2015.
+Sustentou a possibilidade de mitigação da garantia da impenhorabilidade dos proventos do devedor. Destacou que tal medida é fundamental para conferir efetividade à execução.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 175-176).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 179-181).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou o dissídio nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Isso porque é assente nesta Casa que a mera transcrição de ementas, sem a realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para demonstrar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+Além disso, o dissenso jurisprudencial deve ser comprovado por certidão, cópia, ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução do julgado disponível na internet, com indicação da respectiva fonte, o que não ocorreu no caso concreto.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE FORNECIMENTO DO MEDICAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. Para a caracterização da divergência jurisprudencial, a parte recorrente deve cumprir os requisitos de interposição, sendo indispensável a indicação do repositório oficial em que publicado o acórdão paradigma ou de juntar o seu inteiro teor; devida a realização do cotejo analítico entre os julgados confrontados; e demonstração da similitude fático-jurídica, devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, não bastando a simples transcrição de ementas, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.042.384/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. A falta de comprovação adequada do dissídio jurisprudencial, por meio da juntada das cópias integrais autenticadas dos julgados paradigmas ou da indicação do repositório oficial ou credenciado, inclusive mídia eletrônica, em que publicados, inviabiliza o recurso interposto pela alínea "c" do permissivo constitucional, não bastando a afirmação do recorrente quanto à existência da divergência.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.472.398/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/2/2020, DJe de 20/2/2020.)
+No caso em exame, depreende-se que a agravante, ao interpor o recurso especial, limitou-se a citar os acórdãos paradigmas sem realizar o devido cotejo analítico e a citação do repositório oficial.
+Logo, não há como ser julgado o recurso especial com base na alínea c do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PENHORA DO SALÁRIO DO EXECUTADO. MITIGAÇÃO DA GARANTIA DA IMPENHORABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO E DE INDICAÇÃO DO REPOSITÓRIO OFICIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
