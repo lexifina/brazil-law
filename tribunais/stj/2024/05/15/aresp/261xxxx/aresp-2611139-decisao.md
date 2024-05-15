@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo de decisão que deixou de admitir recurso especial interposto por JOSE AUGUSTO CAVALCANTI WANDERLEY em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO EM FACE DE SÓCIO-DIRETOR. DISSOLUÇÃO IRREGULAR. ALTERAÇÃO DE ENDEREÇO. NECESSIDADE DEDILAÇÃO PROBATÓRIA.
+1. Agravo de instrumento interposto por JOSE AUGUSTO CAVALCANTI WANDERLEY, visando a reforma da decisão proferida nos autos da execução fiscal nº 5074677-77.2019.4.02.5101, que não conheceu de sua exceção de pré-executividade, por considerar a presunção de dissolução irregular, devido à não localização da empresa no endereço indicado na inicial, ausência de comprovação de manutenção de suas atividades empresariais e falta de movimentação financeira, sendo necessária, portanto, dilação probatória.
+2. A alteração do endereço foi aprovada pela Assembleia Geral na véspera do ajuizamento da execução fiscal, motivo pelo qual justifica-se a diligência negativa de citação no endereço antigo, apontado na inicial do processo.
+3. A não localização no domicílio fiscal enseja o redirecionamento da execução fiscal para o sócio-gerente, consoante Súmula 435 do STJ, sendo que a inexistência de ativos financeiros corrobora, neste caso, a presunção de dissolução irregular.
+4. Ademais, o agravante não se insurgiu quanto à sua ilegitimidade em todas as execuções fiscais em que incluído no polo passivo e os mesmos argumentos ora aduzidos foram analisados em sede de cognição exauriente, ainda que em outro feito e pendente o trânsito em julgado (embargos à execução fiscal nº 5116465-03.2021.4.02.5101), enfraquecendo, portanto, as alegações do agravante, nesta seara.
+5. "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Súmula 393 do Eg. STJ).6. Agravo de instrumento conhecido e desprovido. (fl. 65).
+Os embargos de declaração foram rejeitados (fls. 105/110).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 489, II, e § 1º, IV, e 1.022, II, e parágrafo único, II, do CPC/2015, 135, III, do CTN, e 50 do Código Civil.
+Contrarrazões às fls. 143/148.
+O Recurso Especial foi inadmitido pelo Tribunal de origem (fls. 155), daí a interposição do presente agravo (fls. 163/172).
+Impugnação às fls. 177/178.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que merece não merece ser provido.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando, em sede de embargos de declaração, que:
+ ..  a presunção juris tantum preconizada na Súmula nº 435 do STJ só pode ser elidida por prova em contrário.
+Acrescente-se que também não foram localizados ativos financeiros (evento 19) e que não foram juntadas provas de que a empresa encontra-se em pleno funcionamento, no que também se pautou a decisão agravada.
+Noutro eito, a omissão consistente em não esclarecer como o equívoco fazendário na identificação do endereço correto da devedora principal, considerado "justificado" pelo julgado (dado que o registro de alteração ocorreu na véspera do ajuizamento), poderia configurar dissolução irregular apta a atrair a incidência da Súmula 435 do E. STJ, não se amolda ao conceito legal de omissão (art. 1.022, parágrafo único, c/c 489, §1º, ambos do CPC).
+Trata-se de outra hipótese de suposta contradição.
+Seja como for, a suposição não se confirma.
+As bases em que se assenta o Acórdão em questão consideram um contexto maior do que a alegada correlação entre a justificação da diligência negativa e a dissolução irregular.
+Isto porque, consoante Voto que integra o julgado, a fundamentação apenas inicia-se pela constatação de que a diligência negativa, malgrado realizada no endereço constante da inicial, quando já registrado o novo endereço, restou justificada pela proximidade entre a data do referido registro e do ajuizamento da execução fiscal.
+Mas, como dito, os fundamentos expostos no referido julgado não se resumem a tanto. A partir de então, prossegue-se com os demais elementos que resultaram no desprovimento do presente agravo, confirmando-se a necessidade de dilação probatória.
+ ..
+Por fim, deve-se destacar que a decisão mantida por esta Instância Revisora também se pautou no fato de que o excipiente, ora agravante, não comprovou o pleno funcionamento da empresa. (fls. 109/110).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+No mais, é importante registrar que a pretensão da parte recorrente, consubstanciada na alegação de ilegalidade no redirecionamento da execução fiscal, encontra, outrossim, óbice na Súmula 7/STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que "em que pese tenha sido indicado na inicial endereço diverso do averbado, verifica-se que a alteração do registro da empresa somente foi deferida na véspera do ajuizamento, em 24/10/2019. A referida modificação somente fora requerida mais de dois meses depois da respectiva aprovação pela Assembleia Geral. Desta forma, justificável que a diligência de citação negativa (ocorrida em 19/12/2019 - evento 09 - SJRJ) tenha sido realizada no endereço desatualizado" (fl. 68).
+Nessa linha, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO LOCALIZAÇÃO NO ENDEREÇO DA SOCIEDADE EMPRESÁRIA. PRESUNÇÃO DE DISSOLUÇÃO IRREGULAR. REDIRECIONAMENTO AO SÓCIO. LEGALIDADE. SUCESSÃO EMPRESARIAL. ACÓRDÃO RECORRIDO PELA AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. EXAME DE PROVA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Se, por ocasião da citação, o oficial de justiça constata o não funcionamento da sociedade empresária no endereço de seu domicílio fiscal, em que realiza suas atividades, está autorizada a presunção de dissolução irregular, o que, eventualmente, permite o redirecionamento da execução fiscal aos sócios gerentes ou administradores, situação na qual lhes cabe comprovar sua não ocorrência. Observância da Súmula 435 do STJ. Precedentes.
+3. No caso dos autos, o acórdão recorrido não pode ser revisto sem exame de prova, pois está firmada a premissa de que, à época da citação, a sociedade empresária não mais estava em funcionamento no endereço fornecido ao fisco e que não haveria provas da sucessão empresarial. No contexto, o conhecimento do recurso encontra óbice na Súmula 7 do STJ.
+4. Agravo interno não provido (AgInt no REsp n. 2.041.556/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023 - Grifo nosso).
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. POSSIBILIDADE. INDÍCIOS DE DISSOLUÇÃO IRREGULAR. CERTIDÃO DE OFICIAL DE JUSTIÇA ATESTANDO QUE A EMPRESA NÃO FUNCIONA NOS ENDEREÇOS CONSTANTES NA JUNTA COMERCIAL. SÚMULA N. 435/STJ. CONCLUSÃO DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. A dissolução irregular da pessoa jurídica devedora constatada por meio de certidão do oficial de justiça em que atestado o encerramento das atividades no endereço informado é causa suficiente para o redirecionamento da execução fiscal em desfavor do sócio-gerente. Inteligência da Súmula n. 435 do STJ (AgInt no AREsp n. 1.832.978/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022).
+2. Não é possível reformar acórdão que entendeu haver presunção de dissolução irregular da sociedade, em razão de a empresa não funcionar no endereço constante na Junta Comercial. Nesse ponto, modificar a presunção de dissolução irregular demandaria o reexame de matéria fático-probatória, o que não e permitido, por óbice da Súmula n. 7 do STJ.
+Agravo interno improvido (AgInt no AREsp n. 2.101.929/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023 - Grifo nosso).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
