@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DA 9A VARA DO TRABALHO DE SÃO PAULO - SP e o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Inicialmente, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO declinou de sua competência argumentando que (fls. 406-409):
+No caso dos autos, verifica-se que a ré mantém seu próprio plano de saúde em prol de seus empregados na modalidade de autogestão.
+Assim, tratando-se de convênio médico instituído e administrado pelo ex-empregador, com regras definidas em acordo coletivo de trabalho, a competência para conhecer do litigio é da Justiça do Trabalho, diante do que dispõe o artigo 114 da Carta Magna, nos seguintes termos:
+ ..
+Dessa forma, a relação entre o autor e a ré decorre de contrato de trabalho, vez que a própria empregadora gerencia e administra o benefício ofertado aos seus empregados.
+Nessas condições, o benefício disposto nos artigos 30 e 31 da Lei nº 9656/98 está relacionado ao contrato de trabalho extinto, sendo competente para julgar e processar esta ação a Justiça do Trabalho.
+ ..
+Por fim, a incompetência da Justiça Estadual é absoluta e pode ser reconhecida de ofício, em qualquer grau de jurisdição, devendo ser anulada a r. sentença com a remessa dos autos para uma das Varas da Justiçado Trabalho.
+O JUÍZO DA 9A VARA DO TRABALHO DE SÃO PAULO - SP, por sua vez, suscitou o presente conflito defendendo que (fls. 1028-1029):
+Ao negar provimento ao recurso especial interposto da decisão, o C. Superior Tribunal de Justiça asseverou: "Além disso, necessário ressaltar que o acórdão estadual entendeu que a matéria discutida na inicial é afeta à Justiça do Trabalho, declinando sua competência para julgar o processo. O recurso especial não versa sobre o tema, fazendo incidir, por analogia, o óbice da Súmula n. 284/STF (fl. 621 - Id. 36799ac) (No original, sem grifos).
+Ocorre que o C. STJ fixou, em sede de Incidente de Assunção de Competência, o Tema nº 5, segundo o qual "Compete à Justiça comum julgar as demandas relativas a plano de saúde de autogestão empresarial, exceto quando o
+benefício for instituído em contrato de trabalho, convenção ou acordo coletivo, hipótese em que a competência será da Justiça do Trabalho, ainda que figure como parte trabalhador aposentado ou dependente do trabalhador." Observa-se ter sido o precedente firmado em caso semelhante ao presente, envolvendo, inclusive a mesma
+Ademais, destaca-se que o C. TST tem observado a mesma tesa, conforme se exemplifica "A tese firmada pelo Superior Tribunal de Justiça, portanto, apenas possibilita a consideração de competência da Justiça do Trabalho quando cumuladas duas condições, quais sejam: a) a existência de autogestão empresarial (instituída e gerida pela própria empregadora); e b) que seja regulado no contrato de trabalho, ou por convenção ou acordo coletivo" (TST-RR- 608- 11.2017.5.05.0463,4a Turma, rei. Min. Alexandre Luiz Ramos, julgado em 29/6 /2021.)
+Pelo exposto, declaro a incompetência absoluta da Justiça do Trabalho para processar e julgar a presente ação e, por conseguinte, suscito o conflito de competência negativo com a E. 9a Câmara de Direito Privado do Tribunal de Justiça de São Paulo.
+Parecer do MPF, às fls. 1045-1048, opinando pela competência do JUÍZO DA 9A VARA DO TRABALHO DE SÃO PAULO - SP.
+É, no essencial, o relatório.
+O presente conflito de competência deve ser conhecido, porquanto instaurado entre Tribunais distintos (art. 105, inciso I, alínea "d", da Constituição da República de 1988).
+A questão em debate está pacificada no âmbito do Superior Tribunal de Justiça desde o julgamento do RESP n. 1.799.343/SP (IAC 5/STJ), cuja tese firmou-se nos seguintes termos: Compete à Justiça comum julgar as demandas relativas a plano de saúde de autogestão empresarial, exceto quando o benefício for regulado em contrato de trabalho, convenção ou acordo coletivo, hipótese em que a competência será da Justiça do Trabalho, ainda que figure como parte trabalhador aposentado ou dependente do trabalhador.
+A propósito, confira-se a ementa do citado julgado:
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE PLANO DE SAÚDE. MODALIDADE DE AUTOGESTÃO INSTITUÍDA. INATIVIDADE DO EX-EMPREGADO. MANUTENÇÃO DAS MESMAS CONDIÇÕES. COMPETÊNCIA. JUSTIÇA COMUM.
+1. Ação de obrigação de fazer ajuizada em 2015, da qual foi extraído o presente recurso especial, interposto em 06/11/2017.
+2. Incidente de assunção de competência instaurado para decidir sobre a Justiça competente para julgamento de demanda relativa a contrato de plano de saúde assegurado em contrato de trabalho, acordo ou convenção coletiva.
+3. A jurisprudência da Segunda Seção reconhece a autonomia da saúde suplementar em relação ao Direito do Trabalho, tendo em vista que o plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, a operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, e o fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, o que evidencia a natureza eminentemente civil da demanda.
+4. Tese firmada para efeito do art. 947 do CPC/15: Compete à Justiça comum julgar as demandas relativas a plano de saúde de autogestão empresarial, exceto quando o benefício for instituído em contrato de trabalho, convenção ou acordo coletivo, hipótese em que a competência será da Justiça do Trabalho, ainda que figure como parte trabalhador aposentado ou dependente do trabalhador.
+5. Hipótese que trata de contrato de plano de saúde na modalidade autogestão instituída, pois operado por uma fundação instituída pelo empregador, o que impõe seja declarada a competência da Justiça comum Estadual.
+6. Recurso especial conhecido e provido.
+(REsp n. 1.799.343/SP, relator Ministro Paulo de Tarso Sanseverino, relatora para acórdão Ministra Nancy Andrighi, Segunda Seção, julgado em 11/3/2020, DJe de 18/3/2020, grifei.)
+Nesse contexto, destaca-se o seguinte trecho do referido precedente:
+Diante do fato de se tratar, como bem definiu o i. Relator, de "contrato de plano de saúde na modalidade autogestão instituída (cf. art. 2º, inciso II, da ANS 137/2006), pois operado por uma fundação (Fundação Saúde Itaú) instituída pelo empregador (Banco itaú S/A), a aplicação da tese acima firmada impõe seja declarada a competência da Justiça comum Estadual.
+Forte nessas razões, pedindo vênia ao e. Relator, CONHEÇO E DOU PROVIMENTO ao recurso especial para declarar a competência da Justiça comum Estadual e determinar, por conseguinte, o retorno dos autos ao TJ/SP a fim de que, superada essa preliminar, prossiga no julgamento do agravo de instrumento. (grifei)
+Na espécie, verifica-se que se trata de contrato de plano de saúde na modalidade autogestão instituída (cf. art. 2º, inciso II, da ANS 137/2006), uma vez que operada por fundação, motivo pelo qual deve ser declarada a competência da Justiça comum estadual.
+Nesse mesmo sentido, cito os seguintes julgados : REsp n. 1.834.077, Ministra Maria Isabel Gallotti, DJe de 06/05/2024; AgInt no AREsp n. 1.408.145, Ministro Antonio Carlos Ferreira, DJe de 22/05/2020; REsp n. 1.807.707, Ministro Luis Felipe Salomão, DJe de 02/06/2020; REsp n. 1.894.663, Ministra Nancy Andrighi, DJe de 02/10/2020.
+Ante o exposto, conheço do conflito e declaro competente o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. PLANO DE SAÚDE. MODELO DE AUTOGESTÃO INSTITUÍDA. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO DE COMPETÊNCIA CONHECIDO.
