@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se  de  agravo  contra  o  juízo  de  admissibilidade  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  assim  ementado:
+APELAÇÃO.  Plano  de  saúde.  Cobrança.  Rescisão  contratual  por  iniciativa  da  parte  adquirente.  Notificação  prévia  de  90  dias  para  rescisão.  Abusividade.  Inocorrência.  Prazo  previsto  contratualmente  e  chancelado  pelo  art.  17,  parágrafo  único  da  Resolução  ANS  195/2009  face  às  peculiaridades  deste  tipo  contratual.  Cobrança  Legítima.  Multa  no  valor  de  três  mensalidades,  referente  ao  período  de  90  dias  de  aviso  prévio.
+Sentença  reformada.  RECURSO  PROVIDO.
+Contra  o  referido  acórdão,  a  parte  recorrente  opôs  embargos  de  declaração,  afirmando  que  "nos  autos  da  Ação  Civil  Pública  no  0136265-83.2013.4.02.5101,  movida  pela  Autarquia  de  Proteção  e  Defesa  do  Consumidor  do  Estado  do  Rio  de  Janeiro  -  PROCON/RJ  -  contra  a  Agência  Nacional  de  Saúde  Suplementar  -  ANS,  que  julgou  procedentes  os  pedidos  no  sentido  de  declarar  nulo  o  parágrafo  único,  do  artigo  17,  da  RN  195,  de  14  de  julho  de  2009,  da  ANS  e  autorizar  que  os  consumidores  possam  rescindir  o  contrato  sem  que  lhe  sejam  impostas  multas  contratuais  em  razão  da  fidelidade  de  12  meses  de  permanência  e  02  meses  de  pagamento  antecipado  de  mensalidades,  impostas  no  ato  administrativo  viciado".
+Ocorre  que  a  Corte  de  origem  deixou  de  examinar  as  alegações  da  recorrente,  que  podem  alterar  substancialmente  o  resultado  do  julgamento,  evidenciando-se  a  violação  do  art.  1.022  do  Código  de  Processo  Civil.
+Em  face  do  exposto,  conheço  do  agravo  e  dou  provimento  ao  recurso  especial,  a  fim  de  determinar  o  retorno  dos  autos  para  que  o  Tribunal  de  origem  supra  as  omissões  acima  anotadas.
+Intimem-se.
+EMENTA
