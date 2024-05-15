@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEODINA SANTA DE JESUS ALVES contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição da República, proposto contra o acórdão proferido na Apelação Cível n. 5004741-80.2022.4.03.9999.
+Consta dos autos que o INSS interpôs recurso de apelação no Tribunal de origem, que, de ofício, extinguiu o feito, sem julgamento de mérito, na forma do art. 485, inciso IV, do CPC/2015, e julgou prejudicado o apelo, em acórdão assim ementado (fls. 231-232):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE HÍBRIDA. REQUISITOS NÃO PREENCHIDOS. ATIVIDADE RURAL NÃO COMPROVADA. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. APELAÇÃO PREJUDICADA.
+- O direito à aposentadoria por idade híbrida é devido aos 65 (sessenta e cinco) anos, se homem, e aos 62 (sessenta e dois) anos, se mulher, conforme as regras insertas pela EC n. 103, de 12/11/2019, e pelo artigo 48,§ 1º, todos da Lei n. 8.213, de 24/07/1991. Anotando-se que a exigência deidade de 62 (sessenta e dois) anos para as mulheres deve observar a regra de transição, implementada pelo acréscimo de 6 (seis) meses por ano, iniciando a partir de 2020, até 2023.
+- No entanto, quem completou os requisitos para a aposentadoria híbrida até a publicação da EC n. 103, de 12/11/2019, adquiriu o direito à aplicação das regras anteriores.
+- A carência é aquela prevista nos artigos 25, inciso II, 142 e 143 da LBPS, que refere a necessidade de demonstração de períodos de contribuições na atividade urbana ou rural, correspondente ao ano do perfazimento do requisito etário, ainda que posteriormente (Súmula 44/TNU), ou do tempo de atividade campesina. Essa carência poderá ser complementada para a concessão de qualquer espécie de aposentação por idade urbana ou rural, bastando, para tanto, que a contagem seja mesclada pelo tempo de exercício de atividade rural ou urbano ou vice-versa.
+- A comprovação da atividade rural deve ser realizada mediante início de prova material corroborada por prova testemunhal, conforme o § 3º do artigo 55 da Lei n. 8.213, de 24/07/1991.
+- Na espécie, não há provas materiais a serem corroboradas pelo depoimento de testemunhas. No entanto, considerando-se o teor do Tema 629/STJ, a falta de conteúdo probatório material conduz à extinção sem julgamento de mérito, a teor do artigo 55, § 3º, da Lei n. 8.213, de21/07/1991, por ausência pressupostos de constituição e de desenvolvimento válido e regular do processo, na forma preconizada pelo artigo 485, inciso IV, do CPC.
+- De ofício, extinto o feito, sem julgamento de mérito, na forma do artigo 485,IV, do CPC. Prejudicada a apelação do INSS.
+Irresignado, a ora agravante interpôs recurso especial, não admitido por aquele Tribunal (fls. 349-353).
+No recurso especial, sustenta, em síntese, além do dissídio jurisprudencial, violação aos arts. 11, inciso VII, 18, inciso I, alínea b, 25, inciso II, 39, inciso I, 55, § 3º, 106 e 142, todos da Lei n. 8.213/1991. Afirma que os documentos acostados aos autos são hábeis a comprovar o preenchimento dos requisitos legais necessários à concessão do benefício pleiteado.
+Requer seja conhecido e provido o recurso especial.
+Neste agravo, reitera as alegações esposadas no recurso especial, bem como indica não incidir, no caso, o óbice da Súmula n. 7/STJ.
+Requer seja conhecido e provido o presente agravo, a fim de que seja provido o recurso especial.
+O Ministério Público Federal manifestou-se às fls. 390-394, opinando pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Na origem, cuida-se de ação previdenciária ajuizada pela ora agravante, contra a autarquia previdenciária, objetivando a concessão de aposentadoria por idade híbrida. O Juízo de primeiro grau proferiu sentença de procedência da pretensão inicial (fls. 145-151).
+Irresignado, o INSS, parte ora agravada, interpôs apelação no Tribunal de origem, que de ofício, extinguiu o feito, sem julgamento de mérito, na forma do art. 485, inciso IV, do CPC/2015, e julgou prejudicado o recurso (fls. 208-232).
+A Corte a quo decidiu a controvérsia nos seguintes temos (fls. 229-231; sem grifos no original):
+A requerente nascida em 15/04/1954 cumpriu o requisito etário em15/04/2014 quando completou 60 (sessenta) anos de idade, devendo comprovar a carência de 180 (cento e oitenta) meses.
+O requerimento administrativo de aposentadoria por idade foi protocolado em 23/08/2018, tendo sido reconhecidas 40 (quarenta) contribuições mensais (ID264349965 - Pág. 78/80).
+A r. sentença reconheceu o labor rural prestado no período de 1981 a 2002.
+A parte autora apresentou os seguintes documentos aos autos, como início de prova material do labor rural:
+- certidão de casamento havido em 25/12/1971, em que o cônjuge da autora, Sr. Jose Luiz Alves, é qualificado como lavrador;
+- cédula de identidade do marido da autora, emitida em 21/11/1975,constando a profissão de lavrador; e
+- CTPS do marido com anotação de contrato de trabalho como serviços gerais rurais na Fazenda Sítio Grande para o empregador Renato Vilela de Siqueira, de 11/05/1982 a 03/04/2001.
+Consta do Extrato do Cadastro Nacional de Informações Sociais (CNIS) da autora recolhimentos como segurada facultativa de 01/01/2015 a 30/04/2018 (ID264349965 - Pág. 23/24).
+No extrato do CNIS do marido da autora verifica-se o registro dos seguintes vínculos previdenciários: como autônomo de 01/02/1977 a 31/08/1978 e de 01/02/1979 a 31/05/1979; como empregado de 11/05/1982 a 03/04/2001; como contribuinte individual de 01/05/2001 a 31/12/2008, de 01/02/2009 a 31/10/2015, de 01/01/2018 a 31/01/2018.
+A autora pretende se valer da extensão da prova material em nome do marido para fins de comprovação de seu labor rural.
+Conforme se observa, o período de labor rural reconhecido na r. sentença compreendeu o interregno em que o marido da autora exerceu atividade rural na condição de empregado.
+Todavia, é incabível a extensão da condição de trabalhador rural de um integrante do grupo familiar ao outro na hipótese em que aquele é empregado rural, eis que tal possibilidade é reservada aos casos em que o labor rural é realizado em regime de economia familiar.
+De outro giro, quanto ao direito autônomo da parte autora, é certo que o labor rural do marido com registro na CTPS não pode prejudicar nem invalidar sua pretensão, desde que existam elementos probatórios em nome da requerente, porquanto é indispensável o início de prova material em seu nome próprio, o que não se verifica.
+Assim, exsurge dos autos que a parte autora não se desincumbiu do ônus probatório, pois não apresentou documentos a demonstrar a labuta campesina, no período reconhecido na r. sentença.
+Na espécie, não há provas materiais a serem corroboradas pelo depoimento de testemunhas. No entanto, considerando-se o teor do Tema 629/STJ, a falta de conteúdo probatório material conduz à extinção sem julgamento de mérito, a teor do artigo 55, § 3º, da Lei n. 8.213, de 21/07/1991, por ausência pressupostos de constituição e de desenvolvimento válido e regular do processo, na forma preconizada pelo artigo 485, inciso IV, do CPC.
+Como se vê, o Tribunal de origem, analisando o acervo documental dos autos, concluiu que a agravante não logrou comprovar o labor rural, sendo incabível a extensão da condição de trabalhador rural e inexistindo início de prova material no nome da própria recorrente.
+Portanto, considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o necessário revolvimento dos aspectos concretos da causa, providência necessária para concluir, na espécie, pela comprovação, ou não, do exercício de labor rural pela agravante, o que é obstado, na via especial, pela incidência da Súmula n. 7/STJ. Nesse sentido: EDcl no AgInt no AREsp n. 1.490.815/MS, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.
+Por fim, " f ica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada na análise do Recurso Especial pela alínea "a" do permissivo (AgInt no REsp n. 2.032.079/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/3/2024, DJe de 19/4/2024.).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR IDADE HÍBRIDA. COMPROVAÇÃO DO LABOR RURAL. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
