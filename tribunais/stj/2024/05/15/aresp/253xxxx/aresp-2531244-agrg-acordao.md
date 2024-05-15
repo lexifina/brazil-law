@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE.
+I - Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada.
+II - Na hipótese, compulsando as razões do regimental, verifico que a agravante olvidou-se, por completo, de aventar irresignação em face da conclusão adotada na decisão agravada a respeito da ausência de impugnação adequada do fundamento adotado pelo Tribunal de origem para negar trânsito ao recurso especial, qual seja, a incidência da Súmula n. 284 do STF, limitando-se a aduzir, genericamente, que a inadmissão do recurso representaria cerceamento de defesa.
+III - Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento aos interesses do ora agravante. Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CATIA ADRIANE MUELLER contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 409-410).
+Consta  dos  autos  que  a agravante foi condenada,  em  primeiro  grau,  às  penas  de  10 (dez) meses de detenção,  em  regime  inicial  aberto,  a qual foi substituída por pena restritiva de direitos, e  de  16  (dezesseis)  dias-multa,  no  mínimo  legal,  por infração, por 12 (doze) vezes, ao delito previsto no art. 2º, inc. II, da Lei n. 8.137/90 (fls.  218-223).
+Em segunda instância, o Tribunal de origem, por unanimidade, negou provimento à apelação interposta pela agravante (fls. 311-318).
+Sobreveio, então,  recurso  especial  (fls.  325-340),  interposto  com  fulcro  no  artigo  105,  inciso  III,  alínea a,  da  Constituição  Federal,  em que a Defesa  sustentou a violação aos seguintes dispositivos legais:
+a) art. 41 do CPP, sob argumento de que a inicial acusatória se revela inepta, tendo em vista que deixou de descrever a conduta imputada à insurgente em todas suas circunstâncias, o que inviabilizou o exercício da ampla defesa e do contraditório; b) art. 2º, inc. II, da Lei n. 8.137/90, sob alegação de que a conduta imputada à agravante é atípica, tendo em vista que há entendimento jurisprudencial consolidado nas Cortes Superiores no sentido de que o não recolhimento do ICMS devido gera o inadimplemento junto à autoridade fiscal, mas não configura crime contra a ordem tributária.
+Argumentou, ademais, sem indicar os dispositivos de lei tidos como violados, que o caderno processual deixou de apresentar prova de qualquer conduta específica da agravante que tenha ensejado a suposta sonegação fiscal, bem como que não houve a comprovação de que a agente tenha atuado com dolo específico de causar prejuízo ao erário, elemento indispensável para a configuração de crime contra a ordem tributária.
+Pleiteou, portanto,  o  conhecimento  e  provimento  do  recurso especial para reconhecer a vulneração dos dispositivos indicados como violados, reformando-se o acórdão recorrido.
+Apresentadas  as  contrarrazões  (fls. 353-368),  sobreveio  juízo  negativo  de  admissibilidade  fundado na incidência da Súmula n. 284/STF, ante a deficiência de fundamentação do recurso, tendo em vista ausência de indicação dos dispositivos alegadamente violados (fls. 371-372).
+Nas  razões  do  agravo em recurso especial,  postulou a agravante o  processamento  do  recurso  especial,  haja vista o cumprimento dos requisitos necessários à sua admissão  (fls.  383-389).  Nesta Corte Superior, o agravo em recurso especial não foi conhecido (fls. 409-410). Oposto recurso integrativo, este foi rejeitado (fl. 425-426).
+Neste agravo regimental (fls. 432-439), a insurgente assevera que não deve prosperar a decisão agravada, porquanto, "no presente caso ao que se observa, foram aplicadas normas regimentais em detrimento dos princípios legais do direito, evidenciando um formalismo excessivo e um evidente cerceamento de defesa" (fl. 435).
+Requer, portanto, a reconsideração da decisão agravada para que seja examinado e provido o recurso especial, ou, subsidiariamente, o encaminhamento dos autos ao Colegiado para análise da matéria.
+O  Ministério  Público  Federal  apresentou  manifestação  pelo  não conhecimento do agravo regimental (fls.  454-455).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE.
+I - Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada.
+II - Na hipótese, compulsando as razões do regimental, verifico que a agravante olvidou-se, por completo, de aventar irresignação em face da conclusão adotada na decisão agravada a respeito da ausência de impugnação adequada do fundamento adotado pelo Tribunal de origem para negar trânsito ao recurso especial, qual seja, a incidência da Súmula n. 284 do STF, limitando-se a aduzir, genericamente, que a inadmissão do recurso representaria cerceamento de defesa.
+III - Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento aos interesses do ora agravante. Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não merece ser conhecido.
+Isso porque, nas razões do recurso, o agravante não impugnou especificamente os fundamentos da decisão agravada, que passo a reproduzir, naquilo que interessa à espécie (fls. 409-410, grifei):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:  ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ."
+Com efeito, na hipótese, compulsando as razões do regimental, verifico que a agravante olvidou-se, por completo, de aventar irresignação em face da conclusão adotada na decisão agravada a respeito da ausência de impugnação adequada do fundamento adotado pelo Tribunal de origem para negar trânsito ao recurso especial, qual seja, a incidência da Súmula n. 284 do STF, limitando-se a aduzir, genericamente, que a inadmissão do recurso representaria cerceamento de defesa.
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento aos interesses do ora agravante, ônus do qual não se desincumbiu a parte agravante, no caso.
+Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido são os precedentes desta Corte, v.g.: AgRg no AREsp n. 2.345.944/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/9/2023; e AgRg no AREsp n. 2.198.230/DF, Quinta Turma, de minha relatoria , DJe de 25/8/2023.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
