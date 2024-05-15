@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO à decisão que deu provimento ao recurso especial "para autorizar a cobrança da coparticipação do custo do tratamento no percentual contratado de 30% (trinta por cento), limitado o valor cobrado mensalmente até o valor limite da mensalidade" (e-STJ fl. 867).
+Em suas razões (e-STJ fls. 871/875), a embargante alega omissão na decisão embargada nos seguintes termos:
+"(..) o julgamento de Recurso Especial teve seu parcial provimento para reformar a sentença/acórdão e autorizar que a operadora de plano de saúde se limite a cobrar a título de coparticipação em até um vez o valor da mensalidade do plano do Embargado.
+Visando a necessidade de encontrar um ponto de equilíbrio entre a cobrança da coparticipação pelo plano de saúde e a capacidade de pagamento da paciente, limita a cobrança de coparticipação no valor de um mensalidades.
+Ocorre que a decisão foi omissa, pois consignou que a cobrança da coparticipação é legal; limitou a cobrança ao valor de um mensalidade; porém não elucidou a possibilidade da Embargante cobrar o montante que excede o valor estipulado em mensalidades futuras, sempre respeitando o patamar máximo definido, mas até que seja quitado o débito total de coparticipação.
+(..)
+(..) conforme entendimentos jurisprudenciais do STJ, é pacífico que a cobrança de coparticipação é legítima. Dessa forma, não se pode, simplesmente, limitar a sua cobrança, e considerar que o excedente não seja mais cobrado, pois isso seria como uma remição de dívida sem qualquer contraprestação, o que, convenhamos, não é apropriado.
+(..)
+Assim, requer que seja sanado o vício apontado, a fim de que o Nobre Ministro Relator se pronuncie e esclareça que a coparticipação foi limitada ao valor de uma mensalidade, mas a diferença que excede esse montante estipulado também DEVE ser cobrada ao decorrer das outras mensalidades, respeitando o limite estabelecido, até que o saldo de coparticipação seja totalmente quitado" (e-STJ fls. 872/873).
+Ao final, requer o acolhimento do recurso.
+A parte contrária ofereceu impugnação às e-STJ fls. 878/880.
+É o relatório.
+DECIDO.
+Os aclaratórios merecem ser acolhidos apenas para esclarecimentos, a despeito da ausência de indicação de qualquer um dos vícios elencados no artigo 1.022 do Código de Processo Civil.
+Às fls. 863/867, o recurso especial foi provido "para autorizar a cobrança da coparticipação do custo do tratamento no percentual contratado de 30% (trinta por cento), limitado o valor cobrado mensalmente até o valor limite da mensalidade" (e-STJ fl. 867).
+Alega a operadora de plano de saúde que a decisão é omissa por não ter estabelecido que o débito referente à coparticipação que ultrapasse o valor máximo mensal fica automaticamente para o mês ou meses seguintes, até sua quitação.
+No entanto, constou da decisão que
+"(..) a Terceira Turma do Superior Tribunal de Justiça concluiu pela possibilidade de cobrança mensal da coparticipação, considerando o tratamento como ambulatorial e entendeu razoável fixar como parâmetro o valor equivalente à mensalidade paga pelo usuário, de forma que o desembolso mensal não seja superior ao da contraprestação ordinária.
+Confira-se:
+"RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C NULIDADE DE CLÁUSULA CONTRATUAL E COMPENSAÇÃO POR DANO MORAL. PROTOCOLO PEDIASUIT. PROCEDIMENTO NÃO LISTADO NO ROL DA ANS. COBERTURA PELA OPERADORA. INCIDÊNCIA DA CLÁUSULA DE COPARTICIPAÇÃO PARA ATENDIMENTO AMBULATORIAL. ANÁLISE DA ABUSIVIDADE DO VALOR COBRADO PELA OPERADORA.
+1. Ação revisional de contrato c/c nulidade de cláusula contratual e compensação por dano moral ajuizada em 03/11/2017, da qual foi extraído o presente recurso especial, interposto em 22/02/2022 e concluso ao gabinete em 16/05/2022.
+2. O propósito recursal é dizer sobre a abusividade da cobrança de coparticipação pelo tratamento com o protocolo Pediasuit.
+3. O protocolo Pediasuit, é, em geral, aplicado em sessões conduzidas por fisioterapeutas, terapeutas ocupacionais e/ou fonoaudiólogos, dentro das respectivas áreas de atuação, sem a necessidade de internação ou mesmo da utilização de estrutura hospitalar, enquadrando-se, a despeito de sua complexidade, no conceito de atendimento ambulatorial estabelecido pela ANS.
+4. Se a operadora atende à necessidade do beneficiário ao custear o procedimento ou evento, ainda que não listado no rol da ANS, opera-se o fato gerador da obrigação de pagar a coparticipação, desde que, evidentemente, haja clara previsão contratual sobre a existência do fator moderador e sobre as condições para sua utilização, e que, concretamente, sua incidência não revele uma prática abusiva.
+5. Como não há norma detalhando as condições para a utilização do fator moderador, a serem informadas ao usuário, deve ser considerada suficiente a discriminação prévia do percentual ou do valor devido para cada procedimento ou grupo de procedimentos e eventos em saúde sobre os quais incidirá a coparticipação - consultas, exames, atendimento ambulatorial, internação, etc. - tendo em conta o efetivamente pago pela operadora ao prestador do serviço.
+6. Para que a coparticipação não caracterize o financiamento integral do procedimento por parte do usuário ou se torne fator restritor severo de acesso aos serviços, é possível aplicar, por analogia, o disposto no art. 19, II, "b", da RN-ANS 465/2022, para limitar a cobrança "ao máximo de cinquenta por cento do valor contratado entre a operadora de planos privados de assistência à saúde e o respectivo prestador de serviços de saúde".
+7. Com o fim de proteger a dignidade do usuário frente à incidência dos mecanismos financeiros de regulação, no que tange à exposição financeira do titular, mês a mês, é razoável fixar como parâmetro, para a cobrança da coparticipação, o valor equivalente à mensalidade paga, de modo que o desembolso mensal realizado por força do mecanismo financeiro de regulação não seja maior que o da contraprestação paga pelo beneficiário.
+8. Hipótese em que deve ser reformado o acórdão recorrido para manter a coparticipação, limitando o valor pago a cada mês pelo beneficiário ao valor da mensalidade, até a completa quitação, respeitado, quanto ao percentual cobrado por procedimento, o limite máximo de 50% do valor contratado entre a operadora de plano de saúde e o respectivo prestador de serviço.
+9. Recurso especial conhecido e provido em parte" (REsp 2.001.108/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023 - grifou-se)" - fls. 866/867 - grifou-se.
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, para esclarecer que o valor da coparticipação (30% do valor do procedimento) deve ser descontado no limite mensal equivalente ao valor de uma mensalidade, até que seja totalmente quitado.
+Publique-se.
+Intimem-se.
+EMENTA
