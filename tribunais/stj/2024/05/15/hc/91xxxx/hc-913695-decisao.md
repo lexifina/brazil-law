@@ -1,0 +1,12 @@
+DECISÃO
+CAIO JUNIOR CAMPREGHER alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2094332-85.2024.8.26.0000.
+A defesa pretende a soltura do paciente - condenado pelo crime de tráfico de drogas -, sob o argumento de que trata-se "de decisão carente de fundamentação idônea, não considerando que a ausência de requisitos do art. 312 do Código de Processo Penal, que sua esposa teve filho recentemente, que possui circunstâncias pessoais favoráveis e que a quantidade de drogas, que não pertenciam a ele, não pode servir como fundamento da medida extrema".
+Decido.
+Da análise dos autos, portanto, vislumbro manifesto constrangimento ilegal a ensejar a concessão da ordem in limine.
+Com efeito, verifico que a decisão ora impugnada, ao não conhecer da impetração - o que impede o conhecimento do tema -, salientou que "o impetrante se insurge contra a manutenção da suaprisão preventiva do Paciente, confirmada no v. acórdão proferido pela 2ª CâmaraCriminal deste egrégio Tribunal de Justiça, que deu parcial provimento à suaApelação, para absolve-lo do crime do art. 34,caput, da Lei nº 11.343/2006 (fls.435/446 dos autos principais), mantendo, no mais, a r. sentença que o condenou pelocrime de tráfico de drogas à pena de 6 anos de reclusão e 600 dias-multa, em regimeinicial fechado, indeferindo o recurso em liberdade".
+Todavia, ao verificar o texto do acórdão que julgou a apelação criminal, às fls. 135-146, verifico que o tema relativo ao indeferimento do direito de recorrer em liberdade não foi abordado pela Corte de origem.
+Tais elementos atestam, à primeira vista, a plausibilidade jurídica do direito tido como violado, considerando que o Tribunal de origem negou jurisdição, ao não analisar os argumentos deduzidos pela defesa no HC n. 2094332-85.2024.8.26.0000.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ. No entanto, tendo em vista a negativa de jurisdição, concedo a ordem, de ofício e in limine, para determinar ao Tribunal estadual que se manifeste sobre a tese de ilegalidade do indeferimento do direito de recorrer em liberdade formulado no HC n. 2094332-85.2024.8.26.0000.
+Registro, contudo, que não há prejuízo de futura análise da insurgência por esta Corte, em eventual impetração que venha a ser aforada já a partir de ato coator atribuído a órgão de segundo grau.
+Publique-se. Intimem-se.
+EMENTA
