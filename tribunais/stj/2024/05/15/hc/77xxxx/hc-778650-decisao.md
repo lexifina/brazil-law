@@ -1,0 +1,41 @@
+DECISÃO
+EDERSON JOSÉ GONÇALVES LEITE alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no Recurso em Sentido Estrito n. 0039164-76.2019.8.19.0203.
+Consta dos autos que o paciente, em conjunto com outros réus, foram denunciados como incursos nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+O Juízo de origem rejeitou integralmente a denúncia "com relação aos crimes previstos no art. 33, caput, da lei 11.343/06 (por força da inépcia, a teor do art. 395, I, do CPP), e no art. 35, caput, da lei 11.343/06 (por força da litispendência com relação aos autos de nº0020099-32.2018.8.19.0203, a teor do art. 395, II, do CPP) , além de desmembrar o feito" (fl. 175).
+O Tribunal de Justiça deu provimento ao recurso em sentido estrito para receber a inicial acusatória apenas em relação ao delito previsto no art. 35 da Lei de Drogas.
+A defesa alega a ocorrência de litispendência, ao argumento de que "há identidade fática entre o feito discutido no presente Mandamus e o processo 0020049-32.2019.8.19.0203" (fl. 14).
+Afirma a ocorrência de nulidade, em razão da não observância do procedimento legal, visto que houve o recebimento da denúncia pelo Tribunal de origem sem a apresentação da defesa preliminar.
+Requer a concessão da ordem, a fim de restabelecer a decisão que rejeitou integralmente a denúncia ou reconhecer a nulidade do acórdão que recebeu a inicial.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Litispendência
+Quanto à alegação de litispendência, extrai-se do acórdão impugnado os seguintes fundamentos (fls. 176-177, grifei):
+Insurge-se o "parquet", visando o recebimento da denúncia, rejeitada pelo juízo em razão da litispendência com relação aos autos de nº 0020099-32.2018.8.19.0203, a teor do art. 395, II, do CPP.
+Com razão o Ministério Público.
+Verifica-se que nestes autos (Inquérito Nº 0010/2019 - Dcod) imputa-se aos recorridos a prática dos delitos descritos nos artigos 33 (na forma do artigo 29, do Código Penal) e 35, c/c art. 40, inciso IV, todos da Lei 11.343/06 e art. 69 do Código Penal, em data inicial que não se pode precisar, mas próxima ao dia 10 de janeiro de 2019.
+Já nos autos do Processo nº 0020099-32.2018.8.19.0203 (Inquérito nº: 00363/2017 - DPCA), os mesmos foram denunciados por fatos ocorridos em data inicial que não se pode precisar, mas até outubro de 2018, como incursos nos artigos 33 e 35, c/c artigo 40, incisos III, IV e VI, da Lei 11.343/06.
+Em que pese a similaridade entre alguns denunciados, observa-se que os fatos narrados nas denúncias se apresentam diversos, e com períodos distintos.
+ ..
+No caso em apreço, não há quaisquer razões para o não recebimento da denúncia em relação ao artigo 35, c/c 40, inciso IV, todos da lei 11.343/06, destacando-se que a decisão atacada não recepcionou a denúncia por força da inépcia da inicial, o que não foi motivo de irresignação ministerial.
+Em face do disposto, voto no sentido de dar-se provimento ao recurso, para receber-se a denúncia em relação aos recorridos tão somente quanto ao crime previsto no artigo 35, c/c 40, inciso IV, ambos da lei 11.343/06, com o prosseguimento do feito.
+No caso, segundo consta do julgado, por ocasião do julgamento do recurso, após a análise do pleito defensivo, não se verificou a alegada litispendência em relação ao crime de associação para o tráfico, pois "Em que pese a similaridade entre alguns denunciados, observa-se que os fatos narrados nas denúncias se apresentam diversos, e com períodos distintos" (fl. 176).
+Constou do julgado que, nos autos n. 0020099-32.2018.8.19.0203, os fatos descritos na denúncia ocorreram "em data inicial que não se pode precisar, mas até outubro de 2018" (fl. 176), ao passo que a conduta narrada nos presentes autos refere-se a prática do delito de associação para o tráfico "em data inicial que não se pode precisar, mas próxima ao dia 10 de janeiro de 2019" (fl. 176).
+Extrai-se do processo n. 0020099-32.2018.8.19.0203, que "as investigações constataram que, através do "whatsapp", em especial do grupo chamado "DOUTRINAS 31", o denunciado EDERSON repassa as ordens para o denunciado DONATO sobre a venda das drogas, a escala dos plantões das bocas de fumo, e demais informações relevantes para o tráfico local" (fls. 280-281).
+Já na presente ação penal constata-se que "EDERSON JOSÉ GONÇALVES LEITE, vulgo "SAM", atualmente preso na Penitenciária Federal de Mossoró- RN., é chamado de "dono" do tráfico da localidade do Karatê", Cidade de Deus. Seu domínio é exercido através de interpostas pessoas, em especial de seu "braço direito", o ora denunciado EDVANDERSON GONÇALVES LEITE" (fls. 48-49).
+Desse modo, considerando a existência de fatos e períodos distintos entre as ações penais, não se verifica nesta oportunidade a ocorrência de litispendência, de modo que a elucidação da autoria delitiva e da pormenorização dos fatos só poderão ocorrer ao final da instrução processual.
+Registro que não se afigura possível, na via estreita do habeas corpus, avaliar com exatidão a extensão das investigações realizadas numa e noutra ação penal, bem como os fatos delituosos objetos de um e de outro processo, para se concluir, com precisão, se houve ou não bis in idem. Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ORGANIZAÇÃO CRIMINOSA. LITISPENDÊNCIA. INOCORRÊNCIA ATESTADA PELA ORIGEM. ÓBICE AO REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. DOSIMETRIA. MAUS ANTECEDENTES E REINCIDÊNCIA. CONDENAÇÕES PRETÉRITAS DIVERSAS. BIS IN IDEM NÃO CONFIGURADO. QUANTUM DE AUMENTO PROPORCIONAL. TESE RELATIVA À SEGUNDA ETAPA DA DOSIMETRIA. EXAME DA MATÉRIA NÃO COMPROVADA. INSTRUÇÃO DEFICIENTE, AGRAVO NÃO PROVIDO.
+1. "A litispendência guarda relação com a ideia de que ninguém pode ser processado quando está pendente de julgamento um litígio com as mesmas partes (eadem personae), sobre os mesmos fatos (eadem res), e com a mesma pretensão (eadem petendi), que é expressa por antiga máxima latina, one bis in idem" (HC 229.650/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 8/3/2016, DJe 15/3/2016).
+2. O Tribunal de origem afastou a tese de litispendência, tendo destacado que não houve comprovação da identidade fática entre as demandas criminais ajuizadas contra o agravante. Deveras, não restou comprovado que os feitos se referiam aos mesmos fatos e às mesmas datas, como alegado pela defesa. Nesse passo, conclusão em sentido contrário ao registrado pela instância ordinária demandaria o reexame de matéria fática, o que é vedado nos estreitos limites desta impugnativa do writ.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 799.521/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Consoante já decidiu o Supremo Tribunal Federal, em caso semelhante, "os fatos narrados nos autos demonstram a complexidade das investigações, que resultaram em diversas apreensões de droga, sendo impossível, numa análise restrita, como é a via do habeas corpus, afirmar-se que teria ocorrido bis in idem" (HC n. 115.784/SP, Rel. Ministro Ricardo Lewandowski, 2ª T., DJe 21/8/2013).
+Portanto, a modificação das premissas firmadas no acórdão impugnado implicaria a necessidade de reexame de fatos e provas produzidos nos autos, procedimento vedado no writ.
+II. Nulidade
+Verifico que o acórdão apontado como ato coator não analisou a tese defensiva de nulidade pela não observância do rito procedimental descrito no art. 55 da Lei n. 11.343/2006, especialmente porque não houve oposição de embargos de declaração perante a Corte local, o que impede a sua apreciação diretamente por esta Corte Superior, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+III. Dispositivo
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego-lhe a ordem.
+Publique-se e intimem-se.
+EMENTA
