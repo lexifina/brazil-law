@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fls. 63-64):
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO (ART. 121, §2º, III E IV DO CP). PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA BASEADO NA ALEGAÇÃO DE EXCESSO DE PRAZO. NÃO ACOLHIMENTO. EXCESSO DE PRAZO AFASTADO. TRAMITAÇÃO REGULAR. AUSÊNCIA DE DESÍDIA DO JUDICIÁRIO. RÉU QUE ESTEVE EM LOCAL INCERTO E NÃO SABIDO POR CERCA DE NOVE ANOS. ACUSADO CUSTODIADO NO ESTADO DO ESPÍRITO SANTO. TESTEMUNHAS RESIDENTES EM OUTROS ESTADOS DA FEDERAÇÃO. NECESSIDADE DE EXPEDIÇÃO DE PRECATÓRIAS. OBJETIVO DE GARANTIR A ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. DESCABIMENTO NA HIPÓTESE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. WRIT CONHECIDO PARA DENEGAR A ORDEM. UNANIMIDADE.
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática dos crimes descritos no art. 121, § 2º, III e IV, do Código Penal, c/c art. 1º, I, da Lei n. 8.072/90. Impetrado writ perante a Corte de origem, a ordem foi denegada (fls. 57-73).
+No presente recurso, a defesa alega, em síntese, constrangimento ilegal em razão do suposto excesso de prazo para a formação da culpa, uma vez que o recorrente encontra-se preso desde 22/4/2020.
+Reitera que "Trata-se de processo com um réu, uma imputações, necessidade de expedição de precatórias, inexistindo, também, qualquer incidente provocado pela defesa, ou seja, o processo é desprovido de alta complexidade" (fl. 82).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Quanto ao alegado excesso de prazo para a formação da culpa, cumpre consignar, na linha dos precedentes desta Corte, que o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+Para ser considerado injustificado o excesso na custódia cautelar, a demora deve ser de responsabilidade da acusação ou do Poder Judiciário, situação em que o constrangimento ilegal pode ensejar o relaxamento da segregação antecipada.
+Não se verifica, no caso, mora ilegal atribuível ao Poder Judiciário ou aos órgãos encarregados da persecução penal, uma vez que o feito tramita de maneira regular e denota elevada complexidade, porquanto a instrução tem se desenvolvido por meio da expedição de cartas precatórias, tanto em relação ao recorrente, que se encontra em processo de recambiamento, quanto em relação à oitiva de diversas testemunhas residentes em outros Estados.
+Outrossim, de acordo com as informações prestadas pela instância de origem, o recorrente permaneceu em local incerto e não sabido por pouco mais de 9 anos, sendo encontrado quando do cumprimento do mandado de prisão preventiva no Estado do Espírito Santo, sendo a referida prisão reavaliada nas seguintes datas: 24/3/2021, 7/7/2021, 14/2/2022, 7/7/2022, 19/5/2023, 25/8/2023 e 4/12/2023.
+Por fim, em consulta ao site do Tribunal de Justiça do Estado de Sergipe, verifica-se que o feito tem tramitação regular e foi designada audiência de instrução e julgamento para o dia 2/7/2024.
+Ante o exposto, nego provimento ao recurso em habeas corpus, com recomendação ao juízo de origem para que imprima celeridade no julgamento do feito.
+Publique-se.
+Intimem-se.
+EMENTA
