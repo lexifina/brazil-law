@@ -1,0 +1,85 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela SLC MÁQUINAS LTDA., contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 608e):
+APELAÇÃO E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. ICMS. APROVEITAMENTO DE CRÉDITOS DE ICMS EM RAZÃO DE OPERAÇÕES DE COMERCIALIZAÇÃO DE MERCADORIAS NO MERCADO INTERNO CUJA SAÍDA É ISENTA. RESTRIÇÃO À ACUMULAÇÃO DE CRÉDITO NAS VENDAS AO MERCADO INTERNO. ART. 37, § 8º, DO REGULAMENTO DO ICMS/RS. PRINCÍPIO DA NÃO CUMULATIVIDADE. ISENÇÃO E NÃO ESTORNO. PRODUTOS AGROPECUÁRIOS.
+A questão diz respeito às operações do mercado interno. A restrição prevista no art. 37, § 8º, do Livro I, do RICMS/RS (Decreto Estadual nº 37.699/97) no sentido de que "os créditos fiscais relativos ao benefício do não-estorno somente poderão ser utilizados para a compensação com débitos fiscais decorrentes de operação de saída ou de importação de mercadoria da mesma espécie da que originou o respectivo não-estorno", não fere o princípio da não cumulatividade do ICMS. Ademais, a regra geral estabelece que a isenção na saída enseja a anulação do crédito da etapa anterior, salvo previsão legal em sentido contrário, como ocorre com o art. 20, § 6º, inc. I, da Lei Complementar nº. 87/96, nas hipóteses em que, em transação posterior, houver a tributação. Pretensão que, por envolver mercadorias de espécie diversa e por, nas transações no mercado interno questionadas incidir a isenção, submete-se, igualmente, à vedação do art. 20, § 3º, da LC nº 87/96.
+APELAÇÃO DESPROVIDA.
+Opostos embargos de declaração, foram rejeitados (fl. 644e).
+Com amparo no art. 105, III, a, da Constituição da República aponta-se ofensa a dispositivos legais, alegando, em síntese, que:
+- Arts. 489, § 1º, IV e VI, 1022, II, parágrafo único, II, do CPC - "o Tribunal a quo não desincumbiu do seu ônus de sanar as omissões apontadas e promover o prequestionamento expresso da matéria e dispositivos invocados pela Recorrente e, nessa senda, em especial, dos artigos 19, 20, 24, 25, § 2º, II, da Lei Complementar n. 87/96 (Lei Kandir), 97, 99, 156, II, 165 e 170 do CTN, impõe-se a cassação do v. acórdão recorrido por vício de motivação e violação aos dispositivos retro colacionados, com o decorrente retorno dos autos para que novo acórdão seja proferido" (fl. 668e);
+- Arts. 97, 99, 156, II, 170 do CTN; 19, 20, 24 da Lei Complementar n. 87/96 - "ao exercer o seu poder regulamentar, o nobre executivo estadual extrapolou a sua competência funcional e tornou praticamente inócuo o princípio da não cumulatividade, pois vedou a utilização dos créditos fiscais relativos ao benefício do não-estorno para a compensação com débitos fiscais decorrentes de operação de saída ou de importação de mercadoria de espécie diferentes (art. 37, § 8º, do RICMS)" (fl. 672e);
+- Art. 25, §2º, II, da LC n. 87/96 - "é defeso ao legislador infraconstitucional estabelecer qualquer outra limitação ao direito de crédito do referido imposto, tal como a vedação à transferência destes créditos, sendo prerrogativa do contribuinte apropriá-los e livremente utilizá-los" (fl. 675e).
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 839e).
+O Ministério Público manifestou-se às fls. 841/845e;
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Da omissão
+Verifico a ausência de demonstração precisa de como a alegada violação ao art. 1.022 do CPC/2015 teria ocorrido, o que impede o conhecimento do recurso especial, nesse ponto.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+- Do direito local
+A recorrente defenda a possibilidade de compensação do saldo credor gerado nas suas operações, sem limitações destituídas de previsão legal, bem como a possibilidade de transferência do saldo credor de ICMS para terceiros.
+O tribunal de origem, ao manifestar-se acerca da matéria ora impugnada, assim consignou (fl. 640e):
+"Especificamente quanto à transferência de saldo credor acumulado a terceiros, destaco que também se configura como benefício fiscal, lembrando que o art. 25, §2º, da Lei Complementar nº. 87/96 assegura esse benefício às empresas que realizem operações ou prestações destinadas ao exterior ou a ela equiparadas.
+Como o saldo credor acumulado pela demandante diz respeito a operações realizadas ao abrigo do diferimento e ela não é empresa exportadora, para a transferência de saldo credor a terceiro, tem que se submeter às limitações legais.
+Quanto à alegada violação aos RICMS/RS (Decreto Estadual n. 37.699/97) e da Lei Estadual n. 8.820/89, o recurso não merece ser conhecido, porquanto inviável a análise de lei local por esta Corte, incidindo à espécie, por analogia, o enunciado da Súmula 280, do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário".
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. INOVAÇÃO DE TESE RECURSAL.
+IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+(..)
+3. Inviável analisar suposto direito amparado em legislação estadual, porquanto é "defeso ao STJ reexaminar Direito local.
+Aplica-se, por analogia, a Súmula 280 do Supremo Tribunal Federal: "Por ofensa a direito local não cabe recurso extraordinário".
+Agravo Regimental não provido." (AgRg no Ag 1.351.940/MG, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 2/3/11).
+4. Agravo regimental não provido.
+(AgRg no AREsp 259.535/BA, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS, AJUIZADA CONTRA O MUNICÍPIO DE CONTENDA. PRESCRIÇÃO. RECONHECIMENTO, DE OFÍCIO. ALEGAÇÃO DE IMPOSSIBILIDADE DE DECRETAÇÃO DA PRESCRIÇÃO, ANTE A VIOLAÇÃO AO PRINCÍPIO TEMPUS REGIT ACTUM. ALEGAÇÃO DE INTERRUPÇÃO DA PRESCRIÇÃO. INEXISTÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. ALEGAÇÃO DE VIOLAÇÃO À LEI MUNICIPAL 588/92. INCIDÊNCIA DO ÓBICE ENUNCIADO NA SÚMULA 280/STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. No caso, o Recurso Especial pretende a análise da interrupção do prazo prescricional, invocando os arts. 152, 153 e 154 da Lei Municipal 588/92. Entretanto, a análise de normas de cunho local refoge à competência do Superior Tribunal de Justiça, em sede de Recurso Especial, nos termos da Súmula 280 do STF.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 122.823/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/05/2014, DJe 03/06/2014).
+- Da incidência do art. 20, §3º, da n. LC 87/96
+O tribunal de origem concluiu que há a incidência do art. 20, §3º, da LC 87/96, haja vista que as operações são praticadas sem a incidência de ICMS, e não Do art. 20, §6º, da LC 87/96, nos seguintes termos (fls. 596/599e):
+Como se vê, a regra geral define que a isenção na saída enseja a anulação do crédito da etapa anterior, salvo previsão legal em sentido contrário, como ocorre com o art. 20, § 6º, inc. I, da Lei Complementar nº 87/96 que, expressamente, prevê a manutenção dos créditos pela entrada, ainda que as saídas ocorram ao abrigo da isenção, ou seja, sempre que alcançarem produtos agropecuários.
+Ocorre que tal norma não se destina à demandante e sim ao adquirente de suas mercadorias, consoante já decidiu o Superior Tribunal de Justiça, no REsp nº. 1292228/RS, Relatora a Ministra Eliana Calmon, cujos fundamentos transcrevo:
+ ..
+É dizer, como a impetrante se dedica à "comercialização, importação, exportação e revenda de máquinas e equipamentos para uso agropecuário; partes e peças" (EVENTO 3 - PROCJUDIC1, fl. 28 da numeração original), o que incide é o art. 20, §3º, da LC 87/96, haja vista que as operações são praticadas sem a incidência de ICMS, e não o art. 20, §6º, da LC 87/96.
+Ademais, operações efetivadas ao abrigo diferimento do ICMS postergam a incidência de tal imposto para a etapa posterior, que é realizada pelo destinatário da mercadoria (produtor rural), o que equivale e dizer que a operação não é tributada.
+Entretanto, a parte recorrente deixou de impugnar fundamento suficiente do acórdão recorrido, alegando, tão somente, que "a ilegal restrição acaba por violar diametralmente o disposto no artigo 20, parágrafo 6º, da Lei Complementar nº 87/96, que garantem a manutenção integral dos créditos de ICMS, mesmo em casos de saída isenta ou não tributada, para produtos agropecuários" (fl. 673e).
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO MOVIDA CONTRA ESTADO. CHAMAMENTO DA UNIÃO AO PROCESSO. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RAZÕES DOS EMBARGOS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO EMBARGADO. SÚMULAS 283 E 284 DO STF. SUSPENSÃO EM RAZÃO DE RESP ADMITIDO COMO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. TEMA ESPECÍFICO.
+(..)
+3. A alegação de omissão do acórdão embargado por ter a ora embargante impugnando os fundamentos da decisão do Tribunal a quo atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, uma vez que não houve menção na decisão monocrática nem no acórdão em agravo regimental sobre tal ponto, de modo que restam dissociadas as razões dos embargos de declaração com relação ao constante nos autos.
+4. Quanto à suspensão do recurso especial, tendo em vista a admissão do REsp n. 1.144.382/AL como representativo de controvérsia, tem-se que este recurso trata da solidariedade passiva da União, dos Estados e dos Municípios tão somente, e não, como no caso em exame, sobre eventual chamamento ao processo de um dos entes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1.309.607/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2012, DJe 22/08/2012).
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Na leitura do acórdão recorrido, verifica-se que o Tribunal local não olvidou o fato de possivelmente existir concurso de preferência. Apenas foi consignado que a competência para análise de tal instituto seria do Juízo da Execução. Logo, não merece respaldo a tese da agravante de que foi "inobservada a existência de concursus fiscalis entre a Fazenda Nacional e Fazenda Estadual" (fl. 861, e-STJ). Nesse sentido, verifica-se que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão recorrido e que não houve impugnação de fundamento autônomo do aresto impugnado. Incidem, portanto, os óbices das súmulas 283 e 284/STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 254.814/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013, destaque meu).
+- Dos honorários recursais
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+- Do dispositivo
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
