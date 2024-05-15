@@ -1,0 +1,16 @@
+DECISÃO
+EDERSON FERNANDO VALENTE, FABIO JUNIUOR DA SILVA e CLOVIS JOSE CZERNIASKI interpõem agravo em recurso especial contra decisão proferida pela Vice-Presidência do Tribunal Regional Federal da 4ª Região, que não admitiu o recurso especial interposto com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal.
+Impugnados o s motivos da decisão da Vice-Presidência da Corte de origem, passo à análise do recurso especial.
+Informam os autos que, após o julgamento de segunda instância, os agravantes foram condenado nos seguintes termos:
+a) Ederson Fernando Valente pela prática do crime previsto no art. 334-A, I, e/e art. 29 do Código Penal, à pena privativa de liberdade de 2 anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária fixada no valor de R$ 5.000,00;
+b) Fábio Júnior da Silva como incurso no art. 334-A, I, c/c art. 29 do Código Penal, à pena privativa de liberdade de 2 anos e 4 meses de reclusão, a ser cumprida no regime inicial semiaberto, sem direito à substituição por restritivas de direitos, aplicada a pena de inabilitação para dirigir veículo automotor;
+c) Clóvis Jose Czerniaski pela prática do crime previsto no art. 334-A, I, c/c art. 29 do Código Penal, à pena privativa de liberdade de 3 anos de reclusão, em regime inicial semiaberto, sem direito à substituição por restritivas de direitos.
+A defesa interpôs recurso especial com fulcro na alínea "a" do permissivo constitucional, sob o argumento de violação do art. 155 do CPP; do art. 386, VII, do CPP e do art. 92, III, do CP.
+O Parquet Federal oficiou pelo não conhecimento do agravo ante a incidência da Súmula n. 182 do STJ.
+Decido.
+No que tange às teses de violação dos arts. 155 e 386, VII, do CPP, observo que a condenação está lastreada em imagens das câmeras de segurança do posto de gasolina em que foi feita a apreensão, visto que a sentença consignou que "consta do Boletim de Ocorrência nº 2020/1222034 da Polícia Militar do Estado do Paraná, no qual FÁBIO JÚNIOR DA SILVA apôs sua assinatura, que, "Em contato com o gerente do posto de combustível e solicitado acesso às câmeras de vídeo monitoramento, foi verificado nas filmagens que FABIO JUNIOR DA SILVA chega ao local conduzindo o veículo VW/GOL e então se junta com os demais abordados" (fl. 387).
+Tal elemento revela a adequação do acórdão de origem com o art. 155 do CPP - ante a irrepetibilidade da prova - a atrair a Súmula n. 83 do STJ, bem como como evidencia a necessidade de reexame de provas para infirmar as conclusões da Corte Federal, de modo a incidir a Súmula n. 7 do STJ.
+Quanto à tese de violação do art. 92, III, do CP, observo que as instâncias ordinárias "justifica ram  a necessidade de aplicação, pelo fato de os acusados fazerem uso de veículo para o transporte de mercadorias descaminhadas,  bem como  não ha ver  prova nos autos de que eles exerçam atividade laboral de motorista ou que a imposição desse efeito da condenação possa inviabilizar o exercício de suas atividades profissionais, prejudicando seus sustentos próprios ou de seus familiares" (fl. 391), evidenciando, assim, a incidência da Súmula n. 83 do STJ.
+À vista do exposto, conheço do agravo em recurso especial para negar provimento ao recurso especial.
+Publique-se. intimem-se.
+EMENTA
