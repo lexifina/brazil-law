@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto pela ASSOCIAÇÃO DOS ECONOMIÁRIOS APOSENTADOS DO PARANÁ contra a decisão de fls. 1043-1049 da lavra da Ministra Assusete Magalhães, em que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Sustenta a parte agravante que o decisum merece reforma, pois "os valores retidos a título de contribuições extraordinárias se trata de verdadeira redução de rendimentos, eis que os associados/substituídos não possuem disponibilidade jurídica nem financeira dos valores, o que denota a inexistência do signo presuntivo de riqueza capaz de ensejar a relação jurídica tributária do Imposto de Renda Pessoa Física" (fl. 1081).
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação (fl. 1123).
+É o relatório.
+Decido.
+Nos termos dos arts. 1.021, § 2.º, 2.ª parte, do CPC e 259 do RISTJ, RECONSIDERO a decisão agravada (fls. 1043-1049), tornando-a sem efeito.
+Na origem, o recurso especial foi manejado contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 696):
+TRIBUTÁRIO. IMPOSTO DE RENDA DA PESSOA FÍSICA. ENTIDADES DE PREVIDÊNCIA PRIVADA. CONTRIBUIÇÃO EXTRAORDINÁRIA. DEDUÇÕES. POSSIBILIDADE. LIMITAÇÃO DO ART. 11 DA LEI 9532/97. OBSERVÂNCIA.
+1. A contribuição extraordinária/adicional descontada dos assistidos para suportar/sanar déficit atuarial no plano de benefícios administrado por entidade de previdência complementar destina-se à manutenção do próprio benefício do assistido, bem como do plano no qual ele está previsto, o que será possível com o saneamento do déficit.
+2. O valor pago a título de contribuição para entidades de previdência privada, aí incluídas as normais e as extraordinárias destinadas a cobrir défice atuarial, pode ser deduzido da base de cálculo do imposto sobre a renda da pessoa física, observando-se a limitação de 12% do total dos rendimentos tributáveis, consoante determina a Lei n. 9.532/97, art. 11.
+3. Não há como ampliar a hipótese legal de dedução sem previsão em lei específica por expressa vedação do art. 150, § 6º, da CF/88.
+Do exame dos autos, verifico que a matéria aqui tratada - "dedutibilidade, da base de cálculo do Imposto de Renda da Pessoa Física - IRPF, dos valores correspondentes às contribuições extraordinárias pagas a entidade fechada de previdência complementar, nos termos da Lei Complementar 109/2001 e das Leis 9.250/1995 e 9.532/1997" - foi afetada neste Tribunal para julgamento segundo o rito dos recursos repetitivos nos REsp 2.043.775/RS, REsp 2.050.635/CE e REsp 2.051.367/PR, relator Ministro Benedito Gonçalves (Tema n. 1224/STJ).
+Na oportunidade, foi "determinada a suspensão da tramitação de todos os processos que versem sobre a mesma matéria e tramitem no território nacional, nos termos do art. 1.037, II, do CPC/2015".
+Dessa forma, afetada a questão à sistemática dos recursos repetitivos, o presente feito deve aguardar na origem o julgamento dos representativos da controvérsia, para que, no Tribunal de origem, seja realizado o juízo de conformação (art. 1040 do CPC/2015).
+Ante o exposto, reconsiderada a decisão de fls. 1043-1049, DETERMINO a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, em observância aos arts. 1.040 e 1.041 do CPC: a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) seja realizado o juízo de retratação, caso o acórdão impugnado divirja da decisão sobre o tema objeto da afetação (Tema n. 1224/STJ - REsp 2.043.775/RS, REsp 2.050.635/CE e REsp 2.051.367/PR).
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. IMPOSTO DE RENDA DA PESSOA FÍSICA. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÃO EXTRAORDINÁRIA. DEDUÇÃO. TEMA N. 1224/STJ DO REGIME DOS RECURSOS REPETITIVOS. RECONSIDERAÇÃO DA DECISÃO. DETERMINADA A DEVOLUÇÃO DOS AUTOS, COM A RESPECTIVA BAIXA, AO TRIBUNAL DE ORIGEM.
