@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  de  liminar,  impetrado  em  favor  de  MARCIO FERNANDES SILVA,  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Goiás.
+Consta  dos  autos  que  o  paciente foi  condenado  como  incurso  no  art.  33,  caput,  da  Lei  n.  11.343/2006,  à  pena  de  5  anos e 6 meses  de  reclusão  e  100  dias-multa,  no  regime  inicial  semiaberto.
+Em  sede  recursal,  o  Tribunal  de  origem  negou  provimento  ao  apelo  defensivo (e-STJ, fls. 58-62).
+Impetrado habeas corpus, a ordem foi denegada (e-STJ, fls. 63-68).
+Neste  writ,  alega  a  defesa,  em  suma,  que  "os policiais militares não possuíam qualquer fundamentação idônea e concreta para realizarem a abordagem policial e busca pessoal, tratando-se de um ato arbitrário e discricionário."(e-STJ,  fl.  7)
+Requer  "o reconhecimento da nulidade das provas obtidas a partir da abordagem pessoal e, consequentemente, de todas as provas subsequentes, impondo-se a absolvição por falta de justa causa, nos termos do art. 386, inciso II, do Código de Processo Penal." (e-STJ, fl. 12)
+Liminar  indeferida  (e-STJ,  fl.  71).
+O  Ministério  Público  Federal  opinou  pela denegação da ordem  (e-STJ,  fls.  78-84).
+É  o  relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+O Tribunal de origem refutou a nulidade das provas nos seguintes termos:
+"Sustenta o impetrante a ilegalidade das provas que fundamentaram a condenação do paciente, em razão de suposta ausência de justa causa para a busca pessoal.
+Consoante o disposto no Código de Processo Penal em seus artigos 240 e 244, independe de prévia autorização judicial a realização de busca pessoal, quando houver fundadas suspeitas da prática de algum delito.
+No caso em comento, os policiais civis inquiridos, após receberem denúncias anônimas acerca da prática de tráfico de drogas em região nobre de Goiânia, iniciaram operação policial, cujas investigações culminaram na pessoa de Márcio Fernandes Silva, dentre outros indivíduos.
+Comprovou-se o seu envolvimento com o referido negócio ilícito a partir dos resultados das interceptações telefônicas autorizadas judicialmente (processo 0218473-28.2016.8.09.0175, arq. 01, fls. 262/280, PDF), segundo as quais o paciente vendia e entregava droga conhecida como cocaína aos usuários que o procuravam.
+Identificou-se, inclusive, o veículo utilizado por Márcio para realizar as entregas Extrai-se dos depoimentos judicias dos policiais militares que, ante a comprovação da existência de comércio de entorpecentes, Urbano Raimundo de Paiva ficou encarregado de acompanhar o paciente de moto, sem que este o notasse, a fim de flagrá-lo na prática do ilícito.
+No que concerne à abordagem e à busca pessoal propriamente, o policial militar Urbano Raimundo de Paiva, em sede judicial, sustentou o seguinte:
+"( ) que, por três ou quatro vezes, o seguiu de moto; que, nesse dia mesmo da prisão, começou a segui-lo da casa dele, que ele entregou algumas duas ou três para usuário, mas, no momento não deu para pegar os usuários, por causa da dinâmica; que a moto apresentou defeito ( ) mas correram atrás, seguiram-no até a praça da Bíblia, onde ele fez outra entrega, e, quando chegaram na T-4, acharam por bem solicitar que ele fosse abordado; que o acusado passou por ele no telefone e eles o abordaram; que, a priori, ele tentou esconder um papelote de cocaína ( ) que tinha um menor com ele, que disse que era dele ( ); que o próprio menor assumiu depois que a droga era do tio dele ( )." (processo 0218473-28.2016.8.09.0175 - mídia, mov. 5)
+Nota-se, pois, que restou justificada a busca pessoal e a busca veicular, porquanto materializada a fundada suspeita nas diligências investigativas preliminares, na visualização de característico cenário de comercialização de drogas e, posteriormente, na identificação do objeto dispensado como sendo uma porção de cocaína.
+Realizada a busca veicular, foram encontradas mais 16 porções de cocaína no forro do banco do passageiro, somando aproximadamente 86 g (oitenta e seis gramas), bem como diversos sacos "zip 4x4" para acondicionamento da droga e o valor de R$ 487,00 (quatrocentos e oitenta e sete reais) em espécie (processo 0218473-28, arq.1, fls. 282/289, PDF).
+Não se visualiza, nesse sentido, ilegalidade na busca pessoal/veicular, de modo que as provas decorrentes dela devem ser tidas como lícitas.
+A propósito:
+ ..
+Ao teor do exposto, acolho o parecer ministerial de cúpula, voto pelo conhecimento parcial e, nessa extensão, denegação da ordem." (e-STJ, fls. 67-68; sem grifos no original)
+
+Sobre a controvérsia, vale ressaltar que,  n os termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar." (AgRg no AREsp 1403409/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/03/2019, DJe 04/04/2019, grifou-se).
+No caso, verifique-se que a atuação policial se originou de investigações prévias, tendo sido destacado que o envolvimento do paciente restou comprovado a partir de interceptações telefônicas autorizadas judicialmente, bem como, no dia do flagrante, o réu foi visto, por um policial que o acompanhava de longe, fazendo entrega de drogas, em veículo previamente identificado, no qual "foram encontradas mais 16 porções de cocaína no forro do banco do passageiro, somando aproximadamente 86 g (oitenta e seis gramas), bem como diversos sacos "zip 4x4" para acondicionamento da droga e o valor de R$ 487,00 (quatrocentos e oitenta e sete reais)."
+No ponto, o Tribunal de origem ressaltou que a busca pessoal e veicular restaram justificadas, "porquanto materializada a fundada suspeita nas diligências investigativas preliminares, na visualização de característico cenário de comercialização de drogas e, posteriormente, na identificação do objeto dispensa do como sendo uma porção de cocaína." Sob tal contexto, é justa a busca pessoal diante do caso concreto em exame.
+Nesse mesmo sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. REINCIDÊNCIA ESPECÍFICA. BUSCA PESSOAL. FUNDADAS RAZÕES. INTELIGÊNCIA POLICIAL. ATITUDE SUSPEITA DO AGENTE. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+3. A reincidência específica evidencia maior envolvimento do paciente com a prática delituosa, podendo ser utilizada para justificar a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+4. Nos termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, de objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar.
+5. A busca pessoal é legítima se amparada em fundadas razões, se devidamente justificada pelas circunstâncias do caso concreto.
+6. Agravo regimental desprovido."
+(AgRg no HC n. 723.793/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 18/3/2022, grifou-se)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
