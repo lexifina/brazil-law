@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, com fundamento nos óbices das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Consta dos autos que o recorrente foi condenado à pena de 3 anos, 7 meses e 6 dias de reclusão, no regime inicial aberto, além do pagamento de 72 dias-multa, como incurso no art. 1º, I e II, da Lei n. 8.137/90, c/c art. 71, caput, do Código Penal.
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso a fim de reduzir a pena para 3 anos, 3 meses e 6 dias de reclusão, em regime inicial aberto, mais o pagamento de 16 dias-multa, substituída a pena corporal por duas restritivas de direitos.
+Inconformado, foi interposto recurso especial, com fulcro no artigo 105, III, "a", da Constituição Federal, o qual não foi admitido na origem.
+Sustenta o agravante que não é o caso de ausência de prequestionamento, pois o ato jurisdicional que motivou o recurso defensivo enfrentou a questão acerca da violação ao artigo 6º da LC n. 105/01 e do artigo 4º do Decreto n. 3.724/01.
+No mais, reitera as razões do apelo nobre no sentido de que "o crédito tributário constituído que fundamenta a ação criminal é contrário ao quanto decidido pela Corte Suprema nos autos do Recurso Extraordinário 601.314/SP (Tema 225), no sentido de que a transferência de dados sigilosos dos contribuintes ao Fisco somente pode se dar quanto houver prévio procedimento administrativo instaurado e fiscalização já em curso, além da necessária observância do quanto regulamentado pelo Dec. nº 3.724/01 - que regulamentou o artigo 6º da LC nº 105/01, que exige prévia elaboração de Relatório Circunstanciado" (fls. 757/758).
+Requer o provimento do agravo para que seja admitido o recurso especial para, ao final, ser anulada a condenação.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do recurso de agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo à análise do recurso especial.
+O acórdão recorrido foi assim fundamentado (fls. 653/654):
+Analisando o caso concreto, de partida, verifico que a materialidade delitiva está plenamente demonstrada pelo procedimento fiscal nº 16004.720489/2012-811, do qual destacam-se: o Termo de Constatação Fiscal (ID 142037110 p. 98/111), o Termo de Encerramento (ID 142037110 p. 112) e a Representação Fiscal Para Fins Penais (ID 142037110 p. 131/136).
+Nem se cogite falar em nulidade das provas por quebra de sigilo bancário sem prévia autorização judicial, tratando-se de fato ocorrido anteriormente à vigência do Tema 990/STF, julgado em 04.09.2019, que trata da possibilidade de compartilhamento com o Ministério Público, para fins penais, dos dados bancários e fiscais do contribuinte, obtidos pela Receita Federal, sem autorização judicial prévia.
+Eventual oscilação jurisprudencial a respeito do tema não pode ser erigida à condição de irretroatividade do entendimento vigente. O que se proíbe é a da irretroatividade prejudicial. Mudança de julgados pode retroagir para lei penal alcançar fatos passados.
+Incide à fatispécie o entendimento firmado pelo E. STF no Tema 990, relativo ao RE 1.055.941/SP, que assim dispôs:
+"1. É constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil, que define o lançamento do tributo, com os órgãos de persecução penal para fins criminais, sem a obrigatoriedade de prévia autorização judicial, devendo ser resguardado o sigilo das informações em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional. 2. O compartilhamento pela UIF e pela RFB, referente ao item anterior, deve ser feito unicamente por meio de comunicações formais, com garantia de sigilo, certificação do destinatário e estabelecimento de instrumentos efetivos de apuração e correção de eventuais desvios. "
+Assim, não se está diante de prova ilícita, podendo a Receita Federal realizar a quebra de sigilo motu proprio bancário e compartilhar os dados, subsequentemente, com o Ministério Público - da ação penal.
+A combativa defesa alega que Sonia Maria Dezordi Prado não concorreu para a infração penal, pois a administração da empresa cabia exclusivamente a seu esposo, Valter Prado Lopes.
+Assiste-lhe razão nesse ponto.
+ ..
+Como se vê, a violação da maneira como posta no recurso especial - exigência de prévia investigação pela Receita Federal e de prévia elaboração de Relatório Circunstanciado para que possa haver o compartilhamento de dados para fins penais - não foi analisada sob este específico viés pelo Tribunal de origem, uma vez que não foi suscitada na apelação, de modo que não cabe a esta Corte Superior a análise inaugural da controvérsia, sob pena de mácula ao necessário requisito do prequestionamento.
+Consoante a jurisprudência desta Corte Superior, até mesmo as matérias de ordem pública devem ser prequestionadas nas instâncias de origem, sob pena de indevida supressão de instância . A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO MAJORADO. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. PENA-BASE. CULPABILIDADE E CONDUTA SOCIAL. FUNDAMENTAÇÃO IDÔNEA. REDUÇÃO DA PENA DE MULTA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prescrição relativa dos fatos praticados em março e abril de 2009 não foi prequestionada nas instâncias de origem. O STJ admite que mesmo as matérias ditas de ordem pública estão sujeitas, no âmbito do recurso especial, ao requisito do prequestionamento.
+2. A prescrição, na modalidade pleiteada pela defesa, qual seja, retroativa entre a data do fato e o recebimento da denúncia, poderia haver sido suscitada oportunamente nas instâncias antecedentes, o que não ocorreu e, por essa razão, fica inviabiliza sua análise diretamente nesta Corte Superior.
+3. Ademais, eventual declaração da prescrição invocada pela defesa não implicaria nenhuma redução na pena do acusado, porquanto permaneceriam íntegros ilícitos em quantidade suficiente para justificar a fração de 2/3 pela continuidade delitiva.
+4. O pleito de redução do valor estabelecido para a pena de multa ensejaria o revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.269.012/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023.)
+Nesse contexto, incide, à espécie, a Súmula 282/STF, aplicável, por analogia, que assim preleciona: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
