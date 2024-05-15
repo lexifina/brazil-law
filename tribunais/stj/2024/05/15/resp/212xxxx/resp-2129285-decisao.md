@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por TEXTIL TRES ELLOS LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO no julgamento da Apelação/Remessa Necessária n. 5001734-81.2020.4.03.6109.
+Nas razões do apelo nobre, a recorrente busca:
+a) "seja decretada a nulidade da decisão proferida em sede de embargos de declaração, com a devolução dos autos à origem para que se proceda a novo julgamento do recurso, com apreciação das omissões apontadas" (fl. 508); e
+b) " c aso superadas as alegações de negativa de prestação de tutela jurisdicional,  seja  verificada a ofensa ao artigo 28, § 9º, alínea d), da Lei nº 8.212/1991 e a divergência de jurisprudência em relação aos mesmos,  ..  para reformar o acórdão recorrido a fim de julgar procedente o pedido e conceder a segurança, a fim de afastar a incidência da contribuição previdenciária e das contribuições destinadas a terceiras entidades sobre as férias indenizadas, respectivo terço constitucional e abono de férias" (fl. 509; grifei).
+O Ministério Público Federal manifestou-se pela devolução dos autos à origem (fl. 559).
+É o relatório. Decido.
+O Supremo Tribunal Federal, ao apreciar o Tema de Repercussão Geral n. 985 (RE n. 1.072.485/PR), fixou tese no sentido de que " é  legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias". Em razão da oposição de embargos de declaração para modular os efeitos da decisão, o Exmo. Ministro Relator determinou a "suspensão, em todo o território nacional, dos feitos judiciais e administrativos pendentes, individuais ou coletivos, que versem sobre a questão presente no Tema nº 985 do ementário da Repercussão Geral, nos termos do art. 1.035, § 5º, do CPC".
+Nessa conjuntura, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, a Corte de origem proceda nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem -se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. TEMA COM REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS. DEVOLUÇÃO À ORIGEM. RECURSO PREJUDICADO.
