@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se d e Agravo em Recurso Especial interposto por PARANAVAI CONSTRUÇÕES ELETRICAS LTDA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no Agravo de Instrumento n. 5025153-29.2022.4.04.0000/PR.
+A parte recorrente, interpôs agravo de instrumento contra decisão proferida nos autos dos Embargos à Execução que indeferiu pedido de urgência. O Tribunal de origem negou provimento ao recurso em acórdão assim ementado (fl. 51):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL.
+TUTELA DE URGÊNCIA. REDIRECIONAMENTO. DISSOLUÇÃOIRREGULAR. VIOLAÇÃO À VEDAÇÃO À UNIPESSOALIDADE.
+1. Evidenciada na execução fiscal correlata, por amplo conjunto probatório, a existência de confusão patrimonial de forma a autorizar o redirecionamento da demanda executiva em face da parte embargante, não há base para o pedido de tutela de urgência antes da produção probatória e o devido contraditório.
+2. A jurisprudência desta Corte autoriza o redirecionamento no caso de dissolução irregular de sociedade empresária por violação à vedação à unipessoalidade de forma permanente (art. 1.033, IV, do CC).
+Os embargos de declaração opostos foram rejeitados (fls. 167-169).
+No Recurso Especial (fls. 178-194, e-STJ), a parte recorrente alega ofensa aos arts. 330, II e 485, IV, ambos do CPC/2015, sustentando que, ante a ausência de legitimidade de uma das partes, deveria ter ocorrido a sua exclusão do polo passivo, em virtude da dissolução da sociedade pela ausência de reconstituição da pluralidade societária no prazo de 180 dias, ensejando necessariamente o redirecionamento da execução fiscal aos sócios.
+Contrarrazões às fls. 201-202.
+Na origem, foi inadmitido o recurso especial (fls. 205-207).
+Interposto o presente Agravo (fls. 215-221, e-STJ) rebatendo o argumento de que incidiria o óbice de admissibilidade do enunciado n. 7 da Súmula do STJ.
+É o relatório.
+Decido.
+O recurso não merece provimento.
+A controvérsia restou assim decidida no Tribunal de origem (fls. 120-135, e-STJ):
+A decisão que indeferiu o pedido liminar foi assim fundamentada:
+"A decisão que reconheceu a sucessão empresarial da empresa W. F. dos Santos Construções Eletricas Eireli nos autos da Execução Fiscal nº 5006900-43.2016.4.04.7003 restou assim fundamentada (processo 5006900-43.2016.4.04.7003/PR, evento 43, DESPADEC1):
+ ..
+Observa-se que a r. decisão transcrita baseou-se em farta documentação comprobatória de que as pessoas jurídicas Paranavaí Construções Elétricas Ltda. e Fardin Eletrificações Ltda, mantiveram, sem solução de continuidade, a exploração da atividade da empresa W.F. dos Santos Construções Elétricas Eireli-EPP. Restou, de fato, evidenciada a confusão patrimonial entre as três empresas e seus sócios.
+No que diz respeito à alegada extinção da empresa executada em 2014, conforme se verifica de extrato juntado pela exequente nos autos da referida execução fiscal (nº 5006900-43.2016.4.04.7003), há informação que desde 2012 a mesma já estava com suas atividades paralisadas (evento 39, EXTR17), o que indica que antes mesmo da ausência de pluralidade de sócios já havia indícios da sua dissolução irregular.
+Acrescente-se que, nos autos da execução fiscal nº 5009607- 18.2015.4.04.7003, há certidão de diligência realizada no ano de 2016 na qual o Oficial de Justiça afirma que o representante legal da empresa informou que a mesma havia encerrado suas atividades no ano de 2014 (evento 21, OUT2).
+Neste contexto, o não cumprimento da regularização da pluralidade dos sócios no prazo de 180 dias previsto no artigo 1.033, IV, do CC (vigente à época dos fatos) não importa automaticamente na dissolução regular da empresa e na sua consequente extinção de pleno direito. Ao contrário, corrobora o fato de que a empresa executada dissolveu- se irregularmente, mormente considerando os fortes indícios já constatados anteriormente em outras execuções fiscais. A agravante teria que comprovar a regular liquidação da empresa originariamente executada, ônus do qual não se desincumbiu.
+Os argumentos apresentados neste juízo perfunctório, portanto, não são suficientes para reconhecer a ilegitimidade da empresa originariamente executada, tampouco para afastar o reconhecimento da sucessão empresarial.
+Conforme bem assinalado pelo magistrado singular, "reconhecida, na execução fiscal correlata, a existência de sucessão tributária, de forma a autorizar o redirecionamento da demanda executiva em face da parte embargante, e não atingida a fase probatória nestes autos, na qual se poderá produzir elementos novos capazes de ilidir a conclusão alcançada pelo juízo, é de se rejeitar, nesta oportunidade, a tese por ela defendida, no sentido de que estão ausentes os requisitos para o reconhecimento da sucessão tributária".
+Não há probabilidade do direito.
+Ante o exposto, indefiro o pedido de antecipação da tutela recursal."
+Com efeito, quanto à possibilidade de responsabilização tributária posterior à dissolução de sociedade por força de causa legal, em razão da vedação à unipessoalidade de forma permanente (art. 1.033, IV, do CC), refiro os seguintes precedentes desta Corte:
+ ..
+Assim, não tendo sido noticiados fatos novos, tampouco deduzidos argumentos suficientemente relevantes ao convencimento em sentido contrário, mantenho a decisão liminar, por seus próprios fundamentos.
+No mais, tendo sido negado provimento ao próprio agravo, restam prejudicados os embargos de declaração interpostos (evento 11).
+As razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF. Nesse sentido: AgInt no AREsp n. 2.299.240/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+Outrossim, tendo em vista a fundamentação do acórdão atacado quanto à dissolução regular da sociedade em momento anterior à propositura da execução fiscal, verifica-se que os argumentos expostos no apelo nobre somente poderiam ser acolhidos mediante o necessário reexame de matéria fática, não cabendo a esta Corte Superior, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, nos termos da Súmula n. 7 do STJ.
+Com igual conclusão:
+PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL. INTERPRETAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, no sentido de que "não viola a coisa julgada a interpretação do título judicial conferida pelo magistrado, para definir seu alcance e extensão, observados os limites da lide" (AgInt no AREsp 1696395/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Órgão Julgador T3 - TERCEIRA TURMA, DJe 18/12/2020.
+2. Hipótese em que o acolhimento da pretensão recursal, a fim de reconhecer a eventual ofensa à coisa julgada na interpretação do título judicial pelas instâncias de origem, demandaria a incursão no conjunto fático-probatório, providência que esbarra no óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.640.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/9/2021, DJe de 17/9/2021; sem grifos no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE JULGAMENTO DO RECURSO ESPECIAL DAS PARTES ORA EMBARGANTES. ACOLHIMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, o Tribunal de origem consignou: "Em resumo, tem-se que o acórdão embargado assentou fundamento claro e bastante para explicitar a correta interpretação que deve ser dada ao título executivo judicial considerando a superveniência do resgate antecipado dos créditos de empréstimo compulsório discutidos nos autos. Não houve rejulgamento ou ofensa à coisa julgada, mas sim o escorreito dimensionamento da questão decidida por esta Corte com fundamento nos precedentes do STJ" (fl. 468, e-STJ, grifei).
+2. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal compreensão, cuja análise demanda reexame de provas, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Quanto aos limites subjetivos e objetivos da coisa julgada, também a sua apreciação não é permitida pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ.
+4. Embargos de Declaração acolhidos para não conhecer do Recurso Especial. (EDcl no REsp n. 1.776.656/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 1/6/2020, DJe de 9/6/2020; sem grifos no original.)
+Ante o exposto, CONHEÇO do Agravo para NÃO CONHECER do Recurso Especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. LEGITIMIDADE PASSIVA. SOCIEDADE EMPRESÁRIA. ALEGAÇÃO DE DISSOLUÇÃO SOCIETÁRIA. SUPOSTA OFENSA AOS ARTS. 330, II E 485, IV DO CPC/2015. INCIDÊNCIA D A SÚMULA N. 284 DO STF. ALEGAÇÃO DE DISSOLUÇÃO SOCIETÁRIA. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
