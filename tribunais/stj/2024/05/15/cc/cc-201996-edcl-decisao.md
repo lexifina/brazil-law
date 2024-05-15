@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela ENERGIMP S. A. e OUTRAS à decisão de fls. 301-308, que conheceu do conflito para declarar a competência do Juízo da 1ª Vara Cível de Cabo de Santo Agostinho (PE) e, por consequência, determinar a suspensão dos atos executórios em desfavor da Energimp S.A. (Autos n. 0000202-31.2015.5.06.0172), em trâmite na 2ª Vara do Trabalho da mesma comarca.
+Alega a parte embargante a existência de omissão no julgado, porque o dispositivo da decisão não contém a determinação de que as subsidiárias integrais da Energimp, que compõem seu patrimônio e detêm seus parques eólicos, não podem ser alcançadas por medidas constritivas.
+Sustenta que as empresas CEQ e NEVO, na condição de subsidiárias integrais da Energimp, pertencem indiretamente à própria Wind Power, que é acionista controladora da Energimp e colocou à venda suas ações para pagar os credores concursais em cumprimento à cláusula 6.3.3.1 do plano 8.
+Afirma que, "mesmo após a expedição de ofícios comunicando sobre a competência do juízo da recuperação judicial, o Juízo do Trabalho seguiu determinando a reunião de outros processos trabalhistas sob o processo piloto com a finalidade de promover o bloqueio sobre o patrimônio da Energimp e suas subsidiárias integrais", bem como que eventual "bloqueio contra a CEQ e NEVO em nada difere da penhora realizada sobre o patrimônio da própria Energimp" (fl. 316).
+Ao final, requer "o acolhimento destes embargos de declaração, ordenando-se a expedição de ofício ao Juízo da 2ª Vara do Trabalho de Cabo de Santo Agostinho/PE, com determinação de que se abstenha de praticar atos constritivos também contra o patrimônio de CEQ e NEVO até o julgamento definitivo deste conflito de competência" (fl. 317).
+É o relatório. Decido.
+Razão assiste à parte embargante.
+De fato, as três empresas constam, inclusive, como suscitantes deste conflito (fl. 3), de modo que a mesma decisão relativa à ENERGIMP S.A. deve valer para as demais, sob pena de criar situação contraditória.
+Assim, acolho os embargos de declaração para incluir as suscitantes CEQ e NEVO no dispositivo. Assim, conheço do conflito para declarar a competência do Juízo da 1ª Vara Cível da Comarca do Cabo de Santo Agostinho (PE) e determinar a suspensão dos atos executórios também em desfavor de CEQ e NEVO, nos Autos n. 0000202-31.2015.5.06.0172, em trâmite na 2ª Vara do Trabalho da mesma comarca .
+Publique-se. Intimem-se.
+EMENTA
