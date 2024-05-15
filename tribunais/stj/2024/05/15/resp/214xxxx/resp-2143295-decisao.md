@@ -1,0 +1,51 @@
+DECISÃO
+Examina-se recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 04/03/2024.
+Concluso ao gabinete em: 10/05/2024.
+Ação: revisional de contrato bancário cumulada com repetição de indébito, ajuizada por EDENICE VALMIRA BARBOSA, em face da recorrente, fundada em suposta abusividade de cláusulas contratuais.
+Sentença: julgou procedentes os pedidos para: i) determinar a revisão do contrato, a fim de limitar a taxa de juros remuneratórios às médias mensal e anual divulgadas pelo BACEN para a espécie e período da contratação, observando os seguintes índices: 6,10% a.m. e 103,59% a.a.; e ii) condenar a recorrente a restituir à autora, na forma simples, o valor pago a maior, permitindo a compensação, em havendo saldo devedor.
+Acórdão: negou provimento às apelações interpostas pela recorrente e pela recorrida, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL NÃO CONSIGNADO. PROCEDÊNCIA NA ORIGEM. INSURGÊNCIA DE AMBAS AS PARTES.
+ADMISSIBILIDADE. RECURSO DA PARTE AUTORA. PLEITO DE DESCARACTERIZAÇÃO DA MORA. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO NO PONTO.
+MÉRITO. POSSIBILIDADE DE REVISAR AS CLÁUSULAS CONTRATUAIS. FLEXIBILIZAÇÃO DO PACTA SUNT SERVANDA. SÚMULA 297 DO STJ E LEI CONSUMERISTA. PRECEDENTES. DESPROVIMENTO DO RECURSO NO PONTO.
+JUROS REMUNERATÓRIOS. ORIENTAÇÃO 1 DO RESP. N. 1.061.530/RS, EM SEDE DE RECURSO REPETITIVO (TEMAS 24 A 27). EXCESSO EVIDENCIADO. MANUTENÇÃO DA SENTENÇA QUE LIMITOU A COBRANÇA DOS JUROS À TAXA MÉDIA PRATICADA PELO BANCO CENTRAL DO BRASIL À ÉPOCA DA CONTRATAÇÃO.
+INSURGÊNCIA COMUM ÀS PARTES. REPETIÇÃO DE INDÉBITO. ART. 884, DO CÓDIGO CIVIL. CABIMENTO NA FORMA SIMPLES. SENTENÇA MANTIDA.
+HONORÁRIOS ADVOCATÍCIOS. PLEITO DE MAJORAÇÃO PELA PARTE AUTORA E MINORAÇÃO PELA PARTE RÉ. MANUTENÇÃO INTEGRAL DA SENTENÇA.
+SENTENÇA INALTERADA. HONORÁRIOS RECURSAIS DEVIDOS EM FAVOR DO PATRONO DA AUTORA (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ).
+RECURSO DA PARTE RÉ CONHECIDO E DESPROVIDO E RECURSO DA PARTE AUTORA CONHECIDO EM PARTE E DESPROVIDO (e-STJ fl. 362).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a violação do art. 421 do CC, bem como dissídio jurisprudencial. Insurge-se contra a limitação dos juros remuneratórios, sob o argumento de que o fato de o índice praticado exceder a taxa média de mercado não induz à conclusão de cobrança excessiva.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do dispositivo legal indicado como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+- Dos juros remuneratórios (Súmula 568/STJ)
+A Segunda Seção do STJ, no REsp 1.061.530/RS, DJe de 10/03/2009, julgado sob o rito dos recursos repetitivos, entendeu que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade, capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC), fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil.
+As duas Turmas de Direito Privado desta Corte Superior, nos termos do que restou consolidado no referido precedente, entendem que a fixação de juros remuneratórios superiores a 12% (doze por cento) ao ano não evidencia, por si só, abusividade em face do consumidor, de modo que os juros remuneratórios afiguram-se abusivos e devem ser limitados à média de mercado quando houver, no caso concreto, significativa discrepância entre a taxa pactuada e a taxa média praticada em operações da mesma.
+Nesse sentido: AgInt no REsp n. 2.018.402/RS, 4ª Turma, julgado em 13/2/2023, DJe de 28/2/2023; e AgInt no AREsp n. 2.161.895/RS, 3ª Turma, DJe de 19/10/2022.
+Na hipótese sob julgamento, o Tribunal de origem analisou a questão relativa à abusividade dos juros remuneratórios à luz do mesmo entendimento perfilhado por este STJ, senão veja-se:
+Acerca do assunto, o Superior Tribunal de Justiça, firmou o entendimento que "a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade" (Súmula n. 382) Além disso, a Corte Superior, quanto à possibilidade de revisão da taxa de juros pactuada, no julgamento do REsp n. 1.061.530/RS, submetido rito dos recursos repetitivos, consolidou a orientação jurisprudencial e firmou as seguintes teses:
+Tese 24/STJ: As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF.
+Tese 25/STJ: A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Tese 26/STJ: São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02.
+Tese 27/STJ: É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+A Ministra relatora Nancy Andrighi, no acórdão mencionado, explica que a possibilidade de revisão das taxas de juros remuneratórios contratadas, são em caráter excepcional e, deve existir a comprovação de que a taxa pactuada supera, de modo substancial, a média de mercado divulgada pelo Banco Central, salvo se justificada pelo risco da operação.
+(..)
+Cumpre salientar, ainda, a respeito do tema, que a jurisprudência mais recente do Superior Tribunal de Justiça reforça a orientação de que a taxa média de mercado divulgada pelo BACEN é um referencial que deve ser observado em conjunto com as particularidades de cada relação negocial estabelecido entre as partes e que deve-se observar, entre outros fatores, os riscos da operação, a situação econômica na época da contratação e o tipo de garantia contratual. Veja-se:
+(..)
+Assim, levando-se em conta a matéria tratada, bem como considerando o risco da operação e a ausência de comprovação, por parte da instituição financeira acerca da existência de motivos, riscos excepcionais, custos de captação de recursos ou até mesmo circunstâncias pessoais que pudessem justificar a diferença substancial da taxa contratada em relação à taxa média de mercado, esta Segunda Câmara de Direito Comercial consolidou o entendimento de que é perfeitamente admissível uma certa variação da taxa de juros remuneratórios, quando os percentuais contratados não ultrapassem em 10% (dez por cento) àqueles praticados pela média de mercado.
+Verifica-se que, no caso em apreço, trata-se de contrato de empréstimo pessoal com desconto em conta corrente, firmado em 28-1-2020, cuja taxa contratada é de 19% ao mês (evento 1, CONTR3), sendo que a taxa média de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 6,10% ao mês (série temporal utilizada: Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado).
+Diante disso, presente a abusividade capaz de colocar o consumidor em desvantagem exagerada na relação negocial entabulada entre as partes, o que se admite a revisão e limitação dos juros fixados (e-STJ fls. 356-357).
+Verifica-se que a conclusão do Tribunal de origem considerou as particularidades da situação concreta apresentada, em consonância com o entendimento dominante sobre o tema nesta Corte Superior.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da abusividade dos juros remuneratórios, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados a esta Corte Superior em razão da aplicação das Súmulas 5 e 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% (dezessete por cento) sobre o valor atualizado da causa (e-STJ fls. 152 e 361) para 20% (vinte por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO CUMULADA COM REPETIÇÃO DE INDÉBITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. JUROS REMUNERATÓRIOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação revisional de contrato bancário cumulada com repetição de indébito.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
