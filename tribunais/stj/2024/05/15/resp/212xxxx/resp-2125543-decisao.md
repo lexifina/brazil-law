@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 230):
+Ação declaratória de inexigibilidade de débito c.c indenização por dano moral. Sentença que julgou extinto sem mérito pedido não formulado pela autora e deixou de apreciar a pretensão principal. Sentença anulada nestes pontos. Julgamento do mérito autorizado. Processo em condições de imediato julgamento. Art. 1.013, §3º, CPC. Conjunto probatório que aponta a inexistência do débito. Informações contidas nas telas sistêmicas da ré não corroboradas pelos demais documentos acostados. Débito inexigível. Lançamento dos valores na plataforma "Serasa Limpa Nome" não caracteriza dano moral. Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos §§ 2º e 8º-A do art. 85 do Código de Processo Civil, sob alegação de que, ao estabelecer a verba honorária com base na equidade, a decisão recorrida desconsiderou a ordem de gradação prevista no § 2º do referido dispositivo.
+Argumenta que, mesmo que se opte pela utilização do critério da equidade, que é uma medida excepcional, o § 8º-A do Código de Processo Civil estabelece que o valor fixado deve estar em consonância com os valores sugeridos pela Seccional da Ordem dos Advogados do Brasil do Estado onde a ação tramita. Tal orientação também não foi observada pelo acórdão estadual.
+Ressalta que o foco da insurgência não é a forma como os honorários advocatícios foram distribuídos entre os sucumbentes recíprocos. O que se questiona é a não observância da ordem de gradação para fixação da base de cálculo dos honorários, bem como o valor referencial estabelecido pela Tabela da Ordem dos Advogados do Brasil de São Paulo na fixação dos honorários por equidade.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Cinge-se a controvérsia a respeito da possibilidade de se readequar a verba honorária advocatícia sucumbencial, que, segundo a parte recorrente, foi estabelecida em desacordo com a legislação processual vigente.
+O Tribunal de origem ao apreciar o feito, no que diz respeito à verba honorária, entendeu à fl. 236 e 254:
+Considerando que o valor econômico obtido pela autora é irrisório e que a requerente sucumbiu quanto à pretensão indenizatória o que afasta a utilização do valor da causa como parâmetro de cálculo -, a ré arcará com o pagamento de honorários advocatícios de R$ 1.000,00 ao I. Patrono da ré, em atenção ao art. 85, §2º e 8º, CPC. Por outro lado, são devidos honorários advocatícios ao I. Patrono da ré no percentual de 10% da pretensão indenizatória (R$ 15.000,00), observada a gratuidade processual.
+ ..
+No mais a tabela da OAB tem por finalidade servir de parâmetro ao advogado no arbitramento dos honorários contratuais. Ademais, fixar os honorários no valor pretendido pelo embargante implicaria manifesta desproporcionalidade. Acrescenta-se que se cuida de demanda de massa, sem qualquer complexidade a justificar os valores pretendidos pela embargante.
+Na hipótese, a Corte de origem concluiu que a tabela da OAB, apesar de servir de parâmetro para o arbitramento dos honorários contratuais, não possui caráter vinculativo, devendo ser observadas as circunstâncias do caso concreto.
+Com efeito, verifico que o acórdão recorrido está em conformidade com a orientação firmada na jurisprudência desta Corte, para a qual o magistrado não está vinculado aos valores de honorários estabelecidos pela tabela da Ordem dos Advogados do Brasil.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. TABELA DE HONORÁRIOS DA SECCIONAL DA OAB. NATUREZA INFORMATIVA. NÃO VINCULANTE. HONORÁRIOS FIXADOS OBSERVANDO OS PARÂMETROS LEGAIS E EM VALOR RAZOÁVEL. ALTERAÇÃO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior manifesta-se no sentido de que "a tabela organizada pelo Conselho Seccional da OAB tem natureza meramente orientadora e não vincula o julgador, devendo ser levada em consideração a realidade do caso concreto" (AgInt no REsp 1.751.304/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe de 30/9/2019).
+2. Ademais, somente é admissível o exame do valor arbitrado a título de honorários advocatícios contratuais, nesta instância especial, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, o que não se verifica no caso em exame.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.038.616/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Dessa forma, estando o aresto recorrido em conformidade com a orientação jurisprudencial firmada por esta Colenda Corte acerca da matéria, incide, na hipótese, o óbice da Súmula 83/STJ, aplicável a ambas as alíneas do permissivo constitucional.
+Em face do exposto, nego provimento ao recurso especial, com amparo no art. 932 do CPC c/c a Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
