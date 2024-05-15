@@ -1,0 +1,13 @@
+DECISÃO
+SEBASTIÃO DE OLIVEIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0001956-78.2019.8.24.0022, que transitou em julgado em 2/8/2023.
+O paciente foi condenado por posse ilegal de arma de fogo com numeração suprimida e posse ilegal de munição de uso permitido, em concurso formal, a cumprir pena privativa de liberdade substituída por prestação pecuniária (1 salário mínimo) e prestação de serviços à comunidade.
+A defesa busca a desclassificação do crime previsto no art. 16, § 1º, IV, da Lei n. 10.826/2003, já que o laudo pericial afirmou o desgaste da identificação da arma, sem aportar a causa da ilegibilidade, ou a aplicação do princípio da consunção quanto ao delito do art. 12 da Lei n. 10.826/2003.
+O Ministério Público Federal opinou pelo não conhecimento do writ, ou por sua denegação.
+Decido.
+A defesa não esclarece se o paciente cumpriu as penas restritivas de direitos ou se foi extinta a sua punibilidade. Além disso, o acórdão de apelação transitou em julgado no dia 2/8/2023.
+Ressalte-se que, assim como o habeas corpus existe para tutelar o direito de locomoção, a coisa julgada também é garantia constitucional e impede que, em regra, uma decisão definitiva seja contestada ou modificada, a fim de garantir a estabilidade e a segurança jurídica, essenciais à eficácia do sistema judiciário. A revisão criminal é o meio extraordinário que existe no nosso sistema jurídico para a relativização do trânsito em julgado criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Também não constato, a um primeiro olhar, flagrante ilegalidade passível de correção, de ofício, para restituir imediatamente a liberdade do paciente. Segundo o Tribunal, a perícia constatou o desgaste no local da numeração de armamento que estava em bom estado de conservação, "o que traz consigo a ideia de supressão fraudulenta do número de registro" (fl. 407) e "a jurisprudência do STJ entende ser incabível aplicar o princípio da consunção entre os crimes dos arts. 12, 14 e 16 da Lei n. 10.826/2003, por tutelarem bens jurídicos distintos  .. " (AgRg no REsp n. 2.021.776/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
