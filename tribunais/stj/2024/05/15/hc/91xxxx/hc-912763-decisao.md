@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Neuman Almeida de Azevedo, condenado como incurso nos crimes de tráfico de drogas e receptação à pena de 7 anos e 8 meses de reclusão, em regime inicial fechado, além de 580 dias-multa, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Norte, que negou provimento à Apelação Criminal n. 0104130-45.2019.8.20.0001. Eis a ementa do acórdão (fl. 13):
+PENAL E PROCESSUAL PENAL. APCRIM. TRÁFICO DE DROGAS (ART. 33 DA LEI 11.343/06) E RECEPTAÇÃO (ART. 180 DO CP). ÉDITO PUNITIVO. PLEITO ABSOLUTÓRIO. MATERIALIDADE E AUTORIA DELINEADAS A PARTIR DOS RELATÓRIOS TÉCNICOS E DEPOIMENTOS TESTEMUNHAIS. SUBSÍDIOS BASTANTES A REVELAREM AS PRÁTICAS DELITIVAS. TESE IMPRÓSPERA. REDIMENSIONAMENTO DA PENA-BASE QUANTO AO PRIMEIRO DELITO VETOR "CONSEQUÊNCIAS DO CRIME" NEGATIVADO DE MODO INIDÔNEO. AJUSTE IMPOSITIVO. DECISUM REFORMADO EM PARTE. CONHECIMENTO E PROVIMENTO PARCIAL.
+Aponta-se nulidade decorrente de suposta atuação ilegal de guardas municipais. Requer-se, inclusive liminarmente, seja reconhecida a ilicitude probatória decorrente da abordagem perpetrada pela guarda municipal, e, como consequência, seja o paciente absolvido da imputação pela qual foi indevidamente condenado (fl. 10).
+É o relatório.
+O writ é manifestamente inadmissível.
+De início, ocorrido o trânsito em julgado da sentença condenatória, o presente writ é sucedâneo de revisão criminal. Inexistindo, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio S chietti Cruz, Sexta Turma, DJe 21/5/2018.
+Tampouco diviso constrangimento ilegal apto a subsidiar a concessão de habeas corpus de ofício (art. 654, § 2º, do CPP), pois se verifica que o pleito em questão - nulidade decorrente da atuação indevida de guardas municipais - não foi objeto de análise específica perante o Tribunal a quo, pois, ao que parece, a defesa nem sequer suscitou o tema em sede de apelação, razão pela qual incabível sua análise perante esta Corte Superior, sob pena de indevida supressão de instância. Observe-se, ainda, que não é possível a ampla análise de fatos e provas na via eleita, de cognição sumária.
+Diante do exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DE PROVAS. ATUAÇÃO DE GUARDAS MUNICIPAIS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. TESE SUBSIDIÁRIA. MATÉRIA NÃO ANALISADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
