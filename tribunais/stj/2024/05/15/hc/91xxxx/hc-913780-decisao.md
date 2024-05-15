@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ALEX FERNANDO ANTUNES DAMIAO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Revisão Criminal n. 2055277-30.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, no regime inicial fechado, além do pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento à apelação interposta pelo ora paciente, nos termos do acórdão de fls. 30/40.
+Após o trânsito em julgado da condenação, foi apresentada revisão criminal perante o Tribunal de origem, que reconheceu a improcedência do pedido, em acórdão que restou assim ementado:
+"REVISÃO CRIMINAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO AO ART. 33, § 4.º, DA LEI DE DROGAS, POR VALORAÇÃO DE AÇÕES PENAIS EM CURSO. IMPROCEDÊNCIA. CONDENAÇÕES JÁ TRANSITADAS EM JULGADO QUANDO DO JULGAMENTO DO RECURSO DE APELAÇÃO. REVISÃO CRIMINAL IMPROCEDENTE." (fl. 42)
+No presente writ, a defesa sustenta que o paciente faz jus à redutora penal do tráfico privilegiado, pois preenchidos os requisitos necessários ao deferimento da benesse; notadamente, a primariedade, bons antecedentes e ausência de prova da dedicação do paciente a atividades ou organizações criminosas.
+Afirma que, deferida a causa de diminuição da pena, esta deve ser substituída por restritivas de direito, com fixação do regime aberto para o início de seu cumprimento, nos termos da orientação consolidada nas Súmulas 718 e 719 do Supremo Tribunal Federal - STF.
+Requer, em liminar e no mérito, a concessão da ordem para que seja aplicada a redutora penal do tráfico privilegiado em seu patamar máximo, com a substituição da pena privativa de liberdade por restritiva de direitos e fixação do regime aberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O § 4º do art. 33 da Lei de Antidrogas tem a seguinte redação:
+"Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Sendo assim, para que o paciente possa ter o benefício da diminuição da pena, deverá cumprir, cumulativamente, quatro requisitos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não se dedicar às atividades criminosas; (d) não integrar organização criminosa.
+Os dois pressupostos iniciais são de avaliação estritamente objetiva, basta verificar a certidão de antecedentes criminais do agente para chegar à conclusão se ele preenche ou não esses requisitos. Quanto às duas últimas condições, a análise envolve apreciação subjetiva do magistrado processante, a partir dos elementos de convicção existentes nos autos, para aferir se o apenado se dedicava às atividades criminosas ou integrava organização criminosa.
+O Tribunal de origem, em sede de revisão criminal, manteve o afastamento da causa de diminuição de pena, com base na seguinte fundamentação:
+"Com efeito, não foram utilizadas ações penais em curso para reconhecimento da dedicação às atividades criminosas, pois as ações penais relativas às folhas mencionadas (221/232 e 233/262), 0002503-57.2016.8.26.0123 e 0002550-31.2016.8.26.0123, transitaram em julgado em 23/10/2018 e 08/05/2019, respectivamente.
+Os trânsitos em julgado, pois, deram-se antes mesmo do julgamento do recurso de apelação (23/05/2019).
+Havia prova idônea, pois, da dedicação às atividades criminosas, não havendo que se cogitar de valoração de ações penais em curso." (fl. 43)
+Como se lê do acórdão impugnado, o Tribunal de origem, em sede de revisão criminal, manteve o afastamento da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, ante a existência de prova idônea acerca da dedicação do paciente a atividades criminosas.
+Nesse sentido, a alteração das conclusões a que chegaram as instâncias de origem demandaria amplo revolvimento de fatos e provas, inviável na restrita via do habeas corpus.
+A propósito (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. INVIABILIDADE. SÚMULA 630/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI. PACIENTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. REGIME FECHADO. PENA SUPERIOR A 4 ANOS. PENA-BASE ACIMA DO MÍNIMO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da Súmula n. 630 desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio."
+2. Conforme dispõe o art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+3. No caso dos autos, extrai-se que as instâncias ordinárias formaram sua convicção com base nos elementos fáticos constantes dos autos para afastar a aplicação da redutora do art. 33, § 4º, da Lei de Drogas, por entender que o paciente se dedicava ao tráfico de forma habitual, não apenas em razão da quantidade de droga apreendida, que era expressiva (9 kg de cocaína), mas tendo em vista as circunstâncias do delito. Além da diversidade das drogas, foram encontrados balanças de precisão, embalagens para acondicionar as drogas e dinheiro. Dessa forma, a Corte de origem se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional. Assim, desconstituir tais assertivas demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+4. No caso, tendo em vista que a pena é superior a 4 anos de reclusão, não há alteração no regime inicial, uma vez que a pena-base foi fixada acima do mínimo legal. Assim, nos termos do art. 33, § 2º e § 3º, do Código Penal, o regime inicial fechado se mostra mais adequado.
+5. Agravo regimental não provido.
+(AgRg no HC n. 868.350/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO VÁLIDA. GRANDE QUANTIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CIRCUNSTÂNCIAS DO CASO CONCRETO. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO.
+1. A apreensão de quantidade relevante de drogas (51,495kg de maconha) constitui fundamento válido para a fixação da pena-base acima do mínimo legal.
+2. As instâncias ordinárias concluíram pela dedicação do paciente a atividades criminosas devido às circunstâncias concretas dos autos, tendo sido ressaltado a apreensão de petrechos e estrutura não condizente com a traficância eventual, além da quantidade da droga, não utilizada como único fundamento para afastar a minorante do tráfico privilegiado.
+3. Afastada a aplicação da redutora prevista no art. 33, §4º, da Lei n. 11.343/2006, com base em circunstâncias concretas indicativas de dedicação a atividades criminosas, a pretendida revisão do julgado não se coaduna com a estreita via do writ.
+4. Agravo regimental improvido.
+(AgRg no HC n. 801.733/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Indeferida a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, resta prejudicado o exame das teses relativas ao regime prisional e à substituição da pena privativa de liberdade por restritiva de direitos.
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
