@@ -1,0 +1,23 @@
+DECISÃO
+ALISSON VIEIRA GOMES agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500158-46.2018.8.26.0617).
+Nas razões do recurso especial, a defesa alegou violação aos arts. 14, II, e 59 do Código Penal.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso, consoante parecer assim ementado (fl. 592):
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. SÚMULA Nº182/STJ. NÃO CONHECIMENTO.
+1. Não se conhece do agravo se a parte não ataca diretamente os fundamentos da decisão agravada. Súmula nº 182/STJ.
+2. Parecer pelo não conhecimento do agravo.
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso pelo seguinte motivo (fls. 517-518):
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária, consoante determina o artigo 1.029 do Código de Processo Civil1, o que afasta a possibilidade da sua admissão, pois não foram devidamente infirmados os argumentos do aresto.
+O E. Superior Tribunal de Justiça, considerando a importância desse requisito formal, assinalou que: " (..) Verifica-se deficiência nafundamentação do recurso especial, a atrair o óbice do Enunciado n. 284 daSúmula do STF, pois o recorrente não demonstrou de maneira específica as razões de sua insurgência(..)."2.
+Nem mesmo com base na alínea "c" do permissivo constitucional a insurgência pode ser admitida, uma vez que ausentes as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal.
+O Diploma Processual Civil, no artigo 1.029, § 1º, bem como o RISTJ, em seu artigo 255, § 1º, dispõem que: "Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.".
+Pertinente a decisão proferida perante o STJ de que "(..)3. No recurso especial fundado na alínea "c" do permissivo constitucional, deve a parte recorrente realizar o necessário cotejo analítico entre o acórdão recorrido e os colacionados, a fim de demonstrar a similitude fáticae a adoção de teses divergentes, sendo insuficiente a mera transcrição deementas. 4. Ademais, o recorrente deve provar o dissenso por meio de certidão, cópia autenticada ou pela citação do repositório, oficial ou credenciado, em que tiver sido publicada a decisão divergente, o que não foi feito nahipótese dos autos.".3
+Por fim, incide ao caso a Súmula nº 7 do STJ, que dispõe:"A pretensão de simples reexame de prova não enseja recurso especial", ou seja, não é possível emitir um juízo de valor sobre a questão de direito federal sem antes apurar os elementos de fato.
+A propósito, decidiu o Colendo Superior Tribunal deJustiça, no AgRg no AREsp 593109/MT, Rel. Ministro Antonio Saldanha Palheiro, julgado em 23/11/2021, DJe 26/11/21, que: "(..) para afastar as conclusões alcançadas pelas instâncias ordinárias, soberanas na análise do acervo fático-probatório, imperioso seria o reexame de fatos e provas, providência vedada na via eleita, tendo em vista a redação do enunciado n. 7 da Súmula desta Casa."4
+A defesa, contudo, não rebateu os fundamentos da inadmissão do especial.
+Assim, era imperioso que se demonstrasse, com particularidade, que: i) o recurso fora adequadamente fundamentado, com indicações das razões defensivas e o dessacerto do acórdão coator; ii) o cotejo dos dissídios jurisprudenciais teriam sido feitos a contento; e iii) a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.
+Portanto, o agravante não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
