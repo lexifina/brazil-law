@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DECISÃO AGRAVADA HOMOLOGOU OS CÁLCULOS APRESENTADOS, TODAVIA DEIXOU DE DETERMINAR O IMEDIATO BLOQUEIO VIA SISBAJUD DO VALOR INCONTROVERSO - DECISÃO REFORMADA - VERBA ALIMENTAR - HONORÁRIOS ADVOCATÍCIOS - INEXISTÊNCIA DE ÓBICE - RECURSO CONHECIDO E PROVIDO.
+A parte agravante sustenta ter havido cerceamento de defesa, eis que foi determinada a penhora online de valor elevado (R$ 11.000.000,00 - onze milhões de reais) em favor do causídico, com alvará de levantamento desse montante, sem que lhe fossem conferidas as prerrogativas constantes dos arts. 841 e 854, §3º, do Código de Processo Civil. Argumenta que o acórdão estadual é omisso, pois não levou em consideração o fato de não se tratar de causa "madura" (trata-se de execução provisória de sentença), em que inexistem valores incontroversos (a certeza do valor executado depende do julgamento de recurso submetido ao STJ) . Outrossim, o argumento utilizado para autorizar o levantamento dos valores é de que se trata de verba alimentar (honorários advocatícios), mas os honorários não correspondem ao valor integral da verba que se permitiu levantar.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 1.022 do Código de Processo Civil.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
+EMENTA
