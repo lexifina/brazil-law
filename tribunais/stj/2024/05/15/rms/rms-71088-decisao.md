@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Giuliano Donaire Ferrarezi - denunciado como incurso nos arts. 306, II, e 303, §§ 1º e 2º, ambos do Código de Trânsito Brasileiro, na forma do art. 69 do Código Penal - contra acórdão do Tribunal de Justiça de São Paulo que denegou a segurança no mandamus ali impetrado (MS n. 2235943-94.2022.8.26.0000 - fls. 49/53), mantendo a decisão do Juízo de Direito da 1ª Vara Criminal da comarca de Fernandópolis/SP (Processo n. 1500064-33.2022.8.26.0561) que indeferiu o pedido de realização de reprodução simulada dos fatos.
+Alega-se, em síntese, que a reconstituição fática terá o condão de demonstrar que a embriaguez do recorrente na condução do seu veículo automotor não guarda relação de causalidade com o acidente, que a vítima deu causa por sua exclusiva imprudência, aplicando-se-lhe a inteligência da conditio sine qua nom, prevista no atualizado art. 13 do Código Penal (fl. 64).
+Acrescenta-se, ademais, que o fundamento relevante que possui o impetrante tem suporte jurídico na perda de uma chance probatória (Art. 7º do CPP/1941) e no prejuízo que sofreu a defesa com a ausência da reprodução simulada do acidente de trânsito (Art. 563 do CPP/1941), prejudicando a certeza que deve pesar na relação de causalidade (Art. 13 do CP/1940), necessária à condenação (fl. 66).
+Requer-se, liminarmente, ordem de suspensão do Processo-Crime n. 1500064-33.2022.8.26.0561, até a resolução final desta impugnação (fl. 66). No mérito, pleiteia que seja provido o pedido de reconstituição do acidente de trânsito no Processo-Crime n. 1500064-33.2022.8.26.0561 (fl. 66).
+Liminar indeferida (fls. 89/91).
+Agravo regimental interposto contra a decisão indeferitória de liminar (fls. 100/103), com provimento negado (fls.135/138).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fl. 150):
+EMENTA: Recurso em mandado de segurança. Acidente de trânsito. Realização da reprodução simulada dos fatos. Indeferimento. Discricionariedade do magistrado. Impertinência e desnecessidade. Ausência de cerceamento de defesa.
+Parecer pelo desprovimento do recurso.
+É o relatório.
+O recurso não comporta provimento.
+Aos fundamentos já apresentados por ocasião do indeferimento da liminar, acrescento estas palavras do Subprocurador-Geral da República Luciano Mariz Maia, as quais, diante da precisão e clareza dos elementos apontados e por estar em absoluta consonância com a orientação jurisprudencial desta Corte Superior, também adoto como razão de decidir (fls. 151/152 - grifo nosso):
+ ..
+Busca a defesa a reconstituição do acidente de trânsito no Processo n. 1500064-33.2022.8.26.0561.
+O MM. Juiz de Direito, ao apreciar a matéria, indeferiu a pretensão da defesa, sob os seguintes fundamentos:
+INDEFIRO a reprodução simulada dos fatos, eis que se trata de prova de pouca contribuição para os fatos investigados, postulando a defesa a sua produção, como era esperado, sem uma justificativa plausível desta prova, argumentando apenas no campo teórico da abstração sem descer para a concretude dos fatos da vida. Pretenderia a Defesa reconstituir o acidente, com a produção de nova colisão de veículos  Em que a reconstituição dos fatos ajudaria no caso de acionamento da polícia para atender ao acidente de trânsito com vítima no local, portanto, fato em que quando da chegada da polícia já havia ocorrido o evento  Lembro que foi feita perícia técnica no local dos fatos, podendo a Defesa se debruçar sobre o laudo pericial de fls. 69/79. (e-STJ fl. 38).
+Vê-se que a pretendida diligência foi indeferida pelo Juízo de Direito, tendo em vista a sua impertinência e desnecessidade.
+Ora, o magistrado é o destinatário da prova, sendo assim, a ele é facultado, no exercício da sua discricionariedade, o indeferimento de produção de provas que julgar protelatórias, irrelevantes ou impertinentes, como no caso, não havendo portanto que falar em cerceamento de defesa.
+A propósito, confira os seguintes precedentes dessa Eg. Corte:
+ 1 . O art. 400, § 1º, do CPP, autoriza o Magistrado a indeferir as provas que considerar irrelevantes, impertinentes ou protelatórias, uma vez que ele é o destinatário da prova. Dessa forma, o indeferimento fundamentado da prova requerida pela defesa não revela cerceamento de defesa, quando justificada sua desnecessidade para o deslinde da controvérsia.
+ ..
+(RHC 132.767/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/09/2020, DJe 28/09/2020).
+ IV  - Com efeito, o magistrado é o destinatário da prova. Portanto, cabe a ele avaliar livremente, de forma coerente e fundamentada, as provas carreadas aos autos, sopesando, assim o valor probatório de cada uma delas, bem como indeferir a prova requerida pelas partes, quando considerá-la impertinente, além de modo equilibrado e imparcial, determinar a realização de diligência de ofício, nas hipóteses em que julgar conveniente à reconsideração da dinâmica delitiva. Precedentes.
+ ..
+(AgRg no HC 542.882/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 11/02/2020, DJe 19/02/2020).
+ 1  - O entendimento de pedido de produção de prova, no caso, reprodução simulada, quando devidamente motivado, não configura cerceamento de defesa, por ser a discricionariedade motivada o critério norteador do juízo de necessidade.
+ 3  - Recurso ordinário improvido.
+(RHC n. 57.431/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 2/8/2016, DJe de 15/8/2016).
+De fato, não vejo como fugirmos dessa conclusão. Como se sabe, a caracterização do cerceamento do direito de defesa pelo indeferimento de qualquer prova requerida pela parte requer, obrigatoriamente, como condicionante uma possível arbitrariedade praticada pelo órgão julgador, e não meramente a consideração ou a compreensão da parte pela imprescindibilidade de sua realização. No caso, como visto, o indeferimento ocorreu de forma devidamente motivada, pois demonstrada a desnecessidade de produção da prova requerida, uma vez que o resultado com ela obtido seria de pouca contribuição em relação aos fatos investigados, aliado, outrossim, à circunstância de que havia sido realizada "perícia técnica no local dos fatos", de modo que poderia a defesa debruçar-se sobre o "laudo pericial".
+Sob esta moldura, nego provimento ao recurso em mandado de segurança.
+Publique-se.
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. CRIMES DESCRITOS NO ART. 306, II, E 303, §§ 1º E 2º, AMBOS DO CÓDIGO DE TRÂNSITO BRASILEIRO, NA FORMA DO ART. 69 DO CP. INDEFERIMENTO DE PRODUÇÃO DE PROVA (NEGATIVA DE REALIZAÇÃO DA REPRODUÇÃO SIMULADA DOS FATOS ENVOLVENDO O ACIDENTE DE TRÂNSITO). INDEFERIMENTO MOTIVADO. POUCA CONTRIBUIÇÃO PARA INVESTIGAÇÃO. EXISTÊNCIA DE PERÍCIA TÉCNICA NO LOCAL. POSSIBILIDADE DE UTILIZAÇÃO DO LAUDO PERICIAL PELA DEFESA. DISCRICIONARIEDADE DO CRITÉRIO NORTEADOR DO JUÍZO DE NECESSIDADE. PRECEDENTES. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. AUSÊNCIA DA CONDICIONANTE DE ARBITRARIEDADE POR PARTE DO JULGADOR.
+Recurso improvido.
