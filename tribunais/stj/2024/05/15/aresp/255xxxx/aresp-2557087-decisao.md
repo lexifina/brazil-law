@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas 284/STF e 83/STJ.
+Alegam os agravantes que, "foram claras e objetivas as Razões Recursais debatidas no Recurso Especial, no sentido de que a circunstância indicada no v. Acórdão não se mostrou idônea suficiente para afastar o regime semiaberto, o que vai de encontro ao disposto no artigo 93, IX, da Constituição da República, que garante a todos a fundamentação concreta das decisões" (fl. 675).
+Aduzem que "o entendimento adotado pelo Tribunal local não está no mesmo sentido das decisões do Tribunal Superior, isto porque o STJ, tem diversas decisões que fixam o regime mais brando do que aquele cabível pelo quantum da pena, desde que seja o réu primário, sejam as circunstâncias judiciais consideradas favoráveis e o regime mais brando seja o mais adequado para cumprir com as finalidades da pena" (fl. 679).
+Os Agravantes foram condenados pela conduta descrita no artigo 157, §3º, I, duas vezes, na forma do artigo 71 do CP, aplicando-lhes pena de 9 (nove) anos, 6 (seis) meses e 10 (dias) de reclusão, no regime inicial fechado, e pagamento de 14 (quatorze) dias-multa.
+A Defesa Técnica recorreu, tendo o Recurso de Apelação Criminal sendo parcialmente provido apenas para compensar as atenuantes da menoridade (ROGER) e, a confissão (SAMUEL) com a agravante prevista no artigo 61, II, h, do CP, refazendo-se a dosimetria para ao final assentar a pena de ambos em 8 (oito) anos e 2 (dois) meses de reclusão e pagamento de 11 (onze) dias-multa, em regime fechado.
+Nas razões do recurso especial, interposto no artigo 105, III, alínea "a" da Constituição Federal, aponta a defesa violação do artigo 33, §2º, alínea "a", do Código Penal, ao argumento de que "a c. Câmara fundamentou a fixação do regime fechado para o início do cumprimento da pena em razão das circunstâncias do crime (suposta lesão na vítima que necessitou, posteriormente, de internação em unidade de tratamento intensivo). Entretanto, tal fundamento, por si só, é incapaz de sustentar a imposição do regime mais gravoso que o semiaberto" (fl. 628).
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise do mérito.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento do agravo, mas pelo seu não provimento, a fim de se manter inadmitido o recurso especial; alternativamente, pelo não provimento deste.
+Quanto à alegada violação do art. 33 do CP, verifica-se do acórdão impugnado (fl. 608):
+Correta a imposição do regime fechado para o início do cumprimento da pena, nos termos do artigo 33, § 2º, "a", do Código Penal. Demais disso, as circunstâncias em que os delitos foram praticados, considerando que para obterem êxito na subtração lesionaram uma vítima idosa, que necessitou de internação em unidade de tratamento intensivo, demonstram que a colocação dos réus em regime mais brando não se mostra suficiente para que a sanção alcance seus objetivos.
+No caso, a pena foi estabelecida em patamar superior a 8 anos de reclusão - 8 (oito) anos e 2 (dois) meses de reclusão -, estando correto o estabelecimento do regime fechado, nos termos do art. 33, §2º, a, do CP.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
