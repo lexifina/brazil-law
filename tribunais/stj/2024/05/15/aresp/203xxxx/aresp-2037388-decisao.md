@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ, anotando ser despiciendo o exame da violação ao art. 1022 do CPC.
+Alega a parte agravante que "apontou a nulidade do acórdão regional, por ferir o art. 1022 do CPC. Trata-se, evidentemente, de capítulo recursal autônomo, que não fica prejudicado caso os demais capítulos encontrem algum óbice" (e-STJ fls. 1634).
+Argumenta que a "Súmula 07 do STJ não se aplica ao caso em tela, uma vez que a discussão proposta nas razões de recurso especial está afeita unicamente a matéria legal afrontada no julgamento recorrido" (e-STJ fls. 1637).
+Contrarrazões apresentadas às fls.1656/1666.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+Nesse contexto, quanto à alegada violação ao art. 1.022, II, do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material.
+A propósito, na forma da jurisprudência, "não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016 " (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Há que se pontuar, adicionalmente, que, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. ARGUIÇÃO DE AUSÊNCIA DE INTERESSE PROCESSUAL. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ACÓRDÃO COM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. MATÉRIA INSUSCETÍVEL DE ANÁLISE EM RECURSO ESPECIAL.
+ ..
+2. No mais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido (AgInt no AREsp n. 2.241.284/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+Isso posto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar provimento.
+Publique-se. Intimem-se.
+ EMENTA
