@@ -1,0 +1,17 @@
+DECISÃO
+AMARO JOSÉ DE LIMA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no HC n. 0000577-42.2022.8.17.9480.
+Neste habeas corpus, a defesa pretende a absolvição do réu. Para tanto, sustenta que a condenação foi lastreada apenas em elementos de convicção produzidos durante a fase investigativa, sem confirmação em juízo, razão pela qual defende a nulidade da sentença.
+Subsidiariamente, assevera a insuficiência de provas aptas a embasar o juízo condenatório, bem como a possibilidade de ser reconhecida a participação de menor importância.
+Por fim, aponta ilegalidades na dosimetria da pena e pretende a sua redução.
+O Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+O ora paciente foi condenado por latrocínio. Segundo a própria defesa informou, o trânsito em julgado ocorreu em 12/4/2016 (fl. 772). Em seguida, foi impetrado habeas corpus perante o Tribunal estadual, que era, portanto, substitutivo de revisão criminal, razão pela qual a Corte de origem, acertadamente, não conheceu do mérito do remédio constitucional. Veja-se (fl. 757, destaquei):
+Observa-se que as questões trazidas nos presentes autos já foram enfrentadas por meio do recurso de apelação e a revisão ora pleiteada demandaria reexame de fatos e provas, medida incompatível com o rito do habeas corpus, que pressupõe prova pré-constituída do direito alegado, não tendo cabimento como substituto de recurso próprio, tampouco como sucedâneo de revisão criminal.
+Este é o entendimento firmado pelos Tribunais Superiores, no sentido de que as hipóteses de cabimento do habeas corpus devem ficar restritas aos casos em que se verifica verdadeira constrição à liberdade de ir e vir do paciente, não se admitindo o writ quando substitutivo do recurso próprio ou revisão criminal.
+O acórdão recorrido está em conformidade com a jurisprudência do STJ. As alegações defensivas deveriam haver sido suscitadas perante o Juízo competente no prazo oportuno, até para possibilitar às instâncias ordinárias, soberanas na análise de provas, um pronunciamento seguro sobre a questão, após a análise vertical dos autos. É vedada, portanto, a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Nesse sentido: "O Superior Tribunal de Justiça, secundando orientação do Supremo Tribunal Federal, não mais admite a utilização do habeas corpus como substituto do recurso próprio, assim também não o fazendo as instâncias ordinárias, de modo a não frustrar a sua finalidade que é a de atuar de forma célere e efetiva no caso de manifesta violência ou coação à liberdade de locomoção do cidadão por ilegalidade ou abuso de poder (art. 5º, LXVIII, da CF)" (HC n. 325.196/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/12/2016, DJe de 14/12/2016).
+Ademais, tendo em vista que os temas postos na inicial deste recurso não foram, especificamente, analisados pela Corte de origem no ato apontado como coator, não há como a questão ser apreciada diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Por fim, não vislumbro flagrante ilegalidade ou teratologia que justifique a concessão da ordem de ofício.
+À vista do exposto, nego provimento a o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
