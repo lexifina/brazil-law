@@ -1,0 +1,35 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 41 (e-STJ).
+"Trata-se de habeas corpus com pedido de liminar impetrado em favor de CAIO ANTONIO DE CAMPOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1500159-51.2022.8.26.0274).
+O paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão em regime fechado, e ao pagamento de 680 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006.
+A defesa interpôs recurso de apelação, que foi desprovido.
+A impetrante sustenta: a) não há nos autos prova da traficância, uma vez que foram apreendidos apenas 13,8 gramas de maconha; b) prática da infração prevista no artigo 33, § 4º, da Lei de Drogas não é apta a gerar reincidência; e c) deve ser reduzida a pena em razão da primariedade do paciente e do reconhecimento da atenuante da confissão espontânea.
+Requer, liminar e definitivamente, deferimento da ordem para que seja reduzida a pena, com a consequente modificação do regime prisional para o semiaberto.
+É o relatório."
+O pedido liminar foi denegado pelo Min. João Batista (Desembargador Convocado do TRF1) às fls. 41-43.
+As informações foram prestadas às fls. 47-69 e 73-74
+Em parecer, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 76-78).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. QUANTIDADE E NATUREZA DE DROGAS. REGIME DEVIDAMENTE FUNDAMENTADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão das circunstâncias apuradas na instrução processual. Ficou evidenciado que o paciente se dedicava à atividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto, demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. A quantidade e a natureza da droga demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+4. Habeas corpus não conhecido.
+(HC n. 643.197/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/5/2021, DJe de 14/5/2021) grifos acrescidos.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 35):
+Interrogado, admitiu a propriedade das drogas, mas para uso próprio e da companheira Letícia(absolvida, sem irresignações). A quantia de R$ 5 mil apreendida era da corré e seria utilizada para pagar a festa de aniversário da filha dela.
+Letícia apresentou versão análoga.
+A escusa não convence, tampouco encontra arrimo nos elementos coligidos.
+Os policias civis Eduardo e José relataram que, em cumprimento de mandado de busca e apreensão na residência de CAIO e Letícia, apreenderam três porções de maconha. O setor de investigações havia recebido várias delações dando conta de que o apelante guardava drogas em casa, para distribuição no bairro Dona Bella. No armário da cozinha, localizaram R$ 5 mil. Indagados, Letícia disse que o dinheiro fora dado por seu pai para realização de uma festa de aniversário.
+CAIO já era conhecido nos meios.
+Prova mais que suficiente.
+Neste contexto, a vil mercancia ficou evidenciada pelas circunstâncias da diligência, encontro de dinheiro, inexoráveis depoimentos dos agentes públicos, bem como pelas conversas de fls. 216/218, obtidas no aparelho celular do apelante, elementos suficientes à procedência, não remanescendo quaisquer dúvidas quanto ao destino a terceiros, e não exclusivamente a consumo próprio, até porque eventual condição de usuário não seria impeditiva da realização concomitante do comércio clandestino.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. PACIENTE RECONHECIDOS PELAS VÍTIMAS EM JUÍZO. AUTORIA DELITIVA. PEDIDO DE ABSOLVIÇÃO. NECESSIDADE DE INCURSÃO DO MATERIAL PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Verifica-se que a autoria delitiva do crime de roubo não tem como único elemento de prova eventual reconhecimento fotográfico realizado em sede inquisitorial, mas também a prova oral colhida durante a instrução criminal (depoimentos seguros das vítimas Silvana e Valmir). Assim, diante do livre convencimento motivado do juiz, a prova da autoria deve estar lastreada, não apenas no reconhecimento do réu, em sede policial, mas fundamentada, de forma robusta, nas demais provas produzidas, durante a instrução criminal, sob o crivo do contraditório, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, o HC n. 598.886/SC, da relatoria do E. Ministro ROGÉRIO SCHIETTI CRUZ. 2. Ademais, esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023). 3. Agravo regimental a que se nega provimento. (AgRg no HC nº 868.208/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 30/11/2023, DJe de 5/12/2023 - destaquei)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
