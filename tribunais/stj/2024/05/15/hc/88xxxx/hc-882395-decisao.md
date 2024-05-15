@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RAFAEL LUCAS COSTA DO AMARAL, contra acórdão proferido pela Câmara Criminal do Tribunal de Justiça do Estado de Alagoas que denegou a ordem pleiteada no Habeas Corpus n. 0808279-08.2023.8.02.0000. Segue a ementa do acórdão (fl. 150):
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. DECISÃO EMBASADA EM RELEVANTE PARTICIPAÇÃO DO PACIENTE E NA EFETIVA PROBABILIDADE DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. Não há ilegalidade a ser sanada no decreto preventivo quando a decisão for devidamente embasada nas hipóteses autorizadoras, especialmente se evidenciada pela necessidade de resguardar a ordem pública, ante a existência de indícios de que o paciente seria integrante de organização criminosa, bem como responder a outros processos de natureza criminal.
+2. Ordem denegada".
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática do crime de associação ao tráfico, no âmbito da "Operação Estorvo", a qual logrou êxito em descortinar duas organizações criminosas que atuavam no tráfico de drogas em Maceió, mais especificamente no Conjunto Cleto Marques Luz. Impetrado writ perante a Corte de origem, a ordem foi denegada (fls. 150-153).
+No presente mandamus, a defesa sustenta constrangimento ilegal em razão da ausência de fundamentação idônea para a prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Ressalta que o acusado é primário e que o crime supostamente praticado pelo paciente não foi cometido mediante violência ou grave ameaça, sendo possível a substituição da custódia preventiva por medidas cautelares alternativas.
+Alega que o paciente possui residência fixa, esposa e filho menor de idade, os quais sobrevivem como dependentes do acusado, que é o provedor da família.
+Requer seja reconhecida a ilegalidade do decreto prisional, tendo em vista o excesso de prazo, a fim de que o paciente responda em liberdade.
+As informações foram prestadas (fls. 167-170 e 171-174).
+O Ministério Público Federal se manifestou pelo não conhecimento da ordem, nos termos da seguinte ementa (fl. 179):
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE DROGAS. OPERAÇÃO ESTORVO. PRISÃO PREVENTIVA. NÃO CONHECIMENTO.
+- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.
+- 2ª Preliminar: conhecimento de ofício; ausência de competência.
+- Precedentes: STJ (HC 245.731/MS; HC nº 248.757/SP).
+- Parecer pelo não conhecimento do habeas corpus".
+É o relatório. Decido.
+Consoante relatado, busca a defesa que seja reconhecida a ilegalidade do decreto prisional, tendo em vista o excesso de prazo, a fim de que o paciente responda em liberdade.
+De início, verifica-se que a tese defensiva de excesso de prazo não foi objeto de análise pelo Tribunal de origem (acórdão de fls. 150-153), o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Assim constou da decisão que decretou a prisão preventiva do paciente (fls. 101-103 e 110-111):
+"In casu, são imputados aos investigados a prática do crime de tráfico de drogas e associação para o tráfico, com as causas de aumento previstas na Lei de Drogas, em seu art. 40. Ao denunciado Darlan Alyson Lima de Mendonça, ainda, a prática do art. 16, da Lei nº 10.826/2003.
+Segundo a denúncia, ao longo da investigação, foram angariados robustos elementos probatórios, sobretudo a partir dos afastamentos de sigilos telefônicos autorizados por este juízo, que trouxeram indícios da existência de duas organizações criminosas, que atuavam no tráfico de drogas em Maceió, especificamente nos bairros Tabuleiro dos Martins e Benedito Bentes.
+Daí, passou o requerimento, então, a identificar e individualizar as condutas dos supostos membros das Organizações Criminosas.
+Portanto, a conduta delitiva praticada, em tese, por esses investigados, necessita a adoção de medidas com o fito de salvaguardar a paz e a segurança social.
+Assim, têm-se indícios suficientes de que estes ocupariam posição importante no esquema criminoso, gerando maior risco à ordem pública e social, vejamos:
+ ..
+DARLAN ALYSON LIMA DE MENDONÇA, policial militar, líder da suposta ORCRIM denominada Miliciano, seria o integrante cujas condutas possuem o maior grau de reprovabilidade, visto que o servidor público possivelmente adquiria as drogas do próprio tráfico por meio de apreensões, e utilizaria-se indevidamente do aparato policial da Força Pública a que pertence.
+ ..
+RAFAEL LUCAS COSTA DO AMARAL seria braço direito de DARLAN na suposta aquisição de drogas para abastecimento da ORCRIM Miliciano.
+De acordo com os levantamentos, RAFA agiria como um informante de DARLAN, através de seu vasto conhecimento no tráfico de drogas e extensa ficha criminal. Dessa maneira, RAFA, noticiaria DARLAN sobre chegada, despacho e posse de drogas por traficantes alheios à organização.
+Em áudios, RAFA também assumiria função de "avião" para DARLAN e saia realizando venda de entorpecentes, prestando contas de valores e quantidades vendidas. Além disso, quando as drogas apreendidas do tráfico por DARLAN perdiam a qualidade ou estavam comprometidas para consumo, é RAFA quem as tratava e explicava a DARLAN procedimentos para recondicioná-las a venda, como limpeza e secagem ao sol".
+Como se vê, o decreto prisional apresentou fundamentação idônea para a manutenção da custódia cautelar do paciente, tendo em vista a existência de indícios de que o acusado é braço direito do líder da organização criminosa denominada "Miliciano", a qual é voltada para a atividade de tráfico de entorpecentes, ressaltando-se que o acusado "agiria como um informante de DARLAN, através de seu vasto conhecimento no tráfico de drogas e extensa ficha criminal. Dessa maneira, RAFA, noticiaria DARLAN sobre chegada, despacho e posse de drogas por traficantes alheios à organização" (fl. 111).
+Pacífico é o entendimento nesta Corte Superior de que a periculosidade do agente e " a  necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (HC n. 95024/SP, PRIMEIRA TURMA, Rel. Ministra CÁRMEN LÚCIA, DJe 20/02/2009, sem grifos no original), (HC n. 371.769/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/05/2017). Nesse sentido: AgRg no HC n. 759.520/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes e presença de diversas frentes de atuação. Nesse sentido: RHC n. 46.094/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 4/8/2014; RHC n. 47242/RS - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 10/6/2014; RHC n. 46341/MS - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 11/6/2014; RHC n. 48067/ES - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 18/6/2014.
+Outrossim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
