@@ -1,0 +1,12 @@
+DECISÃO
+MATEUS MULLER WEYH alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+O paciente busca a concessão de liberdade provisória, ainda que mediante aplicação de cautelares do art. 319 do CPP. Aponta o "excesso de prazo" (fl. 8) para o oferecimento da denúncia e a nulidade do édito prisional, porque foi proferido por Juiz estadual incompetente.
+Decido.
+A superveniente alteração na competência justifica a prejudicialidade da impetração. Os prazos estipulados pelo art. 46 do CPP são impróprios e, dadas as intricadas circunstâncias do caso (notadamente os quatro declínios de competência), o atraso na apresentação da denúncia está devidamente justificado. Como a ação penal foi instaurada perante a Justiça Federal, também está superada a alegação de excesso de prazo.
+O paciente foi autuado, em 21/12/2023. Os autos foram encaminhados da Justiça estadual para a Federal, diante de possível conexão entre o tráfico de drogas e o delito contra a vida de policial rodoviário federal. Depois, foram distribuídos à 5ª Vara Federal de Novo Hamburgo e para a 2ª Vara Federal de Santa Maria/RS, que devolveu os autos à primeira Subseção. O Ministério Público Federal ofereceu denúncia (Ação Penal n. 5004190-45.2024.4.04.7108).
+Uma vez fixada a competência do Juízo Federal, configuraria inobservância da sua jurisdição analisar o pedido de liberdade em habeas corpus impetrado contra acórdão de Tribunal de Justiça estadual.
+Sinalizo que o Juiz da 2ª Vara Judicial da Comarca de São Sepé era aparentemente competente. Sua decisão pode ser ratificada, pois a declinação à Justiça Federal não gera a automática nulidade do ato judicial, o qual mantém sua eficácia até a ulterior e necessária manifestação do novo Magistrado.
+Por fim, apenas para argumentar, o édito prisional não é claramente ilegal, pois sinalizou a gravidade concreta dos delitos apurados, com modus operandi revelador da periculosidade social elevada, para justificar a decretação da prisão preventiva para garantir a ordem pública. O Juiz mencionou a "expressiva quantidade de drogas (mais de trinta quilos de maconha!)", a desobediência a "ordem de parada" (fl. 59) e a audácia dos suspeitos que "recentemente foram flagrados tripulando outro veículo com expressiva quantidade de drogas" (fl. 59). Assim, não se verifica a falta de motivação judicial e a defesa deverá pedir a revogação, a substituição ou o relaxamento da custódia ao Juízo Federal competente.
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
