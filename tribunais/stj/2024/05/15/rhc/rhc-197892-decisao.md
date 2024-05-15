@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por WESLEY TELES GUIMARES em face de acórdão assim ementado:
+EMENTA: HABEAS CORPUS - POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E DISPARO DE ARMA DE FOGO -EXCESSO DE PRAZO - INCORRÊNCIA - EXAME DE SANIDADE MENTAL PENDENTE - DILIGÊNCIA DEFENSIVA - DESÍDIA JUDICIAL NÃO VERIFICADA - PRINCÍPIO DA RAZOABILIDADE -AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - HABEAS CORPUS DENEGADO, COM RECOMENDAÇÃO.
+- Se a demora no encerramento do processo é justificada, porque decorrente dos trâmites referentes ao incidente de insanidade mental requisitado pela própria defesa, não há que se falar em revogação da prisão preventiva por excesso de prazo, especialmente considerando que o magistrado singular vem tomando as devidas providências para sua realização.
+Imputa-se ao recorrente a prática dos crimes de posse e disparo de arma de fogo (arts. 12 e 15, ambos da Lei 10.826/03).
+A defesa alega, em síntese, excesso de prazo na formação da culpa do recorrente, o qual estaria custodiado preventivamente há mais de cinco meses. Destaca que, embora tenha a defesa tenha requerido a instauração do incidente de insanidade mental do recorrente, a culpa pela demora da realização teria sido da perícia, mormente porque, até a data desta impetração, não teria havido a nomeação de expert para a confecção do exame técnico.
+Ao final, requer o provimento do recurso para que seja relaxada a prisão preventiva do recorrente, com ou sem a imposição de medidas cautelares alternativas.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fls. 126/127):
+Inicialmente, cumpre salientar que o excesso de prazo não é decorrente de mera soma aritmética, sendo imperiosa, em certas ocasiões, sua maior dilação em virtude das particularidades de cada caso concreto. Diante de tais considerações, é admissível que ocorra uma tolerância com os prazos, devendo a contagem ser realizada de forma global, atendendo-se, principalmente, ao critério de razoabilidade. Digo isso porque, conforme destacado pelo Juízo a quo, após a instauração do incidente insanidade mental requerido pela Defesa, foi expedida carta precatória para a sua realização na comarca de Uberlândia/MG, estandoo feito pendente apenas de nomeação de perito. Confira-se:
+ ..  Após o recebimento da denúncia, a defesa do paciente requereu a instauração de incidente de insanidade, sendo deferido por este juízo.
+Ocorre que o paciente se encontra recolhido na Comarca de Uberlândia/MG, sendo expedida carta precatória, distribuída sob o n. 5007316-33.2024.8.13.0702, para a realização do exame de sanidade/insanidade mental naquela comarca.
+Informo, na oportunidade, que após requerimento do Juízo de Uberlândia/MG, este magistrado nomeou perita atuante no juízo deprecado e aguarda a designação e realização do exame. ..  documento de ordem n. 11 -destacamos .
+Percebe-se que eventual demora no encerramento do feito decorre de situação gerada pela Defesa do acusado, o que faz incidir a Súmula n. 64 do STJ, que apregoa :"Não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa".
+Não obstante, tem-se que o juízo de origem vem tomando as providências devidas para imprimir celeridade à diligência defensiva, tendo determinado diversas nomeações de peritos para que o procedimento seja realizado o mais breve possível (ID"s 10211057616, 10212275943, 10212603518 e10215594287), não sendo possível vislumbrar, no caso, qualquer desídia judicial.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que os eventos processuais se desdobraram dentro de um cronograma razoável, dadas as circunstâncias do caso concreto, em que a defesa requereu instauração de insanidade mental, tendo havido a necessidade de expedição de carta precatória para a realização do exame. Além disso, destacou a Corte a quo que o Juízo de primeira instância tem determinado diversas nomeações de peritos para acelerar o procedimento.
+Assim, verifica-se que o processo vem seguindo seu trâmite regular, não havendo, pois, falar em desídia do Magistrado condutor do feito, o qual tem diligenciado no sentido de dar andamento ao processo. Dessa forma, não há falar em constrangimento a ser reparado na via eleita.
+Nesse sentido, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. RECOMENDAÇÃO N. 62/2020 DO CNJ. CARÁTER EXCEPCIONAL DA MEDIDA. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. Eventuais condições subjetivas favoráveis do paciente, por si sós, não obstam a prisão preventiva quando presentes os requisitos legais para sua decretação.
+3. Não há excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+4. A Recomendação n. 62/2020 do CNJ não prescreve a flexibilização da medida extrema da prisão de forma automática, sendo indispensável a demonstração do inequívoco enquadramento do paciente no grupo de vulneráveis à covid-19, da impossibilidade de receber tratamento médico na unidade carcerária em que se encontra e da exposição a maior risco de contaminação no estabelecimento prisional do que no ambiente social.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 743.225/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 8/8/2022).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
