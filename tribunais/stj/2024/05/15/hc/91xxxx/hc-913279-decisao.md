@@ -1,0 +1,8 @@
+DECISÃO
+RENATO DE SOUZA SILVA e KAREN MIREA MARTINS DE LIMA E SILVA alegam a ocorrência de manifesta ilegalidade na decisão proferida em habeas corpus impetrado perante o Tribunal de Justiça do Estado de Roraima, que concedeu a ordem para extinguir a punibilidade pela ocorrência da decadência prevista no art. 38 do CPP.
+Malgrado os impetrantes, então querelantes em ação penal privada, pretendam que a anulação do acórdão impugnado, não há com desvincular o fato de que esse pedido pressupõe, inexoravelmente, a modificação do julgado proferido em habeas corpus, o qual favorável ao então querelado e reconheceu a incidência do prazo decadencial, situação também impugnada nesta oportunidade.
+Contudo, a possibilidade de utilização da via mandamental substitutiva, a despeito das controvérsias existentes quanto a esse cabimento em substituição ao recurso próprio, lastreia-se na existência de acórdão denegatório de habeas corpus na origem, o qual deve ser impugnado por recurso ordinário. Vale dizer, não é cabível habeas corpus impetrado contra decisão que concede habeas corpus em favor de determinado acusado, com o objetivo de que seja retomado o curso de ação penal.
+Além do remédico constitucional ser um instrumento de uso restrito da defesa, é importante salientar que contra a decisão concessiva de habeas corpus proferida pelos Tribunais de Justiça ou pelos Tribunais Regionais Federais, cabe recurso especial (REsp) ao Superior Tribunal de Justiça e recurso extraordinário (RE) ao Supremo Tribunal Federal, conforme cada hipótese de cabimento já prevista constitucionalmente.
+À vista do exposto, por ser manifestamente incabível, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
