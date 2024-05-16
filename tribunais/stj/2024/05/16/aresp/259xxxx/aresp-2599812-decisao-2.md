@@ -1,0 +1,14 @@
+DECISÃO
+LINDOMAR NUNES DA ROSA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0023937-15.2009.8.24.0023/SC
+Nas razões do especial, o agravante alegou a violação dos arts. 619 do Código de Processo Penal, 8º, 72, II, 73, 291, 390, §§ 5º e 6º, 403, 418, 427, 433 e 431, todos do Código de Processo Penal Militar, e art. 1º da Lei n. 9.296/1996.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 8.851-8.853).
+Decido.
+No caso, o Tribunal de origem impediu o prosseguimento do recurso especial em razão dos seguintes óbices: a) art. 619 do CPP - Súmula n. 83 do STJ, b) arts. 8º e 427 do CPPM e art. 1º da Lei n. 9.296/1996 - Súmulas n. 7 e 83 do STJ, c) arts. 390, §§ 5º e 6º, 418, 403, 433 e 431, todos do CPPM - Súmulas n. 7 e 83 do STJ, d) art. 29 do CPPM - Súmulas n. 7 e 83 do STJ e e) arts. 72, II, e 73 do CPPM - Súmulas n. 211 do STJ e 282 do STF.
+Todavia, o recorrente, no agravo em exame, não refutou, de forma particularizada, os fundamentos acima referidos, o que atrai a incidência do art. 932, III, do CPC/2015 e a aplicação da Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Quanto à Súmula n. 7 do STJ, nas razões do agravo em recurso especial, o agravante se limitou a sustentar genericamente que a matéria seria apenas objeto de requalificação jurídica, sem explicitar, à luz do acórdão recorrido e da tese recursal trazida no especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso. Nesse sentido: AgRg no AREsp n. 1.965.463/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/10/2021, DJe de 4/11/2021.
+Para rebater a Súmula n. 83 do STJ, seria necessário indicar jurisprudência superveniente contrária à apresentada e demonstrar que outra é a orientação deste Superior Tribunal sobre o tema, o que não ocorreu. Nesse sentido: AgRg nos EDcl no AREsp n. 2.314.270/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.
+Por fim, a defesa não indicou como os arts. 72, II, e 73 do CPPM haveriam sido debatidos pelo Tribunal de origem, de modo a atacar a aplicação das Súmulas n. 211 do STJ e 282 do STF.
+À vista do exposto, com fundamento no art. 932, III, do Código de Processo Civil, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
