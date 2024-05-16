@@ -1,0 +1,373 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0704700-69.2024.8.07.0000AGRAVANTE(S)JOSE MAXIMILIANO SANTINAGRAVADO(S)BANCO DO BRASIL S/ARelatoraDesembargadora LEONOR AGUENA
+Relatora Designada Desembargadora ANA CANTARINO Acórdão Nº1864658
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO. SENTENÇA COLETIVA. CÉDULA DE CRÉDITO RURAL. COMPETÊNCIA TERRITORIAL RELATIVA. AJUIZAMENTO. LOCAL DA AGÊNCIA BANCÁRIA. FORO DO LOCAL DA SEDE DO BANCO DO BRASIL. CPC, ART. 53, III. EVOLUÇÃO DE ENTENDIMENTO. CRITÉRIO LEGAL. OBSERVÂNCIA. DECLÍNIO. IMPOSSIBILIDADE.
+
+1. O caso concreto versa sobre liquidação individual voltada ao cumprimento da sentença coletiva ajuizada apenas em desfavor do Banco do Brasil, instituição financeira que possui sede em Brasília e agências espalhadas em todo o território nacional.
+
+2. O artigo 53, III, ‘b’ e ‘d’, do CPC estabelece que, no caso de ação que versa sobre obrigação constituída por agência ou sucursal de pessoa jurídica, o foro competente seria o da agência ou sucursal onde a obrigação deva ser satisfeita. Porém, a alínea ‘a’ do mesmo inciso considera como domicílio da pessoa jurídica ré o local de sua sede.
+
+3. Apesar de as cédulas rurais indicadas na inicial terem sido pactuadas em agência do Banco do Brasil situada em outro Estado da Federação, o artigo 53, III, ‘a’, do CPC, estabelece que a pessoa jurídica pode ser demandada no foro de sua sede.
+
+4. Admite-se o ajuizamento de cumprimento individual de sentença coletiva movido em desfavor do BANCO DO BRASIL em Brasília/DF, local da sede da referida sociedade de economia mista, tendo em vista restar observado um dos critérios de competência territorial previstos em lei para propositura da demanda.
+
+5. O Superior Tribunal de Justiça, em recente decisão proferida no AREsp nº 2312077, ratificou o entendimento de que “para fins de promoção da liquidação e da execução individual de sentença genérica proferida em ação civil coletiva, cabe ao exequente escolher entre o foro em que a ação coletiva foi processada e julgada e o foro do seu domicílio”.
+
+6. Agravo de instrumento conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LEONOR AGUENA - Relatora, ANA CANTARINO - Relatora Designada e 1º Vogal e FÁBIO EDUARDO MARQUES - 2º Vogal, sob a Presidência do Senhor Desembargador FÁBIO EDUARDO MARQUES, em proferir a seguinte decisão: CONHECER. DAR PROVIMENTO AO AGRAVO DE INSTRUMENTO, MAIORIA. VENCIDA A RELATORA. REDIGIRÁ O ACÓRDÃO A 1ª VOGAL., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 24 de Maio de 2024
+
+Desembargadora ANA CANTARINORelatora Designada
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto por JOSE MAXIMILIANO SANTIN contra a decisão exarada pelo Juízo de Direito da 23ª Vara Cível de Brasília-DF, nos autos da Ação de Liquidação Individual Provisória de Sentença, Processo nº 0752466-52.2023.8.07.0001, proposta pelo agravante em desfavor do BANCO DO BRASIL S/A, que declarou a incompetência do Juízo para processar e julgar o feito em favor do Juízo Cível da Comarca de Nobres/MT (ID. 55679859, pp. 39/44).
+
+Inconformado, o requerente agravou da decisão.
+
+Afirma o agravante que ajuizou cumprimento provisório de sentença, visando executar a sentença proferida na Ação Civil Pública (nº 0008465- 28.1994.4.01.3400 que tramitou perante a 3ª Vara Federal da Seção Judiciária do Distrito Federal), que condenou “os réus, solidariamente, ao pagamento das diferenças apuradas entre o IPC de março de 1990 (84,32%) e o BTN fixado em idêntico período (41,28%), corrigidos monetariamente os valores a contar do pagamento a maior pelos índices aplicáveis aos débitos judiciais, acrescidos de juros de mora de 0,5% ao mês até a entrada em vigor do Código Civil de 2002 (11.01.2003), quando passarão para 1% ao mês, nos termos do artigo 406 do Código Civil de 2002”.
+
+Em suas razões recursais, a parte agravante fundamenta a escolha da Circunscrição Judiciária de Brasília-DF para ajuizamento da ação na regra inserta no artigo 53, inciso III, alínea “a”, do Código de Processo Civil, por se tratar do foro da sede do agravado. Defende, ainda, a existência de relação consumerista entre as partes, na qual o requerente/agravante, como consumidor, tem a faculdade de eleição do foro, uma vez que a competência de seu domicílio é relativa. Cita jurisprudências do e. TJDFT e do STJ acerca do tema, além do disposto na Súmula 33, também do c. STJ, que estabelece que “em ação proposta por consumidor, o juiz não pode declinar de ofício da competência territorial”.
+
+No mérito, requereu o provimento ao recurso para que a decisão seja reformada e que seja reconhecida a competência deste Tribunal para apreciação do feito.
+
+O preparo foi recolhido, ID. 55676655 e 55676658.
+
+O pedido de antecipação de tutela recursal foi indeferido, ID. 55849439.
+
+O Agravante interpôs Agravo Interno com pedido de retratação contra a decisão que indeferiu o pedido de antecipação de tutela recursal desta Relatoria, requerendo a reconsideração da decisão, ou, alternativamente, que agravo seja provido a fim de atribuir efeito suspensivo ao agravo de instrumento, ID. 56525427.
+
+O agravado, apesar de intimado, IDs. 55885351, 56524550 e 56534501, não apresentou contrarrazões aos agravos (IDs. 56757054 e 57451218).
+
+Os autos voltaram conclusos.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora LEONOR AGUENA - Relatora
+
+Presentes os pressupostos de admissibilidade, conheço dos recursos.
+
+Tendo em vista que o Agravo de Instrumento e o Agravo Interno estão aptos a serem julgados, passo a analisa-los conjuntamente.
+
+No presente caso, o ponto fulcral da controvérsia recursal restringe-se na análise do cabimento do declínio de competência da ação de liquidação individual de sentença coletiva movida em face do Banco do Brasil S.A., para o Juízo do foro de domicílio da parte autora, ora agravante.
+
+No mérito, não observo qualquer fato novo capaz de modificar o entendimento exposto por ocasião da apreciação e indeferimento do requerimento de concessão do efeito suspensivo ao agravo de instrumento, motivo pelo qual adoto, como razões de decidir, os fundamentos da decisão anteriormente proferida, que ora transcrevo (ID. 55849439):
+
+Trata-se de agravo de instrumento interposto por JOSE MAXIMILIANO SANTIN contra a decisão exarada pelo Juízo de Direito da 23ª Vara Cível de Brasília-DF, nos autos da Ação de Liquidação Individual Provisória de Sentença, Processo nº 0752466-52.2023.8.07.0001, proposta pelo agravante em desfavor do BANCO DO BRASIL S/A, que declarou a incompetência do Juízo para processar e julgar o feito nos seguintes termos:
+
+“Trata-se de pedido liquidação provisória e individual de sentença, derivado de ação coletiva, em que se deferiu aos agricultores que firmaram contratos com o banco requerido o direito de atualização do saldo devedor pelo índice de 41,28%, ao invés do índice de 84,32%, aplicado em março de 1990. E, em consequência, o saldo eventualmente pago a maior deveria ser devolvido a partir do efetivo desembolso, corrigido monetariamente e acrescido de juros.
+
+Após longo debate sobre o limite subjetivo da coisa julgada, inclusive com a determinação de suspensão de processos similares, a fim de se verificar se a sentença coletiva poderia beneficiar ou não os produtores rurais, ainda que não domiciliados no foro do prolator da referida sentença, firmou-se o entendimento de que e a eficácia da sentença seria erga omnes, ou seja, não poderia ser limitada geograficamente.
+
+Assim, a eficácia em utilibus da sentença coletiva alinha-se com a facilitação da defesa do consumidor, que deve repercutir no ajuizamento da liquidação da sentença no foro do domicílio do produtor rural (art. 101, I, do CDC) ou no foro do local da agência do banco réu, onde contraída a obrigação (art. 53, III, "b" e "d", do CPC), quando evidenciado que o consumidor renunciou à opção de demandar no foro de seu domicílio.
+
+O processamento da liquidação na sede do banco-requerido acaba por dificultar a defesa, na perspectiva de eventual deslocamento, e, indiretamente, encampa foro aleatório a transformar o TJDFT em tribunal de competência nacional, o que pode repercutir negativamente na prestação jurisdicional a outros jurisdicionados domiciliados no DF.
+
+Permito-me transcrever as razões do Des. Diaulas Costa Ribeiro em precedente que afastou a competência deste Juízo em caso semelhante ao dos autos:
+
+[...]17. Recentemente, o plenário do STF julgou o Tema nº 1075, afetado pela sistemática da repercussão geral. Por maioria, os Ministros declararam a inconstitucionalidade do art. 16 da Lei nº 7.347/1985, alterada pela Lei nº 9.494/1997, reforçando a proteção dos direitos coletivos.
+
+18. Decidiram que a coisa julgada formada no âmbito da ação civil pública é para todos ou ultra partes, de modo que os efeitos subjetivos abrangem todos os potenciais beneficiários.
+
+19. Esse julgamento beneficiou o autor/exequente, pois a ACP nº 94.0008514-1 foi julgada pela 3ª Vara Federal da Seção Judiciária do Distrito Federal, o autor/exequente mora em Querência/MT.
+
+20. Todos os processos envolvendo a ação civil pública coletiva nº 94.0008514-1, tanto os individuais quanto os coletivos, foram suspensos até que a deliberação pelo Plenário do STF.
+
+21. Como a questão foi resolvida, a liquidação provisória da decisão proferida na origem deve retomar o seu curso, observando-se o seguinte.
+
+22. A título de distinguishing (CPC, art. 489, §1º, VI), anoto que a Súmula 33 do STJ foi editada em outro contexto, há quase 30 anos, quando não havia processo judicial eletrônico, tampouco limitação de gastos orçamentários do Poder Judiciário da União. Além disso, não se admite, com base nessa Súmula, a competência sem critérios, como disse, aleatória.
+
+23. Como consequência da Internet e das tecnologias por ela viabilizadas, a noção de território físico, no processo, desapareceu, foi liquefeita. Tudo foi integrado.
+
+24. O Banco do Brasil possui agências bem estruturadas em todo o território nacional, o que autoriza o ajuizamento da ação no foro de residência do consumidor ou da agência onde contratou o empréstimo.
+
+25. A possibilidade de o consumidor demandar em seu domicílio tem o intuito de facilitar o acesso à justiça, na medida em que aproxima do Poder Judiciário a análise da controvérsia, permitindo a observação de eventuais particularidades, que, muitas vezes, são inerentes a determinadas regiões, para oportunizar a solução mais adequada ao caso concreto.
+
+26. A partir de estudos feitos pelo Conselho Nacional de Justiça (CNJ), as custas processuais cobradas no Distrito Federal representam um dos valores mais baixos no Brasil, configurando a menor taxa judiciária do território nacional.
+
+27. Por oportuno, confira-se o seguinte excerto da pesquisa realizada pelo CNJ sobre a taxa judiciária:
+
+“No Gráfico 6, que traz os valores médios das custas nas unidades da federação (tomando a média dos valores verificados para as causas de R$ 2.000,00, R$ 20.000,00, R$ 50.000,00 e R$ 100.000,00) observa-se que Distrito Federal, São Paulo e Santa Catarina mostram-se como os Estados que adotam valores mais baixos para as custas e taxas judiciárias. Por outro lado, Paraíba e Piauí adotam os valores mais elevados, que destoam inclusive dos valores médios praticados em vários outros estados. Distrito Federal, Santa Catarina, São Paulo e Rio Grande do Norte (destacados em verde) praticam valores médios abaixo de R$ 500,00. No Piauí e na Paraíba (destacados em vermelho) as custas médias são bastante discrepantes em relação aos demais estados (acima de R$ 2.000,00). O Maranhão aparece na terceira posição entre as custas mais altas, com custas médias em torno de R$ 1.300,00” [Fonte: CNJ Notícias. Regulamentação de custas judiciais entra em consulta pública. Acesso em 2/9/2020, às 13h35].
+
+28. Essa questão, todavia, não pode servir como parâmetro para nortear a distribuição de processos a este Tribunal, o que prejudicará a prestação jurisdicional e dificultará a administração da Justiça, cuja quantidade de Servidores, Juízes e Desembargadores observa preceitos da Lei de Organização Judiciária local, considerando estatísticas que incluem números de habitantes das regiões administrativas e não em amplitude nacional.
+
+29. Este Tribunal de Justiça é o único Tribunal com competência estadual sujeito à Emenda Constitucional nº 95, de 15 de dezembro de 2016, conhecida como Emenda Constitucional do Teto dos Gastos Públicos. Mesmo mantido pela União, esta Corte não pode desconsiderar sua condição de tribunal local, projetado e dimensionado para uma população de cerca de três milhões de habitantes.
+
+30. Entretanto, está sendo transformado em Tribunal Nacional graças às facilidades do processo judicial eletrônico e à rapidez na sua prestação jurisdicional, o que justificou o "Selo Diamante" outorgado do CNJ. Esse mérito está comprometido pela enormidade de ações como esta, que vieram à sua distribuição por critérios absolutamente aleatórios, prejudicando a prestação jurisdicional devida aos cidadãos locais.
+
+31. Se a propositura desta ação custasse o preço do deslocamento físico, não seria assim. Mas, como não custa quase nada, além de tudo nossas custas são ínfimas, propõe-se uma ação municipal a centenas de quilômetros de distância. De uma forma hábil buscam-se meios processuais para escolher o Juiz aleatoriamente, afastando-se dos Juízes locais, o que é inadmissível e inconstitucional.
+
+32. Acrescento que em 2016 (não encontramos números mais recentes) o Banco do Brasil tinha 63 milhões de clientes; em termos relativos, se todos resolvessem demandá-lo na Justiça do Distrito Federal este Tribunal deveria ser, só na segunda instância, maior do que o Tribunal de Justiça do Estado de São Paulo – dimensionado para atender a população de aproximadamente 44 milhões de habitantes –, que tem 360 Desembargadores. O fato de o Banco do Brasil ter sede no Distrito Federal não sustenta a competência aleatória em casos como este. A lei não instituiu apenas a “sede” como critério de competência.
+
+33. O agravante reside noutra cidade e o agravado dispõe de agências na localidade, inclusive aquela onde foi celebrado o contrato de empréstimo; para preservar a finalidade da norma, cuja pretensão, reitere-se, é facilitar o acesso do consumidor ao Poder Judiciário, o processo deverá ser remetido ao Juízo de domicílio dos consumidores.
+
+34. No mesmo sentido, confiro precedente do STJ:
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. DOMICÍLIO DO CONSUMIDOR. COMPETÊNCIA ABSOLUTA. PRECEDENTES. IMPROVIMENTO. 1. Claro no acórdão recorrido que se trata de relação de consumo. Dessa forma, conforme jurisprudência recente desta Corte, a competência é absoluta e deve ser fixada no domicílio do consumidor. 2. Agravo regimental a que se nega provimento. (AgRg no AREsp 687.562/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/05/2015, DJe 01/06/2015)” [grifo na transcrição].
+
+35. E também deste Tribunal:
+
+“AGRAVO DE INSTRUMENTO. DECLÍNIO DE COMPETÊNCIA DE OFÍCIO. RELAÇÃO DE CONSUMO. COMPETÊNCIA ABSOLUTA DO JUÍZO. DECISÃO MANTIDA. 1. Via de regra, sendo os critérios de ordem territorial de competência relativa, estes não podem ser declarados de ofício, conforme preceitua a Súmula 33 do Colendo Superior Tribunal de Justiça: Súmula nº 33 - A incompetência relativa não pode ser declarada de ofício. No entanto, a jurisprudência dominante do Superior Tribunal de Justiça é no sentido de que, "em se tratando de relação de consumo, a competência é absoluta, razão pela qual pode ser conhecida até mesmo de ofício e deve ser fixada no domicílio do consumidor" (AgRg no CC 127.626/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/06/2013, DJe 17/06/2013). Nesse mesmo sentido: AgInt nos EDcl no CC 132.505/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 23/11/2016, DJe 28/11/2016. 2. Agravo de Instrumento conhecido e não provido. (Acórdão 1272790, 07092651820208070000, Relator: EUSTÁQUIO DE CASTRO, 8ª Turma Cível, data de julgamento: 5/8/2020, publicado no DJE: 19/8/2020. Pág.: Sem Página Cadastrada.)” [grifo na transcrição]
+
+36. Pablo Neruda, poeta chileno, laureado com o Prêmio Nobel de Literatura em 1971 e um dos mais importantes poetas da língua castelhana, em seu poema Integrações, fala exatamente disso: “[...] Perto de mim com teus hábitos, teu colorido e tua guitarra, como estão juntos os países, nas lições escolares, e duas comarcas se confundem, e há um rio perto de um rio, e crescem juntos dois vulcões”.
+
+37. Com o PJe e os julgamentos telepresenciais, tudo ficou perto. A noção de território físico desapareceu, foi digitalizada. Mas ainda é preciso controlar a competência sob pena de total desconstrução do conceito de Juiz Natural e de desorganização judiciária, sobrecarregando ou esvaziando Tribunais e Juízos em geral. [...] (Trecho da decisão do Relator, Agravo Interno ao Agravo de Instrumento n. 0728014-83.2020.8.07.0000, 8ª. Turma Cível, decisão proferida em 19/04/2021)
+
+Ainda que se considere que o caso não verse sobre relação de consumo (como entende parte da jurisprudência), também cabível a declinação da competência de ofício, pois a competência é do lugar onde a pessoa jurídica contraiu, de fato, as suas obrigações. Embora relativa, a competência territorial deve observar os critérios legais dispostos nas normas processuais, ou seja, o autor deve ajuizar a ação em um dos locais previstos expressamente na lei para a resolução da controvérsia, não podendo escolher aleatoriamente qualquer Foro, como ocorreu no presente caso. A lei prevê, para a hipótese dos autos, que a ação deve tramitar no Foro do lugar onde se acha a agência ou sucursal, quanto às obrigações que a pessoa jurídica contraiu, conforme art. 53, III, “b”, do CPC.
+
+A Súmula 33 do STJ ("A incompetência relativa não pode ser declarada de ofício") somente se mostra aplicável quando a competência territorial definida pelo autor da ação obedece a um dos critérios legais. O autor deve respeitar os limites legais a fim de não macular o sistema de organização judiciária estabelecido para ofertar serviços jurisdicionais céleres e de qualidade.
+
+Quando há escolha aleatória e injustificada de foro, o interesse público se faz presente, o que autoriza o excepcional declínio de ofício mesmo diante de caso de competência relativa.
+
+Nesse sentido é a jurisprudência verificada no âmbito das 3ª, 4ª, 5ª e 8ª Turma Cíveis deste Egrégio Tribunal de Justiça:
+
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. COMPETÊNCIA. SENTENÇA PROFERIDA PELA JUSTIÇA FEDERAL. COMPETÊNCIA. FORO DA AGENCIA OU SUCURSAL ONDE FOI FIRMADO O CONTRATO. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. DECLARAÇÃO DE INCOMPETÊNCIA TERRITORIAL. POSSIBILIDADE. NEGADO PROVIMENTO AO AGRAVO. 1. Conforme previsão do art.53, inciso III, alínea "b", do Código de Processo Civil, o foro competente para processar o feito executório de ação coletiva fundamentada em cédula rural é aquele do lugar onde a pessoa jurídica contraiu, de fato, as suas obrigações, uma vez que a instituição financeira agravada possui agência ou sucursal no referido local, onde se obrigou. 2. A operação decorrente da emissão de cédula de crédito rural não configura relação de consumo, ao passo que o contratante não se trata de destinatário final, conforme previsão do art. 2º do Código de Defesa do Consumidor. 3. Inexistindo relação de consumo, não cabe ao exequente/agravante a escolha do foro, devendo ser aplicada a regra prevista no art. 53, inciso III, alínea "b", do Código de Processo Civil ao caso concreto. 4. Foi negado provimento ao recurso. (Acórdão 1387762, 07259498120218070000, Relator: ANA MARIA FERREIRA DA SILVA, 3ª Turma Cível, data de julgamento: 18/11/2021, publicado no DJE: 2/12/2021).
+
+Agravo de instrumento. Liquidação de sentença. Cédula de Crédito Rural. CDC. Inaplicabilidade. Competência.   A contratação de empréstimo bancário para fomentar atividade empresarial rural não configura relação de consumo, o que atrai a competência do foro da agência bancária para as obrigações decorrentes do contrato que firmou  - CPC 53, III, "b".  (Acórdão 1397844, 07218844320218070000, Relator: FERNANDO HABIBE, 4ª Turma Cível, data de julgamento: 3/2/2022, publicado no DJE: 18/2/2022).
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. BANCO DO BRASIL S/A. CÉDULA DE CRÉDITO RURAL. COMPETÊNCIA TERRITORIAL RELATIVA. AJUIZAMENTO. LOCAL DA AGÊNCIA BANCÁRIA. CPC, ART. 53, III, b e d. ESCOLHA ALEATÓRIA DE FORO. NÃO ENQUADRAMENTO EM CRITÉRIOS LEGAIS. DECLÍNIO. POSSIBILIDADE. SÚMULA 33, STJ. INAPLICABILIDADE. 1. A ação que versa sobre contrato bancário deve ser ajuizada no foro da agência onde pactuado o negócio jurídico, e não na sede da instituição. 2. O CPC estabelece expressamente, no artigo 53, III, alíneas b e d, que, em se tratando de ação que discute obrigações contraídas em determinada agência da pessoa jurídica, o foro competente é o do local da agência. 3. A Súmula 33 do STJ ("A incompetência relativa não pode ser declarada de ofício") somente se mostra aplicável quando a competência territorial definida pelo autor da ação obedece a um dos critérios legais. 4. O enunciado da Súmula em questão não pode ser invocado indiscriminadamente para subsidiar o ajuizamento de demandas com escolha aleatória de foro, como ocorre no caso em comento, em que a opção pelo foro do DF não obedece a critério legal de fixação da competência territorial. 5. O Magistrado pode declinar da competência territorial, mesmo de ofício, e, principalmente quando fora objeto de questionamento da parte ré, quando verificar que o foro escolhido pelo autor não se vincula a nenhum dos critérios legais de fixação da competência territorial. 6. Agravo de instrumento conhecido e não provido. (Acórdão 1380403, 07263759320218070000, Relator: ANA CANTARINO, 5ª Turma Cível, data de julgamento: 20/10/2021, publicado no DJE: 4/11/2021).
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. BANCO DO BRASIL S/A. CÉDULA DE CRÉDITO RURAL. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. PROPOSITURA EM FORO ALEATÓRIO E INJUSTIFICADO. DECLÍNIO DE OFÍCIO. INTERESSE PÚBLICO. POSSIBILIDADE. 1.O foro competente para julgar ações que versem sobre contrato bancário é o do local da agência onde foi pactuado o negócio jurídico, e não na sede da instituição. 2. À exceção da segunda parte do artigo 46, parágrafo 3º, do Código de Processo Civil, a escolha do local para propositura da ação não deve se dar ao acaso, sob pena de violação às normas gerais de competência e, em última instância, ao Princípio do Juízo Natural. 3. Muito embora a eleição de foro seja guiada pela flexibilidade própria às demandas regidas pela competência territorial, o autor deve respeitar os limites legais a fim de não macular, dessa forma, o sistema de organização judiciária formulado no intuito de sopesar as distribuições e, assim, ofertar serviços jurisdicionais céleres e de qualidade. 4. Diante da escolha aleatória e injustificada de foro, o interesse público se faz presente, justificando, assim, o excepcional declínio de ofício mesmo diante de caso de competência relativa. 5. Agravo de instrumento conhecido e não provido (Acórdão 1402236, 07361434320218070000, Relator: EUSTÁQUIO DE CASTRO, 8ª Turma Cível, data de julgamento: 17/2/2022, publicado no DJE: 4/3/2022).
+
+Na hipótese dos autos, a parte autora é domiciliada em Nova Mutum/MT, mas o contrato foi celebrado na Comarca de Nobres/MT (ID 182624542), o que impõe o processamento da liquidação na referida Comarca, já que o autor tacitamente renunciou à faculdade de demandar em seu domicílio. Prevalece, portanto, o foro da agência contratante.
+
+Ademais, o Juízo competente poderá eventualmente requisitar o documento original ao cartório e verificar eventual desídia da agência do banco-requerido, onde eventualmente requisitados os documentos complementares, tudo de modo a prospectar a necessidade de eventual prova pericial para perquirir saldo credor ou não em favor da parte requerente, firmando-se, assim, a competência do Juízo Cível da Comarca supracitada, ou seja, do lugar onde contraído o financiamento, nos termos do artigo 53, inciso III, alíneas “b” e “d”, do CPC.
+
+Ante o exposto, DECLINO DA COMPETÊNCIA em favor do Juízo Cível da Comarca de Nobres/MT.
+
+Preclusa esta decisão, remetam-se os autos ao Juízo competente, com as nossas homenagens.
+
+Publique-se. Intimem-se.”. (ID. 55679859, pp. 39/44) - grifos no original
+
+(...)
+
+O agravante ajuizou ação pleiteando a produção antecipada de provas em face do Banco do Brasil S/A, com base na sentença coletiva exarada nos autos de ação civil pública nº 0008465-28.1994.4.01.3400, na qual foi reconhecido aos titulares de cédulas de crédito rural, vigentes em março de 1990, lastreadas com recursos da caderneta de poupança, o direito à correção pelo BTN de 41,28% (quarenta e um vírgula vinte e oito por cento) em substituição ao índice de 84,32% (oitenta e quatro vírgula trinta e dois por cento - IPC) aplicado pelo réu/agravado, requerendo que o réu/agravado fosse intimado a juntar documentos e prestar informações a fim de lastrear a liquidação provisória de sentença.
+
+No que concerne à fixação da competência, o Código de Processo Civil, em seu artigo 53, inciso III, alíneas "b" e "d", estabelece regra específica no sentido de que em se tratando de ação que discute obrigações contraídas em determinada agência da pessoa jurídica, o foro competente para análise da questão é o do local da agência.
+
+Art. 53. É competente o foro:
+
+(...)
+
+III - do lugar:
+
+b) onde se acha agência ou sucursal, quanto às obrigações que a pessoa jurídica contraiu;
+
+(...)
+
+d) onde a obrigação deve ser satisfeita, para a ação em que se lhe exigir o cumprimento; (grifo nosso)
+
+No presente caso, a parte autora/agravante não reside no Distrito Federal, mas sim em Nova Mutum/MT (ID. 182624540, dos autos originários), e a cédula de crédito rural em questão foi firmada em agência situada em localidade próxima (Nobres/MT) e registrada no Registro de Imóveis e de Títulos e Documentos, da Comarca de Rosário Oeste/MT, conforme documentos acostados aos autos do processo originário (IDs. 182624542 e 182627545, daqueles autos).
+
+Saliente-se que o agravante tem domicílio em outra unidade da federação e o negócio jurídico firmado entre as partes não foi realizado no Distrito Federal. Analisando o objeto da lide, verifica-se que o negócio realizado entre as partes tem natureza civil e não consumerista, uma vez que ao firmar contrato de cédula de crédito rural, com o objetivo de desenvolver sua atividade econômica, o agravante não se torna o destinatário final da operação financeira, o que afasta a incidência do Código de Defesa do Consumidor.
+
+Precedente:
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA. DEMANDA FUNDAMENTADA EM CÉDULA DE CRÉDITO RURAL. DIFERENÇA DE EXPURGO INFLACIONÁRIO DE CORREÇÃO MONETÁRIA. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. DEMANDA PROPOSTA NO FORO DA SEDE DA INSTITUIÇÃO FINANCEIRA EXECUTADA. COMPETÊNCIA TERRITORIAL. ESCOLHA ALEATÓRIA DO FORO. DECLINAÇÃO DA COMPETÊNCIA. INTERESSE PÚBLICO. CABIMENTO. 1. O Código de Defesa do Consumidor não é aplicável à liquidação provisória de sentença que tem por objeto cédulas de crédito rural, porquanto os valores disponibilizados na operação financeira devem ser empregados como insumo para o desenvolvimento de atividades rurais, de modo que, nesta hipótese, o mutuário não figura como destinatário final da operação financeira. 2. De acordo com o artigo 53, inciso III, alíneas "b" e "d" do Código de Processo Civil, é competente o foro do lugar onde se acha agência ou sucursal, quanto às obrigações que a pessoa jurídica contraiu; onde a obrigação deve ser satisfeita, para a ação em que se lhe exigir o cumprimento. 2.1. Nos termos do artigo 139 do Código de Processo Civil, incumbe ao Magistrado dirigir o processo e zelar pela correta e efetiva prestação jurisdicional, impedindo a escolha aleatória de foro, que onera não só o juízo, como todo o Tribunal e a coletividade de jurisdicionados. 2.2. A escolha aleatória de foro, onera sobremodo o Tribunal de Justiça do Distrito Federal e dos Territórios, uma vez que tem a aptidão de tornar morosa a prestação jurisdicional pelo assoberbamento de ações a serem examinadas. 3. Observado que as dívidas objeto das cédulas de crédito rural foram contraídas por pessoas que residem em outra unidade da federação, e o negócio jurídico foi realizado em agência do Banco do Brasil S/A próxima à cidade em que residem os autores, tem-se por cabível o reconhecimento da incompetência da Justiça do Distrito Federal para processar e julgar liquidação de sentença. 4. Agravo de instrumento conhecido e não provido. (Acórdão 1754143, 07278606020238070000, Relator: CARMEN BITTENCOURT, 8ª Turma Cível, data de julgamento: 5/9/2023, publicado no PJe: 18/9/2023. Pág.: Sem Página Cadastrada.) - grifo nosso.
+
+Sendo assim, considerando que o autor/agravante, o contrato e a agência bancária onde o negócio jurídico foi celebrado não têm qualquer vínculo com o Distrito Federal, a regra de competência específica deve prevalecer, configurando, pois, escolha aleatória, a pretensão de se ajuizar a demanda no foro da sede do Banco do Brasil, ora agravado.
+
+É importante salientar que o enunciado da Súmula nº 33 do colendo Superior Tribunal de Justiça não pode ser invocado de forma indiscriminada com o intuito de subsidiar o ajuizamento de demandas com escolha aleatória de foro, como ocorre no caso em comento, em que a opção pelo foro do Distrito Federal não obedece a qualquer critério legal de fixação da competência territorial.
+
+Neste sentido é o entendimento do colendo Superior Tribunal de Justiça, conforme o precedente:
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE. 1. Admissível o agravo, apesar de não infirmar a totalidade da decisão embargada, pois a jurisprudência do STJ é assente no sentido de que a impugnação de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas. 2. "A competência territorial, em se tratando de relação consumerista, é absoluta. Se a autoria do feito pertence ao consumidor, cabe a ele ajuizar a demanda no local em que melhor possa deduzir sua defesa, escolhendo entre seu foro de domicílio, no de domicílio do réu, no do local de cumprimento da obrigação, ou no foro de eleição contratual, caso exista. Inadmissível, todavia, a escolha aleatória de foro sem justificativa plausível e pormenorizadamente demonstrada. Precedentes". (AgRg no AREsp 391.555/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/4/2015, DJe 20/4/2015). 3. Agravo interno desprovido.” (AgInt no AREsp 967.020/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/08/2018, DJe 20/08/2018) - grifo nosso.
+
+No mesmo sentido são os precedentes do e. TJDFT:
+
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. COMPETÊNCIA TERRITORIAL.  CÉDULA DE CRÉDITO RURAL. POLO PASSIVO. PESSOA JURÍDICA DE DIREITO PRIVADO. NEGÓCIO JURÍDICO CELEBRADO EM LOCALIDADE COM AGÊNCIA DA INSTITUIÇÃO BANCÁRIA. AJUIZAMENTO DE AÇÃO NA SEDE DA EMPRESA. IMPOSSIBILIDADE. APLICAÇÃO DO ART. 53, III, "b", DO CPC. SÚMULA N. 33/STJ INAPLICABILIDADE. DECISÃO NÃO ALTERADA. 1. Em ação pessoal que tenha como réu pessoa jurídica de direito privado com agência ou sucursal na residência e domicílio do consumidor, o foro competente é o do lugar onde se acham aquelas (art. 53, inciso III, "b", do CPC) e não o da sua sede (art. 53, inciso III, "a", do CPC). 2. O domicílio da pessoa jurídica, para fins processuais, no que concerne às obrigações contraídas em localidade diferente da sede, é o lugar onde se acha agência ou sucursal, em que assinado o contrato. Isso porque, tendo a pessoa jurídica diversos estabelecimentos, em lugares diferentes, cada um deles será considerado domicílio para os atos nele praticados (art. 75, §1º, do Código Civil). 3. O enunciado da Súmula n. 33/STJ não pode ser utilizado para amparar o ajuizamento de demandas com escolha aleatória de foro, em que a opção pelo foro do DF não obedece a critério legal de fixação da competência territorial. 4. AGRAVO CONHECIDO E NÃO PROVIDO.
+
+(Acórdão 1785379, 07372825920238070000, Relator: JOSE FIRMO REIS SOUB, 8ª Turma Cível, data de julgamento: 14/11/2023, publicado no DJE: 28/11/2023. Pág.: Sem Página Cadastrada.) - grifo nosso.
+
+AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. PRECLUSÃO LÓGICA. DIREITO PROCESSUAL CIVIL. BANCO DO BRASIL S/A. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. PROPOSITURA EM FORO ALEATÓRIO E INJUSTIFICADO. DECLÍNIO DE OFÍCIO. INTERESSE PÚBLICO. POSSIBILIDADE. DECISÃO MANTIDA. 1. O recolhimento do preparo recursal obsta a concessão da Gratuidade Judiciária, porquanto consiste em ato incompatível com o referido benefício, a demonstrar a possibilidade de o recorrente arcar com as custas e despesas do processo. 2. O foro competente para julgar ações que versem sobre contrato bancário é o do local da agência onde foi pactuado o negócio jurídico, e não na sede da instituição. 3. À exceção da segunda parte do artigo 46, parágrafo 3º, do Código de Processo Civil, a escolha do local para propositura da ação não deve se dar ao acaso, sob pena de violação às normas gerais de competência e, em última instância, ao Princípio do Juízo Natural. 4. Muito embora a eleição de foro seja guiada pela flexibilidade própria às demandas regidas pela competência territorial, o autor deve respeitar os limites legais a fim de não macular, dessa forma, o sistema de organização judiciária formulado no intuito de sopesar as distribuições e, assim, ofertar serviços jurisdicionais céleres e de qualidade. 5. Diante da escolha aleatória e injustificada de foro, o interesse público se faz presente, justificando, assim, o excepcional declínio de ofício mesmo diante de caso de competência relativa. 6. Agravo de Instrumento conhecido e não provido. (Acórdão 1437422, 07119762520228070000, Relator: ARQUIBALDO CARNEIRO PORTELA, Relator Designado: EUSTÁQUIO DE CASTRO 8ª Turma Cível, data de julgamento: 12/7/2022, publicado no DJE: 25/7/2022. Pág.: Sem Página Cadastrada) - grifo nosso.
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. BANCO DO BRASIL S/A. CÉDULA DE CRÉDITO RURAL. COMPETÊNCIA TERRITORIAL RELATIVA. AJUIZAMENTO. LOCAL DA AGÊNCIA BANCÁRIA. CPC, ART. 53, III, b e d. ESCOLHA ALEATÓRIA DE FORO. NÃO ENQUADRAMENTO EM CRITÉRIOS LEGAIS. DECLÍNIO. POSSIBILIDADE. SÚMULA 33, STJ. INAPLICABILIDADE. 1. A ação que versa sobre contrato bancário deve ser ajuizada no foro da agência onde pactuado o negócio jurídico, e não na sede da instituição. 2. O CPC estabelece expressamente, no artigo 53, III, alíneas b e d, que, em se tratando de ação que discute obrigações contraídas em determinada agência da pessoa jurídica, o foro competente é o do local da agência. 3. A Súmula 33 do STJ ("A incompetência relativa não pode ser declarada de ofício") somente se mostra aplicável quando a competência territorial definida pelo autor da ação obedece a um dos critérios legais. 4. O enunciado da Súmula em questão não pode ser invocado indiscriminadamente para subsidiar o ajuizamento de demandas com escolha aleatória de foro, como ocorre no caso em comento, em que a opção pelo foro do DF não obedece a critério legal de fixação da competência territorial. 5. O Magistrado pode declinar da competência territorial, mesmo de ofício, e, principalmente quando fora objeto de questionamento da parte ré, quando verificar que o foro escolhido pelo autor não se vincula a nenhum dos critérios legais de fixação da competência territorial. 6. Agravo de instrumento conhecido e não provido.
+
+(Acórdão 1380403, 07263759320218070000, Relator: ANA CANTARINO, 5ª Turma Cível, data de julgamento: 20/10/2021, publicado no DJE: 4/11/2021. Pág.: Sem Página Cadastrada.) - grifo nosso.
+
+Saliente-se, por fim, que, conforme a disposição do artigo 139 do Código de Processo Civil, incumbe ao Magistrado o poder de dirigir o processo e de zelar pela correta e efetiva prestação jurisdicional, o que inclui, ainda, velar e observar pela proporcionalidade e razoabilidade ao aplicar o ordenamento jurídico. Isso, inclusive, nas questões atinentes à fixação da competência jurisdicional, no intuito de não assoberbar o sistema de organização judiciária impondo, como no caso à Justiça do Distrito Federal, o processamento e julgamento de expressivo volume de ações semelhantes em razão tão somente do foro da sede da pessoa jurídica se situar nesta capital, prejudicando a oferta de serviços jurisdicionais céleres e de qualidade aos jurisdicionados locais.
+
+Nesse sentido, destaca-se a jurisprudência deste eg. Tribunal:
+
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA COLETIVA. AÇÃO DE LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA. CONTRATO DE CÉDULA RURAL. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. COMPETÊNCIA TERRITORIAL. DOMICÍLIO DO RÉU. LUGAR DA AGÊNCIA OU SUCURSAL DA PESSOA JURÍDICA. DECLÍNIO DE OFÍCIO. POSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO. 1. O vínculo contratual entre as partes se origina de cédula de crédito rural, na qual os valores disponibilizados, obrigatoriamente, devem ser empregados como insumo para o desenvolvimento de atividades rurais. Em consequência, o mutuário não pode ser classificado como destinatário final, ou consumidor, da operação financeira. 2. É competente o foro do local onde se encontra a agência ou sucursal, quando o caso versar sobre obrigações que a pessoa jurídica contraiu (art. 53, inciso III, alínea 'b', do Código de Processo Civil), que prevalece sobre o foro do local da sede da pessoa jurídica. 2.1. Cada agência bancária do Banco do Brasil S. A. é considerada domicílio para os atos nela praticados (art. 75, § 1º, do Código Civil). 3. No caso, o autor reside na cidade de Luís Eduardo Magalhães/BA e o negócio jurídico foi praticado na sucursal do Banco do Brasil S.A. existente na cidade de Barreiras/BA. 3.1. O processamento da ação originária no lugar da agência ou sucursal que firmou o contrato facilitará aos interesses das partes na obtenção das provas. 4. O art. 8º do Código de Processo Civil impõe ao magistrado atender aos fins sociais, às exigências do bem comum e observar a proporcionalidade e razoabilidade ao aplicar o ordenamento jurídico, a incluir as questões atinentes à fixação da competência jurisdicional. 4.1. Não é razoável reconhecer a competência da Justiça do Distrito Federal para processar e julgar o expressivo volume de ações semelhantes, em razão tão somente do foro da sede da pessoa jurídica se situar nesta capital, o que resultaria na atração de volume considerável de demandas, em flagrante desproporção à quantidade de julgadores desta Corte de Justiça. 4. 2. Evidenciada a escolha aleatória e abusiva de foro, sem amparo normativo adequado, em preterição ao juiz natural, o que permite o distinguishing para afastar a aplicação da Súmula 33/STJ, diante dos fundamentos e ratio decidendi diversos do aludido precedente. 5. Recurso conhecido e desprovido.
+
+(Acórdão 1783054, 07361982320238070000, Relator: CARLOS PIRES SOARES NETO, 1ª Turma Cível, data de julgamento: 8/11/2023, publicado no PJe: 20/11/2023. Pág.: Sem Página Cadastrada.) - grifo nosso.
+
+AGRAVO DE INSTRUMENTO.EXECUÇÃO INDIVIDUAL PROVISÓRIA DE AÇÃO COLETIVA. BANCO DO BRASIL. COMPETÊNCIA RELATIVA. PROPOSITURA. FORO. SEDE. RAZOABILIDADE. AUSÊNCIA. DOMICÍLIO DO AUTOR E DA CELEBRAÇÃO DO CONTRATO. DECLÍNIO DA COMPETÊNCIA. POSSIBILIDADE. RECURSO NÃO PROVIDO. 1. No caso, embora a parte agravante fundamente a escolha deste foro com base na sede do Banco do Brasil, inexiste correlação do ponto de vista probatório e técnico e o local onde a instituição financeira mantém sua administração, apta a afastar a competência do foro do domicílio do autor ou do estabelecimento/filial respectivo da Sociedade de Economia Mista, na qual foi celebrado o contrato entabulado entre as partes. 2. Uma interpretação lógico-sistemática do Ordenamento Jurídico, em conformidade com o espírito do Código de Processo Civil de 2015, o qual possui cláusula autorizativa aberta (artigo 8º), permite ao Juiz a aplicação das normas observando-se a razoabilidade e proporcionalidade. 3. Não é razoável fixar a competência da Justiça do Distrito Federal para processar e julgar todas as ações de Liquidação de Sentença de Ação Coletiva propostas contra o Banco do Brasil, ao simples fundamento de se tratar de foro de sua sede, considerando que a instituição financeira possui agências bancárias na quase totalidade dos municípios do País, bem como sobrecarga e aumento dos custos à Justiça do Distrito Federal. 4. Em que pese tratar-se de competência relativa, o foro competente para o processamento e julgamento da Execução Provisória da Sentença Coletiva é o do local onde domiciliado o exequente e celebrado o contrato bancário objeto da liquidação. 5. Agravo de Instrumento conhecido e não provido.
+
+(Acórdão 1722313, 07029238320238070000, Relator: EUSTÁQUIO DE CASTRO, 8ª Turma Cível, data de julgamento: 27/6/2023, publicado no DJE: 7/7/2023. Pág.: Sem Página Cadastrada.) - grifo nosso.
+
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA COLETIVA. AJUIZAMENTO DA AÇÃO. CONTRATO DE CÉDULA RURAL. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. COMPETÊNCIA TERRITORIAL. DOMICÍLIO DO RÉU. LUGAR DA AGÊNCIA OU SUCURSAL DA PESSOA JURÍDICA. DECLÍNIO DE OFÍCIO. POSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO. 1. O vínculo contratual entre as partes se origina de cédula de crédito rural, na qual os valores disponibilizados, obrigatoriamente, devem ser empregados como insumo para o desenvolvimento de atividades rurais. Em consequência, o mutuário não pode ser classificado como destinatário final da operação financeira, isto é, consumidor. Por isso, a demanda não envolve relação de consumo. 2. O art. 53, inciso III, alínea 'b', do Código de Processo Civil estipula ser competente o foro do local onde se encontra a agência ou sucursal, ao se tratar de obrigações que a pessoa jurídica contraiu, o qual prevalece sobre o local da sede da pessoa jurídica agravada. 2.1. Ciente de que o réu, Banco do Brasil S. A., possui agências bancárias em praticamente todos os municípios do país, cada uma delas é considerada domicílio para os atos nela praticados (art. 75, § 1º, do Código Civil). No caso, a pretensão tem como objeto cédula rural pignoratícia contratada na mesma localidade onde residem as agravantes - Rio Verde/GO -, estando configurado o abuso do direito da parte para postular a ação nesta Corte de Justiça. 2.1. Ademais, o processamento da ação no lugar onde se acha a agência ou sucursal em que foi firmado o contrato entre as partes facilitará aos interesses de ambas, bem como a obtenção de provas. 3. O art. 8º do Código de Processo Civil impõe ao magistrado atender aos fins sociais, às exigências do bem comum, bem como observar a proporcionalidade e razoabilidade ao aplicar o ordenamento jurídico, a incluir as questões atinentes à fixação da competência jurisdicional. 3.1. Não é razoável reconhecer a competência da Justiça do Distrito Federal para processar e julgar o expressivo volume de ações semelhantes, em razão tão somente do foro da sede da pessoa jurídica se situar nesta capital. Não se desconhece que a sede das pessoas jurídicas de maior relevo para este país encontram-se nesta capital e que a aplicação, isolada, do disposto no art. 53, inciso III, alínea 'a', do Código de Processo Civil atrairia um volume considerável de demandas em flagrante desproporção à quantidade de julgadores desta eg. Corte de Justiça. 3.2. Diante da interpretação lógico-sistemática do ordenamento jurídico, é viável se afastar o entendimento da Súmula 33/STJ, prestigiando o interesse público. 4. Recurso conhecido e desprovido. (Acórdão 1636496, 07258723820228070000, Relator: CARLOS PIRES SOARES NETO, 1ª Turma Cível, data de julgamento: 3/11/2022, publicado no DJE: 18/11/2022. Pág.: Sem Página Cadastrada) - grifo nosso.
+
+CONFLITO DE COMPETÊNCIA. COMPETÊNCIA RELATIVA. PROPOSITURA EM FORO ALEATÓRIO E INJUSTIFICADO. DECLÍNIO DE OFÍCIO. INTERESSE PÚBLICO. POSSIBILIDADE. 1. À exceção da segunda parte do artigo 46, parágrafo 3º, do Código de Processo Civil, a escolha do local para propositura da ação não deve se dar ao acaso, sob pena de violação às normas gerais de competência e, em última instância, ao Princípio do Juízo Natural. 2. Muito embora a eleição de foro seja guiada pela flexibilidade própria às demandas regidas pela competência territorial, o autor deve respeitar os limites legais a fim de não macular, dessa forma, o sistema de organização judiciária formulado no intuito de sopesar as distribuições e, assim, ofertar serviços jurisdicionais céleres e de qualidade. 3. Diante da escolha aleatória e injustificada de foro, o interesse público se faz presente, justificando, assim, o excepcional declínio de ofício mesmo diante de caso de competência relativa. 4. Conflito de Competência conhecido e declarada a competência do Juízo Suscitante.” (Acórdão 1264606, 07094878320208070000, Relator: EUSTÁQUIO DE CASTRO, 2ª Câmara Cível, data de julgamento: 13/7/2020, publicado no DJE: 23/7/2020. Pág.: Sem Página Cadastrada) – grifo nosso.
+
+Ressalte-se que o Banco do Brasil é uma instituição financeira de grande porte, que possui agências bancárias em praticamente todos os municípios brasileiros e realiza operações bancárias em larga escala em cada uma de suas agências. Desse modo, o ajuizamento da ação na localidade onde foi celebrado o contrato, muito provavelmente facilitará, inclusive, a instrução do processo de liquidação em razão da maior acessibilidade aos documentos arquivados na agência responsável pelo contrato. Ademais, reitere-se, em se tratando de uma instituição do porte do agravado, não há razoabilidade em se fixar a competência da Justiça do Distrito Federal para processar e julgar todas as ações contra ela propostas sob o simples fundamento de se tratar do foro de sua sede.
+
+(...)
+
+A par do assunto, o Centro de Inteligência da Justiça do Distrito Federal – CIJDF expediu a Nota Técnica 8/2022 que tratou da questão jurídica envolvendo os “...inúmeros casos em que a Justiça do Distrito Federal foi escolhida pela parte autora residente em outro Estado da Federação, seja em razão da sede do réu, pessoa jurídica de direito privado de grande porte, se localizar no Distrito Federal, mesmo tendo agências e sucursais espalhadas em todo o território nacional, seja em razão da existência de cláusula de eleição foro no contrato subjacente à causa de pedir”.
+
+De acordo com o estudo realizado, constatou-se que a escolha do foro com base exclusivamente na sede da parte ré, sem qualquer relação da demanda com o local onde a parte se encontra, não atende aos fins da demanda e ainda pode prejudicar a produção de prova, além de trazer sério prejuízo à organização judiciária local, de tal sorte que, “(...) chancelar a escolha aleatória do foro competente pelo autor implica não apenas no desrespeito à lógica do sistema processual, como no crescimento artificial da quantidade de demandas de determinado tribunal em detrimento de outros, sobrecarregando a utilização dos recursos disponíveis e a capacidade de atendimento”. Destaca também que o aumento da distribuição de demandas cuja competência caberia a outros Tribunais, por autores residentes em outras comarcas, sem qualquer relação com o Distrito Federal, tem o potencial de desestabilizar a organização judiciária local, com o excesso desproporcional de processos na Justiça Comum do Distrito Federal, consequente aumento da taxa de congestionamento, do tempo de tramitação dos processos em todos os graus de jurisdição, além da queda na qualidade da prestação jurisdicional.
+
+O estudo ressalta, ainda, que o “...Enunciado da Súmula 33 do STJ não pode servir como salvo-conduto para a escolha aleatória do foro, sem que haja fator de ligação entre a parte e a Justiça local – fundamento, como visto, para a escolha de competência territorial pelo legislador –, razão pela qual, deve prevalecer o interesse público na regularidade do Sistema de Justiça, o que justificaria o conhecimento da incompetência territorial, independentemente de provocação do réu”. E conclui que “...em ações pessoais que tenham como réus pessoas jurídicas personalizadas e que versem sobre atos ou negócios jurídicos celebrados no âmbito de determinada agência ou sucursal, o foro competente é o do lugar onde se acha a referida agência ou sucursal, na forma do artigo 53, III, “b” do Código de Processo Civil, e não o de sua sede (artigo 53, III, “a” do Código de Processo Civil), posto que este critério é subsidiário e tem aplicação apenas quando não incidir a hipótese específica prevista na mencionada alínea “b””.
+
+Insta salientar, portanto, que a distribuição de processos relacionados a pedido de liquidação, cumprimentos individuais de sentença e de produção antecipada de prova decorrentes de sentenças coletivas, por partes residentes em outras unidades da federação,  em face do Banco do Brasil, sob a única justificativa de manter sua sede no Distrito Federal, seja pela celeridade na tramitação, seja por conta do baixo valor das custas judiciais, vem prejudicando a prestação jurisdicional local e dificultando a administração da Justiça, o que caracteriza abusividade, uma vez que o foro competente deve ser o do local de residência da parte, onde foi realizado o negócio jurídico entre os interessados.
+
+Precedente:
+
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA POR ARBITRAMENTO. DEMANDA CONTRA O BANCO DO BRASIL. PRECLUSÃO PRO JUDICATO. INEXISTÊNCIA. COMPETÊNCIA. FORO. SEDE DA PESSOA JURÍDICA. ESCOLHA ALEATÓRIA. DOMICÍLIO DA PARTE AUTORA. LOCALIDADE DA CELEBRAÇÃO DO NEGÓCIO JURÍDICO. MUNICÍPIO DIVERSO DE BRASÍLIA. DECLÍNIO DE COMPETÊNCIA DE OFÍCIO. DECISÃO MANTIDA. AGRAVO INTERNO PREJUDICADO.  1. Na origem, trata-se de ação autônoma de Ação de Liquidação Provisória de Sentença vinculada à ação civil pública nº 94.00.08514-1, que tramitou perante o Juízo da 3ª Vara Federal da Seção Judiciária do Distrito Federal, na qual houve a condenação solidária do Banco do Brasil, da União e do BACEN ao pagamento do valor correspondente às diferenças de aplicação do índice IPC (84,32%) e o BTN (41,28%) referentes ao mês de março de 1990.  2. Não configura preclusão pro judicato, na hipótese em que o feito tramitou durante certo tempo, mas o Juízo Singular acolheu exceção de incompetência.  3. O foro escolhido pelo autor não se vincula aos critérios de domicílio do autor ou da agência onde supostamente firmado o contrato de cédula de crédito, não havendo razões para ajuizar a ação levando-se em conta tão somente o local da sede da instituição financeira. O foro competente para julgar ações que versem sobre contrato bancário é o do local da agência onde foi pactuado o negócio jurídico, e não na sede da instituição.  4. Ao considerar que o Banco do Brasil possui diversas agências bancárias no País, onde são firmadas diariamente contratos bancários, não seria viável fixar a competência da Justiça do Distrito Federal para processar e julgar todas as ações relacionadas a Liquidação de Sentença de Ação Coletiva ajuizadas em seu desfavor com fundamento no mero argumento de se tratar de foro de sua sede.   5. O processamento de ações de partes que não residem no Distrito Federal ou que o objeto da causa não tenha  relação com esta Capital Federal acaba por prejudicar e desgastar toda a máquina judiciária local, tanto aos magistrados, servidores e a estrutura organizacional e financeira deste Tribunal, bem como ainda acaba por inviabilizar ainda a própria celeridade dessas ações e dentre tantos outros processos da população que aqui possui vinculação, quiçá o cumprimento de metas impostas pelo CNJ.   6. Ao se deparar com a escolha aleatória do foro, aliado às questões organizacionais e sistêmicas do Judiciário local, possibilitado está o declínio da competência para processamento e julgamento do feito da demanda que possui, no mínimo, uma vinculação do negócio jurídico firmado aos critérios de competência previstas no Código de Processo Civil.  7. Negou-se provimento ao agravo de instrumento. Agravo interno prejudicado.
+
+(Acórdão 1732090, 07092980320238070000, Relator: ARQUIBALDO CARNEIRO PORTELA, 6ª Turma Cível, data de julgamento: 19/7/2023, publicado no DJE: 3/8/2023. Pág.: Sem Página Cadastrada.) (negritei)
+
+Ante o exposto, diante da inexistência de motivações razoáveis que justifiquem o ajuizamento da ação em questão pela parte agravante na Circunscrição Judiciária de Brasília, tenho como correta a decisão que, de ofício, declinou da competência para processar e julgar o feito em favor da Comarca de Nobres/MT, foro de domicílio da parte demandante.
+
+Desse modo, o agravo de instrumento não merece provimento e o agravo interno resta prejudicado.
+
+Fortes nestas razões, NEGO PROVIMENTO ao recurso para manter inalterada a decisão agravada. Julgo, ainda, prejudicado o agravo interno.
+
+É como voto.
+A Senhora Desembargadora ANA CANTARINO - Relatora Designada e 1º Vogal
+
+Conheço do recurso, porquanto presentes os pressupostos de admissibilidade.
+
+A liquidação individual a que se subjaz o presente agravo (autos nº 0752466-52.2023.8.07.0001) tem por objeto a sentença coletiva proferida nos autos da ação civil pública nº 00.94.008514-1, ajuizada pelo Ministério Público Federal em desfavor do Banco do Brasil S.A., da União e do Banco Central do Brasil, e que tramitou na 3ª Vara Federal da Seção Judiciária do Distrito Federal.
+
+Na hipótese particular dos autos, a parte autora ajuizou o feito apenas em desfavor do Banco do Brasil S.A., sociedade de economia mista, cujas demandas são julgadas pela Justiça Comum Estadual, a teor do que dispõe o Enunciado nº 508 da Súmula do STF:
+
+“Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S/A.”
+
+Assim, não estando presentes a União ou o Banco Central do Brasil no polo passivo da lide, não se pode falar em competência da Justiça Federal para processar e julgar o feito.
+
+Feitas essas considerações, é certo que o Código de Defesa do Consumidor estabelece a possibilidade de a parte autora ajuizar a ação tanto no foro do seu domicílio quanto no domicílio do réu. Trata-se de uma faculdade legal, visando a facilitar o acesso da parte hipossuficiente à Justiça.
+
+No caso em comento, a liquidação foi ajuizada apenas em desfavor do Banco do Brasil, instituição financeira que possui sede em Brasília e agências espalhadas em todo o território nacional.
+
+O artigo 53, inciso III, alíneas ‘b’ e ‘d’, do CPC estabelece que, no caso de ação que versa sobre obrigação constituída por agência ou sucursal de pessoa jurídica, o foro competente seria o da agência ou sucursal onde a obrigação deva ser satisfeita. Porém, a alínea ‘a’ do mesmo inciso também considera como domicílio do réu pessoa jurídica o de sua sede:
+
+“Art. 53. É competente o foro:
+
+(...)
+
+III - do lugar:
+
+a) onde está a sede, para a ação em que for ré pessoa jurídica;
+
+b) onde se acha agência ou sucursal, quanto às obrigações que a pessoa jurídica contraiu;
+
+(...)
+
+d) onde a obrigação deve ser satisfeita, para a ação em que se lhe exigir o cumprimento;”
+
+Acerca do tema, também é certo que o STJ possui entendimento de que o ajuizamento das demandas na sede da pessoa jurídica ré se faz possível quando a obrigação não tiver sido constituída na agência ou sucursal (vide AgInt nos EDcl no REsp 1842401/PR e AgInt no REsp 1861470/PR).
+
+Porém, deve-se ponderar que, de acordo com o já mencionado artigo 53, inciso III, alínea ‘a’, do CPC, a pessoa jurídica pode ser demandada no foro de sua sede.
+
+Portanto, evoluí de entendimento, passando a admitir o ajuizamento das demandas voltadas ao cumprimento da sentença coletiva movida em desfavor do BANCO DO BRASIL em Brasília/DF, local da sede da referida sociedade de economia mista, tendo em vista que resta observado um dos critérios de competência territorial previstos em lei para ajuizamento da ação.
+
+No mesmo sentido:
+
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROFERIDA EM AÇÃO CIVIL PÚBLICA. COMPETÊNCIA FIXADA DE ACORDO COM O DOMICÍLIO DO DEVEDOR. RECURSO PROVIDO.
+
+1. A hipótese consiste em avaliar a competência do Juízo singular para processar a liquidação de sentença originada por ação civil pública (nº 94.0008514-1), que constituiu obrigação em desfavor da sociedade anônima Banco do Brasil S/A.
+
+2. As ações ajuizadas contra a sociedade anônima Banco do Brasil S/A devem ser processadas e julgadas na Justiça Estadual ou do Distrito Federal e dos Territórios, devendo ser observada essa diretriz também em relação à inauguração de incidentes processuais, como é o caso em exame.
+
+3. O requerimento de cumprimento individual de sentença coletiva, proferida em ação civil pública, que é formulado em desfavor apenas do Banco do Brasil S/A, pode ser requerido a uma unidade jurisdicional que compõe este Egrégio Tribunal de Justiça. 3.1. Por se tratar de liquidação individual de sentença coletiva, que envolve relação de consumo, o credor pode optar pelo foro do local que facilite o exercício da pretensão e a devida prestação da tutela jurisdicional.
+
+4. No caso, o autor optou por ajuizar sua ação no foro do domicílio do réu, uma vez que a sede da instituição financeira é em Brasília-DF, devendo ser mantida a competência firmada em favor do Juízo singular.
+
+5. Recurso conhecido e provido.” (Acórdão 1414572, 07027092920228070000, Relator: ALVARO CIARLINI, 2ª Turma Cível, data de julgamento: 6/4/2022, publicado no DJE: 28/4/2022. Pág.:  Sem Página Cadastrada.).
+
+Saliente-se, ademais, que o Superior Tribunal de Justiça, em decisão monocrática proferida no AREsp nº 2312077, ratificou o entendimento de que “para fins de promoção da liquidação e da execução individual de sentença genérica proferida em ação civil coletiva, cabe ao exequente escolher entre o foro em que a ação coletiva foi processada e julgada e o foro do seu domicílio”. Confira-se:
+
+“PROCESSO AREsp 2312077
+
+RELATOR(A) Ministro ANTONIO CARLOS FERREIRA
+
+DATA DA PUBLICAÇÃO 12/05/2023
+
+DECISÃO
+
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7/STJ e 283/STF (e-STJ fls. 134/135).
+
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 59/60):
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. BANCO DO BRASIL S/A. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. PROPOSITURA EM FORO ALEATÓRIO E INJUSTIFICADO. VERBETE 33, DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECLÍNIO DE OFÍCIO. INTERESSE PÚBLICO. POSSIBILIDADE.
+
+DECISÃO MANTIDA.
+
+1. O foro competente para julgar ações que versem sobre contrato bancário é o do local da agência onde foi pactuado o negócio jurídico, e não na sede da instituição.
+
+2. À exceção da segunda parte do artigo 46, parágrafo 3º, do Código de Processo Civil, a escolha do local para propositura da ação não deve se dar ao acaso, sob pena de violação às normas gerais de competência e, em última instância, ao Princípio do Juízo Natural.
+
+3. Muito embora a eleição de foro seja guiada pela flexibilidade própria às demandas regidas pela competência territorial, o autor deve respeitar os limites legais a fim de não macular, dessa forma, o sistema de organização judiciária formulado no intuito de sopesar as distribuições e, assim, ofertar serviços jurisdicionais céleres e de qualidade.
+
+4. Embora via de regra, pelo verbete número 33, da Súmula de Jurisprudência do Superior Tribunal de Justiça, a in(competência) territorial não deva ser reconhecida de ofício, a distribuição por critério aleatório de ações pode, em razão do interesse público na regularidade do Sistema de Justiça, levar o Juízo a dela conhecer sem provocação.
+
+5. Diante da escolha aleatória e injustificada de foro, o interesse público se faz presente, justificando, assim, o excepcional declínio de ofício mesmo diante de caso de competência relativa.
+
+6. Agravo de Instrumento conhecido e não provido. Maioria.
+
+Não foram opostos embargos de declaração ao referido acórdão.
+
+Nas razões do recurso especial (e-STJ fls. 74/87), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou violação do art. 53, III, "a", do CPC/2015 e dissídio jurisprudencial quanto à interpretação do art. 516, parágrafo único, do CPC/2015.
+
+O recorrente delimita a controvérsia nos seguintes termos: "Cinge-se a controvérsia a determinar se a competência para o processamento da liquidação individual de sentença coletiva proferida nos autos da ação civil pública nº 00.94.008514-1, ajuizada na origem pelo recorrente em face somente do Banco do Brasil S. A., pode ser no juízo da sede administrativa da empresa demandada, conforme expressa previsão do art. 53, inciso III, alínea "a", do CPC, ou deve ser no domicilio do autor" (e-STJ fl. 78).
+
+No agravo (e-STJ fls. 139/146), afirma a presença dos requisitos de admissibilidade do especial.
+
+Contraminuta não apresentada.
+
+É o relatório.
+
+Decido.
+
+Cuida-se, na origem, de agravo de instrumento interposto pelo ora agravante contra a decisão da 2ª Vara Cível de Brasília que, em liquidação provisória da sentença coletiva exarada pela Justiça Federal/DF na Ação Civil Pública n. 94.0008514-1, declinou da competência para o foro de Maracaju-MT, domicílio do autor.
+
+Referida decisão foi mantida pelo acórdão recorrido, sob o fundamento de que "não é razoável fixar a competência da Justiça do Distrito Federal para processar e julgar todas as ações propostas contra o Banco do Brasil, ao simples fundamento de se tratar de foro de sua sede, considerando que a instituição financeira possui agências bancárias na quase totalidade dos municípios do País" (e-STJ fl. 64).
+
+Apesar de haver entendimento no sentido de o domicílio do executado não ser uma alternativa reconhecida pela jurisprudência do Superior Tribunal de Justiça para fins de julgar a execução individual de título judicial em Ação Civil Pública (AgInt nos EDcl no REsp n. 1.991.739/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022), impende assinalar que, no caso concreto, o foro da sede da instituição bancária ora agravada coincide com o foro do juízo da ação condenatória.
+
+Este Tribunal Superior, por sua vez, com base no que assentado no julgamento do REsp n. 1.243.887/PR (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe de 12/12/2011), submetido ao rito do art. 543-C do CPC, adota entendimento segundo o qual, para fins de promoção da liquidação e da execução individual de sentença genérica proferida em ação civil coletiva, cabe ao exequente escolher entre o foro em que a ação coletiva foi processada e julgada e o foro do seu domicílio Nesse sentido:
+
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SENTENÇA COLETIVA. PLANOS ECONÔMICOS. AJUIZAMENTO DO CUMPRIMENTO INDIVIDUAL, SEM JUSTIFICATIVA, EM COMARCA QUE NÃO É DOMICÍLIO DO RÉU, FORO CONTRATUAL, LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO, DOMICÍLIO DO AUTOR, TAMPOUCO FORO EM QUE PROFERIDA A SENTENÇA NA AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE.
+
+1. Consoante entendimento firmado no julgamento do REsp 1.243.887/PR (minha relatoria), submetido ao rito do art. 543-C do CPC, deve-se facultar aos consumidores-poupadores abrangidos pela eficácia subjetiva da ação civil pública a promoção das liquidações, ou execuções individuais, tanto no juízo sentenciante, quanto no juízo da comarca em que possuem domicílio.
+
+[...] (EDcl no REsp n. 1.430.234/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/6/2014, DJe de 13/6/2014.)
+
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APLICAÇÃO DOS PRINCÍPIOS DA FUNGIBILIDADE RECURSAL E ECONOMIA PROCESSUAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. IDEC X BANCO DO BRASIL. CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. ABRANGÊNCIA NACIONAL DA DEMANDA. COISA JULGADA. FACULDADE DO CONSUMIDOR DE PROPOR O CUMPRIMENTO DA SENTENÇA NO DISTRITO FE DERAL OU NO PRÓPRIO DOMICÍLIO.
+
+[...] 3. Forçoso reconhecer aos beneficiários/poupadores a faculdade de ingressar com o cumprimento individual da sentença coletiva no foro do próprio domicílio ou no território do juízo sentenciante (Distrito Federal).
+
+[...] (EDcl no REsp n. 1.389.127/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/3/2014, DJe de 25/4/2014.)
+
+No caso dos autos, o agravante ajuizou, na Circunscrição Judiciária de Brasília, liquidação individual de sentença coletiva proferida nos autos da Ação Civil Pública n. 94.008514-1, que, por sua vez, tramitou na 3ª Vara Federal da Seção Judiciária do Distrito Federal, havendo optado, por conseguinte, pelo foro em que a ação coletiva foi processada e julgada (que, repita-se, coincide, no caso concreto, com o foro da sede da instituição bancária ora agravada).
+
+Logo, não há falar, in casu, em incompetência da Circunscrição Judiciária de Brasília para processar liquidação provisória da sentença coletiva exarada na Ação Civil Pública n. 94.0008514-1.
+
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de reconhecer a competência da 2ª Vara Cível de Brasília para o processamento do feito referenciado, determinando o retorno dos autos à origem para que prossiga no julgamento da causa.”
+
+Nesse diapasão, em consonância com o entendimento perfilhado pelo c. STJ e considerando que a ação civil pública nº 00.94.008514-1 tramitou na 3ª Vara Federal da Seção Judiciária do Distrito Federal, tem-se que é possível ao credor escolher a Circunscrição Judiciária de Brasília - DF para o ajuizamento do presente procedimento.
+
+Ante o exposto, CONHEÇO e DOU PROVIMENTO ao Agravo de instrumento, para reformar a decisão e determinar o prosseguimento da demanda no foro da sede do Banco do Brasil.
+
+É como voto.
+
+O Senhor Desembargador FÁBIO EDUARDO MARQUES - 2º Vogal Com a divergência
+
+DECISÃO
+
+CONHECER. DAR PROVIMENTO AO AGRAVO DE INSTRUMENTO, MAIORIA. VENCIDA A RELATORA. REDIGIRÁ O ACÓRDÃO A 1ª VOGAL.
