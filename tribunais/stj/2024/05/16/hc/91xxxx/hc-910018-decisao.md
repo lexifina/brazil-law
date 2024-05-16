@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOHNNY SILVA FEITOSA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que deram provimento ao apelo ministerial e condenaram o paciente à pena total de 7 anos e 10 meses de reclusão, em regime inicial fechado, mais o pagamento de 533 dias-multa, por infração ao art. 33, caput, da Lei n. 11.343/2006 e ao art. 333, caput, do Código Penal.
+Neste habeas corpus, alega o impetrante que a gravidade abstrata do crime não constitui motivação idônea para determinação de regime mais gravoso, conforme dispõem as Súmulas 440 do STJ e 718 e 719 do STF.
+Requer, pois, a fixação do regime semiaberto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Em relação ao pedido de abrandamento do regime prisional, não assiste razão à defesa.
+No acórdão, consta:
+" ..  Considerando as circunstâncias e o quantitativo da pena, bem como a dedicação às atividades criminosas demonstrada, de rigor a imposição do regime inicial fechado para cumprimento de pena, bem como impossível a substituição e suspensão condicional da mesma." (e-STJ, fl. 403).
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenação por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+In casu, o reconhecimento da quantidade de drogas como circunstância judicial negativa, permite a fixação do regime inicial de cumprimento de pena mais gravoso, nos termos do §3º do art. 33 do Código Penal. Cito precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS . TRÁFICO DE DROGAS. PENA-BASE. ART. 42 DA LEI N. 11.343/2006. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE DESPROPORCIONALIDADE. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS QUE DENOTAM A DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA. ALTERAÇÃO DA CONCLUSÃO DA INSTÂNCIA ORDINÁRIA QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. REGIME INICIAL MAIS GRAVOSO. POSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AUSÊNCIA DO REQUISITO OBJETIVO. PENA SUPERIOR A QUATRO ANOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+ ..
+7. Inexiste ilegalidade na fixação do regime inicial mais gravoso, uma vez que a pena-base foi fixada acima do mínimo legal, em razão da presença de circunstância judicial negativa.
+8. A fixação da pena acima de 4 anos, no caso, 7 anos, 9 meses e 10 dias de reclusão, impede a sua substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, inciso I, do Código Penal - CP.
+9. Agravo regimental desprovido. (AgRg no HC n. 764.303/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. CIRCUNSTÂNCIAS DO CASO CONCRETO. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. CABÍVEL O REGIME FECHADO. AGRAVO DESPROVIDO.
+1. São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+2. No caso, a despeito de indevidas referências à existência de ação penal em andamento e à substância entorpecente apreendida, salientaram as instâncias ordinárias que o próprio Acusado confessou que era a terceira vez que realizava o transporte de entorpecentes, o que indica o envolvimento do Réu com a traficância, denotando sua dedicação a essa atividade criminosa.
+3. Nesse contexto, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do Agravante à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+4. Consideradas a pena imposta - 5 (cinco) anos de reclusão - e a existência de circunstância judicial negativa, é cabível a fixação do regime inicial fechado, a teor do disposto no art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal.
+5. Agravo regimental desprovido. (AgRg no HC n. 775.818/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/10/2022, DJe de 3/11/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
