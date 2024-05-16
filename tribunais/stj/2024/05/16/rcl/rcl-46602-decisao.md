@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de reclamação, com pedido de tutela de urgência, ajuizada por José Bezerra de Menezes Filho, com fundamento nos artigos 105, I, "f", da Constituição Federal, 988 e seguintes do CPC/2015, 187 e seguintes do RISTJ, contra acórdão proferido pelo Tribunal de Contas da União nos autos do TC 006.618/2022-7, no qual se negou provimento ao pedido de reexame formulado em face do Acórdão n. 2982/20022-TCU, que considerou ilegal o ato de concessão de aposentadoria em relação à inclusão das parcelas judiciais dos planos econômicos, em flagrante desrespeito ao decidido pela Terceira Seção desta Corte no MS 6.970/DF.
+O reclamante alega que integrou o polo ativo do MS 6.970/DF e neste foi parcialmente concedida a ordem para "determinar não sejam suprimidos os índices 26,05% e 26,06% do salário dos impetrantes, conforme concedido por sentença transitada em julgado, ressalvada a substituição por outro índice, equivalente ou maior, relativo ao mesmo período inflacionário, concedido aos servidores públicos em geral" (fl. 4).
+Sustenta que o acórdão reclamado, proferido pelo Tribunal de Contas da União, subverte e desrespeita o que fora decidido por esta Corte Superior no MS 6.970/DF pois "afasta a percepção dos reajustes ao fundamento de que, após sucessivas reestruturações, foram instituídas vantagens anteriormente inexistentes, como a retribuição por titulação e a gratificação especial de atividade docente. Ou seja, a rubrica incorporada por decisão judicial transitada em julgado foi suprimida não pelo reconhecimento de incorporação dos índices nos reajustes gerais dos servidores públicos, mas sim pelo reconhecimento de criação de gratificações pessoais, que dizem respeito ao louvável exercício da docência e à apreciável qualificação acadêmica do Reclamante (pós-doutor em Engenharia Elétrica pela Universidade de Trás-os-Montes e Alto Douro em Portugal), ao arrepio do quanto decidido por esta Corte" (fls. 4-5).
+Defende o cabimento da presente reclamação, eis que "objetiva preservar a autoridade de decisão proferida por esse Superior Tribunal de justiça em sede de julgamento do MS 6970, o qual assegurou ao Reclamante a não supressão dos índices 26,05% e 26,06% de seu salário, salvo se comprovada a substituição por outro índice, equivalente ou maior, relativo ao mesmo período inflacionário, concedido aos servidores públicos em geral. De modo que a análise de legalidade da concessão de aposentadoria com vantagem incorporada por decisão judicial realizada pelo TCU se atenha aos parâmetros fixados no acórdão deste STJ, e não em parâmetros discricionários que tratem o reajuste como gratificações pessoais" (fl. 6)
+O pedido de tutela de urgência foi indeferido (fls. 282-284), sendo referida decisão objeto de agravo interno interposto pelo reclamante às fls. 418-427.
+O reclamado prestou informações, às fls. 324-352, sustentando, preliminarmente, a inadequação da via eleita e, no mérito, a improcedência da reclamação diante da inexistência de afronta à decisão do Superior Tribunal de Justiça no Mandado de Segurança 6.970/DF.
+Os interessados, Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB e União, apresentaram contestação, respectivamente, às fls. 353-365 e 367-386.
+Parecer do Ministério Público Federal, às fls. 428-439, opinando pela improcedência da reclamação.
+É o relatório. Passo a decidir.
+O instituto da reclamação dirigida ao Superior Tribunal de Justiça está previsto no art. 105, I, "f", da CF/1988, sendo cabível para a preservação da competência e a garantia da autoridade das decisões desta Corte.
+O Código de Processo Civil dispôs a respeito da legitimidade e cabimento da reclamação no seu art. 988, verbis:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+Nesta Corte Superior, a reclamação está disciplinada no art. 187 e seguintes do Regimento Interno.
+No caso, como relatado, o presente instrumento volta-se contra acórdão do Tribunal de Contas da União que teria desrespeitado a decisão proferida pela Terceira Seção desta Corte no MS 6.970/DF.
+As decisões emanadas do Tribunal de Contas da União, como cediço, possuem natureza administrativa e não jurisdicional.
+Nesse contexto anota-se que, segundo a Primeira Seção desta Corte, após a Emenda Constitucional 45/2004, somente é cabível a reclamação contra ato administrativo na hipótese que contrariar súmula vinculante ou aplicá-la indevidamente, o que não é o caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. ATO ADMINISTRATIVO. NÃO CABIMENTO. HIPÓTESE PREVISTA NO ART. 103-A, CAPUT E § 3º, DA CF. COMPETÊNCIA DO STF RESTRITA À DESCUMPRIMENTO DE SÚMULA VINCULANTE. PROVIMENTO NEGADO.
+1. Conforme previsto no art. 105, I, f, da Constituição Federal (CF), compete ao Superior Tribunal de Justiça processar e julgar originariamente reclamação que visa preservar sua competência ou garantir a autoridade de suas decisões, em caso de descumprimento de seus julgados.
+2. O art. 103-A, caput e § 3º, da Constituição Federal, incluído pela Emenda Constitucional 45/2004, dispõe especificamente sobre o cabimento de reclamação contra ato administrativo, restringindo-lhe às hipóteses em que contrariar súmula vinculante ou aplicá-la indevidamente; é do Supremo Tribunal Federal (STF) a competência para seu exame.
+3. Inexiste, após a Emenda Constitucional 45/2004, amparo constitucional ou legal para o processamento de reclamação em virtude de ato administrativo no Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento (AgInt na Rcl 34.952/DF, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe 26/4/2024).
+Ante o exposto, não conheço da reclamação. Prejudicado o agravo interno interposto às fls. 418-427.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. ATO ADMINISTRATIVO. HIPÓTESE DE CABIMENTO. INEXISTÊNCIA. RECLAMAÇÃO NÃO CONHECIDA.
