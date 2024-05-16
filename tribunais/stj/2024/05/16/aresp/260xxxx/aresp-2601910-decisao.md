@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de exceção de pré-executividade objetivando reconhecimento da ilegitimidade passiva, a prescrição do débito e a nulidade da CDA. Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 1.340,69.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO contra acórdão com o seguinte resumo de ementa:
+DIREITO TRIBUTÁRIO. RECURSO DE APELAÇÃO. EXECUÇÃO FISCAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO DOS EXERCÍCIOS DE 2010 A 2012. ILEGITIMIDADE PASSIVA CONFIGURADA EM RELAÇÃO AO EXERCÍCIO DE 2013. EXECUTADO QUE NÃO PREENCHE OS REQUISITOS DO ART. 34 DO CTN. CONDENAÇÃO DO MUNICÍPIO EM HONORÁRIOS. TEMA 421 DO STJ. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Registra que diante desses fatos, mostra-se que a edilidade gerou tais débitos sem que tivesse conhecimento da situação e localização do lote, sem ter notificado o executado para efetuar o pagamento e em total afronta a diversos dispositivos legais.
+Como as informações prestadas pela prefeitura não ajudaram na localização do lote, foi necessário fazer uma busca na localidade, busca esta que foi realizada por 3 (três)dias, pois nem a quadra onde estava localizado o lote a prefeitura sabia informar.
+Assim, depois de muita procura, foi localizada uma casa, onde o proprietário forneceu a conta de energia (ID. 21075688) e, a partir, dessas informações foi possível verificar na CELPE que o atual possuidor tinha construído uma casa, uma venda e estava residindo lá desde 14/09/2012 (ID. 21075689).
+Conclui restar demonstrando e comprovado que o executado não é parte legítima para figurar no polo passivo da execução, devendo, inclusive, a CDA apresentada nos autos ser declarada nula, uma vez que está eivada de vícios insanáveis.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (arts. 94 e 784, do CPC, 1.245, do CC, 1º, §2º da lei n. 7.433/85, 204, do CTN e 3º, da lei de execução fiscal ), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
