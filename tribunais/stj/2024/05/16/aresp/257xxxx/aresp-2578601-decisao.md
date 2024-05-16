@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da afronta ao art. 1.022 do CPC/2015 (e-STJ fls. 574/576).
+O acórdão recorrido está assim ementado (e-STJ fls. 520/528):
+APELAÇÃO. CONDOMÍNIO. AÇÃO DECLARATÓRIA INCIDENTAL à ação condenatória de cobrança de contribuições condominiais. Pretendida declaração da obrigação exclusiva do réu pelo pagamento das contribuições condominiais, IPTU e taxa de foro devida à União Federal, bem como de que caberá ao autor 30,645% da sobra do produto da arrematação do imóvel.
+Sentença de procedência. Insurgência do réu.
+- EFEITO SUSPENSIVO. Recurso de apelação que, em regra, tem efeito suspensivo do julgado. Observância ao disposto no art. 1.012 do Código de Processo Civil.
+- MULTA decorrente da oposição de embargos de declaração protelatórios. Penalidade aplicada em primeira instância, com amparo no art. 1.026, §2º, do CPC. Caráter protelatório inexistente. Multa afastada.
+- Contribuições condominiais e IPTU. Imóvel arrematado. Observância do disposto no art. 903, caput, do CPC. Julgamento que, por óbvio, produz efeitos entre os integrantes da relação jurídico-processual. Arrematante que não responde por débitos pretéritos, eis que não comprovada a menção expressa no edital a respeito de débitos existentes sobre o imóvel. Débito de contribuições condominiais e tributos incidentes sobre o imóvel que são de responsabilidade do arrematante, a partir da expedição do auto de arrematação, ainda que não imitido na posse do imóvel.
+- Saldo da arrematação. Imóvel penhorado em prol da satisfação de débito de contribuições condominiais. Saldo da arrematação que deverá ser revertido em favor dos atuais proprietários do imóvel, observada a cota parte de cada um. - Sentença reformada em parte com adequação da disciplina das verbas de sucumbência.
+RECURSO PROVIDO EM PARTE.
+Os embargos de declaração foram rejeitados (e-STJ fls. 536/540).
+No recurso especial (e-STJ fls. 542/559), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e ofensa ao art. 1.022, I, do CPC/2015, alegando contradição no acórdão recorrido por imputar ao recorrente responsabilidade pelo pagamento das contribuições condominiais, IPTU e taxa de ocupação, juntamente com coproprietário, no período posterior à arrematação, mesmo sendo incontroverso nos autos que o imóvel é ocupado com exclusividade pelo recorrido (e-STJ fl. 552).
+Argumentou que, na relação jurídica existente entre os coproprietários e o condomínio, o recorrente deve, por óbvio, responder pelas contribuições condominiais e impostos incidentes sobre o imóvel em solidariedade com o ora recorrido, no período após a arrematação. No entanto, na relação jurídica existente apenas entre eles, coproprietários, quem deve suportar as despesas condominiais e impostos é aquele que de fato ocupa o imóvel e  dele usufrui com exclusividade (e-STJ fl. 554).
+Ao final, requer o provimento do agravo, a fim de que seja reformado o acórdão recorrido.
+Não foram apresentadas contrarrazões (e-STJ fl. 573).
+No agravo (e-STJ fls. 579/597), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 599).
+Juízo negativo de retratação (e-STJ fl. 600).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022, I, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem decidiu a controvérsia sob os seguintes fundamentos (e-STJ fls. 507/508):
+Em consideração ao fato de que, nos autos do incidente de cumprimento de sentença relacionado à ação condenatória de cobrança de contribuições condominiais, a penhora incidiu sobre a unidade 1008 em data posterior à arrematação do mesmo bem pelo apelado, em execução de natureza trabalhista. Em outras palavras, ao ser penhorado a unidade 1008, o apelado já figurava como proprietário de 50% ideias daquele bem. Assim, o valor que eventualmente sobejar da venda do imóvel nos autos do incidente de cumprimento de sentença deverá ser revertido aos atuais proprietários do bem - o apelante e o apelado -, observada a cota parte de cada coproprietário.
+Com essas ponderações, é caso de reformar a sentença recorrida para (i) afastar a multa aplicada nos termos do art.1.026, § 2º do Código de Processo Civil e (ii) proclamar a parcial procedência da ação, com declaração de que, observados os limites subjetivos desta demanda, são de exclusiva responsabilidade do apelante os débitos de contribuições condominiais e tributos incidentes sobre a unidade 1008 do CONDOMÍNIO EDIFÍCIO ALVORADA MIRAMAR vencidos até 18/12/2012, data em que se aperfeiçoou a arrematação do imóvel pelo apelado. Também que, a partir de 19/10/2012, o apelado, na qualidade de proprietário de parte ideal do bem, passa a responder pelas contribuições condominiais e impostos incidentes sobre o imóvel em solidariedade com o apelante.
+Confira-se ainda este excerto do acórdão dos embargos de declaração (e-STJ fl. 539):
+Está bem claro no acórdão que depois da arrematação do imóvel, o embargante assume a condição de responsável solidário pelo pagamento das contribuições condominiais e dos impostos incidentes sobre o imóvel.
+Como constou do acórdão:
+".. a partir de 19/10/2012, o apelado, na qualidade de proprietário de parte ideal do bem, passa a responder pelas contribuições condominiais e impostos incidentes sobre o imóvel em solidariedade com o apelante"
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art.1.022 do CPC/2015.
+Outrossim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
