@@ -1,0 +1,30 @@
+DECISÃO
+JOAO PEDRO SOUZA SANTOS e GABRIEL DE OLIVEIRA SILVA, pacientes neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1530129-40.2022.8.26.0228.
+Depreende-se dos autos que os réus foram condenados pela prática dos crimes previstos nos arts. 157, § 2º, II, e 330 do CP e 309 do CTB.
+O Tribunal de origem deu parcial provimento à apelação defensiva, para ajustar a pena de João relativa ao roubo para 5 anos e 4 meses de reclusão mais 13 dias-multa e as reprimendas de Gabriel para 7 anos, 1 mês e 10 dias de reclusão e 6 meses e 15 dias de detenção em regime aberto.
+Neste habeas corpus, alega a impetrante que as consequências do crime relativas à pena de roubo imposta a João foram valoradas negativamente mediante referência ao prejuízo causado à vítima, elemento ínsito ao crime. Sustenta que foi aplicada fração de aumento mais gravosa que 1/6 em decorrência dos maus antecedentes de Gabriel. Afirma ser desproporcional o patamar de aumento na primeira fase dosimétrica das sanções impostas aos réus. Argumenta que foram determinados regimes iniciais mais gravosos que o devido.
+Pede "seja refeita a dosimetria da pena nos termos pleiteados e, consequentemente, fixado o regime inicial de cumprimento de pena mais brando" (fl. 12).
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pela extinção do processo sem julgamento do mérito.
+Decido.
+Primeiramente, no que tange às consequências do crime relativas à dosimetria do roubo praticado por João, verifico que o Tribunal de origem não examinou a possibilidade de valorar essa vetorial negativamente com fundamento no prejuízo causado à vítima.
+Trata-se de inovação em habeas corpus, que, se conhecida sem prévia manifestação do Tribunal de origem, implicaria inadmissível supressão de instância.
+No que tange à proporcionalidade das frações de aumento e ao regime, a sentença foi proferida nestes termos:
+Atentando aos critérios norteadores da fixação das penas previstos no artigo 59, do Código Penal, observo que o réu Gabriel tem maus antecedentes específicos.
+ ..
+Nessa primeira fase de cálculo, elevo em um sexto as penas mínimas previstas para os crimes em que incorreram, em razão de circunstâncias comuns a ambos. Os réus causaram grande prejuízo para a vítima, que teve seu veículo batido, com perda total, como por ela explicado em audiência. Até esse momento, a vítima não foi ressarcida pela seguradora e está sem carro. Além disso, a vítima não recuperou sua bolsa, que continha cartões, dinheiro e documentos pessoais. Em acréscimo, a vítima Aurea sofreu trauma psicológico pela violência sofrida e também embate físico, pois foi retida por trás durante o assalto e também sofreu um empurrão, como explicou em juízo. Por outro lado, os réus dirigiram perigosamente, como se depreende das provas colhidas, e expuseram transeuntes e motoristas a iminente risco. Os réus demonstraram personalidades desvirtuadas e dedicadas aos crimes. Em pouco tempo, não hesitaram em praticar crimes sucessivos e de diferentes naturezas. Assim, fixo suas penas em QUATRO ANOS E OITO MESES DE RECLUSÃO e ONZE DIAS-MULTA pelo roubo  ..
+(fls. 130-131, destaquei)
+O acórdão atacado asseriu o seguinte:
+Para Gabriel, em relação ao crime de roubo, apesar do acerto na valoração das consequências do delito e do mau antecedente, a pena-base sofreu duas exasperações sucessivas, ambas na fração de 1/6 (um sexto), como já anotado acima, o que se mostrou prejudicial ao apelante, devendo ser promovido um único aumento de 1/3 (um terço).
+ ..
+Reconhecido o concurso material de delitos, as penas de Gabriel foram somadas, totalizando, agora 7 (sete) anos, 1 (um) mês e 10 (dez) dias de reclusão e 6 (seis) meses e 15 (quinze) dias de detenção, mantendo-se a pena de multa em 17 (dezessete) dias-multa, no mínimo legal.
+ ..
+Quanto ao regime inicial de cumprimento das penas, para o crime de roubo, mantém-se o fechado, por tratar-se de ilícito penal grave, que toda vez que é perpetrado fomenta ainda mais a crescente intranquilidade social. Outrossim, a periculosidade concreta dos apelantes, em perpetrar grave crime, contra mulher idosa, reclama punição mais severa e efetiva, não se olvidando, ainda, do mau antecedente de Gabriel.
+(fls. 201-203, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Na espécie, sentença e acórdão levaram em conta, na primeira fase, os registros de vida pregressa de Gabriel, o elevado prejuízo causado à vítima octogenária - perda total do seu automóvel -, o emprego de violência efetiva, o trauma psicológico a ela causado e a constatação de que os agentes dirigiam perigosamente durante a conduta delitiva.
+O Tribunal de origem entendeu, com razão, que a fração de 1/3 seria a mais proporcional para exasperar a pena-base, haja vista a gravidade da conduta e o elevado prejuízo causado, as características pessoais da vítima e os métodos empregados pelos acusados.
+Quanto ao regime inicial, estão elencados no art. 33, §§ 2º e 3º, do Código Penal os critérios para a sua imposição, de modo a determinar que deve ser feita com a observância dos critérios temporais do § 2º, bem como das circunstâncias judiciais, nos termos do art. 59 do Código Penal.
+Ante a quantidade de pena (entre 4 e 8 anos) e a valoração negativa de circunstâncias judiciais, deve ser imposto o regime inicial fechado, a teor do art. 33, §§ 2º, "b", e 3º do Código Penal.
+Diante do exposto, conheço parcialmente da impetração e, nessa parte, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
