@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 557):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DECLARATÓRIA. PEDIDO DE DECLARAÇÃO DE PRESCRIÇÃO E INEXIGIBILIDADE DE DÉBITO C/C REQUERIMENTO DE BAIXA DE GRAVAME HIPOTECÁRIO. PARCIAL PROCEDÊNCIA DOS PEDIDOS. ÔNUS SUCUMBENCIAIS FIXADOS CONFORME DECAIMENTO DE CADA PARTE. CORRETA A FIXAÇÃO NOS TERMOS DA SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. MANTIDOS. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. SENTENÇA MANTIDA.
+PARCIAL PROCEDÊNCIA DA AÇÃO. SENDO OS PEDIDOS DE DECLARAÇÃO DE PRESCRIÇÃO E INEXIGIBILIDADE DO DÉBITO JULGADOS IMPROCEDENTES, NÃO HÁ QUE SE FALAR EM TOTAL PROCEDÊNCIA DA AÇÃO COM CONDENAÇÃO APENAS DO RÉU AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. IMPOSSIBILIDADE. HAVENDO PARCIAL PROCEDÊNCIA DA AÇÃO, CABE A FIXAÇÃO DOS ÔNUS SUCUMBENCIAIS, CONFORME DECAIMENTO DE CADA PARTE. HONORÁRIOS ADVOCATÍCIOS. O VALOR FIXADO NA SENTENÇA ATENDE AO COMANDO ESTABELECIDO NO ARTIGO 85, §8º DO CPC E ATENTO AO TRABALHO REALIZADO. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURADA. NÃO VERIFICADA A ADOÇÃO DE QUAISQUER DOS COMPORTAMENTOS ELENCADOS NOS ART. 80 DO NCPC, NÃO HÁ QUE SE FALAR NA APLICAÇÃO DAS PENAS RESERVADAS AOS QUE LITIGAM DE MÁ-FÉ.
+NEGARAM PROVIMENTO AO APELO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 595/601).
+Em suas razões (e-STJ fls. 610/628), a parte alega violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, III e IV, e 1.022, I, do CPC/2015, sustentando a existência de omissão quanto às apontadas contradições "em relação ao acolhimento da totalidade dos pedidos formulados na petição inicial e julgamento de parcial provimento" (e-STJ fl. 616) e relativamente ao cabimento da fixação dos honorários sucumbenciais sobre o valor da causa,
+(ii) arts. 189 e 206, § 5º, I, do CC, sustentando que, "tendo sido acolhida a pretensão Autoral no que se refere à prescrição e exigibilidade do crédito, por qualquer via, pela instituição financeira Ré, bem como o pleito de cancelamento do gravame hipotecário, configurando, em realidade, a totalidade dos pedidos veiculados na petição inicial, merece reforma o acórdão para que seja corrigido o dispositivo e sejam julgados totalmente procedentes os pedidos da parte Autora, com a readequação dos ônus de sucumbência" (e-STJ fl. 625), e
+(iii) art. 85, §§ 2º e 8º, do CPC/2015, aduzindo a violação da ordem de preferência a ser observada no arbitramento dos honorários advocatícios e a necessidade de sua fixação sobre o valor da causa.
+Contrarrazões apresentadas às fls. 633/642 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão acerca de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, quais sejam:
+a) contradição consistente no julgamento de parcial provimento da ação, apesar de: (i) o único pedido supostamente indeferido ser de declaração da "prescrição da pretensão de cobrança do credor, ora Réu, em relação à Cédula de Crédito Bancário nº 00331014300000000640, e  d a inexigibilidade do referido crédito" (e-STJ fl. 10, sublinhei); (ii) ter havido o reconhecimento do transcurso do prazo estabelecido no art. 206, § 5º, I, do CC (e-STJ fl. 484), assinalando-se ademais o entendimento de que a prescrição implica "a perda do (..) direito em se ressarcir em relação a eventuais débitos prescritos (o que obsta, por exemplo, o ajuizamento de uma ação de cobrança/execução de título extrajudicial e/ou o encaminhamento do nome do devedor aos cadastros de restrição ao crédito" (e-STJ fl. 485); e (iii) ausente pedido de declaração de inexistência da dívida ou de quitação do saldo devedor, e
+b) necessidade de observância da ordem de preferência estabelecida no art. 85, § 2º, do CPC/2015 e cabimento da fixação dos honorários sucumbenciais sobre o valor da causa.
+É pacífico neste Tribunal o entendime nto segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão respectivo para que o recurso seja novamente apreciado.
+Assim, constatados os vícios apontados pela parte recorrente e considerando a necessidade de prequestionamento das questões controvertidas, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
