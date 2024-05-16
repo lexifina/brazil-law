@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PRISCILA DOS SANTOS STURMER, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Na hipótese, depreende-se dos autos que a paciente teve a sua prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto no artigo 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado: (fls. 98-99)
+"(..) HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33 DA LEI N.11.343/2006). NEGATIVA DE ENVOLVIMENTO NOS FATOS. INCURSÃO NO CONTEXTO FÁTICO-PROBATÓRIO INVIÁVEL NA VIA ESTREITADO WRIT. PRESSUPOSTOS DA PRISÃO CAUTELAR PRESENTES. NÃO CONHECIMENTO NO PONTO. AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA. NÃO OCORRÊNCIA. OPERAÇÃO LEVADA A EFEITO PELO GAECO CHAPECÓ PARA APURAR PRÁTICA, EM TESE, DE CRIMES DE ORGANIZAÇÃO CRIMINOSA, TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO ENVOLVENDO 92 (NOVENTA E DOIS) INVESTIGADOS DE NÚCLEOS CRIMINOSOS SITUADOS EM VÁRIOS MUNICÍPIOS DO OESTE DE SANTA CATARINA. ENVOLVIMENTO DA PACIENTE, EM TESE, EM NÚCLEO CHEFIADO POR DETENTO DA PENITENCIÁRIA INDUSTRIAL DECHAPECÓ, "PADRINHO" DE FACÇÃO DE SEU ESPOSOCOINVESTIGADO, QUE EXERCE CARGO DE "DISCIPLINA" E "RPTDO DÓLAR", ATUANDO NO NARCOTRÁFICO E COMO "SECRETÁRIA" DA FACÇÃO, REPASSANDO RELATÓRIOS E COMUNICADOS A FACCIONADOS. CUMPRIMENTO DA BUSCA E APREENSÃO QUE APREENDEU 1,7G DE MACONHA; 72,7G DE CRACK; 1.293,1G DE COCAÍNA; 1 (UM) SIMULACRO DE ARMA DE FOGO; R$ 24.813,95(VINTE E QUATRO MIL OITOCENTOS E TREZE REAIS E NOVENTA ECINCO CENTAVOS) EM DINHEIRO; 1 (UMA) BALANÇA DE PRECISÃO. MOTIVAÇÃO IDÔNEA QUE NÃO AFRONTA A PRESUNÇÃO DE INOCÊNCIA NEM CARACTERIZA ANTECIPAÇÃO DA PENA. MEDIDAS CAUTELARES ALTERNATIVAS INADEQUADAS. PRIMARIEDADE, RESIDÊNCIA FIXA E OCUPAÇÃO LÍCITA E FILHA ADOLESCENTE. PREDICADOS PESSOAIS QUE NÃO AFASTAM A NECESSIDADE DA SEGREGAÇÃO CAUTELAR. DESPROPORCIONALIDADE DA MEDIDA EM RELAÇÃO A EVENTUALRESULTADOCONDENATÓRIO. PREENCHIMENTO DO REQUISITO OBJETIVO PREVISTO NO ART.313, INCISO I, DO CÓDIGO DE PROCESSO PENAL. PENA MÍNIMA DO DELITO SUPERIOR À QUATRO ANOS. EVENTUAL REGIME INICIAL DE CUMPRIMENTO DE PENA, EM CASO DE CONDENAÇÃO, QUE NÃO SE MOSTRA DESPROPORCIONAL À SEGREGAÇÃO CAUTELAR. EXCESSO DE PRAZO PARA REALIZAÇÃO DA INSTRUÇÃO E JULGAMENTO.
+EXISTÊNCIADE INÚMEROS PROCEDIMENTOS CONEXOS, PEDIDOS DE REVOGAÇÃO DE PRISÕES, HABEAS CORPUS NESTA CORTE E NO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE MORA INJUSTIFICADA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM CONHECIDA EM PARTE E DENEGADA. (..)"
+Alega constrangimento ilegal e falta de fundamentação idônea para a manutenção da segregação cautelar, ademais o excesso de prazo.
+Requer a concessão da ordem liminarmente, com a confirmação no mérito, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 129-131.
+Informações prestadas às fls. 137-579, 580-627 e 628-678.
+O Ministério Público Federal, às fls. 684-687, em parecer, manifes tou-se pelo não conhecimento do recurso, e no mérito, pela denegação da ordem.
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SC-, na data de hoje, foi proferida sentença, em 03/04/2024 , com a condenação da Paciente, logo, há um novo título judicial que deva ser desafiado por meio judicial próprio.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
