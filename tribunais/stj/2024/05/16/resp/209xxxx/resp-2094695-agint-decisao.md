@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 175/195) interposto contra decisão desta relatoria (e-STJ fls. 163/167), que deu provimento ao recurso especial de fls. 103/113 (e-STJ).
+Em suas razões, a parte alega, em suma, a validade da notificação eletrônica para fins de comunicar o consumidor acerca da inscrição de seu nome em cadastro de inadimplentes.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 302).
+É o relatório.
+Decido.
+Em virtude das razões de fls. 175/298 (e-STJ), apresentadas pela parte agravante, torno sem efeito a decisão de fls. 163/ 167 (e-STJ), e procedo a novo exame do recurso especial de fls. 103/113 (e-STJ).
+Trata-se de recurso especial interpost o contra acórdão do TJRS assim ementado (e-STJ fl. 88):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. REGISTRO EM CADASTRO DE INADIMPLENTES. VALIDADE DE NOTIFICAÇÃO PRÉVIA REALIZADA POR E-MAIL. DESCABIMENTO DA INDENIZAÇÃO POR DANO MORAL.
+1) A comunicação prévia ao consumidor acerca da anotação em banco de dados de proteção ao crédito, em virtude de pendência de pagamento de dívida, é essencial para que se possa exercer o direito de purgar a mora, bem assim para evitar as restrições decorrentes do registro.
+2) A lei não estabelece a forma pela qual deverá ser realizada a notificação, seja por carta com aviso de recebimento, carta simples, SMS, ou e-mail, mas exige apenas que seja realizada por escrito.
+3) Na espécie, restou demonstrado pela parte requerida que a notificação foi enviada por e-mail da parte autora que, por sua vez, apenas impugnou a notificação enviada eletronicamente de forma genérica, inexistindo qualquer impugnação quanto ao endereço do e-mail para o qual foi enviada a correspondência prévia. Ou seja, caberia à parte autora demonstrar que o endereço eletrônico fornecido não foi informado ao credor, ou que está impedido de receber notificações por ter sido excluída a conta, oque não ocorreu no caso em apreciação, razão pela qual é de se concluir pela veracidade das informações trazidas pela demandada e considerar válida a notificação.
+NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO.
+Nas razões do recurso especial (e-STJ fls. 103/113), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente apontou violação do art. 43, § 2º, da Lei n. 8.078/1990, além de dissídio jurisprudencial, alegando que "o acórdão recorrido, que manteve a sentença de primeira instância, violou o Art. 43, § 2º do CDC. O referido artigo prevê que: "para abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele"  ..  a exigência que tal comunicação prévia se dê por escrito. Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição (Súmula 359, STJ) e para comprovar a notificação prévia, basta que o arquivista demonstre ter enviado a carta ao endereço fornecido pela empresa credora associada" (e-STJ fl. 107).
+Contrarrazões apresentadas (e-STJ fls. 135/140).
+Juízo positivo de admissibilidade (e-STJ fls. 143/148).
+Relatado o especial, passo a decidi-lo.
+Cinge-se a controvérsia a definir a validade da comunicação remetida por e-mail ao consumidor acerca da inscrição de seu nome em cadastro de inadimplentes, para fins de atendimento ao disposto no art. 43, § 2º, do CDC.
+O Tribunal de origem, após análise do acervo fático-probatório, concluiu pela validade da notificação efetivada por e-mail em 20/5/2021 (e-STJ fl. 93), consignando que "não tendo impugnado de maneira clara, concreta e específica, em momento algum dos autos, os documentos apresentados pela ré, em especial o endereço do e-mail para o qual foram enviados os comunicados, é de se concluir pela veracidade das informações trazidas pela demandada e considerar válida a notificação." (e-STJ fl. 94).
+A decisão recorrida está em consonância com o entendimento da Quarta Turma desta Corte, firmado no julgamento do REsp n. 2.063.145/RS (Rel. Ministra Maria Isabel Gallotti, Quarta Turma, por maioria, julgado em 14/3/2024), segundo o qual, é válida a comunicação remetida por e-mail para fins de notificação do consumidor acerca da inscrição de seu nome em cadastro de inadimplentes, desde que comprovado o envio e a entrega da mensagem ao servidor de destino.
+No mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES (CDC, ART. 43, § 2º). NOTIFICAÇÃO PRÉVIA ENVIADA POR E-MAIL. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. No caso, o Tribunal a quo, após o exame dos autos, das provas, dos documentos e da natureza da lide, concluiu pela validade da notificação efetivada por e-mail, no qual constou "comunicado a origem da dívida a ser apontada no cadastro de inadimplentes, o valor da anotação, o contrato e a data de vencimento da obrigação junto ao credor, possibilitando-se ao consumidor, desta maneira, a ciência prévia quanto ao aponte de seu nome junto aos órgãos de proteção ao crédito pela arquivista". Consignou, ainda, que "há informação da data em que enviada a notificação eletrônica, o status de "entregue", bem como ID da mensagem e o número de serial, a legitimar a comunicação efetivada via mensagem por e-mail remetida".
+2. Nos termos do entendimento da Quarta Turma, firmado no julgamento do REsp 2.063.145/RS (Relatora Ministra MARIA ISABEL GALLOTTI, j. em 14/3/2024) considera-se válida a comunicação remetida por e-mail, para fins de inscrição em cadastro de inadimplentes, com atendimento ao disposto no art. 43, § 2º, do Código de Defesa do Consumidor.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no REsp n. 2.110.068/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+Incide a Súmula n. 568 do STJ.
+Diante do exposto, TORNO SEM EFEITO a decisão monocrática de fls. 163/167 (e-STJ), e NEGO PROVIMENTO ao recurso especial de fls. 103/113 (e-STJ), nos termos da fundamentação ora expendida.
+Ante o desprovimento do recurso especial e na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios devidos pela parte recorrente (ora agravada) em 20% (vinte por cento) do valor arbitrado pela instância a quo, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
