@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interposto por TERESINHA ANTUNES DOS SANTOS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise do re curso de TERESINHA ANTUNES DOS SANTOS, há divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento.
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Ademais, percebido, no Tribunal de origem, haver irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Porém, apesar de sua manifestação, o preparo ainda restou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, o óbice não se tratava da apresentação de comprovante de agendamento de pagamento, consoante informa o despacho do Tribunal (fl. 467), porém de divergência entre o código de barras da guia de recolhimento (fl. 455) e o do comprovante de pagamento (fl. 456/458) anexados.
+Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de cinco dias, o vício apontado, recolhendo em dobro as custas. Porém, a parte não regularizou, uma vez que limitou-se a trazer à fl. 455 a guia referente ao comprovante de pagamento anteriormente apresentado (fl. 456/457), sem efetuar a complementação.
+Nos termos do art. 1.007, §4º, do CPC, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, as custas eram devidas em dobro. Note-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
