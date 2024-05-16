@@ -1,0 +1,24 @@
+DECISÃO
+Na origem, trata-se de execução fiscal ajuizada pelo CONSELHO REGIONAL DE MEDICINA DO ESTADO DO RIO DE JANEIRO contra ISOMEDIC ADMINISTRADORA DE PLANOS DE SAÚDE LTDA EM LIQUIDAÇÃO. Na sentença, julgou-se extinto o pedido, em virtude do não atendimento da substituição da CDA. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 11.653,11 (Onze mil, seiscentos e cinquenta e três reais e onze centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+EXECUÇÃO FISCAL. CREMERJ. COBRANÇA DE ANUIDADES. ATUALIZAÇÃO DO DÉBITO. LEIS N.º 10.522/2002 E  9.430/1996. ERRO DE LANÇAMENTO. SÚMULA 392 DO STJ. OPORTUNIDADE CONFERIDA MAS NÃO APROVEITADA. VÍCIO NÃO SANADO. SENTENÇA MANTIDA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+No presente caso, a CDA juntada à inicial não utiliza a taxa SELIC como indexador, mas índice diverso,tornando-se inexigível, por ausência de liquidez, certeza e exigibilidade. A utilização de indexador equivocado nainscrição do crédito fulmina o próprio lançamento, constituindo vício insanável e, portanto, inviável de simplessubstituição por outra certidão de dívida ativa antes da sentença. Tal cálculo equivocado também compromete aaferição do cumprimento ao artigo 8º da Lei 12.514/2011.
+A hipótese não comporta substituição da CDA, já que se trata de erro de lançamento e de inscrição em dívida ativa, e não de erro formal ou material nos termos da Súmula 392 do STJ. Neste sentido, acórdão do Superior Tribunal de Justiça, abaixo transcrito:
+ ..
+A advertência de extinção, já com a rejeição de eventual pedido de dilação de prazo, foi expressa e justificada pelo juiz de primeiro grau.
+Após as advertências, o exequente nem sequer aproveitou, tempestivamente, a oportunidade conferida, e a tentativa de juntar nova CDA após a sentença, já em sede embargos de declaração alegando erro material, não prospera.
+Dessa forma, viciada a CDA que fundamenta a execução, a extinção da execução é de rigor já que trata de erro de lançamento.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, (arts. 2º, § 8º, da Lei n. 6.830/80 e art. 8º da Lei n. 12.514/2011 - exame da CDA e conformidade) verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
