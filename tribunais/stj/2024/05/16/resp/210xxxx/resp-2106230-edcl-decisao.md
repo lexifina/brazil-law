@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo RESIDENCIAL ANITA GARIBALDI, em face da decisão que determinou o envio do recurso ao Tribunal a quo para aguardar a solução do tema 1191, que trata da aplicabilidade do art. 166 do CTN.
+O embargante afirma que houve erro material, porque a questão não se enquadra no tema em referência, haja vista a natureza do tributo sob exame.
+É o relatório. Decido.
+Assiste razão ao recorrente, sobre a ocorrência de erro material.
+De fato, o Tribunal a quo, ao decidir a questão, com fundamento no art. 166 do CTN, entendeu que cumpria ao condomínio provar que não incluiu o valor da taxa de coleta e destinação de resíduos sólidos - TCDR, na valor condominial, porquanto o tributo comportaria a transferência do encargo financeiro aos condôminos.
+Não obstante, verifica-se que a taxa de resíduos é classificada na categoria dos tributos diretos, o que impossibilita a transferência do encargo, conforme se verifica da jurisprudência, abaixo ementada:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. IPTU. MUNICÍPIO DO RIO DE JANEIRO. PRESCINBILIDADE DA JUNTADA DE TODOS OS COMPROVANTES COM A INICIAL. ART. 166 DO CTN. DESNECESSIDADE DE COMPROVAÇÃO DA INEXISTÊNCIA DE REPASSE DO IMPOSTO. SÚMULA 83/STJ. INCIDÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual em ação de repetição de indébito, os documentos indispensáveis mencionados no art. 283 do CPC são aqueles hábeis a comprovar a legitimidade ativa ad causam do contribuinte que arcou com o pagamento indevido da exação, sendo desnecessária, para efeito de reconhecimento do direito alegado pelo autor, a juntada de todos os comprovantes de recolhimento do tributo, providência que deverá ser levada a termo, quando da apuração do montante que se pretende restituir, em sede de liquidação do título executivo judicial.
+III - O Superior Tribunal de Justiça possui entendimento de que o art. 166 do CTN não tem aplicabilidade aos tributos diretos, como via de regra, são o IPTU e as taxas incidentes sobre o imóvel, vez que referidas exações não podem ser enquadradas no rol de tributos que comportem, por sua natureza, transferência do referido encargo.
+IV - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ.
+V - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VI - Agravo Regimental improvido.
+(AgRg no AgRg no REsp n. 1.294.961/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/4/2016, DJe de 19/4/2016.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. IPTU E TAXAS. REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. DESNECESSIDADE DE COMPROVAÇÃO DA INEXISTÊNCIA DE REPASSE DO IMPOSTO. TRIBUTO DIRETO.
+1. O art. 166 do Código Tributário Nacional, não tem aplicabilidade aos tributos diretos, como via de regra, são o IPTU e as taxas incidentes sobre o imóvel, vez que referidas exações não podem ser enquadradas no rol de tributos que comportem, por sua natureza, transferência do referido encargo.
+2. Precedentes: AgRg no REsp 791.261/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 02/06/2009, DJe 15/06/2009; REsp 916.877/RJ, Rel. Ministro Castro Meira, Segunda Turma, julgado em 24/04/2007, DJ 08/05/2007, p. 166; EDcl no AgRg no REsp 633.775/RJ, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 05/12/2006, DJ 18/12/2006, p. 311; REsp 778.162/SP, Rel. Ministro João Otávio de Noronha, Segunda Turma, julgado em 21/03/2006, DJ 19/04/2006, p. 127.
+3. Embargos de divergência providos.
+(EREsp n. 775.761/RJ, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 23/9/2015, DJe de 30/9/2015.)
+Ante o exposto, com fundamento no art. 1.021, §2º do CPC/2015 e 259, §6º do RISTJ, reconsidero a decisão embargada , tornando-a sem efeito e com esteio no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer a legitimidade do recorrente para pleitear a restituição do tributo, devendo-se prosseguir com o processo.
+Publique-se. Intimem-se.
+EMENTA
