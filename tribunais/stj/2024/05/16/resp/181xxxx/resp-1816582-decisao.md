@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ISA INDUSTRIA E COMERCIO DE CONFECCOES LTDA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 202):
+TRIBUTÁRIO. EXCLUSÃO DO SIMPLES NACIONAL. LANÇAMENTO PELO REGIME NORMAL SEM DEFESA PRÉVIA. VIOLAÇÃO DO CONTRADITÓRIO. INEXISTÊNCIA. VALIDADE DO ATO CONSTITUTIVO DO TRIBUTO. IMPUGNAÇÃO ADMINISTRATIVA. CAUSA DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. PROCEDÊNCIA PARCIAL DOS PEDIDOS. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO.
+1. Apelação interposta pela Fazenda Nacional contra sentença que, em ação de rito comum, com pedido de tutela provisória de urgência, julgou parcialmente procedente o pedido para, ratificando a tutela provisória de urgência, manter a suspensão da exigibilidade do crédito tributário objeto dos Processos Administrativos nºs 10.380-728.469/2016-17, 10.380-728.443/2016-61 e 10.380-728.540/2016-53, assim como manter a suspensão dos efeitos do Ato de exclusão da autora do Simples Nacional até o julgamento definitivo da manifestação de inconformidade oposta nos autos do Processo Administrativo n.º 10.380.728377/2016-29.
+2. Insurgência quanto à condenação da União no reembolso das custas processuais antecipadas pela autora, bem como em honorários advocatícios a favor do patrono desta, fixados em 10% (dez por cento)sobre o valor atualizado da causa. Existência sucumbência recíproca e consequente necessidade de rateio das verbas devidas.
+3. Apelação adesiva interposta pelo contribuinte, argumentando a invalidade dos lançamentos, vez que não foram efetuados com a finalidade de prevenir a decadência, tendo sido preterido o seu legítimo direito de defesa.
+4. Em que pese a ausência de ilegalidade no lançamento de ofício pela Fazenda Pública, a apresentação de impugnação pelo contribuinte tem força para sobrestar a exigibilidade do tributo, até o julgamento final. Neste ponto, não merece reparos a sentença.
+5. Deve ser reconhecida a sucumbência recíproca, eis que, dos pedidos formulados na inicial, apenas um foi julgado procedente.
+6. Determino o rateio das custas processuais antecipadas pela autora, restringindo à metade o reembolso a ser efetuado pela União, reduzo para 5% (cinco por cento) o valor da condenação a título de honorários advocatícios a favor do patrono desta e fixo em 5% os honorários sucumbenciais em favor da União, ambos sobre o valor atualizado da causa.
+7. Apelação do contribuinte a que se nega provimento.
+8. Apelação da Fazenda Pública a que se dá provimento.
+Os embargos de declaração opostos foram improvidos (fls. 238/241).
+Em suas razões recursais, a parte recorrente aponta violação ao art. 1.022 do Código de Processo Civil ao defender omissão do Tribunal de origem quanto: a) à inexigibilidade de pagamento de tributos pelo regime normal de recolhimento, quando pendente de julgamento, na via administrativa, a validade do ato de exclusão do Simples; b) à inexistência nos autos de infração de qualquer indicação acerca da suspensão da exigibilidade ou da sua lavratura como forma de prevenção à decadência.
+A parte adversa apresentou contrarrazões (fls. 263/270).
+O recurso foi admitido na origem (fl. 272).
+É o relatório.
+Ao solucionar a controvérsia, o Tribunal de origem manteve a sentença que suspendeu a exigibilidade do crédito tributário, bem como os efeitos do ato de exclusão do Simples Nacional até o julgamento definitivo da manifestação de inconformidade. Na ocasião fundamentou-se que:
+O processo administrativo é regido pelo princípio da verdade material, cabendo ao Fisco reconhecer eventual nulidade ou excesso. Assim, temos que, no processo administrativo tributário de exclusão do Simples Nacional, se exige que as alegações do contribuinte sejam efetivamente levadas em consideração, não podendo os órgãos administrativos afastar essas argumentações sem enfrentá-las.
+Por sua vez, dispõe o art. 151, III, do CTN, que as reclamações e os recursos, nos termos das leis reguladoras do processo tributário administrativo são causas suspensivas da exigibilidade do crédito tributário.
+Assim, em que pese não haver ilegalidade no lançamento de ofício pela Fazenda Pública, à apresentação de impugnação pelo contribuinte deve ser reconhecida a força para sobrestar a exigibilidade do tributo, até o julgamento final.
+Tem-se, portanto, que quanto à (in)validade dos lançamentos, a sentença não merece reparos.
+Por outro lado, deve ser reconhecida a sucumbência recíproca, eis que, dos pedidos formulados na inicial, apenas um foi julgado procedente.
+Isso posto, acolho o pedido da Fazenda Nacional para: a) determinar o rateio das custas processuais antecipadas pela autora, restringindo à metade o reembolso a ser efetuado pela União; b) reduzir para 5%(cinco por cento) o valor da condenação a título de honorários advocatícios a favor do patrono desta; e c)fixar em 5% os honorários sucumbenciais em favor da União, ambos sobre o valor atualizado da causa.
+Como se vê, o Tribunal de origem ressaltou o direito do Fisco de lançar os tributos devidos como forma de prevenção da decadência do crédito tributário, atentando para a impossibilidade da continuidade dos procedimentos de cobrança antes do julgamento da manifestação de inconformidade.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos apresentados pelas partes em defesa de suas teses. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no presente caso.
+Vale destacar que o simples descontentamento da parte interessada com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO.
+ ..
+5. Não se configura a alegada ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+6. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+7. Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+8. Agravo conhecido para conhecer do Recurso Especial, apenas quanto à ofensa ao art. 535 do CPC e, nessa parte, negar-lhe provimento.
+(AREsp n. 1.579.801/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020.)
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
