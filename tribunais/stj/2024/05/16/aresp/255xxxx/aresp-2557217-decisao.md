@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por WAGNER CLEITON DOS REIS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (e-STJ, fls. 381-404).
+Em suas razões recursais, a parte recorrente aponta violação dos artigos 33, caput, e §§2ºe 3; e 59, caput, e incisos I e II, ambos do Código Penal; e do artigo 42, da Lei 11.343/06.
+Aduz, para tanto, que " a despeito de se tratar de apreensão de cocaína e maconha, foi localizada pequena quantidade de entorpecentes, o que afasta a compreensão de que a pena-base deve ser estabelecida acima do mínimo legalmente previsto".
+Pontua também que "considerando a integralidade favorável das circunstâncias judiciais -uma vez que a consideração negativa de a nocividade e quantidade das drogas deve ser afastada -a primariedade e o quantum de pena concretizada, o recorrente faz jus ao restabelecimento do regime intermediário".
+Com contrarrazões (e-STJ, fls. 426-429), o recurso especial foi inadmitido na origem (e-STJ, fls. 433-435), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 471-472).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+No caso, observa-se que as instâncias ordinárias, atentas ao disposto no art. 42 da Lei de Drogas, sopesaram a variedade e a quantidade de droga apreendida (18,2g de maconha, divididos em 17 invólucros; e 58,8g de cocaína, divididos em 22 invólucros mais 41 microtubos) para aumentar a pena-base do recorrente em 6 meses de reclusão acima do mínimo legal.
+Tendo sido apresentados elementos válidos para a majoração da reprimenda básica, não se identifica a alegada contrariedade ao art. 59 do CP, sobretudo quando presente circunstância elencada legalmente como preponderante, e as penas máxima e mínima abstratamente cominadas ao delito de tráfico de drogas são de 5 a 15 anos de reclusão.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. PENA-BASE. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. A Corte estadual, de acordo com o conjunto probatório colhido nos autos, entendeu que o apenado praticou o delito de associação para o tráfico de drogas. Destacou que o apenado foi apreendido em local dominado pela facção criminosa "A.D.A", com drogas fracionadas, contendo a identificação do referido grupo criminoso, e que assumiu que estava vendendo as drogas em nome da facção, revelando, inclusive, a sua função na empreitada criminosa (vapor). A fundamentação apresentada mostra-se idônea e em conformidade com a jurisprudência desta Corte. Para afastá-la, é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus. Precedentes.
+2. O art. 42 da Lei n. 11.343/06 e a jurisprudência desta Corte entendem que a quantidade e a natureza da droga apreendida (299g de maconha e 27g de cocaína) justificam a exasperação da pena-base. Precedentes.
+3. Agravo desprovido
+(AgRg no HC n. 809.751/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. QUANTIDADE E VARIEDADE DE DROGAS. EXASPERAÇÃO DA PENABASE EM 1/6 ACIMA DO MÍNIMO LEGAL. DOSIMETRIA DA PENA. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+II - O julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, pois isso está no âmbito da sua discricionariedade, embora ao fazê-lo deva fundamentar com elementos concretos da conduta do acusado.
+III - O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no artigo 59 do Código Penal, a quantidade, natureza e diversidade das substâncias ou dos produtos apreendidos, a personalidade e a conduta social do agente.
+IV - Cabe a este Tribunal apenas o controle de legalidade do critério eleito pela Corte local, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação concreta, não havendo nenhum ajuste a ser feito em relação à dosimetria da pena.
+V - O número de porções embaladas para venda (21 pedras de crack e 6 porções de cocaína) e a natureza da droga (cocaína e crack), além da porção de 51,27g de maconha, levam à conclusão de maior reprovabilidade da conduta em razão da variedade e não seu do seu peso individualmente considerado.
+VI - A exasperação da pena-base em fração prudencial de 1/6, a partir de fundamentação concreta e individualizada, guarda razão de proporcionalidade à conduta do agravante. Agravo regimental desprovido."
+(AgRg no HC n. 872.165/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
