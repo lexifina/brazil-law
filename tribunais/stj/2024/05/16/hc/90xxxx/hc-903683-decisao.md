@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BEATRIZ CANSIAN apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1529546-75.2020.8.26.0050).
+Consta dos autos que a paciente respondia ao processo em liberdade e foi condenada, em primeira e segunda instâncias, pela prática do crime de lavagem de dinheiro à pena privativa de liberdade de 04 anos e 01 mês de reclusão, além de multa, no regime fechado (e-STJ fls. 60/170).
+Ao julgar as apelações interpostas, o Tribunal local determinou a expedição do mandado de prisão em desfavor da paciente.
+No presente mandamus, a defesa aduz, em síntese, a existência de constrangimento ilegal ante a ordem de expedição de mandado de prisão antes do trânsito em julgado da condenação, enquanto ainda pende a possibilidade da interposição de outros recursos.
+Pugna, assim, em liminar e no mérito, pelo expedição de salvo-conduto em benefício da paciente, a fim de que "seja respeitado o entendimento de que o cumprimento de pena ocorra tão somente com o trânsito em julgado da ação penal" (e-STJ fl. 9).
+Deferido o pedido liminar (para determinar que a paciente aguardasse em liberdade o julgamento do mérito do presente habeas corpus) e prestadas as informações (e-STJ fls. 97/183), o Ministério Público Federal manifestou-se pela concessão da ordem, em parecer assim ementado (e-STJ fls. 186/194 - grifos originais):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. SANÇÃO DE 4 ANOS E 1 MÊS, EM REGIME FECHADO. INOCORRÊNCIA DE TRÂNSITO EM JULGADO. AUSÊNCIA DE DECRETAÇÃO DE PRISÃO PREVENTIVA. EXECUÇÃO PROVISÓRIA DA PENA FORA DE QUALQUER HIPÓTESE LEGAL. ILEGALIDADE MANIFESTA. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS, MAS PELA CONCESSÃO DA ORDEM, DE OFÍCIO.
+1. O c. STJ, em consonância com o Excelso Supremo Tribunal Federal, pacificou orientação no sentido de que não cabe habeas corpus substitutivo de recurso legalmente previsto para a hipótese, impondo-se o seu não conhecimento, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem de ofício;
+2. Porquanto a pena final da Paciente tenha sido inferior a 15 anos(4 anos e 1 mês de reclusão, em regime fechado), ainda não tenha ocorrido o trânsito em julgado da condenação, tampouco sido
+decretada a sua prisão preventiva, é descabida expedição demandado de prisão, o que caracterizaria início provisório da execução da pena, fora de qualquer hipótese legal;
+3. Parecer pelo NÃO CONHECIMENTO da impetração, mas pela CONCESSÃO da ordem, de ofício.
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem, que denega a ordem no habeas corpus, é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+A defesa afirma não ser possível a execução provisória das penas, invocando o princípio da presunção de inocência para amparar a sua tese.
+Assiste-lhe razão.
+Explico.
+A paciente respondia ao processo em liberdade. O Tribunal local, após o julgamento da apelação, determinou a expedição de mandado de prisão, in verbis (e-STJ fls. 15/78):
+Em síntese, ficam fixadas as seguintes penas finais:
+Para os réus Beatriz, Vinicius e Vania (04 anos e 01 mês de reclusão e 12 dias-multa, no mínimo legal); Emerson (04 anos, 09 meses e 05 dias de reclusão e 14 dias-multa, no mínimo legal); todos como incursos no art. 1º, da Lei n. 9.613/98, duas vezes, c.
+ ..
+Ante o exposto, pelo meu voto, acolho somente a preliminar de anulação do processo por afronta ao "Princípio da Correlação", especificamente para anular a condenação dos réus Vânia Pereira de Souza, Vinícius Alexandre dos Santos Silva, Emerson Romanholie Beatriz Cansian, pela prática do delito de furto, não conheço da preliminar referente à inépcia da denúncia, rejeito as demais preliminares arguidas, e, no mérito, nego provimento aos recursos Defensivos e dou provimento ao recurso Ministerial, para majorar a reprimenda de todos os acusados, e para fixar a todos os réus, o regime inicial fechado para cumprimento das penas, nos termos deste Voto, e mantenho, no mais, a r. sentença por seus próprios e jurídicos fundamentos. Oportunamente, expeçam-se mandados de prisão em desfavor dos réus Beatriz Cansian, Vânia Pereira de Souza, Vinícius Alexandre dos Santos Silva, Emerson Romanholie Júlia Rodrigues de Oliveira.
+No caso, após a confirmação da condenação pelo Tribunal a quo, foi determinado o imediato início da execução provisória da sanção imposta.
+Efetivamente, esse era o entendimento do Supremo Tribunal Federal, adotado a partir do julgamento do Habeas Corpus n. 126.292:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus denegado (HC n. 126.292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/2/2016, DJe 17/5/2016).
+Vale lembrar que, para o Relator do caso julgado pelo Supremo Tribunal Federal, Ministro Teori Zavaski, a manutenção da sentença pelo Tribunal revisor encerrava a análise probatória, ficando autorizada, a partir de então, a execução da pena.
+Porém, esse entendimento foi alterado por ocasião do julgamento do mérito das Ações Declaratórias de Constitucionalidade (ADC) 43, 44 e 54, pelo Suprema Corte, como se extrai do portal de notícias do STF:
+ .. , por maioria, o Plenário do Supremo Tribunal Federal (STF) decidiu que é constitucional a regra do Código de Processo Penal (CPP) que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena. Nesta quinta-feira (7)  de novembro de 2019 , a Corte concluiu o julgamento das Ações Declaratórias de Constitucionalidade (ADC) 43, 44 e 54, que foram julgadas procedentes (Disponível em: http://portal.stf.jus.br/noticias/ verNoticiaDetalhe.asp idConteudo=429359&ori=1);
+Portanto, prevalece agora o entendimento de que a execução provisória da pena antes do trânsito em julgado da condenação viola o princípio constitucional da presunção de inocência.
+Assim, a prisão antes do esgotamento dos recursos somente poderá ser efetivada em caráter cautelar, de forma individualizada, com a demonstração da presença dos requisitos autorizadores do art. 312 do Código de Processo Penal, o que parece não ocorreu, na espécie: a prisão da paciente foi determinada como consectário lógico do julgamento do recurso de apelação.
+Nesse sentido:
+ ..
+3. Nesse contexto, como destacado no parecer ministerial, "a Suprema Corte, por ocasião do julgamento das ADCs 43, 44 e 54, alterou o entendimento anterior sobre o tema, passando a reconhecer a constitucionalidade do artigo 283 do CPP, que impede a execução da pena antes do trânsito em julgado da sentença penal condenatória, salvo nas hipóteses de prisão de natureza cautelar." (e-STJ fl. 64).
+4. Cumpre observar, ainda, que o agravado respondeu ao processo em liberdade, não tendo sido apresentado nenhum fato novo ou contemporâneo que justifique o seu encarceramento.
+ ..
+(AgRg no HC n. 842.969/RS, minha relatoria, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024, g.n.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIOS DO ART. 619 DO CPP NÃO CONSTATADOS. EXECUÇÃO IMEDIATA DA PENA. IMPOSSIBILIDADE. COMPREENSÃO DO PRETÓRIO EXCELSO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado; é inadmissível quando objetiva apenas a reversão do julgado.
+2. Sobre o tema tratado nos autos, é imperioso destacar também que, no dia 7/11/2019, o Supremo Tribunal Federal modificou sua compreensão ao concluir o julgamento das ADC"s 43, 44 e 54. Por maioria de votos (6 X 5), o Plenário decidiu que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso para o início do cumprimento da pena.
+Portanto, o art. 283 do CPP está em conformidade com a garantia prevista no artigo 5º, inciso LVII, da Constituição Federal.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no HC n. 498.030/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023, g.n..).
+Com razão a defesa.
+Ante o exposto, não conheço do habeas corpus. Entretanto, concedo a ordem de ofício para confirmar a medida liminar e, com parecer favorável do Ministério Público Federal, suspender a execução provisória da pena da paciente e lhe conceder o direito de aguardar, em liberdade, o esgotamento de todas as possibilidades de recurso para o início do cumprimento d a pena.
+Comunique-se. Publique-se.
+EMENTA
