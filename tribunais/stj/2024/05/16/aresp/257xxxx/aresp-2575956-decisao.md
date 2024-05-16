@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SETA EMPREENDIMENTOS IMOBILIÁRIOS LTDA (SETA) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, SETA alegou a violação dos arts. 32 da Lei n.º 6.766/79 e 240 do CPC, além de dissídio jurisprudencial, ao sustentar que (1) não é exigida, no caso dos autos, a prévia constituição em mora do devedor, visto que não se trata de imóvel em loteamento; (2) de toda forma, houve o envio de notificação extrajudicial ao endereço do devedor primitivo, sendo dispensável interpelação por meio do Oficial do Registro de Títulos; e, (3) ainda, a citação válida na ação judicial é suficiente para a constituição em mora.
+(1) Da exigência de prévia constituição em mora do devedor
+De início, SETA sustentou, em seu apelo nobre, que não é exigida, no caso dos autos, a prévia constituição em mora do devedor, prevista no art. 32 da Lei n.º 6.766/79, visto que não se trata de compromisso de compra e venda de imóvel em loteamento urbano.
+Ocorre que o TJPR consignou, expressamente, que a discussão posta nos autos se refere a contrato de compra e venda de terreno localizado em loteamento urbano (e-STJ, fl. 843).
+Essa premissa é insusceptível de modificação por esta Corte Superior, porquanto tal providência demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado na estreita via do recurso especial em razão do óbice da Súmula n.º 7 do STJ.
+Assim, o recurso especial não merece ser conhecido quanto ao ponto.
+(2) Do envio de notificação extrajudicial ao endereço do devedor
+De outro turno, SETA defendeu que houve o envio de notificações extrajudiciais ao endereço do devedor primitivo, o que satisfaz a exigência de prévia constituição em mora, sendo dispensável interpelação por meio do Oficial do Registro de Títulos.
+De fato, a jurisprudência desta Corte entende que a exigência prevista no art. 32 da Lei n.º 6.766/79 pode ser satisfeita mediante o envio de carta com aviso de recebimento ao endereço do devedor, e não apenas por meio do Oficial de Registro.
+Contudo, exige-se que, na hipótese de envio de carta ao devedor, o recibo seja por ele próprio assinado, conforme exegese do art. 49 daquele Diploma legal, que assim estabelece:
+Art. 49. As intimações e notificações previstas nesta Lei deverão ser feitas pessoalmente ao intimado ou notificado, que assinará o comprovante do recebimento, e poderão igualmente ser promovidas por meio dos Cartórios de Registro de Títulos e Documentos da Comarca da situação do imóvel ou do domicílio de quem deva recebê-las.
+Nesse sentido, confira-se o seguinte precedente deste Sodalício:
+RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. IMÓVEL EM LOTEAMENTO. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. PREENCHIMENTO DOS REQUISITOS DA LEI N. 6.766/1979. TESE NÃO DEBATIDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRETENSÃO DE RESOLUÇÃO CONTRATUAL. CONSTITUIÇÃO EM MORA. INTIMAÇÃO ATRAVÉS DE CARTA COM AVISO DE RECEBIMENTO. RECIBO ASSINADO PELO DEVEDOR. VALIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. O propósito recursal consiste em esclarecer se a intimação prevista no art. 32 da Lei n. 6.766/1979 - a fim de constituir em mora o devedor e, posteriormente, rescindir o contrato de compromisso de compra e venda de imóvel loteado - pode ser realizada através de carta com aviso de recebimento.
+2. A ausência de debate específico, pelo Tribunal de origem, sobre questão levantada nas razões do recurso especial caracteriza ausência de prequestionamento, a incidir a Súmula 211/STJ.
+3. A constituição em mora para fins de rescisão de contrato de compromisso de compra e venda de imóvel em loteamento, sujeito à disciplina da Lei n. 6.766/1979, pode se dar mediante intimação realizada pelo Oficial do Cartório do Registro de Imóveis (art. 32), pelo Oficial do Cartório do Registro de Títulos e Documentos (art. 49) ou por carta com aviso de recebimento, desde que assinado o recibo pelo próprio devedor, esta última hipótese decorrente da exegese do citado art. 49, como na hipótese.
+4. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 1.745.407/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/5/2021, DJe de 14/5/2021.)
+No caso dos autos, conforme soberanamente apurado pelo Tribunal estadual, apenas dois dos diversos documentados apresentados por SETA contém assinatura do recebedor, mas nenhuma delas é do devedor primitivo, o Sr. Norberto Pinheiro.
+Veja-se:
+A apelante juntou as notificações extrajudiciais no mov. 1.5 da demanda originária. O documento de p. 1 é datado de 11/4/2001 e conta com um carimbo do "Registro de Títulos e Documentos" no canto superior direito, porém, não é possível afirmar que a interpelação foi efetivamente realizada por meio dos Cartórios de Registro de Títulos e Documentos da Comarca da situação do imóvel, haja vista a ausência de certificação de recebimento válida lavrada pelo referido serviço público.
+Observa-se que o documento foi encaminhado via Correios, sendo recebido pelo cônjuge do contratante na data de 16/9/2010, ou seja, mais de dez anos após a suposta emissão da interpelação. Instado em audiência de instrução, o representante legal da apelante relatou não saber explicar sobre a incongruência entre as datas.
+Como asseverou o juízo de origem, não é crível que a missiva tenha sido recebida tanto tempo após a expedição, sendo possível concluir que somente foi expedida em meados de 2010, seja pela data de recebimento da correspondência, seja pelo demonstrativo de débito que acompanhou a notificação, o qual conta com a atualização do débito até 1/7/2010.
+Conclusão semelhante pode-se retirar das notificações de p. 6, 8, 9, 10, 12, 13, 14, 15, 16 e 17, que indicam datas de emissão nos períodos de maio de 2000 a abril de 2001, mas sequer contam com indícios de que foram remetidas via Cartórios ou Correios ou que foram recebidas pelo adquirente ou terceiro.
+A notificação de p. 11, assinada por Carlos Renato Filho, descendente do devedor-adquirente, menor de idade à época (14 anos), não cumpre a formalidade prevista pela lei, considerando que: i) não é possível afirmar que tenha sido encaminhada ao endereço do imóvel objeto do contrato; ii) apenas informa a rescisão do contrato, não oportunizando a purgação da mora pelo devedor, a exemplo do prazo e do valor inadimplido; iii) não está acompanhada de aviso de recebimento ou certidão lavrada por Cartório de Registro de Títulos ou Oficial de Registro de Imóveis.
+Não se olvida que há posicionamento jurisprudencial no sentido de que a notificação enviada ao endereço do contrato revela-se apta à constituição em mora. No entanto, conforme asseverou o Ministro Marco Aurélio Bellizze no julgamento do REsp 1.745.407/SP:
+ ..
+Ocorre que na ação principal apenas dois documentos assinados foram apresentados, o primeiro, aparentemente recebido pelo filho menor de idade do adquirente no ano de 2001, e que sequer mencionava a possibilidade de purgação da mora; o segundo, recebido pelo cônjuge do devedor no ano de 2010, 7 (sete) anos após o óbito do Sr. Norberto Pinheiro (mov.35.2 do 1º grau), ou seja, quando não mais possuía qualidade de sujeito de direito (e-STJ, fls. 846/847, grifou-se).
+Assim, inafastável a conclusão de que as notificações enviadas por SETA não cumprem com os requisitos previstos na lei, se mostrando, pois, inaptas a comprovar a prévia constituição em mora do devedor, como mesmo decidido pelo TJPR.
+Dessa maneira, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Incide ao recurso especial, quanto ao ponto, o disposto na Súmula n.º 568 do STJ.
+(3) Da citação na ação judicial
+Por último, SETA alegou que a citação válida na presente demanda seria suficiente para a constituição do devedor em mora, de acordo com o art. 240 do CPC.
+Verifica-se, contudo, que o Tribunal estadual não se pronunciou sobre tal ponto, apesar da oposição de embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à constituição em mora do devedor por meio da citação válida na presente ação.
+Nesse sentido, cita-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 211 DO STJ E 282 DO STF. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA. ART. 300 DO CPC. REQUISITOS. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado. Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+3. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.  ..
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.425.718/PA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Dessa forma, quanto ao ponto, incide a Súmula n.º 211 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de SETA, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL C/C PEDIDO DE INDENIZAÇÃO. TERRENO EM LOTEAMENTO URBANO. MODIFICAÇÃO DA PREMISSA FÁTICA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. PRÉVIA CONSTITUIÇÃO EM MORA DO DEVEDOR. ENVIO DE NOTIFICAÇÃO AO SEU ENDEREÇO. SUFICIÊNCIA, DESDE QUE A ASSINATURA CONSTANTE NO AVISO DE RECEBIMENTO SEJA A DO PRÓPRIO DEVEDOR. FORMALIDADE NÃO OBSERVADA NO CASO DOS AUTOS. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. TESE DE CONSTITUIÇÃO EM MORA DO DEVEDOR MEDIANTE A CITAÇÃO VÁLIDA NA PRESENTE AÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N.º 211 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
