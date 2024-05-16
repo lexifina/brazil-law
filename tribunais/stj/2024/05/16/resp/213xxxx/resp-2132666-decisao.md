@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, III, "a" da Constituição Federal, contra acórdão do Tribunal de Justiça local que, em juízo de retratação, afastou a forma tentada do delito do art. 155, caput, do CP e restabeleceu a pena fixada na sentença condenatória no patamar de 1 ano e 2 meses de reclusão em regime aberto, substituída a reprimenda corporal por restritiva de direitos.
+O recorrente aponta a violação dos arts. 155 e 14, I, do CP, alegando, em síntese, que "para consumação do furto, como cediço em doutrina e na pacífica jurisprudência das Cortes Superiores, basta o desapossamento da coisa subtraída, o qual se dá com a inversão da posse, não sendo necessário que a res furtiva saia da esfera de vigilância da vítima, e muito menos que o agente tenha posse mansa e pacífica sobre a mesma."(e-STJ fl. 204). Pede o restabelecimento da sentença de e-STJ fls. 107/116.
+Manifestação do Ministério Público Federal pela prejudicialidade do recurso às e-STJ fl.s 350/353.
+É o relatório. Decido.
+De pronto, cumpre registrar que, conforme bem destacado pelo douto representante legal do Ministério Público Federal, "os Desembargadores que integram a Sexta Câmara Criminal do Tribunal de Justiça Estado do Rio de Janeiro, por unanimidade de votos, em sede de juízo de retratação, determinaram o reestabelecimento da condenação do denunciado, nos termos fixados na sentença, à reprimenda de 01 ano e 02 meses de reclusão, em regime aberto, e 12 dias-multa, mantida a substituição por restritivas de direitos, por entender que, "na hipótese, ocorreu a inversão da res, tendo em vista que o autor reteve o bem consigo ainda que tenha o deixado cair ao chão"(fls. 269)."
+Nessas condições, JULGO PREJUDICADO o recurso, diante da perda do objeto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça.
+Intimem-se.
+EMENTA
