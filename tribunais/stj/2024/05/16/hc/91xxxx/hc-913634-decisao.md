@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCIO ALVES BATISTA contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS proferido na Apelação Criminal n. 0702739-61.2022.8.07.0001, assim ementado (fls. 267/268):
+APELAÇÃO CRIMINAL. FURTO TENTADO. DOSIMETRIA DA PENA. PRIMEIRA FASE. MAUS ANTECEDENTES. FRAÇÃO DE 1/8 DO INTERVALO ENTRE ASPENAS MÍNIMA E MÁXIMA. CONDENAÇÕES TRANSITADAS EM JULGADO ANTES DO FATO EM APREÇO. MULTIRREINCIDÊNCIA E CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO PROPORCIONAL. TEMA 585/STJ. PENA INFERIOR A QUATRO ANOS. REGIME INICIAL FECHADO. RECOMENDAÇÃO NO CASO CONCRETO. SENTENÇA REFORMADA.
+1. Não existe critério matemático legalmente previsto para a fixação da pena-base, sendo reputada adequada, pelo STJ, a exasperação da reprimenda à razão de 1/8(um oitavo) do intervalo entre as penas mínima e máxima cominadas em abstrato ao tipo penal, para valorar negativamente cada circunstância judicial do art. 59 do CP.
+2. Somente condenações transitadas em julgado, em data anterior aos fatos em julgamento, estão aptas a configurar a reincidência.
+3. Havendo multirreincidência, deve ser reconhecida a preponderância da agravante(art. 61, I, CP), sendo admissível sua compensação proporcional com a atenuante daconfissão espontânea (Tema 585/STJ).
+4. O aumento aplicável à pena em razão da concorrência desproporcional entre atenuante e agravante deve ocorrer por fração menor do que 1/6 (um sexto),usualmente aplicada na segunda fase da dosimetria, em atenção aos princípios da proporcionalidade e da individualização da pena.
+5. O art. 33, caput, do CP autoriza a fixação de regime inicial fechado, ainda que apena tenha sido fixada abaixo de 4 (quatro) anos, quando as circunstâncias específicas dos autos demonstrarem que a medida melhor atende aos propósitos da sanção penal de prevenção e repressão de delitos.
+6. Recurso parcialmente provido.
+Consta nos autos que o paciente foi condenado à pena de 1 ano e 9 meses de reclusão, em regime inicial fechado, acrescida de 10 dias-multa, como incurso no art. 155, § 4º, I , c/c o art. 14, II, ambos do Código Penal.
+A apelação interposta pela defesa foi parcialmente provida para fixar a pena definitiva em 1 ano, 3 meses e 13 dias de reclusão, além de 6 dias-multa, mantidos os demais termos da sentença primeva.
+Neste writ, a impetrante alega que o regime prisional para o cumprimento da reprimenda deve ser abrandado, em razão da quantidade de pena aplicada ao paciente, bem como pela "a ausência de violência ou grave ameaça a pessoas e o fato de que apenas uma única moduladora foi avaliada negativamente" (fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem para fixar o regime prisional semiaberto.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC n. 856.046/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/10/2023, DJe 30/10/2023).
+Portanto, passo a analisar diretamente o mérito do writ.
+No que interessa à solução da controvérsia, tem-se que o Tribunal de origem declinou as seguintes razões (fl. 281):
+Conforme mencionado alhures, trata-se de réu reincidente. Assim, a definição entre os regimes semiaberto ou fechado para o início do cumprimento de sua pena deve estar pautada na análise das circunstâncias judiciais estabelecidas no art. 59 do CP, conforme esclarecido em linhas volvidas.
+Na hipótese, assim como a reincidência, os maus antecedentes do réu estão configurados por mais de uma condenação, todas relativas a crimes contra o patrimônio, tendo-lhe sido oportunizado, até aqui, cumprir as correspondentes penas nos regimes aberto e semiaberto (ID52590744).
+Para mais, a Folha de Antecedentes Criminais do réu traz informação de que ele se utiliza de diversas alcunhas em sua conduta delitiva, sendo elas: Messias; Marcelo Barbosa de Amorim; Ivan Elias de Oliveira; Ivan Gome da Silva; Ivan Elias de Oliveira e Ivan Gomes da Silva (ID 52590744, fl. 15), revelando seu propósito em esquivar-se da justiça.
+Nesse cenário, reputo acertada a fixação do regime fechado, porquanto a situação específica dos autos demonstra que a concessão de regime mais brando, no caso concreto, não atenderia aos propósitos da sanção penal, quais sejam a prevenção e a repressão de delitos.
+Em arremate, embora o tema não tenha sido objeto de impugnação específica, ratifico a impossibilidade de concessão dos benefícios da substituição privativa de liberdade por restritiva de direitos (art. 44, CP) ou de suspensão condicional da pena (art. 77, CP).
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso para fixar a pena definitiva em 1 (um) ano, 3 (três) meses e 13 (treze) dias de reclusão, além de 6(seis) dias-multa, mantidas as demais disposições estabelecidas na r. sentença, especialmente o regime inicial de cumprimento da pena.
+Na hipótese, constata-se que o regime inicial fechado foi mantido dada a presença de circunstância judicial desfavorável na primeira fase da dosimetria da pena (maus antecedentes) e o fato de o paciente ser reincidente.
+Ao assim decidir, verifica-se que o entendimento do Colegiado local está em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que ""a existência de circunstância judicial desfavorável, somada à reincidência, é suficiente para manter o regime inicial fechado, apesar de a pena aplicada ser inferior a 4 anos de reclusão. Inaplicabilidade da Súmula 269/STJ" (HC 218.506/SC, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 28/03/2012) (AgRg no HC n. 626.351/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/12/2020)" (AgRg no REsp n. 1.928.310/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+Por oportuno:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. MAUS ANTECEDENTES E REINCIDÊNCIA. VALOR SUPERIOR A 10% DO SALÁRIO-MÍNIMO. NÃO INCIDÊNCIA. PENA-BASE. EXASPERAÇÃO. PROPORCIONALIDADE. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. SÚMULA 269/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+11. No tocante ao regime de cumprimento de pena, de acordo com a Súmula 269/STJ, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior à inicial de quatro anos, se favoráveis as circunstâncias judiciais.
+12. Na hipótese, em que pese a reprimenda corporal definitiva tenha sido fixada em quantum não superior a 4 (quatro) anos - 1 ano e 2 meses de reclusão -, verifica-se que o agravante, além de reincidente - o que atrairia a aplicação do enunciado n. 269 da Súmula desta Corte e a fixação do regime inicial semiaberto -, teve a pena-base fixada acima do mínimo legal em decorrência da valoração negativa de circunstância judicial (antecedentes), o que afasta o referido enunciado sumular, representando fundamentação idônea para a manutenção do regime prisional fechado e a impossibilidade da substituição da pena.
+13. Agravo regimental não provido.
+(AgRg no AREsp n. 2.507.940/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024)
+AGRAVO REGIMENTAL NO HABES CORPUS. CORRUPÇÃO ATIVA. CULPABILIDADE DESFAVORÁVEL. EXASPERAÇÃO DA PENA-BASE. PROPORCIONALIDADE. REGIME FECHADO. REINCIDÊNCIA E CIRCUNSTÂNCIA JUDICIAL NEGATIVA. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Ante o registro de circunstância judicial negativa (art. 33, § 3º, do CP) e de reincidência, não há flagrante ilegalidade na fixação do regime inicial fechado.
+4. Agravo regimental não provido.
+(AgRg no HC n. 709.675/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
