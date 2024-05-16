@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de ofensa aos dispositivos legais apontados e inobservância das regras legais para a comprovação do dissídio jurisprudencial (e-STJ fls. 635/637).
+O acórdão recorrido está assim ementado (e-STJ fl. 498):
+AGRAVO DE INSTRUMENTO. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE. APURAÇÃO DE HAVERES. Título executivo que determinou expressamente a inclusão do fundo de comércio no cálculo dos haveres. Impossibilidade de rediscussão em sede de liquidação de sentença. Art. 509, § 4º, do CPC. Laudo pericial que, entretanto, utilizou como parâmetro o período de três anos como número de ciclos futuros na fórmula do cálculo do valor do fundo de comércio, o que se mostra excessivo. Tempo que afere a expectativa de lucro da sociedade em decorrência do trabalho desenvolvido pela sócia retirante em valor superior ao realmente devido. Redução para o período de um ano, com determinação de realização de novos cálculos pelo perito. DECISÃO REFORMADA EM PARTE. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 610/613).
+No recurso especial (e-STJ fls. 506/521), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou violação dos arts. 489, § 1º, IV, e 1.022, I, do CPC, pois o acórdão recorrido foi omisso quanto ao argumento de que o cálculo do valor do fundo de comércio deveria levar em consideração o período de 5 (cinco) anos. Destacou ainda erro de premissa fática, visto que as relações contratuais não seriam pontuais e dinâmicas.
+Aduziu divergência jurisprudencial, visto que (e-STJ fl. 517):
+(..) o entendimento jurisprudencial é consolidado no sentido de que deve ser considerado período de no mínimo 3 (três) anos para cálculo de haveres. Veja-se abaixo ementas de acórdãos proferidos pelos Tribunais de Justiça do Rio de Janeiro e do Rio Grande do Sul, em caso semelhante ao presente (Doc. 4):
+No agravo (e-STJ fls. 640/661), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre o cálculo do valor do fundo de comércio nos seguintes termos (e-STJ fl. 501):
+8. A despeito disto, como apontado pela agravante, o número de ciclos futuros considerado pelo expert na fórmula do cálculo do valor do fundo de comércio, qual seja, três anos, é excessivo.
+É certo que a expectativa futura de lucro faz parte do patrimônio da sociedade e deve ser incluída na apuração dos haveres, tal como constou do título executivo.
+No caso em apreço, a adoção do período de três anos valoriza de forma superior o trabalho desenvolvido pela sócia retirante durante sua permanência na sociedade, especialmente em razão da natureza da prestação dos serviços, que tem a continuidade da relação baseada no interesse das partes, e não apenas ou, preponderantemente, no prazo contratual.
+Dito de outro modo, as relações são dinâmicas e pontuais, ainda que se repitam no tempo, não se configurando através de contratos de longo prazo.
+A manutenção da relação contratual da sociedade agravada com seus clientes está menos relacionada aos prazos contratuais firmados, mas à qualidade e satisfação do cliente na prestação dos serviços e do interesse das partes na manutenção da relação comercial, que valoriza a atuação dos sócios e do corpo de técnicos da sociedade. Ou seja, a natureza dos serviços prestados pela agravada indica a diminuta importância de um valor imaterial intrínseco da empresa, a que a agravada faria jus, motivo pelo qual, reduzo o período a ser considerado para dimensionamento haveres para um ano, determinando-se, para tanto, a realização de novos cálculos pelo perito.
+Portanto não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Além disso, para reformar o acórdão recorrido e reconhecer que as relações contratuais da parte recorrida seriam de trato continuado, de longo prazo, seria preciso analisar as provas dos autos, hipótese vedada pela Súmula n. 7/STJ.
+Em relação à alegada divergência jurisprudencial quanto ao período de 3 (três) anos para os cálculos de haveres, a parte recorrente não indicou qual o dispositivo legal violado.
+Segundo precedentes desta Corte Superior, a "falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio" (AgInt no AREsp n. 2.190.736/RJ, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/3/2023, DJe de 15/3/2023). Aplica-se a Súmula n. 284/STF.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
