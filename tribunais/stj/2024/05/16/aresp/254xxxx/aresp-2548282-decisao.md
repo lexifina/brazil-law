@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por Wilson Quinteiro contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 135):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. ANISTIA. AI-7. VEREADOR. EXERCÍCIO DE MANDATO GRATUITO. DANOS MATERIAIS. IMPOSSIBILIDADE. DANO MORAIS. INAPLICABILIDADE. ART. 2º, § 1º, LEI 10.559/2002.
+1. Pedido de produção de prova indeferido, questão de direito, demanda apta à conclusão para julgamento a partir dos fatos e documentos apresentados na petição inicial.
+2. Exercício gratuito do mandato de vereador por força de Ato Institucional. O art. 2º, § 1º,da Lei nº 10.559/02 é claro ao dispor que aquele que exerceu a vereança gratuitamente durante o período de setembro/46 a 05/10/88, em razão de Ato Institucional, somente faz jus à contagem do tempo de serviço para fi ns de aposentadoria no serviço público e de previdência social, sendo indevida a reparação econômica, porque não prevista na lei de regência.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 186 e 927 do Código Civil, ao argumento de que, embora o recorrente fizesse jus à indenização por dano moral, por ter sido perseguido durante o período da ditatura militar e exercido mandato de vereador sem qualquer remuneração, tendo sido, inclusive, declarado anistiado político pela Comissão de Anistia, a turma julgadora de origem compreendeu pela inexistência de elementos a justificar tal pleito.
+Foram ofertadas contrarrazões (fls. 153/155).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, quanto à controvérsia recursal, o Tribunal de origem se manifestou nos seguintes termos (fl. 133):
+Com efeito, não se observa a apresentação de qualquer elemento fático que denote o efetivo sofrimento grave necessário para a caracterização do dano moral indenizável. Não consta que o autor tenha sofrido qualquer forma de ato de perseguição concreta e direcionada, tais como ameaças, torturas, prisões etc que efetivamente tenham violado seus direitos de personalidade.
+A simples condição de anistiado político decorrente do exercício não remunerado da atividade de vereador não é suficiente para tanto.
+Por oportuno, com a citação da União, consigno que houve a estabilização da causa de pedir, de modo que não é possível à parte autora, supervenientemente, inovar mediante apresentação de outras alegações fáticas, como sustentar que teria havido uma eventual perseguição política individualizada com efetivo sofrimento grave.
+Assim, a alteração das premissas adotadas pela Corte de origem, no que se refere ao alegado cabimento de indenização por danos morais ao recorrente por parte da União, por ter sido perseguido durante o período da ditatura militar e exercido mandato de vereador sem qualquer remuneração, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido, já se manifestou esta Corte, em casos semelhantes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE PERSEGUIÇÕES DE CUNHO POLÍTICO SOFRIDAS NO PERÍODO DA DITADURA MILITAR. AUSÊNCIA DE COMPROVAÇÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. LEI LOCAL. SÚMULA 280/STF.
+1. Alterar o decisum recorrido, o qual afirmou que "não se vislumbra qualquer ato a justificar a concessão de indenização por dano material ou moral ao autor", implica reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. A demonstração de divergência jurisprudencial pressupõe a análise de lei local (Lei Estadual 11.255/1995), o que é vedado em Recurso Especial por força da Súmula 280 do STF.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 1.809.543/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/6/2021, DJe de 1/7/2021)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ANISTIA. INDENIZAÇÃO POR DANOS MORAIS. PERSEGUIÇÃO POLÍTICA OCORRIDA DURANTE O REGIME MILITAR. INDENIZAÇÃO POR DANOS MORAIS. MOTIVAÇÃO POLÍTICA NÃO COMPROVADA NAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS.
+1. A Corte de origem negou a pretensão do recorrente, por entender que "na hipótese em apreço, conquanto sejam certas a condição de anistiado político e a demissão decorrente de motivação política, não há nos autos prova de que o apelante tenha sido submetido a tratamentos vexatórios e degradantes, tais como perseguição política, investigação, prisão e tortura".
+2. Não cabe ao Superior Tribunal de Justiça alterar tal entendimento, para que possa prevalecer os argumentos apresentados pelo interessado de que há direito a suposto dano moral por ser perseguido político, uma vez que é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7 /STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.566.971/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/11/2020, DJe de 18/12/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA CONDIÇÃO DE ANISTIADO POLÍTICO PARA FINS DE INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DE REVER O ACÓRDÃO RECORRIDO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. IMPOSSIBILIDADE. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Analisar as premissas do aresto que não reconheceu a condição de anistiado político do autor, bem como entendeu pelo descabimento de indenização por danos morais ante a ausência de prova, depende de revolvimento do conjunto fático-probatório da causa, o que não prospera na via especial por força do óbice estatuído na Súmula 7 do STJ.
+2. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp n. 1.432.949/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/10/2020, DJe de 16/10/2020)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de ho norários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
