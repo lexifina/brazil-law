@@ -1,0 +1,49 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por LAURIMAR AMINABIDA SILVA MORAIS contra acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão no julgamento de Apelação, assim ementado (fl. 629e):
+PROCESSO CIVIL. CONSTITUCIONAL. APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. NÃO COMPROVAÇÃO DA QUALIDADE DE BENEFICIÁRIO/SUBSTITUÍDO. SERVIDOR QUE PERTENCE A CATEGORIA ESPECÍFICA DESINDICATO PRÓPRIO DEIXA DE SER REPRESENTADO PELO SINDICATO MAIS ABRANGENTE. NÃO PROVIMENTO.
+1. O Superior Tribunal de Justiça entende que o princípio da unicidade sindical não obsta o desmembramento de sindicato de categoria profissional diferenciada do sindicato-mãe, na mesma base territorial, o qual detém maior capacidade de representatividade dos novos associados, com o intuito de atender a seus interesses específicos, em atenção ao princípio da liberdade sindical (AgRg no AREsp 770.299/MG).
+2. Por outro lado, em situações envolvendo sindicato com amplo alcance, o sindicato "genérico" não possui legitimidade para atuar em nome das categorias específicas que tenham representação própria.
+3. Logo, em atenção aos princípios da unicidade e da liberdade sindicais, constatada a existência de sindicato específico (in casu, SIMPROESEMMA) para determinada categoria profissional, a este compete a representação dos interesses da classe que representa, inviabilizando que outros sindicatos (in casu, SINTSEP), de maior abrangência, na mesma base territorial, atuem na defesa desses mesmos interesses.
+4. Evidenciado que Apelante pertence à categoria específica, o mesmo deixa de ser representado por quaisquer outros sindicatos, impondo-se o reconhecimento da sua ilegitimidade ativa para a propositura da demanda originária, porquanto não possui representatividade em relação ao SINTSEP.
+5. Apelo conhecido e não provido.
+Com amparo no art. 105, III, a e c, da Constituição da República, aponta-se, além de divergência jurisprudencial, a não configuração, no caso, de ilegitimidade ativa ad causam, matéria de ordem pública a qual, de qualquer sorte, foi objeto de preclusão, "na medida em que transitou em julgado a parte da decisão proferida na fase de conhecimento e liquidação que condenou e homologou os percentuais devidos, reconhecendo, assim, ainda que implicitamente, a legitimidade ativa ad causam" (fl. 650e).
+Com contrarrazões (fls. 698/708e), o recurso foi inadmitido (fls. 710/713e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 767e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O Recurso Especial não comporta conhecimento.
+Sustentou a parte recorrente, em suma, que a ilegitimidade ativa ad causam não se consumou e também foi objeto de preclusão, mas não apontou o dispositivo de lei federal que teria sido violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido.
+(AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013).
+De outra parte, o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, pois a parte recorrente deixou de indicar os dispositivos legais que teriam sido interpretados de forma divergente pelos acórdãos confrontados, o que caracteriza deficiência na fundamentação recursal e atrai, por analogia, a incidência da orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, destaco precedente da Corte Especial deste Tribunal:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014, destaque meu).
+Além disso, a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que a parte recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDE NCIAL NÃO DEMONSTRADO. AUSÊNCIA DO INDISPENSÁVEL COTEJO ANALÍTICO.
+1. O dissídio jurisprudencial deve ser demonstrado conforme preceituam o art. 266, § 4º, do RISTJ, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2. É pacífico nesta Corte que "A simples transcrição de ementas ou de trecho isolado do v. acórdão paradigma, sem o necessário cotejo com trechos do v. acórdão embargado, não atende aos dispositivos legais e regimentais aplicáveis à espécie" (AgInt nos EREsp 1.751.975/PE, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 19/3/2020).
+3. Agravo interno não provido.
+(AgInt nos EREsp 1.461.319/SE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 18/05/2021, DJe 20/05/2021).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
