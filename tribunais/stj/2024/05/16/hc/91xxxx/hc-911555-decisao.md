@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu o pedido liminar em habeas corpus apresentado na origem.
+O paciente foi condenado, com trânsito em julgado, à pena de 06 anos e 3 meses de reclusão, em regime semiaberto, e 625 dias-multa pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06) por ter trazido consigo 37 pedras de crack (e-STJ fl. 16).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois a pena-base foi aumentada em 1 ano e 3 meses na primeira fase com base em ações penais anteriores não transitadas em julgado e, por outro lado, não foi analisada a aplicação da causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06. Destaca ainda que o constrangimento ilegal é maior, pois a decisão monocrática que negou a medida liminar foi proferida em 17 de janeiro de 2022 (e-STJ fl. 68) e, desde então, o mérito não foi analisado.
+Ao final, requer a concessão da ordem para afastar o aumento de pena na primeira fase e aplicar a causa de diminuição de pena, bem como as modificações de regime e espécie de pena decorrentes.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, vislumbro evidente ilegalidade capaz de fundamentar a superação do óbice da súmula 691 do STF e conceder a ordem de ofício.
+Verifica-se a ilegalidade flagrante por duas razões: a primeira pelo fato de que o mérito do habeas corpus apresenta evidente constrangimento ilegal, uma vez que a dosimetria da pena foi feita em contrariedade a texto expresso de súmula desta Corte, e a segunda pelo fato de que o Tribunal de origem está há, aproximadamente, 2 anos e 4 meses com os autos prontos para julgamento e não examinou o mérito.
+Sendo assim, evidente a possibilidade de superar a súmula 691 do STF. Passo ao exame da flagrante ilegalidade.
+Esta col. Corte já pacificou entendimento, em enunciado sumular nº 444, no sentido de que "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base".
+No caso, o Magistrado de primeira instância, na dosimetria da pena, assim fundamentou o aumento da pena na primeira fase:
+ .. . d) com relação à CONDUTA SOCIAL do agente, em vista de responder, além desse processo, responde a mais 2 procedimentos, conforme certidão de antecedentes acostados aos autos, valoro negativamente; .. Ante a prevalência das circunstâncias judiciais, fixo a pena-base em 06 (seis) anos de reclusão e 03 (três) meses e 625 (seiscentos e vinte e cinco dias-multa)  ..  (e-STJ fls. 20-21).
+Extrai-se do trecho acima, que o Magistrado aumento a pena-base por conta de dois procedimentos ainda em curso, indo de encontro ao enunciado sumular e ao princípio da presunção de inocência. Portanto, afasto o aumento da pena-base de 1 ano e 3 meses, mantendo-a em seu mínimo legal de 5 anos.
+Por outro lado, verifica-se que o Magistrado sequer analisou o §4º do art. 33 da Lei nº 11.343/06, apesar do paciente ser primário, não ostentar maus antecedentes, não existir qualquer circunstância descrita que indique sua dedicação a atividade criminosa ou que indique sua integração em organização criminosa. É de se destacar, ainda, que o próprio Magistrado, ao avaliar as circunstâncias do caso, as avaliou como "menor periculosidade da conduta" (e-STJ fl. 21).
+Sendo assim, presentes os requisitos legais, aplico o redutor do §4º do art. 33 da Lei nº 11.343/06 e, não existindo razões de destaque, faço em seu patamar máximo de 2/3.
+Passo a redimensionar a pena.
+Na primeira fase, a pena deve ser mantida no mínimo legal de 5 anos e 500 dias-multa. Na segunda fase, não estão presentes agravantes ou atenuantes de destaque. Na terceira etapa, pelo acima exposto, verificadas as condições para aplicação do § 4º do art. 33 da Lei nº 11.343/06, no patamar de 2/3, torno definitivo o quantum de 1 ano e 8 meses de reclusão e 167 dias-multa, no patamar mínimo legal.
+Não observando circunstâncias dignas de nota além daquelas já consideradas na dosimetria da pena, estabeleço o regime aberto como inicial de cumprimento de pena, nos termos do art. 33, §2º, c, do CP.
+Atendidos os requisitos do art. 44 do Código Penal, a pena privativa de liberdade deve ser substituída por duas restritivas de direitos, a serem definidas pelo juízo da execução penal.
+Ante o exposto, não conheço o habeas corpus, mas concedo a ordem de ofício para afastar o aumento da pena-base e aplicar a causa de diminuição de pena do §4º do art. 33 da Lei 11.343/06, redimensionando a pena do Paciente para 1 ano e 8 meses de reclusão, no patamar mínimo legal, substituída por duas penas restritivas de direitos, e 167 dias-multa, no patamar mínimo legal.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem e ao respectivo juízo de primeiro grau.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
