@@ -1,1 +1,0 @@
-Art. 11. A sociedade seguradora que infringir as disposições desta Lei estará sujeita às penalidades previstas no art. 108 do Decreto-Lei nº 73, de 21 de novembro de 1966, de acordo com a gravidade da irregularidade, observado o disposto no art. 118 do referido Decreto-Lei.
