@@ -1,1 +1,0 @@
-Art. 9º Nos seguros facultativos de responsabilidade civil dos proprietários de veículos automotores de via terrestre, as indenizações por danos materiais causados a terceiros serão pagas independentemente da responsabilidade que for apurada em ação judicial contra o causador do dano, cabendo à Seguradora o direito de regresso contra o responsável.
