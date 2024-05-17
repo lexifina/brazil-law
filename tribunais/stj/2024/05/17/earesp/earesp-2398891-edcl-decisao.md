@@ -1,0 +1,32 @@
+DECISÃO
+T rata-se de embargos de declaração opostos por Favinha & Pastana Engenharia e Construções Ltda. à decisão de minha lavra, assim resumida (fls. 931/934):
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. INADMISSIBILIDADE.
+Embargos de divergência indeferidos liminarmente.
+A embargante (fls. 937/931) alega que a decisão foi omissa sobre o real objeto dos embargos de divergência, qual seja, a admissibilidade do agravo em razão da Súmula 182 do STJ e não a admissibilidade do próprio recurso especial.
+Sustenta que a Corte Especial já se posicionou no sentido de que é viável, em sede de embargos de divergência, a uniformização da aplicação da Súmula 182 do STJ.
+Aduz, por fim, que são cabíveis os embargos de divergência sob análise, pois seu objetivo é uniformizar a aplicação da Súmula 182 do STJ ao agravo em caso de impugnação à Súmula 7 do STJ.
+Certidão de fl. 946 atesta a não manifestação do embargado.
+É o relatório.
+A decisão não padece de nenhum dos vícios preconizados no art. 1.022 do Código de Processo Civil.
+No caso, não há omissão na aresto embargado; ao contrário, todos os elementos necessários para a solução foram apresentadas.
+Por oportuno, trago à colação os seguintes trechos do decisum atacado (fls. 932/933 - grifo no original):
+Mediante exame dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182 do STJ, tendo em vista que a parte não impugnou de modo satisfatório o óbice da Súmula 7 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Todos os pontos suscitados foram rechaçados sem o devido exame meritório, conforme se depreende do voto do Relator (fl. 869):
+No caso em análise, a petição do agravo (e-STJ fls. 729/744) não impugnou todos os fundamentos da decisão de inadmissibilidade, o que atraiu a aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ, deixando de combater especificamente a Súmula n. 7/STJ. (grifo nosso)
+Consoante se observa do acórdão embargado, mostra-se inequívoca a incidência do óbice da Súmula 315/STJ, na medida em que não examinou o mérito do recurso especial no ponto recorrido, a obstar a admissibilidade dos embargos de divergência, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1º, do RISTJ, e do art. 1.043 do Código de Processo Civil. Nesse diapasão: AgInt nos EAREsp n. 1.441.916/SC, Ministro Og Fernandes, Corte Especial, DJe 26/8/2020; AgRg nos EREsp n. 1.803.437/SC, Ministro Herman Benjamin, Corte Especial, DJe 17/6/2020; e AgInt nos EAREsp n. 1.022.112/SP, Ministro Humberto Martins, Corte Especial, DJe 4/4/2018.
+O próprio embargante reconhece que o acórdão embargado não examinou o mérito do recurso, senão vejamos (fl. 906):
+Em síntese, trata-se de acórdão que não conheceu de agravo em recurso especial por suposta ausência de impugnação específica(Súmula 182 do STJ)em relação à Súmula 07 do STJ, a despeito de a parte ter transcrito os trechos do acórdão recorrido em que a matéria fática estaria delimitada. (grifo nosso)
+Apesar do esforço argumentativo do embargante, a pretensão é do reexame dos critérios de admissibilidade. Isso porque não há discussão de tese jurídica, mas da avaliação se no caso concreto houve o acerto da aplicação do óbice pelo órgão fracionário.
+É firme o entendimento no âmbito da Corte Especial do STJ, no sentido de que não cabe a oposição de embargos de divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial. Ilustrativamente: AgInt nos EAREsp n. 1.883.018/RJ, Ministro Mauro Campbell Marques, Corte Especial, DJe 17/11/2023; AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; e AgRg nos EAREsp n. 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+Ao que se observa, a decisão ostenta fundamentação clara e suficiente para firmar a conclusão nela estabelecida.
+Cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso.
+Em que pese o embargante asseverar que pretende apenas discutir o alcance da Súmula 182 do STJ, o propósito, em verdade, é rever os critérios utilizados para o não conhecimento do recurso, o que é incabível em sede de embargos de divergência.
+Por conseguinte, no caso, não há omissão na decisão monocrática embargada.
+O que se verifica das razões dos embargos é a tentativa do embargante de, por via oblíqua, rediscutir as conclusões da decisão embargada, providência descabida na via eleita. A propósito: EDcl no AgRg no MS n. 28.736/DF, Ministro Antonio Carlos Ferreira, Corte Especial, DJe 17/3/2023; EDcl no MS n. 28.073/DF, Ministro Raul Araújo, Corte Especial, DJe 15/8/2022; e AgInt no MS n. 28.267/DF, Ministra Nancy Andrighi, Corte Especial, DJe 27/5/2022.
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o Supremo Tribunal Federal (na hipótese de remanescer recurso pendente de competência daquela Corte).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS PRECONIZADOS NO ART. 1.022 DO CPC. REDISCUSSÃO. DESCABIMENTO. MANIFESTA IMPROCEDÊNCIA.
+1. Os embargos de declaração são cabíveis quando houver obscuridade, contradição, omissão ou erro material na sentença ou no acórdão, conforme dispõe o art. 1.022 do CPC.
+2. Embargos de declaração rejeitados.
