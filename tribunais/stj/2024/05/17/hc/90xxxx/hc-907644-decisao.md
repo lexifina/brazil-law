@@ -1,0 +1,30 @@
+DECISÃO
+A controvérsia foi bem delineada no parecer ministerial, in verbis (e-STJ fls. 90/91):
+Trata-se de habeas corpus impetrado em favor de PAULO ROBÉRIO DE SOUZA ALMEIDA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento da Apelação Criminal nº 0000360-25.2016.8.24.0035, onde deu-se provimento ao apelo interposto pelo Ministério Público Estadual nos termos da ementa a seguir (e-STJ, 31):
+APELAÇÃO CRIMINAL - CRIME DE ROUBO DUPLA- MENTE CIRCUNSTANCIADO (CP, ART. 157, § 2º, I E II) - SENTENÇA CONDENATÓRIA. RECURSO DO MINISTÉRIO PÚBLICO. SUSTENTADA IMPOSSIBILIDADE DE COMPENSAÇÃO DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA - ACUSADO REINCIDENTE ESPECÍFICO - PREPONDERÂNCIA DA CIRCUNSTÂNCIA AGRAVANTE.
+"Diante da reincidência específica, a compensação integral em razão da presença da confissão espontânea se mostra descabida" (STJ, Min. Joel Ilan Paciornik). RECURSO CONHECIDO E PROVIDO. CONTRARRAZÕES - PEDIDO DE RECONSIDERAÇÃO DA MULTA APLICADA AO CAUSÍDICO - IMPOSIÇÃO DE MULTA POR ABANDONO DO PROCESSO (CPP, ART. 265, CAPUT) - NECESSÁRIO RESPEITO AO CONTRADITÓRIO E À AMPLA DEFESA (CF, ART. 5º, LV) - NÃO OCORRÊNCIA - ADVOGADO NÃO INTIMADO PREVIAMENTE À IMPOSIÇÃO DA MULTA PARA APRESENTAR JUSTIFICATIVA - NULIDADE - DECISÃO CASSADA NO PONTO. A imposição de multa por abandono do processo só é possível se respeitado o contraditório e a ampla defesa.
+Extrai-se dos autos que o paciente foi condenado como incurso nas sanções do art. 157, § 2º, incisos I e II, do Código Penal, à pena privativa de liberdade de 05 (cinco) anos e 06 (seis) meses de reclusão, a ser cumprida inicialmente no regime semiaberto, e ao pagamento de 13 (treze) dias-multa. Após recurso de apelação do Ministério Público Estadual, foi determinada a execução imediata da pena, nos termos do julgamento realizado no HC 126292 pelo STF.
+No presente writ, a impetrante sustenta, em síntese, que deve ser superada a Súmula 231 do STJ, que já se encontra em revisão, a fim de que seja aplicada a pena do paciente abaixo do mínimo legal, uma vez reconhecida a atenuante de confissão. Ressalta que referida Súmula viola o princípio da individualização da pena, "na medida em que impede a aplicação da lei ao acusado em razão de um entendimento jurisprudencial, acarretando a padronização da pena e afastando a individualidade do réu no cômputo da sanção penal". (e-STJ, 8) Assevera que a negativa de aplicação da pena abaixo do mínimo legal ao paciente impõe a aceitação de interpretação restritiva em desfavor do réu, fato que não pode ser admitido, o que viola, além dos princípios já mencionados, o da proporcionalidade e da culpabilidade.
+Requer, ao final, a concessão da ordem para reformar a decisão da Segunda Câmara.
+O despacho de fl. 49 e-STJ solicitou informações ao Tribunal de origem.
+Informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso deste se conheça, pela denegação da ordem (e-STJ fl. 93).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Na espécie, a condenação do paciente transitou em julgado em 20/12/2016 (e-STJ fl. 64).
+Não se deve conhecer do writ que pretende sua desconstituição, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte Superior acerca da controvérsia.
+Outrossim, não se verifica nenhuma ilegalidade flagrante no caso a atrair a concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
