@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por MUNICÍPIO DE SÃO PAULO em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Cumprimento de sentença Decisão a qual rejeitou a impugnação do Município de São Paulo, que pretendia o reconhecimento da prescrição da pretensão executiva Inocorrência Transcurso de mais de quatro anos entre o trânsito em julgado e o retorno dos autos principais do segundo grau, o que justifica a postergação do início do prazo prescricional para a data de publicação do despacho que determinou a intimação dos exequentes para cumprimento do acórdão Contratempos burocráticos que não podem prejudicar os exequentes Aplicação da Súmula 106 do Superior Tribunal de Justiça Decisão mantida. Recurso desprovido.
+No especial, alega-se que
+a decisão recorrida desrespeitou os dispositivos de lei federal que regem a prescrição contra a Fazenda Pública (artigos 1º e 2º do Decreto Federal 20.910/32 e aos artigos 205 e 206 do Código Civil) ao, declaradamente, não considerar como termo inicial da prescrição o trânsito em julgado título executivo judicial.
+Após juízo negativo de admissibilidade sobreveio presente agravo.
+É o relatório. Decido.
+Não há óbices ao conhecimento da matéria submetida a esta Corte Superior.
+Está nos autos:
+Compulsando as movimentações dos autos principais (0010853-94.2009.8.26.0053), verifica-se que o retorno destes do Tribunal de Justiça ocorreu apenas em 19/04/2017, mais de quatro anos após o trânsito em julgado do v. acórdão proferido por esta C. 7ª Câmara de Direito Público, que se deu em 28/01/2013 (fl. 53). O despacho que determinou a intimação dos exequentes para cumprimento do v. acórdão foi publicado em 23/05/2017 (fl. 56). Conforme explicado pela magistrada de primeiro grau, a demora entre o trânsito em julgado, o recebimento dos autos pelo primeiro grau, a remessa à conclusão, o proferimento do despacho e a publicação deste foi motivada pela sobrecarga de serviço do Ofício de Justiça, não podendo os exequentes se prejudicarem em decorrência de tais contratempos burocráticos. Para que o cumprimento de sentença fosse iniciado, fazia-se necessário que os autos retornassem do segundo grau. Por isso, é justificável que, no presente caso, o início do prazo prescricional seja a data de publicação do despacho, não tendo decorrido o ínterim de cinco anos entre esta e a instauração do incidente de cumprimento de sentença (27/10/2021).
+O termo inicial do prazo prescricional da pretensão executória começa a correr do trânsito em julgado do título executivo judicial.
+Sobre o tema,
+" ..  o lapso prescricional de cinco anos para se promover a execução contra a Fazenda Pública conta-se da data do trânsito em julgado da sentença condenatória, consoante disposto no art. 1º do Decreto 20.910/1932 e na Súmula 150/ STF " (AgInt no REsp n. 1.378.709/PR, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, DJe de 20/4/2023). Nesse mesmo sentido: REsp n. 1.921.188/DF, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 10/6/2022. (AgInt no AREsp n. 1.882.057/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Incidente a Súmula nº 150/STF.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OCORRÊNCIA. SÚMULA Nº 150/STF. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
