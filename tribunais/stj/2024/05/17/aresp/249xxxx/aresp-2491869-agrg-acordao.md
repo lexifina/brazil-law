@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESISTÊNCIA E DESOBEDIÊNCIA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO CONCRETA. MAUS ANTECEDENTES. TRÊS CONDENAÇÕES. APLICAÇÃO DO PATAMAR DE 1/8 DO INTERVALO DA PENA EM ABSTRATO. DESPROPORCIONALIDADE. AUSÊNCIA. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, para a "elevação da pena-base, podem ser utilizadas as frações de 1/6 sobre a pena-mínima ou de 1/8 sobre o intervalo entre as penas mínima e máxima, exigindo-se fundamentação concreta e objetiva para o uso de percentual de aumento diverso de um desses" (AgRg no AREsp n. 1.799.289/DF, Quinta Turma, rel. Min. João Otávio de Noronha, DJe de 6/8/2021).
+2. Tendo sido indicada fundamentação concreta para justificar a exasperação da pena-base, evidenciada no fato de o sentenciado possuir três condenações por fatos anteriores aptas a caracterizar os maus antecedentes, não se verifica, considerando-se o princípio do livre convencimento motivado do magistrado, manifesta desproporcionalidade na aplicação do patamar de 1/8 do intevalo das penas.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+Sustenta a agravante, em síntese, a não incidência da Súmula n. 83/STJ, aduzindo que "não se desconhece uma das linhas de entendimento desta Corte a respeito da possibilidade de incidir a fração de aumento em 1/8 (um oitavo) entre o mínimo e o máximo da pena abstratamente prevista. Todavia, o recorrente apenas pugna pela aplicação do entendimento mais benéfico, igualmente chancelado por este Superior Tribunal, no sentido de que a referida exasperação deverá ser fixada, em regra, no patamar de 1/6 (um sexto) da pena mínima abstrata, só podendo ser mais gravosa mediante fundamentação concreta e especifica." (fl. 337.)
+Sustenta que "a pena-base foi elevada com base em parâmetro mais gravoso (1/8) por simples utilização de critério puramente aritmético e, portanto, inidôneo para justificar a elevação da pena em patamar mais oneroso." (fl. 339), requerendo a reconsideração da decisão ou a sua apreciação pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESISTÊNCIA E DESOBEDIÊNCIA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO CONCRETA. MAUS ANTECEDENTES. TRÊS CONDENAÇÕES. APLICAÇÃO DO PATAMAR DE 1/8 DO INTERVALO DA PENA EM ABSTRATO. DESPROPORCIONALIDADE. AUSÊNCIA. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, para a "elevação da pena-base, podem ser utilizadas as frações de 1/6 sobre a pena-mínima ou de 1/8 sobre o intervalo entre as penas mínima e máxima, exigindo-se fundamentação concreta e objetiva para o uso de percentual de aumento diverso de um desses" (AgRg no AREsp n. 1.799.289/DF, Quinta Turma, rel. Min. João Otávio de Noronha, DJe de 6/8/2021).
+2. Tendo sido indicada fundamentação concreta para justificar a exasperação da pena-base, evidenciada no fato de o sentenciado possuir três condenações por fatos anteriores aptas a caracterizar os maus antecedentes, não se verifica, considerando-se o princípio do livre convencimento motivado do magistrado, manifesta desproporcionalidade na aplicação do patamar de 1/8 do intevalo das penas.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi lançada nos seguintes termos (fls. 322-324):
+ .. .Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula n. 83/STJ.
+Sustenta o agravante que a matéria objeto do Recurso Especial não enseja a aplicação do óbice sumular, aduzindo que "a questão da fração a ser utilizada na valoração das circunstâncias, não está pacificada no Superior Tribunal de Justiça." (fl. 292), bem como que "razoável a aplicação de uma fração mais branda, já que trata-se de um crime com pena leve, já que na maior parte dos casos, como do agravante, não há o uso de violência." (fl. 558).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passa-se, portanto, à análise do mérito.
+Consta dos autos que o recorrente foi condenado pela prática dos crimes tipificados nos artigos 329, caput, e 330, caput, ambos do Código Penal, à 6 meses e 19 dias de detenção, em regime inicial semiaberto, pena que foi mantida pelo Tribunal de origem.
+Inconformada, a defesa interpôs recurso especial, com fulcro no inciso III do art. 105 da Constituição Federal, apontando a violação do artigo 59 do Código Penal, o qual foi inadmitido na origem.
+O recorrente alega, em síntese, que "deveria ter aplicado, na primeira fase da dosimetria, a fração de 1/6 (um sexto) para o cálculo de cada circunstância judicial negativa." (fl. 283),
+O acórdão recorrido está assim fundamentado (fls. 200-201):
+ .. .DOSIMETRIA
+Crime de resistência.
+Na primeira fase, a sentença, em face da valoração desfavorável dos antecedentes (ID 40787300 - fls. 9/11), fixou a pena-base em 4 (quatro) meses e 22 (vinte e dois) dias dedetenção, o que deve ser mantido.
+Em relação ao quantum de aumento, este órgão julgador aplica o critério jurisprudencial de 1/8 (um oitavo) da diferença entre a pena máxima e a pena mínima em abstrato para aumento da pena-base para cada circunstância judicial desfavorável, conforme já decidiu esta Corte:
+ ..
+Desobediência
+Na primeira fase da dosimetria, em face da valoração desfavorável dos antecedentes (ID 40787300 - fls. 9/11), a sentença fixou a pena-base em 1 (um) mês e 4 (quatro) dias de detenção, o que deve ser mantido.
+Em relação ao quantum de aumento, este órgão julgador aplica o critério jurisprudencial de 1/8 (um oitavo) da diferença entre a pena máxima e a pena mínima em abstrato para aumento da pena-base para cada circunstância judicial desfavorável, conforme fundamentação acima.. .. .
+Na sentença, a pena basilar foi assim fundamentada (fl. 150):
+ .. .DO CRIME DE RESISTÊNCIA
+Culpabilidade é própria do crime. O réu, além de ser reincidente (id. 139391454- fls. 13 e 15), também ostenta antecedentes, pois possui outras condenações por fatos anteriores (id. 139391454-fls. 09/11).
+O feito não traz elementos que permitam a análise adequada da personalidade e da conduta social do réu. O motivo é próprio do delito.
+As circunstâncias e consequências não são especialmente relevantes.
+Assim, considerando que há circunstância judicial desfavorável (antecedentes), fixo a pena base em 04 (quatro) meses e 22 (vinte e dois) dias de detenção.
+ ..
+DO CRIME DE DESOBEDIÊNCIA
+A Culpabilidade é própria do delito. O réu, além de ser reincidente (id. 139391454- fls. 13 e 15), também ostenta antecedentes, pois possui outras condenações por fatos anteriores (id. 139391454-fls. 09/11).
+O feito não traz elementos que permitam a análise adequada da personalidade e da conduta social do réu. O motivo é próprio do delito.
+As circunstâncias e consequências não são especialmente relevantes.
+Assim, considerando que há circunstância judicial desfavorável (antecedentes), fixo a pena base em 01 (um)mês e 04 (quatro) dias de detenção. .. .
+Como se vê, a pena-base foi exasperada em 1/8 do intevalo da pena, considerando-se os maus antecedentes, pois o "réu, além de ser reincidente (id. 139391454- fls. 13 e 15), também ostenta antecedentes, pois possui outras condenações por fatos anteriores."
+Com efeito, "a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas nesse último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade. (HC n. 751.984/RJ, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 22/11/2022, DJe de 29/11/2022). A esse respeito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 59 DO CP. PROPORCIONALIDADE. COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. MATÉRIA JÁ ANALISADA EM HABEAS CORPUS ANTERIOEMNTE IMPETRADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O magistrado não está obrigado a seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias. No caso concreto, foi utilizada a fração de 1/5 sobre a pena mínima considerando o número de condenações utilizadas para valorar os antecedentes, o que está em perfeita sintonia com a jurisprudência deste Tribunal.
+2. Relativamente à questão da compensação da agravante da reincidência com a atenuante da confissão espontânea, reitera-se que tendo sido a matéria previamente analisada em impetração anterior formulada pela ora recorrente, inviável proceder-se novo exame, porquanto "a anterior manifestação desta Corte, em habeas corpus com idêntico objeto, torna prejudicado o julgamento do recurso especial" (AgRg no REsp n. 1765289/RJ, rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 26/3/2019, DJe 4/4/2019) 3. Agravo regimental a que se nega provimento. (AgRg no AgRg no AREsp n. 2.466.029/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+Estando o acórdão em consonância com a jurisprudência desta Corte, tem incidência, nesses pontos, a súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. .. .
+A decisão agravada deve ser mantida por seus próprios fundamentos, pois, tendo sido indicada fundamentação concreta para justificar a exasperação da pena-base, evidenciada no fato de o sentenciado possuir três condenações por fatos anteriores aptas a caracterizar os maus antecedentes, não se verifica, considerando-se o princípio do livre convencimento motivado do magistrado, manifesta desproporcionalidade na aplicação do patamar de 1/8 do intevalo das penas.
+Ressalte-se que, conforme a jurisprudência pacífica desta Corte, "não há direito subjetivo do réu ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas, ou mesmo outro valor" . (AgRg no REsp n. 2.109.003/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024.). Nesse sentido:
+DIREITO PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. PLEITO DE EQUIPARAÇÃO À CORRÉ. INVIABILIDADE. SITUAÇÕES FÁTICAS DISTINTAS. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS. FUNDAMENTAÇÃO IDÔNEA. CARÁTER PERMANENTE DA LAVAGEM DE CAPITAIS. AQUISIÇÃO DE VEÍCULO. CIRCULAÇÃO DOS RECURSOS EM SOCIEDADE EMPRESÁRIA. MEIOS PARA OCULTAÇÃO E DISSIMULAÇÃO. ART. 1º, § 1º, DA LEI N. 9.613/1998. CARÁTER SOFISTICADO OU RUDIMENTAR DOS MÉTODOS UTILIZADOS. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. CONSEQUÊNCIAS DO CRIME. MONTANTE LAVADO. PRECEDENTES. QUANTUM DE EXASPERAÇÃO DA PENA-BASE. AUSÊNCIA DE DIREITO SUBJETIVO A FRAÇÕES ESPECÍFICAS. PRECEDENTES. CAUSA DE AUMENTO DE PENA. CAPITULAÇÃO NA DENÚNCIA. DESNECESSIDADE. EMEDATIO LIBELLI. TERCEIRA FASE. DESPROPORCIONALIDADE DO AUMENTO APLICADO. REDIMENSIONAMENTO DA PENA. RESPONSABILIDADE SOLIDÁRIA PELO PREJUÍZO DA OFENDIDA. OFENSA À DIALETICIDADE. SÚMULA N. 182, STJ.
+ .. .
+VII - Não há direito subjetivo à fração de 1/6 (um sexto) na primeira fase da dosimetria da pena, admitindo-se, igualmente, a aplicação de 1/8 (um oitavo) sobre o intervalo entre as penas mínima e máxima do delito, como ocorreu na espécie, ou outra fração que se justifique diante das peculiaridades do caso. Incidência do princípio do livre convencimento motivado. Precedentes.
+VIII - A quantificação da majorante do art. 1º, § 1º, da Lei n. 9.613/1998, se mostrou desproporcional por equiparar a conduta da agravante às ações de maior gravidade perpetradas pelo corréu.
+Fração reduzida para o mínimo legal e pena redimensionada para 6 (seis) anos e 4 (quatro) meses de reclusão e 40 (quarenta)
+dias-multa.
+IX - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade. Incidência da Súmula n. 182, STJ.
+X - Na espécie, não foram adequadamente impugnadas as questões atinentes ao regime fechado e à responsabilidade solidária pelo prejuízo causado à ofendida.
+Agravo regimental conhecido em parte e, nessa extensão, parcialmente provido. (AgRg no REsp n. 1.970.697/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/3/2024, DJe de 10/4/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
