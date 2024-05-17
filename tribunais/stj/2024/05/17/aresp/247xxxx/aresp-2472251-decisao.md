@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por ARIEL RODRIGUES DA SILVA contra decisão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, que inadmitiu recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, na Apelação Criminal n. 0008377-57.2017.8.18.0140.
+O Juízo de primeiro grau condenou o Agravante como incurso, por duas vezes, no art. 157, § 2º, inciso II, na forma do art. 69, ambos do Código Penal, impondo-lhe as penas de 10 (dez) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e 26 (vinte e seis) dias-multa (fls. 322-330).
+A Corte de origem negou provimento ao apelo defensivo (fls. 451-465).
+Opostos embargos de declaração, foram rejeitados (fls. 497-503).
+Nas razões do Recurso Especial, a Defesa alega violação ao art. 71 do Código Penal, ao argumento de que presentes os requisitos objetivos e subjetivos para o reconhecimento da continuidade delitiva entre as infrações, impõe-se o afastamento do critério do cúmulo material entre as penas.
+Aduz que " ..  nosso Código Penal, nessa matéria, adotou a teoria puramente objetiva. Desse modo, alguns julgados trazem à baila a concepção de que, uma vez presentes os requisitos objetivos previstos no artigo 71, do CP, ou seja, pluralidade de ações, mesma espécie de crimes e mesmas condições de tempo, lugar, maneira de execução e outras semelhantes, resta caracterizada a continuidade delitiva" (fl. 514).
+Contrarrazões às fls. 520-533.
+O recurso especial não foi admitido por aplicação da Súmula n. 7/STJ (fl. 535-538), óbice contra o qual a Defesa se insurge neste agravo (fl. 542-549).
+A Procuradoria-Geral da República manifestou-se pelo conhecimento do agravo e não conhecimento do recurso especial subjacente (fls. 582-584).
+É o relatório. Decido.
+O agravo impugna adequadamente os fundamentos da decisão de inadmissão, motivo pelo qual passo à análise do recurso especial.
+Inicialmente cumpre destacar ser iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de que "para o reconhecimento da continuidade delitiva, é necessário que se observe, além dos requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução), os de ordem subjetiva, assim entendidos como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos, em observância à Teoria Mista ou Objetivo-Subjetiva" (AgRg no REsp 2052168/SP, Rel. Desembargador Convocado Jesuíno Rissato, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024 - sem grifos no original).
+No mesmo sentido: AgRg no HC 876370/PR, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024; AgRg no HC 790919/DF, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.
+Na espécie, o Tribunal de origem afastou a aplicação do art. 71 do Código Penal, porquanto entendeu não caracterizado o requisito subjetivo da continuidade delitiva, o fazendo com amparo nos seguintes fundamentos (fls. 456-457 - sem grifos no original):
+In casu, o Magistrado sentenciante aplicou o concurso material, sob o ponto de vista de que não houve liame subjetivo entre as condutas criminosas empenhadas, razão pela qual não seria possível o reconhecimento da continuidade delitiva, o que está correto, como se verá.
+ ..
+No caso dos autos, verifica-se que os requisitos objetivos encontram-se cumpridos, visto que ambos os crimes de roubo foram praticados em mesmas condições de tempo, lugar e meio de execução.
+Todavia, o liame subjetivo não restou caracterizado, visto que não está claro que o agente agiu comunidade de desígnios, isto é, não se verifica que a ação posterior é um desdobramento da anterior.
+Pelas provas colhidas, constatou-se a pretensão do agente em reiterar ações e não de alargar a primeira prática infracional, afastando-se, assim, o liame subjetivo e o consequente pedido para reconhecimento de crime continuado.
+Desta forma, entendo que a sentença a quo não merece reforma, devendo ser mantida em todos os seus termos.
+Dos excertos transcritos constata-se que a Corte de Apelação, soberana na análise dos elementos de convicção, concluiu que a instrução criminal não demonstrou o liame subjetivo entre as condutas delitivas perpetradas pelo Acusado. Assim, alterar tal entendimento com o fito de reconhecer a continuidade delitiva entre os dois crimes de roubo, demandaria profundo reexame probatório, juízo que encontra óbice na Súmula n. 7/STJ.
+Nesse diapasão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CONTINUIDADE DELITIVA. TEORIA OBJETIVO-SUBJETIVA OU MISTA. TRIBUNAL DE ORIGEM COMPREENDEU PELA AUSÊNCIA DE REQUISITO SUBJETIVO. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+1. A doutrina e a legislação pátria adotaram a teoria mista quanto ao crime continuado, exigindo o preenchimento de requisitos objetivos e subjetivos.
+2. O magistrado sentenciante consignou que "o acusado reconheceu em fls. 35 que agiu impelido por ódio contra sua companheira" e que "na mesma ocasião ele revelou que agiu com frieza ao, depois de atingir sua companheira, levar um de seus filhos para o banheiro, onde ele também foi atingido pelos golpes de arma branca, depois do que se dirigiu ao outro e atingiu-o da mesma forma".
+3. No mesmo sentido, ao afastar a continuidade delitiva, o Tribunal de origem assentou que "o crime vitimou três pessoas, não restando dúvidas de que ele tivesse plena consciência que atentava contra a vida ou contra a integridade corporal de cada uma das vítimas, individualmente, conduzindo à conclusão de que agiu mediante mais de uma ação, cada uma delas resultante de desígnios autônomos".
+4. Concluindo as instâncias pretéritas pela existência de desígnios autônomos na empreitada delitiva, a revisão de tal entendimento demandaria aprofundado exame de fatos e provas, providência incabível na via do reclamo nobre, nos termos da Súmula n. 7/STJ.
+5. Agravo regimental improvido. (AgRg no AREsp 2342341/SP, Rel. Desembargador Convocado Jesuíno Rissato, Sexta Turma, julgado em 27/2/2024, DJe de 4/3/2024 - sem grifos no original)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. UNIFICAÇÃO DE PENAS. CONTINUIDADE DELITIVA. REQUISITOS DO ART. 71 DO CÓDIGO PENAL NÃO PREENCHIDOS. HABITUALIDADE DELITIVA DO AGRAVANTE. AFASTAMENTO DA CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS IMPLICA REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. Para haver reconhecimento da ficção jurídica que é a continuidade delitiva, além de preenchidos os requisitos de natureza objetiva, deve existir dolo unitário entre as infrações perpetradas, por meio da execução de um planejamento anterior conforme a teoria mista ou objetivo-subjetiva adotada pela jurisprudência atual.
+2. Na hipótese, em que pese o curto intervalo entre os delitos (três dias), vê-se que não guardam relação de subsequência nem mesmo idêntico modus operandi, denotando, em verdade, habitualidade criminosa conforme bem pontuado pelas instâncias originárias.
+3. Desconstituir o que foi declinado para acolher a continuidade delitiva implica apreciação aprofundada dos elementos de prova, providência vedada pela jurisprudência consolidada desta Corte Superior a teor da Súmula n. 7/STJ. Precedentes.
+4. Agravo regimental desprovido. (AgRg no AREsp 1867815/DF. Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
