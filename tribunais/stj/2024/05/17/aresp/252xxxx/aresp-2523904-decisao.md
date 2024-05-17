@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  DAVID  SAULO  PEREIRA  SABINO  em  adversidade  à  decisão  que  inadmitiu  recurso  especial  manejado  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo,  que negou provimento ao recurso da defesa  (e-STJ  fls.  1364/1365).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1634/1642).
+Nas  razões  do  recurso  especial  (e-STJ,  fls. 1478/1498),  fundado  na  alínea  "a"  do  permissivo  constitucional,  alega  a  parte  recorrente  violação  do  art. 226 do CPP e afronta aos arts. 13-A e 13-B, do CPP e 22 e 23 do Marco Civil da Internet.
+Sustenta a nulidade da "quebra de sigilo de dados de geolocalização dos celulares utilizados pelos supostos sequestradores, por meio da identificação das Estações Rádio-Base (ERBs), tendo sido a medida determinante para a deflagração da operação em campo,  ..  sem prévia autorização judicial, em clara afronta aos artigos 13-A e 13-B, do CPP, e 22 e 23, do Marco Civil da Internet" (e-STJ fls. 1484/1485).
+Argumenta a ilicitude do reconhecimento pessoal, em inobservância ao procedimento estabelecido no art. 226 do CPP.
+Aduz "a dinâmica dos fatos é uma só: arrebatamento da vítima, com seu subsequente constrangimento mediante violência ou grave ameaça, para obtenção de vantagens patrimoniais indevidas" (e-STJ fl. 1493), devendo, portanto, ser absorvidos "os crimes de roubo e de extorsão (dos quais o apelante deve ser absolvido por atipicidade da conduta), pelo crime de extorsão mediante sequestro". Subsidiariamente, o reconhecimento "do crime continuado, ou do concurso formal de crimes, conforme artigos 70 e 71 do Código Penal. Ainda subsidiariamente, requer-se a incidência do artigo 29, §2º, do Código Penal" (e-STJ fl. 1494).
+Por fim, pleiteia o reconhecimento da "atenuante pela confissão do apelante David, aumentando o patamar de 1/6 para 1/5 do total a ser atenuado e, ainda, requer que seja afastada a majorante da calamidade pública, descrita no art. 61, inciso II, alínea j, do Código Penal" (e-STJ fl. 1498).
+Apresentadas  contrarrazões ,  o  Tribunal  a  quo  não  admitiu  o  recurso  especial  (e-STJ fl. 1929/1930),  ensejando  a  interposição  do  presente  agravo.  O  Ministério  Público  Federal  manifestou-se  pelo  não conhecimento do agravo  (e-STJ,  fls.  2165/2166).
+É  o  relatório.  Decido.
+A decisão agravada inadmitiu o recurso especial pela incidência do art. 1029 do CPC e da Súmula 7 do STJ (e-STJ, fls. 1929/1930).
+Não obstante, nas razões do agravo (e-STJ, fls. 1942/1963), a parte agravante não apresentou impugnação específica aos referidos fundamentos, limitando-se a reiterar as razões do recurso especial e a tecer considerações genéricas sobre sua admissibilidade.
+Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia ou a indicação de dispositivos constitucionais violados .
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
+Intimem-se.
+EMENTA
