@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 897):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PRELIMINAR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. MÉRITO. HOMICÍDIO QUALIFICADO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO COMO VIOLADO. SÚMULA 284/STF. FUNDAMENTO SUBSIDIÁRIO, IMPROCEDÊNCIA. PRAZO PRESCRICIONAL QUE NÃO TRANSCORREU ENTRE OS MARCOS INTERRUPTIVOS. VIOLAÇÃO DOS ARTS. 482, PARÁGRAFO ÚNICO, E 564, III, K, AMBOS DO CPP. SUPOSTO VÍCIO NA QUESITAÇÃO SUBMETIDA AO CONSELHO DE SENTENÇA. ATA DA SESSÃO QUE INDICA A EXPRESSA AQUIESCÊNCIA DA DEFESA COM A QUESITAÇÃO SUBMETIDA. PRECLUSÃO. PRECEDENTES DO STJ E DO STF.
+Agravo regimental improvido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXVIII, a, LIV, LV e LVII, da Constituição Federal e aduz que há repercussão geral da matéria tratada.
+Nesse sentido, argumenta que (fls. 920-921):
+Os princípios constitucionais como a ampla defesa e o contraditório, não podem serem atingidos pela preclusão, principalmente pela falta de insurgência dos advogados que atuaram no Tribunal do Júri, a qual pode ser considerada como deficiente, e notoriamente acarretou considerável prejuízo a defesa do agravante
+Nesse sentido é o entendimento do col. Supremo Tribunal Federal, nos termos consolida dos no enunciado n. 523 de sua Súmula, verbis: "No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu".
+ ..
+Assim, evidente que a violação do dispositivo citados tornam nula a decisão do Conselho de Sentença do Tribunal do Júri.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 930-940.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da preclusão de nulidade apontada pela parte recorrente, que teve a oportunidade de impugnar em momento próprio, estando o acórdão recorrido assim fundamentado (fls. 902-904):
+De outra parte, no que se refere à tese de violação dos arts. 482, parágrafo único, e 564, III, k, ambos do Código de Processo Penal, a insurgência é admissível, mas, no mérito, não merece acolhida.
+Ora, compulsando os autos, especificamente a ata da sessão de julgamento (fls. 674/676), verifica-se que a defesa do agravante manifestou expressa aquiescência com a quesitação submetida ao Conselho de Sentença, razão pela qual a matéria suscitada foi fulminada pelo fenômeno da preclusão, circunstância que obsta o exame da nulidade aventada.
+ ..
+Logo, não há falar em ilegalidade no acórdão atacado; ao contrário, o aresto guarda perfeita harmonia com a jurisprudência consolidada nesta Corte.
+O Supremo Tribunal Federal já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Isso é o que ficou definido no Tema n. 660 do STF, no qual a Suprema Corte fixou a seguinte tese:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do C PC.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, razão pela qual se aplica a conclusão do STF no mencionado Tema n. 660.
+Do mesmo modo, no tocante à suposta afronta ao art. 5º, XXXVIII, a, e LVII, da CF, a análise da matéria ventilada depende do exame dos arts. 564, III, k, e 571, VIII, do Código de Processo Penal, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso, seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte ("Para simples reexame de prova não cabe recurso extraordinário").
+Em caso semelhante assim já decidiu a Suprema Corte:
+DIREITO PENAL E PROCESSUAL PENAL. CRIME DE INJÚRIA RACIAL. ALEGADA NULIDADE DA PROVA TESTEMUNHAL. PEDIDO DE DILIGÊNCIA AO TRIBUNAL A QUO. PRECLUSÃO. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. VIOLAÇÃO REFLEXA DA LEI MAIOR NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO NÃO PROVIDO.
+1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e o revolvimento do quadro fático delineado, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, "a", da Lei Maior, nos termos da jurisprudência desta Suprema Corte.
+2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+3. Agravo interno conhecido e não provido.
+(ARE n. 1.422.492-AgR, relatora Ministra Rosa Weber - Presidente, Tribunal Pleno, julgado em 2/10/2023, DJe de 17/10/2023.)
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário, em relação à suscitada ofensa ao art. 5º, LIV e LV, da Constituição Federal, e, quanto às demais alegações, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. TRIBUNAL DO JÚRI. NULIDADE NA QUESITAÇÃO. PRECLUSÃO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO. SUPOSTA VIOLAÇÃO DO ART. 5º, XXXVIII, A, E LVII, OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO INADMITIDO.
