@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRE JUNQUEIRA REIS contra decisão que inadmitiu recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, decorrente do acórdão de apelação exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ fl. 362):
+APELAÇÃO CRIMINAL - FUGA DO LOCAL DO ACIDENTE - DÚVIDA QUANTO AO DOLO DO RÉU - ABSOLVIÇÃO DEVIDA. EMBRIAGUEZ AO VOLANTE - REDUÇÃO DA PENA-BASE - NECESSIDADE. PENA DE SUSPENSÃO DO DIREITO DE CONDUZIR VEÍCULO AUTOMOTOR - PROPORCIONALIDADE COM A PENA CORPORAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO - INVIABILIDADE. RECURSO PARCIALMENTE PROVIDO.
+ ..
+Reanalisadas as circunstâncias judiciais em favor do réu, a pena-base merece redução.
+A pena de suspensão para dirigir veículo automotor deve guardar proporcionalidade com a pena privativa de liberdade aplicada, com a devida observância aos critérios previstos no art. 59 e 68, ambos do CP.
+A existência de condenação anterior por crime de trânsito torna a substituição da pena privativa de liberdade por restritivas de direitos socialmente não recomendável.
+Consta dos autos que o agravante foi condenado, pelo Juízo singular, em concurso material heterogêneo, como incurso nas sanções dos arts. 305 e 306, caput, ambos da Lei n. 9.503/97 (CTB), às penas de 2 (dois) anos e 3 (três) meses de detenção, em regime inicial aberto, à suspensão do direito de dirigir veículo automotor, pelo prazo de 1 (um) ano e 6 (seis) meses, além do pagamento de 240 (duzentos e quarenta) dias-multa, ocasião em que ilidida a substituição da reprimenda corporal por sanções alternativas, por reputá-la não socialmente recomendável (e-STJ fl. 276).
+Irresignada, a defesa interpôs recurso de apelação, tendo o Tribunal de origem lhe dado parcial provimento para:
+a) na forma do art. 386, inciso VII, do CPP, absolver o sentenciado do imputado crime de fuga do local do sinistro;
+b) reduzir a pena-base do remanescente crime de embriaguez ao volante, com a neutralização dos vetores afetos à "conduta social" e aos "motivos do crime";
+c) reconhecer a circunstância atenuante da confissão espontânea, com conseguinte redimensionamento, em definitivo, da sanção corporal a 6 (seis) meses de detenção e 10 (dez) dias-multa; e, por fim;
+d) reduzir a pena de suspensão do direito de conduzir veículo automotor para 2 (dois) meses, mantido o édito condenatório nos demais termos.
+Nas razões do recurso especial, corroborado por dissenso pretoriano, o agravante aponta negativa de vigência ao art. 44, inciso III, do CP.
+Para tanto, assevera que - mantida a sanção corporal em patamar inferior a 4 (quatro) anos, em crime perpetrado sem violência ou grave ameaça e com apenas uma das oito circunstâncias judiciais reputada negativa (e-STJ fl. 378) - a alvitrada substituição por penas restritivas de direitos, ainda que fosse o caso hipotético de reincidência específica (e-STJ fl. 379), revela-se adequada e suficiente ao alcance da finalidade Estatal pedagógica, repressiva e preventiva do crime em testilha.
+Contrarrazões apresentadas pelo Parquet (e-STJ fls. 419-421).
+O Tribunal a quo inadmitiu o apelo especial com ba se na incidência da Súmula 7/STJ e diante da não regular comprovação do dissídio pretoriano agitado, fundamentos contra os quais se insurge a parte agravante (e-STJ fls. 433-440).
+Parecer do Ministério Público Federal pelo desprovimento do agravo em recurso especial (e-STJ fls. 465-470).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Sobre a temática controvertida, consubstanciada no indigitado menoscabo ao art. 44, inciso III, do CP, válido repisar - pela dicção do art. 315 do CPP - os fundamentos assentados pelo Juízo singular ao não proceder à colimada substituição por penas restritivas de direitos (e-STJ fl. 275 e 276, grifou-se):
+ ..  considerando que venha para os autos com maus antecedentes, com fatos de natureza violenta, inclusive um homicídio duplo, pelo mesmo motivo, embriaguez ao volante  ..
+Nos termos do artigo 44 do Código PenaL, em seus incisos I, II e III, considerando que o réu não preenche as exigências ali contidas,  ..  não se faz a substituição lá prevista. Isto por ter sanção em delito semelhante com violência contra a pessoa, dois homicídios.
+O Tribunal estadual, por sua vez, ao ratificar - nesta extensão - a sentença inaugural e indeferir a reclamada benesse, exortou (e-STJ fls. 366-368):
+Considerando a absolvição do apelante em relação ao delito do art. 305, do CTB, passo a analisar as demais teses defensivas em relação ao delito do art. 306, da referida legislação.
+Dosimetria da pena
+A defesa, ademais, pede a redução da reprimenda.
+Na primeira fase de aplicação da reprimenda, o douto sentenciante considerou desfavorável ao apelante os antecedentes, a conduta social, e os motivos do delito, fixando a pena-base acima do mínimo legal em 01 (um) ano e 06 (seis) meses de detenção, e 240 (duzentos e quarenta) dias-multa.
+Verifica-se, da CAC de fls.168/169, que o apelante é portador de maus antecedentes (processo n00781984-06.2009.8.13.0456), razão pela qual mantenho a análise desfavorável da citada baliza judicial.
+ ..
+Diante dos maus antecedentes do agente, que ostenta condenação anterior por crime de trânsito, deve ser mantida a negativa de substituição da pena privativa de liberdade por restritivas de direitos, nos termos do ad. 44 do CP, pois a medida não se mostraria recomendável nem suficiente para a reprovação e prevenção delitivas.
+Da intelecção cotejada entre as genéricas razões de insurgência e os fragmentos acima transcritos, infere-se incidir, sob os contornos do art. 932, inciso III, in fine, do CPC/15, c/c art. 3º do CPP, o óbice consolidado nas Súmulas n. 283/STF e 284/STF, por deficiência de fundamentação do apelo raro.
+Com efeito, depreende-se que a defesa deixou de infirmar - com a necessária dialeticidade recursal e inobservância ao ônus da impugnação específica - fundamento determinante consignado no aresto recorrido e suficiente à manutenção do aresto fustigado.
+Na espécie, tal fundamento está circunscrito na máxima averbada de que, não se afigura recomendável a alvitrada substituição, nos contornos do art. 44, inciso III, do CP, porquanto o apenado, malgrado não ser reincidente (genérico ou específico), ostenta condenação anterior por crime de trânsito (e-STJ fl. 368, grifou-se).
+Desta feita, restou mantida pelo Tribunal a quo a valoração negativa dos maus antecedentes do apenado, na espécie, conspurcada "com fatos de natureza violenta, inclusive um homicídio duplo, pelo mesmo motivo, embriaguez ao volante" (e-STJ fl. 276, grifou-se).
+Assim, conforme consignado em sentença e endossado no aresto recorrido, deflui-se que não logra amparo - com arrimo no princípio da suficiência da pena alternativa e sob pena de proteção Estatal deficiente à objetividade jurídica albergada no art. 306 do CTB - a objetivada substituição da sanção corporal por restritivas de direitos, porquanto não se mostraria recomendável, nem suficiente para a reprovação e prevenção delitivas (e-STJ fl. 368).
+Nesse espectro, tendo em vista a ausência de impugnação congruente, específica e pormenorizada, a fundamento determinante averbado no acórdão recorrido, atrai-se a aplicação, por conseguinte, do enunciado consolidado na Súmula n. 283/STF, conjugada à inteligência da Súmula n. 284/STF, face à constatada deficiência de fundamentação do apelo raro.
+Sobre o tema, este Sodalício tem propalado que, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018) AgRg no REsp 1888000/RS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 01/06/2021, DJe 08/06/2021).
+Na mesma senda: "A deficiência de fundamentação do recurso especial e a falta de impugnação do acórdão recorrido atraem o óbice das Súmulas n. 283/STF e 284/STF" (AgRg no REsp 1832281/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05/05/2020, DJe 14/05/2020).
+Em reforço:
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.  ..  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA 283/STF.  ..
+6.  ..  A ausência de impugnação nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual, atrai a aplicação da Súmula n. 283 do STF. (AgRg no AREsp n. 1.916.058/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/3/2022).
+ ..
+(REsp n. 1.921.670/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/9/2023, DJe de 29/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS NS. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL - STF.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+1. As razões do apelo raro não trazem nenhuma argumentação referente aos requisitos da revisão criminal, elencados no art. 621 do Código de Processo Penal, julgados desatendidos no acórdão recorrido.
+Incidente, pois, a Súmula n. 283 do Supremo Tribunal Federal - STF, além de configurar deficiência de fundamentação, porquanto as razões do recurso especial estã o dissociadas do que restou decidido na origem, sendo aplicável o óbice da Súmula n. 284/STF.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.268.914/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/8/2023, DJe de 18/8/2023.)
+De outro vértice, no tocante à interposição do apelo raro pela alínea c do permissivo constitucional, releva sublinhar que não restou comprovada a divergência jurisprudencial suscitada, nos contornos uniformizadores objetivados no art. 926 do CPC c/c art. 3º do CPP.
+Com efeito, é cediço por esta Corte Superior que a mera transcrição de ementas - in casu, ventiladas às fls. 378-380 - não supre a necessidade de efetivo cotejo analítico, o qual exige a reprodução de trechos dos julgados atuais confrontados, bem como a demonstração das circunstâncias identificadoras, com a indicação da existência de similitude fática ou de identidade jurídica entre o acórdão recorrido e os paradigmas indicados, nos moldes legais e regimentais.
+A propósito: "A interposição do apelo extremo, com fulcro na alínea c, do inciso III, do art. 105, da Constituição Federal, exige, para a devida demonstração do alegado dissídio jurisprudencial, além da transcrição de ementas de acórdãos, o cotejo analítico entre o aresto recorrido e os paradigmas, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional" (AgRg no AREsp n. 2.489.541/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024, grifou-se).
+No mesmo norte: "A demonstração do dissídio jurisprudencial não se contenta com meras transcrições de ementas, tal como ocorreu no presente caso, sendo absolutamente indispensável o cotejo analítico, de sorte a demonstrar a devida similitude fática entre os julgados confrontados" (AgRg no REsp n. 2.398.933/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024, grifou-se).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
