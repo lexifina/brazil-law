@@ -1,0 +1,2 @@
+Autoriza a União a postergar o pagamento da dívida de entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal, e a reduzir a taxa de juros dos contratos de dívida dos referidos entes com a União; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei Complementar nº 159, de 19 de maio de 2017.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
