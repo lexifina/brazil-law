@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de petição na qual RONALD PINTO DOS SANTOS alega o descumprimento de decisão proferida neste habeas corpus.
+Consta dos autos que a defesa impetrou a presente ordem para concessão de saída antecipada beneficiado com a prisão domiciliar sob uso de monitoramento eletrônico c.c autorização para trabalho externo harmonizado com o regime semiaberto.
+Em decisão de fls. 61-64, concedi a ordem de ofício para, afastar os óbices apontados na decisão de primeiro grau e no acórdão estadual e determinar ao Juízo da execução que reavalie o pedido de trabalho externo.
+Consoante o peticionário, o Juízo de origem proferiu nova decisão:
+"No caso dos autos, observa-se que a decisão proferida em 17/01/2024 teve por fundamento a natureza dos delitos praticados pelo apenado, além da quantidade de pena remanescente. Assim, inobstante o lastro probatório trazido aos autos, reanalisando o pedido após afastar os fundamentos considerados inidôneos pela Corte Cidadã, este juízo, em consulta aos sistemas de antecedentes criminais, constatou a existência de ação penal com situação "julgado", cuja tramitação ocorre na 4ª Vara de Delitos de Tráfico de Drogas de Fortaleza/CE, que ainda não expediu guia de recolhimento, além de ação penal em grau de recurso, cuja decisão emanou da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE (mov. 199.1). Ademais, analisando-se as informações dispostas na aba "eventos", infere-se a existência de 02 (duas) fugas praticadas no decorrer da execução penal, o que demonstra a indisciplina do apenado durante o cumprimento da pena. Tais circunstâncias, assim, fazem com que este juízo não vislumbre, nesta oportunidade, a capacidade de o apenado cumprir as condições a ele afetas e sem que sua saída antecipada do cárcere represente risco à sociedade."
+O peticionante alega então que "a mera existência de processo criminal em tramitação não pode ser elemento suficiente para fundamentar indeferimento de pedidos em fase de execução penal, pois se assim fosse, produziria violação ao princípio da presunção de inocência, tendo em vista que o paciente não fora condenado naqueles autos, sem sequer existir em seu desfavor prisão preventiva, conforme Certidão de Antecedentes Infracionais produzida por àquele Juízo" (e-STJ, fl. 83).
+Aduz que "quanto ao suposto evento fuga mencionado pelo Magistrado, perceba que inexiste a referida informação na certidão carcerária ou qualquer decisão judicial informando o fato, mas tão somente, um evento lançado por servidores da Secretaria, sem qualquer procedência da informação" (e-STJ, fl. 83).
+Requer a concessão do trabalho externo beneficiado com a prisão domiciliar sob uso de monitoramento eletrônico.
+É o relatório.
+Decido
+Na presente petição foi apresentada decisão proferida por magistrado de primeira instância, em manifesta falta de exaurimento das instâncias ordinárias, porquanto não compete a esta Corte superior, nos termos do art. 105, inc. I, alínea "c", julgar o presente writ. Cabe ao tribunal imediata e hierarquicamente superior processar e julgar habeas corpus contra juiz de primeiro grau.
+Nesse mesmo sentido, confiram-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO DE JUIZ MONOCRÁTICO. INCOMPETÊNCIA DESTA CORTE PARA APRECIAÇÃO DA MATÉRIA EM DEBATE, SOB PENA DE SE INCORRER EM INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+- Consoante consignado no decisum agravado, é manifesta a incompetência desta deste Tribunal para análise do presente writ, afinal, na própria inicial é indicada como autoridade coatora o magistrado da Primeira Vara Cível/Criminal/VEP da Comarca de Conselheiro Pena. Ademais, na documentação que instrui o habeas corpus não foi juntada qualquer decisão prolatada pelo Tribunal de Justiça, mas sim a decisão que converteu o flagrante em prisão preventiva, proferida pelo juiz singular, o que indica que, de fato, a impetração ataca decisão de primeira instância, impedindo que esta Corte se manifeste acerca da matéria, sob pena de se incorrer em indevida supressão de instância.
+Agravo regimental desprovido."
+(AgRg no HC 330.762/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 03/09/2015, DJe 22/09/2015)
+"PROCESSUAL PENAL. HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. INDEFERIMENTO DE LIMINAR NA ORIGEM. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE TERATOLOGIA EVIDENTE. MÉRITO JULGADO PELO TJ COMO PREJUDICADO. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM DE OFÍCIO PARA QUE O JUIZ DE PRIMEIRO GRAU EXAMINE O MÉRITO.
+1. A regra é a de que não pode o Superior Tribunal de Justiça substituir-se à jurisdição da instância de origem, juízo natural para decidir sobre liminar em prévio habeas corpus, impetrado contra ato de juiz de primeiro grau, sob pena de indevida supressão de instância.
+ .. "
+(AgRg no HC 230.606/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/05/2014, DJe 13/05/2014)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. ART. 105, I, "c", DA CONSTITUIÇÃO FEDERAL. INDEFERIMENTO LIMINAR. APLICAÇÃO DO ART. 210 DO REGIMENTO INTERNO DESTA CORTE.
+1. De acordo com o art. 105, I, "c", da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+2. Disciplina o art. 210 do Regimento Interno desta Corte que, "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente".
+3. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão agravada por seus próprios fundamentos.
+4. Agravo regimental a que se nega provimento."
+(AgRg no HC 189.383/PR, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 16/12/2010, DJe 01/02/2011)
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
