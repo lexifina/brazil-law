@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSUÉ ANTÔNIO WITT GONÇALVES contra decisão de Desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul, proferida nos autos do habeas corpus n. 5136352-30.2024.8.21.7000.
+Consta dos autos que o ora paciente foi preso em flagrante na posse de drogas ilícitas (454g de maconha e 19g de cocaína) e de duas armas de fogo sem autorização e em desacordo com determinação legal ou regulamentar, sendo uma delas de uso restrito, devido à numeração suprimida, além de dezenas de munições (e-STJ fl. 72).
+Nesta oportunidade, a defesa afirma que os condutores da prisão flagrancial teriam chegado ao ora paciente após ilegítima invasão do seu domicílio, evidenciando-se a nulidade das provas então obtidas, bem como a insuficiência dos indícios relativos ao periculum libertatis, enfatizando que se trata de réu primário, com 21 anos, que possivelmente faria jus à hipótese do tráfico privilegiado.
+Diante disso, em liminar e no mérito, pede que o cárcere seja relaxado.
+À e-STJ fl. 649, tornou aos autos para afirmar que "o estabelecimento em que se encontra, Penitenciária Modulada de Charqueadas, está sofrendo severamente com as enchentes, com a impossibilidade de visitas, falta de água e comida".
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na instância de origem: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso específico destes autos, trata-se de prisão preventiva imposta diante da apreensão de quantidade variada de tóxicos proscritos, aparentemente destinados à venda, na posse de pessoa que também possuía duas armas de fogo, estando uma delas com a numeração suprimida, além de dezenas de munições, e que havia sido noticiado à polícia por populares justamente por possuir droga ilícita e arma de fogo.
+Quanto à alegada nulidade da prisão em flagrante, a defesa se refere a elementos que não constam da decisão que impôs sua prisão preventiva, tampouco do ato ora apontado como coator, tendo sido extraídos exclusivamente da versão do réu sobre a dinâmica dos fatos, de modo que esse ponto específico demandaria dilação probatória interditada nesta via jurisdicional.
+Diante desse resumo, não há falar em teratologia ou manifesta insuficiência da fundamentação relativa ao fumus comissi delicti ou ao periculum libertatis, não sendo o caso de superação da Súmula n. 691 do Supremo Tribunal Federal.
+Quanto aos efeitos da enchente no Rio Grande do Sul, situação superveniente que a defesa alega haver tornado a custódia desproporcionalmente onerosa, observo tratar-se de alegação inaugurada nesta instância, sem o necessário percurso perante as instâncias ordinárias, sendo certa a inviabilidade da supressão de instância.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
