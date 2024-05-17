@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por WALTER DAVAL JUNIOR, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 50):
+AGRAVO DE INSTRUMENTO. Indeferimento da assistência judiciária gratuita. Superveniente recolhimento das custas iniciais em primeiro grau. Ato incompatível como pedido de concessão da gratuidade da justiça. Preclusão logica e aplicação do princípio "venire contra factum proprium". Recurso não conhecido, com determinação.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 63-66).
+Nas razões do recurso especial (e-STJ, fls. 68-72), o insurgente aponta violação aos arts. 489, § 1º, II e IV, e 1022, II, parágrafo único, II, do Código de Processo Civil.
+Sustentou em resumo, negativa de prestação jurisdicional por parte do acórdão recorrido, ao argumento de que o julgado não analisou suas alegações a respeito da ocorrência do pagamento das despesas processuais por terceiro apenas para que houvesse a retomada do regular prosseguimento do feito, mas sem alteração da condição de hipossuficiente do autor.
+Contrarrazões às fls. 75-89 (e-STJ).
+O Tribunal de origem admitiu o recurso especial, ascendendo os autos a esta Corte (e-STJ, fls. 129-130).
+Brevemente relatado, decido.
+No caso em estudo, em relação à suposta negativa de prestação jurisdicional, constata-se que o acórdão combatido resolveu satisfatoriamente todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, tendo apresentado os motivos pelos quais entendeu pelo não conhecimento do agravo de instrumento em virtude da ocorrência de preclusão lógica, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Essa é a conclusão que se depreende do que ficou registrado no acórdão recorrido (e-STJ, fls. 51-52 - sem grifo no original):
+O agravante postula a concessão da gratuidade da justiça e, para tanto, alega insuficiência de recursos para arcar com o pagamento das custas, das despesas processuais e dos honorários advocatícios (artigo 98,caput,do Código de Processo Civil) sem prejuízo de sua manutenção e sobrevivência.
+Extrai-se dos autos que após o indeferimento do benefício pelo D. Juízo "a quo" o autor-agravante peticionou recolhendo a integralidade das custas iniciais, sem realizar qualquer ressalva quanto à interposição do presente recurso.
+E, com efeito, o regular recolhimento das custas iniciais pelo agravante em primeiro grau é ato absolutamente incompatível com a afirmação de quem supostamente não reúne condições para suportar os encargos processuais sem prejuízo de seu próprio sustento ou de sua família ( venire contra factum proprium ).
+Daí, em consequência, configurada hipótese de preclusão lógica no que concerne ao indeferimento do pedido de gratuidade da justiça ao agravante, devidamente superada a discussão pelo regular recolhimento das custas iniciais em primeiro grau.
+Assim sendo, não se conhece do agravo de instrumento em razão da preclusão lógica operada.
+Em arremate, como consectário da rejeição do pedido de gratuidade da justiça, deverá o agravante recolher o preparo do recurso, no prazo de 5 dias, contados da publicação do Acórdão, sob pena de inscrição na dívida ativa.
+Como é possível observar, o colegiado de origem, ao concluir pelo não conhecimento do agravo de instrumento interposto pelo ora insurgente, dada ocorrência de preclusão lógica, apresentou os motivos pelos quais entendeu que a parte praticou ato incompatível com a pretensão de reconhecimento do benefício da justiça gratuita, consignando expressamente que o autor recolheu a integralidade das custas iniciais e nem sequer mencionou que havia interposto o referido recurso contra a decisão de indeferimento da benesse pleiteada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022 do CPC/2015.
+Outrossim, "o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp n. 1.523.744/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meio dos embargos de declaração apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Na mesma linha de cognição:
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+(..)
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+(..)
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+Ante o exposto, nego provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DA JUSTIÇA GRATUITA. RECOLHIMENTO DAS CUSTAS INICIAIS. ATO INCOMPATÍVEL COM O PEDIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RECURSO ESPECIAL DESPROVIDO.
