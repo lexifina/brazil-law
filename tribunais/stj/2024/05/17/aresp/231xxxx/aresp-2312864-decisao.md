@@ -1,0 +1,24 @@
+DECISÃO
+DWMERSON  RODRIGUES  DA  SILVA  MEDRADO  agrava  da  decisão  que  inadmitiu  o  recurso  especial  que  interpôs,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de  Justiça  do  Distrito  Federal  e  Territórios  na  Apelação  n.  0001209-31.2020.8.07.0002
+O  réu  foi  condenado,  por  embriaguez  ao  volante.  O  Tribunal  de  origem,  ao  dar  provimento  ao  recurso  da  acusação,  fixou  o  valor  de  R$  15.211,00  a  título  de  reparação  de  danos  materiais  ao  proprietário  do  veículo  em  que  o  acusado  colidiu.
+No  recurso  especial,  a  defesa  apontou  a  violação  dos  arts.  156  e  387,  IV,  do  CPP,  ao  argumento  de  que  a  denúncia  não  aponta  o  montante  devido  e  não  houve  instrução  probatória  específica  para  arbitrar  o  valor  indenizatório.
+  Requereu  a  exclusão  do  valor  arbitrado  pela  Corte  local.
+O  Ministério  Público  Federal  manifestou-se  pelo  não  provimento  do  agravo.
+Decido.
+O  agravo  é  tempestivo,  atacou  os  fundamentos  da  decisão  agravada  e,  por  isso,  deve  ser  conhecido.  O  recurso  especial  preenche  os  requisitos  de  admissibilidade  e,  no  mérito,  não  comporta  provimento.
+Quanto  ao  pleito  de  reparação  civil  dos  danos,  prevaleceu  no  Tribunal  de  origem  a  seguinte  conclusão  (fls.  319-320,  grifei):
+No  caso  dos  autos,  o  Ministério  Público  requereu  a  reparação  mínima  pelos  danos  causados  à  vítima  expressamente  na  denúncia,  bem  como  reforçou  tal  pedido  quando  da  apresentação  dos  memorias  (IDs.  35595154  e  35595169).
+O  orçamento  realizado  no  veículo  da  vítima  comprova  o  prejuízo  no  montante  de  R$  15.211,00  (quinze  mil  duzentos  e  onze  reais),  decorrente  das  avarias  oriundas  da  colisão  provocada  pelo  réu  (ID.
+35595117),  que  se  encontrava  sob  o  efeito  de  álcool.
+Ressalte-se  que  foi  garantido  ao  réu  o  contraditório  e  a  ampla  defesa  acerca  do  valor  relativo  ao  orçamento  do  veículo.
+Em  tal  hipótese  tem-se  como  viável  a  fixação  de  indenização  mínima  pelos  danos  materiais  causados  à  vítima.
+ ..
+Assim,  tendo  em  vista  a  existência  de  pedido  expresso  na  denúncia  e  diante  da  comprovação  do  prejuízo  decorrente  da  prática  da  infração  penal  no  decorrer  da  instrução  criminal,  garantidos  o  contraditório  e  a  ampla  defesa,  viável  a  condenação  do  réu  ao  pagamento  do  valor  R$  15.211,00  (quinze  mil,  duzentos  e  onze  reais)  à  vítima,  à  título  de  reparação  mínima  pelos  danos  materiais  causados  pela  conduta  criminosa.
+A  Terceira  Seção  desta  Corte,  no  julgamento  do  REsp  n.  1.986.672/SC,  consolidou  o  entendimento  das  duas  Turmas  criminais  do  STJ  de  que,  em  situações  envolvendo  dano  material,  a  definição  de  um  valor  mínimo  para  a  reparação  de  danos  exige:  a)  instrução  específica  com  esse  propósito,  b)  pedido  expresso  na  inicial  acusatória  e  c)  indicação  do  valor  pretendido  na  denúncia.
+Confira-se:  "nos  casos  de  fixação  de  valor  mínimo  para  reparação  de  danos  matérias  causadas  por  infração  penal,  a  Sexta  Turma  desta  Corte  tem  acompanhado  o  entendimento  desta  Quinta  Turma,  exigindo  cumulativamente  os  requisitos  de  pedido  expresso  na  inicial,  a  indicação  de  valor  e  a  instrução  probatória  específico"  (REsp  n.  1.986.672/SC,  relator  Ministro  Ribeiro  Dantas,  Terceira  Seção,  julgado  em  8/11/2023,  DJe  de  21/11/2023,  grifei).
+Na  mesma  ocasião,  o  órgão  colegiado  decidiu  que,  para  os casos de  dano  moral  presumido,  a  instrução  específica  é  dispensada  e  reforçou  a  tese  fixada  no  julgamento  do  tema  repetitivo  n.  983  ("Nos  casos  de  violência  contra  a  mulher  praticados  no  âmbito  doméstico  e  familiar,  é  possível  a  fixação  de  valor  mínimo  indenizatório  a  título  de  dano  moral,  desde  que  haja  pedido  expresso  da  acusação  ou  da  parte  ofendida,  ainda  que  não  especificada  a  quantia,  e  independentemente  de  instrução  probatória").
+No  caso,  assiste  razão  à  defesa.  Não  há  como  restabelecer  a  reparação  civil  mínima fixada a título de danos materiais,  pois  a  denúncia  ,  embora  faça  alusão  ao  pedido  indenizatório,  não  apresentou  expressamente  o  valor  mínimo  requerido  (fl.  174)  e  não  houve  instrução  específica  a  esse  respeito,  circunstâncias  que  obstam  o  acolhimento  do  pedido,  conforme  a  jurisprudência  ora  sedimentada  no  STJ.
+
+À  vista  do  exposto,  conheço  do  agravo  para  dar  provimento  ao  recurso  especial , a fim de  excluir  a  indenização fixada no acórdão recorrido.
+Publique-se  e  intimem-se.
+EMENTA
