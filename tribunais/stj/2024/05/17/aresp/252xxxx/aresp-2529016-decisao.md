@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado por Hughes Telecomunicações do Brasil Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fls. 207/208):
+Apelação cível. ICMS. Não incidência em relação à transferência entre filiais. Direito à compensação.
+Necessidade de dilação probatória. Recursos não providos.
+1. Não incide ICMS na transferência de mercadoria entre filiais, ante a ausência de circulação jurídica dos bens. Tema 1099 da Repercussão Geral.
+2. Não é possível, ante a necessidade de dilação probatória, a declaração do direito à compensação tributária de parcela específica sobre a qual não há prova pré-constituída, conforme interpretação jurisprudência! já sedimentada no Tema n. 118-STJ.
+3. Recursos não providos.
+Opostos embargos declaratórios, foram rejeitados (fls. 248/252).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, §1º, VI, e 1.022, II, parágrafo único, do CPC e 927, III e IV, do CPC e 165, I, 168, I, e 170 do CTN. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca da tese que "os fundamentos do pedido das Recorrentes, especialmente que o mandamus busca apenas a declaração de ilegalidade e do direito à compensação dos valores pagos indevidamente, nos termos em que autoriza a Súmula nº 213 e Tema nº 118 do STJ" (fl. 271) e (II) "O caso sob julgamento, conforme comprovado nos autos, enquadra-se exatamente na tese fixada no item "a" do Tema nº 118 do STJ, na medida em que o Mandado de Segurança impetrado pelas Recorrentes tem como objetivo único a declaração de ilegalidade e do direito à compensação dos pagamentos indevidos, em virtude do reconhecimento incidental da ilegalidade e inconstitucionalidade da exigência do ICMS e do diferencial de alíquotas de ICMS sobre transferências de bens entre os estabelecimentos da mesma pessoa jurídica, localizadas em outras Unidades da Federação, cujo valor será apurado, futuramente, na esfera administrativa" (fl. 278)
+Parecer do Ministério Público Federal pelo desprovimento do recurso (fls. 414/418).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Importante registrar, à saída, que, no tocante ao cabimento da via mandamental para discussão de direito à compensação de indébito tributário, o Sodalício de origem, ao solucionar a contenda, pautou-se pelo posicionamento consolidado pelo pelo STJ (Tema 118/STJ).
+Consoante dicção do art. 1.039 do CPC: "Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada".
+Nesse panorama, fica prejudicada a análise da matéria no presente recurso especial, tendo em vista ser coincidente com aquela discutida na repercussão geral e no recurso especial julgado sob a sistemática dos recursos repetitivos.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. RECURSO ESPECIAL. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA.
+1. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+2. Na espécie, a respeito da decadência e da prescrição dos créditos tributários discutidos nos autos, a Corte local ancorou-se no entendimento de recursos especiais repetitivos (REsp 973.733/SC - Tema 163/STJ e REsp 1.120.295/SP - Tema 383/STJ) para concluir que, "Conforme reconhecido pela própria exequente, apenas a declaração com terminação 71713, com data de entrega em 12/05/2000, está prescrita, pois o executivo fiscal foi ajuizado apenas em 15/05/2005".
+3. Nesse panorama, fica prejudicada a análise da matéria do presente recurso especial, tendo em vista ser coincidente com aquela discutida no repetitivo.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.583.144/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022)
+Adiante, verifica-se não ter ocorrido ofensa aos arts. 489, §1º, VI, e 1.022, II, parágrafo único, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Assim, destaca-se a seguinte fundamentação adotada pelo aresto impugnado (fl. 207):
+De acordo com a sentença, o pedido não foi acolhido sob o fundamento de necessidade de dilação probatória, vedada em sede de Mandado de Segurança, pois não existiriam nos autos documentos a atestar a certeza e liquidez dos créditos a serem compensados, de acordo com o Tema Repetitivo n. 118 do STJ.
+Pois bem, o caso em análise demanda a aplicação do entendimento exposto no item "b", pois, muito embora o impetrante alegue que se trata, em verdade, de pedido de declaração apenas do direito à compensação, as provas dos autos demonstram que há pleito cm relação à parcela especifica.
+Veja-se, foram acostadas aos autos três notas fiscais relativas à transferência de ativo imobilizado, seguidas de documento de arrecadação (DARE) e comprovante de pagamento do tributo (id n. 10419927).
+Nesse aspecto, a verificação do direito à compensação dependerá da quantificação do montante tributado, o que não é possível se aferir com a prova pré-constituída acostada aos autos, o que demanda dilação probatória, inviável em sede de ação mandamental.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem acerca da existência da prova pré-constituída a comprovar o direito pleiteado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Confira-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+1. Tendo a parte recorrente suscitado de modo genérico a afronta ao art. 535 do CPC/1973, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, a aplicação da Súmula 284 do STF é de rigor.
+2. O Superior Tribunal de Justiça possui o entendimento de que aferir a existência de prova pré-constituída em sede de mandado de segurança, bem como de direito líquido e certo, demanda a análise do conteúdo fático-probatório constante nos autos, o que é inviável nos termos da Súmula 7 do STJ. 3. Agravo interno não provido.
+(AgInt no AREsp 734.061/PI, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/8/2019, DJe de 29/8/ 2019.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
