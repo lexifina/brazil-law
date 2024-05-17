@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GLÁUCIO AMARIM DE SOUZA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: cumprimento de sentença proposto pelo agravante em face de TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL .
+Decisão: acolheu a manifestação da parte executada para reconhecer o excesso de execução, em face da ausência de comprovação de intimação pessoal da demandada para cumprir a obrigação de fazer, nos termos da súmula 410, do Superior Tribunal de Justiça.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA -AGRAVO DE INSTRUMENTO -POSSIBILIDADE DE APRESENTAÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA APÓS APRESENTAÇÃO APÓS A SUA INSTAURAÇÃO PELO EXEQUENTE - APRESENTAÇÃO PREMATURA DE PEÇA QUE NÃO LEVA A INTEMPESTIVIDADE -EXECUÇÃO DE MULTA POR NÃO CUMPRIMENTO DE OBRIGAÇÃO DE FAZER -AUSÊNCIA DE INTIMAÇÃO PESSOAL DO EXECUTADO PARA CUMPRIMENTO DA OBRIGAÇÃO -SÚMULA 410, DO STJ. APLICABILIDADE MESMO APÓS A VIGÊNCIA DO NOVO CÓDIGO DE PROCESSO CIVIL -MULTA INEXIGÍVEL - Nos termos do artigo 218, §4º do Código de Processo Civil, será considerado tempestivo o ato praticado antes do termo inicial do prazo. Não há como sustentar em intempestividade da impugnação ao cumprimento de sentença por apresentação de defesa supostamente em momento anterior à intimação para a parte executada pagar a quantia apontada na peça de ingresso. -Segundo recente entendimento do Superior Tribunal de Justiça, é necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo não cumprimento de obrigação de fazer ou não fazer, no prazo fixado judicialmente, antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil.
+Recurso especial: alega violação do art. 1.022 do CPC, e dos arts. 239, 269 e 272 do CPC.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial do agravante em razão dos seguintes fundamentos:
+i) ausência de violação do art. 1.022 do CPC;
+ii) reexame de contexto fático-probatório (Súmula 7 do STJ);
+iii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ);
+Agravo em recurso especial: reitera a violação do art. 1.022 do CPC, na medida em que o Tribunal de origem, mesmo após oposição de embargos declaratórios, foi omisso em relação a questões pertinentes e relevantes. Aduz, genericamente, a inaplicabilidade dos óbices das súmulas 7 e 83, pois a questão demanda a análise de fatos incontroversos, e que a jurisprudência citada na decisão trata de questão jurídica diversa.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que o agravante se limitou a trazer alegações genéricas, mas não demonstrou, de maneira consistente e específica, a inaplicabilidade do óbice da Súmula 83/STJ.
+Ressalte-se que a impugnação da Súmula 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, com a realização de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
