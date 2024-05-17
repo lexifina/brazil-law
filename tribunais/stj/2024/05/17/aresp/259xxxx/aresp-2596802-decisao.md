@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+REMESSA NECESSÁRIA. PRETENSÃO DE RESTABELECIMENTO DE BENEFÍCIO PREVIDENCIÁRIO COM O PAGAMENTO DOS ATRASADOS E INDENIZAÇÃO POR DANOS MORAIS. PESSOA CURATELADA JUDICIALMENTE. RIOPREVIDÊNCIA. REVELIA. SENTENÇA DE PROCEDÊNCIA.
+1. Pensão concedida durante anos ao autor, conforme se verifica no comprovante de rendimentos referente ao ano base 2008.
+2. Suspensão do benefício sem motivo válido. Autarquia que sequer apresentou defesa. Revelia decretada.
+3. Documentação apresentada pelo autor comprovando os fatos narrados na inicial.
+4. Embora regularizado o recadastramento biométrico e a atualização dos dados bancários conforme solicitado, o benefício não foi restabelecido. Não consta dos autos qualquer notícia de que houve notificação prévia do beneficiário para atender tais procedimentos à época da suspensão da pensão.
+5. Devido o restabelecimento da pensão e pagamento dos atrasados a serem apurados em fase de cumprimento de sentença, observada a prescrição quinquenal. Decreto 20.910/32 e Súmula 85 do STJ.
+6. Danos morais configurados. Situação enfrentada pelo autor que ultrapassa o mero aborrecimento, vez que se trata de benefício essencial a sua subsistência, possuindo caráter alimentar e assegurando a própria dignidade. Quantum indenizatório fixado em sentença que se mostra adequado, em observância aos princípios da razoabilidade e proporcionalidade, sem representar enriquecimento sem causa para a vítima.
+7. Precedentes do TJRJ. REFORMA PARCIAL DA SENTENÇA, EM SEDE DE REMESSA NECESSÁRIA, APENAS PARA ACRESCER AO DISPOSITIVO DA SENTENÇA A OBSERVÂNCIA DA PRESCRIÇÃO QUINQUENAL (fl. 172).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 183 do CPC, no que concerne à necessidade de intimação pessoal da parte recorrente, por se tratar de pessoa jurídica de direito público, devendo ser reconhecida a nulidade da decisão recorrida, por se tratar de vício insanável e por violar os princípios da ampla defesa e do contraditório. Aduz a seguinte argumentação:
+O Código de Processo Civil determina expressamente a obrigatoriedade de intimação pessoa, por carga, remessa ou meio eletrônico para as manifestações processuais da Advocacia Pública. In verbis:
+ ..
+Observa-se, assim, que a Fazenda Pública sempre deve ser intimada de forma específica e pessoal para que seja dado início ao prazo de suas manifestações. De modo que a falta de intimação conduz a uma nulidade absoluta, já que viola os princípios da ampla defesa e do contraditório.
+ ..
+No caso dos autos, o réu NÃO FOI intimado da sentença, razão pela qual não teve oportunidade de apresentar as razões do seu recurso e exercer seu direito ao contraditório e ampla defesa.
+Nesse sentido, evidente a nulidade pela ausência de intimação pessoal da Fazenda Pública, a qual pode ser alegada a qualquer tempo.
+Assim sendo, destaca o recorrente a necessidade de intimação pessoal para fins de adequado cumprimento do disposto na lei processual civil que expressamente atribui aos entes públicos a prerrogativa da intimação pessoal na forma supracitada.
+Portanto, tendo em vista que a ausência de intimação do réu é um vício insanável, deve ser determinada a nulidade dos atos processuais, em especial do presente acórdão, com a consequente devolução do prazo para apresentação de eventual recurso em face da r. sentença, a fim de se garantir a ampla defesa e o devido processo legal.
+Como se percebe, é perfeitamente legítima a pretensão do recorrente de buscar anulação do v. acórdão no que tange à não intimação da r. sentença, o que restou comprovado nestes (fls. 214- 218).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
