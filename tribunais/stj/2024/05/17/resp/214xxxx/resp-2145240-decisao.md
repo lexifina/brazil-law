@@ -1,0 +1,8 @@
+DECISÃO
+Retornam os autos a esta Corte após provimento dado ao recurso extraordinário interposto pela ASSOCIAÇÃO BRASILEIRA DE BEBIDAS ABRABE contra acórdão desta Corte que, em sede de agravo interno, confirmara decisão monocrática de minha lavra que concluiu pela incompetência desta Corte para exame da pretensão recursal do particular relativa ao exame de norma local contestada em face de lei federal, o que atrairia a competência do Supremo Tribunal Federal no âmbito do recurso extraordinário nos termos do art. 102, III, "d", da Constituição Federal.
+O Supremo Tribunal Federal, contudo (decisão de fls. 1.244-1.249 e-STJ), entendeu que a pretensão veiculada pelo contribuinte em seu recurso especial era a de discutir a validade de normas infralegais locais (Decreto estadual n. 37.929, de 2017, e Resolução GSEFAZ n. 17, de 2017) perante a lei federal, o que consiste em verificação de legalidade de atos de governo local em face de lei federal, situação que, em tese, atenderia ao requisito previsto no art. 105, inc. III, al. "b", da Constituição Federal a atrair a competência do Superior Tribunal de Justiça, razão pela qual determinou o retorno dos autos a esta Corte para o julgamento do recurso especial.
+É o relatório. Passo a decidir.
+Considerando que o agravo em recurso especial já havia sido conhecido por esta Corte (fls. 1.066-1.070 e-STJ) que, no entanto, não conheceu do recurso especial, DETERMINO a autuação deste feito como recurso especial para, em cumprimento ao decidido pelo STF na decisão de fls. 1.244-1.249 e-STJ, proceder ao julgamento do recurso.
+Após as medidas de praxe, retornem-me os autos conclusos para julgamento.
+Publique-se. Intimem-se. Cumpra-se.
+EMENTA
