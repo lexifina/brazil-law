@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+APELAÇÃO CRIME. TRÁFICO DE DROGAS. APREENSÃO DE MACONHA. PROVA ROBUSTA. TRÁFICO DE DROGAS. A prova dos autos é suficiente a demonstrar a prática delitiva, tendo em vista a localização de porções de maconha no interior de um tubo de creme dental deixado pela acusada em uma casa prisional. Entrega de entorpecente a terceiro que configura o crime de tráfico de drogas.
+MINORANTE DO TRÁFICO PRIVILEGIADO. Benesse não concedida diante do não preenchimento dos requisitos exigidos pela legislação especial. Ré que ostenta condenação definitiva por delito de mesma natureza que, apesar de não a tornar reincidente, denota sua dedicação à prática de crimes.
+MAJORANTE DO ARTIGO 40, INCISO III, DA LEI DE DROGAS. Impositiva a manutenção da majorante, na medida em que o delito foi perpetrado no interior de estabelecimento prisional.
+DOSIMETRIA DA PENA. Teor da Súmula nº. 231 do STJ que impede a redução da sanção provisória para patamar inferior ao mínimo legal. Reprimenda mantida.
+PENA DE MULTA. Inviável a isenção da pena de multa, expressamente cominada de forma cumulativa no tipo penal, sob pena de ofensa ao princípio da legalidade.
+Ademais, por ser o acusado o único responsável pelo seu pagamento, a sua fixação não implica em violação ao princípio da intranscendência.
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. Pleito prejudicado diante da concessão do benefício na sentença recorrida.
+RECURSO DESPROVIDO.
+Narram os autos que a recorrente foi condenada como incursa nas sanções do artigo 33, caput, e artigo 40, III, ambos da Lei nº 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa.
+Sustenta a defesa, em suma, que a recorrente faz jus à minorante do tráfico privilegiado, alegando que "fundamentar a negativa da aplicação da redutora em virtude de fato posterior ao presente caso deve ser absolutamente rechaçado, tendo em vista que na data do fato deste processo (04.02.2019) a recorrente era primária, tinha bons antecedentes, não se dedicava a atividades criminosas ou integrava organização criminosa" (fl. 314).
+Requer o provimento do recurso, "para aplicar, em patamar máximo, a minorante em comento, com a consequente readequação do regime prisional e a concessão da substituição da pena privativa de liberdade" (fl. 315).
+Contrarrazoado e admitido na origem, o Ministério Público Federal opinou pelo provimento do recurso especial.
+É o relatório.
+Decido.
+O Tribunal de origem negou a minorante do tráfico privilegiado pelos seguintes fundamentos (fls. 299):
+Sob outro aspecto, a ré não faz jus à minorante do tráfico privilegiado.
+No ponto, a benesse em comento, que autoriza ao julgador reduzir a pena na terceira fase da dosimetria, destina-se às hipóteses em que se constate ser o réu primário e de bons antecedentes, sem dedicação às atividades criminosas e sem envolvimento com organização criminosa.
+Com base no dispositivo supracitado, pretende a lei, por motivos de política criminal, distinguir o traficante eventual e não integrante de organização criminosa daquele profissional envolvido com maior profundidade na seara criminosa, oferecendo tratamento penal menos gravoso ao primeiro. Para tanto, faz-se necessário que o agente integre, em conjunto, os quatro requisitos especificados acima.
+Todavia, muito embora a ré seja tecnicamente primária, extrai-se de sua certidão de antecedentes a existência de uma condenação definitiva pela prática dos delitos de tráfico de drogas e associação ao tráfico (5004013- 65.2021.8.21.0064), os quais foram perpetrados em data posterior ao presente fato.
+Tal contexto, muito embora não torne a ré reincidente, evidencia sua dedicação à prática de delitos, inclusive da mesma natureza que o crime ora apreciado. Com efeito, deixo de conceder a minorante do tráfico privilegiado diante do não atendimento, de forma cumulativa, dos requisitos exigidos pela legislação especial.
+Como se vê, o Tribunal de origem não decidiu em consonância com a jurisprudência desta Corte, razão pela qual o acórdão deve ser reformando, pois a condenação da recorrente por fatos posteriores ao crime pelo qual (neste feito) foi condenada, não pode ser utilizada para afastar a benesse em apreço. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. MINORANTE. AÇÕES PENAIS EM CURSO E CONDENAÇÕES TRANSITADAS EM JULGADO POR FATOS POSTERIORES NÃO CONFIGURAM MAUS ANTECEDENTES. IMPOSSIBILIDADE DE SE AFASTAR A BENESSE COM BASE EM TAIS CIRCUNSTÂNCIAS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Ações penais em curso não são suficientes para afastar a aplicação ou mesmo modular a minorante de tráfico de drogas. Precedentes.
+3. Outrossim, "condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base". (AgRg no AREsp n. 894.405/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 24/5/2016, DJe de 13/6/2016.). Assim, também não se prestam tais condenações ao afastamento da benesse prevista na Lei de Drogas.
+4. Agravo regimental improvido. (AgRg no HC n. 866.362/AL, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA - ARTIGO 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO ABSTRATA. PRESUNÇÃO. CONSTRANGIMENTO ILEGAL. ORDEM CONCEDIDA.
+1. A aplicação do redutor pelo reconhecimento do tráfico privilegiado foi afastada no acórdão da apelação, com base em elementos genéricos e em mera presunção, não constituindo elemento concreto para comprovar a habitualidade ou a dedicação à atividade criminosa.
+2. A jurisprudência desta Corte está consolidada na linha de que a quantidade e a diversidade de drogas, por si sós, não constituem fundamentação suficiente para afastar a incidência do redutor previsto no § 4º, do art. 33, da Lei n. 11.343/2006. No caso concreto, a quantidade de droga apreendida não pode ser considerada elevada (1,85 g de cocaína).
+3. Nos termos da jurisprudência desta Corte Superior, inquéritos policiais e ações penais em andamento, bem como condenações por fatos posteriores podem obstar a aplicação do benefício descrito no art. 33, § 4º, da Lei n. 11.343/2006, porquanto demonstra a prática reiterada de condutas nocivas, bem como a incursão do acusado em atividades criminosas. A existência de apenas um fato isolado - processo em curso por suposto tráfico de drogas - revela-se insuficiente, por si só, para fins de demonstrar dedicação à atividade criminosa por parte do agravado, condenado pelo tráfico de 1,85 g de cocaína.
+4. Agravo regimental improvido.
+(AgRg no HC 534.212/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,
+julgado em 26/05/2020, DJe 04/06/2020.)
+""Inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para afastar ou modular a fração de diminuição de pena do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência (RE n. 591.054/SC, submetido ao regime de repercussão geral). O mesmo entendimento se aplica às condenações transitadas em julgado relacionadas a fatos posteriores" (AgRg no REsp 1.891.998/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022)." (AgRg no AREsp n. 2.107.531/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024).
+Nesse contexto, a reprimenda da recorrente deve ser redimensionada, motivo pelo qual, mantenho a pena-base no seu mínimo legal, de 5 anos de reclusão e 500 dias-multa.
+Na segunda fase, fica mantida a causa de aumento do artigo 40, III, da Lei 11.343/06, resultando em 5 anos e 10 meses de reclusão.
+Na terceira fase, não havendo majorantes, deve ser aplicada a minorante do tráfico privilegiado no patamar de 2/3, nos termos do art. 33, § 4º, da Lei n.º 11.343/2006, o que resulta em 1 ano, 11 meses e 10 dias de reclusão, e 194 dias-multa.
+Considerando-se a ausência de circunstâncias judiciais desfavoráveis, deve ser fixado o regime inicial aberto, substituindo-se a pena privativa de liberdade por duas restritivas de direitos.
+Ante o exposto, dou provimento ao recurso especial, para reduzir as penas do recorrente a 1 ano, 11 meses e 10 dias de reclusão, e 194 dias-multa, em regime aberto, substituída a pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo de Execução.
+Publique-se.
+Intimem-se.
+EMENTA
