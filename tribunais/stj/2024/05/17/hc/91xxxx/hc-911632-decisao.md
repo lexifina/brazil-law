@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEX BRUNO COSTA MIRANDA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1530850-89.2022.8.26.0228).
+Depreende-se dos autos que o paciente foi condenado a 5 anos de reclusão, em regime inicial fechado, pela prática de tráfico de drogas, ante a apreensão de cerca de 25g (vinte e cinco gramas) de cocaína; 79g (setenta e nove gramas) de maconha; 25g (vinte e cinco gramas) de crack e 80ml (oitenta mililitros) de "lança-perfume" (e-STJ fls. 62/70).
+O Tribunal de origem negou provimento à apelação (e-STJ fls. 103/111).
+Interposto recurso especial, foi ele inadmitido por intempestividade (e-STJ fls. 120/122), o que ensejou a interposição do AREsp n. 2.618.222/SP, ainda em fase de recebimento neste Superior Tribunal.
+No presente writ, postula a defesa a readequação da pena imposta, com a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3, sob o argumento de que a natureza e a quantidade de entorpecentes, per si, não justificam o afastamento do dito tráfico privilegiado.
+Sustenta que o paciente é primário, não possui antecedentes criminais e inexistem evidências de que ele se dedique a atividades ilícitas ou que integre organização criminosa.
+Requer, liminarmente e no mérito, a aplicação da referida causa especial de diminuição de pena, o abrandamento do regime carcerário para o modo aberto e a redução da pena de multa (e-STJ fls. 10/11).
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ.
+É, em síntese, o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Na espécie, acerca da controvérsia, o Tribunal de origem consignou o seguinte (e-STJ fl. 109):
+Como já explanado, independentemente da quantidade e da variedade de tóxicos apreendidos com o recorrente, as circunstâncias de ele estar desempregado à época dos fatos, bem como de terem sido encontradas anotações referentes ao tráfico de entorpecentes em seu poder, já são suficientes para demonstrar a sua dedicação a atividades ilícitas e, portanto, a inviabilidade da pretendida aplicação do redutor descrito no art. 33, §4º, da Lei n. 11.343/06. Nesse sentido, como bem fundamentado na r. sentença, a fls. 279:
+As circunstâncias aqui verificadas tornam inaplicável a benesse prevista no artigo 33, §4º, da Lei 11.343/06, criada com objetivo de apenar minimamente aquele que se está iniciando no narcotráfico. Não é o caso dos autos. O réu não demonstrou possuir atividade lícita, consigo foram apreendidos R$ 221,25 em notas trocadas, sem qualquer comprovação de origem lícita, além das anotações relativas ao tráfico, restando evidente que se dedica à traficância, fazendo dela seu meio de vida.
+Da leitura do trecho precedente, constata-se que a dedicação à atividade criminosa foi assentada em fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 2/3, a pena do paciente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, o paciente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade em medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+À vista do exposto, concedo a ordem para, reconhecendo a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, reduzir a pena do paciente para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
