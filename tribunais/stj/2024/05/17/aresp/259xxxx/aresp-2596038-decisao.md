@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto pela INDUSTRIA DE BEBIDAS PIRASSUNUNGA LTDA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+RESPONSABILIDADE TRIBUTÁRIA SÓCIO - COMPROVAÇÃO DO PODER DE GERÊNCIA - CORRETA A ELEIÇÃO. O SÓCIO-GERENTE RESPONDE PELOS CRÉDITOS CORRESPONDENTES ÀS OBRIGAÇÕES TRIBUTÁRIAS DECORRENTES DE ATOS PRATICADOS COM EXCESSO DE PODER OU INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTO, POR FORÇA DO ART. 135, INCISO III. DO CTN E ART. 21, § 2O, INCISO II, DA LEI Nº 6.763/75. RESPONSABILIDADE TRIBUTÁRIA - SUBSTITUIÇÃO TRIBUTÁRLA. - DESTINATÁRIO - CORRETA A ELEIÇÃO. CORRETA A ELEIÇÃO DA DESTINATÁRIA DAS MERCADORIAS PARA O POLO PASSIVO DA OBRIGAÇÃO TRIBUTÁRIA, NOS TERMOS DO ART. 15, § IO, DA PARTE 1 DO ANEXO XV DO RICMS/02 C/C ARTS. 16, INCISO X E 22, § 20, AMBOS DA LEI Nº 6.763/75. SUBSTITUIÇÃO TRIBUTÁRIA - FALTA DE RECOLHIMENTO E/OU RECOLHIMENTO A MENOR DE ICMS/ST PROTOCOLO/CONVÊNIO. CONSTATADA A FALTA DE RECOLHIMENTO DO ICMS/ST DEVIDO PELA AUTUADA, ESTABELECIDA EM SÃO PAULO, QUE POR FORÇA DOS PROTOCOLOS ICMS NºS 19/11 E 96/09, RETEVE CORRETAMENTE O IMPOSTO NA SAÍDA DE BEBIDAS PARA CONTRIBUINTES DESTE ESTADO, NA CONDIÇÃO DE SUBSTITUTA TRIBUTÁRIA, NOS TERMOS DOS ARTS. 12, CAPUT E 46, INCISO I, ALÍNEA "A", AMBOS PARTE 1 DO ANEXO XV DO RICMS/02, MAS DEIXOU DE EFETUAR O RECOLHIMENTO RESPECTIVO. INFRAÇÃO CARACTERIZADA. CORRETAS AS EXIGÊNCIAS DE ICMS/ST E DA MULTA DE REVALIDAÇÃO PREVISTA NO ART. 56, INCISO II E § 2O, INCISO II, DA LEI Nº 6.763/75. LANÇAMENTO PROCEDENTE. DECISÃO UNÂNIME.
+Não foram opostos embargos de declaração.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, a recorrente sustenta violação dos arts. 202, I, do Código Tributário Nacional e 2º, §§ 5º e 6º, da Lei n. 6.830/80. Assevera que a Certidão de Dívida Ativa padece de nulidade na medida em que, nos termos do Protocolo n. 11/91 do Conselho Nacional de Política Fazendária (CONFAZ) e do Protocolo ICMS n. 96/2009, o responsável pelo pagamento do tributo em operações interestaduais não seria o estabelecimento remetente, mas o estabelecimento destinatário.
+Houve contrarrazões ao recurso especial (e-STJ fls. 1150/1168).
+O Tribunal de origem inadmitiu o recurso especial pela incidência das Súmulas n. 7/STJ e 280/STF.
+Insurge-se a agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fl. 1186).
+É o relatório. Decido.
+Impugnados os fundamentos de inadmissibilidade, passo ao exame do apelo nobre.
+A insurgência não merece prosperar.
+Acerca da controvérsia relacionada à responsabilidade tributária, o acórdão recorrido fundamentou que (e-STJ fls. 1122/1126):
+No caso dos autos, a recorrente consta como devedora principal da Certidão de Dívida Ativa que instrui a execução, tendo em vista que deixou de recolher o ICMS devido por substituição tributária, no período de 01/02/18 a 31/12/18, em operações de saída interestadual de mercadorias com destino à contribuinte mineiro (documento n. 03, p. 06).
+A propósito, destaco o seguinte trecho da CDA:
+ ..
+De acordo com a recorrente, contudo, essa não pode ser cobrada pelo ICMS/ST exigido, porquanto o inciso II da Cláusula Segunda do Protocolo ICMS n. 11/91 e o inciso V da Cláusula Segunda do Protocolo ICMS n. 96/09 atribuem essa responsabilidade ao destinatário das mercadorias.
+O protocolo ICMS n. 11/91 foi celebrado entre os estados do Acre, Bahia, Espírito Santo, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Rio de Janeiro, Santa Catarina, São Paulo e o Distrito Federal, e dispõe sobre a substituição tributária nas operações com cerveja, refrigerantes, água mineral ou potável e gelo.
+O protocolo ICMS n. 96/09, por seu turno, foi celebrado entre os estados do Rio Grande do Sul, de São Paulo e Minas Gerais (Despacho 153/2011), e cuida da substituição tributária nas operações com bebidas quentes.
+Nos termos dos dispositivos citados pela recorrente:
+ ..
+Conforme se verifica, os dispositivos cuidam de exceções à aplicabilidade do regime de substituição tributária, sendo que o primeiro cuida das "operações entre sujeitos passivos por substituição, industrial, importador, arrematante ou engarrafador" e o segundo das "operações interestaduais destinadas a contribuinte detentor de regime especial de tributação que lhe atribua a responsabilidade pela retenção e recolhimento do ICMS devido por substituição tributária pelas saídas de mercadorias que promover".
+No caso, a destinatária das mercadorias que ensejaram o tributo cobrado é a empresa e também executada HEMA DISTRIBUIDORA LTDA., não havendo comprovação de sua qualidade de "industrial, importador, arrematante ou engarrafador", tampouco de se tratar de contribuinte "detentor de regime especial de tributação".
+Dessa forma, inexiste prova inequívoca a ensejar a desconstituição da CDA que inclui a recorrente como devedora da obrigação tributária, sendo certo que a sua alegada ilegitimidade passiva demanda dilação probatória, o que não é cabível em sede de exceção de pré-executividade.
+Lado outro, conforme asseverou o Estado de Minas Gerais em sua impugnação à exceção de pré-executividade e em sede de resposta ao presente recurso, o lançamento tributário restou julgado procedente, de forma unânime, pelo Conselho de Contribuintes do Estado de Minas Gerais, por meio do acórdão n. 22.705/21/2ª, o qual entendeu como devida a cobrança em face da recorrente, nos termos dos artigos 12, caput e 46, inciso I, alínea "a", ambos da Parte 1 do Anexo XV do RICMS/02.
+ ..
+Consoante se verifica, a recorrente seria responsável pelo recolhimento do ICMS/ST por força do artigo 12, caput, da Parte 1 do Anexo XV do RICMS/02, norma que também consta da CDA que instrui o processo.
+Em suma, forçoso concluir que a certidão que embasa a ação executiva descreve as normas que resultaram na inclusão da recorrente no polo passivo da execução fiscal, não tendo a executada, por sua vez, demonstrado de plano a inocorrência das infrações apontadas pelo título executivo.
+No excerto, a Corte local fundamentou acerca da inaplicabilidade do Protocolo n. 11/91 do Conselho Nacional de Política Fazendária (CONFAZ) e do Protocolo ICMS n. 96/2009 ao caso concreto, fundamento que não restou impugnado nas razões recursais, atraindo a incidência da Súmula n. 283/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. ART. 730 DO CPC/73. FALTA DE IMPUGNAÇÃO NO RECURSO ESPECIAL DE FUNDAMENTO DO ACÓRDÃO COMBATIDO SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA N. 283/STF. REDISTRIBUIÇÃO DO QUANTITATIVO DE SUCUMBÊNCIA. ALEGADA INFRINGÊNCIA AO ART. 21 DO CPC/73. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+2. A jurisprudência do STJ - de acordo com o CPC vigente à data do acórdão recorrido - orientou-se no sentido de que, em sede de Recurso Especial, é vedada a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos, na demanda, bem como da proporção em que cada parte foi sucumbente, em relação ao pedido inicial, por tal ensejar o revolvimento de matéria eminentemente fática, a atrair o óbice do enunciado da Sumula n. 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.384.728/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024.)
+Ainda que assim não fosse, a responsabilidade tributária da recorrente restou reconhecida sob a ótica do art. 12 do RICMS.
+Solucionada a questão à luz da legislação local, a análise da tese recursal esbarra, também, no óbice da Súmula n. 280/STF.
+Exemplificativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POR OFENSA A DIREITO LOCAL NÃO CABE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280/STF, POR ANALOGIA. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE REVISÃO, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF.
+1. Ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal, aplicável, por analogia, o óbice previsto na Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+2. Possuindo o acórdão recorrido fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência do STF.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.112.857/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. RESPONSABILIDADE TRIBUTÁRIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA N. 283/STF. SOLUÇÃO DA CONTROVÉRSIA SOB A ÓTICA DA LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
