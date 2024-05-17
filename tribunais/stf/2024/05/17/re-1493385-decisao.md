@@ -1,0 +1,79 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. CIVIL. COBRANÇA DE TAXA ASSOCIATIVA CONDOMINIAL. VÍNCULO ASSOCIATIVO COMPROVADO. PREVISÃO CONTRATUAL. DISTINÇÃO DO CASO CONCRETO COM A TESE FIXADA NO TEMA 492 DA REPERCUSSÃO GERAL. REQUISITOS LEGAIS PARA COBRANÇA: SÚMULAS NS. 279, 454 E 636 DO SUPREMO TRIBUNAL FEDERAL. LIMITES DA COISA JULGADA: INEXISTÊNCIA DE REPERCUSSÃO GERAL – TEMA 660. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+
+    “COBRANÇA - Taxas de manutenção - Loteamento fechado - Parcial procedência - Insurgência dos réus - Descabimento - Preliminar de coisa julgada que fica afastada, pois a cobrança feita em ação anterior refere-se a período distinto do aqui cobrado - Serviços e benfeitorias realizados - Comprovação de que os réus, apesar de serem sócios da empresa que realizou o parcelamento do solo, assinaram contratos de compra e venda com cláusula contratual expressa de associação à autora - Existência da associação que também consta das matrículas dos lotes - Subsistência da obrigação de contribuir com o rateio dos gastos para manutenção e melhorias do loteamento, sob pena de enriquecimento às custas dos demais proprietários de lotes - Possibilidade de cobrança das taxas associativas em razão da existência de legislação municipal sobre a matéria e após a vigência da Lei Federal nº 13.465/17 Tema 492, de repercussão geral, decidido pelo STF - Decisão mantida - RECURSO DESPROVIDO” (fl. 2, e-doc. 18).
+
+    2. Os recorrentes alegam ter o Tribunal de origem contrariado os incs. II, XX e XXXVI do art. 5º da Constituição da República (e-doc. 22).
+
+    Argumentam que, “se tratando o ato associativo como um negócio jurídico que cria vínculo de direito e obrigações entre as partes, há que se adotar que tal ato depende de declaração de vontade. Isto porque, o negócio jurídico sempre estará ligado a um ato volitivo, diverso do erroneamente sustentado no v. Acórdão” (fl. 7, e-doc. 22).
+
+    Salientam que “o ato associativo depende de expressa manifestação, inclusive o próprio estatuto social da Associação prevê a forma de filiação que depende de: 1) Aceitação do estatuto social; 2) Subscrever-se mediante ficha de inscrição (Expressa manifestação da vontade de ingressar na associação); 3) Aprovação da diretoria Executiva” (fl. 7, e-doc. 22).
+
+    Assinalam que “o Supremo Tribunal Federal decidiu que as associações de moradores de loteamentos urbanos não podem cobrar taxa de manutenção e conservação de proprietários não associados antes da Lei nº 13.465/2017 ou de anterior lei local que discipline a questão. A decisão, por maioria de votos, foi proferida no julgamento do Recurso Extraordinário (RE) 695.911, com repercussão geral (Tema 492)” (fl. 13, e-doc. 22).
+
+    Asseveram que “nos autos nº 1001134-20.2015.8.26.0099 a cobrança de taxa associativa do lote 17 da Quadra E foi julgada improcedente, bem como restou estabelecido a ausência de relação jurídica entre as partes, ou seja, não havendo relação jurídica entre as partes, descabe compelir alguém a pagar por taxa atribuída aos associados” (fl. 16, e-doc. 22).
+
+    Ressaltam que “a sentença resolutiva de mérito proferida nos Autos do Proc. nº 1001134-20.2015.8.26.0099 formou coisa julgada material, propiciando que a mesma se tornasse imutável” (fl. 18, e-doc. 22).
+
+    Pedem o provimento do presente recurso extraordinário, “ante a afronta ao Artigo 5º, incisos II e XX, da Constituição Federal, reformar o v. acórdão de fls. 464/472, para, ao fim, julgar improcedente a ação de cobrança, vez que os Recorrentes nunca aderiram a associação de moradores” (fl. 19, e-doc. 22).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    3. Razão jurídica não assiste aos recorrentes.
+
+    4. No julgamento do Recurso Extraordinário n. 695.911/SP, Relator o Ministro Dias Toffoli, Tema 492 (substituto do Agravo de Instrumento n. 745.831), este Supremo Tribunal assentou a seguinte tese sobre a possibilidade de as associações de moradores cobrarem taxas de manutenção de moradores não associados:
+
+    “É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis” (Relator o Ministro Dias Toffoli, Plenário, DJe 19.4.2021).
+
+    Não é o caso, entretanto, de readequação da controvérsia em exame à sistemática da repercussão geral, pois o Juiz sentenciante realizou o cotejo analítico entre a situação fático-jurídico apresentada e a tese fixada no Tema 492, para concluir que, “comprovado o vínculo associativo, há supedâneo para a cobrança das taxas associativas aos réus [recorrentes]” (fl. 13, e-doc. 21). Por isso julgou parcialmente procedente o pedido da associação recorrida, “a fim de condenar os réus ao pagamento das taxas associativas do período de 15/12/2016 até 10/12/2021 referente ao lote 20 da quadra L; lote 17 da quadra E; lote 10 da quadra I; lote 04 da quadra A; lote 02 da quadra A; lote 11 da quadra J e lote 08 da quadra M” (fl. 21, e-doc. 16).
+
+    Com a confirmação do vínculo associativo dos recorrentes, o Tribunal de origem manteve a sentença de primeiro grau, observando quanto aos fundamentos pelos quais afastada a aplicação do Tema 492 da repercussão geral à controvérsia em exame:
+
+    “(...) o STF, em recente julgamento de recurso repetitivo ocorrido em 18/12/2020, apreciando o Tema 492 de repercussão geral, deu provimento ao recurso extraordinário, por maioria, e adotou a seguinte tese: ‘É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.’.
+
+    No caso em análise, a pretensão é de cobrança das taxas associativas vencidas a partir de dezembro/2016, quando já estava em vigor a Lei Complementar nº 556/2007, que ‘aprova o Código de Urbanismo de Bragança Paulista, dispõe sobre o parcelamento, o uso e a ocupação do solo urbano e dá outras providências’ (fls. 409/450), sendo, ainda, perfeitamente constitucional a cobrança das taxas posteriores à Lei Federal nº 13.465/17.
+
+    Deste modo, a parcial procedência da ação realmente é medida de rigor, devendo ser mantida a sentença por seus próprios e jurídicos fundamentos” (fl. 8, e-doc. 18).
+
+    A cobrança das taxas associativas em atraso foi feita em consonância com a tese de repercussão geral fixada no Tema 492, tornando inviável a postulação recursal em relação a esse item.
+
+    5. A apreciação dos argumentos dos recorrentes e dos fundamentos adotados no acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais, procedimentos incabíveis em recurso extraordinário. Incidem, na espécie vertente, as Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Confiram-se, por exemplo, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TAXA DE ASSOCIAÇÃO DE MANUTENÇÃO E DE CONSERVAÇÃO. PROPRIETÁRIO NÃO ASSOCIADO. ACÓRDÃO RECORRIDO EM HARMONIA COM O TEMA 492 DA REPERCUSSÃO GERAL. PERÍODO DA COBRANÇA. CONDOMÍNIO. ATO CONSTITUTIVO. REGISTRO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA” (RE n. 1.432.957-AgR, de minha relatoria, Primeira Turma, DJe 27.6.2023).
+
+    “Direito civil. Agravo interno em recurso extraordinário com agravo. Ação rescisória. Cobrança de taxas condominiais. Alegada violação à liberdade de associação. Análise da legislação infraconstitucional pertinente. Reexame do conjunto fático-probatório dos autos. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão que negara provimento a agravo interno. 2. Hipótese em que, para chegar a conclusão diversa do acórdão recorrido, seria necessário analisar a legislação infraconstitucional pertinente e reexaminar o conjunto fático-probatório dos autos (Súmula 279 e 280/STF), procedimentos inviáveis em recurso extraordinário. Precedente. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015” (ARE n. 1.478.542-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 10.4.2024).
+
+    “RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÕES ASSOCIATIVAS. TAXAS DE MANUTENÇÃO. COBRANÇA DE RATEIO DE DESPESAS POR SERVIÇOS PRESTADOS. PREVISÃO CONTRATUAL. REEXAME DE FATOS E PROVAS. ANÁLISE DE CLÁUSULA CONTRATUAL. ENUNCIADOS N. 279 E 454 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. Rever o posicionamento do Tribunal de origem quanto à pertinência das taxas de manutenção decorrentes das contribuições associativas passaria, necessariamente, pelo reexame fático-probatório e pela interpretação de cláusula de contrato, o que é inviável no âmbito do recurso extraordinário, em razão dos óbices, respectivamente, dos enunciados n. 279 e 454 da Súmula do Supremo. 2. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 3. Recurso extraordinário não conhecido” (RE n. 1.348.821, Relator o Ministro Nunes Marques, Segunda Turma, DJe 14.3.2022).
+
+    “Agravo regimental em recurso extraordinário. 2. Direito Civil. Loteamento imobiliário urbano. Taxas ou encargos cobrados em função dos serviços prestados por associação. Tema 492 da repercussão geral. 3. Requisitos para a cobrança. 4. Hipótese em que divergir do acórdão recorrido demandaria o revolvimento do acervo probatório, providência vedada pela Súmula 279 do STF. Precedentes. 5. Ausência de impugnação específica dos fundamentos da decisão agravada. Deficiência na fundamentação do agravo regimental. Súmula 284 do STF. 6. Agravo regimental não provido” (RE n. 1.433.627-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 12.9.2023).
+
+    6. O alegado descumprimento do princípio da legalidade, previsto no inc. II do art. 5º da Constituição da República, quando dependente de análise prévia de legislação infraconstitucional, esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, na qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Neste sentido, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CITAÇÃO POR HORA CERTA EM PROCESSO DE EXECUÇÃO. ALEGADA AFRONTA AO PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE: INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 843.666-AgR, de minha relatoria, Segunda Turma, DJe 28.11.2014).
+
+    “Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Multa de trânsito. Prazo de notificação. Análise da legislação infraconstitucional pertinente. Súmula nº 636/STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão que manteve sentença de improcedência. 2. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, procedimento vedado neste momento processual. A hipótese atrai a incidência da Súmula nº 636/STF. Precedentes. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015” (ARE n. 1.453.754-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 9.1.2024).
+
+    7. A alegação dos recorrentes de inobservância do inc. XXXVI do art. 5º da Constituição da República também não merece acolhida, pois, no julgamento do Recurso Extraordinário com Agravo n. 748.371-RG, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral na alegação de contrariedade aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando necessário o exame da legislação infraconstitucional:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE n. 748.371-RG, Relator o Ministro Gilmar Mendes, Plenário, DJe 1º.8.2013).
+
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o conhecimento negado pelos respectivos relatores, conforme o inc. III do art. 932 e o art. 1.035 do Código de Processo Civil e o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+
+    Verificada a existência de óbices jurídicos intransponíveis ao processamento deste recurso, nada há a prover em relação às alegações dos recorrentes.
+
+    8. Pelo exposto, nego provimento ao recurso extraordinário (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual somado ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva da concessão do benefício da justiça gratuita.
+
+     Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 17 de maio de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
