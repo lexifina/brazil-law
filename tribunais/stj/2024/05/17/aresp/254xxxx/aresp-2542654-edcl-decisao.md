@@ -1,0 +1,25 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por BANCO BRADESCARD S.A. contra decisão monocrática que não conheceu do agravo em recurso especial.
+Em suas razões recursais, o embargante aponta a omissão da decisão embargada quanto à aplicação da Súmula 182/STJ, porquanto alega que houve a desistência de impugnação aos "fundamentos da decisão de admissibilidade atinentes à ausência de demonstração de ofensa aos arts. 489 e 1.022 do CPC e a incidência da Súmula "294, do STF" quanto à violação do art. 1.009, §§ 2º e 3º, do CPC." (fl. 336, e-STJ).
+É O RELATÓRIO. DECIDO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Na espécie, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe na decisão embargada que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+Na presente hipótese, observa-se que a decisão que não conheceu do agravo em recurso especial fundamentou-se na incidência da Súmula 182/STJ porque, naquela ocasião, a agravante deixou de impugnar especificamente dois dos óbices invocados pelo Tribunal de origem para inadmitir o apelo extremo, quais sejam: i) a ausência de demonstração de ofensa aos arts. 489 e 1.022 do CPC; e ii) a incidência da Súmula "294, do STF" quanto à violação do art. 1.009, §§ 2º e 3º, do CPC.
+A título de esclarecimento quanto ao ponto atinente à desistência parcial do recurso especial, o ordenamento jurídico admite que a parte inconformada recorra, parcialmente, de uma decisão, e, ainda, que o órgão julgador conheça, em parte, do recurso interposto. Não há, entretanto, qualquer previsão que autorize a desistência parcial, tácita ou expressa, do recurso especial após sua interposição.
+Dessarte, a controvérsia a ser dirimida pelo STJ é delimitada pela parte recorrente no ato de interposição do recurso especial e não pode ser por ela restringida antes do respectivo julgamento por esta Corte, ressalvada a hipótese de desistência expressa integral do direito de recorrer.
+Uma vez interposto o recurso especial, o STJ está autorizado a analisar todas as teses presentes nas razões da insurgência contra o acórdão da origem. A preclusão consumativa impede que o recorrente, em sede de agravo em recurso especial, selecione, por desistência parcial, expressa ou tácita, quais serão as matérias que serão julgadas por esta instância superior.
+Frise-se que o efeito devolutivo horizontal do agravo em recurso especial foi previamente delimitado, anteriormente, pelos fundamentos da decisão de admissibilidade exarada pelo Tribunal de origem.
+Sob essa ótica, inclusive, se justifica a última emenda ao RISTJ (ER nº 22, de 2016), para adequá-lo ao CPC/2015, que, ao dar nova redação ao art. 253, parágrafo único, I, passou a exigir, expressamente, que no agravo em recurso especial sejam impugnados, especificamente, todos os fundamentos da decisão de admissibilidade dos tribunais de origem recorrida, sob pena de não conhecimento.
+Portanto, da detida análise dos autos, conclui-se que as questões trazidas pelo embargante não constituem pontos omissos, contraditórios ou obscuros do julgado como querem fazer crer, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Observa-se, dessa forma, que os fundamentos dos presentes aclaratórios revelam o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+Advirto as partes de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+Forte nessas razões, REJEITO os embargos de declaração no agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. FALTA DE IMPUGNA ÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. MANIFESTA INADMISSIBILIDADE. DESISTÊNCIA PARCIAL. IMPOSSIBILIDADE.
+1. Ação declaratória de inexistência de débito cumulada com indenização por danos morais.
+2. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+3. O ordenamento jurídico admite que a parte inconformada recorra, parcialmente, de uma decisão, e, ainda, que o órgão julgador conheça, em parte, do recurso interposto. Não há, entretanto, qualquer previsão que autorize a desistência parcial, tácita ou expressa, do recurso especial após sua interposição.
+4. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+5. Embargos de declaração no agravo em recurso especial rejeitados.
