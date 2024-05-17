@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM - DER/SP e pelo ESTADO DE SÃO PAULO (fls. 1.819-1.836) contra decisão da Corte de origem que não admitiu o recurso especial, em razão da inexistência de ofensa ao art. 1.022 do CPC/2015 e incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 1.246):
+RECURSO DE AGRAVO DE INSTRUMENTO EM LIQUIDAÇÃO POR ARBITRAMENTO. EXPURGO INFLACIONÁRIO.
+1. COISAJULGADA. O Juiz está adstrito aos limites do pedido, sendo defeso fixar condenação em quantidade superior ao que foi pleiteado. De acordo com o constante nos autos, o pedido do particular não tem qualquer menção a redução do valor contratual estando o valor liquidado restrito aos expurgos inflacionários de 07 (sete) dias, ou seja, o único pedido é a devolução da quantia que seria relativa a expurgo inflacionário de 07 (sete) dias. Impossibilidade de rediscussão ou ampliação do pedido sob pena de violação da coisa julgada.
+2. HONORÁRIOS ADVOCATÍCIOS. Admite-se a fixação de verba honorária, na liquidação por arbitramento, se houver nítido caráter contencioso. Não é a hipótese dos autos, tendo em vista que os atos praticados foram necessários para o rito da liquidação por arbitramento e apuração do quantum devido, especialmente, por se tratar de cálculo complexo. Realização de atos processuais que não implicam em pretensão resistida. Precedentes do STJ.3. Decisão parcialmente reformada.
+Recurso parcialmente provido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte local não se manifestou sobre as questões fáticas que configuram o caráter litigioso da liquidação
+Quanto a questão de fundo, sustenta ofensa ao artigo 85, §1º, § 2º, § 3º, § 4º, II, e § 11º do CPC/2015, ao fundamento de que deveriam ser restabelecidos os honorários advocatícios fixados pelo Juízo a quo e afast ados pelo Tribunal de origem, dada a a litigiosidade da liquidação por arbitramento.
+Ressalta que "o caráter litigioso teve início ainda em 2020 quando a parte adversa pleiteou que fosse nomeada a mesma perita judicial da fase de instrução, o que foi repelido pelo juízo de origem em razão do laudo apresentado na fase de conhecimento ter sido considerado imprestável (fls. 438dos autos nº 0007346-42.2020.8.26.0053). Dessa decisão, a parte adversa interpôs agravo de instrumento de nº 2123784-82.2020.8.26.0000, cujo provimento foi negado em votação unânime (fls. 452/456 dos autos nº 2123784-82.2020.8.26.0000)" (fl. 1.833)
+Reforça que "A despeito da resistência apresentada no mencionado agravo de instrumento, foi nomeado outro perito judicial (fls. 1500 dos autos de origem nº0007346-42.2020.8.26.0053), e ambas as partes passaram a insistir em suas teses jurídica divergentes, sendo que a definição do objeto da perícia também foi controvertida, com necessidade de oposição de Embargos de Declaração em duas oportunidades pelas Agravadas (fls. 1505/1506 e 1569/1571)" (fl. 1.833).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o Tribunal de origem, de forma clara e fundamentada, afastou a fixação dos honorários advocatícios fixados pelo Juízo a quo, diante da ausência de litigiosidade da presente liquidação por arbitramento, ao fundamento de que o mero exercício do contraditório pela parte contrária, com apresentação de documentos para melhor apuração do quantum devido, não configura, por si só, litigiosidade.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No que diz respeito ao artigo 85, §1º, § 2º, § 3º, § 4º, II, e § 11º do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não se verifica, na hipótese, a litigiosidade da liquidação por arbitramento, e, portanto, seriam indevidos e devem ser afastados os honorários advocatícios fixados pelo Juízo a quo.
+Vejamos (fls. 1.251-1.253):
+Em relação aos honorários advocatícios, admite-se a fixação na fase de cumprimento de sentença, no caso em particular, na liquidação por arbitramento, se esta assumir nítido caráter contencioso.
+No caso concreto não é possível afirmar que seja a hipótese dos autos, tendo em vista que os atos praticados foram necessários para o rito da liquidação por arbitramento e apuração do quantum devido, especialmente, por se tratar de cálculo complexo.
+Portanto, realização de perícia, apresentação de laudos realizados por assistentes técnicos são medidas que visam assegurar o contraditório e de regular realização no caso dos autos, de modo que não implicam em litigiosidade.
+ ..
+Deste modo, a r. decisão agravada merece parcial reparo para tão somente afastar a condenação ao pagamento de honorários advocatícios, devendo, no mais, ser integralmente mantida por seus jurídicos fundamentos.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. LIQUIDAÇÃO DE SENTENÇA. CONDENAÇÃO EM HONORÁRIOS SUCUMBENCIAIS. EXCEPCIONAL. NÍTIDO CUNHO LITIGIOSO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que são devidos honorários advocatícios na fase de liquidação de sentença quando houver nítido cunho litigioso entre os participantes da relação processual. Nesse sentido: AgInt nos EDcl no AREsp n. 2.124.832/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 26/6/2023; AgInt no AgInt no REsp n. 1.955.594/MG, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 6/6/2023.
+4. No caso dos autos, o Tribunal de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não se verificou a existência de nítida litigiosidade além dos procedimentos inerentes à própria liquidação por arbitramento, razão pela qual incabível a fixação de honorários advocatícios sucumbenciais nesta fase processual. A revisão de tal entendimento esbarra no óbice da Súmula 7/STJ.
+5 . Agravo interno não provido.
+(AgInt no REsp n. 2.055.080/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. CONDENAÇÃO EM HONORÁRIOS SUCUMBENCIAIS. EXCEPCIONAL. NÍTIDO CUNHO LITIGIOSO. HIPOTESE NÃO VERIFICADA. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Verifica-se que o entendimento adotado pelo acórdão recorrido encontra-se de acordo com a atual jurisprudência do Superior Tribunal de Justiça, que define que a fixação de honorários sucumbenciais na fase de liquidação de sentença não é a regra, mas sim uma exceção, a ser verificada quando, nessa fase, estiver configurada uma litigiosidade entre as partes capaz de prolongar a atuação contenciosa dos patronos das partes. Precedentes.
+4. Na hipótese, o Tribunal de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não se verificou a existência de litigiosidade além dos procedimentos inerentes à própria liquidação por arbitramento.
+5. Assim delineados os fatos, inviável a revisão da conclusão firmada pelo Tribunal, nos moldes alegados pelo ora agravante, sem o reexame do suporte fático-probatório dos autos, providência essa vedada no âmbito do recurso especial. Incidência da Súmula 7/STJ.
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.919.219/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/3/2023, DJe de 13/4/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO POR ARBITRAMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATICIOS. LITIGIOSIDADE. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
