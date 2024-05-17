@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por OPP INDUSTRIA TEXTIL LTDA - EM RECUPERACAO JUDICIAL contra decisão de fls. 570/571, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Acontece, ilustre Ministra, que merece ser sanado ponto omisso no tocante à natureza do Recurso de Agravo em Recurso Especial (Art. 1.042 CPC), o qual objetiva o destrancamento do Recurso Especial, e versa sobre pontos objetivos e específicos da decisão recorrida que inadmite o prosseguimento do Resp para apreciação dessa egrégia Corte, sob a luz da Súmula nº. 182/STJe Art. 932, III do CPC.
+ ..
+Adentrando-se ao mérito do presente Embargos Declaratórios, é prudente demonstrar ponto omisso em face aos fundamentos destacados pela r. Ministra Relatora, em que nesta oportunidade, inadmitiu o Recurso de Agravo no RESP (1.042 CPC) sob fundamento deestar ausente indicação de ofensa à lei federal, vejamos:
+ ..
+Ínclita Ministra Relatora, compreende-se e se têm ciência do pressuposto de admissibilidade presentes na alínea "a" do Art. 105, III, da Carta Constitucional, no tocante a restar demonstradas os dispositivos de leis federais, todavia, os mesmos restaram presentes em sede de Recurso Especial.
+Em sede de Recurso Especial, a Recorrente (ora Embargante), se debruçou sobre o Ato Normativo Federal de nº. 02/2019, que em seu Art. 7º, inciso VII, dispôs que "a data-base da atualização monetária dos valores deve ser considerada o termo final do último cálculo de atualização do crédito".
+ ..
+Acontece que o ponto nodal que merece destaque, diz respeito à observância dos limites aos fundamentos abordados pelo juízo que inadmitiu o prosseguimento do Recurso Especial, vejamos trechos de suas razões de inadmissibilidade:
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "c", da Constituição da República, por indicada divergência jurisprudencial. O recurso não merece trânsito. Isto porque deixou o recorrente de atender suficientemente ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ.
+Observar-se-á Excelência, que em nenhum momento o r. Desembargador motivou seu juízo de inadmissibilidade do Recurso Especial com base na ausência de lei federal (alínea "a" do Art. 103, inciso III da CF/88).
+ ..
+Evidentemente que existe um óbice quanto a Súmula 182/STJ e Art. 932, inciso III, do CPC, em face a vosso r. decisum, e que merece ser sanado, haja vista que a ora Embargante cumpriu com todas as determinações legais de cabimento para fins de admissibilidade de seu Agravo em Recurso Especial, nos estritos termos abordados pelo juízo da admissibilidade em instância anterior. Em síntese ao exposto, prudente se faz sanar o ponto omisso no tocante ao cabimento do Agravo em RESP do Art. 1.042 do CPC, especialmente porquanto esse serve para destrancamento do Recurso Especial que fora inadmitido, cujo o qual, deverá ater-se aos limites extraídos dos fundamentos trazidos pelo Desembargador que denegou o prosseguimento do Recurso Especial, sob olhar à Súmula 182/STJ (fls. 575/582).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Acrescente-se ainda que, de fato, o recurso enviado ao STJ para julgamento foi o agravo em recurso especial. No entanto, quando a decisão ora embargada julgou a admissibilidade do recurso especial, a admissibilidade do agravo em recurso especial ficou superada.
+A análise dos pressupostos recursais antecede a análise meritória. Dessa forma, o exame do mérito recursal ficou prejudicado pela ausência de preenchimento dos pressupostos recursais do recurso especial.
+Neste ponto, impende salientar que se mostra inviável a adequação posterior dos pressupostos processuais do recurso especial na medida em que tais requisitos necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS INFRACONSTITUCIONAIS SUPOSTAMENTE VIOLADOS COMPLEMENTAÇÃO DA FUNDAMENTAÇÃO EM SEDE DE AGRAVO REGIMENTAL.
+IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O agravo regimental não é meio apto a preencher os requisitos de admissibilidade do recurso especial ausentes no momento da interposição.
+2. Inviável o provimento do presente recurso, por indicação tardia dos dispositivos infraconstitucionais supostamente violados.
+3. "A complementação da fundamentação deficiente em sede de agravo regimental não tem o condão de sanar o vício contido nas razões do recurso especial em decorrência da inovação recursal vedada em razão da preclusão consumativa" (AgRg no AREsp 1393027/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/09/2019, DJe 26/09/2019).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.848.188/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 6/2/2020, DJe de 19/2/2020.)
+Veja-se, por fim, que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
