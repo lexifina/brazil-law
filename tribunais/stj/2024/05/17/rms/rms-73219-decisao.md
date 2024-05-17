@@ -1,0 +1,21 @@
+DECISÃO
+N R E S impetrou mandado de segurança contra reputado ilegal praticado pelo Secretário de Saúde do Estado de Goiás, consubstanciado na omissão em fornecer o medicamento ARIPIPRAZOL, para o tratamento de autismo infantil (CID10 F84), distúrbio da atividade e da atenção (CID 10 F90) e TEA sem deficiência intelectual e com comprometimento leve ou ausente (CID 11 6A02.0).
+O Tribunal de Justiça do Estado de Goiás denegou a ordem, sob o fundamento de que não foram preenchidos os requisitos estabelecidos pelo STJ no julgamento do Tema 106, nos termos assim ementados (fl. 166):
+MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTO. ARIPIPRAZOL 1 MG. NÃO INCORPORADO. TEMA 1234/STF. INCLUSÃO DA UNIÃO NO POLO PASSIVO. PRELIMINAR AFASTADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. FÁRMACO REGISTRADO NA ANVISA E NÃO INCLUÍDO NA RELAÇÃO NACIONAL DE MEDICAMENTOS ESSENCIAIS DO SUS (RENAME). REQUISITOS ESTABELECIDOS PELO STJ NO JULGAMENTO DO TEMA 106. NÃO PREENCHIDOS. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO. SEGURANÇA DENEGADA.
+1. Em observância à decisão de tutela provisória incidental proferida nos autos do RE1.366.243/SC, as ações que versem acerca de fornecimento de medicamentos não incorporados ao SUS devem tramitar perante o juízo em que forem propostas até que sobrevenha decisão de repercussão geral acerca do Tema 1234.
+2. A concessão de tratamento com medicamento não incorporado ao SUS exige o preenchimento dos requisitos estabelecidos pelo Superior Tribunal de Justiça por ocasião do julgamento do Recurso Especial nº 1.657.156/RJ (Tema 106).
+3. Inexistindo comprovação acerca da imprescindibilidade ou necessidade do medicamento, assim como a ineficácia dos fármacos fornecidos pelo SUS para o tratamento das moléstias da impetrante, e tratando-se de requerimento para uso off label relativamente à prescrição no Registro da Anvisa, não se configura o direito líquido e certo que se pretendia assegurar, impondo-se a denegação da segurança.
+4. Afastada a concessão da ordem, ressai prejudicada a análise das demais arguições exordiais e contestatórias.
+SEGURANÇA DENEGADA.
+N R E S interpõe recurso ordinário, com fundamento no art. 105, II, b, da Constituição Federal, alegando, em síntese, que, apesar de o Tribunal local ter concluído pela inexistência de direito líquido e certo, conforme fundamentação do parecer do Nat-Jus, a inicial está devidamente instruída com a documentação que atesta o rogado direito ao fornecimento do medicamento que necessita, com relatório médico e exames.
+Não foram apresentadas contrarrazões (fl. 197).
+O Ministério Público Federal opinou pelo não provimento do recurso ordinário (fls. 209-217).
+É o relatório. Decido.
+O mandado de segurança possui, como requisito inarredável, a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para a dilação probatória. Para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido. Nesse sentido: AgInt no RMS n. 34.203/PB, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 6/2/2018, DJe 16/2/2018 e AgInt no RMS n. 48.586/TO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+Na hipótese, o Tribunal a quo assentou expressamente que a impetrante não firmou suas pretensões com base em prova pré-constituída, restando, dessa forma, configurada a ausência de direito líquido e certo da demanda.
+Dessa forma, não havendo nos autos prova documental capaz de comprovar o direito da impetrante, é de rigor a manutenção do acórdão recorrido. Confiram-se decisões desta Corte a respeito do tema: AgInt no MS n. 23.205/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/9/2017, DJe 19/9/2017; RMS n. 53.485/BA, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/8/2017, DJe 13/9/2017.
+A ausência de prova inequívoca dos fatos em que se baseia a pretensão, como no caso, afasta a liquidez e a certeza do direito vindicado.
+No mesmo sentido parecer ministerial de fls. 209-217.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao presente recurso ordinário.
+Publique-se. Intime-se.
+EMENTA
