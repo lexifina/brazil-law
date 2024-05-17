@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 616-617):
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (25,62 G DE COCAÍNA). RECONHECIDA NULIDADE. PROVAS ILÍCITAS. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. BUSCA PESSOAL. NERVOSISMO. CARÁTER PERMANENTE DO CRIME. MANIFESTA ILEGALIDADE. AUSÊNCIA DE JUSTA CAUSA. CARÊNCIA DE AUTORIZAÇÃO JUDICIAL. NÃO VERIFICADA INVESTIGAÇÃO PRÉVIA OU CAMPANA NO LOCAL. AGRAVADO QUE SE CONTRAPÔS À VERSÃO APRESENTADA PELOS POLICIAIS QUE O APREENDERAM. ÓRGÃO ACUSADOR QUE NÃO SE DESINCUMBIU DE COMPROVAR O QUANTO ALEGADO. MANUTENÇÃO DA ABSOLVIÇÃO.
+1. A jurisprudência desta Corte Superior entende ser necessária investigação prévia, ainda que breve, ou campana no local para a configuração do imprescindível flagrante a justificar a abordagem pessoal.
+2. No caso concreto, o Tribunal de origem asseverou que policiais militares estavam em patrulhamento quando perceberam que o acusado, ao avistar a viatura, começou a correr e desfez-se da sacola que portava, no terreno do imóvel vizinho à sua casa. Dessa forma, o que teria motivado a abordagem pessoal seria apenas um possível nervosismo do agravado bem como o fato do mesmo ter abandonado uma sacola, o que, em tese, poderia justificar a busca impugnada.
+3. Consta, porém, da sentença condenatória, que o agravado sustentou que, na data dos fatos, estava em frente a sua residência para esperar a entrega de um açaí que havia pedido. Então, visualizou os policiais militares. Na ocasião estava apenas de bermuda. Os policiais militares o abordaram e nada de ilícito foi localizado. Durante a abordagem, passou a ser agredido pelos policiais militares, em razão de seu histórico criminal. Tocou a campainha para buscar a ajuda de sua mãe, sem sucesso. Voltou a ser agredido e, por medo, saiu correndo. Subiu no telhado da residência de um vizinho e acabou caindo. Não trazia droga consigo. Não comercializa nem faz uso de entorpecente. Não arremessou nenhuma sacola com cocaína. Fugiu porque foi agredido pelos policiais militares (fl. 366).
+4. Há, assim, um confronto de versões, inexistindo prova outra que não a palavra policial, de que o agravado teria tentado fugir e abandonado uma sacola. Nesse contexto, caberia ao órgão acusador apresentar provas que corroborassem o que foi alegado pelos agentes do estado, o que não ocorreu.
+5. A necessidade de provas outras que não apenas o depoimento dos policiais responsáveis pela abordagem, principalmente nos casos onde tal versão é contestada, se justifica não só em razão da exigência de provas irrefutáveis e suficientes para condenação como também pelo fato de que hoje existem meios suficientes de que tais provas venham a ser produzidas sem maiores dificuldades. O uso de câmeras corporais por ocasião da abordagem certamente deixaria claro qual das versões no caso efetivamente ocorreu. Fica evidente que o Estado optou por não se aparelhar de forma suficiente para produzir provas necessárias para eventual condenação.
+6. Agravo regimental desprovido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 5º, X e LXI, e 144, caput, da Constituição Federal e aduz que há repercussão geral da matéria tratada.
+Nesse sentido, argumenta que a busca pessoal estaria amparada em fundada suspeita da posse de objeto constitutivo de corpo de delito e, dessa forma, as provas dela decorrentes seriam lícitas.
+Esclarece que (fl. 641):
+No caso em exame, de acordo com a moldura fática estabelecida pelas instâncias ordinárias, ao notar a presença dos policiais, o acusado, que estava defronte a sua residência, jogou uma sacola plástica para o imóvel vizinho; os policiais, então, abordaram o acusado na calçada, mas ele conseguiu esquivar-se e fugir para rua próxima, onde ganhou o telhado de uma casa, de onde caiu; após a captura do acusado, os policiais apreenderam, no local em que o acusado descartara, a sacola com as drogas.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 654-670.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da licitude das provas obtidas por meio da perseguição e busca pessoal efetuada por policiais, estando o acórdão recorrido assim fundamentado (fls. 620-623):
+Tratando da matéria, assim dispôs o Tribunal de origem (fls. 385/387 - grifo nosso):
+ ..
+2. Afasta-se, desde logo, a matéria preliminar arguida.
+Não se vislumbra o vício apontado pela combativa Defesa, consistente na obtenção de prova ilícita por violação ao domicílio.
+Consoante dispõe a Constituição Federal, o princípio da inviolabilidade do domicílio sofre exceção em caso de flagrante delito.
+No caso em apreço, policiais militares estavam em patrulhamento quando perceberam que o acusado, ao avistar a viatura, começou a correr e desfez-se da sacola que portava, no terreno do imóvel vizinho à sua casa.
+Conseguiram abordá-lo, porém, ao perceber que um dos policiais iria apreender a sacola jogada, o réu empreendeu fuga e subiu no telhado deum imóvel, do qual caiu. Ele acabou sendo detido pelos policiais, que recuperaram a sacola, a qual continha 62 pinos com cocaína.
+Não há dúvida, nesse quadro, de que as circunstâncias tornavam presente a situação de flagrância. Portanto, lícita a penetração do policial no imóvel, prescindido o mandado.
+Rejeita-se, pois, a matéria preliminar suscitada.
+ ..
+A despeito do quanto arguido pelo agravante, a jurisprudência desta Corte Superior entende ser necessária investigação prévia, ainda que breve, ou campana no local para a configuração do imprescindível flagrante a justificar a abordagem.
+Nesse sentido: inexistem elementos robustos a indicar a existência de tráfico de drogas (..), tais como monitoramento ou campanas, movimentação de pessoas ou investigações prévias, afigurando-se ilícita a prova obtida mediante violação de domicílio desprovida de fundadas razões (AgRg no HC n. 815.881/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 19/10/2023 - grifo nosso).
+ ..
+No caso concreto, notadamente no seguinte trecho, policiais militares estavam em patrulhamento quando perceberam que o acusado, ao avistar a viatura, começou a correr e desfez-se da sacola que portava, no terreno do imóvel vizinho à sua casa, verifica-se que o que motivou a abordagem pessoal foi o demonstrado nervosismo do agravado, o que vai de encontro à jurisprudência do Superior Tribunal de Justiça.
+ ..
+Não há comprovação do quanto alegado pelos policiais militares. Com efeito, verifica-se uma contraposição de versões. Caberia, então, ao órgão acusador provar a circunstância que autorizou a busca, fato este que não ocorreu.
+Tenho dito com frequência que situações como esta, em que há conflito de narrativas, poderiam ser solucionadas caso a polícia utilizasse de meios modernos de controle de sua atividade, como o uso de câmeras. Se registrada a abordagem, bem como seus momentos anteriores, não teríamos dúvida se os fatos ocorreram de acordo com o que foi descrito pelos policiais ou de acordo com o que foi narrado pelo recorrente.
+Havendo dúvidas, entendo não estarem provadas as alegações do órgão acusador que afastariam a alegação de falta de justa causa para a busca pessoal.
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 240, § 2º, e 244 do Código de Processo Penal, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso, seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte ("Para simples reexame de prova não cabe recurso extraordinário").
+Em caso semelhante assim já decidiu o STF:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. BUSCA PESSOAL. INEXISTÊNCIA DE ILEGALIDADE. PRISÃO EM FLAGRANTE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS.
+1. Prisão preventiva decretada forte na garantia da ordem pública, presentes as circunstâncias concretas reveladas nos autos. Precedentes.
+2. Se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes.
+3. Nos termos dos arts. 240, § 2º e 244 do CPP, cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo investigado de elementos de convicção. Precedentes.
+4. Para concluir em sentido diverso das instâncias anteriores quanto às circunstâncias do flagrante, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes.
+5. Agravo regimental conhecido e não provido.
+(AgR no HC n. 212.682, relatora Ministra Rosa Weber, Primeira Turma, DJe de 18/4/2022.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. BUSCA PESSOAL. ILICITUDE DAS PROVAS OBTIDAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VERBETE 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
