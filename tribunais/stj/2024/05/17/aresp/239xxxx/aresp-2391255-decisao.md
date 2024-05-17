@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO LUIS PEREIRA ROSA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu o recurso especial aviado com fulcro na alínea "a" do permissivo constitucional e interposto contra o acórdão prolatado na Apelação Criminal n. 5016531-24.2017.8.21.0001.
+Os autos dão conta de que o agravante foi condenado, como incurso no "art. 157, §2º, incisos I e II, do Código Penal e, desclassificada a imputação inicial, por incorrer nas iras do art. 15 da Lei n. 10.826/03, às penas de 10 (dez) anos, 6 (seis) meses e 22 (vinte e dois) dias de reclusão, em regime semiaberto, e 20 (dez) dias-multa" (e-STJ fl. 1.380).
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso para reduzir a pena do réu para 9 anos e 8 meses de reclusão, mantido o regime semiaberto.
+No recurso especial, o recorrente sustenta desproporcionalidade na majoração da pena-base.
+Inadmitido o apelo extremo, os autos foram encaminhados a esta Corte em virtude do presente agravo.
+Opina o Ministério Público Federal pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na hipótese, o Tribunal de origem, ao julgar a apelação da defesa, fixou a pena com espeque nos seguintes argumentos (e-STJ fls. 1.381/1.384):
+Eis a análise das circunstâncias judiciais do art. 59 do Código Penal:
+QUANTO AO ACUSADO FÁBIO LUIS PEREIRA ROSA (Delito disparo de arma de fogo)
+Primeiramente, as circunstâncias do art. 59 do Código Penal.
+Observa-se que a culpabilidade do réu é induvidosa, pois era imputável, tinha consciência da ilicitude de seu procedimento e poderia ter agido de forma diversa. Contudo, deixo de valorar a vetorial negativamente, tendo em vista que a culpabilidade é inerente ao crime.
+O acusado registra antecedentes criminais, para fins de exasperação da pena, nesta fase do apenamento. Isso, porque possui quatro condenações criminais transitadas em julgado (processo nº 001/2.12.0120858-9, com trânsito em julgado em 22/10/2013; processo nº 001/2.13.0077325- 0, com trânsito em julgado em 05/06/2014; processo nº 159/2.18.0000661-7, com trânsito em julgado em 07/11/2019, tendo sido o fato cometido em 17/09/2016 e processo nº 001/2.12.0036107-3, com trânsito em julgado em 30/07/2013), fatos cuja ocorrência se deu anteriormente ao crime objeto do presente processo. Considerando que o processo nº 001/2.13.0077325-0 será utilizado para os fins de reincidência, elevo a pena base em 06 (seis) meses em razão das demais condenações transitadas em julgado.
+ ..
+No ponto, em atenção ao pleito recursal defensivo de redução do patamar conferido à moduladora desfavorável para 1/8, registro que o quantum de aumento pelas circunstâncias judiciais do art. 59, do Código Penal, não está adstrito a mera operação aritmética. Ao revés, está respaldado pelo princípio da discricionariedade motivada do juiz, devendo o Direito pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça (AgRg no AREsp 1694215/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 13/10/2020).
+ ..
+Assim, observada a quantidade e a natureza patrimonial dos delitos caracterizadores dos maus antecedentes, reputo adequado e suficiente o incremento das basilares na fração de 1/4, fincando-se, as penas de partida, para o réu FÁBIO, em 02 (dois) anos e 06 (seis) meses de reclusão (disparo de arma de fogo) e 05 (cinco) anos de reclusão (roubo), mantida para o réu ANGELO a reprimenda de piso infligida.
+Inicialmente, quanto ao patamar de aumento da pena-base, rememoro que não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal. Ao contrário, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+A respeito, colaciono o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..
+Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..  5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+No caso dos autos, não vislumbro na espécie nenhuma ofensa à legislação federal, no procedimento dosimétrico adotado pelo Tribunal de origem, apta a ensejar o redimensionamento da pena por esta instância extraordinária.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
