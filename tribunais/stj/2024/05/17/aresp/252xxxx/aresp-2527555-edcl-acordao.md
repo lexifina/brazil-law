@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DO JULGADO. DISPOSITIVOS CONSTITUCIONAIS. AFRONTA. ALEGAÇÃO. ANÁLISE. INVIABILIDADE.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado. Por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. Tal recurso não se presta à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por MAURICIO SERRA CAMPOS contra acórdão de e-STJ fls. 478/483, no qual a Sexta Turma negou provimento ao agravo regimental, nos termos da seguinte ementa (e-STJ fl. 478):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE OFENDIDO. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF.
+1. Nas razões do recurso especial, a defesa deixou de apontar quais dispositivos legais amparavam as teses recursais, o que representa inafastável deficiência recursal ao impedir a exata compreensão da controvérsia, atraindo a incidência da Súmula n. 284/STF.
+2. Agravo regimental desprovido.
+Em suas razões (e-STJ fls. 488/494), a defesa alega a existência de omissão, afirmando que o decisum ora embargado "não se manifestou quanto a possibilidade de análise da matéria jurisprudencial apresentada, em atenção ao princípio da instrumentalidade das formas e da efetividade do processo" (e-STJ fl. 488). No mais, repisa as razões do apelo nobre.
+Pleiteia, ao final, o esclarecimento do vício apontado e a atribuição de efeito modificativo aos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DO JULGADO. DISPOSITIVOS CONSTITUCIONAIS. AFRONTA. ALEGAÇÃO. ANÁLISE. INVIABILIDADE.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado. Por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. Tal recurso não se presta à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Nada obstante as razões recursais, tenho que o recurso não prospera.
+A decisão ora embargada está fundamentada nos seguintes termos (e-STJ fls. 481/483):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada.
+Com efeito, conforme consignado na decisão agravada, quanto à incidência da Súmula n. 284/STF, a defesa de fato deixou de apontar no apelo nobre quais dispositivos legais amparavam as teses recursais, o que representa inafastável deficiência recursal ao impedir a exata compreensão da controvérsia, atraindo a aplicação da referida vedação sumular.
+Ressalto, ademais, que a referida vedação sumular também se aplica aos recursos interpostos com fulcro unicamente na alínea c do permissivo constitucional, de modo que todo recorrente deve indicar artigo de lei que albergue a tese objeto da divergência jurisprudencial.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 284/STF. COMPLEMENTAÇÃO DAS RAZÕES EM AGRAVO REGIMENTAL. INVIABILIDADE. INSURGÊNCIA DESPROVIDA.
+1. A ausência de indicação do dispositivo legal tido por violado traduz deficiência nas razões do recurso especial, atraindo a incidência do óbice da Súmula 284 do STF.
+2. Segundo o entendimento consolidado Nesta Corte, "a complementação da fundamentação deficiente do recurso especial não é possível, por meio de agravo, por se tratar de indevida inovação recursal, a qual é vedada, haja vista a preclusão consumativa". Precedentes.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 2.209.048/SP, relator Ministro João Batista Moreira, Desembargador Convocado do TRF1, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ESTELIONATO MAJORADO. VIOLAÇÃO DO ART. 382 DO CPP. DISPOSITIVO DE LEI TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APRESENTAÇÃO DE FORMA NÃO COMPREENSÍVEL. PRETENSÃO RECURSAL NÃO DELIMITADA. SÚMULA 284/STF. ALEGAÇÃO DE PRESTAÇÃO JURISDICIONAL DEFICIENTE EM SEDE DE EMBARGOS DE DECLARAÇÃO. INOCORRÊNCIA. PLEITO DE RECONHECIMENTO DA DECADÊNCIA. TESE DE NECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA. NÃO INDICAÇÃO DE DISPOSITIVOS INFRACONSTITUCIONAIS VIOLADOS. SÚMULA 284/STF. REPRESENTAÇÃO É ATO QUE DISPENSA MAIORES FORMALIDADES. PRECEDENTES. VONTADE DA VÍTIMA PRESENTE NOS AUTOS. NOTÍCIA CRIME OFERTADA. PLEITO DE ABERTURA DE VISTA DOS AUTOS AO PARQUET PARA POSSIBILIDADE DE OFERECIMENTO RETROATIVO DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DENÚNCIA QUE JÁ TINHA SIDO RECEBIDA. IMPOSSIBILIDADE. JURISPRUDÊNCIA DE AMBAS AS TURMAS DA TERCEIRA SEÇÃO. VIOLAÇÃO DOS ARTS. 563 E 566, AMBOS DO CPP. TESE DE CERCEAMENTO DE DEFESA POR CONTA DA PRECLUSÃO DE OITIVA DE TESTEMUNHA. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE DADO PELO RECORRENTE. CARÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. TESE DE CERCEAMENTO DE DEFESA POR INDEFERIMENTO DAS DILIGÊNCIAS E DA PROVA PERICIAL. FUNDAMENTOS IDÔNEOS APRESENTADOS PELA CORTE DE ORIGEM. MAGISTRADO, DESTINATÁRIO FINAL DA PROVA. JURISPRUDÊNCIA DO STJ. VIOLAÇÃO DO ART. 89 DA LEI N. 9.099/1995. SUSPENSÃO CONDICIONAL DO PROCESSO. DIREITO SUBJETIVO DO RECORRENTE. INEXISTÊNCIA. FUNDAMENTAÇÃO IDÔNEA. SOMA DAS PENAS MÍNIMAS IN ABSTRATO IMPOSTAS AOS CRIMES PERPETRADOS EM CONTINUIDADE DELITIVA SUPERIOR A 1 ANO. SÚMULA 243/STJ. TESES DE NÃO COMPROVAÇÃO DE MATERIALIDADE E DE NEGATIVA DE AUTORIA. PLEITO ABSOLUTÓRIO. INSTÂNCIAS ORDINÁRIAS QUE LASTREARAM O ÉDITO CONDENATÓRIO COM SUPORTE EM VASTO CONJUNTO PROBATÓRIO, NOTADAMENTE DOCUMENTOS E TESTEMUNHOS. ALTERAÇÃO DE ENTENDIMENTO VEDADO NA VIA ELEITA. ÓBICE DA SÚMULA 7/STJ. CARÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL VIOLADO. SÚMULA 284/STF.
+ ..
+3. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração da parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida, juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF (AgInt no REsp n. 1.955.109/DF, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/9/2022).
+ ..
+6. Quanto à tese de decadência, ante a necessidade de representação da vítima, o recurso especial não ultrapassa as condições de admissibilidade, haja vista a não indicação de dispositivos infraconstitucionais violados, o que faz incidir na espécie o teor da Súmula 284/STF.
+7. Não tendo sido apontadas, especificamente, quais normas teriam sido contrariadas, incide a Súmula 284 do STF, segundo o qual: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia (AgRg no AREsp n. 1.151.992/TO, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/5/2018 - grifo nosso).
+ ..
+24. Constata-se, no ponto, a ausência de indicação de dispositivo infraconstitucional violado. Com efeito, o STJ possui a missão constitucional de, por meio do recurso especial, uniformizar a jurisprudência pátria a respeito da adequada aplicação dos dispositivos infraconstitucionais. Nesse contexto, a ausência de indicação do dispositivo violado ou cuja aplicação revela dissídio jurisprudencial, impede o conhecimento do recurso especial, em virtude de sua deficiente fundamentação, o que atrai o óbice do enunciado n. 284 da Súmula do STF (AgRg no AREsp n. 1.821.153/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/8/2021 - grifo nosso).
+25. Recurso especial parcialmente conhecido e, nessa extensão, desprovido. (REsp n. 1.891.923/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/2/2023, DJe de 16/2/2023.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SONEGAÇÃO DE AUTOS (ART. 356 DO CÓDIGO E PENAL). ALÍNEA "C". AUSÊNCIA DE DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL. SÚMULA 284/STF. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. RETENÇÃO INJUSTIFICADA DE AUTOS. INTIMAÇÃO PARA DEVOLUÇÃO. DOLO NA CONDUTA. VERIFICAÇÃO. SÚMULA 7/STJ.
+1. Não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os arestos confrontados, a fim de ficarem demonstradas a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementa. Divergência jurisprudencial não demonstrada.
+2. Mesmo quando o recurso especial é interposto com fundamento na alínea "c" do permissivo constitucional, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, o que não foi realizado, sob pena de atração da Súmula n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente).
+ ..
+6. Agravo regimental não provido. (AgRg no REsp n. 1.538.296/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/09/2016, DJe de 05/10/2016.)
+Ante o exposto, nego provimento ao agravo regimental.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado(artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+O texto do decisum é suficiente à sua compreensão e inexiste omissão a ser colmatada. O julgado decidiu a controvérsia de maneira fundamentada, porém contrária aos interesses do embargante.
+Acerca do vício da omissão, o vaticínio da doutrina aponta a seguinte direção:
+ ..  A omissão configura-se quando o juízo ou tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou cognoscíveis de ofício; ou quando não se manifesta sobre algum tópico da matéria submetida à sua apreciação, inclusive quanto ao ponto acessório, como seria o caso da condenação em despesas processuais. Mas inexiste omissão suprível por embargos de declaração quando se trata de matéria cuja apreciação dependia de provocação da parte, que não ocorreu. ..  (GRINOVER, Ada Pellegrini; FILHO, Antonio Magalhães Gomes & FERNANDES, Antonio Scarance. Recursos no processo penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos tribunais. - 5. ed. rev. atual. e ampl. - São Paulo: Editora Revista dos Tribunais, 2008, p. 228.)
+No mesmo sentido, é a firme compreensão deste Sodalício:
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. RECURSO QUE SE ESBARRA EM ÓBICE DE ADMISSIBILIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE REEXAME. INCABIMENTO.
+1. O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal, sendo que a inexistência dos vícios ali consagrados importam no desacolhimento da pretensão aclaratória.
+2. A omissão ocorre apenas quando o juiz deixa de apreciar questão suscitada e essencial para o deslinde do processo, o que não se confunde com a expressa recusa em decidir recurso fundado em matéria constitucional e que não preenche os requisitos específicos de admissibilidade notabilizados nos enunciados da Súmula da jurisprudência dos Tribunais Superiores.
+3. Inviável a concessão do excepcional efeito modificativo quando, sob o pretexto de ocorrência de omissão na decisão embargada, é nítida a pretensão de rediscutir matéria já suficientemente apreciada e decidida.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.525.437/PR, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/4/2016, DJe 22/4/2016.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. INEXISTÊNCIA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente, com fundamentação clara, adequada e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional.
+3. Apenas autoriza a oposição do recurso integrativo a contradição que é interna ao julgado, e não a alegada contradição entre a fundamentação da decisão impugnada e outro parâmetro externo. Precedentes.
+4. É descabido postular a concessão da ordem de habeas corpus de ofício, como forma de tentar burlar a inadmissão do recurso especial. Precedente.
+5. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 794.247/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+Assim, não há, no acórdão embargado, nenhuma situação que dê amparo ao recurso integrativo.
+As razões do recurso, revelam, na verdade, o inconformismo com o desfecho da causa e objetivam puramente a rediscussão da matéria, desiderato inadmissível em aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
