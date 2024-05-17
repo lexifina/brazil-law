@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por ALAN SPINELLI contra decisão que negou seguimento ao recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Segundo consta dos autos, o ora recorrente foi condenado à pena de 06 anos, 02 meses e 20 dias de reclusão, em regime inicial fechado e 15 dias-multa, no mínimo legal por infração ao artigo 157, § 2º, inciso I c/c artigo 71 ambos do Código Penal.
+Após o trânsito em julgado, a defesa apresentou pedido de revisão criminal ao argumento de que a condenação contrariou as provas dos autos, postulando subsidiariamente a redução da pena com o reconhecimento da atenuante do art. 65, I, do Código Penal. O pedido revisional foi indeferido nos termos do acórdão de e-STJ fls. 34/59.
+Nas razões do recurso especial a defesa apontou violação do art. 386, VII, do Código de Processo Penal e 65, I, do Código Penal. Sustentou que não há provas suficientes para justificar a condenação do ora recorrente. Subsidiariamente busca aplicação da atenuante ao argumento de que o Juiz não pode deixar de aplicar a circunstância, ainda que a pena-base tenha sido fixada no mínimo.
+Contrarrazões apresentadas pelo recorrido às e-STJ fls. 73/82.
+Negou-se seguimento ao recurso especial (e-STJ fls. 84/85).
+No agravo, o recorrente insiste na presença dos pressupostos de admissibilidade do recurso especial.
+O Ministério Público Federal se manifestou, às e-STJ fls. 117/123, pelo não conhecimento do recurso.
+É o relatório. Decido.
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+O Tribunal a quo reconheceu concluiu que as provas obtidas no curso da instrução forneceram subsídios suficientes para a sentença condenatória. Assim sendo, a desconstituição do julgado, tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Cumpre, ainda, registrar que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado n. 7 da Súmula desta Corte (AgRg no AREsp n. 1.150.564/SC, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 15/2/2018).
+A respeito, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO INCIDÊNCIA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. REVISÃO CRIMINAL ART. 621, INCISO I, DO CÓDIGO DE PROCESSO PENAL. ABSOLVIÇÃO POR INSUFICIÊNCIA OU FRAGILIDADE DAS PROVAS. INCABÍVEL A UTILIZAÇÃO DA AÇÃO REVISIONAL COMO NOVA APELAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. As conclusões expostas na decisão agravada não demandaram reexame do acervo fático-probatório, mas somente a correta exegese da legislação que rege a matéria, não incidindo, portanto, o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+2. A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o escopo restrito da revisão criminal, ajuizada com fundamento no art. 621, inciso I, do Código de Processo Penal, pressupõe condenação sem qualquer lastro probatório, o que não confunde com a mera fragilidade probatória.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no REsp n. 1.940.215/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/11/2021, DJe de 25/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO E RECEPTAÇÃO. REVISÃO CRIMINAL INDEFERIDA. PEDIDOS DE ABSOLVIÇÃO, DESCLASSIFICAÇÃO E DOSIMETRIA DA PENA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas.  ..  Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016).
+2. O Tribunal a quo considerou, para a manutenção da condenação, o conjunto fático probatório dos autos, não só no tocante ao reconhecimento da culpa do recorrente, como também no que diz respeito à dosimetria da pena. Assim, inviável sua desconstituição pela via do recurso especial, ante a incidência da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.807.887/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021.)
+Quanto à pretensão de reduzir a pena pela incidência da atenuante da menoridade relativa, o entendimento adotado no aresto recorrido alinha-se à orientação consolidada na Súmula n. 231 do STJ, segundo a qual a incidência de circunstância atenuante não pode implicar a redução da pena abaixo do mínimo legal.
+A respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. DESCABIMENTO. SÚMULA N. 231 DO STJ. TESE DE OVERRULING. DESCABIMENTO. ARGUMENTAÇÃO DESCONEXA E SEM RAZOABILIDADE. REGIMENTAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. PLEITO DE SOBRESTAMENTO DO JULGAMENTO DO FEITO EM RAZÃO DA REALIZAÇÃO DE AUDIÊNCIA PÚBLICA ACERCA DO TEMA TRATADO NOS AUTOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling).
+2. No regimental, não houve impugnação aos fundamentos da decisão agravada, incidindo, assim, a Súmula n. 182/STJ.
+3. Agravo regimental não conhecido. Indeferido o pleito de sobrestamento do julgamento deste feito em razão da ausência de previsão legal para tanto.
+(AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. DOSIMETRIA. PENA INTERMEDIÁRIA. INCIDÊNCIA EM PATAMAR INFERIOR AO PISO LEGAL PELA INCIDÊNCIA DE ATENUANTE. ÓBICE DA SÚMULA 231/STJ. AGRAVO DESPROVIDO.
+1. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+2. Nos moldes do considerado pelas instâncias ordinárias, embora reconhecida a incidência da atenuante da menoridade relativa e da confissão espontânea, tendo sido fixada a pena base no piso legal, descabe falar em ilegalidade no cálculo dosimétrico, pois, a teor do entendimento da Súmula 231/STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". Precedentes.
+3. O Supremo Tribunal Federal, no julgamento do RE n. 597.270 QO-RG, pela sistemática da repercussão geral, reafirmou o entendimento segundo o qual "circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal" (Tema 158).
+4. Agravo desprovido.
+(AgRg no HC n. 799.160/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
