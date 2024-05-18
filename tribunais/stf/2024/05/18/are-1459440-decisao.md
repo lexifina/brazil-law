@@ -1,0 +1,31 @@
+Trata-se de recurso extraordinário com agravo interposto contra acórdão assim ementado:
+
+     EMENTA: APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO AUTORIA E MATERIALIDAE COMPROVADAS ABSOLVIÇÃO' - DESCLASSIFICAÇÃO INADMISSIBILIDADE - PENA BASE EXACERBADA REDUÇÃO. 1. Restando comprovadas a materialidade e autoria, mostram-se descabidas as pretensões absolutórias e desclassificatórias, pois não obstante alguns agentes tenham alegado ser viciados em drogas, ou negado seus envolvimentos com o comércio de entorpecentes, a evidência dos autos converge para entendimento contrário, pois a apreensão de vultosa quantidade de entorpecentes, corroborando os depoimentos dos policiais militares, não destoantes das demais provas dos autos, prevalecem sobre a negativa e são aptos para embasar um decreto condenatório. 2. Estando evidenciado que os agentes se associaram de forma estável para propiciar a difusão ilícita de drogas, tem-se por caracterizado o delito do art. 35 da Lei 11.343/06, seja pela apreensão de vultosa quantidade de substância entorpecente em poder dos mesmos, seja nas interceptações telefônicas, depoimentos dos policiais que efetivaram a prisão dos agentes, depoimentos de usuários denúncias e tantos outros elementos de prova, não há que se falar em absolvição por ausência de provas quanto ao animus associativo dos mesmos. 3. Tendo as circunstâncias judiciais dos agentes sido valoradas negativamente sem justificativa plausível, e as penas fixadas com certa exasperação, atento aos contornos da prática ilícita, impõe-se a redução das penas impostas. 4. Rejeitar preliminares e dar parcial provimento aos recursos“ (doc. 33).
+
+     No recurso extraordinário, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5°, LV; e 144, § 4°, da mesma Carta.
+
+     É o relatório. Decido.
+
+    A pretensão recursal não merece ser acolhida.
+
+    Isso porque, o Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada aos limites da coisa julgada e à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional quando a verificação dessa alegação depender de legislação infraconstitucional, por não configurar situação de ofensa direta à Constituição Federal.
+
+    Esse entendimento foi consolidado no julgamento do ARE 748.371 RG/MT (Tema 660), da relatoria do Ministro Gilmar Mendes, DJe 1°/8/2013, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+
+ Outrossim, para divergir do acórdão impugnado, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Também seria indispensável a análise das normas infraconstitucionais pertinentes, de modo que eventual ofensa à Constituição Federal ocorreria de forma indireta, o que inviabiliza o recurso. Com essa orientação, cito as seguintes decisões:
+
+     AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. TRÁFICO ILÍCITO DE DROGAS. INVIOLABILIDADE DE DOMICÍLIO. ART. 5°, XI, DA CONSTITUIÇÃO FEDERAL. FLAGRANTE DELITO. TEMA 280 DA REPERCUSSÃO GERAL. RE 603.616 AgR/RO. IMPOSSIBILIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS E DO CONJUNTO FÁTICO PROBATÓRIO. OFENSA REFLEXA. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I- As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. II- Nos termos da Constituição Federal, a inviolabilidade de domicílio não é um direito absoluto, comportando exceção em caso de, por exemplo, flagrante delito. Ao julgar o RE 603.616-AgR/RO, de relatoria do Ministro Gilmar Mendes, esta Suprema Corte decidiu, sob o regime de repercussão geral, que a entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa há situação de flagrante delito. É o que enuncia o Tema 280. III- Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos– o que é vedado pela Súmula 279/STF– e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. IV- Agravo regimental a que se nega provimento (ARE 1.281.760 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 2/10/2020 — grifei).
+
+     “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NULIDADE. INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. FUNDADAS RAZÕES. DENÚNCIA ANÔNIMA. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. JURISPRUDÊNCIA DOSUPREMOTRIBUNALFEDERAL. 1. O acórdão proferido pelo Tribunal estadual está alinhado com a jurisprudência do Supremo Tribunal Federal ao julgar o RE 603.616-RG (Tema 280), Rel. Min. Gilmar Mendes. 2. Esta Corte fixou entendimento no sentido de que é possível “a deflagração da persecução penal pela chamada denúncia anônima, desde que esta seja seguida de diligências realizadas para averiguar os fatos nela noticiados antes da instauração do inquérito policial” (HC 108.147, Relª. Minª. Cármen Lúcia, Segunda Turma). Precedente. 3. Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário. 4. Agravo regimental a que se nega provimento” (RE 1.428.792 AgR/SP, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 31/5/2023, grifei)
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 18 de maio de 2024.
+
+Ministro Cristiano Zanin
+
+Relator
