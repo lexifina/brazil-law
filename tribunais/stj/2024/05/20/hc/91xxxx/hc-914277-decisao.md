@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PEDRO AUGUSTO NICASTRO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nos autos do recurso de Apelação Criminal n. 00012636920138260048 (fl. 3916):
+APELAÇÃO  TRÁFICO ILÍCITO DE DROGAS  Preliminar de nulidade por impedimento da magistrada e cerceamento de defesa  Inocorrência  A condenação de corréus (aqui absolvidos) por fatos correlatos, ou o contato com interceptação telefônica não impede a magistrada de atuar neste feito, não havendo cerceamento pela ausência de desnecessária perícia nas gravações para identificação de vozes ou degravação integral das conversas  Autoria e materialidade delitivas nitidamente delineadas nos autos  Laudo pericial, feito em parte das drogas, que se mostra suficiente à comprovação da materialidade, não havendo dúvidas sobre a participação do réu no tráfico  Litispendência e coisa julgada inexistentes  Rejeição das preliminares e desprovimento do recurso.
+Consta do processo que o paciente foi condenado à pena de 11 anos e 8 meses de reclusão, e 1.166 dias-multa, como incurso no art. 33 da Lei n. 11.343/2006.
+Requer-se, com o presente writ, a declaração da incompetência absoluta das interceptações telefônicas e do laudo técnico de avalição dos entorpecentes, isto a fim de sustar o julgamento de Embargos de Declaração opostos em sede do AREsp 2330468/SP (fl. 48), bem como anular a r. sentença e o v. acórdão do Tribunal a quo, declarando-se a absolvição do Paciente (fl. 49). Subsidia riamente, postula a revisão da dosimetria, com a redução da pena.
+É o relatório.
+Inicialmente, destaco que o presente writ é incabível por consubstanciar inadequada impetração concomitante com o recurso próprio, tratando-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade recursal, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação (AgRg no HC n. 837.330/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/3/2024).
+No mais, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, ressaltando-se a impossibilidade do amplo reexame de fatos e provas nos autos de habeas corpus, além da discricionarieda de vinculada do Magistrado na fixação da pena.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADES. DOSIMETRIA. INTERPOSIÇÃO CONCOMITANTE COM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. INOBSERVÂNCIA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
