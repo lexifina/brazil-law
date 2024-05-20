@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL. SEGURO CONTRA ACIDENTE DO TRABALHO (SAT). GRAU DE RISCO. CRITÉRIOS ADOTADOS PARA O CÁLCULO. VÍCIOS DE LEGALIDADE E DE MOTIVAÇÃO. AFERIÇÃO. EXAME DE PROVAS. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Este Tribunal Superior tem pacífica orientação jurisprudencial no sentido da legalidade da alteração da alíquota da contribuição social provocada pelos critérios estabelecidos pelo Decreto n. 6.957/2009. Precedentes.
+3. No que se refere à tese de vícios de legalidade e de motivação no reenquadramento do grau de risco da atividade, por falta de transparência quanto aos dados estatísticos, critérios e metodologia considerados para esse fim, o recurso não pode ser conhecido, pois eventual conclusão nesse sentido dependeria de ampla produção e análise de provas, o que não é adequando nessa via recursal. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por SUPERMERCADO SUPERPÃO S/A contra decisão que, ao conhecer do agravo, com apoio em entendimento jurisprudencial e na Súmula 7 do STJ, não conheceu de recurso especial em que discute a legalidade da majoração da contribuição ao Seguro Acidente de Trabalho - SAT, com as alterações trazidas pelo Decreto n. 6.957/2009.
+A parte agravante não concorda com o óbice sumular ao conhecimento do recurso e sustenta, em síntese (fls. 3.464/3.490):
+Não é objeto dos recursos o reexame de provas, ou seja, que o STJ reveja o quadro fático delineado pelo acórdão recorrido do TRF-4. Mas, sim, que o STJ, com base na moldura fática do acórdão, examine se a qualificação jurídica atribuída aos fatos pelo Tribunal "a quo" está correta  ..  a incidência do tributo (questão de fato) é incontroversa nos autos. O que se discute é se os critérios para o cálculo da contribuição poderiam ser fixados por decretos e resoluções (questão de direito). A correta interpretação dos dispositivos legais citados no Recurso Especial leva à conclusão de que houve majoração ilegal da exação neste caso
+Sem impugnação pela parte agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL. SEGURO CONTRA ACIDENTE DO TRABALHO (SAT). GRAU DE RISCO. CRITÉRIOS ADOTADOS PARA O CÁLCULO. VÍCIOS DE LEGALIDADE E DE MOTIVAÇÃO. AFERIÇÃO. EXAME DE PROVAS. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Este Tribunal Superior tem pacífica orientação jurisprudencial no sentido da legalidade da alteração da alíquota da contribuição social provocada pelos critérios estabelecidos pelo Decreto n. 6.957/2009. Precedentes.
+3. No que se refere à tese de vícios de legalidade e de motivação no reenquadramento do grau de risco da atividade, por falta de transparência quanto aos dados estatísticos, critérios e metodologia considerados para esse fim, o recurso não pode ser conhecido, pois eventual conclusão nesse sentido dependeria de ampla produção e análise de provas, o que não é adequando nessa via recursal. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida.
+Tal como consta da decisão monocrática, ora agravada, no RE 677.725, sob a relatoria do em. Ministro Luiz Fux, o Tribunal Pleno do Supremo Tribunal Federal, em 11/11/2021, decidiu ser constitucional o cálculo da alíquota da contribuição social destinada ao SAT conforme os critérios definidos pelo Decreto n. 3.048/1999, na redação do Decreto n. 6.957/2009.
+Nessa linha, este Tribunal Superior reconhece a legitimidade da alteração da alíquota da contribuição social provocada pelos critérios estabelecidos pelo referido decreto.
+Nesse sentido: AgInt no AgInt no REsp n. 1.826.489/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022; AgInt no REsp n. 1.972.218/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2022, DJe de 21/9/2022; AgInt no REsp n. 1.874.989/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/10/2020, DJe de 14/4/2021.
+Portanto, pacífico o entendimento jurisprudencial pela legalidade e constitucionalidade do Decreto n. 6.957/2009, ao tempo em que, na linha da orientação jurisprudencial do Supremo Tribunal Federal, "não cabe ao Poder Judiciário, sob pretexto de atenção ao princípio da isonomia, atuar como legislador positivo concedendo benefícios tributários não previstos em lei" (ARE 1324667 ED-AgR, relatora Rosa Weber, Primeira Turma, julgado em 16/11/2021, DJe-022).
+De outro lado, no que se refere à tese de vícios de legalidade e de motivação no reenquadramento do grau de risco da atividade, por falta de transparência quanto aos dados estatísticos, critérios e metodologia considerados para esse fim, o recurso não pode ser conhecido, pois eventual conclusão nesse sentido dependeria de ampla produção e análise de provas, o que não é adequando nessa via recursal.
+A respeito da Súmula 7 do STJ, quanto a esse tema específico, confiram-se: AgInt no REsp n. 2.004.130/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023; AgInt no AREsp n. 2.263.197/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 27/6/2023; AgInt no AREsp n. 2.218.973/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023; AgInt no REsp n. 2.040.220/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/4/2023, DJe de 26/4/2023.
+Nesse contexto, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
