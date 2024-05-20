@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. PLEITO DE AFASTAMENTO DA VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. SUPRESSÃO DE INSTÂNCIA. EFEITO DEVOLUTIVO DA APELAÇÃO CONTRA DECISÕES DO JÚRI. SÚMULA 713/STF. AGRAVO DESPROVIDO.
+1. O pleito de decote do aumento da pena-base pelas consequências do crime não foi analisado pela Corte de origem, não tendo sido deduzido pela defesa nas razões de apelação. Nos termos da Súmula n. 713 do Supremo Tribunal Federal, "o efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos da sua interposição".
+2. Ainda que assim não fosse, nos termos da jurisprudência deste Superior Tribunal, o fato de a vítima ter deixado filhos menores desassistidos constitui motivação concreta para a negativação das consequências do delito .
+3. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RODRIGO DE OLIVEIRA contra a decisão que não conheceu do considerando o óbice à supressão de instância (e-STJ, fls. 136-138).
+Em razões, a defesa reitera que as consequências do crime foram negativadas sem motivação concreta, devendo ser decotado o aumento da pena-base.
+Pugna, assim, pelo provimento do agravo a fim de conceder a ordem, nos termos do declinado na impetração, afastando-se a valoração negativa das consequências do delito.
+É o relatório.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. PLEITO DE AFASTAMENTO DA VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. SUPRESSÃO DE INSTÂNCIA. EFEITO DEVOLUTIVO DA APELAÇÃO CONTRA DECISÕES DO JÚRI. SÚMULA 713/STF. AGRAVO DESPROVIDO.
+1. O pleito de decote do aumento da pena-base pelas consequências do crime não foi analisado pela Corte de origem, não tendo sido deduzido pela defesa nas razões de apelação. Nos termos da Súmula n. 713 do Supremo Tribunal Federal, "o efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos da sua interposição".
+2. Ainda que assim não fosse, nos termos da jurisprudência deste Superior Tribunal, o fato de a vítima ter deixado filhos menores desassistidos constitui motivação concreta para a negativação das consequências do delito .
+3. Agravo desprovido.
+VOTO
+Razão não assiste ao agravante.
+Isso porque, conforme o reconhecido na decisão ora impugnada, o pleito de decote do aumento da pena-base pelas consequências do crime não foi analisado pela Corte de origem, não tendo sido deduzido pela defesa nas razões de apel ação. Com efeito, nos termos da Súmula n. 713 do Supremo Tribunal Federal, "o efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos da sua interposição".
+Nesse passo, tal matéria não pode ser analisada diretamente por esta Corte, sob pena de indevida supressão de instância.
+Ainda que assim não fosse, nos termos da jurisprudência deste Superior Tribunal, o fato de a vítima ter deixado filhos menores desassistidos constitui motivação concreta para a negativação das consequências do delito.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. CULPABILIDADE DO RÉU. CONSEQUÊNCIAS DO CRIME. VALORAÇÃO NEGATIVA. FUNDAMENTAÇÃO IDÔNEA. AUMENTO DA PENA-BASE EM 1/6 PARA CADA VETORIAL DESFAVORÁVEL. QUANTUM PROPORCIONAL. SEGUNDA ETAPA DA DOSIMETRIA. AGRAVANTE. EXASPERAÇÃO DA REPRIMENDA EM 1/6. AGRAVO REGIMENTAL NÃO PROVIDO.1. Para obter-se uma aplicação justa da lei penal, o julgador, dentro de uma discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e deve, na primeira fase da dosimetria, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.2. A culpabilidade do acusado foi valorada desfavoravelmente pelos fatos de o crime haver sido praticado por policial militar em serviço e de o ofendido haver tentado alertar os agentes públicos de que era vítima de um roubo, e não autor. No tocante às consequências do delito, foi consignado que o ofendido deixou uma filha de 4 anos de idade, a qual dependia do sustento do pai, bem como que a esposa da vítima teve abalos psicológicos consistentes no acometimento de depressão e síndrome do pânico. Tais fundamentos desbordam os elementos inerentes ao tipo penal e justificam, idoneamente, o incremento da pena-base.3. Na primeira etapa do procedimento trifásico, a reprimenda do agravante, condenado por homicídio qualificado, foi aumentada 6 anos acima do mínimo legal pela valoração de três circunstâncias desfavoráveis, o que corresponde à exasperação de 2 anos (1/6 da pena-base) para cada vetorial, quantum considerado proporcional pela jurisprudência desta Corte Superior.4. No que tange à fração de aumento da pena na segunda fase da dosimetria (1/6), as instâncias ordinárias usaram um patamar compatível com a que orienta esta Corte de Justiça. Com efeito, a jurisprudência do STJ é firme em assinalar que, embora a legislação não haja estabelecido frações específicas para o aumento ou para a diminuição em decorrência das agravantes e das atenuantes, a fração de 1/6 mostra-se razoável e proporcional.5. Agravo regimental não provido.(AgRg no HC n. 862.190/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Ante o exposto, nego provimento ao agravo.
+É o voto.
