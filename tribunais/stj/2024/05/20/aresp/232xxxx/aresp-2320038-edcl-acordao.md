@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Segundo dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CAIXA SEGURADORA S.A. ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça nos termos da seguinte ementa (e-STJ, fl. 937):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA INTERNA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NATUREZA RELATIVA. PRECLUSÃO. AGRAVO DE INSTRUMENTO. RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REVISÃO DO JULGADO. SÚMULA 7/STJ. INOVAÇÃO RECURSAL. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "a competência interna disciplinada no RISTJ é relativa, de modo que eventual incompetência do órgão ao qual distribuído o recurso deve ser alegada antes do início do respectivo julgamento, sob pena de preclusão" (AgInt nos EREsp n. 1.678.883/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 18/5/2022, DJe de 14/6/2022).
+2. A jurisprudência do Superior Tribunal de Justiça tem entendimento consolidado no sentido de que a aplicação do art. 6º, inciso VIII, do CDC não é automática e depende da análise, pelas instâncias ordinárias, da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor.
+3. No caso, alterar a convicção alcançada pela Corte de origem, para acolher as teses recursais da insurgente (centralizadas nas alegações de inaplicabilidade das normas consumeristas ao caso e de não preenchimento dos requisitos necessários à inversão do ônus da prova), exige o reexame dos elementos fático-probatórios dos autos, o que é vedado em recurso especial pela Súmula 7 do Superior Tribunal de Justiça.
+4. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+5. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 952-957), a embargante aponta, em síntese, omissão no julgado embargado, ao argumento de que não houve análise da petição de fls. 930-935, na qual a recorrente, com base nos julgamentos dos CC n. 148.188/DF e CC n. 140.456/RS pela Corte Especial do Superior Tribunal de Justiça, requereu novamente a redistribuição do feito para a Primeira Seção desta Corte Superior.
+Impugnação às fls. 961-968 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Segundo dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhimento.
+Não há nenhum vício a ser sanado no julgado, porque inexistentes os requisitos para cabimento dos presentes embargos de declaração, nos termos do art. 1.022 do CPC/2015.
+Ao analisar as questões aduzidas no agravo interno, o acórdão embargado foi claro ao consignar que as alegações da insurgente - referentes à competência interna do Superior Tribunal de Justiça - não foram apresentadas oportunamente, caracterizando a preclusão da matéria, visto que a mencionada questão foi arguida, pela primeira vez, apenas nas razões do agravo interno de fls. 887-897 (e-STJ), isto é, após ter sido proferida a decisão monocrática às fls. 879-883 (e-STJ).
+Conforme enfatizado no acórdão impugnado, a jurisprudência desta Corte Superior estabelece que "a competência interna disciplinada no RISTJ é relativa, de modo que eventual incompetência do órgão ao qual distribuído o recurso deve ser alegada antes do início do respectivo julgamento, sob pena de preclusão" (AgInt nos EREsp n. 1.678.883/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 18/5/2022, DJe de 14/6/2022).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. PRECLUSÃO.
+1. Segundo a jurisprudência do STJ, a competência interna desta Corte é de natureza relativa, motivo pelo qual a prevenção ou prorrogação apontada como indevida deve ser contestada até o início do julgamento, sob pena de preclusão, nos termos do art. 71, § 4º, do RISTJ. Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EREsp n. 2.030.165/PA, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 27/2/2024, DJe de 4/3/2024.)
+PROCESSUAL CIVIL. AMBIENTAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DANO AMBIENTAL. USINA DE BELO MONTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+ ..
+VIII - Também manifestamente incabíveis os embargos de divergência, no tocante à competência interna para o julgamento do recurso especial.
+IX - À uma; porque nem sequer ventilada a questão no acórdão embargado; a duas, porque a questão quanto à competência relativa interna é matéria que deve ser alegada pela parte no momento oportuno, sob pena de preclusão e prorrogação da competência, em face do princípio da Kompetenz Kompetenz, bem como pela dicção do art. 71, §4º, do RISTJ. Neste sentido: AgInt nos EREsp n. 1.399.470/MS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 11/6/2019, DJe de 14/6/2019; EDcl no AgInt nos EDcl no CC n. 163.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 5/5/2020, DJe 7/5/2020; AgInt nos EDcl no REsp n. 1.813.821/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/12/2019, DJe 4/2/2020; e AgInt no REsp n. 1.857.931/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe 1º/10/2020.
+X - Por outro lado, não há falar em divergência com decisões pontuais proferidas pelas Turmas da Primeira Seção, à época em que controvertida a competência da matéria, julgada na Questão de Ordem julgada suscitada no REsp 2.013.351/PA, na qual se declarou a competência das Turmas da Segunda Seção, para julgamento de demandas envolvendo ação de particular contra as empresas responsáveis pela construção da Usina Hidrelétrica de Belo Monte - UHE/BM, objetivando a obtenção de indenização por danos materiais e morais sofridos.
+XI - Por fim, e ainda que assim não fosse, a questão debatida, foi pacificada no âmbito da Segunda Seção, havendo centenas de decisões já proferidas no mesmo sentido, pelo que se aplica também à espécie o entendimento sumular n. 168, segundo o qual "Não cabem embargos de divergência, quando a jurisprudência do Tribunal de firmou no mesmo sentido do acórdão embargado". Neste sentido: AgInt no REsp n. 2.013.613/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023; AgInt no REsp n. 2.013.319/PA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023; EREsp 202.469, relator Ministro Raul Araújo, Data da Publicação 25/4/2023; EREsp 2.025.898, relatora Ministra Maria Isabel Gallotti, Data da Publicação 26/4/2023.
+XII - Agravo interno improvido.
+(AgInt nos EREsp n. 2.014.656/PA, relator Ministro Francisco Falcão, Corte Especial, julgado em 24/10/2023, DJe de 26/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA INTERNA. CARÁTER RELATIVO. ALEGAÇÃO INTEMPESTIVA. PRECLUSÃO. PRORROGAÇÃO DA COMPETÊNCIA. SEGURO HABITACIONAL. FALTA DE INTERESSE DE AGIR. PRESCRIÇÃO. TEMA 1039 DOS RECURSOS ESPECIAIS REPETITIVOS. CORRELAÇÃO. SOBRESTAMENTO. DECISÃO. IRRECORRIBILIDADE. DECISÃO MANTIDA.
+1. A competência interna do STJ, disciplinada em seu regimento, é relativa, de modo que eventual incompetência do órgão ao qual distribuído o recurso deve ser alegada antes do início do respectivo julgamento, sob pena de preclusão. Precedentes.
+2. A cogitada falta de interesse de agir pela extinção do contrato habitacional e respectivo seguro, bem assim a prescrição da pretensão indenizatória, estão diretamente relacionadas com o julgamento do Tema repetitivo n. 1.039, em que a proposta de afetação apresentada pela em. Relatora, Ministra Maria Isabel Gallotti, tem por objetivo definir "(..)  o  termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação". 2.1. Além disso, há precedentes deste Tribunal Superior que reconhecem a possibilidade de o mutuário propor ação após a extinção do contrato habitacional com a finalidade de obter a reparação de prejuízos verificados durante a vigência da cobertura securitária.
+3. É firme a jurisprudência do STJ no sentido de que é irrecorrível a decisão o especial para aguardar o julgamento de tema repetitivo, à míngua de efetivo prejuízo, salvo em casos de grave erro ou distinção, o que não é o caso dos autos. 3.1. A Segunda Seção do STJ determinou a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a matéria objeto do Tema n. 1.039 dos recursos especiais repetitivos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.547/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Por conseguinte, da leitura das razões dos embargos de declaração opostos, verifica-se que, na verdade, a parte embargante busca, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos declaratórios.
+Na mesma linha de cognição:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material , mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1504311/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/02/2022, DJe 02/03/2022)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de recursos manifestamente inadmissíveis e o caráter protelatório dos presentes embargos, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl no AREsp 1814590/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/09/2021, DJe 01/10/2021)
+Diante dessas considerações, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
