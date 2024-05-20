@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES ANTERIORMENTE IMPOSTAS.
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. Extrai-se dos autos fundamentação idônea para a manutenção da prisão preventiva, tendo em vista o descumprimento de medidas cautelares anteriormente impostas, notadamente quando se afirma que "o acusado não manteve o endereço atualizado perante este juízo, não compareceu aos atos processuais e ausentou-se de sua comarca por mais de três dias consecutivos sem autorização".
+3. A jurisprudência desta Corte Superior sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal (RHC n. 140.248/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/5/2021, DJe de 7/5/2021)" (AgRg no HC n. 711.406/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+4. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. No caso, embora a defesa tenha comunicado ao juízo o novo endereço do agravante, consta dos autos o efetivo descumprimento de outras duas medidas cautelares consubstanciadas em (i) não se envolver em outros fatos delituosos e (ii) não se ausentar da comarca por mais de três dias consecutivos, sem autorização.
+6. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Cassio de Sousa Ribeiro contra decisão denegatória do habeas corpus, em que foi constatada a presença de fundamentação idônea para a decretação da prisão preventiva, tendo em vista o descumprimento de medidas cautelares anteriormente impostas, uma vez que o acusado não manteve o endereço atualizado perante o juízo, não compareceu aos atos processuais e se ausentou de sua comarca por mais de três dias consecutivos, sem autorização.
+Daí o presente agravo regimental, no qual a defesa reitera os argumentos da inicial e ressalta que "O fato é que, o trás a DIVERGÊNCIA DA DECISÃO ORA GUERREADA, é que a então advogada constituída, APRESENTOU O NOVO ENDEREÇO PARA A DILIGÊNCIA DO SR. OFICIAL DE JUSTIÇA, o que tanto o magistrado, como também o respeitável relator deixou de se atentar" (fl. 48).
+Assevera que "o réu não se esquivou da justiça, conforme mencionado pelo nobre magistrado de origem, comarca de Campestre/MG. Uma vez que, justificado sua ausência do domicilio, deixou o magistrado de apreciar a petição de justificativa, deixou de se atentar que o endereço onde o réu se encontrava estava demonstrado na petição, e além disso, deixou de expedir a carta precatória para Fortaleza" (fl. 48).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado, para que a custódia preventiva do agravante seja revogada, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES ANTERIORMENTE IMPOSTAS.
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. Extrai-se dos autos fundamentação idônea para a manutenção da prisão preventiva, tendo em vista o descumprimento de medidas cautelares anteriormente impostas, notadamente quando se afirma que "o acusado não manteve o endereço atualizado perante este juízo, não compareceu aos atos processuais e ausentou-se de sua comarca por mais de três dias consecutivos sem autorização".
+3. A jurisprudência desta Corte Superior sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal (RHC n. 140.248/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/5/2021, DJe de 7/5/2021)" (AgRg no HC n. 711.406/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+4. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. No caso, embora a defesa tenha comunicado ao juízo o novo endereço do agravante, consta dos autos o efetivo descumprimento de outras duas medidas cautelares consubstanciadas em (i) não se envolver em outros fatos delituosos e (ii) não se ausentar da comarca por mais de três dias consecutivos, sem autorização.
+6. Agravo regimental desprovido.
+VOTO
+Consoante relatado, busca a defesa a reconsideração da decisão agravada, com a revogação da prisão preventiva do agravante ou a sua substituição por medidas cautelares diversas da prisão.
+A decisão que denegou o habeas corpus foi assim fundamentada (fls. 39-42):
+ ..
+A decisão que deferiu o requerimento de prisão preventiva teve a seguinte fundamentação (fls. 17-19):
+ ..
+Trata-se de pedido de decretação de prisão preventiva formulada pelo órgão do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS em face de CÁSSIO DE SOUSA RIBEIRO.
+O pedido do Ministério Público se funda na insuficiência e inadequação das medidas cautelares impostas ao investigado, diante do descumprimento das condições de liberdade concedida, pois se evadiu do distrito de culpa, bem como cometimento de infrações penais durante a liberdade provisória.
+Aduz o Parquet que a necessidade da prisão preventiva se funda na garantia da ordem pública e da aplicação da lei penal, já que o acusado supostamente tem descumprido as medidas cautelares impostas em seu favor.
+Pois bem.
+Nos termos do §1º do art. 312 do CPP, "a prisão preventiva também poderá ser decretada em caso de descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares".
+Na hipótese em questão, conforme decisão de fl. 415, o investigado foi beneficiado com a concessão de liberdade provisória em 26 de março de 2020, mediante as seguintes condições:
+a) manter o endereço atualizado perante este juízo e comparecer a todos os atos processuais para os quais for convocado;
+b) não se envolver em outros fatos delituosos;
+c) proibição de ausentar de sua comarca por mais de três dias consecutivos sem autorização.
+Contudo, é possível observar que o investigado descumpriu as condições impostas, tendo em vista que foram realizadas diversas tentativas de intimação pessoal desse, tendo sido requerido a intimação para que justificasse o descumprimento das medidas impostas, tendo a advogada constituída apresentado a justificativa.
+No entanto, após a renúncia da advogada, foi determinada a intimação do acusado (fl. 876) para que constituísse novo advogado, sendo que quando da sua intimação ele não foi encontrado e o oficial responsável certificou que a mãe do acusado informou que esse "não mais tem domicilio/residência no endereço indicado  ..  se mudou para a cidade de Fortaleza, estando em endereço incerto o não sabido"
+Desse modo, percebe-se que o acusado não manteve o endereço atualizado perante este juízo, não compareceu aos atos processuais e ausentou-se de sua comarca por mais de três dias consecutivos sem autorização.
+Como se não bastasse, conforme boletim de ocorrência de fls. 892/893, após a aplicação das medidas o acusado supostamente praticou o crime de estelionato.
+Como ensina Renato Brasileiro de Lima, na 6ª edição de seu Manual de Processo Penal, da Editora JusPodivm, "no caso de prisão preventiva com base na garantida da ordem pública, faz-se um juízo de periculosidade do agente (e não de culpabilidade), que, em caso positivo, demonstra a necessidade de sua retirada cautelar do convívio social" (pag. 975).
+E a periculosidade do agente pode ser constatada mediante a prática de crimes, ou, no caso em análise, do descumprimento das medidas cautelares concedidas em seu favor, demonstrando desrespeito e indiferença às decisões judiciais.
+Ressalto que este juízo já havia advertido o investigado de que o descumprimento das medidas cautelares poderia levar à decretação de sua pensão preventiva.
+Diante desse contexto de descumprimentos das medidas é que a segregação cautelar, portanto, se mostra a medida cautelar mais eficaz para a garantia da ordem pública e da aplicação da lei penal, uma vez que o representado se mostra propenso ao descumprimento das medidas, o que evidencia que a imposição de outras medidas cautelares estão fadadas ao insucesso, sendo ineficazes.
+Logo, faz-se necessário, neste momento, a decretação da prisão preventiva para garantia da ordem pública e aplicação da lei penal.
+Por isso, acolho o pedido do Ministério Púbico e DECRETO a prisão preventiva de CÁSSIO DE SOUSA RIBEIRO, nos termos do art. 312. caput e §1º. e art. 313.1. ambos do CPP.
+ ..
+Como se vê, consta do decreto de prisão preventiva fundamentação idônea, indicando a necessidade do encarceramento para a garantia da ordem pública e aplicação da lei penal, tendo em vista o descumprimento das medidas cautelares anteriormente impostas, notadamente quando se afirma que "o acusado não manteve o endereço atualizado perante este juízo, não compareceu aos atos processuais e ausentou-se de sua comarca por mais de três dias consecutivos sem autorização" (fl. 18).
+A jurisprudência desta Corte Superior sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória, demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal (RHC n. 140.248/SE, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 4/5/2021, DJe de 7/5/2021)" (AgRg no HC n. 711.406/RS, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no HC n. 785.639/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 172.667/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+A despeito das alegações defensivas, a decisão deve ser mantida por seus próprios fundamentos, ainda que não se desconheça a complexidade e a relevância da questão tratada nestes autos.
+No caso, embora a defesa tenha comunicado ao juízo o novo endereço do agravante, consta dos autos o efetivo descumprimento de outras duas medidas cautelares consubstanciadas em (i) não se envolver em outros fatos delituosos e (ii) não se ausentar da comarca por mais de três dias consecutivos, sem autorização.
+Destacou-se do acórdão que, "conforme boletim de ocorrência de fls. 892/893, após a aplicação das medidas o acusado supostamente praticou o crime de estelionato", o que evidencia o descumprimento da medida cautelar de não se envolver em outros fatos delituosos, bem como consta dos autos que, ao mudar-se para a cidade de Fortaleza, o agravante violou a cautelar que o proibia de se ausentar da comarca por mais de três dias consecutivos, sem autorização.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
