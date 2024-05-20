@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGULAR PROCEDIMENTO ADMINISTRATIVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. MERA REPRODUÇÃO DOS ARGUMENTOS DA INICIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus asseverando que "segundo entendimento firmado nesta Corte, é dispensável a oitiva do apenado em juízo antes da homologação da falta grave se a apuração da infração disciplinar ocorreu por meio de processo administrativo no qual foi assegurada a observância das garantias do contraditório e da ampla defesa  ..  Além disso, para absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus".
+2. No recurso, o agravante limitou-se a reproduzir os argumentos desenvolvidos na inicial, sem apontar em que consistiu eventual erro da decisão agravada.
+3. A refutação insuficiente da decisão recorrida, sem demonstrar eventual desacerto relativamente a cada um dos fundamentos do ato impugnado, acarreta o não conhecimento da irresignação, aplicando-se, por analogia, o enunciado de Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus, interposto por RICARDO LUCCIZANO DE OLIVEIRA, em face de decisão proferida pela Ministra Presidente do Superior Tribunal de Justiça que indeferiu liminarmente o mandamus (fls. 94/97).
+No recurso, o agravante sustenta a ocorrência de constrangimento ilegal, uma vez que não houve a oitiva judicial do paciente antes da homologação da falta grave. Alega, ainda, nulidade do PAD, por ausência do apenado na oitiva das testemunhas.
+Requer o " ..  seja recebido e processado o presente recurso e que no final, seja julgado pela c. STJ, de modo a conceder a ordem de ofício, por ser medida de justiça" (fl. 109).
+Determinada a distribuição (fl. 114).
+O Ministério Público Federal - MPF, em suma, se manifestou pelo não conhecimento do recurso (fls. 127/130 e 135/138).
+É  o  relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGULAR PROCEDIMENTO ADMINISTRATIVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. MERA REPRODUÇÃO DOS ARGUMENTOS DA INICIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus asseverando que "segundo entendimento firmado nesta Corte, é dispensável a oitiva do apenado em juízo antes da homologação da falta grave se a apuração da infração disciplinar ocorreu por meio de processo administrativo no qual foi assegurada a observância das garantias do contraditório e da ampla defesa  ..  Além disso, para absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus".
+2. No recurso, o agravante limitou-se a reproduzir os argumentos desenvolvidos na inicial, sem apontar em que consistiu eventual erro da decisão agravada.
+3. A refutação insuficiente da decisão recorrida, sem demonstrar eventual desacerto relativamente a cada um dos fundamentos do ato impugnado, acarreta o não conhecimento da irresignação, aplicando-se, por analogia, o enunciado de Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+4. Agravo regimental não conhecido.
+VOTO
+O agravo não prospera, por ausência de impugnação específica dos fundamentos do ato objurgado.
+A decisão agravada indeferiu liminarmente o habeas corpus assentando que "segundo entendimento firmado nesta Corte, é dispensável a oitiva do apenado em juízo antes da homologação da falta grave se a apuração da infração disciplinar ocorreu por meio de processo administrativo no qual foi assegurada a observância das garantias do contraditório e da ampla defesa.  ..  Além disso, para absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus" (fls. 95/96).
+Inobstante as razões delineadas na decisão agravada, no recurso, a defesa limitou-se a reprisar os argumentos deduzidos na inicial, no sentido de que não houve a oitiva judicial do paciente antes da homologação da falta grave e de nulidade do PAD, por ausência do apenado na oitiva das testemunhas.
+Ou seja, não apontou em que consistiu eventual erro ou desacerto da decisão agravada.
+A divergência constatada entre os fundamentos evocados para indeferir liminarmente o writ e os argumentos delineados no recurso evidencia violação ao princípio da dialeticidade e resulta na incognoscibilidade da irresignação.
+Isso pois incumbe ao interessado desenvolver alegações hábeis a ilidir as razões adotadas na decisão agravada, exigência que não se supre por mera impugnação genérica, nem tampouco pela reapresentação das aduções da inicial.
+É dizer, a refutação insuficiente ou inadequada da decisão recorrida, seja mediante questões jurídicas diversas das esposadas no ato objurgado, ou sem que se demonstre, de forma efetiva, concreta e pormenorizada, eventual impropriedade relativamente a cada um dos fundamentos do ato contestado, acarreta o não conhecimento do recurso.
+Aplicável ao caso, por analogia, o enunciado de Súmula n. 182 do Superior Tribunal de Justiça. A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. INDEFERIMENTO LIMINAR. FUNDAMENTOS NÃO INFIRMADOS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne todos os fundamentos da decisão combatida.
+2. O princípio da dialeticidade impõe ao agravante a demonstração específica do desacerto das razões lançadas no decisum atacado, e não são suficientes, para tanto, meras alegações genéricas ou a repetição dos termos já expostos no recurso.
+3. Na espécie, a decisão agravada negou provimento ao recurso em habeas corpus por considerar que não houve burla ao princípio do juiz natural. Diferentemente do alegado pela defesa, não havia prevenção do Juízo que decidiu sobre busca e apreensão decretada no curso das investigações. O processamento do feito perante vara especializada, a qual recebeu a denúncia e deu impulso ao processo, decorreu de sua competência absoluta em razão da matéria. O agravante, contudo, deixou de impugnar especificamente os fundamentos da decisão agravada e limitou-se a reiterar os argumentos formulados na inicial do writ.
+4. Ainda que assim não fosse, segundo a jurisprudência do STJ, a competência é fixada no momento do oferecimento da denúncia ou queixa-crime, de modo que eventuais decisões judiciais prolatadas na fase investigativa não previnem o juízo. Precedente.
+5. Agravo regimental não conhecido.
+(AgRg no RHC n. 170.068/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/9/2022, DJe de 6/10/2022.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 182 DO STJ. INDEFERIMENTO DA LIMINAR DO PRÉVIO WRIT. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO HABEAS CORPUS ORIGINÁRIO. PERDA DO OBJETO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o processamento de agravo regimental que deixa de impugnar, de modo específico, o fundamento da decisão agravada. Aplicação, por analogia, do enunciado sumular n. 182 desta Corte.
+2. O habeas corpus impetrado contra decisão liminar indeferida pelo Tribunal a quo fica prejudicado com a superveniência do julgamento de mérito do mandamus na origem. Precedentes.
+3. Agravo regimental não conhecido.
+(AgRg no AgRg no HC n. 769.831/ES, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/5/2023, DJe de 25/5/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. 1. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. 2. MERA REITERAÇÃO DO HC 459.786/SP. FUNDAMENTO PRINCIPAL NÃO ATACADO. 3. AGRAVO NÃO CONHECIDO.
+1. A petição recursal do agravante esbarra no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foram devidamente impugnados os fundamentos da decisão agravada, limitando-se o agravante a repetir os termos do recurso em habeas corpus e dos embargos de declaração. A não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessarte, não é suficiente a insistência no mérito da controvérsia.
+2. Anoto, por oportuno, que se negou seguimento ao presente recurso em habeas corpus, uma vez que a matéria já havia sido devidamente analisada no julgamento do Habeas Corpus n. 459.786/SP, com o qual a defesa se conformou. Assim, cuidando-se de mera reiteração, não é possível seu exame, porquanto já proferida decisão sobre o tema, em 27/9/2018, com trânsito em julgado em 9/10/2018. Dessarte, não tendo a agravante se insurgido contra o fundamento principal da negativa de seguimento do recurso, consistente no fato de se tratar de mera reiteração, não é possível conhecer do presente agravo regimental.
+3. Agravo regimental não conhecido.
+(AgInt no RHC n. 106.485/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/3/2019, DJe de 25/3/2019. )
+Nesses termos, voto pelo não conhecimento do agravo regimental.
