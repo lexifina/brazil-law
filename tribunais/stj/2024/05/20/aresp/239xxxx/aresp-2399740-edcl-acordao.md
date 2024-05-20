@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO JULGADO. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por BANCO GUANABARA S.A. e H.J.C. BARROS ADVOGADOS (ou MILMAN E BARROS ADVOGADOS) ao acórdão desta Terceira Turma assim ementado (e-STJ, fl. 378):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. DISPOSITIVOS DE LEI TIDOS COMO VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. AUSÊNCIA DAS CONDIÇÕES. DECISÃO DE SUSPENSÃO DA FASE DE EXECUÇÃO. PODER GERAL DE CAUTELA DO JUIZ. PERIGO DE DANO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+2. A ausência de discussão pelo Tribunal local acerca da tese ventilada no recurso especial acarreta a falta de prequestionamento, atraindo a incidência da Súmula n. 211/STJ.
+3. Segundo a jurisprudência desta Corte Superior, a "admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC/2015 para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp n. 2.029.476/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+4. Na espécie, a instância originária entendeu, diante do contexto fático-probatório dos autos, que a decisão de suspensão do cumprimento de sentença deve ser mantida, devido ao perigo de dano no prosseguimento da execução em uma ação possivelmente nula. Assim, a revisão do julgado recorrido, especialmente no que concerne à desnecessidade de suspensão do cumprimento de sentença, demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela natureza excepcional da via eleita, conforme o enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. Agravo interno improvido.
+Em suas razões, os embargantes alegam que há omissão no julgado quanto às teses apresentadas no recurso especial, sobretudo em relação aos seguintes pontos: "(i) a nulidade da decisão dos embargos declaratórios por clara infringência aos artigos 1022 e 489, § 1º do CPC; (ii) a ausência de efeito suspensivo aos embargos de terceiro e a frontal violação aos artigos 502, 506, 508 e 921 do CPC; (iii) a desnecessidade de suspensão do cumprimento de sentença e a imposição da instauração do concurso de credores - violação direta aos artigos 908 e 909 do CPC; (iv) prejuízo ocasionado aos recorrentes" (e-STJ, fl. 394).
+Não foi apresentada impugnação ao recurso, conforme certificado à fls. 436-437 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO JULGADO. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+As razões do recurso revelam tão somente o intuito de reapreciação da causa, o que não se admite em embargos de declaração, os quais possuem índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015
+(relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu dos primeiros
+embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC e pela ausência de recolhimento prévio da multa aplicada com amparo no art. 1.021, § 4º, do
+NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+(EDcl nos EDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+Por conseguinte, não há no acórdão impugnado nenhuma omissão a merecer a necessária integração por esta Turma julgadora, pois os fundamentos foram apresentados de forma clara e sólida.
+Em pronunciamento monocrático e no acórdão embargado, foi ressaltado que a jurisprudência desta Corte Superior é pacífica ao proclamar que, "se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte" (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Assim, enfatizou-se que, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão dos recorrentes.
+Nesse contexto, conclui-se que, analisando os autos, não ficou evidenciada a existência da omissão e da ausência de fundamentação apontadas, pois as questões submetidas a julgamento pelos embargantes foram decididas de forma clara e devidamente fundamentada.
+Também não há falar em omissão quanto à alegada violação aos arts. 502, 506 e 508 do CPC/2015, na medida em que o julgado embargado foi claro ao dispor que as matérias alusivas aos citados dispositivos, da forma como foram apresentadas no recurso especial, não foram objeto de debate pelo Tribunal estadual, caracterizando-se a ausência de prequestionamento a atrair a incidência da Súmula 211/STJ.
+Além disso, destacou-se que a instância originária entendeu, diante do conteúdo fático-probatório dos autos, que deve ser mantida a decisão de suspensão do cumprimento de sentença diante do perigo de dano "no prosseguimento da execução em ação possivelmente nula".
+Nesse contexto, afirmou-se que reverter a conclusão do Tribunal local para acolher a pretensão recursal, sobretudo no que concerne à desnecessidade de suspensão do cumprimento de sentença, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em face da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Desse modo, verifica-se que o acórdão embargado solucionou a questão controvertida de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, pretendendo os embargantes, na verdade, a rediscussão do julgado, o que não autoriza a oposição dos embargos.
+Diante dessas considerações, rejeito os embargos de declaração.
+Fiquem as partes cientificadas, derradeiramente, de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa, conforme previsão do art. 1.026, § 2º, do CPC/2015.
+É como voto.
