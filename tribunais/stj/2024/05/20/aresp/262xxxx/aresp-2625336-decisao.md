@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial (fundado no art. 105, III, a e c, da Constituição Federal), apresentado contra os acórdãos proferidos pelo Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0009390-03.2023.8.26.0482 e Embargos de Declaração Criminal n. 0009390-03.2023.8.26.0482/50000), que mantiveram a decisão do Juízo da 2ª Vara de Execuções Criminais de Presidente Prudente/SP, que indeferiu o pedido de unificação das penas formulado pela defesa de Guilherme Rodrigues da Costa, por não reconhecer a alegada continuidade delitiva. Eis a ementa dos acórdãos (fls. 258 e 361):
+AGRAVO EM EXECUÇÃO Indeferimento do pedido de reconhecimento de continuidade delitiva entre os crimes pelos quais o agravante foi condenado em ações distintas Manutenção - Decisão devidamente fundamentada Prática de infração de mesma espécie em datas próximas e mesma Comarca Insuficiência da presença de aspectos objetivos Necessidade de comprovação de cometimento de crime subsequente como desdobramento do primeiro Agravante que não apresentou argumentação no tocante ao preenchimento da condição subjetiva Crimes praticados contra vítimas diferentes e sem qualquer liame subjetivo entre eles - Indícios de habitualidade criminosa - Agravo não provido.
+EMBARGOS DE DECLARAÇÃO Agravo em execução Acórdão que negou provimento ao agravo do embargante, não reconhecendo a figura do crime continuado Alegação de omissão - Rejeição Indeferimento do pedido de reconhecimento da continuidade delitiva bem fundamentado - Verdadeira pretensão de novo exame da matéria de fundo Impossibilidade Embargos que não se prestam para esse fim Embargos de declaração rejeitado
+Nas razões do recurso especial, a defesa do agravante suscitou dissídio jurisprudencial e violação dos arts. 619 do Código de Processo Penal e do art. 71 do Código Pe nal (fls. 268/297).
+O recurso foi inadmitido com fundamento nas Súmulas 284/STF, 7/STJ e 83/STJ, bem como por reputar deficiente o dissídio jurisprudencial aventado (fls. 387/397).
+Contra o decisum a defesa interpôs o presente agravo (fls. 396/445).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do recurso (fl. 148):
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO DA CONTINUIDADE DELITIVA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. PARECER PELO NÃO PROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+Inicialmente, não diviso nenhuma omissão no pronunciamento exarado em segundo grau de jurisdição; ao contrário, o acórdão que negou provimento ao agravo em execução penal ostenta fundamentação mais que suficiente para manter a decisão do Juízo da execução, ante a ausência de demonstração do preenchimento do requisito de ordem subjetiva, indispensável para o reconhecimento da ficção jurídica em questão (continuidade delitiva) - (fls. 259/260 - grifo nosso):
+ ..
+O recurso não comporta provimento.
+Pleiteia o agravante o reconhecimento da continuidade delitiva, nos moldes do art. 71 do Código Penal, entre os seguintes crimes por ele praticados:
+8ª Execução (0086001-83.2009.8.26.0224): o crime desta execução é o de roubo agravado, nos moldes do artigo 157, § 2º, incisos I, II e V c.c. artigo 70, ambos do Código Penal, no dia 11/10/2009, na cidade de Guarulhos/SP.
+9ª Execução (0086002-68.2009.8.26.0224): o crime desta execução é o de roubo agravado, nos moldes do 157, § 2º, incisos I, II e V, por seis vezes, na forma do artigo 70 do Código Penal, no dia 24/09/2009, na cidade de Guarulhos/SP.
+Com efeito, não se ignora da possibilidade de o Juízo da execução reconhecer a continuidade delitiva, desde que se trate de condenações relativas a processos distintos, como no presente caso.
+Contudo, não há elementos que possam indicar que se estaria diante de continuidade delitiva.
+Como se depreende do atual entendimento desta 11ª Câmara Criminal, não só basta o preenchimento dos requisitos objetivos, mas sim que a execução do primeiro crime facilite ou dê ensejo à execução do subsequente. Vejamos:
+ ..
+No caso concreto, não houve argumentação apta a comprovar que o cometimento do crime subsequente foi desdobramento do primeiro, limitando o agravante a indicar a proximidade do lapso temporal e a ocorrência dos crimes na mesma Comarca, nada indicando sobre circunstâncias dos casos concretos.
+Nesse cenário, não se pode concluir que o agravante se valeu das mesmas condições e oportunidades presentes no delito primitivo para cometer o subsequente, posto que praticado contra vítimas diferentes e sem que ocorresse qualquer liame subjetivo entre eles.
+Estando ausente comprovação do requisito subjetivo, tudo indica que haveria habitualidade criminosa, não se vislumbrando elementos para reconhecer a continuidade delitiva.
+ ..
+No mesmo sentido, confira-se a conclusão lançada no acórdão exarado no julgamento dos aclaratórios (fl. 362):
+ ..
+Ressalta-se que, da análise isenta do v. Acórdão embargado, verifica- se que houve suficiente fundamentação para se indeferir o pedido do embargante de reconhecimento da figura do crime continuado, posto que os crimes foram praticados contra vítimas diferentes e sem que ocorresse qualquer liame subjetivo entre eles.
+ ..
+Logo, não há falar em violação do art. 619 do Código de Processo Penal.
+Também não diviso a alegada ofensa ao art. 71 do Código Penal.
+Ora, a jurisprudência desta Corte consolidou o entendimento de que, para fins de reconhecimento da continuidade delitiva, o Código Penal adotou a teoria mista, segundo a qual se afigura imprescindível o preenchimento de requisitos de ordem objetiva (mesmas condições de tempo, lugar e forma de execução) e subjetiva (unidade de desígnios ou vínculo subjetivo entre os eventos) - RHC n. 43.601/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 18/6/2014; AgRg no REsp n. 1.258.206/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/4/2015; e HC n. 264.649/PR, Ministro Walter de Almeida Guilherme (Desembargador convocado do TJ/SP), Quinta Turma, DJe 27/11/2014.
+Aliás, não é outra a orientação do Supremo Tribunal Federal:
+ ..  3. Nos termos da jurisprudência desta Corte, abalizada por parcela da doutrina especializada, são requisitos necessários para caracterização da continuidade delitiva, à luz da teoria objetivo-subjetiva: (a) a pluralidade de condutas; (b) a pluralidade de crimes da mesma espécie; (c) que os crimes sejam praticados em continuação, tendo em vista as circunstâncias objetivas (mesmas condições de tempo, lugar, modo de execução e outras semelhantes); e, por fim, (d) a unidade de desígnios. 4. No caso, as instâncias ordinárias apresentaram fundamentação jurídica idônea no sentido de que ficou comprovado que o paciente agiu movido por desígnios diferentes. Sendo esse o quadro, é inviável proceder ao reexame do suporte probatório que fora levado em consideração para rejeitar a existência do elemento subjetivo. Precedentes.  ..
+(HC n. 110.002/RJ, Ministro Teori Zavascki, Segunda Turma, DJe 19/12/2014).
+No caso dos autos, a instância ordinária aderiu à mesma teoria, pois rechaçou a pretensão de reconhecimento da continuidade delitiva, assentando que não ficou demonstrada a unidade de desígnios entre os eventos.
+Tal o contexto, é certo que o acórdão não destoa da orientação consolidada nesta Corte, incidindo no caso a Súmula 83/STJ, aplicável também ao recurso fundado na alínea a do permissivo constitucional.
+Ir além disso, a fim de avaliar se ficou comprovada o requisito subjetivo (unidade de desígnios), exigiria o reexame dos elementos de fato e prova, providência vedada na via especial (Súmula 7/STJ).
+Em face do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. VIOLAÇÃO DO ART. 71 DO CP. PRETENDIDA APLICAÇÃO DA CONTINUIDADE DELITIVA. IMPROCEDÊNCIA. ACÓRDÃO IMPUGNADO QUE ADOTOU A TEORIA MISTA. ENTENDIMENTO QUE GUARDA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ, INCLUSIVE QUANTO AO RECURSO FUNDADO NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. REEXAME DA CONVICÇÃO ESTABELECIDA A PARTIR DA ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, desprovido o recurso.
