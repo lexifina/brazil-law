@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARIA DE LOURDES GEYER ARRUSSUL e OUTRO contra a decisão monocrática do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) de fls. 872/874.
+O recurso especial foi interposto, com  fundamento  no  art.  105,  inciso  III,  alíneas  a e c,  da  Constituição Federal (CF), contra o acórdão  proferido  pelo  Tribunal Regional Federal da 4ª Região assim  ementado (fl. 70):
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. LEVANTAMENTO DE VALORES INCONTROVERSOS. SALDOS REMANESCENTES. DEFINIÇÃO DO QUANTUM DEBEATUR. NECESSIDADE DE EVITAR TUMULTO PROCESSUAL. SOBRESTAMENTO.
+I. É firme, na jurisprudência, o entendimento no sentido de que inexiste óbice à execução imediata de parcela incontroversa do crédito, porquanto, em relação a ela, não pende discussão (natureza definitiva), o que autoriza a expedição de requisição de pagamento, sem ofensa à sistemática constitucional do precatório, prevista no art. 100 da Constituição Federal.
+II. In casu, considerando os inúmeros recursos, decisões e impugnações que marcaram a tramitação da execução de sentença, não se afigura desarrazoada a cautela adotada pelo juízo a quo, quanto à requisição de pagamento de novos saldos remanescentes.
+Os embargos de declaração opostos foram rejeitados (fls. 108/117 e 139/149).
+No recurso especial interposto, a parte sustenta, além da ocorrência de divergência jurisprudencial, ofensa aos arts. 489, § 1º, III e IV, e 1.022, parágrafo único, II, do Código de Processo Civil (CPC), alegando, para tanto, que o Tribunal de origem deixou de se manifestar sobre o cabimento do levantamento dos valores incontroversos, notadamente por se tratar de verba de natureza alimentícia e a ora agravante ser pessoa idosa.
+Defende, também, violação ao art. 535, § 4º, do CPC, argumentando que os valores tidos como incontroversos devem ser liberados na fase de execução.
+A parte adversa apresentou contrarrazões (fls. 819/823).
+O recurso não foi admitido, razão por que foi apresentado agravo em recurso especial.
+Às fls. 872/874, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) proferiu decisão monocrática que conheceu do agravo para não conhecer do recurso especial sobre o fundamento de que a parte ora agravante deixou de impugnar os fundamentos da decisão impugnada, incidindo na hipótese, a inteligência da súmula 182/STJ.
+Contra a decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente alega, em síntese, que houve o devido ataque aos fundamentos de inadmissão do recurso especial, motivo pelo qual não há que se falar em aplicação da Súmula 182 do Superior Tribunal de Justiça (STJ).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No caso em questão, o Tribunal de origem decidiu que:
+Por ocasião da análise do pedido suspensivo, foi prolatada decisão nos seguintes termos:
+Em que pesem os ponderáveis argumentos deduzidos pelo agravante, não há reparos à decisão agravada, que deve ser mantida pelos seus próprios fundamentos.
+É firme, na jurisprudência, o entendimento no sentido de que não há óbice à execução imediata de parcela incontroversa do crédito, porquanto, em relação a ela, não pende discussão (natureza definitiva), o que autoriza a expedição de requisição de pagamento, sem qualquer ofensa à sistemática constitucional do precatório, prevista no art. 100 da Constituição Federal.
+O que a norma constitucional veda é o fracionamento da execução, com o pagamento do crédito executado de duas formas distintas (requisição de pequeno valor e precatório). Na hipótese de não haver pagamento do montante integral do crédito no primeiro requisitório, é cabível a expedição de precatório ou RPV complementar.
+ ..
+Não obstante, a parcela incontroversa já foi recebida pela exequente (evento 37 dos autos originários), devendo a requisição de eventual saldo remanescente aguardar a definição do quantum debeatur, a fim de evitar tumulto processual.
+Em seguida, no julgamento dos embargos de declaração, afirmou que:
+Como já referido, o Colegiado apreciou as particularidades do caso concreto e, atento à necessidade de racionalização da fase executória, indeferiu o pedido de nova requisição de pagamento, por entender que a reiteração de pedidos para liberação de diferenças relacionadas aos valores levantados, com impugnação parcial da executada, que raramente anui com os critérios de atualização adotados pelos exequentes, gera tumulto e atraso na marcha processual (fl. 117 - destaquei).
+A peça recursal, todavia, não se insurge contra aquele fundamento, limitando-se a afirmar que "pouco importa que os exequentes já receberam uma verba incontroversa no feito. Agora, há outra e ela deve igualmente ser requisitada de imediato, porque o art. 535, § 4º não impõe essa limitação!" (fl. 163).
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, entendimento diverso implicaria o r eexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas; e não na valoração dos critérios jurídicos concernentes à utilização da prova e ã formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso - "a pretensão de simples reexame de prova não enseja recurso especial".
+Cito ainda decisões monocráticas proferidas em casos idênticos: AREsp 2266367, Ministro BENEDITO GONÇALVES, DJe 03/05/2023 e AREsp 2191528, Ministro SÉRGIO KUKINA, DJe 16/02/2023.
+Ante o exposto, reconsidero a decisão de fls. 872/874 e conheço do agravo para conhecer parcialmente do recurso especial e nessa extensão, negar-lhe provimento.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
+EMENTA
