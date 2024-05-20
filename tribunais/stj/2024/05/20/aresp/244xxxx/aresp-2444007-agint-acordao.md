@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno manejado por EDP - ENERGIAS DO BRASIL S.A. para desafiar decisão, proferida às e-STJ fls. 469/471, que não conheceu do agravo em recurso especial, pois o agravante não impugnou especificamente todos os fundamentos da decisão agravada, abstendo-se de atacar a incidência da Súmula 7 do STJ e o não cabimento o apelo nobre em que alegada violação de norma constitucional.
+Sustenta a parte agravante, às e-STJ fls. 475/480, em suma, que dedicou tópico exclusivo no agravo em recurso especial para infirmar a aplicação da Súmula 7 do STJ, tendo demonstrado a afronta aos dispositivos legais indicados.
+Requer, assim, seja provido o recurso.
+Sem impugnação .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, o decisum ora recorrido não conheceu do agravo interposto, visto que o agravante não se insurgiu contra todos os fundamentos do juízo de prelibação negativo do recurso especial, abstendo-se de atacar a incidência da Súmula 7 do STJ e o não cabimento o apelo nobre em que alegada violação de norma constitucional.
+Da leitura das razões do agravo interno, observa-se que, mais uma vez, o recorrente deixou de atacar devidamente o fundamento do julgado agravado pertinente à falta de impugnação dos referidos óbices.
+No caso, não houve nem mesmo menção à eventual impugnação ao não cabimento do apelo nobre em que alegada violação de norma constitucional, tendo a parte se limitado a alegar o seguinte (e-STJ fl. 478):
+13. A decisão agravada menciona que a EDP não teria impugnado de forma específica, em sede de Agravo em Recurso Especial, a Súmula 7 do STJ.
+14. Todavia, a EDP apresentou tópico específico no Agravo em Recurso Especial para enfatizar a inaplicabilidade da Súmula 7 do STJ ao caso em análise.
+15. Com efeito, às 446/448 do Agravo em Recurso Especial a EDP destacou que a Súmula 7 do STJ não se aplicava ao caso, tendo havia do a impugnação específica acerca do não cabimento da Súmula 7 do STJ na presente hipótese.
+16. Com efeito, restou demonstrado no Recurso Especial e no Agravo em Recurso Especial a flagrante afronta aos dispositivos legais do TJSP em relação a questões de extrema relevância para o desate da lide.
+17. O que se discute no Recurso Especial é (i) que a Resolução 414/2010 da ANEEL não foi utilizada com o alicerce da interposição do Recurso Especial; (ii) que, se a sub- rogação do art. 786 do Código Civil ocorre de modo amplo, assumindo o sub-rogado a posição do credor originário nos direitos e ações que ele possuía contra o devedor, também pode se valer das regras de competência daquele; (iii) que são flagrantes os prejuízos ocasionados à EDP por cerceamento de defesa, decorrente das violações ao art. 369 do CPC; (iv) que o v. acórdão recorrido violou os arts. 1º, 6º, §1º, 9º e 29 da Lei 8.987,1995, a qual trata da aplicação do regramento específico do setor Elétrico, bem como o artigos 349 do CC.
+Em observância ao princípio da dialeticidade, incumbe ao recorrente o ônus de explicitar, de forma específica, concreta e pormenorizada, os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente a mera alegação de que houve impugnação aos óbices processuais, sem a sua efetiva demonstração, como ocorreu no caso.
+Ademais, não cabe ao julgador ir em busca do fundamento que sustente a pretensão da parte, ainda que lhe seja indicado em qual tópico da peça recursal ele estaria, devendo o recurso trazer a devida fundamentação em seu próprio bojo.
+Nada impede que a parte faça referências a outras peças recursais, não podendo, contudo, limitar-se a isso.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ, QUE INADMITIU RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. A decisão monocrática da Presidência do STJ assentou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial" (fl. 376, e-STJ).
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou a compreensão de que não se conhece de Agravo contra decisão monocrática o qual não ataque especificamente os fundamentos dessa decisão, de forma a demonstrar que o entendimento nela esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário ao das afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."), que está em consonância com a redação do § 1º do art. 1.021 do atual do CPC.
+5. Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião da interposição de Agravo Interno, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, em virtude da ocorrência de preclusão consumativa.
+6. Agravo Interno não conhecido.
+(AgInt no AREsp n. 1.874.820/GO, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/10/2021, DJe de 4/11/2021.)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
