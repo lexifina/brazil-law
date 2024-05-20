@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. PROMOÇÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa aos artigos 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra decisão monocrática de minha relatoria, assim ementada (e-STJ fls. 410/414):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. PROMOÇÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do agravo interno, o recorrente defende a reforma da decisão ora impugnada, pois (e-STJ fls. 422/423):
+Por entender que o v. acórdão foi omisso sobre aspectos fundamentais que deveriam ter integrado o julgado, o Estado opôs embargos de declaração para que fossem esclarecidas as seguintes questões:
+a) Esclarecer a interpretação dada à Diretriz n. 76/2004, tendo em vista a omissão no exame do art. 23 da referida norma, indicativo do caráter discricionário da oferta de cursos militares, discricionariedade esta coberta pela proteção do princípio da separação dos poderes;
+b) Esclarecer o enquadramento concreto e específico da situação do autor nas premissas adotadas, tendo em vista a leitura dada à Diretriz n. 76/2004.
+Não obstante, o órgão jurisdicional rejeitou os embargos estatais, sob a alegação de que inexistem os vícios elencados no art. 1.022 do CPC, de modo que, em sua concepção, o ente público estaria em busca apenas do "reexame da matéria". Em outros termos, o órgão julgador negou a existência da omissão imputada ao acórdão original, sem qualquer análise das questões postas nos embargos.
+Sem alternativa, o Estado interpôs recurso especial para obter a anulação do acórdão recorrido e para compelir o órgão julgador a sanar as omissões referentes aos artigos 1022, II e 489, §1º, II, III e IV do Código de Processo Civil.
+Note-se que o Estado, sabedor dos limites ao conhecimento do recurso especial, não submeteu ao exame superior qualquer questão que exija reexame do conjunto fático-probatório e da legislação local. O Estado deseja que o órgão julgador enfrente os argumentos relevantes para a lide, mas que foram ignorados, apesar da provocação por meio de embargos declaratórios.
+Afirma que (e-STJ fls.):
+ ..  era imprescindível observar que o art. 23 da Diretriz DGEI n. 76/2004, é expresso quanto à discricionariedade na oferta de cursos militares. E, por certo, norma regulamentar interna, editada por órgão subalterno da Polícia Militar, não poderia retirar a competência discricionária do Comandante-Geral da Corporação, assegurada pelo art. 57, §1º, da Lei n. 443/81.
+O TJRJ, porém, nada disse sobre esses aspectos.
+Pugna pela reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado.
+O prazo para manifestação transcorreu in albis (e-STJ fl. 429).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. PROMOÇÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa aos artigos 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno não provido.
+VOTO
+A decisão agravada não merece ser reconsiderada.
+Não observo ter havido a alegada negativa de prestação jurisdicional, tendo em vista a fundamentação suficiente exarada na origem, a qual não deixou ao oblívio qualquer questão relevante, necessária, indispensável ao deslinde da controvérsia sob seu apreço.
+A alegação de violação ao artigo 1.022 do CPC, com a correção de eventuais omissões ou contradições, deve ser balizada por critérios objetivos e estritamente jurídicos, não da falta de conformidade com o resultado do julgamento. Não se exige na fundamentação das decisões judiciais uma minúcia excessiva ou uma resposta detalhada para cada ponto específico levantado pelas partes. O magistrado possui autonomia e discricionariedade na análise e valoração das provas e dos argumentos apresentados, desde que observe os fundamentos jurídicos pertinentes à lide.
+Nesse aspecto, já foi julgado:
+Não cabe ao Tribunal, que não é órgão de consulta, responder a "questionários" postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acordão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do "decisum"  .. . (EDcl no REsp n. 739/RJ, Rel. Min. Athos Carneiro, QUARTA TURMA, julgado em 23/10/1990, DJ de 12/11/1990, p. 12871, DJ de 11/03/1991, p. 2395).
+Como já dito, "somente omissão relevante para o deslinde da controvérsia justifica o reconhecimento de sua afronta" (AgRg no AREsp n. 502.641/RS, Rel. Min. Humberto Martins, SEGUNDA TURMA, DJe de 26/8/2014). Dito de outro modo, "devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1.022, II, do CPC/15" (REsp n. 1.815.055/SP, Rel. Min. Nancy Andrighi, CORTE ESPECIAL, DJe de 26/08/2020).
+O recorrente defende a negativa de vigência aos artigos 1.022, II, e 489, §1º, II, III e IV do CPC/2015. Afirma, em síntese, que (e-STJ fls. 351/352):
+Por entender que o v. acórdão foi omisso sobre aspectos fundamentais que deveriam ter integrado o julgado, o Estado opôs embargos de declaração para que fossem esclarecidas as seguintes questões:
+a) Esclarecer a interpretação dada à Diretriz n. 76/2004, tendo em vista a omissão no exame do art. 23 da referida norma, indicativo do caráter discricionário da oferta de cursos militares, discricionariedade está coberta pela proteção do princípio da separação dos poderes;
+b) Esclarecer o enquadramento concreto e específico da situação do autor nas premissas adotadas, tendo em vista a leitura dada à Diretriz n. 76/2004." (grifou-se)
+Não obstante, o órgão jurisdicional rejeitou os embargos estatais, sob a alegação de que inexistem os vícios elencados no art. 1.022 do CPC, de modo que, em sua concepção, o ente público estaria em busca apenas do "reexame da matéria".
+Em outros termos, o órgão julgador negou a existência da omissão imputada ao acórdão original, sem qualquer análise das questões postas nos embargos!
+Conforme consignado na decisão agravada, o Tribunal local assim se pronunciou (e-STJ fls. 232/242, grifos nossos):
+É sabido também que o Comandante Geralda Polícia Militar aprovou a Diretriz Geral de Ensino e Instrução -DGEI, conforme Adit. ao Bol da PM n.º 076 de 23/11/2004, definindo a frequência anual dos cursos regulares obrigatórios, visando ampliar e atualizar os conhecimentos dos Segundos Sargentos, habilitando-os ao exercício de cargos e funções próprias da graduação.
+No caso em apreço, no tocante à promoção para Segundo Sargento, efetivada em 21/12/2018 (fls. 80/000080), melhor sorte assiste ao autor. Consoante demonstrar-se-á, obrou em erro a Administração ao atrasar em mais de 1 (um) ano a sua promoção por ausência de cursos de formação e aperfeiçoamento que ela própria deveria disponibilizar regularmente, conforme o regramento vigorante.
+ ..
+E nos termos do art. 3º Decreto Estadual n.º 22.169/96, teria o apelante direito a ser promovido à graduação de Segundo Sargento quando completasse 16 (dezesseis) anos de efetivo serviço prestado à Corporação, o que ocorreu os11/10/2017, e desde que seu comportamento fosse classificado como "bom", além de haver concluído, com aproveitamento, o Curso Especial de Formação.
+Entrementes, o pleito administrativo foi denegado ao argumento de que não teria o requerente cumprido o requisito de conclusão do curso de formação, a teor do que se extrai de fls. 31(000031).
+É correntio que, na ausência de curso disponível na data da promoção, os policiais façam o curso subsequente e sejam aquinhoados com os efeitos da ascensão funcional retroativamente à data em que ultimaram o prazo legal.
+Veja-se o que dispõe o art. 6.º do Decreto n.º 43.411/2012 acerca da disponibilização dos cursos:
+Art. 6º - Para que possam habilitar-se às promoções por tempo de serviço, ou integrar Quadros de Acesso, os Cabos e os 3º Sargentos promovidos a estas graduações por bravura, ou de acordo com o Decreto nº 10.078, de 02.07.87 e artigo 1º, do Decreto nº 16.927, d, 31.10.91, e outros que porventura também não possuam os respectivos cursos de formação, deverão ser matriculados nos próximos CEFC e CEFS, respectivamente, assim como os 2º e 1º Sargentos deverão ser matriculados no próximo Curso de aperfeiçoamento, caso ainda não o possuam, independentemente de qualquer exigência, devendo, entretanto concluí-los com aproveitamento.
+Fato é que o apelado não comprovou a abertura de inscrições para o competente curso de aperfeiçoamento, como era seu dever, nos termos do art. 16 da Diretriz Geral de Ensino e Instrução, aprovada por Ato do Comandante Geral da PMERJ, publicado no Aditamento ao Boletim da Polícia Militar n.º 76, de23/11/2004.
+Logo, conclui-se que na conjugação das normas acima mencionada, quem deu causa ao atraso na promoção do apelante foi a própria Administração, que se manteve inerte sem justo motivo, por anos, descumprindo seu dever de ofertar o curso que é condicionante para a promoção, não podendo o militar ser prejudicado em suas promoções por ato do réu.
+ ..
+Nos termos do prefalado art. 3º, inciso III, do Decreto n.º 22.169/96, o apelante, desde 11/10/2017, quando completou 16 (dezesseis) anos de serviços prestados à Corporação, atendia ao requisito "tempo de serviço efetivo".
+Assim, só não foi promovido porque, não tendo havido oferta de cursos no interregno, faltava-lhe um dos requisitos, ao qual, entrementes, não deu causa.
+Sob esta linha intelectiva, tem o apelante, conforme sustenta, direito à promoção à graduação de Segundo Sargento, na data de 11/10/2017.
+ ..
+Não se sustenta a tese defensiva de que a oferta de cursos se insere no poder discricionário do administrador, por isso que, como se viu, no caso, a própria Diretriz Geral de Ensino e Instrução -DGEL, publicada no Boletim da Polícia Militar n.º 76, de 23/11/2014, prevê a obrigatoriedade da realização anual do curso pretendido pelo autor, de modo a subtrair espaço ao juízo de conveniência e oportunidade do administrador.
+Na espécie, percebe-se que o Tribunal local entendeu que" não se sustenta a tese defensiva de que a oferta de cursos se insere no poder discricionário do administrador," (e-STJ fl. 242). Acrescentou que a própria Diretriz Geral de Ensino e Instrução - DGEL estipulava a obrigatoriedade da realização anual do curso pretendido pelo militar.
+Conclui-se, portanto, não ter ocorrido ofensa aos artigos 489 e 1.022, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA DO CONSÓRCIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A violação ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. Tendo o Tribunal local concluído pela legitimidade do consórcio e sua responsabilização solidária no caso, não há como rever esse entendimento sem o necessário revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7/STJ.
+3. Agravo interno não provido. (AgInt no REsp 1827460/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021 - grifo nosso)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
