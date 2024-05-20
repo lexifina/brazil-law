@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDNA PEREIRA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. SENTENÇA DE HOMOLOGAÇÃO DOS DOCUMENTOS APRESENTADOS. HONORÁRIOS NÃO FIXADOS EM PRIMEIRO GRAU POR AUSÊNCIA DE LITIGIOSIDADE.
+INSURGÊNCIA DA PARTE AUTORA. DOCUMENTOS SOLICITADOS PELA VIA ADMINISTRATIVA. RECUSA INJUSTIFICADA DEMONSTRADA.
+PRINCÍPIO DA CAUSALIDADE APLICÁVEL. REDISTRIBUIÇÃO DAS CUSTAS PROCESSUAIS. CONDENAÇÃO EM HONORÁRIOS DEVIDA. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 8º, §§ 8º e 8º-A, do CPC, no que concerne à necessidade de observação dos valores mínimos recomendados pelo Conselho Seccional da OAB para fixação dos honorários advocatícios, razão pela qual o montante estabelecido deve ser adequado ao disposto nos dispositivos apontados, trazendo a seguinte argumentação:
+Foi exposto nos embargos de declaração mencionados que o juiz, por força do art. 85, §8º-A do Código de Processo Civil, quando da fixação de honorários advocatícios de sucumbência por equidade, deve assim fazer em observância ao limite mínimo de 10% estabelecido no §2º do art.
+85 do CPC ou observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil, aplicando-se o que for maior.
+In casu, o valor atribuído à causa foi de R$ 1.320,00 (mil trezentos e vinte reais), de forma que caso o valor da verba de honorários advocatícios de sucumbência fosse mesmo fixada no patamar máximo de 20%, esta restaria no patamar de R$ 264,00 (duzentos e sessenta e quatro reais).
+Noutro passo, os valores mínimos recomendados pelo Conselho Seccional da Ordem dos Advocados do Brasil - Estado do Paraná são de R$ 3.255,27 (três mil duzentos e cinquenta e cinco reais e vinte e sete centavos), nos termos da Resolução Diretora nº 06/2023 da OAB/PR, Capítulo VI, Seção I, item 2, subitem 2.2  1  (processo de rito ordinário).
+Ademais, a mesma tabela dispõe que a atuação em segundo grau - apelação cível, deve remunerar o procurador no valor de R$ 4.242,83 (quatro mil duzentos e quarenta e dois reais e oitenta e três centavos) - Capítulo XVIII, item 11.
+Naturalmente, haveria de ter então a incidência automática das disposições constantes do art. 85, §8º-A, do Código de Processo Penal
+ ..
+Nada obstante, nota-se que o juízo a quo fixou a verba honorária em patamar de R$ 132,00 (cento e trinta e dois reais).
+Considerando que os honorários advocatícios de sucumbência não foram arbitrados por equidade, em flagrante afronta ao art. 85, §8º e §8º-A do Código de Processo Civil, e considerando que mesmo instado o juízo a quo a reparar o seu erro por meio de embargos de declaração, alternativa outra não resta senão o manejo deste especial recurso (fls. 215/216).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Isto é, o Tribunal de origem não analisou nem decidiu sobre o previsto no dispositivo tido por violado. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
