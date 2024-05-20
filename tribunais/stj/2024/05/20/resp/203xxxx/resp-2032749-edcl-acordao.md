@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. No caso em análise, não se configura a existência de nenhuma das referidas deficiências, pois a turma decidiu de maneira integral e com fundamentação suficiente toda a controvérsia em discussão, declinando os motivos pelos quais reconheceu a incidência do óbice da Súmula 7/STJ à pretensão recursal de ver afastada a preclusão reconhecida na origem.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por BANCO SANTANDER (BRASIL) S.A. contra acórdão da Terceira Turma que, por unanimidade, manteve decisão monocrática do Ministro Paulo de Tarso Sanseverino, que negou provimento ao recurso especial.
+O aresto embargado tem a seguinte ementa (fl. 1.021):
+AGRAVO INTERNO NOS EMBARGOS DE DECLRAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECLUSÃO. OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 7/STJ. AGRAVO INTERNO. FLAGRANTE IMPROCEDÊNCIA DO RECURSO. MULTA. CABIMENTO.
+1. A revisão do entendimento do Tribunal local acerca da preclusão encontra óbice na Súmula n. 7/STJ. Precedentes específicos.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, a condenação ao pagamento da multa prevista no art. 1.021, § 4º, do CPC, deve ser analisada em cada caso concreto. Nesse contexto, reconhecida pelo Tribunal de Justiça a flagrante improcedência do agravo interno, não há se falar em violação ao art. 1.021, do CPC.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Agravo interno desprovido.
+Sustenta a parte embargante que permaneceram sem análise as seguintes questões: "a) Ausência de citação do Banco réu para manifestar sobre o pedido de aditamento da inicial(conversão em perdas e danos), que foi formulado pelo autor após o retorno dos autos do TJMG com a cassação da sentença citra petita (violação ao artigo 329, inciso II, do CPC);b)Ausência de anuência do Banco réu ao referido pedido de aditamento (violação ao artigo 329, inciso II, do CPC); c)Ausência de título executivo extrajudicial; d)Nulidade da decisão de conversão da ação de cobrança de expurgos inflacionários em perdas e danos, por ausência de fundamentação fática e jurídica; e)Ausência de prolação de nova sentença após a cassação da primeira pelo Tribunal de Justiça (violação aos artigos 502, 505, 507); f) Ilegitimidade passiva: ausência de realização de atividade de subsunção, com condenação que recai sobre contas que não são do Banco Real/Santander".
+Requer, ao final, o acolhimento dos embargos declaratórios, empregando efeitos modificativos para prover o recurso especial.
+Impugnação às fls. 1.037-1.043.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. No caso em análise, não se configura a existência de nenhuma das referidas deficiências, pois a turma decidiu de maneira integral e com fundamentação suficiente toda a controvérsia em discussão, declinando os motivos pelos quais reconheceu a incidência do óbice da Súmula 7/STJ à pretensão recursal de ver afastada a preclusão reconhecida na origem.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em análise, não se configura a existência de nenhuma das referidas deficiências, pois a turma decidiu de maneira integral e com fundamentação suficiente toda a controvérsia em discussão, declinando os motivos pelos quais estava mantendo a decisão agravada.
+Com efeito, conforme ficou absolutamente claro no acórdão embargado, a pretensão de ver afastada a preclusão reconhecida na origem encontra óbice na Súmula 7/STJ. A propósito, assim ficou consignado:
+No acórdão recorrido, o Tribunal a quo consignou que o agravante não se insurgiu oportunamente contra a nova sentença proferida na ação de cobrança que lhe moveu o agravado, uma vez que não interpôs nenhum recurso, razão pela qual ocorreu a preclusão das matérias alegadas na exceção de pré-executividade.
+A propósito, confira-se o seguinte excerto do julgado:
+É que, conforme aduzido no "Decisum" impugnado, o Instrumento de sequencial /001 foi interposto contra o pronunciamento que rejeitou a Exceção de Pré-Executividade do Recorrente, afastando as teses de inexistência de título executivo, bem como de ilegitimidade passiva da Instituição Financeira.
+Do exame dos autos de origem, anoto que a Sentença proferida no curso do Processo de Conhecimento (cód. 44, do Instrumento de sequencial /001) foi cassada por este Eg. Tribunal de Justiça, conforme se extrai do Acórdão colacionado sob o cód. 72, do Recurso nº 1.0000.22.022013-1/001.
+Então, com o retorno do feito à Primeira Instância, uma nova Decisão foi exarada, convertendo a obrigação principal em perdas e danos e condenando o Agravante ao pagamento de indenização substitutiva da correção monetária sobre os expurgos inflacionários, no valor de R$5.000,00 (cinco mil reais) para cada conta poupança mantida pelo Autor/Recorrido nos períodos questionados.
+Nesse contexto, após o início da fase de Cumprimento de Sentença, o Recorrente foi intimado para o cumprimento voluntário da obrigação, mas permaneceu silente (cód. 121).
+O Agravado pugnou pela penhora "online" da quantia devida, a qual foi realizada via SISBAJUD, conforme se observa do documento de cód. 130.
+Por sua vez, o Agravante apresentou a Exceção de Pré-Executividade de cód. 134, que, rejeitada (cód. 141), deu ensejo ao Agravo nº 1.0000.22.022013-1/001.
+Contudo, conforme aduzido no pronunciamento que exarei, nos termos do disposto no art. 507, do CPC, "é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão".
+Na espécie, segundo consignado, quanto à alegação de inexistência de Título Executivo Judicial, observo que, após a cassação da r. Decisão de Primeiro Grau por este Eg. TJMG (cód. 72), houve a prolatação de nova Sentença (cód. 112), contra a qual não foi interposto nenhum Recurso, e, portanto, transitou em julgado (cód. 114), remanescendo incontroversa a existência do instrumento passível de execução pelo ora Recorrido.
+Ao demais, no que se refere à arguição de excesso de Execução, conforme exposto, o I. Magistrado a quo determinou a intimação do Recorrente para cumprimento voluntário da obrigação (cód. 121), oportunidade em que a Instituição Financeira se manteve inerte, não se insurgindo contra a referida determinação (Comprovante de Decurso de Prazo nº 17638279320098130479).
+Logo, repise-se que, considerando que o Agravante não acionou esta Instância Julgadora quando lhe cabia, uma vez que não combateu a r. Sentença de Primeira Instância para defender a inexistência de Título Executivo Judicial naquela ocasião (cód. 114) e tampouco se manifestou sobre o alegado excesso de Execução no momento em que o I. Julgador Planicial ordenou sua intimação para efetuar o pagamento do débito (cód. 121 e Comprovante de Decurso de Prazo nº 17638279320098130479), não vislumbro razões para modificar o entendimento relativo ao reconhecimento da ocorrência de preclusão acerca dos temas apresentados no Instrumento de sequencial /001.
+De mais a mais, em relação ao argumento de ilegitimidade passiva, ressalto que a tese já foi devidamente enfrentada por este Eg. Tribunal de Justiça, no Acórdão que cassou a primeira Sentença proferida nos autos de origem, oportunidade em que esta C. Câmara Cível decidiu que, "nesse caso, a Ré tem legitimidade para afigurar no polo passivo da demanda" (cód. 72).
+Ao demais, não obstante as alegações de que os pontos em debate desfrutariam de natureza de ordem pública, o que permitiria as suas rediscussões a qualquer tempo, é certo que não assiste razão ao Recorrente.
+Isso porque, como expus no pronunciamento objurgado, o Col. STJ já definiu que "ocorre a preclusão consumativa mesmo quanto à matéria de ordem pública que tenha sido objeto de anterior julgamento sem impugnação da parte" (STJ -AgRg no AREsp: 489029/SP, Relator: Ministro João Otávio de Noronha, T3 - Terceira Turma, Data de Publicação: 17/06/2014 - Destacamos).
+Desse modo, reitere-se que, mesmo os temas de ordem pública (os quais, em regra, comportam exame, ainda que arguídos em momento inadequado, desde que levantados de forma originária nos autos) se submetem aos efeitos do referido fenômeno processual, em sua modalidade consumativa, quando já enfrentados pelo Órgão jurisdicional (códs. 72, 112 e 121) e não impugnados oportunamente(códs. 77 e 114, e Comprovante de Decurso de Prazo nº 17638279320098130479), o que, como explanado, é exatamente o caso dos autos.
+Consoante destacado no julgado singular, a jurisprudência do Superior Tribunal de Justiça flui no sentido de que a revisão do entendimento do Tribunal local acerca da ocorrência de preclusão demanda o reexame de matéria fático-probatória, o que é inviável, devido ao óbice previsto no Enunciado n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. JUROS DE MORA. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. CONTEÚDO DE NORMATIVO DO DISPOSITIVO LEGAL DISTINTO DA QUESTÃO CONTROVERTIDA.
+DEFICIÊNCIANA FUNDAMENTAÇÃO.
+SÚMULA284/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.1. O Tribunal de origem concluiu que a questão sobre o índice da taxa de juros moratórios havia sido alcançada pela preclusão.
+Estabeleceu o aresto a existência de coisa julgada sobre a matéria, que teria sido analisada em momento anterior. Essas ponderações foram fundadas na apreciação fático-probatória da causa, ensejando o óbice da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.2. Consoante orientação do Superior Tribunal de Justiça, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional" (AgInt no R
+Esp n. 1.756.189/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, D
+Je de 12/6/2020). Incidência da Súmula 83/STJ.3. Não se admite o recurso especial, por fundamentação deficiente, quando o conteúdo normativo dos dispositivos legais apontados como violados não é apto a lastrear a tese vertida no apelo.4. Agravo interno desprovido.(AgInt no AR
+Esp n. 2.309.409/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/8/2023, D
+Je de 23/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARRENDAMENTO MERCARNTIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. VALOR RESIDUAL GARANTIDOR (VRG). DEVOLUÇÃO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. UTILIZAÇÃO DA TABELA FIPE. REVISÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.(..)3. Modificar o entendimento do Tribunal local, acerca da alegada preclusão, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.4. Agravo interno improvido. (AgInt no REsp n. 1.880.364/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, D Je de 20/10/2022.)
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com o não conhecimento do recurso especial e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022, grifo meu.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
