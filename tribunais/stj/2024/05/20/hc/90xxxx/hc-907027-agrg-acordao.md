@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AÇÃO DE JUSTIFICAÇÃO CRIMINAL. NÃO CABIMENTO. AUSÊNCIA DE PROVA NOVA. PROVA IRRELEVANTE. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A ação de justificação criminal, procedimento que se destina à obtenção de prova nova com a finalidade de subsidiar eventual ajuizamento de revisão criminal, não se propõe à reabertura da instrução criminal, reinquirição de testemunha já ouvida no processo, ou retificação do depoimento da vítima, notadamente quando a prova que se quer produzir não se caracteriza como nova.
+- Nesse viés, nos moldes do entendimento jurisprudencial do Superior Tribunal de Justiça, possibilitar a reinquirição de testemunhas ou arrolamento de outras que, quisesse a defesa, poderia tê-las arrolado no prazo legal, como se verifica ser a hipótese dos autos, implicaria instaurar-se a rediscussão do mérito da sentença penal condenatória transitada em julgado, fora das hipóteses legalmente previstas.
+- Assim, a decisão das instâncias ordinárias se encontra em consonância com a jurisprudência desta Corte Superior, pois, além de não se tratar de prova nova, esta não teria o condão de desconstituir a condenação, sendo, portanto, impertinente.
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GILMAR SANTANA FERREIRA contra decisão monocrática, da minha lavra, que não conheceu do mandamus.
+Consta dos autos que o paciente foi condenado definitivamente como incurso no art. 121, § 2º, inciso II, do Código Penal à pena de 12 anos de reclusão, em regime fechado. Após o trânsito em julgado, foi ajuizada ação de justificação criminal, a qual, no entanto, foi julgada improcedente. Irresignada, a defesa interpôs recurso de apelação, ao qual se negou provimento.
+No mandamus, a defesa aduziu, em síntese, que deveria ser acolhido o pedido do paciente de produção de prova nova necessária para o ajuizamento de revisão criminal. Contudo, o mandamus não foi conhecido, em virtude da ausência de constrangimento ilegal.
+No presente agravo regimental, o agravante reitera, em síntese, que busca "tão somente a possibilidade do agravante em produzir provas para aparelhar o manejo revisional" e que "não houve demonstração de eventual impertinência da prova nova ou a inexistência de prova nova propriamente dita".
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AÇÃO DE JUSTIFICAÇÃO CRIMINAL. NÃO CABIMENTO. AUSÊNCIA DE PROVA NOVA. PROVA IRRELEVANTE. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A ação de justificação criminal, procedimento que se destina à obtenção de prova nova com a finalidade de subsidiar eventual ajuizamento de revisão criminal, não se propõe à reabertura da instrução criminal, reinquirição de testemunha já ouvida no processo, ou retificação do depoimento da vítima, notadamente quando a prova que se quer produzir não se caracteriza como nova.
+- Nesse viés, nos moldes do entendimento jurisprudencial do Superior Tribunal de Justiça, possibilitar a reinquirição de testemunhas ou arrolamento de outras que, quisesse a defesa, poderia tê-las arrolado no prazo legal, como se verifica ser a hipótese dos autos, implicaria instaurar-se a rediscussão do mérito da sentença penal condenatória transitada em julgado, fora das hipóteses legalmente previstas.
+- Assim, a decisão das instâncias ordinárias se encontra em consonância com a jurisprudência desta Corte Superior, pois, além de não se tratar de prova nova, esta não teria o condão de desconstituir a condenação, sendo, portanto, impertinente.
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, a defesa se insurge, em síntese, contra o não processamento da ação de justificação criminal, imprescindível, segundo a defesa, para o ajuizamento de revisão criminal. Contudo, a Corte local, ao negar provimento ao recurso de apelação, consignou que (e-STJ fl. 25 e 27):
+No mais, a Revisão Criminal é medida excepcional, que tem por fim a correção de erro judiciário eventualmente existente nos autos, por isso, cabível apenas em casos expressamente previstos na legislação processual penal, como em caso de, após a sentença, descobrir novas provas da inocência do condenado ou de circunstância que determine ou autorize a diminuição especial da pena (art. 621, III, do Código de Processo Penal).
+Sendo assim, para que seja produzida nova prova, faz-se necessária a oposição da Justificação Criminal, que visa à obtenção desta nova prova para subsidiar eventual ajuizamento da Revisão Criminal.
+No presente caso, pretende o Apelante que seja realizada a oitiva de três Policiais Militares que trabalhavam no mesmo batalhão, os quais iriam confirmar que ele nunca foi conhecido como "pitbull".
+Todavia, as provas que o Apelante pretende produzir, não foram supervenientes a prolação da sentença, demonstrando, portanto, que não se trata de nova prova, visto que, durante a instrução criminal, referidos policiais poderiam ter sido elencados no rol de testemunhas, mas não o foram.
+Inclusive, independente da produção desta nova prova, como pretende o Apelante, a autoria não foi reconhecida em razão de seu apelido, mas sim do conjunto probatório trazido no processo crime, como bem destacado no v. Acórdão que negou provimento ao Recurso em Sentido Estrito:
+ ..
+Por fim, nota-se que GILMAR busca reabrir a instrução criminal para que seja debatido o conjunto probatório dos autos de Processo Crime, o que se mostra defeso, não sendo pertinente o ajuizamento da Justificação Criminal.
+Como é de conhecimento, a ação de justificação criminal, procedimento que se destina à obtenção de prova nova com a finalidade de subsidiar eventual ajuizamento de revisão criminal, não se propõe à reabertura da instrução criminal, reinquirição de testemunha já ouvida no processo, ou retificação do depoimento da vítima, notadamente quando a prova que se quer produzir não se caracteriza como nova.
+Nesse viés, nos moldes do entendimento jurisprudencial do Superior Tribunal de Justiça, possibilitar a reinquirição de testemunhas ou arrolamento de outras que, quisesse a defesa, poderia tê-las arrolado no prazo legal, como se verifica ser a hipótese dos autos, implicaria instaurar-se a rediscussão do mérito da sentença penal condenatória transitada em julgado, fora das hipóteses legalmente previstas.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AÇÃO DE JUSTIFICAÇÃO CRIMINAL NEGADA NA ORIGEM. PEDIDO DE REINQUIRIÇÃO DE DUAS TESTEMUNHAS ANTERIORMENTE OUVIDAS NA AÇÃO PENAL. NÃO DEMONSTRAÇÃO DE COMO A MODIFICAÇÃO DOS DEPOIMENTOS BENEFICIARIA OS AGRAVANTES. CONDENAÇÃO NÃO BASEADA APENAS NOS DEPOIMENTOS DAS DUAS TESTEMUNHAS. OUTRAS PROVAS: DECLARAÇÕES DA VÍTIMA. DOCUMENTOS. FOTOGRAFIAS. DEPOIMENTOS DE OUTRAS NOVE TESTEMUNHAS. TENTATIVA DE REABERTURA DE INSTRUÇÃO CRIMINAL APÓS O TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. PRECEDENTES. NO MAIS, REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - In casu, as testemunhas arroladas pela Defesa para oitiva na ação de justificação que foi indeferida a quo já prestaram os seus depoimentos na ação principal.
+III - Convém registrar que a Defesa não pontuou como a suposta modificação no depoimento das testemunhas seria capaz se ensejar a absolvição, ou mesmo uma redução de penas, o que é necessário até mesmo quando se trata de prova nova.
+IV - Com efeito, a jurisprudência desta Corte sedimentou que, ainda que a retratação possa embasar a propositura de revisão criminal, configurando prova nova para fins do art. 621, III, do CPP, importa reconhecer que o seu depoimento deverá ser apto a conduzir à absolvição do sentenciado ou, ainda, à redução da pena. Precedente.
+V - Vale destacar que a condenação dos agravantes não se pautou exclusivamente nos depoimentos das duas testemunhas R C Q e F R de P, as quais a Defesa busca reinquirir. Na ação de origem, outras provas também se fizeram presentes, como demais depoimentos de testemunhas (outras nove), fotografias, documentos, declarações da vítima (fls. 49-50), dentre outras elencadas na sentença de fls. 40-65.
+VI - Como se observa, a utilização de ação de justificação para a tentativa de reabertura de instrução criminal encerrada e em processo transitado em julgado não se mostra possível.
+VII - Assente nesta Corte Superior que a ação de justificação criminal se destina à obtenção de provas novas, com o objetivo de subsidiar a revisão criminal, não sendo o meio jurídico adequado para nova oitiva de testemunhas cujos depoimentos já tiverem sido colhidos no curso da ação penal que se busca anular. Precedente.
+VIII - De resto, o eventual acolhimento das teses defensivas como um todo demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via estreita do habeas corpus e do seu recurso ordinário.
+IX - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido.
+(AgRg no RHC n. 177.837/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/9/2023, DJe de 22/9/2023).
+Reafirmo, portanto, que a decisão das instâncias ordinárias se encontra em consonância com a jurisprudência desta Corte Superior, pois, além de não se tratar de prova nova, esta não teria o condão de desconstituir a condenação, sendo, portanto, impertinente. Reitero, portanto, que não se verifica constrangimento ilegal.
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
