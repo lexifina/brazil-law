@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS NÃO RECONHECIDOS PELO TRIBUNAL ESTADUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu que foram preenchidos os requisitos para acolhimento do pedido de reintegração de posse. A pretensão de alterar t al entendimento demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por REGIO PEREIRA DA COSTA contra decisão desta Relatoria, que conheceu do agravo em recurso especial para não conhecer do recurso especial, em razão da impossibilidade de reexame de prova, incidindo a Súmula 7/STJ (e-STJ, fls. 715/717).
+Nas razões recursais, o agravante sustenta, em síntese, que não se trata de reexame de provas, repisando os argumentos do recurso especial. Aduz que houve "demonstração da boa-fé e do animus de possuidor do réu até a presente data" (fl. 727).
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 743/750.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS NÃO RECONHECIDOS PELO TRIBUNAL ESTADUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu que foram preenchidos os requisitos para acolhimento do pedido de reintegração de posse. A pretensão de alterar t al entendimento demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece prosperar, porquanto a ausência de argumentos hábeis a alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto, não há que se falar em reparo na decisão.
+Cinge-se a pretensão recursal à verificação dos requisitos para o reconhecimento da posse.
+No caso dos autos, o acórdão recorrido expressamente confirmou a sentença que confirmou a existência de posse por parte do agravado, consoante se divisa na transcrição abaixo (e-STJ, fls. 586/587):
+"O fato é que para vingar a demanda possessória, necessária a comprovação dos requisitos do art. 561 do Código de Processo Civil, quais sejam: a posse anterior, o esbulho ou a turbação, a data do esbulho ou turbação, que deve ter ocorrido em menos de ano e dia, e a perda da posse quando se tratar de pleito reintegratório. A posse cuida de uma situação de fato, ou seja, a própria presença física ou um documento que forme o convencimento do juízo de que houve voluntariamente a cessão da posse. No caso em tela, o autor justifica sua pretensão com um contrato de cessão de direitos aquisitivos de posse.
+Ganha relevância para o deslinde da questão a audiência de justificação de posse realizada no início da tramitação processual, em janeiro de 2008, que entendeu justificada a posse do autor após oitiva de testemunhas.
+Nesta assentada compareceu o cedente dos direitos de posse confirmando a venda do bem.
+Mesmo que seja difícil a constatação do real possuidor nessa hipótese em tela, a perícia técnica realizada acompanha o entendimento do magistrado da justificação, ao indicar que a área que seria objeto de cessão da posse corresponde ao que se pretende resguardar nessa ação.
+O julgador de primeiro grau não vislumbrou modificação ao enquadramento fático apresentado na audiência de justificação, mantendo a liminar concedida após oitiva de testemunhas de ambas as partes. Esta decisão manteve a posse com o autor desde 2008.
+O fato é que decorridos quase quinze anos da lide possessória, não houve alteração significativa no enquadramento fático que possa formar o convencimento deste relator que a decisão tomada em 2008 possa ser modificada. A comprovação em audiência de justificação ainda é a peça fundamental para o deslinde da questão.
+Em suma, encerrada a dilação probatória, como já dito, nada sustenta o pedido autoral realizado em uma possível propriedade e, em um Comodato verbal que não se materializou no processo. Nesse contexto, pela natureza dúplice das ações possessórias, o presente feito serve para declarar a ré como a legítima possuidora do terreno objeto desta ação."
+Portanto, na espécie, a instância julgadora a quo concluiu pela inexistência de posse por parte do ora recorrente.
+Dessa forma, a pretensão recursal, no sentido de modificar o entendimento quanto à comprovação da posse, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, em razão da incidência da Súmula 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DEMARCATÓRIA NA ORIGEM. USUCAPIÃO EXTRAORDINÁRIA. REQUISITOS. AUSÊNCIA DE POSSE COM ANIMUS DOMINI. MERA DETENÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA 182 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO E PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Discussão sobre preenchimento dos requisitos da usucapião extraordinária.
+2. "Se não se identificar posse com ânimo de dono, acrescido do despojamento da propriedade, que qualifica a posse, o exercício de fato sobre a coisa não servirá à aquisição da propriedade" (REsp 1.644.897/SP, Relator Ministro Luis Felipe Salomão, Quarta turma, julgado em 19.3.2019, DJe de 7.05.2019).
+3. No que tange ao animus domini, exige-se que o autor detenha efetivamente a posse do bem, e não a mera detenção. Isso, porque, a detenção ou mera tolerância do proprietário no uso do bem por outrem não levam à posse apta e legítima a ensejar a declaração de usucapião (como assim se denomina de posse ad usucapionem).
+4. No caso em questão, o Tribunal de origem concluiu que a posse da ora agravante, na verdade, teria decorrido de atos de mera tolerância do proprietário com o uso do bem.
+5. Por isso, concluir em sentido diverso - a fim de verificar se houve preenchimento dos requisitos e que os atos exercidos não foram de mera tolerância do proprietário para que haja possibilidade de se declarar a usucapião e, por consequência, verificar o acerto ou não da demarcação realizada pelas instâncias de origem - claramente demandaria reexame de matéria fático-probatória, o que seria vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+6. Nos termos do entendimento desta Corte Superior, não se conhece do recurso pela alínea c do inciso III do art. 105 da Constituição Federal, tendo em vista que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, 7. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.230.818/RO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÕES DE MANUTENÇÃO DE POSSE E IMISSÃO NA POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO REQUERENTE.
+1. De acordo com o enunciado administrativo n. 2/STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. Hipótese em que o apelo extremo é regulamentado pelo CPC/1973, o que veda a adoção da providência contida no art. 1.032 do CPC/2015.
+2. A ausência de indicação, nas razões de recurso especial, das questões sobre as quais o Tribunal de origem manteve-se omisso, inviabiliza o reconhecimento da violação do art. 535 do CPC/1973, em razão do óbice contido na Súmula 284/STF.
+3. As conclusões a que chegou o Tribunal de origem, relativas à natureza e características da posse e presença dos requisitos necessários ao deferimento da tutela possessória, fundamentam-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+3.1. Tal conclusão não colide com o decidido no AREsp 617.743/SP, julgado por este Colegiado, na medida em que, em tal julgado, apreciou-se apenas a relação jurídica existente entre os postos de gasolina e os restaurantes, com a ressalva expressa de que o entendimento então fixado não prejudicaria direitos garantidos em contrato à Petrobras distribuidora.
+4. A ausência de enfrenta mento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, a alegada afronta ao art. 535 do CPC/1973, não foi conhecida, ante a incidência do óbice da Súmula 284/STF, o que inviabilizou que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência da Súmula 211/STJ.
+5. Agravo interno desprovido." (AgInt nos EDcl no REsp n. 1.645.228/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Portanto, com fulcro nos fundamentos acima aduzidos, o acórdão recorrido não merece reforma.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
