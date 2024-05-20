@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial Interposto por EDSON DE FIGUEIREDO LIMA FILHO (EDSON) com fundamento na alínea a do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. PEDIDO DE RESTITUIÇÃODOS VALORES COBRADOS A TÍTULO DE JUROS REMUNERATÓRIOS. INCIDÊNCIA SOBRE AS TARIFAS RECONHECIDAS ILEGAIS EM PROCESSOANTERIOR. PEDIDO JÁ JULGADO NA ESFERA DO JUIZADO ESPECIAL. COISA JULGADA. ACERTO NA ORIGEM. DESPROVIMENTO.
+Requerer a devolução do valor das tarifas, corrigido pelos mesmos índices adotados pela instituição financeira, equivale a pleitear a devolução da quantia correspondente à aplicação dos juros do contrato sobre as tarifas, o que, por sua vez, diz respeito a reivindicar a restituição das obrigações acessórias.
+Verificando-se que o pedido formulado nos autos encontra-se inteiramente abrangido pelo manto da coisa julgada, operada em relação processual anterior, imperiosa é extinção da ação sem resolução de mérito (e-STJ, fl. 140).
+Nas razões do recurso, EDSON sustentou violação dos arts. 502 do CPC e 92, 184 e 884, todos do CC, ao aduzir que o pedido de devolução do montante cobrado a título de juros remuneratórios sobre tarifas reconhecidas como ilegais deveria ser acolhido por não ter sido supostamente objeto de outra ação com trânsito em julgado.
+As contrarrazões não foram apresentadas (e-STJ, fl. 193).
+O apelo nobre foi admitido na origem (e-STJ, fls. 198/199).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Da coisa julgada.
+EDSON alegou que o pedido de devolução do montante cobrado a título de juros remuneratórios sobre tarifas reconhecidas como ilegais deveria ser acolhido por não ter sido supostamente objeto de outra ação com trânsito em julgado.
+A Terceira Turma desta Corte firmou entendimento de ser possível o ajuizamento de ação autônoma para pleitear a restituição da quantia referente aos juros remuneratórios aplicados sobre as tarifas consideradas inválidas, desde que não tenha havido pedido explícito e condenação expressa na ação anterior.
+O acórdão ficou assim ementado:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA E CONDENATÓRIA. CLÁUSULAS DECLARADAS ABUSIVAS EM AÇÃO ANTERIOR TRANSITADA EM JULGADO. JUROS REMUNERATÓRIOS. PLEITO EM NOVA AÇÃO. INEXISTÊNCIA DE VIOLAÇÃO À COISA JULGADA. NECESSIDADE DE PEDIDO EXPLÍCITO.
+1- Recurso especial interposto em 10/9/2020 e concluso ao gabinete em 18/5/2022.
+2- O propósito recursal consiste em dizer se é possível o ajuizamento de nova ação para pleitear, exclusivamente, a restituição de juros remuneratórios não requeridos em anterior ação, na qual se declarou a abusividade de cláusulas contratuais de contratos bancários, determinando-se a repetição dos valores cobrados.
+3- Em regra, os juros remuneratórios são pactuados entre as partes, dependendo o seu reconhecimento e execução de pedido e condenação expressos e, diferentemente dos juros moratórios, escapam à cognição de ofício pelo juiz.
+4- Inexistindo pedido e condenação explícitos acerca dos juros remuneratórios, não é possível concluir terem sido estes abarcados por pedido feito em ação anterior, já transitada em julgado, a qual discutiu apenas a abusividade na cobrança de tarifas constantes de contrato bancário.
+5- Na hipótese dos autos, constata-se, do pedido formulado na primeira demanda, que não houve requerimento explícito quanto aos juros remuneratórios, relacionando-se a ação, já transitada em julgada, única e exclusivamente à declaração e repetição em dobro dos valores pagos em virtude de cláusulas contratuais alegadamente abusivas.
+6- A eficácia preclusiva da coisa julgada não se opera na hipótese dos autos, uma vez que, para além da inexistência de identidade entre os pedidos, não busca o autor, utilizando a mesma causa de pedir, alcançar posicionamento diverso daquele obtido na primeira ação, não sendo os pedidos inconciliáveis, razão pela qual se afasta o disposto no art. 508 do CPC/2015.
+7- É possível o ajuizamento de nova ação para pleitear, exclusivamente, a restituição de juros remuneratórios pagos que não foram requeridos em anterior ação.
+8- Recurso especial não provido.
+No caso dos autos, a Corte local consignou expressamente que o pedido e a causa de pedir das duas demandas são iguais na medida em que, na primeira ação, foi formulado o requerimento de devolução dos valores cobrados a título de juros remuneratórios incidentes sobre a tarifa considerada ilegal, conforme se extrai do excerto transcrito:
+Cinge-se a controvérsia trazida no recurso em verificar se há correlação entre o pedido formulado nos presentes autos e parte daquele deduzido em ação anterior ajuizada no âmbito do Juizado Especial.
+Analisando o caderno processual, verifico a existência da tríplice identidade de elementos entre as duas ações, uma vez que a causa de pedir e o pedido de ambas se assemelham, porquanto a discussão diz respeito aos juros contratuais incidentes sobre tarifas que, outrora, foram analisadas perante o Juizado, caracterizando, assim, a ocorrência da coisa julgada.
+Confira-se trecho final da exordial protocolizada no Juizado Especial (negritei):
+" ..  Pede que Vossa Excelência julgue totalmente procedente o pedido autoral, para condenar a promovida ao pagamento da quantia no valor de R$2.511,86 (dois mil, quinhentos e onze reais e oitenta e seis centavos), correspondentes ao pagamento da quantia indevida, bem como acréscimos referentes a mesma, sendo corrigidos pelos mesmos índices aplicados pela instituição ré, devendo recair sobre o quantum fixado juros moratórios e correção monetária a partir da data do efetivo prejuízo, conforme as Súmulas 43 e 54 do STJ;".
+Como se mostra clara a pretensão do autor, no sentido de que lhe fossem restituídas, além dos valores das tarifas, a quantia correspondente à sua correção pelos mesmos índices adotados pelo banco réu, ou seja, pelos mesmos juros do contrato, equivale exatamente à pretensão de receber o valor das obrigações acessórias, objeto desta ação.
+Trata-se, portanto, do mesmo pedido, porém formulado com outra semântica.
+Assim, entendo que, do julgamento da ação firmada no âmbito do Juizado Especial Cível, as obrigações acessórias também foram abrangidas, assim como a nulidade das taxas. Desse modo, tendo o julgador manifestado decisão acerca das obrigações acessórias, operou-se a coisa julgada em relação a todo o objeto da petição inicial.
+À luz disso, é inconteste que as obrigações acessórias, único objeto do presente litígio, encontram-se abarcadas por pedido irrecorrivelmente já sentenciado e, portanto, protegido pelo manto da coisa julgada material, o que impede a admissibilidade da lide aqui deduzida (e-STJ, fl. 142 - com destaque no original).
+Assim, assentada a existência de identidade entre o pedido, a causa de pedir e as partes, revela-se inviável afastar a conclusão do Tribunal paraibano de que não incide a coisa julgada sem o revolvimento do contexto fático-probatório, tendo em vista o óbice da Súmula nº 7 do STJ, conforme o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TÍTULO JUDICIAL. SENTENÇA PROFERIDA EM AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. LITISPENDÊNCIA. NÃO OCORRÊNCIA. PRESCRIÇÃO. AFASTAMENTO. COISA JULGADA. AFERIÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CONDENAÇÃO MANTIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do § 1º do art. 301 do Código de Processo Civil de 1973, verifica-se a litispendência quando se reproduz ação anteriormente ajuizada, sendo certo que uma ação é idêntica à outra, segundo o disposto no § 2º do mesmo preceito legal, quando têm as mesmas partes, a mesma causa de pedir e o mesmo pedido. Hipótese não ocorrente na espécie.
+3. Não se verifica a prescrição de que tratava o art. 100, I, da Lei nº 4.215/1963 (antigo Estatuto da Ordem dos Advogados do Brasil) se no interregno verificado entre o encerramento dos serviços prestados e o ajuizamento da ação de arbitramento de honorários não transcorreu prazo superior a 5 (cinco) anos.
+4. O acolhimento da pretensão recursal no tocante à alegação de ofensa à coisa julgada e de ausência de título judicial capaz de garantir o prosseguimento da execução demandaria o reexame de matéria fática e das demais provas constantes dos autos, atraindo o óbice da Súmula nº 7/STJ.
+5. Hipótese em que a aplicação da pena de litigância de má-fé vem calcada não apenas na nítida intenção da agravante de se esquivar da obrigação que lhe foi imposta, suscitando teses jurídicas sem nenhum respaldo legal, mas também no seu comportamento malicioso.
+Manutenção da pena processual.
+6. Agravo interno não provido.
+(AgInt no REsp 1418133/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 27/02/2018, DJe 08/03/2018)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRTIA. JUROS RENUBERATÓRIOS INCIDENTES SOBRE TARIFAS BANCÁRIAS CONSIDERADAS ILEGAIS EM DEMANDA PRETÉRITA. AFRONTA À COISA JULGADA. NECESSIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO IDÊNTICOS NAS DEMANDAS. EXISTÊNCIA. REANÁLISE. IMPERATIVO REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
