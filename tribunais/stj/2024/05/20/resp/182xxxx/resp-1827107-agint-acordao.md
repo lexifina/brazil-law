@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça (STJ), não se conhece do agravo interno que não rebate todos os fundamentos da decisão que, nesta instância, não conheceu do recurso.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUCIANA CASTRO BUZZINI e OUTROS contra a decisão de minha relatoria em que não conheci de seu recurso (fls. 470/474).
+Em suas razões recursais (fls. 478/492), a parte agravante alega, em síntese, que:
+(i) " ..  não há qualquer vício recursal a ser imputado aos AGRAVANTES, na medida em que todos os fatos e fundamentos que assentam a conclusão do acórdão recorrido foram integralmente combatidos.
+A determinação do regular prosseguimento do feito executivo para a pessoa jurídica, nada mais é do que o efeito do julgamento da instância a quo que anulou a sentença para declarar que não há nulidade nas CDA e que, portanto, a cobrança lastreada nesses títulos poderia prosseguir" (fl. 481); e
+(ii) "Ocorre, todavia, que o recurso especial não encontra óbice na Súmula 07, já que o que se pretende nessa via é a valoração jurídica acerca de fato incontroverso: nulidade insanável decorrente da inclusão indevida dos nomes dos AGRAVANTES nas CDA que amparam a execução fiscal, diante de circunstância da inexistência de procedimento regular de atribuição de responsabilidade tributária (seja na esfera administrativa, seja na esfera judicial),conforme reconhecido pelo próprio AGRAVADO -fls.295e confirmado em sentença e acórdãos das instâncias a quo" (fl. 483).
+Requer o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+A parte adversa apresentou impugnação (fls. 496/517)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça (STJ), não se conhece do agravo interno que não rebate todos os fundamentos da decisão que, nesta instância, não conheceu do recurso.
+2. Agravo interno não conhecido.
+VOTO
+A decisão agravada não conheceu do recurso pelos seguintes fundamentos (fls. 471/472):
+Os recorrentes, sócios da empresa executada, constam na CDA como responsáveis pela empresa, e não como parte na execução. Sobre essa questão, decidiu o Tribunal de origem que a indicação dos recorrentes é mero erro material que pode ser corrigido de ofício, não ensejando, portanto, riscos à constrição de seu patrimônio:
+Observo que a primeira autuação dos autos (folha n. 1) traz como Exequente o Município de São José do Rio Preto e como Executada GRÁFICA DA REGIÃO LTDA - distribuição livre em 30 de julho de 2014, sem que tenha havido determinação para inclusão dos sócios no polo passivo da execução, embora constem os nomes nas respectivas Certidões da Dívida.
+Assim, é executada Gráfica da Região Ltda,-incorporada por Empresa de Publicidade Rio Preto Ltda - Diário da Região, nova denominação da executada, conforme se verifica na defesa apresentada no Procedimento Administrativo de fl. 135 e seguintes.
+Não obstante o equivoco ocorrido, porque não determinada a inclusão dos sócios no polo passivo, embora incidentes na CDA como responsáveis tributários, trata-se de mero erro material corrigível de ofício, não havendo que se falar em nulidade das Certidões de Dívida.
+Aliás, noto que já havia se manifestado a Fazenda Pública nesse sentido conforme requerimento de fl.290 acompanhada da exposição de motivos e requerimento elaborado na Execução Fiscal n. 0023685-06.2013.8.26.0576 entre as mesmas partes fl. 292.
+A cobrança é devida, conforme apurado em procedimento administrativo acompanhado por representante da excipiente. A impugnação apresentada no procedimento administrativo foi feita pelo sócio Norberto Buzzini (conforme se verifica a fl.15 e demais), nada havendo que justifique declarar nula a Certidão de dívida. Destarte, anulo de ofício a decisão guerreada e determino a remessa dos autos ao d. Juiz de primeiro grau para prosseguimento da execução, devendo, na oportunidade, ser observada a conveniência do pedido contido no item "b" da objeção - fl.258, bem como a correta autuação dos autos em razão da incorporação da autuada - fl. 19. (..) (fls. 343/344).
+Em seu recurso especial, os recorrentes pretendem demonstrar que a inclusão de seus nomes na CDA é indevida. Afirmam que a CDA não pode ser alterada "ao bel-prazer" da administração e que deve passar pelo crivo do controle de legalidade.
+Percebo haver deficiência na fundamentação do recurso, porquanto foi determinado pelo Tribunal de origem o prosseguimento da execução contra a pessoa jurídica.
+A ausência de dialeticidade do recurso impede o seu conhecimento, conforme preceitua a Súmula 283 do Supremo Tribunal Federal.
+Acrescento que proferir entendimento diverso acerca da nulidade da certidão de dívida ativa realizada pelo Tribunal de origem implicaria, necessariamente, o reexame de contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no caso em questão a Súmula 7 do STJ, segundo "a qual a pretensão de simples reexame de prova não enseja recurso especial".
+Em seu agravo interno, a parte recorrente insiste que (fls. 481/484):
+Veja-se que a discussão trazida aos autos versa exatamente sobre a ocorrência de nulidade nas CDA mediante a inclusão indevida dos AGRAVANTES como responsáveis tributários, sem observância de procedimento administrativo prévio. Ou seja, verifica-se a constituição de títulos executivos que não refletem o ato administrativo que os antecedeu (fato que, conforme será visto a seguir, é incontroverso).
+Nesse sentido, os AGRAVANTES, pessoas físicas, que originalmente apresentaram a exceção de pré-executividade, discutiram e permanecem discutindo a nulidade na constituição das CDA, o que, se acolhido, impedirá o prosseguimento da ação e levará a extinção do feito executivo (para todas as partes envolvidas).
+É importante esclarecer que a pessoa jurídica nunca foi arrolada como parte nos recursos ou defesas movidos pelos AGRAVANTES, já que o vício aqui discutido e apontado nas CDA está relacionado à circunstância de imputação de responsabilidade tributária de forma indevida, o que resulta no reconhecimento da ilegitimidade em figurarem no referido título executivo.
+ ..
+No presente caso, não se faz necessário o revolvimento do conteúdo das CDA, mas tão somente a valoração dos critérios jurídicos do posicionamento adotado no acórdão recorrido que levou à conclusão da suposta validade dos títulos executivos.
+Nesse sentido, evidencia-se, mais uma vez, que o Tribunal a quo reputou válidas as CDA combatidas, por entender que a inclusão dos AGRAVANTES seria mero erro material corrigível de ofício.
+ ..
+Não há dúvidas sobre o seguinte fato: as CDA não espelham o procedimento administrativo de constituição do crédito tributário -esse é o fato incontroverso que, no sentir dos AGRAVANTES, enseja na nulidade dos títulos executivos; de outro lado, o acórdão recorrido, em que pese reconhecer essa circunstância, reputa que é mero vício formal, apto a ser suprido.
+Assim, o recurso especial pretende que seja revisado o posicionamento a quo através da interpretação jurídica acerca desse fato incontroverso, à luz da jurisprudência dessa Egrégia Corte, sendo desnecessária o reexame de fatos e provas.
+Como se vê, a parte agravante, no recurso ora examinado, não refuta as razões expostas na decisão que visa a impugnar, apenas insiste nos argumentos anteriores .
+Ademais, inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+V. Agravo interno improvido.
+(AgInt no AREsp n. 1.223.898/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2018, DJe de 27/3/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 7 E 182 DO STJ.
+1. A insurgente não impugnou, de forma precisa, os fundamentos da decisão impugnada em relação à aplicação da Súmula 7/STJ, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+3. Ainda que assim não fosse, decidir de forma contrária ao acórdão recorrido demandaria necessariamente o reexame de matéria fática, o que encontra óbice na Súmula 7 desta Corte Superior.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.067.725/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe de 20/10/2017.)
+Por esse motivo, aplico ao presente caso a Súmula 182 do Superior Tribunal de Justiça , segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo interno.
+É o voto.
