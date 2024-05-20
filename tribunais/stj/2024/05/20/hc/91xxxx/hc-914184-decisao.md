@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Luciano Franklin Seixas contra o ato coator proferido pela Terceira Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios que, nos autos do HC n. 0712035-2024.8.07.0000, denegou a ordem, mantendo em curso a ação penal pela suposta prática de conduta descrita no art. 136, § 2º, do Código Penal (Autos n. 0704803-97.2020.8.07.0006, Vara Criminal de Sobradinho/DF).
+A defesa alega, em síntese, que o inquérito e relatório policial indiciou o paciente Dr. Luciano Franklin Seixas (médico) por homicídio culposo em um procedimento de Endoscopia, sendo que a denúncia feita pelo Ministério Público traz o delito depor maus "tratos com resultado morte pela omissão com dolo eventual", estando totalmente ausente o elemento subjetivo do tipo (fl. 4).
+Sustenta que as informações constantes da inicial não são verídicas, pois o paciente realizou análise preliminar e documental, considerando as comorbidades e medicações, bem como o histórico de câncer e de tabagismo, informando sobre os riscos do procedimento.
+Afirma que a imputação não deve prosperar, devendo a imputação ser tranca da.
+Aduz que o dolo eventual não existiu, pois a conduta adotada pelo paciente buscou afastar o resultado.
+Argumenta que a dose ministrada do medicamente foi a correta, prevista na bula.
+Menciona que o paciente foi absolvido no Conselho Regional de Medicina.
+Destaca não haver nexo de causalidade entre a conduta e o resultado, não sendo possível gerar a responsabilização do médico, sob pena de criminalização da própria medicina.
+Pede a concessão da ordem para trancar a ação penal (fls. 3/21).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+No que concerne ao pedido de trancamento da ação penal, destaque-se que a providência perseguida somente é possível, na via estreita do habeas corpus, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito (AgRg no RHC n. 122.377/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/9/2020).
+E, conforme exposto no acórdão, a despeito de ser exigida, no art. 41 do Código Penal, a capitulação penal da conduta imputada, o réu se defende dos fatos, cabendo o controle dessa classificação ao juiz no momento da prolação da sentença, por meio da mutatio libelli ou ementatio libelli, arts. 383 e 384 do Código de Processo Penal.
+Em reforço:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA.
+1. O Regimento Interno do Superior Tribunal de Justiça autoriza o relator a decidir o recurso quando manifestamente inadmissível, prejudicado ou quando a decisão recorrida contrariar a jurisprudência desta Corte Superior, como ocorreu no caso, inexistindo prejuízo à parte, já que dispõe do respectivo regimental, razão pela qual não se configura ofensa ao princípio da colegialidade.
+CRIME DE RESPONSABILIDADE (DECRETO-LEI N. 201/1967). INÉPCIA DA DENÚNCIA. VIOLAÇÃO DO ART. 41 DO CÓDIGO DE PROCESSO PENAL. NEGATIVA DE VIGÊNCIA DO ART. 395 DO CPP. NÃO OCORRÊNCIA. DESCRIÇÃO SUFICIENTE DOS FATOS DELITIVOS IMPUTADOS. ASSEGURADO O EXERCÍCIO DO CONTRADITÓRIO E DA AMPLA DEFESA. RÉU SE DEFENDE DOS FATOS E NÃO DA CAPITULAÇÃO JURÍDICA. ART. 383-CPP. AGRAVO DESPROVIDO.
+1. A leitura da denúncia é suficiente para afastar a pecha de inépcia. Segundo a inicial acusatória, de setembro de 2014 a fevereiro de 2017, o recorrente, agindo na qualidade de Prefeito do Município de Coração de Maria, na Bahia, descontou 1,5% a título de contribuição sindical do salário de cada servidor municipal da área de Educação, sem, no entanto, repassar os valores ao Sindicato dos Trabalhadores em Educação do Estado da Bahia (APLB). Consoante a denúncia, apesar de vários ofícios do Sindicato cobrando as contribuições descontadas nos dezoito meses e do ajuizamento de ação de cobrança n. 000.780-30.2014.805.0067, o recorrente não restituiu os valores, o que demonstraria a intenção de apropriação (animus rem sibi habendi).
+2. Não há falar em inépcia da exordial acusatória, ante a adequada exposição dos fatos delituosos imputados ao réu, assim como as suas circunstâncias e a qualificação da parte.
+DESCLASSIFICAÇÃO DA IMPUTAÇÃO. MATÉRIA NÃO DEBATIDA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. É Inviável, neste Sodalício, a apreciação de matéria que não foi debatida nas instâncias de origem, ante a indispensabilidade de prequestionamento dos temas recursais e o óbice previsto no Enunciado n. 211 da Súmula deste Superior Tribunal de Justiça.
+2. O réu se defende dos fatos e não da capitulação legal trazida pelo órgão acusador na denúncia, de modo que o momento adequado para o ajuste da tipificação é o da prolação da sentença, porquanto o juiz, após percuciente análise dos fatos e provas carreados aos autos, poderá entender que o fato criminoso descrito na inicial acusatória merece outra definição jurídica, aplicará a correta tipificação penal para conduta analisada.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.565.102/BA, Ministro Jorge Mussi, Quinta Turma, DJe 19/2/2020).
+Por essa razão, o fato descrito na denúncia deve ser patentemente atípico, o que não é o caso dos autos. A inicial descreve, de modo satisfatório, fatos que, em tese, podem vir a configurar crime, como ministrar medicamento em dose superior à indicada, causando a morte da vítima.
+As questões de ordem probatória, nessa fase de recebimento da denúncia, são analisadas sob o filtro da justa causa. E, nesse ponto, o habeas corpus não se apresenta como via adequada ao trancamento da ação penal, quando o pleito se baseia em falta de justa causa (ausência de suporte probatório mínimo à acusação), não relevada, primo oculi. Intento que demanda revolvimento fático-probatório, não condizente com a via restrita do writ (HC n. 412.093/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/10/2017).
+Assim, as análises acerca do dolo ou da observância do procedimento adequado, ou da ministração adequada dos anestésicos remetem ao juízo da ação penal, sede da produção probatória.
+Ausente flagrante ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ART. 136, § 2º, DO CP. DOLO EVENTUAL. PEDIDO DE TRANCAMENTO DA AÇÃO. AUSÊNCIA DAS HIPÓTESES AUTORIZATIVAS. CLASSIFICAÇÃO DA CONDUTA IMPUTADA. CONTROLE JUDICIAL NO MOMENTO DA SENTENÇA. AUSÊNCIA DE DOLO. FALTA DE PROVAS. AUSÊNCIA DE JUSTA CAUSA. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+Writ indeferido liminarmente.
