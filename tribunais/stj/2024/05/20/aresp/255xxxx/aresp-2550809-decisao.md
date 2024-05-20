@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDAÇÃO CESP contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 215):
+Obrigação de fazer - Pretensão de migração para plano inferior- Sentença de improcedência - Recurso da autora - Ainda que os planos de autogestão não se submetam ao Código de Defesa do Consumidor, é preciso reconhecer a fragilidade da beneficiária, sobretudo em decorrência de sua idade avançada, e observar a função social do contrato - A condição de designada responsável há mais de 7 anos equipara a parte ao titular inicial. Reconhecido o direito ao downgrade, qualquer obstáculo contratual deve ser tido por abusivo. RECURSOPROVIDO.
+Rejeitados os embargos de declaração (fls. 281-285).
+No recurso especial, alega a recorrente afronta ao art. 422 do Código Civil, ao se insurgir contra o entendimento do Tribunal de origem de que é abusiva a cláusula que crie dificuldades para efetivação do downgrade de plano de saúde em questão no caso dos autos.
+Sustenta que existe cláusula contratual vigente e plenamente válida que impede a migração da autora, ora recorrida, para o plano pleiteado, pois os planos de saúde geridos sob o sistema de autogestão devem receber tratamento diferenciado.
+Aduz que a adesão/migração do designado está condicionada à existência do participante titular em um dos planos de saúde para o qual a empresa empregadora mantém convênio de adesão.
+Contrarrazões ao recurso especial (fls. 288-293).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 256-257), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo (fl. 267).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, verifica-se que, no caso dos autos, o Tribunal de origem entendeu, com base no conjunto probatório dos autos, e em cláusulas do contrato firmado entre as partes, que, possuindo a recorrida o direito ao downgrade de plano de saúde em questão, é abusiva a cláusula que crie dificuldades para sua efetivação, em inobservância à função social do contrato. Confira-se o seguinte excerto do voto condutor (fls. 216-219):
+O reajuste operado em janeiro de 2022 tornou a manutenção do contrato existente insustentável, o que motivou a busca de categoria inferior, com custos menores para realizar a migração. Foi informada sobre a possibilidade de transferência para a modalidade Essência, cujo preço era compatível com sua renda mensal. Ao manifestar interesse em proceder a alteração, recebeu a informação de que o antigo titular de seu plano deveria que retornar aos quadros da empresa e permanecer por ao menos dois meses.
+Apesar de os planos de saúde de autogestão não se submeterem ao Código de Defesa do Consumidor, é preciso analisar a situação sob o prisma da vulnerabilidade e hipossuficiência da beneficiária, que, além de ter assinado contrato de adesão, é pessoa idosa, a quem se dificulta demasiadamente o ingresso em novos contratos de plano de saúde.
+Assim, o item 2.5.7 do regulamento do plano, ao prever a possibilidade de assunção de responsabilidades pelo plano a um responsável designado em caso de retirada do titular original, mas impede esse designado de migrar para outros planos da carteira da administradora deve ser considerada abusiva.
+No caso em análise, a parte autora figura como designada responsável há mais de sete anos, apesar de denominação diversa, na prática atua como titular do plano e a ela devem ser garantidas as mesmas prerrogativas do original. Exigir o retorno do cunhado da peticionária aos quadros do plano para que o downgrade possa se realizar é criar obstáculos para a migração pretendida. A Prática fere a função social do contrato, sobretudo em razão da idade elevada da beneficiária, que ficaria descoberta e teria imensa dificuldade em aderir a plano novo de operadora diversa.
+Não se vislumbra prejuízos a requerida que possam justificar a criação de óbices para a alteração pleiteada - a segurada se manteve adimplente desde que assumiu a condição de responsável e a redução do preço pago se dará em função da redução de oferta e condições de cobertura, mantendo o equilíbrio do contrato.
+(..)
+Reconhecido o direito ao downgrade, cláusulas que criem dificuldades para sua efetivação devem ser consideradas abusivas.
+Dessa forma, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso as Súmulas n. 5 e 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se, também, o entendimento desta Corte que veda cláusulas contratuais, previamente estabelecidas, que venha a permitir práticas abusivas e ilegais:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. EX-EMPREGADO DEMITIDO. DIREITO DE MANUTENÇÃO. PRAZO MÁXIMO DE 24 MESES. ART. 30, § 1º, DA LEI N. 9.656/1998. BENEFICIÁRIA EM TRATAMENTO MÉDICO GARANTIDOR DA SOBREVIVÊNCIA. INTERRUPÇÃO. DESCABIMENTO. DECISÃO MANTIDA.
+1. "Em se tratando de contrato coletivo de plano de saúde, mesmo não sendo aplicável o art. 13 da Lei 9.656/1998, as cláusulas previamente estabelecidas não podem proteger práticas abusivas e ilegais, como seria a do cancelamento promovido no momento em que o segurado mais necessita da cobertura, por estar em tratamento de doença grave" (AgInt no REsp 1.954.897/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe 1º/2/2022).
+2. "Referida conclusão se impõe mesmo quando esgotado o prazo a que se refere o art. 30, § 1º, da Lei 9.656/98" (AgInt no REsp n. 1.942.086/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023).
+3. A análise de suposta violação de dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.272.164/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. PRETENSÃO DE MIGRAÇÃO PARA PLANO INFERIOR. RECONHECIDO O DIREITO. CLÁUSULA IMPEDITIVA ABUSIVA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
