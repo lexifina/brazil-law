@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do recurso especial em razão do óbice da Súmula n. 7/STJ, pois consignou a necessidade de reexame do acervo fático-probatório, bem como a deficiência do cotejo analítico no dissídio jurisprudencial e a ausência de similitude fática.
+2. Os argumentos utilizados na decisão recorrida para não conhecer do recurso especial não foram objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, § 1º, do CPC.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PRESTES CONSTRUTORA E INCORPORADORA LTDA. contra decisão monocrática da Presidência do STJ por meio da qual foi aplicada a Súmula n. 7 do STJ, e atestou a deficiência no cotejo analítico, bem a ausência de similitude fática n o dissídio jurisprudencial suscitado.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 418-430):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. VÍCIOS DE CONSTRUÇÃO. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS INICIAIS. CONDENAÇÃO DA RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM FAVOR DA AUTORA. RECURSO DA RÉ. PRELIMINARES. INÉPCIA DA INICIAL. NÃO CONHECIMENTO. AUSÊNCIA DE DIALETICIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DE DESIGNAÇÃO DE AUDIÊNCIA CONCILIATÓRIA. NÃO OBRIGATORIEDADE. PRELIMINAR REJEITADA. MÉRITO. PEDIDO DE AFASTAMENTO DA RESPONSABILIDADE CIVIL. TESE "DUTY TO MITIGATE THE LOSS". DANOS QUE SERIAM DECORRENTES DA AUSÊNCIA DE MANUTENÇÃO PREVENTIVA PELA PROPRIETÁRIA. NÃO PROVIMENTO. LAUDO QUE DENOTOU VÍCIOS CONSTRUTIVOS. RESPONSABILIDADE CIVIL OBJETIVA DA CONSTRUTORA. ART. 12 DO CDC. PEDIDO DE EXCLUSÃO DO INDÍCE BDI PARA APURAÇÃO DA VERBA INDENIZATÓRIA. IMPOSSIBILIDADE. ÍNDICE QUE PROPORCIONA REPARAÇÃO INTEGRAL. INTELIGÊNCIA DO ART. 944 DO CPC. PRECEDENTES DO TJPR. INDENIZAÇÃO POR DANO MORAL. SITUAÇÃO QUE EXTRAPOLOU O MERO ABORRECIMENTO COTIDIANO. MÁ EXECUÇÃO DA OBRA QUE RESULTOU EXISTÊNCIA DE DIVERSOS VÍCIOS CONSTRUTIVOS EM MORADIA DE PROGRAMA VOLTADO À POPULAÇÃO CARENTE. CIRCUNSTÂNCIA DE EXTREMA RELEVÂNCIA. QUANTIA FIXADA EM R$ 15.000,00 (QUINZEMIL REAIS) QUE NÃO SE REVELA EXORBITANTE, CONSIDERANDO AS CARACTERÍSTICAS ESPECÍFICAS DO CASO. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. HONORÁRIOS ADVOCATÍCIOS MAJORADOS EM GRAU RECURSAL. ART. 85, §11º, DO CPC. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Nas razões do agravo interno, o agravante aduz que "apresentou Agravo em Recurso Especial impugnando especifica e expressamente cada uma das alegações, esclarecendo os pontos que merecem reparo" (fl. 604).
+Alega que o "Recurso Especial interposto pela Agravante impugna a violação das normas federais, no julgamento da ação indenizatória de vícios construtivos, porém foi rechaçado em razão da suposta ausência de atendimento dos requisitos para análise pela Corte Superior" (fl. 605).
+Pugna, por fim, pelo conhecimento e provimento do agravo interno para posterior conhecimento e provimento do recurso especial.
+A parte agravada não apresentou contrarrazões.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do recurso especial em razão do óbice da Súmula n. 7/STJ, pois consignou a necessidade de reexame do acervo fático-probatório, bem como a deficiência do cotejo analítico no dissídio jurisprudencial e a ausência de similitude fática.
+2. Os argumentos utilizados na decisão recorrida para não conhecer do recurso especial não foram objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, § 1º, do CPC.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada não conheceu do recurso especial em razão do óbice da Súmula n. 7/STJ, em razão da deficiência no cotejo analítico do suscitado dissídio jurisprudencial, bem como pela ausência de similitude fática, nos seguintes termos (fls. 594-598):
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+ ..
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Além disso, quanto à alínea "c", não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o(s) paradigma(s) indicado(s), não bastando, portanto, a mera transcrição de ementas ou votos.
+Com efeito, o Superior Tribunal de Justiça já decidiu: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório". (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 05/04/2019.)
+Ainda nesse sentido: "A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal". (AgInt no REsp n. 1.903.321/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/03/2021.)
+Confiram-se também os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020; AgInt no AREsp n. 1.568.037/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/05/2020; AgInt no REsp n. 1.886.363/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/04/2021; AgRg no REsp n. 1.857.069/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 05/05/2021.
+Por fim, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+ ..
+Com efeito, o agravo interno não merece conhecimento, porquanto os fundamentos utilizados na decisão recorrida para não conhecer do recurso especial - incidência da Súmula n. 7/STJ, deficiência no cotejo analítico do suscitado dissídio jurisprudencial, e a ausência de similitude fática - não foram objeto de impugnação nas razões recursais.
+Desse modo, forçosa é a incidência do disposto nos arts. 932, III, e 1.021, § 1º, do CPC, segundo os quais não se conhece do recurso que não ataca especificamente os fundamentos da decisão recorrida nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ ..
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Assim, a ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir, na espécie, por analogia, os preceitos da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se estes julgados:
+II - Razões de agravo interno que apresentam combate genérico aos fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+(AgInt no AREsp n. 2.077.483/GO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/9/2022.)
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+(AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.)
+1. Segundo previsto no art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante atacar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 2.066.383/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/9/2022.)
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.960.887/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
