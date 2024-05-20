@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO DOS SANTOS FREITAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Na hipótese, depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto no artigo 33, caput, da Lei n. 11.343/06.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado: (fl. 41)
+"(..) HABEAS CORPUS - Tráfico de droga- Alegação de invasão de domicílio. Não ocorrência. Não é exigível a apresentação de mandado de busca e apreensão para o ingresso no local, uma vez que a prisão em flagrante se deu por crime permanente -O trancamento da ação penal só tem cabimento na via estreita do habeas corpus quando demonstrada, de plano e inequivocadamente, atipicidade da conduta, causa de extinção da punibilidade ou evidente ausência de justa causa, o que não ocorre na espécie- O paciente foi cientificado de seus direitos constitucionalmente previstos -Eventual irregularidade ocorrida na prisão em flagrante fica superada em razão da decretação da prisão preventiva, mesmo que esta fosse revogada posteriormente Insuficiência de medidas cautelares alternativas. Condições pessoais favoráveis não têm o condão, de per se, ensejar a liberdade -Descabe na estreita via do habeas corpus análise aprofundada de prova (sobre, por exemplo, se a confissão do paciente se deu em ambiente intimidatório), porquanto incompatível com o rito célere do writ Ausência de comprovação inequívoca de que o paciente é o único responsável, ou imprescindível, aos cuidados de seus filhos menores de 12 anos de idade - ORDEM DENEGADA. (..)"
+Alega constrangimento ilegal e falta de fundamentação idônea à manutenção da segregação cautelar.
+Requer a concessão da ordem liminarmente, com a confirmação no mérito, para que a prisão preventiva seja revogada, subsidiariamente, a substituição da prisão preventiva pela domiciliar.
+Liminar indeferida, às fls. 168-170.
+Informações prestadas às fls. 176-205 e 206-261.
+O Ministério Público Federal, às fls. 265-269, em parecer, manifestou-se pela denegação da ordem, assim ementado:
+HABEAS CORPUS. TRÁFICO DE DROGAS. TRANCAMENTO DE AÇÃO PENAL. ALEGAÇÃO DE FALTA DE JUSTA CAUSA. BUSCA E APREENSÃO. AUSÊNCIA DE MANDADO. NÃO CONFIGURAÇÃO. CRIME PERMANENTE. FLAGRANTE. EXCEÇÃO À INVIOLABILIDADE DE DOMICÍLIO. ART. 5º, XI, DA CONSTITUIÇÃO FEDERAL. PRISÃO PREVENTIVA. REQUISITOS. ARTIGO 312, CPP. GARANTIA DA ORDEM PÚBLICA. GRANDE QUANTIDADE DE ENTORPECENTES.1.
+O trancamento da ação penal por meio do habeas corpus é medida excepcional, só admissível se emergente dos autos, de forma inequívoca, a ausência de indícios de autoria e de prova da materialidade delitiva, a atipicidade da conduta ou a extinção da punibilidade, o que não ocorre na espécie.2.
+É dispensável o mandado de busca e apreensão quando se trata de flagrante de crime permanente, podendo-se realizar a prisão sem que se fale em ilicitude das provas obtidas. Doutrina. Precedentes do STJ e do STF.3. A decisão que decretou a prisão preventiva do paciente encontra-se suficientemente fundamentada na garantia da ordem pública, destacando-se a gravidade concreta do delito e a periculosidade social do agente envolvido, bem demonstradas pelas circunstâncias em que ocorridos os fatos criminosos e pelos motivos que os determinaram.4. Parecer pela denegação da ordem de habeas corpus.
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SP-, na data de hoje, foi remetida ao DJE em 08/01/2024, sentença, com a condenação do Paciente, logo, há um novo título judicial que deva ser desafiado por meio judicial próprio.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
