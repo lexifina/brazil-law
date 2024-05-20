@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECUR SO ESPECIAL. PROCESSO CIVIL. OMISSÃO. INEXISTÊNCIA. M ER O INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJE ITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CARLOS PIRES e OUTROS contra acórdão da relatoria da Ministra Assusete Magalhães que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fls. 510-511):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR ESTADUAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA MANDAMENTAL COLETIVA. ADICIONAL DE LOCAL DE EXERCÍCIO. INEXEQUIBILIDADE DO TÍTULO EM CUMPRIMENTO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. PRECEDENTE DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Cumprimento Individual de Sentença proferida nos autos de Ação de Cobrança em que se buscava o recebimento das parcelas imprescritas decorrentes de direito reconhecido em Mandado de Segurança impetrado pela Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo (AORRPM), qual seja, a incorporação do ALE aos proventos e pensões (Proc. 0600592-55.2008.8.26.0053).
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, manteve a sentença que julgou extinto o cumprimento de sentença, ao fundamento de que, diante do acórdão da 7ª Câmara de Direito Público do Tribunal de origem, proclamando que o Adicional de Local de Exercício não se estende aos inativos e pensionistas, inexiste lugar para a pretensão jurissatisfativa. Tal entendimento, firmado pelo Tribunal a quo, no sentido da inexequibilidade do título em cumprimento, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedente: STJ, AgInt no AREsp 1.969.348/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 21/09/2022.
+IV. Agravo interno improvido.
+Nestes embargos, a parte recorrente requer seja reconhecido o suposto "erro de fato que veio a subsidiar uma conclusão, salvo melhor juízo, equivocada do v. acórdão embargado" (fl. 540).
+Argumenta que não incide, na hipótese, o óbice da Súmula n. 7 do STJ, pois não se busca a "revisão de premissas fáticas adotadas pela E. Corte de Origem, mas tão somente a anulação de aresto que subjuga a legislação federal invocada, ao autorizar a desconstituição do título executivo fora das hipóteses legais" (fl. 540).
+Requer o acolhimento dos embargos para que sejam sanados os vícios apontados.
+Não houve impugnação (fls. 548 e 549).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECUR SO ESPECIAL. PROCESSO CIVIL. OMISSÃO. INEXISTÊNCIA. M ER O INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJE ITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Sem razão a parte embargante.
+No acórdão embargado, foi mantido o não conhecimento do recurso especial diante da incidência do óbice da Súmula n. 7 do STJ, pois "os argumentos utilizados pela parte agravante somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos" (fl. 528). Outrossim, foram mencionadas inúmeras decisões desta Corte Superior que, no julgamento de feitos análogos ao presente, também aplicaram o referido óbice.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. SERVIDORES PÚBLICOS. POLICIAIS MILITARES. DIFERENÇAS REMUNERATÓRIAS. ADICIONAL DE LOCAL DE EXERCÍCIO - ALE. INCIDÊNCIA DAS SÚMULAS N. 7/STJ E N. 284/STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de cumprimento de sentença, objetivando o cumprimento de obrigação de fazer após trânsito em julgado de ação de cobrança que reconheceu direito a atrasados de adicional de local de serviço - ALE. No Tribunal a quo, julgou-se improcedente o pedido.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Ressalte-se, ainda, que, nos casos de interposição do recurso alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+(..)
+V - Agravo interno improvido (STJ, AgInt no AREsp 1.969.348/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 21/09/2022).
+O acórdão embargado não possui os vícios suscitados pela parte embargante, pois apresentou, com clareza e coerência, os fundamentos que justificaram a sua conclusão no sentido de que o Tribunal de origem decidiu a questão com base no acervo fático-probatóri o dos autos, o que atrai a incidência da Súmula n. 7/STJ.
+No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. A contradição que autoriza a oposição de embargos de declaração é a interna, ou seja, aquela entre proposições do próprio decisum. O descontentamento com a conclusão do julgado não dá ensejo à contradição prevista no art. 1.022, I, do CPC/2015.
+3. O recurso aclaratório não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+4. EMBARGOS DE DECLARAÇÃO REJEITADOS. (EDcl no REsp n. 1.469.545/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. AUSÊNCIA. MULTA POR MANIFESTA INADMISSIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o vício de contradição alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Apesar de o agravo interno questionar decisão fundada em julgamento repetitivo, não está presente o caráter manifestamente improcedente do recurso a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015, pois o decidido no Tema 1.076/STJ foi objeto de recurso extraordinário já admitido como representativo da controvérsia pelo STF.
+4. Embargos de declaração parcialmente acolhidos para retirar a multa imposta, sem conferir efeitos modificativos ao julgado. (EDcl no AgInt no AREsp n. 2.027.989/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Advirto, desde logo, que a nova oposição de aclaratórios com o propósito de reverter o resultado do julgamento poderá ensejar a aplicação de multa, nos termos do art. 1.026, § 2º, do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
