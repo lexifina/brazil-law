@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Rigonato Imóveis e Construções ltda contra acórdão proferido pela Quarta Turma do STJ, de relatoria do e. Min. Raul Araújo, nestes termos sintetizado (e-STJ fl. 354):
+AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. RESCISÃO. CUMPRIMENTO DE SENTENÇA. PENHORA. BEM IMÓVEL. PROPRIEDADE. REGISTRO IMOBILIÁRIO. ART. 1.245 DO CÓDIGO CIVIL DE 2002. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, somente com o registro imobiliário se tem como transmitida a propriedade do imóvel, aperfeiçoando-se, em face de pessoas estranhas à relação contratual originária, a transferência de domínio de imóvel (efeito erga omnes). Precedentes.
+2. Agravo interno a que se nega provimento.
+Esse acórdão foi impugnado em embargos de declaração, os quais foram rejeitados por julgamento assim ementado (e-STJ fl. 382):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+Nos embargos, o recorrente assevera que os tratam de cumprimento de sentença no qual se objetiva a satisfação de crédito. Narra a postulação da penhora de bens não pertencentes ao seu patrimônio pelo embargado, uma vez que esses foram objeto de contrato de compra e venda de terceiros. Afirma declaração do TJDFT pela manutenção da penhora desses bens sob o fundamento de que a propriedade de direitos reais de bens imóveis é transmitida com o registro. Assevera a manutenção do acórdão a quo pelo acórdão ora embargado, no qual o Min. Raul Araújo declarou sintonia entre o entendimento do TJDFT e a jurisprudência do STJ.
+A embargante indica, como paradigmas, os precedentes proferidos no AgInt no AREsp n. 2.023.448/SP e no REsp n. 1.640.698/SP. Como controvérsia, apresenta o seguinte questionamento (e-STJ fl. 399): "É possível ou é indevida a constrição sobre imóvel que, antes da medida constritiva, havia sido objeto de compromisso de compra e venda e não mais integra o patrimônio do devedor, embora sem o devido registro translativo perante o cartório ".
+Não houve apresentação de impugnação.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+Após a apresentação da controvérsia proposta em embargos de divergência e breve relato do processamento dos autos, a parte recorrente indicou paradigmas, mas apenas fez breves transcrições de partes desses acórdãos. Não é possível inferir que a tutela jurídica proferida nesses paradigmas podem ser consideradas idênticas (ou próximas) do caso dos autos.
+Não há, efetivamente, cotejo analítico entre o caso dos autos e os paradigmas apontados. Porém, o cotejo analítico é imprescindível para verificação da efetiva divergência, o qual deve ser formulado nas razões do recorrente nos termos do art. 266, § 4º, do RISTJ e do art. 1.043, § 4º, do CPC/2015. Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AUSÊNCIA SIMILITUDE FÁTICA ENTRE ACÓRDÃO EMBARGADO E PARADIGMA.
+I - Do cotejo entre os fundamentos firmados em ambos os arestos (paradigma e acórdão embargado), constata-se que, não obstante as razões deduzidas pelo embargante, a tese jurídica neles exposta não partiu do mesmo contexto fático.
+II - Com efeito, para a configuração do dissídio jurisprudencial é imprescindível a demonstração tanto da similitude fática quanto da identidade jurídica entre o acórdão embargado e os paradigmas apontados, conforme a pacífica orientação desta Corte Superior, a partir da interpretação do § 4º do art. 1.043 do CPC e do § 4º do art. 266 do Regimento Interno.
+III - No acórdão embargado, foi firmado o entendimento sobre a necessidade de ratificação do recurso especial quando, em juízo de retratação, o Tribunal de origem mantém o julgado, todavia se utilizando de fundamento novo, aplicando, por analogia, a Súmula n. 579/STJ.
+IV - Por sua vez, o acórdão paradigma tratou da desnecessidade de ratificação do recurso especial, porquanto a Corte de origem, ao rejulgar a demanda na forma do art. 543-C, § 7º, II, do CPC, não alterou a conclusão do julgamento anterior.
+V - O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas e jurídicas idênticas.
+VI - Embargos de divergência não conhecidos.
+(EREsp n. 1.493.826/AL, relator Ministro Francisco Falcão, Primeira Seção, julgado em 22/11/2023, DJe de 29/11/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPETÊNCIA INTERNA DO STJ. NATUREZA RELATIVA. PRECLUSÃO. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. INSUFICIÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. DIVERGÊNCIA DE TESES JURÍDICAS. NÃO OCORRÊNCIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. É relativa a competência interna dos órgãos fracionários desta Corte, de modo que deve ser questionada pela parte interessada na primeira oportunidade que tiver para se manifestar nos autos, sob pena de preclusão.
+2. "O dissídio jurisprudencial deve ser demonstrado conforme preceituam os arts. 266, § 4º, do RISTJ e 1.043, § 4º, do CPC, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados" (AgRg nos EREsp 1.842.988/CE, Relator Ministro João Otávio de Noronha, Corte Especial, DJe de 9.6.2021).
+3. Para a configuração da divergência, os acórdãos confrontados devem apresentar similitude de base fática capaz de ensejar decisões conflitantes a propósito da mesma questão jurídica, situação não verificada nos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 2.028.862/PA, relatora Ministra Maria Isabel Gallotti,
+Corte Especial, julgado em 24/10/2023, DJe de 31/10/2023.)
+De fato, a tese do recorrente não indica que a controvérsia decidida pelos paradigmas pode ser considerada semelhante ou idêntica à questão controvertida destes autos de embargos de divergência.
+Assim, ausente a indispensável similitude fática entre os arestos comparados, é firme a jurisprudência da Corte Especial deste Superior Tribunal de Justiça no sentido de que que não podem ser conhecidos os embargos de divergência. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO NÃO DEMONSTRADO. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 315 DO STJ. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Revela-se inviável rever - em embargos de divergência - o conhecimento do recurso, uma vez que o agravo em recurso especial foi improvido em decorrência dos óbices das Súmulas n. 5 e 7/STJ.
+2. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Agravo interno improvido.
+(AgInt nos EAREsp n. 1.880.896/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 7/2/2023, DJe de 10/2/2023.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DIVERGÊNCIA NÃO COMPROVADA. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+2. O acórdão embargado entendeu, conforme remansosa jurisprudência desta Corte e em razão do disposto nos artigos 475-P, II, e 575, II, do CPC, que a execução do julgado deve ser efetuada no mesmo juízo que processou a causa principal, de forma que, tendo havido trânsito em julgado da decisão que definiu a competência da justiça estadual para o julgamento da ação de conhecimento (REsp 183.800/PE), não há como o feito ser deslocado, em sede de execução, para a Justiça Federal, como pretende a recorrente.
+3. Sob a alegação de divergência com o que fora adotado em outros precedentes desta Corte, a embargante defende, em suma, ser da Justiça Federal a competência para julgar a causa em que haja manifesto interesse jurídico e econômico da União, não havendo o que se falar em preclusão da matéria alegada, por ser de ordem pública. Defende, também, a aplicação imediata da Lei n. 9.469/1997.
+4. O alegado dissídio jurisprudencial não foi devidamente comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, haja vista que não foi realizado o devido cotejo analítico, além de que não se vislumbra similitude fática entre o acórdão embargado e os paradigmas, que examinaram a questão sob outro enfoque fático e jurídico e sem alcançar a peculiaridade existente no presente caso, relativa a ocorrência de trânsito em julgado da questão acerca da competência da Justiça Estadual.
+5. Além disso, o acórdão embargado sequer discutiu a tese jurídica relativa à aplicação imediata da Lei n. 9.469/1997, utilizada pela embargante como fundamento para atrair a competência para a Justiça Federal.
+6. Agravo interno não provido.
+(AgInt nos EREsp n. 1.366.295/PE, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 13/12/2022, DJe de 16/12/2022.)
+Ante o exposto, não admito os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. CUMPRIMENTO DE SENTENÇA. CONTRATO DE PROMESSA DE COMPRA E VENDA COM TERCEIROS. NÃO REGISTRO DE IMÓVEIS. LEGALIDADE DE PENHORA.AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA DE COTEJO ANALÍTICO. EMBARGOS DE DIVERGÊNCIA NÃO ADMITIDOS.
