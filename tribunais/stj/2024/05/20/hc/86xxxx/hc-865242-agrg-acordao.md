@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA COMPROVADAS. DOSIMETRIA DA PENA. MINORANTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. No caso, o animus associativo e a estabilidade do vínculo foram demonstrados pelas instâncias ordinárias, sobretudo pela função desenvolvida pelo paciente - "braço direito" do líder do grupo -, atuando como gerente na operacionalização do laboratório clandestino de produção de entorpecentes.
+3. Para entender de forma diversa e afastar a compreensão das instâncias de origem de que o recorrente se associou, com estabilidade e permanência, para o fim de praticar o crime de tráfico de drogas, seria necessário o revolvimento do acervo fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus.
+4. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico. Precedentes.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MESSIAS BARBOSA agrava da decisão de fls. 231-235, em que deneguei o habeas corpus e, por conseguinte, mantive inalterada a reprimenda de 11 anos e 8 meses de reclusão, em regime fechado, mais multa, pela prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+Reitera o agravante, em suas razões recursais, o pleito de absolvição do delito de associação para o tráfico ante a falta de provas suficientes para condenação e a incidência do privilégio no tráfico.
+Requer a reconsideração do decisum ou a submissão do feito a julgamento colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA COMPROVADAS. DOSIMETRIA DA PENA. MINORANTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. No caso, o animus associativo e a estabilidade do vínculo foram demonstrados pelas instâncias ordinárias, sobretudo pela função desenvolvida pelo paciente - "braço direito" do líder do grupo -, atuando como gerente na operacionalização do laboratório clandestino de produção de entorpecentes.
+3. Para entender de forma diversa e afastar a compreensão das instâncias de origem de que o recorrente se associou, com estabilidade e permanência, para o fim de praticar o crime de tráfico de drogas, seria necessário o revolvimento do acervo fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus.
+4. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico. Precedentes.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+I. Delito de associação para o tráfico
+No delito do art. 35 da Lei 11.343/20069, a expressão empregada pelo legislador se refere à associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas.
+Nesse sentido, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo. Para tanto, salientou o Tribunal de origem (fls. 171-175, destaquei):
+DO SEGUNDO RECURSO (MESSIAS, ou "RIBINHA")
+O segundo recorrente, embora não tenha pedido a absolvição quanto ao crime de tráfico de droga, cuja prática confessou espontaneamente em juízo, afirmou não saber que o "rebite" era considerado uma droga e sua comercialização seria crime, isto é, alegou que não tinha ciência da ilicitude de sua conduta. Já quanto ao crime de associação para o tráfico, negou a existência do ânimo de associar-se aos demais réus para tanto.
+Não há como dar-lhe guarida.
+O acusado CREGINALDO, em juízo, afirmou que o apelante foi preso porque estava envolvido com ele no negócio de fabricação de rebites, sendo uma das pessoas que levava as substâncias para o laboratório para fabricação do "rebite", informação que foi reiterada em juízo por FRANCISCO. De se ressaltar que o apelante foi preso em casa, onde estava na companhia de ANTÔNIO EGNALDO e BRÁULIO, sendo que, em sua casa também estava hospedada a pessoa de EDSON, técnico vindo de São Paulo para operar o maquinário no laboratório, mas que, por sorte dele, não estava no local quando os policiais lá chegaram.
+Já a testemunha policial federal EDSON KUHIN, que por quatorze meses investigou a associação para o tráfico dos apelantes, declarou que, no início, pensaram que a quadrilha mexia com cocaína, mas descobriram que, na verdade, tratava de anfetamina, produzida por eles em grande quantidade, destacando que era a maior quadrilha de produção de comprimidos da droga que já teve conhecimento. Afirmou categoricamente que o apelante era o "braço direito de Soares", sendo que fazia de tudo, "armazenagem, organização da produção, acolhia o Edson em Goiânia, acionava Egnaldo para pegar matéria- prima, vendia". Relatou que no dia da prisão, CREGINALDO havia dito que estava precisando produzir e que já havia encomendado a matéria-prima junto a seu sobrinho (Eduardo Zanine) no Paraná.
+Diante disso, o apelante contatou EDSON para que viesse de São Paulo para Goiânia, a quem buscou no aeroporto e deu pouso em sua casa. No dia fatídico, eles, policiais foram até a casa do apelante, levados por CREGINALDO e ANDERSON, sendo que lá, encontraram reunidos o apelante com ANTÔNIO EGNALDO E BRAULLIO. Disse mais, que o apelante tinha poder de mando na associação criminosa e ouviu dos demais integrantes que era ele quem tomava conta da chácara.
+BRUNO PEREIRA PINTO GAMA, delegado da polícia federal, afirmou que investigações se iniciaram por desvios de produtos químicos, destinado ao tráfico de drogas, o que os levou a identificar um grupo que estava adquirindo produtos químicos e produzindo um tipo de droga até então não identificado.
+Inicialmente, este grupo comprou mais de 200kg (duzentos quilos) de determinado produto químico, chamando atenção em razão da quantidade. Identificaram o grupo e perceberam que eles estavam sempre levando drogas para o interior.
+Declarou que o apelante era responsável pela produção.
+ANDRÉ COELHO CARVALHO, testemunha policial informou que o apelante era o "gerente" de CREGINALDO e quem tomava conta da fabricação, sendo o encarregado de trazer Edson de São Paulo para fazer os comprimidos.
+JOAQUIM FERREIRA DE ARAÚJO FILHO, outro policial federal, também afirmou que o chefe do grupo era CREGINALDO SOARES e o apelante era seu braço direito e um dos encarregados da compra do Clobenzorex.
+Como se depreende da prova oral colhida em juízo, restou evidenciado que o apelante era um dos integrantes mais ativos da associação criminosa e tinha plena ciência da ilicitude de sua conduta. Escorreita, portanto, foi a sua condenação.
+Quanto ao pedido de reforma do perdimento dos bens que foram apreendidos em seu nome, é de rigor destacar que o apelante demonstrava alto padrão financeiro (ad exemplum, usava uma camionete Amarok, cujo ágio custou R$52.000,00). Não obstante isso, não trouxe aos autos provas de que possuía outra fonte de renda que não o comércio do entorpecente, de sorte que prevalece a versão assaz fidedigna da acusação de que os bens arrecadados em nome dele advieram do tráfico de drogas, mostrando-se correto o perdimento deles em favor da União.
+Relembro, uma vez mais, que o animus associativo e a estabilidade do vínculo estão demonstrados, pois, conforme se extrai do julgado, ficou constatado que o paciente era "braço direito" do líder do grupo e atuava como gerente na operacionalização do laboratório clandestino de produção de entorpecentes.
+Por fim, qualquer outra solução que não a adotada pelas instâncias de origem implicaria o revolvimento do material fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus. Nesse sentido:
+ ..
+1. In casu, as instâncias ordinárias concluíram haver prova concreta da prática do tráfico de entorpecentes com a prisão em flagrante na residência do corréu de 99,527g de cocaína e 905g de maconha, de balança de precisão e de materiais próprios do tráfico. Outrossim, ficou comprovada a estabilidade e a permanência da associação criminosa.
+2. Os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese.
+3. A pretendida absolvição, ademais, demandaria o revolvimento do conteúdo fático-probatório dos autos, providência inviável na via estrita do writ.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 838.442/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+II. Minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Consequentemente, porque mantida a condenação do agravante pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+A Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente:
+ ..
+3. A condenação pelo crime de associação para o tráfico, por si só, já tem o condão de inviabilizar a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas, pois essa circunstância impede que o agente preencha os requisitos legais para a aplicação da minorante (AgRg no HC 338.964/MG, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 6/ 6/2016).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 854.242/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
