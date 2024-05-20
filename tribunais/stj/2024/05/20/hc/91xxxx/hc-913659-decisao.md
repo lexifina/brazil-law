@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Willian Aparecido Marques Mendes - condenado por receptação simples a 1 ano e 6 meses de reclusão, em regime inicial fechado -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 31/37), não comporta processamento.
+Com efeito, busca a impetração alterar o regime inicial para o aberto - referente à condenação proferida na Ação Penal n. 1501489-53.2021.8.26.0360 (fls. 22/30 - da 2ª Vara Criminal da comarca de Mococa/SP) -, ao argumento de que não há na sentença proferida, tampouco, no acórdão que julgou a apelação do paciente, fundamentação para a inobservância da progressividade do regime inicial do cumprimento da pena (fl. 8).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 31/8/2023 (conforme informações do endereço eletrônico da Corte estadual), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não demonstrado constrangimento ilegal apto a superar o citado óbice, pois o regime fechado foi fixado ao fundamento de negativação dos antecedentes e da reincidência do paciente, tanto na sentença - ante o montante de pena aplicada, os maus antecedentes e a reincidência específica, fixo o regime inicial fechado (fl. 29) - quanto ratificado no acórdão da apelação (fls. 36/37), em consonância com o entendimento desta Corte Superior.
+Confira-se: orientação jurisprudencial do Superior Tribunal de Justiça é firme ao confirmar a possibilidade de fixação do regime inicial fechado quando, a despeito da pena ter sido fixada em patamar inferior a 4 (quatro) anos, o réu é reincidente e teve a pena-base fixada acima do mínimo legal em virtude de circunstância judicial desfavorável (AgRg no REsp n. 2.038.062/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe 26/6/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. RECEPTAÇÃO SIMPLES. REGIME INICIAL FECHADO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. POSSIBILIDADE DE REGIME MAIS GRAVOSO. PRECEDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
