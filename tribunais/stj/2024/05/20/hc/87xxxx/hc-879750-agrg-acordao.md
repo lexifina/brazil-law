@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITOS DE ABSOLVIÇÃO, REDUÇÃO DA PENA-BASE E AFASTAMENTO DA MAJORANTE DA TRANSNACIONALIDADE. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022). No caso, mostra-se inviável o conhecimento do writ que pretende a desconstituição de condenação transitada em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, notadamente por não se verificar flagrante ilegalidade na decisão proferida pela instância ordinária.
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por EDUARDO AUGUSTO FERREIRA DE OLIVEIRA contra decisão de e-STJ fls. 2.509/2.511, por meio da qual não conheci do presente habeas corpus em virtude de ser usado pela defesa como substitutivo de revisão criminal.
+Neste recurso, a defesa alega que (e-STJ fl. 2.543):
+Salienta-se que a mais recente jurisprudência deste Eg. STJ diante de flagrante ilegalidade, como ocorre no caso em tela, tem negado conhecimento ao habeas, porém, concedendo a ordem de ofício.
+Em nossa intelecção, em razão do grave de risco da prisão do agravante que sequer possui antecedentes criminais, apoiando-se em recentes decisões dessa corte ao aceitarem o habeas corpus como sucedâneo de ação própria, postula a defesa pelo seu conhecimento do writ para conceder de ofício a ordem para restabelecer a sentença do Juízo de primeiro grau que absolveu o agravante.
+Sob outro enfoque, requer-se subsidiariamente a concessão da ordem para readequar a reprimenda corporal fixando-a no regime inicial de cumprimento de pena aberto diante das circunstâncias objetivas e subjetivas do caso.
+Requer, assim, (e-STJ fl. 2.544):
+seja o presente recurso recebido e regularmente processado, na forma do art. 258 do RISTJ, para possibilitar à Vossa Excelência que reconsidere a r. decisão ora agravada pelos fundamentos expostos, para conceder de ofício a ordem de habeas corpus restabelecendo a sentença do Juízo da 1ª Vara Federal da Subseção Judiciária de Uberaba - Minas Gerais que absolveu o agravante. Alternativamente, não havendo reconsideração, requer-se seja o presente Agravo Regimental submetido ao escrutínio da Colenda SextaTurma, na forma expedita prevista no §3º do artigo 258 do RISTJ, a fim de se reformar a r. decisão ora agravada, onde se postula o seu provimento pelas razões expostas.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITOS DE ABSOLVIÇÃO, REDUÇÃO DA PENA-BASE E AFASTAMENTO DA MAJORANTE DA TRANSNACIONALIDADE. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022). No caso, mostra-se inviável o conhecimento do writ que pretende a desconstituição de condenação transitada em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, notadamente por não se verificar flagrante ilegalidade na decisão proferida pela instância ordinária.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Na espécie, verifico que, não obstante as razões defensivas, não há argumentos aptos a ensejar a alteração do entendimento firmado na decisão agravada.
+Como afirmado anteriormente, é inviável o conhecimento do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+É que esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, consignei que o Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Ademais , especialmente no caso, ressaltei que as demandas buscadas por meio do writ impetrado não evidenciavam situação de flagrante ilegalidade.
+Mantenho a decisão agravada, portanto, por seus próprios fundamentos, e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
