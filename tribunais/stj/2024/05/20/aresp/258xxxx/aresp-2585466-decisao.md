@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL. ACÃO REVISIONAL DE PLANO DE SAÚDE CUMULADA COM REPETIÇÃO DE INDÉBITO. PLANO DE SAÚDE COLETIVO POR ADESÃO. REAJUSTE POR SINISTRALIDADE. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA RÉ. ALEGAÇÃO DE LEGALIDADE DOS REAJUSTES NO PLANO DE SAÚDE EM RAZÃO DA EXISTÊNCA DE DESEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO. PRESCRIÇÃO ÂNUA.
+INADMISSIBILIDADE. REAJUSTES ABUSIVOS. PRESCRIÇÃO TRIENAL. RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 421 do CC, no que concerne à validade da cláusula de reajuste do contrato e dos reajustes aplicados, tendo em vista que livremente pactuado entra as partes, trazendo a seguinte argumentação:
+Respeitosamente, é gritante a ofensa à legislação federal ao impedir a produção de efeitos do negócio jurídico confessadamente celebrado entre a recorrente e a estipulante.
+Realidade é que cabe à parte autora aderir ou não ao contrato celebrado pela sua associação, não beneficiar-se com decisão que diminuiu sua contribuição, em detrimento dos demais beneficiários.
+ ..
+Assim sendo, o contrato deve ser interpretado nos termos estipulados livremente pelos contratantes, sendo válida a cláusula contratual que fundamentou a dívida discutida.
+Ocorre que, no presente feito, somente se discute a abusividade de cláusulas às quais o autor aderiu, que foram aceitas pela estipulante do contrato coletivo por adesão.
+Desta forma, jamais poderia servir de argumento a abusividade de tais cláusulas para que se discuta se esta é válida ou não. Decisão que entendesse isto de forma diversa viola frontalmente a norma lega supracitada.
+O Estado atua através de suas funções(ou Poderes) na sociedade. Assim sendo, a atividade Jurisdicional nada mais é que uma destas.
+Quando o Poder Judiciário atua na liberdade contratual, conforme dispositivo, esta intervenção deve ser mínima.
+Não é o que se observa no r. Acórdão proferido.
+Ao contrário, trata-se de declaração de abusividade de cláusula que foi estritamente obedecida por todos outros aderentes ao contrato, inclusive pela estipulante.
+Diante disto, é evidente que cabe ao autor aderir ou não ao contrato, não estipular cláusulas de caráter individual, eis que o contrato tem natureza coletiva.
+Assim sendo é evidente que a intervenção estatal passa longe de ser mínima, mas adentra temas não abrangidos pela causa para limitar a liberdade contratual (fls. 810/812).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Cinge-se a controvérsia acerca do reajuste de mensalidade de plano de saúde coletivo por adesão e da prescrição da pretensão à restituição dos valores pagos.
+ ..
+Ressalte-se, por oportuno que a ANS não define percentual máximo de reajuste para os planos coletivos por entender que as pessoas jurídicas possuem maior poder de negociação junto às operadoras, o que, naturalmente, tende a resultar na obtenção de percentuais vantajosos para a parte contratante.
+Ora, não seria crível aceitar um reajuste acima de 500% (quinhentos por cento), como foi o caso em questão, sob o argumento de desiquilíbrio econômico-financeiro do contrato, em razão dos índices de sinistralidade que inviabilizariam a continuidade de manutenção do plano de saúde contratado.
+Evidenciou-se que a decisão para a modificação do plano de saúde foi tomada unilateralmente pela associação, contudo em detrimento aos associados, tendo sido invalidado o aludido aditamento contratual celebrado em 2013 pela r. sentença, como bem decidiu o nobre sentenciante.
+Ainda que a apelante alegue que o contrato anterior restou excessivamente oneroso para a administradora do plano de saúde, não se desincumbiu de comprovar o alegado.
+A propósito, a sentenciante deu adequada solução à lide ao assim observar: "A ratificar a abusividade ocorrida, no caso específico dos autos, houve migração do autor para plano diverso daquele por ele contratado, inclusive com a previsão de coparticipação. Contudo, contrário à lógica, a coparticipação, em vez de baratear o custo do plano de saúde como de costume, aumentou sensivelmente o valor da contraprestação, contrariamente às normas voltadas à defesa do consumidor."  ..  (fls. 790/793).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Além disso, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
