@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. BENEFÍCIO PREVIDENCIÁRIO RECEBIDO INDEVIDAMENTE. BOA-FÉ. DEVOLUÇÃO. DESCABIMENTO. CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Os valores recebidos de boa-fé pelo benefíciário de previdência complementar, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, dado o seu caráter alimentar, não estão sujeitos à devolução.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. Agravo interno desprovido.
+RELATÓRIO
+FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS interpõe agravo interno contra a decisão de fls. 612-616, que não conheceu do recurso especial em razão da incidência da Súmula n. 83 do STJ.
+Nas razões do presente recurso, a parte agravante, defendendo a inaplicabilidade da Súmula n. 83 do STJ, insiste na tese de que a manutenção do acórdão recorrido, quanto à desnecessidade de devolução dos valores recebidos, compromete a necessidade de observância do equilíbrio econômico atuarial do plano de previdência complementar.
+Argumenta que "eventual condenação da Petros ao pagamento indevido a indivíduo que não faz jus ao benefício, como é o caso dos autos, tem o condão de impactar gravemente as reservas da entidade, prejudicando a reserva prévia constituída pelos demais contribuintes" (fl. 630).
+Requer, assim, seja reconsiderada a decisão ou seja o recurso submetido ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. BENEFÍCIO PREVIDENCIÁRIO RECEBIDO INDEVIDAMENTE. BOA-FÉ. DEVOLUÇÃO. DESCABIMENTO. CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Os valores recebidos de boa-fé pelo benefíciário de previdência complementar, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, dado o seu caráter alimentar, não estão sujeitos à devolução.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Quanto à questão da restituição dos valores recebidos a maior pelas partes agravadas, o Tribunal de origem consignou, de forma explícita, que os valores foram recebidos de boa-fé pelos beneficiários de previdência complementar, razão pela qual consignou ser incabível a devolução. Confira-se trecho do voto condutor do acórdão da apelação (fl. 506, destaquei):
+A Fundação PETROS destaca a natureza compensatória dos descontos realizados nos contracheques das recorridas, insistindo na sua legitimidade, diante da constatação de erro de cálculos por parte da mesma e pagamento a maior durante certo período.
+A despeito da instrução incipiente dos autos, não se podendo constatar por simples análise dos documentos a efetivação de descontos compensatórios, estes foram confessados pela apelante, tornando-se matéria incontroversa.
+A presente matéria já detém posicionamento firme e uniforme por parte deste Egrégio Tribunal de Justiça e de Tribunal Superior, segundo o qual não se admite a repetição de verbas percebidas de boa-fé pelos administrados e que tenham natureza alimentícia, sob pena de infringência ao próprio princípio da dignidade humana, considerada a utilização dos valores para subsidiar a sobrevivência do beneficiário.
+Tal como asseverou o acórdão recorrido, o Superior Tribunal de Justiça já firmou o entendimento no sentido da impossibilidade de devolução dos valores recebidos de boa-fé pelo beneficiário, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, dado o seu caráter alimentar.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC INEXISTENTE. INCONFORMISMO. BENEFÍCIO COMPLEMENTAR. ERRO NO CÁLCULO. REPETIBILIDADE. DESCABIMENTO.
+1. Inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a possibilidade de restituição de valores pagos a maior por erro da própria entidade de previdência privada no cálculo do salário de participação, no que expressamente consignou a Corte a quo que "os valores já pagos não poderão ser restituídos ante a boa-fé do autor e a natureza alimentar dos pagamentos efetuados, pois destinados ao sustento do beneficiário".
+2. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+Precedentes.
+3. O Superior Tribunal de Justiça já consolidou orientação no sentido de que os valores recebidos de boa-fé pelo assistido, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, não estão sujeitos a devolução.
+4. "Há impossibilidade de devolução dos valores recebidos indevidamente, de boa-fé, pelo beneficiário de previdência complementar, ante o seu caráter alimentar. Precedentes" (AgInt no AREsp n. 2.241.020/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/5/2023).
+Agravo interno improvido. (AgInt no REsp n. 1.877.332/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RESTITUIÇÃO DE VALORES RECEBIDOS PELO BENEFICIÁRIO DE BOA-FÉ. DEVOLUÇÃO DAS VERBAS. DESNECESSIDADE. CARÁTER ALIMENTAR. ACÓRDÃO EM SINTONIA COM ENTENDIMENTO FIRMADO NESTA CORTE. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "Os valores recebidos de boa-fé pelo assistido, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, não estão sujeitos à devolução, pois cria-se falsa expectativa de que tais verbas alimentares eram legítimas, possuindo o contrato de previdência privada tanto natureza civil quanto previdenciária. " (REsp 1626020/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016).
+2. Agravo interno não provido. (AgInt no AREsp n. 1.930.594/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. VALORES RECEBIDOS INDEVIDAMENTE PELO BENEFICIÁRIO DE BOA-FÉ. DEVOLUÇÃO DAS VERBAS. DESNECESSIDADE. CARÁTER ALIMENTAR. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Segundo entendimento jurisprudencial do Superior Tribunal de Justiça "os pagamentos dos benefícios da previdência pública e os da previdência privada devem se reger pelo postulado da boa-fé objetiva. Restando configurada a definitividade putativa das verbas de natureza alimentar recebidas pelo assistido, que, não tendo dado causa ou contribuído para o equívoco cometido pelo ente de previdência complementar, permanece de boa-fé, torna-se imperioso o reconhecimento da incorporação da quantia em seu patrimônio, a afastar a pretensa repetição de indébito ou a alegação de enriquecimento ilícito" (AgInt nos EDcl no AREsp 1.551.107/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 01/06/2021, DJe 17/06/2021) 3. Não há dissonância jurisprudencial entre o acórdão proferido pelo Tribunal de origem e o julgado desta Corte Superior indicado nas razões do agravo, em virtude da falta de similitude fática entre os casos cotejados.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.985.159/MG, relator Ministro Marco Aurélio Belllizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022. )
+Assim, o entendimento adotado no acórdão recorrido coincide com a jurisprudência consolidada nesta Corte, circunstância que atrai a incidência da Súmula n. 83 do STJ.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
