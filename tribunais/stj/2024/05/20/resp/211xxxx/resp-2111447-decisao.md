@@ -1,0 +1,49 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 553/557, in verbis:
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão que, por unanimidade, negou provimento ao apelo da defesa para manter a condenação da recorrente a 5 anos de reclusão e 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/06.
+A recorrente sustenta que o acórdão violou o disposto no art. 33, § 4º, da Lei nº 11.343/06, ao afastar a aplicação da modalidade privilegiada, tendo em vista a primariedade, os bons antecedentes e a falta de prova de dedicação à atividade criminosa.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+Cumpre registrar que foram apreendidos 17g (dezessete gramas) de cocaína, 33g (trinta e três gramas) de maconha e 1g (um grama) de crack.
+É o relatório.
+Decido.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Na espécie, acerca da dosimetria da pena, o Tribunal de origem decidiu nos seguintes termos (e-STJ fls. 486/495):
+Passo análise da dosimetria da pena de ofício, e por completo, com fundamento no artigo 68 do Código Penal, e nesta fase analiso o requerimento.
+Primeira fase:
+Extrai-se da sentença condenatória que a pena basilar foi fixada acima do patamar mínimo legal, pois o juiz exasperou a circunstância judicial objetiva descrita no artigo 42 da Lei nº 11.343/2006, fixando em 05 (cinco) anos e 10 (dez) meses de reclusão, além de 583 (quinhentos e oitenta e três) dias-multa, no valor de 1/30 do salário mínimo vigente à época dos fatos.
+Ao avaliar as circunstâncias judiciais previstas no artigo 59 do Código Penal e 42 da Lei nº 11.343/2006, o Magistrado sentenciante assim concluiu:
+"Na primeira fase deve-se observância às circunstâncias judiciais previstas no art. 59 da Lei Substantiva Penal, na qual não se podem observar quaisquer vetores negativos aptos à exasperação da pena base, senão a culpabilidade, na forma do ar.t 42 da Lei 11.343/2006, eis que havia comércio de cocaína, droga de elevado poder vulnerante, que merece maior reprovação, à razão de um sexto. Isto posto, neutras as demais vetoriais, fixo a pena base em cinco anos e dez meses de reclusão, com 583 dias-multa
+Pois bem.
+Quanto à natureza da substância entorpecente apreendida, em que pese o entendimento da r. sentença, a fundamentação lançada é inidônea, devendo a exasperação ser afastada.
+ ..
+No caso em apreço, a quantidade da substância entorpecente não foi considerada na r. sentença condenatória, e a valoração negativa da natureza da droga apreendida, isoladamente considerada, não justifica a valoração negativa com fundamento no artigo 42 da Lei 11.343/2006, ocorrendo a ofensa ao princípio da proporcionalidade conforme jurisprudência do Superior Tribunal de Justiça:
+Assim, afasta-se, de ofício, a valoração negativa quanto à natureza da substância entorpecente apreendida, readequando a pena base para o mínimo legal, ou seja, em 05 (cinco) anos de reclusão, além de 500 (quinhentos) dias-multa, no valor de 1/30 do salário mínimo vigente à época dos fatos.
+Segunda fase:
+Na segunda etapa da dosimetria nenhuma circunstância agravante foi considerada.
+Presente as circunstâncias atenuantes da confissão espontânea e da menoridade relativa, contudo, sem que a pena seja diminuída nesta fase, uma vez que já aplicada em seu mínimo legal, nos termos da Súmula 231 do Superior Tribunal de Justiça.
+Desse modo, a pena se mantém nesta fase em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Terceira fase:
+Na terceira fase, foram consideradas ausentes causas especiais de aumento.
+Na terceira etapa, pretende a defesa a aplicação do benefício do tráfico privilegiado - art. 33, § 4º da Lei 11.343/2006, argumentando que a acusada preenche todos os - requisitos necessários para a concessão da benesse.
+O d. magistrado, ao afastar a aplicação da benesse, fundamentou assim (mov. 178.1):
+"Também não é possível acatar o pleito relativo ao art. 33, § 4º da Lei 11.343/2006, eis que seus antecedentes, conquanto não impliquem tecnicamente a reincidência, são desabonadores e não condizentes com a hipótese do tráfico privilegiado, que exige uma total desconexão com a criminalidade, que, nos presentes autos, não é possível afirmar. Inclusive, responde atualmente por crime análogo nos autos 0002908- 71.2021.8.16.0196, além de haver afirmado que já vinha fazendo o comércio de drogas a diversos meses. Por fim, o fato de haver sido "disciplinada" indicia o relacionamento com organizações criminosas. Todos estes fatos ." são integralmente incompatíveis com a figura privilegiada
+É certo que para a aplicação da causa especial de diminuição da pena prevista no § 4º, do art. 33 da Lei nº 11.343/2006, é necessário o cumprimento cumulativo de quatro requisitos: primariedade, bons antecedentes, não dedicação a atividades criminosas e não integração a organização criminosa.
+Uma vez que não sejam satisfeitos qualquer desses pressupostos, a minoração não será devida.
+Na hipótese, certo que as ações penais em curso não podem ser utilizadas para afastar o benefício, sob pena de ofensa do princípio da presunção da inocência. Porém, restou devidamente comprovado no caderno processual a dedicação da ré às atividades criminosas na época dos fatos.
+Tal situação encontra-se evidenciada pelos depoimentos dos milicianos que participaram da ocorrência. No dia dos fatos, estavam em patrulhamento em local já conhecido pelo intenso tráfico de drogas e, em abordagem pessoal à acusada, lograram êxito em encontrar as substâncias entorpecentes apreendidas, bem como uma quantia em dinheiro em espécie.
+Ainda, depreende-se do depoimento do policial militar Eder Chatoski (mov. 177.1), que a ré já foi abordada anteriormente no mesmo local.
+Para além disso, têm-se o depoimento da própria acusada confirmando a mercancia habitual (mov. 177.3):
+"Estava mesmo lá, estava vendendo, mas vendia e recebia seu pagamento em droga. Estava vendendo há alguns meses. Vendia só lá. Ficava só a depoente e recebia a droga de uma mulher loira. Vendia maconha, (..)" cocaína, crack.
+Assim, demonstrou-se nos autos que a apelada se dedica às atividades criminosas, logo, se mostra incabível a redução da pena cominada a ela, nos termos do artigo 33, § 4º, da Lei nº 11.343/06, devendo a sentença ser mantida.
+Da leitura do trecho precedente, constata-se que a dedicação à atividade criminosa foi assentada em fundamentação demasiadamente genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Digno de nota que, se nem mesmo processos penais em curso podem afastar a benesse ora pleiteada pela defesa, tampouco afirmações não comprovadas nos autos de que a recorrente praticara o delito de tráfico em outras ocasiões, ainda que derivadas de suposta confissão.
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena, principalmente se consideradas a primariedade da recorrente e a pequena quantidade de droga apreendida.
+Assim, reconhecendo-se a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 2/3, a pena da recorrente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de ré primária e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, a recorrente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade em medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+À vista do exposto, dou provimento ao recurso para, reconhecendo a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, reduzir a pena da recorrente para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
