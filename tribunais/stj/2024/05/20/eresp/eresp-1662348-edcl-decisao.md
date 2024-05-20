@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Cleuda Custódio Freire e outros contra decisão, assim ementada (fl. 925):
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. LEIS 8.622/1993 E 8.627/1993. COMPENSAÇÃO. NÃO PREVISÃO NO TÍTULO EXECUTIVO. VIOLAÇÃO À COISA JULGADA. RESP 1.235.513/AL. TEMA 476 DO STJ. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+Os embargantes, aduzindo a ocorrência de omissão, afirmam que com o provimento dos embargos de divergência houve a inversão do resultado da causa, passando a Universidade Federal de Alagoas- UFAL a ser a parte sucumbente e, desse modo, impunha-se a inversão do ônus sucumbencial.
+Requerem, assim, o conhecimento e provimento dos declaratórios para que seja suprida a omissão apontada, mediante a inversão do ônus sucumbencial e a devida fixação dos honorários sucumbenciais.
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, observa-se que o presente recurso origina-se de embargos à execução que o Juízo a quo, admitindo a compensação do índice de 28,86% com os reajustes concedidos à categoria dos servidores, julgou procedentes "para determinar que a execução prossiga, tão somente, com relação a exeqüente MARTA CRISTINA TENÓRIO LINS MOTA, para fins de pagamento da quantia de R$ 12.141,35 (doze mil, cento e quarenta e um reais e trinta e cinco centavos)" e condenou os embargados ao pagamento de honorários advocatícios fixados em R$ 500,00 (quinhentos reais), a teor do art. 20, § 4º do CPC/1973 (sentença às fls. 505-510).
+Referida sentença foi confirmada pelo Tribunal de origem, em sede de apelação (fls. 549-558), sobrevindo a interposição de recurso especial, o qual não foi conhecido por esta Corte (decisão às fls. 691-695), entendimento mantido no julgamento do agravo interno (fls. 721-727).
+Na sequência, foram opostos embargos de divergência ao qual esta relatoria deu provimento por encontrar-se o acórdão embargado em desconformidade com a tese firmada por esta Corte Superior no julgamento do REsp 1.235.513/AL, pela sistemática dos recursos repetitivos (Temas 475 e 476), segundo a qual não é possível determinar a compensação do índice de 28,86% com outros índices previstos nas Leis 8.622/1993 e 8.627/1993 quando não houver expressa determinação no título judicial.
+Nesse contexto, há de ser reconhecida a sucumbência da Universidade Federal de Alagoas - UFAL, competindo à instância ordinária, após a definição dos valores realmente devidos, promover o arbitramento dos ônus sucumbenciais do presente feito.
+Com essas considerações, acolho os embargos de declaração, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ÔNUS SUCUMBENCIAIS. VÍCIO DO ARTIGO 1.022 DO CPC/2015 EVIDENCIADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
