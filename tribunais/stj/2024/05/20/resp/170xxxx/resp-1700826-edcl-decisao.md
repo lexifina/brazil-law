@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão de fls. 2.144/2.145, pela qual indeferi o pedido de que fosse declarado prejudicado o presente recurso especial.
+A parte embargante sustenta que, "de modo contraditório se reconheceu a existência de um acórdão combatido pelo mesmo recurso especial e, nada obstante se entendeu pela necessidade de novo julgamento, em que pese o recurso ter sido devidamente processado e julgado" (fl. 2.151).
+Devidamente intimada, a parte embargada não se manifestou (fl. 2.158).
+A irresignação merece acolhimento.
+Como consignei na decisão embargada, o Tribunal de Justiça do Estado do Paraná, à fl. 2.092, emitiu certidão cujo teor é o seguinte:
+CERTIFICO que os autos 0002474-81.2004.8.16.0001 (referentes a este processo) e 0004404-66.2006.8.16.0001 foram julgados em única sentença. A parte OI S.A. - EM RECUPERACAO JUDICIAL interpôs apelaçao em ambas as ações, gerando os recursos de Apelação 1004429-2 e 1004348-2, respectivamente, que, novamente, foram julgados em conjunto. CERTIFICO, ainda, que a parte OI S.A. - EM RECUPERACAO JUDICIAL opôs a mesma petição de Embargos de Declaração e interpôs o mesmo Recurso Especial em ambos os Recursos de Apelação. Os Recursos Especiais foram admitidos separadamente e assim subiram ao STJ, gerando os REsp nº 1700826 / PR (2017/0249662-0) autuado em 29/09/2017 e REsp nº 1672576 / PR (2017/0114538-0) autuado em 29/05/2017.
+Depreendo dessas informações que, tal como afirmado pela embargante e jamais questionado pela parte embargada (fls. 2.135 e 2.158), os autos 0002474-81.2004.8.16.0001 e 0004404-66.2006.8.16.0001 foram julgados por uma única sentença, impugnada por duas apelações manejadas por OI S.A. que acabaram decididas por um único acórdão. Na sequência, OI S.A. interpôs uma única petição de embargos de declaração e um único recurso especial contra o acórdão que havia solucionado as duas apelações. Apesar disso, o Tribunal de origem admitiu o mesmo recurso especial separadamente, gerando o presente feito, autuado em 29/9/2017, e o Recurso Especial 1.672.576/PR, autuado em 29/5/2017.
+Por isso, procedem as alegações feitas pela parte embargante, especialmente porque, de fato, os presentes autos contêm as mesmas peças e decisões do Recurso Especial 1.672.576/PR, que transitou em julgado em 10/10/2022.
+Ante o exposto, acolho os embargos de declaração para, com efeitos infringentes, declarar prejudicado o presente recurso especial.
+Publique-se. Intimem-se.
+EMENTA
