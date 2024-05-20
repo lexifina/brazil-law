@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AÇÃO REVISIONAL. REVISÃO DE PROVENTOS DE APOSENTADORIA. PRETENSÃO DE APLICABILIDADE DE AUMENTO SALARIAL SOBRE A RUBRICA "DET JUR DIR PESSOAL". ALEGADA VIOLAÇÃO DO ART. 489, § 1º, INCISO IV, DO CPC/2015. QUESTÃO RELEVANTE, EM TESE, À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE SUSCITADA NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se, na origem, de ação revisional proposta pela parte ora agravante em face da Universidade do Estado do Rio de Janeiro, objetivando a revisão de seus proventos de aposentadoria, de modo que o reajuste salarial concedido pela Lei Estadual n. 5.343/2008 também incida sobre a rubrica "DET JUR DIR PESSOAL".
+2. Em segunda instância, o Tribunal local deu parcial provimento ao recurso da Univesidade, "para excluir a condenação da autarquia ré ao pagamento das custas judiciais e da taxa judiciária". Os embargos de declaração opostos foram rejeitados. Interposto recurso especial, foi inadmitido.
+3. Na forma da jurisprudência do STJ, ocorre violação do art. 489, § 1º, inciso IV, do CPC/2015, quando o Tribunal de origem deixa de enfrentar questões relevantes ao julgamento da causa, suscitadas pela Parte recorrente.
+4. No caso, embora o Tribunal de origem tenha sido instado no apelo, inclusive mediante embargos de declaração, a se pronunciar sobre a questão de que a verba incorporada seja incluída na base de cálculo da incidência tão somente dos aumentos remuneratórios relativos ao cargo de origem da vantagem, quedou-se silente aquele Sodalício. Violação do art. 489, § 1º, inciso IV, do CPC/2015 reconhecida.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RICARDO AUGUSTO OBERLAENDER contra decisão que conheceu do agravo para dar provimento ao recurso especial, em razão do reconhecimento de violação do art. 489, § 1º, inciso IV, do CPC/2015 (fl. 549-584).
+Inconformada, a Parte agravante sustenta, em síntese, que:
+o que a Agravada pretendeu desde os Embargos prequestionatórios, foi inovar a matéria não gerando nenhuma obrigação do Tribunal ad quem de motivar o seu rejeito, porquanto, não fora suscitada nem na Contestação e nem na Apelação a apreciação da do disposto no art. 11da Lei Estadual nº 530/1982. (fl. 588)
+Pugna, assim, pela reconsideração da decisão agravada ou pela apresentação do recurso para a análise do Órgão Colegiado, a fim de que seja negado provimento ao recurso especial interposto pela Universidade.
+Devidamente intimada, a parte agravada apresentou contrarrazões às fls. 596-599.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AÇÃO REVISIONAL. REVISÃO DE PROVENTOS DE APOSENTADORIA. PRETENSÃO DE APLICABILIDADE DE AUMENTO SALARIAL SOBRE A RUBRICA "DET JUR DIR PESSOAL". ALEGADA VIOLAÇÃO DO ART. 489, § 1º, INCISO IV, DO CPC/2015. QUESTÃO RELEVANTE, EM TESE, À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE SUSCITADA NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se, na origem, de ação revisional proposta pela parte ora agravante em face da Universidade do Estado do Rio de Janeiro, objetivando a revisão de seus proventos de aposentadoria, de modo que o reajuste salarial concedido pela Lei Estadual n. 5.343/2008 também incida sobre a rubrica "DET JUR DIR PESSOAL".
+2. Em segunda instância, o Tribunal local deu parcial provimento ao recurso da Univesidade, "para excluir a condenação da autarquia ré ao pagamento das custas judiciais e da taxa judiciária". Os embargos de declaração opostos foram rejeitados. Interposto recurso especial, foi inadmitido.
+3. Na forma da jurisprudência do STJ, ocorre violação do art. 489, § 1º, inciso IV, do CPC/2015, quando o Tribunal de origem deixa de enfrentar questões relevantes ao julgamento da causa, suscitadas pela Parte recorrente.
+4. No caso, embora o Tribunal de origem tenha sido instado no apelo, inclusive mediante embargos de declaração, a se pronunciar sobre a questão de que a verba incorporada seja incluída na base de cálculo da incidência tão somente dos aumentos remuneratórios relativos ao cargo de origem da vantagem, quedou-se silente aquele Sodalício. Violação do art. 489, § 1º, inciso IV, do CPC/2015 reconhecida.
+5. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos da Parte agravante, as razões deduzidas neste recurso não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Consoante consignado na decisão agravada, a ora Agravante ajuizou ação:
+objetivando a condenação da ré a "aplicar o aumento de 31,58% (trinta e um vg cinquenta e oito por cento) sobre o valor incorporado sob a rubrica "DET JUD DIR PESSOAL" pelo v. Acórdão lavrado pela Egrégia 8ª Câmara Cível deste E. TURJ no processo 0149201-64.2000.8.19.0001 equivalente ao mesmo percentual sobre os aumentos salariais obtidos através da Lei 5.343/2008 aos salários dos professores Assistentes (Carga Horária/20h), bem como proceder desta forma nos próximos aumentos salariais aplicáveis à categoria do Autor. (fl. 581)
+O Juízo de 1º Grau julgou procedente o pedido. Interposta apelação pela Universidade do Estado do Rio de Janeiro, o Tribunal local deu parcial provimento ao recurso, "para excluir a condenação da autarquia ré ao pagamento das custas judiciais e da taxa judiciária" (fl. 296). Os embargos de declaração opostos foram rejeitados (fls. 344-354). Interposto recurso especial, foi inadmitido.
+Nesta Corte, a então relatora, conheceu do agravo para dar provimento ao recurso especial, em razão do reconhecimento de violação ao art. 489, § 1º, inciso IV, do CPC/2015, decisum que ora mantenho.
+Com efeito, observa-se que, não obstante as razões dos embargos de declaração, bem como da apelação, o Tribunal a quo deixou de se manifestar sobre o argumento repisado pelo ente público no sentido de que "a legislação estadual de regência determina que a verba incorporada sob a forma do disposto no art. 10 da Lei nº 530/1982 seja incluída na base de cálculo da incidência tão somente dos aumentos remuneratórios relativos ao cargo de origem da vantagem" (fl. 383).
+Na forma da jurisprudência:
+os órgãos judiciais estão obrigados a se manifestarem, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador  ..  Nessa linha, se a integração pedida por meio dos aclaratórios é negada pelo órgão julgador, há violação dos arts. 489 e 1.022 do CPC/2015. (AgInt no REsp 1.904.842/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/05/2021.)
+Lado outro, ao contrário do alegado pela Parte agravante, a Universidade expressamente invocou a aplicação do art. 11 da Lei n. 530/1982, nas razões do apelo (fls. 229-231), o que não foi objeto de exame pelo Tribunal a quo.
+Sendo assim, no caso dos autos, considerando a relevância do enfrentamento do referido tópico ao deslinde da controvérsia, evidencia-se a violação do art. 489, § 1º, inciso IV, do CPC/2015.
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
