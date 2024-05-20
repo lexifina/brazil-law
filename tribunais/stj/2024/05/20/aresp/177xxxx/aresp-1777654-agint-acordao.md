@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS RELATIVAS AO ADIANTAMENTO DO PCCS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, APÓS AMPLA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO, NÃO RECONHECEU A SUCUMBÊNCIA MÍNIMA DA PARTE AUTORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC.
+2. A inversão do julgado no que diz respeito à distribuição dos ônus sucumbenciais, à aferição do quantitativo em que autor e réu saíram vencidos na demanda, e à existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, a teor da Súmula 7 desta Corte. Precedentes.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por VALDA MARTINS DIAS contra  a  decisão  que  conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento, em razão da inexistência de violação ao art. 1.022  do  CPC; e da aplicação da Súmula 7/STJ.
+Argumenta  a  parte agravante, inicialmente, que:
+ ..  ao contrário do que restou afirmado na decisão ora agravada, o Tribunal de origem não teria se manifestado sobre todas as razões apresentadas no especial, questões estas que retomam os destaques feitos em sede de apelação, observa-se que a decisão não aprecia os argumentos apresentados pela parte autora, nem aqueles que dizem respeito ao reconhecimento do direito em si, essenciais para demonstrar o decaimento mínimo dos pedidos da lide (fl. 1.272).
+Defende, outrossim, a não incidência da Súmula 7/STJ, pois:
+ ..  para identificar a distribuição da sucumbência para a correta aplicação do art. 86 do Código de Processo Civil não seria exigível desta Corte o revolvimento dos fatos do processo, mas a revaloração do que se considera como sucumbência diante do julgamento proferido pelo Tribunal a quo - que reconhece o direito da parte autora o direito ao pagamento do reajuste do PCCS diante do prejuízo causado pela limitação imposta na fase executiva da Reclamatória Trabalhista nº 8.157/97 (efeito de uma sentença eminentemente declaratória) e condena a ré ao pagamento de diferenças no período de janeiro de 1991 a agosto de 1992 e após declara a necessidade de observância da irredutibilidade remuneratória (fl. 1.273).
+Por fim, a parte pug na pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS RELATIVAS AO ADIANTAMENTO DO PCCS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, APÓS AMPLA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO, NÃO RECONHECEU A SUCUMBÊNCIA MÍNIMA DA PARTE AUTORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC.
+2. A inversão do julgado no que diz respeito à distribuição dos ônus sucumbenciais, à aferição do quantitativo em que autor e réu saíram vencidos na demanda, e à existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, a teor da Súmula 7 desta Corte. Precedentes.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação ao art. 1.022 do CPC, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+Conforme a jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+No mais, a inversão do julgado no que diz respeito à distribuição dos ônus sucumbenciais, à aferição do quantitativo em que autor e réu saíram vencidos na demanda, e à existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, a teor da Súmula 7 desta Corte.
+A propósito, os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. PAGAMENTO DE PARCELAS ANTERIORES À PERÍCIA. IMPOSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO- PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+2. A aferição do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento (AgInt nos EDcl nos EDcl nos EDcl no REsp n. 1.574.650/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ANTIGO AUDITOR FISCAL DA PREVIDÊNCIA SOCIAL. TRANSFORMAÇÃO PARA O CARGO DE AUDITOR FISCAL DA RECEITA FEDERAL. LEI 11.457/2007. LEGITIMIDADE PASSIVA DA UNIÃO. INCORPORAÇÃO DE QUINTOS. DIFERENÇA DE VENCIMENTOS. FUNÇÃO COMISSIONADA. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 85 DO CPC/2015 NÃO PREQUESTIONADO.
+ ..
+5. Por fim, sobre a fixação dos honorários advocatícios, registro que o STJ tem posicionamento pacífico de que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7 desta Corte.
+6. Agravo Interno não provido (AgInt nos EDcl no AREsp n. 1.976.211/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/9/2022, DJe de 30/9/2022).
+Isso posto, nego provimento ao recurso.
