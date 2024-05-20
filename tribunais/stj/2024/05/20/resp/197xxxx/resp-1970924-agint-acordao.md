@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANOS DE SAÚDE. TRATAMENTO PSICOTERÁPICO CONFORME PRESCRIÇÃO MÉDICA. RECUSA DE COBERTURA. REEMBOLSO INTEGRAL, DADA A FALTA DE CLAREZA DOS TERMOS CONTRATUAIS. ENTIDADES DE AUTOGESTÃO. TRATAMENTO DIFERENCIADO. AUSÊNCIA DE PREQUESTIONAMENTO. LIMITAÇÃO CONTRATUAL. SÚMULAS 5 E 7 DO STJ.
+1. O Tribunal de origem, ao negar provimento à apelação, não analisou, sequer implicitamente, os arts. 2º do Código de Defesa do Consumidor e 10, § 3º, da Lei n. 9.656/1998, ou mesmo a tese relativa a tratamento diferenciado a entidades de autogestão. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Rever o entendimento proferido na origem, como requer o recorrente, no sentido de entender que o contrato entre as partes (Tabela de Teto de Reembolso da Vivest) prevê o regime de coparticipação, demanda o reexame das provas dos autos e das cláusulas contratuais, o que encontra óbice nas Súmulas 5 e 7/STJ.
+3. Sobreleva notar que a "falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado" (A gInt no REsp n. 2.041.495/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FUNDAÇÃO CESP contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 508):
+APELAÇÃO. Ação de obrigação de fazer, cumulada com indenização por danos materiais e morais para continuidade do tratamento psicoterápico conforme prescrição médica. Sentença de parcial procedência. Inconformismo da requerida. Descabimento. Recusa de cobertura de procedimento além das sessões contratualmente previstas e que constam no rol da ANS - Agência Nacional de Saúde. Contrato que prevê a cobertura da doença e, se a indicação do procedimento faz parte do tratamento, a negativa de cobertura ou limitação das sessões necessárias ao tratamento é inadmissível e abusiva, sob pena de ofensa à Lei nº 9.656/98, não podendo sua aplicação ser restrita em desfavor do consumidor. Reembolso integral, dada a falta de clareza dos termos contratuais. Sentença mantida. Recurso a que se nega provimento.
+A decisão agravada não conheceu do recurso especial da agravante diante da incidência das Súmulas 282 e 356/STF e 5 e 7/STJ (fls. 756-761).
+Aduz a agravante, nas razões do agravo interno, que os arts. 2º do Código de Defesa do Consumidor e 10, § 3º, da Lei n. 9.656/1998 teriam sido devidamente prequestionados. Alega que é cabível o prequestionamento implícito da matéria objeto de recurso.
+Ressalta, ainda, a inaplicabilidade da Súmula 7/STJ, visto que "o exame das razões recursais dependeria, quando muito, da correta ou de alguma valoração da prova produzida, o que é perfeitamente possível em sede de Recurso Especial" (fl. 772).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contraminuta (fls. 787-792).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANOS DE SAÚDE. TRATAMENTO PSICOTERÁPICO CONFORME PRESCRIÇÃO MÉDICA. RECUSA DE COBERTURA. REEMBOLSO INTEGRAL, DADA A FALTA DE CLAREZA DOS TERMOS CONTRATUAIS. ENTIDADES DE AUTOGESTÃO. TRATAMENTO DIFERENCIADO. AUSÊNCIA DE PREQUESTIONAMENTO. LIMITAÇÃO CONTRATUAL. SÚMULAS 5 E 7 DO STJ.
+1. O Tribunal de origem, ao negar provimento à apelação, não analisou, sequer implicitamente, os arts. 2º do Código de Defesa do Consumidor e 10, § 3º, da Lei n. 9.656/1998, ou mesmo a tese relativa a tratamento diferenciado a entidades de autogestão. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Rever o entendimento proferido na origem, como requer o recorrente, no sentido de entender que o contrato entre as partes (Tabela de Teto de Reembolso da Vivest) prevê o regime de coparticipação, demanda o reexame das provas dos autos e das cláusulas contratuais, o que encontra óbice nas Súmulas 5 e 7/STJ.
+3. Sobreleva notar que a "falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado" (A gInt no REsp n. 2.041.495/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Consoante aludido na decisão agravada, o recurso especial interposto pela agravante, de fato, não comporta conhecimento.
+Com efeito, da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, não analisou, sequer implicitamente, os arts. 2º do Código de Defesa do Consumidor e 10, § 3º, da Lei n. 9.656/1998, ou mesmo a tese relativa a tratamento diferenciado a entidades de autogestão.
+O Tribunal de origem negou provimento ao recurso por entender, em síntese, pela abusividade da cláusula que nega cobertura ao tratamento indicado para doença coberta pelo plano, e fundamenta que, "se o plano de saúde do qual é beneficiária a autora dá cobertura para a doença e a indicação de sessões psicoterápicas faz parte do tratamento, a limitação da cobertura é inadmissível e abusiva, sob pena de ofensa à Lei nº 9.656/98 e ao art. 51, IV, do CDC" (fl. 511).
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais.
+No tocante ao art. 12, inciso VI, da Lei n. 9.656/1998, por meio da qual alega o recorrente a impossibilidade de reembolso integral diante do regime de coparticipação, o Tribunal de origem assim discorreu (fl. 516):
+Sem razão a ré/recorrente, pois verifica-se que os termos da cláusula contratual não definem com clareza a apuração dos cálculos para reembolso, devendo, portanto, se dar de forma integral, sendo este também o entendimento previsto no art. 9º da RN nº 259/2011.
+Alega o recorrente que, "na remota hipótese de a Recorrida ter direito ao reembolso de eventuais valores, o Regulamento do Plano ao qual faz parte prevê que eventual reembolso deve ser realizado em conformidade com a Tabela de Teto de Reembolso da Vivest" (fl. 543).
+Rever o entendimento proferido na origem, como requer a recorrente, no sentido de entender que o contrato entre as partes (Tabela de Teto de Reembolso da Vivest) prevê o regime de coparticipação, demanda o reexame das provas dos autos e das cláusulas contratuais, o que encontra óbice nas Súmulas 5 e 7/STJ.
+Nesse sentido, confira-se julgado:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO NÃO VERIFICADA. SESSÃO DE PSICOTERAPIA. COPARTICIPAÇÃO. RECUSA DE COBERTURA. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. LIMITAÇÃO DO NÚMERO DE SESSÕES. APLICAÇÃO DO ÓBICE DA SÚMULA 83/STJ. REEMBOLSO. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULA 283 E 284/STF. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022, II, do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.008.429/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Sobreleva notar que a "falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado" (AgInt no REsp n. 2.041.495/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Assim como, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL . INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Apesar de o RE 636.331/RJ e o ARE 766.618/SP - AgR terem sido levados para julgamento conjunto, a tese firmada pela Suprema Corte no Tema 210, da repercussão geral, é adstrita às pretensões indenizatórias fundadas em danos materiais decorrentes de extravio de bagagens em transporte aéreo internacional de passageiros, e não à reparação por danos morais. Precedentes.
+2. Nos termos da orientação jurisprudencial adotada por esta Colenda Corte, as Convenções de Varsóvia, Montreal e demais acordos internacionais subscritos pelo Brasil devem prevalecer em detrimento do Código de Defesa do Consumidor, apenas nas condenações por danos materiais decorrentes de extravio de bagagens em voos internacionais, não se aplicando à tese relacionada com indenizações por danos morais - incidência da Súmula 83/STJ.
+3. Para superar as premissas sobre as quais se apoiou a Corte estadual, a fim de afastar o abalo moral suportado pela parte - em especial no que diz respeito à má-prestação de serviços e à ausência de informações ao consumidor - mister seria o revolvimento dos elementos de prova constantes do autos, hipótese vedada na presente esfera recursal, ante o óbice contido na Súmula 7/STJ.
+4. A incidência dos enunciados sumulares 07 e 83/STJ impede o exame exame do dissídio jurisprudencial na medida em que, além da falta identidade entre os paradigmas apresentados e os fundamentos que embasaram o acórdão recorrido, se a jurisprudência do STJ já se firmou no mesmo sentido do julgado hostilizado, não há conceber tenha ela contrariado o dispositivo de lei federal ou lhe negado vigência.
+5. Agravo interno desprovido. (AgInt no A REsp n. 2.281.400/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
