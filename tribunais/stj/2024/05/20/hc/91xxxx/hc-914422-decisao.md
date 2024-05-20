@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de IAGO MEDRADO FARIAS, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS nos autos do recurso de Apelação Criminal n. 0025892-44.2020.8.09.0175 (fl. 756):
+APELAÇÃO CRIMINAL. PORTE DE ARMA DE FOGO. REVISTA PESSOAL SEM PRÉVIA AUTORIZAÇÃO JUDICIAL. VALIDADE DAS PROVAS. MP. Demonstrada, pelo contexto fático anterior, fundada suspeita capaz de amparar a abordagem policial, restando atendidas as exigências legais do art. 244 do CPP, deve ser afastada a nulidade da busca pessoal. CONDENAÇÃO.
+PORTE DE ARMA DE FOGO. PROVIMENTO. Materialidade e autoria comprovadas, impositiva é a condenação do apelado nas iras do artigo 14, da Lei 10.826/03. DOSIMETRIA. Pela base fixada no mínimo legal ante a favorabilidade das circunstâncias judiciais. Atenuante da confissão reconhecida, sem redução da pena, em atenção a disposição sumular 231, do STJ. Inexistência de causas de aumento ou de diminuição. Pena mínima mantida.
+RECURSO CONHECIDO E PROVIDO.
+Consta do processo que o paciente foi absolvido, em primeiro grau de jurisdição, e condenado, no julgamento do recurso de apelação, como incurso no art. 14 da Lei n. 10.826/2003, à pena de 2 anos de reclusão e 10 dias-multa, no regime aberto (fl. 754).
+Neste writ, afirma-se que as provas obtidas por meio da violação da intimidade do paciente, sem fundadas razões aptas a mitigar a garantia prevista no art. 5º, incisos X, da Constituição da República, e, bem por isso, fora das excepcionalidades restritamente previstas na Carta Magna, devem ser consideradas ilícitas, de modo que não podem ser aproveitadas no processo penal. Assim, afastada a prova ilícita e a prova ilícita por derivação, não há outra solução senão absolvição do paciente (fl. 15).
+É o relatório.
+De plano, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, conforme é possível verificar do seguinte trecho do acórdão impugnado, evidenciada a existência de justa causa para a abordagem pessoal do paciente (fl. 751):
+ ..  a ação policial pautou-se em fundadas razões acerca da prática do delito por parte do réu, já que conforme se extrai especialmente da prova oral jurisdicionalizada, os policiais militares estavam em patrulhamento e, após receberem denúncia de que indivíduos (do qual já tinham informações anteriores de envolvimento no tráfico de drogas) estava comercializando drogas na região, intensificaram o patrulhamento. Eles estavam num veículo da marca Sandero, que era Uber.
+Quando perceberam a viatura, um deles, tentou se esconder com uma blusa na cabeça (para não ser reconhecido). Ao parar o veículo, procederam a abordagem, encontrando uma arma de fogo e as porções de droga, sendo que a arma estava dentro da mochila do Iago.
+Nota-se que possivelmente houve um equívoco quanto à análise da situação fática por parte do juiz sentenciante, pois o contexto dos autos difere sensivelmente da situação narrada na respeitável sentença, já que, verificada a presença de elementos concretos e objetivos de pungente quadro delitivo flagrancial, escorreita se mostra a atuação dos policiais militares ao decidirem pela abordagem pessoal e subsequentes buscas pessoal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ILICITUDE DE PROVAS. PLEITO DE ABSOLVIÇÃO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
