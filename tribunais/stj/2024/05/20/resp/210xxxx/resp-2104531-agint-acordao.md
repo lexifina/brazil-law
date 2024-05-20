@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA COLETIVO IMPETRADO PELA AME/RJ. POSSIBILIDADE DE COMPENSAÇÃO DE GRATIFICAÇÕES MILITARES. COISA JULGADA. REVISÃO CONTEXTO FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ. NÃO CONFIGURADA VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC.
+1. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+2. Rever o entendimento a que chegou a Corte de origem - segundo o qual, "a execução de verba pretérita deve observar a compensação de outras vantagens já percebidas em caráter privativo pelos militares do antigo Distrito Federal" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação à Súmula 7/STJ.
+3. Cumpre ressaltar que, consoante a jurisprudência deste Tribunal, descabe ao STJ apreciar, em Recurso Especial, a indicação de infringência às disposições do CPC que disciplinam o instituto da coisa julgada, diante da necessidade de reexame do contexto fático-probatório dos autos.
+4. Por fim, a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o aresto recorrido.
+5. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto de decisão que conheceu parcialmente do Recurso Especial e, nessa extensão, negou-lhe provimento.
+As agravantes alegam:
+No caso, o STJ vem entendendo que há patente violação aos artigos 489 e 1022 em casos similares, provendo os recursos especiais similares para anular os acórdãos regionais que deixaram de tratar da aplicação do Tem a476 ao caso concreto, e, dessa forma, o provimento do agravo interno seria medida salutar para que a jurisprudência do STJ seja preservada.
+(..)
+Dessa forma, acreditamos ter sido um pequeno equívoco da decisão recorrida, lembrando que já enfrentamos no tópico anterior a questão da súmula 7 do STJ, e sua inaplicabilidade ao caso analisado.
+Pleiteiam a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA COLETIVO IMPETRADO PELA AME/RJ. POSSIBILIDADE DE COMPENSAÇÃO DE GRATIFICAÇÕES MILITARES. COISA JULGADA. REVISÃO CONTEXTO FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ. NÃO CONFIGURADA VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC.
+1. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+2. Rever o entendimento a que chegou a Corte de origem - segundo o qual, "a execução de verba pretérita deve observar a compensação de outras vantagens já percebidas em caráter privativo pelos militares do antigo Distrito Federal" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação à Súmula 7/STJ.
+3. Cumpre ressaltar que, consoante a jurisprudência deste Tribunal, descabe ao STJ apreciar, em Recurso Especial, a indicação de infringência às disposições do CPC que disciplinam o instituto da coisa julgada, diante da necessidade de reexame do contexto fático-probatório dos autos.
+4. Por fim, a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o aresto recorrido.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 17.4.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Com efeito, depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, com a devida fundamentação, conforme trecho aqui transcrito:
+A controvérsia reside em analisar a possibilidade de compensar a Vantagem Pecuniária Especial (VPE) com a Vantagem Pessoal Nominalmente Identificável (VPNI), a Gratificação de Incentivo à Função Militar (GFM) e a Gratificação Especial de Função Militar (GEFM).
+O título executivo em tela foi formado nos autos do Mandado de Segurança Coletivo nº 0016159- 73.2005.4.02.5101 (2005.51.01.016159-0), impetrado em 12.08.2005 e no qual foi reconhecido o direito à extensão da Vantagem Pecuniária Especial - VPE aos servidores inativos e pensionistas integrantes da Polícia Militar e do Corpo de Bombeiros Militar do antigo Distrito Federal em razão da vinculação jurídica estabelecida pela Lei nº 10.486/2002, nos termos do acórdão proferido pela Terceira Seção do C. STJ, no julgamento dos Embargos de Divergência n.º 1.121.981/RJ (DJe 20.06.2013), cuja ementa tem o seguinte teor, verbis:
+(..)
+Compulsando-se os autos do referido mandado de segurança coletivo, nota-se que não houve discussão quanto à possibilidade de compensação ora trazida pela União. Portanto, o tema não foi objeto de decisão na demanda coletiva.
+Destaque-se que, nos termos dos artigos 525, inciso VII, e 917, inciso VI, ambos do Código de Processo Civil de 2015, a compensação pode ser alegada como matéria de defesa em execução.
+(..)
+Verifica-se que o título executivo não veda quaisquer compensações, de modo que a possibilidade de compensação em sede de cumprimento de sentença não ofenderia a coisa julgada.
+Diante disso, acatando-se a vinculação jurídica prevista no título entre os militares do antigo e do atual Distrito Federal, devem ser compensadas rubricas referentes a vantagens recebidas exclusivamente pelos militares do antigo Distrito Federal com a VPE, em razão da impossibilidade de sua cumulação.
+Com efeito, a Gratificação Especial de Função Militar - GEFM (MP nº 302/20, convertida na Lei nº 11.356/06) e a Gratificação de Incentivo à Função Militar - GFM (MP nº 441/08, convertida na Lei 11.907/09) foram concedidas exclusivamente a militares do antigo Distrito Federal, razão pela qual são incompatíveis com a vinculação reconhecida no título.
+Vale destacar que a VPE foi criada pela Lei nº 11.134/05 e o atual entendimento da Segunda Turma do STJ afasta a possibilidade de extensão de tal vantagem aos antigos militares do Distrito Federal, porque o art. 65, da Lei 10.486/02 concedeu tão somente os benefícios ali previstos.
+(..)
+Desse modo, permitir o recebimento da VPE (que foi concedida sob o fundamento de vinculação jurídica entre os antigos militares do Distrito Federal com os atuais) cumulado com a GEFM e GFM (vantagens privativas dos antigos militares do Distrito Federal) iria na contramão do próprio fundamento utilizado no título para justificar a vinculação jurídica reconhecida na ação coletiva, de modo que devem ser compensadas as gratificações recebidas privativamente pelos antigos militares do Distrito Federal.
+Ressalte-se que, em relação à VPNI, a Lei nº 10.486/02, em seu art. 61, previu que constatada a redução de remuneração, de proventos ou de pensões, decorrente da aplicação da Lei nº 10.486/02, o valor da diferença será pago a título de vantagem pessoal nominalmente identificada, extraindo-se, portanto, a possibilidade de absorção/compensação por futuros aumentos que excluíssem ou reduzissem tal diferença.
+Assim, tendo a VPE sido concedida posteriormente ao recebimento da VPNI, plenamente cabível a compensação em razão da própria disposição do art. 61, da Lei nº 10.486/02.
+Eventual pagamento de vantagens reconhecidas pelo Ministério do Planejamento, Orçamento e Gestão aos militares do atual DF (Evento 7, ANEXO3), além de se referir a beneficiários distintos do título executivo em apreço, também não vincula o Poder Judiciário, que deve zelar pela correta aplicação da lei.
+Em resumo, a Vantagem Pecuniária Especial - VPE prevista no título deve ocorrer em substituição às gratificações já percebidas pelos militares do antigo Distrito Federal (a Gratificação Especial de Função Militar - GEFM, a Gratificação de Incentivo à Função Militar - GFM e a Vantagem Pessoal Nominalmente Identificável - VPNI).
+Consequentemente, a execução de verba pretérita deve observar a compensação de outras vantagens já percebidas em caráter privativo pelos militares do antigo Distrito Federal.
+Nessa linha, não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa razões adequadas e suficientes à conclusão do acórdão embargado.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ademais, rever o entendimento a que chegou a Corte de origem - segundo o qual, "a execução de verba pretérita deve observar a compensação de outras vantagens já percebidas em caráter privativo pelos militares do antigo Distrito Federal" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação à Súmula 7/STJ.
+Ao contrário do que defende a parte agravante, a questão controvertida não depende da simples revaloração jurídica das conclusões adotadas pelo Tribunal de origem, mas da própria análise da documentação juntada nos autos.
+Cumpre ressaltar que, consoante a jurisprudência deste Tribunal, descabe ao STJ apreciar, em Recurso Especial, a indicação de infringência às disposições do CPC que disciplinam o instituto da coisa julgada, diante da indiscutível necessidade de reexame do contexto fático-probatório dos autos.
+Por fim, a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o aresto recorrido.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
