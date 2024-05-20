@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo interposto por MASSA FALIDA DE HABITARE CONSTRUTORA E INCORPORADORA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 924):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PREJUÍZOS OCASIONADOS POR CONSTRUTORA A PROPRIETÁRIOS DE IMÓVEL VIZINHO. DANOS DEMONSTRADOS NOS AUTOS. PROCEDÊNCIA DOS PEDIDOS.
+-A prática nociva na atuação da construtora demandada que não se atenta a quesitos tidos como elementares para a segurança da obra desenvolvida e ocasiona ofensas aos proprietários de imóveis lindeiros que extrapolam a seara dos meros aborrecimentos justifica o acolhimento do pedido relativo à indenização por danos morais.
+-O arbitramento econômico do dano moral deve ser realizado com moderação, em atenção à realidade da vida e às peculiaridades de cada caso, proporcionalmente ao grau de culpa e ao porte econômico das partes. Ademais, não se pode olvidar, consoante parcela da jurisprudência pátria, acolhedora da tese punitiva acerca da responsabilidade civil, da necessidade de desestimular o ofensor a repetir o ato.
+-Configurada a preclusão relativa à realização da prova técnica por omissão da ré em recolher a sua parte dos honorários periciais e havendo decisão expressa nos autos no sentido de que tal desídia resultará na presunção de veracidade dos fatos sustentados pelos autores, são cabíveis os danos materiais pretendidos por estes, os quais deverão ser fixados de acordo com o laudo de avaliação trazido na inicial.
+Rejeitados os embargos de declaração opostos com aplicação de multa (fl. 989).
+No recurso especial, alega que o acórdão contrariou os arts. 186 e 944, do CC, pois entende que não houve dano moral.
+Afirma ainda que houve violação do art. 18, §2º do CPC/73, visto que os embargos de declaração não seriam protelatórios, mas teriam finalidade de prequestionamento.
+Aponta divergência jurisprudencial com arestos desta Corte a respeito da aplicação da multa.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.033-1.042).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.050-1.053), o que ensejou a interposição do presente agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem consignou que a recorrente não adotou as medidas de segurança necessárias para coibir os danos comprovados aos imóveis vizinhos, estando caracterizada sua responsabilidade por danos morais. Veja-se (fls. 929-931):
+Após detida análise do feito, verifico que, no tocante à constatação da ausência de medidas de segurança capazes de evitar os danos e transtornos informados na peça de ingresso, a balizar o acolhimento do pedido de indenização por danos morais, a sentença objurgada não merece qualquer retoque.
+Isso porque o caderno probatório vertido ao feito se encontra apinhado de provas capazes de demonstrar a atuação nociva na requerida, ora primeira apelante, no exercício da atividade construtiva realizada no lote lindeiro ao prédio cujos apartamentos são de propriedade dos demandantes, ora segundos recorrentes.
+(..)
+As queixas relatadas ao Departamento de Segurança em Obras da prefeitura de Belo Horizonte se encontram devidamente demonstradas pelas fotografias acostadas à petição inicial, evidenciando o enorme descaso da construtora demandada em relação à segurança dos moradores e transeuntes locais. Também se denota dos autos que os agentes públicos municipais constataram a existência das irregularidades apontadas e notificaram a ré a respeito da necessidade de proceder à limpeza dos imóveis, determinando a instalação de bandejas de proteção nos fundos do prédio edificado, visando coibir a queda de materiais sobre o imóvel vizinho.
+Também houve acionamento da Ouvidoria do Ministério Público do Estado de Minas Gerais, conforme se infere do documento contido nas fls. 80 dos autos físicos. A cópia do Laudo elaborado pela Defesa Civil (fls.102 dos autos físicos), por sua vez, corrobora a existência de deslizamentos de terra ocorridos no terreno da obra e o transbordamento sobre o muro de divisa, atingindo o imóvel dos autores com pedras e lixo, inclusive a casa de gás. Há no referido laudo alerta a respeito da possibilidade de novos deslizamentos, que poderiam atingir o condomínio vizinho. Dos autos da ação cautelar em apenso surge também que a existência de irregularidade no sistema de escoamento pluvial, além da omissão da demandada no que concerne à instalação adequada de tapumes.
+(..)
+Constato, portanto, a prática nociva na atuação da construtora suplicada, pois não se atentou a quesitos tidos como elementares para a segurança da obra desenvolvida, extrapolando a situação vivida pelos requerentes, ora segundos apelantes, a seara dos meros aborrecimentos, justificando-se o acolhimento do pedido relativo à indenização por danos morais.
+A revisão da matéria, conforme já consignado por esta Corte, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. CERCEAMNTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA N. 7 DO STJ. DANOS MORAIS. CARACTERIZADOS. REVISÃO. SÚMULA N. 7 DO STJ. TEMA N. 990 DO STJ. INAPLICABILIDADE. SÚMULA N. 83 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova técnica requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+3. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Inadmissível recurso especial quando o entendimento adotado pelo tribunal de origem encontra-se em harmonia com a jurisprudência do STJ (Súmula n. 83 do STJ).
+5. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.077.630/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER COM REPARAÇÃO DE DANOS MORAIS. NEGATIVA DE COBERTURA DE TRATAMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DANOS MORAIS. CARACTERIZADOS. QUANTUM INDENIZATÓRIO. INVIABILIDADE DE REEXAME. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Reverter a conclusão do colegiado estadual, para acolher a pretensão recursal, demandaria, necessariamente o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do Superior Tribunal de Justiça.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.393.263/CE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+Por fim, o recurso merece provimento quanto à tese de inadequada aplicação da multa prevista no art. 1.026, § 2º, do CPC, visto que a oposição de embargos de declaração, por si só, não autoriza a incidência da sanção, mormente diante da pretensão de prequestionamento pelo qual também foi manejado, fazendo atrair os preceitos da Súmula n. 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. SITE DE INTERMEDIAÇÃO DE COMÉRCIO ELETRÔNICO. NOTIFICAÇÃO EXTRAJUDICIAL. VIOLAÇÃO AOS TERMOS DE USO DA PLATAFORMA. REQUERIMENTO DE EXCLUSÃO DE ANÚNCIOS. IMPOSSIBILIDADE. MULTA POR EMBARGOS PROTELATÓRIOS. AFASTAMENTO.
+(..)
+8. Nos termos da Súmula 98 do STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". No particular, os embargos opostos pela recorrente tiveram por objetivo assegurar a manifestação expressa do Tribunal a quo a respeito do conteúdo do art. 19 do MCI, a fim de garantir o prequestionamento, razão pela qual deve ser afastada a multa aplicada com fundamento no art. 1.026, § 2º, do CPC.
+9. Recurso especial conhecido e provido.
+(REsp n. 2.088.236/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/4/2024, DJe de 26/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. COMPROVAÇÃO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. CUMPRIMENTO DE SENTENÇA. NULIDADE DA CITAÇÃO NA FASE DE CONHECIMENTO. COMPARECIMENTO ESPONTÂNEO. SUPRIMENTO DO VÍCIO. IMPOSSIBILIDADE. TERCEIROS EMBARGOS DE DECLARAÇÃO. MULTA ART, 1.026, § 2º DO CPC. AFASTAMENTO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts.
+489 e 1.022 do CPC/2015.
+2. A ausência ou nulidade da citação do réu na fase de conhecimento não pode ser suprida pelo comparecimento espontâneo em fase de cumprimento de sentença, sob pena de violação dos princípios do contraditório e da ampla defesa. Precedentes.
+3. Na hipótese, os agravados foram citados por edital sem a realização de diligências para a sua localização, sendo posteriormente firmado acordo entre a exequente e os demais executados, portanto, sem a anuência dos agravados. Apesar disso, foi iniciado o cumprimento de sentença dos honorários advocatícios devidos aos patronos da exequente, com a penhora de ativos financeiros dos agravados.
+4. Nesse contexto, deve ser reconhecida a nulidade da citação editalícia, pois o comparecimento espontâneo, na fase de cumprimento de sentença, não é capaz de suprir o vício essencial constatado.
+5. Inexistente o caráter protelatório dos embargos de declaração ou o abuso da parte recorrente em sua oposição, impõe-se o afastamento da multa processual, nos termos da Súmula n. 98 do STJ.
+6. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015.
+(AgInt no AREsp n. 2.226.626/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, para afastar a multa anteriormente aplicada c om fundamento no art. 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS DEMONSTRADOS NOS AUTOS. SÚMULA N. 7/STJ. EMBARGOS DE DECLARAÇÃO COM FINALIDADE DE PREQUESTIONAMENTO. SÚMULA N. 98/STJ. MULTA AFASTADA. AGRAVO CONHECIDO E RECURSO ESPECIAL PARCIALMENTE PROVIDO.
