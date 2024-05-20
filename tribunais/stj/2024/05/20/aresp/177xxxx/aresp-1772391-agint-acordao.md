@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/05/2024 a 20/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSO CIVIL. LICENÇA PARA DESEMPENHO DE MANDATO DE DIRIGENTE SINDICAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. INCIDÊNCIA. MERA INDICAÇÃO DE DISPOSITIVOS LEGAIS. FALTA DE DEMONSTRAÇÃO OBJETIVA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO PRETORIANO. AVALIAÇÃO PREJUDICADA.
+1. A matéria pertinente ao art. 81 da Lei n. 8.112/90 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF. Precedentes.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Incidência da Súmula 284/STF. Precedentes.
+3. O não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por con seguinte, a análise do alegado dissídio pretoriano.
+4 . Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por José Carlos de Oliveira desafiando decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) incidência das Súmulas 282 e 284 do STF; (II) a decisão do Tribunal de origem está em conformidade com a jurisprudência do STJ, no sentido de que a Administração Pública rege-se pelo princípio da legalidade; e (III) o dissídio jurisprudencial não foi comprovado nos moldes legais e regimentais.
+Em suas razões, a parte agravante defende que: (i) "muito embora o art. 81 da Lei n. 8.112/90 não haja sido expressamente mencionado na instância de origem, resta plenamente configurada a ocorrência do prequestionamento implícito no presente feito - haja vista que houve pronunciamento explícito sobre a questão federal controvertida (art. 81 da Lei n. 8.112/90)" (fl. 464); e (ii) "em sentido totalmente oposto ao entendido pelo Ilustre Ministro Relator, restou vastamente demonstrado nos autos que o ora Agravante explanou esmiuçadamente a violação aos arts. 81, 92, 102, da Lei 8.112/90, bem como apontada a grave afronta ao pleno exercício de seu direito à livre associação, garantido pelo art. 37, VI, da Constituição Federal.  ..  Não fosse suficiente a estrita relação entre os dispositivos legais supra apontados, temos ainda a demonstração da existência de divergência jurisprudencial sobre a matéria - a qual foi realizada comprovando as semelhanças com o presente feito" (fls. 468/471).
+Transcorreu in albis o prazo para impugnação (fl. 489).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSO CIVIL. LICENÇA PARA DESEMPENHO DE MANDATO DE DIRIGENTE SINDICAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. INCIDÊNCIA. MERA INDICAÇÃO DE DISPOSITIVOS LEGAIS. FALTA DE DEMONSTRAÇÃO OBJETIVA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO PRETORIANO. AVALIAÇÃO PREJUDICADA.
+1. A matéria pertinente ao art. 81 da Lei n. 8.112/90 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF. Precedentes.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Incidência da Súmula 284/STF. Precedentes.
+3. O não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por con seguinte, a análise do alegado dissídio pretoriano.
+4 . Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento.
+Como asseverado no decisum, a matéria pertinente ao art. art. 81 da Lei n. 8.112/90 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Oportuno relembrar que, de acordo com a jurisprudência do STJ, o prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pelas partes nos recursos que aviaram perante aquela instância.
+Nessa mesma linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ART. 5º DA LINDB. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PRÁTICA ABUSIVA. VALOR DA MULTA. VERIFICAÇÃO DE CRITÉRIOS. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO. SÚMULA 7/STJ. NORMA LOCAL. SÚMULA 280/STF. PORTARIA PROCON. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.
+ ..  6. Agravo interno não provido.
+(AgInt no AREsp n. 1.145.530/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 31/10/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. Violação ao artigo 1.022 do CPC/15 não configurada. Acórdão estadual que enfrentou os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissões. Precedentes.
+2. Nos termos da orientação jurisprudencial adotada por esta Colenda Corte, inobstante a oposição de embargos de declaração, não considera suficiente, para fins de configuração do prequestionamento, que a matéria tenha sido suscitada pelas partes em suas razões recursais ou apenas citada no acórdão como "considerada ou dada por prequestionada", mas sim que a respeito do tema tenha havido efetivo debate no aresto recorrido.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.984/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 26/8/2021.)
+Ressalte-se que com relação aos arts. 92 e 102 da Lei n. 8.112/90, cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp n. 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 3/4/2012 e AgRg no AREsp n. 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe de 25/5/2012.
+Por fim, o não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano.
+Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.1. Ação de obrigação de fazer cumulada com indenização por danos materiais e compensação por danos morais.
+2. A insurgência da agravante quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.748.055/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 6/4/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ILEGITIMIDADE PASSIVA RECONHECIDA NA ORIGEM. ALTERAÇÃO INVIÁVEL. SÚMULAS 5 E 7 DO STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A convicção formada pelo Tribunal local, inclusive ratificando o entendimento da decisão interlocutória, quanto a ilegitimidade passiva dos recorridos se deu em decorrência da análise procedida aos elementos fáticos existentes nos autos, ao passo que é inviável a este Tribunal concluir diferentemente, pois tal implica necessariamente o reexame de provas e de interpretação de cláusulas contratuais, o que é defeso nesta fase recursal (Súmulas 5 e 7 do STJ).
+2. A incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional.
+3. Recurso especial não provido.
+(AgInt no REsp n. 1.788.082/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/11/2020.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. FERROVIÁRIOS APOSENTADOS E PENSIONISTAS. FEPASA. EXTENSÃO AO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA/PENSÃO DOS REAJUSTES SALARIAIS REFERENTES AO IPC DE MARÇO/1990 E ABRIL/1990. PRINCÍPIOS PREVISTOS NO ART. 6º DA LINDB. DIREITO ADQUIRIDO. NATUREZA CONSTITUCIONAL. JULGAMENTO AFETO AO SUPREMO TRIBUNAL FEDERAL. EXAME DO ACERVO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. ÓBICES PREVISTOS NAS SÚMULAS 5 E 7/STJ. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO.
+ ..  3. Ademais, a alteração das conclusões adotadas pela Corte de origem, de forma a averiguar se ficou demonstrado o direito dos recorrentes, demanda novo exame do acervo fático-probatório e de cláusulas contratuais constantes dos autos, providência vedada em Recurso Especial, conforme dispõem as Súmulas 5 e 7/STJ.
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo conhecido para conhecer parcialmente do Recurso Especial apenas em relação à preliminar de violação do art. 1.022 do CPC/2015 e, nessa parte, não provê-lo.
+(AREsp n. 1.526.389/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2019.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
