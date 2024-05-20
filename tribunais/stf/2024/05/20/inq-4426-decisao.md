@@ -1,0 +1,95 @@
+Decisão: 1. Trata-se de inquérito instaurado a pedido da Procuradoria-Geral da República, em face do Senador da República José Renan Vasconcelos Calheiros e do ex-Senador Romero Jucá Filho, para apurar a suposta prática dos crimes previstos nos arts. 317 e 333 do Código Penal e no art. 1º da Lei 9.613/1998.
+
+    A abertura do presente inquérito foi deferida, em 28.03.2017, a fim de investigar fatos envolvendo o suposto pagamento de vantagens indevidas com o propósito de obter a aprovação de legislação favorável (MP 627/2013) aos interesses do Grupo Odebrecht, conforme declarações prestadas pelos colaboradores Marcelo Bahia Odebrecht, Cláudio Melo Filho e José de Carvalho Filho (eDoc. 02).
+
+    À ocasião, descreveu o Parquet acerca do contexto e objeto das investigações constantes deste inquérito (eDoc. 64, fls. 3-7):
+
+    “Extrai-se dos termos de depoimentos dos colaboradores MARCELO ODEBRECHT (ns. 21, 31 e 42), JOSÉ CARVALHO FILHO (n° 20) e CLÁUDIO MELO FILHO (n° 2 e 6), corroborados com documentos apresentados e juntados à presente peça, um episódio relacionado à ‘compra de legislação’ do interesse do Grupo Odebrecht, envolvendo a articulação e o pagamento de vantagem indevida aos Senadores ROMERO JUCÁ e RENAN CALHEIROS.
+
+    A tributação das operações comerciais no exterior sempre foi um tema do interesse do Grupo Odebrecht, em especial pelo fato da Construtora Norberto Odebrecht (CNO), da Odebrecht Óleo e Gás e da Braskem terem subsidiárias com forte e destacada atuação em outros países.
+
+    Em razão disso, MARCELO ODEBRECHT teria negociado diretamente com o então Ministro GUIDO MANTEGA, dentro do contexto da relação construída a base do pagamento de propina entre o grupo ODEBRECHT e integrantes da cúpula do governo federal à época dos fatos, o que culminou com a edição da Medida Provisória 627/2013.
+
+    Com a edição desta Medida Provisória, o pleito do setor de Óleo e Gás, e, por conseguinte, da Odebrecht Óleo e Gás foi parcialmente atendido, uma vez que ficou definido que até 2019 não haveria tributação sobre lucros auferidos no exterior provenientes da atividade de afretamento ou prestação de serviços diretamente relacionados à exploração de petróleo e gás.
+
+    Com relação às demais empresas do Grupo, em especial a CNO, a Medida Provisória trouxe impacto negativo, uma vez que estabeleceu a tributação dos resultados no exterior ao final de cada ano, independentemente dos lucros serem remetidos à matriz no Brasil.
+
+    Desse modo, o Grupo Odebrecht continuou com gestão junto ao Ministério da Fazenda e passou também a atuar no Congresso Nacional para que, no momento da conversão da Medida Provisória em lei ordinária, os demais interesses da Companhia fossem atendidos.
+
+    Era atribuição de CLÁUDIO MELO FILHO, diretor de relações institucionais em Brasília, realizar contatos com parlamentares e ajustar a atuação deles em consonância com os interesses da ODEBRECHT, mediante o pagamento de valores ilícitos.
+
+    Após diversas rodadas de discussões, o Ministério da Fazenda encaminhou ao Relator da Medida Provisória na Câmara dos Deputados, o então deputado EDUARDO CUNHA, sugestão de modificação ao texto original da Medida Provisória, o que foi acatado pelo Relator e aprovado no Plenário da Câmara em 26 de março de 2014.
+
+    Em abril de 2014, perante o Senado Federal, a interlocução da ODEBRECHT por intermédio de CLÁUDIO MELO FILHO, foi realizada com o Senador ROMERO JUCÁ para a aprovação da MP 627/2013, que restou convertida na Lei 12.973/2014, a qual concedeu um crédito de imposto presumido de 9% sobre os lucros auferidos no exterior por investimentos em controladas que exercessem determinadas atividades que não prejudicassem os investimentos das empresas brasileiras no Brasil, entre elas a construção de edifícios e de obras de infraestrutura (art. 87, §§ 10 e 11), isto é, ao invés de tributar o lucro a uma alíquota de 34%, o Brasil tributaria os lucros no exterior das empresas brasileiras que exercem as atividades previstas na legislação, a uma alíquota de 25% .
+
+    Considerando que a CNO possui relevantes atividades no exterior, o Grupo Odebrecht se beneficiou com as alterações realizadas na MP 627/2013.
+
+    Em razão de sua atuação perante o Senado Federal, intercedendo em favor da Odebrecht, o Senador ROMERO JUCÁ teria solicitado vantagem indevida para si e para o Senador RENAN CALHEIROS no valor de R$ 5.000.000,00 (cinco milhões de reais), cujo pagamento teria sido realizado pelo Setor de Operações Estruturadas da Companhia, o qual ficou registrado no sistema Drousys com o tema "exportação", justamente a indicar que o pagamento se deu em contrapartida a aprovação da MP que cuidava de créditos no exterior.”
+
+    No curso desta investigação, foram realizadas diversas diligências pela autoridade policial na tentativa de elucidar as hipóteses criminais investigadas (eDoc. 289), tais como: a) inquirições de colaboradores, investigados, além de outras pessoas implicadas nos fatos; b) juntada aos autos de informações policiais; c) levantamento das prestações de contas eleitorais; d) elaboração de relatórios e informações policiais; e) análise de prestações de conta e doações eleitorais; f) juntada de planilhas apresentadas por Colaboradores; g) elaboração de laudos periciais (contábeis e financeiros), com o fim de analisar os pagamentos registrados nos sistemas de contabilidade paralela; h) juntada da ata dos anais de votação da MP 627/2013; e i) compartilhamento do Relatório de Análise de Material Apreendido n. 0066/2021.
+
+    Em 7.5.2024, após 7 (sete) anos de investigação, o Procurador-Geral da República Paulo Gonet Branco, requer o arquivamento do inquérito, com as ressalvas do art. 18 do Código de Processo Penal (eDoc. 289).
+
+    É o relatório. Decido.
+
+    2. A Procuradoria-Geral da República, em análise do acervo indiciário produzido, declina as razões pelas quais entende inviável a continuação da persecutio criminis quanto aos específicos fatos investigados no âmbito do presente inquérito. Requer, desse modo, o arquivamento, apresentando, em síntese, os argumentos a seguir transcritos (eDoc. 289):
+
+    “As oitivas de colaboradores expõem a história e a dinâmica de funcionamento do Setor de Operações Estruturadas da Odebrecht, para que as ilicitudes praticadas por pessoas vinculadas ao mencionado grupo pudessem ser realizadas. Porém, apesar de esclarecerem esta estrutura ilícita e sua utilização para lavagem de dinheiro e pagamento de vantagens indevidas, não contribuem para a confirmação e a elucidação dos relatos e informações relativas aos supostos pagamentos de vantagens indevidas aos agentes políticos investigados.
+
+    A investigação não logrou êxito em comprovar concretamente a solicitação ou recebimento de vantagem indevida pelo parlamentar Renan Calheiros, no montante de cinco milhões de reais em espécie, consoante relatado unilateralmente pelos colaboradores.
+
+    Os depoimentos de colaboradores e respectivos elementos de corroboração apresentados, a despeito de terem sido suficientes para dar início a uma investigação criminal, sem elementos probatórios que comprovem os delitos imputados, não são suficientes para a deflagração da persecução penal, Nesse sentido, a jurisprudência dessa Suprema Corte:
+
+    ‘EMENTA Inquérito. Corrupção passiva (art. 317, § 1º, CP). Corrupção ativa (art. 333, caput, CP). Lavagem de dinheiro majorada (art. 1º, § 4º, da Lei nº 9.613/98). Denúncia. Parlamentar federal. Suposto envolvimento em esquema de corrupção de agentes públicos relacionado à Diretoria de Abastecimento da Petrobras. Solicitação de vantagem indevida, com desdobramento em pagamentos fracionados. Recebimento em espécie e por meio de contratos fictícios. (…) 10. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória. 11. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti. 12. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria. 13. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação. 14. No caso concreto, faz-se referência a documentos produzidos pelos próprios colaboradores, a exemplo de anotações, registros em agenda eletrônica e planilhas de contabilidade informal. A jurisprudência da Corte é categórica em excluir do conceito de elementos de corroboração documentos elaborados unilateralmente pelo próprio colaborador. Precedentes. (….)” - grifo nosso. (Inq 4074, Relator(a): EDSON FACHIN, Relator(a) p/ Acórdão: DIAS TOFFOLI, Segunda Turma, julgado em 14/08/2018, ACÓRDÃO ELETRÔNICO DJe-221 DIVULG 16-10-2018 PUBLIC 17- 10-2018)
+
+    Na espécie, os elementos de convicção obtidos ao longo da presente investigação não são suficientes para o oferecimento de denúncia contra o parlamentar Renan Calheiros e do então Senador Romero Jucá, em concurso com os demais investigados.
+
+    Diante da atual falta de perspectiva de obtenção de novos elementos que autorizem conclusão diversa, considerando que os fatos investigados remontam ao ano de 2014, forçoso reconhecer a ausência de justa causa para a ação penal, bem como para inexistência de outras diligências eficazes a permitir a continuidade das investigações.
+
+    Ausentes elementos mínimos à persecução penal e não havendo providências adicionais a serem adotadas, a hipótese é de arquivamento do inquérito.” (grifei)
+
+    3. Diante da interpretação dos fatos e das premissas investigativas, verificada pela Procuradoria-Geral da República, quanto à inexistência de indícios suficientes da prática de crimes pelos investigados, e em face do entendimento sedimentado na jurisprudência deste Supremo Tribunal Federal, vocaciona acolhimento a promoção de arquivamento dos autos formulada pelo Ministério Público Federal, com as ressalvas do art. 18, Código de Processo Penal.
+
+    Como sabido, à exceção das hipóteses em que a Procuradoria-Geral da República formula pedido de arquivamento de inquérito sob o fundamento da atipicidade da conduta ou da extinção da punibilidade, é pacífico o entendimento jurisprudencial desta Corte no sentido do acolhimento da pretensão, como regra, independentemente da análise das razões invocadas. Trata-se de decorrência da atribuição constitucional ao Procurador-Geral da República da titularidade exclusiva da opinio delicti, a ser apresentada perante o Supremo Tribunal Federal.
+
+    Nesse sentido, cito o trecho de ementa que bem resume a questão, acrescendo-lhe destaques:
+
+    “(…)
+
+    4. Na hipótese de existência de pronunciamento do Chefe do Ministério Público Federal pelo arquivamento do inquérito, tem-se, em princípio, um juízo negativo acerca da necessidade de apuração da prática delitiva exercida pelo órgão que, de modo legítimo e exclusivo, detém a opinio delicti, a partir da qual é possível, ou não, instrumentalizar a persecução criminal. 5. A jurisprudência do Supremo Tribunal Federal assevera que o pronunciamento de arquivamento, em regra, deve ser acolhido sem que se questione ou se entre no mérito da avaliação deduzida pelo titular da ação penal. Precedentes citados: INQ nº 510/DF, Rel. Min. Celso de Mello, Plenário, unânime, DJ 19.4.1991; INQ nº 719/AC, Rel. Min. Sydney Sanches, Plenário, unânime, DJ 24.9.1993; INQ nº 851/SP, Rel. Min. Néri da Silveira, Plenário, unânime, DJ 6.6.1997; HC nº 75.907/RJ, Rel. Min. Sepúlveda Pertence, 1ª Turma, maioria, DJ 9.4.1999; HC nº 80.560/GO, Rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 30.3.2001; INQ nº 1.538/PR, Rel. Min. Sepúlveda Pertence, Plenário, unânime, DJ 14.9.2001; HC nº 80.263/SP, Rel. Min. Sepúlveda Pertence, Plenário, unânime, DJ 27.6.2003; INQ nº 1.608/PA, Rel. Min. Marco Aurélio, Plenário, unânime, DJ 6.8.2004; INQ nº 1.884/RS, Rel. Min. Marco Aurélio, Plenário, maioria, DJ 27.8.2004; INQ (QO) nº 2.044/SC, Rel. Min. Sepúlveda Pertence, Plenário, maioria, DJ 8.4.2005; e HC nº 83.343/SP, 1ª Turma, unânime, DJ 19.8.2005. 6. Esses julgados ressalvam, contudo, duas hipóteses em que a determinação judicial do arquivamento possa gerar coisa julgada material, a saber: prescrição da pretensão punitiva e atipicidade da conduta . Constata-se, portanto, que apenas nas hipóteses de atipicidade da conduta e extinção da punibilidade poderá o Tribunal analisar o mérito das alegações trazidas pelo PGR. 7. No caso concreto ora em apreço, o pedido de arquivamento formulado pelo Procurador-Geral da República lastreou-se no argumento de não haver base empírica que indicasse a participação do parlamentar nos fatos apurados. 8. Questão de ordem resolvida no sentido do arquivamento destes autos, nos termos do parecer do MPF.” (INQ 2.341-QO, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 28.6.2007).
+
+    No caso, o Ministério Público Federal sustenta que o acervo indiciário não corrobora os supostos fatos delituosos atribuídos aos investigados nas declarações prestadas em acordo de colaboração premiada, depoimentos que não detêm a natureza jurídica de prova, mas, como consabido, mero instrumento para sua obtenção (art. 3º da Lei 12.850/2013).
+
+    Ao lado desse aspecto, a Procuradoria-Geral da República defende que a investigação se ressente de outras linhas não exploradas que possam contribuir eficazmente na produção de evidências confirmatórias dos fatos acima sumariados. Em consequência, diante do manifesto desinteresse do Ministério Público Federal, resulta inviável prosseguir no caminho investigativo.
+
+    Cabe ressalvar, contudo, da presente manifestação da PGR, o ponto no qual afirma que “nos autos da Reclamação n. 43.007/DF, o Ministro Dias Toffoli declarou a imprestabilidade dos elementos de prova obtidos a partir do Acordo de Leniência 5020175- 34.2017.4.04.7000, celebrado pela Odebrecht, e dos sistemas Drousys e MyWebDay, bem assim de todos os demais elementos que dele decorrem, em qualquer âmbito ou grau de jurisdição. Logo, não são hábeis a elucidar a prática do crime de corrupção passiva.”
+
+    Referida decisão ainda está pendente de deliberação definitiva pela Segunda Turma desta Suprema Corte, uma vez que houve a interposição de recursos (Rcl 43.007-AgR-quarto; Rcl 43007-AgR-quinto e Rcl 43007-ED-quintos) contra o entendimento unipessoal firmado pelo eminente Ministro Dias Toffoli, não se tratando, portanto, de entendimento do órgão colegiado por ausência de manifestação definitiva sobre o assunto que deverá ao tempo e modo adequado examinar a questão.
+
+    Ao contrário, a colenda Segunda Turma, ao julgar agravos regimentais interpostos por requerentes de pedido de extensão no âmbito da Rcl 43007, assentou e reafirmou a jurisprudência dominante da aderência estrita, ou seja, da natureza inter partes, sem efeitos vinculantes, e sem efeitos erga omnes, nos seguintes termos:
+
+    “AGRAVOS REGIMENTAIS NOS PEDIDOS DE EXTENSÃO NA RECLAMAÇÃO. ACESSO AO MATERIAL APREENDIDO PELA POLÍCIA FEDERAL EM PODER DE HACKERS NA OPERAÇÃO SPOOFING. PEDIDOS DE EXTENSÃO DOS EFEITOS DA DECLARAÇÃO DE IMPRESTABILIDADE DO ACORDO DE LENIÊNCIA DA ODEBRECHT COMO MEIO DE PROVA. COMANDOS DE NATUREZA INTER PARTES E SEM EFEITOS VINCULANTES. AUSÊNCIA DE IDENTIDADE MATERIAL E DE ADERÊNCIA ESTRITA AOS PARADIGMAS INDICADOS. JULGADOS QUE NÃO POSSUEM EFEITOS ERGA OMNES. REQUERENTES QUE NÃO FIGURAM NA RELAÇÃO JURÍDICA PROCESSUAL PARADIGMA. AGRAVOS REGIMENTAIS AOS QUAIS SE NEGA PROVIMENTO.
+
+    I – O deferimento de pedidos de extensão decorre, substancialmente, do disposto no art. 580 do Código de Processo Penal, sendo necessário, primeiro, que tenha havido concurso de agentes e, depois, que a eventual extensão da decisão que beneficia um dos réus não seja fundada em motivos de caráter exclusivamente pessoal. Assim tem entendido a Segunda Turma do Supremo Tribunal Federal em casos análogos nestes mesmos autos.
+
+    II- Não é cabível o manejo da reclamação constitucional – e, mutatis mutandis, de pedidos de extensão - para garantia da autoridade das decisões pretorianas proferidas em processos nos quais os postulantes não integraram a relação processual antecedente, quando delas decorram somente efeitos inter partes. III - Para que houvesse as extensões requeridas nestes autos seria preciso o ajuste, com exatidão e pertinência, entre a providência que se busca e o paradigma apontado pelos requerentes, o que somente é admitido quando há demonstração, por intermédio de prova documental inequívoca, de absoluta aderência entre o julgado invocado e as decisões recorridas, o que, respeitadas as alegações aduzidas, não é o caso na hipótese. I
+
+    V - Daí porque não há falar em afronta aos paradigmas invocados, o que inviabiliza a utilização prematura ou preventiva deste pleito de extensão, que possui requisitos próprios de cabimento, somente quando observado o efetivo descumprimento ou inobservância das decisões judiciais ou súmulas vinculantes desta Suprema Corte. Não se pode ampliar o alcance dos efeitos implementados nestes autos, sob pena de transformar esta via em verdadeiro sucedâneo do recurso, formulando-se pretensões diretamente perante o órgão máximo do Poder Judiciário.
+
+    V - Agravos regimentais aos quais se nega provimento.” (Rcl 43007 Extn-décimaquinta-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 18-12-2021 – grifei)
+
+    Não obstante a ressalva acima exposta, à míngua de outras medidas investigativas que, não levadas a efeito no decorrer do período de tramitação deste caderno apuratório, poderiam elucidar os fatos, o arquivamento é medida que se amolda às garantias constitucionais dos investigados, com a ressalva do art. 18 do Código de Processo Penal.
+
+    4. À luz do exposto, patente a ausência de interesse do Ministério Público ao manifestar-se pelo esgotamento das linhas de investigação sem corroboração dos fatos investigados (eDoc. 289), o que obsta, pelo princípio acusatório, atuação de prosseguimento por parte do juiz, impõe-se deferir o pedido formulado pela Procuradoria-Geral da República para determinar o arquivamento deste inquérito, com esteio no art. 21, XV, e art. 231, § 4º, do RISTF, com a ressalva prevista no art. 18 do Código de Processo Penal.
+
+    Cientifique-se desta decisão a autoridade policial responsável pela condução das diligências investigativas.
+
+    Publique-se. Intime-se.
+
+    Brasília, 20 de maio de 2024.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
