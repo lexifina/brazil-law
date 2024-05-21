@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por GILMAR DIAS DE SOUZA, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 971):
+CIVIL. PROCESSUAL. ADMINISTRATIVO. IMÓVEIS FINANCIADOS COM RECURSOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO. FCVS. APÓLICE PÚBLICA. CEF . LEGITIMIDADE. JUSTIÇA FEDERAL. COMPETÊNCIA. TEMA 1011 DO STF . VÍCIOS DE CONSTRUÇÃO. AUSÊNCIA DE COBERTURA SECURITÁRIA.
+1. O STF paci cou a questão da legitimidade da CEF para  gurar no polo processual em demandas envolvendo contrato de seguro vinculado à apólice pública, consoante trecho do voto do Relator Ministro Gilmar Mendes nos autos do RE 827996/PR: "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1ºA da Lei 12.409/2011". Ademais, desnecessário aguardar o julgamento dos Embargos de Declaração interpostos nos autos desse Recurso Extraordinário, conforme precedente do STJ no EDcl no REsp 1524136/PR.
+2. A seguradora não pode ser responsabilizada pela reparação de vícios construtivos no imóvel, inerentes à sua própria estrutura ou, ainda, aqueles causados por reformas e alterações de projeto, pois a cobertura securitária, nos termos do contrato e apólice, abrange exclusivamente as avarias causadas por agentes externos, ou seja, aquelas que atuam sobre a edificação. Precedentes deste TRF.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 47, 51 e 54 do Código de Defesa do Consumidor.
+Contrarrazões às e-STJ fls. 1.040/1.072.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 1.091.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Quanto à alegada contrariedade aos arts. 47, 51 e 54 do Código de Defesa do Consumidor, a pretensão recursal não merece prosperar, uma vez que o ora agravante não apontou como o acórdão recorrido teria violado tais dispositivos legais, o que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 E 515, §1º, E 535, II, DO CÓDIGO DE PROCESSO CIVIL DE 1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido. (AgInt no REsp 1.564.937/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+Por fim, "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
