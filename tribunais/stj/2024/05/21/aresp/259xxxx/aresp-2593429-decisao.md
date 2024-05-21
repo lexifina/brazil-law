@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO WELSON LIMA SILVA contra acórdão proferido pelo Tribunal Regional Federal da Região no julgamento da Apelação n. 1000823-55.2021.4.01.4300, julgada nos termos da seguinte ementa (e-STJ fl. 256):
+PENAL E PROCESSUAL PENAL. ESTELIONATO PREVIDENCIÁRIO. ART. 171, § 3º, DO CP. SAQUEINDEVIDO DE PARCELAS DE SEGURO DEFESO TITULARIZADO POR OUTRA PESSOA, MEDIANTEAPRESENTAÇÃO DE CNH FALSA. MATERIALIDADE E AUTORIA COMPROVADAS. DOLO PRESENTE. DOSIMETRIA DA PENA. CONTINUIDADE DELITIVA. FRAÇÃO REDUZIDA.
+I - Crime de estelionato qualificado suficientemente comprovado em todos os seus elementos, conforme tipificação prevista no art. 171, § 3º, do CP.
+II - No que tange à aplicabilidade da continuidade delitiva, de acordo com a jurisprudência do STJ, a majorante de pena deve ser aplicada conforme o número de infrações cometidas pelo réu. No caso do réu que cometeu os crimes em duas ocasiões distintas, a continuidade delitiva deve ser aplicada em sua fração mínima, ou seja, em 1/6 (um sexto).
+III - Dosimetria da pena reformada, apenas para reduzir para 1/6 (um sexto) o aumento decorrente da continuidade delitiva.
+IV - Apelação parcialmente provida.
+No recurso especial, a defesa alegou que o art. 59 do Código Penal foi violado, em razão da desproporcionalidade do aumento realizado na primeira fase da dosimetria, considerando uma única circunstância.
+Opinou o Ministério Público Federal pelo desprovimento do agravo regimental.
+É o relatório.
+Decido.
+Na espécie, a pena básica foi elevada pela consideração desfavorável do vetorial antecedentes (duas condenações), na fração de 2/3 (e-STJ fls. 254/255).
+Rememoro que o legislador ordinário não estabeleceu percentuais fixos para nortear o cálculo da pena-base, deixando a critério do julgador encontrar parâmetros suficientes a desestimular o acusado e a própria sociedade a praticarem condutas reprováveis semelhantes, bem como a garantir a aplicação da reprimenda necessária e proporcional ao fato praticado.
+Desse modo, as circunstâncias do caso concreto, conjugadas com os princípios da proporcionalidade e da razoabilidade, nortearão o sentenciante na escolha do aumento de cada circunstância judicial desfavorável.
+Confira-se, nesse sentido, o seguinte precedente:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO. VALORAÇÃO NEGATIVA DA CULPABILIDADE E DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AUMENTO DA PENA-BASE. PROPORCIONALIDADE. DISSÍDIO JURISPRUDENCIAL APRESENTADO DE FORMA DEFICIENTE. PREOUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+2. No tocante à culpabilidade, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, a maior ou menor censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito. Na hipótese dos autos, o Juiz de 1º grau ressaltou que o réu, como policial militar, deveria ter conferido o armamento antes de utilizá-lo no
+evento de simulação de operação policial antisequestro, negligência que ocasionou a morte de um jovem de apenas 13 anos de idade, que assistia ao evento em frente à escola do bairro. Tal conduta também colocou em risco centenas de pessoas, o que denota maior reprovabilidade e permite a elevação da pena-base.
+3. No que se refere às circunstâncias do delito, essas possuem relação com o modus operandi veiculado no evento criminoso. O magistrado valorou esta circunstância de forma negativa, explicitando o modo como o crime foi praticado, em via pública, durante um evento da polícia, com a inauguração de uma escola e participação de várias crianças, pelo que a decisão deve ser mantida na sua integralidade.
+4. Não se revela desproporcional o aumento da pena-base em 1 (um) ano e 1 (um) mês acima do mínimo legal, pois, "segundo a jurisprudência desta Corte Superior, a definição do quantum de aumento da pena-base, em razão de circunstância judicial desfavorável, está dentro da discricionariedade juridicamente vinculada e deve observar os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime. Não se admite a adoção de um critério puramente matemático, baseado apenas na quantidade de circunstâncias judiciais desfavoráveis, até porque de acordo com as especificidades de cada delito e também com as condições pessoais do agente, uma dada circunstância judicial desfavorável poderá e deverá possuir maior relevância (valor) do que outra no momento da fixação da pena-base, em obediência aos princípios da individualização da pena e da própria proporcionalidade." (HC 437.157/RJ, Rei. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/04/2018, DJe 20/04/2018, com destaque).
+7. Agravo regimental não provido. (AgRg no AREsp 637.724/MT, Rei. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/09/2018, DJe 17/09/2018, grifei.)
+No caso, apesar de devidamente justificada a negativação da culpabilidade na origem, tenho que o aumento em 8 meses acima da pena mínima para o crime de estelionato (pena-base de 1 ano) revela-se desproporcional. Desse modo, o aumento em 1/3, tendo em vista possuir o recorrente duas condenações anteriores que configuram antecedentes, configura resposta punitiva mais adequada à espécie.
+Assim, com base em tais considerações, redimensiono a pena.
+A pena-base do crime de peculato vai fixada em 1 ano e 4 meses de reclusão .
+Na segunda etapa, a atenuante da confissão foi compensada com a agravante da reincidência.
+Na derradeira etapa, aplicado o aumento decorrente da majorante do § 3º do art. 171 do CP, na fração de 1/3, alcança a sanção o quantum de 1 ano, 9 meses e 10 dias de reclusão.
+Ainda, pela continuidade delitiva, aplicada em 1/6, torno a pena no patamar definitivo de 2 anos e 26 dias.
+Mantenho, no mais, o acórdão recorrido.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
