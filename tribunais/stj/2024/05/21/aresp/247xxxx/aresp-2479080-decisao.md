@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONTRATO DE COMPRA E VENDA. PARTES QUE REALIZARAM CONTRATO DE COMPRA E VENDA DE LOTE DE TERRAS, CUJO TERMO FINAL DE ENTREGA NÃO FOI CUMPRIDO. ATRASO CONFIGURADO. RECURSO DE APELAÇÃO (1). TEORIA DA IMPREVISÃO. INAPLICABILIDADE. AUSÊNCIA DE COMPROVAÇÃO DE FATO SUPERVENIENTE E EXTRAORDINÁRIO QUE TENHA PROVOCADO EXCESSIVA ONEROSIDADE DO CONTRATO. ARTIGO 478 DO CÓDIGO CIVIL. RETENÇÃO DE PERCENTUAL DO VALOR ADIMPLIDO E DEMAIS TAXAS (CORRETAGEM, PUBLICIDADE E TRIBUTOS). IMPOSSIBILIDADE. INADIMPLEMENTO DE AVENÇA POR CULPA EXCLUSIVA DA EMPRESA INCORPORADORA. SÚMULA 543/STJ. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS. QUANTUM ADEQUADAMENTE FIXADO. PERCENTUAL QUE DEVE SER FIXADO SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO. ARTIGO 82, §2º DO CPC. APELAÇÃO ADESIVA. INVERSÃO DA CLÁUSULA PENAL. POSSIBILIDADE. TEMA 971 DO STJ. INCIDÊNCIA SOBRE O VALOR DAS PARCELAS EM ATRASO. SENTENÇA PARCIALMENTE REFORMADA. RECURSOS DE APELAÇÃO (1) E APELAÇÃO ADESIVA CONHECIDOS E PARCIALMENTE PROVIDOS.
+1. "Nas hipóteses em que o construtor/vendedor dá causa à resolução do contrato, a restituição das parcelas pagas deve ocorrer em sua integralidade, inclusive comissão de corretagem." (AgInt no REsp n. 1.866.074/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021.)
+2. "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial" (REsp n. 1.614.721/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/5/2019, DJe de 25/6/2019.)" (fls. 320-321).
+Nas razões do recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, inciso IV e 927, inciso III, do Código de Processo Civil; 389 e 402 do Código Civil, sustentando que o acórdão não seguiu a orientação jurisprudencial do Superior Tribunal de Justiça quanto à comissão de corretagem e cláusula de retenção expressamente previstas no contrato firmado entre as partes, sendo cabível a retenção dos valores pagos pela recorrida, diante da rescisão do contrato de compra e venda de imóvel.
+Contrarrazões às fls. 365-373 e-STJ.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origem assim dispôs:
+"Alega a parte apelante (1), ser necessária a retenção de valores das taxas contratuais assumidas, bem como da taxa de correção de corretagem, taxa de publicidade e valor dos tributos incidentes sobre as parcelas adimplidas.
+Também, sem razão.
+Da análise do caderno processual, constata-se que nenhum dos valores indicados comporta retenção pela empresa apelante.
+Isso porque, como bem fundamentado em sentença, a culpa pelo inadimplemento e dissolução do contrato é exclusivamente da apelante, CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA.
+Na forma do enunciado da Súmula 543 do STJ: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.".
+Não bastasse, o Superior Tribunal de Justiça entende que "Nas hipóteses em que o construtor/vendedor dá causa à resolução do contrato, a restituição das parcelas pagas deve ocorrer em sua integralidade, inclusive comissão de corretagem." (AgInt no REsp n. 1.866.074/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021.).
+Portanto, não merece reforma a sentença que condenou a parte ré ao pagamento integral das parcelas adimplidas, pois incabível o pleito para retenções de encargos a título de taxas de corretagem (7%) e publicidade (2%), e tributos incidentes sobre as parcelas adimplidas, conforme cláusula VII do contrato (mov. 1.4) ou mesmo, do pleito subsidiário de contenção do equivalente a 25% do valor pago, quando o próprio contrato previa o percentual de 10% como cláusula penal.
+Além disso, tais encargos seriam devidos apenas na hipótese de desfazimento por culpa exclusiva do comprador, por ausência de pagamento, o que não se verifica.
+Reprise-se, a dissolução contratual ocorreu por culpa exclusiva da empresa apelante.
+Assim, escorreita a sentença ao julgar que "como a resolução do contrato, no caso em análise, se dará por culpa exclusiva do vendedor - que não cumpriu o prazo de entrega previsto no contrato - a restituição se dará de maneira integral. Posto isso, o valor a ser devolvido a requerente, deverá ser o valor total pago, sem retenção."" (fls. 324-325 e-STJ - grifou-se).
+Com efeito , verifica-se que o aresto combatido está em consonância com a jurisprudência do Superior Tribunal de Justiça, consoante a qual "nas hipóteses em que o construtor/vendedor dá causa à resolução do contrato, a restituição das parcelas pagas deve ocorrer em sua integralidade, inclusive comissão de corretagem" (AgInt no REsp 1.866.074/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DO CONTRATO. PROMESSA DE COMPRA E VENDA. ATRASO INJUSTIFICADO. CULPA EXCLUSIVA. CONSTRUTORA. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO DEFICIENTE. OMISSÃO. NÃO OCORRÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. REEXAME. SÚMULAS NºS 5 E 7/STJ. INVERSÃO. CONSUMIDOR. CLÁUSULA PENAL. CABIMENTO. SÚMULA Nº 568/STJ. DEVOLUÇÃO INTEGRAL. ADQUIRENTES. VALORES PAGOS. COMISSÃO DE CORRETAGEM. RESTITUIÇÃO. LUCROS CESSANTES. PREJUÍZO PRESUMIDO.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça preleciona que é cabível a inversão da cláusula penal moratória em favor do consumidor no caso de inadimplemento do promitente vendedor, consubstanciado na ausência de entrega do imóvel no prazo acordado.
+4. Nos casos de resolução do contrato de promessa da compra e venda por culpa atribuída ao promitente vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, incluindo a comissão de corretagem. Incidência da Súmula nº 568/STJ.
+5. O atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador, conforme entendimento firmado nesta Corte Superior.
+6. Agravo interno não provido"
+(AgInt no AREsp 2.128.645/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA N. 7 DO STJ. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR . DEVOLUÇÃO DAS PARCELAS PAGAS EM SUA INTEGRALIDADE. COMISSÃO DE CORRETAGEM. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 d o STJ na hipótese em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame de matéria fático-probatória dos autos.
+2. Nas hipóteses em que se tratar de rescisão de contrato de compra e venda de imóvel, por culpa exclusiva do promitente vendedor, a devolução das parcelas pagas deve ocorrer em sua integralidade, incluindo-se a comissão de corretagem. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido"
+(AgInt no AREsp 2.151.315/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DA OBRA. DANO MORAL. OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 7/STJ. CONDENAÇÃO EM LUCROS CESSANTES. CABIMENTO. COMISSÃO DE CORRETAGEM. DEVOLUÇÃO. CABIMENTO.
+(..)
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, o comprador faz jus à devolução integral dos valores pagos, incluindo a comissão de corretagem, nos casos em que o construtor/vendedor dá causa à resolução do contrato de compra e venda.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Agravo interno improvido"
+(AgInt no REsp 2.037.717/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023 - grifou-se)
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie a Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
