@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei apresentado por FLAVIA DA SILVA VIEIRA, fundamentado no art. 18, § 3º, da Lei 12.153/2009, contra decisão da Quarta Turma Recursal dos Juizados Especiais do Paraná.
+Nas razões de seu expediente, a parte requerente aponta "divergência de entendimento entre a 4ª Turma Recursal dos Juizados Especiais do Paraná e as Turmas Recursais de São Paulo, conforme as ementas do acórdão objurgado e do acórdão paradigma" (fl. 338).
+Argumenta com relação aos seguintes pontos:
+(i)  ..  o Juízo "a quo" entende que a natureza jurídica do Laudo é constitutiva de direito, baseando-se na tese do PUIL 413/RS, mas, se observarem a tese acolhida pelo Sr. Ministro Benedito Gonçalves, diz que a Administração para efetuar o pagamento do adicional de insalubridade deve elaborar o laudo para aferir se as condições de labor são ou não insalubres ao servidor:
+ ..
+Ora, não cabe a Administração realizar o pagamento do adicional de insalubridade sem laudo técnico, contudo, a perícia realizada pelo Poder Judiciário não está condicionada a tese fixada no PUIL 413/RS;
+(ii) A divergência entre o julgado objurgado e os julgados paradigmas se mostram suficientes para fundamentar este pedido, mas, cabe realizar um paralelo entre eles:
+O acórdão da 4ª Turma Recursal do Estado do Paraná manteve a sentença pelos seus próprios fundamentos, logo, na sentença restou consignado:
+Em relação aos efeitos do reconhecimento do adicional de insalubridade, impende assinalar que estes retroagem tão somente a data de confecção do laudo pericial, conforme já assentado pelo Superior Tribunal de Justiça, junto ao Pedido de Uniformização de Jurisprudência nº 413/RS.
+Por lógica, este subscritor não comunga de tal entendimento, se observarem os julgados do Estado de São Paulo, especialmente o do Recurso Inominado n. 1018863-98.2020.8.26.0482, é saber, se a atividade do servidor público pode ser reconhecida como insalubre, afirmativamente é a resposta, já que o manejo de resíduos biológicos, em especial, o contato com objetos que possam conter coliformes fecais vai afetar a saúde do servidor público (fl. 343).
+Não foram apresentadas contrarrazões.
+Às fls. 378/380, o Ministério Público Federal (MPF) se manifestou em parecer assim ementado:
+DIREITO PROCESSUAL CIVIL. PEDIDO DEUNIFORMIZAÇÃO DE INTERPRETAÇÃO DELEI. DEFICIÊNCIA DO COTEJO ANALÍTICO. DIVERGÊNCIA NÃO DEMONSTRADA.- O conhecimento do Pedido de Uniformização de Interpretação de Lei exige o cotejo analítico, com a demonstração das circunstâncias que identificam ou assemelham os casos confrontados e a existência de soluções jurídicas diversas entre eles, nos moldes estabelecidos pelo §1o do artigo 1.029 do CPC/2015e do §1o do artigo 255 do RISTJ, tal como ocorre na análise dos recursos especiais com amparo na alínea "c" do inciso III do artigo 105 da CRFB/1988.- Parecer pelo não conhecimento do Pedido de Uniformização de Interpretação de Lei.
+É o relatório.
+A Lei 12.153/2009, que disciplina o cabimento de pedido de uniformização de interpretação de lei, dispõe que:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+ ..
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Analisando os autos, verifico que a parte requerente não logrou êxito em comprovar a ocorrência do dissídio mediante a demonstração de similitude fática, tendo apenas colacionado as ementas dos julgados apontados como divergentes e, em relação a alguns processos, apenas transcreveu trechos do voto proferido nos autos 1018863-98.2020.8.26.0482, sem, contudo, demonstrar as circunstâncias que assemelham os casos confrontados.
+O entendimento firmado pelo Superior Tribunal de Justiça é no sentido de que deve-se demonstrar a divergência mediante: juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração de autenticidade pelo advogado; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; e cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados.
+A propósito:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. RITO DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. AÇÃO DE REVISÃO DE APOSENTADORIA. CONFRONTAÇÃO DE DECISÃO DE TURMA RECURSAL ESTADUAL, DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA, COM JULGADO DO STJ E SÚMULA DA TNU. HIPÓTESES DE CABIMENTO NÃO PREVISTAS NOS ARTS. 18, § 3º, E 19 DA LEI 12.153/2009. AUSÊNCIA DE IDENTIDADE FÁTICA ENTRE A DECISÃO IMPUGNADA E OS PARADIGMAS APONTADOS. INCIDENTE NÃO CONHECIDO.
+ ..
+VI. Ademais, o requerente não demonstra a identidade entre o caso dos autos e o paradigma por ele apontado, o que, também por essa razão, inviabiliza o conhecimento do incidente. Nessa direção: "para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu no caso em análise" (STJ, AgInt no PUIL 2.667/SC, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 13/03/2023). E ainda: STJ, AgInt no PUIL 2.952/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 08/03/2023; AgRg na Pet 10.607/AC, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 24/02/2015.
+ ..
+VIII. Pedido de Uniformização de Interpretação de Lei não conhecido.
+(PUIL n. 3.552/SC, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 9/8/2023, DJe de 15/8/2023.)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIVERGÊNCIA. REQUISITOS. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+2. Segundo o disposto no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ, aplicáveis por analogia, a parte requerente deve comprovar a divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, mencionando, em q ualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que, in casu, não ocorreu.
+3. Não cabe a esta Corte Superior se manifestar, em sede de pedido de uniformização de interpretação de lei federal, acerca de legislação local.
+4. Agravo interno desprovido.
+(AgInt no PUIL n. 2.750/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 25/10/2022, DJe de 21/11/2022.)
+Por fim, ressalto que, nos termos do art. 18, § 3º, da Lei 12.153/2009, não é cabível pedido de uniformização de interpretação de lei ao fundamento de inaplicabilidade de tese fixada por esta Corte Superior no julgamento de PUIL (nesse caso, trata-se do PUIL 413/RS).
+Ante o exposto, não conheço do pedido de uniformização de interpretação de lei.
+Publique-se. Intimem-se.
+EMENTA
