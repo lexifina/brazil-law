@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar, impetrado em favor de LUCAS EMANUEL DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0004743-78.2023.8.26.0509).
+O Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Araçatuba - DEECRIM 2ª RAJ deferiu o pedido de concessão de indulto formulado com base no Decreto nº 11.302/2022 e, consequentemente, julgou extinta a pena privativa de liberdade aplicada nos autos do Processo Criminal nº 0000014-83.2018.8.26.0541 (e-STJ fls. 20/22).
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso nos termos do acórdão assim ementado (e-STJ fl. 24):
+AGRAVO EM EXECUÇÃO - INDULTO DE PENA - Preliminar: Inconstitucionalidade do art. 5º, do Decreto n. 11.302/2022. Não acolhimento. Mérito: Não preenchimento dos requisitos para a concessão da benesse. Acolhimento. Cassação do benefício. REJEITADA A MATÉRIA PRELIMINAR E, NO MÉRITO, DADO PROVIMENTO AO RECURSO.
+No presente writ, a Defensoria Pública do Estado de São Paulo alega, em síntese, que: a) "o e. Tribunal de Justiça Paulista (..) deu provimento a agravo ministerial e cassou a decisão, entendendo que, nos termos do art. 11 do Decreto 11.302/22, as penas deveriam ser somadas para verificação do limite previsto no art. 5º do mesmo Decreto" (e-STJ fl. 4); b) "a leitura do parágrafo único do último dispositivo citado não dá espaço a qualquer dúvida a este respeito, dispondo que "para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em relação a cada infração penal""(e-STJ fl. 5); e c) "o entendimento contido no v. acórdão diverge do entendimento deste e. STJ" (e-STJ fl. 5).
+Por isso, requer a concessão da ordem para cassar o acórdão impugnado, restabelecendo-se a decisão de primeiro grau que concedeu o indulto.
+Liminar indeferida (e-STJ fls. 31/32).
+Informações prestadas (e-STJ fls. 42/53 e 55/73).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus ou, caso conhecido, pela denegação da ordem (e-STJ fl. 75/82).
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público, consignando, para tanto, que (e-STJ fl. 26):
+O agravante possui condenações pela prática dos crimes de furto simples e furto qualificado e possui uma pena total de 15 anos e 6 meses, sendo a previsão de término da pena em 31/07/2033 (fls. 31), motivo que deve ser observado o caput mencionado no artigo 11 do decreto.
+Conforme previsão, as penas correspondentes a infrações diversas serão unificadas ou somadas, nos termos do art. 111, da Lei de Execuções Penais, referindo-se, portanto, aos casos em que o sentenciado ostenta mais de uma condenação, ou seja, trata-se da situação em apreço.
+Desse modo, sendo a soma das penas do agravado superior a cinco anos, há impedimento para aplicação do indulto, nos termos do art. 5º do Decreto Presidencial n. 11.302/2022, uma vez que mencionada hipótese é cabível somente nos casos de concurso de crimes.
+Conforme se verifica dos trechos do acórdão acima colacionados, o Tribunal de origem entendeu que, no presente caso, como o paciente possui mais de uma condenação em processos diferentes e a somatória das penas em concreto é superior a 5 anos, o indulto não seria aplicável.
+Nessas circunstâncias, verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o entendimento a que chegou o Tribunal a quo não está em conformidade com a jurisprudência desta Corte sobre a matéria.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. INEXISTÊNCIA DE DEFINIÇÃO DE PATAMAR MÁXIMO DE PENA (SEJA EM ABSTRATO OU EM CONCRETO) RESULTANTE DA SOMA OU DA UNIFICAÇÃO DE PENAS. INTERPRETAÇÃO SISTÊMICA DO ART. 5.º E DO ART. 11. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior consolidou-se no sentido de não ser possível utilizar a soma das penas unificadas para fins de obstar a concessão do indulto, nos termos do art. 11 do Decreto n. 11.302/2022, devendo, para os fins estipulados no art. 5.º do referido ato normativo, ser consideradas individualmente as penas máximas em abstrato.
+2. Agravo regimental desprovido.
+(AgRg no HC 875.914/SP, relator o Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/03/2024, DJe de 15/03/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO MINISTERIAL. INDULTO. DECRETO N. 11.302/2022. INTERPRETAÇÃO SISTÊMICA DO ART. 5º E DO ART. 11. INEXISTÊNCIA, NO DECRETO PRESIDENCIAL, DE DEFINIÇÃO DE PATAMAR MÁXIMO DE PENA (SEJA EM ABSTRATO OU EM CONCRETO) RESULTANTE DA SOMA OU DA UNIFICAÇÃO DE PENAS, COMO REQUISITO A SER OBSERVADO NA CONCESSÃO DO INDULTO. AGRAVO DESPROVIDO.
+1. "Não há como se concluir que o limite máximo de pena em abstrato estipulado no caput do art. 5º do Decreto 11.302/2022 somente autoriza a concessão de indulto se o prazo de 5 (cinco) anos não for excedido após a soma ou unificação de penas prevista no caput do art. 11 do mesmo Decreto presidencial" (AgRg no HC n. 824.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023 ).
+2. Agravo regimental desprovido.
+(AgRg no HC 851.752/SP, relator o Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 04/03/2024, DJe de 06/03/2024).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. INCONSTITUCIONALIDADE DO ART. 5º. IMPROPRIEDADE DA VIA ELEITA. EXECUTADO QUE PREENCHE OS REQUISITOS PREVISTOS NO DECRETO. INEXISTÊNCIA DE DEFINIÇÃO DE PATAMAR MÁXIMO DE PENA (SEJA EM ABSTRATO OU EM CONCRETO) RESULTANTE DA SOMA OU DA UNIFICAÇÃO DE REPRIMENDAS.
+1. A alegação de inconstitucionalidade não é suscetível de análise na via do habeas corpus, que não pode ser utilizado como mecanismo de controle da validade das leis e dos atos normativos em geral. Ademais, o exame de constitucionalidade do teor do decreto já foi submetido à discussão no Supremo Tribunal Federal, em Ação Direta de Inconstitucionalidade, sem a determinação, por ora, de suspensão dos efeitos do dispositivo legal questionado.
+2. A compreensão desta Corte Superior é de não ser possível a utilização da soma das penas unificadas para fins de obstar a concessão do indulto, nos termos do art. 11 do Decreto Presidencial n. 11.302/2022, devendo, para os fins estipulados no art. 5º do referido ato normativo, ser consideradas individualmente as penas máximas em abstrato.
+3. Agravo regimental improvido.
+(AgRg no HC 840.517/SP, relator o Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 07/11/2023, DJe de 09/11/2023).
+Ante o exposto, concedo a ordem para anular o acórdão impugnado e, consequentemente, reestabelecer a decisão de primeiro grau que concedeu o indulto ao paciente e, com base no art. 107, II, do Código Penal, declarou extinta a pena privativa de liberdade aplicada no Processo Criminal nº 00000014-83.2018.8.26.0541 (PEC nº 2987-08.2018).
+Comunique-se, com urgência, ao Tribunal de origem e ao Juízo singular.
+Publique-se. Intimem-se.
+ EMENTA
