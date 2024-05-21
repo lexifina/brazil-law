@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS. IMPORTAR, VENDER, EXPOR À VENDA, TER EM DEPÓSITO PARA VENDER OU, DE QUALQUER FORMA, DISTRIBUIR OU ENTREGAR PRODUTO SEM REGISTRO NO ÓRGÃO DE VIGILÂNCIA SANITÁRIA (ART. 273, §1º-B, I, DO CP). TEMA 1003-STF. CONSIDERAÇÃO DA INCONSTITUCIONALIDADE DO PRECEITO SECUNDÁRIO DO ALUDIDO CRIME. PRETENSÃO DE AFASTAMENTO DA HEDIONDEZ. INVIABILIDADE NA VIA ELEITA. MATÉRIA DE CUNHO CONSTITUCIONAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Hugo Santana contra a decisão, da minha lavra, em que rejeitei os embargos de declaração, opostos à decisão em que, monocraticamente, deneguei a ordem ajuizada em seu favor. Eis a ementa (fl. 121):
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ADULTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS (ART. 273, § 1º, B, DO CP). PRETENSÃO DE AFASTAMENTO DA HEDIONDEZ. IMPOSSIBILIDADE. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO EM RELAÇÃO AO JULGAMENTO DO STF NO RECURSO EXTRAORDINÁRIO N. 979.962. INEXISTÊNCIA. ESCLARECIMENTO QUE SE IMPÕE. SEM EFEITOS MODIFICATIVOS, ENTRETANTO.
+Embargos de declaração acolhidos apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+Pretende o agravante, mais uma vez, o afastamento da hediondez do crime previsto no art. 273, § 1º-B, I, do Código Penal, tendo em vista o que firmou a Corte Suprema quando do julgamento do Tema 1003, segundo o qual é inconstitucional a aplicação do preceito secundário do art. 273 do Código Penal, com redação dada pela Lei nº 9.677/98 (reclusão, de 10 a 15 anos, e multa), à hipótese prevista no seu § 1º-B, I, que versa sobre importar, vender, expor à venda, ter em depósito para vender ou, de qualquer forma, distribuir ou entregar produto sem registro no órgão de vigilância sanitária. Para estas situações específicas, fica repristinado o preceito secundário do art. 273, na sua redação originária (reclusão, de 1 a 3 anos, e multa).
+Pede, então, seja reconsiderada a r. Decisão Monocrática ou provido o presente Agravo Regimental, sendo submetido o presente caso a Julgamento pelo Colegiado, e consequentemente fim de cassar o V. Acordão, para que seja CONCEDIDA A ORDEM DE HABEAS CORPUS, para cassar o V. Acórdão, determinando-se a RETIFICAÇÃO DOS CÁLCULOS DE PENA, afastando a hediondez do delito previsto no art. 273, § 1º-B, do CP e consequentemente seja utilizando a fração de pena dos crimes comuns art. 112 da LEP, com redação anterior ao Pacote Anti-crime (fl. 130).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS. IMPORTAR, VENDER, EXPOR À VENDA, TER EM DEPÓSITO PARA VENDER OU, DE QUALQUER FORMA, DISTRIBUIR OU ENTREGAR PRODUTO SEM REGISTRO NO ÓRGÃO DE VIGILÂNCIA SANITÁRIA (ART. 273, §1º-B, I, DO CP). TEMA 1003-STF. CONSIDERAÇÃO DA INCONSTITUCIONALIDADE DO PRECEITO SECUNDÁRIO DO ALUDIDO CRIME. PRETENSÃO DE AFASTAMENTO DA HEDIONDEZ. INVIABILIDADE NA VIA ELEITA. MATÉRIA DE CUNHO CONSTITUCIONAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+VOTO
+A despeito das alegações do agravante, a decisão repreendida não comporta reparos.
+Primeiro, porque a tese de que, com a repristinação do preceito secundário do art. 273 do Código Penal, em sua redação original, seria necessário o afastamento da hediondez do crime previsto no art. 273, 1º-B, I, do Código Penal  importar, vender, expor à venda, ter em depósito para vender ou, de qualquer forma, distribuir ou entregar produto sem registro no órgão de vigilância sanitária  , não encontra amparo nesta Corte Superior de Justiça.
+Depois, porque o precedente qualificado foi firmado no âmbito do Supremo Tribunal Federal, que não se manifestou sobre a questão da manutenção da hediondez do delito, não sendo este Superior Tribunal competente para a análise de matéria constitucional.
+Ademais, caberia à defesa exaurir as instâncias ordinárias e manejar o competente recurso extraordinário, o que não foi feito até então.
+Em face do exposto, nego provimento ao agravo regimental.
