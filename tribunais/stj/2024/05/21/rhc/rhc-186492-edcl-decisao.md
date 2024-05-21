@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSIVAN PEREIRA contra decisão, por mim proferida, que negou provimento ao recurso em habeas corpus (e-STJ fls. 188/193).
+Segundo o embargante, a decisão padeceria de ambiguidade, pois "ao mesmo tempo em que disse o comando decisório que não conhecia do recurso interposto pelo embargante, também restou consignado que houve desprovimento do recurso" (e-STJ fl. 200).
+Por isso, requer "sejam recebidos e acolhidos os presentes embargos de declaração, para sanar a ambiguidade apontada e complementar o julgado para os devidos fins" (e-STJ fl. 201).
+O Ministério Público do Estado do Espírito Santo e o Ministério Público Federal manifestaram-se pela rejeição dos embargos (e-STJ fls. 211/213 e 218/220).
+É o relatório.
+Decido.
+Os embargos de declaração são tempestivos.
+No entanto, não ficou demonstrado nenhum vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões para negar provimento ao recurso em habeas corpus, a saber (e-STJ fls. 189/193):
+O recurso não deve ser provido pois, o acórdão impugnado está alinhado com a jurisprudência desta Corte Superior de Justiça, a qual firmou-se no sentido de que desconstituir a conclusão a que chegou o Tribunal de origem quanto ao reconhecimento da prática de falta disciplinar de natureza grave, ou até mesmo sua desclassificação para falta de natureza média ou leve, demandaria amplo revolvimento de questões fático-probatórias, inadmissível na via estreita do habeas corpus.
+(..)
+De mais a mais, constato que o Tribunal de origem, ao não conhecer do habeas corpus impetrado pela defesa, manteve o reconhecimento da falta pois considerou que a conduta do apenado se enquadrou na hipótese prevista no art. 50, VI, c/c o art. 39, V, da Lei de Execução Penal.
+O acórdão encontra-se assim fundamentado (e-STJ fls. 136/138):
+Conforme relatado, cuidam os autos de pedido de habeas corpus impetrado em favor de JOSIVAN PEREIRA, contra suposto ato coator imputado ao JUÍZO DA 2ª VARA CRIMINAL DE CACHOEIRO DE ITAPEMIRIM, o qual, nos autos do processo executivo nº. 0007092-75.2015.8.08.0011, homologou o PAD 002/2022, reconhecendo a falta grave cometida pelo paciente, prevista no art. 14, XVII, do Regulamento Disciplinar da APAC, e determinando a regressão de seu regime ao fechado.
+O PAD foi instaurado porque, ao retornar da saída temporária e realizado exame toxicológico com amostras de pelos do paciente, foi apresentado resultado positivo para cocaína.
+O impetrante argumenta que, embora o exame com amostra de pelos corpóreos extraída do paciente tenha apresentado resultado positivo, o reeducando negou o uso de entorpecentes e, realizada contraprova, o exame posterior teria comprovado que ele não usou drogas e, portanto, não cometeu a falta grave homologada.
+Entende ser inidônea a fundamentação utilizada para afastar o resultado do exame de sangue, em razão de não ter sido feito dentro de três meses, uma vez que a demora foi de responsabilidade da autoridade coatora, que determinou que o reeducando custeasse o exame, enquanto o Estado tinha plena capacidade para tanto.
+Aduz que o referido exame foi realizado somente após 03 (três) dias do prazo de 90 (noventa) dias, sendo suficiente a afastar a conclusão equivocada da perícia anterior.
+Afirma que deve ser aplicado, in casu, o princípio in dubio pro reo, para afastar a falta grave imputada ao paciente.
+Destaca que não há previsão da falta grave homologada na Lei de Execução Penal, não podendo prevalecer a decisão, sob pena de violação ao princípio da legalidade, ressaltando, ainda, que a tipicidade material do crime de posse de drogas para consumo próprio está sendo discutida pelo STF em sede de repercussão geral.
+Assim, requer a concessão da ordem, para revogar a homologação do PAD, afastando a falta grave e a regressão de regime prisional.
+Indeferida a liminar, a autoridade apontada como coatora prestou as devidas informações e a Procuradoria de Justiça opinou pelo não conhecimento da impetração.
+Pois bem, após o processamento do feito, não vejo motivos para alterar o posicionamento firmado em sede prefacial.
+Conforme consignado naquela oportunidade, o STJ "passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade" (STJ, AgRg no HC 688.360/PB, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), Rel. p/ Acórdão Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/12/2021, DJe 16/12/2021).
+De plano, consigno que o presente writ foi impetrado como substitutivo de agravo em execução, razão pela qual não merece ser ele conhecido.
+Embora seja possível a concessão da ordem de ofício, em hipótese excepcional, por flagrante ilegalidade, não entendo ser este o caso.
+Isso porque toda a questão afeta à apreciação da prova coligida para o reconhecimento da falta grave, inclusive a pretensão de aplicação do princípio in dubio pro reo na avaliação da prova, diz respeito a questões meritórias que demandam a análise aprofundada de acervo probatório, estranha à via estreita do habeas corpus. (..)
+Demais disso, não me parece haver ilegalidade flagrante, visível primo ictu oculi, na medida em que o reconhecimento da falta grave está amparado em exame pericial realizado com amostra de pelos do paciente e que a perícia confeccionado em contraprova de fato se encontra fora da janela de detecção de 90 (noventa) dias expressamente prevista no próprio laudo de exame químico.
+Volto a frisar que as questões adjacentes levantadas pelo impetrante, como a demora na realização atribuível ao Estado ou a existência de prova duvidosa e consequente aplicação do princípio in dubio pro reo, são matérias que escapam ao objeto da presente via mandamental, porquanto exigem uma análise aprofundada da prova.
+A não utilização de drogas de qualquer espécie, incluindo bebidas alcoólicas, durante o período de saída temporária, é uma condição imposta ao reeducando e seu não cumprimento representa desrespeito das ordens recebidas, a teor do art. 50, VI, c/c art. 39, V, da LEP. (..)
+Portanto, em razão da falta grave não estar relacionada ao cometimento de crime mas sim ao descumprimento das condições impostas a serem observadas durante a saída temporária, a previsão na LEP está alicerçada no art. 50, VI, e não no art. 52, sendo portanto inócua a discussão acerca da tipicidade material do crime de posse de drogas para consumo próprio.
+Ante o exposto, por considerar que o presente writ foi impetrado como sucedâneo recursal e por não verificar flagrante ilegalidade apta à concessão da ordem de ofício, NÃO CONHEÇO da impetração
+Ante o exposto, NEGO PROVIMENTO ao recurso em habeas corpus (grifos acrescidos).
+Os presentes embargos, portanto, refletem mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "a pretensão de rediscutir a matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração" (EDcl no AgRg no AREsp n. 2.389.199/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+A fim de atestar a inexistência do alegado vício, destaco os seguintes trechos das contrarrazões apresentadas pelo Ministério Público do Estado do Espírito Santo e pelo Ministério Público Federal, respectivamente:
+(..) o dispositivo da r. d ecisão monocrática embargada está muito claro, logo não há se falar em "ambiguidade, quanto ao dispositivo do comando decisório", a ver:
+Ante o exposto, NEGO PROVIMENTO ao recurso em habeas corpus (e-STJ fl. 213 - grifos acrescidos).
+De plano, cumpre destacar que a suposta ambiguidade aventada pela defesa reproduz uma clara falha de interpretação do teor da decisão, posto que o trecho referente ao não conhecimento da impetração é uma reprodução da decisão proferida no Tribunal de origem, destacado pelo recuo na formatação, enquanto a conclusão da decisão proferida no âmbito dessa Corte Superior é pela negativa de provimento do recurso em habeas corpus (e-STJ fl. 219 - grifos acrescidos).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
