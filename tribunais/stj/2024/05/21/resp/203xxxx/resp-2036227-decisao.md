@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+EXECUÇÃO FISCAL - PRESCRIÇÃO - OCORRÊNCIA.
+1. A consolidação de prazo superior a 5 anos, entre a constituição definitiva do crédito tributário e o despacho ordinatório da citação, na execução fiscal, consuma a prescrição.
+2. O despacho ordinatório da citação é causa interruptiva da prescrição (artigo 174, "caput" e parágrafo único, inciso 1, do CTN, com a redação da Lei Complementar na 118/05).
+3. A norma prescricional prevista na Lei Complementar nº 118/05 tem aplicação imediata (STJ, REsp 860.128/RS, Rel. Ministro José Delgado).
+4. Agravo de instrumento improvido.
+Nas razões recursais, a parte recorrente sustenta que não houve prescrição para o redirecionamento da execução fiscal, ante a ausência de inércia culposa por parte da exequente.
+É o breve relatório.
+Decido.
+Sobre o tema em debate, esta Corte Tribunal de Justiça, no julgamento do Tema 444, firmou a seguinte tese repetitiva:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (AFETADO NA VIGÊNCIA DO ART. 543-C DO CPC/1973 - ART. 1.036 DO CPC/2015 - E RESOLUÇÃO STJ 8/2008). EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. TERMO INICIAL DA PRESCRIÇÃO PARA O REDIRECIONAMENTO. DISTINGUISHING RELACIONADO À DISSOLUÇÃO IRREGULAR POSTERIOR À CITAÇÃO DA EMPRESA, OU A OUTRO MARCO INTERRUPTIVO DA PRESCRIÇÃO. ANÁLISE DA CONTROVÉRSIA SUBMETIDA AO RITO DO ART. 543-C DO CPC/1973 (ATUAL 1.036 DO CPC/2015)
+ ..
+TESE REPETITIVA 14. Para fins dos arts. 1.036 e seguintes do CPC/2015, fica assim resolvida a controvérsia repetitiva: (i) o prazo de redirecionamento da Execução Fiscal, fixado em cinco anos, contado da diligência de citação da pessoa jurídica, é aplicável quando o referido ato ilícito, previsto no art. 135, III, do CTN, for precedente a esse ato processual; (ii) a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente, uma vez que, em tal circunstância, inexistirá, na aludida data (da citação), pretensão contra os sócios-gerentes (conforme decidido no REsp 1.101.728/SP, no rito do art. 543-C do CPC/1973, o mero inadimplemento da exação não configura ilícito atribuível aos sujeitos de direito descritos no art. 135 do CTN). O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes infratores, nesse contexto, é a data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de cobrança executiva promovida contra a empresa contribuinte, a ser demonstrado pelo Fisco, nos termos do art. 593 do CPC/1973 (art. 792 do novo CPC - fraude à execução), combinado com o art. 185 do CTN (presunção de fraude contra a Fazenda Pública); e, (iii) em qualquer hipótese, a decretação da prescrição para o redirecionamento impõe seja demonstrada a inércia da Fazenda Pública, no lustro que se seguiu à citação da empresa originalmente devedora (REsp 1.222.444/RS) ou ao ato inequívoco mencionado no item anterior (respectivamente, nos casos de dissolução irregular precedente ou superveniente à citação da empresa), cabendo às instâncias ordinárias o exame dos fatos e provas atinentes à demonstração da prática de atos concretos na direção da cobrança do crédito tributário no decurso do prazo prescricional.
+ ..
+(REsp n. 1.201.993/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 8/5/2019, DJe de 12/12/2019.)
+No caso concreto, foi constata a dissolução irregular da empresa executada em 8/8/2020 (fl. 47) e a exequente somente postulou a inclusão dos sócios no polo passivo da demanda em meados de 2006 (fl. 122), ou seja, após o decurso do prazo prescricional quinquenal, sendo, portanto, inarredável o reconhecimento da prescrição para o redirecionamento do feito.
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
