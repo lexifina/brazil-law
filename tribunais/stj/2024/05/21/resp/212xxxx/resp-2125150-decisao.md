@@ -1,0 +1,54 @@
+DECISÃO
+Em análise, recurso especial, interposto por CENTRO PROFISSIONAL ESPECIAL LTDA, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL. INSUFICIÊNCIA DE PENHORA. SUSPENSÃO DO EXECUTIVO. IMPOSSIBILIDADE.
+1. Trata-se de agravo de instrumento a desafiar decisão interlocutória que, em embargos à execução fiscal, recebeu o processo sem efeito suspensivo, à míngua da demonstração de garantia integral.
+2. Ultimado o processamento do presente agravo de instrumento, com a juntada das contrarrazões, nada foi apresentado que viesse infirmar os fundamentos da decisão que negou o pedido de efeito suspensivo e indeferiu a tutela de urgência.
+3. O Código de Processo Civil dispõe que o Relator poderá atribuir efeito suspensivo ao agravo de instrumento ou deferir, em antecipação de tutela, a pretensão deduzida no recurso, desde que a parte recorrente comprove estar passível de sofrer lesão grave e de difícil reparação, pressupondo, ainda, a relevância da fundamentação arguida em sua peça recursal (art. 995, parágrafo único, c/c art. 1.019, I).
+4. Das razões de decidir adotadas no julgamento do REsp 1.127.185/SP, submetido ao rito dos recursos repetitivos, extrai-se o entendimento de que é possível o recebimento dos embargos à execução fiscal sema apresentação de garantia do juízo, quando efetivamente comprovado o estado de hipossuficiência patrimonial do devedor (STJ - AgInt no REsp n. 2.022.726/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023).
+5. Em que pese a possibilidade de que o recebimento dos embargos à execução fiscal seja desacompanhado da garantia do juízo, o mesmo não vale para a atribuição de efeito suspensivo.
+6. O colendo STJ, no julgamento do REsp nº 1.272.827-PE, sob o rito dos recursos repetitivos (Tema526), decidiu que: "A atribuição de efeitos suspensivos aos embargos do devedor fica condicionada ao cumprimento de três requisitos: apresentação de garantia; verificação pelo juiz da relevância da fundamentação (fumus boni juris) e perigo de dano irreparável ou de difícil reparação (periculum in mora)".
+7. O STJ também já decidiu que o art. 16, §1º, da Lei nº 6.830/1980 prevê a garantia da execução como pressuposto de admissibilidade dos embargos à execução fiscal. Precedentes do STJ: AgInt no AREsp1760313/RS. Min. OG FERNANDES. 2ª Turma. Julgado em 16/8/2022. DJe 25/8/2022; STJ. AgInt no AgInt no REsp n. 1.892.673/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em25/4/2022, DJe de 29/4/2022. Precedentes do TRF5: PROCESSO: 08017112520234050000, AGRAVODE INSTRUMENTO, DESEMBARGADORA FEDERAL JOANA CAROLINA LINS PEREIRA, 5ªTURMA, JULGAMENTO: 12/6/2023.
+8. O próprio agravante reconhece que o crédito exequendo é na ordem de R$ 2.198.419,14 e que só resta garantido o valor de R$ 6.499.26, decorrente de bloqueio via Sisbajud. Sendo irrisória a garantia ofertada em face do montante executado, inviável se faz a concessão de efeito suspensivo. Ausente tal requisito, resta prejudicada a apreciação dos demais.
+9. Agravo de instrumento desprovido. (fl. 401)
+O acórdão em questão não foi objeto de embargos de declaração.
+Nas razões do recurso especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 919 do CPC/2015 e 16, § 1º, da LEF, sustentando, em síntese, que: "O acórdão recorrido estabelece um suposto desalinho da pretensão da RECORRENTE com a jurisprudência desse Colendo STJ, especialmente no Resp. nº. 1.127.185/P e no Resp.1.272.827/PE, ambos representativos da controvérsia (..)."
+Contrarrazões apresentadas (fls. 448/457), o recurso especial foi admitido pelo Tribunal de origem (fl. 459).
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Pertinente à ofensa ao art. 919, do CPC/2015, a pretensão recursal esbarra no vício formal e intransponível da ausência de prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 e 356 do STF segundo as quais "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+À propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REENQUADRAMENTO FUNCIONAL DO SERVIDOR. HERDEIROS DE EX-PENSIONISTAS. PRESCRIÇÃO DO FUNDO DE DIREITO. FALTA DE PREQUESTIONAMENTO DA TESE RECURSAL. INCIDÊNCIA DA SÚMULA 282/STF. CORRETA APLICAÇÃO DA LEGISLAÇÃO FEDERAL.
+1. A tese jurídica debatida no recurso especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF (AgRg no REsp 1374369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 26/6/2013).
+(..)
+3. Agravo regimental a que se nega provimento. ( AgRg no AREsp
+447.352/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de
+27/02/2014)
+Acerca da garantia da execução , o Tribunal de origem, com base nos elementos dos autos, asseverou que o valor penhorado é irrisório, motivo pelo qual considerou inviável a concessão de efeito suspensivo.
+Dessume-se que o entendimento do acórdão recorrido está em conformidade com a pacífica jurisprudência do STJ, notadamente com a tese firmada em precedente qualificado, REsp 1.272.827/PE, apreciado sob o rito dos recursos repetitivos - Tema Repetitivo 526/STJ.
+Segue ementa do referido julgado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C, DO CPC. APLICABILIDADE DO ART. 739-A, §1º, DO CPC ÀS EXECUÇÕES FISCAIS. NECESSIDADE DE GARANTIA DA EXECUÇÃO E ANÁLISE DO JUIZ A RESPEITO DA RELEVÂNCIA DA ARGUMENTAÇÃO (FUMUS BONI JURIS) E DA OCORRÊNCIA DE GRAVE DANO DE DIFÍCIL OU INCERTA REPARAÇÃO (PERICULUM IN MORA) PARA A CONCESSÃO DE EFEITO SUSPENSIVO AOS EMBARGOS DO DEVEDOR OPOSTOS EM EXECUÇÃO FISCAL.
+(..)
+6. Em atenção ao princípio da especialidade da LEF, mantido com a reforma do CPC/73, a nova redação do art. 736, do CPC dada pela Lei n. 11.382/2006 - artigo que dispensa a garantia como condicionante dos embargos - não se aplica às execuções fiscais diante da presença de dispositivo específico, qual seja o art. 16, §1º da Lei n. 6.830/80, que exige expressamente a garantia para a apresentação dos embargos à execução fiscal.
+(..)
+9. Recurso especial provido. Acórdão submetido ao regime do art. 543-C, do CPC, e da Resolução STJ n. 8/2008 (REsp 1.272.827/PE, Relator Ministro Mauro Campbell Marques, Primeira Seção, DJe 31/05/2013)
+Sendo assim, restou consignado no aludido repetitivo, no que tange à aplicação do art. 739-A do Código de Processo Civil de 1973, que esse dispositivo legal é aplicável aos Embargos à Execução Fiscal, desde que apresentada a garantia e verificado pelo juiz a relevância da fundamentação (fumus boni juris) e do perigo de dano irreparável ou de difícil reparação (periculum in mora).
+No caso, o tribunal de origem, após exame dos elementos fáticos, não vislumbrou a presença dos referidos requisitos necessários à atribuição de efeito suspensivo aos embargos à execução.
+Rever o entendimento do Tribunal de origem, que não vislumbrou a possibilidade de conceder efeito suspensivo aos embargos à execução, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+Nesses termos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. GARANTIA DO JUÍZO. NECESSIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AUSÊNCIA DE GARANTIA DO JUÍZO, DO FUMUS BONI IURIS E DO PERIGO DE DANO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O art. 919, § 1º, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo.
+2. Nos termos da jurisprudência consolidada desta Corte, é condição sine qua non para a concessão do efeito suspensivo aos embargos do devedor a garantia do juízo por penhora, depósito ou caução suficientes. Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Na hipótese, Tribunal a quo, após o exame acurado dos autos e do acervo fático-probatório, concluiu que não se encontram presentes os requisitos necessários à concessão do excepcional efeito suspensivo aos embargos à execução, tendo em vista a inexistência de qualquer garantia do juízo da execução e, ainda, não se reconhecer a presença do fumus boni iuris e do perigo de dano.
+5. A modificação da conclusão do Tribunal de origem sobre a presença dos requisitos para atribuição de efeito suspensivo esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp 2.020.909/PR, Relator Ministro Raul Araújo, Quarta Turma, DJe 26/08/2022)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. A Primeira Seção do STJ, no julgamento do REsp 1.272.827/PE, Relator Ministro Mauro Campbell Marques, submetido ao rito dos recursos repetitivos, nos termos do art. 543-C do CPC/1973 e da Resolução STJ 8/2008, consolidou o entendimento segundo o qual o art. 739-A do CPC/1973 é aplicável às execuções fiscais.
+4. Havendo o Tribunal de origem, com base nos fatos e provas dos autos, concluído que não foram preenchidos os requisitos necessários à concessão de efeito suspensivo aos embargos à execução fiscal, a inversão do julgado demandaria necessariamente o reexame do conjunto fático-probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ.
+5. Agravo interno desprovido. (AgInt no REsp 1.852.189/RS, Relator Ministro Gurgel de Faria, Primeira Turma, DJe 09/03/2021)
+Ante o exposto, com fulcro no art. 255, §4º, I, do RISTJ, não conheço do recurso especial.
+Intime-se.
+EMENTA
