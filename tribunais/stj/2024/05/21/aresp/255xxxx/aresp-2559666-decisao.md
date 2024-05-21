@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado por CONCESSIONÁRIA DE RODOVIAS DO OESTE DE SÃO PAULO - VIAOESTE S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 158):
+DESAPROPRIAÇÃO. ACORDO ANTES DE FORMALIZADA A RELAÇÃO PROCESSUAL. HOMOLOGAÇÃO. FALTA DE INTERESSE DE AGIR.
+O acordo extrajudicial seguido do pagamento do valor acertado consuma a aquisição do bem pela expropriante, prescindindo de sentença homologatória a desapropriação amigável por produzir por si só os efeitos da obtenção da propriedade, sendo suficiente o documento para o registro imobiliário, nos termos do § 2º do art. 10-A do Decreto-Lei 3.365/1941 (de 21-6): "Aceita a oferta e realizado o pagamento, será lavrado acordo, o qual será título hábil para a transcrição no registro de imóveis."
+Não provimento do apelo.
+Opostos embargos declaratórios, foram rejeitados (fls. 175/180).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 1022, I e II, do CPC, uma vez que não foram sanados os vícios apontados nos aclaratórios;
+(II) arts. 22 do Decreto-Lei n. 3.365/41 e 487, III, b, do CPC, tendo em vista que a redação do dispositivo legal é clara quanto à possibilidade de homologação por sentença em caso de concordância sobre o preço pelas partes envolvidas, de modo que não poderia o juízo de origem ter extinguido o feito sem exame do mérito, deixando de chancelar o acordo entabulado.
+Argumenta que não há falar em ausência de interesse processual, notadamente porque a desapropriação não se encerra com o pagamento, sendo apenas uma das etapas do procedimento.
+Assevera que "o acordo firmado não foi apresentado duas horas após a distribuição da ação", salientando que "O acordo em si somente foi firmado a fls. 110/113, e protocolado em 22 de julho de 2022, quase dois meses após a distribuição da ação quando então as partes chegaram a um consenso quanto ao valor.", bem como que "a conclusão do acordo se deu em uma demanda já em curso, inexistindo óbice para o acolhimento do acordo." (fl. 190).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo desprovimento do agravo em recurso especial (fls. 227/230).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1022, I e II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Prosseguindo, quanto à regularidade da decisão de origem que extinguiu o feito sem exame do mérito por falta de interesse de agir, o Tribunal de origem se manifestou nos seguintes termos (fls. 162/163):
+3. O acordo extrajudicial seguido do pagamento do valor acertado consuma a aquisição do bem pela expropriante, prescindindo de sentença homologatória a desapropriação amigável por produzir por si só os efeitos da obtenção da propriedade, sendo suficiente o documento para o registro imobiliário, nos termos do § 2º do art. 10-A do Decreto-Lei 3.365/1941 (de 21-6): "Aceita a oferta e realizado o pagamento, será lavrado acordo, o qual será título hábil para a transcrição no registro de imóveis."
+ ..
+4. No caso concreto o requerimento de homologação do acordo foi formulado em petição autônoma, protocolizada aproximadamente duas horas e meia após a propositura da demanda (e-pág. 106).
+Além dessa particularidade permitir vislumbre do prévio ajuste extrajudicial, não houve sequer a citação dos requeridos, não formalizada a relação processual a caracterizar como judicial o ajuste sub examine.
+Nesse quadro, cabe manter a r. sentença extintiva, por ausência da necessidade de tutela jurisdicional para o fim pretendido.
+5. Por fim, observa-se que as diretrizes de prestígio da solução meritória e de resolução consensual de conflitos previstas no Código de processo civil não suplantam a falta de condição da ação.
+Verifica-se que a Corte local entendeu pela dispensabilidade da prolação de sentença para fins de homologação de ajuste, em razão de o acordo ter sido celebrado antes da citação dos requeridos, a qual formalizaria a relação processual, bem como pelos fatos de que (i) "O acordo extrajudicial seguido do pagamento do valor acertado consuma a aquisição do bem pela expropriante, prescindindo de sentença homologatória a desapropriação amigável por produzir por si só os efeitos da obtenção da propriedade, sendo suficiente o documento para o registro imobiliário, nos termos do § 2º do art. 10-A do Decreto-Lei 3.365/1941" (fls. 160/161) e (ii) "as diretrizes de prestígio da solução meritória e de resolução consensual de conflitos previstas no Código de processo civil não suplantam a falta de condição da ação." (fl. 163).
+Todavia, no presente caso, o recurso especial não impugnou tais fundamentos basilares que amparam o acórdão recorrido, esbar rando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE CANCELAMENTO DE PROTESTO C/C INDENIZAÇÃO POR DANOS MORAIS. ISS. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+1. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, assim, na Súmula 283/STF.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.764.341/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DEMONSTRAÇÃO QUE O PROSSEGUIMENTO DA EXECUÇÃO ACARRETARÁ PREJUÍZO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284/STF.
+1. A ausência de impugnação, nas razões do Recurso Especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. A tese ora sustentada pela insurgente - de que não houve o trânsito em julgado da decisão que encerrou a competência do juízo de recuperação judicial - não foi acompanhada da necessária argumentação, tampouco houve a indicação de dispositivos legais aptos a sustentá-la, o que atrai a incidência da Súmula 284/STF.
+3. No mais, consoante o entendimento do STJ, os novos contornos dados pela Lei 14.112/2020, por expressa determinação legal, têm "incidência imediata aos processos pendentes, respeitados, naturalmente, os atos processuais já praticados" (REsp 2.057.372/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 13.4.2023).
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.436.714/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/4/2024, DJe de 2/5/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
