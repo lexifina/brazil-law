@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial, o qual desafia acórdão assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. AGENTE PENITENCIÁRIO ADMINISTRATIVO DA SUSEPE. EDITAL Nº 01/2022. DIREITO À RETESTAGEM PSICOLÓGICA QUE SE RECONHECE, CONFORME LEI ESTADUAL Nº 13.664/2011. AUSÊNCIA DE REVOGAÇÃO TÁCITA PELA LEI ESTADUAL Nº 15.226/2019.
+1. Sob a ótica do art. 2º, §§ 1º e 2º, da Lei de Introdução às Normas do Direito Brasileiro, não há que se falar em revogação tácita da Lei Estadual nº 13.664/2011 pela Lei Estadual nº 15.226/2019, a qual dispõe sobre o Estatuto do Concurso Público no âmbito do Estado do Rio Grande do Sul e dá outras providências.
+2. Com efeito, pretendesse o legislador estadual, ao instituir posteriormente, em 2019, Estatuto amplo estabelecendo normas genéricas para concursos, com abordagem específica para provas de avaliação psicológica e seu recurso, revogar a Lei nº 13.664/2011 que, independentemente de recurso, assegura o direito ao reteste, por certo que haveria de fazê-lo, revogando expressamente aquela norma anterior - ou prevendo às expressas a impossibilidade de novo teste, a não ser mediante provimento de eventual recurso administrativo, o que não ocorreu.
+3. Segurança concedida na origem.
+APELAÇÃO DESPROVIDA.
+SENTENÇA CONFIRMADA EM REEXAME NECESSÁRIO.
+Embargos de declaração rejeitados.
+No recurso especial obstaculizado, a parte recorrente apontou violação dos seguintes dispositivos legais:
+a) art. 1022, I, do CPC/2015, defendendo negativa de prestação jurisdicional quanto aos seguintes argumentos: (i) "a necessidade de suspensão do feito, tendo em conta a decisão exarada no julgamento do IRDR envolvendo similar temática, incidente autuado sob nº 5139368-08.2022.8.21.0001, o que seria de rigor, considerando, tanto a decisão do E. Relator, no aludido incidente, com o disposto no art. 982, I, do CPC/15"; e (ii) "em relação à alegação de ter havido a revogação tácita da Lei nº 13.259/2009 em função do que dispõe o artigo 2º, § 1º, do Decreto-Lei nº 4.657/1942 (LINDB - Lei de Introdução às normas do Direito Brasileiro). Isso porque a lei nova regulou inteiramente a matéria prevista na vetusta Lei Estadual nº 13.259/09" (e-STJ fl. 516);
+b) art. 982, I do CPC/2015, porquanto "não há espaço para o Juízo deixar de suspender o feito em qualquer grau de jurisdição ou fase processual, devendo tramitar somente, por força do inciso segundo do referido dispositivo, os pedidos de tutela de urgência."; e
+c) art. 2º, § 1º, do Decreto-Lei n. 4.657/1942. "Isso porque a Lei Estadual nº 15.266/2019, ao dispor "sobre o Estatuto do Concurso Público no âmbito do Estado do Rio Grande do Sul" e regular TODOS os aspectos que permeiam um concurso público no Estado, revogou implicitamente a Lei Estadual nº 13.664/2011 (que previa a possibilidade de novo teste psicológico em caso de reprovação)."
+Sem contrarrazões.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Passo a decidir.
+A irresignação recursal comporta acolhida no tocante à alegação de negativa de prestação jurisdicional.
+Com efeito, o art. 1.022 do CPC/2015 prevê que os embargos de declaração são cabíveis quando houver, na decisão judicial, omissão, contrariedade, obscuridade ou erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o q ual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, assiste razão à parte ora recorrente, tendo em vista que o Tribunal de origem não se manifestou acerca do seguinte tema questionado no recurso integrativo, no sentido de que:
+FATO NOVO - DETERMINAÇÃO DO TRIBUNAL DE JUSTIÇA NO IRDR Nº 0001587-47.2023.8.21.7000 DE SUSPENSÃO DE TODOS OS PROCESSOS REFERENTES AO TEMA Necessária a arguição de fato novo, determinante da suspensão da tramitação do feito.
+Isto porque a questão envolvendo a vigência ou não da determinação de reteste à avaliação psicológica, previsto na Lei Estadual nº 13.664/2011, exatamente o caso dos autos, foi objeto de Incidente de Resolução de Demandas Repetitivas cuja admissibilidade foi deferida pelo Ilustre Desembargador Relator (Processo nº 0001587-47.2023.8.21.7000), com determinação de suspensão dos processos em curso.
+A suspensão do feito, assim, encontra guarida na determinação do Tribunal de Justiça com fundamento no artigo 982, I, do CPC/15.
+Neste contexto, a suspensão da tramitação do presente recurso é medida que se impõe.
+Ocorre que a Corte de origem, apesar de provocada, não apreciou diretamente a questão, limitando-se a afastar sua análise por entender que o Estado do Rio Grande do Sul não pretendia, nos embargos declaratórios, buscar a reforma do acórdão embargado.
+Diante disso, estando configurada a violação do art. 1022 do CPC/2015, faz-se necessária a declaração de nulidade do aresto em que apreciados os embargos de declaração, para que o vício seja sanado pelo Tribunal de origem.
+Em caso idêntico, cito a seguinte decisão monocrática: REsp 2.116.992/RS, Rel. Min. FRANCISCO FALCÃO, DJe 16/02/2024.
+Ainda, nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. INDUSTRIALIZAÇÃO POR ENCOMENDA. SERVIÇO DE ACABAMENTO DE CALÇADOS. MATÉRIA-PRIMA DE TERCEIRO. REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. LEGITIMIDADE AD CAUSAM. MATÉRIA RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO. RETORNO À ORIGEM.
+1. A controvérsia de fundo versa sobre pedido de repetição de indébito de ICMS cobrado sobre atividade de acabamento industrial de calçados por encomenda mediante fornecimento de matéria-prima pelo tomador do serviço.
+2. O recorrente alega que o acórdão recorrido violou o art. 1.022, II, do CPC/2015, por ter-se omitido sobre a legitimidade ativa da parte autora com base no art. 166 do CTN.
+3. De fato, houve omissão no aresto impugnado sobre a aplicação do art. 166 do CTN à espécie.
+4. O referido dispositivo repercute sobre a legitimidade ad causam para repetição de indébito de ICMS, razão pela qual constitui matéria relevante que não poderia deixar de ser enfrentada na instância de origem.
+5. Decerto a apelação interposta pelo recorrente não devolveu explicitamente esse tema ao Tribunal. Nada obstante, cuida-se de matéria de ordem pública, suscitada nos Embargos de Declaração e passível de conhecimento de ofício pelo órgão julgador, o que afasta falar em preclusão.
+6. Demais, a hipótese dos autos versa sobre repetição de ICMS, que é espécie de tributo indireto, porque recolhido sobre as receitas oriundas de cada encomenda, comportando repasse previsto em lei para o adquirente do serviço. Nesse caso, "como imposto indireto, tem aplicações, em princípio, o teor do art. 166 do CTN e o verbete 71 do STF, atualmente 546." (REsp 426.179/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 11/5/2004, DJ 20/9/2004). No mesmo sentido: AgRg no REsp 436.894/PR, Rel. Ministro José Delgado, Primeira Turma, julgado em 3/12/2002, DJ 17/2/2003; AgRg no Ag 449.146/SP, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 17/10/2002, DJ 4/11/2002.
+7. O acórdão atacado apenas aferiu a legitimidade ativa da autora com base na comprovação do recolhimento do tributo (fl. 295, e-STJ), deixando de perscrutar ou exigir a demonstração de assunção definitiva do ônus tributário sem acrescê-lo ao preço cobrado do destinatário da mercadoria industrializada. Não há como se confirmar a repetição de indébito sem a prévia superação, na origem, da condição exigida pelo art. 166 do CTN.
+8. Justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios.
+9. Recurso Especial provido. (REsp 1.693.918/RS, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 16/10/2017).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OCORRÊNCIA. 1. Esta Corte Superior tem atribuído efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão. Nesse sentido: AgRg no AREsp 622.677/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1/4/2016; EDcl no AgRg no RESP 1.393.423/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 18/5/2016. 2. No caso dos autos, constata-se que as instâncias ordinárias quedaram-se silentes acerca da questão oportunamente suscitada acerca da ilegalidade da instituição da substituição tributária por Decreto, o que torna impositivo o reconhecimento da ocorrência da omissão apontada nas razões do recurso especial.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão embargado e a decisão desta Corte que o precedeu e dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aclaratórios. (EDcl EDcl AgRg REsp 1.408.452/PE, Rel. Min. BENEDITO GONÇALVES, Primeiro Turma, DJe 20/06/2017).
+Fica prejudicada a análise da irresignação remanescente.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão omitida, mencionada acima.
+Publique-se. Intimem-se.
+EMENTA
