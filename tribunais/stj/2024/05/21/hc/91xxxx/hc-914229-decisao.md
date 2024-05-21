@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, com pedido de liminar, impetrado em benefício de Washington da Silva Serra, em que se aponta como autoridade coatora o Desembargador Relator Francisco Djalma da Câmara Criminal do Tribunal de Justiça do Acre, que indeferiu a liminar no HC n. 1000782-49.2024.8.01.0000, mantendo a prisão preventiva do paciente imposta pelo Juízo da Vara de Organizações Criminosas da comarca de Rio Branco/AC (Processo n. 0004693-20.2023.8.01.0001), pela suposta prática do crime do art. 2º da Lei n. 12.850/2013, não deve ser conhecido.
+Isso porque o impetrante não se desincumbiu do ônus de instruir suficientemente o writ com cópia do decreto de prisão preventiva, folha de antecedentes criminais do ora paciente, bem como documentação comprobatória de suas condições pessoais de favorabilidade (tais como documentos de residência fixa e ocupação lícita), além do extrato de movimentação processual, peças essenciais para a verificação da verossimilhança das alegações e que poderiam dar suporte à premissa da defesa.
+Como é sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante.
+Nesse sentido: AgRg no HC n. 484.988/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/2/2019.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL. HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. Habeas corpus não conhecido.
