@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por TIMAC AGRO INDÚSTRIA E COMÉRCIO DE FERTILIZANTES LTDA., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 722):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃOESPECIFICADO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOSADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO EM PERCENTUALSOBRE O VALOR DA CAUSA. TERMO INICIAL DOSJUROS MORATÓRIOS. VALOR ILÍQUIDO. INAPLICABILIDADE DOART. 86, §16, DO CPC. DECISÃO REFORMADA PARA FIXAR A DATADA INTIMAÇÃO PARA O ADIMPLEMENTO DA OBRIGAÇÃO.
+Considerando que os honorários advocatícios sucumbenciais foram arbitrados no título executivo judicial em percentual sobre o valor da causa, inaplicável a regra do art. 85, §16, do CPC, que se restringe aos casos de fixação em quantia certa. Assim, o termo inicial dos juros moratórios da referida verba honorária deve ser a data da intimação para o adimplemento da obrigação.
+Em suas razões (e-STJ, fls. 141-159), sustentou a agravante violação aos arts. 85, 86, 489, §1º, IV e VI, 509, § 2º, 1.022 e 1.025 do CPC, bem como invocou dissídio jurisprudencial.
+Defendeu, em síntese, que o termo inicial dos juros de mora, em caso de honorários arbitrados sobre o valor da causa, é o trânsito em julgado da sentença, visto que estes incidem a partir da exigibilidade da obrigação.
+Contrarrazões às fls. 179-180 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 198-214).
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+De início, observa-se que o entendimento jurisprudencial deste Superior Tribunal, quanto ao termo inicial dos juros de mora a incidir sobre o valor a ser pago a título de honorários de sucumbência, é no sentido de que estes incidem a partir da data do trânsito em julgado do ato decisório que fixou a condenação.
+A propósito (sem destaque no original):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO CUMULADA COM COMPENSAÇÃO DE DANOS. CUMPRIMENTO DE SENTENÇA.
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. JUROS DE MORA. TERMO INICIAL. RECURSO INTEMPESTIVO. TRÂNSITO EM JULGADO DA SENTENÇA.
+1. Recurso especial interposto em 12/03/2021 e concluso ao gabinete em 20/10/2021.
+2. O propósito recursal é dizer sobre a negativa de prestação jurisdicional e o termo inicial dos juros de mora incidentes sobre o valor arbitrado a título de honorários advocatícios sucumbenciais quando o recurso de apelação for declarado intempestivo.
+3. Não há que se falar em negativa de prestação jurisdicional quando o Tribunal de origem examina toda a matéria devolvida no recurso sob viés diverso daquele pretendido pela parte recorrente.
+4. Na hipótese em que os honorários de sucumbência são fixados em percentual sobre o valor da causa, tem prevalecido nesta Corte o entendimento segundo o qual os juros de mora incidem a partir da exigibilidade da obrigação, o que se verifica com o trânsito em julgado da sentença. Precedentes.
+5. "Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso" (art. 502 do CPC/2015). Dá-se, então, o trânsito em julgado quando não for mais cabível qualquer recurso contra a decisão ou quando se perde o prazo para impugná-la.
+6. No julgamento dos EREsp 1.352.730/AM, a Corte Especial do STJ firmou orientação de que o prazo para o ajuizamento da ação rescisória tem início com o trânsito em julgado da última decisão proferida no processo originário, ainda que seja uma decisão que negue seguimento a recurso intempestivo. Todavia, estabeleceu-se que, quando ficar constatada a manifesta e evidente intempestividade do recurso, indicando que seu manejo se deu apenas como mecanismo de procrastinação da lide originária, o prazo da rescisória há de ser contado da data em que precluiu o direito de recorrer.
+7. Nos termos da doutrina e da jurisprudência, o recurso intempestivo não obsta a formação da coisa julgada, de modo que a decisão que atesta a sua intempestividade não posterga o termo final do trânsito em julgado, que ocorre imediatamente no dia seguinte após expirado o prazo para interposição do recurso intempestivo.
+Desse modo, o termo inicial dos juros de mora incidentes sobre os honorários sucumbenciais é o dia seguinte ao transcurso do prazo recursal.
+8. Recurso especial conhecido e provido.
+(REsp n. 1.984.292/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/3/2022, DJe de 1/4/2022 - sem grifo no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. OMISSÃO. JUROS DE MORA. CORREÇÃO MONETÁRIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A existência de omissão acerca dos juros moratórios e atualização monetária justificam a oposição dos embargos de declaração, a fim de prevenir dúvidas posteriores.
+3. Os juros de mora sobre os honorários sucumbenciais incidem desde sua exigibilidade, ou seja, a partir do trânsito em julgado.
+4. Os honorários advocatícios fixados com fundamento no art. 85, § 2º, do NCPC incidem sobre o valor da causa atualizado.
+5. Nas condenações a partir da vigência do CC/02, os juros de mora devem incidir à taxa SELIC, vedada sua cumulação com índice de correção monetária.
+6. Compatibilizando-se as diretrizes para fixação dos juros de mora e correção monetária, o percentual dos honorários advocatícios incidirá sobre o valor atualizado da causa à data do trânsito em julgado da decisão que deu provimento ao recurso especial, em que fixada a base de cálculo dos honorários, a partir do qual será aplicável apenas a taxa SELIC.
+7. Embargos de declaração acolhidos para sanar omissão.
+(EDcl no AgInt no REsp n. 1.960.431/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE. CONFIGURAÇÃO. ACOLHIMENTO DOS DECLARATÓRIOS.
+1. Constatada a obscuridade no julgado, merecem acolhimento os embargos declaratórios, a fim de, sanando o vício verificado, estabelecer que a base de cálculo dos honorários advocatícios sucumbenciais seja atualizada monetariamente a partir do ajuizamento da demanda até a data do efetivo pagamento (Súmula 14/STJ) e acrescida de juros moratórios a partir do trânsito em julgado desta decisão, que fixa a condenação.
+2. Embargos de declaração acolhidos.
+(EDcl no AgInt no AREsp n. 958.633/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/5/2019, DJe de 4/6/2019.)
+Na espécie, o Tribunal de origem, assim se manifestou (e-STJ, fls. 89-90 - sem grifo no original):
+Isso porque, conforme se denota dos autos de origem, os honorários advocatícios sucumbenciais foram fixados em primeiro grau em "10% sobre o valor atualizado da causa" (Evento14, OUT2 - p. 7), e reduzidos, em sede recursal, para "5% sobre o valor atualizado da causa. Por conseguinte, assiste razão ao agravante quanto ao termo inicial dos juros moratórios incidentes sobre a verba honorária sucumbencial, uma vez que, ao contrário do consignado na decisão agravada, não foram fixados em quantia certa, daí por que inaplicável a regrado art. 85, §16 do CPC. Destarte, por óbvio, o arbitramento da referida verba em percentual sobre o valor da causa difere daquele mencionado no referido dispositivo legal. Tal erro material poderia ser sanado na origem, para o que, inclusive, foram opostos embargos de declaração. Contudo, sequer foram conhecidos sob fundamentação genérica e que não examinou adequadamente a situação apresentada, a qual, rogando vênia a eminente colega de origem, era de fácil solução.
+Nesse contexto, o termo inicial dos juros moratórios relativos aos honorários advocatícios sucumbenciais deve corresponder à data da intimação para o cumprimento da obrigação, e não do trânsito em julgado do título executivo.
+Dessa forma, o entendimento firmado pelo Colegiado de origem está em desconformidade com o deste Superior Tribunal.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para fixação dos juros de mora dos honorários advocatícios sucumbenciais sobre o valor atualizado da causa à data do trânsito em julgado da decisão que deu provimento ao recurso.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE O VALOR DA CAUSA.TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO QUE OS FIXOU. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
