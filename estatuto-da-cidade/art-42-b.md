@@ -6,6 +6,7 @@ IV - definição de parâmetros de parcelamento, uso e ocupação do solo, de mo
 V - a previsão de áreas para habitação de interesse social por meio da demarcação de zonas especiais de interesse social e de outros instrumentos de política urbana, quando o uso habitacional for permitido;
 VI - definição de diretrizes e instrumentos específicos para proteção ambiental e do patrimônio histórico e cultural; e
 VII - definição de mecanismos para garantir a justa distribuição dos ônus e benefícios decorrentes do processo de urbanização do território de expansão urbana e a recuperação para a coletividade da valorização imobiliária resultante da ação do poder público.
+VIII - planejamento integrado de transporte urbano, inclusive por meio de veículos não motorizados, com vistas a melhorar a mobilidade.
 § 1º O projeto específico de que trata o caput deste artigo deverá ser instituído por lei municipal e atender às diretrizes do plano diretor, quando houver.
 § 2º Quando o plano diretor contemplar as exigências estabelecidas no caput, o Município ficará dispensado da elaboração do projeto específico de que trata o caput deste artigo.
 § 3º A aprovação de projetos de parcelamento do solo no novo perímetro urbano ficará condicionada à existência do projeto específico e deverá obedecer às suas disposições.
