@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BIORITMO FRANQUEADORA LTDA., contra decisão de fls. 218/220, a qual negou provimento ao agravo em recurso especial ao seguinte fundamento: os honorários da execução fiscal extinta com base no art. 26 da Lei n 6.830/80 podem ser fixados por apreciação equitativa conforme a jurisprudência desta Corte Superior.
+A parte embargante aponta contradição no julgado, sustentando, em síntese, que: "a hipótese dos autos não foi tratada na tese fixada pelo E. STJ quando do julgamento do Tema 1.076, já que, conforme constou do v. acórdão recorrido, a solução adotada no caso concreto decorre da interpretação do art. 26 da LEF, aspecto não tratado no precedente obrigatório, o que justifica a distinção. Isto é, de rigor considerar que a Embargada deve ser condenada ao pagamento de honorários sucumbenciais com base nos termos do art. 85, §§ 2º ou 3º do CPC e não por equidade vez que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", o que, claramente, não aconteceu nos autos" (fl. 225).
+Ao final, pugna pelo provimento dos aclaratórios, com efeitos modificativos.
+Transcorreu in albis o prazo para resposta (fl. 231).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação da parte embargante não prospera.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Como se sabe, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado, ou seja, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Confiram-se, a propósito, os seguintes precedentes: EDcl no AgInt no AREsp 1.729.157/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 3/3/2021; EDcl no REsp 1.778.048/MT, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 11/2/2021; EDcl no AgInt no REsp 1.752.680/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/12/2020; AgInt no AREsp 1.564.727/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/11/2020.
+No caso, conforme se pode depreender da simples leitura do decisum embargado, há perfeita compatibilidade entre o dispositivo e a fundamentação ali adotada, não havendo falar em contradição.
+Na espécie, a decisão embargada expôs de maneira clara e compreensível as razões pelas quais se negou provimento ao agravo em recurso especial manejado pelo ora embargante, visto que o aresto local está em conformidade com a jurisprudência desta Corte Superior ao fixar os honorários advocatícios por apreciação de equitativa, pois a execução fiscal foi extinta com fundamento no art. 26 da Lei 6.830/80.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se
+EMENTA
