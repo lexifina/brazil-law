@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL TÍTULO DA DÍVIDA AGRÁRIA (TDA) FASE DE CUMPRIMENTO DE SENTENÇA FORMA DE CORREÇÃO INSURGÊNCIA EXTEMPORÂNEA PRECLUSÃO POSIÇÃO DA CONTADORIA DO FORO A QUE SE CONFERE PRESUNÇÃO JURIS TANTUM.
+1. Os títulos da dívida agrária (TDAs) têm atualização autônoma, no intuito de garantir a preservação do seu valor real, qual seja, o disposto na legislação de regência (art. 5º, §§ 3º e 4º, da Lei 8177/91, com redação ,dada pela MP 56/2001 e arts. 8º e 9º do Decreto 578/92).
+2. Hipótese em que pretende o INCRA, na fase de cumprimento da sentença de desapropriação para fins de reforma agrária, cancelar requisições de pagamento já expedidas, sob a alegação de que os valores apresentados pela Contadoria do Foro são incorretos, por contemplarem índices estranhos aos que determinam os preceitos acima mencionados.
+3. In casu, forçoso reconhecer a preclusão da insurgência manifestada pela autarquia fundiária, eis que a matéria já restou acobertada pelo manto da coisa julgada.
+4. Demais disso, é consabido que, em havendo discussão nos autos pertinente à questão de cálculos, impõe-se a análise pela Contadoria do Foro, cuja manifestação deve ser a adotada, por consistir tal órgão em auxiliar do juízo, que atua de forma eqüidistante de ambas as partes.
+5. Caso em que há de prevalecer a conclusão firmada pelo referido órgão quanto ao índice a ser aplicado na TDA presente nos autos, na medida em que suas manifestações revestem-se de presunção juris tantum, apenas suscetíveis de alteração quando infirmadas por provas robustas que demonstrem alguma inexatidão, o que não restou evidenciado no caso em tela.
+6. Agravo de instrumento desprovido. Pedido de reconsideração prejudicado (fls. 71-72).
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, violação aos arts. (a) 535 do CPC/73, por não terem sido sanadas as omissões apontadas nos embargos de declaração; (b) 5º, §§ 3º e 4º, da Lei 8.177/91 e 463, I, do CPC/73, por entender que "o julgado deixou de observar que o equívoco cometido na conta judicial consiste em erro de natureza material, corrigível a qualquer tempo e em qualquer grau de jurisdição, de ofício ou a requerimento das partes, na forma do art. 463, I, do Código de Processo Civil, olvidado pelo acórdão, não havendo porque se falar em preclusão no caso".
+Não foram apresentadas contrarrazões ao recurso.
+O MINISTÉRIO PÚBLICO FEDERAL opina pelo desprovimento do recurso especial.
+É o relatório.
+Passo a decidir.
+De início, não há a alegada ofensa ao art. 535 do CPC, pois a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material.
+Cabe destacar, ainda, que, na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp n. 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp n. 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Com relação aos demais dispositivos de lei tidos por violados, conforme destacado no parecer do Ministério Público Federal, o acórdão recorrido está em conformidade com a jurisprudência do Superior Tribunal de Justiça, que é firme no sentido de que é "passível de correção a qualquer tempo o erro de cálculo evidente (erro material), sendo certo que os critérios de cálculo utilizados na liquidação da sentença são sujeitos à preclusão se não impugnados oportunamente" (AgInt no AREsp n. 2.422.363/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/4/2024, DJe de 19/4/2024). Nesse sentido: AgInt no AREsp n. 2.326.691/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023; REsp n. 1.715.955/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 1/3/2018, DJe de 2/8/2018.
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, conheço do recurso especial e nego-lhe provimento.
+Intimem-se.
+EMENTA
