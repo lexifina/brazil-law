@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, AGRAVO EM RECURSO ESPECIAL interposto por COMPANHIA DE HABITACAO POPULAR DE BAURU contra decisão que, no ponto, inadmitiu seu recurso especial por ausência de prequestionamento.
+A parte agravante sustenta que a matéria controvertida no recurso (data de assinatura do contrato de compra e venda) foi decidida no acórdão. Aduz ser caso de prequestionamento tanto implícito quanto ficto.
+Verifiquei haverem duas decisões distintas de admissibilidade quanto ao mesmo recurso, situação que foi objeto de informações pelas partes e pela origem.
+É o relatório.
+Passo a decidir.
+Preliminarmente, esclareço que a primeira decisão de inadmissibilidade do recurso especial, que negou integral trânsito ao feito com base em tese vinculante desta Corte, não prevalece. A uma, porque não foi publicada, conforme informado pelo próprio de origem, sendo duvidosa sua própria existência jurídica (AgRg no AgRg no Ag n. 685.829/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/10/2010, DJe de 19/10/2010). A duas, porque mesmo diante do conflito de coisas julgadas, esta Corte entende pela validade da segunda, desde que não impugnada oportunamente (AgInt no REsp n. 1.830.389/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/4/2024, DJe de 2/5/2024). Analogicamente, não consta nos autos qualquer insurgência da parte ora agravada quanto aos fatos narrados, antes da intimação específica por mim determinada para esclarecimento da situação.
+Ingressando no agravo propriamente, o caso não é de prequestionamento ficto, porquanto não há qualquer menção a vícios de fundamentação no acórdão recorrido, nem se requereu a incidência do instituto por ocasião do recurso especial. A inovação recursal, somente alegada nesta oportunidade, não pode ser conhecida.
+Quanto às demais razões da insurgência, a parte não indica qualquer elemento objetivo do acórdão que apontaria para a solução da matéria submetida a esta Corte em recurso especial. A mera alegação, não demonstrada, de que a origem se manifestou sobre o ponto não se presta a impugnar de forma adequada e suficiente a decisão de inadmissibilidade.
+A deficiência construtiva do recurso evidencia a falta de dialeticidade, de modo a atrair a incidência da Súmula n. 182/STJ (É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada). A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. NULIDADE DA CDA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 805 E 874 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. EXCESSO DE PENHORA. FUNDAMENTO DA CORTE DE ORIGEM INATACADO, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à ausência de omissão no acórdão recorrido e à incidência das Súmulas 282 do STF e 7 do STJ -, não prospera o inconformismo, quanto aos pontos, em face da Súmula 182 desta Corte.
+ ..
+(AgInt nos EDcl no AREsp n. 2.238.711/RN, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+Isso post o, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
