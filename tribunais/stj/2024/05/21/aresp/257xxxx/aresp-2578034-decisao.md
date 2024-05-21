@@ -1,0 +1,21 @@
+DECISÃO
+Na origem, trata-se de embargos à execução objetivando o reconhecimento da prescrição do crédito tributário. Na sentença, os embargos não foram recebidos ante a intempestividade. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 3.092,77.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. IPTU. PENHORA DEIMÓVEL. TERMO INICIAL. EMBARGOS À EXECUÇÃO. INTIMAÇÃO. PENHORA.INTEMPESTIVIDADE.
+Na execução fiscal, em caso de penhora de imóvel, o prazo para o ajuizamento dos embargos do devedor flui a contar da intimação do termo de penhora. Precedentes do STJ.
+Recurso desprovido
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+As razões recursais apresentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido. No recurso especial, o recorrente traz em suas razões a não possibilidade de substituir o fundamento jurídico da dispensa de intimação do cônjuge devedor, porque este tem legitimidade em conjunto com a parte executada de defender a sua meação e ocorrência de prescrição intercorrente, enquanto, no acórdão recorrido, fundamenta que a citação da executada é válida, porque segundo a jurisprudência do Superior Tribunal de Justiça, nas execuções fiscais, a citação postal se aperfeiçoa com a entregada carta com aviso de recebimento, no endereço do devedor, não sendo necessária a entrega em suas mãos e que conforme o referido na decisão o embargante fora intimado da penhora, uma vez que expedida carta de AR de intimação da penhora para endereço válido.
+Dessa forma, os fundamentos sobre a citação valida e da intimação da penhora, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
