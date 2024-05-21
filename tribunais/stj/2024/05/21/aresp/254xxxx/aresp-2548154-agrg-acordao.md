@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, dar provimento ao agravo regimental para conhecer do agravo e dar parcial provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. PENAL. VIOLAÇÃO DOS ARTS. 33, § 2º, B; 65, III, D, AMBOS DO CP. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL. CÁRCERE FECHADO DEVIDAMENTE FUNDAMENTO COM SUPORTE NA QUANTIDADE DE PENA DOSADA, ENTRE 4 E 8 ANOS DE RECLUSÃO, E DIANTE DA CONSTATADA REINCIDÊNCIA. PLEITO DE EQUIVALÊNCIA ENTRE A ATENUANTE DA CONFISSÃO QUALIFICADA E A AGRAVANTE DA REINCIDÊNCIA. AUSÊNCIA DE PREPONDERÂNCIA ENTRE AS CIRCUNSTÂNCIAS JUDICIAIS. JULGADOS DE AMBAS AS TURMAS. PENAS PRIVATIVA DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS.
+Agravo regimental provido para conhecer do agravo em recurso especial e dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Natan Jose Rosa contra a decisão da Presidência desta Corte que não conheceu do agravo em recurso especial por ele manejado (fls. 284/285).
+Alega o agravante, em síntese, que houve a impugnação específica dos fundamentos da decisão agravada (fls. 296/299).
+Ao final da peça recursal, a defesa requer seja reconsiderada, revisada a decisão agravada que não conheceu o agravo em recurso especial interposto por Natan José da Rosa, a fim de que seja recebido conhecido e provido e em ato continuo, seu Recurso Especial seja apreciado e, nessa extensão, seja conhecido e provido, ou, caso contrário, a submissão do presente Agravo Interno para julgamento por órgão colegiado do Superior Tribunal de Justiça. (fls. 292/300).
+O Ministério Público Federal colacionou a impugnação de fls. 319/320, manifestando-se pelo não conhecimento do regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. PENAL. VIOLAÇÃO DOS ARTS. 33, § 2º, B; 65, III, D, AMBOS DO CP. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL. CÁRCERE FECHADO DEVIDAMENTE FUNDAMENTO COM SUPORTE NA QUANTIDADE DE PENA DOSADA, ENTRE 4 E 8 ANOS DE RECLUSÃO, E DIANTE DA CONSTATADA REINCIDÊNCIA. PLEITO DE EQUIVALÊNCIA ENTRE A ATENUANTE DA CONFISSÃO QUALIFICADA E A AGRAVANTE DA REINCIDÊNCIA. AUSÊNCIA DE PREPONDERÂNCIA ENTRE AS CIRCUNSTÂNCIAS JUDICIAIS. JULGADOS DE AMBAS AS TURMAS. PENAS PRIVATIVA DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS.
+Agravo regimental provido para conhecer do agravo em recurso especial e dar parcial provimento ao recurso especial.
+VOTO
+Razão assiste ao agravante porquanto o agravo em recurso especial preenche os requisitos de admissibilidade.
+Da aferição do recurso especial, tenho que prosperam, em parte, as teses defensivas.
+Quanto ao pedido de abrandamento do regime prisional, embora a reprimenda privativa de liberdade tenha sido estabelecida em patamar entre 4 e 8 anos de reclusão, a constatada reincidência do agravante é fundamento apto à exasperação do cárcere.
+Dessa forma, revela-se idônea a estipulação do regime inicial fechado.
+Nesse sentido, colaciono julgados de ambas as Turmas que compõem a Terceira Seção:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. REINCIDÊNCIA. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impetração de habeas corpus após o trânsito em julgado da condenação e com a finalidade de reconhecimento de eventual ilegalidade na colheita de provas é indevida e tem feições de revisão criminal.
+2. Ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ no STJ, cuja competência prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+3. A condenação a pena entre 4 e 8 anos de reclusão, que, em tese, admitiria a fixação do regime semiaberto, enseja, em caso de reincidência, conforme os parâmetros legais (art. 33, §§ 2º, a e b, e 3º, do Código Penal), a imposição do regime prisional fechado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 695.106/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe de 15/12/2021 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. IMPUGNAÇÃO SUFICIENTE. RECONSIDERAÇÃO. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. REINCIDÊNCIA. DETRAÇÃO INÓCUA. AGRAVO IMPROVIDO.
+1. Uma vez impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reformado a decisão que não conheceu do agravo.
+2. Não há ilegalidade na fixação do regime inicial fechado para o cumprimento da pena fixada entre 4 e 8 anos, diante da reincidência do sentenciado, circunstância que torna inócua a detração prevista no art. 387, § 2º, do CPP, razão pela qual tem incidência a súmula n. 83/STJ.
+3. Agravo regimental provido para negar provimento ao agravo em recurso especial.
+(AgRg no AREsp n. 1.861.262/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 28/6/2021 - grifo nosso).
+Quanto ao pedido de equivalência entre a confissão espontânea e a reincidência, extraem-se da sentença condenatória e do combatido aresto os seguintes trechos (fls. 65 e 187 - grifo nosso):
+ ..  Na fase das circunstâncias legais dos arts. 61 e 65 do Código Penal (atenuantes e agravantes), presente a agravante da reincidência (evento 34, CERTANTCRIM3) motivo pelo que elevo a pena em 1/6. Outrossim, presente a atenuante da confissão qualificada, já que o réu afirmou que sabia que transportava algo ilícito, mencionando no saber o que era, de modo que reduzo a pena em 1/12. Compenso assim a agravante pela atenuante e assim majoro a pena em 1/12 (6 meses e 20 dias e 55 dias multa).  ..
+Ainda quanto ao estágio intermediário do cômputo, o réu ambiciona o aumento da fração atinente à confissão espontânea reconhecida pelo Juízo a quo.
+Todavia, a despeito do entendimento deste, este magistrado compreende que a denominada confissão qualificada "não atenua a pena, já que, nesse caso, o réu não estaria propriamente colaborando para a elucidação da autoria, tampouco concordando com a pretensão acusatória, mas agindo no exercício do direito de autodefesa" (CAPEZ, Fernando; PRADO, Stela. Código penal comentado. 7. ed. São Paulo: Saraiva, 2016, p. 160).
+ ..
+Registra-se, ainda, que "exige a lei que, para ser reconhecida a atenuante da confissão espontânea, deve ser ela completa e movida por um motivo moral, altruístico, demonstrando arrependimento, não se admitindo quando o apelante, confessando a autoria, alega versão justificativa ou excludente de antijuridicidade, legítima defesa ou erro de fato (Apelação Criminal n.2003.000369-0, rel. Des. Solon d"Eça Neves, Primeira Câmara Criminal, j. 27-10-2003)" (Apelação Criminal n. 0003714-26.2014.8.24.0036, de Jaraguá do Sul, rel. Des. Marli Mosimann Vargas, j. 8-3-2016).
+Assim, não há qualquer reparo a ser feito na dosimetria da pena levada a efeito na origem.
+ ..
+Razão assiste ao agravante, porquanto, no caso concreto, não há falar em preponderância entre as referidas circunstâncias agravante e atenuante.
+A corroborar, colaciono precedentes de ambas as Turmas que compõem a Terceira Seção desta Corte Superior:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA PARCIAL. ATENUAÇÃO OBRIGATÓRIA. TESE DE IMPOSSIBILIDADE DE COMPENSAÇÃO INTEGRAL COM A REINCIDÊNCIA. HIPÓTESE ONDE O AGRAVADO NÃO É MULTIRREINCIDENTE.
+1. Somente na hipótese de multirreincidência, há que se falar em preponderância da agravante sobre a atenuante. Sendo disposta somente uma anotação apta a configurar a reincidência, impõe-se a compensação integral com a confissão, ainda que parcial ou qualificada.
+2. A confissão do paciente, embora utilizada para lastrear a convicção do julgador acerca da procedência da acusação, não foi compensada com a reincidência, pois as instâncias ordinárias entenderam pela preponderância dessa última. Entretanto, a jurisprudência desta Corte firmou-se no sentido de que a incidência da atenuante prevista no art. 65, III, d, do Código Penal, independe se a confissão foi integral ou parcial, quando utilizada para fundamentar a condenação (HC n. 337.662/RJ, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/08/2016).  ..  Ordem concedida, de ofício, para compensar a agravante da reincidência com a atenuante da confissão parcial e redimensionar as penas do paciente na terceira etapa da dosimetria. (HC n. 435.676/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1/8/2018).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.998.754/MG, de minha relatoria, Sexta Turma, DJe de 16/6/2023 - grifei).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO DUPLAMENTE CIRCUNSTANCIADO E ROUBO DUPLAMENTE CIRCUNSTANCIADO TENTADO. COMPENSAÇÃO. CONFISSÃO E REINCIDÊNCIA. AUSÊNCIA DE PREPONDERÂNCIA. TERCEIRA FASE DA DOSIMETRIA. PATAMAR FIXADO EXCLUSIVAMENTE COM BASE NO NÚMERO DE MAJORANTES. INADMISSIBILIDADE. SÚMULA 443 DO STJ. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO, PARA COMPENSAR A REINCIDÊNCIA COM A CONFISSÃO PARCIAL E FIXAR O AUMENTO NA TERCEIRA ETAPA DA DOSIMETRIA NA FRAÇÃO MÍNIMA DE 1/3.
+ ..
+2. A confissão do paciente, embora utilizada para lastrear a convicção do julgador acerca da procedência da acusação, não foi compensada com a reincidência, pois as instâncias ordinárias entenderam pela preponderância dessa última. Entretanto, a jurisprudência desta Corte firmou-se no sentido de que a incidência da atenuante prevista no art. 65, III, d, do Código Penal, independe se a confissão foi integral ou parcial, quando utilizada para fundamentar a condenação (HC n. 337.662/RJ, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/08/2016).
+3. Na hipótese dos autos, a pena foi aumentada em 3/8 na terceira fase da dosimetria, exclusivamente com fundamento no número de majorantes, em desrespeito ao Enunciado n. 443 da Súmula desta Corte, sendo imperativo o redimensionamento das penas do paciente.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para compensar a agravante da reincidência com a atenuante da confissão parcial e redimensionar as penas do paciente na terceira etapa da dosimetria.
+(HC n. 435.676/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 1º/8/2018 - grifo nosso).
+Pelo quanto provido, necessário o redimensionamento das penas do agravante, quanto ao crime de tráfico de drogas .
+Pena-base disposta em 6 anos e 8 meses de reclusão, mais pagamento de 666 dias-multa (fl. 65), pena esta que se torna definitiva diante da compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência, bem como diante da carência de outras causas de aumento ou de diminuição da pena.
+Agravo regimental provido para conhecer do agravo em recurso especial e dar parcial prov imento ao recurso especial.
