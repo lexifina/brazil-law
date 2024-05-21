@@ -1,0 +1,41 @@
+Habeas corpus. Crimes de tráfico de drogas privilegiado e posse irregular de arma de fogo. Pleito de absolvição. Reexame do acervo fático-probatório. Impossibilidade. Precedentes. Dosimetria. Concurso formal. Aplicação da minorante do art. 33, § 4º, da Lei 11.343/2006, no patamar máximo. Supressão de instância. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+    Trata-se de habeas corpus impetrado em favor de Cleiton Silva Chaves contra acórdão do Superior Tribunal de Justiça, que não conheceu do agravo regimental no HC 862.478/SP (evento 6).
+
+    O Paciente foi condenado às penas de 02 anos e 06 meses de reclusão, mais 01 ano de detenção, em regime inicial aberto, substituídas respectivamente, por duas restritivas de direitos e uma restritiva de direito, pela prática dos crimes de tráfico de drogas privilegiado e posse irregular de arma de fogo, previstos nos arts. 33, §4º, da Lei 11.343/2006 e art. 12 da Lei 10.826/2003 (evento 5, fls. 106-8).
+
+    No presente writ, a Defesa sustenta a absolvição do paciente quanto ao delito de posse irregular de arma de fogo, pois “O emprego de arma de fogo no caso concreto caracteriza a causa especial de aumento de pena prevista no art. 40, IV, da Lei nº 11.343/06, por força do Princípio da especialidade”. Aduz o reconhecimento do concurso formal entre os crimes, com a redução das penas aplicadas. Alega a possibilidade de aplicação da minorante do art. 33, § 4º, da Lei 11.343/2006, em seu patamar máximo (2/3), porquanto “a quantidade, a natureza e a variedade das drogas apreendidas não se mostram expressivas, de forma que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais elementos para justificar a incidência da minorante em patamar diferente do máximo”. Pontua a ocorrência de bis in idem na dosimetria da pena, pois a quantidade e a natureza da droga foram sopesadas na primeira e terceira fases de aplicação da pena. Requer a absolvição do paciente quanto ao crime de posse irregular de arma de fogo e o redimensionamento das penas.
+
+    É o relatório. Decido.
+
+    O ato dito coator restou assim ementado:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. PLEITO ABSOLUTÓRIO. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA – STJ. AGRAVO NÃO CONHECIDO.
+
+    1. A decisão agravada não conheceu do habeas corpus substitutivo de recurso próprio uma vez que a via eleita, marcada por cognição sumária e rito célere, não é adequada para infirmar a condenação imposta na origem. Quanto à dosimetria, verificou-se que o acórdão impugnado não analisou expressamente as teses defensivas, o que afasta a competência desta Corte Superior para conhecer originariamente da matéria, sob pena de incorrer indevida supressão de instância. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182 desta Corte Superior.
+
+     2. Agravo regimental não conhecido.”
+
+    A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024).
+
+    De início, assento que o Superior Tribunal de Justiça rechaçou o pleito de absolvição do delito de posse ilegal de arma de fogo (art. 12 da Lei 10.826/2003), tendo em vista que “Vê-se, foram declinados fundamentos concretos para impor a condenação em exame. A instância ordinária, após análise de todo o conjunto de provas, concluiu pela caracterização de conduta descrita como tráfico de drogas e posse ilegal de arma de fogo praticadas pelo paciente, ressaltando que "o réu foi detido em local conhecido pela venda de drogas, após correr da polícia e dispensar uma mochila contendo grande quantidade e variedade de entorpecentes [...] e dinheiro. Quando tentavam algemá-lo, ele ainda tentou correr, mas foi contido" (fl. 177). Pugnou, ainda, a Corte estadual: "acaso Cleiton não tivesse indicado o imóvel onde guardava a sua arma de fogo, os policiais não teriam meios de acessar aquele local, tudo a evidenciar a veracidade dos relatos dos milicianos e que ele de fato era o responsável pela pistola apreendida e efetivamente dispensou a mochila contendo os entorpecentes" (fl. 178). Nesse contexto, a via eleita, marcada por cognição sumária e rito célere, é inadequada para averiguar as particularidades subjetivas que lastrearam o convencimento dos julgadores que impuseram a condenação, sem análise profunda das provas dos autos.”
+
+    Nesse prisma, o ato coator está parametrizado com a jurisprudência deste Supremo Tribunal Federal no sentido de que inviável sindicalizar a qualidade da prova valorada nas instâncias anteriores, para fins de acolher a tese absolutória, em sede de habeas corpus. Com efeito, esta Suprema Corte já assentou que “’a ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal’ (HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012)”. (HC 237.184 AgR/DF, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 13.3.2024); “A superação do entendimento das instâncias antecedentes quanto ao contexto probatório, a revelar autoria e materialidade delitivas, demandaria o revolvimento de fatos e provas, inviável pela via estreita do habeas corpus” (HC 213.387-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 24.05.2023); “A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que a ‘alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas’ (RHC 117.491, Rel. Min. Luiz Fux). 2. O STF tem entendimento no sentido de que ‘o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição’ (HC 107.550, Rel. Min. Luiz Fux. No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli).” (HC 220.042-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 01.12.2022);
+
+    Por fim, quanto à dosimetria, a Corte Superior assentou que “a defesa não logrou êxito em promover o debate das suas teses pelo Tribunal a quo, circunstância que impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.”.
+
+    Nesse contexto, o ato dito coator está em consonância com a jurisprudência desta Suprema Corte no sentido de que “A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante o Tribunal a quo. Precedentes: HC nº 100.595, Segunda Turma, Rel. Min. Ellen Gracie, DJe de 9/3/2011, HC nº 100.616, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe de 14/3/2011, HC nº 103.835, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 8/2/2011, HC 98.616, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 22/02/2011” (HC 167.096-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 08.5.2019).
+
+    Ressalto que, assentada a supressão de instância pelo STJ, não cabe a esta Suprema Corte a análise originária do tema. Portanto, a solução do acórdão recorrido não diverge da jurisprudência desta Suprema Corte, a qual refuta a análise de matérias não apreciadas pelas instâncias antecedentes. Nessa linha, os seguintes precedentes: HC 230.288-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 06.10.2023; HC 218.704-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 26.10.2022; HC 213.084-ED-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 02.6.2022; e HC 198.413-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 25.6.2021.
+
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 21 de maio de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
