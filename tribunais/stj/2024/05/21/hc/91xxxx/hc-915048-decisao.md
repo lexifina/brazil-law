@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Karin Umebayashi, Guilherme Oliveira Lochoski, Emilio Takao Umebayashi, Fabio Eduardo Rossi, Joao Felicio Rossi, Juliane Rossi, Marcelo Correa Pereira, Mariana Esteves Vacari e Wendell Lino Di Giaimo Fagundes, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO nos autos do recurso de Habeas Corpus n. 2096869-54.2024.8.26.0000
+Consta do processo que os pacientes fazem parte de complexa investigação criminal sobre a suposta prática dos delitos previstos nos arts. 1º da Lei n. 9.613/1998 e 2º, "caput", da Lei n. 12.850/2013, haja vista a colocação em circulação de valores oriundos do tráfico de drogas, pelos pacientes e diversos outros investigados (fl. 22).
+Neste writ, aponta o impetrante que os pacientes se encontram em uma situação substancialmente similar àquela abordada pelo STJ na Operação Pullback. As imputações de participação em atividades de lavagem de capitais e de integrar uma organização criminosa carecem de materialidade e autoria claramente definidas, visto que não existem evidências concretas ou transações financeiras ilícitas que possam ser diretamente atribuídas aos pacientes. A documentação apresentada por eles  incluindo relatórios oficiais do Banco Central, extratos bancário se depoimentos prestados em sede de autoridade policial e para a autoridade coatora refuta inequivocamente as alegações de movimentações financeiras suspeitas, demonstrando a completa ausência de atos ilícitos (fl. 11).
+Requer o que se segue (fls. 15/16):
+ ..
+1 - Seja concedida a ordem para o trancamento do Inquérito Policial nº. 1500852-02.2021.8.26.0361em relação aos pacientes, fundamentando-se na demonstração inequívoca de inocência dos pacientes, que não participaram dos crimes a eles imputados. Este pedido é reforçado pela aplicação da Teoria dos Frutos da Árvore Envenenada, considerando que a base para eventual denuncia e indiciamento decorre de provas obtidas por meio de violações aos artigos 5º, LVI, da Constituição Federal, e 157 do Código de Processo Penal, requerendo-se, portanto, a exclusão dessas provas contaminadas e a anulação dos efeitos decorrentes de sua utilização.
+2 - A liberação imediata dos bens bloqueados, justificada pela demonstração cabal de inocência e pela falta de base legal para manter tais restrições patrimoniais, assegurando o retorno à normalidade das atividades econômicas dos pacientes;
+3 - Requer, outrossim, caso haja pedido de informações, que sejam com urgência, para que o constrangimento ilegal sofrido pelos pacientes não perdure.
+4 - Requer-se que a liminar concedida seja confirmada em mérito, assegurando-se a justiça e a cessação do constrangimento ilegal sofrido pelos pacientes.
+5 - Por fim, em não entendendo pelo conhecimento do presente Writ, que seja a ordem concedida de ofício por este douto Tribunal, nos termos do artigo 654, §2º, do CPP.
+ ..
+É o relatório.
+Inicialmente, destaco que o presente writ é incabível por consubstanciar inadequada impetração concomitante com o recurso próprio, tratando-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade recursal, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação (AgRg no HC n. 837.330/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/3/2024).
+Com efeito, apesar de o pedido formulado no presente writ ser eventualmente distinto daquele feito no recurso ordinário constitucional, é certo que caberia à defesa utilizar apenas um dos instrumentos disponíveis para impugnar o acórdão proferido na origem, especialmente por se tratar de acusados que respondem ao processo soltos, de maneira que, eventual concessão da ordem, não influenciará diretamente no status libertatis dos pacientes .
+No mais, inexiste ilegalidade flagrante qu e justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. INTERPOSIÇÃO CONCOMITANTE COM RECURSO ORDINÁRIO EM HABEAS CORPUS. PRINCÍPIO DA UNIRRECORRIBILIDADE. OPERAÇÃO PULLBACK. INOBSERVÂNCIA. RÉUS SOLTOS. SUPOSTA LAVAGEM DE DINHEIRO. TRANCAMENTO DE INQUÉRITO POLICIAL. LIBERAÇÃO DE BENS BLOQUEADOS. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
