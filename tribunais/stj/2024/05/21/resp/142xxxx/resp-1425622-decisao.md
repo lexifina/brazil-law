@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, recurso especial interposto por HUMBERTO CAMPOS contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+IMPROBIDADE ADMINISTRATIVA. Município de Piracicaba. Contratação de serviços de ajudante geral e vigia para as unidades da Secretaria de Educação do Município. Dispensa de licitação. Emergência fabricada pelos agentes públicos. Inexistência de , prova de dano ao erário. Violação dos princípios da administração pública. Conduta dolosa que se subsume ao artigo 11 da Lei nº 8.429/1992. Improbidade caracterizada. Inexistência de prova de má-fé da cooperativa contratada. Pedido corretamente rejeitado em relação a ela. Improcedência também no tocante ao então Procurador Geral do Município, cujo parecer alertou para a necessidade de cumprimento dos dispositivos da Lei nº 8.666/93, especialmente das normas contidas - em seu artigo 267. Escolha e dosagem das penas (de multa e de suspensão dos direitos políticos e do direito de contratar e receber benefícios e incentivos) que se pautaram pela razoabilidade. Recurso do Ministério Público conhecido em parte e improvido. Recurso do corréu Procurador do Município provido para julgar a ação improcedente em relação a ele. Demais recursos improvidos (fl. 893).
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 928-936.
+O recorrente sustenta, além de divergência jurisprudencial, ofensa aos arts. 131 e 333 do CPC/73.
+O recurso especial foi admitido pelo Tribunal de origem (fls. 1.021-1.022).
+O MINISTÉRIO PÚBLICO FEDERAL opinou pelo não conhecimento do recurso especial (fls. 1.035-1.039).
+Na petição de fls. 1.044-1.046 é noticiado o falecimento do recorrente.
+THERESINHA VANDA THOMAZIELLO DE CAMPOS e OUTROS sucessores do recorrente apresentaram petição requerendo "a extinção da ação, tendo em vista a análise concreta das condições da ação e da própria condenação em tela, que é indevida aos herdeiros" (fl. 1.086).
+O MINISTÉRIO PÚBLICO FEDERAL opinou "pelo deferimento da petição de fls. 1082/1087" (fl. 1.104).
+As partes foram intimadas a se manifestar acerca da superveniência da Lei 14.230/2021.
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO apresentou manifestação requerendo "o prosseguimento do processo e seu julgamento, extinguindo-o em relação ao recorrente sem resolução do mérito" (fl. 1.118).
+É o relatório. Decido.
+Na origem, o MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO ajuizou ação civil pública, postulando a condenação do recorrente, então Prefeito do Município de Piracicaba, e de outros réus, pela prática de atos de improbidade administrativa, relacionados a irregularidades na contratação de serviços de vigia e ajudante geral.
+A sentença, após reconhecer que "a conduta irregular dos agentes públicos está tipificada no art. 11, caput, da Lei 8.429/92" (fl. 713), e que não fora "comprovado dano ao Erário" (fl. 715), julgou parcialmente procedente o pedido, para condenar o recorrente "às penalidades de suspensão dos direitos políticos pelo prazo de três anos, proibição de contratar com entes públicos direitos ou indiretos, por si ou por ou por interposta pessoa física ou jurídica, bem como receber incentivos ou benefícios fiscais ou creditícios também pelo prazo de três anos, além de multa civil de R$ 20.000,00" (fl. 715), nos termos do art. 12, III, da Lei 8.429/92.
+Interpostas apelações, o Tribunal de origem negou provimento ao apelo do recorrente, mantendo sua condenação, conforme estabelecido na sentença.
+Nes se contexto, com o falecimento do recorrente, necessária a extinção do feito em relação a ele, sem resolução do mérito, conforme destacado pelo recorrido na petição de fls. 1.114-1.119.
+Com efeito, nos termos da jurisprudência do Superior Tribunal de Justiça " a multa civil é transmissível aos herdeiros, "até o limite do valor da herança", somente quando houver violação aos arts. 9º e 10º da referida lei (dano ao patrimônio público ou enriquecimento ilícito), sendo inadmissível quando a condenação se restringir ao art. 11" (REsp n. 951.389/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 9/6/2010, DJe de 4/5/2011).
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para o fim de julgar extinta a ação em relação ao recorrente.
+Intimem-se.
+EMENTA
