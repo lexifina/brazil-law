@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/05/2024 a 21/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. DECRETAÇÃO DE SIGILO. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO RECURSAL. SÚMULA 315/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Impossível o conhecimento da divergência, uma vez que, quanto à pretendida quebra de sigilo bancário, o acórdão embargado não adentrou no mérito do recurso especial, fazendo incidir à hipótese a Súmula 7/STJ. Incide, no caso dos autos, a Súmula n. 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Não há similitude fática e jurídica entre os acórdãos confrontados, pois os acórdãos apontados como paradigmas enfrentaram a questão sob a perspectiva do instituto processual da preclusão. Por sua vez, o contexto fático e jurídico do acórdão embargado cuida de quebra de sigilo para a obtenção de informações acerca do patrimônio de um devedor, enfrentando a temática pela ótica de direito fundamental, ou seja, pela perspectiva constitucional da garantia individual que representa.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 397):
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. DECRETAÇÃO DE SIGILO. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO RECURSAL. SÚMULA 315/STJ. EMBARGOS LIMINARMENTE INDEFERIDOS.
+O agravante alega que: "No caso em apreço, não há dúvidas que o mérito do tema processual da preclusão pro judicato foi expressamente abordado pelos dois paradigmas e pelo v. acórdão embargado (fls. 306/312 e-STJ), conforme se constata dos quadros de cotejo analítico trazidos no item 25 (fls. 330/332 e-STJ) dos Embargos de Divergência (..)"; (..) eventual não conhecimento do recurso, ainda que pela Súmula nº 7/STJ, em nada obsta o conhecimento da divergência que lastreia o recurso interposto pela Agravante, o que, como corolário lógico e necessário, igualmente afasta a incidência da Súmula nº 315/STJ".
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. DECRETAÇÃO DE SIGILO. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO RECURSAL. SÚMULA 315/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Impossível o conhecimento da divergência, uma vez que, quanto à pretendida quebra de sigilo bancário, o acórdão embargado não adentrou no mérito do recurso especial, fazendo incidir à hipótese a Súmula 7/STJ. Incide, no caso dos autos, a Súmula n. 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Não há similitude fática e jurídica entre os acórdãos confrontados, pois os acórdãos apontados como paradigmas enfrentaram a questão sob a perspectiva do instituto processual da preclusão. Por sua vez, o contexto fático e jurídico do acórdão embargado cuida de quebra de sigilo para a obtenção de informações acerca do patrimônio de um devedor, enfrentando a temática pela ótica de direito fundamental, ou seja, pela perspectiva constitucional da garantia individual que representa.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque é impossível o conhecimento da divergência, uma vez que, quanto à pretendida quebra de sigilo bancário, o acórdão embargado não adentrou no mérito do recurso especial, fazendo incidir à hipótese a Súmula 7/STJ. .Incide, no caso dos autos, a Súmula n. 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Ademais, não há similitude fática e jurídica entre os acórdãos confrontados, pois os acórdãos apontados como paradigmas enfrentaram a questão sob a perspectiva do instituto processual da preclusão. Por sua vez, o contexto fático e jurídico do acórdão embargado cuida de quebra de sigilo para a obtenção de informações acerca do patrimônio de um devedor, enfrentando a temática pela ótica de direito fundamental, ou seja, pela perspectiva constitucional da garantia individual que representa.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
