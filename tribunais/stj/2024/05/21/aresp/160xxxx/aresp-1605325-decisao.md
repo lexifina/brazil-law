@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por TAKACHI MITO KURAMOTO contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula 7/STJ (fls. 2.994-2.996).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram devidamente atendidos.
+Recurso especial fundado no art. 105, III, a e c, da Constituição Federal, por meio do qual sustenta a parte recorrente a existência de afronta aos arts. 6º do Decreto-Lei n. 4.657/42, 2º e 54 da Lei n. 9.784/99, 502 do CPC/2015, 5º, XXXVI, bem como 93, IX da Constituição Federal (fl. 933).
+Alega, em síntese, que:
+a coisa julgada externada pela presente ação não se trata do direito de estarem inalteradas as parcelas 84,32%, conforme firmado no acórdão, mas a nova fórmula de cálculo apresentada por meio de um parecer (Parecer 717/2003) elaborada pelo próprio apelado cujo objetivo é descumprir matéria transitada em julgado em Mandado de Segurança nº 2255/90, em que se estabelece que a incidência da referida parcela se institua somente sobre os vencimentos/proventos, quando na verdade deveria também incidir sobre as demais vantagens pessoais. Ainda que, hodiernamente se compreenda que o cálculo sobre as vantagens seja indevido, nada se pode fazer em respeito do princípio constitucional da coisa julgada, do direito adquirido bem como da segurança jurídica como princípio reflexo da Constituição Federal (fl. 936).
+Sustenta, por fim, que:
+eivado de ilegalidade a aplicação do Parecer 717/2003/PROPES/PRG que determina alteração da parcela 84,32% anteriormente aplicada para novo cálculo sobre os vencimentos/proventos, não se levando em conta as vantagens estabelecidas em matéria transitada em julgado, em patente ofensa ao direito adquirido e a coisa julgada. (fl. 942)
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, a irresignação não merece prosperar.
+Com efeito, assim decidiu o Tribunal de origem sobre as alegações de ofensa à coisa julgada bem como no que concerne à necessidade de compensação:
+No caso sob exame, deve ser realizada a compensação entre a recomposição salarial decorrente do Plano Collor com os reajustes de 30 e 81%, concedidos pelos Decretos 12.728/90 e 12.947/90, porquanto a incorporação dos referidos percentuais, sem dedução da recomposição, acarretaria em enriquecimento sem causa do servidor, por caracterizar reajuste sobre reajuste (bis in idem).
+ ..
+Dessa forma, segundo entendimento esposado pelo Superior Tribunal de Justiça, ainda que não haja previsão expressa no título judicial permitindo a compensação, tais matérias podem ser alegadas em sede de embargos, sem violar a coisa julgada:
+ ..
+Em verdade, reconheceu-se que o Autor teria direito à reposição salarial na fração de 84,32% a partir demarço de 1990, o que não se confunde com incorporação do percentual aos seus proventos atuais.
+ ..
+Dessa forma, no legítimo exercício de sua autotutela, o Distrito Federal promoveu a correção da quantia repassada, ajustando-a com o quanto consignado pela coisa julgada.
+Cabe então consignar que a pretensão do Autor encontra-se abertamente incompatível com a jurisprudência do TJDFT, porque a coisa julgada não lhe garantiu o direito de ver incidir 84,32% diretamente na sua remuneração atual, mas, sim, sobre a remuneração à época da lesão.
+Em outras palavras, manter a quantia incorreta ao Autor implica em indevido enriquecimento sem causa em detrimento ao erário, deferindo-lhe a percepção de um valor que é mais de cinco vezes superior ao devido. Por mais essa razão não merece guarida o pleito para restabelecer a incorporação no patamar anterior. (fls. 920-927, grifos nossos)
+Desse modo, a análise da pretensão da parte recorrente quanto ao reexame do alcance e limites do título executivo, sob o viés pretendido encontra, outrossim, óbice na Súmula 7 do STJ.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. COMPENSAÇÃO COM OS REAJUSTES PREVISTOS NAS LEIS 8.622/1993 E 8.627/1993. IMPOSSIBLIDADE DE ARGUIÇÃO NO PROCESSO DE CONHECIMENTO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. De início, afasta-se a alegada violação dos artigos 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para anular os acórdãos proferidos em Embargos de Declaração.
+2. Acerca da compensação, o aresto recorrido consignou, in verbis: "Conforme entendimento pacífico desta 2ª Turma, deve ocorrer a detração dos aumentos decorrentes de plano de reestruturação de carreira, de modo que a execução de decisões judiciais que consagrem reajustes salariais deve levar em consideração a necessária compensação de valores que já foram implantados em face de determinação legal. "Não se cuida de afrontar o precedente do STJ em sede de recurso repetitivo (REsp 1.235.513/AL), mercê do distinguishing que se impõe reconhecer, porquanto, no caso presente, não se cogita de genuína pretensão à compensação, mas de aferição dos valores já pagos ao exequente, evitando o indesejável e ilegal , pagando-se duas vezes o mesmo valor." (PJE bis in idem 0806618-53.2015.4.05.8300, Rel. Des. Federal Paulo Roberto de Oliveira Lima, julg. em 12/11/2019) "Os servidores integrantes da carreira de magistério não têm direito ao reajuste de 28,86%, por terem sido beneficiados pelas Leis nºs 8.622/93 e 8.627/93, inclusive com reajuste superior àquele conferido aos militares.
+(Segun da Turma, AG 109102, Rel. Des. Federal Francisco Barros Dias, unânime, DJE: 04/11/2010 - Página:233). Descabida, portanto, a pretensão recursal da apelante, posto que em desconformidade com a jurisprudência deste Tribunal." (PJE 0802857-972018,4,05,8400, Rel. Des. Federal Leonardo Carvalho, 2ª Turma, julg. em 13/05/2019)".
+3. No caso dos autos, a alteração das conclusões adotadas pela Corte regional, acerca do alcance do título executivo, tal como colocadas as questões nas razões recursais, demanda novo exame do acervo fático-probatório, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Recurso Especial conhecido parcialmente, apenas no que diz respeito à alegação de ofensa aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, não provido. (REsp n. 1.992.089/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/5/2022, DJe de 27/6/2022, grifos nossos.)
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
