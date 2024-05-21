@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão que não conheceu da revisão criminal ajuizada pelo paciente na origem. (e-STJ Fl.457-466)
+A defesa alega, em síntese, a ocorrência de condenação sem justa causa.
+Ao final, requer a concessão da ordem para obter a absolvição do paciente.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Com efeito, é assente neste STJ que o recurso de revisão criminal não pode ser utilizado como nova apelação, com vistas ao mero reexame de fatos e provas, assim como que, quando voltado ao questionamento da dosimetria da pena, tem cabimento restrito, restrito à descoberta de novas provas, violação do texto expresso da lei ou desproporcionalidade manifesta na fixação da pena.
+Neste sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME LICITATÓRIO. REVISÃO CRIMINAL. DOSIMETRIA DA PENA.
+FUNDAMENTAÇÃO VÁLIDA. AGRAVO REGIMENTAL DESPROVIDO. (..) 2. O entendimento adotado pelo Tribunal de origem encontra amparo na jurisprudência desta Corte Superior, "no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016). (..)" (AgRg no AREsp 2384761 / DF, Rel. Ministro RIBEIRO DANTAS , Dje de 05/12/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. AUSÊNCIA DE ILEGALIDADE NO AUMENTO DA PENA-BASE. JUSTIFICATIVA CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão criminal da dosimetria da pena tem cabimento restrito, apenas admitida quando, após o trânsito em julgado, forem descobertas novas provas que demonstrem eventual equívoco do julgador, violação do texto expresso da lei, ou notória desproporcionalidade na fixação da pena. A ação revisional não pode ser utilizada como nova apelação, para rediscutir a valoração subjetiva de circunstâncias judiciais. (..)" (AgRg no HC 821464 / SC , Rel. Min. Ministro ROGERIO SCHIETTI CRUZ , Dje de 07/12/2023)
+No presente feito, observa-se que a pretensão da defesa, voltada à obtenção da absolvição do paciente, encontra óbice na jurisprudência acima transcrita, na medida em que, ausente apontamento de novos elementos probatórios ou violação ao texto de lei, mostra-se incabível a realização de nova análise do contexto que conduziu à fixação do comando condenatório.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
