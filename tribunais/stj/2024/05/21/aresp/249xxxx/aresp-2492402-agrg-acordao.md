@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ESTELIONATO MEDIANTE A EMISSÃO DE CHEQUE PÓS-DATADO SEM PROVISÃO DE FUNDOS. REITERAÇÃO DAS ALEGAÇÕES DEDUZIDAS NO RECURSO ANTERIOR. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. CORRETA APLICAÇÃO DA SÚMULA N. 7, STJ. DESCLASSIFICAÇÃO PELO TRIBUNAL DE ORIGEM PARA O ART. 171, CAPUT, DO CÓDIGO PENAL. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO DO RECORRENTE. PRESCRIÇÃO NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental destina-se a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao conhecimento parcial do recurso especial e ao seu desprovimento.
+II - Depreende-se das razões recursais que o agravante se limitou a reiterar as alegações deduzidas no recurso anterior, sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+III - A despeito de argumentar que o pleito demanda tão somente a revaloração dos fatos, as razões do agravo regimental suscitam questionamentos que dependem do revolvimento de fatos e provas.
+IV - A desclassificação da conduta do art. 171, §2º, inciso VI, para o art. 171, caput, do Código Penal, pelo Tribunal de origem não agravou a situação do recorrente, porquanto a pena fixada na sentença foi mantida.
+V - Verifico que a denúncia, a sentença condenatória e o acórdão confirmatório da condenação datam, respectivamente, de 15.9.2015, 29.6.2019 e 11.10.2022. Entre os referidos marcos interruptivos não transcorreu prazo superior a 4 (quatro) anos, de forma que não ocorreu a prescrição.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS VINICIO SIMOES contra decisão monocrática que conheceu o agravo, para conhecer em parte o recurso especial e, nessa extensão, negou-lhe provimento.
+A decisão agravada aplicou a Súmula n. 7, STJ, quanto ao pleito de absolvição por insuficiência de provas, bem como rejeitou a alegada reformatio in pejus pela desclassificação da co nduta pelo Tribunal de origem para o art. 171, caput, do Código Penal (fls. 705-710).
+O agravo regimental da defesa questiona a aplicação do óbice sumular e reitera os argumentos quanto à ocorrência de reformatio in pejus pela desclassificação da conduta imputada para o crime do art. 171, caput, do Código Penal (fls. 715-741). Alega, ainda, a ocorrência da prescrição.
+O Ministério Público do Estado de São Paulo apresentou contrarrazões pelo não conhecimento do agravo regimental e, subsidiariamente, pelo seu desprovimento (fls. 752-756).
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ESTELIONATO MEDIANTE A EMISSÃO DE CHEQUE PÓS-DATADO SEM PROVISÃO DE FUNDOS. REITERAÇÃO DAS ALEGAÇÕES DEDUZIDAS NO RECURSO ANTERIOR. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. CORRETA APLICAÇÃO DA SÚMULA N. 7, STJ. DESCLASSIFICAÇÃO PELO TRIBUNAL DE ORIGEM PARA O ART. 171, CAPUT, DO CÓDIGO PENAL. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO DO RECORRENTE. PRESCRIÇÃO NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental destina-se a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao conhecimento parcial do recurso especial e ao seu desprovimento.
+II - Depreende-se das razões recursais que o agravante se limitou a reiterar as alegações deduzidas no recurso anterior, sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+III - A despeito de argumentar que o pleito demanda tão somente a revaloração dos fatos, as razões do agravo regimental suscitam questionamentos que dependem do revolvimento de fatos e provas.
+IV - A desclassificação da conduta do art. 171, §2º, inciso VI, para o art. 171, caput, do Código Penal, pelo Tribunal de origem não agravou a situação do recorrente, porquanto a pena fixada na sentença foi mantida.
+V - Verifico que a denúncia, a sentença condenatória e o acórdão confirmatório da condenação datam, respectivamente, de 15.9.2015, 29.6.2019 e 11.10.2022. Entre os referidos marcos interruptivos não transcorreu prazo superior a 4 (quatro) anos, de forma que não ocorreu a prescrição.
+Agravo regimental desprovido.
+VOTO
+Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental se destina a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao não conhecimento do recurso especial.
+Entretanto, verifico das razões que o agravante se limitou a reiterar as alegações deduzidas no recurso anterior sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+A argumentação reitera o mérito recursal, sobre a ausência de provas suficientes de autoria e materialidade, bem como sobre a ocorrência de indevida reformatio in pejus. As questões foram devidamente enfrentadas pela decisão monocrática, se limitando a parte a trazer os mesmos argumentos já rebatidos anteriormente.
+Acrescento que, a despeito de argumentar que o pleito demanda tão somente a revaloração dos fatos, as razões do agravo regimental suscitam questionamentos que dependem do revolvimento de fatos e provas. A título exemplificativo, o recurso argumenta que o réu estava constantemente viajando, que não há provas sobre a existência das empresas, que as assinaturas dos cheques divergem da assinatura do recorrente. Tais afirmações revelam a necessidade de incursão no acervo fático-probatório, obstado pela Súmula n. 7, STJ.
+No tocante à alegação de reformatio in pejus pela desclassificação da conduta do art. 171, §2º, inciso VI, para o art. 171, caput, do Código Penal, a decisão monocrática ressaltou que não houve o agravamento da pena definitiva do recorrente.
+De fato, não houve a piora da situação do recorrente pelo Tribunal de origem, que manteve a pena aplicada em primeira instância e apenas ajustou a imputação jurídica aos fatos pelos quais o recorrente foi condenado, nos termos do art. 617 c/c art. 383 do Código de Processo Penal.
+Registro, ademais, que a mera repetição da argumentação já analisada em decisão monocrática importa em violação do princípio da dialeticidade e na incidência do óbice da Súmula n. 182, STJ, conforme precedentes desta Corte:
+" ..  2. "No agravo interno são insuficientes ao cumprimento do dever de dialeticidade recursal a mera repetição de argumentos apresentados em recursos anteriores, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada." (AgInt no RMS 67.300/BA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24.3.2022) 3. Agravo Interno não conhecido" (AgInt no RMS n. 70.986/MG, Segunda Turma, Rel. Min. Herman Benjamin, DJe de 30/6/2023).
+Por fim, não vislumbro o transcurso do lapso prescricional.
+No caso concreto, o recorrente restou condenado à pena de 1 (um) ano e 4 (quatro) meses de reclusão, de forma que se aplica o prazo de 4 (quatro) anos do art. 109, inciso V, do Código Penal para o cálculo da prescrição da pretensão punitiva pela pena em concreto (art. 110, §1º, do Código Penal). Verifico que a denúncia, a sentença condenatória e o acórdão confirmatório da condenação datam, respectivamente, de 15.9.2015, 29.6.2019 e 11.10.2022. Entre os referidos marcos interruptivos não transcorreu prazo superior a 4 (quatro) anos, de forma que não se trata de hipótese de extinção da punibilidade pela prescrição.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
