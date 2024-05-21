@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de FILIPE JOSE DA SILVA GALVAO em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO que denegou o pedido de liminar formulado no HC n. 1014587-05.2024.4.01.0000/RR.
+Consta dos autos a prisão domiciliar do paciente, substitutiva da prisão preventiva, decorrente de suposta prática dos delitos capitulados no art. 2º da Lei n. 12.850/2013 (organização criminosa), no art. 2º da Lei n. 8.176/1991 (usurpação de bens da União), no art. 55 da Lei n. 9.605/1998 e no art. 1º da Lei n. 9.613/1998 (lavagem de dinheiro).
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que ainda não teria sido denunciado e se revelariam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal em substituição à prisão domiciliar.
+Ressalta que a segregação processual do paciente, mesmo que em prisão domiciliar, com predicados pessoais favoráveis e único responsável por criança menos de dois anos, encontra-se despida de fundamentação idônea.
+Afirma que há excesso de prazo para formação da culpa.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão cautelar domiciliar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022).
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a manutenção da prisão cautelar domiciliar tem por base elementos concretos que indicam a gravidade do crime tendo em vista o modus operandi empregado na prática do delito, em especial pela complexidade e quantidade de pessoas envolvidas:
+"O paciente é um dos investigados no IP 2022.0013569 SR/PF/RR (PJe 1003352-22.2022.4.01.4200), instaurado a partir de "RIF que mostra a atuação de grupo criminoso que estaria extraindo e comercializando minério cassiterita, de forma irregular,  em terra indígena  no estado de Roraima e o revendendo a empresa localizada no estado de São Paulo, que estaria dando aparência de legalidade ao minério" (ID. 417802836).
+Ao impor-lhes inicialmente a prisão preventiva (em 25/07/2023 - ID. 417802836), a autoridade impetrada destacou que "os representados vivem da prática do garimpo ilegal, angariando recursos para posterior lavagem de capitais, através da inserção dos recursos ilegais no sistema econômico formal, o que gera desequilíbrio financeiro para a sociedade. Ou seja, a gravidade concreta dos delitos imputados, aliada à habitualidade criminosa, justificam a decretação a prisão preventiva".
+Contudo, com relação a FILIPE JOSÉ DA SILVA GALVÃO o decreto prisional somente foi cumprido em 31/01/2024 (ID. 417802846 - fl. 5).
+Nesse quadro, conforme salientado pela autoridade impetrada na decisão que deferiu a substituição da prisão preventiva do paciente por prisão domiciliar, em princípio, não há como se falar no caso em ausência de contemporaneidade da medida cautelar (ID. 417802846 - fl. 7):
+Na esteira do entendimento esposado na decisão que decretou a custódia máxima, alinhada com o escólio do próprio STF, a contemporaneidade não diz com o lapso temporal entre o fato criminoso e a data da decisão judicial, e sim se demonstra pela continuidade da violação da ordem pública, cessável apenas com a restrição da liberdade do investigado.
+Em outras palavras, "o exame de contemporaneidade da custódia é feito não apenas a com base no tempo entre os fatos e o decreto prisional, como também pela permanência da cautelaridade ensejadora da medida (AgRg no HC n. 697.153/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/12/2021, DJe de14/12/2021 - grifei)".
+Vale dizer, "é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo como transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal. HC 207084 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 11/11/2021, PROCESSO ELETRÔNICO DJe-227 DIVULG 17-11-2021 PUBLIC 18-11-2021".
+Por outro lado, observo que a prisão domiciliar do paciente foi concedida em 09/02/2024,cumulada com outras medidas cautelares (como a monitoração eletrônica), uma vez que ele logrou comprovar ter a guarda e responsabilidade de sua filha menor, em decorrência de acordo firmado com a genitora da criança, devidamente homologado pelo Juízo competente.
+Não há que se falar, contudo, neste exame preliminar do caso, em ausência de risco de "novas violações ao ordenamento jurídico", que, segundo consta, justificaram apenas a substituição da preventiva por outras medidas cautelares menos gravosas e não a completa libertação do paciente.
+Finalmente, convém destacar que, conforme pacífico entendimento jurisprudencial, eventual excesso de prazo somente configura coação ilegal "quando expressa a desídia da instância judicial de combate ao crime", sendo que "o prazo para a conclusão da instrução criminal não é peremptório, aceitando-se sua dilação, quando assim exigirem as peculiaridades do caso concreto" (HC 1034955-69.2023.4.01.0000, TRF1, Quarta Turma, Rel. Juiz Federal convocado Pablo Zuniga Dourado, PJe 13/12/2023), como a complexidade do caso, a pluralidade de denunciados, a necessidade de se deprecar a realização de atos da instrução etc.
+Esse, em princípio, parece ser o caso sob análise, que envolve em torno de 15 pessoas investigadas, além de pessoas jurídicas.
+Assim sendo, mostra-se temerário o deferimento da pretensão liminar sob a alegação de excesso de prazo antes da completa instrução do writ, com as informações a serem prestadas pela autoridade impetrada e a indispensável manifestação do MPF (PRR1).
+De todo modo, um exame mais detido e aprofundado do caso poderá ser realizado quando do julgamento de mérito da impetração, após a completa instrução do feito.
+Ante o exposto, indefiro o pedido de liminar" (fls. 86-88).
+Quanto ao mais, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
