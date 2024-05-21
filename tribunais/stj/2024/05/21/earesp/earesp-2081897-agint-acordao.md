@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/05/2024 a 21/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO TEMA 660/STF. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF.
+1. Trata-se de Agravo Interno contra decisão que negou seguimento ao Recurso Extraordinário.
+2. Ao julgar o RE 956.302 RG/GO, o STF concluiu que a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, contrariedade indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de Repercussão Geral (Tema 895/STF). O aresto embargado não enfrentou o tema relativo à inafastabilidade da jurisdição, razão pela qual não há repercussão geral.
+3. O STF denfiniu que "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema 339/STF, QO no Ag 791.292/PE).
+4. O acórdão recorrido, fundamentadamente, decidiu que o exame dos Embargos de Divergência era inviável porque ausente a divergência de teses jurídicas, demandando a análise das peculiaridades do caso concreto. Dirimiu a controvérsia com base em legislação infraconstitucional, a qual entendeu suficiente para a solução do feito, destacando a impossibilidade de exame de dispositivos da CF, de competência do STF. Portanto, patente a existência de fundamentação, ainda que dele discorde a parte ora agravante.
+5. Ademais, o STF considera que a suposta afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, se dependente da apreciação de normas infraconstitucionais, configura infringência reflexa ao texto constitucional e não possui Repercussão Geral (Tema 660/STF). Os referidos princípios não foram objeto do acórdão recorrido.
+6. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno contra decisão que negou seguimento ao Recurso Extraordinário.
+A parte agravante alega:
+Logo, o que se vislumbra é que tal entendimento de não receber os embargos de divergência viola o princípio constitucional assegurado no artigo 5.º, LV da Constituição, que prevê o direito da parte do contraditório e da ampla defesa.
+(..)
+Deste modo, se mostra nítida a violação do acórdão ao artigo acima mencionado, se mostrando a afronta discutida direta a Constituição Federal.
+Desta feita, não se aplica ao caso o Tema 895 do STF.
+(..)
+Assim, deve esta Corte Especial aplicar o referido tema (339/STF) de forma correta, devendo assim, reconhecer a ofensa perpetrada em desfavor do artigo 93, IX, da Constituição Federal, para que consequentemente, este Colendo Superior Tribunal Federal decrete a CASSAÇÃO do referido aresto guerreado, para que outro em seu lugar seja proferido, sanando a questão omissa delineada nos mesmos, determinando, para tanto, o retorno dos autos ao STJ, para fins de julgamento do respectivo embargos declaratórios, para se manifestar a respeito da aplicabilidade dos artigos 5.º, LV e 93, IX, ambos da Constituição Federal da Constituição Federal e das demais omissões mencionadas no respectivo declaratórios, a fim de proporcionar o prequestionamento da matéria.
+(..)
+Noutra senda, observa-se que a decisão agravada entendeu que o STF considera que a suposta afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, se dependente da apreciação de normas infraconstitucionais, configura infringência reflexa ao texto constitucional e não possui Repercussão Geral (Tema 660/STF).
+Todavia, registra-se que o respectivo tema não se aplica ao caso, por justamente não necessitar a prévia análise da adequada aplicação das normas infraconstitucionais como menciona o tema.
+(..)
+Logo, o que se vislumbra é que tal entendimento de não receber os embargos de divergência viola o princípio constitucional assegurado no artigo 5.º, LV da Constituição, que prevê o direito da parte do contraditório e da ampla defesa.
+(..)
+Ademais, tal tema (660/STF) também não se aplica ao caso, pois o mesmo entende que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, sendo que o tema mencionado funda-se em suposta violação ao princípio da ampla defesa, em virtude da ausência de intimação para manifestação acerca de cálculos referentes à purgação da mora que fora
+(..)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO TEMA 660/STF. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF.
+1. Trata-se de Agravo Interno contra decisão que negou seguimento ao Recurso Extraordinário.
+2. Ao julgar o RE 956.302 RG/GO, o STF concluiu que a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, contrariedade indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de Repercussão Geral (Tema 895/STF). O aresto embargado não enfrentou o tema relativo à inafastabilidade da jurisdição, razão pela qual não há repercussão geral.
+3. O STF denfiniu que "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema 339/STF, QO no Ag 791.292/PE).
+4. O acórdão recorrido, fundamentadamente, decidiu que o exame dos Embargos de Divergência era inviável porque ausente a divergência de teses jurídicas, demandando a análise das peculiaridades do caso concreto. Dirimiu a controvérsia com base em legislação infraconstitucional, a qual entendeu suficiente para a solução do feito, destacando a impossibilidade de exame de dispositivos da CF, de competência do STF. Portanto, patente a existência de fundamentação, ainda que dele discorde a parte ora agravante.
+5. Ademais, o STF considera que a suposta afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, se dependente da apreciação de normas infraconstitucionais, configura infringência reflexa ao texto constitucional e não possui Repercussão Geral (Tema 660/STF). Os referidos princípios não foram objeto do acórdão recorrido.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado no decisum agravado, o STF, no julgamento do RE 956.302 RG/GO, decidiu que a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, contrariedade indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de Repercussão Geral (Tema 895/STF).
+O aresto embargado não enfrentou o tema relativo à inafastabilidade da jurisdição, razão pela qual não há repercussão geral.
+Reitero os precedentes citados na decisão agravada:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO OCORRÊNCIA. NEGATIVA DE SEGUIMENTO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. TEMAS 895, 660 E 181 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO RECLAMO.
+1. Nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, o Tribunal a quo, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral, não havendo que se falar em usurpação de competência do STF.
+(..) 3. A alegada violação ao princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição Federal ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+(..) 6. Agravo interno não provido.
+(AgInt no RE no AgInt nos EDcl no AREsp 1.556.942/SC, Rel.
+Ministro Jorge Mussi, Corte Especial, DJe de 17/2/2021.)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. INAPLICABILIDADE DOS TEMAS. PRECLUSÃO. VIOLAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO E DA COISA JULGADA. TEMA 660/STF. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF.
+1. A incidência dos Temas 660 e 895 do STF à hipótese dos autos decorreu de expressa determinação exarada pela própria Suprema Corte, de modo que a ausência de impugnação em momento oportuno torna preclusa a questão.
+(..) 3. Quanto ao art. 5º, XXXV, da Carta Magna, já consagrou o STF que "não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito" (RE-RG 956.302, Rel. Min. EDSON FACHIN, julgado em 19/5/2016, publicado em 16/6/2016 - Tema 895/STF).
+Agravo interno improvido.
+(AgInt no ARE no RE nos EDcl no AgInt no AREsp 909.464/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 22/8/2018.)
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 93, IX, DA CF/88. SUFICIÊNCIA DA FUNDAMENTAÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE EM REPERCUSSÃO GERAL. TEMA 339/STF. VIOLAÇÃO DO ART. 1º, III, DA CF/88. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 890/STF. ART. 5º, LIV E LV, DA CF/88. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DOS LIMITES DA COISA JULGADA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 660/STF. ART. 5º, XXXV, DA CF/88. INAFASTABILIDADE DA PRESTAÇÃO JURISDICIONAL. ÓBICE PROCESSUAL INTRANSPONÍVEL. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 895/STF. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. PREENCHIMENTO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. AGRAVO NÃO PROVIDO.
+1. Segundo a jurisprudência consolidada do Supremo Tribunal Federal, reafirmada no julgamento, sob o regime de repercussão geral, do AI-RG-QO 791.292/PE, a teor do disposto no artigo 93, IX, da Constituição Federal, as decisões judiciais devem ser motivadas, ainda que de forma sucinta, não se exigindo o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos (Tema 339/STF).
+(..) 4. O Pretório Excelso, por ocasião do julgamento do RE 956.302 RG/GO, concluiu que a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral (Tema 895/STF).
+(..) 6. Agravo interno não provido.
+(AgInt no RE no AgInt no AREsp 1.341.965/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 13/9/2019.)
+Ademais, o STF entende que "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema 339/STF, QO no Ag 791.292/PE).
+Existente alguma argumentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a deliberação firmada no Tema 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+O acórdão recorrido, fundamentadamente, decidiu que o exame dos Embargos de Divergência era inviável porque ausente a divergência de teses jurídicas, demandando a análise das peculiaridades do caso concreto. Dirimiu a controvérsia com base em legislação infraconstitucional, a qual entendeu suficiente para a solução do feito, destacando a impossibilidade de exame de dispositivos da CF, de competência do STF, nos termos dos argumentos abaixo transcritos:
+A análise da ocorrência de vício de fundamentação passível de nulidade (art. 1.022 do CPC) em casos concretos é inviável em embargos de divergência, que não se prestam a corrigir eventual equívoco na apreciação do recurso especial, senão a uniformizar teses jurídicas.
+(..)
+Com efeito, a pretensão de revisão de tais conclusões demandaria o próprio afastamento do óbice, com base na apreciação de circunstâncias processuais específicas dos autos, não se verificando a contraposição de teses jurídicas abstratas, único escopo para o qual poderiam ser invocados os embargos de divergência.
+Por fim, registre-se que é inviável o exame de possível ofensa a dispositivo constitucional, ainda que para prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No julgamento dos Embargos de Declaração, foi esclarecido:
+Anote-se, assim, que a conclusão pela "desnecessidade de fundamentação da matéria objeto de prequestionamento, para fins de interposição de recurso em instância superior", reconhecida nas razões dos embargos de declaração (fl. 1.033), resulta justamente na inviabilidade de apreciação do conteúdo da alegada omissão do acórdão que apreciou o agravo em recurso especial em embargos de divergência, sendo indiferente o eventual conhecimento do ponto na apreciação daquele recurso.
+Dito de outra forma, concluiu-se, no acórdão ora embargado, que a questão discutida não pode ser apreciada nesta via, de natureza uniformizadora e sujeita à fundamentação restrita e vinculada, não existindo elementos que autorizem o cotejo entre os acórdãos, nos termos já demonstrados no julgado, respaldados pelos precedentes ali mencionados.
+Quanto à veiculada pretensão de prequestionamento, anoto que a controvérsia foi decidida com base em interpretação e aplicação de legislação infraconstitucional. Assim, afigura-se inviável a análise de eventual ofensa a preceito constitucional em embargos de divergência, uma vez que se trata de recurso de cognição restrita e fundamentação vinculada, sob pena de usurpação da competência do Supremo Tribunal Federal (art. 102, III, da CF).
+Patente a existência de fundamentação, ainda que dele discorde a parte ora agravante.
+A propósito ratifico o precedente citado na decisão impugnada:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO.
+NEGATIVA DE SEGUIMENTO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do recurso especial, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Agravo regimental a que se nega provimento.
+(AgRg no RE nos EDcl no AgRg no AREsp 1.997.473/SP, Rel. Ministro Og Fernandes, Corte Especial, DJe de 27/3/2023.)
+Finalmente, o STF definiu que a suposta afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, se dependente da apreciação de normas infraconstitucionais, configura infringência reflexa ao texto constitucional e não possui Repercussão Geral (Tema 660/STF).
+Como acima destacado, o aresto recorrido não dirimiu a controvérsia à luz dos referidos dispositivos.
+Confira-se, a propósito, o precedente citado anteriormente:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO.
+NEGATIVA DE SEGUIMENTO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660/STF. AGRAVO NÃO PROVIDO.
+1. A alegada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema n. 660/STF).
+2. Agravo interno a que se nega provimento.
+(AgInt no RE nos EDcl nos EDcl no RMS 50.365/PE, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 1º/3/2023.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
