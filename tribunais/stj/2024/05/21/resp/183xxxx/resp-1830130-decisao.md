@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONSTRTUTORA E INCORPORADORA NOSTRA CASA LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 350):
+EMBARGOS À EXECUÇÃO FISCAL. SENTENÇA DE EXTINÇÃO. RECONHECIMENTO DE LITISPENDÊNCIA ENTRE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE OPOSTA ANTERIORMENTE COM OS EMBARGOS DO DEVEDOR. CASO QUE SE ENQUADRA NA PRECLUSÃO CONSUMATIVA. VEDAÇÃO À REPETIÇÃO DE DEFESAS. SENTENÇA DE EXTINÇÃO MANTIDA POR FUNDAMENTO DIVERSO. FIXAÇÃO DE HONORÁRIOS RECURSAIS.
+"Para o bom andamento do processo, ele não deve ser interrompido ou embaraçado (ou, ao menos, as interrupções e os embaraços devem ser reduzidos ao mínimo inevitável). Deve-se caminhar sempre avante, de forma ordenada e proba: não se admite o retorno para etapas processuais já ultrapassadas, nem se toleram comportamentos incoerentes e contraditórios. "Vedam-se, enfim, atuações extemporâneas, contraditórias (maliciosas) ou repetitivas" (DIDIER JR.,Fredie. Curso de direito processual civil. vol. I.17. ed. Salvador: Jus Podivm, 2015, p. 419).
+Os embargos de declaração opostos foram rejeitados (fls. 396/401).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 10 e 492 do Código de Processo Civil (CPC), ao argumento de que a questão referente à preclusão consumativa não foi previamente debatida nos autos pelas partes litigantes, razão pela qual não poderia ser decidida pelo magistrado, sob pena de afronta ao princípio da não surpresa.
+Defende, ainda, infringência ao art. 507 do CPC, "que prevê a ocorrência de preclusão quando a discussão envolver "questões já decidida", não abarcando em seu conceito casos como o presente, em que a exceção de pré executividade embora proposta ainda não foi objeto de apreciação".
+Não foram apresentadas contrarrazões (fl. 423).
+O recurso foi admitido na origem (fl. 426).
+É o relatório.
+Trata-se, na origem, de embargos à execução fiscal objetivando a extinção da ação executiva em razão do cancelamento da Certidão de Dívida Ativa (CDA) pela autoridade fiscal.
+A sentença de primeira instância extinguiu o feito sem julgamento do mérito diante do reconhecimento da litispendência entre os embargos à execução e a exceção de pré-executividade protocolada previamente nos autos principais.
+Em apelação, o Tribunal de origem afastou a litispendência, mas manteve a extinção do feito sem julgamento de mérito pela ocorrência da preclusão consumativa nos seguintes termos (fls. 353/357):
+O magistrado de primeiro grau reconheceu a litispendência entre os embargos à execução e a exceção de pré-executividade opostas pelo contribuinte.
+Nos termos do art. 337, §§ 2º e 3º, do CPC/2015, há litispendência quando se reproduz ação anteriormente proposta, ainda pendente de julgamento, com identidade de partes, causa de pedir e pedidos.
+Na exceção de pré-executividade:
+1) Partes: Município de Chapecó x Incorporadora Nostra Casa Ltda;
+2) Causa de pedir: "a ora Excepta já obteve o reconhecimento administrativo sobre a inaplicabilidade de sua cobrança, sendo o lançamento do crédito originário extinto pelo órgão municipal ainda no ano de 2012" (f. 84 da execução);
+3) Pedido: extinção da execução fiscal por falta de exigibilidade do título.
+Nos embargos à execução: 1) Partes: Incorporadora Nostra Casa Ltda x Município de Chapecó;
+2) Causa de pedir: "o crédito tributário inscrito em Dívida Ativa foi cancelado por decisão administrativa" (f. 9);
+3) Pedido: extinção da execução fiscal por falta de exigibilidade do título.
+Como se vê, a causa de pedir e o pedido são idênticos. A própria executada reconheceu, na exordial dos embargos, que "a matéria articulada na presente peça já foi levada à discussão no seio da Execução Fiscal por meio de exceção de Pré-Executividade manejada pela embargante" (f. 2).
+Argumentou que em face do princípio da eventualidade propôs os embargos que possibilitam ampla dilação probatória e porque "a exceção de pré-executividade é terreno fértil para toda sorte de divergências acerca de seu cabimento, alcance e objeto" (f. 2).
+O caso se aproxima muito da litispendência.
+Entretanto, a exceção de pré-executividade constitui meio de defesa endoprocessual, e não pode ser enquadrada no conceito jurídico de "ação" exigido pelo art. 337.
+Sobre esse instituto, extrai-se das lições de Humberto Theodoro Júnior:
+Não apenas por meio dos embargos o devedor pode atacar a execução forçada. Quando se trata de acusar a falta de condições da ação de execução,ou a ausência de algum pressuposto processual, a argüição pode se dar por meio de simples petição nos próprios autos do processo executivo. ..  Entre os casos que podem ser cogitados na exceção de pre-executividade figuram todos aqueles que impedem a configuração do título executivo ou que o privam de força executiva, como por exemplo, as questões ligadas à falta de liquidez ou exigibilidade da obrigação, ou ainda à inadequação do meio escolhido para obter a tutela jurisdicional executiva. (Curso de Direito Processual Civil: processo de execução e processo cautelar. v. II. 38. ed. Rio de Janeiro: Forense, 2005, p. 331/332).
+Já os embargos à execução tem natureza jurídica de ação:
+Ação no sentido de que o executado tem o ônus de romper a inércia da jurisdição requerendo lhe seja prestada tutela jurisdicional consistente no reconhecimento de algum vicio ou defeito, localizado, no plano material ou no plano processual, no título executivo (extrajudicial) que fundamenta a execução do exequente, ou algum vício ou defeito localizado, no próprio "processo de execução" amplamente considerado ou, de forma mais específica, em algum ato deste processo que tenha sido praticado fora dos ditames legais. Bem por isto,complementa a doutrina tradicional que a ação de "embargos à execução" dá ensejo à formação e ao desenvolvimento de um outro "processo", um processo autônomo e incidental em relação àquele em que se desenvolvem os atos jurisdicionais executivos, a permitir o desenvolvimento amplo e profundo da cognição jurisdicional - "cognição jurisdicional exauriente" (v. n. 9 do Capítulo 1da ParteIII do vol.1) - acerca das questões levantadas pelo executado.(BUENO, Cássio Scarpinella. Curso sistematizado de direito processual civil: tutela jurisdicional executivo. São Paulo: Saraiva, 2008, f. 503)
+Tanto a exceção de pré-executividade quanto os embargos à execução são meios de defesa do devedor.
+E a duplicidade de defesas caracteriza a preclusão consumativa, nos termos do art. 507 do CPC/2015:
+Art. 507. É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+Sobre o tema, elucida a doutrina:
+É possível que o formalismo processual minimize a preclusão para certas situações (como o faz em tema de prova e de exame de determinadas questões), sem, porém eliminá-la.
+Para o bom andamento do processo, ele não deve ser interrompido ou embaraçado (ou, ao menos, as interrupções e os embaraços devem ser reduzidos ao mínimo inevitável). Deve-se caminhar sempre avante, de forma ordenada e proba: não se admite o retorno para etapas processuais já ultrapassadas, nem se toleram comportamentos incoerentes e contraditórios.
+Vedam-se, enfim, atuações extemporâneas, contraditórias (maliciosas) ou repetitivas.
+Frise-se: a preclusão não serve somente à ordem, à segurança e à duração razoável do processo. Não se resume à condição de mera mola impulsionadora do processo. A preclusão tem, igualmente, fundamentos ético-políticos, na medida em que busca preservar a boa -fé e a lealdade no itinerário processual. A preclusão é técnica, pois, a serviço do direito fundamental à segurança jurídica, do direito à efetividade (como impulsionadora do processo) e da proteção à boa -fé. É importante essa observação: como técnica, a preclusão deve ser pensada e aplicada em função dos valores a que busca proteger.
+Todo o percurso processual se orienta pela diretriz da preclusão. É ela (preclusão) que permite que o processo se desenrole progressivamente deforma ordenada, segura, coerente, rumo ao seu destino final.(grifou-se)(DIDIER JR.,Fredie. Curso de direito processual civil. vol. I.17. ed. Salvador: Jus Podivm, 2015, p. 419)
+O efeito jurídico da repetição de defesas é a preclusão, pois impossibilita a reiteração de ato já praticado.
+ ..
+Nesse contexto, mantém-se a sentença de extinção, por fundamento diverso.
+E, em embargos de declaração, o Tribunal de origem esclareceu (fl. 399):
+A embargante sustenta que: 1) houve ofensa ao princípio da não surpresa, já que este órgão fracionário reconheceu a ocorrência da preclusão consumativa sem cumprir a regra do artigo 10 do CPC/2015 e 2) exceção de pré-executividade, que fundamentou a ocorrência da litispendência, ainda não foi objeto de análise e julgamento.
+De fato, a embargante não foi intimada acerca da possibilidade de manutenção da sentença por fundamento diverso (preclusão consumativa).
+Entretanto, o vício foi suprido com a manifestação nos presentes aclaratórios,que tem perfil integrativo e de complementação, de modo que não é necessário anular o primeiro julgamento.
+In casu, não se constatou a litispendência, e sim a preclusão consumativa:
+ ..
+Assim, pouco importa se no momento da apresentação dos embargos à execução a exceção de pré-executividade já havia sido analisada ou não, porque o que define a preclusão consumativa no presente caso é o momento da apresentação da defesa.
+Tendo sido apresentada a exceção anteriormente aos embargos, estes merecem ser extintos, nos termos do acórdão recorrido.
+À vista disso, constata-se que inexiste vício a ser sanado.
+Segundo orientação consolidada nesta Corte Superior, as matérias de ordem pública, como é o caso da preclusão consumativa, podem ser conhecidas de ofício e a qualquer tempo e grau de jurisdição, mas ficam condicionadas à oitiva da parte, que, eventualmente, será prejudicada, sob pena de violação da regra prevista nos arts. 10 e 933 do CPC/2015, que assim dispõem:
+Art. 10. O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício.
+Art. 933. Se o relator constatar a ocorrência de fato superveniente à decisão recorrida ou a existência de questão apreciável de ofício ainda não examinada que devam ser considerados no julgamento do recurso, intimará as partes para que se manifestem no prazo de 5 (cinco) dias.
+A propósito, cito os seguintes julgados:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO SURPRESA. VEDAÇÃO. ARTS. 9º, 10 E 933 DO CPC. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Incide em error in procedendo e viola o regramento previsto nos arts. 9º, 10 e 933 do estatuto processual o acórdão que, baseado em argumentos fáticos ou jurídicos novos e fora dos limites da causa de pedir, confere solução jurídica inovadora e sem antecedente discussão entre os sujeitos processuais, mesmo em relação a matérias de ordem pública. Nesses casos, impõe-se o reconhecimento da nulidade do ato decisório, com determinação de retorno dos autos à origem para, realizada a prévia intimação dos interessados, assegurar o diálogo substancial a respeito das questões relevantes à solução da controvérsia.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.066.955/CE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PEDIDO DE HABILITAÇÃO. EXTINÇÃO. PRINCÍPIO DA NÃO SURPRESA. OFENSA.
+1. Segundo a jurisprudência do STJ, "a vedação a decisões surpresa tem por escopo permitir às partes, em procedimento dialógico, o exercício das faculdades de participação nos atos do processo e de exposição de argumentos para influir na decisão judicial, impondo aos juízes, mesmo em face de matérias de ordem pública e cognoscíveis de ofício, o dever de facultar prévia manifestação dos sujeitos processuais a respeito dos elementos fáticos e jurídicos a serem considerados pelo órgão julgador" (REsp n. 2.016.601/SP, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe de 12/12/2022).
+2. A extinção sem resolução de mérito do pedido de habilitação dos possíveis sucessores em cumprimento de sentença, fundada na falta de interesse processual motivada pela celebração de acordo administrativo com a substituída, sem que seja dada a oportunidade de manifestação à parte interessada, desprestigia o princípio que veda a decisão surpresa.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.060.146/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Na hipótese dos autos, o prejuízo suportado pela parte recorrente é manifesto ante o cerceamento de defesa, impedindo-lhe de se manifestar sobre a ocorrência da preclusão consumativa antes da sua decretação.
+Ademais, o fato de o Tribunal de origem apreciar o tema por ocasião do julgamento dos embargos de declaração não supre a nulidade decorrente da ausência de intimação. Conforme já decidiu esta Primeira Turma, "fazia-se, portanto, necessária a publicação do acórdão dos embargos, nulificando o julgamento anterior (art. 10 do CPC), com a posterior intimação das partes para manifestação do tema surpresa (art. 933 do CPC), para, só então, após esgotados eventuais recursos sobre essa anulação, designar novas datas para rejulgamento das apelações, com observância às normas processuais e composição ampliada (art. 942 do CPC)" (AREsp 2.381.097/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/9/2023, DJe de 25/9/2023.)
+Nesse cenário, reconheço a nulidade do acórdão de origem por ausência de intimação das partes, em afronta ao art. 10 do CPC.
+Prejudicado o exame da questão remanescente.
+Ante o exposto, conheço do recurso especial, e, nessa extensão, dou-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
