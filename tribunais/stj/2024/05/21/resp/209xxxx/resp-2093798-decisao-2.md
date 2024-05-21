@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GERALDO JOSE NEVES (SUCESSORES), com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado (fl. 548):
+APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE FAZER C/C ANTECIPAÇÃO DE TUTELA. PLANO DE SAÚDE. FORNECIMENTO DE TRATAMENTO. HOME CARE. PROCEDÊNCIA. IRRESIGNAÇÃO DO PLANO. NEGATIVA DE COBERTURA. DIREITO À VIDA E À PRESERVAÇÃO DA SAÚDE. RECUSA INDEVIDA DE COBERTURA. MANUTENÇÃO DO DECISUM. INSURREIÇÃO DO AUTOR COM RELAÇÃO A VERBA HONORÁRIA. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS. VALOR IRRISÓRIO. MAJORAÇÃO. REFORMADA SENTENÇA. DESPROVIMENTO DO 1º APELO E PROVIMENTO DO 2º APELO.
+- O atendimento domiciliar - sistema de home care, ao paciente que apresenta quadro clínico grave, necessitando de cuidados dessa natureza por recomendação médica, encontra fundamento no Princípio Constitucional da Dignidade da Pessoa Humana, que preconiza o direito à vida e à saúde e que deve informar a interpretação contratual.
+Rejeitados os embargos de declaração opostos (fls. 597-605).
+No presente recurso especial, a parte recorrente alega ofensa ao art. 489, § 1º, do Código de Processo Civil, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, ainda, que o acórdão recorrido contrariou o disposto no art. 11 do CPC.
+Sustenta, em síntese, que "a parte autora não somente faz jus ao ressarcimento dos honorários da equipe de enfermagem em tempo integral, mas também a todo e qualquer despesa incorrida no fornecimento do home care ao Sr. Geraldo José Neves, os quais devem ser demonstrados em liquidação de sentença" (fl. 620).
+Apresentadas as contrarrazões (fls. 658-664), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 686-688).
+É, no essencial, o relatório.
+Da detida análise dos autos, merece guarida a alegação de afronta ao art. 489 do CPC.
+Consoante se infere dos autos, a parte recorrente manejou ação de obrigação de fazer compelir o plano de saúde recorrido a fornecer atendimento domiciliar (home care), incluindo serviço de enfermagem 24h.
+O Juízo de primeira instância julgou procedente a ação e condenou a recorrente no fornecimento do atendimento domiciliar complementar ao autor da data da propositura da ação até o seu falecimento e converteu a obrigação de fazer em perdas e danos em benefício dos sucessores do falecido habilitados.
+Ao julgar a apelação, o Tribunal de origem manteve a condenação em perdas e danos, nos termos da sentença, sem analisar, contudo, a alegação oportunamente suscitada pelos recorrentes quando da interposição da apelação e dos embargos de declaração, qual seja: de que, ao julgar devida a cobertura do home care, o ressarcimento deve inequivocamente abarcar as despesas "de toda uma equipe multidisciplinar à disposição do paciente para seu acompanhamento diário e, não obstante, uso de todos os equipamentos e materiais e aplicação de medicamentos ao usuário do plano que forem necessários ao restabelecimento de sua saúde, em conformidade com a prescrição do médico que lhe acompanha" (fl. 436).
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a parte recorrente interposto o presente recurso por ofensa ao art. 489 do CPC e em face das questões suscitadas, tenho como necessário o debate acerca de tal ponto, sob pena de deficiência na prestação jurisdicional.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que se pronuncie sobre as questões apontadas nos embargos de declaração. Prejudicadas as de mais alegações.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. FORNECIMENTO DE HOME CARE. ABRANGÊNCIA DO RESSARCIMENTO. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL . RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS A ORIGEM.
