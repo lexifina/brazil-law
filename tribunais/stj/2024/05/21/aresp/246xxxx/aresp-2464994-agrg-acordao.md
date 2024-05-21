@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o princípio da insignificância não se aplica quando o valor do bem ultrapassa 10% do salário mínimo vigente à época do fato.
+2. No caso do crime de receptação, a coisa foi avaliada em R$ 300,00 na época do fato (ano de 2018), quando o salário mínimo era R$ 954,00, o que significa que o teto para o princípio da insignificância era essencialmente inferior ao limite estabelecido pela jurisprudência (R$ 95,40).
+3. Quanto ao pleito de incidência do disposto no art. 180, § 5º do CP, e do arrependimento posterior, a Corte de origem não analisou as teses defensivas como pleiteadas, mesmo com a oposição de embargos de declaração, o que atrai a Súmula 211/STJ.
+4. Tratando-se de matéria de fato e persistindo a omissão sobre as alegações da defesa, esta deveria ter interposto recurso especial alegando ofensa ao art. 619 do CPP, mas não o fez.
+5. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LAIRTON NANETI JUNIOR, contra decisão monocrática de minha relatoria, que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento (e-STJ, fls. 695 - 698).
+Em suas razões, o agravante sustenta que (i) deve ser aplicado o princípio da insignificância à hipótese, uma vez que o réu é primário, não possui antecedentes criminais e "ainda que, objetivamente, o valor do bem - R$300,00 - ultrapasse a margem de 10% do salário-mínimo vigente à época dos fatos, verifica-se que se trata de bem de valor inexpressivo na análise da situação concreta" (e-STJ, fl. 706); (ii) o acórdão recorrido manifestou-se sobre a matéria de que tratam os arts. 180, § 5º, e 16, ambos do CP, não havendo que se falar em ausência de prequestionamento; (iii) subsidiariamente, deve-se reconhecer a ausência de fundamentação do acórdão e determinar o retorno dos autos ao Tribunal de origem, a fim de que aquela Corte analise as teses da defesa.
+Pede, ao final, a reconsideração da decisão agravada ou a submissão do feito a julgamento colegiado, a fim de que seja provido o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o princípio da insignificância não se aplica quando o valor do bem ultrapassa 10% do salário mínimo vigente à época do fato.
+2. No caso do crime de receptação, a coisa foi avaliada em R$ 300,00 na época do fato (ano de 2018), quando o salário mínimo era R$ 954,00, o que significa que o teto para o princípio da insignificância era essencialmente inferior ao limite estabelecido pela jurisprudência (R$ 95,40).
+3. Quanto ao pleito de incidência do disposto no art. 180, § 5º do CP, e do arrependimento posterior, a Corte de origem não analisou as teses defensivas como pleiteadas, mesmo com a oposição de embargos de declaração, o que atrai a Súmula 211/STJ.
+4. Tratando-se de matéria de fato e persistindo a omissão sobre as alegações da defesa, esta deveria ter interposto recurso especial alegando ofensa ao art. 619 do CPP, mas não o fez.
+5. Agravo regimental desprovido.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada.
+Conforme destaquei na decisão agravada, este Superior Tribunal de Justiça consolidou o entendimento de que não se há falar em aplicação do princípio da insignificância quando o valor do bem ultrapassar o montante de 10% do salário mínimo vigente à época do fato, sendo este o parâmetro a ser seguido.
+No presente caso, o acórdão combatido registrou (e-STJ, fls. 515 - 519):
+"Apurou-se que o apelante, nas circunstâncias de tempo e lugar descritos na exordial, teria exposto à venda e vendeu, em proveito próprio, no exercício de atividade comercial, coisa que devia saber ser produto de crime, qual seja, 01 (um) aparelho celular, da marca Motorola, MOTO G1, de cor preta, avaliado em R$ 300,00 (trezentos reais).
+ ..
+E não se cogite de absolvição do delito por atipicidade da conduta em decorrência do princípio da insignificância e demais preceitos informadores do Direito Penal Mínimo, porquanto tal instituto, aceito pela doutrina e jurisprudência, exclui a tipicidade do crime cometido sem violência quando a lesão ao bem jurídico é ínfima.
+No caso sub examine, o valor do bem, por si só, não admite a aplicação do sobredito instituto, de molde a excluir a condutada esfera da tipicidade penal, uma vez que não pode ser considerado inexpressivo ou insignificante, a ponto de não merecer a reprovação penal.
+Ainda, cumpre ressaltar que o STJ firmou entendimento de que é inadmissível a aplicação da pena da receptação simples ao crime de receptação qualificada com fundamento no princípio da proporcionalidade, não se cogitando no reconhecimento do privilégio.
+Destarte, as teses defensivas não merecem guarida, e o édito condenatório, nos moldes como lançado, era mesmo imperativo.
+A reprimenda aplicada não comporta reparos.
+Pena base fixada no patamar mínimo legal e assim tornada definitiva, na ausência de demais causas que possam influir ou modificá-la.
+Presentes os requisitos legais, substituída a pena privativa de liberdade por pena restritiva de direitos, consistente em prestação de serviços à comunidade e prestação pecuniária, fixando-se o regime aberto em caso de reconversão.
+Por fim, inviável o reconhecimento do arrependimento posterior, uma vez que o apelante não ressarciu a vítima do furto, tampouco restituiu o celular, o qual foi apreendido por policiais militares. Verifica-se que o réu apenas ressarciu a cliente para quem vendeu o celular furtado, muito tempo após o formal recebimento da denuncia." (grifou-se)
+Portanto, se a coisa objeto do crime de receptação foi avaliada em R$ 300,00 na época do fato (ano de 2018, conforme a denúncia, e-STJ, fls. 149 - 151), quando o salário mínimo equivalia a R$ 954,00, o teto para o princípio da insignificância, de R$ 95,40, era essencialmente inferior.
+A corroborar:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de ser incabível a aplicação do princípio da insignificância quando o valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos.
+3. Não obstante a ausência do laudo de avaliação direta ou indireta da res furtiva, conforme constou do acórdão recorrido, "o preço médio dos objetos é em torno de R$ 200,00 (duzentos reais)", valor superior a "10% do salário-mínimo vigente à época dos fatos (R$ 880, 00)", não havendo falar, portanto, na incidência do princípio da insignificância, pois supera o limite adotado pela orientação jurisprudencial.
+4. Ainda que assim não fosse, "A ausência de realização de laudo de avaliação impossibilita a discussão de insignificância do dano, afastando, assim, a possibilidade de aplicação do princípio da insignificância" (HC 623.399/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 9/2/2021, DJe 17/2/2021). Nesse sentido: AgRg no HC n. 602.219/PE, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 2/3/2021, DJe de 11/3/2021.
+5. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.203.584/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe de 14/8/2023.)
+Sobre o pleito de incidência do disposto no art. 180, § 5º do CP, a Corte de origem asseverou que "o STJ firmou entendimento de que é inadmissível a aplicação da pena da receptação simples ao crime de receptação qualificada com fundamento no princípio da proporcionalidade, não se cogitando no reconhecimento do privilégio." (e-STJ, fl. 518)
+Com efeito, não consta do acórdão a análise concreta e individualizada da possibilidade de incidência, ou não, do disposto no art. 180, § 5º do CP (§ 5º - Na hipótese do § 3º, se o criminoso é primário, pode o juiz, tendo em consideração as circunstâncias, deixar de aplicar a pena. Na receptação dolosa aplica-se o disposto no § 2º do art. 155). Ausente, pois, o devido prequestionamento do tema.
+Apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, o que atrai a incidência da Súmula 211/STJ. Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não apontou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local.
+Neste sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido".
+(AgRg no REsp 1902294/SP, de minha relatoria, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Quanto ao arrependimento posterior, a parte recorrente alegou, nos embargos de declaração, que, ao contrário do que constou do acórdão que julgou a apelação, o bem fora ressarcido antes do oferecimento da denúncia. Entretanto, a Corte de origem, ao apreciar os aclaratórios, nada acrescentou sobre o tema, limitando-se a afirmar que o recorrente deixara de ventilar a irresignação nas razões do recurso de apelação.
+No ponto, também incide a Súmula 211/STJ, uma vez que a Corte de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, malgrado o manejo dos aclaratórios.
+Conforme já mencionado, persistindo a omissão sobre a matéria de fato, a defesa deveria ter aviado o recurso especial, alegando ofensa ao art. 619 do CPP, não tendo se desincumbido, contudo, de tal expediente.
+Por fim, destaco que, no âmbito do agravo regimental a parte deve refutar os fundamentos da decisão monocrática impugnada, não lhe sendo permitido corrigir a argumentação, suprindo falhas anteriores, em razão da preclusão consumativa.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
