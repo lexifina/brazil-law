@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus interposto por Jardyson Alves Belarmino Silva contra o acórdão do Tribunal de Justiça do Pernambuco (HC n. 0002120-46.2023.8.17.9480), no qual se busca o reconhecimento de nulidade na Ação Penal n. 0000127-68.2023.8.17.4920, da Vara Criminal da comarca de Surubim/PE, ao argumento de que o Juízo processante recebera a denúncia sem analisar e refutar as teses apresentadas na defesa preliminar, designando audiência sem observar as disposições processuais.
+Ocorre que, em 13/11/2023, o Juízo de primeiro grau proferiu sentença condenando o acusado por incurso no art. 14 da Lei n. 10.826/2003 à pena de 2 anos de reclusão, em regime aberto, e pagamento de 10 dias-multa, substituída a privativa de liberdade por restritivas de direitos. Na ocasião, o Magistrado absolveu o réu da imputação prevista no art. 311 do Código Penal e, ainda, concedeu-lhe o direito de recorrer em liberdade. Atualmente, encontra-se em tramitação na Corte estadual o recurso interposto pela defesa contra essa sentença.
+Nos termos da pacífica orientação jurisprudencial do Superior Tribunal de Justiça, com a superveniência de sentença fica superada a alegação de nulidade da decisão que analisou a resposta à acusação, já que todas as questões lançadas pela defesa foram analisadas e debatidas por ocasião do édito condenatório. Nesse sentido, o AgRg no RHC n. 75.112/PE, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/10/2018.
+Na mesma linha, o AgRg no RHC 45.301/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/08/2017; o AgRg no RHC n. 43.230/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2017; e o AgRg no AREsp n. 1.991.793/MG, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 1º/7/2022.
+Ante o exposto, julgo prejudicado o presente recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO E PORTE ILEGAL DE ARMA DE FOGO. NULIDADE DA DECISÃO QUE RECEBEU A DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. APELAÇÃO EM TRAMITAÇÃO NA CORTE ESTADUAL. PREJUDICIALIDADE.
+Recurso prejudicado.
