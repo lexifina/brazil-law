@@ -1,0 +1,13 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL com fundamento no art. 105, III, a, da Constituição Federal em objeção ao acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. MULTAPOR RECURSO MANIFESTAMENTE PROTELATÓRIO IMPOSTA. TÍTULOTRANSITADO EM JULGADO. LIQUIDAÇÃO REDIRECIONADA. REVOGAÇÃO DADECISÃO.1. No caso dos autos, trata-se, na origem, de Ação Civil Pública movida pelo Ministério Público Federal em face do Departamento Nacional de Infraestrutura de Transportes - DNIT, do Departamento Autônomo de Estradas de Rodagem - DAER e do Município de Caxias do Sul.2. Há título transitado em julgado condenando o Ministério Público Federal ao pagamento de multa em decorrência de interposição de recurso manifestamente protelatório, de modo que não há sentido transferir à União, que não é parte na ação, o cumprimento da obrigação originada de conduta exclusiva do MPF, sob ofensa, inclusive, à coisa julgada.3. Portanto, tratando-se o Ministério Público Federal de órgão distinto da União e com orçamento próprio, não há que se falar em redirecionamento da liquidação do julgado em face da União.
+O recorrente sustenta, em síntese, que a imposição de multa ao Ministério Público Federal não está sendo questionada, mas a forma de pagamento, uma vez que não detém meios de pagamento da sua atividade-fim, argumentando que a execução da multa em seu desfavor dá ao art. 506 do CPC/2015 sentido que não lhe é próprio. Aduz que o direcionamento do encargo financeiro à União não decorre de alteração do conteúdo da condenação, mas sim, do cumprimento à sistemática de custeio das despesas processuais do Ministério Público Federal. Pugna pelo provimento do recurso.
+Contrarrazões às fls. 87-93.
+Às fls. 128-130 foi informada a prolação de sentença no feito do qual se originou o agravo de instrumento e o presente recurso especial, e o seu trânsito em julgado, em ofício do Tribunal Regional Federal da 4ª Região.
+É o relatório.
+Passo a decidir.
+Considerando a informação de trânsito em julgado de sentença nos autos originários, verifico ser o caso de reconhecer a perda de objeto do referido recurso, nos termos do art. 932, III, do CPC/2015, c/c art. 34, XI, do RISTJ.
+Isso, porque, diante da prolação de decisão definitiva já transitada em julgado, não remanesce utilidade em qualquer análise meritória que porventura venha a ser realizada neste recurso especial contra acórdão que analisa acerto de decisão interlocutória.
+Pelo exposto, nego seguimento ao recurso.
+Intimem-se.
+EMENTA
