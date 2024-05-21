@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Lucas de Souza Segato contra o ato coator proferido pela Sétima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do Agravo em Execução n. 0004754-08.2023.8.26.0154, deu provimento ao agravo ministerial para revogar a progressão de regime (processo de Execução n. 0003103-82.2016.8.26.0154, DEECRIM 8º RAJ - São José do Rio Preto/SP).
+A defesa alega, em síntese, que a falta grave praticada foi reabilitada, nos termos do art. 112, § 7º, da Lei de Execução Penal.
+Sustenta que a nova redação do dispositivo em comento revogou a Resolução SAP 144.
+Pede seja restabelecida a progressão para o regime aberto (fls. 3/7).
+O Ministério Público Federal pugna pela concessão da ordem, conforme os termos da seguinte ementa do parecer (fls. 77/78):
+HABEAS CORPUS. EXECUÇÃO PENAL. ROUBO, TRÁFICO DE DROGAS E RECEPTAÇÃO.
+CÁLCULO DE PENAS. COMETIMENTO DE FALTA GRAVE. REQUISITO SUBJETIVO. REAQUISIÇÃO DO STATUS DE BOM COMPORTAMENTO CARCERÁRIO. ART. 112, § 7º, IN FINE, DA LEP.
+LAPSO TEMPORAL INTRODUZIDO PELA LEI 13.964/19. DISPOSITIVO QUE CONCRETIZA O COMANDO INSCULPIDO NO ART. 5º, XLVII, ALÍNEA "B", DA CONSTITUIÇÃO FEDERAL, QUE VEDA O ESTABELECIMENTO DE PENAS DE CARÁTER PERPÉTUO. COMETIMENTO DE FALTA GRAVE. BOM COMPORTAMENTO É READQUIRIDO APÓS 1(UM) ANO DA OCORRÊNCIA DO FATO, OU ANTES, APÓS O CUMPRIMENTO DO REQUISITO TEMPORAL EXIGÍVEL PARA OBTENÇÃO DO DIREITO. REEDUCANDO QUE CUMPRIU O REQUISITO TEMPORAL EM 14/08/2023 PARA PROGRESSÃO DE REGIME PRISIONAL.
+POSSIBILIDADE, NO CASO, DE REAQUISIÇÃO DO REQUISITO SUBJETIVO ANTES DO TRANSCURSO DO PRAZO DE 1 (UM) ANO DA PRÁTICA DA FALTA GRAVE. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+PARECER PELA CONCESSÃO DA ORDEM, PARA RESTABELECER A DECISÃO DO JUÍZO DAS EXECUÇÕES.
+É o relatório.
+A impetração pretende o restabelecimento da progressão de regime concedida pelo Juízo da execução.
+Após análise dos autos, entendo assistir razão à impetração.
+De fato, conforme destacado pelo Ministério Público Federal, o paciente cumpriu o prazo de reabilitação da falta grave cometida, nos termos do art. 112, § 7º, da Lei de Execução Penal, não sendo possível falar em falta do requisitos subjetivo. Assim, necessário restaurar a progressão concedida na origem.
+Por essa razão e também por economia processual, adoto as bem-lançadas
+razões ministeriais como fundamento, nos termos do permissivo jurisprudencial (fls. 78/83):
+O impetrante se insurge contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo que deu provimento ao recurso ministerial, para determinar a retificação dos cálculos de penas, nos seguintes termos:
+O sentenciado é reincidente cumpre pena de 10 anos, 04 meses e 25 dias de reclusão, pela prática do crime de tráfico de entorpecentes, roubo majorado e receptação, no regime inicial fechado, com TC
+Previsto para 09/04/2026. Foi progredido ao regime semiaberto e, então, ao aberto, registrando em seu prontuário a falta grave cometida em 23/10/2022, da qual se reabilitará somente em 01/02/2024, consistente no descumprimento das regras do regime aberto, conforme se observa do boletim informativo à fl. 20.
+A controvérsia ventilada nestes autos cinge-se em definir o prazo mínimo para que o reeducando possa readquirir, para fins de progressão de regime prisional, o status de bom comportamento carcerário, preenchendo, assim, o requisito subjetivo, após o cometimento de falta grave.
+Com o advento da Lei 13.964/19, houve alteração do art. 112 da Lei de Execução Penal, de modo a estabelecer novos requisitos objetivos e subjetivos para a progressão de regime prisional, in verbis:
+ ..
+Inicialmente, impende destacar que o Sr. Presidente da República vetou o § 7º do art. 112 da LEP, introduzido pela Lei 13.964/19, ao fundamento de que:
+A propositura legislativa, ao dispor que o bom comportamento, para fins de progressão de regime, é readquirido após um ano da ocorrência do fato, ou antes, após o cumprimento do requisito temporal exigível para a obtenção do direito, contraria o interesse público, tendo em vista que a concessão da progressão de regime depende da satisfação de requisitos não apenas objetivos, mas, sobretudo de aspectos subjetivos, consistindo este em bom comportamento carcerário, a ser comprovado, a partir da análise de todo o período da execução da pena, pelo diretor do estabelecimento prisional. Assim, eventual pretensão de objetivação do requisito vai de encontro à própria natureza do instituto, já pré-concebida pela Lei nº 7.210, de 1984, além de poder gerar a percepção de impunidade com relação às faltas e ocasionar, em alguns casos, o cometimento de injustiças em relação à concessão de benesses aos custodiados.(nosso destaque)
+Todavia, o veto não foi mantido pelo Congresso Nacional, em uma clara intenção do legislador em estabelecer um marco temporal para a reabilitação de faltas disciplinares praticadas pelo reeducando, o que conduz à exegese de que a teleologia da norma é de possibilitar a reinserção do preso na sociedade, no menor espaço de tempo possível, desde que cumpridos os requisitos objetivos para a progressão de regime prisional.
+Assim, o estabelecimento de lapso temporal para reabilitação de faltas graves cometidas pelo reeducando e, por consequência, a obtenção de atestado de bom comportamento carcerário, para fins de progressão de regime prisional, preencheu lacuna legislativa, tendo em vista que a lei de regência silenciava sobre o tema, de tal forma que a inovação concretiza o comando insculpido no art. 5º, XLVII, alínea "b", da Constituição Federal, que veda o estabelecimento de penas de caráter perpétuo.
+Com efeito, a inexistência de prazo para reabilitação de faltas graves, constitui afronta aos princípios da razoabilidade e da proporcionalidade, que regem, dentre outros princípios, a execução penal. Nessa linha de intelecção, a jurisprudência dessa E. Corte é no sentido de que "não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena" (HC n. 592.587/SP, relatora Ministra LAURITA VAZ, SEXTATURMA, julgado em 18/8/2020, D Je 2/9/2020). No mesmo sentido: AgRg no REsp 1.921.742/ DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO,SEXTA TURMA, julgado em 22/06/2021, D Je 29/06/2021.
+Cumpre ressaltar que o dispositivo legal em análise não se limita a estabelecer o prazo de 1 (um) ano da ocorrência do fato para que o reeducando readquira o status de bom comportamento carcerário, merecendo especial relevância a parte final do comando legal, que possibilita a reaquisição de bom comportamento antes do transcurso do prazo de 1 (um) da data do fato disciplinar, desde que cumprido o requisito temporal para a progressão de regime prisional.
+No caso dos autos, o lapso temporal para a progressão de regime foi obtido em 14/08/2023, conforme cálculo depena acostado a fls. 22 (e-STJ). Logo, a partir da referida data, tem-se configurada a exceção prevista na parte final do § 7º do art. 112 da LEP, ou seja, alcançado o requisito temporal exigível para a obtenção do direito, o reeducando faz jus à aquisição do status de bom comportamento carcerário.
+Desse modo, opina-se pela concessão da ordem, para restabelecer a decisão do Juízo das Execuções.
+Ante o exposto, concedo a ordem para restabelecer a decisão de origem (fls. 31/32) que concedeu a progressão de regime.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MAU COMPORTAMENTO. FALTA GRAVE REABILITADA. ART. 112, § 7º, DA LEP. ADIMPLEMENTO DO REQUISITO OBJETIVO. PROGRESSÃO. PARECER ACOLHIDO COMO RAZÕES DE DECIDIR.
+Ordem concedida.
