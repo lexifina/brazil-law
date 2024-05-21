@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de RODRIGO LOURENCO MARINHO SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo Interno Criminal n. 2189055-33.2023.8.26.0000/50000.
+Extrai-se dos autos que o Juízo da Vara Única da Comarca de Aguaí/SP indeferiu pedidos de substituição de prisão preventiva por prisão domiciliar ou de aplicação de medidas cautelares alternativas em favor do paciente preso preventivamente pela prática, em tese, do crime de feminicídio tentado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que foi liminarmente indeferido. Na sequência, interpôs agravo que foi desprovido nos termos do acórdão de fls. 12/17, assim ementado:
+"AGRAVO REGIMENTAL - INTERPOSIÇÃO CONTRA A DECISÃO MONOCRÂTICA QUE INDEFERIU LIMINARMENTE PEDIDO DE HABEAS CORPUS - DESCABIMENTO - IMPETRAÇÃO DO WRIT COM FINALIDADE DE OBTER PRISÃO DOMICILIAR - MATÉRIA ANALISADA EM OUTRA HABEAS CORPUS - REITERAÇÃO. - MANUTENÇÃO DO INDEFERIMENTO LIMINAR - AGRAVO REGIMENTAL DESPROVIDO." (fl. 13)
+No presente writ, a defesa sustenta a configuração de constrangimento ilegal consistente na manutenção da prisão preventiva do paciente, que se encontra acometido de "coxartrose bilateral e osteonecrose avascular" (fl. 4).
+Assere que o tratamento médico adequado não tem sido prestado na unidade prisional em se o agente se encontra custodiado.
+Pondera a necessidade de substituição da prisão preventiva por prisão domiciliar e a suficiência das medidas cautelares previstas no art. 319 do Código de Processo Penal - CPP.
+Requer, em liminar e no mérito, a revogação da prisão preventiva imposta ao paciente.
+A liminar foi indeferida (fls. 32/33) e as informações foram prestadas (fls. 65 e 67/68). O Ministério Público Federal - MPF opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 108/115).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Busca-se, nos presentes autos, a revogação da prisão preventiva do paciente.
+No que tange aos motivos da custódia cautelar e à concessão de prisão domiciliar, de se destacar que o acórdão impugnado (fls. 12/17) não conheceu da impetração originária, por se tratar de reiteração de writ anterior, qual seja, o HC n. 2001667-84.2023.8.26.0000.
+Nesse contexto, considerando que as questões aqui trazidas não foram debatidas no acórdão ora impugnado, fica impossibilitado o conhecimento da impetração quanto aos pontos referidos.
+Ademais, da consulta ao sistema processual deste Sodalício, verificou-se que referido acórdão também foi impugnado nos autos do HC 828.720/SP, - impetrado em benefício do mesmo paciente -, o qual foi indeferido liminarmente por entender pela idoneidade dos fundamentos utilizados pelas instâncias ordinárias para a manutenção da segregação antecipada e para o indeferimento da prisão domiciliar.
+Assim, tendo o presente writ a mesma parte e questionando matérias arguidas no referido writ, relativamente à mesma ação penal de origem, resta configurada inadmissível reiteração de pedido, o que impede o conhecimento das referidas alegações.
+Confira-se a jurisprudência pacífica deste Tribunal:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDO ANTERIOR. PROSSEGUIMENTO DO FEITO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Como já salientado na decisão agravada, a questão aqui suscitada foi objeto, primeiramente, do HC n. 727.633/PE, que se volta contra o mesmo acórdão e também pretende a revogação das medidas cautelares fixadas em desfavor do ora agravante.
+2. O writ em questão já foi conhecido, na oportunidade em que restou indeferida a medida liminar, de modo que não há plausibilidade na questão suscitada pela defesa no regimental.
+3. É praxe, pelos Ministros integrantes da Sexta Turma do Superior Tribunal de Justiça, o conhecimento de habeas corpus substitutivo do recurso ordinário em habeas corpus, com o exame da questão de mérito suscitada na impetração. Breve pesquisa nos julgados deste órgão colegiado deixa clara essa prática.
+4. O fato de a defesa haver buscado, por dois meios distintos - habeas corpus autônomo (já conhecido, repita-se) e posterior recurso ordinário em habeas corpus - obter manifestação desta Corte Superior sobre a mesma tese, evidencia abuso do direito de litigar, o que acarreta um desnecessário gasto de recursos humanos e uma odiosa perda de tempo do órgão judicante, que já se vê sobrecarregado pela grande quantidade de feitos distribuídos e julgados diariamente.
+5. Agravo não provido.
+(AgRg no RHC n. 164.978/PE, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/8/2022, DJe de 31/8/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. MERA REITERAÇÃO. MATÉRIA EXAMINADA NO HC 611.694/RJ. 2. ALTERAÇÃO DA JURISPRUDÊNCIA. PEDIDO DE APLICAÇÃO RETROATIVA. INSTÂNCIA EXAURIDA. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A matéria trazida no presente mandamus já foi analisada por esta Corte Superior no julgamento do HC 611.694/RJ. Dessarte, ainda que tenha havido alteração no entendimento jurisprudencial, não compete ao STJ conhecer de HC contra seus próprios julgados, devendo o agravante se insurgir na Corte constitucionalmente competente.
+2. Importante ressaltar que o processo é um encadeamento de atos para frente, não sendo possível, portanto, que a parte ingresse com pedidos perante instâncias já exauridas. Ademais, não se pode descurar que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica". (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022.)
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 753.519/RJ, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/8/2022, DJe de 22/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. MERA REITERAÇÃO DE PEDIDO APRECIADO NO HC N. 686.886/SP. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. QUANTIDADE DE ENTORPECENTE E OUTRAS CIRCUNSTÂNCIAS DO CASO CONCRETO. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. CABÍVEL O REGIME FECHADO. DETRAÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No tocante à legalidade da manutenção da custódia preventiva, verifico que, no HC n. 686.886/SP, a mim distribuído em 13/08/2021, foi formulada idêntica pretensão, em favor do ora Paciente. Ao julgar o mencionado writ, entendi pela idoneidade da manutenção da custódia preventiva. Assim, conclui-se que, apesar de serem diversos os acórdãos na origem, o presente recurso é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir.
+2. São condições para que o condenado faça jus à aplicação da causa de diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+3. No caso, a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006 foi negada com a justificativa de que o Agravante se dedicava a atividades criminosas, o que foi evidenciado a partir do modus operandi delitivo, e não apenas em razão da quantidade de entorpecente apreendido.
+4. Não obstante a fixação da reprimenda em patamar inferior a 8 (oito) anos de reclusão (e pena-base fixada no mínimo legal), a quantidade das drogas apreendidas justificou o estabelecimento do regime inicial fechado, consoante destacado pelas instâncias ordinárias, o que está em conformidade com a jurisprudência desta Corte.
+5. Não houve pronunciamento do Tribunal a quo sobre o disposto no art. 387, § 2.º, do Código de Processo Penal, de modo que a apreciação originária do tema por esta Corte configuraria indevida supressão de instância.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 733.726/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA , julgado em 3/5/2022, DJe de 6/5/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
