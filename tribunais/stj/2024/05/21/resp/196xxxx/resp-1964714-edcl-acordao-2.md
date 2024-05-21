@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/05/2024 a 21/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. SOBRESTAMENTO. VÍCIO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do Código de Processo Penal, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para corrigir eventual erro material na decisão embargada.
+2. Não se identifica, no recurso, vício algum capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra acórdão da Corte Especial que negou provimento ao agravo regimental, mantendo a decisão de sobrestamento do recurso extraordinário, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. BUSCA E APREENSÃO DOMICILIAR. CONSENTIMENTO DO MORADOR. REQUISITOS DE VALIDADE. REPERCUSSÃO GERAL DA MATÉRIA RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. TEMA N. 1.208/STF. PENDÊNCIA DE JULGAMENTO. NECESSIDADE DE SOBRESTAMENTO DO RECURSO. INTELIGÊNCIA DO ART. 1.030, III, DO CÓDIGO DE PROCESSO CIVIL.
+1. No RE n. 1.368.160-RG/RS, o STF reconheceu a repercussão geral da questão relativa ao consentimento do morador para ingresso em domicílio (Tema n. 1.208 do STF). Entretanto, o mérito ainda não foi julgado pela Suprema Corte.
+2. No caso, o acórdão recorrido concluiu que não teria havido consentimento válido do morador para a entrada no imóvel, matéria que, como visto, está pendente de julgamento no STF, impondo-se assim, a manutenção do sobrestamento do recurso extraordinário.
+3. Agravo regimental a que se nega provimento.
+A parte embargante alega que o julgado impugnado teria se omitido acerca da tese central suscitada pela acusação, relativa à não incidência do Tema n. 1.208 do STF no caso dos autos, uma vez que não teria havido ingresso domiciliar, mas somente a entrega do bem na parte externa do imóvel.
+Afirma que a discussão gravita em torno de duas versões sobre os fatos: a de que a entrega da mídia eletrônica teria se dado de forma voluntária e a de que teria havido coação, sob pena de ingresso forçado. Sustenta que em nenhuma dessas versões teria ocorrido o efetivo ingresso no domicílio a amparar a aplicação do Tema n. 1.208 do STF ao caso em análise.
+Argumenta que a nulidade da busca e apreensão teria sido declarada "em razão da equivocada conclusão de que ocorreu ofensa à inviolabilidade do domicílio, na contramão do que foi delimitado pelas instâncias ordinárias" (fl. 2.077).
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. SOBRESTAMENTO. VÍCIO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do Código de Processo Penal, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para corrigir eventual erro material na decisão embargada.
+2. Não se identifica, no recurso, vício algum capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+3. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que ausentes os vícios apontados pela parte embargante, haja vista que o julgado impugnado manteve, fundamentada e claramente, a decisão que sobrestou o recurso extraordinário.
+Com efeito, registrou-se, no pronunciamento embargado, que o acórdão proferido pela Sexta Turma do STJ, objeto do recurso extraordinário, reputou ilícita a ação policial ao fundamento de que houve ingresso na residência e sem consentimento válido, conforme se extrai da seguinte passagem do voto vencedor:
+Não se desconhece que, em casos congêneres, conforme disposto na decisão recorrida, incide o óbice da Súmula 7/STJ. Contudo, tenho que existem particularidades que distinguem a presente hipótese.
+Em dissonância com o quanto posto na decisão agravada, verifica-se que o HD foi apreendido na casa dos pais do investigado, à noite, sem a devida autorização judicial, bem como sem a presença de testemunhas. Como citado, a certidão de entrega espontânea foi assinada por 2 (dois) agentes públicos e pelos 2 (dois) genitores de um dos investigados - grifo nosso.
+Destaca-se, ainda, que a entrada na referida residência se deu sem a anuência dos proprietários, bem como o Estado não apresentou quaisquer elementos que corroborassem a tese de que o HD fora entregue de forma voluntária.
+Reitera-se, no ponto, a carência de justificativa para a ausência de testemunhas que dessem lastro ao quanto arguido pelos policiais.
+Nesse sentido, nos termos da jurisprudência desta Corte, "a prova da legalidade e da voluntariedade do consentimento para o ingresso na residência do suspeito incumbe, em caso de dúvida, ao Estado, e deve ser feita com declaração assinada pela pessoa que autorizou o ingresso domiciliar, indicando-se, sempre que possível, testemunhas do ato. Em todo caso, a operação deve ser registrada em áudio-vídeo e preservada tal prova enquanto durar o processo" (HC 608.405/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 14/04/2021) (REsp n. 1.946.458/GO, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe de 22/10/2021 - grifo nosso).
+Nesses termos, dou provimento ao agravo regimental no sentido de reconhecer a nulidade apontada e, via de consequência, declarar a ilegalidade da apreensão realizada em 25/4/2015 do disco rígido (HD), marca Seagate, número de série 5VMNZXM4, modelo ST3500418AS, P/N: 9SL142-303, com capacidade de 500 gb, anulando-se e determinando-se o desentranhamento de todos os elementos informativos dela derivados.
+No julgamento dos embargos de declaração foi consignado:
+Embora o embargante tenha alegado a ocorrência de omissão no fundamento do acórdão, verifica-se que se trata de mero inconformismo da parte. Objetivam os declaratórios, na verdade, a rediscussão dos fundamentos do acórdão embargado, finalidade imprópria na via recursal.
+Consta do acórdão da Corte de origem que, no dia 25/5/2015, por volta das 22h00min, os agentes do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) receberam de Jaime Vieira e Maria do Carmo Vieira, possivelmente na residência situada na rua Ana Ida Eccel, n. 577, bairro Bohermvald, em Joinville/SC, um HD, da marca Seagate, número de série 5VMNZXM4, modelo ST3500418AS, P/N:9SL142-303, com capacidade de 500gb (auto de exibição e apreensão, Evento 73, TERMO264-265) - fl. 1.340.
+Nos termos da decisão embargada, a entrada na referida residência se deu sem a anuência dos proprietários, bem como o Estado não apresentou quaisquer elementos que corroborassem a tese de que o HD fora entregue de forma voluntária.
+Impõe-se, na esteira da jurisprudência do Superior Tribunal de Justiça, a manutenção do reconhecimento da nulidade.
+ ..
+Tendo sido estabelecida no acórdão objeto do recurso extraordinário a premissa fática de que houve ingresso em domicílio, não compete a este juízo de admissibilidade reavaliar fatos e provas, desconstituindo as bases do acórdão proferido, mas verificar, à luz do que ficou assentado, a presença dos requisitos de admissibilidade do recurso.
+Com efeito, a embargante interpôs o recurso extraordinário afirmando que "o posicionamento adotado pelo acórdão combatido viola o art. 5º, XI, da CF". Além disso, asseverou que esta Corte Superior teria alargado a garantia da inviolabilidade domiciliar (fls. 1.877 e 1.882).
+Ademais, não foi suscitado pela recorrente nenhuma deficiência na fundamentação do acórdão recorrido apontando violação do art. 93, IX, da Constituição da República em virtude da "equivocada conclusão de que ocorreu ofensa à inviolabilidade do domicílio, na contramão do que foi delimitado pelas instâncias ordinárias" (fl. 2.077).
+A partir de tais balizas, na decisão agravada anotou-se que o STF reconheceu a repercussão geral da questão relativa aos pressupostos de validade do consentimento do morador para a busca e apreensão domiciliar, debate realizado no RE n. 1.368.160-RG/RS (Tema n. 1.208 do STF).
+Pontuou-se que o mérito do Tema n. 1.208 do STF ainda não foi julgado pela Suprema Corte, razão pela qual se impõe o sobrestamento do recurso, na forma do art. 1.030, III, do CPC.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
