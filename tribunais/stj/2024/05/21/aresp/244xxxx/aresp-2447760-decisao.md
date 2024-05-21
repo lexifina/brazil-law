@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7 do STJ.
+Consta dos autos que agravante foi condenado em primeira instância à pena de 4 anos de reclusão, no regime inicial aberto, e ao pagamento de 10 dias-multa, como incurso no art. 157, caput, do Código Penal.
+Em sede de apelação, o Tribunal de origem deu parcial provimento ao recurso tão somente para reconhecer como favorável a circunstância judicial dos maus antecedentes, mantendo, todavia, a pena no mesmo patamar fixado na sentença.
+Inconformado, foi interposto recurso especial, com fulcro no artigo 105, III, "a", da Constituição Federal, o qual não foi admitido na origem.
+Nas razões do especial, aponta o recorrente a violação dos artigos 155 e 157 do CP, sustentando que restou ausente a demonstração de que usou de violência ou grave ameaça contra a pessoa, eis que o fato narrado não se trata de roubo, mas sim do delito de furto. Afirma que a palavra da vítima se encontra isolada nos autos, sem nenhuma prova cabal de que o recorrente supostamente tenha simulado o porte de arma de fogo no momento do delito.
+Requer o provimento do agravo para que seja admitido o recurso especial para, ao final, ser desclassificada a conduta para o crime de furto.
+O agravado apresentou contraminuta. O Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passo, portanto, à análise do mérito do recurso especial.
+Ao julgar a apelação, o Tribunal de origem assim se manifestou quanto à condenação (e-STJ fls. 202/211):
+Conheço do recurso, eis que presentes os pressupostos de sua admissibilidade.
+Não tendo sido arguidas preliminares, nem vislumbrando vício na prestação jurisdicional, passo ao exame do mérito.
+Busca a Defesa, como tese principal, a absolvição do apelante, alegando a fragilidade probatória, bem como o descumprimento dos preceitos previstos no art. 266 do Código de Processo Penal para o reconhecimento do acusado.
+Data venia, razão não lhe assiste.
+A materialidade delitiva restou demonstrada nos autos pelo boletim de ocorrência de f. 03/05, Laudo de Avaliação Indireta de f. 14 e pela prova oral colhida.
+No que tange à autoria delitiva, ao contrário do sustentado pela defesa, tenho que também se mostra inconteste, não obstante a negativa sustentada.
+A este respeito, Davi Silva de Assis, na fase extrajudicial (f. 07), negou cabalmente a prática do crime em questão. Afirmou que o aparelho de telefone celular, utilizado para realizar o pedido no estabelecimento "Pina e Cia", de fato é de sua mãe, todavia, nega que tenha feito pedido de pizza utilizando o aparelho, não sabendo dizer quem foi. Veja-se:
+ ..
+Sob o crivo do contraditório, o acusado utilizou-se do seu direito constitucional de permanecer em silêncio (PJE mídias).
+Em que pese à versão sustentada pelo réu, as declarações da vítima e o depoimento das testemunhas dão o necessário suporte ao decreto condenatório proferido em primeira instância.
+Neste sentido, a vítima K.B.M., na fase policial, declarou ser motoboy do estabelecimento "Pizza e Cia" e que, na noite dos fatos, após receber encomenda de duas pizzas e um refrigerante, no valor de R$66,00 (sessenta e seis reais), se dirigiu ao endereço fornecido pelo cliente e, ao chegar lá, um rapaz de jaqueta escura e boné veio em sua direção, falou que estava armado e colocou a mão debaixo da blusa, anunciando o assalto e exigindo o troco que trazia.
+Narrou que o agente virou a chave da ignição de sua moto para que ele não fugisse do local, todavia, no momento em que o réu foi pegar o lanche, o declarante retirou a chave da ignição e saiu correndo, deixando o acusado com a mochila e as pizzas. Logo em seguida, acionou a Polícia Militar.
+Assim, quando retornou ao local do crime junto aos policiais, encontrou a mochila sem as pizzas e a moto no mesmo lugar. Na Delegacia, ao lhe serem apresentadas fotografias, reconheceu, sem dúvida alguma, a foto de Davi como sendo o autor do roubo, bem como confirmou que o pedido do lanche foi feito do celular da mãe do apelante (f. 1 1.
+Em juízo, o ofendido confirmou suas declarações extrajudiciais, asseverando que não teve dúvidas ao reconhecer o acusado pelas fotos e, inclusive, em um momento posterior na Delegacia (mídia PJE).
+Vale ressaltar que, em se tratando de crime praticado na clandestinidade, fora da visão de pessoas que não a vítima, a palavra desta possui relevante valor probatório, vez que incidindo sobre o proceder de um desconhecido, seu único interesse é apontar o verdadeiro culpado pelo fato e narrar-lhe a dinâmica do ilícito praticado.
+Aliás, a jurisprudência é farta em atribuir credibilidade â palavra da vítima em casos como o presente, senão vejamos:
+ ..
+Não bastasse isso, a corroborar a autoria delitiva, têm-se, ainda, os depoimentos prestados pelos policiais militares que atuaram na prisão do acusado, sendo certo que estes, em juízo (mídia PJE), aduziram que o réu é conhecido no meio policial por praticar diversos crimes, em especial os crimes contra o patrimônio.
+O policial militar José Carlos de Andrade, em juízo (mídia PJE), asseverou que a própria mãe do acusado, proprietária do aparelho celular utilizado por Davi para encomendar a pizza, colaborou com os militares, confirmando que seu filho realmente havia usado o seu telefone e informando as vestimentas que ele usava no dia dos fatos.
+Sendo assim, dúvida não há de que o acusado Davi Silva de Assis praticou o delito ora analisado, não havendo como acolher a tese de absolvição abraçada pela Defesa.
+Da mesma forma, sem razão a Defesa ao pleitear a desclassificação da conduta praticada pelo apelante para aquela prevista no art. 155, caput, do Código Penal, ao argumento da inexistência de grave ameaça.
+A vítima narrou os fatos, em detalhes, na oportunidade em que foi ouvida na DEPOL (f. 11), relatando que o acusado disse que estava armado e colocou a mão debaixo da blusa, anunciando o assalto. Em juízo (mídia PJE), confirmou seu depoimento.
+Desse modo, a versão do apelante, de que não houve simulação de porte de arma de fogo no momento dos fatos e que, o simples anúncio do assalto não configura grave ameaça, além de se encontrar isolada nos autos, não tem como prosperar.
+ ..
+Logo, demonstrado nos autos, pela palavra da vítima, que houve a simulação de porte da arma de fogo e ameaças proferidas pelo agente, tenho que o ilustre Julgador Monocrático decidiu acertadamente ao não desclassificar a imputação para o crime de furto.
+Sendo assim, mantenho a condenação do acusado Davi Silva de Assis como incurso nas iras do art. 157, caput, do Código Penal.
+Com efeito, da leitura do excerto acima transcrito, verifica-se que o Tribunal de origem, soberano na reanálise dos fatos e das provas, concluiu pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório, notadamente pelo depoimento da vítima e do policial militar, que colheu o depoimento da mãe do acusado no sentido de que ele utilizou seu aparelho celular para encomendar a pizza, informando inclusive as vestimentas que ele usava no dia dos fatos.
+Quanto à tese de desclassificação para o crime de furto, o acórdão impugnado se baseia no fato de que o recorrente foi reconhecido pela vítima do roubo e que ela relatou que o anúncio do assalto se deu sob a alegação de o agente estar na posse de arma de fogo, oportunidade na qual colocou a mão por debaixo da blusa.
+Nesse aspecto, desconstituir o julgado, buscando a desclassificação da conduta criminosa analisada na origem, não encontra amparo na via eleita, dada a necessidade de revolvimento do conjunto fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7/STJ.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE ROUBO MAJORADO E CORRUPÇÃO DE MENORES. PRATICADO NA CLANDESTINIDADE. PALAVRA DO OFENDIDO CORROBORADA POR OUTROS ELEMENTOS DE PROVA. DEPOIMENTO DA VÍTIMA NA FASE INQUISITORIAL RATIFICADO EM JUÍZO. SÚMULA 83/STJ. ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE DIANTE DA AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO NÃO PROVIDO.
+1. A condenação do recorrente pelos delitos de roubo e de corrupção de menores foi fundamentada no depoimento da vítima na fase inquisitorial, posteriormente ratificados em juízo e em consonância com as demais provas existentes nos autos. Dessa forma, o aresto atacado encontra-se em harmonia com a jurisprudência desta Corte Superior, no sentido de que a prova colhida na fase inquisitorial, desde que corroborada por outros elementos probatórios, pode ser utilizada para ensejar uma condenação.
+2. A jurisprudência desta Corte é assente no sentido de que, no crime de roubo, geralmente praticado na clandestinidade, a palavra da vítima tem valor probante diferenciado, desde que corroborada por outros elementos probatórios:
+3. Desse modo, incide a esta hipótese a Súmula 83/STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Frise-se que "esse óbice também se aplica ao recurso especial interposto com fulcro na alínea a do permissivo constitucional" (AgRg no AREsp 475.096/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/08/2016, DJe 19/08/2016).
+4. Além disso, o acórdão combatido pontuou que "seguramente comprovado restou que Ricardo, agindo em concurso de agentes, entrou na farmácia, submeteu a vítima ao crivo de grave ameaça com emprego de simulacro de arma de fogo e do local subtraiu R$ 102,00, protetor labial e preservativos, de modo que deve prevalecer o desate condenatório" (e-STJ, fl. 278). Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição do agravante, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+5. Não sendo possível se vislumbrar a ocorrência de ilegalidade flagrante ou de constrangimento ilegal, resta descabida a concessão de habeas corpus, de ofício.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 1.381.251/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/2/2019, DJe de 26/2/2019.)
+Além disso, a jurisprudência desta Corte Superior é firme no sentido de que "em crimes contra o patrimônio, cometidos na clandestinidade, em especial o roubo, a palavra da vítima tem especial importância e prepondera, especialmente quando descreve, com firmeza, a cena criminosa" (HC n. 581.963/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022.).
+Destarte, estando o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
