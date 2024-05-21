@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo PARTIDO DEMOCRÁTICO TRABALHISTA REGIONAL SP, em face da decisão que não conheceu do recurso em mandado de segurança em razão da deserção.
+Em suas razões, a parte embargante alega que:
+Ainda que se entenda que houve indicação equivocada do código na respectiva guia, esta não ensejou qualquer prejuízo na análise do recurso.
+Neste sentido, é importante destacar que o valor da GRU é preenchido automaticamente pelo sistema deste Colendo Superior Tribunal de Justiça, sendo, inclusive o mesmo valor para fins de Recurso em Mandado de Segurança:
+Com efeito, não há que se falar em ausência de recolhimento a esta Colenda Corte, mas somente houve equívoco no preenchimento, que não obsta o conhecimento e a análise do recurso.
+Desta forma, não há que se falar em óbice na Súmula STJ nº 187, que dispõe que, quando não há recolhimento das custas o recurso é deserto. (e-STJ fls. 136/137)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios, manifestando-se às fls. 145/149 (e-STJ).
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que, no ato de interposição da petição de embargos de divergência perante a Secretaria deste Tribunal, a parte deve anexar a guia de recolhimento das custas devidamente preenchida, bem como o respectivo comprovante de pagamento, ambos de forma visível e legível.
+No caso dos autos, a parte recorrente não cumpriu devidamente os requisitos relativos ao preparo, uma vez que fez a indicação incorreta do recurso interposto (recurso especial - e-STJ fl. 102).
+Ressalta-se que mesmo após intimada para sanar referido vício, a parte não regularizou o preparo, mantendo-se inerte.
+A jurisprudência desta Corte de Justiça é firme no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso em mandado de segurança, caracteriza a sua deserção.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CUSTAS JUDICIAIS. RECOLHIMENTO INDEVIDO. INTEMPESTIVIDADE.
+1. Cuida-se de Agravo Interno contra decisum que não conheceu do Recurso em Mandado de Segurança.
+2. Verificou-se que o recolhimento das custas judiciais foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, porquanto no momento do preenchimento do formulário eletrônico a parte indicou erroneamente o tipo de recurso escolhido. Assim, em vez de recolher as custas do Recurso em Mandado de Segurança, fez o recolhimento sob rubrica diversa (Recurso Especial - fl. 293). A parte, embora regularmente intimada para sanar referido vício, não o regularizou.
+3. Ressalte-se que o STJ consolidou o entendimento de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso, caracteriza a sua deserção. Assim, o Recurso em Mandado de Segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula 187 deste eg. Superior Tribunal de Justiça, o que leva à deserção do recurso. A propósito: AgInt no RMS 58.874/PR, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 29.11.2019; AgInt no RMS 56.802/GO, Rel. Min. Benedito Gonçalves, Primeira Tturma, DJe 3.10.2019).
+4. Ademais, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 33 da Lei 8.038/1990 e dos arts. 1.003, § 5º, e 219, caput, do Código de Processo Civil. Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. (AgInt no AREsp 1.740.116/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 18.12.2020.)
+5. Agravo Interno não provido.
+(AgInt no RMS 69565/AL, Ministro Relator HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/03/2023, DJe 04/04/2023)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PREPARO. RECOLHIMENTO SOB RUBRICA DIVERSA. ART. 1.007, § 7º, DO CPC. INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO. NÃO ATENDIMENTO. AUSÊNCIA DO CÓDIGO DE BARRAS DA GRU NO COMPROVANTE DE PAGAMENTO. PRESENÇA DO CÓDIGO DE AUTENTICAÇÃO. INSUFICIENTE. DESERÇÃO CONFIGURADA. INCIDÊNCIA DA SÚMULA 187/STJ.
+1. A jurisprudência desta Corte de Justiça é firme no sentido de que, mutatis mutandis, "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no AREsp 1.449.432/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 12/5/2020).
+2. Preparo realizado com a indicação errônea do tipo de ação/recurso no formulário eletrônico, na medida em que, no lugar de recolher as custas do recurso em mandado de segurança, a parte agravante fez o recolhimento sob rubrica diversa, deixando de sanar tal equívoco, apesar de regularmente intimada, fato que legitima a aplicação da pena de deserção.
+3. Agravo interno não provido.
+(AgInt nos EDcl no RMS 63694/MG, Ministro Relator SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 27/04/2021)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp 1315507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
