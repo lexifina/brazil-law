@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especia l manejado por Roberto Ângelo de Farias, com base no art. 105, III, a e c, da CF, contra acórdã o proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 2.939):
+RECURSO DE APELAÇÃO - AÇÃO POPULAR - PROPOSTA ALMEJANDO A ANULAÇÃO DA CONCORRÊNCIA - SENTENÇA DE PROCEDÊNCIA - CERTAME E CONTRATO ANULADOS ADMINISTRATIVAMENTE - PERDA SUPERVENIENTE DO OBJETO DO RECURSO - RECONHECIDA. O mérito recursal consiste na legalidade e validade do Certame nº 003/2016 e do Contrato nº 813/2016. Inobstante, em consonância a manifestação da parte autora ora Apelada, bem como com a cópia do Despacho proferido pela Prefeitura Municipal de Barra do Garças e do Jornal Eletrônico dos Municípios do Estado de Mato Grosso (Id: 145681155 e 145681156), se verifica que a concorrência Pública e o Contrato objetos desse feito, foram anulados. Assim, considerando que todos os pedidos formulados pela parte Apelante perderam o objeto, à medida que se impõe é o reconhecimento da perda superveniente do objeto do presente recurso.
+Os embargos declaratórios opostos foram rejeitados (fls. 2.991/3.018).
+A parte recorrente aponta, além de divergência jurisprudencial, violação aos arts. 85, § 8º, 489, § 1º, e 1022, II, do CPC. Sustenta que: (I) a despeito dos aclaratórios, o Tribunal de origem quedou-se silente em relação às teses nele suscitadas, especificamente sobre a necessidade revisão da verba sucumbencial; e (II) deve ser redimensionada a verba advocatícia, para que seja arbitrada com base em apreciação equitativa.
+O Ministério Público Federal opinou pelo provimento do recurso especial, nos termos assim resumidos (fl. 3.156):
+RECURSO ESPECIAL. CONTRARIEDADE AO ART. 1.022, II, DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO RELATIVA A QUESTÕES RELEVANTES AO DESLINDE DA CAUSA. OFENSA CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL A QUO.
+1. Há violação do art. 1.022, II, do CPC, quando o Tribunal a quo, a despeito da oposição de embargos declaratórios, deixa de analisar questões relevantes e necessárias ao deslinde da causa, as quais podem alterar o resultado do julgamento.
+2. Parecer pelo provimento do recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489, § 1º. e 1022, II, do CPC, pois a parte recorrente, na petição dos aclaratórios, alegou que (fl. 2.958):
+27. Desta forma, ao considerar a perda do objeto recursal, em razão da superveniência da revogação do ato administrativo pelo Município - que é parte no feito - o acórdão embargado omitiu-se da apreciação da impugnação dos honorários fixados, posto que, na realidade, ainda havia interesse na discussão deste ponto, salvo se o Tribunal entender que ocorreu a perda do interesse processual, atraindo a extinção do feito, sem resolução de mérito, nos termos do Art. 485, VI, do CPC.
+28. Assim, ao deixar de apreciar essa matéria, o r. acórdão, além de omisso, impõe às partes que não deram causa à revogação, ônus financeiro mais gravoso, posto que deixou de apreciar situação que impacta diretamente nos outros atores processuais, olvidando-se do teor do Art. 21, parágrafo único, do DECRETO-LEI Nº 4.657, DE 4 DE SETEMBRO DE 1942:
+Por sua vez, nas razões do apelo nobre, aduziu que (fl. 3.028):
+As omissões apontadas nos embargos de declaração referem-se a pontos importantes e que demonstram o error in judicando cometido pelo acórdão prolatado no feito, quais sejam:
+a) o exame da questão jurídica recursal à luz da regra do art. 85, § 8º, do Código de Processo Civil;
+b) necessidade de apreciação da matéria face entendimentos do próprio Tribunal de origem e da jurisprudência desta Corte Superior de Justiça, em desacordo com o disposto no Art. 489, § 1º, IV, do CPC.
+Contudo, o Tribunal de origem quedou silente sobre o pleito de redução da verba advocatícia fixada na sentença e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação aos arts. 489, § 1º, e 1022, II, do CPC, porquanto não prestada a jurisdição de forma integral.
+Nesse passo, reconhecida a violação aos arts. 489, § 1º, e 1022, II, do CPC, impõe-se a anulação do acórdão proferido no julg amento dos embargos de declaração, restando prejudicada a análise do tópico rem anescente.
+ANTE O EXPOSTO, dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido p or violação aos arts. 489, § 1º, e 1022, II, do CPC, determinar o retorno dos autos ao Tribunal de or igem, a fim de que s e ja realizado novo julgamento dos embargos de declaração.
+Publique-se.
+EMENTA
