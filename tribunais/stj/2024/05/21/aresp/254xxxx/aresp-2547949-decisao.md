@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MATTHEW DOUGLAS LOPES DA SILVA contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 38):
+AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. Pessoa física. Presunção relativa. Elementos que evidenciam a solvabilidade do postulante. Determinação para comprovação não cumprida integralmente. Omissão injustificada. Indeferimento mantido. RECURSO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 43-62), a parte recorrente sustentou violação aos arts. 1º e 5ª da Lei nº 1.060/1950 e 98 e 99, §§ 2º e 3º, do Código de Processo Civil, alegando que a legislação vigente, para a obtenção da gratuidade da justiça, não exige qualquer documento, bastando, para tanto, o simples requerimento, sendo que somente poderá ser indeferido se houver, de forma concreta, elementos que demonstrem que o requerente não faz jus a tal benefício.
+Apontou, ainda, divergência jurisprudencial sobre o tema.
+Oferecidas as contrarrazões às fls. 70-77 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 78-80, e-STJ), o que ensejou o manejo do presente agravo (fls. 83-94, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 107-115 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, em relação às pessoas físicas, cumpre salientar que o disposto no artigo 4º da Lei nº 1.060/50 estabelece uma presunção juris tantum em favor daquele que pleiteia o benefício, no sentido de não possuir condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família.
+Assim, em princípio, basta o simples requerimento, sem nenhuma comprovação prévia, para que lhe seja concedida a assistência judiciária gratuita.
+Contudo, tratando-se de presunção relativa, podendo a parte contrária demonstrar a inexistência do estado de miserabilidade ou o magistrado indeferir ou revogar o pedido de assistência judiciária se encontrar elementos que infirmem a hipossuficiência do postulante.
+Nesse sentido, esta Corte consolidou o entendimento de que o benefício da assistência judiciária pode ser indeferido/revogado quando o julgador se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA DEFERIDO. AFASTADA SÚMULA 7/STJ NO CASO CONCRETO. RECURSO NÃO PROVIDO.
+1. A jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+2. Não prevalece o indeferimento do pedido de justiça gratuita quando o Tribunal de origem o fizer porque o autor não acostou provas da necessidade do benefício. O art. 4º, § 1º, da Lei 1.060/50 traz a presunção juris tantum de que a pessoa física que pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Por isso, a princípio, basta o simples requerimento, sem nenhuma comprovação prévia, para que lhe seja concedida a assistência judiciária gratuita.
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 711.411/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/03/2016, DJe 17/03/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. PESSOA FÍSICA. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O pedido de justiça gratuita pode ser formulado em qualquer momento do processo. Para fins de concessão, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo sem comprometer o próprio sustento ou o de sua família, podendo o magistrado indeferir o pleito se encontrar elementos que infirmem a alegada hipossuficiência.
+(..)
+(AgInt no AREsp 1925966/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021)
+Na espécie, o Tribunal de origem manteve a decisão que indeferiu o pedido de gratuidade de justiça, nos seguintes termos (fls. 40-41, e-STJ):
+A parte recorrente, alegando impossibilidade financeira para arcar com as custas processuais, requereu a concessão dos benefícios da assistência judiciária gratuita. Com efeito, nos termos do artigo 99, § 3º, do Estatuto Processual, "presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural". Entretanto, a Constituição de 1988 abranda essa presunção de hipossuficiência do litigante pela simples declaração, permitindo que se exigisse dos interessados na gratuidade processual a comprovação da sua insuficiência de recurso. Neste sentido, inclusive, já se pronunciou o C. Superior Tribunal de Justiça ao reconhecer que a presunção decorrente da alegação de hipossuficiência deduzida pelo pretenso beneficiário (artigo 99, § 3º, do Código de Processo Civil) goza de presunção relativa de veracidade, podendo o Magistrado, ex officio, aferir as circunstâncias que denotam referida afirmação de acordo comas dos autos.
+(..)
+Todavia, quando verificados indícios que evidenciema ausência do preenchimento dos pressupostos para concessão, poderá o magistrado, após concessão de prazo complementar para comprovação da alegada hipossuficiência, indeferir o benefício pleiteado (CPC, art. 99, § 2º), como acertadamente procedeu o juízo a quo.
+No presente caso, o recorrente não apresentou todos os documentos conforme determinação judicial de fls. 22/23 dos autos de origem.
+Ao que consta dos autos, foi determinado ao agravante que apresentasse documentos comprobatórios de sua hipossuficiência, como: "a) cópia das últimas folhas da carteira do trabalho, ou comprovante de renda mensal, e de eventual cônjuge; b) cópia dos extratos bancários de contas de titularidade, e de eventual cônjuge, dos últimos três meses; c) cópia dos extratos de cartão de crédito, dos últimos três meses; d) cópia da última declaração do imposto de renda apresentada à Secretaria da Receita Federal".
+O agravante se omitiu quanto à carteira de trabalho ou comprovante de renda mensal e de cônjuge, assim como em relação às faturas de cartões de crédito, e declaração de bens e rendimentos entregue à Receita Federal, juntando, apenas, extrato de uma conta bancária, com indícios de solvabilidade incompatíveis com a alegada hipossuficiência. Mesmo agora em grau recursal permanece silente, sequer justificando a impossibilidade de apresentar tais documentos.
+Neste contexto, respeitado entendimento contrário, o indeferimento do benefício deve ser mantido.
+Como se vê, denota-se que, no caso concreto, o magistrado verificou indícios que evidenciaram a ausência do preenchimento dos pressupostos para concessão do benefício e concedeu prazo para que o recorrente juntasse a documentação necessária a comprovar sua hipossuficiência. Todavia, ele se manteve inerte, razão pela qual o pedido de concessão do benefício fora indeferido.
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, negar provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
