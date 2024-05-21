@@ -1,0 +1,61 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DO JULGADO. INTIMAÇÃO DA DEFESA ACERCA DA SESSÃO DE JULGAMENTO DO AGRAVO REGIMENTAL. DESNECESSIDADE. SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL IN CASU.
+
+    1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado. Por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+
+    2. Tal recurso não se presta à manifestação de inconformismo ou à rediscussão do julgado.
+
+    3. "A Terceira Seção do Superior Tribunal de Justiça, com fundamento no art. 258 do RISTJ, firmou entendimento segundo o qual o agravo regimental deve ser apresentado em mesa, dispensando a prévia inclusão em pauta e a consequente intimação das partes acerca da data do julgamento do recurso" (EDcl no AgRg no AREsp n. 2.175.207/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 18/8/2023).
+
+    4. "Não há previsão legal para realização de sustentação oral em sede de julgamento de agravo em recurso especial. Isto porque, mesmo com a recente alteração promovida pela Lei 14.365/2022 no Estatuto da Advocacia, não houve a inclusão da referida espécie recursal dentre as quais seria possível a realização de sustentação oral" (AgRg no AREsp n. 1.927.059/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022).
+
+    5. Embargos de declaração rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos LIV, LV e LX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, incisos LIV e LV, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    As razões do recurso, que não apontaram nenhum dos vícios acima mencionados, revelam, na verdade, o inconformismo com o desfecho da causa e objetivam puramente a rediscussão da matéria, desiderato inadmissível em aclaratórios.
+
+    Anota-se, outrossim, que "a Terceira Seção do Superior Tribunal de Justiça, com fundamento no art. 258 do RISTJ, firmou entendimento segundo o qual o agravo regimental deve ser apresentado em mesa, dispensando a prévia inclusão em pauta e a consequente intimação das partes acerca da data do julgamento do recurso" (EDcl no AgRg no AREsp n. 2.175.207/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 18/8/2023).
+
+    (...)
+
+    Além disso, destaca-se que não se admite sustentação oral em agravo regimental contra decisão monocrática que julgou o agravo em recurso especial, devido à inexistência de previsão normativa.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/02/2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 06/12/2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 07/04/2016).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 21 de maio de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
