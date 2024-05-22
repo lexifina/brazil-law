@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim ementado (fls. 82-83):
+VV. Apelação Criminal. Roubo. Receptação. Provas.
+Existência. Provimento.
+- As provas produzidas nos autos demonstram a existência do crime e imputam aos réus a sua autoria. Assim, deve ser afastado o argumento de insuficiência delas e com fundamento no qual eles foram absolvidos, reformando-se a Sentença.
+- Recurso de Apelação provido.
+Vv. Apelação Ministerial. Roubo. Condenação.
+Impossibilidade. Receptação. Bis In Idem. Inocorrência.
+Apelo provido em parte.
+1. Quando o conjunto probatório não é suficiente para sustentar um édito condenatório, a absolvição dos agentes VV. Apelação Criminal. Roubo. Receptação. Provas.
+Existência. Provimento.
+- As provas produzidas nos autos demonstram a existência do crime e imputam aos réus a sua autoria. Assim, deve ser afastado o argumento de insuficiência delas e com fundamento no qual eles foram absolvidos, reformando-se a Sentença.
+- Recurso de Apelação provido.
+Vv. Apelação Ministerial. Roubo. Condenação.
+Impossibilidade. Receptação. Bis In Idem. Inocorrência.
+Apelo provido em parte.
+1. Quando o conjunto probatório não é suficiente para sustentar um édito condenatório, a absolvição dos agentes
+Consta dos autos que o paciente foi absolvido em primeiro grau mas condenado em segunda instância, após recurso de apelação do Ministério Público Estadual, à pena de 10 anos, 3 meses e 15 dias, pela prática do crime previsto no art. 157, §2º, I e II, do CP.
+Sustenta a defesa, em síntese, ausência de provas para a condenação, mormente porque o paciente não teria sido reconhecido pelas vítimas. Vislumbra, desse modo, inobservância aos preceitos insculpidos nos artigos 155, 226, 386, incisos IV e V, e 564, IV, todos do CPP.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que seja absolvido o paciente da prática imputada.
+O pedido liminar foi indeferido. As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Em consulta ao site do Tribunal de origem (autos n. 0009466-31.2011.8.01.0001), consta que foi interposto Recurso Especial e não conhecido e, em 23/10/2017, transitou em julgado para Aldenilton Almeida de Melo, transcorrido in albis o prazo para interposição de agravo.
+Nesses termos, este habeas corpus foi impetrado após o trânsito em julgado, como sucedâneo de revisão criminal, sendo, portanto, inadmissível.
+Esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus, impetrado nesta Corte Superior de Justiça, como substitutivo de revisão criminal, ressalvada a possibilidade de concessão da ordem de ofício, se presente flagrante ilegalidade" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024). No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT IMPETRADO HÁ MAIS DE 04 (QUATRO) ANOS APÓS O TRÂNSITO EM JULGADO DO DECRETO CONDENATÓRIO. PRINCÍPIO DA SEGURANÇA JURÍDICA. COISA JULGADA. IMPOSSIBILIDADE DE CONHECER O MANDAMUS. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. INAPLICABILIDADE DE NOVEL ENTENDIMENTO JURISPRUDENCIAL DO STJ. GUINADA INTERPRETATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, a jurisprudência do Superior Tribunal de Justiça é no sentido de que mesmo as nulidades absolutas devem ser arguidas no momento oportuno, sob pena de preclusão.
+III - In casu, o acórdão impugnado foi julgado em 25/05/2019 sem que tenha sido interposto recurso pelas partes. O presente writ foi impetrado somente em 14/02/2024, isto é, mais de 04 anos após o trânsito em julgado. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+IV - Ademais, o exame das alegações defensivas se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos do artigo 105, I, "e" da Constituição Federal. Precedentes.
+V - De qualquer forma, é assente nesta Corte Superior que o novo entendimento jurisprudencial, firmado após o trânsito em julgado da condenação, ainda que mais benéfico ao réu, não autoriza a revisão do édito condenatório. Isso porque "esta Corte firmou a tese de que não se admite aplicação retroativa de novo entendimento jurisprudencial a feitos cujo trânsito em julgado tenha ocorrido antes da guinada interpretativa" (AgRg no HC n. 731.937/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe 02/5/2022).
+VI - De fato, o Superior Tribunal de Justiça aprovou o Tema Repetitivo n. 1139, que firmou a seguinte tese: "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/06." Ocorre que, o julgamento do REsp n. 1.977.027-PR, em que foi firmada a tese do Tema Repetitivo n. 1139, se deu em 10 de agosto de 2022, ocasião em que a 3ª Seção superou a orientação jurisprudencial consolidada no julgamento do ERESP n. 1.431.091/SP (DJe 01/02/2017). Na hipótese dos autos, a redutora capitulada no artigo 33, parágrafo 4º, da Lei n. 11.343/2006, foi afastada em razão da existência de inquéritos e processos em andamento, sem condenação com trânsito em julgado, a partir da orientação jurisprudencial do Superior Tribunal de Justiça vigente na data do trânsito em julgado.
+VII - Desta feita, não é admissível a utilização de habeas corpus como a revisão criminal, a fim de aplicar retroativamente jurisprudência que se alterou após o trânsito em julgado do feito para o qual se pretende tal procedimento.
+Agravo regimental desprovido. (AgRg no HC n. 889.851/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCUSSÃO. VÍTIMAS NÃO ENCONTRADAS PARA DEPOR EM JUÍZO. TESTEMUNHOS INDIRETOS CORROBORADOS POR PROVA PRODUZIDA EM JUÍZO. ADMISSÃO DOS RÉUS, NO INTERROGATÓRIO, DE SUAS PARTICIPAÇÕES NOS FATOS. PRETENSÃO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. TESE DE INSUFICIÊNCIA PROBATÓRIA. HIPÓTESE NÃO PREVISTA NO ART. 621 DO CPP. MATÉRIA NÃO CONHECIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os testemunhos indiretos - hearsay rule, ainda que colhidos em juízo, não podem ser considerados hábeis a confirmar os elementos inquisitoriais, mormente quando não amparados por nenhuma outra prova produzida sob o contraditório judicial. Precedentes.
+2. No caso, os testemunhos indiretos produzidos em juízo foram corroborados pela fonte de prova originária. Apesar de as vítimas não haverem sido ouvidas em juízo, mas somente na fase policial, os testemunhos indiretos das autoridades dos procedimentos disciplinares e de outras pessoas, submetidos ao crivo do contraditório, foram confirmados pelo interrogatório judicial dos réus, que admitiram a participação deles no fato e reconheceram que o passageiro Casimiro ficou retido.
+3. As instâncias antecedentes, após análise do acervo fático-probatório dos autos, concluíram pela ocorrência do crime de concussão, notadamente pelo relato das vítimas perante a autoridade policial, de que houve a exigência indevida da importância financeira de R$ 5.000,00 para a liberação do veículo e do passageiro Cassimiro. A referida prova foi corroborada pelos depoimentos colhidos em juízo, inclusive, dos réus, fonte originária de prova, o que afasta a tese de insuficiência de provas para a condenação.
+4. Para alterar a conclusão da Corte de origem, com o intuito de absolver o agravante ou determinar a reabertura da instrução, seria necessária a incursão no conjunto fático-probatório dos autos, procedimento vedado na seara estreita do writ.
+5. Segundo a jurisprudência desta Corte, " ..  A hipótese de insuficiência ou fragilidade do arcabouço probatório não encontra respaldo em nenhuma das hipóteses legais de cabimento da revisão criminal, previstas nos incisos do art. 621 do Código de Processo Penal - CPP  .. " (AgRg no REsp n. 2.004.958/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/6/2023).
+6. De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes.
+7. Agravo regimental não provido. (AgRg no HC n. 864.465/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Portanto, deve ser observada a regra do art. 105, inciso I, alínea "e", da Constituição Federal, segundo a qual, a competência desta Corte Superior para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados.
+No caso, como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
