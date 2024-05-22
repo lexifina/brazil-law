@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por FRANCISCO DE ASSIS RODRIGUES, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 730):
+"AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. IMPUGNAÇÃO MORTE DE MENOR APÓS COLISÃO NA TRASEIRA DO VEÍCULO. ILEGITIMIDADE PASSIVA. VERIFICAÇÃO. MOTORISTA SEM VÍNCULO EMPREGATÍCIO COM O RECORRENTE. LEGITIMIDADE PASSIVA DA ADMINISTRAÇÃO PÚBLICA. VÍNCULO INSTITUCIONAL. TEMA 940 SOB O REGIME DE REPERCUSSÃO GERAL DO STF. INTELIGÊNCIA DO ART. 37, §6º DA CONSTITUIÇÃO FEDERAL. ADMINISTRAÇÃO PÚBLICA RESPONDE PELOS ATOS DE SEUS AGENTES. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO. RECURSO PROVIDO. "
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 787-792).
+O recorrente alegou, nas razões do recurso especial (e-STJ, fls. 798-822), a violação dos arts. 4º, 55, 489 e 1.022 do Código de Processo Civil de 2015.
+Sustentou , em síntese, a ausência de prestação jurisdicional e de fundamentação, alegando a omissão do acórdão recorrido em relação à extensão dos efeitos do reconhecimento da ilegitimidade do réu em relação aos processos conexos.
+O Tribunal de origem não admitiu o processamento do recurso especial ante a inexistência de violação do art. 1.022 do CPC/2015; e a incidência da Súmula 7 do STJ (e-STJ, fls. 841-843).
+É o relatório. Decido.
+Primeiramente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. INEXISTÊNCIA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O direito à liberdade de imprensa não é absoluto, devendo sempre ser alicerçado na ética e na boa-fé, sob pena de caracterizar-se abusivo.
+5. A jurisprudência desta Corte Superior é consolidada no sentido de que a atividade da imprensa deve pautar-se em três pilares, quais sejam: (i) dever de veracidade, (ii) dever de pertinência e (iii) dever geral de cuidado. Se esses deveres não forem observados e disso resultar ofensa a direito da personalidade da pessoa objeto da comunicação, surgirá para o ofendido o direito de ser reparado.
+6. Na hipótese dos autos, a Corte a quo, soberana no exame do acervo fático-probatório, constatou que a jornalista não propagou informações falsas acerca do recorrente, mas apenas veiculou dados extraídos de fatos que públicos e matérias jornalísticas amplamente difundidas à época.
+7. Assim, o aresto impugnado está em harmonia com a jurisprudência desta Corte Superior acerca da matéria.
+8. Ademais, a alteração da conclusão alcançada pelo Tribunal local demandaria o incurso em matéria fático-probatória, o que é vedado em sede de recurso especial pelo óbice da Súmula 7 do STJ.
+9. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.090.707/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+O Tribunal de origem, ao julgar a apelação , consignou o seguinte excerto (e-STJ, fls. 725-729):
+Quanto ao mérito, o presente recurso pretende discutir a legitimidade passiva do agravante, nos autos da ação reparatória movida pelos agravados em razão de acidente de trânsito.
+O agravante pretende a reforma da decisão prolatada no EP. 86, que afirmou a legitimidade passiva do agravante por reconhecer o vínculo empregatício entre ele e o condutor do veículo causador do acidente.
+(..)
+Em apertada síntese, consta da petição inicial que no dia 7 de novembro de 2021, por volta das 17h30, o menor Dom Rhaví Marques Soares perdeu sua vida em decorrência de um acidente de trânsito, ocorrido na BR-174, Km 503, na rotatória do Posto Trevo, no município de Boa Vista.
+Sustentam os agravados que, na ocasião da fatalidade, a vítima estava como passageiro do veículo automotor Renault/KWID ZEN 10 MT - Placa NAV5G03, que fora atingido, na traseira, pelo veículo CHEVROLET S-10 LT DDA4 - Placa PH04B85, de propriedade de Creiginaldo José Peres, mas que fora alugado, conforme notas acostadas em nome do agravante.
+De acordo com a petição inicial, quem estava na direção do veículo automotor CHEVROLET S-10, no momento do abalroamento, era o Sr. Almir Mota Lira, à época, servidor comissionado do Senado Federal, ocupante do cargo em comissão de motorista, com lotação no Escritório de Representação, em Boa Vista-RR, do Gabinete do Senador Chico Rodrigues, ora agravante.
+Analisando detidamente os documentos apesentados pelo agravante, o caso não se amolda aos fundamentos da decisão recorrida. Isto porque, o condutor do veículo causador do acidente não possui vínculo empregatício com o agravante, capaz de ensejar a responsabilidade solidária nos moldes dos art. 932, III c/c 942, parágrafo único do Código Civil1.
+No caso, o condutor do veículo era servidor comissionado do Senado Federal, exercendo o cargo de motorista, conforme Portaria 1040/2019, juntada pelo agravante no EP. 19.1, pag. 100-pdf dos autos da ação nº 0833895-38.2021.8.23.0010, (EP. 1.5 deste recurso).
+Logo, o vínculo estabelecido entre o agravante e o motorista lotado em seu gabinete é institucional, cabendo a observância da regra prevista no art. 37, §6º da CF88 para a caracterização da legitimidade passiva.
+(..)
+Diante disso, não há se falar da legitimidade passiva do agravante, visto que não há relação privada de emprego entre a parte e o condutor do veículo. Diante do exposto, conheço do recurso, rejeito a impugnação aos benefícios da justiça gratuita e, no mérito, dou-lhe provimento para reconhecer a ilegitimidade passiva do agravante e extinguir o processo na origem, sem resolução de mérito, nos termos do art. 485, VI do CPC. (Sem grifo no original).
+Na hipótese, as instâncias de origem apontaram que "o condutor do veículo causador do acidente não possui vínculo empregatício com o agravante, capaz de ensejar a responsabilidade solidária".
+Nesses termos, em que pese a argumentação do agravante, verifica-se que a questão referente à responsabilidade solidária foi decidida a partir do exame aprofundado das provas produzidas nos autos, e, nesse passo, a modificação das conclusões contidas no v. acórdão recorrido exige o revolvimento de matéria fática, inviável em sede de recurso especial em razão do óbice da Súmula n. 7/STJ.
+Nessa linha de intelecção, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E RESTITUIÇÃO DE VALORES. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RELAÇÃO DE CONSUMO. CESSÃO DE CRÉDITO. RESPONSABILIDADE SOLIDÁRIA DA CESSIONÁRIA CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, as instâncias ordinárias entenderam que a parte agravante responde solidariamente com a construtora demandada pela restituição dos valores aos autores, tendo em vista que firmou com a construtora contrato de cessão de direitos creditórios, por meio do qual adquiriu os direitos de crédito vinculados ao contrato e foi a efetiva beneficiária dos valores quitados pelos compradores, como se verifica nos boletos e comprovantes de pagamento apresentados pelos autores.
+2. A modificação de tal entendimento, a fim de reconhecer a ilegitimidade passiva, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.177.596/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023.)
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 10% para 13% sobre o valor atualizado da causa, observados os benefícios da justiça gratuita.
+Publique-se.
+EMENTA
