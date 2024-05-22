@@ -1,7 +1,7 @@
 Art. 27. Serão avaliadas tecnicamente pelo órgão registrante as seguintes alterações de registro:
-I - (VETADO);
-II - (VETADO);
-III - (VETADO);
+I - processo produtivo;
+II - especificações do produto técnico e formulado;
+III - alteração de matérias-primas, de outros ingredientes ou de aditivos;
 IV - inclusão de fabricante;
 V - adequação relacionada a atualização de resíduo nas culturas já indicadas nas monografias.
 § 1º O órgão registrante terá o prazo de 180 (cento e oitenta) dias, contado da data de recebimento do pedido de alteração, para autorizar ou indeferir o pleito, as alterações requeridas nos termos deste artigo ou solicitar complementação de informações para atendimento do pleito e, neste caso, os prazos obedecerão à regra prevista no art. 12 desta Lei.

@@ -8,7 +8,7 @@ I - aplicar as penalidades de que trata esta Lei;
 II - auditar entidades públicas e privadas de ensino, de assistência técnica e de pesquisa que realizam experimentação e pesquisa e emitem pareceres técnicos;
 III - autorizar as empresas a realizar a comunicação de risco e a emitir rótulos e bulas em consonância com o GHS;
 IV - controlar e fiscalizar a pesquisa, a produção, a importação e a exportação dos produtos técnicos, dos produtos técnicos equivalentes, das pré-misturas, dos produtos formulados e dos produtos genéricos, bem como os estabelecimentos que realizam essas atividades;
-V - (VETADO);
+V - coordenar as reanálises dos riscos;
 VI - coordenar o processo de registro;
 VII - estabelecer critérios de prioridades de análise, de acordo com as demandas ou as ocorrências fitossanitárias ou ambientais;
 VIII - adotar medidas para desburocratizar e informatizar o processo de registro;
