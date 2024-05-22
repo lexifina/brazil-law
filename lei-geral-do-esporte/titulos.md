@@ -58,9 +58,9 @@ DO FINANCIAMENTO PÚBLICO AO ESPORTE
 Seção I
 Disposições Gerais
 Seção II
-(VETADO)
+Dos Fundos de Esporte
 Seção III
-(VETADO)
+Do Fundo Nacional do Esporte
 Seção IV
 Dos Auxílios Diretos aos Atletas e da Bolsa-Atleta
 TÍTULO II
