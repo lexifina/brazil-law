@@ -1,0 +1,2 @@
+Art. 23-A. As empresas e as instituições que se recusarem, sem justa causa, a fazer o transporte de órgãos, tecidos ou partes do corpo humano para fins de transplante e tratamento, estando autorizadas a fazê-lo, nos termos legais, regulamentares ou contratuais, estão sujeitas a multa, de 100 (cem) a 150 (cento e cinquenta) dias-multa.
+Parágrafo único. Se da infração prevista no caput deste artigo resultar a perda do material, a multa será de 150 (cento e cinquenta) a 360 (trezentos e sessenta) dias-multa.
