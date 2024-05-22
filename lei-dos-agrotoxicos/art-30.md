@@ -1,3 +1,3 @@
 Art. 30. As reanálises dos produtos de controle ambiental e afins deverão ser realizadas e concluídas no prazo de até 1 (um) ano, prorrogável por 6 (seis) meses mediante justificativa técnica, sem prejuízo da análise de pleitos e de alterações de registro em tramitação, bem como da manutenção da comercialização, da produção, da importação, da exportação e do uso do produto à base do ingrediente ativo em reanálise.
 § 1º Durante a reanálise, o órgão federal responsável pelo setor do meio ambiente deverá desenvolver um plano de controle ambiental sistêmico de substituição do produto, com vistas ao controle de alvos biológicos que porventura possam ficar sem alternativas de manejo.
-§ 2º (VETADO).
+§ 2º Os pedidos de registro de produtos à base do ingrediente ativo em reanálise poderão ser concedidos pelo órgão federal responsável pelo setor do meio ambiente enquanto não concluir sua reanálise.

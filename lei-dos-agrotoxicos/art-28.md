@@ -1,1 +1,2 @@
-Art. 28. (VETADO).
+Art. 28. O órgão federal responsável pelo setor da agricultura é o coordenador do processo de reanálise dos agrotóxicos e poderá solicitar informações aos órgãos da saúde e do meio ambiente para complementar sua análise.
+Parágrafo único. O órgão federal responsável pelo setor do meio ambiente é o coordenador do processo de reanálise dos produtos de controle ambiental e poderá solicitar informações ao órgão da saúde para complementar sua análise.
