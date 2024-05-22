@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO ITAUCARD S.A., com fundamento no art. 105, III, "a" e "c", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+APELAÇÃO. Alienação fiduciária. Ação de busca e apreensão (Decreto-Lei nº 911/1969), julgada extinta, sem resolução do mérito, com fundamento no art. 485, IV, do CPC. Recurso do autor. Aviso de recebimento da notificação extrajudicial devolvido ao remetente com a anotação "Não Procurado". Discussão sobre a regularidade da notificação extrajudicial que foi exaurida no recurso de agravo de instrumento nº 2273318-32.2022.8.26.0000, interposto contra a decisão que determinou ao autor a emenda da petição inicial para a comprovação da regular constituição em mora do devedor fiduciante, transitando regularmente em julgado, ausente ocorrência de fatos novos. Mora não comprovada. Necessidade de expedição da missiva ao endereço indicado no contrato celebrado, dispensada prova de seu recebimento pelo devedor ou por terceiros. Entendimento firmado pelo C. STJ nos Recursos Especiais nºs 1.951.662-RS e 1.951.888-RS, julgados sob o regime das demandas repetitivas (Tema nº 1132). Falta de requisito essencial. Aplicação da Súmula nº 72 do C. STJ. Extinção mantida. RECURSO DESPROVIDO, sem majoração da verba honorária (art. 85, § 11, do CPC), posto ainda não instaurada a relação processual.
+Nas razões do recurso especial, o recorrente alega, além de dissídio jurisprudencial, violação dos arts. 2º, § § 2º e 3º Decreto-Lei n. 911/1969. Sustenta, em síntese, ser válida a notificação expedida ao endereço informado pelo devedor no contrato e, portanto, que estaria preenchidos todos os requisitos para o recebimento da inicial e o prosseguimento da ação de busca e apreensão.
+É o relatório. Passo a decidir.
+O apelo não merece prosperar.
+Como sabido, o tema tratado nestes autos não é novo e foi objeto de apreciação recente pela Segunda Seção desta Corte Superior, ao apreciar o Tema repetitivo 1.132. Na assentada do dia 10/8/2023, definiu-se que, para a comprovação da mora, em contratos de alienação fiduciária, é suficiente o envio de notificação ao endereço do devedor indicado no instrumento contratual.
+Para fins repetitivos, a tese foi aprovada com a seguinte redação:
+"Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros."
+(REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023)
+Com efeito, é suficiente ao credor comprovar o envio da notificação extrajudicial ao endereço declinado no instrumento contratual, quando o seu não recebimento resulta de mudança de endereço não comunicada oportunamente.
+Entretanto, para o caso em apreço, o entendimento ora transcrito não é aplicável, apesar das alegações trazidas no apelo nobre. Isso porque o eg. TJ-SP assentou que sequer houve a tentativa de entrega da notificação extrajudicial no endereço indicado no contrato. É o que e infere da leitura do seguinte excerto do v. acórdão estadual (fls. 104/106):
+"Assim, para a comprovação da mora, basta a demonstração do envio da notificação ao endereço do devedor fiduciante declinado no contrato.
+Nesse sentido, embora tenha sido expedida a notificação ao endereço do devedor fiduciante declinado no contrato, a missiva não foi entregue, conforme anotação de "Não Procurado" constante do aviso de recebimento de fls. 30.
+Em que pese não ser mais exigida a prova do recebimento por parte do destinatário ou por terceiros, necessário que, ao menos, a missiva seja enviada ao endereço indicado no contrato celebrado para o devido atendimento à exigência legal.
+(..)
+In casu, a instituição financeira deveria ter comprovado o esgotamento das medidas atinentes à localização do devedor e, não obtendo êxito, proceder ao protesto do título, com a sua intimação por edital.
+Assim não agindo, tem-se que o devedor não foi regularmente constituído em mora.
+Dessa forma, imprestável a notificação que instruiu a petição inicial aos fins destinados, a constituição em mora do réu não restou demonstrada pela instituição financeira, porquanto descumprido mandamento legal (art. 2º, § 2º, do Decreto-lei nº 911/69)."
+Assim sendo, no caso, inviável a aplicação do entendimento firmado no recurso especial repetitivo (REsp 1.951.662/RS - Tema nº 1.132), uma vez que não houve sequer tentativa de notificação extrajudicial no endereço do ora agravado que consta no contrato bancário.
+Dessa forma, não se infere ofensa aos referidos dispositivos legais.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
