@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EXTINÇÃO DO PROCESSO - Ação de alienação judicial de bens - Extinção do processo sem resolução do mérito - Cabimento - Ausência de pressuposto de constituição e desenvolvimento válido e regular do processo - Sentença mantida - Ratificação dos fundamentos do "decisum" -Aplicação do art. 252 do RITJSP12009 - Recurso improvido.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 10, 313, I, 314, 489, § 1º, do Código de Processo Civil de 2015.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 489 do CPC.
+Quanto ao mais, verifico que o processo foi extinto em razão da ausência de pressupostos de constituição e desenvolvimento válido e regular, além de constatadas a ausência de legitimidade e de interesse processual. Assim dispôs o acórdão recorrido (e-STJ, fl. 852):
+No curso do processo, houve notícia de falecimento do coautor Lírio Amstalden e dos corre queridos João Batista Amstalden, José Amstalden e Teresinha Amstalden. Regularmente intimados para regularizarem os polos do feito no interregno legal, nada foi providenciado (fls. 636/638), verificando-se a ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, além de legitimidade ou interesse processual.
+Esses são, portanto, os fundamentos para a extinção do processo.
+A agravante, todavia, procura discutir a alegação de violação a dispositivos processuais que cuidam da suspensão do processo, matéria que não foi tratada no acórdão recorrido. Ausente o necessário prequestionamento do tema, não se conhece do recurso especial, a teor do que dispõe a Súmula 282/STF, aplicável à espécie.
+Ressalte-se constar do acórdão recorrido que "regularmente intimados para regularizarem os polos do feito no interregno legal, nada foi providenciado". Desse modo, não há que se falar em necessidade de suspensão do processo. Esse fundamento do acórdão, suficiente para mantê-lo, não foi impugnado nas razões do recurso especial, o que faz aplicável, também, a Súmula 283/STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
