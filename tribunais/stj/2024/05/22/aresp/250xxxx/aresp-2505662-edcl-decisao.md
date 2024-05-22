@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IPÊ ENGENHARIA E CONSTRUÇÕES LTDA. em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Em que pese o entendimento infirmado no v. decisão embargado, tem- se o mesmo por lacônico e genérico vez que não houve análise detida e circunstanciada de uma das matérias suscitadas no RESp manejado: negativa de vigência ao artigo 44 da Lei Federal n. 4.591/64.
+Assim ocorreu porque a recorrente impugnou de forma efetiva, concreta e pormenorizada (i) tanto os fundamentos da v. decisão agravada quanto (ii) os fundamentos dos v. acórdãos recorridos, o que foi devidamente delineado nas razões do Agravo manejado, inocorrendo os óbices delineados nas Súmulas 284/STF e 07/STJ, veja:
+ ..
+V) Da RELEVÂNCIA da Questão Jurídica Discutida Atendendo ao disposto na EC n. 125/2022, a admissibilidade deste RESp decorre da negativa de vigência ao artigo 44 da Lei Federal n. 4.591/64 em razão do INDEVIDO, senão EXAGERADO e DESPROPORCIONAL arbitramento de indenização a título de dano moral in re ipsa a favor dos Autores/ Recorridos (em razão da não averbação de habite-se pela construtora para imóvel construído há mais de 10 anos), o que resultou na violação aos princípios do Devido Processo Legal e do Direito à Ampla Defesa e ao Contraditório da Recorrente e também os princípios da Proporcionalidade e da Razoabilidade, além dos reflexos jurídicos decorrentes, sendo, portanto, matérias de ordem relevante à apreciação desta c. Corte, conforme disposto no artigo 105, §2º e §3º, Incs. V e VI da CF/88, o que garante a admissão deste RESp por terem sido atendidos os pressupostos intrínsecos ao seu processamento, data máxima vênia.
+ ..
+Cristalino, portanto, o equívoco da fundamentação adotada nas razões da v. decisão agravada, visto que o RESp manejado foi interposto sob a alegação de "negativa de vigência ao artigo 44 da Lei Federal n. 4.591/64 em razão do INDEVIDO, senão EXAGERADO e DESPROPORCIONAL arbitramento de indenização a título de dano moral in re ipsa a favor dos Autores/ Recorridos (em razão da não averbação de habite-se pela construtora para imóvel construído há mais de 10 anos)" (sic), o que evidencia o error in judicando dos fundamentos do v. decisum denegatório agravado, data máxima vênia." (sic) As questões acima suscitadas constam das razões do RESp manejado, encontrando-se devidamente fundamentada, cujo julgamento não incutirá na reanálise do cotejo probatório constante dos autos, senão apenas da revaloração da prova, o que não pode ser mitigado sob pena de supressão do direito de voz da Agravante/Embargante, o que não pode ser mitigado.
+Pensar diferente, data vênia, resultaria em usurpação ao devido processo legal e cerceamento ao direito de defesa e ao contraditório da Embargante, o que não pode ser admitido!
+Imperioso, portanto, o afastamento da OMISSÃO aqui suscitada para escorreita aplicação do Direito, o que desde ora se Espera (fls.939 /941).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Os embargos comportam acolhimento.
+Compulsando os autos, verifica-se que, de fato, o embargante indicou o artigo 44 da Lei Federal n. 4.591/64 como violado, razão pela qual não se revela aplicável a Súmula 284/STF, nos moldes descritos na decisão recorrida.
+Contudo, a Súmula 284/STF foi aplicada cumulada com a Súmula 7/STJ, que deve ser mantida pelos fundamentos descritos às fls. 932/935.
+Ante o exposto, acolho os embargos de declaração para afastar, tão somente, da decisão embargada a aplicação da Súmula 284/STF, mantendo-se o conhecimento do agravo para não conhecer do recurso especial pelos demais fundamentos.
+Publique-se. Intimem-se.
+ EMENTA
