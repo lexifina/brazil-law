@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por J M FERNANDES ADMINIS EMPREEND E PARTICIPACOES LTDA., com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EXECUÇÃO POR QUANTIA CERTA CONTRADEVEDOR SOLVENTE IMPUGNAÇÃO À PENHORAREJEITADAAGRAVODEINSTRUMENTO- Pedido de concessão de efeito suspensivo indeferido por despacho Oposição de embargos de declaração pela agravante -Recurso prejudicado em razão do julgamento do mérito do agravo.- Irresignação da executada com relação à decisão que rejeitou a impugnação à penhora -Não acolhimento - Possibilidade de penhora dos imóveis, porque a executada não indicou outro bem à penhora e as pesquisas realizadas por meio do sistema Sisbajud foram infrutíferas - Os imóveis penhorados não são sede da empresa agravante, que os aluga para terceiros, tendo em vista que a locação de imóveis é um de seus objetos sociais - Decisão mantida por seus próprios fundamentos.
+Agravo não provido. Embargos de declaração prejudicados" (e-STJ fl. 22).
+Os embargos de declaração opostos na origem foram rejeitados.
+Em suas razões recursais (e-STJ fls. 40/56), a recorrente aponta violação dos arts. 805, parágrafo único, 833, IV, 927, III e 1.022, I e II, do Código de Processo Civil.
+Aduz que o aresto recorrido incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito das alegações suscitadas nos declaratórios da necessidade de que os meios de constrição tenham sido esgotados para se permitir a penhora de estabelecimento essencial da empresa devedora e inobservância da tese firmada pelo STJ no julgamento do REsp nº 1114767/RS.
+Afirma, ainda, a impossibilidade de penhora sobre imóveis atrelados à atividade da empresa, por ser ativo essencial ao seu desenvolvimento.
+O recurso foi inadmitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+A insurgência não merece prosperar.
+No que tange ao art. 1.022 do CPC/2015, não há falar em negativa de prestação jurisdicional nos declaratórios, a qual somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento acerca de questão que deveria ser decidida, e não foi.
+Concretamente, verifica-se que as instâncias ordinárias enfrentaram todas as matérias postas em debate na medida necessária para o deslinde da controvérsia, concluindo que não ficou comprovada a essencialidade do bem, conforme comprova trechos do acórdão recorrido, in verbis:
+"(..) a executada J M Fernandes Adminis. Empreend. e Participacoes Ltda. não demonstrou que o imóvel penhorado é essencial ao exercício de sua atividade empresarial.
+A uma porque não foi demonstrado que este imóvel é objeto de contrato de locação atualmente vigente.
+A duas porque a executada possui sede em outro endereço (fl. 348).
+(..)
+Ainda que na lei não conste expressamente que bens imóveis serão impenhoráveis, por uma interpretação teleológica,o C. STJ entende que a impenhorabilidade pode recair em bens imóveis essenciais às atividades empresariais ,conforme decidido no R Esp1.114.767/RS, de Relatoria do Ministro Luiz Fux.
+A interpretação teleológica do artigo 833, inciso V, do Código de Processo Civil, em observância aos princípios fundamentais constitucionais da dignidade da pessoa humana e dos valores sociais do trabalho e da livre iniciativa (artigo 1º, incisos III e IV, da CRFB/88) e do direito fundamental de propriedade limitado à sua função social (artigo 5º, incisos XXII e XXIII, da CRFB/88), legitima a inferência de que o imóvel profissional constitui instrumento necessário ou útil ao desenvolvimento da atividade objeto do contrato social, máxime quando se tratar de pequenas empresas, empresas de pequeno porte ou firma individual.
+Contudo, no caso em tela, a agravante não é pequena empresa, empresa de pequeno porte ou firma individual. Além disso, não há informação nos autos a respeito da existência de outros bens passíveis de penhora.
+Registre-se que as pesquisas realizadas por meio do sistema Sisbajud foram infrutíferas. Por fim, a agravante não indicou qualquer bem em substituição aos imóveis penhorados, apesar do ônus previsto no parágrafo único do artigo 805 do Código de Processo Civil" (e-STJ fls. 23/27).
+Frisa-se que, mesmo à luz do art. 489 do Código de Processo Civil, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO AOS ARTS. 489, §1º, IV, E 1.022, II, DO CPC/2015. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. OMISSÃO. PECULIARIDADES DE CADA CASO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, apresentando todos os fundamentos jurídicos pertinentes à formação do juízo cognitivo proferido na espécie, apenas não foi ao encontro da pretensão da parte agravante.
+(..)
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.518.86/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 1º/2/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 489 e 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento." (AgInt no REsp 1.659.130/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/11/2020, DJe 9/12/2020).
+No mais, quanto á alegação de impossibilidade de penhora em razão da essencialidade do bem à atividade da empresa, o recurso não comporta conhecimento, porque dependeria do reexame do contexto fático-probatório dos autos, o que é vedado na via recursal eleita, consoante o disposto na Súmula nº 7/STJ, conforme decidido nos seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. BLOQUEIO DE ATIVOS FINANCEIROS. COMPETÊNCIA. JUÍZO DA EXECUÇÃO FISCAL. JUÍZO DA RECUPERAÇÃO JUDICIAL QUE PROCEDE APENAS AO CONTROLE DE ATOS CONSTRITIVOS QUE ENVOLVAM BENS CONSIDERADOS ESSENCIAIS. PRECEDENTES. AUSÊNCIA DA HIPÓTESE DO ART. 6º, § 7º-B, DA LEI N. 11.101/2005. BEM CONSTRITO. AUSÊNCIA DE ESSENCIALIDADE. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Lei n. 14.112/2020, a seu modo, delimitou a competência do Juízo em que se processa a execução fiscal (a qual não se suspende pelo deferimento da recuperação judicial) para determinar os atos de constrição judicial sobre os bens da recuperanda; e firmou a competência do Juízo da recuperação judicial "para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial".
+2. Com a Lei n. 14.112/2020, o Juízo da execução fiscal, ao determinar o prosseguimento do feito executivo ou, principalmente, a constrição judicial de bem da recuperanda, não adentra indevidamente na competência do Juízo da recuperação judicial.
+3. A partir da vigência da Lei n. 14.112/2020, o Juízo da recuperação judicial tem a competência específica para determinar o sobrestamento dos atos de constrição exarados no bojo de execução de crédito extraconcursal que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial durante o período de blindagem. Em se tratando de execuções fiscais, a competência do Juízo recuperacional restringe-se a substituir os atos de constrição que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial.
+4. Não se autoriza ao Juízo da recuperação sobrestar ato judicial de constrição, exarado pelo Juízo em que se processa execução fiscal, sobre bem que não se caracterize como "bem de capital".
+5. Na hipótese, ficou assentada a ausência de demonstração quanto à essencialidade do valor constrito para a manutenção da atividade empresarial e a não existência de nenhuma indicação de bens em substituição à penhora realizada pelo Juízo da execução fiscal.
+6. Elidir a conclusão da Corte de origem acerca da essencialidade do bem demanda a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante Súmula n. 7/STJ.
+7. Agravo interno desprovido"
+(AgInt no REsp n. 2.066.805/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - IMPENHORABILIDADE - BEM ESSENCIAL PARA O EXERCÍCIO DE PROFISSÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE EXECUTADA.
+1. O exame dos fundamentos que lastrearam o acórdão recorrido, a fim de aferir a prescindibilidade do bem penhorado, para fins de exercício de atividade profissional, depende de dilação probatória, hipótese que encontra óbice no enunciado contido na Súmula 7/STJ.
+2. Conforme entendimento firmado por esta Corte Superior de Justiça, não é a exceção de pré-executividade meio processual adequado para aferir a penhorabilidade ou não de bem móvel, quando, para este mister, se fizer necessária dilação probatória. Incidência do óbice contido na Súmula 83/STJ.
+3. Agravo interno desprovido." (AgInt no AREsp 700.482/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 3/10/2017, DJe de 13/10/2017).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, conforme determina o art. 85, § 11, do CPC , por se tratar, na origem, de agravo de instrumento.
+Publique-se.
+Intimem-se.
+EMENTA
