@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO JUNIOR DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento da apelação criminal da apelação criminal n. 0722516-95.2023.8.07.0001.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, pela prática do crime previsto no artigo 33, caput, da Lei nº 11.343/2006, sendo-lhe cominada a pena definitiva de 8 anos e 9 meses de reclusão, em regime inicial fechado, além de 850 dias-multa (fls. 28-38).
+No julgamento da apelação, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir a pena para 7 anos, 3 meses e 15 dias de reclusão, mais 729 dias-multa, mantidos os demais termos da sentença, consoante voto condutor do acórdão de fls. 39-44.
+Dai o presente writ, onde o impetrante aponta constrangimento ilegal na negativa de aplicação da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas.
+Para tanto, sustenta que "O juiz de primeira instância nega o direito a diminuição pelo o fato de o réu responder a outro processo e os desembargadores chancelam tal ilegalidade sob o argumento que a traficância por mais de uma vez induz a dedicação exclusiva ao crime.." (fl. 7).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No que concerne a possibilidade de aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, verifico não assistir razão ao paciente.
+In casu, o Tribunal a quo - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente.
+Para tanto, destacou a r. sentença condenatória, mantida pelo acórdão impugnado:
+"No mais, verifico que no processo não existe prova formal de antecedentes. Não obstante, o acusado foi recentemente preso em flagrante por novo crime do art. 33 da LAT. Além disso, as evidências extraídas da quebra do sigilo de dados telefônicos sugerem que o réu vinha se dedicando à prática do tráfico no mínimo desde dezembro/2022, de forma ininterrupta. Ou seja, conquanto não exista uma prova formal de reincidência ou maus antecedentes, entendo que existem robustas evidências sinalizando que o acusado é pessoa que se dedica com habitualidade, persistência e reiteração à prática de delitos, o que impede a aplicação da causa de diminuição da pena prevista no artigo 33, § 4º, da Lei nº 11.343/2006.
+ ..
+Explico. Não se trata de considerar ações penais em andamento, mas sim de observar a curva de vidado acusado e concluir que ao se envolver persistente, habitual e reiteradamente na prática de condutas delituosas, se trata de pessoa que se dedica à prática de ilícitos, circunstância objetiva que impede o acesso ao redutor legal." (fl. 35, grifei)
+Assim, diferentemente do alegado pela defesa e diante da indicação de que o réu se dedica à atividade criminosa, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A propósito: AgRg no HC n. 764.18 0/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 24/3/2023; AgRg no HC n. 804.305/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023 e AgRg no HC n. 758.030/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023.
+De mais a mais, é imperioso enfatizar que, para entender de modo diverso, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Nesse sentido: AgRg no HC n. 737.868/MS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 4/8/2022 e AgRg no HC n. 745.106/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 8/8/2022.
+No tocante ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+In casu, verifico que inexiste flagrante ilegalidade a ensejar a concessão da ordem, uma vez que a valoração negativa das das circunstâncias judiciais indicadas no acórdão, justifica a fixação do regime fechado para o início do cumprimento da pena pela paciente (fls. 57-58).
+A propósito: EDcl no AgRg no HC n. 658.192/SP, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 1º/7/2022 e AgRg no HC n. 749.016/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/6/2022.
+Finalmente, verifica-se que o acusado não atende ao requisito objetivo da substituição da pena privativa de liberdade por restritivas de direitos, porquanto condenada à pena superior a 4 anos.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
