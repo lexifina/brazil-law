@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto por POSTAL SAUDE - CAIXA DE ASSISTENCIA E SAUDE DOS EMPREGADOS DOS CORREIOS (POSTAL SAÚDE) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da falta de impugnação específica do seguinte fundamento: ausência de afronta a dispositivo legal.
+Nas razões do presente inconformismo, sustentou a inaplicabilidade da Súmula nº 182 do STJ por entender que todos os óbices à admissão do apelo nobre foram devidamente impugnados.
+É o relatório.
+DECIDO.
+Deveras, razão assiste à agravante, motivo pelo qual reconsidero a decisão agravada e, em nova análise, conheço do agravo para, então, apreciar o recurso especial.
+POSTAL SAÚDE manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 421 e 422 do CC ao sustentar que não tem o dever de reembolsar os valores referentes ao atendimento médico da parte autora porque o contrato firmado entre as partes prevê a impossibilidade de cobrança direta ao beneficiário.
+Sobre o tema, o Tribunal de origem consignou o seguinte:
+Incontroversa a prestação de serviços, pelo Hospital, em favor da genitora de Vinicius, que é beneficiária do plano de saúde oferecido pela apelante. Contudo, a apelante recusa-se a ressarcir o Hospital porque, embora tenha autorizado a realização dos procedimentos requeridos por Elza, houve a cobrança direta do paciente, e ausência de envio da nota fiscal dentro de 180 dias, violando as cláusulas contratuais.
+Com efeito, uma vez comprovadas a prestação de serviços e a autorização dos procedimentos, o pagamento dos serviços prestados pelo Hospital Vitória é de rigor. Irrelevantes para afastar tal conclusão a tentativa de cobrança direta do paciente ou o atraso no envio da nota fiscal, pois, conforme consignado em primeiro grau, "o prazo para pagamento administrativo não impede a propositura de ação judicial, contra o responsável pela internação ou contra o próprio paciente (..), e o paciente, por ter direito de regresso, por contrato, contra o plano de saúde, pode como fez nesse processo, denunciar a lide ao responsável pelo pagamento das despesas médico-hospitalares realizadas durante a internação, qual seja, o plano de saúde" (fls. 679). (e-STJ, fls. 783/784)
+Assim, rever as conclusões quanto ao ponto demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+Nessas condições, DOU PROVIMENTO ao agravo interno para RECONSIDERAR a decisão agravada e, em nova análise, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ALEGAÇÃO DE DESCUMPRIMENTO DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE DE REEXAME. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
