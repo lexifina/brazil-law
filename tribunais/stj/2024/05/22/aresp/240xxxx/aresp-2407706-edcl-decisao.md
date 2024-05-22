@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GENI BARBOSA COSTA E OUTROS em face de decisão desta relatoria, que conheceu do agravo para dar parcial provimento ao recurso especial.
+Os embargantes alegam, em síntese, (a) "com o provimento do REsp e a fixação do pensionamento civil, a justa causa do rateio dos encargos sucumbenciais, qual seja, o indeferimento de um dos pleitos, deixou de existir, consequentemente é de rigor o redimensionamento dos honorários advocatícios por conta da imperiosa necessidade de afastar a sucumbência recíproca" (fl. 719) e (b) é inaplicável, à espécie, o critério de aferição do termo final da pensão mensal, fixado no AgInt no Resp n. 1.795.855/RS, tendo em vista que "o falecido possuía, no momento do óbito, 84 anos de idade, de tal maneira que já havia ultrapassado a expectativa média de vida do brasileiro, prevista, àquela época, até os 76,3 anos".
+A parte embargada foi intimada, mas não apresentou impugnação.
+É o relatório.
+Na forma do art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+Na espécie, não se verifica omissão a respeito do redimensionamento dos honorários de sucumbência, uma vez que a decisão embargada se limitou a pautar, à luz da jurisprudência do STJ, parte do juízo a ser proferido pelo eg. TJPE, quando do reexame do pedido. O decisum, portanto, não proferiu juízo de mérito integral e definitivo a respeito do pedido de pensão mensal, ficando pendente questões acessórias relativas à pretensão, como valor, fixação de termo inicial e final, correção monetária, juros de mora etc.
+Nesse contexto, era inviável a esta relatoria proceder, de imediato, ao redimensionamento da sucumbência, apesar do provimento parcial do recurso.
+Quanto ao se gundo tópico dos embargos, uma vez esclarecido que a vítima do evento danoso já contava com 84 anos de idade ao tempo dos fatos, a fixação do termo final da pensão mensal deve observar que "a longevidade provável de vítima fatal, para efeito de fixação do tempo de pensionamento, deve ser apurada em consonância com a tabela de sobrevida adotada pela Previdência Social, de acordo com cálculos elaborados pelo IBGE" (REsp 268265/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 04/04/2002, DJ 17/06/2002, p. 268 RNDJ vol. 31, p. 129).
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, para melhor explicitar o critério de fixação do termo final da pensão mensal.
+Publique-se.
+EMENTA
