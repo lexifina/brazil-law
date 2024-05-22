@@ -1,0 +1,11 @@
+DECISÃO
+WILMAR SOARES TRIANI alega sofrer constrangimento ilegal e aponta como autoridade coator ao Tribunal Regional Federal da 1ª Região.
+O paciente, condenado definitivamente por incursão no art. 1º, I, da Lei n. 8.137/1990, busca a declaração de nulidade do acórdão transitado em julgado. Aponta a falta de intimação do advogado via imprensa oficial, vício que o impossibilitou de participar da sessão de julgamento da apelação e de recorrer do acórdão proferido em segundo grau. Explica, ainda, que não existe cadastro no processo eletrônico e que não houve intimação pessoal do condenado.
+Decido.
+O acórdão transitou em julgado em 14/6/2023, meses antes da impetração. As alegações da defesa não foram indicadas ao órgão de segundo grau nem estão acompanhadas de prova pré-constituída. O impetrante nem sequer juntou certidão judicial a atestar os arrazoados, o que impede a constatação, clara e objetiva, da nulidade alegada no habeas corpus.
+Este Superior Tribunal de Justiça não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal, ressalvadas as situações em que, à vista da ilegalidade flagrante, em prejuízo da liberdade do paciente, seja imprescindível a concessão, de ofício, da ordem.
+No caso, o impetrante não instruiu devidamente o habeas corpus. As razões da impetração parecem se referir ao meio de intimação pela imprensa oficial, mas o processo migrou para o sistema eletrônico e, ao que parece, existia advogado com procuração nos autos, sem notícia de declaração de revelia do réu. Não há documentos que permitam a esta Corte averiguar a nulidade. Finalmente, são incompreensíveis as alegações quanto à intimação do réu solto do acórdão da apelação, pois inexiste previsão legal para tal procedimento.
+É atribuição do impetrante instruir o habeas corpus requerido a esta Corte com "prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
