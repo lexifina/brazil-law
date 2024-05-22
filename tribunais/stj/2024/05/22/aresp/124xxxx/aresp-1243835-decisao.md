@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA EXCELSIOR DE SEGUROS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA - VICÍOS DE CONSTRUÇÃO - COHAPAR - APÓLICES PRIVADAS - SEM COBERTURA DO FCVS LITISCONSÓRCIO DA CEF - DESNECESSIDADE - COMPETÊNCIA DA JUSTIÇA ESTADUAL -DECISÃO DO STJ EDCL NO RESP 1.091.363.
+Após nova análise referente ao Seguro Habitacional pelo Superior Tribunal de Justiça nos EDcI ao REsp nº1.091.363,tendo como relatora a Min. NANCY ANDRIGUI, julgado em novembro de 2012.
+"In casu, ausente demonstração de tratar-se de apólices públicas, constando informação da Caixa Econômica Federal de que os contratos dos autores constituindo-se contrato de Seguro Privado, apólices de mercado, não havendo interesse em intervir no feito. Assim, envolvendo a discussão apenas entre a seguradora e mutuário e não afetar o FCVS (Fundo de Compensação de Variações Salariais), cuida-se de competência da Justiça Estadual.
+DESPACHO SANEADOR - PRELIMINARES AFASTADAS - FIXAÇÃO DE HONORÁRIOS PERICIAIS - APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR - PRINCÍPIO DA FACILITAÇÃO DA DEFESA - INVERSÃO DO ÔNUS DA PROVA - POSSIBILIDADE - VEROSSIMILHANÇA DA ALEGAÇÕES E HIPOSSUFICIÊNCIA TÉCNICA E FINANCEIRA PRESENTES - INVERSÃO DO ÔNUS FINANCEIRO DA PROV - AUSÊNCIA DE PREVISÃO LEGAL -DETERMINAÇÃO DE PAGAMENTO DOS HONORÁRIOS PERICIAIS PELA PARTE POSTULANTE.
+1. "A inversão do ônus da prova não tem o condão de obrigar a parte adversa a arcar com os honorários do perito. Entretanto, o réu poderá sofrer as conseqüências pela sua não produção. (STJ, RESp.443.208 -RJ, Rel. Min. Nancy Andrighi, DJ 17/03/2003).
+2. "In casu", quem deverá responder pelo adiantamento das despesas da prova é a parte postulante, nos termos do Art. 33 do CPC: "Cada parte pagará a remuneração do assistente técnico que houver indicado; a do perito será paga pela parte que houve requerido o exame, ou pelo autor, guando requerido por ambas as partes ou determinado de ofício pelo juiz".
+Contudo, em consulta verifica-se que a requerente é beneficiária da gratuidade judiciária, devendo a perícia ser realizada sem a antecipação dos honorários periciais, artigo 30, V da Lei 1.060/50.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO" (fls. 294/296 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 355/365 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 535, II, do Código de Processo Civil de 1973 - porque o acórdão recorrido deixou de examinar a aplicação das Súmulas nºs 150 e 321/STJ, conjugadas com as Leis nºs 12.409/2011 e 13.000/2014;
+(ii) art. 1º da Lei nº 12.409/2011, com a redação dada pela Lei nº 13.000/2014 - interesse financeiro da Caixa Econômica Federal e competência da justiça federal para a lide;
+(iii) art. 47 do Código de Processo Civil de 1973 - existência de litisconsórcio passivo necessário entre o agente financeiro (COHAPAR) e a seguradora.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Inicialmente, destaca-se que a tese sobre o interesse da Caixa Econômica Federal e competência da justiça federal foi inadmitida pelo Tribunal de origem com base no art. 1.030, I, "b", do CPC, o que enseja a interposição de agravo interno no próprio tribunal de origem, nos termos do art. 1.030, § 2º, do CPC.
+Assim, no tocante às teses (i) e (ii), o agravo não merece ser conhecido.
+Quanto ao mais, a insurgência não merece prosperar.
+Na origem, trata-se de ação indenizatória por vícios construtivos em imóvel adquirido no âmbito do Sistema Financeiro da Habitação - SFH, sem cobertura pelo Fundo de Compensação de Variações Salariais - FCVS.
+Esta Corte firmou posicionamento no sentido de que, nos casos de vícios de construção de imóvel adquirido pelo Sistema Financeiro da Habitação, o agente financeiro somente terá legitimidade passiva ad causam quando tiver atuado também no projeto, execução ou fiscalização do empreendimento. A propósito: REsp 1.163.228/AM, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2012, DJe 31/10/2012; REsp 1.102.539/PE, Rel. Ministro Luis Felipe Salomão, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/8/2011, DJe 6/2/2012; AgRg no REsp 1522725/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/02/2016, DJe 22/02/2016.
+No caso concreto, como o acórdão recorrido não tratou da atuação ou não do agente financeiro no projeto, execução ou fiscalização do empreendimento, não é possível examiná-la em recurso especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. AGENTE FINANCEIRO. COHAPAR. ARTIGO 47 DO CÓDIGO DE PROCESSO CIVIL DE 1973. LITISCONSÓRCIO PASSIVO NECESSÁRIO. AUSÊNCIA. TRIBUNAL DE ORIGEM. ENTENDIMENTO. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não se justifica a inclusão do agente financeiro no feito como litisconsorte passivo se não ficar evidenciada sua responsabilidade pela cobertura securitária.
+3. Na hipótese, rever a conclusão do tribunal local demandaria o reexame de cláusulas contratuais e de matéria fático-probatória, procedimentos inadmissíveis em recurso especial diante do disposto nas Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido." (AgInt no AREsp n. 872.601/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/8/2020, DJe de 18/8/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO DE INDENIZAÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA/AGRAVANTE.
+1. Esta Corte Superior tem entendimento pacífico no sentido de que "o agente financeiro somente tem legitimidade passiva ad causam para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento" (AgRg no REsp 1522725/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/02/2016, DJe 22/02/2016)". Precedentes.
+1.1. No caso dos autos, o Tribunal de origem consignou que o agente financeiro contraiu o dever jurídico apenas de custear o financiamento, afastando a formação de litisconsórcio passivo necessário.
+1.2. Nesse contexto, o acolhimento da pretensão recursal demandaria a constatação da responsabilidade do agente financeiro - COHAPAR - pela execução da obra, o que exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em sede de recurso especial (Súmulas 5 e 7/STJ). Precedentes.
+2. Em atenção ao princípio da unirrecorribilidade recursal, é vedada a interposição de mais de um recurso a fim de impugnar o mesmo decisum.
+3. Agravo interno de fls. 318/326, e-STJ, desprovido e agravos internos de fls. 327/351 e 355/379 e-STJ, não conhecidos." (AgInt no AREsp n. 1.041.406/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/6/2018, DJe de 20/6/2018)
+Ante o exposto, conheço parcialmente do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
