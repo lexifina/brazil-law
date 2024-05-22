@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIEL TUNES ALUOTTO, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - PRELIMINAR - FALTA DE INTERESSE RECURSAL - NÃO CONFIGURADO - PRESCRIÇÃO AQUISITIVA - USUCAPIÃO - AUSÊNCIA DOS REQUISITOS - LITIGÂNCIA DE MÁ-FÉ - NÃO ACOLHIDA. O interesse recursal repousa no binômio necessidade e utilidade. A primeira refere-se à necessidade do provimento jurisdicional pleiteado para a obtenção do bem da vida em litígio, já a segunda cuida da adequação da medida recursal alçada para atingir o fim colimado. Ausente a comprovação da posse mansa, pacífica e com ânimo de dono por parte do réu, deve ser rejeitada a exceção de usucapião como meio de defesa. Não havendo prova de que a parte agiu de má-fé nem de que negligenciou seus deveres processuais, incabível a condenação por litigância de má-fé" (e-STJ fl. 501).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 521/527).
+Após a decisão do Superior Tribunal de Justiça determinando o retorno dos autos para novo julgamento dos embargos de declaração, o recurso integrativo foi rejeitado em acórdão com a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO - OMISSÃO - VÍCIO EXISTENTE -EMBARGOS ACOLHIDOS - SEM EFEITO INFRINGENTE. Os embargos declaratórios são cabíveis apenas quando houver na decisão embargada omissão, obscuridade ou contradição, nos exatos termos do art. 1.022 do Código de Processo Civil. Havendo no acórdão recorrido o vício arguido, há que se acolher os embargos declaratórios. Há interversão (ou inversão) da posse quando o caráter em que esta inicialmente foi obtida se altera durante o tempo, configurando a exceção prevista no art. 1.203 do Código Civil. Entretanto, estando demonstrada a precariedade da posse, não há como reconhecer a possibilidade de seu convalescimento em posse não precária, porque o vício da precariedade representa um abuso de confiança" (e-STJ fl. 788).
+O recorrente opôs novos declaratórios contra referido aresto, os quais foram rejeitados (e-STJ fls. 813/821).
+No especial (e-STJ fls. 824/839), o recorrente aponta violação dos artigos 489, §1º, IV, e 525, §1º, VII, do Código de Processo Civil e 1.240 do Código Civil.
+Reitera a ocorrência de negativa de prestação jurisdicional, pois, a despeito da determinação deste Tribunal Superior para que a Corte local se manifestasse acerca de sua tese, referente à inversão da posse, não lhe foi franqueado o direito de produzir outras provas para demonstrar referida alegação e, por consequência, o cumprimento dos requisitos da usucapião.
+Afirma a possibilidade de suscitar a prescrição aquisitiva como matéria de defesa.
+Aduz que, no caso, a sentença transitou em julgado em 8/4/2010 e o pedido de desarquivamento dos autos e início do cumprimento de sentença foi apresentado apenas em 6/4/2016, quando já implementada as condições da usucapião extraordinária.
+Sustenta que a posse, desde o trânsito em julgado, inverteu-se de precária para posse ad usucapionem, exercida de maneira contínua, mansa, pacífica e com animus domini.
+Ao final, requer o provimento do recurso.
+Apresentadas as contrarrazões (e-STJ fls. 846/844), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Consta dos autos que, na origem, Daniel Tunes Aluotto interpôs agravo de instrumento contra a decisão do magistrado de primeiro grau de jurisdição que, nos autos de liquidação/cumprimento de sentença, afastou a pretensão de usucapião.
+O Tribunal local, mantendo tal conclusão, entendeu que não houve o preenchimento dos requisitos legais autorizadores da usucapião, porquanto não teria sido configurada a posse ad usucapionem, sendo exercida pelo recorrente a posse precária desde 2010.
+Determinado por esta Corte Superior o retorno dos autos para novo exame dos declaratórios para suprir ponto omisso, referente à alegação de inversão da posse, a instância ordinária sanou o vício apontado, fundamentando que não houve conversão da posse imprópria para própria nos seguintes termos:
+"(..) verifico que não é possível a aplicação do instituto da inversão da posse no caso concreto, pois, além da posse decorrente de contrato de compra e venda não ensejar a prescrição aquisitiva para ampara à usucapião, em razão de ser contrária ao animus domini, a posse do embargante de justa tornou-se precária em março de 2010, quando o contrato de compra e venda do bem litigioso foi rescindido judicialmente por força de sentença transitada livremente em julgado.
+Aliás, ressalto que com a rescisão do contrato houve a perda do justo título a legitimar a posse pelo embargante, a qual passou a ser injusta a partir da quebra da relação contratual, que por sua vez, gerou a quebra da confiança.
+(..)
+Desta forma, restando demonstrado a precariedade da posse do embargante, não há como reconhecer a possibilidade de seu convalescimento em posse não precária, porque o vício da precariedade representa um abuso de confiança.
+Demais disso, a inversão do caráter de uma posse precária somente seria possível se houvesse concordância da antiga possuidora e se esta, diante da inadimplência do embargante quanto à devolução do imóvel, tivesse permanecida inerte por um período considerável, o que não se vislumbra dos autos, pois, logo após o trânsito em julgado da sentença que declarou a rescisão do contrato de compra e venda do imóvel e tornou a posse precária, deu início à fase de seu cumprimento no prazo prescricional de 10 anos.
+Em reforço, cabe deixar claro que quem possui a posse injusta e precária, como no caso do embargante que até o momento se mantém irredutível na desocupação do imóvel, não tem posse que permita sucesso na ação de usucapião, razão pela qual está impedido de adquirir o bem por esse meio.
+Portanto, estando induvidoso de que a posse exercida pelo embargante se tornou precária após março de 2010 com a rescisão judicial do contrato de compra e venda, não há como reconhecer a interversão da posse injusta e/ou precária em posse justa" (e-STJ fls. 792/794).
+Como se vê, o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+No mais, conforme visto, a instância ordinária entendeu que a posse do recorrente é precária desde o trânsito em julgado da sentença que rescindiu o contrato de promessa de compra e venda, tendo a parte recorrida exercido seu direito dentro do prazo prescricional.
+Sobre o tema, o entendimento desta Corte é no sentido de que a posse decorrente de contrato de promessa de compra e venda de imóvel, por ser incompatível com o animus domini, em regra, não ampara a pretensão à aquisição por usucapião.
+Na hipótese, não há como rever a conclusão firmada pelas instâncias ordinárias para verificar a existência de "animus domini" sem o revolvimento do acervo fático-probatório constante dos autos, nos termos do enunciado da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. USUCAPIÃO EXTRAORDINÁRIO ALEGADO COMO MATÉRIA DE DEFESA. AUSÊNCIA DE ANIMUS DOMINI. OPOSIÇÃO DURANTE O LAPSO PRESCRICIONAL CONFIGURADA. REEXAME DE ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que os agravados ofereceram e exerceram clara oposição à posse dos agravantes e que estes não exerciam posse sobre a área em questão com animus domini, razões pelas quais afastou a ocorrência de usucapião extraordinário.
+2. A alteração das premissas fáticas adotadas pela Corte de origem demandaria o reexame de provas, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido."
+(AgInt no REsp 1.232.821/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017)
+Se não bastasse, observa-se das razões recursais que o recorrente não refutou os fundamentos adotados pela Corte local quando do rejulgamento dos declaratórios, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, conheço parcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
