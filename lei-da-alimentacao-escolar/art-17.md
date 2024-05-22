@@ -9,4 +9,13 @@ VII - promover e executar ações de saneamento básico nos estabelecimentos esc
 VIII - divulgar em locais públicos informações acerca do quantitativo de recursos financeiros recebidos para execução do PNAE;
 IX - prestar contas dos recursos financeiros recebidos à conta do PNAE, na forma estabelecida pelo Conselho Deliberativo do FNDE;
 X - apresentar ao CAE, na forma e no prazo estabelecidos pelo Conselho Deliberativo do FNDE, o relatório anual de gestão do PNAE.
-XI - (VETADO).
+XI - complementar, por meio de lei local, as normas referentes à execução do Pnae na respectiva jurisdição, dispondo sobre:
+a) objetivos;
+b) beneficiários;
+c) forma de gestão;
+d) ações de educação alimentar e nutricional;
+e) procedimentos de aquisição de gêneros alimentícios;
+f) estrutura e funcionamento do CAE;
+g) procedimentos de execução e controle dos recursos financeiros transferidos pelo FNDE e dos recursos próprios;
+h) prestação de contas;
+i) monitoramento, avaliação e fiscalização da execução do Programa.
