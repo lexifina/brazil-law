@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por NAIR DE JESUS BUENO fundamentado no art. 105, III, "a", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DENULIDADE C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. EMPRÉSTIMOS CONSIGNADOS. ASSINATURAS PESSOAIS CONFIRMADAS POR LAUDO PERICIAL JUDICIALGRAFOTÉCNICO. FRAUDE NÃO COMPROVADA. AUSÊNCIADE ATO ILÍCITO PRATICADO PELA INSTITUIÇÃOFINANCEIRA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. 1. No caso em epígrafe, a instituição financeira comprovou as contratações dos empréstimos consignados pela Autora/Apelante, mediante apresentação das cópias dos contratos firmados e a assinatura pessoal da consumidora, que foi ratificada pelo laudo pericial judicial grafotécnico produzido no processo. 2. Por outro lado, conquanto a Autor/Apelante tenha alegado que a contratação objeto da contenda se deu mediante fraude bancária, não trouxe nenhum elemento probatório, ainda que indiciário, evidenciando a irregularidade da pactuação. 3. Portanto, não há como reconhecera inexistência de débitos ou irregularidade dos descontos realizados no benefício da consumidora, e, por conseguinte, afasta-se a pretensão de repetição em dobro do indébito e de indenização por danos morais, porquanto não houve prática de ato ilícito pela instituição financeira. APELAÇÃO CÍVEL CONHECIDAE DESPROVIDA. SENTENÇA MANTIDA. (fl. 1143)
+Em suas razões do recurso especial, a agravante alega violação aos arts. 186 e 927 do Código Civil; e 479 do NCPC, sustentando, em síntese, fazer jus à indenização a título de dano moral, em decorrência de empréstimos consignados realizados em nome da recorrente, os quais foram realizados por terceiros, mediante fraude.
+Aduz, ainda, que "o juiz não está adstrito a prova pericial, podendo inclusive decidir de forma contrária a ela, conforme artigo 479 CPC."
+É o relatório.
+Decido.
+A irresignação não prospera.
+Com relação à suposta violação do art. 479 do Código de Processo Civil, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ARTS. 46, 52, II, V, 54, § 3º, DO CÓDIGO DE DEFESA DO CONSUMIDOR E 359, I, DO CÓDIGO DE PROCESSO CIVIL DE 1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. LIMITAÇÃO DA TAXA DE JUROS REMUNERATÓRIOS. IMPOSSIBILIDADE. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. CAPITALIZAÇÃO DOS JUROS. JUROS COMPOSTOS. TARIFA DE CADASTRO. TARIFA DE REGISTRO. CABIMENTO. MORA CONFIGURADA.
+1.Ausente o prequestionamento, exigido inclusive para as matérias de ordem
+pública, incide o óbice do enunciado n. 282 da Súmula do STF.
+(..)
+6.Agravo interno a que se nega provimento.
+(AgInt no AREsp 1595931/RS, Rel.Ministra MARIA ISABEL GALLOTTI,
+QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. CONCLUSÃO ESTADUAL ACERCA DA AUSÊNCIA DE PREJUÍZOS PRATICADOS PELA RECORRIDA E DANOS MORAIS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 32, caput, da Lei n. 8.906/1994 e 2º e 4º do Estatuto do Idoso não foram objeto de prequestionamento no julgado da segunda instância e os insurgentes não opuseram embargos de declaração objetivando suprir eventual ocorrência de vícios do art. 1.022 do CPC/2015. Aplicação das Súmulas 282 e 356/STF.
+(..)
+3. Agravo interno desprovido. (AgInt no AREsp 1549709/SP, Rel. MinistroMARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020)
+Além disso, na hipótese, o Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu que não restou comprovado o fato constitutivo do direito da parte autora, no que tange ao pleito indenizatório por dano moral, conforme se insere do seguinte excerto do aresto estadual:
+"Ocorre que, no caso em comento, não é possível verificar a ocorrência defraude na contratação ou delito praticado por terceiro que viesse a prejudicar a consumidora. É que as contratações se deram mediante a assinatura pessoal da Autora, não havendo qualquer indício de interferência de terceiros nas contratações dos empréstimos.
+A parte autora não juntou no processo os extratos de suas contas bancárias, a fim de demonstrar que não recebeu os valores referentes aos empréstimos. De igual modo, não impugnou o laudo pericial judicial grafotécnico.
+Assim, caberia à parte autora prova mínima acerca da utilização indevida de seus dados/documentos por terceiros. Não havendo tal prova e/ou esclarecimentos, não se verifica a falha na prestação do serviço bancário, devendo, portanto, no caso específico, ser mantido o julgamento de improcedência.
+Nesse sentido, a Corte Superior já decidiu que, inexistindo prova de fraude na contratação ou participação de funcionários do banco em algum ato ilícito, deve a responsabilidade da instituição financeira ser afastada." (fl. 1139)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulado, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 13% para 14% sobre o valor atualizado da causa, observado o disposto no art. 98, § 2º, do NCPC, dada eventual justiça gratuita.
+Publique-se.
+EMENTA
