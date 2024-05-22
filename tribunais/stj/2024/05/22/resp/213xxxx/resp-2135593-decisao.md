@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial às fls. 386/390 interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL em face de acórdão às fls. 323/332 proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO ACIDENTÁRIA IMPROCEDENTE. Recurso do autor. AUXÍLIO-ACIDENTE.
+Lesões na coluna vertebral. Acidente de trabalho típico. Capacidade para o trabalho integralmente preservada. Nexo causal entre as moléstias e o acidente afastado. Etiologia degenerativa, sem relação com evento traumático. Teor conclusivo da prova pericial. Benefício indevido. Recurso do INSS.
+HONORÁRIOSPERICIAIS. Pretensão de que haja o ressarcimento pelo estado federado. Tema 1.044 do Superior Tribunal de Justiça.
+Necessidade de se observar a tese jurídica definida no julgamento de recurso repetitivo. Inteligência do artigo 927, inciso III, do Código de Processo Civil. Ressarcimento que deve ser postulado em ação autônoma, em respeito aos princípios do contraditório e ampla defesa.
+Estado que não participou da demanda.
+PREQUESTIONAMENTO.
+Desnecessidade de manifestação expressa sobre todos os dispositivos legais apontados pelo recorrente. Sentença de improcedência mantida. RECURSOS DOAUTOR e do INSS DESPROVIDOS, com observação.
+Opostos embargos de declaração às fls. 337/341 pelo INSS, foram rejeitados, conforme acórdão às fls. 343/346.
+Recurso especial às fls. 350/363 interposto pelo particular.
+Recurso especial às fls. 386/390, fundamentado na alínea "a" do permissivo constitucional, a autarquia recorrente alega, em suma: a) necessidade de devolução dos autos ao Tribunal de origem para juízo de retratação, considerando que não foi observado pelo acórdão recorrido as teses fixadas nos Temas Repetitivos n. 1.044/STJ e n. 889/STJ, acerca da possibilidade de cobrança do Estado membro dos valores pagos pelo INSS em adiantamento de honorários periciais em ação acidentária julgada improcedente, em que o sucumbente é beneficiário de gratuidade de justiça; b) violação ao artigo 1.022, II, do CPC; c) violação aos artigos 82, §2º, 95, §3º, 515, I, e 927, III, do CPC, no que concerne à possibilidade de cobrança nos próprios autos da restituição integral pelo Estado-membro dos honorários periciais antecipados pelo INSS, em ação de acidente de trabalho, cuja parte autora sucumbente era beneficiária de assistência judiciária gratuita.
+Contrarrazões ao recurso especial apresentadas pelo particular às fls. 397/399.
+Decisão do Tribunal de origem às fls. 403/405 que admitiu o recurso especial interposto pelo INSS.
+Decisão do Tribunal de origem às fls. 406/407 de inadmissibilidade do recurso especial interposto pelo particular, sob o fundamento de não observância dos requisitos do artigo 1.029, §1º do CPC e do artigo 255, §1º do STJ.
+Agravo em recurso especial às fls. 410/415, em que se insurge o particular contra a decisão de inadmissibilidade às fls. 406/407.
+Petição às fls. 422/425 em que a autarquia previdenciária requer a desistência do recurso especial de fls. 386/390.
+É o relatório. DECIDO.
+A autarquia ora requerente, por intermédio da petição protocolizada às fls. 422/425, manifesta a sua desistência do recurso especial interposto às fls. 386/390.
+A Segunda Turma, ao julgar o REsp 627.022/SC (Rel. Min. Eliana Calmon), didaticamente fez a distinção entre os seguintes institutos processuais: desistência da ação, desistência do recurso e renúncia do autor ao direito sobre que se funda a ação, conforme excertos parcialmente reproduzidos a seguir:
+Desistência da ação - somente pode ser deferida até a prolação da sentença; após a citação apenas com a anuência do réu ou se este não anuir sem motivo justificado, a critério do magistrado (art. 267, VIII e §4º, do CPC/1973 e art. 485, VIII e §4º, do CPC/2015). É um instituto que tem natureza eminentemente processual, acarreta a extinção do processo sem julgamento do mérito, de modo que a demanda pode ser novamente proposta.
+Desistência do recurso - somente tem direito à desistência do recurso a parte que recorreu; nos termos do art. 501 do CPC/1973 (art. 998, do CPC/2015), desnecessária a anuência do recorrido ou dos litisconsortes e somente pode ser formulado o pedido até o julgamento do recurso; nesta hipótese, prevalece a decisão imediatamente anterior.
+Renúncia - é ato privativo do autor, pode ser exercido em qualquer tempo ou grau de jurisdição, independentemente da anuência da parte contrária; enseja a extinção do feito nos termos do art. 269, V do CPC/1973 e art. 487, III, "c", do CPC/2015 (extinção com resolução do mérito), impedindo a propositura de qualquer outra ação sobre o mesmo direito; é instituto de natureza material, cujos efeitos são os mesmos da improcedência da ação e, em havendo depósitos judiciais, estes deverão ser convertidos em renda da União; equivale, às avessas, ao reconhecimento do pedido pelo réu.
+Registre-se que na petição às fls. 422/425 o INSS requer a homologação da desistência do presente recurso especial, bem como de diversos outros recursos referentes a processos diversos. Ocorre que, em relação ao pedido de homologação dos demais recursos referente a processos diversos, tal pleito deve ser feito nos autos de cada um dos referidos processos. Portanto, a homologação do pedido de desistência de fls. 422/425 terá efeitos apenas em relação aos presentes autos.
+Considerando a manifestação da autarquia recorrente , homologo, para que produza seus efeitos legais, o pedido de desistência do presente recurso especial, conforme requerido às fls. 422/425, declarando a extinção do procedimento recursal, nos termos dos arts. 998 do Código de Processo Civil de 2015, e 34, IX, do RISTJ.
+Certifique-se o trânsito em julgado e, após, dê-se a baixa dos autos à origem.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. HOMOLOGAÇÃO DA DESISTÊNCIA DO RECURSO, NOS TERMOS DOS ARTS. 998 DO CPC/2015 E 34, IX, DO RISTJ.
