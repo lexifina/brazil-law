@@ -1,0 +1,69 @@
+DECISÃO:
+
+    Trata-se de agravo contra a decisão de inadmissibilidade do recurso extraordinário interposto pelo Sindicato Estadual dos Profissionais de Educação do Rio de Janeiro - SEPE/RJ contra acórdão do Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), proferido nos seguintes termos:
+
+“REPRESENTAÇÃO POR INCONSTITUCIONALIDADE QUE TEM POR OBJETO A ALÍNEA “F” DO INCISO I, DO ART. 2º DA LEI MUNICIPAL Nº 6315/2018, COM A REDAÇÃO DADA PELA LEI Nº 6806/2020, DO MUNICÍPIO DO RIO DE JANEIRO. DISPOSITIVO LEGAL PROVENIENTE DE EMENDA ADITIVA DE LEI, REALIZADA PELA CÂMARA DE VEREADORES, QUE ACRESCENTOU O CARGO DE AGENTE DE APOIO INFANTIL ÀS FUNÇÕES DE MAGISTÉRIO. VIOLAÇÃO À RESERVA DE ADMINISTRAÇÃO E AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. VÍCIO DE INICIATIVA CONFIGURADO. HIPÓTESE QUE NÃO SE ENQUADRA NO ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO TEMA Nº 917, VEZ QUE, NO PRESENTE CASO. É NÍTIDA A INDEVIDA INTROMISSÃO NAS FUNÇÕES DA ADMINISTRAÇÃO PÚBLICA QUE ESTÃO A CARGO DO CHEFE DO PODER EXECUTIVO. INCONSTITUCIONALIDADES FORMAL E MATERIAL CARACTERIZADAS. PRECEDENTES DA SUPREMA CORTE E DESTE EGRÉGIO ÓRGÃO ESPECIAL. PROCEDÊNCIA DA REPRESENTAÇÃO. ” (e-doc. 3)
+
+    A Mesa Diretora da Câmara Municipal do Rio de Janeiro e o Sindicato Estadual dos Profissionais de Educação do Rio de Janeiro - SEPE/RJ opuseram embargos de declaração em face do referido acórdão (e-docs. 5 e 6, respectivamente).
+
+    O Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro, por sua vez, não conheceu dos embargos opostos pelo Sindicato Estadual dos Profissionais de Educação do Rio de Janeiro - SEPE/RJ e negou provimento aos embargos opostos pela Mesa Diretora da Câmara Municipal do Rio de Janeiro, em acórdão assim ementado:
+
+“EMBARGOS DE DECLARAÇÃO OPOSTOS EM FACE DE ACÓRDÃO DESTE EGRÉGIO ÓRGÃO ESPECIAL QUE DECLAROU A INCONSTITUCIONALIDADE FORMAL E MATERIAL DA ALÍNEA “F” DO INCISO I, DO ARTIGO 2º DA LEI Nº 6315/2018, COM A REDAÇÃO DADA PELA LEI Nº 6806/2020, DO MUNICÍPIO DO RIO DE JANEIRO, COM EFEITOS EX TUNC. 1. Os Embargos de Declaração opostos pelo SEPE/RJ não observaram todos os requisitos de admissibilidade recursal, em especial a tempestividade, vez que o acórdão embargado foi publicado em 12/04/2023 e o recurso interposto tão somente em 08/05/2023. Assim, conforme corretamente certificado pela Secretaria deste Egrégio Órgão Especial, o recurso é intempestivo, de modo que há óbice à sua análise/conhecimento. 2. Já nos Embargos opostos pela Câmara Municipal do Rio de Janeiro, conforme se pode observar, a matéria suscitada foi devidamente apreciada pelo acórdão embargado, de modo que não há falar-se em qualquer omissão a ser sanada. A Embargante tão somente refutou os fundamentos da decisão, retornando ao mérito do julgamento e apresentando idênticas manifestações às anteriormente apresentadas. As razões recursais veiculam mera discordância com os fundamentos e conclusão do julgado. 3. Não conhecimento dos Embargos de Declaração opostos pelo SEPE/RJ, diante da sua manifesta intempestividade e, não havendo omissão, obscuridade ou contradição no acórdão embargado, desprovimento dos Embargos de Declaração opostos pela Câmara Municipal do Rio de Janeiro.” (e-doc. 8, grifos no original)
+
+    No RE (e-doc. 11) sustenta-se, inicialmente, violação ao “princípio da não surpresa”, além da “nulidade na conversão do julgamento da medida cautelar em julgamento de mérito sem direito ao contraditório”. Argumentou a requerente que “(...) torna-se imperioso destacar a necessidade de que a tutela jurisdicional seja prestada de forma a garantir o exercício da ampla defesa e do contraditório, bem como, implica ainda, dizer que a Sra. Desembargadora não observou o Princípio da não Surpresa, previsto no art. 10 do código de processo civil.”
+
+    No mérito, sustentou o requerente que não há de se falar em vício de iniciativa, já que a deflagração do Projeto de Lei que resultou na Lei n° 6.806/2020 do Município do Rio de Janeiro, de 1° de dezembro de 2020, foi exercida pelo Poder Executivo. Além disso, afirmou que “(...) poderia ser alegado o vício de emenda, contudo, nem isso restou verificado. Afinal, a única censura ao poder de emendar que a Carta Política Federal impôs é aquela prevista no art. 63, I e II, reproduzido no art. 113, I e II da Constituição deste Estado. Como só se pode censurar aquilo expressamente vedado, a Constituição Federal, por óbvio, está reconhecendo que se pode emendar projetos de iniciativa exclusiva.”
+
+    Por fim, sustentou a convalidação da iniciativa legislativa mediante a sanção do diploma impugnado, com o entendimento segundo o qual “(...) uma vez que, através da sanção, o Chefe do Poder Executivo aderiu à emenda aditiva da Câmara de Vereadores ao invés de vetá-la parcial ou integralmente, a suposta inconstitucionalidade foi superada pela adesão do Poder Executivo ao texto. Entender diferente seria admitir a possibilidade da administração, que é orientada pela moralidade, aderir hoje ao esforço legislativo e, por qualquer motivo, amanhã contestar o texto que outrora tacitamente chancelou. Não nos parece razoável ou constitucionalmente adequada tal situação.” (grifos no original)
+
+    Sem contrarrazões, a Corte Local obstou o processamento do recurso extraordinário (e-doc. 15), dando ensejo à interposição do presente agravo (e-doc. 16). Na decisão de inadmissão, a Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro consignou que “padece ao recorrente a legitimidade recursal, nos termos do que dispõe o art. 138, §1º e §3º, do CPC, ressalvada apenas a possibilidade de oposição de embargos de declaração e de interposição de recurso da decisão que julgar o incidente de resolução de demandas repetitivas.”
+
+    Intimada, a Procuradoria-Geral da República (PGR) pugnou pelo desprovimento do recurso extraordinário com agravo (e-doc. 26).
+
+    É o relatório. Decido.
+
+    Esta Suprema Corte firmou o entendimento de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o recurso extraordinário, o que não ocorreu na espécie, uma vez que mantida incólume a motivação relativa à ausência de legitimidade recursal do Sindicato Estadual dos Profissionais de Educação do Rio de Janeiro - SEPE/RJ, por ter atuado como amicus curiae na ação direta de inconstitucionalidade cujo acórdão foi questionado no presente feito.
+
+    Nesse caso, a jurisprudência pacífica deste Tribunal, com amparo na norma do art. 1.021, § 1º, do Código de Processo Civil, é firme no sentido de não se conhecer do agravo. Exemplificando esse entendimento, cito os seguintes julgados:
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO EXTRAORDINÁRIO. ENUNCIADO N. 287 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. É inviável o agravo que deixa de atacar especificadamente os fundamentos da decisão de inadmissibilidade de recurso extraordinário. Incidência do enunciado n. 287 da Súmula do Supremo. 2. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 3. Agravo interno desprovido.” (ARE n° 1.444.805-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe de 25/03/2024, grifos nossos).
+
+    “Direito administrativo. Agravo interno em recurso extraordinário com agravo. Policial militar aposentado. Cassação de aposentadoria. Ausência de desconstituição dos fundamentos utilizados pelo tribunal de origem para inadmitir o recurso extraordinário. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão o qual negou provimento ao recurso. 2. A parte recorrente não se desincumbiu do dever processual de desconstituir especificamente todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o recurso extraordinário. Incide, no caso, a Súmula 287/STF. Precedente. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC.” (ARE n° 1.471.745-AgR, Rel. Min. Luís Roberto Barroso (Presidente), DJe de 03/04/2024, grifos nossos).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO. SÚMULA 287 DO STF. AGRAVO REGIMENTAL. REQUISITOS. ARTS. 1.021, § 1º, DO CPC E 317, § 1º, DO RISTF. AUSÊNCIA DE IMPUGNAÇÃO ESPECIFICADA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO. 1. É ônus do recorrente, nos termos do art. 1.021, § 1º, do CPC e 317, § 1º, do RISTF impugnar de modo específico todos os fundamentos da decisão agravada. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE nº 1.167.882-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 12/12/19, grifos nossos).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE ROUBO MAJORADO. ARTIGO 157, § 2º, II, DO CÓDIGO PENAL. COMPETÊNCIA DO RELATOR PARA JULGAMENTO MONOCRÁTICO DO FEITO. POSSIBILIDADE. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO QUE INADMITIU O APELO EXTREMO. SÚMULA 287 DO STF. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.” (ARE nº 1.210.646-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 05/08/19, grifos nossos).
+
+    Mesmo se superado tal óbice, melhor sorte não socorreria ao recorrente.
+
+    Isso porque, verifica-se que falece legitimidade ao Sindicato Estadual dos Profissionais de Educação do Rio de Janeiro - SEPE/RJ para interpor recurso extraordinário, na condição de amicus curiae, motivo pelo qual, não há como prosperar a insurgência deduzida nos autos.
+
+    Nesse sentido, a clara disposição da norma do art. 138, §§ 1º e 3º, do CPC, a permitir, ao amicus curiae, apenas recorrer de decisão que julgar o incidente de resolução de demandas repetitivas e a oposição de embargos de declaração. Confira-se:
+
+    “Art. 138. O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação.
+
+    § 1º A intervenção de que trata o caput não implica alteração de competência nem autoriza a interposição de recursos, ressalvadas a oposição de embargos de declaração e a hipótese do § 3º.
+
+    (...)
+
+    § 3º O amicus curiae pode recorrer da decisão que julgar o incidente de resolução de demandas repetitivas.”
+
+    Assim também aponta a pacífica jurisprudência consolidada nesta Suprema Corte, a respeito do tema, citando-se:
+
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTROLE DE CONSTITUCIONALIDADE. INTERPOSIÇÃO DE RECURSO POR AMICUS CURIAE. ILEGITIMIDADE. MANIFESTO CARÁTER PROTELATÓRIO DOS EMBARGOS DECLARATÓRIOS. MANUTENÇÃO DE MULTA. DESPROVIMENTO DO AGRAVO. 1. De acordo com a jurisprudência da Corte, não é cabível a interposição de recursos por terceiros estranhos à relação processual nos processos objetivos de controle de constitucionalidade. 2. In casu, embora o Recorrente tenha sido admitido nos autos como amicus curiae, ele não tem legitimidade para interpor recursos. 3. São protelatórios os embargos de declaração opostos fora das hipóteses legais autorizadoras de seu manejo, com aptidão a ensejar preceito cominatório. 4. Agravo regimental a que se nega provimento, com fixação de multa.” (ARE n° 1.056.695 ED-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 16/04/2019, grifos nossos).
+
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário interposto por amicus curiae. Inadmissibilidade. Legislação processual. Limitação de ação recursal por amicus curiae. Precedentes. Agravo regimental ao qual se nega provimento. 1. É pacífica a jurisprudência da Corte no sentido de que o amicus curiae, conquanto regularmente admitido nos autos, carece de legitimidade para a interposição de recurso extraordinário nas ações de controle concentrado de constitucionalidade. 2. Agravo regimental não provido.” (ARE n° 1.277.930-AgR, de minha relatoria, Primeira Turma, DJe de 28/06/2021, grifos nossos).
+
+    “Pedido de reconsideração recebido como agravo regimental. Recurso extraordinário em que foi reconhecida a repercussão geral. Pedido de suspensão nacional formulado por amicus curiae. Rejeição. Pretensão de reforma por meio de pedido de reconsideração. Insurgência recebida como agravo interno. Ausência de legitimidade, contudo, para assim proceder. Agravo do qual não se conhece. 1. Na decisão agravada, indeferiu-se pedido de suspensão nacional de processos apresentado por amicus curiae em processo em julgamento na Suprema Corte sob a sistemática da repercussão geral. 2. Insurgência que não se mostra cognoscível, nos termos do art. 138, § 1º, do CPC. 3. Agravo regimental do qual não se conhece.” (RE nº 1.040.515-AgR, Tribunal Pleno, de minha relatoria, DJe de 10/11/20, grifos nossos).
+
+    Ante o exposto, nego seguimento ao agravo nos termos do art. 21, § 1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 22 de maio de 2024.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
