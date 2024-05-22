@@ -1,0 +1,11 @@
+DECISÃO
+IGOR RAMOS FONTES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de origem.
+A defesa explica que pleitou ao Juiz da VEC a concessão do indulto previsto no Decreto n. 11.846/23, mas, apesar de preenchidos os requisitos legais, foi negado ao reeducando o benefício. Argumenta que o acórdão recorrido está equivocado, pois o sentenciado cumpriu 1/4 de suas penas até 25/12/2023, "e não se pode deixar de mencionar mais 88 dias cumpridos", desde sua nova prisão, "em 27 de setembro de 2023, somando à aquela época quase 08 meses de pena" (fl. 6).
+Decido.
+O Juiz da VEC indeferiu o indulto ao paciente por falta de preenchimento de requisito objetivo do art. 2º, I, do Decreto n. 11.846/2023.
+O acórdão apontado como coator não debateu a reincidência/primariedade do reeducando, nem indicou o total da pena cumprida. A defesa deixou de opor embargos de declaração para indicar a premissa fática equivocada do Tribunal de Justiça. Nesse panorama, ainda que tenha existido equívoco na referência do requisito objetivo aplicável apenas aos reincidentes, não há elementos para o exame do indulto, por falta de documentação que comprove a alegação da defesa.
+O habeas corpus não está instruído com certidão judicial que ateste a primariedade do apenado e o resgate, até 25/12/2023, de 1/4 da pena que é objeto do pedido do indulto. Esse documento, que pode ser requerido pelo advogado na Secretaria do Juízo, é imprescindível para o conhecimento do remédio constitucional, que está deficientemente instruído. Não é atribuição desta Corte descobrir e calcular, dia-a-dia, o período de resgate das reprimendas, mas revolver as questões jurídicas relacionadas à execução, mediante o exame de prova inequívoca e pré-constituída dos fatos alegados pela defesa.
+Deveras, é "ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
