@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por HELIO FAUSTO DE SOUZA JÚNIOR contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO CÍVEL. ASSOCIAÇÃO. REJEIÇÃO DE CONTAS DA GESTÃO ANTERIOR. REGULARIDADE DO ATO. CENSURA. EFICÁCIA HORIZONTAL DOS DIREITOS FUNDAMENTAIS. INOBSERVÂNCIA. VIOLAÇÃO AO CONTRADITÓRIO E À AMPLA DEFESA. DECLARAÇÃO DE NULIDADE. DANO MORAL. NÃO CONFIGURADO.SENTENÇA INALTERADA.
+1. Embora vedada a interferência estatal no funcionamento das associações (art. 5º, XVIII, da CF), estas igualmente se submetem aos mandamentos constitucionais, devendo, portanto, respeito aos direitos fundamentais, ante a eficácia horizontal de que desfrutam nas relações que os associados travam entre si.
+2. A prestação de contas é medida essencial à sobrevivência das associações, ao garantir a lisura das gestões que as assumem. A ausência de apresentação dos documentos a tanto necessários conduz à rejeição das contas, que pode, ademais, a depender das disposições estatutárias, configurar falta grave e viabilizar a aplicação de sanções.
+3. Regularmente convocada Assembleia Geral em que fora apresentada Ata do Conselho Deliberativo pela rejeição das contas, ocasião à qual deixou de comparecer o ex-Presidente da associação, não pode este, posteriormente, alegar nulidade do procedimento e do ato de rejeição das contas de sua gestão, sob o pretexto de que foram inobservados o contraditório e a ampla defesa.
+4. A aplicação da penalidade de censura exige contraditório qualificado, não bastando a mera ciência do apenado acerca do procedimento contra si instaurado, mas a efetiva oportunidade de participação, a fim de que seja ouvido e tenha condições de influenciar o processo de tomada da decisão, à míngua do que a pena imposta deve ser declarada nula.
+5. A declaração de nulidade da censura imposta não induz o automático reconhecimento da ocorrência de dano moral, mesmo diante da publicação da nota de aplicação da penalidade no sítio eletrônico da associação, seja porque a mencionada declaração de nulidade decorreu da análise de aspectos meramente formais - o que não inviabiliza a confirmação da pena mediante a observância do rito a tanto adequado -, seja porque a referida publicação não se eterniza no tempo, restando, logo após, indisponível para consulta" (fl. 463 e-STJ).
+Os embargos de declaração opostos foram rejeitados com aplicação de multa (fls. 507/520 e-STJ).
+No recurso especial, o recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(ii) arts. 186, 187 e 927 do Código Civil - haja vista que o pedido de indenização por danos morais não decorre diretamente da aplicação da penalidade, mas sim pela indevida publicação de nota de censura no sítio eletrônico do clube; e
+(iii) art. 1.026, § 2º, do Código de Processo Civil - porque os aclaratórios não pretendiam rediscutir questões já analisadas, mas sanar grave vício que culminou com a equivocada resolução da controvérsia. Além disso, o recorrente apenas exerceu o seu direito de recorrer, não se verificando prejuízo processual à parte adversa.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à não configuração do dano moral pela publicação da nota de censura no sítio eletrônico da recorrida, conforme se verifica do seguinte trecho do acórdão:
+"No mérito, verifico não assistir razão ao recorrente.
+Com efeito, a propósito do imbróglio, a sentença de ID 44896578 consignou, assertivamente, in verbis:
+(..)
+Com isso, para que se verifique a ocorrência do dano moral, é imprescindível que a conduta resulte em veemente abalo ao homem de tirocínio mediano, em situação que desborde daquelas vicissitudes de cunho negocial, em que a execução deficitária, por uma das partes, encontra remédio na resolução do contrato, ou mesmo na recomposição patrimonial à contraparte inocente.
+No caso dos autos, infere-se que os fatos narrados pelo postulante, decorrentes da violação aos princípios da ampla defesa e contraditório, não acarretaram, para além das consequências jurídicas já fixadas (anulação do ato que aplicou a penalidade de censura escrita ao autor), qualquer lesão personalíssima, capaz de amparar a pretensão compensatória.
+Incabível, portanto, a pretendida condenação ao pagamento de indenização por danos morais.
+As alegações veiculadas pelo recorrente no apelo não infirmam as conclusões obtidas pelo juízo de origem.
+(..) relativamente aos danos morais, não constato a alegada contradição entre a sua não ocorrência e a declaração de nulidade da censura imposta. Isso porque a mencionada nulidade foi reconhecida exclusivamente em virtude da ausência de "manifestação do autor sobre os fatos", uma vez que "a mera convocação por e-mail para a referida deliberação não  seria  suficiente para assegurar o contraditório e ampla defesa".
+Não houve, com efeito - nem poderia ter havido, ante a regra da vedação da intervenção estatal no funcionamento das associações -, incursão sobre o mérito da controvérsia, à míngua do que se torna inviável a apuração de ocasional violação ao direito de imagem do apelante, mesmo quando considerada a circunstância da publicação da nota de censura no site do clube, e especialmente à vista do fato de que tal nota, como esclarecido pelo apelado não se perpetua no tempo, estando, desse modo, atualmente, indisponível para consulta e visualização" (fls. 466/472 e-STJ).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto à alegada ofensa aos arts. 186, 187 e 927 do Código Civil, rever a conclusão do tribunal local acerca da não configuração da lesão a direito personalíssimo demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. CONFIGURAÇÃO. ALTERAÇÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. Agravo interno não provido" (AgInt no AREsp n. 2.174.412/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. NEGATIVA DE RECEBIMENTO DE PROTOCOLO DO REQUERIMENTO ADMINISTRATIVO. RECUSA INJUSTIFICADA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. Rever a conclusão a que chegou o Tribunal de origem, acerca da configuração de dano moral indenizável, encontra óbice na Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.155.728/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022)
+Por fim, o agravante também argumentou no apelo nobre a necessidade de afastamento da multa aplicada, pois os aclaratórios foram opostos no seu exercício do direito de recorrer para sanar "vício que culminou com a equivocada resolução da controvérsia" (fl. 545 e-STJ), não possuindo, portanto, caráter protelatório.
+O Tribunal de origem, contudo, concluiu pela imposição da multa com base no art. 1.026, § 2º, do Código de Processo Civil, aos seguintes fundamentos:
+"Embora o embargante alegue omissão no julgado, fato é que, nas razões do recurso, se limita a expor claro inconformismo com a decisão, pretendendo rediscutir o mérito do decisum, sob a alegação de que o v. acórdão contraria os argumentos que indica. Em última análise, portanto, o recorrente afirma que o v. acórdão padece do vício alegado porquanto contraria seus interesses.
+Transparece, nesse contexto, que o verdadeiro intento do embargante é a reforma do julgado, uma vez que, sanado o suposto vício, haveria alteração do veredicto, embora, como cediço, a via de impugnação eleita não se preste ao atendimento dessa finalidade.
+Os embargos de declaração, do modo como opostos, fazem as vezes de novo recurso de apelação, o que não é viável admitir, porquanto toda a matéria devolvida a esta instância revisora foi objeto de clara, congruente e expressa manifestação desta e. Turma, ainda que em sentido contrário ao que pretendia o embargante. A essa conclusão é possível chegar mediante simples leitura do v. acórdão impugnado, cuja transcrição é dispensável" (fl. 512 e-STJ).
+Portanto, tendo sido reconhecido o intuito manifestamente protelatório nos embargos de declaração opostos pelo agravante na origem, é inviável o afastamento da penalidade.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. SITUAÇÃO DE EMERGÊNCIA. NECESSIDADE DE CUMPRIMENTO DE CARÊNCIA. LIMITAÇÃO DA INTERNAÇÃO POR 12 HORAS. CARÁTER ABUSIVO. SÚMULAS 302 E 597 DO STJ. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. EMBARGOS DE DECLARAÇÃO OPOSTOS AO ACÓRDÃO RECORRIDO. CARÁTER PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+(..)
+3. Embargos declaratórios pretendendo a rediscussão de matéria decidida e devidamente fundamentada, caracteriza intuito protelatório, incidindo a multa prevista no art. 1.026, § 2º, do CPC/2015.
+4. AGRAVO INTERNO NÃO PROVIDO."
+(AgInt no AREsp 1.989.828/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 6/6/2022, DJe de 9/6/2022 - grifou-se)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais em desfavor do recorrente foram fixados em 15% (quinze por cento) do valor da causa, ficando o mesmo responsável pelo pagamento de 70% (setenta por cento), em razão da sucumbência recípr oca.
+Assim, em observância ao art. 85, § 11, do CPC, majoro os honorários devidos pelo recorrente para 20% (vinte por cento) sobre o valor da causa, mantida a proporção definida em razão da sucumbência recíproca, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
