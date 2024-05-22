@@ -1,0 +1,134 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0749482-98.2023.8.07.0000AGRAVANTE(S)VANESSA SILVA PEREIRA CARDOSOAGRAVADO(S)CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRALRelatorDesembargador JOAO EGMONT
+ Acórdão Nº1863312
+
+EMENTA
+
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA DE URGÊNCIA. PROBABILIDADE DO DIREITO. PERIGO DE DANO. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO ODONTOLÓGICO. NEGATIVA DE AUTORIZAÇÃO. DIVERGÊNCIA SOBRE A UTILIZAÇÃO DE MATERIAIS. COMPROVAÇÃO DA NECESSIDADE. URGÊNCIA ATESTADA PELO MÉDICO ASSISTENTE. REQUISITOS COMPROVADOS. DECISÃO REFORMADA. RECURSO PROVIDO.
+
+1. Agravo de instrumento, interposto contra decisão, proferida nos autos da ação de obrigação de fazer, que indeferiu o requerimento de tutela antecipada de urgência formulado pela autora, ora agravante. 1.1. Em suas razões, a recorrente requer a concessão da tutela de urgência para a autorização imediata da cirurgia ortognática, conforme pedido médico. No mérito, pede a reforma da decisão agravada e a confirmação da tutela requerida. Argumenta que os procedimentos negados fazem parte do rol de cobertura obrigatória da Agência Nacional de Saúde Suplementar (ANS) para a cobertura do plano de saúde e internação hospitalar, e que juntou pedido médico, no qual consta a urgência para a realização da cirurgia ortognática.
+
+2. Sinopse processual: dos autos originários, observa-se que a agravante é beneficiária de plano de saúde operado pela agravada e possui diagnóstico de “deformidade dento-esquelética tipo Classe 3 com hiperplasia condilar unilateral do côndilo mandibular direito, disfunção temporomandibular, deslocamento do disco articular esquerdo, assimetria facial, laterognatismo mandibular para a esquerda, deficiência ântero-posterior de maxila e assimetria do mento”. 2.1. Devido a esses problemas, o profissional assistente que lhe acompanha solicitou a realização de: 1) exame de cintilografia óssea; 2) exame de ressonância magnética; 3) exames fotográficos, radiográficos e cefalométricos e 4) cirurgia ortognática, com a indicação dos materiais necessários para o procedimento. 2.2. A pertinência do procedimento cirúrgico e dos materiais prescritos pelo profissional assistente foram questionados pela operadora do plano de saúde, motivo pelo qual foi formada junta médica/odontológica, que divergiu parcialmente do pedido formulado quanto à realização da cirurgia ortognática, bem como à necessidade de alguns materiais para a realização do procedimento. 2.3. O cirurgião bucomaxilofacial que acompanha a agravante afirma que a paciente não respondeu ao tratamento medicamentoso anterior e que a autorização parcial dada pela agravada não é suficiente para tratar todos os seus problemas. O relatório por ele elaborado atestou, ainda, a necessidade de realização imediata da cirurgia a fim de se evitar danos irreversíveis ao sistema estomatognático da agravante.
+
+3. Sobre a questão posta, a competência para indicação do tratamento mais adequado à enfermidade do segurado é do profissional assistente, tendo em vista que conhecedor dos detalhes e das peculiaridades do caso de sua paciente. Cabe à seguradora tão somente o custeio das despesas de acordo com a melhor técnica prescrita para o caso, com observância às limitações impostas pela segmentação contratada. 3.1. O procedimento requerido pela agravante foi prescrito e justificado pelo profissional que a acompanha, com a indicação da eficácia do tratamento para o quadro clínico. 3.2. Não obstante o caso concreto tenha passado por avaliação de junta médica/odontológica da operadora agravada, a conclusão desta não pode prevalecer sobre a manifestação do profissional que acompanha o quadro clínico da agravante com proximidade e conhece os seus detalhes e peculiaridades. 3.3. Precedente: “[...] 4. No caso em exame, há declaração do médico o qual acompanha a recorrente no sentido de indicar que ela corre riscos consideráveis de ter lesões permanentes e irreparáveis, caso não seja submetida ao procedimento cirúrgico do qual necessita. Cumpre registrar, também, que, em que pese o caso autoral tenha passado por avaliação de junta médica da operadora ré, deve ser privilegiada, entretanto, a manifestação do médico que acompanha com proximidade o caso da agravante, sendo ele conhecedor dos detalhes e de suas peculiaridades. Tal preponderância dessa manifestação do profissional que acompanha a recorrente guarda relação direta com a própria disposição do mencionado art. 35-C, inciso I, da Lei n. 9.656/1998. (...) 7. Recurso conhecido e provido para determinar à agravada que autorize, no prazo de 48 (quarenta e oito) horas, o procedimento cirúrgico completo do qual necessita a autora/agravante, conforme relatórios médicos acostados aos autos originais.” (07308067320218070000, Relatora: Ana Maria Ferreira da Silva, 3ª Turma Cível, DJE: 01/02/2022).
+
+4. A negativa de utilização dos materiais expressamente indicados pelo profissional que acompanha o paciente como indispensáveis para o sucesso do procedimento, como na hipótese dos autos, é conduta abusiva e pode ser entendida como recusa velada, conforme precedentes desta Corte. 4.1. Por fim, em que pesem as alegações da agravada em sede de contrarrazões, no sentido de que não restou evidenciada nenhuma situação de urgência ou emergência eis que se trata de procedimento eletivo, o caráter de urgência para a realização do procedimento cirúrgico foi expressamente consignado no relatório do profissional que acompanha a paciente. Confira-se: “Dessa forma, atesto que a paciente deve ser operada imediatamente, uma vez que apresenta dores nas ATMs, não responsivas ao tratamento medicamentoso (...)”. 4.2. Constatada a presença dos requisitos da probabilidade do direito e do perigo de dano, a decisão da origem deve ser reformada, a fim de que seja deferido o requerimento de antecipação dos efeitos da tutela formulado na origem.
+
+5. Devida a fixação de astreintes, no caso de recalcitrância ao cumprimento da obrigação, no importe de R$ 1.000,00 ao dia.
+
+6. Agravo de instrumento provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JOAO EGMONT - Relator, HECTOR VALVERDE SANTANNA - 1º Vogal e ALVARO CIARLINI - 2º Vogal, sob a Presidência do Senhor Desembargador RENATO RODOVALHO SCUSSEL, em proferir a seguinte decisão: RECURSO CONHECIDO E PROVIDO, NOS TERMOS DO VOTO DO EMINENTE RELATOR. UNÂNIME. , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Maio de 2024
+
+Desembargador JOAO EGMONTRelator
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento, com pedido liminar, interposto por VANESSA SILVA PEREIRA CARDOSO, contra decisão interlocutória proferida pelo juízo da 2ª Vara Cível de Samambaia, nos autos da ação de obrigação de fazer de nº 0717016-24.2023.8.07.0009, movida em desfavor da CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL.
+
+A decisão agravada indeferiu requerimento de tutela antecipada de urgência formulado pela agravante, nos seguintes termos (ID 176395544 dos autos originários):
+
+“Defiro à parte autora a gratuidade de Justiça, pois vejo demonstrada a necessidade do benefício. Anote-se.
+
+INDEFIRO, por ora, o pedido de tutela provisória para que seja determinado ao plano o custeio de todos os procedimentos e materiais negados, considerando que a aferição da probabilidade do direito não prescinde da submissão da questão ao devido contraditório. Ademais, embora o adiamento da cirurgia traga evidentes transtornos à autora, não há indícios de que o adiamento comprometa sua vida ou integridade física.
+
+Diante das especificidades da causa e de modo a adequar o rito processual às necessidades do conflito, deixo para momento oportuno a análise da conveniência da audiência de conciliação, caso haja pedido das partes neste sentido (CPC, art. 139, VI).
+
+Presentes os requisitos essenciais da inicial e não se tratando de hipótese de improcedência liminar do pedido, cite-se. [...]”
+
+Em suas razões, a agravante requer a concessão da tutela de urgência para a autorização imediata da cirurgia ortognática conforme pedido médico. No mérito, pede a reforma da decisão agravada e a confirmação da tutela requerida. Argumenta que possui quadro de deformidade dento-esquelético tipo classe três (3) com hiperplasia condilar unilateral do côndilo mandibular direito, disfunção temporomandibular, deslocamento de disco articular esquerdo, assimetria fácil, laterognatismo mandibular para a esquerda, deficiência ântero-posterior de maxilar e assimetria do mento. Explica que, em razão dos problemas esqueléticos mencionados, apresenta má-oclusão dental com deficiência mastigatória, abertura bucal assimétrica com estalidos, dores musculares intensas nas articulações temporomandibulares (ATM), estalidos e creptações. Acrescenta que os problemas funcionais não responderam ao tratamento médico realizado.
+
+Narra que solicitou autorização da agravada para realizar cirurgia junto ao plano de saúde, porém, houve negativa de vários procedimentos médicos e materiais cirúrgicos. Relata que a agravada desconsiderou o resultado do exame de cintilografia para tomografia computadorizada das articulações temporomandibulares (ATM). Alega que os procedimentos negados fazem parte do rol de cobertura obrigatória da Agência Nacional de Saúde Suplementar (ANS) para a cobertura do plano de saúde e internação hospitalar, e quanto aos materiais solicitados “são e estão em quantidade suficientes para realizar todos os procedimentos cirúrgicos da agravante, da mesma forma o cirurgião dentista é competente para realizar todos os procedimentos citados nos fatos.”
+
+Ressalta que juntou pedido médico, no qual consta a urgência para a realização da cirurgia ortognática. Destaca que a cirurgia tem o objetivo de sanar as dores musculares intensas nas articulações temporomandibulares, estalidos e creptações, e que a demora na realização do procedimento é desumano. Transcreve julgados em favor de sua tese. Salienta, por fim, que a cirurgia é urgente e necessária para uma recuperação integral e plena de sua saúde (ID 53599064).
+
+A decisão de ID 53694898 deferiu o requerimento de antecipação dos efeitos da tutela recursal para “determinar que a agravada autorize, de imediato, o tratamento cirúrgico nos termos requeridos pelo profissional que acompanha a agravante.”
+
+Agravo interno interposto pela parte agravada contra a decisão liminar (ID 54503302).
+
+Contrarrazões ao agravo de instrumento apresentadas ao ID 54535136 e contrarrazões ao agravo interno ao ID 55796125.
+
+É o relatório.
+
+Peço dia para julgamento.
+
+VOTOS
+
+O Senhor Desembargador JOAO EGMONT - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do agravo de instrumento.
+
+Observa-se, desde logo, que o agravo interno de ID 54503302, interposto contra a decisão que deferiu o pedido liminar recursal (ID 53694898), está prejudicado, porquanto o agravo de instrumento se encontra em condições de julgamento de mérito.
+
+Trata-se de agravo de instrumento, com pedido liminar, interposto por VANESSA SILVA PEREIRA CARDOSO, contra decisão interlocutória proferida pelo juízo da 2ª Vara Cível de Samambaia, nos autos da ação de obrigação de fazer de nº 0717016-24.2023.8.07.0009, movida em desfavor da CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL.
+
+A decisão agravada indeferiu requerimento de tutela antecipada de urgência formulado pela agravante, nos seguintes termos (ID 176395544 dos autos originários):
+
+“Defiro à parte autora a gratuidade de Justiça, pois vejo demonstrada a necessidade do benefício. Anote-se.
+
+INDEFIRO, por ora, o pedido de tutela provisória para que seja determinado ao plano o custeio de todos os procedimentos e materiais negados, considerando que a aferição da probabilidade do direito não prescinde da submissão da questão ao devido contraditório. Ademais, embora o adiamento da cirurgia traga evidentes transtornos à autora, não há indícios de que o adiamento comprometa sua vida ou integridade física.
+
+Diante das especificidades da causa e de modo a adequar o rito processual às necessidades do conflito, deixo para momento oportuno a análise da conveniência da audiência de conciliação, caso haja pedido das partes neste sentido (CPC, art. 139, VI).
+
+Presentes os requisitos essenciais da inicial e não se tratando de hipótese de improcedência liminar do pedido, cite-se. [...]”
+
+Em suas razões, a agravante requer a concessão da tutela de urgência para a autorização imediata da cirurgia ortognática conforme pedido médico. No mérito, pede a reforma da decisão agravada e a confirmação da tutela requerida. Argumenta que possui quadro de deformidade dento-esquelético tipo classe três (3) com hiperplasia condilar unilateral do côndilo mandibular direito, disfunção temporomandibular, deslocamento de disco articular esquerdo, assimetria fácil, laterognatismo mandibular para a esquerda, deficiência ântero-posterior de maxilar e assimetria do mento. Explica que, em razão dos problemas esqueléticos mencionados, apresenta má-oclusão dental com deficiência mastigatória, abertura bucal assimétrica com estalidos, dores musculares intensas nas articulações temporomandibulares (ATM), estalidos e creptações. Acrescenta que os problemas funcionais não responderam ao tratamento médico realizado.
+
+Narra que solicitou autorização da agravada para realizar cirurgia junto ao plano de saúde, porém, houve negativa de vários procedimentos médicos e materiais cirúrgicos. Relata que a agravada desconsiderou o resultado do exame de cintilografia para tomografia computadorizada das articulações temporomandibulares (ATM). Alega que os procedimentos negados fazem parte do rol de cobertura obrigatória da Agência Nacional de Saúde Suplementar (ANS) para a cobertura do plano de saúde e internação hospitalar, e quanto aos materiais solicitados “são e estão em quantidade suficientes para realizar todos os procedimentos cirúrgicos da agravante, da mesma forma o cirurgião dentista é competente para realizar todos os procedimentos citados nos fatos.”
+
+Ressalta que juntou pedido médico, no qual consta a urgência para a realização da cirurgia ortognática. Destaca que a cirurgia tem o objetivo de sanar as dores musculares intensas nas articulações temporomandibulares, estalidos e creptações, e que a demora na realização do procedimento é desumano. Transcreve julgados em favor de sua tese. Salienta, por fim, que a cirurgia é urgente e necessária para uma recuperação integral e plena de sua saúde (ID 53599064).
+
+Os autos de origem referem-se à ação de obrigação de fazer com pedido de liminar, ajuizada pela ora agravante em face da Central Nacional Unimed, na qual busca que a requerida seja compelida a realizar, imediatamente, o procedimento indicado no relatório médico acostados aos autos, que foi negado pelo plano de saúde (ID 175897748).
+
+Dos autos originários, observa-se que a agravante é beneficiária de plano de saúde operado pela agravada e possui diagnóstico de “deformidade dento-esquelética tipo Classe 3 com hiperplasia condilar unilateral do côndilo mandibular direito, disfunção temporomandibular, deslocamento do disco articular esquerdo, assimetria facial, laterognatismo mandibular para a esquerda, deficiência ântero-posterior de maxila e assimetria do mento” (ID 175897763 dos autos da origem).
+
+Devido a esses problemas, o profissional assistente que acompanha a agravante solicitou a realização de: 1) exame de cintilografia óssea; 2) exame de ressonância magnética; 3) exames fotográficos, radiográficos e cefalométricos e 4) cirurgia ortognática, com a indicação dos materiais necessários para o procedimento (ID 175897756).
+
+A pertinência do procedimento cirúrgico e dos materiais prescritos pelo profissional assistente foram questionados pela operadora do plano de saúde, motivo pelo qual foi formada junta médica/odontológica para dirimir a controvérsia técnico-assistencial acerca dos procedimentos prescritos nos termos do disposto no art. 6º da Resolução Normativa n. 424 da Agência Nacional de Saúde Suplementar (ANS).
+
+O parecer da junta médica/odontológica elaborado pela agravada divergiu parcialmente do pedido formulado quanto à realização da cirurgia ortognática, bem como à necessidade de alguns materiais para a realização do procedimento (ID 175897765).
+
+O cirurgião bucomaxilofacial que acompanha a agravante afirma que a paciente não respondeu ao tratamento medicamentoso anterior e que a autorização parcial dada pela agravada não é suficiente para tratar todos os seus problemas. O relatório por ele elaborado atestou, ainda, a necessidade de realização imediata da cirurgia a fim de se evitar danos irreversíveis ao sistema estomatognático da agravante. Confira-se seus termos (ID 175897763 dos autos originários):
+
+“Reafirmo que não é possível tratar todos os problemas apresentados pela paciente com a autorização parcial da cirurgia emitida pela UNIMED. Dessa forma, atesto que a paciente deve ser operada imediatamente, uma vez que apresenta dores nas ATMs, não responsivas ao tratamento medicamentoso, e que seus dentes já estão em posição própria para a cirurgia, que irá corrigir o problema da mordida. Entretanto, é importante frisar que essa posição das arcadas dentárias, sem a realização da cirurgia, não permite uma mastigação funcional, e isso agrava o quadro de dores e disfunções articulares da pacientes, podendo, inclusive, causar danos irreversíveis ao sistema estomatognático. Portanto, solicito a autorização imediata da cirurgia, conforme solicitação e planejamento do cirurgião assistente.”
+
+A competência para indicação do tratamento mais adequado à enfermidade do segurado é do profissional assistente, tendo em vista que conhecedor dos detalhes e das peculiaridades do caso de sua paciente. Cabe à seguradora tão somente o custeio das despesas de acordo com a melhor técnica prescrita para o caso, com observância às limitações impostas pela segmentação contratada.
+
+O procedimento requerido pela agravante foi prescrito e justificado pelo profissional que a acompanha, com a indicação da eficácia do tratamento para o quadro clínico.
+
+Ressalte-se que, não obstante o caso concreto tenha passado por avaliação de junta médica/odontológica da operadora agravada, a conclusão desta não pode prevalecer sobre a manifestação do profissional que acompanha o quadro clínico da agravante com proximidade e conhece os seus detalhes e peculiaridades.
+
+Confiram-se os seguintes julgados do Tribunal de Justiça do Distrito Federal e dos Territórios nesse sentido:
+
+“AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. PEDIDO DE TUTELA DE URGÊNCIA INDEFERIDO NA ORIGEM. CIRURGIA NA COLUNA VERTEBRAL. NECESSIDADE DE REALIZAÇÃO DE DOIS PROCEDIMENTOS. CARÁTER URGENTE. ANÁLISE DE JUNTA MÉDICA DA SEGURADORA. AUTORIZAÇÃO PARCIAL. PREVALÊNCIA DO LAUDO EMITIDO PELO MÉDICO DA AGRAVANTE. CONSTATAÇÃO DAS EXIGÊNCIAS DO ART. 300, DO CPC. RECURSO CONHECIDO E PROVIDO. DECISÃO REFORMADA. (...) 2. No caso dos autos, requer a autora/agravante a Tutela de Urgência para compelir a ré/agravada a custear procedimento cirúrgico indispensável à recorrente. 3. A operadora agravada se submete aos regramentos dispostos na Lei n. 9.656/1998, a qual dispõe acerca dos planos e seguros privados de assistência à saúde e estabelece, em seu art. 35-C, inciso I, que é obrigatória a cobertura do atendimento nos casos de emergência, "como tal definidos os que implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado em declaração do médico assistente". 4. No caso em exame, há declaração do médico o qual acompanha a recorrente no sentido de indicar que ela corre riscos consideráveis de ter lesões permanentes e irreparáveis, caso não seja submetida ao procedimento cirúrgico do qual necessita. Cumpre registrar, também, que, em que pese o caso autoral tenha passado por avaliação de junta médica da operadora ré, deve ser privilegiada, entretanto, a manifestação do médico que acompanha com proximidade o caso da agravante, sendo ele conhecedor dos detalhes e de suas peculiaridades. Tal preponderância dessa manifestação do profissional que acompanha a recorrente guarda relação direta com a própria disposição do mencionado art. 35-C, inciso I, da Lei n. 9.656/1998. (...) 7. Recurso conhecido e provido para determinar à agravada que autorize, no prazo de 48 (quarenta e oito) horas, o procedimento cirúrgico completo do qual necessita a autora/agravante, conforme relatórios médicos acostados aos autos originais.” (07308067320218070000, Relatora: Ana Maria Ferreira da Silva, 3ª Turma Cível, DJE: 01/02/2022) - g.n.
+
+“AGRAVO DE INSTRUMENTO. CONSUMIDOR. PROCESSUAL CIVIL. PLANO DE SAÚDE. TUTELA DE URGÊNCIA CONCEDIDA NA ORIGEM. TIREOIDECTOMIA TOTAL E OUTROS PROCEDIMENTOS. TRATAMENTO NECESSÁRIO. AUTORIZAÇÃO. CARÁTER EMERGENCIAL. DESCUMPRIMENTO DA MEDIDA LIMINAR. MAJORAÇÃO DAS ASTREINTES. POSSIBILIDADE. ART. 300, § 1º, DO CPC. CAUÇÃO. FACULDADE. RECURSO CONHECIDO E DESPROVIDO. (...) 2. Em que pese o entendimento perfilhado pelo parecer da junta médica, deve prevalecer o relatório exarado pelo médico assistente, profissional que acompanha o estado clínico do paciente e possui capacidade de estabelecer o tipo de tratamento mais adequado. Nesse caso, considerando-se que a recusa de cobertura do plano de saúde ocorreu estritamente em razão da controvérsia sobre a pertinência dos procedimentos e equipamentos prescritos pelo médico assistente, verifica-se que se revela, de plano, a probabilidade do direito do autor ao pleitear as autorizações necessárias para seu tratamento. (...) 6. Agravo de instrumento conhecido e desprovido.” (07152604620198070000, Relatora: Sandra Reves, 2ª Turma Cível, DJE: 13/02/2020) - g.n.
+
+Saliente-se que a negativa de utilização dos materiais expressamente indicados pelo profissional que acompanha o paciente como indispensáveis para o sucesso do procedimento, como na hipótese dos autos, é conduta abusiva e pode ser entendida como recusa velada. Na mesma linha, vejamos os precedentes deste Tribunal de Justiça:
+
+“DIREITO DO CONSUMIDOR E CIVIL. AGRAVO DE INSTRUMENTO.  OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. NEGATIVA DE AUTORIZAÇÃO. DIVERGÊNCIA SOBRE A UTILIZAÇÃO DE MATERIAIS. COMPROVAÇÃO DA NECESSIDADE.  DECISÃO REFORMADA. 1. O autor ingressou com ação devido à negativa parcial do plano de saúde em arcar com todos os materiais necessários para a realização de cirurgia ortognática, em razão de "deformidade dento-esquelética tipo classe III de Angle caracterizada por retrusão maxilar e mandibular severas e mento recessivo", conforme disposto no relatório médico emitido por seu cirurgião. A solicitação médica de reanálise do pedido de autorização traz urgência e reitera que "o paciente apresenta quadro de apneia obstrutiva do sono moderada/grave, que compromete muito sua qualidade de vida, além de uma maloclusão esquelética que lhe causa sobrecarga e dores nas articulações têmporo-mandibulares". 2. Conforme se observa dos documentos juntados aos autos, o dentista que acompanha o autor apresentou relatório médico, embasado em literatura específica, onde explica o seu quadro clínico, o que deverá ser feito e a justificativa de todos os materiais necessários, tendo, inclusive, requerido a presença de um representante do plano de saúde para que acompanhasse a utilização os materiais solicitados. 3. Embora a ré tenha juntado parecer para desempate técnico realizado por cirurgião especializado, integrante do Conselho Regional de Odontologia de São Paulo, não cabe a ela indagar a adequação ou não do procedimento e materiais determinado pelo profissional de saúde, que detém a formação técnica adequada e acompanha pessoalmente o autor. 4. Portanto, revela-se abusiva a negativa da ré, baseando-se na alegação de que os materiais seriam desnecessários, uma vez que está a negar ao consumidor a contraprestação devida, que é inerente à natureza do contrato estabelecido entre as partes, o que afronta o art. 51, §1º, do CDC. 5. Agravo conhecido e provido.”  (07205541620188070000, Relator: Sebastião Coelho, 5ª Turma Cível, DJE: 08/03/2019).
+
+“CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO ODONTOLÓGICO. NEGATIVA DE PAGAMENTO DE MATERIAL. PEDIDO DE ANTECIPAÇÃO DE TUTELA. INDEFERIMENTO. REFORMA DA DECISÃO AGRAVADA. 1. Presentes a probabilidade do direito alegado, consiste na aparente ilegalidade da recusa de custeio dos materiais cirúrgicos indicados pelo médico que acompanha o recorrente, e o receio de dano irreparável ou de difícil reparação, evidenciado pela necessidade urgente da cirurgia para aliviar o sofrimento diário do agravante, impõe-se a reforma da decisão agravada, para que seja deferida, em grau recursal, a antecipação de tutela pleiteada, determinando-se que o plano de saúde autorize e custeie a realização de cirurgia boco-maxilo-facial, com o fornecimento dos materiais solicitados pelo profissional que acompanha o recorrente. 2. Agravo de instrumento provido. Agravo interno prejudicado.” (0036424-16.2016.8.07.0000, Relator: Arnoldo Camanho, 4ª Turma Cível, DJE: 27/03/2017).
+
+Em que pesem as alegações da agravada em sede de contrarrazões (ID 54535136), no sentido de que não restou evidenciada nenhuma situação de urgência ou emergência eis que se trata de procedimento eletivo, o caráter de urgência para a realização do procedimento cirúrgico foi expressamente consignado no relatório do profissional que acompanha a paciente. Confira-se: “Dessa forma, atesto que a paciente deve ser operada imediatamente, uma vez que apresenta dores nas ATMs, não responsivas ao tratamento medicamentoso, e que seus dentes já estão em posição própria para a cirurgia, que irá corrigir o problema da mordida (...)” (ID 175897763 dos autos originários).
+
+Constatada a presença dos requisitos da probabilidade do direito e do perigo de dano, a decisão da origem deve ser reformada.
+
+Necessário, finalmente, a fixação de astreintes, objetivando instar o devedor ao cumprimento da obrigação, razão pela qual determino à agravada, no prazo de 10 dias, autorizar o tratamento cirúrgico, pena de multa de R$ 1.000,00 ao dia.
+
+DOU PROVIMENTO ao agravo de instrumento para, deferindo o requerimento de antecipação dos efeitos da tutela formulado na origem, determinar que a agravada autorize, no prazo de 10 dias a contar da publicação do acórdão, o tratamento cirúrgico nos termos requeridos pelo profissional que acompanha a agravante, pena de multa de R$ 1.000,00 ao dia.
+
+É como voto.
+
+O Senhor Desembargador HECTOR VALVERDE SANTANNA - 1º Vogal Com o relatorO Senhor Desembargador ALVARO CIARLINI - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E PROVIDO, NOS TERMOS DO VOTO DO EMINENTE RELATOR. UNÂNIME.
