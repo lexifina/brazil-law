@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JONATA DOS SANTOS DE CARVALHO, em face do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se do autos que o recorrente foi preso preventivamente em razão do descumprimento de medidas protetivas anteriormente impostas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva ao fundamento de que: - que mesmo intimado das medidas protetivas de urgência o paciente no mesmo dia procurou a ofendida, enviando diversas mensagens via WhatsApp e diante da ausência de resposta dela ele passou a injuria-la, e ainda a ameaçou, referindo que "Tu vai me paga essa bobagem q tá fazendo". E o paciente não ficou apenas nas ameaças via mensagem, no dia posterior ele foi até a casa da vítima e lá permaneceu contra a vontade dela- fl. 87, e denegou a ordem, em acórdão de fls. 70-89.
+Neste recurso, postula, a defesa, em síntese, a revogação da prisão preventiva decretada em desfavor do recorr ente sustentando ausência de fundamentação idônea da decisão que decretou a segregação cautelar, defendendo que o recorrente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+No caso em tela, tenho que a decisão que decretou a prisão preventiva do ora recorrente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade concreta do agente e pelo fundado receio de reiteração delitiva pois descumpriu medidas protetivas anteriormente impostas:
+"Além disso, tem-se que no mesmo dia em que deferidas as medidas protetivas, o agressor já as violou, não só insistindo no contato com a vítima como, também, proferindo novas ameaças. Não bastasse, afirma a vítima, ainda, que na data de hoje o agressor invadiu sua casa, tendo fugido ao perceber que ela chamava a polícia" fl. 77.
+Conforme a orientação jurisprudencial do STJ, o descumprimento de medidas protetivas de urgência é considerado fundamento idôneo para a decretação da custódia cautelar (AgRg no HC n. 730.123/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 8/4/2022); (AgRg no HC n. 804.604/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/6/2023); (AgRg no HC n. 761.275/MG, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 24/4/2023);(AgRg no HC n. 770.169/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma , DJe de 31/3/2023.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se
+EMENTA
