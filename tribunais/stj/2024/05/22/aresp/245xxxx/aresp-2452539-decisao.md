@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por ANGELO MARIO DE NADAI JUNIOR em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. TAXAS CONDOMINIAIS. SUB-ROGAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DOCUMENTO DE QUITAÇÃO FORNECIDO PELO CONDOMÍNIO. PERÍODO DIVERSO. IMPRESTABILIDADE. 1. O instituto da sub-rogação (art. 346, CC) em síntese, é o cumprimento da obrigação por terceiro, com a consequente substituição do credor, ou seja, a dívida é paga por terceiro que passa a ter o direito sobre os recebíveis. 2.
+Malgrado o condomínio cedente tenha fornecido quitação dos débitos condominiais da unidade imobiliária do executado, esta se revela imprestável a amparar a exceção de pré-executividade, porquanto uma vez sub-rogado o crédito, o condomínio transferiu o controle acerca dos pagamentos das taxas condominiais no período de outubro/2017 a outubro/2018 à exequente, sendo-lhe vetado dar quitação ou receber valores referente ao período sub-rogado. 3. Ademais, o documento de quitação apresentado pelo executado traz a quitação das taxas condominiais no período de dezembro/2018 a outubro/2019, interstício diverso daquele em que a exequente sub-rogou-se no direito ao recebimento das taxas ora perseguidas. RECURSO CONHECIDO E PROVIDO." (e-STJ, fl.340)
+Opostos embargos de declaração, foram rejeitados.(e-STJ, fls. 356/363)
+Nas razões do recurso especial, a parte recorrente alega violação ao art. 290, do CC. Sustenta, em síntese, "o crédito já havia sido quitado 09 (nove) dias antes da citação no processo executivo, motivo pelo qual o recorrente/executado não detinha conhecimento acerca da cessão de crédito realizada e totalmente de boa-fé realizou o pagamento das contribuições condominiais diretamente ao Condomínio Evidence Office." (e-STJ, fl. 376)
+É o relatório. Decido.
+O recurso não merece prosperar.
+Verifica-se que o conteúdo normativo do art. 290, do CC não foi examinado pelo eg. Tribunal de origem, apesar da oposição de embargos de declaração na eg. Instância a quo.
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Com efeito, é de rigor a oposição de embargos de declaração e, se mesmo após o respectivo julgamento, o eg. Tribunal a quo permanecer omisso quanto às matérias que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 1.022 do CPC/2015, o que não ocorreu no caso em exame. Nesse panorama, o recurso especial, no ponto, esbarra no óbice da Súmula 211/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
