@@ -1,0 +1,43 @@
+DECISÃO
+
+    Tratam-se de pedidos de ingresso como “amicus curiae” formulados pela Associação dos Servidores da Justiça do Distrito Federal - ASSEJUS (Petição nº 119.429/2023), pelo Instituto de Estudos Previdenciários – IEPREV (Petição nº 123.829/2023), pela Confederação dos Trabalhadores no Serviço Público Federal – CONDSEF e a Federação Nacional dos Trabalhadores no Serviço Público - FENADSEF (Petição nº 125.352/2023), pela Federação Interestadual dos Servidores Públicos Municipais e Estaduais dos Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Maranhão, Minas Gerais, Paraná, Piauí, Roraima, Sergipe e Tocantins (Petição nº 131.930/2023), a Federação de Sindicatos de Trabalhadores Técnico-Administrativos em Instituições de Ensino Superior Públicas do Brasil – FASUBRA-SINDICAL (Petição nº 21.124/2024) e pela Federação Nacional dos Sindicatos de Trabalhadores em Saúde, Trabalho, Previdência e Assistência Social - FENASPS (Petição nº 49.662/2024).
+
+    A Associação dos Servidores da Justiça do Distrito Federal - ASSEJUS aduz, em suas razões, que “(...) a importância de participação da ASSEJUS, que constitui sociedade civil de natureza social, esportiva, cultural, com duração indeterminada e sem fins lucrativos, cuja história revela que desde 28/03/1979 defende os interesses de seus associados e suas associadas na capital brasileira. Mas a sua atuação não se restringe aos servidores do Judiciário, englobando, inclusive, os interesses gerais do PJU local e nacionalmente. (…) Não fosse o suficiente, o tema em apreço tem uma forte reverberação no escopo jurídico da categoria representada pela ASSEJUS, já que tem como objeto controvérsia cujos reflexos se irradiam cotidianamente no funcionalismo público, com efeitos financeiros evidentes na administração pública federal e nos seus servidores e servidoras.”.
+
+    O Instituto de Estudos Previdenciários – IEPREV sustenta, em síntese, que “O Tema epigrafado a controvérsia relativa ao exercício da autotutela administrativa para a supressão de vantagem pessoal, de trato sucessivo, incorporada aos proventos de servidora pública há mais de cinco anos, por erro da Administração, tendo em conta a garantia de irredutibilidade dos vencimentos e os princípios da segurança jurídica e da confiança legítima. Trata-se de debate jurídico da mais alta indagação e que produzirá impacto em milhares de outros processos que discutem a mesma situação fática. E é por conta do alcance da demanda que o INSTITUTO DE ESTUDOS PREVIDENCIÁRIOS – IEPREV pretende atuar como amicus curiae para o deslinde do feito a fim de que seja reconhecida a repercussão geral da demanda e possa, na sequência, apresentar a sua contribuição dialógica adicional.”.
+
+    A Confederação dos Trabalhadores no Serviço Público Federal – CONDSEF e a Federação Nacional dos Trabalhadores no Serviço Público - FENADSEF argumentam, em suma, que “Conforme estabelecido nos estatutos da CONDSEF e FENADSEF, tratam-se de entidades de representação sindical em grau superior, com abrangência nacional, de representação sindical das entidades de classes que congregam todos os servidores públicos e trabalhadores vinculados à administração direta, indireta, fundacional e autárquica dos poderes da União e das empresas públicas federais, tanto da ativa, quanto aposentados e pensionistas. (…) A entidades, ao se habilitarem como amici curiae nestes autos, o fazem em defesa da impossibilidade de, em decorrência da autotutela administrativa, efetivar-se a supressão de vantagem pessoal, de trato sucessivo, incorporada por erro da Administração aos proventos de servidora pública há mais de cinco anos.”.
+
+    A Federação Interestadual dos Servidores Públicos Municipais e Estaduais dos Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Maranhão, Minas Gerais, Paraná, Piauí, Roraima, Sergipe e Tocantins, em suas razões, defende que “Como Federação - entidade sindical de segundo grau -, a postulante atua em 12 (doze) estados da federação com forte presença nos campos da assessoria jurídica e político-sindical em favor dos servidores públicos municipais e estaduais.(…) Nessa condição a postulante demonstra sua vinculação temática sem, contudo, violar o requisito da imparcialidade3, haja vista que não se trata de atuação como substituto processual das partes diretamente interessadas. Dito de outro modo, a atuação da postulante visa contribuir com o julgamento do processo em uma dimensão mais ampla que o mero interesse dos servidores públicos vinculados ao processo de origem, oportunidade em que sua experiência como entidade sindical de base interestadual com registro no Ministério do Trabalho desde 2006 poderá ser muito bem aproveitada no debate processual desta ação.”.
+
+    A Federação de Sindicatos de Trabalhadores Técnico-Administrativos em Instituições de Ensino Superior Públicas do Brasil – FASUBRA-SINDICAL alega, em síntese, que “Assim sendo, considerando-se que a peticionante reúne todos os requisitos exigidos pela legislação de regência e pela jurisprudência sedimentada por esta Corte, a admissão da FASUBRA-SINDICAL no feito na qualidade de amicus curiae, com a concessão do exercício dos poderes processuais consectários, é medida que certamente contribuirá ao enriquecimento do debate a ser travado na Suprema Corte brasileira, fornecendo subsídios adicionais à definição da questão submetida a julgamento – sendo o que, desde já, se requer.”.
+
+    Por fim, a Federação Nacional dos Sindicatos de Trabalhadores em Saúde, Trabalho, Previdência e Assistência Social - FENASPS apregoa, resumidamente, que “Resulta daí, portanto, não só o inequívoco interesse desses servidores na intervenção no feito, mas também o interesse da entidade sindical ora requerente, na medida em que a ela cabe o exercício da prerrogativa prevista no art. 8º, III, da Carta da República, bem assim a obrigação de representar esses servidores, a teor dos seus estatutos sociais. Neste sentido, aliás, cumpre realçar que de há muito a jurisprudência tem se firmado no sentido de assegurar às entidades sindicais a legitimidade para a veiculação de interesses coletivos ou individuais homogêneos da categoria representada (…).”.
+
+    É o relatório. Decido.
+
+    Nos termos do art. 138 do CPC “O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação.”
+
+    O “amicus curiae”, em uma tradução literal, se constitui em um “amigo da corte”, um terceiro que ingressa no processo para fornecer ao órgão jurisdicional sua opinião sobre a causa, sobretudo nas questões técnicos-jurídicas de maior complexidade. Pode ser pessoa natural ou jurídica, e até mesmo um órgão ou entidade sem personalidade.
+
+    A natureza mesma do citado instituto lhe confere elevada importância, na medida em que pluraliza o debate constitucional, viabiliza a multiplicidade de argumentos, perspectivas e visões sobre a questão em debate e gera legitimidade democrática à decisão da Corte.
+
+    O deferimento de ingresso de “amicus curiae” pressupõe a demonstração dos requisitos da representatividade adequada e da relevância da matéria, especificidade do tema objeto da demanda ou repercussão social da controvérsia, além de o pedido ter sido formulado anteriormente à liberação dos autos para inclusão em pauta de julgamento. Reputo presentes tais requisitos.
+
+    Ante o exposto, defiro os pedidos de ingresso no feito, na qualidade de “amicus curiae”.
+
+    Ainda, nos termos do art. 138, § 2º, do CPC, faculto-lhes a a possibilidade de apresentação de memoriais e de sustentar oralmente as suas razões (art.131, § 3º, do RISTF).
+
+    Ademais, cabe registrar que os “amici curiae” deverão observar os termos da Emenda Regimental 53/2020, das Resoluções STF 669/2020 e 672/2020, e ainda o art. 131, § 5º, do RISTF que dispõe que “Os advogados e procuradores que desejarem realizar sustentação oral por videoconferência, nas sessões presenciais de julgamento do Plenário e das Turmas, deverão inscrever-se, utilizando o formulário eletrônico disponibilizado no sítio eletrônico do Supremo Tribunal Federal até 48 horas antes do dia da sessão”.
+
+    À Secretaria Judiciária para que proceda as anotações pertinentes.
+
+    Publique-se.
+
+Brasília, 22 de maio de 2024.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
