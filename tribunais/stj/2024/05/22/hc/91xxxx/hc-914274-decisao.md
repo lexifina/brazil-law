@@ -1,0 +1,13 @@
+DECISÃO
+ALEXANDRE ARAÚJO BRANDÃO alega sofrer coação ilegal diante de acórdão prolatado pelo Tribunal de Justiça do Estado do Amazonas.
+A defesa busca o reconhecimento da tempestividade de embargos de declaração opostos contra acórdão de apelação e requer a admissão do recurso integrativo pelo Tribunal de Justiça. Alega que as intimações podem ser recebidas pelo portal, manualmente pelo usuário, ou de forma automática, pelo sistema e-SAJ, e se concretizam no prazo de 10 dias após disponibilização, por expiração do prazo de consulta.
+No caso, "o acórdão de apelação foi publicado no dia 1º de fevereiro de 2024 (quinta-feira), conforme certidões de fls. 608 e 616 dos autos n. 0239908-17.2008.8.04.0001" e, "após se contar os 10 (dez) dias de prazo de leitura (consulta) certo é que a intimação do acórdão ocorreu no dia 12 de fevereiro de 2024 (segunda-feira)". Assim, "considerando os dois dias de prazo legal, a oposição dos embargos de declaração no dia 14 de fevereiro de 2024 satisfaz o requisito de admissibilidade por tempestividade" (fl. 6).
+Decido.
+O habeas corpus não é meio hábil para discussão de questão processual relativa a pressuposto de admissibilidade recursal. Inviável a impetração, pois não se verifica indicação de flagrante ilegalidade atentatória a direito de locomoção.
+A controvérsia é sobre a forma de intimação e seus normativos próprios, contagem de prazo e tempestividade dos embargos de declaração, com lastro em alegações nem sequer ventiladas na origem (em novos embargos de declaração).
+Trata-se de discussão meramente processual e a ação constitucional "não é meio hábil para discutir questões alheias à liberdade de locomoção, tais como tempestividade ou ausência dos pressupostos de admissibilidade recursal de outro tribunal. Precedentes" (STF, HC n. 202.958 AgR, Rel. Ricardo Lewandowski, 2ª T., DJe 6/8/2021, destaquei).
+Consideradas as devidas adaptações, esta Corte é firme em assinalar que o uso da garantia constitucional "com o desiderato único e exclusivo de (re)discutir os pressupostos de admissibilidade dos recursos ditos extraordinários não encontra guarida na legislação de regência, tampouco o é autorizado pela jurisprudência, tanto desta Corte quanto do Supremo Tribunal Federal (AgRg no HC n. 438.020/RN, Sexta Turma, Ministro Antonio Saldanha Palheiro, DJe 9/4/2018)" (AgRg no HC n. 793.516/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 10/3/2023).
+Deveras, "o habeas corpus não é meio hábil para discutir questão processual relativa a pressuposto de admissibilidade de recurso" (AgRg no HC n. 815.126/SE, relator Ministro Rogerio Schietti, 6ª T., DJe 3/11/2023).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
