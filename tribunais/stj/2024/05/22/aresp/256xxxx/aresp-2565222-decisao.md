@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - RECUPERAÇÃO JUDICIAL - CRÉDITO DECORRENTE DE "CONTRATO DE ABERTURA DE CRÉDITO BB GIRO EMPRESA FLEX" - NATUREZA CONCURSAL - FATO GERADOR ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL - EXTINÇÃO DA EXECUÇÃO INDIVIDUAL NO TOCANTE AO DEVEDOR PRINCIPAL - RESP 1.843.332 (TEMA 1051) - INSTRUMENTO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA - ART. 49, § 3º, DA LEI Nº 11.101/05 - INAPLICABILIDADE NO CASO - LITIGÂNCIA DE MÁ-FÉ -INOCORRÊNCIA. Nos termos do art. 49, da Lei Federal 11.101/05, "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos". O Superior Tribunal de Justiça no julgamento do REsp 1.843.332, submetido ao rito dos recursos repetitivos, fixou a tese de que "para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador". Considerando que, no caso dos autos, o fato gerador ocorreu antes do pedido de recuperação judicial, o crédito discutido deve se submeter aos efeitos da referida recuperação. Afasta-se a aplicação indiscriminada da previsão contida no § 3º do citado art. 49, da Lei de Recuperação Judicial e Falência, mormente porque a cláusula de alienação fiduciária de bem móvel não é motivo suficiente para se realizar a constrição de bens que não foram ofertados como garantia. Logo, tais condições reclamam a extinção do cumprimento de sentença em relação ao devedor principal, com fulcro no art. 485, IV, do CPC.
+Para configuração da litigância de má-fé, além da necessidade da conduta se enquadrar em uma das hipóteses taxativas do art. 80, do CPC, deve e ser demonstrada a existência do dolo ou culpa da parte.
+Alegou-se, no especial, violação do artigo 59 da Lei 11.101/05 sob o argumento de que a recuperação judicial enseja a novação do débito e impede a perseguição em face dos garantes.
+Assim delimitada a controvérsia, passo a decidir.
+A recorrente opôs embargos de declaração em face do acórdão de agravo de instrumento defende que, "em que pese as ponderações do julgado, e a extinção do cumprimento de sentença em face da empresa agravada, em contrassenso, fora determinando o prosseguimento da ação em relação a coobrigada contratual, Sra. Cinara Santos Andrade" (e-STJ, fl. 450).
+É, portanto, contra o prosseguimento do cumprimento de sentença em face da garante do crédito que se insurge a recorrente.
+Não bastasse, entretanto, a duvidosa legitimidade da recorrente e seu questionável interesse em demandar contra o prosseguimento da cobrança do título em face de garante, esta Corte tem firme entendimento de que a recuperação judicial não impede a perseguição do crédito em face daqueles que prestaram garantia fidejussória ou real.
+A saber:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À AÇÃO MONITÓRIA. EMPRESA EM SITUAÇÃO DE CRISE. AUSÊNCIA DE INTERESSE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. JUÍZO CÍVEL E JUÍZO DA RECUPERAÇÃO JUDICIAL. CRÉDITO ANTERIOR. APLICAÇÃO DOS VERBETES 480 E 581 DA SÚMULA DO STJ.
+1. Falece à agravante interesse na reforma da decisão que rejeitou o recurso integrativo da parte adversa.
+2. "O juízo da recuperação não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa" (Súmula 480/STJ).
+3. "A recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória" (Súmula 581/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.464.739/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Inequívoca, pois, a incidência dos verbetes n. 7 e 83 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
