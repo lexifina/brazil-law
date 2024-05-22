@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto pela ASSOCIAÇÃO DE ENSINO SUPERIOR DE NOVA IGUAÇU contra decisão que conheceu do conflito e declarou competente o Juízo de Direito da 2ª Vara Cível de Jandira/SP, ora suscitante, para o processamento do feito (fls. 61-64).
+Nas razões do agravo, alega a Associação, em síntese, que (fl. 72):
+ ..  além do evidente equí voco no julgado ao fixar a competência para a Justiça Estadual, há expressa divergência do presente julgado e, com isso, dissonância do entendimento fixado pelo Supremo Tribunal Federal, em vários julgados, fixou entendimento quanto a competência da Justiça Federal para dirimir questões envolvendo instituição de ensino superior privada, porquanto integra o Sistema Federal de ensino, conforme a Lei de Diretrizes e Bases da Educação.
+Pugna, assim, pela reconsideração da decisão agravada ou pela apresentação do recurso para a análise do Órgão Colegiado, a fim de "determinar a remessa dos autos para a Justiça Federal em razão da competência" (fl. 113).
+Intimada, a parte agravada deixou de apresentar impugnação (fl. 342).
+É o relatório. Decido.
+Colho dos autos que se trata de ação declaratória proposta pela parte autora objetivando "a anulação do ato praticado pela requerida UNIG, que cancelou de forma retroativa o registro de seu diploma, e, por consequência, seja declarada a validade do respectivo documento" (fl. 55).
+Quanto ao tema, o Supremo Tribunal Federal, no julgamento do RE n. 1.304.964/SP, sob o rito da repercussão geral, Tema n. 1154/STF, consolidou entendimento de que "compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+Nesse sentido, os seguintes julgados desta Corte:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. AÇÃO PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR. DECLARAÇÃO DE VALIDADE DE DIPLOMA. TEMA 1.154/STF. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITOS MODIFICATIVOS.
+I - Trata-se de embargos de declaração opostos contra acórdão que negou provimento a agravo interno interposto contra decisão que, no âmbito de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara Cível de Birigui/SP e o Juízo Federal da 2ª Vara de Araçatuba - SJ/SP, nos autos de ação movida por particular contra instituições privadas de ensino superior, objetivando a regularização de registro de diploma, declarou competente o Juízo estadual.
+II - O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 1.304.904/SP, submetido à sistemática da repercussão geral, estabeleceu a compreensão de que compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização (Tema n. 1.154).
+III - Nesse panorama, recentemente, o STJ aderiu ao entendimento prestigiado pelo STF, passando a deliberar sobre a competência do Juízo federal para apreciação das demandas concernentes à expedição de certificados por entidades de ensino superior.
+IV - Evidenciada que a hipótese dos autos, que discute a validade de diploma, é análoga ao respectivo precedente da Suprema Corte, compete ao Juízo federal solucionar a lide.
+V - Embargos de declaração acolhidos. (EDcl no AgInt no CC n. 178.566/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 22/3/2023, DJe de 24/3/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. REGISTRO DE DIPLOMA DE CURSO SUPERIOR. RE 1.304.964/SP. REPERCUSSÃO GERAL (TEMA 1.154/STF).
+1. O Pleno do Supremo Tribunal Federal, nos autos do RE 1.304.964/SP, Rel. Min. Luiz Fux, em Repercussão Geral consolidou a tese segundo a qual "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+2. Embargos de declaração acolhidos, com efeitos infringentes, para declarar competente o Juízo Federal da 6ª Vara de Guarulhos - SJ/SP, o suscitante.
+(EDcl no AgInt no CC n. 178.235/SP, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 12/4/2023, DJe de 29/5/2023.)
+Nesse contexto, o caso em exame é idêntico, devendo, pois, receber a mesma solução jurídica acerca da fixação do juízo competente para o julgamento da presente demanda.
+Ante o exposto, nos termos do art. 259 do RISTJ, RECONSIDERO a decisão de fls. 61-64, para CONHECER do conflito de competência e DECLARAR competente o Juiz Federal da 1ª Vara de Barueri - SJ/SP, ora suscitado.
+Comunique-se, com urgência, os juízes suscitante e suscitado acerca da presente decisão.
+Cientifique-se o MPF.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. JUÍZOS ESTADUAL E FEDERAL. AÇÃO PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR. DECLARAÇÃO DE VALIDADE DE DIPLOMA. TEMA N. 1.154/STF. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUIZ FEDERAL DA 1ª VARA DE BARUERI - SJ/SP, ORA SUSCITADO.
