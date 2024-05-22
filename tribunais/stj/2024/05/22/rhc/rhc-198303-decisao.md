@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FRANCISCO JOCELIO MOREIRA DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende-se dos autos que o Recorrente se encontra preso, cautelarmente, pela suposta prática dos delitos previstos nos -arts. 33 e 35 da Lei nº 11.343/06 e art. 14, da Lei nº 10.826/03, art. 2ª da Lei 12.850 e art. 329 do CP- (fl. 70). Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 68-78).
+Na hipótese, a Defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Recorrente, aduzindo ausência de fundamentação para a segregação cautelar.
+Argumenta que:
+" .. o Paciente é primário, sem registros criminais em seus antecedentes criminais, não se visualizando, portanto, traços de periculosidade que faça antever ameaçada a ordem pública, a instrução criminal e a aplicação da lei penal" (fl. 94).
+Requer:
+"a) Considerando os requisitos autorizadores do provimento liminar, quais sejam a insuficiente motivação do decisum a justificar tão drástica medida, ainda mais diante da fundamentação genérica e ilegal, bem como o periculum in mora7, requer a CONCESSÃO DA MEDIDA LIMINAR pleiteada com a expedição do ALVARÁ DE SOLTURA para que possa o paciente FRANCISCO JOCELIO MOREIRA DOS SANTOS ter restituída sua liberdade;
+b) Alternativamente, em atenção ao Princípio da Proporcionalidade, requer a substituição da medida de prisão, pelas medidas cautelares previstas no artigo 319 do Código de Processo Penal;
+c) Quanto ao MÉRITO, requer a confirmação da liminar pleiteada e seja, ao final, julgado PROCEDENTE com a CONCESSÃO DA ORDEM DE HABEAS CORPUS para que seja revogado o decreto de prisão preventiva" (fl. 104).
+É o relatório. DECIDO.
+Pretende o Recorrente o reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a sua prisão cautelar.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, tendo em vista a gravidade concreta das condutas, supostamente, perpetradas pelo Recorrente; mormente, considerando que ele integraria o grupo criminoso, ""MASSA", facção conhecida no Estado, responsável pela consecução de diversos crimes graves, dentre eles tráfico de drogas, porte ilegal de arma de fogo, crimes dolosos contra vida, entre outros".
+No ponto, consta no acórdão hostilizado:
+"O fumus comissi delicti restou comprovado enquanto provável ocorrência de um delito e pressuposto de qualquer medida cautelar coercitiva no processo penal, razão pela qual a autoridade tida como coatora apontou na decisão guerreada a existência de indícios de autoria e a prova da materialidade delitiva combase no auto de prisão em flagrante (fls. 01/02) e o Auto de Apreensão, em que foram descritos os objetos apreendidos quando do flagrante: 63 (sessenta e três) vidros de lança perfume; 05 (cinco) gramas de crack, dividido em várias pedrinhas; 115 (cento e quinze) gramas de pó branco, possivelmente cocaína; um revólver calibre 38, Taurus, nº de série: 1F89225, municiado com cinco munições intactas; 10 (dez) munições calibre 38; 13 (treze) caixas de rojão fogos de artifício;100 (cem) ligas; R$ 140,00 (cento e quarenta) reais em espécie. Além disso, cita-se o laudo provisório de constatação de substância entorpecente (fl. 24, 25 e 26), apreendida no interior da casa apontada pelos autuados, dessa forma está caracterizada a prova do crime de tráfico de drogas.
+ ..
+Compulsando os autos, verifico a presença de delitos graves, tendo em vista que há indícios de que o paciente integre a organização criminosa "MASSA", facção conhecida no Estado, responsável pela consecução de diversos crimes graves, dentre eles tráfico de drogas, porte ilegal de arma de fogo, crimes dolosos contra vida, entre outros. Desse modo, a soltura de indivíduos que integram esse tipo de organização ocasiona ameaça notória a ordem pública, pondo em cheque a paz social que deve permear um Estado Democrático de Direito" (fls. 72- 73).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo"" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades" (RHC 123.145/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/02/2020).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
