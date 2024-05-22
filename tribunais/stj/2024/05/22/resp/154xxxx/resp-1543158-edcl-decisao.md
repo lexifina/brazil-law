@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos TRIZA PARTICIPAÇÕES LTDA. contra decisão proferida pela Exma. Ministra Assusete Magalhães, por meio da qual se conheceu parcialmente do recurso especial, e nessa extensão, negou-se provimento ao apelo nobre (fls. 1079-1084).
+Nas razões do embargos, argumenta-se que a decisão embargada foi omissa quanto aos argumentos da petição de fls. 772-783, nos quais se aventou tese de julgamento extra petita e a superveniência de elementos demonstrando que "a ação civil pública, de onde partiu o arresto, não levará os lá supostos devedores à insolvência, nem possuem eles tal qualidade" (fls. 1090).
+Contrarrazões às fls. 1119-1125.
+É o relatório. Decido.
+Constata-se que os temas constante na petição de fls. 772-783 não foram analisados na decisão embargada, razão pela qual passo a sanar a omissão.
+O peticionante alegou que a decisão do Tribunal do origem seria extra petita e que houve a superveniente demonstração de ausência de insolvência.
+Todavia, os referidos temas não foram objeto de discussão no acórdão recorrido nem foram adequadamente articulados no momento da interposição do recurso especial. Desse modo, verifica-se flagrante tentativa de inovação recursal em tema que sequer foi prequestionado, o que é inadmissível.
+Ressalte-se que a prévia discussão dos temas controvertidos pela instâncias antecedentes é requisito essencial para o conhecimento do recurso especial, exigindo-se o prequestionamento mesmo em matérias de ordem pública ou fato novo.
+Nesse sentido:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. PENHORA. OFERECIMENTO ANTERIOR DE GARANTIA. ORDEM LEGAL DE PENHORA. ART. 11 DA LEI N. 6.830/1980. ART. 835 DO CPC. EXECUÇÃO FEITA NO INTERESSE DO CREDOR. AUSÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA MENOR ONEROSIDADE. RECURSO ESPECIAL DA FAZENDA NACIONAL PROVIDO. AGRAVO INTERNO. TESE DE NULIDADE POR AUSÊNCIA DE INTIMAÇÃO NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DE ORDEM PÚBLICA NÃO PRESCINDE DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+ ..
+V - Quanto à alegação de nulidade por ausência de intimação, observa-se que a matéria não foi enfrentada pela origem, impossibilitando seu conhecimento no STJ pela via do recurso especial, pelo que carece o recurso do indispensável requisito do prequestionamento, fundamental para a interpretação normativa exigida. Incide, na hipótese, por analogia, o óbice constante da Súmula n. 282 do STF.
+VI - A alegação de tratar-se de matéria de ordem pública não supera o referido óbice, porquanto a jurisprudência do STJ orienta-se no sentido de que, mesmo os temas que se revestem de tal característica, dependem de prequestionamento. Precedentes.
+VII - O recorrente não opôs embargos de declaração na origem, tampouco recurso especial - ainda que adesivo - impugnando a ausência de pronunciamento quanto à nulidade da intimação. Incide, por analogia, a Súmula n. 356 do STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+VIII - A gravo interno improvido. (AgInt no REsp n. 1.920.682/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/4/2024, DJe de 12/4/2024, sem grifos no original)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FATO SUPERVENIENTE. EXAME. INVIABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JUÍZO DE CASSAÇÃO. EXAME DE MÉRITO. IMPOSSIBILIDADE.
+1. A jurisprudência desta Corte de Justiça entende não ser possível o exame de fato novo suscitado exclusivamente na instância especial ante a ausência do requisito constitucional do prequestionamento e sob pena de supressão de instância (EDcl no AgInt no REsp 1.739.484/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 08/03/2021, DJe 11/03/2021).
+2. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+3. A alegação de violação do art. 1.022 do CPC busca o juízo de cassação do aresto recorrido, mediante a nulidade da decisão judicial impugnada.
+4. Hipótese em que o apelo raro interposto pela ora agravante limitou-se a invocar a nulidade do acórdão recorrido por negativa de prestação jurisdicional (violação do art. 1.022, II e III, do CPC/20 15), de modo que os pontos relativos à eventual divergência do acórdão recorrido com a decisão de afetação do REsp 1.937.887/RJ e ofensa à coisa julgada constituem alegações que não convergem para o delimitado naquela peça recursal.
+5. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 2.023.723/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Reitere-se, ademais, a conclusão da decisão impugnada no sentido de que:
+Com efeito, verifica-se que o Tribunal de origem, ao decidir a controvérsia, concluiu que, "ao lado do conhecimento do processo e da situação da empresa, a permitir a ilação de má fé na alienação, o conhecimento prévio dos envolvidos e a dispensa das certidões usuais (veja-se a escritura, fls. 46) é prova suficiente da negligência a justificar a improcedência dos embargos" (fl. 578e).
+Desse modo, a alteração do entendimento do Tribunal de origem, ensejaria, inevitavelmente, o reexame das provas carreadas nos autos, procedimento vedado, pela Súmula 7 desta Corte. (Fl. 1083, sem grifos no original).
+Ante o exposto, ACOLHO os embargos de declaração, sem efeitos modificativos, apenas para esclarecer os pontos supracitados.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. OMISSÕES NA DECISÃO EMBARGADA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
