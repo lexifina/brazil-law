@@ -1,0 +1,47 @@
+DECISÃO
+Vistos.
+Trata-se de Reclamação proposta por LAERCIO LUIS MASTELLI, com fundamento nos arts. 105, I, f, da Constituição da República, 988 e seguintes do Código de Processo Civil de 2015 e 187 do Regimento Interno desta Corte, em face de decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que não conheceu do agravo interno interposto em face da decisão de admissibilidade do recurso especial (fls. 1586e).
+Defende a possibilidade de aplicação do princípio da fungibilidade recursal, de modo que o primeiro agravo interno equivocadamente interposto pudesse ser remetido ao STJ como agravo em recurso especial.
+Aponta estar o acórdão recorrido contrariando a orientação já pacificada acerca do alcance da prova testemunhal na ampliação do período de abrangência dos documentos apresentados.
+É o relatório. Decido.
+A Reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação da Lei n. 13.256/2016), constitui ação destinada à preservação de sua competência (inciso I), a garantir a autoridade das decisões do Superior Tribunal de Justiça (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+A reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação da Lei n. 13.256/2016), constitui ação destinada à preservação da competência do Superior Tribunal de Justiça (inciso I), a garantir a autoridade de suas decisões (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+No caso, o Reclamante defende o acolhimento da pretensão porquanto o Tribunal de origem teria equivocadamente decidido sobre o cabimento da interposição de Agravo em Recurso Especial.
+Contudo, da análise do autos verifico que a controvérsia é diversa.
+O reclamante apresenta reclamação em face da decisão do Tribunal de origem que não conheceu do agravo interno interposto em face da decisão de admissibilidade negativo do recurso especial, defendendo a possibilidade de aplicação do princípio da fungibilidade recursal.
+O recurso especial interposto pelo ora reclamente foi negado no Tribunal de origem em razão da incidência da Súmula 7/STJ. Ocorre que contra a decisão foi manejado Agravo Interno, com fundamento no art. 1.021 do CPC (fls. 137/143e).
+Desse modo, o Tribunal de origem não conheceu do recurso, por configurar erro grosseiro.
+De fato, a negativa de admissibilidade teve fundamento relacionado, tão somente, à sistemática dos recursos repetitivos, na forma do art. 1.030, V, do CPC, de modo que o único recurso cabível é o agravo em recurso especial, consoante art. 1.030, § 1º, do CPC.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AGRAVO DO ART. 1.042 DO CPC. EQUÍVOCO. FUNGIBILIDADE. CONFIGURAÇÃO. AUSÊNCIA. ERRO GROSSEIRO.
+1. Na hipótese, a parte interpôs o agravo em recurso especial, insurgindo-se contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial.
+2. Nos termos dos arts. 1.030, § 1º, e 1.042 do Código de Processo Civil, o agravo em recurso especial somente é cabível contra a decisão singular do presidente ou do vice-presidente do tribunal recorrido que não admite o recurso especial ou o recurso extraordinário.
+3. A interposição equivocada de recurso diverso daquele expressamente previsto em lei, quando ausente dúvida objetiva, constitui manifesto erro grosseiro a inviabilizar a aplicação do princípio da fungibilidade. Precedente.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.362.916/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26.2.2024, DJe de 1.3.2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. NOVA INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO ESPECIAL INADMITIDO, NA ORIGEM, COM BASE NO ART. 1.030, I, B, DO CPC/2015. PREVISÃO DE AGRAVO INTERNO, NO PRÓPRIO TRIBUNAL DE ORIGEM (ART, 1.030, § 2º, CPC/2015). INTERPOSIÇÃO DE AGRAVO PARA O STJ. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO. PRECEDENTES DO STJ. DUPLO FUNDAMENTO PARA INADMISSÃO DO RECURSO ESPECIAL. MATÉRIA JULGADA SOB O RITO REPETITIVO E PRESSUPOSTOS DE ADMISSIBILIDADE. INTERPOSIÇÃO SIMULTÂNEA DO AGRAVO INTERNO E DO ARESP. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à incidência da Súmula 182/STJ -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+III. Nos termos do art. 1.030, § 2º, do CPC/2015, não cabe Agravo em Recurso Especial, dirigido ao STJ, contra decisão que, na origem, nega seguimento a Recurso Especial, com fundamento no art. 1.030, I, b, do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por Agravo interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em Recurso Especial representativo da controvérsia. Nesse sentido: STJ, AgInt no AREsp 1.035.517/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017; AgInt no AREsp 967.166/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/10/2017; AgInt no AREsp 1.010.292/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/04/2017; AgInt no AREsp 951.728/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 07/02/2017.
+IV. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, por se tratar de erro grosseiro, de vez que, na data da publicação da decisão que não admitira o Recurso Especial, já havia expressa previsão legal para o recurso cabível (art. 1.030, I, b, e § 2º, do CPC/2015), afastando-se, por conseguinte, dúvida objetiva acerca do recurso adequado.
+V. Nos termos da jurisprudência do STJ, "a interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno" (STJ, AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/08/2016).
+VI. "Diante da dupla natureza da fundamentação constante do juízo de admissibilidade, o procedimento adequado a ser adotado pela parte insurgente seria a interposição simultânea de agravo interno, suscitando eventual equívoco na aplicação do recurso repetitivo, e de agravo em recurso especial, para infirmar os demais fundamentos que levaram à inadmissão do apelo nobre (AgInt no AREsp.
+1.485.946/RS, Quarta Turma, DJe 26.11.2019)" (STJ, AgInt nos EDcl no AREsp 1.635.935/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 21/10/2020), o que não ocorreu, na espécie.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 1.950.777/RO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29.5.2023, DJe de 1.6.2023).
+Desse modo, não se verifica a usurpação de competência desta Corte quando o agravo, obstado na origem, é manifestamente incabível, como espelham os seguintes precedentes:
+AGRAVO INTERNO NA RECLAMAÇÃO. RECURSO ESPECIAL. INADMISSÃO. TESE REPETITIVA. AGRAVO EM RECURSO ESPECIAL INCABÍVEL. COMPETÊNCIA DO STJ. USURPAÇÃO. INEXISTÊNCIA.
+1. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no artigo 1.030, inciso I, alínea "b" ou no artigo 1.040, inciso I, do Código de Processo Civil, o único recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento. A interposição do agravo previsto no artigo 1.042 do Código de Processo Civil nesses casos caracteriza-se como erro grosseiro.
+2. Não se verifica usurpação de competência deste Tribunal Superior quando o agravo, obstado na origem, é manifestamente incabível, motivo pelo qual não se admite o manejo da via reclamatória.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt na Rcl n. 44.487/MS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/6/2023, DJe de 23/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DE REPETITIVO. AFRONTA À COMPETÊNCIA DO STJ. INEXISTÊNCIA. DECISÃO MANTIDA.
+1. "Não se verifica usurpação de competência deste Tribunal Superior quando o agravo, obstado na origem, é manifestamente incabível, razão pela qual não se admite o manejo da via reclamatória.
+Precedentes" (AgInt na Rcl 35.666/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 23/5/2018, DJe 28/5/2018).
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 38.845/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 18/8/2020, DJe de 21/8/2020.)
+Posto isso, nos termos do art. 34, XVIII, a, do Regimento Interno desta Corte, NÃO CONHEÇO da Reclamação.
+Após as formalidades legais, arquivem-se os autos.
+Publique-se e intimem-se.
+EMENTA
