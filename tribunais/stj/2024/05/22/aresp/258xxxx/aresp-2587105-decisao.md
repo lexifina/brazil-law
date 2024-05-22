@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por CARLOS MAGNO BARBOSA PEREIRA e DAYANE MENDES DE FARIA LIMA em face da decisão que, em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 177, e-STJ):
+AGRAVO DE INSTRUMENTO - JUSTIÇA GRATUITA - LITISCONSÓRCIO ATIVO - PESSOAS FÍSICAS - NECESSIDADE DE COMPROVAÇÃO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO - HIPOSSUFICIÊNCIA NÃO DEMONSTRADA - MANUTENÇÃO DO INDEFERIMENTO DO BENEFÍCIO.
+- A Constituição em seu artigo 5º, LXXIV assegura a assistência jurídica gratuita quando comprovada a insuficiência de recursos. Congruente com a norma constitucional o artigo 99, §2º do CPC.
+-Inexistentes nos autos elementos capazes de demonstrar a condição de hipossuficiência financeira declarada, a manutenção do indeferimento do benefício da justiça gratuita é medida impositiva.
+Opostos embargos de declaração (fls. 189/196), estes foram rejeitados (fls. 224/232, e-STJ).
+Nas razões do recurso especial (fls. 235/249, e-STJ), os insurgentes alegam violação aos artigos 98, §§ 1º, 6º e 99, §§ 2º, 3º, 4º e 6º do Código de Processo Civil. Sustentam, em suma, preencher os requisitos legais para a concessão da assistência judiciária gratuita, direito supostamente negado pelo Tribunal de origem.
+Sem contrarrazões (fl. 253, e-STJ).
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 254/256, e-STJ), dando ensejo à interposição do presente agravo (fls. 280/285, e-STJ), por meio do qual a parte agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Sem contraminuta (fl. 259, e-STJ).
+É o relatório.
+Decide-se.
+A pretensão não merece prosperar.
+1. Na hipótese, o Tribunal local entendeu não estarem reunidos os requisitos necessários para a concessão da assistência judiciária gratuita, in verbis:
+Na espécie, constata-se a impossibilidade de concessão do benefício em questão. Observa-se que o 1º Agravante, CARLOS MAGNO BARBOSA PEREIRA, se qualifica como "engenheiro mecânico", cujos ganhos anuais lhe renderam o total bruto tributável de R$ 39.584,36 (trinta e nove mil quinhentos e oitenta e quatro reais e trinta e seis centavos) (ordem 31). Além disso, a situação de capacidade financeira restou corroborada pelo seu imposto de renda remissivo ao exercício de 2022 (ordem 31), no qual informou ser titular de bens e direitos avaliados em R$ 162.000,00 (cento e sessenta e dois mil reais). Do mesmo modo, inviável o deferimento do benefício à 2ª Agravante, DAYANE MENDES DE FARIA LIMA, pois os documentos juntados aos autos não se prestam para comprovar a renda efetivamente auferida, sobretudo porque emitidos pelo próprio 1º Agravante, na função de sócio administrador do estabelecimento no qual presta serviços (ordens 26 e 32). Por fim, cabe acrescentar que, como se cuida de litisconsórcio, as despesas processuais e eventual condenação sucumbencial poderão ser rateadas, razão pela qual resta minorada, de maneira significativa, qualquer possível impacto de tal dispêndio no universo financeiro dos litigantes (fls. 184/185, e-STJ).
+Destarte, derruir as conclusões do Tribunal a quo para se chegar a outro entendimento demandaria reanálise do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. AUSÊNCIA DE AFRONTA AO ART. 1.022, II, DO CPC/2015. DECISÃO MANTIDA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DOMINANTE DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. PROVA DA INSUFICIÊNCIA DE RECURSOS. REVISÃO. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022, II, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Conforme a jurisprudência do STJ, a concessão do benefício de gratuidade da justiça à pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos.
+3. O direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com os encargos processuais. Precedentes.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ e é entendimento dominante acerca do tema (Súmulas n. 83 e 568 do STJ).
+5. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+6. No caso concreto, o Tribunal de origem analisou as provas dos autos para indeferir o pedido de justiça gratuita. Alterar tal conclusão é inviável em recurso especial.
+7. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.404.028/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024). Grifou-se.
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. HIPOSSUFICIÊNCIA FINANCEIRA NÃO COMPROVADA. REANÁLISE DE PROVA SÚMULA N. 7/STJ. DISPOSITIVO APONTADO POR VIOLADO NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. DAS SÚMULAS N. 282 E 356 DO STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. O Tribunal de origem concluiu que a parte autora não fez prova nos autos de que preenche os requisitos para a concessão da assistência judiciária gratuita.
+2. Para alterar as conclusões adotadas pela Corte de origem, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+3. Não houve o prequestionamento dos arts. 3º, e 369, do CPC, uma vez que não foi examinado pela Corte de origem. Incidência das Súmulas 282 e 356 do STF.
+4. Se a parte recorrente entendesse haver algum vício no acórdão impugnado, deveria ter apresentado embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. Caso persistisse tal omissão, seria imprescindível a alegação de violação do art. 1.022 do CPC, por ocasião da interposição do recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidência do intransponível óbice da ausência de prequestionamento.
+Incide no caso o disposto nas Súmulas n. 282 e 356 do STF.
+5. É pacífico o entendimento desta corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.365.401/RO, relator Ministro Humberto Martins, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.) Grifou-se.
+Portanto, inafastável a incidência da Súmula 7 do STJ.
+2. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal. Precedentes: AgR g no AREsp 646.141/ES, Relator o Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10.3.2015, DJe 13.3.2015; REsp n. 765.505/SC; Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7.3.2006, DJ 20.3.2006; REsp 1011849/RS, Relator o Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 23.6.2009, DJe 3.8.2009.
+3. Ante o exposto, com amparo no art. 932 do CPC/2015 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
