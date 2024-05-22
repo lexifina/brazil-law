@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUCILENE DE PADUA DUTRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - DECISÃO QUE RECEBEU OS EMBARGOS À EXECUÇÃO OPOSTOS PELA EXECUTADA, SEM ATRIBUIÇÃO DE EFEITO SUSPENSIVO - INSURGÊNCIA DA EXECUTADA - NÃO COMPROVAÇÃO DOS REQUISITOS QUE AUTORIZAM A SUSPENSÃO DA EXECUÇÃO  EXECUÇÃO NÃO GARANTIDA - INTELIGÊNCIA DO ART. 919, §1º, DO CPC - AINDA, NÃO SE VISLUMBRA A PROBABILIDADE DO DIREITO ALEGADO - CONSTATADA A LIQUIDEZ DO TÍTULO EXEQUENDO - POSSIBILIDADE DE AVANÇO DA MARCHA EXECUTIVA NÃO AUTORIZA, POR SI SÓ, O SOBRESTAMENTO DA EXECUÇÃO - EFEITO SUSPENSIVO CORRETAMENTE INDEFERIDO - DECISÃO MANTIDA - RECURSO DESPROVIDO (fl. 49).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 300 e 919, § 1º, do CPC, no que concerne à necessidade de atribuição de efeito suspensivo aos embargos à execução, em razão do preenchimento dos requisitos legais para a suspensão, trazendo a seguinte argumentação:
+21. Em sede de embargos à execução, a recorrente demonstrou que o presente caso se enquadra nos moldes dos artigos supramencionados, consubstanciados na ocorrência de lesão grave ou de difícil reparação e na relevância da fundamentação. Assim, restou demonstrado o latente direito subjetivo dos recorrentes à medida pleiteada.
+22. O débito executado encontra-se devidamente garantido com o oferecimento do imóvel Sala Duplex n. A-163, matriculado sob o n. 244.350 do CRI de Goiânia e, embora haja na matrícula gravada a alienação fiduciária, não há qualquer gravame de que há dívida referente a tal alienação, doutro lado, não impedindo que seja este imóvel parte da garantia.
+23. Ressalte-se ainda, que se trata de execução de valor expressivamente, fundado sobre título que sequer guarda certeza, ante a ausência de requisitos para sua formação, conforme demonstrado nos presentes embargos, o que poderá causar graves prejuízos e onerar demasiadamente a recorrente, o que não se pode admitir.
+24. Ademais, relevante o fato de que o crédito se encontra devidamente arrolado nos autos da recuperação judicial da devedora originária.
+ ..
+26. Da mesma forma, também em observância ao mencionado dispositivo, acrescido do artigo 300 do mesmo diploma legal, trata-se de execução de valor expressivo, o que sem dúvidas poderá causar graves prejuízos e onerar demasiadamente a recorrente, que já enfrenta evidente fragilidade financeira em razão do deferimento da recuperação judicial que ensejou diversas execuções à pessoa física prestou diversas garantias. Este ponto é suficiente a demonstrar o risco de lesão grave e impossível reparação o que preenche o requisito legal e autoriza a concessão da pretendida suspensão (fls. 64/65).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como se sabe, em regra, os embargos à execução não têm efeito suspensivo. Contudo, o juiz poderá, a pedido da parte embargante, concedê-lo quando verificados os pressupostos para a atribuição da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes.
+
+Ressalvadas as excepcionalíssimas hipóteses autorizadoras da tutela de evidência (art. 311 do CPC), para a obtenção da tutela de urgência mister se faz a demonstração da probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo (art. 300 do CPC).
+ ..
+Verifica-se, assim, que, além dos relevantes fundamentos e do perigo de dano decorrente do prosseguimento da execução, o dispositivo legal também exige que a execução esteja garantida por penhora, depósito ou caução suficientes.
+No caso em exame, contudo, a execução não se encontra garantida, a despeito do alegado pela agravante. Não se constata, dessa forma, a presença de um dos requisitos do art. 919, §1º, do CPC.
+Conforme bem salientado na contraminuta do exequente, a garantia ofertada pela agravante foi indeferida, por meio da r. decisão de fls. 283 dos autos da ação de execução n. 1118477-87.2022.8.26.0100, proferida em 07/03/2023 (não se trata da r. decisão agravada).
+Transcreve-se, por oportuno, trecho da r. decisão mencionada:
+"Vistos.
+1. Fls. 188/94: A coexecutada Lucilene ofereceu à penhora um imóvel e cotas de investimento. A exequente impugna. Assiste razão ao exequente.
+Nos termos do art. 797 do CPC, a execução realiza-se no interesse do exequente. Possível, portanto, a recusa do bem indicado à penhora quando dotado de baixa liquidez ou quando sem observância à ordem legal (art. 848, I e V, CPC). É o que se verifica. Os bens imóveis e as cotas ocupam o quinto e nono lugar, respectivamente, na ordem de penhora para garantia de crédito (art. 835, V e IX, CPC).
+Não bastasse, o imóvel oferecido em garantia encontra-se alienado fiduciariamente, conforme conta de sua matrícula a fls. 187.
+Quanto às cotas, a parte executada limitou-se a trazer aos autos prints de telas que nada provam, sequer demonstrando ser titular de tais bens, tampouco trazendo maiores informações acerca de valor, certeza e liquidez.
+Sendo assim, indefiro a garantia prestada. 2. No mais, penhora já foi deferida em decisão ora sigilosa.3.Aguarde-se o resultado da pesquisa em curso.
+Intime-se." (grifo nosso)
+Vale destacar que, para justificar a suposta garantia do juízo, a agravante se limitou a indicar, em suas razões recursais, os mesmos bens que já foram indeferidos pelo Juízo a quo na decisão supramencionada.
+Trata-se de: (i) um imóvel avaliado unilateralmente em R$750.000,00, gravado por ônus (alienação fiduciária e arrolamento de bens- cf. 266/271 dos autos da ação de execução); e (ii) cotas de investimento nas seguintes companhias: COE Pfizer, COE Sustentabilidade na Bolsa Americana, COE Johnson & Johnson e RBR CLUB II FIM CP IE, avaliadas, conjuntamente, em aproximadamente R$665.000,00 (cf. prints de fls. 07/10).
+Não bastasse o indeferimento da garantia ofertada por decisão diversa da agravada, é patente que os bens indicados, de fato, não se prestam a garantir o juízo.
+ ..
+Em relação às cotas de investimento supramencionadas, consoante bem destacou o magistrado a quo, os prints de tela colacionados pela parte agravante, tanto na ação de execução como nestes autos (fls. 07/10), nem ao menos demonstram serem de propriedade da recorrente.
+Sendo assim, evidente que o juízo não está garantido, não havendo que se falar em concessão de efeito suspensivo aos embargos à execução.
+Em complementação, destaca-se que, em análise não exauriente, não se vislumbra o necessário fumus boni iuris, uma vez que não restou evidenciada com segurança à alegada iliquidez do título exequendo.
+In casu, mister fazer breve retrospecto.
+O agravado Banco Pine S/A e o coexecutado Posto Tabocão VI Ltda. firmaram Convênio para Antecipação ao Fornecedor com Confirmação Confirming n. 0254/21 (fls. 109/124).
+Na ocasião, figuraram como garantidores da operação, na qualidade de avalistas, o coexecutado Edison José Dutra, a agravante Lucilene de Pádua Dutra e a coexecutada Distribuidora Tabocão Ltda., que, nos termos da Cláusula 2.11.94 da avença, assumiram responsabilidade solidária em relação às obrigações assumidas pelo Posto Tabocão.
+Também em garantia das obrigações pecuniárias do devedor principal e dos devedores solidários foi emitida a Nota Promissória n. 0254/21 (fls. 125), visando à liquidação das obrigações assumidas em caso de inadimplência.
+No curso da execução do contrato foram expedidos os Termos de Cessão de Créditos Sem Coobrigação de fls. 126/141, nos seguintes valores (cf. print juntado na Inicial do exequente):
+ ..
+Diante do inadimplemento das obrigações pecuniárias em referência, pretendeu o agravado a execução da Nota Promissória n. 0254/21, até o valor do débito.
+Mister consignar que a referida Nota Promissória foi emitida no valor de R$2.000.000,00; todavia, pretende o agravado somente a execução da quantia não paga, discriminada acima.
+Pois bem. Tendo em vista que a ação de execução se funda na Nota Promissória n. 0254/21(fl. 125 dos autos da execução), a qual é considerada título executivo extrajudicial por expressa disposição do art. 784, I, do CPC, não há que se falar em iliquidez, ao menos neste instante processual.
+Em complementação, no Convênio para Antecipação ao Fornecedor com Confirmação (fls. 109/124) consta expressamente a forma de cálculo dos encargos e dos juros incidentes em caso de inadimplemento das obrigações firmadas nos instrumentos correlatos, o que também afasta a alegação de iliquidez.
+Ainda, a mera atualização do débito (fls. 142 dos autos da execução) tampouco aponta, ao menos neste instante processual, para o citado vício.
+Para mais, a despeito do empenho da devedora, a urgência narrada nos autos não revela risco algum, além daquele inerente a qualquer processo executório. Note-se que o art. 919, §1º, do CPC/2015, ao fazer menção aos requisitos da tutela provisória, e não unicamente à demonstração da probabilidade do direito, certamente pressupõe que o perigo de dano seja excepcional, não meramente intrínseco ao processo de execução.
+Assim, o trâmite natural da marcha executiva, inclusive em eventual etapa expropriatória, não se insere entre os pressupostos autorizadores da atribuição do efeito suspensivo. Por ora, dessarte, não há fundamento legal nem razoável para determinar o sobrestamento da demanda.
+A essa tal conclusão se deve acrescentar que os fundamentos defensivos não se encaixam em nenhuma das situações descritas nos incisos do art. 311 do CPC, acima reproduzido, e que autorizariam a concessão da tutela de evidência.
+Logo, sem os requisitos da tutela provisória, descabe o sobrestamento da execução. (fls. 50/57).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
