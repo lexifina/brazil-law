@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA ENERGÉTICA DO CEARÁ - ENEL - contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 648):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE MULTA COMINATÓRIA. OFERECIMENTO DE SEGURO GARANTIA. AUSÊNCIA DOS REQUISITOS EXIGIDOS PARA A SUBSTITUIÇÃO DA PENHORA EM DIREITO. RECURSO IMPROVIDO.
+1. O cerne do presente recurso cingi-se em verificar se acertada a decisão interlocutória proferida pelo magistrado de piso que entendeu por negar a parte agravante o direito de substituir a garantia prestada em sede de execução de multa cominatória.
+2. In casu, observa-se que os argumentos e os documentos trazidos à baila não permitem formular um juízo de probabilidade acerca da existência do direito alegado pela agravante, sobretudo porque não restou demonstrado a excepcionalidade da medida de substituição, a fim de tornar menos onerosa a execução, sem prejudicar a efetividade da mesma.
+3. A substituição da penhora em dinheiro por seguro garantia, admitida na lei processual (CPC/2015, art. 835, § 2º), não constitui direito absoluto do devedor, devendo prevalecer, em princípio, a ordem legal de preferência estabelecida no art. 835 do CPC/2015. Nos termos da jurisprudência do Superior Tribunal de Justiça, a substituição da penhora em dinheiro por fiança bancária ou seguro garantia judicial deve ser admitida apenas em hipóteses excepcionais, a fim de evitar dano grave ao devedor (não comprovados, in casa).
+4. Recurso improvido.
+Nas razões do especial, aponta a recorrente violação dos artigos 805, 835, § 1º, e 848 do Código de Processo Civil, além do dissídio jurisprudencial, argumentando, em síntese, que a substituição da penhora por seguro garantia judicial constituiria direito do executado, insuscetível, portanto, de ponderação.
+O recurso especial não foi admitido na origem (fls. 219/223); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verifica-se que o Tribunal de origem pressupõe que não haveria excepcionalidade apta a justificar a substituição da penhora pelo seguro garantia judicial, conforme se verifica da seguinte passagem (fl. 190):
+7. In casu, observa-se que os argumentos e os documentos trazidos à baila não permitem formular um juizo de probabilidade acerca da existência do direito alegado pela agravante, sobretudo porque não restou demonstrado a excepcionalidade da medida de substituição, a fim de tornar menos onerosa a execução, sem prejudicar a efetividade da mesma.
+A orientação adotada pela Corte Local não destoa da jurisprudência desta Corte, consolidada no sentido de que: "A substituição da penhora em dinheiro por seguro garantia somente deve ser admitida em hipóteses excepcionais, quando necessária para evitar onerosidade excessiva ao devedor, e desde que não ocasione prejuízo ao exequente.  .. "(AgInt no REsp n. 1.588.575/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/4/2018, DJe de 2/5/2018.)
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. CONCLUSÃO ESTADUAL NO SENTIDO DO DESCABIMENTO DA SUBSTITUIÇÃO DA PENHORA POR SEGURO-GARANTIA JUDICIAL. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência do STJ, admite-se a substituição da penhora de dinheiro por seguro-garantia apenas em hipóteses excepcionais, em que seja necessário evitar dano grave ao devedor, sem causar prejuízo ao exequente, situação não demonstrada no caso dos autos.
+2. A revisão da conclusão alcançada na origem para acolher a pretensão recursal quanto à onerosidade da execução e presença dos requisitos necessários ao deferimento do seguro- garantia demandaria a incursão no acervo fático-probatório dos autos, providência vedada Súmula 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.086.974/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2019, DJe de 22/8/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO DE INSTRUMENTO. OFERECIMENTO DE SEGURO GARANTIA. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 83/STJ. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A parte recorrente realizou a impugnação específica dos fundamentos de inadmissibilidade do recurso especial. Reconsideração da v. decisão da Presidência desta Corte Superior.
+2. Segundo a jurisprudência do STJ, admite-se a substituição da penhora de dinheiro por seguro-garantia apenas em hipóteses excepcionais, em que seja necessário evitar dano grave ao devedor, sem causar prejuízo ao exequente, situação não demonstrada no caso dos autos. Incidência da Súmula 83 do STJ.
+3. No caso concreto, a Corte de origem expressamente reconheceu a inexistência de circunstância que justifique a substituição da penhora em dinheiro por apólice de seguro garantia. A modificação de tal entendimento, lançado no v. acórdão recorrido, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do disposto na Súmula 7 deste Pretório.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.824.006/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Portanto, como a orientação adotada pela Corte Local está em conformidade com a jurisprudência atual do Superior Tribunal de Justiça, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+De todo modo, para rever o provimento adotado, seria imprescindível reexaminar o pressuposto que a substituição pretendida não preservaria o direito de satisfação do crédito do exequente, tampouco resguardaria a menor onerosidade da execução, em favor do executado.
+O procedimento, porém, é vedado em recurso especial, por demandar o reexame do contexto fático-probatório; insuscetível de exame nesta via, em razão da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários recursais, pois inexistente condenação a respeito na origem, vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do artigo 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
