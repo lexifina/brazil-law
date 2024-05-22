@@ -1,0 +1,10 @@
+DECISÃO
+Diante das alegações trazidas na petição de fls. 1.808/1.818, reconsidero parcialmente a decisão de fls. 1.799/1.804, eis que eivada de erro material, conforme se explicará adiante.
+A decisão de fls. 1.799/1.804, ao examinar o recurso especial, registrou que o pedido condenatório foi formulado solidariamente contra todos os 5 (cinco) réus, de forma genérica e indistinta, razão pela qual a verba honorária não poderia ser fixada em percentual sobre o total buscado para cada um dos litigantes, sob pena de culminar em sucumbência muito acima do limite legal, conforme explicitado na decisão.
+Aplicou-se o conteúdo material do art. 87 do Código de Processo Civil - CPC, no sentido de distribuição proporcional da sucumbência e concluiu-se (fl. 1.804):
+O benefício econômico, portanto, para efeitos de fixação de sucumbência na hipótese em exame, deve ser calculado à base de rateio, em percentual proporcional ao número de réus, ou seja, 1/5 (um quinto) do benefício econômico perseguido, eis que há cinco réus.
+No caso, como são apenas dois recorrentes que tiveram afastada a cobrança por prescrição, deve incidir honorários à razão de 2/5 (dois quintos) do benefício econômico perseguido pela parte autora, a ser apurada em liquidação de sentença.
+Ocorre, no entanto, que, por erro material, arbitrou-se a verba honorária em "2/5 (dois quintos) do benefício econômico perseguido", quando, em verdade deveria ter constado a expressão "10% (dez por cento) de 2/5 (dois quintos) do benefício econômico perseguido", o que atenderia ao comando dos arts. 85, § 2º, e 87, do CPC.
+Em face do exposto, em juízo de reconsideração, retifico parcialmente a decisão de fls. 1.799/1.804 para que, nos termos da fundamentação acima, conste ter sido dado parcial provimento ao recurso especial para fixar a verba honorária em 10% (dez por cento) de 2/5 (dois quintos) do proveito econômico perseguido em juízo pela parte autora, mantendo-se o afastamento da multa aplicada aos embargos de declaração da recorrente opostos na origem.
+Intimem-se.
+EMENTA
