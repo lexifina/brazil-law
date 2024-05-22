@@ -1,0 +1,53 @@
+DECISÃO
+Na ocasião da análise da medida de urgência, o presente writ foi assim relatado pela eminente Ministra Presidente deste Superior Tribunal (fl. 119):
+ ..
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALEXANDRE DE LIMA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Consta dos autos que o paciente foi condenado à pena de trinta e nove anos, dez meses e vinte e quatro dias de reclusão, em regime inicial fechado, pela prática do crime de feminicídio, previsto no art. 121, § 2º, IV e VI, e § 7º, III, do Código Penal.
+O impetrante se insurge contra decisão do TJPI que, em Agravo Interno interposto pela defesa, manteve a decisão monocrática de não conhecimento do pedido de revisão criminal, que visava rediscutir a pena aplicada na condenação.
+Sustenta manifesto constrangimento ilegal sofrido pelo condenado em relação à pena aplicada, por considerá-la superior à que entende adequada.
+Em suas razões, alega que houve excesso de exasperação na pena-base, que valorou, de forma inadequada, as circunstâncias judiciais do art. 59 do CP, notadamente a conduta social, a personalidade e as consequências do crime.
+Assevera ainda que o aumento de pena, previsto no § 7º do inciso III do art. 121 do CP, foi realizado sem fundamentação idônea. Desse modo, entende que a majoração deveria ter ocorrido na fração de 1/3, não de metade.
+Pretende, assim, a concessão da ordem para revisar a dosimetria da pena a patamares justos e legais.
+ ..
+Em 22/7/2023, a liminar foi indeferida pela Presidência desta Corte (fls. 119/120).
+Prestadas as informações (fls. 127/132 e 133/156), o Ministério Público Federal opinou pela denegação da ordem (fls. 160/164):
+CONSTITUCIONAL. PENAL E PROCESSUAL PENAL. HABEAS CORPUS UTILIZADO COMO SUCEDÂNEO DE RECURSO. NÃO CONHECIMENTO. REVISÃO CRIMINAL. REDIMENSIONAMENTO DA PENA. PRETENSÃO QUE NÃO ENCONTRA RESPALDO NAS HIPÓTESES PREVISTAS NO ART. 621 DO CPP. NÃO CONHECIMENTO. AGRAVO INTERNO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PELO NÃO CONHECIMENTO DO WRIT E, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM.
+1. Incabível a impetração de habeas corpus em substituição ao recurso legalmente previsto, ressalvadas as hipóteses de flagrante ilegalidade no ato judicial impugnado, razão pela qual o não conhecimento da impetração é medida que se impõe;
+2. Por rever decisões protegidas pelo manto da coisa julgada material, garantia abrigada no art. 5º, XXXVI, da CF, a Revisão Criminal só é cabível quando verificada uma das hipóteses taxativamente elencadas no art. 621 do CPP;
+3. Não restando demonstrado que o Édito condenatório encontra-se contrário à prova dos autos, ou que fundado em acervo probatório falso, nem existindo novas provas para modificar o entendimento das instâncias precedentes, não há qualquer fundamento a autorizar revisão da condenação já transitada em julgado; PARECER PELO NÃO CONHECIMENTO DO WRIT, E, NO MÉRITO,PELA DENEGAÇÃO DA ORDEM DE HABEAS CORPUS.
+É o relatório.
+De início, observo ser inviável a utilização da via eleita para revisar, novamente, condenação transitada em julgado.
+No entanto, observo a existência de coação ilegal na dosimetria da pena.
+Confiram-se, no que interessa, trechos da sentença condenatória (fls. 92/94 - grifo nosso):
+ ..
+Dosimetria.
+Primeira fase - Circunstâncias judiciais (art. 59 do CP).
+Culpabilidade - É o juízo de reprovabilidade ou censura que recai sabre o réu à luz da infração cometida. Seguindo a compreensão de Guilherme Nucci, entendo que a culpabilidade representa um reflexo das demais circunstâncias judiciais valoradas em concreto, não merecendo, portanto, análise individual.
+Antecedentes - Trata-se da vida pregressa do agente em matéria criminal, especificamente as condenações com trânsito em julgado não valoradas como reincidência (Súmulas 241 e 444 do STJ). Na espécie, não há condenação definitiva apta a configurar maus antecedentes, de modo que esta circunstância deve ser considerada como positiva.
+Conduta social - É o papel desempenhado pelo agente nos contextos da família, da vizinhança, do trabalho, da comunidade em geral. Em relação à situação em concreta, os autos dão conta de que o(a) agente não tem boa desenvoltura em suas relações sociais, razão pela qual esta circunstância deve ser avaliada negativamente. Nesse sentido, o emocionado depoimento de PAULO HENRIQUE deu conta de que o réu é pessoa viciada em jogos de aposta, não trabalha e não auxiliava nas rotinas domésticas, o que depõe contra sua conduta social.
+Motivos do crime - São as razões que levaram à ação criminosa. Quanto ao presente feito, acredito que os precedentes determinantes do crime não permitem a exasperação ou diminuição da pena-base. Isso se dá especialmente porque os motivos serão valorados na próxima fase da dosimetria.
+Circunstâncias do crime - Registro aqui que o crime foi cometido na presença da filho da vítima, pessoa de pouca idade (10 ou 11 anos à época dos fatos), dado que, acima de qualquer dúvida, torna muito mais graves as circunstâncias do delito. Entretanto, essa questão será abordada na última fase da dosimetria da pena.
+Comportamento da vitima - É a postura adotada pela pessoa ofendida em sua possível relação com a deflagração da conduta criminosa. Esta circunstância não merece valoração específica nesta oportunidade.
+Personalidade - Reflete a análise do meio e das condições o agente se formou e vive, pois o bem-nascida que tende ao crime deve ser mais severamente apenado do que o miserável que tenha praticado uma infração penal para garantir sua sobrevivência (Nucci). Ressalte-se que a análise do magistrado é vulgar, não atrelada aos parâmetros técnicos normalmente utilizados por psicólogos ou outros peritos da área, de modo que nenhuma ilegalidade há em apreciar esta circunstância nesta oportunidade (STF, RHC 116.011/DF, 2aT, 6.11.2013; STJ, HC 278.514/MS, 5" T, 11.2.2014). Em referência aos autos, é possível concluir que o (a) agente ostenta caracteres negativos que permitem a condução da pena-base em direção ao máximo legal. Convém frisar, nessa direção, que o réu demonstrou personalidade possessiva, egoísta e agressiva. Segundo os depoimemtos colhidos nesta oportunidade, notadamente de PAULO HENRIQUE, o réu se incomodava pelo fato de a vítima desempenhar trabalho fora de casa, ter uma vida mais independente.
+Consequências do crime - São o mal trazido pelo crime além daquele naturalmente decorrente da infração penal. Neste caso, acredito que as consequências do delito admitem a elevação da pena-base. Merece grifo, nesse contexto, que a vítima deixou dois filhos menores (8 e 12 anos), aos quais o réu impôs o terrível destino de crescer sem mãe. Diante dessas circunstâncias, a pena-base é fixada em 22 anos, 9 meses e 18 dias de reclusão.
+Segunda fase - Circunstâncias agravantes e atenuantes.
+Circunstâncias agravantes.
+Motivo torpe é o motivo vil, repugnante, moralmente reprovável. A torpeza dos motivos do crime impõe o aumento da pena na segunda fase da dosimetria (art. 61, II, a, do CP), e essa agravante tem incidência nesta oportunidade, na condição de preponderante (art. 67 do CP).
+Conforme dito pelos depoentes BERNARDINO PRAXEDES e PAULO HENRIQUE, o crime foi motivado pelo fato de a Orna desempenhar labor regular fora de casa - o que inconformava o réu - e de sua negativa a fornecer dinheiro ao acusado para que ele custeasse seu vício em jogos de azar (o próprio réu não o custeava, por seus meios, pois não trabalhava). A reprovabilidade da motivação criminosa é manifesta, pois relacionado ao que há de mais repugnante na sociedade (desejo de submissão, vício, preguiça). Aplico a fração de 1/6 a esta agravante. A deslealdade é prevista corno agravante pelo Código Penal, no art. 61, II, c, que reprova a conduta daquele que age com traição, emboscada, dissimulação ou outro recurso que comprometa a defesa do ofendido.
+É o caso dos autos.
+Essa agravante foi objeto de quesitação específica na sessão, tendo sido reconhecida pelo Conselho de Sentença como incidente no caso, visto que representa qualificadora subsidiária do crime de homicídio.
+Aplico a fração de 1/6 à presente agravante. Não há outras agravantes a mencionar. Circunstâncias atenuantes.
+Não existem atenuantes a reconhecer.
+Por força desse quadro, a pena, nesta segunda fase, é de 30 ano(s) de reclusão, máximo legal.
+Terceira fase - Causas de aumento e de diminuição de pena. Causas de aumento (majorantes). Na forma do art. 121, § 7º, III, do Código Penal, a pena deve ser aumentada de um terço a metade se o crime é cometido na presença de descendentes da vítima. No caso concreto, o crime foi cometido na presença de um descendente menor, filho da vitima de apenas 12 anos, que contou de forma bastante emocionada como se deu o delito. A forma como se deu o crime e especialmente, a idade dessa criança (então com 10 ou 11 anos de idade) recomendam o aumento da pena em seu grau máximo. Acresço a pena em metade (1/2) por força dessa majorante. Nenhuma outra majorante incide neste caso. Causas de diminuição (minorantes). Nenhuma minorante incide neste caso. Diante disso, fixo a pena, em definitivo, em 45 ano(s) de reclusão.
+ ..
+O Tribunal de origem deu provimento à apelação defensiva apenas para afastar a consideração negativa de uma das agravantes, diminuindo a reprimenda para 39 (trinta e nove) anos, 10 (dez) meses e 24 (vinte e quatro) dias de reclusão (fl. 34 - grifo nosso).
+Da atenta análise dos trechos transcritos observo que, apesar de devidamente fundamentada, a reprimenda foi exasperada de forma desproporcional, cabendo a fixação do percentual de 1/6 para cada circunstância judicial negativa.
+Veja-se que foram consideradas negativas quatro circunstâncias judiciais, cabendo o aumento de 1/6 para cada uma, resultando na fixação da reprimenda em 22 anos, 2 meses e 23 dias de reclusão. Incidindo o aumento de 1/6 na segunda etapa (agravante do motivo torpe) e 1/2 na terceira (majorante de o delito ter sido cometido na presença do filho da vítima), resulta a pena em 38 anos, 10 meses e 24 dias de reclusão, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+Em face do exposto, concedo a ordem impetrada, em menor extensão, para reduzir a pena-base, resultando a reprimenda definitiva em 38 anos, 10 meses e 24 dias de reclusão, mantido o regime inicial fechado.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. VIA ELEITA INADEQUADA. EXISTÊNCIA DE COAÇÃO ILEGAL. DESPROPORCIONALIDADE DA EXASPERAÇÃO DA PENA-BASE. CONCESSÃO EM MENOR EXTENSÃO. VIABILIDADE.
+Ordem concedida, em menor extensão.
