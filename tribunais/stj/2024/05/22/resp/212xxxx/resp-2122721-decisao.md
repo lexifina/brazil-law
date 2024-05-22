@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+PEDIDO DE PESQUISA - SISBAJUD - Inovação. Decisão que não analisou a matéria. Impossibilidade de seu exame nesta sede. Recurso não conhecido neste ponto.
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA. Impenhorabilidade. Art. 833, IV, do CPC. Pedido de penhora de percentual do benefício previdenciário. Possibilidade, além das exceções previstas no art. 833, § 2º, do CPC. Situação excepcional. Entendimento do STJ nesse sentido. Hipótese dos autos, todavia, que não autoriza a medida. Ausente qualquer informação do valor percebido pela devedora. Inexistência de parâmetro para a análise da questão. Potencial violação da subsistência da pessoa e do direito à dignidade humana. Inadmissibilidade. Decisão mantida. Recurso desprovido.
+Alega-se violação do artigo 833, § 2º, do Código de Processo Civil sob o argumento de que é penhorável parcela dos rendimentos do devedor para saldar débito de natureza alimentar, como no caso dos autos.
+O exequente, ora recorrente, defende que a "lei autoriza a penhora de percentual dos salários e proventos de aposentadoria para satisfazer créditos de natureza alimentar, como os trabalhistas. É o que se extrai do parágrafo 2º do artigo 833 do CPC de 2015, que traz uma exceção à regra da impenhorabilidade, autorizando a penhora de percentual de salário quando se tratar de prestações alimentícias, qualquer que seja sua origem. Portanto, agora a penhora não é mais restrita apenas às prestações de alimentos" (e-STJ, fl. 138).
+Prosseguiu no sentido de "que a impenhorabilidade prevista no inciso IV do artigo 833 do CPC de 2015 não pode ser oposta na execução para satisfação do crédito trabalhista típico, devendo ser observado apenas que o desconto em folha de pagamento seja limitado a 50% dos ganhos líquidos do devedor, na forma do § 3º do artigo 529 do CPC/2015" (e-STJ, fl. 139).
+Assim delimitada a controvérsia, passo a decidir.
+Não constou no acórdão local qual a natureza da verba em execução, senão consignou "que a remuneração do devedor é impenhorável, exceto para pagamento de prestação alimentícia e relativamente às importâncias excedentes a cinquenta salários-mínimos mensais (§ 2º) o que não ficou minimamente demonstrado ser a hipótese dos autos" (e-STJ, fl. 109).
+Concluiu a Corte de origem, por fim, que, "à míngua de elementos concretos a informar qual seria a remuneração recebida de aposentadoria pela agravada, desde logo, justificaria o indeferimento do pedido.
+Impossível sopesar qual seria o parâmetro de análise para eventual conjectura de constrição de percentual sobre benefício previdenciário, quando este sequer foi demonstrado no processo ainda. Ou seja, não se poderia ponderar sobre ofensa à manutenção e subsistência ordinária da pessoa da agravada e, consequentemente, violar sua dignidade" (e-STJ, fl. 111).
+Inequívoco, pois, que o reexame da causa esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao recurso .
+Intimem-se.
+EMENTA
