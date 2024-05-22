@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto por RODRIGO FERNANDES FRANCHINI, contra decisão do Eg. Tribunal de Justiça do Estado do Goiás., assim ementado:
+"AGRAVO INTERNO EM APELAÇÃOCÍVEL. DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO. RAZÕES DO APELO DISSOCIADAS DO CONTEÚDODECISÓRIO. REITERAÇÃO DE TESES EXPOSTAS NAPEÇA DEFENSIVA. NÃO CONHECIMENTO. RECURSODESPROVIDO.
+I - A interposição de todo e qualquer recurso impõe ao recorrente o ônus de impugnar, de forma específica, os fundamentos do capítulo decisório que pretende reformar ou anular, em respeito ao contraditório e à dialeticidade, sob pena de não conhecimento. Inteligência dos artigos 319, 932, III, 1.002 e 1008, Código de Processo Civil.
+II - A reiteração de teses expostas antes da instrução probatória e examinadas pelo julgador originário, como realizado no apelo não conhecido, não atende ao princípio da dialeticidade, de modo a ressair acertada a decisão monocrática recursada ao não conhecer do referido recurso.
+III - Agravo interno conhecido, mas desprovido." (e-STJ, fl. 1428)"
+Nas razões do recurso especial, o agravante alega violação aos arts. 22 da Lei nº 8.935/94, sustentando, em síntese, (a) que não houve violação ao princípio da dialeticidade, pois apresentou a apelação em que se rebateu especificamente cada fundamento da sentença prolatada, de modo que a mera reprodução da contestação nas razões de apelação não implica ofensa ao referido princípio e (b) que a atividade decorrente dos servidores notariais e de registro é serviço público prestado mediante delegação outorgada de forma originária por concurso público, de forma que a ação deveria ter sido proposta em face do Estado e ser reconhecida sua ilegitimidade passiva, bem como que não há comprovação do dolo ou culpa necessários à caracterização de sua responsabilidade.
+É o relatório. Passo a decidir.
+Inicialmente, tem-se que a parte agravante alega que não houve violação ao princípio da dialeticidade mas não indicou o dispositivo de lei federal que entende violado. Ante a deficiente fundamentação do recurso, nesse ponto, incide a Súmula Nº 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, com relação à suposta violação ao art. 22 da Lei nº 8.935/94, tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% para 13% sobre o valor da condenação.
+Publique-se.
+EMENTA
