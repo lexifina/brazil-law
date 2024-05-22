@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de Pedido de Uniformização de Interpretação de Lei apresentado por JULIANA PASTORIL em razão da alegada divergência na interpretação de lei federal entre o acórdão proferido pela Terceira Turma Recursal dos Juizados Especiais do Estado do Paraná-PR e julgados deste STJ, quando da interpretação da Lei n.º 9.099/95.
+Aduz a requerente, em síntese, que "(..) A requerente ajuizou ação judicial visando ação declaratória de inexistência de débitos concorrente com indenização por danos morais por inscrição indevida nos órgãos de proteção ao crédito.". Afirma que "(..) Após demonstrar a impossibilidade da pessoa jurídica de grande porte ensejar com pedido contraposto nos juizados especiais, a sentença de 1º grau julgou improcedente o pedido da autora e procedente o pedido contraposto da ré". Requer o acolhimento da presente insurgência, ante a "(..) IMPOSSIBILIDADE DE PEDIDO CONTRAPOSTO NOS JUIZADOS ESPECIAIS POR EMPRESA DE GRANDE PORTE." (fls. 196-204)
+É o relatório.
+Decisão.
+O pedido não merece acolhimento.
+1. Isso porque, consoante orientação jurisprudencial, o Pedido de Uniformização de Interpretação de Lei perante o STJ apenas tem cabimento no âmbito de processos de competência dos Juizados Especiais da Fazenda Pública dos Estados, do Distrito Federal, dos Territórios e dos Municípios, os quais são regulados pela Lei 12.153/2009, e aqueles relacionados aos Juizados Especiais Federais, regidos pela Lei 10.259/2001, do que não se cogita a hipótese dos autos.
+Nessa linha: AgInt no PUIL n. 1.751/BA, relator Ministro Paulo de Tarso Sanseverino Segunda Seção, julgado em 1/9/2020, DJe de 4/9/2020; (AgInt no PUIL n. 1.798/BA, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 29/9/2020, DJe de 2/10/2020; AgInt no PUIL n. 1.807/BA, relator Ministro Raul Araújo, Segunda Seção, julgado em 20/10/2020, DJe de 27/10/2020, dentre outros julgados.
+Na hipótese, conforme relatado, o pedido foi manejado no bojo de ação declaratória de inexistência de débito c/c indenização por danos morais com esteio no procedimento definido pela Lei 9.099/95, tendo o acórdão impugnado sido proferido pela Terceira Turma Recursal dos Juizados Especiais do Estado do Paraná-PR , sem respaldo, portanto, nos arts. 14, § 4º, da Lei n. 10.259/2001 e 18, § 3º, e 19, caput, da Lei n. 12.153/2009.
+2. Do exposto, com fundamento no art. 932, III, do CPC, não conheço do presente pedido de uniformização de interpretação de lei .
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
