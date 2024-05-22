@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por ALESSANDRO DOS REIS GOMES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 220-221):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. PROCESSO DE CONHECIMENTO. PEDIDO REVISIONAL.
+CÓDIGO DE DEFESA DO CONSUMIDOR E PEDIDO REVISIONAL. O CÓDIGO DE DEFESA DO CONSUMIDOR É APLICÁVEL ÀS INSTITUIÇÕES FINANCEIRAS, NOS TERMOS DA SÚMULA Nº 297 DO STJ E ART. 3º, §2º DO CDC. É POSSÍVEL O PEDIDO DE REVISÃO DAS CLÁUSULAS CONTRATUAIS, COM FUNDAMENTO NO ART. 6º, V E ART. 51, IV, AMBOS DO CDC. A APLICAÇÃO DO CDC E A POSSIBILIDADE DO PEDIDO REVISIONAL NÃO ASSEGURAM A PROCEDÊNCIA DOS PEDIDOS FORMULADOS PELO CONSUMIDOR.
+JUROS REMUNERATÓRIOS. TESE PARADIGMA. RECURSO ESPECIAL Nº 1.061.530/RS. É ADMITIDA A REVISÃO DA TAXA DE JUROS REMUNERATÓRIOS QUANDO A ABUSIVIDADE FIQUE CABALMENTE DEMONSTRADA. CASO CONCRETO. PERCENTUAL QUE NÃO DISCREPA SUBSTANCIALMENTE DA TAXA MÉDIA DE MERCADO DO PERÍODO.
+INEXISTÊNCIA DE ABUSIVIDADE. ÍNDICE DO CONTRATO MANTIDO.
+CAPITALIZAÇÃO DOS JUROS.
+CONSTITUCIONALIDADE DO ART. 5º DA MEDIDA PROVISÓRIA Nº 2.170. RECURSO EXTRAORDINÁRIO Nº 592.377. REPERCUSSÃO GERAL. TEMA 33. AS ENTIDADES INTEGRANTES DO SISTEMA FINANCEIRO NACIONAL ESTÃO SUJEITAS AO ART. 5º DA MEDIDA PROVISÓRIA Nº 2.170, QUE AUTORIZA A CAPITALIZAÇÃO DOS JUROS EM PERIODICIDADE INFERIOR A ANUAL. PREVALÊNCIA DA LEI ESPECIAL EM DETRIMENTO DO ART. 591 DO CÓDIGO CIVIL. ART. 28 ,PARÁGRAFO 1º, INCISO I, DA LEI Nº 10.931/04. SÚMULA 539 DO STJ.
+FORMA DE CONTRATAÇÃO. TESE PARADIGMA. RECURSO ESPECIAL Nº973.827/RS. A CAPITALIZAÇÃO PODE SER DEMONSTRADA PELA REDAÇÃO DAS CLÁUSULAS CONVENCIONADAS OU QUANDO A TAXA ANUAL DOS JUROS É SUPERIOR AO DUODÉCUPLO DA TAXA MENSAL. SÚMULA Nº 541 DO STJ. CASO CONCRETO. CAPITALIZAÇÃO CONTRATADA. MANTIDA A FORMA DE COMPOSIÇÃO DAS PARCELAS NA FORMA CONTRATADA.
+DESCARACTERIZAÇÃO DA MORA. TESE PARADIGMA. RECURSO ESPECIAL Nº 1.061.530/RS E Nº 1.639.320-SP. SOMENTE A CONSTATAÇÃO DE ENCARGOS ABUSIVOS DURANTE O PERÍODO DA NORMALIDADE AFASTA A CARACTERIZAÇÃO DA MORA. CASO CONCRETO. ENCARGOS DA NORMALIDADE MANTIDOS CONFORME CONTRATADOS. INEXISTÊNCIA DE MOTIVO QUE JUSTIFIQUE O AFASTAMENTO DA MORA.
+SEGURO DE PROTEÇÃO FINANCEIRA. A INCLUSÃO DE SEGURO NOS CONTRATOS DE FINANCIAMENTO NÃO ENCONTRA ÓBICE NA LEGISLAÇÃO BANCÁRIA, ENTRETANTO, A SUA CONTRATAÇÃO NÃO PODE SER CONDICIONANTE PARA APROVAÇÃO DA LINHA DE CRÉDITO E, QUANDO DA OPÇÃO PELA ADESÃO, O CONSUMIDOR NÃO PODE SER FORÇADO A CONTRATAR EXCLUSIVAMENTE COM A PRÓPRIA CASA BANCÁRIA OU COM SEGURADORA POR ELA INDICADA, NOS TERMOS DO ART. 39, I, DO CDC E TESE DO RECURSO REPETITIVO DO STJ Nº 1.639.320. CASO CONCRETO. INEXISTÊNCIA DE QUALQUER INDICATIVO DE QUE A ADESÃO AO CONTRATO DE SEGURO FOI IMPOSTA PELA CASA BANCÁRIA. ALEGAÇÕES GENÉRICAS. VALIDADE DO SEGURO. CONTRATO MANTIDO. COMPENSAÇÃO E/OU DEVOLUÇÃO DE VALORES. CASO CONCRETO. A MANUTENÇÃO DOS ENCARGOS NOS TERMOS CONTRATADOS TORNA INÓCUO O DEFERIMENTO DO PEDIDO DE COMPENSAÇÃO E/OU REPETIÇÃO DE VALORES. INDEFERIMENTO NO CASO DOS AUTOS.
+INDEFERIDA A TUTELA PROVISÓRIA DE URGÊNCIA.
+APELO DESPROVIDO.
+No recurso especial, alega divergência jurisprudencial com aresto desta Corte, REsp 1568290/RS, de relatoria do. Ministro PAULO DE TARSO SANSEVERINO, a respeito dos arts. 6º, 47, 46 e 52, I a III, do CDC, bem como do art. 28, § 1º, I, da Lei 10.931/04.
+Aduz que (fl. 235):
+É indubitável que os acórdãos confrontados versam acerca da mesma questão fática, qual seja a possibilidade da cobrança de capitalização diária de juros a revelia de previsão contratual da taxa específica.
+Foram oferecidas contrarrazões ao recurso especial (fls. 281-290).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 293-296), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso dos autos, o Tribunal de origem consignou que houve expressa previsão contratual de incidência de juros capitalizados, inclusive diariamente. Veja-se:
+O contrato objeto do pedido revisional (nº 571874282) foi firmado em 14/09/2022, no valor de R$ 29.817,40, onde se verifica que as partes ajustaram a incidência da taxa de juros remuneratórios de 1,90 % ao mês e de 25,31 % ao ano sobre o valor financiado (evento 12 -CONTR2).
+No site do Banco Central do Brasil se extrai a informação que na data da assinatura do financiamento a taxa média de mercado para esta modalidade de crédito era de 27,10 % ao ano.
+O cotejo entre o índice pactuado e a taxa média de mercado revela que os juros remuneratórios do contrato revisando é MENOR que a média praticada pelas instituições financeiras na época da contratação. (Fl. 213.)
+Na hipótese dos autos, a informação de que a taxa de juros remuneratórios anual é superior ao duodécuplo da taxa de juros mensal comprova a incidência de capitalização e, por consequência, permite a mantença da forma de composição das parcelas ajustadas de acordo com as Súmulas nº 539 e nº 541 do STJ.
+Ademais, in casu, o contrato informa expressamente a forma de incidência da capitalização dos juros (cláusula M). In verbis:
+(..) O Cliente, por esta Cédula, promete pagar ao Credor ou à sua ordem, nos respectivos vencimentos (item F), em moeda corrente, a quantia líquida certa e exigível (item G), correspondente ao valor total financiado (item F.6), acrescido dos juros remuneratórios (item F.4), capitalizados diariamente. (Fls .215-216.)
+Da leitura do acórdão recorrido, nota-se a referência à taxa de juros diária. Ressalte-se, assim, que é assente o entendimento desta Corte de que a revisão do entendimento do tribunal local sobre a existência da periodicidade e da taxa diária no contrato, demandaria a reavaliação do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial, em face das Súmulas n. 5 e 7 do STJ.
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO BANCÁRIO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULA N. 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. CAPITALIZAÇÃO DIÁRIA DE JUROS. MANTIDA. SÚMULAS N. 5 E 7 DO STJ.
+1. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+2. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+3. De acordo com entendimento consolidado pela Segunda Seção, admite-se a cobrança da capitalização diária dos juros, sendo necessárias, nesse caso, não só a previsão expressa de sua periodicidade no contrato pactuado mas também a referência à taxa diária dos juros aplicada, em respeito à necessidade de informação do consumidor para que possa estimar a evolução de sua dívida.
+4. Rever essa conclusão, notadamente para averiguar se da cláusula contratual mencionada pelo acórdão consta a taxa diária de juros praticada, demandaria a revisão de cláusulas contratuais e a incursão no acervo fático-probatório dos autos, procedimentos que encontram óbices nas Súmulas n. 5 e 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.077.113/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CAPITALIZAÇÃO DIÁRIA DE JUROS. PREVISÃO EXPRESSA DA TAXA NO CONTRATO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, a cobrança de capitalização diária de juros em contratos bancários é possível, sendo necessária a informação acerca da taxa de juros diária a ser aplicada, ainda que haja expressa previsão quanto à periodicidade no contrato.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela previsão expressa da taxa diária de juros. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.002.298/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Por fim, quanto ao dissídio jurisprudencial alegado, a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula n. 7/STJ impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 18% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CAPITALIZAÇÃO DIÁRIA DE JUROS. PREVISÃO CONTRATUAL. SÚMULAS N. 5 E 7/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
