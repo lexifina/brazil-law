@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto pela COMPANHIA DE SANEAMENTO DO TOCANTINS - SANEATINS contra decisão da lavra da Ministra Assusete Magalhães, que conheceu parcialmente do Recurso Especial, e, nessa extensão, negou-lhe provimento.
+O aludido recurso especial, por sua vez, foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, que negou provimento ao agravo de instrumento interposto pela recorrente pois "não se mostram presentes os requisitos para a concessão da tutela antecipada recursal requestada" (fl. 652).
+Parecer do Ministério Público Federal pela prejudicialidade do agravo interno e perda de objeto do recurso especial (fls. 973-980).
+É o relatório.
+Decido.
+A presente irresignação encontra-se prejudicada.
+Noticia o Ministério Público Federal o seguinte (fls. 976-977):
+Com efeito, é assente na jurisprudência do Superior Tribunal de Justiça que proferida sentença no processo principal, perde o objeto o recurso de Agrav o de Instrumento interposto contra decisão interlocutória.
+No presente caso, importa ressaltar que o magistrado de primeiro grau rejeitou os pedidos formulados na exordial (e-STJ fl. 872/891) e que essa sentença foi reformada pelo Tribunal de origem, que declarou a nulidade da decisão e da multa exarada no Processo Administrativo FA 17.001.002.18-0042260, em julgamento sintetizado na ementa abaixo (e-STJ fls.758/759):
+1. APELAÇÃO. AÇÃO ANULATÓRIA DE DÉBITO. MULTA. PROCON. PROVA ORAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA.
+O indeferimento de produção de prova oral não ofende as garantias da ampla defesa e contraditório, porquanto o magistrado dispõe de ampla liberdade na condução do processo, cabendo-lhe repelir as medidas que lhe pareçam inócuas e prejudiciais à celeridade do trânsito processual, principalmente porque se trata de anulatória referente à legalidade dos Autos administrativos, não sendo permitido ao Poder Judiciário adentrar ao mérito, mas apenas verificar os moldes em que se deu a instrução.
+2. PROCESSO ADMINISTRATIVO. MULTA DO PROCON. DECISÃO ADMINISTRATIVA. AUSÊNCIA DEFUNDAMENTAÇÃO. NULIDADE. MULTA ANULADA. SENTENÇA REFORMADA.
+2.1. A necessidade expressa da motivação é prevista no artigo 5o, inciso LV, da Constituição Federal, tornando impossível o contraditório e ampla defesa sem a motivação do ato administrativo.
+2.2. A falta de argumentos tendentes a explicar os reais motivos que levaram o PROCON a condenar a empresa esvazia por completo a fundamentação do ato administrativo e termina por revesti-lo de inequívoca ilegalidade.
+Ressalte-se que a jurisprudência desta Corte superior é no sentido de que "perde o objeto o agravo de instrumento interposto contra decisão que defere ou indefere o pedido liminar ou a antecipação da tutela quando superveniente a prolação de sentença, tendo em vista que esta absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente" (STJ, AgRg no REsp 1.279.474/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 06/05/2015).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ORIGINADO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO. PREJUDICIALIDADE. PROVIMENTO NEGADO.
+1. No s termos da jurisprudência do Superior Tribunal de Justiça, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que havia julgado agravo de instrumento, quando sobrevém sentença de mérito, cuja cognição é exauriente.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.817.468/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL EM SEDE DE AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE DEFERIU TUTELA DE URGÊNCIA. POSTERIOR PROLAÇÃO DE SENTENÇA. PERDA DE OBJETO CONFIGURADA. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese em análise, a parte autora ajuizou ação de obrigação de fazer cumulada com indenizatória, visando compelir a Ré para que proceda às adequações necessárias e impostas por Lei para acessibilidade, na Estação Jardim Primavera-Duque de Caxias/RJ, bem como lhe indenizar pelos danos morais causados. Em primeira instância, foi deferida a tutela antecipada, para determinar que a ré proceda as adequações necessárias na infraestrutura de acesso à Estação Jardim Primavera, no prazo de 60 dias, de modo a possibilitar o embarque e desembarque de pessoas com deficiência física, sob pena de multa de R$50.000,00 para a hipótese de descumprimento. Interposto agravo de instrumento, o Tribunal de origem deu provimento ao recurso para reformar a decisão agravada e reconhecer a ilegitimidade ativa da parte agravada, extinguindo o feito na forma do art. 485, inciso VI, do CPC.
+2. Conforme informado pela parte recorrida, a parte autora desistiu do pedido relativo à obrigação de fazer e foi prolatada sentença pelo juízo de primeiro grau, que extinguiu o feito sem resolução do mérito em relação a obrigação de fazer e determinou o prosseguimento da ação somente em relação aos danos morais.
+3. Tendo em vista que o agravo de instrumento interposto pela ora recorrida visava tão somente a reforma da sentença que deferiu a antecipação de tutela acerca da obrigação de fazer, deve ser reconhecida a perda do objeto do agravo de instrumento interposto contra decisão que deferiu a referida antecipação de tutela. Isso porque é o entendimento desta Corte Superior, que perde o objeto o agravo de instrumento interposto contra decisão que defere ou indefere liminar com a superveniência da prolação de sentença.
+4 . Agravo interno não provido. (AgInt no REsp n. 1.930.551/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/11/2021, DJe de 11/11/2021; sem grifos no original.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE UTILIDADE/INTERESSE. SUPERVENIENTE PERDA DE OBJETO. JULGAMENTO DO PROCESSO PRINCIPAL. AGRAVO REGIMENTAL PREJUDICADO.
+1. Cuida-se de recurso especial interposto pelo Ministério Público do Estado de Rondônia, que pleiteia a decretação de indisponibilidade dos bens da agravada, por suposta acumulação indevida de cargos.
+2. O Tribunal de origem decidiu que não ficou demonstrado o fumus boni iuris e o periculum in mora, a ensejar indisponibilidade de bens da ora embargada.
+3. No caso dos autos, foi proferida sentença na Ação de Improbidade Administrativa em 9/4/2015, indeferida a petição inicial e julgado extinto o processo sem resolução do mérito.
+4. É firme a orientação jurisprudencial no sentido de que a prolação de sentença no processo principal enseja superveniente perda de objeto de recurso interposto contra a decisão interlocutória.
+Agravo regimental prejudicado (STJ, AgRg no AREsp 663.910/RO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/03/2016; sem grifos no original.)
+Ante o exposto, JULGO PREJUDICADO o agravo interno.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL EM AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU TUTELA DE URGÊNCIA. POSTERIOR PROLAÇÃO DE SENTENÇA NOS AUTOS PRINCIPAIS. PERDA DE OBJETO CONFIGURADA. AGRAVO INTERNO PREJUDICADO.
