@@ -1,0 +1,151 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0703376-72.2023.8.07.0002APELANTE(S)IVAZELMA MIRANDA GOMESAPELADO(S)BANCO PAN S.A e BANCO BMG SARelatorDesembargador ARQUIBALDO CARNEIRO
+ Acórdão Nº1867850
+
+EMENTA
+
+ APELAÇÃO CÍVEL. PRELIMINAR DE VIOLAÇÃO À DIALETICIDADE. REJEIÇÃO. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO E DE COMPENSAÇÃO POR DANOS MORAIS. CONTRATO ELETRÔNICO. NÃO RECONHECIMENTO PELO CONSUMIDOR. JUNTADA DE INSTRUMENTO CONTENDO DADOS DE GEOLOCALIZAÇÃO, BIOMETRIA E SELFIE. REGULARIDADE. REPETIÇÃO DE INDÉBITO. NÃO CABIMENTO. DANOS MORAIS NÃO CONFIGURADOS. APELAÇÃO CONHECIDA E NÃO PROVIDA. SENTENÇA MANTIDA.
+
+1. Trata-se de apelação interposta contra sentença que, em ação de repetição de indébito e de compensação por danos morais, julgou improcedentes os pedidos formulados pela recorrente.
+
+2. A recorrente cumpriu os requisitos estabelecidos pelo artigo 1.010 do Código de Processo Civil, visto que os argumentos expendidos nas razões recursais enfrentam a contento a decisão. Não há, portanto, afronta ao princípio da dialeticidade.
+
+3. A relação contratual se sujeita às normas do Código de Defesa do Consumidor, o qual, no artigo 14, preceitua que o fornecedor de serviços responde, independente de culpa, pela reparação de danos causados aos consumidores. Por outro lado, o § 3º do mesmo dispositivo permite o afastamento da responsabilidade se o fornecedor provar que prestou o serviço, mas que inexiste defeito.
+
+4. No caso, as instituições financeiras juntaram instrumentos eletrônicos de contratação, que contêm dados relativos à identidade do consumidor, geolocalização e biometria, além de captura de selfie, de onde é possível extrair manifestação de vontade do consumidor em relação à operação de crédito.
+
+5. A autora/recorrente limitou-se a defender a procedência dos pedidos iniciais. A apelante não negou o recebimento de parte da quantia, tampouco sua utilização, ao passo em que a avença foi firmada em 05/07/2022, havendo a autora ajuizado a presente demanda, questionando a operação, apenas em 04/09/2023.
+
+6. Ausentes, ainda, indícios de que tenha buscado as instituições financeiras ou mesmo autoridades policiais, para esclarecer ou denunciar as supostas contratações fraudulentas de que teria sido vítima. Não há informações que sustentem eventual negativação indevida do nome da requerente em cadastros de restrição ao crédito.
+
+7. No mesmo sentido, apesar de alegar que não possuiria conta no BANCO VOTORANTIM S/A, instituição na qual, diga-se, foram depositados valores em seu nome e CPF, não produziu provas em sentido contrário.
+
+8. A referida instituição financeira possui unidade em Brasília/DF, não havendo sido demonstrado pela recorrente qualquer iniciativa no sentido de obter declaração ou outro documento que comprovasse a inexistência de conta de sua titularidade naquele estabelecimento. Da mesma forma, não conseguiu demonstrar a dificuldade na sua obtenção, não havendo se falar em produção de prova diabólica.
+
+9. A autora não se desincumbiu do ônus de produzir prova que lhe era de fácil acesso, conduzindo a cenário sustentado em prova satisfatória quanto à regularidade da contratação e, portanto, da legalidade dos descontos efetuados pelas instituições financeiras em seu benefício previdenciário.
+
+10. Como, por força do artigo 107 do Código Civil, a “validade da declaração de vontade não dependerá de forma especial, senão quando a lei expressamente a exigir”, o negócio jurídico firmado por meios digitais, quando dotado de informações que assegurem a identidade do consumidor e a fidedignidade do consentimento, além de dados que garantam a segurança da operação, como no caso em exame, é válido e eficaz, e vincula as partes.
+
+11. Ausente defeito na prestação do serviço, incabíveis a repetição de indébito e a compensação por danos morais.
+
+12. Preliminar rejeitada. Apelação conhecida e não provida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARQUIBALDO CARNEIRO - Relator, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal e VERA ANDRIGHI - 2º Vogal, sob a Presidência do Senhor Desembargador ALFEU MACHADO, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 03 de Junho de 2024
+
+Desembargador ARQUIBALDO CARNEIRORelator
+
+RELATÓRIO
+
+Cuida-se de apelação interposta por IVAZELMA MIRANDA GOMES (autora) contra a r. sentença (ID 57794452) proferida pelo d. Juízo da 1ª Vara Cível, de Família e de Órfãos e Sucessões de Brazlândia que, em ação de procedimento comum ajuizada pela recorrente contra BANCO PAN S/A e BANCO BMG S/A, julgou improcedentes os pedidos formulados na inicial.
+
+Em suas razões de apelação (ID 57794454), a apelante sustenta que o apelado Banco PAN S/A não conseguiu demonstrar que a transferência de valores oriundos dos empréstimos teria sido feita para conta de titularidade da autora.
+
+Alega que foi vítima de fraude; que os valores indicados na inicial jamais entraram em conta de sua titularidade; que, apesar de afirmar a contratação R$ 3.943,00, o Banco Apelado BMG S/A só demonstrou que o depósito do empréstimo, produto da fraude, foi de R$ 2.760,10.
+
+Acresce que não realizou o empréstimo, nem mesmo pelo INSS; que os documentos foram produzidos de forma fraudulenta e sem absolutamente nenhuma assinatura; que é idosa, não tem trato com internet e sequer sabe o que é uma “assinatura eletrônica”.
+
+Afirma que as instituições financeiras, ao permitir contratação não presencial dos clientes, atraem para si o risco de ocasionar danos, devendo por eles responder.
+
+Ressalta que trouxe aos autos os extratos bancários que demonstram a ausência dos depósitos em seu favor; que os empréstimos remontam a mais de R$ 87.000,00; que faz jus ao ressarcimento por danos morais, pois experimentou o amargo sabor de ter o “nome sujo” sem causa, sem motivo, de forma injusta e ilegal.
+
+Ao final, requer o conhecimento e provimento do apelo, para “declarar nulos os empréstimos fraudados indicados, de ns. 17409290, 370493925-9, 370493966-3, 370494059-6 e 370494004-2 que totalizam R$ 87.380,20 (...), porque produtos de fraudes, bem como, determinar aos Apelados para se absterem de realizar descontos no benefício da Apelante, fixando-lhe multa de R$ 4.000,00 (...) por cada desconto/lançamento indevido, assim como condená-los ao pagamento de indenização por danos morais no valor de R$ 40.000,00 (...)” – ID 57794454 - Pág. 9.
+
+Sem preparo, por ser beneficiária da gratuidade de justiça (ID 57794365 - Pág. 1).
+
+Contrarrazões do Banco BMG S/A (ID 57794456), pelo não provimento do apelo.
+
+Contrarrazões do BANCO PAN S/A (ID 57794457), suscitando, preliminarmente, ofensa ao princípio da dialeticidade e, no mérito, o não provimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARQUIBALDO CARNEIRO - RelatorPreliminar de não conhecimento – violação ao princípio da dialeticidade
+
+É cediço que, pelo princípio da dialeticidade, o recorrente deve enfrentar todos os fundamentos da decisão recorrida e demonstrar o porquê de o julgamento ser cassado ou reformado.
+
+A ausência de impugnação específica ou da demonstração do desacerto do julgamento impossibilita o conhecimento do recurso.
+
+No caso dos autos, no entanto, não verifico a ocorrência do vício formal apontado em contrarrazões pelo BANCO PAN S/A.
+
+Há impugnação aos fundamentos da r. decisão naquilo que a apelante entende pertinente a fim de demonstrar as razões do seu inconformismo combatendo a ratio decidendi, o que possibilitou, inclusive, a regular apresentação de contrarrazões ao recurso.
+
+Com efeito, cumpriu a recorrente os requisitos estabelecidos pelo artigo 1.010 do Código de Processo Civil, visto que há a devida exposição do fato e do direito, bem como estão presentes as razões do pedido de reforma ou de invalidação da decisão e o próprio pedido. Não há, portanto, afronta ao princípio da dialeticidade.
+
+Nesse contexto, rejeito a preliminar suscitada.
+
+Presentes os pressupostos de admissibilidade, conheço da apelação nos efeitos devolutivo e suspensivo, com fundamento no art. 1.013 e no art. 1.012, caput, ambos do Código de Processo Civil.
+
+Trata-se de apelação interposta por IVAZELMA MIRANDA GOMES contra a r. sentença (ID 57794452) proferida pelo d. Juízo da 1ª Vara Cível, de Família e de Órfãos e Sucessões de Brazlândia que, em ação de procedimento comum ajuizada pela apelante contra BANCO PAN S/A e BANCO BMG S/A, julgou improcedentes os pedidos formulados na inicial.
+
+A controvérsia central do recurso consiste em aferir a regularidade de contratação de operações de crédito pela consumidora, ora apelante.
+
+Peço vênia para adotar o relatório do d. Juízo sentenciante (ID 57794452 - Pág. 1/2):
+
+“Trata-se de ação de conhecimento, ajuizada por IVAZELMA MIRANDA GOMES, em desfavor do BANCO PAN S/A e do BANCO BMG S.A. Aduz a requerente que, ao se dirigir à agência para receber seu pagamento do mês de abril, foi surpreendida pela falta de saldo em sua conta bancária; que, ao questionar o INSS, foi informada de empréstimos supostamente fraudulentas, de instituições financeiras para crédito de seu benefício; que as transações realizadas em sua conta bancária, até agora, somam um total de R$ 87.380,20, valores todos levantados pelo fraudador. Ao final, pugnou pela declaração de nulidade dos empréstimos fraudados, de números 17409290, 370493925-9, 370493966-3, 370494059-6 e 370494004-2 e, consequentemente, a suspensão de descontos/lançamentos indevidos; e pela condenação em danos morais, no valor de R$ 40.000,00. Gratuidade de justiça deferida no ID 166496121. Em seguida, deferiu-se o pedido liminar para determinar que as requeridas se abstivessem de realizar descontos em folha de pagamento e conta corrente da requerente, no que toca aos contratos tratados na inicial. O requerido BANCO BMG S.A apresentou contestação no ID 170877119. Preliminarmente, impugnou o valor da causa. No mérito, argumentou que oferece aos seus Clientes pessoas físicas aposentadas, pensionistas do INSS e funcionárias públicos, a possibilidade de contratação de cartão de crédito consignado, que assim como um cartão de crédito comum, i) está vinculado a uma bandeira, ii) possui uma fatura mensal a ser quitada, iii) permite a realização de compras, saques em espécie e pagamento de contas; que foi celebrado entre as partes, em 05/07/2022, contrato sob o código de adesão 76672730; que houve a devida utilização do produto para realização de saque no valor de R$ 2.760,10 em conta de titularidade da parte autora, qual seja, conta 25045159-0, agência 25, Banco BRASILIA S.A; que a contratação eletrônica é plenamente válida e dispensa a confirmação por meio de assinatura física. Réplica no ID 171479444, ocasião em que a requerente reiterou os pedidos iniciais. Em sede de audiência de conciliação, o acordo não se mostrou viável. (ID 174245632) O requerido BANCO PAN S/A apresentou contestação no ID 176284792. Preliminarmente, impugnou o valor da causa, bem como requereu o indeferimento da petição inicial. Após, impugnou a justiça gratuita. No mérito, argumentou que, em 03/02/2023, foram firmados os contratos de empréstimo números 370493925-9, 370493966-3, 370494004-2, 370494059-6, com assinatura biométrica; que as assinaturas biométricas são regulares; que os valores solicitados foram depositados em conta de titularidade da requerente; que os contratos discutidos nos autos possuem todos os requisitos legais de validade. Réplica no ID 178129242, ocasião em que a requerente reiterou os pedidos iniciais. Em decisão saneadora, fixou-se, como ponto controvertido, a ocorrência da fraude descrita na inicial. Em seguida, indeferiu-se a inversão do ônus da prova, bem como deferiu-se o depoimento pessoal da requerente. (ID 181206964) Em sede de audiência de instrução, foi colhido o depoimento pessoal da requerente. (ID 184240036) Os requeridos BANCO BMG S.A e BANCO PAN S/A apresentaram alegações finais por memorais nos IDs 185335906 e 186251145, pugnando pela total improcedência dos pedidos iniciais. A requerente apresentou alegações finais por memorais no ID 186530128, pugnando pela procedência dos pedidos iniciais. É o relatório. DECIDO.”
+
+Os documentos e provas colhidos nos autos foram assim considerados na r. sentença (ID 57794452 - Pág. 2/5, grifou-se):
+
+“De início, reconheço que as partes estão submetidas a uma relação de consumo, porquanto a requerente é pessoa física e destinatária final dos serviços prestados pelo requerido, consoante previsão do art. 2º do CDC. Em face do disposto no art. 3º e seu §2º, do CDC, não há dúvidas de que o requerido é instituição financeira que comercializa produtos e serviços, mesmo porque as atividades de natureza bancária, financeira e de crédito se enquadram expressamente no conceito de serviços. Ainda, os contratos bancários estão sujeitos à disciplina legal do Código de Defesa do Consumidor, consoante enunciado da Súmula 297 do STJ, sendo que o artigo 51, IV, do CDC relativiza o princípio do “pacta sunt servanda”, permitindo ao Estado Juiz proceder ao controle das cláusulas contratuais, viabilizando, assim, a revisão e declaração de nulidade do pacto para afastar eventuais ilegalidades. Por outro lado, o fato de as instituições financeiras se sujeitarem à legislação consumerista não autoriza a automática conclusão de que as cláusulas contratuais devem ser revistas ou anuladas para beneficiar o consumidor. Ao contrário, essa situação somente deve ocorrer na efetiva verificação de abusos cometidos, pelo que a análise das cláusulas contratuais deve ser feita à luz do ordenamento jurídico, com base no princípio do “pacta sunt servanda”, limitandose a revisão contratual a eventuais cláusulas abusivas. O referido princípio também encontra alicerce na boa-fé objetiva, uma vez que as partes devem obedecer a lealdade e a probidade na contratação. Em resumo, ainda que se trate de relação envolta pela Legislação Consumerista, os princípios basilares das relações privadas devem ser observados, tanto pelo consumidor, quanto pelo fornecedor do produto ou prestador do serviço. No caso sob exame, as empresas requeridas juntaram aos autos os contratos de IDs 170877122, 176284793, 176284794, 176289645 e 176289646. A validade da assinatura eletrônica é reconhecida pelo E. Tribunal. Vejamos. APELAÇÃO CÍVEL. CIVIL. PROCESSO CIVIL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. CONTRATO DE CESSÃO DE CRÉDITO E EMPRÉSTIMO CONSIGNADO. CONTRATO ELETRÔNICO. ASSINATURA DIGITAL. FRAUDE. NÃO COMPROVAÇÃO. FALHA NA PRESTAÇÃO DOS SERVIÇOS DA INSTITUIÇÃO BANCÁRIA. INOCORRÊNCIA. SENTENÇA REFORMADA. 1. Trata-se, na origem, de ação movida por consumidor visando a declaração de inexistência de relação jurídica; a restituição de indébito e o pagamento de indenização por danos morais, em decorrência de suposta fraude bancária. 2. Os contratos foram perfectibilizados após o fornecimento de dados pessoais e bancários do consumidor e da sua assinatura eletrônica por intermédio de biometria facial. Intimado a comprovar a efetiva disponibilização do saldo do empréstimo em conta bancária de titularidade do consumidor contratante, por meio da juntada de extratos bancários, o autor se manteve inerte. 3. Na hipótese, a contratação se deu de modo válido e regular, com a inequívoca manifestação de vontade do contratante em anuir com a operação de crédito realizada. Conforme precedentes do colendo STJ e desta egrégia Corte de Justiça, a assinatura eletrônica atesta a autenticidade do documento, certificando que o contrato foi efetivamente assinado pelo usuário daquela assinatura. 4. Comprovada a legalidade da contratação e dos descontos efetuados nos proventos do demandante, assim como a inexistência de prova contundente da fraude por ele alegada, de rigor o julgamento de improcedência dos pedidos autorais. 5. Apelações conhecidas. Recurso do réu provido. Recurso do autor julgado prejudicado. (Acórdão 1798650, 07149415520228070006, Relator: MAURICIO SILVA MIRANDA, 7ª Turma Cível, data de julgamento: 6/12/2023, publicado no PJe: 19/12/2023. Pág.: Sem Página Cadastrada.) [grifei] DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE RELAÇÃO JURÍDICA. EMPRÉSTIMO CONSIGNADO. ASSINATURA ELETRÔNICA. LEGALIDADE. RECONHECIMENTO POR BIOMETRIA FACIAL. DEPÓSITO DE QUANTIA. VALIDADE E EFICÁCIA DO NEGÓCIO JURÍDICO. SENTENÇA REFORMADA. 1. A validade do negócio jurídico requer agente capaz, objeto lícito, possível, determinado ou determinável e forma esteja prevista ou não vedada em lei, conforme prevê art. 104 do Código Civil. 2. É legal a forma eletrônica de assinatura contratual, ante a Lei n. 13.620/2023, que alterou o §4º do art. 784 do CPC e previu a exequibilidade do título executivo constituído ou atestado por meio eletrônico. 3. A comprovação de manifestação de aceite a contrato de empréstimo mediante assinatura eletrônica e reconhecimento por biometria facial, aliada à prova de recebimento de quantia constante do ajuste, impõe o reconhecimento de sua validade e eficácia. 4. Os ônus da sucumbência são invertidos para ser o autor condenado a arcar com as despesas processuais e honorários advocatícios em favor do advogado da parte ré, fixados em 10% sobre o valor da causa, verba cuja exigibilidade ficará suspensa em razão da concessão dos benefícios da gratuidade de justiça em favor do autor, com suporte no art. 98, §3º, do CPC. 5. Apelo conhecido e provido. (Acórdão 1775831, 07064780220238070003, Relator: Roberto Freitas Filho, 3ª Turma Cível, data de julgamento: 19/10/2023, publicado no DJE: 10/11/2023. Pág.: Sem Página Cadastrada.) [grifei] Esse é o caso do autos, um vez que a assinatura eletrônica do contrato de ID 170877122 contou com fotografia do documento pessoal e biometria facial, bem como comprovante de transferência de ID 170877124 – Pág. 19. A assinaturas eletrônicas dos contratos de IDs 176284793, 176284794, 176289645 e 176289646 contaram com geolocalização e biometria fácil, bem como comprovantes de transferência de IDs 176289653, 176289654, 176289656, 176289663. Fixado como ponto controvertido a ocorrência de fraude e indeferida a inversão do ônus da prova, a requerente não indicou outra prova a produzir capaz de desqualificar as assinaturas eletrônicas supramencionadas. Ademais, em que pese alegar que desconhece a conta bancária junto ao BANCO VOTORANTIM S.A. (comprovantes de transferência de IDs 176289653, 176289654, 176289656, 176289663), não produziu provas para corroborar essa alegação. Dito isso, em que pese a requerente, em depoimento pessoal, ter afirmado que não realizou empréstimos junto aos bancos requeridos, tenho hígidas as assinaturas digitais dos contratos mencionados.”
+
+Consoante exposto pelo d. Julgador, a relação contratual posta nos autos se amolda ao Código de Defesa do Consumidor - CDC, pois presentes as figuras de fornecedor e consumidor.
+
+No ponto, o artigo 14 do CDC preceitua que o fornecedor de serviços responde, independente de culpa, pela reparação de danos causados aos consumidores. Por outro lado, o § 3º do mesmo dispositivo permite o afastamento da responsabilidade se o fornecedor provar que prestou o serviço, mas que inexiste defeito.
+
+Por força do artigo 107 do Código Civil, a “validade da declaração de vontade não dependerá de forma especial, senão quando a lei expressamente a exigir”.
+
+Com efeito, a documentação contida nos autos indica a existência de manifestação de vontade da apelante, e que o negócio jurídico foi regularmente celebrado, na forma da lei civil, pois os bancos juntaram dossiês de contratação, contendo dados relativos a geolocalização, a biometria, além de captura de selfie, que permitem extrair o consentimento da consumidora.
+
+As instituições financeiras se desincumbiram do ônus de demonstrar a regularidade das contratações e o substrato do direito que justificou os débitos no benefício previdenciário da apelante, nos termos do artigo 373, I, do CPC.
+
+Por outro lado, a recorrente não impugnou os dados contidos nos termos de contratos eletrônicos, trazidos pelos apelados, limitando-se a alegar que a ausência de assinatura digital invalida a avença e que as contratações seriam resultado de fraude.
+
+A propósito, reitere-se que o negócio jurídico firmado por meios digitais, quando dotados de informações que assegurem a identidade do consumidor e a fidedignidade do consentimento, além de dados que garantam a segurança da operação, é válido e eficaz. Sobre isso, assim já se pronunciou esta e. Corte de Justiça, verbis:
+
+“APELAÇÃO. CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DO INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO CONSIGNADO EM PROVENTOS DE APOSENTADORIA. REFINANCIAMENTO DE CONTRATO ANTERIOR. AUSÊNCIA DE ANUÊNCIA DA CONSUMIDORA. AUTENTICIDADE DO CONTRATO ELETRÔNICO. ÔNUS DA INSTITUIÇÃO FINANCEIRA RÉ. MANIFESTAÇÃO DE VONTADE VÁLIDA DA CONTRATANTE. COMPROVADA. ASSINATURA ELETRÔNICA VIA SELFIE. UTILIZAÇÃO DO VALOR LIBERADO PELO BANCO. REGULARIDADE DA CONTRATAÇÃO. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO. DESCONTOS DEVIDOS. DANO MATERIAL E MORAL. INEXISTENTE. RECURSO CONHECIDO E DESPROVIDO. 1. Trata-se de apelação interposta pela consumidora autora contra sentença que, nos autos da ação de conhecimento ajuizada contra a instituição financeira apelada, julgou improcedente a pretensão autoral de declaração de inexistência de débito relativo a contrato de empréstimo consignado firmado perante o banco réu, de repetição em dobro dos valores indevidamente descontados do seu benefício de aposentadoria, e de indenização pelos danos morais suportados. 2. A relação jurídica estabelecida entre as partes se submete ao CDC, o qual atribui responsabilidade objetiva ao fornecedor pelos serviços prestados, sendo esta afastada somente com a prova da inexistência do defeito no serviço ou da ocorrência de culpa exclusiva do consumidor ou de terceiro, conforme previsão do art. 14, § 3º, do diploma consumerista. 3. Na hipótese, a instituição financeira ré se desincumbiu do ônus (art. 373, II, do CPC) de demonstrar a regularidade na contratação do empréstimo consignado que ensejou os descontos na folha de benefícios da consumidora autora, porquanto comprovou que a autora/apelante assinou o instrumento contratual eletrônico em 1/6/2020, às 12:28:32, após aceite do link enviado via SMS, e reconhecimento via biometria facial, anuindo expressamente com os termos do contrato de empréstimo consignado n. 192990181, firmado no valor total de R$19.217,94 (dezenove mil duzentos e dezessete reais e noventa e quatro centavos), com o intuito de refinanciar contrato anterior sob o n. 865723557-1. 4. Releva-se válida a assinatura eletrônica do instrumento contratual digital, por meio de biometria facial representada pela captura de "selfie" da consumidora contratante, como ocorreu no caso dos autos, mormente quando a apelante sequer alegou que a foto juntada pelo banco réu era diferente da constante no seu documento de identificação. 5. Houve a efetiva disponibilização do valor contratado para conta de titularidade da parte autora, sem tentativa de devolução ou questionamento do depósito, à época. Nota-se, a ação de conhecimento foi ajuizada mais de 2 (dois) anos após o início dos supostos descontos indevidos. Assim, a conjuntura dos autos permite concluir que o empréstimo foi regularmente contratado pela recorrente, e não por terceiro fraudador em seu nome. Inclusive, não houve registro de boletim de ocorrência para possível averiguação de suposta fraude. Consequentemente, escorreita a sentença ao julgar improcedente os pedidos iniciais. 6. Recurso conhecido e desprovido.” (Acórdão 1748789, 07082103120228070010, Relator: SANDRA REVES, 7ª Turma Cível, data de julgamento: 23/8/2023, publicado no DJE: 5/9/2023. Pág.: Sem Página Cadastrada.) – grifou-se.
+
+“APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATO E DE DÉBITO C/C REPETIÇÃO DE INDÉBITO EM DOBRO E REPARAÇÃO POR DANOS MORAIS. CONTRATAÇÃO DE EMPRÉSTIMOS CONSIGNADOS COM DESCONTOS EM APOSENTADORIA. NÃO RECONHECIMENTO PELO CONSUMIDOR. ALEGAÇÃO DE AUSÊNCIA DE AUTORIZAÇÃO. ASSINATURA ELETRÔNICA POR BIOMETRIA FACIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. COMPROVAÇÃO DA INEQUÍVOCA MANIFESTAÇÃO DE VONTADE DO CONTRATANTE. VALIDADE DA CONTRATAÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO NÃO VERIFICADA. AUSÊNCIA DO DEVER DE REPARAÇÃO. DANOS MORAIS INEXISTENTES. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. 1. A apresentação de instrumento contratual formalizado digitalmente entre as partes com a aposição de assinatura eletrônica por meio de biometria facial, representada pela captura de "selfie" em relação à qual não houve impugnação específica nos autos pela parte autora, conduz à conclusão de ter havido inequívoca manifestação de vontade do demandante no sentido de anuir à operação de crédito realizada. 2. A assinatura eletrônica por biometria facial aposta em contrato de empréstimo consignado celebrado digitalmente é apta a atestar a legitimidade e regularidade da contratação por meio digital, sobretudo quando se verifica que a fotografia que serviu à validação biométrica facial não foi impugnada especificamente pelo contratante. 3. Restando demonstrado que a parte autora, de fato, contraiu os empréstimos consignados junto à parte ré, mediante biometria facial (com sua foto), bem como que os valores dos empréstimos foram disponibilizados em conta bancária de sua titularidade, não merece guarida o pleito autoral relacionado à declaração da inexistência dos negócios jurídicos discutidos nos autos, devendo a sentença ser mantida nesta esfera recursal para que a contratação permaneça surtindo seus originários efeitos, como expressão do princípio da força vinculante dos contratos. 4. Não há, assim, que se falar em repetição do indébito por parte da instituição financeira demandada, tampouco em reparação por danos morais, uma vez que não restou configurada falha na prestação dos serviços ou, ainda, qualquer ato ilícito passível de ensejar indenização moral em favor da parte Apelante.  5. Sentença mantida. Recurso não provido.” (Acórdão 1709834, 07020119320228070009, Relator: GETÚLIO DE MORAES OLIVEIRA, 7ª Turma Cível, data de julgamento: 31/5/2023, publicado no PJe: 13/6/2023. Pág.: Sem Página Cadastrada.) – grifou-se.
+
+Embora, nas demandas que envolvam consumidor, seja possível a inversão do ônus da prova, por força do artigo 6º, VIII, do Código de Defesa do Consumidor, no caso sob exame, a decisão saneadora (ID 57794430) indeferiu o pedido de inversão do ônus da prova, considerando que a documentação juntada aos autos não evidenciava a verossimilhança das alegações autorais.
+
+No ID 57794448, a autora/recorrente limitou-se a defender a procedência dos pedidos iniciais. Ademais, juntou os extratos bancários de ID 57794449, que supostamente indicariam o não recebimento dos valores apontados pelas instituições financeiras.
+
+Ocorre que, com relação ao numerário de R$ 2.760,10, feito pelo Banco BMG S/A em 18/07/2022 (ID 57794449 - Pág. 1), a apelante limitou-se a argumentar que seria objeto de fraude, pois o valor contratado seria de R$ 3.943,00 (ID 57794448 - Pág. 2).
+
+Contudo, segundo a “CÉDULA DE CRÉDITO BANCÁRIO (“CCB”) CONTRATAÇÃO DE SAQUE MEDIANTE A UTILIZAÇÃO DO CARTÃO DE CRÉDITO CONSIGNADO EMITIDO PELO BMG” (ID 57794385 - Pág. 10), o montante de R$ 2.760,10 corresponde ao “valor liberado” em favor da autora na operação.
+
+Por óbvio, a diferença entre os valores apontados como devido e como utilizado pela autora remontam aos acréscimos advindos de juros e outros encargos, contra os quais, todavia, não se insurgiu a recorrente.
+
+De outro lado, a apelante não negou o recebimento da quantia, tampouco sua utilização, ao passo em que a avença foi firmada em 05/07/2022, havendo a autora ajuizado a presente demanda, questionando a operação, apenas em 04/09/2023.
+
+Ausentes, ainda, indícios de que tenha buscado as instituições financeiras ou mesmo autoridades policiais, para esclarecer ou denunciar as supostas contratações fraudulentas de que teria sido vítima.
+
+Do mesmo modo, as afirmações sobre “ter o “nome sujo” sem causa, sem motivo, de forma injusta e ilegal” não foram demonstradas. Não há informações que sustentem eventual negativação indevida do nome da requerente em cadastros de restrição ao crédito.
+
+No mesmo sentido, apesar de alegar que não possuiria conta no BANCO VOTORANTIM S/A, instituição na qual, diga-se, foram depositados valores em seu nome e CPF, não produziu provas em sentido contrário. De fato, não basta alegar que o Banco pertença à outra unidade da federação.
+
+Aliás, a referida instituição financeira possui unidade em Brasília/DF[1], não havendo sido demonstrado pela recorrente qualquer iniciativa no sentido de obter declaração ou outro documento que comprovasse a inexistência de conta de sua titularidade naquele estabelecimento. Da mesma forma, não conseguiu demonstrar a dificuldade na sua obtenção, não havendo se falar em produção de prova diabólica.
+
+Desse modo, a autora não se desincumbiu do ônus de produzir prova que lhe era de fácil acesso, conduzindo a cenário sustentado em prova satisfatória quanto à regularidade da contratação e, portanto, da legalidade dos descontos efetuados pelas instituições financeiras em seu benefício previdenciário.
+
+Revelando-se regulares as operações de crédito, não há falar em repetição de indébito, e nem em existência de dano moral passível de compensação, já que ausente conduta e dano, pressupostos da responsabilidade civil.
+
+Diante do exposto, rejeitada a preliminar, CONHEÇO e NEGO PROVIMENTO ao recurso.
+
+Majoro os honorários advocatícios para 11% do valor da causa, na forma do artigo 85, § 11, do CPC, cuja exigibilidade está suspensa, porque concedida gratuidade de justiça à apelante, conforme art. 98, § 3º, do CPC.
+
+É o meu voto.
+
+[1] SCS, Quadra 06, Bloco A Ed. Arnaldo Villares, Loja 72 - Asa Sul, Brasília - DF, 70300-968.
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal Com o relatorA Senhora Desembargadora VERA ANDRIGHI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNANIME.
