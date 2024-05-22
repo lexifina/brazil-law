@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por PINHEIRO TAHAN SOCIEDADE INDIVIDUAL DE ADVOCACIA contra decisão que inadmitiu recurso especial manejado em face de acórdão às fls. 1.030-1.035 proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. REQUISIÇÃO DEPEQUENO VALOR. AUSÊNCIA DE IMPUGNAÇÃO. HONORÁRIOSADVOCATÍCIOS INDEVIDOS.
+- Não são devidos honorários em execuções contra a Fazenda Pública, relativas a quantias sujeitas ao regime de Requisições de Pequeno Valor (RPV), que não foram impugnadas.
+Precedentes.
+No recurso especial às fls. 1.042-1.056, fundamentado na alínea "c" do permissivo constitucional, a parte recorrente alega, em suma, interpretação divergente ao artigo 85, §7º, do CPC, no que concerne à possibilidade de fixação de honorários advocatícios sucumbenciais, em sede de cumprimento de sentença contra a Fazenda Pública, quando não houver impugnação e o valor do crédito for pago por meio de requisição de pequeno valor, trazendo os seguintes argumentos:
+Conforme se vê no acórdão objurgado, o Tribunal a quoafastoua possibilidade de arbitramento de honorários advocatícios na fase executória ante a previsão inserta no §7º, do artigo 85, do CPC, devendo englobar as requisições de pequeno valor. Fundamenta ainda, que decorre de ação individual não se enquadrando no entendimento pela possibilidade de fixação de honorários em face de promoção de execução individual de sentença coletiva, na linha do entendimento firmado pela Corte Especial do C. Superior Tribunal de Justiça, em regime de julgamento repetitivo (R
+Esp 1.648.498 -Tema 973).
+ ..
+A controvérsia consiste no cabimento ou não dos honorários advocatícios sucumbenciais, em sede de cumprimento de sentença contra a Fazenda Pública, quando não houver impugnação e o valor do crédito for pago por meio de requisição de pequeno valor e não de precatório.
+ ..
+Nos autos paradigma, trata-se de execução de sentença contra a União, objetivando o pagamento de aposentadoria por invalidez. Na sentença, extinguiu-se a execução pelo pagamento e deixou de condenar a União ao pagamento de honorários advocatícios. No Tribunal a quo, a sentença foi mantida. Porém no STJ o recurso especial foi provido.
+Consignou o voto relator que "a jurisprudência do Superior Tribunal de Justiça firme no sentido de que são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor -RPV."
+ ..
+Em sua ratio decidendi, consignou-se no paradigma que independentementede impugnação, são devidos honorários advocatícios em execução/cumprimento de sentença contra a Fazenda Pública envolvendo crédito sob o regime de RPV, em interpretação a contrario sensu do previsto no artigo 85, parágrafo 7º, do CPC.
+ ..
+Ora, uma vez condenada a Fazenda Pública, esta não cumpriu voluntariamente o disposto no título executivo, o que ensejou a iniciativa de promoção desta fase de execução pela parte credora.
+ ..
+Observe-se, portanto, que apenas nos cumprimentos de sentença que resultem na expedição de precatório, e nos quais não haja impugnação, os honorários não serão devidos.
+Em se tratando de RPV, deverão ser arbitrados honorários advocatícios sucumbenciais no cumprimento de sentença, independente da interposição de impugnação, nos termos da lei vigente, que confere contornos expressos ao princípio da causalidade. (fls. 1.042-1.056)
+Sem contrarrazões ao recurso especial.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 1.079-1.081, sob o fundamento da aplicação da Súmula n. 7 do STJ.
+Insurge-se a parte agravante às fls. 1.082-1.092 contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Sem contraminuta ao agravo em recurso especial.
+É o relatório. Decido.
+A parte agravante impugnou especificamente os fundamentos adotados na decisão agravada, mostrando-se presentes os pressupostos de admissibilidade do presente agravo, adentra-se à análise do recurso especial.
+Quanto à alegada interpretação divergente ao artigo 85, §7º, do CPC, no que concerne à possibilidade de fixação de honorários advocatícios sucumbenciais, em sede de cumprimento de sentença contra a Fazenda Pública, quando não houver impugnação e o valor do crédito for pago por meio de requisição de pequeno valor, no caso em apreço, o Tribunal de origem concluiu que não era devido honorários advocatícios em execuções contra a Fazenda Pública, relativas a quantias sujeitas ao regime de requisições de pequeno valor (RPV), que não foram impugnadas, consoante se verifica da transcrição a seguir:
+O Código de Processo Civil possibilita a condenação ao pagamento de honorários advocatícios na fase de cumprimento de sentença, conforme disposto no art. 85, §7.º: § 7º Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada.
+ ..
+Verifica-se que o dispositivo supramencionado é aplicável a este caso, porquanto não houve impugnação por parte do executado. Ainda, o fato de o pagamento ser realizado por meio de requisição de pequeno valor não afasta a sua aplicação, em atenção aos princípios da isonomia e da razoabilidade, uma vez que o devedor não possui autonomia para optar pela forma de pagamento do montante devido, independentemente do valor, restrito que está às hipóteses legais.
+ ..
+Registre-se que o cumprimento de sentença decorre de ação individual, não se enquadrando no entendimento pela possibilidade de fixação de honorários em face de promoção de execução individual de sentença coletiva, na linha do entendimento firmado pela Corte Especial do C. Superior Tribunal de Justiça, em regime de julgamento repetitivo (REsp1.648.498 - Tema 973):
+O Superior Tribunal de Justiça, nos autos dos REsp n. 2.029.636/SP, de Relatoria do Ministro Herman Benjamin, por intermédio da Primeira Seção, submeteu ao rito do recurso especial repetitivo, com proposta de afetação, julgado em 21/3/2023, DJe de 27/4/2023, a seguinte controvérsia jurídica: "possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV", sob o Tema nº 1.190/STJ, conforme ementa a seguir:
+RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA. RESP 2.031.118/SP, RESP 2.029.675/SP, RESP 2.029.636/SP E RESP 2.030.855/SP. RITO DOS ARTS. 1.036 E SEGUINTES DO CPC. ADMISSÃO.
+1. Admitida a afetação com a seguinte delimitação da tese controvertida: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV."
+2. Recurso Especial submetido ao regime dos arts. 1.036 e seguintes do CPC.
+(ProAfR no REsp n. 2.029.636/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 21/3/2023, DJe de 27/4/2023.)
+A admissão de recurso especial como representativo da controvérsia impõe que os processos que tratem da mesma questão central fiquem suspensos até o pronunciamento definitivo do STJ e os recursos já interpostos fiquem sobrestados perante o Tribunal de origem, consoante artigo 1. 037 do CPC/2015. Posteriormente, tais recursos devem ser apreciados na forma prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Nesse contexto, considerando a controvérsia do recurso especial, determino a devolução dos autos ao Tribunal de origem, com baixa da distribuição, para que, após publicados os acórdãos relativos aos recursos representativos da controvérsia, o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça, ou, 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, observados os artigos 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
