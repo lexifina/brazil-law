@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRANYL COMÉRCIO E INDÚSTRIA TÊXTIL LTDA. (BRANYL), com fundamento no art. 105, III, alínea a e c, da CF, contra acórdão proferido pelo Tribunal Paulista, assim ementado:
+MONITÓRIA- CONTRATO DE PUBLICIDADE EM LISTA TELEFÔNICA - PRESCRIÇÃO AFASTADA - PACTO FIRMADO POR GERENTE - PESSOA QUE DETÉM PODERES IMPLÍCITOS PARA CONTRATAR - APLICAÇÃO DA TEORIA DA APARÊNCIA - CONDIÇÕES ESTATUTÁRIAS COM NÃO SE OPOR A TERCEIROS DE BOA -FÉ - INEXISTÊNCIA DE PROVA DE ERRO -SERVIÇOS PRESTADOS - INADIMPLEMENTO NEM SEQUER NEGADO - FEITO PROCEDENTE - SENTENÇA CONFIRMADA - RECURSO NÃO PROVIDO (e-STJ, fl. 350).
+Opostos embargos de declaração por BRANYL, foram rejeitados (e-STJ, fls. 491/494).
+Após o provimento de recurso especial por esta Corte, reconhecendo violação do art. 1.022 do NCPC, o Tribunal Paulista procedeu a novo julgamento dos aclaratórios, rejeitando-os, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO  ARESTO CLARO E COM FUNDAMENTAÇÃO BASTANTE  INEXISTÊNCIA DE VÍCIOS COM SANAR  VIA IMPRÓPRIA PARA MODIFICAÇÃO DO JULGADO  DESNECESSIDADE DA INTERPOSIÇÃO PARA PREQUESTIONAMENTO  RECURSO REJEITADO (e-STJ, fl. 658).
+Nas razões do presente recurso, BRANYL alegou violação dos arts. 493 do NCPC e 16 da LACP, bem como dissídio jurisprudencial, aduzindo que (1) a sentença proferida em ação civil pública estende seus efeitos a todo o território nacional, possuindo eficácia erga omnes; e (2) na ação civil pública foi reconhecida a ilicitude da conduta de captação de clientes mediante a anuência da contratação via fax por qualquer funcionário que a recebesse, sem que tivesse poderes para tal fim (e-STJ, fls. 661/679).
+Foram apresentadas contrarrazões (e-STJ, fls. 719/746).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) e (2) Da contratação
+Nas razões do presente recurso, BRANYL alegou a negativa de vigência dos arts. 493 do NCPC e 16 da LACP, bem como dissídio jurisprudencial, aduzindo que (1) a sentença proferida em ação civil pública estende seus efeitos a todo o território nacional, possuindo eficácia erga omnes; e (2) na ação civil pública foi reconhecida a ilicitude da conduta de captação de clientes mediante a anuência da contratação via fax por qualquer funcionário que a recebesse, sem que tivesse poderes para tal fim.
+Sobre o tema o Tribunal estadual consignou que não havia identidade entre os quadros fáticos que contornavam a presente ação monitória e a ação civil pública, visto que nesta a contratação foi realizada de forma presencial, tendo sido firmado o contrato por gerente da empresa e aprovados os anúncios publicados, não se tratando de contratação via fax, confira-se:
+Conforme constou na decisão, o contrato em discussão fora válido, pois que firmado pelo Gerente da Empresa Ré, confirmada a contratação também pela aprovação do indigitado "layout" dos anúncios, realizada por tal funcionário, inexistente prova de erro ou vício da vontade, comprovada a prestação dos serviços com a publicação das propagandas conforme contratadas, e confessado o inadimplemento, de modo que a Ação Monitória haveria mesmo que ser acolhida, cabendo à Embargante com pagar pelos serviços que livremente contratou - e nada existe capaz de infirmar, ainda que em tese, esse entendimento.
+Além disso, ver que aqui não se aplica a decisão proferida na Ação Civil Pública nº 0201934-20.2011.8.26.0100, que não alcança contratos anteriormente firmados, e porque o presente caso difere da hipótese tratada naquela demanda, uma vez que a contratação aqui discutida foi realizada de forma presencial, firmado o pacto por Gerente da Empresa, e devidamente aprovados os anúncios empós publicados, válido o pacto, não se referindo o caso à contratação via "fax" tratada na mencionada ação (e-STJ, fl. 659 - sem destaque no original).
+Assim, rever as conclusões quanto à distinção entre as hipóteses fáticas retratadas na presente demanda e na ação civil pública demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de BRANYL em 3%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CONTRATO DE PUBLICIDADE EM LISTA TELEFÔNICA. IRREGULARIDADE NA CONTRATAÇÃO. AÇÃO CIVIL PÚBLICA. DISTINÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
