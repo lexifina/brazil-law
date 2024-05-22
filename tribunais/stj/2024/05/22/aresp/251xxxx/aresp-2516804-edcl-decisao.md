@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FRANCISCO ANTONIO DE FREITAS NETO à decisão de fls. 349/350, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Foi negado seguimento ao Agravo em Resp., sob o fundamento de Deserção, por suposto erro ao citar o número do processo de origem, o qual, no caso, foi citado o número que consta do acordão recorrido. Vejamos:
+ ..
+Importante frisar que não houve erro material quanto ao preenchimento, o que ocorreu foi a citação do número do Acordão Recorrido, por uma determinação do próprio sistema do STJ de preenchimento de GRU.
+Estamos diante de uma contradição, pois a r. decisão diz que o número na GRU deve ser o número do processo da origem. Por outro lado, o sistema disponibilizado pelo STJ para preenchimento da GRU, determina que conste o número do acordão recorrido e não o numero do processo de origem.
+Vejamos:
+ ..
+Assim, ao preencher a GRU no sítio Eletrônico do STJ, o sistema determina que seja colocado ali o número do Acordão Recorrido. Ou seja, a r. decisão determina um número, mas o sistema determina outro número.
+Os particulares tratam com os órgãos públicos sob o Princípio da Confiança de que o sistema está de acordo com as normas, ao preencher o número se o sistema determina outro número isto não pode causar prejuízos aos usuários do serviço público, como no presente em que aplicou a deserção.
+Diante da contradição entre a r. decisão e sistema do STJ que gera as GRUs, de ser reconsiderada a r. decisão, pois trata-se de sistema do próprio tribunal.
+Portanto, deve ser revista a decisão embargada de forma que seja sanada tal contradição, tendo em vista que foi citado o número de acordo com o sistema do STJ para o correto deslinde do processo (fls. 353/356).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que a petição de recurso esp ecial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Veja-se que o documento de fl. 295 não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não há como verificar se diz respeito à guia de recolhimento relativa a este processo (fl. 294), pois não há menção ao respectivo código de barras.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+Além disso, esta Corte consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando-se a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Assim, conclui-se que a comprovação do recolhimento das custas só é possível com a juntada concomitante da guia de recolhimento corretamente preenchida e do comprovante de pagamento válido, em que conste a sequência numérica do código de barras.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que apresentou a guia de recolhimento (fl. 341) com a indicação incorreta do "Número do Processo que consta no Acórdão Recorrido".
+Note-se que consta no acórdão recorrido o nº do processo 1.0000.23.021679-8, e na guia de recolhimento (fl. 341) o n. do processo que constou foi 0000.23.021679-8, portanto, claramente incorreto.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no REsp 1587322/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 28/11/2019; AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019; e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
