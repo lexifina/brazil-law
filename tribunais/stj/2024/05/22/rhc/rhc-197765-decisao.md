@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado:
+HABEAS CORPUS. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA DO CÁRCERE PREVENTIVO. ARGUMENTOS INSUBSISTENTES. ART. 312 DO CPP. DECISÃO LASTREADA NOS ELEMENTOS INFORMATIVOS PRODUZIDOS. PACIENTE QUE RESPONDE A OUTRAS AÇÕES PENAIS E COM CONDENAÇÃO CONFIRMADA EM SEGUNDA INSTÂNCIA. ORDEM DENEGADA.
+I - Alegação de fundamentação inidônea do cárcere preventivo.
+II - No caso em concreto, em dissonância com o quanto pleiteado pela Defesa, revelam-se presentes os pressupostos e requisitos autorizadores do cárcere cautelar preventivo. Paciente que responde a outras ações penais. Reiteração delitiva. Precedentes do STJ.
+III - Preenchidos os pressupostos para a decretação do cárcere preventivo, quais sejam, prova da existência do crime e indícios de autoria. Reiteração delitiva e periculosidade social do Paciente.
+IV - Parecer do Ministério Público pelo conhecimento e consequente denegação.
+V - HABEAS CORPUS DENEGADO.
+Narram os autos que o recorrente foi preso em flagrante, convertido em preventiva, pela prática, em tese, do crime previsto no art. 157, caput, do Código Penal.
+Sustenta a defesa, em suma, ausência de fundamentação idônea no decreto prisional, requerendo, liminarmente e no mérito, a concessão da ordem, a fim de que a prisão do recorrente seja revogada.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo conhecimento e desprovimento do recurso.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão do recorrente foi assim decretada (fls. 22-23):
+Nos termos do art. 589 do CPP, primeira parte, no exercício do juízo de retratação, entendemos que assiste razão ao pleito ministerial, merecendo ser reformada a decisão atacada.
+Com efeito, examinando-se os presentes autos, verifica-se a existência de indícios suficientes acerca da autoria e prova da materialidade do citado crime, estando presentes, portanto, os pressupostos autorizadores do decreto preventivo.
+Em tese, observa-se o envolvimento do Flagranteado em crime doloso, que possui pena máxima, privativa de liberdade, superior a 04 (quatro) anos, punível com reclusão.
+Segundo os autos, Filipe Oliveira Caldas é acusado de praticar roubo contra a vítima Christiane Cerqueira de Oliveira Bulhões, fato ocorrido em 15/10/2023, aproximadamente às 10h30min, no bairro da Barra, nesta Capital. Ele teria abordado a vítima, de forma violenta, tentado subtrair a sua corrente, mas a vítima segurou a corrente, tendo o flagranteado colocado seu joelho em suas costas apoiando-a para arrancar as suas correntes. Em decorrência disso, a vítima ficou com o pescoço lesionado. O acusado em sede policial o acusado confessou o crime.
+O acusado responde a outras ações penais: 1. CONDENAÇÃO PENAL: n.º 8036696-75.2023.8.05.0001, perante a 14ª Vara Criminal da Comarca de Salvador, pelo crime de furto, o qual se encontra em fase recursal; 2. AÇÃO PENAL em andamento: n.º 8156985- 71.2022.8.05.0001, perante a 10ª Vara Criminal da Comarca de Salvador, pelo crime de roubo majorado, o qual se encontra com audiência de instrução designada para o dia 22/11/2023, às 10hmin.
+Ora, o réu foi posto em liberdade no dia 04/10/2023, mediante a monitoração eletrônica, e menos de um mês após foi preso em flagrante novamente, ou seja, medidas cautelares diversas da prisão não foram suficientes.
+Diante do exposto, em razão do crime ter sido praticado mediante violência, vislumbra-se portanto a necessidade da imposição cautelar máxima, para a garantia da ordem pública e prevenção da recorrência delitiva.
+Dessa forma, nos termos do art. 589 do CPP, em sede de juízo de retratação no recurso em sentido estrito interposto, acolho a promoção ministerial e DECRETO A PRISÃO PREVENTIVA DE FILIPE OLIVEIRA CALDAS, qualificado nos autos, pela prática do delito previsto no art. 157, caput, do CPB, diante da necessidade de garantir a ordem pública, na forma dos arts. 312 e 313, I, do CPP.
+Como já assinado, a custódia foi decretada com base em fundamentação idônea evidenciada pela propensão à reiteração delitiva do recorrente e pela gravidade concreta do delito de roubo.
+A constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confiram -se: AgRg no RHC n. 174.050/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 167.491/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023; AgRg no HC n. 770.197/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022; RHC 140.629/AL, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/02/2021.
+Ademais, " j ustifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023). No mesmo sentido: AgRg no RHC n. 175.527/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 780.490/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/2/2023, DJe de 3/3/2023; AgRg no RHC n. 164.793/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.
+Ante o exposto, nego provimento ao recurso .
+Publique-se.
+Intimem-se.
+EMENTA
