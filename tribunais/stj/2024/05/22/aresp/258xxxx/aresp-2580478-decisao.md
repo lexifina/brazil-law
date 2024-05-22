@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, porquanto não realizado o devido cotejo analítico para demonstração do dissídio jurisprudencial, bem como pela incidência da Súmula 7/STJ.
+Nas razões do agravo em recurso especial, a defesa sustenta que "As razões que ensejam a reforma da decisão, foram exaustivamente demonstradas quando do desenvolvimento dos argumentos concernentes aos fatos e ao cabimento do recurso" (fl. 367), bem como que "Este debate não importa reexame de provas, importa em interpretação restrita aos termos da Lei, não incorrendo, portanto, com a regra ajustada na Súmula 07 desta Egrégia Corte" (fl. 373).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O agravo é tempestivo e ataca os fundamentos da decisão impugnada.
+O recurso especial, interposto com fulcro nas alíneas a e c do inciso III do art. 105 da Constituição Federal, no entanto, não deve ser conhecido.
+Com efeito, a interposição do apelo extremo interposto com fulcro na alínea c do inciso III do art. 105 da Constituição Federal, exige o atendimento dos requisitos do art. 1029, e § 1º do Código de Processo Civil, e art. 255, § 1º, do RISTJ, para a devida demonstração do alegado dissídio jurisprudencial, pois, além da transcrição de acórdãos para a comprovação da divergência, é necessário o cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ocorreu na espécie.
+Ademais, ainda que assim não fosse, tendo concluído as instâncias de origem, diante das provas amealhadas, que ainda que o agravante não integrasse o quadro societário da empresa, mas sendo seu gerente, "não se pode escudar na alegação simplista de que a compra foi realizada por um funcionário, e que não trabalhava aos domingos" (fl. 319), rever tal entendimento esbarraria necessariamente no revolvimento de fatos e provas, procedimento inviável na senda do apelo nobre, nos termos da Súmula 7/STJ.
+Nesse sentido, tratando-se de crime de receptação, ao qual o acusado foi flagrado na posse do bem (no caso, na empresa que gerenciava), a ele competiria demonstrar o desconhecimento da sua origem ilícita, o que não ocorreu.
+Com o mesmo entendimento, veja-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. INVASÃO DE DOMICÍLIO. ACÓRDÃO FUNDAMENTADO NA MATÉRIA CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF. JUSTA CAUSA DEMONSTRADA. SÚMULA N. 83 DO STJ. AUSÊNCIA DE DOLO E DESCLASSIFICAÇÃO DA CONDUTA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A matéria relativa à violação de domicílio foi decidida no acórdão recorrido com enfoque na legislação constitucional, cuja competência para julgamento é do Supremo Tribunal Federal, conforme previsão do art. 102, III, "a", da Constituição Federal.
+2. Ainda que assim não fosse, o julgado recorrido apresentou elementos que justificariam a abordagem residencial, tais como a ocorrência de campanas prévias rotineiras, a visualização de movimentação característica de atos de traficância, oitiva de usuário que admitiu haver adquirido drogas da apelante e do corréu e filmagens de toda a ação desempenhada. Assim, haveria sido demonstrada a justa causa para entrada na residência, circunstância que estaria de acordo com a jurisprudência desta Corte Superior e atrairia a aplicação do disposto na Súmula n. 83 do STJ.
+3. A análise da pretensão absolutória, por ausência de dolo, bem como o pedido subsidiário de desclassificação da conduta são inadmissíveis, por demandarem revolvimento de fatos e provas dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.521.410/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
