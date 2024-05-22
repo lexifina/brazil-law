@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por ANTONIO NETO DE SOUSA, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Depreende-se dos autos que o recorrente encontra-se preso preventivamente, pela suposta prática do crime de feminicídio - "o Paciente agrediu com arma branca sua companheira, Helena Pereira da Silva, causando-lhe perfurações no tórax e no abdômen, causando-lhe a morte" - fl. 76. O Tribunal a quo manteve a decisão do juízo de origem e denegou a ordem, em acórdão de fls. 72-93.
+Postula a defesa, em síntese, a revogação da prisão preventiva decretada em desfavor do recorrente alegando para tanto: ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o recorrente ostenta condições pessoais favoráveis e ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Pedido de sustentação oral à fl. 108.
+Pedido de liminar indeferido às fls. 116-117.
+Informações prestadas às fls. 122-125.
+O Ministério Público Federal em parecer, às fls. 129-134, manifestou em parecer que restou assim ementado:
+"Habeas corpus. Feminicídio. Preventiva. Periculosidade social evidenciada pela gravidade concreta da ação delitiva decorrente do modus operandi da conduta. Garantia da ordem pública. Fundamentação idônea. Constrangimento ilegal não evidenciado. Parecer pelo não provimento do recurso" - fl. 129.
+É o relatório. DECIDO.
+Quanto ao pedido de sustentação oral, plenamente possível, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema.
+Nesse sentido:
+"A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019)" (AgRg no HC n. 796.496/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023)." (AgRg no HC n. 827.752/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+In casu, tenho que a r. decisão que decretou a prisão preventiva do recorrente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade do agente e pelo modus operandi da conduta perpetrada:
+"Com efeito,ao que tudo indica, o representado, insatisfeito com o fim do casamento e com o fato de a vítima estar namorando outra pessoa, ceifou brutalmente a sua vida, utilizando-se tanto de uma arma de fogo, como de uma arma branca" - fl. 14.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensãoi à prática delitiva e conduta violenta" (AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023, grifei.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
