@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por ELIZABETH MIGUEL, fundamentado nas alíneas "a", "b" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL -AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS -CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO -FRAUDE IDENTIFICADA POR PERÍCIA-ILICITUDE VERIFICADA -DÉBITO INEXIGÍVEL -DESCONTOS MENSAIS DE BAIXA QUANTIA -DEVER DE INDENIZAR NÃO CONFIGURADO -Não constitui excludente de ilicitude a constatação de que o contrato que originou os descontos efetivados indevidamente nos proventos de aposentadoria do consumidor foi celebrado por terceiro falsário, porquanto o fornecedor possui o dever de diligenciar a fim de evitar riscos intrínsecos à sua atividade comercial. -Ausente a prova de violação a direitos da personalidade não se configura o dano moral, mas o mero aborrecimento, sobretudo na hipótese em que, embora não contratado o empréstimo consignado, os valores descontados são se mostram elevados, sendo insuficientes a comprometer a subsistência do consumidor. (fl.252)
+Os embargos de declaração foram rejeitados.
+Em suas razões do recurso especial, a recorrente aponta violação ao art. 14 do CDC, sustentando, em síntese, fazer jus à indenização por dano moral, em razão de descontos indevidos sobre seu benefício previdenciário.
+É o relatório.
+Decido.
+O prazo para a interposição do agravo em recurso especial e do recurso especial é de 15 (quinze) dias, contados em dias úteis, nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, todos do Código de Processo Civil de 2015.
+Cabe ressaltar que a intimação eletrônica do acórdão recorrido em relação ao recorrente ocorreu em 28/08/2023, iniciando-se o prazo recursal de 15 dias úteis em 29/08/2023 e término em 19/09/2023. Desta forma, interposto o recurso especial somente em 20/09/2023, impõe-se o reconhecimento da intempestividade.
+Tal prazo, contudo, não foi observado pela parte ora recorrente, a qual, inclusive, deixou de comprovar, no momento da interposição do recurso, por meio de documento idôneo, a existência de comprovação do feriado local na data de 08/09/2023, nos termos exigidos pelo art. 1.003, § 6º, do CPC de 2015.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. CORPUS CHRISTI. FERIADO LOCAL.
+1. Nos termos do artigo 1.024, § 3º, do NCPC, após intimado o recorrente para complementar as razões recursais, os embargos declaratórios opostos com o intuito de conferir efeitos infringentes à decisão embargada devem ser recebidos como agravo interno.
+2. Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+3. O feriado nacional deve estar previsto em lei federal, contudo, o dia de Corpus Christi (Corpo de Cristo) é feriado local, uma vez que não previsto em qualquer legislação federal e, portanto, sua eventual ocorrência na instância de origem exige comprovação nos autos pela parte interessada por meio de documento idôneo, no ato de interposição.
+4. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.383.414/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe de 02/05/2019 - g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 11% para 12% sobre o valor atualizado da causa, observado o disposto no art. 98, § 2º, do NCPC, dada eventual justiça gratuita.
+Publique-se.
+EMENTA
