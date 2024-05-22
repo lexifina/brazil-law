@@ -1,0 +1,46 @@
+DECISÃO
+NILSON DA SILVA MORAES alega sofrer constrangimento ilegal em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2077387-23.2024.8.26.0000.
+A defesa busca a revogação da prisão preventiva do paciente, decretada ante a suspeita da prática do crime previsto no art. 121, § 2º, III e IV, do Código Penal (por duas vezes), ainda que mediante a fixação de cautelares alternativas, ao argumento de que não há motivação idônea para manter a medida extrema.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 378-381).
+Decido.
+O Juízo de primeiro grau, ao decretar a segregação cautelar, assinalou que "estão presentes as condições expressas em lei para a decretação da prisão preventiva" (fl. 25) e que "os denunciados estão envolvidos em crimes de extrema gravidade, demonstrando insensibilidade moral e enorme periculosidade" (fl. 26).
+O Tribunal de origem, ao denegar a ordem, consignou o seguinte (fls. 280-286, destaquei):
+No caso presente, verte das informações prestadas pela autoridade dita coatora, datadas de 26.03.2024, que o Paciente foi denunciado como incurso no artigo 121, § 2º, incisos III e IV, por duas vezes, na forma do artigo 70, segunda parte, c.c. o artigo 29, todos do Código Penal, porque, agindo com Danilo Tiago Dias e Gilberto Carlos Rodrigues Junior, em concurso de agentes e com unidade de desígnios, com ânimo homicida, mediante dissimulação e com emprego de meio cruel, efetuaram disparos de arma de fogo contra Mateus Xisto Pereira Luna e Renata Borsarini dos Santos, causando-lhes os ferimentos descritos nos laudos necroscópicos, os quais foram a causa determinante de suas mortes. Consta que a denúncia foi recebida em 29.11.2011, ocasião em que foi decretada a prisão preventiva de todos os réus, tendo as tentativas de localização do Paciente sido infrutíferas, com a determinação de suspensão do processo e do curso prescricional, nos termos do artigo 366, do Código de Processo Penal, e posterior desmembramento dos autos. Consta, ainda, que o mandado de prisão expedido em desfavor do Paciente foi cumprido em 06.02.2024, ocasião em que foi indeferido o pedido de revogação da prisão preventiva.
+Consta, por fim, que se aguarda a apresentação de resposta à acusação pela Defesa (fls. 336/338).
+E consta da decisão que indeferiu o pedido de revogação da prisão preventiva, que ora transcrevo:
+"O fato se deu em 2011 e o réu na época evadiu-se, sendo somente encontrado em 06.02.2024, conforme mandado de prisão cumprido às fls. 752/753 e a suspensão do feito revogada. Assim, só por esse evento, verifica-se que já necessidade de se impor a custódia cautelar para garantir a aplicação da lei penal.
+Ademais o réu é acusado de ter participado de dois homicídios graves na companhia de mais dois outros indivíduos, Danilo e Gilberto, os quais foram julgados em processo diverso, já que restou determinado o desmembramento com relação ao réu, pois este estava foragido. Dessa forma, a conduta do acusado gera risco, também, a garantia da ordem pública.
+Tais fatos, somados à gravidade do delito, além dos indícios de autoria e materialidade, são fundamentos suficientes para se manter a prisão do réu e eventuais qualidades subjetivas, por si só, não são suficientes para elidir tais fundamentos" (fls. 331/332).
+Verifico, assim, que o I. Magistrado que manteve a decretação da prisão preventiva o fez de forma fundamentada, considerando não somente a gravidade abstrata do delito, mas a existência de indícios de autoria e de prova da materialidade, as circunstâncias concretas do caso, bem como as condições pessoais do Paciente, reveladoras da necessidade da decretação da prisão preventiva, atendendo ao disposto no artigo 312 do CPP.
+Com efeito, considerando as circunstâncias concretas em que, em tese, praticado o delito, tendo em vista o fato de o Paciente e os demais corréus terem supostamente matado as vítimas mediante dissimulação e meio cruel, tendo em vista que o acusado Danilo, que já possuía amizade com uma das vítimas, ofereceu carona ao destino pretendido pelas vítimas, surpreendendo-as mediante inúmeros disparos de arma de fogo, conforme a denúncia (fls. 21/23), bem como considerando que a prisão foi decretada em 29.11.2011 (fls. 260/267) e, conforme as informações prestadas pela autoridade dita coatora, o Paciente apenas foi localizado em 06.02.2024, tendo permanecido foragido por mais de doze anos, vindo a fugir após sua oitiva em fase inquisitiva (fls. 207/209 dos autos principais), o que indica a necessidade de garantir a aplicação da lei penal, a decretação da prisão preventiva era mesmo de rigor, para atender às finalidades previstas no artigo 312 do Código de Processo Penal.
+ ..
+Nesse contexto, mostra-se inconsistente a alegação de constrangimento ilegal ante a inexistência de motivo justificador da prisão cautelar, em razão, in casu, da ausência dos requisitos autorizadores da liberdade provisória bem como da insuficiência das medidas cautelares alternativas.
+ ..
+Cumpre ressaltar que primariedade, bons antecedentes, residência fixa, ocupação lícita e demais condições favoráveis, por si sós, não são suficientes para a concessão da liberdade provisória.
+ ..
+Dessa forma, presentes os requisitos do artigo 312 do Código de Processo Penal, não há que se cogitar de constrangimento ilegal a ser sanado por meio do writ.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso, as instâncias ordinárias apontaram a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta do delito, evidenciada pelo modus operandi (o paciente e os demais corréus teriam supostamente matado as vítimas mediante dissimulação e meio cruel), e a necessidade de garantir a aplicação da lei penal - por haver o acusado permanecido foragido por longo período.
+As circunstâncias acima elencadas demonstram que a imposição da constrição cautelar foi adequadamente motivada, segundo a jurisprudência do STJ.
+Ilustrativamente:
+ ..
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado.
+4. Na hipótese, a custódia cautelar foi decretada para garantia da ordem pública, ante a gravidade concreta da conduta delituosa e da periculosidade do agente, bem como para o bom andamento da instrução criminal.
+5. O recorrente teria cometido um homicídio qualificado na modalidade tentada, na frente da mãe da vítima, através de golpes de faca em várias partes do corpo. Importante mencionar que contra ele foram impostas medidas protetivas, já que a violência contra a vítima era constante, tendo o crime ocorrido em flagrante descumprimento de determinação judicial.
+6. Habeas corpus não conhecido.
+(HC n. 417.217/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 14/12/2017, grifei)
+ ..
+3. Ademais, a agravante teria permanecido foragida durante o curso do processo, circunstância que também autoriza a prisão preventiva, tendo em vista que sua liberdade colocaria em risco a aplicação da lei penal.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade da agravante indica que a ordem pública não estaria acautelada com sua soltura.
+5. Agravo regimental não provido.
+(AgRg no HC n. 892.471/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 18/4/2024, destaquei)
+ ..
+2. A decisão que manteve a prisão preventiva não necessita de fundamentação exau stiva, fazendo alusão à motivação contida no decreto e já considerada válida pela Sexta Turma, no julgamento do RHC n. 88499/BA, em especial a questão de estar foragido, dado indicado no decreto, em 2016, sendo a prisão efetivada apenas em 2023.
+ ..
+(AgRg no RHC n. 193.077/BA, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT),6ª T., DJe 11/4/2024)
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: " t endo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/9/2022).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
