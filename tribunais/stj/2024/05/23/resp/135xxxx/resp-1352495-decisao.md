@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial (fls. 437-489) interposto por RAIMUNDO LUIZ CARDOZO contra acórdão (fls. 352-366) do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. POLICIAL MILITAR. ATO ADMINISTRATIVO. JUÍZO FAZENDÁRIO. DECLÍNIO DE COMPETÊNCIA PARA AUDITORIA MILITAR. DECISÃO NÃO ATACADA. PRECLUSÃO. PRESCRIÇÃO. QUESTÃO DE ORDEM PÚBLICA. RECONHECIMENTO EM QUALQUER TEMPO E GRAU DE JURISDIÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DOS REQUISITOS. PRINCÍPIO DA SEGURANÇA JURÍDICA.
+1. A competência para processar e julgar feitos em que se discute a legitimidade da autoridade competente para assinar o ato de exclusão de policial militar, em si unicamente considerado, é do Juízo Fazendário.
+2. A opção de não impugnação, em momento oportuno, de decisão de declínio de competência gera preclusão e, assim, impede a rediscussão da matéria em sede de apelo.
+3. Indene de dúvidas que a prescrição pode ser reconhecida de ofício em qualquer tempo e grau de jurisdição por se tratar de questão de ordem pública.
+4. A instauração do incidente de uniformização de jurisprudência é uma faculdade do órgão julgador orientada pelos critérios de conveniência e oportunidade.
+5. Em se tratando de demanda com vistas a anular o ato de licenciamento da Corporação Militar, sob o pálio de incompetência de autoridade, o termo a quo do prazo prescricional é a data da sua realização.
+6. O administrado de submete ao prazo prescricional fixado na lei para manejar ação em face da Administração Pública, mesmo em se tratando de ato administrativo eventualmente nulo, em homenagem ao princípio da segurança jurídica que tem berço constitucional.
+7. Transcorridos dez anos entre a data do ato questionado e a propositura da ação, mostra-se inquestionável a prescrição, nos termos do artigo 1º do Decreto nº 20.910/32.
+8. Recurso desprovido.
+Os embargos de declaração foram rejeitados. (fls. 425-433).
+Nas razões recursais, o recorrente sustenta, em síntese, que a competência para processar e julgar sua ação é absoluta, isto é, cognoscível a qualquer tempo e até mesmo de ofício, não se podendo considerar preclusa sua discussão e "deveria, e não o foi, ter sido objeto de análise e julgamento pelo próprio d. juízo da Auditoria Militar do DF". Aduz ter sido omisso o acórdão quanto a esse ponto, mesmo com a oposição de embargos de declaração.
+Contrarrazões apresentadas (fls. 496-506).
+É o relatório.
+Passo a decidir.
+O recorrente ajuizou ação ordinária, perante a Justiça Comum, visando à anulação de ato praticado por autoridade incompetente. Aduziu que o ato foi perpetrado pelo Comandante da Polícia Militar do Distrito Federal, quando, nos termos da Lei Ordinária do Distrito Federal, caberia ao Governador decidir sobre o licenciamento.
+Com o declínio da competência para a Justiça Militar (juízo da Auditoria Militar do DF), houve o julgamento antecipado da lide ante o reconhecimento da prescrição, já que o ato fora praticado em 1998, isto é, cerca de 10 (dez) anos antes d o ajuizamento da ação (em 2008).
+Em sede de apelação, o apelante, ora recorrente, argumentou que a competência para o julgamento seria da Justiça Comum e, por se tratar de nulidade absoluta, poderia ser decretada a qualquer tempo.
+No julgamento da apelação, o Tribunal considerou que, embora correto o apontamento inicial da competência da justiça comum para processar sua ação ordinária, a questão se encontrava preclusa, uma vez que não impugnada a tempo e modo. No mérito, foi mantida a sentença por verificação da prescrição da pretensão para o ajuizamento da ação.
+Inicialmente, não prospera a alegação da parte recorrente quanto à omissão acerca do enfrentamento de seu argumento de se tratar, no caso, de nulidade absoluta a competência do juízo, cognoscível a qualquer tempo e até mesmo de ofício. Isso porque a questão foi expressamente apreciada no acórdão recorrido (fls. 360-365), embora em voto divergente que restou vencido.
+No mais, as razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, uma vez que não impugnado o fundamento de que, ajuizada a ação perante a Vara da Fazenda, não houve impugnado, a tempo e modo, o declínio da competência à Justiça Militar, tendo a parte devolvido a questão apenas depois do resultado da sentença, que lhe fora desfavorável.
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Isso posto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Deixo de proceder à majoração dos honorários, porque não arbitrados na origem.
+Intimem-se.
+EMENTA
