@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, recurso especial interposto por CHUBB SEGUROS BRASIL S.A. contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. SERVIÇO DE ENERGIA ELÉTRICA. AUSÊNCIA DE PROVA DA OBSERVÂNCIA DA NORMATIVA REGULADORA PERTINENTE AO CASO. NEXO DE CAUSALIDADE NÃO COMPROVADO.
+1. A demandada, na qualidade de concessionária de serviço público, responde objetivamente pelos danos decorrentes de falha na prestação do serviço de energia elétrica, inclusive descargas atmosféricas que, atingindo a rede pública de energia elétrica, danifica bens de particulares, nos termos do art. 37, §6º, da CF/88 e do art. 14, caput, do CDC.
+2. E o fato de a seguradora sub-rogar-se nos direitos do consumidor, pelas próprias regras que regem o instituto da sub-rogação, não altera a sistemática de responsabilização da ré.
+3. Todavia, "não foram observadas as normas do procedimento para ressarcimento de prejuízos decorrentes do uso de energia elétrica definidos em resolução do agente regulador do setor, notadamente a falta de comunicação do sinistro e a oportunização para vistoria dos equipamentos avariados, o que determina a impossibilidade de estabelecer a relação de causa e efeito segura a autorizar o dever de reparação" (TJRS, Ap. Cív. nº 70073322869, 9ª CC, Redator para o acórdão: Des. Tasso Caubi Soares Delabary, j. em 26/09/2017).
+4. Caso, ainda, em que a unidade consumidora segurada enquadra-se no Grupo A de consumo de energia elétrica, sendo, então, responsável pelas instalações necessárias ao abaixamento da tensão, transporte de energia e proteção dos sistemas, além do ponto de entrega, nos termos do parágrafo único do art. 15 da Resolução 414/2010 da ANEEL. Precedentes da Câmara.
+5. Sentença de improcedência mantida.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente aponta, em síntese, violação ao art. 1.022, III, do CPC, alegando deficiência na fundamentação, bem como afronta ao art. 373, II, do CPC, sustentando que "a recorrida não se incumbiu de seu ônus probatório, o qual era medida rigor, ante sua responsabilidade objetiva e com base nos documentos juntado aos autos pela re c orrente".
+Acrescenta a existência de divergência jurisprudencial, defendendo a tese de que o exercício da jurisdição, em ação regressiva de ressarcimento, não está condicionado à realização de procedimento administrativo.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Com relação à alegada violação ao art. 1.022 do CPC/2015, o acórdão recorrido, fundamentadamente, decidiu pela não ocorrência de erro material, eis que "o fundamento central do acórdão residiu na ausência de requerimento administrativo, por parte da segurada, conforme regramento da Resolução nº 414/2010 da ANEEL, ao passo que o que a embargante sustenta ao longo do feito e nos presentes embargos é que a sua cliente enviou um e-mail informando o sinistro e solicitando informações sobre o ressarcimento".
+Portanto, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, tampouco em deficiência de fundamentação.
+No mérito, o Tribunal de origem concluiu que não foi demonstrada a suposta falha na prestação do serviço prestado pela recorrida, consignando "a necessidade de prova mais robusta acerca do nexo de causalidade entre o serviço prestado pela ré e o princípio de incêndio havido no estabelecimento segurado pela autora".
+Assim, a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Por fim, cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a, quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+Nas razões do recurso especial, de fato, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam recebido interpretação divergente, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+Nesse sentido: "Não é possível conhecer do recurso especial fundado no art. 105, III, c, da CF/1988, uma vez que a parte recorrente não indicou qual seria o dispositivo de lei federal de interpretação controvertida, o que atrai a incidência do enunciado 284 da súmula de jurisprudência do STF, por analogia" (AgInt no AREsp 2.028.203/MA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 28/4/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
