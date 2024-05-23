@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por FERNANDO OTT fundamentado nas alíneas a e c do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (e-STJ fl. 505):
+APELAÇÕES CRIMINAIS. RACISMO COMETIDO POR MEIO DE COMUNICAÇÃO SOCIAL (ART. 20, §2º, DA LEI 7.716/89). SENTENÇA CONDENATÓRIA. RECURSO DAS DEFESAS.
+PRELIMINARES. (A) ALEGAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. NÃO ACOLHIMENTO. INEXISTÊNCIA DE INTERESSE DIRETO DA UNIÃO OU DE CARÁTER TRANSNACIONAL DO ILÍCITO APURADO. HIPÓTESES LEGAIS DE ATRAÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL NÃO VERIFICADAS (ART. 109, IV E V, CRFB/88). (B) TESE DE ATIPICIDADE DA CONDUTA. NÃO CONHECIMENTO. SITUAÇÃO JÁ APRECIADA POR ESTA CÂMARA EM SEDE DE HABEAS CORPUS E CONFIRMADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. COMPORTAMENTO QUE, EM TESE, SE ADEQUA AO TIPO PENAL INCRIMINADOR. (C) REQUERIMENTO PARA DEVOLUÇÃO DOS AUTOS À ORIGEM, A FIM DE QUE SEJA PROPOSTO ACORDO DE NÃO PERSECUÇÃO PENAL (28-A, CPP). IMPOSSIBILIDADE. BENEFÍCIO CABÍVEL APENAS QUANDO AINDA NÃO RECEBIDAA DENÚNCIA. EXORDIAL ADMITIDA ANTES DA ENTRADA EM VIGORDA LEI 13.964/19. INAPLICABILIDADE DO INSTITUTO.
+MÉRITO. PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE DOLO. IMPROCEDÊNCIA. PUBLICAÇÃO E COMPARTILHAMENTO EM REDE SOCIAL ("FACEBOOK") DE MENSAGEM OFENSIVA À COLETIVIDADE DA REGIÃO NORDESTE. AUSÊNCIA DE INTERESSE NA MERCANCIA DE IDEIAS OU NO DEBATE POLÍTICO. SIMPLES DISCURSSO DE ÓDIO, NÃO ABRANGIDO PELA LIBERDADE DE EXPRESSÃO.
+RECURSOS PARCIALMENTE CONHECIDOS E, NESTA EXTENSÃO, NÃO PROVIDOS.
+O Tribunal de origem condenou o réu à pena de 2 anos de reclusão, em regime aberto, além do pagamento de 10 dias-multa, como incurso no art. 20, § 2º, da Lei n. 7.716/1989.
+Opostos embargos de declaração pela defesa foram eles rejeitados (e-STJ fls. 535-538).
+Em suas razões, o recorrente alega, além do dissídio jurisprudencial em relação à interpretação do art. 20, caput, e §2º, da Lei n. 7.716/89, violação ao referido artigo, dada a atipicidade da conduta, bem como ao art. 28-A do Código de Processo Penal, ao argumento de que há possibilidade de oferecimento do acordo de não persecução penal (e-STJ fls. 550-567).
+Contrarrazões apresentadas às e-STJ fls. 593-601.
+Decisão de admissibilidade do recurso especial (e-STJ fls. 618-620).
+Parecer do Ministério Público Federal pelo não provimento do recurso especial (e-STJ fls. 665-676).
+É o relatório.
+Inicialmente, em relação à violação ao art. 20, caput, e § 2º, da Lei n. 7.716/89, em razão da alegada atipicidade da conduta, o Tribunal de origem manteve a condenação com base na seguinte fundamentação (e-STJ fls. 510-511):
+Aliás, o Superior Tribunal de Justiça, nos autos do HC n. 558687/SC, em decisão monocrática da lavra da Ministra Laurita Vaz, denegou ordem de Habeas Corpus manejado contra o acórdão acima colacionado, ao entendimento de que "o crime do art. 20 da Lei n. 7.716/89 também estaria caracterizado nas hipóteses em que o preconceito estiver relacionado à procedência interna do País (no caso em análise, contra nordestinos)".
+Apenas para consignar, tanto a publicação, feita por Jonas, quanto o compartilhamento, levado a efeito por Fernando, em linha de princípio, possuem aptidão para a subsunção típica, considerando que a prática do preconceito não requer forma específica de manifestação.
+Assim, tratando-se de questão já superada, porque sobre ela deliberada, o ponto não comporta conhecimento.
+(..)
+Conforme consta na denúncia, Jonas publicou e Fernando compartilhou em suas páginas da rede social facebook a seguinte mensagem: "Nordeste vota no PT..
+Depois vem pro Sul vender rede e capa de volante".
+O fato é incontroverso, existindo confissão de ambos os Apelantes na fase judicial.
+(..)
+Nesse contexto, é possível concluir, sem grande esforço, que os Apelantes se manifestaram em tom absolutamente preconceituoso, com intenção de menosprezar a coletividade da região Nordeste do país, sob o afrontoso e descabido pretexto de superioridade sulista.
+(..)
+Desta forma, conclui-se que houve o aperfeiçoamento das elementares típicas do delito previsto no art. 20 da Lei n. 7.716/89 (..)
+Dessa forma, incide o óbice da Súmula 7/STJ - A pretensão de simples reexame de prova não enseja recurso especial -, uma vez que para dissentir da conclusão do Tribunal de origem e absolver o agravante seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Por outro lado, releva consignar, acerca do ANPP, que o fato de a matéria atinente à aplicação retroativa do art. 28-A do CPP estar pendente de julgamento no Plenário do Supremo Tribunal Federal (HC 185.913) não implica a suspensão dos processos em andamento nesta Corte Superior, uma vez que a controvérsia foi afetada à sistemática dos recursos repetitivos (Tema Repetitivo 1098), ocasião em que a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes (AgRg no REsp n. 2.037.768/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023). Ademais, não reconhecida a repercussão geral da matéria de fundo pelo Supremo Tribunal Federal, tampouco determinado pela referida Corte ou por este Tribunal Superior o sobrestamento das causas que versem a respeito da temática, inexiste óbice ao seu julgamento (AgRg no AgRg no AREsp n. 1.962.355/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/11/2021) (AgRg no AREsp n. 2.240.776/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/3/2023, DJe de 22/3/2023) (AgRg no REsp n. 2.055.481/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/6/2023, DJe de 14/6/2023).
+A jurisprudência desta Corte Superior possui orientação de que o acordo de não persecução penal - ANPP, introduzido pela Lei n. 13.964/2019, no art. 28-A do CPP, não pode retroagir às ações penais cuja denúncia já tenha sido recebida até sua entrada em vigor, como ocorre na presente hipótese.
+Nesse contexto, "a orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que não recebida a denúncia. A partir daí, iniciada a persecução penal em juízo, como na espécie, não há falar em retroceder na marcha processual" (AgRg no AREsp n. 1.799.075/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/10/2021, DJe de 4/11/2021).
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OMISSÃO INEXISTENTE. USURPAÇÃO DE COMPETÊNCIA DO PRETÓRIO EXCELSO. NÃO OCORRÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). DENÚNCIA RECEBIDA E SENTENÇA CONDENATÓRIA CONFIRMADA EM SEGUNDA INSTÂNCIA. IMPOSSIBILIDADE  ..
+5. A jurisprudência firmou entendimento no sentido de que, "iniciada a persecução penal com o recebimento da denúncia e, no caso, com a condenação, inclusive, do paciente em segunda instância, resta afastada a possibilidade de acordo de não persecução penal, por não se coadunar com o propósito do instituto despenalizador pré-processual" (AgRg no HC N. 644.020/SC, relator Ministro Felix Fischer, Dje de 12/3/2021).
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg nos EAREsp n. 1.533.884/PB, relator Ministro Humberto Martins, Corte Especial, DJe de 25/6/2021).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RETROATIVIDADE. RECEBIMENTO DA DENÚNCIA. PRECLUSÃO. AGRAVO DESPROVIDO.
+1. A jurisprudência dominante do Superior Tribunal de Justiça é de que o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei 13.964/2019, desde que não recebida a denúncia à data de sua vigência.
+2. Ocorrência de preclusão, pois recebida a denúncia e prolatados sentença e acórdão.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.203.438/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 3/7/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182/STJ AFASTADA. EXPLORAÇÃO DE PRESTÍGIO. ART. 28-A DO CPP. ANPP. IMPOSSIBILIDADE. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. SOBRESTAMENTO DO FEITO. INCABÍVEL.
+ ..
+2. Prevalece nesta corte o entendimento de que, recebida a denúncia antes da entrada em vigor da lei n. 13.964/2019, como no caso dos autos, é incabível a retroatividade do art. 28-A do CPP, para aplicação do acordo de não persecução penal (ANPP). A controvérsia foi afetada à sistemática dos recursos repetitivos (Tema 1098), ocasião em que a 3ª Seção decidiu não determinar a suspensão do trâmite dos processos pendentes.
+ ..
+5. Agravo regimental provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgRg no AREsp n. 2.318.291/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 23/6/2023).
+No caso, quando foi promulgada a Lei n. 13.964, em 24/12/2019, a denúncia já havia sido recebida, em 11/02/2019 (e-STJ fl. 41), de forma que não é possível a celebração do acordo de não persecução penal - ANPP.
+Ademais, a retroatividade do art. 28-A do Código de Processo Penal é negada com maior razão normativa quando, após o recebimento da denúncia, a prestação jurisdicional nas instâncias ordinárias se tenha exaurido mediante prolação de sentença condenatória confirmada em segunda instância, como na hipótese em exame.
+Incumbe consignar que a dicção do Superior Tribunal de Justiça fixou-se no sentido de que os óbices que impedem o conhecimento do recurso especial fundado na alínea a do permissivo constitucional também prejudicam o exame do alegado dissídio jurisprudencial acerca dos mesmos temas. Sob esse norte: AgRg nos EDcl no AREsp 2065313/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 5/3/2024, DJe de 15/3/2024 e AgRg no AREsp 2218965/CE, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/203, DJe de 27/3/2023.
+Ante o exposto, conheço em parte do recurso especial, e, nesta extensão nego-lhe provimento.
+Publique-se e intimem-se.
+ EMENTA
