@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WALLACE DE MATTOS BARBOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Revisão Criminal n. 5005447-79.2023.8.08.0000).
+Na hipótese, tem-se que o paciente foi condenado, como incurso nas sanções dos arts. 121, § 2º, incisos II e IV, do Código Penal e 244-B da Lei n. 8069/1990, na forma do art. 69 do Código Penal, à pena de 23 anos e 4 meses de reclusão, em regime inicial fechado (e-STJ fls. 95/104).
+A defesa ajuizou revisão criminal, na qual requereu a anulação do júri, ao argumento de que a decisão teria sido manifestamente contrária à prova dos autos, e a revisão da dosimetria realizada. O pedido revisional, no entanto, foi julgado improcedente em acórdão cuja ementa foi assim definida (e-STJ fls. 12/13):
+REVISÃO CRIMINAL - TRIBUNAL DO JÚRI - ARTIGO 121, §2º, INCISOS II E IV, DO CÓDIGO PENAL, E ARTIGO 244-B, DO ECRIAD - NOVO JÚRI - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - DESCABIMENTO - REDUÇÃO DA PENA-BASE - IMPOSSIBILIDADE - CIRCUNSTÂNCIAS JUDICIAIS FUNDAMENTADAS DE FORMA IDÔNEA - PEDIDO JULGADO IMPROCEDENTE. 1. É sabido que a revisão criminal tem seu cabimento restrito àquelas hipóteses previstas no artigo 621 do Código de Processo Penal. No presente caso, acerca do pleito de anulação da decisão oriunda do Conselho de Sentença, comungo do entendimento esposado pela douta Procuradoria de Justiça no sentido de que a tese levantada pelo revisionando é incapaz de ultrapassar a fase de admissibilidade, uma vez que é inadmissível, na via da Revisão Criminal, a absolvição pela simples reapreciação dos critérios que serviram como elementos de convicção dos Julgadores que atuaram nos autos originários, tanto em sede de conhecimento, como de recurso. 2. Restando comprovado que o ilustre magistrado "a quo" aplicou a pena-base do recorrente com fulcro nos artigos 59 e 68 do Código Penal, utilizando-se dos elementos constantes dos autos e da discricionariedade conferida pela jurisprudência pátria, não há cabimento a redução daquela, que foi dosada em patamar bem razoável, tendo em vista as circunstâncias judiciais desfavoráveis. 3. Pedido revisional julgado improcedente.
+Neste writ, sustenta a defesa que o habeas corpus não configura reiteração de pedido, uma vez que o Tribunal de origem não proveu sequer em parte a revisão criminal, e no mais reitera as razões contidas no habeas corpus anteriormente impetrado perante esta Corte, HC n. 877.409/ES.
+Requer, ao final (e-STJ fls. 9/10):
+A) O conhecimento do Habeas Corpus substitutivo de recurso próprio.
+B) anulação do júri pela decisão manifestamente contrária às provas dos autos, em especial na ocasião dos quesitos apresentados aos jurados e pela prova de que o menor D foi absolvido na vara da infância. Logo, os jurados foram contra a prova dos autos e um novo júri é a mais cristalina justiça.
+C) Caso seja mantida a condenação, requer:
+D) A reforma da decisão no cálculo dosimétrico, afastando as circunstâncias judiciais aplicadas em claro "bis in idem" e aumentar o quantum da atenuante da menoridade relativa.
+E) Com o afastamento das circunstâncias, tendo em vista a decisão dos jurados pelas duas qualificadoras, seja aplicada a pena mínima, qual seja: 12 anos no homicídio qualificado (fútil) e aumento pela qualificadora do recurso que dificultou a defesa da vítima, totalizando 14 anos de pena definitiva.
+F) Seja retirado a majoração da pena do artigo 244-B, vez que o menor acusado deste delito foi absolvido na vara da infância e juventude.
+G) Caso este HC não seja conhecido, seja a ordem concedida de ofício.
+É, em síntese, o relatório.
+Decido.
+O presente writ, conquanto impetrado contra ato coator diverso, configura efetivamente mera reiteração do pedido feito no HC n. 877.409/ES, também de minha relatoria, no qual já proferi decisão indeferindo a medida de urgência.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração, indefiro-o liminarmente com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
