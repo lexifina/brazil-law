@@ -1,0 +1,46 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, contra acórdão prolatado pela Tribunal Regional Federal da 5ª Região, assim ementado (fl. 563e):
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRIMEIRA APRECIAÇÃO PELO NÃO ACOLHIMENTO. DETERMINAÇÃO DE REJULGAMENTO PELO STJ. CUMPRIMENTO. ENCAMINHAMENTO DE DÉBITO PARA A PGFN, A FIM DE POSSIBILITAR INCLUSÃO EM PARCELAMENTO FISCAL. CABIMENTO. OMISSÃO SANADA SEM EFEITOS INFRINGENTES.
+1. Caso em que o Eg. STJ decidiu pela existência de omissão no acórdão, determinando novo julgamento dos embargos declaratórios interpostos pelo Conselho Regional, por entender que o julgado não se manifestou sobre se, em havendo débitos parcelados, existe a possibilidade de a Administração extinguir o parcelamento anterior, tornar o crédito exigível e determinar sejam incluídos em dívida ativa .
+2. Declarada a existência de omissão no julgado pelo STJ, deve-se sanar o vício sem efeitos infringentes, tendo em vista que a alegação não tem o condão de modificar o teor do mérito do acórdão, que corretamente deferiu a postulação.
+3. Isso porque a Portaria PGFN/ME Nº 11.496 estabeleceu condições benéficas para a realização de transação excepcional em função dos efeitos da pandemia causada pelo novo coronavírus, com o objetivo de estimular a conformidade fiscal relativa aos débitos inscritos em dívida ativa da União, permitindo a retomada da atividade produtiva, ao reabrir os prazos da Portaria ME nº 447/2018. Diploma legal que estabelece que a adesão fica condicionada à desistência de eventuais parcelamentos, devendo o contribuinte aderir à proposta de transação excepcional formulada pela Procuradoria-Geral da Fazenda Nacional até a data que especifica, renovada pela Portaria 11.496/2020. Tampouco há qualquer outro óbice legal de envio dos débitos parcelados à PFGN, havendo a possibilidade, portanto, de rescindir-se o parcelamento anterior para fins de adesão à transação excepcional.
+4. Correto, portanto, o julgado, a fim de se evitar prejuízos ao contribuinte em aderir ao Programa de Retomada Fiscal objeto da citada Portaria, diante da previsão legal permissiva
+5. Em homenagem ao julgado do STJ, deve-se conhecer dos embargos de declaração e acolhê-los em parte, tão somente para suprir a omissão apontada, mas sem efeitos modificativos, mantendo, no mais, o julgado, em todos os seus demais termos.
+Com amparo no art. 105, III, a, da Constituição da República aponta-se ofensa a dispositivos legais, alegando, em síntese, a impossibilidade de rescisão de parcelamento anterior para o fim de adesão à transação excepcional.
+Com contrarrazões, o recurso foi admitido.
+O Ministério Público manifestou-se às fls. 645/651e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Do prequestionamento
+Observo que em relação à alegada ofensa aos arts. 1 º, §1º e § 2º, 7º da Lei n. 13.988/2020; 111, 156, 171, caput, do CTN, a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado dispositivo.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo quinquenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1327122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014 - destaque meu).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013 - destaque meu).
+- Dos honorários recursais
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+- Do dispositivo
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
