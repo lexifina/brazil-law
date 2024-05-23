@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME TRIBUTÁRIO. SÚMULA N. 182 DO STJ. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Deve ser mantida a decisão da Presidência desta Corte, uma vez que o agravante deixou de contestar, de forma específica, os fundamentos relacionados à falta de comprovação de divergência jurisprudencial e à impossibilidade de utilização de acórdãos de habeas corpus, mandado de segurança ou recurso ordinário como paradigmas.
+3. A quitação do tributo não foi discutida nem decidida pelo tribunal de origem. Essa matéria não está prequestionada e somente foi deduzida no recurso especial inadmitido, sem a juntada de certidão fiscal que ateste, de forma clara e objetiva, a quitação do tributo. Não há elementos para reconhecer o pagamento do tributo, de ofício.
+4. Agravo regimental não provido.
+RELATÓRIO
+JOSÉ BENEDITO GUERRA MAIA se insurge contra a decisão da Presidência desta Corte, a qual não conheceu do seu agravo em recurso especial com fundamento na Súmula n. 182 do STJ.
+A parte assinala que "enfrentou todos os fundamentos da decisão atacada, bem como expôs de forma específica todos os requisitos de admissibilidade recursal" (fl. 1.049). Houve "prequestionamento da matéria quanto à extinção da punibilidade pelo pagamento do tributo" (fl. 1.050), o que pode ser conhecido de ofício, pois demonstrou a quitação dos débitos. Ainda, destacou o "dissídio jurisprudencial" (fl. 1.054) e o objetivo do recurso, de "discutir a violação a leis federais" (fl. 1.055), de modo que rebateu a Súmula n. 284 do STF.
+O Ministério Público Federal opinou pelo não conhecimento ou pelo não provimento do agravo regimental.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME TRIBUTÁRIO. SÚMULA N. 182 DO STJ. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Deve ser mantida a decisão da Presidência desta Corte, uma vez que o agravante deixou de contestar, de forma específica, os fundamentos relacionados à falta de comprovação de divergência jurisprudencial e à impossibilidade de utilização de acórdãos de habeas corpus, mandado de segurança ou recurso ordinário como paradigmas.
+3. A quitação do tributo não foi discutida nem decidida pelo tribunal de origem. Essa matéria não está prequestionada e somente foi deduzida no recurso especial inadmitido, sem a juntada de certidão fiscal que ateste, de forma clara e objetiva, a quitação do tributo. Não há elementos para reconhecer o pagamento do tributo, de ofício.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A Presidência desta Corte Superior não conheceu do agravo em recurso
+especial por aplicação da Súmula n. 182 do STJ.
+O recurso em apreço visa atacar os fundamentos apontados pelo Tribunal a quo para inadmitir o recurso especial. Ressalte-se que, segundo o princípio da dialeticidade, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ademais, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg nos EDcl no AREsp n. 1.785.474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021).
+No caso, a instância de origem não conheceu do recurso especial, considerando: Súmula n. 284 do STF, ausência de prequestionamento, divergência não comprovada, impossibilidade de indicação de julgados de habeas corpus, mandado de segurança ou recurso ordinário para análise do dissídio, Súmulas n. 13 e 7 do STJ.
+A defesa deixou de impugnar especificamente: divergência não comprovada e impossibilidade de indicação de acórdãos oriundos de habeas corpus, mandado de segurança ou recurso ordinário para demonstrar a divergência jurisprudência. Ressalte-se que o reclamo foi interposto com fundamento no art. 105, III, "a" e "c", da CF (fl. 963) e não houve demonstração, às fls. 1.011-1.026, de cotejo analítico, de similitude fática e de paradigmas adequados para análise do recurso.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Adicionalmente, ressalto que a defesa deixou de alegar, em apelação, a quitação do tributo. A matéria consta somente no recurso especial (fls. 974-975), não conhecido, sem a juntada de certidão do fisco que ateste, de forma clara e objetiva, a quitação integral do tributo.
+A jurisprudência do STJ firmou-se no sentido de que mesmo as matérias de ordem pública necessitam do prequestionamento para serem analisadas em recurso especial. No caso, em sequer há elementos para reconhecer a extinção de punibilidade, de ofício, o que pode ser requerido pela defesa até mesmo após o trânsito em julgado, desde que comprovado inequivocamente o pagamento integral do débito.
+Na linha dos precedentes desta Corte, deixou de conceder a ordem, pois o ""habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1777820/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/4/2021)" (AgRg no AREsp n. 1.450.671/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/5/2021, DJe 14/5/2021).
+À vista do exposto, nego provimento ao agravo regimental.
