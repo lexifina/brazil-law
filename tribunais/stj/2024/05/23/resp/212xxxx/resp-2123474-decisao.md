@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa é a seguinte (e-STJ fl. 66):
+AGRAVO EM EXECUÇÃO - INDEFERIMENTO DE PEDIDO DE INDULTO COM BASE NO DECRETO PRESIDENCIAL Nº 11.302/2022 - RECURSO DA DEFESA. PEDIDO DE REFORMA DA DECISÃO - IMPROCEDÊNCIA - AGRAVANTE CONDENADO POR TRÁFICO PRIVILEGIADO (L. 11.343/06, ART. 33, §4º) - PENA PRIVATIVA DE LIBERDADE MÁXIMA EM ABSTRATO SUPERIOR A CINCO ANOS - VEDAÇÃO EXPRESSA AO INDULTO - ARTIGO 5º DO DECRETO PRESIDENCIAL. DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Alega a defesa violação do art. 7º, VI, do Decreto 11.302/2022, além de divergência jurisprudencial, sustentando a possibilidade de concessão do indulto para os casos de condenação ao delito de tráfico de drogas na modalidade privilegiada.
+Apresentadas contrarrazões e admitido na origem, manifestou-se o Ministério Público Federal pelo não provimento do recurso.
+É o relatório. Decido.
+O recurso merece prosperar.
+Conforme relatado, busca-se o deferimento do indulto previsto no Decreto Presidencial 11.302/2022 em relação à condenação pela prática do crime do art. 33, § 4º, da Lei 11.343/06.
+Inicialmente, deve ser ressaltado que "A concessão de indulto ou comutação da pena é ato de indulgência do Presidente da República, condicionado ao cumprimento, pelo apenado, das exigências taxativas previstas no decreto de regência" (AgRg no HC n. 714.744/PR, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022).
+No caso, o Tribunal de Justiça manteve o indeferimento do indulto sob os seguintes fundamentos (e-STJ fls. 67/69):
+O agravante tem uma condenação (Lei nº 11.343/06, art. 33, §4º) e sua pena total é de 04 anos, 10 meses e 10 dias de reclusão.
+A d. Defesa sustenta que o artigo 7º do Decreto Presidencial afasta o tráfico privilegiado das hipóteses em que não pode ser concedido o indulto.
+Não lhe assiste razão.
+Os Decretos Presidenciais de indulto e comutação de pena, comumente editados ao final de cada ano, estabelecem de forma expressa as condições para a concessão desses benefícios.
+O artigo 5º do Decreto Presidencial nº 11.302/2022, que fundamentou a decisão agravada, fixou as seguintes condições para a concessão de indulto:
+"Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos."
+A pretensão de concessão do indulto pelo simples fato de o agravante ter sido condenado por tráfico privilegiado não deve prosperar.
+Isso porque o preceito secundário do tipo previsto no artigo 33, caput, da Lei nº 11.343/06 prevê pena privativa de liberdade máxima superior a cinco anos. Observe-se:
+"Art. 33. Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar:
+Pena - reclusão de 5 (cinco) a e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) 15 (quinze) anos dias-multa." (sem grifos no original)
+E, conforme bem destacado pela d. Procuradora Geral de Justiça Dra. Luciane Maria Duda, o reconhecimento da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/2006 afasta o caráter de equiparado a hediondo do crime, mas não altera o preceito secundário do tipo de tráfico de droga.
+E, por consequência, o cálculo da pena para o fim de indulto tem como parâmetro a quantidade máxima de 15 (quinze) anos de reclusão prevista no do artigo.
+Ainda que assim não se entenda, a possibilidade de redução da pena pela regra do §4º, para o fim de calcular a pena máxima para esse crime, deve observar a redução mínima prevista pela norma.
+Então, para o cálculo da pena máxima em abstrato do delito de tráfico privilegiado deve-se abater o mínimo da causa de diminuição de pena (1/6) da pena máxima em abstrato apresentada pelo preceito secundário (15 anos de reclusão).
+E a subtração de 1/6 de 15 anos resulta em 12 anos e 06 meses de reclusão, quantidade bastante superior a 05 anos de reclusão.
+Nesse sentido:
+ ..
+Assim, ainda que o artigo 7º, inciso VI, do Decreto Presidencial nº 11.302/2022 tenha excetuado o tráfico privilegiado das proibições da concessão de indulto, tem-se que o próprio Decreto Presidencial, ao limitar o indulto aos crimes com pena inferior a 05 anos de reclusão, afasta a possibilidade de indulto nesses casos.
+Desse modo, por não preencher os requisitos descritos na normativa de regência, o agravante não faz jus ao benefício do indulto.
+Então, a pretensão recursal não merece ser acolhida.
+Do excerto, constata-se que o Tribunal de Justiça entendeu por manter o indeferimento do indulto, ante o não cumprimento do requisito objetivo, qual seja, a quantidade da pena máxima em abstrato cominada ao delito de tráfico de drogas.
+No entanto, a despeito da regra prevista no art. 5º do Decreto 11.302/2022, o art. 7º, VI, do referido Decreto, excepcionou expressamente a figura do tráfico privilegiado do rol dos crimes não abrangidos pelo indulto, conforme abaixo transcrito:
+Art. 7º O indulto natalino concedido nos termos do disposto neste Decreto não abrange os crimes:
+(..)
+VI - tipificados no caput e no § 1º do art. 33, exceto na hipótese prevista no § 4º do referido artigo, no art. 34 e no art. 36 da Lei nº 11.343, de 23 de agosto de 2006;
+Portanto, tendo o recorrente sido condenado pelo crime de tráfico privilegiado, não subsiste o requisito objetivo da pena máxima em abstrato invocado pelas instâncias ordinárias como óbice à indulgência (art. 5º do mesmo Decreto).
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO. DECRETO N. 11.302/2022. CONDENAÇÃO POR TRÁFICO PRIVILEGIADO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. Esta Corte Superior firmou compreensão no sentido de que é possível a concessão do indulto aos condenados por tráfico de drogas, com aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas.
+2. "De acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange os crimes tipificados no caput e no § 1º do ar. 33, exceto na hipótese prevista no §4º do referido dispositivo, no art. 34 e no art. 36 da Lei n. 11343/2006. E o art. 5º, caput, estabelece que " s erá concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos""(HC n. 818.978/SP, rel. Min. Antônio Saldanha, Sexta Turma, DJ de 25/9/2023.) 3. Agravo regimental improvido.
+(AgRg no HC n. 852.300/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. RECURSO DO MINISTéRIO PÚBLICO DO ESTADO DE SÃO PAULO - MPSP. DECRETO N. 11.302/2022. INCONSTITUCIONALIDADE INCIDENTAL REJEITADA. POSSIBILIDADE DE RECONHECIMENTO DO INDULTO AO CRIME DE TRÁFICO PRIVILEGIADO. AGRAVO REGIMENTAL DESPROVIDO. ..
+2. "Embora a pena máxima em abstrato para o delito em questão seja superior a 5 anos - art. 5º do Decreto Presidencial n. 11.302/2022, deve-se atentar para a permissão contida na parte final do inciso VI do artigo 7º da norma. 3. A interpretação de que o art. 7º, VI, parte final, excepciona a regra geral estabelecida no art. 5º, do Decreto n. 11.302/2022, vem ao encontro da jurisprudência desta Corte Superior que já admitia a concessão do indulto presidencial a condenados pelo cometimento do delito de tráfico privilegiado. Precedentes" (AgRg no HC n. 820.560/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+3. Agravo regimental desprovido. (AgRg no HC n. 833.968/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. CONDENAÇÃO PELO DELITO DE TRÁFICO DE DROGAS, NA MODALIDADE PRIVILEGIADA. POSSIBILIDADE. ILEGALIDADE NO INDEFERIMENTO DO BENEFÍCIO. PRECEDENTES DESTA CORTE SUPERIOR. DECISÃO AGRAVADA MANTIDA. RECURSO DESPROVIDO.
+1. In casu, trata-se de reeducando condenado à pena de 4 anos e 2 meses de reclusão em regime inicial fechado, pela prática do crime de tráfico de drogas, na modalidade privilegiada.
+2. Embora a pena máxima em abstrato para o delito em questão seja superior a 5 anos - art. 5º do Decreto Presidencial n. 11.302/2022, deve-se atentar para a permissão contida na parte final do inciso VI do artigo 7º da norma.
+3. A interpretação de que o art. 7º, VI, parte final, excepciona a regra geral estabelecida no art. 5º, do Decreto n. 11.302/2022, vem ao encontro da jurisprudência desta Corte Superior que já admitia a concessão do indulto presidencial a condenados pelo cometimento do delito de tráfico privilegiado. Precedentes.
+4. Agravo regimental desprovido. (AgRg no HC n. 820.560/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. INDULTO. DECRETO N. 11.302/2022. CONDENADO POR TRÁFICO PRIVILEGIADO. POSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 5º E 7º DO ATO PRESIDENCIAL.
+1. O Decreto n. 11.302/2022 concede indulto natalino: (a) aos acometidos por por paraplegia, tetraplegia ou cegueira, doença grave permanente, que imponha severa limitação de atividade e exija cuidados contínuos que não possam ser prestados no estabelecimento penal, como neoplasia maligna ou síndrome da deficiência imunológica adquirida (aids), em estágio terminal; (b) aos agentes públicos que compõem o Sistema Único de Segurança Pública condenados por excesso culposo, por crime culposo; (c) aos militares das Forças Armadas, em operações de Garantia da Lei e da Ordem, condenados por excesso culposo; (d) aos maiores de 70 anos de idade que tenham cumprido pelo menos 1/3 da pena e (e) aos condenados por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+2. De acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange os crimes tipificados no caput e no § 1º do art. 33, exceto na hipótese prevista no § 4º do referido artigo, no art. 34 e no art. 36 da Lei n. 11343/2006. E o art. 5º, caput, estabelece que " s erá concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+3. Referidos dispositivos devem ser interpretados no sentido de que o art. 7º, VI, parte final, do Decreto n. 11.302/2022 excepciona a regra geral estabelecida no art. 5º do referido ato. Não faria sentido que o decreto excetuasse a vedação do benefício ao tráfico privilegiado e, contraditoriamente, obstasse sua aplicação com base na pena abstrata do tráfico simples. Se assim fosse, toda e qualquer condenação por crime de tráfico, com ou sem aplicação do redutor, não seria passível da concessão de indulto, fazendo letra morta ao dispositivo acima invocado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 818.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023)
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para, afastado o requisito objetivo invocado em relação ao tráfico privilegiado, determinar, ao Juízo da execução, que proceda ao exame dos demais requisitos para a concessão do indulto, a que se refere o Decreto n. 11.302/2022 .
+Intimem-se.
+EMENTA
