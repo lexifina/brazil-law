@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAURICIO PEREIRA DOS SANTOS, contra acórdão da Primeira Câmara Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DO DE GOIÁS, que negou provimento ao Agravo Regimental no Habeas Corpus n. 5640021-12.2023.8.09.0175.
+Extrai-se dos autos que o Juízo da Quinta Vara Criminal da Comarca de Goiânia/GO julgou parcialmente procedente a pretensão deduzida pelo Ministério Público, para condenar o paciente como incurso no artigo 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), fixando as penas em 8 anos e 9 meses de reclusão, em regime fechado, mais 875 dias-multa.
+Irresignada, após o julgamento de recurso de apelação, a defesa impetrou habeas corpus perante o Tribunal de origem tencionando o reconhecimento de flagrante ilegalidade consistente na nulidade da prisão em flagrante. Todavia, a ação mandamental foi liminarmente indeferida (fls. 60/62) e o agravo interposto foi desprovido consoante o acórdão assim ementado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE A PETIÇÃO INICIAL. MANUTENÇÃO DA DECISÃO RECORRIDA. Não existindo fatos novos que justifiquem a reforma do decisum, impõe-se a manutenção do pronunciamento monocrático que indeferiu liminarmente a petição inicial do habeas corpus, com fulcro no art. 186. § 1º, do Regimento Interno do Tribunal de Justiça do Estado de Goiás, ante a inadmissibilidade da via eleita, sobretudo porque incompetente esta Corte Estadual e por se tratar de sucedâneo de revisão criminal. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO." (fl. 58).
+Interposto o presente writ (fls. 3/16), no qual o impetrante suscita constrangimento na decisão impugnada, sob o argumento de negativa de prestação jurisdicional, pois o Tribunal deixou de apreciar a pretensa nulidade da prisão.
+Requer, em liminar e no mérito, seja determinado o exame da questão relativa à invasão de domicílio.
+É o relatório.
+Decido.
+Anoto, inicialmente, que a defesa impetrou prévio HC (866.577/GO) impugnando o mesmo acórdão proferido pela Corte de origem, contudo, mediante argumentos diversos dos ora delineados. Assim, não verifico o óbice consistente na reiteração de pedidos.
+A despeito disso, o mandamus não prospera.
+É digno de nota que, em rigor, a ausência de manifestação de Tribunal acerca de questão submetida à apreciação em ação mandamental pode ensejar ilegalidade. Ou seja, diante de matéria relevante efetivamente deduzida no writ e não apreciada pela Corte de Segundo Grau, viabiliza-se a determinação de retorno dos autos à instância ordinária para manifestação. Ilustrativamente:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. TRIBUNAL DO JÚRI. HABEAS CORPUS CONCEDIDO DE OFÍCIO, MONOCRATICAMENTE, PARA ANULAR O ACÓRDÃO RECORRIDO POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECURSO DA ASSISTENTE DE ACUSAÇÃO. NECESSIDADE DE ENFRENTAMENTO DE FATOS E PROVAS AINDA NÃO ANALISADOS PELA CORTE LOCAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática agravada concedeu habeas corpus de ofício, para anular o acórdão recorrido por negativa de prestação jurisdicional, na forma dos arts. 381, III, 564, V, 619 e 654, § 2º, do CPP.
+2. O réu foi condenado por homicídio doloso, no tribunal do júri, por ter supostamente atropelado dois ciclistas enquanto conduzia seu veículo em alta velocidade no acostamento, após consumir bebida alcoólica.
+3. Nos embargos de declaração opostos na origem, a defesa questionou o Tribunal local quanto às provas do excesso de velocidade e do local do atropelamento, mormente porque o laudo pericial indicaria conclusões diversas daquelas alcançadas pelos jurados. Não obstante, a Corte de origem não se manifestou sobre o tema.
+4. Configura negativa de prestação jurisdicional a recusa do Tribunal em enfrentar questões que, se acolhidas, podem em tese influenciar o resultado da demanda. Cabível, neste cenário, a concessão de habeas corpus de ofício para anular o aresto e ordenar que se realize novo julgamento dos aclaratórios. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.075.748/SC, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/9/2022, DJe de 21/9/2022).
+Inobstante o exposto, neste caso, o Tribunal esclareceu a inviabilidade do reexame da sentença na via do writ, tendo em vista o esgotamento da prestação jurisdicional com a apreciação de recurso de apelação.
+Asseverou, ainda, tratar-se de condenação transitada em julgado e mencionou a competência do Superior Tribunal de Justiça para eventual exame de acórdão proferido por aquele sodalício, consignando "a inadmissibilidade da via eleita, sobretudo porque incompetente esta Corte Estadual e por se tratar de sucedâneo de revisão criminal" (fl. 58).
+Como se vê, o Tribunal de origem, de maneira fundamentada, indicou a impossibilidade da apreciação do constrangimento lá ventilado (violação de domicílio), o que não se confunde com indevida negativa de prestação jurisdicional.
+Em acréscimo, anoto a instrução insuficiente deste habeas corpus, que não veio acompanhado do acórdão de apelação mencionado pelo TJGO, o que impede avaliar, com segurança, se o aventado constrangimento ilegal foi efetivamente examinado ou não, em Segunda Instância.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a impetração.
+Publique-se.
+Intimem-se.
+EMENTA
