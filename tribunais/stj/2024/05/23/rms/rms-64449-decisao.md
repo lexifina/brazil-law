@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, Recurso Ordinário em Mandado de Segurança impetrado por FRANCISCA FERNANDES BRANDÃO contra o ESTADO DE RORAIMA, em que requer a reforma do acórdão proferido pelo TJRR, assim ementado (fl. 115):
+MANDADO DE SEGURANÇA. POLICIAL MILITAR. PLEITO DE IMEDIATA PROMOÇÃO PARA SUBTENENTE DA PM/RR POR MEIO DO INSTITUTO DE RESSARCIMENTO DE PRETERIÇÃO. PRELIMINAR DE NECESSIDADE DE AMPLIAÇÃO DO POLO PASSIVO DA DEMANDA. INOCORRÊNCIA. PRELIMINAR REJEITADA. DIREITO ADQUIRIDO AO CÔMPUTO DOS PONTOS DA MEDALHA OTTOMAR DE SOUZA PINTO PARA FINS DE PROMOÇÃO. AUSÊNCIA DE COMPROVAÇÃO. VIOLAÇÃO A DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. SEGURANÇA DENEGADA EM DISSONÂNCIA COM O PARECER MINISTERIAL GRADUADO.
+A impetrante, ora recorrente, alega possuir direito líquido e certo à promoção por antiguidade e merecimento, devendo ser somados, para tanto, 40 pontos referentes à medalha Ottomar de Souza Pinto, recebida no ano de 2012.
+Contrarrazões apresentadas ás fls. 227-235.
+O Ministério Público Federal ofereceu parecer pelo desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+No caso, a recorrente pretende ver reconhecido suposto direito adquirido à pontuação relativa à honraria recebida (MEDALHA DE MÉRITO OTTOMAR DE SOUSA PINTO), para fins de promoção funcional.
+Ocorre que, conforme destacado pela Corte de origem, a legislação que conferia a pontuação pretendida já havia sido revogada quando do lançamento do edital para a promoção questionada. Confira-se (fls. 113-114):
+Noutro giro, o artigo 12 do Decreto nº 8.6216-E, que conferia 40 pontos na Ficha Individual de Oficiais e Praças, foi revogado em 04 de agosto de 2015, portanto, a pontuação da referida medalha foi suprimida, a honraria não.
+Some-se o fato de que, os detentores do prêmio, quando da revogação do artigo 12 do Decreto nº 8.6216-E (que atribuía pontos para fins de promoção), pelo Decreto nº 19.337-E de 04 de agosto de 2015, nada fizeram. Permaneceram inertes.
+Convém ressaltar, por oportuno, que quando houve a revogação dos pontos a impetrante não havia preenchido os requisitos para a promoção por merecimento.
+O requerimento de sua promoção deu-se somente em 2018, quando os pontos não mais estavam sendo computados.
+Neste ponto, em que pese à alegação da impetrante de que o Comandante da Polícia Militar, mesmo depois da revogação, chegou a promover uma militar atribuindo a esta os 40 pontos da medalha, observo que as alterações do edital em que a militar Sara Cavalcante Alves foi promovida encerram-se em 25 de junho de 2015, portanto, os pontos ainda estavam sendo computados.
+Assim, o entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, segundo a qual a lei nova pode regular as relações jurídicas havidas entre os servidores públicos e a Administração, extinguindo, reduzindo ou criando vantagens, não havendo de se falar em direito adquirido a regime jurídico, desde que observada a garantia à irredutibilidade de vencimentos.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONSELHO SUPERIOR DA MAGISTRATURA. PROMOÇÃO DE SERVIDOR. CONCURSO PÚBLICO. ESTABILIDADE FUNCIONAL. DIREITO ADQUIRIDO. SUSPENSÃO DE PROMOÇÃO EM 2015 E 2016. CRITÉRIO DE PROMOÇÃO. ESTÁVEL E EFETIVO. AQUISIÇÃO DE ESTABILIDADE É REQUISITO PARA PROMOÇÃO. NÃO CABE DIREITO ADQUIRIDO DO SERVIDOR NO CASO.
+I - Na origem, foi impetrado mandado de segurança contra ato omissivo atribuído ao Presidente do Tribunal de Justiça e Presidente do Conselho Superior da Magistratura do Tribunal de Justiça do Estado do Espírito Santo. Sustenta o autor ter direito à promoção, apesar do que dispõe o art. 39-A da Lei N. 10.278/2014, do Estado do Espírito Santo, que estabelece que: "a primeira promoção dos servidores que ingressaram por meio do concurso público disciplinado pelo edital 01/2010 será suspensa nos anos de 2015 e 2016, somente ocorrendo no ano de 2017."
+II - Argumenta ter reunido os requisitos para obtenção de promoção em 15/8/2014, quando alcançou a estabilidade funcional, de modo que a Lei estadual n. 10.278/2014, que só entrou em vigor em 6/10/2014, não poderia ter-lhe alcançado o direito adquirido.
+(..).
+VI - A Lei n. 10.278/2014 alterou a Lei Estadual n. 7.854/2004, acrescentando o art. 39-A ao seu texto, passando a viger a partir de 6/10/2014. O artigo referido traz em seu texto a seguinte redação, in verbis: "Art. 39-A. A primeira promoção dos servidores que ingressaram por meio do concurso público disciplinado pelo edital 01/2010 será suspensa nos anos de 2015 e 2016, somente ocorrendo no ano de 2017."
+VII - O art. 18 da Lei Estadual n. 7.854/2004, estabelece: "Art. 18. O processo de promoção exige que o servidor atenda aos seguintes critérios básicos: I - ser efetivo e estável". Observa-se da leitura dos artigos supra citados, que a situação do recorrente, que só adquiriu a sua estabilidade em 15/8/2014, foi afetada pelo novo artigo colacionado da lei capixaba objeto da demanda, uma vez que a aquisição da estabilidade é um dos pressupostos previsto no art. 18 para obtenção de promoção. Assim, o art. 39-A postergou a promoção do recorrente para 2017.
+VIII - Como há previsão legal expressa no sentido de impedir o ingresso do servidor no processo de promoção - art. 39-A acrescido à Lei Estadual n. 7.825/2004 - , ante a suspensão em 2015 e 2016, a administração pública não pode contrariar tal dispositivo legal, sob pena de incorrer em violação do princípio da estrita legalidade.
+IX - Não cabe se falar em direito adquirido do servidor público em participar da promoção em 2015 e de 2016, um vez que não há direito adquirido ao regime jurídico. Nesse sentido: RMS n. 61.880/MT, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 3/3/2020, DJe 6/3/2020.
+X - Agravo interno improvido.
+(AgInt no RMS n. 61.724/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/9/2020, DJe de 30/9/2020).
+ADMINISTRATIVO. AGENTES PENITENCIÁRIOS FEDERAIS. REENQUADRAMENTO ANTES DA LEI N. 11.907/2009. IMPOSSIBILIDADE.
+1. O Plano Geral de Cargos do Poder Executivo (PGPE), instituído pela Lei n. 11.357/2006, não excluiu de suas regras os Agentes Penitenciários Federais, pois estes não tinham, na ocasião, carreira devidamente estruturada, de sorte que a eles aplicáveis os critérios gerais.
+2. Uma carreira se estrutura não só com a definição de vencimentos, mas a partir do momento que se fixam todos os seus detalhes, a exemplo dos critérios de avaliação dos servidores, especialmente para fins de promoção e progressão, da definição das classes e padrões, da especificação sobre as atribuições de cada função e dos parâmetros para percepção de vantagens e gratificação, o que, no caso dos Agentes Penitenciários Federais, só aconteceu com a Lei n. 11.907/2009.
+3. Quando vigente a Lei n. 11.357/2006, os servidores em questão não tinham preenchido o requisito objetivo previsto no art. 7º do Decreto n. 84.669/1980, que, por sua vez, regulava Lei n. 5.645/1970, de modo que não tinham direito adquirido à promoção segundo os critérios anteriores, passando a deles ser exigidos os novos e mais minuciosos pressupostos.
+4. Recurso especial desprovido.
+(REsp n. 1.400.370/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/2/2021, DJe de 3/3/2021).
+Isso posto, nego provimento ao recurso.
+Custas pela parte recorrente/impetrante. Sem honorários advocatícios (art. 25 da Lei 12.016/09).
+Publique-se. Intimem -se.
+EMENTA
