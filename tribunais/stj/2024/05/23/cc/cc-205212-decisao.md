@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal Regional Federal da 3ª Região e o Tribunal de Justiça do Estado de São Paulo.
+Inicialmente cumpre esclarecer que os autos se originam de ação de concessão de aposentadoria por invalidez ou, subsidiariamente, concessão de auxílio-doença previdenciário que Manoel Pereira da Silva move em desfavor do Instituto Nacional do Seguro Social, cuja distribuição se deu ao Juizado Especial Federal de Jales/SP que, julgando-se incompetente, determinou a remessa do feito à justiça estadual, a qual, por sua vez, julgou improcedente a ação, tendo o conflito sido instaurado especificamente em relação à competência para o julgamento de recurso de apelação.
+Em síntese, o Juízo suscitado determinou a remessa do recurso de apelação para o TRF3, ao argumento de que encontrando-se o magistrado prolator da sentença recorrida no exercício de jurisdição delegada, a competência recursal seria da justiça federal (fls. 210-214).
+Por sua vez, o suscitante (TRF3) compreendeu que o julgamento da apelação era de competência da Justiça Estadual, ainda que fosse para declarar a nulidade da sentença, uma vez que não se cuidava, na hipótese, de exercício de competência delegada.
+É o relatório. Passo a decidir.
+A questão aqui posta não merece maiores considerações.
+Com efeito, é firme o entendimento desta Corte Superior no sentido de que "a competência para julgar as demandas que objetivam a concessão de benefício previdenciário relacionado a acidente de trabalho deve ser determinada em razão do pedido e da causa de pedir contidos na petição inicial. Isto porque, a definição do juiz competente é anterior a qualquer outro juízo de valor a respeito da demanda" (AgRg no AgRg no REsp 1.522.998/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/09/2015).
+A hipótese dos autos, contudo, diz respeito à definição da competência para o julgamento de recurso de apelação interposto contra juízo estadual não investido de jurisdição federal.
+Nessa circunstância, registra-se que consoante a jurisprudência do Superior Tribunal de Justiça, a competência para processar e julgar os recursos interpostos em face de decisão proferida por Juízo de Direito não investido de jurisdição federal é do Tribunal de Justiça, nos termos da Súmula 55/STJ, verbis: "Tribunal Regional Federal não é competente para julgar recurso de decisão proferida por juiz estadual não investido de jurisdição federal".
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA - TRIBUNAL DE JUSTIÇA E TRIBUNAL REGIONAL FEDERAL - DECISÃO DE JUIZ ESTADUAL NÃO INVESTIDO DE JURISDIÇÃO FEDERAL - JULGAMENTO DE AGRAVO DE INSTRUMENTO - COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA - SÚMULA 55/STJ.
+1. A delegação de competência de jurisdição federal para o Juízo de Direito demanda a existência de lei específica. Precedente.
+2. A competência para processar e julgar agravo de instrumento interposto em face de decisão proferida por Juízo de Direito não investido de jurisdição federal é do Tribunal de Justiça. Incidência da Súmula 55/STJ.
+3. Conflito de competência conhecido para declarar competente o Tribunal de Justiça do Estado de Goiás - GO, o suscitado (CC 47.906/GO, relatora Ministra Eliana Calmon, Primeira Seção, DJ 27/11/2006).
+CONFLITO NEGATIVO DE COMPETÊNCIA. TRIBUNAL DE JUSTIÇA E TRIBUNAL REGIONAL DO TRABALHO. DECISÃO DE JUIZ ESTADUAL. JULGAMENTO DE AGRAVO DE INSTRUMENTO. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 55.
+1. Cumpre distinguir a competência para o julgamento da causa da competência para o julgamento do recurso. Ainda que a causa seja da competência trabalhista, cabe ao Tribunal de Justiça, e não ao Tribunal Regional do Trabalho, julgar agravo de instrumento de decisão proferida por Juiz de Direito a ele vinculado (ao qual a causa foi equivocadamente distribuída), ainda que seja para anular a decisão e remeter os autos à Justiça competente.
+2. Conflito conhecido e declarada a competência do Tribunal de Justiça, o suscitado (CC 58.029/MS, relator Ministro Teori Albino Zavascki, Primeira Seção, DJ 10/4/2006).
+Ante o exposto, conheço do conflito para declarar a competência do Tribunal de Justiça do Estado de São Paulo, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. TRIBUNAL DE JUSTIÇA E TRIBUNAL REGIONAL FEDERAL. DECISÃO DE JUIZ ESTADUAL. JULGAMENTO DE APELAÇÃO. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA. SÚMULA 55/STJ. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
