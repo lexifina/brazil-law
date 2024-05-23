@@ -1,0 +1,2 @@
+Dispõe sobre ações emergenciais e temporárias destinadas ao setor de eventos para compensar os efeitos decorrentes das medidas de combate à pandemia da Covid-19; institui o Programa Emergencial de Retomada do Setor de Eventos (Perse) e o Programa de Garantia aos Setores Críticos (PGSC); e altera as Leis nos 13.756, de 12 de dezembro de 2018, e 8.212, de 24 de julho de 1991.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
