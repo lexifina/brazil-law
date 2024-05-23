@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NOVESO ODONTOLOGIALTDA., contra decisão que inadmitiu recurso especial, fundamentado, exclusivamente, no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: indenizatória, ajuizada por LAUZINA BARBOSA COELHO, em face da agravante, em razão de danos decorrentes de erro em tratamento odontológico.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Contratação de implante odontológico mal sucedido. Necessidade de contratação de outro profissional para refazimento do trabalho. Realização de prova pericial. Sentença de procedência, para condenar a ré no pagamento de indenização por danos materiais (R$11.500,00 custo do novo tratamento odontológico), bem como à devolução do valor pago pelo tratamento (R$9.000,00) e indenização por danos morais (R$ 20.000,00),valores passíveis de correção.
+Apela a ré, alegando inexistência de comprovação de vício nos serviços prestados; descabimento da restituição dos valores pagos; o dano material não restou evidenciado; inexistência de danos morais indenizáveis; eventual manutenção das indenizações comportaria minoração do quantum indenizatório.
+Descabimento. Danos materiais. Laudo pericial aferiu a ocorrência de falhas. Ré não se desincumbiu de comprovar a correção das técnicas adotadas, tampouco de explicitar a razão pela qual seu procedimento não apresentou êxito, enquanto o de outro profissional restou exitoso. Ré malogrou em comprovar que o exame radiográfico panorâmico seria suficiente ao planejamento do tratamento, não demonstrando também a cientificação da autoraquanto às etapas do seu procedimento específico, diferente da conduta do cirurgião dentista responsável pelo segundo tratamento, corroborando a atitude desidiosa indicada na perícia. Pertinência da devolução do valor pago, bem assim do pagamento do valor do novo tratamento da autora, que, levando em consideração o tempo transcorrido, bem assim que o segundo profissional teria acréscimo de trabalho, com a retirada dos implantes remanescentes, se assemelha bastante ao valor cobrado pela ré pelo tratamento.
+Danos morais. Autora permaneceu quase dez meses sem dentes, com dificuldades para se alimentar, falar e até manter a socialização, o que ultrapassa o mero dissabor e é capaz de caracterizar a excepcionalidade essencial à fixação da indenização por danos morais, descabendo modificação. Majoração dos honorários recursais.
+Recurso improvido.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) não foi demonstrada a violação dos dispositivos arrolados (arts. 373, I, 479, do CPC e arts. 186, 927 e 944, do CC/02); e
+ii) incidência da Súmula 7/ STJ.
+Agravo em recurso especial: nas razões do presente recurso, além de apresentar a síntese dos fatos, a parte agravante aduz que:
+i) teria demonstrado a violação dos arts. 373, I, 479, do CPC e arts. 186, 927 e 944, do CC/02, visto que a prova pericial teria sido supervalorizada, em detrimento das demais provas, as quais teriam sido interpretadas incorretamente, bem como que a agravada não se desincumbiu do seu ônus probatório e não teria comprovado ato ilícito ensejador de indenização por dano moral e os danos materiais; e
+ii) não pretende o reexame de matéria fático probatória, mas apenas a revaloração jurídica de fatos e questões olvidadas pelo acórdão recorrido (e-STJ, fl. 345).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da condenação (e-STJ, fl. 301) para 20% .
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
