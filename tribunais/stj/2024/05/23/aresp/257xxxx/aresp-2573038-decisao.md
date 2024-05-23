@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+APELAÇÃO Execução fiscal IPTU Exercícios de 2015 a 2018. Exceção de pré-executividade acolhida para reconhecer ilegitimidade passiva. Descabimento. Impossibilidade de se concluir, com base na certidão de matrícula apresentada, que a excipiente não figurava como proprietária no momento da ocorrência dos fatos geradores. Necessidade de dilação probatória. Sentença reformada. Recurso provido.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 783 e 803, I, do CPC/2015, bem como os arts. 132 e 133, ambos do CTN, sob o argumento da necessidade de reconhecer a ilegitimidade passiva da Recorrente para responder por débitos de IPTU.
+No mais, argui "a possibilidade de reconhecer a ilegitimidade passiva da Recorrente para responder pelos débitos de IPTU dos exercícios de 2015 a 2018, já que foi juntada matrícula do imóvel comprovando que o bem é de titularidade de terceiro, bem como pelo fato da Municipalidade Recorrida ter iniciado ação de desapropriação do imóvel contra o real proprietário do bem" (fl. 77).
+O recurso foi inadmitido pela decisão de fl. 94, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O acórdão do Tribunal de origem entendeu que (fl. 88 e-STJ):
+ ..
+Depreende-se da CDA que os débitos de IPTU, objeto da execução fiscal, dizem respeito a um imóvel situado na Rua Gal. Carneiro, quadra 36, lote 10-A, do Loteamento denominado "Jardim Anna Stellta", não discriminado na certidão de matrícula trazida pela excipiente (fls. 23/28), que menciona apenas o lote 10 da quadra 36, além de outras transcrições correspondentes ao lote, objeto de desmembramento.
+Assim, de rigor reconhecer inadequação da via eleita, devendo a ilegitimidade passiva ser dirimida pela via dos embargos.
+ ..
+No ponto, a verificação acerca da legitimidade passiva e da existência dos requisitos essenciais que devem constar da certidão de dívida ativa, a fim de que fiquem demonstradas a certeza e liquidez do título, demanda o revolvimento do suporte fático-probatório carreado aos autos, o que é inviável em sede de recurso especial, tendo em vista o óbice contido na Súmula 7/STJ.
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. DISCUSSÃO ACERCA DOS REQUISITOS DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. ALEGADA ILEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA EXECUÇÃO FISCAL. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo regimental não provido. (AgRg no AREsp 207.967/MG, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 12.9.2012).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. COBRANÇA DE IPTU. CDA. NULIDADE. PREJUÍZO AO EXECUTADO. AUSÊNCIA DE DEMONSTRAÇÃO. PRESCRIÇÃO QUINQUENAL E CARACTERÍSTICAS DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. (..) 3. O acórdão recorrido está em harmonia com a orientação do STJ no sentido de que "a nulidade da CDA não deve ser declarada por eventuais falhas que não geram prejuízos para o executado promover a sua defesa, informado que é o sistema processual brasileiro pela regra da instrumentalidade das formas" (EDcl no AREsp 213.903/RS, Rel. Ministra Eliana Calmon, Segunda Turma, DJe de 17.9.2013). 4. Rever o reconhecimento da responsabilidade pela demora na prática dos atos processuais, assim como reconhecer a prescrição da execução fiscal e a nulidade da CDA, implica o reexame das provas carreadas aos autos, o que é vedado à instância especial, ante o óbice da Súmula 7 do STJ. 5. Agravo Interno não provido.(AgInt no REsp 1820197/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2019, DJe 28/02/2020). Grifou-se.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. LEGITIMIDADE PASSIVA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
