@@ -1,0 +1,81 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido liminar, ajuizada pela Associação de Pais e Professores da Escola de Educação Básica Dom João Becker em face de decisão proferida pelo Tribunal Superior do Trabalho, nos autos do Processo 0000709-56.2021.5.12.0061.
+
+    Em suas razões, a reclamante alega, em suma, ofensa ao entendimento desta Corte, consubstanciado no julgamento das ADPFs 484, 620 e 988, ao argumento de que a autoridade reclamada manteve o bloqueio de valores impenhoráveis em conta de sua titularidade, a despeito de tratar-se de verba pública destinada à educação, oriunda de recursos de programa do Fundo Nacional de Desenvolvimento da Educação - FNDE.
+
+    Aduz, ainda, os seguintes argumentos:
+
+    “Como se vê, houve violação a Jurisprudência proferida por este Egrégio Supremo Tribunal Federal, vez que os recursos públicos vinculados a convênios não podem ser bloqueados ou sequestrados por decisão judicial a débitos estranhos ao convênio.
+
+    No caso, penhorou-se ativos recebidos pela Reclamante do FNDE, cujo numerário atinge a integralidade da dívida.
+
+    Contudo, a verba penhorada é destinada exclusivamente à educação e a forma com que são operacionalizados os pagamentos de determinadas despesas das unidades escolares do Estado de Santa Catarina, realizadas por intermédio de Associação de Pais e Professores (APPs), cuja manutenção da penhora, viola literalmente a Lei Federal, em especial, o que leciona o inciso IX, do artigo 833, do Código de Processo Civil.
+
+    O bloqueio realizado, afeta diretamente a aplicação desses recursos oriundos exclusivamente do PDDE, através do programa FNDE, em repleto prejuízo à implementação das atividades exercidas pelas APP’s, no âmbito das escolas públicas do Estado de Santa Catarina, e aos estudantes – crianças e adolescentes -, destinatários máximos e detentores de prioridade absoluta.
+
+    [...]
+
+    É indiscutível que a obstrução de valores da conta da Reclamante está eivada de vícios, pois, conforme é sabido, a Reclamante trata-se de uma Associação sem fins lucrativos, que tem como atividade principal gerir a escola pública de educação básica, ou seja, atua diretamente na manutenção da educação pública, mediante relação direta e vinculada ao Estado.
+
+    Assim, os valores bloqueados da conta da Reclamante não possuem caráter de enriquecimento, de lucratividade, ou qualquer denominação nesse sentido, mas é exclusivo e único para manutenção da escola e na educação pública.
+
+    Com efeito, resta prejudicada a manutenção escolar de mais de 1.100 alunos, justamente porque tais verbas são destinadas a Reclamante por somente duas vezes ao ano, devendo igualmente ser prestada contas anuais, sob pena de no ano seguinte, não receber qualquer valor para manutenção das atividades educacionais. ” (eDOC 1, p. 5-7, ID: e839baac)
+
+    Diante disso, requer a concessão de medida liminar para suspender os efeitos da decisão que determinou o levantamento dos valores e, ao final, a sua cassação.
+
+    A autoridade reclamada prestou informações (eDOC 22, ID: c8b705a3 e eDOC 23, ID: 3b247dde)
+
+    É o relatório. Decido.
+
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+
+    A reclamante sustenta violação ao decidido por esta Corte no julgamento da ADPF 484, Rel. Min. Luiz Fux, ADPF 620, Rel. Min. Roberto Barroso e ADPF 988, Rel. Min. Cármen Lúcia, cujas ementas reproduzo a seguir:
+
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. INTERPRETAÇÃO JUDICIAL COMO OBJETO DE CONTROLE. POSSIBILIDADE. SUBSIDIARIEDADE. INEXISTÊNCIA DE OUTRO MEIO PARA SANAR A LESÃO OU AMEAÇA EM CARÁTER AMPLO. DECISÕES JUDICIAIS QUE RESULTARAM NO BLOQUEIO, PENHORA OU SEQUESTRO, PARA O FIM DE PAGAMENTO DE DÍVIDAS TRABALHISTAS, DE VERBAS DO ESTADO DO AMAPÁ, DAS CAIXAS ESCOLARES E DAS UNIDADES DESCENTRALIZADAS DE EXECUÇÃO DA EDUCAÇÃO – UDE S, DESTINADAS À MERENDA, AO TRANSPORTE DE ALUNOS E À MANUTENÇÃO DAS ESCOLAS PÚBLICAS. OFENSA AOS PRINCÍPIOS DA SEPARAÇÕES DOS PODERES E DO FOMENTO À EDUCAÇÃO. NATUREZA PRIVADA DAS UNIDADES EXECUTORAS. REPASSE DE VERBAS. DESCENTRALIZAÇÃO DA GESTÃO FINANCEIRA. NÃO CARACTERIZAÇÃO DAS PRERROGATIVAS DA FAZENDA PÚBLICA. NÃO SUJEIÇÃO AO REGIME DE PRECATÓRIO ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL CONHECIDA E JULGADO PARCIALMENTE PROCEDENTE O PEDIDO. 1. O direito social à educação (artigos 6º e 205 e seguintes da Constituição), bem como a prioridade absoluta de proteção às crianças e aos adolescentes, em respeito à condição peculiar de pessoas em desenvolvimento que são (artigo 227 da Constituição), justificam a especial proteção constitucional dos valores necessários à aplicação efetiva dos recursos públicos destinados à concretização dos efetivos direitos. 2. Os princípios da separação dos poderes e do fomento à educação são violados por decisões judiciais que gerem bloqueio, penhora ou sequestro, para fins de quitação de débitos trabalhistas, de verbas públicas destinadas à merenda, ao transporte de alunos e à manutenção das escolas públicas. 3. A proteção constitucional a direitos individuais e a garantias fundamentais, inclusive de ordem trabalhista, convive com a impenhorabilidade, in casu, sob a ratio de que estão afetados a finalidades públicas e à realização das atividades e serviços públicos decorrentes do exercício obrigatório da função administrativa. 4. O artigo 167, VI, da Constituição proíbe a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra ou de um órgão para outro, sem prévia autorização legislativa, mandamento esse que também vincula o Judiciário. Isso porque as regras sobre aprovação e gestão orçamentárias consagram mecanismos de freios e contrapesos essenciais ao regular funcionamento das instituições republicanas e democráticas e à concretização do princípio da separação dos poderes. 5. As Unidades Executoras funcionam por meio de repasses de verbas para associações privadas sem fins lucrativos. Essa medida de descentralização da gestão financeira na prestação de serviços educacionais configura escolha de alocação de recursos plenamente legítima, inserida na margem de conformação das decisões de agentes políticos. No entanto, a transferência não descaracteriza a natureza eminentemente privada das Caixas Escolares, razão pela qual não lhes é aplicável o regime jurídico da Fazenda Pública. Se a associação privada conta com a agilidade do setor privado para posicionar-se como credora, que o faça para posicionar-se como devedora. 6. A arguição de descumprimento de preceito fundamental para evitar ou reparar lesão a preceito fundamental decorrente de atos judiciais é via processual que atende ao requisito da subsidiariedade, mercê de não existir outro instrumento para sanar a controvérsia com caráter abrangente e imediato, ou com a mesma eficácia e celeridade. 7. Arguição de descumprimento de preceito fundamental conhecida e julgado PARCIALMENTE PROCEDENTE o pedido, para declarar a inconstitucionalidade de quaisquer medidas de constrição judicial proferidas pelo Tribunal Regional do Trabalho da 8ª Região, pelo Tribunal Regional Federal da 1ª Região e pelo Tribunal de Justiça do Estado do Amapá, em desfavor do Estado do Amapá, das Caixas Escolares ou das Unidades Descentralizadas de Execução da Educação – UDEs, que recaiam sobre verbas destinadas à educação, confirmando os termos da medida cautelar anteriormente concedida, bem como para afastar a submissão ao regime de precatório das Caixas Escolares ou Unidades Descentralizadas de Educação, em razão da sua natureza jurídica de direito privado, de não integrar a Administração Pública, de não compor o orçamento público e da ratio que inspira a gestão descentralizada da coisa pública.” (ADPF 484, Rel. Min. Luiz Fux, Plenário, DJe de 2.7.2020)
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. BLOQUEIOS JUDICIAIS DE VALORES VINCULADOS A CONVÊNIO CELEBRADO ENTRE ESTADO-MEMBRO E A UNIÃO. 1. Arguição proposta pelo Governador do Estado do Rio Grande do Norte contra decisões judiciais que determinaram o bloqueio de verbas públicas vinculadas à implementação de tecnologia de acesso à água e à construção de barragem, objeto do Convênio n° 046/2012 – SICONV 775967/2012 e do Termo de Compromisso nº 001/2013 , respectivamente, celebrados entre o Estado do Rio Grande do Norte e a União Federal. 2. Decisões judiciais se enquadram na definição de “ato do poder público” de que trata o caput do art. 1º da Lei nº 9.882/1999, o que as sujeita ao controle concentrado de constitucionalidade via ADPF. A jurisprudência desta Corte firmou-se no sentido de que o requisito da subsidiariedade é satisfeito quando inexiste, no caso, outro meio processual eficaz para sanar a lesão a preceito fundamental de forma ampla, geral e imediata (cf. ADPF 33, Rel. Min. Gilmar Mendes). 3. Verbas bloqueadas destinadas ao cumprimento de projetos sociais especificamente previstos em convênio, consistentes no aprimoramento e desenvolvimento de capacidades gerenciais na captação e uso de água, sobretudo para populações de baixa renda em contato com o semiárido. 4. Os recursos vinculados à execução de convênios celebrados entre entes federados não podem ser utilizados para pagamento de despesas estranhas a seu objeto. Ofensa à separação de poderes (art. 2º da CF) e aos preceitos orçamentários previstos no art. 167, VI e X, da CF. Nesse sentido: ADPF 275, Rel. Min. Alexandre de Moraes, e ADPF 405-MC, Rel. Min. Rosa Weber. 5. Pedido julgado procedente, para declarar a inconstitucionalidade de quaisquer atos judiciais que impliquem a constrição de valores oriundos de contas vinculadas ao Convênio n° 046/2012 – SICONV 775967/2012 e ao Termo de Compromisso nº 001/2013, ambos celebrados entre o Estado do Rio Grande do Norte e a União Federal, para a quitação de obrigações estranhas ao objeto desses pactos. 6. Fixação da seguinte tese: ‘Os recursos públicos vinculados a convênios não podem ser bloqueados ou sequestrados por decisão judicial para pagamento de débitos do Estado estranhos ao objeto do convênio, em virtude do disposto no art. 167, VI e X, da CF, e dos princípios da legalidade orçamentária (art. 167, VI, da CF), da separação dos poderes (arts. 2°, 60, § 4°, III, da CF) e da eficiência da administração pública (art. 37, caput, da CF).’” (ADPF 620, Rel. Min. Roberto Barroso, Plenário, DJe de 10.3.2021)
+
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. CONSTITUCIONAL. DECISÕES JUDICIAIS QUE DETERMINARAM MEDIDAS CONSTRITIVAS DE RECEITAS PÚBLICAS REPASSADAS PELO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO – FNDE, REFERENTES AO PROGRAMA DINHEIRO DIRETO NA ESCOLA, ÀS ASSOCIAÇÕES DE PAIS E PROFESSORES NO ESTADO DE SANTA CATARINA. SATISFAÇÃO DE CRÉDITOS TRABALHISTAS. IMPOSSIBILIDADE. RECURSOS PÚBLICOS DE APLICAÇÃO COMPULSÓRIA EM EDUCAÇÃO. OFENSA À SEPARAÇÃO DOS PODERES E LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO JULGADA PARCIALMENTE PROCEDENTE. 1. É cabível a arguição de descumprimento de preceito fundamental para impugnar conjunto de decisões judiciais consideradas lesivas a preceitos fundamentais. Precedentes. 2. As decisões judiciais impugnadas, pelas quais se determinam medidas de constrição judicial sobre recursos públicos federais transferidos pelo Fundo Nacional de Desenvolvimento da Educação – FNDE para a implementação do Programa Dinheiro Direto na Escola – PDDE às unidades executoras próprias, para a satisfação de créditos trabalhistas, ofendem ao princípio da legalidade orçamentária (inc. VI do art. 167 da Constituição da República), da separação dos poderes (art. 2º da Constituição) e da continuidade da prestação dos serviços públicos (art. 175 da Constituição). Precedentes. 3. Arguição julgada procedente para determinar a suspensão das decisões judiciais proferidas pela Justiça do Trabalho do Estado de Santa Catarina que determinaram o bloqueio, penhora ou sequestro sobre verbas repassadas pelo Fundo Nacional de Desenvolvimento do Ensino, referentes ao Programa Dinheiro Direto na Escola às Associações de Pais e Professores no Estado de Santa Catarina para satisfazer crédito trabalhista e determinar a imediata devolução das verbas bloqueadas.” (ADPF 988, Rel. Min. Cármen Lúcia, Pleno, DJe de 24.10.2022)
+
+    Como visto, o STF assentou, em síntese, a impossibilidade de bloqueio ou penhora de recursos destinados à educação.
+
+    Pois bem.
+
+    Como visto, a reclamante alega que o bloqueio de valores em conta de sua titularidade recaiu sobre ativos recebidos do FNDE, os quais considera impenhoráveis, nos termos do art. 833, inc. IX, do CPC, aplicável subsidiariamente ao processo do trabalho.
+
+    Com efeito, extrai-se do estatuto da Associação de Pais e Professores da Escola de Educação Básica Dom João Becker (eDOC 3, p. 11, ID: adcada88), que a reclamante é associação civil, sem fins lucrativos, de caráter educacional, mantida em parte com verbas públicas, razão pela qual os recursos em questão têm aplicação compulsória na área de educação.
+
+    O Tribunal reclamado rejeitou o pedido de liberação do bloqueio dos valores penhorados por entender que não há comprovação da origem da integralidade dos valores depositados, sendo inviável concluir pela impenhorabilidade do valor bloqueado. É o que se verifica do trecho do voto da decisão proferida no julgamento do agravo de petição, abaixo transcrito:
+
+    “A tese da agravante é de que a penhora realizada no valor de R$14.202,50 acabou por bloquear ativos recebidos do FNDE - Fundo Nacional de Desenvolvimento da Educação, os quais são impenhoráveis, nos termos do inc. IX do CPC.
+
+    À análise.
+
+    Segundo dispõe o art. 832 do CPC, aplicável subsidiariamente ao processo do trabalho, não estão sujeitos a execução os bens considerados impenhoráveis nos termos da lei. O art. 833 do CPC, por sua vez, relaciona como impenhoráveis, em seu inc. IX, o seguinte:
+
+    IX - os recursos públicos recebidos por instituições privadas para aplicação compulsória em educação, saúde ou assistência social;
+
+    [...].
+
+    No caso dos autos, a executada comprova, mediante a juntada de extratos, o recebimento de verbas repassadas pelo PDDE - Programa Dinheiro Direto na Escola, do Fundo Nacional de Desenvolvimento da Educação, a exemplo da ordem bancária do dia 11-05-2022, em que depositada a quantia de R$11.665,00 (fl. 342).
+
+    Ocorre que, no mesmo extrato, consta saldo num valor bastante superior (R$41.357,79) a essa verba recebida, não havendo comprovação pela executada de que a totalidade desses recursos é originária do referido Fundo.
+
+    Dessa forma, coaduno o entendimento originário quanto à manutenção do bloqueio dos valores, a fim de satisfazer valores reconhecidas pela própria executada no acordo judicial entabulado como devidos à exequente.” (eDOC 11, p. 122-123, ID: 0bde2e4a; grifo nosso)
+
+    De fato, extrai-se dos autos que a reclamante juntou ao processo extrato de conta corrente em que se constata ordem bancária com origem do FNDE no valor aproximado de 11 (onze) mil reais. Todavia, analisando o mesmo extrato é possível verificar que, naquela data, o saldo da conta ultrapassava os 40 (quarenta) mil reais e a reclamante não logrou comprovar a origem do restante do dinheiro (eDOC 10, p. 45, ID: 1f2cf64c).
+
+    Nesse contexto, não se constata violação aos paradigmas apontados pela reclamante, uma vez que não restou cabalmente comprovado nos autos que os valores depositados em conta de sua titularidade são provenientes do repasse de verbas de caráter público e, portanto, de origem vinculada, de modo a inviabilizar eventual constrição.
+
+    Ante o exposto, nego seguimento à reclamação (art. 21, §1º, do RISTF) e julgo prejudicado o pedido liminar.
+
+    Prejudicado o recurso de embargos de declaração opostos pelo reclamante (eDOC 20, ID: e61768f4)
+
+    Comunique-se. Publique-se.
+
+    Brasília, 23 de maio de 2024.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
