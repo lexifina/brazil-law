@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTO SUBSIDIÁRIO. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DOS DISPOSITIVOS TIDOS COMO VIOLADOS E OBJETOS DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. INDICAÇÃO ESPARSA NO CORPO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. RECURSO DE FUNDAMENTAÇÃO VINCULADA.
+Agravo regimental não conhecido.
+RELATÓRIO
+Estes autos foram a mim redistribuídos por prevenção do HC 680.019/SP (fl. 1.448).
+Trata-se de agravo regimental interposto por Ronaldo Simao Pereira e Vanessa Daniela dos Santos contra a decisão monocrática da Presidência desta Corte que não conheceu do recurso especial ante a ausência de indicação precisa dos dispositivos legais federais que teriam sido violados ou objetos de dissídio interpretativo, trazendo apenas dispositivos constitucionais (Súmula 284/STF).
+Nas razões, a defe sa argumenta que, entendendo ter ocorrido grande confusão na decisão dispensada,  ..  interpõe o presente recurso, a fim de que a questão seja esclarecida e que seja conferido o correto julgamento à questão que por ora se põe à apreciação dessa Egrégia Corte (fl. 1.437).
+O Ministério Público Federal manifestou-se pelo provimento do agravo regimental, embora para que, em seguida, o agravo em recurso especial não seja conhecido e, se conhecido, não seja provido (fls. 1.450/1.455).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTO SUBSIDIÁRIO. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DOS DISPOSITIVOS TIDOS COMO VIOLADOS E OBJETOS DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. INDICAÇÃO ESPARSA NO CORPO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. RECURSO DE FUNDAMENTAÇÃO VINCULADA.
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não comporta conhecimento.
+Em obediência ao princípio da dialeticidade, cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada mediante impugnação clara e específica dos fundamentos do decisum combatido.
+No caso, o agravo em recurso especial foi inadmitido em razão da incidência da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional (fl. 1.433).
+Caberia, então, aos agravantes, nas razões do regimental, infirmar referido fundamento da decisão agravada, o que não se verificou nas razões do agravo regimental, tendo em vista que se limitou a afirmar, de modo superficial e desconexo, que, entendendo ter ocorrido grande confusão na decisão dispensada,  ..  interpõe o presente recurso, a fim de que a questão seja esclarecida e que seja conferido o correto julgamento à questão que por ora se põe à apreciação dessa Egrégia Corte (fl. 1.437).
+Assim, tenho que os agravantes inobservaram o disposto no art. 932, III, do CPC/2015, atraindo, ainda, o óbice da Súmula 182/STJ: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido: AgRg no AREsp n. 2.384.030/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/9/2023 e; AgRg no AREsp n. 2.152.990/RS, Ministra Laurita Vaz, Sexta Turma, DJe 22/8/2023.
+E, ainda assim não fosse, anoto, como fundamento subsidiário, que, mesmo que o agravo regimental foi admissível, a decisão agravada seria mantida, tendo em vista que, de fato, a defesa dos agravantes não indicou, de forma clara e específica, quais dispositivos de lei federal foram violados ou objetos de interpretação divergente, circunstância apta a atrair a incidência da Súmula 284/STF.
+Nesse sentido: AgInt no REsp n. 1.814.522/MT, Ministro Luís Felipe Salomão, Quarta Turma, DJe 11/2/2020; AgInt no AREsp n. 1.064.144/AM, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 19/12/2019; AgInt no AREsp n. 1.449.307/SP, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 13/12/2019; AgRg no AREsp n. 1.559.326/PB, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/12/2019 e REsp n. 1.776.379/SP, Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2018.
+Sublinho, nesse particular, que a menção a normas infraconstitucionais, de forma esparsa, no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a delimitação da controvérsia. A propósito: EDcl no AgRg no AREsp n. 402.314/SP, de minha relatoria, Sexta Turma, DJe 22/9/2015 e AgRg no AREsp n. 546.084/MG, Ministro Herman Benjamin, Segunda Turma, DJe 4/12/2014.
+Ante o exposto, não conheço do agravo regimental.
