@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Walter dos Santos Affonso Filho e outros contra decisão, assim ementada (e-STJ fl. 1.362):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRECLUSÃO CONSUMATIVA. NÃO OCORRÊNCIA. ATO JUDICIAL EXARADO SEM NENHUM CUNHO DECISÓRIO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+Os embargante sustentam a ocorrência de contradição e erro material, com os seguintes argumentos (e-STJ fl. 102):
+Ocorre que, data venia, o correto seria apontar as fls. 171/179 e-STJ, as quais já fixaram o valor deste saldo. Inclusive, conforme destacado por Vossa Excelência durante a fundamentação da decisão embargada quando se referiu: (i) "ao julgamento do Agravo de Instrumento n. 2000.02.01.063558- 7, interposto pela CBTU contra decisão do juízo de primeiro grau, a qual determinara a efetivação da penhora on line (e-STJ fl. 208/209)"; e (ii) à penhora do "imóvel sede da devedora, ora recorrida, tendo em vista não terem sido encontrados valores depositados nas contas correntes de sua titularidade" (cf. fl. 1.368 e-STJ do decisum).
+ ..
+Em segundo lugar, a decisão embargada incorreu em contradição sobre o objeto do recurso. Apesar de reconhecer que o recurso especial se originou a partir de procedimento de liquidação e cumprimento de sentença na origem, em que devem ser majorados os honorários advocatícios nos termos dos arts. 85, § 11º e 523, § 1º do CPC, o decisum embargado entendeu pela não condenação da "CBTU em honorários advocatícios, na medida em que o presente recurso especial é tirado de agravo de instrumento". 8. Entretanto, data maxima venia, todos os recursos destes autos decorrem do debate da r. decisão homologatória da liquidação de fl. 82 e-STJ e, portanto, devem comportar a fixação e majoração dos honorários advocatícios de sucumbência - hoje fixados em apenas 10% para a fase de conhecimento.
+Ao final, requerem o acolhimento dos embargos de declaração, a fim de que sejam sanados os vícios apontados.
+Com impugnação.
+É o relatório. Decido.
+Registra-se, inicialmente, que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2015.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Os embargos de declaração merecem parcial acolhimento.
+No caso, verifica-se a ocorrência de erro material que deve retificado. Isso porque, de fato, os cálculos apresentados pelos credores estão às fls. 171-179 e-STJ, os quais é que devem ser levados em conta na homologação da quantia remanescente devida aos credores, ora embargantes.
+No mais, deve ser rejeitado o pleito para majoração dos honorários. Deveras, a Corte Especial do STJ, no julgamento do REsp 1.864.633/RS sob a sistemática de recurso representativo de controvérsia (acórdão publicado em 21/12/2023), firmou o Tema n. 1.059, segundo o qual: "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento ou limitada a consectários da condenação".
+Isso posto, acolho, parcialmente, os embargos de declaração, sanando o erro material evidenciado, a fim de retificar a parte dispositiva da decisão embargada, substituindo as fls. 281-289 e-STJ pelas fls. 171-179 e-STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. ERRO MATERIAL EVIDENCIADO. RECURSO INTEGRATIVO PARCIALMENTE ACOLHIDO.
