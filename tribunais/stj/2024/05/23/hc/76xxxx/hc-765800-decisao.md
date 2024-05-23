@@ -1,0 +1,32 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 920 (e-STJ).
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes." (AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.).
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+No entanto, cabe conceder a ordem de ofício na hipótese de flagrante ilegalidade do ato impugnado, o que verifico no caso.
+Pugna a defesa pela aplicação da circunstância atenuante da confissão espontânea. Sobre a matéria, o Tribunal de origem valeu-se da seguinte fundamentação para negar a aplicação da atenuante em debate (e-STJ fls. 908-909):
+"O réu Pedro Marcelo de Souza Santos foi condenado a cumprir pena privativa de liberdade total de 22 anos e 8 meses de reclusão (10 anos e 08 meses pela vítima Maicon e 12 anos pela vítima Pietra), em regime inicial fechado, como incurso no artigo 121, § segundo, inciso IV, combinado com o artigo14, inciso II (vítima Maicon), e artigo 121, § segundo, incisos IV e V, combinado com o artigo 14, inciso II (vítima Pietra), na forma do artigo 69, caput, todos do Código Penal, porque, em 16 de maio de 2020, tentou matar Maicon do Amaral Xavier, vindo a atingir, por erro de execução, a vítima Pietra Ranieli Fonseca da Conceição.
+(..)
+De início, é de se ponderar que o recurso de apelação interposto não impugna a conclusão do Conselho de Sentença, tendo somente se insurgido contra a dosimetria penal, sob o argumento de que fora indevidamente afastada a atenuante da confissão.
+(..)
+Na segunda fase, verifica-se que a confissão do réu serviu como seu exercício de defesa, admitindo parcialmente a sua conduta, porém se eximindo de qualquer responsabilidade, visto que, em relação a Maicon, alegou legítima defesa. Constata-se, no máximo, uma admissão parcial do agir, a qual não serviu para fundamentar a condenação, sendo ineficaz para a sua admissão como atenuante. Frise-se, ainda, que o depoimento do recorrente em nada contribuiu para a formação do convencimento do órgão julgador. Logo, não se caracteriza como atenuante."
+Do exame dos autos, verifico que o paciente, efetivamente, confessou os fatos. Nesse sentido é a decisão de pronúncia (fls. 490/491 e-STJ) e a ata de julgamento (fls. 846 e-STJ).
+Observa-se que os fundamentos adotados pelo Tribunal de origem destoam do entendimento consolidado neste Superior Tribunal de Justiça, de acordo com o qual "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (AgRg no REsp n. 2.094.151/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023; AgRg no HC n. 736.096/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022; e REsp n. 1.972.098/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+À vista disso, reconheço a incidência da circunstância atenuante da confissão espontânea e, com base no Tema Repetitivo 585 desta Corte, realizo a compensação proporcional com a agravante da reincidência, considerando que se trata de paciente multirreincidente.
+Passo à dosimetria.
+Quanto ao homicídio praticado contra a vítima Maicon do Amaral Xavier, a pena-base foi fixada no mínimo legal, ou seja, 12 (doze) anos de reclusão.
+Na segunda etapa, houve exasperação da pena em 1/3 (quatro anos), pela incidência da agravante da reincidência, visto que o paciente possuía duas condenações definitivas. Reconhecida a atenuante da confissão, realizo a compensação proporcional, de maneira que a fração de aumento da pena deverá ser diminuída para 1/6 (dois anos), considerando a condenação restante.
+Pena intermediária em 14 anos, portanto.
+Na terceira fase, nos termos da sentença, deverá a pena ser reduzida de 1/3 (um terço) em razão da minorante da tentativa, o que resulta na pena definitiva de 9 (nove) anos e 4 (quatro) meses de reclusão.
+Relativamente à tentativa de homicídio perpetrada contra a vítima Pietra Ranieli Fonseca da Conceição, a pena-base também foi fixada em 12 (doze) anos.
+Na segunda etapa, a pena foi aumentada, inicialmente, em 1/3 (quatro anos) em razão da multirrencidência do paciente. Procedo à compensação proporcional com a atenuante da confissão para reduzir a fração de exasperação para 1/6 (dois anos).
+Ainda na segunda etapa, o magistrado consignou que o crime foi praticado para assegurar a execução/impunidade de outro, motivo pelo qual aumentou a pena em mais 1/6 (dois anos).
+Pena intermediária, portanto, em 16 (dezesseis) anos de reclusão.
+Na terceira fase, conforme a sentença, a pena deverá ser reduzida de 1/3 (um terço) em razão da causa de diminuição da tentativa, o que resulta na pena definitiva de 10 (dez) anos e 8 (oito) meses de reclusão.
+Somo ambas as penas para chegar à pena final de 20 (vinte) anos de reclusão.
+Ante ao exposto, concedo de ofício a ordem de habeas corpus para: a) reconhecer a atenuante da confissão espontânea e compensá-la proporcionalmente com a reincidência; e b) fixar a pena definitiva, somadas as penas dos dois homicídios tentados, em 20 (vinte) anos de reclusão, mantida, no mais, a sentença condenatória.
+Comunique-se com urgência o Tribunal de origem e o Juízo singular.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
