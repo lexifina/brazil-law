@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSÉ ANTONIO PEREIRA DE BRITO e OUTRA contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para conhecer em parte do recurso especial e negar-lhe provimento, em razão de inexistência da alegada ofensa aos arts. 489 e 1.022 do CPC e de incidência da Súmula n. 7 do STJ, por demandar análise de prova a pretensão do ora embargante de afastar o entendimento do Tribunal de origem pela inexistência de cerceamento de defesa e pela improcedência da pretensão de inversão do ônus da prova e de reparação por danos morais (fls. 559-563).
+Os embargantes alegam que há omissão relevante da embargada e ofensa aos arts. 489 e 1.022 do Código de Processo Civil, ao defenderem que seus argumentos deduzidos nas razões do recurso especial não foram observados ao se concluir de forma genérica que o Tribunal de origem não incorreu em omissão.
+Reiteram as alegações do recurso especial acerca de ocorrência de cerceamento de defesa e de ônus da prova e aduzem que não se faz necessário reexame de provas, inclusive porque o pedido principal é a devolução dos autos às instâncias ordinárias com a consequente reabertura da instrução probatória.
+Requerem o acolhimento dos presentes embargos a fim de se conhecer do agravo em recurso especial e de se dar provimento ao recurso especial.
+Impugnação aos embargos de declaração (fls. 576-578).
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Não há omissão na decisão embargada.
+No caso dos autos, consoante assentado na referida decisão, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+Com efeito, o Tribunal de origem apreciou todas as alegações dos ora embargantes e, de maneira clara e fundamentada, afastou as pretensões, ao entender pela inexistência de cerceamento de defesa e improcedência da pretensão de inversão do ônus da prova e de reparação por danos morais. Confira-se o seguinte excerto do voto condutor (fls. 469-472):
+No caso, nada indica que a não obtenção de financiamento bancário por parte dos consumidores em montante capaz de adimplir o saldo devedor do preço do imóvel compromissado decorrera de conduta imputável aos réus, sendo certo que a aprovação do crédito constituía obrigação contratualmente assumida pelos autores (cláusula VIII.1 fls.46).
+Outrossim, merece adoção a fundamentação adotada na r. sentença:
+(..)
+D"outro bordo, a sonegação da propriedade no prazo inicialmente estabelecido não enseja, em regra, o crédito à indenização por sofrimento de ordem moral.
+Na peculiaridade dos autos, o propalado inadimplemento contratual da construtora não promovera a real penetração da conduta ilícita e indevida na esfera da personalidade humana dos recorrentes.
+Na espécie, na qual não se vê a quebrada esperança com o sonho da moradia, não se verifica, igualmente, a depreciação da dignidade humana dos apelantes.
+A inadimplência da construtora não tivera o condão de atingir valores espirituais, a paz íntima, ou ainda causar fenda no âmago do ser dos autores.
+Pode haver dano moral em situações tais.
+Não, contudo, de modo geral e por força do simples inadimplemento contratual.
+Não é viável, assim, a indenização por danos morais, posto que não se levanta a existência de lesão a nenhuma das faces dos direitos da personalidade dos consumidores.
+(..)
+Jamais o dano moral, pois, pode ser resumido a pequenos aborrecimentos limitados pela transitoriedade.
+De rigor técnico, portanto, a manutenção da improcedência do pedido de indenização por danos morais.
+Confira-se o seguinte excerto do voto dos embargos de declaração (fls. 485-486):
+Marque-se que o V. Acórdão examinara a hipótese trazida à baila e, adotando a fundamentação exarada na r. sentença, concluíra de forma expressa e inequívoca pela não caracterização do propalado inadimplemento contratual imputado às rés em relação ao processo de obtenção do financiamento imobiliário junto à CEF, bem como pela não configuração dos alegados danos morais.
+Por sua vez, muito embora aplicável o CDC no caso em voga, a inversão do ônus da prova a que se refere o art. 6º, inciso VIII, não é automática.
+A sua aplicação pressupõe que estejam presentes os requisitos da verossimilhança ou da hipossuficiência técnica, conforme as regras ordinárias de experiência.(..)
+Não basta, pois, que esteja caracterizada a relação de consumo, sendo certo que no caso concreto não se vislumbrara a verossimilhança das alegações autorais tampouco a sua hipossuficiência técnica em relação à prova que agora pretendem produzir.
+Nesse contexto, manifestou-se a Corte de origem de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido em sentido contrário ao posicionamento defendido pelo ora agravante.
+Ademais, nos termos da jurisprudência desta Corte, não incorre em omissão o julgado em que foram apreciadas as questões relevantes e imprescindíveis à resolução da causa.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSTO DE RENDA DAS PESSOAS FÍSICAS. RENDIMENTOS RECEBIDOS DE ENTIDADE DE PREVIDÊNCIA PRIVADA. PRETENSÃO DE SER CONSIDERADO SOMENTE O LÍQUIDO. DESCABIMENTO. INCIDÊNCIA DO IMPOSTO SOBRE A TOTALIDADE DOS RENDIMENTOS. POSSIBILIDADE APENAS DE DEDUÇÃO DA BASE DE CÁLCULO FORMADA POR TODOS OS RENDIMENTOS TRIBUTÁVEIS DAS CONTRIBUIÇÕES À ENTIDADE, OBSERVADO O LIMITE LEGAL DE 12% DO TOTAL DE RENDIMENTOS TRIBUTÁVEIS.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal Regional não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte a quo examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Observo que o Tribunal Regional não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. A pretensão da entidade autora é incluir na base de cálculo do imposto de renda somente o valor líquido recebido da entidade privada.
+5. Os benefícios recebidos de entidades de previdência privada compõem a base de cálculo do imposto de renda, por se enquadrarem na regra geral do art. 8º, I, da Lei 9.250/95 e expressa previsão específica do art. 33 da mesma lei.
+6. Os rendimentos tributáveis são incluídos na base de cálculo do imposto de renda pelo seu valor bruto (art. 8º, I, da Lei 9.250/95 c/c art. 3º da Lei 7.713/88).
+7. Inexiste fundamento legal para os benefícios serem considerados pelo seu líquido, ou seja, deduzidos das contribuições à própria entidade de previdência privada.
+8. Redução da base de cálculo sem previsão legal seria inconstitucional, a teor do art 150, § 6º, da Constituição: "qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no art. 155, § 2º, XII, g".
+9. Uma vez somados os benefícios da entidade de previdência privada aos demais rendimentos tributáveis, a base de cálculo do imposto de renda poderá ser reduzida pela dedução das contribuição a entidades de previdência privada, nos termos do art. 8º, II, "e", da Lei 7.713/88, desde que respeitado o limite de 12% dos rendimentos computados na base de cálculo (art. 11 da Lei 9.532/97).
+10. Agravos Internos não providos.
+(AgInt nos EDcl no REsp n. 1.998.278/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Outrossim, conforme assentado na decisão embargada, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REDISCUSSÃO DE QUESTÃO APRECIADA. NÃO CABIMENTO.
+1- Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2- Esta Corte Superior perfilha o entendimento de que "os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores" (AgInt no AREsp n. 2.097.025/SP, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022).
+3- Embargos de declaração rejeitados.
+(EDcl nos EDcl no REsp n. 1.976.376/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/11/2022, DJe de 10/11/2022.)
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubsta nciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. PROPRIEDADE IMÓVEL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. NÃO CABIMENTO. DANOS MORAIS NÃO CONFIGURADOS. PRETENSÃO DE REEXAME DE PROVAS. INEXISTÊNCIA DE VÍCIO NA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
