@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. RECURSO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. PRAZO: 5 DIAS CORRIDOS. ART. 39 DA LEI N. 8.038/1990. INTEMPESTIVIDADE.
+1. O início da vigência do CPC/2015 não modificou o prazo para que seja interposto agravo contra decisão unipessoal de relator em matéria criminal. Assim, nessa hipótese, permanece em vigor a previsão contida no art. 39 da Lei n. 8.038/1990, isto é, o interstício para a interposição do citado recurso é de 5 dias corridos.
+2. No caso, a decisão agravada foi considerada publicada em 17/4/2024. O prazo de 5 dias para a interposição do regimental teve início em 18/4/2024 e término no dia 22/4/2024, mas este agravo regimental foi apresentado nesta Corte Superior apenas em 23/4/2024, ocasião na qual já se encontrava esgotado o respectivo interstício recursal.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLAUDIA ROBERTA DE MELO contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em razão da Súmula 115/STJ, pela ausência da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Juliano Rodrigo Paganin (fl. 262).
+Reitera a parte agravante, no agravo regimental, as alegações de mérito do recurso especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. RECURSO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. PRAZO: 5 DIAS CORRIDOS. ART. 39 DA LEI N. 8.038/1990. INTEMPESTIVIDADE.
+1. O início da vigência do CPC/2015 não modificou o prazo para que seja interposto agravo contra decisão unipessoal de relator em matéria criminal. Assim, nessa hipótese, permanece em vigor a previsão contida no art. 39 da Lei n. 8.038/1990, isto é, o interstício para a interposição do citado recurso é de 5 dias corridos.
+2. No caso, a decisão agravada foi considerada publicada em 17/4/2024. O prazo de 5 dias para a interposição do regimental teve início em 18/4/2024 e término no dia 22/4/2024, mas este agravo regimental foi apresentado nesta Corte Superior apenas em 23/4/2024, ocasião na qual já se encontrava esgotado o respectivo interstício recursal.
+3. Agravo regimental não conhecido.
+VOTO
+O recurso não comporta conhecimento.
+De acordo com o entendimento do Superior Tribunal de Justiça, o início da vigência do Código de Processo Civil não modificou o prazo para que seja interposto agravo contra decisão unipessoal de relator em matéria criminal. Assim, nessa hipótese, permanece em vigor a previsão contida no art. 39 da Lei n. 8.038/1990, isto é, o interstício para a interposição do citado recurso é de 5 dias corridos.
+Ademais, conforme a jurisprudência desta Corte Superior de Justiça, a contagem dos prazos recursais nos feitos criminais encontra-se regulamentada no artigo 798 do Código de Processo Penal, segundo o qual "todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", o que impede a aplicação das regras processuais civis, sendo, dessa maneira, inaplicável o cálculo em dias úteis previsto no artigo 219 do Novo Código de Processo Civil, bem como o recesso do CPC/2015 (AgRg no AREsp n. 2.089.827/RJ, Rel. Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 2/8/2022, DJe 22/8/2022) - (AgRg no AREsp n. 1.894.125/SP, Ministra Laurita Vaz, Sexta Turma, DJe 23/2/2023).
+Na espécie, a decisão agravada foi disponibilizada no Diário da Justiça Eletrônico do Superior Tribunal de Justiça em 16/4/2024 e considerada publicada em 17/4/2024, nos termos da certidão de fl. 264.
+Nesse diapasão, o prazo de 5 dias para a interposição do regimental teve início em 18/4/2024 e término no dia 22/4/2024, mas este agravo regimental foi apresentado nesta Corte Superior apenas em 23/4/2024 (fl. 268) ocasião na qual já se encontrava esgotado o respectivo interstício recursal, fato esse, inclusive, objeto de certidão expedida pela pela Coordenadoria de Processamento de Feitos de Direito Penal (fl. 290).
+Dessa forma, é manifesta a intempestividade do recurso, porquanto interposto além do prazo de 5 dias corridos, previsto nos arts. 39 da Lei n. 8.038/1990; 258, caput, do RISTJ; e 798, caput e § 3º, do Código de Processo Penal.
+Ainda que assim não fosse, como bem anotado no parecer ministerial, não houve impugnação efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da discussão. Deve, o agravante, expor, com particularidade, que a alteração do entendimento adotado na decisão agravada, demonstrando que seu pleito independe da apreciação fático-probatória dos autos ou que não incidiu nos termos da Súmula 182 do Superior Tribunal de Justiça. Assim, no caso concreto, incide a Súmula 182/STJ (fls. 303/304).
+Ante o exposto, não conheço do agravo regimental.
