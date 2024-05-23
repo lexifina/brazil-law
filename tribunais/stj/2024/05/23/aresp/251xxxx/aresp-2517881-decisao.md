@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo Condomínio do Edifício Top Center contra decisão da Corte de origem que não admitiu o recurso especial. O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 185):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DESENTENÇA - IMPUGNAÇÃO REJEITADA - OMISSÃO NASENTENÇA DO ÍNDICE DE JUROS - SELIC - RECURSOPROVIDO.
+1 - Em julgamento submetido ao rito dos processos representativos da controvérsia (art. 543-C do CPC/1973 e art.1.036 do CPC/2015) o Colendo Superior Tribunal de Justiça firmou o entendimento de que a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC.
+2 - A sentença, a ser cumprida, não fixou o índice a ser utilizado para os juros de mora.
+3 - Súmula nº 254 do STF: "Incluem-se os juros moratórios na liquidação, embora omisso o pedido inicial ou a condenação".
+4 - Recurso provido.
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 502, 503, 505, 507 e 508 do CPC, indicando "ser "inviável a alteração do percentual fixado a título de juros de mora na respectiva execução, visto que implicaria violação da coisa julgada" (AgInt no REsp 1.673.862/SC) (..) Salta aos olhos a violação da coisa julgada perpetrada pelo Acórdão hostilizado, que além de alterar o critério de aplicação dos juros e correção (01% para INPC e SELIC), alterou o marco temporal de tais incidências, ao determinar a aplicação da Selic após a citação, contrariando o que restou expressamente decidido na sentença transitada em julgado. Notória, portanto, a alteração dos índices e percentuais de juros e correção, bem como do critério temporal determinado para as suas incidências, já em sede de cumprimento definitivo de sentença, violando a coisa julgada, cuja proteção reside nos artigos 502, 503, 505, 507 e 508 do CPC, razão pela qual a anulação do Acórdão Recorrido é a medida que se deve impor." (fls. 257-258).
+Acrescenta ainda no que tange a alegada divergência jurisprudencial que, no Acórdão Recorrido, "o Tribunal de Justiça a quo fundamenta-se no sentido de que este Superior Tribunal de Justiça ad quem firmou o entendimento de que a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, de outro, o Tribunal de Justiça do Distrito Federal e Territórios, no Acórdão paradigma, sustenta que a incidência da Taxa SELIC ocorre apenas nas hipóteses expressamente previstas em Lei e, diferentemente do que sustenta o recorrente daqueles respectivos autos, a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a prevista no art. 161, §1º, do Código Tributário Nacional, ou seja, 1% (um por cento) ao mês" (fl. 262).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Na hipótese dos autos, a Corte Especial está discutindo a matéria ora controvertida nos autos do REsp 1.795.982/SP, da relatoria do Ministro Luis Felipe Salomão, julgamento ainda não concluído.
+Em razão disso, determino o sobrestamento do feito na Coordenadoria até o pronunciamento definitivo da Corte Especial acerca da matéria.
+Publique-se. Intimem-se.
+EMENTA
