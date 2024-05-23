@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por LUIZ ROBERT OLIVEIRA DA COSTA, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso.
+Consta dos autos que o recorrente foi preso em flagrante pela suposta prática do delito tipificado no art. 311 do Código Penal, tendo-lhe sido concedida liberdade provisória condicionada ao pagamento de fiança no valor de um salário mínimo.
+Neste recurso, sustenta que "resta patenteada a situação de hipossuficiência econômica do recorrente, a atrair a incidência do disposto no artigo 325, § 1º, inciso I, do CPP, o qual estabelece que a fiança deverá ser dispensada, na forma do artigo 350 do mesmo Diploma" (e-STJ, fl. 172).
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Na hipótese, o recorrente encontra-se preso pela suposta prática do delito de adulteração de sinal identificador de veículo, apenas em razão da impossibilidade econômica de arcar com a fiança arbitrada, no valor de R$ 1.320,00 (um mil, trezentos e vinte reais).
+Nesse contexto, de acordo com o art. 350 do Código de Processo Penal, "nos casos em que couber fiança, o juiz, verificando a situação econômica do preso, poderá conceder-lhe liberdade provisória, sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso".
+Sobre a fixação de fiança, ressalte-se que a jurisprudência desta Corte é no sentido de que "ausentes os requisitos autorizadores da segregação preventiva, configura constrangimento ilegal a prisão do paciente com base unicamente no não pagamento da fiança" (HC 348.146/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/04/2016, DJe 13/04/2016). Na mesma linha:
+"HABEAS CORPUS. FURTO. FIANÇA. CAUTELARIDADE NÃO DEMONSTRADA. HIPOSSUFICIÊNCIA. IMPOSSIBILIDADE DE PAGAMENTO DO VALOR FIXADO. ORDEM CONCEDIDA.
+1. Se a admissão de habeas corpus, quando substitui recurso próprio, não tem sido tolerada por esta Corte, com muito mais razão será a inviabilidade de writ que se volta contra decisão que indefere pedido de liminar na origem. Incide, portanto, a Súmula n. 691 do STF, também observada por este Tribunal Superior, cuja suplantação somente é possível quando a percepção de ilegalidade seja manifesta e inconteste, o que ocorre na hipótese vertente.
+2. Os requisitos das cautelares indicados no art. 282, I, se aplicam a quaisquer das medidas previstas em todo o Título IX do Código de Processo Penal. Se não forem observados esses parâmetros e esse regramento constitucional e legal, a prisão preventiva assume caráter nitidamente punitivo, passando a servir simbolicamente como pronta resposta do Judiciário à agressão a um bem jurídico, antecipando um juízo de condenação que ainda inexiste.
+3. O Desembargador não fundamentou, concretamente, a necessidade de arbitramento de fiança, tampouco de imposição de quaisquer das medidas cautelares alternativas à prisão, sem menção à necessidade das medidas para a aplicação da lei penal, para a investigação ou a instrução criminal ou para evitar a prática de novas infrações penais. Ao contrário, afirmou, expressamente, que "o paciente é tecnicamente primário segundo sua FAC online. Ademais, não há indícios de que efetivamente o réu tenha a intenção de evadir-se" (fl. 32).
+4. A fiança não pode servir como uma espécie de preço ou taxa que o indivíduo é instado a pagar como condição para responder ao processo em liberdade.
+5. Evidenciado que o paciente é hipossuficiente, visto que permanece preso provisoriamente por não possuir meios para pagar a fiança, e que as outras medidas fixadas pelo Juiz, elencadas no art. 319 do CPP, são adequadas e suficientes para prover as exigências cautelares do caso concreto, deve ser reconhecida a ilegalidade.
+6. Ordem concedida para, confirmada a liminar, desconstituir a exigência de que seja prestada a fiança determinada em desfavor do paciente, mantidas as demais cautelares já impostas."
+(HC n. 582.962/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/6/2020, DJe de 4/8/2020, grifou-se).
+Ante o exposto, dou provimento ao recurso para garantir, ao recorrente, liberdade provisória independentemente do pagamento de fiança, sujeitando-o às obrigações constantes dos arts. 327 e 328 do CPP e às demais condições impostas pelo Juízo de Primeira Instância.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado do Mato Grosso e ao Juízo da 2ª Vara Criminal da Comarca de Várzea Grande.
+Publique-se. Intime-se.
+EMENTA
