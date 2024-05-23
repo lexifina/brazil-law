@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Augusto Luiz Fiorot contra acórdão proferido pela Quarta Turma desta Corte, assim ementado (e-STJ, fl. 501):
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. INTIMAÇÃO NA FORMA DO ART. 1.007, § 4º, DO CPC/2015. NÃO RECOLHIMENTO. DESERÇÃO. SÚMULA N. 187/STJ. DECISÃO MANTIDA.
+1. O recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 4º, do CPC/2015, a parte não comprovar ser beneficiária da gratuidade da justiça ou ter pago o preparo no momento de sua interposição, ou, ainda, não efetuar o recolhimento em dobro.
+2. Mesmo após a intimação da parte recorrente para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo, o que atrai a Súmula n. 187/STJ.
+3. Agravo interno a que se nega provimento.
+Em suas razões (e-STJ, fls. 512-546), a parte embargante aponta divergência entre o aresto recorrido e os seguintes precedentes: AgRg no AgRg no REsp n. 1.518.054/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/3/2016, DJe de 11/3/2016; e AgInt no AREsp n. 736.006/DF, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/6/2016, DJe de 23/6/2016.
+Sustenta que, "no acórdão embargado decidiu-se quanto a deserção do recurso em face a inexistência de comprovação de ser beneficiário da assistência judiciária gratuita, em decisão nula, sendo essas a conclusão e demonstração do acórdão paradigma demonstra cabalmente posicionamento divergente" (e-STJ, fl. 527).
+Contudo, segundo o recorrente, "de forma diametralmente oposta, no acórdão paradigma, a solução foi que em casos como o aqui exposto a concessão dos benefícios da assistência judiciária gratuita, mostra-se evidente, com o recebimento e conhecimento do mérito ali esposado" (e-STJ, fl. 528).
+Brevemente relatado, decido.
+De início, vale destacar que o embargante aponta como paradigma acórdão da própria Quarta Turma desta Corte Superior, o que não se admite, pois, nos termos do art. 1.043, inciso I, do CPC/2015, "é embargável o acórdão de órgão fracionário que (..) em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito".
+No presente caso não incide o disposto no § 3º do referido dispositivo legal, o qual permite o cabimento dos embargos de divergência "quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros", tendo em vista que não houve qualquer alteração nos membros da Quarta Turma.
+Quanto ao paradigma da Terceira Turma, a teor do § 1º do art. 266 do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial indicada nos embargos deve ser demonstrada na forma prevista no § 1º do art. 255, cabendo ao embargante "transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados".
+A leitura do recurso revela que a parte embargante não atendeu à exigência prevista no RISTJ, porquanto se limitou a transcrever a tese inserida na ementa do aresto oriundo da Terceira Turma.
+Com efeito, é firme a orientação jurisprudencial desta Corte no sentido de que "o dissídio pretoriano exigível ao conhecimento dos Embargos de Divergência reclama a comprovação mediante cotejo analítico, sendo insuficiente a mera transcrição de ementas" (AgRg nos EREsp n. 421.964/SP, Relator Ministro Luiz Fux, Primeira Seção, DJ de 4/10/2004).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL ENTRE OS ACÓRDÃOS EM COTEJO.
+1. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+2. No caso, é evidente a inexistência de similitude fático-processual uma vez que, no caso concreto, a pretensão é a de responsabilizar a instituição bancária em razão de o correntista ter causado prejuízo a terceiros em razão da emissão de cheques sem provisão de fundos; no julgado divergente, a hipótese é de responsabilização da instituição financeira por fraude praticada por terceiro à correntista.
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 1.454.899/SC, Relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2017)
+Diante do exposto, indefiro liminarmente os embargos de divergência.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA DA MESMA TURMA QUE PROFERIU O DECISUM EMBARGADO. NÃO CABIMENTO. NECESSIDADE DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL, MEDIANTE COTEJO ANALÍTICO DOS ACÓRDÃOS CONFRONTADOS. EXIGÊNCIA QUE NÃO SE SATISFAZ COM A SIMPLES TRANSCRIÇÃO DE EMENTA. DIVERGÊNCIA NÃO DEMONSTRADA. EMBARGOS INDEFERIDOS LIMINARMENTE.
