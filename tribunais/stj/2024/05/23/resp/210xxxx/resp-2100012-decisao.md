@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 46):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SERVIDOR FALECIDO ANTES DO AJUIZAMENTO DA EXECUÇÃO COLETIVA. SUBSTITUIÇÃO PROCESSUAL. HIPÓTESES DE CABIMENTO.
+A legitimação extraordinária dos sindicatos, conforme a jurisprudência do Supremo Tribunal Federal, confere a estes ampla legitimidade para estar em juízo em nome dos integrantes da categoria, substituindo-os.
+No entanto, o sindicato não é legítimo para litigar em nome daqueles que não compõem a categoria, como são os sucessores, quando o falecimento do servidor ocorreu antes do ajuizamento da ação ou execução, eis que não há se falar em substituição post mortem.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da legitimidade do ente sindical para representar os sucessores do servidor substituído, falecido no curso da ação de conhecimento, bem como substituir processualmente o pensionista do servidor.
+Quanto a questão de fundo, sustenta ofensa aos arts. 4º e 6º do CPC/2015, 240 da Lei n.
+8.112/1990 e 3º da Lei n. 8.073/1990, ao argumento de que é "ampla legitimidade extraordinária do Sindicato para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, consoante previsto no artigo 240 da Lei nº 8.112/90 e no artigo 3º da Lei nº 8.073/90, contemplando os servidores falecidos no que diz respeito aos valores devidos enquanto ainda estavam vivos" (fls. 111-112) e quanto ao "pedido para declarar que as habilitações dos herdeiros sejam realizadas somente quando indispensável, ou seja, somente quando ocorrer à expedição das requisições de pagamento" (fl. 112).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 163-164.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da legitimidade do ente sindical para substituir o pensionista do servidor, bem como para representar os sucessores do servidor no caso de falecimento no curso da ação.
+À propósito, trecho dos aclaratórios (fl. 65):
+ ..
+Além, disso, ao contrário do externado no v. acórdão embargado, observa-se que a única ressalva levantada na jurisprudência pátria para reconhecimento da legitimidade do Sindicato para representar os servidores falecidos diz respeito ao momento em que ocorre o falecimento do respectivo servidor, devendo, para tanto, ter ocorrido após o ajuizamento da ação de conhecimento.
+Veja-se que este é o caso dos autos, eis que os servidores substituídos falecidos, DARCY COSTA, MARIA APARECIDA DA COSTA BAPTISTA, OLIMPIO FRANCA JUNIOR e WALDEMIRO HACK, finaram-se não só após o ajuizamento da ação coletiva - que originou o título executivo objeto do cumprimento de sentença no qual foi interposto o presente agravo de instrumento -, mas também após o trânsito em julgado da sentença coletiva, em 22/07/2014, conforme se verifica no item 1 da r. decisão inicial proferida no evento 3 dos autos originários.
+ ..
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional, sobretudo se considerada a jurisprudência firmada por esta Corte superior acerca da temática.
+Nesse sentido, recente julgado proferido pela eg.Primeira Turma desta Corte superior:
+PROCESSUAL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. FALECIMENTO DE SERVIDOR PÚBLICO ANTES DO AJUIZAMENTO DA AÇÃO COLETIVA PELO SINDICATO. RECURSO ACOLHIDO.
+1. Trata-se de pretensão de execução individual de sentença coletiva movida por entidade sindical em data posterior ao óbito do servidor de quem a parte adversa é sucessora.
+2. Consoante o entendimento do Superior Tribunal de Justiça, "o sindicato não possui legitimidade ativa para substituir os sucessores do servidor falecido quando o óbito se dá em momento anterior ao ajuizamento da ação de conhecimento, uma vez que não angularizada a relação processual em relação ao de cujus" (AgInt no REsp 2.042.648/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023).
+3. Embargos de declaração acolhidos, com efeitos modificativos, para reconhecer a ilegitimidade do sindicato para substituir servidor público falecido antes do ajuizamento da ação de conhecimento.
+(EDcl no AgInt nos EDcl no AgInt no REsp n. 1.632.524/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.921.251/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2023; AgInt no REsp 2.012.744/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 18/10/2023; AgInt nos EDcl no REsp 2.024.125/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 30/8/2023; AgInt no REsp 2.020.066/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/5/2023.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie por completo a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. FALECIMENTO DO SERVIDOR SUBSTITUÍDO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. ESPECIAL PROVIDO.
