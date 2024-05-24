@@ -1,0 +1,35 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL  interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  Regional Federal da 5ª Região  na  Apelação  Criminal  n.  0008854-39.2009.4.05.8100.
+O  recorrido foi condenado, pela prática do crime previsto no art. 337-A, I, do Código Penal, à sanção de 2 anos e 7 meses de reclusão mais 40 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+O recorrente aponta violação dos arts. 315, § 2º, III e IV, 619, 620, todos do Código de Processo Penal; 489, § 1º, III e IV, e 1.022, parágrafo único, II, ambos do Código de Processo Civil, e 168-A, § 1º, I, do Código Penal. Em síntese, alega omissão e negativa de prestação jurisdicional no julgamento dos embargos de declaração. No mérito, defende o restabelecimento da condenação do acusado pelo crime previsto no art. 168-A do CP.
+O  Ministério  Público  Federal , em parecer do Subprocurador-Geral da República Miécio Oscar Uchôa Cavalcanti Filho, às fls. 1.783-1.795,  opinou  pelo  provimento do recurso especial, para que seja anulado o acórdão que julgou os embargos de declaração.
+Decido.
+I. Inadmissibilidade do REsp
+A Corte de origem absolveu o recorrido do crime previsto no art. 168-A, § 1º, I, do Código Penal, com base na seguinte fundamentação (fl. 1.636):
+ ..
+Quanto ao mérito, já decidiu, numerosas vezes, esta Corte que "a prática do ilícito encartado no CP, art. 168-A, exige que o agente, tendo consigo o dinheiro para pagar o débito fiscal-previdenciário, simplesmente haja escolhido não adimplir, elegendo uma outra destinação menos nobre do que aquela referida no comando legal." (TRF 5ª Região, 2ª Turma, ACR 6467/CE, rel. Des. Fed. Paulo Roberto de Oliveira Lima, DJe 11.12.2014, p. 193).
+Aqui, a denúncia limita-se a afirmar o desconto das contribuições, sem qualquer preocupação com a demonstração de que o gestor da empresa, embora dispondo de condições financeiras para proceder ao recolhimento mensal, optou por não fazê-lo. Como tal prova não foi feita ao longo do processo, deve o recorrente ser absolvido da acusação dessa infração penal, pela atipicidade do fato.
+A sentença penal, por sua vez, consignou (fls. 1.437-1.439):
+ ..
+46. No caso do ilícito penal de apropriação indébita previdenciária, tem-se que se caracteriza crime omissivo próprio, em que o dolo independe da intenção específica de auferir proveito, pois o que se tutela não é a apropriação das importâncias, mas o seu regular recolhimento. Neste caso, somente situação de absoluta insolvência da empresa, plenamente comprovada nos autos, é capaz de acarretar um juízo absolutório.
+47. Cabe aqui pontificar que o delito em questão prescinde do dolo específico, exigindo tão-somente o dolo genérico consistente na vontade de suprimir ou reduzir a contribuição previdenciária, que aqui está presente na vontade livre e consciente dos réus em não quitar as obrigações previdenciárias.
+ ..
+Na hipótese dos autos, entendo que as alegadas dificuldades financeiras não foram de ordem tal a permitir a paralisação das atividades da empresa, que vem sobrevivendo mesmo com os percalços conferidos pelo mercado.
+57. A esse respeito, tem-se as declarações do auditor fiscal responsável pela fiscalização, o qual, em juízo, perguntado pelo representante do MPF se restou evidenciada alguma evidência mais concreta da alegada dificuldade financeira, respondeu que a empresa estava operando normalmente na época e as receitas estavam entrando de forma natural, pelo menos no ano fiscalizado de 2004.
+58. É dizer: não foram coligidas aos autos provas contundentes e irrefutáveis da alegada crise financeira, não só da empresa, mas também de seus sócios, prova essa, cujo ônus de apresentar cabe à parte ré, sendo certo que os depoimentos das testemunhas de defesa, certidões positivas, atestando a existência de execuções fiscais e extrajudiciais, ações monitórias, reclamações trabalhistas movidas em desfavor da empresa do acusado, não são capazes, por si só, de afastar a conduta delitiva.
+Conforme se observa, o acórdão recorrido estabeleceu a necessidade de se demonstrar, para caracterização do crime de apropriação indébita previdenciária, a disponibilidade financeira da sociedade empresária e a opção do gestor por não fazer o recolhimento da contribuição.
+Contudo, o STJ considera que, para caracterização do crime de apropriação indébita previdenciária, é suficiente a demonstração do dolo genérico, configurado na mera omissão no repasse da contribuição.
+Assim, na hipótese, não seria cabível a absolvição do acusado com base em exigência de que deve haver a demonstração prévia da capacidade financeira da sociedade empresária ao tempo dos fatos. A inexigibilidade de conduta diversa é possível de ser reconhecida, mas não como parte integrante do tipo penal na forma de dolo específico, e sim como excludente de ilicitude e com o ônus probatório inerente a quem o invocar.
+Além disso, o juízo de primeira instância considerou que as dificuldades financeiras alegadas não seriam suficientes para justificar a apropriação indevida das contribuições. Dessa forma, a condenação do acusado, pela conduta prevista no art. 168, § 1º, II, do Código Penal, deve ser restabelecida.
+Oportunamente, cito os julgados a seguir:
+ ..
+4.  .. , nos termos da jurisprudência desta Corte Superior, os crimes de sonegação fiscal e apropriação indébita previdenciária prescindem de dolo específico, sendo suficiente, para a sua caracterização, a presença do dolo genérico consistente na omissão voluntária do recolhimento, no prazo legal, dos valores devidos (AgRg no AREsp 469.137/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/12/2017, DJe 13/12/2017) - (AgRg nos EDcl no AREsp n. 1.650.790/RN, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2020). ..
+(AgRg nos EDcl no REsp n. 2.013.545/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 5/10/2023.)
+ ..
+1. De acordo com a jurisprudência desta Corte, a comprovação dos crimes de apropriação indébita de contribuição previdenciária (art. 168-A do CP) e de sonegação de contribuição previdenciária (art. 337-A do CP) prescindem de dolo específico, sendo suficiente, para a sua caracterização, a presença do dolo genérico. Precedentes. ..
+(AgRg nos EDcl no REsp n. 2.075.848/PB, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 11/10/2023.)
+Dessa forma, fica restabelecida integralmente a sentença condenatória, inclusive na parte relativa à pena imposta de 5 anos e 3 meses de reclusão mais 80 dias-multa (1/4 do valor do salário mínimo), no regime inicial semiaberto, decorrente dos crimes descritos nos arts. 337-A , I, e 168-A, § 1º, I, do Código Penal, em concurso material. Fica afastada a substituição da pena privativa de liberdade por restritivas de direitos.
+II. Dispositivo
+À  vista  do  exposto,  dou provimento ao recurso especial, para restabelecer a condenação do recorrido, pelo crime previsto no art. 168-A, § 1º, I, do CP e a pena imposta na sentença condenatória.
+Publique-se  e  intimem-se.
+EMENTA
