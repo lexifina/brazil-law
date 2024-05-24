@@ -1,0 +1,25 @@
+DECISÃO
+JULIANO DE SOUZA CARDOSO alega sofrer coação ilegal em decorrência de decisão de Desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul, que indeferiu o pedido liminar do habeas corpus impetrado em seu favor.
+A defesa pretende a superação da Súmula n. 691 do STF, para que o réu seja posto em liberdade, ao argumento de que a prisão preventiva carece de fundamentação idônea.
+Decido.
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, o constrangimento ilegal apontado.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. INDEFERIMENTO DE MEDIDA LIMINAR NO SUPERIOR TRIBUNAL DE JUSTIÇA: SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE NA ESPÉCIE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(HC n. 182.390 AgR, Rel. Ministro Cármen Lúcia, 2ª T., DJe 24/4/2020)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE. IMPOSSIBILIDADE DE DEVOLUÇÃO DO PRAZO RECURSAL. APLICAÇÃO DA SÚMULA 691/STF. NÃO COMPROVAÇÃO DE ILEGALIDADE OU TERATOLOGIA ALEGADAS. AGRAVO DESPROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. No caso, não há falar em flagrante ilegalidade capaz de superar o óbice da Súmula 691/STF, porquanto o agravo em recurso especial mostrou-se indubitavelmente intempestivo, o que sequer é questionado pelo agravante, logo, não se verifica direito inconteste de devolução do prazo recursal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/4/2020)
+II. O caso dos autos
+O paciente teve sua prisão preventiva decretada pela suposta prática de tráfico de drogas, em virtude do risco concreto de reiteração delitiva, extraído da reincidência do acusado. O réu foi condenado, em primeira instância, a 8 anos e 2 meses de reclusão, em regime inicial fechado.
+Ao indeferir ao agente o direito de apelar em liberdade, o Magistrado de origem afirmou: "tenho que mantidas as circunstâncias que fundamentaram a segregação cautelar do réu, cujos termos reitero neste ato (processo 5129080- 98.2022.8.21.0001/RS, evento 9, TERMOAUD1), reforçadas pelo decreto condenatório e regime inicial fixado, motivo pelo qual mantenho a sua prisão preventiva" (fl. 47).
+A um primeiro olhar, o decreto cautelar tem fundamentação idônea, uma vez que, de acordo com a jurisprudência do STJ, "O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+Assim, não há como identificar ilegalidade manifesta, com a ressalva de que não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada já a partir da decisão colegiada do tribunal competente, se preenchidos todos os requisitos de admissibilidade.
+III. Dispositivo
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
