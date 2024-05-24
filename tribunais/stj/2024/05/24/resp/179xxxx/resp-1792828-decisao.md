@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se recurso especial interposto por DALTON BEVILAQUA fundamentado, exclusivamente, nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 13/07/2018.
+Concluso ao gabinete em: 27/11/2023.
+Ação: declaratória c/c repetição de indébito ajuizada por DALTON BEVILAQUA em face de SUL AMÉRICA SEGURO SAÚDE S.A. na qual se insurge contra os percentuais de reajuste por idade, por sinistralidade e reajustes anuais aplicados em seu contrato de plano de saúde.
+Sentença: julgou procedente a demanda para declarar nulo por abusividade o reajuste por faixa etária e condenar a operadora na devolução das quantias pagas a maior.
+Acórdão: deu provimento ao apelo da recorrida, nos termos da seguinte ementa:.
+PLANO DE SAÚDE - Reajuste em função da mudança de faixa etária aos 59 anos - Admissibilidade - Inaplicabilidade do Estatuto do Idoso (Lei nº 10.741/03) - Precedentes da Corte - Sentença reformada - Recurso provido.
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Opostos embargos infringentes pelo recorrente: foram acolhidos, nos termos da seguinte ementa:
+EMBARGOS INFRINGENTES. SEGURO. PLANO DE SAÚDE. REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA. CONSUMIDOR QUE PRETENDE A NULIDADE DA CLÁUSULA QUE ESTIPULA PERCENTUAL DE REAJUSTE DE 72,04% AO COMPLETAR O BENEFICIÁRIO 59 ANOS DE IDADE. HIPÓTESE EM QUE O CONTRATO, FIRMADO APÓS A VIGÊNCIA DA RESOLUÇÃO NORMATIVA N. 63/2003 DA ANS,NÃO ATENDE AOS PARÂMETROS DE REAJUSTE FIXADOS POR TAL RESOLUÇÃO. CLÁUSULA QUE DEVE SER DECLARADA NULA. REAJUSTES POR FAIXA ETÁRIA QUE CONQUANTO VÁLIDOS, INCLUSIVE PARA BENEFICIÁRIOS IDOSOS, DEVEM ATER-SE AOS PARÂMETROS ESTIPULADOS PELA ANS, CONFORME ENTENDIMENTO CONSOLIDADO PELO STJ NO JULGAMENTO DO RECURSO ESPECIAL n.1.568.244. DEVOLUÇÃO DOS VALORES COBRADOS INDEVIDAMENTE, CONTUDO, QUE SE LIMITA AOS VALORES INDEVIDOS EVENTUALMENTE PAGOS APÓS O AJUIZAMENTO DA DEMANDA. PRESUNÇÃO DE CONCORDÂNCIA DO AUTOR COM OS VALORES ANTERIORES. INAPLICABILIDADE DA PENA DE DEVOLUÇÃO EM DOBRO, À AUSÊNCIA DE COMPROVADA MÁ-FÉ. EMBARGOS INFRINGENTES ACOLHIDOS.
+Opostos novos embargos de declaração pelo recorrente: foram rejeitados.
+Recurso especial: alega violação dos arts. 1046 do CPC, insurgindo-se contra a fixação dos honorários, pois aplicada a regulamentação do Código de Processo Civil de 1973, excluindo-se a majoração dos honorários recursais.
+Aponta dissídio quanto aos arts. 17 e 19 do CPC, sustentando a legitimidade ativa para pleitear a nulidade dos reajustes do titular e de seus dependentes.
+Aduz interpretação divergente dos aos arts. 182, 876 e 884 do CC, a respeito da limitação da repetição de indébito dos valores pagos a maior pelo reconhecimento da abusividade dos reajustes ao período posterior ao ajuizamento da ação, conquanto o decidido no julgamento do recurso repetitivo REsp 1.360.969/RS limita a restituição aos três anos anteriores ao ajuizamento da ação, apontando que o reconhecimento da nulidade do negócio jurídico deveria restituir as partes ao estado anterior.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da legitimidade ativa
+A inicial da ação declaratória (fls. 1/16, e-STJ), complementada pela emenda (fls. 120/123, e-STJ) esclarece que a insurgência refere-se à alegada abusividade do reajuste por idade efetuado no contrato do titular, ora recorrente, no ano de 2010 e dos reajustes anuais nos anos de 2011 e 2013.
+No julgamento dos embargos de declaração opostos ao acórdão que julgou os embargos infringentes, reformando o acórdão que declarou lícito o reajuste por idade aplicado no contrato do recorrente, decidiu-se que o afastamento do reajuste abusivo deveria referir-se tão somente ao seu plano de saúde, devendo eventuais reajustes abusivos incidentes sobre as mensalidades de seus dependentes, serem discutidos em demanda própria.
+Verifica-se, assim, que, da perfunctória análise das premissas fáticas dos autos, não foi objeto da ação a declaração de eventuais abusividades incidentes sobre a mensalidade do plano de saúde dos dependentes do recorrente, de modo que tais demandas configuram-se como inovação recursal.
+Não merece reforma o acórdão, portanto.
+- Da prescrição. Súmula 568/STJ
+Sendo o caso presente de declaração de nulidade de cláusula de contrato de plano de saúde por abusividade, a Segunda Seção desta Corte, concluindo o julgamento de recursos especiais repetitivos, REsps nºs 1.361.182/RS e 1.360.969/RS, assentou os entendimentos de que: (i) Nas relações jurídicas de trato sucessivo, quando não estiver sendo negado o próprio fundo de direito, pode o contratante, durante a vigência do contrato, a qualquer tempo, requerer a revisão de cláusula contratual que considere abusiva ou ilegal, seja com base em nulidade absoluta ou relativa. Porém, sua pretensão condenatória de repetição do indébito terá que se sujeitar à prescrição das parcelas vencidas no período anterior à data da propositura da ação, conforme o prazo prescricional aplicável; (ii) A pretensão de repetição do indébito somente se refere às prestações pagas a maior no período de três anos compreendidos no interregno anterior à data do ajuizamento da ação (art. 206, § 3º, IV, do CC/2002; art. 219, caput e § 1º, CPC/1973; art. 240, § 1º, do CPC/2015).
+Dessa forma, o TJ/SP, ao decidir que a parte ora recorrente somente poderia pleitear a devolução de valores pagos indevidamente a partir da data do ajuizamento, destoou do entendimento jurisprudencial deste Superior Tribunal de Justiça.
+Merece reforma, portanto, o julgado para aplicar-se o prazo prescricional trienal para o pleito de reembolso de valores pagos a maior, nos termos da Súmula 568/STJ.
+- Dos honorários recursais. Súmula 568/STJ
+Conforme se depreende do Enunciado Administrativo nº 07/STJ, os recursos interpostos na vigência do Código de Processo Civil de 2015 serão passíveis de majoração dos honorários, em atenção ao seu art. 85, § 11.
+Ademais, cumpre destacar que o marco temporal para a majoração dos honorários recursais é o da publicação da decisão atacada.
+Na hipótese dos autos, a sentença foi publicada em 14.02.2014, sendo, portanto, indevida a majoração dos honorários em razão da sucumbência recursal.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para fixar a prescrição aos 03 (três) anos anteriores ao ajuizamento da ação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO. PLANO DE SAÚDE COLETIVO. REAJUSTE POR IDADE. LEGITIMIDADE ATIVA. TITULAR. PRESCRIÇÃO TRIENAL. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. Ação declaratória c/c repetição de indébito.
+2. A alegação de abusividade não realizada na inicial da lide não pode ser objeto de recurso por se tratar de vedada inovação recursal.
+3. Nas relações jurídicas de trato sucessivo, quando não estiver sendo negado o próprio fundo de direito, pode o contratante, durante a vigência do contrato, a qualquer tempo, requerer a revisão de cláusula contratual que considere abusiva ou ilegal, seja com base em nulidade absoluta ou relativa. Porém, sua pretensão condenatória de repetição do indébito terá que se sujeitar à prescrição das parcelas vencidas no período anterior à data da propositura da ação, conforme o prazo prescricional aplicável.
+4. A pretensão de repetição do indébito somente se refere às prestações pagas a maior no período de três anos compreendidos no interregno anterior à data do ajuizamento da ação (art. 206, § 3º, IV, do CC/2002; art. 219, caput e § 1º, CPC/1973; art. 240, § 1º, do CPC/2015). Precedentes.
+5. Somente é possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015 nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016.
+6. Recurso especial parcialmente provido.
