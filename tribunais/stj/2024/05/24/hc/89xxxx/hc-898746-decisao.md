@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JÉSUS MARÇAL DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0710.08.018348-0/002.
+Consta nos autos que o paciente e outros acusados foram denunciados pela prática dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006; art. 330 do Código Penal e art. 34 da Lei de Contravenções Penais.
+No primeiro grau de jurisdição, foi reconhecida a prescrição da pretensão punitiva quanto ao crime do art. 330 do Código Penal e à contravenção penal do art. 34 da Lei de Contravenções Penais. Reconheceu-se a ausência de materialidade quanto ao crime do art. 33, caput, da Lei n. 11.343/2006. E o Acusado foi condenado como incurso no art. 35 da Lei de Drogas à pena de 3 anos de reclusão, em regime inicial semiaberto, além do pagamento de 700 dias-multa, com a substituição da pena privativa de liberdade por restritivas de direitos, e a declaração da prescrição da pretensão punitiva quanto ao referido crime.
+A apelação interposta pelo Ministério Público foi provida, com a condenação do paciente pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, no regime inicial semiaberto, mais o pagamento de 500 dias-multa.
+Neste habeas corpus, alega o impetrante ofensa ao enunciado da Súmula Vinculante n. 56, pois o local de cumprimento de pena do paciente não possui estabelecimento prisional adequado ao regime semiaberto. Aponta que o "paciente está totalmente integrado e ressocializado na vida em sociedade, não se fazendo proporcional, nem razoável que lhe seja expedido mandado de prisão para dar início ao cumprimento de uma pena que foi fixada no regime semiaberto e que o paciente tem intenção de cumpri-la voluntariamente" (fl. 8).
+Requer, em liminar e no mérito, a concessão da ordem para "que o paciente possa permanecer em liberdade, garantindo o cumprimento da pena fixada em regime semiaberto, em prisão domiciliar ou em regime menos gravoso ante a ausência de estabelecimento próprio, a orientação do CNJ e a ressocialização do paciente" (fl. 11).
+O pedido liminar foi indeferido. As informações foram prestadas. O Ministério Público Federal opinou pela prejudicialidade do habeas corpus.
+Consoante informações prestadas à fl. 176, constata-se que " ..  como o paciente demonstrou possuir emprego fixo nesta comarca de Vazante/MG e ainda comprovou estar integrado e ressocializado, no dia 12/03/2024 foi proferido despacho por este juízo determinando a expedição de guia de execução definitiva, independentemente da expedição de mandado de prisão".
+Assim, em razão da superveniente decisão do juízo de primeiro grau, constata-se a perda do objeto do presente writ.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
