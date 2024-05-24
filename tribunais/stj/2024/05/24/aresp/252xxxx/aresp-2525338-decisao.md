@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"RECURSO DE APELAÇÃO. ASSISTÊNCIA JUDICIÁRIA. CONTRATO DE REPRESENTAÇÃO COMERCIAL. RESCISÃO SEM JUSTA CAUSA. AUSÊNCIA DE AVISO PRÉVIO. INDENIZAÇÃO DEVIDA. DANO MORAL NÃO CONFIGURADO. 1 - Comprovada a falta de condições de arcar com os custos do processo, pois demonstrada a baixa no CNPJ da empresa e a insuficiente rentabilidade do sócio que se encontra, inclusive, com o nome negativado nos órgãos de proteção ao crédito, deve ser mantida a assistência judiciária deferida em primeira instância. 2 - Não havendo justa causa para a rescisão do contrato de representação comercial, ocorrendo esta sem aviso prévio, são devidas as indenizações previstas na Lei 4.886/65. 3 - Não demonstrada ofensa à honra objetiva, a qual implica em abalo à reputação e credibilidade da pessoa jurídica, não há que se falar em indenização por danos morais. APELO E RECURSO ADESIVO CONHECIDOS E DESPROVIDOS"
+Opostos embargos de declaração, foram rejeitados.
+Em seu recurso especial, a agravante alega violação aos arts. 35, alíneas a e c, da Lei 4.886/65, sustentando que o descumprimento do contrato deu-se em razão de justa causa, ante a retenção indevida de parcelas devidas.
+C  ontrarrazões às fls. 1.926/1.952 e-STJ.
+Juízo de admissibilidade proferido às fls. 1.955/1.957 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao apreciar a controvérsia, concluiu expressamente pela ausência de justa causa para a rescisão do contrato de representação comercial , ocorrendo esta sem aviso prévio. Vejamos:
+"No presente caso não se configura qualquer das hipóteses legais, não havendo evidências que a rescisão contratual ocorreu por justa causa, cabendo a incidência da indenização prevista no artigo 27, "j" da Lei 4.886/65 e o aviso prévio fixado no artigo 42 do mesmo dispositivo legal.
+Veja-se que o apelante pretende a reforma desse ponto da decisão apontando equívoco na valoração do depoimento de Alfredo Fardin, alegando que o mesmo foi ouvido como testemunha.
+Porém, resta claro que o Sr. Alfredo Fardin foi ouvido na audiência sem prestar o compromisso legal, isso pelo fato de ser funcionário da apelante, estando a ela subordinado. Nesse caso, cabe ao juiz atribuir ao depoimento o valor que possa merecer, nos termos do artigo 447, § 5º do Código de Processo Civil.
+Não se pode deixar de frisar que apenas o mencionado depoimento não tem o poder de atribuir a justa causa à rescisão do contrato, sendo que os demais elementos dos autos demonstram que foi o pacto foi rescindido sem justa causa e sem prévio aviso, sendo devidas as indenizações pleiteadas.
+É cediço que no ordenamento processual vigente prevalece a regra de distribuição do ônus da prova, impondo-se ao autor demonstrar os fatos constitutivos do direito vindicado, enquanto ao réu cabe arguir as exceções substanciais diretas (quando nega a existência dos fatos constitutivos do direito do autor) ou a exceções substanciais indiretas (quando apresenta fato extintivo, modificativo ou impeditivo do direito do autor), de modo a viabilizar o exercício do livre convencimento do julgador.
+Tal distribuição do ônus da prova decorre da lei (artigo 373 do Código de Processo Civil), sendo prescindível que o juiz o fixe expressamente.
+No que se refere às diferenças dos valores das comissões, verifica-se que o contrato possui cláusula determinando que as comissões seriam pagas conforme negociação efetuada na ocasião da venda e segundo norma estabelecida por circular vigente à época.
+O autor apresentou relatórios das vendas realizadas, apontando especificamente as diferenças de comissões devidas.
+Pelo depoimento das testemunhas ficou evidenciado que essas comissões poderiam sofrer variações, porém não ficou demonstrado justificativa para a concreta variação do percentual dessas comissões.
+O apelado apresentou planilhas demonstrando as diferenças alegadas, não se desincumbindo o apelante do ônus de comprovar fato modificativo do direito do autor, cabendo a manutenção da sentença também nesse sentido"
+Verifica-se, portanto, que a pretensão de alteração da conclusão adotada no acórdão recorrido esbarra no óbice da Súmula 7/STJ, por demandar, necessariamente, o reexame do contexto fático-probatório dos autos.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
