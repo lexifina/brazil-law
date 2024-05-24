@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO FEDERAL DA 1ª VARA CRIMINAL DE VITÓRIA - SJ/ES, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE RIBEIRÃO PRETO DAS NEVES - MG, suscitado.
+O Juízo de Direito da 2ª Vara Criminal de Ribeirão Preto das Neves - MG, na ação penal n. 5023070-29.2022.4.02.5001/ES, devolveu carta precatória de oitiva de testemunha à Vara de origem, ao argumento de que o ato poderia ser realizado pelo juízo deprecante por meio do sistema de videoconferência (fls. 40-41).
+O Juízo Federal da 1ª Vara Criminal de Vitória - SJ/ES, por sua vez, suscitou conflito de competência. Sustentou, em síntese, que a justificativa apresentada pelo juízo suscitado para negar cumprimento a carta precatória não está entre as hipóteses previstas no art. 267 do Código de Processo Civil (fls. 44-45).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da 2ª Vara Criminal de Ribeirão Preto das Neves - MG, ora suscitado (fls. 724-728).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Segundo o art. 267 do Código de Processo Civil, o juiz recusará cumprimento a carta precatória ou arbitral, mediante decisão fundamentada, quando: a) a carta não estiver revestida dos requisitos legais; b) faltar ao juiz competência em razão da matéria ou da hierarquia; c) o magistrado tiver dúvida acerca da sua autenticidade.
+No caso dos autos, o juízo suscitado devolveu carta precatória destinada a inquirição de uma testemunha, com o fundamento de que o ato poderia ser realizado virtualmente, por meio do sistema de videoconferência.
+Tal justificativa, entretanto, não se enquadra entre as hipóteses legais em que autorizada a recusa ao cumprimento da carta. Ademais, conforme entendimento do Superior Tribunal de Justiça, embora a videoconferência viabilize prestação jurisdicional mais célere e seja recomendada pelo Conselho Nacional de Justiça, não pode ser imposta pelo juízo deprecado, porque consiste em faculdade do juiz da causa. Veja-se:
+"A videoconferência - não obstante seja medida que visa agilizar a prestação jurisdicional, recomendada pelo Conselho Nacional de Justiça e pelo Conselho da Justiça Federal - é faculdade conferida ao Juízo da causa, não podendo o Juízo deprecado determinar modalidade de oitiva diversa daquela que lhe foi deprecada (CC 145.457/PA, de minha relatoria, TERCEIRA SEÇÃO, DJe 16/10/2017)." (CC n. 170.751/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 1/6/2020)
+"I - O art. 267 do CPC/2015 possui rol taxativo de recusa para o cumprimento de carta precatória.
+II - A prática de atos processuais por videoconferência é uma faculdade do juízo deprecante, não competindo ao juízo deprecado a determinação de forma diversa da realização de audiência.  .. " (CC n. 196.661/SP, Primeira Seção, Rel. Min. Francisco Falcão, DJe de 13/11/2023)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Ribeirão Preto das Neves - MG, ora suscitado, para dar cumprimento à carta precatória expedida pelo juízo suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. DEVOLUÇÃO DE CARTA PRECATÓRIA. VIDEOCONFERÊNCIA DETERMINADA PELO JUÍZO DEPRECADO. IMPOSSIBILIDADE. RECUSA NÃO AUTORIZADA EM LEI.
