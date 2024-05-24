@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por INTERLAGOS AGROPECUÁRIA E COMÉRCIO LTDA. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fls. 715/717):
+APELAÇÃO CÍVEL. ADJUDICAÇÃO COMPULSÓRIA. CONDOMÍNIO BELVEDERE GREEN. PROMESSA DE COMPRA E VENDA. CESSÃO DE DIREITOS. REQUISITOS. OBSERVÂNCIA. IMPOSIÇÃO DE CONDIÇÃO. PAGAMENTO PRÉVIO DE CUSTOS DE REGULARIZAÇÃO. AUSÊNCIA DE PREVISÃO LEGAL OU CONTRATUAL. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO.
+1. Em promessa de compra e venda de unidade imobiliária em condomínio irregular, uma vez regularizado o loteamento, os requisitos e despesas necessários para a obtenção da escritura pública de compra e venda não se confundem com os requisitos e despesas para regularização do empreendimento.
+2. No caso concreto, a promitente vendedora comprometeu-se a outorgar a escritura após a quitação do preço do imóvel e a regularização do loteamento, que permitiria a individualização da matrícula imobiliária. Não restou estabelecido que a outorga da escritura estaria condicionada ao pagamento prévio, pelos compradores, dos custos da regularização.
+3. Não pode a empreendedora - que figura como proprietária registral do imóvel, e que cedeu seus direitos e obrigações aos adquirentes previstos nos contratos -, condicionar a outorga da escritura pública a condição suspensiva não prevista nos contratos validamente celebrados nem na legislação.
+4. Não se discute que a regularização do condomínio implica custos elevados, e devem ser ressarcidos em favor de quem os assumiu. Todavia, eventual direito ao ressarcimento dos custos de regularização é independente da obrigação de outorga de escritura pública para cada unidade imobiliária, devendo ser exigido, se o caso, na via adequada, contra quem efetivamente tiver a obrigação de ressarcir.
+5. Se a matrícula do imóvel objeto da lide já foi individualizada no registro imobiliário, conclui-se que, uma vez quitado o preço do lote, assiste ao adquirente o direito à escritura de compra e venda hábil a ser levada a registro.
+6. Conforme restou definido pelo STF em recurso extraordinário julgado com repercussão geral (Tema 1.124), a exigência do ITBI somente ocorre em momento posterior, após a transferência da propriedade.
+7. Ante a comprovação, pelos compradores, do preenchimento dos requisitos legais e contratuais para obtenção da escritura pública, e havendo recusa da proprietária registral, a procedência do pedido de adjudicação compulsória é medida que se impõe.
+8. A lei processual civil elencou, nessa ordem, o valor da condenação, o valor do proveito econômico e o valor da causa como bases de cálculo para fixação dos honorários de sucumbência. Em se tratando de ação de adjudicação compulsória julgada procedente, não há condenação, restando configurado, no entanto, que os autores obtiveram proveito econômico, consistente na desobrigação de pagar o valor exigido a título de custos de regularização como condição para outorga da escritura, devendo ser esta a base de cálculo dos honorários.
+9. Ante a comprovação do preenchimento dos requisitos legais e contratuais para tanto, a manutenção da sentença que condenou a empreendedora à outorga da escritura, sob pena de adjudicação compulsória, merece ser mantida incólume.
+10. Apelação conhecida e parcialmente provida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial adesivo, a recorrente aponta violação dos arts. 1.417 e 1.418, ambos do Código Civil, sustentando que não estão presentes os requisitos para o provimento do pedido de adjudicação compulsória do imóvel.
+Alega que, no caso em análise, há total descompasso entre a via eleita (adjudicação compulsória) e o objetivo buscado, tal seja, a declaração de invalidade da cobrança do valor de R$ 11.900,00 (onze mil novecentos reais).
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da prejudicialidade, nos termos do art. 997, § 2º, III, do CPC/2015.
+Neste agravo, a agravante afirma a necessidade de julgamento do recurso especial ante a ausência de debate sobre a efetiva propriedade dos imóveis, mas, sim, sobre a possibilidade de se condicionar a outorga da escritura ao pagamento das adequações ambientais realizadas.
+Aduz que o objeto da adjudicação compulsória é restrito, nos termos dos arts. 1.417 e 1.418 do Código Civil.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+A recorrente aponta violação dos arts. 1.417 e 1.418, ambos do Código Civil, sustentando que não estão presentes os requisitos para o provimento do pedido de adjudicação compulsória do imóvel.
+Os artigos citados dispõem:
+Art. 1.417. Mediante promessa de compra e venda, em que se não pactuou arrependimento, celebrada por instrumento público ou particular, e registrada no Cartório de Registro de Imóveis, adquire o promitente comprador direito real à aquisição do imóvel.
+Art. 1.418. O promitente comprador, titular de direito real, pode exigir do promitente vendedor, ou de terceiros, a quem os direitos deste forem cedidos, a outorga da escritura definitiva de compra e venda, conforme o disposto no instrumento preliminar; e, se houver recusa, requerer ao juiz a adjudicação do imóvel.
+Da acurada análise do acórdão proferido pelo Tribunal de origem, verifico que foi consignado que (i) as condições para outorga da escritura pública foram o pagamento dos encargos cartorários, a quitação do preço e a regularização do imóvel; (ii) não foi estabelecido que a outorga da escritura estaria condicionada ao pagamento dos custos da regularização; e (iii) a matrícula do imóvel objeto da lide já foi individualizada no registro imobiliário, de forma que, uma vez quitado o preço do lote, assiste ao adquirente o direito à escritura de compra e venda hábil a ser levada a registro. Confira-se:
+Como se pode verificar do primeiro instrumento contratual juntado aos autos, celebrado entre a ré INTERLAGOS e terceiro adquirente, as condições para outorga da escritura pública foram o pagamento dos encargos cartorários para tal, a quitação do preço e a regularização do imóvel, que permitiria a individualização da matrícula imobiliária, o que já ocorreu, conforme se verificado registro imobiliário de ID40201438 - p. 7.
+Não restou estabelecido que a outorga da escritura estaria condicionada ao pagamento dos custos da regularização.
+Ficou avençado, ainda, que a promitente vendedora, ora apelante, se obrigou a outorgar a escritura pública definitiva a quem os adquirentes transferissem seus direitos.
+ ..
+Consta em tal instrumento que os compradores, ora autores, se obrigaram ao pagamento do preço do imóvel, não havendo qualquer disposição acerca de pagamento de custos de regularização.
+Como se observa, os requisitos previstos nos instrumentos particulares para obtenção da escritura pública de compra e venda foram o pagamento do preço e a ocorrência da regularização, além dos encargos cartorários, que naturalmente são exigidos dos compradores.
+ ..
+Com efeito, a matrícula do imóvel objeto da lide já foi individualizada no registro imobiliário, de forma que, uma vez quitado o preço do lote, assiste ao adquirente o direito à escritura de compra e venda hábil a ser levada a registro  ..  (fls. 719/724).
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pelo cumprimento dos requisitos para a adjudicação compulsória, tais sejam , pagamento dos encargos cartorários, a quitação do preço e a regularização do imóvel, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos e do contrato firmado entre as partes, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
