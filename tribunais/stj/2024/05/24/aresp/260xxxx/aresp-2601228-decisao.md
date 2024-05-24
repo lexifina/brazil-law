@@ -1,0 +1,53 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FUNDAÇÃO CHESF DE ASSISTÊNCIA E SEGURIDADE SOCIAL - FACHESF, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/12/2022.
+Concluso ao gabinete em: 3/5/2024.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por MARIA DAS DORES OLIVEIRA SANTOS em face da agravante, em virtude da negativa de cobertura de internação domiciliar (home care).
+Sentença: julgou parcialmente procedentes os pedidos iniciais para determinar à ré o custeio integral do Tratamento de Assistência Domiciliar, na modalidade internação domiciliar, da autora, nos moldes prescritos pelo médico assistente, qual seja, acompanhamento de enfermagem pelo período integral de 24h (vinte e quatro horas), sem prejuízo da atuação da equipe multidisciplinar correspondente à hipótese.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR. HOME CARE. ALTA COMPLEXIDADE. NEGATIVA DE COBERTURA. ABUSIVIDADE. PRESCRIÇÃO MÉDICA. DANOS MORAIS. CONFIGURADOS. RAZOABILIDADE E PROPORCIONALIDADE. HONORÁRIOS RECURSAIS. RECURSO IMPROVIDO. À UNANIMIDADE.
+- Negativa de cobertura securitária, pela Apelante, de tratamento domiciliar, com enfermagem por 24 horas, requisitado por profissional médico, em tratamento a Acidente Vascular Cerebral Isquêmico de grande monta que acometeu a segurada Apelada, com risco eminente de broncoaspiração, asfixia e hipóxia, o qual seria importante para acompanhamento e monitoração da paciente e a manutenção da vida da segurada.
+- Todo o tratamento solicitado se revelou como medida para tratar a saúde da segurada Apelada, que apresenta um quadro clínico bastante grave, com incapacidade para se locomover, falar e deglutir, completamente dependente de terceiros para realização de seus cuidados básicos, necessitando de cuidados de enfermagem contínuos, com indicação de home care, com assistência de 24 horas, conforme consignado pelo médico que assistiu a paciente.
+- Abusiva a conduta da Apelada ao tentar se eximir da responsabilidade de cobrir despesas com o internamento domiciliar na forma requerida, estritamente imprescindível aos cuidados com a saúde da segurada, de acordo com prescrição médica.
+- Não pode a seguradora dispor a respeito de qual seria a melhor forma de prestar seus serviços, eis que o único profissional capaz de prescrever o que seria necessário no cuidado da saúde da segurada e o modo da prestação do serviço é o médico.
+- A admissão no serviço de atendimento domiciliar se faz mediante prescrição do médico assistente e não pela seguradora, apenas devendo ser encerrado quando houver internamento hospitalar, alcance da estabilidade clínica, cura, óbito ou a pedido do paciente ou responsável, situações que não ocorreram no caso em pauta
+- Da mesma forma, a prescrição de média para alta complexidade deve ser avaliada pelo profissional médico que assiste o paciente e não pela seguradora.
+- Dano moral configurado, decorrentes do descumprimento de obrigação, haja vista que não prestou o atendimento na forma requerida pela segurada e sua médica, e da quebra de confiança da cliente na empresa contratada.- Os danos não decorrem simplesmente do inadimplemento contratual, mas da própria situação de abalo psicológico em que se encontra a doente ao ter negada a cobertura contratada.
+- Verba indenizatória que atende aos princípios da razoabilidade e da proporcionalidade.- Percentual dos honorários majorados para 15% (quinze porcento) sobre o valor da condenação, com fulcro nos honorários recursais previstos no Art. 85, §11, do Novo CPC.
+- Improvimento do apelo salvo quanto aos honorários advocatícios, os quais devem ser majorados para o percentual de 15% sobre o valor da condenação, com fulcro no Art. 85, §11,do Novo CPC. À Unanimidade.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: aponta violação aos arts. 10, VI e § 4º, 12 e 24 da Lei 9.656/98; 373, I, do CPC; e Resolução Normativa ANS nº 428/2017, bem como dissídio jurisprudencial.
+Afirma que "não há obrigatoriedade de cobertura do home care, de modo que ele é uma alternativa ao internamento hospitalar e pode ser coberto pela operadora, de modo facultativo"; e que "há a faculdade de custeio pela operadora do home care, assim como a exclusão expressa dos medicamentos e matérias prescritos para tratamento domiciliar, pois são de responsabilidade exclusiva da família, principalmente no que tange à higiene pessoal da paciente no ambiente domiciliar" (e-STJ fls. 342/343).
+Sustenta a impossibilidade de "ajuizamento da presente ação sem a comprovação de que o paciente obteve pontuação suficiente (segundo a tabela da ABEMID) para a autorização do home care em regime de alta complexidade (com 24 horas de enfermagem por dia) (..)" (e-STJ fls. 346/347).
+Alega a ausência de obrigatoriedade de cobertura de procedimento que não conste no rol da ANS.
+Aduz que inexiste conduta ilícita, pois a recusa seria justificável, pleiteando o afastamento da condenação em danos morais.
+Por fim, assevera que ao ser compelida a custear tratamento não previsto pelas regras de cobertura da ANS, "há então um total desequilíbrio entre as mensalidades cobradas e o raio de cobertura previsto, ocasionando na sequência, um desarranjo econômico na referida operadora" (e-STJ fl. 349).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal
+A agravante aponta suposta violação à Resolução Normativa ANS nº 428/2017.
+Entretanto, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+Nesse sentido: EDcl no REsp 1.726.563/SP, Segunda Seção, DJe 27/9/2019; REsp 1.979.120/SP, 3ª Turma, DJe 13/5/2022; AgInt no REsp 1.232.631/RJ, 4ª Turma, DJe 24/6/2022; AgInt no REsp 1.878.129/RS, 4ª Turma, DJe 8/4/2022.
+Logo, quanto ao ponto, o recurso não merece ser admitido.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 24 da Lei 9.656/98 e 373, I, do CPC, indicados como violados, apesar da oposição de embargos de declaração, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+- Da fundamentação deficiente
+Ademais, no que se refere à alegação acerca da inexistência de conduta ilícita, para fins de afastamento da condenação em danos morais, constata-se, da leitura das razões do recurso especial, que a agravante deixou de indicar em seu recurso especial os dispositivos de lei que teriam sido violados pelo aresto recorrido, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284/STF.
+- Da obrigação de a operadora custear o tratamento domiciliar
+Esta Corte Superior de Justiça tem entendido que a internação domiciliar, quando em substituição à hospitalar, deve ser coberta, independentemente da discussão a respeito da natureza do rol da ANS, sob pena de configuração de abusividade.
+É esta a interpretação dada pela jurisprudência desta Corte Superior de Justiça que firmou o entendimento de que "o serviço de home care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde e ainda que, na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor" (REsp 1.378.707/RJ, Terceira Turma, DJe 15/6/2015). Nesse mesmo sentido: AgInt no AREsp 2.056.204/RJ, Quarta Turma, DJe 30/6/2022, AgInt no AREsp 1.959.315/RN, Quarta Turma, DJe 11/5/2022 e AgInt nos EDcl no REsp 1.963.420/SP, Terceira Turma, DJe 21/2/2022.
+Ressalte-se que, nos termos das Resoluções Normativas da ANS 428/2017 e 465/2021, em caso de internação domiciliar deve-se obedecer às exigências previstas nas alíneas "c", "d", "e" e "g" do inciso II do art. 12 da Lei 9.656/1998.
+Assim, quanto ao ponto, não merece reparos o acórdão recorrido, nos termos da Súmula 568/STJ.
+- Da divergência jurisprudencial
+Em virtude do exame do mérito, por meio do qual foi rejeitada a tese da recorrente, fica prejudicada a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.210.915/PR, Segunda Turma, DJe 4/4/2023; AgInt no REsp 2.025.840/AL, Segunda Turma, DJe 4/4/2023; AgInt no REsp 2.006.801/MG, Primeira Turma, DJe 11/4/2023; e REsp 1.840.515/CE, Terceira Turma, DJe 1º/12/2020.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE SÚMULA, DE DISPOSITIVO CONSTITUCIONAL OU DE QUALQUER ATO NORMATIVO QUE NÃO SE ENQUADRE NO CONCEITO DE LEI FEDERAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR. HOME CARE. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. De acordo com a jurisprudência desta Corte, reputa-se abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
