@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração em habeas corpus opostos por Caio Teixeira à decisão de minha relatoria, que denegou a ordem de habeas corpus. A decisão recebeu ementa no seguinte teor (fl. 116):
+HABEAS CORPUS. TRÁFICO DE DROGAS. 10.800 G DE MACONHA, 11.300 G DE MACONHA, 11.000 G DE MACONHA, 11.700 G DE MACONHA, 7.540 G DE MACONHA, 8.500 G DE MACONHA E 472,3 G DE HAXIXE. ALEGAÇÃO DE NULIDADE, POR REVISTA PESSOAL E BUSCA VEICULAR. INGRESSO EM DOMICÍLIO, SEM MANDADO JUDICIAL. CONTEXTO FÁTICO QU E JUSTIFICA AS DILIGÊNCIAS E A ENTRADA EM DOMICÍLIO. JUSTA CAUSA.
+Ordem denegada.
+O embarg ante aponta omissão na decisão, por não ter analisado o fato de o paciente ser primário, ter bons antecedentes, trabalho lícito e residência fixa. Sustenta ser desnecessária a prisão preventiva, podendo ser substituída por medidas alternativas.
+Requer, diante disso, seja sanada a omissão.
+É o relatório.
+Razão assiste à defesa quanto à apontada omissão na decisão, pois foi feito o mencionado pedido de revogação da prisão também no habeas corpus.
+A decisão que indeferiu o pedido de revogação da prisão trouxe os seguintes fundamentos (fls. 46):
+Em que pese a primariedade do autuado, em seu poder teriam sido encontrados mais de 60 quilos de entorpecente, a indicar intimidade com o tráfico e que faz dele seu meio de vida. Ademais, o próprio autuado teria revelado atuar junto com seu primo, preso recentemente. Desse modo, vislumbra-se periculosidade do agente, tornando a prisão cautelar o único meio capaz de acautelar a ordem pública, ante o risco concreto de reiteração da conduta criminosa.
+Como explicita Renato Brasileiro de Lima "no caso de prisão preventiva com base na garantia da ordem pública, faz-se um juízo de periculosidade do agente (e não de culpabilidade), que, em caso positivo demonstra a necessidade de sua retirada cautelar do convívio social."(Código de Processo Penal Comentado, 4.ª edição, Editora Juspodivm, Bahia, 2019, p. 890).
+Anoto que eventuais condições subjetivas favoráveis, tais como ocupação lícita e residência fixa, não obstam a segregação cautelar quando presente seus requisitos, como no caso.
+Não há o que ser alterado, pois comprovada no caso a necessidade de segregação cautelar, tanto pela imensa quantidade de drogas, acima de 60 kg, como o fato de o paciente ter demonstrado intimidade com o tráfico e que faz dele seu meio de vida (fl. 46). A propósito:
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. ASSOCIAÇÃO COM GRANDE ESTRUTURA VOLTADA PARA A PRÁTICA DE DELITOS GRAVÍSSIMOS. ATUANTE NA REGIÃO DE FRONTEIRA. QUANTIDADE DE DROGAS APREENDIDAS (MAIS DE UMA TONELADA). PRISÃO PREVENTIVA. NECESSIDADE DA INTERFERÊNCIA ESTATAL. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE ANÁLISE PELA VIA ESTREITA DO HABEAS CORPUS. PACIENTE PRIMÁRIO. NÃO IMPEDITIVO DE PRISÃO CAUTELAR. PROTEÇÃO DA ORDEM PÚBLICA. WRIT NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A prisão foi justificada em razão da necessidade de se garantir a ordem pública, mormente devido à gravidade concreta da conduta e risco de reiteração - o paciente integra associação para o tráfico com forte atuação em região de fronteira, a qual foi atribuída a propriedade de mais de uma tonelada de entorpecente apreendidos, além de utilizarem para a empreitada delitiva veículos produtos de crime com sinais adulterados, a indicar a habitualidade e dedicação com a prática da traficância, fazendo do ilícito seu meio de vida.
+3. É inviável a análise, no âmbito restrito do habeas corpus, de teses que, por sua própria natureza, demandam dilação probatória. As provas dos autos devem ser apreciadas durante a instrução criminal, sob o crivo do contraditório, não sendo esta a via adequada para a sua revisão. Precedentes.
+4. Condições subjetivas favoráveis ao paciente, como ser tecnicamente primário e possuir residência fixa, não são impeditivas da sua prisão cautelar, caso estejam presentes outros requisitos de ordem objetiva ou subjetiva que autorizem a decretação do cárcere .
+5. Habeas corpus não conhecido.
+(HC 455174 / MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/09/2018).
+Ante o exposto, conheço dos embargos para sanar a omissão apontada, porém os rejeito, mantendo a decisão embargada.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. 10.800 G DE MACONHA, 11.300 G DE MACONHA, 11.000 G DE MACONHA, 11.700 G DE MACONHA, 7.540 G DE MACONHA, 8.500 G DE MACONHA E 472,3 G DE HAXIXE. APONTAMENTO DE OMISSÃO QUANTO AO PEDIDO DE REVOGAÇÃO DE PRISÃO. PACIENTE PRIMÁRIO, SEM ANTECEDENTES E COM RESIDÊNCIA FIXA E TRABALHO LÍCITO. MANTIDA A SEGREGAÇÃO POR OUTROS FUNDAMENTOS DEVIDAMENTE TRAZIDOS PELA INSTÂNCIA ORDINÁRIA.
+Embargos de declaração conhecidos para sanar a omissão, porém, rejeitados.
