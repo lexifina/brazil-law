@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELISANDRO DA SILVA TAVARES apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (APC n. 5000442-78.2018.8.21.0036/RS).
+Consta dos autos que o paciente foi condenado como incurso no art. 14, caput, da Lei n. 10.826/03, à pena de 2 anos e 5 meses de reclusão, regime aberto, e 10 dias-multa. Irresignados, acusação e defesa interpuseram apelação, tendo o Tribunal de origem negado provimento ao recurso da defesa e dado provimento ao da acusação, condenando o réu como incurso nas penas do art. 16, § 1º, inciso IV, da Lei n. 10.826/03, à pena de 4 anos e 6 meses de reclusão, em regime fechado, e 20 dias-multa (e-STJ fls. 20/29).
+No presente mandamus, a defesa aduz, em síntese, que o paciente foi condenado com base em testemunho indireto. Nesse sentido, salienta que a testemunha Itamir não foi ouvida em juízo, não obstante a condenação se baseia nas palavras exclusivas dos policiais que teriam ouvido de Itamir Tavares que as armas pertenciam a Elisandro, ou seja, de que ele seria o Autor do delito (e-STJ fl. 8).
+Afirma que, afastando-se referida prova testemunhal, nada há a sustentar a autoria do delito pelo paciente, de modo que deve ser absolvido da prática delitiva que lhe foi imputada.
+Pugna, liminarmente e no mérito, pela decretação da nulidade do acórdão que condenou o paciente, com sua consequente absolvição.
+É o relatório. Decido.
+A pretensão defensiva não merece prosperar.
+Verifica-se que a alegação da defesa relativa à condenação do paciente apenas com base em testemunho indireto não foi previamente submetida ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Da leitura do acórdão impugnado, constata-se, efetivamente, que a Corte local examinou o conjunto probatório e concluiu pela suficiência da prova produzida para fim de condenar o paciente, afirmando que a tese de insuficiência probatória com relação aos fatos é totalmente desarrazoada, não havendo que se falar em absolvição por insuficiência probatória (e-STJ fl. 23).
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
