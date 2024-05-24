@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AAP - ATLANTICO PRECATORIOS LTDA contra decisum singular que deu provimento ao recurso especial a fim de que fossem observados, sobre a aplicação do art. 1º-F da Lei 9.494/97, o entendimento consolidado no Recurso Especial Repetitivo 1.495.146/MG.
+Em suas razões, a parte embargante aduz omissão quanto ao item 4 do Tema 905/STJ.
+Por outro lado, alega contradição na r. decisão na parte em que remete à decisão proferida no RESP 1.112.746/DF (correção monetária e juros de mora são obrigações de trato sucessivo) e à decisão proferida no julgamento do RESP Repetitivo 1.495.146/MG (impõe observância à decisão com força de coisa julgada relativamente aos índices de atualização monetária e aos juros de mora).
+Adiante, alega que a decisão embargada incorreu em julgamento extra petita, pois o Estado requereu a reforma dos critérios de atualização após a Lei nº 11.960/2009 a partir de julho/2009.
+O prazo para apresentar impugnação transcorreu in albis (fl. 260).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que (fl. 238)
+No que diz respeito ao art. 1º-F da Lei n. 9.494/97, razão assiste à parte recorrente, pois "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicada no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/09/2015, D Je 25/09/2015).
+(..)
+Na esteira desse entendimento, a jurisprudência do Superior Tribunal de Justiça restou consolidada no julgamento do Recurso Especial Repetitivo 1.495.146/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 22/2/2018, DJe 2/3/2018, assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A INDÉBITO TRIBUTÁRIO. TESES JURÍDICAS FIXADAS.
+(..)
+4. Preservação da coisa julgada. Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto. SOLUÇÃO DO CASO CONCRETO.
+5. Em se tratando de dívida de natureza tributária, não é possível a incidência do art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009) - nem para atualização monetária nem para compensação da mora -, razão pela qual não se justifica a reforma do acórdão recorrido.6. Recurso especial não provido. Acórdão sujeito ao regime previsto no art. 1.036 e seguintes do CPC/2015, c/c o art. 256-N e seguintes do RISTJ.(R Esp 1.495.146/MG, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 02/03/2018)
+In casu, o título executivo judicial deverá observar a seguinte orientação:"As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E."
+Como se vê, a decisão embargada foi clara a respeito da aplicação do Tema 905/STJ, especialmente em relação item 4, que trata da coisa julgada.
+Ademais, observa-se que a fundamentação da decisão embargada guarda correspondência com a parte dispositiva, não havendo, assim, contradição a solver.
+Dessa forma, não há falar no vício do art. 1.022, I, do CPC no acórdão embargado, uma vez que não houve contradição interna no julgado, mas mero inconformismo da parte com o resultado do julgamento.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissãoou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentadano julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não seressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um porcento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro Og Fernandes, PrimeiraSeção, DJe 28/8/2018)
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios de omissão e contradição no julgado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no decisum embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. TEMA 1.115/STJ. EMBARGOS DE DECLARAÇÃO MANEJADOS PELO IBDP (AMICUS CURIAE). INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE AMPLIAÇÃO DA TESE FIXADA. IMPOSSIBILIDADE. REJEIÇÃO DOS ACLARATÓRIOS.
+1. Consigna-se, de início, que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no Código de Processo Civil - CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+3. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e obscuridade no julgado combatido, traduzem, na verdade, a pretensão de ampliação da tese delimitada ao ensejo da afetação da controvérsia ao rito dos recursos repetitivos. Portanto, não há falar em omissão ou obscuridade.
+5. Embargos de declaração do Instituto Brasileiro de Direito Previdenciário - IBDP rejeitados.
+(EDcl no REsp n. 1.947.404/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 19/12/2023, DJe de 6/2/2024.)
+Por fim, quanto ao argumento de julgamento extra petita, a parte embargante se utilizou indevidamente dos embargos de declaração, pois nesse aspecto a parte tão somente manifestou seu inconformismo com a fundamentação sem apontar qualquer dos vícios previstos no art. 1.022 do CPC.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+ EMENTA
