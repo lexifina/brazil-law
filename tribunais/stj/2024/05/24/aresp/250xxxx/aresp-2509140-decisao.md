@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco Pan S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 345):
+PROCESSO CIVIL. TRIBUTÁRIO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. MULTA DO PROCON. PRESUNÇÃO DE LIQUIDEZ E EXIGIBILIDADE DA CERTIDÃO DE DÍVIDA ATIVA . RECURSO REPETITIVO DO STJ. PROCESSO ADMINISTRATIVO DE CONSTITUIÇÃO DO DÉBITO REGULARMENTE DESENVOLVIDO. DESPROVIMENTO .
+1. A própria Certidão da Dívida Ativa, que embasa a execução, já discrimina a composição do débito, porquanto todos os elementos que compõem a dívida estão arrolados no título executivo - que goza de presunção de liquidez e certeza -, consoante dessume-se das normas emanadas dos §§ 5º e 6º, do art. 2º, da Lei nº 6830/80. (STJ, REsp 1138202/ES, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 09/12/2009, DJe 01/02/2010, RECURSO REPETITIVO )
+2. No caso em tela, o executado alega nulidade da decisão administrativa porque seria carente de fundamentação e contrária a entendimento jurisprudencial que atestaria a validade das cobranças efetuadas ao consumidor - fato constitutivo do alegado direito à desconstituição das CDA"s -, mas não cumpriu o ônus processual de comprovar o fato alegado, mediante a juntada de documentos e jurisprudência que embasem suas teses, fato que enseja o reconhecimento da improcedência de sua s alegações.
+3. No que pertine ao mérito do próprio processo administrativo que resultou na imposição da multa pelo PROCON, não se observa qualquer ilegalidade ou abusividade, tendo sido respeitados os princípios do contraditório e ampla defesa e aplicadas as normas consumeristas atinentes ao caso concreto, no qual restou comprovada a atuação indevida do banco no sentido de ferir direitos do consumidor que ofereceu a reclamação originária.
+4. Precedente desta Primeira Câmara Cível: (TJMA, Apelação Cível 0842280- 67.2018.8.10.0001. Primeira Câmara Cível, Relator: Des. Kleber Costa Carvalho. Julgado na Sessão Virtual de 17/09/2020 a 24/09/2020. DJe: 30/09/2020).
+5. Apelação desprovida
+Opostos embargos declaratórios, foram rejeitados (fls. 378/394).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos de lei:
+(I) art. 489, § 1º, e 1.022, II, do CPC, ao argumento de que o Tribunal de origem deixou de enfrentar todas as questões suscitadas pela ora agravante, especialmente, acerca "da legalidade da tarifa de cadastro; do mesmo modo, quanto à alegação de que houve adesão voluntária ao contrato de seguro pela parte consumidora; além de não ter sido analisado também as alegações acerca da dosimetria da pena." (fl. 398);
+(II) art. 6º, VIII, do CDC, porquanto não cabe, na hipótese, a inversão do ônus da prova para beneficiar o consumidor, a quem cabe comprovar os fatos alegados;
+e (III) arts. 25, III, e 26 do Decreto n. 2.181/97; e 57 do CDC, uma vez que o valor da sanção foi fixado em violação ao princípio da proporcionalidade, sem observância dos critérios legalmente previstos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração alega que o acórdão restou omisso quanto aos seguintes aspectos: legalidade da tarifa de cadastro, adesão voluntária do consumidor ao contrato de seguro e dosimetria da pena (fls. 364/371).
+Já no recurso especial, a ofensa aos arts, 489 e 1.022 foi assim apontada (fl. 405):
+29. Em resumo, ao deixar de cotejar as razões de fato e de direito de que se utilizou a autoridade administrativa para punir a instituição financeira, o TJMA findou por se omitir quanto a questão fundamental, qual seja: se a conduta ilícita supostamente praticada pelo recorrente se verifica no mundo fático, pois, caso negativa a resposta, a pena aplicada haverá de ser considerada totalmente injusta e arbitrária!
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
