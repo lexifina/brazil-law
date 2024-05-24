@@ -1,0 +1,14 @@
+DECISÃO
+ALEXANDRO DOS SANTOS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe no Agravo em Execução n. 202400316286.
+A defesa busca a concessão de indulto ao paciente, pois reputa preenchidos os requisitos exigidos pelo Decreto Presidencial n. 11.302/2022.
+Decido.
+Infere-se dos autos que o paciente cumpre pena privativa de liberdade de 17 anos e 11 meses de reclusão, em razão de condenações pela prática de delitos de furtos simples e qualificados, porte ilegal de arma de fogo de uso permitido e corrupção de menores.
+O Juízo da execução deferiu pedido de indulto formulado em favor do sentenciado em relação a condenações por porte ilegal de arma de fogo de uso permitido e por furto simples (duas).
+O Tribunal estadual cassou o decisum de origem. Na oportunidade, consignou que "o agravado não cumpriu as penas relativas aos seus crimes impeditivos, de forma que, possuindo pendência de cumprimento de pena de delito impeditivo, entendo ausente o requisito objetivo para concessão do Instituto, razão pela qual resta impossibilitado o deferimento da benesse" (fl. 99).
+Na hipótese, verifica-se que, mesmo que o reeducando possua condenações pela prática de delitos que, nos termos do art. 5º do Decreto n. 11.302/2022, poderiam, em tese, ser abrangidos pelo indulto, ainda está em cumprimento de pena por condenação oriunda de crime impeditivo, circunstância que, à luz do disposto no parágrafo único do art. 11 do Diploma legal mencionado, impede a concessão do benefício.
+Não desconheço julgado proferido pela 3ª Seção desta Corte Superior, "de não ser possível a utilização da soma das penas unificadas para fins de obstar a concessão do indulto, nos termos do art. 11 do Decreto Presidencial n. 11.302/2022, devendo, para os fins estipulados no art. 5º do referido ato normativo, ser consideradas individualmente as penas máximas em abstrato" (AgRg no HC n. 840.517/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023, destaquei).
+Não obstante, em sessão virtual realizada entre os dias 2 e 9 de fevereiro de 2024, o Plenário do Supremo Tribunal Federal, por unanimidade, no julgamento da Suspensão de Liminar n. 1.698 MC-REF/RS, definiu:
+Em cognição sumária e como medida de cautela, no intuito de preservar a segurança jurídica em torno da interpretação dada ao art. 11, parágrafo único, do Decreto nº 11.302/2022, entendo que deve prevalecer a compreensão no sentido da impossibilidade da concessão do benefício quando, realizada a unificação de penas, remanescer o cumprimento da reprimenda referente aos crimes impeditivos para a concessão do benefício, listados no art. 7º do Decreto.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
