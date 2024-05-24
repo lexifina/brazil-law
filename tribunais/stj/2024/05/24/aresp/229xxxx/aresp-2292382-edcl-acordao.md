@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. NÃO SE DEMONSTROU OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. RECURSO PROTELATÓRIO.
+1. Nos termos do art. 619 do CPP, serão cabíveis embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão no julgado.
+2. Não há nenhum dos mencionados vício, porque o agravo regimental não foi conhecido por ser intempestivo, pois a decisão monocrática agravada, de fls. 1.172-1.181, concluiu que os embargos de declaração eram intempestivos, haja vista que foram opostos "fora do prazo de 5 (cinco) dias corridos", segundo os arts. 619 e 798 do CPP, ao considerar que o agravante foi intimado da decisão embargada em 4/4/2023 (fl. 1.168) e opôs os embargos de declaração somente em 12/4/2023 (fl. 1.172), o que, conforme compreensão desta Corte Superior, implica não interromper ou suspender o prazo para a interposição do agravo regimental, pois trata-se de embargos de declaração intempestivos, e, por isso, o agravo regimental interposto fora do prazo de 5 dias contados da publicação da primeira decisão é igualmente intempestivo.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra o acórdão assim ementado (fl. 1.243):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO.
+1. Esta Corte Superior entende que os embargos de declaração intempestivos não interrompem, e nem suspendem, o prazo para a interposição de outros recursos, pois manifestamente incabíveis (STJ, 5ªT, AgRg em EDcl em AREsp n. 868.575/SP, rel. Min. Nefi Cordeiro, 6ªT, 20/6/2017, DJe 26/6/2017, gizado).
+2. É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei n. 8.038/1990 e 258, caput, do RISTJ, e, por isso, é intempestivo, no presente caso, haja vista que a decisão foi publicada no DJe de 10/4/2023, e o recurso foi interposto em 2/5/2023.
+3. Agravo regimental não conhecido.
+O embargante reitera os argumento do agravo regimental, isto é, sustenta que não há elementos para pronunciá-lo. Entretanto, não aponta nenhum vício de omissão, contradição ou obscuridade no acórdão que não conheceu do agravo regimental por ser intempestivo.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. NÃO SE DEMONSTROU OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. RECURSO PROTELATÓRIO.
+1. Nos termos do art. 619 do CPP, serão cabíveis embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão no julgado.
+2. Não há nenhum dos mencionados vício, porque o agravo regimental não foi conhecido por ser intempestivo, pois a decisão monocrática agravada, de fls. 1.172-1.181, concluiu que os embargos de declaração eram intempestivos, haja vista que foram opostos "fora do prazo de 5 (cinco) dias corridos", segundo os arts. 619 e 798 do CPP, ao considerar que o agravante foi intimado da decisão embargada em 4/4/2023 (fl. 1.168) e opôs os embargos de declaração somente em 12/4/2023 (fl. 1.172), o que, conforme compreensão desta Corte Superior, implica não interromper ou suspender o prazo para a interposição do agravo regimental, pois trata-se de embargos de declaração intempestivos, e, por isso, o agravo regimental interposto fora do prazo de 5 dias contados da publicação da primeira decisão é igualmente intempestivo.
+3. Embargos de declaração não conhecidos.
+VOTO
+Nos termos do art. 619 do CPP, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência. Não constituem, portanto, recurso de revisão.
+Não há nenhum dos mencionados vício, porque o agravo regimental não foi conhecido por ser intempestivo, pois a decisão monocrática agravada, de fls. 1.172-1.181, concluiu que os embargos de declaração eram intempestivos, haja vista que foram opostos "fora do prazo de 5 (cinco) dias corridos", segundo os arts. 619 e 798 do CPP, ao considerar que o agravante foi intimado da decisão embargada em 4/4/2023 (fl. 1.168) e opôs os embargos de declaração somente em 12/4/2023 (fl. 1.172), o que, conforme compreensão desta Corte Superior, implica não interromper ou suspender o prazo para a interposição do agravo regimental, pois trata-se de embargos de declaração intempestivos, e, por isso, o agravo regimental interposto fora do prazo de 5 dias contados da publicação da primeira decisão é igualmente intempestivo.
+Ante o exposto, não conheço dos embargos de declaração, pois foram opostos com objetivo protelatório.
+É o voto.
