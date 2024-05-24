@@ -1,0 +1,49 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PITAGORAS SISTEMA DE EDUCAÇÃO SUPERIOR SOCIEDADE S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/02/2023.
+Concluso ao gabinete em: 09/05/2024.
+Ação: declaratória de inexigibilidade de débito c/c obrigação de fazer e indenização por danos morais ajuizada por MARIA REGINA SVERSUT BRIANTE (agravada) em face da agravante.
+Sentença: julgou parcialmente procedentes os pedidos formulados pela autora (agravada) para declarar a inexigibilidade de todo e qualquer valor cobrado pela ré (agravante) a título de diferenças de semestralidade quanto ao repasse do FNDE do contrato de financiamento em nome da autora (agravada).
+Acórdão: negou provimento ao recurso de apelação da agravante, nos termos da seguinte ementa (e-STJ, fls. 956-957):
+"APELAÇÕES CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS - INCOMPETÊNCIA DA JUSTIÇA ESTADUAL - PRELIMINAR REJEITADA - INSTITUIÇÃO DE ENSINO - APLICAÇÃO DO CDC - ALUNO BENEFICIÁRIO DE 100% DO FIES - REALIZAÇÃO DE COBRANÇA INDEVIDA E SANÇÕES ADMINISTRATIVAS - AUMENTO DA MENSALIDADE EM PERCENTUAL SUPERIOR AO PREVISTO NO CONTRATO ASSINADO ENTRE O ALUNO E O ENTE GOVERNAMENTAL FINANCIADOR (FIES) - DÉBITO INEXIGÍVEL - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+O cerne da demanda refere-se a cobrança de suposta diferença da mensalidade, e por esta razão, compete à Justiça Estadual a análise do contrato celebrado entre o aluno e a instituição de ensino.
+A relação jurídica contratual estabelecida entre Instituição de Ensino Superior (IES) e o estudante encontra-se amparada pelo Código de Defesa do Consumidor, de maneira que as cláusulas constantes do contrato de prestação de serviços educacionais devem ser claras e precisas, sobretudo as que restringem e/ou limitam direito do consumidor, tendo como diretriz basilar o princípio da boa-fé objetivo e o dever de agir com lealdade e cooperação.
+Se das condições gerais de adesão não consta autorização para repassar ao consumidor valores pagos a menor pelo ente governamental responsável pelo financiamento estudantil, deve ser conferida a interpretação mais favorável ao consumidor, nos termos do artigo 47 do Código de Defesa do Consumidor, de modo que eventual prejuízo da IES deve ser discutido com o ente do Governo."
+Embargos de Declaração: opostos pela agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, IV e 1.022, II, Parágrafo Único, I, do CPC; 421, Parágrafo Único e 421-A, do Código Civil; 1º ao 3º, da Lei nº 9.870/1999; 170 e 207 da Constituição Federal, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, defende a possibilidade de cobrança da Instituição de ensino do aluno, em caso de o repasse do Financiamento Estudantil - FIES ocorrer em valor inferior ao da semestralidade prevista no contrato.
+Argumenta, ainda, tratar-se de (e-STJ, fl. 1061):
+" ..  uma parceria entre as entidades pública e privada, com o objetivo de aumentar o número de vagas disponíveis no Ensino Superior, mas que não significa eventual ruída da entidade particular, que não pode ficar jungida a eventual limitação de valor de semestralidade imposta pelo Poder Público"
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do não cabimento de reajuste da mensalidade de aluno benefi ciário do FIES, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Por outro lado, verifica-se que o TJ/MT ao dirimir a controvérsia, fundamentou o seguinte (e-STJ, fl. 961):
+"No caso em apreço, apesar da tese da apelante sobre a ilegalidade efetivada pelo FNDE ao impor limitação de valores a serem financiados, restou incontroverso que o contrato firmado entre a apelada e o FNDE, cobre 100% do curso de Medicina mantido pela ré, estabelece um aditivo de 25% para cobrir gastos com reajustes de mensalidades.
+Sendo o contrato de financiamento estudantil firmado no percentual de 100%, que prevê, inclusive, um adicional de 25% em favor da instituição de ensino para cobrir reajustes, descabe repassar ao estudante eventual diferença não paga pela União ou Fundo de Financiamento, à medida em que a ré, ao firmar o contrato com o MEC ou quem o valha também tomou conhecimento do repasse à instituição - e seu limite -, o que impede a cobrança direta ao aluno, ainda que se possa falar em trava sistêmica quanto a valores.
+Por ter a parte autora iniciado seus estudos no primeiro semestre de 2015, há que se aplicar o disposto nos arts. 4º e 4º-B, da Lei n.º 10.260/01, que de forma clara veda a cobrança de qualquer valor adicional na hipótese de financiamento em percentual de 100%, estabelecendo, ainda, que o agente operador poderá estabelecer limites máximos do financiamento. Verbis:
+"Art. 4º São passíveis de financiamento pelo Fies até 100% (cem por cento) dos encargos educacionais cobrados dos estudantes no âmbito do Fundo pelas instituições de ensino devidamente cadastradas para esse fim pelo Ministério da Educação, em contraprestação aos cursos referidos no art. 1o em que estejam regularmente matriculados, vedada a cobrança de qualquer valor ou taxa adicional e observado o disposto no art. 4º -B.
+(omissis)
+Art. 4º-B: O agente operador poderá estabelecer valores máximos e mínimos de financiamento, nos termos de regulamento do Ministério da Educação".
+Outrossim, por ser o contrato inicial de prestação de serviços educacionais anterior a 2015, não se aplicam as disposições que possibilitam a cobrança/repasse de diferença ao aluno, o que a torna-a ilegítima, tal como a postura da apelante em não renovar matrículas e/ou até mesmo a de aplicar penalidades pedagógicas ou administrativas."
+Alterar o decidido no acórdão impugnado, no que se refere ao não cabimento de repasse ao estudante de eventuais diferenças não pagas pela União ao Fundo de Financiamento (FIES), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO DE ENSINO. ALUNO BENEFICIÁRIO DO FIES. COBRANÇA INDEVIDA. SANÇÕES ADMINISTRATIVAS. DÉBITO INEXIGÍVEL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação declaratória de inexigibilidade de débito c/c obrigação de fazer e indenização por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
