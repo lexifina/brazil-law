@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 70):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HABILITAÇÃO DE HERDEIROS. RPV/PRECATÓRIO. RECEBIMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. IMPROVIMENTO.
+1. Cinge-se a controvérsia devolvida a este Regional em aferir a correção da decisão do juízo que a quo deferiu o pedido de habilitação dos herdeiros da ex-servidora RUTH GARNIER DE SOUZA FALCÃOLIMA.
+2. Tendo o feito tramitado regularmente, com a expedição de requisição de pagamento inicial e o depósito dos respectivos valores, descabe acolher-se a alegação de prescrição. Uma vez deduzida a pretensão executória e realizado o depósito dos valores, como no caso em análise, a quantia disponibilizada pertence ao exequente, revelando-se descabida qualquer alegação concernente à prescrição na habilitação dos herdeiros. Precedente: PROCESSO: 08089058120204050000, AGRAVO DE INSTRUMENTO,DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, 2ª TURMA,JULGAMENTO: 17/11/2020.
+3. Agravo de Instrumento a que se nega provimento.
+Embargos de declaração rejeitados (fls. 121/124).
+Sustenta a parte recorrente, além da negativa de prestação jurisdicional (arts. 489, § 1º, 1.022, II, do CPC/2015), violação aos arts. 265, I e 267, II, do CPC/1973 (arts. 313, I e 485, II, do CPC/2015); 196 e 682, II, do CC, afirmando haver transcorrido mais de cinco anos entre o falecimento do credor, ocorrido em 09/08/2017 e o pleito de habilitação da parte sucessora, em 04/11/2022.
+Por fim, "demonstrado o cabimento do presente recurso, requer o ente público que sejam conhecidas e acolhidas as razões ora apresentadas para dar integral provimento ao presente Recurso Especial, reformando-se o acórdão recorrido para reconhecer a impossibilidade de ser dado prosseguimento à execução, em razão da consumação, no caso dos autos, da prescrição da pretensão executória. Em todo caso, pugna pelo sobrestamento do feito até o julgamento dos recursos especiais representativos de controvérsia referentes aos autos n.ºs 0812151-85.2020.4.05.0000, 0812085-71.2021.4.05.0000 , 0813429-37.2021.4.05.8100, 0804518-86.2021.4.05.0000, 0812894-61.2021.4.05.0000 e0803773-09.2021.4.05.0000, consoante já determinado pela Vice-Presidência do TRF 5.ª Região" (fl. 146).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 175.
+É o relatório. Passo a decidir.
+O recurso especial não prospera.
+De início, afasta-se o pedido de sobrestamento, haja vista inexistir, até o momento, submissão do tema controvertido ao rito dos julgamentos repetitivos.
+Não se conhece da suposta afronta aos arts. 489, § 1º, 1.022, II, do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+Por outro lado, a tese recursal, trazida nas razões do recurso especial, assim como o conteúdo normativo dos dispositivos legais tidos por violados, não foram objeto de análise na origem, apesar da oposição de embargos de declaração. Incidência da Súmula 211/STJ.
+No mais, o Tribunal de origem concluiu que "a Segunda Turma julgadora do TRF 5ª Região, possui posicionamento coadunado com o do STJ no sentido de que havendo a expedição do RPV/precatório, deve ser afastada a tese da prescrição" (fl.69).
+Ainda, no julgamento dos embargos de declaração, registrou (fl. 122):
+Na hipótese em apreço, o acórdão embargado é claro ao afirmar que ".. Tendo o feito tramitado regularmente, com a expedição de requisição de pagamento inicial e o depósito dos respectivos valores, descabe acolher-se a alegação de prescrição. Uma vez deduzida a pretensão executória e realizado o depósito dos valores, como no caso em análise, a quantia disponibilizada pertence ao exequente, revelando-se descabida qualquer alegação concernente à prescrição na habilitação dos herdeiros. Precedente: PROCESSO: 08089058120204050000, AGRAVO DE INSTRUMENTO,DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, 2ª TURMA, JULGAMENTO: 17/11/2020. ..".
+Portanto, verifica-se que não há que se falar em prescrição da pretensão executória, vez que o processo executivo já se encontra extinto, tendo havido, inclusive, a expedição do requisitório e o respectivo depósito dos valores.
+As razões recursais não atacam a fundamentação adotada pelo Tribunal a quo, acima transcrita, atraindo a incidência da Súmula 283/STF, a impedir o reexame da questão controvertida.
+Como não bastasse, os dispositivos legais indicados como violados, ainda que estivessem prequestionados, não possuiriam conteúdo normativo capaz de infirmar as conclusões do acórdão recorrido, atraindo o óbice da Súmula 284 do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HABILITAÇÃO DE HERDEIROS. PRESCRIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS E TESE RECURSAL A ELES VINCULADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. CONTEÚDO NORMATIVO INCAPAZ DE DESCONSTITUIR O ACÓRDÃO RECORRIDO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
