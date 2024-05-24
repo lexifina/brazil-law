@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por INDIA BRASIL DE OLIVEIRA SIQUEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. ART. 508 DO CPC. PRINCÍPIO DO DEDUTÍVEL E DO DEDUZIDO. COISA JULGADA. EXTINÇÃO DA AÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 337, VII, § 2º, do CPC, aduzindo inexistência de coisa julgada, uma vez que que não há identidade de causa de pedir e pedidos , trazendo a seguinte argumentação:
+No caso em tela, a recorrente já esclareceu que não há identidade de causa de pedir e pedidos entre o presente feito e ação n.º 5004494- 58.2016.404.7000, não justificando a extinção do processo sem julgamento do mérito.
+Assim vale esclarecer que a demanda ajuizada sob n.º 5004494- 58.2016.404.7000, tinha a causa de pedir baseada no Decreto 79.096/50, requerendo a revisão da pensão na proporção de 25 (vinte e cinco) vezes a contribuição.
+Por sua vez, o presente processo, possui outra causa de pedir e outro pedido, uma vez que a autora pretende a revisão da pensão com base na Lei 4.902/65, assim como o seu valor.
+ ..
+Isso porque, para caracterização da coisa julgada é necessário que os requisitos mencionados no §2º, VII, do art. 337, do CPC, sejam preenchidos cumulativamente, e não de forma isolada.
+Ainda que se admita que há identidade de pedidos entre os processos mencionados no acórdão (o que não ocorreu), é fato que não há identidade na causa de pedir, pois o fundamento utilizado pela parte recorrente para pleitear a majoração da sua pretensão é completamente distinto entre uma ação judicial e outra.
+Logo, não pode ser mantida a decisão que julgou sem resolução do mérito o presente feito com base na existência de coisa julgada (fls. 325-326)
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A sentença assim enfrentou a questão (evento 46, SENT1):
+ ..
+No caso em estudo, entendo que há ocorrência de coisa julgada om os autos n. 5004494- 58.2016.404.7000, julgado pela 7ª Vara da Subseção Judiciária de Curitiba.
+Explico.
+Naqueles autos, a parte autora direcionou a ação contra a União e o INSS, aduzindo que, após o falecimento de seu cônjuge, na data de 06/06/72, passou a receber o benefício da pensão militar por morte mas, segundo sua tese, a pensão foi calculada de maneira incorreta, pois o Decreto 49.096/60 assegura o pagamento da pensão na proporção de 25 vezes a contribuição, quando o falecimento se tenha verificado em consequência de acidente ocorrido em serviço ou de moléstia grave.
+Sustentou, ainda, que, na data do óbito, a legislação previdenciária aplicável ao caso em tela assegurava ao militar reformado e declarado incapaz a promoção de 2 postos de graduação no grau hierárquico na função que desempenhava, de acordo com a Lei nº 3765, de 4 de maio de 1960, sendo que, formulado o pedido na esfera administrativa, em 06/10/2014, foi indeferido.
+Ao final, lançou os seguintes pedidos (processo 5004494-58.2016.4.04.7000/PR, evento 1, INIC1, páginas 5/6):
+"III. Seja a ré condenada a alterar a base de calculo do benefício da autora, devendo ser calculada com acréscimo de 25 (vinte e cinco) vezes o valor da contribuição.
+IV. Seja a ré condenada a majorar a pensão da autora, efetuando a projeção de 2 postos de graduação do grau hierárquico da função que o de cujus desempenhava." A sentença proferida naqueles autos (processo 5004494-58.2016.4.04.7000/PR, evento 33, SENT1) julgou improcedentes os pedidos, sendo mantida pela Turma Recursal (processo 5004494- 58.2016.4.04.7000/PR, evento 66, ACOR2), com trânsito em julgado certificado no ev131 daqueles autos.
+Note-se que, ao ajuizar esta ação e direcioná-la contra a União, houve preenchimento do primeiro dos três requisitos para caracterização da coisa julgada: identidade de partes.
+Observe-se, agora, o pedido de mérito formulado nestes autos, conforme inicial, p. 3:
+"IV. Seja a ré condenada majorar os proventos de reforma do ex-servidor, para a integralidade da remuneração e/ou soldo com base no posto superior ao que possuía na ativa ou, sucessivamente, na integralidade do da remuneração/soldo do posto em que ocupava na ativa, em qualquer hipótese com os respectivos adicionais. Consequentemente, sejam majorados os proventos de pensão da autora na mesma proporção." Os pedidos formulados nesta ação e naquela também são os mesmos: busca a parte autora a majoração de sua pensão militar.
+Ainda que a parte requerente tenha feito uma tênue alteração no pedido aqui formulado (suplica para que os proventos observem 100% do soldo do posto de 1º Tenente ou, sucessivamente, 100% do soldo de 2º Tenente, já que recebe, até os dias atuais, 19/30 avos do soldo de 2º Tenente), flagrante que a requerente busca, agora sob novos fundamentos, a reforma de sua pensão militar, fragmentando a causa de pedir e ofendendo diretamente a eficácia preclusiva da coisa julgada que o CPC acolheu expressamente em seu artigo 508 e que consigna "Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido".
+O mero fato de, naqueles autos, a parte demandante ter lastreado sua pretensão no Decreto n. 49.096/60 para pleitear a majoração da pensão e, nestes, na lei n. 4.902/65, não afasta a caracterização de coisa julgada já que a diversidade de fundamentos jurídicos para o pedido não diferencia a causa de pedir.
+ ..
+Logo, com o trânsito em julgado da sentença proferida nos autos n. 5004494-58.2016.404.7000, não há mais possibilidade de se rediscutir a pensão militar, diante da eficácia preclusiva da coisa julgada prevista no artigo 508 do CPC, que consigna : "Transitada em julgado a decisão de mérito, considerar- se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido".
+ ..
+Do exposto, concluiu o Julgador estar presente a coisa julgada, impedindo a discussão de todas as alegações e as defesas que a parte poderia opor, tanto ao acolhimento quanto à rejeição do pedido, ou seja, entendeu tratar-se de coisa julgada implícita, na forma do que dispõe o art. 508 do Código de Processo Civil.
+ ..
+Na hipótese, como bem destacou a Julgadora sentenciante, o fato de nos autos nº 5004494-58.2016.404.7000 a parte autora ter fundamentado sua pretensão no Decreto 49.096/60 para pleitear a majoração da pensão e, no presente feito na Lei 4.902/65, não afasta a caracterização de coisa julgada.
+Assim, com o trânsito em julgado da sentença proferida nos autos nº 5004494- 58.2016.404.7000, não há mais possibilidade de se rediscutir a pensão militar (fls. 293-295)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste na revisão da premissa fática assentada pela Corte de origem quanto à presença ou ausência de identidade das partes, do pedido e da causa de pedir entre as demandas, para efeito de incidência do pressuposto processual negativo da coisa julgada.
+A jurisprudência do STJ firmou-se no sentido de que, "em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ". (AgInt no AREsp 784.774/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 13/4/2018.)
+Confiram-se ainda os seguintes julgados: REsp 1.814.142/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/6/2020; EDcl no REsp 1.776.656/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/6/2020; AgInt no REsp 1.629.962/AM, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Códi go de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
