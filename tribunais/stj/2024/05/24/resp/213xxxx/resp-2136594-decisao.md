@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por SERVIÇO SOCIAL DA INDÚSTRIA-SESI-DEPARTAMENTO REGIONAL DO TOCANTINS em face de acórdão assim ementado (fl. 54):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO SISBAJUD. VALORES BLOQUEADOS EM CONTAS DIVERSAS DA EXECUTADA. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA. APLICAÇÃO DO ENUNCIADO 3 DA ENFAM. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. ART. 833, IV, CPC. IMPENHORÁVEL. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO MANTIDA.
+1. No caso em análise, verifica-se que foi bloqueada, via SISBAJUD(evento 51), a quantia de R$ 1.925,54 (um mil novecentos e vinte e cinco reais e cinquenta e quatro centavos) existente nas contas da Nu Bank, Neon Bank e Itaú Unibanco, todas de titularidade da parte agravada.
+2. Ausência de violação ao princípio da não surpresa. Por aplicação do Enunciado 3 da ENFAM.
+3. Oportuno, ainda, acrescentar que, de acordo com o posicionamento atual do Superior Tribunal de Justiça, a quantia de até 40 salários-mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.
+4. Portanto, a quantia existente nas contas da agravante são absolutamente impenhoráveis devido ao caráter alimentar e por ser inferiores a 40 salários-mínimos, além de o crédito executado não possuir natureza alimentar.
+5. Recurso conhecido e não provido. Decisão mantida.
+Nas razões do recurso especial, a recorrente aponta a violação do art. 10 do Código de Processo Civil/2015, sustentando que não foi intimada para contrarrazoar a exceção de pré-executividade, sendo indevido o desbloqueio da conta da recorrida.
+Alega que não cabe a aplicação do Enunciado 3 da ENFAM, visto que a falta de intimação da parte Recorrente não só influenciou na solução da causa, bem como, retrocedeu o andamento processual.
+Aduz que é possível a relativização da regra da impenhorabilidade do artigo 833 do CPC/2015, cabendo ao devedor provar que a conta bloqueada se trata de verba salarial indispensável à sua sobrevivência, o que não ocorreu no decorrer do presente caso.
+Requer, subsidiariamente, a indisponibilidade de 30% (trinta por cento) do salário, conforme precedentes do STJ.
+Contrarrazões não apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+Sobre o tema da impenhorabilidade, o Tribunal de origem consignou que a quantia de até 40 salários-mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras. Confira-se:
+No caso em análise, verifica-se que foi bloqueada, via Sisbajud (evento 51), a quantia de R$1.925,54 (um mil novecentos e vinte e cinco reais e cinquenta e quatro centavos) existente nas contas da Nu Bank, Neon Bank e Itaú Unibanco, todas de titularidade da parte agravada. Oportuno, ainda, acrescentar que, de acordo com o posicionamento atual do Superior Tribunal de Justiça, a quantia de até 40 salários-mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.
+ ..
+Portanto, a quantia existente nas contas da agravada são absolutamente impenhoráveis devido ao caráter alimentar e por ser inferiores a 40 salários-mínimos, além de o crédito executado não possuir natureza alimentar  ..  (fls. 48/49)
+Nos termos da jurisprudência desta Corte Superior, é impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, sendo ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento.
+Nesse sentindo, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. PENHORA. ATIVOS FINANCEIROS. QUARENTA SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. POSSIBILIDADE DE DESBLOQUEIO DE OFÍCIO.1. A penhora eletrônica não pode descurar-se do disposto no art. 833, X, do CPC, uma vez que "a previsão de impenhorabilidade das aplicações financeiras do devedor até o limite de 40 salários-mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário" (AREsp 2.109.094, Rel. Ministro Gurgel de Faria, DJe de 16.8.2022).
+ ..
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 2.307.477/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/6/2023, DJe de 27/6/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PENHORA ON-LINE. ATIVOS FINANCEIROS. CONTA-CORRENTE. VALORES. LIMITES. IMPENHORABILIDADE.1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, até o limite de 40 (quarenta) salários mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade deve ser respeitada.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.985.933/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE. 1. Nos termos da jurisprudência deste Tribunal Superior, a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada para pagamento de prestação alimentícia, desde que seja preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família. Incidência da Súmula 83/STJ. Precedentes. 1.1. A jurisprudência desta Corte estende a abrangência do art. 649, inciso X, do CPC/73 - correspondente ao art. 833, inciso X, do CPC/2015 -, a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, em conta-corrente, fundos de investimento ou guardados em papel-moeda. No entanto, autoriza as instâncias ordinárias a identificarem, no caso concreto, eventual abuso do direito, má-fé ou fraude, a afastar a garantia da impenhorabilidade.
+2. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.127.446/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Diante do exposto, verifico que o Tribunal de origem, ao indeferir a penhora dos valores inferiores a 40 salários mínimos, o fez em consonância com a jurisprudência desta Corte.
+Com efeito, nem mesmo a utilização da poupança como conta corrente tem o condão de afastar a impenhorabilidade. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. 1. CONTA-POUPANÇA. DESVIRTUAMENTO DO USO. RAZÃO INSUFICIENTE PARA AFASTAR A IMPENHORABILIDADE. PRECEDENTES. 2. ADEQUAÇÃO AO ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE SOBRE O TEMA. 3. AGRAVO INTERNO DESPROVIDO. 1. De fato, o posicionamento do colegiado estadual diverge da jurisprudência do Superior Tribunal de Justiça, a qual possui o entendimento no sentido de que todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos, são impenhoráveis, bem como que a simples movimentação atípica, por si só, não seria capaz de caracterizar má-fé ou fraude.
+ ..
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.973.857/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+Sobre a existência de decisão surpresa, o Tribunal de origem consignou que, "conquanto não se desconheça a norma prevista no art. 10 do CPC/2015, inequívoca era a desnecessidade de manifestação do exequente". Confira-se:
+Não procede a preliminar de "decisão surpresa", posto que, conquanto não se desconheça a norma prevista no art. 10 do CPC, inequívoca era a desnecessidade de manifestação do exequente, à luz do Enunciado 3 da Escola Nacional de Formação e Aperfeiçoamento de Magistrados (ENFAM), que dispõe: "É desnecessário ouvir as partes quando a manifestação não puder influenciar na solução da causa"  ..  (fl. 47)
+Nos termos da jurisprudência desta Corte, a vedação à decisão surpresa não significa que o julgador deve consultar as partes antes de cada solução dada às controvérsias apresentadas, especialmente quando já lhes foi conferida oportunidade para apresentar manifestação, tendo se estabelecido o contraditório.
+A saber:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+ ..
+2. A vedação à decisão surpresa não significa que o julgador deve consultar as partes antes de cada solução dada às controvérsias apresentadas, especialmente quando já lhes foi conferida oportunidade para apresentar manifestação, tendo se estabelecido o contraditório. Precedentes.
+3. Para averiguar a procedência das alegações de que houve abusividade na relação contratual seria necessário o reexame do acervo fático-probatório constante dos autos, bem como da avença celebrada pelas partes, medidas vedadas pelas Súmulas 5 e 7 deste Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.081.183/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TEMAS N. 491/STJ E 492/STJ. IMPERTINÊNCIA À HIPÓTESE DOS AUTOS. DECISÃO SUPRESA INEXISTENTE. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. INCONFORMISMO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+ ..
+3. A aplicação da jurisprudência do STJ não configura nenhuma surpresa sobre a qual se deva intimar a parte a se manifestar, pois a proteção conferida pelo Código de Processo contra decisões-surpresa não pode inviabilizar que o juiz conheça do direito alegado e determine a exegese a ser aplicada ao caso.
+4. "Não há falar em decisão-surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de ouvi-las, até porque a lei deve ser de conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação" (AgInt no AREsp n. 2.028.275/MS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/6/2022).
+5. A parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com omissão. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt nos EDcl no REsp n. 1.942.597/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+Quanto ao mais, não há como ser analisado o pedido de indisponibilidade de 30% (trinta por cento) do salário, em virtude da falta de prequestionamento, uma vez que o Tribunal de origem não analisou o caso à luz dos requisitos trazidos nas razões do presente recurso.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
