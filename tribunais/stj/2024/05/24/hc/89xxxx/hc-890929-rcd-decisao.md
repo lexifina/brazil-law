@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de reconsideração ajuizado por Victor Renan Faro dos Santos, em que sustenta a necessidade de modulação dos efeitos do acórdão, da minha lavra, em que a Terceira Seção deste Superior Tribunal modificou seu entendimento para, por segurança jurídica, curvar-se à orientação do Supremo Tribunal Federal, de que o crime impeditivo do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser considerado tanto no concurso de crimes quanto em razão da unificação de penas.
+Sustenta o requerente que a interpretação dos referidos dispositivos legais deixa clarividente que a alteração de entendimento de um tribunal, especialmente da Corte máxima da legislação infraconstitucional, em atenção aos princípios da segurança jurídica, da proteção da confiança e da isonomia, tem efeitos ex nunc, ou seja, somente se aplicam para frente, dada a necessidade de se estabelecer um regime de transição à nova intepretação jurídica (fl. 194).
+Postula, então (fls. 195/196):
+a) a modulação dos efeitos do entendimento firmado no AgRG no HC 890.929/SE, para restringir sua aplicação aos indultos concedidos a partir de 24/04/2024;
+b) A declaração de que aos indultos concedidos até 23/04/2024 se aplica o entendimento firmado pela 3ª Seção do Superior Tribunal de Justiça no AgRg no HC n. 856.053/SC, julgado 14/11/2023, no sentido de que somente o crime impeditivo praticado em concurso com o crime não impeditivo impediria o indulto do crime não impeditivo;
+c) A reconsideração da decisão proferida em 24/04/2024, com fito de estabelecer o indulto concedido ao peticionante pelo Juízo da Execução.
+É o relatório.
+O presente pedido de reconsideração não comporta conhecimento.
+Primeiro, porque é manifestamente incabível pedido de reconsideração interposto contra decisão proferida por órgão colegiado (PET no AgInt no AREsp 2.405.133/SP, Ministro João Otavio de Noronha, Quarta Turma, DJe 2/5/2024.
+Depois, porque, na própria sessão de julgamento em que firmado o precedente contra o qual se insurge o requerente, foi levantada a possibilidade de modulação dos efeitos do acórdão pelo eminente Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), mas a Seção entendeu inviável, justamente porque o precedente firmado pelo Supremo Tribunal Federal ocorreu no âmbito de decisão que suspendeu decisões deste Superior Tribunal concessivas da ordem em outros habeas corpus, de modo que seria inócuo fixar regime de transição ou modulação dos efeitos, quando possível à Suprema Corte cassar decisões do STJ proferidas a qualquer tempo.
+Em face do expos to, não conheço do pedido de reconsideração.
+Publique-se.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO SIMPLES. INDULTO (DECRETO N. 11.302/2022). INSURGÊNCIA CONTRA O ACÓRDÃO QUE MODIFICOU O POSICIONAMENTO DA SEÇÃO PARA ADERIR À MAIS RECENTE ORIENTAÇÃO DA CORTE SUPREMA, NO SENTIDO DE QUE O CRIME IMPEDITIVO DA CONCESSÃO DO BENEFÍCIO SERIA TANTO O PRATICADO EM CONCURSO COMO O DECORRENTE DE UNIFICAÇÃO DE PENAS. PRETENSÃO DE QUE SEJAM MODULADOS OS EFEITOS DO ACÓRDÃO. PEDIDO INADMISSÍVEL. INVIABILIDADE DE RECONSIDERAÇÃO CONTRA ACÓRDÃO DO COLEGIADO. PEDIDO, ADEMAIS, INVIÁVEL, DIANTE DA POSSIBILIDADE DE CASSAÇÃO DAS DECISÕES DO STJ PELO SUPREMO TRIBUNAL FEDERAL, PROFERIDAS ANTES DA FIXAÇÃO DO PRECEDENTE.
+Pedido de reconsideração não conhecido.
