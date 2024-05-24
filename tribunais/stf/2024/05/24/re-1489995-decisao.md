@@ -1,0 +1,71 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de recurso extraordinário interposto pelo Estado de Mato Grosso do Sul contra acórdão proferido pela 1ª Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+
+    “AGRAVO DE INSTRUMENTO – LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA EM FACE DE AÇÃO COLETIVA – PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO – PRELIMINAR AFASTADA – INSTAURAÇÃO DE INCIDENTE DE DEMANDA REPETITIVA – INCOMPETÊNCIA DESTE ÓRGÃO COLEGIADO – PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA – PRAZO PRESCRICIONAL NÃO ESCOADO – CONTRARIEDADE À COISA JULGADA NÃO VERIFICADA – IMUTABILIDADE DO TÍTULO EXECUTIVO – EFICÁCIA PRECLUSIVA DA COISA JULGADA – CORREÇÃO MONETÁRIA – SUPREMO TRIBUNAL FEDERAL – MODULAÇÃO DOS EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 1º-F DA LEI 9.494/97 – RECURSO PARCIALMENTE PROVIDO.
+
+    1. A preliminar de nulidade da decisão por ausência de fundamentação deve ser afastada, pois não é necessário que o julgador trate exaustivamente das matérias levadas aos autos pelas partes, bastando que ele justifique as razões que formam seu convencimento. Portanto, a fundamentação concisa não se confunde com a ausência de fundamentos, não se podendo falar em violação ao artigo 93, inciso IX, da CF, tampouco em enquadramento em qualquer das figuras do § 1º do art. 489 do CPC.
+
+    2. Não se vislumbra hipótese de instauração de incidente de demanda repetitiva, pois este órgão colegiado é incompetente para admitir a pretendida instauração de incidente de resolução de demandas repetitivas, uma vez que o referido pedido deve ser dirigido ao Presidente deste Tribunal, nos termos do que dispõe o caput do artigo 977 do Novo Código de Processo Civil. Ademais, não se verifica hipótese de enquadramento no artigo 572 do RITJMS.
+
+    3. Nas relações jurídicas que versam pretensão de direito em face da Fazenda Pública, o artigo 1º do Decreto 20.910/32 instituiu o prazo prescricional de cinco anos, que se inicia a partir da data do ato ou do fato que deu origem ao dano discutido, logo, quando finda a liquidação, que é entendida como extensão da fase cognitiva. Precedentes.
+
+    4. Com efeito, não há falar em contrariedade à coisa julgada, pois o juízo a quo proferiu decisão em conformidade com o conteúdo constante da sentença coletiva, pois, em razão da ausência dos contratos pelo Estado de Mato Grosso do Sul, utilizou parâmetros para os encargos financeiras cobrados indicados naquela demanda. Outrossim, com o trânsito em julgado da decisão, os litigantes ficam adstritos aos limites impostos pelo título executivo judicial.
+
+    5. Por fim, não prosperar a irresignação do agravante quanto à existência de empréstimos no ano de 2001, visto que os limites da decisão foram estabelecidos no dispositivo da sentença coletiva, que transitou em julgado, não cabendo mais discussão acerca do assunto.
+
+    6. O Supremo Tribunal Federal, ao apreciar questão de ordem nos autos das ADINs 4425 e 4357, conferiu eficácia prospectiva à declaração de inconstitucionalidade, fixando como marco inicial, para que se deixe de aplicar a regra do art. 1º-F da Lei 9.494/07 quanto à correção monetária, a data de conclusão do julgamento da referida questão de ordem, ou seja, 25.03.2015.
+
+    Conclui-se, assim, que os juros a serem aplicados nas condenações contra a Fazenda Pública devem ser mantidos em 6% ao ano até 01/2003. Após essa data, são de 12% ao ano até 29/06/2009. E, após, devem ser observados a aplicação integral da regra prevista no art. 1º-F da Lei 9.494/97 até 25.03.2015, seja em relação aos juros, seja em relação à correção monetária, a qual passará a incidir pelo IPCA após tal data.”
+
+    Opostos embargos de declaração, foram rejeitados.
+
+    Sustenta o recorrente violação dos artigos 5°, inciso LV, e 100, § 12, da Constituição Federal.
+
+    Alega que restou caracterizada a violação da coisa julgada, haja vista que na ação coletiva a condenação foi no sentido de determinar a “restituição dos custos das operações bancárias, consistentes nas taxas de contratos, IOF e juros contratuais, incidentes nos empréstimos realizados”, entretanto, na liquidação de sentença o magistrado concluiu que “a liquidação poderia processar-se, sem a apresentação da prova de terem sido os empréstimos realizados”.
+
+    Aduz que o prazo “prescricional para o ajuizamento da execução se encerrou em 27/05/2017, não se pode[endo] admitir o processamento de milhares de liquidações, ante à sua evidente inutilidade, eis que sua única serventia seria a de instruir a execução já prescrita”.
+
+    Concluiu defendendo que deve “ser afastada a determinação de aplicação de juros de 12% ao ano de 01/2003 até 29/06/2009, sob pena de contrariedade à lei federal, à orientação jurisprudencial vigente, especificamente desse STF, e ao art. 100, § 12 da Constituição Federal/88”.
+
+    Em 3 de maio de 2020, o Vice-Presidente do Tribunal de Justiça do Estado de Mato Grosso do Sul, considerando os Temas nºs 810 da Repercussão Geral e 905 dos Recursos Especiais Repetitivos, determinou o retorno dos autos à Câmara julgadora para eventual juízo de retratação.
+
+    Após novo julgamento do feito, a 1ª Câmara Cível do Tribunal de origem acolheu a revisão do julgado, nos termos da seguinte ementa:
+
+    “AGRAVO DE INSTRUMENTO EM LIQUIDAÇÃO DE SENTENÇA EM AÇÃO COLETIVA EM FACE DA FAZENDA PÚBLICA – FETEMS - RETORNO DA VICE-PRESIDÊNCIA – DETERMINAÇÃO DE JUNTADA DE EXTRATOS BANCÁRIOS QUE CORRESPONDAM AO DESCONTO DOS ENCARGOS QUE PRETENDE LIQUIDAR - OBRIGAÇÃO QUE DEVE SER IMPOSTA À PARTE LIQUIDANTE – ÍNDICE DE CORREÇÃO MONETÁRIA E JUROS APLICADOS – REDISCUSSÃO DE MATÉRIA ACOBERTADA PELO MANTO DA COISA JULGADA NO PROCESSO DE CONHECIMENTO – IMPOSSIBILIDADE – ADEQUAÇÃO DO JULGADO À TESE FIRMADA – JUÍZO DE RETRATAÇÃO EXERCIDO – AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO. 1. O Vice-Presidente entendeu que o julgado estava contrariando a tese fixada no Tema 810 do SUPREMO TRIBUNAL FEDERAL, concomitante com tese fixada no Tema 905 do SUPERIOR TRIBUNAL DE JUSTIÇA, razão pela qual determinou o retorno do recurso à Câmara, em cumprimento do artigo 1.040, inciso II, do CPC/2015. 2. Incumbe à parte liquidante a juntada dos extratos bancários que correspondam ao desconto dos encargos que pretende liquidar. Na fase de liquidação de sentença não há dilação probatória, e por consequência não há que se falar em inversão do ônus da prova, e sim na obrigação que é imposta ao liquidante de trazer a documentação necessária para a liquidação do julgado. 3. Quanto a forma de correção do valor, além a obrigatoriedade da aplicação dos Temas 810 do STF e 905 do STJ, é indubitável que deve ser resguardada a coisa julgada. 4. No caso título judicial em liquidação encontra-se com trânsito em julgado, não sendo possível sua alteração sob pena de se eternizar a discussão, além de criar insegurança jurídica acerca da prestação jurisdicional prestada pelo Poder Judiciário. 5. O próprio Superior Tribunal de Justiça, no Tema 905 determinou a preservação da coisa julgada, vejamos:"4. Preservação da coisa julgada. Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos cuja constitucionalidade/legalidade há de ser aferida no caso concreto." (STJ. REsp n. 1.495.146/MG; Rel. Min. Mauro Campbell Marques – Tema 905). 6. Agravo de Instrumento parcialmente provido, em juízo de adequação.”
+
+    Reexaminando mais uma vez a causa, dessa vez à luz do Tema nº 1.170 da Repercussão Geral, a Corte de origem não acolheu a revisão do julgado em acórdão assim ementado:
+
+    “AGRAVO DE INSTRUMENTO – LIQUIDAÇÃO DE SENTENÇA – RETORNO DA VICE-PRESIDÊNCIA PARA REEXAME DA MATÉRIA - VIOLAÇÃO AO TEMA 1170, DO STF – NÃO VERIFICADO – JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.”
+
+    Decido.
+
+    A irresignação não merece prosperar, uma vez que o recorrente não apresentou tópico de repercussão geral da matéria devidamente fundamentada nos aspectos econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa frente às questões constitucionais invocadas no recurso extraordinário.
+
+    Com efeito, é dever da parte recorrente demonstrar de forma devidamente fundamentada, expressa e clara as circunstâncias que poderiam configurar a relevância das questões constitucionais suscitadas no recurso extraordinário, o que não ocorreu no caso em tela.
+
+    Anote-se que se mostra insuficiente a mera menção de que o STF teria reconhecido a repercussão geral da matéria examinada nestes autos no exame do Tema 670, haja vista que no referido tema de repercussão geral foi deliberado, unicamente, sobre o dever de fundamentação da Corte de origem à luz da norma do art. 93, inc. IX, da Constituição Federal, dispositivo constitucional que, sequer, é objeto do presente recurso extraordinário.
+
+    Assim, a afirmação genérica de existência de repercussão geral, desacompanhada de robusta fundamentação da relevância econômica, política, social ou jurídica da questão constitucional, não é suficiente para o conhecimento do recurso extraordinário, nos termos do art. 102, § 3º, da Constituição Federal e do art. 1.035 do CPC/2015. Nesse sentido:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. INDIVIDUALIZAÇÃO DA PENA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 2. Deficiência na fundamentação, em recurso extraordinário interposto sob a égide do CPC/2015, da existência de repercussão geral da questão constitucional suscitada. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto. 3. Agravo interno conhecido e não provido” (ARE nº 1.321.091/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/5/21 - grifo nosso).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. DISCUSSÃO DE ÂMBITO INFRACONSTITUCIONAL. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). FALTA DE FUNDAMENTAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 339). SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É ônus da parte recorrente apresentar a preliminar, formal e fundamentada, de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias que evidenciem, no caso concreto, a transcendência dos interesses subjetivos da causa, para que seja atendido o requisito previsto no art. 102, § 3°, da CF e no art. 1.035 do CPC, o que não foi observado pela parte recorrente. III - O Supremo Tribunal Federal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660 - ARE 748.371-RG/MT). IV - No julgamento do AI 791.292-QO-RG/PE (Tema 339), relatado pelo Ministro Gilmar Mendes, reconheceu-se a repercussão geral e reafirmou-se a orientação no sentido de que a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique, de forma clara, as razões de seu convencimento. V - Agravo regimental a que se nega provimento.” (ARE nº 1.263.035/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 22/5/20).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ARTIGO 33 DA LEI 11.343/2006 E ARTIGO 12 DA LEI 10.826/2003. DEFICIÊNCIA NA FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. ARTIGO 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 C/C ARTIGO 327, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA CRIMINAL. INEXISTÊNCIA DE REPERCUSSÃO PRESUMIDA. PRECEDENTES. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. ALEGADA VIOLAÇÃO AOS ARTIGOS 5º, LIII E LVII, E 129, I, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO JUIZ NATURAL, DA PRESUNÇÃO DE INOCÊNCIA E DO SISTEMA ACUSATÓRIO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. ALEGADA OFENSA AO SISTEMA ACUSATÓRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO INTERNO DESPROVIDO.” (ARE nº 1.264.183/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 26/5/20).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 24 de maio de 2024.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
