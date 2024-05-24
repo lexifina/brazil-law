@@ -1,0 +1,13 @@
+DECISÃO
+SAYMON DA MOTA JORGE alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de origem no Habeas Corpus n. 5082163-05.2024.8.21.7000/RS.
+A defesa se insurge contra a manutenção da prisão preventiva do réu, na pronúncia. Argumenta que a decisão do Juiz não está fundamentada e requer a revogação ou a substituição da cautela, por ofensa ao art. 413, § 3º, do CPP.
+Decido.
+Na origem, está em apuração suposto homicídio cometido com diversos golpes de faca, em situação que dificultou a defesa da vítima e motivado por dívidas do tráfico de drogas.
+Desde o início da persecução penal, o Juiz de primeiro grau justificou de forma adequada a prisão preventiva do suspeito para garantia da ordem pública, diante de sua periculosidade social, revelada pela "extrema gravidade" (fl. 14) do homicídio e por registro criminal anterior, pois o acusado "possui sentença penal condenatória" (fl. 13) por tráfico de drogas (não definitiva). A medida não foi decretada de forma automática, genérica ou como antecipação da pena, mas diante do elevado risco de reiteração delitiva.
+Não há falar em falta de fundamentação para a negativa de recorrer em liberdade, pois, na pronúncia, o Magistrado consignou que "permanecem inalterados os motivos que ensejaram as prisões preventivas, que vêm reforçados com a decisão" (fl. 26).
+A legalidade e a imprescindibilidade da prisão preventiva já foi reconhecida por esta Corte, em julgamento recente do HC n. 874.289/RS.
+Nesse contexto, não era necessário que o Juiz indicasse fundamentação inédita ou fatos novos, pois a "manutenção da custódia cautelar no momento da sentença de pronúncia, nos casos em que o Acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal" (AgRg no HC n. 775.947/MG, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022).
+É possível o avanço para a pronta solução do habeas corpus, pois o colegiado já manifestou o entendimento de que "não há ilegalidade na negativa do direito de recorrer em liberdade ao réu que permaneceu preso durante a instrução criminal, se persistem os motivos da prisão cautelar" (AgRg no HC n. 872.136/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
