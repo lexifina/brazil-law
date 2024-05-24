@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Giulianno Ferreira Santos, apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (HC n. 0703935-98.2024.8.07.0000).
+Consta dos autos que o paciente, nos autos da Ação Penal n. 0701290-84.2021.8.07.0007, foi condenado à pena de 1 ano e 26 dias de detenção, no regime inicial semiaberto, pela prática do crime de ameaça (art. 147 do CP).
+Impetrado writ no Tribunal de origem, a ordem foi parcialmente concedida para afastar a agravante da reincidência, e, por conseguinte, redimensionar a pena para 1 mês e 18 dias de detenção, mantendo o regime inicial semiaberto.
+Opostos embargos de declaração foram acolhidos parcialmente, pelos fundamentos sintetizados na seguinte ementa (fl. 501):
+TURMA CRIMINAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. CORREÇÃO DE ERRO MATERIAL. INDICAÇÃO INCORRETA DA FAP. DEFERIMENTO. AFASTAMENTO DOS MAUS ANTECEDENTES. INEXISTÊNCIA DE OMISSÃO. IMPOSSIBILIDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Os embargos de declaração constituem recurso de estreitos lindes, porque se destinam a aclarar e integrar o acórdão, em caso de vícios de omissão, contradição, ambiguidade e obscuridade, conforme estabelecido pelo artigo 619 do Código de Processo Penal.
+2. Constatada a existência de erro material no acórdão quanto à localização da FAP do embargante nos autos, necessária se faz a sua correção.
+3. Inexistindo omissão quanto ao reconhecimento dos maus antecedentes do paciente, o não provimento dos embargos neste ponto é medida que se impõe.
+4. Recurso conhecido e parcialmente provido apenas para correção de erro material.
+Nesta instância superior, alega-se, em suma, que, em que pese haver antecedentes, a condenação utilizada como antecedentes, 9432/2000 ou 2000.01.1.008943-2, extinta em 05/08/2011 (Documento 2 em anexo), ou seja, é bastante antiga e não denota habitualidade delitiva capaz de justificar a imposição do regime semiaberto (fl. 7).
+Afirma-se que, no caso em tela, a imposição do regime inicial semiaberto, fundamentado apenas nos antecedentes. é desproporcional, uma vez que não há nos autos elementos para justificar a fixação de um regime mais gravoso para o acusado (fl. 8).
+Aponta-se, ainda, que a existência de circunstâncias negativas não implica necessariamente na imposição de regime mais gravoso, sobretudo quando o réu é primário (fl. 11).
+Requer-se, assim, inclusive liminarmente, a fixação do regime inicial aberto.
+É o relatório.
+A insurgência não prospera.
+Prevalece neste Tribunal Superior o entendimento de que as condenações anteriores transitadas em julgado, alcançadas pelo prazo depurador de 5 anos, previsto no art. 64, I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes (HC n. 461.005/SP, Sexta Turma, Ministra Laurita Vaz, DJe 26/11/2019).
+O Supremo Tribunal Federal, no RE n. 593.818/SC, de repercussão geral, fixou a tese de que não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal (RE n. 593.818, Ministro Roberto Barroso, Tribunal Pleno, DJe 20/11/2020).
+No caso dos autos, esclarece o acórdão impugnado que a condenação definitiva utilizada em desfavor do paciente teve declarada a pena extinta, pelo cumprimento, em 5/8/2011 (fl. 457), enquanto a nova infração atribuída a ele ocorreu em 24/9/2020, portanto, quando decorrido período inferior a 10 anos, prazo que, embora considerável, não pode ser utilizado para fins de aplicação da teoria do esquecimento, de acordo com precedentes desta Corte.
+Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. DIREITO AO ESQUECIMENTO. NÃO APLICAÇÃO. TRÁFICO PRIVILEGIADO. RECONHECIMENTO. IMPOSSIBILIDADE. NÃO PREENCHIDOS OS REQUISITOS LEGAIS.
+1. Conforme a jurisprudência pacífica desta Corte Superior, as condenações atingidas pelo período depurador de 5 anos, nos termos do art. 64, I, do Código Penal, podem ser reconhecidas como maus antecedentes.
+2. A tese do "direito ao esquecimento" não deve ser aplicada em relação a feitos extintos que não possuam lapso temporal significante em relação à data da condenação, qual seja, menos de 10 anos.
+3. Tendo ocorrido a extinção da pena da condenação considerada como maus antecedentes em 2011, há menos de 10 anos da prática do novo delito, cometido em 2020, não se verifica lapso temporal suficiente para a aplicação do direito ao esquecimento. Precedentes.
+4. Quanto à terceira fase da dosimetria da pena, constatada pelas instâncias ordinárias a existência de maus antecedentes, fica afastada a possibilidade de reconhecimento do tráfico privilegiado.
+5. Agravo regimental improvido.
+(AgRg no AgRg no HC n. 698.747/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 29/3/2022, DJe de 1/4/2022 - grifo nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. MAUS ANTECEDENTES. UTILIZAÇÃO DE CONDENAÇÃO ANTERIOR ALCANÇADA PELO PERÍODO DEPURADOR. POSSIBILIDADE. TESE DEFENSIVA DO DIREITO AO ESQUECIMENTO. EXCEPCIONALIDADE NÃO VERIFICADA.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. O Supremo Tribunal Federal decidiu, em recurso extraordinário com repercussão geral, que "não se aplica aos maus antecedentes o prazo quinquenal de prescrição previsto para a reincidência (art. 64, I, do Código Penal)" (RE n. 593.818, relator ROBERTO BARROSO, Tribunal Pleno, julgado em 18/8/2020, DJe 20/11/2020).
+3. Excepcionalmente, "quando os registros da folha de antecedentes do réu são muito antigos, como no presente caso, admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento. Não se pode tornar perpétua a valoração negativa dos antecedentes, nem perenizar o estigma de criminoso para fins de aplicação da reprimenda, pois a transitoriedade é consectário natural da ordem das coisas. Se o transcurso do tempo impede que condenações anteriores configurem reincidência, esse mesmo fundamento - o lapso temporal - deve ser sopesado na análise das condenações geradoras, em tese, de maus antecedentes" (REsp n. 1.707.948/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/4/2018, DJe 16/4/2018).
+4. Na hipótese, entretanto, não obstante a falta de informações referentes ao momento da extinção da pena, não se verifica o incremento desarrazoado da pena-base pelos maus antecedentes, uma vez que a condenação anterior transitou em julgado no dia 16/9/2009 e o crime descrito na denúncia foi praticado em 15/7/2017, sendo inferior a 10 anos o intervalo entre esses dois eventos.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.915.306/RJ, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/2/2022, DJe 25/2/2022 - grifo nosso).
+Fixada essa premissa, vale ressaltar que o acórdão ora impugnado se encontra em perfeita consonância com a jurisprudência desta Corte, firmada no sentido de que a existência de circunstância judicial desfavorável, a qual embasou a exasperação da basilar, justifica a fixação do regime prisional mais gravoso, nos termos do art. 33, §§ 2º e 3º, do Código Penal (AgRg no HC n. 882.757/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/4/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique -se.
+EMENTA
+HABEAS CORPUS. AMEAÇA. MAUS ANTECEDENTES. UTILIZAÇÃO DE CONDENAÇÃO ANTERIOR ALCANÇADA PELO PERÍODO DEPURADOR. POSSIBILIDADE (RE N. 593.818/SC) . TESE DEFENSIVA DO DIREITO AO ESQUECIMENTO. EXCEPCIONALIDADE NÃO VERIFICADA. REGIME MAIS GRAVOSO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FLAGRANTE ILEGALIDADE INEXISTENTE.
+Writ indeferido liminarmente.
