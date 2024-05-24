@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por COMPANHIA RIOGRANDENSE DE SANEAMENTO - CORSAN contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. SERVIÇO DE ABASTECIMENTO DE ÁGUA. CORSAN. VAZAMENTO INTERNO OCULTO. CONSUMO EXCESSIVO. REVISÃO DE FATURA. CABIMENTO. DERAM PROVIMENTO AO APELO. UNÂNIME.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 23, V, da Lei n. 11.445/2007, no que concerne à impossibilidade de redução do valor cobrado pelo serviço de abastecimento de água, uma vez que que o acórdão recorrido não observou a vigência de regulamento dos serviços de abastecimento de água e esgotamento para fins da readequação dos valores faturados, trazendo a seguinte argumentação:
+O julgado objurgado nega vigência ao artigo 23, inciso V da Lei 11.445/07, o qual prevê que a entidade reguladora será a responsável por editar normas relativas às dimensões técnicas, econômicas e sociais de prestação dos serviços públicos abrangendo medição, faturamento e cobrança de serviços:
+ ..
+Assim, é de competência da AGERGS - AGÊNCIA ESTADUAL DE REGULAÇÃO DOS SERVIÇOS PÚBLICOS DELEGADOS DO RIO GRANDE DO SUL, entidade reguladora das normas de saneamento básico, a edição e aprovação de Regulamento da Prestação dos Serviços de Abastecimento de Água e Esgotamento (RSAE).
+Contudo, a Resolução Decisória RED 467/2018 da AGERGS, em seu art. 4º, revogou a vigência da Resolução Homologatória 103/2014, aplicada no acórdão atacado, conforme trecho abaixo destacado:
+ ..
+Portanto, o artigo 119 da Resolução Homologatória 103/2014, utilizado como fundamento no acórdão acordão não está mais vigente, tendo sido substituído pelo artigo 149 do RSAE 2022, que inclusive determina recálculo por critério diferenciado e determina necessidade de procedimento administrativo prévio, que não foi realizado, in casu.
+ ..
+Deste modo, há afronta ao art.23, inciso V da Lei 11.445/07, posto que não observada vigência de regulamento dos serviços de abastecimento de água e esgotamento, com a aplicação de resolução normativa não vigente no tempo do caso concreto, sendo que houve clara substituição do cálculo para readequação dos valores faturados (fls. 274/276).
+Quanto à segunda controvérsia, a parte recorrente alega violação dos arts. 141 e 492 do CPC, no que concerne à nulidade do acórdão recorrido em razão da condenação em objeto diverso do que pedido na inicial, assim como restaram conhecidas questões não suscitadas cuja a lei exige iniciativa da parte, trazendo a seguinte argumentação:
+Ao proferir a nova decisão, a Colenda 4ª Câmara Cível, desconsiderou a regra contida no artigo 492 do CPC, uma vez que proferiu voto de natureza diversa da pedida pela parte Recorrida, condenando a Recorrente em objeto diverso do que lhe foi demandado:
+ ..
+O pedido da parte Recorrida era certo para a readequação dos valores referentes aos meses de julho (R$ 787,28), agosto (R$ 804,47) e setembro (R$ 569,97) de 2021 para o cálculo da média das doze faturas anteriores.
+Entretanto, o acórdão determinou a redução dos valores conforme prevê o artigo 119 da Resolução Homologatória 103/2014 da CORSAN (Regulamento de Serviços de Água e Esgoto da Companhia Riograndense de Saneamento - CORSAN), já revogado, nítido objeto contrário ao que lhe foi demandado.
+O próprio relator em seu no voto declara estar decidindo além do pedido da parte Recorrida, uma vez que determina que ao caso somente seria possível a redução dos valores e não o cálculo pela média das doze faturas anteriores.
+ ..
+Portanto, resta comprovada grave afronta à dispositivo de lei federal, diante da contrariedade ao artigo 492 do Código de Processo Civil, devendo ser imposta a cassação do acórdão, retornando-se o processo ao Juízo a quo para que decida dentro dos pedidos formulados pela parte Recorrida.
+Nos mesmos moldes do artigo 492 do CPC, o decisum recorrido também afrontou a regra contida no artigo 141 do CPC, uma vez que proferiu voto de natureza diversa da pedida pela parte Recorrida, conhecendo questões não suscitadas cuja a lei exige iniciativa da parte:
+ ..
+Portanto, resta comprovada grave afronta à dispositivo de lei federal, diante da contrariedade ao artigo 141 do Código de Processo Civil, devendo ser imposta a cassação do acórdão, retornando-se o processo ao Juízo a quo para que decida dentro dos pedidos formulados pela parte Recorrida (fls. 277/278).
+É, no essencial, o relatório. Decido.
+Quanto à primeira e segunda controvérsias, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que as questões não foram examinadas pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
