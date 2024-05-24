@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO FIDIS S/A contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no qual discute sua legitimidade passiva em execução fiscal ajuizada para a cobrança de IPVA relacionado a veículo objeto de arrendamento mercantil ou alienação fiduciária.
+Com contrarrazões da parte recorrida, o recurso não foi admitido, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende a desnecessidade de exame de provas.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após reconhecer a repercussão geral no Recurso Extraordinário 1.355.870, o Supremo Tribunal Federal irá definir tese a respeito da legitimidade passiva do credor fiduciário para figurar em execução fiscal de cobrança do imposto sobre a propriedade de veículos automotores (IPVA) incidente sobre veículo objeto de alienação fiduciária (tema 1153).
+Nesse contexto, os autos devem retornar ao Tribunal de Justiça para que o recurso fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pelo Supremo Tribunal Federal, no precedente qualificado.
+Ante o exposto, determino a devolução dos autos ao Tribunal de Justiça, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida no precedente qualificado; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Fica prejudicado o Agravo em Recurso Especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO SOBRE PROPRIEDADE DE VEÍCULO AUTOMOTOR - IPVA. ARRENDAMENTO MERCANTIL. RESPONSABILIDADE TRIBUTÁRIA DA INSTITUIÇÃO FINANCEIRA. TEMA A SER DEFINIDO PELO SUPREMO TRIBUNAL FEDERAL EM PRECEDENTE QUALIFICADO. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. AGRAVO EM RECURSO ESPECIAL PREJUDICADO.
