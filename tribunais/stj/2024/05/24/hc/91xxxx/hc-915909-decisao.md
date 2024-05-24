@@ -1,0 +1,8 @@
+DECISÃO
+LUCAS CAMARGO LARRETO alega ser vítima de constrangimento ilegal em decorrência da demora no julgamento do recurso em sentido estrito pelo Tribunal de Justiça do Estado do Rio Grande do Sul, já que se encontra preso mesmo diante de grave situação de calamidade pública que se encontra aquele Estado, motivo pelo qual pleiteia a revogação da preventiva.
+De início, observo que exame dessa questão aparentemente nem sequer foi submetido ao Tribunal de origem, situação que consubstanciaria em supressão de instância, máxime se levado em conta que a acusação que pesa sobre o paciente é por crimes gravíssimos (sequestro e cárcere privado, homicídio qualificado tentato, porte de arma de fogo de uso restrito e associação criminosa) e a decisão que manteve a constrição (fls. 86-87), no particular, assinalou a gravidade concreta dessa imputação, revelada pelo modus operandi com que praticados os crimes.
+Além disso, embora haja sido juntada a decisão que indeferiu o pedido de liberdade provisória, não foi trazido pela defesa a cópia da que decretou a medida coercitiva, situação que também impede o exame fidedigno da controvérsia.
+A possibilidade de se impetrar habeas corpus, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que permitam avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, relator Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+À vista d o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
