@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por VALDECIR NEVES DA LUZ contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal Regional Federal da 4ª Região.
+Depreende-se dos autos absolvição do agravante da imputação do crime de contrabando, édito reformado pelo Tribunal Regional que deu provimento ao apelo ministerial para condená-lo à pena de 2 anos e 4 meses de reclusão, em regime aberto.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação aos arts. 344-A, §1º, e 349 do CP e 156 e 239 do CPP, aduzindo, para tanto, insuficiência probatória para condenação pelo crime de contrabando. Entende ainda que, se muito, restaria caracterizada a conduta de favorecimento real.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na ausência de prequestionamento (arts. 239 do CPP e 349 do CP) e na incidência da Súmula 7/STJ.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+As questões a serem analisadas cingem-se à (in)suficiência probatória para condenação e à caracterização (ou não) do crime de favorecimento real.
+Acerca da temática rec ursal, o Tribunal de origem assim dispôs:
+"A materialidade do delito restou demonstrada pelos elementos colhidos no Inquérito Policial nº 5011098-12.2019.4.04.7200, em espeque no Boletim de Ocorrência n. 02411.2019.00298 (Ev. 1, INQ1,  s. 5/8); no Termo de Apreensão (Ev. 1, INQ1,  . 12); no Auto de Infração n. 0920380-35803/2019, lavrado pela Delegacia da Receita Federal em Joaçaba (Ev. 2, INQ1,  s. 6 e 7), que atestam a apreensão de 1.800 (mil e oitocentos) maços de cigarro, das marcas "Classic" e "US Fox", de origem forânea e proibida internalização no território nacional.
+No que diz com a autoria, por oportuno, colho o excerto da sentença da lavra da Exma. Juíza Federal Drª Janaina Cassol Machado, que bem sintetizou a prova oral:
+ ..
+Como visto, a autoria também encontra-se perfectibilizada na prova dos autos.
+Isso porque restou demonstrado no caderno probatório que, em 10/04/2019, por volta das 15h30min, em fiscalização rotineira de tráfego realizada pela Polícia Militar, na cidade de Capinzal/SC, observou-se um veículo VW/Gol, de cor branca, que, ao notar a barreira policial, manobrou no sentido contrário da via, evadindo-se da abordagem policial inicial. Encetada breve perseguição veicular, de pronto, lograram os agentes estatais interpelar o referido automóvel, passando a abordar o condutor e proceder a vistoria do automóvel, momento em que foram encontrados em seu interior 180 (cento e oitenta) pacotes de cigarro, sendo 150 (cento e cinquenta) da marca CLASSIC e 30 (trinta) da marca US FOX, cada pacote contendo 10 (dez) maços.
+Quanto ao ponto, cabe reiterar que não se identificam nos autos quaisquer elementos que indiquem que os policiais militares que depuseram falsearam a verdade com interesse em prejudicar o réu, nem a defesa isso sugere, de modo que plenamente válidos os testemunhos, uníssonos e coesos desde a fase pré-processual.
+A respeito, a jurisprudência desta Corte:
+ ..
+Ainda, oportuno ressaltar que todos os documentos produzidos durante o procedimento administrativo vincularam o réu à apreensão dos cigarros contrafeitos, tendo sido rubricados por servidores que neles atestaram a sua fé pública.
+É cediço que, sendo relativa a presunção de legitimidade e veracidade dos atos administrativos, admite-se prova em contrário. A defesa, contudo, deixou de trazer aos autos qualquer documento ou outro elemento capaz de afastar tal presunção, prova essa que não seria de difícil produção caso as mercadorias fossem regulares.
+Registro, a propósito, o seguinte precedente do Superior Tribunal de Justiça, elucidativo pela clareza e precisão na interpretação do dispositivo legal em tela:
+ ..
+Nesse passo, verifica-se que a tese defensiva pessoal do recorrido, no sentido de que desconhecia a carga que trazia em seu veículo, não encontra amparo nos autos.
+É que não me soa crível que o réu, por ocasião do flagrante, tivesse empreendido fuga da abordagem policial sem que estivesse agindo, ainda que minimamente, de forma contrária à lei, mormente quando, inclusive, já fora condenado em outra ação penal pela prática do mesmo delito que ora se analisa - cometido em semelhantes circunstâncias ora noticiadas (processo nº 5005540-53.2019.4.04.7202)-, sendo descabida a tese de que, quando novamente surpreendido na prática delitiva que reitera, não fosse, de fato, o transportador dos cigarros contrafeitos.
+Não bastassem os elementos já apontados, apenas por complemento, não restam dúvidas de que, ao aceitar receber o referido veículo já carregado, como alegou, aderiu o réu voluntária e conscientemente à conduta do suposto real proprietário/importador e, desse modo, agiu, se não com dolo direto, ao menos com dolo eventual, prestando auxílio crucial para a execução da empreitada criminosa, de modo que deve sujeitar-se às penas cominadas ao delito a ele imputado, nos termos do art. 29 do Código Penal.
+Não é em outro sentido a jurisprudência deste Tribunal:
+ ..
+Dessa forma, de rigor a condenação do apelado como incurso no artigo 334-A, caput, do Código Penal. Passo à dosimetria da pena" (fls. 302-310).
+Como se denota, o Tribunal de origem, ao aprecia r os elementos de prova constituídos nos autos, entendeu pela suficiência probatória quanto à autoria e à materialidade delitiva, concluindo, assim, pela condenação pelo crime de contrabando.
+Entender de modo diverso ao que estabelecido pelo eg. Tribunal de origem para se concluir pela insuficiência probatória para condenação demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, "Para rever a conclusão das instâncias ordinárias acerca da ocorrência delitiva, respaldada não apenas nos laudos médico-periciais, mas também nos depoimentos da vítima e das demais testemunhas, a fim de fazer prevalecer a tese absolutória por insuficiência probatória, seria necessário amplo revolvimento fático-probatório, expediente vedado nos termos da Súmula n. 7 deste Superior Tribunal de Justiça" (AgRg no AREsp n. 2.234.306/GO, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+E mais: AgRg no AREsp n. 2.411.861/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023; e AgRg no AgRg no AREsp n. 2.284.557/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/9/2023, DJe de 3/10/2023.
+No mais, quanto aos arts. 239 do CPP e 349 do CP, é impossível a análise desse pleito, pois a matéria, nos termos em que alegada no apelo nobre, não foi objeto de debate no Tribunal de origem, quando do julgamento da apelação criminal, nem mesmo a Defesa opôs embargos de declaração, o que inviabiliza o conhecimento do pedido em sede de recurso especial, devido à ausência de prequestionamento, acarretando a incidência dos óbices contidos nas Súmulas n. 282 e 356, ambas do Supremo Tribunal Federal, respectivamente:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada";
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA E SONEGAÇÃO TRIBUTÁRIA. PRETENSÃO DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL. FALTA DE PREQUESTIONAMENTO DA QUESTÃO. SÚMULA N. 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CONSUNÇÃO ENTRE OS CRIMES DOS ARTS. 337-A, III DO CÓDIGO PENAL - CP E 1º, I, DA LEI N. 8.137/90. NÃO CABIMENTO. CRIMES AUTÔNOMOS. APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE CONFISSÃO. ALTERAÇÃO DEMANDA ANÁLISE DE PROVA. ÓBICE DA SÚMULA N. 7 DO STJ. PRETENSÃO DE REDUÇÃO DA PENA-BASE NO MÍNIMO LEGAL. EXASPERAÇÃO DA PENA AMPARADA EM ELEMENTO CONCRETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegada violação ao art. 28-A do Código de Processo Penal - CPP não foi debatida no acórdão recorrido, não merecendo ser conhecida no apelo raro. Incidência da Súmula n. 211 do Superior Tribunal de Justiça.
+ ..
+5. Agravo regimental desprovido." (AgRg no REsp n. 2.047.314/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024)
+" ..
+3. A arguida inobservância da cadeia de custódia não foi objeto de análise pelo acórdão recorrido, inexistindo o requisito do prequestionamento, motivo pelo qual não pode ser analisada, ante o que preceituam as Súmulas n. 282 e 356/STF.
+ ..
+5. Agravo regimental desprovido." (AgRg no AREsp n. 2.302.743/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. INSUFICIÊNCIA PROBATÓRIA PARA CONDENAÇÃO. REEXAME FACTUAL. SÚMULA 7/STF. ARTS. 239 E 346 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
