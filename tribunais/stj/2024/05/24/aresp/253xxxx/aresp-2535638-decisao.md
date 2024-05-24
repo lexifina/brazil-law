@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Direito Empresarial. Cessão de crédito. Pretensão de compensação dos débitos. Sentença de improcedência. Recurso. Desacolhimento do pleito. Alegação de regular notificação da cessão, bem como de possibilidade da compensação dos créditos. A finalidade da notificação da cessão de crédito é, basicamente, que não haja confusão por parte do devedor quando do pagamento, isto é, que ele possa ter inequívoca ciência de a quem deve pagar. Portanto, não é necessária a concordância do devedor com a cessão de crédito, bastando sua ciência, o que, no caso em tela, resta evidenciada, considerado o documento no qual a ré, ora apelada, informa que não concorda com a compensação dos créditos.
+Instrumento de cessão de crédito formalizado em razão da precária situação financeira da ré, conforme reconhecido no próprio contrato, revelando-se inviável a compensação pleiteada, pois o seu intuito era evitar o concurso geral de credores, violando, assim, o princípio da "par conditio creditorum".
+Dessa forma, o apelante, assim como todos os outros credores do devedor falido, ressalvadas as exceções legais, que não se aplicam ao caso em tela, deverão habilitar seus créditos perante o Juízo falimentar.
+Precedente citado: AgRg no AREsp 104.435/MG, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 18/12/2014.
+Desprovimento do recurso.
+Alegou-se, no especial, violação do artigo 122, II, da Lei 11.101/05, associada a dissídio jurisprudencial, sob o argumento de que, para fins de compensação de créditos, não se pode confundir "crise econômico-financeira com a eventual constatação da deterioração das condições financeiras" (e-STJ, fl. 1.228).
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local, adotando as razões lançadas pelo órgão do Ministério Público, concluiu que, "como muito bem consignou o d. Magistrado a quo, tendo o instrumento de cessão de fls. 36/43 sido formalizado em razão da precária situação financeira da ré, conforme reconhecido no próprio contrato, revela-se inviável a compensação pleiteada, pois o seu intuito era evitar o concurso geral de credores, violando, assim, o princípio da par conditio creditorum. Dessa forma, o apelante, assim como todos os outros credores do devedor falido, ressalvadas as exceções legais, que não se aplicam ao caso em tela, deverão habilitar seus créditos perante o Juízo falimentar" (e-STJ, fl. 1.180).
+Distinguir, na hipótese dos autos, se a situação era ou não de crise econômico-financeira para fins de permitir ou afastar a compensação dos créditos é intento que demanda incursão nos elementos informativos do processo, com o destaque de que os acórdãos comparados não partem da mesma base fática, na exata medida em que um, o recorrido, concluiu pelo estado de crise e que a formação de crédito tinha intuito de fraudar o concurso de credores e outro, paradigma, não.
+Inequívoca, pois, a incidência do verbete n. 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
