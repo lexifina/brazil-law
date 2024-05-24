@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por FRA FRANCHISING LTDA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. Confissão de dívida. Hipótese em que a r. decisão agravada arbitrou honorários advocatícios em 10% sobre o valor atualizado do débito exequendo, na forma da disposição contida no art. 827, do CPC. Consideração de que, sendo trazida a juízo a controvérsia, são devidos pelo executado apenas os honorários advocatícios arbitrados pelo juiz. Verba honorária contratual corretamente desconsiderada. Decisão mantida. Recurso improvido" (fl. 105 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 115/118 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, § 1º, IV, V e VI, 1.022, I, II e III, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(ii) art. 190 do Código de Processo Civil - porque o acórdão recorrido nega a validade e eficácia ao negócio processual pactuado entre as partes no tocante à fixação dos honorários advocatícios de execução .
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Na origem, trata-se de agravo de instrumento contra decisão que, em execução de título extrajudicial, arbitrou os honorários sucumbenciais em 10% (dez por cento) do valor do débito exequendo.
+O recorrente opôs embargos de declaração ao acórdão que manteve a decisão agravada, suscitando a existência de erro material, obscuridade e omissão, pois o Tribunal estadual teria partido de premissa equivocada ao entender que se pretendia a inclusão, na execução, de honorários advocatícios contratuais, quando, na realidade, trata-se da fixação de honorários advocatícios judiciais no percentual previamente convencionado pelas partes no título executivo.
+Entretanto, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à impossibilidade de cobrança de honorários convencionais no caso em apreço, os quais só seriam exigíveis na hipótese de cobrança extrajudicial ou de purgação da mora, conforme se verifica do seguinte trecho do acórdão:
+"É que não se justifica a postulação da recorrente de inclusão no valor do débito exequendo de honorários advocatícios contratuais, eis que manifesta é a abusividade da cláusula da avença que estabelece a admissibilidade do cômputo de tal verba, mesmo nas hipóteses de cobrança judicial da dívida (fls. 25, cláusula segunda, parágrafo terceiro).
+Ora, como assinalado, é abusiva a cláusula inserida no instrumento de confissão de dívida que lastreia a execução que prevê a possibilidade da cobrança de honorários advocatícios contratuais, na hipótese de inadimplemento da avença, porquanto só se justifica a exigência de verba honorária dessa natureza nos casos em que, verificada a intervenção do advogado no procedimento de cobrança, tenha sido o débito satisfeito ainda na fase extrajudicial, descabido o cômputo de honorários advocatícios contratuais sobre dívida objeto de execução contra devedor solvente, circunscrito que está tal encargo, no processo judicial, aos honorários advocatícios arbitrados pelo juiz" (fls. 105/106 e-STJ).
+Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte. (..)" (AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+No tocante à alegada ofensa ao artigo 190 do CPC, extrai-se das razões recursais que o agravante, então recorrente, não refutou o fundamento adotado pela Corte local, segundo o qual a cláusula contratual em discussão é abusiva, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confira-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.157.654/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+Ainda que assim não fosse, o acolhimento da pretensão recursal demandaria a interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do disposto da Súmula nº 5/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
