@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de e mbargos de divergência, interpostos por ALANA AMANCIO, contra acórdão da Sexta Turma que negou provimento ao agravo regimental.
+A embargante sustenta a existência de divergência entre o acórdão embargado e o aresto proferido pela Quinta Turma do Superior Tribunal de Justiça no AgRg no AREsp nº1.236.017/ES, uma vez que as conclusões dos colegiados teriam sido diferentes, embora idênticos os casos.
+Explica que, no julgado recorrido, o agravo em recurso especial foi conhecido para negar provimento ao apelo nobre, com fundamento na Súmula n. 7, STJ, e que o agravo regimental interposto contra a referida decisão foi igualmente desprovido pela mesma razão.
+Aduz, ainda, que no acórdão paradigma teria ocorrido idêntica situação fático-jurídica, todavia, a Quinta Turma desta Corte teria superado o óbice da Súmula n. 7, STJ, para apreciar o mérito do recurso especial (fls. 517-547).
+É o relatório. DECIDO.
+Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento proferido por outro órgão desta Corte. Sua finalidade consiste em eliminar o dissenso interno quanto à intepretação da lei federal e, por consequência, uniformizar a jurisprudência.
+No caso dos autos, foi negado provimento ao recurso especial com amparo na Súmula n. 7, STJ, na medida em que a análise das questões apresentadas pela defesa demandaria o reexame do conjunto fático-probatório, providência não admitida na via eleita. Confira-se trecho da decisão (fls. 444-445):
+"Verifica-se que a sentença lastreou a condenação na prova oral (depoimento da vítima e de testemunha) e em prints de conversas realizadas em aplicativos de troca de mensagens.
+Por outro lado, o acórdão, ao analisar as provas citadas, destacou que "as testemunhas ouvidas não presenciaram nenhuma ameaça e o prints colacionados aos autos não reportam ameaças, apenas xingamentos", concluindo o julgado, assim, não haver a certeza necessária para a condenação e absolvendo o acusado, com apoio no princípio do in dubio pro reo, sobretudo porque a palavra da vítima não restou corroborada pelos demais elementos de prova.
+Nesse contexto, a inversão do acórdão demanda reexame fático-probatório, incabível na via do recurso especial, consoante a Súmula 7/STJ.
+ ..
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial."
+Tal compreensão foi mantida em sede de agravo regimental, com amparo no mesmo fundamento. Assim, observo que não houve o enfrentamento do mérito do recurso especial, pressuposto de admissão dos embargos de divergência, conforme jurisprudência deste Tribunal Superior. Veja-se:
+"São inadmissíveis os embargos de divergência para discussão de questão não abordada no acórdão embargado em razão da falta de apreciação de mérito do recurso especial, situação que impede a configuração de divergência jurisprudencial. Incidência, por analogia, da Súmula n. 315 do STJ." (AgRg nos EAREsp n. 1.873.643/SC, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 15/3/2024)
+"Inarredável o óbice da Súmula n. 315 do STJ, na medida em que o acórdão embargado não examinou o mérito do recurso especial, a obstar a admissibilidade dos embargos de divergência - recurso de fundamentação vinculada e de cognição restrita -, que não se prestam à revisão do acerto ou desacerto do acórdão embargado. Não há, portanto, divergência de teses jurídicas, nos termos do art. 266, § 1.º, do Regimento Interno do Superior Tribunal de Justiça. Precedentes." (AgRg nos EAREsp n. 2.423.019/SC, Terceira Seção, Rel. Min. Teodoro Silva Santos, DJe de 7/3/2024)
+Ante o exposto, indefiro liminarmente os embargos de divergência, com fundamento no art. 266-C do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. SÚMULA N. 7, STJ. PRESSUPOSTO DE ADMISSIBILIDADE. INDEFERIMENTO LIMINAR.
