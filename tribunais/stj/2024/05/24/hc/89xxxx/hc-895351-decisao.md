@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FELIPE MORAES DE OLIVEIRA, em que se aponta como autoridade coatora a 1ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática dos delitos tipificados nos arts. 121, § 2º, incisos I e IV, 347, parágrafo único, do Código Penal, e 16, § 1º, inciso IV da Lei n. 10.826/2003, e condenado à pena de 21 anos e 6 meses de reclusão.
+A defesa alega que o paciente sofre constrangimento ilegal decorrente do excesso de prazo da custódia. Relata que esta Corte recomendou celeridade no julgamento do apelo em 3/2/2023, nos autos do HC n. 794.472/MG, mas que os autos permanecem sem modificação.
+Ressalta que não há complexidade que justifique a demora no julgamento, e que a lentidão não pode ser imputada à defesa. Destaca que ele se encontra preso há mais de 3 anos.
+Pleiteia o relaxamento da prisão preventiva, inclusive com aplicação de medidas cautelares alternativas.
+A liminar foi indeferida às e-STJ fls. 248/249.
+Informações às e-STJ fls. 254/280 e 290/322.
+O Ministério Público Federal opinou pela concessão da ordem de ofício (e-STJ fls. 326/332).
+É o relatório. Decido.
+A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+Exige-se, ainda, que a decisão esteja pautada em motivação concreta de fatos novos ou contemporâneos, bem como demonstrado o lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser assegurados às partes no curso do processo.
+Assim, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Nesse sentido:
+ .. . O excesso de prazo desproporcional, desmotivado e irrazoável para a conclusão do feito, mormente em se tratando de réu preso, não pode, em qualquer hipótese, ser tolerado. (HC n. 134.312/CE, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 22/6/2010, DJe 2/8/2010).
+Segundo se extrai dos autos, o paciente foi preso preventivamente em dezembro de 2019 e posteriormente condenado em 3/5/2022, como incurso nos crimes previstos nos artigos 121, §2º, I e IV, e 347, parágrafo único, ambos do Código Penal e artigo 16, §1º, IV, da Lei n. 10.826/2003, à pena de 21 anos e 06 meses de reclusão, negado o direito de recorrer em liberdade.
+Em visita ao site do Tribunal de Justiça de Minas Gerais é possível verificar que o recurso chegou ao Tribunal em 29/8/2022, sendo apresentadas contrarrazões em 17/5/2023. Observa-se, ainda, que, em 11/8/2023, houve despacho determinando o devido encaminhamento dos autos ao Desembargador Cooperador. Além disso, também foram juntados aos autos em 25/9/2023 diligências requeridas em 29/6/2023, qual seja, transcrição de mídias. Em 25/9/2023, foi expedido mandado de intimação do réu Jeferson Ferreira de Faria e posterior despacho, em 26/10/2023, encaminhando os autos ao Desembargador Cooperador.
+Em 9/1/2024, foi aberta vista ao Ministério Público. O parecer foi apresentado em 16/1/2024. Em 8/4/2024 o Desembargador Relator submeteu o relatório à revisão, sendo designada data para para julgamento em 11/6/2024.
+Vê-se que o recurso encontra-se na iminência do encerramento, já apto para ser julgado e estando a sessão, inclusive, já com data designada. Não se justifica, diante de tais circunstâncias, a revogação da custódia.
+Ademais, é de se considerar que o excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, com base no princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento, bem como a pena imposta na sentença condenatória. (AgRg no HC n. 681.100/PB, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/9/2021, DJe 20/9/2021).
+Na mesma direção, decidiu esta Corte que "eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória" (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+Dessa forma, ausente o injustificado excesso de prazo da custódia, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRAFICO DE DROGAS. DIRIGIR VEÍCULO AUTOMOTOR, EM VIA PÚBLICA, SEM A DEVIDA PERMISSÃO. INSTALAÇÃO OU UTILIZAÇÃO DE TELECOMUNICAÇÕES, SEM OBSERVÂNCIA DO DISPOSTO NA LEI. LESÃO CORPORAL. RECEPTAÇÃO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Esta Corte Superior é firme em salientar que o quantum de pena aplicada na sentença condenatória deve ser considerado na análise do excesso de prazo para o julgamento da apelação.
+Após regular instrução processual, o paciente foi condenado a 9 anos e 7 meses de reclusão, no regime inicial fechado, nos termos da denúncia, indeferido o direito de recorrer em liberdade.
+3. Na espécie, registre-se que há parecer da Procuradoria de Justiça juntado aos autos desde 24/1/2023, a denotar a proximidade da conclusão do julgamento. Ademais, as partes foram intimadas em 15/8/2023 "para que se manifestem acerca da prisão preventiva do réu no prazo de 5 dias".
+4. Agravo regimental não provido.
+(AgRg no HC n. 843.070 / PR, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 25/9/2023, Dje 2/10/2023).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem de habeas corpus.
+Intimem-se.
+EMENTA
