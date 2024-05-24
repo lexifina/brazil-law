@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo regimental interposto em face da decisão que concedeu em parte o habeas corpus, apenas para determinar a revogação da medida cautelar de monitoramento eletrônico (fls. 1.211-1.222).
+O agravante pretende, em suma, demonstrar as razões pelas quais a prisão preventiva deve ser revogada à sua totalidade, alegando que "as imputações contra o paciente não demonstram gravidade concreta que justifique a manutenção da prisão preventiva. Não há nos autos elementos que comprovem sua periculosidade ou risco efetivo à sociedade que justifique a segregação cautelar." (fls. 1.233-1.234).
+Aduz que "o paciente enfrenta sérios problemas de saúde, possui 73 anos de idade e é portador de patologias graves. A própria decisão reconhece a necessidade de constantes consultas e exames médicos, os quais, por vezes, não puderam ser realizados devido à dificuldade de comunicação e/ou autorização judicial" (fl. 1.234), sendo tal conjuntura suficiente para reconhecer a revogação da prisão preventiva do paciente.
+Destaca que "os fatos narrados na denúncia denotam atos que teriam sido praticados nos anos de 2003, 2004, 2006, 2011, 2014, 2015 e 2016. Ou seja, não há o preenchimento mínimo de qualquer requisito da contemporaneidade dos atos imputados para a decretação da prisão preventiva" (fl. 1.234). Requer a reconsideração ou reforma da decisão agravada de modo a ser analisado o pedido e determinada a revogação da prisão preventiva do paciente.
+Ocorre que, nos autos do RHC n. 194.537/GO, interposto pelo ora paciente impugnando a mesma decisão que decretou a prisão preventiva relativa à ação penal n. 5565138-02.2023.8.09.0044, foi encaminhada decisão da 1ª Vara dos Feitos Relativos a Delitos Praticados por Organização Criminosa e de Lavagem ou Ocultação de Bens, Direitos e Valores a esta Corte, na qual a juíza de primeira instância, em 21/5/2024, substituiu a prisão domiciliar do ora paciente por liberdade provisória, de modo que resta esvaziado o objeto do presente habeas corpus, em que se buscava a revogação da prisão preventiva.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
