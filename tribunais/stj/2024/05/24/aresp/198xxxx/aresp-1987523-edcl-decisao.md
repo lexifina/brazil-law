@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Erbe Incorporadora 019 S.A. (fls. 469-472 e-STJ), em face de decisão de minha Relatoria de fls. 460-466 e-STJ, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dei provimento a ele tão somente para excluir os lucros cessantes presumidos na hipótese.
+Em suas razões (fls. 469-472 e-STJ), a parte embargante alega que "os honorários arbitrados em segunda instância, em decorrência do parcial provimento do recurso de apelação naquela oportunidade, não foram majorados em sede recursal, de modo que não foi observada a regra prevista no artigo 85, §11, do Código de Processo Civil" (fl. 470 e-STJ).
+Argumenta que a jurisprudência é pacífica no sentido de que se faz necessária a majoração em sede recursal dos honorários fixados anteriormente, tendo em vista o trabalho adicional desenvolvido pelos patronos.
+A parte embargada foi devidamente intimada e apresentou contrarrazões às fls. 476-479 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em relação à majoração dos honorários sucumbenciais, é mister salientar que a Segunda Seção desta Corte já consolidou o entendimento de que é devida a majoração desta verba, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. HONORÁRIOS. MAJORAÇÃO. ART. 85, § 11, DO CPC. CABIMENTO. SÚMULAS Nº 284/STF E Nº 7/STJ. REVISÃO. INTUITO INFRINGENTE.
+1. A Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento de ser devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015; (b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente, e (c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+2. Não se mostra excessiva a majoração dos honorários sucumbenciais, que se deu na forma prevista no art. 85, § 11, do CPC, observados os limites fixados nos §§ 2º e 3º do mesmo dispositivo.
+3. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+4. Embargos de declaração acolhidos em parte, sem efeitos infringentes.
+(EDcl no AgInt no AREsp n. 1.844.355/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. ÔNUS DE SUBUMBÊNCIA. CUSTAS PRODESSUAIS E HONORÁRIOS ADVOCATÍCIOS. RESPONSABILIDADE INTEGRAL DA PARTE VENCIDA. HONORÁRIOS SUCUMBENCIAIS. ART. 85, § 11, DO CPC. MAJORAÇÃO. NÃO CABIMENTO. EMBARGOS ACOLHIDOS PARCIALMENTE, SEM EFEITOS INFRINGESTES.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Na hipótese de ocorrer o êxito total do recurso especial, deverá a parte vencida responder pela integralidade das custas e ônus de sucumbência.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp n. 762.075/MT, relator p/ acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe de 07/3/2019).
+4. Embargos declaratórios parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no REsp n. 1.661.913/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+Depreende-se dos julgados, assim, que não se aplica a regra do art. 85, §11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECURSO PROVIDO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. NÃO CABIMENTO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA.
+1. O STJ, sob a sistemática dos recursos repetitivos, firmou tese no sentido de que "a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo Tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação".
+2. A acórdão recorrido está em conformidade com o Tema n. 1.059/ STJ.
+Agravo interno improvido. (AgInt no AREsp n. 2.110.211/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+Na hipótese dos autos, percebe-se que o agravo foi conhecido para conhecer parcialmente do recurso especial e dar provimento a ele. Por isso, não cabe a majoração dos honorários, tal como requer a parte embargante.
+Assim, não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
