@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO ADMINSTRATIVO PARA APURAR FALTA GRAVE. INOCORRÊNCIA DE INTIMAÇÃO DA DEFENSORIA PÚBLICA. AUSÊNCIA DE AMEAÇA A DIREITO DE LOCOMOÇÃO. IMPROPRIEDADE DO REMÉDIO CONSTITUCIONAL. POSSE DE CELULAR. ALTERAÇÃO DA DATA-BASE. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO REGIMENTAL NÃO CONHECIDO .
+1. Em relação à alegação de que a Defensoria Pública deveria ter sido intimada e não advogado do Conselho Disciplinar do Presídio para defender o paciente no Processo Administrativo Disciplinar - PAD, constata-se a inexistência de constrangimento direto e concreto ao direito de ir e vir do paciente, sendo incabível a utilização do habeas corpus para finalidades outras que não seja remediar a restrição ou ameaça ilegal ao direito de locomoção. Com efeito, no caso, a Defensoria Pública está defendendo as suas prerrogativas, o que não pode ser deduzido na via eleita.
+2. De outra parte, "não se verifica ilegalidade na aplicação da falta grave, apurada por meio de processo administrativo disciplinar, com a individualização da conduta do reeducando, posse de aparelho celular, enquadrada nos artigos 39, II e V e 50, I e VI e 52, caput, todos da Lei de Execução Penal" (AgRg no HC n. 849.192/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+3. Registra-se que "nos termos do Verbete Sumular n. 534/STJ: "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração"" (AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023).
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RUI BARBOSA DA SILVA, contra decisão de minha lavra de fls. 84/90, na qual não conheci do presente habeas corpus.
+O agravante alega que a Defensoria Pública deveria ter sido intimada para defender o apenado no Processo Administrativo Disciplinar e não designado advogado do Conselho Disciplinar do Presídio.
+De outra parte, procura afastar a falta grave pela posse de aparelho celular, ou que não seja modificada a data-base para a progressão.
+Por tais razões, requer a reconsideração ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO ADMINSTRATIVO PARA APURAR FALTA GRAVE. INOCORRÊNCIA DE INTIMAÇÃO DA DEFENSORIA PÚBLICA. AUSÊNCIA DE AMEAÇA A DIREITO DE LOCOMOÇÃO. IMPROPRIEDADE DO REMÉDIO CONSTITUCIONAL. POSSE DE CELULAR. ALTERAÇÃO DA DATA-BASE. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO REGIMENTAL NÃO CONHECIDO .
+1. Em relação à alegação de que a Defensoria Pública deveria ter sido intimada e não advogado do Conselho Disciplinar do Presídio para defender o paciente no Processo Administrativo Disciplinar - PAD, constata-se a inexistência de constrangimento direto e concreto ao direito de ir e vir do paciente, sendo incabível a utilização do habeas corpus para finalidades outras que não seja remediar a restrição ou ameaça ilegal ao direito de locomoção. Com efeito, no caso, a Defensoria Pública está defendendo as suas prerrogativas, o que não pode ser deduzido na via eleita.
+2. De outra parte, "não se verifica ilegalidade na aplicação da falta grave, apurada por meio de processo administrativo disciplinar, com a individualização da conduta do reeducando, posse de aparelho celular, enquadrada nos artigos 39, II e V e 50, I e VI e 52, caput, todos da Lei de Execução Penal" (AgRg no HC n. 849.192/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+3. Registra-se que "nos termos do Verbete Sumular n. 534/STJ: "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração"" (AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023).
+4. Agravo regimental não conhecido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+De início, em relação à alegação de que a Defensoria Pública deveria ter sido intimada e não advogado do Conselho Disciplinar do Presídio para defender o paciente no PAD, constata-se a inexistência de constrangimento direto e concreto ao direito de ir e vir do paciente, sendo incabível a utilização do habeas corpus para finalidade outra que não seja remediar a restrição ou ameaça ilegal ao direito de locomoção.
+Com efeito, no caso, a Defensoria Pública está defendendo as suas prerrogativas, o que não pode ser deduzido na via eleita.
+São precedentes desta Corte Superior de Justiça:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. "OPERAÇÃO CHORUME". PRETENSÃO DE POSSE EM CARGO DE VEREADOR. AUSÊNCIA DE AMEAÇA A DIREITO DE LOCOMOÇÃO. IMPROPRIEDADE DO REMÉDIO CONSTITUCIONAL. INCOMPATIBILIDADE ENTRE O EXERCÍCIO DO CARGO E AS MEDIDAS CAUTELARES IMPOSTAS. AGRAVO DESPROVIDO.
+1. A pretensão isolada de permissão para tomada de posse em cargo de vereador foge do escopo específico e restrito do habeas corpus - e, portanto, do respectivo recurso ordinário constitucional -, qual seja, proteção contra ameaça ou lesão ao direito de locomoção.
+2. "É certo que, sendo o habeas corpus o remédio constitucional que visa resguardar a liberdade ambulatorial das pessoas nacionais ou estrangeiras em território brasileiro, não se mostra possível sua utilização para discutir outros efeitos da condenação que não importem em risco ao direito de ir e vir, como a perda do cargo público" (AgRg no HC n. 332.052/SP, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 19/2/2019, DJe de 26/2/2019).
+3. Ademais, tendo sido fixada pelo magistrado medida cautelar de vedação ao exercício de quaisquer funções públicas, inclusive de natureza política, revela-se clara a impossibilidade de investidura no cargo.
+4. Com efeito, não faria sentido que, afastado o titular do cargo exatamente em razão da existência de fundados indícios de cometimento dos crimes objeto da "Operação Chorume", fosse empossado, em seu lugar, suplente acusado nos mesmos autos por participação nos mesmos delitos.
+5. Agravo desprovido.
+(AgRg no RHC n. 170.598/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+CONSTITUCIONAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. FURTO QUALIFICADO. REPARAÇÃO DOS DANOS CAUSADOS À VÍTIMA. INVIABILIDADE EM SEDE DE WRIT. AUSÊNCIA DE CONSTRANGIMENTO AO DIREITO DE LOCOMOÇÃO. ORDEM NÃO CONHECIDA.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A via processual do habeas corpus não é adequada para impugnar a reparação civil fixada na sentença penal condenatória, com base no art. 387, inciso IV, do Código de Processo Penal, pois a sua imposição não acarreta ameaça, ainda que indireta ou reflexa, à liberdade de locomoção. Precedentes.
+3. Habeas corpus não conhecido.
+(HC n. 302.141/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/4/2016, DJe de 3/5/2016.)
+De outra parte, "não se verifica ilegalidade na aplicação da falta grave, apurada por meio de processo administrativo disciplinar, com a individualização da conduta do reeducando, posse de aparelho celular, enquadrada nos artigos 39, II e V e 50, I e VI e 52, caput, todos da Lei de Execução Penal" (AgRg no HC n. 849.192/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+Por fim, registra-se que "nos termos do Verbete Sumular n. 534/STJ: "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração"" (AgRg no HC n. 780.022/SP, relat ora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023).
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
