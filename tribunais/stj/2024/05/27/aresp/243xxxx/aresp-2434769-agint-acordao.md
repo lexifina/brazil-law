@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Rever a conclusão do Tribunal de origem quanto à ausência de responsabilidade da recorrida ensejaria, necessariamente, o reexame de toda a narrativa fática delineada na demanda, bem como das cláusulas pactuadas entre as partes, o que não se admite em sede de recurso especial, ante a teor das Súmulas 5 e 7 deste Tribunal.
+2. Consoante jurisprudência desta Corte, a incidência dos referidos enunciados constitui óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "" c"" do permissivo constitucional.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por BERNARD MARCEL BARBAN em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 616):
+APELAÇÃO. LOCAÇÃO COMERCIAL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUERES E ACESSÓRIOS. LEGITIMIDADE PASSIVA AD CAUSAM. Todos os locatários têm pertinência subjetiva para participar da ação de despejo por falta de pagamento, sendo irrelevante o fato de pertencerem à pessoa jurídica que explorava atividades no imóvel, já que o pacto fora firmado diretamente em nome dos sócios. Presença das condições da ação. COISA JULGADA. Ausência de tríplice identidade entre esta demanda e ação de co nsignação de chaves pretérita. MÉRITO. DEVER DE PAGAMENTO DOS ALUGUERES. Corré ANDRÉA que não deve ser responsabilizada pelo pagamento, uma vez que, quando da prorrogação do contrato de locação por prazo indeterminado, já havia cedido as suas quotas societárias, não tendo mais qualquer vínculo com o bem, não tendo permanecido na coisa. Pedidos julgados improcedentes em seu favor. Demais litisconsortes passivos, por sua vez, que se mantiveram na res e devem arcar com os encargos contratuais até a prolação da r. sentença que pôs fim à ação de consignação de chaves pretérita, uma vez que estabelecido, naqueles autos, o termo final da relação locatícia, com a incidência de trânsito em julgado. RECONVENÇÃO. PLEITOS INDENIZATÓRIOS. Improcedência adequadamente reconhecida. Ausência de prova de que os vícios na rede de esgoto decorreram de avaria estrutural do imóvel, o que seria imprescindível para a obtenção reparação por danos emergentes e lucros cessantes. Provas produzidas que indicam que o entupimento se deveu a conduta dos próprios locatários. Sentença irretorquível nesse tocante. RECURSO DE ANDRÉA PROVIDO E RECURSO DE RENAN E VANESSA NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 654-670), a parte recorrente sustentou violação aos arts. 13 e 56, parágrafo único, da Lei 8.245/91, alegando a responsabilidade da recorrida Andréa pelo pagamento dos alugueres, porquanto ela integrou a relação contratual de locação e inexiste qualquer contrato e/ou aditivo que a tenha excluído de sua condição de locatária.
+Apontou, ainda, divergência jurisprudencial sobre o tema.
+Oferecidas as contrarrazões às fls. 688-701 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 703-705, e-STJ), o que ensejou o manejo do presente agravo (fls. 708-717, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 755-758), este signatário negou provimento ao recurso especial em razão da incidência das Súmulas 5/STJ e 7/STJ.
+No presente agravo interno (e-STJ, fls. 762-781), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 785-801 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Rever a conclusão do Tribunal de origem quanto à ausência de responsabilidade da recorrida ensejaria, necessariamente, o reexame de toda a narrativa fática delineada na demanda, bem como das cláusulas pactuadas entre as partes, o que não se admite em sede de recurso especial, ante a teor das Súmulas 5 e 7 deste Tribunal.
+2. Consoante jurisprudência desta Corte, a incidência dos referidos enunciados constitui óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "" c"" do permissivo constitucional.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Em suas razões, o recorrente sustentou violação aos arts. 13 e 56, parágrafo único, da Lei 8.245/91, alegando a responsabilidade da recorrida Andréa pelo pagamento dos alugueres, porquanto ela integrou a relação contratual de locação e inexiste qualquer contrato e/ou aditivo que a tenha excluído de sua condição de locatária.
+Entretanto, consoante restou consignado na decisão singular, o Tribunal de origem, soberano na apreciação dos contornos fáticos e do contrato pactuado entre as partes, concluiu pela ausência de responsabilidade da recorrida Andrea, tendo em vista que ela se retirou da sociedade, não permaneceu no imóvel e não pode responder por encargos locatícios decorrentes de renovação legal à qual não deu causa.
+A propósito, confira-se (e-STJ, fl. 621):
+Meritoriamente, outrossim, compreendo que a pretensão de ANDRÉA mereça prosperar. Isso porque, de fato, o instrumento celebrado não previa renovação automática, a qual dependia de celebração de termo aditivo, conforme se extrai de fls. 08, último bloco. Não se desconhece que, nos termos do art. 56, parágrafo único da Lei nº 8.245/90, no que concerne às locações não residenciais, "findo o prazo estipulado, se o locatário permanecer no imóvel por mais de trinta dias sem oposição do locador, presumir-se-á prorrogada a locação nas condições ajustadas, mas sem prazo determinado". Ocorre que, por corolário, a locação há de se manter em relação àqueles sujeitos que permanecem no imóvel, na medida em que é o próprio ato de permanência que justifica a prorrogação do contrato no tempo por lapso indeterminado. A confirmar tal linha de raciocínio, é certo que, nas hipóteses de dissolução de casamentos e uniões estáveis, a locação prossegue automaticamente em relação aos cônjuges e companheiros que permanecem no imóvel (art. 12 da Lei do Inquilinato). Ora, presentes as mesmas razões, deve imperar o mesmo direito. Assim sendo, por analogia, é plenamente possível reconhecer que a sócia que incontroversamente não mais se manteve no imóvel não pode responder por encargos locatícios decorrentes de renovação legal à qual não deu causa, sob pena de pagar por uso e gozo de imóvel ao qual não teve acesso no período correspondente.
+Diante deste cenário, derruir as conclusões acerca da ausência de responsabilidade da recorrida Andrea ensejaria, necessariamente, o reexame de toda a narrativa fática delineada na demanda, bem como das cláusulas pactuadas entre as partes, o que não se admite em sede de recurso especial, ante a incidência das Súmulas 5 e 7 deste Tribunal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO COM CLÁUSULA COMPROMISSÓRIA ARBITRAL. COMPETÊNCIA DO JUÍZO ARBITRAL CONFIRMADA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO E NAS CLÁUSULAS CONTRATUAIS. ÓBICES DAS SÚMULAS 5 E 7 DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. A revisão do julgado recorrido exigiria o revolvimento das cláusulas pactuadas entre as partes, especialmente da cláusula décima sétima do contrato de locação, e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas n. 5 e 7 desta Corte. (..)
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1375954/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+(..)
+3.No caso, rever as conclusões do Tribunal de origem, quanto à responsabilidade pelos débitos decorrentes do contrato de locação, ensejaria, necessariamente, o reexame de toda a narrativa fática delineada na demanda, bem como das provas que instruem o processo e das cláusulas contratuais do instrumento pactuado entre as partes, o que não se admite em sede de recurso especial ante a incidência das Súmulas 5 e 7 deste Tribunal.
+4. Agravo interno provido para reconsiderar a decisão da Presidência de fls. 304-306, e-STJ e agravo em recurso especial desprovido.
+(AgInt no AREsp n. 1.908.320/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021.)
+2. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência das Súmulas 5 e 7 do STJ constitui óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentad os e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018).
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1307496/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
