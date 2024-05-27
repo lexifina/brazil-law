@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, Recurso Especial interposto por MAGNAGO & BORTOLUZZI ASSOCIADOS S/S LTDA e OUTRO, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo TRF4, que fixou os honorários advocatícios nos seguintes termos:
+Em face da sucumbência recursal, os honorários de advogado a que a embargante foi condenada restam majorados de 10% para 12% do valor atualizado da causa (CPC/2015, art. 85, §11) (fl. 234).
+Os recorrentes apontam violação dos arts. 85, § 2º, 282, § 2º, 489, II e 1.022, II, do CPC, aos seguintes fundamentos: a) o Tribunal de origem não se manifestou sobre questões essenciais ao deslinde da controvérsia, mesmo após a oposição de embargos declaratórios e b) "mesmo sendo possível aquilatar o proveito econômico obtido com a demanda, foram fixados honorários em percentual "sobre o valor atualizado da causa", afrontando a literalidade do artigo 85, § 2º, do NCPC" (fl. 371).
+Pugnam pela fixação dos honorários sobre o proveito econômico da causa.
+Proferido juízo positivo de admissibilidade pelo TRF4, os autos foram remetidos ao STJ.
+É o relatório.
+Passo a decidir.
+Quanto à alegada violação aos arts. 489 e 1.022 do CPC, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, conforme se extrai do seguinte excerto do acórdão proferido no julgamento dos embargos declaratórios (fls. 265-266):
+Inicialmente, cumpre destacar que o acórdão restou claro ao atribuir os honorários em 12% do valor atualizado da causa, razão pela qual, de imediato, não se verifica qualquer obscuridade ou omissão.
+É importante destacar que o Código de Processo Civil de 1973, aplicável ao caso, acerca do valor da causa assim dispõe:
+Seção II - Do Valor da Causa
+Art. 258. A toda causa será atribuído um valor certo, ainda que não tenha conteúdo econômico imediato.
+Art. 259. O valor da causa constará sempre da petição inicial e será:
+ ..
+Como se vê, inexiste razão para se fazer distinção conceitual entre as expressões "valor da causa" e "valor atribuído a causa", pois o valor da causa é, no dizer do diploma processual citado, o valor a ela atribuído por uma das formas prescritas nos incisos do art. 259. Superada a fase de sua fixação, por quaisquer dos critérios, isto é, atribuído um valor e não impugnado este, o que se verifica é a equivalência entre as expressões retrocitadas e não a dicotomia construída pela embargante.
+Portanto, em verdade, o provimento que deseja a embargante é a modificação do julgado. Sob a justificativa de que o valor da causa atribuído aos embargos à execução, julgados integralmente improcedentes, foram incorretamente informados na petição inicial, não traduzindo o proveito econômico visado com a ação, pretende a embargante, a destempo, que se modifique este valor em sede de embargos de declaração.
+Ora, para este fim, o remédio processual adequado é a tempestiva impugnação do valor da causa nos termos do art. 261 do CPC/1973, não havendo que se falar em omissão, contradição ou obscuridade no julgamento.
+Como se vê, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Concorde-se ou não com o resultado do julgamento, não se pode falar que o acórdão é omisso, porque a solução apresentada resolveu suficientemente a questão.
+Na jurisprudência do STJ:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Ademais, a Corte a quo expressamente decidiu a questão relativa aos honorários advocatícios, asseverando que descabe a modificação do julgado quanto ao ponto, pois o que pretende a parte recorrente é, em verdade, impugnar o valor da causa, o que não foi feito no momento oportuno, conforme disposto no art. 261 do CPC/1973.
+Os recorrentes não impugnaram o fundamento acima mencionado, limitando-se a defender a tese de que os honorários deveriam ser fixados levando-se em consideração o proveito econômico da demanda, o que atrai o óbice da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DO ACÓRDÃO. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. CONCURSO PÚBLICO. PROVA OBJETIVA. CORREÇÃO PELA VIA JUDICIAL. IMPOSSIBILIDADE COMO REGRA GERAL. INCURSÃO NO MÉRITO ADMINISTRATIVO. PRECEDENTES.
+(..).
+3. No caso concreto, ao se limitar a reiterar as teses defendidas na exordial e não se dirigir à argumentação adotada no acórdão combatido para denegar a ordem, o recorrente descumpriu o ônus da dialeticidade. Portanto, a aplicação da Súmula 283 do STF à espécie, por analogia, é medida de rigor.
+4. O entendimento firmado na origem alinha-se à jurisprudência do STJ de que "é cediço que não compete ao Poder Judiciário apreciar os critérios utilizados pela Administração na atribuição de pontos nas provas, de modo que o acolhimento da pretensão mandamental, nesse ponto, implicaria adentrar o mérito administrativo, sobre o qual o Poder Judiciário não exerce ingerência" (AgInt no RMS 56.509/MG, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10.12.2018). A propósito: AgInt no RE nos EDcl no RMS 49.941/PR, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 14.6.2019.
+5. Agravo Interno não provido (AgInt no RMS n. 71.502/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/10/2023, DJe de 18/12/2023). (grifo nosso)
+Isso posto, conheço do Recurso Especial para lhe negar provimento.
+Publique-se. Intimem-se.
+EMENTA
