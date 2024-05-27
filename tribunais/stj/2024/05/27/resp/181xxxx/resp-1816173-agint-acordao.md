@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. DECRETAÇÃO DE INDISPONIBILIDADE DOS BENS DOS RÉUS. DEFINIÇÃO DO VALOR. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos em que a causa fora decidida, infirmar as conclusões do acórdão recorrido - no sentido de que "para fins de indisponibilidade dos bens, por ora, deve ser considerado como base de cálculo o valor indicado pelo Laudo Pericial da Polícia Federal como equivalente ao superfaturamento da mencionada obra, qual seja: R$ 273.609,59  ..  acrescido de multa civil de 3 vezes o valor do enriquecimento ilícito dos réus" - demandaria o reexame de matéria fática; o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+2. Agravo interno improvido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão que não conheceu do recurso especial, pela incidência da Súmula 7/STJ.
+O agravante sustenta, em síntese, que: (a) "a medida de indisponibilidade de bens objetiva apenas garantir o integral ressarcimento do dano causado ao erário pela prática da conduta de improbidade, e a condenação só será efetiva se houver a possibilidade de ressarcimento dos danos causados" (fl. 217); (b) "a preservação do interesse público e a integridade da Administração pública, bem como do Erário, ensejam a concessão de medidas protetivas cautelares, na linha de raciocínio desenvolvida pela doutrina: "..indispensável para garantir a efetividade dos princípios constitucionais da Administração Pública, por certo mais privilegiado que o direito individual que restringe"" (fl. 218); e (c) "a tese apresentada pelo Ministério Público não suscita exame probatório e se harmoniza com a pacífica jurisprudência do Superior Tribunal de Justiça" (fl. 218).
+Ao final, a parte requer a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado da Segunda Turma.
+A parte agravada não apresentou impugnação ao agravo interno.
+É o relatório.
+.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. DECRETAÇÃO DE INDISPONIBILIDADE DOS BENS DOS RÉUS. DEFINIÇÃO DO VALOR. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos em que a causa fora decidida, infirmar as conclusões do acórdão recorrido - no sentido de que "para fins de indisponibilidade dos bens, por ora, deve ser considerado como base de cálculo o valor indicado pelo Laudo Pericial da Polícia Federal como equivalente ao superfaturamento da mencionada obra, qual seja: R$ 273.609,59  ..  acrescido de multa civil de 3 vezes o valor do enriquecimento ilícito dos réus" - demandaria o reexame de matéria fática; o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+2. Agravo interno improvido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): A pretensão não merece acolhida.
+Com efeito, na origem, a parte agravada interpôs agravo de instrumento contra decisão que, nos autos de ação civil pública por ato de improbidade administrativa, ajuizada pelo agravante, deferiu o pedido de indisponibilidade dos bens dos réus.
+No acórdão objeto do recurso especial, o Tribunal de origem deu parcial provimento ao agravo de instrumento, com base na seguinte fundamentação:
+Requerem os agravantes, de forma subsidiária, seja reduzido e limitado o valor referente à indisponibilidade de bens, considerado o montante supostamente superfaturado.
+De fato, a medida de indisponibilidade dos bens deve levar em conta não o valor total pago pelos serviços da obra (R$ 936.609,36 - novecentos e trinta e seis mil seiscentos enove reais e trinta e seis centavos), mas aquele valor que importou em enriquecimento ilícito, isto é, em superfaturamento. Tal valor restou indicado em Laudo Pericial da Polícia Federal (ev. 1 - AP-INQPOL 8, fls. 147/171), que constatou "um superfaturamento devido ao pagamento por serviços não executados de R$ 273.609,59, equivalente a 41,3% do Custo de Reprodução Adotado."
+Nesta linha, tenho que procede a alegação dos agravantes, visto que a medida restritiva de indisponibilidade dos bens foi determinada a partir do montante total dos valores liberados para a obra, desconsiderando aqueles valores aplicados na construção da escola de ensino infantil, segundo os peritos da Polícia Federal, os quais não configuram superfaturamento.
+Assim, em juízo de cognição sumária, entendo que, para fins de indisponibilidade dos bens, por ora, deve ser considerado como base de cálculo o valor indicado pelo Laudo Pericial da Polícia Federal como equivalente ao superfaturamento da mencionada obra, qual seja: R$ 273.609,59 (duzentos e setenta e três mil seiscentos e nove reais e cinquenta e nove centavos).
+Desse modo, com base no que dispõe o art. 7º da Lei nº. 8.429/92, defiro a liminar para que a medida de indisponibilidade de bens observe a quantia estimada do suposto prejuízo (R$ 273.609,59 - duzentos e setenta e três mil seiscentos e nove reais e cinquenta e nove centavos) devidamente corrigido, acrescido de multa civil de 3 vezes o valor do enriquecimento ilícito dos réus (fl. 84).
+O agravante interpôs recurso especial, alegando ofensa ao art. 7º da Lei 8.429/1992, por entender, em síntese, que "o prejuízo ao erário que geraria a lesividade apta a ensejar a nulidade e o ressarcimento integral ao erário é in re ipsa, ou seja, é presumido e inexoravelmente independe de comprovação".
+Ocorre que, conforme registrado na decisão agravada, nos termos em que a questão fora decidida, infirmar as conclusões do acórdão recorrido, quanto ao efetivo valor do dano ao erário até então constatado, para fins de decretação de indisponibilidade dos bens dos réus, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Ademais, caso no curso da demanda seja apurado que o valor do dano ao erário a ser ressarcido seja superior àquele preliminarmente apurado pelo Tribunal de origem, nada impede que o agravante busque a majoração do montante objeto da medida de indisponibilidade de bens.
+Isso posto, nego provimento ao agravo interno.
