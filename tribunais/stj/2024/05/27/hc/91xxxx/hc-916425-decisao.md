@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADILSON DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) e denunciado pela suposta prática dos crimes previstos nos artigos 33 e 35 da Lei n. 11.343/2006.
+Inconformada com o decreto constritivo, a defesa, argumentando, sobretudo, o excesso de prazo da custódia cautelar, impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 17):
+EMENTA - HABEAS CORPUS - TRÁFICO DE DROGAS - REITERAÇÃO DE WRIT ANTERIOR - AUSÊNCIA DE JUSTIFICATIVA PARA A ADMISSIBILIDADE - EXCESSO DE PRAZO - AUSÊNCIA DE INÉRCIA IMPUTÁVEL AO ESTADO-JUIZ - ORDEM PARCIALMENTE CONHECIDA E DENEGADA.
+A jurisprudência do STJ sedimentou o entendimento pelo qual a mera reiteração de habeas corpus anterior não justifica o conhecimento daquele posterior, mormente quando se trata do mesmo cenário e argumentos já apreciados pelo Estado-juiz.
+A duração razoável do processo leva em consideração as especificidades e complexidade do caso, não sendo um mero cálculo matemático capaz de permitir o reconhecimento de excesso de prazo, notadamente quando o processo de origem está em regular tramitação.
+Ordem parcialmente conhecida e denegada.
+Na presente oportunidade, a defesa afirma, inicialmente, a existência de indevido excesso de prazo para a formação da culpa, na medida em que o paciente se encontra encarcerado já há mais de 8 meses, sendo que "irá aguardar durante sete meses a realização do próximo ato processual, sem motivo algum, inclusive em um procedimento especial da Lei Antitóxicos que possui um caráter mais célere." (e-STJ fl. 7).
+Sustenta a ilegalidade da segregação cautelar, ante a inexistência de fundamentação idônea para a prisão preventiva e ausência dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando a presença de condições pessoais favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita. No ponto, afirma que "o d. Juízo fundamentou a decisão em antecedentes criminais que não pertencem ao Paciente" (e-STJ fl. 8). Além disso, a quantidade de droga apreendida, por si só, não justifica a aplicação da medida extrema.
+Salienta, ainda, que "as corrés que encontravam-se na mesma situação fática e pessoal do acusado já encontram-se em liberdade, com a imposição de medidas cautelares diversas da prisão." (e-STJ fl. 8).
+Argumenta, por fim, a possibilidade de aplicação de medidas cautelares diversas da prisão, a teor do disposto no art. 319 do CPP.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura, sem prejuízo da imposição de medidas cautelares alternativas se for o caso.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+Isso porque o habeas corpus não foi devidamente instruído, uma vez que não foi colacionada peça processual indispensável à cabal compreensão da tese levantada na inicial, qual seja, a decisão que decretou a prisão preventiva do paciente. Além disso, nota-se que o decreto prisional juntado (e-STJ fls. 402/411) diz respeito a outra ação penal originária e outros réus.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca e por meio de documentos corretamente juntados, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
