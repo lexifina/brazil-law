@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Goiás cuja ementa é a seguinte:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. CONTRATO DE SEGURO. RESSARCIMENTO DE DANOS. SUB-ROGAÇÃO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. LAUDO TÉCNICO PRODUZIDO UNILATERALMENTE. AUSÊNCIA DE PROVA DO NEXO CAUSAL. IMPROCEDÊNCIA DO PEDIDO EXORDIAL. SENTENÇA REFORMADA.
+1. É aplicável o Código de Defesa do Consumidor, por força da sub-rogação pela seguradora dos direitos creditícios do consumidor. Inteligência da Súmula nº 188 do excelso Supremo Tribunal Federal.
+2. Embora a responsabilidade da concessionária de serviços públicos seja objetiva, revela-se inadmissível responsabilizá-la sem a comprovação satisfatória do nexo causal entre os danos nos equipamentos eletrônicos e o defeito na prestação dos serviços de fornecimento de eletricidade.
+3. A pretensão sustentada na simples presunção de que as descargas elétricas que alegadamente danificaram os equipamentos segurados foram conduzidas pelas redes de transmissão da concessionária não tem o condão de demonstrar a ocorrência do nexo de causalidade, até porque estas conclusões encontram amparo apenas em frágeis laudos de assistência técnica unilateralmente confeccionados e que instruem a peça exordial.
+4. Nas ações regressivas, os danos nos equipamentos dos segurados devem ser atestados por profissional com formação e capacidade técnica para tanto, a fim de conferir a certeza necessária para que o documento tenha força probante quanto ao fato constitutivo do direito da seguradora.
+5. Laudo técnico confeccionado unilateralmente, não submetido, na via administrativa, ao crivo do contraditório e da ampla defesa, não possui o condão de comprovar que o dano no equipamento foi ocasionado por oscilação na rede elétrica, sobretudo quando o equipamento avariado não foi preservado para que uma perícia judicial pudesse ser realizada sob o devido processo legal.
+6. Ausente o nexo causal, imperativa a reforma do édito sentenciai ora recorrido, que julgou procedente o pedido inicial formulado pela seguradora.
+7. APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+Em seu Recurso Especial, a agravante aponta divergência jurisprudencial e violação dos arts. 6º, VIII, do CDC, 786 do CC e 373, I, do CPC. Aduz:
+(..)
+Assim, evidente que ao revés do entendimento consignado no v. acórdão recorrido, não há como falar-se em quebra do nexo causal por unilateralidade dos laudos, haja vista que os mesmos foram suficientes para o entendimento do Magistrado.
+(..)
+Contrarrazões às fls. 1.045-1.066.
+O juízo negativo de admissibilidade do Recurso Especial (fls. 1.071-1.074) ensejou a interposição do presente Agravo.
+Contraminuta às fls. 1.090-1.102.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.4.2024.
+Inicialmente, da leitura do inteiro teor do aresto recorrido, verifica-se não ter havido manifestação do Colegiado originário sobre a tese recursal com enfoque no art. 6º, VIII, do CDC. Como não foram opostos Embargos Declaratórios com essa finalidade, configura-se a ausência do indispensável prequestionamento, o que atrai a incidência da Súmula 282 do STF.
+Quanto à alegada ofensa ao art. 786 do CC, o órgão julgador concluiu que a seguradora demandada não se desincumbiu de demonstrar o nexo de causalidade entre os danos sofridos pelos segurados e o serviço por ela prestado, ônus que lhe competia de acordo com o art. 373, I, do Código de Processo Civil. In verbis:
+A seguradora demandante, ora apelada, apresentou um conjunto de documentos para respaldar sua pretensão: i) a apólice de cada um dos sete seguros envolvidos nos sinistros elencados na inicial; ii) laudos técnicos particulares; iii) os avisos de sinistro e os respectivos relatórios de regularização; iv) orçamentos dos bens danificados; e iv) os comprovantes de pagamento de indenização aos segurados (evento nº 01, p. 16/210).
+Ocorre que, ao analisar os ditos documentos, é possível constatar que estes não esclarecem satisfatoriamente a relação causal entre os danos nos aparelhos eletrônicos e o serviço de fornecimento de energia elétrica.
+Os laudos técnicos que instruem a peça exordial (evento nº 01, p. 31, 36, 82, 105, 107, 138, 140, 142, 144, 161, 184, 185 e 208) não demonstram o nexo de causalidade suportados pelos segurados, eis que não indicam, de maneira indene de dúvidas, se as sobrecargas de energia ocorreram, de fato, em razão da má prestação de serviços da ré/apelante, CELG DISTRIBUIÇÃO S/A (CELG D).
+É possível extrair que em parcela destes laudos consta apenas a presunção de que as avarias teriam ocorrido em decorrência de oscilações de energia e/ou descargas elétricas, sendo que, vale ressaltar, em alguns deles nem isso é possível inferir. Outrossim, não há nem sequer a descrição da metodologia empregada para se chegar a essa inferência, o que inviabilize eventual refutação científica.
+Esses laudos documentais, confeccionados tanto pela seguradora quanto pelo segurado (ou por profissionais por eles contratados), não são imparciais, o que lhes retira a força probante, sobremaneira ao se confrontar com as disposições regulamentares que tratam da matéria, nas quais se prestigia o contraditório.
+Ressalto que a atual Resolução Normativa nº 1.000/2021 da Agência Nacional de Energia Elétrica (ANEEL) revogou a Resolução Normativa nº 414/2010, que estabelecia as "Condições Gerais de Fornecimento de Energia Elétrica".
+Da mesma forma, a Resolução Normativa nº 956/2021 da Agência Nacional de Energia Elétrica (ANEEL) revogou a Resolução Normativa nº 499/2012, que disciplinava o procedimento de "Ressarcimento de Danos Elétricos dos Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional".
+No que interessa, a Resolução Normativa nº 414/2010 dispunha que a concessionária somente se eximia do dever de ressarcir os danos elétricos causados em equipamentos nas seguintes hipóteses, verbis:
+(..)
+Por sua vez, e também no que interessa aos presentes autos, a Resolução Normativa nº 499/2012 estabelecia a necessidade de constatação do nexo causal, mediante averiguação da ocorrência de perturbação na rede elétrica ou qualquer evento no sistema de transmissão que pudesse ter afetado a unidade consumidora do reclamante.
+Isso, pois, não cabe ressarcimento nos casos em que o mau funcionamento não é decorrente do fornecimento de energia elétrica ou nos casos de o equipamento não ter sido disponibilizado pelo consumidor para confecção de "Laudo de Oficina" pela concessionária.
+(..)
+Não há nexo de causalidade, por exemplo, se constatada inadequação nas instalações elétricas da unidade consumidora ou, ainda, o uso incorreto do equipamento danificado, o que deve ser averiguado pela concessionária durante o procedimento administrativo de ressarcimento.
+Com efeito, e à luz desse arcabouço normativo, nota-se que o consumidor sempre esteve sujeito a fornecer o bem danificado, de modo a possibilitar à concessionária a elaboração de exame técnico pericial, viabilizando-lhe averiguar e, eventualmente, afastar o nexo causal.
+A avaliação tem por fim certificar se o dano é proveniente do sistema de transmissão de rede elétrica ou se decorreu de perturbação na rede elétrica da própria unidade consumidora.
+É que a mera apresentação de laudos técnicos produzidos unilateralmente, per si, não tem o condão de provar que os equipamentos foram danificados em virtude de oscilação do sistema de transmissão de energia elétrica da concessionária.
+A seguradora não demonstrou haver disponibilizado, à concessionária, acesso aos equipamentos danificados para a produção de prova técnica qualificada, necessária à comprovação de que não houve, por exemplo, adulteração nestes equipamentos e/ou utilização inadequada, bem como para investigar a existência ou não do nexo de causalidade.
+Nesse contexto, a seguradora autora diz ter indenizado os segurados pelos sinistros ocorridos em virtude de descarga elétrica, mas, antes de cobrir o dano, não se acautelou na forma devida no gerenciamento de risco.
+A seguradora intenta fugir da álea característica do contrato para receber 2 (duas) vezes: o prêmio do segurado e a indenização da concessionária de energia elétrica, sem se atentar aos requisitos da prova do nexo causal.
+A jurisprudência majoritária deste egrégio Tribunal de Justiça, a que passo a endossar em observância ao dever de coerência e integridade, é no sentido da imprestabilidade da prova unilateral, bem como pela necessidade de a seguradora viabilizar, à concessionária, o acesso aos equipamentos danificados para produção de prova técnica por profissional especializado.
+A prova documental que instrui a inicial (laudos técnicos e orçamentos unilaterais), elaborada, ressalto, de acordo com as informações prestadas pelos próprios segurados, sem a observância do contraditório e da ampla defesa, não se mostra hábil para comprovar o nexo de causalidade entre os danos apontados e as supostas descargas elétricas ocorridas na rede pública de energia elétrica.
+A tentativa de modificar o quadro fático para alterar o que foi decidido pelo Tribunal a quo - senhor da análise probatória - perpassa pela necessidade de fixar premissa diversa da que foi estabelecida no aresto impugnado, o que é obstado pela Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL OBJETIVA DA CONCESSIONÁRIA. NEXO DE CAUSALIDADE. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. REDUÇÃO DO QUANTUM DEVIDO A TÍTULO DE REPARAÇÃO DO DANO MORAL. IMPOSSIBILIDADE. ARBITRAMENTO RAZOÁVEL E PROPORCIONAL. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7 DESTA CORTE.
+1. Observa-se da leitura do Voto condutor que as conclusões nele registradas foram obtidas com base no acervo de fatos e provas dos autos. A partir desses elementos, a Corte estadual confirmou a responsabilidade civil da parte Agravante atribuindo-lhe o dever de indenizar e de reparar o dano acometido às partes Agravadas.
+2. A tentativa de modificar o quadro fático para alterar o resultado do julgamento, conforme estabelecido pelo Tribunal a quo - senhor da análise probatória -, perpassa pela necessidade de fixar premissa diversa da que consta do aresto impugnado.
+3. Nessa linha, para aferir se a concessionária é ou não responsável pelo dano material e moral em questão, necessário seria revolver o acervo fático-probatório dos autos, o que é inviável diante da incidência do Enunciado da Súmula 7 desta Corte.
+4. Do mesmo modo, verifica-se que a busca pela revisão do quantum devido à título de reparação de dano moral, decorrente do óbito da vítima, não comporta, via de regra, redução ou majoração do valor nesta esfera judicial.
+5. A utilização da excepcionalidade, que confere o afastamento do óbice sumular 7 do STJ, não se enquadra no caso dos autos, uma vez que a Corte de origem com base nas circunstâncias fáticas apuradas em juízo, reduziu o montante arbitrado na sentença de R$ 200.000,00 (duzentos mil reais) para R$ 100.000,00 (cem mil reais), a ser dividido entre a viúva e seus três filhos.
+6. Nessa esteira, não se reconhece desproporcionalidade nem irrazoabilidade no valor devido. Portanto, igualmente, inviável o apelo nobre, na medida em que alterar os fundamentos do acórdão recorrido exige reexame do conjunto fático-probatório dos autos. Novamente, aplica-se a Súmula 7/STJ.
+7. Agravo Interno não provido.
+(AgInt no AREsp 2.208.522/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27/3/2023.)
+O mesmo óbice imposto à admissão do Recurso Especial pela alínea "a" do permissivo constitucional impede o conhecimento da pretensão recursal fundamentada na alínea "c" e torna prejudicada a apreciação do dissídio jurisprudencial.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
