@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PROCESSO SELETIVO SIMPLIFICADO PARA O PREENCHIMENTO DE CARGOS EM COMISSÃO DE DIRETOR DE PENITENCIÁRIA. EDITAIS N.ºS01/11-SEJU E 04/11-SEJU. PEDIDOS DE RECONHECIMENTO DA NULIDADE DO CERTAME E DE REPETIÇÃO DE SUA 5ª. ETAPA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. PRAZO DE VALIDADE DO PROCEDIMENTO SELETIVO SUPERADO. LEGISLAÇÃO ESTADUAL QUE ALTEROU A AUTORIDADE RESPONSÁVEL PELA INDICAÇÃO DOS DIRETORES DE PRESÍDIO. AUSÊNCIA DE UTILIDADE DO PRONUNCIAMENTO JURISDICIONAL. DANOS MORAIS E MATERIAIS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE CONDUTA ANTIJURÍDICA E DE EFETIVO DANO. ADMINISTRAÇÃO PÚBLICA QUE AGIU DE ACORDO COM AS REGRAS EDITALÍCIAS. EXTINÇÃO DE PARTE DO PROCESSO, SEM RESOLUÇÃO DEMÉRITO. RECURSO DESPROVIDO.
+Os Embargos de Declaração foram rejeitados.
+As partes agravantes, nas razões do Recurso Especial, sustentam que ocorreu violação dos arts. 2º, 6º, 50 e 54 da Lei 9784/1999 e 85, §§ 2º e 8º, do CPC. Aduz:
+Cumpre destacar que os ora recorrentes arguiram por diversas vezes a existência de ofensa à Lei 9784/99 e ao COC 2015, o que, entretanto, fora simplesmente afastado pelas decisões antecedentes nesses autos.
+A decisão recorrida arguiu a inexistência de ilegalidades no processo seletivo, ao argumento de que o edital pautou-se em critérios objetivos, os quais foram seguidos pela Comissão. Contudo, a decisão merece reforma, especialmente diante das várias ofensas aos princípios da Administração Pública elencados.
+Os mencionados dispositivos legais ARTIGOS 2, º, 6º, 50 e 54 da Lei n. 9784/99 resguardam o direito de todos à ocupação do cargo público e impõe ao Poder Público a proteção destes direitos de acordo com a legalidade, impessoalidade, moralidade e publicidade.
+Contrarrazões apresentada às fls. 1.362-1.375.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.4.2024.
+O TJPR, na decisão de inadmissibilidade, afirmou a incidência dos seguintes óbices: vedação à análise de dispositivo constitucional, Súmula 211/STJ, Súmula 282/STF e Súmula 83/STJ.
+Nas razões do Agravo, verifica-se que a parte agravante deixou de impugnar especificadamente os seguintes pontos: vedação à análise de dispositivo constitucional e Súmula 83/STJ, limitando-se a reafirmar os argumentos do Recurso Especial.
+Incide, por analogia, a Súmula 182/STJ, assim como o art. 932, III, do CPC, porquanto a parte agravante não atacou especificamente todos os fundamentos da decisão agravada.
+Registre-se que tal entendimento foi recentemente mantido, pela Corte Especial do STJ, em 19/9/2018, no julgamento dos EAREsp 701.404/SC, EAREsp 746.775/PR e EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, DJe de 30/11/2018. Se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, tanto o art. 544, § 4º, I, do CPC/1973, quanto o art. 932, III, do CPC/2015 determinam a necessidade de impugnação específica dos fundamentos da decisão de inadmissibilidade do Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais. Pois, admitindo-se que a não impugnação específica de um dos pontos pudesse ensejar o conhecimento dos demais controvertidos, incorrer-se-ia no julgamento, posteriormente, no Recurso Especial, de questão contra a qual não houve irresignação (preclusa, portanto). Com efeito, "o acesso à Justiça se dá na forma disciplinada pelas leis e pela jurisprudência consolidada nos tribunais. Por isso, o cumprimento dos requisitos de admissibilidade do recurso se impõe; não por simples formalismo, mas por observância das normas legais" (AgRg no AgRg no Ag 900.380/RJ, Rel. Ministro VASCO DELLA GIUSTINA (Desembargador convocado do TJRS), TERCEIRA TURMA, DJe de 18/5/2009).
+Diante do exposto, com fulcro no art. 932, III, do Código de Processo Civil, não conheço do Agravo.
+Publique-se.
+Intimem-se.
+EMENTA
