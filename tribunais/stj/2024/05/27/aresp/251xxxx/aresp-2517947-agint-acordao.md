@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DO STJ. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. CUMPRIMENTO PROVISÓRIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO PAN S.A. contra decisão monocrática proferida pela Presidência desta Corte, que conheceu do recurso especial por entender que incide o óbice da Súmula 284 do STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+Nas razões do agravo interno, o agravante alega que o dispositivo objeto do dissídio, por óbvio, é o próprio artigo 497 do Código de Processo Civil, que, embora estabeleça que a interposição de recurso especial não impede a execução, caso proferida sentença extinguindo o cumprimento de sentença, quando pendente de julgamento de recurso, que pode ensejar a modificação do título executivo, configura evidente error in procedendo, conforme entendimento do eg. TJDFT.
+Ao final, requer a reconsideração ou a reforma da decisão agravada pela Turma Julgadora.
+Intimada, a parte agravada não apresentou manifestação (e-STJ, fl. 1016).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DO STJ. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. CUMPRIMENTO PROVISÓRIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Conforme constou na decisão agravada, o recorrente não indicou precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, de modo que incide, no caso, o óbice da Súmula 284/STF. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE AFASTADA. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 284/STF. PRETENSÃO DEDUZIDA CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO QUINQUENAL. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do recurso especial, em razão da intempestividade. Reconsideração.
+2. A ausência de indicação, associada às razões pelas quais assim entende a parte, do dispositivo legal tido por violado atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+3. O acórdão recorrido está em consonância com a jurisprudência do STJ, no sentido de que a pretensão deduzida contra a Fazenda Pública sujeita-se ao prazo prescricional de cinco anos (artigo 1º do Decreto 20.910/32).
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 1.808.839/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/11/2023, DJe de 23/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO APELO EXTREMO. INSURGÊNCIA DA AUTORA.
+1. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como violado. Incidência da Súmula 284 do STF. Precedentes.
+2. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não autoriza sua modificação em sede de recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.158.790/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023.)
+Frise-se, ademais, que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional, sendo necessário que o recorrente desenvolva argumentação que demonstre a ofensa específica aos dispositivos apontados como violados, o que não ocorreu no caso dos autos. Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONOCRÁTICA DA PRESIDÊNCIA DO STJ. PRESTAÇÃO DE SERVIÇOS. DEFEITO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DANOS MORAIS. RAZOABILIDADE E PROPORCIONALIDADE. OBSERVÂNCIA. REDUÇÃO DA INDENIZAÇÃO. SÚMULA N. 7 DO STJ. DISPOSITIVOS LEGAIS. OFENSA. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. 1.1. A alteração da conclusão do acórdão recorrido quanto ao defeito na prestação do serviço demandaria reexame da prova dos autos. 1.2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+2. Ademais, tal recurso é de fundamentação vinculada. Para seu conhecimento, é imprescindível que o recorrente desenvolva argumentação própria e associada à impugnação direta das razões de decidir do acórdão recorrido. Em respeito à dialética recursal, a parte deve demonstrar como foi contrariada a lei federal à qual foi atribuída interpretação divergente, bem como comprovar o dissídio mediante cotejo analítico entre o aresto impugnado e os paradigmas - o que não ocorreu. Não serve para tal propósito a citação inespecífica de normas, a mera transcrição de julgados ou a simples referência a razões apresentadas em recursos antecedentes.
+Aplicação, por analogia, da Súmula n. 284 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.151.353/CE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, II, E 1.022, II, DO CPC. NÃO OCORRÊNCIA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. ARGUMENTO DE VIOLAÇÃO DE NORMAS LEGAIS SEM INDIVIDUALIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO STF. TAXA SELIC. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. JUROS DE MORA. DANOS MATERIAIS. RELAÇÃO CONTRATUAL. TERMO INICIAL. CITAÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA. ART. 300 DO CPC. REQUISITOS. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489, II e 1.022, II do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Rever as convicções da corte de origem acerca da ocorrência de sub-rogação e da necessidade de liquidação da sentença demanda reexame de cláusulas contratuais e do suporte fático-probatório dos autos, o que é vedado em recurso especial, em razão da incidência das Súmulas n. 5 e 7 do STJ.
+3. O argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração da contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação (Súmula n. 284 do STF).
+4. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+5. No caso de responsabilidade civil contratual, os juros moratórios devem fluir a partir da citação.
+6. É inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão pela instância de origem a qualquer momento. Incidência, por analogia, da Súmula n. 735 do STF.
+7. Não se admite a revisão do entendimento firmado pela Corte de origem - reconhecimento da presença dos requisitos fumus boni iuris e periculum in mora - quando a controvérsia demandar a análise fático-probatória dos autos, ante a incidência do óbice da Súmula n. 7 do STJ.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.158.801/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
