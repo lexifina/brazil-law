@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ANULATÓRIA DE DÉBITO FISCAL. IPTU. ISENÇÃO FISCAL. IMÓVEL EM ÁREA DE PROTEÇÃO AMBIENTAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU QUE APENAS UMA PARCELA ÍNFIMA DO IMÓVEL POSSUI VEGETAÇÃO NATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material; afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por PASQUALE MAURO - ESPÓLIO, contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, em razão da inexistência de violação ao art. 1.022  do  CPC/2015; e pela aplicação da Súmula 7/STJ.
+Argumenta  a  parte agravante,  em  síntese:
+ ..  o v. acórdão não demonstrou os motivos que justificaram que fosse considerado o laudo produzido na esfera administrativa, produzido parcial e unilateralmente, que concluiu que a área do imóvel que faz jus a isenção é de 3%, e não os 45,85% confirmados no laudo pericial judicial, produzido sob o crivo da ampla defesa e do contraditório, em completa inobservância ao art. 479 do CPC, .. .
+Com efeito, é evidente que ao não demonstrar os motivos que levaram a desconsiderar o laudo pericial o v. acórdão carece de fundamentação, que é requisito sine qua non de sua validade, conforme professa o art. 489, II, §1º, IV, e art. 1.022, parágrafo único, II, ambos do CPC, pelo que torna-se o julgado nulo de pleno direito ante a negativa de prestação judicial (fls. 588-589).
+Defende, ainda, que "na verdade o que se busca é tão somente que, a partir do próprio acórdão, se observe as ofensas aos arts. 479 e 375 do CPC, decorrentes da circunstância que o laudo pericial concluiu que 45,84% é passível de receber incentivo fiscal, dada a presença, em grande parte, de vegetação nativa no imóvel" (fl. 591).
+Por fim, a parte pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ANULATÓRIA DE DÉBITO FISCAL. IPTU. ISENÇÃO FISCAL. IMÓVEL EM ÁREA DE PROTEÇÃO AMBIENTAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU QUE APENAS UMA PARCELA ÍNFIMA DO IMÓVEL POSSUI VEGETAÇÃO NATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material; afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação ao art. 1.022 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material; registrando as impressões acerca da elaboração do laudo no âmbito administrativo e de sua confirmação pelo laudo técnico elaborado nos autos, ponderando que a área pertence a uma área maior, objeto de exploração mineral, e que produziu grande impacto biológico negativo.
+Conforme a jurisprudência:
+Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+No mais, a alteração da conclusão do Tribunal a quo, acerca da afirmação de que o laudo judicial está em conformidade com o laudo administrativo, bem como a verificação do cumprimento dos requisitos necessários para a incidência do benefício fiscal, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido:
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial" (AgInt no AREsp 1.981.914/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Isso posto, nego provimento ao recurso.
