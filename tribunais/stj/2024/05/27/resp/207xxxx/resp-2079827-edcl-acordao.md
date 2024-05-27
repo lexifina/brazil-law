@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por PROMOVISÃO MERCADOLOGIA E COMUNICAÇÃO LTDA contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO CUJA CONCLUSÃO RESULTA DO EXAME DO ACERVO PROBATÓRIO. REVISÃO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+2. Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Com relação ao art. 333 do CPC/1973, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois, sem reexame do acervo probatório, não há como se concluir por ilegalidade do acórdão recorrido.
+4. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 3083/3097):
+Desde a sentença de primeira instância a Embargante requereu que todos os pedidos da inicial fossem apreciados, porém seu pleito foi completamente ignorado, razão pela qual insurge os presentes aclaratórios, a Embargante abarca à discussão acerca da análise dos pedidos alternativos da delimitação do período de fiscalização e das autuações aos exercícios de 2003 a 2006. Ocorre que a todo momento, desde que trouxe a discussão à baila, tem seu pedido sido completamente ignorado, como ocorreu mais uma vez no v. acórdão embargado  ..  Em tal ponto, vale rememorar que, a Embargante fez pedido alternativo, de forma expressa, para delimitação do auto de infração ao período de fiscalização autorizado pela autoridade competente. Ou seja, ao adentrar no ano de 2007, a fiscalização do Município cometeu outra ilegalidade, que até o momento foi relegada ao desconhecimento pelo Judiciário. Nobres Ministros, o Ilmo. auditor fiscal tinha autorização para fiscalizar os exercícios de 2003 a 2006, mas, sem qualquer motivação, estendeu a fiscalização para o exercício de 2007  ..  De rigor, em razão da infringência ao artigo 535 do CPC/73, o retorno dos autos à origem, para que haja decisão acerca do pedido alternativo de limitação do auto de infração ao período autorizado pela autoridade competente  ..  Não bastasse todo inconformismo exposto anteriormente, a Embargante não teve seu pleito analisado em relação quanto o ônus da prova, apesar da decisão paradigmática mencionada diversas vezes ao longo do processo, ter inclusive observados os requisitos processuais  ..  Ora, Nobres Julgadores, havendo dois municípios realizando lançamentos tributários, quando há questionamento do contribuinte confirmado por um dos municípios, ao outro cabe o ônus da prova do fato constitutivo de seu direito.
+Sem impugnação pela parte embargada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, se observado o teor do voto condutor do acórdão embargado, é possível notar o registro dos pedidos autorais, da sentença e do acórdão recorrido, cuja fundamentação, aliás, tornou desnecessária a integração pedida nos aclaratórios, daí porque se afirmou não ocorrer violação do art. 535 do CPC/1973.
+Outrossim, está expresso no acórdão embargado: "com relação ao art. 333 do CPC/1973, a par da ausência de prequestionamento explícito, pode-se inferir pelo contexto fático descrito no acórdão recorrido a inexistência de violação. Aliás, pode-se perceber não se ter determinado à parte a produção de prova relacionada a fato negativo; ao contrário, o órgão julgador a quo foi expresso e específico ao concluir pela subsistência do lançamento tributário, por arbitramento. E, nesse contexto, o conhecimento do recurso encontra mesmo óbice na Súmula 7 do STJ, pois o delineamento fático descrito no acórdão não permite a revisão de sua conclusão sem o reexame do acervo probatório".
+Portanto, não há vícios de integração a serem sanados.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
