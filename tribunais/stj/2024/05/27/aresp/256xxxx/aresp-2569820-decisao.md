@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por M.AMERICA PARTICIPAC OES LTDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO.PROMESSA DE COMPRA E VENDA. AÇÃO INDENIZATÓRIA. GRATUIDADE DA JUSTIÇA INDEFERIDA. PESSOA JURÍDICA. AUSENTE PROVA ACERCA DA NECESSIDADE DO BENEFÍCIO. SÚMULA 481 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO MONOCRÁTICA MANTIDA.
+I. O BENEFÍCIO DA GRATUIDADE DA JUSTIÇA DEVE SER CONCEDIDO À PESSOA NATURAL OU JURÍDICA, BRASILEIRA OU ESTRANGEIRA, COM INSUFICIÊNCIA DE RECURSOS PARA PAGAR CUSTAS, DESPESAS PROCESSUAIS E ATÉ HONORÁRIOS ADVOCATÍCIOS, NOS TERMOS DO ARTIGO 98 DO CPC.
+II. NOS TERMOS DA SÚMULA 481 DO SUPERIOR TRIBUNAL DE JUSTIÇA, FAZ JUS AO BENEFÍCIO DA JUSTIÇA GRATUITA A PESSOA JURÍDICA COM OU SEM FINS LUCRATIVOS QUE DEMONSTRAR SUA IMPOSSIBILIDADE DE ARCAR COM OS ENCARGOS PROCESSUAIS.
+III. EMBORA SE TRATE DE MASSA FALIDA, AUSENTE PROVA DA NECESSIDADE QUANTO AO PAGAMENTO DAS CUSTAS E HONORÁRIOS QUE A PARTE EVENTUALMENTE VENHA A SUPORTAR, IMPÕE-SE A MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO DE CONCESSÃO DA GRATUIDADE DA JUSTIÇA.
+IV. OS ARGUMENTOS UTILIZADOS PELO AGRAVANTE, NESTE RECURSO, EM NADA ACRESCENTAM OU TÊM O CONDÃO DE MODIFICAR A DECISÃO ANTERIORMENTE EXARADA, RAZÃO PELA QUAL SE DISPENSAM NOVOS FUNDAMENTOS POR PARTE DO JULGADOR.
+AGRAVO INTERNO DESPROVIDO. UNÂNIME (fl. 102).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne ao direito à gratuidade de justiça às massas falidas em razão da comprovação de sua hipossuficiência financeira, trazendo a seguinte argumentação:
+O primeiro ponto que se deve observar é que as pessoas jurídicas em questão se tratam de massas falidas, de modo que a documentação que comprova a necessidade de deferimento do pleito é diversa daquela normalmente utilizada por empresas que pleiteiam a benesse. Nesses casos, a administração da massa falida é objeto mensal de prestação de contas perante o juízo falimentar, em que é apresentada a relação completa e atualizada de ativo e passivo, incluindo as despesas adiantadas pela Administração Judicial.
+No caso das recorrentes, o incidente processual de prestação de contas tramita sob o n. 5041052-28.2020.8.21.0001. O caixa em junho/2023 da massa falida principal (Magazine Incorporações S.A.) é inferior a R$ 8.000.000,00 (oito milhões de reais), conforme extratos atualizados ora anexados ("ANEXO2").
+Apesar de, em um primeiro momento, o valor parecer expressivo, a quantia se torna ínfima quando comparada com o passivo que engloba o autointitulado "M Grupo". De acordo com a última relação de credores publicada no Diário da Justiça Eletrônico do Tribunal de Justiça do Rio Grande do Sul, ora anexada (evento n. 1 - "ANEXO2"), o quantum devido pela massa falida é superior a R$ 100.000.000,00 (cem milhões de reais).
+Ademais, em consulta à pesquisa processual disponibilizada pelo Tribunal de Justiça do Rio Grande do Sul, a listagem de processos ativos que possuem créditos ilíquidos de responsabilidade da massa falida é extensa, cuja soma do valor da causa das demandas supera a quantia de R$ 500.000.000,00 (quinhentos milhões de reais) - evento n. 1 - ANEXO3.
+ ..
+S.m.j., inexiste outra forma de comprovar a necessidade de concessão da gratuidade da justiça para massas falidas, senão pelo amplo conjunto probatório produzido, que atesta a incapacidade financeira para o adimplemento das custas processuais sem prejuízo do pagamento dos credores.
+ ..
+Portanto, a par das razões expostas, sendo evidente que o v. acórdão recorrido afrontou as disposições contidas nos artigos 98 e 99, Parágrafo 2º, ambos do Código de Processo Civil, ao indeferir o pedido de gratuidade da justiça às Massas Falidas, tem-se que o presente recurso especial deve ser recebido e provido, de modo a declarar a nulidade das decisões proferidas nos autos do agravo interno n. 5029268-04.2023.8.21.7000, com a consequente remessa ao Tribunal de Justiça do Rio Grande do Sul a fim de apreciar as razões recursais submetidas à Corte para deferir o pedido de benefício à assistência judiciária gratuita (fls. 119/122).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Adianto que não é caso de provimento do recurso. E isto porque, todas as questões referentes à concessão do benefício da gratuidade da justiça, foram por mim analisadas quando do julgamento monocrático, como segue (evento 5, DECMONO1):
+Nos termos do previsto no artigo 98 do Código de Processo Civil:
+ ..
+Assim, para a concessão da gratuidade da justiça há de vir demonstrada a alegada insuficiência, o que não ocorre, no caso.
+Analisando os documentos acostados aos autos (evento 1, ANEXO4), verifica-se que a agravante é massa falida, com ativo avaliado em R$ 6.024.834,00. Além disso, o valor das custas não é elevado (cerca de R$ 860,00).
+Ademais, é de entendimento desta Colenda Décima Sétima Câmara Cível que o fato de se tratar de massa falida não garante de pronto o benefício de gratuidade ao postulante, como segue:
+ ..
+Assim, ausente prova da necessidade do benefício quanto ao pagamento das custas e honorários que eventualmente venham a suportar na demanda, impõe-se o indeferimento do pedido de concessão de gratuidade da justiça, devendo ser mantida a decisão agravada.
+Como destacado na decisão ora agravada, apesar de agravante ser massa falida, tem ativo avaliado em R$ 6.024.834,00 e, além disso, o valor das custas não é elevado (cerca de R$ 860,00).
+Sendo assim, não demonstrada a incapacidade de suportar o pagamento das custas processuais neste feito que justifique a concessão do benefício da gratuidade da justiça.
+Os argumentos utilizados pelo agravante, neste recurso, em nada acrescentam ou têm o condão de modificar a decisão anteriormente exarada, razão pela qual se dispensam novos fundamentos por parte do julgador (fls. 99/100).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
