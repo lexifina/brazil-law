@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo  interno  (fls.  844/847)  apresentado  contra  decisão  monocrática  sintetizada  na  seguinte  ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA INDIVIDUAL. CUMPRIMENTO DE SENTENÇA. HABILITAÇÃO DE SUCESSOR. AUSÊNCIA DE PREVISÃO LEGAL DE PRAZO. INOCORRÊNCIA DE PRESCRIÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O  agravante  alega  que:
+Assim, não se manifestando sobre estes pontos, mesmo após a oposição de embargos de declaração, o v. acórdão recorrido incorreu em omissão, violando, assim, o artigo 1.022, II, do CPC. Portanto, merece reforma a r. decisão agravada.
+Ademais, a r. decisão ora agravada considerou que o acórdão recorrido está em harmonia com a orientação desta Corte, contudo, tal entendimento não merece prosperar.
+O E. Superior Tribunal de Justiça ainda não pacificou seu entendimento no sentido de confirmar a imprescritibilidade do direito dos herdeiros em cobrarem os créditos judiciais deixados por autores falecidos. Isso porque não há tese nem tema desse E. Superior Tribunal de Justiça ratificando a tese adotada pelo Tribunal de origem, nem pacificando tal questão de alta relevância para o Direito.
+  Requer  seja  provido  o  recurso.
+O agravado pugna pelo não provimento do recurso.
+É  o  relatório.  Decido.
+A  decisão  agravada  deve  ser  tornada  sem  efeito  e  os  autos  devolvidos  ao  Tribunal  de  origem.
+Com  efeito,  o  Superior  Tribunal  de  Justiça,  nos  seguintes  feitos: REsp  2034210/CE, REsp  2034211/CE  e  REsp  2034214/CE,  todos  da  relatoria  do  Ministro Humberto Martins,  submeteu  à  Corte Especial  (segundo  o  regime  dos  recursos  repetitivos)  a  seguinte  tese  controvertida  (Tema  1.254/STJ):  "Definir se ocorre ou não a prescrição para a habilitação de herdeiros ou sucessores da parte falecida no curso da ação".
+Determino,  portanto,  a  devolução  dos  autos  ao  Tribunal  de  origem,  com  a  devida  baixa  nesta  Corte,  para  que,  após  publicada  a  conclusão  do  julgamento  da  questão  afetada  como  repetitiva,  o  recurso  especial:  1)  tenha  seguimento  denegado  na  hipótese  de  o  acórdão  recorrido  coincidir  com  a  orientação  do  Superior  Tribunal  de  Justiça;  (ou)  2)  seja  novamente  examinado  pelo  Tribunal  de  origem,  na  hipótese  de  o  acórdão  recorrido  divergir  da  orientação  do  Superior  Tribunal  de  Justiça.
+Impende  salientar  que  a  jurisprudência  desta  Corte  firmou-se  no  sentido  de  ser  irrecorrível  a  decisão  que  determina  o  sobrestamento  do  feito,  no  2º  Grau,  diante  da  pendência  de  julgamento  de  recurso  representativo  da  controvérsia.  Confira-se:
+
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  SOBRESTAMENTO.  TEMA  1.076/STJ.  DEVOLUÇÃO  DOS  AUTOS  À  ORIGEM.  IRRECORRIBILIDADE.  1.  A  decisão  que  determina  a  devolução  dos  autos  à  origem,  a  fim  de  que  lá  seja  exercido  o  juízo  de  retratação  antes  da  apreciação  do  respectivo  recurso  especial  pelo  STJ,  não  possui  carga  decisória  e  não  acarreta  prejuízo  às  partes.  Por  isso,  é  provimento  irrecorrível.  Precedentes.  2.  Agravo  interno  não  conhecido.  (AgInt  no  REsp  1816085/SP,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  julgado  em  28/06/2021,  DJe  02/08/2021)
+Ante  o  exposto,  torno  sem  efeito  a  decisão  agravada  e  determino  a  devolução  dos  autos  ao  Tribunal  a  quo,  com  fulcro  no  art.  1030,  III,  do  CPC/2015,  e  256-L,  I,  do  RISTJ,  com  a  devida  baixa  nesta  Corte,  para  que  o  recurso  fique  sobrestado  aguardando  o  julgamento  do  tema  afetado,  e,  após,  sejam  adotadas  as  providências  previstas  no  art.  1040  do  CPC/2015.  Julgo  prejudicado  o  agravo  interno  de  fls.  844/847.
+Publique-se.  Intimem-se.
+EMENTA
+
+  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CUMPRIMENTO  DE  SENTENÇA.  HABILITAÇÃO  DE  SUCESSOR.  PRESCRIÇÃO.  AFETAÇÃO  DA  MATÉRIA  PARA  JULGAMENTO  SOB  A  SISTEMÁTICA  DO  ART.  1036  DO  CPC/2015.  ART.  256-L,  I,  DO  RISTJ.  DEVOLUÇÃO  DOS  AUTOS  À  ORIGEM  PARA  SOBRESTAMENTO  DO  FEITO  ATÉ  FINAL  JULGAMENTO  DO  TEMA.  AGRAVO  INTERNO  PREJUDICADO.
