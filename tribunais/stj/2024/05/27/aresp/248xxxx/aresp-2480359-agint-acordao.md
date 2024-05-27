@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. PENSÃO POR MORTE. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126/STF).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno manejado em face de decisão da Presidência sintetizada da seguinte maneira (e-STJ fl. 191):
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nas razões de agravo interno, o agravante sustenta "Ocorre que este não é o objeto do recurso. Não se pretende que a Corte Superior reveja fundamento constitucional, mas que a corte estadual realize novo julgamento, enfrentando a tese recursal sobre a preclusão da matéria. Para a Corte Superior afirmar a ocorrência da preclusão, não é necessário ater-se ao fundamento constitucional ou infirmá-lo. Não há qualquer fundamento jurídico no recurso interposto visando discutir o fundamento constitucional. Não é a fundamentação do acórdão que se combate, mas a preclusão da matéria apreciada." (fl. 200 e-STJ)
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. PENSÃO POR MORTE. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126/STF).
+2. Agravo interno não provido.
+VOTO
+O agravo não deve ser provido.
+O Tribunal de origem consignou que:
+Trata-se do entendimento firmado pela Suprema Corte no RE 561836, com repercussão geral reconhecida, no sentido de que "o término da incorporação dos 11,98%, ou do índice obtido em cada caso, na remuneração deve ocorrer no momento em que a carreira do servidor passa por uma restruturação remuneratória, porquanto não há direito à percepção ad aeternum de parcela de remuneração por servidor público " (RE 561836, Rel. Min. LUIZ FUX, Tribunal Pleno, julgado em 26/09/2013, DJe 10-02- 2014).
+Desse modo, há possibilidade de limitação temporal, sendo o termo ad quem da incorporação a data de implantação da reestruturação remuneratória (RE 580927-ED, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 17/02/2017, DJe 14-03-2017; RE 561836-ED, Rel. Min. LUIZ FUX, Tribunal Pleno, julgado em 18/12/2015, DJe 22-02-2016; REsp 1703978/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/12/2017, DJe 19/12/2017; REsp 1653048/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 18/04/2017).
+A decisão agravada não conheceu do recurso especial, pois incidiu na Súmula 126/STF, uma vez que não houve a devida interposição de recurso extraordinário, considerando o teor e fundamentação de índole constitucional esposado no aresto estadual.
+De fato, é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126/STF).
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA APRESENTADA CONTRA A DECISÃO DA PRESIDÊNCIA DO STJ QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RESP. NÃO OCORRÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 E INCIDÊNCIA DA SÚMULA 126/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em referência à alegação do ente federativo de que houve violação ao art. 1.022, II, do CPC/2015, não há o pretenso vício de fundamentação, consoante anotou a decisão da ilustre Presidência, uma vez que, no tocante à suposta alegação de violação à cláusula de reserva de plenário (art. 97 da CF/1988), o acórdão estadual esclareceu que é o caso de aplicação do Código Civil à espécie, sem que haja necessidade de incidência das normas previdenciárias (fl. 169). Assim, o acórdão não deixou de se manifestar sobre o tópico suscitado pela parte, não havendo que se falar em ofensa ao art. 1.022 do CPC/2015.
+2. Quanto ao mais, sabe-se que, havendo fundamento constitucional autônomo no aresto, é necessário interposição concomitante dos recursos especial e extraordinário. No caso concreto, a unidade federativa lançou mão apenas do recurso especial, mas, por ter havido manifestação expressa do acórdão em interpretação constitucional à pretensão de pensão por morte para filho maior universitário, incide, portanto, o enunciado 126/STJ, segundo o qual é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles sufi ciente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+3. Agravo interno do ente federativo desprovido.
+(AgInt no AREsp n. 1.944.234/MA, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. AFASTAMENTO DO ÓBICE PROCESSUAL. AÇÃO CIVIL PÚBLICA. INCONSTITUCIONALIDADE DE LEI MUNICIPAL. INVIABILIDADE DE DISCUSSÃO ACERCA DE NORMA LOCAL. SÚMULA 280/STJ. FUNDAMENTO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. ALÍNEA "C" PREJUDICADA.
+1. Trata-se de Agravo Interno contra decisão monocrática da Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial ante a intempestividade.
+2. Afastado o óbice processual, passa-se ao exame do Recurso.
+3. A questão em debate envolve, na realidade, análise do disposto em legislação local, cuja apreciação por esta egrégia Corte encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário").
+4. Ademais, observa-se que o Tribunal de Justiça estadual decidiu a causa com base em argumentos constitucionais e infraconstitucionais.
+No entanto, a parte recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, perante o excelso Supremo Tribunal Federal. Dessa forma, aplica-se, na espécie, o teor da Súmula 126 do STJ, segundo a qual "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+5. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ. Ora, não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, visto que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+6. Agravo Interno provido para, reconsiderando-se a decisão das fls. 1.581-1.583, e-STJ, conhecer do Agravo para não se conhecer do Recurso Especial.
+(AgInt no AREsp n. 2.279.524/SP, relator Ministro He rman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 27/6/2023.)
+A nte o exposto, nego provimento ao agravo interno.
+É como voto.
