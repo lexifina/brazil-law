@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus, impetrado em favor de PAULO VITOR PEREIRA DE SOUZA contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Acre.
+Consta dos autos que o paciente foi preso em flagrante delito, sendo-lhe concedida liberdade provisória, como incurso, em tese, nas sanções do art. 33 da Lei n. 11.343/2006.
+Irresignada, a acusação interpôs recurso em sentido estrito ao Tribunal de origem, que deu provimento ao recurso, para decretar a prisão preventiva do paciente, nos termos do acórdão com a seguinte ementa:
+PENAL. PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. TRÁFICO DE DROGAS. REVOGAÇÃO EX OFFICIO DA PRISÃO PREVENTIVA. REFORMA DA DECISÃO. POSSIBILIDADE. PRESSUPOSTOS DA PRISÃO PREVENTIVA DEMONSTRADOS. CONTEXTO FÁTICO JUSTIFICA A NECESSIDADE DA SEGREGAÇÃO.1. Verificado que persistem os pressupostos da prisão preventiva, a reforma da decisão que revogou a segregação provisória é medida que se impõe.2. Recurso conhecido e provido.
+No presente writ, o impetrante alega a inexistência dos requisitos ensejadores da decretação da prisão preventiva, sob a premissa de que o paciente ostenta condições pessoais favoráveis e que as instâncias originárias se lastrearam em fundamentações genéricas para lastrear a segregação cautelar, de modo que as medidas cautelares alternativas seriam suficientes e adequadas ao caso concreto.
+Alega também a ausência de contemporaneidade da medida.
+Requer, ao final, a concessão da liminar, para revogar a segregação preventiva do paciente, ou conceder liberdade provisória, mediante a aplicação de medidas cautelares alternativas.
+É o breve relatório.
+Decido.
+As disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores ou a contraria.
+A propósito, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. (AgRg no HC n. 514.048/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 06/08/2019, DJe 13/08/2019)
+Como relatado, o impetrante alega a inexistência dos requisitos ensejadores da decretação da prisão preventiva, sob a premissa de que o paciente ostenta condições pessoais favoráveis e que as instâncias originárias se lastrearam em fundamentações genéricas para lastrear a segregação cautelar, de modo que as medidas cautelares alternativas seriam suficientes e adequadas ao caso concreto.
+Alega também a ausência de contemporaneidade da medida.
+A prisão cautelar deve ser considerada exceção, já que, por meio desta medida, priva-se o réu de seu jus libertatis antes do pronunciamento condenatório definitivo, consubstanciado na sentença transitada em julgado. É por isso que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+No caso, o Tribunal de origem bem fundamentou a prisão preventiva, lastreando-se na garantia da ordem pública, ante a grande quantidade de entorpecentes apreendidos, vale dizer, 17,450 kg (dezessete quilos e quatrocentos e cinquenta gramas) de maconha.
+Assim, observa-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que demonstram a necessidade da prisão. No ponto, importante frisar que não se trata de presumir a periculosidade do agente a partir de meras ilações, conjecturas desprovidas de base empírica concreta, o que não se admite. Pelo contrário, no caso, a periculosidade decorre da grande quantidade de entorpecentes apreendidos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, as instâncias de origem justificaram a decretação da segregação cautelar da agravante na grande quantidade de droga apreendida - a saber, aproximadamente 16kg (dezesseis quilos) de cocaína -, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta. Precedentes.
+3. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Precedentes.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 902.472/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+Oportuno salientar que proferir, neste momento, juízo de prelibação acerca da adequação da conduta do paciente, demandaria reexame de matéria fática e de elementos de prova, questões que têm seu espaço de desenvolvimento próprio no curso da instrução penal. A orientação desta Corte é firme no sentido de que o habeas corpus não é cabível ao reexame da matéria fática probatória.
+Outrossim, a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+No tocante à alegada ausência de contemporaneidade da medida, considerando que o Tribunal de origem não se pronunciou sobre referido tema, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
