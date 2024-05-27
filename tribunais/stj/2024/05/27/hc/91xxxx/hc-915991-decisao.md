@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Bruno Lucas Meireles Barcelos, em razão da decisão de desembargador do Tribunal de Justiça do Espírito Santo que deferiu pedido liminar na Cautelar Inominada Criminal n. 0002603-47.2023.8.08.0000, para atribuir efeito suspens ivo ativo ao recurso em sentido estrito interposto pelo Ministério Público, restabelecendo a prisão preventiva do réu.
+Extrai-se dos autos qu e o paciente foi denunciado pela suposta prática do crime de homicídio qualificado (Ação Penal n. 0010446-66.2019.8.08.0012, em curso na 4ª Vara Criminal da comarca de Cariacica/ES).
+No presente writ, sustenta a ausência dos requisitos previstos no art. 312 do CPP, de modo que a custódia não estaria suficientemente fundamentada em elementos concretos; bem como excesso de prazo na formação da culpa, haja vista que o paciente se encontrava preso há cerca de 5 anos, sem previsão de julgamento.
+Requer, liminarmente e no mérito, seja concedida a ordem de habeas corpus, e que seja preservada a decisão de primeiro grau que, de forma fundamentada, concedeu liberdade provisória ao paciente (fl. 10).
+É o relatório.
+O presente writ não comporta conhecimento, pois impugna decisão monocrática de desembargador que deferiu pedido liminar nos autos de ação cautelar inominada, circunstância que atrai a incidência do enunciado da Súmula 691/STF, por analogia.
+Nesse sentido, Consoante o entendimento consolidado na Súmula n. 691 do Supremo Tribunal Federal, também adotado nesta Corte Superior de Justiça, não deve ser conhecido o writ impetrado contra decisão do Relator que indefere a liminar postulada em outro habeas corpus requerido na origem, sob pena de indevida supressão de instância. Tal entendimento, por analogia, também se aplica o caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada (AgRg no HC n. 884.434/PR, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024 - grifo nosso).
+Ademais, diante da ausência de manifestação da Corte a quo sobre o tema ora trazido nas r azões da inicial, fica esta Corte Superior impedida de realizar o exame direto das alegações, sob pena de se incidir em indevida supressão de instância.
+Sobre o tema, os seguintes precedentes deste Tribunal Superior: AgRg no HC n. 689.731/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/11/2021; AgRg no H C n. 697.184/SP, M inistro Reynaldo S oares da Fonseca, Quinta Turma, DJe 25/10/2021; AgRg no HC n. 6 6 5.559/ES, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 24/8/2021; e AgRg no HC n. 672.571/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe 13/8/2021.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE RELATOR QUE DEFERIU PEDIDO LIMINAR. CONCESSÃO DE EFEITO SUSPENSIVO ATIVO AO RECURSO EM SENTIDO ESTRITO EM SEDE DE CAUTELAR INOMINADA CRIMINAL PARA SUSPENDER A DECISÃO QUE CONCEDEU A LIBERDADE PROVISÓRIA. ÓBICE DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERA L. INEVIDÊNCIA DE ILEGALIDADE.
+Habeas corpus indeferido liminarmente.
