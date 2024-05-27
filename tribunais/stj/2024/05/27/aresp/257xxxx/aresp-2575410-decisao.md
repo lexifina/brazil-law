@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por SHEILA POLLIANA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 94):
+AGRAVO DE INSTRUMENTO. AÇÃO DE LOCUPLETAMENTO ILÍCITO NA FASE DE CUMPRIMENTO DE SENTENÇA. MATÉRIA PRECLUSA. Nos termos do art. 507, do CPC, é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 126/132).
+No recurso especial, alega que o acórdão contrariou as disposições contidas no artigos 833, X, do CPC, argumentando serem impenhoráveis os valores de até 40 salários mínimos existentes em cadernetas de poupança, fundos de investimentos, conta-corrente ou papel moeda.
+Foram oferecidas contrarrazões ao recurso especial (fls. 160/162), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 168/170), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 184).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem negou provimento ao recurso de apelação ao fundamento de que a alegação de impenhorabilidade dos valores encontrados em nome da ora recorrente encontra-se preclusa, tendo em vista que a matéria não foi impugnada no momento processual oportuno. Veja-se (fls. 97):
+Na hipótese, foi requerido cumprimento de sentença por parte do agravado, sendo deferido pelo magistrado (evento 83) e, após o bloqueio de parte da dívida pelo SISBAJUD, a parte executada foi intimada, tendo atravessado a petição de evento 103, asseverando que o valor penhorado era irrisório.
+Empós, o magistrado singular rejeitou a impugnação (decisão de evento 107).
+Ato contínuo, a agravante interpôs Embargos à Penhora (mov. 117), alegando que o valor foi contristado em conta poupança, portanto, impenhorável, conforme dicção do artigo 833, do CPC. O pleito foi indeferido. Vejamos:
+A impenhorabilidade do valor bloqueado é matéria preclusa, porquanto já suscitada no evento 103 e rejeitada no evento 107, não sendo possível a rediscussão e reapreciação da matéria por este juízo, tendo em vista o disposto nos artigos 505 e 507 do CPC.
+Destarte, fica mantida a decisão de evento 107.
+Intimem-se. Cumpra-se.
+Desta forma, como bem consignado na decisão fustigada, a matéria encontra-se preclusa, pois, após o bloqueio do valor nas contas da embargante, ela foi devidamente intimada e apresentou impugnação, aduzindo que o valor era irrisório, contudo, deixou de arguir acerca da impenhorabilidade da quantia, fato que impede qualquer discussão acerca da matéria.
+Com efeito, vale dizer que termos do artigo 507 do CPC, é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão, in verbis:  .. .
+Verifica-se que o art. 833, X, tido por violado, não foi objeto de debate pela Corte estadual, a despeito da oposição de embargos de declaração.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos.
+(AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Oportuno consignar que esta Corte não considera suficiente para prequestionamento que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.
+Por fim, cumpre esclarecer que o reconhecimento de eventual omissão/falta de fundamentação que pudesse justificar o retorno dos autos à origem ou considerar o prequestionamento ficto (art. 1.025 do CPC) somente seria possível se houvesse fundamentação adequada e suficiente quanto à ofensa ao art. 1.022 do CPC (antigo art. 535 do CPC/1973), o que não aconteceu na espécie.
+Nesse sentido, alguns julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISPOSITIVOS APONTADOS POR VIOLADOS NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. ENUNCIADOS N. 282 E 356 DA SÚMULA STF. DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. VERIFICAÇÃO. SÚMULA N. 7/STJ.
+1. Não houve o prequestionamento dos dispositivos tidos por violados, uma vez que não foram examinados pela Corte de origem. Incidência das Súmulas 282 e 356 do STF.
+2. Se a parte recorrente entendesse haver algum vício no acórdão impugnado, deveria ter apresentado embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. Caso persistisse tal omissão, seria imprescindível a alegação de violação do art. 1.022 do CPC, por ocasião da interposição do recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento. Incide no caso o disposto nos enunciados 282 e 356 da Súmula do STF.
+3. Quanto à distribuição do ônus da sucumbência, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.877.419/ES, relator Ministro Humberto Martins, Segunda Turma, DJe de 19/4/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INTERVENÇÃO DE TERCEIROS, NA MODALIDADE OPOSIÇÃO. NÃO CABIMENTO. RECURSO ESPECIAL IMPROVIDO. PRECEDENTES.
+SÚMULA 83/STJ
+I - Na origem, trata-se de ação de intervenção de terceiros em que se julgou extinto o processo por falta de interesse de agir.
+II - Verifica-se que a Corte de origem não analisou, ainda que implicitamente, os arts. 10 e 20 do Decreto-Lei n. 1.110/1970; 91, incisos I e II, 11, § 2º, 16, parágrafo único, 17, alínea "e", 31, incisos I, II, III e IV; 37, inciso II, 97, inciso I, e 100 da Lei n. 4.504/1 964; 50, 60, 70 e 14 da Lei n. 4.947/1966; 20, §§ 1º e 2º, 80, 90, 13, 18 e 28 da Lei n. 6.383/1976; e 13 da Lei n. 8.629/1993. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+III - Se o recorrente entendesse haver alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. Caso persistisse tal omissão, seria imprescindível a alegação de violação do art. 535 do Código de Processo Civil/73 por ocasião da interposição do recurso especial, com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento. Incide ao caso, mutatis mutandis, o disposto nos enunciados de números 282 e 356 da Súmul do STF.
+IV - A jurisprudência desta Corte, firmou entendimento no sentido de que não há como se admitir a intervenção de terceiro, postulando o reconhecimento do direito de propriedade. Precedentes: AgRg no AREsp 474.701/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/5/2015, DJe 12/2/2016; AgRg no REsp 1.389.622/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/2/2014; AgRg no REsp 1.455.320/SE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/8/2014; AgRg no REsp 1.242.937/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, , DJe 1º/8/2012; AgRg no REsp 917.816/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 19/8/2011.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.454.290/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/12/2017.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. DISPOSITIVO APONTADO POR VIOLADOS NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ . AGRAVO CONHECIDO. RECURSO ESPEICIAL NÃO CONHECIDO.
