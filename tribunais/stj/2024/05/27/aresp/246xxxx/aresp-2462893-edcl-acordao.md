@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Unimed Norte Mato Grosso Cooperativa Trabalho Médico ao acórdão da Terceira Turma desta Corte assim ementado (e-STJ, fl. 760):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO ANTINEOPLÁSICO. USO OFF-LABEL. TRATAMENTO DE DOENÇA ONCOLÓGICA COBERTA PELO CONTRATO. RECUSA INDEVIDA. PRECEDENTES. SÚMULAS 7 E 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que as operadoras de plano de saúde possuem o dever de cobertura de fármacos antineoplásicos orais, utilizados em tratamento contra o câncer.
+2. A Segunda Seção desta Corte Superior, quando do julgamento dos EREsps n. 1.889.704/SP e 1.886.929/SP, embora tenha firmado entendimento no sentido de que o rol da ANS não pode ser considerado meramente exemplificativo, ressalvou expressamente, o fornecimento dos medicamentos relacionados ao tratamento de câncer.
+3. De acordo com o entendimento do Superior Tribunal de Justiça, "é abusiva a recusa do plano de saúde quanto à cobertura de medicamento prescrito pelo médico, ainda que em caráter experimental ou fora das hipóteses previstas na bula (off label), porquanto não compete à operadora a definição do diagnóstico ou do tratamento para a moléstia coberta pelo plano contratado" (AgInt no AREsp n. 2.166.381/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+4. Na hipótese, a revisão da conclusão adotada pelo Tribunal originário - acerca da comprovação científica e aprovação do medicamento pela ANVISA desde a data de 16/12/2019 - esbarra na Súmula 7/STJ.
+5. Agravo interno desprovido.
+Em suas razões, a embargante aponta vícios na decisão embargada.
+Para tanto, aduz omissão em relação as alegações apontadas quanto a violação dos arts. 10, I, §§ 4º e 13º , da Lei n. 9.656/1998 e 4º, III, da Lei n. 9.961/2000, uma vez que o rol de procedimentos e eventos em saúde vincula as operadoras de saúde, sendo de cobertura obrigatória apenas os procedimentos e eventos ali descritos e tal situação não teria sido abordada no acórdão recorrido.
+Além disso, indicou no "Agravo Interno que o § 13 do artigo 10 da Lei nº 9.656/98 estabelece que a cobertura excepcional de tratamento fora do Rol de Procedimentos e Eventos e Saúde da Agência Nacional de Saúde Suplementar ocorrerá quando não houver substituto terapêutico ou quando esgotados os procedimentos no rol taxativo, desde que observados os requisitos ali descritos, e não havendo o preenchimento dos requisitos do § 13 não há que se falar em cobertura pelo plano de saúde" (e-STJ, fl. 777).
+A impugnação não foi apresentada, conforme certidão de fl. 783 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Dito isso, conforme devidamente esclarecido no acórdão embargado, a controvérsia do presente recurso refere-se à obrigatoriedade ou não de custeio de medicamento/tratamento indicado pelo médico assistente da parte autora, diante da natureza do Rol de Procedimentos e Eventos em Saúde da ANS, se taxativo ou exemplificativo, bem como por ser de uso "off-label".
+Dito isso, acerca do fornecimento de medicamento de uso experimental, a Segunda Seção do STJ, em julgado submetido ao rito dos recursos repetitivos, firmou entendimento no sentido de inexistir obrigação para a operadora de plano de saúde custear medicamentos importados, desprovidos de registro na Anvisa, ressalvando que, após a regularização do referido registro, não mais persistiria o direito da seguradora em recusar a cobertura do tratamento medicamentoso indicado pelo médico do paciente/segurado.
+Ademais, importa destacar que a Segunda Seção, quando do julgamento dos EREsps n. 1.889.704/SP e 1.886.929/SP, embora tenha firmado entendimento no sentido de que o rol da ANS não pode ser considerado meramente exemplificativo, ressalvou expressamente, o fornecimento dos medicamentos relacionados ao tratamento de câncer.
+Confira-se, a propósito, o seguinte trecho do voto proferido pelo em. Ministro Relator:
+9. Todavia, penso que não se devem generalizar e confundir as circunstâncias/situações.
+É oportuno salientar a ponderação acerca do rol da ANS feita pela magistrada Ana Carolina Morozowski, especialista em saúde suplementar, em seminário realizado no STJ (2º Seminário Jurídico de Seguros) em 20 de novembro de 2019, in verbis:
+Por outro lado, há categorias de produtos (medicamentos) que não precisam estar previstas no rol - e de fato não estão. Para essas categorias, não faz sentido perquirir acerca da taxatividade ou da exemplaridade do rol. As categorias são:
+a) medicamentos relacionados ao tratamento do câncer de uso ambulatorial ou hospitalar; e
+b) medicamentos administrados durante internação hospitalar, o que não se confunde com uso ambulatorial. As tecnologias do item "a" não se submetem ao rol, uma vez que não há nenhum medicamento dessa categoria nele, nem em Protocolo Clínico e Diretrizes Terapêuticas (PCDT). Existe apenas uma listagem de drogas oncológicas ambulatoriais ou hospitalares em Diretriz de Utilização da ANS, mas com o único fim de evidenciar o risco emetogênico que elas implicam, para que seja possível estabelecer qual o tratamento será utilizado contra essas reações (DUT 54, item 54.6)
+Desse modo, ao analisar a questão aduzida no agravo em recurso especial, decidiu-se por aplicar o atual entendimento jurisprudencial sobre o tema, bem como os óbices sumulares de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
