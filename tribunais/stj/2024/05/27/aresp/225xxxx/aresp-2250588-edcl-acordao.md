@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.  MATÉRIA  DE  ORDEM  PÚBLICA.  CONHECIMENTO.  IMPOSSIBILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  FUNDAÇÃO  PETROBRAS  DE  SEGURIDADE  SOCIAL  PETROS  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  ORDINÁRIA.  PREVIDÊNCIA  PRIVADA.  PREQUESTIONAMENTO.  SÚMULA  Nº  211/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  PREJUDICADA.
+1.  A  falta  de  prequestionamento  da  matéria  suscitada  no  recurso  especial,  a  despeito  da  oposição  de  embargos  de  declaração,  impede  seu  conhecimento,  a  teor  da  Súmula  nº  211/STJ.
+2.  Consoante  iterativa  jurisprudência  desta  Corte,  a  ausência  de  prequestionamento  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+3.  Agravo  interno  não  provido"  (e-STJ  fl.  1.053  ).
+
+Nas  presentes  razões,  a  embargante  sustenta  que  há  obscuridade  no  julgado.
+Impugnação  às  e-STJ  fls.  1.077/1.079 .
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.  MATÉRIA  DE  ORDEM  PÚBLICA.  CONHECIMENTO.  IMPOSSIBILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+De  fato,  a  decisão  embargada  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  art.  1.022  do  Código  de  Processo  Civil :  obscuridade,  contradição,  omissão  ou  erro  material.
+A  embargante  afirma  que  não  há  falar  em  aplicação  do  óbice  da  Súmula  nº  211/STJ.
+No  entanto,  as  matérias  referentes  aos  arts.  6º,  §  1º,  da  Lei  de  Introdução  ao  Código  Civil  Brasileiro  e  17  e  68,  §  1º,  da  Lei  Complementar  nº  109/2001  não  foram  prequestionadas  pelo  tribunal  de  origem,  de  modo  que  incide  na  espécie  a  Súmula  nº  211/STJ.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  COMPENSAÇÃO  POR  DANOS  MORAIS  E  INDENIZAÇÃO  POR  DANOS  MATERIAIS.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  211/STJ.  REEXAME  DE  FATOS  E  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  INADMISSIBILIDADE.
+1.  Ação  de  compensação  por  danos  morais  e  indenização  por  danos  materiais.
+2.  A  ausência  de  decisão  acerca  dos  dispositivos  legais  indicados  como  violados,  não  obstante  a  interposição  de  embargos  de  declaração,  impede  o  conhecimento  do  recurso  especial.
+3.  O  reexame  de  fatos  e  a  interpretação  de  cláusulas  contratuais  em  recurso  especial  é  inadmissível.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.871.  204/RJ,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  11/10/2021,  DJe  15/10/2021).
+"PROCESSUAL  CIVIL.  VIOLAÇÃO  DO  ART.  535  DO  CPC/1973.  (..).  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  211/STJ.
+(..)
+3.  É  inadmissível  Recurso  Especial  quanto  a  questão  que,  a  despeito  da  oposição  de  Embargos  Declaratórios,  não  foi  apreciada  pelo  Tribunal  de  origem.  Incidência  da  Súmula  211/STJ.
+4.  A  jurisprudência  do  STJ  firmou-se  no  sentido  de  ser  inadmissível  o  prequestionamento  ficto,  ou  seja,  não  considera  prequestionada  a  matéria  pela  simples  oposição  de  Embargos  Declaratórios.
+5.  Agravo  Interno  não  provido"  (AgInt  no  AREsp  931.048/PB,  Rel.  Ministro  HERMAN  BENJAMIN,  Segunda  Turma,  julgado  em  4/4/2017,  DJe  24/4/2017).
+Ademais,  consoante  iterativa  jurisprudência  desta  Corte,  a  ausência  de  prequestionamento  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+É  cediço  que  o  órgão  julgador  não  está  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  apenas  a  respeito  daqueles  considerados  suficientes  para  fundamentar  sua  decisão,  o  que  foi  feito.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  os  erros  materiais,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Confiram-se:
+
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  ALEGAÇÃO  DE  PUBLICIDADE  ENGANOSA.  INFORMAÇÃO  FALSA.  AFRONTA  À  BOA-FÉ.  FABRICAÇÃO  E  COMERCIALIZAÇÃO,  NO  ANO  DE  2015,  DE  DUAS  VERSÕES  DO  VEÍCULO  "IX  35"  ANO-MODELO  2015/2016.  PRIMEIRA  VERSÃO  NÃO  FOI  FABRICADA  NO  ANO  DE  2016.  CONSUMIDORES  LESADOS  EM  RAZÃO  DA  FALSA  PUBLICIDADE.  INDUÇÃO  A  ERRO.  PRINCÍPIOS  DA  BOA-FÉ  E  DA  ETICIDADE.  SUBTRAÇÃO  DAS  EXPECTATIVAS  LEGÍTIMAS  DOS  CONSUMIDORES.  OBRIGAÇÃO  DE  FAZER.  PUBLICAÇÃO  EM  DOIS  JORNAIS  DE  GRANDE  CIRCULAÇÃO  DA  PARTE  DISPOSITIVA  DO  ACÓRDÃO  EXARADO  PELO  TRIBUNAL  DE  ORIGEM.  INDENIZAÇÃO  PELOS  DANOS  MATERIAIS  DECORRENTES  DA  DESVALORIZAÇÃO  DO  VEÍCULO.  AFIRMAÇÃO.  DANO  MORAL  INDIVIDUAL  E  COLETIVO.  NÃO  CONFIGURAÇÃO.  OBRIGAÇÃO  DE  NÃO  FAZER.  ABSTENÇÃO  DE  OFERTA  DE  AUTOMÓVEIS  SOB  A  DENOMINAÇÃO  DE  MODELO  DO  PRÓXIMO  ANO  SEM  QUE  O  VEÍCULO  SEJA  FABRICADO  E  PRODUZIDO  NO  ANO  MENCIONADO.  MULTA  MONITATÓRIA  EM  CASO  DE  DESCUMPRIMENTO.  ACÓRDÃO  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  83  DO  STJ.  APLICAÇÃO.  PRETENSÃO  QUE  EXIGE  O  REVOLVIMENTO  DO  CONJUNTO  FÁTICO  E  PROBATÓRIO  DOS  AUTOS.  SÚMULA  7  DO  STJ.  INCIDÊNCIA.  AGRAVO  INTERNO  NÃO  PROVIDO.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  OU  ERRO  MATERIAL.  INEXISTÊNCIA.  EMBARGOS  REJEITADOS.
+1.  Inexistindo  omissão,  obscuridade,  contradição  ou  erro  material,  cumpre  registrar  que  os  embargos  de  declaração  não  se  não  são  via  adequada  para  a  insurreição  que  vise  a  reforma  do  julgamento.
+2.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  1.588.  036/RJ,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  24/8/2020,  DJe  31/8/2020).
+"EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  OMISSÃO,CONTRADIÇÃO  OU  OBSCURIDADE.  EMBARGOS  REJEITADOS.
+1.  Os  embargos  de  declaração  têm  como  objetivo  sanar  eventual  existência  de  obscuridade,  contradição  ou  omissão  (CPC,  art.  535),  sendo  inadmissível  a  sua  interposição  para  rediscutir  questões  tratadas  e  devidamente  fundamentadas  na  decisão  embargada,  já  que  não  são  cabíveis  para  provocar  novo  julgamento  da  lide.
+2.  Não  é  omisso  o  acórdão  que  não  aborda  as  questões  de  mérito  trazidas  em  recurso  que  nem  sequer  ultrapassa  a  barreira  do  conhecimento.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  nos  EDcl  nos  EDcl  no  AREsp  357.773/PR,  R  el.  Ministro  RAUL  ARAÚJO,  DJe  11/4/2014).
+
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
