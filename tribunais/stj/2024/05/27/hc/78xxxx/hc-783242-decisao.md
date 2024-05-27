@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (e-STJ fl. 17):
+"EMENTA PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. VIOLAÇÃO AO PRINCÍPIO DO PROMOTOR NATURAL E DO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA. JULGAMENTO MANIFESTAMENTE CONTRÁRIO À S PROVAS DOS AUTOS. INOCORRÊNCIA. ALTERNATIVAMENTE, PEDIDO DE NOVA DOSIMETRIA DA PENA. IMPOSSIBILIDADE. AUMENTO JUSTIFICADO E PROPORCIONAL. ISENÇÃO DO PAGAMENTO DE CUSTAS PROCESSUAIS. RÉU ASSISTIDO PELA DEFENSORIA PÚBLICA. IMPOSSIBILIDADE. RECURSO CONHECIDO E IMPROVIDO.
+1. A violação ao princípio do promotor natural visa a impedir que haja designação de promotor ad hoc ou de exceção com a finalidade de processar uma pessoa ou caso específico, somente configurando violação quando há lesão ao exercício pleno e independente das atribuições do representante ministerial, o que não se verificou.
+2. A fixação da pena-base acima do mínimo legal restou suficientemente fundamentada na sentença penal condenatória, em razão do reconhecimento de circunstâncias judiciais desfavoráveis, inexistindo, portanto, ilegalidade a ser sanada.
+3. De acordo com a jurisprudência do Superior Tribunal de Justiça, o réu, mesmo sendo beneficiário da assistência judiciária gratuita, deve ser condenado ao pagamento das custas processuais.
+4. Recurso conhecido e improvido."
+O paciente foi condenado à pena de 14 anos de reclusão, no regime inicial fechado, como incurso no art. 121, § 2º, IV, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao apelo.
+Nesta via, o impetrante sustenta que o aumento da pena-base é ilegítimo e desproporcional, pois levou em consideração a conduta social, em violação ao verbete n. 444 da Súmula desta Corte Superior de Justiça.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja reavaliada a dosimetria da pena cominada ao paciente.
+Liminar Indeferida (e-STJ fls. 49-50).
+Prestadas as informações (e-STJ fls. 56-84).
+O Ministério Público Federal emitiu parecer pelo não conhecimento do habeas corpus (e-STJ fls. 87-94).
+Instando a se manifestar a defesa informou que persiste interesse no prosseguimento do feito (e-STJ fl. 101).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Conforme consta na sentença condenatória, a pena-base foi majorada sob os seguintes fundamentos (e-STJ fl. 15):
+PRIMEIRA ETAPA. A culpabilidade da conduta do acusado, qual seja, o grau de reprovação frente ao bem jurídico tutelado, é normal do tipo, qual seja o intuito de tirar a vida de alguém, com a observação de ser o delito qualificado. A sua conduta social deve ser desvalorada, na medida em que há vários apontamentos nos autos de que participara de outros crimes (a sua companheira declina isso na Delegacia, além de que responde a outro feito de homicídio na 1a Vara do Júri de Teresina; também há notícias, inclusive com interceptaçâo telefônica, de que o acusado tem envolvimento com o tráfico de drogas) Não há nada nos autos que desabone os antecedentes e a personalidade. Os motivos, consequências e circunstâncias do crime não transcendem a normalidade do tipo. Não há falar sobre comportamento da vítima como fator de diminuição da reprimenda, pois o contexto está sendo analisado no âmbito da própria tipicidade.
+Pelos trechos acima destacados, verifica-se que a sentença condenatória apresentou fundamentação válida para desabonar a conduta social do paciente, tendo em vista a notícia de que o acusado teria praticado outros delitos, não sendo utilizadas anotações criminais da folha de antecedentes do paciente.
+Nesse sentido, já decidiram ambas as turmas deste Tribunal:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONDUTA SOCIAL. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da pena se insere dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte, no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. In casu, o Tribunal de origem apreciou concretamente a conduta social do réu, assentando o seu envolvimento com o tráfico de drogas, na região, e não com base nas anotações criminais de sua folha de antecedentes. Tal fundamento é considerado apto pelo STJ, para ensejar a análise negativa da conduta social.
+3. Sobre o desvalor das circunstâncias do crime, também houve justificativa concreta, as quais excederam os limites do tipo penal violado, dado que a vítima foi executada na frente de seus próprios familiares, além de o réu ter se aproveitado do conhecimento prévio do local e das pessoas, já que era ex-cunhado da vítima.
+4. No que tange às consequências do crime, ressaltou-se as repercussões do crime na família, inclusive constando que a genitora do réu teve que se mudar em razão de ameaças sofridas, o que constitui elemento idôneo para a exasperação da pena-base.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.321.481/AL, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO POR MOTIVO FÚTIL. DOSIMETRIA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS JUDICIAIS. CULPABILIDADE, CONDUTA SOCIAL E CONSEQUÊNCIAS DO CRIME. UTILIZAÇÃO DE FUNDAMENTOS CONCRETOS E IDÔNEOS.
+1. Na hipótese de crime de homicídio, o cometimento na presença de familiares e a excessiva violência, consistente inclusive no desferimento de vários tiros contra a vítima, são elementos concretos que caracterizam a elevada reprovabilidade da conduta e justificam a análise desfavorável da circunstância judicial relativa à culpabilidade.
+2. A prática de ameaça e agressões a familiares e o envolvimento com tráfico de drogas motivam a valoração negativa da circunstância judicial relativa à conduta social.
+3. O abalo psicológico extraordinário de mãe em decorrência da morte, na própria residência e de forma extremamente violenta, de filho acometido de enfermidade mental constitui elemento concreto e idôneo para motivar a exasperação da pena-base pelo exame desfavorável da circunstância judicial relativa às consequências do crime.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.805.308/AL, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 10/8/2021, DJe de 16/8/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PENA-BASE. VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL. FUNDAMENTO IDÔNEO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.
+2. Na hipótese, as instâncias ordinárias entenderam não ser favorável o proceder do acusado em sua comunidade, tendo em vista a existência de testemunhos nos autos que apontam o envolvimento do acusado com tráfico de drogas e com outros crimes, e não com base nas anotações criminais de sua folha de antecedentes. Tais fundamentos são considerados aptos pelo STJ a ensejar a análise negativa da conduta social. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.316.990/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/8/2023, DJe de 17/8/2023.)
+Além disso, analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
