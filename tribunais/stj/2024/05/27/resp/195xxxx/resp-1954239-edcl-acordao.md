@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos declaratórios rejeitados.
+RELATÓRIO
+LOUIS DREYFUS COMPANY BRASIL S.A. opõe embargos de declaração ao acórdão assim ementado (fls. 1.302-1.303):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMPRESÁRIO RURAL. RECUPERAÇÃO JUDICIAL. JUÍZO UNIVERSAL. STAY PERIOD. PEDIDO DE RESTITUIÇÃO DE GRÃOS ARRESTADOS. PENHOR. DIREITO REAL DE GARANTIA. COMPETÊNCIA PARA DEFINIÇÃO DA ESSENCIALIDADE DO BEM.
+1. Após obter o registro e passar ao regime empresarial, fazendo jus a tratamento diferenciado, simplificado e favorecido quanto à inscrição e aos efeitos desta decorrentes (CC, arts. 970 e 971), adquire o produtor rural a condição de procedibilidade para requerer recuperação judicial, com base no art. 48 da Lei 11.101/2005 (LRF), bastando que comprove, no momento do pedido, que explora regularmente a atividade rural há mais de 2 (dois) anos.
+2. Os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, tanto sob a égide do Decreto-Lei n. 7.661/45 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal. Inteligência do art. 76 da Lei n. 11.101/2005.
+3. Tal entendimento estende-se às hipóteses em que a penhora seja anterior à decretação da falência ou ao deferimento da recuperação judicial. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação.
+4. Ainda que se trate de créditos garantidos por alienação fiduciária, compete ao juízo da recuperação judicial decidir acerca da essencialidade de determinado bem para fins de aplicação da ressalva prevista no art. 49, § 3º, da Lei nº 11.101/2005, na parte que não admite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais ao desenvolvimento da atividade empresarial.
+5. Os arts. 49 e 50, §1º, da Lei 11.101/2005 não eximem dos efeitos da recuperação judicial os direitos reais de garantia, mas sim os direitos reais em garantia, isto é, apenas aqueles bens que, originariamente do devedor, passam à propriedade do credor (propriedade resolúvel, desconstituída com o adimplemento da obrigação garantida), cuja efetivação do direito se faz pela consolidação do bem garantido no patrimônio deste, e não por expropriação judicial.
+6. Agravo interno não provido.
+Em suas razões, a embargante sustenta que a decisão embargada incorreu em contradição ao não considerar o entendimento do acórdão prolatado pelo TJMT sobre a não essencialidade dos grãos de soja e milho arrestados pela LDC para a recuperação judicial , de modo a não disponibilizá-los à parte embargada.
+Subsidiariamente, aduz que os embargos revelam a existência de omissão na decisão embargada quanto aos fundamentos fáticos utilizados para considerar os bens essenciais e determinar a disponibilização deles, bem como aqueles considerados para aferir "de que forma tal análise teria sido possível, sem se esbarrar no enunciado da Súmula nº 7 desse E. STJ" (fl. 1.321).
+Requer, assim, o provimento dos presentes aclaratórios a fim de que sejam sanadas a contradição e omissão apontadas.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos declaratórios rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No caso, não está configurada nenhuma das hipóteses autorizadoras dos aclaratórios.
+Da detida análise dos autos, constata-se que na decisão agravada (fls. 1.299-1.313), foram examinadas, de modo claro e objetivo, as questões atinentes à essencialidade dos grãos de soja e milho, reconhecendo a invalidade dos atos constritivos realizados no bojo das execuções individuais e determinando a disponibilização dos bens arrestados às embargadas, sob o critério e supervisão do Juízo da recuperação judicial.
+Para tanto, assentou o seguinte (fls. 1.308-1.311):
+5. Noutro ponto, deve ser salientado que a lógica de tempo expressa pela Lei n. 11.101/2005  que gravita em torno do stay period  revela, de modo inequívoco, a necessidade de se impor celeridade e efetividade ao processo de recuperação judicial, notadamente pelo cenário de incertezas quanto à solvibilidade e à recuperabilidade do empresário devedor e pelo sacrifício imposto aos credores, com o propósito de minorar, o quanto mais, os prejuízos por estes já percebidos.
+Nesse rumo, é certa, ao menos em tese, a nulidade dos atos executivos realizados no bojo de execuções individuais durante o stay period, cabendo, pois, ao Juízo recuperacional, deliberar sobre o patrimônio do devedor, que integra o processo concursal.
+6. Nessa sequência, ainda merece destaque ponto importante da controvérsia, consistente na definição do juízo que determinará a essencialidade de determinado bem para fins de aplicação da exceção destacada acima.
+Em resposta a essa questão, decidiu a Segunda Seção deste Tribunal que compete ao juízo da recuperação judicial a definição acerca da essencialidade de determinado bem, na parte que não admite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais ao desenvolvimento da atividade empresarial. Confira-se:
+ ..
+7. No que diz respeito à alegação de que, tratando-se de crédito garantido por penhor, o depósito do valor respectivo e o seu uso pelo recuperando deverá ser vinculado ao Juízo da Recuperação Judicial, da mesma forma, merece provimento o recurso.
+No ponto, os recorrentes defendem que, em sendo penhor, não há possibilidade de exclusão do crédito dos efeitos da recuperação judicial, de modo que nenhum credor, dentro desta situação jurídica, poderá ser agraciado pela continuidade das expropriações que tinham iniciado, uma vez que o seu crédito deve ser recebido nos termos do plano de recuperação judicial.
+No julgamento do REsp n. 1.374.534/PE, tive a oportunidade de realizar análise minuciosa sobre a questão e manifestar-me, acompanhado pela egrégia Quarta Turma, ressaltando ser o penhor é direito real de garantia, que costuma recair sobre coisas móveis que ficam na posse do credor, todavia, no caso do penhor agrícola, recai sobre imóvel por acessão (a colheita), caracterizando hipótese de natureza especial em que o bem dado em garantia continua na posse do devedor, em virtude de se tratar de sua atividade agrícola, com cujos rendimentos pretende pagar o débito garantido pelo penhor, "há uma espécie de constituto possessório, em virtude do qual o proprietário perde a posse direta em favor do credor pignoratício, continuando todavia a ser possuidor" (WALD, Arnoldo. Direito civil: direito das coisas. 13 ed. São Paulo: Saraiva, 2011, p. 347).
+ ..
+Nesse rumo, no voto proferido no REsp n. 1.374.534/PE, fez-se conclusão que serve perfeitamente a este recurso: condicionar a alienação da safra à concordância do credor - como fez o acórdão recorrido - é o mesmo que suprimir toda a função relevantíssima imposta pela lei ao juízo da recuperação, de modo a buscar, em conjunto com os demais credores, as melhores alternativas para que a empresa supere a crise.
+E ainda (fl. 1.313):
+8. No caso, em exame, a decisão de primeira instância, em cumprimento às deliberações feitas no âmbito da TP 2.196/MT e TP 2.210/MT, determinou o prosseguimento da Recuperação Judicial.
+Nessa extensão, a decisão agravada deferiu o pedido de liberação dos grãos apreendidos no bojo dos autos executivos propostos pelos recorrentes, sob o fundamento de restabelecimento da recuperação judicial e consequente fruição do stay period, assinalando ainda a essencialidade dos cultivares para a manutenção do ciclo de plantio e colheita, c onforme particularidades da lida rural.
+Na sequência, asseverou (fl. 388-389):
+ ..
+Assim, a interpretação do dispositivo permite a flexibilização do comando normativo quando se tratar de bem essencial ao funcionamento da empresa em recuperação judicial, permitindo-se a manutenção na posse em favor da sociedade empresária, sendo a análise conferida ao juízo recuperacional.
+No caso dos autos, como negar a essencialidade de grãos ao produtor rural
+A resposta é evidente: os grãos são essenciais e devem ser mantidos em favor da recuperação judicial.
+Portanto, considerando a busca e apreensão já realizada, os bens essenciais devem ser devolvidos, porquanto imprescindíveis ao soerguimento das atividades do produtor rural, motivo pelo qual defiro o requerimento de liberação de milho, conforme requerimento da parte (Num.23515869).
+Comunique-se ao juízo da execução, solicitando as providencias pertinentes para a efetiva restituição dos grãos.
+Desse modo, reconhecida a invalidade dos atos constritivos realizados no bojo das execuções individuais, as ora recorrida, LOUIS DREYFUS COMPANY BRASIL S. A., deve proceder à disponibilização dos bens, nos termos da decisão agravada e sob a supervisão e sob os critérios a serem determinados pelo Juízo da recuperação judicial, a quem compete, também, deliberar sobre eventual pedido, por parte dos recuperandos, de alienação dos bens, objeto de garantia, para dar continuidade às suas atividades.
+A irresignação, portanto, caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se. Intimem-se.
