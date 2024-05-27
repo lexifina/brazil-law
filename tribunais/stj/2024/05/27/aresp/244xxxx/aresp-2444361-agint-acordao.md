@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO SUR PRESA. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA N. 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 21-E, V, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Carlos Eduardo Cardoso Carneiro em face da seguinte decisão:
+Cuida-se de agravo em recurso especial apresentado por CARLOS EDUARDO CARDOSO CARNEIRO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ e ausência de similitude fática.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+Afirma que "não somente no agravo como também no próprio recurso especial houve demonstração cabal de que o recurso especial que se pretende ver destrancado e apreciado por este C. Tribunal Superior versa sobre matéria exclusivamente de direito e busca demonstrar que houve interpretação equivocada de comandos legais, não havendo qualquer necessidade de reexame probatório" (e-STJ, fl. 526).
+Pede o provimento do recurso.
+Impugnação da parte contrária no sentido de que é indispensável o reexame de provas para o julgamento do recurso especial, o que encontra o óbice de que trata o verbete n. 7 da Súmula desta Casa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO SUR PRESA. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA N. 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 21-E, V, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+O inconformismo não merece acolhida.
+O recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - Irresignação do requerido Carlos - Confusão patrimonial e existência de grupo econômico evidenciados. Fartas provas de abuso da personalidade jurídica, com desvio de finalidade e confusão patrimonial - Aplicação do art. 50 do Código Civil - Decisão mantida - Recurso desprovido.
+Alegou, na ocasião, violação dos artigos 50, 1.003 e 1.032 do Código Civil e 9º, 10 e 513, § 5º, do Código de Processo Civil no sentido de que é o caso de desconsideração da personalidade jurídica, que houve decisão surpresa e que o recorrente, na qualidade de fiador, não fez parte do processo na fase cognitiva, não podendo, portanto, ser incluído no cumprimento de sentença.
+A decisão agravada, todavia, adotou como razões de decidir a ausência de impugnação a fundamento do juízo negativo de admissibilidade do recurso especial.
+Cabe à parte, portanto, impugnar específica e fundamentadamente as razões da decisão agravada, sob pena de incidência do verbete n. 182 da Súmula desta Casa.
+Assim:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INFORMAÇÃO DE FALECIMENTO DA PARTE. SUSPENSÃO DO PROCESSO. NULIDADE RELATIVA. AUSÊNCIA DE PREJUÍZO.
+1. É firme a jurisprudência do STJ no sentido de que, "nos termos dos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 e da Súmula 182 do Superior Tribunal de Justiça (STJ), é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada" (AgInt no AREsp 903.181/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 27/04/2017).
+2. É pacífica a jurisprudência do STJ no sentido de que a nulidade processual decorrente do descumprimento da regra prevista no art. 313, I, do NCPC, que impõe a suspensão do feito para regularização processual em caso de falecimento de qualquer das partes, tem caráter relativo, sendo válidos os atos praticados, desde que não haja prejuízo (a ser devidamente demonstrado).
+3. É de se ter, ademais, que "se o procurador desconhecia a morte do mandante são eficazes os atos por ele praticados no âmbito e no exercício do mandato" (AgRg no Ag 712.335/MG, Relator Ministro HUMBERTO GOMES DE BARROS, Terceira Turma, DJ de 13/2/2006).
+4. É firme o entendimento do STJ de que "a falta de observância da suspensão do processo em razão de morte de qualquer das partes, na forma do art. 265, I, do CPC, enseja nulidade relativa, não se configurando caso não haja prejuízo aos interessados. Hipótese em que um dos litisconsortes falecera após a interposição do recurso no Tribunal de origem, mas aproximadamente três anos antes de seu julgamento, tendo-se aguardado, portanto, pronunciamento desfavorável para só então invocar a suspensão do processo e a nulidade do ato, o que demonstra a utilização inequívoca da chamada nulidade de algibeira, carente, ainda, de qualquer indicação de prejuízo" (AgInt no AREsp 1.047.272/SC, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 27/10/2017).
+5. Na espécie, além de não ter demonstrado nenhum prejuízo in concreto que tenha sacrificado os fins de justiça do processo, constata-se que a parte falecera aproximadamente três anos após a interposição do recurso especial (março de 2008) e só agora, em 2019, 5 anos após o trânsito em julgado, é que o espólio agravante peticiona suscitando o alegado vício e requerendo a nulidade absoluta de todo o feito, o que não merece prosperar, nos termos da jurisprudência da Casa.
+6. Agravo interno não conhecido.
+(AgInt no REsp n. 1.070.538/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/3/2024, DJe de 11/3/2024.)
+A simples alegação genérica, portanto, de que o agravante defendeu se tratar de matéria de direito, à míngua da demonstração sobre de que maneira seria possível o julgamento da causa sem a incursão nos elementos informativos do processo não supre a necessária impugnação específica e fundamentada, como exige o artigo 1.021, § 1º, do Código de Processo Civil.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
