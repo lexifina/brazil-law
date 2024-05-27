@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por Inez Aparecida Faria Paula contra o Município de Itaúna.
+A ação foi aviada perante o Juízo do Trabalho que, em grau de recurso ordinário, declarou-se incompetente para julgamento da causa.
+Recebidos os autos, o Juízo de Direito da 1ª Vara Cível de Itaúna/MG, por sua vez, suscitou o presente conflito de competência perante o Superior Tribunal de Justiça.
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+Compulsando a peça exordial (fls. 12-51), verifica-se tratar-se de demanda, proposta por empregado público do Município de Itaúna/MG, admitido em 3/4/78, aposentado por tempo de contribuição em 2004, pelo RGPS, mas que permaneceu no emprego, sendo demitido em 06/10/2015. Objetiva, na presente ação, dentre outros, a nulidade do ato administrativo de demissão e sua reintegração.
+O Supremo Tribunal Federal firmou a tese, correspondente ao Tema 606 da repercussão geral, de que a natureza do ato de demissão de empregado público é constitucional-administrativa, e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão.
+No mesmo sentido:
+Recurso extraordinário. Direito Constitucional. Processual. Administrativo. Tema nº 606 da sistemática da Repercussão Geral. Competência da Justiça Federal. Reintegração de empregados públicos. Empresa de Correios e Telégrafos. (ECT). Dispensa em razão de aposentadoria voluntária. Extinção do vínculo. EC nº 103, de 2019. Cumulação. Proventos e vencimentos. Recurso ordinário não provido.
+1. Trata-se, in casu, de empregado público da Empresa de Correios e Telégrafos (ECT) que impetrou mandado de segurança em face de ato mediante o qual o Secretário Executivo do Conselho de Coordenação de Empresas Estatais e do Presidente da ECT determinou o desligamento dos empregados aposentados que se mantinham na ativa, nos termos da MP nº 1523/1996.
+2. Compete à Justiça Federal processar e julgar ação cujo objeto seja a reintegração de empregados públicos dispensados em virtude de aposentadoria espontânea, bem como a cumulatividade de proventos com vencimentos, o que difere, em essência, da discussão acerca da relação de trabalho entre os empregados e a empresa pública, afastando-se a competência da Justiça do Trabalho.
+3. Segundo o disposto no art. 37, § 14, da CF (incluído pela EC nº 103, de 2019), a aposentadoria faz cessar o vínculo ao cargo, emprego ou função pública cujo tempo de contribuição houver embasado a passagem do servidor/empregado público para a inatividade, inclusive quando feita sob o Regime Geral de Previdência Social.
+4. A mencionada EC nº 103/19, contudo, em seu art. 6º, excluiu da incidência da regra insculpida no § 14 do art. 37 da Constituição Federal as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de sua entrada em vigor, sendo essa a hipótese versada nos autos.
+5. Foi fixada a seguinte tese de repercussão geral: A natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão. A concessão de aposentadoria aos empregados públicos inviabiliza a permanência no emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º.
+6. Recursos extraordinários não providos.
+(RE 655283/DF, relator: Marco Aurélio, relator p/ Acórdão: Dias Toffoli, Tribunal Pleno, julgado em 16/6/2021, Processo Eletrônico Repercussão Geral - Mérito DJe-078 Divulg. 26/4/2021 PUBLIC 27/4/2021. Republicação: DJe-238 Divulg. 1º/12/2021 Public. 2/12/2021.)
+Também esta é a orientação da Primeira Seção desta Corte. A propósito:
+AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO COMUM. RECLAMAÇÃO TRABALHISTA. EMPREGADO PÚBLICO DO MUNICÍPIO DE NIQUELÂNDIA-GO. DEMISSÃO. NATUREZA CONSTITUCIONAL-ADMINISTRATIVA DO ATO. TEMA 606/STF. COMPETÊNCIA DO JUÍZO ESTADUAL. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de conflito de competência suscitado pelo JUÍZO DA VARA DO TRABALHO DE URUAÇU-GO e que conta com a 1ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO ESTADO DE GOIÁS como suscitado; o conflito foi instaurado nos autos da reclamação trabalhista proposta em desfavor do MUNICÍPIO DE NIQUELÂNDIA-GO.
+2. O Supremo Tribunal Federal, sob o rito da repercussão geral, firmou a orientação segundo a qual a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão (Tema 606).
+3. A hipótese dos autos enquadra-se na tese firmada no Tema 606 da repercussão geral do STF, antes esposada, por quanto a causa trata justamente de demissão de empregado público, dispensado em razão de anterior aposentadoria espontânea, emergindo a natureza constitucional-administrativa do ato, a atrair a competência da Justiça comum para julgar a causa.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC 192.039/GO, Rel. Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA SEÇÃO, julgado em 18/4/2023, DJe de 24/4/2023).
+No mesmo sentido, as seguintes decisões: CC 197.254/MG, Rel. Ministra Assusete Magalhães, DJe de 12/6/2023; AgInt no CC 197.396/GO, Rel. Ministro auro Campbell Marques, DJe de 13/5/2024; CC 204.535/RJ, Rel. Ministro Francisco Falcão, DJe de 7/5/2024.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo de Direito da 1ª Vara Cível de Itaúna/MG .
+Publique-se. Intimem-se.
+EMENTA
