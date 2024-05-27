@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COBERTURA DE TRATAMENTO AMBULATORIAL. RESTRIÇÃO CONTRATUAL. PACIENTE IDOSA. APLICAÇÃO DO CDC. ESTATUTO DO IDOSO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANOS MORAIS. NÃO OCORRÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão proferida por esta Relatoria (e-STJ, fls. 366-370), que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Nas razões do agravo interno (e-STJ, fls. 375-385), a agravante aduz que houve violação dos arts. 489 e 1.022 do CPC/2015, apontando a ocorrência de omissão no acórdão recorrido sobre questões relevantes ao deslinde da lide; e que houve demonstração da ofensa aos dispositivos apontados, não havendo a incidência das Súmulas 283 e 284 do STF. Alega "nas razões recursais que o acórdão determinou que a Agravante custeasse de maneira integral o tratamento da Agravada fora da rede credenciada", havendo ofensa ao art. 12, VI, da Lei 9.656/98.
+Foi apresentada impugnação (e-STJ, fls. 395-405).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COBERTURA DE TRATAMENTO AMBULATORIAL. RESTRIÇÃO CONTRATUAL. PACIENTE IDOSA. APLICAÇÃO DO CDC. ESTATUTO DO IDOSO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANOS MORAIS. NÃO OCORRÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+3. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, porquanto não foram apresentados argumentos aptos a modificar a decisão vergastada.
+Conforme consignado na decisão agravada, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. INEXISTÊNCIA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O direito à liberdade de imprensa não é absoluto, devendo sempre ser alicerçado na ética e na boa-fé, sob pena de caracterizar-se abusivo.
+5. A jurisprudência desta Corte Superior é consolidada no sentido de que a atividade da imprensa deve pautar-se em três pilares, quais sejam: (i) dever de veracidade, (ii) dever de pertinência e (iii) dever geral de cuidado. Se esses deveres não forem observados e disso resultar ofensa a direito da personalidade da pessoa objeto da comunicação, surgirá para o ofendido o direito de ser reparado.
+6. Na hipótese dos autos, a Corte a quo, soberana no exame do acervo fático-probatório, constatou que a jornalista não propagou informações falsas acerca do recorrente, mas apenas veiculou dados extraídos de fatos que públicos e matérias jornalísticas amplamente difundidas à época.
+7. Assim, o aresto impugnado está em harmonia com a jurisprudência desta Corte Superior acerca da matéria.
+8. Ademais, a alteração da conclusão alcançada pelo Tribunal local demandaria o incurso em matéria fático-probatória, o que é vedado em sede de recurso especial pelo óbice da Súmula 7 do STJ.
+9. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.090.707/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022)
+O eg. TJ-SP, ao julgar a apelação, consignou o seguinte excerto (e-STJ, fls. 321-323-2.836):
+"Acometida a autora, pessoa idosa de 86 anos, de "úlcera de repetição em calcâneo esquerdo", durante a situação de pandemia (COVID-19), foi-lhe indicada a realização de tratamento ambulatorial junto ao Hospital Albert Einstein(fls. 17).
+Como observado no relatório médico de fls. 17, a realização de curativos a vácuo em ambiente ambulatorial seria a mais indicada para evitar a exposição da paciente idosa, que vinha sendo acompanhada pelo corpo clínico do hospital, aos riscos da internação durante a pandemia.
+Entretanto, o tratamento ambulatorial foi recusado pela seguradora de saúde sob o argumento de não haver cobertura desse tipo junto àquele nosocômio.
+Entendeu o Juiz de Direito que "No caso, conforme documento de fls.190/196, o Hospital Israelita Albert Einstein, não obstante integrar a rede credenciada para determinados serviços, não é credenciado para serviços ambulatoriais. Logo, se a autora necessita de internação é porque a gravidade da doença assim exige, conforme prescrição médica, situação em que ostentará a cobertura do plano de saúde. /Contudo, se a situação da autora não exige internação, tratando-se de atendimento ambulatorial, conforme prescrição médica, deve a parte buscar tratamento em outro nosocômio ou estará sujeita ao reembolso nos limites do contrato. E, não há qualquer contra-senso nessa situação, pois configura apenas um modo de distribuição dos serviços perante os integrantes da rede" (fls. 201).
+Com efeito, em regra, nada há de abusivo ou ilegal na cobertura setorial, diferenciando-se a situação de internação e de tratamento ambulatorial.
+Todavia, a questão merece ponderação à luz da legislação consumerista, dos princípios da boa-fé e da função social do contrato celebrado, além do Estatuto do Idoso.
+Em primeiro lugar, não há clareza acerca da exclusão da cobertura ambulatorial perante o Hospital Albert Einstein. Veja-se que o documento de fls. 157/159 bem comprova que não há informação de distinção setorial quando o consumidor realiza a busca da rede credenciada.
+Ainda, o procedimento foi indicado como continuidade do tratamento dispensado pelo corpo clínico do nosocômio em internações de maior custo, para o fim de limitar a progressão de doença.
+Por fim, a indicação médica destinou-se a preservar a saúde da paciente idosa com prioridade especial (arts. 3º, § 2º, e 15, § 7º, do Estatuto do Idoso), repita-se, no cenário da pandemia.
+Neste contexto de falta de clareza na informação, de continuidade de tratamento médico iniciado por meio de internações cobertas pelo seguro saúde e, finalmente, de risco notório à saúde do idoso, reconhece-se que o contrato, para que cumpra a sua função, deve ser interpretado de maneira mais favorável à paciente (art. 47, CDC), afastando-se a restrição à cobertura ambulatorial perante o Hospital Albert Einstein. Com efeito, ponderada a legalidade abstrata da restrição imposta frente ao direito básico do consumidor à informação, o direito de assistência à saúde e a proteção integral conferida ao idoso no que tange à preservação de sua saúde física e mental (art. 2º do Estatuto do Idoso), tem-se que a negativa da seguradora é abusiva. Tal restrição inviabilizou o próprio objeto da avença, cuja finalidade é garantir a assistência à saúde, em evidente afronta aos princípios da boa-fé e da função social do contrato celebrado.
+(..)
+É, pois, reformada a sentença para julgar-se procedente o pedido, condenando-se a seguradora a custear o tratamento ambulatorial prescrito à autora (aplicação de curativo a vácuo) perante o Hospital Albert Einstein, sob pena de multa diária de R$ 5.000,00, limitada a R$ 20.000,00." (s em grifo no original)
+Reitera-se que, a despeito de toda a argumentação sobre a impossibilidade de reembolso/custeio integral em hospital não credenciado para a realização de tratamento, a parte recorrente não demonstrou de que forma o Tribunal de origem teria violado os dispositivos apontados.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. MATÉRIA DE OR DEM PÚBLICA. PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS NºS 283 E 284/STF. MULTA. ART. 523, § 1º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca das questões ventiladas no recurso especial (arts. 525, § 1º, e 485, VI, do CPC/2015) acarreta falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que mesmo as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e não houver insurgência da questão no momento oportuno.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação das Súmulas nºs 283 e 284/STF.
+6. Conforme entendimento desta Corte Superior, a multa a que se refere o art. 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a discussões a respeito do débito, o que não é o caso dos autos.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.877.822/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022 )
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
