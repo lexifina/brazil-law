@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o ar tigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, verificam-se a inexistência do alegado vício de integração e a intenção de rediscutir, pela terceira vez, os requisitos de admissibilidade do especial; situação que impõe a aplicação de multa, nos termos do art. 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por BRUNO DARIO WERNECK contra acórdão de rejeição dos anteriores embargos declaratórios, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+A parte embargante sustenta, em síntese (fls. 1.327/1.330):
+O acórdão julgou improcedente o Agravo Interno do ora embargante com base na premissa de que nas razões do Recurso Especial não teria enfrentado o argumento de preclusão do direito de discutir a legitimidade passiva e a prescrição  ..  entanto, esta Turma Julgadora quedou-se omissa com relação à argumentação trazida no § 14 do Agravo Interno em que o ora embargante demonstrou que a malfadada preclusão foi contestada no Recurso Especial denegado.
+Sem impugnação pela parte embargada (fl. 1340).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o ar tigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, verificam-se a inexistência do alegado vício de integração e a intenção de rediscutir, pela terceira vez, os requisitos de admissibilidade do especial; situação que impõe a aplicação de multa, nos termos do art. 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+De outro lado, "os segundos Embargos de Declaração devem dirigir-se ao acórdão que examinou os primeiros embargos" (RE 1151761 AgR-ED-ED, relator Ministro Alexandre de Moraes, Primeira Turma, julgado em 06-05-2019, DJe-104).
+No caso dos autos, não se verifica obscuridade no voto condutor do acórdão de rejeição dos primeiros aclaratórios.
+De fato, o voto condutor do acórdão ora embargado foi claro e não há qualquer empecilho à compreensão da fundamentação nele adotada; vide, a propósito:
+O órgão julgador a quo não decidiu as questões relacionadas à legitimidade passiva e à prescrição porque já haviam sido objeto de apreciação judicial e, por isso, alcançadas pela preclusão. Entretanto, nas razões do especial, a parte recorrente não ataca esse fundamento, limitando-se à tese de violação dos arts. 135 e 174 do CTN, como revela a petição de fls. 875/897. Nesse contexto, considerada a deficiência da peça recursal, forçoso reconhecer as Súmulas 282 e 283 do STF como óbices ao conhecimento do recurso especial". E basta consultar a referida petição recursal para se constatar não haver tese relacionada ao tema da preclusão, pois se limita às alegações de violação dos arts. 135 e 174 do CTN.
+Considerada a inexistência da alegada obscuridade, nota-se a só pretensão de rediscutir a inadmissão do especial, questão, devidamente, apreciada no julgamento do agravo interno e que não deve ser, novamente, analisada em sede de recurso integrativo, notadamente, nos segundos embargos de declaração.
+Nesse contexto, provocada a manifestação, pela terceira vez, a respeito dos requisitos de admissão do especial, fica evidenciado o caráter protelatório do recurso integrativo e que impõe a aplicação de multa de 1% do valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC/2015.
+A respeito da multa, confiram-se, entre outros: EDcl no AgInt no REsp n. 1.965.861/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023; EDcl nos EDcl no AgInt nos EAREsp n. 866.941/PR, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 27/6/2023, DJe de 30/6/2023; EDcl nos EDcl nos EDcl no AgInt no AREsp n. 1.709.115/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023; EDcl nos EDcl no AgInt no REsp n. 1.932.514/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/3/2022, DJe de 25/3/2022; EDcl nos EDcl no AgInt no AREsp n. 1.930.974/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022; EDcl nos EDcl no AgInt no REsp n. 1.926.706/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/3/2022, DJe de 21/3/2022; EDcl nos EDcl nos EDcl no AgInt no AREsp n. 1.314.167/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/3/2021, DJe de 22/3/2021.
+Ante o exposto, rejeito os embargos de declaração e aplico multa de 1% sobre o valor atualizado da causa.
+É como voto.
