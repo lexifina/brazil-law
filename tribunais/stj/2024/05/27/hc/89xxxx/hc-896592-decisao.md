@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GLEISON SANTOS ESPINOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE (Revisão Criminal n. 1001515-49.2023.8.01.0000).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções dos arts. 121, § 2º, I, III e IV; 148, caput, por uma vez; 148, IV, por duas vezes, na forma do art. 70; e 211, c/c o art. 29, todos do Código Penal; e 2º, §§ 2º e 4º, IV, da Lei n. 12.850/2013, na forma do art. 69 do CP, à pena de 33 anos e 4 meses de reclusão, a ser cumprida no regime inicial fechado.
+A revisão criminal ajuizada pela defesa foi julgada parcialmente procedente, nos termos da seguinte ementa (e-STJ fl. 19):
+Revisão Criminal. Homicídio qualificado. Ocultação de cadáver. Integrar organização criminosa. Sentença condenatória. Dosimetria. Alegação de incorreção.
+Procedência.
+- A Revisão Criminal tem como pressuposto a existência de um erro judiciário e o seu objetivo é corrigir o mesmo. A existência desse pressuposto - circunstância que determine a diminuição de pena - conduz à sua parcial procedência.
+- Revisão Criminal parcialmente procedente.
+Daí o presente writ, no qual a defesa pleiteia, inclusive liminarmente (e-STJ fl. 8):
+1. Na primeira fase, a exclusão das circunstâncias e consequências referente ao delito de homicídio; subsidiariamente, a correção do erro material no ponto que fixou a pena base seis meses acima do mínimo legal;
+2. Na segunda fase, a readequação da fração por exercer função de comando, em relação ao delito de integrar organização criminosa; e,
+3. Na terceira fase, pretende que as causas de aumento de pena incidam na fração de um sexto e de forma isolada ou que incida apenas a causa que mais aumente, conforme determina o artigo 68, do Código Penal.
+O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial pelo não conhecimento do habeas corpus ou, caso contrário, pela denegação da ordem.
+É o relatório.
+Decido.
+Inicialmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+O Tribunal de origem manteve como negativo, quanto ao delito de homicídio, o vetor consequências do crime, tendo em vista tratar-se de vítima jovem, o que penso ser suficiente a motivar a exasperação da pena-base, nos termos da jurisprudência desta Casa.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO SIMPLES. NULIDADE DO DECISUM MONOCRÁTICO POR AUSÊNCIA DE OITIVA PRÉVIA DO MINISTÉRIO PÚBLICO. NÃO OCORRÊNCIA. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA NA VALORAÇÃO DESFAVORÁVEL DA CULPABILIDADE, DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO. INTENSIDADE DO DOLO. MODUS OPERANDI DO CRIME. OFENDIDA QUE ERA AINDA JOVEM. CIRCUNSTÂNCIAS DO DELITO QUE ENSEJAM A NECESSIDADE DA FIXAÇÃO DA PENA-BASE ACIMA DO PISO LEGAL. EXASPERAÇÃO FEITA EM QUANTUM DESPROPORCIONAL NA ORIGEM. NECESSIDADE DE READEQUAÇÃO DA REPRIMENDA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+- "No tocante à dosimetria da pena, sabe-se que a sua revisão, na via do habeas corpus, é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, Rel. Min. FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+ ..
+- Também a valoração negativa das consequências do crime contou com fundamentação suficiente: os juízes da origem ressaltaram que a ofendida era ainda bastante jovem.
+- Assim, constata-se que os motivos alegados para promover a exasperação da pena-base do agravante são lícitos. A elevação da pena-base, contudo, foi feita pelas instâncias ordinárias sem observância da proporcionalidade. Dessarte, a ordem foi concedida, de ofício, para reduzir o quantum de exasperação da pena-base para a fração mais adequada de 1/2 sobre o mínimo legal, correspondente a três vetores validamente desfavorecidos, sem motivação específica para que a reprimenda fosse elevada em maior proporção.
+- Agravo regimental desprovido. (AgRg no HC n. 666.815/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/6/2021, DJe de 8/6/2021.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL E PENAL. HOMICÍDIO QUALIFICADO. CONTRARIEDADE AO ART. 593, III, D, DO CPP. PLEITO DE ANULAÇÃO DO JULGAMENTO DO CONSELHO DE SENTENÇA. ALEGAÇÃO DE CONDENAÇÃO CONTRÁRIA À PROVA DOS AUTOS. DECISÃO DO TRIBUNAL MOTIVADA. SOBERANIA DO JÚRI E SUPORTE EM PROVAS. REEXAME DE MATÉRIA DE CUNHO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 59 DO CP. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CONSEQUÊNCIAS NEGATIVADAS COM SUPORTE EXCLUSIVO NA IDADE DA VÍTIMA. FUNDAMENTO APTO A JUSTIFICAR A EXASPERAÇÃO DA PENA. JURISPRUDÊNCIA DO STJ.
+ ..
+4. As instâncias ordinárias, ao negativarem as consequências do crime, dispuseram que: as CONSEQUÊNCIAS do crime considero graves, vez que a vítima perdeu sua vida quando ainda jovem e com relação as CONSEQUÊNCIAS do crime considerou-se graves, vez que a vítima perdeu sua vida quando ainda jovem). Quanto à alegada inidoneidade na valoração do vetor judicial das consequências do delito, a pouca idade da vítima, isoladamente considerada, tem o condão de exasperar a pena-base.
+ ..
+6. Agravo regimental improvido.
+(AgRg no REsp n. 1.835.097/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/9/2020, DJe de 28/9/2020.)
+No que tange ao delito de organização criminosa, alega a defesa que a agravante de função de comando foi aplicada em percentual acima do mínimo comumente praticado sem fundamentação.
+No mais, rememoro, por oportuno, que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena em razão da incidência das agravantes e das atenuantes genéricas. Diante disso, a doutrina e a jurisprudência pátrias anunciam que cabe ao magistrado sentenciante, nos termos do princípio do livre convencimento motivado, aplicar a fração adequada ao caso concreto, em obediência aos princípios da razoabilidade e da proporcionalidade.
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. REINCIDÊNCIA ESPECÍFICA. AUMENTO EM 2/5. FUNDAMENTAÇÃO CONCRETA. POSSIBILIDADE. PRECEDENTES DO STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO IMPROVIDO.
+1. Inexiste, na lei, parâmetros aritméticos para a aplicação de atenuantes e de agravantes, cabendo ao magistrado, em face da discricionariedade motivada e atento aos critérios de razoabilidade e proporcionalidade, fixar o patamar que melhor se aplique ao caso.
+2. Não há falar em ilegalidade na majoração da pena acima de 1/6, na segunda fase da dosimetria, em face da reincidência específica do réu - o que, a teor da jurisprudência desta Corte, é plenamente aceito -, na medida em que a fração de aumento eleita pelas instâncias ordinárias ancorou-se em circunstância excepcional do caso concreto.
+3. Agravo regimental improvido. (AgInt no HC 356.160/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/12/2016, DJe 13/12/2016)
+Sendo assim, a alteração da reprimenda em razão da incidência de circunstância agravante deve respeitar, em regra, o limite de 1/6 (um sexto), salvo situações excepcionais, devidamente justificadas, o que não foi observado pelas instâncias ordinárias.
+Ainda, em relação ao crime de organização criminosa, na terceira etapa, insurge-se a defesa quanto à aplicação cumulativa de duas causas de aumento (uso de arma e conexão com outras organizações criminosas) e à fração de aumento aplicada sem a devida fundamentação.
+Inicialmente, vale ressaltar que "o art. 68, parágrafo único, do CP, não impede de todo a aplicação cumulativa de causas de aumento de pena. É razoável a interpretação da lei no sentido de que eventual afastamento da dupla cumulação deverá ser feito apenas no caso de sobreposição do campo de aplicação ou excessividade do resultado" (ARE n. 896.843 AgR, relator Ministro GILMAR MENDES, Segunda Turma, julgado em 8/9/2015, DJe-189, publicado em 23/9/2015).
+Ainda, a propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. CONCURSO DE AGENTES, RESTRIÇÃO DE LIBERDADE DA VÍTIMA E EMPREGO DE ARMA DE FOGO. ART. 68, PARÁGRAFO ÚNICO, DO CP. CARÊNCIA DE MOTIVAÇÃO CONCRETA PARA A APLICAÇÃO SUCESSIVA DAS CAUSAS DE AUMENTO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+3. A jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+4. No caso, a Corte de origem olvidou-se de motivar a adoção das frações de aumento de forma sucessiva, tendo se limitado a ressaltar a incidência das três majorantes, o que não serve como justificativa para o incremento cumulativo. Nesse contexto, resta evidenciada flagrante ilegalidade na aplicação cumulativa das causas de aumento previstas no art. 157, § 2º e § 2º-A, ambos do Código Penal.
+5. Writ não conhecido. Ordem concedida, de ofício, a fim de limitar o incremento da pena na terceira fase a 2/3, determinando ao Juízo das Execuções que proceda à nova dosagem da pena, com extensão dos efeitos da ordem ao corréu David Almeida Moraes, com fundamento no art. 580 do CPP. (HC 583.908/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020)
+Assim, à vista de tais considerações, no caso, vejo ilegalidade na incidência de forma cumulativa das causas de aumento do crime de organização criminosa, sem a devida fundamentação, apenas com base nas próprias causas em si, sem indicação da dinâmica do crime relacionada a tais majorantes que evidencie maior reprovabilidade da conduta. Assim, deve ser aplicada, na espécie, apenas a causa que mais aumente, qual seja, a do emprego de arma de fogo, em metade.
+Redimensiono, pois, a pena do CRIME DE ORGANIZAÇÃO CRIMINOSA, com base nas considerações ora expostas.
+Mantido o cálculo dosimétrico da primeira fase, na segunda etapa, aplico o aumento de 1/6, pela agravante de função de comando; e, na terceira fase, exaspero a pena em metade, em virtude do emprego de arma de fogo, tornando-a definitiva em 5 anos e 3 meses de reclusão.
+Mantido, no mais, o acórdão impetrado.
+À vista do exposto, concedo parcialmente a ordem apenas para redimensionar a pena imposta ao paciente, pela prática do crime de integrar organização criminosa, para 5 anos e 3 meses de reclusão.
+Publique-se. Intimem-se.
+EMENTA
