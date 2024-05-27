@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de inexistência de dívida.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por AGROBANCO BANCO COMERCIAL SA EM LIQUIDACAO contra decisão que não conheceu do agravo em recurso especial.
+Ação: declaratória de inexistência de dívida, ajuizada por EXPEDITO STIVAL SOBRINHO, em face da agravante, na qual alega - em síntese - que figura como parte executada juntamente com à empresa PITE S/A nos autos da ação de execução apensa (810559.24), sustentando a inexigibilidade do título extrajudicial que aparelha o aludido processo, haja vista ter a PITE S/A pago a dívida, tendo como prova o recibo de quitação outorgado pelo liquidante do banco requerido, Sr. Walter Campos.
+Sentença: julgou procedentes o pedido, para declarar a inexistência da dívida representada pela Nota de Crédito Industrial nº 087/038, bem como em razão da aplicação do princípio da causalidade, condenar a agravado/autor ao pagamento das custas e honorários de sucumbência, fixados em 10% sobre o valor atualizado da causa, nos termos do art. 85, § 2º, do CPC.
+Acórdão: deu provimento à apelação interposta pela parte agravada, para condenar a agravante ao pagamento das verbas decorrentes do ônus sucumbencial, devendo arcar com as custas processuais e honorários advocatícios, fixados em 10% sobre o valor atualizado da causa (R$ 8.893.909,75 - oito milhões e oitocentos e noventa e três mil e novecentos e nove reais e setenta e cinco centavos); negou provimento à apelação interposta pela agravante.
+Nesse sentir, é a ementa dos julgados:
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. DÉBITO RELATIVO A TÍTULO EXECUTIVO EXTRAJUDICIAL. INEXISTÊNCIA DE COISA JULGADA MATERIAL. PRINCÍPIO DA NÃO SURPRESA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. ÔNUS DA PROVA. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE.
+1. Deve ser admitida a propositura de ação de conhecimento, visando a desconstituir o título executivo extrajudicial, quando não tiver ocorrido resolução do mérito em ação anterior, hipótese em que não se verifica a preclusão e a coisa julgada material.
+2. Há respeito ao princípio da não surpresa, quando a parte tem a oportunidade, ao longo do feito processual, de se manifestar sobre os fatos e fundamentos aos quais se reportaram a decisão, afastando-se a tese de ofensa aos artigos 9º e 10, ambos do CPC.
+3. Se os elementos constantes dos autos mostram-se aptos a formar o convencimento do magistrado, desnecessária a instrução probatória, impondo-se rejeitar a tese de cerceamento a direito de defesa, nos moldes da Súmula nº 28 do TJGO.
+4. Nos termos do art. 373, incisos I e II, do CPC, incumbe ao autor provar fato constitutivo do seu direito, ao passo que cabe ao réu provar fato impeditivo, modificativo ou extintivo do direito do autor.
+5. A responsabilidade pelo pagamento dos honorários e das custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que dá causa à instauração do processo deve suportar as despesas dele decorrentes. 1ª APELAÇÃO CÍVEL CONHECIDA E PROVIDA. 2ª APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. (e- STJ, fl. 851) (grifo nosso)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega a devida impugnação do óbice da incidência da Súmula 7/STJ. Sustenta que "(..) a coisa julgada, a nulidade de acordão e até mesmo cerceamento de defesa se erigem exclusivamente de decisão judicial, auridas, naturalmente, sem o revolvimento ou enfrentamento do conjunto fático, e, também, sem demandar interpretação de cláusula contratual, o que, evidentemente, afasta da hipótese a incidência da Súmula 07 dessa egrégia Corte." (e-STJ, fl. 995).
+Além do mais, alega que "(..) não se sustenta, pois, a premissa empregada pela decisão ora agravada para negar seguimento ao AREsp em tela, ao argumento de "que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 7/STJ," na medida em que, ao revés do sustentado pela decisão ora fustigada, o agravante atacou especificamente e fulminou o enfocado obstáculo erigido para negar seguimento ao AREsp, pelo que fica integralmente impugnada." (e-STJ, fls. 998/999)
+Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de inexistência de dívida.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação do seguinte fundamento da decisão de inadmissibilidade proferida pelo TJ/GO: incidência da Súmula 7/STJ.
+- Da Súmula 7 do STJ
+Da análise das razões do agravo em recurso especial, verifica-se que a parte agravante não impugnou a incidência da Súmula 7/STJ, de forma consistente, limitando-se a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar a desnecessidade de revolvimento de fatos e provas.
+Nesse sentido, confira-se: AgInt no AREsp n. 2.441.269/RS, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024; AgInt no AREsp n. 2.326.551/GO, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+A ausência de impugnação consistente à incidência da Súmula 7/STJ é corroborada a partir da transcrição do seguinte trecho das razões do agravo em recurso especial, constante no relatório da decisão agravada, no qual a parte agravante aduz que "(..) as questões suscitadas no REsp (evento 155) se acham acobertadas pela preclusão consumativa e pela Coisa Julgada, seja a material (exceção de pré-executiviade), seja a formal (decisões nos dois Embargos à Execução) e, assim, prescindem de incursão na seara fático-probatória dos autos, vez que se alçam a fatos jurígenos comprovados e existentes nos autos." (e-STJ, fl. 967).
+Da leitura do trecho acima, denota-se que a parte agravante, ao contrário de impugnar o fundamento da incidência da Súmula 7/STJ, constante na decisão de inadmissibilidade do Tribunal de origem, assevera que a coisa julgada - na hipótese - encontra-se comprovada por documentos e fatos constantes nos autos, o que demonstra a necessidade de revolvimento de fatos e provas.
+A título de reforço argumentativo, urge salientar que é entendimento sedimentado desta Corte Superior que a revisão do decidido pelas Cortes de origem a respeito da existência ou não de coisa julgada encontra óbice na Súmula 7/STJ. A esse propósito, conferir: AgInt no AREsp n. 1.862.319/DF (Terceira Turma, DJe de 29/2/2024), AgInt no REsp n. 1.737.453/SP (Terceira Turma, DJe de 28/2/2024), AgInt no AREsp n. 2.383.893/SP (Quarta Turma, DJe de 7/12/2023) e AgInt no AREsp n. 2.347.892/SC (Quarta Turma, DJe de 11/4/2024).
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp n. 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp n. 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+Por derradeiro, urge frisar que "a interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões" (AgInt no AREsp 1.907.085/RJ, 4ª Turma, DJe 28/04/2022). Nesse sentir, encontra-se inviável o conhecimento da petição de agravo interno de fls. 1.001/1.010 (e-STJ), acostada aos autos pela parte agravante em momento posterior à interposição do agravo interno ora em julgamento.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
