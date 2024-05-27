@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREDITMIX FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 8/11/2023.
+Concluso ao gabinete em: 13/5/2024.
+Ação: Execução de Título Extrajudicial ajuizada pela agravante em face de Tapira Administradora de Bens Próprios Ltda.
+Decisão interlocutória: estendeu os efeitos de decisão pretérita, em que reconhecida a fraude a execução perpetrada pelos devedores, e determinou a indisponibilidade de bens e quotas sociais da empresa MAIAMI EMPREENDIMENTOS E PARTICIPAÇÕES LTDA, bem como de empresas em relação as quais detém participação quais sejam TAPIRA ADMINISTRADORA DE BENS PRÓPRIOS LTDA e QUERÊNCIA ADMINISTRADORA DE BENS LTDA (fl. 1.549).
+Acórdão: deu provimento ao agravo de instrumento interposto pelo agravado, conforme ementa a seguir (fl. 1.548):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FRAUDE À EXECUÇÃO. DECISÃO QUE DETERMINOU A INDISPONIBILIDADE PATRIMONIAL DE PESSOA JURÍDICA ESTRANHA À LIDE. RECURSO DO TERCEIRO INTERESSADO. PENHORA DE QUOTAS SOCIAIS QUE VAI ALÉM DO PATRIMÔNIO TRANSFERIDO PELOS DEVEDORES NESTA EXECUCIONAL. INADEQUADA EXTENSÃO DOS EFEITOS DO RECONHECIMENTO DA FRAUDE À EXECUÇÃO A TERCEIROS ESTRANHOS AOS FUNDAMENTOS DO DECISÓRIO. OFENSA AO DEVIDO PROCESSO LEGAL CONFIGURADA. REFORMA QUE SE IMPÕE. PRECEDENTES DA JURISPRUDÊNCIA PÁTRIA. RECURSO CONHECIDO E PROVIDO.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação do art. 792 do CPC. Sustenta, em síntese, que "faz jus à manutenção da decisão que decretou a indisponibilidade de todas as cotas, incluindo as de titularidade do Sr. Nilson e da tesouraria, sob pena de violação ao decisum que reconheceu a fraude à execução e corretamente estendeu os efeitos da medida em relação à empresa Recorrida, uma vez que esta também integra o capital da própria empresa Maiami - incluindo sua tesouraria e Sr. Nilson" (fl. 1.597).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/SC, ao analisar a extensão da indisponibilidade das quotas sociais da empresa, por força do reconhecimento da fraude à execução, concluiu o seguinte (e-STJ fl. 1.551):
+Por sua completude e precisão, peço vênia para transcrever trecho decisório através do qual o eminente Des. RONALDO MORITZ MARTINS DA SILVA deferiu o pedido de tutela provisória recursal à Agravante, as quais adoto como razões de decidir (Evento 11 - grifei):
+Conforme a 2ª Alteração Contratual (instrumento social mais recente acostado aos autos - fls. 407/412), o quadro societário da agravante Tapira (total de 1.224.000 quotas) é composto por sua própria Tesouraria (612.000 quotas), pela empresa Maiami (306.000 quotas) e por Nilson Claudino (306.000 quotas).
+Assim, tendo em vista que a fraude à execução decorreu da sequência de atos originados pela transferência de imóveis à Maiami (no seu ato de constituição), a extensão dos efeitos da decisão de fls. 513/518 (dos autos de origem) à Tapira Administradora de Bens Próprios Ltda. não poderia atingir as quotas pertencentes a Nilson Claudino (306.000) e à tesouraria da ora agravante (612.000), devendo se restringir, a princípio, à quantidade de quotas pertencentes àquela empresa (Maiami).
+Portanto, observado, nesta fase de cognição sumária, o preenchimento do requisito da probabilidade do direito perseguido pela agravante e a fim de se evitar a ocorrência de perigo de dano ou de risco ao resultado útil do recurso, imprescindível a concessão, em parte, de efeito suspensivo do decisum combatido (fls. 537/540 dos autos de origem), para que a extensão dos reflexos da decisão de fls. 513/518 limite-se à participação da Maiami Empreendimentos e Participações Ltda. na Tapira Administradora de Bens Próprios Ltda., não atingindo as quotas de Nilson Claudino e da Tesouraria da agravante.
+Isto é, com espeque em tais premissas, pois, a análise do caderno processual nos revela que, de fato, a determinação de indisponibilidade de todas as quotas sociais de TAPIRA ADMINISTRADORA DE BENS PRÓPRIOS LTDA, ora Agravante, extrapolou o escopo do reconhecimento da fraude à execução em referência, na medida em que atingiu, não apenas, o patrimônio transferido pelos devedores à MAIAMI EMPREENDIMENTOS E PARTICIPAÇÕES LTDA, como também engessou a parcela do capital social de terceiros, quais sejam: à Tesouraria da própria Agravante e a Nilson Claudino.
+Logo, forçoso concluir que a decisão recorrida merece reforma, porquanto ultrapassou os lindes necessários ao acautelamento da demanda executiva, eis que atingiu o patrimônio de terceiros não abrangido pelo reconhecimento da fraude à execução, em evidente ofensa ao devido processo legal - dispensando-se maiores digressões.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTENSÃO DOS EFEITOS DO RECONHECIMENTO DA FRAUDE À EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Execução de Título Extrajudicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
