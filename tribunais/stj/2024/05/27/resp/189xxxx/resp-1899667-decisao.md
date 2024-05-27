@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ALEXANDRE JOSÉ MATUCK e OUTROS, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 3.584):
+PREVIDÊNCIA PRIVADA - Ação de cobrança (complementação de benefício) proposta contra o patrocinador e a entidade de previdência privada - Pretensão de recebimento de diferenças decorrentes da inclusão de PLR (participação em lucros e resultados) - Sentença de extinção em relação ao sucessor do patrocinador e de improcedência quanto à entidade de previdência privada - Apelo dos autores - Legitimidade passiva da empresa patrocinadora em ações de revisão de suplementação de aposentadoria afastada em julgamento de recurso repetitivo - PLR prevista apenas para os empregados em atividade a partir da convenção coletiva de trabalho - Inativos excluídos - Regulamento da entidade de previdência privada que não prevê o pagamento de PLR - Apelação desprovida.
+Rejeitados os embargos de declaração opostos (fls. 3.606-3.609).
+No presente recurso especial, o recorrente alega que o "Acórdão de fls., ao indeferir o pagamento do benefício complementar de aposentadoria relativo às PLRs que foram previamente contratadas, violou frontalmente o disposto no Art. 1º e Art. 18 da Lei Complementar 109/2001, os quais garantem o pagamento de tal benefício" (fl. 3.620).
+Apresentadas as contrarrazões (fls. 3.647-3.664), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 3669-3672).
+É, no essencial, o relatório.
+A pretensão recursal não encontra qualquer amparo na jurisprudência do STJ, firmada inclusive pela sistemática dos repetitivos (Tema n. 736/STJ), de que, no regime de previdência privada, é vedado o repasse de abono e vantagens de quaisquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares, sem a prévia formação da fonte de custeio, de modo a evitar o desequilíbrio atuarial nos planos de benefícios.
+A emento do paradigma:
+PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. PLANO DE BENEFÍCIOS SUBMETIDO À LEI COMPLEMENTAR N. 108/2001, JÁ OPERANTE POR OCASIÃO DO ADVENTO DA LEI. VEDAÇÃO DE REPASSE DE ABONO E VANTAGENS DE QUALQUER NATUREZA PARA OS BENEFÍCIOS EM MANUTENÇÃO. CONCESSÃO DE VERBA NÃO PREVISTA NO REGULAMENTO DO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, AINDA QUE NÃO SEJA PATROCINADO POR ENTIDADE DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE.
+1. Para fins do art. 543-C do Código de Processo Civil: a) Nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares; b) Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo.
+2. Recurso especial provido.
+(REsp n. 1.425.326/RS, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 1/8/2014.)
+A título de reforço:
+2. A jurisprudência do STJ é no sentido de que não é cabível estender à aposentadoria os benefícios instituídos aos funcionários em atividade, considerando-se a exigência de prévia acumulação de reservas e os princípios do equilíbrio atuarial e do mutualismo que regem o sistema de previdência complementar.
+(EDcl no AgInt no AREsp n. 1.902.848/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 24/4/2024.)
+Em situação idêntica à dos autos, em que a pretensão se volta à extensão da participação nos lucros aos aposentados pelo BANESPREV, colaciona-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. LUCROS. PARTICIPAÇÃO. APOSENTADOS. EXTENSÃO. IMPOSSIBILIDADE. FONTE DE CUSTEIO. AUSÊNCIA. RECURSO ESPECIAL REPETITIVO. RESP Nº 1.425.326/RS.
+1. Discute-se nos autos acerca da possibilidade de extensão do pagamento de gratificação semestral e participação nos lucros e resultados aos empregados aposentados.
+2. O Superior Tribunal de Justiça, no julgamento do REsp nº 1.425.326/RS, submetido ao rito dos recursos especiais repetitivos, concluiu que é inviável a incorporação de abonos e vantagens concedidas aos funcionários em atividade aos proventos de complementação de aposentadoria em manutenção pagos por entidade de previdência privada.
+3. Inadmissível a extensão aos inativos da participação nos lucros concedida aos funcionários da ativa em virtude da ausência de prévia reserva matemática.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.879.356/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 25/4/2024.)
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula n. 568/STJ , in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20%.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO. PRL. EXTENSÃO A APOSENTADO. DESCABIMENTO. AUSÊNCIA DE FONTE DE CUSTEIO. TEMA N. 736/STJ. RECURSO ESPECIAL IMPROVIDO.
