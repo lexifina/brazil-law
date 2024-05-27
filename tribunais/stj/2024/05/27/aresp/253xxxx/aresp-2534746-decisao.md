@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo do BANCO ABC BRASIL S.A. contra decisão que inadmitiu recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 2.644):
+APELAÇÃO. MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO FISCAL. RECURSO ADMINISTRATIVO PARCIAL. DESMEMBRAMENTO DO PROCESSO ADMINISTRATIVO. POSSIBILIDADE. ART. 21, § 1º DECRETO 70.235/72. APELAÇÃO IMPROVIDA.
+I - O Decreto nº 70.235/72, que dispõe sobre o Processo Administrativo Fiscal da União, prevê o desmembramento do crédito tributário para imediata cobrança da parcela incontroversa. Nestas condições, parte da decisão que não foi objeto de impugnação, tornou-se definitiva, sendo certo que tais valores já não podem ser alterados em âmbito administrativo.
+II - Assim sendo, inexiste óbice para o desmembramento do processo administrativo nº16327.720237/2015-52, visto que o crédito tributário cobrado no processo administrativo nº16327.721.191/2020-56 foi definitivamente constituído. Ressalta-se que não há previsão legal para suspensão do crédito tributário não sujeito a julgamento de recurso administrativo (Art.151, inciso III do CTN). Precedentes: REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/08/2016, DJe 26/08/2016; TRF3 - Processo Ap - APELAÇÃO CÍVEL - 335736 / SP 0006225-49.2011.4.03.6105 Relator(a) DESEMBARGADOR FEDERAL ANDRÉ NEKATSCHALOW Órgão Julgador QUINTA TURMA - 1A. SEÇÃO Data do Julgamento 29/04/2013 Data da Publicação/Fonte e-DJF3 Judicial 1 DATA: 08/05/2013; TRF4, AC 5001385-21.2016.4.04.7102, SEGUNDA TURMA, Relator RÔMULO PIZZOLATTI, juntado aos autos em 22/11/2016; TRF4, AC 5027591-10.2018.4.04.7100, SEGUNDA TURMA, Relator ALEXANDRE ROSSATO DA SILVA ÁVILA, juntado aos autos em 24/03/2021.
+III -Nessa esteira, não assiste razão ao impetrante, eis que o desmembramento do processo administrativo nº 16327.720237/2015-52 é regular, sendo perfeitamente possível a exigência de pagamento dos créditos tributários não submetidos a recurso administrativo, devendo ser mantida a sentença recorrida.
+IV - Apelação improvida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.692/2.699).
+Em suas razões de recurso especial, a parte agravante sustenta ofensa ao art. 1.022, II, parágrafo único, do CPC/2015, alegando negativa de prestação jurisdicional. Aponta violação do art. 142 do CTN, do art. 38 do Decreto n. 7.574/2011, do art. 55 do CPC/2015 e do art. 20 da LINDB, por entender, em essência, ser impossível "segmentar parcela de uma infração autuada, para cobrança, uma vez que a validade do ato administrativo em questão ainda está sendo discutida no âmbito do CARF" (e-STJ fl. 2.717).
+Com contrarrazões (e-STJ fls. 2.776/2.790), o recurso especial foi inadmitido na origem, sendo objeto do presente agravo (e-STJ fls. 2.797/2.817).
+Parecer ministerial às e-STJ fls. 2.860/2.864.
+Passo a decidir.
+O Tribunal de origem, em autos de mandado de segurança, manteve a sentença que denegou a segurança, ao fundamento de que é cabível o desmembramento de processo administrativo para cobrança da parte incontroversa do crédito tributário, não mais objeto de recurso na esfera administrativa.
+Vejamos, no que interessa, o que restou consignado no voto condutor do julgado recorrido (e-STJ fls. 2.649/2.653):
+No caso concreto, foi lavrado auto de infração, objeto do processo administrativo nº 16327.720237/2015-52, para cobrança de contribuições previdenciárias e de terceiros incidentes sobre os pagamentos efetuados em desconformidade com a lei a título de Participação nos Lucros e Resultados - PLR, no período de janeiro de 2010 a dezembro de 2012.
+Em sessão realizada no dia 26 de abril de 2016, foi proferida decisão que julgou procedente o auto de infração, de modo que os créditos tributários apontados no processo administrativo nº 16327.720237/2015-52 passaram a ser devidos (ID 165312933, p. 149-174).
+Após, o impetrante apresentou recurso voluntário junto ao Conselho Administrativo de Recursos Fiscais - CARF, ao qual foi dado parcial provimento (ID 165312941,p. 42-65).
+A União (Fazenda Nacional), ora impetrada, interpôs recurso especial em relação a parte da decisão proferida pelo Conselho Administrativo de Recursos Fiscais, ao qual foi dado seguimento e está pendente de julgamento no Câmara Superior de Recursos Fiscais (ID165312941, p. 128 - 137).
+Por sua vez, o impetrante também interpôs recurso especial. Ocorre, todavia, que foi negado seguimento ao recurso do contribuinte (ID 165312944, p.166 - 171 e ID 165312944p.9). Desse modo, parte da decisão proferida pelo Conselho Administrativo de Recursos Fiscais transitou em julgado administrativamente.
+O Decreto nº 70.235/72, que dispõe sobre o Processo Administrativo Fiscal da União, prevê o desmembramento do crédito tributário para imediata cobrança da parcela incontroversa, in verbis:
+ ..
+Ademais, o artigo 42 do Decreto nº 70.235/72 explica quais são as decisões definitivas no processo administrativo fiscal. Vejamos:
+ ..
+Nestas condições, parte da decisão que não foi objeto de impugnação, tornou-se definitiva, sendo certo que tais valores já não podem ser alterados em âmbito administrativo.
+Assim sendo, inexiste óbice para o desmembramento do processo administrativo nº 16327.720237/2015-52, visto que o crédito tributário cobrado no processo administrativo nº 16327.721.191/2020-56 foi definitivamente constituído.
+Ressalta-se que não há previsão legal para suspensão do crédito tributário não sujeito a julgamento de recurso administrativo (Art. 151, inciso III do CTN).
+Nesse sentido, corroborando os entendimentos supracitados, o Superior Tribunal de Justiça proferiu a seguinte decisão:
+ ..
+Nessa esteira, não assiste razão ao impetrante, eis que o desmembramento do processo administrativo nº 16327.720237/2015-52 é regular, sendo perfeitamente possível a exigência de pagamento dos créditos tributários não submetidos a recurso administrativo, devendo ser mantida a sentença recorrida.
+Ante o exposto, nego provimento à apelação, nos termos da fundamentação.
+É o voto.
+Quanto à alegada ofensa ao art. 1.022, II, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+1. Verifica-se não ter ocorrido ofensa aos arts. 10, 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.646.468/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCESSIONÁRIO DE SERVIÇO PÚBLICO. RODOVIA FEDERAL. FAIXA DE DOMÍNIO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. UTILIZAÇÃO. INSTALAÇÃO DE POSTES E FIOS. REMUNERAÇÃO EXIGIBILIDADE. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. PRESCRIÇÃO QUINQUENAL. COBRANÇA PREVISTA NO CONTRATO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação dos arts. 489 e 1.022, ambos do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - Da alegada violação dos arts. 489, §1º, IV e V, e 1.022, I e II, do CPC/2015, sem razão os recorrentes, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide, mormente aquelas indicadas como omitidas (fls. 893-902) não obstante tenha decidido contrariamente às suas pretensões.
+V - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso. Tem-se, ainda, que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no AREsp n. 1.046.644/MS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/9/2017, DJe 11/9/2017 e AgInt no REsp n. 1.625.513/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017).
+ ..
+XI - Agravo interno improvido.
+(AgInt no AREsp 1.604.913/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/03/2022, DJe 17/03/2022).
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Dessa forma, correta a rejeição dos embargos de declaração, ante a inexistência de omissão, contradição ou obscuridade a ser sanada, e, por conseguinte, deve-se concluir pela ausência de ofensa ao art. 1.022, II, do CPC/2015.
+Na hipótese, o Tribunal de origem, ao julgar cabível a cobrança da parte incontroversa, não objeto de impugnação na esfera administrativa, atuou em harmonia com a orientação da jurisprudência desta Corte Superior, consoante atesta o seguinte acórdão:
+TRIBUTÁRIO. CRÉDITO TRIBUTÁRIO. DECISÃO ADMINISTRATIVA. PARTE INCONTROVERSA. COBRANÇA. VIABILIDADE. PRAZO PRESCRICIONAL. TERMO A QUO. 30 DIAS APÓS A NOTIFICAÇÃO DO CONTRIBUINTE.
+1. É cabível a cobrança da parte do crédito tributário definitivamente reconhecida na esfera administrativa, com base no art. 42, parágrafo único, do Decreto n. 70.235/1972.
+2. "O termo inicial do prazo prescricional quinquenal para a cobrança dos créditos tributários constituídos mediante o Decreto n. 70.235/72 inicia-se após o crédito estar regularmente constituído. Ou seja, não havendo impugnação, o termo a quo da prescrição ocorre após 30 dias da data em que o contribuinte foi notificado para pagar o débito tributário ou ofertar impugnação" (AgInt no REsp n. 1.734.552/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/6/2018, DJe de 2/8/2018).
+3. Hipótese em que, reconhecida a exigência, pelo menos, de 50% da multa aplicada pela compensação realizada indevidamente, diante da ausência de impugnação administrativa do ora recorrente, sobrevém, na verdade, o dever do sujeito ativo de promover a cobrança dessa parte não impugnada.
+4. Recurso especial conhecido e desprovido.
+(REsp 1.875.084/SC, de minha relatoria, Primeira Turma, julgado em 12/12/2023, DJe de 19/02/2024).
+A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula 83 do STJ, o que inviabiliza o conhecimento do recurso pelas alíneas "a" e "c" do permissivo.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  ..  INCIDÊNCIA DO ENUNCIADO SUMULAR N. 83/STJ.
+ ..
+V - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.  ..
+VIII - Agravo Interno improvido.
+(AgInt no AREsp n. 71.415/CE, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/2/2018, DJe 2/3/2018.)
+Além disso, o Tribunal de origem, consoante demonstra o excerto transcrito, decidiu a controvérsia especialmente à luz do disposto nos arts. 21, § 1º, e 42 do Decreto n. 70.235/1972 e no art. 151, III, do CTN.
+A parte ora agravante, em suas razões de recurso especial, não impugnou esse fundamento basilar que ampara o acórdão recorrido.
+Assim, o recurso especial esbarra no obstáculo da Súmula 283 do STF, que dispõe: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem fixação de honorários advocatícios, porquanto se trata de recurso interposto em autos de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
