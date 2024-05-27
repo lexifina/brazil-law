@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Wagner Jose Souza Filho, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1523707-15.2023.8.26.0228).
+Narram os autos que o Juízo de Direito da da 25ª Vara Criminal da comarca de São Paulo/SP condenou o paciente como incurso no crimes de roubo majorado, adulteração de sinal identificador de veículo automotor e desobediência às penas, respectivamente, de 11 anos de reclusão e 26 dias-multa, de 3 anos e 6 meses de reclusão, e 11 dias-multa, e de 17 dias de detenção e 11 dias-multa.
+Requer-se, em liminar e no mérito, a concessão da ordem para que seja reconhecida a atenuante da confissão espontânea, já que o paciente confessou a prática dos delitos; II. haja a incidência da atenuante prevista no art. 65, inciso I, CP, diante da menoridade relativa do paciente (menor de 21 anos); e III. a aplicação do disposto no parágrafo único do art. 68, CP, para que incida uma só causa de aumento, 2/3 em razão do uso da arma de fogo, com o consequente redimensionamento da pena e, subsidiariamente, caso mantidas as duas causas de aumento no tocante ao crime de roubo, que seja fixado em 1/3 relativo ao concurso de agentes e restrição da liberdade da vítima em obediência a Súmula 443 deste C. Tribunal Superior (fl. 15).
+Em 19/4/2024, indeferi o pedido liminar (fls. 123/124).
+Prestadas as informações (fls. 130/164), o Ministério Público Federal opinou pelo não conhecimento da impetração, mas pela concessão parcial da ordem de ofício (fls. 169/179).
+É o relatório.
+O presente pedido comporta acolhimento.
+Confira-se, no que interessa, a sentença condenatória (fls. 52/54 - grifo nosso):
+ ..
+Na primeira fase da dosimetria da pena verifico que o réu ostenta bons antecedentes, circunstância que, à míngua de outras, permite a fixação das penas no patamar mínimo legal.
+Na segunda fase da dosimetria da pena, não há atenuantes. Todavia, se trata de réu reincidente específico em crime gravíssimo.
+Esta circunstância demonstra que o réu é avesso a terapêutica penal e faz do crime um meio de vida. Por estes motivos, agravo a pena do crime de roubo em 1/5 (um quinto) e as penas dos crimes de desobediência e de adulteração de sinal identificador de veículo em 1/6 (um sexto) (fls. 116/119).
+Na terceira fase da dosimetria das penas, não há causas de diminuição. Todavia, verifico que o réu praticou a conduta delitiva mediante concurso de pessoas e restrição à liberdade da vítima, o que demonstra, concretamente, maior reprovabilidade da conduta diante da menor possibilidade de defesa da referida vítima. Por essas razões, aumento a pena em 3/8 (três oitavos), com a fixação da pena definitiva em 06 (seis) anos, 07 (sete) meses e 06 (seis) dias de reclusão, além do pagamento de 16 (dezesseis) dias-multa pela prática do crime de roubo.
+Ademais, consoante alteração dada pela Lei nº 13.654/2018, pela causa de aumento do emprego de arma do crime de roubo, de rigor a exasperação da pena do roubo em 2/3(dois terços), totalizando 11 (onze) anos de reclusão, além do pagamento de 26 (vinte e seis) dias-multa. E não há que se falar em aplicação do artigo 68, §º único do Código Penal no caso concreto. E isto porque a regra contida no artigo 68 §º único do Código Penal é uma mera faculdade concedida ao Julgador a fim de evitar o rigor da punição excessiva a ser aferida no caso concreto e não um direito subjetivo do réu. E no caso concreto, verifica-se que o réu praticou o crime de roubo mediante grave ameaça consistente no emprego de arma de fogo, em comparsaria e com restrição à liberdade da vítima, tratando-se, pois, de delito gravíssimo e responsável por trancafiar diuturnamente os cidadãos em suas próprias casas e tornando-os reféns dos mais diversos aparatos de segurança em razão de justificado medo decorrente da violência galopante na já combalida sociedade paulistana. Estes fatos demonstram a incompatibilidade do benefício invocado pela defesa ao caso concreto, sobretudo após o advento da Lei13.654/18 que passou a prever a punição mais rigorosa daquele que tem a ousadia de violentar o patrimônio alheio com a utilização da arma de fogo, tal como se sucedeu nestes autos em que o réu, além disso, agiu em comparsaria e restringiu a liberdade da vítima.
+ ..
+I - Condenar WAGNER JOSÉ SOUZA FILHO a pena de11 (onze) anos de reclusão, além de 26 (vinte e seis) dias-multa, no patamar mínimo legal, pela prática do delito previsto no artigo 157, § 2º, II e V e § 2º - A, I, do Código Penal.
+II - Condenar WAGNER JOSÉ SOUZA FILHO a pena de 03 (três) anos e 06 (seis) meses de reclusão, além o pagamento de 11 (onze) dias-multa, no patamar mínimo legal, pela prática do delito previsto no artigo 311, § 2º, III, do Código Penal.
+III - Condenar WAGNER JOSÉ SOUZA FILHO a pena 17 (dezessete) dias de detenção, além o pagamento de 11 (onze) dias-multa, no patamar mínimo legal, pela prática do delito previsto no artigo 330 do Código Penal.
+ ..
+Da análise dos trechos transcritos, exsurge a existência de constrangimento ilegal.
+Primeiro, por ser incontroverso nos autos que o paciente confessou em relação ao crime de desobediência e que seria menor de 21 anos à época dos fatos, fazendo jus às respectivas atenuantes.
+Depois, porque o Magistrado singular não justificou adequadamente a incidência das três majorantes previstas na parte especial, em dissonância ao entendimento deste Superior Tribunal.
+Redimensionando-se, portanto, as penas impostas, temos:
+a) roubo majorado:
+Mantida a fixação da pena-base no mínimo legal, na segunda etapa, compenso parcialmente a agravante da reincidência com a atenuante da menoridade relativa, resultando a reprimenda em 4 anos e 6 meses de reclusão, e 11 dias-multa.
+Na terceira etapa, faço incidir o aumento em relação a apenas uma majorante do crime de roubo (o emprego de arma de 2/3), resultando a pena em 7 anos e 6 meses de reclusão, e 18 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+b) adulteração de sinal identificador de veículo automotor:
+Mantida a fixação da pena-base no mínimo legal, na segunda etapa, compenso parcialmente a agravante da reincidência com a atenuante da menoridade relativa, resultando a reprimenda em 3 anos, 4 meses e 15 dias de reclusão, e 11 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+c) desobediência:
+Mantida a fixação da pena-base no mínimo legal, na segunda etapa, compenso integralmente a agravante da reincidência com a atenuante da confissão espontânea, resultando a reprimenda em 15 dias de detenção, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+Aplicando-se o concurso material de crimes, resultam as reprimendas em 10 anos e 10 meses de reclusão, e 29 dias-multa, e 15 dias de detenção e 10 dias-multa.
+Em face do exposto, concedo a ordem impetrada para reconhecer a existência de ilegalidades na dosimetria da pena imposta ao paciente (atenuantes e majorantes da parte especial), resultando a pena imposta a ele em 10 anos e 10 meses de reclusão, e 29 dias-multa, em relação aos crimes de roubo majorado e adulteração de sinal identificador de veículo automotor, cujo regime permanece o fechado, e em 15 dias de detenção e 10 dias-multa, em relação ao delito de desobediência, no regime inicial semiaberto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E DESOBEDIÊNCIA. DOSIMETRIA DA PENA. VIA ELEITA INADEQUADA. EXISTÊNCIA, ENTRETANTO, DE COAÇÃO ILEGAL MANIFESTA. FALTA DE RECONHECIMENTO DE ATENUANTES E AUSÊNCIA DE FUNDAMENTAÇÃO NA INCIDÊNCIA DE MAJORANTES DA PARTE ESPECIAL. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida.
