@@ -1,0 +1,40 @@
+DECISÃO
+A controvérsia foi bem relatada no parecer ministerial, in verbis (e-STJ fls. 1.712/1.713):
+Trata-se de agravo em recurso especial contra decisão do presidente da Seção de Direito Criminal do TJ/SP que inadmitiu recurso especial interposto com fundamento nas alíneas "a" e "c" do art. 105, III, da CF, por aplicação das Súmulas n. 284/STF e 7/STJ e porque não comprovado o dissídio jurisprudencial.
+Consta dos autos que o recorrente foi condenado, pelo tribunal do júri, pelo crime dos arts. 121, §2º, I, IV e VI, na forma do §2º-A, I, c. c. 14, II, ambos do CP, a 11 anos e 8 meses de reclusão, em regime fechado (f. 1.529-1.531). A defesa apelou, tendo o TJ/SP dado parcial provimento ao recurso para reduzir a pena a 10 anos, 10 meses e 20 dias de reclusão (f. 1.615-1.627).
+Contra o acórdão, a defesa opôs embargos de declaração, que foram rejeitados(f. 1.658-1.661).
+Interpôs, então, recurso especial, com fundamento nas alíneas "a" e "c" do permissivo constitucional, alegando violação ao art. 61, I, do CP, diante da impossibilidade de incidência da agravante da reincidência fundada em condenação em que operada a extinção da punibilidade pela prescrição (f. 1.633-1.646).
+Na origem, o recurso não foi admitido, sob os argumentos de que: a) o recurso foi interposto sem a fundamentação necessária (art. 1.029 CPC e Súmula n. 284/STF); b) não foram preenchidas as condições exigidas pelo CPC, o RISTJ e a CF para a comprovação do dissídio jurisprudencial; c) para afastar as conclusões das instâncias ordinárias, era necessário o revolvimento de provas, proibido pela Súmula n. 7/STJ (f. 1.679-1.680).
+No presente agravo, afirma o agravante que a decisão agravada está equivocada porque demonstrada de forma objetiva a violação ao art. 61, I, do CP e o dissídio jurisprudencial com acórdão do TJ/PR e porque não há necessidade de reexame de fatos e provas, devendo ser afastada a Súmula n. 7/STJ (f. 1.683-1.689).
+O agravo é tempestivo e impugna os fundamentos da decisão de inadmissibilidade que, de fato, está equivocada. Ao contrário do que afirma o tribunal recorrido, entendo que o recurso especial apresenta correta fundamentação, que o dissídio jurisprudencial está demonstrado e que a pretensão recursal não depende de reexame do conjunto probatório dos autos. O agravo deve ser conhecido para exame do recurso especial.
+O Ministério Público Federal manifestou-se pelo "conhecimento do agravo para prover o recurso especial. Acaso não conhecido, pela concessão de habeas corpus de ofício" (e-STJ fl. 1.712).
+Decido.
+O pleito recursal deve prosperar.
+Nesse entendimento, adoto como razões de decidir o parecer ministerial, in verbis (e-STJ fls. 1.713/1.714, grifei):
+No mérito, razão assiste ao agravante.
+Ao dosar a reprimenda, o juízo de primeiro grau reconheceu a reincidência, referindo-se ao processo n. 0079702-35.2006.8.26.0050 (f. 1.530). Em recurso de apelação, o agravante nada disse sobre a referida circunstância, que foi mantida pelo tribunal a quo (f.1.626). Em sede de embargos declaratórios, contudo, a defesa demonstrou, com certidão de objeto e pé relativa à ação penal n. 0079702-35.2006.8.26.0050 (f. 1.655-1.656), que havia sido extinta a punibilidade do agravante, em 25/11/15 e que, portanto, a circunstância agravante deveria ser afastada.
+O TJ/SP não acolheu o pedido, ao seguinte argumento:
+ ..  Em nenhum momento, nas razões de apelo, a defesa argumentou contra
+a elevação promovida na segunda etapa do cálculo, por conta da reincidência, basta mera leitura da peça de fls. 1562-1575 para verificar a ausência de controvérsia a tal respeito.
+Além disso, a sentença justificou a elevação com amparo na certidão de fls.1512-1515 (em especial fl. 1513), onde consta condenação com trânsito em julgado para a defesa aos 4.3.2016.
+Ou seja, tanto por ocasião da prolação da sentença, como do julgamento neste Tribunal, os elementos constantes dos autos davam conta da existência de condenação transitada em julgado para a defesa, tanto que o nobre causídico nada mencionou a respeito.
+Ora, não havendo insurgência nas razões de apelo quanto a este tópico da sentença, não se pode atribuir omissão ou contradição a este Tribunal.
+Assim, a certidão juntada aos autos após a decisão colegiada não tem aptidão para lastrear a pretensão posta nestes embargos.  ..  (f. 1.660-1.661).
+A sentença baseou-se na certidão de f. 1.508, que noticiou a condenação do agravante na referida ação penal pelo crime do art. 155, §4º, II e IV c/c 14, II ambos do CP, proferida em 30/11/10. Após a data da condenação, a certidão informava, apenas, o trânsito em julgado da sentença em 4/3/16 para a defesa e em 15/4/16 para o MP.
+Entretanto, conforme a certidão de objeto e pé juntada pela defesa, a informação sobre a qual se baseou o juízo a quo para reconhecer sua reincidência estava incompleta, porque após a sentença condenatória de 30/11/10, o agravante apelou e a sentença transitou em julgado para o MP em 20/12/10 (f. 1.655). O TJ/SP, em 25/11/15declarou extinta a punibilidade, pela prescrição e, assim, as datas de trânsito em julgado, acima mencionadas, se referem, em realidade, ao trânsito da decisão que reconheceu a prescrição (f. 1.656).
+Vê-se, portanto, que o aumento da pena do agravante, pela reincidência, se fundou em informação equivocada, que deveria ter sido corrigida pelo tribunal a quo, a despeito de não ter o agravante suscitado o equívoco no momento próprio. Há violação ao art.61, I, do CP. Portanto, acaso não conhecido o recurso especial, é caso de concessão de habeas corpus, de ofício.
+Diante do exposto, o parecer é pelo conhecimento do agravo, para prover o recurso especial, afastando-se da pena a agravante da reincidência.
+Com efeito, o Superior Tribunal de Justiça tem jurisprudência firmada acerca da impossibilidade de utilização de condenação criminal transitada em julgado cuja punibilidade tenha sido extinta pela prescrição da pretensão punitiva.
+Confira-se a respeito:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO SIMPLES. PACIENTE CONDENADO À SANÇÃO CORPORAL TOTAL DE 4 ANOS E 8 MESES DE RECLUSÃO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. PROCESSO TRANSITADO EM JULGADO CUJA PUNIBILIDADE FOI EXTINTA PELA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EXCLUSÃO. PROCESSO EM ANDAMENTO. OFENSA À SÚMULA 444/STJ. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- Condenação criminal transitada em julgado, cuja punibilidade foi extinta pela prescrição da pretensão punitiva do Estado, não pode ser utilizado para agravar a pena-base a título de maus antecedente. Precedentes.
+- Inexiste ofensa à Súmula n. 444/STJ, quando a exasperação da pena-base opera-se com lastro em processo com condenação definitiva.
+- Habeas corpus não conhecido. Ordem concedida ex officio, reduzindo a pena do paciente para 4 anos e 4 meses de reclusão, mantidos os demais termos da condenação.
+(HC 306.304/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/10/2016, DJe 20/10/2016)
+Passo ao redimensionamento da reprimenda.
+Afastada a reincidência, a pena fica, na segunda etapa, em 14 anos de reclusão; e, na terceira fase, mantida a redução pela tentativa, em 1/3, de modo que a torno definitiva em 9 anos e 4 meses de reclusão.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
