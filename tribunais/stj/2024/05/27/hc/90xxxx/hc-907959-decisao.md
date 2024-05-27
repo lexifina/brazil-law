@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WASHINGTON SILVA GUILHERME apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0010350-08.2024.8.19.0000, de relatoria do Desembargador Paulo de Tarso Neves).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente, pela prática, em tese, de tentativa de feminicídio (art. 121, § 2º, incisos II, IV e VI, c/c o art. 14, inciso II, todos do Código Penal).
+Segundo a peça acusatória (e-STJ fls. 31/32):
+No dia 5 de fevereiro de 2024, por volta das 21h 15min, na Rua Itaporé, próximo ao nº 33, Vilar dos Teles, nesta Comarca, o denunciado, com vontade livre e consciente de matar, agrediu IVONE FERREIRA CALIXTO DA CRUZ com socos no corpo e chutes na cabeça, causando-lhe as lesões descritas no auto de exame de corpo de delito acostado aos autos.
+O crime de homicídio não se consumou por circunstância alheia à vontade do denunciado, pois embora IVONE tenha ficado desacordada em razão das agressões, os ferimentos não comprometeram nenhum órgão vital, permitindo que a vítima ser recuperasse após receber eficaz atendimento médico.
+O injusto foi cometido por motivo fútil, eis que motivado por uma dívida.
+O injusto ainda foi cometido por meio que impossibilitou a defesa da vítima tendo em vista que foi agredida de surpresa, quando acreditava que somente teria uma conversa com o denunciado, sem que lhe fosse dada qualquer oportunidade de se desvencilhar da agressão perpetrada.
+O delito foi praticado contra a vítima por razões de sua condição de sexo feminino, em razão do patente menosprezo do denunciado à condição de mulher da ofendida.
+O Tribunal de origem denegou a ordem em acórdão assim ementado (e-STJ fl. 19):
+HABEAS CORPUS. TENTATIVA DE FEMINICÍDIO. (ARTIGO 121, §2º, INCISOS II, IV E VI, COMBINADO COM O ARTIGO 14, INCISO II, TODOS DO CP) - 1º) AINDA QUE A LIBERDADE PROVISÓRIA ESTEJA "PENDENTE DE AVALIA- ÇÃO" NA PRIMEIRA INSTÂNCIA, ESSE MOTIVO NÃO IMPEDE O CONHECIMENTO DA PRESENTE DEMANDA CONSTITUCIONAL; 2º) SEGREGAÇÃO AMPARADA EM IDÔNEOS E CONCRETOS FUNDAMENTOS, VEJAMOS: GRAVEMENTE ATENTA CONTRA A ORDEM PÚBLICA, CUJA PRESERVAÇÃO TAMBÉM ESTÁ AFETA AO PODER JUDICIÁRIO, O AGENTE QUE INICIA A EXECUÇÃO DE FEMINICÍDIO, CRIME CONSIDERADO HEDIONDO (ARTIGO 1º, INCISO I, DA LEI 8.072/90). ADEMAIS, CONSTAM DA DENÚNCIA OUTRAS QUALIFICADORAS (MOTIVO FÚTIL E RECURSO QUE IMPOSSIBILITOU A DEFESA DA OFENDIDA); 3º) NÃO SE IDENTIFICA DIVERSA MEDIDA CAUTELAR MAIS ADEQUADA À HIPÓTESE VERTENTE. HAVENDO MOTIVO QUE AUTORIZA A PRISÃO, A LIBERDADE PROVISÓRIA É INADMISSÍVEL (ARTIGO 321, A CONTRÁRIO SENSO, DO CPP). ENFIM, NÃO SE VERIFICA O ALEGADO CONSTRANGIMENTO ILEGAL. PORQUE DESPIDA DE VÍCIOS, AGASALHADA NO ARTIGO 312, DO CPP, REVELA-SE INCENSURÁVEL A DECISÃO COMBATIDA. ORDEM DENEGADA.
+No presente writ, alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea, já que pautado na gravidade abstrata do delito, e assere não estarem presentes os requisitos autorizadores da custódia.
+Destaca as condições pessoais favoráveis ao acusado, pontua que ele é pai de duas crianças que dependem de seu sustento e afirma ser suficiente a aplicação de outras medidas cautelares, consoante o disposto no art. 319 do CPP.
+Dessa forma, requer (e-STJ fl. 18):
+I - A concessão liminar da ordem de habeas corpus a fim de revogar à prisão cautelar e substituí-la por medidas alternativas ao cárcere previstas no artigo 319, I, II, III, IV, V e IX do Código de Processo Penal, ou medidas cautelares atípicas como prisão domiciliar com uso de monitoramento eletrônico;
+II - Que no mérito seja confirmado a liminar a fim de que seja revogada a prisão cautelar do paciente, substituindo-a por medidas cautelares diversas do cárcere, em especial o uso de monitoramento eletrônico.
+Liminar indeferida (e-STJ fls. 170/171).
+Informações prestadas (e-STJ fls. 177/182 e 187/193).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 195/203).
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 142/143):
+A materialidade parece estar demonstrada pelo boletim de atendimento médico de fls. que demonstram as lesões sofridas pela vítima. Destaca-se ainda que a testemunha Renata corrobora a ocorrência das lesões e o próprio indiciado não nega as lesões sofridas pela vítima.
+A vítima, ainda, informa que as agressões por parte do autor do fato se deram em razão de dívida não paga, parecendo a situação se amoldar ao crime do art. 158 do Código Penal.
+Quanto à autoria, a testemunha Renata confirmou as agressões por parte do autor, corroborando as afirmações da vítima. Ambas indicam, ainda, que a violência teve a intenção de cobrar dívida de agiotagem.
+Verifica-se, ainda, que uma pessoa tenha disposição para espancar uma mulher com socos e chutes por todo corpo, inclusive na cabeça, e mesmo com a vítima caída, é um risco à ordem pública.
+As outras anotações criminais do autor parecem confirmar essa disposição do autor. E o risco é ainda mais imediato em razão da dívida da vítima com o indiciado persistir.
+Por fim, é verdade que ainda não há uma denúncia apresentada pelo Ministério Público, não é menos exato afirmar que a conclusão do inquérito, com a oitiva da vítima, do autor do fato e da testemunha se deu em um momento em que há um recesso forense pelo feriado de carnaval.
+Assim, excepcionalmente, é caso de decretação da prisão preventiva em sede de plantão.
+Ante o exposto, DECRETO A PRISÃO PREVENTIVA, com fulcro no art. 310 e art. 313, ambos do CPP, com a redação dada pela Lei nº 12.403/2011 de WASHINGTON SILVA GUILHERME, RG 247695653, CPF 13456294786, filho de Marta Fernandes Silva. (Grifei.)
+O pedido de revogação da custódia foi indeferido nos termos a seguir transcritos (e-STJ fls. 197/198):
+Consta nos autos que o réu, com vontade livre e consciente de matar, agrediu a vítima Ivone Ferreira Calixto da Cruz, com socos e pontapés na cabeça mesmo quando esta já estava caída, causando-lhe lesões pelo corpo, por ocasião de cobrança de uma suposta dívida contraída pela vítima.
+Segundo a denúncia, o crime cometido por meio que impossibilitou a defesa da vítima, eis que foi agredida de surpresa, quando acreditava que somente teria uma conversa com o denunciado, sem que lhe fosse dada qualquer oportunidade de se desvencilhar da agressão perpetrada. E praticado contra a vítima por razões de sua condição de sexo feminino, em razão do patente menosprezo do denunciado à condição de mulher da ofendida.
+ ..
+A gravidade concreta do crime de tentativa de feminicídio contra a vitima, demonstra a periculosidade do réu e justifica a prisão preventiva para garantia da ordem pública.
+ ..
+Diante da gravidade concreta do delito e da periculosidade da parte ré, as medidas cautelares diversas da prisão mostram-se insuficientes.
+ ..
+Ressalte-se, ainda, que ao réu é imputado crime grave, um dos mais nocivos ao meio social, sendo certo que a liberdade, indubitavelmente, representará fonte inesgotável de intranquilidade para a sociedade, contribuindo para a descrença na Justiça e estimulo a prática de condutas criminosas. Não há desproporcionalidade da medida.
+A decisão que decretou a prisão está suficientemente fundamentada em dados concretos que justificam a medida extrema, bem como a insuficiência de medidas cautelares diversas da prisão. (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, tendo em vista que, em razão da cobrança de uma dívida contraída pela vítima, o paciente a teria agredido com socos e pontapés na cabeça, continuando as agressões quando ela já estava caída no chão.
+O delito ocorreu mediante recurso que dificultou a defesa da ofendida, visto que esta foi ao encontro do acusado para conversarem sobre determinada dívida e, repentinamente, ele a agrediu, provocando diversas lesões pelo seu corpo.
+Tais circunstâncias reforçam a necessidade de manutenção da segregação cautelar como forma de acautelar a ordem pública e a integridade física da vítima.
+Nesse mesmo sentido, guardadas as devidas peculiaridades:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FEMINICÍDIO TENTADO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Conforme a jurisprudência pacífica desta Corte, é fundamento idôneo para a decretação da segregação ante tempus, em casos de crime contra a vida, a gravidade concreta da conduta, depreendida por sua magnitude e seu modus operandi.
+3. No caso, o Juiz fundamentou o risco que a liberdade do réu, suspeito de feminicídio tentado, representa para a ordem pública, pois registrou o seu deslocamento, de um estado a outro, para atingir o suposto intento homicida, o número de facadas, a extrema violência perpetrada na presença de outras pessoas, a objetificação da mulher e o motivo da conduta. Está delineada a periculosidade social do denunciado e a imprescindibilidade da medida extrema para salvaguarda da integridade física e psicológica principalmente da ofendida.
+4. Agravo regimental não provido. (AgRg no RHC n. 177.245/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO TENTADO. AMEAÇA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. EXCESSO DE PRAZO. NÃO CONFIGURADO. AGRAVANTE PRONUNCIADO. SÚMULA N. 21/STJ. INVIABILIDADE DE ANÁLISE DE POSSÍVEL PENA OU DE DETERMINAÇÃO DO REGIME DE CUMPRIMENTO DE REPRIMENDA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do Agravante acarretaria risco à ordem pública, notadamente se considerada a gravidade concreta das condutas, supostamente, perpetradas pelo ora Agravante, consistente em ameaça e homicídio qualificado tentado, praticado contra a mulher por razões da condição de sexo feminino, porquanto, consoante se depreende dos autos, ele, além de ter proferido ameaças contra a ofendida, teria, concretamente, atentado contra à vida de sua ex-companheira se utilizando de uma peixeira, não se consumando o delito por circunstâncias alheias à vontade do agente; não se olvidando que, conforme os relatos da ofendida, a intenção do agente era golpeá-la no pescoço, tendo, todavia, desferido golpe de faca na sua coxa, o que revela a periculosidade do Agravante e justifica a imposição da medida extrema em seu desfavor, mormente, como forma de assegurar a integridade física e psíquica da ofendida.
+IV - Ressalte-se, outrossim, que a presença de condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+ ..
+Agravo regimental desprovido. (AgRg no RHC n. 164.841/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Confira-se:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. RECURSO EM SENTIDO ESTRITO. DECRETAÇÃO DA PRISÃO PREVENTIVA. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. PRAZO RAZOÁVEL. ART. 312 DO CPP. CUSTÓDIA ADEQUADAMENTE MOTIVADA EM ELEMENTOS CONCRETOS. RESGUARDO DA ORDEM PÚBLICA. PERICULOSIDADE SOCIAL DO RÉU. MODUS OPERANDI DO ATO CRIMINOSO. FUGA APÓS OS FATOS DELITUOSOS. ANTERIOR OFENSA À INTEGRIDADE FÍSICA DA VÍTIMA. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+ ..
+5. Nesse contexto, demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão.
+ ..
+7. Agravo regimental desprovido.(AgRg no HC n. 777.387/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ASSOCIAÇÃO CRIMINOSA. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. CONDIÇÕES PESSOAIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. PEDIDO DE EXTENSÃO. IDENTIDADE DE SITUAÇÕES NÃO CONSTATADA.
+ ..
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos delitos.
+ ..
+6. Agravo regimental desprovido. (AgRg no RHC n. 192.183/PR, de minha relatoria, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Ante todo o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
