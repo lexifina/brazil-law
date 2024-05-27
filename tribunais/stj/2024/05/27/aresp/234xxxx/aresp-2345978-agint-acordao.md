@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.1. Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso. 2. Limitando-se a parte a, mais uma vez, apresentar argumentação genérica, não merece ser conhecido o agravo interno. 3. Agravo interno não conhecido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por W.K. AGRO ARMAZÉNS GERAIS LTDA, contra a decisão que conheceu do agravo para não conhecer do recurso especial.
+Sustenta a parte recorrente, em suma, que, da leitura do recurso especial, há completa fundamentação sobre os artigos de Lei Federal, apontados como violados, bem como houve apresentação do dissídio jurisprudencial, onde se tem o cotejo analítico do caso paradigma com a situação concreta, requerendo, ao final, o provimento do recurso (fls. 1.347-1.349).
+Devidamente intimado, a parte agravada não apresentou contraminuta (fl. 1.357).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.1. Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso. 2. Limitando-se a parte a, mais uma vez, apresentar argumentação genérica, não merece ser conhecido o agravo interno. 3. Agravo interno não conhecido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O agravo interno não merece conhecimento, porquanto não fora observado o princípio da dialeticidade recursal.
+Conforme dispõe o §1º do art. 1.021 do CPC/2015: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+A decisão agravada, que conheceu do agravo e não conheceu do recurso especial, o fez com o seguinte fundamento, em suma:
+Da leitura das razões recursais extrai-se que a parte recorrente apresentou argumentação genérica, não se desincumbindo de demonstrar, de forma clara e específica, violação de legislação federal, especialmente porque deixou de indicar precisamente o comando normativo e os dispositivos de lei tidos por violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AR Esp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020).
+De forma correlata, para a comprovação da existência de dissídio jurisprudencial, não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso (fl. 1.340).
+Dessa maneira, deveria a parte agravante ter demonstrado, de forma clara e fundamentada, a impugnação específica de todos os fundamentos da decisão agravada, o que não o fez, limitando-se a, mais uma vez, apresentar argumentação genérica, não tendo demonstrado na oportunidade, efetivamente, o cotejo analítico que baseia seu pedido.
+Portanto, na forma da jurisprudência desta Corte, à luz do que dispõem o art. 1.021, § 1º, do CPC/2015; e a Súmula 182/ STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada.
+Isso posto, não conheço do recurso.
