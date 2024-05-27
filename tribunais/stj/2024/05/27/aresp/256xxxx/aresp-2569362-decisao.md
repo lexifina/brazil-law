@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDEZ SOCIEDADE ANONIMA INDUSTRIA DE PAPEL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CUMPRIMENTO DE SENTENÇA - HONORÁRIOS ADVOCATICIOS - FIXAÇÃO COM BASE NO VALOR DA CAUSA - JUROS DE MORA - ART. 85. § 16. DO CPC - INAPLICABILIDADE - DECISÃO MANTIDA. NEGA-SE PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, § 16, do CPC, no que concerne ao reconhecimento da incidência de juros de mora após o trânsito em julgado, já que houve condenação de honorários advocatícios em percentual sobre o valor da causa, trazendo a seguinte argumentação:
+Pois bem. A condenação nos presentes autos foi de 10% sobre o valor da causa.
+Ou seja, em quantia certa, não se referindo a valor nominal, posto que a lei assim não tratou.
+Por outro lado, a intenção nítida do legislador foi evitar a aplicação de juros sobre juros. Caso os juros discutidos nos autos fossem calculados sobre o valor condenação ou sobre o proveito econômico, ambos com a incidência de juros em suas bases de cálculo, haveria "bis in idem".
+Todavia, se os honorários são estipulados sobre valor fixo ou percentual do valor da causa não há a incidência de juros na base de cálculo e, portanto, não há incidência dobrada dos juros, sendo de rigor a aplicação do mencionado dispositivo legal (fl. 40).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Ao contrário do que alega o agravante, no caso concreto não houve condenação ao pagamento de honorários advocatícios em quantia certa (valor nominal) a autorizar a incidência do art. 85, § 16, do CPC, mas sobre o valor da causa atualizado, que implica, ainda que por simples cálculo aritmético, a aferição da atualização do valor da causa e aplicação do percentual fixado.
+Conforme se infere do entendimento assentado no Superior Tribunal de Justiça, diante da necessidade de liquidação, os juros de mora passam a incidir somente quando caracterizado o descumprimento, ou seja, a partir da intimação para o pagamento, caso superado o respectivo prazo (fls. 30-31, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
