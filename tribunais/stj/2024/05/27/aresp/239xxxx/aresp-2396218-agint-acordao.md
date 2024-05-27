@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. "A falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (EAREsp n. 1.672.966/MG, relatora Ministra Laurita Vaz, Corte Especial, julgado em 20/4/2022, DJe de 11/5/2022).
+2. A indicação de omissões genéricas em relação ao artigo 1022 do CPC, sem precisar, contudo, quais foram os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo fora violado, atrai a incidência da Súmula 284 do STF.
+3. Derruir a afirmação contida no decisum atacado, para reconhecer a ausência dos requisitos aptos à desconsideração da personalidade jurídica, como pretende o recorrente, ensejaria em rediscussão de matéria fática, providência vedada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+4. Agravo interno parcialmente provido para reconsiderar a decisão agravada e, de plano, conhecer do agravo para não conhecer do recurso especial, por fundamento diverso.
+RELATÓRIO
+O SENHOR MINISTRO MARCO BUZZI: Cuida-se de agravo interno interposto por EDER FERNANDO LYRA contra decisão monocrática da Presidência desta Corte que não conheceu do recurso do ora insurgente.
+O apelo extremo, interposto com fundamento no artigo 105 do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 542, e-STJ):
+Desconsideração da personalidade jurídica.
+Inexistência de bens ou inatividade que por si só não autorizam a medida. Pagamento de dívida da devedora por terceiro antes de ingressar na sociedade que é aporte de capital, e não ato ilícito e lesivo ao credor da sociedade. Retirada de outro sócio que regula- se pela regra do art. 1.032 do CC e não tem caráter ilícito. Ausência dos requisitos do art.
+50 do CC. Decisão reformada. Recurso provido.
+Os embargos de declaração foram rejeitados (fls. 605-608, e-STJ).
+Nas razões do recurso especial (fls. 610-618, e-STJ), o insurgente alegou que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigos 489 e 1022 do CPC, e ii) artigo 50 do CC, aduzindo que as provas não foram devidamente valoradas, pois há confusão patrimonial.
+Foram apresentadas contrarrazões (fls. 624-632, e-STJ).
+Em juízo de admissibilidade, o Tribunal a quo negou seguimento ao recurso especial (fls. 639-642, e-STJ), dando ensejo a interposição do agravo (fls. 645-658, e-STJ).
+Foi apresentada contraminuta (fls. 661-667, e-STJ).
+Em decisão monocrática (fls. 673-674, e-STJ), o recurso não foi conhecido, sob o fundamento da incidência da Súmula 284/STF, pois não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula.
+Daí o presente agravo interno (fls. 677-694, e-STJ), no qual o insurgente aduz, em síntese, que a "decisão monocrática impõe o rigorismo formal, mesmo que inexista na lei tal exigência, e, segundo que ficou intrínseco nos autos, bastando simples leitura, que se trata de violação de norma infraconstitucional." (fl. 682, e-STJ).
+Não foi apresentada contraminuta (fl. 700, e-STJ).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.396.218 - SP (2023/0207118-4)
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. "A falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (EAREsp n. 1.672.966/MG, relatora Ministra Laurita Vaz, Corte Especial, julgado em 20/4/2022, DJe de 11/5/2022).
+2. A indicação de omissões genéricas em relação ao artigo 1022 do CPC, sem precisar, contudo, quais foram os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo fora violado, atrai a incidência da Súmula 284 do STF.
+3. Derruir a afirmação contida no decisum atacado, para reconhecer a ausência dos requisitos aptos à desconsideração da personalidade jurídica, como pretende o recorrente, ensejaria em rediscussão de matéria fática, providência vedada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+4. Agravo interno parcialmente provido para reconsiderar a decisão agravada e, de plano, conhecer do agravo para não conhecer do recurso especial, por fundamento diverso.
+VOTO
+O SENHOR MINISTRO MARCO BUZZI (RELATOR): Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida.
+1. A Corte Especial firmou o entendimento de que "a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (EAREsp n. 1.672.966/MG, relatora Ministra Laurita Vaz, Corte Especial, julgado em 20/4/2022, DJe de 11/5/2022).
+Assim, verificada a inaplicabilidade da Súmula 284/STF, reconsidero a decisão monocrática agravada (fls. 673-674, e-STJ), porque o recorrente explicitou os motivos pelos quais entende ter ocorrido violação à lei federal.
+2. A irresignação não merece prosperar.
+2.1. Em suas razões recursais, o recorrente limitou-se a apontar a existência de omissões genéricas em relação ao artigo indicado sobre o qual o Tribunal a quo deveria ter se pronunciado, sem indicar, contudo, quais foram os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo fora violado, o que atrai a incidência da Súmula 284 do STF.
+Assim, em prejuízo da compreensão da controvérsia, não foi demonstrada com clareza e precisão a necessidade de reforma da decisão, neste aspecto, incidindo no óbice previsto na Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF.  ..  REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar os preceitos legais tidos por violados, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido os teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284/STF.  ..  6. Agravo regimental não provido.
+(AgRg no REsp 1193892/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CRT E CELULAR CRT. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF.  ..  1. A jurisprudência desta Corte é pacífica no sentido de que a violação genérica de lei federal não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."  ..  4. Agravo regimental a que se nega provimento. (AgRg no AREsp 550.524/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/05/2015, DJe 11/06/2015)  grifou-se
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF.  ..  1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.  ..  3. A fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo, porquanto remanesce ausente o indispensável prequestionamento.  ..  5. Agravo regimental a que se nega provimento. (AgRg no AREsp 637.431/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/04/2015, DJe 24/04/2015)  grifou-se
+2.2. O recorrente aponta artigo 50 do CC, aduzindo que as provas não foram devidamente valoradas, pois há confusão patrimonial.
+A esse respeito, assim concluiu o Tribunal de origem (fl. 546, e-STJ):
+O único fato ilícito articulado na petição inicial do incidente, e assim reconhecido pela decisão interlocutória agravada, é o pagamento de dívida da empresa executada por José Roberto antes de tornar-se sócio, dado como revelador da existência de sociedade de fato e de confusão patrimonial.
+Não obstante o respeito ao entendimento adotado, tenho que inexiste ilícito no pagamento da dívida de terceiro, pois a lei o permite e não sujeita a validade do ato à comprovação de justo motivo como pareceu ao julgado em exame.
+Tenho ainda que, admitida a premissa da sociedade de fato, o ato jurídico focado implicou aporte de capital em favor do executado, o que não é lesivo aos interesses dos seus credores.
+Logo, inexiste aqui ato ilícito que possa gerar o levantamento da garantia da personalidade jurídica em desfavor dos sócios.
+De resto, a retirada de Renato da sociedade é fato regulado pelo art. 1.032 do Código Civil, sem qualquer vínculo com a proposição do incidente examinado.
+Nestas condições, tenho que a pretensão recursal merece acolhida, pois realmente não há a demonstração de algum fato de abuso de personalidade jurídica ou de confusão patrimonial que possa autorizar a desconsideração da personalidade jurídica nos termos do art.
+50 do Código Civil.
+Assim, para alterar os fundamentos acima transcritos e reconhecer a ausência dos requisitos aptos à desconsideração da personalidade jurídica, como pretende o recorrente, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula 7 do STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVALIDADE DA ARREMATAÇÃO DO IMÓVEL. INCOMPETÊNCIA ABSOLUTA DO JUÍZO TRABALHISTA. ACÓRDÃO EM SINTONIA COM ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DO STJ. ENRIQUECIMENTO SEM CAUSA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..) 3. No caso, rever o entendimento do acórdão recorrido e acolher a pretensão recursal quanto ao enriquecimento sem causa, e a aplicação da desconsideração da personalidade jurídica, demandaria, necessariamente, reexame do arcabouço fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1206149/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973. DEFICIÊNCIA NAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 284/STF. 2. DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. REQUISITOS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. 3. AGRAVO INTERNO DESPROVIDO.  ..  2. Tendo as instâncias ordinárias, com base no exame do acervo fático-probatório dos autos, concluído pela presença dos requisitos necessários a ensejar a desconsideração inversa da personalidade jurídica da executada, não é possível rever tal conclusão ante o óbice da Súmula 7/STJ. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 940.547/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/12/2016, DJe 15/12/2016)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS. PRETENSÃO DE AMPLIAÇÃO DO POLO PASSIVO COM BASE NO INSTITUTO DA DESCONSIDERAÇÃO DOS DEVEDORES. CONFUSÃO PATRIMONIAL E DE DESVIO DE FINALIDADE. REQUISITOS AFASTADOS PELA CORTE DE ORIGEM. SÚMULA 7/STJ.
+1. "A desconsideração da personalidade jurídica é admitida em situações excepcionais, devendo as instâncias ordinárias, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos sem os quais a medida torna-se incabível" (REsp n.
+1.311.857/RJ, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2014, DJe 2/6/2014).
+2. A revisão das conclusões alcançadas pela Corte estadual acerca da ausência dos requisitos para a desconsideração da personalidade jurídica exigiria o reexame de provas, providência vedada pelo óbice do enunciado sumula 7/STJ.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1678562/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/04/2019, DJe 15/04/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. VIOLAÇÃO A ENUNCIADO DE SÚMULA. DESCABIMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. CONDUTA FRAUDULENTA. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO. 1. Não compete ao Superior Tribunal de Justiça analisar violação a súmula em sede de recurso especial, por não estar inserida no conceito de norma infraconstitucional, nos termos do art. 105, III, da Constituição Federal.
+2. A convicção formada pelo Tribunal de origem acerca da presença dos requisitos necessários para ensejar a desconsideração da personalidade jurídica, ante a ocorrência de indícios de fraude, para impossibilitar o cumprimento das obrigações firmadas, decorreu dos elementos existentes nos autos, de forma que rever o acórdão objurgado, no caso, importaria, necessariamente, o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 172.426/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+3. Do exposto, reconsidera-se a decisão de fls. 673-674, e-STJ, e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial, por fundamento diverso.
+É como voto.
