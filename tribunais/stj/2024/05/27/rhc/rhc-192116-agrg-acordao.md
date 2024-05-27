@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ESTELIONATOS QUALIFICADOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II c/c o art. 312, ambos do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública, diante das circunstâncias do delito que evidenciam a gravidade concreta da conduta, além do risco de reiteração delitiva pelas ações penais em curso a que responde o paciente.
+3. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar a particular periculosidade do réu.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSÉ CARLOS RIBEIRO MONTEIRO interpõe agravo regimental contra a decisão de fls. 282-286, em que neguei provimento ao recurso em habeas corpus.
+Em suas razões, o agravante reitera o constrangimento ilegal pela segregação cautelar e sustenta a falta de fundamentação concreta do decreto prisional, que haveria sido imposto de forma genérica, sem lastro em elementos dos autos pois não haveria indícios mínimos de autoria. Ademais, levanta diversos aspectos fáticos que julga contraditórios no curso das investigações.
+Pleiteia a reconsideração do decisum impugnado e, subsidiariamente, o provimento do agravo regimental, a fim de que seja concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ESTELIONATOS QUALIFICADOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II c/c o art. 312, ambos do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública, diante das circunstâncias do delito que evidenciam a gravidade concreta da conduta, além do risco de reiteração delitiva pelas ações penais em curso a que responde o paciente.
+3. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar a particular periculosidade do réu.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consta dos autos que foi decretada a prisão preventiva do recorrente em 12/9/2023, após requerimento do Ministério Público, pela suposta prática das condutas descritas nos arts. 171, § 4º, e 288, caput, do Código Penal.
+A segregação cautelar foi justificada pelo juízo natural, nos seguintes termos (fls. 19-20):
+De fato, do procedimento investigatório criminal extraem-se fortes indícios de que os denunciados estão há tempos praticando diversos crimes de estelionato em desfavor de vítimas idosas nas cidades de São Paulo, Cravinhos, Itapetininga, São João da Boa Vista, Campinas, MogiGuaçu e Piracicaba, conforme boletins de ocorrência juntados (fls. 37/38, 39/40, 43/45, 46/48, 49/53, 56/57, 58/59 e 60/61), sempre com o mesmo modus operandi.
+Com efeito, um dos denunciados aborda a vítima e relata que está na posse de um bilhete premiado e procura por uma terceira pessoa que iria ajudá-lo. A vítima, por ingenuidade e no intuito de efetivamente ajudar o estelionatário, compromete-se a acompanhá-lo até a lotérica, a fim de confirmar a autenticidade do bilhete. No percurso, o outro estelionatário aborda a vítima e seu comparsa e faz com que a vítima os acompanhe até a lotérica. A vítima aguarda na ruaenquanto um dos estelionatários finge ir até a lotérica e depois retorna comprovando a autenticidade do bilhete. Com a promessa de ser recompensada pelo auxílio prestado, a vítima é convencida a efetuar uma transferência de alta quantia aos estelionatários.
+Nos fatos aqui tratados, bem como em outros boletins de ocorrência, a conta de titularidade de Raquel Araújo da Silva foi informada para transferência das quantias pelas vítimas (conta nº 1022833-6, agência 2339 do Banco Santander), certo que na delegacia a vítima reconheceu, sem sombra de dúvidas, José Carlos como sendo a pessoa que se apresentou como José Antonio e conduzia o veículo Gol, bem como Sidnei como sendo a pessoa que se apresentou como Carlos.
+Ainda, o veículo Gol apreendido foi captado nas câmeras de circuito de segurançapróximas a residência da vítima, a corroborar a autoria do delito.
+Destarte, tratando-se de crime contra o patrimônio e praticado em face de pessoa idosa, o que coloca a sociedade em desassossego, necessária a enérgica ação do Estado, inclusive no campo jurisdicional, para que não perdure o sentimento de impunidade que tanto macula a ordem pública.
+No mais, soltos, os réus colocarão em risco a ordem pública e há o risco de reiterada prática criminosa, bem como risco de se anular a persecução penal e eventual aplicaçãoda lei penal.
+O Tribunal de origem, ao julgar o habeas corpus, reforçou que (fls. 203-205):
+De qualquer sorte, não custa anotar que há nos autos sólidos indícios de autoria concernentes ao suplicante e aos co-acusados, com destaque ao Relatório de Investigação (fls. 62/71 dos autos principais), à declaração prestada pelo ofendido Sebastião de Mattos Pinto (fls. 04/5, idem), ao Auto de Reconhecimento de Pessoa (fls. 75/6) e ao laudo de inspeção veicular  consignando que o automóvel confiscado - que era conduzido por José Carlos por ocasião de sua abordagem - é aquele cuja imagem foi registrada por "sistema de monitoramento que capturou a ação criminosa"(fls. 88/93) .
+ ..
+iii) José Carlos não é neófito no proscênio judiciário: o paciente ostenta condenações em primeira (processos-crime nºs 1502313-38.2019.8.26.0568 e 1504001-72.2018.8.26.0664, fls. 142 e 143, ibidem) e em segunda Instância também por estelionato praticado contra pessoa idosa (autos nº 1502397-63.2019.8.26.0269, fls. 140/1, ibidem).
+Tudo a recomendar o acautelamento da ordem pública.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Uma vez mais, explicito que eventuais alegações sobre a ausência de provas de autoria não são passíveis de análise, pois demandam dilação probatória, providência inviável na via estreita do recurso em habeas corpus.
+Com efeito, reforço que a restrição à liberdade foi devidamente fundamentada, diante da gravidade concreta da conduta, aferida a partir das circunstâncias do delito, visto que os supostos atos foram praticados contra idosos, em concurso de agentes, com organização elaborada da atividade criminosa - tudo a evidenciar o especial risco à ordem pública.
+Ademais, as instâncias originárias apontaram a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco de reiteração delitiva, diante das ações penais em curso por crimes da mesma espécie dos ora tratados.
+Reitero os motivos invocados para manter a prisão preventiva do acusado se mostram suficientes, porquanto contextualizados em dados concretos ligados ao modus operandi do delito cometido.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE.
+1. Reveste-se de legalidade a prisão cautelar quando baseada em elementos concretos, nos termos do art. 312 do CPP, tal como ocorre na espécie, em que "o réu Matheus, mesmo após ter sido chamado à Promotoria de Justiça da comarca para prestar esclarecimento, manteve a atividade criminosa de forma plena, causando prejuízo a vários idosos, fazendo-se necessária a decretação da prisão cautelar como garantia da instrução criminal, manutenção da ordem pública e paz social, e evitando-se que o denunciado volte a delinquir".
+2. A periculosidade do acusado, demonstrada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 833.860/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Finalmente, quanto à tese de ausência de contemporaneidade, observo que, além de a matéria não ter sido apresentada perante a Corte local, que, por óbvio, não se manifestou sobre o tema, a segregação cautelar foi requerida tão logo se formou a opinio delicti do Ministério Público e se constatou a necessidade da medida, em curto intervalo de três meses após o delito.
+Nos termos da jurisprudência do STJ:
+" ..  não se verifica a aventada falta de contemporaneidade, posto que, apesar do tempo transcorrido entre o fato e a decretação da constrição cautelar, as instâncias ordinárias assentaram que remanescem presentes os requisitos do art. 312 do Código de Processo Penal e que a demora encontra justificativa nas dificuldades enfrentadas para a conclusão do inquérito policial ante a complexidade e gravidade do crime" (AgRg no RHC n. 167.313/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/10/2022)" (AgRg no RHC n. 171.458/AL, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 20/4/2022).
+Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar particular periculosidade do réu .
+Nesse sentido:
+ ..
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+7. Ordem não conhecida.
+(HC n. 424.606/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/2/2018, grifei)
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
