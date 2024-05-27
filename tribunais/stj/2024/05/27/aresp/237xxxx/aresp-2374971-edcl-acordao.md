@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO POR DANOS MORAIS. ACÓRDÃO EMBARGADO. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Mantida a decisão de não conhecimento do recurso especial, inexiste omissão pela falta de análise do mérito das questões nele suscitadas.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo BCV - BANCO DE CRÉDITO E VAREJO S.A. contra acórdão de relatoria da Ministra Assusete Magalhães que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fls. 1282-1284):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C/ PEDIDO INDENIZATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. ATO ILÍCITO. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Não tendo o acórdão hostilizado expendido juízo de valor sobre o disposto nos arts. 11, 489, § 1º, IV, do CPC/2015, 12 e 18 do CDC, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+III. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+IV. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+V. Consoante se depreende dos autos, o acórdão recorrido não expendeu juízo de valor sobre os arts. 11, 489, § 1º, IV, do CPC/2015, 12 e 18 do CDC, invocados na petição do Recurso Especial, nem a parte ora agravante opôs os cabíveis Embargos de Declaração, nem suscitou, perante o Tribunal de origem, qualquer nulidade do acórdão recorrido, por suposta ausência da devida fundamentação do julgado, não se alegando, no Especial, ademais, violação ao art. 1.022 do CPC/2015, razão pela qual impossível aplicar-se, no caso, o art. 1.025 do CPC vigente.
+VI. A falta de particularização, no Recurso Especial - interposto, no caso, com fundamento no art. 105, III, a, da CF/88 -, dos dispositivos de lei federal que teriam sido contrariados, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgInt no AREsp 1.656.469/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020; AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020; AgInt no AREsp 1.632.513/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/10/2020.
+VII. Em relação aos danos morais, além de não terem sido indicados os dispositivos de lei federal supostamente violados, os fundamentos adotados pela Corte de origem não foram objeto de impugnação específica, no Recurso Especial, cujas razões estão dissociadas dos fundamentos do acórdão recorrido, devendo incidir, nesse ponto, os óbices das Súmulas 283 e 284/STF. Precedentes do STJ.
+VIII. Agravo interno improvido.
+Sustenta a parte Embargante que o acórdão embargado "padece de omissões, além de ter deixado de considerar fatos relevantes acerca da matéria que podem levar, consequentemente a entendimento diverso" (fl. 1308). Argumenta que "a carência de fundamentação do acórdão do recurso de Apelação não possibilita hipótese de Embargos de Declaração, motivo pelo qual o Embargante deixou de opô-los" (idem). Aduz, ainda (ibidem):
+O v. Acórdão também acrescenta que, em relação aos danos morais, não houve fundamento contrário ao fixado pela Corte Estadual no sentido de que o dano é in re ipsa.
+O Embargante, porém, reitera em sede de Agravo Interno que o v. acórdão que julgou o recurso de Apelação outrora interposto e fixou que o Embargante assumiu o risco de fraude, violou o Art. 12 do Código de Defesa do Consumidor. Isso porque a atuação do Embargante se limitou ao papel de instituição financeira, não havendo ato ilícito e nexo causal. .
+Sendo assim, o Embargante discorreu no sentido de que é incabível a imputação de responsabilidade civil a ele, impedindo-o de arcar de forma solidária com os custos dos danos causados aos Embargados, rebatendo, assim, o fundamento fixado pela Corte Estadual.
+Pede o acolhimento dos embargos de declaração, com a atribuição de efeitos infringentes.
+Não foi apresentada resposta ao recurso integrativo.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO POR DANOS MORAIS. ACÓRDÃO EMBARGADO. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Mantida a decisão de não conhecimento do recurso especial, inexiste omissão pela falta de análise do mérito das questões nele suscitadas.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que não houve o conhecimento do recurso especial, pela falta de prequestionamento, bem assim que não houve a particularização dos dispositivos supostamente violados e as razões recursais estavam dissociadas do acórdão recorrido atraindo a incidência, respectivamente, das Súmulas n. 284 e 283 do STF.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. A contradição que autoriza a oposição de embargos de declaração é a interna, ou seja, aquela entre proposições do próprio decisum. O descontentamento com a conclusão do julgado não dá ensejo à contradição prevista no art. 1.022, I, do CPC/2015.
+3. O recurso aclaratório não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+4. EMBARGOS DE DECLARAÇÃO REJEITADOS. (EDcl no REsp n. 1.469.545/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. AUSÊNCIA. MULTA POR MANIFESTA INADMISSIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o vício de contradição alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Apesar de o agravo interno questionar decisão fundada em julgamento repetitivo, não está presente o caráter manifestamente improcedente do recurso a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015, pois o decidido no Tema 1.076/STJ foi objeto de recurso extraordinário já admitido como representativo da controvérsia pelo STF.
+4. Embargos de declaração parcialmente acolhidos para retirar a multa imposta, sem conferir efeitos modificativos ao julgado. (EDcl no AgInt no AREsp n. 2.027.989/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Por derradeiro, mantida a decisão de não conhecimento do recurso especial, inexiste omissão pela falta de análise do mérito das questões nele suscitadas.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E CONTRADIÇÃO NÃO CONFIGURADAS. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação dos arts. 489 e 1.022 do CPC
+2. Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal.
+Agravo interno improvido. (AgInt no AREsp n. 2.112.253/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
