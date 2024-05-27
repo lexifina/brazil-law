@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de afronta a dispositivo legal e por incidência da Súmul a n. 7/STJ (e-STJ fls. 212/214).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 163):
+Apelação. Imissão na posse. Expropriação do imóvel em leilão extrajudicial (Decreto Lei nº 70/66). Parcial procedência. Inconformismo da ré. Parcial acolhimento. Indenização pelo período em que a ré ocupou indevidamente o imóvel taxa de ocupação mensal arbitrada em 1% do valor atualizado do imóvel (arrematação), desde a notificação operacionalizada pelo autor até a data da efetiva desocupação. Inteligência do art. 37-A da Lei nº 9.514/1997. Responsabilidade pelos tributos e demais despesas essenciais incidentes sobre o bem no período de ocupação indevida. Honorários que devem incidir sobre o valor da condenação e não sobre o valor da causa. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 184/189).
+Nas razões do recurso especial (e-STJ fls. 191/198), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) art. 27, § 8º, da Lei n. 9.514/1997, pois "o devedor fiduciante é o ex-convivente da Recorrente, e que esta exercia apenas a posse direta sobre o imóvel" (e-STJ fl. 196). "Nesse aspecto, é notório que a Recorrente não é qualificada como "devedora fiduciária",  .. , razão pela qual é parte ilegítima para responder a demanda" (e-STJ fl. 197);
+(ii) art. 485, VI, do CPC/2015, tendo em vista que deve ser "reconhecida a ilegitimidade passiva da Recorrente, sem resolução do mérito" (e-STJ fl. 197).
+Assim, requereu o provimento do recurso, "de forma a julgar a ação improcedente, nos termos formulados em contestação" (e-STJ fl. 198).
+No agravo (e-STJ fls. 217/224), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 230).
+É o relatório.
+Decido.
+O Tribunal de origem afastou a preliminar de ilegitimidade passiva, sob os seguintes fundamentos (e-STJ fl. 165):
+De fato, como bem consignou o MM. Juízo a quo, deve a apelante responder "pela dívida de IPTU e pela taxa condominial durante o exercício da posse, de forma solidária com o devedor fiduciante (ex-convivente). A legitimidade do devedor fiduciante não exclui a da requerida, possuidora direta do bem." O cumprimento de eventual acordo havido entre ela e seu ex-convivente, deve ser buscado em face deste e não é oponível à ora apelada, a quem legítimo pleitear ressarcimento em face de quem incontestavelmente exerce a posse direta de bem de sua propriedade.
+Contudo, no recurso especial, a parte não refutou os argumentos relativos à solidariedade e nem de que era possuidora direta do bem. Portanto, como não houve impugnação de todos os fundamentos do acórdão recorrido, incide a Súmula n. 283 do STF.
+Nos termos da jurisprudência desta Corte, "nos contratos de alienação fiduciária em garantia de bem imóvel, a responsabilidade pelo pagamento das despesas condominiais recai sobre o devedor fiduciante, enquanto estiver na posse direta do imóvel" (AgInt no AREsp n. 2.074.722/DF, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022).
+Desse modo, modificar o entendimento do acórdão impugnado, quanto à legitimidade passiva da parte, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA. 1.  .. . 3. Nos termos da jurisprudência do Superior Tribunal de Justiça, é cabível a fixação de taxa de ocupação em favor do devedor fiduciante, enquanto estiver na posse direta do bem, com fundamento na vedação ao enriquecimento sem causa. Incidência das Súmulas 7 e 83 do STJ. 4. O acolhimento da pretensão recursal, no sentido de afastar a legitimidade passiva da parte, exigira derruir a convicção formada na instância ordinária, o que atrai a incidência das Súmulas 5 e 7 do STJ. Precedentes. 5. Agravo interno desprovido. (AgInt no AREsp n. 1.721.288/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo e a grat uidade da justiça.
+Publique-se e intimem-se.
+ EMENTA
