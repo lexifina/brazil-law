@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto de acórdão assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE HÍBRIDA. ARTIGO 48, §§ 3º E 4ºDA LEI 8.213/1991, COM A REDAÇÃO DADA PELA LEI 11.718/2008. TEMPO DE ATIVIDADE RURAL: CÔMPUTO. QUALIDADE DE SEGURADO. PERÍODO DE CARÊNCIA CUMPRIDO. PRESCRIÇÃO QUINQUENAL.- Anterior ação judicial na qual não se discutiu o benefício aventado nestes autos, não tem o condão de interferir na contagem do prazo prescricional quinquenal.- Os períodos de trabalho rural e urbano podem ser somados para obtenção da carência exigida para fins de aposentadoria por idade híbrida, desde que alcançado o requisito etário, nos termos do art. 48, §§ 3º e 4º, da Lei n. 8.213/1991, com a redação dada pela Lei n. 11.718/2008.- O implemento da idade depois da perda da qualidade de segurado não obsta o deferimento do benefício, desde que satisfeita a carência exigida a qualquer momento. Incidência do § 1º do artigo 3º da Lei n. 10.666/2003.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 202 do CC e 103 da 8.213/1991. Afirma que o prazo prescricional deveria ser suspenso devido à ausência de intimação da decisão final no processo administrativo inacabado (intimação pendente).
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.4.2024.
+Trata-se de Ação proposta com o fim de desconstituir acórdão que negou provimento à apelação do recorrente e deu parcial à apelação autárquica para apenas excluir o tempo de atividade rural.
+A indicada afronta ao art. 202 do CC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ. A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PLANO APROVADO. ADQUIRENTE DE UNIDADE IMOBILIÁRIA. ATÉ O MOMENTO, FORMALMENTE, NÃO CONSTA COMO CREDOR DAS RECUPERANDAS. INCLUSÃO QUE DEVE SER OBJETO DE IMPUGNAÇÃO DE CRÉDITO. NECESSIDADE DE ASSINATURA DO INSTRUMENTO DE DISTRATO. DISCUSSÃO EM SEDE PRÓPRIA. EMPREENDIMENTO SUJEITO A PATRIMÔNIO DE AFETAÇÃO. PLANO CONTÉM PREVISÃO DE CREDORES FUTURAMENTE OPTAREM SOBRE O MODO DE PAGAMENTO DE SEUS CRÉDITOS. INEXISTÊNCIA DE IRREGULARIDADE. LEGALIDADE DOS ÍNDICES DE JUROS PREVISTOS (TR E IPCA). PRAZO DE SUPERVISÃO JUDICIAL PRORROGADO ATÉ QUE FINDA A CARÊNCIA. DECISÃO MANTIDA. PRETENSÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS COMO VIOLADOS. SÚMULA 211 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.641.123/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 30/4/2021).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. CONDOMÍNIO. ILEGALIDADE DA COBRANÇA DA TARIFA MÍNIMA, MULTIPLICADA PELO NÚMERO DE ECONOMIAS.
+APONTADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. INCONFORMISMO.
+ALEGADA INFRINGÊNCIA AOS ARTS. 6º, IV E VI, 39, I, V E X E 51, IV E X, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ÚNICO HIDRÔMETRO. TARIFA PROGRESSIVA. CONSUMO TOTAL MEDIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 6º, IV e VI, 39, I, V e X e 51, IV e X, do CDC, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 211/STJ.
+V. Segundo o entendimento do STJ, "em casos de condomínios, em que existe apenas um hidrômetro a auferir o consumo global de água, deve ser aplicada a tabela progressiva, proporcionalmente ao consumo total medido, a fim de que, quanto maior o consumo, maior a tarifa a ser suportada pelo condomínio, de acordo com o escalonamento preestabelecido" (STJ, AgRg no REsp 997.405/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/11/2009). No mesmo sentido: STJ, AgInt no REsp 1.745.659/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/09/2019; AgInt no AgInt no REsp 1.841.266/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 11/03/2021; EDcl no REsp 625.221/RJ, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJ 25/05/2006. No caso, o acórdão recorrido encontra-se em conformidade com o aludido entendimento.
+VI. Agravo interno improvido.
+(AgInt no AREsp 859.442/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/4/2021).
+No enfrentamento da matéria, a Corte a quo asseverou:
+A questão que se coloca, entretanto, está em saber se, mesmo com o trânsito em julgado da ação anterior de aposentadoria por idade rural, a autora poderia beneficiar-se do ato de interrupção (citação) e da suspensão do prazo prescricional ao longo do curso desse processo para receber as parcelas retroativas do benefício relativas ao período de cinco anos contados retroativamente do ajuizamento da mencionada ação.
+A resposta é negativa. A ação judicial anterior não tem o condão de interferir na contagem do prazo prescricional, pois o pedido de aposentadoria por idade híbrida, nos termos do § 3º do artigo 48 da Lei n. 8.213/1991, só foi aventado nestes autos. Com efeito, a autora requereu aposentadoria por idade rural na expressamente ação ajuizada anteriormente, sob o fundamento de ter supostamente exercido atividade rural em número de meses de contribuição correspondente à carência do benefício pretendido e idade mínima de 55 (cinquenta e cinco) anos de idade.
+Dessa forma, a pretensão, reiterada pela autora na apelação, de pagamento das parcelas retroativas de benefício previdenciário, com afastamento da prescrição, merece ser acolhida.
+Nessa esteira, considerada a data do requerimento administrativo apresentado (12/8/2008) e o ajuizamento desta ação (10/9/2019), estão prescritas as possíveis prestações vencidas anteriores ao quinquênio que precede a propositura desta ação.
+A instância originária decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça ante a incidência de sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nessa linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO. TRABALHO RURAL NÃO COMPROVADO. NÃO CUMPRIDOS OS REQUISITOS LEGAIS PARA A CONCESSÃO DO BENEFÍCIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A prolação de decisão monocrática por Ministro Relator está autorizada nas diversas hipóteses previstas no art. 932 do CPC/2015, combinado com os arts. 34, XVIII, e 255, I, II, e III, do Regimento Interno desta Corte, não havendo na hipótese violação ao princípio da colegialidade, como sugere o agravante.
+2. O STJ possui entendimento consolidado quanto à impossibilidade de análise de ofensa a dispositivos e princípios constitucionais em Recurso Especial, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do Recurso Extraordinário.
+3. Trata-se, na origem, de ação proposta com o fim de obter o reconhecimento do trabalho rural, sem registro, para fins de concessão da aposentadoria por tempo de contribuição, a partir do requerimento administrativo.
+4. Havendo a Corte de origem concluído que não ficou comprovado o alegado labor rural no período pretendido, por insuficiência da prova documental, não corroborada pela prova testemunhal, não há como alterar tal entendimento sem a apreciação do acervo fático-probatório dos autos, inviável nesta instância extraordinária.
+5. Afasta-se, assim, a ideia de simples valoração da prova, porquanto se trata de pura análise do conteúdo fático-probatório dos autos, vedada nesta instância extraordinária, conforme Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+6. Ademais, como reconhecido na decisão ora agravada, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 24/9/2014).
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.202.096/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2023, DJe de 5/6/2023.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APOSENTADORIA POR IDADE RURAL. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. APOSENTADORIA HÍBRIDA. PEDIDO DIVERSO DA INICIAL. DESCABIMENTO.
+1. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Caso em que o Tribunal de origem concluiu pelo não reconhecimento do pedido de aposentadoria por idade rural à parte autora, pela ausência de comprovação da qualidade de segurada especial, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. A Primeira Seção, ao reconhecer possível a reafirmação da DER diante de fato superveniente à ação, consignou que o fato novo deve guardar pertinência com a causa de pedir e o pedido constante na petição inicial, de modo a não alterar os limites fixados após a perfectibilização da relação jurídica.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.925.697/MS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/8/2022, DJe de 30/8/2022.)
+Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do REsp pela alínea "a" do permissivo constitucional. Nessa senda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..) 3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/3/2021)
+Ante o expo sto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
