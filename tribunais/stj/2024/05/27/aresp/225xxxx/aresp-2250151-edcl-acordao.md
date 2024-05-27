@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida. Precedentes.
+2. A pretensão infringente direcionada a questionamentos de natureza meritória constantes em recurso que sequer foi conhecido não pode ser acolhida por esta Corte Superior. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ADRIANA DE LUCA CARVALHO e OUTROS contra acórdão, de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. A análise das razões recursais revela a pretensão da parte em alterar o resultado do julgado, o que é inviável nesta seara recursal.
+3. Embargos de declaração rejeitados.
+Sustenta a parte embargante, em síntese, que
+foram opostos embargos de declaração, tendo em vista que referida decisão padecia de vício de omissão, pela ausência de apreciação das razões recursais, notadamente sobre a validade, vigência e aplicabilidade ao caso concreto dos seguintes dispositivos legais:
+-8º da Lei 10.808/2004,
+-11, § 1º e 2º da MP 305/2006,
+-1º do DL 2.371/87e
+-9º, 10 e 85, § 1º do CPC.
+Foi então proferido o v. acórdão ora embargado, que não demonstrou em nenhum momento onde, nas decisões anteriores, teria havido apreciação dos dispositivos legais acima, todos prequestionados desde a origem. Ao invés dissto, invocou-se farta doutrina sobre o tema dos embargos de declaração, doutrina esta, que se fosse efetivamente seguida pela E. Turma, teria culminado com resultado contrário, ou seja, a conclusão foi diametralmente oposta aos argumentos adotados pelo "decisum", o que caracteriza exatamente a contradição do novo acórdão, ora embargado, e cristaliza a omissão pela ausência de análise dos pontos invocados nos próprios embargos de declaração, submetidos a julgamento, o que justifica a interposição de novo recurso integrativo.  sic
+Sem manifestação da parte ex adversa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida. Precedentes.
+2. A pretensão infringente direcionada a questionamentos de natureza meritória constantes em recurso que sequer foi conhecido não pode ser acolhida por esta Corte Superior. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos da Lei, cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III - corrigir erro material (art. 1.022 do CPC/2015).
+Obscura a decisão quando imprecisa, de difícil ou impossível compreensão. Contraditória quando contém, em si, afirmações ou fundamentos que estão em oposição ou que levam a resultados distintos ou inversos. Omissa quando faltar pronunciamento sobre ponto ou questão, isso é, ainda que não tenham controvertido as partes (questão), mas apenas uma delas tenha suscitado o fundamento (ponto), ou a respeito do qual deva o órgão jurisdicional pronunciar-se de ofício, ou em razão de requerimento da parte (cf. MEDINA, José Miguel Garcia. Curso de Direito Processual Civil Moderno  livro eletrônico . 4 ed. São Paulo: Revista dos Tribunais, 2018).
+Os embargos de declaração têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório. O objetivo dos embargos não podem ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Revista dos Tribunais, 2018).
+Observo não ser hipótese de embargos de declaração, visto que a parte, irresignada, busca, meramente, a infringência do julgado.
+Os embargos de declaração, contudo, não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 23/03/2018).
+De comum sabença, os embargos de declaração opostos na origem não podem ser destinados ao "acréscimo de razões que para a parte pareçam significativas, mas que, para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar" (EDcl nos EDcl no AgRg no AgRg no REsp 792.547/DF, Rel. Min. ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 19.8.2013), pois é certo que "não cabe ao Tribunal, que não é órgão de consulta, responder a questionários postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do "decisum" (..)" (EDcl no REsp 739/RJ, Rel. Min. ATHOS CARNEIRO, QUARTA TURMA, DJ de 11.3.1991, p. 2395).
+Ressalta-se que é pacífico no STJ o entendimento de que não está o Juiz obrigado a examinar, um a um, os pretensos fundamentos das partes, nem todas as alegações que produzem; o importante é que indique o fundamento de sua conclusão, em que se apoiou a sua convicção para decidir o caso.
+Com efeito, as proposições poderão ou não ser explicitamente dissecadas pelo Magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+Sobre a matéria, ainda, cf.:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Verifica-se que a parte embargante, na verdade, pretende a rediscussão da matéria já decidida de maneira inequívoca pela Corte Especial, revelando mero inconformismo com o resultado do julgamento. Todavia, o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl no AgInt no RMS 65.585/BA, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 24/03/2022).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS 1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. De acordo com a disposição normativa do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Nos termos da jurisprudência desta Corte Especial, os "Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário" (EDcl no AgInt nos EDcl nos EAREsp 1.202.915/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 13/08/2019, DJe 28/08/2019).
+4. Assim, não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+5. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt nos EDcl nos EREsp 1691639/RS, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe 24/03/2022).
+Relembre, outrossim, que a pretensão infringente direcionada a questionamentos de natureza meritória constantes em recurso que sequer foi conhecido não pode ser acolhida por esta Corte Superior. De comum sabença, "não há falar em omissão no julgado quanto ao mérito, se os recursos apresentados não ultrapassaram o juízo prévio de conhecimento" (EDcl no AgInt no AREsp n. 1.692.397/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/11/2022). Dito de outra forma: "O inconformismo do Embargante buscou emprestar efeitos infringentes, revelando clara pretensão de rediscutir o mérito do recurso especial que sequer foi conhecido. Destarte, a falta de exame do mérito, que pressupõe a cognição, não enseja omissão" (EDcl no AgRg no AREsp n. 1.974.679/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 08/04/2022).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
