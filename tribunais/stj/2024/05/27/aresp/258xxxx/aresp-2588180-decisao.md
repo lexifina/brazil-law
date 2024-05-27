@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALTER FELIPE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação - Revisão de contrato - Financiamento bancário - Sentença de improcedência Recurso do consumidor.
+Cerceamento de defesa Inocorrência Anulação da r. sentença Desnecessidade Em se tratando de matéria eminentemente de direito, dispensável a realização de perícia contábil.
+Juros remuneratórios Inaplicabilidade da Súmula nº 121 do STF Submissão do caso às Súmulas nº 596 do STF e nº 382 do STJ Flexibilização de previsões contratuais é excepcional e depende de comprovação da abusividade (REsp nº 1.061.530/RS) Não verificação de excesso no caso concreto Contrato prevendo expressamente taxa anual superior ao duodécuplo da mensal e índices remuneratórios em linha com a prática do mercado.
+Comissão de permanência Possibilidade de cobrança, em tese Autor que impugnou genericamente o encargo, sem qualquer comprovação sobre eventual abusividade Manutenção da r. sentença.
+Recurso improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 348, 350 e 355 do CPC, no que concerne à configuração de cerceamento de defesa em razão do julgamento antecipado, o qual não é cabível sem produção de prova pericial contábil, trazendo a seguinte argumentação:
+O r. acórdão, ao acompanhar a sentença, violou flagrantemente o direito, pois julgou antecipadamente o pedido, violando o artigo 355 do Código de Processo Civil, pois não permitiu a produção de provas expressamente requeridas em momento oportuno de especificação.
+O r. acórdão, ao negar provimento à apelação, por não acatar a tese de cerceamento de defesa, violou o artigo - 355 do Código de Processo Civil, pois não permitiu a produção de provas expressamente requeridas em momento oportuno de especificação. Havia necessidade de produção de prova testemunhal.
+ ..
+Cerceamento de defesa. Não foi produzida nos autos perícia Contábil. O laudo poderia comprovar a cobrança de juros sobre juros sobre o saldo devedor. Esse fato não foi analisado na sentença e no acórdão - juros sobre juros sobre o saldo devedor, sendo certo que não existe previsão legal para tanto, e nem previsão contratual, O QUE GEROU CERCEAMENTO.
+O laudo poderia comprovar que houve cobrança de comissão de permanência e a data. Houve a cobrança de comissão de permanência juntamente com os juros sobre juros sobre o saldo devedor; o que é ilegal, já que não se pode acumular a cobrança.
+Esse acontecimento não foi apreciado, cobrança de comissão de permanência juntamente com os juros, o que gerou cerceamento.
+O laudo poderia comprovar todos os pagamentos efetuados, nele não há menção sobre os pagamentos feitos pelo autor, que devem ser abatidos, e a menção ao fato de que o bem dado em garantia fora alienado através de leilão extrajudicial e o réu recebeu todo o produto obtido com a venda, de sorte que não existe mora entre o pagamento da arrematação até a presente data, devendo ser refeito o cálculo afastando-se a inadimplência da arrematação até a presente data.
+ ..
+Tem vista o objeto da presente ação e os pedidos elencados na inicial, imprescindível o exaurimento da perícia contábil. Somente esta é capaz de confirmar as teses despendidas na inicial. Contudo, a r. sentença de origem merece reforma.
+ ..
+O direito de defesa do recorrente foi flagrantemente violado, não tendo esta sequer o direito de ser ouvida ou produzir a prova que pensa ser necessária ao deslinde da causa.
+ ..
+O laudo poderia comprovar que houve cobrança de comissão de permanência e a data. Houve a cobrança de comissão de permanência juntamente com os juros sobre juros sobre o saldo devedor; o que é ilegal, já que não se pode acumular a cobrança.
+Esse acontecimento não foi apreciado, cobrança de comissão de permanência juntamente com os juros, o que gerou cerceamento.
+O laudo poderia comprovar todos os pagamentos efetuados, nele não há menção sobre os pagamentos feitos pelo autor / recorrente, que devem ser abatidos, e a menção ao fato de que o bem dado em garantia fora alienado através de leilão extrajudicial e o réu / recorrido recebeu todo o produto obtido com a venda, de sorte que não existe mora entre o pagamento da arrematação até a presente data, devendo ser refeito o cálculo afastando-se a inadimplência da arrematação até a presente data.
+ ..
+Tem vista o objeto da presente ação e os pedidos elencados na inicial, imprescindível o exaurimento da perícia contábil. Somente esta é capaz de confirmar as teses despendidas na inicial. Contudo, a r. sentença de origem reforma.
+ ..
+Pois bem. A prova corroboraria e comprovaria os fatos articulados na inicial.
+Mesmo diante da necessidade de instrução probatória, considerando a clara controvérsia fática que se instaurou, o acórdão manteve a sentença que julgou antecipadamente a lide. Patente o equívoco. O encerramento prematuro da instrução negou às partes a oportunidade de produzir todas as provas pretendidas, prejudicando profundamente o conjunto probatório dos autos. E mais: negou também a possibilidade de justa solução da lide, daí porque violação ao artigo 355 do CPC, pois o processo não poderia ter sido julgado de forma prematura.
+ ..
+Contudo, restou configurado o prejuízo com o cerceamento de defesa. .
+ ..
+A documental existente nos autos não é hábeis ao julgamento antecipado, pelo que ocorreu flagrante violação ao artigo 355 do CPC (fls. 342/349).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia,
+incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou os dispositivos de lei federal (arts. 348 e 350 do CPC) , o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal. Em relação à afronta aos arts. 13 da Lei n. 10.559/2002 e 943 do Código Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial". (AgInt no REsp n. 1.496.338/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/8/2020.)
+Na mesma linha: "A alegação genérica de ofensa a dispositivo legal desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa de que forma o acórdão recorrido teria transgredido os dispositivos legais relacionados atrai a aplicação da Súmula 284 do STF." (AgInt no AREsp n. 1.849.369/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 10/5/2022.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.826.355/RN, relator Ministro Og Fernandes, Segunda Turma, DJe de 4/8/2020; AgInt no AREsp n. 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp n. 1.617.627/RJ, AgInt no AREsp n. 1.617.627/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg no REsp n. 1.690.449/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 5/12/2019; AgRg no AREsp n. 1.562.482/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/11/2019; AgInt no REsp n. 1.409.884/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 12/8/2022.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Não houve cerceamento de defesa, não sendo o caso de anulação da r. sentença, eis que a hipótese dos autos constitui matéria eminentemente de direito, o que dispensa a realização de perícia contábil (fls. 330).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
