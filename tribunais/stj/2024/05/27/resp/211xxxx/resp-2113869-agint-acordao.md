@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO EXCESSO DE EXECUÇÃO ILEGITIMIDADE ATIVA. AGRAVO INTERNO . ENUNCIADO N. 182 DA SÚMULA DO STJ.
+I - Na origem, trata-se de embargos à execução objetivando reconhecimento de excesso de execução e da ilegitimidade ativa. Na sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a decisão foi mantida. Nesta Corte não se conheceu do recurso especial, ante os óbices do enunciado n. 7 da súmula do STJ, enunciados n. 283 e 284 da súmula do STF, não violação dos arts. 1.022 e 489 do CPC. A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+RELATÓRIO
+Na origem, trata-se de embargos à execução objetivando reconhecimento de excesso de execução e reconhecimento da ilegitimidade ativa. Na sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a decisão foi mantida. Nesta Corte não se conheceu do recurso especial, ante os óbices do enunciado n. 7 da súmula do STJ, enunciados n. 283 e 284 da súmula do STF, não violação dos arts. 1.022 e 489 do CPC. O recurso especial foi interposto contra acórdão com o seguinte resumo da ementa:
+EMBARGOS À EXECUÇÃO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86,% (LEIS Nº 8.622/93 E 8.627/93). ÓBITO OCORRIDO ANTES DA EXECUÇAO. EXCLUSÃO DO FEITO. PREVALENCIA DO PARECER DA CONTADORIA DO JUIZO. APELAÇÃO DO EMBARGADO NÃO PROVIDA. SENTENÇA MANTIDA.
+1. Ocorrendo a morte da parte autora no ano 2003 antes da execução em 2006 a habilitação dos herdeiros é condição indispensável à constituição e desenvolvimento válido e regular do processo executivo, devendo ser mantida a sentença que excluiu do feito, assegurada nova execução.
+2. A Contadoria Judicial apresentou os cálculos, às fls. 670/674 e ratificou à f1.684.
+3. É firme a orientação desta Corte no sentido de que a Seção de Cálculos é órgão auxiliar do Juízo, que, além de imparcial, detém o conhecimento técnico na elaboração de cálculos, pelo que merece prestígio e confiança do julgador e deve prevalecer. Nesse sentido a jurisprud ncia desta Corte: "As informações prestadas pela Divisão de Cálculos Judiciais possuem presunção de veracidade, sendo a Contadoria o órgão de auxílio do Juízo e sem qualquer interesse na lide, os cálculos por ela operados devem prevalecer, até prova em contrário. Não concordando o devedor-executado cabe, em embargos à execução, comprovar o alegado excesso ou supressão, não bastando mera referência a valores que julgar corretos" (AC 0035558-19.2001.4.01.3400 / DF, Rel. DESEMBARGADOR FEDERAL CANDIDO MORAES, SEGUNDA TURMA, e-DJF1 p.471 de 28/08/2015).
+Foi interposto agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO EXCESSO DE EXECUÇÃO ILEGITIMIDADE ATIVA. AGRAVO INTERNO . ENUNCIADO N. 182 DA SÚMULA DO STJ.
+I - Na origem, trata-se de embargos à execução objetivando reconhecimento de excesso de execução e da ilegitimidade ativa. Na sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a decisão foi mantida. Nesta Corte não se conheceu do recurso especial, ante os óbices do enunciado n. 7 da súmula do STJ, enunciados n. 283 e 284 da súmula do STF, não violação dos arts. 1.022 e 489 do CPC. A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+VOTO
+Na origem, trata-se de embargos à execução objetivando reconhecimento de excesso de execução e da ilegitimidade ativa. Na sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a decisão foi mantida. Nesta Corte não se conheceu do recurso especial, ante os óbices do enunciado n. 7 da súmula do STJ, enunciados n. 283 e 284 da súmula do STF, não violação dos arts. 1.022 e 489 do CPC. A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO RECURSO ESPECIAL. IMPUGNAÇÃO PARCIAL. FALTA DE MANIFESTAÇÃO EXPRESSA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Na decisão agravada, a irresignação do Conselho Federal da OAB foi afastada pelas seguintes razões: 1) não há vícios no acórdão recorridos capazes de amparar a tese de ofensa aos arts. 458 e 535 do CPC/1973; 2) contrariar o Tribunal de origem quanto à existência de teratologia na questão da prova implica reexame do conjunto fático-probatório, o que é inviável devido à Súmula 7 desta Corte; e 3) a referida súmula também obsta a análise do recurso pela alínea "c" do permissivo constitucional.
+2. No presente recurso, a parte agravante impugna apenas a incidência da Súmula 7/STJ, deixando de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os outros fundamentos da decisão agravada.
+3. É cediço que "o Agravo Interno parcial é cabível nas hipóteses em que há manifestação expressa de que sua irresignação volta-se somente contra parcela do julgado, havendo concordância com o restante" (AgInt no REsp 1.518.882/SC, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 21.2.2019), o que, entretanto, não foi realizado no caso em tela.
+4. A ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+5. Agravo Interno não conhecido.
+(AgInt no AREsp n. 2.158.581/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. REPRODUÇÃO DOS VÍCIOS PRESENTES NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO.
+1. No caso dos autos, a petição do agravo interno não impugnou o único fundamento da decisão que não conheceu do agravo em recurso especial, limitando-se a reiterar os vícios que levaram ao não conhecimento do agravo em recurso especial.
+2. Não se conhece do agravo interno que não impugna os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+3. Não se embasa o agravo interno com a mera reprodução dos vícios presentes nas razões do agravo em recurso especial, sob pena de não conhecimento.
+Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp n. 2.140.145/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão ora agravada conheceu do Agravo, para não conhecer do Recurso Especial, pela incidência das Súmulas 5/STJ, 7/STJ, 282/STF, 283/STF e 284/STF.
+III. O Agravo interno, porém, não impugna, específica e motivadamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021;
+AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020; AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017;
+AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+IV. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.919.503/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
