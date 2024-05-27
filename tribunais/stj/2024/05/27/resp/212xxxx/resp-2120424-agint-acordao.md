@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DO AVAL. RECONHECIMENTO DE SIMULAÇÃO. EXTINÇÃO DA EXECUÇÃO EM RELAÇÃO AOS GARANTES. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSÊNCIA DE CONDENAÇÃO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Ficou evidente que as assinaturas inseridas pelos avalistas eram verdadeiras, de modo que a invalidação posterior pelo reconhecimento da simulação não poderia acarretar a responsabilidade do banco.
+2. Para alterar o entendimento do Colegiado Estadual, que afirmou não existir qualquer indício nos autos de que o banco tinha conhecimento ou tenha participado da simulação fraudulenta na prestação do aval, seria necessário o revolvimento do conjunto fático-probatório, procedimento vedado em sede de recurso especial, diante do óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSÉ FILEMON DE BRITO (JOSÉ) e MARIA CRISTINA FERREIRA DE ABREU (MARIA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO NÃO CARACTERIZADA. 2. NULIDADE DO AVAL. RECONHECIMENTO DE SIMULAÇÃO. EXTINÇÃO DA EXECUÇÃO EM RELAÇÃO AOS GARANTES. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSÊNCIA DE CONDENAÇÃO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO. (e-STJ, fls. 346/352).
+Nas razões do presente inconformismo, defendeu que (1) não se aplicam no caso os óbices da Súmula n.º 7 do STJ, pois não há necessidade de reexame de fatos e provas; (2) é indispensável a aplicação dos Temas n.os 466, 872 e 96; (3) a resistência do banco após o conhecimento dos fatos excludentes de responsabilidade conduz ao arbitramento de honorários advocatícios em seu favor.
+Foi apresentada contraminuta (e-STJ, fls. 367/371).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DO AVAL. RECONHECIMENTO DE SIMULAÇÃO. EXTINÇÃO DA EXECUÇÃO EM RELAÇÃO AOS GARANTES. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSÊNCIA DE CONDENAÇÃO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Ficou evidente que as assinaturas inseridas pelos avalistas eram verdadeiras, de modo que a invalidação posterior pelo reconhecimento da simulação não poderia acarretar a responsabilidade do banco.
+2. Para alterar o entendimento do Colegiado Estadual, que afirmou não existir qualquer indício nos autos de que o banco tinha conhecimento ou tenha participado da simulação fraudulenta na prestação do aval, seria necessário o revolvimento do conjunto fático-probatório, procedimento vedado em sede de recurso especial, diante do óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+Dos honorários advocatícios
+Como relatado na decisão monocrática, BANCO DE BRASÍLIA S/A (BANCO) propôs execução de título extrajudicial em face de RT - COMERCIO DE CARNES LTDA (RT) e JOÃO ABRÃO CECILIO (JOÃO) e dos avalistas JOSÉ e MARIA, com lastro na Cédula de Crédito Comercial n.º 2000/000015-3/01-9.
+JOSÉ e MARIA apresentaram exceção de pré-executividade, que foi acolhida para decretar a nulidade do aval e, por consequência, extinguir a execução em face dos garantidores, sem fixação das custas e honorários advocatícios.
+Inconformados, os avalistas interpuseram o presente recurso especial, insistindo na fixação dos honorários advocatícios em decorrência da responsabilidade objetiva das instituições financeiras, além da resistência caracterizada pela apresentação de impugnação.
+O Tribunal estadual reconheceu que a jurisprudência desta Corte Superior admite a fixação dos honorários advocatícios no caso de acolhimento da exceção de pré-executividade.
+Entretanto, abriu exceção no caso em concreto, por entender que a verificação da nulidade do aval prestado pelos recorrentes não poderia ser imputada ao banco, dada a ocorrência de simulação dolosa e fraudulenta praticada por gestores e sócios da empresa devedora (e-STJ, fls. 98), destacando ainda trechos da decisão de primeiro grau:
+"Nesse giro, é de se considerar por comprovado o fato de que o avalista JOSÉ FILEMON não aderiu de forma livre e voluntária ao aval objeto da lide, notadamente porque, conforme devidamente comprovado na ação penal indicada e habilmente consignado na sentença penal transcrita em parte, JOSÉ FILEMON não dispunha de aptidão profissional e civil para atuar em atos negociais da empresa devedora, atuando apenas como "laranja" de seus empregadores no estatuto social, o que lhe impunha aposição de firmar documentos como se sócio da empresa fora, a bem da manutenção de seu emprego e de sua própria subsistência (Id. 141941271 dos autos de origem)" (e-STJ, fls. 98).
+De acordo com as informações juntadas nos autos, a responsabilização dos avalistas foram afastadas com fundamento em ação penal anterior, que excluiu a obrigação dos réus MANOEL MESSIAS NUNES (MANOEL) e JOSÉ, pois, apesar de constarem formalmente como sócios das empresas, não possuíam função administrativa ou gerencial.
+Diante deste cenário, ficou evidente que as assinaturas inseridas pelos avalistas eram verdadeiras, de modo que a invalidação posterior pelo reconhecimento da simulação não poderia acarretar a responsabilidade do banco.
+Na verdade, os elementos formais do contrato estavam intactos, não sendo possível exigir do banco a constatação de que a assinatura (verdadeira) dos avalistas tratava-se de um ato simulado.
+O fato de ser objetiva a responsabilidade das instituições financeiras e de ter apresentado defesa na exceção de pré-executividade é insuficiente para atrair a responsabilidade do banco pelo pagamento dos honorários advocatícios.
+Ressalte-se ainda que, para alterar o entendimento do Colegiado Estadual, que afirmou não existir qualquer indício nos autos de que o banco tinha conhecimento ou tenha participado da simulação fraudulenta na prestação do aval, seria necessário o revolvimento do conjunto fático-probatório, procedimento vedado em recurso especial, diante do óbice da Súmula n.º 7 do STJ.
+Nesse sentido, destacam-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSÊNCIA DE CONDENAÇÃO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+(AREsp n. 1.881.054, Minha Relatoria, Terceira Turma, j.27/8/2021, DJe de 31/8/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ÔNUS DA SUCUMBÊNCIA. CONCLUSÃO DO JULGADO FUNDADO EM FATOS E PROVAS. SÚMULA 7/STJ. FALTA DE INTERESSE RECURSAL. IMÓVEL COM VÍCIO DE QUANTIDADE. PROPAGANDA ENGANOSA. PROMESSA DE DUAS VAGAS DE GARAGEM. ENTREGA DE APENAS UMA VAGA DE GARAGEM. DANO MORAL. SÚMULA 7 DO STJ. VALOR RAZOÁVEL. LEGITIMIDADE PASSIVA ASSENTADA NA ORIGEM. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A análise da pretensão recursal sobre a distribuição do ônus da sucumbência, aplicação do princípio da causalidade e o valor dos honorários advocatícios demandaria o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+ .. .
+6. Agravo interno não provido.
+(AgInt no AREsp 1.404.780/CE, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 25/6/2019, DJe 28/6/2019)
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
