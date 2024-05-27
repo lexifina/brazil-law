@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, não acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por TB SERVICOS, TRANSPORTE, LIMPEZA, GERENCIAMENTO E RECURSOS HUMANOS S.A. (TB) contra acórdão de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n.º 5 do STJ).
+2. Agravo interno não provido (e-STJ, fl. 960).
+Nas razões do presente inconformismo, alegou que o acórdão embargado foi omisso quanto aos argumentos deduzidos na petição do agravo em recurso especial acerca da inaplicabilidade da Súmula n.º 5 desta Corte ao apelo nobre (e-STJ, fls. 969/973).
+Foi apresentada impugnação (e-STJ, fls. 977/984).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece ser provido.
+Da inexistência de violação do art. 1.022 do CPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões destes aclaratórios, TB afirmou a violação do art. 1.022 do CPC em razão da existência de omissão no acórdão embargado, no tocante à efetiva impugnação do óbice da Súmula n.º 5 do STJ.
+Contudo, sem razão.
+Da acurada análise dos autos se verifica que o acórdão embargado foi claro ao pontuar que TB, quando da interposição do agravo em recurso especial, não impugnou, de forma específica, um dos fundamentos utilizados para obstar o seguimento do apelo nobre, qual seja, a incidência da Súmula n.º 5 do STJ.
+A propósito, vejam-se os termos do aresto:
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra todos os fundamentos da decisão que negou seguimento ao apelo nobre, pois TB, na ocasião, não refutou, de forma arrazoada, a incidência da Súmula n.º 5 do STJ.
+E isso não fez porque, repisando os argumentos trazidos nas razões do apelo nobre, somente alegou, nas razões de seu agravo em recurso especial, a não incidência da Súmula n.º 7 do STJ e a ofensa aos arts. 489, § 3º, e 1.022, inc. II, do CPC.
+Assim, não houve a demonstração do adequado confronto do fundamento da decisão agravada no que tange à incidência da Súmula n.º 5 do STJ.
+Cumpre registrar que na hipótese em que se pretende impugnar a incidência da Súmula n.º 5 do STJ, deve a parte agravante não apenas mencionar que referido óbice deve ser afastado, mas também demonstrar que a solução da controvérsia independe da análise de interpretação de cláusula contratual, o que não se observa no caso concreto.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo regimental é capaz de contrariar tal entendimento (e-STJ, fl. 96 2).
+Observa-se, dessa forma, que não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022 do CPC/2015, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+2. No caso concreto, não se constata o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. Os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.949.036/GO, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 19/4/2022)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+ ..
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no REsp n. 1.997.043/MT, relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 15/3/2023)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Nessas condições, REJEITO os embargos de declaração.
+É o voto.
