@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL.  OMISSÃO.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  OI  S.A.  -  EM  RECUPERAÇÂ  O  JUDICIAL  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃOJURISDICIONAL.  NÃO  OCORRÊNCIA.  RECUPERAÇÃO  JUDICIAL.  HABILITAÇÃO  DO  CRÉDITO.  CREDOR.  FACULDADE.
+1.  Não  há  falar,  portanto,  em  existência  de  omissão  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+2.  Nos  termos  da  jurisprudência  desta  Corte,  a  habilitação  do  crédito  é  providência  que  cabe  ao  credor,  de  modo  que  se  mostra  possível  aguardar  o  término  da  recuperação  judicial  para  prosseguir  na  busca  individual  de  seu  crédito.  Precedentes.
+3.  Agravo  interno  não  provido"  (e-STJ  fl.  486).
+Nas  presentes  razões  (e-STJ  fls.  495/504),  a  embargante  requer  que  sejam  sanadas  as  seguintes  omissões  no  acórdão  recorrido:
+(i)  quanto  à  atualização  monetária,  caso  o  embargado  aguarde  para  execução  individual  após  o  término  da  recuperação  judicial,  que  deveria  incidir  apenas  até  a  data  do  processamento  da  recuperação  judicial  (20/6/2016),  e
+(ii)  quanto  aos  efeitos  da  recuperação  judicial,  defendendo  a  novação  e  que  os  efeitos  da  recuperação  judicial  atinjam  todos  os  créditos  concursais,  indistintamente,  tenham  sido  habilitados  ou  não  no  processo  recuperacional.
+A  embargante  reitera  a  tese  de  que
+"(..)  todos  os  créditos,  decorrentes  de  fatos  geradores  ocorridos  antes  da  apresentação  do  pedido  de  recuperação  judicial,  estarão,  ipso  facto,  sujeitos  aos  efeitos  da  recuperação,  independentemente  de  terem  sido  ou  não  incluídos  nas  relações  de  credores,  ou  mesmo  no  Quadro  Geral  de  Credores.  Se  o  crédito  de  sua  titularidade  decorre  de  fato  anterior  à  recuperação,  ele  deve,  então,  necessariamente,  segundo  a  tese  firmada  no  julgamento  do  Tema  nº  1.051,  submeter-se  aos  efeitos  previstos  na  Lei  nº  11.101/2005"  (e-STJ  fl.  503).
+Quanto  à  impugnação  de  e-STJ  fls.  510/514,  o  embargado  afirma  que  "  (..)  todos  os  créditos  serão  submetidos  à  segunda  recuperação  judicial  e  deverá  incidir  a  atualização  monetária  até  a  data  do  ajuizamento  do  segundo  pedido  de  recuperação  judicial  (01.03.2023),  nos  termos  do  artigo  9º,  inciso  II,  da  Lei  11.101/2005"  (e-STJ  fl.  514).
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL.  OMISSÃO.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+
+VOTO
+  Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição;  (b)  suprir  omissão  de  ponto  ou  questão  acerca  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  art.  489,  §  1º,  do  CPC,  que  configurariam  a  carência  de  fundamentação  válida,  e  (c)  corrigir  o  erro  material.
+No  caso  dos  autos,  a  embargante  alega  que  o  acórdão  incorreu  em  omissão  quanto  aos  efeitos  da  recuperação  judicial,  inclusive  o  termo  final  da  correção  monetária.
+Todavia,  ao  contrário  do  alegado  pela  embargante,  a  limitação  da  atualização  dos  valores  prevista  no  inciso  II  do  art.  9º  da  Lei  nº  11.101/2005  incide  apenas  nos  créditos  que  constituem  objeto  das  habilitações  na  recuperação  judicial  deferida.
+Além  disso,  haja  vista  o  interesse  manifestado  pelo  credor  de  não  habilitar  seu  crédito,  não  será  pago  de  acordo  com  o  plano  de  soerguimento  e,  por  consequência,  não  pode  incidir  sobre  ele  as  disposições  nele  contidas.
+A  propósito:
+"RECURSO  ESPECIAL.  RECUPERAÇÃO  JUDICIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  284/STF.  DISSÍDIO  JURISPRUDENCIAL.  DECISÃO  MONOCRÁTICA.  IMPOSSIBILIDADE.  HABILITAÇÃO  RETARDATÁRIA  DE  CRÉDITO.  FACULDADE  DO  CREDOR.  PRECEDENTES.  ATUALIZAÇÃO  DO  MONTANTE  DEVIDO.  DATA  DO  PEDIDO.  LIMITAÇÃO.  DESCABIMENTO.  SITUAÇÕES  FÁTICAS  DISTINTAS.
+1.  Ação  ajuizada  em  17/12/2012.  Recursos  especiais  interpostos  em  18/12/2019  e  8/1/2020.  Autos  conclusos  à  Relatora  em  26/5/2020.
+2.  Os  propósitos  recursais  consistem  em  definir:  (i)  se  houve  negativa  de  prestação  jurisdicional;  (ii)  se  é  possível  ao  credor  aguardar  o  encerramento  da  recuperação  judicial  da  devedora  para  cobrar  seu  crédito;  e  (iii)  se  a  atualização  dos  valores  devidos  pela  recuperanda  encontra  termo  na  data  em  que  foi  formulado  o  pedido  de  recuperação  judicial.
+3.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  suficientemente  o  acórdão  recorrido,  de  modo  a  esgotar  a  matéria  em  debate,  não  há  que  se  falar  em  negativa  de  prestação  jurisdicional.
+4.  A  deficiência  na  fundamentação  do  recurso  especial  importa  o  seu  não  conhecimento  quanto  às  respectivas  questões  jurídicas.
+5.  Não  se  admite  a  invocação  de  decisão  unipessoal  para  comprovação  de  dissídio  jurisprudencial.
+6.  A  habilitação  retardatária  de  crédito  é  providência  que  incumbe  ao  credor,  mas  a  este  não  se  impõe.  Caso  decida  aguardar  o  término  da  recuperação  para  prosseguir  na  busca  individual  de  seu  crédito,  é  direito  que  lhe  assegura  a  lei.  Precedentes.
+7.  A  limitação  da  atualização  dos  valores  prevista  no  inc.  II  do  art.  9º  da  Lei  11.101/05  constitui  determinação  que  concerne,  unicamente,  àqueles  créditos  que  constituem  objeto  de  habilitações  pleiteadas  pelos  credores  na  forma  do  art.  7º,  §  1º,  da  mesma  lei  (ou  seja,  após  deferido  o  processamento  da  recuperação).
+8.  A  situação  dos  autos,  no  entanto,  é  diversa,  haja  vista  o  interesse  manifestado  pelo  credor  de  não  habilitar  seu  crédito  na  ação  recuperacional.  Assim,  não  se  tratando  de  crédito  que  será  pago  de  acordo  com  o  plano  de  soerguimento,  não  pode  incidir  sobre  ele  disposições  que  se  destinam,  exclusivamente,  àqueles  que  a  ele  se  submetem.  A  presença  de  situação  fática  diversa  daquela  contida  na  norma  de  regência  obsta  a  incidência  da  consequência  jurídica  nela  prevista.
+9.  Nesse  panorama,  tendo  os  credores  recorrentes,  na  espécie,  optado  por  aguardar  o  encerramento  da  recuperação  judicial  para  perseguir  seu  crédito,  não  há  razão  jurídica  apta  a  autorizar  a  limitação  da  atualização  do  montante  da  dívida  somente  até  a  data  do  pedido.  RECURSO  ESPECIAL  DE  OI  S/A  NÃO  CONHECIDO.  RECURSO  ESPECIAL  DE  ANADIR  E  OUTRO  PARCIALMENTE  CONHECIDO  E  PROVIDO"  (REsp  1.873.572/RS,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  2/3/2021,  DJe  4/3/2021  -  grifou-se).
+Assim,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Nesse  sentido:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  REQUISITOS  DO  ART.  1.022  E  INCISOS  DO  CPC  DE  2015.  OMISSÃO  NÃO  CONSTATADA.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Depreende-se  do  artigo  1.022,  e  seus  incisos,  do  novo  Código  de  Processo  Civil  que  os  embargos  de  declaração  são  cabíveis  quando  constar,  na  decisão  recorrida,  obscuridade,  contradição,  omissão  em  ponto  sobre  o  qual  deveria  ter  se  pronunciado  o  julgador,  ou  até  mesmo  as  condutas  descritas  no  artigo  489,  parágrafo  1º,  que  configurariam  a  carência  de  fundamentação  válida.  Não  se  prestam  os  aclaratórios  ao  simples  reexame  de  questões  já  analisadas,  com  o  intuito  de  meramente  dar  efeito  modificativo  ao  recurso.
+2.  A  parte  embargante,  na  verdade,  deseja  a  rediscussão  da  matéria,  já  julgada  de  maneira  inequívoca.  Essa  pretensão  não  está  em  harmonia  com  a  natureza  e  a  função  dos  embargos  declaratórios  prevista  no  art.  1022  do  CPC.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  874.797/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  4/8/2016,  DJe  9/8/2016).
+"PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  RECURSO  INTERPOSTO  SOB  A  ÉGIDE  DO  CPC/2015.  OBSCURIDADE,  CONTRADIÇÃO,  OMISSÃO  OU  ERRO  MATERIAL.  INEXISTÊNCIA.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.
+1.  Rejeitam-se  os  embargos  declaratórios  quando,  no  acórdão  embargado,  não  há  nenhum  dos  vícios  previstos  no  art.  1.022  do  CPC/2015.
+2.  Embargos  de  declaração  rejeitados  com  aplicação  de  multa"  (EDcl  no  RCD  nos  EDcl  nos  EDcl  no  AgRg  no  AREsp  471.799/RJ,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Terceira  Turma,  julgado  em  18/8/2016,  DJe  24/8/2016).
+Registra-se  que  a  reiteração  do  mesmo  recurso  ,  com  objetivo  claramente  protelatório,  estará  sujeita  à  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
