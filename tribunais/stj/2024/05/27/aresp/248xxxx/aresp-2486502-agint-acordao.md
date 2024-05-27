@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO DE IMÓVEIS. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. CONTEMPLAÇÃO DA COTA. NEGATIVA DE EXPEDIÇÃO DA CARTA DE CRÉDITO. AUSÊNCIA CONTRATUAL DOS DOCUMENTOS QUE DEVERIAM SER ENTREGUES PARA ANÁLISE DO CRÉDITO. VIOLAÇÃO DOS DEVERES DE TRANSPARÊNCIA E INFORMAÇÃO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANTER O JULGADO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A recorrente deixou de atacar fundamento autônomo e suficiente para manter o julgado, o que atrai a incidência da Súmula nº 283 do STF.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA CONSÓRCIOS - ADMINISTRADORA DE CONSÓRCIOS S.A. (CAIXA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO DE IMÓVEIS. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. 1. CONTEMPLAÇÃO DA COTA. NEGATIVA DE EXPEDIÇÃO DA CARTA DE CRÉDITO. AUSÊNCIA CONTRATUAL DOS DOCUMENTOS QUE DEVERIAM SER ENTREGUES PARA ANÁLISE DO CRÉDITO. VIOLAÇÃO DOS DEVERES DE TRANSPARÊNCIA E INFORMAÇÃO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANTER O JULGADO. INCIDÊNCIA DA SÚMULA 283 DO STF. 2. RESTITUIÇÃO IMEDIATA. POSSIBILIDADE. CASO QUE NÃO SE TRATA DE CONSORCIADO DESISTENTE OU EXCLUÍDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO. (e-STJ, fls. 463/467).
+Nas razões do presente inconformismo, defendeu que (1) o consorciado não precisa apresentar garantias no momento em que adere ao grupo, mas somente quando for contemplado; e (2) a administradora poderá, inclusive, ser responsabilizada, caso faça a liberação do crédito com as correspondentes garantias.
+Foi apresentada contraminuta (e-STJ, fls. 478/481).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO DE IMÓVEIS. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. CONTEMPLAÇÃO DA COTA. NEGATIVA DE EXPEDIÇÃO DA CARTA DE CRÉDITO. AUSÊNCIA CONTRATUAL DOS DOCUMENTOS QUE DEVERIAM SER ENTREGUES PARA ANÁLISE DO CRÉDITO. VIOLAÇÃO DOS DEVERES DE TRANSPARÊNCIA E INFORMAÇÃO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANTER O JULGADO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A recorrente deixou de atacar fundamento autônomo e suficiente para manter o julgado, o que atrai a incidência da Súmula nº 283 do STF.
+2. Agravo interno não provido.
+VOTO
+Da rescisão contratual
+Como emana dos autos, LEANDRO SILVA PEREIRA (LEANDRO) propôs a presente ação de rescisão de contrato de consórcio cumulada com restituição de valores, sob o argumento de que, após ser contemplado, foi recusada a expedição das respectivas cartas de crédito ante invalidade dos extratos bancários para análise do pagamento das parcelas restantes.
+O Tribunal estadual ponderou que não constou do contrato a lista de documentos a serem entregues pelo consumidor para análise do crédito, além da ausência de esclarecimento do significado de "comportamento financeiro", evidenciando a utilização de conceito vago, indeterminado, subjetivo e não explicado no instrumento.
+Ressaltou ainda que as exigências documentais após o consorciado ser contemplado, ocasião em que deveria cumprir a obrigação de conceder o crédito, ferem os artigos 46 e 47 do CDC, que estabelecem que as cláusulas restritivas de direito devem ser informadas de maneira clara e expressa e, em caso de dúvida, serem interpretadas de maneira mais favorável ao aderente, conforme trechos que ora se transcrevem:
+Pois bem. O endereço eletrônico acima mencionado, ao contrário do que constou no contrato, não traz a lista de documentos a ser entregue pelo demandante para análise de crédito. Somente veicula novas formas de acesso às informações dos clientes mediante login e senha, que por certo somente são fornecidos após a efetiva contratação.
+Disto, se percebe que o autor não foi prévia e devidamente cientificado a respeito de quais documentos deveria apresentar para utilizar as cartas de crédito, exigências estas que ficaram apenas na esfera de conhecimento da apelante.
+Nem mesmo os critérios que deveriam ser aferidos de maneira objetiva foram objeto de elucidação por parte da recorrente, ausente esclarecimento do que se entenderia como "comportamento financeiro" a evidenciar utilização de conceito vago, indeterminado, subjetivo e não descrito no contrato, o que não se pode admitir.
+Os arts. 46 e 47 do CDC são expressos no sentido de que as cláusulas restritivas dos direitos do consumidor devem estar informadas de maneira clara e expressa e, em caso de dúvidas, a interpretação deve ser favorável ao aderente.
+Observado o quadro fático retro, evidente a conduta da apelante em deixar de fazer as exigências documentais necessárias no momento inicial do relacionamento para contratar e receber as parcelas e, quando da contemplação das cotas, ocasião em que deveria cumprir a obrigação de fornecer o crédito, simplesmente não o faz alegando não aceitar extratos bancários, cuja finalidade precípua é comprovar movimentação financeira (e-STJ, fl. 413).
+Sobre o tema, observa-se que CAIXA limitou-se a apontar o direito de exigir garantias, aptas a assegurarem o pagamento do restante das parcelas, sem infirmar o argumento de que o contrato não forneceu a lista de documentos a serem entregues pelo consorciado para análise do crédito, que, segundo o acórdão impugnado, configura violação aos deveres de transparência e de informação.
+Dessa forma, constatou-se que CAIXA deixou de atacar esse fundamento autônomo e suficiente para manter o julgado, o que atrai a incidência da Súmula nº 283 do STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito, confiram-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. RESCISÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO. FIOPREV. PREVIDÊNCIA PRIVADA. DESLIGAMENTO DO PLANO. RESGATE DAS CONTRIBUIÇÕES DE FORMA INTEGRAL. PRAZO PRESCRICIONAL VINTENÁRIO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. O entendimento jurisprudencial do Superior Tribunal de Justiça é de que "a prescrição da ação de cobrança de parcelas devidas por planos de previdência privada é quinquenal, nos termos do enunciado n. 291 da Súmula do STJ, mas, em se tratando de pleito de restituição de contribuições pagas indevidamente, como ocorre no caso concreto, uma vez configurada relação obrigacional de natureza pessoal, incide a prescrição vintenária, prevista no art. 177 do CC/1916, vigente à época dos fatos" (AgRg no REsp 1.285.643/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/05/2013, DJe de 29/05/2013).
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.757.140/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 9/8/2021, DJe 31/8/2021, sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. JUROS MORATÓRIOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. 1.026, § 2º, DO CPC/2015. CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+3. Tendo o Tribunal de origem vislumbrado o caráter protelatório dos embargos opostos, não há falar em ofensa ou negativa de vigência ao mencionado art. 1.026, § 2º, do CPC/2015, mas em seu fiel cumprimento. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.807.948/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 4/5/2020, DJe 7/5/2020, sem destaque no original).
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
+É o voto.
