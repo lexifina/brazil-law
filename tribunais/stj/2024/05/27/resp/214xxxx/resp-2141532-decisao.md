@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REQUISIÇÃO DE PEQUENO VALOR. DEFINIÇÃO DE NOVO TETO. LEI DISTRITAL 6.618/2020. INAPLICABILIDADE. DECISÃO TRANSITADA EM JULGADO EM MOMENTO ANTERIOR À VIGÊNCIA DA NORMA. TEMA 792 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO MANTIDA.
+1. De acordo com a tese firmada pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário 729.107/DF, com repercussão geral reconhecida (tema 792), lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda.
+2. A Lei Distrital 6.618/2020 somente se aplica a situações jurídicas constituídas após o início de sua vigência, não sendo esta a hipótese dos autos. No caso, deve prevalecer o teto de 10 (dez) salários mínimos fixado na Lei Distrital 3.624/2005, considerando a inconstitucionalidade da Lei Distrital 5.475/2015 declarada pelo Conselho Especial deste Egrégio Tribunal.
+3. Recurso conhecido e não provido.
+Os Embargos de Declaração foram rejeitados.
+A recorrente afirma que houve violação dos arts. 14 e 1.022 do CPC e 6º da LINDB. Sustenta:
+Com o devido respeito, cumpre destacar, em primeiro lugar, que houve má aplicação do precedente RE n. 729.107/DF -TEMA 792 -à hipótese vertente, porquanto a questão tratada nos autos é diversa da matéria que embasou a tese lá fixada, pois o tema em foco decorreu da possibilidade de aplicação imediata da Lei Distrital 3.624/2005, que reduziu, de 40 para 10 salários mínimos, o teto para expedição de requisição de pequeno valor. Com efeito, ao julgar o tema, a Suprema Corte considerou ser inaplicável a redução do teto para a expedição da RPV às execuções judiciais em curso contra a Fazenda Pública, senão vejamos a tese assim ementada:
+(..)
+Por outro lado, o presente caso trata-se da aplicação da Lei Distrital n. 6.618/2020 que aumentou de 10 para 20 salários mínimos o teto da RPV, não encontrando, assim, óbice no Tema 792, visto que não há qualquer situação jurídica constituída em data anterior. Ademais, o cumprimento de sentença já foi proposto sob égide da lei n. 3.624/2005, de sorte que é evidente a distinção ora defendida. Em segundo lugar, a Lei Distrital nº 6.618/2020 deve ser aplicada de forma imediata, haja vista sua natureza processual, senão vejamos:
+(..)
+Com efeito, as Leis são criadas para que, em regra, sejam aplicadas imediatamente, a partir da data de sua criação, nos processos em curso, contudo, não podem retroagir de modo a modificar as decisões consolidadas. In casu, deve ser aplicada a Lei nº 6.618/2020 em vigor, visto que o processo ainda está em curso e sequer houve decisão anterior que versasse sobre a mesma matéria, incidindo, na espécie, o afrontado art. 14 do CPC.
+(..)
+Importante salientar que o art. 6º da LINDB diz que "A lei em vigor terá efeito imediato e geral, respeitando o ato jurídico perfeito, o direito adquirido e a coisa julgada", portanto, ressalvada a proteção das situações já constituídas, a Lei deve ser aplicada de forma imediata no presente caso, a não ser assim, violado está o instituto retro mencionado. Destarte, verifica-se o desacerto do acórdão recorrido, fazendo-se necessário o provimento do presente recurso especial, a fim de fixar o entendimento de que a Lei vigente nº 6.618/2020 deve ser aplicada, de forma imediata, para fins de expedição de requisição de pequeno valor referente ao crédito do(a) recorrente.
+Contrarrazões às fls. 152-170.
+Decisão de admissibilidade do Recurso Especial às fls. 195-196.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3.5.2024.
+Inicialmente, a parte aduz que o art. 1.022 do CPC foi contrariado, mas não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto ante o óbice da Súmula 284/STF.
+Cito precedente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. OFENSA À SÚMULA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA 518/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA 283/STF. REINTEGRAÇÃO DE POSSE. FAIXA DE DOMÍNIO. PERÍCIA. CERCEAMENTO DE DEFESA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula 284, do Supremo Tribunal Federal.
+III - Não se pode conhecer da apontada violação aos arts. 489, § 1º, IV, 560, 561 1.022 do Código de Processo Civil e art. 1.197 do Código, uma vez que o recurso se cinge a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, Civil.
+(..)
+X - Agravo Interno improvido.
+(AgInt no REsp 1.967.408/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 14/9/2023.)
+O Colegiado originário dirimiu a controvérsia nestes termos:
+O Juízo de origem limitou o pedido de expedição de Requisição de Pequeno Valor - RPV a 10 (dez) salários mínimos, mediante controle difuso de constitucionalidade da Lei Distrital nº 6.618/2020, de 8 de junho de 2020.
+De acordo com a agravante, a matéria relativa ao teto das obrigações de pequeno valor devidas pelo ente público não possui natureza orçamentária, tratando de norma de índole meramente processual, editada pelo Distrito Federal por força da competência prevista no artigo 100, parágrafo 3º, da Constituição Federal, não havendo risco de gerar aumento de despesa. Diante desse cenário, o recorrente defende a constitucionalidade da Lei nº 6.618/2020, porquanto oriunda da regular atividade parlamentar.
+Pois bem.
+A controvérsia não é novidade no âmbito desta Egrégia Corte de Justiça. Em abril de 2016, ao analisar tema correlato, o Conselho Especial do Tribunal de Justiça do Distrito Federal e Territórios declarou a inconstitucionalidade formal da Lei Distrital nº 5.475/2015, também de iniciativa parlamentar, que elevou para 40 (quarenta) salários mínimos o valor máximo das obrigações de pequeno valor estabelecido na Lei Distrital nº 3.624/2005. Ao contrário do que sustenta o recorrente, ficou assentado que a alteração do limite máximo das requisições de pequeno valor implica alteração no orçamento, além de criar novas despesas para o Distrito Federal, devendo recair privativamente sobre o Chefe do Poder Executivo a iniciativa para legislar sobre o tema.
+(..)
+Conquanto a Lei Distrital nº 6.618/2020, de 8 de junho de 2020, ostente, em tese, o mesmo vício de iniciativa apontado anteriormente pelo Conselho Especial deste Egrégio Tribunal de Justiça, tenho que a incursão na matéria se mostra desnecessária, em face da recente tese firmada pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário 729.107/DF com repercussão geral reconhecida (tema 792).
+Na ocasião, o Ministro Marco Aurélio apontou para a inaplicabilidade da Lei nova às situações já constituídas, ante a natureza material e processual da norma disciplinadora do limite de pagamento via Requisição de Pequeno Valor - RPV ou Precatório, devendo prevalecer, como marco temporal, a data do trânsito em julgado da Sentença, com a formação do título executivo judicial.
+A tese, tal como analisada, alcança a discussão travada nos autos, não se limitando a inaplicabilidade da Lei Distrital nº 3.624/2005, tampouco a hipóteses menos favoráveis ao credor, a exemplo da redução do limite máximo das requisições de pequeno valor. Confira-se: "Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda".
+Com isso, a Lei nº 6.618/2020 somente se aplica a situações jurídicas constituídas após o início de sua vigência, não sendo esta a hipótese dos autos. No caso, deve prevalecer o teto de 10 (dez) salários mínimos fixado na Lei Distrital nº 3.624/2005, considerando a inconstitucionalidade da Lei Distrital nº 5.475/2015 declarada pelo Conselho Especial deste Egrégio Tribunal, bem como o trânsito em julgado da Ação Coletiva, ocorrido muito antes da entrada em vigor da Lei 6.618/2020.
+Verifica-se que a demanda foi apreciada sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo Supremo Tribunal Federal no julgamento do RE 729.107/DF, afetado ao Tema 792. Assim, sua análise é inviável no âmbito de cabimento do Recurso Especial por ser de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OAB. ANUIDADES. NATUREZA JURÍDICA. FUNDAMENTO CONSTITUCIONAL. VIA ESPECIAL. EXAME. IMPOSSIBILIDADE.
+1. À luz do art. 105, III, da Constituição Federal, o recurso especial não serve à revisão da fundamentação constitucional, sob pena de usurpação a competência do Supremo Tribunal Federal.
+2. Na hipótese dos autos o acórdão a quo foi proferido com fundamento exclusivamente constitucional, consistente no posicionamento consolidado pelo STF no julgamento do RE 647.885/RS (Tema 732), que definiu que as anuidades cobradas pela Ordem dos Advogados do Brasil possuem natureza tributária e, por isso, se aplica o rito da Lei n. 6.830/1980.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.975.358/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 1º/7/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO INATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA EDUCACIONAL - GDAE. PARIDADE. FUNDAMENTO CONSTITUCIONAL.
+1. O Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Precedentes: AgInt no REsp 1.396.754/GO, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/10/2017 e AgInt no REsp 1.590.605/GO, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/10/2016.
+2. Agravo interno não provido.
+(AgInt no REsp 1.609.709/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/8/2019.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. GRATIFICAÇÃO. EXTENSÃO AOS INATIVOS. RETROATIVIDADE DOS CICLOS DE AVALIAÇÃO. PRINCÍPIO DA ISONOMIA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL.
+1. Em atenção ao teor do aresto impugnado, observa-se que o Tribunal a quo decidiu a questão com base em precedentes do Supremo Tribunal Federal e fundamento eminentemente constitucional. Com efeito, analisada a matéria sob o prisma exclusivamente constitucional, é inviável ao STJ rever o entendimento consignado na origem, sob pena de usurpação da competência do STF
+(..)
+3. Recurso Especial não conhecido.
+(REsp 1.837.210/PB, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22/11/2019.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE EM CIÊNCIA E TECNOLOGIA - GDACT. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. EXTENSÃO AOS INATIVOS. FUNDAMENTAÇÃO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Na leitura do acórdão recorrido depreende-se que o Tribunal a quo analisou a controvérsia em conformidade com a jurisprudência do Supremo Tribunal Federal, à luz da isonomia entre servidores ativos e inativos e da regra prevista no artigo 40, § 8º, da Constituição Federal de 1988, na sua redação original conferida pela EC 20/1998, atualmente insculpida no § 4º do referido dispositivo constitucional, com a redação dada pela EC 47/2005.
+3. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza exclusivamente constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo a sua apreciação de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+4. Recurso Especial não conhecido.
+(REsp 1.763.003/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 28/11/2018.)
+Ademais, esta Corte Superior também possui entendimento consolidado no sentido de que os princípios contidos no art. 6º da LINDB assumem nítidos contornos constitucionais e não podem ser alvo de Recurso Especial.
+Nessa esteira:
+ADMINISTRATIVO E AMBIENTAL. REJULGAMENTO POR FORÇA DE DECISÃO EM RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. RESERVATÓRIO HIDRELÉTRICO DE SALTO SANTIAGO. DANOS AMBIENTAIS. RESPONSABILIDADE. RECOMPOSIÇÃO DE MATA. NOVO CÓDIGO FLORESTAL. INOVAÇÃO. DESCABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. PRETENSÃO CONTRÁRIA AO ENTENDIMENTO JURISPRUDENCIAL DO STJ. VIOLAÇÃO DO ART. 6º DA LEI N. 4.657/42. RESOLUÇÃO. ATO DE CARÁTER NORMATIVO, SEM FORÇA DE LEI FEDERAL. DEBATE DE ÍNDOLE CONSTITUCIONAL.
+(..)
+VI - No tocante à alegação de violação do 6º, §§ 2º e 3º, da Lei n. 4.657/42, a pretensão de se discutir uma possível irrretroatividade de resolução não é pertinente, na medida em que tal ato tem natureza normativa, não se equiparando à Lei Federal para o fim colimado.
+VII - Ademais, esta Corte de Justiça também tem entendimento no sentido de que, no que diz respeito à possível contrariedade do art. 6º, tem-se que os princípios nele contidos assumem nítidos contornos constitucionais, não podendo ser alvo de recurso especial.
+VIII - Agravo regimental improvido. (AgRg no REsp 1.434.797/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 25/2/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA NEGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 6º DA LINDB. COMPETÊNCIA DA SUPREMA CORTE. APLICAÇÃO DA LEI N. 9.656/1998 AOS CONTRATOS PACTUADOS ANTES DA ENTRADA EM VIGOR DESSA LEI. IRRETROATIVIDADE. ABUSIVIDADE VERIFICADA À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. NEGATIVA DE COBERTURA DE CIRURGIA PARA COLOCAÇÃO DE PRÓTESES, ÓRTESES E MATERIAIS ESPECIAIS. CONDUTA ABUSIVA DA OPERADORA DE PLANO DE SAÚDE. AGRAVO INTERNO IMPROVIDO.
+1. Segundo entendimento desta Corte, é inviável o conhecimento do recurso especial por violação do art. 6º da LINDB, porque os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988).
+(..)
+4. Agravo interno improvido.
+(AgInt no REsp 1.943.345/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/11/2021.)
+Por fim, alterar as conclusões a que chegou a Corte distrital demandaria, necessariamente, o exame de legislação local (Lei Distrital 6.618/2020), providência vedada na via eleita conforme dispõe a Súmula 280/STF.
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
