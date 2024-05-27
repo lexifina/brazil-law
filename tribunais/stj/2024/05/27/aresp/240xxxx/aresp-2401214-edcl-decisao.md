@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Abrapost-SP Associação de Franquias Postais do Estado de São Paulo em face da decisão de fls. 1.965/1.1968, que não conheceu de seu agravo em recurso especial ante a incidência da Súmula 182/STJ, pois não houve a impugnação específica a todos os fundamentos da decisão que inadmitiu o apelo nobre.
+A embargante, em suas razões, aponta omissões no decisum embargado "com relação ao pedido de sobrestamento do recurso até o julgamento final da ADI n. 4784/DF" (fl. 1.976) e "com relação à demonstração da violação ao art. 1º e item 26.01 da LC 116/2003 e negativa de vigência aos artigos 7º e 9º da Lei n. 6.538/78 (Lei Postal)" (fl. 1.978).
+Aberta vista à parte embargada, decorreu in albis o prazo para impugnação (fl. 1.988).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Na espécie, o agravo em recurso especial da ora embargante não foi conhecido ante a incidência da Súmula 182/STJ, haja vista a falta de impugnação específica à totalidade dos fundamentos da decisão da Corte a quo que inadmitiu o especial apelo.
+Com efeito, constou do decisum ora embargado que o Tribunal de origem não admitiu o especial, quanto à incidência do ISS com base no item 26.01 da Lista de Serviços anexa à Lei Complementar 116/03, por considerar o STJ que "as atividades postais e de serviços telemáticos prestados pelas agências franqueadas dos correios após a vigência da Lei Complementar 116/ 2003 são tributadas pelo ISSQN, por expressa previsão do serviço no subitem 26.01 da lista anexa à Lei. (AREsp nº 2.066.071, rel. Min. GURGEL DE FARIA, DJ de 23.06.2022)" (fl. 1.837).
+Registrou-se, ainda, na decisão embargada que, nesse contexto, tendo o Tribunal de origem inadmitido o recurso por estar o acórdão recorrido em consonância com o entendimento do STJ, para refutar o referido fundamento, caberia à parte recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, com o objetivo de reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
+EMENTA
