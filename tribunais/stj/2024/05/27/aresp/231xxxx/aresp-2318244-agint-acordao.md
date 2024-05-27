@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CERTAME. AFRODESCENDÊNCIA. CRITÉRIO. FENÓTIPO. PROVIMENTO NEGADO.
+1. No tocante à argumentação de ausência de motivação do ato administrativo que excluiu a parte agravante do certame na condição afrodescendente, o Tribunal de origem afirmou que "a banca examinadora expôs as devidas razões de exclusão do candidato".
+2. O entendimento desta Corte Superior é o de que o critério de orientação para a confirmação do direito à concorrência especial é o fenótipo, e não o genótipo, a ancestralidade do candidato.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MURILO DE JESUS OLIVEIRA contra a decisão de minha relatoria de fls. 750/755.
+Em suas razões, a parte recorrente sustenta que " ..  a jurisprudência desta Corte Superior entende que há ilegalidade de ato administrativo produzido sem a devida motivação" (fl. 753).
+Impugnação às fls. 762/765.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CERTAME. AFRODESCENDÊNCIA. CRITÉRIO. FENÓTIPO. PROVIMENTO NEGADO.
+1. No tocante à argumentação de ausência de motivação do ato administrativo que excluiu a parte agravante do certame na condição afrodescendente, o Tribunal de origem afirmou que "a banca examinadora expôs as devidas razões de exclusão do candidato".
+2. O entendimento desta Corte Superior é o de que o critério de orientação para a confirmação do direito à concorrência especial é o fenótipo, e não o genótipo, a ancestralidade do candidato.
+3. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+No tocante à argumentação de ausência de motivação do ato administrativo que excluiu o agravante do certame na condição afrodescendente, o Tribunal de origem assim se manifestou:
+Aduz o recorrente a falta de motivação do ato de exclusão do certame na condição de afrodescendente.
+Em que pese se deva reconhecer legítimo à administração utilizar, além da autodeclaração, critérios subsidiários de heteroidentificação, como por exemplo, a avaliação presencial mediante comparecimento em banca examinadora, conforme, inclusive, já se manifestou o STF, quando da análise da ADC 41/DF e da ADPF 186/DF, para que o candidato não seja considerado negro ou pardo, pela banca examinadora, é necessário que sejam apresentadas as respectivas razões, no ato administrativo que o excluir da lista de afrodescendência, recolocando-o na classificação geral.
+Isso porque, de acordo com as razões expostas pelo Supremo Tribunal Federal na decisão citada, quando houver dúvida acerca da condição de afrodescendente do candidato, deverá prevalecer a sua autodeclaração; de onde se tem que, recusada a autodeclaração do candidato, devem ser expostas as razões da Administração Pública para tanto.
+Nos termos do art. 37, da Constituição Federal, a Administração Pública deve obedecer aos Princípios da Legalidade, da Impessoalidade, da Moralidade, da Publicidade e da Eficiência.
+Acerca da motivação dos atos administrativos, prevê o art. 93, IX, da CF, segundo a doutrina, aplicável a todas as esferas de Poder:
+ ..
+A motivação do ato administrativo, portanto, além de obrigatória, mostra-se imprescindível para verificar se o ato atendeu a todos os Princípios Constitucionais da Administração Pública. É através da motivação que se pode aferir a legalidade do ato administrativo, ou se o mesmo decorreu da vontade arbitrária do administrador público.
+Ou seja, a despeito da possibilidade de exclusão do candidato da lista de afrodescendentes, após a aferição pela banca examinadora, conforme previsto no Edital, a decisão de exclusão deve se mostrar devidamente motivada, de modo que se possa aferir a sua legalidade, aqui se devendo ainda ressaltar o teor da Súmula 684, do STF, que é taxativa ao afirmar que "é inconstitucional o veto não motivado à participação de candidato a concurso público".
+No presente caso, conforme se pode observar, embora não apresentadas de imediato as razões de exclusão do Apelante, após requerimento via e-mail, em resposta nas páginas 192/194, a banca examinadora expôs as devidas razões de exclusão do candidato, que se deu por unanimidade, nos seguintes termos:
+"(..) o candidato foi indeferido como negro (PARDO), uma vez que não há traços fenotípicos que o identifique com a raça negra, que é um grupo discriminado na Sociedade Brasileira. Importa dizer que o edital do concurso é claro ao adotar o fenótipo, e NÃO o genótipo (composição genética, independentemente da aparência), para a análise do grupo racial, não resta demonstrada arbitrariedade na decisão da comissão avaliadora. Ou seja, o presente concurso abriu cotas para o ingresso de negros e não afrodescendentes. (..) Sendo assim, o genótipo, não pode ser observado claramente ao olhar para um indivíduo. No entanto, é possível inferir qual seria o seu genótipo realizando testes e analisando as características de outros indivíduos que apresentam parentesco com ele. Já o FENÓTIPO, pode ser facilmente observado, determinado graças à expressão dos genes. Todavia, o fenótipo não é influenciado apenas pelos genes, pois recebe influência também do meio, que pode modificar a forma como um gene manifesta-se. Ou seja, O FENÓTIPO REFERE-SE TANTO A CARACTERÍSTICAS RELACIONADAS COM A APARÊNCIA QUANTO A CARACTERÍSTICAS FISIOLÓGICAS. (..) Como se vê, a banca organizadora cumpriu estritamente a exigência contidas no edital, OU SEJA, houve unanimidade entre os integrantes da Comissão quanto ao não atendimento do quesito cor ou raça por parte do candidato (fenótipo).
+Ainda que se possa questionar a motivação, sob o argumento de que sucinta, vislumbra-se que ausência de motivação não existe.
+Sendo assim, entendo que devida e suficientemente justificado o ato de exclusão do Apelante, não há se falar em reforma da sentença objurgada (fls. 474/476, destaquei).
+Da leitura dos trechos acima colacionados fica claro que o ato administrativo foi devidamente motivado.
+Ademais, de acordo com o entendimento desta Corte Superior, o critério de orientação para a confirmação do direito à concorrência especial é o fenótipo, e não o genótipo, a ancestralidade do candidato.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SISTEMA DE COTAS. CRITÉRIO DE AVALIAÇÃO FENOTÍPICA. LEGALIDADE. NÃO ENQUADRAMENTO DE CANDIDATO NOS REQUISITOS PARA INCLUSÃO NA LISTA DE COTAS RACIAIS. PREVISÃO NO EDITAL. NÃO COMPETE AO PODER JUDICIÁRIO SUBSTITUIR A BANCA EXAMINADORA. PROVIMENTO NEGADO.
+1. Cuida-se de mandado de segurança impetrado contra ato atribuído ao Secretário de Administração e ao Secretário da Fazenda Pública, ambos do Estado da Bahia, consistente na exclusão da parte do concurso público para provimento de cargos de Auditor Fiscal / Tecnologia da Informação, regido pelo Edital SAEB/01/2019.
+2. O entendimento desta Corte Superior é firme no sentido de que o critério de orientação para a confirmação do direito à concorrência especial há de fundar-se no fenótipo e não meramente no genótipo, na ancestralidade do candidato.
+3. A jurisprudência do Superior Tribunal de Justiça é rigorosamente torrencial e uniforme quanto à obrigatoriedade de seguir-se fielmente as disposições do edital como garantia do princípio da igualdade, sem que isso signifique submissão alguma às exigências de ordem meramente positivistas.
+4. É firme a jurisprudência desta Corte Superior de que não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade (Aglnt nos EDcl no RMS 53.448/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/6/2022, DJe de 10/6/2022; AgInt no RMS n. 49.239/MS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2016, DJe de 10/11/2016).
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no RMS n. 69.978/BA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SISTEMA DE COTAS. CRITÉRIO DE AVALIAÇÃO FENOTÍPICA. LEGALIDADE. NÃO ENQUADRAMENTO DA CANDIDATA NOS REQUISITOS PARA INCLUSÃO NA LISTA DE COTAS RACIAIS. PREVISÃO NO EDITAL. AGRAVO INTERNO NO RECURSO ORDINÁRIO DO PARTICULAR DESPROVIDO.
+1. O edital adotou o sistema misto de identificação do sistema de cotas raciais, no qual o enquadramento do candidato como negro não é efetuado somente com base na autodeclaração do candidato, mas sim em uma posterior análise por comissão especial, especialmente designada heteroidentificação.
+2. A Lei 12.990/2014, aplicada ao caso concreto, em decorrência de resolução do Conselho Nacional de Justiça, estabeleceu a autodeclaração como critério de definição dos beneficiários da política de reserva de vagas para candidatos negros e pardos em concursos públicos, instituindo um sistema de controle de fraudes perpetradas pelos próprios candidatos que se fundamenta em procedimento de heteroidentificação.
+3. O critério de orientação para a confirmação do direito à concorrência especial, no entanto, há de fundar-se no fenótipo, e não meramente no genótipo, na ancestralidade do candidato (AREsp. 1.407.431/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 21.5.2019).
+4. A jurisprudência deste STJ é rigorosamente torrencial e uniforme quanto à obrigatoriedade de seguir-se fielmente as disposições editalícias como garantia do princípio da igualdade, sem que isso signifique qualquer submissão às exigências de ordem meramente positivistas (AgRg no REsp. 1.124.254/PI, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 29.4.2015; AgRg no RMS 43.065/PE, Rel. Min. OG FERNANDES, DJe 5.12.2014).
+5. Agravo Interno do Particular desprovido.
+(AgInt no RMS n. 61.406/MS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. CONCORRÊNCIA ESPECIAL. RESERVA DE VAGAS PARA NEGROS E PARDOS. PROCEDIMENTO DE HETEROIDENTIFICAÇÃO. CONSTITUCIONALIDADE. AFERIÇÃO DE ELEMENTOS FENOTÍPICOS. DESCONSTITUIÇÃO. RESPEITO AO CONTRADITÓRIO E À AMPLA DEFESA. PROVAS DOS AUTOS. INÉRCIA NO EXERCÍCIO DO DIREITO DE RECORRER. IMPOSSIBILIDADE DE REVISÃO DO ACERVO. SÚMULA 07/STJ.
+1. A Lei 12.990/2014 estabeleceu a autodeclaração como critério de definição dos beneficiários da política de reserva de vagas para candidatos negros e pardos em concursos públicos, instituindo, contudo, um sistema de controle de fraudes perpetradas pelos próprios candidatos que se fundamenta em procedimento de heteroidentificação realizado por comissão de verificação de constituição plural.
+2. O critério de orientação para a confirmação do direito à concorrência especial há de fundar-se no fenótipo e não meramente no genótipo, na ancestralidade do candidato.
+3. A pretensão de simples reexame de prova não enseja recurso especial. Inteligência da Súmula 07/STJ.
+4. Agravo conhecido para conhecer parcialmente do recurso e, nessa extensão, negar-lhe provimento.
+(AREsp n. 1.407.431/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/5/2019, DJe de 21/5/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
