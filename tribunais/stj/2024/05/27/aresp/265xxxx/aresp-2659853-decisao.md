@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial (art. 105, III, "a" e "c", da CF), este interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. IMPLANTAÇÃO DE REDE DE ESGOTODA ESCOLA EMEB DOS SONHOS PROFESSOR ANÉZIO DEOLIVEIRA. "QUANTUM" DEVIDO A TÍTULO DEINDENIZAÇÃO. LAUDO DE AVALIAÇÃO DO PERITOOFICIAL. A instituição de servidão administrativa, em regra, determina a desvalorização total dobem, marcada pela redução do valor da área diretamente afetada pela servidão e pela depreciação da área remanescente. Hipótese em que no laudo pericial, para a aferição do valor, foi levado em consideração as características da área serviente, com todos os dados a ela relativos, tais como dimensões, localização, acesso, pontos de referência, vizinhança, topografia, solo, uso, diagnóstico de mercado, elementos esses indispensáveis à determinação do preço final. Mantido o valor fixado na sentença, pois obtido conforme laudo pericial bem fundamentado. JUROS COMPENSATÓRIOS. Juros compensatórios  Julgamento proferido pelo Egrégio Supremo Tribunal Federal - ADI 2332/DF - que reduziu os juros compensatórios de 12% para 6% ao ano, em desapropriações - Julgamento demérito do referido julgado que tem eficácia vinculante, nos termos do art. 100, §2º da Constituição Federal  Fixação dos juros compensatórios para 6% ao ano. Recurso parcialmente provido.
+Os Embargos de Declaração foram rejeitados (fls. 566-572).
+Aponta o insurgente ofensa aos arts. 1.022, I e II, e 489, § 1º, IV, do CPC/2015. Sustenta que "a não apreciação do item 3 prejudicou o acesso a este Tribunal Superior quanto a análise da aplicação das regras indenizatórias pertinentes ao grau de utilização do imóvel e em consequência da aplicação dos termos do julgamento do mérito da ADI 2332/DF que reputou como constitucional o art. 15. A, §§1º, 2º e §3º do Decreto 3.365/41".
+Decisão de inadmissibilidade do Recurso Especial às fls. 596-597.
+Agravo em Recurso Especial com o seguinte pleito:
+Em face do exposto, resta inaplicável a súmula 7 do STJ, em face da inexistência de pretensão recursal ao reexame de provas, uma vez que a causa de pedir recursal está baseada em violação as normas federais acima descritas, bem como em fatos os quais restam incontroversos ta nos autos, o que torna desnecessária a prospecção em questões probatórias uma vez que estas já foram dirimidas e restam incontroversas nos autos. CONCLUSÃO Por todo o exposto, espera-se ter restado induvidoso que a decisão de não conhecimento deve ser reformada, ante a patente presença dos pressupostos subjetivos e objetivos de admissibilidade, motivo pelo qual deve ser provido o presente Agravo.
+Parecer do Ministério Público às fls. 626-632:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. IMPLANTAÇÃO DE REDE DE ESGOTO. VALOR DEVIDO A TÍTULO DE INDENIZAÇÃO. LAUDO DE AVALIAÇÃO DO PERITO OFICIAL. VIOLAÇÃO AOS ARTIGOS 1.022 E 489 DO CPC NÃO CONFIGURADA. RECURSO ESPECIAL INADMITIDO. AGRAVO. RAZÕES RECURSAIS QUE DEIXARAM DE INFIRMAR A DECISÃO AGRAVADA. SÚMULA 182/STJ. SÚMULAS 283 E 284 DO STF. PARECER PELO IMPROVIMENTO DO AGRAVO.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.9.2023.
+De antemão, verifica-se que o presente recurso é um Agravo em Recurso Especial - e não Recurso Especial, como autuado originariamente pela Secretaria deste Tribunal.
+A irresignação não merece prosperar.
+1. Histórico da demanda
+Na origem, o Município de Jundiaí interpôs Ação Ordinária de Constituição de Servidão Administrativa, com pedido de liminar, com vistas ao pagamento de R$ 24.577,50 a título de justa indenização por servidão administrativa para a implantação de uma galeria em faixa de terreno no imóvel da ré para o escoamento de águas pluviais.
+O magistrado de piso julgou parcialmente procedente o pedido, nos termos do art. 487, I, do Código de Processo Civil, e declarou constituída "a servidão administrativa sobre a área descrita no Decreto Expropriatório 23.292, de 16.08.2011 (fls.14), integrante de área maior objeto da matrícula 35.725, do 1º Oficial Registral Imobiliário de Jundiaí, mediante o pagamento de indenização no valor de R$185.300,00, ora fixada, válida para janeiro de 2017, ora fixada, incidindo os consectários legais nos termos acima arbitrados".
+O Tribunal de Justiça do Estado de São Paulo deu parcial provimento à Apelação interposta pelo Município.
+2. Violação ao art. 1.022 do CPC/2015
+Em suas razões, o recorrente afirma a existência de omissão no aresto hostilizado, notadamente porque o Colegiado estadual não debateu determinados itens questionados pela parte para fixação do preço, em especial os seguintes:
+1) erro aritmético do cálculo pericial, 2) critério de localização para fixação de preço médio e por fim, o item 3) que por se tratar de obra destinada tão e somente a colocação de tubos subterrâneos foi suscitada a omissão quanto a análise do efetivo prejuízo ao direito do uso, gozo e fruição do imóvel, uma vez que o valor da indenização foi fixado tal como houvesse sido retirada a propriedade e não como mera melhoria em servidão de passagem de águas pluviais e tubulação que já existiam no terreno antes mesmo da intervenção do Poder Público" (e-STJ fl.576).
+Confira-se a ementa do decisum dos aclaratórios:
+EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DE VÍCIOS - REJEIÇÃO. Inexistindo qualquer omissão ou contradição no acórdão, rejeitam-se os embargos.
+Assim, observa-se que, de fato, não houve manifestação do órgão julgador sobre tópico relevante da causa, qual seja: "a análise do efetivo prejuízo ao direito do uso, gozo e fruição do imóvel, uma vez que o valor da indenização foi fixado tal como houvesse sido retirada a propriedade e não como mera melhoria em servidão de passagem de águas pluviais e tubulação" (por se tratar de obra destinada tão e somente à colocação de tubos subterrâneos).
+É conhecido o entendimento de que o exame integral da lide, com fundamento suficiente, não caracteriza infringência ao art. 1.022 do CPC/2015, e que o juiz não é obrigado a rebater todas as alegações apresentadas pelas partes. Por outro lado, o magistrado não pode deixar de conhecer de matéria indispensável à solução do conflito, mormente quando sua decisão não é suficiente para refutar as teses aduzidas por não abranger toda a controvérsia.
+No caso, os argumentos do órgão julgador não são hábeis para afastar os pontos tidos como ignorados. Ainda que se tenha estabelecido o contexto probatório como suficiente, é importante destacar a plausibilidade da questão não apreciada mesmo mesmo após a oposição dos aclaratórios para suprir a lacuna.
+Reconhecida, portanto, a omissão no julgado e, por conseguinte, a contrarie dade ao art. 1.022 do CPC. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.
+1. Caracteriza-se a violação dos arts. 489 e 1.022 do CPC/2015 quando, por deficiência de fundamentação no acórdão ou por omissão da Corte a quo quanto aos temas relevantes no recurso, o órgão julgador deixa de apresentar, de forma clara e coerente, fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Hipótese em que questões fáticas essenciais ao deslinde da controvérsia, referentes ao fracionamento do imóvel constrito e a esse ter se dado em momento anterior à existência do crédito tributário, apesar de trazidas nas razões de embargos de declaração, não foram examinadas pela Corte local.
+3. A relevância desses aspectos ficou demonstrada, tendo em vista a fundamentação adotada no acórdão de origem para reformar a sentença pela qual se reconheceu que os imóveis penhorados já eram de propriedade de terceiros antes do lançamento tributário, de que teria havido suposta contradição entre as datas manifestadas pela embargante e os documentos acostados aos autos.
+4.Agravo interno desprovido.
+(AgInt no AREsp 1.623.348/RO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 12/5/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSOESPECIAL - AÇÃO CAUTELAR - DECISÃO MONOCRÁTICA QUECONHECEU EM PARTE DO RECLAMO E, NO PONTO, DEU-LHEPROVIMENTO. IRRESIGNAÇÃO DO RÉU.
+1. Esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1.022 do CPC/15, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito, notadamente quando se tratar de omissão acerca de questões fáticas.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.847.208/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020.)
+3. Conclusão
+Diante do exposto, dou provimento ao Agravo para conhecer do Recurso Especial e dar-lhe parcial provimento, a fim de anular o acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal a quo para que profira novo julgamento de modo a abordar a matéria omitida.
+Invertam-se os ônus sucumbenciais.
+À Secretaria para que proceda à autuação correta do presente feito como Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
