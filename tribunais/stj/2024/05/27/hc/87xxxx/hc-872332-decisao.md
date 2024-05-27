@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus i mpetrado em nome de PEDRO AUGUSTO NICASTRO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação n.0009042-12.2012.8.26.0048) - fl. 83:
+APELAÇÃO ASSOCIAÇÃO PARA O TRÁFICO Preliminares de inépcia da denúncia, impedimento de magistrada e ausência de laudo para identificação de interlocutores Nulidade Inocorrência A tardia alegação de inépcia não encontra eco na descrição adequada das condutas e modo de atuação de cada réu na peça vestibular, não sendo causa de impedimento o fato de um dos magistrados que atuou no presente caso já ter processado alguns dos réus em outro processo sendo desnecessária, por fim, a identificação das vozes que, inclusive, não é negada por todos - Autorias e materialidades delitivas nitidamente delineadas nos autos Interceptações telefônicas, prisões e apreensões, alinhadas com as palavras dos policiais e, inclusive, parte das pueris e escoteiras negativas de autoria, impedindo a absolvição Vínculo demonstrado nos autos Absolvição Impossibilidade Dosimetria justa e adequada, levando em consideração as peculiaridades do caso concreto e a situação pessoal de cada réu Regimes prisionais já abrandados com aplicação do art. 387, § 2º, do CPP aos réus que responderam presos Rejeição das preliminares e desprovimento dos recursos.
+Requer-se, em liminar e no mérito, a concessão da ordem para reduzir a pena do paciente.
+Afirma-se que a circunstância de o paciente ter sido a pessoa responsável pela preparação de um caminhão para o transporte dos entorpecentes não denota liderança, tratando-se de função executiva comum na hierarquia da organização, razão pela qual não comporta especial desvalor, o que enseja a proporcional redução da respectiva pena-base. Mas, ainda que estivesse suficientemente demonstrado o papel de liderança do réu na organização criminosa, no entender dessa defesa, não se mostra justo e razoável, somente com essa justificativa, majorar a pena-base em 2/3 do mínimo legal, ou seja, mais que o dobro da mínima cominada ao crime (fl. 9).
+Alega-se, ainda, que errônea a majoração da reprimenda na terceira fase de aplicação da pena, quando a d. Magistrada reconheceu a causa de aumento prevista no art. 40, inciso V, da Lei n. 11.343/2006, aumentando em 1/2 a reprimenda, para fixá- la em 8 anos e 9 meses de reclusão, e 2.040 dias- multa (fl. 10).
+A liminar foi indeferida (fls. 119/121).
+Informações prestadas (fls. 127/128).
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 224/228):
+Direito Penal. Habeas Corpus. Associação para o tráfico interestadual de drogas.
+1 tonelada de maconha. Dosimetria. Afastamento da majoração em razão do exercício da liderança da organização criminosa. Tese não apreciada na origem.
+Supressão de instância. Inexistência de desproporcionalidade ou falta de razoabilidade nas frações utilizadas para os aumentos. Art. 40, V da Lei 11.343/06. Elevação 2 / 1 , justificada pela complexidade da operação de transporte.
+Requer-se a denegação da ordem.
+É o relatório.
+De plano, verifico que a presente impetração foi ajuizada após o trânsito em julgado da condenação, sendo, pois, substitutiva de pedido revisional e, portanto, incabível.
+Com efeito, nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024, e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 5/10/2023.
+Ademais, pelas informações prestadas, após o trânsito em julgado foi ajuizada a Revisão Criminal n. 2153682-72.2022.8.26.0000, postulando a absolvição de Pedro por insuficiência probatória ou, subsidiariamente, a redução da reprimenda imposta, não foi ela conhecida pelo Sétimo Grupo de Direito Criminal, em julgamento virtual finalizado aos 14 de dezembro de 2022, por unanimidade. O aresto resultou irrecorrido. Assinalo, ademais, consoante assentamentos eletrônicos de primeira instância, que a execução foi registrada sob o número 0001078-49.2021.8.26.0695, da Vara Única da Comarca de Nazaré Paulista, e o réu cumpre a sanção cominada na ação penal em comento, em regime aberto, concedido aos 17 de março de 2022, com término previsto para 8 de agosto de 2027 (fl. 128).
+Como se vê, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, também não se admitido a utilização do writ como sucedâneo recursal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO OU DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
