@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE TRANCAMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. "Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do Superior Tribunal de Justiça, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". (AgRg na RvCr 5.110/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 24/6/2020, DJe 4/8/2020)
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DOUGLAS SANTOS DE JESUS contra decisão de fls. 399-402, e-STJ, que negou provimento ao recurso em habeas corpus.
+Nas presentes razões, a defesa sustenta que não há o óbice da supressão de instâncias constante na decisão monocrática. Afirma que a tese foi submetida ao crivo do Tribunal de Justiça, que deixou de examinar a pretensão, razão pela qual deve ser reconhecida a negativa da prestação jurisdicional.
+Requer a reconsideração da decisão ou a submissão do recurso ao Órgão colegiado para que seja provido o agravo, nos termos pleiteados.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE TRANCAMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. "Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do Superior Tribunal de Justiça, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". (AgRg na RvCr 5.110/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 24/6/2020, DJe 4/8/2020)
+2. Agravo regimental não conhecido.
+VOTO
+A irresignação não merece conhecimento.
+Na decisão monocrática ora agravada, de fato, houve menção ao óbice da supressão de instâncias, uma vez que a nulidade arguida (nulidade do reconhecimento fotográfico) não foi objeto de cognição pelo Tribunal de Justiça de Sergipe.
+Com efeito, observei que, no Habeas Corpus Criminal n. 202300329933, a Corte estadual ressaltou que questão deveria ser submetida primeiramente ao Juízo de 1º grau e discutida durante a instrução processual. Confira-se:
+Noutro canto, no que pertine à alegação de que o reconhecimento de pessoa por fotografia não observou os ditames do entendo que esse pleito não merece conhecimento. art. 226, do CPP Explico.
+Em seu arrazoado, assevera que "O paciente não foi preso em flagrante, não foram ouvidas possíveis testemunhas que poderiam ter visto os assaltos e corroborar a autoria delitiva atribuída a ele, nem foram e que a apreendidos bens das vítimas em poder do denunciado foto do denunciado destoa das demais fotografias apresentadas às vítimas, não por alguma característica física, mas pelo uso de um boné branco supostamente mencionado por todas elas quando da descrição do assaltante que as roubou.".
+Contudo, não há flagrante evidencia de nulidade do ato, até mesmo porque essa matéria ainda não fora analisada pelo juízo de origem além de exigir minucioso exame probatório, consoante pronunciou-se o juiz de origem na decisão ora vergastada, in litteris:
+(..)No mais, em que pese as alegações promovidas pelo réu em Resposta à Acusação, vislumbra-se a necessidade de dilação probatória e, portanto, não visualizo a existência de motivos a ensejar a manifesta incidência de nenhuma das hipóteses de rejeição da denúncia d o art. 395 ou de absolvição sumária do art. 397, todos do Código de Processo Penal. Veja que alegação de nulidade do reconhecimento fotográfico depende de dilação probatória. Nessa esteira, designo audiência de instrução e julgamento para o dia 16/05/2023, às 08:30 horas, no fórum local. Há requerimento fica possibilitado que as partes participem do ato por videoconferência.
+Assim, é possível verificar que a aludida tese defensiva não foi objeto de , o análise em primeira instância, até o momento da impetração do writ que inviabiliza o exame da matéria por esta instância "ad quem", sob pena de intolerável supressão de instância.
+Dito isto, observa-se que o requerimento acima transcrito ainda está pendente de análise, impedindo assim o conhecimento do writ, sob pena de configurar-se a hipótese de supressão de instância, o que contraria o ordenamento jurídico processual pátrio.
+Do exposto, tem-se que o conhecimento do por este Tribunal, enquanto writ em curso no juízo a quo pedido que se reveste de argumentos semelhantes aos apresentados no 2º grau, implica ostensiva supressão de instância, devendo ser recomendada sua apreciação prévia para exaurimento da instância. (e-STJ, fls. 187-188; grifou-se)
+Nesse ponto, imperioso destacar que em momento nenhum de suas razões iniciais a defesa pugnou pelo reconhecimento de negativa de prestação jurisdicional por parte do Tribunal de Justiça de Sergipe, como sugere agora em sede de agravo regimental. Não houve pedido para que este Superior Tribunal de Justiça concedesse a ordem a fim de determinar o exame da questão pela Corte estadual. A defesa buscou somente o acolhimento da tese de nulidade diretamente por este Tribunal.
+Não obstante, além do óbice referente à supressão, pontuei na decisão agravada acerca da existência de possíveis provas autônomas, circunstância que também afasta o pedido de trancamento do feito unicamente com base no suposto reconhecimento fotográfico.
+Verifique-se:
+Nesse contexto, a excepcional conclusão pelo trancamento antecipado do feito, sem oportunizar à acusação a produção das provas pertinentes, deve ficar restrita àquelas hipóteses de extrema e incontestável ilegalidade à primeira vista, o que é o caso dos autos. Na presente apuração, além da questão do reconhecimento efetuado pelas três vítimas dos três delitos de roubos em tese praticados pelo recorrente, há ainda indicação de que a moto vermelha utilizada nos assaltos (com placa anotada por uma das vítima) é de propriedade do pai do acusado (e-STJ, fls. 37-38). Assim, inviável o trancamento prematuro do feito. (e-STJ, fl. 401)
+Por outro lado, limitou-se o agravante a impugnar o fundamento concernente à supressão de instância, deixando de se manifestar sobre os outros pontos aventados na decisão monocrática.
+Nesse ínterim, é aplicável, na hipótese, o enunciado 182 da Súmula deste Superior Tribunal de Justiça. No mesmo sentido, os seguinte julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 10,69 KG DE MACONHA E 1,92 KG DE CRACK. SENTENÇA CONDENATÓRIA. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido.
+2. Agravo regimental não conhecido.
+(AgRg no HC 531.915/SP, Rel. Ministro Sebastião Reis Junior, Sexta Turma, julgado em 26/11/2019, DJe 05/12/2019; grifou-se.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte (arts. 932, caput, do CPC e 255, § 4º, III, do RISTJ), o Relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica.
+2. E não há que se falar em afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pelo agravante.
+3. A falta de impugnação específica a todos os fundamentos utilizados na decisão agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+4. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1708623/SE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/8/2020, DJe 31/8/2020; grifou-se.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DO JUIZ NATURAL. PREVENÇÃO. SÚMULA N. 706/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. "De acordo com a jurisprudência firmada por esta Corte de Justiça e pelo Supremo Tribunal Federal, eventual nulidade pela inobservância da regra de prevenção não é absoluta, mas relativa, cujo reconhecimento está condicionado à alegação no momento processual oportuno e à demonstração do prejuízo suportado pela parte, sob pena de preclusão.  ..  A questão inclusive foi objeto de súmula no Supremo Tribunal Federal, editada sob o n. 706, prevendo: É relativa a nulidade decorrente da inobservância da competência penal por prevenção" (HC n. 225.316, Ministro Og Fernandes, DJe 9/10/2013).
+2. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior. Precedentes da Corte Especial do STJ que não admitem a impugnação parcial do julgado.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 168.010/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/8/2020, DJe 28/8/2020; grifou-se.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
