@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO PIOBELO RIBEIRO apontando como ato coator o processo n. APC n. 5011249-91.2022.8.13.0699.
+Segundo consta dos autos, o paciente foi condenado em primeiro grau à pena de 13 anos de reclusão, no regime inicial fechado, e 1 ano de detenção no regime aberto (e-STJ fl. 41). A defesa recorreu da sentença e o Tribunal revisor deu parcial provimento ao recurso para reduzir a pena para 7 anos de reclusão, no regime inicial semiaberto (e-STJ fl. 81).
+Opostos embargos de declaração, foram acolhidos sem efeitos modificativos e determinada a expedição da guia de execução provisória da pena.
+Nas razões do presente habeas corpus, a defesa alega, resumidamente, que o paciente se encontra no regime fechado há 11 meses (desde 16/6/2023) e que ainda há recurso pendente de exame no Superior Tribunal de Justiça - o AREsp n. 2607931-MG.
+Reitera a argumentação enfatizando (e-STJ fls. 11/12):
+(..) foi fixada a pena de 7 (sete) anos de reclusão, em regime semiaberto; o Paciente já se encontra recolhido ("fechado") desde o dia 16 de junho de 2023, ou seja, está há 11 meses preso em situação de regime fechado e, ademais, na sentença condenatória a circunstância judicial dos antecedentes foi considerada favorável, pois ele é primário e não tem naus antecedentes.
+Conclui que "A concessão imediata da tutela pleiteada é legítima e necessária: a manifesta ilegalidade da segregação cautelar e o risco decorrente de sua manutenção evidenciam a imperiosa necessidade de que o Paciente seja imediatamente colocado em liberdade" (e-STJ fl. 12).
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório, Decido.
+Não há como prosseguir a irresignação.
+Isso porque o presente writ apresenta as mesmas partes, causa de pedir, pedido e foi impetrado contra o mesmo ato impugnado no HC 860535, cuja decisão de minha relatoria foi mantida pela Quinta Turma em acórdão assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO ILÍCITO DE ENTORPECENTES. APELAÇÃO CRIMINAL. MODIFICAÇÃO DO REGIME PARA SEMIABERTO. ALEGAÇÃO DE INCOMPATIBILIDADE COM A PRISÃO PREVENTIVA. MATÉRIA NÃO APRECIADA NO ACÓRDÃO. PENDÊNCIA DE EMBARGOS DE DECLARAÇÃO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL PATENTE. AGRAVANTE QUE PERMANECEU FORAGIDO POR 2 ANOS ANTES DE SER PRESO. AGRAVO DESPROVIDO.
+1. Hipótese na qual o writ foi indeferido liminarmente devido à ausência de exaurimento da instância prévia, a obstruir a análise das alegações apresentadas diretamente nos presentes autos.
+2. Embora a defesa tenha pleiteado genericamente a revogação da prisão em caso de acolhimento das teses defensivas do apelo, trata-se de alegação diversa da apresentada nestes autos, no sentido da incompatibilidade entre o regime inicialmente semiaberto e a prisão preventiva. Ainda que assim não fosse, a matéria não foi apreciada no acórdão que julgou o apelo.
+3. Outrossim, embora a defesa afirme que opôs embargos de declaração apontando a omissão, não houve o julgamento do recurso, de modo que subsiste o óbice à supressão de instância.
+4. Não se verifica ilegalidade patente apta a justificar a concessão da ordem de ofício, já que o agravante permaneceu por mais de dois anos foragido, o que configura circunstância excepcional que, a princípio, autoriza a prisão mesmo diante da imposição do regime inicial semiaberto.
+5. Agravo desprovido.
+E, ainda, como informa a própria defesa, o Supremo Tribunal teria concedido a ordem para compatibilizar as condições carcerárias com a do regime imposto na sentença, o semiaberto (e-STJ fl. 6):
+Contra essa decisão monocrática do Ministro Reynaldo Soares da Fonseca, do STJ, impetrou-se o Habeas Corpus nº 234.083 no Supremo Tribunal Federal -STF, onde a Ministra CÁRMEN LÚCIA (Relatora), em 24/11/2023, considerando ser "incabível a manutenção da custódia preventiva em regime fechado como está o paciente atualmente segundo informado pelo juízo de origem", negou seguimento ao habeas corpus mas CONCEDEU A ORDEM DE OFÍCIO "para determinar ao juízo da Vara Criminal da comarca de Ubá/MG (Ação Penal n. 0019567-85.2021.8.13.0699) providencie a transferência do paciente para estabelecimento prisional compatível com o regime inicial semiaberto fixado pelo Tribunal estadual". E determinou: "Oficie-se, de imediato, ao juízo da Vara Criminal da Comarca de Ubá/MG, ao Desembargador Jaubert Carneiro Jaques, Relator da Apelação Criminal n. 1.0000.23.107531-8/001, do Tribunal de Justiça de Minas Gerais, e ao Ministro Reynaldo Soares da Fonseca, Relator do Habeas Corpus n. 806.535, do Superior Tribunal de Justiça, para ciência e adoção das providências necessárias ao integral cumprimento desta decisão".
+Os ofícios foram expedidos no dia 27/11/2023, as autoridades apontadas tomaram ciência, mas o integral cumprimento da decisão jamais foi corretamente efetivado.
+Assim, eventual descumprimento dessa ordem não pode ser corrigido por esta Corte.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
