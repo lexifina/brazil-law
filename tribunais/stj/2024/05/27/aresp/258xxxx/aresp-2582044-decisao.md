@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/12/2023.
+Concluso ao gabinete em: 21/5/2024.
+Ação: Execução Fiscal ajuizada pelo agravante em face Itaiquara Alimentos S/A - Em Recuperação Judicial.
+Decisão interlocutória: indeferiu o pedido da executada de levantamento da hipoteca do imóvel matriculado sob o nº 44.591 do CRI de Passos, bem como indeferiu o pleito do exequente para a execução da hipoteca mediante leilão.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, conforme ementa a seguir (fl. 296):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXECUÇÃO HIPOTECÁRIA - EXECUTADA EM RECUPERAÇÃO JUDICIAL - ALTERAÇÃO LEGISLATIVA - ART. 6º, §7-B DA LEI 14.112/2020 - COOPERAÇÃO JURISDICIONAL - ANÁLISE DA VIABILIDADE PELO JUÍZO DA RECUPERAÇÃO JUDICIAL - RECURSO DESPROVIDO. - Conquanto admissível a regular tramitação das execuções fiscais no curso da recuperação judicial da empresa devedora, certo é que compete ao juízo da recuperação judicial decidir, por meio de cooperação jurisdicional, acerca da manutenção dos atos de constrição do patrimônio da empresa recuperanda, o que não se vislumbra no processado, de modo que exsurge inviável o pleito de prosseguimento da execução fiscal, mediante a penhora, avaliação e alienação do bem hipotecado e, por conseguinte, deve ser mantida a decisão, desprovendo-se o recurso.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 6º, §7º- B, da Lei nº 11.101/05, e 9º, III, da lei 6.830/80. Sustenta, em síntese, que "a lei não submeteu um Juízo a outro. Não determinou que o Juízo da Execução tenha que, ex officio, consultar o Juízo da Recuperação Judicial sobre cada ordem de penhora, ainda que não tenha recaído sobre bem de capital" (fl. 345).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do entendimento do STJ
+O STJ possui dominante jurisprudência no sentido de que, nos termos dos arts. 6º, § 7º-B, da Lei n. 11.101/2005 e 67 a 69 do CPC, compete ao juízo da execução fiscal determinar os atos de constrição judicial sobre bens e direitos de sociedade empresária em recuperação judicial, sem proceder à alienação ou ao levantamento de quantia penhorada, comunicando, por dever de cooperação, a medida ao juízo da recuperação, ao qual compete exercer o controle e deliberar, até o encerramento do procedimento de soerguimento, sobre a substituição de ato constritivo que recaia sobre bens de capital essenciais à manutenção da atividade empresarial, podendo, inclusive, formular proposta alternativa de satisfação do crédito, em procedimento de cooperação recíproca.
+A propósito: AgInt no CC n. 175.118/RJ, Segunda Seção, DJe de 19/9/2023; AgInt no AREsp n. 2.387.413/SC, Primeira Turma, DJe de 1/3/2024; AgInt no AgInt no REsp n. 1.749.036/SP, Segunda Turma, DJe de 24/1/2024; AgInt no CC n. 181.969/RJ, Segunda Seção, julgado em 20/9/2022, DJe de 23/9/2022.
+Nessas hipóteses, não é razoável permitir o prosseguimento de atos de constrição sobre o patrimônio da empresa. Isso porque a expropriação dos bens que compõem o seu ativo fatalmente provocará prejuízos que colocarão em risco o próprio cumprimento do plano de recuperação.
+A quebra, a ninguém interessa: caso verificada, ocasionará a suspensão das execuções ajuizadas contra a falida, ou seja, fará com que seja reiniciado o ciclo.
+O destino dos bens da recuperanda deve seguir o que estiver fixado no plano aprovado, cujo cumprimento é fiscalizado pelo juízo onde tramita. A continuidade de atos expropriatórios em juízo diverso poderá implicar alienação judicial de bens indispensáveis ao regular desenvolvimento das atividades da sociedade, inviabilizando o cumprimento do plano e violando o princípio de preservação da empresa.
+Dessa forma, impõe-se a conclusão de que o prosseguimento dos atos constritivos em outros órgãos judiciais invade a esfera de competência do Juízo da Recuperação Judicial.
+Logo, o acórdão recorrido não merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO FISCAL. ATOS EXPROPRIATÓRIOS. JUÍZO DA RECUPERAÇÃO JUDICIAL. ORIENTAÇÃO DA 2ª SEÇÃO DO STJ.
+1. Recuperação judicial.
+2. Nos termos dos arts. 6º, § 7º-B, da Lei n. 11.101/2005 e 67 a 69 do CPC, compete ao juízo da execução fiscal determinar os atos de constrição judicial sobre bens e direitos de sociedade empresária em recuperação judicial, sem proceder à alienação ou ao levantamento de quantia penhorada, comunicando, por dever de cooperação, a medida ao juízo da recuperação, ao qual compete exercer o controle e deliberar, até o encerramento do procedimento de soerguimento, sobre a substituição de ato constritivo que recaia sobre bens de capital essenciais à manutenção da atividade empresarial, podendo, inclusive, formular proposta alternativa de satisfação do crédito, em procedimento de cooperação recíproca. Precedentes.
+3. Agravo conhecido. Recurso especial conhecido e não provido.
