@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CTB. OBSCURIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Na hipótese, necessário aclarar a obscuridade apontada pela defesa, a fim de consignar expressamente que se mantém a substituição da sanção corporal nos termos do acórdão proferido pela Corte local, já que inexistente recurso da acusação quanto a esse ponto.
+3. Embargos de de claração acolhidos, sem efeitos modificativos.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos declaratórios opostos contra acórdão de e-STJ fls. 471/472, em que foi desprovido o agravo regimental em julgado assim ementado:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CTB. RECUSA EM REALIZAR O TESTE DO ETILÔMETRO. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. PLEITO DE ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. VIOLAÇÃO AO ART. 620 DO CPP. NÃO OCORRÊNCIA. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. PROPORCIONALIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme o entendimento do Superior Tribunal de Justiça, "a partir do advento da L ei 12.760/2012, que alterou a redação do art. 306 do Código de Trânsito Brasileiro, entende-se ser despicienda a submissão do acusado a teste de etilômetro, sendo admitida a comprovação da embriaguez por vídeo, testemunhos ou outros meios de prova admitidos em direito, observado o direito à contraprova" (AgRg no AREsp n. 2.189.576/RO, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023).
+2. Na hipótese, a instância de origem considerou amplamente comprovado que o agravante conduziu veículo com a capacidade psicomotora alterada, em especial diante dos depoimentos dos agentes de trânsito, do exame médico em atendimento de emergência, das circunstâncias do flagrante (duas colisões na barra de proteção da pista, quase atingindo a viatura policial) e da confissão informal do réu, elucidando a recusa do acusado em realizar o teste do etilômetro.
+3. Assim, para que fosse possível a análise do pleito absolutório, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 do Superior Tribunal de Justiça.
+4. Não ocorre violação ao art. 620 do Código de Processo Penal quando exaurido integralmente pelo Tribunal a quo o exame das questões trazidas à baila pela defesa, sendo dispensáveis quaisquer outros pronunciamentos supletivos, mormente quando postulados apenas para atender ao inconformismo do agravante que, por via transversa, tenta modificar a conclusão alcançada pela instância de origem.
+5. Consoante entendimento assente neste Tribunal Superior, a análise desfavorável das circunstâncias judiciais justifica o afastamento da substituição da sanção privativa de liberdade por restritivas de direitos, ainda que a pena imposta ao acusado seja inferior a 4 anos de reclusão, tendo em vista o disposto no art. 44, III, c/c o art. 59, ambos do Código Penal. Precedentes.
+6. Agravo regimental desprovido. (Grifei)
+No presente recurso, a parte embargante aponta a necessidade de aclarar a obscuridade do acórdão embargado, uma vez que as instâncias de origem substituíram a pena de detenção por medida restritiva de direitos, consistente em prestação de serviços à comunidade, não havendo insurgência do Ministério Público quanto a esse ponto.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CTB. OBSCURIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Na hipótese, necessário aclarar a obscuridade apontada pela defesa, a fim de consignar expressamente que se mantém a substituição da sanção corporal nos termos do acórdão proferido pela Corte local, já que inexistente recurso da acusação quanto a esse ponto.
+3. Embargos de de claração acolhidos, sem efeitos modificativos.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+No caso em tela, verifico a necessidade de aclarar a obscuridade apontada pela defesa.
+Por intermédio de decisão monocrática por mim lavrada, conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento, a fim de reconhecer a atenuante da confissão espontânea e readequar a sanção definitiva a 6 meses de detenção e 10 dias-multa, além de 2 meses de suspensão da habilitação para condução de veículo automotor, mantendo os demais termos do acórdão proferido pela Corte local (e-STJ fls. 422/432).
+Nos embargos de declaração opostos contra essa decisão, foi indeferido o pedido de substituição da pena corporal exclusivamente pela de multa, nos termos do art. 60, § 2º, do Código Penal (e-STJ fls. 446/449).
+Como antes analisado, além de não estarem preenchidos os pressupostos do art. 44 do CP, já que a pena-base foi exasperada pelo demérito da culpabilidade do agente, cabe ressaltar que, " s e ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal" (AgRg no HC n. 415.618/SC, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 15/5/2018, DJe 4/6/2018), como no caso.
+Ao julgar o agravo regimental ora impugnado (e-STJ fls. 473/485), verifico que, de fato, foi consignada a impossibilidade de aplicação do disposto no § 2º do art. 60 do CP ou de substituição da reprimenda de 6 meses de detenção, sem, contudo, ressalvar expressamente que deve ser mantida a cominação das instâncias de origem, no ponto em que substituiu a sanção corporal pela prestação de serviços à comunidade (e-STJ fls. 138 e 237), já que inexistente recurso ministerial nessa parte.
+Ante o exposto, acolho os embargos declaratórios, a fim de sanar a obscuridade apontada, sem efeitos modificativos.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
