@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, recurso especial interposto por LINEO TOCCHETTO E EMBRAPINUS AGRO INDUSTRIAL MADEIREIRA LTDA, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. MULTA AMBIENTAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INÉRCIA DO EXEQUENTE. SENTENÇA CASSADA.
+RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO. EXECUÇÃO FISCAL. MULTA AMBIENTAL. PRESCRIÇÃO INTERCORRENTE. IMPOSSIBILIDADE DE REAPRECIAÇÃO DA MATÉRIA. AUSÊNCIA DE VÍCIOS. RECURSO REJEITADO.
+Nas suas razões recursais, com fundamento no art. 105, III, a e c, da Constituição Federal, o recorrente sustenta, em síntese, violação aos arts. 11, 371, 489, II, § 1º, IV, do CPC/2015.
+É o relatório. Decido.
+De início, deve ser afastada a alegada violação aos arts. 11, 371, 489, II, § 1º, IV, do CPC/2015, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+Ainda, cumpre registrar que a parte recorrente alega a nulidade do acórdão recorrido porquanto defende a ocorrência da prescrição intercorrente. Todavia, apesar da alegação e da oposição dos embargos de declaração na origem, não há na petição do recurso especial a indicação de violação ao art. 1.022 do CPC/2015.
+Sendo assim, "a jurisprudência deste Tribunal Superior firmou-se no sentido de que o reconhecimento do prequestionamento ficto previsto no art. 1025 do CPC/2015 pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial violação ao art. 1022 do CPC/2015, por negativa de prestação jurisdicional, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, o que não ocorreu na espécie" (EDcl no REsp n. 1.856.469/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/10/2020, DJe de 23/10/2020).
+No mais, ao dirimir a controvérsia, o Tribunal de origem consignou o seguinte:
+Em outras palavras, para que seja reconhecida a prescrição intercorrente, em matéria de execução fiscal, é necessário que haja a comprovação da inércia da Fazenda Pública, pelo prazo legal, isto é, 5 anos, sem andamento do processo, por culpa exclusiva do exequente, nos termos do artigo 40, § 4º, da Lei de Execuções Fiscais.
+ ..
+Pois bem, no caso em análise, embora tenha ocorrido o transcurso de mais de 5 anos entre o ajuizamento da execução fiscal (17.01.2006 - mov. 1.2) até o presente momento, verifica-se que não houve desídia por parte do exequente. Ou seja, como não houve a inércia do IAP, por mais de 5 anos, entre um ato processual e outro, não há que se falar em prescrição intercorrente.
+De fato, observa-se que em todos os momentos instado a se manifestar, o Exequente assim o fez, portanto, inexistente a inércia do Instituto Ambiental do Paraná. Observe-se que o IAP em todos os momentos procurou satisfazer seu crédito, como se verifica no termo de nomeação de bens à penhora (mov. 1.16), busca no Renajud (mov. 1.33), Infojud (mov. 36.1), não tendo sido paralisado o processo (sem movimentação) por mais de cinco anos (fl. 52).
+Nesse sentido, decidir de forma contrária, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. A Corte local afirmou que "não resta preenchido o pressuposto de caracterização da inércia da Fazenda Pública para a decretação da prescrição em relação aos coobrigados (fl. 588 e-STJ)". Assim, a alteração do entendimento da origem direcionado a considerar prescrito o crédito exige que o STJ avance no acervo cognitivo dos autos, o que é vedado pela Súmula 7/STJ.
+2. O acórdão recorrido, ao entender que deve estar caracterizada a inércia da Fazenda Pública para fins de reconhecimento da prescrição intercorrente, atuou em harmonia com a compreensão firmada pelo Superior Tribunal de Justiça, no regime dos repetitivos (REsp 1.201.993/SP, Rel. Min. Herman Benjamin, Primeira Seção, DJe 12/12/2019), que consubstancia o Tema 444 do STJ.
+3. Agravo Interno não provido (AgInt no REsp n. 2.090.772/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/3/2024, DJe de 19/4/2024).
+Quanto à alínea c, "consoante iterativa jurisprudência desta Corte Superior, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 2.350.617/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
