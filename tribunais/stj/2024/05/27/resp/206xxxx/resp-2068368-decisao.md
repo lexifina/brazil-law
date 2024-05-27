@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+MANDADO DE SEGURANÇA. LEI 6.321/76. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. DECRETOS 78.676/76, 05/91 E 9.580/2018. OFENSA AO PRINCÍPIO DA LEGALIDADE. COMPENSAÇÃO ADMINISTRATIVA. RESTITUIÇÃO JUDICIAL. PARÂMETROS. RESTITUIÇÃO ADMINISTRATIVA. INVIABILIDADE.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, além de negativa de prestação jurisdicional, que o benefício fiscal relacionado ao PAT deve ser calculado em relação ao imposto devido.
+Contrarrazões apresentadas às fls. 27.600-27.608.
+É o relatório.
+Passo a decidir.
+Inicialmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+No que diz respeito ao mérito recursal, o Tribunal Regional manifestou-se nos seguintes termos (fls. 27.472-27.273):
+Com efeito, os Decretos n 78.676/76, 05/91 e 9.580/2018 (Regulamento os do Imposto de Renda) extrapolaram sua função regulamentar ao alterarem a base de cálculo do referido benefício fiscal, para fazê-lo incidir diretamente sobre o IRPJ devido, e não sobre o "lucro tributável", nos termos da Lei nº 6.321/76, desrespeitando, assim, os princípios da estrita legalidade e da hierarquia das leis.
+ ..
+Note-se que o benefício fiscal supracitado se aplica ao adicional do imposto de renda da seguinte maneira: procede-se primeiro à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado referido adicional.
+A decisão recorrida não merece reparos.
+O entendimento do Superior Tribunal de Justiça é o de que o benefício fiscal do Programa de Alimentação do Trabalhador - PAT, instituído pelo art. 1º da Lei n. 6.321/1976, deve ser calculado "sobre o lucro tributável da pessoa jurídica, resultando no lucro real, sobre o qual deverá recair o adicional do imposto de renda, previsto no art. 3º, §4º, da Lei n. 9.249/1995" (AgInt no REsp n. 1.729.507/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/9/2023, DJe de 8/9/2023).
+No mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022, DO CPC/2015. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ILEGALIDADE DO ART. 645, §1º, I E II, DO DECRETO N. 9.580/2018. ART. 1º, DA LEI N. 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO, O QUE REFLETE NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA, AFASTANDO A VEDAÇÃO CONSTANTE DO ART. 3º, §4º, DA LEI N. 9.249/95. LIMITAÇÃO DA DOBRA A 4% DO IMPOSTO DE RENDA DEVIDO E NÃO A 4% DO LUCRO TRIBUTÁVEL.
+1. O art. 186, do Decreto nº 10.854, de 2021, ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade. Precedente: REsp. n. 2.088.361/CE, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 10.10.2023.
+2. Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional. Precedentes:
+EDcl no AgRg no REsp 940735 / SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 20.05.2010; REsp 526303 / SP, Segunda Turma, Rel. Min. Castro Meira, julgado em 27.09.2005; AgRg no REsp 115295 / DF, Segunda Turma, Rel. Min. Franciulli Netto, julgado em 02.09.2004;
+AgInt no REsp. n. 1.761.150-SP, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 12.02.2019.
+3. Contudo, se o artigo 1º, da Lei nº 6.321/76, é claro no sentido de que a dedução do PAT recai sobre o lucro tributável (não tendo sido revogado no ponto pela legislação posterior, pois a Lei n. 9.532/97 tratou apenas dos limites e não da base de cálculo do benefício), os arts. 5º e 6º, I, da Lei n. 9.532/97, são claros no sentido de que o limite da dedução recai sobre o imposto de renda devido. São duas coisas distintas: o cálculo do benefício (lucro tributável) e o limite do benefício (imposto de renda devido). Precedente: AgInt nos EDcl nos EDcl no REsp. n. 1.926.785/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 21.02.2022.
+4. Recurso especial não provido.
+(REsp n. 2.093.548/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/11/2023, DJe de 10/11/2023.)
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e da Súmu la 105/STJ.
+Intimem-se.
+EMENTA
