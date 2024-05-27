@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL. PRISÃO PREVENTIVA. MANUTENÇÃO PELOS MESMOS MOTIVOS QUE ENSEJARAM A DECRETAÇÃO. AUSÊNCIA DE PREJUDICIALIDADE. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. NATUREZA E QUANTIDADE DA DROGA. RISCO DE REITERAÇÃO DELITIVA. REINCIDENTE. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Lucas Alves Martins contra decisão monocrática de minha lavra, assim ementada (fl. 281):
+HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL. PRISÃO PREVENTIVA. MANUTENÇÃO PELOS MESMOS MOTIVOS QUE ENSEJARAM A DECRETAÇÃO. AUSÊNCIA DE PREJUDICIALIDADE. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔN EA. NATUREZA E QUANTIDADE DA DROGA. RISCO DE REITERAÇÃO DELITIVA. REINCIDENTE. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER MINISTERIAL ACOLHIDO.
+Writ conhecido em parte e, nessa extensão, ordem denegada.
+Nas razões, a defesa reprisa, em suma, que o decreto de prisão preventiva não está suficientemente fundamentado, nos termos do art. 312 do CPP, pois a reincidência e a quantidade de droga apreendida não seriam motivação idônea a demonstrar a pericu losidade no caso concreto; não havendo justa causa para a busca pessoal, sendo, pois, as provas nulas.
+Requer, assim, a declaração de nulidade das provas, com a conseq uente absolvição e r evogação da custódia cautelar.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL. PRISÃO PREVENTIVA. MANUTENÇÃO PELOS MESMOS MOTIVOS QUE ENSEJARAM A DECRETAÇÃO. AUSÊNCIA DE PREJUDICIALIDADE. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. NATUREZA E QUANTIDADE DA DROGA. RISCO DE REITERAÇÃO DELITIVA. REINCIDENTE. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Inicialmente, diante da prolação de sentença condenatória, em 15/2/2024, está prejudicada a análise da suposta ilegalidade na busca pessoal, tendo em vista que o Juízo de primeiro grau refutou, em cognição profunda e exauriente, as alegações da defesa, que só poderão ser desconstituídas por meio do recurso de apelação criminal.
+Ainda que assim não fosse, a hipótese está em consonância com a jurisprudência desta Corte Superior, como neste julgado em caso semelhante: AgRg no HC n. 784.837/SP, de minha relatoria, Sexta Turma, DJe 18/8/2023.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+No tocante aos motivos para a decretação da custódia, como na sentença condenatória foi mantida a custódia pelos mesmo s fundamentos aqui impugnados, esse novo título não acarreta a prejudicialidade do presente writ. É o que se depreende da leitura deste trecho: recomende-se o réu na prisão em que se encontra.
+O Magistrado decretou a prisão preventiva para a garantia da ordem pública porque o autuado é multirreincidente em crime doloso, ostentando diversas condenações com trânsito em julgado .. . Portanto, a ordem pública está ameaçada com a soltura do averiguado, pois não bastasse a gravidade do delito, por si só, trata-se de indivíduo que trazia consigo expressiva quantidade de substância entorpecente (25 papelotes de cocaína pesando 154,39 gramas) - fl. 39.
+O Tribunal a quo, por sua vez, denegou a ordem de habeas corpus, mantendo a prisão preventiva, ratificando que a decisão está bem fundamentada e se baseou em dados concretos da conduta e do perfil social do paciente (fl. 46).
+Nesse aspecto, melhor sorte não assiste ao paciente. No caso, há motivação idônea e suficiente a amparar a prisão preventiva, ante a natureza e quantidade do entorpecente apreendido - 143,58 g de cocaína (conforme a sentença), em porções separadas, prontas para venda - e ao risco concreto de reiteração delitiva, uma vez que se trata de reincidente e que possui outras condenações definitivas.
+Nesse sentido, confira-se a jurisprudência desta Corte Superior: AgRg no HC n. 781.094/GO, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 27/4/2023; e AgRg no HC n. 802.845/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023.
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada, e que é inaplicável medida cautelar alternativa quando as circunstâncias evide nciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Logo, não há falar em ilegalid a de na manutenção da prisão preventiva; ao contrário, os elementos sopesados justi ficam a manutenção da prisão do agravante para garantia da ordem pública.
+Ante o e xposto, nego provimento ao agravo regimental.
