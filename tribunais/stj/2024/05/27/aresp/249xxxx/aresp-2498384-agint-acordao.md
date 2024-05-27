@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA NÃO CONFIGURADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência desta Corte firmou-se no sentido de que o acolhimento de cálculos elaborados pela Contadoria Judicial, ainda que superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 487):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA E EXCESSO DE EXECUÇÃO NÃO CONFIGURADOS. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante reafirma que o acórdão a quo julgou matéria estranha aos limites do pedido em flagrante ofensa ao que dispõem os arts. 141e 492 do CPC/2015, merecendo reforma a decisão monocrática agravada. Sustenta, ainda, a impossibilidade de majoração de honorários advocatícios em decisões ilíquidas envolvendo a Fazenda Pública.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA NÃO CONFIGURADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência desta Corte firmou-se no sentido de que o acolhimento de cálculos elaborados pela Contadoria Judicial, ainda que superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Como assinalado, o acórdão a quo dirimiu a controvérsia em conformidade com a jurisprudência desta Corte no sentido de que o acolhimento de cálculos elaborados pela Contadoria Judicial, ainda que superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. CÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. ADEQUAÇÃO AOS PARÂMETROS DA SENTENÇA EXEQUENDA.
+1. O entendimento do acórdão recorrido contraria a pacífica orientação desta Corte, firmada no sentido de que "o acolhimento dos cálculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado" (AgRg no Ag 1088328/SP, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 22/6/2010, DJe 16/8/2010). Precedentes.
+2. Agravo interno não provido (AgInt no REsp 1.904.644/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 14/5/2021).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÁLCULO DO CONTADOR JUDICIAL. VALOR SUPERIOR AO POSTULADO PELO EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. Não configura julgamento ultra petita, a homologação de cálculos do contador judicial, quando estão de acordo com o título judicial em execução, ainda que superiores ao postulado pelo exequente. Precedentes.
+2. Agravo interno não provido (AgInt nos EDcl no AREsp 1.306.961/PA, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/2/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/1973 NÃO CARACTERIZADA. EXECUÇÃO DE SENTENÇA. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO CONFIGURAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC DE 1973. APLICAÇÃO DO ART. 85 DO CPC/2015. DESCABIMENTO. PRINCÍPIO DO TEMPUS REGIT ACTUM.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+2. O acórdão recorrido encontra-se em consonância com a orientação do STJ, de que o acolhimento de cálculos elaborados pela contadoria oficial, embora superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado.
+3. O STJ compreende que as normas sobre fixação de honorários advocatícios não são alcançadas pela lei nova quando a sentença que os determina como ato processual foi prolata sob a égide do Codex anterior. Aplicação do Princípio do tempus regit actum.
+4. No caso sub examine, a verba advocatícia foi fixada pela sentença sob a vigência do Código de Processo Civil/1973, motivo pelo qual não agiu corretamente o Colegiado local quando determinou a reforma da sentença para que a fixação dos honorários de advogado se dê nos termos do art. 85, § 4º, II, do CPC/2015.
+5. Recurso Especial parcialmente conhecido e, nesse segmento, provido em parte (REsp 1.731.936/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe 23/11/2018).
+Melhor sorte não socorre ao agravante no que tange à majoração da verba honorária determinada pela decisão ora combatida.
+Com efeito, a Corte Especial do STJ, no julgamento do AgInt nos EAREsp n. 762.075/MT, fixou entendimento de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, não se exigindo comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+No caso concreto, encontra-se evidenciada a presença dos mencionados requisitos, haja vista que o Juízo a quo julgou improcedentes os embargos à execução opostos pelo Município de Vitória de Santo Antão condenando-o ao pagamento de honorários advocatícios (fls. 26-27), sendo referida sentença confirmada em sede de apelação (fls. 58-65) e, nesta Corte, a decisão ora agravada negou provimento ao recurso especial, afigurando-se, desse modo, cabível a majoração da verba honorária.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
