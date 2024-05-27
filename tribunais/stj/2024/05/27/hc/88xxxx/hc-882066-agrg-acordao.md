@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/05/2024 a 27/05/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PARCELAMENTO IRREGULAR DO SOLO URBANO. DOSIMETRIA. SUBSTITUIÇÃO DA PENA. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte, em situações excepcionais, quando malferida alguma regra de direito.
+3. No caso, o Tribunal de origem bem fundamentou a não substituição da pena privativa de liberdade por restritivas de direitos, ante os maus antecedentes criminais do agravante.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pela defesa de Fabricio Boos contra decisão que denegou a ordem de habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando a ilegalidade na dosimetria, sob a premissa de que: "É ilegal deixar de substituir a pena de 1 ano de reclusão (crime de loteamento irregular) em razão da existência de antecedentes criminais antigos (condenações já atingidas pelo prazo depurador) e por delitos de natureza diversa. Afinal, se nem mesmo a reincidência impede a substituição da pena (art. 44, §3.º), com maior razão o acusado primário com antecedentes (remotos) também tem direito à substituição da pena."
+Também aduz que "o delito apurado neste processo foi praticado há mais de dez anos(praticado em 2012), o que minimiza a eficácia preventiva da pena, sendo absolutamente extemporâneo encarcerar(regime semiaberto) o agente por fato remotíssimo e de pequena gravidade."
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do colegiado, pugnando pelo seu total provimento.
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PARCELAMENTO IRREGULAR DO SOLO URBANO. DOSIMETRIA. SUBSTITUIÇÃO DA PENA. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte, em situações excepcionais, quando malferida alguma regra de direito.
+3. No caso, o Tribunal de origem bem fundamentou a não substituição da pena privativa de liberdade por restritivas de direitos, ante os maus antecedentes criminais do agravante.
+4. Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito do habeas corpus, sustentando a ilegalidade na dosimetria, sob a premissa de que: "É ilegal deixar de substituir a pena de 1 ano de reclusão (crime de loteamento irregular) em razão da existência de antecedentes criminais antigos (condenações já atingidas pelo prazo depurador) e por delitos de natureza diversa. Afinal, se nem mesmo a reincidência impede a substituição da pena (art. 44, §3.º), com maior razão o acusado primário com antecedentes (remotos) também tem direito à substituição da pena."
+Também aduz que "o delito apurado neste processo foi praticado há mais de dez anos(praticado em 2012), o que minimiza a eficácia preventiva da pena, sendo absolutamente extemporâneo encarcerar(regime semiaberto) o agente por fato remotíssimo e de pequena gravidade."
+Em relação ao pedido, o agravante não trouxe nenhum argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, quanto à substituição da pena privativa de liberdade, nos termos do art. 44, I, II e III, do Código Penal, as penas restritivas de direitos são autônomas e substituem as privativas de liberdade quando aplicada pena privativa de liberdade não superior a 4 anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; o réu não for reincidente em crime doloso; a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+No caso, o Tribunal de origem bem fundamentou a não substituição da pena privativa de liberdade por restritivas de direitos, ante os maus antecedentes criminais do paciente. Assim, considerando a fundamentação concreta levada a efeito pelo Tribunal de origem, inexiste constrangimento ilegal a ser sanado pela via do writ.
+Por fim, considerando que o Tribunal de origem não se pronunciou sobre a alegação de que "o delito apurado neste processo foi praticado há mais de dez anos(praticado em 2012)", esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
