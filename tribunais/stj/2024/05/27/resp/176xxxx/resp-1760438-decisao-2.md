@@ -1,0 +1,12 @@
+DECISÃO
+Em anális e, recurso especial interposto pela FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. FALTA DE INTERESSE DE AGIR. ADICIONAIS DE INSALUBRIDADE, PERICULOSIDADE, NOTURNO E DE HORAS EXTRAS. VERBA PAGA PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AFASTAMENTO DO TRABALHO POR INCAPACIDADE. TERÇO CONSTITUCIONAL DE FÉRIAS. AUSÊNCIAS PERMITIDAS. VERBAS PAGAS EM RAZÃO DA EXTINÇÃO DO CONTRATO DE TRABALHO POR DISPENSA INCENTIVADA. AVISO-PRÉVIO INDENIZADO. DÉCIMO TERCEIRO PROPORCIONAL.
+1. O valor recebido a título de férias indenizadas e licença-prêmio não gozadas, estão excluídos do salário-de-contribuição por expressa disposição legal. Assim, não comprovando a demandante que a autoridade competente exige contribuição previdenciária sobre tais verbas, verifica-se a falta de interesse de agir quanto ao ponto.
+2. Não incide contribuição previdenciária sobre o valor pago pelo empregador nos primeiros quinze dias de afastamento do trabalho por motivo de incapacidade, sobre o aviso prévio indenizado e sobre a verba paga em razão da extinção do contrato de trabalho por dispensa incentivada.
+3. É legítima a incidência de contribuição previdenciária sobre os valores recebidos sobre o adicional de periculosidade, de insalubridade, noturno e de horas extras e ausências permitidas, uma vez que possuem natureza salarial, bem como a incidência sobre o décimo-terceiro salário proporcional, pago por ocasião da rescisão do contrato de trabalho
+4. O terço constitucional de férias, por receber tratamento jurídico diverso no regime jurídico único e no RGPS, pois neste sistema é considerado para definição do valor da renda mensal dos benefícios previdenciários, na forma do art. 29, § 3º, da Lei nº 8.213/91, sofre incidência de contribuição previdenciária (fl. 361).
+Os embargos de declaração foram rejeitados.
+Nessa data, ao apreciar o recurso especial interposto pela parte adversa, determinei a devolução dos autos à origem, para que o processo permaneça suspenso até a publicação do acórdão referente aos embargos de declaraçã o opostos ao recurso extraordinário (Tema 985/STF) bem como até a publicação do acórdão representativo da controvérsia em recurso repetitivo (Tema 1.252/STJ), a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Isso posto, o recurso especial fazendário encontra-se prejudicado.
+Intimem-se.
+EMENTA
