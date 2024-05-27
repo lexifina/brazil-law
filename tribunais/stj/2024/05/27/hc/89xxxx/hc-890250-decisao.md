@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 180):
+APELAÇÃO - Roubo majorado (concurso de pessoas) - Réu condenado ao cumprimento da pena de 05 (cinco) anos e 04 (quatro) meses de reclusão, mais pagamento de 13 dias-multa, no valor unitário mínimo - Preliminar de nulidade do reconhecimento pessoal realizado em solo policial - Rejeição - Procedimento de reconhecimento realizado em solo policial que observou rigorosamente as formalidades do artigo 226 do CPP - Autoria do réu, outrossim, confirmada por outros elementos de prova - Mérito - Materialidade delitiva e autoria do réu comprovadas pela prova oral produzida em juízo, sob o crivo do contraditório judicial, corroborada pelos elementos informativos - Dosimetria da pena - Manutenção - Pena resultante da primeira e segunda fases fixada no mínimo legal - Incidência da causa de aumente relativa ao concurso de pessoas, no patamar de  - Regime inicial fechado mantido, tendo em vista a maior periculosidade do réu - Apelação não provida.
+O paciente foi condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial fechado, e pagamento de 13 dias-multa, por roubo majorado (art. 157, §2º, II, do Código Penal). Interposta apelação, foi desprovida.
+Em síntese, a defesa aduz a nulidade do reconhecimento pessoal feito pela vítima, "visto que foi induzida pelos policiais militares no momento do reconhecimento em solo policial" (fl. 5). Afirma que, além de seu relato e do "fato de o paciente ter sido localizado na posse do veículo, não há nenhum elemento capaz de sustentar sua participação na empreitada delitiva" (fl. 5).
+Entende que o concurso de pessoas durante a empreitada delitiva não justifica a imposição de regime inicial mais gravoso, o que desrespeitaria as Súmulas 440/STJ, 718/STF e 719/STF.
+Liminarmente, requer a suspensão do julgamento do AREsp interposto. No mérito, pede o reconhecimento da nulidade arguida e a consectária absolvição, ou a readequação do regime inicial.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento e concessão de ofício da ordem.
+Em consulta ao sistema processual desta Corte superior, verifica-se a interposição contemporânea do AREsp n. 2.556.010/SP, com idêntico pedido e contra o mesmo ato coator, o qual encontra-se em regular processamento, com vista ao Ministério Público Federal para manifestação.
+Nesse contexto, tem-se por inviável o conhecimento do writ, pois "não é cabível a impetração de habeas corpus concomitante com interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade" (AgRg no HC n. 549.368/SC, relator Ministro Joel Ilan Paciornik, Sexta Turma, julgado em 10/12/2019, DJe de 19/12/2019).
+Ness e sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 218-A DO CÓDIGO PENAL.
+INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO ORA IMPUGNADO. AUSÊNCIA DE SOLUÇÃO DEFINITIVA NA VIA RECURSAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. PLEITO ABSOLUTÓRIO. REVOLVIMENTO1= FÁTICO-PROBATÓRIO, INCABÍVEL NA VIA ELEITA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+RECURSO DESPROVIDO.
+1. A jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+2. Embora o art. 654, § 2.º, do Código de Processo Penal preveja a possibilidade de concessão de habeas corpus, de ofício, " t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/03/2022, DJe 22/03/2022).
+3. As instâncias ordinárias, soberanas na análise do conjunto probatório, entenderam devidamente demonstrada a prática do delito tipificado no art. 218-A do Código Penal - e assim o fizeram a partir da valoração do depoimento da vítima e de testemunhas -, razão pela qual, para acolher o pleito absolutório seria necessário revolvimento fático-probatório, incabível na via eleita.
+4. Agravo regimental desprovido. (AgRg no HC n. 860.872/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
