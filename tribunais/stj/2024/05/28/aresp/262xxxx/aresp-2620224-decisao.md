@@ -1,0 +1,25 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, que deu provimento ao apelo ministerial para condenar a recorrente à pena de 3 anos e 4 meses de reclusão, em regime aberto, substituída a reprimenda corporal por restritiva de direito, pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+A defesa aponta a violação dos arts. 240, § 2º e 244 do CPP, alegando, em síntese, a nulidade da condenação tendo em conta a ilegalidade da prova produzida em busca pessoal oriunda da fuga da recorrente ao avistar a guarnição policial.
+Contrarrazões às e-STJ fls. 334/341.
+Manifestação do Ministério Público Federal pelo não provimento do recuso especial às e-STJ fls. 394/400.
+É o relatório. Decido.
+A irresignação não prospera.
+A questão atinente à ilegalidade da busca pessoal oriunda da fuga da recorrente ao avistar a guarnição policial foi assim analisada pelo Tribunal de origem:
+No caso, a abordagem e a busca pessoal não ocorreram aleatoriamente, nem derivaram de mero nervosismo ou de tirocínio policial baseado em impressões não verificáveis, mas em razão da conduta da apelada que buscou esquivar-se da polícia quando percebeu a sua aproximação em local já afamado pelo alto índice de tráfico de entorpecentes.
+ ..
+Com efeito, afirmar que os policiais militares não teriam respaldo legal para realizar averiguações como a abordagem inicial de equivaleria a dizer que qualquer revista Jéssica pessoal ou veicular, à míngua de mandado judicial, seria contrária à ordem jurídica, não apenas ignorando o art. 240, § 2º, do Código de Processo Penal, mas também restringindo sobremaneira o alcance do art.144 da Constituição da República, que estabelece, em seu , inciso V e § 5º, o seguinte:
+ ..
+Assim, entendo que a ocorreu diante da fundada suspeita, haja vista o comportamento apresentado pela acusada  tentativa de fuga ao avistar a guarnição , suficiente para justificar a abordagem policial que, por sua própria natureza, independe de maior rigor procedimental.
+Nesse contexto, não evidencio qualquer ilegalidade do ato policial, de modo que reconheço a validade da busca realizada e consequente apreensão de entorpecentes. (e-STJ fls. 298/299)
+Como bem entendeu o TJMT, não há mesmo nenhuma ilegalidade na abordagem realizada, isso porque esta Corte, em recente julgado, decidiu que não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso (ut, AgRg no HC n. 822.922/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2023).
+Vê-se no caso concreto que a abordagem não se reveste de nenhuma ilegalidade, considerando a atitude suspeita da recorrente, que estava em local conhecido pela prática do tráfico de drogas e empreendeu fuga ao avistar a polícia. Nessa linha, confira-se o recentíssimo julgado desta Quinta Turma:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. NULIDADE DA BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 240, § 2º, do Código de Processo Penal -CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de drogas, objetos ou papéis que constituam corpo de delito.
+2. "O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional.
+4. Fugir ao avistar viatura, pulando muros, gesticular como quem segura algo na cintura e reagir de modo próprio e conhecido pela ciência aplicada à atividade policial, objetivamente, justifica a busca pessoal em via pública" (RHC 229514 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 2/10/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20/10/2023 PUBLIC 23/10/2023).
+3. A abordagem dos policiais somente ocorreu em razão de atitude suspeita do paciente, que foi confirmada, uma vez que foram encontradas em seu poder porções de cocaína e maconha, o que caracteriza exercício regular da atividade investigativa promovida por esta autoridade e justifica a abordagem 4. Nesse contexto, a partir da leitura dos autos, verifica-se que foi constatada a existência de indícios prévios da prática da traficância, a autorizar a atuação policial, não havendo falar em nulidade da busca pessoal.
+5. Agravo regimental desprovido. (AgRg no HC n. 896.460/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 24/5/2024.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
