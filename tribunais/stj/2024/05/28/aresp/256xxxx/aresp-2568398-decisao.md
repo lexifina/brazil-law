@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AYMORÉ CRÉ DITO, FINANCIAMENTO E INVESTIMENTO S/A (AYMORÉ) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, AYMORÉ alegou a violação do art. 485, III, e § 6º do CPC, ao sustentar que as instâncias ordinárias incorreram em error in procedendo, pois a extinção do feito se operou por suposto abandono da causa, sem ter havido a intimação pessoal de AYMORÉ para promover o impulso no feito, nem tampouco o abandono da causa por mais de trinta dias.
+Trata-se, na origem, de ação de busca e apreensão ajuizada por AYMORÉ contra CRISTINANO FRANCISCO MENDES (CRISTIANO), julgada extinta pelo MM. Juiz a quo, sem apreciação do mérito, com fulcro no art. 485, inciso IV, do CPC.
+O Tribunal de Justiça do Distrito Federal e Territórios manteve a r. sentença, aduzindo que a ausência de manifestação da AYMORÉ quanto à conversão do feito em ação de execução acarreta a extinção do feito, ante a ausência de pressupostos de desenvolvimento válido do processo. Confira-se:
+Foi deferida a busca liminar do bem, mas o veículo não foi encontrado para apreensão. Tendo sido constatado que a busca não era viável (ID 50980417), cabia ao autor promover a conversão que a lei lhe faculta, o que não ocorreu, mesmo tendo o juízo lhe concedido o prazo 5 dias para se manifestar nos autos (ID 50980421), ou seja, requerer a diligência cabível, que consistia no pedido de conversão em execução, o qual não pode ser concedida de ofício.
+A falta de efetivação da apreensão inviabiliza o procedimento do Decreto-Lei n.911/1969 e a falta de pedido de conversão do feito em execução, com a subsequente citação, impede a constituição regular do processo em relação ao rito da execução, que exige a observância do princípio da inércia.
+Neste quadro, diante da inviabilidade da busca e da ausência de pedido de conversão, o provimento jurisdicional pleiteado é inadequado ao rito proposto, de modo que falece ao autor o interesse de agir, o que autoriza a extinção do processo com fundamento no art. 485, inciso IV do CPC.
+Ocorre que, nas razões de recurso especial, AYMORÉ tratou da impossibilidade de aplicação da pena de abandono da causa para extinção da ação, fundamento esse dissociado dos motivos ensejadores da extinção do feito pelas instâncias de origem.
+Com efeito, o dispositivo de lei alegadamente violado (art. 485, III, e § 6º do CPC) refere-se ao abandono da causa, enquanto o acórdão recorrido enquadrou o caso na hipótese do inciso IV do art. 485 do CPC (ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11 do Código de Processo Civil, por não terem sido fixados honorários sucumbenciais em primeiro grau, eis que não triangularizada a relação processual.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO COM FULCRO NO ART. 485, IV DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
