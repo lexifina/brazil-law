@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Maria Aparecida Marques Dantas Santos com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fls. 286-287):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C RESTITUIÇÃO DE PARCELAS DEBITADAS INDEVIDAMENTE. EMPRÉSTIMO CONSIGNADO. PERÍCIA GRAFOTÉCNICA QUE CONCLUI PELA INAUTENCIDADE DA ASSINATURA APOSTA NO CONTRATO. FRAUDE. DESCONTO. INDEVIDO.
+ANULAÇÃO DO CONTRATO. DANO MORAL NÃO CONFIGURADO. A PARTE AUTORA TEVE VALOR DO EMPRÉSTIMO CONTESTADO CREDITADO EM SUA CONTA BANCÁRIA E NÃO DEVOLVDO AO REU OU CONSIGNADO JUDICALMENTE. REFORMA DA SENTENÇA PARA DETERMINAR A EXCLUSÃO DA CONDENAÇÃO DA INSTITUIÇÃO BANCÁRIA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 332-338).
+Nas razões do recurso especial (e-STJ, fls. 340-353), a insurgente apontou, além de divergência jurisprudencial, violação aos arts. 14, § 3º, I e II, do Código de Defesa do Consumidor e 186 e 927 do Código Civil.
+Sustentou, em síntese, que o desconto indevido efetuado em seu benefício previdenciário, decorrente da celebração de negócio jurídico fraudulento configura danos morais passíveis de indenização.
+Defendeu a observância à responsabilidade civil objetiva da instituição financeira recorrida, ponderando que o laudo técnico comprovou que houve falsificação da assinatura aposta no contrato.
+Sem contrarrazões (e-STJ, fl. 389).
+O recurso especial não foi admitido pela Corte originária, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal de origem, com base nas particularidades fáticas da causa, embora tenha ratificado a ocorrência da fraude contratual, afastou a indenização por dano moral fixada na sentença, concluindo pela ausência de demonstração de constrangimento a ensejar a reparação extrapatrimonial à agravante, declinando a seguinte fundamentação (e-STJ, fls. 295-302):
+Constatada a fraude, inexiste contrato válido entre as partes, impondo-se a manutenção da sentença no tocante à declaração de inexistência do contrato.
+Quanto aos danos morais, embora em casos tais se admita a incidência da indenização, observo que, neste, em particular, a regra não deve incidir, porque a parte demandante foi beneficiada com o recebimento/depósito de valores objetos do contrato em sua conta corrente.
+No caso vertente, a própria parte autora demonstra nos documentos acostados à inicial que houve depósito da quantia de R$ 360,86 (fls. 20 do processo materializado) e que este valor não foi devolvida ao réu ou consignado incidentalmente nos autos.
+Sendo assim, não visualizo constrangimento a ensejar a condenação do banco em indenização por dano extrapatrimonial.
+Por fim, observando que houve o recebimento do montante supramencionado, impõe-se a compensação de valores, em relação ao quantum a ser devolvido à parte autora, para se evitar o enriquecimento ilícito desta.
+ ..
+Ante o exposto, conheço do recurso para LHE DAR PARCIAL PROVIMENTO, reformando a sentença para excluir a condenação do banco demandado, ora apelante, ao pagamento de indenização por danos morais e para determinar a compensação dos valores que foram recebidos pelo autor, em relação ao quantum que deve ser devolvido em razão dos descontos indevidos, tudo devidamente atualizado.
+No tocante ao tema, a jurisprudência desta Corte possui orientação de que a fraude bancária, ensejadora da contratação de empréstimo, não pode ser considerada, por si só, suficiente para a caracterização do dano moral, sendo necessária a existência de circunstâncias agravantes que possam configurar a lesão extrapatrimonial.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. FRAUDE BANCÁRIA. CONTRATAÇÃO DE EMPRÉSTIMOS. ALEGAÇÃO DE OFENSA À SÚMULA N. 479 DO STJ. SÚMULA N. 518 DO STJ. INCIDÊNCIA. DESCONTO INDEVIDO EM CONTA BANCÁRIA. NÃO OCORRÊNCIA. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO DO DANO SOFRIDO. PRESSUPOSTOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não é a via adequada para apreciar ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal (Súmula n. 518 do STJ).
+2. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, Quarta Turma).
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+5. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC), desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.409.085/SP, Rel. Min. João Otávio de Noronha, Quarta Turma, julgado em 11/12/2023, DJe 15/12/2023)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE BANCÁRIA. DANO MORAL. DEMONSTRAÇÃO. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.371.787/SP, Rel. Min. Antônio Carlos Ferreira, Quarta Turma, julgado em 27/11/2023, DJe 1º/12/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMULADA. DANOS MORAIS. CONTRATO DE EMPRÉSTIMO. INEXISTÊNCIA. DANO EXTRAPATRIMONIAL. DEMONSTRAÇÃO. AUSÊNCIA. ORIGEM. REVERSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes.
+2. Na hipótese, rever o entendimento firmado pelo tribunal de origem acerca da ausência de dano moral indenizável pela inexistência de contrato de empréstimo bancário, demandaria a incursão nos aspectos fático-probatórios dos autos, procedimento inadmissível em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.149.415/MG, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/5/2023, DJe 1º/6/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS CUMULADA COM DANOS MORAIS. DESCONTO INDEVIDO. BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A caracterização do dano moral exige a repercussão na esfera dos direitos da personalidade.
+2. Nessa perspectiva, a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SAQUES INDEVIDOS EM CONTA CORRENTE. DANOS MORAIS. PREJUÍZO À HONRA NÃO DEMONSTRADO. SÚMULA 7/STJ. MULTA PREVISTA NO ARTIGO 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Consoante entendimento desta Corte, o desconto indevido em conta corrente, posteriormente ressarcido ao correntista, não gera, por si só, dano moral, sendo necessária a demonstração, no caso concreto, do dano eventualmente sofrido.
+3. O Tribunal de origem, examinando as circunstâncias da causa, concluiu pela inexistência de dano moral, observando que, no caso, não houve configuração de situação excepcional que extrapolasse os dissabores cotidianos.
+4. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula 98/STJ.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, apenas para afastar a multa prevista no artigo 1.026, § 2º, do CPC/2015.
+(AgInt no AREsp n. 2.038.795/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 10/6/2022.)
+Diante desse contexto, modificar as conclusões obtidas pelo Tribunal de origem (no sentido da ausência de elementos, no caso concreto, para a configuração da violação aos direitos da personalidade da recorrente a ensejar a indenização por danos morais) exige o reexame de matéria fático-probatória dos autos, o que é vedado, no âmbito do recurso especial, conforme a Súmula 7 do Superior Tribunal de Justiça.
+Por fim, cabe registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EMPRÉSTIMO CONSIGNADO. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. FRAUDE. DANO MORAL. NÃO CONFIGURADO. PARTICULARIDADES DA CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
