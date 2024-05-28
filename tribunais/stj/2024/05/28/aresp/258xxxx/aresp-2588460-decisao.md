@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por GUILHERME DA SILVA REIS e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+COMPETÊNCIA RECURSAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - DESCARGA ELÉTRICA (ELETROPLESSÃO) - CONCESSIONÁRIA - DEFICIÊNCIA NA PRESTAÇÃO DO SERVIÇO PÚBLICO - RESPONSABILIDADE CIVIL EXTRACONTRATUAL - COMPETÊNCIA DA SEÇÃO DE DIREITO PÚBLICO DESTA CORTE (1ª A 13ª CÂMARAS) - RESOLUÇÃO N. 623/2013, ARTIGO 5º, III.15 - RECURSO NÃO CONHECIDO - REDISTRIBUIÇÃO DETERMINADA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 474 do Código de Processo Civil, sustentando a nulidade da prova pericial, porquanto o perito não teria ido ao local do acidente, trazendo a seguinte argumentação:
+O texto determina que o perito deve dar ciência da data e do local onde se realizaria o exame técnico objeto da perícia.
+OCORRE QUE O PERITO NÃO REALIZOU O EXAME NO LOCAL DO ACIDENTE.
+Na r. decisão de fls. 552/553, a Exma. Magistrada de piso determinou realização de prova pericial de engenharia para verificar o grau de inclinação dos postes de energia e a distância entre a rede elétrica e o imóvel onde se deu o acidente.
+Ou seja, a prova pericial a ser realizada implicaria em diversas medições.
+Em vista da complexidade, os recorrentes indicaram dois assistentes técnicos (fls. 662/663).
+Ocorre que, como dito, o perito judicial não se dirigiu ao local e REALIZOU A PERÍCIA (INCLUSIVE AS MEDIÇÕES) POR MEIO DAS FOTOGRAFIAS COLACIONADAS AOS AUTOS (fls. 717/773).
+Os recorrentes, em manifestação (fls. 782/793), apontaram a nulidade da prova:  quer porque não era possível realizar medições por fotos1 (que sequer foram produzidas por profissionais);  quer porque essa perícia indireta impediu a participação dos assistentes técnicos.
+Apesar de a perícia tratar de matéria exata (engenharia), o perito não foi capaz de apontar nenhuma medida com exatidão, fazendo uso de expressões "em torno de", "quase 2 metros", "uns 30 cm a mais".
+Excelências, não é razoável admitir prova de engenharia, cuja finalidade era aferir grau de inclinação dos postes e a distância entre o imóvel e a rede elétrica, em que não se apontou as distâncias e grandezas de forma precisa2.
+"Em torno de 05 metros" não é uma medição aceitável em laudo pericial técnico. Tem 05 metros, tem 4,90m, tem 5,10m, mais, menos  Dessarte, por conta:  da ausência de realização da prova pericial direta;  da imprecisão das medidas apontadas no laudo; e do cerceamento de defesa pelo impedimento da participação dos assistentes técnicos indicados na realização dessa prova;
+Reconhecer a nulidade da prova e dos atos posteriores, remetendo os autos à origem é medida de rigor (fls. 1205-1207).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
