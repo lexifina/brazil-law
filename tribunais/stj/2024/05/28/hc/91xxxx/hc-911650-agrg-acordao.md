@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental, não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por REGINALDO MARQUES BONFIM contra decisão de minha lavra, pela qual não conheci do habeas corpus.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, pela prática do delito previsto no art. 33, caput e § 4º, c/c o art. 40, V, ambos da Lei n. 11.343/06, ao cumprimento da pena privativa de liberdade de 5 anos de reclusão, a ser cumprida em regime inicialmente semiaberto, e 500 dias-multa.
+Ambas as partes apelaram, e o Tribunal a quo negou provimento aos recursos.
+No mandamus, o impetrante sustenta constrangimento ilegal na manutenção da fração de diminuição pelo tráfico privilegiado em patamar inferior ao máximo de 2/3. Argumenta que a quantidade de droga apreendida não é fundamento idôneo a afastar a aplicação do redutor na fração máxima.
+Ao final, pede a aplicação do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima de 2/3, com a fixação de regime prisional inicialmente mais brando e a substituição da pena privativa de liberdade por restritiva de direitos.
+Neste agravo regimental, a defesa apenas transcreve o inteiro teor da decisão agravada e sustenta que a quantidade e a natureza das drogas já haviam sido utilizadas para exasperar a pena-base, de forma que a utilização do mesmo fundamento para modular o redutor da pena significa indevido bis in idem.
+Ao final, requer o provimento do recurso pelo Colegiado desta Corte.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental, não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental não merece conhecimento.
+Eis o teor da decisão agravada (e-STJ fls. 696/699):
+Busca-se, no caso, o redimensionamento da pena, com a aplicação do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima.
+Analisando a dosimetria realizada pelas instâncias de origem, verifica-se que o redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006 foi aplicado na fração de 1/2, aos seguintes fundamentos:
+Consta da denúncia que, no dia 19 de maio de 2021, por volta das 13h40min, na Rodovia Raposo Tavares, KM 418, na Comarca e Município de Palmital/SP, REGINALDO MARQUES BONFIM, transportava, para posterior entrega a consumo de terceiros, 301 invólucros contendo cocaína, com peso aproximado de 18,45kg e massa líquida de 16,98kg e 200 invólucros contendo crack, com peso aproximado de 15,33kg e massa líquida de 14,94kg, sem autorização e em desacordo com determinação legal ou regulamentar.
+ ..
+A magistrada entendeu presente a causa de diminuição de pena, prevista no §4º do artigo 33, da referida Lei, em face da primariedade do acusado, bons antecedentes e inexistência de indício que se dedique a atividade criminosa ou integre organização criminosa, a pena foi reduzida em 1/6 (um sexto), resultando finalmente em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor unitário, mínimo legal (acórdão - e-STJ fls. 503/511).
+Quanto ao pleito de revisão da dosimetria da pena, pelo aumento da fração de redução da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, deve-se ressaltar que cabe às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios aplicados pelas instâncias ordinárias, visando evitar eventuais arbitrariedades, por inobservância dos parâmetros legais ou do entendimento jurisprudencial firmado. Diante disso, salvo excepcional flagrante ilegalidade, o reexame da presença das circunstâncias concretas que justificaram a individualização da pena evidenciam-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento de matéria fático-probatória.
+Em relação ao quantum de diminuição aplicado pela incidência da referida redutora, a jurisprudência desta Corte firmou-se no sentido de que os parâmetros devem observar o critério da discricionariedade juridicamente vinculada, a qual, por sua vez, está submetida os princípios da proporcionalidade, da razoabilidade, da suficiência da reprovação e da prevenção ao crime.
+Por tais razões, deve-se analisar os elementos que indiquem eventual gravidade concreta do delito.
+No caso, a leitura do trecho destacado evidencia que a fração redutora foi aplicada em razão da gravidade concreta, tendo em vista a considerável quantidade de drogas apreendidas, a diversidade e a natureza especialmente deletéria das drogas, qual seja, 301 invólucros contendo cocaína, com peso aproximado de 18,45kg e massa líquida de 16,98kg e 200 invólucros contendo crack, com peso aproximado de 15,33kg e massa líquida de 14,94kg. Tais elementos são suficientes para justificar a modulação do redutor na fração de 1/6, como feito pela instância de origem.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AGRAVO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. FRAÇÃO DO REDUTOR. PATAMAR DIVERSO DE 2/3. PONDERAÇÃO DE ACORDO COM AS PECULIARIDADES DO CASO. REGIME SEMIABERTO MANTIDO. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL, MAS LHE NEGAR PROVIMENTO.
+1. Havendo impugnação específica aos fundamentos da decisão agravada, deve ser conhecido o recurso.
+2. É firme o entendimento desta Corte de que, uma vez reunidos os requisitos para a aplicação do redutor do art. 33, § 4º, da Lei 11.343/06, deve o magistrado aplicar o quantum, fundamentadamente, de acordo com as peculiaridades do caso.
+3. Tratando-se de réu primário, condenado a pena reclusiva superior a 4 anos e inferior a 8 anos, cuja pena-base foi fixada no mínimo legal, o regime inicial semiaberto mostra-se o mais adequado, a teor do art. 33, § 2º, b, do CP.
+4. Agravo regimental provido para conhecer do agravo em recurso especial, mas lhe negar provimento (AgRg nos EDcl no AREsp 1470686/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 04/02/2020, DJe 10/02/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/06. FRAÇÃO REDUTORA DEVIDAMENTE JUSTIFICADA. RECRUDESCIMENTO DO REGIME PRISIONAL E NEGATIVA DE SUBSTITUIÇÃO DA PENA CORPÓREA. QUANTIDADE E DIVERSIDADE DOS ENTORPECENTES APREENDIDOS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O percentual escolhido em face da incidência da causa de diminuição prevista no art. 33, §4º, da Lei de Drogas não se mostra desproporcional ou desarrazoado, porquanto fundamentado em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+2. No que tange ao regime de cumprimento de pena, a jurisprudência deste Superior Tribunal de Justiça é no sentido de que a quantidade e qualidade da droga apreendida podem ser utilizadas como fundamento para a determinação da fração de redução da pena com base no art. 33, § 4.º, da Lei n. 11.343/2006, a fixação do regime mais gravoso e a vedação à substituição da sanção privativa de liberdade por restritiva de direitos.
+3. No presente caso, em atenção ao art. 33, § 2º, alínea "c", do CP, c/c o art. 42 da Lei n. 11.343/2006, embora estabelecida a pena definitiva da acusada em 2 anos e 6 meses de reclusão, a natureza e a quantidade dos entorpecentes apreendidos, utilizadas para modular a redutora do tráfico privilegiado, justificam o afastamento da substituição da pena e a imposição de regime prisional mais gravoso, no caso, o semiaberto.
+4. Agravo regimental desprovido (AgRg no HC 539.085/SP, de minha relatoria, Quinta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. QUANTIDADE DA DROGA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Tanto a Quinta quanto a Sexta Turma deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+2. A Corte de origem entendeu devida a incidência da fração de 1/6 e salientou, para tanto, a gravidade concreta do delito cometido, haja vista a apreensão de grande quantidade de droga - qual seja, 2 kg de maconha. Assim, havendo sido concretamente fundamentada a aplicação da minorante em patamar diverso do máximo legal, deve ser mantido inalterado o quantum de redução.
+3. Agravo regimental não provido (AgRg no HC 490.027/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 13/08/2019, DJe 27/08/2019).
+Como visto, os elementos citados pelas instâncias de origem são idôneos a justificar a modulação do redutor, de forma que devem ser mantidos os fundamentos e os parâmetros da dosimetria realizada pelo Tribunal a quo.
+Uma vez mantida a pena aplicada na origem, é inviável a fixação de regime prisional inicialmente mais brando e a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 33, § 2º, b e 44 do Código Penal.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ,não conheço do presente habeas corpus.
+Neste recurso de agravo regimental, porém, não foram apresentados argumentos novos, capazes de infirmar os fundamentos da decisão agravada, uma vez que o agravante apenas afirma existir bis in idem na utilização do mesmo fundamento para exasperar a pena-base e para modular o redutor de pena, na terceira fase da pena. Entretanto, a pena-base sequer foi exasperada pelas instâncias de origem, e a considerável quantidade de drogas apreendidas é fundamento idôneo para afastar a aplicação do redutor de pena em fração diversa da máxima, conforme devidamente demonstrado na decisão agravada.
+E, no caso, o agravante deixou de impugnar os fundamentos da decisão agravada, a atrair o disposto no enunciado n. 182 da Súmula desta Corte.
+Nesse sentido, seguem os precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS NÃO INFIRMADOS PELO AGRAVANTE. INCIDÊNCIA DO ENUNCIADO N. 182 DA SÚMULA DESSA CORTE SUPERIOR. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AGRAVO RE GIMENTAL NÃO CONHECIDO.
+- Não foram trazidos elementos aptos a afastar os argumentos da decisão agravada, os quais estavam em harmonia com a jurisprudência pacificada nessa Corte Superior acerca dos temas.
+- Tais fundamentos não foram devidamente impugnados pelo presente agravo regimental, a atrair ao caso o disposto no enunciado n. 182 da Súmula dessa Corte Superior.
+- O julgamento monocrático do habeas corpus não representa ofensa ao princípio da colegialidade, nos termos previstos no art. 34, XX, do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+- Agravo regimental não conhecido (AgRg no AgRg no HC 436.568/SP, de minha relatoria, julgado em 07/02/2019, DJe 14/02/2019).
+AGRAVO REGIMENTAL. PROCESSO PENAL. DENUNCIAÇÃO CALUNIOSA. TESE DE INCOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE INÉPCIA. AGRAVO NÃO CONHECIDO PELA APLICAÇÃO DA SÚMULA N. 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA.
+1. As teses referentes à incompetência do juízo não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Quanto à inépcia, o agravante deixou de impugnar fundamentos da decisão agravada, atraindo, por analogia, a aplicação do óbice previsto na Súmula n. 182 desta Corte. Precedentes.
+3. "Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n. 182 da Súmula desta Corte)" (AgRg no HC n. 376.793/SP, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+4. Agravo regimental conhecido em parte e, nessa extensão, desprovido (AgInt no RHC 51.853/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 13/09/2018).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
