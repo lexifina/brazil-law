@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JESSICA NAIARA ALVES LIMA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP proferido no HC n. 2228090-97.2023.8.26.0000.
+Consta dos autos que a paciente foi condenada a cumprir 4 anos, 2 meses e 12 dias de reclusão, em regime fechado, como incursa no art. 35 da Lei n. 11.343/06 (associação para o tráfico). O mandado de prisão expedido ainda não foi cumprido.
+O mandamus impetrado na origem foi denegado por acórdão constante das fls. 247/250.
+Na presente impetração, a defesa aduz que a prisão domiciliar é um direito da mãe com filho menor de 12 anos.
+Busca, em liminar e no mérito, a prisão domiciliar e, subsidiariamente, a expedição da guia de recolhimento independentemente do cumprimento do mandado de prisão.
+Medida liminar indeferida conforme decisão de fls. 274/275.
+Parecer ministerial de fls. 282/284 pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+No caso em debate, não há como se examinar o alegado direito da paciente à prisão domiciliar, pois a referida questão não foi objeto de análise pela Corte de origem no acórdão impugnado
+Na esteira do decidido pelo TJSP, no caso de expedição de mandado de prisão, superveniente ao trânsito em julgado da condenação, para o inicial cumprimento da pena, devem os pleitos subsequentes ser submetidos ao Juízo da Execução, competente para avaliar o cabimento da medida para preservar a saúde da Paciente e para assegurar o cuidado de seus filhos menores, o que não ocorreu na espécie.
+Nesse contexto, impedida esta Corte Superior de se manifestar originariamente sobre o pleito, a fim de não atuar em indevida supressão de instância.
+Ilustrativamente:
+HABEAS CORPUS. PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. TESE DE FALTA DE PROVAS PARA A CONDENAÇÃO. VIA IMPRÓPRIA. PLEITO DE PRISÃO DOMICILIAR SEM OBJETO. PACIENTE QUE RESPONDE EM LIBERDADE A AÇÃO PENAL SEM TRÂNSITO EM JULGADO. REDUTOR ESPECIAL DE PENA REFERENTE AO TRÁFICO PRIVILEGIADO. QUANTIDADE DE DROGA APREENDIDA. DEDICAÇÃO DA PACIENTE A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME PRISIONAL FIXADO DE FORMA MAIS GRAVOSA SEM MOTIVAÇÃO CONCRETA. ADEQUAÇÃO DO REGIME INICIAL SEMIABERTO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA.
+1. Paciente condenada como incursa no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa, em regime inicial fechado, porque encontrados em sua residência 1.708,43g (mil setecentos e oito gramas e quarenta e três decigramas) de maconha, divididos em 363 (trezentas e sessenta e três porções); 21,38g (vinte e um gramas e trinta e oito decigramas) de crack, divididos em 114 (cento e quatorze) porções e 61,29g (sessenta e um gramas e vinte e nove decigramas) de cocaína, divididos em 100 (cem) porções, para comercialização com o corréu, com quem mantinha relacionamento amoroso.
+2. O exame da tese de falta de provas para sustentar a condenação demanda, inevitavelmente, profundo reexame do material cognitivo produzido nos autos, o que, como é sabido, não se coaduna com a via estreita do writ, sobretudo se a instância ordinária, soberana na análise fático-probatória, restou convicta sobre a existência do crime e sua respectiva autoria.
+3. Não há, no acórdão impugnado, determinação da expedição de mandado de prisão em desfavor da Paciente, que respondeu à ação penal em liberdade. Assim, sem objeto a impetração no tocante aos pedidos de prisão domiciliar nos termos da Recomendação n. 62/CNJ e do art. 318 do Código de Processo Penal. No caso eventual de expedição de mandado de prisão, superveniente ao trânsito em julgado da condenação, para o inicial cumprimento da pena, devem os pedidos ser submetidos ao Juízo da Execução, competente para avaliar o cabimento da medida para preservar a saúde da Paciente e para assegurar o cuidado de seus filhos menores, não cabendo a esta Corte Superior se manifestar originariamente sobre o pleito, sob pena de supressão de instâncias.
+4. O Tribunal de origem afastou a minorante do tráfico privilegiado com fundamentação idônea, pois reconheceu a dedicação à atividade criminosa, destacando, dentre outros aspectos, que a Paciente aderiu e se beneficiou da ação criminosa de seu companheiro, preservando dinheiro e elevada quantidade de entorpecente, em circunstâncias que não se coadunam com o tráfico eventual de drogas.
+5. Para se desconstituir o entendimento firmado pelas instâncias ordinárias acerca da dedicação da Paciente à atividade criminosa e, por conseguinte, concluir pelo preenchimento dos requisitos previstos no § 4.º do art. 33 da Lei de Drogas, seria necessário proceder ao revolvimento do conjunto fático-probatório dos autos, o que não se mostra cabível na via estreita do habeas corpus.
+Precedentes.
+6. No entanto, a Paciente faz jus ao regime intermediário de cumprimento de pena, pois é tecnicamente primária, a pena-base foi fixada no patamar mínimo legal, sendo-lhe favorável a análise das circunstâncias judiciais previstas no art. 59 do Código Penal, e a reprimenda definitiva foi estabelecida em 5 (cinco) anos de reclusão. Além disso, a quantidade de droga apreendida não pode ser considerada demasiada a justificar o regime fechado.
+7. Ordem de habeas corpus parcialmente concedida, a fim de estabelecer o regime semiaberto para o início do cumprimento da reprimenda imposta à Paciente.
+(HC n. 605.747/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/8/2021, DJe de 18/8/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
