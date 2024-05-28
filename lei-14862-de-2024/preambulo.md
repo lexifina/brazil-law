@@ -1,0 +1,2 @@
+Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para permitir que os professores da educação básica pública utilizem os veículos de transporte escolar dos Estados, do Distrito Federal e dos Municípios, nos termos que especifica; e revoga a Lei nº 10.709, de 31 de julho de 2003.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
