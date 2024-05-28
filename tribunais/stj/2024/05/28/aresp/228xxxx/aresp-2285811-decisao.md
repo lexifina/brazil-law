@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7/STJ.
+O agravante foi condenado a 5 anos e 4 meses de reclusão, em regime fechado, e 13 dias-multa, pela prática do delito previsto no art. 157, § 2º, I e II, do CP.
+Nas razões do especial, interposto com fundamento na alínea a do permissivo constitucional, apontou a defesa violação dos arts. 489, § 1º, IV, do CPC, 3º e 619 do CPP e 29, § 1º, do CP, ao argumento de que a Corte de origem incorreu em negativa de prestação jurisdicional, porquanto não analisou tese relevante posta pela defesa, consistente na existência de causa de diminuição da pena referente à participação de menor importância, a qual, por ser de ordem pública, poderia ser analisada, inclusive, de ofício, requerendo, ao final, a anulação do acórdão que julgou os embargos, com prolação de outro sanatório.
+Apresentada as contrarrazões, o Ministério Público Federal manifestou-se pelo desprovimento deste agravo.
+O agravo é tempestivo e impugna o fundamento da decisão agravada. Passa-se, assim, ao exame do recurso especial.
+Para melhor delimitação da controvérsia, colaciono os fundamentos invocados pela Corte de origem para rejeitar os embargos declaratórios (fls. 540-541):
+ ..  A Turma Julgadora desta 7a Câmara Criminal, a meu viso, deliberou de forma fundamentada, à unanimidade, pela manutenção da condenação do embargante, esclarecendo, inclusive, a relevância de sua participação na empreitada criminosa.
+Veja-se:
+(..) Desse modo, pelo cotejo dos elementos coligidos, entendo ter sido suficientemente demonstrado que Hendrix em unidade de desígnios e divisão de tarefas praticou o delito em questão juntamente com os coautores. A meu ver a participação de Hendrix foi imprescindível para a concretização da ação, até porque conduziu o grupo até o local do delito e, após a prática criminosa, garantiu a fuga dos agentes na posse das "res furtivae" ( .. ).
+Nos moldes do artigo 619 do Código de Processo Penal, os embargos declaratórios deverão ser manejados apenas quando no aresto ou decisão houver ambiguidade, obscuridade, contradição ou omissão a ser sanada.
+In casu, pelo que verifico, pretende o embargante inovar, em relação à aplicação da citada minorante, trazendo a julgamento matéria que sequer foi objeto de impugnação em sede de razões recursais (fs. 375/377), o que é inadmissível pela via estreita dos embargos. ..
+Ao contrário do afirmado pela defesa, inexistiu negativa de prestação jurisdicional, haja vista as controvérsias postas nas razões da apelação - fls. 482-486 - terem sido dirimidas, sendo descabida a inovação de teses em embargos de declaração, mormente porque o Tribunal de origem, mediante exame dos fatos e provas, entendeu como relevante a participação do réu, ora recorrente, uma vez que foi o motorista do veículo que conduziu os corréus ao local do delito e, após a consumação deste, as suas fugas, não havendo falar-se em participação de menor importância, ainda mais diante da indevida inovação recursal.
+"No tocante à alegação de que não foi realizado o exame das provas no segundo grau de jurisdição, em razão da deficiência do recurso apelativo, melhor sorte não socorre ao agravante. Isso porque, o referido pedido não foi objeto do recurso especial interposto, constituindo, portanto, evidente inovação recursal, vedada em sede de agravo regimental ou de embargos de declaração." (AgRg no AREsp n. 2.390.411/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/9/2023, DJe de 25/9/2023).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
