@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto pela INCORPORADORA R G LTDA. e RAUL GRANSOTTO contra decisão de inadmissibilidade de recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 660):
+ADUANEIRO. TRANSPORTE DE MERCADORIAS. PENA DE PERDIMENTO DE VEÍCULO. RESPONSABILIDADE DO PROPRIETÁRIO. PROPORCIONALIDADE.
+Em suas razões, a empresa agravante aponta violação do art. 2º da Lei n. 9.784/1999 e do princípio da proporcionalidade.
+Sustenta, em resumo, que ficou configurada a desproporcionalidade, visto que as mercadorias apreendidas pela fiscalização equivalem aproximadamente a R$ 2.926,28, enquanto o veículo custa de R$ 56.659,00
+Defende que "não utiliza referida pratica para sobrevivência financeira, até porque a apreensão que deu azo ao perdimento é de 44 garrafas de vinho, ou seja, poucas garrafas de vinho (em duas pessoas)" (e-STJ fl. 677).
+Contrarrazões apresentadas às e-STJ fls. 702/703.
+A Corte regional inadmitiu o recurso especial ante a incidência da Súmula 7 do STJ, fundamento com o qual não concorda a parte agravante.
+Sem apresentação de contraminuta.
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança em que se pede a inaplicabilidade da pena de perdimento do veículo e, consequentemente, a anulação do auto de infração e apreensão de veículo.
+Em primeiro grau de jurisdição, o Juízo da 1ª Vara Federal de São Miguel do Oeste/SC denegou a segurança.
+Irresignada, a agravante interpôs recurso de apelação, que foi negado provimento pelo Tribunal Regional. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 675/659):
+Pretende-se a liberação do veículo marca/modelo Nissan/Frontier, placas MKA-1140, apreendido em 25-09-2020, na rodovia BR-163, no município de Guaraciaba/SC, flagrado transportando 44 garrafas de vinho estrangeiro introduzidas clandestinamente no país. Na ocasião, o veículo era conduzido pelo impetrante Raul Gransotto, que estava acompanhado de Severina Sotilli.
+ ..
+No caso concreto, é evidente a responsabilidade do impetrante no cometimento do ilícito, porquanto era ele próprio quem conduzia o veículo por ocasião da apreensão.
+Acresce, ainda, que, conforme informação constante do Auto de Infração (evento 1,PROCADM9, fls. 03, 25 e 26), o impetrante já foi autuado diversas vezes pela prática de infração aduaneira, tendo inclusive havido a apreensão de vinhos em poder do impetrante pouco tempo antes da infração aqui combatida (em 12-08-2020 e 24-08-2020), restando evidente que o apelante é contumaz infrator das regras aduaneiras e que às mercadorias apreendidas seria dada destinação comercial.
+Por outro lado, a despeito de o preço do veículo (R$ 56.659,00 - evento 1, PROCADM9, fl.05) ser superior ao das mercadorias (R$ 2.926,98 - evento 1, PROCADM9, fl. 21), não é o caso de aplicação da excludente da desproporcionalidade, uma vez que há indício veemente da prática habitual de ilícito fiscal, sendo irrrelevante, dada as particularidades do caso, que tenha sido ultrapassado em pequena quantidade o limite de isenção de 12 litros de bebida alcoólica por passageiro, previsto no art. 33, §1º, I da Instrução Normativa RFB 1.059, de 2010.
+ ..
+Com efeito, a construção jurisprudencial da excludente de desproporcionalidade deve ser aplicada em casos específicos de cometimento esporádico de pequeno ilícito (compras para consumo próprio acima da cota de isenção, por exemplo), mas não em caso como o dos autos, em que evidenciada, pela prática reiterada da infração, a destinação comercial, sob pena de resultar em indevidas distorções.
+Cumpre ressaltar, ainda, que o princípio da insignificância, próprio à esfera penal, assume, no âmbito das infrações aduaneiras, a feição de proporcionalidade, que serve, em algumas situações, para afastar a pena de perdimento do veículo. Esse não é, contudo, o caso dos autos, como acima demonstrado.
+Portanto, tem-se por legítima a pena de perdimento do veículo marca/modelo NissanFrontier, placas MKA-1140, devendo ser mantida a sentença que denegou o mandado de segurança.
+Pois bem.
+Consoante se extrai do trecho do acórdão recorrido acima transcrito, o Tribunal de origem decidiu a questão a respeito da responsabilidade do proprietário do veículo e da proporcionalidade da aplicação da pena de perdimento, com base na análise das circunstâncias fáticas da causa, concluindo que os elementos constantes nos autos demonstraram que o proprietário concorreu para a prática do ato ilícito.
+Nessa perspectiva, para se alcançar conclusão diversa, seria necessária a incursão no quadro fático-probatório dos autos, o que esbarra no óbice da Súmula 7 do STJ.
+Nesse mesmo sentido, destaco os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADUANEIRO. PERDIMENTO DE VEÍCULO TRANSPORTADOR. FUNDAMENTAÇÃO DEFICIENTE NÃO VERIFICADA. PRINCÍPIO DA PROPORCIONALIDADE. AFASTAMENTO. REEXAME VEDADO. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação do art. 489 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de fundamentação deficiente.
+2. A conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência do STJ firmada no sentido de que o exame da pena de perdimento de veículo pode levar em consideração outros requisitos alheios à proporcionalidade para compor o juízo valorativo da sanção, a exemplo da gravidade do caso, reiteração da conduta ilícita ou a boa-fé das partes envolvidas. Precedentes: REsp 1.843.912/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019; e AgInt no AREsp 863.425/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 27/5/2019.
+3. A alteração das conclusões da Corte de origem, para afastar a aplicação de pena de perdimento do veículo, demandaria, a toda evidência, o reexame de conteúdo fático-probatório dos autos, providência vedada em recurso especial à luz da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.192.059/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ADUANEIRO. PERDIMENTO DE VEÍCULO TRANSPORTADOR. PRINCÍPIO DA PROPORCIONALIDADE. AFASTAMENTO. REEXAME VEDADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Como consignado no aresto recorrido, o Tribunal de origem considerou legítima a pena de perdimento do veículo transportador de mercadoria ilicitamente internalizada em solo brasileiro, afastando neste ínterim o princípio da proporcionalidade, porquanto no caso em análise trata-se "de descaminho de mercadorias às quais seria dada destinação comercial (caso dos autos, pela quantidade de mercadorias transportadas), hipótese em que a aplicação do princípio da proporcionalidade significaria verdadeiro estímulo à continuação da atividade ilícita".
+2. Deste modo, dissentir das conclusões então adotadas demandaria, a toda evidência, o reexame de conteúdo fático-probatório dos autos, providência vedada em recurso especial à luz da Súmula 7/STJ.
+3. Ademais, impende registrar que a conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência do STJ firmada no sentido de que o exame da pena de perdimento de veículo pode levar em consideração outros requisitos alheios à proporcionalidade para compor o juízo valorativo da sanção, a exemplo da gravidade do caso, reiteração da conduta ilícita ou a boa-fé das partes envolvidas.
+4. Agravo conhecido para não se conhecer do recurso especial.
+(AREsp n. 2.473.772/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/2/2024, DJe de 1/3/2024.).
+TRIBUTÁRIO. PROCESSO CIVIL. ADUANEIRO. ANÁLISE DE PRINCÍPIOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. PERDIMENTO. CABIMENTO. ACÓRDÃO RECORRIDO ALICERÇADO NO ACERVO FÁTICO-PROBATÓRIO. REFORMA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE INVIABILIZADA.
+1. Em recurso especial não cabe invocar violação à norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos princípios da eficiência, da razoabilidade e da proporcionalidade.
+2. A alteração das conclusões adotadas pela Corte de origem a respeito do cabimento da pena de perdimento das mercadorias importadas pela parte agravante, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. O não conhecimento do especial pela senda da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.587.184/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 1/3/2021, DJe de 4/3/2021.).
+Por fim, convém registrar que "a inadmissão do recurso especial interposto com fundamento no art. 105, III,"a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 253, parágrafo ú nico, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
