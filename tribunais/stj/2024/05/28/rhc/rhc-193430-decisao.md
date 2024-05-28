@@ -1,0 +1,41 @@
+DECISÃO
+No presente recurso, que se volta contra o acórdão do Tribunal de Justiça de Minas Gerais que denegou a ordem no HC n. 1.0000.23.325154-5/000 (fls. 301/306), pretende-se a imediata revogação da custódia cautelar decretada contra Hiram Silveira Capobiango Junior - preso preventivamente pela prática, em tese, dos crimes descritos no art. 121, § 2º, IV, c/c o art. 14, II, ambos do Código Penal, por duas vezes; art. 21 da Lei das Contravenções Penais; art. 14 da Lei n. 10.826/2003; arts. 329, 330, art. 147, e 157, § 2º-A, I, todos do Código Penal (Autos n. 5048171-13.2023.8.13.0145 - Juízo da comarca de Juiz de Fora/MG - fls. 177/181), sob o argumento, em suma, de falta de fundamentação idônea a amparar a custódia.
+A liminar foi indeferida às fls. 330/331.
+Informações prestadas às fls. 336/377.
+O Ministério Público Federal emitiu parecer pelo desprovimento do recurso, à vista dos fundamentos sintetizados na seguinte ementa (fl. 382):
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, AMEAÇA, PORTE ILEGAL DE ARMA, VIAS DE FATO E ROUBO MAJORADO.
+PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. CUSTÓDIA NECESSÁRIA PARA GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+É o relatório.
+Busca o recorrente a revogação da prisão preventiva decretada em seu desfavor pela suposta prática dos crimes de homicídio qualificado, ameaça, porte ilegal de arma, vias de fato e roubo majorado.
+Os autos dão conta de que o recorrente foi preso em flagrante delito, pela pratica dos crimes tipificados nos artigo 121, § 2º, inciso IV, c/c artigo 14, inciso II, ambos do Código Penal, por duas vezes; artigo 21 da Lei das Contravenções Penais; artigo 14 da Lei n. 10.826/03, artigo 329 do Código Penal; artigo 330 do Código Penal; artigo 147 do Código Penal; e artigo 157, § 2º-A, inciso I, do Código Penal. A prisão em flagrante delito restou devidamente convertida em prisão preventiva na mesma data (fl. 303).
+Do decreto prisional extrai-se (Autos n. 5048171-13.2023.8.13.0145 - fls. 178/180 - grifo nosso):
+ ..
+O acusado possui maus antecedentes, conforme se infere das informações contidas na folha e na certidão de antecedentes criminais, o que demonstra que o acusado é pessoa perigosa e voltada para a prática de crimes.
+ ..
+Analisando os autos, tenho por certo que se faz necessária a manutenção da custódia preventiva, a fim de garantir a instrução processual, a aplicação da lei penal e, notadamente, a ordem pública, diante da gravidade do crime em si mesmo considerado e da periculosidade do agente.
+ ..
+In casu, a prisão e necessária como medida tendente a garantir a manutenção da ordem pública, evitando-se que o acusado pratique novos crimes, sobretudo em razão da periculosidade demonstrada por ele, que afirmou aos policiais que efetuaram sua prisão que é "bandido antigo" e faccionado ao Comando Vermelho.
+Além disso, a segregação cautelar do autuado é necessária também como garantia da aplicação da lei penal, visto que foi detido já em fuga e resistiu a prisão, o que demonstra que não tem intenção de submeter-se a lei, chegando inclusive a apontar arma contra os policiais para evitar sua prisão.
+ ..
+Estando provada a existência do crime e havendo indícios suficientes da autoria, encontram-se presentes na hipótese os pressupostos da decretação/manutenção da prisão preventiva, nos termos dos dispositivos que regulam a matéria.
+No julgamento do habeas corpus, a Corte estadual preservou a segregação cautelar, destacando o seguinte (HC n. 1.0000.23.325154-5/000 - fls. 304/305 - grifo nosso):
+ ..
+A conversão da prisão em flagrante delito em segregação preventiva restou devidamente fundamentada pelo juízo "a quo", em conformidade ao princípio do livre convencimento fundamentado ou da persuasão racional do juiz com supedâneo no art. 312 do CPP, à vista da comprovada materialidade, de indícios de autoria e a fim de acautelar a ordem pública, tendo em conta a gravidade concreta da conduta perpetrada pelo paciente.
+As circunstâncias fáticas - em análise perfunctória, própria dessa fase - indicam a reiteração delitiva.
+Extrai-se da FAC do paciente tinha sido beneficiado com a liberdade provisória em 24/02/2021, delito pelo qual ele responde criminalmente atualmente, restando patente à quebra de seu compromisso assumido com o Estado. (documento de ordem nº 13).
+Logo, a aplicação de medidas cautelares diversas da prisão se mostrou infrutífera, eis que a paciente reiterou na prática criminosa, mesmo sob o alvitre de tal compromisso, restando evidente a quebra de compromisso, colocando em situação lesiva a segurança pública, desequilibrando o tecido social.
+Além disso, conforme salientado pela i. Procuradoria Gerald e Justiça, além destes crimes ora mencionados o paciente já foi beneficiado com a transação penal em duas oportunidades no ano de 2020 e 2021 após a suposta prática o da infração penal prevista no art. 28 da Lei de Drogas assim como responde a três ações penais para apuração dos crimes previstos no art. 28, 33 e 35 da Lei de Drogas, art. 306 do CTB e art. 298, III e 330, ambos do CP.
+Nesse viés, existe a necessidade da manutenção da prisão cautelar para a garantia da ordem pública, de sorte que, suficientemente, justificou a medida na existência de condições pessoais desfavoráveis ao paciente.
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+No caso, verifica-se que as instâncias ordinárias destacaram o histórico criminal do recorrente e os elementos indicadores do seu engajamento com tais atividades, justificando, assim, a necessidade da manutenção da prisão preventiva para a garantia da ordem pública, da instrução processual e da aplicação da lei penal.
+De mais a mais, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no HC n. 899.585/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/5/2024, DJe 16/5/2024).
+Em acréscimo, a tentativa de fuga do custodiado do distrito de culpa é fundamento válido à prisão cautelar, a fim de assegurar a aplicação da lei penal, evidenciando, assim, o periculum libertatis. Nesse sentido: AgRg no HC n. 888.275/CE, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 23/4/2024, DJe 26/4/2024.
+A corroborar, o parecer do Ministério Público Federal à fl.385 (grifo nosso) :
+ ..
+Nesse contexto, verifica-se que a prisão preventiva do recorrente está adequadamente fundamentada, com indicação dos elementos concretos que justificam a manutenção da custódia, não se vislumbrando o alegado constrangimento ilegal.
+No mais, certo é que a situação de reiteração delitiva - no caso, expressamente referida na decisão de primeiro grau -, autoriza a segregação cautelar com a finalidade de obstar a continuidade da prática de crimes, resguardando-se a ordem pública.
+Ante o exposto, ausente qualquer constrangimento ilegal a ser sanado na presente via, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. AMEAÇA. PORTE ILEGAL DE ARMA DE FOGO. VIAS DE FATO E ROUBO MAJORADO. PRISÃO PREVENTIVA. NECESSIDADE DE RESGUARDO DA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE SOCIAL DO AGENTE. MAUS ANTECEDENTES. RISCO DE REITERAÇÃO DELITIVA. APLICAÇÃO DA LEI PENAL. PERICULUM LIBERTATIS DEMONSTRADO. TENTATIVA DE FUGA DO DISTRITO DA CULPA. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
