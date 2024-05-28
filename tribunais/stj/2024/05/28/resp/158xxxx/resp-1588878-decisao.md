@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 967):
+SISTEMA FINANCEIRO DA HABITAÇÃO. SFH. EXECUÇÃO EXTRAJUDICIAL. DECRETO 70/66. CONSTITUCIONALIDADE. REGULARIDADE DO PROCEDIMENTO. APLICAÇÃO DO CPC. AFASTAMENTO. SENTENÇA MANTIDA.
+1. Pacífico o entendimento acerca da aplicabilidade do procedimento previsto no Decreto-Lei 70/66, exigido o cumprimento de todas as garantias conferidas ao mutuário.
+2. Não há exigência de que o mutuário seja intimado pessoalmente da realização do leilão, pois o art. 32 prevê que, deixando o devedor de purgar a mora no prazo legal, o agente fiduciário estará de pleno direito autorizado a publicar editais e realizar o leilão extrajudicial no prazo de 15 dias.
+3. Considerando-se que a adjudicação/arrematação do imóvel financiado pelo agente financeiro exonera os devedores do pagamento da diferença entre o saldo devedor e o valor do imóvel, o que não ocorre no rito do CPC, resta prejudicado o argumento de deveria haver observância ao artigo 620 do Estatuto Processual Civil
+4. Não vislumbrado qualquer vício no procedimento adotado pelo agente financeiro, não há falar em anulação da execução extrajudicial.
+5. A arrematação/adjudicação extrajudicial do imóvel produz, via de regra, a perda do objeto de causas estritamente revisionais/satisfativas, já que com a alienação o contrato de mútuo é resolvido integralmente.
+6. Sentença de improcedência mantida
+Embargos de declaração parcialmente acolhidos, exclusivamente para fins de prequestionamento.
+Os recorrentes alegam que o Tribunal de origem violou determinações contidas no artigo 3º da Lei n. 10.150/2000 e defendem que possuem direito à utilização do FCVS para quitação do saldo devedor.
+Sustentam, outrossim, a nulidade da execução extrajudicial por meio do Decreto-lei n. 70/66, ao argumento de que referido procedimento é inconstitucional e fere o art. 620 do CPC/1973, segundo o qual "quando por vários meios o credor puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o devedor".
+Asseveram, ainda, que: (a) o BANESTADO, por meio do contrato padrão, impôs aos mutuários cláusula mandato, o que contraria o artigo 51 da Lei n. 8.078/1990; (b) foram desconsideradas a função social do contrato e os princípios da probidade e da boa-fé, previstos nos arts. 421 e 422 do Código Civil; (c) foram cometidas diversas abusividades ao longo do contrato (prática de anatocismo, cobrança de taxa de juros nominal e efetiva não prevista na Lei n. 4.380/1964, não observância do plano de equivalência salarial, impacto do plano Collor e ausência de amparo legal para a cobrança do CES de 15%); e (d) as recorridas devem ser condedadas à repetição do indébito, em dobro, nos termos dos arts. 1.516 do CC/1916, 859 do CC/2002 e 42 do CDC.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 1153.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+Verifica-se, de plano, que o alegado pelos recorrentes sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Ademais, quanto à questão das abusividades pretensamente cometidas, o recorrente não indicou os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que também inviabiliza a compreensão da controvérsia.
+Assim, não é possível conhecer do recurso especial, por deficiência na argumentação recursal, consoante dispõe a Súmula 284/STF.
+No que tangue à alegação de nulidade da execução extrajudicial por meio do Decreto-lei n. 70/66, convém destacar que o Tribunal a quo refutou a tese sob a seguinte fundamentação:
+Atendidos os pressupostos formais impostos pela norma, não há que se falar em nenhuma ilegitimidade. Especificamente quanto à constitucionalidade do procedimento previsto no Decreto-lei, é pacífico o entendimento no Supremo Tribunal Federal:
+RECURSO. Extraordinário. Inadmissibilidade. Execução extrajudicial. Decreto-Lei nº70/66. Recepção pela Constituição Federal de 1988. Jurisprudência assentada. Ausência derazões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento aagravo regimental tendente a impugnar, sem razões consistentes, decisão fundada emjurisprudência assente na Corte.(AI 678256 AgR, Relator(a): Min. CEZAR PELUSO, Segunda Turma, julgado em02/03/2010, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-07PP-01659)
+CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO EXTRAJUDICIAL. 1. Nãoofende a Constituição o procedimento previsto no Decreto-lei 70/66. Precedentes. 2.Ausência de argumento capaz de infirmar o entendimento adotado pela decisão agravada.3. Agravo regimental improvido.(AI 663578 AgR, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em04/08/2009, DJe-162 DIVULG 27-08-2009 PUBLIC 28-08-2009 EMENT VOL-02371-12PP-02382)
+(..)
+A disposição normativa do art. 7º da Lei nº 5.741/71, segundo a qual, com aadjudicação do imóvel pelo exeqüente, fica "exonerado o executado da obrigação de pagar orestante da dívida", consagra hipótese de extinção da obrigação. Como tal, é norma que se aplica à generalidade dos contratos vinculados ao Sistema Financeiro da Habitação, independentemente do procedimento adotado para a sua execução
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial,o que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, não conh eço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA DA ARGUMENTAÇÃO RECURSAL. ARGUMENTAÇÃO DISSOCIADA. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
