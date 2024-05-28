@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto po r NATALIA APARECIDA SOBRINHO contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 354):
+Apelação. Ação de indenização por danos materiais. Compromisso de compra e venda de imóvel. Vaga de garagem entregue em tamanho menor do que o previsto no contrato. Autora que pretende a restituição do excedente pago. Pretensão que se enquadra no art. 500 do Código Civil. Hipótese sujeita à decadência (CC, art.501). Inadmissibilidade da invocação do prazo geral de prescrição, previsto no art. 205 do Código Civil. Existência de prazo específico no mesmo diploma legal para a hipótese em questão. Pedido formulado que não corresponde a dano decorrente do inadimplemento. Precedentes da Câmara e do C. STJ. Contagem do prazo decadencial ânuo a partir do registro do título. Transcurso de prazo superior a um ano entre o registro do título e o ajuizamento da demanda. Decadência configurada, ainda que considerada a data da entregadas chaves. Decadência reconhecida, com extinção do processo (art. 487, II do CPC). Sentença mantida. Recurso desprovido.
+Nas razões do recurso especial, a recorrente alegou a ofensa ao art. 205 do Código Civil, sustentando, em síntese, a aplicação do prazo prescricional decenal, haja vista que não há regra específica quanto ao prazo para o ajuizamento de ações indenizatórias por inadimplemento contratual. Aduziu, ainda, a ocorrência de dissídio jurisprudencial.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+A agravante impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 421-427).
+Contraminuta apresentada (e-STJ, fls. 430-432).
+Brevemente relatado, decido.
+A controvérsia refere-se, em síntese, ao prazo prescricional no caso de aquisição de vaga de garagem com metragem inferior à anunciada.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 355-359; sem grifo no original):
+A autora adquiriu imóvel com área predefinida, mas ao recebê-lo percebeu que a vaga de garagem apresenta tamanho menor do que o previsto no contrato, requerendo, em razão disso, restituição do excedente pago.
+A pretensão se enquadra na previsão legal do art. 500 do Código Civil, considerando a causa de pedir e o pedido formulado: "Se, na venda de um imóvel, se estipular o preço por medida de extensão, ou se determinar a respectiva área, e esta não corresponder, em qualquer dos casos, às dimensões dadas, o comprador terá o direito de exigir o complemento da área, e, não sendo isso possível, o de reclamar a resolução do contrato ou abatimento proporcional ao preço".
+Aplica-se, por conseguinte, o prazo decadencial ânuo previsto no art. 501 do Código Civil: "decai do direito de propor as ações previstas no artigo antecedente o vendedor ou o comprador que não o fizer no prazo de uma no, a contar do registro do título".
+Não procede a invocação da norma geral de inadimplemento contratual, ante a regulamentação específica do Código Civil para a hipótese em questão.
+Embora a demanda tenha sido denominada "ação de indenização por danos materiais", a autora não reclama reparação de alguma consequência de ordem material decorrente do inadimplemento do contrato, como seria a hipótese de desvalorização do imóvel ou alguma despesa decorrente do inadimplemento.
+No caso, ela se limitou a alegar que o imóvel não teria a área enunciada e formulou pedido que é típico da ação quanti minoris, calculando o valor total do preço, apurando o preço por metro quadrado e reclamando ressarcimento justamente pelo valor faltante da metragem.
+Para hipótese de falta de área e compensação econômica a lei civil já contém previsão específica nos arts. 500 e 501 do Código Civil, não sendo admissível a pretensão de afastamento do regime legal para invocação do regime geral de inadimplemento, especialmente quando a parte não indica autonomamente outro tipo de dano decorrente do alegado descumprimento do contrato.
+Esta Câmara tem reconhecido aplicação do prazo decadencial do art. 501 do Código Civil à hipótese sub judice:  ..
+Assentada a aplicabilidade do prazo decadencial ânuo à hipótese, cumpre perquirir se houve a decadência do direito invocado pela autora.
+Com efeito, destaca-se que a jurisprudência mais recente de ambas as Turmas que compõem a Segunda Seção do Superior Tribunal de Justiça é firme no sentido de que a aquisição de vaga de garagem com metragem inferior à anunciada gera ao adquirente direito que, por possuir a natureza de abatimento do preço do imóvel, é submetido ao prazo decadencial de um ano do art. 501 do CC/2002, independentemente do nomem iuris atribuído à ação pela parte em cada hipótese concreta.
+Confiram-se (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. VAGA DE GARAGEM. ALEGAÇÃO DE QUE A ÁREA REAL NÃO CORRESPONDE À ÁREA ADQUIRIDA. AÇÃO QUANTI MINORIS. PRAZO DECADENCIAL DE UM ANO. ART. 501 DO CÓDIGO CIVIL. AGRAVO NÃO PROVIDO.
+1. O direito de abatimento no preço do imóvel, decorrente da diferença de metragem entre a área real do bem e a constante do contrato, decai em 1 (um) ano, conforme art. 501 do Código Civil.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.303.015/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. COMPRA E VENDA DE IMÓVEL. VAGA DE GARAGEM COM METRAGEM INFERIOR. DECADÊNCIA. ART. 501, CAPUT, DO CÓDIGO CIVIL. AGRAVO INTERNO DESPROVIDO.
+1. O direito de abatimento no preço do imóvel, decorrente da diferença entre a área real do bem e a constante do contrato, decai em um ano, nos termos do art. 501, caput, do Código Civil.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.333.006/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. DEVOLUÇÃO DE VALORES PAGOS. VAGA DE GARAGEM. ÁREA MENOR QUE A CONTRATADA. PRAZO DECADENCIAL. ÂNUO. NOMEN IURIS. IRRELEVÂNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em caso de entrega de imóvel com metragem inferior à contratada, incide o prazo decadencial de um ano previsto no art. 501 do CC para o ajuizamento de demanda em que se pretenda o complemento da área, a resolução do contrato ou o abatimento proporcional do preço.
+3. O nomen iuris atribuído à demanda é irrelevante para se determinar sua natureza jurídica, a qual depende da causa de pedir e do pedido.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.961.550/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Dessa forma, verifica-se que a irresignação da agravante não merece prosperar, haja vista que o acórdão recorrido, ao concluir pela a aplicabilidade do prazo decadencial ânuo à hipótese de aquisição de vaga de garagem com metragem inferior à anunciada, encontra-se em consonância com o supracitado entendimento desta Corte Superior, de modo a incidir a Súmula n. 83/STJ ao caso vertente.
+Ante o e xposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em R$ 500,00 (quinhentos reais) os honorários sucumbenciais fixados em favor dos advogados da parte recorrida, suspensa a exigibilidade em razão da gratuidade de justiça deferida na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. VAGA DE GARAGEM. METRAGEM INFERIOR À CONTRATADA. PRAZO DECADENCIAL ANUAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORT E SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
