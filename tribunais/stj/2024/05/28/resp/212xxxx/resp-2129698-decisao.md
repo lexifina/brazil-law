@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Marlene Rodrigues Moreira contra os acórdãos de fls. 237-243 e 277-279 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C.C. INDENIZAÇÃO POR DANOS MORAIS - Contrato bancário de cartão de crédito consignado - Vício do consentimento na consecução do negócio jurídico - Reconhecimento - Conjunto fático-probatório que autoriza o entendimento de que a autora pretendeu firmar empréstimo pessoal consignado, mas o banco, ao formalizar o contrato, acabou por fornecer à autora cartão de crédito com reserva de margem consignável (RMC) - Nulidade do contrato, com convolação em empréstimo consignado comum, segundo as taxas médias de mercado para essa modalidade de operação, na época da contratação - Banco que não fez prova da impossibilidade do cumprimento da obrigação - Devolução dos descontos, na eventual existência de saldo credor, que deve observar a modulação dos efeitos pelo STJ no julgamento do EARESP Nº 676.608/RS - Danos morais não configurados - Sentença parcialmente reformada - Sucumbência recíproca - Recurso provido, em parte.
+EMBARGOS DE DECLARAÇÃO - Inocorrência de vícios a serem sanados - Pretensão de rediscussão da decisão tomada pela Turma Julgadora - Impossibilidade - Regra introduzida pela Lei nº 14.365/22 (§ 8º-A do art. 85 do CPC) que é meramente referencial - Jurisprudência do Colendo Superior Tribunal de Justiça em casos semelhantes - E o acerto ou desacerto do entendimento não pode ser discutido nos estreitos limites dos declaratórios - Embargos rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 281-291), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 14 do CDC; 186 e 927 do CCB; e 85, §§ 8º, 8º-A e 11º, do CPC/2015. Sustenta, em síntese: i) ocorrência de dano moral; ii) que o arbitramento dos honorários advocatícios de sucumbência deve observar a tabela da OAB; e iii) cabimento dos honorários recursais de sucumbência.
+Contrarrazões às fls. 294-302 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 303-305), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal de origem concluiu pela não demonstração da ocorrência de dano moral.
+Veja-se à fl. 242 (e-STJ):
+No mais, não se antevê danos morais na espécie, mormente porque a autora se manteve inerte durante o período de aproximadamente seis anos entre o início dos descontos (11/2016) e a propositura da ação (09/2022), o que revela certa negligência de sua parte e evidencia que não suportou prejuízos com os descontos realizados.
+Assim, muito embora a autora tenha despendido seu tempo e enfrentado o aborrecimento de solucionar a questão em tela, não ficou demonstrada a ocorrência de violação significativa a algum direito da personalidade, conforme pronunciamento advindo do Colendo SuperiorTribunal de Justiça (REsp nº 1.573.859-SP, registro nº 2015/0296154-5, 3ª Turma, v.u., Rel. Min. MARCO AURÉLIO BELLIZZE), motivo pelo qual não há de se falar em dano moral.
+Dessa forma, a revisão da conclusão a que chegou o Tribunal local e acolhimento da tese de ocorrência de dano moral esbarra no óbice da Súmula 7/STJ, porquanto demandaria nova incursão no conjunto probatório dos autos.
+A jurisprudência desta Corte é no sentido da inexistência de vinculação do magistrado aos valores previstos na tabela da OAB quando arbitrar os honorários advocatícios de sucumbência.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. O acórdão recorrido encontra-se em harmonia com a orientação desta Corte Superior, no sentido da "inexistência de vinculação do magistrado aos valores estabelecidos pela tabela da OAB para os honorários advocatícios" (AgInt no AgInt no AREsp n. 1.578.753/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/8/2020, DJe de 3/9/2020). Incidência da Súmula n. 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.431.232/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Logo, não procede o argumento da recorrente de que o arbitramento dos honorários advocatícios de sucumbência deve observar a tabela de honorários da Ordem dos Advogados do Brasil.
+Por fim, sem razão a insurgente quando sustenta o cabimento dos honorários recursais de sucumbência. Tal verba somente tem lugar quando o recurso não é conhecido ou é desprovido.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. A teor do entendimento firmado no Tema n. 1.059/STJ, "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação".
+3. No caso dos autos, o recurso especial interposto pela parte embargada foi provido "para afastar a multa prevista no artigo 1.026, § 2º, do Código de Processo Civil de 2015 aplicada pelo Tribunal de origem", o que obsta o cabimento da majoração em favor do embargante.
+Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.877.332/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+No caso dos autos, em que a apelação foi parcialmente provida, não há que se falar em honorários recursais de sucumbência.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 20% (três por cento) sobre o valor já arbitrado , devendo ser observada a gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C.C. INDENIZAÇÃO POR DANOS MORAIS. OCORRÊNCIA DE DANO MORAL. INCIDÊNCIA DA SÚMULA 7/STJ. APLICABILIDADE DA TABELA DE HONORÁRIOS DA OAB E CABIMENTO DOS HONORÁRIOS RECURSAIS DE SUCUMBÊNCIA. IMPROCEDÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
