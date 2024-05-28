@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOAO VICTOR DE SOUZA SANTOS SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500465-15.2020.8.26.0557).
+Depreende-se dos autos que o réu foi condenado a 5 anos de reclusão, em regime inicial semiaberto, pela prática de tráfico de drogas, tendo em vista a apreensão de "267,03g  duzentos e sessenta e sete gramas e três centigramas  ..  de maconha, dispostos em 126 (cento e vinte e seis) porções de segmentos plásticos transparentes, e 7,47g  sete gramas e quarenta e sete centigramas  de cocaína, acondicionados em 18 (dezoito) tubos plásticos, do tipo eppendorfs" (e-STJ fl. 56).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 63/80).
+Daí o presente writ, no qual postula a defesa a readequação da pena imposta, com a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3 (dois terços), sob o argumento de que a existência de ações penais em curso, por si só, não justifica o afastamento do dito tráfico privilegiado.
+Sustenta que o paciente é primário, possui bons antecedentes e não há nenhuma evidência a demonstrar que ele seja integrante organização criminosa.
+Requer, liminarmente e no mérito, a aplicação da referida causa especial de diminuição de pena, além da fixação do regime inicial menos gravoso e da substituição da pena corporal por restritivas de direitos (e-STJ fls. 13/14).
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento da impetração.
+É, em síntese, o relatório.
+Decido.
+Acerca da controvérsia, o Tribunal de origem consignou o seguinte (e-STJ fl. 77):
+Por outro lado, não era mesmo o caso de concessão da benesse prevista no artigo 33, § 4º, da Lei de Drogas.
+Muito embora seja o sentenciado primário e não possua maus antecedentes, João Victor foi apreendido outras vezes, por tráfico de drogas no mesmo local, encontra-se preso pelo mesmo tipo penal e se evadia para o mesmo local, quando realizava o tráfico de drogas, o que demonstra, com segurança, que fazia ele do tráfico seu meio de vida, dedicando-se, assim, às atividades criminosas.
+Da análise do trecho transcrito, constato que assiste razão à defesa. Isso, porque esta Sexta Turma adotou o atual posicionamento do Supremo Tribunal Federal, segundo o qual inquéritos policiais e ações penais em curso não constituem circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO. INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas.  ..  (AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021.)
+Colaciono, a seguir, julgado da Suprema Corte nessa mesma direção:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação. (HC n. 173.806, relator MARCO AURÉLIO, Primeira Turma, julgado em 18/2/2020, processo eletrônico DJe-049 divulg. 6/3/2020, public. 9/3/2020.)
+Assim, é de rigor a aplicação do referido redutor em seu grau máximo de 2/3, de modo que a pena do paciente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, o paciente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade em medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+À vista de tais pressupostos, concedo a ordem, para, aplicando em 2/3 a fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, reduzir a reprimenda do paciente para 1 ano e 8 meses de reclusão, no regime inicial aberto, e determinar a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem estipuladas pelo Juízo da execução penal.
+Publique-se. Intimem-se.
+EMENTA
