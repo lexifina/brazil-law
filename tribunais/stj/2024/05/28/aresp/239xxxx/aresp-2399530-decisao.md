@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual CABIRIA CONSTRUCOES E EMPREENDIMENTOS S/A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fls. 1.338/1.339):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. EMBARGOS DE TERCEIRO. PRELIMINARES DE NÃO CONHECIMENTO DOS APELOS DOS RÉUS E INTEMPESTIVIDADE. REJEIÇÃO. AQUISIÇÃO DE IMÓVEL OBJETO DE AÇÃO DE RESOLUÇÃO DE CONTRATO. EXTENSÃO DOS EFEITOS DA SENTENÇA. COISA JULGADA E ILEGITIMIDADE ATIVA.
+1. Estendem-se os efeitos da sentença proferida entre as partes originárias ao adquirente ou cessionário (CPC/2015 109, § 3º).
+2. O ajuizamento de embargos de terceiro pelo adquirente de imóvel objeto de ação de resolução de contrato e reintegração de posse acarreta ofensa à coisa julgada, sendo inócua a discussão quanto à existência ou não de boa-fé.
+3. O adquirente de coisa litigiosa não detém legitimidade ativa para os embargos de terceiro, pois não pode se investir da qualidade de terceiro estranho à lide.
+4. Rejeitaram-se as preliminares alegadas em contrarrazões. Deu-se provimento ao apelo da ré CODHAB. Julgou-se prejudicado o recurso apresentado pelo réu Distrito Federal.
+Os embargos de declaração opostos foram rejeitados (fls. 1.414/1.427).
+Em suas razões recursais, a parte recorrente alega violação dos arts. 141, 336, 489, § 1º, IV, 1.013, § 1º, e 1.022, I e II, do Código de Processo Civil (CPC), com os seguintes argumentos:
+(a) negativa de prestação jurisdicional, afirmando a ocorrência de omissão no julgado pois "não há evidência na escritura pública de compra e venda assinada em 2004 de que constava nas certidões defeitos judiciais a ação de rescisão da CODHAB, porque se houvesse menção à ação de rescisão nas certidões, o próprio Tabelião de Notas que lavrou o instrumento público jamais teria declarado no parágrafo seguinte às certidões que "sob pena de responsabilidade civil e penal, não existiam ações reais e pessoais reipersecutórias relativas aos imóveis objetos da escritura"" (fl. 1.444);
+(b) omissão quanto à tese de inovação recursal alegando que a questão somente foi arguida no juízo ad quem (contraditório e ampla defesa - art. 5º LV, da Constituição Federal), o que incorreria em preclusão consumativa, ofensa ao duplo grau de jurisdição e ao contraditório e à ampla defesa;
+(c) na qualidade de terceira adquirente de boa-fé, não pode ser alcançada pelos efeitos da coisa julgada operada na ação de rescisão contratual a respeito da qual sequer teve ciência.
+A parte adversa apresentou contrarrazões (fls. 1.493/1.521 e 1.523/1.529).
+O recurso não foi admitido na origem (fls. 1.532/1.533), razão da interposição do recurso ora examinado.
+É o relatório.
+Cuida-se, na origem, de embargos de terceiro opostos por CABIRIA CONSTRUCOES E EMPREENDIMENTOS S/A, ora agravante, contra a COMPANHIA DE DESENVOLVIMENTO HABITACIONAL DO DISTRITO FEDERAL (CODHAB) e o DISTRITO FEDERAL visando a determinação da desconstituição do cancelamento dos registros das escrituras de compra e venda referentes aos imóveis localizados nos Lotes 1 e 3, da QI-25 do SRIA/Guará (registrados no 4º Ofício de Registro de Imóveis do DF sob as matrículas 21.971 e 21.970).
+Verifico que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Consta do acórdão a análise dos pontos indicados como omissos quanto ao teor das certidões de feitos judiciais (em relação à ação de rescisão da COHAB) e quanto à tese de inovação recursal. Cito, por oportuno, trecho do julgado (fls. 1.352/1.355):
+Em suas contrarrazões (ID 21389040), a autora suscita preliminar de não conhecimento da apelação interposta pela COHAB, por ofensa ao princípio da inovação recursal. Alega que em contestação a tese era de que "a embargante não seria adquirente de boa-fé", e, na apelação, inova afirmando que "não importa se é adquirente de má-fé ou de boa-fé, mas que, qualquer que fosse o caso, não poderia opor embargos de terceiro".
+Sem razão.
+Em sua contestação (ID 21388977), a CODHAB afirmou que a embargante sabia ou poderia saber da qualidade litigiosa da coisa, e fez referência expressa ao artigo 109/CPC:
+"Igualmente, ao adquirir/negociar sabidamente coisa litigiosa (ou que possuía meios para saber da sua condição litigiosa), o que no caso dos autos em análise perfunctória pode ser verificado tanto da escritura de compra e venda, como da própria natureza do pacto de retrovenda averbado na matrícula do imóvel, atraindo a incidência do art. 109, § 3º do CPC, antigo art. 42, §3º do CPC de 1973. (..)
+Ou seja, no caso dos autos, restando devidamente demonstrada a ciência e possibilidade de ciência da condição litigiosa da coisa, submete-se a EMBARGANTE aos efeitos da sentença proferida entre as partes no processo principal, cujo trânsito em julgado se deu em 12/01/2009". - grifei
+ ..
+Em suma: ainda que na matrícula do imóvel não constasse a existência de sentença favorável à antiga proprietária, a Cabiria tinha ciência da existência de ação judicial envolvendo o imóvel e da pendência de débitos não pagos pelo casal comprador.
+Assim, a sentença proferida nos autos nº 21747/92 (0003848-55.2002.8.07.0001) tem seus efeitos estendidos à autora/embargante, em razão de ter adquirido os imóveis na pendência de ação de resolução de contrato e reintegração de posse que já tinha sentença desfavorável aos devedores, nos termos do art. 109, § 3º do CPC/2015, in verbis:
+ ..
+Inegável, assim, que o ajuizamento dos embargos de terceiro acarreta ofensa à coisa julgada concretizada nos autos acima referidos, sendo inócua a discussão quanto à existência ou não de boa-fé por parte do adquirente.
+Nessas condições, o adquirente de coisa litigiosa não detém legitimidade ativa para os embargos de terceiro, pois não pode se investir da qualidade de terceiro estranho à lide.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Quanto ao mais, entendo que o acórdão proferido pelo Tribunal de origem julgou a lide em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual o adquirente de coisa litigiosa, por se sujeitar aos efeitos da sentença na ação originária, não pode ser considerado terceiro, motivo pelo qual não está legitimado a opor embargos de terceiros. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ADQUIRENTE DE COISA LITIGIOSA. ILEGITIMIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência vigente no Superior Tribunal de Justiça, não é parte legítima para oposição de embargos de terceiro o adquirente de coisa litigiosa, ainda que desconhecido o vício inserido no negócio jurídico.
+2. Conforme já decidido por esta Corte, "não há falar em extensão dos efeitos da coisa julgada ao adquirente se o bem é adquirido por terceiro de boa-fé antes de configurada a litigiosidade" (AgInt no AREsp 1.293.353/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 03/12/2018, DJe 06/12/2018).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.798.583/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGADOS.
+1. Consoante a jurisprudência deste Tribunal Superior, o adquirente de coisa litigiosa não é parte legítima para embargos de terceiro. Essa posição é relativizada apenas quando demonstrada a boa-fé do adquirente. Precedentes. 1.1. No caso em tela, o Tribunal de origem constatou a boa-fé dos adquirentes, que não poderiam ter ciência da lide, uma vez que não havia averbação na matrícula do imóvel nem constavam como parte no processo os alienantes. Incidência das Súmulas 7 e 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.574.382/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2018, DJe de 29/10/2018.)
+Ressalto que, quanto à verificação da boa-fé e da ciência pela empresa Cabiria d a informação na certidão dos feitos judiciais de sentença favorável à anterior proprietária ou de ação envolvendo o imóvel em discussão, o aresto assim se manifestou (fls. 1.354/1.355):
+Observe-se que, na escritura pública de compra e venda que fundamenta o pedido de embargos de terceiro, consta expressamente a informação de que a adquirente (Cabiria) tomou conhecimento da certidão de feitos judiciais expedida pela Justiça Comum do Distrito Federal (ID 21388945, p. 3):
+ ..
+Em suma: ainda que na matrícula do imóvel não constasse a existência de sentença favorável à antiga proprietária, a Cabiria tinha ciência da existência de ação judicial envolvendo o imóvel e da pendência de débitos não pagos pelo casal comprador.
+Assim, a sentença proferida nos autos nº 21747/92 (0003848-55.2002.8.07.0001) tem seus efeitos estendidos à autora/embargante, em razão de ter adquirido os imóveis na pendência de ação de resolução de contrato e reintegração de posse que já tinha sentença desfavorável aos devedores.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
