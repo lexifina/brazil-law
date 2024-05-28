@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 170):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. LEI Nº 14.148, DE 2021. BENEFÍCIO FISCAL DE ALÍQUOTA ZERO. PERSE. ATIVIDADE DE VITIVINICULTURA. SERVIÇO TURÍSTICO. NECESSIDADE DE PRÉVIA INSCRIÇÃO NO CADASTUR. REGULAMENTO ADMINISTRATIVO. OBRIGAÇÃO CONSTANTE NA LEI Nº 11.771, DE 2008, ART. 22. DENEGAÇÃO DA SEGURANÇA.
+Embargos de declaração rejeitados às fls. 199-204.
+O recorrente alega violação do art.2º, §2º, da Leinº14.148/21 e 21da Lei 11.771/08, argumentando, às fls. 230-231:
+Não bastasse a interpretação compreendendo ser obrigatória a inscrição no Ministério do Turismo, vê-se que o acórdão recorrido julgou válido a imposição de requisito não previsto em lei e inaugurado pela Portaria ME7.163/21, em razão do teor do texto do art. 2º da Lei n. 14.148/21.
+ ..
+Ora, a exigência feita pelo inciso IV do artigo 2º da Lei nº 14.148, de 2021 se refere à exigência inaugurada pelo art.1º,§ 2º, da Portaria ME nº7.163/21.
+No entanto, o § 2º, art.2º da Lei nº 14.148/21 delegou a capacidade de o então Ministério da Economia tratar somente dos códigos de atividade econômica considerados relacionados ao turismo.
+Conforme texto legal, o "Ministério da Economia publicará os códigos da Classificação Nacional de Atividades Econômicas (CNAE) que se enquadram na definição de setor de eventos referida no §1º deste artigo."
+Vê-se, portanto, que - diferente do exposto pela decisão recorrida -a exigência de estar regular no Cadastur (Ministério da Economia) não encontra amparo no §2º, art.2º da Leinº14.148/21. Antes pelo contrário, a instituição de condicionante inexistente na Lei n. 14.148/21 importa em violação aos termos da lei instituidora do Perse, em especial ao §2º,art.2º da Lei nº14.148/21.
+Aduz, ainda, violação à legalidade tributária, à capacidade contributiva e à isonomia.
+Contrarrazões às fls. 246-260.
+Juízo positivo de admissibilidade às fls. 283-284.
+Parecer do MPF, às fls. 313-315, pelo não conhecimento do recurso.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recorrente deixou de impugnar os fundamentos do acórdão recorrido à fl. 179, a saber:
+Não cabe, nesse contexto, a invocação do princípio da isonomia, uma vez que, em rigor, as atividades desenvolvidas pelo impetrante não são idênticas àquelas típicas de turismo, sendo equiparadas apenas por forçade lei, desde que atendida a condição do prévio cadastramento no Ministério do Turismo.
+Ademais, a exigência feita pela inciso IV do artigo 2º da Lei nº14.148, de 2021, de que poderiam beneficiar-se do "Perse" as pessoas jurídicas que exercessem a atividade de prestação de serviços turísticos, conforme o art. 21 da Lei nº 11.771, de 17 de setembro de2008 é não apenas razoável, mas necessária, sob pena de não poder ser calculado o impacto fiscal do referido programa, já que, como dito, as atividades do impetrante não são atividades típicas da "cadeia produtiva do turismo".
+De observar, por relevante, que se não fosse exigido o prévio cadastro no Ministério do Turismo dos não exercentes de atividades típicas da"cadeia produtiva do turismo", todos aqueles que iniciassem as atividades equiparadas a essas, depois da publicação da Lei nº 14.148, de 2021, poderiam indevidamente aproveitar-se dos benefícios de um programa (o"Perse"), a despeito de que tal programa se tenha destinado exclusivamente a mitigar os efeitos sofridos por aqueles que tiveram "perdas oriundas do estadode calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 demarço de 2020", como esclarece o artigo 2º da referida lei
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese/ao caso a Súmula 283/STF.
+Ademais, o tribunal de origem consignou à fl. 178 (com grifo no original):
+Como se vê, merece confirmação a sentença. Acrescente-se que não há qualquer excesso na Portaria ME nº 7.163, de 2021, ao tratar do registro no CADASTUR, pois nessa parte a portaria atua nos estritos limites do regulamento e apenas explicita o que é uma obrigação há anos estabelecida pela lei.
+Assim, consideradas em conjunto as leis nºs 14.148, de 2021 e11.771, de 2008, e a Portaria ME nº 7.163, de 2021, conclui-se que o impetrante, por não cadastrado até a data da publicação da primeira lei no Ministério do Turismo, não se enquadra como beneficiário do Programa Emergencial de Retomada do Setor de Eventos ("Perse").
+Como se observa, a controvérsia foi dirimida com base na interpretação da Portaria ME n. 7.163/2021, contudo o referido ato normativo não se enquadra no conceito de lei federal, sendo meramente reflexa a vulneração aos dispositivos legais indicados pela parte recorrente.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. PROGRAMA EMERGENCIAL DE RECUPERAÇÃO DO SETOR DE EVENTOS. PERSE. EXIGÊNCIA DE INSCRIÇÃO PRÉVIA NO CADASTUR. PORTARIA-ME N. 7.163/2021. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. SÚMULA N. 518/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 100, I, DO CTN. SÚMULA N. 211/STJ. ARTS. 97 DO CTN. REPRODUÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula n. 518 do Superior Tribunal de Justiça.
+IV - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+V - A jurisprudência desta Corte também é pacífica no sentido de que análise da violação do art. 97 do Código Tributário Nacional, por reproduzir princípios encartados em normas da Constituição da República, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+VI - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 2.097.533/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/3/2024, DJe de 22/3/2024, grifo nosso.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. EXIGÊNCIA DE INSCRIÇÃO PRÉVIA NO CADASTUR. PORTARIA-ME N. 7.163/2021. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
