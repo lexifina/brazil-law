@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  agravo  interposto  pelo  SINDICATO  DOS  POLICIAIS  FEDERAIS  NO  ESTADO  DO  PARANÁ  contra  decisão  do  TRIBUNAL  REGIONAL  FEDERAL  DA  4ª  REGIÃO  que  inadmitiu  recurso  especial  dirigido  contra  o  acórdão  prolatado  nos  autos  da  Apelação  Cível  n.  5075166-86.2019.4.04.7000,  assim  ementado  (fls.  208-220):
+ADMINISTRATIVO. SERVIDOR. FÉRIAS. REGIÃO DE FRONTEIRA. INDENIZAÇÃO. ARTIGO 2º, § 2º, DA LEI N.º 12.855/2013. ART. 102, INCISOS II A XI, DA LEI Nº 8.112, DE 1990. 1. O artigo 2º, § 2º, da Lei n.º 12.855/2013, dispõe que o pagamento da indenização de fronteira não será devido nos dias em que não houver prestação de trabalho pelo servidor, inclusive nas hipóteses previstas no art. 97 e nos incisos II a XI do art. 102 da Lei nº 8.112, de 1990. 2. Não se cogita de silêncio eloquente da lei, a preservar a indenização durante as férias, porquanto a partícula "inclusive" empregada pelo legislador leva à conclusão de que o legislador pretendeu destacar alguns casos em que também não haveria prestação de trabalho, não se tratando de rol exaustivo de hipóteses. 3. Não havendo prestação de trabalho pelo servidor durante as férias, não há direito ao pagamento da indenização de fronteira por expressa previsão legal excludente.
+Nas razões do apelo nobre, interposto com base na alínea a do permissivo constitucional, a parte recorrente alega ofensa ao art. 2º, § 2º, da Lei n. 12.855/2013, c.c. o art. 102, I, da Lei n. 8.112/1990, ao fundamento de que é devido o pagamento da indenização pelo exercício de atividade em localidades estratégicas prevista na Lei n. 12.855/2013, mesmo durante o período em que o servidor usufruir de férias, visto que se trata de período de efetivo exercício e tendo em vista a intenção do legislador ordinário de excluir tal período das hipóteses em que não é devido o pagamento da referida indenização (fls. 277-246).
+Foram apresentadas contrarrazões (fls. 253-263).
+O recurso especial não foi admitido (fls. 266-273).
+O agravo em recurso especial foi interposto às fls. 282-290.
+Contraminuta a fls. 301-308.
+É o relatório. Decido.
+Diante da suficiente impugnação do fundamento da decisão de inadmissibilidade e considerando as relevantes alegações formuladas pelo agravante, impõe-se a conversão do presente agravo em recurso especial, viabilizando-se, assim, um melhor exame da controvérsia em debate, sem prejuízo de nova e oportuna análise dos requisitos de admissibilidade recursal.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, CONHEÇO ao agravo para determinar a sua autuação como recurso especial.
+À Coordenadoria para providências para as providências de estilo.
+Após, vista ao Ministério Público Federal para parecer.
+Publique-se.  Intimem-se.
+EMENTA
+  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  SERVIDOR  PÚBLICO  FEDERAL.  INDENIZAÇÃO  PELO  EXERCÍCIO  DE  ATIVIDADE  EM  LOCALIDADES  ESTRATÉGICAS  DURANTE  O  PERÍODO  DE  FÉRAIS.  ALEGADA  OFENSA  AO  ART.  2º,  §  2º,  DA  LEI  N.  12.855/2013  C.C  ART.  102,  I,  DA  LEI  N.  8.112/1990.  NECESSIDADE  DE  MELHOR  APRECIAÇÃO  DA  TESE  JURÍDICA  CONTROVERTIDA.  AGRAVO  CONHECIDO  PARA  DETERMINAR  SUA  AUTUAÇÃO  COMO  RECURSO  ESPECIAL.
