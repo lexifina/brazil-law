@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 526-527):
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIMES MILITARES. DESACATO E RESISTÊNCIA. TESES DEFENSIVAS NÃO CONHECIDAS. DESCABIMENTO DE REITERAÇÃO DAS RAZÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA MILITAR. CRIMES PRATICADOS POR MILITAR INATIVO CONTRA MILITARES NO EXERCÍCIO DA FUNÇÃO. PLEITO DE RECONHECIMENTO DA PRESCRIÇÃO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sublinhe-se que as teses defensivas relativas à suposta ocorrência de abordagem ilegal, consunção entre os crimes, incidência da circunstância atenuante em razão da idade do agente, bem como a alegação de suposta existência de dissídio jurisprudencial, não foram conhecidas pela decisão agravada. Assim, não cabe ao agravante insistir no mérito de tais questões, pois sequer ultrapassaram o juízo de admissibilidade.
+2. Quanto à parte conhecida do recurso especial, restou consignado em monocrática que, ainda que militar inativo, o recorrente conserva as responsabilidades e prerrogativas do posto para efeito da aplicação da lei penal militar, quando pratica ou contra ele é praticado crime militar, nos termos do art. 13 do Código Penal Militar - CPM. No caso concreto, justifica-se a competência da Justiça Militar, visto que se trata de crime praticado por militar inativo contra militares em função da natureza militar ou no desempenho de serviço de preservação da ordem pública, ainda que fora do local sujeito à administração militar, conforme art. 9º, III, "d", do diploma especializado.
+3. Lado outro, diversamente do aduzido pela defesa, nos termos da jurisprudência desta Corte e do Supremo Tribunal Federal - STF, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta. É dizer, mesmo antes da Lei n. 14.688/2023, que alterou a redação do inciso III do § 5º do art. 125 do CPM, já se entendia que o termo "sentença condenatória" compreendia também o pronunciamento jurisdicional em segunda instância, visto que não há distinção de natureza que justifique entendimento diverso. Dessa forma, restou afastada a tese de ocorrência da prescrição no caso concreto, visto que não ultrapassado, entre as causas interruptivas, o lapso temporal necessário para tanto. Precedentes.
+4. Agravo regimental desprovido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 5º, II e XL e 129, I, da CF e aduz que há repercussão geral da matéria tratada.
+Alega que o acórdão que confirma ou diminui a pena imposta na sentença condenatória não interrompe a prescrição, pois, conforme o art. 117, IV, do Código Penal, a prescrição interrompe-se pela publicação da sentença ou acórdão condenatório recorrível.
+Consigna que (fls. 549-550):
+Nos termos do artigo 125, parágrafo primeiro, do Código Penal Militar, sobrevindo sentença condenatória, de que somente o réu, aqui recorreu, a prescrição da pretensão punitiva vem regulada pela pena imposta, no caso dos autos, 7 meses e 6 dias de detenção para cada delito.
+Publicada ANTES da alteração promovida pela Lei Federal nº 14.688/2023, a sentença condenatória era considerada marco interruptivo da prescrição, o Acórdão não, aplicável o prazo prescricional de 2 anos para cada pena considerada individualmente (parágrafo terceiro do artigo 125 do Código Penal Militar).
+Aduz haver violação do princípio acusatório, porquanto o parecer da Procuradoria Geral da República foi no sentido de reconhecer a prescrição, não podendo o Poder Judiciário decidir diversamente.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 570-575.
+É o relatório.
+Verifica-se que o presente recurso foi interposto contra acórdão do STJ que concluiu pela não ocorrência da prescrição, por entender que, mesmo no Código Penal Militar, já se considerava, antes do advento da Lei n. 14.688/2023, o acórdão condenatório como marco interruptivo da prescrição.
+Ao assim decidir, constata-se que esta Corte Superior de Justiça acompanhou a jurisprudência do Supremo Tribunal Federal, que é firme no sentido de considerar o acórdão confirmatório da condenação como causa interruptiva da prescrição, não havendo restrição à aplicação a crimes militares.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE ABANDONO DE POSTO E PECULATO CULPOSO. CRIME MILITAR. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. ACÓRDÃO CONDENATÓRIO. MARCO INTERRUPTIVO CARACTERIZADO.
+1. Ato coator parametrizado com a tese fixada pelo Plenário desta Suprema Corte no sentido de que  n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta (HC 176.473, Rel. Min. Alexandre de Moraes, DJe 10.9.2020).
+2. Agravo regimental conhecido e não provido.
+(HC n. 216.790-AgR, relatora Ministra Rosa Weber, Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL MILITAR. MARCO INTERRUPTIVO DA PRESCRIÇÃO: ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA. INOCORRÊNCIA DE PRESCRIÇÃO. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(HC n. 207.473-AgR, relatora Ministra Cármen Lúcia, Primeira Turma, julgado em 29/11/2021, DJe de 3/12/2021.)
+Desse modo, estando o acórdão recorrido na mesma direção da jurisprudência firmada pela Suprema Corte, é impossível a admissão desta insurgência.
+Ante o exposto, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL E PROCESSUAL PENAL. CRIME MILITAR. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO INADMITIDO.
