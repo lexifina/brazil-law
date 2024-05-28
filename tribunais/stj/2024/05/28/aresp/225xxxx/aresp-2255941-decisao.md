@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual SEXTANTE REPAROS NAVAIS LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 711/714):
+REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. OPERAÇÕES DE EXPORTAÇÃO. SONEGAÇÃO. SANÇÃO PECUNIÁRIA. POSSIBILIDADE. PREVISÃO EXPRESSA. VALOR DA MULTA. OBEDIÊNCIA AOS LIMITES PREVISTOS. DISCRICIONARIEDADE ADMINISTRATIVA. AUSÊNCIA DE ILEGALIDADE. REMESSA NECESSÁRIA E RECURSO PROVIDOS.
+1. Trata-se de remessa necessária e de apelação interposta pelo Embargado em face da sentença que julgou parcialmente procedentes os embargos à execução fiscal para determinar o prosseguimento do processo executivo no percentual de 5% (cinco por cento) a incidir sobre a diferença do valor originário do débito e o montante depositado sobre o contrato.
+2. A certidão de dívida ativa decorre da aplicação de sanção pecuniária com fundamento nos arts. 3º e 6º do Decreto nº 23.258/33, não tendo a autuada logrado êxito em demonstrar a ocorrência de ilegalidade no procedimento fiscalizatório, tampouco a inocorrência da sonegação, devendo prevalecera presunção de veracidade e legitimidade dos atos administrativos, uma vez que cabia ao particular produzir prova suficiente a ensejar sua relativização, ônus do qual não se desincumbiu.
+3. A multa foi aplicada no percentual de 100% (cem por cento) da quantia das coberturas sonegadas nas operações de exportação, não se constatando o alegado caráter confiscatório, uma vez que não cabe ao Judiciário ingressar no mérito do ato administrativo para, substituindo-se ao juízo discricionário da Administração Pública, definir qual deve ser o valor correto aplicável, notadamente quando o Magistrado não detém todos os conhecimentos técnicos necessários para aquilatar a gravidade do fato praticado, dadas as nuances atinentes à atividade envolvida, qual seja, a política cambial.
+4. Remessa necessária e apelação providas.
+Os embargos de declaração opostos foram improvidos (fls. 760/762).
+Nas razões de seu recurso, a parte recorrente alega violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC), argumentando, em síntese, que o acórdão recorrido foi omisso quanto à prova de que o depósito foi efetuado no Brasil, o que afasta a sonegação no exterior, bem como que a multa aplicada não atendeu aos regramentos legais na aplicação do percentual.
+Requer que seja anulado o acórdão dos embargos de declaração.
+A parte adversa apresentou contrarrazões (fls. 793/793).
+O recurso foi inadmitido na origem (fls. 800/801).
+É o relatório.
+No que importa à controvérsia de que trata o recurso especial, confira-se o seguinte trecho do acórdão recorrido (fl. 712):
+No caso, a Apelada não logrou êxito em demonstrar a ocorrência de ilegalidade no procedimento fiscalizatório, tampouco a inocorrência da sonegação, devendo prevalecer a presunção de veracidade e legitimidade dos atos administrativos, uma vez que cabia ao particular produzir prova suficiente a ensejar sua relativização, ônus do qual não se desincumbiu.
+A parte recorrente opôs embargos de declaração a fim de provocar o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO a se manifestar sobre a inexistência de valores no exterior, nestes termos (fl. 722):
+Ocorre que o fundamento basilar dos Embargos à Execução, bem como a sentença, foi justamente a existência de prova documental, anexada nas fls. 551/558. Trata-se da resposta ao ofício judicial endereçado à PETROBRAS, que informou o pagamento em conta corrente nacional, em banco localizado no Brasil, e não no exterior, fazendo desaparecer a tipificação da sanção aplicada (manter valores no exterior). Em outras palavras, os valores não podiam ser mantidos no exterior, já que foram depositados no Brasil. E a Embargante não tinha como fechar os contratos de câmbio de exportação pois os valores não foram depositados no exterior.
+Entretanto, o Tribunal a quo negou provimento ao recurso integrativo, sem apreciar o questionamento a ele feito, conforme o seguinte trecho (fl. 760):
+Examinada a petição dos embargos de declaração, constata-se que nela não se contempla nenhuma das hipóteses de seu cabimento, insertas nos incisos do art. 1.022 do CPC/15. Desse modo, não assiste razão à Embargante, pois seu recurso visa, tão somente, impugnar o conteúdo da decisão e o posicionamento adotado.
+Verifico a existência de omissão no julgado.
+O acolhimento da pretensão recursal é devido ante a ocorrência de violação ao art. 1.022 do Código de Processo Civil.
+Os autos devem retornar à origem para que seja sanado o vício apontado nos embargos de declaração por meio de novo julgamento do recurso, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimem-se.
+ EMENTA
