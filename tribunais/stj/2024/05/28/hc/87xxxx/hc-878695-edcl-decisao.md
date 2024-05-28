@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão, de minha lavra, que indeferiu liminarmente o habeas corpus impetrado em favor de Gleidison Fernando da Silva Monteiro, nos termos sintetizados na seguinte ementa (fl. 362 ):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. ROUBO DE CARGA AVALIADA EM R$ 16.000,00. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Writ indeferido liminarmente.
+Nesta via, o embargante reitera as alegações do habeas corpus, sustentando, ainda, que houve omissão da decisão impugnada na apreciação dos requisitos necessários para a manutenção da custódia preventiva, da aplicação de medidas cautelares alternativas e da concessão da prisão domiciliar.
+Defende que não foi observada a individualização da conduta dos acusados, a narrativa de desclassificação do crime de roubo para receptação, negativa de autoria e a possibilidade do Acordo de Não Persecução Penal em razão de a pena ser inferior a 4 anos de reclusão.
+Requer sejam os presentes embargos de declaração acolhidos para que possam ser sanados os vícios apontados e concedida a ordem nos termos da inicial do writ.
+Impugnação aos embargos de declaração apresentada pelo Ministério Público Federal (fl. 396).
+É o relatório.
+De fato, em relação às alegadas omissões quanto à prisão domiciliar, à desclassificação do crime, à negativa de autoria e ao Acordo de Não Persecução Penal, o embargante possui razão. Há pedido formulado nesse sentido na petição inicial sobre o qual a decisão não se pronunciou.
+Todavia, não verifiquei ilegalidade no acórdão combatido em relação às teses mencionadas capaz de modificar o decisum.
+Ocorre que, na via do habeas corpus, não há como dirimir as teses de negativa de autoria, de ausência de provas e de desclassificação do crime, pois isso demandaria o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal.
+Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (RHC n. 145.064/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/6/2021).
+Quanto à tese de possibilidade do Acordo de Não Persecução Penal, o Tribunal de origem não se manifestou a respeito, razão pela qual não se mostra viável a apreciação de tal questão diretamente por esta Corte Superior, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+No que diz respeito à concessão de prisão domiciliar, o embargante, de acordo com as instâncias ordinárias, não comprovou que é o único responsável pelo filho menor de 12 anos de idade. Desse modo, vê-se que o decidido pelo Tribunal a quo não divergiu da jurisprudência desta Corte no sentido de que a prisão domiciliar no caso do homem com filho de até 12 anos incompletos, não possui caráter absoluto ou automático, podendo o Magistrado conceder ou não o benefício, após a análise, no caso concreto, da sua adequação. Ou seja, além da observância dos dispositivos legais, faz-se necessária a demonstração de que o pai seja imprescindível aos cuidados com o filho menor (AgRg no RHC n. 161.882/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/3/2022).
+Quanto ao mais, não obstante a opinião do embargante, ressalto ser incabível a oposição dos embargos de declaração para a rediscussão das teses jurídicas analisadas e por mim aplicadas na decisão combatida.
+Na espécie, tenho que inexistentes as omissões alegadas.
+Nesse contexto, verifica-se que o embargante, na verdade, não se conforma com a conclusão alcançada, buscando rediscutir, com intuito infringente, questões já devidamente enfrentadas e decididas, providência incompatível com a via eleita.
+Como é cediço, o descontentamento com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que não se prestam para rediscutir a lide, por mais que a parte sustente insatisfação com as respostas dadas.
+Em razão disso, acolho em parte os presentes embargos de declaração apenas para sanar as omissões aqui analisadas, sem atribuir-lhes efeitos modificativos.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ALEGAÇÃO DE OMISSÃO NA DECISÃO OBJURGADA. NEGATIVA DE AUTORIA. DESCLASSIFICAÇÃO DO CRIME. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. ACORDO DE NÃO PERSECUÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. PRISÃO DOMICILIAR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. OMISSÃO SANADA, SEM EFEITOS MODIFICATIVOS.
+Embargos de declaração acolhidos em parte, apenas para sanar as omissões aqui analisadas, sem atribuir-lhes efeitos modificativos.
