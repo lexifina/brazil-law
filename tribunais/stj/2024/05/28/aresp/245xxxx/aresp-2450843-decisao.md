@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por VALDIRA EMILIA DE CEZARO contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 506):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. TELEFONIA. RECUPERAÇÃO JUDICIAL. O CRÉDITO EM QUESTÃO É DE NATUREZA CONCURSAL, TODAVIA, SOB À ÓTICA DAS ORIENTAÇÕES CONSTANTES NO AVISO Nº 2018 DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO E NO OFÍCIO -CIRCULAR Nº 042/2018 DO TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, VIÁVEL O LEVANTAMENTO DOS VALORES BLOQUEADO E DEPOSITADO EM JUÍZO.
+UNÂNIME. RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 575-578).
+Interposto Recurso Especial pela parte autora, este foi provido, com o fim de reconhecer a violação do art. 1.022 do CPC/2015, determinando ao Tribunal de origem que realizasse novo julgamento dos embargos de declaração.
+Julgados os embargos, estes foram acolhidos, ficando assim ementados (e-STJ, fl. 606):
+EMBARGOS DE DECLARAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. DETERMINAÇÃO DE REJULGAMENTO PELO STJ. OMISSÃO. FASE DE CUMPRIMENTO DE SENTENÇA. GRUPO EMPRESARIAL EM RECUPERAÇÃO JUDICIAL. PEDIDO DE ALVARÁ EM FAVOR DOS CREDORES. IMPOSSIBILIDADE. AUSÊNCIA DE TRÂNSITO EM JULGADO DA IMPUGNAÇÃO. VALOR INCONTROVERSO.
+De acordo com as diretrizes emanadas do Juízo da Recuperação Judicial do Grupo empresarial em questão, há a possibilidade de liberação de alvará em favor do credor, quando preenchidos dois requisitos.
+São eles: I) realização de depósito judicial ou bloqueio pela OI S/A em data anterior a 21.06.2016; II) configuração de alguma das seguintes situações: (a) depósito feito com a expressa finalidade de pagamento pela OI S/A antes de 21/06/2016; (b) trânsito em julgado de embargos à execução ou da impugnação ao cumprimento de sentença antes de 21/06/2016; (c) preclusão do incidente de impugnação ao cumprimento de sentença antes de 21/06/2016.
+No caso sub judice, ocorrido o trânsito em julgado da impugnação ao cumprimento de sentença posteriormente ao processamento da recuperação judicial, não restaram preenchidos os requisitos para o levantamento do valor bloqueado judicialmente, que deve ser devolvido à empresa, para que os créditos sejam pagos na forma do plano de recuperação já homologado.
+EM DETERMINAÇÃO DE REJULGAMENTO PELA SUPERIOR INSTÂNCIA, DEVEM SER ACOLHIDOS OS EMBARGOS DE DECLARAÇÃO.
+Novos embargos opostos, foram rejeitados (e-STJ, fls. 1.036-1.041).
+Nas razões recursais a parte recorrente alegou violação ao art. 1.022, I, do CPC, sustentando negativa de prestação jurisdicional ao argumento de existência de entendimento contraditório quanto a cumulatividade, ou não, das diretrizes para levantamento de valores, oriundas do Agravo de Instrumento nº 0034576-58.8.19.0000, do TJRJ.
+Contrarrazões às fls. 1.062-1.083 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+Consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Imperativo destacar que, no julgamento dos embargos de declaração, expressamente foi enfrentada a questão suscitada pela parte recorrente, ficando esclarecido que (e-STJ, fls. 1.038-1.040):
+Não há falar em contradição na decisão recorrida. Na verdade, o embargante busca a reversão do entendimento combatido para adequá-lo melhor aos seus interesses.
+No caso em comento, a decisão corrobora com a jurisprudência recente e dominante deste Tribunal de Justiça, não havendo, portanto, equívoco quanto ao entendimento esposado, vejamos:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. TRÂNSITOEMJULGADODAIMPUNAÇÃOAO CUMPRIMENTO DE SENTENÇA POSTERIOR A 21.06.2016. HABILITAÇÃO NO JUÍZO RECUPERACIONAL. Consoante se verifica do andamento processual, inexiste quantia reconhecida como incontroversa, antes de 21/06/2016, pendente deliberação em favor da parte autora/recorrente. Caso em que, após a companhia demandada ter reconhecido o valor que entendia devido, tal quantia foi liberada em favor da parte exequente, conforme alvará expedido em março de 2014. Assim, considerando que o crédito dos agravantes foi constituído anteriormente a 21/06/2016, e que a decisão final da impugnação ao cumprimento de sentença não transitou em julgado antes da referida data, devem os credores habilitar-se na recuperação judicial, a fim de que seu crédito seja pago na forma do plano aprovado.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+(Agravo de Instrumento, Nº 51342778620228217000, Décima Segunda Câmara Cível, Tribunal de Justiça do RS, Relator: Umberto Guaspari Sudbrack,Julgadoem: 15-12-2022). Grifei e sublinhei.
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. AMORTIZAÇÃO ELIBERAÇÃODEVALORESAOS CREDORES. POSSIBILIDADE. Nos termos das orientações oriundas do juízo da recuperação judicial (ofício 249/2018/OF),os valores depositados antes do termo inicial da recuperação, 20/06/2016, poderão ser liberados aos credores nas hipóteses de terem sido depositados com a finalidade expressa para pagamento ou que tenha a decisão que julgou a impugnação transitada em julgado. Entendimento mantido quando do julgamento do AI Nº 0034576-58.2016.8.19.0000 pelo TJ/RJ, bem como após a homologação do plano de recuperação judicial. Caso concreto em que os valores foram depositados antes de 20/06/2016, tendo a sentença da impugnação à fase de cumprimento de sentença transitado em julgado previamente à referida data, o que permite a liberação dos valores devidos aos credores, mostrando-se descabida a pretensão de levantamento dos valores pela ré. Precedentes jurisprudenciais.
+AGRAVO DE INSTRUMENTO DESPROVIDO. (Agravo de Instrumento, Nº 50747760720228217000, Décima Segunda Câmara Cível, Tribunal de Justiça do RS, Relator: Pedro Luiz Pozza, Julgado em: 12-05-2022). Grifei e sublinhei.
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. RECUPERAÇÃO JUDICIAL. LIBERAÇÃODEVALORES.
+Considerando que o bloqueio de valores e o trânsito em julgado da impugnação ao cumprimento de sentença ocorreram anteriormente à data do deferimento da recuperação judicial da agravada, mostra-se cabível a liberação dos valores em favor do credor.
+AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.(Agravo de Instrumento, Nº 70083899229, Décima Primeira Câmara Cível, Tribunal de Justiça do RS, Relator: Antônio Maria Rodrigues de Freitas Iserhard, Julgadoem: 30-09-2020).
+Grifei e sublinhei.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da parte insurgente, não se pode negar ter havido, por parte do Tribunal, efetivo enfrentamento e resposta ao ponto suscitado.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 284/STF E 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+ ..
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. Agravo interno não provido. (AgInt no AREsp 1.781.868/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Assim, estando devidamente analisada e discutida a questão suscitada, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação ao referido dispositivo da legislação processual.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. TELEFONIA. RECUPERAÇÃO JUDICIAL. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
