@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOSÉ ALVAREZ GARCIA FILHO, com fundamento no artigo 105, inciso III, alíneas "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa à negativa de cobertura, por parte da Unimed do Estado de São Paulo - Federação Estadual das Cooperativas Médicas, à realização de cirurgia robótica para o tratamento de câncer.
+O julgado deu parcial provimento ao recurso de apelação da recorrente nos termos da seguinte ementa (fls. 693-694):
+APELAÇÃO. PLANO DE SAÚDE. AÇÃO COMINATÓRIA C/C INDENIZATÓRIA.
+Autor portador de cânceres (garganta e próstata) em estágios avançados, com indicação de intervenção cirúrgica em dois tempos, com assistência robótica. Negativa de cobertura parcial, sob alegação de que a assistência robótica não está prevista no rol de procedimentos da ANS e no contrato. Abusividade. Violação da boa-fé objetiva. Código de Defesa do Consumidor. Proteção ao bem maior do segurado: a vida. Existência de indicação fundamentada do médico assistente para realização de intervenção cirúrgica com auxílio robótico. Exegese dos verbetes sumulares de números 95, 100, 102, deste Sodalício, e 608 do C. STJ. Dano moral inexistente.
+Descumprimento contratual que, conquanto cause aborrecimento, é insuscetível de provocar sofrimento suficiente a justificar a condenação buscada. Inaplicabilidade da multa por litigância de má-fé, eis que não configurada qualquer hipótese prevista no artigo 80 do CPC. Sentença reformada em parte. Recurso parcialmente provido.
+Sem embargos de declaração.
+No presente recurso especial, aduz, no mérito, que o acórdão estadual contrariou as disposições contidas nos artigos 186, 187 e 927 do Código Civil e 80 do Código de Processo Civil.
+Aduz, ainda, que o "acórdão entendeu que o descumprimento do contrato, no caso em comento não autorizaria a condenação em danos morais, haja vista que em sua ótica, trata-se de mero dissabor, não tendo o recorrente comprovado a ocorrência do dano moral" (fl. 726).
+Sustenta, outrossim, que "o recorrente demonstrou, cabalmente que, não obstante a existência de Súmula sobre o tema - inadmissibilidade de negativa de cobertura contratual sob alegação de inexistência de previsão no rol da ANS - o recorrido assume posição contrária à orientação sumulada valendo-se de alegações que carecem de qualquer fundamento fático ou jurídico para sustentar sua pretensão recursal, pelo que sua postura deve ser considerada abuso do poder recursal" (fl. 728).
+Sustenta, ainda, litigância de má-fé, uma vez que a operadora alegou restrição contratual para autorizar o procedimento, contudo, faltou com a verdade e deixou de comprovar a cláusula contratual da suposta exclusão.
+Apresentadas as contrarrazões (fls. 733-735), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 736-737).
+É, no essencial, o relatório.
+Cinge-se a controvérsia à obrigatoriedade do pagamento de indenização, por parte da Unimed do Estado de São Paulo - Federação Estadual das Cooperativas Médicas, em razão da negativa de cobertura à realização de cirurgia robótica para o tratamento de câncer .
+Com relação ao tema, o Tribunal de origem manifestou-se nos seguintes termos (fls. 710-711):
+Em relação à insurgência da ré para o afastamento da condenação por danos morais, razão lhe assiste.
+Não se discute que a negativa de cobertura e de custeio da cirurgia, baseada no contrato firmado entre as partes, tenha causado dissabores ao autor, mas não há provas de que seu quadro clínico tenha se agravado em razão deles; o procedimento pertinente foi realizado na data agendada, mesmo que às suas expensas, e inexiste comprovação de que esse valor tenha comprometido o seu orçamento, ou trazido problemas à sua subsistência ou a dos seus.
+De mais a mais, de se ressaltar o quanto desenhado na r. decisão de fls. 576/578, uma vez que o autor tinha ciência da negativa de cobertura da intervenção pelo menos desde 21/06/2021 (fl. 585), e somente peticionou nos autos, com pedido de tutela de urgência, aos 7/07/2021. Assim, eventuais sentimentos experimentados quando da negativa mencionada, não caracterizam a dor moral grave que justifica uma condenação pecuniária com caráter indenizatório.
+Como se pode constatar, não há qualquer indicação no acórdão recorrido de que a conduta da operadora, embora indevida, tenha agravado a situação de aflição psicológica e de angústia experimentada pelo recorrente, ultrapassando o mero inadimplemento contratual, ou ainda de que a recorrente tenha comprometido sua subsistência, de modo a autorizar a presunção do dano moral.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022).
+No mesmo sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PEDIDO DE TRATAMENTO DE INTERNAÇÃO DOMICILIAR (HOME CARE) E FORNECIMENTO DE MEDICAMENTOS. DANO MORAL NÃO CONFIGURADO. MERO INADIMPLEMENTO CONTRATUAL. AGRAVO NÃO PROVIDO.
+1. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral indenizável, que pressupõe ofensa anormal à personalidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.988.367/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MÉDICO. NEGATIVA DE COBERTURA. DANO MORAL. NÃO CONFIGURAÇÃO. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.922.960/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Assim, alterar as conclusões lançadas modificando a decisão proferida pelo Tribunal de origem, de modo a reconhecer a ocorrência do dano moral indenizável, como pretende a parte recorrente, demandaria necessário reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+No mesmo óbice incorre as alegações de que teria ocorrido litigância de má-fé, porquanto assentado no acórdão recorrido que "nenhuma das fórmulas elencadas no artigo 80 do CPC restou desnudada. A ré buscou o que acreditava ser direito seu dentro dos parâmetros legais e processuais, não tendo obrado com proceder temerário ou doloso" (fl. 715), de modo que a revisão demandaria incursão na seara fática.
+A título exemplificativo:
+2. Derruir as conclusões do Tribunal local, no sentido de aferir a ocorrência de excesso de execução e de afastar a caracterização da litigância de má-fé, demandaria reanálise do acervo fático-probatório dos autos. Incidência da Súmula 7/STJ.
+(AgInt no AREsp n. 2.178.800/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 5/10/2023.)
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias no que diz respeito à preclusão e à litigância de má-fé demandaria, necessariamente, a análise de fatos e provas dos autos, procedimento inviável no recurso especial em virtude do óbice da Súmula nº 7/STJ.
+(AgInt no AREsp n. 2.246.551/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/9/2023.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANO MORAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO .
