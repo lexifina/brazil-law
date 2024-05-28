@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED-RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 527):
+Agravo interno na apelação cível. Obrigação de fazer c/c indenizatória. Demandante menor de idade, diagnosticada com encefalopatia epilética, tendo se submetido à cirurgia de epilepsia em duas ocasiões, sem sucesso no controle adequado das crises. Sentença que julgou procedente o pedido e condenou a ré ao fornecimento do medicamento especificado na inicial. Decisão monocrática que negou provimento ao recurso da parte da ré. Agravo interno interposto pela parte ré, no qual reitera os mesmos argumentos suscitados no recurso de apelação. Pretensão que não merece prosperar. Prescrição de medicação a base de canabidiol. Prestador de serviços que não pode se desonerar da responsabilidade de permitir ao paciente o acesso aos tratamentos, procedimentos, e tudo o mais que se revele necessário à preservação ou recuperação de sua saúde. A exclusão da cobertura de determinado procedimento médico/hospitalar, quando essencial para garantia da saúde e vida do segurado, vulnera a fidelidade básica do contrato. Por não se tratar de fornecimento de medicamento, mas apenas de autorização para a importação, não se aplica o entendimento firmado no tema 106 do Superior Tribunal de Justiça, decorrente dos REsps. 1657156 e 1102457, julgados sob a sistemática de recursos repetitivos. Rol de procedimentos publicado pela ANS que constitui apenas uma referência básica de coberturas obrigatórias nos planos privados de assistência à saúde. Recorrente que não traz argumentos suficientes para alterar a decisão agravada. Improvimento do agravo interno.
+Rejeitados os embargos de declaração opostos (fls. 557-563).
+No recurso especial, a UNIMED alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 10, V e VI, §1, §4º da Lei 9.656/98; e nos artigos 188, I, 478 e 757 do CC/02.
+Foram oferecidas contrarrazões ao recurso especial (fls.698-702).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 704-711), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 745-749).
+Parecer do Ministério Público pelo não provimento do agravo (fls. 765-772).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Com efeito, observa-se que o Tribunal de origem, ao abordar a questão do dever de cobertura do medicamento, deixou de analisar a alegação de que, não se tratando de medicação assistida em ambiente hospitalar ou antineoplásica, o custeio deve ser afastado nos termos da lei específica (art. 10, VI, da Lei n. 9.656/1998 - Lei do Plano de Saúde).
+Verifica-se que a referida argumentação foi oportunamente suscitada pelo recorrente em embargos de declaração, nos seguintes termos (fls. 538-541):
+No mesmo sentido, também restou omisso v. acórdão, justamente diante da omissão relacionada à ausência de fundamentos para deixar de aplicar o artigo 10, V e VI da Lei nº 9.656/98e artigo 17, parágrafo único, V e VI da RN 465/2021 (Rol de Procedimentos atual vigente), à hipótese dos autos, porquanto tais dispositivos são expressos no sentido de permitir a exclusão do produto importado e domiciliar em questão.
+ ..
+Ainda, o v. acórdão ora embargado também restou foi omisso quanto a não aplicação do artigo 10, VI da Lei n. 9.656/98 à hipótese dos autos, sendo certo que autoriza, expressamente, a exclusão de cobertura para tratamento domiciliar em relação aos medicamentos.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022 do CPC e em face da questão suscitada na petição dos embargos, tenho como necessário o debate acerca da aplicação do art. 10, VI, da Lei n. 9.656/1998, que alegadamente veda o fornecimento de medicamento para tratamento domiciliar, não sendo antineoplásico o caso dos autos.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço do agravo para conhecer do recurso e dar-lhe provimento, a fim de que os autos retornem ao Tribunal estadual para que se pronuncie acerca do alegado nos embargos de declaração de fls. 534-541.
+Publique-se. Intimem-se.
+ EMENTA
