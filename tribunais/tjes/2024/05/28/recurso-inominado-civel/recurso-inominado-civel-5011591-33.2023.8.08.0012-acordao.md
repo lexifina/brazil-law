@@ -1,0 +1,68 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5011591-33.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EVERSON COSTA DE SOUZA
+RECORRIDO: KARINA CALCADOS LTDA e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5011591-33.2023.8.08.0012
+
+Recorrente:
+EVERSON COSTA DE SOUZA
+
+Recorrida: KARINA CALÇADOS LTDA, MACBOOT INDUSTRIA E COMERCIO DE CALCADOS LTDA
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte recorrente as benesses da gratuidade da Justiça, na forma do art. 98, do CPC.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE RESTITUIÇÃO DE VALOR C/C INDENIZAÇÃO DE DANO MORAL.
+ADUZ O AUTOR, EM SÍNTESE, QUE ADQUIRIU UMA BOTA JUNTO AS REQUERIDAS, NO VALOR DE R$329,99, E QUE APÓS DUAS SEMANAS DE USO O PRODUTO APRESENTOU DEFEITO. RELATA QUE PROCUROU AS REQUERIDAS PARA SOLUCIONAR O PROBLEMA, MAS NÃO OBTEVE ÊXITO. DIANTE DISSO, REQUER A RESTITUIÇÃO DO VALOR DESEMBOLSADO, BEM COMO O PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+SENTENÇA
+QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS PARA CONDENAR AS REQUERIDAS A RESTITUÍREM O VALOR DE R$329,99.
+RECURSO INOMINADO
+
+DA PARTE AUTORA PLEITEANDO
+
+A TOTAL PROCEDÊNCIA DO PEDIDO, NO TOCANTE AOS DANOS MORAIS, PARA FINS DE COMPELIR AS EMPRESAS REQUERIDAS A INDENIZAR O REQUERENTE EM QUANTIA NÃO INFERIOR A R$52.470,01(CINQUENTA E DOIS MIL QUATROCENTOS E SETENTA REAIS E UM CENTAVO);
+RECURSO CONHECIDO E IMPROVIDO
+. PARA COMPROVAR O DANO MORAL SOFRIDO, O AUTOR NÃO COLACIONOU AOS AUTOS PROVAS SUFICIENTES QUE CORROBOREM SUAS ALEGAÇÕES
+.
+INSTA FRISAR QUE PARA QUE HAJA A OBRIGAÇÃO DE INDENIZAR, É NECESSÁRIO QUE TENHA OCORRIDO FATO GRAVE ATENTATÓRIO À PERSONALIDADE E AOS ELEMENTOS ESSENCIAIS DA INDIVIDUALIDADE. É A DOR, A MÁGOA, A TRISTEZA INFLIGIDA INJUSTAMENTE A OUTREM QUE DEVERÃO SER RESSARCIDAS. EM CONTRAPARTIDA, O MERO DISSABOR, OU ABORRECIMENTO OU A SENSIBILIDADE ELEVADA A NÍVEIS ACIMA DOS NORMAIS NÃO CARACTERIZAM O DANO MORAL.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+,
+NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE AO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
