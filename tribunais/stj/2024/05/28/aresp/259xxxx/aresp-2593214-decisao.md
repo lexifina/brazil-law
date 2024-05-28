@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo de CAICO DA SILVA DOMINGUES contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJ no julgamento do Agravo de Execução Penal n. 0003734-79.2023.8.26.0154.
+Consta dos autos que foi reconhecida a falta disciplinar grave praticada pelo agravante, consistente na prática de crime doloso (apreensão de entorpecente), com a declaração da perda de 1/3 dos dias remidos, além da determinação de novo cálculo para o fim de progressão de regime (fls. 94/97).
+Agravo de execução interposto interposto pela defesa foi desprovido para manter a decisão recorrida (fl. 127/130). O acórdão ficou assim ementado:
+"AGRAVO EM EXECUÇÃO. Falta grave. Pretendida absolvição. Impossibilidade. Conduta típica. Autoria e materialidade bem delineadas pela prova coligida.
+Manutenção da perda de 1/3 dos dias remidos e interrupção dos lapsos para fins de progressão.
+DESPROVIMENTO" (fl. 128).
+Em sede de recurso especial (fls. 139/148), a defesa apontoa a violação ao art. 52 da Lei de Execução Penal - LEP, porque o agravante teve reconhecida em seu desfavor falta disciplinar com base em ato de terceiro.
+Aduz que "o simples fato de Ana Vitória ser sua visitante e ter sido ela a pessoa flagrada na tentativa de entrar com os entorpecentes no estabelecimento prisional, não comprova, por si só, o dolo de CAICO, sendo necessária a produção de outras provas que pudessem comprovar o seu envolvimento - o que não ocorreu" (fl. 145).
+Argumenta "que não resta dúvida de que as provas produzidas no Procedimento Investigativo Disciplinar apontam para a inocência do recorrente, não devendo ser reconhecida qualquer falta grave contra ele, já que ausente qualquer prova que demonstre a participação do executado na conduta apurada" (fls. 145/146), sendo irrazoável responsabilizar o apenado por comportamento autônomo de sua visitante.
+Assinala, ainda, que " o  magistrado competente para julgar se cometeu o crime de tráfico de drogas, que poderia ensejar uma falta grave, entendeu que ele não praticou este delito, e se o juízo competente entendeu que ele não praticou nenhum crime, o DEECRIM de São José do Rio Preto/SP, não pode reconhecer a falta grave do recorrente, porque ela depende, necessariamente, da existência de um crime de tráfico" (fl. 147).
+Requer, assim, a correta aplicação ao art. 52 da LEP, com o afastamento da falta grave aplicada ao recorrente.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO - MP (fls. 152/157).
+O recurso especial foi inadmitido no TJ em razão de: a) ausência de fundamentação necessária e b) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ ) (fls. 160/162).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 165/172).
+Contraminuta do Ministério Público (fls. 175/179).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 193/196).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao art. 52 da Lei de Execução Penal - LEP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO manteve a homologação da falta disciplinar grave nos seguintes termos do voto do relator (grifos nossos):
+"Por meio do procedimento investigatório disciplinar nº 13/2023, ficou comprovado que, aos 5/2/23, o agravante praticou falta grave prevista na LEP, art. 52, consistente na prática de crime doloso (apreensão de entorpecentes).
+CAICO negou a autoria, aduzindo não ter qualquer envolvimento com o ocorrido, porquanto nada solicitou à amásia.
+As Agentes Penitenciárias Natália e Mônica relataram, de forma uníssona, que durante o procedimento de revista no bodyscanner, constataram que Ana Vitória da Silva, cadastrada no rol de visitas como amásia, apresentava imagem suspeita na região da genitália. Ao ser informada de que seria encaminhada ao Setor de revista corporal, demonstrou exacerbado nervosismo. Após busca minuciosa em suas vestimentas, no forro da calcinha, foi encontrada a droga sintéticaK-4, equivalente a 150 porções.
+Indagada, disse ter comprado a peça do vestuário na porta da unidade prisional, sem saber da existência do estupefaciente, cuja oitiva se orientou nesse sentido.
+Prova mais do que suficiente, consubstanciada nas palavras das agentes penitenciárias, dignas de fé, não tendo sido produzida qualquer evidência que as desabonasse.
+Incrível a versão exculpatória de que a companheira levaria algo ilícito para o interior da Penitenciária sem que tivesse sido previamente solicitado pelo próprio agravante. Afinal, a maior prejudicada pelo fato foi ela, que responderá por tráfico de entorpecentes, conforme cópia da denúncia juntada pelo próprio (fls. 125/126) e, contrariamente ao sustentado pela defesa, não o beneficia o fato de não constar no polo passivo da mencionada incoativa, diante da independência de instâncias.
+Como já é de conhecimento, quem molda o rol de visitantes é o próprio agravante, de forma que tudo o que é levado pelos indicados é única e exclusivamente para si" (fls. 128/129).
+Extrai-se dos trechos acima que a responsabilidade do agravante pela prática da falta disciplinar se deu exclusivamente pela oitiva das agentes penitenciárias, que o indicaram como destinatário da droga apreendida com a sua companheira ao tentar ingressar no estabelecimento prisional com a droga.
+Entretanto, carece de razoabilidade a ilação do Tribunal de origem, segundo a qual, "Como já é de conhecimento, quem molda o rol de visitantes é o próprio agravante, de forma que tudo o que é levado pelos indicados é única e exclusivamente para si" (fl. 129), na medida em que tal afirmação não possui qualquer respaldo fático-probatório que evidencie a existência de indícios mínimos de unidade de desígnios entre o recorrente e sua companheira para a prática do ilícito.
+Sendo vedada a aplicação de sanção com base em responsabilidade objetiva, não há fundamentação idônea que permita o reconhecimento da falta grave pelo reeducando.
+Dessa forma, a orientação adotada no acórdão impugnado está em dissonância com a jurisprudência desta Corte, firmada no sentido de que " ..  em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/4/2017, DJe de 25/4/2017).
+No mesmo sentido :
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE IMPUTADA AO REEDUCANDO POR ATO DE TERCEIRO. IMPOSSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. AUSÊNCIA DE COMPROVAÇÃO DE QUE O PACIENTE TERIA CONCORRIDO PARA A CONDUTA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior entende que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada sua autoria, através de elementos concretos.
+2. In casu, não ficou provada a prática de ato material pelo paciente. O fato de ser sua genitora a remetente do SEDEX e a simples suspeita de que ele teria sido o solicitante do entorpecente não são suficientes para afirmar a prática da falta grave, especialmente ao se considerar que o reeducando sequer teve consigo a posse do material que lhe havia sido enviado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 740.321/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. SEDEX DESTINADO AO APENADO CONTENDO SUBSTÂNCIA ENTORPECENTE. AUSÊNCIA DE ELEMENTOS CONCRETOS A COMPROVAR A SOLICITAÇÃO PELO PACIENTE. ATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA LIMINARMENTE DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Depreende-se dos autos que o apenado era o destinatário da substância entorpecente conhecida como K4, enviada mediante Sedex supostamente por sua genitora, de maneira que eventual ilícito, no caso vertente, foi praticado por terceiro, atraindo a aplicação do princípio da intranscendência penal.
+2. Embora possam existir suspeitas de que o paciente tenha solicitado a remessa do material, via sedex, não foram apresentadas provas nesse sentido, de maneira que se mostra incabível o reconhecimento da falta grave.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 745.890/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CONHECIMENTO. FLAGRANTE ILEGALIDADE VERIFICADA DE PLANO SEM A NECESSIDADE DE REEXAME DE FATOS E PROVAS. EXECUÇÃO PENAL. FALTA GRAVE RECONHECIDA PELO TRIBUNAL A QUO. AUSÊNCIA DE ELEMENTOS CONCRETOS DE PARTICIPAÇÃO DO REEDUCANDO NO FATO ILÍCITO. ATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. PRECEDENTES DESTA CORTE SUPERIOR. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Agravo regimental improvido.(AgRg no HC n. 808.705/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+No caso, conquanto crível a existência de ajuste prévio entre o recorrente e sua companheira quanto ao envio de droga escondida na forro da calcinha da visitante, não houve a indicação concreta de indícios mínimos em relação a tal acordo, de maneira que a responsabilização do apenado foi operada por meio de mera ilação.
+Ante o exposto, conheço do agravo e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, dou-lhe provimento para afastar o reconhecimento da falta disciplinar grave e os seus consectários legais.
+Publique-se.
+Intimem-se.
+ EMENTA
