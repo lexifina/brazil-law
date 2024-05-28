@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. LITISPENDÊNCIA. PRECLUSÃO NÃO CONFIGURADA. TÍTULO EXECUTIVOS DIFERENTES. MESMO DIREITO. MAIOR ABRANGÊNCIA.
+1. A alegação de litispendência é cabível nos casos em que a impugnação refere-se a cumprimento de sentença coletiva, porquanto a fase executiva pode ser iniciada tanto de forma coletiva como também individualmente.
+2. Nos termos do art. 337, do CPC, o reconhecimento da litispendência ou da coisa julgada depende da verificação de tríplice identidade, ou seja, partes, causa de pedir e pedidos.
+3. A ação coletiva n. 0013136-95.2000.8.07.0001 e a ação coletiva n. 0004281-40.1994.8.07.0001 certificam o mesmo direito, concernente à reposição das perdas salariais oriundas do Plano Collor em oitenta e quatro inteiros e trinta e dois centésimos por cento (84,32%) relativa ao Índice de Preços ao Consumidor (IPC) de março de 1990, no período compreendido entre 1º.4.1990 e 23.7.1990. O título executivo formado na ação coletiva n. 0013136-95.2000.8.07.0001 é mais abrangente, pois contemplou outros percentuais de perdas remuneratórias, de forma que há litispendência e coisa julgada entre as liquidações individuais oriundas de ambas as ações coletivas em relação ao índice de oitenta e quatro inteiros e trinta e dois centésimos por cento (84,32%). (Acórdão 1707035, 07014426520228070018, Relator: HECTOR VALVERDE SANTANNA, 2ª Turma Cível, data de julgamento: 24/5/2023, publicado no DJE: 6/6/2023. Pág.:
+Sem Página Cadastrada.)
+4. Embora os títulos executivos sejam diferentes, acobertam o mesmo direito, sendo que um é mais abrangente que o outro, razão pela qual configurada a litispendência.
+5. Negou-se provimento ao recurso.
+Embargos de declaração rejeitados.
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 337, § 2º, e 1.022, II, do CPC/2015 e da Lei n. 12.016./2009, sustentando, além de negativa de prestação jurisdicional, "em que pese as ações proposta terem o Plano Collor como fato gerador de toda a celeuma, é inconteste que entre elas não há homogeneidade entre as causas de pedir e os pedidos, ou seja, não guardam identidade suficiente para ensejar o reconhecimento da litispendência, conforme veremos."
+Contrarrazões apresentadas.
+Passo a decidir.
+Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Em outra quadra, infirmar o entendimento da Corte de origem de que "resta configura a litispendência", a fim de acolher os argumentos da parte recorrente, encontra óbice na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
