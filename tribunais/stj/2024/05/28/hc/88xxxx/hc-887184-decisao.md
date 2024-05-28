@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor ARLON MAIA no qual se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região (Apelação n. 5002350-60.2020.4.04.7101/RS).
+Depreende-se dos autos que o paciente foi condenado, "por crime de tráfico transnacional de drogas (pouco mais de 190 quilos de maconha), à pena privativa de liberdade de 8 (oito) anos e 2 (dois) meses de reclusão, a ser cumprida em regime inicial fechado, e de 816 (oitocentos e dezesseis) dias-multa" - e-STJ fl. 33, grifei.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem dado parcial provimento ao apelo tão somente para reduzir as sanções para 7 anos e 7 meses de reclusão e 758 dias-multa, fixando, ainda, o regime semiaberto. Eis a ementa do aludido julgado (e-STJ fl. 46):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO TRANSNACIONAL DE DROGAS. MACONHA. EXPORTAÇÃO E TRANSPORTE. PRELIMINARES. COMPETÊNCIA. JUSTIÇA FEDERAL. DENÚNCIA APTA. AUTORIA. COMPROVAÇÃO. PERDA DE UMA CHANCE NÃO VERIFICADA. PENA-BASE. QUANTIDADE DE DROGA. ANTECEDENTES. REDUÇÃO DO INCREMENTO. TRÁFICO PRIVILEGIADO. DESCABIMENTO. REGIME INICIAL. SEMIABERTO.
+1. A origem estrangeira da droga e a competência da Justiça Federal restam evidenciadas pelo cotejo probatório trazido ao processo, além da quantidade de droga e a região onde houve a apreensão, indicando que o tráfico visava levar a droga para o Uruguai.
+2. É apta a inicial acusatória que apresenta narrativa congruente dos fatos, com indicação de autoria e materialidade, bem como adequação típica correspondente, possibilitando o exercício do contraditório e da ampla defesa.
+3. A mera alegação genérica de negativa de autoria e ausência de dolo não é suficiente para afastar a responsabilidade criminal, na medida em que as provas colhidas durante as investigações revelam a participação do réu na prática do crime de tráfico transnacional de drogas, não se desincumbindo a defesa, ademais, de produzir qualquer prova atinente às versões tecidas.
+4. Descabida a tese defensiva de perda de uma chance quando há profusão de provas vinculando o apelante ao crime pelo qual foi denunciado e a outros episódios também envolvendo tráfico transnacional de entorpecentes.
+5. A quantidade de droga apreendida (193 quilos de maconha) autoriza a exasperação da pena mínima em 1 (um) ano.
+6. Em virtude da existência de um único registro negativo mostra-se adequado o incremento de 6 (seis) meses na vetorial antecedentes.
+7. Redimensionada a pena privativa de liberdade, resta fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal.
+8. Apelação parcialmente provida.
+Opostos embargos infringentes, esses foram rejeitados.
+No Superior Tribunal de Justiça, sustenta a defesa que, consoante defendido no voto vencido que se buscou prevalecesse, inexistem provas suficientes para a condenação do paciente, asseverando "que a dúvida em relação à prova produzida, conforme exposto, deveria conduzir o resultado do caso, lógica e necessariamente, à ABSOLVIÇÃO do paciente pela incidência do princípio do in dubio pro reo" (e-STJ fl. 11).
+Busca, inclusive liminarmente, a absolvição do paciente.
+O pedido liminar foi indeferido.
+Informações prestadas às e-STJ fls. 68/74 e 75/78.
+O MPF, às e-STJ fls. 81/88, manifestou-se pelo não conhecimento do writ.
+É, em síntese, o relatório.
+A Corte de origem, após minudente apreciação da prova produzida, manteve a condenação do paciente, nos termos do voto condutor do acórdão prolatado por ocasião do julgamento dos embargos infringentes. Confira-se (e-STJ fl. 54):
+Analisadas as divergentes compreensões, com a vênia do entendimento em contrário, tenho que deve prevalecer o Voto vencedor, da Relatoria do Juiz Federal DANILO PEREIRA JUNIOR.
+Com efeito, a teor do art. 156 do Código de Processo Penal a prova da alegação incumbirá a quem a fizer. Assim, da mesma forma que incumbe à acusação provar a existência do fato e demonstrar sua autoria, é ônus da defesa demonstrar a verossimilhança das teses invocadas em seu favor e a ocorrência de fato impeditivo do jus puniendi.
+Na hipótese, de um lado, os elementos apresentados evidenciam a autoria delitiva. Conforme consignado, a conduta do Apelante já estava sendo acompanhada pela polícia que, dentro de sua atribuição investigativa, identificou um padrão de atuação no tráfico de drogas na região e, a partir dos diversos dados declinados na sentença e no Voto condutor transcritos, perfazem prova cabal da prática delitiva por ARLON MAIA. O fato de ser ou não o motorista do veículo que serviu como batedor daquele que transportava a droga não constitui elemento hábil para afastar sua responsabilização criminal, considerando que atuou ativamente para cometimento do crime.
+De outro, não foi trazida pela defesa nenhuma prova apta a desconstituir - ou ao menos fragilizar - o acervo acusatório; os argumentos apresentados não são capazes de infirmar a condenação decretada. Ao contrário, apresentam informações que foram provadas inverídicas.
+Ora, a simples negativa da prática delitiva dissociada do contexto probatório, por si só, não afasta a responsabilização criminal; quando aliada a informações comprovadamente inverídicas, prestadas em sede judicial, debilita a tese defensiva.
+Na mesma linha, destaca-se da manifestação do Parquet (e-STJ fls. 87/88):
+Como se vê, as provas evidenciam que o veículo locado pelo paciente - Logan, placa PZQ0583 - se deslocou, em direção ao Uruguai, sempre à frente do automóvel Kia Sorento, que estava carregado de 193 kg de maconha.
+Mais: a versão apresentada pelo réu em juízo, de que teria alugado o veículo para um amigo de nome Paulo Gonçalves de Mello revelou-se inverídica, porquanto o contrato de locação foi feito para uso próprio.
+Acrescente-se que, como salientou o juízo a quo, o paciente é investigado pelas autoridades policiais desde 2016, tendo sido identificado que adota o modus operandi de locação de veículos para serem conduzidos por ele ou por terceiros na função de "batedor" em transportes de grandes cargas de drogas.
+Por sua vez, ao ser questionado sobre a acusação, o paciente se limitou a considerá-la "um pouco forçada", deixando, portanto, de apresentar qualquer versão que o isentasse.
+Portanto, vê-se que a condenação está fundamentada em provas produzidas em juízo, não evidenciada, por outro lado, situação de flagrante ilegalidade que justifique a concessão da ordem a fim de absolver o paciente.
+No mais, a via estreita do habeas corpus, por não admitir dilação probatória, revela-se inadequada para o pleito ora em exame, não se revelando possível que se proceda a amplo reexame dos elementos probatórios . Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ART. 28 DA LEI DE DROGAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No tocante ao pleito de absolvição e desclassificação do delito de tráfico, cabe ressaltar que o habeas corpus não é a via adequada para apreciar tal pedido, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do habeas corpus caracterizado pelo rito célere e por não admitir dilação probatória.
+2. No caso dos autos, foi consignado que a quantidade considerável da droga apreendida, somada aos depoimentos dos policiais penais, apontam para a intenção do réu de comercializar o entorpecente apreendido dentro do estabelecimento prisional. Portanto, mister se faz a condenação do acusado nas penas do delito de tráfico de drogas, incidindo ainda a majorante do tráfico de drogas cometido em presídio, vez que, repita-se, o entorpecente foi apreendido dentro do estabelecimento penal de regime semiaberto desta cidade, local em que seria disseminado pelo réu.
+3. Assim, as instâncias ordinárias, com base no acervo probatório, firmaram compreensão no sentido da efetiva prática do crime de tráfico ilícito de entorpecentes pelo paciente. Dessa forma, e a inversão do julgado demandaria reexame do acervo fático-probatório, procedimento inviável na sede do mandamus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 824.207/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/6/2023, DJe de 14/6/2023.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
