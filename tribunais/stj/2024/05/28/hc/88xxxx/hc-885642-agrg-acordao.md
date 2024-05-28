@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE FURTO. ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. PACIENTE REINCIDENTE E QUE OSTENTA MAUS ANTECEDENTES. EXPRESSA DETERMINAÇÃO LEGAL. SÚMULA 269 DO STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena e seu regime e cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante ilegalidade.
+2. A Corte estadual justificou a manutenção do regime prisional do paciente no inicial fechado, devido à sua reincidência e à existência de circunstância judicial desfavorável (maus antecedentes), o que está expressamente previsto em lei, nos termos do art. 33, § 2º, alínea "c", e § 3º, do Código Penal, e em harmonia com a jurisprudência desta Corte de Justiça, nos termos do enunciado sumular n. 269, que assim dispõe: É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais. Precedentes.
+3. Nesse contexto, a pretensão formulada pelo impetrante encontra óbice na jurisprudência pacificada desta Corte Superior, e na legislação penal, sendo, portanto, manifestamente improcedente.
+4. Agravo regimental não provido.
+RELATÓRIO
+REGINALDO LEITE DIAS FERREIRA agrava regimentalmente contra decisão de minha relatoria, na qual não conheci do writ por ser substitutivo de recurso próprio; todavia, ao analisar os autos, concluí que a pretensão formulada pelo impetrante encontrava óbice na jurisprudência desta Corte Superior e na legislação penal sendo, portanto, manifestamente improcedente.
+Afirma a defesa do agravante contudo, que a aplicação de regime mais gravoso, implica também seriamente na questão da individualização da pena, sendo que o regime diferente do fechado, é suficiente para reprimir seus atos, pois o Agravante possui condições pessoais favoráveis (e-STJ, fl. 96).
+Pugna, por isso, pela reconsideração do decisum ou pela submissão do feito ao órgão Colegiado, para que seja fixado o regime inicial mais brando ao agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE FURTO. ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. PACIENTE REINCIDENTE E QUE OSTENTA MAUS ANTECEDENTES. EXPRESSA DETERMINAÇÃO LEGAL. SÚMULA 269 DO STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena e seu regime e cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante ilegalidade.
+2. A Corte estadual justificou a manutenção do regime prisional do paciente no inicial fechado, devido à sua reincidência e à existência de circunstância judicial desfavorável (maus antecedentes), o que está expressamente previsto em lei, nos termos do art. 33, § 2º, alínea "c", e § 3º, do Código Penal, e em harmonia com a jurisprudência desta Corte de Justiça, nos termos do enunciado sumular n. 269, que assim dispõe: É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais. Precedentes.
+3. Nesse contexto, a pretensão formulada pelo impetrante encontra óbice na jurisprudência pacificada desta Corte Superior, e na legislação penal, sendo, portanto, manifestamente improcedente.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar minha decisão, cuja conclusão mantenho por seus próprios fundamentos.
+Conforme relatado, buscava-se o abrandamento do regime prisional do paciente.
+Preliminarmente, ressaltei que a dosimetria da pena e seu regime de cumprimento estavam inseridos dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante ilegalidade.
+Para uma melhor compreensão da controvérsia, confira-se como a pena do paciente foi revisada pela Corte paulista (e-STJ fls. 32/33, grifei):
+ ..
+Inicialmente, corretamente exasperadas as penas-base em 1/6 por conta dos maus antecedentes. De fato, ostenta condenação no processo nº 0022113-10.2016.8.26.0576, por crime anterior (26.07.16) à prática do furto aqui apurado (27.08.16), com trânsito em julgado (26.04.2022) anterior à sentença do presente feito (01.06.22).
+Na segunda fase da dosimetria, bem agravadas as sanções em 1/6 pela reincidência, por condenação por furto no processo nº 0002555-57.2016.8.26.0154, cuja pena se extinguiu pelo cumprimento em 31.01.17.
+Na terceira etapa, à míngua de causas de aumento ou diminuição, tornaram-se as penas definitivas.
+Finalmente, correta a adoção do regime prisional fechado, sem substitutivas ou sursis, considerando os maus antecedentes e a reincidência específica do apelante, nos termos dos artigos 33, 44 e 77 do Código Penal.
+Consoante visto acima, não constatei nenhuma ilegalidade a ser sanada, pois a existência de circunstância judicial desfavorável (maus antecedentes) e a reincidência do paciente determinam a manutenção do regime mais gravoso, nos termos do art. 33, § 2º, alínea "c", e § 3º, do Código Penal, e da jurisprudência desta Corte de Justiça, nos termos do enunciado sumular n. 269, que assim dispõe:
+É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Ainda nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSOESPECIAL. RECEPTAÇÃO. REGIME SEMIABERTO. QUANTUM DE PENA. ART. 33, § 2º, ALÍNEA B, DO CP. DETRAÇÃO. IRRELEVÂNCIA. REGIME INICIAL SEMIABERTO. REINCIDÊNCIA. SÚMULA269 DOSTJ. INCIDÊNCIA.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Conforme a jurisprudência desta Corte Superior "Não viola o art. 387, § 2º, do CPP a sentença que deixa de fazer a detração, quando o desconto do tempo de prisão cautelar não teria o condão de alterar o regime inicial de cumprimento de pena fixado ao réu" (REsp n. 1.843.481/PE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 14/12/2021).
+III - O regime inicial fixado pelas instâncias ordinárias se coaduna com a orientação deste Sodalício: "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (Súmula n. 269, Terceira Seção, DJ de 29/05/2002, p. 135). Agravo regimental desprovido (AgRg no REsp n. 1.984.582/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOS CONVOCADO TJDFT), Quinta Turma, julgado em 25/10/2022, DJe 7/11/2022, grifei).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. ARTS. 129, § 9.º, E 147, CAPUT, AMBOS DO CÓDIGO PENAL. REGIME INICIAL SEMIABERTO. RÉU REINCIDENTE. ART. 387, § 2.º, DO CÓDIGO DE PROCESSO PENAL. INAPLICABILIDADE. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. ALEGAÇÃO DE INCOMPATIBILIDADE DO REGIME SEMIABERTO COM A PRISÃO PREVENTIVA. DESCABIMENTO. AUSÊNCIA DE ILEGALIDADE. DETERMINAÇÃO DE COMPATIBILIZAÇÃO DA PRISÃO CAUTELAR COM AS REGRAS PRÓPRIAS DO REGIME INTERMEDIÁRIO PELA SENTENÇA. ORDEM DE HABEAS CORPUS DENEGADA. FALTA DE FUNDAMENTO E EXCESSO DE PRAZO NA CONSTRIÇÃO. MATÉRIAS SUSCITADAS APENAS NO AGRAVO REGIMENTAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Fixou-se o regime inicial semiaberto devido a reincidência do Agravante, o que constitui fundamentação concreta, suficiente e idônea para justificar o agravamento do regime prisional, nos termos do art. 33, § 2.º, do Código Penal, e da Súmula n. 269 desta Corte Superior. E considerando que o regime prisional foi fixado com fundamento na reincidência, é inaplicável o art. 387, § 2.º, do Código de Processo Penal, pois a detração especial ali prevista para fins de escolha do regime prisional inicial não se confunde com a progressão de regime, que será oportunamente avaliada pelo Juízo das Execuções.
+ ..
+4. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido (AgRg no HC n. 779.532/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+Nesses termos, concluí que a pretensão formulada pelo impetrante encontrava óbice na jurisprudência desta Corte de Justiça e na legislação penal, sendo, portanto, manifestamente improcedente.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
