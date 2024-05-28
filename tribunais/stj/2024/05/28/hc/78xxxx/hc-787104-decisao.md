@@ -1,0 +1,31 @@
+DECISÃO
+MARCOS FELIPE OLIVEIRA DA SILVA pleiteia a extensão dos efeitos da decisão de fls. 197-202, ocasião em concedi a ordem de habeas corpus para reduzir a pena privativa de liberdade do insurgente CLAYTON MEIRA DA FONSECA, em virtude da ilegalidade do cálculo dosimétrico.
+Os réus foram condenados pela prática do crime de latrocínio - art. 157, § 3º, II, do Código Penal.
+Nesta ocasião, requer o peticionante, corréu na ação penal, a incidência do art. 580 do Código de Processo Penal, a fim de ser-lhe concedida a redução da reprimenda, nos termos da mencionada decisão.
+I. Art. 580 do CPP
+Consoante o mencionado artigo de lei, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos demais.
+Na hipótese, verifico que há similitude fática entre a situação do paciente deste habeas corpus e a do postulante MARCOS FELIPE OLIVEIRA DA SILVA, uma vez que ambos foram apenados mediante única fundamentação.
+Observa-se que a dosimetria dos agentes foi assim dimensionada (fls. 197-202, destaquei):
+ ..  o Juiz de primeiro grau fixou a pena-base em 25 anos de reclusão pela valoração negativa dos vetores judiciais da conduta social e das circunstâncias do crime, pois os réus "demonstraram ousados e destemidos, certos da impunidade, além de completa falta de respeito para com o próximo" e, "quando perceberam que havia um policial no local, não hesitaram em disparar, por mais de uma vez, atingindo não só este como outra pessoa, de forma gravíssima" (fl. 105, grifei).
+Na fase seguinte, o quantum da reprimenda manteve-se em idêntico patamar em virtude da compensação integral da atenuante da confissão espontânea com a reincidência.
+E, na derradeira etapa, presente a causa de diminuição da tentativa, reduziu-se a sanção para 16 anos e 8 meses de reclusão, dada a incidência de fração à razão mínima porque "os fatos se aproximaram da consumação, além de ter havido a subtração efetiva  ..  nota-se que os disparos foram em regiões letais, como tórax, ombro, cabeça e barriga (fls. 105-106, destaquei)  .. .
+Por isso, entendo ser cabível o pedido de extensão diante da presença de identidade fática entre a situação do peticionante e a do réu beneficiado.
+II. Dosimetria
+Adoto os mesmos argumentos que beneficiaram o corréu CLAYTON MEIRA DA FONSECA para reduzir a pena privativa de liberdade de MARCOS FELIPE OLIVEIRA DA SILVA.
+No tocante à dosimetria, as circunstâncias do art. 59 do CP se revelam norteadoras, a fim de auxiliar o Magistrado a modular a pena-base mediante o juízo de valor realizado caso a caso, com a delimitação da gravidade concreta do crime e cujo exercício interpretativo está abalizado por certo grau de discricionariedade, pois informada por princípios jurídicos e critérios de razoabilidade, proporcionalidade, igualdade e sensatez, razão pela qual afirma-se ser a discricionariedade vinculada. Nesse sentido: HC n. 585.731/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 1º/7/2022.
+Contudo, a sua revisão, na via do habeas corpus, é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC n. 304.083/PR, Rel. Min. FELIX FISCHER, Quinta Turma, DJe 12/3/2015) (HC n. 494.616/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/8/2019, grifei).
+Observo que o Magistrado aplicou fração correspondente à 1/4 para cada circunstância judicial valorada em desfavor do réu (conduta social e circunstâncias do crime), e elevou a pena-base para 25 anos de reclusão. Todavia, há flagrante ilegalidade no referido aumento quanto à valoração da má conduta social, por considerar inidôneo o fundamento adotado pelas instâncias ordinárias.
+O aumento da pena basilar ampara-se em dados concretos extraídos da conduta imputada ao acusado, os quais devem desbordar dos elementos próprios do tipo penal. Verifica-se, na hipótese, que a "ousadia", o "detesmor" e a "carência" de respeito do agente para com o próximo, tal como afirmado pela Corte estadual, se afiguram adjetivos que não traduzem juízo de valor tecnicamente correto para elevá-la. Vale dizer, são argumentos genéricos que não representam elemento excepcional, a fim de configurar negativamente a conduta social do ora paciente.
+Hipoteticamente, se tal raciocínio fosse adotado como regra, afigurar-se-ia condição obrigatória a ser valorada em desfavor do agente o referido vetor judicial, haja vista que a prática de crimes, em si, demonstra comportamento de desvio social quando em cotejo com os valores e as práticas aceitas socialmente. Daí, o crime ser resultado de desapreço contra os bens juridicamente protegidos.
+Nesse sentido: "conquanto o elevado grau de reprovabilidade da conduta configure circunstância apta a justificar o aumento da pena-base, há que se justificá-lo mediante fundamentos concretos, não se prestando a tal a mera citação do conceito de culpabilidade ou a gravidade abstrata dos delitos" (HC n. 285.530/RS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2017).
+Assim, reduzo a pena-base para 8 anos e 9 meses de reclusão, no patamar de 1/8 entre os limites mínimo e máximo da pena abstrata imposta ao tipo em comento, pois é mais benéfico ao acusado.
+Quanto à fase subsequente, nada a reparar.
+Na derradeira etapa, mantenho a diminuição da pena pela tentativa à razão de 1/3 em virtude do iter criminis percorrido pelo autor.
+Assim, estabilizo a sanção em 11 anos e 8 meses de reclusão.
+Reconhecido o concurso formal entre as condutas, conservo o aumento procedido em 1/6, haja vista que o réu atingiu duas vítimas, estabilizando a pena em 13 anos, 7 meses e 10 dias de reclusão.
+Redimensiono a multa para 6 dias-multa, à razão mínima, em decorrência do caráter acessório e de proporcionalidade em relação à pena privativa de liberdade.
+III. Dispositivo
+À vista do exposto, acolho o pedido para reduzir a pena privativa de liberdade de MARCOS FELIPE OLIVEIRA DA SILVA para 13 anos, 7 meses e 10 dias de reclusão, além do pagamento de 6 dias-multa, à razão mínima, nos termos do art. 580 do CPP.
+Comunique-se o teor desta decisão, com urgência, ao Magistrado de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
