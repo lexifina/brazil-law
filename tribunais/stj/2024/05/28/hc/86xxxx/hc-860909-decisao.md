@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Marcos Henrique Aparecido Cunha, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento ao Agravo em Execução Penal n. 0010298-32.2023.8.26.0071 (fls. 59/63).
+Aqui, aponta-se que o cálculo de penas carece de retificação, pois estabelece que o reeducando precisa cumprir 3/5 (60% - sessenta por cento) de sua pena para progressão de regime, por ser reincidente genérico e ter praticado crime hediondo com resultado morte antes da vigência da Lei n. 13.964/2019, quando, na verdade, deveria ter estabelecido a fração de 1/2 (50% - cinquenta por cento) - fl. 4.
+Argumenta-se que o reeducando não é reincidente específico em crime hediondo com resultado morte, em análise à nova legislação, fica claro que não houve previsão expressa por parte do Legislador da hipótese do reincidente que comete crime hediondo ou equiparado, mas de forma específica (fl. 5).
+Postula-se, então, a aplicação do art. 112, V, da Lei de Execução Penal, que estabelece o lapso de 50% para a progressão de regime, interpretação mais benéfica ao paciente.
+Afirma-se, ainda, que a Lei n. 13.964/2019 não modificou o art. 83 do Código Penal, de forma que a aplicação retroativa do art. 112, VI, a, da LEP não impede a concessão de livramento condicional, previsto no art. 83 do CP.
+Requer-se, em liminar e no mérito, a concessão da ordem a fim de reconhecer o lapso de 50% ou 1/2 para progressão de regime e para reconhecer o direito ao lapso de 2/3 para livramento condicional pelo reeducando; retificando-se o cálculo (fl. 8).
+Informações prestadas (fls. 74/76)
+Opinou o Ministério Público Federal pela denegação da ordem (fls. 78/82).
+É o relatório.
+No caso, há constrangimento ilegal passível de ser reparado por meio da via eleita.
+A Lei n. 13.964/2019 (Pacote Anticrime) revogou o art. 2º, § 2º, da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime e modificou o art. 112 da Lei de Execução Penal. A norma é expressa ao afirmar que a porcentagem (60%) deve ser aplicada aos condenados reincidentes em crimes hediondos ou equiparados.
+A interpretação extensiva para considerar reincidente específico na prática de crime hediondo ou equiparado àquele que cometeu apenas um crime hediondo é contra o espírito da lei, pois se puniria igualmente quem pratica dois ou mais crimes hediondos e o que pratica apenas um crime hediondo.
+A situação do paciente não se ajusta expressamente a nenhuma das hipóteses da nova redação do art. 112 da Lei de Execução Penal.
+Como a lei penal deve ser interpretada restritivamente quando prejudicial ao apenado, e extensivamente no caso contrário, nossa jurisprudência está alinhada quanto ao entendimento de que, ao condenado por crime hediondo ou equiparado que seja reincidente genérico, deverá incidir o percentual equivalente ao que é previsto para o primário, vale dizer, de 40% ou 50%, na forma do art. 112, V e VI, a, da Lei de Execução Penal, a depender do caso (se houve ou não resultado morte).
+Na espécie, ele é reincidente, foi mais recentemente condenado pela prática de latrocínio consumado e possui anterior condenação por crime comum. Para fins de progressão de regime, é exigível que o paciente tenha cumprido 50% (1/2) da pena, e não 60% (3/5), como o era antes da entrada em vigor da Lei n. 13.964/2019.
+Essa foi a tese fixada no Tema Repetitiv o n. 1.084: é reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante.
+Quanto à concessão do livramento condicional, tem-se que a jurisprudência desta Corte entende ser possível a incidência do percentual de 50%, para fins de progressão de pena, nos moldes estabelecidos pelo art. 112, VI, "a", da LEP (com a nova redação dada pela Lei n. 13.964/2019), bem como a concessão do livramento condicional e das saídas temporárias, sem que se trate da indevida combinação de leis (AgRg no HC n. 678.355/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 4/10/2022.
+Ainda, nesse sentido: AgRg nos EDcl no HC n. 695.760/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/8/2022.
+Ante o exposto, à vista do parecer e dos precedentes, concedo a ordem a fim de, reformando o acórdão impugnado, determinar a retificação do atestado de pena do paciente, referente à Execução Penal n. 7001386-29.2013.8.26.0506, garantindo-lhe o percentual de 50% para a progressão de regime, assim como o direito ao livramento condicional.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CONDENAÇÃO PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO COM RESULTADO MORTE. PROGRESSÃO DE REGIME. APENADO REINCIDENTE GENÉRICO (NÃO ESPECÍFICO). REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO. PRECEDENTES E RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
