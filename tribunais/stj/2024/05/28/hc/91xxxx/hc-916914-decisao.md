@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão que concedeu prazo para apresentação de razões e contrarrazões em sede apelações da defesa e do Ministério Público, respectivamente (e-STJ fl. 401-402), nos autos da ação criminal 0007369-38.2023.8.01.0001 que tramita no Tribunal de Justiça do Estado do Acre.
+O paciente foi condenado em primeira instância a uma pena de 6 anos, 8 meses e 15 dias de reclusão a ser cumprida inicialmente em regime fechado consoante regra do art. 33, §2º, "b" do Código Penal e a reincidência do réu.
+Interposto o recurso de apelação, o impetrante alega que os autos ainda não foram levados a julgamento pelo colegiado no Tribunal de Origem, e o constrangimento ilegal suportado pelo paciente gravita em torno do alegado direito de aguardar o julgamento em liberdade, uma vez que faz jus ao regime inicial semiaberto para cumprimento de pena.
+Ao final, requer liminar e definitivamente a concessão da ordem para que seja revogada a prisão preventiva e alterado imediatamente o regime de cumprimento de pena do paciente.
+É o relatório.
+Decido.
+O impetrante aduz que a ilegalidade a ser combatida se manifesta na ausência de manifestação do Tribunal de Origem sob re o direito do paciente de cumprir a pena em regime inicial semiaberto, e aponta como decisão ilegal aquela que determinou a manifestação das partes em razões de apelo e contrarrazões ao recurso do Ministério Público contra a sentença condenatória. Ausente, portanto, a manifestação do colegiado sobre a irresignação das partes.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular. O magistrado sentenciante fundamentou a fixação do regime fechado na regra do art. 33, §2º, "b" do Código Penal, não havendo falar-se em manifesta ilegalidade.
+Não se constata, então, vício na sentença ou na decisão que determinou a manifestação das partes em razões e contrarrazões recursais, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
