@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação dos arts. 489, 1.022 do CPC/2015 e incidência da Súmula n. 7 do STJ (e-STJ fls. 771/773) .
+O acórdão recorrido está assim ementado (e-STJ fl. 592):
+Compromisso de venda e compra de imóvel comercial Obrigação de fazer com pedido subsidiário de rescisão contratual Autores que não obtiveram a outorga da escritura Cerceamento de defesa não caracterizado Desnecessidade de produção de prova oral Conjunto probatório suficiente para o deslinde da ação Ré, reconhecidamente atuante como intermediadora em negócios imobiliários que é objetivamente responsável pelos atos do corretor que fazia parte do seu quadro de funcionários Teoria da aparência que é inconteste, sendo bem reconhecida pela r. sentença Motivação da sentença, que é adotada como razão de decidir em Segundo Grau Aplicação do art. 252, do Novo Regimento Interno do Tribunal de Justiça Preliminar de nulidade afastada Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 759/763).
+No recurso especial (e-STJ fls. 603/628), fundamentado no art. 105, III, "a", da CF, a recorrente aponta violação dos arts. 489, §1º, IV e 1.022, II, do CPC/2015.
+Sustenta que o Tribunal de origem teria deixado de apreciar matérias imprescindíveis ao deslinde da controvérsia, relativamente (i) à alegação de que o termo de fls. 71 foi organizado e assinado diretamente pelo patrono dos recorridos; (ii) à afirmação de que o patrono dos consumidores tinha plenas condições técnicas de reconhecer a falta de poderes do corretor autônomo, principalmente diante da suspeita de um golpe; (iii) à atuação do corretor autônomo; (iv) à sua ilegitimidade para responder por obrigações assumidas por terceiros, o que atrai a extinção sem julgamento do mérito do presente feito; e (v) à aplicabilidade das excludentes de responsabilidade, se o caso concreto fosse interpretado a partir das regras do Diploma Consumerista.
+Alega, ainda, ofensa aos arts. 17, 371, 374, II e III, do CPC/2015, 6º da Lei n. 6.530/1978 e 14, §3º, I, II, do CDC.
+Suscita sua ilegitimidade passiva e a incidência de excludentes de responsabilidade, ante a culpa exclusiva dos recorridos.
+Destaca que teriam sido negados fatos incontroversos, como a confissão de que a assinatura do termo foi organizada pelo patrono dos consumidores, que detinha plenos conhecimentos para identificar a falta de poderes do corretor autônomo.
+Ressalta não ter sido observada a autonomia do corretor de imóveis que realizou a negociação para a venda de unidade imobiliária não relacionada à parceria por ela organizada.
+Foram apresentadas contrarrazões (e-STJ fls. 767/770).
+No agravo (e-STJ fls. 776/802), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 805/813).
+Juízo negativo de retratação (e-STJ fl. 815).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Não há falar em ofensa aos arts. 489, §1º, IV e 1.022, II, do CPC/2015, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento.
+O fato de a parte não concordar com a conclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais.
+Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentação tenha sido suficiente para dirimir a controvérsia.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 596/599):
+ ..  É de se ressaltar que se aplica à situação em exame a regra do artigo 7º, parágrafo único, do Código de Defesa do Consumidor, pela qual é solidária a responsabilidade dos fornecedores integrantes da cadeia de consumo.
+E, de fato, a apelante Liv Intermediação Imobiliária Ltda. que tinha em seu quadro de corretores André Luiz Martins dos Anjos (Tuareg), fez parte da cadeia de fornecimento, sendo absolutamente descabido pretender eximir-se de sua responsabilidade afirmando que foi contratada apenas para atuar no feirão de vendas da Helbor tanto mais porque o imóvel negociado pelos autores é do grupo Helbor (Helbor Offices Jardim da Colina), bem como tentar impingir responsabilidade aos autores dando destaque ao contato individual que tiveram com o corretor.
+Ora, é a pessoa física do corretor que faz esse contato com os pretensos adquirentes, pois é ele que personifica a pessoa jurídica da intermediadora, verificando-se, inclusive no Instrumento Particular de Compromisso de Venda e Compra (fls. 50/56) o logotipo da Lopes, além do nome da testemunha Raquel Rosaria Cardoso que foi corretora atuante em nome da apelante e que participou do referido "feirão" da Helbor. foi funcionário da apelante, conforme afirmado na contestação:
+"- o Sr. Tuareg, supervisor de vendas, atuava como funcionário desta Ré em uma posição de monitoramento, sendo, inclusive, um facilitador de serviços, atuando diretamente entre as negociações travadas entre esta Ré e as Incorporadoras com as quais ela atuava em parceria e,"
+ ..  Depreende-se dos autos que o requerido Eduardo obrigou-se a vender a sala comercial à Alves Carvalho, que se comprometeu a revender aos requerentes, tendo a transação sido intermediada pelo funcionário da ré Liv. É incontroverso que o preço foi pago pelos autores, mas não foram adotadas as providências cabíveis para transmitir-lhes o domínio do bem, que se encontra alienado fiduciariamente ao banco Bradesco.
+Nesse quadro, é legítima a reclamação inicial.
+O réu Eduardo deixou indevidamente de liquidar as obrigações que possui junto à instituição financeira com quem negociou. Ele próprio admitiu, em resposta, a necessidade de quitar o passivo e promover a liberação do bem.
+A corré Alves Carvalho também é responsável pela providência. Consta do instrumento negocial que ela, vendedora, e o proprietário ficavam incumbidos de entregar a coisa livre de qualquer gravame, especialmente a alienação fiduciária referida (fl. 51).
+Por fim, a corré Liv igualmente se obrigou a executar os atos em questão, ao assinar, através de preposto, o documento designado "termo de ajustamento e assunção de obrigação solidária" (fl. 71).
+Segundo o impresso, os subscritores assumiam o compromisso de satisfazer o débito e suprimir a restrição que pendia sobre o bem.
+Não pode a empresa eximir-se, sob o argumento de que o corretor excedeu-se no desempenho de suas funções, praticando os atos pessoalmente. Trata-se de indivíduo que laborava para a pessoa jurídica e agiu em nome dela. A demandada responde objetivamente pela conduta de seu preposto, ainda que ele tenha extrapolado os poderes concedidos (Súmula nº 341 do STF e art. 932, inc. III, do CC).
+Eventual ilícito cometido pelo corretor não isenta a empresa, já que os consumidores não tinham como identificar a irregularidade. Havia motivos para que acreditassem que se tratava de funcionário da ré, trabalhando legitimamente como seu representante. Aplica- se ao caso a teoria da aparência, de sorte que a requerida arca com as consequências do ato do preposto, junto a quem deve posteriormente, se o caso, ressarcir-se, na via do regresso.
+Frente a tal cenário, não prospera a defesa apresentada pelos demandados. É certo que lhes incumbe adotar as medidas imprescindíveis para dar cumprimento à avença celebrada, atribuindo aos adquirentes o domínio da coisa."
+Nesse contexto, para rever os fundamentos do acórdão impugnado e sopesar as razões recursais, inclusive quanto à verba honorária, seria indispensável o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, diante da aplicação da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
