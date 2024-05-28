@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, publicado na vigência do CPC/2015, no agravo de instrumento n. 2163339-72.2021.8.26.0000.
+Conforme se extrai da leitura dos autos, o INSS foi condenado a conceder o benefício de auxílio-acidente à parte autora que, na fase de cumprimento de sentença, apresentou planilha de cálculo.
+A autarquia previdenciária apresentou impugnação, alegando excesso de execução por apuração errônea do valor da renda mensal inicial - RMI.
+A exequente se manifestou sobre a impugnação, enquanto o INSS, instado a se manifestar sobre a impugnação, apenas requereu a suspensão do processo, diante da interposição de ação rescisória, que resultou extinta sem resolução do mérito.
+Assim, o Juízo de primeiro grau homologou o valor da RMI apresentado pela parte autora.
+Não satisfeita, a autarquia previdenciária agravou.
+A Corte a quo negou provimento ao recurso, em acórdão assim ementado (fl. 260):
+AGRAVO DE INSTRUMENTO AÇÃO ACIDENTÁRIA CUMPRIMENTO DE SENTENÇA DECISÃO QUE ACOLHEU O CÁLCULO DA RMI APRESENTADO PELO EXEQUENTE E DETERMINOU O PROSSEGUIMENTO DO FEITO IRRESIGNAÇÃO DO RÉU ALEGAÇÃO DE EXCESSO DE EXECUÇÃO AUSÊNCIA DE CÁLCULOS E DEMONSTRAÇÃO DO ALEGADO DECISÃO MANTIDA.
+Recurso improvido.
+Foram rejeitados os embargos de declaração da autarquia previdenciária, aduzindo que o acórdão foi omisso quanto a inexistência de preclusão, tendo em vista que o valor não pode contrariar à lei, mesmo que nada tenha sido alegado pelo INSS, impugnando o cálculo da RMI e para fins de prequestionamento (fls. 58-64).
+No recurso especial, a parte recorrente alega violação dos arts. 140 e 1.015 do do CPC/2015, 28, 29, § 5º, e 35 da Lei n. 8.213/91 e 884 do Código Civil. Sustenta que o Juiz não pode se eximir de aplicar a legislação pertinente no cálculo do valor a ser pago, de modo que é inequívoco o interesse da autarquia na interposição do recurso de agravo, sob pena de vedado enriquecimento ilícito da parte autora.
+Prossegue alegando que "o valor do auxílio-acidente, posteriormente ao advento da Lei n. 9.032/95, deve ter como base o salário-de-benefício e não mais o salário-de-contribuição do dia do acidente. E, na ausência de elementos para o cálculo do salário-de-benefício, prevalece o art. 35 da lei 8.213/91" (fl. 75), que determina a utilização do salário-mínimo.
+Assim:
+ ..  demonstrada a ausência de preclusão, bem como a violação dos artigos 28, 29 e 35 da lei nº 8.213/91, requer seja o presente Recurso Especial conhecido e provido, impondo-se a aplicação do art. 35 da lei 8.213/91 na confecção do cálculo, afastado indevidamente pelo v. Aresto, tendo em vista que o segurado não possui salários-de-contribuição no período básico de cálculo. (fl. 77)
+Contrarrazões apresentadas às fls. 82-89.
+O recurso especial foi inadmitido à fl. 90, porque contém fundamentação adequada para lhe dar respaldo, não houve maltrato às normas legais enunciadas e rever a posição da Turma Julgadora importaria em ofensa à Súmula n. 7 do STJ.
+Adveio o presente agravo (fls. 396-104).
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+De início, nos termos do Enunciado Administrativo n. 3/STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código".
+No mais, o recurso especial não prospera.
+Como se vê, a questão controvertida diz respeito à apuração errônea do valor da renda mensal inicial, que deveria levar em conta o salário mínimo e não poderia ser homologada pelo Juízo de primeiro grau, ainda que não impugnada oportunamente.
+No ponto, o Tribunal de origem assim fundamentou o voto-condutor do acórdão recorrido (fls. 46-47):
+No tocante à RMI, dispõe o inciso II do artigo 29 da Lei nº 8.213/91 que o salário-de-benefício do auxílio-acidente consiste "na média aritmética simples dos maiores salários-de-contribuição correspondentes a oitenta por cento de todo o período contributivo".
+Por outro lado, caso não seja possível comprovar o valor dos salários-de-contribuição no período básico de cálculo, o salário-mínimo será adotado para tal finalidade, de acordo com a redação original do artigo 35, da Lei nº 8.213/91, verbis:
+ ..
+Na hipótese dos autos, o exequente alega que apurou devidamente os salários-de-contribuição com base no CNIS, tanto que a RMI apurada, no valor de R$ 778,52 para 28/02/96, ficou muito próxima da RMI no valor de R$ 709,67 apurada pelo INSS para a concessão da aposentadoria, em 19/09/95.
+O INSS, por sua vez, embora alegue que a RMI foi calculada indevidamente, não logrou demonstrar como chegou à RMI no valor de R$ 510,00 em que baseou os cálculos dos valores que entende devidos (fls. 337/342 dos autos originários). Pelo contrário, instado a demonstrar as suas alegações, mesmo tendo todas as informações referentes ao segurado em seu banco de dados, restou silente, não juntando aos autos qualquer documento comprobatório de suas alegações.
+Assim, agiu com acerto o juízo a quo ao considerar correta a RMI apurada pela parte autora em seus cálculos.
+Como se vê, o acórdão recorrido manteve a decisão agravada porque a autarquia previdenciária não demonstrou como foi apurada a RMI apresentada, tampouco juntou informações sobre seu cálculo, bem como considerou correta a renda mensal inicial apresentada pelo exequente. A parte recorrente, no entanto, deixou de impugnar especificamente estes fundamentos, limitando-se a afirmar seu interesse no reexame dos critérios de liquidação da sentença alegadamente contra legem.
+Portanto, incide o óbice da Súmula n. 283 do STF. Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ademais, os artigos tidos por violados, não possuem comando normativo capaz de amparar a tese neles fundamentada - no sentido de que o cálculo da renda mensal inicial deveria ser baseado no salário mínimo -, o que caracteriza a ausência de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do STF.
+Nesse sentido AgInt no REsp n. 1.930.411/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2023, DJe de 6/9/2023; AgInt no REsp n. 1.987.866/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/8/2022, DJe de 15/8/2022.
+De todo modo, o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou metodologia de liquidação do valor da renda do auxílio-acidente consoante os comandos da sentença exequenda, cerne deste recurso especial, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+Consigna-se que, nos termos do entendimento desta Corte Superior, é plenamente possível que o acórdão combatido esteja fundamentado e não tenha incorrido em omissão, e, ao mesmo tempo, não tenha decidido a questão sob o enfoque dos preceitos jurídicos suscitados pela parte recorrente.
+Nesse sentido: AgInt nos EDcl no REsp n. 2.052.450/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/9/2023, DJe de 21/9/2023; AgInt no REsp n. 1.520.767/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2021, DJe de 14/9/2021.
+Ainda que assim não fosse, rever a conclusão do acórdão proferido pelo Tribunal de origem, para concluir que houve indevida apuração do débito e utilização de critérios ilegais no cálculo do valor inicial do benefício, demandaria o revolvimento do material fático-probatório dos autos, providência vedada no âmbito do recurso especial, a teor da Súmula n. 7/STJ.
+No mesmo sentido:
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. PREVIDENCIÁRIO. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO INEXISTENTE. EXECUÇÃO DE SENTENÇA. INCIDENTE DE LIQUIDAÇÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. VERIFICAÇÃO DE INÉRCIA DO EXEQUENTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISPOSITIVOS TIDOS POR VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não há ofensa ao art. 535, II, do CPC por suposta omissão no julgado se o aresto solucionou a controvérsia de forma completa e suficientemente fundamentada, apenas adotando entendimento contrário à pretensão da parte recorrente.
+2. As conclusões do julgado fundadas nos fatos e provas dos autos, quanto à verificação da inércia da exequente para fornecer documentos necessários à execução da sentença, não podem ser revistas na via especial, por óbice da Súmula 7/STJ.
+3. A Corte a quo não analisou a matéria recursal à luz dos arts. 197 a 204 e 884, 885 e 886 do Código Civil, apontados como violados. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+Agravo regimental improvido. (AgRg no AREsp n. 608.119/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/2/2015, DJe de 9/2/2015.)
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA. CONTA DE LIQUIDAÇÃO. ERRO MATERIAL. NÃO CONFIGURADO. EXCESSO DE EXECUÇÃO. REEXAME DE PROVAS. ENUNCIADO Nº 7/STJ.
+1. É da jurisprudência desta Corte que o erro material corrigível a qualquer tempo e que não transita em julgado com a homologação da conta é o aritmético e de cálculo, detectáveis ao simples exame da conta. Eventual divergência acerca de critérios de cálculo e de seus elementos não configura erro material.
+2. A irresignação que busca desconstituir os pressupostos fáticos adotados pelo acórdão recorrido encontra óbice no enunciado nº 7 da Súmula desta Corte.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp n. 1.214.902/PR, relator Ministro Haroldo Rodrigues (Desembargador Convocado do TJ/CE), Sexta Turma, julgado em 8/2/2011, DJe de 14/3/2011.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSO CIVIL. AUXÍLIO-ACIDENTE. LIQUIDAÇÃO DE SENTENÇA. CRITÉRIOS DE ELABORAÇÃO DOS CÁLCULOS. FALTA DE IMPUGNAÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO INATACADOS . AUSÊNCIA DE COMANDO NORMATIVO PARA SUSTENTAR A TESE RECURSAL. FALTA DE PREQUESTIONAMENTO. NECESSIDADE DE REEXAME DE PROVA. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF E N. 7 E 211 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
