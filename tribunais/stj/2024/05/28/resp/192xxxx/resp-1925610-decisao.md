@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCO CARLOS MAZEO e LUZINETE DE FÁTIMA MORAES DANTAS MAZEO contra acórdão assim ementado (e-STJ fls. 1.651/1.652):
+EMBARGOS DE TERCEIRO - PENHORA DEIMÓVEL - Embargante é proprietária de 50% das frações ideais dos imóveis penhorados - Bens penhorados são indivisíveis - Possível a penhora da integralidade dos imóveis - Valor equivalente à quota-parte do coproprietário alheio à execução deverá recair sobre o produto da alienação (artigo 843, caput, do Código de Processo Civil) - Desnecessária a citação da ora Embargante para ocupar o polo passivo dos Processos números 0103615-20.2003.8.26.0222 e 0103379-97.2005.8.26.0222 (em que realizadas as penhoras) - Ausente o direito de preferência da Embargante na arrematação dos imóveis - SENTENÇA DE IMPROCEDÊNCIA - Necessário ressalvar o direito de preferência da Embargante na arrematação dos bens penhorados, ou, caso não exercida aquela preferência, de recebimento da quantia mínima correspondente a 50% do valor da avaliação do imóvel (nos termos do artigo 843, parágrafos primeiro e segundo, do Código de Processo Civil) - RECURSO DA EMBARGANTE PARCIALMENTE PROVIDO, PARA DEFERIR O DIREITO DE PREFERÊNCIA NA ARREMATAÇÃO DOS IMÓVEIS MATRICULADOS SOB OS NÚMEROS 1.956, 1.957, 1.958 E 1.959, TODOS DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE GUARIBA/SP, OU, EM CASO DE NÃO REALIZAÇÃO DAQUELA PREFERÊNCIA, DE RECEBIMENTO DA QUANTIA MÍNIMA CORRESPONDENTE A 50% DO VALOR DA AVALIAÇÃO DOS IMÓVEIS, COM A INTIMAÇÃO DA EMBARGANTE NOS AUTOS DOS PROCESSOS NÚMEROS 0103615-20.2003.8.26.0222 E 0103379-97.2005.8.26.0222 (ACERCA DOS FUTUROS ATOS PROCESSUAIS)
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.677/1680).
+No recurso especial (e-STJ fls. 1.683/1.701), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes alegam violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, pois a decisão recorrida não tratou das questões referentes ao valor da causa e ao regime de bens da parte recorrida.
+Aduzem ofensa ao art. 291 do CPC/2015, porque "o valor da causa deve ser equivalente ao valor do bem constrito, não podendo exceder ao valor da dívida" (e-STJ fl. 1.685).
+Sustenta m inobservância do art. 1.667 do CC/2002, visto que (e-STJ fls. 1.686/1.687):
+(..) os bens da comunhão, que no caso do regime de comunhão universal são todos os presentes e futuros dos cônjuges, respondem pelas obrigações contraídas por estes. Em decorrência, presume-se que os bens encontrados em nome do cônjuge da parte executada são comuns do casal, e, consequentemente, passíveis serem penhorados.
+Assim sendo, surge a questão: a quem incumbe demonstrar que a dívida foi contraída em proveito da família
+A dívida se presume em proveito da família, cabendo ao cônjuge o ônus da prova em contrário, especialmente em se tratando de regime de comunhão universal de bens.
+Contrarrazões apresentadas (e-STJ fls. 1.732/1.740).
+É o relatório.
+Decido.
+Procede a irresignação referente à ofensa ao art. 1.022 do CPC/2015.
+Nos embargos de declaração, a parte recorrente apontou omissão quanto ao regime de bens, sustentando a importância da matéria em vista de que (e-STJ fls. 1.667/1.668):
+Isso porque, o regime de casamento entre as partes (executado e a autora do embargo de terceiros) é aquele da comunhão universal de bens, o que " ..  importa a comunhão de todos os bens presentes e futuros dos cônjuges e suas dividas passivas, com exceções do artigo seguinte" (ef. Art. 1.667, do CC).
+Dessa forma, o patrimônio da ora embargante somente não seria atingido pela execução caso houvesse prova de que as dívidas contraídas não reverteram em prol da família, o que inexiste nestes autos, visto que o fato de os valores terem sido provenientes em ação de indenização por imóvel de propriedade do casal, fato admitido pela própria requerente em sua inicial, não permite concluir pela ausência de beneficio econômico à própria autora.
+Incide, em verdade, o art. 790, IV, do CPC, segundo o qual "são sujeitos à execução os bens  ..  do cônjuge ou companheiro, nos casos em que seus bens próprios ou sua meação respondem pela divida".
+Os recorrenteS ainda alegaram, nos declaratórios e no recurso especial, omissão quanto ao valor da ação porque, conforme "jurisprudência majoritária, nos embargos de terceiro, o valor da causa deve ser equivalente ao valor do bem constrito, não podendo exceder ao valor da dívida" (e-STJ fl. 1.670).
+Em tais condições, diante das omissões no acórdão recorrido, impõe-se o provimento do recurso especial para que o Tribunal a quo se pronuncie sobre as questões, sanando os vícios apontados.
+Prejudicada a análise das demais alegações.
+Ante o exposto, CONHEÇO PARCIALMEN TE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para determinar o retorno dos autos ao Tribunal de origem, a fim de que sejam supridas as omissões apontadas.
+Publique-se e intimem-se.
+EMENTA
