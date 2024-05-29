@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto de acórdão assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO CIVILPÚBLICA. LOTEAMENTO IRREGULAR. MUNICÍPIO DE CAXIAS DOSUL. OBRIGAÇÕES DE FAZER. REGULARIZAÇÃO DO PARCELAMENTO DO SOLO DA ÁREA OBJETO DA AÇÃO E DEMAIS AÇÕES NO INTUITO DE REGULARIZAR O LOTEAMENTO NOVA ESPERANÇA. RESPONSABILIDADE DO LOTEADOR PELA INFRAESTRUTURA BÁSICA. RESPONSABILIDADE SUBSIDIÁRIA DO MUNICÍPIO DE CAXIAS DO SUL. DANOS MORAIS COLETIVOS. APELO DOS RÉUS DESPROVIDOS. APELO DOS AUTORES PROVIDOS EM PARTE.
+Julgamento dos Embargos de Declaração (fls. 2.613-2.614 e 2.620-2.621):
+EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 1.022 DO NOVO CÓDIGO DE PROCESSO CIVIL. REDISCUSSÃO.
+Não se prestam os embargos declaratórios à rediscussão da causa, pois constituem recurso de integração e não de substituição. Na hipótese, o acórdão embargado encontra-se adequadamente fundamentado, não havendo omissões, contradições ou obscuridades.
+Ademais, cabe ressaltar que a mera insatisfação com o julgado não enseja a interposição de embargos de declaração, uma vez que não se coaduna com o disposto no art. 1.022 do CPC. EMBARGOS DECLARATÓRIOS DESACOLHIDOS.
+EMBARGOS DE DECLARAÇÃO. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO CIVIL PÚBLICA. CONTRADIÇÃO. OCORRÊNCIA. VÍCIO SANADO PARA FINS DE EVITAR A REFORMATIO IN PEJUS.
+Os presentes embargos de declaração devem ser acolhidos, tão somente, para sanar a contradição existente no acórdão em relação à declaração de responsabilidade subsidiária do Município de Caxias do Sul, sob pena de ocorrência de reformatio in pejus.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+Recursos Especiais às fls. 2.631-2.647 e 2.650-2.661.
+Contrarrazões às fls. 2.672-2.685 e 2.686-2.699.
+O juízo de admissibilidade negativo (fls. 2.709-2.714 e 2.717-2.720) motivou a interposição do presente Agravo.
+João Antônio Leidens e Ivo Posser pleiteiam:
+a) seja intimado o agravado para os fins do art. 1.042, §3º, do CPC; b) o recebimento e processamento do presente instrumento, conferindo-lhe integral provimento, a fim de que seja determinado o seguimento do RECURSO ESPECIAL para conhecimento e julgamento pelo SUPERIOR TRIBUNAL DE JUSTIÇA, bem como para que aquela Corte, apreciando as razões, reforme a decisão recorrida, revalorando tudo quanto foi coligido nos autos e no bojo dessa peça; c) no tocante ao depósito judicial do valor relativo aos danos morais coletivos, seja a questão analisada pela Corte nos termos lançados nesse instrumento, já que superveniente às razões do recurso especial, considerando cumprimento antecipado da obrigação se a via eleita fenecer, ou viabilizando o levantamento do quantum pelos recorrentes via alvará eletrônico se a via eleita tiver provimento.
+Contraminuta às fls. 2.751-2.754.
+Parecer do MPF "pelo conhecimento do agravo para não conhecer do recurso especial" às fls. 2.767-2.772.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15.5.2024.
+A inadmissão do Recurso Especial se deu com base na ausência de prequestionamento.
+A irresignação não merece prosperar.
+1. Histórico da demanda
+Na origem, trata-se de Ação Civil Pública interposta pelo MP-RS contra os atuais agravantes e outros particulares, acusados de terem implementado loteamento irregular em área de preservação ambiental. O parquet pugna pela anulação do loteamento, pela responsabilização civil, pela restituição ao status quo ante e pelos demais consectários legais.
+O Juízo de primeiro grau julgou parcialmente procedente o pedido, e o Tribunal a quo deu provimento à Apelação do MP e desproveu a dos particulares, além de excluir a responsabilidade subsidiária do Município de Caxias do Sul - RS.
+Todos os particulares recorreram e todos os Recursos Especiais foram inadmitidos; apenas João A. Leidens e Ivo Posser agravaram.
+Em suma, os agravantes alegam que foram prequestionados os arts. 8º, 11 e 371 do CPC e sustentam que "a ACP comprovou o parcelamento irregular do solo, mas não aferiu com acuidade a responsabilidade por isso, o que também não foi verificado de forma escorreita no inquérito civil de origem. Tanto que restou demonstrado no feito que a área irregularmente ocupada assim o foi à revelia dos recorrentes e do Poder Público Municipal".
+A irresignação não merece prosperar, ainda que por outros fundamentos.
+2. Incidência da Súmula 7/STJ
+Incide na Súmula 7/STJ, a tentativa de alterar o quadro fático para demonstrar a ausência de razoabilidade e proporcionalidade das penalidades e fazer valer a tese de que não havia provas de vínculo obrigacional, responsabilidade e animus dos particulares, entre todos os acusados, de obter lucro com o loteamento irregular.
+A Corte estadual registrou:
+A Lei nº 6.766/79 determina que é obrigação do loteador a regularização do loteamento por ele executado, que envolve, dentre outros aspectos, as fases de planejamento, execução, implementação e instalação de equipamentos urbanos.
+Mencionada norma dispõe ainda, no art. 2º, § 5º e no art. 18, acerca da infraestrutura básica dos parcelamentos urbanos, referindo igualmente que tais obras são de responsabilidade do loteador. À luz do conjunto probatório e dos dispositivos legais vigentes, resta evidente a irregularidade do parcelamento do solo urbano, sob forma de loteamento, efetuada pelos réus, que além de causar danos aos compradores dos lotes, apresentam-se como potenciais causadores de danos ao meio ambiente e à saúde pública. Deste modo, tratando-se de loteamento, cumpre ao loteador a obrigação de promover as obras determinadas na demanda. 2. Certo, o Município tem o poder-dever de impedir o uso clandestino e ilegal do solo urbano, podendo ser responsabilizado pelos prejuízos advindos ao ordenamento urbano e aos adquirentes de imóveis do loteamento irregular. Todavia, sua responsabilidade é subsidiária, conforme se verifica do art. 40, §§ 1º a 4º, da Lei 6.766/79, que dispõe sobre o parcelamento do solo urbano. Sentença explicitada quanto à responsabilidade subsidiária do Município de Caxias do Sul. 3. Nos termos da atual jurisprudência do STJ, que reconhece a necessidade de reparação integral da lesão causada ao meio ambiente, mostra-se possível a cumulação das obrigações de fazer, não fazer e de indenizar, inclusive quanto aos danos morais coletivos. Conforme referido no REsp 1.057.274/RS, de relatoria da Ministra Eliana Calmon, Segunda Turma, julgado em 01/12/2009, "O dano moral coletivo, assim entendido oque é transindividual e atinge uma classe específica ou não de pessoas, é passível de comprovação pela presença de prejuízo à imagem e à moral coletiva dos indivíduos enquanto síntese das individualidades percebidas como segmento, derivado de uma mesma relação jurídica-base. (..) O dano extrapatrimonial coletivo prescinde da comprovação de dor, de sofrimento e de abalo psicológico, suscetíveis de apreciação na esfera do indivíduo, mas inaplicável aos interesses difusos e coletivos".
+Caso concreto em que o dano moral exsurge da ofensa ao direito ao meio ambiente equilibrado, prescindindo da dor ou padecimento, que são decorrentes da própria violação.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demandaria incursão no conjunto fático-probatório dos autos, providência vedada na via especial conforme dispõe a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". No mesmo sentido: AgInt no AREsp 1.635.882/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.9.2020 e REsp 1.662.579/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13.9.2017.
+Ademais, somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência do Superior Tribunal de Justiça permite afastar a aplicação da Súmula 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada pela instância ordinária é razoável, logo não enseja a intervenção desta Corte. Precedentes: AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 8.3.2019; AgInt no AREsp 1.672.112/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt no AREsp 1.533.714/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2020; e AgInt no AREsp 1.533.913/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020.
+O óbice imposto à admissão do Recurso Especial pela alínea "a" do permissivo constitucional impede a análise do mesmo ponto pela alínea "c" e torna prejudicado o dissídio jurisprudencial .
+Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O tema concernente à definição da base de cálculo da Cofins foi decidido pelo Tribunal de origem com fundamentação de cunho eminentemente constitucional, sendo defeso o exame por este Tribunal, sob pena de usurpação da competência da Suprema Corte.
+2. Consoante jurisprudência do Superior Tribunal de Justiça, a análise da violação do art. 110 do CTN, por reproduzir princípio encartado em norma da Constituição Federal, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 19/4/2021.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Inviável o conhecimento do recurso especial na hipótese em que, embora o recorrente aponte ofensa à legislação federal, o inconformismo funda-se, em verdade, na análise de ato normativo infralegal (Provimento nº 2.203/2014 do CSM), porquanto o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise do referido instrumento, pretensão insuscetível de ser apreciada em recurso especial, por não se enquadrar no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 25/3/2021.)
+3. Conclusão
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
