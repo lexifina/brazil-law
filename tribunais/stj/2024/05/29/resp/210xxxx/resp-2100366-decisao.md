@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recursos Especiais (art. 105, III, "a" e "c", da CF/1988) interpostos contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+AÇÃO CIVIL PÚBLICA. PROCESSO CIVIL. REMESSA OFICIAL. NÃO CONHECIMENTO. ADEQUAÇÃO DA VIA ELEITA. MÉRITO. ABONO DE PERMANÊNCIA. INCLUSÃO NA BASE DE CÁLCULO DA GRATIFICAÇÃO NATALINA E ADICIONAL DE FÉRIAS. NATUREZA REMUNERATÓRIA. INTEGRAÇÃO DEVIDA. HONORÁRIOS ADVOCATÍCIOS. ART. 18 DA LEI N.º 7.347/1985. SIMETRIA. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. Consoante já decidiu o Superior Tribunal de Justiça, "a coletivização dos direitos individuais homogêneos tem um sentido meramente instrumental, com a finalidade de permitir uma tutela mais efetiva em juízo, não se deve admitir, portanto, o cabimento da remessa necessária, tal como prevista no art. 19 da Lei 4.717/65" (REsp 1374232/ES, Rel. Ministra NANCYANDRIGHI, TERCEIRA TURMA, julgado em 26/09/2017, DJe 02/10/2017).
+2. O ajuizamento de ação civil pública em defesa de direitos individuais homogêneos não relacionados a consumidores é pertinente, tendo o sindicato legitimidade para propor a referida ação em defesa de interesses individuais homogêneos da categoria que representa.
+3. A orientação consolidada na jurisprudência é no sentido de que a entidade sindical, quando atua em substituição processual, tem ampla legitimidade para defender os interesses individuais e coletivos dos integrantes da categoria profissional por ela representada.
+4. Em relação à extensão dos efeitos da decisão em ação coletiva proposta por sindicato, é firme o entendimento de que a coisa julgada gera efeitos para todos os servidores da categoria, sendo prescindível a filiação sindical no momento da propositura da ação.
+5. Os efeitos da sentença coletiva alcança todos que se encontrem na situação fático-jurídica objeto da lide e são representados pelo Sindicato autor.
+6. O abono permanência é rubrica paga ao servidor público que, tendo implementado os requisitos necessários à aposentadoria, opta por permanecer em atividade, conforme arts. 40, § 19, da CF; 3º, § 1º, da EC41/2003; e 7º da Lei 10.887/2004.
+7. A natureza jurídica do abono de permanência foi objeto de longa controvérsia na jurisprudência pátria, vindo a ser finalmente pacificada, no sentido da natureza remuneratória. Precedentes do STJ.
+8. O fato de sobre o abono de permanência não incidir contribuição previdenciária não influencia sua natureza jurídica, que permanece sendo parcela remuneratória, como vantagem permanente.
+9. Face à natureza remuneratória da parcela relativa ao abono de permanência, esta deve integrar, para todos os efeitos, a base para o cálculo da gratificação natalina e do adicional de férias.
+10. Conforme entendimento do Superior Tribunal de Justiça, "Em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública, quando inexistente má-fé, de igual sorte como ocorre com a parte autora, por força da aplicação do art. 18 da Lei n.7.347/1985" (EAREsp 962.250/SP, Rel. Ministro OG FERNANDES, CORTEESPECIAL, julgado em 15/08/2018, DJe 21/08/2018).
+11. Concluído o julgamento do Tema de Repercussão Geral nº 810(RE nº 870.947), sem modulação de efeitos, definiu o STF que, no tocante às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios idênticos aos juros aplicados à caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no artigo 1º-Fda Lei 9.494/1997, com a redação dada pela Lei 11.960/2009.
+12. No que se refere à atualização monetária, o recurso paradigma dispôs que o artigo 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina, devendo incidir o IPCA-E, considerado mais adequado para recompor a perda do poder de compra.
+13. Sobrevindo a Emenda Constitucional nº 113/21, há de ser reconhecida sua aplicabilidade imediata, sem efeitos retroativos, por se tratar de lei superveniente versando sobre consectários legais, substituindo os critérios anteriores, o disposto em seu conteúdo, isto é, o índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC),acumulado mensalmente, para fins de atualização monetária, remuneração de capital e compensação da mora.
+Os Embargos de Declaração foram rejeitados.
+A UNIPAMPA alega dissídio jurisprudencial e ofensa aos arts. 114, 319 e 320 do CPC/2015; 40, 41, 50, 61, 63 e 76 da Lei 8.112/1990; 4º e 7º da Lei 10.887/2004; e 1º da Lei 7.347/1985 (fls. 428-458, e-STJ).
+Já a SESUNIPAMPA aponta violação ao art. 18 da Lei 7.347/1985, além de divergência jurisprudencial (fls. 494-519, e-STJ).
+Contrarrazões às fls. 584-588 e 606-651, e-STJ.
+Foi admitido o Recurso Especial da UNIPAMPA (fls. 664-670, e-STJ) e sobrestado o da SESUNIPAMPA para aguardar o julgamento do Tema 1.177 pelo Superior Tribunal de Justiça.
+Em parecer às fls. 748-753, e-STJ, o Ministério Público Federal opinou pela devolução dos autos à origem.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.53.2024.
+A questão discutida nos autos foi afetada pela Primeira Seção, em 12/12/2022, para julgamento sob o rito dos Recursos Repetitivos por meio dos Recursos Especiais 1.991.439/SC e 1.981.398/RS (Rel. Ministro Benedito Gonçalves), que cuidam do Tema 1.177: "Definir se é possível ou não a condenação da União ao pagamento de honorários de sucumbência em sede de ação civil pública".
+Na ocasião, foi determinada a suspensão dos Recursos Especiais e Agravos em Recurso Especial em segunda instância e no Superior Tribunal de Justiça fundados em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+Em tal circunstância, deve ser prestigiado o disposto na legislação processual, isto é, a criação de mecanismo que enseje às instâncias ordinárias o juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC.
+Logo, por medida de economia processual e para evitar decisões dissonantes entre Tribunais integrantes do mesmo Sistema de Justiça, os recursos que versam sobre a mesma matéria devem retornar à origem, de modo a permitir a aplicação uniforme da tese vinculante.
+Ante o exposto, determino a devolução dos autos à Corte regional, com a devida baixa, para que ela, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
+EMENTA
