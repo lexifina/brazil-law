@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por NASSAL NASCIMENTO E SALES CONSTRUCAO LTDA em face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado do Sergipe, assim ementado (fl. 284, e-STJ):
+APELAÇÃO CIVIL - CONSUMIDOR,CIVIL E PROCESSUAL CIVIL - AÇÃO DEDISTRATO COM RESTITUIÇÃO DEVALORES - CONTRATO DE PROMESSADE COMPRA E VENDA DE IMÓVEL -DESFAZIMENTO DO CONTRATO POR INICIATIVA DO PROMITENTE COMPRADOR - CLÁUSULA QUE PREVÊRETENÇÃO DE 90% (NOVENTA) DOSVALORES PAGOS PELO ADQUIRENTENA HIPÓTESE DE RESCISÃO POR SUAINICIATIVA -ABUSIVIDADE DACLÁUSULA PENAL- NULIDADE QUE SEIMPÕE - PERCENTUAL DE RETENÇÃOA SER FIXADO EM 10% - PRECEDENTESDO STJ -PELO CONHECIMENTO EIMPROVIMENTO DO RECURSO - PORUNANIMIDADE.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 295-296, e-STJ).
+Nas razões de recurso especial (fls. 303-346 e-STJ), alegou o insurgente que o acórdão recorrido violou os arts. 182, 475, 476. 490, 724 do CC e arts. 53 e 54 do CDC, argumentando, em suma, ser necessária a majoração do percentual de retenção para 25% do valor pago. Aduziu, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 396-408, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre ante a incidência das Súmula 5 e 7/STJ.
+Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 569-587, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 610-615, e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal merece prosperar.
+1. Com efeito, no que tange à devolução dos valores pagos pelo promitente comprador, o Tribunal de origem concluiu que o percentual de retenção de 10% (dez por cento) sobre os valores pagos seria o devido para indenizar a recorrida pelos prejuízos decorrentes da resilição contratual.
+No ponto, a Corte manifestou-se nos seguintes termos:
+Nessa seara, observo, pelo conteúdo dos autos, que a requerida não fez qualquer prova das despesas que teve e que pretende ser ressarcida através da retenção parcial dos pagamentos efetivados pela parte autora.
+Sendo assim, dos valores pagos pelos autores, devendo-lhes ser restituído oa citada retenção deve se limitar aos 10% (dez por cento)percentual de 90% sobre os valores pagos.
+Contudo, a Segunda Seção desta Corte, no julgamento do Resp nº 1.723.519/SP, em 28/08/2019, de relatoria da Ministra Maria Isabel Gallotti, reafirmou a orientação pela adoção de um padrão-base de cláusula penal - retenção de 25% dos valores pagos - nos casos de desistência imotivada pelo comprador de imóvel, em que o acórdão recorrido não menciona qualquer circunstância específica apta a justificar a redução do parâmetro jurisprudencial, isto é, aquém do percentual de 25%.
+Confira-se:
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI 13.786/2018. INCORPORAÇÃO IMOBILIÁRIA. DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO AO PROMISSÁRIO COMPRADOR DOS VALORES PAGOS COM A RETENÇÃO DE 25% POR PARTE DA VENDEDORA.
+JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTE FIRMADO EM JULGAMENTO DE RECURSO REPETITIVO.
+1. A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ).
+2. Hipótese em que, ausente qualquer peculiaridade, na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+3. Nos termos da jurisprudência desta Corte, firmada pela Segunda Seção em julgamento submetido ao rito dos recursos repetitivos, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão" (REsp 1.740.911/DF, DJe 22.8.2019).
+4. Recurso especial parcialmente provido.
+(REsp 1723519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe 02/10/2019)
+No caso em apreço, a Corte de origem afirma genericamente que seria cabível a retenção no percentual de 10% (dez por cento) considerando o montante já pago pelos compradores. Isto é, verifica-se que o aresto combatido não examinou o valor dos custos incorridos pela empresa ré e os contrapôs às quantias pagas pelos autores e ao valor do contrato, razão pela qual merece reforma no ponto.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, dar provimento ao recurso especial a fim de majorar o percentual de retenção para 25% do montante pago.
+Publique-se.
+Intimem-se.
+EMENTA
