@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. TRABALHO EM CONDIÇÕES ESPECIAIS. AGENTES QUÍMICOS. EPI INEFICAZ. PRÉVIA FONTE DE CUSTEIO. PREQUESTIONAMENTO. AGRAVO DESPROVIDO.
+- Agravo interno conhecido, eis que observados os pressupostos processuais de admissibilidade recursal.
+- Restando comprovada a exposição a agentes químicos, sabe-se que, mesmo havendo informação nesse sentido, a utilização de EPI não tem o condão de neutralizar o efeito dos agentes nocivos, embora possam minimizá-los. Dessa forma, por não haver prova nos autos da real neutralização ou atenuação do agente nocivo, não há que se falar em descaracterização da insalubridade.
+- Conforme julgamento do E. STF no ARE 664335, apresentando o segurado um PPP que indique sua exposição a um agente nocivo, e inexistindo prova de que o EPI eventualmente fornecido ao trabalhador era efetivamente capaz de neutralizar a nocividade do ambiente laborativo, a configurar uma dúvida razoável no particular, deve-se reconhecer o labor como especial.
+- Não há falar em violação ao princípio do equilíbrio atuarial e financeiro e da prévia fonte de custeio, pois cabe ao Estado verificar se o fornecimento de EPI é suficiente a neutralização total do agente nocivo e, em caso negativo, como o dos autos, exigir do empregador o recolhimento da contribuição adicional necessária a custear o benefício a que o trabalhador faz jus, haja vista que o não recolhimento da respectiva contribuição não pode ser atribuído ao trabalhador, mas sim à inércia estatal no exercício do seu poder de polícia.
+- Relativamente ao prequestionamento de matéria ofensiva a dispositivos de lei federal e de preceitos constitucionais, tendo sido o recurso apreciado em todos os seus termos, nada há que ser discutido ou acrescentado aos autos.
+- Agravo interno desprovido.
+A parte agravante afirma que ocorreu violação do art. 1.022, II, do CPC e dos arts. 57, § 6º, 58, § 2º, e 125 da Lei 8.213/1991. Sustenta que, com a utilização do EPI, não houve efetiva exposição aos agentes químicos.
+Contrarrazões apresentadas às fls. 400 a 421.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.5.2024.
+O acolhimento da preliminar de violação do art. 1.022 do CPC exige que o recorrente aponte com clareza o vício do qual padece o aresto combatido, bem como que demonstre a relevância dele à conclusão do julgado, de forma que, se analisado a contento, poderia levar à alteração do resultado do julgamento. A argumentação genérica de que houve ofensa ao referido dispositivo legal atrai a incidência, por analogia, da Súmula 284/STF. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. (..) AGRAVO INTERNO DESPROVIDO.
+1. A alegação de ofensa genérica aos arts. 489 e 1.022 do CPC/2015, sem mencionar de que forma tais dispositivos teriam sido violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir a Súmula 284/STF.
+(..) 6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 2.115.843/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 7/6/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. SÚMULA 284/STF. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+(..) 2. A alegada violação do art. 1.022, cumulado com o art. 489, ambos do CPC/2015, não pode ser conhecida, pois as razões são genéricas e desprovidas de fundamentação, na medida em que se limitam a dizer que o Tribunal a quo se manteve omisso quanto aos argumentos elencados nos embargos de declaração, não cumprindo o dever de fundamentação. Inteligência da Súmula 284/STF.
+(..) 5. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento. (AgInt no AREsp 2.216.272/RJ, Rel. Ministro Raul Araújo, Quarta Turma, DJe 27/4/2023)
+No enfrentamento da matéria, o Colegiado originário asseverou:
+Como já fundamentado na decisão atacada, restando comprovada a exposição a agentes químicos, sabe-se que, mesmo havendo informação nesse sentido, a utilização de EPI não tem o condão de neutralizar o efeito dos agentes nocivos, embora possam minimizá-los. Dessa forma, por não haver prova nos autos da real neutralização ou atenuação do agente nocivo, não há que se falar em descaracterização da insalubridade. (fl. 335)
+O órgão julgador decidiu a vexata quaestio com base no suporte fático-probatório dos autos, concluindo pela ineficácia do EPI contra a exposição a agentes químicos. Com efeito, rever tais conclusões demanda reexame de fatos e provas, inadmissível na via especial ante o óbice da Súmula 7/STJ. Nessa linha :
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INCONFORMISMO. ATIVIDADE ESPECIAL. EFICÁCIA DO EPI COMPROVADA. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Não ocorreu ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O acórdão recorrido, com base nos fatos e nas provas dos autos, reconheceu que a comprovada eficácia do EPI afasta a especialidade da atividade exercida. Tal entendimento não pode ser revisto, a teor da Súmula 7/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.151.894/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 7/3/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. TEMPO ESPECIAL. EPI. NEUTRALIZAÇÃO DA INSALUBRIDADE. SÚMULA 7/STJ. POSSIBILIDADE DE CONVERSÃO DE TEMPO COMUM EM ESPECIAL. CRITÉRIO. LEGISLAÇÃO VIGENTE QUANDO PREENCHIDOS OS REQUISITOS DA APOSENTADORIA. PRECEDENTE DO STJ.
+1. "É assente nesta Corte que o fornecimento pela empresa ao empregado Equipamento de Proteção Individual - EPI não afasta, por si só, o direito ao benefício de aposentadoria com a contagem de tempo especial, devendo ser apreciado caso a caso, a fim de comprovar sua real efetividade por meio de perícia técnica especializada e desde que devidamente demonstrado o uso permanente pelo empregado durante a jornada de trabalho. É incabível, em sede de recurso especial, a análise da eficácia do EPI para determinar a eliminação ou neutralização da insalubridade, devido ao óbice da Súmula 7/STJ" (STJ, AgRg no AREsp 402.122/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 25.10.2013).
+2. O STJ, ao julgar o Recurso Especial 1.310.034/PR (de minha relatoria, Primeira Seção, DJe 19.12.2012), submetido à sistemática do art. 543-C do CPC/1973, firmou entendimento segundo o qual se aplica ao direito de conversão entre tempo comum e especial a lei em vigor à época da aposentadoria, independentemente do período no qual as atividades foram exercidas pelo segurado.
+3. A lei vigente no momento da aposentadoria, quanto ao direito à conversão do tempo de serviço comum em especial, era o art. 57, § 5º, da Lei 8.213/1991, com a redação dada pela Lei 9.032/1995, que suprimiu a possibilidade de conversão de tempo comum em especial, mantendo apenas a hipótese de conversão de tempo especial em comum.
+4. No caso dos autos, o requerimento da aposentadoria foi em 20.8.2008, quando não mais autorizada a conversão de tempo comum em especial, objeto da presente ação.
+5. Recurso Especial do INSS não conhecido e Recurso Especial do segurado não provido.
+(REsp 1.662.171/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 12/9/2017)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
