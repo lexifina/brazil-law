@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto contra acórdão assim ementado:
+AÇÃO RESCISÓRIA. FATO NOVO. INOCORRÊNCIA. NOVO JULGAMENTO. IMPOSSIBILIDADE. ART. 968, I, CPC. Pretensão à rediscussão da matéria em virtude da ocorrência de fato novo. Impossibilidade. Autoras que apresentaram petição nos autos do processo administrativo, provocando resposta da Administração Pública. No entanto, referido despacho não pode ser considerado como fato novo, nos termos do artigo 968, I, do Código de Processo Civil, de modo a ensejar novo julgamento. Indeferimento da petição inicial, com extinção do processo, sem julgamento de mérito, nos termos do art. 487, I, do CPC. Ação rescisória julgada extinta.
+Embargos de Declaração rejeitados (fls. 1.269-1. 272).
+No Recurso Especial (fls. 1.274-1.289), as agravantes alegam violação dos arts. 2º, 141, 492, 966, VII, e 1.022, II, do Código de Processo Civil.
+Contrarrazões às fls. 1.292-1.298.
+A inadmissão do Recurso motivou a interposição do Agravo de fls. 1.316-1.324.
+Parecer do MPF pelo provimento do Recurso Especial às fls. 1.347-1.353.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.5.2024.
+As recorrentes afirmam que o art. 1.022, II, do CPC foi infringido nestes termos (fl. 1.277, grifei):
+4- A violação aos artigos 2º, 141 e 492, caput e art. 1.022, inciso II, do CPC/2015 guarda relação ao fato de que o V. Acórdão recorrido toma como "fato novo" apenas o pedido de cumprimento da decisão da prefeita em 07.10.2020 quando, na verdade, o "fato novo" é o procedimento administrativo inteiro, pois as recorrentes nunca foram intimadas sobre os atos administrativos proferidos naqueles autos, tendo ciência da decisão da prefeita somente depois do trânsito em julgado da ação trabalhista. Mesmo com a interposição de Embargos de Declaração o grupo de câmaras julgador de origem não abordou especificamente o fato novo (ou melhor, prova nova, como argumentaremos mais pormenorizadamente quando abordarmos a violação ao art. 966, inciso VII do CPC/2015) contido na exordial. Portanto, trata-se de caso de julgamento extra petita, uma vez que o V. Acórdão de origem avalia fatos e causa de pedir diversos (muito mais restritos e parciais) do que aqueles apontados na petição inicial.
+De fato, consta nos Embargos de Declaração:
+Ao contrário do assinalado no V. Acórdão, o fato novo que ensejou a propositura da presente ação rescisória não foi apenas a mera "reiteração do pedido de cumprimento da decisão do Alcaide", mas sim a decisão da então Prefeita QUE ADMITIU AS REQUERENTES, exarada em 30.08.2012, e a subsequente decisão do Secretário de Saúde que determinou o seu cumprimento, proferida em 18.10.2013 (vide fls. 05/06, item 03).
+Como exposto na petição inicial em fls. 08/10, item 07, as requerentes NÃO FORAM INTIMADAS dos referidos atos administrativos. Elas só vieram a tomar ciência de tais decisões muito tempo depois do trânsito em julgado da ação trabalhista, em 2020, quando então formularam o pedido para cumprimento das referidas decisões.
+Portanto todo o procedimento administrativo transcorreu sem que as requerentes fossem cientificadas (prática que, infelizmente, é comum no município requerido). Todo o procedimento administrativo, incluindo as decisões administrativas que ADMITIRAM AS REQUERENTES NO SERVIÇO PÚBLICO MUNICIPAL constituem fato novo (se analisarmos o procedimento como um todo) ou fatos novos (se analisarmos os atos administrativos individuais, como as decisões administrativas e as cotas dos servidores) para efeitos da presente ação rescisória. E isto porque as requerentes só tiveram ciência inequívoca de todo o procedimento administrativo ou de todos os atos administrativos que o compõem depois do trânsito em julgado da ação trabalhista.
+As requerentes não puderam utilizar todo o teor do procedimento administrativo e, principalmente, das decisões que as admitiram no serviço público municipal nos autos da ação trabalhista (para alegar, por exemplo, a perda do objeto da ação) porque NUNCA foram intimadas ou cientificadas dessas decisões. Portanto todo o procedimento administrativo é realmente FATO NOVO em relação ao objeto da ação trabalhista.
+Observa-se que o Tribunal a quo não se pronunciou sobre a alegação de que a prova nova é todo o processo administrativo que correu à revelia das autoras, no qual constariam, inclusive, decisões proferidas em 2012 pela Prefeita e em 2013 pelo Secretário Municipal de Saúde que reconhecem o direito ao enquadramento no regime estatutário.
+No julgamento dos Aclaratórios, tampouco houve apreciação do argumento.
+Sabe-se que, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1.521.778/MA, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 20.2.2020).
+Dessarte, necessário o retorno dos autos à Corte local a fim de que esta, em novo julgamento dos Embargos de Declaração, se manifeste expressamente acerca do ponto omitido.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, dar-lhe provimento nos termos da fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
