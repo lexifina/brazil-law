@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+EXPEDIENTE DA PRESIDÊNCIA DA SEÇÃO DE DIREITO PÚBLICO V. acórdão proferido em 04.08.2021, com a seguinte ementa:
+"APELAÇÃO. MANDADO DE SEGURANÇA. ICMS. ALÍQUOTA. SERVIÇOS DE TELECOMUNICAÇÕES E DE ENERGIA ELÉTRICA. Alegação de inconstitucionalidade do art. 34 da Lei Estadual 6.374/89, que fixou alíquota de 25% para os serviços de energia elétrica e telecomunicações. Pleito de redução da alíquota para o patamar de 18% e restituição dos valores cobrados a maior.
+DESACOLHIMENTO DA PRETENSÃO. Arguição de inconstitucionalidade nº 041018-45.2016.8.26.0000 julgada pelo C. Órgão Especial deste E. Tribunal de Justiça que reconheceu a constitucionalidade do art. 34, § 1º, itens "4", "b", e "8", da Lei Estadual nº 6.374/89. Possibilidade de fixação de alíquota de 25% pelo Estado de São Paulo para serviços de energia elétrica e telecomunicações. Precedentes deste E. Tribunal de Justiça.
+RE nº 714.139/SC com repercussão geral, que trata de caso análogo aos dos autos, mas que ainda não foi julgado. R. decisão proferida pelo Min. Marco Aurélio em 17.08.2016 que indeferiu pedido de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a mesma questão e que tramitem no território nacional. Inexistência de óbice à apreciação e julgamento do presente recurso de apelação neste momento. R. sentença denegatória da segurança mantida.
+RECURSO DE APELAÇÃO DO IMPETRANTE DESPROVIDO."
+Devolução dos autos à Turma Julgadora pela E. Presidência da Seção de Direito Público deste Tribunal de Justiça (art 1.030, inciso II do CPC/2015), por determinação do E. Supremo Tribunal Federal.
+V. acórdão proferido em 2021. Tema 745 julgado pelo C. STF não aplicável no presente caso, em que a ação foi ajuizada após o julgamento do mérito de referido Tema. Nova interpretação só produzirá efeitos a partir de 2024. Precedentes desta E. Corte.
+V. ACÓRDÃO DE FLS. 651/667 (proferido em 26.05.2021) MANTIDO.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente aponta, além da divergência jurisprudencial, violação dos seguintes dispositivos: a) arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissões; b) arts. 19, 20 e 927, III, do Código de Processo Civil, alegando direito ao afastamento da alíquota majorada de ICMS para as operações a partir de 2024; c) arts. 933 e 485, VI, do Código de Processo Civil, 15 da LC n. 194/2022, 18-A, parágrafo único, I, do Código Tributário Nacional e 32-A, § 1º, I, da Lei Complementar n. 87/96, aduzindo que o Tribunal a quo deixou de se manifestar sobre os impactos das alterações legislativas supervenientes ao presente feito.
+Houve c ontrarrazões ao recurso especial (e-STJ fls. 499/503).
+O Tribunal de origem inadmitiu o recurso especial em virtude da solução da controvérsia à luz da Carta Magna, da ausência de ofensa aos arts. 489 e 1.022 do CPC e pela incidência das Súmulas n. 280/STF e 7/STJ.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 587/591).
+É o relatório. Decido.
+Não foram impugnados todos os fundamentos de inadmissibilidade.
+A despeito da argumentação acerca da negativa de prestação jurisdicional e da não incidência das Súmulas n. 280/STF e 7/STJ, a Corte local também inadmitiu o apelo com fulcro no seguinte fundamento (e-STJ fl. 533):
+Desde logo, consigne-se que a tese sob exame somente pode ser analisada por meio do recurso especial em casos nos quais não dirimida a controvérsia à luz da Carta Magna.
+Nestes autos, valeu-se a douta Turma Julgadora da interpretação de princípio constitucional para alcançar a exegese conferida ao caso concreto, hipótese essa estranha à esfera de admissibilidade do recurso especial. Nesse sentido: AgRg no AREsp 653.370/PR, 2ª Turma, Rel. Min. HUMBERTOMARTINS, DJe de 30/09/2015; AgRg no REsp 1549797/CE, 1ª Turma, Rel. Min. BENEDITO GONÇALVES, DJe de 19/11/2015 e AREsp 1.787.217/SP, Rel. Min. HUMBERTO MARTINS, DJe de 18/01/2021.
+No ponto, a parte restou inerte em suas razões recursais.
+Tal conduta revela combate não específico e inapto a reformar a decisão agravada.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado específica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação ao não cabimento do REsp quando a tese recursal é eminentemente constitucional, Súmula 83/STJ e Súmula 7/STJ. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial, precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida a impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, embora autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC e a Súmula 182 do STJ, aplicável por analogia.
+5. Em nova análise do agravo interposto, vê-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência da Súmula 182 do STJ no caso.
+6. A mera afirmação de que o caso não demanda o reexame de fatos e provas ou então a menção às razões expostas no recurso especial não bastam para infirmar a incidência da Súmula 7/STJ. A jurisprudência do STJ entende que, para comprovar a inaplicabilidade desse enunciado sumular, a parte agravante deve realizar o cotejo entre o acórdão recorrido e a tese recursal.
+7. Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, incumbe à parte interessada apontar julgados deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada. Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+8. Inviável a análise de questões atinentes ao mérito do recurso especial que nem sequer ultrapassou o juízo de admissibilidade. Precedentes.
+9. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
