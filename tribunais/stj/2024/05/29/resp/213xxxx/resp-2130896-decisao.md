@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+PROCESSUAL CIVIL. Embargos de declaração acolhidos para o deferimento da penhora. Ausência de intimação prévia da executada para se manifestar. Nulidade. Inocorrência. Oposição de embargos à execução contados a partir da intimação da penhora. Não demonstrado o efetivo prejuízo, o ato não será repetido nem sua falta suprida.
+Inteligência do artigo 282, § 1º, do Código de Processo Civil. Decisão mantida.
+RECURSO NÃO PROVIDO.
+Em suas razões recursais, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 9º, 10, 1.022, e 1.023, § 2º, do CPC.
+Sustenta, em suma (fls. 61-62):
+O Recurso Especial pretende a reforma do acórdão recorrido para declarar a nulidade das decisões proferidas às fls. 344/345, e fls. 360/361 dos autos da Execução Fiscal nº. 1500017-63.2016.8.26.0466, em que, o juízo a quo, em sede de apreciação de Embargos de Declaração opostos pela FESP, deferiu a penhora de bem imóvel de titularidade da Recorrente, sem, contudo, intimá-la sobre atos de constrição patrimonial, ou mesmo para que pudesse apresentar contrarrazões aos recursos manifestamente modificativos opostos pela Recorrida no processo de origem, nos termos do artigo 1.023, § 2º, do CPC.
+Ainda que proferida em sede de Embargos de Declaração com o fito de fundamentar a decisão de deferimento de penhora, é dever do magistrado promover a devida intimação da Recorrente, especialmente por se tratar de mandamento legal expresso, sob pena de ser reconhecida a nulidade dos atos, desde o momento em que verificada a irregularidade insanável, causada pela ausência da intimação ou da intimação inválida.
+Com efeito, o artigo 1.023, § 2º, do CPC é mandatório: uma vez que se verifica a possibilidade de efeitos modificativos à decisão embargada, faz-se obrigatória a intimação da parte embargada para que sejam ofertadas contrarrazões aos Embargos de Declaração, (..).
+Afirma que "a falta de intimação, em duas oportunidades, para a apresentação de Contrarrazões aos Embargos de Declaração com efeito notoriamente modificativos, prejudicou certamente o direito de defesa da Recorrente, bem como impactou sua atividade empresarial, especialmente pelo deferimento da penhora de seus bens essenciais" (fl. 63).
+Contrarrazões às fls. 123-120.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9 de maio de 2024.
+Cuida-se, na origem, de Agravo de Instrumento interposto pela ora recorrente contra decisão que, no âmbito da Execução Fiscal movida pelo Estado de São Paulo, rejeitou os Embargos de Declaração da executada que pretendia o reconhecimento de nulidade das decisões anteriores ante a ausência de sua intimação.
+A Corte a quo consignou (fls. 48-51):
+No caso em apreço, a controvérsia reside na nulidade, ou não, das decisões de fls. 344-345 e 352, visto que a embargada, ora agravante, não fora previamente intimada para se manifestar sobre os embargos de declaração opostos pela Fazenda Pública Estadual que foram acolhidos, modificando a decisão embargada.
+Com efeito, em que pese a inobservância do procedimento a ser adotado em caso de eventual acolhimento dos embargos de declaração, a questão em análise deve ser interpretada à luz da sistemática do Processo Civil e seus respectivos princípios.
+Nesse sentido, convém destacar o entendimento do C. Superior Tribunal de Justiça acerca da declaração de nulidade dos atos processuais, aduzindo que "O reconhecimento de qualquer nulidade no processo demanda a análise do juízo sobre se a atipicidade do ato perpetrado gerou prejuízo para os fins de justiça do processo, sendo certo que, no processo civil, a regra é o aproveitamento do ato, ainda que praticado fora do modelo legal, contanto que tenha sido alcançada a sua finalidade".(EDcl no AgRg no MS 22619 / DF, rel. Min. Luiz Felipe Salomão, Corte Especial, j. em 19.12.2016)
+Exsurge-se desse cenário que, no devido processo legal, "entram preocupações que não se restringem aos aspectos formais ou procedimentais ligados à garantia de contraditório e ampla defesa. Integram-na também escopos de ordem substancial, quando se exige do juiz que não seja apenas a "boca da lei" a repetir na sentença a literalidade dos enunciados das normas ditadas pelo legislador. Na interpretação e aplicação do direito positivo, ao julgar a causa, cabe-lhe, sem dúvida, uma tarefa integrativa, consistente em atualizar e adequar a norma aos fatos e valores em jogo no caso concreto." (Theodoro Júnior, Humberto. Curso de Direito Processual Civil Teoria geral do direito processual civil, processo de conhecimento e procedimento comum. 56ª edição. Rio de Janeiro. Editora Forense, 2015. Páginas 98-99)
+Na execução fiscal, é certo que o deferimento da penhora prescinde de prévia intimação da parte executada, já que supradita medida poderá recair sobre qualquer bem do executado, quando não houver o pagamento ou a garantia da execução, consoante disposição do artigo 10º da Lei nº 6.830/80.
+Outrossim, observado que a intimação da penhora ao executado é realizada do "ato de juntada do termo ou do auto de penhora", é possível concluir que a abertura de prazo para manifestação do executado ocorrerá após efetivação do ato constritivo, em conformidade com os artigos 12 e 16 da Lei de Execuções Fiscais.
+(..)
+Assim, a agravante não se desincumbiu do ônus de demonstrar o efetivo prejuízo que possibilitaria o reconhecimento da nulidade, nos termos do artigo 282, § 1º do Código de Processo Civil.
+Curial, pois, a manutenção da decisão agravada.
+Muito embora o CPC não estabeleça em nenhum de seus artigos a necessidade de intimação do devedor previamente à realização da penhora, o STJ possui jurisprudência firmada no sentido de que a dispensa das contrarrazões somente é admitida nos casos de rejeição dos Embargos Declaratórios, pois a intimação para a apresentação de resposta é condição de validade da decisão que causa prejuízo ao embargado, nos termos do art. 1.023, § 2º, do CPC. A propósito:
+POSSIBILIDADE DE ATRIBUIÇÃO DE EFEITOS MODIFICATIVOS AO JULGADO. NECESSIDADE DE INTIMAÇÃO DA CONTRAPARTE.
+O entendimento da Corte Especial do Superior Tribunal de Justiça é no sentido de que, havendo "possibilidade de concessão de efeitos infringentes aos embargos declaratórios, os princípios do contraditório e da ampla defesa pressupõem a viabilidade de a Parte Embargada participar da construção comunicativa da decisão judicial, de modo a agregar aos autos suas contrarrazões antes do pronunciamento da Corte" (EAREsp 285.745/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 2/2/2016.).
+Embargos de divergência providos.
+(EREsp 1049826/SP, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 24/11/2016.)
+Dessa forma, imprimir efeitos modificativos, por meio do julgamento dos Aclaratórios, sem a observância da norma prevista no art. 1.023, § 2º, do CPC, acarretou cerceamento de defesa, razão pela qual reconheço a nulidade do processo, desde então.
+Assim, determino o retorno dos autos à origem, para anular o acórdão recorrido e a decisão proferida nos EDcl e sanar a nulidade absoluta verificada no caso, com a intimação da empresa, ora recorrente, para apresentação de resposta aos Embargos Declaratórios e posterior julgamento do feito, conforme entender de direito.
+Ante o exposto, dou provimento ao Recurso Especial, determinando o retorno dos autos ao TJSP, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
