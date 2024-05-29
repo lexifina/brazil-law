@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de novos embargos de declaração opostos por GIL CÉSAR DANTAS BRUEL contra decisão monocrática de minha relatoria que rejeitou anteriores embargos de declaração (fls. 1.425-1.428).
+Nas razões dos aclaratórios, o embargante reitera alegação de omissão no julgado, diante da "ausência de apreciação dos requerimentos do Agravo em Recurso Especial em comento, em especial o de reconhecimento de violação aos seguintes dispositivos de lei Federal: os artigos 6º, 8º e 489 do Código de Processo Civil" (fl. 1.435).
+Aduz que "não há o que falar em não cumprimento da dialeticidade recursal, devendo-se, portanto, tanto os últimos Embargos de Declaração, como o Agravo em Recurso Especial serem conhecidos e acolhidos, tendo em vista que foram devidamente preenchidos os requisitos recursais intrínsecos e extrínsecos, como a tempestividade, cabimento, preparo, bem como o cumprimento do princípio da dialeticidade recursal" (fl. 1.436).
+Assevera, ainda, que "não pretende o rejulgamento da causa, mas efetivamente demonstrar os vícios, em especial a omissão" (fl. 1.436).
+Impugnação às fls. 709-715.
+É, no essencial, o relatório.
+Nada a acolher.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A decisão ora embargada, bem como a anterior, foram claras ao consignar que o agravo em recurso especial não foi conhecido em razão da ausência de impugnação dos fundamentos do Tribunal de origem que inadmitiu o recurso especial, o que fez incidir o óbice da Súmula n. 182/STJ.
+Repise -se que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional.
+A propósito, cito:
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAM).IN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008 (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mais, uma vez já manejados anteriores aclaratórios, em que já reiterada a tese da omissão, sendo que tal premissa já fora rejeitada, os segundos se mostraram totalmente descabidos, pois a "reiteração da insurgência em segundos aclaratórios revela intuito protelatório, ensejador da multa do art. 1.026, § 2º, do CPC/2015" (EDcl nos EDcl no AgInt no REsp n. 1.439.800/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 28/10/2021).
+A título de reforço, confiram -se :
+1. Os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores. Caracterizado, na espécie, o manifesto caráter protelatório dos segundos embargos de declaração opostos na origem, é de rigor a manutenção da multa prevista no § 2º do art. 1.026 do CPC/2015. (AgInt no AREsp n. 2.097.025/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 4/10/2022.)
+IV - Os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois a oportunidade para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa, ensejando a imposição de multa por prática processual abusiva e manifestamente protelatória, nos termos do art. 1.026, § 2º, do CPC/15. (AgInt no REsp n. 1.897.694/ES, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 11/2/2021.)
+Ante o exposto, rejeito os embargos de declaração, com imposição de multa no patamar de 1 % do valor da causa, nos termos do art. 1.026, § 2º, do CPC.
+Publique-se . Intimem-se.
+EMENTA
