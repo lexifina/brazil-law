@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo DISTRITO FEDERAL contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ e, no tocante à alegação de violação ao art. 40 da LEF, negou seguimento ao apelo extremo com base em tese firmada em sede de recurso repetitivo.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos, já que "a interrupção do prazo prescricional pelo parcelamento do crédito tributário, que está veiculada em documento dotado de fé pública, exige apenas a análise de matéria de direito, não havendo falar em reexame de fatos, mas somente de análise jurídica sobre o valor da prova documental".
+Acrescenta, ainda, que "diferentemente da fundamentação constante da decisão recorrida, não estão presentes os elementos procedimentais legalmente definidos para a decretação da prescrição intercorrente".
+É o relatório.
+Passo a decidir.
+De início, verifica-se que o Tribunal de origem negou seguimento ao recurso especial, com base no art. 1.030, I, b, do CPC/2015, no tocante à alegação de ofensa ao art. 40 da LEF, tendo em vista o entendimento firmado no REsp 1.340.553/RS (Temas 566 a 571). Quanto ao mais, o Tribunal de origem inadmitiu o Recurso Especial com base na Súmula 7 do STJ.
+Nesse contexto, somente podem ser apreciadas, no agravo em recurso especial, as alegações da parte recorrente que foram inadmitidas pelo Tribunal a quo, porquanto não compete a essa Corte Superior analisar questões às quais cujo seguimento tenha sido negado na origem, com base na aplicação de entendimento firmado em julgamento de recursos repetitivos, sendo cabível, para tanto, a interposição de agravo interno ao próprio Tribunal, de acordo com o art. 1.030, § 2º, do CPC/2015. Isso porque, "na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011" (AgInt no AREsp n. 2.478.661/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Portanto, de fato, não podem ser conhecidas as alegações referentes à violação ao art. 40 da LEF.
+Quanto ao mais, atendidos os pressupostos de conhecimento do agravo em recurso especial no tocante à alegação de violação ao art. 174 do CTN, passo à análise do recurso especial.
+O recurso não merece prosperar.
+A pretensão da parte recorrente relativa à violação do art. 174, IV, do CTN encontra óbice na Súmula 7 do STJ. Isso porque, para alterar as conclusões do órgão julgador, que consignou expressamente que "os documentos constantes ao ID 49369304, prints da tela do Sistema de Tributação e Administração Fiscal (SITAF), por si só, não servem como prova capaz de dar reconhecimento da dívida pelo executado, muito menos para provar a interrupção do prazo prescricional", seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. ARGUIÇÃO DE AUSÊNCIA DE INTERESSE PROCESSUAL. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ACÓRDÃO COM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. MATÉRIA INSUSCETÍVEL DE ANÁLISE EM RECURSO ESPECIAL.
+ ..
+2. No mais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido (AgInt no AREsp n. 2.241.284/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+Isso posto, conheço parcialmente do agravo para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
