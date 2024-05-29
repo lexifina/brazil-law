@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 524):
+PRESTAÇÃO DE SERVIÇO - TELEFONIA - INEXIGIBILIDADE DE DÉBITO - DANOS MORAIS - Débito inexigível - Dano moral não caracterizado - SENTENÇA DE PARCIAL PROCEDÊNCIA para declarar a inexigibilidade do débito, arcando o Autor com as custas e despesas processuais e os honorários advocatícios - RECURSO DO AUTOR IMPROVIDO
+No recurso especial (e-STJ fls. 532/570), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente aponta:
+(i) negativa de vigência aos arts. 206, § 5º, I, do CPC e 37, 43, 46, 47, 51 e 73 do CDC, defendendo a abusividade na manutenção do nome do devedor na plataforma "Serasa Limpa Nome", tendo em vista que a dívida encontra-se prescrita,
+(ii) violação do art. 85, §§ 2º e 8º, do CPC, pleiteando a fixação dos honorários advocatícios sobre o valor da causa.
+Foram oferecidas contrarrazões (e-STJ fls. 573/579).
+É o relatório.
+Decido.
+I) A Corte de origem asseverou a inexistência de abusividade na inscrição do nome do recorrente na plataforma "Serasa Limpa Nome". Confira-se (e-STJ fls. 525/526):
+Incontroversa a constância de débito prescrito (com vencimento em 16 de novembro de 2000, no valor de R$ 308,42; em 15 de agosto de 2013, no valor de R$ 243,04; e em 25 de junho de 2013, no valor de R$ 329,90 fls.59/61) na plataforma "Serasa Limpa Nome", em nome do Autor, notando-se que aplicável à espécie a prescrição quinquenal, nos termos do artigo 206, parágrafo quinto, inciso I, do Código Civil.
+Logo, consumada a prescrição da dívida, correto o reconhecimento da inexigibilidade do débito.
+Quanto ao mais, na definição de Clóvis Beviláqua, a prescrição é a "perda da ação atribuída a um direito, e de toda a sua capacidade defensiva, em consequência do não uso dela, durante determinado espaço de tempo".
+Assim, embora a prescrição não atinja o direito subjetivo em si (e, por conseguinte, seja inadmissível o reconhecimento da inexistência do débito), a sua ocorrência impossibilita a cobrança da dívida, não apenas pela via judicial, como também pela via extrajudicial.
+ ..
+Nesse sentido, incabível que a Requerida realize indefinidamente atos de cobrança do débito (ainda que extrajudicialmente), inclusive através da plataforma "Serasa Limpa Nome", pois, embora não se constitua em cadastro de inadimplência, não há razão para a Requerida manter registro de débito inexigível em sistema de terceiros que visa à obtenção do pagamento pelo consumidor (o que configura cobrança indireta do débito).
+Quanto aos danos morais, o mero registro de dívida prescrita na plataforma "Serasa Limpa Nome" (que viabiliza a renegociação de débitos entre consumidor e credor, sem que necessariamente haja registro dos débitos em cadastros de inadimplência), ou similares, por si só, não caracteriza o dano moral, uma vez que não se constitui em cadastro de inadimplência.
+Ademais, não demonstrado o nexo de causalidade entre o score do Autor e o débito prescrito, tampouco que o débito inserido na plataforma foi divulgado a terceiros ou registrado em cadastros de inadimplência, notando-se que o débito não negativado não é utilizado no cálculo do Serasa Score.
+Assim, porque a mera inclusão do nome do Autor na plataforma "Serasa Limpa Nome" não gera restrição ao crédito, não caracterizado o dano.
+A Corte local amparou seu entendimento em dois fundamentos: (i) a redução do "score" ou dificuldades creditícias não foram demonstradas, e (ii) a plataforma "Serasa Limpa Nome" não dá ampla publicidade à existência de obrigação não paga, inexistindo divulgação de dados a terceiros.
+Para rever o entendimento do Tribunal de origem, de que não ficou comprovada a divulgação da dívida a terceiros nem a alteração no sistema de pontuação de crédito (score), seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7 do STJ.
+Ademais, a Corte de origem consignou expressamente que o débito encontra-se prescrito. Nesse contexto, concluiu por sua inexigibilidade, tanto judicial quanto extrajudicialmente, ressaltando também que a plataforma "Serasa Limpa Nome" não constitui cadastro de inadimplentes.
+Contudo, no recurso especial, o recorrente discorre longamente acerca (i) do prazo de manutenção de nomes em cadastro de inadimplentes, (ii) da ilegalidade de cobrança de dívidas prescritas, (iii) da restrição de crédito e da redução do score do autor com a inscrição na plataforma, (iv) da cobrança abusiva da dívida, e (v) da publicidade enganosa e abusiva da "Serasa Limpa Nome".
+A parte recorrente não impugnou fundamento do acórdão recorrido, apresentando alegação dissociada do decidido no aresto. Incidem assim as Súmulas n. 283 e 284 do STF.
+II) A petição recursal deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem (art. 1.010, II, do CPC/2015), a fim de permitir ao órgão colegiado cotejar as afirmações lançadas na decisão judicial com as motivações expendidas no recurso.
+A sentença julgou a ação parcialmente procedente para declarar inexigíveis os débitos apontados. Em relação à sucumbência, concluiu que, pela derrota substancial, deveria a parte autora arcar com os honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa.
+A Justiça local, no julgamento da apelação, consignou que "o Autor pleiteou a inexigibilidade do débito no valor total de R$ 881,36, e indenização por danos morais no valor de R$ 44.000,00, mas declarada apenas a inexigibilidade do débito, de modo que cabível a manutenção da distribuição das verbas da sucumbência" (e-STJ fl. 526).
+No entanto, nas alegações do recurso especial, o recorrente afirma que "o valor da causa deveria ter sido utilizado como base de cálculo para fixação dos honorários advocatícios" (e-STJ fl. 567).
+A discrepância entre as razões recursais e os fundamentos do aresto recorrido impede o conhecimento do especial, ante a incidência, por analogia, da Súmula n. 284 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 62 ), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
