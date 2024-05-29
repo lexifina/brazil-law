@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de petição encaminhada como agravo regimental interposta por CLEVERTON SANTANA MATIAS SANTOS, em face de decisão proferida, às fls. 162-170, que deu provimento ao agravo regimental interposto pelo Ministério Público Federal, para reconsiderar a decisão de fls. 106-115 e denegar o habeas corpus, mantendo a decisão a quo que indeferiu o indulto ao paciente.
+No presente recurso, o recorrente aponta omissão na decisão proferida quanto ao pedido de modulação da alteração de entendimento jurisprudencial.
+Sustenta que a defesa havia destacado na inicial que, tendo sido concedido o indulto dos presentes autos em 30/05/2023, deve ser aplicado o entendimento firmado pela 3ª Seção do STJ quando do AgRg no HC n. 856.053/SC, no sentido de que somente o crime impeditivo praticado em concurso com o crime não impeditivo impediria o indulto deste.
+Afirma que foi ressaltado que o novo entendimento firmado pela 3ª Seção do STJ, em 24/04/2024, quando do julgamento do AgRG no HC 890.929/SE, somente se aplicaria aos indultos concedidos a partir de 24/04/2024, não sendo o caso dos autos.
+Alega que o STJ não se manifestou sobre a modulação da alteração jurisprudencial sustentada na inicial da ação mandamental.
+Requer, ao final, a manifestação sobre o pedido relativo à modulação dos efeitos da alteração de entendimento e que seja dado efeitos infringentes ao presente recurso.
+É o relatório. DECIDO.
+Inicialmente, verifico das razões recursais que, embora tenha encaminhado o recurso interposto como agravo regimental, o recorrente pretende sanar omissão supostamente presente na decisão recorrida. Assim, recebo a irresignação como embargos de declaração, em atenção ao princípio da fungibilidade. Nesse sentido:
+" ..  Verifica-se que o recorrente visa a sanar suposto vício de omissão, razão pela qual se recebe a irresignação como se embargos de declaração fossem, em homenagem ao princípio da fungibilidade recursal" (AgRg no AgRg no HC n. 650.466/BA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/11/2021).
+Os presentes embargos não reúnem condições de prosperar.
+De plano, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também podem ser admitidos para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, III, do atual Código de Processo Civil.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+No mesmo sentido: EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023 e EDcl no AgRg no RHC n. 163.279/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022.
+No presente caso, todavia, não se verifica qualquer dos vícios que permitem o manejo da espécie recursal.
+Ao analisar os autos, verifica-se que o embargante aponta que a decisão foi omissa, pois não se manifestou sobre a alteração de entendimento jurisprudencial sustentada na inicial da ação mandamental.
+Contudo, da leitura dos argumentos de mérito lançados na inicial, verifica-se que não houve pedido de modulação do entendimento jurisprudencial, o qual, inclusive, ocorreu após a impetração do presente habeas corpus.
+Conforme exposto na decisão ora embargada, a Terceira Seção deste Tribunal Superior reformulou a sua tese, assentando o mesmo posicionamento do STF quando do julgamento do seu HC n. 890.929/SE, a fim de considerar que o crime impeditivo do benefício do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser tanto o praticado em concurso como o remanescente em razão da unificação de penas.
+O entendimento jurisprudencial foi firmado no julgamento do AgRg no HC n. 890.929/SE, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 29/4/2024, ou seja, posterior a impetração deste habeas corpus, que data de 13/03/2024.
+Logo, não havia nestes autos manifestação anterior do ora recorrente no seguinte sentido.
+Assim, verifica-se que os argumento s apresentados não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita. Nesse prisma, a pretensão não está em harmonia com a natureza e a função do recurso integrativo.
+A esse respeito: EDcl no AgRg no AREsp n. 1.203.591/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022; EDcl no REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 24/8/2022, DJe de 26/8/2022; e EDcl no AgRg no HC n. 713.568/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022).
+Por fim, salienta-se que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022). Portanto, não cabe a parte pleitear a aplicação de entendimento já superado a casos pendentes de julgamento, nos quais, deverá incidir a jurisprudência atual desta Corte.
+A propósito:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INADIMPLEMENTO DA PENA DE MULTA CUMULATIVAMENTE APLICADA. HIPOSSUFICIÊNCIA DO REEDUCANDO. PRESUNÇÃO RELATIVA DE VERACIDADE DA AUTODECLARAÇÃO DE POBREZA. TEMA 931/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1.
+ ..
+3. "A alteração de entendimento jurisprudencial no âmbito desta Corte Superior se aplica de imediato aos processos pendentes de julgamento, não havendo que se falar em proibição de irretroatividade por não se tratar de mudança normativa." (AgRg no REsp n. 1.998.174/SC, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 19/9/2023, DJe de 25/9/2023.)
+4. O Tribunal de origem manteve a decisão que concedera a progressão de regime ao recorrido, à míngua do pagamento de multa, por entender que a autodeclaração de hipossuficiência e o fato de o apenado ser assistido pela Defensoria Pública são elementos aptos a comprovar a sua incapacidade financeira.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.118.258/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024.) (grifei)
+Ante o exposto, não vislumbro o vício apontado e rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
