@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CLOVIS PERES e OUTRA, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 639, e-STJ):
+APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE COMPRA E VENDA DE SEMENTES - EXECUÇÃO DE ACORDO HOMOLOGADO - SENTENÇA DE EXTINÇÃO DA EXECUÇÃO - ALEGADA FALTA DE COMPROVAÇÃO DE QUITAÇÃO DA DÍVIDA - CREDOR QUE DEIXOU DE SE MANIFESTAR SOBRE A QUITAÇÃO DO DÉBITO APESAR DE INTIMADO A FAZÊ-LO - INÉRCIA QUE NÃO GERA PRESUNÇÃO DE QUITAÇÃO DA DÍVIDA - NECESSIDADE DE COMPROVAÇÃO EFETIVA DA QUITAÇÃO DA DÍVIDA PARA A EXTINÇÃO DA EXECUÇÃO -INTERPRETAÇÃO DO ART. 320 DO CÓDIGO CIVIL - SENTENÇA REFORMADA PARA A CONTINUIDADE DA AÇÃO EXECUTIVA- RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração (fls. 652/663, e-STJ), esses foram rejeitados.
+Em suas razões de recurso especial (fls. 699/715, e-STJ) os agravantes, além de dissídio jurisprudencial, apontaram ofensa aos artigos 489, §1º, IV,924, II, 1.022, do Código de Processo Civil/15 e 111, 332 e 422, do Código Civil. Sustentaram, em síntese: i) a nulidade do acórdão em razão de omissão acerca dos argumentos deduzidos nos embargos de declaração relativos à quitação da dívida; ii) "deve ser reconhecida a existência da quitação, pois a juntada do comprovante de pagamento da última parcela, somada ao fato de que foi devidamente oportunizado o contraditório à Recorrida, para desconstituir a presunção da quitação, e esta se manteve inerte e silente, não deve ser outro o destino do caso que não a sua extinção, até mesmo por preclusão consumativa".
+Contrarrazões às fls. 723/728, e-STJ).
+Em juízo de admissibilidade (fls. 729/734, e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: i) ausência de negativa de prestação jurisdicional; ii) incidências das Súmulas 211 do STJ; 283 e 284 do STF.
+Daí o agravo (fls. 738/750, e-STJ), buscando destrancar o processamento daquela insurgência, no qual os insurgentes refutam o óbices aplicado pela Corte estadual.
+Contraminuta às fls. 754/760, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Alegou o recorrente violação aos arts. 489 e 1.022 do CPC/15, ao argumento de deficiência na fundamentação em razão de omissão no acórdão recorrido, não sanadas quando do julgamento dos embargos de declaração.
+Sustentam que o acórdão fora omisso sobre argumentos deduzidos nos embargos de declaração relativos à quitação da dívida .
+Razão não lhe assiste, no ponto.
+Não se vislumbram os alegados vícios, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, conforme se infere às fls. 643/644, e-STJ:
+Apesar da juntada de comprovantes de pagamento das parcelas acordadas entre as partes, a previsão de incidência de juros e correção monetária parece indicar que os valores dos depósitos não correspondem ao que deveria ter sido depositado pelo devedor. Assim, parece existir situação que justifica a discussão nos autos de origem acerca da satisfação do crédito.
+Na jurisprudência, o Superior Tribunal de Justiça entende que a inércia do credor em dar prosseguimento ao eito não autoriza a extinção da execução por quitação integral, pois tal situação não corresponde a hipótese prevista no art. 924, II, do CPC. Nesse sentido está o seguinte julgado:
+(..)
+Conforme mencionado nas razões de recurso esse entendimento jurisprudencial tem repercutido na jurisprudência do Tribunal de Justiça do Paraná.
+A premissa jurisprudencial em questão está de acordo com a regra do art. 320 do Código Civil que exige que a quitação contenha a assinatura do credor o que, em termos de ação executiva, se traduz no reconhecimento efetivo nos autos do pagamento do crédito reclamado.
+Como se vê, não se vislumbra omissão ou obscuridade, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa ao referido dispositivo.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. COMPROMISSO DE COMPRA E VENDA. RESOLUÇÃO DO CONTRATO. RESTITUIÇÃO INTEGRAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. INEXISTÊNCIA. REVELIA. NÃO OCORRÊNCIA. INDICAÇÃO DOS MOTIVOS DE CONVENCIMENTO PELA CORTE DE ORIGEM. RESPONSABILIDADE SOLIDÁRIA. DENUNCIAÇÃO DA LIDE. CONSONÂNCIA DO JULGADO COM A ORIENTAÇÃO DO STJ. SÚMULA 83. DEVER DE INDENIZAR. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+2. "O entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor. Incidência da Súmula 83/STJ" (AgInt no AREsp n. 2.344.836/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023). Ademais, "A jurisprudência desta Casa reconhece a responsabilidade solidária entre os fornecedores que figuram na cadeia de consumo na compra e venda de imóvel. Precedentes" (AgInt no REsp n. 2.007.481/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/10/2022, DJe de 17/10/2022).
+3. A Corte local decidiu em conformidade ao entendimento sedimentado nesta Casa, incidindo a Súmula 83/STJ, aplicável às hipóteses das alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).5 Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.089.090/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXIGIR CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. "A ação de prestação de contas ocorre em duas fases distintas e sucessivas - na primeira, discute-se sobre o dever de prestar contas; na segunda, declarado o dever de prestar contas, serão elas julgadas e apreciadas, se apresentadas." (AgInt no AREsp 1230091/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 26/11/2021). Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.027.078/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.
+2. Esta Corte Superior tem entendimento pacífico de que a extinção da execução pelo pagamento requer a necessária comprovação nos autos, estando desautorizada a presunção a seu respeito.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. CÉDULA RURAL HIPOTECÁRIA. EMBARGOS À EXECUÇÃO. BAIXA DA HIPOTECA. AUSÊNCIA DE PROVA DE QUITAÇÃO DA DÍVIDA. CONCLUSÃO DO ACÓRDÃO CONTRÁRIA À REALIDADE DOS FATOS POR ELE MESMO RECONHECIDOS. INEXISTÊNCIA DE NULIDADE DA EXECUÇÃO.
+1. A baixa da hipoteca em face de acordo celebrado entre devedor, credor e terceiro não constitui quitação da obrigação principal, notadamente quando o terceiro adquirente e o devedor/executado reconhecem que os valores adimplidos diretamente ao banco o seriam como pagamento parcial a amortizar o débito exequendo.
+2. A hipoteca é assessória ao contrato principal. Se este extinguir-se, tem-se por extinta a garantia. O contrário, no entanto, não se sustenta, pois a garantia poderá ser extinguir, sem que a dívida, todavia, esteja quitada, bastando que as partes assim o consintam.
+3. Não sendo o caso de incidência de presunção legal, apenas a demonstração de expressa quitação da obrigação principal há de resultar na extinção da execução em relação ao remanescente, o que de modo algum se reconheceu no acórdão recorrido, máxime não ter o título, com o pagamento parcial, perdido a sua liquidez.
+4. Caso concreto em que houve o pagamento parcial com baixa do gravame do imóvel em favor do terceiro adimplente, devendo a execução prosseguir em relação ao saldo devedor remanescente, agora sem a garantia hipotecário inicialmente constituída.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.775.547/MA, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 2/5/2022, DJe de 4/5/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. REQUISITOS ATENDIDOS. VIOLAÇÃO DOS ARTS. 275, 277 E 354 DO CÓDIGO CIVIL E 148 DA LEI DE FALÊNCIAS. FALTA DE PREQUESTIONAMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INTIMAÇÃO JUDICIAL. INÉRCIA DO CREDOR. PRESUNÇÃO DE QUITAÇÃO DO DÉBITO. EXTINÇÃO DO FEITO COM BASE NO ART. 794, I, DO CPC. IMPOSSIBILIDADE NO CASO CONCRETO.
+1. A presença de contradição, omissão ou obscuridade justifica o cabimento de embargos de declaração contra qualquer decisão, monocrática ou colegiada.
+2. Para a aplicação do princípio da fungibilidade recursal, basta que seja observado o prazo do recurso considerado correto e não se configure a hipótese de erro grosseiro.
+3. A falta de prequestionamento dos dispositivos legais apontados como violados impede o conhecimento do recurso especial quanto à questão federal neles tratada.
+4. A extinção da execução pelo pagamento requer a necessária comprovação nos autos, estando desautorizada a presunção a seu respeito, salvo nas hipóteses de presunção legal, a exemplo daquelas previstas nos arts. 322, 323 e 324 do Código Civil.
+5. Havendo presunção legal, o juiz pode extinguir a execução pelo pagamento se o credor, devidamente intimado - independentemente se de forma pessoal ou por publicação no órgão oficial - a manifestar-se sobre os documentos e alegações do devedor, sob pena de extinção pelo pagamento, quedar-se inerte.
+6. Contudo, na falta de presunção legal, nem mesmo a intimação pessoal do credor autoriza a extinção pelo pagamento se os documentos e alegações do devedor não se mostrarem aptos a permitir tal conclusão.
+7. Recurso especial parcialmente conhecido e provido em parte.
+(REsp n. 1.513.263/RJ, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 17/5/2016, DJe de 23/5/2016.)
+No caso, o Tribunal de origem, ao analisar a controvérsia, assim decidiu (fls. 643/644, e-STJ):
+A extinção da execução decorreu do pagamento da dívida com fundamento no art. 924, II, do CPC, o que requer prova da quitação integral do débito.
+Antes da extinção da execução o credor foi intimado a se manifestar sobre a quitação do débito, mas se manteve inerte (mov. 137.1 - autos de origem).
+Após o questionamento do credor sobre a quitação do débito em Embargos de Declaração, o devedor juntou aos autos comprovantes de pagamento de (sessenta mil reais), datado de 18/01/2019, de (cento R$ 60.000,00R$ 130.000,00e trinta mil reais), datado de 30/04/2019, e de (cento e quarenta e seis mil, cento e trinta e três reais e R$ 146.133,67sessenta e sete centavos), datado de 30/04/2020 (mov. 156.2 - autos de origem).
+Apesar da juntada de comprovantes de pagamento das parcelas acordadas entre as partes, a previsão de incidência de juros e correção monetária parece indicar que os valores dos depósitos não correspondem ao que deveria ter sido depositado pelo devedor. Assim, parece existir situação que justifica a discussão nos autos de origem acerca da satisfação do crédito.
+Na jurisprudência, o Superior Tribunal de Justiça entende que a inércia do credor em dar prosseguimento ao feito não autoriza a extinção da execução por quitação integral, pois tal situação não corresponde a hipótese prevista no art. 924, II, do CPC. Nesse sentido está o seguinte julgado:
+(..)
+Conforme mencionado nas razões de recurso esse entendimento jurisprudencial tem repercutido najurisprudência do Tribunal de Justiça do Paraná.
+A premissa jurisprudencial em questão está de acordo com a regra do art. 320 do Código Civil que exige que a quitação contenha a assinatura do credor o que, em termos de ação executiva, se traduz no reconhecimento efetivo nos autos do pagamento do crédito reclamado.
+Como no caso dos autos, o credor não reconheceu expressamente quitada a dívida, a solução é cassar a sentença para o prosseguimento da execução, já que a simples inércia na manifestação da parte quando instado a fazê-lo não é suficiente para presumir a quitação da dívida.
+De consequência, o recurso deve ser provido para reformar a sentença no sentido de propiciar ou a continuidade da execução pelo saldo ou a comprovação efetiva da quitação do débito.
+O entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, negar provimento ao recurso especial. Deixo de majorar os honorários de sucumbência, pois não fixados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
