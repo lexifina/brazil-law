@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por LUIZ FERNANDO DE GÕES ALMEIDA, sob o argumento de sofrer constrangimento ilegal por parte do Juízo da Vara das Execuções Criminais da Comarca de Sorocaba, nos autos da Execução nº 7000046-43.2019.8.26.0602 (referente à citada Execução nº 879.965), buscando, em síntese, a retificação dos cálculos de pena e a consequente progressão de regime prisional.
+Em petição de fls. 105-109, a Defensoria Pública da União manifestou-se no sentido de "reconhecer que não há nenhuma ilegalidade a ser corrigida através da via eleita, motivo pelo qual requer a extinção do presente feito, com a intimação da Defensoria Pública do Estado de São Paulo para acompanhar o pedido de progressão de regime" (fl. 109).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+O Tribunal de origem, ao manter a decisão do juízo da execução que indeferiu o pedido de progressão de regime pleiteado pelo sentenciado, assim dispôs (fl. 48):
+Apesar da assistente social ter destacado em seu parecer que o sentenciado demonstra estar em condições de ingressar novamente ao convívio social, não há como desconsiderar a análise do psicólogo.
+O sentenciado é reincidente. Durante o regime semiaberto evadiu do sistema prisional, sendo preso em flagrante aos 16/10/2016 pela prática de crime de uso de documento falso. Além disso, regrediu de regime por sentença proferida aos 13/02/2017 (fls. 07 /10).
+Dessa forma, levando-se em consideração o exame criminológico e seu histórico criminal, não há como acolher, por ora o pedido para a progressão de regime.
+O Superior Tribunal de Justiça pacificou o entendimento de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+Não é vedado ao Juiz singular o indeferimento da benesse quando, a despeito do exame criminológico favorável, entender não implementado o requisito subjetivo, desde que aponte particularidades fáticas que expressem a ausência de mérito do condenado. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. HISTÓRICO PRISIONAL CONTURBADO. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. A Corte de origem negou ao apenado a progressão de regime com base em fundamentação idônea - a ausência do requisito subjetivo, evidenciada pelo histórico prisional conturbado do reeducando, do qual se extraem evasões e o cometimento de novo delito em data recente, durante a execução de sua pena.
+2. É cediço que, não obstante o paciente tenha cumprido o requisito temporal para progressão do regime, o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, não se verificando o alegado constrangimento ilegal na hipótese sob exame.
+3. O "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC n. 426.201/SP, relator Ministro Rogerio Schietti, julgado em 5/6/2018, DJe de 12/6/2018).
+4. O remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 891.802/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO PARA O REGIME SEMIABERTO. REQUISITO SUBJETIVO NÃO PREENCHIDO. EXAME CRIMINOLÓGICO QUE NÃO VINCULA O MAGISTRADO. EXAME APROFUNDADO DE PROVA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. Na hipótese, as instâncias ordinárias fundamentaram de forma idônea o não preenchimento do requisito subjetivo. O histórico prisional conturbado, com registro de faltas graves, inclusive consistentes em fugas e abandono do regime semiaberto, indica a necessidade de maior cautela no caso concreto, tendo em vista o diminuto senso de responsabilidade do apenado.
+3. De acordo com o entendimento do Superior Tribunal de Justiça, o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena. Desconstituir tal entendimento implica revolvimento fático-probatório, providência vedada na via eleita.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 818.659/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+No caso, foram apontados pontos desfavoráveis ao réu no laudo psicológico que compõe o exame criminológico, além do conturbado histórico prisional, não havendo que se falar em constrangimento ilegal a ser sanado via remédio heroico.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
