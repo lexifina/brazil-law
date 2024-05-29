@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto por LAURA MARIA DE SOUZA GOMES em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (fl. 233):
+ADMINISTRATIVO. MÉDICO DA FUNASA. DUPLA JORNADA. GDPST E GDM-PST. PRETENSÃO DE RECEBIMENTO EM DOBRO. IMPOSSIBILIDADE.  ..
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte recorrente aponta divergência jurisprudencial, alegando , em síntese, que a controvérsia gira em torno de ser ou não devida a incorporação da Gratificação de Desempenho de Atividades Médicas (GDM) na 2ª jornada de trabalho no mesmo valor pago na 1ª jornada de trabalho, de acordo com o art. 1º, § 2º e § 3º, da Lei n. 9.436/ 1997.
+É o relatório.
+Passo a decidir.
+A insurgência merece amparo.
+Com efeito, verifico que o acórdão recorrido está em confronto com orientação desta Corte Superior, segundo a qual os servidores públicos da área de saúde que optaram pelo regime de trabalho de 40 horas semanais, nos termos da Lei n. 9.436/97, possuem direito aos benefícios em relação ao vencimento de duas jornadas de 20 horas semanais.
+Nesse mesmo sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO DA ÁREA DE SAÚDE. JORNADA DE TRABALHO. OPÇÃO PELO REGIME DE 40 HORAS SEMANAIS, NOS TERMOS DA LEI 9.436/1997. DIREITO AOS BENEFÍCIOS EM RELAÇÃO AO VENCIMENTO DE DUAS JORNADAS DE 20 HORAS SEMANAIS. JURISPRUDÊNCIA PACÍFICA DO STJ.
+1. O STJ possui a orientação jurisprudencial no sentido de que os servidores públicos da área de saúde que optaram pelo regime de trabalho de 40 horas semanais, nos termos da Lei 9.436/1997, possuem direito aos benefícios em relação ao vencimento de duas jornadas de 20 horas semanais. Nesse sentido: AgInt no REsp 1.977.216/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15.6.2022; AgInt no REsp 1.796.034/PE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11.12.2019; AgInt no REsp 1.541.579/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14.8.2018.
+2. Agravo Interno não provido. (AgInt no REsp n. 1.999.989/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, DJe de 30/9/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. PRESCRIÇÃO BIENAL. ART. 206, § 2º, DO CÓDIGO CIVIL. VERBAS REMUNERATÓRIAS DE NATUREZA ALIMENTAR. INAPLICABILIDADE. SERVIDOR PÚBLICO. ÁREA DA SAÚDE. JORNADA DE QUARENTA HORAS. LEI N. 9.436/97. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DA SEGURIDADE SOCIAL E DO TRABALHO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO. INCIDÊNCIA SOBRE VENCIMENTOS DE DUAS JORNADAS DE 20 (VINTE) HORAS SEMANAIS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973. II - O conceito jurídico de prestação alimentar constante do art. 206, § 2º, do Código Civil, relativa à seara privada, é distinto da ideia de verbas remuneratórias de natureza alimentar, concernente às relações de direito público, que atraem a aplicação da prescrição quinquenal, a teor do art. 1º do Decreto n. 20.910/32. Precedentes.
+III - Os servidores públicos da área de saúde que optaram pelo regime de trabalho de 40 (quarenta) horas semanais, nos termos da Lei n. 9.436/97, possuem direito aos benefícios em relação ao vencimento de duas jornadas de 20 (vinte) horas semanais.
+Precedentes.
+IV - Recurso especial improvido. (REsp n. 1.568.559/PB, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/3/2018, DJe de 6/4/2018.)
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para deferir a pretensão de incorporação/pagamento das gratificações da 2ª jornada de vinte horas semanais, de acordo com os precedentes citados , e determino a inversão do ônus da sucumbência.
+Intimem-se.
+EMENTA
