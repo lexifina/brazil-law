@@ -1,0 +1,23 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Adilson Pereira de Oliveira - condenado por descumprimento de medida protetiva de urgência, violação de domicílio qualificada, ameaça, dano qualificado e resistência -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 22/42), comporta, de pronto, parcial acolhimento.
+Com efeito, busca a impetração o redimensionamento da pena fixada - na condenação proferida na Ação Penal n. 5007746-19.2021.8.21.0006 (fls. 43/66 - da 2ª Vara Criminal da comarca de Cachoeira do Sul/RS) -, na segunda fase, com aplicação da atenuante da confissão - ao argumento de que o paciente admitiu que estava presente na cena do crime (fl. 20) -, e, na primeira fase, com o afastamento da negativação dos vetores:
+a) conduta social - assentando que não há como apontar como negativa a conduta social do revisante mencionando (de forma genérica) apenas que "é voltada à prática delitiva" (fl. 9);
+b) personalidade - afirmando que a majoração da pena-base tendo por fundamento condenação penal - já considerada para efeitos de reincidência - representa flagrante violação ao princípio do non bis in idem (fl. 12); e
+c) circunstâncias e motivos - defendendo que o magistrado incorre em grave violação ao princípio do non bis in idem, na medida em que utiliza os elementos qualificadores do delito para valorar negativamente a vetorial motivos e circunstâncias (fl. 14).
+Do atento exame dos autos, tem-se que a pena-base foi exasperada em razão da negativação dos vetores conduta social, personalidade, motivos e consequências do crime nas frações de 2/3 - para o delito de descumprimento de medida protetiva de urgência -, 1/3 - para violação de domicílio qualificada, dano qualificado e resistência - e um inteiro, para a ameaça.
+Entretanto, a fundamentação utilizada - a conduta social e a motivação restaram evidentes, pois Adilson possui desvio de personalidade, age contra os valores juridicamente protegidos, em relação aos bons costumes, educação e não assume o que faz, desrespeitando as decisões judiciais (fl. 63) - só se mostra idônea em relação ao vetor personalidade (AgRg nos EDcl no HC n. 788.543/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/10/2023, DJe 11/10/2023).
+Ademais, não houve negativação do vetor circunstâncias (fl. 63).
+Finalmente, nos termos do acórdão hostilizado, não houve confissão - o réu não confessou os ilícitos cometidos, alegou estar sob efeito de medicamento e álcool e nega ter cometidos os delitos em comento e que não tinha a intenção de danificar o rádio dos policiais (fls. 41/42) -, então, concluir de forma diversa demandaria reexame probatório, inviável na via eleita.
+Necessário, então, redimensionar a pena imposta. Assim, mantida a negativação dos vetores personalidade e consequências do crime, exaspera-se a pena-base na proporção definida na sentença), que se torna definitiva pois sem alterações nas fases segunda e terceira (fls. 63/64):
+a) delito de descumprimento de medida protetiva de urgência - exaspera-se a pena-base em 1/3, passando a reprimenda para 4 meses de detenção;
+b) violação de domicílio qualificada - exaspera-se a pena-base em 1/6, passando a reprimenda para 7 meses de detenção;
+c) dano qualificado (duas vezes) - exaspera-se a pena-base em 1/6, passando a reprimenda para 7 meses de detenção e 11 dias-multa;
+d) resistência - exaspera-se a pena-base em 1/6, passando a reprimenda para 2 meses e 20 dias de detenção; e
+e) ameaça - exaspera-se a pena-base em 1/2, passando a reprimenda para 1 mês e 15 dias de detenção.
+Considerando o concurso material (fl. 65), tem-se a pena definitiva em 2 anos, 5 meses e 5 dias de detenção, e 22 dias-multa.
+Em razão disso, concedo liminarmente a ordem impetrada, em parte, para redimensionar a pena imposta ao paciente para 2 anos, 5 meses e 5 dias de detenção, e 22 dias-multa, referente à condenação proferida na Ação Penal n. 5007746-19.2021.8.21.0006, da 2ª Vara Criminal da comarca de Cachoeira do Sul/RS.
+Intime-se o Ministério Público do Rio Grande do Sul.
+Publique-se.
+EMENTA
+PEN AL. HABEAS CORPUS. DESCUMPRIMENTO DE MEDIDA PROTETIVA DE URGÊNCIA, VIOLAÇÃO DE DOMICÍLIO QUALIFICADA, AMEAÇA, DANO QUALIFICADO E RESISTÊNCIA. DOSIMETRIA. PRIMEIRA FASE. VETORES CONDUTA SOCIAL E MOTIVOS. AUSÊNCIA DE ELEMENTOS CONCRETOS. PERSONALIDADE. DESVIO. POSSIBILIDADE. SEGUNDA FASE. INEXISTÊNCIA DE CONFISSÃO. CONCLUSÃO DE FORMA DIVERSA. NECESSIDADE DE REEXAME PROBATÓRIO. INVIABILIDADE. PENA REDIMENSIONADA. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
