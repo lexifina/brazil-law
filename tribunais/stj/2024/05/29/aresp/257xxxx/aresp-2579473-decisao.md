@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/08/2023.
+Concluso ao gabinete em: 20/05/2024.
+Ação: de obrigação de fazer, ajuizada por ROMULO ZANINI DE GOUVEIA PINTO, em face da agravante, na qual requer a continuidade do custeio do medicamento Dupixent 300mg (DUPILUMABE), necessário ao tratamento de sua doença (dermatite atópica grave, CID 10 - L20), negada sob a justificativa de que o medicamento não atende às Diretrizes de Utilização (DUT) do Rol da ANS.
+Sentença: julgou procedente o pedido.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PLANO DE ASSISTÊNCIA À SAÚDE OFERECIDO POR ENTIDADE DE AUTOGESTÃO. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO INICIAL. 1. PLANO DE SAÚDE ADMINISTRADO POR ENTIDADE DEAUTOGESTÃO. AUTOR DIAGNOSTICADO COM DERMATITEATÓPICA GRAVE(CID 10 - L20). NEGATIVA DE CUSTEIO DOMEDICAMENTO DENOMINADO (dupilumabe). DUPIXENT DOENÇA COBERTA PELO PLANO. RELATÓRIO MÉDICO E IMAGENS ACOSTADAS AOS AUTOS QUE COMPROVAM AGRAVIDADE DA DOENÇA INFLAMATÓRIA DA PELE. INEFICÁCIA DE OUTRAS TENTATIVAS TERAPÊUTICAS. JULGAMENTO PROFERIDO PELO STJ QUE NÃO POSSUIEFEITO VINCULANTE (ERESP Nº 1886929/SP). OBJETIVO DO CONTRATO DE GARANTIR O DIREITO À VIDA E À SAÚDE,PELO TRATAMENTO MÉDICO PRESCRITO PORPROFISSIONAL HABILITADO. PRECEDENTES DESTE TRIBUNAL E DO STJ. NEGATIVA ABUSIVA. DEVIDA A CONDENAÇÃO AO CUSTEIO DO MEDICAMENTO INJETÁVEL. SENTENÇA MANTIDA. 2. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PEDIDODE REFORMA. NÃO ACOLHIMENTO. ARBITRAMENTO EM 10% (DEZ POR CENTO) SOBRE O VALOR DO TRATAMENTO. OBRIGAÇÃO DE FAZER QUE POSSUI MONTANTE ECONÔMICO APURÁVEL. IMPOSSIBILIDADE DA INCIDÊNCIA DO ART. 85, § 8º, DO CPC AO CASO. APLICAÇÃO DA TESE 1.076 DO STJ. PRECEDENTES DESTA CORTE. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E DESPROVIDO.
+Recurso especial: alega violação dos arts. 10, inciso VII e § 4º, da Lei 9.656/98, e 4º, III, da Lei 9.961/2000. Aduz a taxatividade do rol da ANS, razão pela qual não há a obrigatoriedade do custeio do medicamento. Afirma que não há nos autos a comprovação documental de que o procedimento e/ou evento em saúde prescrito pelo médico assistente seria eficaz, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; da existência de recomendação pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec); ou mesmo parecer de avaliação de tecnologias em saúde realizada por órgão com comprovado renome internacional e desde que sejam aprovadas também para seus nacionais, devidamente traduzida, nos termos do parágrafo único do art. 192 do Diploma Processual Civil (e-STJ, fls. 244).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o fundamento utilizado pelo TJ/PR, que "o medicamento foi inicialmente disponibilizado pela própria operadora, de modo que eventual recusa da continuidade revela comportamento contraditório" (e-STJ, fls. 221), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% sobre o valor do tratamento (e-STJ, fls. 225) para 20% (vinte por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de obrigação de fazer.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido.
