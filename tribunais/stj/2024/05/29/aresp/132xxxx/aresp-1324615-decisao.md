@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por BARBOSA PLENTZ MODA BASICA LTDA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (fls. 291-300), assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EXECUÇÃO FISCAL ICMS. IMPOSTO NÃO INFORMADO. DIFERENCIAL DE ALÍQUOTA. CONFISSÃO DE DÍVIDA E PARCELAMENTO ADMINISTRATIVO. MANDADO DE SEGURANÇA ANTERIORMENTE IMPETRADO. DEPÓSITO DO MONTANTE INTEGRAL DESVIRTUADO APARCELAMENTO JUDICIAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO NÃO CARACTERIZADO.
+A decisão judicial que concede à parte o direito de realizar o depósito do montante integral não se confunde com o cumprimento da obrigação na forma de verdadeiro parcelamento judicial, que não tem aptidão para suspender a exigibilidade do crédito tributário. O cumprimento desvirtuado do comando judicial, porque não suspende a exigibilidade do crédito, não impede o ajuizamento da execução fiscal. Caso em que a possibilidade da conversão em renda dos depósitos realizados nos autos do mandado de segurança sugere a suspensão do feito executivo até trânsito em julgado no remédio constitucional, o que vem de encontro à economia processual.
+Recurso da executada que objetivava a majoração dos honorários que resta prejudicado.
+DERAM PROVIMENTO AO RECURSO DO ESTADO, PREJUDICADO O RECURSO DA EXECUTADA.
+A recorrente opôs embargos de declaração contra a decisão recorrida, tendo sido estes negados (fls. 314-321).
+A parte recorrente interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado o art. 151, II, IV e VI; 156, VI; e 204 do Código Tributário Nacional; arts. 85, §§1º e 10; 485, IV; 494; 503; 505; 506 e 507 do Código de Processo Civil; art. 3º, parágrafo único, da Lei n. 6.830/80.
+O recurso especial foi inadmitido na origem pela violação às Súmulas n. 7 e 211 do Superior Tribunal de Justiça (fls. 371-381), tendo a parte oposto embargos de declaração.
+Após acolhidos os embargos de declaração para sanar erro material, foi interposto o presente agravo.
+É o relatório.
+Passo a decidir.
+A agravante alega que seu recurso especial merece ser admitido porquanto teria ocorrido prequestionamento por força do art. 1025 do CPC, pois oposto embargos de declaração contra o acórdão recorrido para que o Tribunal de origem se manifestasse sobre os dispositivos tidos por violados.
+Não assiste razão à agravante.
+Importante assinalar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte insurgente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+Somente se tem por prequestionado dispositivo legal quando o acórdão recorrido, ainda que não o cite diretamente, emita juízo de valor fundamentado acerca da temática por ele regida.
+O acórdão recorrido não decidiu acerca dos referidos dispositivos legais, indicados como violados, não tendo a agravante se desincumbido de demonstrar que o acórdão recorrido abordou as teses recursais referidas pela parte, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível.
+Falta, no caso, prequestionamento, condição de acesso às instâncias excepcionais, de modo a incidir, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+O recurso tampouco merece ser conhecido por força da aplicação da Súmula n. 7/STJ , uma vez que o tribunal local traçou balizas fáticas que inviabilizam a pretensão recursal.
+Observa-se que o órgão julgador fez análise dos fatos e das provas relacionados à causa, asseverando que a recorrente não fez depósito integral, mas pagamentos parciais do tributo devido, em desacordo com a liminar concedida, portanto, sem o condão de suspender a exigibilidade do crédito tributário, nos seguintes termos (fl. 298):
+Ao que importa para o deslinde da questão, curial e curioso que, deferido o depósito do montante integral de valores controvertidos nos autos do mandado de segurança, tenha a impetrante se aproveitado dessa decisão para promover verdadeira transformação do parcelamento administrativo em judicial, o que em momento algum restou autorizado.
+Os depósitos que se passaram a realizar em juízo, pois, porque não depositados de uma única vez pelo montante integral (pelo menos no que diz respeito aos débitos já constituídos e que diziam respeito ao acordo de parcelamento), não tiveram o condão de suspendera exigibilidade do crédito tributário.
+Por outro lado, a recorrente apresenta em seu recurso especial versão fática diversa, de que a liminar isoladamente teria suspendido a exigibilidade do crédito tributário.
+Infirmar o entendimento assentado no aresto impugnado, a respeito da ausência de suspensão da exigibilidade, passa por revisitar o acervo probatório, o que é vedado na via eleita ante a Súmula n. 7 do Superior Tribunal de Justiça.
+A irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos.
+Isso posto, nos termos dos arts. 28, XVIII, a, c/c 253, parágrafo único, II, a, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o Recursos Especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
