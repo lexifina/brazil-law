@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+TRIBUTÁRIO. AÇÃO RESCISÓRIA. PIS-PASEP, COFINS, BASE DE CÁLCULO, ICMS. ED RE 574.706, TEMA 69. MODULAÇÃO DE EFEITOS.
+Admite-se ação rescisória para adequar julgado à modulação de efeitos na tese 69 de repercussão geral do Supremo Tribunal Federal estabelecendo que a exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS-PASEP e da COFINS tem efeitos a partir de 15mar.2017, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento. Ação rescisória julgada procedente.
+Os Embargos de Declaração foram rejeitados.
+A recorrente alega que "não há como se concordar com o entendimento adotado pelo e. Tribunal a quo, na medida em que, além da nulidade por violação ao art. 1.022, II, do CPC, o v. Acórdão recorrido merece reforma porque representa nítida afronta ao princípio da segurança jurídica, à coisa julgada, não obstante a violação frontal dos artigos 489, §1º, IV e VI, 502, 503, 508, 525, §§ 1º, III, 12, 14 e 15, 535, §§ 5º e 8º, 926, 927, III, 966, V e § 5º, do CPC e do art. 2º da Lei 9.784/1999" (fl. 1.468).
+Contrarrazões às fls. 1.524-1.533.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21 de maio de 2024.
+O Colegiado originário assim consignou ao dirimir a controvérsia (fls. 1.420-1.422):
+O órgão colegiado prolator do acórdão rescindendo entendeu pelo direito à compensação dos valores controvertidos no processo de origem, relativos às contribuições do PIS-PASEP e COFINS pagas a maior, durante todo o período não prescrito (cinco anos anteriores ao ajuizamento).
+Os embargos de declaração quanto à tese 69 de repercussão geral foram julgados pelo Supremo Tribunal Federal em 13maio2021, resolvendo que o ICMS a ser excluído da base de cálculo das contribuições para PIS e COFINS é o destacado na nota fiscal. Na mesma decisão decidiu-se pela modulação de efeitos da tese, orientando que a exclusão do ICMS da base de cálculo das contribuições para PIS e COFINS se aplica somente a partir de 15mar.2017, data em que foi fixada a tese de repercussão geral (tema 69), ressalvados os casos ajuizados antes da data desse julgamento.
+O mandado de segurança na origem foi ajuizado em 24mar.2017.
+A União propôs ação rescisória com fundamento na coisa julgada inconstitucional como autorizado pelo § 8º do art. 535 do CPC e, mediatamente, com base na hipótese de violação de normas jurídicas (inc. V do art. 966 do CPC). O CPC expressamente autorizou a rescisão de decisão transitada em julgado fundada em lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo Supremo Tribunal Federal como incompatível com a Constituição Federal, em controle de constitucionalidade concentrado ou difuso.
+O Supremo Tribunal Federal já definiu em controle concentrado de constitucionalidade que são constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III e §§ 12 e 14, o art. 535, § 5º (STF, Tribunal Pleno, ADI 2418, rel. Teori Zavascki, DJe 17nov.2016). A referida ADI não tratou diretamente das novas hipóteses de rescisão com base em diretriz superveniente do STF (§ 15 do art. 525 e § 8º do art. 535 do CPC), mas também não há qualquer vício de constitucionalidade formal ou material a ser declarado quanto a estes dispositivos. O tema vem sendo enfrentado com frequência pela Primeira Seção do Tribunal Regional Federal da Quarta Região e foi definitivamente pacificado em julgamento de incidente de resolução de demandas repetitivas, ao qual se vincula este Órgão Julgador (inc. V do art. 927 do CPC):
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. HIPÓTESES DE CABIMENTO. JUÍZO DE ADMISSIBILIDADE. ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. MODULAÇÃO DE EFEITOS. TEMA 69. IRDR NÃO ADMITIDO.
+1. Nos termos do art. 981 do CPC, após a distribuição, o órgão colegiado competente para julgar o incidente de resolução de demandas repetitivas procederá ao seu juízo de admissibilidade, considerando a presença dos pressupostos do art. 976 do mesmo diploma.
+2. Não há controvérsia no âmbito do TRF4 acerca da plena aplicabilidade, via ação rescisória, da modulação de efeitos determinada pelo STF no âmbito dos ED no RE 574.706/PR quanto ao tema 69. Aliás, a decisão no sentido de que a modulação dos efeitos deve ser aplicada às ações já transitadas em julgadas foi tomada pelo próprio Supremo Tribunal Federal. Ausentes os pressupostos para processamento do IRDR. Incidente não conhecido.
+(TRF4, Primeira Seção, IRDR 5023630-79.2022.4.04.0000, rel. Leandro Paulsen, j. em 12jul.2022)
+ ..
+Pelo exposto, voto por julgar procedente a ação rescisória para rescindir parcialmente o acórdão impugnado quanto ao capítulo pertinente à abrangência do direito à repetição do indébito tributário e, ato contínuo, integrar-lhe declarando que o direito à exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS e da COFINS tem efeitos quanto aos pagamentos realizados a partir de 15mar.2017.
+Preliminarmente, constato que não se configura a contrariedade ao art. 1.022 do Código de Processo Civil, como alega a parte, pois o Tribunal a quo julgou integralmente a lide e solucionou a causa.
+Conforme precedente do Superior Tribunal de Justiça, "o julgador não precisa responder, um a um, todos os pontos apresentados. Não há necessidade, outrossim, de expressa menção a todos os dispositivos legais invocados pelas partes. Importa é que todas as questões relevantes sejam apreciadas (REsp 844.778/SP, Rel. MinistraNancy Andrighi, Terceira Turma, DJ de 26.3.2007, p. 240).
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos Declaratórios, que servem ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida.
+Ademais, constata-se que a questão foi decidida sob a ótica constitucional. Concluir em sentido diverso exigiria a interpretação de tese definida pelo Supremo Tribunal Federal, no RE 574.706, e de dispositivos constitucionais. A análise de questão dessa natureza é inviável na via eleita, sendo a sua apreciação de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ICMS. EXCLUSÃO. BASE DE CÁLCULO DO PIS E DA COFINS. LIMITAÇÃO TEMPORAL. ANÁLISE EM RECURSO ESPECIAL IMPOSSIBILIDADE. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. DESISTÊNCIA PARCIAL. DESCABIMENTO.
+(..)
+2. Não cabe ao Superior Tribunal de Justiça o julgamento acerca da limitação dos efeitos do entendimento fixado pelo STF, no julgamento do RE 574.706/PR (Tema 69), que trata da não inclusão do ICMS na base de cálculo do PIS/Cofins, sob pena de usurpação de competência da Suprema Corte.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt REsp 1.907.544/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 21/6/2022; grifei.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. INTERPRETAÇÃO DE TESE FIRMADA PELO STF. FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE.
+(..)
+2. Tem natureza constitucional a controvérsia inerente à interpretação da tese definida pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral e respectivo julgamento, sendo certo que, relacionando-se o debate com a forma de execução do julgado do Supremo, não poderia outro tribunal, em princípio, ser competente para solucioná-lo.
+3. Hipótese em que o recurso não pode ser conhecido, pois o Tribunal Regional Federal da 4ª Região, interpretando a tese definida pelo Supremo Tribunal Federal, decidiu ser o ICMS destacado na nota fiscal a parcela de tributo a ser excluída da base de cálculo da contribuição ao PIS e da COFINS.
+(..) 5. Agravo interno não provido.
+(AgInt no AREsp 1.508.155/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 11/10/2019.)
+Ante o exposto, conheço parcialmente do Recurso Especial, apenas em relação à aduzida afronta ao art. 1.022, II, do CPC, para, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
