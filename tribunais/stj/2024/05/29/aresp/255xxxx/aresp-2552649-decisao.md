@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual o INSTITUTO NACIONAL DO SEGURO SOCIAL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 270):
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO LEGAL. ART. 557 DO CPC. MANUTENÇÃO DO JULGADO AGRAVADO. DEVOLUÇÃO DE VALORES. 1 - Nos termos do artigo do art. 557, "caput" e parágrafo 1º-A, do Código de Processo Civil, cabe ao relator o julgamento monocrático do recurso, negando-lhe seguimento quando se manifeste inadmissível, improcedente, prejudicado ou para lhe dar provimento se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência do respectivo tribunal ou dos tribunais superiores. 2 - Inviabilidade do agravo legal quando constatada, de plano, a improcedência da pretensão recursal, mantidos os fundamentos de fato e de direito do julgamento monocrático, que bem aplicou o direito à espécie. 3 - Agravo legal desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 277/283).
+Nas razões de seu recurso especial (fls. 285/295), a parte ora agravante sustenta violação dos arts. 115, II, da Lei 8.213/1991; 520, 948, 949, 950 e 1.022 do Código de Processo Civil (CPC); 876, 884 e 885 do Código Civil; e 37 e 97 da Constituição Federal.
+Alega (a) a ocorrência de negativa de prestação jurisdicional e (b) ser devida a restituição das quantias pagas em virtude da concessão de tutela antecipada, posteriormente cassada.
+Não foram apresentadas as contrarrazões conforme a certidão de fl. 307.
+Sobreveio o juízo de admissibilidade negativo (fls. 309/311), razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto ao mérito, a Primeira Seção do Superior Tribunal de Justiça (STJ), no julgamento da Pet 12.482/DF, acolheu questão de ordem para reafirmar a tese jurídica contida no Tema 692, com acréscimo redacional para ajustá-la à nova legislação de regência, nos seguintes termos:
+A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+No caso dos autos, o Tribunal de origem assim se manifestou sobre a questão (fls. 267/268):
+O disposto no § 1º da Lei de Benefícios, renumerado pela Lei n. 10.820, de 17.12.2003, prestigia a boa-fé, uma vez que apenas em caso de dolo, fraude ou má-fé a cobrança se faz em parcela única. Constitui entendimento jurisprudencial assente que, tratando-se de verba de natureza alimentar, os valores pagos pelo INSS em razão de concessão indevida de benefício não são passíveis de restituição, salvo comprovada má-fé do segurado.
+ ..
+In casu, os valores recebidos a maior pelo postulante decorreram de erro no pagamento do beneficio, o que foi retificado em sede administrativa, no exercício da autotutela, com a observância dos princípios da ampla defesa e do contraditório.
+É firme a jurisprudência desta Corte no sentido que é indevida a restituição dos valores percebidos de boa-fé pelo segurado, a título de proventos de aposentadoria, ante a natureza alimentar da referida verba.
+ ..
+Em razão do caráter alimentar dos proventos percebidos a título de benefício previdenciário, conjugado com a falta de configuração da má-fé do segurado, a devolução pleiteada pela autarquia não se justifica. Ressalta-se, ainda, que tal medida mostra-se descabida, tendo em vista a natureza alimentar dos benefícios previdenciários. (Destaquei.)
+A peça recursal, todavia, não se insurge contra ponto basilar do acórdão impugnado, qual seja, o de que " ..  os valores recebidos a maior pelo postulante decorreram de erro no pagamento do beneficio, o que foi retificado em sede administrativa, no exercício da autotutela, com a observância dos princípios da ampla defesa e do contraditório" (fl. 267), limitando-se a afirmar a necessidade de devolução das parcelas indevidamente recebidas a título de tutela antecipada revogada.
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal, que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, conheço em parte do recurso e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
