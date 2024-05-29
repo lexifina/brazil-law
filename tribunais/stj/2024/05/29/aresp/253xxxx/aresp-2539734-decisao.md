@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por JOSÉ CARLOS MENDES MATUIAMA contra decisão que negou seguimento ao especial por aplicação do Tema Repetitivo n. 885 do STJ e inadmitiu o recurso por ausência de violação dos arts. 11, 489, § 1º, II, e 1.022 do CPC/2015 e incidência das Súmulas n. 7 e 83 do STJ quanto à apontada ofensa ao art. 1.026, § 2º, do CPC/2015 (e-STJ fls. 1.217/1.220).
+O acórdão está assim ementado (e-STJ fl. 636):
+ASSISTÊNCIA JUDICIÁRIA. Apelantes que não demonstraram enquadramento aos requisitos necessários para deferimento da assistência judiciária mesmo após intimados nos termos do art. 99, § 2º do CPC. Indeferimento mantido.
+EMBARGOS À E XECUÇÃO. Executada que teve seu plano de recuperação judicial devidamente homologado pelo Juízo competente. Sujeição de todos os créditos anteriores ao pedido de soerguimento. Art. 49 da Lei nº 11.101/2005. Execução extinta com base nos arts. 485, VI, do Código de Processo Civil.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados, com aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015 (e-STJ fls. 742/746).
+No recurso especial (e-STJ fls. 974/1.006), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 11, 489, § 1º, II, 1.022 e 1.026, § 2º, do CPC/2015, 6º, § 4º, 47 e 49 da Lei n. 11.101/2005.
+Apontou ausência de fundamentação e omissão do acórdão recorrido quanto à incidência dos arts. 6º, § 4º, 47 e 49 da Lei n. 11.101/2005.
+Defendeu a impossibilidade do prosseguimento da execução em face de sócio solidário de empresa em recuperação judicial, pugnando pela extinção da execução em sua integralidade.
+Sustentou ser possível a desoneração do devedor solidário, quando atingidos o patamar legal para a instauração da assembleia geral e, posteriormente, para a aprovação do plano de recuperação judicial.
+Insurgiu-se quanto à multa aplicada pela Corte local.
+Ao final, pediu o provimento do recurso com vistas à suspensão da ação de execução em seu desfavor, bem como o afastamento da multa imposta.
+Foram apresentadas contrarrazões (e-STJ fls. 1.174/1.186).
+No agravo (e-STJ fls. 1.252/1.267), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 1.276/1.289).
+Juízo negativo de retratação (e-STJ fl. 1.319).
+É o relatório.
+Decido.
+A insurgência não merece ser acolhida.
+De início, destaca-se que a interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões. Deixo, portanto, de apreciar o recurso especial interposto às fls. 1.073/1.105 (e-STJ).
+Conforme o § 2º do art. 1.030 do CPC/2015, "Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021", dessa forma, compete somente ao Tribunal de origem a análise de eventual distinção entre o precedente formado pelo recurso especial repetitivo e o caso concreto. Nesse sentido:
+AGRAVO INTERNO EM PETIÇÃO. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NEGATIVA COM BASE EM JULGAMENTO REPETITIVO DE RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO INTERNO. NÃO CABIMENTO DA PETIÇÃO.
+1. Por absoluta ausência de previsão de cabimento de qualquer recurso contra o acórdão proferido no agravo interno, que impugna a decisão de admissibilidade do recurso especial fundamentada no art. 1.030, I, "B", do CPC, também não é aceitável a apresentação de petição genérica, sob pena de, por via reflexa, se admitir verdadeira subversão das diretrizes legislativas relacionadas ao sistema dos recursos especiais repetitivos, tornando-o ineficaz.
+2. Agravo interno não provido.
+(AgInt na Pet n. 11.924/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 3/3/2020, DJe 10/3/2020.)
+A Corte de origem, na sistemática estabelecida pelo legislador para a análise das demandas repetitivas, negou seguimento à insurgência recursal, asseverando que o acórdão anterior está em consonância com a jurisprudência do STJ, firmada em recurso repetitivo (Tema n. 885/STJ). Portanto, em conformidade com a jurisprudência citada, a matéria não foi devolvida a novo exame deste Tribunal Superior, motivo pelo qual não conheço da irresignação quanto ao ponto.
+Ainda que assim não fosse, quanto à apontada ofensa ao art. 49 da Lei n. 11.101/2005, o acórdão impugnado está em conformidade com a jurisprudência do STJ no sentido de que "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005" (AgInt no REsp n. 2.010.442/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023). A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO EMPRESARIAL E CIVIL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. GARANTIAS PRESTADAS POR TERCEIROS. MANUTENÇÃO. SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA DEVEDORES SOLIDÁRIOS E COOBRIGADOS EM GERAL. IMPOSSIBILIDADE. RECURSO REPETITIVO 1.333.349/SP E SÚMULA 581/STJ. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência firmada pela Segunda Seção do Superior Tribunal de Justiça, em recurso repetitivo sob o rito do art. 543-C do CPC/73, no julgamento do REsp 1.333.349/SP, de Relatoria do em. Ministro LUIS FELIPE SALOMÃO, é no sentido de que "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput , e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+2. Nos termos da Súmula 581 do STJ, "a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória".
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.991.096/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/3/2023, DJe de 31/3/2023.)
+Incide, portanto, no ponto, a Súmula n. 83 do STJ.
+Constata-se que, apesar de opostos embargos de declaração, as teses contidas nos arts. 6º, § 4º e 47 da Lei n. 11.101/2005 não foram expressamente indicadas nas razões do recurso e nem enfrentadas pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211 do STJ.
+Não há falar em ofensa aos arts. 11, 489, § 1º, II e 1.022 do CPC/2015, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+A Corte local, com base nos fatos e nas provas dos autos, assim consignou (e-STJ fls. 639/640, 644 e 646):
+O apelado ajuizou execução objetivando a condenação dos apelantes ao pagamento de R$ 563.717,67 com base na CÉDULA DE CRÉDITO BANCÁRIO Nº 01-2808/16 EMPRÉSTIMO ("CCB"), emitida em 12/09/2016 (fls. 154/159).
+Compulsando os autos, verifica-se que o pedido de Recuperação Judicial da apelante foi distribuído em 27/12/2017 (autos nº 1000018-37.2017.8.26.0542) e o respectivo plano homologado em 22/03/2022, nos seguintes termos:
+(..)
+Diante desse contexto, o crédito executado, com origem anterior ao pedido de recuperação judicial, sujeita-se aos efeitos dela, de modo que deve ser extinta a execução, cabendo ao credor promover a devida habilitação no juízo competente, nos termos do art. 10, § 6º, Lei nº 11.101/2005.
+(..)
+Destaco, por oportuno, que "já foi reconhecido em incidente próprio que o crédito do BANCO INDUSTRIAL não tem garantia fiduciária e, portanto, se submete ao plano de recuperação judicial." (fls. 7381 dos autos da recuperação judicial).
+Assim sendo, caberá ao exequente promover a habilitação de seu crédito ou a retificação do quadro geral de credores, nos termos do artigo 10 e §§ da Lei nº 11.101/2005, conforme for o caso, impondo-se a extinção da execução com base no art. 485, VI, do Código de Processo Civil.
+Ajuizada a execução em 19/02/2018, ou seja, posteriormente ao ajuizamento (27/12/2017) e deferimento do processamento da recuperação judicial (24/01/2018), verifica-se que foi o exequente quem deu causa ao ajuizamento da ação e, atento ao princípio da causalidade, deve responder pelo ônus da sucumbência.
+Extrai-se do acórdão dos embargos de declaração opostos pelo recorrido (e-STJ 708/711):
+O v. acórdão embargado, diante da homologação do plano de recuperação judicial da executa da Cobremack Indústria de Condutores Elétricos Ltda, extinguiu a execução com base no art. 485, VI, do Código de Processo Civil.
+Ocorre que a execução também foi promovida em face de José Carlos Mendes Matuiama, avalista na cédula de crédito bancário exequenda, que assumiu integral responsabilidade pelo cumprimento de todas as obrigações da emitente perante o credor (fls. 154/159).
+E o deferimento do processamento da recuperação judicial em relação à empresa Cobremack não tem o condão de suspender a execução em relação aos coobrigados em geral, pois nessas hipóteses as garantias são preservadas, nos termos do parágrafo 1º, do artigo 49 da Lei nº 11.101/2005.
+Não se desconhece a possibilidade e legalidade da inclusão de cláusulas com previsão de supressão das garantias em processo de recuperação judicial, no entanto, para terem eficácia, devem contar com a manifesta anuência do titular do crédito, o que não ocorreu em relação ao exequente, não podendo tais cláusulas serem impostas àqueles que não concordaram expressamente com sua inclusão no plano de recuperação.
+Mister, portanto, a anuência expressa do titular do crédito, com inequívoco ânimo de novar em relação às garantias. Sem tal manifesta concordância, não se mostra possível afastar a explícita previsão legal de que a novação não se estende aos coobrigados (artigo 49, parágrafo 1º, da Lei 11.101/2005).
+De fato, nos termos do artigo 361 do Código Civil, a novação não se presume, dependendo da constatação do inequívoco "animus novandi", o que não ocorreu no caso em discussão.
+O artigo 49, parágrafo 2º, da Lei 11.101/2005, ao mencionar que as obrigações observarão as condições originalmente contratadas, salvo se de modo diverso ficar estabelecido no plano, está se referindo a deságios, prazos e encargos e não a garantias, que não podem ser suprimidas ou alteradas sem inequívoca concordância do titular.
+(..)
+Sendo assim, a execução deve prosseguir em face de José Carlos Mendes Matuiama, devedor solidário.
+Ademais, dissentir das conclusões do acórdão impugnado, a fim de que seja reconhecida a suspensão da ação de execução contra o agravante, bem como a exclusão da multa do art. 1.026, § 2º, do CPC, aplicada pelo tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, conforme alegado no especial, exigiria o reexame do acervo fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7 do STJ.
+Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo .
+Publique-se e intimem-se.
+EMENTA
