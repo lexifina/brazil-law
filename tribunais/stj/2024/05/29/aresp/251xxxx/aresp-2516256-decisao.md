@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por MAPFRE SEGUROS GERAIS S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 481):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CONTRATO DE SEGURO - TRANSPORTE DE MERCADORIAS - OCORRÊNCIA DE SINISTROS NA VIGÊNCIA DA APÓLICE - ALEGAÇÃO DE PERDA DO DIREITO À INDENIZAÇÃO - DESCUMPRIMENTO CONTRATUAL NÃO COMPROVADO -ART. 373, INCISO II, DO CPC - DESCUMPRIMENTO - COBERTURA DEVIDA. -Nos termos do art. 373 do CPC/2015, comprovado pela parte autora o fato constitutivo de seu direito, cabe à ré a demonstração da existência de fato impeditivo, modificativo ou extintivo do referido direito, o que não ocorreu na espécie.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que o acórdão contrariou o art. 374, III, do CPC, pois teria imposto à parte recorrente o ônus de produzir prova a respeito de fato incontroverso.
+Afirma que foi violado o art. 373, I, do CPC, pois entende que caberia à parte recorrida comprovar que averbou a totalidade das mercadorias embarcadas.
+Aduz ainda violação dos arts. 476 e 766 do CC, pois foi condenada a pagar a indenização, ainda que tenha sido demonstrado que a recorrida deixou de averbar diversas cargas embarcadas ao longo da relação contratual.
+Foram oferecidas contrarrazões ao recurso especial (fls. 519-560).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 564-569), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 597-638).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem, analisando as provas juntadas aos autos, consignou que a recorrente não comprovou o descumprimento contratual por parte da recorrida, pelo que entendeu devida a indenização.
+Embora a seguradora recorrente alegue ser fato incontroverso que a segurada recorrida vinha deixando de averbar as mercadorias embarcadas, constou do acórdão recorrido que o relatório de auditoria realizada pela recorrente não foi capaz de comprovar tal alegação, pois não juntou os documentos que teriam embasado as conclusões da referida inspeção. Ademais, registrou a Corte de origem que a própria recorrida juntou notas fiscais supostamente omitidas das averbações e demonstrou que a auditoria considerou indevidamente notas fiscais que não tratavam de embarques referentes ao objeto do contrato.
+Veja-se (fls. 484-486):
+A fim de comprovar sua tese, a seguradora ré apresentou o relatório de inspeção de doc. nº 49, datado de 25/04/2017, segundo o qual o segurado teria deixado de averbar 14,4% dos embarques realizados no período de dezembro de 2016 a março de 2017. Ao analisar o referido documento, a MMª Juíza de Direito acertadamente destacou que:
+"(..) a pretexto de analisar as operações realizadas pelo demandante no período de dezembro de 2016 e fevereiro de 2017 a referida auditoria não veio acompanhada - ainda que por amostragem - do cotejo entre as supostas notas fiscais sem averbação e os correspondentes períodos de apuração entregues pelo autor. Consta tão somente um quadro demonstrativo produzido pela seguradora ré, intitulado "resultado consolidado", que se limita a mencionar o resultado apurado, porém, sem qualquer comprovação".
+Em suas razões recursais, a apelante justifica a generalidade do relatório em tela no fato das notas fiscais não averbadas estarem na posse do apelado, tendo sido consultadas pelo contador no momento da auditoria.
+Todavia, tal alegação não merece ser acolhida. Consta da parte final do relatório de doc. nº 49 a seguinte observação:
+"Foram consideradas como operações a serem averbadas todas as Notas Fiscais normais, ativas, CIF"s e de produtos inerentes a atividades do Segurado.
+Apresentamos em anexo, um CD com as Relações Mensais de Notas Fiscais Emitidas, Averbadas e Não Averbadas do período analisado, como histórico de nossas análises".
+Ocorre que o referido "CD" não foi trazido aos autos.
+Acrescente-se, ainda, que, em sede de impugnação à contestação, o FRIGORIFICO SABOR DE MINAS LTDA apresentou a relação de notas não averbadas disponibilizada pela ré (doc. nº 56), alegando que a conclusão tomada pela auditoria levou em consideração notas fiscais que não dizem respeito à saída de mercadorias seguradas. Confira-se:
+"A autora impugna essa chamada auditoria unilateral realizada pela ré, primeiro porque foi unilateral, segundo porque nem todas as notas fiscais de saída da autora dizem respeito aos produtos e mercadorias segurados e vendidos e transportados.
+Como dito, nem todas as notas de saídas dizem respeito às mercadorias vendidas e acobertadas pela apólice, existem os abates de animais para terceiros, que são notas fiscais de prestação de serviço, os produtos de retorno desses serviços que são entregues aos tomadores, tem notas fiscais de saída para depósito, isto é, saída da fábrica para a filial dentro da mesma circunscrição, de farinha de osso para ração, couro, subprodutos para graxaria, sendo que nenhum desses entram no objeto do seguro, muito menos no transporte de suas mercadorias (autora).
+(..)
+A título exemplificativo, extrai-se que a NF nº 190.966, datada de 22/12/2016, no valor de R$ 55,00 e referente à prestação de serviço de abate de reses (f. 3 do doc. nº 53), foi indevidamente elencada pela auditoria na relação de notas fiscais não averbadas (doc. nº 56), o que é suficiente para corroborar a tese defendida pela parte autora.
+Portanto, diante do quadro fático delineado no acórdão, vê-se que a recorrida se desincumbiu de comprovar o fato constitutivo de seu direito, o sinistro, e a recorrente não se desincumbiu do seu ônus de comprovar o alegado descumprimento contratual, qual seja, a não averbação da totalidade das mercadorias embarcadas abrangidas pelo seguro.
+A revisão da matéria, para modificar a conclusão do acórdão a respeito dos documentos juntados aos autos, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL E CIVIL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. ADITIVOS CONTRATUAIS. E-MAILS. PROVAS DOCUMENTAIS HÁBEIS A INSTRUIR A AÇÃO. PROBABILIDADE DO DÉBITO EVIDENCIADA. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. SÚMULA 7/STJ.
+1. Ação monitória ajuizada em 2/10/2020, da qual foi extraído o presente recurso especial interposto em 15/5/2023 e concluso ao gabinete em 3/11/2023.
+2. O propósito recursal consiste em definir se o contrato de prestação de serviços, aditivos contratuais e e-mails constituem documentos hábeis a instruir a ação monitória e se é aplicável o instituto da exceção do contrato não cumprido.
+3. A ação monitória, para ser admitida, deve estar fundada em "prova escrita sem eficácia de título executivo" (art. 700, caput, do CPC). Não há um modelo predefinido de prova escrita, bastando elementos que evidenciem a probabilidade da existência da dívida. O que interessa, na monitória, é a possibilidade de formação da convicção do julgador a respeito de um crédito. Ademais, se tiver por objeto o pagamento de quantia em dinheiro, a prova literal deverá indicar o quantum debeatur e a petição inicial deverá ser instruída com memória de cálculo (art. 700, § 2º, inc. I, do CPC).
+4. Ausentes tais elementos, o autor deverá ser intimado para emendar a petição inicial, adequando-a ao procedimento comum (art. 700, § 5º, do CPC). Mas, se a iliquidez do crédito passar despercebida pelo juiz e o réu, citado, apresentar embargos monitórios, o processo não deverá ser extinto sem resolução do mérito, já que, com o oferecimento dos embargos, o processo prosseguirá pelo procedimento comum, oportunidade em que poderá ser apurado o quantum debeatur mediante dilação probatória.
+5. No particular, a petição inicial foi instruída com memória de cálculo e com prova documental consistente em contrato de prestação de serviços, aditivos contratuais e e-mails. Tais documentos são hábeis a instruir a ação monitória, porque evidenciam a probabilidade do débito.
+6. Para alterar a conclusão alcançada pelo Tribunal de origem, no sentido de que a recorrente não comprovou o inadimplemento contratual da recorrente, motivo pelo qual não se aplica o instituto da exceção de contrato não cumprido, seria necessário o reexame do acervo fático-probatório (Súmula 7/STJ).
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 2.109.100/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA DEMANDADA.
+1. A Segunda Seção desta Corte, no julgamento do EREsp 1280825/RJ, de relatoria da Ministra NANCY ANDRIGHI, DJe 02/08/2018, deliberou que: "nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional".
+1.1. Consoante iterativa jurisprudência desta Corte Superior de Justiça, a contagem do prazo prescricional se inicia somente quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão, conforme o princípio da actio nata.
+Incidência da Súmula 83/STJ.
+1.2. A reforma do v. acórdão recorrido, quanto à inexistência de inércia da parte agravada e de desídia dela na citação, exigiria a alteração das premissas fático-probatórias, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. Para reformar a conclusão do órgão julgador e acolher a pretensão recursal referente à exceção do contrato não cumprido e onerosidade excessiva, seria a incursão na seara probatória dos autos, inadmissível no apelo especial, por óbice das Súmulas 5 e 7/STJ.
+3. A revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame elementos fáticos e probatórios dos autos, incidindo a Súmula 7 do STJ.
+4. Nos termos da jurisprudência desta Corte Superior, em se tratando de dívida líquida e com vencimento certo, a data do vencimento da obrigação será o termo inicial para incidência dos juros moratórios e da correção monetária. Aplicação da Súmula 83/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.164.735/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATO DE SEGURO. DESCUMPRIMENTO CONTRATUAL NÃO COMPROVADO. COBERTURA DEVIDA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
