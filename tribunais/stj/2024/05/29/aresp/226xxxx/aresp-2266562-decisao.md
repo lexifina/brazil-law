@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO DE PADUA SILVA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C OBRIGAÇÃO DE FAZER - LEGITIMIDADE PASSIVA DA SERASA NÃO CONFIGURADA - RETIRADA DE NEGATIVAÇÃO DE DEVEDOR SEM O DEVIDO PAGAMENTO - EXTRATO DA SERASA QUE INDICA A EXISTÊNCIA DO APONTAMENTO PELO BANCO REQUERIDO - ATO ILÍCITO NÃO CARACTERIZADO - DEVER DE INDENIZAR AFASTADO - RECURSO DO RÉU PROVIDO - RECURSO DA PARTE AUTORA PREJUDICADO.
+1. Inicialmente, convém destacar que não há que se aferir a legitimidade passiva da SERASA, com base na Súmula 359 do STJ, a uma, porque tal verbete diz respeito à obrigatoriedade de notificação do devedor antes de proceder à inscrição; a duas, porque o sentenciante julgou improcedentes os pedidos quanto à referida requerida.
+2. E, nesse contexto, como bem pontuou o julgador singular, a SERASA não possui competência para proceder a inclusão e exclusão de anotações em seu cadastro de inadimplentes por iniciativa própria, dependendo das informações fornecidas pela própria instituição financeira, sendo que, na hipótese, os débitos representados pelos cheques devolvido sem provisão de fundos teriam sido baixados no sistema do banco réu Santander, o que, consequentemente, teria motivado a baixa de restrição naquele órgão.
+3. Embora o autor afirme que o banco réu teria dado baixa às anotações negativas dos cheques sem fundos do qual seria ele credor, o banco réu colacionou junto à contestação um extrato do SERASA, o qual indica que a empresa devedora (da qual é o autor credor) possui diversas anotações negativas, sendo 18 (dezoito) referentes a cheques sem fundos.
+4. Logo, o banco réu desincumbiu-se do ônus que lhe competia, a teor do que dispõe o inciso II, do art. 373, do CPC, não havendo que se falar em ato ilícito passível de indenização.
+5. Com efeito, a condenação à reparação civil pressupõe a prática de ato ilícito, a existência de um dano e o nexo causal entre eles, o que não restou comprovado nos autos, de maneira que a condenação ao pagamento de indenização por danos morais deve ser afastada. (fl. 352).
+Os embargos de declaração opostos foram rejeitados (fls. 367/377).
+No recurso especial, o recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigo 1.022 do Código de Processo Civil - por defender que houve omissões no acórdão recorrido;
+(ii) artigo 14 do Código de Defesa do Consumidor - a responsabilidade da parte recorrida é objetiva;
+(iii) artigo 373, II, do CPC - ao argumento de que era ônus da recorrida provar a existência de fato impeditivo, modificativo ou extintivo do direito da recorrente; e
+(iv) artigos 186 e 927, § único, do Código Civil - é devida a indenização por ato ilícito.
+Apresenta, ainda, divergência jurisprudencial acerca da legitimidade passiva do SERASA.
+Após as contrarrazões (fls. 413/419), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem a especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem.
+Assim, não tendo a recorrente demonstrado o ponto acerca do qual o acórdão recorrido deveria ter se pronunciado, e não o fez, é manifesta a deficiência da fundamentação recursal nesse particular, o que atrai a incidência, por analogia, da Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATENDIMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. LIMITAÇÃO DE COBERTURA. RECUSA INJUSTICADA. AGRAVAMENTO DA SITUAÇÃO DE AFLIÇÃO PSICOLÓGICA E ANGÚSTIA DO BENEFICIÁRIO. CIRCUNSTÂNCIAS DELIMITADAS NO JULGADO ESTADUAL. DANO MORAL. CARACTERIZAÇÃO. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Conforme a jurisprudência desta Corte, afigura-se abusiva a negativa, pelo plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando a indevida recusa de cobertura.
+3. Outrossim, a recusa injustificada, pela operadora de plano de saúde, em autorizar tratamento médico emergencial enseja reparação a título de danos morais, porque agrava a situação de sofrimento psíquico do usuário, já abalado ante o estado debilitado da sua saúde.
+4. Estando o acórdão recorrido em consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido" (AgInt no AgInt no AREsp 2.174.617/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Consoante a jurisprudência firmada nesta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. Nos termos da jurisprudência desta Corte Superior, a viabilidade da ação rescisória por ofensa à disposição de lei pressupõe violação direta da literalidade da norma jurídica. Ademais, o erro de fato que enseja a propositura da ação rescisória não é aquele que resulta de eventual má apreciação da prova, mas, sim, o que decorre da ignorância de determinada prova, diante da desatenção do julgador na apreciação dos autos. Incidência da Súmula 83/STJ.
+3.1. Outrossim, rever a conclusão do Tribunal a quo acerca da ausência dos requisitos legais para a procedência da ação rescisória, no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+5. Agravo interno desprovido" (AgInt no AgInt no AREsp 2.006.960/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se).
+Quanto ao artigo 14 do CDC, da análise dos autos, verifica-se que o conteúdo normativo desse dispositivo não foi objeto de debate pelas instâncias ordinárias e, embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, demonstrou a parte recorrente a contrariedade ao art. 1.022 do CPC, motivo pelo qual, ausente o requisito do prequestionam ento, incide o disposto na Súmula nº 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+No tocante à alegada violação aos artigos 373, II, do CPC, 186 e 927, § único, do CC, assim decidiu o tribunal de origem, no que interessa:
+"(..) não vislumbro a ocorrência de ato ilícito passível de indenização, uma vez que, embora o autor afirme que o banco réu teria dado baixa às anotações negativas dos cheques sem fundos do qual seria ele credor, o banco réu colacionou junto à contestação um extrato do SERASA (ID 125905150 - Pág. 1/2 - fls. 144/145), o qual indica que a empresa M M J S Desenvolvimento e Licenciamento de Programa (empresa da qual é o autor credor) possui diversas anotações negativas, sendo 18 (dezoito) referentes a cheques sem fundos.
+Logo, o banco réu desincumbiu-se do ônus que lhe competia, a teor do que dispõe o inciso II, do art. 373, do CPC, não havendo que se falar em ato ilícito passível de indenização.
+Com efeito, a condenação à reparação civil pressupõe a prática de ato ilícito, a existência de um dano e o nexo causal entre eles, o que não restou comprovado nos autos, de maneira que a condenação ao pagamento de indenização por danos morais deve ser afastada"(fl. 344).
+O revolvimento desta questão encontra óbice na Súmula nº 7/STJ, pois é inviável na via estreita do recurso especial, o revolvimento do conjunto fático-probatório dos autos.
+Por fim, o recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se a divergência não é notória, e nas razões de recurso especial não indica o dispositivo de lei federal, com demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTIGO DE LEI. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. FINANCIAMENTO IMOBILIÁRIO. TERMO INICIAL DA PRESCRIÇÃO. TÉRMINO DO CONTRATO.
+1. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal.
+2. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+3. (..)
+4. Agravo interno não provido."
+(AgInt no AREsp 973.413/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1º/12/2016, DJe 16/12/2016).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
