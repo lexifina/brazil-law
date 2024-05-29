@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ÁLAMO CONSTRUTORA E INCORPORADORA LTDA. (ÁLAMO) pretendendo a reforma da decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio Grande do Sul (TJRS), assim ementado:
+CIVIL E PROCESSO CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. ATRASO NA ENTREGA DO IMÓVEL. NULIDADE DA SENTENÇA. SUSPENSÃO DO FEITO. LEGITIMIDADE PASSIVA DAS RÉS. RESPONSABILIDADE SOLIDÁRIA. SUSPENSÃO DO FEITO. DESCABIMENTO. INDENIZAÇÃO.
+1. Não há se falar em nulidade da sentença, por negativa de prestação jurisdicional, uma vez que foram examinadas todas as questões pertinentes ao litígio, inclusive a responsabilidade das rés pelos danos causados ao autor.
+2. Em se tratando de demandas que versam sobre negócios jurídicos distintos, inexiste prejudicialidade que justifique a suspensão do processo, nos moldes pretendidos (artigo 313, inciso V, alínea "a", do CPC).
+3. A Caixa Econômica Federal é parte legítima para figurar no polo passivo da ação, uma vez que a sua atuação contratual é mais ampla do que a de mero agente financeiro.
+4. A responsabilidade das rés pelos danos suportados pelo autor - pelo atraso na entrega do imóvel por ele adquirido (fato incontroverso) - decorre do fato de ambas terem descumprido o que fora convencionado: a Construtora, ao inobservar o prazo ajustado pelas partes, e a Caixa Econômica Federal, agente financeiro e copartícipe do empreendimento, ao não providenciar a imediata substituição da Construtora, a que estava obrigada contratualmente.
+5. A alegação da Construtora de que a culpa pelo atraso é exclusiva do agente financeiro - por supostamente não ter realizado o repasse regular das quantias acordadas e necessárias à edificação do empreendimento, além de exigir excessiva garantia suplementar - não lhe aproveita, uma vez que assumira, perante o adquirente, a obrigação de entregar a unidade habitacional em determinado prazo, devendo ser resolvidas, na via própria, as pendências relacionadas ao ajuste comercial entre ela e a Caixa Econômica Federal.
+6. O ressarcimento de danos materiais decorrentes do atraso na entrega do imóvel justifica-se pelo tempo em que o adquirente esteve privado de usufruir do bem, por fato alheio a sua vontade, independentemente de comprovação da realização de despesas com locação ou outras similares. Precedentes.
+7. Conquanto o mero inadimplemento contratual não configure, por si só, dano moral indenizável, o atraso na entrega da unidade habitacional do autor transcendeu o limite do tolerável, não podendo ser qualificado como mero aborrecimento ou dissabor da vida cotidiana, uma vez que ele não teve acesso à moradia - legitimamente adquirida -, por tempo demasiadamente longo, o que, naturalmente, gera transtornos e sofrimento intensos. (e-STJ, fls. 1/2)
+Os embargos de declaração opostos por ÁLAMO foram rejeitados (e-STJ, fls. 1/17).
+Irresignada, ÁLAMO interpôs recurso especial, com base no art. 105, III, alíneas a e c, da CF.
+O recurso não foi admitido pelo Tribunal estadual.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal não comporta conhecimento.
+Da análise dos autos, verifica-se que o presente agravo é intempestivo. Isto porque a confirmação da intimação eletrônica da decisão que negou seguimento ao recurso especial (e-STJ, fls. 1/5) ocorreu em 11/8/2023 -sexta-feira (e-STJ, fl. 1 - evento 68), iniciando-se o prazo para a interposição do agravo em recurso especial em 14/8/2023 (segunda-feira) e encerrando-se em 1/9/2023 - sexta-feira.
+Portanto, intempestivo o agravo em recurso especial interposto em 4/9/2023 (e-STJ, fl. 1 - evento 70), porque desrespeitado o prazo de 15 (quinze) dias úteis previsto nos arts. 219, caput, 994, VIII, e 1.003, § 5º, do CPC/2015.
+Esclareça-se, ademais, que este Superior Tribunal de Justiça tem entendimento sedimentado no sentido de que a interposição de agravo interno da decisão de admissibilidade do recurso extraordinário em nada interfere na contagem do prazo do agravo em recurso especial (AgInt no AREsp n. 1.803.312/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/10/2021, DJe de 14/10/2021) sendo necessária, em razão do duplo fundamento caracterizado no juízo de admissibilidade, a interposição simultânea dos agravos em recurso especial e interno. Na mesma direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. DUPLO FUNDAMENTO. MATÉRIA JULGADA COM BASE EM REPETITIVO E PRESSUPOSTOS DE ADMISSIBILIDADE. NECESSIDADE DE INTERPOSIÇÃO SIMULTÂNEA DO AGRAVO INTERNO E DO AGRAVO EM RECURSO ESPECIAL. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Conforme disposto no art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis, à exceção dos embargos de declaração.
+2. Diante da dupla natureza da fundamentação constante do juízo de admissibilidade, o procedimento adequado a ser adotado pela parte insurgente seria a interposição simultânea do agravo interno - para impugnar a parte relativa ao recurso repetitivo - e de agravo em recurso especial, para infirmar os demais fundamentos que levaram à inadmissão do apelo especial (AgInt no AREsp n. 1.485.946/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/11/2019, DJe de 26/11/2019), ônus do qual a parte não se desincumbiu.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.351.134/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023)
+Nessas condições, NÃO CONHEÇO o agravo em recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NÃO CUMPRIMENTO DO PRAZO DE 15 (QUINZE) DIAS ÚTEIS PREVISTO NOS ARTS. 219, CAPUT, 994, VIII, E 1.003, § 5º, DO CPC/2015. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
