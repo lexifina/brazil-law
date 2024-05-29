@@ -1,0 +1,10 @@
+DECISÃO
+ALEXANDRE ARAÚJO BRANDÃO impetra mandado de segurança contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, que não conheceu dos embargos de declaração opostos, em razão de sua intempestividade, oportunidade que se pleiteia o seu conhecimento.
+Entretanto, conforme dispõe o art. 105, I, "b" da Constituição Federal, compete a este Superior Tribunal de Justiça: I - processar e julgar, originariamente, "os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal."
+Vale dizer, esta Corte não tem competência para apreciar mandado de segurança impetrado contra acórdão proferido em embargos de declaração opostos no julgamento de apelação, sobretudo quanto a solução dada na origem para a questão suscitada - prazo para oposição dos embargos de declaração - se mostra harmonioza com a orientação desta Corte.
+Deveras, " e m matéria penal, o prazo para oposição de embargos de declaração é o previsto no art. 619 do Código de Processo Penal, qual seja, 2 (dois) dias, conforme dispõe o art. 263 do Regimento Interno do Superior Tribunal de Justiça. A entrada em vigor do novo Código de Processo Civil não repercutiu no prazo dos embargos em processo penal, que possui disciplina própria" (AgRg nos EDcl no AREsp n. 2.407.487/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/12/2023).
+Aliás, esse é o teor da Súmula n. 41 do STJ (destaquei): "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Nesse sentido, ainda: "Nos termos da Súmula 41/STJ, o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros Tribunais ou dos respectivos órgãos" (AgRg no MS n. 22.073/RS, Rel. Ministro Nefi Cordeiro, DJe 31/5/2016).
+Em razão do exposto, nos termos do art. 212 do RISTJ, indefiro, desde logo, o pedido, com a extinção do feito sem apreciação do mérito, nos termos do art. 6º, § 5º, da Lei n. 12.016/2009.
+Publique-se e intimem-se.
+EMENTA
