@@ -1,0 +1,18 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos por Usina Cansanção de Sinimbu S.A., contra a decisão homologatória de desistência recursal (fls. 541/542, e-STJ).
+Nas razões recursais, a embargante aduz a existência de omissão na decisão recorrido, ao afirmar que este juízo supostamente teria omitido a respeito da exoneração de honorários, conforme dispõe o parágrafo único da cláusula 16ª do acordo de transação firmado entre a embargante e a Fazenda Nacional.
+Nesse sentido, pugna a recorrente pelo esclarecimento acerca de uma suposta isenção da contribuinte quanto ao exigibilidade dos honorários advocatícios e custas processuais.
+Não houve impugnação da Fazenda Nacional aos aclaratórios.
+É o relatório. Passo a decidir.
+Nos termos do art. 1.022 do CPC, os embargos de declaração se destinam a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material existente no julgado, podendo-lhes ser atribuídos, excepcionalmente, efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso em testilha, não merece prosperar o acolhimento dos aclaratórios.
+Nesse contexto, importa consignar que a decisão que homologa, em grau recursal, a desistência de uma das partes não realiza efetivo julgamento da lide, porquanto não analisa a pretensão deduzia em juízo, tampouco constata a existência de algum óbice ao julgamento do mérito propriamente dito.
+Com efeito, são diversas as distinções teóricas e práticas, devendo-se destacar que a desistência do recurso (art. 998, do CPC/2015), ao contrário da desistência da ação (art. 200, parágrafo único, do CPC/2015), não demanda homologação pelo magistrado, motivo pelo qual é possível inferir que, de fato, inexiste verdadeiro julgamento nessa hipótese.
+A propósito, menciona-se abalizada doutrina:
+Convém, ainda, distinguir a desistência da ação e a desistência do recurso. A desistência da ação extingue o processo sem resolução do mérito (art. 485, VIII, do CPC); a desistência do recurso pode implicar extinção do processo com ou sem resolução de mérito, a depender do conteúdo da decisão recorrida, como também pode não implicar a extinção do processo, como no caso de desistência de um agravo de instrumento. A desistência do processo precisa ser homologada pelo magistrado (art. 200, parágrafo único, do CPC), dispensada na desistência do recurso (art. 998, do CPC). A desistência do processo depende do consentimento do réu, se já oferecida a constestação (art. 485, 4º, do CPC); na desistência do recurso, o consentimento é dispensado (art. 998 do CPC). O advogado tem de ter poder especial para revogar a demanda (art. 105, CPC); no caso da desistência do recurso, também se exige poder especial, mas somente quando implicar a extinção do processo - esse poder especial será de disposição de direito material (renúncia ou reconhecimento), quando houver extinção do processo com análise do mérito. (DIDIER JR., Fredie. Curso de Direito Processual Civil: introdução ao direito processual civil, parte geral e processo de conhecimento. 19. ed. rev. ampl. e atual. Salvador: JusPodivm, 2017, p. 812)  g.n.
+Portanto, não cabe nesta assentada interpretar ou revelar as cláusulas do termo de transação efetivado entre a embargante e a Fazenda Nacional. Tal ato, se controvertido for, deverá ser analisado nas vias competentes, porquanto não é objeto do processo em epígrafe.
+Advirto à parte que o manejo de recursos protelatórios, importa na incidência do artigo 1.026, § 2º, do CPC/2015, o qual impõe a aplicação de multa processual.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
