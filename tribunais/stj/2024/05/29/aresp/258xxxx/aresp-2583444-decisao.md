@@ -1,0 +1,21 @@
+DECISÃO
+ADAILTON BRITO DE SOUZA JUNIOR agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 0300151-79.2017.8.05.0001.
+Nas razões do recurso especial, a defesa aponta violação do art. 157, § 2º, do Código Penal, quanto à fração de aumento pelas majorantes do crime de roubo, ao argumento de que a terceira fase da dosimetria descumpriu os termos da Súmula n. 443 do STJ.
+Requer o provimento do recurso, a fim de que seja reduzida a fração de aumento para 1/3.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do reclamo (fls. 673-674).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrente foi condenado à pena de 7 anos de reclusão mais 17 dias-multa, em regime semiaberto, pela prática do delito previsto no art. 157, § 2º, I e II, do Código Penal.
+O Juízo monocrático, sem tecer maiores considerações, elevou a pena do roubo em 2/5, pela incidência das causas de aumento do concurso de agentes e do emprego de arma de fogo (prevista à época dos fatos).
+A Corte estadual ao confirmar os termos da sentença registrou (fls. 575-576):
+A Magistrada sentenciante trouxe, em seu bojo, fundamentação concreta, apta a justificar o emprego da causa de aumento supracitada em patamar superior ao mínimo previsto em lei - consistente no risco à vida e maior temor inspirado pelo emprego de arma de fogo, bem como pela imprescindibilidade do concurso de pessoas para garantir o êxito da empreitada criminosa - conforme orientação trazida pelo enunciado contido na Súmula nº 443/STJ.
+Na hipótese, verifico que as instâncias ordinárias justificaram o aumento da pena, na terceira fase da dosimetria, apenas com base no número de majorantes incidentes no caso, sem apontar elementos dos autos (modus operandi, por exemplo) que, efetivamente, evidenciassem a real necessidade de exasperação da pena no patamar estabelecido.
+Este Superior Tribunal vem reiteradamente decidindo que, em se tratando de roubo com a presença de mais de uma causa de aumento, a majoração da pena acima do mínimo legal (um terço) requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um acréscimo mais expressivo, não sendo suficiente a simples menção ao número de causas de aumento de pena, como ocorrido no caso em análise.
+A matéria se encontra sumulada por esta Corte, em seu enunciado n. 443, verbis: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Assim, diante da violação legal reconhecida, passo a refazer a dosimetria.
+De acordo com os parâmetros adotados pelas instâncias ordinárias, verifico que a pena-base do roubo foi fixada em 4 anos de reclusão e 10 dias-multa. Na segunda etapa, a pena permaneceu inalterada. Na terceira fase, identificada a ilegalidade na fração adotada, reduzo o patamar de aumento relativo às majorantes para 1/3, o que resulta em 5 anos e 4 meses de reclusão, mais 13 dias-multa. Em seguida, a pena foi elevada em 1/4, pelo concurso formal, o que a torna definitivamente estabelecida em 6 anos e 8 meses de reclusão mais 16 dias-multa.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de reduzir a fração de aumento pelas majorantes do roubo, redimensionando a pena para 6 anos e 8 meses de reclusão mais 16 dias-multa.
+Publique-se e intimem-se.
+EMENTA
