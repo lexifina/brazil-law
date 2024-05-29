@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança (art, 105, II, "b", da Constituição Federal de 1988) interposto de acórdão assim ementado:
+MANDADO DE SEGURANÇA. SERVIDORES DO PODER JUDICIÁRIO DO RIO GRANDE DO SUL. PROGRESSÃO FUNCIONAL. PARÂMETROS ESTABELECIDOS NA LEI ESTADUAL N.º 15.737/2021 E NA RESOLUÇÃO N.º 15/2022 DO ÓRGÃO ESPECIAL DO TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+A progressão funcional, quando atendidos todos os requisitos para sua concessão, constitui direito subjetivo do servidor público. Os critérios para a progressão funcional dos servidores do Poder Judiciário do Tribunal de Justiça do Rio Grande do Sul encontram-se estabelecidos na Lei Estadual n.º 15.737/2021, que instituiu o plano de carreiras, cargos, funções e remunerações desses servidores, e na respectiva regulamentação por meio da Resolução n.º 15/2022 - OE.
+Nas circunstâncias do caso, os impetrantes tiveram sua progressão funcional negada por excederem o limite de 50% dos servidores de cada padrão que obtiveram conceito satisfatório na avaliação de desempenho, nos termos da Resolução n.º 15/2022 - OE, que prevê um percentual até mesmo mais benéfico aos servidores que o estabelecido na Lei Estadual n.º 15.737/2021, qual seja, o de 20%.
+Os critérios para a progressão funcional tomaram por base a regra de transição prevista na Resolução n.º 15/2022 - OE para as duas primeiras avaliações de desempenho posteriores à entrada em vigor da Lei Estadual n.º 15.737/2021, sem que se possa vislumbrar qualquer ilegalidade no agir da Administração. Discussão acerca da constitucionalidade do artigo 13, § 1º da Lei Estadual n.º 15.737/2021 que se mostra alheia ao objeto da ação mandamental.
+Segurança denegada.
+Nas razões recursais (fls. 735-748), alega-se:
+Os impetrantes são servidores públicos estaduais, e tem por objetivo a obtenção da progressão funcional de sua carreira, com base na avaliação de desempenho (documento anexo na origem), na qual obtiveram nota máxima e conceito satisfatório, restando APTOS à progressão, nos termos do artigo 16 da Resolução 15/2022 - OE (Resolução anexa).
+Todavia, para sua surpresa, ainda que presentes todos os requisitos objetivos previstos em lei para fins de progressão, seus nomes não constaram no Edital de Classificação 01/2022, publicado em 07/12/2022.
+(..)
+Ocorre que, em que pese se tratar a progressão de direito subjetivo do servidor público, a mera presença de seu nome na lista de classificação não lhe garante a progressão, visto que a administração pública limitou, discricionariamente, em 50% (cinquenta por cento) as progressões dos servidores aptos.
+(..)
+Como visto, a autoridade coatora ignorou o direito dos recorrentes ao negar-lhe a progressão de carreira em manifesto ato eivado de ilegalidade e que padece de vícios graves que ensejam sua nulidade.
+Portanto, é cristalino o direito dos recorrentes à progressão automática, visto que a limitação do número de servidores aptos afronta entendimento pacificado desta Egrégia Corte Superior, conforme teses firmadas no Tema 1.075.
+Isso se dá devido ao fato de a autoridade coatora, de forma discricionária, sem qualquer amparo legal, impor a limitação de 50% (cinquenta por cento) ao número de servidores aptos à progressão.
+Contrarrazões às fls. 764-769.
+O Ministério Público Federal emitiu parecer às fls. 850-858.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.5.2024.
+O Tribunal a quo decidiu a controvérsia nos seguintes termos:
+Não há que se falar, assim, em violação aos princípios norteadores da atuação da Administração Pública. O processo avaliativo e a progressão funcional subsequente observaram os ditames previstos em lei e no respectivo regulamento, em observância aos princípios da legalidade e impessoalidade. Em última análise, a pretensão dos impetrantes, se acolhida, implicaria uma quebra de isonomia, uma vez que os colocaria em posição privilegiada relativamente àqueles servidores que obtiveram classificação superior no processo de avaliação.
+(..) Saliente-se, no que tange ao percentual de servidores aptos à progressão funcional em cada padrão, que o artigo 10, § 1º da Resolução n.º 15/2022-OE estabelece um mínimo de 50% dos servidores que obtiverem conceito satisfatório na respectiva avaliação. Esse percentual de corte é até mesmo mais benéfico que o previsto na Lei Estadual n.º 15.737/2021, a qual, em seu artigo 13, § 1º, estabelece um percentual mínimo de 20%.
+(..)
+O direito à progressão funcional condiciona-se ao preenchimento de uma série de requisitos, não apenas à obtenção de conceito satisfatório pelo servidor na respectiva avaliação de desempenho. Constitui ato administrativo vinculado, que, por isso mesmo, exige a aplicação rigorosa dos parâmetros legais e regulamentares estabelecidos.
+(..)
+Por mais que se reconheça a progressão funcional como direito subjetivo do servidor e o ato administrativo que a concede como ato vinculado, não sujeito à atuação discricionária do administrador, é evidente que a progressão apenas pode ocorrer quando preenchidos todos os requisitos atinentes. Tendo os impetrantes sua progressão funcional negada por excederem o percentual de servidores aptos em cada categoria, não se cogita a existência de direito subjetivo à progressão.
+A Corte de origem denegou a segurança sob o fundamento de que não há prova constituída nos autos de que os recorrentes preencheram todos os requisitos necessários, porquanto a pontuação alcançada pelos servidores não se enquadra no quantitativo fixado. Não havendo previsão legal de que a mera avaliação seja suficiente para a concessão da vantagem.
+Afirmou-se, ainda, que o percentual estabelecido na Resolução n. 15/2022-OE é ainda mais benéfico aos servidores do que aquele previsto na lei estadual e que "a pretensão dos impetrantes, se acolhida, implicaria uma quebra de isonomia, uma vez que os colocaria em posição privilegiada relativamente àqueles servidores que obtiveram classificação superior no processo de avaliação."
+O RMS não impugnou especificamente esses fundamentos, o que atrai a incidência da Súmula 283/STF, por analogia. A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. DEDUÇÃO DE PREJUÍZOS FISCAIS. SÚMULAS 283 E 284 DO STF. APLICAÇÃO.
+(..) 3.É também pacífica a jurisprudência desta Corte no sentido de que "a Súmula 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido." (AgRg no RMS 30.555/MG, Rel. Min. Og Fernandes, Sexta Turma, DJe de 1/8/2012; AgInt no RMS 61.194/AC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 29.11.2019).
+(..) 6. Agravo Interno não provido.
+(AgInt no REsp 1921911/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1.7.2021)
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. DELEGADO DA POLÍCIA CIVIL. DEMISSÃO POR TRANSGRESSÃO AO DISPOSTO NOS ARTS. 207, IV, 208, VIII, XV E XVII, 210, XVII, XVIII E XIX, E 211, III, C/C ART. 204, TODOS DA LEI 6.843/86. PROCESSO ADMINISTRATIVO DISCIPLINAR. LEI COMPLEMENTAR ESTADUAL 491/2010. ALEGADAS NULIDADES. AUSÊNCIA DE NOTIFICAÇÃO DO SERVIDOR E DE SEU DEFENSOR DO RELATÓRIO FINAL E DOS PARECERES JURÍDICOS. ALEGADA OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. NÃO CONFIGURAÇÃO. FUNDAMENTAÇÃO PER RELATIONEM DA DECISÃO DO GOVERNADOR DO ESTADO. NULIDADE INEXISTENTE. ALEGAÇÃO DE INCOMPETÊNCIA DA AUTORIDADE ADMINISTRATIVA. PORTARIA INSTAURADA POR OUTRA AUTORIDADE. POSSIBILIDADE DE APLICAÇÃO DA SANÇÃO POR AUTORIDADE SUPERIOR COMPETENTE. RECURSO HIERÁRQUICO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA, NO TÓPICO. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+(..) XVI. Pacífica a jurisprudência desta Corte no sentido de que "a Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (STJ, AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 01/08/2012).
+XVII. Recurso Ordinário parcialmente conhecido, e, nessa extensão, improvido.
+(RMS 43.831/SC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 26/10/2021)
+Envolvendo a mesma controvérsia, cito as seguintes decisões monocráticas: RMS n. 73.360, Rel. Ministra Regina Helena Costa, DJe de 8/5/2024; RMS n. 73.359, Rel. Ministro Francisco Falcão, DJe de 6/5/2024; RMS n. 72.846, Rel. Ministro Benedito Gonçalves, DJe de 12/3/2024.
+Ante o exposto, não conheço do Recurso Ordinário.
+Publique-se.
+Intimem-se.
+EMENTA
