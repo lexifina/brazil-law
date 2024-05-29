@@ -1,0 +1,16 @@
+DECISÃO
+KAROLAINE STEPHANE DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 5304612-64.2024.8.09.0029, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que " o  Ministério Público ofereceu Denúncia em desfavor da Paciente (Karolaine Stephane da Silva) e de Alexsandro Alves, imputando-lhes a prática do crime de furto qualificado pelo concurso de agentes e pela destruição de obstáculo (art. 155, § 4º, I e IV, CP)" (fl. 245).
+Asseriu a defesa, perante a Corte de origem, "em síntese: (1) violação ao Princípio da Homogeneidade; (2) fundamentação inidônea e ausência dos requisitos legais (art. 312, CPP); (3) suficiência de cautelares diversas (art. 319, CPP)" (fl. 244).
+Todavia, ao impor a custódia cautelar, salientou o Juízo singular que "a reiteração delituosa da autuada evidencia a necessidade de se garantir a ordem pública, mormente porque ela encontra-se em cumprimento de pena em razão de duas condenações pela prática do crime de tráfico de drogas (autos nº. 7000418-94.2023.8.09.0029 - SEEU). Ademais, da análise da certidão de antecedentes (mov. 08), em consulta aos autos de nº. 5039603-47, verifica-se que há sentença penal condenatória em detrimento da autuada, pela prática de crime grave (roubo majorado). Dessa forma, tem-se que é latente o perigo gerado pelo estado de liberdade da imputada" (fls. 97-98, destaquei).
+Sobre o tema, urge consignar também que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+Confiram-se:
+ ..
+2. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade do recorrente, na medida em que responde a diversos outros processos criminais, já tendo sido, inclusive, condenado por tráfico de drogas. Tal circunstância, somada à quantidade, natureza e diversidade das drogas apreendidas, demonstra a propensão ao crime e o risco ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública  ..  (RHC n. 129.203/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/8/2020, grifei).
+ ..
+2. In casu, não obstante a pequena quantidade de droga apreendida, entendo que há motivação idônea para manutenção da constrição cautelar em razão de ser o recorrente reincidente específico que, no mesmo dia em que participou de audiência admonitória relativa à condenação anterior, foi preso em flagrante pela suposta prática de tráfico de drogas, evidenciando, assim, a sua periculosidade social, com concreto risco de reiteração delitiva.
+3. Demonstrada a necessidade da segregação antecipada, descabem as medidas cautelares diversas da prisão previstas no art. 319 e seguintes do Código de Processo Penal.
+4. Recurso em habeas corpus improvido. (RHC n. 109.030/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 18/6/2019, sublinhei).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
