@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da alegada vulneração à lei federal e diante da falta de similitude entre os acórdãos apontados como conflitantes (e-STJ fls. 220/222).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 131):
+AGRAVO DE INSTRUMENTO - Ação ordinária de indenização por dano material e moral - Alegadas transferências eletrônicas indevidas para contas de terceiros - Determinação de prova técnica e ordem ao réu para o depósito dos honorários do perito - Perícia requerida pela autora - Custo da prova a cargo do promovente da demanda - Artigo 95 do CPC - Decisão reformada - Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 212/216).
+Nas razões do recurso especial (e-STJ fls. 156/174), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte apontou contrariedade aos arts. 373, § 1º, e 429, II, do CPC, além de conflito jurisprudencial. Alegou que, "Da simples leitura das normas supracitadas, é possível concluir, por si só, que ônus probatório e adiantamento dos honorários periciais deve ficar com a parte com mais conhecimento do assunto e que tenha facilidade de instruir o processo com as provas necessárias - quer dizer, o Recorrido quem deve pagar o adiantamento dos honorários periciais.  ..  Excelências, no processo mencionado acima, como paradigma, foi designada prova pericial para análise de documentos supostamente fraudulentos que causou prejuízo ao consumidor, portanto, o juízo determinou que a incumbência ao pagamento dos honorários periciais era da parte autora (consumidor).  ..  O mesmo ocorreu in casu, quando o Egrégio Tribunal de Justiça de São Paulo determinou que a ora Recorrente arcasse com o pagamento dos honorários, aduzindo que esta solicitou que a perícia fosse realizada, quando na verdade, o Juízo de Primeira Instância que o fez.  ..  Desta feita, é cristalino que o v. Acórdão deverá ser reformado e seja determinado o custeio dos honorários ao Banco recorrido. Não obstante, a divergência jurisprudencial supra demonstrada por si só seja mais do que suficiente para o provimento deste recurso, é imperioso explicitar que o acórdão recorrido também viola gravemente dispositivos de Lei Federal, razão pela qual cabe também o presente recurso na forma prevista pelo artigo 105, III, "c", CF" (e-STJ fls. 164/171).
+Assim, requereu o provimento do recurso.
+No agravo (e-STJ fls. 225/245), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta às fls. 278/281 (e-STJ).
+É o relatório.
+Decido.
+Atendidos os requisitos de admissibilidade, especialmente a dialeticidade recursal, conheço do agravo.
+Na origem, a Corte estadual julgou agravo de instrumento no sentido de que, a despeito da inversão do ônus da prova, os honorários periciais deveriam ser pagos pela parte autora, que requereu a perícia.
+O Tribunal de origem deu provimento ao agravo de instrumento da parte ré, assentando que (e-STJ fl. 132):
+De feito, a faculdade de inversão do onus probandi, nos termos do art. 6º, inciso VIII, do CDC (Lei nº 8.078/90) ocorre para facilitação da defesa de direitos do consumidor quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente segundo as regras ordinárias de experiência.
+Assim, para que a inversão se opere, há necessidade de que as alegações do consumidor sejam de induvidosa verossimilhança, ou seja ele hipossuficiente a ponto de tornar inviabilizada a sua defesa.
+Por outro lado, a inversão do ônus da prova não importa em inversão do ônus financeiro da perícia, pois o novo Código de Processo Civil estatui preceito específico acerca da realização de perícia, in verbis:
+"Art. 95. Cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes."
+Ao que se depreende dos documentos trazidos aos autos, notadamente a petição inicial de fls. 26/49 verifica-se que a agravada pleiteou a realização de perícia a fls. 49, ao tempo em que o agravante não formulou qualquer requerimento neste sentido em sua defesa (fls. 8/23).
+A decisão de admissibilidade não merece reparo.
+Quanto à suscitada violação dos 373, § 1º, e 429, II, do CPC e ao conflito suscitado, o recurso especial é inadmissível, tendo em vista que o Tribunal de origem não se manifestou de forma específica sobre os dispositivos, ainda que opostos embargos de declaração, o que impede o conhecimento do tema nesta Corte por ausência do prequestionamento (Súmula n. 211 do Superior Tribunal de Justiça). Destaco que tais dispositivos não cuida do tema efetivamente decidido no acórdão recorrido, vinculado à obrigação de recolher os honorários periciais nos termos do art. 95 do CPC/2015. Destaco que o recurso especial não invoca ofensa ao art. 1.022 do CPC/2015.
+O acórdão recorrido, como visto, fundamentou-se no ônus financeiro da parte que requer a perícia, no caso a ora agravante, com base no art. 95 do CPC, independentemente da inversão do ônus probatório. Tal e mbasamento não foi atacado pela parte recorrente, o que atrai o óbice da Súmula n. 283 do Sup remo Tribunal Federal.
+Ademais, a inversão do ônus da prova não se confunde com a responsabilidade processual da parte em arcar com o custo financeiro da perícia por ela requerida. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONSUMO. HIPOSSUFICIÊNCIA. VEROSSIMILHANÇA. COMPROVAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. PERÍCIA. HONORÁRIOS. ADIANTAMENTO PELO FORNECEDOR. NÃO OBRIGATORIEDADE. ALEGAÇÕES. NÃO COMPROVAÇÃO. CONSEQUÊNCIAS. CARGA DINÂMICA DA PROVA. DANO PRESUMIDO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+ ..
+3. Nos termos da jurisprudência desta Corte, aquele contra quem houve a inversão do ônus não é obrigado a custear honorários de perícia devendo, contudo, arcar com as consequências da não produção da prova.
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.953.714/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/10/2022, DJe de 7/10/2022.)
+CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. CDC. INVERSÃO DO ÔNUS DA PROVA. OBRIGAÇÃO DE ADIANTAMENTO DAS DESPESAS. PRECEDENTES. DECISÃO MANTIDA.
+1. A inversão do ônus probatório não gera a responsabilidade da parte contrária de custear as despesas decorrentes da realização de prova requerida pelo consumidor. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.537.179/RS, desta relatoria, QUARTA TURMA, julgado em 1/6/2020, DJe de 5/6/2020.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
