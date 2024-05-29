@@ -1,0 +1,22 @@
+DECISÃO
+MAYLSON PABLO LIMA DA SILVA alega sofrer coação ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2116908-72.2024.8.26.0000.
+A defesa sustenta a falta de fundamentação concreta do decreto prisional, pautado exclusivamente na gravidade abstrata do delito de roubo tentado. Pleiteia, assim, a concessão liminar da ordem, para que seja revogada a prisão preventiva do paciente, sobretudo diante da sua primariedade.
+Deferida a liminar (fls. 124-127) e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 114-120).
+Decido.
+I. Contextualização
+O Juízo singular convolou o flagrante em prisão preventiva, pois "a conduta revela acentuada periculosidade do autuado, que, visando vantagem meramente patrimonial, teria se utilizado de uma faca para ameaçar a vítima" (fl. 62).
+A Corte estadual manteve a prisão e destacou "a gravidade dos fatos atribuídos ao paciente, que abordou a vítima, portando uma faca, exigindo a entrega do celular, não consumando o delito em razão da atitude do ofendido, que fez o réu fugir sem a res furtiva, sendo preso logo em seguida" (fl. 22).
+Nas informações prestadas pelo Juízo de primeiro grau, foi noticiado que os autos aguardam a citação e a apresentação da defesa prévia.
+II. Prisão preventiva
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+A seu turno, a custódia provisória somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Apoiado nessa premissa, observo que não se mostram suficientes as causas invocadas pela Juíza singular para embasar a ordem de prisão do averiguado, porquanto deixou de contextualizar, em dados concretos dos autos, o periculum libertatis.
+No caso, embora o decreto preventivo certamente indique algum nível de periculosidade, a medida extrema revela-se inadequada para a finalidade de acautelar a ordem pública, visto que as circunstâncias em que o delito ocorreu (tentativa de roubo com emprego de uma arma branca) não apresentam motivo bastante, em juízo de proporcionalidade, para embasar a cautela pessoal mais extremada, em virtude de não estar demonstrada que a prisão preventiva seria o único meio de resguardar a ordem pública.
+A par disso, a primariedade do réu - a folha de antecedentes criminais acostada aos autos denota a existência de anotação anterior pelos delitos de dano e lesão corporal - revela a desproporcionalidade da segregação do insurgente.
+O juiz, mediante interpretação teleológica do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011, deve considerar a opção por uma ou mais das cautelares elencadas no art. 319 do CPP o meio bastante e justificável para obter o mesmo resultado, qual seja, a proteção do bem jurídico sob ameaça, porém de forma menos gravosa ao agente.
+Com base nessas premissas, considero ser adequado o restabelecimento da liberdade provisória do paciente, condicionado à imposição de medidas cautelares diversas da prisão.
+III. Dispositivo
+À vista do exposto, concedo a ordem para, confirmada a liminar anteriormente deferida, substituir a prisão preventiva do paciente pelas seguintes medidas cautelares: a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades e b) proibição de se ausentar da comarca sem prévia autorização judicial, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação da constrição preventiva se efetivamente demonstrada sua concreta necessidade.
+Comunique-se, com urgência, o inteiro teor deste decisum ao Juízo singular e à autoridade apontada como coatora.
+Publique-se e intimem-se.
+EMENTA
