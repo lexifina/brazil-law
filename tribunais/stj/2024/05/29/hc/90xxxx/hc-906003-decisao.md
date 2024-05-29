@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALEXANDRE FERREIRA FERNANDES contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o juiz de primeiro grau julgou improcedente a pretensão punitiva formulada pelo Ministério Público estadual, absolvendo o paciente da imputação prevista no art. 33, caput, da Lei n. 11.343/2006, com fundamento no art. 386, inciso VII, do CPP.
+Irresignado, o Parquet interpôs recurso de apelação ao Tribunal de origem, que deu provimento ao apelo, a fim de condenar o paciente, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 05 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, nos termos do acórdão com a seguinte ementa:
+Tráfico de Drogas  Recurso Ministerial  Condenação do apelado como incurso no artigo 33 "caput" Lei 11.343/06 Provimento  Materialidade e autoria delitivas bem comprovadas nos autos  Condenado ao cumprimento de cinco anos de reclusão e pagamento de quinhentos dias -multa, no mínimo legal. Regime inicial fechado  Incabível  Regime intermediário é o que melhor se adequa ao caso  "Quantum" da pena, primariedade e bons antecedentes do réu. Recurso ministerial parcialmente provido.
+No presente writ, a impetrante sustenta que não houve justificação adequada a ensejar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, ressaltando que o paciente é primário, possui bons antecedentes, não integra organização criminosa e nem se dedica a atividade criminosa, exercia atividade lícita na época dos fatos, além disso o acusado foi preso com pequena quantidade de drogas.
+Requer, ao final, a concessão da ordem, para que incida o privilégio descrito no parágrafo 4º, do art. 33 da Lei n. 11.343/06, bem como a readequação do regime prisional.
+As informações foram prestadas às fls. 332-374.
+O Ministério Público Federal, às fls. 376-380, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO OU REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA MINORANTE DO ART. 33, §4º, DA LEI 11.343/03. REGIME. SUBSTITUIÇÃO DA PENA. ALTERAÇÃO DO CPP PELA LEI Nº 14.836 DE 8 DE ABRIL DE 2024. AUSÊNCIA DE INTERESSE PROCESSUAL. NÃO CONHECIMENTO.
+1. O habeas corpus não é instrumento adequado a servir de sucedâneo de recurso próprio (STJ - HC 346.926/RJ, Rel. Min. FELIX FISCHER, Quinta Turma, DJe de 19/04/2016 e HC 239.550/RJ, Rel. Min. LAURITA VAZ, Quinta Turma, DJe de 26/9/2012 (noticiado no Informativo de Jurisprudência nº 504); STF - HC 109.956, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 11/09/2012; e HC 104045, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 06/09/2012).
+2. Igualmente não se mostra processualmente adequada a impetração de HC em substituição à revisão criminal (STJ - AgRg no HC 825.798/SP, Rel. Min, LAURITA VAZ, Sexta Turma, DJe de 30/08/2023).
+3. Atual entendimento jurisprudencial que autoriza o manejo de habeas corpus substitutivo de recurso de forma excepcional, em caso de flagrante ilegalidade que deve ser superado em razão da alteração promovida no CPP pela Lei nº 14.836/2024, prevendo a concessão de ordem de habeas corpus a requerimento ou de ofício em sede recursal e mesmo que o recurso não seja conhecido.
+4. Atual quadro normativo aponta para a ausência de interesse processual tanto na vertente adequação quanto na vertente necessidade para a impetração de HC, vez que existem outros meios processuais recursais eficazes para sanar eventual flagrante ilegalidade.
+5. Interpretação que se amolda à mens legislatoris da previsão legal que igualmente prevê inadmissão de ADPF quando houver outro meio eficaz de sanar a lesividade.
+6. A recente alteração legislativa corrige distorções processuais sem qualquer prejuízo à proteção da liberdade de locomoção, promovendo maior efetividade na defesa desse direito fundamental e maior eficiência na prestação jurisdicional dessa Corte Superior, que sofre com verdadeira e insuperável avalanche de propositura desordenada de habeas corpus, no mais das vezes absolutamente incabíveis.
+PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o breve relatório.
+Decido.
+A impetrante sustenta que não houve justificação adequada a ensejar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, ressaltando que o paciente é primário, possui bons antecedentes, não integra organização criminosa e nem se dedica a atividade criminosa, exercia atividade lícita na época dos fatos, além disso o acusado foi preso com pequena quantidade de drogas.
+Compulsando os autos, denota-se que o presente writ se trata de reiteração de pedido, uma vez que o tema já foi objeto de análise por esta Corte, por ocasião do julgamento do HC n. 893.041/SP, em 20/3/2024, oportunidade em que foi denegado o habeas corpus. Nesse diapasão, o art. 210 do RISTJ dispõe que quando o pedido for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
