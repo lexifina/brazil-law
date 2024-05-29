@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. ÓBITO DO AUTOR. PEDIDO DE HABILITAÇÃO DOS SUCESSORES. COMPROVAÇÃO DA CONDIÇÃO DE DEPENDENTES. PRESCRIÇÃO. INOCORRÊNCIA.
+1. Agravo de Instrumento manejado pelo DNOCS em face de sentença que deferiu a Habilitação requerida, por considerar que restou comprovado que a Autora é Herdeira do falecido Exequente e, nessa condição, dispõe, a exemplo de qualquer herdeiro porventura existente, de legitimidade para o fim de vindicar o acervo patrimonial em sua totalidade, não se fazendo necessário prova da inexistência de outros Herdeiros ou mesmo renúncia deles em seu favor.
+2. Alega que a pretensão da Agravada encontra-se prescrita, porquanto somente em 03/09/2020 peticionou em Juízo, requerendo a Habilitação nos autos, quando transcorridos mais de 5 (cinco) anos entre a data do falecimento (22/05/2009) e o pedido, o que revela a incidência da prescrição prevista no Decreto nº 20.910, de 06/01/32, aplicável às Autarquias por força do Decreto-Lei n. 4.597/42. Invoca, por fim, as disposições dos arts. 75, VII, e 110 do CPC.
+3. No caso dos autos, restou devidamente comprovado que a Agravada é Sucessora do servidor falecido.
+4. Esta Terceira Turma firmou posicionamento pela inocorrência de prescrição para o pedido de Habilitação de Herdeiros. Precedente: TRF5 - Processo 0816389-84.2019.4.05.0000, Agravo de Instrumento, Rel. Desembargador Federal Fernando Braga, 3ª Turma, Julgamento: 18/03/2020. Agravo de Instrumento improvido.
+O recorrente afirma que houve ofensa aos arts. 313, I, 458, II, 489, § 1º, e 1.022, II, do CPC e aos arts. 196 e 682, II, do Código Civil.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.5.2024.
+A questão debatida nos autos - qual seja, "definir se ocorre ou não a prescrição para a habilitação de herdeiros ou sucessores da parte falecida no curso da ação" - aguarda o julgamento pela Corte Especial do Superior Tribunal de Justiça dos Recursos Especiais 2.034.210/CE, 2.034.211/CE e 2.034.214/CE (Rel. Ministro Humberto Martins), sob o rito dos Recursos Repetitivos, afetada ao Tema 1.254/STJ
+Em tal circunstância, deve ser prestigiado disposto na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos arts. 543-C, § 7º, e 543-B, § 3º, do CPC/1973 e dos arts. 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+(..)
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/5/2012.)
+Diante do exposto, determino a devolução dos autos ao Tribunal a quo, com a devida baixa, para que este, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
+EMENTA
