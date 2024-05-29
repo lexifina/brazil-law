@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado:
+TRIBUTÁRIOS E DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECADÊNCIA DO CRÉDITO TRIBUTÁRIO. CRÉDITO TRIBUTÁRIO CONSTITUÍDO APÓS O DECURSO DO PRAZO DECADENCIAL DE CINCO ANOS ENTRE A DATA DO FATO GERADOR E O LANÇAMENTO. EXEGESE DO ART. 173 DO CÓDIGO TRIBUTÁRIO NACIONAL. DECADÊNCIA CONFIGURADA. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE. AGRAVO CONHECIDO E DESPROVIDO.
+Aponta o agravante, em Recurso Especial, violação do art. 174 do CTN.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de maio de 2024.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados na origem, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito da oposição de Embargos Declaratórios, devido à ausência de prequestionamento. Desse modo, incide na espécie a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência desse requisito se não houver a emissão de juízo de valor sobre a questão.
+Para melhor compreensão da demanda, transcrevo trecho do aresto combatido:
+O fisco deixou decair o seu direito de constituição de crédito tributário uma vez que em conformidade com o disposto no art. 173, I, do Código Tributário Nacional, o Município teria o prazo de 05 (cinco) anos para constituir o crédito tributário, a contar do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, in verbis: Art. 173. O direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados: I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado; II - da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado.
+Parágrafo único. O direito a que se refere este artigo extingue-se definitivamente com o decurso do prazo nele previsto, contado da data em que tenha sido iniciada a constituição do crédito tributário pela notificação, ao sujeito passivo, de qualquer medida preparatória indispensável ao lançamento.
+Desta feita, considerando que, no caso dos autos, o fato gerador do tributo ocorreu em 2016 o prazo final para constituição do respectivo crédito tributário seria janeiro de 2021.
+Logo, tendo em vista que o fisco municipal agravante, somente constituiu seu crédito tributário em 24 de abril de 2021 (ID 67975144 - pág. 03), forçoso é o reconhecimento da decadência."
+Observa-se que a Corte local reconheceu ter ocorrido a decadência. No Recurso Especial, entretanto, a parte não enfrenta esse ponto - que é apto, por si só, para manter o julgado. Restringe-se tão somente a alegar ofensa ao art. 174 do CTN e a insistir na não ocorrência da prescrição quinquenal. Portanto, aplica-se na espécie, por analogia, a Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ressalte-se que a ausência de impugnação específica e integral aos argumentos do decisum controvertido suficientes para mantê-lo, em desconformidade com o princípio da dialeticidade que norteia os recursos, impede o conhecimento do Recurso Especial, conforme o disposto nas Súmulas 283 e 284 do STF.
+Ademais, nota-se que a causa foi decidida com base no suporte fático-probatório dos autos, cujo revolvimento é inviável no Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ: "a pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova, e o Recurso Especial não merece trânsito.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
