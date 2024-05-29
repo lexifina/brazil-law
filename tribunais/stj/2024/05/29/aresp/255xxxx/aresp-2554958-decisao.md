@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7 do STJ (e-STJ fls. 332/333).
+O acórdão recorrido está assim ementado (e-STJ fl. 283):
+APELAÇÃO CÍVEL Interposição contra sentença que julgou procedente a ação de cobrança. Prestação de serviços educacionais. Débitos relativos ao ressarcimento, em caso de desistência/desligamento. Relação jurídica hígida. Ausência de prova de pagamento, nos termos do artigo 373, II, do Código de Processo Civil. Sentença mantida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 295/303).
+Nas razões do recurso especial (e-STJ fls. 305/317), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 373, II, do CPC/2015 e 393 do CC/2002, alegando que, "no "Termo de Adesão aos Serviços Educacionais" (fls.83/86) não há qualquer menção aos valores líquidos que deveriam ser ressarcidos em caso de descumprimento, especificamente na "Cláusula 3ª - Das Hipóteses de Desligamento do Curso e da Obrigatoriedade de Ressarcimento", tampouco qualquer menção que tais valores seriam aqueles descritos no contrato firmado entre a instituição autora "SENAT" e a Fundação Dom Cabral, cujos valores eram desconhecidos, já que a recorrente nunca teve acesso, simplesmente por não ser parte do instrumento e por se tratar de negócio realizado entre as instituições, sem qualquer participação dos alunos" (e-STJ fl. 309).
+Foram oferecidas contrarrazões (e-STJ fls. 321/331).
+No agravo (e-STJ fls. 336/348), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 352/365).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls . 285/287):
+Ainda que a ré afirme que não houve o abandono do curso, mas questões imperiosas de caso fortuito que impediram a frequência inicialmente esperada, incontroverso que o curso não foi concluído e as reposições não realizadas, tendo ocorrido o jubilamento no ano de 2019, conforme documentação de fls. 205.
+Pueril, ademais, a afirmação de não recebimento da notificação, quando o e-mail de fls. 205, confirma o recebimento do jubilamento, juntamente com a cobrança.
+A respeito do ressarcimento, em caso de desligamento, o contrato é claro: O beneficiário terá que ressarcir o valor correspondente ao custo do aluno no SENAT, compreendendo o curso, material didático e estrutura de apoio, despendido para a concessão da isenção integral, atualizado, mensalmente pelo INPC, podendo parcela-lo em até 10 (dez) vezes, nas seguintes hipóteses:3.3.1 Desistência do curso pelo beneficiário, 3.3.2. Desligamento do beneficiário por insuficiência de desempenho ou por demissão por justa causa, nos termos do item 3.1, deste instrumento e 3.3.3 Reprovação do projeto aplicativo pela banca examinadora, consoante o subitem 2.1.3(fls. 84).
+Registre-se que o simples fato de o contrato não se encontrar datado (fls. 86), por si só, não tem o condão em macular o entabulado, pois incontroversa a disponibilização da prestação de serviços, para o período estipulado na cláusula 1ª do contrato, inclusive reconhecido pela ré, que cursou/frequentou parcialmente as aulas, antes da desistência/desligamento.
+( ..)
+Importa anotar, em nenhum momento foi demonstrada a quitação dos débitos, o que incumbia à parte ré, nos termos do que dispõe o artigo 373, inciso II, do Código de Processo Civil. Logo, a cobrança é devida.
+A Corte local concluiu que, ainda que a parte recorrente afirme que não houve o abandono do curso, mas questões imperiosas de caso fortuito que impediram a frequência inicialmente esperada, incontroverso que o curso não foi concluído e as reposições não realizadas e que, conforme consta no contrato: "O beneficiário terá que ressarcir o valor correspondente ao custo do aluno no SENAT, compreendendo o curso, material didático e estrutura de apoio, despendido para a concessão da isenção integral" (e-STJ fl. 285).
+Nesse contexto, rever as conclusões acerca da responsabilidade da recorrente pelo pagamento da quantia reclamada em razão da desistência do curso, demandaria nova interpretação do contrato celebrado entre as partes e incursão no conjunto probatório dos autos, providências vedadas na instância especial, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
