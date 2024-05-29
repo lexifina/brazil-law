@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de medida cautelar, com pedido liminar, ajuizada por HSBC Bank Brasil S.A. - Banco Múltiplo, buscando atribuir efeito suspensivo ao recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso, no Agravo de Instrumento n. 173.276/2015, a fim de impedir a prática de qualquer ato executório pelos exequentes, até o julgame nto do recurso por esta Corte Superior.
+Em relação ao fumus boni iuris, alega que deve ser reconhecida a sua ilegitimidade passiva para figurar no cumprimento de sentença subjacente "face à ausência de comprovada sucessão do Banco Bamerindus, conforme entendimentos recentes do STJ, notadamente em caso análogo ao presente (pagamento de honorários de sucumbência pelo HSBC por ação proposta pelo BBB em liquidação extrajudicial hoje Banco Sistema S/A) do RESP 1.338.793/MS" (e-STJ, fl. 3).
+Quanto ao periculum in mora, afirma que "a iminência de levantamento de quantia superior a R$ 4 milhões em demanda em fase de Cumprimento de Sentença em que discutida, além de outras matérias, a ILEGITIMIDADE PATENTE DO HSBC FACE À AUSÊNCIA DE SUCESSÃO DO ENTÃO BANCO BAMERINDUS EM LIQUIDAÇÃO EXTRAJUDICIAL HOJE BANCO SISTEMA S/A exige a intervenção imediata dessa Corte Superior" (e-STJ, fl. 2).
+A liminar foi deferida às fls. 1233-1239 (e-STJ).
+Brevemente relatado, decido.
+A presente medida cautelar perdeu o objeto.
+Com efeito, nos autos do Recurso Especial n. 1.573.843/MT, no qual se busca a concessão de efeito suspensivo, foi proferida decisão por este Relator dando provimento ao recurso para afastar a aplicação da teoria da aparência e determinar o retorno dos autos ao Tribunal de origem, a fim de que profira nova decisão acerca da alegação de ilegitimidade passiva, devendo examinar, especialmente, se os exequentes, ao direcionarem o cumprimento de sentença contra o HSBC, fizeram prova de que, no ajuste celebrado com o Banco Bamerindus do Brasil S/A, o executado assumiu a responsabilidade pelo pagamento do crédito de honorários por eles titularizado.
+Dessa forma, segundo a jurisprudência desta Corte Superior, a "decisão que julga o recurso especial, ainda que não transitada em julgado, prejudica a medida cautelar que buscava lhe conferir efeito suspensivo, por perda de objeto" (AgInt na MC n. 23.989/AM, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 16/11/2020).
+Ante o exposto, julgo prejudicada a presente medida cautelar, tornando sem efeito a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+MEDIDA CAUTELAR. PROVIMENTO DO RECURSO ESPECIAL A QUE SE PRETENDE ATRIBUIR EFEITO SUSPENSIVO. PERDA DE OBJETO. MEDIDA CAUTELAR PREJUDICADA.
