@@ -1,0 +1,63 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000295-26.2023.8.08.0008
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SANDRA TEIXEIRA REZENDE PEREIRA
+RECORRIDO: MUNICIPIO DE BARRA DE SAO FRANCISCO
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5000295-26.2023.8.08.0008
+Origem
+: Juízo de Barra de São Francisco - Juizado Especial Cível, Criminal e Fazenda Pública
+RECORRENTE
+: SANDRA TEIXEIRA REZENDE PEREIRA
+RECORRIDO
+: MUNICÍPIO DE BARRA DE SÃO FRANCISCO
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. PROFESSOR. PISO SALARIAL NACIONAL DO MAGISTÉRIO. AFIRMA A PARTE AUTORA QUE, APESAR DE EXERCER FUNÇÃO DE PROFESSORA JUNTO À SECRETARIA MUNICIPAL DE EDUCAÇÃO NO ANO DE 2020 E 2022, A PARTE RÉ NÃO PROMOVIA O PAGAMENTO DAS VERBAS SALARIAIS CONFORME DISPÕE A LEI Nº 11.738/2008. PUGNA, NESTES TERMOS, PELA CONDENAÇÃO DO ENTE FEDERATIVO AO PAGAMENTO DA DIFERENÇA DO PISO SALARIAL REFERENTE AO ANO DE 2020 E 2022.
+SENTENÇA DE IMPROCEDÊNCIA
+. RECURSO INOMINADO INTERPOSTO PELA PARTE AUTORA
+. DO MÉRITO. APÓS ANÁLISE DOS AUTOS, TEM-SE QUE O ATO GUERREADO MERECE REFORMA.
+O SALÁRIO-BASE PERCEBIDO PELA PARTE AUTORA À ÉPOCA ESTAVA ABAIXO DO PISO SALARIAL DOS PROFESSORES NO ANO DE 2020 E 2022. VEDAÇÃO DE VENCIMENTO BÁSICO EM VALOR INFERIOR AO PISO SALARIAL PROFISSIONAL (ART. 2º, § 1º DA LEI Nº 11.738/2008), SEJA PARA PROFESSORES EM CARGO EFETIVO OU CONTRATADOS EM DESIGNAÇÃO TEMPORÁRIA. NÃO HÁ DISTINÇÃO ENTRE OS CARGOS NO QUE SE REFERE AO RECEBIMENTO DO VALOR DO PISO SALARIAL. ADEMAIS, É COMPETÊNCIA DA UNIÃO REGULAMENTAR TAL ASSUNTO, DE MODO QUE A APLICAÇÃO DA REFERIDA LEI FEDERAL NÃO AFRONTA LEI MUNICIPAL. DA CONCLUSÃO.
+RECURSO CONHECIDO E PROVIDO,
+A FIM DE REFORMAR A SENTENÇA DE ORIGEM PARA JULGAR PROCEDENTE A PRETENSÃO AUTORAL E DECLARAR O DIREITO POSTULADO PELA AUTORA, CONDENANDO A PARTE RÉ AO PAGAMENTO
+DAS DIFERENÇAS DO PISO SALARIAL REFERENTE AO ANO DE 2020 E 2022.
+JUROS DE MORA PELOS ÍNDICES OFICIAIS DA CADERNETA DE POUPANÇA A PARTIR DA CITAÇÃO, E ATUALIZAÇÃO MONETÁRIA PELO IPCA-E, A CONTAR DE CADA VENCIMENTO, AMBOS ATÉ 08/12/2021. APÓS 09/12/2021, JUROS E CORREÇÃO MONETÁRIA PELA TAXA SELIC, ACUMULADA MENSALMENTE, NOS TERMOS DO ART. 3º DA EC Nº 113/2021.
+SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, POIS A PARTE AUTORA SAGROU-SE VENCEDORA NA INSTÂNCIA RECURSAL (ART. 55, DA LEI 9.099/95 E SÚMULA Nº 06 DAS TURMAS RECURSAIS DOS JUIZADOS ESPECIAIS DO ESPÍRITO SANTO).
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
