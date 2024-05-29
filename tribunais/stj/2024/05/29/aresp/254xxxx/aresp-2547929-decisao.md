@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 156/160).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 73):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE INDEFERIU A INCLUSÃO DE SÓCIOS DA EXECUTADA NO POLO PASSIVO SEM ANTES PROCEDER À DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA E APLICOU MULTA EM EMBARGOS DE DECLARAÇÃO.
+INSURGÊNCIA DA PARTE EXEQUENTE.
+PLEITO DE INCLUSÃO DE SÓCIOS DA EMPRESA EXECUTADA NO POLO PASSIVO DA DEMANDA. REJEIÇÃO. NECESSIDADE DE PROVA INEQUÍVOCA DA OCORRÊNCIA DE ABUSO DA PERSONALIDADE JURÍDICA. MERA INAPTIDÃO PARA EXERCER ATIVIDADES QUE NÃO GERA O DIREITO AUTOMÁTICO À DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.
+EXIGÊNCIA DE INSTAURAÇÃO DE PROCEDIMENTO ESPECÍFICO PARA TAL FINALIDADE.
+DECISÃO MANTIDA NO PONTO.
+PRETENSÃO DE AFASTAMENTO DA MULTA POR OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO. AUSÊNCIA DE CARÁTER PROTELATÓRIO. PENALIDADE AFASTADA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 121/126).
+Nas razões do recurso especial (e-STJ fls. 137/146), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 110 do CPC/2015 e 1.080 do CC/2002. Defende, em síntese, que o sócio da empresa executada deve sucedê-la nos autos, porque responsável pela extinção irregular da pessoa jurídica.
+No agravo (e-STJ fls. 167/181), afirma a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Sobre o tema, o TJSC consignou que (e-STJ fls. 76/79):
+Observa-se que o decisum hostilizado fundamentou a rejeição ao pedido de sucessão empresarial, nos termos do art. 110 do CPC, sob o argumento de que "o pedido de evento 175, mediante o qual a parte exequente almeja a inclusão dos sócios da pessoa executada no polo passivo da demanda, confunde-se com pleito de desconsideração da personalidade jurídica, que merece ser objeto de incidente processual próprio, não sendo passível de análise mediante petição intermediária no feito constritivo"(evento 177, DESPDEC1 dos autos de origem).
+Outrossim, na decisão proferida nos embargos de declaração opostos pela agravante, o Juízo a quo esclareceu as razões pelas quais indeferiu o pedido da recorrente (evento 182, DESPDECI1 dos autos de origem): A decisão foi clara no sentido de indeferir a inclusão dos sócios da pessoa jurídica inapta, ante a necessidade de instauração do incidente de desconsideração da personalidade jurídica para tanto. Só se dispensa o referido incidente no caso de dissolução regular, para fins de partilha de bens partilhados, o que não foi o alegado.
+Com efeito, a determinação de inclusão dos sócios no polo passivo, para responder por obrigações da pessoa jurídica que integram (ou integravam), depende da instauração do contraditório em incidente de desconsideração da personalidade jurídica, para a comprovação dos requisitos legais (abuso da personalidade jurídica, que abrange também a não integralização das cotas sociais e a dissolução irregular), conforme interpretação do art. 133 do CPC balizada pelo art. 5º, LV, da CRFB.
+Assevero que também se dispensa a provocação do incidente quando o objetivo não for o atingimento de bem particular por abuso da personalidade jurídica, mas sim a cobrança de débito remanescente após a partilha do patrimônio social, decorrente da dissolução da sociedade. Nesse caso específico, o montante exigido não pode ultrapassar o total recebido com a partilha, conforme art. 1.110 do CC. O instrumento jurídico para tanto é a habilitação para fins de sucessão processual, por interpretação analógica dos arts. 110 e 687 a 692 do CPC (cf. STJ, REsp n. 1784032 / SP, Marco Aurélio Bellizze, 02.04.2019). Todavia, esse também não é o caso dos autos, pois ausente a comprovação documental da dissolução irregular, passível de obtenção, se for o caso, perante a Junta Comercial.
+Outrossim, para fins de viabilizar a constrição sobre o patrimônio particular dos sócios, cabe a propositura do incidente de desconsideração da personalidade jurídica, em autos apartados, com numeração própria.
+De fato, ainda que em juízo provisório e de cognição sumária, parece ter deliberado com o costumeiro acerto o Juízo de origem.
+Isso porque não estão presentes os requisitos autorizadores da sucessão empresarial sem antes proceder à desconsideração da personalidade jurídica no caso concreto.
+A temática foi apreciada recentemente pela Corte Superior por ocasião do julgamento do Recurso Especial n. 1.784.032/SP, de relatoria do Ministro Marco Aurélio Bellizze, Terceira Turma, j. em 2-4-2019, onde decidiu-se, por unanimidade, que é dispensável a instauração de incidente de desconsideração da personalidade jurídica para requerer a sucessão material e processual da empresa executada por seus sócios administradores, desde que respeitada a forma de pôr fim à empresa.
+(..)
+Assim, o sucesso do pedido de sucessão material e processual da parte agravada por seus sócios administradores depende de prova inequívoca da extinção da empresa, não se bastando para tanto o simples fato de que a executada está, neste momento, inapta para realizar suas atividades em razão de omissão na entrega de suas declarações.
+(..)
+Nesse cenário, ainda que a empresa executada esteja impossibilita de exercer suas atividades, não se pode considerar como formalmente extinta para fins de permitir a sucessão material e processual. Isto é, não ocorreu a sua extinção, ao contrário, está-se diante, apenas, de vedação ao exercício empresarial/comercial, como exemplo emissão de notas fiscais, razão pela qual entende-se que, neste momento, a medida liminar requerida não pode ser acolhida.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a determinação de inclusão dos sócios no polo passivo, para responder por obrigações da pessoa jurídica que integram (ou integravam), depende da instauração do contraditório em incidente de desconsideração da personalidade jurídica. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, modificar o entendimento do acórdão impugnado quanto à inexistência de comprovação da extinção da pessoa jurídica, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
