@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Marcelo de Pinho Melo, apontando-se como autoridade coatora o Desembargador Relator da Apelação Criminal n. 5009413-05.2020.4.03.6119.
+Narram os autos que o Juízo da 1ª Vara Federal de Guarulhos/SP condenou o paciente como incurso no art. 33, caput, c/c o art. 40, I, da Lei n. 11.343/2006; e no art. 2º, caput, da Lei n. 12.850/2013; à pena de 12 anos, 11 meses e 22 dias de reclusão, em regime inicial fechado, mais 961 dias-multa.
+Contra esse decisum foi interposto o recurso de apelação, com julgamento iminente (fl. 33).
+Sustenta o impetrante que, devido à constatação de que a condenação do paciente foi fundamentada em provas anuladas,  ..  solicitou liminarmente a suspensão do processo e a aplicação da teoria dos frutos da árvore envenenada a todos os atos processuais que tiveram contato direto com os elementos anulados, no entanto, no dia seguinte, 22 de maio de 2024, o Tribunal, ignorou o pedido da defesa e determinou a inclusão em pauta o julgamento do recurso de apelação, apesar de estar ciente de que a sentença condenatória se baseava em provas anuladas (fl. 4).
+Aduz que a decisão do Tribunal de agendar o julgamento, permitindo o uso e a permanência de provas anuladas no processo judicial, ato coator contestado neste habeas corpus, constitui uma violação clara e grave aos princípios da dignidade da pessoa humana e do devido processo legal (fl. 5).
+Requer, assim, em liminar, seja determinada a suspensão do processo ou, alternativamente, a determinação para que o Relator aprecie o pedido da defesa antes de pautar o processo para julgamento (fl. 13).
+No mérito, pugna para que, após a verificação da contaminação ampla de diversos atos processuais, provocada pela falaciosa Informação Policial ora escoimada do processo, seja reconhecida a derivação de nulidade para todos os atos processuais posteriores à sua juntada (6/9/2022), decretando-os nulos e determinando a remessa do processo em questão ao substituto legal, tanto nos juízos de primeiro e segundo graus, em função do comprometimento da convicção dos magistrados pelo contato com a prova anulada (fl. 14).
+É o relatório.
+É firme, nesta Corte, o entendimento de que, nesta instância superior, não há como se dispensar o necessário debate acerca da questão controvertida, sob pena de incursão em indevida supressão de instância.
+Nesse sentido: AgRg no HC n. 472.533/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/12/2018; e AgRg no AgRg no HC n. 453.621/ES, Ministro Felix Fischer, Quinta Turma, DJe 30/10/2018.
+Na espécie, o impetrante impugna despacho proferido pelo Desembargador Relator determinando a inclusão do recurso de apelação na pauta de julgamento.
+Ora, não cabe a esta Corte julgar habeas corpus contra decisão monocrática de Desembargador de Tribunal de Justiça, quanto mais contra despacho (art. 105, I, c, da Constituição Federal). Isso porque, contra despachos e decisões monocráticas dos Tribunais de Justiça, existem outros recursos cabíveis na própria via ordinária, tais como pedidos de reconsideração, agravos internos e/ou agravos regimentais.
+De mais a mais, não há nenhuma ilegalidade em se reservar a decisão da questão - que, aparentemente, demanda ampla análise do acervo fático-probatório da ação penal - para o recurso cabível, qual seja, a apelação (meio próprio para impugnar as conclusões da sentença, conforme pretendido pelo impetrante).
+À vista do exposto, com base no art. 210 do RISTJ, indefiro liminarmente o pedido de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE ORGANIZAÇÃO CRIMINOSA E TRÁFICO DE DROGAS. PROVAS ANULADAS. CONTAMINAÇÃO DA AÇÃO PENAL. IMPUGNADO DESPACHO DE RELATOR NA ORIGEM. AUSÊNCIA DE ATO COATOR SUJEITO À JURISDIÇÃO DESTA CORTE. ART. 105, I, C, DA CF. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA.
+Inicial indeferida liminarmente.
