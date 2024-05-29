@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Clederson Caselly Nascimento Gome s - condenado por roubo circunstanciado a 4 anos, 5 meses e 10 dias de reclusão, em regime inicial fechado, e a 11 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 22/40), não comporta processamento.
+Com efeito, busca a impetração alterar o regime inicial para o semiaberto - referente à condenação proferida na Ação Penal n. 1522772-72.2023.8.26.0228 (fls. 9/21 - da 2ª Vara Central Criminal da comarca de São Paulo) -, ao argumento de que o douto Juízo de primeiro grau reconhece a primariedade do agente de arma e de concurso de agentes), a quantidade da pena, contudo, fixa o regime inicial fechado com base na gravidade abstrata do delito (fl. 4).
+Do atento exame dos autos, observo que não foi demonstrado o alegado constrangimento ilegal, pois o regime inicial fechado foi fixado em consonância com o entendimento desta Corte Superior, ao fundamento da gravidade concreta do delito, tanto na sentença - considerando a quantidade da pena e a gravidade em concreto do delito (com causas de aumento de emprego de arma e de concurso de agentes) - (fl. 19) - quanto no acórdão da apelação (fls. 37/38):
+Com efeito, trata-se de crime que pressupõe o emprego de grave ameaça à pessoa, no caso, exercida em concurso com mais dois indivíduos ainda não identificados, com emprego e arma de fogo (crime hediondo) sendo que, no caso, o artefato era empunhado pelo acusado, que o manteve apontado na direção da cabeça do ofendido, circunstâncias que bem demonstram periculosidade e a intensidade da violação ao bem jurídico tutelado pela norma penal, evidenciando-se, por conseguinte, a necessidade da adequada resposta penal, justificando-se o regime mais gravoso (artigos 59, III e 33, § 3º, do Código Penal).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. GRAVIDADE CONCRETA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
