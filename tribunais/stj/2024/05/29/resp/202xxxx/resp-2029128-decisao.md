@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO MARIN ALVES contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consoante se extrai dos autos, o ora Agravante foi condenado a 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de detenção, em regime aberto, e suspensão da habilitação por 1 (um) ano, pela imputação do delito do art. 302, caput, da Lei n. 9.503/1997 (homicídio culposo na direção de veículo automotor), por duas vezes, em concurso formal (fls. 501-502). A punição corporal foi convertida em duas restritivas de direito (fl. 502). Também foi condenado a 7 (sete) meses de detenção pelo delito do art. 303, caput, do mesmo diploma legal (lesão corporal culposa na direção de veículo automotor), tendo sido reconhecida, pelo Juízo sentenciante, a extinção da punibilidade pela prescrição (fls. 501 e 502).
+A Corte de justiça de origem deu parcial provimento à apelação da Defesa apenas para redimensionar o período de suspensão da habilitação para dirigir veículo automotor de 1 (um) ano para 2 (dois) meses e 21 (vinte e um) dias (fls. 605-606).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a Defesa aponta violação ao art. 386, inciso III, do Código de Processo Penal (fls. 649).
+Aduz, em síntese, culpa exclusiva do condutor do veículo que colidiu com o caminhão dirigido pelo ora Agravante, pois estava em alta velocidade, embriagado, além de as outras vítimas não estarem utilizando cinto de segurança quando do acontecimento do fato. Pleiteia, assim, a absolvição do Recorrente (fls. 650-655).
+Apresentadas as contrarrazões (fls. 675-684), sobreveio juízo negativo de admissibilidade fundado na Súmula n. 7/STJ (fls. 751-753).
+Nas razões do agravo, a Defesa restringiu-se a pontuar que a Corte de justiça de origem imiscuiu-se na competência deste Tribunal na medida que não lhe cabia se envolver na apreciação da admissibilidade do recurso (fls. 767-768).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo (fls. 804-806 e 809).
+É o relatório. DECIDO.
+O agravo não reúne condições de ser conhecido.
+A Corte de justiça de origem inadmitiu o recurso especial com apoio no óbice da Súmula n. 7/STJ (fls. 751-753).
+Nas razões do agravo, a defesa não traçou uma linha sequer para o fim de impugnar o óbice da Súmula n. 7/STJ, tendo se restringido a asseverar que a Corte de justiça de origem se imiscuiu na competência deste Tribunal ao inadmitir o recurso especial (fls. 767-768).
+Dessa forma, à míngua de impugnação concreta, específica e individualizada, do fundamento declinado pela Corte de justiça local para inadmitir o recurso especial, mostra-se insuperável a manifesta inobservância ao princípio da dialeticidade, nos termos do art. 932, inciso III, do Código de Processo Civil.
+A propósito:
+" ..
+4. Na espécie, a respeito da pretendida substituição da pena privativa de liberdade, a decisão agravada consignou que a medida não era cabível por dois motivos: a) as circunstâncias do crime foram valoradas negativamente ao acusado, inclusive ensejando incremento na pena-base e b) o réu é reincidente em crime doloso, cometido com violência, e as instâncias de origem entenderam não ser adequada a aplicação de pena restritiva de direitos. A defesa, contudo, não impugnou todos os fundamentos da decisão agravada, de modo que se limitou a infirmar a necessidade de reexame fático-probatório para analisar o pleito e a questionar a possibilidade de substituição da reprimenda para sentenciados reincidentes. Desse modo, em razão da ausência de dialeticidade recursal, incide a Súmula n. 182 do STJ, a inviabilizar o conhecimento do pedido.
+5. Agravo regimental parcialmente conhecido e não provido." (AgRg no AREsp n. 2.295.338/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/6/2023, DJe de 27/6/2023.).
+Ainda nesse sentido, dentre vários outros, o AgRg no REsp n. 2.009.728/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/9/2023, DJe de 12/9/2023.
+Ante o exposto, NÃO CONHEÇO do agravo, nos termos do art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. DELITO DO ART. 302, CAPUT, DA LEI N. 9.503/1997 (HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR), POR DUAS VEZES, EM CONCURSO FORMAL. INADMISSÃO DO APELO NOBRE PELO ÓBICE DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. ART. 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO NÃO CONHECIDO, NOS TERMOS DO ART. 253, PARÁGRAFO ÚNICO, INCISO I, DO RISTJ.
