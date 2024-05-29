@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por IZAURA VALERIO AZEVEDO E OUTROS contra acórdão proferido pela Primeira Turma do Superior Tribunal de Justiça assim ementado:
+"PROCESSUAL CIVIL. VIOLAÇÃO DE NORMA LEGAL. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. INEXISTÊNCIA. LITIGÂNCIA DE MÁ-FÉ. INCIDENTE MANIFESTAMENTE INFUNDADO. MULTA. APLICAÇÃO.
+1. A alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF).
+2. A citação geral de artigos de lei ao longo do apelo especial não é suficiente para caracterizar e demonstrar a contrariedade de lei federal, já que impossível identificar se foram eles citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/06/2018).
+3. Os artigos do Código Tributário Nacional tidos por contrariados no apelo especial não foram prequestionados na origem, sendo o caso de aplicação das Súmulas 211 do STJ e 282 do STF.
+4. É pacífico o entendimento desta Corte de que "caracteriza litigância de má-fé a provocação de incidentes manifestamente infundados, o que atrai a aplicação da multa prevista no art. 81, caput, do CPC/2015" (PET no REsp 1.800.699/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/8/2020, DJe de 26/8/2020).
+5. No caso, a Turma da Corte Regional já havia encerrado seu ofício jurisdicional, inclusive já havia passado o prazo de aclaratórios, quando os recorrentes, impedindo o fluxo regular do processo, deduziram pedido de esclarecimento sobre matéria já preclusa e sem que tenham evidenciado prejuízo ao andamento do processo ou à defesa, o que caracteriza litigância de má-fé.
+6. Agravo interno não provido".
+Nas suas razões, os embargantes sustentam, em síntese, que o acórdão embargado divergiu da orientação manifestada pela 4ª Turma no julgamento do AgInt no AREsp 1.427.716/PR (Min. Marco Buzzi), pois a conduta relacionada com o pedido de esclarecimentos é suficiente para a aplicação da multa por litigância de má-fé.
+É o relatório.
+DECIDO.
+Os embargos de divergência devem ser indeferidos.
+A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pelos embargantes não está configurado, na medida em que não há confronto jurisprudencial entre o entendimento adotado pelo acórdão embargado e a orientação manifestada pela 4ª Turma no AgInt no AREsp 1.427.716/PR.
+Na verdade, a divergência quanto às soluções atribuídas a cada caso justifica-se em razão de suas próprias peculiaridades.
+No acórdão paradigma, a 4ª Turma do STJ, com fundamento em precedentes jurisprudenciais e baseada nas circunstâncias do caso, afastou a pretensão trazida em contrarrazões recursais, tendo em vista a inexistência de demonstração de que a parte recorrente tenha agido com dolo ou culpa grave.
+De outro lado, o acórdão embargado, ao negar provimento ao agravo interno com fundamento em precedentes de ambas as turmas da Segunda Seção do STJ, considerou, também motivado pelas peculiaridades do caso concreto, configurada a hipótese de aplicação das penas de litigância de má-fé.
+Confiram-se os seguintes trechos do acórdão embargado:
+"(..)
+Por fim, quanto à impugnação referente ao acórdão de e-STJ fls. 1.522/1.527 (julgamento de agravo interno interposto contra a decisão que aplicou multa por litigância de ma-fé em relação a dois recorrentes), deve ser aplicada ao caso a Súmula 83 desta Corte de Justiça.
+Segundo a Corte Regional:
+Em 10.07.2018, quando já exaurido o prazo para oposição de embargos de declaração, Wagner Canhedo Azevedo e Izaura Valério Azevedo atravessaram petições de fls. 1.225/1.226 e 1.236/1.237 para que fosse esclarecido se as suas contraminutas (fls. 1.032/1.062 e 902/928) seriam apreciadas pela Turma, isso porque não foram mencionadas no relatório de fl. 1.141 (julgamento do agravo de instrumento). Constou da decisão recorrida que nas contraminutas apresentadas por Wagner Canhedo Azevedo e Izaura Valério Azevedo foram alegadas as mesmas matérias que nas contraminutas (indicadas no relatório) dos demais agravados, são elas: ilegitimidade passiva, prescrição intercorrente e falta de liquidez e certeza da CDA. Assim, o "pedido de esclarecimento" tem manifesta intenção de tumultuar o regular andamento do processo, o que justifica a imposição de multa por litigância de má-fé de 2% do valor da causa (valor total: R$ 118.237,71), que será corrigido desde o ajuizamento da ação conforme a Res. 267/CJF. (e-STJ fl. 1525)
+Conforme se observa, a Turma da Corte Regional já havia encerrado seu ofício jurisdicional, inclusive já havia passado o prazo de aclaratórios, quando os recorrentes, impedindo o fluxo regular do processo, deduziram pedido de esclarecimento sobre matéria já preclusa e sem que tenham evidenciado qualquer prejuízo ao andamento do processo ou à defesa.
+Nesses casos, é pacífico o entendimento desta Corte de que "caracteriza litigância de má-fé a provocação de incidentes manifestamente infundados, o que atrai a aplicação da multa prevista no art. 81, caput, do CPC/2015" (PET no REsp 1.800.699/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/8/2020, D Je de 26/8/2020).
+No mesmo sentido: EDcl nos EDcl no AgInt nos EREsp n. 1.881.082/PR, relator Ministro Marco Buzzi, Segunda Seção, julgado em 15/3/2022, DJe de 18/3/2022; PET no AREsp n. 544.597/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/2/2020, DJe de 18/2/2020; EDcl nos EDcl no AgInt nos EDcl no REsp n. 1.599.526/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2018, DJe de 29/8/2018" (fls. 1.860/1.861, e-STJ).
+Desse modo, reafirma-se que os embargos de divergência buscam uniformizar a interpretação da legislação infraconstitucional, mas não quando a alegada dissonância dos precedentes se firma nas particularidades de cada caso concreto submetido a julgamento.
+Para esse fim, não se prestam os embargos de divergência.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados, devidos pelos ora recorrentes, devem ser majorados para R$ 3.500,00 (três mil e quinhentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. INEXISTÊNCIA DE DECISÕES CONFLITANTES.
+EMBARGOS INDEFERIDOS.
