@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SOROCABA, com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 319):
+SERVIDOR PÚBLICO MUNICIPAL. SOROCABA. ADICIONAL DE INSALUBRIDADE. Motorista. Pretensão de concessão de adicional de insalubridade e de periculosidade em grau máximo, com base no art. 136 da Lei Municipal 3.800/91. Admissibilidade em parte. Perícia que constatou o direito ao recebimento do adicional de insalubridade em grau médio (20%). Prova técnica que tem amparo nos demais elementos dos autos e foi produzida por profissional de confiança do juízo, equidistante das partes, sob o crivo do contraditório. Concessão do benefício com efeitos retroativos, a partir do início do exercício das atividades consideradas insalubres, observada a prescrição quinquenal. Laudo pericial que tem natureza meramente declaratória, e não constitutiva. Inaplicabilidade do entendimento firmado pelo e. STJ no PUIL 413/RS. Precedentes. Sentença mantida neste tópico.
+HONORÁRIOS ADVOCATÍCIOS PARA O PATRONO DO AUTOR. Aplicação do art. 85, § 3º, do CPC, com fixação em percentual do valor da condenação. Impossibilidade de arbitramento por equidade. Entendimento consolidado pelo e. STJ, em recurso repetitivo (REsp 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP, Tema 1.076). Porém, por se tratar de sentença ilíquida, a definição do percentual da verba honorária deverá ocorrer quando da liquidação, nos termos do art. 85, § 4º, II, do CPC, atendido o escalonamento previsto no art. 85, § 3º, do CPC. Sentença modificada neste tópico.
+REMESSA NECESSÁRIA E RECURSO DO RÉU DESPROVIDOS.
+RECURSO DO AUTOR PARCIALMENTE PROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 334/339).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação dos arts. 489, § 1º, VI, e 1.022, II e parágrafo único, I e II, do CPC/2015, por negativa de prestação jurisdicional quanto ao precedente vinculante definido no PUIL n. 413/RS, que estabeleceu que somente é devido o pagamento de adicional de insalubridade a partir do laudo pericial. Aduz, ainda, divergência jurisprudencial quanto ao termo inicial do pagamento do referido adicional.
+Contrarrazões às e-STJ fls. 371/382.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIV IL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu integralmente a controvérsia nos seguintes termos (e-STJ fls. 322/326):
+ ..
+A prova técnica tem amparo nos demais elementos dos autos e foi produzida por profissional de confiança do juízo, equidistante das partes, sob o crivo do contraditório.
+Acolho a orientação desta c. Câmara para fixar como termo a quo do adicional de insalubridade a data de início do exercício das atividades insalubres, respeitada a prescrição quinquenal, diante da natureza declaratória do laudo pericial.
+Perícia apenas constata uma situação. Ainda que nem sempre permita estabelecer quando ela teve início, possível supor que a característica de insalubridade exista desde que a função é exercida.
+(..)
+Sobre a matéria, confiram-se os argumentos da Desembargadora Silvia Meirelles, no julgado acima:
+"Sempre entendi, em conformidade com a jurisprudência até então dominante sobre a matéria, que o adicional de insalubridade e de periculosidade são devidos desde o início da atividade insalubre, e não do laudo que a atesta.
+E isto por dois motivos básicos.
+Primeiro, porque o laudo somente atesta uma situação pré-existente, portanto, tem natureza meramente declaratória, e não constitutiva de direito.
+Logo, quando o perito verifica o trabalho em condições insalubres ou periculosas, somente atesta aquilo que já existia de fato, desde o início da prestação dos serviços, sendo imoral e ilegal negar-se a justa contraprestação àquele que sacrificou sua saúde ou pôs em risco a sua vida em prol do trabalho público.
+Segundo, porque a se entender que seu pagamento somente é devido a partir da data do laudo, deixa ao alvedrio da Administração conceder o referido adicional somente quando assim o entender.
+Em uma situação como tal, deixa-se ao desamparo o funcionário que trabalhe em condições insalubres ou perigosas por anos a fio, sem perceber uma compensação pecuniária pelo trabalho prestado em condições mais penosas, em um claro descumprimento de nossa Magna Carta, que estende ao servidor público os direitos garantidos a todos os trabalhadores em geral.
+Daí porque, por uma simples questão de lógica jurídica e em obediência aos princípios da legalidade, moralidade e impessoalidade que regem a atividade administrativa, com todo o respeito ao posicionamento em sentido contrário, entendo que o mais adequado seria a consideração da data do início do efetivo exercício na função insalubre ou periculosa como sendo o marco inicial para o pagamento do adicional respectivo.
+Não se olvida que o tema foi pacificado pelo C. STJ, no julgamento do Pedido de Uniformização de Interpretação de Lei nº. 413 RS (2017/0247012-2), de Relatoria do E. Ministro Benedito Gonçalves (..).
+Todavia, o referido pedido de uniformização de interpretação de lei fundamenta-se no art. 14, da Lei 10.259/01, que instituiu os Juizados Especiais Cíveis e Criminais da Justiça Federal e deve ser instaurado somente "quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei".
+Portanto, não se aplica à Justiça Comum e nem é o instrumento adequado a formar qualquer decisão vinculativa, visto que não está sequer inserido entre as hipóteses elencadas no art. 927, do nCPC.
+(..) Assim, cabível a condenação da ré ao pagamento do referido adicional, desde o momento em que a autora passou a exercer as atividades insalubres, respeitando-se a prescrição quinquenal (..)."
+Transcreve-se, ainda, trecho do acórdão integrativo (e-STJ fl. 336):
+ ..
+Ao contrário do que afirma o embargante, houve a distinção entre o caso em julgamento o pedido de uniformização de jurisprudência do STJ nº 413, que dispõe sobre o pagamento do adicional de insalubridade somente a partir do laudo pericial. Conforme constou expressamente na fundamentação do v.
+acórdão (fls. 327/31):
+(..) Acolho a orientação desta c. Câmara para fixar como termo a quo do adicional de insalubridade a data de início do exercício das atividades insalubres, respeitada a prescrição quinquenal, diante da natureza declaratória do laudo pericial.
+Perícia apenas constata uma situação. Ainda que nem sempre permita estabelecer quando ela teve início, possível supor que a característica de insalubridade exista desde que a função é exercida.
+Assim, não há omissão a sanar, sendo certo que o Tribunal de origem analisou integralmente a questão.
+Em relação ao dissídio, observo que a parte insurgente não apontou nenhum dispositivo de lei federal supostamente interpretado de maneira divergente pela Corte a quo, circunstância que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+Registre-se que a ausência de indicação do dispositivo infraconstitucional tido por violado impede o conhecimento do recurso especial tanto pela alínea "a", quando pela alínea "c" do permissivo constitucional.
+Nesse sentido, trago os recentes julgados proferidos em casos idênticos:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DECLARATÓRIA. ADICIONAL DE INSALUBRIDADE EM GRAU MÁXIMO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, C, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de ação declaratória proposta pela parte agravada, em desfavor do Município de Sorocaba, objetivando a concessão de adicional de insalubridade em grau máximo.
+III. A falta de particularização, no Recurso Especial - interposto, no caso, com fundamento no art. 105, III, c, da CF/88 -, dos dispositivos de lei federal que teriam sido objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgInt no AREsp 1.656.469/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020;AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020;AgInt no AREsp 1.632.513/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/10/2020.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 2.372.375/SP, rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe de 31/08/2023).
+SERVIDOR PÚBLICO. ADMINISTRATIVO. DISSÍDIO PRETORIANO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DA SÚMULA N. 284/STF.
+1. Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a alegada divergência jurisprudencial. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.468.608/SP, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe de 07/03/2024).
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL INTERPRETADO DIVERGENTEMENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.
+ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal interpretado divergentemente pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no AREsp n. 2.381.606/SP, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe de 28/09/2023).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte sucumbente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
