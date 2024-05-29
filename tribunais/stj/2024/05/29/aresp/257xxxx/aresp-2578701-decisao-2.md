@@ -1,0 +1,41 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por SOCIEDADE MOVELEIRA PARANA LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/11/2023.
+Concluso ao gabinete em: 15/5/2024.
+Ação: embargos à execução, opostos pela agravante em desfavor de JP EMPREENDIMENTOS FLORESTAIS E AGROINDUSTRIAIS LTDA, nos autos de ação de execução de título extrajudicial.
+Sentença: julgou parcialmente procedentes os embargos para o fim de reconhecer a quitação parcial da dívida exequenda.
+Acórdão: negou provimento à apelação interposta pela agravante e deu parcial provimento à apelação da agravada, nos termos das seguinte ementa:
+APELAÇÕES CÍVEIS - EMBARGOS À EXECUÇÃO - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEITADA - CORREÇÃO MONETÁRIA PELO IGPM- MANTIDA - SUCUMBÊNCIA MÍNIMA DOS EMBARGADOS - ÔNUS DA EMBARGANTE EM VERBA HONORÁRIA E CUSTAS - HONORÁRIOS FIXADOS NO LIMITE MÁXIMO LEGALMENTE PERMITIDO - MAJORAÇÃO NEGADA - RECURSO DA EMBARGANTE CONHECIDO E DESPROVIDO - RECURSO DOS EMBARGADOS CONHECIDO E PARCIALMENTE PROVIDO. Como a apelante não justifica a impossibilidade de juntada oportuna dos documentos que comprovariam a dação em pagamento, não se tratando das hipóteses amparadas no artigo 435 do Código de Processo Civil, não há cerceamento de defesa no indeferimento da dilação probatória e consequente julgamento antecipado. 2. Com relação ao índice de correção monetária, o que melhor reflete a variação da moeda, sem acarretar perdas ao credor, tampouco prejudicar o devedor, é o IGPM/FGV. A taxa Selic é índice oficial para dívidas da Fazenda Pública, nos termos da EC 113/2021 e se mostra inadequado quando juros e correção possuem termo inicial em datas diferentes. 3. A embargante logrou êxito em 3,92% do que pretendia, o que implica em sucumbência mínima dos embargados, merecendo reforma a sentença que distribui o ônus na proporção da 90% e 10% entre as partes. Assim, deverá a embargante arcar com a totalidade das custas e honorários. 4. Na hipótese, não houve condenação, tendo sido fixados os honorários sobre o proveito econômico obtido pela embargante no limite máximo permitido pela norma, não existindo margem para majoração.
+(e-STJ Fl. 301)
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alega a violação do art. 406 do CC. Insurge-se contra a aplicação do IGP-M e juros de mora como índice de correção monetária da dívida, requerendo a sua atualização com base na taxa Selic. Deduz que tal índice é aplicável em hipóteses como a dos autos, de embargos à execução. Refere, assim, que "(..) não se trata de hipótese em que juros e correção estão estipulados em datas distintas, como é o caso da dívida oriunda de instrumento particular de confissão de dívida revisado em embargos à execução, deve ser dado provimento a este recurso especial para o fim de se reconhecer a negativa de vigência ao dispositivo do artigo 406 do CC, e se admitir a Taxa Selic em substituição ao IGPM e juros de mora de 1% ao mês, sendo esta substituição uma medida de direito" (e-STJ Fl. 342).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado e do reexame de fatos e provas
+Na hipótese dos autos, não obstante a pretensão da agravante, o Tribunal de origem assim consignou (e-STJ Fls. 333/334):
+(..) Na hipótese, não há vício a ser sanado, porquanto não houve omissão quanto ao índice de correção a ser adotado para o cálculo do valor devido, tendo constado expressamente, inclusive, a inviabilidade de aplicação da taxa Selic quando juros de mora e correção monetária incidem em datas distintas.
+Veja no acórdão à f. 304 dos autos principais:
+"..Com relação ao índice de correção monetária, o que melhor reflete a variação da moeda, sem acarretar perdas ao credor, tampouco prejudicar o devedor, é o IGPM/FGV, haja vista que em seu cálculo a Fundação Getúlio Vargas computa diversos outros índices, como o IPA (índice de preços por atacado), o IPC (índice de preços ao consumidor), o INCC (índice nacional da construção civil), que são meios e formas de se medir o movimento de preços de determinado conjunto de bens perante os consumidores finais, englobando os mercados atacadistas, as transações interempresariais, os custos das construções habitacionais de abrangência nacional e que, destarte, refletem exatamente o custo de variação monetária em determinado período. A taxa Selic é índice oficial para dívidas da Fazenda Pública, nos termos da EC 113/2021 e se mostra inadequado quando juros e correção possuem termo inicial em datas diferentes."
+Assim, não houve omissão quanto ao índice de correção monetária, não tendo sido adotado o disposto no art. 406 do Código Civil devido a invialiabilidade da adoção da taxa Selic na hipótese.
+(..) (sic, grifos nossos)
+Veja-se, nesse passo, que a parte agravante, ao fundamentar o seu recurso exclusivamente na ofensa ao art. 406 do CC, não impugnou os fundamentos adotados, utilizados pelo TJ/MS e grifados no excreto consignado, atinentes à aplicação do IGP-M, devendo ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+Ademais, ainda que assim não fosse, no que tange ao índice aplicável ao cálculo do valor devido e à possibilidade de eventual substituição, alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+A corroborar:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. DISCRICIONARIEDADE DO JUIZ. NÃO CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. PACTUAÇÃO DO IGPM. ÍNDICE DE CORREÇÃO MONETÁRIA. NÃO IMPLICA ILEGALIDADE POR SI SÓ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento deste Tribunal Superior é de que o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+2. A desconstituição do entendimento do acórdão estadual recorrido (acerca da inexistência de cerceamento de defesa diante da suficiência de provas) é procedimento vedado na via eleita, por exigir o reexame de fatos e provas, em virtude do óbice contido na Súmula nº 7/STJ.
+3. Na linha dos precedentes desta Corte, a pactuação do IGPM como índice de correção monetária não encerra ilegalidade ou abusividade.
+(AgRg no REsp 1217531/MG, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12.5.2015, DJe 19.5.2015).
+4. O Tribunal de origem entendeu que a previsão do índice de correção monetária pelo IGP-M não foi abusiva, já que expressamente estipulado no contrato firmado entre as partes.
+5. Modificar a conclusão do acórdão recorrido e verificar se houve aplicação do índice de correção monetária de forma indevida demandaria reexame de matéria fático-probatória e de cláusulas contratuais, o que é vedado em sede de recurso especial, a teor das Súmulas 7 e 5, ambas do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.217.041/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023, grifos nossos.)
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de execução de título extrajudicial. Embargos à execução.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido para não conhecer do recurso especial.
