@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DE SANTA CATARINA contra a decisão da Presidência do Superior Tribunal de Justiça (STJ) de fls. 601/604 que conheceu do agravo para não conhecer do recurso especial.
+O agravo em recurso especial foi interposto contra a decisão que inadmitiu o recurso especial pelo qual o ESTADO DE SANTA CATARINA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 370):
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA PARA IMPLANTAÇÃO DE RODOVIA. CASO CONCRETO QUE NÃO SE SUBSUME ÀS HIPÓTESES DE REEXAME NECESSÁRIO.
+INSURGÊNCIA DA AUTARQUIA OBJETIVANDO A REFORMA DA SENTENÇA PARA DESCONTAR DA VERBA INDENIZATÓRIA O VALOR CORRESPONDENTE À FAIXA DE DOMÍNIO COM CARÁTER DE ÁREA DE PRESERVAÇÃO PERMANENTE (APP). IMPOSSIBILIDADE. LAUDO PERICIAL QUE AFIRMOU A IMPOSSIBILIDADE DE CERTIFICAR A COINCIDÊNCIA DA FAIXA DE DOMÍNIO À ÁREA DE APP, GERANDO O DEVER DE INDENIZAR. CONSECTÁRIOS LEGAIS. JUROS COMPENSATÓRIOS. ÍNDICE FIXADO EM 6% AO ANO, A CONTAR DA DATA DA IMISSÃO NA POSSE, CONSOANTE ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DA ADI 2332/DF. JUROS MORATÓRIOS. INCIDÊNCIA A PARTIR DE 1º DE JANEIRO DO EXERCÍCIO SEGUINTE ÀQUELE EM QUE O PAGAMENTO DEVERIA TER SIDO FEITO, CONFORME DISPÕE O ART. 15-B DO DECRETO-LEI N. 3.365/41, E APLICAÇÃO DO ÍNDICE DE 0,5% - CAPITALIZAÇÃO SIMPLES - ATÉ ABRIL DE 2012 E, A PARTIR DE MAIO DE 2012 O PERCENTUAL DE JUROS INCIDENTE SOBRE A CADERNETA DE POUPANÇA, CAPITALIZADOS DE FORMA SIMPLES. CORREÇÃO MONETÁRIA. INCIDÊNCIA A PARTIR DO LAUDO DE AVALIAÇÃO, SENDO O ÍNDICE APLICÁVEL O IPCA-E/IBGE. ÍNDICES ESTABELECIDO NO JULGAMENTO DO TEMA 905, DO SUPERIOR TRIBUNAL DE JUSTIÇA. PEDIDO DE MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. INVIABILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+NÃO FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS RECURSAIS EM RAZÃO DA DEFINIÇÃO DA VERBA HONORÁRIA NO LIMITE PREVISTO NO ART. 27, § 1º, DO DECRETO-LEI N. 3.365/41.
+Os embargos de declaração opostos foram rejeitados (fls. 517/522).
+Em suas razões recursais, a parte recorrente sustenta a existência de violação ao art. 1.022 do Código de Processo Civil, porquanto:
+É imperativo, pois, que o Tribunal a quo expressamente se manifeste acerca da questão suscitada que é tratada no laudo pericial complementar, acerca da existência de APP na área a ser indenizada. Isso porque, se a perícia judicial foi fundamento para a decisão, não pode ser ignorada parte integrante da mesma, complementar, a pretexto de tentativa de rediscussão do mérito.
+O acórdão embargado, ao não analisar o laudo complementar (omissão), conclui de forma diversa à prova pericial (contradição).
+ ..
+Veja-se que, apesar de o laudo pericial inicialmente não trazer informações acerca da existência de APP, posteriormente, respondendo a quesitos complementares, o laudo pericial reconheceu e delimitou a APP. Vide (fls. 167):
+"B-) Quanto da Faixa de domínio coincide com a APP
+R: A APP utiliza uma área de 3.601,29m Xa faixa de domínio. Restando da área total de 11.746,64m 2 , uma área de 8.145,35m 2 conforme pode ser verificado no projeto em anexo."
+Já no laudo pericial complementar de fls. 185/6 o Perito, para calcular o valor da indenização, identifica claramente qual a área total, qual a área da estrada antiga, qual a área da APP (sem desconto da estrada antiga) e qual a área de APP coincidente da estrada antiga (fls. 538/539).
+Não foram apresentadas contrarrazões (fl. 551).
+O recurso especial não foi admitido na origem (fls. 562/566), razão da interposição do agravo em recurso especial.
+É o relatório.
+Diante das alegações da parte agravante, e preenchidos os requisitos de admissibilidade do agravo em recurso especial, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Assiste razão à parte recorrente, porquanto o Tribunal de origem não examinou a tese de que a Área de Preservação Permanente (APP) foi delimitada em trecho específico do laudo pericial.
+Embora o Tribunal a quo mencione parte do laudo pericial no acórdão recorrido, não faz referência ao excerto que baseou a tese do Estado de Santa Catarina.
+Conforme o entendimento do Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso. A propósito, confiram-se estes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, reconsidero a decisão de fls. 601/604 e conheço do agravo para dar provimento ao recurso especial a fim de reconhecer o vício de omissão do acórdão prolatado em embargos de declaração, anular o julgado e determinar o retorno dos autos à origem para novo exame do recurso
+Publique-se. Intimem-se.
+EMENTA
