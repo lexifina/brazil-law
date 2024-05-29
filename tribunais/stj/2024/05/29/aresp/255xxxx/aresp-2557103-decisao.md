@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por TISHMAN SPEYER PROPERTIES LP e TS-3 MORUMBI DESENVOLVIMENTO IMOBILIARIO LTDA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO COMINATÓRIA - EXCLUSÃO DE "HOLDING" - GRUPO ECONÔMICO RECONHECIDO - LEGITIMIDADE PASSIVA EVIDENTE - DECISÃO MODIFICADA - AGRAVO PROVIDO" (fl. 4.008 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 4.069/4.071 e-STJ).
+No recurso especial, os recorrentes alegam, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 17 e 485, VI, do Código de Processo Civil e 28, caput e § 2º, do Código de Defesa do Consumidor - haja vista que o aresto recorrido manteve no polo passivo parte estranha à relação jurídica material discutida, ante a mera possibilidade de responsabilização subsidiária da empresa pertencente ao mesmo grupo econômico;
+(ii) art. 1.022, II, parágrafo único, II, e 489, § 1º, III, IV e V, do Código de Processo Civil - porque o acórdão combatido deixou de analisar o fato de que o CDC é expresso ao prever, no seu art. 28, § 2º, que a responsabilidade das empresas do mesmo grupo econômico é subsidiária, sendo necessário comprovar os requisitos legais previstos no caput do citado dispositivo legal.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Registra-se que o Tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à possibilidade de responsabilização subsidiária da recorrente, conforme se verifica do seguinte trecho do acórdão:
+"Desta feita, à luz do CDC, há possibilidade de responsabilização, inda que subsidiária, da Recorrente, e tal responsabilidade será melhormente apurada no decorrer do feito. Logo, evidente a legitimidade passiva, ainda com se possibilitar melhor defesa para a ora insurgente" (fl. 4.070 e-STJ).
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto ao mais, verifica-se que as conclusões do tribunal de origem decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..) evidente a legitimidade da Recorrida Tishman, à luz do Código de Defesa do Consumidor.
+É que todas as Requeridas integram grupo econômico, e a Agravada a "holding", responsável pelo controle administrativo do grupo composto pelas Rés, e as empresas sócias da responsável pelo empreendimento também se cuidam de "holdings", que integram o grupo da ora Recorrida, vendo-se de troca de e-mails entre a Agravada e a Recorrente, fatos não impugnados a contento na contraminuta" (fl. 4.008 e-STJ - grifou-se).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. LEGITIMIDADE PASSIVA DA CORRETORA. CONFIGURAÇÃO. SOCIEDADE EMPRESÁRIA QUE INTEGRA O MESMO GRUPO ECONÔMICO DA INCORPORADORA. SÚMULAS 7 E 83/STJ. AGRAVO DESPROVIDO.
+1. Não há como reconhecer a ocorrência de negativa de prestação jurisdicional, tendo em vista que o Tribunal a quo examinou, de forma fundamentada, todas as questões necessárias ao deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. Embora o entendimento jurisprudencial desta Casa seja no sentido de que não cabe, a princípio, a responsabilização da corretora por eventual inadimplemento da incorporadora no contrato de compra e venda de unidade imobiliária, é certo que, constatado o seu pertencimento ao mesmo grupo econômico das responsáveis pela obra, é possível o reconhecimento da legitimidade passiva ad causam da corretora, com base na teoria da aparência. Incidência do enunciado sumular n. 83/STJ.
+3. Ademais, não é possível a revisão do entendimento estadual - para afastar a conclusão de que a ora insurgente pertence ao mesmo conglomerado econômico da incorporadora - sem o prévio revolvimento do acervo fático-probatório, providência que esbarra no enunciado n. 7 da Súmula desta Corte de Uniformização.
+4. Agravo interno desprovido." (AgInt no AgInt nos EDcl no REsp n. 2.002.594/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. GRUPO ECONÔMICO. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO ESTATUTO PROCESSUAL CIVIL DE 2015. NÃO OCORRÊNCIA. DECISÃO SINGULAR RECONSIDERADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. CULPA CONCORRENTE CONSTATADA. DANOS MATERIAIS. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 1.022, II, DO CPC. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Consoante orientação do Superior Tribunal de Justiça, "tendo o Tribunal de origem concluído que as empresas pertencem ao mesmo conglomerado econômico, deve ser reconhecida a aplicação da Teoria da Aparência, a qual é amplamente aceita nesta Corte" (AgInt no AREsp 1.698.883/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/10/2020, DJe 17/11/2020).
+2. As instâncias de origem concluíram que a agravada era parte legítima para figurar no polo passivo da demanda, com base no acervo fático-probatório da lide. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7 do Superior Tribunal de Justiça).
+3. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem não se manifesta sobre questão relevante ao deslinde da controvérsia, apesar de a parte ter oposto os competentes embargos de declaração.
+4. Agravo interno parcialmente provido." (AgInt no AREsp n. 2.169.370/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023)
+Além disso, nota-se que os argumentos apresentados pelos recorrentes para demonstrar a violação do art. 28, § 2º, do CDC estão dissociados dos fundamentos do aresto combatido, que não está a tratar da desconsideração de personalidade jurídica de qualquer das integrantes do grupo econômico, inclusive porque o feito sequer apurou ainda eventual configuração de responsabilidade civil.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
