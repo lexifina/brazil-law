@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282 e 356 do STF (e-STJ fls. 247/248).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 214):
+APELAÇÃO CÍVEL - AÇÃO DE EXONERAÇÃO DE FIANÇA C/C OBRIGAÇÃO DE FAZER DE BAIXA DE GRAVAME - SENTENÇA DE PROCEDÊNCIA - IRRESIGNAÇÃO DO RÉU - ALEGAÇÃO DE QUE A FIANÇA NÃO PODE SER EXTINTA POR AUSÊNCIA DE INTERESSE DO GARANTIDOR OU SIMPLES ALTERAÇÃO NO QUADRO SOCIETÁRIO DA EMPRESA - NÃO CABIMENTO - DEMONSTRAÇÃO DE NOTIFICAÇÃO ENVIADA A LOCATÁRIA SOLICITANDO A SUBSTITUIÇÃO DA GARANTIA - SITUAÇÃO EM QUE HOUVE CONCORDÂNCIA EXPRESSA DA APELANTE - APLICAÇÃO DO ARTIGO 835 DO CC - NÃO SUBSISTE A OBRIGAÇÃO DECORRENTE DA FIANÇA QUANDO HÁ TRANSFERÊNCIA DE TITULARIDADE DA EMPRESA, EM RAZÃO DA QUEBRA DA AFFECTIO SOCIETATIS - PLEITO DE ARBITRAMENTO POR EQUIDADE DADO O VALOR ELEVADO DA CAUSA - TEMA REPETITIVO Nº 1.076 - IMPOSSIBILIDADE - HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA RECURSAL - MAJORAÇÃO - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 228/233), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação do art. 292, § 3º, do CPC/2015, sustentando, em síntese, que "o Tribunal de Justiça do Paraná desconsiderou a previsão expressa do aludido dispositivo legal para manter o valor da causa como aquele correspondente ao do instrumento de hipoteca tido por extinto pelo autor, muito embora a ação não tenha por objeto a declaração de validade ou de existência do referido ato jurídico" (e-STJ fl. 231).
+No agravo (e-STJ fls. 251/256), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 260/264).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 221):
+Pugna ainda, o apelante, que o valor da causa seja reduzido nos termos do artigo 292, § 3º do CPC, diante do entendimento de que, por se tratar de ação declaratória, inexistem nos autos elementos para se apurar o seu conteúdo econômico, e que pelo fato de valor da causa ter sido estipulado diante do valor do contrato firmado, que este se torna elevado demais para ser fixado como sucumbência, devendo então, ser analisado por apreciação quantitativa.
+Aduz o apelante que fora fixado o valor da causa de acordo com o valor do contrato firmado, e que nesses casos o valor da causa, então, deve ser estimado de modo a não possibilitar o enriquecimento sem causa de quaisquer dos interessados.
+Reforça ainda, que o §3º do art. 292 do CPC determina necessidade de correção do valor da causa, por arbitramento, "quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor".
+Todavia, em que pesem os argumentos despendidos pelo apelante, em análise à jurisprudência do STJ, em especial aos parâmetros fixados no Tema repetitivo nº 1.076 (REsp 1.850.512- SP), conclui-se, no caso concreto, o arbitramento dos honorários advocatícios por não ser possível equidade, nos termos do art. 85, § 8º, do CPC.
+Isso porque não se está diante nem de proveito econômico inestimável ou irrisório, nem de valor da causa muito baixo.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, o TJPR, ao analisar os honorários de sucumbência, reconheceu a impossibilidade de arbitramento por equidade, por entender que "não se está diante nem de proveito econômico inestimável ou irrisório, nem de valor da causa muito baixo".
+Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Além disso, a questão referente à violação do art. 292, § 3º, do CPC/2015, da maneira como apresentada pela parte recorrente nas razões do especial - no sentido de que o direito pleiteado na ação (exoneração da fiança e da hipoteca) não teria conteúdo econômico para fins de fixação do valor da causa - não foi analisada pela Corte local. Incidente, portanto, as Súmulas n. 282 e 356 do STF por falta de prequestionamento.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
