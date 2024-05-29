@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO VITOR NUNES DE SOUSA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, cuja ementa teve o seguinte teor (fl. 32):
+EMENTA: HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. FURTO QUALIFICADO. EXCESSO DE PRAZO. Encerrada a instrução processual, pela conclusão da fase judicial de colheita de provas, encontrando-se a ação penal aguardando tão somente a juntada das alegações finais pelas partes, para a prolação da decisão de pronúncia, e tratando-se de processo complexo, com 08 (oito) acusados e a imputação de dois crimes, há de se aplicar o princípio da razoabilidade, não se justificando a revogação da prisão por excesso de prazo. ORDEM CONHECIDA E DENEGADA.
+Consta dos autos que o paciente foi preso preventivamente e denunciado pela suposta prática dos crimes descritos nos artigos 121, §2º, I, III e IV; e 155, §4º, IV, todos do Código Penal.
+No presente writ, a defesa alega, em síntese, constrangimento ilegal em razão do suposto excesso de prazo para a formação da culpa, uma vez que o paciente encontra-se preso desde 26/4/2023.
+Aduz que o paciente é primário, ostenta bons antecedentes criminais, possui residência fixa e ocupação lícita.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que com a sua substituição por medidas cautelares diversas.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela não admissão do writ, descabida a concessão de um habeas corpus ex officio.
+Quanto ao alegado excesso de prazo para a formação da culpa, cumpre consignar, na linha dos precedentes desta Corte, que o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+Para ser considerado injustificado o excesso na custódia cautelar, a demora deve ser de responsabilidade da acusação ou do Poder Judiciário, situação em que o constrangimento ilegal pode ensejar o relaxamento da segregação antecipada.
+Não se verifica, no caso, mora ilegal atribuível ao Poder Judiciário ou aos órgãos encarregados da persecução penal, uma vez que o feito tramita de maneira regular e denota elevada complexidade, porquanto envolve 8 denunciados e investiga fatos que envolvem a apuração de dois crimes (homicídio triplamente qualificado e furto qualificado). Ademais, durante a instrução, houve a inquirição de 16 testemunhas arroladas pelas partes, bem como procedeu-se ao interrogatório e qualificação de todos os denunciados.
+Outrossim, de acordo com as informações prestadas pela instância de origem às fls. 48-51, "Atualmente, o feito encontra-se aguardando a apresentação das Alegações Finais em memoriais das partes para prolação de decisão intermediária". Logo, incide ao caso o enunciado n. 52 da Súmula desta Corte, segundo o qual "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
