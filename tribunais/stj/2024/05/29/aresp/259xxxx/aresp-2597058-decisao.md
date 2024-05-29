@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por TORRES & ALVARES CONSTRUCOES LTDA contra a decisão q u e não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. VÍCIOS EM ELEVADOR DE PRÉDIO RESIDENCIAL. CULPA DA CONSTRUTORA REQUERIDA. PROVA PERICIAL. COMPROVAÇÃO. REPAROS DOS VÍCIOS. CUSTEIO PELO RÉU. FATO DO PRODUTO. POSSIBILIDADE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 502, 503, 504, 505, 506, 507, 508 e 511 do CPC, no que concerne à ocorrência de violação da coisa julgada, diante da não realização de perícia, constituindo ausência da fase de liquidação de sentença pelo procedimento comum e não por arbitramento pela realização de meros cálculos aritméticos, trazendo a seguinte argumentação:
+O acórdão recorrido decidiu que "a discussão acerca da eventual necessidade de prova técnica para apuração do valor devido encontra-se preclusa nos autos, eis que já transitada em julgado decisão da fase de liquidação de sentença".
+No entanto, a referida decisão não se atentou, data maxima venia, ao fato de que constou expressamente no título executivo judicial que o valor a ser indenizado deveria ser apurado em sede de liquidação de sentença:
+ ..
+Conclui-se, destarte, que a ausência de realização de perícia constitui a própria ausência de fase de liquidação, o que acarreta, por óbvio, violação à coisa julgada. Porém, a decisão recorrida não se manifestou sobre isso.
+ ..
+Com efeito, como dito, foi pontuado que que constou no título judicial exequendo que o valor a ser indenizado deveria ser apurado em sede de liquidação de sentença. E, uma análise do inteiro teor do acórdão que deu origem ao referido título dá conta de que a liquidação indicada no acórdão é pelo procedimento comum.
+Isso porque, existem apenas duas espécies de liquidação, a por arbitramento e a pelo procedimento comum. Na espécie, como era necessário comprovar fatos novos, conclui-se que foi determinada a realização da liquidação pelo procedimento comum. Ainda, relevante pontuar que a realização de meros cálculos aritméticos não retira do título executivo a sua liquidez, logo não há falar que a liquidação deveria se dar pela realização de meros cálculos aritméticos, eis que nesses casos não há nem falar em liquidação.
+Portanto, conclui-se que a não realização do correto procedimento de liquidação viola a coisa julgada, eis que a determinação para a sua realização constou de acórdão transitado em julgado.
+ ..
+Ante o exposto, deve o acórdão recorrido ser reformado, a fim de que se reconheça a negativa de vigência dos artigos 502 a 508 do CPC e 511 também do CPC. Como consequência, será inevitável cassação e modificação da r. decisão proferida pelo juízo primevo, a fim de que seja reconhecida e declarada a necessidade de realização de perícia técnica para se apurar o suposto crédito exequendo e, sucessivamente, seja nomeado o i. perito técnico para a realização dos trabalhos (fls. 1.043-1.046).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, a discussão acerca da eventual necessidade de prova técnica para apuração do valor devido encontra-se preclusa nos autos, eis que já transitada em julgado decisão da fase de liquidação de sentença, cujo dispositivo ora se transcreve:  ..
+ ..
+Contra a mencionada decisão, foi interposto recurso de agravo de instrumento, que não foi conhecido, operando-se, portanto, o trânsito em julgado da decisão da fase de liquidação, não se admitindo, portanto, nova discussão sobre a matéria, ante a ocorrência de preclusão.
+A doutrina clássica conceitua a preclusão como a perda pela parte de uma faculdade processual, em virtude seja do decurso do prazo adequado para seu exercício (preclusão temporal), seja da prática de ato incompatível com o que se pretende realizar (preclusão lógica), seja da prática anterior do mesmo ato processual (preclusão consumativa).
+Em outras palavras, ocorrerá a coisa julgada formal diante da preclusão sobre determinada matéria, não sendo mais lícito à parte reabrir a discussão, no mesmo processo.
+ ..
+Nesse contexto, porque já definitivamente decidida, na fase de liquidação, a questão concernente ao valor do débito exequendo, deve ser mantida, ainda que por fundamentos diversos, a decisão agravada que não conheceu da impugnação ao cumprimento de sentença, impugnação esta amparada unicamente na suposta necessidade de perícia para apuração do valor devido. (fls. 1.016-1.018).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
