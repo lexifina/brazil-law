@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RARISSA APARECIDA ALVES DE OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2043080-43.2024.8.26.0000.
+Extrai-se dos autos que a recorrente foi condenada definitivamente às penas de 3 anos e 4 meses de reclusão, em regime inicial fechado, e pagamento de 333 dias-multa, pela prática do delito tipificado no art. 33, caput, c/c o art. 46, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. IMPETRAÇÃO QUE BUSCA MODIFICAR O JULGAMENTO. DESCABIMENTO. IMPOSSIBILIDADE DE DESCONSTITUIÇÃO DE COISA JULGADA VIA "HABEAS CORPUS" - ORDEM NÃO CONHECIDA" (fl. 261).
+No presente recurso, a defesa alega ilegalidade da busca pessoal, porquanto realizada por guardas municipais, quer realizaram a abordagem da recorrente sem que houvesse situação flagrancial. Destaca que os agentes municipais não possuem competência para a realização de atividades ostensivas.
+Aduz que a ré faz jus ao redutor do § 4º do art. 33 da Lei n. 11.343/2006, enfatizando que ações penais em curso não obstam a aplicação do benefício.
+Requer, liminarmente, a suspensão da ação penal até o julgamento definitivo deste reclamo. No mérito, pugna pelo reconhecimento da nulidade das provas ou, ainda, pela aplicação da minorante do tráfico privilegiado em seu grau máximo.
+É o relatório.
+Decido.
+Verifico que as questões não foram analisadas pelo Tribunal de origem, o que impede o exame direto por esta Corte Superior, sob pena de se incidir em indevida supressão de instância. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT INDEFERIDO LIMINARMENTE. ART. 210 DO RISTJ. CRIME DOLOSO CONTRA A VIDA. TENTATIVA DE HOMICÍDIO. PRONÚNCIA. NULIDADE. VIOLAÇÃO DO ART. 155 DO CPP. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. IMPOSSIBILIDADE DE EXAME NESTA CORTE SUPERIOR. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta.
+2. Ademais, "O conhecimento do recurso em sentido estrito é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões. Por esse motivo, nos habeas corpus impetrados nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância" (AgRg no HC n. 774.881/SC, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022).
+3. Na hipótese, deve ser mantida a decisão que indeferiu liminarmente o mandamus, ante a evidente supressão de instância, um a vez que a questão trazida pela Defensoria Pública (nulidade da decisão de pronúncia por violação ao art. 155 do CPP) não foi efetivamente debatida pelo Tribunal de origem, especialmente porque não constou das razões do recurso em sentido estrito interposto em favor do paciente. Nesse panorama, o tema não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.
+4. Ademais, ainda que a tese tenha sido suscitada, de forma indireta, nas razões recursais, ressalta-se que, na esteira dos precedentes desta Corte Superior, caberia à defesa a oposição de embargos de declaração em face daquele acórdão para suprir o suposto vício e provocar a referida manifestação, o que, conforme consta dos autos, não fora realizado.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 851.143/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18/9/2023).
+Ademais, em atenção ao princípio da dialeticidade recursal, cumpre à parte impugnar de forma efetiva, concreta e pormenorizada as razões adotadas na decisão objurgada, não sendo suficientes alegações genéricas, inéditas ou relativas ao mérito da controvérsia, de competência do juízo natural, providência da qual não se desincumbiu a recorrente, no caso.
+Ora, " s e as razões do recurso ordinário em habeas corpus não infirmam as conclusões do Tribunal de origem - ou seja, estão total ou parcialmente dissociadas dos fundamentos do decisum de segundo grau - há violação do princípio da dialeticidade" (RHC n. 156.531/PB, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/9/2022, DJe de 29/9/2022). No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA. POSSIBILIDADE. NULIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO DESPROVIDO.
+1. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019).
+2. A ausência de impugnação específica de todos os fundamentos do acórdão recorrido inviabiliza o conhecimento do recurso ordinário em habeas corpus. Princípio da dialeticidade que se impõe na interposição de recursos.
+3. Agravo desprovido.
+(AgRg no RHC n. 156.039/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 18/3/2022).
+Ante o exposto, c om fulcro no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
