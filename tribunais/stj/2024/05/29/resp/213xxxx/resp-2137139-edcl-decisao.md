@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SPLENDIA TOWER EMPREENDIMENTOS SPE LTDA. à decisão monocrática que conheceu do recurso especial e negou-lhe provimento, nos termos da seguinte ementa (e-STJ, fl. 335):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DISTRATO DECORRENTE DE INADIMPLEMENTO DO PROMITENTE COMPRADOR. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. BASE DE CÁLCULO DOS HONORÁRIOS SUCUMBENCIAIS. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+Em suas razões, a embargante alega, em suma, a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem não especificou o conceito de "proveito econômico" no caso dos autos, persistindo a obscuridade alegada em recurso especial. Aduz, ainda, a inaplicabilidade da Súmula n. 83/STJ.
+Impugnação não apresentada (e-STJ, fl. 357).
+Brevemente relatado, decido.
+Os embargos de declaração merecem ser acolhidos.
+De início, registre-se que esta espécie recursal tem por finalidade suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+A propósito (sem grifo no original):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCESSOS. SUSPENSÃO. DETERMINAÇÃO. RECURSO ESPECIAL REPETITIVO. JULGAMENTO. MATÉRIA AFETADA. TEMA Nº 1.069/STJ.
+1. Nos termos do artigo 1.022 do CPC, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão acerca da qual devia se pronunciar o juiz de ofício ou a requerimento ou corrigir erro material.
+2. A controvérsia submetida a esta Corte Superior no recurso especial foi afetada ao rito dos recursos especiais repetitivos (REsp 1.870.834/SP).
+3. Em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no tribunal de origem, o qual incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC.
+4. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no AREsp n. 1.828.487/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+Com efeito, verifica-se que a irresignação da embargante merece prosperar, uma vez que, deveras, há obscuridade no acórdão recorrido quanto ao conceito de "proveito econômico" no caso dos autos, devendo ser acolhida a alegada ofensa ao art. 1.022 do CPC/2015.
+Ora, quanto à fixação dos honorários sobre o proveito econômico obtido, o Tribunal de origem assim assentou (e-STJ, fls. 207-208; sem grifo no original):
+A parte apelante objetiva, em síntese, seja readequada a base de cálculo dos honorários sucumbenciais, a fim de que sejam arbitrados sobre o valor da condenação ou do proveito econômico obtido pelo autor.  ..
+Com efeito, segundo a tese uniformizadora firmada pela Corte Superior, o legislador estabeleceu, no § 2º do art. 85 do Código de Processo Civil, uma ordem preferencial de bases de cálculo para a fixação dos honorários advocatícios: (i) em primeiro lugar, o valor da condenação; (ii) não havendo condenação, o proveito econômico obtido, se for o caso; (iii) por último, o montante atualizado da causa.
+De regra, ainda, a verba honorária deve ser fixada com base no § 2º do artigo supracitado e dentro dos percentuais mínimo e máximo sobre a dimensão econômica da demanda - de 10% a 20% -, tendo a lei processual reservado o arbitramento de forma equitativa apenas às hipóteses em que se mostrar inestimável ou irrisório o proveito econômico obtido na demanda ou, ainda, quando o valor da causa for muito baixo (§ 8º).
+Vê-se, portanto, que somente serão fixados honorários advocatícios com base no valor da causa quando não for possível mensurar o proveito econômico obtido, não sendo, pois, o caso dos autos.
+Nesse sentido, a fixação dos honorários sobre o valor da causa não configura a medida mais adequada, assistindo razão ao recorrente quando defende que devem ser fixados sobre o proveito econômico obtido.
+Altera-se, pois, a base de cálculo dos honorários sucumbenciais para o valor do proveito econômico obtido pela autora, mantendo-se, no mais, o percentual e a proporção como fixados na origem.
+Dessa forma, percebe-se que não foi esclarecida a questão do proveito econômico, sobretudo, no tocante a sua mensuração.
+Assim, inarredável a conclusão de ofensa ao art. 1.022 do Código de Processo Civil de 2015, haja vista que, independentemente do acerto ou não das teses invocadas, a supracitada questão do "proveito econômico" deveria ter sido esclarecida pelo Tribunal de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+Outrossim, destaca-se que a análise das demais teses recursais se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração anteriormente opostos.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para, reconhecendo a violação ao art. 1.022 do Código de Processo Civil de 2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. BASE DE CÁLCULO DOS HONORÁRIOS SUCUMBENCIAIS. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. OBSCURIDADE VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
