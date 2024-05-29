@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar interposto por Janderson Willams da Silva contra o acórdão proferido pela Câmara Criminal do Tribunal de Justiça de Alagoas que denegou o Habeas Corpus criminal n. 0800695-50.2024.8.02.0000 lá impetrado, mantendo a prisão preventiva do recorrente imposta pelo Juízo de Direito da 6ª Vara Criminal da Capital/AL, pela suposta prática do crime de roubo majorado (Processo n. 0700114-20.2024.8.02.0067).
+Neste recurso, sustenta a defesa, em apertada síntese, a ausência de fundamentação concreta a justificar a manutenção da medida constritiva.
+Destaca que a decretação de qualquer prisão cautelar, além de devidamente fundamentada, exige que esses fundamentos sejam efetivamente válidos, oriundos de elementos concretos ligados ao caso em debate e claramente demonstrados nos autos respectivos. A suposta periculosidade abstrata do paciente ou do fato investigado, por si só, não permite a prisão automática, conforme já pacificado por nossos tribunais, inclusive por esta Augusta Corte (fl. 115).
+Requer, assim, o provimento do recurso, confirmando-se a medida liminar, com a concessão definitiva da ordem de habeas corpus em favor do paciente (fl. 119).
+É o relatório.
+Infere-se do decreto de prisão preventiva (fls. 60/61 - grifo nosso):
+ ..
+Além do fumus commissi delicti, faz-se necessário haver comprovação de uma das circunstâncias previstas no art. 312 do Código de Processo Penal, quais sejam, necessidade como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+A princípio, a conduta faz com que a liberdade dos autuados represente uma afronta para a ordem pública, face à gravidade in concreto do delito.
+Nesta ordem, há indicativos de que os conduzidos estariam praticando o crime de roubo juntos. Assim sendo, ao menos que surjam novos fatos, constata-se a inadaptação dos flagrados ao convívio social, presente, portando, o periculum libertatis, sendo a segregação cautelar desta necessária à garantia da ordem pública.
+Com efeito, a prisão preventiva fundada na garantia da ordem pública aspira o acautelamento do meio social, quer para que o agente não cometa novos delitos, quer porque portam elementos subjetivos que indicam a sua inadequação ao ambiente social.
+ ..
+A prisão preventiva como garantia da ordem pública não é antecipação da pena.
+Também não serve para assegurar o bom andamento do processo. Como o próprio nome diz, o seu objetivo é resguardar a ordem pública, diante dos indicativos de autoria delituosa que pairam sobre o agente, somados à gravidade do suposto delito em face do modus operandi empregado.
+O Tribunal de Justiça, reiterando os fundamentos abordados pelo Magistrado de piso, destacou (fls. 101/12 - grifo nosso);
+ ..  Da detida análise do feito, constata-se a presença dos requisitos autorizativos da prisão preventiva, a saber, o fumus comissi delicti, consubstanciado na materialidade (fls. 26/27, 31 e 34) e nos indícios de autoria (fls. 17/21, 22/25, 29, 32 e 39/40), e o periculum libertatis, demonstrado através da gravidade do delito e modus operandi empregado pelos agentes, tendo o juízo singular concluído pela necessidade da custódia cautelar para salvaguardar a ordem pública, como descrito no termo de audiência de custódia colacionado aos presentes autos (fls. 58/61).
+ ..
+Compulsando o processo de origem, cadastrado sob o nº 0700114-20.2024.8.02.0067, às fls. 221/222, é possível verificar que a situação prisional do paciente fora reanalisada pelo juízo de origem, no dia 11 de abril de 2024, tendo a prisão preventiva sido mantida diante da inalteração da situação fática, sendo incabível a aplicação de medidas cautelares alternativas. Confira-se trecho do decisum:
+ ..  A defesa do réu Rafael de Souza requereu a revogação da prisão argumentando que não estão presentes os requisitos autorizadores da prisão.  .. Analisando os autos, entendo que o pleito da defesa não merece acolhida.
+No ponto, destaco que necessidade de manutenção da prisão preventiva como garantia da ordem pública é demonstrada através da gravidade em concreto do crime cometido, devendo prevalecer a presunção de periculosidade do acusado.
+Nesse sentido, relembre-se que, pelo que consta nas declarações das vítimas, por volta das 06h30min do dia 26/01/2024, os autuados abordaram duas jovens que estavam sozinhas em um ponto de ônibus e simularam o emprego de arma de fogo para subtrair os bens destas (fl.19 e 22), circunstância que demonstra a reprovabilidade da conduta.
+Com efeito, a gravidade concreta do crime supostamente praticado pelo agente evidencia que a prisão preventiva se mostra necessária e adequada, uma vez que ainda presentes os requisitos da custódia declinados na decisão que a decretou.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos dos arts. 93, IX, da Constituição Federal, e 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Verifico que, na hipótese, a prisão preventiva está baseada em elementos concretos dos autos, evidenciada no modus operandi do crime - roubo em um ponto de ônibus (duas vítimas), em concurso de agentes, elementos hábeis a recomendar a manutenção da custódia preventiva (fl. 84).
+Nesse sentido: AgRg no HC n. 884.409/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024; e AgRg no HC n. 909.001/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/5/2024, DJe de 14/5/2024.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
