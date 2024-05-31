@@ -11,4 +11,4 @@ V - Secretarias.
 § 5º As funções da Consultoria Jurídica no Ministério da Fazenda serão exercidas pela Procuradoria-Geral da Fazenda Nacional, nos termos do art. 13 da Lei Complementar nº 73, de 10 de fevereiro de 1993.
 § 6º A Procuradoria-Geral da Fazenda Nacional poderá participar dos arranjos colaborativos ou dos modelos centralizados referidos no § 4º deste artigo, nos termos previstos em ato conjunto do Advogado-Geral da União e do Ministro de Estado da Fazenda.
 § 7º Ato do Poder Executivo federal estabelecerá limites para o quantitativo de Secretarias dos Ministérios.
-§ 8º A previsão de que trata o § 3º não se aplica ao Ministério do Turismo, ressalvados os arranjos colaborativos ou modelos centralizados junto ao Ministério da Gestão e da Inovação em Serviços Públicos.
+§ 8º A previsão de que trata o § 3º deste artigo não se aplica ao Ministério do Turismo, ressalvados os arranjos colaborativos ou modelos centralizados no Ministério da Gestão e da Inovação em Serviços Públicos.
