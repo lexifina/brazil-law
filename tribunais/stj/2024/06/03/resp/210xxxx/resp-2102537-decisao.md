@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça daquela Unidade Federativa.
+Informam os autos que o juízo da execução deferiu pedido do Parquet estadual para a regressão cautelar do apenado ao regime semiaberto em razão de possível falta grave caracterizada pelo não comparecimento à Casa de Albergado (fl. 3).
+Interposto agravo em execução, o Tribunal de origem, por unanimidade, deu provimento ao recurso da defesa para cassar a decisão que deferiu a regressão de regime, a fim de que fosse observado o devido processo legal.
+Nas razões do recurso especial, o recorrente sustenta que "O v. acórdão recorrido negou vigência e contrariou expressamente as normas contidas no art.118, inciso I e seu §2º, da Lei de Execução Penal. Isto porque, em interpretação sistemática da legislação em vigor, a prévia oitiva do apenado somente é exigível em caso de regressão definitiva de regime, não se aplicando à regressão cautelar." (fl. 70).
+Apresentadas as contrarrazões (fls. 93-98), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A Subprocuradoria-Geral da República se manifestou no sentido do provimento do recurso (fl. 126).
+É o relatório. DECIDO.
+O cerne da questão versa sobre a possibilidade de regressão cautelar do regime de cumprimento de pena, ainda que não tenha ocorrido a prévia oitiva do apenado.
+O Tribunal a quo assim se manifestou sobre o ponto (fls. 49-51):
+"A defesa postulou a incidência do que dispõe o artigo 118, § 2º, da LEP, sendo imprescindível a oitiva do apenado antes de se decidir pela medida de regressão ou não de regime, preservando o princípio do contraditório.
+Em realidade temos um conflito entre os direitos do condenado e o poder estatal de executar as sanções penais.
+Em verdade, não há previsão de qualquer medida cautelar que possa ser aplicada à hipótese em julgamento. Alguns defendem que o Magistrado faça uso do poder cautelar genérico, mas nem mesmo esse poder pode extrapolar, ainda que por via indireta, o princípio da legalidade, elevado à categoria de dogma constitucional.
+Resulta-nos lógico que só pode ser imposta uma reprimenda ou restrição ao status libertatis do condenado, em sede de execução penal, se ela estiver contemplada na legislação pertinente. Não nos parece razoável que o princípio da legalidade, de aplicação cogente durante um processo, no qual se busca obter a prova da culpabilidade do agente, seja derrogado quando o Estado efetiva a punição, que expressa da forma mais aguda possível o direito à liberdade.
+Entendemos que os fins não justificam os meios, e se desejamos viver no seio de uma democracia, devemos preservar os seus valores básicos, não sendo razoável que a pretexto de combatermos a impunidade, passemos a tangenciar esses valores. Com todas as vênias, a Lei 7.210/84 não prevê a adoção da medida cautelar acolhida pelo Juízo da execução.
+Deve ser ainda registrado que, em tais circunstâncias, sempre deve ser ouvido previamente o apenado. Não sendo feito isto, restará desrespeitado o devido processo legal.
+Este tem sido o posicionamento dominante tanto na doutrina quanto na jurisprudência. Nesse sentido:
+ ..
+Por força destas razões, posiciono-me no sentido de acolher o pedido defensivo para desconstituir o decisum impugnado, determinando que, uma vez recolhido, o apenado seja imediatamente apresentado ao Juiz da Vara de Execuções Penais.
+Após ser dada ao penitente oportunidade de se justificar, caberá ao Magistrado de primeiro grau decidir se determina ou não a regressão do regime prisional.
+Recurso provido para cassar a decisão que deferiu a regressão de regime, a fim de que se observe o devido processo legal.
+É como voto."
+Com efeito, no que concerne à regressão cautelar de regime, este Superior Tribunal de Justiça já firmou o entendimento de que é cabível a regressão cautelar do regime prisional, sem prévia oitiva do sentenciado, a qual somente é exigida para a regressão definitiva ao regime mais severo.
+A propósito:
+"Evidenciando-se a prática de falta grave, consistente no descumprimento das condições imposta ao regime aberto, na modalidade prisão albergue domiciliar, é cabível a regressão cautelar do regime prisional pelo Juiz das execuções, sem a exigência da oitiva prévia do sentenciado, necessária apenas para a regressão definitiva ao regime mais severo.  ..  (AgRg no HC n.º 438.243/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019)" (AgRg no HC 806.034/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023)
+"Referida audiência é dispensada tão somente quando se trata de regressão temporária de regime, visto que " a  jurisprudência deste Superior Tribunal de Justiça é sólida em reconhecer a legalidade da regressão cautelar de regime prisional sem a audiência do apenado, sendo este procedimento exigido somente quando da regressão definitiva" (AgRg no HC n. 736.226/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022). Precedentes também do Supremo Tribunal Federal. (..) Na hipótese, não foi determinada a regressão definitiva, mas sim cautelar do sentenciado, o que, segundo o entendimento do Superior Tribunal de Justiça, não ofende o teor do Enunciado Sumular n. 533, porquanto foi determinada a instauração do respectivo procedimento administrativo disciplinar antes que se proceda à regressão definitiva" (AgRg no RHC n. 174.712/MS, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 9/3/2023)
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial para restabelecer a decisão do juízo da execução e determinar a regressão cautelar do regime do recorrido, nos termos da fundamentação retro.
+Publique-se. Intimem -se.
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. REGRESSÃO CAUTELAR DE REGIME. POSSÍVEL COMETIMENTO DE FALTA GRAVE. PRESCINDIBILIDADE DA OITIVA DO APENADO. RECURSO ESPECIAL PROVIDO.
