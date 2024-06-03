@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Adeildo Lira da Silva e outros contra decisão de fls. 957-966 proferida pela Vice-Presidência do Tribunal de Justiça do Estado de Alagoas que inadmitiu o recurso especial pela teor das Súmulas 7, 83 e 518 do STJ e 282 do STF.
+Os agravantes em suas razões argumentam que a decisão agravada "está equivocada, vez que foram opostos dos devidos embargos prequestionadores nos próprios autos, e diante da decretação da prescrição, operou-se o prequestionamento ficto, e no Recurso Especial foi consignado expressamente a divergência jurisprudencial, além de ser contrária ao entendimento firmado pelo STJ".
+Contraminuta às fls. 1.004-1.008.
+É o relatório. Passo a decidir.
+Como relatado, o recurso especial foi inadmitido pelo teor das Súmulas 7, 83 e 518 do STJ e 282 do STF. Confira-se:
+Os recorrentes, em suas razões recursais, aduziram, consoante relatado, a existência de violação ao art. 3º do Decreto nº. 20.910/1932.
+12. Compulsando os autos, verifico que a fundamentação veiculada neste recurso especial não é hábil a infirmar o acórdão recorrido, pois a conclusão a que chegou este Tribunal de origem está em consonância com a consolidada jurisprudência do Superior Tribunal de Justiça.
+13. Consoante se depreende do acórdão recorrido, o Órgão Julgador observou a existência de lei posterior ao ano de 1994, que alterou as carreiras da partes pleiteantes, a partir da qual - convolando-se a relação, até então, de trato sucessivo -, exsurgiu o início do curso do prazo prescricional para eventual pretensão acerca do próprio direito à recomposição da URV. Assim, segundo o entendimento ali consignado, tratando-se de ação proposta mais de 5 (cinco) anos após a lei reestruturante, incidiria a prescrição do fundo de direito.
+14. Esse posicionamento, decerto, está em absoluta harmonia com a jurisprudência do Superior Tribunal de Justiça, conforme se vê dos seguintes julgados:
+ ..
+15. Dessa forma, ante a consolidada jurisprudência do STJ a respeito da matéria, o recurso especial de que se cuida deve ser inadmitido nos termos da Súmula 83 do STJ, in verbis:
+ ..
+16. Note-se que, apesar de a referida súmula tratar de divergência jurisprudencial, a Corte Superior de Justiça já fixou o entendimento de que o enunciado também se aplica aos recursos especiais fundamentados na alínea "a" do permissivo constitucional, como bem traduzido pelos seguintes julgados do STJ:
+ ..
+17. Para além, em relação à suposta ofensa aos arts. 22, 23, 24 e 25 da Lei n. 8.880/94; arts. 350, 373, II, § 1º; 374, II, IV; 489, § 1º, I, IV, V e VI; 927, I, III, IV, § 1º, todos do Código de Processo Civil/15, verifico que o Órgão Julgador não analisou a matéria sob a ótica dos conteúdos normativos insertos na legislação mencionada, restando ausente, por conseguinte, o prequestionamento, requisito essencial a um juízo positivo de admissibilidade recursal.
+19. Além disso, o Supremo Tribunal Federal, através da súmula n.º 282, já sumulou o entendimento de que é imprescindível o prequestionamento da matéria discutida para que haja a admissibilidade positiva de recurso extraordinário, posicionamento esse que vem sendo adotado também nos recursos especiais, inclusive quanto à hipótese de dissídio jurisprudencial.
+20. Nesse contexto, trago à lume o seguinte julgado:
+ ..
+21. Por fim, ressalto que, em relação à tese de suposta violação às súmulas de n. 443/STF e 85/STJ, seus enunciados não se enquadram no conceito de lei federal previsto no art. 105 da Constituição Federal de 1988, não sendo passíveis, portanto, de discussão em sede de recurso especial, conforme previsão da súmula n. 518/STJ, segundo a qual "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+22. Finalmente, quanto à alegação de que os embargos de declaração interpostos não seriam protelatórios, sendo necessário, segundo seu entender, afastar-se a multa aplicada com fundamento no art. 1.022, II, do CPC, tenho que a referida alegação esbarra na súmula 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+23. Isso porque a tese dos recorrentes, amparada na alegação de existência de ofensa ao mencionado dispositivo legal, é incompatível com a natureza excepcional do recurso especial, vez que o Tribunal ad quem teria que reavaliar os fatos e provas do processo. Nesse sentido, colaciono precedentes do Superior Tribunal de Justiça:
+ ..
+24. A par de tais considerações, observo que os requisitos essenciais do artigo 105, inciso III, alínea "a", da Constituição Federal/88, não se encontram devidamente preenchidos.
+Os agravantes por sua vez sustentam que "a invocação da Súmula nº 7/STJ pela decisão agravada é equivocada vez que o julgamento do Recurso Especial não implicará em revolvimento do conjunto fático probatório e nem em análise de lei local, circunscrevendo-se a insurgência, com base nos elementos fáticos já reconhecidos no acórdão, propor entendimento diverso a esse e. Tribunal Superior ao que chegou a corte de Alagoas".
+Dessa forma, evidencia-se que os agravantes não impugnaram, especificamente, os fundamentos da decisão de inadmissibilidade.
+Com efeito, diga-se que esta Corte Superior tem reiteradamente decidido no sentido de que "são insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 1.516.535/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/10/2021, DJe de 17/12/2021.)
+No mesmo sentido: "Em relação ao óbice da Súmula 7 do STJ, embora o recorrente tenha apresentado tópico específico em sua petição de Agravo em Recurso Especial, verifica-se que a sua argumentação não foi suficiente para infirmar o óbice da Súmula 7 do STJ" (AgInt no AREsp n. 1.881.105/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/10/2021, DJe de 4/11/2021.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA 182/STJ.
