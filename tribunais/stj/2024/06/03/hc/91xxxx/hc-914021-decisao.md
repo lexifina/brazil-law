@@ -1,0 +1,15 @@
+DECISÃO
+JOSÉ BENVINDO MENDES DE SOUZA, condenado por homicídio tentado, alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, que manteve o regime semiaberto para o início do cumprimento da pena, a despeito de todas as circunstâncias judiciais serem favoráveis, situação que pretende ver modificada nesta oportunidade.
+Não houve pedido de liminar e não foram prestadas informações. Encaminhados os autos ao Ministério Público Federal, este se manifestou pelo não conhecimento do habeas corpus, mas por sua concessão de ofício, visto que "o condenado não reincidente, cuja pena seja igual ou inferior a 4 anos, pode, desde o início, cumpri-la em regime aberto" 9fl. 77-79).
+Decido.
+O habeas corpus procede, na linha do parecer ministerial. Deveras, na hipótese, o paciente foi condenado ao cumprimento de 4 anos de reclusão, em regime inicial semiaberto, pela prática de homicídio tentado. O Tribunal estadual manteve o modo intermediário de cumprimento de pena com base nos fundamentos apresentados pelo magistrado de primeiro grau, nestes termos (fl. 36):
+ ..
+Em razão da quantidade de pena cominada, da primariedade do réu, mas levando em conta a natureza do delito, crime pratica do com violência para sua consumação, fixo o regime inicial SEMIABERTO para o início do cumprimento da pena  ..
+Em primeiro lugar, assinalo que a violência empregada - sem que haja a indicação de nenhum elemento concreto que transborde as vias naturais de cometimento do delito - faz parte do tipo penal.
+Em segundo lugar, este Superior Tribunal tem o entendimento de que "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (Súmula n. 440 do STJ).
+Aliás, a Súmula n. 718 do STF também estabelece que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Portanto, uma vez que o paciente foi condenado a reprimenda igual a 4 anos de reclusão, a pena-base foi fixada no mínimo legal e não foi reconhecida a existência de reincidência, é inviável a fixação de regime semiaberto apenas com base na gravidade abstrata do delito, nos termos das Súmulas n. 718 e 719 do STF e 440 do STJ. Deve, portanto, ser modificado o regime inicial para o aberto, nos termos do art. 33, § 2º, "c", do CP:
+"As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:  ..  o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto" (destaquei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo o habeas corpus, a fim de alterar o regime inicial do paciente para o aberto.
+Publique-se e intimem-se.
+EMENTA
