@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por Rosangela Stiebler contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 1.045):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. IRPF. MOVIMENTAÇÃO FINANCEIRA MILIONÁRIA. APELAÇÃO DA EXECUTADA. NULIDADE DA CDA NÃO VERIFICADA. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA NÃO ILIDIDA. PRECEDENTES.
+1. A execução fiscal 0000318-52.2007.4.02.5105 foi ajuizada com o objetivo de cobrança de IRPF decorrente de acréscimo patrimonial a descoberto apurado pela autoridade administrativa fiscal a partir das informações enviadas pela CPI dos Precatórios, em 1996, que denunciou a movimentação financeira milionária da Apelante.
+2. Embora seja admitida a produção de provas mediante requisição de documentos e oitiva de testemunhas nos Embargos à Execução Fiscal, o ônus processual de sua realização é inteiramente da Embargante. No caso, não havia sequer um início de prova que justificasse a requisição judicial de documentos ou a oitiva da testemunha da própria requerente, sendo correto inferir que de nada adiantariam para o deslinde da questão, a não ser para atrasar ainda mais o andamento do processo,onerando o Judiciário.
+3. Nas execuções fiscais, a Certidão de Dívida Ativa (CDA), formada unilateralmente pela Administração Fazendária, é documento que goza de presunção relativa de liquidez e certeza, na formado art. 3º da Lei 6.830/60 (LEF), e diante dessa presunção, dispensa prévia anuência do contribuinte.
+4. A presunção de liquidez e certeza do crédito exequendo é presumida, sendo possível ao contribuinte afastar essa presunção diante de prova inequívoca, o que não ocorreu no caso em exame.
+5. Embora a obrigação tributária seja ex lege, não cabe se eximir da responsabilidade fiscal sobre o recolhimento de IRPF ao argumento de que teria sido usada como "laranja", porque do acervo probatório dos autos não há elemento de prova nesse sentido. Ao contrário do alegado, a Receita Federal está dotada de mecanismos para a observação de movimentação financeira vultuosa, que é indicação de renda tributável não declarada, estando correta, portanto, a autuação fiscal vergastada.
+6. A Apelante requer o pronunciamento da inconstitucionalidade do disposto no art. 42 da Lei 9.430/96, objeto de julgamento sob a sistemática da repercussão geral no RE 855.649. Na conclusão, a Suprema Corte fixou tese pela constitucionalidade do art. 42 da Lei 9.430/96, com trânsito em julgado em 01.06.2021, de forma que a questão está superada.
+7. Apelação desprovida.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.088/1.091).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 7º, 355, I, 369, 370 e 373, I, do CPC. Sustenta que, "Ao indeferir a produção das provas requeridas pela recorrente e julgar a demanda em seu desfavor com base no ônus da prova, o r. Acórdão (Evento 23-segunda instância) incidiu em contradição, e, em consequência, cerceou seu direito de defesa, violando frontalmente o disposto no art. 7º, art. 355, inciso 1, art. 369, art. 370 e art. 373, inciso I, todos do CPC" (fl. 1.120).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Em relação à controvérsia dos autos, reconheceu o Tribunal de origem às fl. 1.038:
+Das Provas Requeridas e Indeferidas
+Embora seja admitida a produção de provas mediante requisição de documentos e oitiva de testemunhas nos Embargos à Execução Fiscal, o ônus processual de sua realização é inteiramente da Embargante.
+No caso, não havia sequer um início de prova que justificasse a requisição judicial de documentos ou a oitiva da testemunha da própria requerente, sendo correto inferir que de nada adiantariam para o deslinde da questão, a não ser para atrasar ainda mais o andamento do processo, onerando o Judiciário.
+Assim, a sentença se mostra correta quanto ao ponto.
+Da leitura do excerto transcrito, observa-se que, tendo o Tribunal de origem consignado que "não havia sequer um início de prova que justificasse a requisição judicial de documentos ou a oitiva da testemunha da própria requerente, sendo correto inferir que de nada adiantariam para o deslinde da questão" (fl. 1.038), eventual alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões rec ursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
