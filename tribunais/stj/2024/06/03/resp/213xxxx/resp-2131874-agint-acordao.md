@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. CABIMENTO DO RECURSO DE AGRAVO DE INSTRUMENTO. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DA FUNDAMENTAÇÃO QUE SUSTENTA O ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Considera-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - Os óbices os quais impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unân ime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por SEARA ALIMENTOS LTDA. contra a decisão monocrática de minha lavra que conheceu em parte do Recurso Especial e lhe negou provimento, fundamentada na: i. ausência de ofensa ao art. 1.022 do CPC/15; ii. incidência, por analogia, das Súmulas ns. 283 e 284, do Supremo Tribunal Federal; e iii. impossibilidade de se conhecer o recurso especial pela alínea "c" do permissivo constitucional.
+Sustenta a Agravante, em síntese, o seguinte (fls. 1.200/1.204e):
+Ocorre que, conforme amplamente demonstrado, o juiz de 1ª instância, bem como o Tribunal a quo não se manifestaram justamente sobre o que se socorre a este I. STJ: ilegitimidade passiva da ação ajuizada em face de pessoa jurídica extinta, matéria de ordem pública que enseja a extinção do processo.
+( )
+Contudo, com a máxima vênia, diferente do afirmado na r. decisão, exatamente o que a Agravante demonstrou em seu Recurso Especial é pela aplicação da taxatividade mitigada no presente caso, ante a omissão da decisão do Tribunal a quo (art. 489 e 1.022 do CPC), abordando todos os fundamentos da decisão recorrida.
+Ou seja, os fundamentos foram abordados pela ora Agravante, quais sejam: violação ao art.489, §1º, inciso IV e 1.022, do Código de Processo Civil, a qual resulta em nulidade do acórdão recorrido por falta de fundamentação, sendo o imprescindível retorno do processo ao Tribunal de origem para que analisem a questão de ilegitimidade das partes.
+( )
+Isso porque, a controvérsia instaurada nos autos é cristalina, qual seja: anular o acórdão do TJ/SP para que os autos retornem ao Tribunal a quo e reconheça da inépcia da inicial, eis que, à época do ajuizamento do feito, o FRIGORÍFICO MABELLA LTDA já se encontrava extinto, o que demonstra a propositura de ação em face de sujeito inexistente (art. 485, inciso IV do CPC, art. 489 e 1.022/CPC, Súmula 392/STJ), inclusive, com tópico próprio às fls. 899 e seguintes do Recurso Especial.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 1.211/1.222e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. CABIMENTO DO RECURSO DE AGRAVO DE INSTRUMENTO. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DA FUNDAMENTAÇÃO QUE SUSTENTA O ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Considera-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - Os óbices os quais impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unân ime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+- DA OMISSÃO E DA DEFICIÊNCIA NO JULGADO, SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/15
+A Agravante sustenta a existência de omissão no acórdão recorrido, não sanada no julgamento dos embargos de declaração, porquanto não se manifestou acerca da ilegitimidade passiva da ação ajuizada em face de pessoa jurídica extinta.
+Ao prolatar o acórdão recorrido, o tribunal de origem enfrentou a controvérsia no seguinte sentido (fls. 885/887e):
+Impõe-se o não conhecimento deste agravo de instrumento.
+A propósito, insurge-se a ora agravante contra a respeitável decisão pela qual não acolhida a arguição preliminar de inépcia da petição inicial.
+Com efeito, considera-se não possível a interposição de recurso da espécie, haja vista não estar abrangida a hipótese sob análise pelas taxativamente previstas no rol do artigo 1.015 do Código de Processo Civil (ainda que mediante interpretação extensiva).
+Isso não bastasse, nem sequer houve demonstração a respeito de urgência ou risco ao perecimento do direito a justificar a excepcional admissibilidade da interposição deste agravo.
+Logo, de rigor que a apreciação dessa questão se verifique mediante eventual arguição preliminar em apelação (artigo 1.009, § 1º, desse diploma).
+Nesse sentido, ainda, mutatis mutandis, são de consideração acórdãos desta Corte cujos trechos de fundamentação e ementas são os seguintes:
+(..)
+"O agravante insurge-se, também quanto ao afastamento das preliminares arguidas em contestação - inépcia da inicial e incorreção ao valor atribuído à causa - situações, como visto, não autorizadas no referido dispositivo legal, pois taxativo o rol das hipóteses de cabimento de agravo de instrumento.
+Embora assim seja a previsão legal, não se põe fim ao tema, pois, na expressa dicção do art. 1.009,§ 1º do mesmo diploma, as questões resolvidas na fase de conhecimento, se a decisão a seu respeito não comportar agravo de instrumento, não são cobertas pela preclusão e devem ser suscitadas em preliminar de apelação, eventualmente interposta contra a decisão final, ou nas contrarrazões.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+E depreende-se da leitura dos excertos transcritos que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1.431.157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 1.104.181/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1.334.203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+- DO AGRAVO DE INSTRUMENTO
+O tribunal de origem apoiou-se na orientação deste superior Tribunal para concluir que o rol do art. 1.015 CPC/2015, cujo conteúdo elenca os casos de cabimento do agravo de instrumento, é taxativo, podendo ser mitigada se verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, o que não é o caso dos autos. Ademais, esclareceu que, se a decisão sobre questões resolvidas na fase de conhecimento não comportar agravo de instrumento, o art. 1.009, §1º, do próprio CPC afasta a preclusão e devem ser suscitadas em preliminar de apelação ou nas contrarrazões.
+A Agravante, todavia, defende o caráter meramente exemplificativo deste rol, apontando seu cabimento para suscitar questão de ordem pública, independente da demonstração da urgência, sob pena de perecer seu direito.
+Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nessa esteira: 1ª T., AgInt no RMS n. 65.394/AC, relator Ministro Gurgel de Faria, DJe de 25/5/2022; 2ª T., AgInt nos EDcl no REsp n. 1.931.517/RJ, relator Ministro Francisco Falcão, DJe de 5/10/2022; e 2ª T., EDcl no AgInt nos EDcl no AREsp n. 1.875.980/RS, relator Ministro Mauro Campbell Marques, DJe de 22/6/2022.
+- DA DIVERGÊNCIA JURISPRUDENCIAL
+O exame do recurso especial pela divergência jurisprudencial ficou prejudicado.
+De fato, os óbices os quais impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Nessa linha: 1ª T., AgInt no REsp 1883971/PR, de minha relatoria, DJe 08/10/2020.
+- DA MULTA
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
