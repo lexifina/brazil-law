@@ -1,0 +1,16 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de e-STJ fls. 83/84:
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KEVIN LUCAS MARTINS MOREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal nº 1501117-12.2021.8.26.0617).
+O paciente foi condenado "ao cumprimento das penas de 5 anos de reclusão e ao pagamento de 500 dias-multa, por infração ao artigo 33, caput, da Lei 11.343/06; 3 anos de reclusão e ao pagamento de 700 dias-multa, por infração ao artigo 35 da Lei 11.343/06; 2 anos de reclusão, por infração ao artigo 14, caput, da Lei 10.826/06; 2 meses de detenção, por infração ao artigo 329 do Código Penal; 2 anos de reclusão e ao pagamento de 10 dias-multa, por infração ao artigo 333, do Código Penal, e 1 ano de reclusão e ao pagamento de 10 dias-multa, por infração ao artigo 180, caput, do Código Penal" (e-STJ fl. 62).
+O Tribunal de origem deu parcial provimento ao recurso de apelação, "apenas para, quanto ao crime previsto no art. 329, do Cód. Penal, fixar o regime prisional semiaberto" (e-STJ fl. 64), de forma a manter a sentença condenatória nos demais termos.
+A impetrante sustenta: a) "nulidade decorrente da abordagem policial, já que ausente a fundada suspeita" (e-STJ fl. 7), na forma do art. 244 do CPP; b) nulidade em razão da violação do domicílio, "desprovida de motivação" (e-STJ fl. 20), termos dos arts. 240 e 245, ambos do CPP; c) estarem preenchidos os requisitos legais da minorante prevista no art. 33, § 4º, da Lei de Drogas, porquanto "tecnicamente" primário o paciente, sem antecedentes criminais, não integrante de organização criminosa e sem dedicação habitual ao tráfico de drogas; e d) o regime prisional mais gravoso foi fixado "em decisão ausente de fundamentação concreta" (e-STJ fl. 36), razão pela qual seu abrandamento é medida de rigor.
+Requer, liminar e definitivamente, deferimento da ordem para que seja declarada a nulidade das buscas pessoal e domiciliar, seguida da ilicitude dos demais atos e elementos de convicção decorrentes, com a consequente absolvição do paciente, na forma dos arts. 564, V, e 386, II, ambos do CPP ou, subsidiariamente, seja aplicada a causa de diminuição de pena "em seu patamar máximo de 2/3" (e-STJ fl. 37), com a conseguinte modificação do regime prisional.
+É o relatório.
+Decido.
+A impetração está prejudicada.
+No bojo do HC n. 811.216/SP foi concedida a ordem em favor do corréu JONATHAN MICAEL MARTINS RIOS, para anular as provas obtidas mediante busca pessoal ilícita, com a extensão dos efeitos aos demais corréus (KEVIN LUCAS MARTINS MOREIRA e RENAN MATOS DE SOUZA), nos termos do seguinte dispositivo:
+Ante o exposto, concedo o habeas corpus para reconhecer a nulidade das provas obtidas na busca pessoal ilícita, bem com as delas derivadas e determinar o trancamento da ação penal, bem como estendendo os efeitos da decisão para os outros corréus.
+Assim, verificada a identidade de situações entre o ora impetrante e o corréu acima citado, a impetração perdeu seu objeto.
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
