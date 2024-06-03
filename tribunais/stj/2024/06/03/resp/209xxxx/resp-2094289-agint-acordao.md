@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PRESTAÇÃO  JURISDICIONAL.  VÍCIO  NÃO  APONTADO.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  Nº  284/STF.  AÇÃO  DECLARATÓRIA  E  INDENIZATÓRIA.  CADASTROS  DE  INADIMPLENTES.  INSCRIÇÃO.  DANOS  MORAIS  DEVIDOS.  PROVAS.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  É  inadmissível  o  inconformismo  por  deficiência  na  sua  fundamentação  quando  as  razões  do  agravo  interno  alegam  violação  do  art.  1.022  do  CPC,  mas  não  apontam  nenhum  vício  na  prestação  jurisdicional,  atraindo  a  aplicação  da  Súmula  nº  284/STF.
+2.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  acerca  da  inscrição  do  nome  do  recorrido  em  cadastros  de  inadimplentes  e  dos  danos  morais  encontra  óbice  na  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  RRPM  CURSOS  PREPARATÓRIOS  LTDA.  contra  a  decisão  que  conheceu  parcialmente  do  recurso  especial  e,  nessa  extensão,  negou-lhe  provimento  em  virtude  da  inexistência  de  vício  na  prestação  jurisdicional  e  incidência  da  Súmula  nº  7/STJ.
+Nas  presentes  razões,  a  agravante  afirma  que  não  pretende  o  reexame  de  provas,  mas  o  reconhecimento  da  suscitada  violação  do  art.  335  do  Código  Civil.
+Assevera  que  a  consignação  extrajudicial  ou  judicial  de  quantia  inferior  ao  devido  não  possui  efeitos  liberatórios,  motivo  pelo  qual  a  recorrida  está  em  mora  e  a  inscrição  de  seu  nome  em  cadastros  de  inadimplentes  é  lícita,  devendo  ser  afastada  a  condenação  ao  pagamento  de  danos  morais.
+Alega  que  houve  flagrante  ofensa  ao  art.  1.022,  II,  do  Código  de  Processo  Civil.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Sem  impugnação  e-STJ  fl.  298.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PRESTAÇÃO  JURISDICIONAL.  VÍCIO  NÃO  APONTADO.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  Nº  284/STF.  AÇÃO  DECLARATÓRIA  E  INDENIZATÓRIA.  CADASTROS  DE  INADIMPLENTES.  INSCRIÇÃO.  DANOS  MORAIS  DEVIDOS.  PROVAS.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  É  inadmissível  o  inconformismo  por  deficiência  na  sua  fundamentação  quando  as  razões  do  agravo  interno  alegam  violação  do  art.  1.022  do  CPC,  mas  não  apontam  nenhum  vício  na  prestação  jurisdicional,  atraindo  a  aplicação  da  Súmula  nº  284/STF.
+2.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  acerca  da  inscrição  do  nome  do  recorrido  em  cadastros  de  inadimplentes  e  dos  danos  morais  encontra  óbice  na  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+De  início,  observa-se  que  a  alegação  de  negativa  de  prestação  jurisdicional  foi  formulada  de  forma  genérica,  sem  especificação  das  supostas  omissões  ou  teses  que  deveriam  ter  sido  examinadas  pelo  tribunal  de  origem.  Ante  a  deficiente  fundamentação  do  recurso  neste  ponto,  incide,  por  analogia,  a  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia. "
+Ademais,  a  recorrente  alega  a  violação  do  art.  335  do  Código  Civil  sob  o  argumento  de  que  a  consignação  efetuada  pela  devedora  é  insuficiente  e  não  possui  efeitos  liberatórios,  motivo  pelo  qual  a  recorrida  está  em  mora  e  a  inscrição  de  seu  nome  em  cadastros  de  inadimplentes  é  lícita,  devendo  ser  afastada  a  condenação  ao  pagamento  de  danos  morais.
+Acerca  do  tema,  as  conclusões  do  tribunal  de  origem  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  facilmente  aferir  a  partir  da  leitura  dos  fundamentos  do  julgado  atacado,  que  ora  se  colaciona,  na  parte  que  interessa:
+"(..)
+Compulsando  os  autos,  é  possível  verificar  que  a  parte  autora  alega  que  após  o  início  da  pandemia  e  a  suspensão  das  aulas  presenciais  nas  dependências  da  parte  ré,  foram  realizados  acordos  individuais  para  pagamentos  com  desconto  das  mensalidades  dos  alunos;  que,  como  não  haviam  aulas  no  período,  a  parte  ré  realizou  acordos  individuais  com  os  alunos  para  pagamento  do  débito  com  desconto  de  30%;  que  mesmo  após  a  realização  do  acordo,  a  parte  ré  não  disponibilizou  meios  para  a  parte  autora  quitar  o  débito,  motivo  pelo  qual  a  parte  autora  realizou  antecipadamente  a  consignação  em  pagamento  do  valor  correspondente  a  dívida  cobrada  pela  parte  ré  (R$22.192,80),  aplicado  o  desconto  de  30%  acordado  com  a  tesouraria,  perfazendo  o  valor  de  R$15.534,96  (quinze  mil  quinhentos  e  trinta  e  quatro  reais  e  noventa  e  seis  centavos),  conforme  documentação  anexa;  e  que  mesmo  após  a  consignação  em  pagamento  realizada  no  dia  14/04/2021,  a  parte  ré  negativou  o  nome  da  parte  autora  no  dia  18/04/2021,  conforme  documentos  apresentados  com  a  inicial.
+Da  análise  dos  documentos  juntados  aos  autos,  é  possível  verificar  que  a  parte  autora  fez  prova  de  que  vinha  negociando  com  a  parte  ré  um  desconto  sobre  o  valor  total  do  débito  que  possuía  em  seu  nome.
+Todavia,  em  que  pese  não  ter  prova  nos  autos  de  que  a  parte  ré  autorizou  o  desconto  informado  pela  parte  autora  na  inicial,  da  análise  dos  documentos  que  comprovam  a  consignação  do  débito  no  estabelecimento  bancário,  constato  que  o  estabelecimento  bancário  atestou  que  não  houve  recursa  formal  por  parte  do  credor,  ora  parte  ré.
+Destaco  que  a  consignação  foi  devidamente  identificada,  possuindo  como  objeto  o  PAGAMENTO  REFERENTE  A  MENSALIDADES  DE  ALICE,  tendo  como  referência  as  MENSALIDADES  DE  ABRIL  A  DEZEMBRO  DE  2020.
+(..)
+Diante  disso,  havendo  prova  nos  autos  de  que  o  devedor,  ora  apelante,  consignou  o  valor  do  débito  negativado  pela  parte  ré  e  que  não  houve  recusa  desta,  entendo  que  ele  foi  liberado  da  obrigação,  uma  vez  que  a  quantia  depositada  se  encontra  a  disposição  do  credor.
+Assim  sendo,  considerando  a  ausência  de  recusa  da  parte  ré  acerca  da  consignação,  entendo  que  a  negativação  do  nome  da  parte  autora  em  data  posterior  ao  depósito  constitui  ato  ilícito.
+Nesse  contexto,  como  sabido,  a  simples  negativação  indevida  do  nome  de  alguém  constitui  fato  suficiente,  por  si  só,  para  configurar  o  dano  moral,  independentemente  de  prova  de  prejuízo,  que,  no  caso,  se  presume"  (e-STJ  fls.  143/145  -  grifo  no  original).
+Nesse  contexto,  é  inviável  a  esta  Corte  rever  o  entendimento  firmado  pela  instância  ordinária,  sem  a  análise  dos  fatos  e  das  provas  dos  autos,  o  que  é  vedado  em  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+Salienta-se  que  a  errônea  valoração  da  prova  que  dá  ensejo  à  excepcional  intervenção  do  Superior  Tribunal  de  Justiça  na  questão  decorre  de  falha  na  aplicação  de  norma  ou  princípio  no  campo  probatório,  não  das  conclusões  alcançadas  pelas  instâncias  ordinárias  com  base  nos  elementos  informativos  do  processo.
+Ademais,  consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
