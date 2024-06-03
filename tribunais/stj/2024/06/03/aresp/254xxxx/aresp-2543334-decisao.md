@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO GRANDE DO SUL contra decisão do TRIBUNAL DE JUSTIÇA MILITAR DO RIO GRANDE DO SUL, o qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 539):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. PADM. AUTORIDADE MILITAR. ABERTURA DO PAD E SOLUCÃO DA SINDICÂNCIA. QUEBRA DA IMPARCIALIDADE.
+A quebra da imparcialidade do julgador implica a violação do devido processo legal, a ensejar a revisão judicial do ato administrativo.
+Considerando-se a influência relevante que o órgão processante exerce sobre a formação do juízo da autoridade julgadora, forçoso reconhecer que aquele que apura eventual conduta ou infração cometida por sujeito subordinado não possui o necessário distanciamento do fato, indispensável ao justo julgamento, visto que o seu convencimento quanto aos fatos narrados já está formado, o que naturalmente irá interferir tanto na instrução probatória, quanto na decisão proferida.
+No caso em exame, é fato incontroverso, nos autos, que a mesma Autoridade Policial Militar que solucionou a sindicância e determinou a abertura do PAD foi quem apreciou o recurso de queixa. É assente, no âmbito desta Corte, o entendimento de que não pode haver identidade entre a autoridade que instaura e soluciona o IPM, e a autoridade que instaura e soluciona o PADM.
+APELAÇÃO DESPROVIDA. (TJM/RS, APC Nº 0070722-81.2021.9.21.0001, RELATOR DESEMBARGADOR MILITAR FERNANDO LEMOS, J. SESSÃO ORDINÁRIA DE JULGAMENTO HÍBRIDA DE 08/09/2022).
+Embargos de declaração rejeitados (e-STJ fls. 551/561).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação dos arts. 144, 489, § 1º, IV e VI e 1.022 do CPC/2015 e 252 do CPP, por negativa de prestação jurisdicional quanto ao princípio processual pas de nullité sans grief e à jurisprudência dos Tribunais Superiores no sentido de que "o simples atuar da autoridade em ocasião anterior na condição de cumprimento do dever legal, qual seja, opinião/manifestação preliminar sobre a necessidade de instauração de processo disciplinar ou IPM, não conduz a sua parcialidade" (e-STJ fl. 572).
+No mérito, reitera as questões acima expostas.
+Contrarrazões às e-STJ fls. 595/602
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa dos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 535/536):
+ ..
+Definido o objeto do recurso, tenho que a sentença deve ser mantida.
+Em primeiro lugar, insta esclarecer que a quebra da imparcialidade do julgador implica a violação do devido processo legal, a ensejar a revisão judicial do ato administrativo.
+Sobre isso, desnecessárias maiores digressões.
+Quanto à questão de fundo, cumpre observar, inicialmente, o que dispõe o artigo 37 do RDBM:
+ ..
+A imparcialidade do julgador, seja na esfera judicial, seja na administrativa, decorre da própria ideia de justiça. Seguindo tal premissa, considerando-se a influência relevante que o órgão processante exerce sobre a formação do juízo da autoridade julgadora, forçoso reconhecer que aquele que apura eventual conduta ou infração cometida por sujeito subordinado não possui o necessário distanciamento do fato, indispensável ao justo julgamento, visto que o seu convencimento quanto aos fatos narrados já está formado, o que naturalmente irá interferir tanto na instrução probatória, quanto na decisão proferida.
+No caso em exame, é fato incontroverso, nos autos, que a mesma Autoridade Policial Militar que solucionou a sindicância e determinou a abertura do PAD foi quem apreciou o recurso de queixa.
+É assente, no âmbito desta Corte, o entendimento de que não pode haver identidade entre a autoridade que instaura e soluciona o IPM, e a autoridade que instaura e soluciona o PADM. A título exemplificativo, colaciono os seguintes julgados:
+ ..
+Dessa forma, demonstrada a parcialidade da autoridade administrativa, resta violada a garantia constitucional da imparcialidade do julgador. (Grifos acrescidos).
+Transcreve-se, ainda, trecho da sentença (e-STJ fls. 493/494):
+ ..
+Porém, vê-se presente um vício, quando o julgamento do recurso de queixa foi feito pela mesma autoridade que solucionou a sindicância. De fato, houve uma ofensa ao princípio da imparcialidade do julgador.
+Como já dito por esse juízo em outros feitos, não haveria a referida nulidade se a autoridade que solucionou a sindicância tivesse apenas atuado na solução do PAD, e não em recurso do PAD. Isso porque a sindicância é procedimento prévio, não exaustivo, que apenas aponta a viabilidade de uma acusação. Nesse contexto, é esperado que o comando, ao tomar conhecimento desses indícios de infração, determine a instauração de PAD, e nada impede que, posteriormente, o mesmo comando venha a solucionar o procedimento, tudo em consonância com os princípios disciplinador e sancionador da Corporação.
+Mas com recurso é diferente. A autoridade que solucionou o PAD não poderia ter analisado o recurso de queixa, pois tirou do autor qualquer expectativa de sucesso em seu pleito recursal. O princípio do duplo grau de jurisdição também deve ser observado no âmbito administrativo, da forma mais plena e ampla possível, o que só ocorre com a diversidade de julgadores.
+Dessa forma, os feitos guerreados se tornaram nulos a partir da análise dos recursos de queixa, devendo esse recurso ser apreciado por outra autoridade administrativa. (Grifos acrescidos)
+No mérito, tampouco assiste razão à parte ora recorrente.
+Do acórdão estadual recorrido, extrai-se que o Tribunal de origem decidiu a controvérsia a partir de fundamento constitucional e também baseado em lei local (art. 37 do RBDM), atraindo a incidência da Súmula 280 do STF. Nesse mesmo sentido: AREsp n. 2.447.682/RS, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 19/02/2024.
+Além disso, a modificação do julgado, para verificar que houve ou não prejuízo e que a autoridade julgadora do recurso de queixa era imparcial, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Por fim, "este Tribunal tem entendimento no sentido de que a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte sucumbente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
