@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PARÂMETROS PARA A ELABORAÇÃO DE PLANILHA. CÁLCULOS DE EXECUÇÃO. ELABORAÇÃO PELA CONTADORIA JUDICIAL. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. O recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o acórdão recorrido, nos autos do cumprimento de sentença, homologou os cálculos elaborados pela contadoria judicial para o prosseguimento da execução com a "exclusão na conta dos valores pagos a título de plano de melhoria de proventos e pensões - PMPP" ao fundamento de que "se a verba de complementação dos proventos não for compensada, os exequentes receberão valor superior ao que foi determinado no título".
+3. Assim, no tocante ao alcance do título executivo e dos cálculos apresentados pela Contadoria Judicial, a alteração das conclusões firmadas no voto condutor demanda novo exame do acervo fático, providência vedada em recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Marco Alan Flygare e outros contra decisão de fls. 417-420 não conheço do recurso especial.
+Os agravantes em suas razões argumentam que, ao contrário do consignado na decisão agravada, "cumpriram os requisitos legais de forma mais do que suficiente a ensejar a apreciação e provimento do especial pelo Tribunal ad quem".
+Impugnação às fls. 441-447.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PARÂMETROS PARA A ELABORAÇÃO DE PLANILHA. CÁLCULOS DE EXECUÇÃO. ELABORAÇÃO PELA CONTADORIA JUDICIAL. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. O recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o acórdão recorrido, nos autos do cumprimento de sentença, homologou os cálculos elaborados pela contadoria judicial para o prosseguimento da execução com a "exclusão na conta dos valores pagos a título de plano de melhoria de proventos e pensões - PMPP" ao fundamento de que "se a verba de complementação dos proventos não for compensada, os exequentes receberão valor superior ao que foi determinado no título".
+3. Assim, no tocante ao alcance do título executivo e dos cálculos apresentados pela Contadoria Judicial, a alteração das conclusões firmadas no voto condutor demanda novo exame do acervo fático, providência vedada em recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo agravo interno não se vislumbram razões para reformar a decisão agravada. Vejamos.
+No caso, os recorrentes, desde a origem, insurgem-se contra decisão que, nos autos do cumprimento de sentença (0506393-84.2015.4.02.5101), homologou os cálculos elaborados pela contadoria judicial para o prosseguimento da execução com a "exclusão na conta dos valores pagos a título de plano de melhoria de proventos e pensões - PMPP".
+No tocante à possibilidade descontos dos valores pagos a título de Plano de Melhoria de Proventos e Pensões - PMPP, o acórdão recorrido definiu ser:
+ ..  absolutamente impertinente a tese no sentido de que o PMPP é uma verba decorrente de previdência privada e que não deve ser descontada dos cálculos dos valores devidos, uma vez que, tendo os exequentes se aposentado sob o "regime previdenciário do SASSE", público, as parcelas recebidas a título de PMPP devem ser debitadas do principal, para que não ocorra recebimento em duplicidade, sob pena de enriquecimento indevido. Ademais, é patente que se a verba de complementação dos proventos, criada para manter a paridade remuneratória entre inativos e ativos de modo a assegurar a equiparação dos proventos de aposentadoria com os salários dos ocupantes de cargos e funções iguais ou semelhantes ao tempo da inativação, não for compensada, os exequentes receberão valor superior ao que foi determinado no título. (fl. 316-317, e-STJ, grifei)
+Em nova análise, conforme já consignado na decisão agravada, de fato, no tocante ao alcance do título executivo e dos cálculos apresentados pela Contadoria Judicial, a alteração das conclusões firmadas no voto condutor demanda novo exame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7/STJ. Precedentes: AgInt no REsp n. 1.940.283/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/5/2023, DJe de 1/6/2023. No mesmo sentido, com idêntica temática dos autos, destaca-se também os seguintes julgados monocráticos: AREsp n. 2.354.448, Ministro Gurgel de Faria, DJe de 04/12/2023; REsp n. 2.098.234, Ministra Regina Helena Costa, DJe de 20/12/2023; REsp n. 2.107.234/RJ, Ministro Francisco Falcão, DJe de 29/11/2023.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
