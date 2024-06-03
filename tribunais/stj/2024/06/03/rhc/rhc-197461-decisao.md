@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por JOSE ANTONIO FERREIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (HC n. 1000185-04.2024.8.11.0000).
+Consta que o recorrente foi condenado, em primeiro grau, às penas de 14 (quatorze) anos de reclusão, em regime inicial fechado, e 1.400 (mil e quatrocentos) dias-multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, inciso V, ambos da Lei n. 11.343/2006. O Magistrado sentenciante negou ao Réu o direito ao recurso em liberdade.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão às fls. 711-731.
+Nesta insurgência, o Recorrente sustenta a inexistência de fundamentação idônea e dos requisitos necessários para a manutenção da sua custódia cautelar.
+Alega que " n ão se olvida que a reincidência serve objetivamente para utilizar-se na dosimetria penal, no entanto dispensada condenação cumprida, pena extinta e processo arquivado como lastro para segregação cautelar" (fl. 749).
+Argumenta que houve indevido acréscimo de fundamentos pelo Tribunal a quo.
+Requer, liminarmente e no mérito, a concessão do direito ao recurso em liberdade, com a expedição de alvará de soltura.
+O pedido liminar foi indeferido (fls. 770-772).
+As informações foram prestadas (fls. 779-795).
+O Ministério Público Federal opinou pelo não conhecimento ou não provimento do recurso (fls. 797-802).
+É  o  relatório.
+DECIDO.
+No caso, o  Tribunal  de  origem manteve a prisão preventiva do ora recorrente nos seguintes termos  (fls.  724-731; grifamos):
+Como visto, trata-se de com pedido liminar impetrado em habeas corpus benefício de JOSÉ ANTONIO FERREIRA, apontando como autoridade coatora o MM. Juiz de Direito da 3ª Vara Criminal da Comarca de Várzea Grande/MT.
+Transcrevo a fundamentação da sentença prolatada em 29.09.2023 na parte a que alude a presente impetração: (Id. 197205157-fls.12 a 33 e Id.197205158-fl.01/08)
+" ..
+Persistentes os pressupostos e circunstâncias da prisão preventiva, restando evidentes no feito materialidade e autoria, além de pender contra o réu condenação transitada em julgado pelos crimes de posse irregular de arma de fogo de uso restrito e associação criminosa armada (art. 16, caput, da Lei n. 10.826/2003 e art. 288, parágrafo único, do Código Penal), o que revela, concretamente, a reiteração criminosa, bem como em se tratando de conduta hedionda, aliada à lesividade social concreta extrema da conduta, tendente a transportar para outro Estado da Federação, 56,6kg (cinquenta e seis vírgulas seis quilogramas) de COCAÍNA o que revela extrema audácia do réu, deverá ele aguardar preso o julgamento de eventual recurso." (Sic.) (Negritou-se)
+ ..
+Ademais, inobstante a alegação de ausência de fundamentação idônea para a manutenção da prisão do paciente, ante a falta dos requisitos legais e gravidade abstrata do delito, constato, que o juízo de primeiro grau apresentou fundamentação concreta e suficiente a justificar a manutenção da segregação, calcada na necessidade de se evitar a reiteração delitiva, dada a condição de reincidente do réu, além das circunstâncias em que o crime de tráfico de drogas foi cometido, posto que transportava para outro Estado da Federação, 56,6kg (cinquenta e seis vírgulas seis quilogramas) de cocaína.
+Desse modo, constato que o benefício de aguardar em liberdade o julgamento de eventuais recursos foi negado em decisão suficientemente fundamentada.
+Neste diapasão, ve-se que o direito de recorrer em liberdade é um paradoxo quando o réu respondeu o processo segregado e persistem os motivos que justificaram a prisão, conforme dispõe a jurisprudência:
+ .. .
+Conforme  a  orientação  desta  Corte  Superior,  a  manutenção  da  custódia  cautelar  no  édito  condenatório,  em  hipóteses  nas  quais  o  acusado  permaneceu  preso  durante  toda  a  instrução  criminal,  não  requer  fundamentação  exaustiva,  sendo  suficiente,  para  o  atendimento  do  art.  387,  § 1.º,  do  Código  de  Processo  Penal,  declinar  que  permanecem  inalterados  os  motivos  que  levaram  à  decretação  da  medida  extrema  em  um  primeiro  momento,  desde  que  estejam,  de  fato,  preenchidos  os  requisitos  legais  do  art.  312  do  referido  Código.
+Na hipótese,  verifico  que  o  não  reconhecimento  do  direito  de  apelar  em  liberdade  se  deu  em  decisão  suficientemente  fundamentada,  pois  o  Juízo  sentenciante  referiu a gravidade concreta do fato (apreensão de 56,6kg de cocaína) e  o  fundado  risco  de  reiteração  delitiva ( o acusado  ostenta  em  seu  desfavor  condenação  transitada  em  julgada  pela  prática  dos crimes de posse irregular de arma de fogo de uso restrito e associação criminosa armada) .
+Nessa  conjuntura,  não  constato  o  alegado  constrangimento  ilegal  na  manutenção  da  segregação  cautelar  do  denunciado  após  a  sentença  condenatória, inclusive porque não verificado acréscimo de fundamentos pelo Tribunal a quo.
+A propósito:
+AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  DIREITO  PENAL.  DIREITO  PROCESSUAL  PENAL.  ESTELIIONATO  PREVIDENCIÁRIO  TENTADO.  PRISÃO  P REVENTIVA.  SUPERVENIÊNCIA  DE  SENTENÇA  CONDENATÓRIA.  NEGATIVA  DO  DIREITO  DE  RECORRER  EM  LIBERDADE.  HABITUALIDADE  DELITIVA.  AGENTE  QUE  POSSUI  MAUS  ANTECEDENTES,  É  REINCIDENTE  ESPECÍFICO  E  TEM  VÁRIAS  AÇÕES  PENAIS  EM  ANDAMENTO.  MEDIDAS  CAUTELARES  DIVERSAS.  IMPOSSIBILIDADE.  REGIME  PRISIONAL  FIXADO  NA  SENTENÇA.  DES  PROPORCIONALIDADE.  SUPRESSÃO  DE  INSTÂNCIA.  AUSÊNCIA  DE  FLAGRANTE  ILEGALIDADE.  AGRAVO  DESPROVIDO.
+1.  A  validade  da  segregação  cautelar  está  condicionada  à  observância,  em  decisão  devidamente  fundamentada,  aos  requisitos  insertos  no  art.  312  do  Código  de  Processo  Penal,  revelando-se  indispensável  a  demonstração  de  em  que  consiste  o  periculum  libertatis.
+2.  Ademais,  segundo  o  disposto  no  no  art.  387,  §  1º,  do  CPP,  "o  juiz  decidirá,  fundamentadamente,  sobre  a  manutenção  ou,  se  for  o  caso,  a  imposição  de  prisão  preventiva  ou  de  outra  medida  cautelar,  sem  prejuízo  do  conhecimento  de  apelação  que  vier  a  ser  interposta".  O  exame  dos  excertos  contidos  na  sentença  condenatória  e  no  decreto  de  prisão  preventiva,  evidencia  que  o  referido  dispositivo  foi  devidamente  observado,  pois  foram  indicados  fundamentos  concretos  para  a  manutenção  da  prisão  cautelar  anteriormente  imposta  ao  agente.
+3.  No  caso,  a  prisão  foi  mantida  em  decorrência  da  habitualidade  delitiva  do  agente,  o  qual  possui  maus  antecedentes,  é  reincidente  específico  e  possui  diversas  ações  penais  em  curso,  o  que  justifica  a  decretação  e  manutenção  da  prisão  preventiva,  nos  moldes  dos  incisos  I  e  II  do  art.  313  do  CPP,  e  a  consequente  negativa  do  direito  de  recorrer  em  liberdade,  como  garantia  da  ordem  pública  e  para  evitar  a  reiteração  delitiva.
+ ..
+4.  Agravo  regimental  desprovido.
+(AgRg  no  HC  n.  865.427/MG,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  18/3/2024,  DJe  de  21/3/2024).
+AGRAVO  REGIMENTAL  NO  RECURSO  ORDINÁRIO  EM  HABEAS  CORPUS.  PROCESSUAL  PENAL.  ASSOCIAÇÃO  CRIMINOSA.  TRÁFICO  E  ASSOCIAÇÃO  PARA  O  TRÁFICO  ILÍCITO  DE  DROGAS.  AUSÊNCIA  DE  MATERIALIDADE  DELITIVA.  SUPRESSÃO  DE  INSTÂNCIA.  INOVAÇÃO  DE  TESE.  PRECLUSÃO.  INSURGÊNCIA  CONTRA  O  INDEFERIMENTO  DO  DIREITO  DE  APELAR  EM  LIBERDADE.  GRAVIDADE  CONCRETA  DA  CONDUTA.  FUNDAMENTAÇÃO  IDÔNEA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+ ..
+4.  Hipótese  em  que  o  Juízo  de  origem  indica  que  os  motivos  que  ensejaram  a  decretação  da  custódia  permanecem  hígidos  e  foram  reforçados  pela  sentença  condenatória,  especialmente  a  gravidade  dos  crimes  a  que  condenado  o  Recorrente  e  a  necessidade  de  interrupção  das  atividades  criminosas.
+5.  "Conforme  já  decidiu  a  Suprema  Corte,  "permanecendo  os  fundamentos  da  custódia  cautelar,  revela-se  um  contrassenso  conferir  ao  réu,  que  foi  mantido  custodiado  durante  a  instrução,  o  direito  de  aguardar  em  liberdade  o  trânsito  em  julgado  da  condenação"  (STF,  HC  111.521,  Rel.  Ministro  RICARDO  LEWANDOWSKI,  SEGUNDA  TURMA,  julgado  em  08/05/2012,  DJe  22/05/2012)"  (RHC  109.382/MG,  Rel.  Ministra  LAURITA  VAZ,  SEXTA  TURMA,  julgado  em  03/03/2020,  DJe  16/03/2020).
+6.  Agravo  regimental  desprovido.
+(AgRg  no  RHC  n.  175.315/CE,  relator  Ministro  Teodoro  Silva  Santos,  Sexta  Turma,  julgado  em  4/3/2024,  DJe  de  7/3/2024).
+
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante  o  exposto,  nego  provimento  ao  recurso  em  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
