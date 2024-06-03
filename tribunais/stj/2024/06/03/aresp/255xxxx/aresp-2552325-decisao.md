@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE PERNAMBUCO contra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 377):
+APELAÇÃO. CONSTITUCIONAL E ADMINISTRATIVO. PISO NACIONAL DO MAGISTÉRIO. LEI FEDERAL Nº 11.738/2008. CONTRATO TEMPORÁRIO. INEXISTÊNCIA DE DISTINÇÃO EM RELAÇÃO AOS SERVIDORES EFETIVOS. DIFERENÇA REMUNERATÓRIA DEVIDA. NEGADO PROVIMENTO AO RECURSO. SENTENÇA MANTIDA.
+1. Cerne recursal que busca aferir a legalidade da aplicação do piso nacional do magistério aos professores vinculados à administração pública por contrato temporário.
+2. Ato das Disposições Constitucionais Transitórias, em seu artigo 60, estipulou prazo para que fosse fixado, em lei específica, piso salarial nacional mínimo para os profissionais do magistério público da educação básica. Referido limite remuneratório foi disciplinado pela Lei Federal nº 11.738/08.
+3. Normativo supracitado que teve sua constitucionalidade reconhecida pelo Supremo Tribunal Federal, em sede de julgamento de controle concentrado de constitucionalidade, no qual foi afastada a tese de afronta à repartição de competências e ao pacto federativo. (ADI 4167, Relator(a): Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 27/04/2011, DJe-162 DIVULG 23-08-2011 PUBLIC 24-08-2011 EMENT VOL- 02572-01 PP-00035 RTJ VOL-00220-01 PP-00158 RJTJRS v. 46, n. 282, 2011, p. 29-83)
+4. Legislador pretendeu prover remuneração condigna a todos os trabalhadores da educação, independentemente da natureza dos vínculos que os ligue ao Estado, porquanto não efetuou ressalva ou restrição.
+5. Ainda que admitido no serviço público através de contrato temporário, permanece o direito à percepção dos seus vencimentos nos moldes instituídos pela Lei Federal n.º 11.738/2008, visto que o trabalho realizado em nada difere daquele promovido pelos professores que ocupam cargo efetivo na Administração Pública. Precedentes do TJPE.
+6. Recurso a que se nega provimento.
+7. Nos termos do art. 85, §11 do CPC/15, arbitro os honorários advocatícios recursais em 5% (cinco por cento) sobre o valor da condenação, considerando o grau de zelo profissional, lugar de prestação do serviço, natureza e importância da causa, trabalho do patrono e tempo despendido.
+Rejeitados os aclaratórios (e-STJ fls. 404/412).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 1º, 2º, §§ 1º e 5º, 3º e 6º da Lei n. 11.738/2008, sustentando a inaplicabilidade do piso nacional do magistério aos professores contratados temporariamente.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 519/525.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Primeiramente, registre-se que a mera indicação de dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu na hipótese. Incidência da Súmula 284 do STF.
+Ainda, entendeu o aresto recorrido que (e-STJ fls. 372/373):
+(..)
+o fato de a parte recorrida ter sido admitida no serviço público através de contrato temporário não afasta o direito à percepção dos seus vencimentos nos moldes instituídos pela Lei Federal n.º 11.738/2008, visto que o trabalho realizado em nada difere daquele promovido pelos professores que ocupam cargo efetivo na Administração Pública. Desse modo, pode-se constar, inclusive, que essa é a lógica adotada internamente pelo Ministério da Educação, posto que, em página virtual dedicada a responder perguntas frequentes acerca da Lei nº 11.738/2008, o órgão traz a seguinte informação:
+"Professores com contratos temporários têm direito ao piso salarial
+: "Sim. A única condição para ter direito ao piso salarial é a formação mínima em nível médio, na modalidade Normal. A lei não distingue tipos de vínculos de trabalho com a administração pública.
+Todos os profissionais do magistério da educação básica têm direito ao piso salarial, para jornada de até 40 horas semanais". 1  Destarte, a referida norma consiste em medida de política pública de educação e valorização profissional a ser seguida por todos os entes de federação, aos quais cabe também estabelecer programas e meios de controle para a consequente consecução.
+Ademais, não há assim incidência da Súmula Vinculante nº 37, porquanto a diferença salarial, objeto da presente demanda, encontra guarida na Lei 11.738/2008, a qual impõe a observância do piso salarial nacional para os profissionais do magistério público da educação básica, sem fazer qualquer distinção quanto a servidores efetivos ou temporários.
+Em que pese a relação entre as partes tenha sido entabulada sem a observância da exigência de concurso para o ingresso no serviço público, tal fato não autoriza o serviço sem a devida contraprestação remuneratória, sob pena de se agasalhar o enriquecimento ilícito e beneficiar a torpeza do Administrador Público.
+Nas razões do recurso especial, a parte recorrente, contudo, deixou de impugnar a aludida fundamentação adotada pela Corte regional, tornando inviável o conhecimento do apelo nobre, nos termos das Súmulas 283 e 284 do STF.
+Nesse sentido, em hipóteses similares à presente: AREsp 2.556.850/PE, Rel. Ministro TEODORO SILVA SANTOS, DJe 28/05/2024; AREsp 2.559.944/PE, REl. Ministro SÉRGIO KUKINA, DJe 27/05/2024; AREsp 2.556.905/PE, Rel. Ministro HERMAN BENJAMIN, DJe 27/05/2024; REsp 2.143.845/PE, REl. Ministra REGINA HELENA COSTA, DJe 20/05/2024.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
