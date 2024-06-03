@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PETRARCA PEIXOTO PENA COMERCIO E TRANSPORTES LTDA. (PETRARCA) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, PETRARCA alegou a violação ao art. 476, do CC, art. 74, §12, II, e, da Lei n. 9.430/96 e art. 333, do CPC/1973, PETRARCA alegou MEDFISCO não realizou os serviços para os quais foi contratada e descumpriu várias cláusulas contratuais, inclusive repassando a terceiros os cheques emitidos pelo recorrente sem a sua autorização, o que é vedado no contrato.
+Além disso, alegou que MEDFISCO não cumpriu integralmente com as suas obrigações contratuais e, logo, não poderia exigir o pagamento integral por parte da Recorrente, até mesmo porque, nos contratos bilaterais nenhum dos contratantes pode exigir o implemento da obrigação do outro antes de cumprida a sua obrigação, conforme art. 476 do CC.
+Por fim, afirma que MEDFISCO repassou indevidamente os cheques pré-datados acerca do repasse, descumprindo também a cláusula segunda do contrato em questão, que prevê claramente que os cheques recebidos somente poderiam ser negociados com terceiros após prévia comunicação ao contratante pelos contratados.
+O acórdão estadual consignou que:
+Assim, se a obrigação decorrente de cheque é desvinculada da causa que lhe deu origem, o emitente do título não poderá opor ao seu portador de boa-fé, no caso o autor SEBASTIÃO ROSA MAIA, as exceções pessoais que teria em face da primitiva credora.
+E uma vez transmitido o crédito consubstanciado no título à terceira pessoa que não esteja de má-fé ao receber a cártula, não poderão as exceções que o emitente possuía em face do primitivo credor ou portador ser alegadas em face do novo portador do título.
+Registra-se que não há falar em má fé do terceiro recebedor do título, tendo em vista a ciência da causa subjacente e principalmente a confirmação da prestação de serviços por parte da endossante, conforme restou decidido no voto proferido nos autos de nº 1.0024.06.007281-6/001.
+Por derradeiro, ao fato de haver previsão na cláusula segunda de que os cheques recebidos somente poderiam ser negociados com terceiros após prévia comunicação ao contratante pelos contratados, não pode ser oposta ao terceiro de boa fé, mas tão somente à contratada, que poderá ser demanda mediante a devida ação pertinente.
+E o fato de o cheque ter sido sustado antes do protesto em nada altera o convencimento deste julgador, ainda mais porque tal pedido o fora de forma equivocada. (e-STJ, fls. 126/128 - sem destaque na original)
+Inicialmente, verifica-se que as razões recursais do apelo nobre tratam de matérias fáticas e contratuais, considerando, por exemplo, que alegou sobre a cláusula contratual não permitir o repasse do cheque, bem como que MEDFISCO não cumpriu com os serviços conforme definido em contrato.
+Ocorre que é inviável em sede de recurso especial reexame da matéria-fática probatória e contratual. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO. RECUSA LEGÍTIMA DE CHEQUE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. REEXAME DA MATÉRIA RELATIVA À APLICAÇÃO DA CLÁUSULA CONTRATUAL QUE IMPOSSIBILITAVA O PAGAMENTO VIA CHEQUE. SÚMULA 5/STJ. AUSÊNCIA DE IMPUGNAÇÃO DIRETA E INEQUÍVOCA DOS TERMOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A indicada violação aos arts. 39, II e IX, 51, IV, XV e §1º, do Código de Defesa do Consumidor e aos artigos 335, I do Código Civil e 539 do Código de Processo Civil, não foi objeto de análise pelo Tribunal de origem.
+2. Ressalte-se que para que se configure o prequestionamento da matéria, deve-se extrair do acórdão recorrido manifestação direta sobre as questões jurídicas em torno dos dispositivos legais tidos como violados, única forma de se abstrair a tese jurídica a ser examinada e decidida.
+3. Com efeito, a jurisprudência assente nesta Corte orienta-se no sentido de que não é suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, ou indicada como não violada pelo Tribunal a quo, mas sim que a respeito tenha havido debate no acórdão recorrido.
+4 Quanto à questão de fundo, a Corte local, após o exame de todo o contexto fático-probatório dos autos, inclusive do contrato firmado entre as partes, concluiu ser legítima a recusa ao recebimento de cheque para adimplemento do contrato. Decidir de modo contrário implicaria reinterpretação do contrato e análise de fatos e provas, o que encontra óbice nas Súmulas n. 5 e 7 do STJ
+5. Ao realizar o juízo de admissibilidade, a decisão recorrida apontou, dentre outras, violação à Súmula 283/STF, em razão da existência de fundamento do acórdão recorrido não atacado no apelo extremo da agravante. Com efeito, caberia à parte agravante, para ver seu apelo apreciado meritoriamente, a impugnação dos fundamentos do acórdão, superando positivamente o juízo de admissibilidade e possibilitando que a matéria fosse analisada por esta Corte.
+6. No caso, conforme fundamentado na decisão recorrida, o recurso da agravante não atendeu tal determinação, esbarrando no óbice da Súmula 283/STF. Ainda, mesmo que fosse considerada a questão de fundo trazida pela recorrente para reapreciação deste Tribunal, não haveria possibilidade de provimento, diante da necessária reinterpretação do contrato e análise de fatos e provas.
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.070.671/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 16/8/2022. - sem destaque na original - interpretação a contrario senso)
+Portanto, não é possível acolher os argumentos do recurso de PETRACA sem analisar a matéria fática do processo, o que faz incidir a óbice prevista nas Súmulas n.s 5 e 7/STJ,.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios anteriormente fixados, uma vez que se encontram no máximo de 20%, previsto no art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. REPASSE DE CHEQUE. TERCEIRO DE BOA-FÉ. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E CONTRATUAL. SÚMULAS N.S 5 E 7/ STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
