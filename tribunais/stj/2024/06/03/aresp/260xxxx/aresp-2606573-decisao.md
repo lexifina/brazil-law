@@ -1,0 +1,27 @@
+DECISÃO
+A controvérsia foi delineada no parecer ministerial, in verbis (e-STJ fls. 83/89):
+Trata-se de agravo em recurso especial interposto contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu o recurso especial interposto em face de acórdão daquela egrégia Corte.
+Colhe-se dos autos que o agravante foi condenado pela prática do crime de moeda falsa, por duas vezes, em continuidade delitiva, descrito no art. 289, §1º, do CP2, às penas de 4 (quatro) anos e 8(oito) meses de reclusão, a ser cumprida em regime inicial semiaberto, acrescido de 64 (sessenta e quatro) dias-multa. O Tribunal de origem decidiu, por unanimidade, não conhecer do recurso quanto ao pedido de gratuidade judiciária e, na parte conhecida, negar provimento às apelações e, de ofício, retificara dosimetria da pena da ré, restando a pena final em 3 (três) anos e 6 (seis) meses de reclusão, fixado o regime aberto, com a substituição por penas restritivas de direitos.
+Inconformada com o acórdão, a Defesa interpôs recurso especial, no qual sustenta violação dos arts. 44, § 2º, 59 e 29 do CP. Aduz que deve ser afastada a vetorial circunstância do crime, visto que a existência de concurso de agentes não extrapola o tipo penal, devendo a pena-base ser reduzida ao patamar mínimo.
+O recurso especial foi inadmitido na origem, por demandar reexame de provas (Súmula7/STJ). Sobreveio agravo em recurso especial, no qual a agravante renova os fundamentos do recurso especial e sustenta a inaplicabilidade das Súmulas 7/STJ.
+O órgão ministerial opinou pelo desprovimento do agravo.
+É o relatório.
+Decido.
+A defesa da recorrente salienta, neste recurso, "o fato de o crime ter sido cometido em concurso de agentes, não constitui, portanto, justificativa plausível para a negativação da vetorial "circunstâncias do crime", as quais dizem respeito ao modus operandi e ao contexto em que praticado o crime. A figura penal do concurso de agentes, ou concurso de pessoas, prevista no art. 29 do Código Penal, não impõe uma majoração na pena privativa de liberdade, e nem está elencada no rol das agravantes ou causas específicas de aumento da pena relativamente ao tipo penal em análise" (e-STJ fls. 674/675).
+E, ainda, que o Superior Tribunal de Justiça "entende que a majoração da vetorial "circunstâncias do crime" com fundamento em concurso de agentes só é autorizada em situações excepcionais de grande número de agentes, que extrapola o número mínimo para a configuração do concurso de agentes. Não é o caso dos autos, em que a recorrente apenas narrou que foi contratada por terceiros" (e-STJ fl. 675).
+Pois bem. Conforme se apura do confronto entre as razões recursais e os acórdãos recorridos, o Tribunal de origem não examinou especificamente as questões do modo como trazidas no apelo extremo, apesar de terem sido opostos embargos de declaração, inexistindo o requisito do prequestionamento, motivo pelo qual não pode ser aqui analisada, ante o que preceitua a Súmula n. 211/STJ. Persistindo a omissão, cabia à defesa ter alegado, nas razões do apelo especial, a ocorrência de violação ao art. 619 do Código de Processo Penal, ônus do qual não se desincumbiu.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME TRIBUTÁRIO. ABSOLVIÇÃO DOS RÉUS. PEDIDO DE ANULAÇÃO DA SENTENÇA DE ABSOLVIÇÃO SUMÁRIA. TESE DE VIOLAÇÃO DO ART. 10 DO CPC, ANTE A FALTA DE OITIVA DO MINISTÉRIO PÚBLICO APÓS A RESPOSTA À ACUSAÇÃO. FALTA DE PREQUESTIONAMENTO. VIOLAÇÃO DO ART. 619 DO CPP NÃO VERIFICADA.
+1. Não é possível reconhecer prequestionamento se, a despeito da oposição de embargos declaratórios, a causa não foi decidida à luz da legislação federal indicada, de seu conteúdo ou interpretação ao caso concreto. Incide na hipótese a Súmula n. 211 do STJ.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp 1387706/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/10/2020, DJe 12/11/2020)
+Outrossim, ainda que se ultrapassasse tal óbice, para que o recurso especial seja considerado admissível, é necessária a indicação dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão recorrido teria afrontado cada um deles, providência da qual não se desincumbiu a ora recorrente.
+Isso, porque o dispositivo apontado (art. 29 do Código Penal) não guarda pertinência com a argumentação desenvolvida nas razões recursais, pois tal dispositivo diz respeito à participação de menor importância, e não ao concurso de agentes, in verbis:
+Art. 29 - Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - Se a participação for de menor importância, a pena pode ser diminuída de um sexto a um terço. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até metade, na hipótese de ter sido previsível o resultado mais grave. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Destarte, entende esta Corte que "a indicação de artigo de lei que não tem o condão de albergar a tese do recorrente atrai a incidência da Súmula 284 do STF, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgRg no AREsp n. 78.802/PR, Segunda Turma, relator Ministro Humberto Martins, DJe de 15/2/2012).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
