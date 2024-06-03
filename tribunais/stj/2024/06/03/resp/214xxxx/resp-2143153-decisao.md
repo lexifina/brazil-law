@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DO SIMPLES NACIONAL. OMISSÃO DERECEITAS JUNTO AO MUNICÍPIO, ALÉM DE DÍVIDA RELATIVA A TRIBUTOS FEDERAIS.
+1. Na hipótese dos autos, os débitos que ensejaram a exclusão da impetrante do SIMPLES NACIONAL tramitam e são controlados no âmbito do Município do Rio de Janeiro, ente que, segundo sua própria narrativa, lhe aplicou a penalidade exclusão do Simples Nacional pelo prazo de 10 (dez) anos.
+2. De acordo com o art. 33 da Lei-Complementar nº 123/2006, a competência para excluir, de ofício, ME ou EPP do Simples Nacional é da RFB e das Secretarias de Fazenda ou de Finanças do Estado ou do Distrito Federal, segundo a localização do estabelecimento e, tratando-se de prestação de serviços incluídos na competência tributária municipal, a competência será também do respectivo Município.
+3. O art. 17, V, da Lei-Complementar nº 123/2006 dispõe que não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou a empresa de pequeno porte que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa.
+4. Segundo consta dos autos, a impetrante possui débitos relativos a PIS, COFINS e CSLL, conforme "informações de apoio para emissão de certidão, datado de 20/02/2019, anexo ao evento 19.
+5. Conforme se verifica da leitura do Termo de Exclusão do Simples Nacional nº 001/2018 (Evento 1 -Página 8) e do Auto de Infração nº 301.766 (Evento 1 - Página 1/2), com fundamento nos artigos 28 e29, inciso V, §§ 2º e 9º da Lei Complementar nº 123/06 e observado o art. 76, inciso IV, alínea "j" e §§2º e 6º, inciso II da Resolução CGSN nº 94/11, foi aplicada a sanção de exclusão da apelante do Regime do Simples Nacional, haja vista a prestação de serviços sem emissão de Notas Fiscais de Serviços, além da consequente omissão de receitas.
+6. As razões para a aplicação de tal sanção (exclusão do Simples Nacional por dez anos) são as divergências encontradas nas informações prestadas pela fonte pagadora Bradesco Saúde S/A, CNPJ92.693.1/0001-60, referentes às Notas Fiscais de Serviços Eletrônicas que elencou, além de ter ocorrido omissão todas as receitas de serviços mensais prestados à Bradesco Saúde S/A nos anos de2016 e 2017.
+7. A DRF/RJ I não controla os créditos tributários e as penalidades impostas pelo Município do Rio de Janeiro e que motivaram o impedimento a sua inclusão no benefício fiscal SIMPLES NACIONAL. Ademais, os motivos que ensejaram a exclusão da impetrante do Simples Nacional não são negados pela mesma, valendo acrescentar que há débitos para com fisco federal, que também impedem a inclusão da impetrante no Simples Nacional.
+8. Apelação improvida.
+Os Embargos de Declaração foram rejeitados.
+A recorrente afirma que houve ofensa aos arts. 17, V, e 30, II, da LC 123/2006 e ao art. 5º da LINDB. Sustenta que a penalidade de exclusão por dez anos do Simples Nacional é extremamente severa e descabida no caso concreto, visto que não há no processo administrativo elementos mínimos e suficientes para a sua aplicação.
+Contrarrazões às fls. 423-428 e 438-451, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10.5.2024.
+A irresignação não merece prosperar.
+O Tribunal a quo dirimiu a controvérsia nestes termos:
+Na hipótese dos autos, os débitos que ensejaram a exclusão da impetrante do SIMPLES NACIONAL tramitam e são controlados no âmbito do Município do Rio de Janeiro, ente que, segundo sua própria narrativa, lhe aplicou a penalidade exclusão do Simples Nacional pelo prazo de 10 (dez) anos.
+De acordo com o art. 33 da Lei-Complementar nº 123/2006, a competência para excluir, de ofício, ME ou EPP do Simples Nacional é da RFB e das Secretarias de Fazenda ou de Finanças do Estado ou do Distrito Federal, segundo a localização do estabelecimento e, tratando-se de prestação de serviços incluídos na competência tributária municipal, a competência será também do respectivo Município.
+(..)
+O art. 17, V, da Lei-Complementar nº 123/2006, por sua vez, dispõe que não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou a empresa de pequeno porte que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa.
+Segundo consta dos autos, a impetrante possui débitos relativos a PIS, COFINS e CSLL, conforme "informações de apoio para emissão de certidão, datado de 20/02/2019, anexo ao evento 19.
+Ademais, conforme se verifica da leitura do Termo de Exclusão do Simples Nacional nº 001/2018 (Evento 1 - Página 8) e do Auto de Infração nº 301.766 (Evento 1 - Página 1/2), com fundamento nos artigos 28 e 29, inciso V, §§ 2º e 9º da Lei Complementar nº 123/06 e observado o art. 76, inciso IV, alínea "j" e §§ 2º e 6º, inciso II da Resolução CGSN nº 94/11, foi aplicada a sanção de exclusão da apelante do Regime do Simples Nacional, haja vista a prestação de serviços sem emissão de Notas Fiscais de Serviços, além da consequente omissão de receitas.
+(..)
+Desse modo, as razões para a aplicação de tal sanção são as divergências encontradas nas informações prestadas pela fonte pagadora Bradesco Saúde S/A, CNPJ 92.693.1/0001-60, referentes às Notas Fiscais de Serviços Eletrônicas que elencou, além de ter ocorrido omissão todas as receitas de serviços mensais prestados à Bradesco Saúde S/A nos anos de 2016 e 2017.
+Por derradeiro, cumpre destacar que a DRF/RJ I não controla os créditos tributários e as penalidades impostas pelo Município do Rio de Janeiro e que motivaram o impedimento a sua inclusão no benefício fiscal SIMPLES NACIONAL. Ademais, os motivos que ensejaram a exclusão da impetrante do Simples Nacional não são negados pela mesma, valendo acrescentar que há débitos para com fisco federal, que também impedem a inclusão da impetrante no Simples Nacional.
+Posto isso, voto por negar provimento à apelação.
+Para modificar a diretriz firmada no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demandaria incursão no acervo fático-probatório dos autos, vedada na via escolhida conforme dispõe a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. OMISSÃO INEXISTENTE. REFIS. EXCLUSÃO DO PROGRAMA. OBSERVÂNCIA DA FINALIDADE DA NORMA. PRINCÍPIO DA RAZOABILIDADE E PROPORCIONALIDADE. CABIMENTO. PRECEDENTES. AUSÊNCIA DE PREJUÍZO. BOA-FÉ DO CONTRIBUINTE. ERRO FORMAL. SÚMULA 7/STJ.
+1. Mostra-se despropositada a argumentação de inobservância da cláusula de reserva de plenário (art. 97 da CRFB) e do enunciado 10 da Súmula vinculante do STF, pois, ao contrário do afirmado pela agravante, na decisão recorrida, não houve declaração de inconstitucionalidade dos dispositivos legais suscitados, tampouco o seu afastamento, mas apenas a sua exegese.
+2. O STJ reconhece a viabilidade de incidir os princípios da razoabilidade e proporcionalidade no âmbito dos parcelamentos tributários, quando tal procedência visa evitar práticas contrárias à própria teleologia da norma instituidora do benefício fiscal, mormente se verificada a boa-fé do contribuinte e a ausência de prejuízo do Erário.
+3. Se a conclusão da Corte de origem, firmada em decorrência da análise dos autos, é no sentido de que a exclusão do contribuinte do REFIS mostra-se desarrazoável e desproporcional, porquanto contrária à finalidade do programa de parcelamento, pois nenhum prejuízo causou ao erário - bem ao contrário, lhe é favorável, destaca o acórdão -, estando comprovadas a boa-fé da empresa e a mera ocorrência de erro formal, a modificação do julgado esbarra no óbice da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 482.112/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 29/4/2014.)
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
