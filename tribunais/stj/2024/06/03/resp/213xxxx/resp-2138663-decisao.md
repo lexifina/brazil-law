@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+Processual Civil  Recurso  Apelação  Ausência de fundamentação  Ofensa ao Princípio da Dialeticidade  Inadmissibilidade  Inteligência do art. 514, CPC  Recurso não conhecido.
+A recorrente afirma que houve divergência jurisprudencial e ofensa aos arts. 513 e 535 do CPC/1973. Aduz:
+Ao negar conhecimento ao recurso de apelação com base na argumentação exposta no recurso, o E. Tribunal de Justiça deixou de apreciar a razões recursais. Assim, ao omitir-se a respeito da tese fazendária, o Tribunal restou, também por negar aplicação aos artigos 513 e seguintes do CPC. Portanto, é certo que quando o v. acórdão desproveu os embargos de declaração interpostos, deixando de suprir a omissão apontada, abriu-se espaço à atuação do art. 535 do Código de Processo Civil.
+(..)
+De outro lado, é de se ressaltar a ofensa à sistemática do Recurso de Apelação, visto que, rejeitando os Embargos de Declaração opostos, o E. Tribunal de Justiça substituiu a decisão anteriormente prolatada, em que negou conhecimento ao Recurso de Apelação interposto pela FESP, baseando-se, para tanto, na argumentação expendida. Ora, a r. Sentença de primeiro grau entendeu que a Lei 11.960/2009 não deveria ser aplicada ao caso concreto por ser inconstitucional. A Fazenda do Estado, em seu recurso, defendeu sua aplicabilidade, destacando, logo de início que as disposições da Lei em questão foram expressamente incorporadas por Emenda Constitucional. Assim, ainda que não tenha entrado profundamente na discussão acerca dos fundamentos pelos quais o i. Juiz de primeiro grau entendia a referida lei inconstitucional, a Fazenda, em seu recurso, atacou os fundamentos da Sentença, defendendo a constitucional idade, dada não somente a presunção de constitucionalidade das leis em vigor, mas tendo especificamente destacado seu fundamento constitucional.
+No juízo de retratação do art. 1.030, II, do CPC/2015, o aresto anterior foi mantido com a ementa abaixo transcrita:
+DEVOLUÇÃO DOS AUTOS A TURMA JULGADORA PARA REALIZAÇÃO DE EVENTUAL ADEQUAÇÃO (art. 1.040, inciso II, do CPC) - Encaminhamento dos autos em razão do julgamento do mérito do REsp. d 1.492.221/PR, Tema nº 905, STJ, DJe 30.10.2019 -- Acórdão que, apenas, não conheceu do recurso de apelação interposto pela Fazenda Estadual, por ausência de impugnação específica aos fundamentos da r. sentença - Ausência de vulneração à tese firmada pelo E. Superior Tribunal de Justiça no julgamento do Tema e 905/STJ. Julgado mantido.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.5.2024.
+A irresignação merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a repetição dos argumentos trazidos na petição inicial ou na contestação não implica, por si só, ofensa ao princípio da dialeticidade caso conste do apelo a fundamentação de fato e de direito que evidencie a intenção de reforma da sentença.
+"Para o conhecimento da apelação, basta que a pretensão de reforma da sentença seja minimamente demonstrada, ainda que haja o ataque genérico dos fundamentos" (AgInt no REsp 2.026.725/PA, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 20.9.2023).
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. PRINCÍPIO DISPOSITIVO. INSTRUMENTALIDADE DAS FORMAS. HARMONIZAÇÃO. ARTS. 1.010 E 1.013 DO CPC/2015. REPETIÇÃO DAS RAZÕES DOS EMBARGOS DE DECLARAÇÃO OPOSTOS À SENTENÇA NA APELAÇÃO. POSSIBILIDADE. EFETIVA DEMONSTRAÇÃO DE QUE AS RAZÕES IMPUGNAM OS FUNDAMENTOS DA SENTENÇA E DO PROPÓSITO DE OBTER NOVO JULGAMENTO. NECESSIDADE. HIPÓTESE DOS AUTOS. OCORRÊNCIA. DECISÃO MANTIDA.
+1. Cumprimento de sentença de honorários advocatícios. 2. O principal efeito dos recursos é o devolutivo, já que destinado a impedir o trânsito em julgado da sentença, permitindo o reexame, a nova apreciação, da matéria já decidida pelo Judiciário por outro órgão funcionalmente superior.
+3. A jurisprudência do STJ privilegia a instrumentalidade das formas, adotando a orientação de que a mera circunstância de terem sido reiteradas, na apelação, as razões anteriormente apresentadas na inicial ou na contestação, não é suficiente para o não conhecimento do recurso, porquanto a repetição dos argumentos não implica, por si só, ofensa ao princípio da dialeticidade. Todavia, é essencial que as razões recursais sejam capazes de infirmar os fundamentos da sentença.
+4. Hipótese em que, não obstante a reprodução parcial dos embargos de declaração opostos à sentença na apelação, a parte recorrente apresentou no recurso as razões pelas quais entendeu estarem equivocados os fundamentos adotados pela sentença, não havendo, assim, violação ao princípio da dialeticidade a justificar o não conhecimento da apelação.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 2.132.111/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 14/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. APELAÇÃO. REPETIÇÃO DE ARGUMENTOS. PRINCÍPIO DA DIALETICIDADE. PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Consoante entendimento jurisprudencial do Superior Tribunal de Justiça, a repetição dos fundamentos da petição inicial ou da contestação não é motivo suficiente para inviabilizar o conhecimento da apelação quando há demonstração inequívoca das razões e intenção de reforma da sentença, conforme ocorre na presente hipótese. Precedentes.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp 2.255.154/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 27/4/2023.)
+Diante do exposto, dou provimento ao Recurso Especial a fim de determinar o retorno dos autos à origem para julgamento do mérito da Apelação.
+Publique-se.
+Intimem-se.
+EMENTA
