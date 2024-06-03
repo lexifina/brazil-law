@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por HYARA OLIVEIRA DE SOUZA VESCOVI, contra decisão que negou provimento ao recurso ordinário.
+A embargante alega a existência de omissão, pois "deixou-se de observar que há SIM prova nos autos demonstrando (de forma inequívoca) que a própria recorrente foi/está sendo contratada temporariamente, na própria vaga que restou aprovada no concurso e que essa vaga não se enquadra na hipótese permitida para contratação TEMPORÁRIA" (fl. 189).
+Acrescenta que "em sua peça de RMS, indicou de forma específica as provas dos autos que comprovam que houve PRETERIÇÃO ILEGAL através de CONTRATAÇÃO TEMPORÁRIA DE PROFESSORES fora das hipóteses permitidas e isso sequer constou do relatório da decisão embargada (quanto mais foi apreciado pelo decisum guerreado)" (fl. 191).
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou manifestação expressa acerca dos motivos pelos quais foi desprovido o recurso, consignando-se que:
+No caso, a recorrente foi aprovada na 2ª colocação para o cargo de Professor de História, para a cidade de Ivinhema-MS - o Edital SAD/SED/Professor n. 01/2022 previa apenas 1 vaga para o cargo -, fora do número de vagas de preenchimento obrigatório, portanto, o que demonstra a inexistência de direito líquido e certo.
+Nos termos da jurisprudência do STJ, o candidato aprovado em colocação que ultrapassa o número de vagas previstas no edital do certame tem mera expectativa de direito à nomeação, ainda que haja o surgimento de novas vagas para o mesmo cargo durante o prazo de validade concurso, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da Administração.
+(..).
+Ressalte-se que a simples existência de contratações temporárias não configura preterição arbitrária e imotivada por parte da Administração Pública, devendo ser comprovada a existência de vagas efetivas para o mesmo cargo ao qual restou classificado o candidato e que as contratações se deram fora das hipóteses permitidas, o que não ocorreu no caso dos autos.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
