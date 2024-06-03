@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por Habitacional Construções S/A e outros contra acórdão proferido pelo Tribunal de Justiça de Sergipe, assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. LEVANTAMENTO DE VALORES. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. MONTANTE DA CONDENAÇÃO PENDENTE DE JULGAMENTO EM SEDE DE RECURSOS NO STJ. PERIGO DE DANO IRREVERSÍVEL. RECURSO DESPROVIDO.
+Os recorrentes sustentam, em síntese, que "o v. acórdão deve ser reformado porquanto, ao manter a decisão do Juízo a quo, ofendeu os artigos 505, 507 e 520, IV do CPC/15, bem como diante do quadro de notório confronto com a jurisprudência dominante, inclusive deste Colendo Superior Tribunal de Justiça" (e-STJ, fl. 1875).
+Buscam, assim, "seja conhecido o presente Recurso Especial de forma a provê-lo no sentido de reformar o Acórdão n." 12407/2019 do TJSE para (i) AUTORIZAR A REDUÇÃO A TERMO DA CAUÇÃO" idônea devidamente prestada nos autos de origem, para, ato continuo, EXPEDIR ALVARÁ DE LEVANTAMENTO do quantum debeatur, para (ii) em consequência, Proceder a Liberação dos Gravames Reais (Hipoteca) que recaem sobre bens vinculados ao Contrato objeto da revisional e que gerou crédito, pois assim exercendo suas Constitucionais atribuições estará cristalizando a mais lídima Justiça" (e-STJ, fls. 1818).
+Brevemente relatado, decido.
+O recurso perdeu o objeto.
+O Tribunal de origem manteve a decisão do Juízo de primeiro grau no sentido de "ser inviável o levantamento de valores a título de honorários contratuais, mormente havendo o manejo de tal pretensão sem a comprovação formal do trânsito em julgado da ação principal em que se funda a presente execução, pois pendente julgamento de recurso (ARESP Nº 251.665/SE). Isso porque, a parcela dos honorários contratuais integra o montante da eventual condenação que diz respeito à parte autora, que estará disponível a partir do ato de expedição de alvará em seu favor. E, no caso, a expedição do alvará à parte autora, nesse momento processual, apenas será possível mediante a comprovação do trânsito em julgado da ação principal, o que não se verifica nos autos eletrônicos" (e-STJ, fl. 1856).
+Ocorre que, no dia 30 de abril de 2024, proferi decisão não conhecendo do AREsp n. 251.665/SE, ocorrendo o trânsito em julgado no dia 24 de maio de 2024.
+Ademais, também foi julgado o AREsp 1.069.520/SE, em que as partes discutiam o acerto da decisão do Tribunal de Justiça que julgou improcedente a impugnação ao cumprimento de sentença, com fixação do valor devido pela instituição financeira, ora recorrida.
+Dessa forma, nada há mais aqui a ser examinado, pois caberá aos recorrentes pleitear o cumprimento de sentença na origem de forma definitiva.
+Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DISCUSSÃO QUANTO À POSSIBILIDADE DE LEVANTAMENTO DE VALORES DEPOSITADOS NOS AUTOS. AÇÃO REVISIONAL TRANSITADA EM JULGADO (ARESP 251.665/SE). JULGAMENTO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA (ARESP 1.069.520/SE). PERDA DE OBJETO. RECURSO PREJUDICADO.
