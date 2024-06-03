@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Amaury Moreira do Nascimento contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios proferido nos autos do HC n. 704484-11.2024.8.07.0000.
+Consta dos autos que, em 16/2/2024, o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Foram apreendidos quase 11 kg de maconha.
+Convertida a prisão em preventiva, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 288/294).
+Neste writ, a impetrante sustenta carência de fundamentação e ausência de pressupostos para a custódia cautelar.
+Alega ofensa ao princípio da homogeneidade.
+Requer, inclusive liminarmente, a revogação da custódia preventiva ou, subsidiariamente, sua substituição por medidas cautelares alternativas.
+Ainda, requer intimação para a realização de sustentação oral (fl. 4).
+O pedido liminar foi indeferido (fls. 313/315).
+Foram prestadas informações às fls. 320/323.
+O Ministério Público Federal manifestou-se pela denegação da ordem de habeas corpus (fls. 325/328).
+É o relatório.
+Tendo em vista a existência de pedido de sustentação oral, registro que o pronunciamento judicial unilateral do Relator não caracteriza cerceamento de defesa diante da inviabilidade de atendimento ao pleito, tampouco fere o princípio da Colegialidade. A propósito: AgRg na Rcl n. 44.399/SP, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 16/12/2022; e AgRg no RHC n. 167.812/GO, Ministra Laurita Vaz, Sexta Turma, DJe 14/9/2023.
+O Juízo de primeiro grau, no que foi acompanhado pela Corte local, decretou a prisão preventiva do paciente nos termos a seguir transcritos (fl. 19 - grifo nosso):
+A prova da materialidade do crime é extraída do laudo provisório, do auto de exibição e apreensão, do boletim de ocorrência e dos depoimentos colhidos no APF. Os indícios suficientes da autoria também estão presentes, pois os custodiados foram presos em flagrante, sendo que foi apreendida grande quantidade de drogas (11 porções totalizando 10.780,00 gramas). Necessário que se averigue as circunstâncias que se deram a posse das drogas em relação aos autuados, o que poderá ser aferido na esfera policial, inclusive com eventuais quebras de sigilo de dados telefônicos, se o caso. Consta que os autuados JULIA e BRENO dispensaram 6 volumes de drogas com aproximadamente 1 quilograma cada, e que os autuados AMAURY e KATIELE dispensaram 5 volumes de drogas com aproximadamente 1 quilograma cada. Antes, os autuados BRENO e JULIA teriam repassado drogas para AMAURY e KATIELE. Grande parte da conduta dos autuados teria sido, inclusive, filmada pelos policiais. AMAURY e KATIELE empreenderam fuga quando da abordagem policial, quase atropelando uma criança.
+Cumpre frisar que a apreensão de expressiva quantidade de entorpecente, demonstra o profundo envolvimento do autuado na traficância, sua periculosidade e o risco concreto de reiteração delitiva.
+Vale asseverar que não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF, Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+Como se vê, a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, sendo amparada na especial gravidade do delito, evidenciada pelas circunstâncias da prisão (quase 11 kg de maconha), o que justifica a custódia cautelar, como forma de resguardar a ordem pública.
+No âmbito desta Corte Superior, ambas as Turmas da Terceira Seção compartilham a compreensão de que a expressiva quantidade de drogas evidencia a gravidade concreta da conduta imputada, de modo a justificar a segregação cautelar para garantia da ordem pública.
+Ilustrativamente: AgRg no HC n. 881.523/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/4/2024; e AgRg no HC n. 898.107/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/4/2024.
+Considerada a gravidade concreta dos fatos, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Em conclusão, segundo reiteradamente afirmado nesta Corte,  n ão há como acolher a tese de ofensa ao princípio da homogeneidade, pois não cabe a esta Corte, sob o pretexto de constatar a desproporcionalidade da prisão processual, realizar juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada ao agravante, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento do mérito da ação penal (AgRg no RHC n. 194.977/BA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/5/2024).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. EXPRESSIVA QUANTIDADE DE DROGAS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+Ordem denegada.
