@@ -1,0 +1,38 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+PENAL. PROCESSO PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. VEREDITO CONDENATÓRIO. APELAÇÃO CRIMINAL. PLEITO PARA REVISÃO DA PRIMEIRA E SEGUNDA FASES DA DOSIMETRIA DA PENA. VETORIAIS CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME NEGATIVADAS MEDIANTE IDÔNEA E ACERTADA MOTIVAÇÃO. FRIEZA E PREMEDITAÇÃO DA CONDUTA HOMICIDA. AÇÃO DELITIVA QUE COLOCOU EFETIVAMENTE EM RISCO OUTROS BENS JURÍDICOS QUE NÃO APENAS A VIDA DO OFENDIDO. PENA-BASE FIXADA EM PATAMAR JUSTO E PROPORCIONAL. AGRAVANTE DA REINCIDÊNCIA NÃO DEBATIDA EM PLENÁRIO DO JÚRI. VIOLAÇÃO AO DISPOSTO NO ART. 492, I, "B", DO CPP. DECOTE NECESSÁRIO. PENA INTERMEDIÁRIA REDIMENSIONADA. APELO CONHECIDO E PARCIALMENTE PROVIDO. UNANIMIDADE.
+1 - A jurisprudência do STJ é pacífica no sentido de que a premeditação e a frieza são elementos reveladores de culpabilidade acentuada, a justificar o incremento da pena- base a esse título.
+2 - As circunstâncias do crime também são merecedoras de atribuição de carga negativa, à medida em que a infração penal em tela foi cometida no interior de um bar, repleto de pessoas, mediante diversos disparos de arma de fogo; logo, a conduta homicida empreendida efetivamente pôs em risco outros bens jurídicos que não apenas a vida do ofendido.
+3 - Nos termos do art. 492, I, "b", do Código de Processo Penal, o juiz presidente do Tribunal do Júri fixará a pena do paciente considerando apenas as atenuantes e agravantes que tenham sido objeto de debate em plenário. Agravante da reincidência (art. 61,I, CP) afastada. Pena redimensionada.
+4 Recurso conhecido e parcialmente provido. (e-STJ fl. 774)
+A defesa aponta a violação do art. 59 do Código Penal, alegando, em síntese, ausência de fundamentação idônea para a valoração desfavorável do vetor judicial das culpabilidade e das circunstâncias do delito. Aduz também a desproporcionalidade no aumento da pena basilar, devendo ser aplicada a fração de 1/6 sobre a pena mínima para cada vetor desfavorável.
+Contrarrazões às e-STJ fls. 802/805.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às fls. 847/853.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Estado de Alagoas deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 17 anos, 10 meses e 15 dias de reclusão, pela prática do crime do art. 121, § 2º, I e IV, do Código Penal.
+A defesa alega ausência de fundamentação idônea para a valoração desfavorável dos vetores judiciais da culpabilidade e das circunstâncias do delito.
+Sem razão, porquanto, como bem entendeu o Tribunal de origem (e-STJ fl. 777), a premeditação, a frieza e a pratica delituosa em lugar movimentado (dentro de um bar) constituem fundamentos idôneos para a exasperação da pena basilar. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. HIPÓTESE EM QUE NÃO O VISLUMBRADA PLAUSIBILIDADE JURÍDICA NA PRETENSÃO RECURSAL. RECURSO NÃO CONHECIDO.
+ ..
+5. Consoante jurisprudência desta Corte, a premeditação do delito e a prática do crime em local com grande circulação de pessoas são fatores que podem legitimar a exasperação da pena-base. Quando a violência excede o comum à espécie, é possível a elevação da sanção basilar do delito de roubo sob tal fundamento. O trauma causado à vítima, que não se confunde com mero abalo passageiro, também é elemento hábil a justificar a avaliação negativa do vetor consequências do crime.
+ ..
+10. Recurso não conhecido. (AgRg no HC n. 785.572/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/3/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE FLAGRANTE NÃO VISUALIZADA. RECURSO NÃO CONHECIDO.
+ ..
+6. Consoante entendimento deste Sodalício, a frieza na execução do delito, é elemento que indica maior reprovabilidade da ação, autorizando a exasperação da pena-base.
+7. As consequências do crime, in casu, parecem mesmo desbordar do comum à espécie. Conforme destacou o Magistrado de primeiro grau, a vítima, aparentemente, era jovem, recém formada em Engenharia Elétrica, tendo se mudado para a cidade, onde foi consumado o delito, para trabalhar, quando teve sua vida ceifada. Ademais, os transtornos causados pelo crime excedem as consequências naturais de um homicídio, tendo em vista que a genitora da vítima, enlutada, teve de mudar de cidade.
+8. Agravo regimental não conhecido. (AgRg no HC n. 835.988/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/10/2023.)
+A defesa aduz também a desproporcionalidade no aumento da pena basilar, tendo em conta a não utilização da fração de 1/6 sobre a pena mínima para cada vetor judicial desfavorável.
+Não procede a insurgência, isso porque, considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada e outro de 1/8 (um oitavo) a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador (ut, AgRg no AgRg nos EDcl no AREsp 1.617.439/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 28/9/2020).
+Ainda nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DO CRIME PARA A CONDUTA PREVISTA NO ART. 28 DA LEI DE DROGAS. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE DE AUMENTO PROPORCIONAL E RAZOÁVEL. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 630/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+IV - Ressalta-se que "a fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias" (AgRg no HC n. 718.681/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2022).
+V - Na presente hipótese, consideradas desfavoráveis ao paciente às circunstâncias judiciais referentes aos maus antecedentes, bem como a natureza e quantidade dos entorpecentes apreendidos (fl. 66), não há que se falar em desproporcionalidade da fração de 1/3 utilizada para a exasperação da reprimenda.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 843.089/SE, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 1/12/2023.)
+No caso em tela, a pena-base foi exasperada em 1/8 sobre o intervalo entre as penas mínima e máxima em abstrato.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
