@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. A jurisprudência do Superior Tribunal de Justiça preleciona que a dívida condominial constitui-se como obrigação propter rem. Assim, constando no edital de praça a existência de ônus sobre o imóvel, mesmo no caso de arrematação, o novo adquirente responde pelos encargos condominiais vencidos incidentes sobre o imóvel, salvo se não houver ressalvas no edital. Incidência da Súmula 83 do STJ. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por RAPHAEL FONTES TAMIETTO GALHANO, em face de decisão monocrática de fls. 142-146, e-STJ, que conheceu do agravo para negar provimento ao recurso especial do ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 55, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE QUANTIAS PAGAS. CUMPRIMENTO DE SENTENÇA. Decisão que determinou a satisfação da penhora constante no rosto dos autos, que trata de débito condominial. Inconformismo do exequente. STJ flexibilizou o artigo 908, § 1º, do CPC. Edital de praça que impõe ao arrematante expressamente a responsabilidade do pagamento de divida condominiais vencidas, ainda que estas sejam anteriores à arrematação. Imposição de exigibilidade do crédito perseguido pelo condomínio ao agravante contrariaria frontalmente a boa-fé processual, assegurada no art. 5º do CPC. Pedido de intimação do arrematante para depósito em juízo afastado. RECURSO PARCIALMENTE PROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 86-88, e-STJ).
+Nas razões do recurso especial (fls. 61-70, e-STJ), o insurgente apontou violação do artigo 908, § 1º, do CPC, ao argumento da necessidade de sub-rogação das despesas condominiais no produto da arrematação.
+Contrarrazões às fls. 93-104, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 105-107, e-STJ), dando ensejo na interposição do competente agravo (fls. 110-115, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 120-129, e-STJ.
+Em decisão monocrática, conheceu-se do agravo para negar provimento a o recurso especial ante a incidência do óbice da Súmula n. 83 do STJ.
+Daí o presente agravo interno (fls. 150-170, e-STJ), no qual a parte agravante reitera as razões do apelo extremo, bem como refuta o supramencionado óbice.
+Impugnação às fls. 175-181, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. A jurisprudência do Superior Tribunal de Justiça preleciona que a dívida condominial constitui-se como obrigação propter rem. Assim, constando no edital de praça a existência de ônus sobre o imóvel, mesmo no caso de arrematação, o novo adquirente responde pelos encargos condominiais vencidos incidentes sobre o imóvel, salvo se não houver ressalvas no edital. Incidência da Súmula 83 do STJ. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte insurgente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Deve ser mantida a decisão singular no ponto em que aplicou o óbice da Súmula 83 do STJ.
+Consoante asseverado no decisum agravado, cinge-se a controvérsia acerca da alegada vulneração do artigo 908, § 1º, do CPC, ao argumento da necessidade de sub-rogação das despesas condominiais no produto da arrematação.
+A parte insurgente sustenta, em síntese, "que atribuir a responsabilidade pelas despesas condominiais e tributárias pretéritas ao arrematante é tornar impraticável a alienação do bem, já que as dívidas não são da pessoa do arrematante, mas sim vinculadas ao imóvel em questão, daí porque a aplicação do art. 908, §1º, do CPC - conforme a letra da lei - é indispensável, eis que determina que as despesas em apreço sejam sub-rogadas do preço obtido com o bem, e não desembolsados pelo arrematante de boa-fé" (fl. 70, e-STJ).
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 57-58, e-STJ):
+O art. 908, § 1º, do CPC é claro ao prever que "no caso de adjudicação ou alienação, os créditos que recaem sobre o bem, inclusive os de natureza propter rem, se sub-rogam sobre o respectivo preço, observada a ordem de preferência".
+Porém, o E. Superior Tribunal de Justiça flexibilizou esse regramento quando o débito estiver previsto no edital como de responsabilidade do arrematante, conforme pode se extrair do julgado a seguir exposto:
+"AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. IMÓVEL ARREMATADO EM HASTA PÚBLICA. INFORMAÇÃO NO EDITAL ACERCA DA EXISTÊNCIA DE DÉBITOS CONDOMINIAIS. CARÁTER "PROPTER REM" DA OBRIGAÇÃO. RESPONSABILIDADE DO ARREMATANTE. SUCESSÃO NO POLO PASSIVO DAEXECUÇÃO. CABIMENTO. 1. Controvérsia em torno da possibilidade de inclusão do arrematante no polo passivo da ação de cobrança de cotas condominiais na fase cumprimento de sentença. 2. Em recurso especial não cabe invocar ofensa à norma constitucional. 3. Os arts. 204 e 206, § 5º, I, do CC não contêm comandos capazes de sustentar a tese recursal, atraindo o óbice da Súmula 284/STF. 4. Não há violação aos arts. 489, § 1º, IV e 1.022, II e § único, II, do CPC quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. 5. Em se tratando a dívida de condomínio de obrigação "propter rem", constando do edital de praça a existência de ônus incidente sobre o imóvel, o arrematante é responsável pelo pagamento das despesas condominiais vencidas, ainda que estas sejam anteriores à arrematação, admitindo-se, inclusive, a sucessão processual do antigo executado pelo arrematante. 6. RECURSO ESPECIAL DESPROVIDO. (STJ, REsp nº 1.672.508/SP, Rel. Min. Paulo de Tarso Sanseverino, j. 25.06.2019) (gn).
+No presente caso, respeitado o entendimento do juízo de primeiro grau, por determinação de fls. 485 dos autos de origem, constou no Edital de Praça Judicial de fls. 490:
+"Neste ato, fica o ARREMANTE PLENAMENTE INFORMADO E SE DECLARA CIENTE DE QUE SOBRE O IMÓVEL PODE PENDER DÉBITO CONDOMINIAL, CUJA APURAÇÃO DO VALOR E PAGAMENTO SERÁ DE RESPONSABILIDADE DO ARREMATANTE".
+Assim, a r. decisão vergastada deverá ser reformada, pois a imposição de exigibilidade do crédito perseguido pelo condomínio ao agravante contrariaria frontalmente a boa-fé processual, assegurada no art. 5º do Código de Processo Civil de 2015.
+Consoante acima destacado, o Tribunal local concluiu que, constando do edital que a responsabilidade das dívidas condominiais vencidas ficarão a cargo do arrematante, não é cabível a sub-rogação dos referidos débitos no produto da arrematação.
+Com efeito, a conclusão adotada pelo Tribunal de origem encontra-se em consonância com o entendimento já pacificado por esta Corte Superior, atraindo a incidência do óbice da Súmula 83 do STJ.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DO EXECUTADO.
+1. Nos termos do entendimento jurisprudencial do STJ, "em se tratando a dívida de condomínio de obrigação propter rem, constando do edital de praça a existência de ônus incidente sobre o imóvel, o arrematante é responsável pelo pagamento das despesas condominiais vencidas, ainda que estas sejam anteriores à arrematação, admitindo-se, inclusive, a sucessão processual do antigo executado pelo arrematante" (REsp 1.672.508/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/06/2019, DJe 01/08/2019). Precedentes.
+2. Em razão do descompasso existente entre o entendimento firmado pela Corte de origem e a orientação jurisprudencial consolidada por este Superior Tribunal de Justiça sobre a matéria, de rigor o provimento do apelo nobre interposto pela parte agravada.
+3. A parte agravante suscitou, no recurso de apelação, a eventual distinção da responsabilidade pelos débitos condominiais referentes ao apartamento e à garagem, questão não examinada pela Corte local.4. Agravo interno parcialmente provido apenas para determinar que o Tribunal de origem examine a questão relativa à alegada ilegitimidade do executado quanto à garagem nº 06.
+(AgInt nos EDcl no AREsp n. 1.894.909/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE . CUMPRIMENTO DE SENTENÇA. IMÓVEL. ARREMATAÇÃO. HASTA PÚBLICA. INFORMAÇÃO. EDITAL. EXISTÊNCIA. DÉBITOS CONDOMINIAIS. RESPONSABILIDADE. ARREMATANTE. OBRIGAÇÃO PROPTER REM. REVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. A jurisprudência do Superior Tribunal de Justiça preleciona que a dívida condominial constitui-se como obrigação propter rem. Assim, constando no edital de praça a existência de ônus sobre o imóvel, mesmo no caso de arrematação, o novo adquirente responde pelos encargos condominiais vencidos incidentes sobre o imóvel, salvo se não houver ressalvas no edital.
+4. No caso, o acórdão destacou que constou expressamente no edital o ônus incidente sobre o imóvel, além da responsabilidade do arrematante pelas despesas condominiais vencidas e vincendas.
+5. Na hipótese, rever os fundamentos do aresto combatido demandaria a alteração das premissas fático-probatórias dos autos, procedimento vedado nesta via recursal ante o teor da Súmula nº 7/STJ.
+6. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+7. Agravo interno não provido.(AgInt no AREsp n. 1.752.437/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)  grifou-se
+Mantém-se, no ponto, a incidência do óbice da Súmula 83/STJ.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
