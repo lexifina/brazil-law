@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, recurso especial interposto por ALEXANDRE DE OLIVEIRA LEANDRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PRESENTES A REDUÇÃO DA CAPACIDADE LABORATIVA E O NEXO CAUSAI ENTRE A MOLÉSTIA E O TRABALHO, DE RIGOR A CONCESSÃO DO AUXÍLIO-ACIDENTE, NO CASO, A PARTIR DO DIA SEGUINTE AO DA PRIMEIRA ALTA MÉDICA. NO TOCANTE ÀS PARCELAS EM ATRASO, ATUALIZA-SE CADA UMA À MEDIDA DO VENCIMENTO MENSAL PELO INPC ATÉ A ELABORAÇÃO DA CONTA DE LIQUIDAÇÃO. APÓS, INCIDIRÁ O IPCA- E.
+No recurso especial, a parte recorrente sustenta, em síntese, a ocorrência de divergência jurisprudencial no que tange à "aplicabilidade de Lei 11.960/09 nas ações que já tramitavam antes de sua vigência, tal qual no caso em tela" (fls. 348-363).
+Devolvido os autos para eventual juízo de retratação, o Tribunal de origem modificou entendimento anteriormente firmado, confira-se:
+"os juros moratórios são devidos desde a citação, contados de forma englobada até então e, depois, decrescentemente, mês a i mês, à razão de 1%, até o inicio da vigência da Lei no 11.960/09, quando passará a 0,5%. No tocante à adequação das parcelas em atraso, atualiza-se cada uma à medida do vencimento mensal pelo IGP-DI, até o inicio da vigência da Lei nº 11.430/2006, quando passará a ser adotado o INPC sendo que após a edição da Lei no 11.960/09 se aplicará o IPCA-E".
+O recurso especial foi admitido pelo Tribunal de origem (fls. 474-475).
+É o relatório. Decido.
+O recurso especial não merece ser conhecido.
+Com efeito, a admissibilidade do recurso especial, tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF. Nesse sentido: AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe de 17/3/2014; AgInt no AREsp n. 1.656.469/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020; AgInt no AREsp n. 1.664.525/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2020, DJe de 14/12/2020.
+Cumpre destacar, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.738.090/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021). Nesse sentido: REsp n. 775.021/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2009, DJe de 27/8/2009.
+No caso, a par te recorrente deixou de indicar quais os dispositivos de lei federal teriam sido violados ou objeto de interpretação divergente pelos acórdãos confrontados, motivo pelo qual é o caso de incidência do óbice da Súmula 284/STF.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+I.
+ EMENTA
