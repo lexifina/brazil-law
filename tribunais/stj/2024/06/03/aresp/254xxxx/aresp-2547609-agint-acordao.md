@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE ASSISTÊNCIA MÉDICA E HOSPITALAR. TAXA DE ADMINISTRAÇÃO. CONTRATO. SUPRESSÃO. REVOGAÇÃO. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. SÚMULAS 5 E 7/STJ.
+1. No caso, o Tribunal de origem concluiu que não houve revogação do acordo de pagamento da Taxa de Administração por meio do processamento do desconto na fatura, sequer concordância tácita ou expressa.
+2. Considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utili zados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão do óbice das Súmulas 5 e 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão da Súmula 283/STF e das Súmulas 7 e 83/STJ (fls. 575-579).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 395):
+EMENTA - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - Sentença de improcedência - Contrato de prestação de serviços de assistência médica e hospitalar - Recolhimento e processamento dos pagamentos das mensalidades que os participantes verteriam à UNIMED seria realizado pela POSTALIS, e posteriormente repassados à operadora de saúde mediante desconto de 10% dos valores arrecadados, de modo a cobrir os custos inerentes à operação - MÉRITO - Preliminar de prescrição - Preclusão - Questão decidida em decisão parcial de mérito, não desafiada - Descontos que perduraram por 20 anos, até 2016, quando foram cessados unilateralmente pela UNIMED - Ausência de novação - Termo aditivo dispondo sobre a cessação do desconto que não foi formalizado - Decurso do prazo de mais de 5 anos sem que a POSTALIS exigisse o desconto - Contexto de troca de mensagens que não sugere supressio - Sentença mantida - Honorários advocatícios majorados a 12% - Recurso desprovido.
+Alega a agravante que (fl. 590):
+O decisum não trata da questão essencial do recurso, qual seja, do comportamento adotado pela parte Contratante, que - independentemente da concordância prévia ou não -criou série e legítima expectativa de que havia suprimido aquela cláusula contratual, isto é, o segundo ponto nuclear do apelo.
+Com isso em mente, fato é que não existe óbice da Súmula 7 do E. STJ, pois os fatos que dizem respeito ao COMPORTAMENTO das partes são incontrovertidos.
+Aduz, ainda, que (fl. 591):
+ ..  são os pontos a partir de qual se evidencia a insubsistência do título executivo: (i) primeiro, a concordância, por parte da embargada, com a retirada do desconto nas faturas, o que foi manifestado por escrito (e-mail), implicando numa concordância expressa; e, além disso, (ii) a inércia da recorrida em todo esse período, adotando justa e legítima posição de concordância com a supressão dos descontos, evidenciando uma concordância tácita.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submisão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 605-633).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE ASSISTÊNCIA MÉDICA E HOSPITALAR. TAXA DE ADMINISTRAÇÃO. CONTRATO. SUPRESSÃO. REVOGAÇÃO. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. SÚMULAS 5 E 7/STJ.
+1. No caso, o Tribunal de origem concluiu que não houve revogação do acordo de pagamento da Taxa de Administração por meio do processamento do desconto na fatura, sequer concordância tácita ou expressa.
+2. Considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utili zados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão do óbice das Súmulas 5 e 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que a agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme registrado na decisão agravada, o Tribunal de origem negou provimento à pretensão da recorrente, com base na análise do conjunto probatório dos autos, concluindo que não houve revogação do acordo de pagamento da Taxa de Administração por meio do processamento do desconto na fatura. A Corte estadual assentou também que não ficou demonstrada concordância da embargada, sequer tacitamente, com a supressão dos 10% que havia sido contratado.
+É o que se observa do seguinte excerto do acórdão recorrido (fls. 399-400):
+O termo aditivo nº 001072, datado de 01 de julho de 1995, dispôs, no item 11, que "A título de Taxa de Administração, a UNIMED processará, mensalmente, desconto em fatura, a favor da CONTRATANTE, a quantia equivalente a 10%(dez por cento) sobre os valores totais designados" (fl. 93/94).
+Referida avença não restou revogada, e subsiste em todos os seus termos, não tendo o embargante, como bem discorrido na sentença, se desincumbido de comprovar fato impeditivo, modificativo ou extintivo do direito do exequente.
+Ora, o simples fato do exequente ter silenciado por anos a respeito da cessação do desconto não implica na perda do direito desta faculdade, que poderia ser exercido a qualquer tempo antes do advento do prazo prescricional.
+De fato, não emerge dos autos qualquer elemento que indique a intenção do embargado em concordar com a supressão do desconto de 10%.
+Entrevê-se esta discordância das trocas de mensagens entre a UNIMED e a POSTALIS, na qual esta externa sua irresignação quanto à cessação dos descontos, ao asseverar que"(..) Venho através da presente Notificar a UNIMED de que recebemos a fatura com vencimento para agosto de 2016, sem o desconto de 10%, que vem sendo efetuado ao Postalis, conforme cláusula 11 do Aditivo de Contrato. A atual decisão tomada por essa empresa, de não conceder mais o desconto foi tomada de forma unilateral, não tendo o Postalis, contratante a oportunidade de negociação. Aguardamos os pareceres técnicos dessa UNIMED referente a decisão ora tomada" (fls. 124).
+Não se desconhece que as partes movimentaram-se no sentido de celebrar termo aditivo no qual deliberariam sobre tal desconto, o qual, todavia, não chegou a ser formalizado, e cuja minuta dispunha que a partir de 10/10/2016 o desconto mensal de 10% seria cancelado (fls. 71/74).
+A cláusula contratual que previa o desconto de 10% remanesceu, portanto, inabalada, sendo equivocado o raciocínio do embargante de que se tratava de um direito que aparentemente não seria mais exercido (supressio). (n.g.)
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas 5 e 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE CRÉDITO EDUCATIVO. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. ALEGAÇÃO DE PRESCRIÇÃO AFASTADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. 3. CONCLUSÃO ACERCA DA INEXISTÊNCIA DE EXCESSO DE EXECUÇÃO, ALÉM DE QUE A ALEGAÇÃO DE ABUSIVIDADE SE DEU DE FORMA GENÉRICA. SÚMULAS 5 E 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. A apontada violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte recorrente.
+2. Com efeito, o entendimento adotado pela Corte de origem de que o prazo quinquenal não estaria implementado e que o vencimento antecipado da obrigado não modifica o início do prazo prescricional coaduna com a jurisprudência firmada por este Tribunal Superior, a ser contado desde a data do vencimento certo indicado no título, o que atrai o óbice da Súmula 83/STJ.
+2.1. Na hipótese, reverter a conclusão do colegiado originário (acerca da não configuração do prazo prescricional), demandaria necessariamente o revolvimento do acervo fático-probatório, o que é vedado em virtude da natureza excepcional da via eleita, conforme a Súmula n. 7 do Superior Tribunal de Justiça.
+3. A modificação do entendimento alcançado pelo acordão estadual, quanto à inexistência de excesso na execução, além de que o agravante deixou de apontar os valores que efetivamente entendeu devidos para que fosse examinada eventual abusividade, demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.209.599/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
