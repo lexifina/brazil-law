@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR PRIVADA. INCIDÊNCIA DE JUROS MORATÓRIOS SOBRE JUROS COMPENSATÓRIOS OU REMUNERATÓRIOS. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE BIS IN IDEM. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Ausente manifestação da recorrente contra fundamento que, por si só, se mostra suficiente a manter o acórdão recorrido, incide, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+2. A modificação do entendimento alcançado pelo acordão estadual (no sentido de que a incidência dos juros moratórios sobre o valor devido ao recorrido, que inclui os juros compensatórios, não caracteriza bis in idem) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI contra decisão proferida pela Presidência do Superior Tribunal de Justiça, às fls. 247-249 (e-STJ), a qual conheceu do agravo para não conhecer do recurso especial em virtude da aplicação das Súmulas 283/STF e 5 e 7/STJ.
+Em suas razões (e-STJ, fls. 885-894), a agravante refuta a aplicação da Súmula 283/STF, afirmando que demonstrou todos os motivos para admissão e provimento do recurso especial de forma pormenorizada.
+Assevera que o acórdão estadual "se baseou integralmente no posicionamento pela possibilidade do cômputo dos juros de mora sobre os juros, o que foi devidamente atacado e amplamente debatido" (e-STJ, fl. 262).
+Pondera que o trecho destacado na decisão agravada "não se trata de capítulo ou fundamento autônomo, e sim mera complementação do voto, que teve como objeto central a prática de juros moratórios sobre os juros remuneratórios" (e-STJ, fl. 262).
+Argumenta sobre a desnecessidade de revisão do contexto fático probatório e sobre a comprovação do dissídio jurisprudencial. Reitera a alegação de ofensa aos arts. 506 e 507 do Código de Processo Civil de 2015 e 3º, III, e 9º da Lei Complementar n. 109/2001.
+Sem impugnação (e-STJ, fl. 298).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR PRIVADA. INCIDÊNCIA DE JUROS MORATÓRIOS SOBRE JUROS COMPENSATÓRIOS OU REMUNERATÓRIOS. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE BIS IN IDEM. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Ausente manifestação da recorrente contra fundamento que, por si só, se mostra suficiente a manter o acórdão recorrido, incide, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+2. A modificação do entendimento alcançado pelo acordão estadual (no sentido de que a incidência dos juros moratórios sobre o valor devido ao recorrido, que inclui os juros compensatórios, não caracteriza bis in idem) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Como visto, a insurgente sustentou em seu recurso especial que "os remuneratórios/contratuais se extinguem com a ruptura da relação jurídica, notadamente com o resgate da Reserva Pessoal pelo Participante, de modo que eventual diferença de correção monetária deve ser devolvida mediante o acréscimo tão somente dos juros moratórios previstos no Código Civil" (e-STJ, fl. 122).
+Ao analisar a questão, o Tribunal de Justiça do Estado do Rio de Janeiro declinou a seguinte fundamentação (e-STJ, fls. 100-101):
+A respeito dos juros compensatórios, convém reproduzir o disposto no título executivo judicial objeto do presente cumprimento de sentença, proferido em julgamento de agravo interno na apelação referente ao processo nº 0316168-21.2008.8.19.0001, verbis
+No que tange ao termo final dos juros remuneratórios, eles são devidos como compensação pelo fato de o credor estar privado da utilização de seu capital e, desde que previstos no contrato, são devidos desde a data que deveriam integrar o capital do correntista, ou seja, a contar dos respectivos meses de geração das diferenças monetárias, como se os expurgos não tivessem ocorrido, e até a data do efetivo pagamento.
+Dessa forma, os juros remuneratórios se destinam a remunerar a privação do credor de utilizar o seu capital, nos termos pactuados. Assim, eles passam a constituir o valor devido ao exequente.
+Dito isso, cabe lembrar que os juros moratórios decorrem justamente da mora ou atraso em efetuar o pagamento.
+Portanto, estes incidem sobre o valor devido ao exequente a partir da mora, inclusive sobre os juros compensatórios. Nota-se, assim, que a incidência dos juros moratórios sobre o valor devido ao recorrido, que inclui os juros compensatórios, não constitui bis in idem. Dessa forma, por se destinarem a finalidades diversas, o compensatório é uma forma de remuneração pela privação do credor de utilizar o dinheiro, já os moratórios são devidos em razão do atraso do devedor em efetuar o pagamento ao credor.
+Nesse contexto, em atenção aos argumentos trazidos pela insurgente e aos fundamentos (acima destacados) adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial. Assim, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Além disso, não há como afastar a conclusão estadual (no sentido de que a incidência dos juros moratórios sobre o valor devido ao recorrido, que inclui os juros compensatórios, não caracteriza bis in idem) sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula do Superior Tribunal de Justiça.
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
