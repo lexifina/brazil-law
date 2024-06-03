@@ -1,0 +1,51 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0752147-39.2023.8.07.0016RECORRENTE(S)HOSANA MARIA DE CARVALHO MARQUESRECORRIDO(S)DISTRITO FEDERALRelatoraJuiza MARIA ISABEL DA SILVA
+ Acórdão Nº1871482
+
+EMENTA
+
+ JUIZADOS ESPECIAIS DE FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. RECURSO INOMINADO. SERVIDOR PÚBLICO. RECONHECIMENTO ADMINISTRATIVO DE DÍVIDA. MERA DECLARAÇÃO DA ADMINISTRAÇÃO PÚBLICA DIREITO DE PETIÇÃO E DEVER DE TRANSPARÊNCIA. PRESCRIÇÃO QUINQUENAL CONFIRMADA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. Trata-se de Recurso Inominado interposto pela parte autora contra sentença que julgou procedente em parte o pedido inicial reconhecendo parcial prescrição da pretensão da cobrança dos débitos referentes a acertos financeiros de diferenças salariais referente a 04/2017 a 08/2018. Em suas razões recursais (ID 57932489), a recorrente sustenta que a inércia do Ente em promover o pagamento dos valores reconhecidos administrativamente é causa que interrompe a prescrição (art. 202, VI, do CC) ou importa renúncia ao prazo prescricional (art. 191 do CC). Requer, ao final, a reforma da sentença para afastar a prescrição e condenar o réu ao pagamento de todos os débitos salariais reconhecidos administrativamente. Requer a reforma da sentença para julgar procedente o pedido inicial.
+
+2. Recurso próprio, tempestivo e com preparo regular (IDs 57932490 e 57932491). Contrarrazões apresentadas (ID 57932493).
+
+3. O cerne da controvérsia é aferir a ocorrência ou não da prescrição dos débitos dos anos 2017-2018 dispostos na declaração de créditos emitidos pelo Administração Pública.
+
+4. Na situação em exame, em agosto/2023 a Administração Pública emitiu declaração reconhecendo que a servidora pública/recorrente, tem créditos salariais a receber no valor de R$ 4.639,77 (quatro mil seiscentos e trinta e nove reais e setenta e sete centavos), referente aos exercícios de 2017 a 2019, conforme declaração de ID 57932476.
+
+5. Dispõe o art. 2º, do Decreto 20.910/32 que as dívidas passivas dos entes públicos prescrevem em 05 anos contados da data da respectiva origem, suspendendo-se a prescrição durante a demora, que no estudo, ao reconhecimento ou no pagamento da dívida, considerada líquida, tiverem as repartições ou funcionários encarregados de estudar e apurá-la. A suspensão da prescrição, neste caso, verificar-se-á pela data da entrada do requerimento administrativo (art. 4º, caput e parágrafo único, do referido Decreto).
+
+6. Conforme destacou a sentença, competia à parte autora, a teor do art. 373, inciso I, do CPC, demonstrar a ocorrência de causa suspensiva e interruptiva da prescrição. No entanto, a parte recorrente não acostou qualquer documento que comprove a data e protocolo do requerimento administrativo. Outrossim, a parte autora somente ajuizou a presente ação em 14 de setembro de 2023. Configura-se, portanto, a prescrição das parcelas anteriores a setembro/2018.
+
+7.  Ressalte-se que o documento de ID 57932476 deve ser considerado mera declaração da Administração Pública, não tendo o condão de instrumentalizar-se em documento de reconhecimento de dívida, haja vista que constitui em dever do Poder Público proceder às declarações e fornecer documentos requisitados pela parte interessada, em atenção ao direito de petição e o dever legal de transparência do ente público previsto na Lei de Acesso à Informação. Ademais, tais declarações não podem servir como renúncia ao prazo prescricional, ante a vedação expressa disposta no art. 177 da Lei Complementar Distrital nº 840/2011, sendo ilegal à Administração Pública emitir declaração de reconhecimento de débito com o condão de renunciar a eventual prazo prescricional. Acerca do tema, em Tese Jurídica Para o Tema Repetitivo n°1.109, na apreciação conjunta dos afetados Recursos Especiais Repetitivos n. 1.195.192/RS, 1.195.193/RS e 1.928.910/RS, o STJ firmou o seguinte entendimento: “Não ocorre renúncia tácita à prescrição (art. 191 do Código Civil), a ensejar o pagamento retroativo de parcelas anteriores à mudança de orientação jurídica, quando a Administração Pública, inexistindo lei que, no caso concreto, autorize a mencionada retroação, reconhece administrativamente o direito pleiteado pelo interessado.”.
+
+8. Precedentes desta Turma Recursal: (Acórdão 1812117, 07028202820238070016, Relator: EDILSON ENEDINO DAS CHAGAS, Segunda Turma Recursal, data de julgamento: 5/2/2024, publicado no DJE: 19/2/2024. Pág.: Sem Página Cadastrada); e (Acórdão 1792833, 07325473220238070016, Relator: GISELLE ROCHA RAPOSO, Segunda Turma Recursal, data de julgamento: 1/12/2023, publicado no PJe: 16/12/2023. Pág.:  Sem Página Cadastrada.).
+
+9. RECURSO CONHECIDO E NÃO PROVIDO. Sentença mantida. Custas recolhidas. Responderá a parte recorrente vencida ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) do valor corrigido da condenação.
+
+10. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA ISABEL DA SILVA - Relatora, MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juiza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Junho de 2024
+
+Juiza MARIA ISABEL DA SILVARelatora
+
+RELATÓRIO
+
+DISPENSADO O RELATÓRIO, NA FORMA DO ARTIGO 46 DA LEI 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARIA ISABEL DA SILVA - RelatoraDISPENSADO O VOTO, NA FORMA DO ART. 46 DA LEI 9.099/95.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal Com o relatorA Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME
