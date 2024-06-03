@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO CUJA CONCLUSÃO DERIVA DA INTERPRETAÇÃO DE LEIS DISTRITAIS. REVISÃO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. No caso dos autos, o acórdão recorrido deriva, exclusivamente, de interpretação de leis complementares distrita is, o que, revela a Súmulas 280 do STF como óbice ao conhecimento do recurso.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por CABIRIA CONSTRUÇÕES E EMPREENDIMENTOS S/A contra decisão que, com apoio na Súmula 280 do STF, não conheceu de recurso especial em que discute a possibilidade de compensação de crédito tributário com precatório judicial; e negou-lhe provimento quanto à tese de violação dos arts. 489 e 1.022 do Código de Processo Civil - CPC/2015.
+A parte agravante não concorda com o óbice sumular ao conhecimento do recurso, insiste na tese de violação arts. 489 e 1.022 do CPC/2015 e alega, em síntese (fls. 440/454):
+O acórdão foi contraditório e obscuro quanto ao pleito do Agravante do pedido para a concessão do benefício de redução referente ao acréscimo legal estabelecido no artigo 42, §1º, da LC nº 004/94, no momento que o contribuinte adere ao REFIS DF 2020, como preconizado no artigo 3º da LC nº 976/2020  ..  o acórdão recorrido decidiu a controvérsia com base em dispositivos federais, ao contrário do consignado na decisão agravada, o argumento da lei local foi mencionado no recurso à título de reforço de argumentação e, não, como cerne e sustentáculo principal, porquanto o regramento federal é superior hierárquico ao direito local mencionado  ..  no momento da adesão do Impetrante ao REFIS DF 2020 e do deferimento do Parcelamento, estava em vigor a redação original do artigo 8º da Lei Complementar n.º 976/2020, que não restringia a redução do principal dos débitos elencados no § 3º do citado artigo 2º da Lei Complementar 976/2020
+Impugnação apresentada pela parte agravada (fls. 461/468).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO CUJA CONCLUSÃO DERIVA DA INTERPRETAÇÃO DE LEIS DISTRITAIS. REVISÃO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. No caso dos autos, o acórdão recorrido deriva, exclusivamente, de interpretação de leis complementares distrita is, o que, revela a Súmulas 280 do STF como óbice ao conhecimento do recurso.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois insuperável o óbice ao conhecimento do recurso, ao tempo em que não se constatou violação dos arts. 489 e 1.022 do CPC/2015.
+De fato, não há violação dos referidos dispositivos quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+E, no caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que o órgão julgador apreciou a questão de forma clara, coerente e fundamentada, tornando desnecessária a integração pedida pela parte recorrente.
+A propósito, vejamos, no que interessa, o que está consignado no acórdão recorrido (fls. 210/221):
+No mérito, a controvérsia cinge-se à verificação da possibilidade de compensação do valor principal do débito com precatórios, após adesão ao benefício estabelecido pela Lei Complementar Distrital n. 976/2020, bem como de incidência da redução prevista no artigo 42, §1º,da Lei Complementar Distrital n. 004/1994 sobre o débito.
+ ..
+Ao analisar o aludido artigo 4º, percebe-se que o inciso I trata dos percentuais de redução do principal atualizado, ao passo que o incido II indica a proporção da redução de juros e multas. Portanto, conclui-se que, por opção legislativa, a compensação por precatórios alcança exclusivamente as reduções de juros e multas. Não fosse essa a intenção do legislador, não haveria a limitação prevista na parte final do artigo 8º.
+A mera indicação equivocada dos tributos passíveis de inclusão no REFIS (em razão do veto ao artigo 2º, §4º, de modo que o dispositivo citado não constou da lei) não afasta a conclusão de que a utilização dos créditos se compensa exclusivamente com os juros e as multas.
+Nota-se, portanto, que mesmo a redação original da Lei Complementar Distrital n.976/2020 não contemplava a previsão de redução do débito principal para compensação com precatório, limitando-se ao alcance dos juros e da multa. A publicação da Lei Complementar n.983/2021, embora tenha ajustado a referência ao artigo 2º, §3º, não alterou a conclusão sobre a impossibilidade de compensação do principal. Ao contrário do que alega o apelante, não houve alteração posterior impeditiva da compensação, tampouco retroatividade em prejuízo do contribuinte.
+No que tange à pretensão de inclusão do valor previsto no artigo 42, §1º, da Lei Complementar n. 4/94 (ou seja, aquele correspondente a 10% do valor do crédito inscrito em dívida ativa, para atender às despesas com a cobrança e com os honorários advocatícios) no percentual a ser reduzido com a adesão ao REFIS/2000, é importante destacar a redação do artigo 3º da Lei Complementar n. 976/2000, trata do conceito de débito incentivado:
+ ..
+A instituição do programa foi destinada a incentivar a regularização de débitos fiscais dos contribuintes. Nesse contexto, se o débito incentivado também é composto pelos demais acréscimos previstos na legislação específica, a redução desse encargo já ocorreu, proporcionalmente, ao crédito tributário abatido.
+Ademais, o artigo 5º, §5º, da Lei Complementar 976/2020 esclarece que a formalização da adesão constitui confissão irretratável do débito fiscal. Com o pedido de realização de novo abatimento, o apelante pretende ver modificado o débito declarado - que já deveria ser composto pelo acréscimo de 10%, em afronta ao dispositivo legal.
+E, no contexto, não há violação dos arts. 489 e 1.022 do CPC/2015 porque a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+De outro lado, tal como consignado na decisão monocrática, ora agravada, percebe-se que o acórdão recorrido deriva, exclusivamente, de interpretação de leis complementares distritais (n. 004/1994 e n. 976/2020), o que, de fato, revela a Súmulas 280 do STF como óbice ao conhecimento do recurso, uma vez que, nos termos do art. 105, inc. III, da Constituição Federal, o especial se destina à correta interpretação de lei federal.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
