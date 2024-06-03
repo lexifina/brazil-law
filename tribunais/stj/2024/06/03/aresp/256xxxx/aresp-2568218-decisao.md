@@ -1,0 +1,94 @@
+DECISÃO
+EDVIN IRINEU POLAK e MARLENE APARECIDA CORREIA POLAK agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região na Apelação Criminal n. 5041825-79.2013.4.04.7000/PR.
+A agravante Marlene Aparecida foi condenada, pelo crime previsto no art. 1º, I, da Lei n. 8.137/1990, em continuidade delitiva, à sanção de 2 anos, 9 meses e 22 dias de reclusão mais 105 dias-multa, em regime inicial aberto. A reprimenda foi substituída por duas restritivas de direitos. O agravante Edvin teve declarada a extinção da punibilidade pela ocorrência da prescrição da pretensão punitiva.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 131, 141, 155, 156 e 386, parágrafo único, II, todos do Código de Processo Penal e 29 e 49, ambos do Código Penal. Sustentou a nulidade da condenação, cuja materialidade está baseada apenas em elementos do procedimento administrativo fiscal produzidos sem o devido contraditório. Alegou, nesse ponto, também, a inversão do ônus da prova e a impossibilidade do emprego da apuração do crédito tributário mediante presunção.
+No mais, defendeu a absolvição, por ausência de demonstração do vínculo entre a acusada e os fatos ilícitos. Subsidiariamente, solicitou a readequação da quantidade de dias-multa e o levantamento das constrições cautelares impostas sobre os bens do agravante Edvin, em razão da extinção da punibilidade então declarada.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 933-938, pelo conhecimento, em parte, do recurso especial e, nessa extensão, negar-lhe provimento.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou sobre a autoria e a materialidade delitiva (fls. 768-774):
+ ..
+3. Materialidade, autoria e dolo
+A matéria foi bem solvida pela magistrada a quo na sentença, cujo excerto transcrevo, adotando seus fundamentos como razões de decidir, a fim de evitar tautologia:
+"Nos termos da denúncia, os acusados, na condição de sócios administradores da empresa "Armarinhos Polak Ltda.", suprimiram e reduziram o pagamento de Imposto de Renda de Pessoa Jurídica (IRPJ) e as contribuições sociais incidentes (CSLL, PIS e COFINS) nos exercícios de 2001 a 2004, totalizando um crédito tributário no valor de R$ 4.347.455,23 (quatro milhões trezentos e quarenta e sete mil quatrocentos e cinquenta e cinco reais e vinte e três centavos), que, calculados com multa e juros de mora, alcançaram o valor de R$ 13.255.388,11 (treze milhões duzentos e cinquenta e cinco mil trezentos e oitenta e oito reais e onze centavos).
+O crédito tributário foi definitivamente constituído na data de 21 de julho de 2006, momento em que o lançamento de ofício foi regularmente notificado ao sujeito passivo da obrigação tributária.
+A materialidade do delito restou comprovada pelos documentos acostados ao processo administrativo fiscal nº 0980.008006/2006-96 (ev. 2 dos autos de IPL nº 50524232920124047000), que redundou na Representação Fiscal para Fins Penais (ev. 2, AP-INQPOL1).
+Em Juízo, a testemunha Regiane Dancini, funcionária do escritório de contabilidade Contardi, o qual prestava serviços para a empresa dos denunciados, declarou que ambos os sócios, ora denunciados, se dirigiam e mantinham contato com o escritório de contabilidade. Tal afirmação foi corroborada pelo depoimento prestado pela testemunha João Linardi.
+Ademais, o próprio contrato social juntado aos autos de IPL demonstra que a denunciada Marlene era sócia diretora, juntamente com o denunciado Edvin (Evento2 - AP-INQPOL8 - fl.1480).
+Ambos os denunciados declararam que eram sócios da empresa Armarinhos Polak Ltda. e que a geriam conjuntamente. Em seu interrogatório em Juízo, o réu Edvin Irineu Polak declarou atribuir a diferença entre a movimentação bancária e o valor efetivamente declarado como movimentação da empresa por conta das inúmeras negociações de cheques sem provisão de fundos.
+Restou apurado no PAF nº 10980.008006/2006-96 a omissão à Receita Federal das receitas que compõe a base de cálculo do Imposto de Renda da Pessoa Jurídica (IRPJ) e das contribuições sociais incidentes (CSLL, PIS e COFINS), crédito tributário, lançado de ofício, no valor total de R$ 4.347.455,23 (quatro milhões trezentos e quarenta e sete mil quatrocentos e cinquenta e cinco reais e vinte e três centavos), que, calculados com multa e juros de mora, alcançaram o valor de R$ 13.255.388,11 (treze milhões duzentos e cinquenta e cinco mil trezentos e oitenta e oito reais e onze centavos).
+Consta da Representação Fiscal para Fins Penais juntada no ev. 2 dos autos de IPL nº 5052423- 29.2012.4.04.7000 que a empresa Armarinhos Polak Ltda. movimentou valores em contas-correntes mantidas no Banco Bandeirantes S/A, Banco BCN S/A, Banco Bradesco S/A, Banco Cidade S/A, Banco do Brasil S/A, Banco Safra S/A e União de Bancos Brasileiros S/A, no valor de R$ 14.875.923,61, R$ 17.010.523,00, R$14.115.735,06 e R$ 15.331.552,68, nos anos de 2001, 2002, 2003 e 2004 respectivamente.
+Assim, diante da vultosa diferença entre os valores declarados e os valores efetivamente movimentados mostra-se inconvincente a alegação de que tais valores eram decorrentes das negociações de cheques sem provisão de fundos.
+Assim é que a materialidade delitiva restou bem demonstrada, por terem sido suprimidos e reduzidos tributos federais mediante a conduta de prestar informações incorretas à Secretaria da Receita Federal do Brasil. Considerando que a conduta omissiva se deu em relação a quatro competências fiscais, de 2001 até 2004, conclui-se que foi praticada continuadamente por quatro vezes.
+Diante deste contexto probatório, reputo igualmente comprovada a autoria dos réus, não tendo a defesa trazido aos autos elementos aptos a afastar as provas da acusação.
+Do elemento subjetivo O tipo subjetivo, no crime de sonegação fiscal, é o dolo genérico, consistente na vontade livre e consciente de reduzir ou suprimir tributo mediante a prática de qualquer das condutas descritas nos incisos do art. 1º da Lei nº 8.137/90.
+Na hipótese, o dolo ficou evidenciado pelo conjunto probatório na medida em que os réus, de maneira voluntária e consciente, declararam e recolheram a menor valores devidos de tributos e contribuições.
+(..)
+Apuradas, assim, a materialidade e a autoria delitivas, bem como a existência do elemento subjetivo e a tipicidade da conduta praticada, e não havendo causas de exclusão de antijuridicidade e culpabilidade, impõe-se a condenação dos réus pela prática do crime previsto no art. 1º, inciso I da Lei nº 8.137/90 c/c art. 71 do Código Penal."
+O arcabouço probatório ratifica a procedência da ação penal, uma vez que a fundamentação lançada na sentença considerou, de forma objetiva e fundamentada, suficientes as provas da materialidade e autoria no que tange ao delito em tela.
+Registro, inicialmente, que tendo em visto o reconhecimento, de ofício, da extinção da punibilidade em relação ao EDVIN IRINEU POLAK, o exame da autoria nesta instância está restrito à acusada MARLENE APARECIDA CORREIA POLAK.
+A recorrente sustenta a atipicidade da conduta aduzindo a ausência do tipo objetivo do art. 1º, I, da Lei 8.137/1990, eis que a materialidade do fato foi baseada em presunção legal tributária.
+Sem razão.
+Como bem pontuado na sentença, o lançamento por arbitramento é legítimo, nos termos do art. 148, do CTN e que, regularmente constituído o crédito, não cabe discuti-lo na esfera penal, presumindo legítimo o ato administrativo.
+Existe firme orientação jurisprudencial no sentido de que o juízo criminal, salvo flagrantes ilegalidades, não deve apreciar o mérito do procedimento administrativo fiscal que culminou no lançamento do débito tributário, em razão da presunção de legitimidade do ato administrativo.
+ ..
+Acrescento que, nos termos da Súmula nº 67 deste Tribunal Regional Federal da 4ª Região, "A prova da materialidade nos crimes de omissão no recolhimento de contribuições previdenciárias pode ser feita pela autuação e notificação da fiscalização, sendo desnecessária a realização de perícia."
+No caso, não há qualquer hipótese de manifesta nulidade que justifique reavaliar o procedimento fiscal de que trata a denúncia, restando ausente de lastro a tese defensiva.
+Nada impede que o órgão revisor se convença das razões lançadas pela instância originária, e as adote como fundamento de decidir, pois é livre o convencimento judicial. Desde que as transcreva em seu voto, estão declinados os motivos que conduziram o seu convencimento. Aliás, assim pode proceder com as razões de quaisquer dos sujeitos processuais (acusação, defesa, órgão julgador, órgão ministerial).
+É certo que não se admite em tema de processo penal, porque o réu goza de presunção de inocência, a inversão do ônus da prova, sendo da acusação o encargo de provar a existência do fato e demonstrar sua autoria, assim como o elemento subjetivo. Porém, tal atribuição não isenta os agentes, a teor do art. 156, primeira parte, do CPP, de provar os fatos em que se funda a defesa. A técnica genérica de ausência de provas para embasar a condenação e de negativa de autoria dissociada de qualquer elemento de prova que a ampare, por certo, está respaldada em robusto arcabouço probatório, como no caso dos autos.
+ ..
+Assim, não tendo a defesa apresentado qualquer elemento capaz de trazer dúvida fundamentada sobre as provas existentes nos autos, não há falar na aplicação dos princípios da presunção de inocência e do in dubio pro reo.
+Ocorre que, para aplicar-se referidos princípios, deve existir dúvida razoável acerca da materialidade, autoria ou dolo, o que não ocorre neste feito. O conjunto probatório aponta claramente a prática delitiva narrada na denúncia.
+Os documentos e informações fiscais, lavrados pela autoridade fiscal competente, realço, gozam de presunção de legitimidade e veracidade, e estão insertos no rol da exceções do art. 155 do Código de Processo Penal, vale dizer, são frutos de atos não repetíveis. Com efeito, sendo submetida ao contraditório em juízo, como ocorreu no caso dos autos, não há falar em qualquer vício no autuação fiscal.
+A disponibilização à defesa e a acusação de todas as provas colhidas durante o inquérito garantem as partes o contraditório e a ampla defesa. Além disso, o juiz formulou sua convicção a partir dos referidos documentos e também da prova colhida em juízo.
+ ..
+Nesse diapasão, também restam afastadas as alegações de contrariedade ao art. 155 do Código de Processo Penal e de ofensa ao princípio do in dubio pro reo.
+No que tange a autoria delitiva, nos crimes tributários responde pelos fatos delituosos o administrador da pessoa jurídica por intermédio da qual são praticadas as condutas ilícitas, porquanto o dirigente da sociedade, responsável por decidir o dia a dia, os rumos e as políticas a serem adotadas na gestão administrativa tem o domínio sobre as decisões relativas à gestão financeira e procedimental destinada ao adimplemento das obrigações com o Fisco, ou seja, o gestor administrativo detém o domínio funcional para decidir se haverá e como serão realizadas as manobras visando elidir o pagamento dos tributos devidos pela sociedade.
+ ..
+Portanto, não merecem prosperar, outrossim, as alegações de negativa de autoria e de ausência de provas para o decreto condenatório.
+Conforme se observa, a Corte de origem asseverou a existência de provas suficientes para justificar a condenação da agravante pela conduta imputada na denúncia (art. 1º, I, da Lei n. 8.137/1990).
+O STJ já decidiu que os elementos produzidos no Procedimento Administrativo Fiscal - PAF - podem subsidiar eventual édito condenatório, em razão do contraditório diferido, sem violar o disposto no art. 155 do CPP.
+Além disso, a compreensão é de ser possível a condenação que emprega elementos do inquérito policial quando corroborados por outros produzidos na fase judicial, conforme ocorrido no caso dos autos.
+Dessa forma, forçoso concluir que a instância antecedente está em consonância com a jurisprudência desta Corte Superior, o que torna inviável a pretensão em virtude do óbice previsto na Súmula n. 83 do STJ, inclusive no tocante ao alegado dissídio jurisprudencial.
+Ilustrativamente:
+ ..
+2. No mais, a decisão monocrática deve ser mantida pelos seus próprios fundamentos; isso porque ""esta Corte Superior de Justiça pacificou o entendimento de que documentos produzidos na fase inquisitorial, como o processo administrativo tributário, por se sujeitarem ao contraditório diferido, podem ser utilizados como fundamento para a prolação de sentença condenatória, sem que tal procedimento implique ofensa ao disposto no artigo 155 do Código de Processo Penal (AgRg no HC 414.463/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017)"" (AgRg no AREsp n. 1.231.414/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/9/2018, DJe de 25/9/2018).
+ ..
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.184.737/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 27/3/2023.)
+Destaco, ainda, a compreensão de que a instância criminal não é adequada para verificação de eventuais nulidades ocorridas no procedimento administrativo fiscal.
+O crédito tributário constituído pela regra do arbitramento, legalmente prevista no CTN, é legítimo para aferir materialidade delitiva em crimes contra a ordem tributária, um vez que não há presunção quanto a existência do débito, apenas estima-se o valor devido a partir de critérios previamente estabelecidos em lei, quando não há possibilidade de apuração por outros meios.
+As instâncias antecedentes estabeleceram que a agravante era sócia-administradora e que a gestão da sociedade empresária era compartilhada com o então corréu. Destacou, ainda, as declarações da testemunha de que ambos tinham contato com o escritório de contabilidade, o que permite inferir algum conhecimento sobre a condição fiscal da empresa.
+Portanto, não há indicativo de ausência de nexo e a modificação dessa premissa implicaria a necessidade de revolvimento de fatos e provas, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+A fixação da pena de multa deve guardar proporcionalidade com a quantidade da sanção privativa de liberdade, conforme orientação jurisprudencial desta Corte Superior. Na hipótese, foi estabelecido o total de 131 dias-multa para as quatro ações delitivas (32,75 para cada ilícito) e essa quantidade não é desproporcional. Nesse ponto, incide o disposto na Súmula n. 83 do STJ.
+Ilustrativamente:
+ ..
+5. A quantidade de dias-multa é proporcional à pena privativa de liberdade e a redução do valor unitário demandaria revolvimento probatório dos autos, ante a cognição do acórdão impugnado de boa condição econômica do insurgente.
+6. Agravo regimental não provido.
+(AgRg no REsp n. 2.030.115/SP, Rel. Ministro Rogerio Schietti, 6ªT., DJe de 9/3/2023.)
+Quanto ao pedido de liberação dos bens arrestados, o acórdão recorrido consignou o seguinte(fls. 780-781):
+ ..
+Pois bem.
+Tendo em vista o pedido do Ministério Público Federal, nos autos do Sequestro nº 5050906-52.2013.4.04.7000, de arresto prévio de bens em face de MARLENE APARECIDA CORREIA POLAK e EDVIN IRINEU POLAK, em razão da denúncia pela prática do rime do artigo 1º, I, da Lei nº 8.137/90, na ação penal nº 5041825-79.2013.404.7000, em 05-05-2014, o juízo de origem deferiu liminarmente, 05-05-2014, o pedido de sequestro de bens imóveis pertencentes dos denunciados e indeferido o pedido de bloqueio de ativos financeiros (processo 5050906-52.2013.4.04.7000/PR, evento 4, DESPADEC1).
+Posteriormente, o juízo de origem proferiu sentença de parcial procedência, para confirmar parte da decisão liminar, mantendo o sequestro sobre os bens imóveis de MARLENE POLAK e de EDVIN POLAK, salvo os de matrículas nº 52024, 59568 e97703 (processo 5050906.52.2013.4.04.7000/PR, evento 100, SENT1).
+Irresignados, MARLENE e EDVIN apelaram da sentença e este Regional negou provimento à apelação, in verbis (processo 5050906-52.2013.4.04.7000/TRF4, evento 32, ACOR2):
+ ..
+Logo, a adequação do sequestro no caso concreto trata-se de matéria já decidida nesta Corte Regional.
+Consoante exposto na sentença que julgou os Declaratórios (processo 5041825-79.2013.4.04.7000/PR, evento 138, SENT1), somente após o trânsito em julgado para ambas as partes e pagamento da multa, custas processuais e prestação pecuniária, se mantida a condenação, é que a constrições poderão ser levantadas.
+No mesmo compasso, o parecer ministerial que concluiu o seguinte:
+De se destacar, ainda, que, mesmo que venha a ser declarada extinta a punibilidade em relação ao apelante EDVIN IRINEU POLAK (tópico II.1), fato é que não há como se proceder à liberação integral do patrimônio constrito. Isso porque, no termos do inciso III do artigo 130 do Código de Processo Penal, "o sequestro será levantado se for extinta a punibilidade ou absolvido o réu, por sentença transitada em julgado", o que, por ora, não se verifica no caso dos autos.
+Logo, merece ser rechaçada a alegação de excesso nas constrições cautelares.
+Conforme o entendimento do STJ, a restituição de bem apreendido ocorre mediante a comprovação inconteste de que a propriedade lícita, não mais interessa ao processo e não é passível de pena de perdimento.
+Na hipótese, a defesa incidentalmente pleiteou o levantamento da medida de sequestro dos bens do corréu Edvin Polak, depois da declaração de extinção da punibilidade pela prescrição.
+Verifico, no entanto, que a análise da pretensão ensejaria o reexame de fatos e de provas, procedimento vedado, em recurso especial, em virtude do óbice previsto na Súmula n. 7 do STJ, para a finalidade de identificar a presença dos requisitos necessários, dentre eles a comprovação inconteste da aquisição lícita do bem.
+Nesse sentido:
+ ..
+1. Segundo a jurisprudência desta Corte, "a restituição do bem apreendido ocorre mediante a comprovação inconteste da propriedade lícita, de não mais interessar ao processo e de não ser passível de pena de perdimento" (AgRg no REsp n. 1.881.847/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+2. Na hipótese, concluir pela possibilidade de levantamento do sequestro dos bens, conforme requerido pelo recorrente, demandaria incursão no suporte fático-probatório delineado nos autos, providência incabível na seara do especial, nos termos da Súmula n. 7/STJ. Precedente.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.569.258/PR, Rel. Ministro Antonio Saldanha Palheiro, 6ª T.,, DJe 4/10/2022.)
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
