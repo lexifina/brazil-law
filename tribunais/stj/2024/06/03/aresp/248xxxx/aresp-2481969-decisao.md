@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa é a seguinte (e-STJ fl. 482):
+DIREITO PENAL. PROCESSO PENAL. REVISÃO CRIMINAL. FURTO QUALIFICADO. CAUSA DE AUMENTO DO REPOUSO NOTURNO. ENTENDIMENTO JURISPRUDENCIAL EM SEDE DE RECURSO REPETITIVO. TEMA 1.087. INAPLICABILIDADE. PLEITO REVISIONAL IMPROCEDENTE.
+1. A revisão criminal possui como escopo a retificação de erros de procedimento ou de julgamento que justifiquem a desconstituição da coisa julgada, nas excepcionais hipóteses enumeradas no artigo 621 do Código de Processo Penal.
+2. Esta egrégia Corte, na esteira do Supremo Tribunal Federal e do Superior Tribunal de Justiça, possui entendimento pacífico no sentido de que não caberá revisão criminal quando a sentença condenatória for contrária à mudança de orientação jurisprudencial superveniente ao trânsito em julgado. Precedentes.
+3. Revisional julgada improcedente.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, a defesa aponta violação do art. 621, I, do Código de Processo Penal.
+Alega ser indevida a manutenção da causa de aumento pelo furto noturno, na forma qualificada do crime, por representar contrariedade à atual orientação jurisprudencial do Superior Tribunal de Justiça sedimentada em julgamento de recurso repetitivo (Tema 1.087).
+Requer, assim, o provimento do recurso, a fim de que a ação revisional seja julgada procedente, afastando-se a causa de aumento do art. 155, § 1º, do Código Penal.
+Apresentadas contrarrazões e contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Colhe-se dos autos que à época da decisão já transitada em julgado, havia consenso de ambas as Turmas desta Corte Superior quanto à possibilidade de aplicação concomitante da causa de aum ento do repouso noturno ao furto qualificado, o que só veio a ser alterado, em 27/6/2022, por meio do Tema n. 1.087.
+Desse modo, o aresto recorrido não destoa da orientação jurisprudencial ao concluir que é incabível a aplicação retroativa do Tema n. 1.087 do STJ para redimensionar as sanções do recorrente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. AFASTAMENTO DA CAUSA DE AUMENTO DE PENA RELATIVA AO REPOUSO NOTURNO. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A jurisprudência do STJ é firme no sentido de que a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa (..), sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (AgRg no HC n. 750.423/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+2. Ademais, vale salientar que nem mesmo no âmbito da revisão criminal esta Corte Superior tem admitido a aplicação do precedente qualificado, quando ao tempo do julgamento do recurso de apelação havia consenso entre as Turmas da Terceira Seção desta Corte Superior, como na hipótese dos autos, que trata acerca da aplicação da majorante do repouso noturno ao furto qualificado.
+3. Com efeito, a aplicação das disposições contidas no art. 66, I, da Lei 7.210/1984 não alcança os casos de mudança de entendimento jurisprudencial, mas apenas as hipóteses em que lei posterior, de qualquer forma, favoreça o condenado. Assim, a tese firmada pelo colendo Superior Tribunal de Justiça no julgamento do REsp n. 1.888.756/SP (Rel. Min. João Otávio de Noronha, Terceira Seção, julgado em 25/05/2022, DJe de 27/06/2022 - Tema 1087), no sentido de que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)", não pode retroagir para alcançar fatos praticados anteriormente ao referido entendimento, pois precedentes judiciais não tem efeitos retroativos.
+4. No caso em apreço, consoante informado pelo Ministério Público do Estado do Paraná, o trânsito em julgado da sentença que condenou o recorrido como incurso no art. 155, §1º e §4º, do CP, ocorreu em 15/06/2021 e a Tese 1087, como visto, foi firmada pela Terceira Seção do STJ em 25/05/2022.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 2.081.283/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CAUSA DE AUMENTO DE PENA. REPOUSO NOTURNO. AFASTAMENTO. IMPOSSIBILIDADE. TRÂNSITO EM JULGADO DA CONDENAÇÃO ANTERIOR À MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na data do trânsito em julgado da condenação do paciente, pela prática de furto qualificado, com a incidência da causa de aumento de pena do repouso noturno, ambas as Turmas da Terceira Seção do Superior Tribunal de Justiça entendiam pela possibilidade de aplicação da causa de aumento do repouso noturno na hipótese de furto qualificado.
+2. Ainda que esse entendimento haja sido superado pela atual compreensão pelo afastamento da referida causa de aumento quando o delito praticado for o do art. 155, § 1º, do CP, tanto a jurisprudência do STJ como a do STF se consolidaram na direção de que não é admissível o ajuizamento de revisão criminal (no caso, habeas corpus substitutivo) para reconhecer a ultratividade da jurisprudência benéfica, de modo a modificar a situação delineada para o condenado conforme o pensamento da época da condenação.
+3. Agravo regimental não provido.
+(AgRg no HC n. 835.093/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/9/2023, DJe de 15/9/2023).
+Incidência da Súmula 568 do STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágr afo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
