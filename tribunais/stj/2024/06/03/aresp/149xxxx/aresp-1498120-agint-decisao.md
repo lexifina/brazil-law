@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interno de decisão de minha relatoria em que conhecido do agravo do Instituto Brasileiro de Oncologia - IBO para não conhecer do recurso especial, pois: (i) o óbice da Súmula 7/STJ não permite o exame das alegações envolvendo a Área I do imóvel objeto de comodato; e, por outro lado, (ii) quanto à Área II, os óbices das Súmulas 284 e 283 do STF impedem o conhecimento do recurso especial.
+Alega o agravante o seguinte: (a) no que importa à Área I, não busca o reexame da questão a partir da análise de fatos e provas, pois são questionadas apenas as conclusões jurídicas decorrentes da aplicação do direito a situações de fato descritas no acórdão recorrido, a fim de que sejam requalificadas juridicamente; e, (b) quanto à Área II, não há falar na incidência das Súmulas 284 e 283 do STF, pois apontou expressamente que, independentemente da destinação dada ao imóvel pela União, ela deve indenizar o IBO pelo tempo que o ocupa indevidamente, ou seja, sem justo título (CC, art. 582). No mais, reitera a existência de dissídio jurisprudencial com julgado desta Corte (REsp 1327627/RS). Por fim, questionam a imposição de honorários de sucumbência sob o argumento de que não há condenação sua a ser majorada.
+Houve impugnação.
+É o relatório. Passo a decidir.
+Com razão o agravante.
+Conforme resumido na decisão agravada, o IBO, ora agravante ajuizou a demanda de que decorre o presente recurso especial com o objetivo de anular o ato administrativo de rescisão de contrato de aforamento e obter a reintegração da posse da área objeto de contrato de comodato, ademais de área de 291,91 m2 (denominada Área II, que compreende parte de dois pavimentos de um prédio), bem assim o pagamento de indenização pelo uso das áreas em questão.
+O acórdão recorrido manteve a sentença na parte em que restaurara o contrato de rescisão e rejeitara os pleitos indenizatórios, decotando-a somente na parte em que determinara a continuidade dos contratos de comodato.
+No presente recurso, discute o recorrente somente os pleitos indenizatórios, e nada mais.
+Ademais, consta do acórdão recorrido que (i) a ora agravante (IBO) recebeu o domínio útil do terreno da marinha por meio do Decreto-lei 5.970/1943 (ato de aforamento); que, (ii) em agosto de 1973, o IBO cedeu o imóvel ao Instituto Nacional de Previdência Social - INPS; que (iii) em abril de 1984, o comodato foi realizado com o órgão que sucedera o INPS, qual seja, Instituto Nacional de Assistência Médica da Previdência Social - INAMPS, pelo prazo de vinte anos; que (iv) o INAMPS foi extinto em julho de 1993, mas o Instituto Nacional do Câncer - INCA o sucedeu no comodato, funcionando atualmente o Hospital do Câncer II; que, (v) ao término do comodato, o IBO se manifestou pela renovação do ajuste, porém, exigiu que uma área extra ocupada pelo INCA, fosse objeto de contrato de locação; e, (vi) como não houve acordo, a questão foi judicializada (fls. 1639/1641-e).
+Pois bem.
+No que importa à Area I, a decisão agravada foi no sentido do não conhecimento do recurso em razão da incidência da Súmula 7/STJ, pois consta do acórdão recorrido informação de que a própria recorrente manifestara desejo de renovar o contrato de comodato, não havendo configuração de esbulho ou circunstância reveladora de constituição em mora do comodatário.
+Ocorre que tem razão a agravante quanto à não incidência da Súmula 7/STJ. Ora, se comodato não foi renovado em razão de desacordo quanto a elementos essenciais do contrato, o comodatário está constituído em mora, devendo pagar a indenização pleiteada.
+Não há, nessas circunstâncias, necessidade de nova apreciação de matéria fática, pois incontroverso que não foi renovado o comodato e que a comodatária está em mora, devendo pagar aluguel pelo uso do espaço. Ou seja, equivoca-se a Corte Regional em exigir maiores formalidades para a configuração do esbulho.
+Nesse sentido, a jurisprudência desta Corte:
+DIREITO CIVIL. RECURSO ESPECIAL. COMODATO POR PRAZO INDETERMINADO. BOTIJÕES DE GÁS. NOTIFICAÇÃO EXTRAJUDICIAL. RESTITUIÇÃO DOS BENS EMPRESTADOS. EXTRAVIO. CONVERSÃO EM PERDAS E DANOS. MORA DO COMODATÁRIO. ALUGUEL.
+1. Ação ajuizada em 26/02/2009. Recurso especial interposto em 21/09/2016. Julgamento: aplicação do CPC/15.
+2. No contrato de comodato por prazo indeterminado, incorre o comodatário em mora quando, apesar de devidamente interpelado pelo comodante, não providencia a restituição do bem emprestado.
+3. Constituído em mora, sujeita-se o comodatário ao pagamento de aluguel arbitrado unilateralmente pelo comodante, nos termos do art. 582 do CC/02, ainda que a obrigação principal de restituição da coisa seja posteriormente convertida em perdas e danos, devido ao extravio dos bens objeto do contrato.
+4. Nessa hipótese, o aluguel é exigível pelo período compreendido entre a constituição do comodatário em mora e o efetivo adimplemento da indenização.
+5. Recurso especial conhecido e provido.
+(REsp n. 1.662.045/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/9/2017, DJe de 14/9/2017.)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. COMODATO. MORA DO COMODATÁRIO EM RESTITUIR O IMÓVEL EMPRESTADO. FIXAÇÃO UNILATERAL DE ALUGUEL PELO COMODANTE. POSSIBILIDADE DESDE QUE NÃO OCORRA ABUSO DE DIREITO. REVISÃO DA SUCUMBÊNCIA. PREJUDICADO O PEDIDO RELATIVO À COMPENSAÇÃO DE HONORÁRIOS ADVOCATÍCIOS (SÚMULA 306/STJ).
+1. Constituído em mora o comodatário para a restituição do imóvel emprestado, fica ele obrigado ao pagamento de aluguel arbitrado unilateralmente pelo comodante.
+2. O arbitramento, embora não deva respeito à média do mercado locativo, deve ser feito com razoabilidade, respeitando o princípio da boa-fé objetiva, para evitar a ocorrência de abuso de direito e do enriquecimento sem causa do comodante.
+3. Razoável o arbitramento do aluguel pelo comodante em valor inferior ao dobro da média do mercado locativo.
+4. Com o acolhimento integral da pretensão da parte autora, prejudicados os pedidos de revisão da sucumbência e de compensação da verba honorária (Súmula 306/STJ).
+5. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.175.848/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/9/2012, DJe de 26/9/2012.)
+Nesses termos, o recurso especial deve ser provido desde logo no ponto, em aplicação da Súmula 568/STJ.
+Por outro lado, quanto à Area II, é inequívoco nos autos que se trata de imóvel construído pelo IBO (fl. 1642-e) e que foi utilizado pelo INCA, independentemente de não constar do contrato de comodato.
+Nessas circunstâncias, com razão o agravante quando sustenta que o recurso se encontra suficientemente fundamentado, pois apontada violação ao art. 582 do CC/2002 e demonstrado o direito ao pagamento de aluguel pela ocupação irregular do imóvel pelo INCA.
+Assim, cumpre afastar a incidência das Súmulas 284 e 283 do STF para conhecer e prover o recurso especial pela mesma fundamentação utilizada quanto à Área I.
+Em suma, relativamente às Áreas I e II, deverão os réus indenizar a parte autora pela ocupação do imóvel desde o término do último contrato de comodato, valores que deverão ser fixados por arbitramento.
+Ante o exposto, reconsidero a decisão agravada para, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conhecer do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. BEM PÚBLICO. AFORAMENTO. COMODATO DE INSTALAÇÃO HOSPITALAR. PLEITOS INDENIZATÓRIOS. AGRAVO INTERNO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA PARA QUE, SUPERADOS OS ÓBICES AO CONHECIMENTO DO RECURSO, SEJA PROVIDO O RECURSO ESPECIAL, UMA VEZ CONHECIDO DO AGRAVO.
