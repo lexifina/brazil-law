@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinário com pedido de liminar interposto por LEANDRO HENRIQUE SILVA DE AQUINO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.23.288923-8/000).
+Infere-se dos autos que o recorrente foi preso preventivamente, em 14/9/2023, pela suposta prática dos delitos previstos nos arts. 33 e 35 d a Lei n. 11.343/2006.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 45/46):
+EMENTA: HABEAS CORPUS -TRÁFICO DE DROGAS - ASSOCIAÇÃO PARA O TRÁFICO - AUSÊNCIA DE PROVAS DA MATERIALIDADE E DAAUTORIADELITIVAS-VIOLAÇÃO DE CORRESPONDÊNCIA DOS DETENTOS - ILICITUDE DAS PROVAS - NÃO DEMONSTRAÇÃO DE PLANO - EXAME PROFUNDO DE PROVAS - VIA INADEQUADA -AUSÊNCIA DE AUDIÊNCIA DE CUSTÓDIA - IRREGULARIDADE CONSTATADA - NECESSIDADE DE REALIZAÇÃO DO ATO - EXCESSO DE PRAZO - NÃO CONFIGURADO -DENÚNCIA OFERECIDA - PRISÃO PREVENTIVA - DECISÃO DE INDEFERIMENTO DA REVOGAÇÃO -NULIDADE - AUSÊNCIA DE FUNDAMENTAÇÃO - INOCORRÊNCIA --ORDEM PARCIALMENTE CONCEDIDA PARA DETERMINAR A REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA.
+-Ao suscitar as teses de negativa de autoria e nulidade das provas obtidas por acesso aos dados contidos no aparelho celular apreendido no estabelecimento prisional, a impetração pretende uma inviável análise profunda da prova dos autos, atividade imprópria aos estritos limites cognitivos do writ. Não bastasse, os documentos do inquérito policial evidenciam a existência de lastro probatório mínimo a sustentar o decreto prisional, nos termos do artigo 312 do CPP, ao passo que o entendimento dos Tribunais Superiores é no sentido de que a administração penitenciária poderá proceder a interceptação dedados e comunicações constantes em aparelhos celulares encontrados ilicitamente dentro do estabelecimento penal, com fundamento em razões de segurança pública, disciplina prisional e preservação da ordem pública.
+-A realização da audiência de custódia é imprescindível em qualquer modalidade de prisão. Trata-se de direito subjetivo do preso, cuja finalidade precípua é a aferição, por parte da autoridade judiciária, acerca da regularidade da prisão e da integridade física e psíquica do custodiado, bem como a persistência dos fundamentos que motivaram a excepcional restrição à liberdade do indivíduo e a ocorrência de eventual tratamento desumano ou degradante durante o cumprimento da ordem prisional. Contudo, a obrigatoriedade da audiência de custódia não enseja o reconhecimento automático da nulidade da prisão, mas sim a necessidade de realização do ato, mesmo que a destempo, conforme determinações das Cortes Internacionais e do próprio Supremo Tribunal Federal.
+-Sabe-se que os prazos não são fatais, improrrogáveis, admitindo-se exceções de acordo com as peculiaridades de cada caso e atendendo aos princípios da razoabilidade e da proporcionalidade. Ademais, com o oferecimento da denúncia, e diante da ausência de demonstração de morosidade oriunda da inércia dos órgãos da justiça pública, resta afastada a alegação de excesso de prazo.
+-Presentes os motivos da prisão preventiva elencados no artigo312 do CPP, deve ser mantida a decisão que manteve a constrição cautelar do paciente, pois devidamente fundamentada, à guisa da fundamentação per relationem, na garantia da ordem pública.
+-Ordem parcialmente concedida para determinar a realização da audiência de custódia no prazo de 24 horas.
+No presente recurso ordinário, a defesa alega ausência de indícios suficientes de autoria e falta de fundamentação idônea da custódia cautelar.
+Sustenta, ademais, cerceamento de defesa e ocorrência de nulidade em face da não realização da audiência de custódia, nos termos legais, ato imprescindível à tutela de direitos fundamentais.
+Aduz, ainda, excesso de prazo para a formação da culpa.
+Requer, liminarmente e no mérito, a revogação da custódia preventiva.
+É o relatório.
+Decido.
+O recurso não merece conhecimento.
+Isso, porque o presente recurso ordinário foi interposto diretamente no Superior Tribunal de Justiça (e-STJ fl. 857). Ora, a interposição do recurso ordinário em habeas corpus deve ser feita no Tribunal prolator do acórdão impugnado, órgão que remeterá o feito a esta Corte Superior.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE VIOLAÇÃO. RECURSO ORDINÁRIO EM HABEAS CORPUS NÃO CONHECIDO. INTERPOSIÇÃO DIRETAMENTE PERANTE O SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em violação ao princípio da colegialidade na decisão proferida nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça - RISTJ que dispõe que cabe ao relator, em decisão monocrática, "não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida", lembrando, ainda, a possibilidade de apreciação pelo órgão colegiado por meio da interposição do agravo regimental.
+2. É entendimento predominante de que o recurso ordinário deve ser interposto perante o Tribunal de origem para posterior remessa ao Superior Tribunal de Justiça. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 188.149/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023, grifei.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRETENSÃO DE RECONHECIMENTO DE NULIDADE. RECURSO INTERPOSTO DIRETAMENTE NESTA CORTE, SEM PROCURAÇÃO NOS AUTOS. PLEITO, ADEMAIS, DE RECONHECIMENTO DE NULIDADE PENDENTE DE APRECIAÇÃO, PELO TRIBUNAL, POR MEIO DO RECURSO CABÍVEL (APELAÇÃO CRIMINAL). IMPOSSIBILIDADE DE INTERPOSIÇÃO SIMULTÂNEA DE APELAÇÃO E DE HABEAS CORPUS SOBRE O MESMO TEMA.
+1. Deve ser mantida a decisão monocrática que não conhece do recurso ordinário em habeas corpus, interposto diretamente no Superior Tribunal de Justiça e por advogado sem procuração nos autos, em que as razões se limitam a atacar atos do Juízo de primeiro grau, sem apontar o ato coator do Tribunal de origem.
+2. Existência, ademais, de apelação pendente de julgamento sobre o mesmo tema alegado na inicial, o que impede o exame por meio de habeas corpus impetrado nesta Corte ou no Tribunal estadual.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 124.470/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/6/2020, DJe de 18/6/2020, grifei.)
+Diante do exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
