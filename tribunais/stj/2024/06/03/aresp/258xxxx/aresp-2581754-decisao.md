@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GR LOGÍSTICA TRANSPORTES ESPECIAIS LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial: 26/01/2024.
+Concluso ao gabinete: 24 /05/2024.
+Ação: indenizatória ajuizada por GR LOGÍSTICA TRANSPORTES ESPECIAIS EIRELI em desfavor de JOSAPAR JOAQUIM OLIVEIRA SA PARTICIPAÇÕES.
+Sentença: Julgou parcialmente procedentes os pedidos iniciais, para condenar a parte ré ao pagamento da indenização no valor de R$ 9.600,00 corrigido, pelo IGP-M desde cada contrato de afretamento, observados seus valores individualizados, e com incidência de juros de mora simples de 1% ao mês a contar da citação.
+Acórdão: deu provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. TRANSPORTE. VALE PEDÁGIO. LEIS 10.209/2001 E14.229/2021. AUTOR QUE NÃO SE DESINCUMBIU DE COMPROVAR, COMO EXIGE O ART 373, INC. I, DO CPC, O DIREITO ALEGADO. INDEMONSTRADO TENHA TRAFEGADO POR RODOVIAS PEDAGIADAS E QUE TENHA DISPENDIDO VALORES PARA CRUZAR PRAÇAS DEPEDÁGIO. JURISPRUDÊNCIA DO STJ E DESTE ÓRGÃO FRACIONÁRIO UNÍSSONA NO SENTIDO DA IMPERATIVA DEMONSTRAÇÃO, COM DOCUMENTAÇÃO IDÔNEA, DO ALEGADO DESCUMPRIMENTO DALEGISLAÇÃO INCIDENTE À ESPÉCIE. SENTENÇA REFORMADA. RECURSO PROVIDO." (e-STJ fl. 186)
+Recurso especial: alegou ofensa aos arts. 2º, 3º e 8º, da Lei 10.209/2001, sustentando a inexistência de qualquer requisito legal no sentido de apresentação de recibos do pagamento das tarifas de pedágio para fins de recebimento da indenização relativa ao vale-pedágio, ora pleiteada, sendo imposto requisito não reconhecido na Lei que estipulou a indenização, de forma a infringi-la e causar prejuízo descabido à ora agravante.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela parte agravante foi inadmitido com base na incidência da Súmula 7 do STJ, 282 e 356/STF.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica todos os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Especificamente quanto à Súmula 7/STJ, é de se ressaltar, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a sua revaloração ou a correta aplicação da legislação que entende violada.
+Deve também ser demonstrada a efetiva desnecessidade do reexame, na hipótese em que o Tribunal de origem declara que "outra não é a conclusão senão a de que a reforma do acórdão(e-STJ Fl.384)Documento recebido eletronicamente da origem
+recorrido com a desconstituição de suas premissas, nos termos em que pretendida, demanda necessária incursão no conjunto fático-probatório dos autos, o que, contudo, é vedado em âmbito de recurso especial, a teor do enunciado 7 da Súmula do Superior Tribunal de Justiça" (e-STJ, fls. 384/385), o que não foi feito, sendo trazidas apenas alegações genéricas sobre a inaplicabilidade da referida Súmula, e repisados, no mais, os mesmos argumentos acerca de sua irresignação.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento) sobre o valor atualizado da causa (e-STJ, fl. 185), para 16%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
