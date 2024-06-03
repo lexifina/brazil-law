@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a", da Constituição Federal de 1988, contra acórdão assim ementado:
+PRESTAÇÃO DE SERVIÇOS. DESCARGA ELÉTRICA. AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS. APLICAÇÃO DO CDC. Sentença de improcedência. Apelo da seguradora. Competência territorial da 20ª Vara Cível do Foro Central da Comarca de São Paulo confirmada. Danos em bens do segurado pela autora causados por descarga elétrica. Desnecessidade de requerimento administrativo (Art.5º, XXXV, CF). Responsabilidade objetiva da concessionária ré. (art. 37, § 6º, CF). Aplicação do CDC. Excludentes de responsabilidade não demonstradas (art. 14, § 3.º, CDC). Ré que não se desincumbiu do ônus de comprovar fatos impeditivos, modificativos ou extintivos do direito da autora (art. 373, II, CPC). Existência de nexo de causalidade entre a conduta da ré e os danos verificada. Dever de proteção do consumidor inerente à atividade econômica desenvolvida pela concessionária ré. Ressarcimento devido. Pedido julgado procedente. Sentença reformada. RECURSO PROVIDO.
+Os Embargos de Declaração foram rejeitados.
+A recorrente alega ofensa aos arts. 46 e 53, IV, "a", do CPC; 349 e 786 do CC; e 101, I, do CDC. Aduz:
+(..) Assim, se o direito de indenização vindicado pertence à ELIEL DE FREITAS DA LUZ E FERNANDO ANTONIO ALVES, somente essas pessoas podem, eventualmente, propor suas respectivas ações em seus domicílios.
+Como ELIEL DE FREITAS DA LUZ E FERNANDO ANTONIO ALVES possuem, segundo documentos da inicial (apólice de seguro) domicílio nas cidades de Telêmaco Borba/PR e Toledo/PR, eles jamais poderiam promover suas demandas em São Paulo/SP, pois, nenhuma relação tem São Paulo/SP com o domicílio de Telêmaco Borba/PR e Toledo/PR (titulares do direito) ou mesmo com os fatos: (..)
+Contrarrazões às fls. 359-367.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24 de maio de 2024.
+Cuida-se, na origem, de Ação Regressiva por meio da qual a autora/seguradora pretende ser ressarcida da indenização paga referente a danos experimentados por alegada oscilação de energia elétrica nas unidades consumidoras.
+A recorrente alega incompetência do foro de São Paulo, uma vez que os segurados residem no Estado do Paraná.
+A irresignação não merece prosperar.
+A Corte local, ao enfrentar a controvérsia, consignou:
+A autora ajuizou demanda regressiva visando ao ressarcimento da importância de R$ 2.106,99 que desembolsou para pagamento dos segurados, ELIEL DE FREITAS DA LUZ e FERNANDO ANTONIO ALVES, em virtude dos danos materiais por eles suportados (danos elétricos), decorrentes de alegada falha na prestação de serviço de fornecimento de energia prestado pela ré (variações de tensão na rede elétrica), conforme vistoria. Insiste na inversão do ônus da prova e na responsabilidade objetiva da ré, conforme dispõe a legislação consumerista.
+(..)
+Sobreveio, então, a r. sentença (fls. 201/204), julgando improcedente o pedido.
+Data venia, a r. sentença merece reforma.
+É de observar que, ao caso, aplicam-se as regras do Código de Defesa do Consumidor uma vez que sub-rogada a seguradora autora nos direitos de seu segurado (art. 786, CC/2002), a ela se transferem todas as prerrogativas que ele, consumidor, ostentava perante a concessionária de fornecimento de energia elétrica ré, nos termos do art. 349 do Código Civil de 2002.
+(..)
+Esta Corte já firmou entendimento de que, ao efetuar o pagamento da indenização ao segurado em decorrência de danos causados por terceiro, a seguradora sub-roga-se nos direitos daquele, podendo, dentro do prazo prescricional aplicável à relação jurídica originária, buscar o ressarcimento do que despendeu, nos mesmos termos e limites que assistiam ao segurado. Não se desconhece, outrossim, que a seguradora ao sub-rogar-se nos direitos e ações que competiriam ao segurado contra o autor do dano, faz jus à aplicação de todos os institutos do CDC, evidentemente, quando no caso da relação originária ser configurada como de consumo (STJ, AgRg no REsp 1169418/RJ, 3ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, j. em 06/02/2014).
+A escolha do foro de propositura da ação constitui prerrogativa do consumidor, ao qual é garantido o direito de propor a demanda no foro de seu domicílio, consoante dispõe expressamente o art. 101, I, do CDC.
+(..) Portanto, mantém-se o feito em trâmite perante a 20ª Vara Cível, do Foro Central desta Capital e fica prejudicada a análise de incompetência absoluta.
+(..)
+Contudo, ressalte-se que este relator entende ser inaplicável à espécie o enunciado da Súmula n.º 54 do C. STJ, uma vez que não se trata de responsabilidade extracontratual. Existe relação contratual entre o segurado e a fornecedora de energia elétrica, que se configura como relação de consumo sujeita, portanto, ao Código de Defesa do Consumidor, se estendendo à Seguradora em razão da sub-rogação, ex vi do disposto no art. 786, "caput", do Código Civil, impondo a aplicação de juros de mora contados a partir da citação, ex vi do art. 405 do Código Civil.
+Em suma, portanto, o recurso merece ser provido para julgar procedente o pedido e condenar a ré a pagar à autora a quantia de R$ 2.106,99, corrigida monetariamente pela Tabela Prática deste TJSP desde o desembolso e com juros de mora de 1% ao mês, desde a citação.
+Na hipótese dos autos, o entendimento do Colegiado a quo está em consonância com a orientação do STJ, no sentido de que, tratando-se de consumidor, há plena incidência do Código de Defesa do Consumidor, agindo a seguradora como consumidora por sub-rogação, exercendo direitos, privilégios e garantias do seu segurado/consumidor. A propósito:
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. SEGURADORA CONTRA O CAUSADOR DO DANO. SUB-ROGAÇÃO NOS DIREITOS DO SEGURADO. PRAZO DE PRESCRIÇÃO APLICÁVEL À RELAÇÃO JURÍDICA ORIGINÁRIA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme reiteradas decisões desta Corte, ao efetuar o pagamento da indenização ao segurado em decorrência de danos causados por terceiro, a seguradora sub-roga-se nos direitos daquele, nos limites desses direitos, ou seja, não se transfere à seguradora mais direitos do que aqueles que o segurado detinha no momento do pagamento da indenização. Assim, dentro do prazo prescricional aplicável à relação jurídica originária, a seguradora pode buscar o ressarcimento do que despendeu com a indenização securitária.
+2. Conforme reiteradas decisões desta Corte, ao efetuar o pagamento da indenização ao segurado em decorrência de danos causados por terceiro, a seguradora sub-roga-se nos direitos daquele, nos limites desses direitos, ou seja, não se transfere à seguradora mais direitos do que aqueles que o segurado detinha no momento do pagamento da indenização. Assim, dentro do prazo prescricional aplicável à relação jurídica originária, a seguradora pode buscar o ressarcimento do que despendeu com a indenização securitária.
+3. Infirmar as conclusões do acórdão recorrido para reconhecer a suposta violação aos artigos 186, 732, 750 e 927, do Código Civil, e, para afastar o dever de indenizar da Recorrente, se mostra inviável, pois demandaria o revolvimento de fatos e provas, o que é vedado pelo enunciado da Súmula 7 desta Corte.
+4. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+5. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo interno, argumentos aptos a modificar a decisão agravada, que deve ser mantida, pois seus fundamentos não foram infirmados.
+6. Agravo interno não provido.
+(AgInt no REsp 1.865.798/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15/12/2020.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS MATERIAIS (..). SUB-ROGAÇÃO. PRESCRIÇÃO. PRAZO DA RELAÇÃO ORIGINÁRIA.
+(..) 5. Nos contratos de seguro de dano, o segurador, ao pagar a indenização decorrente do sinistro, sub-roga-se nos direitos e ações que competirem ao segurado contra o causador do dano, consoante a literal disposição do art. 786, caput, do CC/02. Cuida-se, assim, de hipótese de sub-rogação legal, que se opera independentemente da vontade do segurado ou do terceiro responsável pelo dano.
+6. A jurisprudência desta Corte já decidiu que "o prazo prescricional para os danos decorrentes do inadimplemento de contrato de transporte aéreo de mercadoria é aquele fixado pelo Código Civil".
+7. Sub-rogando-se a seguradora nos direitos do segurado, o prazo de prescrição da ação contra a seguradora para cobrar a indenização será o mesmo estabelecido para a ação que poderia ter sido manejada pelo titular originário dos direitos.
+8. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.745.642/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 22/2/2019.)
+DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO REGRESSIVA. EXTRAVIO DE BAGAGEM. TRANSPORTE AÉREO NACIONAL (DOMÉSTICO). SEGURADORA CONTRA O CAUSADOR DO DANO. PRAZO PRESCRICIONAL. SUB-ROGAÇÃO NOS DIREITOS DO SEGURADO. APLICAÇÃO DO CDC. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA AFASTADA.
+1. Ação ajuizada em 22/01/2015. Recurso especial concluso ao gabinete em 05/12/2016. Julgamento: CPC/73.
+2. O propósito recursal é determinar se está prescrito o direito da seguradora recorrente em ajuizar ação regressiva de ressarcimento de danos contra empresa aérea, tendo em vista extravio de bagagem de passageira.
+3. Na hipótese sob julgamento, a passageira que teve sua bagagem extraviada não buscou a reparação diretamente da companhia aérea que prestou deficientemente seu serviço, mas da seguradora recorrente, tendo por base o contrato de seguro-viagem e bagagem firmado com instituição financeira aos titulares do cartão de crédito American Express, que por meio dele realizam a compra da passagem aérea.
+4. Com o advento do Código Civil de 2002, a possibilidade de sub-rogação da seguradora nos direitos e ações que couberem ao segurado contra o causador do dano tornou-se incontestável, consoante a literal disposição do art. 786, caput, do mencionado diploma.
+5. Partindo-se da premissa de que a seguradora recorrente promoveu o pagamento da indenização securitária à passageira (titular do cartão de crédito) pelo extravio de sua bagagem, é inegável que esta sub-rogou-se nos direitos da segurada, ostentando as mesmas prerrogativas para postular o ressarcimento pelo prejuízo sofrido pela própria passageira.
+6. Dentro do prazo prescricional aplicável à relação jurídica originária, a seguradora sub-rogada pode buscar o ressarcimento do que despendeu com a indenização securitária, nos mesmos termos e limites que assistiam ao segurado. Precedentes.
+7. Sob o prisma em que analisada a questão, pode-se concluir que: i) está configurada a relação de consumo entre passageira e a companhia aérea; ii) foi paga indenização securitária pela seguradora à passageira; e iii) houve sub-rogação daquela nos direitos do próprio consumidor lesado, de modo que o prazo prescricional aplicável será o mesmo previsto para este, isto é, o de 5 (cinco) anos, previsto no art. 27 do CDC.
+8. Afasta-se a multa do parágrafo único do art. 538 do CPC quando não se caracteriza o intuito protelatório na oposição dos embargos de declaração.
+9. Recurso especial conhecido e provido.
+(REsp 1.651.936/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 13/10/2017; negritei.)
+RECURSO ESPECIAL. CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. RESPONSABILIDADE CIVIL. (..). AÇÃO REGRESSIVA DA SEGURADORA. EXCLUDENTE DA RESPONSABILIDADE CIVIL. CONSUMIDORA POR SUB-ROGAÇÃO (SEGURADORA).
+1. Ação de regresso movida por seguradora contra restaurante para se ressarcir dos valores pagos a segurado, que teve seu veículo roubado quando estava na guarda de manobrista vinculado ao restaurante (valet).
+2. Legitimidade da seguradora prevista pelo artigo 349 do Código Civil/2002, conferindo-lhe ação de regresso em relação a todos os direitos do seu segurado.
+3. Em se tratando de consumidor, há plena incidência do Código de Defesa do Consumidor, agindo a seguradora como consumidora por sub-rogação, exercendo direitos, privilégios e garantias do seu segurado/consumidor.
+4. A responsabilidade civil pelo fato do serviço, embora exercida por uma seguradora, mantem-se objetiva, forte no artigo 14 do CDC.
+(..)
+8. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.321.739/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 5/9/2013, DJe de 10/9/2013.)
+Registre-se que o "Recurso Especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ" (AgRg no AREsp 354.886/PI, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 11/5/2016).
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
