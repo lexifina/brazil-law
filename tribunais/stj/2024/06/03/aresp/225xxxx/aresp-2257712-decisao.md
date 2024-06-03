@@ -1,0 +1,29 @@
+DECISÃO
+MANOEL SILVA COSTA agrava da decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás no Recurso em Sentido Estrito n. 0302551-64.2013.8.09.0011.
+Nas razões do recurso especial, a defesa aponta violação do art. 121, § 2º, II e IV, do CP, ao argumento, em síntese, de que as qualificadoras acrescidas pelo Tribunal a quo na decisão de pronúncia, seriam manifestamente incabíveis.
+Quanto à qualificadora do motivo fútil, aduz que a ocorrência de prévia discussão entre o acusado e o ofendido impediria o seu reconhecimento. Acrescenta que "as circunstâncias que não integram objetivamente o crime não se estendem ao consorte sob pena de responsabilidade objetiva e solidária" (fl. 800).
+No que se refere ao recurso que dificultou a defesa vítima, sustenta que, diante da desavença que havia entre o réu e o ofendido, não haveria falar em meio análogo à traição, emboscada ou dissimulação.
+Alega que "não poderia ser culpabilizado por circunstâncias a qual não há a adesão de sua vontade" (fl. 801). Afirma que "a própria acusação entendeu pela não comunicabilidade, que somente foi modificada em alegações finais pelo parquet, sem que houvesse o efetivo aditamento da denúncia" (fl. 801).
+Requer o provimento do recurso, a fim de que sejam reconhecidas as violações apontadas e, em consequência, afastadas as qualificadoras do motivo fútil e do recurso que dificultou a defesa da vítima.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal de origem (fls. 827-829) e o Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 861-863).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, este não comporta conhecimento, conforme a seguir delineado.
+II. Contextualização
+Infere-se dos autos que o recorrente foi denunciado como incurso no art. 121, § 2º, II e IV, do CP.
+Encerrada a primeira fase do procedimento do Júri, o acusado foi pronunciado, oportunidade na qual o Magistrado de primeiro grau afastou as qualificadoras indicadas pelo órgão de acusação na incoativa.
+Inconformadas, as partes interpuseram recurso em sentido estrito, tendo o Tribunal estadual negado provimento ao da defesa e provido o da acusação, para incluir as qualificadoras previstas nos incs. II e IV do § 2º do art. 121 do CP.
+III. Violação do art. 121, § 2º, II e IV, do CP
+O Magistrado de origem afastou a qualificadora do motivo fútil, pois entendeu que esta "não se relaciona com o réu MANOEL, pois não há informações de que ele tenha aderido à motivação do atirador" (fl. 656). Da mesma forma, ao afastar o recurso que dificultou a defesa da vítima concluiu "que a ação repentina do atirador, que ocasionou surpresa nas vítimas e impossibilitou suas defesas, não se comunica com o réu MANOEL" e acrescentou: "a acusação que pesa sobre o mesmo, de participação, não comporta em atrair para si a ação repentina de outrem" (fl. 659).
+O Tribunal estadual, por sua vez, incluiu, na decisão de pronúncia, as referidas qualificadoras. Quanto ao recurso que dificultou a defesa da vítima, apontou que esta "é de caráter objetivo, portanto, comunica-se a Manoel, partícipe - numa interpretação a contrário sensu do art. 30 do Código Penal -, desde que a circunstância tenha ingressado na sua esfera de conhecimento, aspecto que deve ser avaliado pelo Corpo de Jurados" (fl. 781, destaquei). No que concerne à qualificadora do motivo fútil, indicou que "a prova indica que Manoel tinha ciência dos motivos do crime, máxime porque também envolveu-se na discussão com as vítimas, antes do delito" (fl. 781, grifei).
+Pela leitura das razões do recurso especial, verifico que a defesa não refutou os fundamentos do aresto recorrido no que tange à qualificadora do motivo fútil. De fato, a defesa se limita a argumentar que a existência de prévia discussão entre o acusado e o ofendido impediria o reconhecimento da aludida qualificadora.
+Assim, nesse particular, aplica-se do óbice da Súmula n. 284 do STF.
+Ilustrativamente: "Não atacado o fundamento do aresto recorrido, evidente a deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n.º 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, 5ª T., DJe 24/8/2018) e "Aplicável o óbice da Súmula n. 284 do STF, uma vez que as razões recursais delineadas no especial não impugnaram, de forma suficiente, os fundamentos do acórdão recorrido" (AgInt no AREsp n. 1.847.035/SP, Rel. Ministro Francisco Falcão, 2ª T., DJe 1º/10/2021).
+Em relação ao recurso que dificultou a defesa da vítima, melhor sorte não assiste ao insurgente, senão vejamos.
+Além de a parte sustentar a impossibilidade do reconhecimento da indigitada qualificadora, diante de intensa desavença entre os envolvidos - tese que não foi objeto de análise por nenhuma das instâncias antecedentes -, afirmou que haveria sido reconhecida, em relação a si, a ausência de adesão à vontade do atirador.
+Pela análise do acórdão recorrido, constata-se que o Tribunal estadual concluiu não ser manifestamente improcedente a qualificadora em tela, porquanto, em razão de seu caráter objetivo, se comunica ao partícipe caso haja ingressado na sua esfera de conhecimento, "aspecto que deve ser avaliado pelo Corpo de Jurados". Ou seja, a competência para analisar se a circunstância em questão haveria ou não entrado na esfera de conhecimento do agente é do Conselho de Sentença, fundamento que não foi, efetivamente, refutado na peça recursal.
+Diante de tal cenário, outra solução não há, senão reconhecer a incidência da Súmula n. 284 do STF também em relação a este ponto.
+IV. Dispositivo
+À vista do exposto, conheço do agravo pra não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
