@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE NEXO CAUSAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência do STJ, a responsabilidade objetiva da instituição financeira em decorrência de falha na prestação do serviço não afasta o dever de comprovação do dano e do nexo causal entre o dano sofrido e o serviço tido como falho. Precedentes.
+2. Na espécie, o Tribunal de origem, à luz da prova dos autos, afastou a responsabilidade da instituição financeira pela falha na prestação do serviço ante a ausência de nexo causal e configuração de culpa exclusiva da vítima.
+3. Modificar o entendimento a que chegou o Tribunal de origem e concluir pela responsabilidade da instituição financeira requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por JOSE ALBERTO CALIANI e VIVIANE MARIZ OMAR contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 244):
+Anulatória de débito e indenização por danos morais Fraude em movimentação bancária - Defeito ou falha na prestação de serviços pelo banco - Não reconhecimento - Relação de causalidade - Regra de incidência - Artigo 403 do Código Civil - Conduta que não é causa ou concausa eficiente para o resultado - Utilização de cartão bancário com "chip" e "senha" - Limitação de responsabilidade do banco pela prática dos atos vinculados ao serviço que presta "fato do serviço" e "vício do serviço" - Artigo 927 § único do Código Civil e artigos 14 e 20 do CDC -Excludente de obrigação Artigo 14, §3º, inciso II, do CDC -Evento danoso que extrapola os limites da relação objetiva - Inteligência da Súmula 497 do STJ - Inocorrência de "fortuito interno" - Ausência dos pressupostos de incidência - Artigo 393 do Código Civil - Sentença reformada - Ação improcedente - Sucumbência revertida.
+Recurso provido.
+A decisão agravada não conheceu do recurso especial (fls. 384-387).
+Nas razões do agravo interno, aduz o agravante que "não é necessário a reanálise de provas neste caso, mas, sim, de verificar que o E. TJSP, ao proferir o v. acórdão recorrido, infelizmente, cometeu um "erro" ao adotar uma premissa equivocada, no sentido de que a fraude teria se dado por um cartão físico e com uso de chip(a fraude foi via internet)e, portanto, haveria a culpa exclusiva dos Agravantes, que teriam violado o dever de guarda e sigilo do cartão." (fl. 401).
+Sustenta, ainda, que "á um erro de premissa no julgamento do v. acórdão embargado que precisa ser sanado, como bem constou no voto divergente proferido em sede de julgamento dos embargos declaratórios opostos pelos Agravantes, sendo certo que todo o necessário para a análise da afronta aos dispositivos legais suscitados em sede de recurso especial está bem caracterizado e delimitado pelas decisões proferidas pelo Tribunal de Origem. Assim, não há perspectiva que se enverede por suposta afronta ao entendimento sumular deste E. STJ, sendo de rigor, a reapreciação do acolhimento das presentes razões recursais, com o devido provimento do presente agravo interno." (fl. 402)
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou impugnação às fls. 407-418.
+É, no essencial, o relatório.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE NEXO CAUSAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência do STJ, a responsabilidade objetiva da instituição financeira em decorrência de falha na prestação do serviço não afasta o dever de comprovação do dano e do nexo causal entre o dano sofrido e o serviço tido como falho. Precedentes.
+2. Na espécie, o Tribunal de origem, à luz da prova dos autos, afastou a responsabilidade da instituição financeira pela falha na prestação do serviço ante a ausência de nexo causal e configuração de culpa exclusiva da vítima.
+3. Modificar o entendimento a que chegou o Tribunal de origem e concluir pela responsabilidade da instituição financeira requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme demonstrado na decisão agravada e nos termos da jurisprudência do STJ, a responsabilidade objetiva da instituição financeira em decorrência de falha na prestação do serviço não afasta o dever de comprovação do dano e do nexo causal entre o dano sofrido e o serviço tido como falho.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. DANOS MORAIS. CIVIL. CONSUMIDOR. PRESTAÇÃO DE SERVIÇO. FALHA. EMPRÉSTIMO. BANCO. FRAUDE. REEXAME DE PROVAS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), porém, em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+2. Na hipótese, aplica-se o disposto na Súmula nº 7/STJ, tendo em vista que as conclusões do tribunal de origem acerca do mérito da demanda decorreram da análise do conjunto fático-probatório carreado aos autos. O mesmo óbice sumular inviabiliza o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+3. A responsabilidade objetiva da instituição financeira em decorrência de falha na prestação do serviço não afasta o dever de comprovação do dano e do nexo causal entre o dano sofrido e o serviço tido como falho. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.098.615/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/11/2022, DJe de 9/12/2022.)
+No caso dos autos, o Tribunal de origem, à luz da prova dos autos, afastou a responsabilidade da instituição financeira pela falha na prestação do serviço ante a ausência de nexo causal e configuração de culpa exclusiva da vítima.
+É o que se extrai do seguinte trecho do acórdão que julgou os embargos de declaração (fls. 352-353):
+No que tange à matéria novamente deduzida em sede de embargos, o que se constatou é que, seja pelo uso da internet (mobile) ou por meio da utilização do cartão físico, fato é que na hipótese dos autos não se verificou o nexo causal (artigo 403 do Código Civil) a permitir a indenização reclamada (material e moral) uma vez que o evento danoso causa da demanda, extrapola os limites da relação objetiva a que se vincularam as partes, de modo que constou expressamente no v. acórdão:".. É que, vinculada a questão a fraude em transação bancário mediante utilização de cartão bancário, observada a regra dos artigos 186, 187 e 927 do Código Civil e limitação de responsabilidade da instituição financeira pela prática dos atos vinculados ao serviço que presta "fato do serviço" e "vício do serviço"(artigo 927 § único do Código Civil e artigos 14 e 20 do Código de Defesa do Consumidor), ausente a negligência do estabelecimento bancário (inobservância da regra de cuidado e dever de segurança), ausente o nexo causal (artigo 403 do Código Civil) a permitir a indenização reclamada (material e moral) uma vez que o evento danoso causa da demanda, extrapola os limites da relação objetiva a que se vincularam as partes, uma vez que as transações realizadas se deram mediante uso de cartão com "chip" e senha pessoal e intransferível, bem como ocorridas as movimentações antes da solicitação de bloqueio pela titular do cartão..". (fls. 245).
+Isso significa dizer que não há como reconhecer a responsabilidade pretendida (material e moral) ante a ausência de nexo causal.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
