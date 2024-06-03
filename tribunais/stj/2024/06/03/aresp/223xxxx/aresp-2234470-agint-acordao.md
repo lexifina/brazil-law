@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PROVIMENTO NEGADO.
+1. A parte agravante foi intimada do acórdão recorrido em 13/6/2022, a contagem do prazo recursal, em razão disso, teve início em 14/6/2022 e finalizou em 5/7/2022; todavia, o recurso somente foi interposto em 6/7/2022, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso conforme disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por UMBERTO BONINI contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo devido à intempestividade do recurso especial e à ausência de preparo, aplicando a Súmula 187 do Superior Tribunal de Justiça (STJ).
+A parte agravante alega, em suma, que o recurso especial é tempestivo e que o preparo é regular.
+Requer, por fim, o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PROVIMENTO NEGADO.
+1. A parte agravante foi intimada do acórdão recorrido em 13/6/2022, a contagem do prazo recursal, em razão disso, teve início em 14/6/2022 e finalizou em 5/7/2022; todavia, o recurso somente foi interposto em 6/7/2022, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso conforme disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não há, nas razões recursais, argumentação suficiente para alterar a conclusão do julgado.
+A parte agravante foi intimada do acórdão recorrido em 13/6/2022, a contagem do prazo recursal, em razão disso, teve início em 14/6/2022 e finalizou em 5/7/2022; todavia, o recurso somente foi interposto em 6/7/2022, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso segundo disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil (CPC).
+Acrescento, ademais, que a comprovação extemporânea de suspensão do expediente forense obsta o conhecimento do recurso especial. Sobre a necessidade de comprovação no momento da interposição do recurso, esta Corte se posicionou no seguinte sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO. AFERIÇÃO DE TEMPESTIVIDADE. TRIBUNAL DE ORIGEM.
+1. Os Recursos interpostos perante a instância de origem, mesmo que endereçados ao STJ, como é o caso do Agravo em Recurso Especial (art. 1.042, §2º, do CPC/2015), observam o calendário de funcionamento do Tribunal de origem, não podendo utilizar, para todos os casos, feriados e suspensões previstas nas Portarias e/ou no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual.
+2. Para a aferição da tempestividade do Recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+3. A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do Recurso, providência não observada.
+4. Cumpre esclarecer que o Recurso Especial foi interposto perante o Tribunal de Justiça do Estado de São Paulo. Portanto, só as suspensões e os feriados previstos para esse Tribunal estadual poderiam interferir no prazo recursal, ou seja, os prazos dos Recursos interpostos na instância de origem, endereçados ao STJ, obedecem ao calendário de funcionamento do Tribunal local.
+5. Registre-se que o feriado nacional de 2/11/2021 não precisa ser comprovado; porém, os dias 29/10/2021 e 1º/11/2021 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do Recurso.
+6. Agravo Interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.224.684/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZOS NO TRIBUNAL LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTS. 1.003, § 6º, E 1.029, § 3º, DO CPC/2015. PRECEDENTES DO STJ.
+1. A jurisprudência desta Corte é pacífica no sentido de não ser cabível recurso contra decisão que dá provimento a agravo para determinar a sua conversão em recurso especial. Excepcionalmente, o agravo interno é admitido quando flagrante a falta de um dos requisitos formais de admissibilidade do agravo em recurso especial, o que é o caso nestes autos. Precedentes.
+2. A Corte Especial do STJ, interpretando o art. 1.003, § 6º, do CPC/2015, firmou entendimento de que, na vigência do CPC de 2015, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso, sendo inadmissível regularização posterior, salvo no caso de se tratar do feriado da segunda-feira de carnaval para os recursos interpostos até 18/11/2019.
+3. O Superior Tribunal de Justiça possui orientação no sentido de que "o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elid ido" (AgInt no AREsp 1.937.634/GO, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021).
+4. No caso dos autos, a parte recorrente não comprovou, por ocasião da interposição do recurso, o período alegado de suspensão dos prazos processuais na origem, não havendo como se afastar a intempestividade do recurso especial.
+5. "A Corte Especial do STJ, nos autos do AREsp n. 957.821/MS, de relatoria do Ministro Raul Araújo, Relatora para acórdão Ministra Nancy Andrighi, DJe 19/12/2017, firmou entendimento no sentido da impossibilidade de comprovação posterior da tempestividade de recurso interposto na égide do CPC/2015, haja vista a redação do art. 1.003, § 6º, da referida norma, que exige a comprovação da ocorrência de feriado local no ato de interposição do recurso, e porque o § 3º do art. 1.029 impõe, para desconsideração de vício formal, que se trate de "recurso tempestivo"." (AgInt no AREsp n. 2.069.114/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2022.)
+6. Para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Agravo interno provido para não conhecer do agravo em recurso especial em decorrência da intempestividade.
+(AgInt nos EDcl no AREsp n. 1.555.842/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+No que concerne à questão da irregularidade do preparo, é cediço que a intempestividade é vício insanável e intransponível, suficiente para a manutenção da decisão hostilizada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
