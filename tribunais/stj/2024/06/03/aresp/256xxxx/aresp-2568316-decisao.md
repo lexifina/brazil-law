@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pelo DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado nos autos do agravo de instrumento n. 0802105-32.2023.4.05.0000, assim ementado (fls. 40-44):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PREJUDICIAL DE PRESCRIÇÃO DA PRETENSÃO EXECUTIVA REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA ACERCA DA PARIDADE RECONHECIDA ENTRE OS EXEQUENTES DA ATIVA E OS APOSENTADOS.
+1. Agravo de instrumento interposto pela União Federal contra decisão do MM. Juízo Federal da 8ª Vara-CE, que, em cumprimento de sentença, rejeitou a impugnação oferecida pela executada e homologou os cálculos apresentados pela parte exequente, determinando o prosseguimento da execução, com a expedição do requisitório correspondente.
+2. A questão central dos autos diz respeito à possibilidade homologação dos valores apurados pela parte exequente na petição de cumprimento de sentença e determinação de seu pagamento mediante expedição do competente requisitório.
+3. Preliminarmente, rejeito a prejudicial de prescrição, tendo em vista que, ao contrário do que alega a recorrente, o trânsito em julgado da ação ocorreu em 26/01/2017 (certidão de id 4058100.26260624 - fl.1002 dos autos físicos) e não em 16/09/2015, como aduziu o ente público executado. O ajuizamento da execução ocorreu, portanto, dentro do lustro prescricional.
+4. Quanto ao suposto excesso, igualmente sem razão à União, visto que não logrou esclarecer a alegação de que inexiste direito à paridade, por parte dos substituídos Eugênio Felício de Mendonça e Expedito Pereira da Silva.
+5. Considerando ter sido esta a argumentação utilizada pelo magistrado, na decisão recorrida, cumpriria ao agravante declinar os argumentos pelos quais não seriam tais regras de transição aplicáveis aos referidos exequentes.
+6. Agravo de instrumento desprovido.
+Nas razões do apelo nobre, interposto com base na alínea a do permissivo constitucional, a parte recorrente alega ofensa aos arts. 1º, 8º e 9º, do Decreto n. 20.910/1932, ao fundamento de que a pretensão executória encontra-se fulminada pela prescrição, visto que o título executivo transitou em julgado em 16 de setembro de 2015 e "a ação de execução em tela somente fora ajuizada em 2021, portanto, já depois de operada a prescrição da pretensão" (fls. 56-79).
+O recurso especial não foi admitido (fl. 91).
+Foram apresentadas contrarrazões (fls. 83-89).
+O agravo em recurso especial foi interposto às fls. 96-107.
+Contraminuta a fls. 135-139.
+O Parquet Federal opinou pelo desprovimento do agravo (fl. 151).
+É o relatório. Decido.
+Diante da suficiente impugnação do fundamento da decisão de inadmissibilidade, conheço do agravo e passo ao exame do apelo nobre, o qual, contudo, não merece conhecimento.
+No caso, o Tribunal de origem manteve a sentença singular que rejeitou a impugnação ao cumprimento individual de sentença coletiva, nos seguintes termos (fls. 41-42; sem grifos no original), in verbis:
+A questão central dos autos diz respeito à possibilidade homologação dos valores apurados pela parte exequente na petição de cumprimento de sentença e determinação de seu pagamento mediante expedição do competente requisitório.
+Preliminarmente, rejeito a prejudicial de prescrição, tendo em vista que, ao contrário do que alega a recorrente, o trânsito em julgado da ação ocorreu em 26/01/2017 (certidão de id 4058100.26260624 - fl. 1002 dos autos físicos) e não em 16/09/2015 como aduziu o ente público executado em sua impugnação.
+Dessa forma, assim como consignado na decisão agravada, constata-se que o presente cumprimento de sentença foi ajuizado antes de iniciar o prazo prescricional.
+ ..
+Considerando ter sido esta a argumentação utilizada pelo magistrado, na decisão recorrida, cumpriria ao agravante declinar os argumentos pelos quais não seriam tais regras de transição aplicáveis aos referidos exequentes.
+Com essas considerações, nego provimento ao agravo de instrumento.
+É como voto.
+Assim, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte agravante - e que o trânsito em julgado do título exequendo se deu em 2015, e não em 2017, como entendeu o acórdão regional -somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática dos autos, o que é vedado na via estreita do recurso especial, por força da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse diapasão, assim já decidiu esta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO DE CONHECIMENTO . SÚMULA 150/STF. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não padecendo o acórdão de omissão, contradição, obscuridade ou erro material a ensejar o acolhimento da tese de violação do art. 535 do CPC/1973 (atual 1.022 do CPC/2015).
+2. Segundo entendimento desta Corte, o lapso prescricional de cinco anos para se promover a execução contra a Fazenda Pública conta-se da data do trânsito em julgado da sentença condenatória, consoante disposto no art. 1º do Decreto 20.910/1932 e na Súmula 150/STJ.
+3. Na espécie, o acórdão concluiu que não ocorreu a prescrição, tendo em vista que entre o trânsito em julgado da ação coletiva (9/8/2004) e o ajuizamento da presente ação (5/8/2009) não transcorreu o prazo prescricional quinquenal. Para rever tal conclusão, é necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante o óbice contido na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.378.709/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REAJUSTE SALARIAL. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. PRETENSÃO RECURSAL QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DA FUNASA DESPROVIDO.
+1. Os argumentos utilizados pela FUNASA para fundamentar a pretensa violação legal, notadamente no pertinente ao transcurso do prazo de cinco anos para se promover a Execução de sentença contra a Fazenda Pública, somente poderiam ter sua procedência verificada mediante o reexame fático dos autos, a fim de aferir a data do trânsito em julgado da decisão exequenda, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no Acórdão recorrido, reavaliar o conjunto probatório.
+2. Impende destacar que o Tribunal de origem, ao decidir pela inocorrência de prescrição, não fez qualquer menção à data do trânsito em julgado da sentença exequenda ou à data de início da Execução. Dessa forma, o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório dos autos, medida inviável no âmbito do Apelo Nobre, consoante orientação firmada na Súmula 7 do STJ.
+3. Agravo Interno da Funasa desprovido. (AgInt no AgRg no AREsp n. 161.019/AL, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/12/2016, DJe de 2/2/2017.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do CPC/2015.
+Publique-se. Intimem-s e.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ALEGADA PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. TRIBUNAL DE ORIGEM QUE AFASTA A PREJUDICIAL DE PRESCRIÇÃO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
