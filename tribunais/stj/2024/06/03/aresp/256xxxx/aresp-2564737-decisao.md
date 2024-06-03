@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por MAURÍCIO PANZA DA SILVA ALMEIDA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa é a seguinte (e-STJ fls. 319):
+PENAL E PROCESSUAL PENAL. INCÊNDIO MAJORADO. DESCLASSIFICAÇÃO PARA ODELITO DE DANO QUALIFICADO. IMPOSSIBILIDADE. SENTENÇA MANTIDA.1. Impossível a desclassificação da conduta do réu para o delito de dano qualificado, uma vez comprovado o dolo do agente em atear fogo na residência da vítima, sabendo que esse fato causaria perigo a vida, a integridade física ou o patrimônio de outrem.2. Recurso conhecido e desprovido.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 363/373).
+Nas razões do recurso especial (e-STJ fls. 379/392), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 6º, inciso I, e 158-A do CPP e dos artigos 3º e 4º do Decreto-Lei nº 3240/41. Sustenta: (i) a quebra da cadeia de custódia, gerando dúvidas sobre a conclusão do laudo elaborado pela perícia criminal, considerando que não foram preservados por agentes estatais o ambiente e a conservação das coisas que ali estavam; (ii) a desclassificação do delito de incêndio para o crime de dano qualificado, ao argumento de que não teria ficado demonstrado nos autos o perigo a incolumidade pública.
+Apresentadas contrarrazões (e-STJ fls. 398/401, o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 404/405), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 448/452)
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+De início, a questão acerca da ocorrência da quebra da cadeia de custódia, gerando dúvidas sobre a conclusão do laudo elaborado pela perícia criminal, não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282/STF.
+Prosseguindo, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo delito de incêndio (e-STJ fls. 321/327)
+Assim, rever os fundamentos utilizados pela Corte Distrital, para concluir pela desclassificação do delito de incêndio para o crime de dano qualificado, ao argumento de que não teria ficado demonstrado nos autos o perigo à incolumidade pública., como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
