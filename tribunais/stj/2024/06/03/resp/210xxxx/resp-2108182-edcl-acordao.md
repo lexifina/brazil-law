@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, acolher parcialmente os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORIAS. CORREÇÃO MONETÁRIA E JUROS DE MORA. OMISSÃO. CONFIGURAÇÃO.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador.
+2. Na espécie, o acórdão embargado incorreu em omissão, porque, apesar de ter acolhido a pretensão da embargante, não se manifestou sobre os consectários legais da condenação.
+3. Conforme jurisprudência desta Corte, em caso de responsabilidade extracontratual, os juros moratórios fluem a partir do evento danoso (Súmula 54/STJ) e a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento (Súmula 362/STJ), de acordo com a taxa SELIC.
+4. Não caracteriza omissão a ausência de ressalva, no acórdão embargado, quanto à gratuidade da justiça concedida à parte por decisão anterior, quando a questão não é objeto do recurso especial, ressaltando-se que a ausência de menção não revoga o benefício.
+5. Embargos de declaração parcialmente acolhidos para sanar a omissão do acórdão embargado e fixar a incidência, sobre o valor da condenação, de juros de mora a partir do evento danoso e correção monetária desde a data do arbitramento, aplicando-se a taxa SELIC.
+RELATÓRIO
+Relatora: Ministra NANCY ANDRIGHI
+Examina-se embargos de declaração opostos por PATRICIA HELENA CARBONARI DE ALMEIDA contra acórdão que conheceu do recurso especial por ela interposto e deu-lhe parcial provimento, nos termos da seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. COMPETIÇÃO AUTOMOBILÍSTICA. ACIDENTE ENVOLVENDO PILOTO. OMISSÃO DE SOCORRO. AUSÊNCIA DE ENVIO DE AMBULÂNCIA E EQUIPE MÉDICA PRESENTES NO LOCAL. FALTA COM DEVER DE CUIDADO. NEGLIGÊNCIA. DANO MORAL. CONFIGURAÇÃO. TEORIA DA PERDA DE UMA CHANCE. APLICABILIDADE.
+1. Ação de indenização por danos morais, da qual foi extraído o presente recurso especial, interposto em 17/7/2023 e concluso ao gabinete em 16/11/2023.
+2. O propósito recursal é decidir se há responsabilidade civil da empresa organizadora de competição automobilística por deixar de prestar socorro a piloto que sofreu acidente durante o percurso e morreu afogado, após certo período submerso.
+3. A organizadora de competição automobilística, que dispõe de ambulâncias com equipe médica e deixa de enviá-las para socorrer piloto participante que sofreu acidente durante o percurso, pratica ato ilícito pela falta do dever de cuidado esperado, resultando em dano moral, ao frustrar a legítima expectativa de assistência e causar profundo sofrimento e desamparo.
+4. De acordo com a teoria da perda de uma chance, a expectativa ou a chance de alcançar um resultado ou de evitar um prejuízo é um bem que merece proteção jurídica e deve, por isso, ser indenizado.
+Assim, a simples privação indevida da chance de cura ou sobrevivência é passível de ser reparada. Precedentes.
+5. O nexo causal que autoriza a responsabilidade pela aplicação da teoria da perda de uma chance é aquele entre a conduta omissiva ou comissiva do agente e a chance perdida, sendo desnecessário que esse nexo se estabeleça diretamente com o dano final. Precedentes.
+6. Hipótese em que existia chance séria e concreta de que a recorrida, se tivesse enviado a ambulância ao local do acidente de forma imediata, teria conseguido promover o resgate em menor tempo e prestar assistência médica, aumentando significativamente as chances de sobrevida do piloto (marido da recorrente).
+7. Recurso especial conhecido e parcialmente provido para julgar parcialmente procedente o pedido formulado na inicial e condenar a recorrida a pagar à recorrente o valor de R$ 30.000,00, a título de danos morais.
+(e-STJ fls. 751-752)
+Nas razões do presente recurso, a embargante alega a ocorrência de omissão no acórdão embargado por deixar de consignar o termo inicial e os respectivos consectários legais da condenação (correção monetária e juros de mora), bem como por não ter feito ressalva quanto à gratuidade da justiça concedida à embargante.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORIAS. CORREÇÃO MONETÁRIA E JUROS DE MORA. OMISSÃO. CONFIGURAÇÃO.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador.
+2. Na espécie, o acórdão embargado incorreu em omissão, porque, apesar de ter acolhido a pretensão da embargante, não se manifestou sobre os consectários legais da condenação.
+3. Conforme jurisprudência desta Corte, em caso de responsabilidade extracontratual, os juros moratórios fluem a partir do evento danoso (Súmula 54/STJ) e a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento (Súmula 362/STJ), de acordo com a taxa SELIC.
+4. Não caracteriza omissão a ausência de ressalva, no acórdão embargado, quanto à gratuidade da justiça concedida à parte por decisão anterior, quando a questão não é objeto do recurso especial, ressaltando-se que a ausência de menção não revoga o benefício.
+5. Embargos de declaração parcialmente acolhidos para sanar a omissão do acórdão embargado e fixar a incidência, sobre o valor da condenação, de juros de mora a partir do evento danoso e correção monetária desde a data do arbitramento, aplicando-se a taxa SELIC.
+VOTO
+Relatora: Ministra NANCY ANDRIGHI
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Segundo a jurisprudência desta Corte, "a correção monetária e os juros de mora são consectários legais da condenação principal, sendo considerados pedidos implícitos, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício" (AgInt nos EDcl no REsp 2.043.210/RS, Terceira Turma, DJe 3/11/2023; AgInt no AREsp 1.555.087/SP, Quarta Turma, DJe 11/4/2023).
+Desse modo, tem-se que o acórdão embargado incorreu em omissão, porque, apesar de ter acolhido a pretensão da embargante, julgando parcialmente procedente o pedido inicial para "condenar a recorrida a pagar à recorrente o valor de R$ 30.000,00, a título de danos morais" (e-STJ fl. 767), não se manifestou sobre os consectários legais da condenação.
+Conforme jurisprudência desta Corte, em caso de responsabilidade extracontratual, os juros moratórios fluem a partir do evento danoso (Súmula 54/STJ) e a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento (Súmula 362/STJ).
+Quanto ao índice aplicável, "nas condenações posteriores à entrada em vigor do Código Civil de 2002 (janeiro de 2003), deve-se aplicar a Taxa Selic, que é composta de juros moratórios e de correção monetária, ficando vedada sua cumulação com qualquer outro índice de atualização monetária" (AgInt no REsp 1.752.361/MG, Quarta Turma, DJe 1/7/2021; AgInt no REsp 1.955.415/SP, Terceira Turma, DJe 4/10/2023; e REsp 1.693.414/SP, Terceira Turma, DJe 14/10/2020).
+Assim, incidirá a taxa SELIC desde a data do evento danoso, termo inicial dos juros moratórios, que é anterior.
+Por outro lado, a ausência de ressalva quanto à gratuidade da justiça concedida à recorrente (embargante) não caracteriza omissão, tendo em vista que o benefício foi concedido por força de decisão anterior, sendo questão que não era objeto do recurso especial e, portanto, não foi objeto de julgamento por esta Corte, ressaltando-se que a ausência de menção não revoga o benefício.
+Portanto, os presentes embargos devem ser acolhidos em parte, apenas para sanar a omissão quanto aos consectários legais da condenação.
+DISPOSITIVO
+Forte nessas razões, ACOLHO PARCIALMENTE os embargos de declaração para sanar a omissão do acórdão embargado e fixar a incidência, sobre o valor da condenação, de juros de mora a partir do evento danoso e correção monetária desde a data do arbitramento, aplicando-se a taxa SELIC.
