@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de reclamação ajuizada por OTÁVIO TEIXEIRA DA ROSA e ROSANE ABDALLA ROSA, com fundamento no art. 988, I, do CPC/2015, apontando como reclamado o Juízo da 1ª Vara Cível Regional da Barra da Tijuca na execução no 0030425-14.2010.8.19.0209
+Informam os reclamantes que a reclamada AGENCO ENGENHARIA E CONSTRUÇÕES LTDA. interpôs recurso especial, contra acórdão proferido no agravo de instrumento n. 0054184-03.2020.8.19.0000, buscando a anulação da adjudicação do imóvel penhorado na execução acima indicada.
+Mencionam que foi interposto o recurso especial n. 1958429-RJ (2021/0282653-7), ao qual foi negado provimento para manter: a) a adjudicação do imóvel na execução acima indicada; b) a transferência da integralidade do produto da adjudicação ao cumprimento de sentença n. 0012456-49.2011.8.19.0209; e c) o curso da referida execução, especialmente em relação aos atos concernentes à penhora no rosto dos seus autos do cumprimento de sentença n. 0012456-49.2011.8.19.0209.
+Afirmam que, dado o resultado do recurso especial, os ora reclamantes requereram ao Juízo da 1ª Vara Cível Regional da Barra da Tijuca, na qual tramita a execução no 0030425-14.2010.8.19.0209, a transferência da integralidade do produto da alienação ao cumprimento de sentença n. 0012456-49.2011.8.19.0209.
+Contudo, teria aquele Juízo indeferido a transferência sob o fundamento de que haveria de se aguardar a "comunicação oficial" da decisão proferida no AgInt nos EDcl no Recurso Especial n. 1958429-RJ.
+Apontam que aguardam desde 2019 a transferência do produto da alienação ocorrida na execução no 0030425-14.2010.8.19.0209 ao cumprimento de sentença n. 0012456-49.2011.8.19.0209, o que não teria ocorrido ainda em razão dos sucessivos efeitos suspensivos concedidos em agravos e no recurso especial, ambos interpostos pela reclamada AGENCO e improvidos.
+Requerem a concessão de tutela de urgência para que seja determinada a imediata transferência da integralidade do produto da alienação do bem adjudicado na execução n. 0030425-14.2010.8.19.0209 ao cumprimento de sentença n. 0012456-49.2011.8.19.0209 em curso na 3ª Vara Cível Regional da Barra da Tijuca.
+Pleiteiam, ao final, seja julgado procedente o pedido em preservação da autoridade da decisão proferida no AgInt nos EDcl no Recurso Especial n. 1958429-RJ (2021/0282653-7).
+É o relatório. Decido.
+A questão posta pelos reclamantes diz respeito à desobediência à autoridade de decisão proferida nos autos do REsp n. 1.958.429/RJ, uma vez que o Juízo da Vara de execução recusa-se a determinar a transferência do produto da alienação para os autos do cumprimento de sentença n. 0012456-49.2011.8.19.0209.
+A reclamação, amparada nos arts. 105, I, f, da Constituição Federal e 988 do Código de Processo Civil, é instrumento processual destinado a preservar a competência do Superior Tribunal de Justiça, sempre que haja indevida usurpação por parte de outros órgãos ou para garantir a autoridade de suas decisões. Isso pressupõe a existência de um comando positivo desta Corte, cuja eficácia deva ser assegurada e que tenha sido proferida em processo envolvendo as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida.
+Contudo, tal situação não se verifica.
+Em primeiro lugar, as decisões do REsp n. 1958429-RJ, tanto a que decidiu o agravo interno para prover o recurso especial quanto a que desacolheu os embargos declaratórios, não contêm nenhum comando de transferência de valores. Tais decisões pautaram-se em que a adjudicação (objeto da controvérsia posta naqueles autos) da fração ideal do imóvel efetivou-se antes da decretação da falência da empresa executada, de forma que não caberia a desconstituição da referida adjudicação para submeter a execução ao juízo falimentar. Assim, decidido, negou-se provimento ao recurso especial.
+Portanto, não pode haver descumprimento se não há comando a descumprir.
+Ademais, conforme se observa do documento de fls. 137, a decisão reclamada é apenas um despacho:
+Fls.1778: Aguarde-se a comunicação oficial.
+Assim, não h á sequer decisão judicial, senão apenas um despacho, que, como é sabido, não tem por objeto solucionar nada relativo ao processo, mas determinar medidas necessárias ao seu movimento.
+Ante o exposto, indefiro liminarmente a reclamação, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Advirto a parte de que a oposição de incidentes manifestamente improcedentes e protelatórios dará ensejo à aplicação das penalidades legalmente previstas.
+EMENTA
