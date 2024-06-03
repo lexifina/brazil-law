@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pela União contra decisão de fls. 1.449-1.451 que deu provimento ao recurso especial da parte autora para estabelecer a incidência dos juros moratórios, na indenização por dano moral, a partir do evento danoso.
+A agravante defende que a questão atinente ao termo inicial do cômputo dos juros moratórios incidentes em casos de responsabilidade civil extrapatrimonial (dano moral puro) assume enorme relevo ao se analisar processos judiciais nos quais são pleiteadas indenizações referentes à anistia política, situação em que os valores indenizatórios atingem patamares exorbitantes e que terão os acessórios retroagindo a dezenas de anos, mesmo para aqueles que procuraram o Poder Judiciário atualmente, muito tempo após a lei de regência (de 2002).
+Sem contraminuta (cf. certidão de fl. 1.462).
+É o relatório. Passo a decidir.
+Diante dos argumentos aqui trazidos, exerço o juízo de retratação em relação à decisão de fls. 1.449-1.451, tornando-a sem efeito, nos termos do § 6º do art. 259 do RISTJ.
+Passo novamente à analise dos autos.
+Noi caso, o ponto controvertido objeto do recurso especial figura no sentido de que, o recorrente, ao realizar o pedido de arbitramento do valor indenizatório concedido requereu que os juros moratórios, nos termos da Súmula 5 do STJ e dos artigos 398 e 395 do Código Civil, fluíssem da data do primeiro evento danoso.
+Cabe estabelecer que a Primeira Seção afetou a questão para "Definir o termo inicial dos juros de mora, nos casos em que reconhecido judicialmente o direito a indenização por danos morais a anistiado político ou seus sucessores, nos termos da Lei n. 10.559/2002." (ProAfR no REsp n. 2.031.813/SC, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 16/4/2024, DJe de 2/5/2024.), e, igualmente por unanimidade, nos termos do art. 1. 037, II, do CPC/2015, suspendeu a tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, conforme proposta do Sr. Ministro Relator.
+Ante o exposto, neste momento processual, julgo prejudicado o exame do presente recurso e determino a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que, após a publicação do acórdão, em observância aos artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação exarada pelo STF; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Publique-se. Intimem-se.
+EMENTA
