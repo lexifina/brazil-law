@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por Matsuyo Higahi Hanada, representada por Maria Olinda Emiko Hanada, contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que os agravados ajuizaram ação de obrigação de fazer combinada com reparação de danos, julgada parcialmente procedente.
+Interpostas apelações pelas partes, a Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo deu parcial provimento aos recursos, em acórdão assim ementado (e-STJ, fl. 1.108):
+OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. "HOME CARE". DANO MORAL. Insurgência contra sentença de parcial procedência. Sentença reformada. HOME CARE. Atendimento domiciliar, prestado por cuidador, não integra o objeto do contrato de plano de saúde. Obrigatoriedade de custeio de terapias (fisioterapia motora e respiratória diária, fonoterapia para deglutição duas vezes por semana, acompanhamento nutricional, enfermeiro e médico duas vezes por mês, salvo intercorrências). DANO MORAL. Inocorrência. Ausência de comprovação de nexo causal entre omissão na realização do exame e as sequelas apresentadas pela autora. RECURSOS PARCIALMENTE PROVIDOS.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 2º, 47 e 51, IV, do Código de Defesa do Consumidor.
+Sustentou, em síntese, que os danos morais restaram demonstrados, tendo em conta a falha no atendimento médico prestado, que agravou o seu tratamento ante o diagnostico tardio do acidente vascular cerebral.
+Asseverou a abusividade das cláusulas limitativas do contrato entabulado entre as partes especialmente a excludente de cobertura de equipamentos, medicamentos e aparelhos necessários ao tratamento de home care.
+Contrarrazões às fls. 1.190-1.197 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 1.286-1.293 (e-STJ).
+Em parecer, o Ministério Público opinou pelo não provimento do agravo em recurso especial.
+Brevemente relatado, decido.
+Na espécie, a Corte de origem, soberana na análise dos elementos fáticos e probatórios dos autos, assim se manifestou (e-STJ, fls. 1.109-1.111):
+No que toca à determinação de fornecimento de "home care", contra a qual se insurgem ambas as partes, a r. sentença comporta reforma.
+Laudo pericial produzido nos autos de ação de interdição da autora, mediante exame físico presencial, constatou que a autora se encontra acamada e totalmente dependente de terceiros para a realização de atividades da vida diária, tendo atestado que "o quadro descrito é irreversível" (p. 823).
+Já o laudo pericial confeccionado nestes autos evidencia que:
+"as necessidades da autora restringem-se a prestação de serviços do tipo atendimento domiciliar e caracterizado pela presença de assistência de um cuidador 24h por dia, que poderá ser treinado por uma enfermeira. Todavia são necessários fisioterapia motora e respiratória diária, fonoterapia para deglutição duas vezes por semana, acompanhamento nutricional, enfermeiro e médico regulares (duas vezes/mês, salvo ocorrência de intercorrências)" (p. 900).
+Ausentes impugnações eficazes ao conteúdo desse laudo, suas conclusões se mantêm.
+Disso decorre que, embora não se ignore ser dura e sofrida a realidade da doença que acomete a apelante, ela não tem necessidade contínua, nem mesmo diária, de cuidados médicos, de enfermagem ou técnicos de enfermagem.
+Alimentação, higiene (troca de fraldas e banho diário), movimentação e até mesmo administração de medicamentos para tratamento da infecção urinária noticiada na apelação podem, no contexto, ser realizados por cuidador a ser treinado por enfermeira. Embora não se ignore o peso psicológico dessa imposição sobre a família da apelante, situação com a qual se compadece este Relator, certo que esse tipo de cuidado não está inserido no objeto do plano de saúde.
+Quanto a este ponto, portanto, nega-se provimento à apelação da autora e dá-se provimento à apelação da ré.
+Persiste a necessidade de fornecimento de fisioterapia motora e respiratória diária, fonoterapia para deglutição duas vezes por semana, acompanhamento nutricional, enfermeiro e médico duas vezes por mês, salvo intercorrências, consoante laudo pericial.
+Registra-se, por oportuno, que, em decorrência do estado de saúde da autora, não é possível nem exigível de seus familiares que a transportem a consultórios médicos em caso de necessidade de consultas com especialistas, como ocorreu quando se veio a diagnosticar infecção urinária em outubro/2021. Para referência, esta é precisamente uma situação de "intercorrência" em que a consulta médica em domicilio deveria ter sido autorizada.
+Desse modo, quanto à necessidade de fornecimento de terapias, dá-se provimento à apelação da autora e nega-se provimento à apelação da ré.
+Por fim, não há dano moral.
+Ainda que o laudo pericial tenha atestado ter havido "falha no atendimento médico, visto que não foi solicitado exame tomografia computadorizada de crânio para investigação de acidente vascular cerebral" em 4.4.2017 (p. 900), certo que também se afirmou na perícia que (i.) "A autora, portadora de patologias crônico degenerativas foi acometida por acidente vascular cerebral hemorrágico cuja etiologia e data do ocorrido não podem ser precisados"; (ii.) foi "feito diagnóstico de quadro infeccioso e prescrito tratamento médico adequado em 04/04/2017"; e (iii.) "não é possível afirmar que as sequelas sofridas pela pericianda poderiam ser menores se o AVC tivesse sido diagnosticado no atendimento prestado no dia 04/04/2017" (p. 900).
+Nesse contexto, não é possível estabelecer qualquer nexo causal entre o erro médico e as sequelas experimentadas pela autora, não havendo tampouco demonstração de eventual repercussão da interrupção do tratamento de infecção em 2017.
+Desse modo, a pretensa questão federal submetida a esta Corte não tem como ser aqui aferida, porquanto chegar a uma conclusão contrária demanda o reexame das mesmas provas produzidas, fazendo um verdadeiro rejulgamento da causa, como se o STJ fosse uma terceira instância revisora e o especial pudesse ser transmudado em uma apelação da apelação.
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) do valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER COMBINADA COM REPARAÇÃO DE DANO. TRATAMETNO DOMICILIAR. DANO MORAL. NÃO OCORRÊNCIA. ANÁLISE DOS ELEMENTOS PROBATÓRIOS SÚMULA N. 7/STJ AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
