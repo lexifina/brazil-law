@@ -1,0 +1,27 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de e-STJ fl. 63:
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MAICON FABRICIO NECLA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 0002410-06.2019.8.24.0007).
+O paciente foi condenado às penas de 9 anos e 4 meses de reclusão, no regime inicial fechado, e de 1 ano de detenção, em regime inicial aberto, além do pagamento de 1.409 dias-multa, como incurso nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, e art. 12 da Lei n. 10.826/2003.
+Sustenta a impetrante a fragilidade das provas para a condenação do paciente, diante do ingresso irregular e sem justa causa dos policiais em seu domicílio.
+Ressalta a ausência de fundamentação idônea para exasperar a pena-base, porquanto a quantidade de droga apreendida é irrisória.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a nulidade da prova ou, alternativamente, pugna pela readequação da pena-base e do regime inicial de cumprimento de pena.
+O pedido liminar foi indeferido pelo Min. Jorge Mussi (e-STJ fls. 63/64).
+Informações prestadas às e-STJ fls. 70/124.
+Parecer ministerial pelo não conhecimento da impetração (e-STJ fls. 126/128).
+É o relatório.
+Decido.
+A impetração não pode ser conhecida.
+Analisando o acórdão recorrido verifiquei que a Corte estadual não enfrentou as matérias agitadas pela defesa tendo em vista que os pedidos defensivos no recurso de apelação se limitaram ao seguinte (e-STJ fl. 17):
+Recurso de apelação de Maicon Fabrício Necla: a defesa interpôs recurso de apelação, no qual sustentou que: a) não há prova segura da participação do agente no narcotráfico, tampouco que ele mesmo fosse traficante, visto que ocupava cargo público, possuía uma "lan house" e estava montando uma lavação automotiva, tendo acontecido, no dia dos fatos, a dispensa de um invólucro que continha drogas no pátio da sua moradia, por um rapaz que fugiu dos policiais, de maneira que é devida sua absolvição do crime de tráfico de drogas; b) não há prova alguma a demonstrar o vínculo entre os agentes para o exercício da narcotraficância, em especial porque o apelante nem sequer conhecia o corréu Rodrigo, sendo Rafael apenas seu conhecido, devendo, pois, ser absolvido do crime previsto no art.35 da Lei 11.343/2006; c) subsidiariamente, a pena de perda do cargo público deve ser revista, por ser medida desproporcional e extremamente danosa. Requereu o conhecimento e provimento do recurso, nos termos da fundamentação (fls.313-322).
+A questão meritória apontada pela defesa (nulidade por violação de domicílio e fixação da pena-base) não foram enfrentadas em nenhum momento pelo Tribunal de origem, o que impede a atuação desta Corte Superior, sob pena de indevida supressão de instância (já que configura a impetração per saltum) e inversão das regras de competência previstas na arquitetura constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS. ANÁLISE DE PROVAS. VIA INADEQUADA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE OFÍCIO DE ORDEM DE HABEAS CORPUS. OPÇÃO EXCLUSIVA DO RELATOR.
+1. O Tribunal de origem, com apoio na prova dos autos, em especial depoimentos testemunhais colhidos sob o crivo do contraditório, concluiu pela legalidade da pronúncia, uma vez que verificou indícios suficientes nesse sentido, inclusive indicando ser inconteste a materialidade, motivo pelo qual é aplicável o princípio do in dubio pro societate.
+2. "Sobre os indícios de autoria da prática do crime imputado ao Agravante, segundo estabelece o art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor". (AgRg no HC n. 819.544/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+3. Tendo as instâncias de origem concluído no sentido de que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia, para se acolher a alegação de insuficiência probatória seria necessário o revolvimento fático-probatório, vedado em habeas corpus. Precedentes.
+4. No tocante ao alegado excesso de prazo da prisão decretada, verifica-se que a questão não foi analisada no acórdão recorrido. Desse modo, não debatida a questão pela Corte a quo, impedido fica o Superior Tribunal de Justiça de apreciar a matéria, sob pena de se incorrer em indevida supressão de instância.
+5. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, §2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus, de ofício, é opção exclusiva do relator.
+6. Agravo regimental improvido. (AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 13/11/2023, DJe de 16/11/2023) (destaquei).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
