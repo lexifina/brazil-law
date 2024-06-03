@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão do TRIBUNAL DE JUSTIÇA local, que não admitiu recurso especial fundado no permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 260):
+ILEGITIMIDADE PASSIVA AD CAUSAM - Inocorrência - Autoridade impetrada da qual emana o ato coator, mas não o pratica Irrelevância dessa circunstância diante do texto expresso do art. 6º, § 3º, da Lei n. 12.016/09 - Ambas autoridades que são passíveis de responder à impetração - Preliminar rejeitada. APELAÇÃO E REEXAME NECESSÁRIO - Mandado de Segurança Preventivo -Pretensão de obstar a prática de ato coator, ainda não praticado, com base na RDCANVISA 56/2009, que tem por objetivo impedir o livre exercício de profissão coma utilização do bronzeamento artificial - Concessão da segurança - Insurgência -Descabimento - Ato normativo que foi declarado nulo em ação coletiva proposta pelo SEEMPLES (Sindicato Patronal dos Empregadores em Empresas e Profissionais Liberais em Estética e Cosmetologia do Estado de São Paulo)perante a Justiça Federal - Efeito erga omnes daquela decisão - Ausência de licença de funcionamento que não foi objeto da ação e deverá ser observada pela autoridade impetrada oportunamente - Sentença mantida.
+Embargos de declaração rejeitados.
+No recurso especial obstaculizado, a parte recorrente sustenta que o acórdão violou os arts. 1º, 7º, III e XV, 8º, §1º, XI e §4º, da Lei nº 9.782/1999; art.6º, §5º, da Lei nº 12.016/2009 c/c arts. 17 e 485, VI, do CPC/2015; e arts. 20 e 21 da LINDB, além de divergência jurisprudencial.
+Contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Parecer ministerial, às e-STJ fls. 503/506, pelo provimento do recurso.
+Passo a decidir.
+Compulsando os autos, verifico que a pretensão não merece prosperar.
+No caso, o Tribunal a quo confirmou a sentença, nos seguintes termos (e-STJ fls. 264/265):
+Com base na legislação supra e dentro de seu poder normativo, a ANVISA editou a Resolução RDC nº 56/09, estabelecendo os requisitos essenciais de segurança e eficácia aplicáveis aos produtos para saúde, determinando que os possíveis riscos associados à tecnologia devem ser aceitáveis em relação ao benefício proporcionado, proibindo, de forma expressa, a utilização de equipamentos de bronzeamento artificial.
+Ocorre, entretanto, que o Sindicato Patronal dos Empregadores em Empresas e Profissionais Liberais em Estética e Cosmetologia do Estado de São Paulo SEEMPLES, propôs ação coletiva em face da ANVISA, perante a Justiça Federal de São Paulo, visando a declaração de nulidade da RDC ANVISA nº 56/2009(Processo nº 0001067-62.2010.4.03.6100 - 24ª Vara Federal). No bojo daquela ação, foi deferida a tutela antecipada para suspender a eficácia do ato normativo, sendo, ao final, julgada procedente, assegurando-se à toda a categoria profissional representada pelo Sindicato autor o livre exercício da atividade.
+Diante desse cenário, muito embora a r. sentença proferida pelo d. Juízo da 24.ª Vara Cível da Seção Judiciária do Estado de São Paulo da Justiça Federal não tenha transitado em julgado, persistem os efeitos da r. decisão que suspendeu a RDC n.º 56/2009,restando a conclusão de que, ao menos por ora, não existe amparo normativo para a proibição do exercício da atividade empresarial da impetrante.
+Como se o bserva, o Tribunal de origem decidiu a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO COLETIVA AJUIZADA PELO SINDICATO DOS TRABALHADORES FEDERAIS EM SAÚDE, TRABALHO E PREVIDÊNCIA NO ESTADO DO RIO DE JANEIRO - SINDPREV/RJ. ALCANCE DO TÍTULO EXECUTIVO RESTRITO ÀS PESSOAS DA CATEGORIA DOS TRABALHADORES DA PREVIDÊNCIA SOCIAL. ILEGITIMIDADE DA REQUERENTE VINCULADA AO MINISTÉRIO DA SAÚDE. ACÓRDÃO RECORRIDO EM SINTONIA COM O ATUAL ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. CONCLUSÕES ALCANÇADAS PELO ÓRGÃO JULGADOR QUANTO À COISA JULGADA. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DOS FATOS E PROVAS CONSTANTES NOS AUTOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Ademais, ainda que assim não fosse, para alterar as conclusões alcançadas pelo órgão julgador quanto à coisa julgada, acolhendo-se as alegações recursais, seria necessário o reexame dos fatos e provas constantes nos autos, o que é vedado na via eleita ante a incidência da Súmula 7/STJ.
+4. Agravo Interno não provido. (AgInt no REsp n. 2.086.059/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. MANDADO DE SEGURANÇA COLETIVO. EXTENSÃO A TODA A CATEGORIA. PRECEDENTES. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. A revisão do entendimento do Tribunal de origem, no que se refere aos limites subjetivos da coisa julgada, a fim de afastar a conclusão pela legitimidade do servidor, ora agravado, demandaria necessariamente o reexame do conteúdo fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.349.224/TO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
