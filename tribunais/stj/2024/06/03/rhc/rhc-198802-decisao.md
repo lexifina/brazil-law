@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PREVENTIVA. REPRESENTAÇÃO PELA AUTORIDADE POLICIAL. AÇÃO PENAL QUE APURA CRIMES DE APROPRIAÇÃO INDÉBITA,FALSIFICAÇÃO DE DOCUMENTO PÚBLICO (POR DUAS VEZES), ESTELIONATO, USO DEDOCUMENTO FALSO, FURTO QUALIFICADO E DESOBEDIÊNCIA.
+(1) JUÍZO DE ADMISSIBILIDADE. (1.1) PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. TEMA JÁ ANALISADO EM IMPETRAÇÃO ANTERIOR. REITERAÇÃO DE PEDIDOCONFIGURADA. (1.2) TESES RELATIVAS AO MÉRITO DO FEITO ORIGINÁRIO. INVIABILIDADE DE APRECIAÇÃO EM AÇÃO DE HABEAS CORPUS. PRECEDENTES.
+(2) INCOMPETÊNCIA DO JUÍZO. HIPÓTESE DE COMPETÊNCIA TERRITORIAL. MATÉRIA NÃO SUSCITADA NO MOMENTO OPORTUNO. PRECLUSÃO. ADEMAIS, AUSÊNCIA DE ILEGALIDADE FLAGRANTE. POSSIBILIDADE DE PRORROGAÇÃO E JUÍZO A QUO QUE ESTARIA PREVENTO EM RAZÃO DO EXAME DE REPRESENTAÇÕES POR MEDIDAS CAUTELARES.
+(3) INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. EXORDIAL ACUSATÓRIA QUE PREENCHE OS REQUISITOS DO ARTIGO 41 DO CÓDIGO DE PROCESSO PENAL E POSSIBILITA O REGULAR EXERCÍCIO DO CONTRADITÓRIO E DA AMPLA DEFESA. DELITO DE AUTORIA COLETIVA. PRESCINDIBILIDADE DE INDIVIDUALIZAÇÃO DA CONDUTA NA DENÚNCIA. PRECEDENTES.
+(4) CONCESSÃO DE PRISÃO DOMICILIAR AO PACIENTE. NÃO CABIMENTO. AUSÊNCIA DEDEMONSTRAÇÃO DE QUE É O ÚNICO RESPONSÁVEL PELOS CUIDADOS DE SEU FILHO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM DENEGADA.
+Imputa-se ao recorrente a prática dos crimse de falsificação de documento público, apropriação indébita, furto, estelionato e desobediência.
+A defesa alega, em síntese, incompetência territorial, inépcia da denúncia, consunção delitiva, "bis in idem", atipicidade e ausência dos requisitos para a segregação cautelar.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ Fl. 54-59):
+"Nesse contexto, forçoso reconhecer que, no tocante ao pleito de revogação da prisão preventiva/concessão de liberdade provisória, a presente impetração é uma reiteração de pedido, oque inviabiliza seu conhecimento.
+(..)
+Sem maiores digressões, é nítido que, com exceção dos itens 1 e 2 (incompetência do Juízo e inépcia da denúncia por ausência de individualização das condutas), todos os demais não comportam conhecimento, pois exigem aprofundado ingresso no mérito dos fatos apurados na origem, o que é incompatível com o restrito âmbito de cognição da ação de habeas corpus.
+(..)
+A alegação de incompetência deve ser rejeitada de plano. A discussão é sobre o local onde ocorreram os delitos, já que há fatos consumados em Garopaba e outro executado em Florianópolis.
+Ou seja, trata-se de suposta competência territorial, que, como é consabido, é relativa, podendo ser prorrogada caso não arguida pelas partes em momento oportuno.
+(..)
+Não se desconhece que, em relação a alguns delitos, a peça não apontou especificamente a ação de cada acusado na dinâmica da empreitada criminosa, mas isso não implica na inépcia da denúncia, até porque é entendimento consolidado no Superior Tribunal de Justiça que, "nos chamados crimes de autoria coletiva, embora a vestibular acusatória não possa ser de todo genérica, é válida quando, apesar de não descrever minuciosamente as atuações individuais dos acusados, demonstra um liame entre o seu agir e a suposta prática delituosa, estabelecendo a plausibilidade da imputação e possibilitando o exercício da ampla defesa"(RHC 63.071/PE, Quinta Turma, Rel. Min. Jorge Mussi, j. em 01-3-2016).
+Por outro lado, não cabe, neste momento avaliar se os elementos indiciários são aptos para permitir conclusão segura sobre a autoria delitiva ou sobre a tipicidade da conduta. Porém, são relevantes para embasar a ação penal, pois, em princípio, denotam a presença das elementares típicas de cada um dos crimes apurados e nexo com as ações do paciente.
+Verifica-se que a questão relativa à segregação cautelar não foi debatida na instância de origem, a evidenciar que seu conhecimento representa indevida supressão de instância.
+Quanto às demais matérias, como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que não há de se falar em incompetência territorial e inépcia.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Sabe-se que "O habeas corpus, cuja tutela emergencial recai sobre a liberdade de locomoção, é cabível quando houver manifesta ilegalidade que reflita diretamente na liberdade do indivíduo. Vale dizer, o habeas corpus visa a proteger a liberdade de locomoção, por ilegalidade ou abuso de poder, não podendo ser utilizado para proteção de outros direitos." (AgRg no HC n. 580.506/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/6/2020, DJe de 4/8/2020.)
+No presente feito, na matéria atinente à competência, além de não se apontar a existência de constrangimento à liberdade do paciente na medida apontada como coatora, a alteração do quadro formado no Tribunal de origem demanda inviável dilação probató ria no "writ".
+Ademais, quanto à inépcia, destaque-se que, "in casu", "A denúncia ofertada pelo Parquet local faz a devida qualificação dos acusados, descreve de forma objetiva e suficiente as condutas delituosas por eles perpetradas assim como as circunstâncias dos cometimentos, demostrando indícios suficientes de autoria, prova da materialidade e a existência de nexo causal, permitindo com segurança o exercício da ampla defesa, não havendo falar em ofensa ao art. 41 do CPP." (AgRg no REsp 2027804 / SP, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 22/04/2024, DATA DA PUBLICAÇÃO/FONTE DJe 24/04/2024)
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
