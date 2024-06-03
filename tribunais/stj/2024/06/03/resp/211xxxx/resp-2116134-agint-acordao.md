@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/05/2024 a 03/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OFENSA AO ARTIGO 370 DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. TEMA 880 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DA MODULAÇÃO PREVISTA NO RECURSO ESPECIAL Nº 1.336.026/PE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O colegiado local assentou a desnecessidade de produção de outras provas, bem como reconheceu a prescrição da pretensão executória, ao argumento de que "na hipótese dos autos inexistia a necessidade de liquidação de sentença e, ainda, somente se aplica a modulação dos efeitos do Tema 880 /STJ a ações que em 30.06.2017 dependiam, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras, o que não é o caso, pois a documentação já se encontrava disponível" (fl. 413).
+3. Na espécie, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão, conforme proposta nas razões do recurso especial, demandaria o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+4. A inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 542):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FICHAS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TEMA 880 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DA MODULAÇÃO PREVISTA NO RECURSO ESPECIAL Nº 1.336.026/PE. VIOLAÇÃO DO ARTIGO 370 DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPCIAL NÃO CONHECIDO.
+A parte agravante alega a inaplicabilidade da Súmula 7/STJ, ao argumento de que a questão tratada no recurso é estritamente jurídica.
+Ainda, sustenta que o presente feito foi jugado sem a produção das provas postuladas pela ora recorrente na fase postulatória, reafirmando que há negativa de vigência direta ao art. 370 do CPC.
+Também, aduz que houve divergência jurisprudencial e incorreta aplicação do Tema 880 do STJ ao caso sob exame.
+Por fim, pugna pela "reforma do v. acórdão recorrido, para afastar a declaração de prescrição da pretensão executória e dar prosseguimento à execução do título judicial" (fl. 578).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OFENSA AO ARTIGO 370 DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. TEMA 880 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DA MODULAÇÃO PREVISTA NO RECURSO ESPECIAL Nº 1.336.026/PE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O colegiado local assentou a desnecessidade de produção de outras provas, bem como reconheceu a prescrição da pretensão executória, ao argumento de que "na hipótese dos autos inexistia a necessidade de liquidação de sentença e, ainda, somente se aplica a modulação dos efeitos do Tema 880 /STJ a ações que em 30.06.2017 dependiam, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras, o que não é o caso, pois a documentação já se encontrava disponível" (fl. 413).
+3. Na espécie, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão, conforme proposta nas razões do recurso especial, demandaria o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+4. A inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, conforme bem delineado por ocasião da decisão monocrática, o recurso especial não merece ser conhecido, pois as teses recursais requerem, necessariamente, alteração de conteúdo fático-probatório, conforme se depreende dos seguintes excertos do voto condutor do acórdão recorrido (fls. 407-413):
+ ..
+Da análise dos autos, extrai-se que a questão sub judice prescinde de realização de outras provas, além da documental já oferecida e a produção de prova testemunhal não era necessária neste caso.
+É fato público e notório que as ações coletivas demandam tempo e tratativas entre as partes. No entanto, no presente caso, de execução individual da sentença condenatória, bastaria a parte comprovar que pediu a documentação necessária para ingressar com o cumprimento de sentença e este pedido lhe foi negado, o que certamente, não seria demonstrado por meio de prova testemunhal.
+ ..
+No segundo plano, anoto que o acórdão que promoveu a modulação dos efeitos do acórdão estabelecendo o termo inicial do prazo prescricional a partir do dia 30 de junho de 2017, contém uma regra condicional quando diz: "e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017."
+Essa referência é necessária porque conforme se infere dos documentos - fichas financeiras - para possibilitar a elaboração do cálculo e instruir o pedido de execução individual da sentença condenatória genérica, foram expedidas pela administração pública no mês de maio de 2015 (mov. 1.5) ou seja, alguns meses antes do vencimento do prazo de cinco anos. Tal fato não autoriza aplicar a modulação proposta que fixou novo termo inicial do prazo de prescrição.
+No terceiro plano, os documentos necessários para os cálculos atinem às fichas financeiras e contracheques da autora. Todavia, a autora é servidora pública, a quem são fornecidas informações funcionais. Assim, dispensável instar o Estado do Paraná a fornecer contracheques e informações financeiras que já estavam à disposição da exequente.
+Em se tratando de documento de fácil acesso à parte, o caso não se inclui na hipótese de modulação dos efeitos do Tema 880. Desta forma já se posicionou este Tribunal de Justiça do Estado do Paraná, como se verifica no acórdão da 4ª Câmara Cível a seguir, relatado pelo Desembargador Abraham Lincoln Calixto, em caso semelhante:
+ ..
+Nesse sentido, a 4ª Câmara Cível inclusive reiterou, em sede de embargos de declaração opostos contra o acórdão, que os servidores públicos possuíam acesso ao documento, demonstrando a desnecessidade de instar a Fazenda Pública a fornecê-lo para viabilizar o cumprimento de sentença:
+ ..
+Eis o que se colhe do voto da Juíza Substituta de 2º Grau e Relatora nos embargos de declaração:
+ ..
+O mesmo entendimento repercute neste caso, em que o cumprimento de sentença foi ajuizado de forma individualizada pelo servidor público, a quem cumpria diligenciar junto ao seu respectivo órgão a requisição de documentos relativos a sua situação financeira, contracheques e afins, possibilitando o início da fase executória independentemente do fornecimento da documentação por parte do Estado do Paraná.
+Ademais, em momento algum, a parte produziu prova documental de que não possuía acesso à documentação ou de que ela lhe foi negada. Inclusive sequer consta requerimento administrativo por parte da exequente para obtenção dos documentos. Assim, não se mostrou imprescindível o fornecimento de documentos para que fosse requerido o cumprimento de sentença.
+E mais, restou demonstrado nos autos que os contracheques dos substituídos foram fornecidos pelo Estado do Paraná ao Sindicato em meados de 2011. Ora, se desde 2011 tais documentos eram de conhecimento das partes, não deveria a exequente deixar transcorrer longo prazo para requerer o cumprimento de sentença, já que, como visto, o tempo despendido para liquidação do julgado não interrompe ou suspende o prazo prescricional.
+Nesse sentido:
+ ..
+Confiram-se precedentes recentíssimos dos Desembargadores Vicente Del Prete Misurelli e Salvatore Antonio Astuti, julgados nas sessões da Colenda 1ª Câmara Cível dos dias 25.10.2022 e 28.02.2023:
+ ..
+Tem-se, portanto, que na hipótese dos autos inexistia a necessidade de liquidação de sentença e, ainda, somente se aplica a modulação dos efeitos do Tema 880 /STJ a ações que em 30.06.2017 dependiam, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras, o que não é o caso, pois a documentação já se encontrava disponível.
+Neste contexto, considerando que o trânsito em julgado da sentença ocorreu em 9 de novembro de 2010 e a execução foi proposta no dia 24 de novembro de 2015, constata-se a prescrição quinquenal da pretensão executória.
+O ajuizamento da Ação de Protesto de Título Judicial nº 7690- 28.2015.8.16.0004, proposta por outros servidores beneficiados pela sentença proferida nos autos nº 887/2006 3 , não amplia o prazo para que a embargada promovesse a execução individual da sentença condenatória.
+A eventual interrupção do prazo da prescrição para um credor não aproveita aos demais (artigo 204, caput, do Código Civil 4 ). A mencionada ação foi proposta em 29.11.2015, quando a pretensão executória da Sra. Ivonete Martins Feitosa já havia sido fulminada pela prescrição quinquenal. O protesto concedido no dia 03.12.2015 não possui o condão de produzir o efeito interruptivo descrito no artigo 202, inciso II do Código Civil 5 .
+ ..
+Assim, com base na fundamentação adotada pelo colegiado local, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão, conforme proposta nas razões do recurso especial, demandaria o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ademais, a inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
