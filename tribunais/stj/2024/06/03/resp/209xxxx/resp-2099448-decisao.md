@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILTON BEZERRA DE LUNA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Depreende-se dos autos que o recorrente foi condenado, como incurso nas sanções previstas no art. 121, § 2º, II e IV, do Código Penal, por duas vezes, à pena de 50 anos, 4 meses e 15 dias de reclusão, no regime inicial fechado.
+A apelação defensiva foi parcialmente provida para diminuir a reprimenda para 45 anos e 6 meses de reclusão.
+Daí o presente recurso, no qual alega a defesa que o acusado sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, seja reconhecida a confissão espontânea na segunda fase dosimétrica.
+Contrarrazões às e-STJ fls. 1.065/1.070.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+É que o Superior Tribunal de Justiça propôs a revisão da interpretação dada à Súmula n. 545/STJ (Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no artigo 65, III, d, do Código Penal), consoante revela o seguinte julgado proferido pela Quinta Turma:
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. ROUBO. INTERPRETAÇÃO DA SÚMULA 545/STJ. PRETENDIDO AFASTAMENTO DA ATENUANTE DA CONFISSÃO, QUANDO NÃO UTILIZADA PARA FUNDAMENTAR A SENTENÇA CONDENATÓRIA. DESCABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. PRINCÍPIOS DA LEGALIDADE, ISONOMIA E INDIVIDUALIZAÇÃO DA PENA. INTERPRETAÇÃO DO ART. 65, III, "D", DO CP. PROTEÇÃO DA CONFIANÇA (VERTRAUENSSCHUTZ) QUE O RÉU, DE BOA-FÉ, DEPOSITA NO SISTEMA JURÍDICO AO OPTAR PELA CONFISSÃO. PROPOSTA DE ALTERAÇÃO DA JURISPRUDÊNCIA. RECURSO ESPECIAL DESPROVIDO.
+1. O Ministério Público, neste recurso especial, sugere uma interpretação a contrario sensu da Súmula 545/STJ para concluir que, quando a confissão não for utilizada como um dos fundamentos da sentença condenatória, o réu, mesmo tendo confessado, não fará jus à atenuante respectiva.
+2. Tal compreensão, embora esteja presente em alguns julgados recentes desta Corte Superior, não encontra amparo em nenhum dos precedentes geradores da Súmula 545/STJ. Estes precedentes instituíram para o réu a garantia de que a atenuante incide mesmo nos casos de confissão qualificada, parcial, extrajudicial, retratada, etc. Nenhum deles, porém, ordenou a exclusão da atenuante quando a confissão não for empregada na motivação da sentença, até porque esse tema não foi apreciado quando da formação do enunciado sumular.
+3. O art. 65, III, "d", do CP não exige, para sua incidência, que a confissão do réu tenha sido empregada na sentença como uma das razões da condenação. Com efeito, o direito subjetivo à atenuação da pena surge quando o réu confessa (momento constitutivo), e não quando o juiz cita sua confissão na fundamentação da sentença condenatória (momento meramente declaratório).
+4. Viola o princípio da legalidade condicionar a atenuação da pena à citação expressa da confissão na sentença como razão decisória, mormente porque o direito subjetivo e preexistente do réu não pode ficar disponível ao arbítrio do julgador.
+5. Essa restrição ofende também os princípios da isonomia e da individualização da pena, por permitir que réus em situações processuais idênticas recebam respostas divergentes do Judiciário, caso a sentença condenatória de um deles elenque a confissão como um dos pilares da condenação e a outra não o faça.
+6. Ao contrário da colaboração e da delação premiadas, a atenuante da confissão não se fundamenta nos efeitos ou facilidades que a admissão dos fatos pelo réu eventualmente traga para a apuração do crime (dimensão prática), mas sim no senso de responsabilidade pessoal do acusado, que é característica de sua personalidade, na forma do art. 67 do CP (dimensão psíquico-moral).
+7. Consequentemente, a existência de outras provas da culpabilidade do acusado, e mesmo eventual prisão em flagrante, não autorizam o julgador a recusar a atenuação da pena, em especial porque a confissão, enquanto espécie sui generis de prova, corrobora objetivamente as demais.
+8. O sistema jurídico precisa proteger a confiança depositada de boa-fé pelo acusado na legislação penal, tutelando sua expectativa legítima e induzida pela própria lei quanto à atenuação da pena. A decisão pela confissão, afinal, é ponderada pelo réu considerando o trade-off entre a diminuição de suas chances de absolvição e a expectativa de redução da reprimenda.
+9. É contraditória e viola a boa-fé objetiva a postura do Estado em garantir a atenuação da pena pela confissão, na via legislativa, a fim de estimular que acusados confessem; para depois desconsiderá-la no processo judicial, valendo-se de requisitos não previstos em lei.
+10. Por tudo isso, o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver confessado a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória.
+11. Recurso especial desprovido, com a adoção da seguinte tese: "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada".
+(REsp n. 1.972.098/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022, grifei.)
+No mesmo sentido, cito os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. CONFISSÃO PARCIAL. RECONHECIMENTO. NECESSIDADE.
+1. O Juízo de primeiro grau, mais próximo dos fatos, dos testemunhos e da ação penal, entendeu que o ora agravado confessou sua participação no crime, fazendo incidir a respectiva atenuante.
+2. Tendo o paciente reconhecido seu envolvimento no delito, pois confessou parcialmente sua participação, dizendo que fez coisa errada, mas negando ter encostado a mão nas vítimas, deve haver a incidência da atenuante da confissão.
+3. Nos termos da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para motivar a sua condenação (AgRg no AgRg no HC n. 700.192/SC, Ministro Olindo Menezes - Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe 21/2/2022).
+4. O réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada (REsp n. 1.972.098/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022).
+5. Agravo regimental improvido.
+(AgRg no HC n. 736.096/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022, grifei.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SONEGAÇÃO FISCAL. DOSIMETRIA DA PENA. CONFISSÃO QUALIFICADA. INCIDÊNCIA DA SÚMULA 545/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (REsp n. 1.972.098/SC, de minha relatoria, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+2. A existência de outras provas capazes de, em tese, embasar a condenação não afasta o direito do réu confesso à atenuante da confissão.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.093.147/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022, grifei.)
+Portanto, não havendo dúvidas quanto à ocorrência da confissão, faz jus o recorrente à incidência da suscitada atenuante, de modo que, mantendo as demais diretrizes adotadas na origem, a sua pena deve ser reduzida para 37 anos e 11 meses de reclusão.
+À vista do exposto e acolhendo o parecer do Ministério Público Federal, dou provimento ao recurso especial, nos termos acima deduzidos.
+Publique-se. Intimem-se.
+EMENTA
