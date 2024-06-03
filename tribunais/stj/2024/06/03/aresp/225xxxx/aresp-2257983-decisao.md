@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por ANDERSON VIEIRA DA SILVA, contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que inadmitiu recurso especial apresentado contra o acórdão proferido na Revisão Criminal n. 0803736-30.2021.8.02.0000.
+A parte agravante foi condenada pela prática dos crimes de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006) e posse irregular de arma de fogo de uso permitido (art. 12 da Lei nº 10.826/2003), tendo sido aplicada a pena total de 08 (oito) anos e 06 (seis) meses de prisão, cumulada com o pagamento de 760 (setecentos e sessenta) dias-multa.
+Em sede de revisão criminal, o Tribunal de origem julgou improcedente o pleito de revisão da dosimetria da pena, em acórdão assim ementado (fl. 384):
+REVISÃO CRIMINAL. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. SUPOSTOS EQUÍVOCOS NA DOSIMETRIA DA PENA DO TRÁFICO DE DROGAS. NÃO VERIFICAÇÃO. POSSIBILIDADE DE NEGATIVAR A QUANTIDADE E NATUREZA DA DROGA DEVIDO À APREENSÃO DE CERCA DE 200 GRAMAS DE MACONHA E 32 GRAMAS DE CRACK. CONSIDERÁVEL QUANTITATIVO DE ENTORPECENTES. ALTA NOCIVIDADE DAS DROGAS APREENDIDAS, ESPECIALMENTE O CRACK. ADEQUADA FIXAÇÃO DA FRAÇÃO DE AUMENTO DE PENA MAIS RIGOROSA PARA AS CIRCUNSTÂNCIAS DO CRIME DEVIDO À NATUREZA E QUANTIDADE DA DROGA. INCIDÊNCIA DO ART. 42 DA LEI Nº 11.343/06. PRECEDENTES DESTA CORTE. NÃO DEMONSTRADA A UTILIZAÇÃO DO INTERROGATÓRIO DO RÉU PARA FORMAR O JUÍZO CONDENATÓRIO. SIMPLES MENÇÃO E REJEIÇÃO À VERSÃO DO ACUSADO. REJEITADA A CONCESSÃO DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE RECONHECER O TRÁFICO PRIVILEGIADO. CONTEXTO FÁTICO QUE CONTA COM ARMA DE FOGO. DEMONSTRADA A DEDICAÇÃO CRIMINOSA DO AGENTE. NÃO PREENCHIDOS OS REQUISITOS NECESSÁRIOS PARA GOZAR DA CAUSA DE DIMINUIÇÃO DE PENA. PRECEDENTE DO STJ E DESTA CORTE. IMPROCEDÊNCIA.
+Nas razões do recurso especial, a parte alega violação dos arts. 42 da Lei de Drogas e 59 do Código Penal ao argumento de que a valoração negativa da natureza e quantidade da droga, em virtude da reduzida quantidade de entorpecente, teria sido desproporcional.
+Requer o provimento do recurso para que seja fixada a pena-base no mínimo legal ou reduzido para 1/6 (um sexto) o patamar de aumento (fls. 407/414).
+Contrarrazões apresentadas às fls. 421/482.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (fls. 439/445).
+Parecer do Ministério Público Federal pelo conhecimento do agravo para conhecer e prover o recurso especial (fls. 479/484).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No tocante à primeira fase da dosimetria, a Corte local assim consignou (fl. 392/394 - grifamos):
+(..)
+28. No caso, a quantidade de entorpecentes apreendida se mostrou significativa. Além disso, a nocividade das drogas encontradas com o agente, especialmente o crack, também revelou alto grau de potencialidade lesiva, razão pela qual a vetorial das circunstâncias do crime teve que ser negativada.(..)
+31. Desta forma, agiu corretamente o Magistrado, ao valorar negativamente as circunstâncias do crime, por conta da quantidade e natureza da droga, atribuindo uma fração de aumento de pena mais rigorosa.
+32. Digo assim, porque, como a natureza e quantidade de entorpecentes são fatores preponderantes, a atribuição do quantum de aumento das circunstâncias do crime deve atingir um quantum mais rigoroso, razão pela qual considero adequado ao caso o aumento de pena inicial no patamar de 02 (dois) anos e 06 (seis) meses, que somados à margem mínima de 05 (cinco) anos, totalizou a pena-base de 07 (sete) anos e 06 (seis) meses, tal como procedeu o Juiz a quo.
+33. Reputo que o Magistrado agiu, de maneira fundamentada, dentro da sua margem de discricionariedade, não havendo equívocos para modificação, motivo pelo qual rejeito a segunda tese do requerente.
+34. Assim, mantenho a pena-base em 07 (sete) anos e 06 (seis) meses de reclusão.
+De  acordo  com  o  entendimento  consolidado  desta  Corte  Superior  de  Justiça,
+a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade  (AgRg  no  HC  710.060/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  14/12/2021,  DJe  de  17/12/2021- grifamos).
+Além disso, certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006,
+ o  Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Na hipótese, na primeira fase da dosimetria, as instâncias ordinárias exasperaram a reprimenda em 1/2 (metade) em razão da natureza e da quantidade de entorpecentes apreendidos, qual seja, 200g de maconha e 32g de crack.
+Todavia,  considerados  o  intervalo  entre  as  penas  mínima  e  máxima  abstratamente  cominadas  e  a  quantidade  de  entorpecentes ,  a qual não se mostra excessivamente expressiva,  verifica-se a  desproporcionalidade  na  exasperação  da  basilar  no  caso  concreto.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. AÇÃO EM CURSO E CONDENAÇÃO SEM CERTIFICAÇÃO DO TRÂNSITO EM JULGADO PARA A DEFESA. FUNDAMENTO INIDÔNEO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena  a teor do que estabelecido no art. 42 da Lei n. 11.343/2006  e não obstante a cocaína seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base.
+2. Para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser dessa causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+3. O Supremo Tribunal Federal, por ambas as Turmas, possui o entendimento de que inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade. Ressalva deste relator.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.867.011/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/9/2021, DJe de 30/9/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA BÁSICA. VALORAÇÃO NEGATIVA. QUANTIDADE E NATUREZA DA DROGA. NÃO EXPRESSIVIDADE. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena - a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 - e não obstante a cocaína seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base" (AgRg no AREsp n. 1867011/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/9/2021, DJe 30/9/2021).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.398.865/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/11/2023, DJe de 13/11/2023)
+Diante de tais considerações, deve ser provido o recurso a fim de reduzir a pena-base do acusado.
+Passo,  assim,  ao  redimensionamento  das  penas.
+Na primeira fase de aplicação da pena, tendo em vista a fundamentação acima exposta, fixo a pena-base no mínimo legal: 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor unitário mínimo.
+Na segunda etapa, não há circunstâncias atenuantes ou agravantes (fls. 384/399).
+Na terceira fase, mantida definitiva a pena em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, pois ausentes causas de aumento e diminuição.
+Ante o exposto, com base no art. 253, parágrafo único, inciso II, alínea "c", do Regimento Interno do STJ, conheço do agravo para dar provimento ao recurso especial para reduzir a pena do agravante para 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
