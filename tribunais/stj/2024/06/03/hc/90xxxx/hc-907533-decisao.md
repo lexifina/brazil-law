@@ -1,0 +1,20 @@
+DECISÃO
+FABIANO FARIA alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Espírito Santo no Recurso em Sentido Estrito n.0005755-33.2016.8.08.003.
+A defesa busca a despronúncia do paciente, ao argumento de que o acusado não agiu com animus necandi e que haveria agido em legítima defesa.
+A liminar foi indeferida e o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O acusado foi pronunciado pelo crime descrito no art. 121, § 2º, IV, c/c o art. 14, II, ambos do Código Penal.
+A Constituição Federal determinou ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida e os delitos a eles conexos, conferindo-lhe a soberania de seus veredictos.
+Entretanto, a fim de reduzir o erro judiciário (art. 5º, LXXV, CF), seja para absolver, seja para condenar, exige-se uma prévia instrução, sob o crivo do contraditório e com a garantia da ampla defesa, perante o juiz togado, com a finalidade de submeter a julgamento no Tribunal do Júri somente os casos em que se verifiquem a comprovação da materialidade e a existência de indícios suficientes de autoria, nos termos do art. 413, § 1º, do CPP, que encerra a primeira etapa do procedimento previsto no Código de Processo Penal.
+Assim, tem essa fase inicial do procedimento bifásico do Tribunal do Júri o objetivo de avaliar a suficiência ou não de razões (justa causa) para levar o acusado ao seu juízo natural. A pronúncia funciona como um filtro pelo qual apenas passam as acusações fundadas, viáveis, plausíveis e idôneas a serem objeto de decisão pelo Conselho de Sentença.
+Além dessa função voltada a preservar o réu contra acusações infundadas, a instrução preliminar objetiva preparar o julgamento a ser realizado pelo juízo da causa. Ao contrário dos atos do inquérito policial, em que os elementos de informação são colhidos sem a necessária participação dialética das partes, as provas produzidas durante o judicium accusationis terão plena eficácia e validade perante o órgão julgador da causa, por haverem sido produzidas com observância do contraditório, na presença das partes e do juiz.
+Logo, embora a análise aprofundada das provas seja feita somente pelo Tribunal Popular, não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem qualquer lastro probatório judicializado, fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial, mormente quando isolados nos autos e até em oposição parcial ao que se produziu sob o contraditório judicial.
+No caso vertente, há prova produzida na primeira fase do procedimento judicial que autoriza a submissão do acusado a julgamento pelo Tribunal Popular.
+Com efeito, a testemunha Rodolpho Rodrigo, em juízo, declarou que "presenciou o acusado por cima da vítima como se estivesse agredindo-a no rosto, chegando a anotar que o ofendido já estava "meio desacordado" quando conseguiu segurar o agressor".
+A testemunha Adriele, por sua vez, informou que "o ré é pessoa muito forte e foi necessário o auxílio de três pessoas para tirá-lo de cima da vítima; a vítima ficou deitada no chão porque estava tonta e teve sua prótese trincada".
+Depreende-se do referido relato, produzido sob o crivo do contraditório, portanto, a existência de indícios suficientes de autoria delitiva relacionada ao crime de homicídio.
+Não cabe às instâncias ordinárias, tampouco a esta Corte Superior, valorar as provas dos autos e decidir pela tese prevalente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É adequado, tão somente, averiguar se a pronúncia encontra respaldo no caderno probatório, o que ficou demonstrado na hipótese em exame.
+Assim, deve ser mantida na pronúncia a mencionada qualificadora, porquanto incumbe aos jurados, no exercício da sua soberana função constitucional, cotejar as provas produzidas, escolher a versão que lhes parecer mais verossímil e decidir a causa conforme suas convicções, nos termos do art. 5º, XXXVIII, "d", da CF.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
