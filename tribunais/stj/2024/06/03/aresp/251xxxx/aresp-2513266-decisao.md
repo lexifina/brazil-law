@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  OSMAR  RAMOS  GOMES,  contra  a  decisão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  TOCANTINS,  que  inadmitiu  recurso  especial  manejado  em  face  de  acórdão  proferido  no  Agravo  em  Execução  n.  0003765-97.2023.8.27.2700/TO.
+O  Tribunal  de  origem  negou  provimento  ao  agravo  em  execução,  no  qual  era  requerida  a  substituição  de  frequência  a  curso  profissionalizante  junto  às  entidades  do  chamado  Sistema  S  por  assinaturas  mensais  em  delegacia  de  polícia  mais  próxima  de  sua  residência,  em  acórdão  assim  ementado  (fl.  37):
+AGRAVO  EM  EXECUÇÃO  PENAL.  PENA  RESTRITIVA  DE  DIREITOS.  PEDIDO  DE  ALTERAÇÃO  NA  FORMA  DE  CUMPRIMENTO.  IMPOSSIBILIDADE.  RECURSO  CONHECIDO  E  IMPROVIDO.  DECISÃO  MANTIDA.
+1.  As  dificuldades  alegadas  pelo  agravante  não  configuram  impossibilidade  efetiva  de  seu  adimplemento  capaz  de  justificar  excepcional  alteração  da  modalidade  de  cumprimento  da  reprimenda,  notadamente  porque  o  cumprimento  de  qualquer  sanção  penal  requer  algum  sacrifício  da  parte  condenada.
+2.  Mantida  a  decisão  que  indeferiu  o  pedido  de  substituição  da  pena  restritiva  de  direitos  consistente  na  realização  de  curso  por  outra  forma  de  cumprimento.
+3.  Agravo  em  execução  desprovido.
+Nas  razões  do  recurso  especial,  a  parte  alega  violação  dos  arts.  36  do  Código  Penal,  e  116  da  Lei  de  Execução  Penal,  ao  argumento  de  que
+as  particularidades  do  caso  justificam  a  modificação  das  condições  de  execução  da  pena,  a  saber,  trata-se  de  pessoa  humilde,  sem  condições  de  locomoção,  residente  em  área  rural,  com  reais  dificuldades  de  operar  instrumentos  tecnológicos  próprios  dos  cursos  impostos  como  medida  para  a  execução  da  pena  (fl.  54).
+Contrarrazões  apresentadas  às  fls.  60/62.
+O  Tribunal  a  quo  inadmitiu  o  apelo  especial  por  incidência  da  Súmula  n.  7/STJ,  fundamento  contra  o  qual  se  insurge  a  parte  agravante  (fls.  79/84).
+Parecer  do  Ministério  Público  Federal  pelo  não  provimento  do  agravo  (fls.  105/108).
+É  o  relatório.
+DECIDO.
+Preenchidos  os  requisitos  formais  e  impugnados  os  fundamentos  da  decisão  agravada,  conheço  do  agravo  e  passo  ao  exame  do  recurso  especial.
+Acerca  da  alteração  na  forma  de  cumprimento  da  pena,  para  melhor  compreensão  da  controvérsia,  transcrevo  a  fundamentação  utilizada  pelo  Tribunal  de  origem  para  negar  o  pedido,  in  verbis  (fls.  29/31):
+O  agravante  foi  colocado  em  regime  aberto  domiciliar,  por  não  haver  estabelecimento  penal  adequado  para  o  cumprimento  de  sua  pena  no  regime  semiaberto.  Para  tanto,  as  condições  de  sua  admissão  foram  expostas  ao  apenado  e  seu  defensor  na  audiência  admonitória  ocorrida  em  05/08/2022  (evento  54):
+(..)
+Em  momento  posterior  a  defesa  do  agravante  solicitou  a  alteração  da  forma  de  cumprimento  da  pena  e  ao  decidir  a  Juíza  a  quo  afirmou  o  seguinte:
+Os  cursos  oferecidos  são  rápidos,  não  demandam  longos  dias  de  deslocamento,  alguns  são  realizados  inclusive  online,  mas  nas  dependências  das  instituições  (Sesi,  Sesc,  Senac).
+O  cumprimento  da  pena  requer  um  mínimo  de  esforço  e  compromisso  do  apenado.
+Indefiro  o  pleito.
+Ora,  a  despeito  das  considerações  expostas  pelo  agravante,  tenho  que  a  argumentação  não  é  suficiente  a  ensejar  a  substituição  da  forma  de  cumprimento  da  sua  pena.
+Como  bem  pontuou  o  órgão  ministerial  em  situações  excepcionais,  é  possível  a  substituição  das  condições  fixadas  para  a  progressão  de  regime  mas  isso  não  se  trata  de  direito  absoluto  e  a  concessão  do  referido  benefício  sempre  deverá  ser  pautada  de  forma  a  conciliar  as  normas  que  regem  a  matéria.
+(..)
+Na  verdade,  a  meu  sentir,  o  agravante  irresigna-se  quanto  a  transtornos  inerentes  ao  cumprimento  da  sua  pena  e,  por  essa  razão,  busca  convertê-la  para  aquela  que  lhe  seja  mais  conveniente,  desincumbindo-se,  assim,  precocemente  de  sua  responsabilidade  com  a  Justiça.
+Todavia,  entendo  que  as  dificuldades  alegadas  pelo  agravante  não  configuram  impossibilidade  efetiva  de  seu  adimplemento  capaz  de  justificar  excepcional  alteração  da  modalidade  de  cumprimento  da  reprimenda,  notadamente  porque  o  cumprimento  de  qualquer  sanção  penal  requer  algum  sacrifício  da  parte  condenada.
+A  princípio,  cumpre  destacar  que  não  cabe  ao  réu  a  escolha  da  reprimenda  que  deverá  cumprir,  porquanto  a  aplicação  da  pena  representa  manifestação  da  soberania  do  Estado.  Assim,  compete  ao  magistrado,  no  uso  da  discricionariedade,  e  em  atenção  à  proporcionalidade  da  reprovação  da  conduta  praticada,  a  decisão  acerca  da  pena,  não  se  tratando,  portanto,  de  direito  subjetivo  do  apenado.
+No  mais,  embora  o  art.  116  da  LEP  tenha  a  previsão  de  que  o  juízo  poderá  modificar  as  condições  estabelecidas  a  requerimento  do  condenado -  desde  que  as  circunstâncias  assim  o  recomendem -,  no  presente  caso,  a  Corte  de  origem,  amparada  pelo  acervo  fático-probatório  nos  autos,  foi  clara  ao  afirmar  que  as  dificuldades  alegadas  pelo  agravante  não  configuram  impossibilidade  efetiva  de  seu  adimplemento  capaz  de  justificar  excepcional  alteração  da  modalidade  de  cumprimento  da  reprimenda  (fl.  31).
+Nesse  contexto,  para  concluir  de  forma  diversa,  seria  necessário  o  exame  aprofundado  de  provas,  o  que  é  vedado  em  recurso  especial,  a  teor  da  Súmula  n.  7  desta  Corte:  A  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial.
+A  propósito:
+AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  EXECUÇÃO  PENAL.  PENA  RESTRITIVAS  DE  DIREITOS.  ALTERAÇÃO  DE  HORÁRIO  DE  PRESTAÇÃO  DE  SERVIÇOS  COMUNITÁRIOS.  SUBSTITUIÇÃO  POR  PRESTAÇÃO  PECUNIÁRIA.  IMPOSSIBILIDADE.
+1.  É  vedado  ao  Juízo  da  Execução  alterar  a  pena  restritiva  de  direitos  estabelecida  em  sentença  condenatória  transitada  em  julgado,  sendo-lhe  possível  apenas  alterar  a  forma  de  seu  cumprimento  adaptando-a  às  peculiaridades  do  caso  concreto,  a  fim  de  possibilitar  o  regular  cumprimento  da  medida  pelo  condenado,  sem  prejuízo  de  suas  atividades  profissionais.
+2.  No  caso,  contudo,  consignaram  as  instâncias  ordinárias  que  não  há  nos  autos  elementos  que  indiquem  a  impossibilidade  do  condenado  prestar  serviços  conforme  designado.  Concluir  de  forma  diversa  implica  em  exame  aprofundado  de  provas,  vedado  em  recurso  especial,  a  teor  da  Súm.  n.  7/STJ.
+3.  Agravo  regimental  a  que  se  nega  provimento.
+(AgRg  no  REsp  n.  1.988.089/RS,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  7/6/2022,  DJe  de  13/6/2022  -  grifamos)
+PENAL  E  PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  1.  EXECUÇÃO  PENAL.  SUBSTITUIÇÃO  DA  PENA.  RESTRITIVAS  DE  DIREITOS.  DUAS  PENAS  DE  PRESTAÇÃO  DE  SERVIÇO  À  COMUNIDADE.  AUSÊNCIA  DE  ÓBICE  LEGAL.  2.  ADEQUAÇÃO  DAS  PENAS.  IMPOSSIBILIDADE  DE  ANÁLISE.  SÚMULA  7/STJ.  3.  AGRAVO  REGIMENTAL  A  QUE  SE  NEGA  PROVIMENTO.
+1.  O  art.  44,  §  2º,  do  Código  Penal  dispõe  que,  "se  superior  a  um  ano,  a  pena  privativa  de  liberdade  pode  ser  substituída  por  uma  pena  restritiva  de  direitos  e  multa  ou  por  duas  restritivas  de  direitos",  a  critério  do  Magistrado,  no  exercício  de  sua  discricionariedade  motivada.  Dessa  forma,  diferentemente  da  leitura  realizada  pelo  agravante,  não  há  óbice  à  fixação  de  duas  penas  de  prestação  de  serviço  à  comunidade,  devendo,  cada  qual,  observar  o  parâmetro  do  art.  46,  §  3º,  do  Código  Penal.
+2.  Não  cabe  ao  Superior  Tribunal  de  Justiça  proceder  ao  revolvimento  dos  fatos  e  das  provas  dos  autos,  com  o  objetivo  de  aferir  se  a  escolha,  no  caso  concreto,  de  duas  penas  de  prestação  de  serviço  à  comunidade  se  mostra  adequada,  haja  vista  o  óbice  do  enunciado  n.  7  da  Súmula  do  Superior  Tribunal  de  Justiça.
+3.  Agravo  regimental  a  que  se  nega  provimento.
+(AgRg  no  REsp  n.  1.794.829/SE,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  23/6/2020,  DJe  de  30/6/2020  -  grifamos)
+PENAL  E  PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CRIME  DE  FURTO  QUALIFICADO.  SUBSTITUIÇÃO  DA  PENA  ALTERNATIVA.  PENA  SUPERIOR  A  1  (UM)  ANO.  UMA  RESTRITIVA  E  OUTRA  DE  MULTA  MAIS  BENÉFICA.  IMPROCEDÊNCIA.  REEXAME  DO  ACERVO  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.  DISCRICIONARIEDADE  DO  JULGADOR.
+AGRAVO  NÃO  PROVIDO.
+1.  O  Tribunal  a  quo  justificou,  diante  das  peculiaridades  do  caso  concreto,  que  as  penas  restritivas  de  direitos  de  limitação  de  final  de  semana  e  de  prestação  de  serviços  à  comunidade  ou  a  entidades  públicas  são  as  medidas  socialmente  recomendáveis  para  a  prevenção  e  reparação  do  delito  de  furto  qualificado  cometido  pelo  recorrente.
+2.  Para  alterar  a  conclusão  a  que  chegaram  as  instâncias  ordinárias  e  modificar  as  espécies  de  penas  restritivas  de  direitos,  qual  seja,  para  uma  restritiva  de  direitos  e  uma  de  multa,  seria  necessário  o  revolvimento  do  conjunto  fático-probatório,  o  que  é  vedado  pela  Súmula  7/STJ.
+3.  Fixada  a  sanção  corporal  em  patamar  superior  a  1  (um)  ano,  compete  ao  julgador  a  escolha  do  modo  de  aplicação  da  benesse  legal  prevista  no  art.  44,  §  2º,  segunda  parte,  do  CP,  substituição  da  pena  privativa  de  liberdade  por  uma  pena  restritivas  de  direitos  e  multa  ou  por  duas  restritivas  de  direitos  (Precedente).
+4.  Agravo  regimental  não  provido.
+(AgRg  no  AREsp  n.  1.411.893/SC,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  2/4/2019,  DJe  de  8/4/2019  -  grifamos)
+
+Ante  o  exposto,  com  base  no  art.  253,  inciso  II,  alínea  "b",  do  Regimento  Interno  do  STJ,  conheço  do  agravo  para  negar  provimento  ao  recurso  especial.
+Publique-se.  Intimem-se.
+EMENTA
