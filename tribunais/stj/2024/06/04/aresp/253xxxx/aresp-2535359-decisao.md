@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DE ALAGOAS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, que inadmitiu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, dirigido contra o acórdão prolatado no Agravo Interno Cível n. 0723855-35.2020.8.02.0001/50000.
+Nas razões do apelo nobre, alega a existência de decisão de mérito a ensejar o conhecimento do recurso como apelação, com violação dos arts. 203, § 1º, e 1.009 do CPC/2015, com a seguinte argumentação (fls. 255-257):
+ ..
+Com efeito, se a eventual impugnação é julgada como incidente, sendo dado seguimento ao procedimento de execução, o recurso cabível é o agravo de instrumento. No entanto, se como no caso em tela o julgamento da impugnação extingue a execução, encerrando esta fase, o recurso cabível seria a apelação.
+ ..
+Repise-se: a decisão da qual se recorreu não foi julgamento da impugnação apresentada pelo Estado de Alagoas, porque sequer a este foi oportunizada a manifestação. O pronunciamento jurisdicional simplesmente decidiu definitivamente a fase de execução provisória, julgando procedente o pedido realizado pelo exequente individual, encerrando o procedimento.
+Em essência, portanto, trata-se de sentença, já que não haveria mais o que se decidir, tendo nela já sido determinada expedição de ofício de cumprimento ao Tribunal de Justiça alagoano.
+Aliás, vale recordar que o suposto "erro grosseiro" foi induzido pelo próprio juízo de primeira instância. É que a decisão impugnada foi intitulada "sentença" (fls.109/111 dos autos originários) e não "decisão interlocutória". Logo, o Estado de Alagoas não pode ser prejudicado pelo fato de ter interposto recurso de apelação.
+Ainda, alega a possibilidade de aplicação do princípio da fungibilidade recursal ante a existência de dúvida o objetiva a respeito do recurso cabível, com violação dos arts. 277 e 283 do CPC/2015 .
+No final, suscita dissídio jurisprudencial, tendo como base as duas controvérsias ponderadas acima, requerendo o provimento do recurso.
+O recurso especial não foi admitido pela incidência do óbice previsto na Súmula n. 7 do STJ (fls. 338-343).
+Apresentada a contraminuta ao agravo (fls. 402-417).
+O Ministério Público Federal manifestou-se às fls. 435-439.
+É o relatório.
+Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos recursais, razão pela qual passo à análise do recurso especial.
+De início, verifica-se que o Tribunal a quo assim se manifestou no agravo interno em apelação (fls. 241-242; sem grifos no original):
+ ..
+7 Nos autos do recurso principal, proferi decisão monocrática (fls. 204/206) no sentido de não conhecer do recurso de apelação interposto, em razão de seu não cabimento, considerando a irregularidade formal deste.
+8 Conforme consignado na ocasião, a parte apelante apresentou recurso de apelação em face da decisão que determinou "a expedição de oficio ao Desembargador Presidente do Tribunal de Justiça de Alagoas para que, no prazo de 60 (sessenta) dias, contados da intimação, cumpra a obrigação de fazer imposta pela sentença proferida no processo nº. 0720922-31.2016.8.02.0001, mantida pelo Tribunal de Justiça de Alagoas, em sede de apelação".
+9 Ocorre que, no diploma processual pátrio em vigor, resta estabelecido em seu art. 1.009, que apelação é o recurso cabível em face de sentença, não havendo do que se falar em interposição do referido recurso em face de decisão que determina expedição de ofício. Senão vejamos: "Art. 1.009. Da sentença cabe apelação".
+10 É cediço que, para o conhecimento do recurso de apelação, a verificação de seus requisitos extrínsecos (cabimento, interesse recursal e legitimidade) e intrínsecos (preparo e tempestividade) é imperativa, sendo possível ao relator, monocraticamente, na forma do art. 932, III, do Código de Processo Civil, deixar de conhecer o recurso que não preencha referidos requisitos.
+11 In casu, não obstante o magistrado de primeiro grau tenha utilizado a nomeclatura "sentença" o provimento jurisdicional impugnado tem natureza jurídica de decisão interlocutória, contra a qual, em determinadas situações, previstas no ordenamento jurídico é cabível o recurso de agravo de instrumento.
+12 Ressalto ainda, que após a decisão proferida o magistrado não encerrou o procedimento no primeiro grau, tendo sido proferido o ato ordinatório às fls.121, determinado a intimação do autor acerca das alegações e documentos apresentados pela fazenda pública, bem como o ato ordinatório à fl 129, determinando a intimação da executada acerca dos documentos apresentados pelo autor. Os autos somente foram remitidos a este Órgão de jurisdição após a interposição do recurso equivocado.
+13 Desse modo, no caso em tela a interposição do recurso de apelação configura erro grosseiro, o que inviabiliza a aplicação da fungibilidade recursal e, por conseguinte, dá ensejo ao não conhecimento do recurso de apelação por ausência de regularidade formal.
+Em que pese a interposição de apelação em vez de agravo de instrumento, salienta-se que, no caso concreto, o Juiz singular deu devido tratamento de sentença à decisão, denominando-a e registrando-a, bem c omo recebendo e processando o recurso de apelação, fazendo com que o Recorrente fosse induzido a erro.
+Com efeito, deve-se ter em mente que, assim como existem casos em que o não convencimento impera na doutrina e na jurisprudência, a ensejar a dúvida objetiva, há situações em que os termos em que é redigida a decisão pelo julgador são determinantes para a interposição equivocada do recurso.
+Assim, conforme precedentes dessa Corte, é necessária a relativização do conceito de dúvida objetiva com a aplicação do princípio da fungibilidade, por estarem afastadas a suspeição de má-fé e o erro grosseiro. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA ENTRE AS TURMAS DA 2ª SEÇÃO EM CASOS IDÊNTICOS, INCLUSIVE ENVOLVENDO AS MESMAS PARTES E ÓRGÃOS JUDICIAIS DE 1ª E 2ª INSTÂNCIAS. EXCEPCIONALIDADE DO CASO CONCRETO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCLUSÃO DE EXECUTADO DO POLO PASSIVO. INTERPOSIÇÃO DE APELAÇÃO AO INVÉS DE AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DE MÁ-FÉ. INDUÇÃO A ERRO PELO JUÍZO. RELATIVIZAÇÃO DA DÚVIDA OBJETIVA NA RESTRITA HIPÓTESE DOS AUTOS. PRINCÍPIO DA FUNGIBILIDADE. APLICABILIDADE. PRECEDENTES. EMBARGOS DE DIVERGÊNCIA A QUE SE DÁ PROVIMENTO. (EAResp 230380/RN, Rel. Min. Paulo de Tarso Sanseverino, por unanimidade, julgado em 13/09/2017, DJe 11/10/2017.)
+PROCESSO CIVIL. RECURSO ESPECIAL. INCIDENTE DE FALSIDADE.INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO EM VEZ DE APELAÇÃO. INEXISTÊNCIA DE MÁ-FÉ E ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. APLICABILIDADE.
+1. O reexame de fatos e provas em recurso especial é inadmissível.
+2. É possível sanar o equívoco na interposição do recurso pela aplicação do princípio da fungibilidade recursal, se inocorrente erro grosseiro e inexistente má-fé por parte do recorrente.
+3. Induzir a interposição de recurso equivocado pelo próprio órgão recorrido, aliada ao prazo mais exíguo do agravo de instrumento, quando em comparação com a apelação, afasta a suspeita de má-fé e o erro grosseiro, permitindo a aplicação do princípio da fungibilidade recursal.
+4. Recurso especial a que se nega provimento. (REsp 1.104.451/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/08/2011, DJe 15/08/2011.)
+PROCESSUAL CIVIL - VIOLAÇÃO AO ART. 535 DO CPC - INOCORRÊNCIA - RECUSA DE FIANÇA BANCÁRIA - APRESENTAÇÃO DE NOVA CARTA DE FIANÇA - DATA DA JUNTADA NÃO CONSTANTE DOS AUTOS - PRAZO PARA EMBARGOS À EXECUÇÃO - INDUÇÃO A ERRO PELO JUIZ - PREJUÍZO AO JURISDICIONADO - IMPOSSIBILIDADE.
+ ..
+5. Ainda que equivocado o despacho que concede prazo maior para oferecimento de embargos, tem entendido esta Corte que não pode o jurisdicionado responder por erro induzido pelo magistrado. Precedentes.
+6. Recurso especial parcialmente provido. (REsp 720.063/ES, Rel. Min. Eliana Calmon, Segunda Turma, julgado em 22/3/2005, DJ de 20/3/2006)
+Ante o exposto, com fundamento no art. 932 do CPC, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial a fim de anular o acórdão recorrido e determinar o prosseguimento do julgamento da apelação como entender de direito .
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. INADMISSÃO DO APELO PELO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE APELAÇÃO AO INVÉS DE AGRAVO DE INSTRUMENTO. INDUÇÃO A ERRO PELO JUÍZO. RELATIVIZAÇÃO DA DÚVIDA OBJETIVA. APLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. INEXISTÊNCIA DE MÁ-FÉ E ERRO GROSSEIRO. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
