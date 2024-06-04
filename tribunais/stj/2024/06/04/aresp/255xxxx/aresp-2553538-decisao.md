@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA DE PREVIDÊNCIA DOS FUNCS DO BANCO DO BRASIL em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+Agravo de Instrumento  Liquidação de sentença por arbitramento  Financiamento imobiliário  Laudo pericial em harmonia com a coisa julgada  Recurso improvido.
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 917 do NCPC, 884, 885, 886, do Código Civil de 2002, sustentando, em síntese, isto: (a) "No sistema SAC a amortização é fixa durante todos os anos de financiamento, assim como a taxa de juros. Esse percentual, no entanto, é calculado, mensalmente, apenas sobre o saldo devedor, e este diminui a cada prestação paga. O que não é observado pelo Expert" (fl. 95); (b) "(..) o resultado de os cálculos periciais deve ser retificados para considerar os índices originalmente aplicados no contrato e o reajuste mensal do saldo devedor" (fl. 98); (c) "Neste sentido, os cálculos da ré, afasta a incorporação das amortizações negativas ao saldo devedor, registrando seus valores em coluna apartada na evolução do contrato, conforme demonstrado nos cálculos da ré" (fl. 99).
+É o relatório.
+Em suas razões de recurso especial a parte agravante alega, em síntese, que houve excesso de apuração no trabalho pericial, uma vez que não guardam compatibilidade a metodologia de amortização de financiamento imobiliário, não respeitando os Regulamentos da CARIM e do comando judicial.
+Quanto ao ponto, o eg. Tribunal de origem consigna que o laudo pericial foi elaborado em harmonia com o título e aos documentos juntados aos autos, verbis:
+A metodologia de cálculo adotada e as conclusões foram expressa e justificadamente indicadas no laudo (id 136408804  autos principais).
+Como esclareceu o expert, a decisão da Turma de que a atualização do saldo precede a dedução da prestação paga (invertendo a ordem constante da sentença) inviabiliza a utilização do SAC, razão pela qual ele se utilizou da Tabela Price, mas sem capitalização mensal de juros (e, ao final, é isso o que importa) proibida na sentença e no acórdão.
+Quanto ao suposto erro na atualização do saldo devedor com periodicidade anual entre 08/1999 a 02/2006, quando o correto seria, segundo a agravante, a mensal, o perito esclareceu:
+"o período corresponde a 03/1996 a 08/1999 e não 02/2006 a 08/1999 como citado acima. Assim, este perito assegura que as correções do saldo devedor do processo habitacional consagrado entre as partes contavam com reajustes anuais conforme demonstrado no recorte do ID 136406494 datado de 12/08/2022, disponibilizado inclusive pela parte ré para o labor pericial". (id 147782105  autos principais).
+Portanto, a periodicidade considerada pelo perito corresponde à dos documentos apresentados pela agravante.
+No que se refere ao afastamento da incorporação das amortizações negativas e à exclusão dos juros das parcelas não pagas, o expert destacou:
+"6. É latente que a parte ré não laborou com esmero na manifestação ID 141558378, está explicitado: que a evolução do contrato se entremostra em 2 (duas) tabelas com formatação distinta para a evolução do contrato. Todavia, a importância de R$ 128.773,37 refere-se somente a soma da coluna PARCELA DE JUROS NÃO PAGA ATUALIZADA para o período de 03/1993 até 03/2003, e concomitantemente o respectivo valor é transferido para outro formato de tabela, para fins de demonstração dos valores apurados até 03/2003, sem agregar impacto nos achados periciais. (id 147782105  autos principais).
+A liquidação de sentença deve guardar fidelidade à coisa julgada e aos documentos juntados aos autos para a apuração dos valores devidos que, no caso, foram observados nos cálculos periciais.
+Posto isso, nego provimento ao agravo de instrumento.
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a discordância técnica em relação aos cálculos periciais, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. AUMENTO POR SINISTRALIDADE. FALTA DE COMPROVAÇÃO DA NECESSIDADE. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. JULGAMENTO ULTRA PETITA. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+(..)
+5. O Tribunal de origem - reconhecendo que a cláusula de majoração por sinistralidade, por si só, não é ilegal - considerou abusivos os percentuais de reajuste aplicados pela empresa de saúde, no presente caso, com base na prova documental juntada aos autos, ante a ausência de demonstração do aumento dos custos operacionais e a falta de informação quanto aos valores aplicados.
+6. Em tais condições, o exame da pretensão recursal - no sentido de averiguar a regularidade dos percentuais de reajuste aplicados - demandaria nova análise da matéria fática, inviável em recurso especial, nos termos da Súmula n. 7/STJ.
+7. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.973.858/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/3/2023, DJe de 16/3/2023)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
