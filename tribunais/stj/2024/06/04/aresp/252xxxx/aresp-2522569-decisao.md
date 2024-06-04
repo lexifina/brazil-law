@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por DIEGO FERNANDO MACHADO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 1.219):
+ADMINISTRATIVO. QUEDA NO INTERIOR DE INSTALAÇÕES PÚBLICA. RESPONSABILIDADE CIVIL OBJETIVA. DANO MORAL. MAJORAÇÃO.
+1. De acordo com o teoria do risco administrativo, adotada pelo art.37, §6º, da Constituição Federal, os requisitos para a configuração da responsabilidade civil das pessoas jurídicas de direito público ou de seus concessionários são: (a) ato comissivo ou omissivo; (b) dano; (c) nexo de causalidade.
+2. Comprovada a ciência da Justiça Federal acerca do risco de rampa de acesso e omissão em solvê-lo durante mais de um ano, a queda que provocou fratura e colocação de pinos em servidor público tem evidente nexo de causalidade com sua conduta, justificando a condenação por dano moral fixado em R$ 25.000,00 considerando o período afastado do labor e das atividades sociais bem como as sequelas decorrentes.
+Embargos de declaração rejeitados (e-STJ fl. 1.257).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação do art. 5º, V e X, da Constituição Federal e dos arts. 927, 944 e 953 do Código Civil.
+Defende que "o quantum indenizatório fixado pelo v. acórdão não foi proporcional ao agravo cometido" (e-STJ fl. 1.281).
+Contrarrazões às e-STJ fls. 1.310/1.314.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação aos dispositivos da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No tocante à indenização arbitrada a título de danos morais, observo que incide in casu o óbice da Súmula 7 do STJ, pois esta Corte entende que a revisão do quantum indenizatório somente é possível em hipóteses excepcionais, quando verificada a ofensa aos princípios da razoabilidade e proporcionalidade, situação não evidenciada nos autos, uma vez que os danos morais foram fixados em R$ 25.000,00 (vinte e cinco mil reais), em razão de fratura no tornozelo de servidor público, decorrente de queda na rampa de acesso ao prédio da Subseção Judiciária de Guaíra/PR.
+Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DANOS MORAIS. QUANTUM ESTABELECIDO. REVISÃO DO CONTEXTO FÁTICO- PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Ação Civil Pública ajuizada pelo Ministério Público Federal em face do Conselho Regional de Medicina do Mato Grosso do Sul - CRM/MS e de Alberto Jorge Rondon de Oliveira, em razão da realização de reiteradas cirurgias plásticas das quais derivaram danos materiais, morais e estéticos em diversos pacientes, objetivando a condenação dos réus à indenização pelas sequelas advindas dos procedimentos cirúrgicos indevidamente realizados pelo ex-médico (fl. 257, e- STJ).
+2. O Tribunal de origem, à luz das circunstâncias fáticas da causa, arbitrou os danos morais. Deste modo, a revisão do quantum estabelecido enseja o reexame fático-probatório dos autos, procedimento vedado pela Súmula 7/STJ.
+3. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais fixado na origem, a jurisprudência permite o afastamento do óbice da Súmula 7 do STJ. No caso dos autos, verifica-se que o quantum estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação em Recurso Especial.
+4. Recurso Especial não conhecido. (REsp 1.675.082/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2017, DJe 16/10/2017) (Grifos acrescidos) .
+Por fim, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos a utos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
