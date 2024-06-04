@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por BOM JARDIM SANTA BARBARA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COMPROMISSO DE COMPRA E VENDA DE LOTE DE TERRENO RESCISÃO IMOTIVADA DO ADQUIRENTE CONTRATO FIRMADO NA VIGÊNCIA DA LEI Nº 13.786/2018 RETENÇÃO DE MULTA COMPENSATÓRIA CUMULADA COM DESPESAS ADMINISTRATIVAS, NO PERCENTUAL DE 10% DO VALOR DO CONTRATO PARA CADA VERBA DESCABIMENTO POSSIBILIDADE DE RETENÇÃO APENAS DA MULTA, REDUZIDA PARA 10% DA SOMA DAS QUANTIAS PAGAS APLICAÇÃO DO ART. 413 DO CÓDIGO CIVIL DESCONTO DA COMISSÃO DE CORRETAGEM SOBRE O VALOR A SER RESTITUÍDO AO ADQUIRENTE POSSIBILIDADE RETENÇÃO DE VALORES REFERENTES AO PAGAMENTO DE TRIBUTOS NÃO CABIMENTO NA ESPÉCIE SENTENÇA REFORMADA, COM REDISTRIBUIÇÃO DA RESPONSABILIDADE PELOS ÔNUS SUCUMBENCIAIS.
+APELAÇÃO PARCIALMENTE PROVIDA" (fl. 318)
+A recorrente aponta ofensa ao art. 32-A da Lei n. 13.786/2018, sustentando ser lícita a cláusula penal, prevista em compromisso de compra e venda de imóvel para casos de distrato, em até 10% do valor atualizado do contrato.
+Contrarrazões às fls. 344/358.
+É o relatório.
+Trata-se, na origem, de ação de rescisão de compromisso de compra e venda, em que se postula a declaração de nulidade da cláusula contratual que permite, na hipótese de distrato do ajuste, a retenção, pelo promitente-vendedor, de até 10% (dez por cento) do valor atualizado do contrato, a título de cláusula penal e de despesas administrativas.
+O principal argumento deduzido pelo autor, para se reconhecer a nulidade de referido dispositivo contratual, é o de que o valor retido, na hipótese, alcança patamares abusivos, implicando, para ele (promitente-comprador), a perda total das parcelas pagas, em verdadeiro enriquecimento ilícito da parte contrária.
+Esse argumento, contudo, foi rejeitado pelo juízo sentenciante, que julgou válida a cláusula 6.6 do contrato, atendendo a comando legal expresso do art. 32-A, II, da Lei n. 13.876/2018, julgando improcedente a demanda, nessa parte.
+Em 2º grau, contudo, o eg. TJSP acolheu a alegação do autor. Entendeu a Corte que, apesar do art. 32-A, II, da Lei n. 13.876/2018, a previsão da multa em 10% sobre o valor do contrato ofendia o regime protetivo do Código de Defesa do Consumidor, de modo que a base de cálculo da multa deveria ser fixada sobre os valores pagos, nos termos da jurisprudência, tanto do eg. TJSP, quanto do STJ, fixada antes da edição do referido diploma legislativo, conhecido como "Lei do Distrato".
+Com efeito, em consulta ao site do STJ, notou-se que a Quarta Turma desta Corte Superior ainda não apreciou a controvérsia sobre os efeitos da desistência do compromisso de compra e venda, quando o ajuste é regido pela Lei n. 13.876/2018 - circunstância que impede o julgamento monocrático da irresignação, em respeito ao Enunciado da Súmula n. 568/STJ.
+Ante o exposto, conheço do agravo para determinar a r eautuação do feito como recurso especial.
+Publique-se.
+EMENTA
