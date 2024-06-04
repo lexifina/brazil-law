@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o r. JUÍZO DA 3ª VARA DO TRABALHO DE BLUMENAU-SC, suscitante, em face do r. JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE BLUMENAU-SC, suscitado.
+Ação: Execução de Título Extrajudicial ajuizada por AUTO VIAÇÃO GADOTTI LTDA., em face de ALMIR DA SILVA fundamentada em nota promissória cujo valor de face alcança o importe de R$ 19.000,00 (dezenove) mil reais (fls. 7-10).
+Decisão do juízo suscitado: declinou de sua competência ao fundamento de que "(..) a nota promissória objeto da ação de execução relacionada foi emitida durante a relação de trabalho mantida pelos litigantes e, inclusive, a afirmação da parte embargante de que referido título possui relação direta com o vínculo trabalhista em questão, isto é, decorre dele; e considerando que compete à Justiça do Trabalho processar e julgar "as ações oriundas da relação de trabalho" (CF, art. 114, I),além de "outras controvérsias decorrentes da relação de trabalho, na forma da lei" (CF, art. 114, IX), é evidente a competência da Justiça Especializada." (fls. 338-339).
+Decisão do juízo suscitante: suscitou o conflito em análise, ao principal fundamento segundo o qual "(..) a relação jurídica alegada pela exequente na exordial da execução extrajudicial se limita à cobrança do título de crédito - nem mesmo há menção ao contrato de trabalho anteriormente existente." (fls. 347-352).
+Parecer do Ministério Público Federal: restituiu os autos sem manifestação quanto ao mérito (fls. 450-452).
+É o relatório.
+Decisão.
+1. Destaca-se, inicialmente, a competência deste egrégio Tribunal para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. Verifica-se, na hipótese dos autos, que o pleito formulado objetivou a execução de nota promissória emitida em favor da exequente.
+Nesse contexto, verifica-se a natureza eminentemente civil da lide, deixando clara a competência da Justiça Comum Estadual , pois não se verifica controvérsia envolvendo o reconhecimento de relação empregatícia ou o pagamento de verbas daí decorrentes, de modo a atrair a competência para a Justiça do Trabalho. Nestes termos: CC n. 132.460/PB, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 10/2/2021, DJe de 18/2/2021; CC n. 169.024/MT, relator Ministro Raul Araújo, Segunda Seção, julgado em 9/3/2022, DJe de 14/3/2022; AgInt no CC n. 156.615/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Segunda Seção, julgado em 23/5/2018, DJe de 1/6/2018.
+3. Ante o exposto, com fundamento no art. 955, do NCPC c/c Súmula 568/STJ, conheço do conflito para declarar a competência do r. JUÍZO DE DIREITO DA 4.ª VARA CÍVEL DE BLUMENAU-SC, o suscitado.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
