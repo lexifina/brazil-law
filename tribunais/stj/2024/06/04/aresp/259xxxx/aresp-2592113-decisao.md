@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANGRA PARTNERS GESTAO DE RECURSOS LTDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. DECISÃO QUE INDEFERE O PEDIDO DE LEVANTAMENTO DA PERSONALIDADE JURÍDICA DAS EXECUTADAS PARA ATINGIR PATRIMÔNIO DE TERCEIROS. NECESSÁRIO ATENDIMENTO AOS REQUISITOS DO ARTIGO 50 DO CÓDIGO CIVIL (DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL).
+INTELIGÊNCIA DOS ENUNCIADOS Nº 7, 51 E 146 DAS JORNADAS DE DIREITO CIVIL.
+MAGISTÉRIO DA DOUTRINA. ÚNICO CONTRATO DE MÚTUO EM VALOR DIMINUTO SE COMPARADO AO CAPITAL SOCIAL INTEGRALIZADO DA EXECUTADA, MUTUÁRIA, QUE NÃO SE MOSTRA SUFICIENTE À DECRETAÇÃO DA MEDIDA EXCEPCIONAL. IMPOSSIBILIDADE DE CONDENAÇÃO DA PARTE SUCUMBENTE EM HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL. INTELIGÊNCIA DOS ARTS. 85, § 1º E 136, AMBOS DO CPC.
+SITUAÇÃO QUE NÃO SE AMOLDA AO PARÂMETRO DE CASOS EXCEPCIONAIS (ERESP 1366014/SP). EXTINÇÃO OU ALTERAÇÃO DO PROCESSO PRINCIPAL NÃO VERIFICADA. A INDICAÇÃO DE "NOVOS DEVEDORES" NÃO EXTRAPOLA OS OBJETIVOS COMUNS DO INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. APRESENTAÇÃO DE DEFESA QUE NÃO JUSTIFICA A PRETENSÃO.
+PRECEDENTES DO STJ E DESTE TRIBUNAL.
+DESPROVIMENTO DOS AGRAVOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 85, § 1º, do CPC, no que concerne ao cabimento de arbitramento de honorários sucumbenciais no incidente de desconsideração da personalidade jurídica, quando demonstrada modificação substancial no processo, no caso de alteração das partes, trazendo a seguinte argumentação:
+10. No entanto, ao decidir dessa forma, o v. acórdão recorrido incidiu em violação ao disposto no art. 85, §1º, do CPC, que prevê as hipóteses de fixação dos honorários em sede de execução.
+11. Em primeiro lugar, porque mesmo se aplicado o entendimento de parte da jurisprudência (como o REsp nº 1.845.536/SC e o EREsp n. 1.366.014/SP) no sentido de que, via de regra, "não são cabíveis honorários advocatícios nos incidentes processuais", tem-se aqui hipótese clara da exceção já estabelecida pela Corte Especial do STJ, segundo a qual os honorários são devidos nos incidentes processuais quando eles "são capazes de extinguir ou alterar substancialmente o próprio processo principal". Confira-se:
+ ..
+12. O incidente de desconsideração em questão era perfeitamente capaz de "alterar substancialmente o próprio processo principal", na medida em que objetivava, inserir no polo passivo da execução de origem, três novos devedores, que passariam a ser integral e imediatamente responsáveis por dívida milionária, em quantia superior a R$ 23.000.000,00.
+ ..
+14. Nesse caso, instaurado o incidente de desconsideração, há, portanto, uma ampliação subjetiva e objetiva do processo, consistindo em uma "nova demanda em face de terceiro (a pessoa que terá sua esfera jurídica atingida pela desconsideração)". 2 Aproxima-se, portanto, da propositura de uma nova ação, em que os terceiros, ainda não representados no feito, precisarão nomear advogados para a defesa de seus interesses em juízo.
+ ..
+16. Portanto, considerando que as 3 (três) requeridas foram excluídas da relação processual, houve sim modificação substancial da demanda, de modo que deve haver a fixação de honorários sucumbenciais.
+17. Em segundo lugar, deve-se ter em vista que o mencionado art. 85, §1º, do CPC deixa claro que "são devidos honorários advocatícios (..) na execução, resistida ou não".
+Desse modo, considerando que o referido incidente está umbilicalmente ligado ao processo de execução nº 0031194-83.2018.8.19.0001, há fundamento legal expresso para a estipulação de verba honorária, sob pena de violação ao dispositivo legal (fls. 208/210).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como cediço, a Corte Especial, no julgamento do EREsp 1366014/SP, ressalvou os casos excepcionais em que a solução do incidente evidenciar extinção ou alteração substancial do próprio processo principal.
+Contudo, não é o que se divisa destes autos. Isso porque o tão só fato de a parte agravada indicar "novos devedores" não extrapola os objetivos prosaicos do incidente de desconsideração da personalidade jurídica. De fato, sendo o objetivo do instituto o alcance do patrimônio de outras pessoas jurídicas que porventura componham o mesmo conglomerado, é inerente ao procedimento a indicação de sociedades que não componham a relação jurídica principal.(fls. 80).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
