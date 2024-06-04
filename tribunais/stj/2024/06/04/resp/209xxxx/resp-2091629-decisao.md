@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se  de  recurso  especial  manejado  por  WALJE  EMPREENDIMENTOS  IMOBILIARIOS  SOCIEDADE  COML  LTDA.  com  fundamento  no  art.  105,  III,  a  e  c,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo,  assim  ementado  (fl.  62):
+Agravo  de  Instrumento-  Execução  Fiscal  IPTU  -Exercício  de  2006  -  Município  de  Guarulhos-  Ausência  de  publicação  no  DO  do  Anexo  I  (Planta  Genérica  de  Valores)  da  LM  5.753/2001-  Decisão  que  rejeitou  a  exceção  de  pré-executividade  - Agravo  de  Instrumento  para  reforma  e  reconhecimento  da  violação  ao  princípio  da  publicidade  e  ineficácia  da  LM  5.753/01-  Recurso  que  não  comporta  provimento  -  Manutenção  da  r.  decisão  -  Publicidade  efetivada  com  o  registro  do  Anexo  I  da  LM  no  DAL  da  Secretaria  Municipal  e  afixação  em  lugar  público  de  costume,  além  da  disponibilização  no  "site"  da  Prefeitura.  Recurso  denegado.
+Não  foram  opostos  embargos  de  declaração.
+A  parte  recorrente  aponta,  além  do  dissídio  jurisprudencial,  violação  aos  arts.  1º  da  LINDB;  101 e  103  do  CTN.  Sustenta,  em  resumo,  que houve  " falha  na  publicação  da  Lei  Municipal  e,  consequentemente,  da  planta  genérica  de  valores,  o  que  inviabiliza  a  cobrança  do  IPTU  lançado  com  base  na  lei  não  publicada" (fl.  82).
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+A  matéria  pertinente  aos  arts.  1º  da  LINDB,  101  e  103  do  CTN  não  foi  apreciada  pela  instância  judicante  de  origem,  tampouco  foram  opostos  embargos  declaratórios  para  suprir  eventual  omissão.  Portanto,  ante  a  falta  do  necessário  prequestionamento,  incide  o  óbice  da  Súmula  282/STF.
+Ademais,  o  exame  da  controvérsia,  tal  como  enfrentada  pelas  instâncias  ordinárias,  exigiria  a  análise  de  dispositivos  de  legislação  local  (Lei Municipal 5.753/2001),  pretensão  insuscetível  de  ser  apreciada  em  recurso  especial,  conforme  a  Súmula  280/STF  ("Por  ofensa  a  direito  local  não  cabe  recurso  extraordinário.").
+Por  fim,  observe-se  que  o  mesmo  óbice  imposto  à  admissão  do  recurso  pela  alínea  a  do  permissivo  constitucional  impede  a  análise  recursal  pela  alínea  c,  restando  prejudicada  a  avaliação  do  dissídio  jurisprudencial.
+ANTE  O  EXPOSTO,  não  conheço  do  recurso  especial.
+Publique-se.
+EMENTA
