@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto por JEAN CHARLES SILVA LIBORIO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ que manteve a pronúncia pela suposta prática do crime previsto no art. 121, § 2º, incisos I e IV, do Código Penal e crimes conexos (fls. 1.443-1.525).
+Após consulta pública ao processo n. 0027116-43.2017.8.06.0001, tomei conhecimento do falecimento do recorrente, consoante registro de 29/09/2020 (grifei):
+"Encaminhado edital/relação para publicação
+Relação: 0281/2020 Teor do ato: O Eminente Representante do Ministério Público em seu parecer de fls. 2022 e 2050, requereu a extinção da punibilidade dos réus MAYKSON GLEYTSON DE CASTRO JACÓ e JEAN CHARLES SILVA LIBÓRIO, pelo seus falecimentos, comprovados através do exames cadavéricos de fls. 2002 e 2051, conforme dispõe o artigo 107, inciso I, do Códi go Penal. Não há dúvida de que o laudo cadavérico, enquanto documento público, originário da Coordenadoria de Medicina Legal, subscrito e firmado por perito oficial, além de demonstrar e comprovar, plena e cabalmente a morte dos acusados, é supedâneo, condictio sine qua non, ao próprio registro de óbito. Assim, acolho o parecer Ministerial para declarar extinta a punibilidade pela morte dos agentes MAYKSON GLEYTSON DE CASTRO JACÓ e JEAN CHARLES SILVA LIBÓRIO, com fundamento no art. 107, I, do Código Penal. P.R.I. Exp. Nec. Advogados(s): Luis Atila de Holanda Bezerra Filho (OAB 20694/CE), Silvio Vieira da Silva (OAB 11147/CE), Francisco Valdemizio Acioly Guedes (OAB 12068/CE), Joaquim José Miranda Júnior (OAB 56492/MG)"
+Diante do exposto, e nos termos do art. 34, inciso XVIII, alínea "a", do RISTJ, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+EMENTA
