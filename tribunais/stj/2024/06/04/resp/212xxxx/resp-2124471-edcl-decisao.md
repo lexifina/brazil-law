@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 143/147) apresentados contra decisão sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR ATRIBUÍDO Á CAUSA. JUÍZO INCOMPETENTE. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. DISSÍDIO PRETORIANO. AUSÊNCIA DE COTEJO ANALÍTICO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A embargante sustenta que a decisão embargada padece do vício da contradição, na medida em que não pode negar provimento pela negativa de prestação jurisdicional e, ao mesmo tempo, obstar a análise do mérito pela ausência de prequestionamento.
+Requer sejam acolhidos os embargos.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Não obstante os argumentos do embargante, constou expressamente da decisão embargada que:
+Com efeito, verifica-se não ter ocorrido ofensa aos artigos 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.  ..  No que tange à tese relacionada ao suposta malferimento do art. 113, §2º, do CPC/1973, observa-se que não houve pronunciamento explícito sobre a matéria versada no citado dispositivo legal, não obstante opostos embargos de declaração, incide o óbice contido na Súmula 211/STJ,in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Vale acrescentar que este Superior Tribunal de Justiça possui orientação no sentido de que "não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1.022 do CPC/2015, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (AgRg no AREsp 524.768/SP, Relator o Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/08/2014, DJe 15/08/2014).
+Desse modo, não há vício na decisão ora embargada, de modo que a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC.
+Nesse sentido: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
