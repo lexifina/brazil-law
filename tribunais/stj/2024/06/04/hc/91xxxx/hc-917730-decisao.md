@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jhonny Anderson Costa Petronio - condenado por furto qualificado tentado a 2 anos e 10 meses de reclusão, em regime inicial fechado, e a 14 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 56/68), não comporta processamento.
+Com efeito, busca a impetração o abrandamento do regime inicial imposto ao paciente - na condenação proferida na Ação Penal n. 0733901-34.2023.8.07.0003 (fls. 48/54 - da 2ª Vara Criminal da circunscrição judiciária de Ceilândia/DF) -, ao argumento de que a reincidência, por si só, não impede a substituição por um regime mais brando (fl. 8).
+Do atento exame dos autos tem-se que o regime inicial fechado foi fixado em razão da existência de circunstâncias judiciais negativadas e reincidência do paciente, tanto na sentença - por ser o réu portador de maus antecedentes e de má conduta social, além de ser reincidente na prática de crime doloso e com valoração negativa das circunstâncias do crime (fl. 53) -, quanto no acórdão da apelação (fl. 68):
+Conforme pontuado linhas acima, foi reconhecida a presença de três circunstâncias desfavoráveis na primeira fase da individualização da pena (maus antecedentes, conduta social e circunstâncias do crime). Na segunda fase, houve o reconhecimento da agravante da reincidência.
+Os aludidos fatores foram ressaltados pelo juiz sentenciante quando da escolha do regime de cumprimento de pena, constituindo fundamento idôneo para a fixação do regime inicial fechado.  ..
+Logo , não há constrangimento ilegal na fixação do regime prisional, pois a orientação jurisprudencial do Superior Tribunal de Justiça é firme ao confirmar a possibilidade de fixação do regime inicial fechado quando, a despeito da pena ter sido fixada em patamar inferior a 4 anos, o réu é reincidente e teve a pena-base fixada acima do mínimo legal em virtude de circunstância judicial desfavorável (AgRg no REsp n. 2.038.062/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe 26/6/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. REGIME INICIAL FECHADO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. POSSIBILIDADE DE REGIME MAIS GRAVOSO. PRECEDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
