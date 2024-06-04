@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por ERICK MARCELO DA SILVA contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ fl. 911):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS (ART. 33, LEI 11.343/06) - RECURSO DEFENSIVO: ABSOLVIÇÃO -IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE SUFICIENTEMENTE COMPROVADAS - FIXAÇÃO DA PENA-BASE NO PATAMAR MÍNIMO - IMPOSSIBILIDADE. RECURSO MINISTERIAL: CONDENAÇÃO DOS ACUSADOS NOS TERMOS DA DENÚNCIA -INSUFICIÊNCIA PROBATÓRIA - TRAFICÂNCIA NÃO DEMONSTRADA -CONDENAÇÃO - IMPOSSIBILIDADE - ABSOLVIÇÃO MANTIDA QUANTO AO CRIME PREVISTO NO ART. 35, LEI 11.343/06.
+-Demonstrados nos autos, pelo conjunto probatório, a autoria e a materialidade do crime de tráfico de drogas, não há que se falar em absolvição em relação ao acusado.
+-Quando firme e coerente, a palavra dos policiais possui reconhecido valor probante, não podendo ser desconsiderada tão somente em razão da sua condição funcional, ainda mais quando ausente qualquer evidência de má-fé, abuso de poder ou suspeição.
+-Inexistindo prova suficiente a sustentar o édito condenatório pelo delito de tráfico de drogas estampado na denúncia, a manutenção da sentença absolutória é medida que se impõe.
+-A circunstância especial prevista no art. 42 da Lei 11.343/06, relativa à quantidade e natureza da droga apreendida é critério válido para a análise da culpabilidade e reprovabilidade da conduta, o que impede a fixação a pena-base no mínimo legal.
+-O crime de associação para o tráfico, previsto no art. 35 da Lei 11.343/06, exige, para sua configuração, a presença de alguns elementos constitutivos do tipo penal, dentre eles, o animus associativo e a divisão de tarefas, que não restaram comprovados nos autos.
+-Inviável se encontra o deferimento da isenção das custas, eis que é um dos efeitos da condenação, cabendo tal análise ao juízo da execução.
+O Juízo da 1ª Vara Criminal e de Execuções Penais da Comarca de Varginha/MG julgou parcialmente procedente a denúncia para condenar o agravante pelo crime previsto no artigo 33, caput, da Lei 11.343/2006 à pena de 8 (oito) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e 850 (oitocentos e cinquenta) dias-multa, e o absolveu da imputação do tipo do artigo 35 da referida lei, na forma do artigo 386, inciso VII, do Código de Processo Penal (CPP).
+A corré Jaqueline de Paula foi absolvida das imputações dos artigos 33 e 35, todos da Lei n. 11.343/2006, também na forma do artigo 386, inciso VII, do CPP (e-STJ, fls. 761-776).
+O Tribunal de origem negou provimento ao recurso ministerial, mantendo a absolvição dos acusados quanto ao crime de associação para o tráfico, ante a ausência de provas, e deu parcial provimento ao apelo defensivo para reduzir a pena fixada ao agravante para 6 (seis) anos e 8 (oito) meses de reclusão, no regime inicial fechado, e 666 (seiscentos e sessenta e seis) dias-multa pelo crime previsto no artigo 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 911-929).
+Nas razões do recurso especial o agravante alega violação aos artigos 155 e 386, inciso VII, do Código de Processo Penal e ao artigo 33 da Lei de Drogas.
+Pugna por sua absolvição e subsidiariamente, pede a revisão da dosimetria da pena (e-STJ fls. 949-965).
+Contrarrazões apresentadas às e-STJ fls. 969-972.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 993-1000).
+Parecer do Ministério Público Federal pelo não provimento do agravo em recurso especial (e-STJ fls. 1.021-1.025).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever a fundamentação utilizada pelo Tribunal de origem para manter a condenação do recorrente (e-STJ fls. 918-919):
+RECURSO DEFENSIVO -2º APELANTE
+Negativa de Erick Marcelo quanto à propriedade de parte das drogas
+Sustenta a Defesa do acusado Erick que as drogas apreendidas no bairro Sagrado Coração não pertenciam ao sentenciado, motivo pelo qual entende que deve ser afastada a circunstância judicial especial relativa à quantidade e natureza da droga, com consequente redução da pena-base aplicada.
+Muito embora entenda que merece guarida a pretensão de redução da pena-base, não acolho o pedido de afastamento da condenação, tampouco o pedido de afastamento da análise desfavorável da circunstância especial prevista no art. 42 da Lei 11.343/06.
+A propriedade de Erick em relação às drogas apreendidas no bairro Sagrado Coração, resta demonstrada pelas provas dos autos, especialmente pelo depoimento policial. O policial militar Éder José Batista Silva, ouvido em juízo, relatou que realizou campana no endereço mencionado, juntamente com outros policiais, e que, por diversas vezes, presenciaram o comércio de entorpecentes pelo acusado no local.
+Não há nos autos qualquer elemento ou prova que coloque em xeque a palavra policial ou que faça crer que tenham interesse em prejudicar o acusado ou mesmo que queiram imputá-lo crime que não tenha cometido.
+Sendo assim, diante das evidências do conjunto probatório, entendo pela manutenção do julgamento bem como das motivações expostas na r. sentença.
+Como se vê, o Tribunal a quo apontou elementos de prova suficientes para manter a condenação do réu pelo crime previsto no artigo 33, caput, da Lei n. 11.343/2006, afastando, com segurança, a alegação de insuficiência de provas da autoria delitiva.
+Dessa forma, incide o óbice da Súmula 7/STJ - A pretensão de simples reexame de prova não enseja recurso especial -, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITOS DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PENA-BASE. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+2. Para se concluir pela absolvição do réu ou pela desclassificação do delito seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Embora a defesa haja pleiteado o afastamento da quantidade e diversidade como justificativa para majoração da pena-base, não indicou, expressamente, quais seriam os dispositivos legais supostamente violados pelo acórdão que julgou a apelação. Assim, incide o óbice da Súmula n. 284 do STF na hipótese.
+4. Agravo regimental não provido. (AgRg no AREsp 2451897/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe 30/4/2024, grifamos).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. CRIMES DE TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA DA PENA. PENAS-BASE AUMENTADAS PELA EXPRESSIVA QUANTIDADE DE DROGAS E NÍVEL DE ORGANIZAÇÃO DA ATIVIDADE. POSSIBILIDADE. ART. 42 DA LEI 11.343/2006. PRECEDENTES. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A autoria restou inconteste, pois foram constatadas conversas entre Josemar e Patrick sobre as negociações de entorpecentes, além de conclusão de que o último, o ora agravante, era o responsável pelas contas do imóvel onde era produzida a droga. Também haviam evidências de que ele participava da associação voltada para o tráfico de entorpecentes, ante a organização da destinação de recursos para a produção das drogas, em grande quantidade, e de forma sofisticada, restando, também, comprovadas a estabilidade e a permanência, de tal sorte que, para desconstituir essas premissas para fins de absolvição demandaria a incursão fático-probatória, o que encontra impeço na Súmula n. 7/STJ.
+2. No tocante à dosimetria, as penas-base foram fixadas acima dos patamares mínimos, em 1/3, pela expressiva quantidade de drogas, bem como pelo nível de organização peculiar da atividade, o que não confronta a jurisprudência desta Corte.
+3. Agravo regimental desprovido. (AgRg no REsp 2066216/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe 18/4/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
