@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por OPÇÃO EMPREENDIMENTOS IMOBILIÁRIOS LTDA., fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl.):
+APELAÇÕES CÍVEIS. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. ENTREGA COM VÍCIOS NO IMÓVEL. VÍCIOS VISUAIS NO IMÓVEL. PROVA PERICIAL. DANOS EMERGENTES. NECESSIDADE DE APURAÇÃO EM FASE DE LIQUIDAÇÃO. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE DOLO PROCESSUAL. FASE PRÉ-CONTRATUAL. DATA DE INÍCIO DA OBRA. RESTITUIÇÃO DOS VALORES PAGOS A TÍTULO DE ALUGUEL. DEVIDOS. DANOS EMERGENTES. DANOS MORAIS. MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. SENTENÇA PARCIALMENTEREFORMADA.-Verificado por prova pericial que os vícios do imóvel não advêm da desídia do consumidor ao uso do bem, mas sim por falha da construtora realização da obra, fica caracterizada a responsabilidade civil da fornecedora.
+-Sentença que não determina o quantum debeatur não está eivada de vício, quando a apuração detida do valor se demonstra própria da fase de liquidação de sentença.
+-Não verificado in casu dolo processual, incabível a condenação por litigância de má-fé.
+-A oferta praticada na fase pré-contratual, atinente à data de início da obra, vincula a prestação principal, em função da incidência do princípio da boa-fé objetiva e do dever de informação incutida neste momento da relação obrigacional, consubstanciando que esse lapso temporal, seja considerado no computo do prazo previsto em contrato para a entrega do imóvel, e bem como, seja sobrepesado quando constatado o atraso nessa previsão.
+-É dever da construtora responsável pelo atraso na entrega do imóvel de ressarcir o consumidor que pagar despesas de aluguel para moradia em período no qual o imóvel já deveria ter sido entregue.
+-O recebimento do imóvel em atraso configura-se inadimplemento ao contrato e enseja indenização por danos morais.
+-A quantificação do dano moral deve dar-se com prudente arbítrio, para que não haja enriquecimento à custa do empobrecimento alheio, mas também para que o valor não seja irrisório.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 774-781)
+Nas razões recursais a recorrente alega, além de divergência jurisprudencial, violação aos arts. 186 e 944 do CC, sustentando que o mero descumprimento contratual não gera dano moral, devendo haver consequências fáticas capazes de ensejar o referido dano; e excesso no valor arbitrado à título de indenização.
+Brevemente relatado, decido.
+A pretensão recursal merece prosperar.
+No que se refere ao dano moral, o Tribunal estadual dirimiu a controvérsia sob a seguinte fundamentação (e-STJ, fls. 723-724):
+Por fim, em relação aos danos morais, a conduta negligente do atraso na entrega do imóvel em descumprimento do contrato controvertido, configura-se como ato ensejador do dever de reparação dos danos morais, dispensando-se a comprovação de maior repercussão ou lesão, visto que o atraso em quase quatro meses para o completo cumprimento da obrigação, supera o mero aborrecimento ou dissabor e configura, por consequência, o dano moral, passível de ressarcimento.
+Segundo a jurisprudência do Superior Tribunal de Justiça, inexiste dano moral com mero descumprimento contratual, exceto quando verificada situação peculiar, apta a justificar o reconhecimento de violação a direito da personalidade.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO. DANOS MORAIS. NÃO CONFIGURAÇÃO. SIMPLES INADIMPLEMENTO CONTRATUAL. SÚMULA Nº 7/STJ. LUCROS CESSANTES. CLÁUSULA PENAL. MULTA MORATÓRIA. TEMA Nº 970. SÚMULA Nº 568/STJ.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+2. A Segunda Seção, em recurso repetitivo, firmou entendimento de que a cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes (Tema nº 970/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.909.706/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/3/2024, DJe de 18/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. CLÁUSULA DE TOLERÂNCIA. 180 DIAS. VALIDADE. ATRASO NA ENTREGA DAS CHAVES. DANO MORAL. AFASTAMENTO. ATUALIZAÇÃO DO SALDO DEVEDOR DURANTE A MORA DA CONSTRUTORA. LEGITIMIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Está sedimentado nesta Corte Superior o entendimento de que é "válida  em contratos de promessa de compra e venda de imóvel  a cláusula de tolerância, desde que limitada ao prazo de 180 dias corridos" (AgInt no AREsp 1.957.756/RO, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 14/3/2022, DJe de 5/4/2022).
+2. "Nos termos do entendimento firmado por este Superior Tribunal de Justiça, o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis" (REsp 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2017, DJe de 22/3/2017).
+3. Na espécie, ao manter a condenação da construtora ao pagamento da indenização por danos morais, o Tribunal de origem deixou de apontar circunstâncias excepcionais experimentadas pelos promitentes-compradores, capazes de justificar a reparação pretendida. Correta, portanto, a decisão agravada, ao reformar o acórdão recorrido.
+4. Nos termos do entendimento desta Corte, " é  devida a incidência de correção monetária sobre o saldo devedor de imóvel comprado na planta durante a mora da construtora, porque apenas recompõe o valor da moeda, sem representar vantagem à parte inadimplente (..)" (AgInt no AREsp 677.950/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 14/03/2017, DJe de 20/03/2017).
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.253.328/AM, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/3/2024, DJe de 11/3/2024.)
+Todavia, no intuito de trazer mais clareza no exame das peculiaridades justificantes para o reconhecimento de possível lesão extrapatrimonial decorrente de atraso na entrega de imóvel, a Terceira Turma desta Corte Superior de Justiça firmou entendimento no sentido de que a configuração do dano moral só ocorrerá quando os dissabores e aborrecimentos enfrentados pelo adquirente do bem violarem direito da personalidade.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. LONGO ATRASO NA ENTREGA. DANO MORAL CONFIGURADO. REVISÃO. SÚMULA N. 7/STJ.
+1. Segundo a orientação jurisprudencial do Superior Tribunal de Justiça, o mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade.
+2. Hipótese dos autos em que o Tribunal de origem consignou que o atraso foi excessivo (3 anos), razão pela qual reputou devida a condenação em danos morais, conclusão cuja revisão encontra óbice na Súmula n. 7/SJT.
+3. O valor arbitrado a título de reparação civil observou os critérios de proporcionalidade e de razoabilidade, além de estar compatível com as circunstâncias narradas no acórdão e sua eventual redução demandaria, por consequência, a reanálise de provas, o que é vedado em recurso especial ante o óbice do Enunciado n. 7/STJ.
+4. Ausência de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.201.822/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+Na hipótese em exame, analisando os fundamentos adotados pela Tribunal originário para justificar a condenação ao pagamento de danos morais, verifica-se inexistir descrição de situação específica que aponte violação a direito da personalidade do recorrido, limitando-se a mencionar apenas o atraso no cumprimento do contrato e a privação do adquirente ao imóvel, não sendo, portanto, suficientes para justificar o dano extrapatrimonial.
+Ante o exposto, dou provimento ao recurso especial, com o fim de afastar a condenação em dano moral.
+Mantenha-se a sucumbência em razão do decaimento mínimo da parte contrária.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL. VIOLAÇ ÃO A DIREITO DA PERSONALIDADE. SITUAÇÃO EXCEPCIONAL NÃO CONFIGURADA. RECURSO ESPECIAL PROVIDO.
