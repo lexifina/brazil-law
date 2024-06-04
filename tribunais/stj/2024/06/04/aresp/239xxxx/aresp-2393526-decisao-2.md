@@ -1,0 +1,10 @@
+DECISÃO
+Companhia Brasileira de Distribuição atravessou petição de fls. 796/798, na qual informa que celebrou transação junto à PGE/SP para quitação do crédito tributário objeto do presente feito, "mediante parcelamento do saldo remanescente do débito consubstanciado na CDA objeto do presente feito, em 120 (cento e vinte) parcelas mensais e consecutivas, conforme comprovante de pagamento e Extrato Detalhado ora anexados aos autos (doc.04). Ressalte-se que o pagamento da primeira parcela, condição para a adesão, consta no extrato do parcelamento como valor já pago, tudo a confirmar a sua quitação" (fl. 797).
+Postula, por esse motivo, "a desistência do presente feito e eventuais recursos, renunciando as alegações de direito se fundamenta a presente ação, no que se refere à CDA objeto do presente feito (incluída no Programa de Transação - Edital PGE/TR nº 1/2024), e, por conseguinte, requer seja extinta a ação, com fulcro no artigo 487, inciso III, do Código de Processo Civil de 2015 ("CPC/15"), com o seu posterior arquivamento" (fl. 797).
+É O BREVE RELATO.
+Como cediço, a "renúncia ao direito a que se funda a ação é ato unilateral, que independe da anuência da parte adversa e pode ser requerida a qualquer tempo e grau de jurisdição até o trânsito em julgado da sentença, cumprindo apenas ao magistrado averiguar se o advogado signatário da renúncia goza de poderes para tanto, ex vi do art. 38 do CPC" (AgRg nos EDcl no REsp 422.734/GO, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 28/10/2003, p. 192).
+No caso, a procuração acostada aos autos confere ao subscritor da petição poderes especiais para renunciar ao direito em que fundada a ação (cf. fls. 28, 613/615, 669/671).
+ANTE O EXPOSTO, homologo, para que produza seus efeitos jurídicos e legais: (I) o pleito de desistência agravo em recurso especial de fls. 719/730; e (II) o pedido de renúncia ao direito em que se funda a presente ação (embargos à execução) formulado à fl. 797 e, em consequência, julgo extinto o feito, com amparo no art. 487, III, c, do CPC.
+A parte requerente deverá arcar com as despesas processuais, nos termos do art. 90 do CPC.
+Publique-se .
+EMENTA
