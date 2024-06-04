@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a" , da Constituição da República, contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE SUCESSORES.
+PRESCRIÇÃO. INOCORRÊNCIA. Agravo de Instrumento manejado pelo DNOCS objetivando a reforma da decisão que, afastando a1.
+prescrição da pretensão executória, homologou o pedido de Habilitação de Herdeiro. A teor do disposto no inciso I, do art. 313, e do inciso II, do art. 921, ambos do CPC, a morte de uma2.
+das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos Sucessores, não se há de cogitar acerca da prescrição intercorrente, porque não se deve conferir às regras que versem sobre prazos prescricionais interpretação extensiva. Agravo de Instrumento improvido.
+A parte recorrente afirma que houve ofensa aos arts. 313, I, e 485, II, 1.022, II, c/c 489, § 1º, do CPC; e 196 e 682, II, do CC. Aduz que houve a prescrição do direito de habilitar herdeiros ou sucessores da parte falecida no curso da Ação.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.5.2024.
+Inicialmente, afasta-se a alegada ofensa ao art. 1.022 do CPC, porque não foi demonstrado vício capaz de comprometer o embasamento do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do Recurso Especial.
+A ausência de manifestação sobre determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há contrariedade ao art. 489 do CPC quando o Tribunal a quo decide de modo claro e fundamentado, como ocorreu na hipótese. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 14/9/2021)
+No enfrentamento da matéria, o Colegiado de origem asseverou:
+"A teor do disposto no inciso I, do art. 313, e do inciso II, do art. 921, ambos do CPC, a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não se há de cogitar acerca da prescrição intercorrente, porque não se deve conferir às regras que versem sobre prazos prescricionais interpretação extensiva
+Verifica-se que a conclusão exposta no aresto impugnado está em consonância com o entendimento desta Corte Superior, no sentido de que a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Nessa linha:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÕES. VÍCIOS NÃO CONFIGURADOS. LEGITIMIDADE. SINDICATO. ÓBITO DO SERVIDOR NO CURSO DA AÇÃO DE CONHECIMENTO. EXECUÇÃO. HABILITAÇÃO DOS HERDEIROS. PRESCRIÇÃO. NÃO OCORRÊNCIA.**
+1. Não há afronta aos arts. 489 e 1.022 do CPC quando o aresto combatido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+2. O sindicato possui legitimidade ativa para substituir os sucessores dos servidores públicos falecidos. Por isso, ainda que o óbito tenha ocorrido no curso da ação de conhecimento, é possível o ajuizamento da execução pelo ente sindical. Precedentes.
+3. Inexiste prescrição para habilitação dos sucessores na ação em decorrência da morte do autor originário, por ausência de previsão legal quanto ao prazo para a realização do ato.
+4. Recurso especial a que se nega provimento. (REsp 1.974.262/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 26/4/2022)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. FALECIMENTO DO SERVIDOR REPRESENTADO PELO SINDICATO. HABILITAÇÃO DO SUCESSOR. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015 E INCIDÊNCIA DA SÚMULA 283/STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA, NOS PONTOS. SÚMULA 182/STJ. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA AFASTADA PELO TRIBUNAL LOCAL. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ A HABILITAÇÃO DOS HERDEIROS. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO FIRMADO POR ESTA CORTE. PRECEDENTES. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.**
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Interposto agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada, mormente quanto à ausência de negativa de prestação jurisdicional e incidência do óbice da Súmula 283/STF, não prospera o inconformismo, quanto aos pontos, em face da Súmula 182 desta Corte.
+III. Na origem, trata-se de ação proposta pela parte ora recorrida, na qual objetiva a habilitação para suceder a Yara Falcão de Almeida, no processo 0002762-47.1997.405.8300, a fim de receber o crédito de direito da autora falecida em 2006.
+IV. No caso, o Tribunal de origem afastou a prescrição da pretensão executiva, ao fundamento de que "a orientação do Superior Tribunal de Justiça no sentido da inocorrência de prescrição da pretensão executiva, em razão da habilitação de herdeiro(s)/sucessor(es), no âmbito de execução de título judicial, à falta de previsão legal de prazo para a habilitação e porque o óbito de uma das partes do processo implica sua suspensão (..) a jurisprudência desta Primeira Turma do TRF da 5ª Região admite a convalidação dos atos processuais praticados pelo Sindicato/Associação após o falecimento do substituído/representado, em homenagem aos princípios da instrumentalidade das formas, diante da ausência de prejuízos à parte executada, da economia e da celeridade processuais, dado que o ajuizamento de nova execução pelos sucessores do falecido levaria ao mesmo resultado obtido com a execução em curso".
+V. Conforme entendimento sedimentado pela Corte Especial do Superior Tribunal de Justiça, a morte de uma das partes tem como consequência a suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos sucessores da parte, não corre a prescrição, inclusive para a execução. Nesse sentido: STJ, REsp 1.830.518/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 27/04/2021; REsp 1.869.009/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 27/05/2020.
+VI. Na forma da jurisprudência desta Corte, "o sindicato possui legitimidade ativa para substituir os sucessores dos servidores falecidos, ainda que o óbito tenha ocorrido no curso da ação de conhecimento ou antes do ajuizamento da execução" (STJ, AgInt no REsp 1.577.266/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/10/2021). Precedentes.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp 1.899.602/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 30/3/2022)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ e da Súmula 568/STJ, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
