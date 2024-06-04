@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 7/STJ (e-STJ fls. 513/515).
+O acórdão recorrido está assim ementado (e-STJ fls. 437/438):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. ALEGAÇÃO AUTORAL DE CISÃO EMPRESARIAL PARCIAL SIMULADA ENTRE AS EMPRESAS DEMANDADAS, PARA PRETERIÇÃO DE SEU DIREITO DE PREFERÊNCIA NA AQUISIÇÃO DE IMÓVEL LOCADO. SENTENÇA QUE RECONHECEU A CARÊNCIA DA AÇÃO POR FALTA DE INTERESSE PROCESSUAL (ART. 485, VI, CPC/15). IRRESIGNAÇÃO AUTORAL. TESE DE CERCEAMENTO DE DEFESA. RECURSO ADESIVO DA PRIMEIRA RÉ QUE SE CINGE À NÃO APRECIAÇÃO DO INCIDENTE DE IMPUGNAÇÃO AO VALOR DA CAUSA. SENTENÇA ACERTADA. AUTOR QUE, NÃO OBSTANTE ALEGUE PREJUÍZO AO SEU DIREITO DE PREFERÊNCIA, NÃO DEDUZIU PRETENSÃO DE EXERCER ESSE DIREITO HAVENDO O IMÓVEL PARA SI, TAMPOUCO DE PERCEBER INDENIZAÇÃO POR EVENTUAIS PERDAS E DANOS, O QUE AFASTA A UTILIDADE PROCESSUAL NA HIPÓTESE. AUSÊNCIA, AINDA DE COMPROVAÇÃO DE AVERBAÇÃO DO CONTRATO LOCATÍCIO EM CARTÓRIO DE REGISTRO DE IMÓVEIS ANTES DA ALIENAÇÃO DECORRENTE DA CISÃO EMPRESARIAL, REQUISITO LEGAL INDISPENSÁVEL NA FORMA DO ART. 33, DA LEI Nº 8245/91 PARA O EXERCÍCIO DO DIREITO DE PREFERÊNCIA. VALOR DA CAUSA QUE DEVE SER MANTIDO, EIS QUE ESTABELECIDO NA FORMA DOS ARTIGOS 291 E 85, PARÁGRAFO 2º E 8º, do CPC/15. NÃO CONFIGURAÇÃO, POR PARTE DO AUTOR, DE CONDUTAS PROCESSUAIS ELENCADAS NOS INCISOS I A VII DO ART. 80 CPC/15 NÃO VERIFICADAS NA ESPÉCIE. DESPROVIMENTO DO RECURSO DO AUTOR E PARCIAL PROVIMENTO DO APELO DO RÉU, MANTIDA A SENTENÇA NA ÍNTEGRA. MAJORADOS OS HONORÁRIOS SUCUMBENCIAIS FIXADOS EM DESFAVOR DO AUTOR EM 2%.
+Nas razões do recurso especial (e-STJ fls. 453/461), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 258 e 259, V, do CPC/1973 e 7º, 291 e 292, II, do CPC/2015.
+Sustentou que o valor atribuído à causa deveria corresponder ao valor do ato contratual que pretendia anular. Alegou que "não se pode admitir que a ação declaratória aforada pela recorrida não teria proveito econômico, nada mais absurdo e complacente com a maliciosa postura adotada pela recorrida que pretendeu apenas criar indevidos infortúnios às operações da Recorrente, buscando a nulidade de negócio jurídico que ultrapassou a cifra dos dezesseis milhões de reais. O pleito de tão absurdo fora extinto sem julgamento do mérito, mas não sem provocar diversos dissabores às partes da avença que se pretendeu anular" (e-STJ fl. 459).
+Sem contrarrazões (e-STJ fl. 511).
+No agravo (e-STJ fls. 526/532), declara a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 539).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem consignou que (e-STJ fl. 442):
+Ao que se infere, o autor pretende que lhe seja oportunizado o exercício de seu direito de preferência, na condição de locatário, para aquisição do imóvel locado, no qual desempenha suas atividades comerciais desde o ano de 2002, aduzindo ter sido aquele direito prejudicado por causa do negócio jurídico simulado maliciosamente para este fim exclusivo.
+De ressaltar, desde já, que a parte autora, ora apelante, não deduziu na presente ação pretensão de reinvidicar a aquisição do referido imóvel, tampouco de perceber indenização por eventuais perdas e danos decorrentes da alienação ocorrida.
+Adiante, concluiu que "a pretensão declaratória autoral é desprovida de proveito econômico, sem expressão monetária concretamente definida. Por conseguinte, não tendo sido deduzida pretensão pecuniária e não estando a demanda diretamente relacionada ao conteúdo econômico da operação societária de que não participou o autor, deve ser mantido o valor atribuído nos termos do art. 259 do CPC/73, correspondente ao art. 291, do CPC/15" (e-STJ fl. 450).
+Para decidir de outro modo, seria necessário o revolvimento de elementos de fato, o que é incabível no especial, por força do que dispõe a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
