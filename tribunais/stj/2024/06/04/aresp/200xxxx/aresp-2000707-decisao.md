@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por FERNANDA RAFAELA MODESTO TERNI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 176):
+PLANO DE SAÚDE. Cirurgia pós-bariátrica. Beneficiária portadora de obesidade mórbida submetida à cirurgia bariátrica. Solicitação de procedimentos cirúrgicos reparadores em razão do emagrecimento expressivo, após a bariátrica. Negativa de cobertura, sob alegação de ausência de cobertura contratual e previsão no rol de procedimentos obrigatórios da ANS. Alegação de procedimento estético. Sentença de parcial procedência. Inconformismo da ré. Cancelamento do contrato antes do ajuizamento da ação. Falta de interesse de agir. Extinção do feito, sem resolução de mérito, nos termos do art. 485, inciso VI, do CPC. Sentença reformada. Sucumbência da autora. Recurso provido.
+Rejeitados os embargos de declaração opostos (fls. 226-229).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, tais como "o dever de cobrir as cirurgias reparadoras oriundas de anterior quadro de obesidade por parte do plano de saúde, e a impossibilidade de se afastar esta obrigação pelo cancelamento posterior do contrato de plano de saúde. " (fl. 186).
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 186, 189, 389, 884 e 927 do Código Civil, bem como divergência jurisprudencial com aresto de outro tribunal.
+Sustenta que é "justo que se deva manter a obrigação de cobertura pelo convênio, se o consumidor na época da negativa estava em dia com suas obrigações financeiras perante o plano de saúde, como é o presente caso." (fl. 194)
+Ressalta que, no período em que a relação contratual permaneceu, não havia qualquer razão para a negativa de cobertura dos procedimentos médicos.
+Aponta, ainda, violação dos arts. 6º, 12 e 14 do CDC, visto que " que não obstante tenha havido a resilição da apólice coletiva, a Resolução CONSU nº 193 garante à beneficiária a possibilidade de migração para apólice de seguro individual, sem carências, o que garantiria a continuidade na prestação dos serviços médicos hospitalares e a obrigação da operadora de saúde em custear o tratamento médico prescrito na hipótese." (fls. 198-199).
+Foram oferecidas contrarrazões ao recurso especial (fls. 234-255).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 256-259), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 274-302).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da detida análise dos autos, verifica-se que merece guarida a alegação de afronta ao art. 1.022 do CPC.
+Consoante se infere dos autos, o recorrente manejou ação de obrigação de fazer cumulada com pedido de tutela de urgência ou evidência e reparação de danos para que a ora recorrida fosse condenada a proceder com a cobertura integral das cirurgias requeridas no relatório médico.
+O Juízo de primeiro grau julgou parcialmente procedente a ação, confirmou a tutela antecipada que determinou ao plano de saúde a cobertura das cirurgias requeridas, e condenou o réu ao pagamento de indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais).
+Ao julgar a apelação, o Tribunal de origem deu-lhe provimento para reconhecer a falta de interesse de agir da autora, e extinguir a ação, nos termos do art. 485, VI, do CPC, diante do cancelamento da apólice do plano de saúde da autora, antes do ajuizamento da ação (agosto/2019).
+Com efeito, observa-se que o Tribunal de origem, ao reconhecer a falta de interesse de agir da autora, deixou de analisar a alegação oportunamente suscitada pela recorrente por ocasião da oposição dos embargos de declaração, qual seja: "É no mínimo justo que se deva manter a obrigação de cobertura pelo convênio, se o consumidor na época da negativa estava em dia com suas obrigações financeiras perante o plano de saúde, como é o presente caso." (fl. 219).
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC, e em face da questões suscitadas, tenho como necessário o debate acerca da alegação de que a apólice da recorrente era válida na época da negativa de cobertura das cirurgias.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. CIRURGIA REPARATÓRIA PÓS BARIÁTRICA. NEGATIVA DE COBERTURA. CANCELAMENTO DO CONTRATO ANTES DO AJUIZAMENTO DA AÇÃO. ALEGAÇÃO DE VALIDADE DO CONTRATO NA ÉPOCA DA NEGATIVA. OMISSÃO DO ACÓRDÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
