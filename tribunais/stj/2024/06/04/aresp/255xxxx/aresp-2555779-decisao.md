@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANDREA FERNANDA SECHI BONANNI e OUTRO contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 248):
+Revisional e Repetição de Indébito Compra e venda de imóvel - Aplicação do Código de Defesa do Consumidor Pretendida substituição do IGP-M pelo IPCA para a correção monetária das parcelas do preço, durante o período da pandemia, com a consequente devolução de valores pagos a maior Inadmissibilidade Requisitos do art. 478 do CC não preenchidos Situação anômala decorrente da pandemia da covid-19 que, por si só, não autoriza a revisão de cláusulas contratuais Demanda aforada, ademais, em período no qual já se constatava a grande redução da disparidade entre os referidos indexadores - Precedentes desta E. Corte e do C. STJ Pedidos improcedentes - Sentença reformada Recurso provido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 334-339).
+Nas razões do especial (e-STJ, fls. 268-284), a parte recorrente sustentou violação aos artigos 317, 478, 479 e 480, do Código Civil, alegando a possibilidade de revisões contratuais quando presentes os fatos imprevisíveis e a onerosidade excessiva a uma das partes, a fim de restabelecer o equilíbrio contratual e fazer cumprir o pacta sunt servanda, notadamente quanto ao índice utilizado para a correção monetária, o IGP-M/FGV, teve uma alta jamais vista desde a criação do real, sendo mais de 37% do quanto usual antes da pandemia, impactando diretamente sobre as prestações e o saldo devedor dos recorrentes.
+Apontou, ainda, divergência jurisprudencial com julgado oriundo do TJSP no tocante à aplicação do IGPM previsto contratualmente em contratos imobiliários.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 343-345, e-STJ), o que ensejou o manejo do presente agravo (fls. 348-359, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 362-367 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, o Tribunal de origem, ao apreciar a controvérsia, asseverou inexistir onerosidade excessiva e desequilíbrio contratual a ensejar a alteração do índice conforme pretendido pela parte.
+Confira-se, a seguir, o que constou no acórdão recorrido (e-STJ):
+Na hipótese em tela, não se há falar em quebra da base objetiva do negócio celebrado. Os demandantes, ainda que possam ter enfrentado dificuldades, honraram os pagamentos das parcelas do preço, no período da pandemia, o que leva à conclusão que a incidência do IGP-M não foi impeditiva do cumprimento das obrigações contratuais
+(..)
+Constata-se que o expressivo aumento do IGP-M, durante o período da pandemia, comparativamente a outros indexadores da inflação, decorreu, especialmente, da forte variação cambial. Porém, com o relaxamento das medidas de controle sanitário e retomada da atividade econômica, o IGP-M foi retornando, paulatinamente, aos patamares pré-pandemia, tendo sido noticiado, ainda, em junho de 2022 que: "O IGP-M voltou a ficar abaixo do IPCA no acumulado de 12 meses, após quatro anos acima do indicador oficial da inflação no país. Conhecido como "a inflação do aluguel", o índice da FGV (Fundação Getulio Vargas) atualmente acumula alta de 10,72% em 12 meses, contra 12,13% do IPCA (Índice de Preços ao Consumidor-Amplo) na comparação."
+Tornando ao caso em comento, verifica-se que o aforamento da demanda já se deu em momento de redução da defasagem entre o IGP-M e o IPCA, o que reforça a improcedência dos pedidos, até e porque, reitere-se, as parcelas do preço foram adimplidas regularmente.
+Assim e respeitado o posicionamento esposado pela r. sentença, tem-se que a improcedência dos pedidos é mesmo de rigor.
+Nesse contexto, para afastar as conclusões do acórdão recorrido acerca da onerosidade excessiva e da revisão do índice pretendido, seria necessária a análise de disposições contratuais, além de matéria de fato emanada dos autos, o que esbarra no disposto nas Súmulas 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISCUSSÃO SOBRE ALUGUÉIS. PEDIDO DE REDUÇÃO. PRINCÍPIO DA INTANGIBILIDADE CONTRATUAL. REVISÃO EXCEPCIONAL. PANDEMIA DO CORONAVÍRUS. TEORIA DA IMPREVISÃO. ART. 478 DO CÓDIGO CIVIL. REQUISITOS NÃO CONFIGURADOS. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Como reflexo do princípio da força obrigatória existe o da intangibilidade contratual, de acordo com o qual o conteúdo das cláusulas avançadas apenas pode ser afastado pela autoridade judicial em situações excepcionais, observando os contornos assim definidos em lei.
+2. Nos contratos de execução continuada ou diferida, se a prestação de uma das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução do contrato (Art. 478 do Código Civil). Interpretação do dispositivo. Teoria da imprevisão.
+3. Requisitos para aplicação da teoria da imprevisão: i) deve haver contrato de execução continuada ou diferida; ii) existência de acontecimentos supervenientes, isto é, posteriores à celebração do contrato, não importando a razão pela qual aconteceu a distância entre a celebração e a execução, seja por diferimento da prestação, seja pela natureza duradoura do contrato; iii) os acontecimentos supervenientes devem ser extraordinários e imprevisíveis. Precedentes.
+4. Não cabe a esta Corte analisar o efetivo desequilíbrio contratual das partes com a eventual onerosidade excessiva ou eventual imprevisão dos efeitos da pandemia da Covid-10, se o próprio Tribunal de origem reconheceu a sua inexistência. Modificar tal conclusão, portanto, demandaria reexame de matéria fático-probatória, o que seria inviável em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.252.394/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+2. Por fim, no que se refere ao dissídio jurisprudencial suscitado, observa-se que a insurgente apontou acórdão paradigma do mesmo Tribunal que prolatou a decisão recorrida.
+Todavia, não se admite recurso especial por dissídio entre julgados do mesmo Tribunal, nos termos da Súmula 13 do STJ.
+Nesse sentido, ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. EMBARGOS À EXECUÇÃO. AGRAVO DE INSTRUMENTO. GRATUIDADE DA JUSTIÇA. PESSOA NATURAL. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. PARADIGMA ORIUNDO DO MESMO TRIBUNAL PROLATOR DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 13 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O dissenso interpretativo não pode ser conhecido no caso dos autos, pois, nos termos da Súmula nº 13 desta Corte, a divergência entre julgados do mesmo Tribunal não enseja recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp 1755766/MT, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS C/C VERBA SUCUMBENCIAL. ARTIGOS 13 E 37 DO CPC/1973. DEFEITO NA REPRESENTAÇÃO. VÍCIO SANÁVEL. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. PROVA DA QUITAÇÃO PARCIAL DO DÉBITO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. HONORÁRIOS CONTRATUAIS. ART. 20 DO CPC/1973. EQUIDADE.SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE RECONHECIMENTO DA VALIDADE DO RECIBO APRESENTADO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA.
+ ..
+5. Ademais, julgados paradigmas provenientes da Justiça especializada impedem o conhecimento da divergência apontada. Da mesma forma, a apresentação de acórdão do TJSC, Tribunal prolator do acórdão recorrido, impede a apreciação do dissídio, por incidência da Súmula n. 13 do STJ, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1482561/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/11/2020, DJe 30/11/2020)
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
