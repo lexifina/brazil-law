@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por GUILHERME TORTELLI DE OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. LIQUIDAÇÃO DE SENTENÇA. APURAÇÃO DE VALORES A SEREM RESTITUÍDOS EM RAZÃO DE ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. CONTROVÉRSIA QUANTO AO PEDIDO DE COMPENSAÇÃO DOS REFLEXOS DO ACA NA CONTRIBUIÇÃO À CASSI E IMPOSTO DE RENDA PAGOS PELO ASSOCIADO EM RAZÃO DO RECEBIMENTO DO AUXÍLIO. O MONTANTE A SER CONSIDERADO É AQUELE EFETIVAMENTE DESEMBOLSADO PELA FUNDAÇÃO PARA HONRAR COM A PARCELA CONCEDIDA EM SEDE DE ANTECIPAÇÃO DE TUTELA, NO CASO, O VALOR BRUTO E NÀO APENAS AQUELE LÍQUIDO RECEBIDO PELA EXECUTADA. O RESSARCIMENTO DEVE COMPREENDER A TOTALIDADE QUE A PARTE DESPENDEU PARA REALIZAR O PAGAMENTO DA PARCELA, SOB PENA DE ENRIQUECIMENTO SEM CAUSA. DECAIMENTO RECÍPROCO. MANUTENÇÃO DA DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. AGRAVO DE INSTRUMENTO NÀO PROVIDO.
+Quanto à controvérsia, a parte alega violação e divergência de interpretação jurisprudencial em relação ao art. 86, parágrafo único, do CPC, no que concerne à mínima sucumbência da parte recorrente, devendo-se condenar a PREVI ao pagamento da totalidade das custas e despesas processuais, eis que deu causa à impugnação e, ainda, obteve ganho ínfimo na presente demanda, trazendo a seguinte argumentação:
+Conforme se verifica, a Impugnação não é sobre a devolução ou sobre o valor nominal da cesta alimentação, mas, tão somente, sobre a indevida incidência de juros de mora abrangidos nos cálculos realizados pela PREVI, além de descontos da parcela CASSI.
+Note-se que o valor da causa da Impugnação é de R$ 73.835,80, ou seja, justamente o valor apontado pela PREVI a título de juros de mora.
+ ..
+A sentença de impugnação foi parcialmente procedente somente pelo fato de a parcela CASSI não ser considerada quando do desconto, em valor tão irrisório que sequer constou no valor da causa da Impugnação.
+Dessa forma, se comprova o expressivo ganho do recorrente na Impugnação, eis que extirpou juros de mora que atingiam quase setenta e quatro mil reais.
+Por outro lado, a negativa da devolução da parcela CASSI é ínfima em relação ao ganho obtido, pois em torno de 3% do valor da cesta alimentação.
+Considerando o valor indicado como devido (R$81.167,31), se calcularmos 3% de contribuição ao Plano de Saúde, chegaríamos a um total de R$ 2.435,02, parte ínfima da condenação.
+Dessa forma, não se pode falar que o decaimento não foi mínimo em razão do principal ter sido reconhecido como devido, pois essa matéria não foi objeto da impugnação.
+Havendo essa Impugnação cujo valor da causa é exatamente o que foi deferido pelo juízo, sendo a parcela indeferida ínfima em relação ao ganho obtido, resta comprovado o decaimento mínimo.
+ ..
+O Cotejo analítico salienta o inequívoco dissenso jurisprudencial, bem como a similitude fática com o caso em tela, no momento em que a decisão do Tribunal de Justiça do Estado de São Paulo vem aplicando o decaimento mínimo, por expressa previsão legal:
+ ..
+Dessa forma, equivocada a distribuição da sucumbência, pois o ganho do recorrente foi muito superior ao da ora recorrida, merecendo adequada redistribuição, pelo erro material ocorrido ao tratar de simples questão matemática. Decidir de forma diferente seria considerar o valor de R$ 2.435,02 superior ao de R$ 73.835,80 (fls. 103-108).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Por fim, quanto à distribuição do ônus da sucumbência, entendo que também não merece reforma a sentenç a. Ao contrário do alegado pelo agravante seu decaimento não foi mínimo.
+A decisão agravada declarou liquidado o valor a ser restituído pelo agravante à agravada, declarando ser indevida a incidência dos juros sobre as parcelas. Não se trata aqui de impugnação ao cumprimento de sentença onde o valor expungido serve para mensurar o decaimento da parte impugnada, mas sim de liquidação de sentença. O fato de a tese de não incidência de juros ter sido acolhida, mesmo que represente reflexo expressivo no valor a ser alcançado à agravada, o decaimento do agravante é evidente, tendo em vista o principal ter sido integralmente reconhecido como devido.
+Assim, não há que se falar em decaimento mínimo, não havendo fundamento para a redistribuição do ônus da sucumbência (fl. 57).
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/ 8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
