@@ -1,0 +1,3 @@
+Art. 7º-A. O saldo do crédito presumido de que trata o art. 8º da Lei nº 10.925, de 23 de julho de 2004, apurado até 1º de janeiro de 2012 em relação à aquisição de café in natura poderá ser utilizado pela pessoa jurídica para:
+I - compensação com débitos próprios, vencidos ou vincendos, relativos a tributos e contribuições administrados pela Secretaria da Receita Federal do Brasil, observada a legislação específica aplicável à matéria, inclusive quanto a prazos extintivos; ou
+II - pedido de ressarcimento em dinheiro, observada a legislação específica aplicável à matéria, inclusive quanto a prazos extintivos.
