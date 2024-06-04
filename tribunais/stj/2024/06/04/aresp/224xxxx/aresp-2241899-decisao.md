@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO DE JANEIRO, em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO DE DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO TRIBUTÁRIA. INCIDÊNCIA DE ICMS SOBRE EQUIPAMENTOS HOSPITALES IMPORTADOS. ENTIDADE ASSISTENCIAL SEM FINS LUCRATIVOS. IMUNIDADE TRIBUTÁRIA. ARTIGO 150, VI, "C", DA CONSTITUIÇÃO DA REPÚBLICA. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DO ESTADO DO RIO DE JANEIRO.
+-Preliminar de ilegitimidade ativa suscitada da tribuna pelo douto Procurador do Estado do Rio de Janeiro que se rejeita.
+-Matéria não suscitada em contestação e tampouco em apelação, querendo o apelante trazer roupagem de ilegitimidade de parte e por isso de ordem pública. Argumento de algibeira.
+-Outrossim, à luz da teoria da asserção, a análise da existênciadascondições da ação deve ser procedida in status assertionis, ou seja, consoante as afirmações realizadas pelo autor em sua petição, ficando adstritas ao exame da possibilidade, em tese, da existência do vínculo jurídico-obrigacional entre as partes, e não do direito provado.
+-A autora e a Casa de Saúde São José integram o mesmo grupo econômico e por isso é a responsável tributária, podendo, portanto, postular para que seja reconhecida eventual imunidade do tributo.
+-Para além disto, o apelante não demonstrou que o escopo legislativo não estivesse sendo atendido. Ou seja: que a apelada esteja se utilizando da imunidade tributária para auferir lucros e não de forma a atender a natureza jurídica filantrópica de tal prerrogativa.
+-A imunidade tributária das instituições de assistência social é subjetiva, posto que vinculada à natureza jurídica da pessoa jurídica, e condicionável, dependendo do preenchimento de requisitos legais pela entidade requerente para sua aplicabilidade.
+-Autora que comprova os requisitos legais, fazendo jus à imunidade tributária, nos termos do artigo 150, VI, "c", da Constituição da República. -A imunidade abrange o ICMS sobre a importação de mercadorias por entidades de assistência social, enquanto contribuinte de direito, e relacionadas às suas finalidades. Precedentes.
+-A relação das mercadorias, corroboram que os equipamentos serão utilizados para consecução das suas finalidades estatutárias beneficentes, notadamente na área de atendimento à saúde.
+-Ente tributante que não se desincumbiu de trazer qualquer elemento capaz de retirar a presunção de que os equipamentos importados seriam utilizados para a consecução dos fins essenciais da entidade ou que a importação possuiria natureza mercantil.
+-Sentença de procedência mantida.
+Pagará o apelante os honorários recursais,na forma do § 11 do artigo 85 do CPC.
+RECURSO DESPROVIDO.
+No apelo raro, o ente público recorrente, apontando violação dos arts. 17 e 485, VI, do CPC/2015 e 11, § 3º, da LC n. 87/1996, sustentou, em resumo, que a entidade recorrida, enquanto matriz (Associação Congregação de Santa Catarina), não tem legitimidade de postular o reconhecimendo do direito à imunidade de ICMS em favor de um estabelecimento filial (Casa de Saúde São José). Afirma que, "nos casos em que os tributos são apurados de forma autônoma por cada estabelecimento, como é o caso do ICMS, repita-se, cada estabelecimento (matriz e filial) possui uma capacidade judiciária própria, não podendo um demandar uma providência jurisdicional que vise favorecer o outro".
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender incidente o óbice da Súmula 7 do STJ, fundamento com o qual não concorda o agravante.
+Oferecida contraminuta.
+Passo a decidir.
+Atendidos os pressupostos próprios, conheço do agravo para, desde logo, apreciar o recurso especial.
+Na origem, cuidam os autos de ação ordinária ajuizada pela entidade recorrida, em que pediu "para o Réu não imponha restrições ao desembaraçao aduaneiro das mercadorias importadas por meio do Proforma Invoice n 7200040248, independentemente do pagamento do ICMS, declarando-se a inexigibilidade do ICMS na importação dos equipamentos hospítalares da Autora objeto desta ação, na medida em que a Autora faz jus à imunidade de que trata o artigo 150, VI, alínea "c", da Constituição Federal".
+O magistrado de primeiro grau julgou o pedido procedente.
+Na sequência, o TJRJ negou provimento à apelação fazendária, vindo a manter a sentença. Vejamos, no que aqui interessa, a motivação consignada no acórdão recorrido:
+Conheço do recurso, uma vez que presentes os requisitos de admissibilidade.
+Preambularmente, examina-se a preliminar de ilegitimidade ativa suscitada da tribuna pelo douto Procurador do Estado do Rio de Janeiro, para rejeitá-la.
+Com efeito, tal matéria sequer foi suscitada em contestação e tampouco em apelação, querendo o apelante trazer roupagem de ilegitimidade de parte e por isso de ordem pública, tratando-se, em verdade de argumento de algibeira.
+Outrossim, à luz da teoria da asserção, a análise da existência das condições da ação deve ser procedida in status assertionis, ou seja, consoante as afirmações realizadas pelo autor em sua petição, ficando adstritas ao exame da possibilidade, em tese, da existência do vínculo jurídico-obrigacional entre as partes, e não do direito provado.
+Igualmente, a autora, ora apelada e a Casa de Saúde São José integram o mesmo grupo econômico e por isso é a responsável tributária, podendo, portanto, postular para que seja reconhecida eventual imunidade do tributo.
+É de conhecimento geral que a Associação Congregação de Santa Catarina (ACSC) é responsável pela administração de várias entidades com atuação social, em saúde e educação, que formam a Rede Santa Catarina, dentre elas está a Casa de Saúde São José.
+Feitas essas considerações, verifico que o recurso especial não supera o juízo de admissibilidade.
+Isso porque, primeiro, o fundamento utilizado no acórdão recorrido de que a alegação de ilegitimidade de parte suscitada pelo ente público apenas na tribuna mostrou-se extemporânea, por configurar a denominada "nulidade de algibeira", não foi especificamente impugnada nas razões do recurso especial, o que revela a deficiência de sua argumentação, nos termos da Súmula 283 do STF.
+Saliento que as considerações feitas sobre a legitimidade da parte autora se deram a título subsidiário, não fazendo desaparecer o fundamento acima identificado.
+A par disso, ainda que hipoteticamente fosse possível superar referido óbice, melhor sorte não socorreria ao recorrente, visto que o conteúdo normativo contido no dispositivo de lei federal que ampara a sua tese acerca da autonomia dos estabelecimentos em relação ao ICMS, qual seja, o art. 11, § 3º, da LC n. 87/1996, não foi efetivamente examinado no acórdão recorrido, carecendo o recurso especial, no ponto, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
