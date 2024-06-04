@@ -1,0 +1,91 @@
+RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. PENAL E PROCESSUAL PENAL. ALEGADA VIOLAÇÃO AO ARTIGO 5º, XLVI, DA CONSTITUIÇÃO FEDERAL. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVOS. DESCABIMENTO. DETRAÇÃO PENAL E PROGRESSÃO DE REGIME. MATÉRIA INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XII E LVI, DA CONSTITUIÇÃO FEDERAL. APONTADA ILICITUDE DAS INTERCEPTAÇÕES TELEFÔNICAS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. QUESTIONAMENTO SOBRE A MATERIALIDADE DOS CRIMES IMPUTADOS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVOS CONHECIDOS EM PARTE E, NESSA PARTE, DESPROVIDOS.
+
+    DECISÃO: Trata-se de três recursos de agravo nos próprios autos interpostos por Alexandre Antônio de Mello, Euripedes Pereira Maia Filho e Patrícia da Silva Lage, objetivando reformar a decisão que inadmitiu os recursos extraordinários, manejados com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+
+    ”EMENTA. APELAÇÃO. PRELIMINARES –1- INÉPCIA DA DENÚNCIA – 2- NULIDADE DA SENTENÇA POR SE BASEAR EM PROVA MANIFESTAMENTE ILEGAL ORIUNDA DE QUEBRA DE SIGILO TELEFONICO – NULIDADE DA SENTENÇA POR INFRINGÊNCIA AO PRINCÍPIO DA CORRELAÇÃO E CERCEAMENTO DE DEFESA – 1- Preliminarmente, não há que se falar em inépcia da denúncia eis que a mesma possui descrição suficiente dos fatos criminosos, com as suas circunstâncias e definições das condutas de cada acusado nomeado, ensejando claramente a adequação típica, bem como o exercício da ampla defesa e contraditório, de forma que preencheu os requisitos do artigo 41 do CPP. Ademais, a superveniência da sentença condenatória torna preclusa a alegação de inépcia da inicial, ficando superada qualquer eventual imprecisão fática. Quanto à nulidade da sentença por basear-se em provas ilícitas, oriundas de medidas cautelares de quebra de sigilo telefônico que entendem ilegais, igualmente não há como acolher tal tese eis que apesar de a privacidade da pessoa ser direito garantido constitucionalmente, a própria carta magna abre exceção àquela regra ao possibilitar a violação das comunicações telefônicas, desde que autorizado judicialmente, para fins de investigação criminal, exigindo-se, ainda, que o crime investigado seja apenado com reclusão e que não haja outro meio de prova para apurar o delito, ainda devendo haver indícios de autoria. 2- Não há dúvida no caso em exame da existência de indícios da ocorrência dos delitos de violação a direitos autorais, corrupção e organização criminosa, sendo evidente que neste tipo último, para assegurar a sua comprovação e desbaratamento da organização, faz-se indispensável, razoável e proporcional o deferimento da via excepcional da quebra da privação das ligações telefônicas. 3- o princípio da correlação entre acusação e sentença, também chamado de princípio da congruência, é importante instrumento para o pleno exercício do direito de defesa, na medida em que assegura ao réu que não será condenado por fatos que não constavam da denúncia. O apelante EURÍPEDES foi condenado pela prática do fato que lhe foi imputado, qual seja, a conduta de associarem-se três ou mais pessoas, para o fim específico de cometer crimes. Ocorre que não foram obtidas provas suficientes para a condenação de outros réus, permanecendo, contudo, a situação fática narrada entre EURÍPEDES e os demais denunciados. A sentença, portanto, não acatou tese diversa da veiculada na denúncia. Assim, considerando que os apelantes foram condenados nos estritos limites da ação penal contra eles deflagrada, não merece acolhida a alegação defensiva. MÉRITO – ABSOLVIÇÃO INSUFICIÊNCIA D E PROVAS – PRINCIPIO DA ADEQUAÇÃO SOCIAL – 1- No tocante ao crime de violação e direito autoral, restou comprovado através das interceptações telefônicas registradas durante quase um ano de investigações onde foi possível averiguar a existência do comércio ilícito de mídias, áudios, vídeo e jogos contrafeitos em diversos boxes do Mercado Popular localizado no Centro da cidade e no bairro Santa Cecília, tendo tais interceptações corroboradas pelas apreensões feitas e cujos laudos se encontram nos autos (edocs 2837, 2871/2891, 2847, 2897 e 3898) 2- Quanto ao pedido de absolvição pelo princípio da adequação social, mais uma vez não merece acolhida o pleito defensivo eis que já há inclusive Sumula do STJ (súmula 502) no sentido de não ser aplicável ao crime de violação de direitos autorais. No julgamento do Recurso Especial 1.193.196, tomado como representativo de controvérsia, uma mulher mantinha em seu estabelecimento comercial, expostos para venda, 170 DVDs e 172 CDs piratas. O juiz de primeiro grau, ao aplicar o princípio da adequação social, entendeu pela absolvição e a Corte de Justiça estadual manteve a atipicidade. DOSIMETRIA E REGIME- penas aplicadas escorreitas, bem como os regimes impostos, merecendo pequeno retoque apenas a pena referente ao crime previsto no art. 317 do CP com relação ao réu Alexandre, Sendo mantida no mais a sentença. REJEITADAS AS PRELIMINARES - RECURSO DA DEFESA DE ALEXANDRE PARCIALMENTE PROVIDO – DESPROVIDOS OS DEMAIS.”
+
+    Os embargos de declaração opostos foram rejeitados.
+
+    Nas razões dos apelos extremos, os recorrentes sustentaram preliminar de Repercussão Geral e, no mérito, apontaram violação ao artigo 5º, XII, XLVI e LVI, da Constituição Federal.
+
+    Em síntese, as defesas dos recorrentes Alexandre Antônio de Mello e Patrícia da Silva Lage alegaram o seguinte: i) nulidade das interceptações telefônicas realizadas, tendo em vista que, nos termos recursais, foram autorizadas com base, exclusivamente, em denúncia anônima; e ii) que a dosimetria penal não atendeu as regras do Código Penal que disciplinam a matéria.
+
+    Por sua vez, a defesa do recorrente Euripedes Pereira Maia Filho, além de também sustentar a nulidade das interceptações telefônicas, e requerer a redução da pena, alegou que não há prova de materialidade delitiva do crime de violação de direitos autorais, em razão da falta de perícia no material apreendido; que não estão preenchidos os requisitos tipificadores do crime de corrupção ativa e que não há correlação da denúncia com a sentença condenatória quanto ao crime de associação criminosa. Pleiteia, ainda, seja apreciada a possibilidade de concessão de habeas corpus de oficio.
+
+    O Tribunal a quo negou seguimento aos recursos extraordinários nas questões relativas ao Tema 182 da Repercussão Geral (art. 5º, XLVI), e não os admitiu quanto às demais matérias, por entender que as alegações encontrariam óbice nas Súmulas 279 e 284 do STF.
+
+    É o relatório. DECIDO.
+
+    Os agravos não merecem prosperar.
+
+    Ab initio, destaco que o recurso de agravo é inadmissível contra decisão que aplica a sistemática da Repercussão Geral. Nesse sentido:
+
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+
+    1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+
+    2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+
+    3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+
+    4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”. (AI 760.358-QO, Rel. Min. Gilmar Mendes, Plenário, DJe de 19/2/2010)
+
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009.
+
+    É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral.
+
+    A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno).
+
+    Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+
+    Agravo regimental a que se nega provimento”. (ARE 761.661-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe de 28/4/2014)
+
+    Ressalto que, após o exame da existência de repercussão geral da matéria versada no recurso extraordinário, pelo Supremo Tribunal Federal, compete às cortes de origem a aplicação da decisão aos demais casos. Nesse sentido, ARE 823.651, Rel. Min. Gilmar Mendes, DJe de 16/9/2014; AI 846.808-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 10/11/2014; Rcl 11.940, Rel. Min. Ricardo Lewandowski, DJe de 14/2/2014; Rcl 12.395-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 6/11/2013; Rcl 15.080-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 18/2/2014; e Rcl 16.915-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 13/3/2014, com a seguinte ementa:
+
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. CONSTITUCIONAL. PROCESSUAL PENAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+
+    Assim, não conheço dos agravos nesse ponto específico (Tema 182 da Repercussão Geral).
+
+    Quanto às questões relativas à detração penal e progressão de regime, verifico que a jurisprudência desta Corte é uníssona no sentido de que a resolução da controvérsia atinente à individualização da pena demanda a análise da legislação infraconstitucional aplicável à espécie (Código Penal), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROGRESSÃO DE REGIME. REQUISITOS. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA TAXATIVIDADE. SÚMULA 282. OFENSA REFLEXA. DESPROVIMENTO. 1. É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão constitucional suscitada. Súmula 282/STF. 2. A matéria pertinente aos requisitos da progressão de regime pressupõem a incursão na legislação ordinária de regência, preconizada no art. 112 da Lei de Execução Penal e no art. 33, § 4º, do Código Penal, o que, por configurar suposta ofensa indireta à Constituição Federal, refoge à destinação constitucional do recurso extraordinário . 3. Agravo regimental desprovido .” (ARE 1.271.576-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJ e de 23/11/2020)
+
+    No mesmo sentido, a matéria relativa às alegações de irregularidades na obtenção de provas decorrentes de interceptações telefônicas, quando sub judice a controvérsia, implica a análise da Lei 9.296/1996, o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Confira-se:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Processo Penal. Tráfico de drogas. Condenação. 3. Suposta ofensa ao art. 5º, incisos IV, X, LIV, LV e LVI, da CF/1988. 4. Deficiência de fundamentação. Incidência da Súmula 284. 5. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Interpretação da Lei 9.296/1996. 6. Interceptação telefônica e prorrogações lastreadas exclusivamente em denúncia anônima. Não ocorrência. Precedentes. 7. Agravo regimental a que se nega provimento.” (ARE 954.758-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 18/11/2016, grifei)
+
+    Outrossim, não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo a incursão no contexto fático-probatório presente nos autos, revelada pelas alegações do recorrente Euripedes Pereira Maia Filho quanto à materialidade dos crimes imputados e correlação da denúncia com a sentença. Com efeito, essas pretensões não se amoldam à estreita via do apelo extremo, cujo conteúdo se restringe a discussão eminentemente de direito, face ao óbice imposto pela Súmula 279 do STF, que dispõe: ”Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. REJEIÇÃO DA QUEIXA-CRIME. ART. 142, III, CÓDIGO PENAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE TIPICIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL DESPROVIDO. 1. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 2. O necessário reexame de fatos e provas no tocante à ausência de tipicidade da conduta inviabiliza o conhecimento do recurso extraordinário. Entendimento da súmula 279/STF . 3. Agravo regimental não provido.” (ARE 998.893, Rel. Min. Edson Fachin, Segunda Turma, DJe de 7/12/2017)
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Penal e Processual Penal. Fraude em licitação e formação de quadrilha. Recebimento da denúncia. Pedido de trancamento da ação por falta de justa causa. Alegação de inépcia da inicial e de bis in idem (identidade de fatos). 3. Incidência da Súmula 279. Pedido que demanda reanálise da instrução probatória. Ofensa indireta ao texto constitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento .” (ARE 893.011-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 9/9/2015)
+
+    “Direito Penal e Processual Penal. Agravo regimental em recurso extraordinário com agravo. Autoria e materialidade. Provas. Alegada ofensa ao princípio da correlação. Legislação infraconstitucional. Necessidade de reexame de fatos e provas. Súmula nº 279/STF. 1. Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmula nº 279/STF). 2. Agravo regimental a que se nega provimento.” (ARE 1.468.291-ED-AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe de 29/02/2024)
+
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula 279 do STF:
+
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+
+    A Súmula 279 é peremptória: Para simples reexame de prova não cabe recurso extraordinário. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7”. (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138)
+
+    Consectariamente, forçoso é concluir que, à luz do entendimento jurisprudencial desta Corte, o recurso extraordinário a que se refere o presente agravo revela-se inadmissível.
+
+    Por fim, inexiste excepcionalidade que permita a concessão de ordem de habeas corpus de ofício, ante a ausência de teratologia, flagrante ilegalidade ou abuso de poder no acórdão recorrido.
+
+    Ex positis, CONHEÇO parcialmente dos agravos e, nessa parte, DESPROVEJO-OS, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 4 de junho de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
