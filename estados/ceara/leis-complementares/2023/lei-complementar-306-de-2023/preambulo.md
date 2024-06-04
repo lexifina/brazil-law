@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR N.° 306, DE 15.06.23 (D.O. 16.06.23)
+ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.º 06, DE 28 DE ABRIL DE 1997.
+O GOVERNADOR DO ESTADO DO CEARÁ. Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
