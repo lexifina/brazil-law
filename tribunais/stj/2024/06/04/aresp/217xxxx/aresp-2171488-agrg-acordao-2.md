@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO DE IMPOSTO DE RENDA PESSOA FÍSICA. ART. 1º, I, DA LEI N. 8.137/1990. NULIDADE. PROCEDIMENTO ADMINISTRATIVO FISCAL. CONTRADITÓRIO DIFERIDO. NÃO VIOLAÇÃO DO ART. 155 DO CPP. AUSÊNCIA DE PROCESSO ADMINISTRATIVO. IRRELEVÂNCIA. INDEPENDÊNCIA DAS ESFERAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Os elementos produzidos no Procedimento Administrativo Fiscal podem subsidiar condenação, em razão do contraditório diferido, sem que isso viole a disposição do art. 155 do Código de Processo Penal.
+3. As esferas penal, civil e administrativa são independentes e autônomas entre si, de forma que, o fato de a agravante não ter apresentado defesa administrativa para impugnar o auto de infração, bem como a ausência de um processo administrativo tributário, não vincula o processo penal e seus consectários desdobramentos, salvo a inequívoca demonstração de inexistência do fato ou comprovada a negativa de autoria.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pela defesa de MARCELE GRASSI contra decisão que negou provimento ao agravo em recurso especial.
+Nas razões do agravo regimental, a defesa repisa os argumentos anteriormente apresentados no recurso, no sentido da ilegalidade da condenação, sob a premissa de que: "O cerne da divergência está na questão jurídica acerca do enquadramento, ou não, do procedimento administrativo fiscal como prova não repetível e, portanto, sujeita a exceção do artigo 155 do código de processo penal. Também é discutida a existência, ou não, de contraditório diferido válido no presente caso. A discussão ainda foca no fato de os precedentes que são utilizados para afastar a contrariedade ao artigo 155 do CPP, tratarem de situação distinta da AGRAVANTE, pois que no seu caso não houve o processo administrativo."
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento.
+O Ministério Público se manifestou pelo desprovimento do recurso.
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO DE IMPOSTO DE RENDA PESSOA FÍSICA. ART. 1º, I, DA LEI N. 8.137/1990. NULIDADE. PROCEDIMENTO ADMINISTRATIVO FISCAL. CONTRADITÓRIO DIFERIDO. NÃO VIOLAÇÃO DO ART. 155 DO CPP. AUSÊNCIA DE PROCESSO ADMINISTRATIVO. IRRELEVÂNCIA. INDEPENDÊNCIA DAS ESFERAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Os elementos produzidos no Procedimento Administrativo Fiscal podem subsidiar condenação, em razão do contraditório diferido, sem que isso viole a disposição do art. 155 do Código de Processo Penal.
+3. As esferas penal, civil e administrativa são independentes e autônomas entre si, de forma que, o fato de a agravante não ter apresentado defesa administrativa para impugnar o auto de infração, bem como a ausência de um processo administrativo tributário, não vincula o processo penal e seus consectários desdobramentos, salvo a inequívoca demonstração de inexistência do fato ou comprovada a negativa de autoria.
+4. Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos anteriormente apresentados no recurso, no sentido da ilegalidade da condenação, sob a premissa de que: "O cerne da divergência está na questão jurídica acerca do enquadramento, ou não, do procedimento administrativo fiscal como prova não repetível e, portanto, sujeita a exceção do artigo 155 do código de processo penal. Também é discutida a existência, ou não, de contraditório diferido válido no presente caso. A discussão ainda foca no fato de os precedentes que são utilizados para afastar a contrariedade ao artigo 155 do CPP, tratarem de situação distinta da AGRAVANTE, pois que no seu caso não houve o processo administrativo."
+Em relação ao pedido, a parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Consoante consta na decisão agravada, do contexto delineado pela Corte de origem, não há violação do art. 155 do CPP, porquanto as provas produzidas no procedimento administrativo foram posteriormente submetidas ao contraditório diferido, sendo, portanto, aptas a embasar a condenação, motivo pelo qual não há falar em ausência de prova judicializada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. AUSÊNCIA. SONEGAÇÃO FISCAL. ELEMENTOS DO PROCEDIMENTO ADMINISTRATIVO FISCAL. CONTRADITÓRIO DIFERIDO. NÃO VIOLAÇÃO DO ART. 155 DO CPP. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se caracteriza a alegada ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, recurso especial com esteio em óbices processuais e na jurisprudência dominante deste Tribunal, hipótese dos autos.
+2. A tese recursal de não repetibilidade, em juízo, da prova advinda do procedimento administrativo fiscal não encontra respaldo na jurisprudência do STJ, a qual, por sua vez, considera legítimo o emprego de tais elementos em eventual édito condenatório, em razão do contraditório diferido, sem que isso implique violação do art. 155 do CPP.
+3. Os julgados desta Corte Superior, apontados nas razões deste regimental, não se referem, nenhum deles, a crimes contra a ordem tributária, circunstância insuficiente, pois, para afastar a incidência da Súmula n. 83 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.331.696/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/9/2023, DJe de 13/9/2023.)
+Consigna-se que as esferas penal, civil e administrativa são independentes e autônomas entre si, de forma que, o fato de a agravante não ter apresentado defesa administrativa para impugnar o auto de infração, bem como a ausência de um processo administrativo tributário, não vincula o processo penal e seus consectários desdobramentos, salvo a inequívoca demonstração de inexistência do fato ou comprovada a negativa de autoria.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
