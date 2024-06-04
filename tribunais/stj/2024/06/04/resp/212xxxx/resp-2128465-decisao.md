@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial que desafia acórdão assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO CELETISTA DA ANTIGA SIDERBRÁS. ANISTIA. ENQUADRAMENTO COMO SERVIDOR ESTATUTÁRIO DO MINISTÉRIO DE MINAS E ENERGIA. DESCABIMENTO.
+1. Em razão de tratar-se de mandado de segurança impetrado por associação, deve ser reconhecida a amplitude dos efeitos da decisão a toda a categoria profissional, independente de lista de associados constante dos autos. Precedentes do STF e STJ.
+2. No caso em análise, observa-se que os substituídos, que integravam os quadros de pessoal de empresas públicas extintas (EBTU e Portobrás), tiveram seus empregos públicos transformados em cargos públicos, passando a pertencer ao quadro de servidores do Ministério dos Transportes, situação essa embasada no art. 2º, caput, parágrafo único, alínea "a", da Lei nº 8.878/94. Com a edição da Orientação Normativa nº 01/2002, do Ministério do Planejamento, Desenvolvimento e Gestão, foi determinada a transposição do regime celetista para o estatutário.
+3. Os substituídos, servidores públicos federais do Ministério dos Transportes, estão submetidos ao regime estatutário há mais de 15 anos, restando caracterizada a decadência administrativa quinquenal prevista no art. 54, caput, Lei nº 9.874/1999, fato que impediria a alteração do regime jurídico dos substituídos.
+4. Fica a Administração Pública impedida de causar prejuízos e violar os princípios da segurança jurídica e da proteção da confiança, diante da prática de ato contraditório pelo Poder Público que frustra as expectativas geradas aos servidores públicos em questão. Portanto, os servidores devem ser mantidos no regime estatutário, com os direitos inerentes aos cargos em que foram enquadrados, tendo em vista que a PN nº 5/2016/Segrt/MP, ao desconstituir situação consolidada há mais de uma década, representa violação à segurança jurídica.
+5. Apelação provida, para conceder a segurança pleiteada, suspendendo a eficácia da PN nº 5/2016/Segrt/MP, de modo a impedir quaisquer medidas que importem na modificação do regime jurídico dos servidores que se encontram na mesma situação fática explanada nos autos, nos termos da presente fundamentação.
+A parte recorrente sustenta, em resumo, ofensa do art. 54 da Lei n. 9.784/1999, tendo em vista não incidir a decadência administrativa diante de situação de inconstitucionalidade.
+Defende, ainda, que o Tribunal de origem "houve por bem privilegiar o princípio da segurança jurídica em detrimento do princípio constitucional do concurso público, de que trata o art. 37, inc. II, da Constituição Federal, negando à Administração o regular exercício do seu poder de autotutela, nos moldes da Súmula 473 do STF e no art. 54 da Lei n. 9.784/1999".
+Contrarrazões apresentadas.
+Passo a decidir.
+Observa-se que o Tribunal a quo decidiu a questão também mediante fundamentação constitucional - RE 594.233-AgRg/DF e o princípio da segurança jurídica presunção de inocência (art. 5º, LVII, da CF) - suficiente e autônoma à preservação do decisum.
+Todavia, a parte recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial interposto, sendo esse manifestamente inadmissível, nos termos da Súmula 126 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
