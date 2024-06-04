@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCIO MAURO IORGATCHOF contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2263194-53.2023.8.26.0000.
+Extrai-se dos autos que o paciente e corréus tiveram contra eles decreto de prisão preventiva em razão de supostamente terem praticado o delito tipificado no art. 157, § 2º, II, e § 2º-A, I, do Código Penal - CP (roubo em concurso de pessoas e com emprego de arma) (fls. 15/17). Pedido de liberdade provisória para o paciente foi indeferido (fls. 18/19).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"Habeas Corpus - Roubo duplamente agravado - Insurgência contra a manutenção da custódia cautelar - Alegações de ausência dos requisitos da prisão preventiva e de que há ilicitude no reconhecimento feito por foto retirada do INSTAGRAM - Inadmissibilidade - Decretação da prisão preventiva, máxime para garantia da ordem pública, tendo em vista a gravidade do crime, revelada in concreto pelo modus operandi dos acusados, denotando a periculosidade do agente - Descabimento, por inadequação, de qualquer das medidas cautelares previstas no art. 319 do Código de Processo Penal, com a redação dada pela Lei nº 12.403/2011, mormente em face da norma inscrita no art. 282, inc. II, do mesmo Código. Hipótese, ademais, em que eventuais irregularidades da fase inquisitorial não possuem o condão de macular a ação penal - Reconhecimento pessoal que pode ser efetivado em Juízo, sob o crivo do contraditório. Formalidades do artigo 226 do Código de Processo Penal que constituem recomendação e não exigência - Precedente do Supremo Tribunal Federal. Ordem denegada." (fl. 21)
+No presente writ, a defesa aponta flagrante ilegalidade no procedimento de reconhecimento de pessoas, eis que o paciente não foi intimado para prestar depoimento ou para ser reconhecido pessoalmente. Destaca que a autoria delitiva decorre apenas da declaração da vítima que apresentou foto retirada do Instagram que estava no celular de um dos suspeitos. Entende, assim, necessidade de observância do art. 226 do Código de Processo Penal - CPP. Ressalta, ainda, as condições pessoais favoráveis do paciente.
+Requer, em liminar, a liberdade provisória, e, em mérito, a ilicitude da prova consistente no reconhecimento de pessoas, com a confirmação da soltura.
+Indeferido o pedido liminar (fls. 32/34), as informações foram prestadas (fls. 40/66), e o Ministério Público Federal - MPF opinou pelo não conhecimento do writ (fls. 70/73).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+De acordo com informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, nos autos da Ação Penal n. 1500017-10.2023.8.26.0372, em 6/5/2024 , sobreveio sentença absolvendo o ora paciente.
+Deste modo, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
