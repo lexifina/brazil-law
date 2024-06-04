@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por RAIMUNDO PAES MARTINS e OUTRA, contra decisão que deixou de admitir recurso especial, pelos seguintes fundamentos: (i) a inviabilidade de se conhecer da alegada ofensa ao artigo 1.022 do CPC/2015, porquanto não houve a oposição de embargos de declaração contra o acórdão impugnado na via especial; e (ii) quanto à apontada violação ao artigo 76 do CPC/2015, consignou-se a aplicação das Súmulas 283 e 284 do STF, diante da dissonância entre os fundamentos do acórdão recorrido e do apelo nobre, e, ademais, haveria incidência da Súmula 7/STJ (fls. 693/695, e-STJ).
+Daí o presente agravo (fls. 703/709, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 713/721, e-STJ.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Com efeito, os agravantes limitaram-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, sem, contudo, efetivamente demonstrar a inadequação dos óbices invocados.
+A decisão agravada deixou de admitir recurso especial, pelos seguintes fundamentos: (i) a inviabilidade de se conhecer da alegada ofensa ao artigo 1.022 do CPC/2015, porquanto não houve a oposição de embargos de declaração contra o acórdão impugnado na via especial; e (ii) quanto à apontada violação ao artigo 76 do CPC/2015, consignou-se a aplicação das Súmulas 283 e 284 do STF, diante da dissonância entre os fundamentos do acórdão recorrido e do apelo nobre, e, ademais, haveria incidência da Súmula 7/STJ (fls. 693/695, e-STJ).
+Observa-se, da atenta leitura do agravo em recurso especial, os insurgentes apresentam, entre as fls. 705/708, e-STJ, suas razões para reforma da decisão agrava, afirmando que o magistrado de 1ª instância rejeitou os Embargos de Declaração, Eventos 73 e 75 do processo de origem, e, por isso, a sentença é nula por ofensa ao artigo 1.022 do CPC/2015. Na sequência, reproduzindo as alegações de mérito, buscam afastar a incidência das Súmulas 283 e 284 do STF, aduzindo que o apelo nobre "foi devidamente fundamentado, permitindo-se a exata compreensão da controvérsia" (fl. 707, e-STJ).
+1.1. Assim, quanto às Súmula 283 e 284 do STF, os insurgentes, repisando o mérito recursal, apenas apresentaram argumentos superficiais no sentido de que o recurso especial "foi devidamente fundamentado, permitindo-se a exata compreensão da controvérsia" (fl. 707, e-STJ).
+1.2. Relativamente à incidência da Súmula 7 do STJ, verifica-se, de plano, que tal óbice não foi sequer mencionado nas razões do agravo.
+Portanto, não foi demonstrado que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias.
+Convém destacar que a impugnação ao referido enunciado se dá com "o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (AgInt no AREsp 1067725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+É dever da parte agravante, à luz do princípio da dialeticidade, demonstrar o desacerto do da decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos te rmos do art. 932, III, do CPC/15, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugna os fundamentos do decisum.
+Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;  grifou-se .
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008).
+2. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
