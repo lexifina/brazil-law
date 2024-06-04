@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da Vara do Juizado Especial Cível de Bragança Paulista - SJ/SP, suscitante, em desfavor do Juízo de Direito da 1ª Vara da Comarca de Serra Negra/SP, suscitado, extraído dos autos da Ação Ordinária (Processo n. 5003223-07.2022.4.03.6329), aviada por Maria Lúcia Alves do Amaral em desfavor do Instituto Nacional do Seguro Social - INSS.
+A ação foi ajuizada perante o Juizado Especial Federal da 3ª Região e distribuída à Vara do Juizado Especial Federal Cível de Bragança Paulista - SJ/SP, em que foi expedida Carta Precatória à Justiça Estadual da Comarca de Serra Negra/SP, para a realização de oitiva de testemunhas arroladas nos autos do processo supramencionado.
+Distribuída a deprecata à 1ª Vara da Comarca de Serra Negra/SP (sob o n. 1000656-95.2023.8.26.0595), o Juízo deprecado, no entanto, recusou-se em cumprir a deprecata, mediante os seguintes fundamentos: "nos termos do Provimento CSM n. 2644/2021 e Comunicado n. 289/2022 da Presidência do Tribunal de Justiça e a Corregedoria Geral de Justiça, proceda-se na forma da Resolução do CNJ sob número 354/2020, observando-se seu artigo 4º, § 2º. Oficie-se ao MMº Juízo Deprecante para reservar a sala de videoconferência para realização do ato processual. Designada a data, intimem-se as testemunhas para comparecimento!" (fl. 25, e-STJ).
+O Juízo Federal da Vara do Juizado Especial de Bragança Paulista - SJ/SP suscitante, por sua vez, suscitou o presente conflito de competência, por entender que o juízo deprecado poderá recusar o cumprimento da carta precatória apenas diante das hipóteses listadas no artigo 267 do CPC, o que não ocorreu no presente caso. E, "sendo a videoconferência (§ 3º do art. 236 do CPC) mera faculdade do juízo em utilizar o mencionado recurso tecnológico" (fls. 29-31, e-STJ).
+Dispensada a manifestação do Ministério Público Federal, por se tratar de matéria já conhecida desta Corte.
+É o relatório. Passo a decidir.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+Com razão o juízo suscitante.
+A jurisprudência desta Corte orienta-se no sentido de que as hipóteses de recusa de cumprimento da Carta Precatória constituem rol taxativo descrito no art. 267 do CPC/2015, verbis:
+Art. 267. O juiz recusará cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada quando:
+I - a carta não estiver revestida dos requisitos legais;
+II - faltar ao juiz competência em razão da matéria ou da hierarquia;
+III - o juiz tiver dúvida acerca de sua autenticidade.
+Parágrafo único. No caso de incompetência em razão da matéria ou da hierarquia, o juiz deprecado, conforme o ato a ser praticado, poderá remeter a carta ao juiz ou ao tribunal competente.
+Nesses termos, cumpre ressaltar a decisão monocrática proferida nos autos do CC 183.724/SP, de lavra do i. Min. Mauro Campbell Marques, publicada em 09/02/2022: "  diante da taxatividade das hipóteses elencadas no art. 267 do CPC/2015, somente é permitido ao Juízo deprecado a recusa de cumprimento da carta precatória, devolvendo-a com despacho motivado, quando não estiver revestida dos requisitos legais, quando carecer de competência em razão da matéria ou da hierarquia ou quando houver dúvida acerca de sua autenticidade, hipóteses não verificadas nos autos".
+Ainda, nesse mesmo sentido, "ao Juízo deprecado somente é permitido devolver carta precatória quando não estiver revestida dos requisitos legais quando carecer de competência em razão da matéria ou da hierarquia ou, ainda, quando tiver dúvida acerca de sua autenticidade". (CC 174.482/MG, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, DJe 20/10/2020).
+No caso em exame, a recusa não se encontra amparada por qualquer das hipóteses legais.
+Ante o exposto, com base no art. 34, XXII, do RISTJ, CONHEÇO do presente conflito para declarar competente o Juízo de Direito da 1ª Vara da Comarca de Serra Negra/SP, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO DEPRECANTE E JUÍZO DEPRECADO. CARTA PRECATÓRIA. RECUSA DE CUMPRIMENTO. HIPÓTESES ELENCADAS NO ART. 267 DO CPC/2015. NÃO OCORRÊNCIA DE QUAISQUER DELAS NO CASO. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE SERRA NEGRA/SP, ORA SUSCITADO.
