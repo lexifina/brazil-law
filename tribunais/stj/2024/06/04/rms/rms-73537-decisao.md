@@ -1,0 +1,34 @@
+DECISÃO
+Trazem os autos, originariamente, mandado de segurança impetrado por Guilherme Augusto Silva, contra ato atribuído ao MM. Juiz Auxiliar da Presidência - Gestor da Coordenadoria de Precatórios do Tribunal de Justiça do Estado do Maranhão, consistente na determinação de retenção de imposto de renda sobre honorários advocatícios contratuais.
+O Tribunal local denegou a segurança, em acórdão assim resumido (fl. 186):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. RETENÇÃO DE IMPOSTO DE RENDA SOBRE HONORÁRIOS CONTRATUAIS DESTACADOS EM PRECATÓRIO. ATO ADMINISTRATIVO VINCULADO E REGULAMENTADO PELA RECEITA FEDERAL. AUSÊNCIA DE ILEGALIDADE OU ABUSIVIDADE. ORDEM DENEGADA.
+1. Nos termos do art. 35, III da Resolução nº. 303/2019 do Conselho Nacional de Justiça, que dispõe sobre a gestão dos precatórios e respectivos procedimentos operacionais no âmbito do Poder Judiciário, deverá ser realizada, por ocasião do efetivo pagamento, a "retenção do imposto de renda na fonte devido pelos beneficiários, e seu respectivo recolhimento, conforme previsto em lei". Nesse contexto, a Solução de Consulta nº 555 - Cosit, de 20 de dezembro de 2017, elaborada pela Receita Federal do Brasil, estabelece que: ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF. RENDIMENTOS PAGOS EM CUMPRIMENTO DE DECISÃO JUDICIAL. HONORÁRIOS CONTRATUAIS. ADVOGADO. IMPOSTO SOBRE A RENDA. RETENÇÃO NA FONTE. O imposto sobre a renda incidente sobre os rendimentos pagos em cumprimento de decisão judicial, inclusive no caso de honorários advocatícios, será retido na fonte pela pessoa física ou jurídica obrigada ao pagamento, no momento em que, por qualquer forma, o rendimento se torne disponível para o beneficiário. Dis positivos Legais: § 4º do art. 3º da Lei nº 7.713, de 22 de dezembro de 1998, e arts. 38, 45, inciso I, 620, 628, e 718 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999).
+2. O enunciado de Súmula nº 311 do Superior Tribunal de Justiça determina que "Os atos do Presidente do Tribunal que disponham sobre processamento e pagamento de precatório não têm caráter jurisdicional", razão pela qual a Presidência do TJMA deve observar as soluções de consultas supracitadas, elaboradas pela Receita Federal do Brasil, órgão responsável, dentre outras atribuições, pela administração dos tributos federais, a exemplo do Imposto de Renda.
+3. A ausência de ilegalidade ou abusividade do ato administrativo impetrado afasta a pretensão mandamental por ausência de direito líquido e certo. Ordem denegada.
+No recurso ordinário, a parte recorrente sustenta, em resumo, que "o r. acórdão emanado pelo Egrégio Tribunal de Justiça do Maranhão padece de error in judicando ao considerar possível a tributação na fonte de honorários advocatícios contratuais decorrente e destacados do crédito principal do precatório" (fl. 276).
+Pugna, ainda, pelo deferimento de tutela antecipada recursal para que "seja determinada  ..  a suspensão da  ..  determinação de incidência de imposto de renda na fonte quanto aos honorários advocatícios contratuais decorrentes dos créditos advindos do precatório nº 0001261-78.2022.8.10.0000" (fl. 281).
+Contrarrazões apresentadas às fls. 286/290, postulando o desacolhimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhimento.
+Esta Corte Superior entende que a previsão do art. 46, caput, da Lei 8.541/1992, relativamente à retenção em fonte do imposto de renda incidente sobre os rendimentos pagos em cumprimento de decisão judicial, não alcança o pagamento de honorários contratuais.
+Nesse sentido:
+TRIBUTÁRIO. IMPOSTO DE RENDA. RETENÇÃO SOBRE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Os honorários contratuais, por sua natureza, não se enquadram na previsão legal do art. 46, § 1º, II, da Lei n. 8.541/1992, norma referente aos honorários de sucumbência, os quais são os rendimentos efetivamente pagos em cumprimento de decisão judicial (AgInt no REsp 1.862.786/PR, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 27/11/2020).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.565.171/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 31/8/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECATÓRIOS. RETENÇÃO DE IMPOSTO DE RENDA SOBRE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA. PREVISÃO LEGAL. PRECEDENTES.
+1. O Superior Tribunal de Justiça assentou jurisprudência no sentido de que a previsão do artigo 46, caput, da Lei n. 8.541/1998, relativamente à retenção em fonte do Imposto de Renda incidente sobre os rendimentos pagos em cumprimento de decisão judicial, alcança o pagamento de honorários advocatícios que sejam decorrentes de decisão judicial. Precedentes.
+2. Os honorários contratuais, por sua natureza, não se enquadram na previsão legal do art. 46, § 1º, II, da Lei n. 8.541/1992, norma referente aos honorários de sucumbência, os quais são os rendimentos efetivamente pagos em cumprimento de decisão judicial. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.862.786/PR, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 27/11/2020.)
+TRIBUTÁRIO. RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. HONORÁRIOS PAGOS AO ADVOGADO POR ATUAÇÃO COMO DEFENSOR DATIVO. INAPLICABILIDADE DO ART. 46, § 1º, DA LEI Nº 8.541/1992. RETENÇÃO DO IMPOSTO DE RENDA NA FONTE. LEGALIDADE. CLÁUSULA GERAL DE RETENÇÃO. ART. 7º, § 1º, DA LEI Nº 7.713/1988. SOMA DOS VALORES DEVIDOS NO MÊS DE COMPETÊNCIA PARA FINS DE APLICAÇÃO DA ALÍQUOTA RESPECTIVA. POSSIBILIDADE.
+1. Os honorários do defensor dativo, por se assemelharem aos honorários contratuais, não se enquadram no art. 46, § 1º, II, da Lei nº 8.541/1992, o qual se refere aos honorários de sucumbência, pois estes é que são efetivamente "rendimentos pagos em cumprimento de decisão judicial".
+2. Ainda que o art. 46, § 1º, II, da Lei nº 8.541/1992 não se aplique ao caso dos autos, subsiste a obrigação de retenção do Imposto de Renda na fonte quando do pagamento pelo Estado dos honorários devidos ao defensor dativo, haja vista a aplicação da cláusula geral de retenção de Imposto de Renda na fonte pagadora prevista no art. 717 do Regulamento do Imposto de Renda, Decreto nº 3.000/1999.
+(..)
+5. Recurso especial conhecido e provido.
+(REsp 1.589.324/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 31/5/2016)
+Na espécie, em desconformidade com essa orientação jurisprudencial, entendeu a Corte Maranhense que seria devida a retenção do tributo.
+ANTE O EXPOSTO, dou provimento ao recurso ordinário, em ordem a determinar que se abstenha a autoridade coatora de realizar a tributação na fonte de imposto de renda tendo por base os honorários advocatícios contratuais decorrentes do precatório nº 0001261-78.2022.8.10.0000. Considerando a solução adotada, prejudicada a análise do pleito liminar.
+Comunique-se, com urgência. Cumpra-se.
+Publique-se.
+EMENTA
