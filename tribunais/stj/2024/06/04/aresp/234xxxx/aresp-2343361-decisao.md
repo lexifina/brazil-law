@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por ADEILTON LOPES DA SILVA e OUTRA em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"INVENTÁRIO - Pedido de levantamento ou transferência de valores decorrentes de dívida - Indeferimento - Manutenção - Ausência de conclusão dos processos relativos às dívidas do autor da herança, existindo possibilidade de insolvência - Transferência prematura dosvalores arrecadados que poderia, em tese,implicar pagamento a maior, em prejuízo dosdemais credores - Necessidade de aguardar a arrecadação dos bens e a ciência do valor exatodo montemor - Agravo desprovido. " (e-STJ fls. 178/182)
+Os embargos de declaração foram rejeitados. (e-STJ fls.199/203 )
+Nas razões do recurso especial, a recorrente alega violação aos arts. ao art. 1022, inciso I do CPC; art.489, § 1º, inciso IV, do CPC; art. 371 do CPC; arts. 642 do CPC e 1997 do CC, sustentando, em síntese que: 1) o acórdão recorrido não apontou os elementos que formaram o convencimento do juízo, incidindo em mera reprodução da decisão de primeiro grau e falta de fundamentação; 2) contradição entre a conclusão do acórdão e as teses defendidas pelos agravantes e 3) o status do Inventário autoriza o pagamento do crédito aos recorrentes.
+É o relatório. Decido.
+No que se refere à tese de que o acórdão recorrido não apontou os elementos que formaram o convencimento do juízo, incidindo em mera reprodução da decisão de primeiro grau e falta de fundamentação, tem-se que não merece prosperar.
+O acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá a seguir.
+É indevido conjecturar-se a exi stência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Sobre a alegação de que o status do Inventário autoriza o pagamento do crédito aos recorrentes, a Corte de origem assim decidiu:
+"Ocorre que, não obstante todas as alegações dos agravantes e consoante bem anotado pelo representante do parquet, "Extrai-se dos autos principais que ainda não houve conclusão dos processos relativos às dívidas do autor da herança, existindo possibilidade de insolvência.
+Se a insolvência vier a ser configurada, será necessário proceder ao concurso de credores.
+Nesse sentido, a transferência prematura dos valores arrecadados poderia em tese implicar pagamento a maior, em prejuízo dos demais credores.
+Vale ressaltar que nem mesmo o levantamento de valores para custeio da educação do herdeiro menor foi permitida, pelo mesmo fundamento.
+Na pendência de indefinição acerca do valor real das dívidas e do valor da herança, não é possível presumir a solvência, restando protegidos os interesses dos credores por meio da reserva de valores" (fls.168/169).
+Ademais, como bem anotado pelo julgador monocrático, "Os credores serão pagos em momento oportuno, após a arrecadação dos bens e a ciência do valor exato do montemor para, então, pagar os credores, nos termos do art. 642 do Código de Processo Civil, ou declarar-lhe a insolvência civil com o estabelecimento do concurso de credores.
+Antes disso, não há que se falar em transferência de valores para pagamento de credores" (fl. 467).
+Como visto, o acórdão recorrido consignou que, de acordo com as provas carreadas aos autos principais, ainda não houve conclusão dos processos relativos às dívidas do autor da herança, existindo possibilidade de insolvência.
+A modificação de tal entendimento lançado no v. acórdão recorrido, quanto à existência ou não de indefinição acerca do valor real das dívidas e do valor da herança, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO. DISCORDÂNCIA DOS HERDEIROS. ENVIO DAS PARTES ÀS VIAS ORDINÁRIAS. SÚMULA 83/STJ. RESERVA DE BENS PARA PAGAMENTO DO CRÉDITO. EXIGÊNCIA DE PROVA SUFICIENTE DA OBRIGAÇÃO. INEXISTÊNCIA. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do STJ, "Não havendo concordância de todas as partes sobre o pedido de pagamento feito pelo credor na habilitação, deve ele remetido para os meios ordinários (art. 1.018, CPC)" (REsp 703.884/SC, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 23/10/2007, DJ de 8/11/2007, p. 225).
+2. Na espécie, o Tribunal de Justiça, além de enviar as partes às vias ordinárias, negou o pedido de reserva, em poder do inventariante, de bens suficientes para pagar o credor, na forma do art. 649, parágrafo único, do CPC/2015, uma vez que inexiste prova literal do crédito nos autos. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.390.466/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. TRANSFERÊNCIA GRATUITA DE BENS ENTRE EX-CÔNJUGES. PARTILHA. FRAUDE. ANTERIORIDADE DO CRÉDITO E INSOLVÊNCIA. COMPROVAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PREJUÍZO AO CREDOR. BEM DE FAMÍLIA. REEXAME PROBATÓRIO. SÚMULAS 5 E 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.379.987/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/8/2021, DJe de 12/8/2021.)
+Por fim, no que se refere à tese de contradição, tem-se que a contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos, em que o recorrente alega contradição ente as teses por ele defendidas e a conclusão da Corte de origem. Sobre o tema:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONTRATO COLETIVO. RESILIÇÃO POR DECURSO DE PRAZO PREVISTO NO ART. 30, § 1º, DA LEI 9.656/98. TRATAMENTO MÉDICO GARANTIDOR DE SOBREVIVÊNCIA. MANUTENÇÃO DO PLANO DE SAÚDE. ILEGITIMIDADE PASSIVA. OMISSÃO CONFIGURADA. PRELIMINAR AFASTADA. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A contradição que autoriza a oposição de embargos declaratórios é a interna, ou seja, entre as proposições do próprio julgado, e não entre a sua conclusão e o que fora discutido nos autos.
+3. Embargos de declaração parcialmente acolhidos, para suprir omissão sobre a preliminar de ilegitimidade passiva alegada em contrarrazões, a qual fica afastada.
+(EDcl no AgInt no REsp n. 1.942.086/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DO AUTOR.
+1. Violação ao artigo 1.022 do CPC não configurada.
+Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada.
+1.2. A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. Precedentes.
+2. Quando a sentença acobertada pela eficácia da coisa julgada material não é meramente homologatória, e deriva do exercício do poder jurisdicional atribuído ao órgão judiciário competente, resolvendo o mérito da lide, somente poderá ser impugnada por meio do ajuizamento de ação rescisória, restando imprestável a esse fim a ação anulatória. Precedentes. Incidência da Súmula 83 do STJ.
+2.1. No caso dos autos, é inviável a ação anulatória para impugnar sentença transitada em julgado que julgou improcedente a exceção de pré-executividade.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.190.300/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
