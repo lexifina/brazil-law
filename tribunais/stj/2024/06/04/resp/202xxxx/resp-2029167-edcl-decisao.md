@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TELURICA, NEGOCIOS RURAIS E AGRO-PASTORIS LTDA. contra decisão monocrática de minha relatoria que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento (fls. 848-853).
+O embargante alega que a decisão embargada foi contraditória, tendo em vista os fundamentos da decisão proferida nos autos da Tutela Provisória n. 14.683/SP. Aponta também omissão porquanto "não observou detidamente a argumentação conjunta em relação a violação dos arts. 489, § 1º, e 1022, II, do CPC/2015, haja vista que as questões ventiladas nos Embargos de Declaração sequer esclarecidas pelo Eg. Tribunal "a quo", nos aclaratórios manejados na instância de origem" (fl. 866).
+Requer a reforma da decisão embargada.
+Os embargados apresentaram impugnação às fls. 882-893, 894-899 e 903-1.077.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há omissão ou contradição na decisão embargada porquanto claramente afastou a alegação de violação dos arts. 489 e 1.022 do CPC e não conheceu do recurso especial em razão da incidência das Súmulas n. 283/STF e 7/STJ nos seguintes termos (fls. 850-852):
+De início, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a validade da citação por carta na residência da sócia, tendo em vista o seu endereçamento e a indicação da empresa executada como destinatária.
+E, a propósito do contexto recursal, destacou a origem (fls. 430-431):
+No caso vertente, verificado que a empresa não foi encontrada no endereço que estava registrado no JUCESP, fazendo crer que encerrou irregularmente suas atividades, o MM. Juiz "a quo", corretamente, direcionou a citação para a pessoa das sócias da empresa.
+O aviso de recebimento (A. R.) foi recebido, sem nenhuma ressalva, pelo recepcionista do condomínio, Wellington Matheus B. de Lima em 06.04.2017.
+Como se sabe, em se tratando de condomínio edilício, é válida a notificação recebida por porteiro ou zelador de edifício residencial, o que justifica o "AR" de fls. 1.708 dos autos principais estar assinado por terceira pessoa, em interpretação extensiva aos termos do art. 248, §4º do CPC.
+ ..
+Com efeito, verifica-se que a carta de citação foi encaminhada para o endereço que consta na ficha cadastral da JUCESP, como sendo o da residência da Sra. Daniela, sócia administradora da empresa Telúrica (fls. 1.529/1.531 e 1.880/1.881 dos autos principais).
+Cabe ressaltar, ainda, que o endereço da Rua Professora Claricinda Trindade nº 659, Tatui/SP, continuou sendo informado pela sócia Daniela como de sua residência na procuração de fls. 2651/2653 dos autos principais, lavrada pelo 1º Tabelião de Notas e de Protestos de Letras e Títulos de Tatui/SP.
+Frise-se que em momento algum houve a alegação de que a Sra. Daniela não reside no endereço para onde foi encaminhada a carta de citação. Também não houve a apresentação de prova capaz de afastar a presunção relativa de cumprimento da finalidade do ato citatório, não é o caso, por isso, de se reconhecer a nulidade da citação.
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+ ..
+Quanto ao mérito, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar que a nulidade da citação decorreria de "erro no endereçamento", qual seja: o fato de a carta estar endereçada no nome da Empresa executada em vez de constar o nome da sócia moradora no endereço em que a correspondência foi entregue. Assim, deixa de impugnar os fundamentos do acordão recorrido no sentido de "em momento algum houve a alegação de que a Sra. Daniela não reside no endereço para onde foi encaminhada a carta de citação" e de que não houve apresentação de prova mínima no sentido de que a finalidade do ato citatório não foi cumprida, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, a alegação recursal de que houve erro no endereçamento da citação que, por isso, não teria sido recebida , considerando a fundamentação do acórdão objeto do recurso especial, somente poderia ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+Destaque-se que a contradição que autoriza a oposição de embargos declaratórios é a interna, ou seja, entre as proposições do próprio julgado, e não entre a sua conclusão e o que fora discutido nos autos ou debatido em outro recurso.
+Enfim, a pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intim em-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. CITAÇÃO POSTAL. VÍCIOS DO ART. 1.022 DO CPC. INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
