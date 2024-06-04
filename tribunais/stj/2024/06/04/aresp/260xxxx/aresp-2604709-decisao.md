@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por GILSON TELES BOAVENTURA contra decisão do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 295):
+ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. CUMULAÇÃO DE CARGOS. ABATE TETO. NECESSÁRIO VERIFICAR LICITUDE DA CUMULAÇÃO. ART. 373, I DO CPC/15. APELAÇÃO CONHECIDA E DESPROVIDA
+1. Trata-se de Apelação interposta em face de sentença que julgou improcedente o pedido autoral.
+2. Embora não se desconheça o julgamento do STF no ARE-RG 1246685, Tema 1.081, a pretensão autoral não merece prosperar.
+3. Cinge-se a controvérsia a aferir a possibilidade de considerar para fins de abate teto o valor individual de cada vencimento.
+4. "Nas situações jurídicas em que a Constituição Federal autoriza a acumulação de cargos, o teto remuneratório é considerado em relação à remuneração de cada um deles, e não ao somatório do que recebido" (STF, RE 602.043/MT)
+5. Ocorre que para fins de abate teto faz-se necessário primeiramente analisar a licitude da cumulação de cargos. Precedente desta turma especializada.
+6. No caso dos autos, em AG 0008928-15.2018.4.02.0000, julgado pela Oitava Turma Especializada, restou definido que o Apelante "acumula proventos de aposentadoria no cargo de professor da UFF com vencimentos do cargo de Professo Visitante da UFBA, em regime de dedicação exclusiva, o que, por si só, é incompatível com o instituto da acumulação"
+7. Compete à parte autora demonstrar os fatos constitutivos de seu direito, nos moldes do art. 373, I do CPC/15, sendo que o conjunto probatório inserto aos autos não demonstra ser patente para concluir pela licitude da cumulação exercida, impõe-se a improcedência da demanda.
+8. Apelação desprovida.
+Rejeitados os aclaratórios (e-STJ fls. 399/401).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 489, II, § 1º, 942, 1.022, I, parágrafo único, II, do CPC/2015, 41, 42, parágrafo único da Lei n. 8112/1990, 884 e 885 do Código Civil, sustentando negativa de prestação jurisdicional, necessidade de aplicação da técnica de julgamento ampliado, ante o resultado não unânime da apelação, bem como aplicação do abate teto fora da previsão legal, o que redundaria em ofensa ao princípio da irredutibilidade de vencimentos e enriquecimento sem causa da Administração.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo. Houve, ainda, negativa de seguimento com fundamento nos Temas 339, 377 e 384 do STF.
+Contraminuta às e-STJ fls. 642/646.
+Passo a decidir.
+Inicialmente, negado seguimento ao apelo extremo, quanto à matéria relacionada ao teto constitucional, com base no art. 1.030, I, "b", do CPC/2015 (em razão do que decidido nos Temas 377 e 384 do STF), revela-se inviável a análise da temática pelo STJ, pois o recurso cabível, na hipótese, é o agravo interno para o Tribunal de origem. Nesse sentido:
+PROCESSUAL CIVIL. JUÍZO DE PRELIBAÇÃO NEGATIVO. TEMA JULGADO EM SEDE DE REPETITIVO. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. PROVA PERICIAL INDEFERIMENTO. CERCEAMENTO DE DIREITO DE DEFESA. INEXISTÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Hipótese em que a decisão denegatória de seguimento do apelo nobre foi publicada após a vigência do CPC/2015, e o tópico recursal relativo à violação dos arts. 492 e 141 do CPC/2015 está associado ao tema repetitivo, razão pela qual o agravo em recurso especial não merece conhecimento nesta parte.
+3. A conclusão alcançada pela Corte local de que a prova pericial pretendida não teria o condão de alterar o entendimento de que as atividades da contribuinte não seriam industriais para fins de creditamento do ICMS e que, por isso, seria impertinente a produção dessa prova, além de estar em sintonia com a jurisprudência desta Corte superior em relação à não configuração do cerceamento de defesa, atraindo a aplicação da Súmula 83 do STJ, somente pode ser revisada com o revolvimento fático-probatório dos autos, medida que esbarra no óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1.847.878/SP, de minha relatoria, Primeira Turma, DJe de 25/5/2022).
+Em relação à única matéria remanescente, não abrangida pela negativa de seguimento com fundamento em temas de repercussão geral, no que toca ao art. 942 do CPC/2015 registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com base no art. 253, parágrafo único, I e II, "a", do RISTJ, CONHEÇO EM PARTE do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
