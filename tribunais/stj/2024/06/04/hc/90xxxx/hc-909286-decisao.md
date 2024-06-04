@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em favor VINICIUS BISPO DOS SANTOS , em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que manteve o indeferimento do pedido de indulto parcial com base no Decreto Presidencial nº 11.846/2023, sob o argumento de não estar preenchido o requisito objetivo, eis que o agravante foi condenado por delitos de natureza comum e por crime impeditivo, não tendo cumprido até 25 de dezembro de 2023 a fração necessária correspondente a cada delito.
+Neste writ, a Defensoria Pública aponta constrangimento ilegal, porquanto o sentenciado era primário quando da condenação e cumpriu, até o dia 25 de dezembro de 2023, mais de 1/5 da pena, preenchendo, portanto, as condições para obtenção da comutação.
+Requer seja concedida a comutação da pena relativa aos autos nº 0000993- 66.2022.8.26.0521, com base no Decreto Presidencial nº 11.846/2023.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Segundo se verifica dos autos, assim consignou o Tribunal de origem a respeito da controvérsia (e-STJ, fls. 58):
+"Como bem destacou o MP, corroborado pelo Douto Procurador Geral de Justiça: "Ou seja, para a concessão do benefício o sentenciado tem de cumprir a fração de dois terços da pena do delito hediondo e a fração do delito comum. Pensar de maneira diversa é concordar com o equivalente a "crédito de pena" ao sentenciado que viesse a cometer novo delito hediondo, pensamento totalmente contrário à ideia de ressocialização. Logo, considerando a data da prática do último delito impeditivo (23/03/2021, Art. 121 § 2º, II, IV c/c Art. 14, II ambos do Código Penal, PEC 0002271-68.2023.8.26.0521), não resta preenchido o requisito objetivo, pois o sentenciado não veio a cumprir a fração da reprimenda do delito impeditivo, mais a fração do delito não impeditivo, não há que se falarem concessão do benefício." (C. Razões, fls. 33)."."
+Consta do Decreto Presidencial nº 11.846/2023:
+"Art. 9º As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2023. Parágrafo único. Na hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios."
+No caso, o sentenciado não cumpriu o tempo de pena exigido pelo Decreto em relação ao delito impeditivo.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
