@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da petição de fls. 1778-1933 e seguintes, MAGAZINE LUIZA LTDA informa que "à Transação por adesão no contencioso de relevante e disseminada controvérsia, modalidade excepcional -juros de mora dos débitos de ICMS inscritos em dívida ativa, estipulado pelo art. 43 daLei nº 17.843/2023, e regulamentado pelo Edital PGE/Transação nº 01/2024, relativamente aos débitos de ICMS discutidos no presente feito".
+Dispõe ainda que "desiste do presente recurso e renuncia ao direito sobre o qual se funda a ação, bem como a quaisquer alegações de direito futuras relativas ao débito discutido, para cumprir com o disposto no art. 3º, IV e V, da Lei nº 17.843/2023 e dos itens 8.1.6 e 8.1.7 do Edital PGE/Transação nº 01/2024. Os débitos incluídos na transação estadual foram quitados com depósitos judiciais vinculados ao CNPJ raiz da Executada realizados na Execução Fiscal nº 0029647-36.2007.8.26.0506, nos termos do item 6.5.3 do Edital PGE/Transação nº 01/2024"(fl. 1778).
+Requer a juntada do anexo comprovante de adesão ao programa de transação, bem como a homologação da transação firmada, com a consequente extinção do presente feito com resolução de mérito, nos termos do art. 487, III, "c", do CPC.
+Desse modo, julgo prejudicado o agravo interno , intima-se a FAZENDA DO ESTADO DE SÃO PAULO para efeito de juntada do comprovante de homologação da transação firmada.
+Publique-se. Intimem-se.
+EMENTA
