@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. ADEQUAÇÃO DO REGIME PRISIONAL.
+1. O agravante deixou de infirmar causa específica de inadmissão do agravo em recurso especial. Incidência, por analogia, da Súmula n. 182 do STJ.
+2. A compreensão desta Corte, nos termos do art. 33, § 2º, b, e § 3º, do CP, implica a aplicação do regime semiaberto, haja vista a quantidade da pena privativa de liberdade imposta (2 anos e 14 dias de reclusão), e a circunstância judicial desfavorável - culpabilidade.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDREAS STEFANO TRINDADE interpõe agravo regimental contra decisão de fls. 294-295, proferida pela Presidência deste Tribunal Superior, que não conheceu do agravo em recurso especial por não haver o agravante impugnado especificamente todos os fundamentos da decisão proferida pelo Tribunal de origem, em juízo de admissibilidade, nos termos que ora transcrevo (fl. 294):
+verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF, ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF, Súmula 283/STF, deficiência de cotejo analítico e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Nesta interposição, a defesa assevera que o presente recurso observa os requisitos de procedibilidade exigidos na legislação, que trouxe todas as fundamentações necessárias para a correta compreensão das controvérsias, as quais foram devidamente prequestionadas, e que não busca o reexame de fatos e provas dos autos.
+Pleiteia, portanto, a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. ADEQUAÇÃO DO REGIME PRISIONAL.
+1. O agravante deixou de infirmar causa específica de inadmissão do agravo em recurso especial. Incidência, por analogia, da Súmula n. 182 do STJ.
+2. A compreensão desta Corte, nos termos do art. 33, § 2º, b, e § 3º, do CP, implica a aplicação do regime semiaberto, haja vista a quantidade da pena privativa de liberdade imposta (2 anos e 14 dias de reclusão), e a circunstância judicial desfavorável - culpabilidade.
+3. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos aduzidos pela defesa, a decisão recorrida deve ser mantida por seus próprios fundamentos. A inadmissão do recurso especial interposto pelo permissivo da alínea "a" da Constituição Federal ocorreu com fulcro nos óbices sumulares n. 284, 283, ambas do STF e 7, do STJ, além de ausência ou erro de indicação do permissivo constitucional autorizador do recurso especial e deficiência do cotejo analítico (fls. 294-295).
+A parte agravante, às fls. 271-279, não impugnou especificamente todos os fundamentos da decisão, vale dizer, deixou de apontar, expressamente, todos os dispositivos de lei federal, teoricamente, violados, em desconformidade com os requisitos constitucionais e legais para a interposição do apelo raro. Ademais, fez alusões genéricas sobre a incidência do não reexame de fatos e provas, o que é vetado por esse Tribunal Superior.
+Dessarte, não apontou as razões para a não incidência da Súmula n. 182 do STJ. A jurisprudência desta Corte entende pela impossibilidade de serem sanados os requisitos de fundamentação para a interposição do REsp.
+A Presidência deste Superior Tribunal, então, não conheceu do agravo em recurso especial.
+Neste regimental (fls. 300-306), verifico idêntico vício, porquanto a defesa não infirma o fundamento da decisão atacada, visto que não demonstra que o agravo interposto contra a inadmissão do recurso especial haveria combatido a totalidade dos motivos apontados para negar seguimento ao pleito.
+Incide, portanto, a Súmula n. 182 do STJ, a inviabilizar o conhecimento do pedido.
+A propósito, destaco o entendimento do Ministério Público Federal, nessa perspectiva, nos presentes autos (fls. 322-323):
+ ..  O recurso não foi admitido com base em quatro fundamentos, mas as razões impugnam genericamente apenas a aplicação da súmula 07/STJ, esclarecendo, também de maneira genérica, que o recurso observou os requisitos de admissibilidade.
+Dessa forma, considerando que não houve impugnação específica e de todos os fundamentos da decisão agravada, a hipótese é de não conhecimento do agravo  .. .
+Contudo, observo que a hipótese comporta a concessão de habeas corpus de ofício. Trata-se de réu condenado pelo delito de furto tentado, nos termos do art. 155, § 4º, I, c/c o art. 14, II, ambos do Código Penal, à pena de 2 anos e 14 dias de reclusão, em regime inicial fechado, acrescida do pagamento de 10 dias-multa, à razão mínima.
+Observo que o Tribunal de origem, nos autos da apelação criminal n. 1500515-94.2023.8.26.0279, consignou o que se segue (fls. 216 226, grifei):
+ ..  ANDREAS STEFANO TRINDADE, no dia 2 de maio de 2023, por voltadas 8h10min, na Rua Prudente de Morais, nº 2786, Itararé/SP, teria tentado subtrair, em proveito próprio, mediante rompimento de obstáculo, o veículo Ford Fiesta de placas CYK-1018, não consumando o delito por circunstâncias alheias a sua vontade  ..  em que pese o esforço da defesa, não há que se falar em atipicidade da conduta praticada pelo réu, com base no princípio da insignificância.
+Primeiramente porque a "res furtiva" (um automóvel), evidentemente não se enquadra no conceito de insignificância penal, ainda que enxergado do ponto de vista estritamente econômico  ..  o só fato de o objeto da subtração ter sido prontamente recuperado pela vítima não autoriza a conclusão de que o furto praticado representa um indiferente penal.
+ ..  Comprovou-se, ainda, que o réu tem histórico de prática de outros delitos (v. certidão de execução criminal de fls. 139/141), o que também torna inviável a conclusão pela baixa reprovabilidade da conduta praticada.
+ ..  também não cabe afastar a qualificadora relativa ao rompimento de obstáculo, a qual restou bem demonstrada pela prova oral coligida nas duas fases do feito.
+De fato, tanto a vítima quanto as testemunhas ouvidas confirmaram que uma das portas do veículo objeto da tentativa de subtração estava "dobrada", evidenciando o seu arrombamento.
+Cabe registrar que, em se tratando de crimes que deixam vestígios, a lei autoriza que a falta de prova pericial seja suprida pela prova oral no caso de haverem desparecido os vestígios  .. .
+ ..  A pena também não comporta nenhum reparo, eis que fixada mediante boa ponderação dos critérios legais.
+Na primeira fase, foi a reprimenda corretamente fixada, na base, em 1/3 acima do mínimo lega l (02 anos e 08 meses de reclusão e 13 dias-multa) ,considerados os maus antecedentes do réu (fls. 33/41 e 139/141) e a circunstância de o delito ter sido praticado durante o gozo de liberdade provisória (ação penal nº 1500239-38.2022.8.26.0622, cf. fl. 139), a denotar da conduta praticada especial audácia e destemor.
+Quanto à segunda etapa, houve aumento de 1/6 por força da agravante da reincidência, resultando em03 anos, 01 mês e 10 dias de reclusão e 15 dias-multa.
+Em que pese o esforço da defesa, há comprovação nos autos de que, além das condenações oriundas do estado do Paraná (fls. 33/41), o réu ostenta outras condenações definitivas, devidamente comprovadas na folha de antecedentes de fls. 17/25 e certidão de execução criminal de fls.139/141(autos nº 0000840-93.2012.8.26.0582 e 0001074-75.2012.8.26.0582), o que é suficiente para o reconhecimento da agravante citada.
+Na terceira fase, incidiu a redução mínima prevista para a "tentativa" (1/3), resultando a pena, de modo definitivo, no montante final de 02 anos e 14 dias de reclusão é 10 dias-multa.
+Ainda na terceira fase, não é caso de reconhecimento do "privilégio" previsto no § 2º do art. 155 do CP, considerado o elevado valor do bem objeto da tentativa de subtração, além do já mencionado histórico criminal do réu.
+De outra parte, não há reparos quanto ao regime fixado para o início do cumprimento da pena corporal, considerado o histórico criminal do réu, já mencionado acima  ..  os regimes mais brandos seriam claramente insuficientes para cumprir as exigências preventivas da pena, considerada a inegável propensão do réu à prática de delitos.
+Daí mostrar-se impossível a reinserção do réu no convívio social sem que, antes, ele permaneça enclausurado durante tempo maior, apenas merecendo a liberdade quando satisfizer os requisitos correspondentes demonstrar que assimilou a terapêutica penal.
+Cabe registrar que o legislador, ao criar o § 3º, do artigo 33, do Código Penal, reservou ao Juiz margem para, à luz do caso concreto, dosar a pena e fixar o regime prisional mais adequado para atendimento dos fins de reprovação e prevenção do crime.
+A despeito de não se tratar aqui de delito praticado com violência ou grave ameaça à pessoa, é forçoso convir que o regime fechado é o único compatível com a personalidade do sentenciado, já que a prática do crime aqui tratado mostra que não surtiram efeito as tentativas anteriores do Estado de amoldar o seu comportamento aos padrões normais de convivência social, demandando que a nova resposta estatal seja agravada  .. .
+Dessa forma, pela quantidade da pena aplicada, 2 anos e 14 dias de reclusão, mais multa, entendo que o regime semiaberto é o adequado para a hipótese, uma vez que não há fundamentação apta para justificar o regime prisional mais rigoroso.
+Isso porque, de acordo com a compreensão desta Corte, nos termos do art. 33, § 2º, b, e § 3º, do CP, a plica-se o regime semiaberto, haja vista a quantidade da pena imposta (2 anos e 14 dias de reclusão), e a circunstância judicial desfavorável - culpabilidade.
+À vista do exposto, não conheço do agravo regimental. Todavia, concedo, de ofício, habeas corpus para aplicar o regime prisional semiaberto.
+Comunique-se o teor da decisão, com urgência, às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
