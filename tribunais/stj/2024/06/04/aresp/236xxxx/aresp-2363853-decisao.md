@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado por Comércio de Produtos Alimentícios Costa Alto da Ponte Ltda. e Ivan Lobo Costa, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 108):
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PROCESSUAL CIVIL. ICMS. EXCLUSÃO PIS E COFINS. MANDADO DE SEGURANÇA. POSSIBILIDADE DE RESTITUIÇÃO DOS VALORES ADMINISTRATIVAMENTE. IMPOSSIBILIDADE DO RECONHECIMENTO DO PEDIDO. NÃO DEMONSTRADA A LEGITIMIDADE DO DESTINATÁRIO.
+1. No que atine à compensação/restituição autorizada, em que pese, com efeito, o mandado de segurança não se constituir na via adequada para a repetição de indébito, o C. STJ já assentou a possibilidade do reconhecimento à compensação/restituição no âmbito administrativo, nos termos da Súmula 213, verbis: "O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária."
+2. Nesse exato sentido, esta C. Turma julgadora, na AC 5003121-69.2018.4.03.6120, Relatora Desembargadora Federal MÔNICA NOBRE, j. 10/07/2019, intimação via sistema na mesma data.
+3. Assim, em tese, as impetrantes têm direito à compensação/restituição- nesse andar o C. Superior Tribunal de Justiça, no REsp 1.642.350/SP, Relator Ministro HERMAN BENJAMIN, Segunda Turma, j. 16/03/2017, DJe 24/04/2017.
+4. No entanto, no caso dos autos, como bem apontado pelo magistrado singular a restituição almejada foi feita no nome do sócio da empresa e não da real beneficiária do crédito, sem a devida juntada de documentação que legitime a transferência dos valores.
+5. Dessa forma, em que pese o pedido quanto à restituição seja possível, o certo que o pleito das recorrentes encontra-se óbice quanto ao destinatário dos valores, razão pela qual entendo que correta a decisão agravada.
+6. Agravo de instrumento a que se nega provimento.
+Opostos embargos declaratórios, foram acolhidos "parcialmente tão somente para aclarar a alegação quanto ao enriquecimento ilícito da União Federal, sem modificação do resultado" (fl. 182).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 489, § 1º, IV, VI, e 1.022, II, do CPC; 165 do CTN; 73 e 74 da Lei nº 9.430/96 e à Súmula 461/STJ. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca das questões neles suscitadas; (II) "havendo encerramento das atividades, terão legitimidade para pleitear a restituição os sócios que detêm o direito ao crédito" (fl. 220); e (III) o contribuinte possui "o direito à restituição administrativa também do indébito reconhecido por decisão judicial" (fl. 222).
+Às fls. 311/313, proferi decisão determinando o retorno dos autos à Corte Regional para que lá fosse realizado juízo de adequação ao Tema 1.262/STF.
+Foi então que a Vice Presidência do Tribunal determinou a restituição dos autos ao STJ, por entender que o tema objeto da repercussão geral é diferente da hipótese dos autos (fls. 323/325).
+Vieram os autos conclusos.
+É O RE LATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Adiante, a respeito da legitimidade do sócio, o Tribunal Regional assim se manifestou (fl. 118):
+Ocorre que, no caso dos autos, como bem apontado pelo magistrado singular e asseverado pela União Federal, em sua contraminuta, a restituição almejada tem como destinatário o sócio da empresa e não a real beneficiária do crédito, sem que tenham sido colacionados documentos que legitimem a concessão dos valores.
+Dessa forma, em que pese o pedido quanto à restituição seja possível, o certo que o pleito das recorrentes encontra-se óbice quanto ao destinatário dos valores, razão pela qual entendo que correta a decisão agravada.
+Assim, a alteração das premissas adotadas pela Corte de origem quanto ao real beneficiário do crédito no caso concreto, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, inviável o pleito de restituição pela via mandamental, considerando o que decidido pelo STF no Tema 1.262/STF: "Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal. "
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se .
+EMENTA
