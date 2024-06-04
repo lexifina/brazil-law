@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de EDSON CARDOSO DE SOUSA, impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, prolatado no julgamento do HC n. 0006472-04.2024.8.27.2700.
+Consta que o paciente foi preso em flagrante no dia 04/02/2024, com posterior conversão da custódia em preventiva (fls. 90-92), em razão da suposta prática do ilícito tipificado no art. 121, § 2º, inc. I e IV, c/c art. 14, inc. II, ambos do Código Penal, pelo qual foi denunciado (fls. 97-102), pois, em tese, esfaqueou por 03 (três) vezes a vítima, por conta de um desentendimento prévio ocorrido cerca de 60 (sessenta) dias antes desse delito, episódio no qual teria sido agredido pelo ofendido.
+A Defesa formulou pedido de revogação da prisão preventiva, que foi indeferido pelo Magistrado de primeiro grau às fls. 66-68.
+Inconformada, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 16-20.
+Neste writ, a parte impetrante sustenta, em suma, que é o caso de concessão do benefício da prisão domiciliar, pois o paciente apresenta estado de saúde debilitado, necessitando de cuidados especiais, que não podem ser prestados em estabelecimento prisional.
+Requer, em liminar e no mérito, a substituição da prisão preventiva em estabelecimento prisional por domiciliar e, subsidiariamente, por medidas cautelares alternativas.
+É o relatório.
+DECIDO.
+De início, destaco que
+ a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe 30/10/2023).
+Passo, portanto, a analisar diretamente o mérito do writ.
+Quanto ao pedido de substituição da prisão preventiva em estabelecimento carcerário pela custódia domiciliar, observo que a Corte de origem registrou que (fl. 19; grifamos):
+ ..  a impetrante deixou de comprovar a impossibilidade de assistência quanto à enfermidade que acomete aquele. Embora tenha juntado nos autos n. 0000198-40.2024.827.2727 documentos nos quais apontam a indicação de procedimento cirúrgico para correção laparatomia exploradora de hérnia abdominal realizada no ano de 2022, não se demonstrou a impossibilidade de que, até que se autorize os procedimentos dos quais necessita, receba atendimento no estabelecimento prisional.
+O Tribunal a quo consignou, ainda, que o Magistrado de primeiro grau indeferiu o pedido de prisão domiciliar para tratamento de saúde com base nessa fundamentação (fl. 19; grifamos):
+ ..  não restou demonstrada a situação de saúde extremamente debilitada, que pudesse justificar a concessão do benefício requestado. Outrossim, não há provas nos autos da impossibilidade de obtenção do tratamento no estabelecimento prisional em que o requerente se encontra, além da ausência de indícios de falta de atendimento especializado para o seu tratamento ou de risco à sua saúde. Logo, in casu, entendo não ser cabível a substituição da prisão preventiva por domiciliar, haja vista que EDSON não se desincumbiu do seu ônus de comprovar o preenchimento dos requisitos do CPP, artigo 318, inciso II para o acolhimento do aludido pleito.
+Nesse cenário delineado pela Corte a quo, a Defesa não se desincumbiu de evidenciar que o paciente faria jus à concessão do benefício da prisão domiciliar.
+Para desconstituir tal premissa, imprescindível seria o revolvimento fático-probatório dos autos, providência inviável de se realizar no estreito e célere rito do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE HOMICÍDIO QUALIFICADO TENTADO E RESISTÊNCIA. PRISÃO PREVENTIVA. LEGALIDADE RECONHECIDA NO HC N. 784.060/TO. ESTADO DE SAÚDE DO PACIENTE. NÃO COMPROVAÇÃO DA EXTREMA DEBILIDADE POR MOTIVO DE DOENÇA GRAVE, TAMPOUCO A IMPOSSIBILIDADE DO RECEBIMENTO DE TRATAMENTO MÉDICO NO ESTABELECIMENTO PRISIONAL. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. A legalidade da prisão preventiva já foi reconhecida pela Sexta Turma do Superior Tribunal de Justiça no julgamento do AgRg no HC n. 784.060/TO, relatora Ministra LAURITA VAZ, julgado em 08/05/2023, DJe de 17/03/2023, não cabendo nova análise da questão sob pena de violação à coisa julgada.
+2. A negativa de concessão de prisão domiciliar está amparada no entendimento desta Corte Superior, no sentido de que, à luz do disposto no art. 318, inciso II, do Código de Processo Penal, o Acusado deve comprovar que se encontra extremamente debilitado por motivo de grave estado de saúde e a impossibilidade de receber tratamento no estabelecimento prisional, o que não ocorreu no caso. Ao revés, tais alegações foram expressamente rechaçadas pelo Juízo de primeiro grau, o que impede a concessão da ordem, sendo vedado o reexame de matéria fática.
+3. Agravo regimental desprovido. (AgRg no HC n. 831.642/TO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023; grifamos).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
