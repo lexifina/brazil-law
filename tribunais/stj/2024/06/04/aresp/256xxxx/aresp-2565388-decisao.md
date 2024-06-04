@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ADAMAS EMPREENDIMENTOS LTDA, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. PROGRAMA DE RETOMADA DO SETOR DE EVENTOS. PERSE. L 14.148/2021. ALÍQUOTA ZERO. IRPJ, CSLL, PIS E COFINS. EXIGÊNCIA DE INSCRIÇÃO NO CADASTUR. PORTARIAS DO MINISTÉRIO DO TURISMO. RESTAURANTES, CAFETERIAS, BARES E SIMILARES.
+As turmas de matéria tributária deste Tribunal Regional Federal da Quarta Região mantêm jurisprudência indicando que os restaurantes, cafeterias, bares e similares que não constavam no CADASTUR como prestadores de serviços turísticos ao tempo da publicação da L 14.148/2021 não podem se enquadrar no PERSE para beneficiar-se da redução das alíquotas do IRPJ, CSLL, PIS-PASEP e COFINS prevista na L 14.148/2021.
+Os embargos de declaração opostos foram rejeitados.
+A parte recorrente aponta violação aos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC; arts. 2º, §§ 1º e 2º, da Lei 11.148/2021; arts. 21 e 22 da Lei 11.711/2008; arts. 7º, 9º, I, 97, II, e 99 do CTN.
+Sustenta, de início, que "o acórdão incorreu em omissão ao desconsiderar as atividades elencadas no cadastro da empresa recorrente que demonstram que ela realizava atividades vinculadas a eventos desde antes da publicação da Lei, justificando a possibilidade de adesão ao Programa" (fl. 407).
+Assevera, de outra parte, em síntese, que, "analisando o conteúdo do disposto na Lei nº 14.148/2021 verifica-se que não há, em nenhum momento, a indicação de que o cadastro no Cadastur seria um fator importante para fins de gozo dos benefícios da legislação de regência, sendo uma inovação trazida apenas pela Portaria" (fl. 411), de modo que "a Portaria ME nº 7.163/2021, ao permitir o enquadramento no PERSE apenas das empresas inscritas no Cadastur à época da vigência da Lei nº 14.148/2021, impôs requisito normativo que extrapolou a autorização legal" (fl. 412).
+Nessa linha, conclui que, "interpretando a redação dos artigos 2º e 4º da Lei nº 14.148/2021 juntamente com a listagem dos códigos CNAE dos anexos da Portaria ME nº 7.163/2021, a partir de 18 de março de 2022, a recorrente pode usufruir, pelo período de 60 (sessenta) meses, da redução das alíquotas a 0% (zero por cento) do IRPJ, da CSLL, do PIS e da COFINS" (fl. 414). Defende ainda que "preenche os requisitos para ser incluída no PERSE mesmo que não possua o cadastro prévio no Cadastur" (fl. 414).
+Contrarrazões apresentadas.
+O recurso foi admitido pelo Tribunal de origem, o que ensejou a interposição deste agravo em recurso especial.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+A irresignação não ultrapassa a admissibilidade.
+Inicialmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, motivo pelo qual não há como considerar a existência de omissão quanto aos pontos suscitados nos embargos de declaração pela ora agravante.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, e § único, do CPC/2015.
+No mais, embora a parte recorrente alegue violação de normas infraconstitucionais, o exame do recurso demanda a interpretação de norma que não se enquadra no conceito de lei federal (Portaria ME n. 7.163/2021).
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PODER DE POLÍCIA. POSSIBILIDADE DE DELEGAÇÃO. CONTROVÉRSIA QUE EXIGE ANÁLISE DA PORTARIA N. 213/2007 DO INMETRO. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. IMPOSSIBILIDADE. EXISTÊNCIA DE DELEGAÇÃO DA ATIVIDADE DE POLÍCIA. SÚMULA 7/STJ.
+1. A conclusão do acórdão de origem está fundamentada, essencialmente, no conteúdo disposto na Portaria n. 213/2007 do Inmetro. Dessa forma, o exame do especial requer a interpretação da referida portaria, o que é inviável na via eleita, tendo em vista que esse ato normativo não se enquadra no conceito de tratado ou lei federal de que cuida o art. 105, III, "a", da CF/1988.
+2. Para afastar o entendimento a que chegou a instância ordinária, de modo a albergar as peculiaridades do caso e verificar a pretensão recursal a fim de considerar a inexistência de delegação de atividade inerente ao poder de polícia, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos. A providência mostra-se inviável em recurso especial, conforme entendimento assentado na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento (AgInt no REsp n. 1.419.566/CE, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/9/2020, DJe de 29/9/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. INSTITUIÇÃO DE ENSINO SUPERIOR. EXPEDIÇÃO DE DOCUMENTOS CONCERNENTES À VIDA ACADÊMICA DO ALUNO. COBRANÇA. ALEGAÇÃO DE OFENSA AOS ARTS. 1º, § 5º, DA LEI N. 9.870/99, 39, V, E 51, IV, DO CDC. NECESSIDADE DE INTERPRETAR ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE TRATADO OU LEI FEDERAL.
+1. Em que pese ter a parte recorrente alegado ofensa aos arts. 1º, § 5º, da Lei n. 9.870/99; 39, V, e 51, IV, do CDC, verifica-se que o exame da controvérsia, tal como enfrentada pela Corte de origem, demanda a interpretação da Portaria Normativa n. 40/2007 do MEC e do Parecer CNE/CES n. 164/2009, atos normativos estes que não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. Agravo interno desprovido (AgInt no REsp n. 1.490.498/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/8/2018, DJe de 23/8/2018).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
