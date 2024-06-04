@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, em juízo de retratação, dar provimento ao recurso, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS SUCUMBEBCIAIS. DEFENSORIA PÚBLICA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA 1002/STF. JUÍZO DE RETRATAÇÃO NOS TERMOS DO ART. 1.040, II, DO CPC. CABIMENTO.
+1. Na hipótese dos autos, conquanto a conclusão do acórdão recorrido esteja fundamentada em precendente do STJ, nota-se que o Supremo Tribunal Federal, ao apreciar o RE 1.140.005-RG/RJ, submetido ao regime da repercussão geral, firmou as seguintes teses (Tema 1002/STF): "1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; 2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição".
+2. Ao apreciar os Embargos de Declaração, o Plenário do STF modulou os efeitos do acórdão, explicitando que a tese firmada não deve alcançar decisões transitadas em julgado, nem processos em curso nos quais a matéria referente aos honorários advocatícios sucumbenciais esteja preclusa.
+3. Todavia, no caso em tela, não se verificam as circunstâncias que permitiriam a modulação dos efeitos da tese vinculante estabelecida pelo STF, de modo que a solução adotada pelo STJ, no caso concreto, não está em conformidade com o entendimento fixado no Tema 1.002 do STF.
+4. Portanto, há exercer juízo de retratação nos termos do art. 1.040, II, do CPC/2015, para reposicionar o acórdão anteriormente promulgado, em observância ao decidido pelo STF no Tema 1002.
+5. Recurso Especial provido, em juízo de retratação.
+RELATÓRIO
+Cuida-se de de Recurso Extraordinário interposto com fundamento no art. 102, III, "a", da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado:
+PROCESSUAL, CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO. LEGITIMIDADE PASSIVA DA UNIÃO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS E LEITO EM UTI. ANÁLISE SEGUNDO OS PARÂMETROS DEFINIDOS PELO STF.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara sobre a responsabilidade solidária dos entes federados.
+2. Extrai-se do acórdão vergastado que o entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça de que o funcionamento do Sistema Único de Saúde (SUS) é de responsabilidade solidária dos entes federados, de forma que qualquer deles tem legitimidade para figurar no polo passivo de demanda que objetive o acesso a meios e medicamentos para tratamento de saúde.
+3. Outrossim, nota-se que foi debatida matéria com fundamento eminentemente constitucional, envolvendo especialmente a garantia constitucional de direito à saúde, sendo a sua apreciação de competência exclusiva do Supremo Tribunal Federal, conforme abstrai-se dos arts. 102 e 105 da CF.
+4. No que se refere aos honorários, a Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.108.013/RJ (Rel. Ministra Eliana Calmon, DJe de 22/6/2009) e do REsp 1.199.715/RJ (Rel. Ministro Arnaldo Esteves Lima, DJe de 12/4/2011), ambos sob o rito do art. 543-C do CPC/1973, firmou o entendimento de não serem devidos honorários advocatícios à Defensoria Pública, quando ela atua contra pessoa jurídica de direito público à qual pertença ou que integre a mesma Fazenda Pública.
+5. Recurso Especial parcialmente conhecido e, nessa parte, provido.
+A parte recorrente sustenta, em suma:
+(..)
+Finalmente, de se considerar que no Recurso Extraordinário 1.140.005 o Supremo Tribunal Federal já reconheceu a existência de repercussão geral sobre a questão do cabimento da condenação da União, suas autarquias e fundações em honorários sucumbenciais em favor da Defensoria Pública da União, reconhecimento esse que se estende ao presente caso.
+(..)
+Fica claro, pois, que o próprio Supremo Tribunal Federal, por acórdão unânime prolatado por seu órgão pleno, e modificando o entendimento até então adotado (até então no mesmo sentido da jurisprudência do STJ), reconheceu que com as alterações promovidas no art. 134, §§ 2º e 3º da CF houve modificação do status constitucional da Defensoria Pública da União e, a partir de tal conclusão, passou a entender viável a condenação em honorários em favor da DPU quando sucumbente a União e, consequentemente, de seus órgãos, autarquias, empresas públicas e fundações.
+Logo, e embora atraente a tese da confusão, temos que o raciocínio engendrado por detrás de tal tese, que se fundava na ausência de personalidade jurídica e orçamento próprios pela DPU, somente se mostrava válido e, pois, não importava em inconstitucionalidade, enquanto a Defensoria Pública da União era um simples órgão da União, enquadramento que perdurou somente até a edição da EC 80/2014.
+(..)
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS SUCUMBEBCIAIS. DEFENSORIA PÚBLICA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA 1002/STF. JUÍZO DE RETRATAÇÃO NOS TERMOS DO ART. 1.040, II, DO CPC. CABIMENTO.
+1. Na hipótese dos autos, conquanto a conclusão do acórdão recorrido esteja fundamentada em precendente do STJ, nota-se que o Supremo Tribunal Federal, ao apreciar o RE 1.140.005-RG/RJ, submetido ao regime da repercussão geral, firmou as seguintes teses (Tema 1002/STF): "1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; 2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição".
+2. Ao apreciar os Embargos de Declaração, o Plenário do STF modulou os efeitos do acórdão, explicitando que a tese firmada não deve alcançar decisões transitadas em julgado, nem processos em curso nos quais a matéria referente aos honorários advocatícios sucumbenciais esteja preclusa.
+3. Todavia, no caso em tela, não se verificam as circunstâncias que permitiriam a modulação dos efeitos da tese vinculante estabelecida pelo STF, de modo que a solução adotada pelo STJ, no caso concreto, não está em conformidade com o entendimento fixado no Tema 1.002 do STF.
+4. Portanto, há exercer juízo de retratação nos termos do art. 1.040, II, do CPC/2015, para reposicionar o acórdão anteriormente promulgado, em observância ao decidido pelo STF no Tema 1002.
+5. Recurso Especial provido, em juízo de retratação.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Os autos foram recebidos neste Gabinete em 23.11.2024.
+Na hipótese dos autos, conquanto a conclusão do acórdão recorrido esteja fundamentada em precendente do STJ, nota-se que o Supremo Tribunal Federal, ao apreciar o RE 1.140.005-RG/RJ, submetido ao regime da repercussão geral, firmou estas teses (Tema 1002/STF):
+1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra;
+2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição.
+Ao apreciar os Embargos de Declaração, o Plenário do STF modulou os efeitos do acórdão, explicitando que a tese firmada não deve alcançar decisões transitadas em julgado, nem processos em curso nos quais a matéria referente aos honorários advocatícios sucumbenciais esteja preclusa (destaques acrescidos).
+Todavia, no caso em tela, não se verificam as circunstâncias que permitiriam a modulação dos efeitos da tese vinculante estabelecida pelo Supremo Tribunal Federal, de modo que a solução adotada por esta Corte Superior no caso concreto aparenta, prima facie, contrariar o entendimento fixado no Tema n. 1.002 do STF.
+Portanto, há que exercer o juízo de retratação nos termos do art. 1.040, II, do CPC/2015, para reposicionar o acórdão anteriormente promulgado, em observância ao decidido pelo Supremo Tribunal Federal no Tema 1002.
+Por tudo isso, nos termos do art. 1.040, II, do Código de Processo Civil, em juízo de retratação, no que se refere aos honorários sucumbenciais, o R ecurso merece provimento.
+É como voto.
