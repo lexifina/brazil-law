@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de José Monteiro Azevedo, condenado por latrocínio tentado a 14 anos e 8 meses de reclusão, e a 53 dias-multa - atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça da Paraíba (fls. 257/272) -, não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da pena fixada - na condenação proferida na Ação Penal n. 0802491-25.2021.8.15.0031 (fls. 192/199 - da Vara Única de Alagoa Grande/PB) -, com:
+a) afastamento da negativação do vetor consequências do crime, na primeira fase dosimétrica, ao argumento de que estas não deveriam ser consideradas graves, como foi colocado pelo magistrado, já que são inerentes do próprio tipo penal do latrocínio tentado (fl. 6); e
+b) fixação de fração pela tentativa no máximo legal, 2/3, assentando que o magistrado fundamentou de forma genérica a aplicação de apenas 1/3 na diminuição (fl. 8).
+Do atento exame dos autos, observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 17/10/2023 (fl. 372), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois as alegações mandamentais nem sequer foram analisadas pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância. Outrossim, ainda que assim não fosse, também não lhe assistiria razão, pois:
+a) a negativação do vetor consequências do crime foi fundamentada, na sentença condenatória, pelo considerável prejuízo econômico e reflexos da ação na saúde da vítima - já que da vítima foi subtraído o valor de R$ 22.000,00, um aparelho celular e uma TV, causando-lhe prejuízo considerável, bem como a vítima ficou afastado de suas funções laborais por 60 dias (fl. 197) - em consonância com o entendimento desta Corte Superior (AgRg no AREsp n. 1.804.218/MS, Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 3/8/2021, DJe 9/8/2021); e
+b) o acolhimento da pretensão de alteração da fração fixada em relação à tentativa demandaria reexame probatório, inviável na via eleita (REsp n. 1.945.740/PR, de minha relatoria, Sexta Turma, julgado em 3/10/2023, DJe 6/10/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. LATROCÍNIO TENTADO. DOSIMETRIA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. PENA-BASE. CONSEQUÊNCIAS. PREJUÍZO EXPRESSIVO E AFASTAMENTO DE ATIVIDADES LABORAIS. FUNDAMENTAÇÃO VÁLIDA. PRETENSÃO DE ALTERAÇÃO DA FRAÇÃO DE REDUÇÃO DE PENA DA TENTATIVA DELITIVA. NECESSIDADE DE REEXAME PROBATÓRIO. INVIABILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente .
