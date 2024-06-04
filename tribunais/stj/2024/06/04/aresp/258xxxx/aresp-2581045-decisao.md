@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MANOEL FERNANDES BITENCOURT contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/11/2023.
+Concluso ao gabinete em: 28/5/2024.
+Ação: Cumprimento de sentença, no âmbito da ação de complementação de ações, ajuizado pelo agravante em face de Oi S/A.
+Decisão interlocutória: indeferiu o pedido do agravante para determinar que a empresa agravada juntasse o contrato de participação financeira, para a realização do cálculo da dívida.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, conforme ementa a seguir (fl. 150):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE JUNTADA DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA ENTABULADO ENTRE AS PARTES. RECURSO DA PARTE AUTORA. PLEITO DE CASSAÇÃO DA DECISÃO QUE PARA DETERMINAR A JUNTADA. ALEGAÇÃO DE QUE A PRESENÇA DA RADIOGRAFIA NÃO ESPELHA TODOS OS DADOS DO PACTO. DESPROVIMENTO DO RECURSO. RADIOGRAFIA QUE, DIANTE DAS ESPECIFICIDADES DO CASO CONCRETO, DEMONSTRA QUE A CONTRATAÇÃO OCORREU NA MODALIDADE PLANTA COMUNITÁRIA: PCT. CATEGORIA CONTRATUAL QUE SE DISTINGUE PELA NÃO CORRESPONDÊNCIA DO VALOR INTEGRALIZADO AO NÚMERO DE AÇÕES DEVIDAS. VALOR MÁXIMO AFERÍVEL CONFORME A LIMITAÇÃO ESTABELECIDA EM PORTARIA EXPEDIDA PELO MINISTÉRIO DA INFRA-ESTRUTURA, CORRESPONDENTE AO PERÍODO DA AQUISIÇÃO DO TERMINAL TELEFÔNICO. PRECEDENTES DESTA CORTE.
+"Todavia, os contratos de participação financeira firmados na modalidade Planta Comunitária de Telefonia - PCT, não eram celebrados diretamente com a empresa de telefonia, mas com empresa intermediária. .. A quantia investida pelo consumidor a título de participação financeira não era integralmente revertida em ações, porquanto as Portarias que regulamentavam a implantação do PCT previam limitações à remuneração da concessionária de telefonia. .. Portanto, tendo em vista que nem todo valor investido pelo consumidor era transformado em ações, mas apenas o valor máximo estabelecido pelas Portarias, na hipótese, dispensável a apresentação do contrato" (Agravo de Instrumento n. 4026143-85.2018.8.24.0000, de Brusque, rel. Des. Cláudio Barreto Dutra, Quinta Câmara de Direito Comercial, j. 21-3-2019).
+RECURSO CONHECIDO E DESPROVIDO.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 502; 507; 509, § 4º, e 1.022, todos do CPC. Além de negativa de prestação jurisdicional, sustenta que, "no caso específico dos autos, houve a preclusão da matéria quanto ao valor do contrato, não se podendo admitir que, em julgamento singular pelo Magistrado seja adotado parâmetro diverso dos já estabelecidos por decisão imutável e, muito menos, pode-se admitir que o e. Tribunal de Justiça de Santa Catarina simplesmente negue provimento ao agravo recursal do Recorrente com simples fundamentação exposta quanto a modalidade do contrato, para fins de valor do contrato nos cálculos indenizatórios" (fl. 304).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do TJ/SC residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente, especialmente, no que concerne à violação à coisa julgada.
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelo agravante, foi omisso quanto aos referidos argumentos. Verifica-se que as questões foram objeto de devida insurgência tanto nas razões da apelação, quanto nas razões dos embargos declaratórios interpostos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto elencado.
+Por conseguinte, tenho por prejudicada a análise das demais matérias insertas no recurso especial.
+Forte nessas razões, CONHEÇO o agravo, para CONHECER PARCIALMENTE o RECURSO ESPECIAL, e nessa extensão, DAR-LHE PROVIMENTO, com fundamento no art. 932, III e V, a , do CPC/2015, bem como na Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração interpostos pela recorrente; e b) determinar a remessa dos autos ao TJ/SC, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos elencados nos embargos de declaração opostos ao acórdão recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Ação de complementação de ações.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questões pertinentes para a resolução da lide.
+3. Agravo conhecido. Recurso especial conhecido e provido.
