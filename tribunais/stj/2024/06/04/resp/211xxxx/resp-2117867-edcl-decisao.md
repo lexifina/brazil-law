@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JAIME ANTONIO DONATO, MARIA HELENA BALICO, SALETE BALICO DONATTO, SALÍ MARIA KUHN, SÉRGIO BALIC e SUELÍ TEREZINHA BALLICO contra decisão e m que se conheceu do agravo para, com base na Súmula 83 do STJ e na ausência de vício de integração, conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Os embargantes apontam a existência de vício de integração na decisão monocrática ao arguir erro material ao se afirmar que o acórdão recorrido teria reconhecido a existência de citação do sócio redirecionado antes da transmissão do bem.
+Com efeito, defende que "o Acordão proferido pelo tribunal a quo não apontou que a citação da sócia redirecionada tenha ocorrido antes da transferência de propriedade do bem" (e-STJ fl. 358)
+Aduz que essa informação não consta do acórdão.
+Impugnado o recurso integrativo pelo ESTADO.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+Contrariamente ao afirmado nas razões dos embargos de declaração, o acórdão recorrido, integrado pelo julgamento dos embargos de declaração na origem, reitera a existência de comparecimento do executado redirecionado nos autos que supre a citação da sócia antes da transmissão da parcela do bem a terceiros.
+Com efeito, ficou consignado pelo TJRS que "não há omissão em relação à ciência inequívoca da executada, capaz de suprir a citação, uma vez que essa questão nem sequer foi objeto dos Embargos de Terceiro. Sobre esse ponto, ressalto que bastaria à parte embargante a simples leitura da Execução Fiscal de n.010/1.05.0082837-0 (que se encontra digitalizada no eproc de 1º Grau por meio do processo n.5020087-02.2020.8.21.0010) para verificar que a executada, Santina Frásio Balico da Rosa, tinha ciência do executivo fiscal em desfavor da sua empresa, Fiabra Fitas e Abrasivos Ltda., tanto é assim que assinou a procuração, datada de 22/10/2014, que se encontra na fl. 126 do executivo fiscal", considerando que o redirecionamento da execução teria se dado em 2012 (e-STJ fl. 178).
+Poderia se questionar, no âmbito meritório, a conclusão adotada na Corte estadual: que o conhecimento prévio do sócio redirecionado quanto à execução decorrente de seu comparecimento nos autos em resposta à intimação da pessoa jurídica originalmente executada é motivo suficiente para o Tribunal a quo decidir que houve a citação válida do antigo proprietário do bem ("ciência inequívoca da executada, capaz de suprir a citação") após o redirecionamento e antes da sua alienação a terceiros. Entretanto, não se pode afirmar que houve erro de fato da decisão monocrática quanto à afirmação formulada no acórdão recorrido.
+Constata-se, assim, que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
