@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VISION MED ASSISTÊNCIA MÉDICA LTDA. contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER DESPESAS MÉDICO-HOSPITALARES.
+OBRIGAÇÃO DE REEMBOLSO/PAGAMENTO LIMITADA AOS VALORES PRATICADOS NA REDE CREDENCIADA.
+ADMISSIBILIDADE. EXISTÊNCIA DE HOSPITAL CREDENCIADO NA ÁREA DE ABRANGÊNCIA.
+RECURSO PROVIDO EM PARTE.
+O pagamento de despesas efetuadas com assistência à saúde, em casos de urgência ou emergência, em estabelecimento não credenciado pela Operadora, deve ser feito nos limites das obrigações contratuais, quando for possível a utilização de médicos e serviços na rede credenciada. Inteligência do art. 12, inciso VI, da Lei nº 9.656/98." (fl. 356)
+Os embargos de declaração opostos foram rejeitados (fls. 423/426).
+Em suas razões recursais, a parte recorrente alega, ofensa aos arts. art. 12, VI, da Lei n. 9.656/98; 884 do Código Civil, 373, 489 e 1.022 do Código de Processo Civil e divergência jurisprudencial, sustentando, em síntese, que:
+(a) que o eg. TJ-SP não sanou os vícios suscitados nos embargos de declaração, essenciais ao julgamento da lide;
+(b) "não seja a recorrente compelida a arcar com as despesas médico hospitalares que não se obrigou" (fl. 382); e
+(c) "o V. acórdão recorrido incorreu em violação ao artigo 85, §2º, pois no presente caso, deveria ter sido considerado o valor da condenação como base para a fixação dos honorários advocatícios" (fl. 387).
+Contrarrazões apresentadas às fls. 392/403.
+É o relatório. Decido.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015.
+Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Nos termos da jurisprudência pacífica desta Corte, não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese defendida pela parte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.064.835/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. FINANCIAMENTO IMOBILIÁRIO. CONTRATO. AÇÃO REVISIONAL. JUROS E SISTEMA DE AMORTIZAÇÃO. AUSÊNCIA DE ABUSIVIDADE. REEXAME DAS QUESTÕES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. RAZÕES RECURSAIS INSUFICIENTES. 3. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca da ausência de abusividade das cláusulas contratuais) demanda reexame de matéria fático-probatória e de cláusulas contratuais, o que é inviável devido ao óbice das Súmulas 5 e 7/STJ, não sendo também o caso de revaloração das provas.
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.988.277/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)
+No que diz respeito ao reembolso das despesa médicas, o Tribunal de origem manifestou-se nos seguintes termos:
+"Diante do diagnóstico, o médico da apelada indicou tratamento quimioterápico (medicamento Xeloda) e de Radioterapia, por meio da técnica IMRT (Radioterapia com Intensidade Modulada), com urgência, a fim de evitar a utilização de bolsa de colostomia. Após os procedimentos, a apelada deveria se submeter à intervenção cirúrgica (retosigmoidectomia abdominal  ileostomia de proteção) para a retirada do tumor (págs. 35/38) (..) Porém, quanto às despesas efetuadas no Hospital AC Camargo, em razão da situação urgência/emergência, nos termos da legislação vigente, o reembolso/pagamento deve respeitar os limites do que seria desembolsado para atendimento da apelada na rede credenciada, cujos valores deverão ser apurados em liquidação de sentença, com exclusão dos honorários médicos, como constou explicitamente da petição inicial, in verbis: "(..) o pleito autoral se limita apenas aos gastos com a internação hospitalar, visto que os honorários médicos serão suportados pela própria Autora em caráter particular" (item 30 - pág. 06). (..) Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso para:(a)determinar que o valor do pagamento das despesas hospitalares realizadas no Hospital AC
+Camargo seja limitado à quantia prevista para atendimento pela rede credenciada, a ser apurada em liquidação de sentença;(b)afastar o reembolso dos honorários médicos." (fls. 360/362)
+A jurisprudência desta Corte Superior manifesta-se no sentido de que, nos casos em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a operadora de assistência à saúde deve responsabilizar-se pelo custeio das despesas médicas realizadas pelo segurado, mediante reembolso.
+O reembolso, porém, é limitado aos preços de tabela efetivamente contratados com a operadora de saúde, à luz do art. 12, VI, da Lei 9.656/98, sendo, portanto, lícita a cláusula contratual que prevê tal restrição, que conta com expressa previsão legal.
+A propósito:
+"DIREITO CIVIL E DO CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES REALIZADAS FORA DA REDE CREDENCIADA. POSSIBILIDADE RESTRITA A SITUAÇÕES EXCEPCIONAIS. ART. 12, VI, DA LEI 9.656/98. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. REEMBOLSO DE DESPESAS. PREVISÃO CONTRATUAL. LIMITAÇÃO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A jurisprudência consolidada na Segunda Seção do Superior Tribunal de Justiça é no sentido de que "o reembolso das despesas médico-hospitalaes efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe de 17/12/2020).
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. O Tribunal de origem, à luz das circunstâncias fático-probatórias, concluiu pela urgência e emergência do caso afetado ao recorrido, que ocasionou a transferência por UTI aérea e o dever de reembolso. No caso, para desconstituir o entendimento exposto pelo Tribunal local e acolher a pretensão recursal, seria imprescindível o reexame de prova, inviável em sede de recurso especial, ante o disposto na Súmula 7 desta Corte.
+4. Nos casos em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a operadora de assistência à saúde deve responsabilizar-se pelo custeio das despesas médicas realizadas pelo segurado, mediante reembolso. O reembolso, porém, é limitado aos preços de tabela efetivamente contratados com a operadora de saúde, à luz do art. 12, VI, da Lei 9.656/98, sendo, portanto, lícita a cláusula contratual que prevê tal restrição, que conta com expressa previsão legal. Precedentes.
+5. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.443.035/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TRATAMENTO FORA DA REDE CREDENCIADA. REEMBOLSO. LIMITAÇÃO À TABELA CONTRATADA. AGRAVO INTERNO DESPROVIDO.
+1. Consoante entendimento desta Corte Superior, "nos casos excepcionais, como inexistência de estabelecimento credenciado no local, situação de urgência ou emergência, ou mesmo impossibilidade de utilização dos serviços próprios da operadora, é admitido o reembolso de despesas efetuadas com profissional de saúde não credenciado, limitado, no mínimo, aos preços de serviços médicos e hospitalares praticados pelo respectivo produto" (AgInt nos EDcl no AREsp 2.117.724/RJ, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.018.906/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.)
+No que tange à fixação dos honorários advocatícios, o Tribunal de origem manifestou-se nos seguintes termos:
+"Ante o exposto, reexaminado a questão posta à luz da orientação constante do Tema1076 do C. STJ, fixa-se a verba honorária sucumbencial em10% do reembolso a título de honorários médicos, acrescido da diferença entre o reembolso integral e aquele deferido nos limites do contrato, mantendo-se o PARCIALPROVIMENTO ao recurso da Operadora." (fl. 487)
+Nesse cenário, constata-se a ausência de interesse recursal quanto ao ponto recorrido, uma vez que o acórdão recorrido decidiu no mesmo sentido do pleiteado nas razões do recurso especial.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
