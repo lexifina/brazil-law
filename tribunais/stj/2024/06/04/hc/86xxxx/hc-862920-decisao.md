@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Ricardo de Araujo Albuquerque - condenado como incurso no crime de latrocínio tentado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1521992-21.2022.8.26.0050), não comporta acolhimento.
+Com efeito, busca a impetração a redução da pena-base na condenação imposta ao paciente pelo Juízo de Direito da 29ª Vara Criminal da comarca da Capital/SP, aos argumentos de que: a) a valoração negativa das condenações definitivas como maus antecedentes configura bis in idem; b) a alegação de ser possível o duplo aumento da pena em face da reincidência e dos maus antecedentes quando derivados de fatos diversos não merece guarida (fl. 5); c) o fato de o delito ter sido cometido no interior de um shopping center não é circunstância que desborda do tipo penal imputado; e d) o valor da res furtiva é elemento do tipo penal.
+Ocorre que é inviável a utilização da via eleita como forma de revisar condenação transitada em julgado, além de não ser admissível a subversão da finalidade do writ, que não se presta a fazer as vezes de segunda apelação.
+Ademais, não configurado o constrangimento ilegal alegado na inicial, pois além de parte das teses não encontrarem ressonância no âmbito deste Superior Tribunal (bis in idem em razão da valoração negativa das condenações anteriores como maus antecedentes e impossibilidade de utilizar mais de uma condenação para exasperar a pena-base e agravar pela reincidência), as demais circunstâncias foram devidamente fundamentadas pelo Magistrado singular, que logrou apontar que os acusados praticaram o crime em um dos maiores shoppings de São Paulo/SP e lograram subtrair bens de luxo avaliados em mais de R$ 300.000,00 (trezentos mil reais), os quais praticamente não foram recuperados.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. LATROCÍNIO TENTADO. PRETENSÃO DE REVISÃO DA DOSIMETRIA DA PENA. CONDENAÇÃO TRANSITADA EM JULGADO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
