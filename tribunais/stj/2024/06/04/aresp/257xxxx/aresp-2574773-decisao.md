@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 717):
+APELAÇÃO. Responsabilidade Civil. Erro médico. Sentença de procedência. Insurgência do nosocômio e da operadora de seguro saúde. Nexo de causalidade entre o atendimento médico prestado à autora e os danos sofridos(queimadura na face ocasionada por defeito em bisturi elétrico) devidamente comprovado. Danos morais e estéticos que devem ser indenizados. Redução, contudo, do quantum arbitrado a título de danos morais. Recursos aos quais se dá parcial provimento.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial (e-STJ, fls. 760-773), a recorrente alegou ofensa aos arts. 1.022, II, do CPC/2015; e 186, 884, 944 do CC.
+Sustentou, em síntese, negativa de prestação jurisdicional por omissão no acórdão recorrido quanto aos dispositivos tidos como violados; e que o valor fixado a título de danos morais seria muito alto, o que configuraria ofensa aos princípios da proporcionalidade e razoabilidade.
+Contrarrazões às fls. 778-791 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pela recorrente, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+(..)
+3. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+O Tribunal estadual, ao examinar a controvérsia, concluiu que a operadora do plano de saúde possui responsabilidade solidária, em razão dos danos morais e estéticos sofridos pela autora no hospital que integra a rede referenciada.
+Veja-se (e-STJ, fl. 719, sem grifo no original):
+É dos autos que a autora se submeteu a cirurgia em caráter de emergência para tratamento de apendicite, ocasião em que sofreu queimadura elétrica na face (fl. 112), deixando-lhe cicatriz inestética. Alega, assim, que em razão desta intercorrência,sofreu danos morais e estéticos.
+O acervo probatório, em especial o laudo pericial médico, revela que a autora efetivamente sofreu lesão em sua face, que teve como causa defeito no equipamento (bisturi elétrico) do nosocômio requerido (fl. 563).
+Do mesmo modo, se infere da prova documental carreada aos autos (fls. 88/99) e do laudo pericial (fl. 562) que embora o nosocômio tenha reconhecido a ocorrência do infortúnio e encaminhado a autora para consultas médicas com médicos especialistas (dermatologista e cirurgião plástico), não houve qualquer definição a respeito do tratamento a ser seguido, tampouco lhe foi assegurado que os custos com o tratamento da lesão seriam integralmente absorvidos pelo nosocômio, caindo por terra a alegação do requerido-apelante de que a autora teria "abandonado o tratamento".
+Assim, inequivocamente demonstrada a culpa do nosocômio requerido e o nexo causal entre esta conduta culposa e a sequela sofrida pela autora, resta apenas estabelecer as balizas de responsabilização das partes requeridas em relação aos fatos descritos na inicial e se perquirir a respeito da razoabilidade do quantum arbitrado.
+Ao contrário do defendido pela operadora de seguro saúde, esta responde objetivamente pelos danos sofridos pela segurada, de se ver que o nosocômio requerido integra a sua rede referenciada, selecionada de modo a atrair clientes e dar segurança à qualidade dos serviços prestados.
+Se assim é, a operadora assume o dever de fiscalizar constantemente a qualidade dos serviços referenciados e responde solidariamente pela prática culposa destes últimos.
+Destarte, o acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que "se o contrato é fundado na prestação de serviços médicos e hospitalares próprios e/ou credenciados, mantendo a operadora de plano de saúde hospitais e empregando médicos ou indicando um rol de conveniados, não há como afastar sua responsabilidade solidária pela má prestação do serviço" (RCD no AREsp n. 2.403.547/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. ERRO MÉDICO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. OPERADORA DO PLANO DE SAÚDE. CONFIGURAÇÃO. PRESSUPOSTOS. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. A operadora do plano de saúde possui responsabilidade solidária quando o defeito nos serviços prestados advém de rede credenciada ou própria de médicos e hospitais conveniados.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.451.234/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024, sem grifo no original.)
+Ademais, para derruir a convicção formada, seria indispensável o revolvimento do acervo fático-probatório, providência vedada na via eleita, ante a previsão contida no enunciado n. 7 da Súmula desta Corte de Uniformização.
+Por outro lado, é certo que a intervenção deste Superior Tribunal para alterar os valores estabelecidos pelas instâncias ordinárias a título de danos morais apenas se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DA INDENIZAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.447.870/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Na espécie, levando em consideração as circunstâncias do caso concreto - erro médico que ocasionou queimadura na face da autora por defeito em bisturi elétrico -, verifica-se que a quantia indenizatória, fixada em R$ 25.000,00 (vinte e cinco mil) por danos morais, não pode ser considerada exorbitante, importando a sua revisão, inevitavelmente, no revolvimento do conjunto fático-probatório dos autos, medida defesa em recurso especial, por incidir o verbete sumular n. 7/STJ.
+Confira-se o seguinte precedente, guardadas as particularidades do caso:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE. TEORIA DA CAUSALIDADE ADEQUADA. ERRO MÉDICO. CULPA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DANO MORAL. VALOR. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIMENTO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que houve erro médico, culpa do recorrente e nexo causal. Alterar esse entendimento demandaria o reexame do conjunto probatório do feito, o que é vedado em recurso especial.
+3. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Não se conhece do recurso pela alínea "c", diante da incidência da Súmula n. 7 do STJ, ficando prejudicada a divergência jurisprudencial.
+5. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+6. Segundo a jurisprudência desta Corte Superior, "a capacidade laboral parcial, que permite ao acidentado desempenhar profissões outras que não a que exercia no momento do acidente, não é considerada para fins de diminuição do valor da pensão" (REsp n. 786.217/RJ, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/8/2006, DJ 25/9/2006).
+7 . Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.846.158/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+Ante o exposto, conheço do agravo de SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESPONSABILIDADE CIVIL. ERRO MÉDICO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. RESPONSABILIDADE SOLIDÁRIA. ACÓRDÃO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULAS 7 E 83/STJ. 3. DANOS MORAIS. MONTANTE. EXORBITÂNCIA NÃO EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. AGRAVO CONHECIDO DE SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
