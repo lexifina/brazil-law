@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por JOSÉ FARINHA DA SILVA CARDOSO e OUTROS, em face de decisão monocrática de lavra da Presidência do STJ (fls. 662-664, e-STJ), que não conheceu do agravo em recurso especial, ante a ausência de impugnação específica dos fundamentos que embasaram a decisão agravada, nos termos da Súmula 182/STJ.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 564, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE RETIFICAÇÃO DE REGISTRO IMOBILIÁRIO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVA PERICIAL QUE DEMONSTRA IMPRECISÃO DE ÁREA NÃO DESPREZÍVEL COM PREJUÍZO A CONFRONTANTE. APLICAÇÃO DO ART. 2132 §602 DA LEI DE REGISTROS PÚBLICOS. INADEQUAÇÃO DA VIA PROCESSUAL ELEITA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. RECURSO PRINCIPAL NÃO PROVIDO POR FUNDAMENTO DIVERSO E RECURSO ADESIVO NÃO CONHECIDO, EM RAZÃO DA DESISTÊNCIA. Verificada divergência além de área intramuros, com acréscimo e prejuízo a confrontante, a mera retificação de registro é via inadequada para a solução da questão. Precedentes.
+Opostos embargos de declaração, os quais foram rejeitados (fls. 585/587, e-STJ).
+Nas razões do recurso especial (fls. 590-610, e-STJ), a parte insurgente alegou que o acórdão recorrido violou os seguintes artigos: 489, III e IV, do CPC combinado com o artigo 1022, I e II, § único, II, do CPC; 213, II e §6º, e 216 da Lei 6.015 de 1973 e 1.247 do CC.
+Sustentou, em síntese, flagrante erro na interpretação da prova pericial com afirmação diametralmente oposta ao que diz o laudo, sendo o caso de nulidade do acórdão recorrido. Afirmou, ainda, a existência de domínio, o qual está definido com divisas e confrontações, não havendo apropriação de área alheia com alteração de divisas que avançasse sobre terreno vizinho.
+Contrarrazões ao recurso especial às fls. 617-622, e-STJ.
+Em juízo prévio de admissibilidade (fls. 624-626, e-STJ), inadmitiu-se o reclamo constitucional por entender ausente omissão ou vício de fundamentação no acórdão recorrido, bem como por não ter sido demonstrada violação aos dispositivos legais tido como violados. Por fim, destacou óbice ao enunciado da Súmula 7 do Superior Tribunal de Justiça.
+Daí a interposição de agravo em recurso especial (fls. 629-647, e-STJ).
+Contraminuta às fls. 650-654, e-STJ.
+Em decisão monocrática (fls. 662-664, e-STJ), a presidência deste STJ negou conhecimento ao agravo em recurso especial em atenção ao princípio da dialeticidade recursal, porquanto a parte agravante deixou de impugnar especificamente a Súmula 7/STJ, o que atrai a incidência, por analogia, da Súmula 182 do STJ.
+No presente agravo interno (fls. 668-674, e-STJ), sustenta a parte recorrente, em síntese, que houve a impugnação de todos os fundamentos da decisão recorrida.
+Impugnação às fls. 679/683, e-STJ.
+É o relatório.
+O agravo interno merece acolhida, porquanto os argumentos tecidos pela parte agravante são capazes de infirmar a decisão objurgada, motivo pelo qual deve ser reformada.
+1. No caso dos autos, o Tribunal local negou seguimento ao recurso especial, dentre outros fundamentos, ante a incidência da Súmula 7 desta E. Corte.
+Em seu agravo em recurso especial, a parte insurgente refutou a incidência da Súmula 7 do STJ, indicando a impugnação específica a todas as razões constantes da decisão recorrida.
+Contudo, a Presidência desta Colenda Corte inadmitiu o agravo em recurso especial, porquanto a parte agravante teria deixado de impugnar especificamente o enunciado da Súmula 7 do STJ (fls. 662-664, e-STJ).
+Com efeito, tendo a parte insurgente apresentado elementos aptos a impugnar todos os fundamentos contidos na decisão recorrida, a decisão da Presidência do STJ deve ser reconsiderada neste juízo de retratação, a fim de afastar a incidência da Súmula 182 do STJ ao caso em apreço.
+Diante do ataque específico a todos os fundamentos da decisão recorrida, que obstou a ascensão do recurso especial ao Superior Tribunal de Justiça, conheço do agravo em recurso especial e passo à análise de suas razões.
+2. De início, a parte recorrente sustenta omissão e vício na fundamentação do acórdão impugnado, mediante a adoção de conclusão divergente com o resultado da prova pericial apresentada, que teria demonstrado a ausência de invasão ou decréscimo da área dos recorridos e o consequente acréscimo correspondente à sua área.
+Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, as razões dos recorrentes revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado da decisão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS
+REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado.
+(EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)
+Consoante asseverado na decisão anterior, verifica-se que a Corte de origem pautou sua conclusão com base na prova pericial arrolada nos autos, que teria demonstrado que a pretensão inaugural, na verdade, discorre sobre o acréscimo de área não desprezível, refletindo na área de propriedade dos recorridos. Não havendo, portanto, qualquer omissão ou vício de fundamentação a serem sanados.
+Neste ponto, reitera-se a decisão recorrida (fls. 566/567, e-STJ):
+Neste caso, pretendem os autores a retificação do registro imobiliário (Transcrição nº 17.343), com adequação da área à situação de fato.
+Todavia, no caso dos autos, a prova pericial demonstrou que os autores pretendem acrescer área não desprezível, o que evidencia que avançaram na área de propriedade dos réus (Transcrição no 17.346), sobretudo quando analisadas as respostas do Perito Judicial aos quesitos, a saber:
+"7) Pode-se dizer que a área que falta das transcrições (17.431) e (17.346), pertencente ao espólio de Vergílio Bocchi, é praticamente idêntica à pretendida pelo autor
+Resp: Aproximadamente, enquanto a área do autor apresenta uma área excedente; quando comparado ao que consta na transcrição 17.343 (46, 00 Alqueires); de aproximadamente 6,89 Alq. (Certificada no INCRA via SIGEF) o contestante apresentou uma retificação (matrícula 22.247 - posteriormente desmembrada em 22.248 e 22.249) com uma área menor aproximada de 6,11 Alq. quando comparado à soma das áreas descritas nas transcrições 17.341 e 17.346" (fls. 285/286).
+E o perito ainda complementou:
+"6) (..) Resp: A transcrição 17.343 (Lv - fls 112 de 3011211975) indica uma área de 46, 00 Alqueires e a área levantada "in loco " indica 52,89 Alq, tal diferença, considerando estas dimensões, não pode ser considerada desprezível" (fl. 339).
+Nessas condições, considerando o tamanho da área discutida, verifica-se que não se trata de mera omissão; erro na transposição; indicação ou atualização de confrontação; alteração ou inserção que resulte de mero cálculo matemático feito a partir das medidas perimetrais constantes do registro, como dispõe o artigo 213 da LRP, porquanto há indicio de invasão ao terreno dos réus e, por conseguinte, prejuizo, daí a impossibilidade de acolhimento do pedido inicial.
+Na verdade, os autores pretendem a aquisição de domínio de área remanescente, de tal forma que a via eleita é inadequada, o que faz incidir o disposto no art. 213, § 6º, da Lei no 6.015/73. (Grifou-se)
+Observa-se, portanto, que a parte recorrente pretende, em verdade, obter uma decisão favorável à sua tese. Dessa forma, não cabe alegação de violação dos artigos 489 e 1.022 do NCPC, quando a decisão recorrida está devidamente fundamentada, apenas não se adotando a tese pretendida.
+3. No caso, a Corte de origem extinguiu o processo sem resolução de mérito por inexistir adequação entre a situação por eles lamentada (retificação de erro na matrícula do imóvel) e o provimento jurisdicional concretamente solicitado (aquisição de propriedade sobre a área de outro imóvel).
+É o que se extrai de trecho do acórdão recorrido (fl. 567, e-STJ):
+Nessas condições, considerando o tamanho da área discutida, verifica-se que não se trata de mera omissão; erro na transposição; indicação ou atualização de confrontação; alteração ou inserção que resulte de mero cálculo matemático feito a partir das medidas perimetrais constantes do registro, como dispõe o artigo 213 da LRP, porquanto há indicio de invasão ao terreno dos réus e, por conseguinte, prejuizo, daí a impossibilidade de acolhimento do pedido inicial.
+Na verdade, os autores pretendem a aquisição de domínio de área remanescente, de tal forma que a via eleita é inadequada, o que faz incidir o disposto no art. 213, § 6º, da Lei no 6.015/73.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa às peculiaridades do caso concreto, envolvendo a área discutida - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. LAUDO COMPLEMENTAR DA PERÍCIA. PRECLUSÃO DO SEU DIREITO. DETERMINAÇÃO DE NOVOS ESCLARECIMENTOS. DISCRICIONARIEDADE DO MAGISTRADO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SUFICIÊNCIA DAS PROVAS E DA PERÍCIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Na origem, trata-se de ação de retificação de marcos divisórios e registro imobiliário, em que se sustenta haver equívoco no registro de imóvel, por ter sido registrado com área inferior.
+2. A decisão de indeferimento de outros esclarecimentos do perito quando a própria parte não pugna por eles a tempo está em consonância com o ordenamento vigente, pela própria aplicabilidade da preclusão de fases no processo.
+3. A produção de nova prova pericial ou a determinação de novos esclarecimentos pelo perito está na discricionariedade de o magistrado entender por sua necessidade, não sendo o mero inconformismo com as conclusões da prova pericial representativo de cerceamento de defesa.
+4. Na hipótese, o Tribunal de origem entendeu que os esclarecimentos periciais foram suficientes e completos e que houve exame de todos os pontos apontados pelas partes.
+5. A desconstituição do entendimento do acórdão estadual recorrido (acerca da inexistência de cerceamento de defesa diante da suficiência de provas e esclarecimentos) é procedimento vedado na via eleita, por exigir o reexame de fatos e provas, em virtude do óbice contido na Súmula nº 7/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.185.522/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+4. Do exposto, dou provimento ao agravo interno para reconsiderar a decisão da Presidência de fls. 662-664, e-STJ e, conhecendo do agravo (art. 1042 do CPC), nego provimento ao recurso especial.
+Por conseguinte, deixo de majorar os honorários advocatícios diante da ausência de condenação na origem.
+Publique-se. Intimem-se.
+EMENTA
