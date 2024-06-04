@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COPAEL COMÉRCIO E REPRESENTAÇÕES DE PAPEL LTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, mediante o qual se impugna acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 152):
+TRIBUTÁRIO. INCLUSÃO DO ICMS-ST PARA APURAR CRÉDITOS DO PIS/COFINS. INADMISSIBILIDADE.
+O contribuinte substituído tributário não tem o direito de apurar créditos de PIS/COFINS sobre o ICMS-ST incidente na aquisição de mercadorias para revenda.
+Em seu recurso especial, a parte aponta violação dos arts. 109 e 110 do CTN, do art. 3º, I, da Lei n. 10.637/2002 e do art. 3º, I, da Lei n. 10.833/2003.
+Aduz, em síntese, "que existe autorização legal para que a Impetrante, na qualidade de substituída tributária, poderá apropriar créditos de PIS e COFINS sobre os valores dispendidos com o recolhimento do ICMS-ST destacados em documentos fiscais, sobre produtos adquiridos para revenda, sendo essa assertiva confirmada pelo atual entendimento do STJ" (e-STJ fl. 170).
+Sem contrarrazões.
+Recurso especial admitido (e-STJ fl. 205).
+Passo a decidir.
+A Primeira Seção do STJ afetou à sistemática dos recursos repetitivos o EREsp 1.959.571/RS e os REsps 2.072.621/SC e 2.075.758/ES, Tema 1.231, sob a relatoria do Ministro Mauro Campbell Marques, em que se discute a possibilidade de creditamento, no âmbito do regime não cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST).
+Na ocasião, determinou-se a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça, segundo o disposto no art. 1.037, inciso II, do CPC/2015.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministro Regina Helena Costa, DJe 17/03/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB; e AREsp 779.676/PB, todos da relatoria do eminente Ministro BENEDITO GONÇALVES, DJe 02/12/2015, 08/03/2016, 0 4/03/2016 e 03/02/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no regime dos recursos repetitivos, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
