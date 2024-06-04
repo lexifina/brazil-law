@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por LUIZA GLÁURIA ROSA TEIXEIRA MENEZES com fundamento no art. 105, III, a, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (e-STJ Fl.355):
+"APELAÇÃO CÍVEL. DIREITO CIVIL. CONSIGNAÇÃO EM PAGAMENTO. CONTRATO DE ARRENDAMENTO DE POSTO DE COMBUSTÍVEIS. PAGAMENTO DE PARCELAS VENCIDAS APÓS A RESCISÃO DO CONTRATO. RECUSA JUSTIFICÁVEL. CONSIGNAÇÃO IMPROCEDENTE. SENTENÇA CONFIRMADA.
+I - Conforme o art. 335, inciso I, do Código Civil, tem o pagamento em consignação lugar "se o credor não puder, ou, sem justa causa, recusar receber o pagamento, ou dar quitação na devida forma". Ao devedor é assegurada a possibilidade de manejo da ação de consignação para o exercício de seu direito de pagar o que deve, desde que demostrada a injustificável recusa do credor em receber o crédito. Não verificada a recusa sem justa causa, incabível é o pagamento em consignação.
+II - Pleito de consignação que envolve valores referentes a meses posteriores ao término da vigência do contrato de arrendamento de posto de combustíveis. Notificação extrajudicial efetivada por intermédio do 2º Ofício de Registro de Títulos e Documentos de Maracanaú, comunicando o desinteresse do Apelado na manutenção da avença, nos termos da cláusula quinta pactuada. Justa causa para recusa do recebimento que afasta, consequentemente, o enquadramento da pretensão autoral na hipótese estabelecida pelo citado inciso I do art. 335.
+III - O fato de o Arrendador ter sido compelido a buscar a tutelado Estado, tendo em vista a renitência da Apelante em permanecer ocupando o imóvel arrendado, para reaver a posse do bem de raiz, não implica, evidentemente, que o pacto continuou vigendo, como pretende fazer prevalecer a Recorrente, e não afasta a justa recusa do recebimento dos valores apresentados neste feito. RECURSO CONHECIDO E NÃO PROVIDO."
+Os embargos de declaração opostos foram rejeitados com aplicação de multa.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo, ao não reconhecer devida a consignação do pagamento de parcelas vencidas ao longo de discussão judicial sobre a rescisão contratual, mesmo após o decurso do prazo de notificação, a prestigiar os princípios da função social e da conservação dos contratos, negou vigência aos arts. 334 e 335 do Código Civil.
+Pleiteia, ainda, a retirada da multa imposta no âmbito dos embargos de declaração, conforme a melhor interpretação do §2º do art. 1.026 do CPC/2015.
+As contrarrazões ao recurso especial foram apresentadas a fls. 414/420.
+O referido recurso especial não foi admitido por se entender incidentes na espécie as Súmulas 5 e 7 do STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação de consignação em pagamento ajuizada por Luiza Glauria Rosa Teixeira Menezes em face de Posto Magalhães Ltda, cujo pedido foi julgado improcedente.
+A questão central do recurso especial consiste em reconhecer devida a consignação do pagamento de parcelas vencidas ao longo de discussão judicial sobre a rescisão contratual, mesmo após o decurso do prazo de notificação, a prestigiar os princípios da função social e da conservação dos contratos, na melhor interpretação dos arts. 334 e 335 do Código Civil.
+Com efeito, conforme consignado pelo Tribunal a quo, a sentença que julgou improcedente o pedido de consignação da quantia de R$ 22.500,00 (vinte e dois mil, quinhentos reais), com o acréscimo dos meses subsequentemente vencidos, valores esses decorrentes do contrato de arrendamento do posto de combustíveis localizado na CE-065, Km 12, Maracanaú, negou o direito pleiteado, pois não verificada a recusa sem justa causa do credor em receber o crédito, requisito para o manejo da ação de consignação.
+Deveras, "A consignação em pagamento visa exonerar o devedor de sua obrigação, mediante o depósito da quantia ou da coisa devida, e só poderá ter força de pagamento se concorrerem "em relação às pessoas, ao objeto, modo e tempo, todos os requisitos sem os quais não é válido o pagamento" (artigo 336 do NCC)" (Quarta Turma, REsp 1.194.264/PR, Rel. Ministro Luís Felipe Salomão, unânime, DJe de 4.3.2011).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. OMISSÃO. INEXISTÊNCIA. PAGAMENTO. RECUSA DO CREDOR JUSTIFICADA. EXTINÇÃO DA DEMANDA SEM RESOLUÇÃO DE MÉRITO.
+INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. Nos termos da jurisprudência desta Corte, "A consignação em pagamento visa exonerar o devedor de sua obrigação, mediante o depósito da quantia ou da coisa devida, e só poderá ter força de pagamento se concorrerem "em relação às pessoas, ao objeto, modo e tempo, todos os requisitos sem os quais não é válido o pagamento" (artigo 336 do NCC)" (Quarta Turma, REsp 1.194.264/PR, Rel. Ministro Luís Felipe Salomão, unânime, DJe de 4.3.2011).
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 2.116.491/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/08/2022, DJe de 02/09/2022)
+Outrossim, relativamente à multa imposta no âmbito dos embargos de declaração, melhor sorte socorre a recorrente, pois os primeiros embargos de declaração opostos com o intuito de prequestionamento atende à inteligência da Súmula 98 do STJ.
+Confiram-se os precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EMBARGOS MONITÓRIOS. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. NULIDADE DE INTIMAÇÃO. NOVA PUBLICAÇÃO. INÍCIO DO PRAZO. SÚMULA 83/STJ.
+EMBARGOS PROTELATÓRIOS. FINALIDADE DE PREQUESTIONAMENTO. MULTA INDEVIDA. RECURSO PARCIALMENTE PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. "O v. acórdão recorrido está em descompasso com a jurisprudência do Superior Tribunal de Justiça, que entende que a nova publicação da decisão, ainda que desnecessária ou realizada por equívoco, tem o condão de reabrir a contagem do prazo recursal" (AgRg no REsp 1.191.217/PR, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/11/2016, DJe de 29/11/2016).
+3. Os embargos de declaração foram opostos com o intuito de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios, devendo a multa aplicada pelo Tribunal local ser afastada em conformidade com a Súmula 98/STJ.
+4. Agravo interno parcialmente provido, exclusivamente a fim de afastar a multa aplicada nos termos do art. 1.026, § 2º, do CPC/2015."
+(AgInt no AREsp 1.534.072/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/02/2024, DJe de 29/02/2024)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. EXCEPCIONALIDADE. TEMPESTIVIDADE. COMPROVAÇÃO. CALENDÁRIO. POSSIBILIDADE. COMPRA E VENDA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. OBRIGAÇÃO DE FAZER. CONVERSÃO. VEÍCULO ZERO QUILÔMETRO. PERDAS E DANOS. PREÇO DE MERCADO. TABELA FIPE. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA. MODIFICAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO. MULTA. NÃO CABIMENTO.
+SÚMULA Nº 98/STJ.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe alterar a conclusão do julgado.
+2. A jurisprudência desta Corte Superior orienta-se no sentido de que a juntada de cópia do calendário extraída do sítio eletrônico do tribunal de origem é documento idôneo para a comprovação da existência de feriado local. Precedente.
+3. Na hipótese, modificar o acórdão recorrido, no sentido de que o valor devolvido ao comprador de veículo zero quilômetro deve refletir os prejuízos e danos a ele causados e de que o pagamento do preço praticado ao tempo da aquisição não seria suficiente para a compra de veículo novo, é providência que demanda o reexame de fatos e provas, a atrair a incidência da Súmula nº 7/STJ.
+4. No caso, os aclaratórios merecem acolhimento para afastar a multa aplicada na origem, com fulcro no art. 1.026, § 2º, do Código de Processo Civil, porquanto tiveram o intuito de prequestionamento.
+Aplicação da Súmula nº 98/STJ.
+5. Embargos de declaração parcialmente acolhidos, com efeitos infringentes."
+(EDcl no AgInt no AREsp 1.884.599/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/09/2023, DJe de 29/09/2023)
+Dessa forma, entende-se que o acórdão recorrido merece parcial reforma, para que a multa seja retirada.
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, para retirar a multa imposta no âmbito dos embargos de declaração.
+Publique-se.
+EMENTA
