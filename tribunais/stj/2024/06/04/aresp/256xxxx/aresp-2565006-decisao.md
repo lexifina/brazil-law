@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por Helena Aparecida Turchetto da Silva e outros contra decisão que não admitiu o processamento do apelo extremo.
+Cuida-se, na origem, de agravo de instrumento contra decisão interlocutória que, nos autos da ação declaratória de nulidade de cláusula contratual e repetição de indébito, acolheu parcialmente a impugnação ofertada pela executada-agravada.
+A Oitava Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, apreciando aquele agravo, negou-lhe provimento, consoante acórdão assim ementado (e-STJ, fl. 86):
+AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. CUMPRIMENTO DE SENTENÇA. Excesso de execução. Insurgência contra decisão que acolheu apenas parcialmente a impugnação ofertada pela executada-agravada. Pretensão da exequente-agravante, para que se determine o pagamento dos valores pagos a maior, considerando a prescrição trienal e os valores pagos a partir de outubro de 2017. Não acolhimento. Acórdão executado determinou que a aplicação dos índices autorizados pela ANS ao contrato da parte exequente deve se restringir ao período compreendido entre outubro de 2014 e outubro de 2017 (aniversário do contrato). Decisão mantida.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, os recorrentes alegaram, além da existência de divergência jurisprudencial, violação dos arts. 499 e 816 do Código de Processo Civil de 2015.
+Sustentaram que, em caso de não satisfação da obrigação de fazer, a possibilidade de conversão em perdas e danos, tendo em conta que "determinada a substituição dos reajustes aplicados pela recorrida entre os anos de 2014 a 2016, a mensalidade deveria ser regularizada nestes termos em 2017, entretanto, a operadora nunca conferiu com sua obrigação, o que inclusive enseja em mensalidades inadequadas até o momento" (fl. 100, e-STJ).
+Contrarrazões às fls. 133-144 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 163-170 (e-STJ).
+Brevemente relatado, decido.
+Em relação à ofensa aos dispositivos tidos por violados, constata-se que a matéria inserta nos referidos dispositivos não foi objeto de debate pela Corte de origem, tampouco foram opostos embargos de declaração a fim de provocar o pronunciamento do Colegiado.
+É entendimento assente neste Superior Tribunal a exigência do prequestionamento dos temas suscitados no especial, de que tratam os dispositivos tidos por ofendidos, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATU ITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MATÉRIAS NÃO IMPUGNADAS. PRECLUSÃO. ART. 927, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. SÚMULAS N. 282 E 356 DO STF. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Liquidação extrajudicial decretada. Pedido de suspensão do processo. Inaplicabilidade.
+2. Não há utilidade prática no pedido de justiça gratuita no agravo interno, visto que o "pedido de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, embora deferido, não produzirá efeitos retroativos" (AgInt no AREsp 898.288/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/4/2018, DJe 20/4/2018).
+3. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - (..) acarreta a preclusão da matéria não impugnada (..)" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+4. Ausente o enfrentamento da matéria pelo acórdão recorrido e não opostos embargos de declaração com vistas a sanar o vício, inviável o conhecimento da matéria, por falta de prequestionamento.
+Incidência das Súmulas n. 282 e 356 do STF.
+5. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009).
+6. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+7. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.428.950/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. CARTEL DE CIMENTO. RAZÕES DOS EMBARGOS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. NÃO OBSERVÂNCIA. TERMO INICIAL. PROSSEGUIMENTO NO JULGAMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PRINCÍPIO DA ACTIO NATA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 83 DO STJ. SUSPENSÃO DO PROCESSO PELOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DAS SÚMULAS N.os 282 E 356 DO STJ. ART. 47 DA LEI N.º 12.529/2011. INVIABILIDADE DE ANÁLISE. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. NÃO PROVIMENTO.
+1. Não há que se falar em omissão, negativa de prestação jurisdicional ou ausência de motivação, na medida em que o Tribunal de origem, clara e fundamentadamente, dirimiu as questões que lhe foram submetidas e sobre as quais julgou necessário se pronunciar.
+2. A reanálise do entendimento de que não configurada a alegada prescrição e a revisão de seu termo inicial e de que inadmissível o prosseguimento no julgamento, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+3. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula nº 83 do STJ.
+4. Não havendo prequestionamento das matérias postas em discussão no especial bem como não opostos embargos de declaração com vistas a sanar o vício, inviável o conhecimento do recurso pelo óbice das Súmulas n.ºs 282 e 356 do STF.
+5. Não havendo esclarecimento suficiente acerca dos motivos aptos à modificação do entendimento adotado pela Corte de origem e da violação dos dispositivos legais trazidos ao debate, inviável o conhecimento do especial pelo óbice da Súmula n.º 284 do STF.
+6. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.094.466/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+Ademais, a ausência de prequestionamento inviabiliza a análise da divergência jurisprudencial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. CANA DE AÇÚCAR. INCÊNDIO. ARTIGOS 489 E 1022 DO CÓDIGO DE PROCESSO CIVIL. SUPOSTA OMISSÃO NO ACÓRDÃO RECORRIDO ACERCA DO LAUDO PERICIAL. PROVIMENTO ADOTADO COMPATÍVEL COM A CONCLUSÃO ADOTADA NA PROVA TÉCNICA. OMISSÃO DESCARACTERIZADA. SUPOSTA DUBIEDADE NOS TERMOS DA APÓLICE. SÚMULAS 5 E 7/STJ. PRINCÍPIO DA BOA-FÉ. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. NÃO PROVIDO.
+1. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. A pretensão de reconhecer a dubiedade de cláusula contratual, com a adoção do sentido mais favorável ao consumidor, demandaria a revisão de fatos e provas e dos termos da apólice;
+providência, porém, vedada em sede de recurso especial, em razão das Súmulas 5 e 7/STJ.
+3. A controvérsia sobre se a limitação da cobertura violaria a finalidade do contrato de seguro de dano, notadamente o primado da boa-fé, não foi objeto de análise no acórdão recorrido, tampouco objeto de embargos de declaração, inviabilizando o conhecimento do recurso especial, diante da falta de prequestionamento. Incidência das Súmulas 282 e 356/STF.
+4. O óbice da ausência de prequestionamento impede a análise da divergência jurisprudencial alegada, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.314.188/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N 282 E 356 DO STF. DIVERGÊNCIA PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
