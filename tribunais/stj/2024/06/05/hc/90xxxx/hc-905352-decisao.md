@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 16):
+EMENTA: HABEAS CORPUS. ACÓRDÃO CONDENATÓRIO. TRÂNSITO EM JULGADO. ILEGALIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA. REMESSA DOS AUTOS AO ÓRGÃO PELO SISTEMA PROJUDI. PROVIDÊNCIA DE COMUNICAÇÃO PESSOAL REALIZADA. IRREGULARIDADE AFASTADA. Não está contaminada de ilegalidade, a certificação do trânsito em julgado do acórdão condenatório em desfavor do paciente, se os autos do processo virtual foram remetidos à Defensoria Pública pelo sistema PROJUDI, tomando conhecimento do inteiro teor do pronunciamento jurisdicional desfavorável, contando a partir de então o prazo para a interposição de recurso. ORDEM DENEGADA.
+Consta dos autos que em 27/9/2023 transitou em julgado a sentença que condenou o paciente pela prática do crime previsto no art. 121, § 2º, II, c/c art. 29, do Código Penal, à pena de 12 anos de reclusão.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, ao argumento de que o trânsito em julgado deve ser desconstituído, considerando a falta de intimação pessoal do defensor público sobre o julgamento da apelação criminal.
+Requer, assim, liminarmente, que o paciente seja colocado em liberdade até o julgamento de mérito do presente writ. No mérito, pleiteia a nulidade do trânsito em julgado do acórdão proferido em apelação criminal.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Sobre o tema, consta do acórdão recorrido (fl. 15):
+ ..
+Como visto, o impetrante sustenta nulidade processual absoluta em razão da ausência de intimação pessoal (Defensoria Pública) do acórdão que desproveu o recurso apelatório interposto pelo acusado.
+É cediço que desde a informatização dos processos judiciais, as citações, notificações e intimações das partes por meio de seus defensores (inclusive da Defensoria Pública) são feitas por meio do sistema eletrônico de processamento das ações judiciais que, em Goiás, é o PROJUDI/PJD.
+Logo, as intimações pessoais dos advogados, membros do Ministério Público e Defensoria Pública, outrora feitas fisicamente nos autos ou por meio de correspondência registrada (AR), são atualmente realizadas por meio eletrônico. Conforme dispõe o artigo 9º da Lei nº 11.419/2006 (Lei do processo judicial eletrônico):
+"Art. 9º No processo eletrônico, todas as citações, intimações e notificações, inclusive da Fazenda Pública, serão feitas por meio eletrônico, na forma desta Lei.
+§ 1º. As citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais".
+Depreende dos autos que o paciente estava representado pela Defensoria Pública desde 04/11/2022, que inclusive interpôs recurso de apelação em favor do condenado, ora paciente (mov. 306). Sobreveio julgamento desprovendo tal recurso e mantendo o édito condenatório.
+A intimação do acórdão foi expedida em 15.08.2023 para a Defensora Pública habilitada nos autos para a representação de Francisco. Tal intimação foi lida automaticamente no sistema PJD em 25/08/2023 (mov. 363 dos autos da ação penal).
+Portanto, a Defensoria Pública foi devidamente intimada, via PJD, deixando voluntariamente de interpor recurso.
+Diante disso, ausente constrangimento ilegal a ser sanado.
+ ..
+Como se vê, verifica-se a inexistência de nulidade por ausência de intimação pessoal do defensor público, pois, conforme consignado pela Corte a quo, "A intimação do acórdão foi expedida em 15.08.2023 para a Defensora Pública habilitada nos autos para a representação de Francisco. Tal intimação foi lida automaticamente no sistema PJD em 25/08/2023 (mov. 363 dos autos da ação penal). Portanto, a Defensoria Pública foi devidamente intimada, via PJD, deixando voluntariamente de interpor recurso".
+Conforme entendimento sedimentado nesse Tribunal Superior, "O art. 5º da Lei n. 11.419/2006 e o art. 21 da Resolução n. 185/2013 do Conselho Nacional de Justiça esclarecem que, nos processos judiciais eletrônicos, a intimação dos atos processuais se aperfeiçoa com a consulta eletrônica realizada pela parte, que deve ocorrer em até dez dias corridos, contados a partir da data de envio da comunicação. Tal previsão tem aplicação inclusive às entidades que gozam da prerrogativa de intimação pessoal, tal como a Defensoria Pública e os defensores dativos. Caso a consulta não ocorra dentro do prazo de dez dias corridos, considerar-se-á intimada a parte, automaticamente, ao término do prazo (AgRg no HC n. 753.186/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2023)". (AgRg no HC n. 778.302/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
