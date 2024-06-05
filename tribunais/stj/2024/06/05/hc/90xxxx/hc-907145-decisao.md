@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RODRIGO CASERTA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim relatado (fl. 23):
+Cuida-se de recurso de apelação da r. sentença de fls. 103/107, cujo relatório se adota, que julgou procedente a pretensão punitiva estatal para condenar o réu RODRIGO CASERTA às penas de 02 anos, 08 meses e 20 dias de reclusão, em regime inicial fechado, e 12 dias-multa, esses no mínimo legal, pela prática do crime descrito no artigo 155, §4º, II, do Código Penal.
+Inconformado, o réu apela buscando afastamento da qualificadora da destreza, dos maus antecedentes e a fixação de regime semiaberto para início do cumprimento da pena (fls. 118/126).
+O recurso processado e regularmente contrariado (fls. 131/135).
+A Douta Procuradoria Geral de Justiça manifestou-se pelo improvimento do apelo (fls. 157/158).
+É O RELATÓRIO.
+Consta dos autos que o paciente foi condenado, em sentença confirmada pela Corte a quo, à pena de 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e 12 dias-multa, pela prática do crime descrito no artigo 155, §4º, II, do Código Penal.
+Sustenta o impetrante, em síntese, que "tanto a vítima percebeu a ação do paciente que logo saiu correndo atrás dele" (fl. 7).
+Busca, assim, o afastamento da qualificadora da destreza, ao fundamento de que "O furto qualificado pela destreza, por sua vez, exige uma habilidade especial, incomum por parte do agente, que retira o objeto da esfera de vigilância da vítima sem que esta se dê conta. Não é qualquer dissimulação que é capaz de atrair a presente qualificadora, mas somente aquela que, além de ser imperceptível aos olhos da vítima, revela habilidade excepcional" (fl. 7).
+Alega que, "na hipótese dos autos, a vítima percebeu a subtração assim que o fone de ouvido parou de tocar música e, então, saiu em imediata perseguição ao réu, que restou detido, não havendo que se falar em habilidade incomum ou excepcional" (fl. 8).
+Requer, liminarmente e no mérito, o afastamento da qualificadora da destreza.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração; alternativamente, pela denegação da ordem.
+Quanto ao pedido de afastamento da qualificadora de destreza, extrai-se do acórdão impugnado (fls. 23-25):
+ ..
+Ficou claro nos autos que o apelante, em 03 de agosto de 2023, por volta das 20 horas e 15 minutos, na Estação Brás do metrô, nesta cidade e Comarca, subtraiu para si, mediante destreza, um aparelho celular Samsung A3, avaliado em R$ 600,00, pertencente José Diógenes da Silva Júnior.
+A materialidade e a autoria do delito, são induvidosas, tanto que sequer foram objeto de recurso.
+De fato, o presente apelo deve ser analisado nos termos do artigo 599 do Código de Processo Penal, ou seja, "tantum devolutum quantum Appellatum".
+O réu foi preso em flagrante logo após subtrair o aparelho celular que a vítima trazia consigo no interior da composição do Metro.
+Em Juízo, o réu confessou a prática delitiva.
+De fato, a vítima narrou que estava no interior da composição do Metro. Disse que o réu aproveitou-se do movimento e balanço dos vagões e subtraiu o aparelho celular que ela trazia consigo. Afirma que não notou ou visualizou a subtração do aparelho. Somente notou a ação porque estava com o fone em seu ouvido, e a música que ouvia com a conexão do fone no aparelho foi interrompida. Em razão disso, notou que não estava mais com o celular em seu bolso, mas reafirma que não notou a ação criminosa do réu. Perseguiu o réu pelas plataformas do Metro, e com ajuda de outros usuários e de agentes de segurança, o réu foi detido e preso em flagrante. Disse que o réu, durante a fuga, conseguiu se desvincular do objeto. Não recuperou o bem (fls.105).
+As testemunhas agentes de segurança confirmam os relatos prestados em fase policial.
+Não merece acolhimento o afastamento da qualificadora da destreza pleiteado pela defesa, tendo em vista que a vítima não notou ou visualizou a subtração do seu aparelho celular, demonstrando, assim, a agilidade do apelante ao furtar o bem sem que o ofendido percebesse.
+De fato, bem lançado na r. sentença condenatória (fls. 105): "(..) a qualificadora atinente à destreza está comprovada concretamente. Isso porque, conforme exposto, o réu valeu-se de especial habilidade para, aproveitando-se dos movimentos dos vagões, subtraiu o aparelho celular da vítima sem que ela efetivamente notasse sua ação. A vítima, questionada expressamente sobre essa circunstância, reafirma que não notou a ação do réu e que somente deu falta de seu aparelho porque houve desconexão da música que ouvia pelo fone, visualizando o réu empreender fuga logo na sequência pelas plataformas da estação do Metro. O crime restou consumado, valendo ressaltar que a vítima não recuperou seu objeto, tendo o réu se desvencilhado da res antes de sua captura.(..)".
+No mais, considerando que os fundamentos da r. sentença recorrida, que apreciou pormenorizadamente a prova coligida, não comportam qualquer modificação, bem como o fato de que nas razões recursais não há nenhum elemento novo, mas, tão somente, a reiteração de questões já enfrentadas pelo Juízo a quo, forçoso concluir pela manutenção da condenação do réu.
+ ..
+Com efeito, da análise dos excertos acima transcritos, constata-se que a Corte de origem condenou o recorrente pelo crime de furto qualificado mediante destreza, previsto no art. 155, § 4º, inc. II, do CP, considerando que o paciente valeu-se de especial habilidade para, aproveitando-se dos movimentos dos vagões, subtrair o aparelho celular da vítima sem que ela efetivamente notasse sua ação. Ademais, "A vítima, questionada expressamente sobre essa circunstância, reafirma que não notou a ação do réu e que somente deu falta de seu aparelho porque houve desconexão da música que ouvia pelo fone".
+Dessa forma, rever o entendimento das instâncias ordinárias, afastando a qualificadora atinente à destreza, necessariamente, demandaria o reexame de matéria fático-probatória, providência não admitida na via estreita do habeas corpus. A propósito, em casos análogos, confiram-se os seguintes julgados: AgRg no AREsp n. 229.028/DF, relatora Ministra Assusete Magalhães, Sexta Turma, DJe de 28/10/2013; e AgRg no REsp n. 1.333.579/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 15/4/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
