@@ -1,0 +1,165 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001585-87.2022.8.08.0048
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: ESTADO DO ESPIRITO SANTO
+
+APELADO: JACKSON LUIZ RIBEIRO
+
+RELATOR(A):
+EWERTON SCHWAB PINTO JUNIOR
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+EMENTA: EMBARGOS DE DECLARAÇÃO. ART. 1.022, CPC. HIPÓTESES DE CABIMENTO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+
+RECURSO CONHECIDO E DESPROVIDO.
+1.
+Acerca do recurso de Embargos de Declaração, sua função é de integrar ou aclarar decisões judiciais que padeçam de vícios de omissão, obscuridade ou contradição.
+2.
+Embora em algumas situações possa haver sensível modificação do conteúdo da decisão recorrida, referido recurso não tem por função precípua a modificação ou anulação do provimento jurisdicional, mas, repita-se, esclarecer ou afastar eventuais contradições ou omissões existentes.
+3.
+Fixadas tais premissas, tenho que o presente recurso não merece provimento, posto que as alegações do
+
+embargante não se enquadra em nenhuma das hipóteses de cabimento.
+4.
+RECURSO CONHECIDO E DESPROVIDO
+.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e não acolher os Embargos de Declaração, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 014 - Gabinete Des. EWERTON SCHWAB PINTO JÚNIOR
+
+Composição de julgamento: 014 - Gabinete Des. EWERTON SCHWAB PINTO JÚNIOR - EWERTON SCHWAB PINTO JUNIOR - Relator / 018 - Gabinete Des. JÚLIO CESAR COSTA DE OLIVEIRA - JULIO CESAR COSTA DE OLIVEIRA - Vogal / 023 - Gabinete Desª. MARIANNE JUDICE DE MATTOS - LEONARDO ALVARENGA DA FONSECA - Vogal
+VOTOS VOGAIS
+018 - Gabinete Des. JÚLIO CESAR COSTA DE OLIVEIRA - JULIO CESAR COSTA DE OLIVEIRA (Vogal)
+Acompanhar
+023 - Gabinete Desª. MARIANNE JUDICE DE MATTOS - LEONARDO ALVARENGA DA FONSECA (Vogal)
+Proferir voto escrito para acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+1ª Câmara Cível
+Endereço: Rua Desembargador Homero Mafra 60, 60, Enseada do Suá, VITÓRIA - ES - CEP: 29050-906
+Número telefone:( )
+
+Processo nº
+5001585-87.2022.8.08.0048
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: ESTADO DO ESPIRITO SANTO
+REPRESENTANTE: PROCURADORIA GERAL DO ESTADO DO ESPÍRITO SANTO
+
+APELADO: JACKSON LUIZ RIBEIRO
+
+Advogados do(a) APELADO: SERGIO LUIZ PIMENTEL JUNIOR - ES28427-A, RODRIGO DE OLIVEIRA LUCAS - ES13858-A
+
+VOTO
+
+Conforme relatoriado, trata-se de
+embargos de declaração opostos contra acórdão emanado desta e. 1ª Câmara Cível que, por unanimidade de votos, conheceu da apelação cível interposta pelo embargante e a ela negou provimento, a fim de manter a sentença que julgou procedentes os pedidos da inicial para deu parcial provimento para afastar do prontuário do embargado os autos de infração nº S001501136, S000247977 e T098343341, consequentemente, se não houver outros impeditivos, o desbloqueio de sua CNH.
+
+Acerca do recurso de embargos de declaração, sua função é de integrar ou aclarar decisões judiciais que padeçam de vícios de omissão, obscuridade ou contradição.
+
+Embora em algumas situações possa haver sensível modificação do conteúdo da decisão recorrida, referido recurso não tem por função precípua a modificação ou anulação do provimento jurisdicional, mas, repita-se, esclarecer ou afastar eventuais contradições ou omissões existentes.
+
+Tal conclusão é facilmente alcançada com a simples leitura da norma que previa as suas hipóteses de cabimento à época em que a decisão se tornou recorrível e na qual o presente recurso fora interposto, art. 1.022, do CPC,
+in verbis
+:
+
+“
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+
+I - esclarecer obscuridade ou eliminar contradição;
+
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+
+III - corrigir erro material.
+”
+
+Neste sentido ensinam Luiz Guilherme Marinoni e Daniel Mitidiero:
+
+“
+Nada obstante o recurso de embargos de declaração vise apenas ao aperfeiçoamento da decisão judicial, patrocinando aclareamento de obscuridade, desfazimento de contradição e supressão de omissão, não se prestando, como regra, à obtenção de modificação do julgado, pode ocorrer de o acolhimento dos embargos declaratórios provocar uma alteração na substância da decisão embargada. (...) Observe-se que o embargante não pretende diretamente a rediscussão da causa e conseguinte modificação no entendimento exposto pelo órgão jurisdicional na decisão com a interposição de embargos declaratórios com efeitos infringentes. O que pretende é o aclareamento da obscuridade, o desfazimento da contradição e a supressão da omissão, que, indiretamente, acabam por modificar o julgado.” (MARINONI, Luiz Guilherme. MITIDIERO, Daniel. Código de Processo Civil: comentado artigo por artigo. 4. ed. rev. Atual. e ampl. - São Paulo. Editora Revista dos Tribunais, 2012.)
+
+Na mesma esteira de raciocínio se apresenta a jurisprudência do Superior Tribunal de Justiça,
+in verbis
+:
+
+“
+Não pode ser aberto espaço em sede de embargos de declaração para que o julgamento do acórdão tenha seus fundamentos e conclusões revisitados, a fim de se adotar o desejado pelo embargante. Se assim for procedido, o que não se admite, estar-se-ia rejulgando a causa ou o recurso. 2. A função dos embargos declaratórios é, apenas, integrativa. Excepcionalmente, pode ter efeitos modificativos quando situação peculiar de erro na aplicação do direito for constatada. 3. Razões de decidir não podem ser alteradas por embargos de declaração. 4. Se o acórdão, na visão da parte, violou a Constituição, deve ser atacado pelo recurso específico. 5. Embargos de declaração rejeitados. (STJ - EDcl no MS: 10379 DF 2005/0015913-3, Relator: Ministro JOSÉ DELGADO, Data de Julgamento: 11/10/2006, S1 - PRIMEIRA SEÇÃO, Data de Publicação: DJ 06.11.2006 p. 290)”
+
+Fixadas tais premissas, tenho
+que
+as alegações do embargante não se enquadram em nenhuma das hipóteses de cabimento,
+tendo em vista q
+ue
+o acórdão foi expresso quanto à natureza meramente administrativa do prazo
+
+para indicação do real condutor, sendo possível a utilização da via judicial independente de tal prazo, assim como ser de responsabilidade deste os autos de infração. Por fim, a transferência das infrações ao real condutor é questão administrativa do Detran, sobretudo porque os pedidos veiculados na ação pretendem afastar tais ônus dos registros do embargado, vejamos:
+
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. SUSPENSÃO DO DIREITO DE DIRIGIR. PRELIMINARES REJEITADAS: ILEGITIMIDADE PASSIVA, AUSÊNCIA DE INTERESSE DE AGIR, LITISCONSÓRCIO NECESSÁRIO, INCOMPETÊNCIA DO JUÍZO. INFRAÇÕES APLICADAS APÓS A TRANSFERÊNCIA DO VEÍCULO. PRAZO PARA INDICAR CONDUTOR MERAMENTE ADMINISTRATIVO. RECURSO CONHECIDO E DESPROVIDO. 1. A legitimidade passiva do Detran/Es deve ser aferida in status assertiones, ou seja, com base nas informações contidas na petição inicial. Dessa forma, considerando que o impetrante atribuiu ao Detran/ES a responsabilidade pela suspensão da sua carteira nacional de habilitação em razão das penalidades apontadas, além de ser ele o órgão responsável pala aplicação das sanções questionadas, não vejo como acolher a preliminar de ilegitimidade passiva. 2. Neste passo, não me parece merecer acolhimento a tese de que falta interesse de agir do impetrante em face do Detran/ES para afastar as sanções anotadas em seu registro, decorrente de infrações de trânsito. Isso porque, ainda que as infrações de trânsito tenham sido apuradas por outros órgãos, é o Detran/ES responsável pelas respectivas anotações no prontuário do impetrante, bem como aplicação da medida administrativa que se pretende repelir. 3. Assim como as demais preliminares até então rejeitadas, não há se falar em litisconsórcio necessário do órgão responsável pela autuação da infração de trânsito, isso porque, o que se pretende afastar, ao menos in status assertiones, é a abertura de processo de suspensão do direito de dirigir e aplicação da respectiva sanção pelo Detran/ES. 4. Desta maneira, pontuada a legitimidade passiva do Detran/ES, ainda que in status assertiones, e a desnecessidade de formação de litisconsórcio passivo com Polícia Rodoviária Federal (PRF) ou com o Departamento Nacional de Infraestrutura de Transportes (DNIT), mostra-se competente a Justiça Estadual para processar e julgar mandado de segurança que pretende afastar ato administrativo de suspensão do direito de dirigir. 5. Dispõe o art. 5º, inciso LXIX, da CF que conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público, cujos termos foram repetidos pela legislação infraconstitucional, especificamente no art. 1º, da Lei nº 12.016/09. 6. Dispõe o art. 257, § 7º, CPC, quando não for imediata a identificação do infrator, o principal condutor ou o proprietário do veículo terá o prazo de 30 (trinta) dias, contado da notificação da autuação, para apresentá-lo, na forma em que dispuser o Contran, e, transcorrido o prazo, se não o fizer, será considerado responsável pela infração o principal condutor ou, em sua ausência, o proprietário do veículo. Acerca do tema, o c. STJ possui firme entendimento no sentido de que o prazo para indicação do condutor possui natureza meramente administrativo, sendo possível a transferência da respectiva pontuação, com a indicação do real condutor, pela via judicial. 7. Considerando a comprovação inequívoca acerca do real condutor do veículo no momento das infrações, merece ser mantida a sentença que concedeu a segurança para cancelar os efeitos da suspensão de dirigir indevidamente aplicada ao impetrante. 8. RECURSO CONHECIDO E DESPROVIDO. (Data: 22/Mar/2024. Órgão julgador: 1ª Câmara Cível. Número: 5001585-87.2022.8.08.0048. Magistrado: EWERTON SCHWAB PINTO JUNIOR. Classe: APELAÇÃO CÍVEL)
+
+Nesse sentido o
+c
+. STJ é claro ao reafirmar que
+os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+(EDcl nos EDcl no AREsp 1036564/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/09/2018, DJe 26/09/2018)
+
+O embargante desconsidera que, à luz da orientação do C. STJ,
+“[...] entendimento contrário ao interesse da parte e omissão no julgado são conceitos que não se confundem”
+e que o
+“juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão. [...]”
+(Edcl no AgRg no MS 22/DF, rel. Ministro Humberto Martins, Primeira Seção, julgado em 28.05.2014).
+
+Ficam as partes advertidas que, embora até o momento não tenha verificado o abuso do direito de recorrer, a multa do art. 1.026, § 2º, do Código de Processo Civil,
+será
+aplicada no caso de oposição de novos embargos de declaração, se manifestamente protelatórios.
+
+Do exposto,
+CONHEÇO
+
+do recurso e a ele
+
+NEGO
+
+PROVIMENTO.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+
+Gabinete Desembargador Júlio César Costa de Oliveira
+
+Sessão Virtual 20.05.2024
+
+Acompanho o respeitável voto de Relatoria.
+
+Desembargador Substituto Leonardo Alvarenga da Fonseca - Sessão Virtual de 20.05.2024
+
+Acompanho o voto do E. Desembargador Relator.
