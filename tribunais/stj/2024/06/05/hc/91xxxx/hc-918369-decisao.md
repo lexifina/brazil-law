@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Joao Batista Crisostomo de Araujo - condenado como incurso nos crimes de roubo majorado, uso de documento falso e porte ilegal de arma de fogo com numeração suprimida -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 5005166-56.2022.8.24.0019), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da Vara Criminal da comarca de Concórdia/SC, ao argumento de ilegalidade na incidência da majorante da restrição da liberdade das vítimas, incidência de mais de uma majorante prevista na parte especial do CP, inidoneidade da valoração negativa das consequências do crime com fundamento no abalo emocional causado nas vítimas, equívoco na exasperação da pena-base em percentual acima de 1/6 para cada circunstância considerada negativa, ocorrência do aumento em cascata em razão de cada majorante e exagero na dosimetria da pena de multa.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, da análise da sentença condenatória, observa-se que o Magistrado singular logrou fundamentar cada recrudescimento da reprimenda imposta ao paciente, razão pela qual inexiste constrangimento ilegal manifesto capaz de justificar o processamento excepcional da impetração.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique -se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO, USO DE DOCUMENTO FALSO E PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. DOSIMETRIA DA PENA. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. FALTA DE CABIMENTO. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
