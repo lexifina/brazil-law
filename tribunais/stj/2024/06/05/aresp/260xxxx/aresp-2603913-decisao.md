@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE MATO GROSSO DO SUL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C TUTELA ANTECIPADA - TRATAMENTO DE SAÚDE FORNECIDO PELO SUS - PARECER DO NAT FAVORÁVEL - CIRURGIA - ESPERA EXCESSIVA - ENUNCIADO  93 DA III JORNADA DE DIREITO DA SAÚDE DO CNJ - URGÊNCIA E NECESSIDADE DEMONSTRADAS - RESPONSABILIDADE SOLIDÁRIA DOS ENTES PÚBLICOS - SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, §8º, do Código de Processo Civil. Sustenta que os honorários de sucumbência, na hipótese de ações que envolvam o direito à saúde, não devem ser fixados sobre o valor da causa, mas sim pela apreciação equitativa prevista no referido dispositivo, trazendo a seguinte argumentação:
+Em que pese ser possível a condenação do Estado ao pagamento de honorários advocatícios em favor da Defensoria Pública Estadual, em razão do julgamento recente do Tema 1002 do STF, a sua fixação deverá levar em consideração os critérios previstos no artigo 85 do CPC, de modo que a sua base de cálculo poderá ser o proveito econômico buscado, o valor da condenação ou o valor atribuído à causa.
+Contudo, os honorários de sucumbência nas ações que envolvem direito à saúde não devem levar em consideração o valor da causa em si, mas sim a apreciação equitativa prevista no CPC.
+Não se pretende desprestigiar o trabalho desenvolvido pela Defensoria Pública. Ocorre que o objeto da presente ação é a preservação da saúde e da vida através do tratamento pretendido. Trata-se, então, de ação de obrigação de fazer, com pedido final de fornecimento de tratamento (vide inicial).
+Portanto, o mais acertado é o arbitramento da verba honorários com base no dispositivo contido no §8º do artigo 85, que remete aos inciso do §2º (apreciação equitativa):
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 8º Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º.
+Assim, não se devem contemplar porcentagem sobre o valor da causa ou proveito econômico, porque não é possível aferir qualquer valor à vida, ou seja, o proveito econômico nestas ações onde se requer tratamentos especificos para a saúde é, a priori, inestimável.
+O valor dado à causa, muitas vezes elevadíssimos, não pode medir o objeto da demanda que é o direito à saúde, e não o direito ao valor do medicamento ou tratamento.
+Não se trata de discussão pecuniária.
+Esse, inclusive, é o entendimento recente do Superior Tribunal de Justiça no REsp 2.060.919/SP:
+ ..
+Logo, não há se falar em arbitramento de honorários sobre o valor da causa, conforme preceitua o Acórdão recorrido, em razão de não haver proveito econômico estimável no feito
+Assim, como se trata de demanda repetitiva, sem produção de provas complexas, devem ser fixados os honorários com base no §8º do artigo 85, de forma equitativa, com base na razoabilidade e proporcionalidade (fls. 286-288).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
