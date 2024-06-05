@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Nathan Marques da Silva de Pontes, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1500243-81.2018.8.26.0633).
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, inicialmente em regime fechado, e pagamento de 580 dias-multa, pelo Juízo da 2ª Vara Criminal da comarca de Peruíbe/SP, por incurso no art. 33, caput, da Lei n. 11.343/2006 (fls. 404/417).
+Após o trânsito em julgado da condenação, sobreveio a presente impetração, em que se alega, em síntese, constrangimento ilegal decorrente da dosimetria da reprimenda diante da não aplicação da minorante do tráfico privilegiado, mesmo o paciente preenchendo todos os requisitos para tanto; bem como em razão da fixação do regime fechado para o início do cumprimento da pena.
+Requer-se, em liminar e no mérito, seja aplicada a causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 e abrandado o regime prisional.
+É o relatório.
+A condenação do paciente já é definitiva, ante o trânsito em julgado da ação penal. Portanto, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Ora, diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+Além disso, inexiste, na espécie, flagrante ilegalidade a ser reparada por meio de habeas corpus de ofício.
+Primeiro, não há falar em bis in idem, pois a figura do tráfico privilegiado foi afastada pelas instâncias de origem não apenas com base na elevada quantidade de droga, mas também em razão das circunstâncias concretas da prática delitiva (com destaque pelo local da prisão conhecido como ponto de tráfico pertencente a organização criminosa, com alto numerário em dinheiro e anotações do tráfico - fl. 555), o que denota a dedicação do réu a atividades criminosas. Nesse sentido, confira-se: AgRg nos EDcl no HC n. 838.369/AC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024.
+Ademais, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do acusado a atividades criminosas e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos (AgRg no HC n. 765.490/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/10/2022).
+Segundo, diante da existência de circunstância judicial negativa, é adequada a imposição do modo prisional imediatamente mais gravoso do que o permitido pelas quantidades das penas aplicadas, isto é, o regime inicial fechado, nos moldes do art. 33, §§ 2º e 3º, c/c o art. 59, ambos do Código Penal (AgRg no REsp n. 1.946.034/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/8/2021).
+Pelo exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. CONDENAÇÃO TRANSITADA EM JULGADO. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
