@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de JÚLIO CÉSAR DOS SANTOS LEANDRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE (Habeas Corpus nº 202300366277).
+Em 19 de dezembro de 2023, concedi a medida liminar no HC 875 .030/SE para "substituir a prisão preventiva do paciente por prisão domiciliar para tratamento da doença apresentada, podendo o Magistrado singular implementar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender necessárias" (e-STJ 38-40).
+Com o retorno dos autos à origem, quando da expedição do alvará de soltura pela central do plantão judiciário, constou-se a existência de um mandado de prisão (0027880-13.2020.8.13.0362.01.0001-12) que não teria sido alcançado pela minha decisão, não sendo, portanto, implementada a prisão domiciliar (e-STJ 120-122).
+Apresentado pedido no sentido de que fosse "alcançada e levada a cabo a prisão domiciliar, inclusive quanto à baixa do mandado de prisão 0027880-13.2020.8.13.0362.01.0001-12, eis que já unificada a sentença proferida nos autos da Ação Penal 0029324-81.2020.8.13.0362", a magistrada plantonista indeferiu o pedido, nos seguintes termos):
+"Considerando que a este Juízo plantonista cabe apenas dar cumprimento ao determinado pelo Superior Tribunal de Justiça, aplicando cautelares diversas da prisão ao caso em apreço, para assegurar o cumprimento de prisão domiciliar, não é o caso de discussões/análise sobre eventual unificação de pena e baixa de mandado de prisão; assim, INDEFIRO o quanto requerido e mantenho o posicionamento já esposado.
+Não cabe a este juízo estender os efeitos de decisão do STJ a outras situações processuais por ele desconhecidas.
+Providências/Intimações necessárias" (e-STJ 141).
+A defesa, então, impetrou habeas corpus no Tribunal de origem, tendo o Desembargador plantonista indeferido a liminar, verbis (e-STJ 186-188):
+"Considerando, pois, que as medidas, no presente caso, devem ser determinadas pelo juízo de origem, e, encontrando-se em período de recesso forense, INDEFIRO A LIMINAR E DETERMINO QUE SEJAM AS PEÇAS ENCAMINHADAS AO JUIZ PLANTONISTA DE PRIMEIRO GRAU, A FIM DE QUE AS MEDIDAS NECESSÁRIAS SEJAM ADOTADAS".
+Neste mandamus, o impetrante sustenta que a liminar que concedeu a prisão domiciliar, nos autos do HC n. 875030/SE alcança todos os mandados de prisão unificados no SEEU 0001501-64.2014.8.25.0086, constando expressamente no relatório de situação carcerária expedido pela Vara de Execuções Penais a unificação da pena da comarca de João Monlevade-MG, afastando qualquer dúvida de que a prisão domiciliar concedida contempla, inclusive, o mandado de prisão 0027880-13.2020.8.13.0362.01.0001-12, oriundo dos autos da ação penal n. 0029324-81.2020.8.13.0362.
+Requer, em liminar e no mérito, seja determinada a imediata baixa do mandado de prisão 0027880-13.2020.8.13.0362.01.0001-12, oriundo dos autos da ação penal n. 0029324-81.2020.8.13.0362, uma vez que após a unificação das penas nos autos da Execução SEEU 0001501-64.2014.8.25.0086 tal mandado já integraria o cumprimento da pena, não podendo obstar, dessa forma, o imediato cumprimento da liminar concedida nos autos do HC n. 875030/SE. Pleiteia, ainda, seja determinada a expedição de novo alvará de soltura, que alcance os dois processos unificados na execução citada (e-STJ 03//12).
+O habeas corpus foi indeferido liminarmente pela Ministra Presidente no e-STJ 300/303.
+É o relatório.
+Decido.
+Em petição juntada no e-STJ 310/313 o impetrante informa que "foi cumprida, em 09/01/2024, a liminar concedendo, no HC 875030/SE" pelo que requer o reconhecimento da perda do objeto do writ.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Arquive-se após o transcurso do prazo para impugnação.
+EMENTA
