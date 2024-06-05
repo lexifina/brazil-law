@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por MASSA FALIDA DO BANCO BVA S.A. MASSA FALIDA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 969-970):
+APELAÇÃO - ILEGITIMIDADE PASSIVA - Pretensão da empresa ré de que seja reconhecida a sua ilegitimidade passiva Impossibilidade - Hipótese em que, tendo sido quitadas as parcelas pelo condomínio autor em virtude de acordo e, mesmo assim, sacadas duplicatas dessas parcelas já quitadas e posteriormente endossadas, fica evidente que a empresa ré também possui legitimidade para figurar no polo passivo da demanda, uma vez que participou diretamente dos danos materiais e do dano moral causados ao condomínio autor - Inadimplemento imotivado dos serviços contratados pelo condomínio demonstrado nos autos do processo - RECURSO DESPROVIDO.
+APELAÇÃO - GRATUIDADE DA JUSTIÇA PESSOAJURÍDICA - Pretensão de reforma do capítulo da r. sentença que indeferiu o pedido de concessão da gratuidade da justiça Descabimento Hipótese em que não ficou demonstrada a impossibilidade da empresa apelante de arcar com os gastos do processo, sem prejuízo de suas atividades RECURSO DESPROVIDO.
+APELAÇÃO - DUPLICATA - DANO MORAL PROTESTO INDEVIDO - Pretensão da empresa ré de que seja reconhecida culpa exclusiva do condomínio autor pelos danos causados Alegação de que não houve dano moral Descabimento Hipótese em que ficou comprovada a contratação do serviço e seu descumprimento pela empresa ré - Protestos indevidos que configuram dano moral, passível de indenização - Configuração de dano moral "in re ipsa" - Precedentes do STJ - RECURSO DESPROVIDO.
+APELAÇÃO - DANO MORAL FIXAÇÃO Pretensão dos réus de que seja reduzido o valor fixado a título de indenização por dano moral Descabimento Valor fixado a título de indenização pelar. sentença(R$10.000,00) que se mostra adequado para compensar a lesão à imagem experimentada pela autora; estando, inclusive, de acordo com o patamar adotado em vários outros casos análogos, já julgados por esta Eg.13ª Câmara de Direito Privado RECURSO DESPROVIDO.
+Embargos de declaração rejeitados (fls. 988-994).
+No recurso especial, alega a recorrente afronta ao art. 44 do Código Civil, ao defender, em síntese, a improcedência da condenação por dano moral no caso, considerando a impossibilidade de atribuição de dano extrapatrimonial a ente despersonalizado, pois este não goza de personalidade jurídica para que se fale em lesão a sua honra objetiva.
+Sustenta que os Condomínios Edilícios, na qualidade de entes despersonalizados, não seriam titulares dos direitos inerentes à personalidade, daí a impossibilidade de configuração de dano moral in re ipsa, e que, diferentemente da pessoa jurídica, o condomínio é uma massa patrimonial despersonalizada e, por isso, não se pode reconhecer que tenha honra objetiva capaz de sofrer danos morais.
+Suscita, outrossim, divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.061-1.080).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.086-1.088), o que ensejou a interposição do presente agravo.
+Contraminuta ao agravo (fls. 1.107-1.126).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se na origem de ação de cancelamento de protesto cumulada com declaração de rescisão contratual e indenização por danos materiais e morais.
+O Tribunal a quo entendeu por procedente a condenação por danos morais a favor do condomínio ora recorrido, ao fundamento de que, no caso, o dano moral seria oriundo de protesto indevido e, portanto, se daria in re ipsa, assim o Condomínio possui direitos e responsabilidades similares às de uma pessoa jurídica, seria possível aplicar a Súmula n. 227/STJ, por analogia.
+Merece prosperar o recurso.
+Com efeito, nos termos da jurisprudência desta Corte, não há como reconhecer a existência de danos morais aos condomínios, tendo em vista serem entes despersonalizados, pois não são titulares das unidades autônomas, tampouco das partes comuns.
+Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MANDATO. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONDOMÍNIO. ENTE DESPERSONALIZADO. VIOLAÇÃO DA HONRA OBJETIVA. IMPOSSIBILIDADE. DANO MORAL NÃO CONFIGURADO. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte de Justiça se firmou no sentido de que não há como reconhecer a existência de danos morais aos condomínios, tendo em vista serem entes despersonalizados, pois não são titulares das unidades autônomas, tampouco das partes comuns, além de não haver, entre os condôminos, a affectio societatis, diante da ausência de intenção dos condôminos de estabelecerem, entre si, uma relação jurídica, sendo o vínculo entre eles decorrente do direito exercido sobre a coisa e que é necessário à administração da propriedade comum.
+2. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.474.116/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e afastar a condenação por danos morais, no caso dos autos.
+Nesse contexto, nos termos do art. 85, § 2º, do CPC, fixo os honorários em desfavor da parte recorrida em 10%, sobre o valor atualizado da condenação em danos morais, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. DUPLICATA. DANO MORAL . PROTESTO INDEVIDO. DANO MORAL IN RE IPSA A FAVOR DO CONDOMÍNIO. IMPOSSIBILIDADE DE RECONHECER A EXISTÊNCIA DE DANOS MORAIS AOS CONDOMÍNIOS NOS TERMOS DA JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
