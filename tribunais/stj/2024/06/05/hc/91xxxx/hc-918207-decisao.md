@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSÉ FRANCISCO DO MONTE SOARES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Amapá (HC n. 0003601-19.2024.8.03.0000).
+Depreende-se dos autos que o paciente foi condenado, em sentença proferida em 30/5/2024, pela prática do crime previsto no art. 2º, §§ 2º e 4º, IV, da Lei 12.850/2013 (lei que define organização criminosa), c/c o art. 1º, parágrafo único, da Lei n. 8.072/1990 (lei que dispõe sobre crime hediondo), cuja pena imposta fora de 05 (cinco) anos e 03 (três) meses de reclusão em regime semiaberto (e-STJ fls. 28/48). Na ocasião, foi-lhe vedado o direito de apelar em liberdade, mantida a custódia preventiva.
+Na origem, impetrou habeas corpus. O pleito liminar foi indeferido (e-STJ fls. 23/27).
+Nesta oportunidade, alega incompatibilidade da manutenção da prisão preventiva com o regime intermediário.
+Requer, liminarmente e no mérito, o direito de recorrer solto.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. VIOLAÇÃO DA CONTEMPORANEIDADE. NÃO CONSTATADO. RÉU FORAGIDO. CONDIÇÕES SUBJETIVAS FAVORÁVEIS. IRRELEVANTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. No caso, as circunstâncias inscritas nos autos compõem cenário que demonstra a imprescindibilidade da aplicação da prisão preventiva, dada a gravidade concreta da conduta e a evasão do distrito da culpa. Conforme os autos, o agravante teria comparecido ao aniversário da vítima sem ter sido convidado, saiu da festa e retornou na posse de uma arma de fogo, colocando-se atrás da residência da vítima e efetuado contra ela um disparo pelas costas. Após o crime, o agravante fugiu do distrito da culpa. Desse modo, a sequência de fatos indica a gravidade da conduta e o risco de reiteração delitiva, autorizadores da prisão preventiva.
+ ..
+5. agravo regimental desprovido.
+(AgRg no HC n. 881.121/PI, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. REVOGAÇÃO. PRISÃO PREVENTIVA. FLAGRANTE ILEGALIDADE, TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADA.
+1. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. A referida súmula somente pode ser superada em hipóteses de flagrante constrangimento ilegal, teratologia ou constatação de falta de razoabilidade.
+3. No presente caso, a prisão preventiva foi concretamente fundamentada, uma vez que o entorpecente foi encontrado fracionado em doze papelotes individualizados, o que, em tese, indica que era destinado à comercialização, bem como pesa contra o agravante condenação pretérita pela prática do crime de tráfico de drogas, de modo que, ainda que tenha ocorrido a prescrição da pretensão punitiva estatal em tal condenação, há demonstração de seu envolvimento com atividades ilícitas; além disso, consoante descrito no decreto prisional, foram encontrados, em poder do réu, "capa de colete balístico e máscaras de palhaço comumente utilizadas na prática de crimes de homicídio e de roubo para implicar temor e evitar reconhecimento facial", e "documentos pessoais de terceiros em regra depositados com traficante para fins de garantia do pagamento", tudo a justificar a prisão preventiva, ao menos em tese, haja vista a gravidade concreta da conduta.
+4. Não havendo ilegalidade flagrante apta a justificar a mitigação do enunciado da Súmula n. 691 do STF, o writ deve ser indeferido liminarmente.
+5. Agravo regimental improvido.
+(AgRg no HC n. 856.487/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Vale lembrar que a compreensão desta Casa é de não haver incompatibilidade entre a negativa do recurso em liberdade e a fixação do regime semiaberto, sendo apenas necessária a compatibilização da custódia com o regime imposto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. REGIME SEMIABERTO. COMPATIBILIDADE. GRAVIDADE CONCRETA DA HABITUALIDADE DELITIVA. CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+2. Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. Apoiado nessa premissa, verifica-se que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+4. Merecem destaque, nesse contexto, não apenas a grande quantidade de produtos e de apetrechos apreendidos, fatos que indicam habitualidade e gravidade concreta da conduta delitiva, como também a superveniência de sentença penal condenatória.
+5. Com efeito, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022). No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+6. Agravo regimental não provido.
+(AgRg no HC n. 905.043/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024, sublinhei.)
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+A questão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte Superior impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
