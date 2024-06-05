@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pela UNIÃO contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ e ausência de violação ao art. 1022 do CPC.
+Alega a parte agravante que "não se trata de valoração da prova, nem de reexame de matéria de prova, mas, sim, de verificação de qual Lei é incidente no caso concreto e da sua interpretação, ao caso em questão.  ..  Aliás, não se requer novo exame ou "produção" de provas, e nem o seu "reexame" no sentido que não é admitido, em sede de recurso excepcional, pela doutrina e jurisprudência (conforme Súmulas 279 do STF e 7 do STJ), mas sim a verificação se a Lei "incidente" ao caso concreto foi corretamente identificada e aplicada pelo Tribunal a quo" (fls. 3306).
+Defende que "merece apreciação o recurso especial da União no ponto relativo à violação ao art. 1022 do CPC, eis que sonegada a prestação jurisdicional no tocante aos dispositivos legais que a União elencou como omissos e da matéria a eles correlata" (fls. 3311).
+Contrarrazões apresentadas às fls. 3334/3339.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+Quanto à alegada violação ao art. 1.022, II, do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+A propósito, na forma da jurisprudência, "não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016 " (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Há que se pontuar, adicionalmente, que, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do recurso e special, pela Súmula 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. ARGUIÇÃO DE AUSÊNCIA DE INTERESSE PROCESSUAL. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ACÓRDÃO COM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. MATÉRIA INSUSCETÍVEL DE ANÁLISE EM RECURSO ESPECIAL.
+ ..
+2. No mais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido (AgInt no AREsp n. 2.241.284/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+Isso posto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
