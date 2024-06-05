@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE SERRA - ES, figurando como suscitado o JUÍZO DE DIREITO DA 27ª VARA CÍVEL DE RECIFE - PE, nos autos da autos ordinária de indenização por danos morais e materiais ajuizada por Adezilda de Oliveira Moreira contra o Banco do Brasil, decorrentes da revisão de valores depositados na conta PASEP.
+O JUÍZO DE DIREITO DA 27ª VARA CÍVEL DE RECIFE - PE reconheceu, de ofício, a sua incompetência territorial, remetendo os autos para o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE SERRA - ES, consignando que (fls. 41-44):
+09. Em se tratando de competência territorial, o CPC prevê sua fixação, como regra geral, no foro do domicilio do réu, admitindo, contudo, vários outros possíveis foros competentes, a exemplo do foro de domicílio do autor, da situação do bem, do cumprimento da obrigação, de eleição contratual.
+10. In casu, verifico que a presente ação ordinária foi proposta sem observância de qualquer das regras legais a respeito da competência territorial e, a rigor, não vislumbro motivo para sua propositura perante este Juízo, eis que não atende aos interesses de qualquer das partes nem facilita a defesa dos direitos dos litigantes em juízo.
+11. Com efeito, a parte autora não tem domicílio em Recife, mas sim em Salvador - BA, e a parte ré, por sua vez, tem domicílio em Brasília - DF e agências em todo território nacional, podendo ser demandada em seu domicílio ou onde mantém as referidas agências.
+12. Logo, é de se ver que a parte autora escolheu, de forma aleatória, a comarca do Recife, porquanto poderia propor a presente demanda em Brasília ou no seu domicílio, ferindo os princípios do contraditório e do juiz natural, constitucionalmente consagrados.
+13. Cumpre destacar que o juiz natural é uma garantia consentânea com um sistema jurídico preocupado com a imparcialidade na aplicação do direito e, assim, à parte não cabe direcionar a propositura da ação para onde bem entender, mas dentro dos pressupostos objetivos previamente estabelecidos por lei para distribuição interna da competência.
+14. Acerca do tema registre-se que a jurisprudência admite, inclusive, que a competência territorial seja declinada de ofício quando a escolha do autor da demanda ocorrer de maneira aleatória, desprovida de qualquer justificativa plausível, senão vejamos:
+ ..
+16. Saliento, por fim, que a solução, além de ser mais benéfica à defesa dos direitos da parte autora em juízo, provavelmente não Impõe maiores dificuldades para defesa do banco réu, que possui agência no local do domicílio da parte autora. Aliás, esse tem sido o argumento utilizado pelo próprio Banco do Brasil em lides semelhantes, quando argui exceção de incompetência na sua peça contestat6ria, pugnando pela definição da competência no foro do domicílio da autora.
+17. Diante do exposto, reconheço a incompetência deste Juízo para processar e julgar a lide, declinando de ofício da competência para o Juízo de Direito da Comarca onde o(a) autor(a) é domiciliado(a), qual seja, Serra/ES.
+O JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE SERRA - ES, por sua vez, suscitou o conflito de competência, anotando que (fl. 4):
+Pois bem. Não havendo legislação especial aplicável ao caso, devem ser observados os preceitos de competência previstos no Código de Processo Civil.
+O diploma legal, em seu art. 46, preleciona que a ação fundada em direito pessoal ou real sobre bens móveis será proposta, em regra, no foro de domicílio do réu; e quando este possuir mais de um domicílio, poderá ser demandado em qualquer deles (parágrafo único).
+A competência em questão é territorial e possui natureza relativa, não podendo, portanto, ser conhecida de ofício pelo Juízo. Deve, na realidade, ser arguida pelo réu na contestação, sob pena de preclusão e prorrogação:
+Súmula n. 33, STJ. A incompetência relativa não pode ser declarada de oficio.
+Art. 64. A incompetência, absoluta ou relativa, será alegada como questão preliminar de contestação.
+Art. 65. Prorrogar-se-á a competência relativa se o réu não alegar a incompetência em preliminar de contestação.
+No caso concreto, porém, não houve qualquer provocação do réu e a questão afeta à territorialidade foi levantada de ofício pela magistrada, o que não se admite.
+Ao contrário do defendido pelo juízo anterior, a autora não optou aleatoriamente pela Comarca de Recife. O banco requerido possui agências em todo o território nacional e, sendo assim, pode ser demandado em qualquer local que estas se situem, inclusive em Recife, local indicado como seu domicílio na inicial (fls. 02). A própria requerente registrou que o ajuizamento na capital pernambucana lhe era mais benéfico, pois foi onde ocorreu a contratação dos patronos (fls. 270/272).
+Sendo assim, não há que se falar em ofensa ao princípio do juiz natural ou em incompetência territorial da Seção B da 27ª Vara Cível de Recife/PE.
+Por consequência, inexiste motivo para o processamento e julgamento do feito no presente juízo, sendo de rigor a suscitação do conflito negativo de competência.
+Ante o exposto, na forma do art. 64, § 1º do CPC, reconheço a incompetência deste juízo para o processamento e julgamento da presente ação, e, por entender estar o pleito ora deduzido submetido à competência da Seção B da 27ª Vara Cível de Recife/PE, para a qual a demanda foi originalmente distribuída, suscito conflito negativo de competência ao Colendo Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo suscitado, consoante parecer (fls. 58-64) assim ementado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL DE SERRA/ES E JUSTIÇA ESTADUAL DE RECIFE/PE. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PASEP. BANCO DO BRASIL. AÇÃO AJUIZADA POR CONSUMIDOR NO LOCAL EM QUE A INSTITUIÇÃO FINANCEIRA POSSUI AGÊNCIA. COMPETÊNCIA TERRITORIAL QUE NÃO PODE SER DECLINADA DE OFÍCIO. SÚMULA 33/STJ. COMPETÊNCIA DO JUÍZO SUSCITADO. PARECER PELO CONHECIMENTO DO CONFLITO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 27ª VARA CÍVEL DE RECIFE - PE, O SUSCITADO.
+É o relatório.
+Decido.
+Assiste razão ao Juízo suscitante.
+É pacífica a jurisprudência desta Corte Superior no sentido da impossibilidade de haver declínio de competência territorial - relativa, portanto -, de ofício, pelo Juízo, sem provocação das partes. Nesse sentido, é a literalidade da Súmula n. 33 do STJ, in verbis: "A incompetência relativa não pode ser declarada de oficio".
+No mesmo diapasão, o parecer ministerial (fls. 61-63):
+A ação foi proposta perante o d. Juízo de Direito da 27ª Vara Cível de Recife - PE, que determinou a intimação da Autora para esclarecer as razões pelas quais propôs a ação na comarca de Recife/PE, e após o atendimento da providência, informando que o ajuizamento naquela comarca lhe era mais benéfico, declinou de sua competência para o Juízo de Direito da 6ª Vara Cível de Serra - ES.
+No caso concreto, a competência em debate é de natureza territorial, portanto, relativa, sendo incabível a sua declaração de ofício, aplicando-se ao caso a orientação contida na Súmula nº 33/STJ, apenas podendo ser alterada caso a parte ré apresente, a tempo e modo oportunos, exceção de incompetência (CPC, art. 64).
+Nesse sentido, "a competência territorial é matéria que gera nulidade relativa, não devendo ser reconhecida de ofício, mas arguida em momento oportuno, sob pena de operar-se a preclusão" (AgRg no AREsp n. 240.812/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/9/2015, DJe 15/10/2015).
+Esse é o entendimento dessa Colenda Corte Superior de Justiça.
+Confira-se:
+ ..  (CC n. 204.746, Ministro Sérgio Kukina, DJe de 08/05/2024. G. N.)
+Ante o exposto, este Parquet Federal manifesta-se pelo conhecimento do
+conflito para declarar competente o Juízo de Direito da 27ª Vara Cível de Recife - PE, o suscitado.
+Corrobora o entendimento, o seguinte julgado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ELEIÇÃO DO FORO. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. DECLÍNIO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33 DO STJ. CONFLITO CONHECIDO PARA DECLARAR O JUIZ DE DIREITO SUSCITADO COMPETENTE PARA O PROCESSAMENTO DO FEITO.
+1. A jurisprudência deste Superior Tribunal de Justiça pacificou que a competência territorial é relativa, sendo restrito às partes a possibilidade de questionamento acerca da (in)competência do juízo onde for proposta a ação, descabendo ser declarada de ofício.
+2. Ainda que assim não o fosse, o autor da ação tem a discricionariedade de eleger, dentro das limitações legais, o foro que melhor atender seus interesses, motivo pelo qual, no caso dos autos, tendo a parte escolhido a sede da pessoa jurídica demandada como foro para o ajuizamento da ação - art. 53, III, a, do Código de Processo Civil - não há que falar em escolha aleatória de foro que justifique o declínio de ofício pelo magistrado, cabendo ao réu, caso entenda ser o caso, apresentar exceção de incompetência.
+3. Conflito conhecido para declarar o Juiz de Direito da 3ª Vara Cível de Brasília - DF, ora suscitado, competente para o processamento do feito.
+(CC n. 194.898/TO, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 24/4/2024, DJe de 26/4/2024; sem grifos no original.)
+Ante o exposto, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 27ª VARA CÍVEL DE RECIFE - PE, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL DE SERRA-ES E JUSTIÇA ESTADUAL DE RECIFE-PE. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PASEP. BANCO DO BRASIL. AÇÃO AJUIZADA NO LOCAL EM QUE A INSTITUIÇÃO FINANCEIRA POSSUI AGÊNCIA E ESTÁ O ESCRITÓRIO DE ADVOCACIA CONTRATADO PELA AUTORA. COMPETÊNCIA TERRITORIAL, QUE NÃO PODE SER DECLINADA DE OFÍCIO. SÚMULA N. 33 DO STJ. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 27ª VARA CÍVEL DE RECIFE - PE, O SUSCITADO.
