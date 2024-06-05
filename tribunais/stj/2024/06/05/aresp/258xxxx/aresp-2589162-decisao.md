@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELENICE MARIA BORGES e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE ALONGAMENTO DE DÍVIDA - COMPOSIÇÃO DE DÍVIDAS RURAIS - REQUISITOS LEGAIS NÃO PREENCHIDOS - DIREITO AO ALONGAMENTO NÃO RECONHECIDO. Não comprovando os devedores o preenchimento de todos os requisitos exigidos para a obtenção do alongamento da dívida rural como pretendido, não há como reconhecer o direito ao benefício pretendido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 369 do CPC, no que concerne à configuração de cerceamento de defesa em razão da negativa de produção de prova pericial para a comprovação do direito pleiteado, trazendo a seguinte argumentação:
+Nos termos do art. 369 do CPC, as partes tem o direito de empregar todos os meios legais para provar a verdade dos fatos em que se funda o pedido
+ ..
+No presente caso, o principal pedido autoral é a prorrogação dos vencimentos dos contratos rurais firmados perante o banco recorrido, com fundamento na legislação rural vigente e no entendimento constante da Súmula 298 do STJ, em razão da frustração de sua atividade rural.
+ ..
+Nesse sentido, os recorrentes visavam produzir prova pericial agronômica para fins de comprovar seu direito à prorrogação dos contratos firmados em virtude da frustração de suas safras e o consequente comprometimento de sua capacidade de pagamento.
+De fato, o pedido de prova pericial agronômica constou expressamente da petição de Especificação de Provas.
+Contudo, verifica-se dos autos que o pedido de prova pericial formulado pela autora foi indeferido pelo Juízo de 1ª Instância.
+ ..
+Como se observa pelo excerto abaixo, extraído da sentença proferida nos autos, o d. juízo de origem, após indeferir a produção de prova agronômica, também indeferiu o pedido de prorrogação do financiamento rural por julgar que os recorrentes não teriam comprovado os requisitos para a sua obtenção, ou seja, pela ausência de provas:
+ ..
+Portanto, ao decidir a respeito do pleito de prorrogação, o juízo de origem decidiu por indeferi-lo, justamente por julgar que os recorrentes não teriam preenchido os requisitos legais necessários ao deferimento do alongamento da dívida.
+Ocorre que, conforme exposto em sede Recurso de Apelação, a sentença proferida nos autos incorreu em grave vício vez que o preenchimento dos requisitos legais necessários ao deferimento do alongamento da dívida seria comprovado justamente através da prova pericial agronômica que os recorrentes pretendiam produzir nos autos!!
+Assim, não foi oportunizado aos recorrentes a produção de prova essencial com o escopo de comprovar a frustração de sua atividade rural, de maneira a justificar o pleito de prorrogação.
+ ..
+Contudo, em sede de julgamento do recurso de apelação, os i. Desembargadores do E. TJMG mantiveram a sentença de origem, negando que o indeferimento da prova pericial acarretaria em cerceamento de defesa, e, em seguida, argumentando que os recorrentes não teriam produzido provas suficientes para comprovar o preenchimento dos requisitos para a obtenção da prorrogação do financiamento rural, mantendo-se assim o vício constante da sentença proferida nos autos, in verbis:
+ ..
+Isso porque o art. 369 do CPC é claro no sentido de que as partes tem o direito de empregar todos os meios legais para provar a verdade dos fatos em que se funda o pedido, de maneira que, entendendo o juízo que a prova documental juntada aos autos não era suficiente para comprovar a frustração da atividade rural dos recorrentes, deveria haver oportunizado aos mesmos a produção das demais provas requeridas que poderiam comprovar seus direitos, ao invés de simplesmente indeferir o pedido com fundamento na ausência de provas.
+Até porque, as circunstâncias que acarretaram na crise da atividade rural dos recorrentes, em especial a quebra da safra de grãos, é passível de demonstração através de prova pericial (fls. 1.317/1.319).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A questão é que o destinatário da prova é o próprio Magistrado, condutor da instrução, e a decisão sobre a necessidade e utilidade da sua realização cabe somente a ele, que, valendo-se do seu livre convencimento e analisando o caso concreto, decidirá sobre a conveniência ou não da sua concretização.
+Apesar de a produção de prova ser uma garantia aos princípios constitucionais do contraditório e da ampla defesa, certo é que cabe ao Magistrado evitar que o processo se transforme em infindáveis diligências inúteis que somente promoveriam a onerosidade e o retardamento da prestação jurisdicional.
+No caso específico em apreço, a Magistrada de 1º Grau entendeu que a produção de prova pericial não seria possível, tendo em vista que a demanda está embasada na suposta frustração da safra ocorrida nos anos de 2013/2014 e 2014/2015.
+De fato, se a parte tinha a intenção de comprovar por meio da perícia os supostos prejuízos que teve em suas lavouras nos anos de 2013/2014 e 2014/2015, conforme justificativa constante na petição de id 89119021, a referida prova não seria possível de ser realizada, devido ao significativo período transcorrido entre a suposta frustração da safra e a realização da prova técnica (fls. 1.306).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
