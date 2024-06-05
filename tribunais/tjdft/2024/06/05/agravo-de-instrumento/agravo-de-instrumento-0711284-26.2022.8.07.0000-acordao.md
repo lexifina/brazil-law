@@ -1,0 +1,93 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0711284-26.2022.8.07.0000AGRAVANTE(S)MARGARIDA DEZIDERIO RAMOS e MARCONI MEDEIROS MARQUES DE OLIVEIRAAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador CARLOS PIRES SOARES NETO
+ Acórdão Nº1873914
+
+EMENTA
+
+ PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REJULGAMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUXÍLIO ALIMENTAÇÃO. TEMA N. 1.170. REPERCUSSÃO GERAL. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. AUSÊNCIA DE OFENSA À COISA JULGADA. RECURSO CONHECIDO E PROVIDO.
+
+1. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso.
+
+2. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio ‘tempus regit actum’.
+
+3. Em apreciação do tema o Supremo Tribunal Federal, no julgamento do RE 1.317.982 (Tema 1.170), fixou a seguinte tese: É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.
+
+4. Recurso conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARLOS PIRES SOARES NETO - Relator, CARLOS ALBERTO MARTINS FILHO - 1º Vogal e TEÓFILO CAETANO - 2º Vogal, sob a Presidência do Senhor Desembargador CARLOS PIRES SOARES NETO, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PROVIMENTO, EM REJULGAMENTO. DECISÃO UNÂNIME. , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 13 de Junho de 2024
+
+Desembargador CARLOS PIRES SOARES NETOPresidente e Relator
+
+RELATÓRIO
+
+Cuida-se de rejulgamento de agravo de instrumento interposto pelos exequentes, MARGARIDA DEZIDERIO RAMOS e MARCONI MEDEIROS MARQUES DE OLIVEIRA contra a r. decisão (ID nº 118658892, autos de origem) proferida pelo d. Juízo da 6ª Vara de Fazenda Pública do Distrito Federal, que, no cumprimento individual de sentença coletiva nº 0709098-10.2021.8.07.0018 requerido contra o DISTRITO FEDERAL, rejeitou a impugnação ao cumprimento de sentença.
+
+Nas razões recursais (ID 34344219), os agravantes alegam, em síntese, que o entendimento do d. Juízo de origem não deve prosperar. Afirmam que é equivocada a aplicação do Tema 733 para afastar a incidência do que foi decidido no RE 870.947 e na ADI 5348.
+
+Alegam que a correção monetária traduz questão de ordem pública, razão pela qual qualquer alteração relativa ao regime monetário terá incidência imediata e alcançará situações jurídicas em curso e formação ou de execução.
+
+Asseveram que não se pode aplicar a Taxa Referencial (TR) como parâmetro de correção monetária nos débitos da Fazenda Pública, uma vez que o Supremo Tribunal Federal declarou sua inconstitucionalidade, devendo ser substituída pelo IPCA-E, conforme definido pelo STF e pelo Superior Tribunal de Justiça no julgamento dos Temas 810 e 905.
+
+Requerem a concessão de efeito suspensivo ao presente recurso, objetivando determinar ao Juízo de origem que remeta os autos à contadoria judicial, para fins de aplicação, a partir de 30/6/2009, do IPCA-E como índice de correção monetária em substituição a TR, afastando-se ou invertendo-se, em qualquer hipótese, os consectários da sucumbência, o que pretende ver confirmado no mérito.
+
+Preparo recolhido (ID 34344221).
+
+O pedido liminar foi indeferido (ID 34450510).
+
+Contrarrazões com pedido de suspensão do feito, sob o argumento de que a aplicação da TR fixada em decisão transitada em julgado é objeto do Tema 1.170 do STF (ID 49145045).
+
+Por ocasião do primeiro julgamento, foi proferido o acórdão nº 1434966 (ID 37038301), que negou provimento ao recurso, restando assim ementado:
+
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CORREÇÃO MONETÁRIA. ÍNDICE FIXADO EM ACÓRDÃO TRANSITADO EM JULGADO. MODIFICAÇÃO. IMPOSSIBILIDADE. COISA JULGADA. SEGURANÇA JURÍDICA. TEMA 733/STF. TEMA 810/STF. 1. A despeito do entendimento firmado pelo colendo Supremo Tribunal Federal por ocasião do julgamento do Recurso Extraordinário n. 870.947/SE e da Ação Direta de Inconstitucionalidade n. 5348, as alterações havidas na jurisprudência e as teses firmadas subsequentemente não podem alcançar a coisa julgada aperfeiçoada, de modo que somente é aplicável aos casos ainda pendentes de julgamento. 2. Na oportunidade do julgamento do Recurso Extraordinário n. 730.462/SP (Tema 733/STF), o colendo Supremo Tribunal Federal, estabeleceu que a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495).
+
+2.1. O Tema 733 do colendo Supremo Tribunal Federal, envolve a discussão a respeito da possibilidade de aplicação de precedente no qual foi reconhecida a inconstitucionalidade de preceito normativo, a cumprimento de sentença que já se encontrava transitada em julgado. 2.2. Na oportunidade do julgamento dos embargos de declaração opostos contra o acórdão exarado nas demandas afetas ao Tema 810, o colendo Supremo Tribunal Federal, nos termos do voto condutor do acórdão prolatado, deixou assinalado a necessidade de preservação da coisa julgada, como corolário do princípio da segurança jurídica. 3. No caso concreto, o fato de a incidência de correção monetária envolver matéria de ordem pública não permite a modificação dos parâmetros fixados no título executivo transitado em julgado. 3.1. Delineados os contornos do título judicial e esclarecidos os critérios a serem aplicados para a recomposição monetária dos valores da condenação, deve o cumprimento de sentença observar fielmente os termos do que foi decidido, sob pena de ofensa à coisa julgada e à segurança jurídica. 3.2. Evidenciado que, no título judicial constituído na ação coletiva, foi determinada a observância das disposições contidas na Lei nº 11.960/2009, para fins de incidência da correção monetária sobre o montante da condenação, mostra-se inviabilizada a aplicação do IPCAE para este fim, devendo ser prestigiada a coisa julgada, com a aplicação da TR, a partir de partir de 28/06/2009. 4.Agravo de Instrumento conhecido e não provido.
+
+Rejeitados os embargos de declaração opostos por MARGARIDA DEZIDERIO RAMOS E OUTRO no ID 37560407, tendo a 1ª Turma Cível assim decidido:
+
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CORREÇÃO MONETÁRIA. ANÁLISE ACERCA DA POSSIBILIDADE DE SUBSTITUIÇÃO DA TR PELO IPCA-E. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO. RECURSO MANIFESTAMENTE PROTELATÓRIO. MULTA. APLICAÇÃO. ARTIGO 1.026, § 2º, DO CPC. 1. Os embargos de declaração, na forma prevista no art. 1.022 do Código de Processo Civil, têm por finalidade integrar ou aclarar pronunciamento judicial de cunho decisório, sanando obscuridade, contradição ou omissão que eventualmente esteja caracterizada no decisum impugnado. 2. Observado, no caso concreto, que o egrégio Colegiado, por ocasião do julgamento do agravo de instrumento, dirimiu a controvérsia recursal nos limites da matéria debatida pelas partes litigantes, inclusive quanto às teses que fundamentam a pretensão de alteração dos parâmetros de correção monetária fixados no título executivo transitado em julgado, tem-se por não caracterizada a omissão alegada. 2.1. Não estando configuradas as omissões apontadas pela parte embargante, não há razão para que seja dado provimento aos embargos de declaração. 3. Por certo, a mera insatisfação dos embargantes com o entendimento firmado pelo colegiado não justifica a oposição de embargos de declaração, com o intuito de obter efeitos infringentes, tendo em vista que, para este fim, o Código de Processo Civil prevê o cabimento de recursos específicos. 4. Ainda que interpostos com intuito apenas de prequestionar a matéria a fim de viabilizar a interposição de recurso aos Tribunais Superiores, os embargos de declaração não podem ser providos quando ausentes as hipóteses elencadas no art. 1.022 do Código de Processo Civil. 4.1. Conforme dicção do artigo 1.025 do Código de Processo Civil, a oposição de embargos de declaração, com observância dos limites previstos no art. 1.022 do Código de Processo Civil, já se mostra apta a ensejar o prequestionamento necessário para viabilizar a interposição dos Recursos Especial e Extraordinário. Precedentes. 5. Consideram-se como manifestamente protelatórios os embargos de declaração opostos sem que sejam apontados, de modo claro e consistente, quaisquer dos defeitos previstos no artigo 1.022 do Código de Processo Civil, prolongando indevidamente a conclusão da demanda e distorcendo o intento do recurso. Precedentes. 5.1. Constatado que os embargos de declaração opostos têm o evidente objetivo de rediscutir matéria já decidida por esta Corte, desvirtuando a finalidade do citado recurso, resta evidente o seu intuito manifestamente protelatório, ensejando, portanto, a aplicação da multa prevista no artigo 1.026, §2º, do Código de Processo Civil. 6. Embargos de declaração conhecidos e não providos. Aplicada a multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+
+Interposto recurso especial e extraordinário por MARGARIDA DEZIDERIO RAMOS (IDs 40832637 e 40832643), o Presidente desta Corte proferiu o despacho de ID 55227253, determinando nova apreciação do agravo de instrumento, tendo em vista suposta divergência entre o acórdão do primeiro julgamento e o que restou decidido pelo STF no julgamento do RE 1.317.982/ES, sob o rito da repercussão geral (Tema 1.170), acerca do índice de atualização monetária, restando assim ementado:
+
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1º-F, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum . 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (Rel. Ministro NUNES MARQUES, DJe 8/1/2024).
+
+Oportuna ainda a transcrição do seguinte trecho extraído do voto condutor do paradigma:
+
+(...) Por fim, colho da jurisprudência recente do Supremo várias decisões a determinarem a aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária (RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Cármen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414, ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021). (agn..).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador CARLOS PIRES SOARES NETO - RelatorPresentes os pressupostos de admissibilidade, conheço do recurso.
+
+Em observância à determinação do Presidente desta Corte, procedo ao rejulgamento do agravo de instrumento, nos termos do artigo 1.030, II, do CPC1.
+
+Inicialmente, cabe destacar que a matéria a ser rejulgada se circunscreve ao índice a ser observado para a correção monetária.
+
+Reproduzo a ementa do acórdão de julgamento do referido Tema nº 1.170:
+
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1º-F, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum . 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (Rel. Ministro NUNES MARQUES, DJe 8/1/2024).
+
+Oportuna ainda a transcrição do seguinte trecho extraído do voto condutor do paradigma:
+
+(...) Por fim, colho da jurisprudência recente do Supremo várias decisões a determinarem a aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária (RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Cármen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414, ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021). (agn..).
+
+ Assim, conforme entendimento firmado pelo STF, inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum.
+
+Logo, merece reforma a decisão agravada quanto a determinação de que a correção monetária seja calculada com base nos parâmetros fixados no título executivo, para que na atualização dos cálculos aplique-se o índice IPCA-E, em observância ao Tema 810 do STF.
+
+Ante o exposto, em sede de rejulgamento, CONHEÇO DO RECURSO e DOU-LHE PROVIMENTO para reformar a decisão agravada, a fim de que se observe na elaboração dos cálculos se observe as decisões posteriores do Supremo Tribunal Federal quanto ao índice de correção monetária, qual seja, a Corte Especial do Superior Tribunal de Justiça assentou a compreensão de que a alteração do artigo 1º-F da Lei 9.494/1997, introduzida pela Medida Provisória 2.180-35/2001, tem aplicação imediata aos processos em curso, incidindo o princípio do tempus regit actum.
+
+É como voto.
+O Senhor Desembargador CARLOS ALBERTO MARTINS FILHO - 1º Vogal Com o relatorO Senhor Desembargador TEÓFILO CAETANO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PROVIMENTO, EM REJULGAMENTO. DECISÃO UNÂNIME.
