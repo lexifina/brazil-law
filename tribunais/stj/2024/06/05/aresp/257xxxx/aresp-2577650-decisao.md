@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por L PRIORI EMPREENDIMENTOS LTDA. (L PRIORI) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, L PRIORI alegou, a par de divergência jurisprudencial, a violação dos arts. 1.022, II, do CPC; e 422 e 884 do CC, ao sustentar (1) omissão do acórdão recorrido acerca das questões suscitadas em embargos de declaração; (2) o descabimento da cobrança de lucros cessantes se já havia previsão de multa contratual para a hipótese de inadimplemento da construtora; e (3) subsidariamente, que o pagamento a título de aluguéis tenha por termo final a data da distribuição da presente ação, por ser o momento em que os promitentes compradores manifestaram o desejo inequívoco de rescindir o contrato.
+(1) Da violação do art. 1.022, II, do CPC
+Nas razões do recurso especial, L PRIORI sustentou, preliminarmente, omissão do acórdão recorrido acerca das questões suscitadas em embargos de declaração.
+Verifica-se que, apesar de apontar a negativa de prestação jurisdicional, o insurgente não indicou, precisamente, quais seriam os vícios perpetrados pela Corte estadual, ou seja, não especificou os pontos omissos ou contraditórios do aresto combatido, limitando-se a afirmar que o Tribunal local não teria apreciado os pontos invocados nas razões do seu apelo.
+Sendo assim, inviável a análise de violação aos referidos dispositivos processuais, pois a veiculação do inconformismo de forma genérica, sem a especificação dos pontos reputados omissos, obscuros ou contraditórios no julgamento do aresto combatido, inviabiliza a compreensão da controvérsia, atraindo, no particular, a incidência da Súmula nº 284 do STF, por analogia.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO DEMONSTRADA. OCORRÊNCIA. DIREITO DE REGRESSO. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS. ENUNCIADO 284 DA SÚMULA. MULTA DO ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015. CARÁTER PROTELATÓRIO. INEXISTÊNCIA. AFASTAMENTO. PARCIAL PROVIMENTO.
+1. O agravante limitou-se a mencionar, genericamente, que houve omissão sem, contudo, esclarecer os pontos sobre os quais o Tribunal de origem foi omisso, atraindo o óbice do enunciado 284 da Súmula do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Não houve indicação dos dispositivos legais que teriam sido interpretados de forma divergente, o que faz incidir, no ponto, o enunciado 284 da Súmula do STF.
+4. Não identificado o caráter protelatório dos embargos de declaração ou o abuso da recorrente pela sua oposição, impõe-se o afastamento da multa processual, nos termos do enunciado 98 da Súmula do STJ.
+5. Agravo interno parcialmente provido.
+(AgInt no AREsp nº 1.493.638/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 11/5/2020, DJe de 18/5/2020 - sem destaque no original.)
+(2) Da cobrança de lucros cessantes
+Por sua vez, defendeu a impossibilidade da condenação por lucros cessantes, se já havia previsão de multa contratual para a hipótese de inadimplemento da construtora.
+Tendo sido reconhecido o atraso na entrega do emprendimento, o TJPE passou a analisar o pedido de indenização, consignando, quanto à imposição do pagamento a título de lucros cessantes, o que se segue:
+Com relação ao mérito é incontroverso que houve atraso na obra, configurando mora da apelante. O contrato tinha data de entrega em 11 de maio de 2016, com prazo de tolerância de 180 dias que se expirou em 11 de novembro de 2016, ocorre que até a data da propositura do recurso ainda não ocorreu a entrega. Em havendo atraso na obra é possível a extinção do contrato, que se dará por resolução por inadimplemento. O atraso no andamento da obra caracteriza o inadimplemento substancial do contrato antes mesmo do fim do prazo convencionado para a entrega do imóvel. Nessa hipótese, o comprador pode pedir a rescisão contratual e receber adevolução dos valores pagos, independentemente inclusive de notificação prévia.
+ ..
+Diante da mora por culpa da apelante, fazem jus os apelados à indenização por lucro cessante, nos moldes postos na sentença, uma vez que os apelados poderiam no mínimo ter colhidos frutos civis (aluguel) da unidade imobiliária adquirida (e-STJ, fl. 259).
+O entendimento firmado acima está em sintonia com a jurisprudência da Segunda Seção do STJ, firmada sob a sistemática dos recursos repetitivos, no julgamento do REsp nº 1.635.428/SC (Tema 970), no sentido de que é possível a cobrança de lucros cessantes, desde que não haja cumulação com a cláusula penal prevista para o descumprimento do contrato.
+Confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. CLÁUSULA PENAL MORATÓRIA. NATUREZA MERAMENTE INDENIZATÓRIA, PREFIXANDO O VALOR DAS PERDAS E DANOS. PREFIXAÇÃO RAZOÁVEL, TOMANDO-SE EM CONTA O PERÍODO DE INADIMPLÊNCIA. CUMULAÇÃO COM LUCROS CESSANTES. INVIABILIDADE.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.
+2. No caso concreto, recurso especial não provido.
+(REsp n. 1.635.428/SC, relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado aos 22/5/2019, DJe de 25/6/2019.)
+Incide à hipótese o comando da Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+(3) Do termo final dos lucros cessantes
+Subsidiariamente, defendeu que o pagamento de aluguéis tenha por termo final a data da distribuição da ação, por ser o momento em que os promitentes compradores manifestaram o desejo inequívoco de rescindir o contrato.
+No ponto, a Corte estadual adotou como razão de decidir os fundamentos lançados na sentença, no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por danos emergentes/lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+Sob esse enfoque, condenou a ora insurgente ao pagamento de indenização, cuja quantificação deve ter como parâmetro o valor que a parte autora deixou de auferir a título de frutos que seriam obtidos do imóvel, no valor mensal equivalente aos alugueis praticados na região para imóveis análogos aos do objeto da presente ação, "desde a data de 11/11/2016 (data essa obtida pelo acréscimo, à data prevista para entrega, 11/5/2016, dos 6 meses de tolerância contratual) até a data da efetiva entrega das chaves do apartamento aos autores ou, em não ocorrendo tal situação, até a data da prolação da presente sentença" (e-STJ, fl. 143).
+Verifica-se que o acórdão recorrido encontra-se em sintonia com o entendimento desta Corte sobre a matéria, não comportanto, por isso, nenhum reparo.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO DE CONTRATO. LUCROS CESSANTES. CABIMENTO. BASE DE CÁLCULO. ALUGUEIS. PERÍODO. DECRETAÇÃO DA RESCISÃO.
+1. "Nos termos da jurisprudência do Superior Tribunal de Justiça, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo essa cabível mesmo em caso de rescisão contratual. Precedentes" (AgInt no REsp n. 1.940.290/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 2/6/2022).
+2. No caso de inadimplemento contratual por atraso na entrega de imóvel, os lucros cessantes são presumidos e devem ser calculados com base no valor dos alugueres que o comprador deixaria de pagar ou no valor médio dos alugueres que o imóvel poderia ter rendido, se tivesse sido entregue na data contratada. Precedentes.
+3. "Devido à natureza desconstitutiva da decisão que decreta a rescisão contratual, os lucros cessantes incidem até a data de prolação da sentença, cujo valor deve ser corrigido até o efetivo pagamento" (EDcl no AgInt no REsp n. 1.723.050/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 24/9/2019).
+Agravo interno provido em parte.
+(AgInt no REsp nº 1.939.463/SP, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado aos 18/3/2024, DJe de 20/3/2024 - sem destaque no original.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. ALEGADA OBSCURIDADE. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. In casu, cuida-se de compromisso de compra e venda rescindido judicialmente por culpa do promitente-vendedor, existindo obscuridade no acórdão embargado ao atrelar o termo final dos lucros cessantes à data de entrega das chaves, considerando a rescisão do referido contrato. Para sanar tal vício, os aclaratórios merecem parcial acolhida para estabelecer que, devido à natureza desconstitutiva da decisão que decreta a rescisão contratual, os lucros cessantes incidem até a data de prolação da sentença, cujo valor deve ser corrigido até o efetivo pagamento.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgInt no REsp nº 1.723.050/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 20/8/2019, DJe de 24/9/2019 - sem destaque no original.)
+Incide, à hipótese, o comando da Súmula nº 83 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. ATRASO NA ENTREGA DA OBRA. (1) VIOLAÇÃO DO ART. 1.022 DO CPC. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. (2) COBRANÇA DE LUCROS CESSANTES. POSSIBILIDADE, DESDE QUE NÃO CUMULADA COM MULTA CONTRATUAL. TEMA Nº 970 DO STJ. SÚMULA Nº 568 DO STJ. (3) TERMO FINAL DO PAGAMENTO. DATA DA PROLAÇÃO DA SENTENÇA. SÚMULA Nº 83 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
