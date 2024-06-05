@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  ADEONIR PAULO  FERNANDES  COELHO  apontando  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  RIO  GRANDE  DO  SUL  (Apelação  n.  5004544-64.2023.8.21.0038).
+Os  autos  dão  conta  de  que  o  paciente  foi  condenado,  como  incurso  nas  sanções  do  art.  24-A  da  Lei  n.  11.340/2006,  praticado  por  seis  vezes  entre  os  dias  3  e 9/5/2023,  na  forma  do  art.  71  do  Código  Penal,  agravado  pelo  art.  61,  II,  "h",  e  atenuado  pelo  art.  65,  III,  "d",  ambos  mesmo  Diploma  Legal,  à  pena  de  7  meses  e  15  dias  de  detenção,  em  regime  inicial  aberto  (e-STJ  fls.  52/62).
+O  Tribunal  de  origem  negou  provimento  ao  apelo  defensivo,  nos  termos  do  acórdão  assim  ementado  (e-STJ  fl.  518):
+APELAÇÕES  CRIMINAIS.  VIOLÊNCIA  DOMÉSTICA.  DESCUMPRIMENTO  DE  MEDIDAS  PROTETIVAS  DE  URGÊNCIA,  SEIS VEZES,  EM  CONTINUIDADE  DELITIVA.  ART.  24-A  DA  LEI  Nº 11.340/2006.  CONDENAÇÃO.  IRRESIGNAÇÃO  DEFENSIVA.
+Materialidade  e  a  autoria  dos  delitos  demonstradas.  Basta  o  descumprimento  das  medidas  protetivas  de  urgência  impostas,  das  quais  ciente  o  réu,  para  a  configuração  do  crime,  que  é  de  mera  conduta.  Dolo  comprovado.  Em  crimes  ou  contravenções  penais  decorrentes  de  violência  doméstica,  a  palavra  da  vítima,  quando  segura  e  coerente,  possui  especial  relevância  e  suficiência  para  o  juízo  condenatório,  sobremodo,  como  no  caso,  estando  corroboradas  por  outras  provas.  Demonstrados  os  reiterados  descumprimentos  das  medidas  protetivas  de  urgência  judicialmente  deferidas  nos  seis  dias  seguidos,  configurados  os  seis  crimes.  Logo,  inocorrente  crime  único,  tendo  sido  corretamente  reconhecida,  na  sentença  a  continuidade  delitiva,  nos  termos  do  art.  71,  caput,  do  CP.  Condenação  mantida.  Pena  justificada.  Sentença  mantida.  APELO  DESPROVIDO.
+No  presente  writ,  a  defesa  afirma  a  existência  de  constrangimento  ilegal  na  dosimetria  da  pena,  tendo  em  vista  a  escolha  de  fração  diversa  de  1/6  para  a  majoração  da  pena-base.
+Por  isso,  requer,  inclusive  liminarmente,  a  concessão  da  ordem  para  o  redimensionamento  da  reprimenda.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Sem razão a defesa.
+Isso, porque não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Assim, acerca do tema, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+Não vislumbro, portanto, a ilegalidade apontada.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
