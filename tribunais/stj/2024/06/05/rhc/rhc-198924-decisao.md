@@ -1,0 +1,25 @@
+DECISÃO
+FELIPE BENAC LEAL alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - surpreendido na posse de 290g de haxixe (fl. 23) e de 16g de maconha (fl. 34) -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+ ..
+Constato que o APFD está formalmente em ordem, obedecendo as disposições do art. 304 e 306 do C.P.P., não sendo hipótese de relaxamento.
+Realmente, a prisão preventiva somente se justifica diante da presença dos requisitos da materialidade, indícios da autoria e do periculum libertatis (necessidade da prisão para garantia da ordem pública ou econômica, por conveniência da instrução criminal ou para garantir a aplicação da lei penal), demonstrados claramente mediante indicação de dados concretos.
+No caso, tais requisitos estão presentes e vislumbra-se a necessidade de manutenção das prisões cautelares para garantia da ordem pública, diante das circunstâncias fáticas narradas nos autos, em que pese o crime não tenha sido praticado com violência ou grave ameaça.
+Registre-se, que o autuado FELIPE é reincidente, por crime da mesma natureza, pois possui sentença penal transitada em julgado, por tráfico ilícito de entorpecentes nos autos nº 0460939-68.2020.8.13.0024, mostrando-se que a condenação anterior não foi suficiente para impedi-lo a voltar a delinquir, id. 10211670696.
+Por sua vez, o autuado CARLOS foi preso recentemente, em 14.03.2024, e encontrava-se com monitoração eletrônica, inclusive, afirmou que estava descarregada, revelando-se assim, que medidas cautelares diversas da prisão não foram suficientes, id. 10211670687.
+Por fim, o autuado KAIQUE, embora primário, conforme mencionado no relatório do Boletim de Ocorrência, já foi apreendido em data pretérita por tráfico de drogas, na data de 09.12.2023, nos termos do REDS: 2023-057268227-001, o que demonstra a sua inclinação a prática de condutas delitivas, mormente porque, como ele próprio afirmou, sequer exerce atividade lícita, id. 10211670690, mas incoerentemente faz uso diário de drogas.
+No mais, observa-se que os autuados apresentaram versões divergentes pois, embora o autuado FELIPE admita que estava na companhia dos demais, os autuados CARLOS e KAIQUE, estes negam e justificam que foram apenas comprar um refrigerante.
+Outrossim, a versão dos policiais militares tem indícios de veracidade, pois relataram que foram informados por populares, que estava sendo distribuído entorpecente no aglomerado, por um motociclista em uma moto escura, usando um colete verde, o que coincidia com as características de um dos autuados.
+Além disso, a maneira que a droga apreendida, ou seja, em porções, sendo 4 unidades de haxixe e 3 unidades de maconha indicam que estas possuíam destinação mercantil.
+Portanto, o autuado representa sério risco à comunidade, caso sejam colocados em liberdade, sendo necessária a manutenção da prisão para garantia da ordem pública.
+Sendo assim, CONVERTO a PRISÃO EM FLAGRANTE de FELIPE BENAC LEAL, CARLOS ALEXANDRE BATISTA DE ARAUJO e KAIQUE FERNANDO BAPTISTA DE ARAUJO em PRISÃO PREVENTIVA, nos termos do art. 312 e art. 313, I do C.P.P., para garantia da ordem pública.  ..  (fls. 125-126)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que "o autuado FELIPE é reincidente, por crime da mesma natureza, pois possui sentença penal transitada em julgado, por tráfico ilícito de entorpecentes nos autos nº 0460939-68.2020.8.13.0024, mostrando-se que a condenação anterior não foi suficiente para impedi-lo a voltar a delinquir, id. 10211670696".
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 789.267/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe de 25/5/2023).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso in limine.
+Publique-se. Intimem-se.
+EMENTA
