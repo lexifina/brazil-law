@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA CRIMINAL E TRIBUNAL DO JÚRI DO RECANTO DAS EMAS - DF suscita conflito de competência diante do JUÍZO DE DIREITO DA VARA CRIMINAL DE SANTO ANTÔNIO DO DESCOBERTO - GO.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de eventual medida judicial que se faça necessária em investigação deflagrada pela suposta prática dos delitos previstos nos arts. 306 e 311, do CTB e 329 e 331, do CP, decorrente de auto de prisão em flagrante.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Criminal de Santo Antônio do Descoberto - GO, ora suscitado (fls. 553-555).
+Decido.
+Depreende-se dos autos que foi instaurado inquérito policial pela polícia de Águas Lindas, em Goiás, diante de auto de prisão em flagrante de determinado indivíduo, por suposta prática dos crimes previstos nos arts. 306 e 311, ambos do Código de Trânsito Brasileiro, e dos arts. 329 e 331, ambos do Código Penal.
+No particular, estou de acordo com o Ministério Público Federal. Segundo as declarações prestadas pelos policiais que efetuaram a prisão em flagrante, às fls. 127-128, o investigado foi flagrado ainda em Goiás (Santo Antônio do Descoberto) dirigindo em alta velocidade e, após desobeceder a ordem de estacionar o veículo, foi peseguido, sendo capturado na divisa com o Distrito Federal.
+Assim, embora a captura haja ocorrido em local que não é possível precisar se seria já no Distrito Federal ou ainda em Goiás, mostra-se incontroverso que os crimes deconduzir veículo automotor com capacidade psicomotora alterada em razão dainfluência de álcool ou de outra substância psicoativa, de trafegar em velocidade incompatível com a segurança e de resistência foram consumados no Estado de Goiás.
+Logo, além da prevenção evidenciada, já que os atos de perseguição se deram pelos policiais de Goiás, "há que aplicar-se a regra geral da fixação da competência pelo local da infração, consonate o art. 70, caput do CPP, estendendo-se essa competência para o crime de desacato, por força da conexão )CPP, art. 77, III c/c 78,II, a e b)" (fl. 554).
+Ante o exposto, conheço do conlflito para declarar competente o Juízo de Direito da Vara Criminal de Santo Antônio do Descoberto - GO, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
