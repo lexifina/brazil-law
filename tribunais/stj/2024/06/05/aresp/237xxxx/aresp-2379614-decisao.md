@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por ANA MARIA DA SILVA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 583):
+Apelação. Duplicatas. Ação declaratória de inexistência de cambiais como título executivo c.c. pedido de declaração de nulidade de protesto e de inexistência de débito. Preliminar de deserção rejeitada. Duplicatas sem aceite. Prova da entrega de mercadorias à ré. Prova produzida nos autos que demonstra que os canhotos das notas fiscais referentes a entrega das mercadorias foram assinados por funcionários da autora. Cumprimento das exigências previstas no artigo 15, inciso II, da Lei 5.474/68, que supre a falta de aceite das duplicatas indicadas na inicial. Título crédito aptos a justificar o acolhimento do pedido reconvencional formulado pela ré.
+Mantida a sentença que julgou improcedentes os pedidos iniciais e procedente o reconvencional Majoração dos honorários advocatícios, nos termos do art. 85, § 11, do CPC. Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 601-606).
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 15, II, da Lei n. 5.474/1968, sustentando que a teoria da aparência não é aplicável para fins de comprovação da entrega da mercadoria e sua respectiva cobrança (fls. 608-620).
+Oferecidas contrarrazões (fls. 625-630), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 631-632), o que ensejou a interposição do presente agravo (fls. 635-641).
+Apresentadas contraminutas do agravo (fls. 644-649).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que há prova da entrega de mercadorias, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 586-590):
+A prova produzida nos autos demonstra que as mercadorias, representadas pelas duplicatas protestadas, foram efetivamente entregues à autora.
+A prova oral colhida em audiência revelou que as mercadorias foram efetivamente entregues pela ré à autora, já que todos os comprovantes de entrega de mercadoria, juntados pela ré, constam a assinatura de Marcos Roberto Ferreira (fls. 130, 132, 136, 138, 140, 142,144; 146; 148; 152; 154; 156; 158; 160; 162; 164; 168; 170; 172; 174; 176; 178; 181; 183; 187; 189;191), então funcionário de Udo Wendland fls. 309/311, marido da autora e as notas fiscais e seus canhotos de fls. 133/134; 149/150; 165/166; e 184/185, estão assinados por pessoa de nome João, também empregado de Udo.
+ ..
+Diante da prova produzida nos autos de que Marcos Ferreira e João trabalhavam na empresa autora, deve ser aplicada ao caso a teoria da aparência, para proteção do credor, pois, em razão da informalidade que é inerente às relações comerciais, não cabe ao credor fiscalizar se quem recebe as mercadorias detém poder de administração, pois a obrigação de fiscalizar seu estabelecimento é, exclusivamente, da autora.
+ ..
+Os subscritores dos canhotos de recebimento das notas fiscais eram pessoasaptas para o recebimento da mercadoria, razão pela qual devem ser consideradas válidas as assinaturas de pessoa com vínculo empregatício com o adquirente, embora sem poderes de representação.
+No presente caso, a apresentação das duplicatas, acompanhadas das notas fiscais e dos protestos (fls. 26/58) somados a prova testemunhal produzida nos autos que indicam a responsabilidade da autora com relação à aquisição das mercadorias especificadas nas notas fiscais, comprova e legitima a realização do negócio jurídico entre as partes.
+O cumprimento das exigências previstas no artigo 15, inciso II, da Lei5.474/68, ou seja, supre a falta de aceite das duplicatas indicadas na inicial, que se constituem em título de crédito aptos a justificar o acolhimento do pedido reconvencional formulado pela ré.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12% sobre o valor de R$ 2.200,00 e sobre o valor atualizado do proveito econômico em relação ao pedido reconvencional, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPROVAÇÃO DA ENTREGA DE MERCADORIAS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. INC IDÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
