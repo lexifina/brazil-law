@@ -1,0 +1,2 @@
+Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer que a eleição de foro deve guardar pertinência com o domicílio das partes ou com o local da obrigação e que o ajuizamento de ação em juízo aleatório constitui prática abusiva, passível de declinação de competência de ofício.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
