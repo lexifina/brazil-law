@@ -1,0 +1,2 @@
+Altera a Lei nº 13.257, de 8 de março de 2016 (Marco Legal da Primeira Infância), para instituir a Política Nacional de Atendimento Educacional Especializado a Crianças de Zero a Três Anos (Atenção Precoce) e para determinar prioridade de atendimento em programas de visitas domiciliares a crianças da educação infantil apoiadas pela educação especial e a crianças da educação infantil com sinais de alerta para o desenvolvimento, nos termos que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
