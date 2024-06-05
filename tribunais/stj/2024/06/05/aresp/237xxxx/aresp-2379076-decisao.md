@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interposto por BAALBEK COOPERATIVA HABITACIONAL contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 518):
+COMPRA E VENDA - Rescisão Danos morais e materiais Ausência de tais condenações Apelo não conhecido no que tange à impugnação que faz a tais condenações - Aquisição de unidade habitacional de cooperativa habitacional Desistência do sócio cooperado Contrato de adesão Incidência da legislação consumerista - Entendimento desta Câmara de que, nos casos de rescisão da avença por culpa da parte compradora(sócio cooperado, no caso), é cabível a devolução dos valores pagos com a retenção de, no máximo, 20%, patamar que se reputa razoável para recompor as perdas incorridas pela parte vendedora (cooperativa) Juros legais sobre as quantias a serem restituídas que terá o trânsito em julgado como dies a quo Apelo parcialmente conhecido e, nesta parte, provido em parte
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 46 do Código de Defesa do Consumidor, além de ofensa às Súmulas n. 543 e 602/STJ, sustentando que deve ser aplicada a legislação consumerista. Ademais, afirma que os enunciados de Súmula do STJ não possuem efeito vinculante, de modo que se mostra exorbitante a sua indiscriminada aplicação. Por fim, alega, sem indicar o dispositivo que teria sido violado, que o valor a ser restituído não compreende o preço contribuído pela relação de cooperativismo das partes, pois realizado a título específico (fls. 524-540).
+Oferecidas contrarrazões (fls. 579-598), sobreveio o juízo de admissibilidade negativo na instânc ia de origem (fls. 574-578), o que ensejou a interposição do presente agravo (fls. 601-611).
+Sem contraminutas do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Constata-se que não houve a indicação do permissivo constitucional autorizador do recurso especial, o que atrai, por analogia, o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador.
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.431.828/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024; AgInt no AREsp n. 2.145.021/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12% sobre o valor atualizado da condenação, considerando-se a alteração do valor da condenação a partir do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL AUTORIZADOR DO RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
