@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAIXA SEGURADORA S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+SFH. COBERTURA SECURITÁRIA. ÓBITO. DOENÇA PRE-EXISTENTE. CAUSA SECUNDÁRIA DA MORTE. MÁ-FÉ. NÃO CONFIGURADA. DANO MORAL.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e interpretação jurisprudencial divergente dos arts. 757, 759, 760, 765 e 766 do CC, no que concerne à necessidade de se reconhecer que não há cobertura securitária para o óbito do mutuário que declara não possuir diagnóstico de qualquer tipo de doença, mas falece por enfermidade preexistente à assinatura do contrato, assim, caracterizando-se sua má-fé. Aduz a seguinte argumentação:
+Excelências, a 4ª Turma do Tribunal Regional Federal da 4ª região, ao prover parcialmente o recurso de apelação dos autores, entendeu que, ainda que restasse comprovada a preexistência da patologia, a recorrente deixou de solicitar exames prévios e deixou de demonstrar a má-fé do segurado ao omitir a informação quando da assinatura do contrato de financiamento:
+ ..
+Conforme acima demonstrado, é fato INCONTROVERSO nos autos que a doença que ensejou o óbito do Segurado se caracterizou em data anterior à assinatura do contrato de financiamento.
+Contudo, o TRF4 entendeu que, quando assinou o contrato de financiamento não havia má-fé do mutuário ao deixar de informar que estava acometido por doença.
+Ocorre que, ao assinar o contrato de financiamento habitacional e aderir, obrigatoriamente, à apólice de seguro, o mutuário precisa informar o real risco que está sendo assumido pela seguradora para que o prêmio possa ser calculado.
+Dessa forma, ao omitir a doença, é evidente a má-fé do segurado, visto que a seguradora não tinha conhecimento do risco que estava assumindo ao garantir a cobertura do seguro MIP - Morte e invalidez permanente.
+Diante disso, percebe-se que o entendimento do acórdão recorrido viola diretamente o disposto nos artigos 757, 760 e 765 do CC, visto que a boa-fé é inerente ao contrato, não podendo ser abdicada em hipótese alguma, eis que é fundamental para a existência da segurança jurídica e, portanto, defendida pelo Código Civil.
+Ressalta-se, novamente, que a preexistência da doença que acometeu o mutuário é fato incontroverso nos autos porque já analisada pelo tribunal e devidamente mencionada no acórdão recorrido.
+O ponto central da controvérsia é se a omissão quanto ao diagnóstico da doença na data da assinatura do contrato pode ou não ser considerada má-fé.
+Nesse ponto, é necessário repisar que quando da celebração desse contrato de seguro NÃO é oportunizado à recorrente nenhum contato direto com o mutuário, não sendo possível a solicitação de qualquer exame prévio, devendo a declaração assinada no momento da celebração, estar pautada pela boa-fé dos contratantes em atenção aos artigos 113; 122; 757; 760; 765 e 766 do Código Civil.
+ ..
+Importa ainda esclarecer que a seguradora pode exigir exames médicos caso tenha conhecimento acerca da existência da doença, mas não há razões para solicitar qualquer tipo de exame quando o mutuário DECLARA não possuir diagnóstico de qualquer tipo de doença.
+Com efeito, em homenagem aos princípios pacta sunt servanda e da intangibilidade contratual, o contrato em questão deve ser amplamente respeitado, eis que se encontra fortemente respaldado pelos artigos 757, e 760 do Código Civil, que expressamente determinam que os riscos sejam predeterminados e mencionados em sua apólice, como assim fez o presente contrato, veja-se:
+ ..
+Dessa forma, ao assinar o contrato, o mutuário detinha pleno conhecimento de que, a cobertura para morte seria negada se restasse configurada a preexistência da doença.
+Contudo, Excelências, não obstante a correta negativa de cobertura securitária feita pela recorrente, em consonância aos dispositivos legais, a Colenda Câmara optou por contrariar aos dispositivos legais e proferir decisão condenatória sem fazer menção a qualquer preceito legal.
+Assim, o TRF4 decidiu de forma totalmente extracontratual, uma vez que considerou que para a existência de cobertura basta estar comprovado o óbito do mutuário.
+Assim, não há dúvidas de que o acórdão recorrido não observou o contrato e, por consequência, DESCUMPRIU A LEGISLAÇÃO PERTINENTE AO SEGURO, PREVISTA NOS ARTIGOS 757; 760; 765 E 766 DO MESMO CÓDIGO.
+Repare-se que para reconhecer a violação à lei não é necessário reexaminar o contexto fático, já que esse já foi analisado.
+A QUESTÃO DO PRESENTE RECURSO É SE O CONTRATO SERÁ RESPEITADO NOS TERMOS DA LEI!!
+E julgar o descumprimento da lei é a competência precípua do Superior Tribunal de Justiça.
+Por oportuno, sob a melhor exegese da justa adequação das cláusulas constantes na apólice e o direito do consumidor, não se pode afirmar que a cláusula supracitada deve ser preterida a pretexto de aplicar o disposto no artigo 47 do Código do Consumidor.
+Nesse sentido, importante ressaltar o disposto no artigo 758 do Código Civil:
+ ..
+Conforme dito, as cláusulas contratuais foram devidamente demonstradas pela seguradora, não havendo dubiedade na redação que possa ensejar interpretação em favor da parte hipossuficiente.
+ ..
+FUNDAMENTO RECURSAL NA FORMA DO ARTIGO 105, III, "C", CF/88 DISSÍDIO JURISPRUDENCIAL: CONTRARIEDADE À JURISPRUDÊNCIA DESTA E. CORTE
+Não obstante a flagrante violação acima apontada, o v. acórdão diverge da jurisprudência da Corte Superior, conforme a seguir será demonstrado.
+De acordo com entendimento já reconhecido pelo Superior Tribunal de Justiça "Não é devido o pagamento de indenização decorrente de contrato de seguro de vida se, consoante o acervo fático soberanamente analisado pelo tribunal local, restar comprovado nos autos que o segurado silenciou sobre a doença preexistente que o levou à morte, sendo clara a má-fé em sua conduta".
+Em sentido contrário, o v. acórdão do Tribunal de origem mencionou que "A seguradora não demonstrou ter exigido exames prévios à contratação, descumprindo a exigência da da Súmula nº 609 do STJ: "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado."".
+Ao assim decidir, o v. acórdão recorrido divergiu do entendimento do Superior Tribunal de Justiça, senão vejamos:
+ ..
+Conforme acima demonstrado, essa Corte entende que, em respeito ao disposto no artigo 757 do CC, os limites contratuais devem ser respeitados, não podendo ser IGNORADA a omissão do mutuário quando do preenchimento da declaração pessoal sob pena de violação ao disposto no artigo 766 do CC..
+(fls. 489-495).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+b) A certidão de óbito registrou que a causa principal do óbito foi "morte súbita" e apenas secundariamente registrou "histório de câncer de pele". evento 1, ANEXO5 (fls. 471)
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, em que pese os fundamentos da sentença proferida pelo juizo a quo, a indenização securitária é devida porque, mas circunstância dos autos:
+a) Não restou demonstrado que o segurado encontrava-se em tratamento para cancer de pele na data da contratação do seguro, nem que tenha agido de má-fé quando da contratação, omitindo deliberadamente eventual existência de doença preexistente da qual tivesse conhecimento. Segundo a prova documental juntada aos autos, a última recidiva da doença ocorreu em 2012, ou seja, 05 ANOS antes da assinatura do contrato. evento 9, ANEXO4
+b) A certidão de óbito registrou que a causa principal do óbito foi "morte súbita" e apenas secundariamente registrou "histório de câncer de pele". evento 1, ANEXO5
+(fls. 471).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ainda, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Por fim, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
