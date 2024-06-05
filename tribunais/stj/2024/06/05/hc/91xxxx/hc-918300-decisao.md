@@ -1,0 +1,17 @@
+DECISÃO
+JEFERSON LUIS DE SOUZA alega sofrer coação ilegal em razão de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 5015341-51.2022.8.21.0033.
+O paciente foi condenado a 10 anos de reclusão, em regime fechado, mais multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, IV, ambos da Lei 11.343/2006.
+A defesa alega a desproporcionalidade na aplicação da pena-base, haja vista que, no caso, a negativação de apenas uma circunstância judicial justificou o incremento da reprimenda em 1/3.
+Requer a concessão da ordem, com a redução da reprimenda.
+Decido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleita a quantidade de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto. Deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+No caso, verifico que a instância de origem aumentou a pena-base em 1/3 em razão da "circunstância preponderante prevista no art. 42 da Lei n. 11.343/06, argumentando que a expressividade da quantia de droga apreendida (5,248kg de cocaína e 1,126 kg de crack) e o seu grau de nocividade justificam maior reprimenda, visando à prevenção e reprovação do crime" (fl. 441).
+A respeito do patamar de aumento, este Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o montante de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, não identifico a ilegalidade apontada, uma vez que as instâncias antecedentes atuaram dentro da sua discricionariedade e adotaram, fundamentadamente, fração que entenderam proporcional e adequada para o aumento da pena-base - 1/3 sobre o intervalo entre as penas máxima e mínima abstratamente cominadas (1 ano e 8 meses) -, consolidada a basilar em 5 anos e 8 meses de reclusão (fls. 369-370).
+Nesse sentido:
+A discricionariedade judicial motivada na dosimetria da pena é reconhecida por esta Corte. Não existe direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base. Em regra, afasta-se a tese de desproporcionalidade em casos de aplicação de frações de 1/6 sobre a pena-mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo do tipo, admitido outro critério mais severo, desde que devidamente justificado (AgRg no HC n. 844.533/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024, grifei).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
