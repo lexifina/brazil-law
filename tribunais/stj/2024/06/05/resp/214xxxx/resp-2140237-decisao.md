@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se recurso especial interposto por VIRTU PAULISTA 10 DESENVOLVIMENTO IMOBILIARIO LTDA - EM RECUPERACAO JUDICIAL fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 27/11/2023.
+Concluso ao gabinete em: 21/5/2024.
+Ação: Cumprimento de sentença, no âmbito da ação de rescisão do contrato e devolução do dinheiro, ajuizado por Renato Cesar Nogueira e Outros em face da recorrente.
+Decisão: indeferiu o pedido de extinção do processo.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente, nos termos da seguinte ementa (fl. 42):
+COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL - Ação de rescisão contratual c.c. devolução de quantias pagas - Fase de cumprimento de sentença, inclusive para satisfação de verba honorária de sucumbência - Para o fim de submissão a- os efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador (Tema repetitivo nº 1.051 do STJ), o qual, no caso em apreço, afigura- se com a prolação da sentença que condenou a promitente vendedora a restituir aos promissários compradores parte dos valores pagos (v. Tema repetitivo nº 1.002 do STJ) - Ausência de novação - Recurso não provido.
+Recurso especial: alega violação dos arts. 6º, II, § 4º; 49, caput e § 3º; 52, III, e 59, todos da Lei 11.101/05. Sustenta que "Para análise da concursalidade do crédito, há que se considerar a data do distrato unilateral da compra e venda do imóvel (19.06.2017), uma vez que a r. sentença proferida nos autos principais (datada de 19.12.2022), no tocante à rescisão contratual, possui caráter declaratório.  ..  Portanto, a conclusão a qual se chega é que o fato gerador da constituição do crédito referente reembolso das parcelas pagas é anterior ao deferimento da recuperação judicial ocorrido em 31/03/2021  .. " (fls. 60-61).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da jurisprudência pacífica do STJ
+No que se refere à submissão do crédito aos efeitos da recuperação judicial da recorrente, o recurso merece ser provido.
+Com efeito, consoante a jurisprudência pacífica do STJ, firmada no julgamento de recurso especial repetitivo, a existência do crédito é determinada pela data em que ocorreu o seu fato gerador para fins de sua submissão na recuperação judicial (Resp 1.843.332/RS, Segunda Seção, DJe 17/12/2020; Tema 1051/STJ).
+Na espécie, o acórdão recorrido consignou a seguinte conclusão (fls. 46-49, grifo nosso):
+O fato gerador do crédito que o promitente vendedor deve devolver ao promissário comprador em razão da ruptura do contrato por iniciativa dele próprio (como anotado na inicial, "por motivos de ordem particular" - fl. 03), incide do trânsito em julgado da respectiva sentença condenatória que o fixou, como já anotado na r. decisão agravada.
+ .. .
+Ora, não é possível concluir pela existência prévia de cré- dito de restituição do promissário comprador antes da sentença transitada em julgado que o reconhece, simplesmente porque não se sabe se realmente existe crédito a restituir, mormente se - como no caso em apreço - a pretensão de restituição de valores seja formulada em desconformidade com o pactuado entre as partes, anteriormente à vigência da Lei nº 13.786/18. A r. sentença, nesse caso ostenta efeito ex nunc, surtindo efeitos a partir da formação da nova obrigação pelo título judicial, apresentando- se com natureza constitutiva, e não meramente condenatória. Desse modo, à luz dos referidos Temas repetitivos 1.002 e 1.051 , a existência do fato gerador do crédito depende de trânsito em julgado de sentença condenatória que o estabeleça.
+Logo, como o pedido de recuperação judicial foi deferido em 31 de março de 2021 (fls. 105/116 dos autos originais), e como a r. sentença condenatória transitou em julgado em 19 de dezembro de 2022 (fls. 173/176), conclui-se que o fato gerador do crédito dos compromissários compradores é cronologicamente posterior (ao deferimento do pedido de recuperação judicial), e, assim, não deve ser incluído no âmbito da recuperação judicial, razão pela qual não há se falar em novação da obrigação, como de rigor.
+Tal entendimento - que, em última análise, trata o crédito em questão como sendo de natureza extraconcursal - destoa da jurisprudência desta Corte acima referida e, portanto, deve ser reformado.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, a fim de determinar a submissão do crédito em discussão aos efeitos da recuperação judicial da recorrente .
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DO CONTRATO E DEVOLUÇÃO DO DINHEIRO. CUMPRIMENTO DE SENTENÇA. SUBMISSÃO DO CRÉDITO AO PLANO DE RECUPERAÇÃO JUDICIAL. FATO GERADOR. NATUREZA DO CRÉDITO. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. Ação de rescisão do contrato e devolução do dinheiro.
+2. Consoante a jurisprudência pacífica do STJ, firmada no julgamento de recurso especial repetitivo, a existência do crédito é determinada pela data em que ocorreu o seu fato gerador para fins de sua submissão na recuperação judicial (Resp 1.843.332/RS, Segunda Seção, DJe 17/12/2020; Tema 1051/STJ).
+3. Recurso especial conhecido e provido.
