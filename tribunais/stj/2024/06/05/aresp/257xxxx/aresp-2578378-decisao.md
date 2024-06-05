@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 48):
+CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE.
+Insurgência da exequente. Pedido de desconsideração da personalidade jurídica da empresa executada. Não acolhimento.
+Necessidade de demonstração dos pressupostos específicos. Insolvência da devedora e dissolução irregular sem a devida baixa na junta comercial que não justificam a medida excepcional de desconsideração da personalidade jurídica. Ausência de comprovação de desvio de finalidade ou a confusão patrimonial (art. 50 do CC). Insuficiência da modificação contratual em relação aos sócios, sem prova do desvio de finalidade ou da confusão patrimonial. Decisão mantida.
+AGRAVO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fl. 65).
+No recurso especial, alega a recorrente, preliminarmente, violação do art. 1.022, I e II, do CPC, e sustenta omissão do acórdão quanto aos arts. 422, 1.034, II, 1.036, 1.102, 1.103, IV, 1.106 e 1.109, todos do Código Civil; art. 105 da Lei n. 11.101/2005 e arts. 1º, 2º e 32 da Lei n. 8.934/1994. Aduz obscuridade do julgado no que tange à incorreta caracterização do pedido da recorrente como baseado na mera inexistência de bens penhoráveis e ao encerramento irregular da empresa devedora.
+No mérito, alega a parte recorrente que o acórdão contrariou o art. 50 do Código Civil, pois entende que foram preenchidos os requisitos para a desconsideração da personalidade jurídica.
+Aduz que (fls. 84-85):
+Ao contrário do salientado no v. acórdão, o fundamento para o pedido da Recorrente não é de que a simples inexistência de patrimônio ou encerramento irregular, per se, se caracterizem como desvio de finalidade da personalidade jurídica, mas sim todo o conjunto de provas, circunstâncias e as constatações de descumprimento de obrigações legais pela empresa amplamente debatidos nos autos (aliados à inexistência de patrimônio penhorável, o não encerramento da pessoa jurídica e o registro de alteração no Contrato Social incondizente com a realidade fática da empresa).
+Aponta ainda divergência jurisprudencial com arestos de outros tribunais a respeito do ônus de comprovar a confusão patrimonial.
+Apresentadas contrarrazões ao recurso especial (fls. 121-122).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 125-128), o que ensejou a interposição do presente agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento ao agravo de instrumento, solucionou a lide em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+O Tribunal de origem consignou expressamente a falta de preenchimento dos pressupostos legais específicos para o pedido de desconsideração da personalidade jurídica, bem como deixou consignado que a mera insolvência da devedora e/ou sua dissolução irregular sem a devida baixa na junta comercial não justificam a referida medida excepcional (fls. 48-49):
+O pedido de desconsideração da personalidade jurídica dependente de prévia demonstração pela parte interessada de "preenchimento dos pressupostos legais específicos" para tanto(art. 134, § 4º do CPC/2015).
+No caso, porém, não houve essa demonstração, uma vez que a exequente pautou o seu pedido na falta de bens penhoráveis da empresa executada, na modificação contratual com relação aos sócios e endereço, e na permanência do seu cadastro ativo perante a JUCESP e Receita Federal. Na sequência, segundo a própria exequente, a executada teria encerrado as atividades de maneira irregular.
+Entretanto, somente a mera insolvência da devedora e/ou sua dissolução irregular sem a devida baixa na junta comercial não justificam a medida excepcional de desconsideração da personalidade jurídica, uma vez que não está constatado o abuso da personalidade jurídica, ou seja, não ficou demonstrado o desvio de finalidade ou a confusão patrimonial, como previsto no artigo 50 do Código Civil.
+Nos termos da jurisprudência desta Corte, a "desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de mera insolvência ou encerramento irregular da atividade empresarial" (AgInt no AgInt no AREsp n. 2.353.666/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024).
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula n. 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ademais, a revisão da matéria a respeito da ausência de comprovação da confusão patrimonial ou desvio de finalidade implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS. DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. RECONHECIMENTO DA EXISTÊNCIA DE GRUPO ECONÔMICO. MODIFICAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, uma vez "reconhecido o grupo econômico e verificada confusão patrimonial, é possível desconsiderar a personalidade jurídica de uma empresa para responder por dívidas de outra, inclusive em cumprimento de sentença, sem ofensa à coisa julgada" (AgRg no AREsp 441.465/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/06/2015, DJe de 03/08/2015).
+2. Sendo afirmado pela Corte de origem que estão preenchidos os requisitos necessários para o reconhecimento de um grupo econômico com confusão patrimonial, a alteração das premissas fáticas estabelecidas no v. acórdão recorrido, tal como propugnada, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.350.620/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/5/2019, DJe de 5/6/2019.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. AFASTAMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CONFUSÃO PATRIMONIAL. ART. 50 DO CÓDIGO CIVIL. RECONHECIMENTO NA ORIGEM. PRAZO PRESCRICIONAL. NÃO INCIDÊNCIA. ANTERIORIDADE DO CRÉDITO. MITIGAÇÃO. DEVEDOR CONTUMAZ. FRAUDE. RECONHECIMENTO. ACÓRDÃO RECORRIDO. MODIFICAÇÃO. SÚMULA Nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. O entendimento do Superior Tribunal de Justiça é no sentido de que a desconsideração da personalidade jurídica (art. 50 do Código Civil) exige a comprovação de abuso, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+3. A desconsideração da personalidade jurídica, quando preenchidos os seus requisitos, pode ser requerida a qualquer tempo, não se submetendo, à míngua de previsão legal, a prazos decadenciais ou prescricionais. Precedentes.
+4. A Terceira Turma do Superior Tribunal de Justiça possui firme entendimento no sentido de que é possível a mitigação da exigência de anterioridade do crédito em relação ao ato tido como fraudulento para que seja reconhecida a fraude patrimonial. Precedentes.
+5. Na hipótese, rever as conclusões das instâncias ordinárias quanto ao preenchimento dos requisitos para a desconsideração da personalidade jurídica da empresa demandaria o reexame de matéria fático-probatória, providência vedada diante do óbice da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.677.200/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Por fim, quanto ao dissídio jurisprudencial alegado, a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula n. 7/STJ também impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CONFUSÃO PATRIMONIAL RECONHECIDA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
