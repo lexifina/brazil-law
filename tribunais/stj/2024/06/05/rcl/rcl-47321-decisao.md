@@ -1,0 +1,49 @@
+DECISÃO
+Em análise, reclamação constitucional ajuizada por MARCOS ANTÔNIO GOMES DOS SANTOS, com fundamento no art. 105, I, f, da Constituição Federal, na Resolução STJ 03/2016 e no art. 988 e seguintes, NCPC, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+RECLAMAÇÃO CONSTITUCIONAL CONTRA JULGADO DA E. TURMA RECURSAL DO ESTADO DE MATO GROSSO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - AFASTAMENTO DA INDENIZAÇÃO POR DANOS MORAIS- INCIDÊNCIA DA SÚMULA 385 DO STJ - FALTA DE DEMONSTRAÇÃO DE DIVERGÊNCIA ENTRE O ACÓRDÃO IMPUGNADO E A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA CONSOLIDADA EM INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA E EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR), BEM COMO EM JULGAMENTO DE RECURSO ESPECIAL REPETITIVO E ENUNCIADOS DAS SÚMULAS DO STJ - REQUISITOS PRÓPRIOS À ESPÉCIE NÃO DEMONSTRADOS - SUCEDÂNEO RECURSAL - RECLAMAÇÃO QUE NÃO SERVE DE SUCEDÂNEO DE RECURSO -RECLAMAÇÃO IMPROCEDENTE.
+O apontamento negativo preexistente afasta o dano moral postulado, consoante os termos da súmula 385 do STJ: "Da anotação irregular em cadastro de proteção ao crédito não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento." Se não comprovada à regularidade do débito, mantém-se a declaração de inexigibilidade da dívida.
+Não procede a Reclamação Constitucional que não demonstra divergência entre o julgado impugnado e a jurisprudência do Superior Tribunal de Justiça, consolidada em Incidente de Assunção de Competência e em Incidente de Resolução de Demandas Repetitivas (IRDR), bem como em julgamento de Recurso Especial Repetitivo e enunciados de Súmulas do STJ.
+Sustenta o reclamante, em síntese, que "alienou uma motocicleta, fez a devida comunicação de venda, e o órgão respectivo, não apresentou baixa a esta transferência, é simplesmente inscreveu o nome do Requerente nos cadastros de proteção do crédito fiscal. As instâncias ordinárias reconheceram esta ilegalidade, e negaram o pedido de dano moral, sob o pretexto de aplicação da Súmula 385 do STJ, por haver prévia inscrição". Narra que a 3ª Turma Recursal do Estado do Mato Grosso, em julgamento de recurso de apelação, manteve a nulidade das multas e ônus cobrados, reconhecendo que houve efetiva comunicação de venda, e por erro a Administração Pública ocasionou todas estas cobranças apontadas, todavia, de forma, data vênia, equivocada, extinguiu a condenação em danos morais, dizendo haver a existência de duas negativações anteriores, o que, na forma da Súmula 385 do STJ, afastaria o dano moral.
+Esclarece que ajuizou reclamação contra essa decisão da 3ª Turma Recursal, mas foi julgada improcedente pelo Tribunal de Justiça do Estado do Mato Grosso. Defende que, nos autos da reclamação junto ao TJMT o erro na aplicação da Súmula 385/STJ não foi corrigido; é justamente o que se impugna.
+É o relatório.
+Passo a decidir.
+Cotejando os autos, verifico ser o caso de não conhecer da presente reclamação.
+A reclamação prevista no art. 105, I, f, da Constituição Federal é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado proferido.
+Dispõe o CPC/2015:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+§ 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+§ 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+I - proposta após o trânsito em julgado da decisão reclamada;
+(Incluído pela Lei nº 13.256, de 2016) (Vigência)
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+(Incluído pela Lei nº 13.256, de 2016) (Vigência)
+§ 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+Também regulamenta o RISTJ:
+Art. 187. Para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária.
+Nesse sentido, caberá reclamação nesta Corte quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal, ou quando suas decisões não estiverem sendo cumpridas por quem de direito. Assim, para o seu deferimento, deve ficar comprovado que a instância a quo deixou de obedecer à decisão proferida por este Sodalício.
+Na hipótese dos autos, não constato a existência de decisão desta Corte, proferida no caso concreto em favor do reclamante, sendo descumprida.
+Importa asseverar que, conforme jurisprudência desta Corte, não é possível a interposição de reclamação como sucedâneo recursal para dirimir divergência jurisprudencial:
+AGRAVO INTERNO. RECLAMAÇÃO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO QUE INADMITIU O APELO NOBRE COM BASE NO ART. 1.030, I, DO CPC/15. INADMISSIBILIDADE. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ. SÚMULA. DESCABIMENTO. CONTROLE DA APLICAÇÃO, NO CASO CONCRETO, DE TESE REPETITIVA FIRMADA PELO STJ. INADMISSIBILIDADE. MULTA. NÃO APLICAÇÃO.
+1. Não cabe reclamação contra a decisão do Tribunal de origem que não conhece do agravo fundado no art. 1.042 do CPC/2015, interposto contra decisão que negou seguimento a recurso especial com fundamento no art. 1.030, I, do CPC/2015.
+2. É incabível o manejo da reclamação como sucedâneo recursal, com vistas a adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em súmula. Precedentes.
+3. Consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo.
+4. Em relação à multa prevista no art. 1.021, § 4º, do CPC/15, esta Corte possui firme entendimento no sentido de que a referida multa não constitui consequência automática do não conhecimento ou do desprovimento unânime do agravo interno.
+5. Agravo interno não provido (AgInt na Rcl n. 42.586/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022.)
+ ..
+2. A reclamação não é instrumento adequado para o controle da aplicação dos entendimentos firmados pelo Superior Tribunal de Justiça em julgamento de recurso especial representativo de controvérsia repetitiva.
+ ..  (AgInt na Rcl n. 42.013/PR, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 3/12/2021.)
+PROCESSO CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. INEXISTÊNCIA DE HIPÓTESE DE CABIMENTO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Fundada no artigo 988, II, do CPC/2015, a reclamação não se destina a dirimir divergência jurisprudencial entre o acórdão reclamado e precedentes do STJ. Sua função é garantir a autoridade da decisão proferida pelo STJ, em um caso concreto, que tenha sido desrespeitada na instância de origem, em processo que envolva as mesmas partes (AgInt na Rcl 31.875/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016).
+2. É defesa a utilização da reclamação como sucedâneo recursal.
+Precedentes.
+3. Agravo interno não provido (AgInt na Rcl n. 41.958/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 30/11/2021, DJe de 7/12/2021.)
+Isso posto, não conheço da reclamação.
+Intimem-se.
+EMENTA
