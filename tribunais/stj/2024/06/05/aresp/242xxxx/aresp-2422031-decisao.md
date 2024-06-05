@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT S.A. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL nos termos da seguinte ementa (fl. 255):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO SUMÁRIA DE COBRANÇA DE SEGURO DPVAT- MORTE- ALEGAÇÃO DE CERCEAMENTO DE DEFESA- AFASTADA-DESNECESSÁRIA DECLARAÇÃO DE ÚNICO HERDEIRO- LEGITIMIDADE PARA RECEBIMENTO DE INDENIZAÇÃO -- RECURSO DESPROVIDO.
+A indenização securitária pode ser pleiteada por qualquer herdeiro. Assim, comprovada sua legitimidade, qualquer um deles pode exigirem totalidade o cumprimento da obrigação, sendo desnecessária a declaração de herdeiro único.
+Rejeitados os embargos de declaração opostos (fls. 280-284).
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos (fls. 294-308):
+a) 1.022, II, do Código de Processo Civil, sustentando que houve omissão no acórdão recorrido acerca dos argumentos a seguir descritos e
+b) 4º da Lei n. 6.194/1974, alegando que, na época do acidente, quem detinha direito ao recebimento da indenização referente ao seguro DPVAT por morte seriam os genitores da vítima, na proporção de 50% cada.
+Oferecidas contrarrazões (fls. 346-353), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 361-372), o que ensejou a interposição do presente agravo (fls. 374-383).
+Apresentadas contraminutas do agravo (fls. 390-397).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se configura a apontada violação do art. 1.022, II, do Código de Processo Civil. Embora rejeitados os embargos de declaração, a questão da legitimidade foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem a apontada omissão, como pode ser verificado no seguinte trecho do acórdão recorrido (fl. 258):
+É cediço que, no polo ativo da ação não precisa constar todos os herdeiros, pois estes são credores solidários da seguradora, podendo cada um deles ajuizar o pagamento da integridade da dívida de acordo com o art. 267 do Código Civil, restando a seguradora desobrigada após a quitação do quantum devido ao requerente.
+Com efeito, o julgador não está obrigado a responder a todos os argumentos suscitados pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo seu dever apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+Em relação ao art. 4º da Lei n. 6.194/1974, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "a possibilidade da existência de demais beneficiários, não tira a legitimidade da autora em buscar a cobertura securitária e nem o dever da seguradora em indenizar, cabendo àqueles que se sentirem prejudicados requererem o que de direito por meio de ação própria" (REsp n. 1.984.970/MT, Relator Ministro Luis Felipe Salomão, DJe de 3/5/2022).
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. INTEMPESTIVIDADE. PRAZO DE 15 DIAS ÚTEIS. TERMO FINAL. JUSTA CAUSA. INFORMAÇÃO INCORRETA NO SISTEMA DO TRIBUNAL DE ORIGEM. PRINCÍPIOS DA BOA-FÉ E DA CONFIANÇA. COMPROVAÇÃO. INTEMPESTIVIDADE AFASTADA. ADMISSIBILIDADE. AÇÃO DE COBRANÇA. SEGURO DPVAT. EXISTÊNCIA DE OUTROS BENEFICIÁRIOS. REEXAME. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO.
+1. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+2. Considera-se justa causa para o descumprimento do prazo de 15 dias úteis para apresentar recurso especial "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal", devendo ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso (EAREsp n. 1.759.860/PI, Corte Especial).
+3. A existência de mais herdeiros do beneficiário do DPVAT não afasta a legitimidade dos que figuram no polo ativo da demanda para pleitear indenização pela seguradora, cabendo àqueles que se sentirem prejudicados requer, por meio de ação própria, o que for de direito (REsp n. 1.984.970/MT, Quarta Turma).
+4. Agravo interno provido para se conhecer do agravo em recurso especial e não se conhecer do recurso especial.
+(AgInt no AREsp n. 2.103.981/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/11/2022, DJe de 2/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE COBRANÇA. SEGURODPVAT. LEGITIMIDADE ATIVA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. CÔNJUGE SUPÉRSTITE. EXISTÊNCIA DE OUTROS BENEFICIÁRIOS. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. Ressalte que "a possibilidade da existência de demais beneficiários, não tira a legitimidade da autora em buscar a cobertura securitária e nem o dever da seguradora em indenizar, cabendo àqueles que se sentirem prejudicados requererem o que de direito por meio de ação própria" (REsp n. 1.984.970/MT, Relator Ministro Luis Felipe Salomão, DJe de 3/5/2022)..
+3. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.067.882/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Desse modo, estando o acórdão recorrido em conformidade com a orientação jurisprudencial deste Tribunal, incide a Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."), que impede o conhecimento do recurso por ambas as alíneas.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 15% sobre o valor atualizado da condenação, observada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. SEGURO DPVAT. DIVERSOS HERDEIROS. AÇÃO PRÓPRIA. SÚMULA N. 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
