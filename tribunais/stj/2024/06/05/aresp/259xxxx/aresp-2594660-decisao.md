@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE GOIAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECER MEDICAMENTO. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM FAVOR DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS. SÚMULA 421 STJ. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 4º, INCISO XXI, DA LC Nº 80/1994, E DO ART. 1º DA LEI ESTADUAL N. 17.654/2012 PELO ÓRGÃO ESPECIAL DESTA CORTE ESTADUAL. POSICIONAMENTOS SUPERADOS. TEMA 1.002 STF. SENTENÇA PARCIALMENTE REFORMADA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, § 8º, do Código de Processo Civil. Sustenta que nas demandas envolvendo a prestação de serviço de saúde pública , a fixação dos honorários deve ocorrer por equidade, trazendo a seguinte argumentação:
+O respeitável acórdão violou o art. 85, §8º, do CPC no presente caso.
+Nos termos do novo código de processo civil, os honorários serão fixados sobre o valor da condenação ou do proveito econômico (art. 85, §2º) e não sobre o valor da causa.
+Contudo, nos processos de judicialização de saúde, não existe proveito econômico, mas o deferimento de uma prestação de saúde, devendo a fixação de honorários se dar de forma equitativa (art. 85, §8º) e nunca sobre o valor do tratamento.
+Reforça-se: nos processos que envolvam demandas de saúde, as prestações de assistência à saúde devem ser consideradas de valor inestimável, pois retratam uma obrigação de fazer constitucional e não mera obrigação de pagar o valor de um tratamento. É dizer, o tratamento pleiteado é uma mera vertente e consequência do pedido de cumprimento de um dever mais amplo - não precificável - constante na Constituição Federal.
+Em todas as peças elaboradas pelo polo ativo, referentes a pleitos relacionados à assistência de saúde, o argumento principal formulado pelos autores é o dever constitucional de entrega de serviço de saúde, o que corrobora a tese de seu valor inestimável.
+Portanto, importante ressaltar que as demandas envolvendo a prestação de serviços de saúde pública não se enquadram na vedação de fixação por equidade dos honorários prevista precedente do Tema n.º 1.076 do STJ. Nesse ponto, compete ressaltar que o Tema n.º 1.076/STJ aponta que a fixação dos honorários por apreciação equitativa não é permita quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+Por outro lado, admite-se o arbitramento de honorários por equidade quando o proveito econômico obtido pelo vencedor for inestimável ou irrisório.
+Com efeito, como o objeto demanda consiste na garantia de um direito fundamental, qual seja, o direito à saúde, inegável que se trata de ação cujo valor do suposto proveito econômico e inestimável. Em verdade, em demandas de saúde não se mostra sequer adequado avaliar se houve ou não proveito econômico, uma vez que o bem em discussão não é passível de precificação.
+Nesse sentido, a jurisprudência do STJ é pacífica em entender ser inestimável o proveito econômico que se pretende em ações de saúde, razão pela qual o arbitramento de honorários advocatícios deve ser feito por equidade:
+ ..  (fls.359-361).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Estabelecida essa premissa preambular, convém assinalar que na definição dos honorários de sucumbência em que a Fazenda Pública for parte, o magistrado deve se ater à ordem de preferência estabelecida no artigo 85, §§ 2º e 3º, do Código de Processo Civil, qual seja:
+(..)
+Na hipótese vertente, ausente condenação e proveito econômico obtido pela parte, os honorários advocatícios de sucumbência devem ser fixados entre 10% (dez por cento) e 20% (vinte por cento) sobre o valor atualizado da causa.
+Nessa conjectura, em estrita observância aos critérios elencados na legislação de regência, afigura-se suficiente para a remuneração do trabalho exercido pelo órgão defensor a fixação da verba honorária no patamar de 10% (dez por cento) sobre o valor atualizado da causa. (Acórdão embargado - mov. 113 - relatoria do Des. Anderson Máximo de Holanda).
+Como se pode observar, houve expressa manifestação sobre a forma de arbitramento dos honorários sucumbenciais na espécie, de modo que não se pode falar em omissão.
+Eventual acerto ou desacerto do acórdão embargado não encontra espaço para debate nos estreitos limites dos aclaratórios, devendo a parte interessada manejar os instrumentos recursais cabíveis se persistir o inconformismo.
+Não obstante, faz-se oportuno registrar que mesmo se a fundamentação adotada no acórdão consignasse expressamente o arbitramento dos honorários por equidade, como disposto no § 8º do art. 85, o percentual de 10% (dez por cento) sobre o valor da causa seria mantido.
+Isso, porque em 02 de junho de 2022 foi publicada a Lei Federal n. 14.365, que incluiu o § 8º-Ano art. 85 do CPC, com a seguinte redação:
+Art. 85.
+(..)
+§ 8º-A. Na hipótese do § 8º deste artigo, para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior.
+Desse modo, atualmente, o arbitramento de honorários por equidade possui parâmetros mínimos que coincidem, in casu, com os aplicados no acórdão embargado.
+Por esses motivos, não há omissão a ser reparada (fls. 350-351).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
