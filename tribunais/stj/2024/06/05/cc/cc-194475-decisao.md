@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito de competência estabelecido entre o Juízo de Direito da 5ª Vara Cível de Anápolis/GO (suscitante) e o Juízo de Direito da 2ª Vara de Camocim/CE (suscitado), nos autos de ação ajuizada por Cleane Viana dos Santos contra a Fundação Petrobras de Seguridade Social - Petros com o objetivo de obter suplementação de pensão decorrente da morte do ex-companheiro (e-STJ, fls. 10-23).
+O Juízo de Direito do Estado do Ceará, onde a demanda foi inicialmente proposta, reconheceu sua incompetência por entender que as normas consumeristas não se aplicam ao caso, razão pela qual o feito não deveria tramitar no domicílio da parte autora, mas no local da prestação dos serviços realizados pelo de cujos (e-STJ, fls. 229-233 - sem grifo no original):
+Trata-se de Ação Declaratória c/c Obrigação de Dar e Fazer proposta por Cleane Viana dos Santos, em face de Fundação Petrobrás de Seguridade Social - Petros, a fim de obter o direito ao recebimento da suplementação de pensão previsto no regulamento da demanda.
+Na peça contestatória, a Requerida apresentou preliminar de incompetência em razão do lugar, na qual aventou que o Juízo Natural seria uma das Varas Cíveis da Comarca do Rio de Janeiro/RJ.
+Em réplica e manifestação sobre a competência, a Requerente pugnou pela permanência do feito em Camocim baseado no direito ao acesso à justiça e, subsidiariamente, pugnou que o processo fosse remetido para a Comarca de Anápolis/GO, onde o de cujus efetivamente trabalhava.
+É o breve relato. Decido.
+Inicialmente, reconheço a incompetência deste Juízo para julgamento do feito, pois é inaplicável à matéria aqui guerreada as normas consumeristas, nos termos da Súmula 563 do STJ. Ademais, não é cabível a alegação de vilipêndio ao acesso a justiça, vez que se tornou prática comum realizar audiências virtuais. Ainda que as testemunhas da autora residam em comarca distinta, elas poderão facilmente serem ouvidas. Não havendo que se falar em dificuldade na produção de prova.
+Talqualmente, a alegação da Requerida de que a Comarca competente seria Rio de Janeiro/RJ não possui fundamento. Explico: nesses casos, a jurisprudência do STJ informa haver foros com competência concorrente, sendo lícito à Requerente optar entre: o foro de domicílio da ré, o eventual foro de eleição ou mesmo o foro onde labora(ou) para a patrocinadora. Senão vejamos (grifei):
+ ..
+Assim sendo, como a Requerente expressamente optou (fl. 191), ainda que subsidiariamente, pelo declínio de competência para a Comarca de Anápolis/GO, local onde o falecido prestava seus serviços, reputo tal Juízo como competente para o processamento do feito.
+Por todo exposto, DECLARO a incompetência deste foro face a competência da Comarca de Anápolis/GO, foro onde o falecido laborava, para processamento da ação em tela.
+Recebidos os autos, o Juízo do Estado de Goiás suscitou o presente conflito, pois a competência relativa não poderia ser declinada de ofício. Considerou, além disso, que o foro competente seria o do local "onde deve ser cumprida a obrigação contratual" (e-STJ, fl. 250).
+O Ministério Público Federal opinou pela competência do "Juízo de Direito da 2ª Vara da Comarca de Camocim - CE" (e-STJ, fl. 272).
+Brevemente relatado, decido.
+Nos termos da Súmula n. 563/STJ, " o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas".
+Portanto, a relação jurídica estabelecida entre as partes não é regida pelo CDC.
+Cumpre observar, ademais, que no presente caso não houve competência relativa declinada de ofício.
+Conforme se observa da decisão proferida pelo Juízo suscitado, a parte requerida apresentou preliminar de incompetência na contestação e, na réplica, a parte autora manifestou, subsidiariamente, pela competência da Comarca de Anápolis/GO, onde o de cujus trabalhava.
+Nesse contexto, aplica-se a jurisprudência do Superior Tribunal de Justiça segundo a qual "à luz da legislação de regência do contrato previdenciário, é possível ao participante e/ou assistido de plano de benefícios patrocinado ajuizar ação em face da entidade de previdência privada no foro de domicílio da ré, no eventual foro de eleição ou mesmo no foro onde labora(ou) para a patrocinadora" (REsp n. 1536786/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/08/2015, DJe 20/10/2015).
+Nessa ordem de ideias, impõe-se reconhecer a competência do foro onde o participante do plano de benefícios laborou para a patrocinadora.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 5ª Vara Cível de Anápolis/GO (suscitante).
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. DEMANDA AJUIZADA CONTRA ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. SUPLEMENTAÇÃO DE BENEFÍCIO. RELAÇÃO JURÍDICA QUE NÃO É REGIDA PELO CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA N. 563/STJ. POSSIBILIDADE DE ESCOLHA, PELO BENEFICIÁRIO, ENTRE O FORO DE DOMICÍLIO DA RÉ, O FORO DE ELEIÇÃO E O DO LOCAL ONDE PRESTADOS OS SERVIÇOS PARA A PATROCINADORA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
