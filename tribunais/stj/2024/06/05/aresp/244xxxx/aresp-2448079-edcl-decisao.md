@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VILLA LA ANGOSTURA LTDA. contra decisão monocrática de minha relatoria, por meio da qual conheci do agravo para não conhecer do recurso especial, em razão da incidência da Súmula n. 211/STJ e da prejudicialidade da análise da divergência jurisprudencial (fls. 2.744-2.750).
+A embargante aduz que "sustentou diversas teses, dentre quais a ocorrência de cerceamento do direito de defesa. Tal argumento amparou-se na premissa que a embargante não restou intimada para contrarrazoar o recurso de apelação, no prazo legal, conforme determinado pela e. relatora (Num. 141741664 -pág. 1)" (fl. 2.753).
+Por fim, "Requer ainda que o seja reconhecido que o encaminhamento da carta de intimação para endereço diverso, com o qual a embargante não mantinha nenhum tipo de vínculo, obstou o pleno exercício do contraditório e da ampla defesa, que são corolários do devido processo legal, devendo assim ser declarada a nulidade de todos os atos praticados a partir da intimação defeituosa, restituindo, de consequência, os autos ao Tribunal de Origem, que deverá reabrir o prazo para que apresente as contrarrazões necessárias e novo julgamento seja realizado" (fl. 2.756).
+Impugnação aos embargos de declaração (fls. 2.774-2.779).
+Requer a aplicação de multa por litigância de má-fé.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Não há omissão na decisão embargada.
+No caso dos autos, consoante assentado na referida decisão, a violação do art. 274 do CPC não foi alegada nas razões do recurso especial, porquanto não há omissão.
+Demais disso, de acordo com a jurisprudência pacífica desta Corte, "Nos termos do art. 274, parágrafo único, do CPC, presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo". (REsp n. 2.089.756/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024.)
+No mesmo sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MANDADO DE INTIMAÇÃO POSTAL AO AUTOR PARA QUE PROMOVESSE O ANDAMENTO DO FEITO. MUDANÇA DE ENDEREÇO NÃO COMUNICADA NOS AUTOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. É válida a intimação da parte promovida no endereço constante dos autos, ainda que não recebida pessoalmente pelo interessado, em razão de alteração de endereço, porquanto a parte e seu patrono são responsáveis pela atualização do endereço para o qual sejam dirigidas as intimações necessárias (CPC/2015, arts. 77, V, e 274, parágrafo único), devendo suportar os efeitos decorrentes de sua desídia. Precedentes.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3.Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.990.057/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADVOGADOS. RENÚNCIA DE PODERES. INTIMAÇÃO. ART. 76, § 2º, I, DO CPC. TRANSCURSO DO PRAZO IN ALBIS. RECORRENTES NÃO MAIS INSTALADAS NO ENDEREÇO CONSTANTE NOS AUTOS. ART. 274, PARÁGRAFO ÚNICO, DO CPC. INTIMAÇÕES VÁLIDAS. NÃO CONHECIMENTO.
+1. "É imperioso o não conhecimento do agravo interno quando a parte, devidamente notificada da renúncia de mandato por parte de seus procuradores, deixa de regularizar sua representação processual, a teor do art. 76, § 2º, I, do CPC/2015." (AgInt no AREsp 1690469/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/05/2021, DJe 20/05/2021) 2. "É válida a intimação da parte promovida no endereço constante dos autos, ainda que não recebida pessoalmente pelo interessado, em razão de alteração de endereço, porquanto a parte e seu patrono são responsáveis pela atualização do endereço para o qual sejam dirigidas as intimações necessárias (CPC/2015, arts. 77, V, e 274, parágrafo único), devendo suportar os efeitos decorrentes de sua desídia. Precedentes." (AgInt nos EDcl no AREsp 1715375/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/3/2021, DJe 13/4/2021) 3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.392.132/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/8/2021, DJe de 25/8/2021.)
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REDISCUSSÃO DE QUESTÃO APRECIADA. NÃO CABIMENTO.
+1- Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2- Esta Corte Superior perfilha o entendimento de que "os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores" (AgInt no AREsp n. 2.097.025/SP, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022).
+3- Embargos de declaração rejeitados.
+(EDcl nos EDcl no REsp n. 1.976.376/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/11/2022, DJe de 10/11/2022.)
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Deixo de condenar a embargante por litigância de má-fé, por não vislumbrar conduta processual temerária d e sua parte.
+Ante o exposto, rejeito o s embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. INEXISTÊNCIA DE VÍCIO NA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
