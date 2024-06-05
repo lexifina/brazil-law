@@ -1,0 +1,37 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 276 (e-STJ):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ARNALDO SANTOS CIONE em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1514422-66.2021.8.26.0228).
+O paciente foi condenado à pena de 6 anos de reclusão em regime fechado, e ao pagamento de 600 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006.
+O impetrante sustenta: a) preenchimento dos requisitos para incidência do redutor do tráfico privilegiado na fração máxima de 2/3; b) ausência de fundamentação suficiente a justificar o afastamento do redutor em razão da quantidade de drogas; c) existência de condições pessoais favoráveis, notadamente, primariedade e não pertencimento à organização criminosa; e d) direito ao regime inicial aberto, em razão do redimensionamento da reprimenda pela aplicação da causa especial de diminuição de pena, e à substituição da prisão por restritiva de direitos.
+Requer, liminar e definitivamente, deferimento da ordem para que seja aplicada a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, com a consequente fixação do regime inicial aberto e sua substituição por restritiva de direitos.
+A liminar foi indeferida pelo Min. Ministro João Batista Moreira (Desembargador convocado do TRF1) (e-STJ fls. 276-277).
+As informações foram prestadas às e-STJ fls. 281-283 e 284-305.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 309-319).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem sobre a controvérsia (e-STJ fls. 241):
+Na terceira fase, a dupla reincidência obsta a aplicação do redutor do artigo 33, § 4º, da Lei nº 11.343/2006.
+Ante a pena aplicada e a dupla reincidência, o regime inicial será fixado no fechado, nos termos do artigo 33, § 2º, "b", do Código Penal, restando incabível a substituição da pena privativa de liberdade por restritiva de direitos (artigo 44, incisos I e II, do Código Penal).
+Saliente-se que a jurisprudência desta Corte é pacificada no sentido de que "tratando-se de acusado reincidente, é incabível a aplicação do redutor do tráfico privilegiado por ausência de preenchimento dos requisitos legais, sendo certo que a utilização de tal vetor concomitantemente na segunda e terceira fases da dosimetria não ensejam bis in idem" (AgRg no AREsp n. 2.433.493/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024.).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE É REINCIDENTE. AUSÊNCIA DE REQUISITO EXIGIDO EM LEI. PRECEDENTES. REGIME INICIAL FECHADO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS MANTIDOS. QUANTUM DE PENA E REINCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. Não verifico nenhuma ilegalidade a ser sanada na negativa de reconhecimento do tráfico privilegiado ao paciente, ante a ausência do primeiro requisito cumulativo exigido em Lei, que é a primariedade. Por oportuno, observo que nos termos da jurisprudência desta Corte Superior, "A reincidência, específica ou não, não se compatibiliza com a causa especial de diminuição de pena prevista § 4.º do art. 33 da Lei n.º 11.343/06, dado que necessário, dentre outros requisitos, seja o agente primário. Tal óbice e a exasperação da pena, na segunda fase, não importam em bis in idem, mas em consequências jurídico-legais distintas de um mesmo instituto" (HC n. 229.340/SP, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 5/9/2013, DJe 11/9/2013). Desse modo, qualquer tipo de reincidência impede a aplicação do referido benefício.
+ ..
+4. Agravo regimental não provido.
+(AgRg no HC n. 892.275/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024 - grifos acrescidos.)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
