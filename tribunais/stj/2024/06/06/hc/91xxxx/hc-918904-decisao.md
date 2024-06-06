@@ -1,0 +1,12 @@
+DECISÃO
+JOSÉ AIRTON ASSUNÇÃO GOMES, condenado por resistência qualificada, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, que não remeteu o processo para oferta do benefício da suspensão condicional do processo, objetivo este reiterado liminarmente nesta oportunidade, notadamente porque iniciada a execução penal.
+O caso permite o julgamento antecipado, visto que encontra óbice na pacífica orientação desta Corte sobre o tema. Depreende-se dos autos que o paciente foi denunciado por dois delitos, mas absolvido de um deles e condenado pelo outro (resistência qualificada) ao cumprimento de 1 ano de reclusão no regime aberto.
+Infere-se da sentença condenatória, mantida pelo acórdão impugnado, que muito embora o paciente haja sido condenado apenas por crime que permitiria a suspensão condicional do processo, haja vista sua absolvição na sentença pela suposta prática de outro delito mais grave, destacou o magistrado de primeiro grau (fl. 26, destaquei):
+Deixo de substituir aspenasem destaque e de aplicar o benefício da suspensão condicionalda pena, haja vista que ausentes os requisitos legais objetivos, eis que o crime foi cometido com violênciaà pessoa.
+Como se observa no caso, a proposta de suspensão condicional do processo, tal como peliteada pela defesa, seria inviável, visto que o crime foi perpetrado com violência a pessoa, tanto que nem pode ser substituída por penas restritivas de direito.
+Em situações similares, este Superior Tribunal pacificou o entendimento segundo o qual "o acusado não faz jus ao benefício, visto que não preenche todos os requisitos previstos no art. 77 do Código Penal, por se tratar de crime cometido mediante violência" (AgRg nos EDcl no REsp n. 1.700.643/RS, relator Ministro Felix Fischer, DJe 8/10/2018).
+Realço que que o preenchimento dos requsitos do art. 77 do CP é uma das exigências do art. 89 da Lei n. 9.099/1995, que preceitua: "Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena" (destaquei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
