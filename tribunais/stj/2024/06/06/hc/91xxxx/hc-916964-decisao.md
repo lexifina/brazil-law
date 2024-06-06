@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de MARCOS VINICIUS SOUSA DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS proferido no julgamento da Apelação Criminal n. 0000022-93.2022.8.07.0009.
+Infere-se dos autos que o paciente foi condenado à pena de 2 anos de reclusão, no regime aberto, pela prática do delito tipificado no art. 14 da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso permitido).
+O recurso de apelação interposto pela defesa perante o Tribunal de origem foi desprovido por acórdão assim ementado:
+"APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO. PEDIDO DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL POR FORÇA DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. INTELIGÊNCIA DA SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ENTENDIMENTO EM CONFORMIDADE COM TESE FIXADA PELO SUPREMO TRIBUNAL FEDERAL (TEMA 158 DA REPERCUSSÃO GERAL) E DESTA CORTE DE JUSTIÇA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A incidência de circunstâncias atenuantes não autoriza a redução da pena-base aquém do mínimo legal na segunda fase da dosimetria da pena. Aplicação da Súmula 231 do Superior Tribunal de Justiça. Entendimento em conformidade com tese fixada pelo Supremo Tribunal Federal (Tema 158 da Repercussão Geral).
+2. Recurso conhecido e não provido para manter a condenação do réu como incurso no artigo 14, caput, da Lei nº 10.826/2003 (porte ilegal de arma de fogo de uso permitido), às penas de 02 (dois) anos de reclusão, em regime inicial aberto, mais 10 (dez) dias-multa, calculados à razão unitária mínima, substituída a pena privativa de liberdade por duas penas restritivas de direitos, a serem fixadas pelo Juízo da Execução." (fl. 250)
+A defesa busca a redução da pena, na segunda fase, abaixo do mínimo legal e a substituição da pena por medida restritiva de direito, por ter sido o crime praticado com simulacro de arma de fogo.
+O Ministério Público Federal - MPF manifestou-se pelo não conhecimento do writ, em parecer de fls. 352/356.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Todavia, tenho por prudente verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem, de ofício, o que, contudo, não é o caso dos autos.
+Com efeito, o STF, no julgamento do Recurso Extraordinário n. 597.270, sob o regime da repercussão geral, reconheceu a constitucionalidade do enunciado sumular n. 231 do STJ. Por oportuno, segue a ementa do aresto:
+"AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal."
+(RE 597270 QO-RG, Relator(a): Min. CEZAR PELUSO, julgado em 26/03/2009, REPERCUSSÃO GERAL - MÉRITO DJe-104 DIVULG 04-06-2009 PUBLIC 05-06-2009 EMENT VOL02363-11 PP-02257 LEXSTF v. 31, n. 366, 2009, p. 445-458.)
+Nesse mesmo sentido vem se orientando a jurisprudência desta Corte Superior, que tem mantido a aplicação da Súmula n. 231/STJ em julgados recentes, conforme se verifica dos seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. DESCABIMENTO. SÚMULA N. 231 DO STJ. TESE DE OVERRULING. DESCABIMENTO. ARGUMENTAÇÃO DESCONEXA E SEM RAZOABILIDADE. REGIMENTAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. PLEITO DE SOBRESTAMENTO DO JULGAMENTO DO FEITO EM RAZÃO DA REALIZAÇÃO DE AUDIÊNCIA PÚBLICA ACERCA DO TEMA TRATADO NOS AUTOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling).
+2. No regimental, não houve impugnação aos fundamentos da decisão agravada, incidindo, assim, a Súmula n. 182/STJ.
+3. Agravo regimental não conhecido. Indeferido o pleito de sobrestamento do julgamento deste feito em razão da ausência de previsão legal para tanto.
+(AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO. ATENUANTE. VIOLENTA EMOÇÃO. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231 DO STJ. INCIDÊNCIA. PLEITO DE CANCELAMENTO DO ENUNCIADO SUMULAR. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Nos termos da Súmula 231 desta Corte, a incidênci a de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+III - Consoante arts. 122 e 125 do Regimento Interno do Superior Tribunal de Justiça, apenas os Ministros desta Corte possuem legitimidade para propor a revisão dos respectivos enunciados sumulares. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 758.457/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
