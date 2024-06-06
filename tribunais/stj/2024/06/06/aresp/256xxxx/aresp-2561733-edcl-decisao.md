@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VINICIUS CONCEICAO DE SOUZA à decisão de fls. 608/609, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Viu-se que a r. decisão de fls. 608-609 não conheceu do recurso interposto ao argumento de que ele é manifestamente intempestivo, tendo o Embargante sido intimado do acórdão recorrido em 06/03/2020 e o recurso especial sido interposto apenas em 08/10/2020.
+Ao assim se pronunciar, com o respeito máximo de costume, a r. decisão foi omissa quanto ao fato de que a pandemia do COVID-19 assolou o mundo inteiro justamente no início do ano de 2020.
+Vale o registro de que, à época, o processo tramitava de forma física no TRF1. A publicação do acórdão se deu em 06/03/2020 (sexta-feira - fl. 492 dos autos físicos). Contudo, em 19/03/2020 (decorridos apenas 9 dias úteis do prazo legal), a Resolução nº 313 do CNJ, em seu artigo 5º, suspendeu os prazos a contar de 19/03/2020 até 30/04/2020 (anexo).
+Após, em 20/04/2020, a Resolução nº 314 do CNJ (anexa), em seu artigo 1º, prorrogou para 15/05/2020 a vigência da Resolução nº 313 de 19/03/2020 e, em seu artigo 2º, determinou que continuavam suspensos os prazos DE PROCESSOS FÍSICOS. SALIENTE-SE QUE A MIGRAÇÃO DOS AUTOS PARA O PJE APENAS FOI ORDENADA EM 22/02/2021, conforme se infere do andamento processual em anexo.
+Logo em seguida, em 07/05/2020, a Resolução nº 318 do CNJ (anexa), em seu artigo 1º, prorrogou para 30/05/2020 a vigência da Resolução 313 de 19/03/2020 e, em seu artigo 2º, determinou que em caso de lockdown, os prazos permaneceriam suspensos pelo tempo que perdurarem as restrições.
+Por fim, a Resolução PRESI 11315077 do TRF1, em seu artigo 3º, determinou a retomada integral dos prazos dos processos físicos em 05/10/2020. Essa resolução também trouxe uma tabela em anexo, especificando as datas em que a retomada de prazos aconteceria em cada seção judiciária, declarando o início da etapa preliminar de retomada dos prazos de processos físicos no TRF1 em 05/10/2020. Veja-se (anexo):
+ ..
+Considerando que a suspensão dos prazos foi determinada quando já se haviam passado 9 dias úteis do prazo legal, com a retomada no dia 05/10/2020, o decurso de prazo ocorreria apenas em 13/10/2020.
+A esse respeito, veja que o AREsp foi interposto em 08/10/2020 - três dias úteis antes do vencimento do prazo (ID 101475240, página 108 da rolagem). Veja:
+ ..
+Perceba que o recurso, com o máximo respeito de costume e merecimento, é tempestivo, e por isso é INDISPENSÁVEL a manifestação desta Corte sobre o tema.
+Outrossim, registre-se que a regra contida no §6º do art. 1.003 do CPC refere-se expressamente à comprovação da ocorrência de feriado local - o que claramente não é a hipótese dos autos. A regra processual foi estabelecida por ser impossível ao magistrado ter conhecimento de feriados particulares e exclusivos de cada um dos 26 estados do Brasil, além do Distrito Federal.
+Na verdade, na hipótese dos autos não se tratou de feriado local, mas de uma pandemia mundial que era do conhecimento de todos (fls. 612/615).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Registre-se que, e m razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
