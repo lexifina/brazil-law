@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado do Paraná, em face do acórdão da 2ª Turma Recursal Suplementar dos Juizados Especiais do Paraná assim ementado:
+
+    “AGRAVO INTERNO. DECISÃO MONOCRÁTICA. REDISCUSSÃO DA MATÉRIA JULGADA. MERO INCONFORMISMO. ARGUMENTOS ENFRENTADOS NO BOJO DO RECURSO INOMINADO. CORRETA APLICAÇÃO DO TEMA 942, STF. PRECEDENTES DA 4ª TURMA RECURSAL. AGRAVO CONHECIDO E NÃO PROVIDO.”
+
+    Na minuta, sustenta-se violação dos arts. 22, XXI, e 150, § 6º, da Constituição da República e 35 da Emenda Constitucional nº 103/2019.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, bem como da legislação infraconstitucional aplicável (Lei Estadual nº 17.435/2012), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “DIREITO ADMINISTRATIVO, TRIBUTÁRIO E PREVIDENCIÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR PÚBLICO ESTADUAL. PORTADOR DE MOLÉSTIA GRAVE. ISENÇÃO. COMPETÊNCIA LEGISLATIVA DOS ESTADOS. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. LEI ESTADUAL Nº 17.345/2012. APLICAÇÃO DA SÚMULA Nº 280/STF. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. A controvérsia relativa a isenção de contribuição previdenciária de servidor público portador de moléstia grave com fundamento na Lei Estadual nº 17.345/2012, não alcança estatura constitucional. Precedentes. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. A teor do art. 85, § 11, do CPC, o ’tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 3. Agravo interno conhecido e não provido.” (ARE 1.415.848-AgR, Rel. Min. Rosa Weber - Presidente, Plenário, DJe 15.6.2023)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. CONTRIBUIÇÃO PREVIDENCIÁRIA. ISENÇÃO. PORTADOR DE MOLÉSTIA GRAVE. LEGISLAÇÃO LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULAS 279 E 208 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL EM DESFAVOR DA PARTE RECORRENTE, CASO AS INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º E 3º E A EVENTUAL CONCESSÃO DE JUSTIÇA GRATUITA. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.” (ARE 1.418.609-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 25.5.2023)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. POLICIAL MILITAR ESTADUAL. COMPETÊNCIA LEGISLATIVA DOS ESTADOS. ISENÇÃO. PORTADOR DE MOLÉSTIA GRAVE. VIGÊNCIA. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. PRECEDENTES. DESPROVIMENTO DO AGRAVO. 1. A atribuição da competência legislativa federal para edição de normas gerais das polícias militares e corpos de bombeiros militares, não exclui a competência legislativa dos Estados para tratar das especificidades atinentes aos temas previstos pela própria Constituição como objeto de disciplina em lei específica de cada ente estatal em relação aos militares que lhes preste serviço, inclusive às relativas ao regime de aposentadoria dos militares estaduais. 2. Essa competência legislativa atribuída aos Estados abrange inclusive a fixação do aspecto econômico da contribuição previdenciária a ser aplicada aos militares estaduais. 3. Inconstitucionalidade da Lei 13.954/2019 no que invadiu essa competência. Precedentes. ADI 4.912. RE 1.338.750-RG, Tema 1.177. 4. Reconhecida a inconstitucionalidade da lei federal, a discussão sobre a vigência de normas estaduais editadas no exercício dessa competência demanda a análise prévia da legislação local aplicável ao caso, a inviabilizar o processamento do recurso extraordinário. Incide, na hipótese, a Súmula 280 do STF. 5. Agravo regimental a que se nega provimento.” (ARE 1.392.066-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 20.4.2023)
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. POLICIAL MILITAR NA RESERVA REMUNERADA. ISENÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA, POR SE TRATAR DE PORTADOR DE MOLÉSTIA GRAVE. LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. INCIDÊNCIA. 1. O Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 e 356, ambas do STF. 2. A análise da pretensão recursal está situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. 3. A solução da controvérsia depende da análise da legislação local, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário. 4. Agravo Interno a que se nega provimento.” (ARE 1.394.040-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 04.11.2022)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 6 de junho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
