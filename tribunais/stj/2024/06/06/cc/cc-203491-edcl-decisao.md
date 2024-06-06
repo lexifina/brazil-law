@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Renilson Brandão Vale contra decisão de fls. 31-33 que conheceu do conflito negativa de competência para declarar competente o Juízo Federal da 15ª Vara do Juizado Especial Cível de Goiânia - ST/GO (suscitado).
+A embargante em suas razões informa que o Tribunal de Justiça do Estado de Goiás deu provimento ao seu agravo de instrumento para reformar a decisão do Juízo e reconhecer a competência da Justiça Estadual para o julgamento da questão dos autos, com trânsito ocorrido em 18/12/2023. Requer, assim, o acolhimento dos embargos de declaração, para que seja declarado competente do Juízo de Direito da 2ª Vara Cível e Ambiental Trindade - GO, como competente para processar e julgar a demanda aqui posta.
+Houve decurso de prazo para resposta (cf. certidão de fl. 144).
+É o relatório. Passo a decidir.
+Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, foi juntado aos autos o inteiro teor da decisão proferida nos autos do Agravo de Instrumento n. 5755524-62.2023.8.09.0149, onde o Desembargador Relator do Tribunal de Justiça do Estado de Goiás deu provimento ao recurso do então embargante "para reformar a decisão recorrida e reconhecer a competência da Justiça Estadual para o julgamento da lide da espécie" (fls. 102-106, grifei). A decisão transitou em julgado.
+Dessa forma, tal situação afasta a existência de conflito negativo de competência entre os juízos e atrai a incidência da Súmula n. 59/STJ, segundo a qual "não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízes conflitantes".
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para tornar sem efeito a decisão de fls. 31-33 e não conhecer do conflito negativo de competência, diante de decisão transitada em julgado, onde se declarou a competência da Justiça Estadual para o julgamento da questão.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DECISÃO TRANSITADA EM JULGADO QUE RECONHECEU A COMPETÊNCIA DA JUSTIÇA ESTADO PARA O JULGAMENTO DA QUESTÃO. SÚMULA 59/STJ. CONFLITO NÃO CONHECIDO. EMBARGOS ACOLHIDOS, COM EFEITOS MOFICATIVOS.
