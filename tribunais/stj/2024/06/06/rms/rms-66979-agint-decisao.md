@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto pelo ESTADO DO MATO GROSSO DO SUL , contra decisão que negou provimento ao seu Recurso Ordinário em Mandado de Segurança.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração.
+Posto isso, nos termos do § 2º do art. 1.021 do Código de Processo Civil, RECONSIDERO a decisão de fls. 253/255e e 268/271e, restando, por conseguinte, PREJUDICADOS os Embargos de Declaração de fls. 284/298e, 310/314e e o presente Agravo Interno (fls. 276/283e).
+Publique-se e intimem-se.
+EMENTA
