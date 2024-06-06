@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONTRATO ADMINISTRATIVO. RESCISÃO UNILATERAL. REPARAÇÃO DE DANOS. LUCROS CESSANTES NÃO CONFIGURADOS. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por GEOSOLO ENGENHARIA PLANEJAMENTO E CONSULTORIA LTDA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (e-STJ fl. 587) :
+ADMINISTRATIVO E PROCESSUAL CIVIL - RECURSO DE APELAÇÃO CÍVEL COM REEXAME NECESSÁRIO - AÇÃO DE REPARAÇÃO DE DANOS - CONTRATO ADMINISTRATIVO - RESCISÃO UNILATERAL - LUCROS CESSANTES - DANO HIPOTÉTICO - NÃO CONFIGURADO - TRANSAÇÃO ADMINISTRATIVA - INDISPONIBILIDADE DO INTERESSE PÚBLICO - DANO AO ERÁRIO - IMPOSSIBILIDADE - SENTENÇA RETIFICADA EM REEXAME NECESSÁRIO - RECURSO PREJUDICADO.
+Evidenciada a ausência da demonstração dos lucros cessantes, não caracterizados como danos hipotéticos e sem suporte na realidade concreta em exame, com os cálculos apresentados meramente fictícios, sem qualquer previsão contratual, não há falar em indenização por parte do Estado, em razão da rescisão unilateral do contrato administrativo. Inexistência de demonstração do dano e do nexo de causalidade.
+Em razão do Princípio da Indisponibilidade do Interesse Público, são vedados ao administrador quaisquer atos que impliquem renúncia a direitos do Poder Público ou que, injustificadamente, onerem a sociedade.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do especial, a recorrente defende violação aos arts. 1.022, II, do CPC/2015, 79, § 2º, da Lei nº 8.666/93 c/c art. 402, do Código Civil, bem como divergência jurisprudencial.
+Em síntese, aduz que: a) o Tribunal de origem não se manifestou sobre questões suscitadas nos embargos de declaração; b) incorreto o entendimento quanto à ausência de demonstração de lucros cessantes e impossibilidade de condenação do recorrido ao pagamento de indenização em razão da rescisão unilateral do contrato administrativo, uma vez que há nos autos comprovação do dano e nexo de causalidade.
+Apresentadas contrarrazões e admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+Parecer do Ministério Público Federal (e-STJ fls. 783/788) opinando pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+As razões não merecem prosperar.
+Isso porque, a recorrente alega que o Tribunal de origem foi omisso porquanto não teria se manifestado acerca de todas questões relevantes para o deslinde da controvérsia.
+Entretanto, sem razão a parte recorrente quanto à alegada violação ao artigo 1.022 do CPC/2015.
+Cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, os seguintes trechos do acórdão embargado a corroborar referida fundamentação (fls. 689/691 e-STJ) :
+(..)
+Não se deve considerar o acórdão omisso ou contraditório por ter adotado entendimento diverso do pretendido pela parte Embargante.
+Veja que, no caso, o acórdão pontuou uma a uma todas as questões trazidas ao debate e foi claro ao fundamentar que houve a motivação que justificou a interrupção do contrato administrativo, pois se constatou a necessidade de readequação do projeto em patamares de custos condizentes com a disponibilidade orçamentária do Estado.
+Consignei que, dos documentos juntados aos autos, o ato administrativo obedeceu às normas legais, não houve qualquer ilegalidade que pudesse anular o ato da autoridade que determinou a rescisão unilateral do contrato.
+Frisei, ainda, que a legalidade já havia sido reconhecida pela Egrégia Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo deste Tribunal de Justiça, quando do julgamento do Mandado de Segurança nº 83948/2009.
+Anotei, ademais, que não há desconsiderar que o contratado, em decorrência da rescisão unilateral da avença, fará jus, nos termos do art. 79, §2º, da Lei n- 8.666/93, a indenização dos prejuízos que vier a sofrer. Para tanto, deverá ser determinado o montante de gastos e despesas, praticados pela parte e estimar os lucros que apuraria na execução.
+Com efeito, a prerrogativa de rescindir, unilateralmente, o contrato administrativo, por razões de interesse público, não exime a Administração de indenizar os prejuízos sofridos pelo particular ou os lucros que ele deixou de auferir, em decorrência da extinção da avença. principalmente se o contratado não deu causa à rescisão, desde que comprovados os danos.
+Ressaltei que os danos devem ser previsíveis já na celebração do contrato, ou seja, são indenizáveis os lucros que o contratante obteria com a execução direta do contrato, e não os que seriam obtidos em decorrência de fatores diversos, ou indiretos, aos efeitos do contrato.
+Ocorre que, na hipótese dos autos não se verificou qualquer dano a justificar o pagamento da indenização da quantia liquidada de R$ 8.340.475,73 (oito milhões, trezentos e quarenta mil, quatrocentos e setenta e cinco reais e setenta e três centavos).
+Ao contrário, ficou evidenciada a ausência de demonstração de lucros cessantes, que não podem ser caracterizados como danos hipotéticos e sem suporte na realidade concreta em exame, uma vez que a obra sequer foi iniciada.
+Não há nos autos qualquer demonstração de que a empresa contratada tenha realizado qualquer investimento próprio, destinado à execução do serviço público contratado, e os cálculos apresentados são meramente fictícios, sem qualquer previsão contratual.
+Ainda mais, considerado fato de que a execução inicial da obra sequer foi autorizada pela Administração Pública, e todas as tratativas só ficaram no papel. Dessarte, não há falar cm prejuízos por parte da Recorrente, de qualquer natureza, portanto, não há nexo de causalidade para a pretendida indenização.
+Cumpre frisar, ainda, que a decisão objurgada está fundamentada em jurisprudência consolidada do Superior Tribunal de Justiça, pela qual se entende que, para que o particular seja indenizado pelos prejuízos decorrentes da rescisão unilateral do contrato administrativo, é necessária a comprovação da existência dos referidos prejuízos, em conformidade com o § 2º do art. 79 da Lei nº 8.666/93.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa ao artigo 1.022 do CPC/2015. Nesses termos, não há omissão que dê ensejo ao acolhimento dos aclaratórios.
+Quanto à questão de fundo, melhor sorte não socorre à recorrente.
+Observa-se do acórdão recorrido o entendimento no sentido de que houve motivação que justificasse a interrupção do contrato administrativo diante da necessidade de readequação do projeto com a disponibilidade orçamentária do Estado, bem como pela regularidade do ato administrativo que determinou a rescisão unilateral do contrato. Por fim ficou consignado que, na hipótese dos autos, não se verificou prejuízo de qualquer natureza e, muito menos nexo de causalidade para a pretendida indenização.
+Nesses termos, admitir entendimento contrário ao que chegou o Tribunal de origem demandaria revolvimento de fatos e provas, o que atrai a incidência do enunciado sumular nº 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. INADIMPLEMENTO DAS AGRAVANTES COMPROVADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 2. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 3. AGRAVO INTERNO IMPROVIDO.
+1. Ao analisar o conjunto fático-probatório dos autos, o Tribunal estadual concluiu que a rescisão contratual se deu por culpa das requerentes que não cumpriram sua parte no acordo, bem como pela inexistência de causas de excludente de responsabilidade. Reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+(AgInt no AREsp 1189278/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/04/2018, DJe 04/05/2018)
+Na mesma linha é o parecer do Ministério Público Federal, que se transcreve (fl. 786 e-STJ):
+(..)
+7. Por sua vez, certamente, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, novo exame do acervo fático-probatório constante dos autos, já procedido pelo Tribunal de Justiça do Estado de Mato Grosso para concluir pela existência de "motivação que justificou a interrupção do contrato administrativo, pois se constatou a necessidade de readequação do projeto em patamares de custos condizentes com a disponibilidade orçamentária do Estado.", esmiuçando o que segue:
+(..)
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. APONTADA OFENSA AOS ARTS. 4º E 5º DA LINDB, 126 E 127 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NORMA LOCAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O STJ entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O exame da controvérsia acerca do pagamento do adicional de insalubridade foi realizado com amparo na legislação local (Lei Municipal 1.863/2009 e Decreto Municipal 44/2009), sendo sua análise vedada na via Especial, consoante Súmula 280/STF, aplicável por analogia.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Interno não provido. (AgInt no AREsp 932.880/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2016, DJe 17/11/2016)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão nego-lhe provimento.
+Publique-se.
+Intimem-se. e
+(*) Republicado por determinação do Ministro Relator.
