@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Francisco Robson Braga dos Santos, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de São Paulo que denegou a ordem no HC n. 2049701-56.2024.8.26.0000.
+Verifica-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de receptação. Posteriormente, em 11/2/2024, na audiência de custódia, a prisão em flagrante foi convertida em preventiva pelo Juízo da Vara de Plantão da comarca de São Paulo/SP - Processo n. 1503969-07.2024.8.26.0228 (fls. 59/62).
+A denúncia foi recebida e a custódia cautelar mantida pela Magistrada da 28ª Vara Criminal da comarca de São Paulo em 20/2/2024 (fls. 91/92). O pedido de revogação da prisão preventiva foi indeferido em 25/2/2024 (fls. 128/129).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem em 28/4/2024 (fls. 128/129).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea e dos requisitos necessários para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está amparada na gravidade abstrata do delito e motivada de forma genérica.
+Defende-se que não há nenhuma evidência concreta acerca da autoria.
+Requer-se a concessão da ordem liberatória ou a substituição da prisão por medidas cautelares alternativas.
+Indeferida por mim a liminar em 29/4/2024 (fls. 202/204).
+Depois de prestadas informações (fls. 211/215), o Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 219/222).
+É o relatório.
+De início, registro que, não obstante a informação quanto à superveniente sentença condenatória em 13/5/2024, não está prejudicado este habeas corpus em relação aos fundamentos da prisão. Afinal, em consulta ao dispositivo da sentença no portal eletrônico do Tribunal de origem, verifiquei que o novo título está alicerçado, essencialmente, no anterior.
+Aqui, busca-se a revogação da prisão preventiva com o argumento da ausência de fundamentação para tanto e de fragilidade na comprovação da autoria.
+Ocorre que, como dito, na via do habeas corpus, não há como dirimir a tese de negativa de autoria e de ausência de provas, pois isso demandaria o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal.
+Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (RHC n. 145.064/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/6/2021).
+Quanto à fundamentação da prisão, in casu, não verifiquei constrangimento ilegal apto a ensejar a concessão da ordem nem mesmo para aplicar medidas cautelares alternativas. O Tribunal estadual, ao convalidar a necessidade da custódia cautelar imposta ao paciente e confirmar a existência de risco real à ordem pública, principalmente em razão da reiteração delitiva, expôs que (fls. 15/16 - grifo nosso):
+ ..
+Veja-se que Francisco foi preso em flagrante em região de grande movimentação de pessoas, durante o carnaval, próximo ao local dos desfiles, hipoteticamente portando a admirável quantidade de mais de quatrocentos cartões bancários. Supostamente, ao menos três desses cartões já constavam como produtos de crimes (furto e roubo) em prejuízo de vítimas devidamente identificadas.
+Ressalta-se, ainda, que o paciente responde a diversos outros processos criminais por delitos patrimoniais, inclusive já ostentando a condição de reincidente delitivo (fls. 28-36), de forma que as medidas cautelares diversas da prisão são insuficientes para a garantia da ordem pública.
+Nesse contexto, é evidente que as condenações pretéritas serão sopesadas em seu desfavor em eventual condenação, ao fim do devido processo, já não se podendo falar em desproporcionalidade da medida constritiva.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Assim, observa-se da análise dos trechos acima que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao risco de reiteração delitiva e ao modus operandi. Tudo a revelar e a justificar a manutenção da medida extrema.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+A propósito, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 813.512/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/6/2023).
+Na espécie, inexiste constrangimento ilegal passível de ser reparado pela via eleita, como bem demonstrado no parecer do Subprocurador-Geral da República Marcelo Muscogliati, o qual também adoto como razões de decidir (fls. 219/222).
+Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, em consonância com o parecer ministerial e precedentes, conheço em parte do writ e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. RECEPTAÇÃO. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RISCO FUNDADO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
