@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO MONOCRÁTICA NÃO REBATIDOS. SÚMULA N. 182/STJ APLICADA POR ANALOGIA.
+1. Não tendo o agravante, nas razões do presente recurso, atacado todos os fundamentos da decisão monocrática agravada, impõe-se a aplicação analógica da Súmula n. 182/STJ, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. É firme nesta Corte o entendimento de que "É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+3. É firme nesta Corte o entendimento de que é incabível o pedido de concessão de habeas corpus de ofício como forma de burlar a inadmissão do recurso especial e de seus consectários recursais.
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VINICIUS ROBERTO PIKCIUS contra a decisão de fls. 1.570-1.571, da Presidência desta Corte, em que não se conheceu do agravo em recurso especial do ora agravante por incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+A defesa, no agravo regimental, suscita violação do princípio da colegialidade, bem como afirma que as questões suscitadas no recurso especial foram efetivamente prequestionadas e alega a não incidência da Súmula n. 7/STJ, porquanto "a análise da nulidade por invasão de domicílio e da aplicação da minorante não se limita a uma mera reavaliação das provas produzidas nos autos, mas sim a uma questão jurídica complexa que demanda interpretação e aplicação corretas das normas vigentes" (fl. 1.604).
+Requer seja reconsiderada a decisão agravada ou que o presente recurso seja levado para a apreciação da Turma competente ou, ainda, que seja concedido habeas corpus de oficio.
+O Ministério Público Federal manifestou-se às fls. 1.620-1.622 pelo desprovimento do agravo regimental e o Ministério Público do E stado do Paraná apresentou impugnação pelo não conhecimento ou improvimento do agravo (fls. 1.633-1.637).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO MONOCRÁTICA NÃO REBATIDOS. SÚMULA N. 182/STJ APLICADA POR ANALOGIA.
+1. Não tendo o agravante, nas razões do presente recurso, atacado todos os fundamentos da decisão monocrática agravada, impõe-se a aplicação analógica da Súmula n. 182/STJ, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. É firme nesta Corte o entendimento de que "É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+3. É firme nesta Corte o entendimento de que é incabível o pedido de concessão de habeas corpus de ofício como forma de burlar a inadmissão do recurso especial e de seus consectários recursais.
+4. Agravo regimental não conhecido.
+VOTO
+A insurgência não merece prosperar.
+O Tribunal de origem não admitiu o recurso especial, com fundamento nas Súmulas ns. 7 e 83/STJ e 284/STF.
+Interposto agravo em recurso especial, a Presidência desta Corte dele não conheceu, com fundamento na Súmula n. 182/STJ, ao passo que a parte agravante deixou de impugnar especificamente o óbice da Súmula n. 284/STF.
+No agravo regimental interposto, a defesa limitou-se a suscitar violação do princípio da colegialidade, além de argumentar que o AREsp deveria ser conhecido, pois as questões suscitadas no recurso especial foram devidamente prequestionadas, demandando tão somente revaloração jurídica de fatos incontroversos, deixando, contudo, de infirmar o óbice da Súmula n. 284/STF.
+É firme nesta Corte o entendimento de que "É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+Nesse ponto, não tendo o agravante, nas razões do presente recurso, infirmado especificamente todos os fundamentos da decisão agravada, impõe-se, por analogia, a aplicação da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Desse modo, à míngua de impugnação da decisão agravada e ante a deficiência de fundamentação do recurso especial, impõe-se o não conhecimento do agravo regimental.
+Por fim, entende esta Corte que é incabível o pedido de concessão de habeas corpus de ofício como forma de burlar a inadmissão do recurso especial e de seus consectários recursais. Assim, mostra-se inviável a análise das supostas ilegalidades invocadas pela defesa. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS INDICADOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL NÃO DEMONSTRADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+2. Não cabe pedido de concessão de ordem de habeas corpus de ofício, como meio de burlar a não admissão do recurso especial. Precedentes do STJ.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 2.013.317/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022).
+Ante o exposto, não conheço do agravo regimental.
+É o voto .
