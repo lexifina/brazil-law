@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS DE IBIRAIARAS - SICREDI IBIRAIARAS RS,  com  fundamento  no  art.  105,  III,  "a"  e  "c",  da  Constituição  Federal,  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado do Rio Grande do Sul  assim  ementado:
+"APELAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS ÀEXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO.
+CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). É ilegal a fixação da taxa de juros vinculada ao Certificado de Depósito Interbancário, consoante precedentes jurisprudenciais.
+TARIFA DE ABERTURA DE CRÉDITO (TAC). A pactuação de Tarifa de Abertura de Crédito (TAC) é vedada em contratos pactuados após 30/04/2008, face à ausência de previsão legal. Inteligência da Súmula nº 565 do STJ.
+TARIFA DE LIQUIDAÇÃO ANTECIPADA (TLA). A contratação de Tarifa de Liquidação Antecipada mostra-se abusiva. Resolução n. 3.516/2007 do Banco Central do Brasil.
+JUROS DE MORA. A leitura combinada dos arts. 406 do Código Civil e 161, § 1º, do Código Tributário Nacional, bem como a dicção da Súmula nº 379 do STJ, indica que a verba limita-se a 1% ao mês.
+APELAÇÃO DESPROVIDA"  (e-STJ  fl.  542).
+Os  embargos  de  declaração  opostos  na  origem  foram  rejeitados.
+Em  suas  razões  recursais  (e-STJ  fls.  610-656),  a  recorrente  aponta , além de divergência jurisprudencial,  violação  dos  seguintes  dispositivos  com  as  respectivas  teses:
+a)  arts.  141, 489,  §  1º,  IV,  492, 1.013  e  1.022,  I e II,  do  Código de Processo Civil  -  o  órgão  julgador  incorreu  em  negativa  de  prestação  jurisdicional  ao  deixar  de  enfrentar  os  questionamentos  formulados  nos  embargos  de  declaração  opostos  na  origem, relativamente à alegada falta de interesse de agir dos ora recorridos, haja vista que as tarifas e os encargos questionados não foram incluídos na cobrança e que não foi comprovada a abusividade na utilização da taxa CDI a título de juros remuneratórios;
+b) arts. 85,  §  2º, e 485, VI, do Código de Processo Civil - se os encargos questionados nos embargos à execução, a despeito de terem sido pactuados, não foram cobrados na execução, falta interesse de agir aos embargantes para requerer a sua exclusão, devendo ser determinada, em consequência, a inversão dos ônus sucumbenciais;
+c) art. 51, § 1º, do Código de Defesa do Consumidor e 373, I, do Código de Processo Civil - não houve a comprovação de abusividade no caso concreto, mediante a demonstração de que a utilização do CDI extrapola outros índices de mercado.
+Apresentadas  as  contrarrazões  (e-STJ  fls.  700-710),  e  admitido  o  recurso  na  origem,  subiram  os  autos  a  esta  Corte  Superior.
+É  o  relatório.
+DECIDO.
+Assiste parcial razão à recorrente.
+Trata-se, na origem, de embargos à execução fundada em Cédulas de Crédito Bancário, nos quais se alegou: i) abusividade dos encargos moratórios, ii) ilegalidade na utilização do CDI e iii) ilegalidade na cobrança de tarifas (Tarifa de Abertura de Crédito e Tarifa de Liquidação Antecipada).
+Desde a contestação, a exequente/embargada vem ressaltando que a memória discriminada de cálculo apresentada juntamente com a petição inicial da execução não contemplou a incidência dos encargos e das tarifas questionadas pela parte embargante, a despeito de haver pactuação nesse sentido, a revelar a ausência de interesse processual.
+A esse respeito, contudo, o órgão colegiado assim se pronunciou:
+"(..)
+Embora a apelante sustente que não tenham integrado o cálculo juntado na execução, as cláusulas abusivas persistem nos contratos, que são os títulos que embasam a execução e o cálculo, e que podem ser revistas se, de fato, verificada a existência de abusividades. Não há qualquer impedimento para a revisão de cláusulas contratuais em sede de embargos à execução quando alegado pela parte, motivo pelo qual afasto a alegação de ausência de interesse dos embargantes" (e-STJ fl. 536-537 - grifou-se).
+Desse modo, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Frisa-se que, mesmo à luz do art. 489 do Código de Processo Civil de 2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+No ponto, a propósito, o acórdão recorrido está em consonância com o entendimento desta Corte Superior, no sentido de que
+"(..)
+É possível o questionamento das cláusulas contratuais de contrato de mútuo em embargos do devedor, e não apenas em sede de ação revisional, não só pelo fato de que ambas têm o caráter de demanda cognitiva prejudicial à execução, mas também porque os embargos veiculam: (i) matéria ampla de defesa - haja vista que, em última instância, visam a discutir a própria formação do título executivo -; e (ii) excesso de execução, o que, se acolhido, importa a redução do débito exequendo. (REsp 1365596/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/09/2013, DJe 23/09/2013)" (REsp nº 1.148.247/PB, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/2/2014, DJe de 7/4/2014).
+No tocante à utilização da variação do CDI como indexador em contratos bancários, a jurisprudência desta Corte Superior orienta-se no sentido de que:
+a) não é potestativa a cláusula que estipula os encargos financeiros de contrato de abertura de crédito em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), visto que tal indexador é definido pelo mercado, a partir das oscilações econômico-financeiras, não se sujeitando a manipulações que possam atender aos interesses das instituições financeiras, devendo eventual abusividade ser verificada no julgamento do caso concreto em função do percentual fixado pela instituição financeira, comparado às taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie (REsp nº 1.781.959/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/2/2020, DJe de 20/2/2020);
+b) considerando que a correção monetária contempla índice que recompõe a desvalorização da moeda, a aplicação da taxa CDI a este título se mostra mesmo inadequada, em razão da sua própria natureza (REsp nº 2.081.432/SC, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 22/8/2023, DJe de 29/8/2023).
+No mesmo sentido:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS BANCÁRIOS. ÍNDICE DE VARIAÇÃO DOS CERTIFICADOS DE DEPÓSITO INTERBANCÁRIO. ENCARGO FINANCEIRO. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. INAPLICABILIDADE DA SÚMULA 176/STJ. LEGALIDADE DA PACTUAÇÃO. PRECEDENTES.
+1. Não há vedação à adoção da variação dos Certificados de Depósitos Interbancários - CDI como encargo financeiro em contratos bancários, devendo o abuso ser observado caso a caso, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie, o que não ocorre na espécie. Precedentes.
+2. Agravo interno a que se nega provimento." (AgInt no REsp 2.048.980/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023 - grifou-se).
+AGRAVO INTERNO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. PARCIAL PROVIMENTO DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA. AÇÃO DE REVISÃO CONTRATUAL. ILEGALIDADE DA UTILIZAÇÃO DO CDI COMO ÍNDICE DE ATUALIZAÇÃO MONETÁRIA. SÚMULA N. 83 DO STJ. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO ALTERADA. AGRAVO INTERNO PROVIDO.
+1. O CDI não pode ser utilizado como índice de atualização monetária cumuladamente com os demais índices de remuneração de capital, por não ser fator de correção monetária, mas exprimir a rentabilidade de empréstimos de curto prazo realizados entre instituições financeiras. Incidência da Súmula n. 83 do STJ.
+(..)
+4. Agravo interno provido." (AgInt no REsp 2.006.870/RS, Rel. Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024 - grifou-se).
+No caso, o acórdão recorrido considerou ilegal a utilização do CDI como encargo moratório, citando, inclusive, julgado que já não mais representa o atual entendimento desta Corte Superior.
+Confira-se:
+"(..)
+O contrato revisado prevê, como encargos moratórios, a incidência de CDI - Certificado de Depósito Interfinanceiro mais juros remuneratórios.
+Tal cláusula mostra-se abusiva na medida em que o E. STJ já se manifestou dizendo:
+É ilegal a fixação da taxa de juros vinculada ao Certificado de Depósito Interbancário - CDI, por ser a CETIP a responsável pela sua apuração e divulgação, atraindo a incidência da Súmula nº 176 do STJ, segundo a qual é nula a cláusula contratual que sujeita o devedor a taxa de juros divulgada pela ANBID/CETIP o CDI. (AgInt no AgInt no AREsp 1599182/SP, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 04.05.2020, DJe 07.05.2020).
+(..)
+Assim, ante a abusividade da cobrança da CDI nos encargos moratórios, deve ser afastada a sua incidência, mantida a sentença" (e-STJ fls. 537-538 - grifou-se).
+No ponto, portanto, o acórdão deve ser reformado para permitir a adoção da variação dos Certificados de Depósitos Interbancários (CDIs) como encargo moratório no período de inadimplência, permanecendo vedada a sua utilização para fins de atualização monetária.
+Considerando que o acolhimento dos embargos à execução ficou adstrito ao reconhecimento de que a cobrança da Tarifa de Abertura de Crédito e da Tarifa de Liquidação Antecipada é ilegal, e não havendo controvérsia quanto ao fato de que tais tarifas não foram incluídas na memória de cálculo que instruiu a execução, deve ser reconhecido que a ora recorrente (exequente/embargada) sucumbiu em parte mínima do pedido, a justificar que os executados/embargantes passem a responder, por inteiro, pelo pagamento das custas e honorários, nos termos do parágrafo único do art. 86 do Código de Processo Civil.
+No entanto, como não houve irresignação quanto ao critério de fixação dos honorários advocatícios adotado pelas instâncias ordinárias, responderão os executados/embargantes pela somatória dos honorários fixados na sentença e majorados no julgamento da apelação.
+Ante o exposto, dou parcial provimento ao recurso especial para limitar a procedência dos embargos à execução apenas ao reconhecimento de ilegalidade da cobrança da Tarifa d e Abertura de Crédito e da Tarifa de Liquidação Antecipada, com a necessária redefinição dos ônus da sucumbência, nos termos da fundamentação.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do art. 85, § 11, do CPC, tendo em vista o parcial provimento do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
