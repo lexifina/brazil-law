@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por TAIS FERNANDA RAMOS DA COSTA contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, III, c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 184):
+ARRENDAMENTO MERCANTIL. REVISÃO DE CONTRATO. Sentença de improcedência. Apelo do autor.
+Pretensão fundada em direito de natureza pessoal, que já se achava fulminada pelo prazo prescricional de dez (10) anos aplicável à espécie quando da propositura da ação.
+Reconhecimento de ofício. Inteligência do artigo 205 do Código Civil e da orientação traçada pelo C. Superior Tribunal de Justiça, além dos precedentes desta E. Corte.
+Recurso não provido, por fundamento diverso da r. sentença. Majoração dos honorários advocatícios (art. 85, § 11, do CPC). RECURSO NÃO PROVIDO, COM OBSERVAÇÃO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 194-200).
+Nas razões do recurso especial (e-STJ, fls. 202-210), a insurgente apontou divergência jurisprudencial interpretativa em relação ao art. 189 do Código Civil.
+Sustentou, em síntese, que, nas ações revisionais de mútuo, o termo inicial do prazo prescricional decenal é a data do vencimento da última parcela do contrato, visto que se trata de relação de trato continuado.
+Apontou que, no caso dos autos," o contrato foi firmado em 29/07/2008 com previsão de pagamento em 60 parcelas, com a data da última parcela em 29/07/2012, sendo que a presente ação foi proposta em 30/05/2022, sendo certo que não se operou a prescrição decenal" (e-STJ, fl. 208).
+Sem contrarrazões.
+O Tribunal de origem não admitiu o recurso especial (e-STJ, fls. 213-215), o que levou a insurgente à interposição de agravo.
+Sem contraminuta.
+Brevemente relatado, decido.
+No caso em estudo, a Corte de origem reconheceu, de ofício, que a pretensão de revisão de cláusulas tidas como abusivas no contrato bancário objeto da demanda está fulminada pela prescrição, acordo com as seguintes justificativas (e-STJ, fl. 186-188 - sem grifo no original):
+Não obstante as razões recursais, a hipótese é de reconhecimento da ocorrência de prescrição, de ofício.
+A autora alega que o prazo prescricional decenal incide a partir da última prestação do financiamento, bem como que foi suspenso pelo artigo 3º da Lei 14.010, de 10/06/2020. Sem razão
+Com efeito, o caso dos autos envolve discussão acerca de cobranças ditas abusivas, oriundas de contrato de arrendamento mercantil, sujeita ao prazo prescricional de dez (10) anos previsto no artigo 205 do Código Civil, a contar da data de assinatura do contrato, conforme já pacificado pelo C. Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. PRESCRIÇÃO DECENAL. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. REPACTUAÇÃO DOS CONTRATOS. ASSINATURADO ÚLTIMO CONTRATO RENOVADO. SUCESSÃO NEGOCIAL. RECURSO ESPECIAL. PROVIDO.
+1. Recurso especial interposto em 09/11/2020 e concluso ao gabinete em 11/04/2022.
+2. Cuida-se de ação revisional de contratos.
+3. O propósito recursal consiste em determinar o prazo prescricional de contratos que tiveram sucessão negocial.
+4. A jurisprudência desta Corte é firme em determinar que o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+5. Havendo sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, é a data do último contrato avençado que deve contar como prazo prescricional.6. Recurso especial provido. (REsp n. 1.996.052/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, j. 17/5/2022, STJ).
+(..)
+Na data da distribuição da presente ação (30/05/2022), ou mesmo da entrada em vigor da Lei 14.010/2020, o prazo prescricional decenal já havia se consumado, sendo de rigor o reconhecimento, de ofício, de sua prescrição, seguido do decreto de extinção do processo, com resolução do mérito, nos moldes do inciso II, do artigo 487, do Código de Processo Civil.
+Resta a rejeição do recurso, por fundamento diverso da r. sentença, ante o reconhecimento da ocorrência de prescrição.
+Em que pese às alegações recursais da insurgente, não se observa a apontada divergência jurisprudencial entre os acórdãos confrontados, em virtude da inexistência de similitude fático-jurídica entre eles.
+A jurisprudência pacífica desta Corte posiciona-se no sentido de que, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário que o recorrente proceda ao cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa conferida ao mesmo dispositivo.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N. 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. MATÉRIAS DE ORDEM PÚBLICA. QUESTÃO DECIDIDA. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA. SÚMULA N. 568/STJ. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Embargos à execução.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação ao artigo 489 do CPC. Precedentes.
+3. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades, contradições ou erros materiais, deve ser afastada a alegada ofensa ao artigo 1.022 do CPC. Precedentes.
+4. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ. Precedentes.
+5. Dissídio jurisprudencial não comprovado, ante a ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Precedentes.
+6. Esta Corte Superior tem entendimento no sentido de que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional. Precedentes.
+7. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+(AgInt no AREsp n. 2.528.607/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Com efeito, enquanto na presente hipótese o acórdão recorrido reconheceu a prescrição da pretensão da parte autora, considerando que termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato, o acórdão paradigma tratou de matéria diversa, isto é, o termo inicial da pretensão de cobrança de valores decorrentes do inadimplemento de contrato de mútuo.
+Dessa forma, por versarem sobre casos distintos em suas circunstâncias fáticas e jurídicas, mostra-se inviável o conhecimento do alegado dissídio jurisprudencial.
+Ademais, ainda que superado o referido óbice processual, verifica-se que, tal como decidido pela Corte de origem, a jurisprudência do STJ é firme no sentido de que nas ações revisionais de contrato contrato bancário, nas quais se discute a legalidade das cláusulas pactuadas, a contagem do prazo prescricional decenal tem início a partir da data da assinatura do contrato.
+Confiram-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. ÓBICE DA SÚMULA N. 83/STJ.
+De acordo com a jurisprudência desta corte, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Incidência da Súmula n. 83/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.386.595/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+1. Ação revisional de contratos de empréstimo c/c repetição de indébito ajuizada em 12/12/2018, da qual foi extraído o presente recurso especial interposto em 25/01/2021 e concluso ao gabinete em 24/03/2022.
+2. O propósito recursal é dizer sobre: a) a ocorrência de negativa de prestação jurisdicional; b) a existência ou não de preclusão da matéria relativa à prescrição; c) o termo inicial do prazo prescricional da pretensão revisional de contrato bancário e d) a base de cálculo dos honorários sucumbenciais.
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+4. Se a sentença julgar integralmente improcedente a pretensão autoral, apesar de afastar a prescrição alegada pelo réu, não haverá interesse recursal deste para fazer prevalecer a tese relativa à prescrição. Assim, a interposição de recurso apenas pelo autor não acarreta a preclusão consumativa da matéria naquele momento processual. Nessa linha, na espécie, o reconhecimento da prescrição parcial da pretensão pela Corte de origem, em razão de argumento suscitado nas contrarrazões de apelação, não violou a coisa julgada nem configurou julgamento proferido fora dos limites da lide.
+5. O início do prazo prescricional decenal nas ações de revisão de contrato de empréstimo em que se discute a legalidade das cláusulas pactuadas, deve ser a data da assinatura do contrato. Precedentes.
+6. Os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo artigo 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (REsp 1.746.072/PR, Segunda Seção, DJe de 29/03/2019). Assim, havendo condenação à repetição do indébito, esse valor é que deverá servir de base de cálculo dos honorários advocatícios, porquanto reflete o proveito econômico obtido pelo recorrente (autor) na demanda, por corresponder ao resultado da diferença entre o valor originalmente cobrado e o apurado como efetivamente devido.
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em R$ 200,00 (duzentos reais) os honorários sucumbenciais fixados em favor dos advogados da parte recorrida, observados os benefícios da justiça gratuita deferidos à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
