@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Luis Cristian Filipe de Almeida Faria, apontando-se como autoridade coatora o Tribunal de Justiça da Bahia (HC n. 8050204-91.2023.8.05.0000).
+Em 10/2/2023, o paciente foi autuado em flagrante delito pela suposta prática dos crimes de tráfico de drogas e de associação para o mesmo fim. Posteriormente, a prisão preventiva foi decretada.
+Neste mandamus, o impetrante alega, em suma, ausência de fundamentos concretos para a prisão preventiva, destacando que o paciente é primário, não possui antecedentes e a quantidade de droga apreendida é pequena.
+Destaca, ainda, a existência de nulidades na fase inquisitorial, como carência de fundamentação da decisão que autorizou a busca e apreensão e nulidade do interrogatório realizado sem a presença do defensor (fl. 7).
+Por fim, aduz que existe excesso de prazo na prisão.
+Requer, inclusive em liminar, a substituição da prisão preventiva por outras medidas cautelares ou, até mesmo, pela prisão domiciliar.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Ronaldo Meira de Vasconcellos Albo, pelo não conhecimento e, no mérito, pela denegação da ordem (fls. 4.073/4.077).
+É o relatório.
+De início, destaco que as teses de nulidade da decisão que autorizou a busca e apreensão e do interrogatório realizado sem a presença do defensor e, ainda, do excesso de prazo na prisão não foram enfrentadas pelo Tribunal a quo. Assim, impossível a análise por esta Corte Superior de Justiça, sob pena de supressão de instância.
+No mais, a ordem não comporta concessão.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+No caso dos autos, consta da decisão que decretou a custódia (fls. 62/63 - grifo nosso):
+ ..
+Nos termos de interrogatório, os flagranteados alegaram ter relação com as drogas apreendidas além de demonstrarem organização e na divisão de tarefas no recebimento, armazenamento e repasse das drogas.
+As prisões foram efetuadas a partir do cumprimento de diligências em dois endereços diversos, por ordem da decisão nos autos de nº 8000863-75.2023.8.05.0201.
+No primeiro endereço, foram presos em flagrante LUIS CRISTIAN FILIPE DE ALMEIDA FARIA e WESLEY MARINHO DE OLIVEIRA RANGEL, sendo apreendida a quantidade de 77 g de droga semelhante à maconha. Já no segundo endereço, foi preso MATHEUS RODRIGUES BONFIM, com quantidade expressiva de drogas, sendo: 3 barras de maconha (1,33 kg); 1 saco de "flor de maconha" ou Skank (670 g); 1 sacola de pasta base (368 g); 1 sacola de Haxixi (312 g); MDMA 114 g, 334 comprimidos de "Extase".
+No interrogatório de LUIS CRISTIAN FILIPE DE ALMEIDA FARIA, este declarou que JUNTAMENTE COM WESLEY, MATEUS E VITOR passara a ADQUIRIR DROGAS de um contato pelo whatsapp (CR) e que a REPASSAVAM para conhecidos e colegas. Que entre as drogas, entregavam maconha, cocaína, drogas sintéticas, como êxtase MD e lança perfume. Declarou, ainda, que Matheus era quem estocava a droga em uma casa alugada por Vitor. Que já havia adquirido 1 kg de maconha pelo valor de R$2.200,00, tendo dividido com Wesley e que pagava R$ 18,00 por cada comprimido da droga "bala". (ID. 363698334 - Pág.24).
+ ..
+Considerando que todos os flagranteados confessaram a prática de crimes, da leitura dos interrogatórios, é capaz de destacar os fortes indícios de que, de forma organizada e estável, inclusive com a divisão das tarefas e lucros, os três flagranteados praticavam o crime de tráfico de drogas comprando, entregando e armazenado drogas.
+Resta completamente demonstrada a necessidade de segregação dos flagranteados para garantir a ordem pública caracterizada pela organização para a prática criminosa, diversidade e quantidade de entorpecentes encontrada com os mesmos no momento do flagrante, além dos demais itens descritos no Auto de Exibição e Apreensão. Tudo isso demonstra a periculosidade em concreto, devendo a segregação deste, portanto, garantir a ordem pública.
+ ..
+O Tribunal de Justiça, concordando com a decisão primeva, deixou consignado no acórdão o seguinte (fl. 94 - grifo nosso):
+ ..
+Em face da argumentação de insubsistência dos motivos que determinaram a decretação da custódia cautelar, verifica-se, na análise inerente ao rito do Habeas Corpus, que o decreto prisional, ora vergastado, encontra fundamentação concreta e detida de acordo com elementos indiciários que apontam que teria ocorrido a prática dos delitos de tráfico de entorpecentes e associação para o tráfico.
+O Decisum em comento lastreia-se elementos informativos, descrevendo, ainda, conforme fundamentou a Autoridade Coatora, agravidade concreta do modus operandi empregado, com suposta organização e divisão de tarefas na venda de entorpecentes.
+ ..
+Da leitura dos trechos acima não se vislumbra ilegalidade da decisão combatida, uma vez que concretamente fundamentada na garantia da ordem pública, considerando a gravidade dos delitos e as circunstâncias em que praticados, pois o caso concreto demonstra habitualidade na conduta delituosa, havendo indícios de que o paciente e demais corréus formavam uma verdadeira associação criminosa voltada para o tráfico de drogas, onde ele seria o responsável por receber a droga e repassar para os demais membros da associação.
+A propósito, nos termos da jurisprudência desta Corte, verifica-se que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade das agravantes, evidenciadas pelo fato de integrarem organização criminosa estruturalmente organizada e com divisão de tarefas, engendrada para a prática de infrações penais, em especial o tráfico ilícito de entorpecentes, tendo havido apreensão de expressiva quantidade e diversidade de drogas, vários instrumentos utilizados para preparação e embalo dos entorpecentes,  ..  circunstâncias que demonstram risco ao meio social (AgRg no RHC n. 139.900/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 23/3/2021 - grifo nosso).
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES E EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
