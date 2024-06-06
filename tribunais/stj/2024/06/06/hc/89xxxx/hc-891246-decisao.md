@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de YEFERSON VIRHUEZ HUIRTADO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1520605-82.2023.8.26.0228).
+Consta dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, § 4º, c/c o art. 40, inciso V, da Lei n. 11.343/2006, à pena de 4 anos e 8 meses de reclusão, no regime inicial semiaberto, por ter sido apreendido com 982g (novecentos e oitenta e dois gramas) de cocaína (e-STJ fls. 20/26).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido, nos termos da seguinte ementa (e-STJ fl. 28):
+TRÁFICO ILÍCITO DE ENTORPECENTES - Quadro probatório seguro e coeso à certeza da materialidade e autoria ao réu atribuída - Confissão corroborada pelos depoimentos das testemunhas de acusação - Conduta típica - Vulnerabilidade social que não justifica a prática de crime desta natureza - Comprovado caráter interestadual do crime - Manutenção da condenação - Pena-base bem exasperada face à quantidade da droga, cf. art. 42, L. 11.343/06 - Redução ao mínimo legal pela confissão espontânea - Acréscimo em 1/6 pela majorante e, ao final, redução em 1/5 pela forma privilegiada - Quantum adequado em razão da condição de "mula", conforme precedentes do STJ - Regime semiaberto exigido a partir da pena imposta, cf. art. 33, § 2º, CP - Recurso desprovido (voto nº 48553).
+Daí o presente writ, no qual sustenta a defesa ilegalidade na dosimetria da pena.
+Afirma a falta de razoabilidade no aumento da pena, na primeira fase da dosimetria, em decorrência da quantidade de droga.
+Também alega que o paciente preenche os requisitos necessários para a concessão da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, em sua fração máxima.
+Assim, requer, inclusive liminarmente, a concessão da ordem "para fixar a pena-base no piso legal, bem como para aplicar o redutor previsto no artigo 33, §4º, da Lei 11.343/06, em sua fração máxima de 2/3" (e-STJ fl. 14).
+É, em síntese, o relatório.
+Decido.
+Acerca da controvérsia, o Tribunal de origem consignou o seguinte (e-STJ fls. 33/35):
+A pena-base foi bem exasperada em 1/6 em razão da quantidade de droga apreendida, o que adequado e proporcional à repreensão da conduta, não se podendo olvidar da natureza sabidamente mais nociva da cocaína em relação a outras substâncias comumente apreendidas.
+Nem se cogite bis in idem na consideração da circunstância tanto para justificar a condenação como para exasperar a básica porque, além de afastar juntamente com outras provas dos autos a possibilidade de configuração do crime previsto no artigo 28, da Lei de Drogas, é elemento a ser obrigatoriamente observado na dosimetria da pena, conforme a letra do artigo 42, de mesmo ordenamento.
+Já na segunda fase, presente a confissão espontânea, a reprimenda torna ao mínimo legal.
+Na terceira etapa, presente a majorante, como já observado, acrescenta-se 1/6 à pena, chegando a 05 anos e 10 meses de reclusão, mais 583 dias-multa.
+Finalmente, reconhecida a forma privilegiada do delito, por se tratar de réu primário e sem antecedentes, foi a pena reduzida em 1/5, chegando a 04 anos e 08 meses de reclusão, além de 467 dias-multa, no piso legal, quantum este que há de ser mantido, apesar da pretensão defensiva de decréscimo no máximo, por ser evidente que, mesmo não compondo organização criminosa, o acusado sabia que havia uma em razão das circunstâncias delitivas, em que contratado para transportar considerável quantidade de cocaína entre diferentes Estados provavelmente entre diferentes países -, de modo que a redução deve ser aplicada em fração menor por realçar a gravidade da conduta.
+Inicialmente, tenho que a persuasão racional dos julgadores para fixar o aumento da pena-base não revela ilegalidade, haja vista a apreensão da elevada quantidade de entorpecente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. DOSIMETRIA. PENA-BASE MAJORADA NO DOBRO. QUANTIDADE DE DROGA APREENDIDA (555,489KG DE COCAÍNA). MINORANTE CONCEDIDA NA FRAÇÃO DE 1/6 (UM SEXTO). PECULIARIDADES DO CASO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Consoante dispõe o art. 42 da Lei n. 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+2. Na hipótese, a apreensão de 552,480kg (quinhentos e cinquenta e dois quilos e quatrocentos e oitenta gramas) de cocaína justificou a exasperação da reprimenda básica no dobro do mínimo. Precedentes.
+3. De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+4. Na espécie, a minorante foi concedida na fração de 1/6 (um sexto), tendo em vista o auxílio prestado pelo acusado ao tráfico internacional de drogas e a consciência de que estava a serviço de um grupo que se dedicava a atividades criminosas, o que justificou a aplicação do redutor em seu grau mínimo, ante as peculiaridades do caso concreto.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 609.738/SP, de minha relatoria, julgado em 7/12/2020, DJe de 15/12/2020, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. ALEGAÇÃO DE OMISSÃO NA DECISÃO AGRAVADA. PROPORCIONALIDADE DE AUMENTO NA PENA-BASE. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4 º, DA LEI 11.324/2006. TESES DEVIDAMENTE ENFRENTADAS. INCONFORMISMO DA DEFESA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. As teses da defesa relativas à proporcionalidade do aumento da pena-base e aplicação da minorante prevista no art. 33, § 4º, da Lei 11.343/2006, no patamar mínimo, foram devidamente enfrentadas. Concluiu-se que, além da expressiva quantidade de entorpecente apreendido, o elevado preparo técnico do grupo criminoso, com grande organização e divisão de tarefas, planejamento das atividades com antecedência e logística de comunicação justificam a fixação da pena-base no dobro do mínimo legal e que a participação do réu em organização criminosa obsta à concessão do privilégio no tráfico, não havendo falar em omissão no julgado. Precedentes.
+2. O não acolhimento de tese defensiva pelo julgador não se confunde com omissão no julgado.
+3. Agravo regimental improvido.
+(AgRg no HC n. 509.527/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 10/9/2019, DJe de 16/9/2019, grifei.)
+Ademais, na linha da jurisprudência do Superior Tribunal de Justiça, "a condição de "mula" do tráfico, por si só, não comprova que o Acusado integra organização criminosa e, por via de consequência, não se presta a fundamentar a não aplicação da minorante do tráfico privilegiado, mas, tão-somente, justifica a aplicação da referida causa de diminuição em seu patamar mínimo, de 1/6 (um sexto)" (AgRg no HC n. 663.260/SC, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 10/8/2021, DJe 25/8/2021, grifei).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4º, DA LEI DE DROGAS. MULA. FRAÇÃO DE 1/6. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise da validade do fundamento que modulou a fração de diminuição pela minorante do tráfico não encontra óbice na Súmula 7/STJ. Mas jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6.
+2. "A ciência do agente de estar a serviço de grupo criminoso voltado ao tráfico internacional de drogas é circunstância apta a justificar a redução da pena em 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Precedentes. (AgRg no AgRg no AREsp n. 1.789.960/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/4/2021)" (AgRg no REsp 1906670/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021).
+Incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1833898/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021.)
+Não vislumbro, portanto, as aventadas ilegalidades.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
