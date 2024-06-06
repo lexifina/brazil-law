@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCIANE BARBOSA FARIAS à decisão de fls. 2321/2322, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Serve o presente para apontar o erro material em relação à contagem de prazo para a interposição dos Recursos Especiais interpostos, tendo sido considerado o recurso do acusado Clemilson dos Santos Farias, intempestivo, e via de consequência, não conhecido, conforme se extrai da decisão embargada, verbis:
+ ..
+Por sua vez, oportuno salientar que o nome da Embargante consta do cabeçalho da decisão embargada como corréu:
+ ..
+Às fls. 2.049 destes autos, a Corré demonstrou com clareza solar a tempestividade relativa à interposição de Recurso Especial, a saber:
+ ..
+De igual forma, em relação ao Recurso Especial, o acusado Clemilson dos Santos Farias, também foi demonstrada objetivamente a tempestividade de sua irresignação, como se verifica às fls. 2.031 deste caderno processual, como se passa a colacionar:
+ ..
+Nessa senda, enfatizando o que se encontra descrito alhures para ambos recursos especiais: a publicação do Acórdão se deu em 11/10/2023, tal como mencionado na decisão embargada, ao passo que o início da fluência do prazo recursal ocorreu em 16/10/2023, primeiro dia útil subsequente ao dia da publicação, à luz da página oficial do Tribunal de Justiça do Estado do Amazonas, colacionada em ambos Recursos, constando a superveniência do feriado nacional de Nossa Senhora de Aparecida no dia 12/10/2023, a decretação do ponto facultativo no dia seguinte, em 13/10/2023 (igualmente como ocorreu no STJ 1 ), de maneira que o primeiro dia útil para a contagem do prazo se deu em 16/10/2023 ensejando como data final, o dia 30 de outubro de 2023, quando se deu o protocolo dos recursos especiais (fls. 2337/2340).
+LOGO, NÃO HÁ COMO DIVAGAR EM SENTIDO DIVERSO, ESTÁ CABALMENTE COMPROVADA A TEMPESTIVIDADE DOS RECURSOS ESPECIAIS, PRINCIPALMENTE PORQUE CONSTAM DE SUAS PEÇAS, FOTO DO CALENDÁRIO JUDICIAL DO TJAM, ALÉM DE MENCIONAR OS PONTOS FACULTATIVOS, FERIADO NACIONAL E MUNICIPAL NO MÊS DE OUTUBRO DE 2023, INCLUSIVE CITANDO O LINK DE REFERÊNCIA:
+https://www.tjam.jus.br/index.php/menu/calendario-judicial , ALÉM DE OBVIAMENTE CITAR O TERMO A QUO E AD QUEM DO LAPSO EM QUESTÃO. DESSA FORMA, OS EMBARGANTES EFETIVAMENTE CUMPRIRAM O COMANDO NORMATIVO PREVISTO NO § 6º DO ART.
+1.003 DO CPC.
+Dessarte, sobreleva-se que a decisão subscrita pela Presidente do TJAM, apesar de incorretamente ter negado seguimento aos nobres apelos, ressalvou o requisito de sua tempestividade, como se depreende das fls. 2.192 destes autos, a saber:
+ ..
+Resta cristalino, portanto, que a Embargante, protocolizou o seu Recurso Especial no prazo estabelecido em lei, razão pela qual deve ser corrigido o erro material em comento para declarar a tempestividade recursal e determinar o devido processamento (fls. 2340/2344).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido por esta Corte, não bastando a mera menção ao feriado local nas razões recursais.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 15 (QUINZE) DIAS. RESOLUÇÃO 322/2020 DO CNJ. FLUÊNCIA DO PRAZO RECURSAL RETOMADA EM 15/6/2020. AUSÊNCIA DE COMPROVAÇÃO DE NOVA SUSPENSÃO DO PRAZO POR ATO DO TRIBUNAL LOCAL. COVID-19. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A Corte Especial, aplacando divergência existente acerca da matéria, pacificou o tema no âmbito desta Corte Superior, decidindo que, diferentemente do CPC/73, o novo CPC exige, de forma expressa, que a comprovação da ocorrência de feriado local seja feita no ato da interposição do recurso, a teor do disposto no art. 1.003, § 6º, do CPC/2015, não permitindo a comprovação posterior (AREsp 957.821/MS, Rel. para o acórdão a Ministra Nancy Andrighi, j. em 21/11/2017, DJe 19/12/2017).
+ ..
+4. Assim, não havendo a comprovação da suspensão do prazo no ato da interposição do recurso especial (e sendo inadmissível a comprovação posterior), é considerado intempestivo o recurso. Os documentos referentes à suspensão apresentados pela defesa com o agravo regimental e em petição avulsa, na data de hoje, não afastam a intempestividade, pois deveriam ter sido juntados aos autos quando da interposição do recurso especial, conforme o sobredito entendimento da Corte Especial.
+5. "Não basta a menção nas razões recursais da ocorrência de feriado local, sendo necessária a juntada de documentação idônea no ato da interposição do recurso que se pretende que seja conhecido, o que não ocorreu, impossibilitada a regularização posterior, nos termos do § 6º do art. 1.003 do CPC" (AgRg no AREsp n. 2.205.648/SP, relator Ministro Jesuíno Rissato, Sexta Turma, julgado em 23/3/2023, DJe de 27/3/2023).
+ ..
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.283.671/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/4/2023, DJe de 31/5/2023.)
+No caso, o print colacionado nas razões recursais (fl. 2031) não é suficiente para afastar a intempestividade do recurso.
+A propósito: AgInt nos EDcl no AREsp n. 2.101.676/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022; AgInt no REsp n. 1.987.950/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/11/2022, DJe de 1/12/2022; AgRg no AREsp n. 2.149.824/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/11/2022, DJe de 28/11/2022.
+Ademais, conforme a jurisprudência deste Tribunal a mera remissão a link de site do Tribunal de origem nas razões recursais é insuficiente para comprovar a tempestividade do recurso. Nesse sentido: AgInt no AREsp 1687712/SP, relator Ministro Sérgio Kukina, Primeira Turma, Dje de 17/11/2020; e AgInt no REsp 1799162/AL, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/11/2019.
+Observe-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
