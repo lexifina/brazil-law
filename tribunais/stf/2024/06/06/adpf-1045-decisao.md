@@ -1,0 +1,73 @@
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. NORMA CONSTITUCIONAL ORIGINÁRIA. AÇÃO QUE NÃO REÚNE OS REQUISITOS DE CONHECIMENTO. AUSÊNCIA DE PARÂMETRO DE CONTROLE. PRECEDENTES. ARGUIÇÃO NÃO CONHECIDA.
+
+    Decisão: Trata-se de arguição de descumprimento de preceito fundamental, ajuizada pelo Partido Socialismo e Liberdade (PSOL), tendo por objeto o artigo 142, caput, da Constituição Federal.
+
+    A parte autora defende, em síntese, a nulidade parcial sem redução de texto do artigo impugnado, para declarar inconstitucionais todas as variantes interpretativas que caracterizem as Forças Armadas como Poder moderador; ampliem suas atribuições para além das fixadas constitucionalmente, ou, ainda, permitam a ruptura do regime democrático vigente ou a instauração de governo de exceção. Ademais, entende necessária a declaração de que eventual veiculação, propagação ou incentivo das interpretações supracitadas enseja a responsabilização criminal, cível, política e administrativa dos atores em questão. Argumenta que a Constituição Federal não outorga às Forças Armadas o papel de garantidora do poder constituído, não havendo, assim, qualquer autorização constitucional para que as forças militares arbitrem conflitos entre os Poderes ou realizem “intervenção militar constitucional”.
+
+    Sustenta, assim, a presença da probabilidade do direito e do periculum in mora para responsabilização quem vincular, propagar ou incentivar interpretações “golpistas” do artigo 142 da Constituição Federal. No mérito, pugna pela procedência do pedido para:
+
+    “que se realize a arguição de nulidade parcial sem redução de texto do art. 142 da Constituição Federal para declarar inconstitucionais todas as variantes interpretativas que (i) caracterizem as Forças Armadas como “Poder Moderador” da República Federativa do Brasil, arrogando-lhes competências de arbitrar, mediante o uso de suas coisas e de suas pessoas, eventuais dissensos e conflitos entre Poderes de Estado; (ii) ampliem suas atribuições para além daquelas fixadas pelo texto constitucional, quais sejam, a defesa do território nacional contra ameaças estrangeiras e a promoção, episódica e limitada, com o fim único de reestabelecer a normalidade, da segurança pública, em situações nas quais os órgãos por ela normalmente responsáveis não possam desempenhar suas funções constitucionais, por meio de reconhecimento formal do chefe do Poder Executivo; (iii) permitam a ruptura total ou parcial do regime democrático vigente; ou (iv) a instauração de governo de exceção pelas Forças Armadas ou de civis apoiados por elas.
+
+    e) Ainda no mérito, requer-se a declaração por este STF, como consequências do pedido acima, de que a veiculação, propagação ou incentivo de quaisquer das interpretações rechaçadas:
+
+    (i) não estão sob proteção da imunidade parlamentar de que trata o art. 53 da CF, conforme jurisprudência recente desta Corte, devendo os parlamentares respectivos ser devidamente investigados e responsabilizados nos âmbitos político, civil, criminal e administrativo;
+
+    (ii) de que os servidores públicos de qualquer dos entes federativos que assim procederem responderão administrativa, civil e criminalmente;
+
+    (iii) de que os magistrados estão vinculados às teses fixadas por este Tribunal, devendo considerá-las em seus provimentos para fins da análise de consequências imposta pelo art. 20 da LINDB, sem prejuízo das responsabilizações administrativa, criminal e civil, inclusive aquela de que trata o art. 143 do Código de Processo Civil;
+
+    (iv) por fim, de que as variantes interpretativas tidas por inconstitucionais caracterizam, em tese, fato típico enquadrado nos crimes de abolição violenta do Estado Democrático de Direito, Golpe de Estado ou Sabotagem, respectivamente, Art. 359-L, Art. 359-M e Art. 359-R, todos do Código Penal”
+
+    O Advogado-Geral da União exarou parecer pelo não conhecimento da ação e, subsidiariamente, pela procedência do pedido de mérito, nos termos da seguinte ementa, in verbis (doc. 18):
+
+    “Forças Armadas. Artigo 142, caput, da Constituição. Preliminar. Inadequação da via eleita. Inviabilidade de controle concentrado de normas originárias da Constituição ou de eventuais comportamentos futuros contra a normatividade constitucional. Mérito Controvérsia que tem por finalidade fixar balizas mais precisas acerca das atribuições conferidas às Forças Armadas pela Carta de 1988. Neutralidade política das Forças Armadas. Necessidade de se afastar qualquer interpretação que confira atribuição moderadora às Forças Armadas, tendo em vista a inexistência, entre suas funções, da possibilidade de arbitramento de conflito entre os Poderes. A cogitação da existência de um Poder Moderador não se sustenta à luz do arcabouço constitucional vigente. As Forças Armadas detêm a relevante missão de garantir a soberania nacional e a própria existência do Estado Democrático de Direito. Para tanto, suas atribuições devem ser exercidas nos exatos limites estatuídos no texto constitucional. A Constituição da República não possui o mínimo espaço para qualquer hiato ditatorial, de modo que não há como se admitir interpretação ao seu artigo 142 que ampare a ruptura total ou parcial do regime democrático vigente ou a instauração de governo de exceção. Manifestação pelo não conhecimento da arguição e, no mérito, pela procedência dos pedidos principais formulados pelo arguente”
+
+    A Procuradora-Geral da República também se manifestou no sentido do não conhecimento da ação, parecer assim ementado, in verbis:
+
+    “Arguição de descumprimento de preceito fundamental. Pretensão de afastar interpretações do art. 142 da Constituição que caracterizem as Forças Armadas como Poder Moderador. Questão decidida na ADI n. 6.457. Perda superveniente do interesse de agir. Não adequação da ADPF para aferir responsabilidade nas esferas penal, civil e administrativa. Parecer pelo não conhecimento da ação.” (doc. 28)
+
+    É o relatório. Decido.
+
+    A pretensão de controle de constitucionalidade veiculada na inicial não ultrapassa o juízo de conhecimento, não obstante a relevância da temática versada.
+
+    Ab initio, deve-se lembrar que a arguição de descumprimento de preceito fundamental encontra previsão constitucional no artigo 102, § 1º, o qual estabelece que a medida será apreciada pelo Supremo Tribunal Federal, na forma da lei. O artigo 4º da Lei federal 9.868/1999 dispõe que “a petição inicial inepta, não fundamentada e a manifestamente improcedente serão liminarmente indeferidas pelo relator”. In casu, nos termos da petição inicial, pretende-se que seja declarada a nulidade, sem redução de texto, do artigo 142, caput, Constituição Federal.
+
+    Ocorre que a jurisprudência consagrada desta Corte assentou a impossibilidade de realização de controle de constitucionalidade de normas originárias da Constituição Federal, razão pela qual a pretensão autoral não encontra respaldo no sistema de controle de constitucionalidade brasileiro. Nesse sentido, rememoro o julgamento da ADI 815, rel. Min. Moreira Alves, conforme acórdão assim ementado:
+
+    “- Ação direta de inconstitucionalidade. Parágrafos 1º e 2º do artigo 45 da Constituição Federal.
+
+    - A tese de que há hierarquia entre normas constitucionais originárias dando azo à declaração de inconstitucionalidade de umas em face de outras é incompossível com o sistema de Constituição rígida.
+
+    - Na atual Carta Magna "compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição" (artigo 102, "caput"), o que implica dizer que essa jurisdição lhe é atribuída para impedir que se desrespeite a Constituição como um todo, e não para, com relação a ela, exercer o papel de fiscal do Poder Constituinte originário, a fim de verificar se este teria, ou não, violado os princípios de direito suprapositivo que ele próprio havia incluído no texto da mesma Constituição.
+
+     - Por outro lado, as cláusulas pétreas não podem ser invocadas para sustentação da tese da inconstitucionalidade de normas constitucionais inferiores em face de normas constitucionais superiores, porquanto a Constituição as prevê apenas como limites ao Poder Constituinte derivado ao rever ou ao emendar a Constituição elaborada pelo Poder Constituinte originário, e não como abarcando normas cuja observância se impôs ao próprio Poder Constituinte originário com relação às outras que não sejam consideradas como cláusulas pétreas, e, portanto, possam ser emendadas.
+
+    Ação não conhecida por impossibilidade jurídica do pedido.”  (ADI 815, Rel. Min. Moreira Alves, Tribunal Pleno, DJ 10.5.1996).
+
+    Deveras, admitir o pleito, tal como formulado pelo requerente, equivaleria a possibilitar a veiculação, pela via do controle concentrado de constitucionalidade, de pretensão de consulta quanto ao sentido e o alcance das normas constitucionais dispostas pelo próprio Constituinte Originário, o que implicaria exercício de controle acerca de seus limites, exorbitando-se a função precípua desta Corte de zelar pela guarda da Constituição, o que não se pode tolerar.
+
+    No mesmo sentido, citem-se outros precedentes:
+
+    “AGRAVO INTERNO NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. NEPOTISMO. NOMEAÇÃO DE CÔNJUGE, COMPANHEIRO OU PARENTE DE ATÉ TERCEIRO GRAU PARA O CARGO DE MINISTRO OU CONSELHEIRO DE TRIBUNAL DE CONTAS. ALEGADA OFENSA AOS ARTIGOS 1º, CAPUT; 5º, INCISOS LIII, LIV E LV; 14, § 9º; 34, INCISO VII, ALÍNEA “D”; 37, CAPUT; 71; 73; E 75 DA CONSTITUIÇÃO FEDERAL. NEGATIVA DE SEGUIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INADMISSIBILIDADE. PRECEDENTES. AGRAVO NÃO CONHECIDO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da necessidade de impugnação específica, na petição de agravo interno, de todos os fundamentos da decisão agravada, sob pena de inadmissão do agravo. Precedentes: ARE 1.005.678-AgR, Plenário, Rel. Min. Cármen Lúcia - Presidente, DJe de 21/3/2017; ARE 1.231.288-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 10/12/2019; ARE 1.131.108-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/10/2018; MS 26.942-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 4/4/2018; MS 33.232-AgR-segundo-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 7/6/2017. 2. In casu, a decisão monocrática negou seguimento à arguição de descumprimento de preceito fundamental com os seguintes fundamentos: i) ausência de ato do poder público suscetível de impugnação na via objetiva (artigo 1º, caput, da Lei federal 9.882/1999); ii) inviabilidade do controle de constitucionalidade de normas constitucionais originárias; iii) inobservância do requisito da subsidiariedade (artigo 4º, § 1º, da Lei federal 9.882/1999); e iv) inadequação da arguição de descumprimento de preceito fundamental para a tutela de situações individuais e concretas. 3. A agravante não impugnou especificamente todos os fundamentos da decisão agravada, limitando-se a sustentar a observância do requisito da subsidiariedade e a reiterar argumentos apresentados na petição inicial. 4. Agravo interno não conhecido.” (ADPF 1070 AgR, Relator o Ministro Luiz Fux, Tribunal Pleno, DJe 15.4.2024)
+
+    “Arguição de descumprimento de preceito fundamental. CPI da Pandemia. Convocação de Governadores de Estado para depor na condição de testemunhas. Encerramento dos trabalhos do órgão de investigação parlamentar (CPI da Pandemia). Hipótese de prejudicialidade configurada. Perda do objeto da ação. 1. Consabido achar-se consolidado na jurisprudência desta Suprema Corte que as ações constitucionais ajuizadas contra atos das comissões parlamentares de inquérito do Congresso Nacional – como o mandado de segurança e a ação de habeas corpus – restam prejudicadas com o encerramento dos trabalhos do órgão de investigação parlamentar. Precedentes. 2. Por idênticas razões, também a arguição de descumprimento de preceito fundamental deduzida contra atos concretos praticados pelas comissões parlamentares de inquérito resta prejudicada com o término dos trabalhos da CPI. 3. Exauridos os efeitos das convocações emanadas da CPI da Pandemia, não subsiste nenhum ato estatal cuja validade constitucional possa ser examinada por esta Suprema Corte. 4. A prosseguir na análise desta controvérsia, cujo objeto deixou de existir, esta Suprema Corte estaria realizando mero juízo de consulta quanto ao sentido e o alcance de normas previstas no texto originário da Constituição Federal. Assente na jurisprudência histórica desta Casa a impossibilidade jurídica do controle de constitucionalidade de normas originárias (ADI 815, Rel. Min. Moreira Alves, Tribunal Pleno, j. 28.3.1996, DJ 10.5.1996). 5. Arguição de descumprimento extinta em razão da perda superveniente de objeto.”(ADPF 848 MC-Ref-ED, Relatora a Ministra Rosa Weber, Tribunal Pleno, DJe 11.7.2022)
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ADI. Inadmissibilidade. Art. 14, § 4º, da CF. Norma constitucional originária. Objeto nomológico insuscetível de controle de constitucionalidade. Princípio da unidade hierárquico-normativa e caráter rígido da Constituição brasileira. Doutrina. Precedentes. Carência da ação. Inépcia reconhecida. Indeferimento da petição inicial. Agravo improvido. Não se admite controle concentrado ou difuso de constitucionalidade de normas produzidas pelo poder constituinte originário.”(ADI 4097 AgR, Relator o Ministro Cezar Peluso, Tribunal Pleno, DJe 6.11.2008)
+
+    Deveras, não se mostra possível decisão meramente interpretativa acerca do sentido e alcance de normas previstas no próprio texto originário da Constituição Federal, como pretende a parte autora.
+
+    Ademais, observo que a presente demanda guarda estreita conexão com a matéria tratada no bojo da ADI 6.457, de minha Relatoria, cuja apreciação de mérito se deu, de forma unânime, no Plenário Virtual de 29.3.2024 a 8.4.2024. Rememore-se que, naquele julgado, o Supremo Tribunal Federal analisou a constitucionalidade do artigo 1º da Lei Complementar nº 97/1999, cujo enunciado reproduz a integralidade do disposto no artigo 142 da Constituição Federal, ora impugnado, ocasião na qual assentou-se a inexistência da função de poder moderador no sistema constitucional brasileiro.
+
+    Ex positis, com base no artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e no artigo 4º da Lei 9.882/1999, NEGO SEGUIMENTO à presente arguição de descumprimento de preceito fundamental.
+
+    Prejudicados os pedidos de ingresso na qualidade de amicus curiae e de julgamento conjunto da demanda.
+
+    Publique-se.
+
+    Brasília, 6 de junho de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
