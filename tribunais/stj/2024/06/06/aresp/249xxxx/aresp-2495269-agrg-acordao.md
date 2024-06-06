@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. SÚMULA 182/STJ.
+1. O art. 932, III, do Código de Processo Civil, positivou o princípio da dialeticidade recursal, sendo aplicável por força do art. 3º do Código de Processo Penal. Assim, cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. No caso, no agravo regimental, foi apenas mencionado o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, isto é, a falta de impugnação ao fundamento utilizado pelo Tribunal de origem para inadmitir o apelo nobre e que o debate trazido à balia não importa reexame de matéria fático-probatória, mas não foi concretamente demonstrado como as razões do agravo em recurso especial teriam efetuado a citada impugnação.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ERIVELTON JOSE GOMES contra a decisão da Presidência deste Superior Tribunal de Justiça que não conheceu do agravo em recurso especial ante a ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+Nas razões do agravo regimental, alega a parte agravante, de modo desconexo, que vem infirmar todos os fundamentos da decisão agravada, que não conheceu do Agravo do Recurso Especial, decisão proferida monocraticamente pelo Ministro Presidente do STJ (fl. 340).
+Sustenta, em síntese, que infirmou todos os fundamentos do "dicisium" recorrido, do que, a decisão não foi conhecida pelo presidente do STJ, nos termos da Súmula 07 do Superior Tribunal de Justiça, combinado com art. 932, inciso III, do CPC; consoante art. 21-E, inciso V, art. 253, parágrafo único, inciso I, ambos do RISTJ; Súmula n. 182/STJ, e art. 85, § 11, e §§ 2º e 3º do CPC, c/c. e paradigma, (EAREsp 746.775/PR), não havendo dúvidas quanto a plausibilidade do Agravo Interno no Agravo em Recurso Especial interposto, na medida que o acordão, ora infirmado, proferido nos autos do processo em tela merece ser totalmente reformado por essa Corte Superior, já que, está em direto confronto e contrariedade com a legislação federal (fl. 342).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo regimental, por incidência da Súmula 182/STJ (fls. 361/365).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. SÚMULA 182/STJ.
+1. O art. 932, III, do Código de Processo Civil, positivou o princípio da dialeticidade recursal, sendo aplicável por força do art. 3º do Código de Processo Penal. Assim, cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. No caso, no agravo regimental, foi apenas mencionado o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, isto é, a falta de impugnação ao fundamento utilizado pelo Tribunal de origem para inadmitir o apelo nobre e que o debate trazido à balia não importa reexame de matéria fático-probatória, mas não foi concretamente demonstrado como as razões do agravo em recurso especial teriam efetuado a citada impugnação.
+3. Agravo regimental não conhecido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+Disse a decisão agravada (fl. 328):
+ ..  Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 211/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+O art. 932, inciso III, do Código de Processo Civil, positivou o princípio da dialeticidade recursal, sendo aplicável por força do art. 3.º do Código de Processo Penal. Assim, cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+No caso, no agravo regimental, foi apenas mencionado, de forma desconexa e incongruente, o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, isto é, a falta de impugnação ao fundamento utilizado pela Corte a quo para inadmitir o apelo nobre (aplicação da Súmula 182/STJ), e que não se trata de incidência da Súmula 7/STJ, mas não foi concretamente demonstrado como as razões do agravo em recurso especial teria efetuado a citada impugnação. Também não se demonstrou a efetiva e específica impugnação, nas razões do agravo em recurso especial, ao segundo óbice utilizado pela Corte a quo para inadmitir o especial, qual seja, a Súmula 211/STJ. Aliás, a parte agravante sequer faz menção ao referido óbice nas razões do presente regimental (nem mesmo nas razões do agravo em recurso especial) .
+Esclareço que o art. 1.021, § 1º, do Código de Processo Civil, aplicável no âmbito criminal em razão do comando normativo contido no art. 3º do Código de Processo Penal, em harmonia com o princípio da dialeticidade, estabelece que,  n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Portanto, tem incidência a Súmula 182/STJ, também ao presente recurso interno.
+Nesse sentido: AgRg no AREsp 2.091.694/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/6/2022 e; AgRg no AREsp 1.919.013/SP, Ministro Rogério Schietti Cruz, Sexta Turma, DJe 30/11/2021.
+Ante o ex posto, não conheço do agravo regimental.
