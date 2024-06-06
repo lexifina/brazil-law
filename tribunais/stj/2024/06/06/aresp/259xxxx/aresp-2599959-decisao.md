@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por E C M contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Embargos de terceiro. Acolhimento de impugnação à Justiça Gratuita. Irresignação. Não acolhimento. Ausência de comprovação da possibilidade da manutenção da Justiça Gratuita. Concessão da gratuidade apenas quando demonstrada a efetiva hipossuficiência. Efeito suspensivo revogado. Recurso a que se nega provimento, com observação.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 10 da Lei n. 1.060/50 e dos arts. 98 e 99, § 6º, do CPC, no que concerne ao cabimento do reconhecimento do benefício da gratuidade da justiça à parte menor, em razão da presunção de sua hipossuficiência, não cabendo a análise com base na situação financeira de seus representantes legais, trazendo a seguinte argumentação:
+O benefício da gratuidade de justiça é um direito personalíssimo, como explicado por Daniel Assumpção Neves 2 , ou seja, deve ser analisado a condição apenas daquele que será o beneficiário, não seus representantes, litisconsortes ou sucessores. Assim, regem os art. 10º, da lei 1.060 3 e art. 99, §6º, do CPC 4 .
+De maneira que ao negarem a concessão do beneficio da gratuidade de justiça da Recorrente, menor impúbere que não aufere qualquer renda, há clara violação do que disposto na lei infraconstitucional. Ora, V. Exas., os art. 10º, da lei 1.060 e art. 99, §6º, do CPC, são claros que se trata de direito personalíssimo, não devendo haver análise de qualquer outro individuo a não ser da parte.
+ ..
+Ainda, nesse sentido, a jurisprudência deste Egrégio Superior Tribunal de Justiça é firme no sentido de que quando há menor, as condições socioeconômicas analisadas para a concessão de benefício devem ser a da criança, não de seus representantes.
+Inclusive, o STJ, por meio de sua secretaria de jurisprudência, exarou a edição 149 da jurisprudência em tese 5 , que versa:
+ ..
+Com efeito, o próprio Egrégio Tribunal de Justiça de São Paulo tem o entendimento consolidado de que há hipossuficiência presumida de menor de idade para efeitos de concessão do benefício da gratuidade de justiça:
+ ..
+Assim, há clara a violação do art. 10º, da lei 1.060 6 , art. 98 e art. 99, §6º, do CPC 7 , que define que o benefício da gratuidade de justiça é um direito individual, portanto, devendo ser analisado exclusivamente a condição do beneficiário, não de seus representantes legais. O que justifica o PROVIMENTO, do presente recurso (fls. 437/440).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
