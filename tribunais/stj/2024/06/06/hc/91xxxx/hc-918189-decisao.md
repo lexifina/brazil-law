@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de RAFAEL DE FREITAS em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nos autos do Agravo de Execução Penal nº 0002613-05.2024.8.26.0502.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que a conduta praticada pelo paciente não está prevista como falta grave e a decisão fere o princípio da legalidade.
+Alega, ainda, que não não há previsão de regressão de regime pelo descumprimento de condições impostas quando da saída temporária.
+Requer, em suma, a absolvição ou a desclassificação da falta disciplinar.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+Em que pese a alegação do Agravante, no sentido de que sua conduta de violação do perímetro estabelecido para o monitoramento eletrônico seria atípica, eis que não prevista expressamente pelo art. 50, da Lei de Execução Penal, como bem consignado na r. decisão agravada, ele".. deixou de observar as condições que lhe foram impostas para o gozo do beneficio da saída temporária, deixando de permanecer (após às 19 horas) no local declarado. ..", ensejando, portanto, violação aos art. 50, VI, c.c. art. 39, V, ambos da Lei de Execução Penal.
+No mais, a materialidade da falta disciplinar evidencia-se pela Comunicação do Evento (fls. 13/14), Fotografias (fls. 16/19) e Portaria (fls. 20), assim como pelos demais elementos do conjunto probatório que confirmam a infração disciplinar.
+No que diz respeito à autoria, ao ser ouvido na fase administrativa, o Agravante disse que o endereço declarado era de sua genitora, mas como estava há um tempo sem ver os filhos, se dirigiu ao outro local (fls. 27).
+Os agentes de segurança penitenciária, Joel Dias Machado e José Eduardo Oliveira de Souza, ouvidos na Sindicância, relataram o contido no Comunicado de Eventos (fls. 24/25).
+Conjunto probatório consistente, a responsabilidade do Agravante pela prática dessa falta disciplinar, não pode mesmo ser afastada e, vale consignar ainda que sua conduta se enquadra perfeitamente no quanto previsto nos art. 50, VI, c.c. art. 39, V, ambos da Lei de Execução Penal, que é preciso ao estabelecer que desobediência é falta disciplinar de natureza grave.
+E, no caso dos autos, o Agravante desobedeceu a ordem judicial de permanecer no local indicado, violando o perímetro do monitoramento eletrônico, assim, não há que se falar em desclassificação da referida falta disciplinar (fl. 50-52).
+Segundo entendimento firmado nessa Corte, o descumprimento das condições da saída temporária constitui falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCUMPRIMENTO DAS CONDIÇÕES DE SAÍDA TEMPORÁRIA. CONFIGURAÇÃO DE FALTA GRAVE. REGRESSÃO DE REGIME. CONSECTÁRIO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante já decidiu esta Corte, as condições impostas para a concessão da saída temporária configuram ordens recebidas pelo apenado, de forma que seu descumprimento evidencia a prática da conduta prevista no art. 50, VI, c/c o art. 39, V, ambos da LEP.
+2. O agravante, por duas vezes, deixou de observar as condições da saída temporária ao violar a zona de monitoramento e, a teor do art. 118, I, da LEP, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar falta grave.
+3. Agravo regimental não provido.
+(AgRg no HC n. 680.452/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 30/11/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA . DESCUMPRIMENTO DE CONDIÇÕES. VIOLAÇÃO DA ZONA DE VIGILÂNCIA. FALTA GRAVE. ALTERAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na espécie, o Juízo da Execução Penal, em razão de o Apenado ter deixado de cumprir regras para saída temporária (violação ao perímetro datada de 31/12/2021), homologou a falta grave, regrediu o regime imposto para o fechado e declarou a perda de 1/3 (um terço) dos dias remidos.
+2. Os fundamentos consignados pelas instâncias ordinárias para caracterizar a conduta como falta grave (nos termos artigo 50, VI, combinado com artigos 39, II e V, ambos da Lei de Execução Penal) não se mostram desarrazoados ou ilegais, uma vez que o Reeducando quando da saída temporária deve observar as condições e limites estabelecidos. Precedentes.
+3. "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Ministra LAURITA VAZ, DJe de 7/3/2014).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 813.768/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+No mesmo sentido, segundo entendimento firmado nessa Corte, a violação da tornozeleira eletrônica, ou seu descarregamento total ou perda da comunicação com o sistema, bem como desrespeito ao perímetro fixado, constituem falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. VIOLAÇÃO DA TORNOZELEIRA ELETRÔNICA. PERDA DA COMUNICAÇÃO. FUGA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A teor dos precedentes desta Corte, a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema configura falta grave, nos termos dos arts. 50, II da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor responsável pela monitoração e impede a fiscalização da execução da pena.
+2. As instâncias ordinárias consideraram inacreditáveis as alegações de que houve perda de sinal de GPS do aparelho de monitoramento eletrônico. A modificação desse entendimento demandaria aprofundado exame do acervo fático-probatório do processo de execução, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental desprovido. (AgRg no HC n. 821.741/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DO PERÍMETRO DE PERMANÊNCIA. FALTA GRAVE. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a violação do perímetro estabelecido na decisão que concede a prisão domiciliar mediante monitoramento eletrônico configura falta grave.
+2. O afastamento da falta grave praticada pelo ora agravante demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023.)
+De igual sorte: AgRg no HC n. 785.238/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 20/4/2023; AgRg no HC n. 758.317/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/12/2022; AgRg no HC n. 750.743/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/8/2022; HC n. 517.455/SC, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 16/10/2019.
+Nessa linha, o entendimento do Tribunal de origem está em conformidade com a jurisprudência do STJ.
+Ademais, para modificar a decisão de origem e acolher eventuais teses absolutórias ou desclassificatórias seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+Nessa linha, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/9/2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 21/8/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023; AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 770.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/4/2023; AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/2/2023.
+Quanto à regressão de regime, do que consta dos autos, tal matéria não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental provido. (AgRg no HC n. 796.267/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25/4/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS ANTECIPADAS E MONITORAMENTO ELETRÔNICO. SUPRESSÃO DE INSTÂNCIA. TUTELA COLETIVA NA VIA DO HABEAS CORPUS. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESPROVIMENTO DO AGRAVO.
+1. Inviável o exame por este Sodalício do pleito de saídas temporárias e monitoramento eletrônico, sob pena de indevida supressão de instância, uma vez que a tese não foi examinada pelo Colegiado a quo no acórdão atacado.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 766.081/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 28/3/2023.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/6/2023; RCD no HC n. 787.115/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9/3/2023; AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 6/3/2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
