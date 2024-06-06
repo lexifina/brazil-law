@@ -1,0 +1,24 @@
+DECISÃO
+LUCIENE DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0000080-13.2014.8.26.0506).
+Consta dos autos que a paciente foi condenada à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas no patamar máximo de 2/3, tal como estabelecido pelo Juiz sentenciante.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Tribunal de origem, ao dar provimento à apelação interposta pelo Ministério Público, considerou indevida a incidência da referida minorante, com base nos seguintes fundamentos (fls. 52-53):
+Contudo, in casu, embora reconhecida a primariedade da acusada, os demais elementos contidos nos autos, em especial a excessiva quantidade de entorpecente apreendido (1.955,770 g de cocaína), não autorizam a aplicação da causa de diminuição de pena disposta no art. 33, § 4º, da Lei n" 11.343/06, pois, como assentado pelo Colendo Superior Tribunal de Justiça, "De se ver que a mens legis da causa de diminuição de pena seria alcançar aqueles pequenos traficantes, circunstância diversa da vivenciada nos autos, dada a apreensão de expressiva quantidade de entorpecente, com alto poder destrutivo" (HC 190426 / MS  Ministro Og Fernandes - DJ 04.04.2011).
+Portanto, afasta-se a incidência do referido dispositivo legal.
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, a quantidade de drogas apreendidas foi sopesada para, isoladamente, levar à conclusão de que a ré se dedicaria a atividades criminosas e/ou integraria organização criminosa, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+À ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve a ordem ser concedida, inclusive liminarmente, a fim de aplicar, em favor da acusada, o referido benefício.
+Por conseguinte, restabeleço a sentença condenatória, no ponto em que aplicou o redutor em 2/3 e fixou pena da paciente em 2 anos de reclusão e pagamento de 200 dias-multa. Consequentemente, julgo extinta a punibilidade do fato delituoso imputado à ré, pelo integral cumprimento da pena, tal como devidamente comprovado nos autos.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor da acusada e, por conseguinte, restabelecer a pena aplicada na sentença condenatória. Por conseguinte, julgo extinta a punibilidade do fato delituos o imputado à ré, pelo integral cumprimento da reprimenda.
+Determino, ainda, a imediata expedição de alvará de soltura em favor da acusada, se por outro motivo não estiver ou não houver a necessidade de ser presa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias
+ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
