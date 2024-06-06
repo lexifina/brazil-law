@@ -1,0 +1,28 @@
+DECISÃO
+LUCAS VINICIUS PEREIRA DE ABREU alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul no HC n. 1415324-35.2023.8.12.0000 .
+Em suas razões, a defesa sustenta, em síntese, que a decisão que decretou a prisão preventiva do recorrente - acusado da prática do delito de tráfico de drogas - seria carente de fundamentação idônea.
+Aduz que o decreto prisional limitou-se a descrever a conduta típica imputada e que foi apreendida pequena quantidade de entorpecentes.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar do acusado.
+Deferida a liminar (fls. 164-167) e prestadas as informações (fls. 170-176 e 182-193), foram os autos ao Ministério Público Federal, que se manifestou pelo provimento do recurso ordinário (fls. 186-190).
+Decido.
+O paciente foi preso em flagrante na posse de 3,4g de maconha e 10,2g de cocaína. O Juízo de primeira instância converteu a prisão em flagrante em preventiva ao ressaltar o seguinte (fls. 76-77):
+No presente caso, verifico que estão presentes os requisitos exigidos à decretação da prisão preventiva do autuado, já que existem elementos corroborando o nível de periculosidade concreto dessa, isso considerando o modus operandi empregado na conduta apurada, existindo elementos que sugerem que ele dedica-se à comercialização de drogas. Explico.
+O decreto de prisão cautelar está fundamentado na quantidade de entorpecente apreendido com o paciente (17 PORÇÕES DE COCAÍNA; 02 PORÇÕES GRANDES DE COCAÍNA; 01 PORÇÃO DE MACONHA), sendo de notório conhecimento que a "cocaína" possui alto poder deletério e viciante, o que justifica a manutenção da prisão para fins de garantia da ordem pública.
+Vale acrescentar que o delito em tela é de maior potencial ofensivo e, muito embora não contenha em sua descrição típica a prática de violência ou grave ameaça à pessoa, é responsável por motivar muitos atos de violência em nossa sociedade. Assim, conclui-se que a liberdade do flagranteado é capaz de pôr em risco a ordem pública, notadamente a gravidade concreta do delito. Inclusive, durante sua prisão tentou empreender fuga do local dos fatos, de modo que é possível que durante a instrução do processo possa empreender fuga do distrito da culpa.
+Embora o custodiado não seja detentor de registros criminais, isso, por si só, é insuficiente para a concessão de sua liberdade provisória, considerando a gravidade em concreto da conduta criminosa.
+O Tribunal a quo ratificou o decisum supra.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Sob essas premissas, verifico que o decreto cautelar não apresentou nenhuma circunstância concreta dos autos que pudesse indicar o periculum libertatis do agente e tão somente limitou-se a apontar a gravidade em abstrato do crime de tráfico de drogas. Deixou, portanto, de mencionar elemento individualizado que indicasse a necessidade de tutela da ordem pública ou a garantia da aplicação penal ou da instrução criminal.
+A despeito de a decisão da prisão preventiva fazer alusão à quantidade de drogas apreendidas, verifica-se que o montante não é expressivo e houve apenas a descrição da conduta típica supostamente praticada pelo paciente, valendo ressaltar que não há registro de reiteração delitiva.
+Concluo, portanto, que os elementos apresentados, por si sós, não servem para denotar a periculosidade exacerbada do investigado, a ponto de justificar o emprego da cautela máxima, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva an tecipada.
+Nessa perspectiva:
+ ..
+1. Segundo a jurisprudência desta Corte Superior de Justiça, toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais.
+2. A menção do magistrado, pura e simples, a conjecturas a respeito da gravidade abstrata do crime, sem a incidência de nenhum elemento concreto, não é suficiente para decretar a prisão preventiva do acusado. Se assim fosse, a prisão provisória passaria a ter caráter de prisão obrigatória.
+ ..
+(HC n. 362.072/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017, destaquei)
+Ademais, a quantidade de droga não é expressiva (3,4g de maconha e 10,2g de cocaína), o crime em tese cometido não envolve violência ou grave ameaça a pessoa e não há notícias de que o acusado possa interferir na instrução criminal ou evadir-se do distrito de culpa, motivo pelo qual não se justifica mantê-lo sob o rigor da medida cautelar extrema.
+À vista do exposto, ratifico a liminar deferida e dou provimento ao recurso ordinário para revogar a prisão preventiva do acusado, ressalvada a possibilidade de nova decretação da segregação provisória, se efetivamente demonstrada a superveniência de fatos novos que indiquem sua concreta necessidade, ou de imposição de medida cautelar alternativa também suficientemente fundamentada, nos termos dos arts. 282 e 319, ambos do CPP .
+Publique-se e intimem-se.
+EMENTA
