@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por URACAY ALONSO TEIXEIRA BORGES na qual alega descumprimento, pela autoridade reclamada, da decisão exarada nos autos do REsp 263.233/MT.
+Em suas razões, o reclamante aduz que "(..) Trata-se de decisão proferida na REsp sob nº 263233. Essa decisão manteve a de primeira instância que rescindiu o contrato de compra e venda entre o autor e o réu daqueles autos. Referida decisão determinou a compensação dos valores pagos no contrato de compra e venda com os valores arbitrados a título de aluguéis, ficando os valores remanescentes a favor da parte ré." Acrescenta, nesse contexto, que "(..) a decisão dessa Corte, mantém a de primeira instância, que determina a confrontação dos valores pagos no contrato de compra e venda, com os valores arbitrados a título de aluguéis. Porém, não há determinação e muito menos previsão, de pagamento de valores remanescentes aos autores da ação de rescisão contratual." Aduz que "(..) A decisão proferida mantida nessa Corte, determina, a compensação dos valores pagos no contrato de compra e venda por ocasião da compra com os valores arbitrados a título de aluguéis."
+Requer, assim, o acolhimento da insurgência. (fls. 3/18)
+É o relatório.
+Decisão.
+A presente reclamação não merece acolhimento.
+1. A reclamação amparada no art. 105, I, f, da Constituição da República é remédio destinado a preservar a competência do Superior Tribunal de Justiça sempre que haja indevida usurpação por parte de outros órgãos judiciais ou para garantir a autoridade de suas decisões.
+A esse propósito, destaca-se que, de acordo com a uníssona orientação jurisprudencial, o ajuizamento da reclamação, tendo por finalidade garantir a autoridade de suas decisões, pressupõe a existência de um comando positivo cuja eficácia deva ser assegurada, protegida e conservada.
+Nesse sentido, confiram-se os seguintes precedentes: AgInt nos EDcl na Rcl 36.498/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 19/03/2019, DJe 29/03/2019; Agint na Rcl 32.938/MS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 07/03/2017.
+Na hipótese, consoante exame do caderno processual, observa-se que a decisão indicada como descumprida proferida nos autos do REsp 263.233/MT, manejado pelo ora insurgente, não conheceu do apelo recursal em razão do óbice das Súmulas 7, 211, ambos do STJ, bem como afastou a alegação de violação ao art. 398, do CPC/73, não havendo se falar, portanto, na existência de qualquer comando positivo a ser preservado por meio do presente expediente que, como é cediço, não constitui sucedâneo recursal, sendo de rigor, portanto, o indeferimento liminar da presente reclamação ante à inexistência de demonstração dos seus correlatos requisitos.
+2. Do exposto, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
