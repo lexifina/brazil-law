@@ -1,0 +1,23 @@
+DECISÃO
+JOÃO ACHEM JÚNIOR alega sofrer coação ilegal em razão de acórdão do Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n. 5030472-39.2021.4.03.0000.
+Às fls. 86-91, a defesa pede a reconsideração da decisão de fls. 79-82, em que deneguei a ordem do habeas corpus por ela impetrado.
+Diante das alegações do agravante, reconsidero a decisão atacada. Passo a novo exame da matéria.
+O paciente foi condenado, pela prát ica do crime de concussão, descrito no art. 316 do Código Penal, à sanção de 4 anos e 6 meses de reclusão, em regime semiaberto, mais 30 dias-multa. A condenação transitou em julgado.
+O pedido de revisão criminal foi julgado improcedente.
+A defesa alega o seguinte (fl. 11):
+i) a fundamentação utilizada para exasperar a pena-base em relação à circunstância judicial da culpabilidade (elevado montante exigido) já integra o tipo penal da concussão, incorrendo em evidente bis in idem, não estando presente a maior reprovabilidade do agente, vez que o elemento utilizado pelo D. Relator no HC nº 403.560/SP para negar o afastamento da valoração negativa da vetorial consistiu no fato do corréu ser advogado; e
+ii) não há fundamentação idônea para a exasperação da pena-base em fração superior a 3/5 para cada circunstância judicial desfavorável, sendo possível, a título de ponderação, a aplicação da fração de 1/6 nesse caso, conforme assentado na jurisprudência deste STJ.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 74-77).
+Decido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleita a quantidade de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto. Deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+O conceito de culpabilidade, envolto em intensos debates doutrinários, costuma ser usado em três sentidos no Direito Penal pátrio, que aqui sintetizo apenas para compreensão do julgado: a) como princípio, querendo traduzir a limitação à responsabilidade penal objetiva; b) como limite à sanção estatal, vinculada ao grau de reprovabilidade da conduta; c) como pressuposto da aplicação da pena ou, para os que adotam a teoria tripartida do delito, como elemento analítico do crime.
+Para a análise da dosimetria e da aventada violação do art. 59 do CP, interessa-nos a culpabilidade como limite à sanção estatal, circunstância judicial introduzida no art. 59 do CP pela reforma penal de 1984, em substituição ao critério da intensidade do dolo ou grau de culpa, que permite a mensuração da reprovabilidade que recai sobre o agente, ante o bem jurídico ofendido.
+No caso, verifico o acentuado grau de reprovabilidade da conduta do agente - culpabilidade -, notadamente diante do fato de que o réu simulou ser delegado da polícia federal em encenação armada com seus comparsas para enganar a vítima (fl. 21) e "em razão do elevado monta nte da exigência indevida: US$ 100.000,00 (cem mil dólares)" (fl. 60), fatos que, isolada ou conjuntamente, extrapolam a descrição do tipo penal.
+Todavia, verifico que o parâmetro de 1 ano e 3 meses para cada circunstância judicial considerada - culpabilidade e circunstâncias do crime (fl. 60) - é superior a 1/6 sobre a pena mínima e a 1/8 sobre o intervalo entre as reprimendas máxima e mínima abstratamente cominadas para o delito - 2 a 8 anos de reclusão (redação anterior à da Lei n. 13.964/2019, observado que os fatos ocorreram no ano de 2012 - fl. 13) -, montante que entendo não contemplar os critérios de razoabilidade e proporcionalidade.
+Passo à nova dosimetria.
+Observadas as duas circunstâncias desfavoráveis acima mencionadas, aumento a sanção em 1/3 e consolido a pena-base em 2 anos e 8 meses de reclusão e 13 dias-multa, que torno definitiva, dada a ausência de outras moduladoras, preservado o regime semiaberto, nos termos do acórdão recorrido.
+À vista do exposto, concedo parcialmente a ordem, a fim estabelecer a pena definitiva do paciente em 2 anos e 8 meses de reclusão e 13 dias-multa, mantido o regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
