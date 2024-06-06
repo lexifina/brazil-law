@@ -1,0 +1,35 @@
+DECISÃO
+GIULIANA VENOSI VIOLA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0032334-51.2014.8.26.0114.
+A agravante foi condenada, pelo crime previsto no art. 1º, I, da Lei n. 8.176/1991, em continuidade delitiva, à sanção de 1 ano e 4 meses de detenção, em regime inicial aberto. A reprimenda foi substituída por duas restritivas de direitos.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 158-A e 212 do Código de Processo Penal e 1º da Lei n. 8.176/1991. Sustentou a nulidade do feito, por quebra da cadeia de custódia da prova e cerceamento de defesa, em decorrência do indeferimento de perguntas da defesa para uma das testemunhas. Defendeu, ainda, a atipicidade da conduta em vista da ausência de dolo, de autoria delitiva e da circunstância de responsabilidade penal objetiva.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 846-854, pelo não conhecimento do AREsp e, eventualmente, pelo seu não provimento.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou sobre a autoria e a materialidade delitiva (fls. 684-688):
+ ..
+Quanto à preliminar arguida, não houve quebra da cadeia de custódia, pois, quando realizada a fiscalização, parte da amostra coletada permanece em poder do proprietário do estabelecimento. Ademais, foram os próprios fiscais da ANP os responsáveis pela remessa das amostras apreendidas ao órgão especializados para analisá-las.
+A cadeia de custódia se refere à idoneidade do caminho percorrido pela prova até sua análise pelo magistrado. Não há indicação de circunstância concreta pela defesa de que tenha ocorrido alguma irregularidade na análise da amostra colhida. Logo, não há dúvida sobre a prova material obtida.
+De outra parte, a defesa não requereu contraprova, ou mesmo contestou o resultado do exame.
+No que diz respeito à produção de laudos periciais sem participação da autoridade policial, observe-se que o crime ora tratado é previsto em lei especial, cujo objeto é regulamentado por órgão fiscalizador específico (ANP), que detém a prerrogativa de analisar os materiais submetidos à perícia e, constatada a irregularidade, impor penalidade ao autor. Desnecessária, portanto, a participação policial nesta fase.
+No mais, quanto ao indeferimento das perguntas feitas pela defesa, como esclarecido pelo MM. Juiz a quo, teve por fundamento a impertinência delas, conforme registrado no termo de audiência de fls. 552/555, não se tratando de cerceamento de defesa.
+O d. Magistrado apreciou os questionamentos defensivos e, em cotejo com os demais elementos de prova dos autos, concluiu que as perguntas eram impertinentes, motivo pelo qual foram indeferidas.
+Ademais, não comprovada a imprescindibilidade das perguntas, bem como o prejuízo eventualmente causado por seu indeferimento, não há que se falar em nulidade.
+ ..
+A autoria é inconteste.
+Intimada a comparecer na Delegacia de Polícia, a acusada quedou-se inerte.
+Em juízo, admitiu que responde a diversos processos criminais, inclusive pela venda de combustíveis adulterados. No tocante à imputação, apresentou versão segundo a qual não exercia a efetiva administração dos postos, de sorte que realizou apenas "parceria" com Samuel Arruda Júnior, o qual, com a ajuda de Carlos Alberto, seu irmão, e Emerson Passarela Costa, passou a comercializar combustíveis em seu nome, motivo pelo qual só tomou conhecimento das irregularidades quando da lavratura do auto de infração e da assinatura da defesa administrativa. No entanto, evidenciando que a justificativa é mendaz, admitiu ter continuado a trabalhar na empresa e assinando documentos diversos, inclusive a carteira de trabalho de funcionários. (mídia).
+No mais, as declarações forma infirmadas pelo conjunto probatório.
+A testemunha Emerson Passarela Costa disse ter sido gerente do posto de combustível da Rua Francisco Glicério, entre 2012 e 2014, após o que exerceu atividade administrativa de quatro postos de combustível pertencentes à empresa e respondia única e exclusivamente à sua proprietária, a ré. Asseverou, ainda, que durante o tempo que trabalhou no local foram realizadas diversas fiscalizações, de sorte que em todas as oportunidades parte da amostra colhida era enviada ao laboratório e outra permanecia em poder do estabelecimento para eventual contraprova (mídia).
+A testemunha Éden Roberto Cavalcante, fiscal da Agência Nacional de Petróleo, corroborou a versão de Emerson. Disse que, embora não se recorde de todas as diligências realizadas no "Centro Automotivo C&G Ltda.", lembra de ter levado a efeito fiscalização no local e lavrado auto de infração, o qual ratificou integralmente. Acrescentou também que, após coletar o combustível, uma parte é encaminhada a um laboratório para análise do "Ph", enquanto outra é entregue ao proprietário do estabelecimento para eventual contraprova.
+No mais, conforme documentos de fls. 10/12 a 44/46, a ré figurou como proprietária da empresa, com 99% de participação na sociedade, exercendo sua administração.
+Destarte, inarredável a mantença da condenação, não havendo falar em fragilidade probatória.
+A compreensão do STJ é de que a confiabilidade da prova deve ser analisada conforme as peculiaridades do caso concreto. As instâncias antecedentes avaliaram que parte da amostra de combustível colhida ficou em poder do proprietário do estabelecimento e que não houve questionamento quanto às conclusões do exame nem foi requerida contraprova. A modificação dessas premissas demandaria reexame de fatos e de provas produzidos nos autos, o que não é possível pelo impedimento previsto na Súmula n. 7 do STJ.
+A análise da pretensão absolutória por insuficiência da prova da condenação e também por alegada responsabilidade objetiva implicaria a necessidade de revolvimento de fatos e provas, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Da mesma forma, é possível ao julgador indeferir pedido de diligência ou de produção de provas impertinentes ou meramente protelatórias. O acórdão recorrido afirmou que as perguntas eram impertinentes e que não foi demonstrada a imprescindibilidade das perguntas. A modificação dessa circunstância também acarreta a necessidade de reexame de fatos e de provas vedado pela Súmula n. 7 do STJ.
+A análise da pretensão absolutória baseada em alegada negativa de autoria, ausência de dolo e de ocorrência de responsabilidade penal objetiva, demanda reexame fático-probatório, inadmissível pelo óbice da Súmula n. 7 do STJ, uma vez que o acórdão afirmou que a prova produzida demonstrou que a acusada exercia a administração do empreendimento, cuja participação era de 99 %.
+Portanto, o recurso especial era, de fato, inadmissível.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
