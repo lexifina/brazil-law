@@ -1,0 +1,1 @@
+Art. 21-B. A Câmara Administrativa de Solução de Conflitos terá sua composição e funcionamento regulamentados por ato do Procurador-Geral do Estado, observado o disposto nesta Lei Complementar e no regulamento.

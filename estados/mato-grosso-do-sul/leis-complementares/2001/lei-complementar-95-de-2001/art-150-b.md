@@ -1,0 +1,2 @@
+Art. 150-B. Os honorários advocatícios não integram o subsídio, não servem como base de cálculo para qualquer vantagem pecuniária permitida em lei, e não constituem base de cálculo de contribuição previdenciária.
+"Art. 150-C. A ocorrência de compensação, transação, parcelamento, dação em pagamento e regularização fiscal não afasta a obrigação do pagamento dos honorários advocatícios, e os efeitos dessas modalidades de extinção dos créditos estaduais ficam condicionados ao efetivo recolhimento da verba honorária incidente.

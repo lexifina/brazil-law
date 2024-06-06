@@ -1,0 +1,1 @@
+Art. 14-A. A Corregedoria-Geral poderá realizar a fiscalização da atividade funcional e da conduta pessoal de Procurador do Estado e dos servidores vinculados ao controle administrativo e à coordenação técnico-jurídico e funcional da Procuradoria-Geral do Estado por intermédio de instrumentos tecnológicos, sistemas informatizados e de ferramentas de inteligência artificial.
