@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVANTE QUE NÃO INDICA, PORMENORIZADAMENTE, OS DISPOSITIVOS DE LEI FEDERAL QUE TERIAM SIDO VIOLADOS PELO ACÓRDÃO PROFERIDO NA ORIGEM OU QUE SERIAM OBJETO DE DISSÍDIO INTERPRETATIVO. INDICAÇÃO GENÉRICA DE AFRONTA A LEI FEDERAL. APLICAÇÃO DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. In casu, considerando que o agravante não apontou precisamente os dispositivos legais que teriam sido vilipendiados pelo decisum proferido pelo Tribunal de origem, há de efetivamente se aplicar o óbice da Súmula n. 284 do STF à espécie.
+1.1. Consigna-se, outrossim, que a indicação genérica de violação de Lei Federal, isto é, sem particularizar os dispositivos que teriam sido afrontados, implica deficiência na fundamentação do apelo nobre, razão pela qual o recurso especial efetivamente não há de ser conhecido.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO CESAR ROSSI em face de decisão monocrática proferida pela Presidência desta Corte, às fls. 667/668, que conheceu do seu agravo para não conhecer do recurso especial, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+Em suas razões recursais (fls. 673/677), o agravante, após breve síntese processual, sustentou que indicou a Lei Federal violada, qual seja, a Lei n. 6.830/80, bem como demonstrou o dissídio jurisprudencial.
+Pugnou, dessarte, pelo provimento do agravo regimental, a fim de que o recurso especial seja conhecido e provido.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVANTE QUE NÃO INDICA, PORMENORIZADAMENTE, OS DISPOSITIVOS DE LEI FEDERAL QUE TERIAM SIDO VIOLADOS PELO ACÓRDÃO PROFERIDO NA ORIGEM OU QUE SERIAM OBJETO DE DISSÍDIO INTERPRETATIVO. INDICAÇÃO GENÉRICA DE AFRONTA A LEI FEDERAL. APLICAÇÃO DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. In casu, considerando que o agravante não apontou precisamente os dispositivos legais que teriam sido vilipendiados pelo decisum proferido pelo Tribunal de origem, há de efetivamente se aplicar o óbice da Súmula n. 284 do STF à espécie.
+1.1. Consigna-se, outrossim, que a indicação genérica de violação de Lei Federal, isto é, sem particularizar os dispositivos que teriam sido afrontados, implica deficiência na fundamentação do apelo nobre, razão pela qual o recurso especial efetivamente não há de ser conhecido.
+2. Agravo regimental desprovido.
+VOTO
+Na hipótese, em que pesem os argumentos veiculados pelo agravante, o decisum monocrático deve ser mantido incólume pelos seus próprios fundamentos, notadamente quanto à aplicação do óbice de admissibilidade da Súmula n. 284 do STF.
+Isso porque o agravante deixou de indicar, pormenorizadamente, os dispositivos de Lei Federal que teriam sido vilipendiados pelo acórdão proferido na origem ou seriam objeto de dissídio interpretativo, razão pela qual há de se manter a aplicação do óbice da Súmula n. 284 do STF à espécie.
+Neste ponto, registra-se que a indicação de genérica de violação de Lei Federal, isto é, sem particularizar os dispositivos que teriam sido afrontados, implica deficiência na fundamentação do apelo nobre, razão pela qual o recurso especial efetivamente não há de ser conhecido.
+Para corroborar este entendimento, colhe-se da jurisprudência deste Sodalício (grifos nossos):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. ATO DE RECONHECIMENTO. VALIDADE. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI FEDERAL VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. REGIME INICIAL. ANÁLISE DOS ARTIGOS 33, § 2º, ALÍNEA B, E § 3º, E DO ARTIGO 59, AMBOS DO CÓDIGO PENAL. RÉU TECNICAMENTE PRIMÁRIO. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE PENA INFERIOR A 8 ANOS. REGIME SEMIABERTO.
+I - O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o Recorrente deve apontar os dispositivos legais que teriam sido objeto de ofensa pelo Tribunal de origem, sob pena de inviabilizar o conhecimento do apelo nobre por deficiência de fundamentação, de modo a atrair a incidência, na espécie, da Súmula nº 284 do Supremo Tribunal Federal.
+II - O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula 7/STJ).
+III - A adoção do regime inicial fechado a réu tecnicamente primário, condenado à sanção inferior a 8 anos, cuja pena-base foi estabelecida no mínimo legal por ausência de circunstâncias desfavoráveis, tão somente em virtude da gravidade abstrata do delito de roubo majorado pelo concurso de agentes e emprego de arma, não se admite, nos termos das Súmulas 440/STJ, 718 e 719/STF (AgRg no REsp n. 1.479.875/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/2/2015).
+Agravo regimental parcialmente provido para fixar o regime inicial semiaberto para desconto da reprimenda imposta ao recorrente.
+(AgRg no REsp n. 1.575.628/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 16/8/2016, DJe de 26/8/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL.SONEGAÇÃODE CONTRIBUIÇÃO PREVIDENCIÁRIA E DE TRIBUTOS. ART. 337-A, I, DO CÓDIGO PENAL E ART. 1º, DA LEI N. 8.137/1990. OMISSÃO. NÃO OCORRÊNCIA. DOLO ESPECÍFICO. INEXIGIBILIDADE DE CONDUTA DIVERSA. DOSIMETRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. DISSÍDIO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há violação dos arts. 619 e 620 do CPP, consistente em omissão, quando as instâncias de origem refutam todas as teses arguídas pelas partes. O Tribunal Regional Federal da 5ª Região trouxe, com base nas provas produzidas, fundamentos que demonstram o dolo e a impossibilidade de se aceitar a tese de inexigibilidade de conduta diversa. O alegado cerceamento de defesa foi afastado no julgamento da apelação criminal, nos termos da jurisprudência desta Corte.
+2. A deficiência de fundamentação evidenciada pela não indicação de artigo de lei federal violado atrai a aplicação do óbice da Súmula n. 284 do STF, a impossibilitar o conhecimento do recurso especial.
+3. O conhecimento do apelo raro fundamentado no dissídio jurisprudencial está condicionado à menção e à transcrição do acórdão paradigma, bem como ao cotejo analítico entre ele e o decisum recorrido, a fim de demonstrar a similitude entre os casos, o que não ocorreu na hipótese.
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 1.716.999/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/6/2021, DJe de 22/6/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. ALEGAÇÃO DE REFORMATIO IN PEJUS. PENA MANTIDA. NÃO OCORRÊNCIA. FIXAÇÃO DO REGIMEPRISIONALSEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte consolidou entendimento no sentido de que o Tribunal de origem pode, mantendo a pena e o regime inicial aplicados ao réu, lastrear-se em fundamentos diversos dos adotados em Primeira Instância para manter a pena fixada, ainda que em recurso exclusivo da defesa, sem que isso configure ofensa ao princípio do ne reformatio in pejus (AgRg no HC 576.521/SP, de minha relatoria, QUINTA TURMA, DJe 12/11/2020).
+2. Considerando que a Corte de origem manteve a pena-base imposta na sentença penal condenatória, não há falar em ocorrência de reformatio in pejus.
+3. A fixação do regime semiaberto foi estipulada com base em fundamentação concreta, porquanto presente circunstância judicial desfavorável (maus antecedentes), o que extrapola a normalidade do tipo.
+4. No que tange ao pleito de substituição da pena privativa de liberdade por restritivas de direitos, verifica-se que o recorrente, nas razões do recurso especial, não apontou de maneira clara e objetiva o artigo de lei porventura violado pelo acórdão recorrido, incidindo o óbice contido na Súmula n. 284/STF.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.915.496/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
