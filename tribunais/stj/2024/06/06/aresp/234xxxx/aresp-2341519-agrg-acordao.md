@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. FUNDAMENTO SUFICIENTE DA DECISÃO RECORRIDA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Deixando a parte de impugnar fundamento autônomo e suficiente à manutenção da decisão recorrida, incide o óbice da Súmula n. 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Sustenta a parte agravante, em síntese, o cabimento do recurso especial, apontando a desnecessidade de reexame de provas no caso. Reitera, no mais, a alegação de que "o Recorrente foi condenado exclusivamente com base em reconhecimento fotográfico realizado pela vítima - procedimento este manifestamente viciado, que carece de justificação em elementos que indiquem a autoria do fato investigado, tornando-se medida investigativa completamente genérica e arbitrária - sem nenhuma outra prova que autorizasse o juízo condenatório" (fl. 485).
+Requer a reconsideração da decisão para se conhecer do recurso especial, dando-lhe provimento.
+Impugnação apresentada.
+O Ministério Público Federal se manifestou pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. FUNDAMENTO SUFICIENTE DA DECISÃO RECORRIDA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Deixando a parte de impugnar fundamento autônomo e suficiente à manutenção da decisão recorrida, incide o óbice da Súmula n. 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Agravo regimental não conhecido.
+VOTO
+A decisão agravada, no que importa, foi proferida nos seguintes termos (fls. 471-472):
+Quanto à controvérsia recursal, o Tribunal de origem manifestou-se nos seguintes termos:
+Conforme se observa, a vítima afirmou com extrema segurança e certeza que o réu foi o autor do roubo ocorrido no seu estabelecimento (fl. 372). .. O relato da vítima ganha reforço com a prova pericial do laudo de comparação facial (ID 33936858 e ID 33936859) que apontou a compatibilidade entre o indivíduo filmado pelas câmeras de segurança, praticando o roubo, e o réu.
+Ademais, não assiste razão à defesa quando alega irregularidade na prova obtida a partir do reconhecimento fotográfico e, ainda que houvesse, a vítima reiterou sua convicção em juízo, sob o crivo do contraditório e ampla defesa, reforçando a validade da prova (fl. 372).
+Nessa linha, a autoria delitiva não tem como único elemento probatório o reconhecimento fotográfico, cujo procedimento estaria viciado, existindo, segundo o acórdão recorrido, outros, independentes e produzidos sob o crivo do contraditório, que seriam suficientes para a condenação.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito absolutório baseado na suposta ausência de provas para condenação, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "Uma vez identificadas as provas independentes do ato viciado de reconhecimento que amparam a condenação, a pretensa revisão das conclusões do Tribunal de origem, com vistas à absolvição, não se coaduna com a estreita via do recurso especial, dada a necessidade de reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ." (AgRg no AREsp n. 2.043.307/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 25/11/2022.)
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Em que pese aos argumentos do agravante, a decisão impugnada deve ser mantida. No caso, conforme ressaltado no decisum monocrático, "a autoria delitiva não tem como único elemento probatório o reconhecimento fotográfico, cujo procedimento estaria viciado, existindo, segundo o acórdão recorrido, outros, independentes e produzidos sob o c rivo do contraditório, que seriam suficientes para a condenação".
+Contudo, o ora agravante não se insurgiu quanto ao referido fundamento, que, por si só, é suficiente para sustentar o decisum impugnado.
+Desse modo, deve ser aplicada, no caso, a incidência da Súmula n. 283 do STF, segundo a qual, "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. NULIDADES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. PEDIDO DE CONCESSÃO DE HC DE OFÍCIO. INVIABILIDADE. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DEDUZIDOS PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 283/STF. PLEITO DE DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI N. 11.343/2006. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. PEDIDO DEDUZIDO EM HABEAS CORPUS JÁ DECIDIDO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nenhuma das inúmeras nulidades aventadas nas razões do recurso especial foram objeto de debate pelo Tribunal de origem, não obstante a oposição de embargos de declaração, o que atrai o óbice previsto na Súmula n. 211/STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+2. "Este col. Tribunal Superior possui entendimento pacificado no sentido de que é incabível o pedido de concessão de ordem de habeas corpus de ofício, como tentativa de burlar a inadmissão do recurso especial" (AgRg no REsp 1447057/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 3/2/2015, DJe 18/2/2015).
+3. "A ausência de impugnação específica a um ou mais fundamentos do acórdão impugnado, suficientes por si sós para manter o julgado, atrai a incidência da Súmula 283 do STF, por analogia" (AgInt no AREsp n. 1.208.397/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/5/2018, DJe 15/5/2018).
+4. As instâncias de origem reconheceram a existência de elementos de prova suficientes para embasar o decreto condenatório pela prática do crime de tráfico de drogas. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+5. "Quando o habeas corpus e o recurso especial veiculam idêntica pretensão, o julgamento de um deles provoca a prejudicialidade do outro, em decorrência da perda superveniente de objeto, com o consequente esgotamento da competência do Superior Tribunal de Justiça. Precedentes" (AgRg no REsp n. 1.815.614/PE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/2/2020, DJe 17/2/2020).
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 1.822.103/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+De mais a mais, conforme consignado na decisão impugnada, "Uma vez identificadas as provas independentes do ato viciado de reconhecimento que amparam a condenação, a pretensa revisão das conclusões do Tribunal de origem, com vistas à absolvição, não se coaduna com a estreita via do recurso especial, dada a necessidade de reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ." (AgRg no AREsp n. 2.043.307/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 25/11/2022).
+Ante o exposto, n ego conhecimento ao agravo regimental.
+É o voto.
