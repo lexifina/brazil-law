@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Anthony Okwudili Okpala, com condenação transitada em julgado à pena de 14 anos e 8 meses de reclusão, inicialmente em regime fechado, e 1.866 dias-multa, pela prática dos crimes do art. 35, c/c o art. 40, I e IV, em concurso material com o art. 33, c/c o art. 40, I e IV, da Lei n. 11.343/2006, c/c os arts. 29 e 69 do Código Penal.
+Ataca-se o acórdão exarado, em 13/3/2017, pelo Tribunal Regional Federal da 3ª Região na Apelação Criminal n. 0008400-37.2012.4.03.2012.4.03.6119 (fls. 181/201).
+Alega-se a existência de constrangimento ilegal na dosimetria da reprimenda, em relação ao crime de associação para o tráfico internacional de drogas, em especial, pela valoração negativa da conduta social, das circunstâncias do crime e da personalidade, pela ocorrência de bis in idem quanto às peculiaridades do caso e a causa de aumento prevista no art. 40, I, da Lei n. 11.343/2006, ainda, no que diz respeito à culpabilidade, pela ofensa aos princípios da razoabilidade e da proporcionalidade.
+Requer-se a concessão da ordem de habeas corpus.
+É o relatório.
+Este writ não tem cabimento.
+O habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Além disso, é inadequada a impetração de habeas corpus como substitutivo do recurso próprio, tratando-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade recursal, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação.
+Ora, o habeas corpus não deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro.
+No caso, já tramitou por aqui o AREsp n. 1.291.265/SP contra o mesmo ato judicial, mas o agravo não foi conhecido, porquanto não impugnou especificamente as razões da inadmissão do recurso especial na origem (fls. 215/217).
+Afora isso, os autos estão mal instruídos, uma vez que falta o inteiro teor do acórdão da apelação, bem como não foi juntado o acórdão dos embargos de declaração, mencionados pela impetrante (fl. 12).
+Todos sabem que o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução à parte impetrante.
+Também é inviável a utilização da via eleita para cuidar de temática não submetida, primeiro, à instância a quo. Pela rápida leitura das peças que instruem este feito, o Tribunal Regional não debateu nem decidiu a temática da dosimetria da pena sob os contornos suscitados na atual impetração.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INADMISSIBILIDADE. INOBSERVÂNCIA DA EXIGÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS D A IMPETRANTE. OPERAÇÃO CONEXÃO REMOTA. FINANCIAMENTO OU CUSTEIO DO TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
