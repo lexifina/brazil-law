@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Becker Amaral Advogados S/S à decisão de fls. 802-807 (e-STJ), assim resumida:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVENIENTE DE AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA DO JUÍZO DE PRIMEIRO GRAU EM SEDE DE CUMPRIMENTO DE SENTENÇA. SUPERVENIÊNCIA DE SENTENÇA EXTINTIVA DA EXECUÇÃO. PERDA DE OBJETO DO RECURSO. TORNADA SEM EFEITO A DECISÃO EMBARGADA E JULGADO PREJUDICADO O AGRAVO EM RECURSO ESPECIAL.
+Sustenta o embargante que "a superveniente sentença extintiva somente tem o condão de determinar o esvaziamento do recurso de embargos de declaração aviado às fls. e-STJ 728-741, mas não a decisão de fls. e-STJ 722-725, considerada a data de prolação da extinção - 31/03/2020 (e-STJ 779). De fato, quando do julgamento do recurso de agravo em recurso especial - objeto da decisão de fls. e-STJ 722-725 -, o cumprimento de sentença em primeira instância não havia sido extinto - o que somente ocorreu em 31/03/2020 -, razão pela qual afigura-se contraditória a decisão ora embargada, já que o recurso que restou prejudicado pela sentença extintiva foi o de embargos de declaração de e-STJ 728-741 opostos pelo BANCO DO BRASIL S/A" (e-STJ, fls. 809-810).
+O embargante requer, assim, "seja CONHECIDO e PROVIDO o presente recurso de embargos de declaração a fim de, conferindo-lhes efeitos infringentes, julgar prejudicado os embargos de declaração opostos pelo BANCO DO BRASIL S/A (e-STJ 728- 741), mantendo-se hígida a decisão de fls. e-STJ 722-725, alterando-se, por conseguinte, a parte dispositiva do r. decisão ora embargado" (e-STJ, fl. 810).
+Brevemente relatado, decido.
+Conforme consignado na decisão embargada, a instituição financeira executada interpôs o respectivo recurso especial pleiteando o afastamento da preclusão de sua impugnação ao cumprimento de sentença para que fosse apreciada a irresignação nela deduzida (excesso de execução).
+Em outras palavras, o objeto central do recurso interposto pelo Banco do Brasil S.A. é de que seja analisada a alegação de excesso de execução formulada na impugnação ao cumprimento de sentença apresentada na origem.
+Ocorre que, posteriormente à interposição do recurso especial, foi proferida decisão pelo Juízo a quo extinguindo o cumprimento de sentença pelo pagamento integral do débito, na qual foi acolhida o excesso de execução após a elaboração dos cálculos pelo contador judicial.
+Tal o quadro delineado, verifica-se que o recurso especial perdeu o objeto, visto que a sua pretensão foi acolhida em decisão superveniente, não havendo qualquer contradição a ser sanada.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
