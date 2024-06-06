@@ -1,0 +1,123 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0746565-09.2023.8.07.0000AGRAVANTE(S)BANCO DO BRASIL S/AAGRAVADO(S)RAIMUNDA NEUMA GONCALVES DE OLIVEIRARelatorDesembargador FERNANDO HABIBE
+ Acórdão Nº1875487
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. ACP 0008465-28.1994.4.01.3400. CÉDULAS DE CRÉDITO RURAL. CUMPRIMENTO EXIGIDO APENAS EM FACE DO BANCO DO BRASIL. COMPETÊNCIA DA JUSTIÇA DO DF. LITISCONSÓRCIO. CHAMAMENTO AO PROCESSO.
+
+1. O litisconsórcio passivo necessário formado na fase cognitiva, que culminou com a condenação solidária dos réus, não se estende necessariamente à fase de cumprimento da sentença.
+
+2. Consoante o CCB 275, o credor pode exigir e receber de qualquer dos devedores solidários o total da dívida.
+
+3. A ação foi proposta apenas em face do Banco do Brasil, que não se insere no rol da CF 109, o que atrai a competência da Justiça do DF - STF 508.
+
+4. Inadmissibilidade do chamamento ao processo na fase de liquidação, de resto desnecessário, considerando a condenação solidária na fase cognitiva.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FERNANDO HABIBE - Relator, ARNOLDO CAMANHO - 1º Vogal e JAMES EDUARDO OLIVEIRA - 2º Vogal, sob a Presidência do Senhor Desembargador ARNOLDO CAMANHO, em proferir a seguinte decisão: CONHECER EM PARTE DO RECURSO E, NA PARTE CONHECIDA, NEGAR-LHE PROVIMENTO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 14 de Junho de 2024
+
+Desembargador FERNANDO HABIBERelator
+
+RELATÓRIO
+
+O BB agrava contra capítulos da decisão da 16ª Vara Cível de Brasília (Proc. 0711407-84.2023.8.07.0001 – ids 173729996; 174495066 – MD rejeitados), que, em liquidação individual provisória da sentença coletiva exarada pela Justiça Federal na ACP 0008465-28.1994.4.01.3400, rejeitou as preliminares de inépcia, incompetência do Juízo, de litisconsórcio passivo com chamamento do BACEN e da União, de necessidade de liquidação pelo rito comum e de ofensa à coisa julgada, bem como estabeleceu parâmetros de cálculo quanto aos juros, que devem incidir a partir da citação na fase de conhecimento, determinou apurar se a parte requerente foi beneficiada com recálculo do débito  e, em caso de a credora ter se beneficiado de programas de apoio ao produtor (Lei nº 8.088/90, Proagro, dentre outros), os valores devem ser considerados no cálculo para eventual decote e deferiu a produção de prova pericial, com ônus para o devedor, para apuração do valor devido.
+
+Suscita, para fins de prequestionamento, a negativa de complementar a prestação jurisdicional, pois omissa a decisão quanto à competência da justiça comum e à ausência de documentos da operação objeto da ação.
+
+Alega, em síntese, necessidade do chamamento ao processo da União e do BACEN, ante o litisconsórcio passivo necessário e a securitização das cédulas, e impossibilidade de liquidação por arbitramento, pois é necessária a prova de fato novo que envolve a devolução e a comprovação da efetiva quitação do mútuo, negando que tenha realizado cessão gratuita dos títulos à União.
+
+Acrescenta que a obrigação é de trato impossível porque não existe o instrumento de crédito informado pelo autor para devida realização dos cálculos, conforme documento do 2º Ofício de Limoeiro/CE, a operação não foi localizada nos sistemas do Banco, nem o autor comprovou o pagamento dos valores indevidos, impondo a extinção do processo, nos termos do CPC 485, VI.
+
+Indeferi a liminar (id 53158392).
+
+ A agravada não apresentou contrarrazões (id 54194463).
+
+VOTOS
+
+O Senhor Desembargador FERNANDO HABIBE - Relator
+Não conheço do capítulo acerca de omissão, ante a ausência do interesse de recorrer, pois como evidencia a própria decisão recorrida, houve expressa manifestação quanto à competência da justiça comum e à alegada inépcia:
+
+“(...)
+
+Nada obstante entender que a justiça comum poderia ser chamada a executar o julgado proferido pela justiça especializada somente fora da sede do juízo prolator da sentença, o entendimento da corte é pacífico no sentido de que mesmo na sede da justiça especializada a justiça comum tem competência para o cumprimento de sentença.
+
+(...)
+
+A inicial veio acompanhada dos documentos necessários ao processamento do feito. A liquidação deve ser feita com a juntada de documentos fornecidos pelas partes a fim de fornecer elementos para o cálculo do valor devido, o que pode ser feito no curso do processo. (...).
+
+O litisconsórcio passivo necessário formado na fase cognitiva, que culminou com a condenação solidária dos réus, não se estende necessariamente à fase de cumprimento da sentença.
+
+Ao caso aplica-se o CCB 275, segundo o qual o credor pode exigir e receber de qualquer dos devedores solidários o total da dívida.
+
+Atente-se para a jurisprudência:
+
+ EMENTA
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃOÀ FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+
+3. Agravo interno não provido. (STJ, T 4, AgInt no AREsp 1.309.643, Min. Luís Felipe Salomão, julgado em 2019);
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. CÉDULA DE CRÉDITO RURAL. EREsp nº 1.319.232/DF. SOBRESTAMENTO DO FEITO AFASTADO. COMPETÊNCIA DA JUSTIÇA ESTADUAL COMUM. DÍVIDA SOLIDÁRIA. CESSÃO DE CRÉDITO NÃO COMPROVADA. LIQUIDAÇÃO POR PROCEDIMENTO COMUM. DESNECESSIDADE.
+
+1. A liquidação provisória de sentença proposta apenas em face do Banco do Brasil deve ser processada na Justiça Comum Estadual (Súmula 508 do STF).
+
+2. O credor tem direito a exigir e receber de um ou de alguns dos devedores, parcial ou totalmente, a dívida comum; se o pagamento tiver sido parcial, todos os demais devedores continuam obrigados solidariamente pelo resto. (CC 275)
+
+3. Incabível a liquidação por procedimento comum quando não é necessário pronunciamento sobre fatos novos.
+
+4. Negou-se provimento ao agravo de instrumento. (TJDFT, 4ª T. Cível, ac. 1.236.290, Des. Sérgio Rocha, 2020).
+
+Quanto ao chamamento ao processo, o instituto enseja a formação de litisconsórcio passivo entre o chamador e codevedores, objetivando, sobretudo, o efeito previsto no CPC 132.
+
+Ora, como visto, houve a formação de litisconsórcio na fase cognitiva, com a condenação solidária dos litisconsortes, donde resulta a ausência de interesse no chamamento ao processo, para não falar na inadmissibilidade dessa forma de intervenção de terceiro em processo/fase outra que não seja a cognitiva.
+
+Confira-se o precedente da Turma:
+
+ EMENTA
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. ARBITRAMENTO. NECESSIDADE DE DOCUMENTOS E PARECERES ELUCIDATIVOS. PROVA PERICIAL. DESNECESSIDADE DO PROCEDIMENTO COMUM. CHAMAMENTO AO PROCESSO. DESCABIMENTO. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. IRRELEVÂNCIA PARA A SOLUÇÃO DO RECURSO.
+
+1. Para que o mutuário de cédula de crédito rural possa ser alcançado pela tutela coletiva da ação civil pública nº 94.008514-1 - 3ª Vara Federal da Seção Judiciária do Distrito Federal -, faz-se necessária a integração do título para apurar o enquadramento da parte na situação fática pertinente, além da apresentação de documentos e pareceres elucidativos para se apurar o valor do débito, além da eventual realização de prova pericial.
+
+2. Portanto, não se fazendo necessário o pronunciamento sobre fatos novos, isto é, que já não tenham sido considerados na própria sentença, mostra-se correta a decisão agravada ao definir que a liquidação provisória se dê por arbitramento.
+
+ 3. Não é cabível o chamamento ao processo da União e do Banco Central do Brasil na presente fase processual, haja vista que o título condenatório já obrigou os devedores de forma solidária e o exercício do direito de regresso, após o pagamento por qualquer dos devedores solidários, se dá pela sub-rogação de pleno direito no crédito.
+
+(...).
+
+5. Agravo de instrumento não provido. (Ac. 1.438.350, Des. Arnoldo Camanho, 2022).
+
+Ausente comprovação de securitização de créditos à União. A ausência de localização da operação no sistema do agravante e a informação do cartório (id 170346218 - autos principais) que não foi encontrada “cópia original” do título, não caracteriza a sua inexistência, considerando que o agravado instruiu a inicial com cópia do registro da cédula em questão junto ao Cartório de Registros de Imóveis de Limoeira/CE (id 152533506), em que constam os parâmetros para cálculo da dívida, como data de emissão, valor da operação e taxa de juros.
+
+A propósito, mutatis mutandis, precedente do STJ:
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃOÀ FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+
+3. Agravo interno não provido. (STJ, T 4, AgInt no AREsp 1.309.643, Min. Luís Felipe Salomão, julgado em 2019) Grifei.
+
+Posto isso, conheço parcialmente do agravo de instrumento e nego provimento.
+
+O Senhor Desembargador ARNOLDO CAMANHO - 1º Vogal Com o relatorO Senhor Desembargador JAMES EDUARDO OLIVEIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER EM PARTE DO RECURSO E, NA PARTE CONHECIDA, NEGAR-LHE PROVIMENTO. UNÂNIME
