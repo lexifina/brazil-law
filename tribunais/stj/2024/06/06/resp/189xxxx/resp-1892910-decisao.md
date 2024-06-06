@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo ESTADO DO PARANÁ, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça daquele Estado, assim ementado (fl. 579):
+APELAÇÃO CÍVEL. TRIBUTÁRIO. ICMS. EXECUÇÕES APENSADAS. EXTINÇÃO DE UMA EXECUÇÃO APENSADA E PROSSEGUIMENTO DE OUTRAS. ART. 28 DA LEI 6.830. APÓS A REUNIÃO DAS EXECUÇÕES, O TRAMITE PASSA A SE DAR EM UM ÚNICO PROCESSO. A NATUREZA JURÍDICA DA DECISÃO QUE RECONHECE A PRESCRIÇÃO DE PARTE DA DÍVIDA EXECUTADA, SEM POR FIM AO PROCESSO, É INTERLOCUTÓRIA, DEVENDO SER DESAFIADA POR AGRAVO DE INSTRUMENTO (ART. 354, PARÁGRAFO ÚNICO, DO CPC).
+INTERPOSIÇÃO DE RECURSO DE APELAÇÃO, POR HAVER EXPRESSA PREVISÃO EM LEI DO RECURSO CABÍVEL, CONSTITUI ERRO GROSSEIRO, NÃO SE APLICANDO O PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. (STJ, RESP 1186022/RO, REL. MINISTRO CASTRO MEIRA, SEGUNDA TURMA, JULGADO EM 20/04/2010, DJE 29/04/2010 - RECURSO ESPECIAL 1473319/PR, REL. MINISTRO MAURO CAMPBELL MARQUES, JULGADO MONOCRATICAMENTE EM 1º/09/2014, DJE 15/09/2014).
+RECURSO DE APELAÇÃO NÃO CONHECIDO.
+Os embargos declaratórios opostos foram rejeitados (fl. 624/627).
+A parte recorrente aponta violação aos arts. 354, parágrafo único, 489, § 1º, 496, 924, V, 932 e 1.022 do CPC e 28 da Leo 6.830/80.
+Sustenta, em resumo: (I) omissão no julgado embargado que não se manifestou acerca das questões postas nos aclaratórios; (II) "No presente caso há vários processos tramitando em conjunto e o processo referente a execução fiscal nº 0004464-73.2002.8.16.0035 foi extinto na integralidade, por conseguinte, o recurso cabível é a apelação" (fl. 644).
+Contrarrazões apresentadas às fls. 655/671.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Extrai-se dos autos terem sido apensadas quatro execuções fiscais nos autos do feito piloto de número 0002680-32.2000.8.16.0035. A exceção de pré-executividade apresentada restou acolhida para extinguir os processos em relação aos executados Virgílio Antônio Romagna e Hildigard Frose, e em embargos de declaração, extinguir integralmente a ação executiva de nº 0004464-73.2002.8.16.0035 com fundamento no 924, V, do CPC.
+Contra o reconhecimento da prescrição, o Estado do Paraná apelou relativamente ao marco inicial do prazo prescricional.
+O Tribunal de origem não conheceu do recurso estadual ao fundamento de existência de erro grosseiro na interposição da apelação ao invés de agravo de instrumento porquanto, apesar de extinta uma das execuções fiscais, o processo prosseguiu quanto às demais execuções.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega a extinção integral da execução fiscal de nº. 0004464-73.2002.8.16.0035, em razão da prescrição intercorrente, o que desafia a interposição do recurso de apelação. Aduz, ainda, não ter sido o julgado submetido ao reexame necessário.
+O Tribunal de origem manifesta-se no sentido de que "A própria insurgência apontando julgamento em sentido contrário pelo Superior Tribunal de Justiça indica a inexistência de omissão, mas de decisão contrária ao entendimento da parte, e que, por se tratar de rediscussão do julgado, não pode ser enfrentada pela via dos embargos de declaração" (fl. 625) e que "somente sentenças são sujeitas a reexame necessário, e o Acórdão adotou a tese de que a natureza jurídica da decisão que extingue, pela prescrição, execução apensada, com o prosseguimento do processo piloto, é interlocutória, não comportando, por essa razão, sujeição à remessa necessária" (fl. 626).
+Observa-senão ter havido o juízo de valor acerca da argumentação apontada nos autos, rejeitando aquela Corte estadual os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REUNIÃO DE PROCESSOS. FACULDADE DO MAGISTRADO. TRAMITE CONJUNTO DOS FEITOS. IMPOSSIBILIDADE DE EXTINÇÃO DO PROCESSO.
+1. No julgamento do REsp 1.158.766/RJ, Relator Min. Luiz Fux, julgado sob o rito dos Recursos Repetitivos, ficou assentado "que a reunião de diversos processos executivos, pela dicção do art. 28, da LEF, ressoa como uma faculdade do órgão jurisdicional, não se tratando de regra cogente, máxime em face do necessário juízo de conveniência ou não da medida, o que é aferível casuisticamente".
+2. O art. 28 da LEF é muito claro em permitir a reunião de processos contra o mesmo devedor, devendo os processos conexos ser redistribuídos ao juízo da primeira distribuição. Em momento algum, a legislação deliberou sobre a possibilidade de extinção dos feitos;
+pelo contrário, o procedimento normal é o trâmite conjunto.
+Portanto, não se pode admitir que o Poder Judiciário, sponte propria, alargue as hipóteses de extinção do processo, previstas na legislação.
+3. Recurso Especial provido.
+(REsp n. 1.486.289/SE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/12/2014, DJe de 9/12/2014.)
+EXECUÇÃO FISCAL. ART. 34 DA LEI N. 6.830/1980. VALOR DE ALÇADA RECURSAL. REUNIÃO EM EXECUÇÃO FISCAL DE DÉBITOS DE MESMA NATUREZA E MESMO TRIBUTO. RECURSO DE APELAÇÃO. CABIMENTO.
+I - O Tribunal de origem negou seguimento ao recurso de apelação, sob o fundamento de que não é possível, para fins de fixação da alçada - e, assim, de interposição de apelação -, somar o valor das execuções reunidas em um só feito, devendo ser considerado cada crédito tributário isoladamente, ainda que cobrados pela via da mesma execução fiscal. Por sua vez, a Municipalidade, em recurso especial, sustenta o cabimento da apelação, considerando que foi superado o valor de alçada de 50 Obrigações Reajustáveis do Tesouro Nacional - ORTN.
+II - No caso, não se trata de somatório de valores de execuções fiscais; mas sim de débitos de mesma natureza e mesmo tributo, referentes a vários exercícios, expressos no valor da causa de um único feito executivo.
+III - Incidência da jurisprudência deste Superior Tribunal de Justiça que fixou que o valor da alçada deve ser aferido no momento da propositura da execução fiscal. Assim, como o valor da causa do feito executivo, quando da propositura, ultrapassava o valor de alçada, cabível, na espécie, o recurso de apelação, que fora, pois, devidamente interposto, em consonância com o decidido, sob o regime de recursos repetitivos, no REsp 1.168.625/MG, Rel. Min. Luiz Fux, DJe 1º/7/2010.
+IV - Recurso especial provido.
+(REsp n. 1.887.124/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/9/2020, DJe de 30/9/2020.)
+Uma vez reconhecida a negativa de prestação jurisdicional, resta por ora prejudicada a apreciação dos demais pontos suscitados no recurso especial.
+ANTE O EXPOSTO, dou provimento ao recurso especial do Estado do Paraná para determinar o retorno dos autos ao Tribunal de origem a fim de que seja proferido novo julgamento dos embargos declaratórios com a análise da questão omitida.
+Publique-se.
+EMENTA
