@@ -1,0 +1,7 @@
+DECISÃO
+A decisão de fls. 647-648 determinou a intimação da parte exequente para informar, no prazo de 5 (cinco) dias, justificadamente, se ainda persiste o interesse no prosseguimento da causa em relação a IVANIRA FERREIRA DE AZEVEDO, tendo em vista o decurso de prazo das decisões de fls. 623-624 e 635-636, que determinaram, respectivamente, a intimação da Associação e da advogada atuante no feito para que promovessem a habilitação do espólio e/ou dos sucessores da substituída supracitada .
+Em resposta (fls. 650-654), a Associação informou que "não possui cadastro de eventuais pensionistas, bem como não logrou êxito em localizar eventuais interessados no endereço que consta em seus arquivos". Acrescentou que entrou em contato com o setor de recursos humanos do INCRA e este informou que IVANIRA FERREIRA DE AZEVEDO não possui pensionista cadastrado. Acostou documentação nesse sentido.
+Ante o exposto, e tendo em vista que a ausência de habilitação do espólio ou dos herdeiros/sucessores implica a falta de pressuposto de constituição e desenvolvimento válido e regular do processo, julgo extinto o processo, sem resolução do mérito, em relação à referida substituída, com fundamento no art. 485 , IV, do CPC.
+Aguarde-se na Coordenadoria de Processamento de Feitos em Execução Judicial o cumprimento das requisições de pagamento expedidas em decorrência destes autos.
+Publique-se. Intimem-se.
+ EMENTA
