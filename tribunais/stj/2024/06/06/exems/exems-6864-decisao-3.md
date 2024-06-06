@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedidos de desistência apresentados por HARRY EMERSON RONCONI (fls. 293-296), JOÃO CUNHA DA SILVA (fls. 302-304), GENÉSIO JOSÉ KLEIN (fls. 305-309), JOÃO PEDRO BELAQUE MORANDE (fls. 310-315), GLADIS ÉRICA RICHTER (fls. 316-319), EVILÁSIO JOSÉ DA SILVA (fls. 320-323) e JOÃO CARLOS PAES (fls. 324-327) em virtude de já participarem de outra demanda com o mesmo objeto.
+Nesse contexto, sua permanência nos autos poderia ensejar indevido pagamento em duplicidade.
+Por ter havido pedidos de desistência protocolados pela ANFIP e considerando o caso particular de sindicatos e associações, que atuam em juízo representando grande quantidade de interessados, entendo que a duplicidade constatada não caracteriza má-fé, especialmente porque reconhecida pela própria exequente.
+Em tais situações, deve ser levado em conta o princípio da justiça no caso concreto e a baixa complexidade da situação em análise. Por outro lado, não se pode ignorar a fase processual em que se encontra esta execução, devendo a parte desistente ser condenada em honorários.
+Ante o exposto, sendo a matéria cognoscível de ofício pelo magistrado, homologo os pedidos de desistência e extingo a execução, assim como os embargos conexos, sem resolução de mérito em relação a HARRY EMERSON RONCONI, JOÃO CUNHA DA SILVA, GENÉSIO JOSÉ KLEIN, JOÃO PEDRO BELAQUE MORANDE, GLADIS ÉRICA RICHTER, EVILÁSIO JOSÉ DA SILVA e JOÃO CARLOS PAES, com fundamento no art. 485, V e VIII, do CPC.
+Condeno a parte exequente ao pagamento de honorários no valor de R$ 500,00 (quinhentos reais), por desistente, em isonomia com outros casos semelhantes observados em execuções coletivas em trâmite nesta Corte.
+Retifique-se a autuação para excluir HARRY EMERSON RONCONI, JOÃO CUNHA DA SILVA, GENÉSIO JOSÉ KLEIN, JOÃO PEDRO BELAQUE MORANDE, GLADIS ÉRICA RICHTER, EVILÁSIO JOSÉ DA SILVA e JOÃO CARLOS PAES, inclusive dos embargos conexos (caso ainda não estejam arquivados), para o qual deverá ser trasladada cópia desta decisão.
+Publique-se. Intimem-se.
+ EMENTA
