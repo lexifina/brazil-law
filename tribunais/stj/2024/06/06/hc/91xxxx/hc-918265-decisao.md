@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Rafael Clementino, no qual se aponta como órgão coator o Tribunal de Justiça de Santa Catarina, que denegou a ordem no HC n. 50281 25-10.2024.8.24.0000 (fls. 25/27), mantendo a prisão preventiva decretada pelo Juízo da 2ª Vara da comarca de Itapoá/SC, em razão da suposta prática dos crimes de roubo circunstanciado e extorsão (Processo n. 5001181-78.2024.8.24.0126 - fls. 16/21).
+Nesta Corte, a defesa sustenta ausência de contemporaneidade, haja vista que os fatos data m de 7/8/2023 e o decreto de prisão preventiva se deu em 15/4/2024; falta de fundamentação concreta e dos requisitos previstos no art. 312 do Código de Proces so Penal; existência de condições pessoais favoráveis; e suficiência de medidas cautelares alternativas.
+Assim, pretende, no âmbito liminar e no mérito, a revogação da custódia .
+É o relatório.
+De pronto, verifico que não há constrangimento ilegal a ser sanado.
+Com efeito, verifico que a custódia cautelar foi idoneamente decretada com base na reincidência específica e antecedentes criminais do paciente, que estava inclusive em regime aberto de cumprimento de pena, bem como na gravidade concreta do crime de roubo a dois idosos, com invasão do domicílio, grave ameaça e restrição de suas liberdades, exercidas mediante emprego de arma de fogo, sob a seguinte motivação (fl. 19 - grifo nosso):
+ ..
+No que toca à ordem pública, merece tutela diante da inequívoca gravidade concreta do ilícito. Afinal, em tese, o acusado não apenas se valeu da fragilidade de dois idosos para assaltá-los, como também os manteve sob seu domínio, restringindo sua liberdade, sob ameaça exercida com arma de fogo, para facilitar a fuga e, por consequência, garantir o aproveitamento do crime.
+Há, ademais, risco de reiteração delitiva, pois o representado é reincidente específico na prática de crimes patrimoniais violentos, tendo sido condenado nos autos n.0006079-36.2011.8.24.0011 a pena privativa de liberdade de 10 anos, 3 meses e 22 dias de reclusão, por infração aos arts. 157 § 2º, I e II (duas vezes) e 157 § 2º, I, II, V, c/c art. 14, II, todos do Código Penal; e nos autos n. 000413766.2011.8.24.0011 a pena privativa de liberdade de 6 anos, 7 meses e 6 dias de reclusão, por infração aos arts. 157 § 2º, I, c/c 14, II,e 157 § 2º, II.
+Não é demais ressaltar que o acusado cumpre pena no regime aberto (PEC n.00177915020128240023) e, mesmo assim, tem se dedicado, ao menos em tese, à prática de novos delitos, demonstrando a ausência de comprometimento com o resgate da reprimenda.
+De mais a mais, além dos fatos aqui investigados, o representado responde a outras duas ações penais (autos n. 5003456-34.2023.8.24.0126 e n. 5001175-71.2024.8.24.0126), uma delas por crime de associação para o tráfico.
+ ..
+O Tribunal de origem, por sua vez, entendeu a segregação idoneamente fundamentada, nestes termos (fl. 27 - grifo nosso):
+ ..
+Como se vê, não foi com base na gravidade abstrata do delito cuja prática é atribuída ao Paciente que foi determinada sua custódia preventiva, e sim em razão de circunstâncias do caso concreto que, ao olhar da Autoridade Impetrada, revelam maior risco de abalo à ordem pública com sua soltura.
+Desmotivada, pois, a decisão não é.
+ ..
+Ora, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Ademais, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 789.064/ES, Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, DJe 10/5/2023).
+Assevero que, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias sua necessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Por fim, não há falar em ausência de contemporaneidade da prisão quando, no curso das investigações, surgiram os indícios de que o recorrente estaria envolvido na empreitada criminosa, levando, assim, ao requerimento e decretação da prisão preventiva (RHC n. 99.374/RS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 26/4/2019) - (AgRg no HC n. 886.569/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 20/3/2024).
+Ante o exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. EXTORSÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. RESTRIÇÃO DAS LIBERDADES DAS VÍTIMAS IDOSAS. RISCO DE REITERAÇÃO DELITIVA. REINCIDÊNCIA. MAUS ANTECEDENTES. PERICUL OSIDADE SOCIAL DO AGENTE. AUSÊNCIA DE CONTEMPORANE IDADE. INEXISTÊNCIA. PRECEDENTES. INEVIDÊNCIA DE C ONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
