@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto pelo UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ, fl. 687):
+AGRAVO INTERNO CONTRA DECISÃO QUE PROVEU O RECURSO INTERPOSTO PELA PARTE ADVERSA. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PRELIMINARES. PRESSUPOSTOS RECURSAIS PRESENTES. REJEIÇÃO. MÉRITO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ABANDONO DA CAUSA. AUSÊNCIA DE INTIMAÇÃO PESSOAL DOS SUBSTITUTOS PROCESSUAIS EM RAZÃO DO FALECIMENTO DA AUTORA. ART. 485, §1º DO CPC/15. REFORMADO DECISUM. AUSENTES ARGUMENTOS CAPAZES DE INFIRMAR AS CONCLUSÕES ADOTADAS. DESPROVIMENTO.
+Nas razões do recurso especial, a recorrente apontou violação aos arts. 76, § 2º, I e 99, § 3º, do Código de Processo Civil (e-STJ, fls. 706-731).
+Sustentou, em síntese, a irregularidade da representação da parte adversa, ante a ausência de procuração da herdeira, bem como a impossibilidade de concessão de ofício do benefício da justiça gratuita.
+Não foram apresentadas contrarrazões (e-STJ, fl. 738).
+Juízo de admissibilidade negativo, o que motivou a interposição de agravo.
+Brevemente relatado, decido.
+De início, em relação à apontada ofensa aos arts. 99, § 3º, do Código de Processo Civil, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+Com efeito, o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incide, ao caso, as Súmulas 282 e 356 do STF.
+Em relação à questão principal, cinge-se a controvérsia em torno da regularidade da representação da parte adversa. Nesse contexto, o Tribunal de origem baseou-se na interpretação de fatos e provas para concluir pela ausência de irregularidade na representação processual, deixando registrados os seguintes fundamentos (e-STJ, fl. 689; sem destaques no original):
+O recurso é tempestivo, a recorrente detém legitimidade e interesse recursal, estando presentes nos autos as procurações necessárias à autuação da advogada subscritora (ids 9707020, 9707021, 9024766 e9024776).
+Ademais, não seria necessário que os todos herdeiros interpusessem o presente recurso, visto que ainda não integrados à lide no primeiro grau, ressaltando-se que a herdeira Sra Sônia Maria Cordeiro Cavalcanti detinha procuração pública para representar a sua genitora em todos os atos da vida civil.
+Verifica-se, assim, que reverter a conclusão do Tribunal local de que a herdeira "detinha procuração pública para representar a sua genitora em todos os atos da vida civil" (e-STJ, fl. 689), para acolher a pretensão recursal de irregularidade da representação processual, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante o enunciado da Súmula n. 7 do Superior Tribunal de Justiça, não sendo o caso de revaloração jurídica.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ARTIGOS ALEGADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. HERDEIRA. PROCURAÇÃO PÚBLICA. PODERES. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
