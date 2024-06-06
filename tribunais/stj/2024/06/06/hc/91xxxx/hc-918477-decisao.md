@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO SERGIO AGASSI apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da Apelação n. 1515985-76.2023.8.26.0050, cujo acórdão ficou assim ementado (e-STJ fl. 422):
+Tráfico de Drogas Condenação necessária Absolvição do réu inviável Prova certa Depoimentos dos agentes de segurança bastante precisos e convincentes, a indicar a responsabilidade criminal do réu, que transportava significativa quantidade de drogas para destinação ao consumo alheio Dosimetria Pena fixada com equilíbrio e fundamento Reincidência devidamente configurada Agravante genérica que não permite ultrapassar a pena acima do máximo previsto - Pena reduzida - Privilégio inaplicável Regime fechado mantido dada a periculosidade social do agente Recurso parcialmente provido.
+Daí o presente writ, no qual sustenta a defesa, em síntese, o redimensionamento da pena-base, "uma vez que teria sido majorada muito acima do mínimo legal apenas em virtude da expressiva quantidade de cocaína apreendida, haja vista a inexistência de qualquer outra circunstância judicial desfavorável" (e-STJ fl. 6).
+Também pugna pela aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+Decido.
+Quanto ao pedido de desproporcionalidade na exasperação da pena-base, depreende-se dos autos que o presente writ é mera reiteração do pedido feito no HC n. 902.786/SP, de minha relatoria, no qual conheci parcialmente da impetração e, nessa extensão, deneguei a ordem que pretendia o reconhecimento da ilicitude de provas e a diminuição da pena.
+A defesa também alega a ocorrência de bis in idem, visto que o Tribunal local utilizou a quantidade e natureza da droga tanto para fixar a pena-base acima do mínimo legal quanto para afastar a aplicação da minorante. Sem razão, no entanto.
+Diferentemente do alegado pela defesa, as instâncias ordinárias não fizeram incidir o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, por se tratar de réu reincidente, senão vejamos (e-STJ fl. 426):
+Ocorre que não era o caso, realmente, de aplicação do tráfico privilegiado, vez que o réu é reincidente e, dadas as circunstâncias do caso concreto (transporte de enorme quantidade de substância entorpecente, possivelmente entre diferentes estados da Federação Paulo Sérgio informou que encontrou com o citado Johny em outro município, localizado no estado do Mato Grosso), demonstrou bastante envolvimento com o comércio nefasto e, quiçá, com organização criminosa.
+De fato, o acórdão do Tribunal de origem está em consonância com a jurisprudência sedimentada de ambas as Turmas do Superior Tribunal de Justiça quanto à não incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, quando for o caso de réu reincidente:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DO ENTORPECENTE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. RÉU REINCIDENTE. AGRAVO NÃO PROVIDO.
+1. O reconhecimento da reincidência do réu é elemento suficiente para impedir a aplicação do redutor, por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas, sendo certo que a utilização de tal vetor concomitantemente na segunda e terceira fase da dosimetria não enseja bis in idem (HC 410.990/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2017, DJe 13/11/2017; HC 409.134/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 5/9/2017, DJe 18/9/2017).
+2. Agravo regimental não provido.
+(AgRg no HC n. 753.355/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/9/2022, DJe de 21/9/2022.)
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
