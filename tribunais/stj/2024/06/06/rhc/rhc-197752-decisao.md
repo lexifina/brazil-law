@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JEFFERSON JONATHAN SOUZA GOUVEA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o recorrente foi preso preventivamente pela suposta prática dos delitos previstos nos artigos 33 da Lei nº 11.343/06 e 12 da Lei nº 10.826/03.
+Impetrado habeas corpus na origem, a ordem foi denegada.
+Neste recurso, alega a defesa, em suma, que "não há nos autos qualquer elemento concreto acerca da necessidade de prisão preventiva, razão pela qual os Julgadores até então foram incapazes de apontar em suas decisões." (e-STJ, fl. 258)
+Aduz que o réu é primário, de bons antecedentes, possui emprego lícito e residência fixa.
+Afirma que, " e mbora a autoria do delito de posse de arma e munições tenha sido demonstrada, observa-se que a materialidade não foi devidamente comprovada, uma vez que não juntado aos autos laudo comprovando a eficiência da arma apreendida." (e-STJ, fl. 260)
+Anota que " a  ausência de laudo pericial de arma e das munições, apto para atestar suas eficiências lesivas, prejudica a verificação da materialidade lesiva, isso porque não se sabe, neste momento, se o armamento se encontra ou não em condições de utilização." (e-STJ, fl.261)
+Assevera que a prisão preventiva encontra-se fundamentada apenas na gravidade em abstrato do delito.
+Aponta a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer a substituição da prisão preventiva por medidas cautelares diversas da prisão.
+Liminar indeferida (e-STJ, fl. 279).
+Foram prestadas informações (e-STJ, fls. 285-320).
+O Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso ordinário (e-STJ, fls. 325-330).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+A Corte de origem manteve a prisão cautelar dos réus sob os seguintes fundamentos:
+" ..
+Colhe-se dos autos que foram encontradas, durante busca veicular, 01 (uma) pedra bruta de substância análoga à crack, bem como 02 (dois) aparelhos celulares.
+Posteriormente, em verificação no interior da residência do paciente, foi localizado um revólver cal.38, municiado com 05 (cinco) cartuchos intactos do mesmo calibre, uma cartela de munições cal.38 contendo mais 05 (cinco) cartuchos intactos, um invólucro de plástico contendo 04 (quatro) pedras brutas de substância análoga à crack, além da quantia de R$3.000,00 (três mil) em dinheiro.
+Verifico, inicialmente, que o presente Habeas Corpus, insurge-se contra a decisão em que decretou a prisão preventiva. A decisão fundamentada na garantia da ordem pública, baseou-se em elementos concretos e evidencia a inadequação e insuficiência da aplicação de outras medidas cautelares diversas da prisão.
+Neste contexto, em que pesem as relevantes argumentações do impetrante, observo que, em análise à referida decisão combatida, o delito do artigo 33 da Lei nº 11.343/06 e artigo 12 da Lei nº 10.826/03, imputado ao paciente são punidos com pena privativa de liberdade máxima abstratamente cominada superior a quatro anos de reclusão, portanto, sua prisão cautelar não contraria o disposto no art. 313, I do Código de Processo Penal, com a nova redação dada pela Lei nº 12.403/01.
+Aliás, sobre o tema, o entendimento predominante, tanto na doutrina como na jurisprudência, é no sentido de que deve ser decretada a prisão preventiva quando presentes os motivos arrolados na lei processual penal, devendo a decisão estar devidamente fundamentada, como in casu.
+Na oportunidade, assim se pronunciou o d. Magistrado:
+"Os fatos relatados no APFD, notadamente pelo Condutor e pelas testemunhas mostram-se graves, tendo em vista a quantidade de drogas diversas encontrada, bem como arma de fogo, sendo certo que recentemente o STF, no HC n 169.788, por maioria de votos, decidiu que são válidas a entrada da Polícia Militar a domicílios, nos casos em que os agentes de segurança identificarem atitude suspeita, sendo certo que na hipótese, segundo relatos do condutor e testemunha, o próprio autuado franqueou a entrada dos policiais na residência. No tocante as condições pessoais do autuado, em sua FAC há diversos registros criminais, sendo que a sua CAC demonstra condenações criminais, por porte ilegal de armas e crime de roubo majorado, concluindo-se que se dedica, o autuado, às atividades criminosas. Desse modo, estão presentes, no caso concreto, os requisitos constantes do art. 312, do CPP, para a garantia da ordem pública e assegurar a aplicação da lei penal, eis que as circunstâncias do fato indicam a inadequação e insuficiênci a das medidas cautelares diversas da prisão, ainda mais que as circunstâncias são graves. Posto isso, converto a prisão em flagrante do autuado JEFFERSON JONATHAN SOUZA GOUVEA em prisão preventiva, com base no artigo 312, do CPP, expedindo-se o competente mandado. Cumprido o mandado, enviar os autos à Vara competente." (doc. de ordem nº
+Sendo assim, tem-se que a decisão do MMº. Juiz encontra-se devidamente ancorada nas particularidades do caso e em seus elementos em concreto, estando dotada de idoneidade.
+Portanto, demonstrados os requisitos para a manutenção da prisão preventiva, quais sejam, risco à ordem pública ou à ordem econômica, conveniência da instrução ou, ainda, a necessidade de assegurar a aplicação da lei penal, o que é o caso dos autos, haja vista a gravidade do crime de tráfico, a materialidade e indícios de autoria, o risco de reiteração criminosa, motivo pelo qual a manutenção da prisão do paciente demonstra-se necessária.
+Em razão da fundamentada garantia da ordem pública, não se mostra viável a aplicação de medidas diversas da preventiva, pois não se revelariam adequadas ao caso vertente, tendo em vista a gravidade concreta do crime e as circunstâncias dos fatos.
+Portanto, a prisão preventiva respaldou-se na lei processual penal, não havendo correção a ser efetuada em sede de Writ.
+Sobre a garantia da ordem pública, vale mencionar a lição de Guilherme de Souza Nucci:
+ ..
+Em sequência, após intervenção do impetrante no tocante à ausência de condenação criminal na CAC do paciente, sendo este primário, o MM. Juiz proferiu a seguinte decisão:
+"Razão assiste ao advogado do autuado, tendo em vista que quem possui condenações anteriores foi o autuado Vinicius de Assis Vicente, sendo que o autuado Jefferson realmente não consta condenação conforme CAC de ID 10198076223, fato pelo qual retifico a decisão acima neste tocante. Entretanto, ainda assim, mantenho a conversão da prisão em flagrante em prisão preventiva, considerando que segundo decisões do STJ, as condições pessoaisfavoráveis do autuado, por si só, não me concedem o direito à liberdade provisória, considerando a gravidade do fato ocorrido, como na hipótese dos autos."
+Entretanto, conforme os apontamentos retromencionados, a prisão preventiva do paciente não se fez necessária baseando-se apenas no bojo da Certidão de Antecedentes Criminais, e sim de forma fundamentada nos indícios de materialidade e autoria do crime, além da gravidade concreta das circunstâncias, sobretudo diante da considerável quantidade de ilícitos apreendidos, além de materiais indicativos da traficância.
+Além disso, a defesa traz a alegação defensiva de que até o momento da impetração, não houve apresentação do laudo de eficiência do armamento e munições apreendidas.
+Contudo, em relação à impugnação mencionada, faz-se importante apontar que, conforme documento de ID nº 10207039089, dos autos originais de nº 5012626-42.2024.8.13.0145, se aguarda a conclusão do Inquérito Policial para que o órgão ministerial ofereça a denúncia, ou seja, sequer há nos autos os termos que serão, de fato, imputados ao paciente.
+Além disso, a depender da particularidade de cada caso, o exame pericial, já requisitado (docs. de ID nº 10198073617 e 10198073621) pode demandar maior tempo para conclusão.
+Entretanto, com as informações e laudos toxicológicos das drogas apreendidas, já é possível verificar a presença dos requisitos autorizadores da medida cautelar máxima, razão pela qual não há o que se falar em constrangimento ilegal.
+Há evidente comprometimento ao meio social, o que autoriza a custódia cautelar do autuado a fim de se evitar a repetição dos atos nocivos, censuráveis e, com isso, garantir a ordem pública, nos termos do artigo 312 do CPP.
+E, uma vez patenteada à necessidade da prisão, não há falar em punição antecipada ou afronta ao princípio constitucional da presunção de inocência.
+Dessa forma, não há que se falar em concessão da ordem de habeas corpus, uma vez que a prisão do paciente é legal e encontra-se devidamente justificada.
+Por tudo isto, não vislumbrando a ocorrência de qualquer constrangimento ilegal a ser sanado pela via desta impetração, DENEGO A ORDEM." (e-STJ, fls. 239-243; sem grifos no original).
+No caso, observa-se que o decreto preventivo atendeu ao disposto no art. 312 do CPP e está suficientemente fundamentado na garantia da ordem pública, haja vista a gravidade do fato, pois recorrente foi preso em flagrante com 5 pedras de crack (118,45g), um revólver de uso permitido, calibre .38, 10 cartuchos calibre .38, a quantia de R$ 3.000,00, sem comprovação de origem lícita.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenc iado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Pelos mesmos motivos acima delineados, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura dos recorrentes . Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
