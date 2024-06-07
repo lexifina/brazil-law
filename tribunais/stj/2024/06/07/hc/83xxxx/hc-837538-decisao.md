@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FLORISVALDO ALVES DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Consta dos autos que o paciente foi condenado às penas de 12 anos e 2 meses de reclusão em regime inicial fechado e pagamento de 1.200 dias-multa, como incurso nos arts. 33 e 35 da Lei n. 11.343/2006.
+O impetrante sustenta que o Tribunal de origem teria mantido a condenação do paciente pelo crime de tráfico pelo simples fato de estar residindo com a corré na época dos fatos e ter ciência da droga armazenada.
+Aduz que a corré teria assumido a posse do material entorpecente e que o paciente nunca teria sido investigado, estando a condenação embasada " ..  em fundamento absurdo, consistente na utilização em abstrato da desconhecida "Operação Força Central"" (fl. 12).
+Aponta a inidoneidade da fundamentação utilizada para manter a condenação pelo crime de associação para o tráfico de drogas, reputando ausentes os requisitos caracterizadores do delito. Argumenta que o fato de os réus " ..  serem marido e mulher não caracteriza associação para o tráfico" (fl. 21).
+Alega, ainda, que haveria equívoco na dosimetria da pena e que o paciente preencheria os requisitos para a aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Requer, assim, a concessão da ordem para que o paciente seja absolvido do crime de associação para o tráfico de drogas. Subsidiariamente, pugna pela revisão da dosimetria com o reconhecimento da figura do tráfico privilegiado.
+O pedido liminar foi indeferido às fls. 997-1000.
+Informações prestadas à fl. 1007.
+O Ministério Público Federal, às fls. 1028-1034, manifestou-se pela concessão parcial da ordem, para reduzir a pena do crime de associação para o tráfico de drogas,
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a absolvição do delito de associação para o tráfico de drogas. Subsidiariamente, pugna pela revisão da dosimetria com a aplicação da causa especial de diminuição do § 4 º do artigo 33 da Lei de Drogas.
+Sobre a controvérsia, o acórdão impugnado, assim se pronunciou (fls. 47-49):
+"No caso presente, extrai-se de todo o conjunto probatório prova inequívoca de que os acusados se associaram para preparar, guardar e comercializar os entorpecentes por tempo razoável. A investigação que deflagrou a OPERAÇÃO FORÇA CENTRAL foi direcionada para o endereço dos réus, onde foram presos em flagrante com mais de 07 kg de crack, materiais utilizados para embalar e pesar o entorpecente, além da quantia de R$ 20.000.00 (vinte mil reais) em espécie. Ante a expressiva apreensão e considerando . as circunstâncias em que ocorreu a ação policial, é notório que ambos recorrentes tinham plena ciência da atividade ilícita desenvolvida e de que havia um ajuste prévio com a finalidade de traficar drogas.
+Pela quantidade de drogas e dinheiro localizados, pode-se afirmar que a organização criminosa que os réus integravam não se trata de uma eventual reunião de pessoas, mas de um grupo estável e permanente, com o propósito de promover o tráfico de entorpecentes naquele município de Serra/ES.
+É translúcido pelas declarações já citadas das testemunhas que os réus efetivamente possuíam animus associativo, vez que trabalhavam em conjunto, possuindo relação estável e permanente, inclusive pelo fato de serem marido e mulher. O liame associativo está demonstrado através das declarações dos policiais, que afirmaram categoricamente que os recorrentes faziam parte de organização criminosa que tinha por objetivo o comércio de entorpecentes, não restando dúvidas que os mesmos estavam efetivamente associados para realização de tráfico de drogas.
+Assim, comprovadas a estabilidade, a permanência e a vontade dos apelantes de se associarem para realizar intenso tráfico de drogas é perfeitamente possível concluir que eles também praticaram o delito tipificado no artigo 35, da Lei 11.343/06, sendo, novamente, inviável a absolvição pretendida.
+Desta forma, ante aos trechos da sentença retro transcritos, restou perfeitamente demonstrado haver nos autos fartos e variados elementos de prova nos quais o juiz sentenciante se amparou para fundamentadamente condenar os apelantes FLORISVALDO ALVES DA SILVA e NADINE ALESSIO DOS SANTOS pelo cometimento dos delitos de tráfico de entorpecentes e associação para o tráfico, previstos, respectivamente, nos artigos 33 e 35, ambos da Lei 11.343/06. Assim, não merece guarida o pleito defensivo de absolvição por ausência de provas.
+ ..
+Por fim, a defesa dos apelantes busca a aplicação da benesse estatuída no parágrafo 4 2 do artigo 33 da Lei 11.343/06, em sua fração máxima. Sem razão. É que eles foram condenados pela associação para o tráfico, o que, por s só, afasta a possibilidade de aplicação do privilégio. Nesse sentido:
+ ..
+Embora Florisvaldo e Nadine sejam primários, a condenação do crime de associação para o tráfico de drogas evidencia que eles se dedicam a atividades criminosas.
+Conforme se vê, a concessão do citado benefício é incompatível com a condenação pelo delito previsto no artigo 35 da Lei 11.343/06, tal como ocorrido na presente hipótese."
+Com efeito, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do Superior Tribunal de Justiça, prevista no artigo 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+Na hipótese em apreço, o presente writ foi impetrado contra acórdão do Tribunal de origem já transitado em julgado (consulta ao sítio do Tribunal a quo). Diante dessa situação, não deve ser conhecido o presente habeas corpus, porquanto fora manejado como substitutivo de revisão criminal.
+Anoto que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Nessa linha:
+" ..  como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido"
+ .. " (HC 288.978/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Rel. para acórdão Min. Rogerio Schietti Cruz, DJe 21/5/2018).
+" ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ .. " (AgRg no HC n. 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019).
+" ..
+3. É inviável o conhecimento do mandamus ora em exame, pois restou manejado como substitutivo de revisão criminal. Note-se que, "como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido" (HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/3/2018, DJe 21/5/2018).
+4. Nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+5. Com o advento do trânsito em julgado da sentença condenatória, após o exame dos sucessivos recursos defensivos, compete à defesa, caso entenda cabível e se o desejar, ajuizar revisão criminal no Tribunal de Justiça, com vistas à revisão do julgado.
+ .. " (AgRg no HC n. 751.787/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/4/2023).
+Cito, também, a orientação do Supremo Tribunal Federal: AgRg no HC n. 134.691/RJ, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 1º/8/2018; AgRg no HC n. 144.323/SP, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 30/8/2017; e HC n. 199.284/SP, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 16/8/2021.
+Demais a mais, "a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/10/2021).
+De todo modo, não verifico, na moldura fática do acórdão impugnado, nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
