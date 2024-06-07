@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial manejado por Concre-Norte Indústria e Comércio Ltda., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 372):
+EMENTA: AGRAVO DE INSTRUMENTO -EXECUÇÃO FISCAL -EXCEÇÃO DE PRÉ-EXECUTIVIDADE -AJUIZAMENTNO EM FACE DA FILIAL -PESSOA JURÍDICA REQUER O NÃO DIRECIONAMENTO AOS SÓCIOS -IMPOSSIBILIDADE -DIREITO ALHEIRO -PRESCRIÇÃO INTERCORRENTE -NÃO CONFIRGURADA -MULTA DE REVALIDAÇÃO DE 50% SOBRE O DÉBITO -LEGALIDADE -APLICAÇÃO DE LEGISLAÇÃO MAIS BENÉFICA -POSSIBILIDADE -RECURSO PARCIALMENTE PROVIDO.
+-A teor do disposto no art. 18, do CPC, a empresa não pode pleitear direito dos sócios em nome próprio, não sendo possível conhecer do pedido de não redirecionamento da execução aos sócios.
+-No julgamento do RE n. 582.461 (Tema 214), sob o rito da repercussão geral, o Supremo Tribunal Federal declarou o efeito não confiscatório da multa moratória arbitrada em 20%; porém, não reconheceu a inconstitucionalidade de cobranças em percentuais superiores àquele.
+-Não há caráter confiscatório na multa moratória, também denominada pela legislação mineira de multa de revalidação, fixada em 50% sobre o valor atualizado do tributo, conforme previsto no art. 56, inciso II, da Lei Estadual nº 6.736/1975.
+-Contudo, aplicável a redução da multa para 25% sobre o valor do imposto devido, nos termo do art. 56, inciso II, da Lei Estadual nº 6.736/1975, por se tratar de lançamento informado pelo próprio contribuinte por meio da DAPI.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 410/416.
+A parte recorrente aponta dissídio e violação aos arts. 11, 85, 489, §1º, IV e VI, e 1.022, II, do CPC; 40 da LEF. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, "não se manifestando sobre a condenação em honorários quando do acolhimento parcial da exceção, que reduziu a multa moratória de 50% para 25%" (fl. 475); e (II) ocorrência da prescrição intercorrente, pois "não pode ser utilizado como penhora efetiva, apta a interromper o prazo prescricional, a restrição de veículos, cuja localização, estado de conservação e avaliação são desconhecidos pelas partes,  ..  não pode ser utilizado como fato relevante para interrupção do lastro prescricional" (fl. 481).
+Contrarrazões apresentadas às fls. 505/526.
+A decisão presidencial de fls. 530/535, em relação à questão de fundo, negou seguimento ao apelo raro, com espeque no art. 1.030, I, e 1.040, I, do CPC, por estar o acórdão recorrido em conformidade com os Temas 566/571 do STJ e, no tocante à verba honorária, admitiu o apelo raro pela violação ao art. 1.022 do CPC.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta guarida quanto à alegada violação a art.1.022, II, do CPC/2015.
+No tocante à condenação em honorários advocatícios do ente público, em razão do parcial provimento da exceção de pré-executividade, a parte ora recorrente opôs embargos de declaração, nos quais sustentou que o decisum teria incorrido em negativa de prestação jurisdicional, nos seguintes termos (fl. 403):
+I.3-DA OMISSÃO -AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA
+Não obstante, as omissões supracitadas, convém destacar que, embora tenha o r. acórdão reconhecido a aplicação da legislação mais benéfica, reduzindo a multa de 50% para 25%, deixou de fixar os honorários de sucumbência sobre o êxito apurado pela embargante, nos termos do art. 85, §3º do CPC.
+Todavia, o Tribunal de origem não apreciou a questão suscitada (cf. fl. 410/416). Em outras palavras, o Tribunal de origem quedou-se silente sobre tais argumentações, rejeitando os pertinentes aclaratórios da parte ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial por violação do art. 1.022 do CPC, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
+EMENTA
