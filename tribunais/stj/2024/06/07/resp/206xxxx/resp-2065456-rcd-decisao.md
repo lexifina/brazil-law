@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por HENRY CHIARADIA GUEDES, contra decisão monocrática que reconheceu a intempestividade do recurso de apelação do assistente de acusação e, consequentemente, não apreciou a dosimetria da pena imposta pelo Tribunal de Justiça de São Paulo (TJSP).
+O recorrente sustenta, inicialmente, que a manifestação do assistente de acusação foi intempestiva, uma vez que a petição foi protocolada fora do prazo legal. Além disso, alega que o documento juntado pelo assistente para comprovar a existência de feriado local é absolutamente inidôneo.
+A decisão monocrática deste relator havia reconhecido a intempestividade do recurso de apelação do assistente, mas oportunizou que o assistente do Ministério Público comprovasse, perante o TJSP, a existência do feriado local que justificasse a postergação do prazo recursal.
+No entanto, após intimação pelo TJSP, o assistente de acusação apresentou manifestação fora do prazo e juntou documento inadequado para comprovar o feriado local. A defesa do recorrente reiterou esses pontos ao Desembargador Relator, que remeteu novamente os autos ao STJ sem considerar os argumentos expendidos.
+A defesa argumenta que todos os documentos necessários para verificar a intempestividade estão nos autos eletrônicos e que a questão da intempestividade pode ser prontamente averiguada nos referidos documentos.
+Alternativamente, a defesa requer que este Superior Tribunal de Justiça reconheça a intempestividade da manifestação do assistente de acusação e a inidoneidade do documento por ele juntado. Caso não seja esse o entendimento, pede a remessa dos autos ao TJSP para que lá se faça tal juízo.
+Por fim, a defesa sustenta que a apelação intempestiva do assistente de acusação resultou no aumento desproporcional da pena do recorrente, e que a revisão da dosimetria da pena ficará prejudicada caso seja confirmada a intempestividade.
+É o relatório. Decido.
+Verifica-se, desde logo, que, em se tratando de pedido de reconsideração, não merece ser conhecido, na medida em que, em homenagem aos princípios da economia processual, da celeridade processual e da fungibilidade recursal, é entendimento do Superior Tribunal de Justiça que o pedido de reconsideração de decisões monocráticas legalmente previsto é o agravo regimental, cujo prazo para apresentação é de 5 (cinco) dias, contados da publicação da decisão agravada (RCD no HC 439.853/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018; RCD no HC 412.463/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/10/2017, DJe 09/10/2017; e RCD no REsp 1617086/PR, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 09/05/2018, DJe 21/05/2018).
+Ante o exposto, não conheço do pedido de reconsideração.
+Devolva-se os autos para o tribunal de origem a fim de proceder o julgamento do recurso de apelação como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
