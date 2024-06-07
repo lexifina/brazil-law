@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Agravo em Execução Penal Indeferimento de remição da pena pelo estudo Aprovação parcial no "ENEM" Artigo 126, parágrafo 5º, da Lei de Execução Penal e Resolução nº 391/2021 do CNJ Reprovação em uma das cinco áreas do conhecimento avaliadas no exame Desempenho insuficiente à benesse Inteligência da Portaria 179/2014do INEP Precedente desta Colenda Câmara do E. Tribunal de Justiça Decisão reformada Recurso de agravo em execução provido.
+Paciente cumpre pena na Penitenciária de Pracinha. O magistrado de primeira instância, após requerimento, reconheceu a remição parcial de 104 dias por estudo com base na aprovação de uma ou mais áreas do conhecimento do Exame Nacional para certificação de competência de jovens e adultos (ENCCEJA).
+No entanto, o Tribunal de Justiça, após agravo do Ministério Público, modificou a decisão sob o seguinte argumento:
+ ..  ele não superou a nota mínima em uma das cinco áreas do conhecimento, portanto, sequer logrou a aprovação no referido exame. .. Não vislumbro a menor possibilidade de interpretação dos textos legais acima colacionados de forma distinta da literal. Em que pese os louváveis esforços do agravante para a realização da prova, o fato é que ele não foi aprovado, eis que não atingiu a nota mínima exigida  ..  (e-STJ fls. 70-71).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal em sua liberdade, pois lhe foi negado a remição parcial, apesar de ter sido aprovado em algumas disciplinas do ENCCEJA.
+Ao final, requer a concessão da ordem para reestabelecer a decisão de primeira instância.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, vislumbro flagrante ilegalidade capaz de fundamentar a concessão da ordem de ofício.
+O entendimento pacífico desta Corte é no sentido de que a aprovação parcial, em somente algumas matérias, no ENCCEJA é suficiente para que se conceda a remição parcial de pena por estudo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO EM TRÊS ÁREAS DE CONHECIMENTO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E ADULTOS (ENCCEJA/NÍVEL FUNDAMENTAL). ART. 126 DA LEP. RECOMENDAÇÃO N. 44/2013 DO CNJ. BASE DE CÁLCULO. ART. 24, I, DA LEI 9.394/1996. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. O art. 126 da Lei de Execução Penal determina que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, também por estudo, parte do tempo de execução da pena.
+2. Esta Corte Superior de Justiça tem admitido a possibilidade de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP.
+3. A Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental - Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ou médio - Exame Nacional do Ensino Médio (ENEM), incentivando os apenados aos estudos, bem como à sua readaptação ao convívio social.
+4. Dessa forma, tomando-se como base de cálculo 50% da carga horária definida legalmente para o ensino fundamental, ou seja, 1.600 horas, deve-se dividir esse total por 12 (1 dia de pena a cada 12 horas de estudo), que resultam em 133 dias remidos, em caso de aprovação em todas as áreas de conhecimento do exame. Serão devidos, portanto, 26 dias de remição para cada uma das cinco áreas de conhecimento. Logo, como a paciente obteve aprovação parcial, ou seja, em três áreas de conhecimento, a remição deve corresponder a 78 dias remidos.
+5. Agravo regimental parcialmente provido para reconhecer a remição de 78 dias de pena da paciente, relativos à sua aprovação em 3 áreas de conhecimento no ENCCEJA (Ensino Fundamental).
+(AgRg no HC n. 773.888/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022 - grifos acrescidos).
+No caso, o paciente teve aprovação parcial no ENCCEJA, conforme destacou o Magistrado de primeira instância:
+ .. . Neste caso, o documento demonstra que o sentenciado prestou Encceja de ensino fundamental e atingiu as seguintes notas: ciências naturais - 109; história e geografia - 102; língua portuguesa, língua estrangeira moderna, artes, educação física e redação - 101;matemática - 85; e, redação - 6. Neste caso, o sentenciado atingiu a remição parcial em 04 (quatro) áreas de conhecimento  ..  (e-STJ fl. 34).
+Portanto, o acórdão, ao negar a remição ao paciente tão somente com o argumento de que não teve aprovação integral no mencionado exame, impôs-lhe constrangimento ilegal, que deve ser sanado.
+Ante o exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem de ofício para reestabelecer a decisão de primeira instância, que declarou remidos 104 dias de pena do paciente pela aprovação parcial e estudo no ENCCEJA.
+Comunique-se, com urgência , o teor dessa decisão ao Tribunal e ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
