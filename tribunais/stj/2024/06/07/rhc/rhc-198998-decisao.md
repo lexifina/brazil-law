@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado (e-STJ Fl.218):
+EMENTA: HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA (ART. 2º DA LEI Nº12.850/13).TESE DE CARÊNCIA DE FUNDAMENTAÇÃO DAPRISÃO PREVENTIVA E AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 312, DO CÓDIGO DE PROCESSO PENAL. INOCORRÊNCIA. DECISÃO DEVIDAMENTE FUNDAMENTADA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. PACIENTE APONTADO COMO INTEGRANTE DA ORGANIZAÇÃO CRIMINOS AGUARDIÕES DO ESTADO. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INAPLICABILIDADE. CONDIÇÕES PESSOAIS POR SI SÓS SÃO INSUFICIENTES PARA AUTORIZAR A CONCESSÃO DA LIBERDADE PROVISÓRIA. PLEITO DE PRISÃO DOMICILIAR POR SER PACIENTE GENITOR DE FILHO MENOR DE 01 (UM) ANO DE IDADE. NÃO CONHECIMENTO. AUSÊNCIA DE MANIFESTAÇÃO DO JUÍZOA QUO ACERCA DA MATÉRIA. SUPRESSÃO DE INSTÂNCIA. ANÁLISE DE OFÍCIO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS PELO ART.318, DO CPP. PACIENTE QUE NÃO COMPROVOU SER IMPRESCINDÍVEL AOS CUIDADOS DO INFANTE. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+Imputa-se ao recorrente a prática do crime de organização criminosa.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+4. Destaque-se que, de acordo com os relatos dos autos, o paciente, supostamente, é integrante da organização criminosa "Guardiões do Estado" - GDE, sendo conhecido como "Irmão Coringa", utilizando o terminal (88) 9610-0067 para encaminhar mensagens para os integrantes do Whatsapp "MP SERTÃOCENTRAL - MÊS 11", cujos membros tratavam de assuntos relacionados à organização criminosa "GDE", conforme degravação de diálogos e prints de telas acostados às fls. 90/92.
+(..)
+9.
+Quanto ao requerimento de concessão de prisão domiciliar, verifica-se que o impetrante não comprovou a prévia submissão da matéria ao juízo de origem, inviabilizando o não conhecimento do writ neste ponto, pois é sólido o entendimento jurisprudencial de que, ausente a interposição do pedido objeto da ordem de habeas corpus perante a autoridade impetrada, é defeso ao Órgão Colegiado o seu conhecimento, sob pena de incidir em indevida supressão de instância.10.
+Nesse ponto, cumpre destacar, que o simples fato e o paciente ser pai de uma criança com menos de 01 (um) ano de idade, cuja certidão de nascimento encontra-se colacionada à fl. 14, por si só, não basta para a concessão do pleito, sendo necessário analisar também as peculiaridades do caso concreto.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a segregação encontra-se bem fundamentada.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Com efeito, certo é que a existência de organização criminosa impõe a necessidade de interromper a atuação de seus integrantes como garantia da ordem pública (AgRg no HC 793.651/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC 790.898/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+Por fim, verifica-se que a questão relativa à paternidade não foi debatida na instância de origem, a evidenciar que seu conhecimento representa indevida supressão de instância.
+Ademais, o fato de ser o paciente pai de crianças menores de 12 anos não altera tal quadro, haja vista que "Na hipótese, o recorrente limitou-se a demonstrar a paternidade da criança, além do trabalho que exercia, sem, contudo, comprovar ser indispensável aos seus cuidados, bem como o pagamento das despesas rotineiras do vínculo familiar existente." (AgRg no RHC 157433 / SP, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 08/03/2022, DATA DA PUBLICAÇÃO/FONTE DJe 11/03/2022)
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
