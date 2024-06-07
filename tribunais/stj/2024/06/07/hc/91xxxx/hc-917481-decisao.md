@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+APELAÇÃO CRIMINAL - Autoria e materialidade delitiva comprovadas Decisão condenatória que se impõe Impossibilidade de absolvição ou desclassificação Penas readequados - Regime prisional fixado com critério - Recursos defensivos parcialmente providos.
+O paciente foi condenado às penas de 06 anos e 08 meses de reclusão, no regime inicial fechado, e pagamento de 680 dias-multa, pela prática do crime de tráfico de drogas, previsto no art. 33, caput, da Lei nº 11.343/06.
+Narra a denúncia que:
+MAICON LACERDA DOS SANTOS, qualificado a fls. 13, agindo em concurso de pessoas e unidade de desígnios, transportavam, para fins de tráfico, 04 (quatro) invólucros plásticos contendo "Cannabis Sativa L", popularmente conhecida como "maconha", com peso líquido de 1.009,8g (um mil e nove gramas e oito decigramas), substância entorpecente que causa dependência física e psíquica, sem autorização e em desacordo com determinação legal e regulamentar (boletim de ocorrência a fls. 06/09; auto de exibição e apreensão a fls. 14/15; laudo de constatação preliminar a fls. 49/51).
+A defesa alega, em síntese: a) seria caso de reconhecimento e aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei de Drogas, argumentando que "em momento algum se apontou a qualquer mínimo indício sequer de que o acusado integrasse organização criminosa. Tanto é assim que se quer restou denunciado pelo crime do art. 35 da Lei de Drogas" (e-STJ fl. 5); e b) "verifica-se que a negativa ao redutor se justificou em mera presunção decorrente, em isolado, da quantidade de maconha apreendida, ignorando-se, ainda, a admissão da condição de usuário desde a origem" (e-STJ fl. 5).
+Ao final, requer a concessão da ordem para que seja aplicada a minorante do §4º do art. 33 da Lei de Drogas, no grau máximo, fixado o regime aberto para cumprimento da pena e substituída a pena corporal nos moldes do art. 44, I, do Código Penal.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+No caso, verifica-se que o acórdão do julgamento da apelação foi publicado em 27/05/2024, estando no prazo para interposição do recurso cabível.
+Assim, a nalisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
