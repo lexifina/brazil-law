@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+DIREITO PENAL E PROCESSO PENAL. AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA QUE NÃO CONHECEUHABEAS CORPUSUTILIZADO COMO SUCEDÂNEO RECURSAL. DECISÃO QUE RECUSOU HOMOLOGAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL. CABIMENTO DO RECURSO EM SENTIDO ESTRITO, TAMBÉM MANEJADO PELA PARTE. ALEGAÇÃO DE POSSIBILIDADE DE UTILIZAÇÃO DO REMÉDIO CONSTITUCIONAL COMO INSTRUMENTO DECOLLATERAL ATTACK. TESE DOUTRINÁRIA QUE NÃO POSSUI A DIMENSÃO PRETENDIDA PELA PARTE E COEXISTE COM OS PRECEDENTES QUE LIMITAM A UTILIZAÇÃO DOWRITPARA HIPÓTESE EM QUE NÃO EXISTE RECURSO ESPECÍFICO. INEXISTÊNCIA, ADEMAIS, DE FLAGRANTE ILEGALIDADE NA DECISÃO DE PRIMEIRA INSTÂNCIA QUE PERMITISSE A CONCESSÃO DA ORDEM DEHABEAS CORPUSDE OFÍCIO. AGRAVANTE QUE INTERPÔS RECURSO EM SENTIDO ESTRITO, NO QUAL A DECISÃO QUE REJEITOU A HOMOLOGAÇÃO DO ACORDO JÁ FOI DEVIDAMENTE ANALISADA. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Imputa-se ao recorrente a prática do crime de tráfico privilegiado (art. 33, §4º, da Lei nº 11.343/06). Em 21 de agosto de 2019, foi condenado em primeira instância, à pena de 2 anos e 6 meses. Porém, o Ministério Público, conferindo efeitos retroativos, ofereceu ANPP ao recorrente, que o aceitou. Ocorre que o Magistrado de primeira instância não homologou o acordo sob o argumento de que não se pode conferir efeitos retroativos às disposições legais do ANPP após o oferecimento da denúncia.
+O recorrente impetrou habeas corpus ao Tribunal de Justiça, que não o conheceu por entender que a decisão de não homologação de ANPP não poderia ser atacada por essa via, já que há recurso específico (recurso em sentido estrito).
+A defesa alega, em síntese, que o recorrente está sofrendo constrangimento ilegal, pois o entendimento do STF é no sentido de que é possível conferir efeitos retroativos ao ANPP e o Magistrado não homologou sem se ater aos critérios do §5º e §7º do art. 28-A do CPP.
+Ao final, requer o provimento do recurso para homologar o acordo de não persecução penal.
+É o relatório.
+Decido.
+Conforme se extrai do acórdão combatido, a matéria relativa à homologação ou não do ANPP não foi apreciada no acórdão impugnado, uma vez que esse sequer conheceu da impetração, por entender que não era cabível o habeas corpus diante da existência de um recurso específico, o recurso em sentido estrito.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, que justifique a concessão de ofício do habeas corpus.
+Ressalte-se que, quando do julgamento do agravo regimental no habeas corpus nº 866.219, impetrado pelo recorrente contra a decisão monocrática do desembargador relator que indeferiu a liminar no presente habeas corpus, a col. 5ª Turma do STJ já havia concluído pela inexistência de flagrante com a seguinte fundamentação:
+ .. . Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 59):
+E, o mais relevante neste momento, é que não vislumbro periculum in mora para que se conceda ordem de habeas liminarmente, para que o acordo de não persecução penal seja desde logo homologado.
+ ..
+No entanto, nos Autos n.º 0000848-96.2019.8.16.0196, o paciente foi condenado ao cumprimento de pena privativa de liberdade em regime aberto, que foi substituída por duas penas restritivas de direitos, e o paciente está preso no momento, cumprindo pena definitiva de 5 anos de reclusão, em regime fechado, imposta em autos diversos (0007040-46.2018.8.16.0013), sendo que eventual homologação de ANPP nos autos 0000848-96.2019.8.16.0196 não traria nenhuma alteração prática no momento em relação a sua liberdade de locomoção, tendo em vista o teor do artigo 76 do Código Penal.
+Não se constata, desta forma, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final  ..  (p. 02 do acórdão).
+Ante o exposto, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
