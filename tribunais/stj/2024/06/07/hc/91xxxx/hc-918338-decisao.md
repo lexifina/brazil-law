@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de CLEBIO DE OLIVEIRA LIMA, impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2130466-14.2024.8.26.0000.
+Consta nos autos que o paciente foi preso em flagrante delito no dia 07/05/2024, convertida a custódia em prisão preventiva, pela suposta prática do crime tipificado no art. 157, § 2º, inciso II e § 2º-A, inciso I, do Código Penal.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas presentes razões, sustenta-se a inexistência dos requisitos autorizadores da prisão preventiva e a ausência de fundamentação idônea do decreto prisional.
+Alega-se que o custodiado é portador de condições pessoais favoráveis, sendo suficiente a imposição de medidas cautelares diversas da prisão.
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva do paciente ou a substituição da custódia por medidas cautelares alternativas.
+É o relatório.
+DECIDO.
+De início, destaco que
+ a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Passo, portanto, a analisar diretamente o mérito do writ.
+No caso, o Juízo de primeiro grau, ao converter a prisão em flagrante em preventiva, amparou-se nas seguintes razões de decidir (fl. 60):
+Trata-se de delito cuja pena máxima suplanta quatro anos, com gravidade concreta exacerbada, haja vista o concurso de cinco pessoas e emprego de arma de fogo municiada que, segundo a vítima, era portada pelo autuado, a indicar sua audácia e periculosidade. (grifamos)
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar do paciente (fl. 119):
+Da leitura da r. decisão de fls. 33/35, vislumbra-se que está respaldada nos dados colhidos no caderno investigatório produzido até aquele momento, e dá conta da necessidade da manutenção da custódia antecipada do suplicante, tendo a Magistrada consignado que "Trata-se de delito cuja pena máxima suplanta quatro anos, com gravidade concreta exacerbada, haja vista o concurso de cinco pessoas e emprego de arma de fogo municiada que, segundo a vítima, era portada pelo autuado, a indicar sua audácia e periculosidade.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial reprovabilidade dos fatos, evidenciada a partir da circunstâncias da prática delitiva, o que, nos termos da jurisprudência do Superior Tribunal de Justiça, justifica a prisão processual como forma de resguardar a ordem pública
+Exemplificativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO, FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E USO DE DOCUMENTO FALSO. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. PRISÃO PREVENTIVA. MODUS OPERANDI E REITERAÇÃO DELITIVA. PACIENTE QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO PROCESSUAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA. DECISÃO MANTIDA.
+1. Segundo a pacífica jurisprudência desta Corte, "tendo o agravante permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em Juízo de primeiro grau (AgRg no RHC n. 187.634/MS, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe 18/12/2023)".
+2. No caso, não se verifica o apontado constrangimento ilegal, pois a prisão preventiva do paciente foi decretada a bem da ordem pública, dada a gravidade da conduta praticada, evidenciada no modus operandi e na reiteração delitiva, circunstâncias que justificam a manutenção da prisão preventiva e afastam a possibilidade de substituição por medidas cautelares de natureza diversa.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 193.394/MT, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024 - grifamos).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA E REGISTROS CRIMINAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, a segregação cautelar está devidamente fundamentada na necessidade de garantia da ordem pública, especialmente diante da gravidade concreta do crime (roubo praticado em concurso de agentes e com arma de fogo) e do risco de reiteração delitiva, visto que o réu tem sentença condenatória transitada em julgado e outros feitos em andamento. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+3. Eventuais alegações sobre a inexistência de indícios de autoria do delito deverão ser analisadas na instrução do feito originário e não podem ser conhecidas, diante da necessidade de dilação probatória, providência inviável em habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 184.152/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/11/2023, DJe de 6/12/2023).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/0 5/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
