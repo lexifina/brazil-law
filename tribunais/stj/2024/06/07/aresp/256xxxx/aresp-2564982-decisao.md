@@ -1,0 +1,89 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial por incidência das Súmulas 7/STJ e 284/STF, ausência de ofensas aos arts. 489 e 1.022 do CPC e a fundamentação constitucional alegada no recurso.
+Gilmar Martins dos Santos alega:
+No presente recurso são abordados temas que são objeto do IRDR 22 (processos nº 70085193753) admitido junto a esta Corte Estadual.
+ ..
+Assim, o acórdão proferido pelo TJRS deverá ser ANULADO DE OFÍCIO, por ofensa ao teor do artigo 987, §1º, CPC.
+Caso não seja este o entendimento da nobre Desembargadora, requer a SUSPENSÃO DO RECURSO até o julgamento pelo STJ do recurso manejado contra a decisão proferida no IRDR.
+ ..
+Houve omissão no julgamento dos embargos de declaração, posto que, a despeito dos julgadores do Tribunal a quo terem reconhecido a não caracterização dos vícios apontados, julgaram desacolhidos ditos embargos de declaração.
+ ..
+DO ERRO MATERIAL NO ACÓRDÃO DO EVENTO 24 - EMBARGOS DE DECLARAÇÃO PROPOSTO NO EVENTO 28 SEQUER ANALISADO E FUNDAMENTADO PELO NOBRE DESEMBARGADOR (O CPC DEVE SER CUMPRIDO) - DECISÃO NULA POR OFENSA AO CONTRADITÓRIO, VÍCIO DE FUNDAMENTAÇÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL ARTIGO 489 DO CPC - PRECEDENTES STJ.
+ ..
+ASSIM HÁ OMISSÃO NO JUÍZO DE PRIMEIRO GRAU QUANTO A ANÁLISE DE PROVAS, JÁ QUE NÃO FOI PROVADA A ORIGEM DA DÍVIDA, TAMPOUCO ANEXADO AO FEITO O CONTRATO DE CESSÃO DE DIREITOS VÁLIDO, ASSIM DECISÃO NULA DE PLENO DIREITO, O QUE DESDE JÁ REQUER.
+ ..
+Por fim, entende o ora Recorrente que a matéria está devidamente prequestionada, até mesmo pelo fato de que "para efeito de admissibilidade do recurso especial, se mostra suficiente haja a matéria objeto da impugnação recursal sido implicitamente prequestionada. Em outras palavras, não é necessário que do acórdão local conste expressa referência ao artigo de lei cuja violação se pretenda arguir na via excepcional, bastando tenha havido apreciação da matéria por tal preceito disciplinada".
+Contraminuta às fls.672-694.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24 de maio de 2024.
+O Tribunal de origem registrou (fls.574-579):
+Em suas razões, o recorrente abordou os seguintes pontos:
+a) nulidade por falta de fundamentação/negativa de prestação jurisdicional: ausência de exame de dispositivos legais e circunstâncias tidos como indispensáveis ao correto desfecho da causa, mesmo após a oposição de embargos de declaração;
+b) impositiva reforma do julgado recorrido - procedência dos pedidos declaratório e indenizatório formulados na demanda - origem do débito a si atribuído não comprovada - indevida inscrição de seu nome em cadastro de inadimplentes de órgão de proteção ao crédito;
+c) insuficiente e má valoração dos elementos de prova contidos nos autos.
+Alegou violação aos seguintes dispositivos: art. 93, inc. IX, da Constituição Federal; arts. 489, § 1º, inc. IV, e 1.022 do Código de Processo Civil. Invocou dissídio jurisprudencial. Requereu o provimento do recurso.
+ ..
+A alegação de ofensa a dispositivo constitucional foi deduzida em sede imprópria. No modelo recursal resultante da reforma operada no Poder Judiciário pelo legislador constituinte, que cindiu a instância extraordinária, o contencioso constitucional rende ensejo à interposição de recurso extraordinário ao Supremo Tribunal Federal, esgotando-se a finalidade do recurso especial ao Superior Tribunal de Justiça na tutela da autoridade e unidade do direito federal consubstanciado na lei comum. Assim, arguições nesse sentido só podem ser objeto de recurso extraordinário dirigido ao Supremo Tribunal Federal, a quem compete a guarda da Lei Maior.
+ ..
+De outra parte, em que pese a irresignação manifestada, resguardado de qualquer ofensa está o art. 1.022 do Código de Processo Civil, haja vista que ofensa somente ocorre quando o acórdão contém erro material e/ou deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é corrigir eventual incorreção material do acórdão ou complementá-lo, quando identificada omissão, ou, ainda, aclará-lo, dissipando obscuridade ou contradição.
+ ..
+Quanto aos demais dispositivos de lei federal tidos como violados, igualmente não se vislumbra êxito na pretensão deduzida, pois outra não é a conclusão senão a de que a reforma do acórdão recorrido com a desconstituição de suas premissas, nos termos em que pretendida, demanda necessária incursão no conjunto fático-probatório dos autos, o que, contudo, é vedado em âmbito de recurso especial, a teor do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Conclui-se que não foram impugnados os fundamentos de incidência da Súmula 7/STJ e de que as alegações de violação ao art. 93, IX, da Constituição Federal, foram deduzidas em via imprópria, o que atrai a incidência da Súmula 182/STJ. Veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação ao não cabimento do REsp quando a tese recursal é eminentemente constitucional, Súmula 83/STJ e Súmula 7/STJ. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial, precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida a impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, embora autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC e a Súmula 182 do STJ, aplicável por analogia.
+5. Em nova análise do agravo interposto, vê-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência da Súmula 182 do STJ no caso.
+6. A mera afirmação de que o caso não demanda o reexame de fatos e provas ou então a menção às razões expostas no recurso especial não basta para infirmar a incidência da Súmula 7/STJ. A jurisprudência do STJ entende que, para comprovar a inaplicabilidade desse enunciado sumular, a parte agravante deve realizar o cotejo entre o acórdão recorrido e a tese recursal.
+7. Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, incumbe à parte interessada apontar julgados deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada. Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+8. Inviável a análise de questões atinentes ao mérito do recurso especial que nem sequer ultrapassou o juízo de admissibilidade. Precedentes.
+9. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1.842.229/PR, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 11.5.2023)
+Ademais, ainda que fosse possível superar tais óbices, não se observa a infringência aos arts. 489 ou 1.022 do CPC. Constou do acórdão de fls. 434-439:
+Registre-se, de plano, que incabível a tese recursal de que a sentença revela-se extra petita. Havendo causa de pedir, segundo consta da exordial, vinculada à prescrição de dívida cadastrada na ferramenta Acordo Certo, plenamente adequado o exame do caso com amparo no IRDR do Tema 22, consoante abaixo será pormenorizado.
+Concretamente, é verdade, resta constatada omissão no pronunciamento judicial combatido, frente a ausência de exame do pedido de declaração de inexistência de débito. De toda sorte, não há falar em desconstituição da sentença por vício, bastando a apreciação da questão omissa por este Tribunal, nos termos do art. 1.013, § 3º, III, do CPC.
+E, acerca da falta de lastro às cobranças ditas perpetradas, impende discorrer sobre o direito à prova, eis que imprescindível à questão do convencimento, primordial para a efetivação da prestação jurisdicional.
+O art. 373 do CPC, nos seus incisos, preconiza que, a rigor, incumbe ao autor o ônus da prova quanto ao fato constitutivo de seu direito, enquanto ao réu caberia a demonstração da existência de fato impeditivo, modificativo ou extintivo do direito do demandante.
+Na hipótese em exame, o acervo probatório produzido nos autos não ampara a tese autoral.
+As provas juntadas pela requerida, em contestação, não confortam a tese suscitada pelo demandante, ao contrário, indicam que o autor ficou inadimplente em relação aos serviços pactuados com a requerida (evento 22, PET1 e evento 22, OUT6).
+O demandante, em réplica, a seu turno, no tópico, não rebate as alegações da defesa quanto à existência da contratação e débito, limitando-se a tergiversar acerca da exigibilidade da dívida porque alcançado o prazo da respectiva prescrição, bem como da incidência de danos morais, os quais seriam decorrentes do registro de débito prescrito.
+Forçoso concluir, portanto, que não se pode acolher a pretensão autoral de declaração de inexistência por falta de lastro a amparar a dívida, sobejando o exame da tese vinculada à prescrição do débito.
+E, no ponto, igualmente, razão não assiste ao recorrente.
+O julgamento do Incidente de Resolução de Demandas Repetitivas autuado sob onº 70085193753 (Tema 22) foi firmado o entendimento de inexistência de ilegalidade quanto à inclusão de débito, prescrito na plataforma de renegociação de dívida do Serasa Limpa Nome, tendo restado assim definidas as teses que se aplicam ao caso vertente: Teses definidas:
+1. reconhecida a legalidade da inclusão, no serviço "SERASA LIMPA NOME", de dívidas prescritas;
+2. ausente direito a indenização pelo alegado abalo moral sofrido pela parte devedora que teve sua dívida prescrita incluída na plataforma de negociação.
+3. declarada a ilegitimidade da empresa Serasa para responder demandas que envolvam a (in)existência ou validade do crédito prescrito incluído na referida plataforma.
+O entendimento esposado no incidente é, portanto, no sentido de que o Serasa Limpa Nome é mera plataforma de negociação de dívida quando incluídas as ditas "contas atrasadas" (prescritas), não gerando a divulgação do nome do devedor aos demais fornecedores e não acarretando redução do seu score.
+O serviço em questão não estaria, assim, impondo uma obrigação, mas apenas possibilitando a recuperação de um crédito por meio de uma ferramenta de negociação, que pode o consumidor aceitar ou não, sem consequências negativas; em razão do que tampouco exsurge interesse de agir para a propositura da presente demanda quanto à declaração da prescrição, que não torna o débito inexistente.
+Prescinde, portanto, de pronunciamento judicial a declaração da prescrição, eis que decorre de lei, estando a questão vinculada à pretensão, mas não quanto à obrigação em si, que remanesce.
+Daí porque, partindo-se da premissa de que a inclusão de dívida prescrita na plataforma SERASA LIMPA NOME a fim de realizar acordo é ato lícito, não dando ensejo a abalo de crédito ao consumidor, inviável inferir que o serviço disponibilizado possa gerar ofensa à personalidade do devedor apta a caracterizar dano moral indenizável.
+Embora com nomenclatura diversa, o mecanismo utilizado pela indicada plataforma é o mesmo da ferramenta objeto deste feito, denominada "Acordo Certo", qual seja, negociação de dívidas alegadamente prescritas. A matéria discutida na presente demanda, portanto, é idêntica à temática do Serasa Limpa Nome.
+Nesse passo, considerando que a força vinculante do precedente decorre das razões de decidir, e não das partes ou da denominação da ferramenta, assim como tendo em vista o que prevê o art. 926 do CPC, no sentido de que "os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente", está justificada a extensão da decisão lançado no aludido IRDR às demais demandas que versem sobre esta matéria, como no caso dos autos.
+A matéria em questão foi analisada, de forma completa e fundamentada, pelo Tribunal de origem, sendo que a questão subjacente requereria a reanálise de provas.
+Nessa senda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. AFASTAMENTO DE ÓBICE PROCESSUAL. SERASA LIMPA NOME. SUCUMBÊNCIA. RESPONSABILIDADE CIVIL. DANOS MORAIS. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALÍNEA "C" PREJUDICADA.
+1. Trata-se de Agravo Interno contra decisão monocrática da Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial ante o óbice da Súmula 182/STJ.
+2. Afastado o óbice processual, passa-se ao exame do recurso.
+3. No mérito, a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável nesta Corte, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Agravo Interno provido para, reconsiderando a decisão das fls. 456-459, e-STJ, conhecer do Agravo para não conhecer do Recurso Especial. (AgInt no AREsp 1.936.590/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4.11.2021)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PRESCRITO. PRESCRIÇÃO DA PRETENSÃO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. SERASA LIMPA NOME. RETIRADA DO NOME DO DEVEDOR. DESNECESSIDADE.
+1. Ação de conhecimento, ajuizada em 15/1/2022, da qual foi extraído o presente recurso especial, interposto em 28/2/2023 e concluso ao gabinete em 7/11/2023.
+2. O propósito recursal consiste em determinar se: a) o reconhecimento da prescrição impede a cobrança extrajudicial do débito; e b) a prescrição da dívida impõe a retirada do nome do devedor da plataforma Serasa Limpa Nome.
+3. "Se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada em razão da prescrição, não será mais possível exigir o referido comportamento do devedor, ou seja, não será mais possível cobrar a dívida. Logo, o reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito" (REsp n. 2.088.100/SP, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023).
+4. O chamado "Serasa Limpa Nome" consiste em plataforma por meio da qual credores conveniados informam dívidas - prescritas ou não - passíveis de transação com o objetivo de facilitar a negociação e a quitação de débitos pendentes, normalmente com substanciosos descontos. Não se trata de cadastro negativo e não impacta no score de crédito do consumidor, sendo acessível somente ao credor e ao devedor mediante login e senha próprios.
+5. A prescrição da pretensão não implica a extinção do crédito (direito subjetivo), que continua a existir à espera do adimplemento voluntário ou de eventual renúncia à prescrição.
+6. A prescrição da pretensão não implica a obrigação de retirada do nome do devedor da plataforma Serasa Limpa Nome, pois a mera inclusão não configura cobrança.
+7. Na espécie, merece reforma o acórdão recorrido tão somente no que diz respeito à possibilidade de cobrança extrajudicial de dívida prescrita, pois, nos termos do entendimento já fixado por esta Terceira Turma, não é lícita a referida cobrança, não havendo, todavia, a obrigação de retirada do nome do devedor da plataforma Serasa Limpa Nome.
+8. Recurso especial parcialmente provido para declarar a inexigibilidade judicial e extrajudicial da dívida apontada na inicial em virtude da prescrição. (REsp 2.103.726/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 17.5.2024)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA Nº 7/STJ. VIOLAÇÃO DO ART.1.022 DO CPC/15. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/15, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. Ademais, a conclusão exarada pela instância ordinária, em relação à comprovação do débito e, ainda, ao fato de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor", demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+3. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.952.666/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022).
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, observando-se a concessão do benefício da Justiça Gratuita deferida nos autos.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Advirto a parte sobre a possibilidade de aplicação de multa que será cabível quando houver propósito de protelar a solução da demanda e a duração do processo.
+Publique-se.
+Intimem-se.
+EMENTA
