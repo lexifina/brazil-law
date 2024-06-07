@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.213):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO PROPOSTA CONTRA A CEF E A FUNCEF. INTEGRAÇÃO DA PARCELA DENOMINADA CTVA À SUPLEMENTAÇÃO DE APOSENTADORIA DO BENEFICIÁRIO. ACUMULAÇÃO DE PEDIDOS DE NATUREZA TRABALHISTA E ESTATUTÁRIA. COMPETÊNCIA INICIAL DA JUSTIÇA DO TRABALHO. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, o exame da controvérsia não se restringe à interpretação das normas relacionadas ao regime de previdência complementar, considerando-se a necessidade de se decidir previamente se a parcela do CTVA tem ou não índole salarial e, por conseguinte, se poderia, nesse caso, ter sido excluída do salário de contribuição.
+2. Tratando-se de questão prejudicial afeta à competência da Justiça do Trabalho, devem os autos ser remetidos àquela Justiça Especializada.
+3. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente sustenta a ocorrência de violação dos arts. 114, IX, e 202, § 2º, da CF e aduz haver repercussão geral da matéria tratada.
+Nesse sentido defende que, de acordo com o entendimento do STF, firmado com repercussão geral, no julgamento do RE n. 586.453/SE, a competência para o processamento do feito seria da Justiça comum, argumentando que a ação ostenta natureza previdenciária e foi proposta contra entidade de previdência complementar, a Fundação dos Economiários Federais - FUNCEF, salientando que (fl. 1.266):
+ ..  diante da total autonomia do contrato previdenciário com relação ao contrato de trabalho, a título de argumentação, caso a patrocinadora (no caso a CEF) fosse condenada a pagar algum valor ao demandante, eventuais reflexos na sua complementação de aposentadoria só podem ser discutidos na Justiça Comum.
+Alega, também, que (fl. 1.269):
+Não merecem prosperar os vv. acórdãos recorridos, eis que a relação entre as partes na presente demanda não se origina de contrato de trabalho, isto é, o Recorrido/Autor nunca foi empregado da FUNCEF, pelo que inviável a extensão do vínculo entre aquele e a FUNCEF, ora Recorrente.
+Frise-se, uma vez mais, que a gênese da relação entre as partes que compõem a presente demanda é exclusivamente contratual, pelo que é incompetente a Justiça do Trabalho para julgar demandas de tal natureza.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.285-1.301.
+É o relatório.
+A Suprema Corte, ao julgar o RE n. 1.265.564-RG/SC, firmou o seguinte entendimento (Tema n. 1.166):
+Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada.
+Confira-se, por oportuno, a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. TRABALHISTA. COMPETÊNCIA. PEDIDO DE CONDENAÇÃO DA EMPRESA EMPREGADORA AO PAGAMENTO DE VERBAS TRABALHISTAS E AO CONSEQUENTE REFLEXO DAS DIFERENÇAS SALARIAIS NAS CONTRIBUIÇÕES AO PLANO DE PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INAPLICABILIDADE DO TEMA 190 DA REPERCUSSÃO GERAL. PRECEDENTES. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+(RE n. 1.265.564-RG, relator Ministro Luiz Fux - Presidente, Tribunal Pleno, julgado em 2/9/2021, DJe de 14/9/2021.)
+No caso, ao dirimir a presente controvérsia, o acórdão impugnado concluiu que a Justiça do Trabalho é competente para processar e julgar o presente feito, no qual se pretende o reconhecimento da natureza salarial da parcela do Complemento Temporário Variável de Ajuste de Mercado - CTVA e o consequente reflexo no plano de previdência complementar.
+A propósito, confiram-se os seguintes excertos do julgado recorrido (fls. 1.215-1.217):
+No caso, a demanda ajuizada por ANTONIO CARLOS BARBOSA SOARES (ANTONIO) busca o reconhecimento da natureza salarial de verba denominada CTVA (Complemento Temporário Variável de Ajuste de Mercado) recebida de seu empregador, a CEF, e, como consequência, os reflexos incidentes sobre o custeio de seu plano de previdência suplementar, gerido pela FUNCEF.
+Dessa forma, e considerada a premissa de que a competência para o processamento e julgamento da lide é fixada em razão da natureza da causa, que é definida pelo pedido e pela causa de pedir deduzidos na petição inicial, verifica-se que o exame da controvérsia não se restringe à interpretação das normas relacionadas ao regime de previdência complementar, tendo em vista a necessidade de se decidir previamente se a referida parcela do CTVA tem ou não índole salarial e, por conseguinte, se poderia, nesse caso, ter sido excluída do salário de contribuição, o que, nos termos do art. 114, VI, da Constituição Federal e da jurisprudência do STJ, compete exclusivamente à Justiça Laboral.
+ ..
+Nesse panorama, considerando a natureza de ordem pública da matéria, impõe-se que as pretensões trabalhistas deduzidas contra a CEF sejam analisadas perante a Justiça do Trabalho, uma vez que seu exame é prejudicial à análise daquelas voltadas contra a entidade de previdência - FUNCEF.
+Como consectário dessa compreensão, assim como decidiu o acórdão recorrido, devem os autos ser remetidos à Justiça Laboral, para que examine os pedidos formulados em relação a CEF quando, só então, poderá JORGE, ora agravado, ajuizar nova ação perante a Justiça Comum contra a entidade de previdência privada (FUNCEF) visando obter a inclusão do CTVA na base de cálculo para fins de formação de reserva matemática e poupança para fins de suplementação da aposentadoria.
+A solução para a presente demanda, portanto, não se restringe à interpretação de regras da previdência complementar, sobressaindo a distinção do caso em análise com o decidido no RExt. n. 586.453/SE, com repercussão geral reconhecida, de modo que a decisão agravada não conflita com o precedente da Suprema Corte.
+Corroborando com esse entendimento, vale conferir recentes julgados do Supremo Tribunal Federal:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMANDA AJUIZADA CONTRA O EMPREGADOR. RECONHECIMENTO DE VERBAS DE NATUREZA TRABALHISTA COM REFLEXOS NAS CONTRIBUIÇÕES PARA ENTIDADE DE PREVIDÊNCIA PRIVADA VINCULADA. TEMA 1.166 DA REPERCUSSÃO GERAL.
+1. No caso concreto, o Tribunal Regional Federal da 4ª Região afastou a competência da Justiça do Trabalho para o julgamento desta demanda, na qual a parte autora, ora recorrente, postula a condenação da FUNCEF e da CEF ao recálculo do valor inicial do benefício, mediante a inclusão da verba denominada CTVA na base de cálculo de sua aposentadoria.
+2. No que se refere à alegada incompetência da Justiça Federal para o julgamento da presente demanda, o SUPREMO TRIBUNAL FEDERAL, no RE 1.265.564-RG, Rel. LUIZ FUX, Tema 1.166, DJe 14/9/2021, fixou tese no sentido de que: Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada.
+3. O acórdão recorrido não observou esse entendimento.
+4. Agravo interno a que se nega provimento.
+(ARE n. 1.459.657-AgR, relator Ministro Alexandre de Moraes, Primeira Turma, julgado em 19/12/2023, DJe de 23/1/2024.)
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL E TRABALHISTA. INAPLICABILIDADE DO TEMA N. 190/RG. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. NECESSIDADE DE PRÉVIO DEBATE ACERCA DA NATUREZA DO COMPLEMENTO TEMPORÁRIO VARIÁVEL DE AJUSTE DE MERCADO (CTVA). PRECEDENTES DE AMBAS AS TURMAS DO SUPREMO TRIBUNAL FEDERAL.
+1. Não se aplica à espécie a tese fixada no Tema n. 190 da repercussão geral, uma vez que, ante a necessidade de prévio debate acerca da natureza do Complemento Temporário Variável de Ajuste de Mercado (CTVA), compete à Justiça especializada julgar causas nas quais discutidas verbas trabalhistas com reflexos nas contribuições para entidade de previdência privada. Precedentes de ambas as Turmas do Supremo.
+2. Agravo interno desprovido.
+(RE n. 1.389.529-AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 8/8/2023, DJe de 28/8/2023.)
+Verifica-se, portanto, que o acórdão impugnado está em consonância com a jurisprudência firmada pelo Supremo Tribunal Federal, motivo pelo qual incide o Tema n. 1.166 do STF.
+Ante o exposto, nos termos do art. 1.030, I, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. RECONHECIMENTO DE VERBAS DE NATUREZA TRABALHISTA COM REFLEXOS EM PREVIDÊNCIA PRIVADA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. TEMA N. 1.166 DO STF. NEGATIVA DE SEGUIMENTO.
